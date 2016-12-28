@@ -120,7 +120,12 @@
 
 * **ho**, **haṡ**, **hat**, **habĭamos**, **habetes**, **hanno**
 
-### Formæ Compłexe
+## Formæ Compłexe
 
 * **poṡt** [poi]
+* **ĭntra** [tra]
+* **post-** [pos-]
+* **trans-** [tras-]
 * **plůvĭa** [pioggia]
+* **fas̆ĕolo** [fagiolo]
+* **platĕa** [piazza]
