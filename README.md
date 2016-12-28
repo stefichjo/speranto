@@ -15,6 +15,8 @@
 * **thema** [tema]
 * **echo** [eco]
 
+## ...
+
 * **bene** [bène]
 * **tono** [tòno]
 
@@ -29,21 +31,41 @@
 
 * **åuro** [òro]
 
+## ...
+
 * **calĭdo** [caldo]
 * **matŭtina** [mattina]
 
+### ...
+
 * **maĭo** = **majo** [maggio]
 * **ĭusto** = **justo** [giusto]
+
+### ...
 
 * **volĭo** [voglio]
 * **tolıo** [tolgo]
 * **banĭo** [bagno]
 * **venıo** [vengo]
 
+### ...
+
+* **statĭone** [stazione]
+* **cantıone** [canzone]
+* **pronuntja** [pronuncia]
+* **democratīa** [democrazia]
+* **medıo** [mezzo]
+* **basĭo** [bacio]
+* **stat̯ĭone** [stagione]
+* **format̯ĭc̆o** = **formajo** [formaggio]
+## ...
+
 * **blanco** [bianco]
 * **claro** [chiaro]
 * **flore** [fiore]
 * **pleno** [pieno]
+
+## ...
 
 * **seq̆uire** [seguire]
 * **aq̄ua** [acqua]
@@ -67,6 +89,7 @@
 ### Coniugatĭone
 
 * **ho**, **haṡ**, **hat**
-## ...
+
+### ...
 
 * **poṡt** [poi]
