@@ -55,3 +55,18 @@
 
 * **fungo** > **fungi** [funghi]
 * **parco** > **parci** [parchi]
+
+## ...
+
+* **maṡ** [mai]
+
+* **sic** [sì]
+* **ĭam** = **jam** [già]
+* **libertat** = **libertad** [e]
+
+### Coniugatĭone
+
+* **ho**, **haṡ**, **hat**
+## ...
+
+* **poṡt** [poi]
