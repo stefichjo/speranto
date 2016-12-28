@@ -120,6 +120,10 @@
 
 * **ho**, **haṡ**, **hat**, **habĭamos**, **habetes**, **hanno**
 
+## Altĕri Vocalismi
+
+* **fėnestra** [finestra]
+
 ## Formæ Compłexe
 
 * **poṡt** [poi]
@@ -133,4 +137,7 @@
 * **hodĭĕ** [oggi]
 * **lĕ dico** [gli dico]
 * **lĕ-lo dico** [glielo dico]
+
+* **omnĭ** [ogni]
+* **somnio** [sogno]
 
