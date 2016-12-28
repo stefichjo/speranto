@@ -1,6 +1,7 @@
 # Orthographia
 
-* bene [bèné]
-* tono [tònó]
-* cōn [cón]
-* pēr [pér]
+* **bene** [bèné]
+* **tono** [tònó]
+* **cōn** [cón]
+* **pēr** [pér]
+
