@@ -114,7 +114,7 @@
 
 * **sic** [sì]
 * **ĭam** = **jam** [già]
-* **libertat** = **libertad** [e]
+* **libertat̯** = **libertad** [e]
 
 ### Coniugatĭone
 
