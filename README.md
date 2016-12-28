@@ -1,7 +1,15 @@
 # Orthographia
 
+* **proprii** [propri]
+
 * **nocte** [notte]
 * **optimo** [ottimo]
+* **texto** [testo]
+
+* **systema** [sistema]
+* **photo** [foto]
+* **thema** [tema]
+* **echo** [eco]
 
 * **bene** [bène]
 * **tono** [tòno]
