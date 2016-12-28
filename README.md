@@ -1,12 +1,16 @@
 # Orthographia
 
-* **proprii** [propri]
+* **horarii** [orari]
 
 * **nocte** [notte]
 * **optimo** [ottimo]
 * **texto** [testo]
+* **somno** [sonno]
 
+* **præsto** [presto]
+* **pœna** [pena]
 * **systema** [sistema]
+
 * **photo** [foto]
 * **thema** [tema]
 * **echo** [eco]
@@ -30,5 +34,12 @@
 
 * **maĭo** [maggio]
 * **ĭusto** [giusto]
+
+* **volĭo** [voglio]
+* **tolıo** [tolgo]
+* **banĭo** [bagno]
+* **venıo** [vengo]
+
+
 
 
