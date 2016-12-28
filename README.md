@@ -129,3 +129,8 @@
 * **plůvĭa** [pioggia]
 * **fas̆ĕolo** [fagiolo]
 * **platĕa** [piazza]
+* **ïllĕ** [egli]
+* **hodĭĕ** [oggi]
+* **lĕ dico** [gli dico]
+* **lĕ-lo dico** [glielo dico]
+
