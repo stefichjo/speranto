@@ -3,11 +3,11 @@
 * **bene** [bèné]
 * **tono** [tònó]
 
-* **cōn** [cón]
 * **pēr** [pér]
+* **cōn** [cón]
 
-* **půlso** [pólsó]
 * **pïsce** [péscé]
+* **půlso** [pólsó]
 
 * **fẽro** [fièró]
 * **bõno** [buònó]
