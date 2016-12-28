@@ -40,6 +40,8 @@
 * **banĭo** [bagno]
 * **venıo** [vengo]
 
+* **blanco** [bianco]
 
 
-
+* **flore** [fiore]
+* **pleno** [pieno]
