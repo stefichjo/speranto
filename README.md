@@ -6,6 +6,7 @@
 * **optimo** [ottimo]
 * **texto** [testo]
 * **somno** [sonno]
+* **puncto** [punto]
 
 * **op̄tare** [optare]
 
@@ -79,7 +80,6 @@
 * **důplo** [doppio]
 * **copŭla** [coppia]
 
-* **nēbŭla** [nebbia]
 * **macŭla** [macchia]
 
 * **sedŭlo** [sedia]
@@ -90,10 +90,14 @@
 * **seq̆uire** [seguire]
 * **aq̄ua** [acqua]
 
-* **habere** [avere]
-* **habĭamo** [abbiamo]
-* **nubůla** [nuvola]
+* **operar̆io** [operaio]
 
+* **nubůla** [nuvola]
+* **nēbŭla** [nebbia]
+
+* **mēnse** [mese]
+* **mēn̄sile** [mensile]
+* **cōrtēns̆ĭare** = **cōrtējare** [corteggiare]
 
 ## ...
 
@@ -116,6 +120,7 @@
 
 * **ho**, **haṡ**, **hat**, **habĭamos**, **habetes**, **hanno**
 
-### ...
+### Formæ Compłexe
 
 * **poṡt** [poi]
+* **plůvĭa** [pioggia]
