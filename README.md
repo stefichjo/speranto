@@ -41,7 +41,17 @@
 * **venıo** [vengo]
 
 * **blanco** [bianco]
-
-
+* **claro** [chiaro]
 * **flore** [fiore]
 * **pleno** [pieno]
+
+* **seq̆uire** [seguire]
+* **aq̄ua** [acqua]
+
+## ...
+
+* **amico** > **amici** [amici]
+* **porĭco** > **porĭci** [porci]
+
+* **fungo** > **fungi** [funghi]
+* **parco** > **parci** [parchi]
