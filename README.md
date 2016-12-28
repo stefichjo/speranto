@@ -7,8 +7,8 @@
 * **texto** [testo]
 * **somno** [sonno]
 
-* **præsto** [presto]
-* **pœna** [pena]
+* **præsto** = **presto** [presto]
+* **pœna** = **pena** [pena]
 * **systema** [sistema]
 
 * **photo** [foto]
@@ -32,8 +32,8 @@
 * **calĭdo** [caldo]
 * **matŭtina** [mattina]
 
-* **maĭo** [maggio]
-* **ĭusto** [giusto]
+* **maĭo** = **majo** [maggio]
+* **ĭusto** = **justo** [giusto]
 
 * **volĭo** [voglio]
 * **tolıo** [tolgo]
