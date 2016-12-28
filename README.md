@@ -7,6 +7,10 @@
 * **texto** [testo]
 * **somno** [sonno]
 
+* **op̄tare** [optare]
+
+## ...
+
 * **præsto** = **presto** [presto]
 * **pœna** = **pena** [pena]
 * **systema** [sistema]
@@ -29,12 +33,13 @@
 * **fẽro** [fièro]
 * **bõno** [buòno]
 
-* **åuro** [òro]
+* **åŭro** [òro]
 
 ## ...
 
 * **calĭdo** [caldo]
 * **matŭtina** [mattina]
+* **qŭe** [che]
 
 ### ...
 
@@ -63,16 +68,32 @@
 ## ...
 
 * **blanco** [bianco]
-* **claro** [chiaro]
+* **cluso** [chiuso]
 * **flore** [fiore]
 * **pleno** [pieno]
 
 * **incłuso** [incluso]
 
+### ...
+
+* **důplo** [doppio]
+* **copŭla** [coppia]
+
+* **nēbŭla** [nebbia]
+* **macŭla** [macchia]
+
+* **sedŭlo** [sedia]
+* **vetŭlo** [vecchio]
+
 ## ...
 
 * **seq̆uire** [seguire]
 * **aq̄ua** [acqua]
+
+* **habere** [avere]
+* **habĭamo** [abbiamo]
+* **nubůla** [nuvola]
+
 
 ## ...
 
@@ -85,6 +106,7 @@
 ## ...
 
 * **maṡ** [mai]
+* **seẋ** [sei]
 
 * **sic** [sì]
 * **ĭam** = **jam** [già]
@@ -92,7 +114,7 @@
 
 ### Coniugatĭone
 
-* **ho**, **haṡ**, **hat**
+* **ho**, **haṡ**, **hat**, **habĭamos**, **habetes**, **hanno**
 
 ### ...
 
