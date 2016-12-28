@@ -1,14 +1,26 @@
 # Orthographia
 
-* **bene** [bèné]
-* **tono** [tònó]
+* **nocte** [notte]
+* **optimo** [ottimo]
+
+* **bene** [bène]
+* **tono** [tòno]
 
 * **pēr** [pér]
 * **cōn** [cón]
 
-* **pïsce** [péscé]
-* **půlso** [pólsó]
+* **pïsce** [pésce]
+* **půlso** [pólso]
 
-* **fẽro** [fièró]
-* **bõno** [buònó]
+* **fẽro** [fièro]
+* **bõno** [buòno]
+
+* **åuro** [òro]
+
+* **calĭdo** [caldo]
+* **matŭtina** [mattina]
+
+* **maĭo** [maggio]
+* **ĭusto** [giusto]
+
 
