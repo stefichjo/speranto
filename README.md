@@ -58,12 +58,16 @@
 * **basĭo** [bacio]
 * **stat̯ĭone** [stagione]
 * **format̯ĭc̆o** = **formajo** [formaggio]
+* **laxĭare** [lasciare]
+
 ## ...
 
 * **blanco** [bianco]
 * **claro** [chiaro]
 * **flore** [fiore]
 * **pleno** [pieno]
+
+* **incłuso** [incluso]
 
 ## ...
 
