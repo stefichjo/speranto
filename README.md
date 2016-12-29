@@ -1,5 +1,7 @@
 # Orthographia
 
+## Assimilatĭoni
+
 * **horarii** [orari]
 
 * **nocte** [notte]
@@ -20,7 +22,7 @@
 * **thema** [tema]
 * **echo** [eco]
 
-## ...
+## Vocalismi
 
 * **bene** [bene]
 * **tono** [tono]
@@ -36,30 +38,57 @@
 
 * **åŭro** [oro]
 
-### Exempli
+### ō
+
+* **fōrma** [forma]
+* **cōrte** [corte]
+* **sōle** [sole]
+
+### ů
+
+* **můlto** [molto]
+* **můndo** [mondo]
+
+### õ
 
 * **hõmo** [uomo]
 * **fõco** [fuoco]
+* **fõri** [fuori]
 
-## ...
+### ẽ
+
+* **tẽpido** [tiepido]
+
+### ï
+
+* **sïgno** [segno]
+* **capïllo** [capello]
+* **ïntro** [entro]
+* **mïno** [meno]
+
+### ē
+
+* **tēla** [tela]
+
+## ĭ ŭ
 
 * **calĭdo** [caldo]
 * **matŭtina** [mattina]
 * **qŭe** [che]
 
-### ...
+### ĭ Intervocale
 
 * **maĭo** = **majo** [maggio]
 * **ĭusto** = **justo** [giusto]
 
-### ...
+### lı, nı
 
 * **volĭo** [voglio]
 * **tolıo** [tolgo]
 * **banĭo** [bagno]
 * **venıo** [vengo]
 
-### ...
+### tı, dı, sĭ, xĭ
 
 * **statĭone** [stazione]
 * **cantıone** [canzone]
@@ -71,7 +100,7 @@
 * **format̯ĭc̆o** = **formajo** [formaggio]
 * **laxĭare** [lasciare]
 
-## ...
+## l, ł
 
 * **blanco** [bianco]
 * **cluso** [chiuso]
@@ -155,7 +184,8 @@
 
 * **gratĭæ** [grazie]
 * **cappello** [cappello]
-* **capïllo** [capello]
+
 * **de̊post** [dopo]
 
-* **sïgno** [segno]
+
+* **dĭůrno** [giorno]
