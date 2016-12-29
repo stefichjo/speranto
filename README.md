@@ -22,19 +22,24 @@
 
 ## ...
 
-* **bene** [bène]
-* **tono** [tòno]
+* **bene** [bene]
+* **tono** [tono]
 
-* **pēr** [pér]
-* **cōn** [cón]
+* **pēr** [per]
+* **cōn** [con]
 
-* **pïsce** [pésce]
-* **půlso** [pólso]
+* **pïsce** [pesce]
+* **půlso** [polso]
 
-* **fẽro** [fièro]
-* **bõno** [buòno]
+* **fẽro** [fiero]
+* **bõno** [buono]
 
-* **åŭro** [òro]
+* **åŭro** [oro]
+
+### Exempli
+
+* **hõmo** [uomo]
+* **fõco** [fuoco]
 
 ## ...
 
@@ -119,10 +124,15 @@
 ### Coniugatĭone
 
 * **ho**, **haṡ**, **hat**, **habĭamos**, **habetes**, **hanno**
+* **do**, **daṡ**, **dat**, **diamos**, **dates**, **danno**
+* **sto**, **staṡ**, **stat**, **stiamos**, **states**, **stanno**
+* **sono**, **seṡ**, **est**, **siamos**, **sietes**, **sono**
+
 
 ## Altĕri Vocalismi
 
 * **fėnestra** [finestra]
+* **de̊mandare** [domandare]
 
 ## Formæ Compłexe
 
@@ -135,9 +145,17 @@
 * **platĕa** [piazza]
 * **ïllĕ** [egli]
 * **hodĭĕ** [oggi]
+* **hẽri** [ieri]
 * **lĕ dico** [gli dico]
 * **lĕ-lo dico** [glielo dico]
-
+* **lĭ** [gli]
 * **omnĭ** [ogni]
 * **somnio** [sogno]
 
+
+* **gratĭæ** [grazie]
+* **cappello** [cappello]
+* **capïllo** [capello]
+* **de̊post** [dopo]
+
+* **sïgno** [segno]
