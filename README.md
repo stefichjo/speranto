@@ -133,8 +133,7 @@
 * **mēn̄sile** [mensile]
 * **cōrtēns̆ĭare** = **cōrtējare** [corteggiare]
 
-## ...
-
+## ic
 * **amico** > **amici** [amici]
 * **porĭco** > **porĭci** [porci]
 
