@@ -116,26 +116,29 @@
 * **maĭo** = **majo** [maggio]
 * **ĭusto** = **justo** [giusto]
 
-### lı, nı
+### ĭ Assimilata
 
+* **basĭo** [bacio]
 * **familĭa** [famiglia]
-* **tolıo** [tolgo]
 * **banĭo** [bagno]
-* **venıo** [vengo]
-
-### tı, dı, sĭ, xĭ
-
 * **statĭone** [stazione]
+* **laxĭare** [lasciare]
+* **stat̯ĭone** [stagione]
+
+### ı
+
+* **tolıo** [tolgo]
+* **venıo** [vengo]
 * **cantıone** [canzone]
+* **medıo** [mezzo]
+
+### j, ī
+
 * **pronuntja** [pronuncia]
 * **democratīa** [democrazia]
-* **medıo** [mezzo]
-* **basĭo** [bacio]
-* **stat̯ĭone** [stagione]
 * **format̯ĭc̆o** = **formajo** [formaggio]
-* **laxĭare** [lasciare]
 
-## l, ł
+## ł
 
 * **blanco** [bianco]
 * **cluso** [chiuso]
