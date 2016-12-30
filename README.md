@@ -7,10 +7,16 @@
 * **nocte** [notte]
 * **optimo** [ottimo]
 * **texto** [testo]
+* **exame** [esame]
+* **luxo** [lusso]
 * **somno** [sonno]
 * **puncto** [punto]
 
 * **op̄tare** [optare]
+
+### x
+
+* **exito** [esito]
 
 ## ...
 
@@ -21,6 +27,10 @@
 * **photo** [foto]
 * **thema** [tema]
 * **echo** [eco]
+
+### æ
+
+* **cælo** [celo]
 
 ## Vocalismi
 
@@ -61,11 +71,16 @@
 * **hõmo** [uomo]
 * **fõco** [fuoco]
 * **fõri** [fuori]
+* **cõre** [cuore]
+* **dõmo** [duomo]
+* **sõra** [suora]
+* **sõno** [suono]
 
 ### ů
 
 * **můlto** [molto]
 * **můndo** [mondo]
+* **secůndo** [secondo]
 
 ### ō
 
@@ -164,18 +179,50 @@
 * **ĭam** = **jam** [già]
 * **libertat̯** = **libertad** [e]
 
+### Pronomi
+
+* **ėo**, **tu**, **ïllĕ**, **noṡ**, **voṡ**, **loro**
+* **mė**, **tė**, **lĕ**, **cė**, **vė**
+
 ### Coniugatĭone
+
+* **amo**, **amṡ**, **amat**, **amiamos**, **amates**, **amano**
+* **vïdo**, **vïdṡ**, **vïdet**, **vïdiamos**, **vïdetes**, **vïdono**
+* **vinco**, **vincṡ**, **vincet**, **vinciamos**, **vincetes**, **vincino**
+* **sento**, **sentṡ**, **sentet**, **sentiamos**, **sentetes**, **sentono**
+
+#### are
+
+* **porto**, **portṡ**, **portat**, **portiamos**, **portates**, **portano**
+* **lïgo**, **lïgṡ**, **lïgat**, **lïgiamos**, **lïgates**, **lïgano**
+
+#### ēre
+
+* **tenıo**, **tẽnṡ**, **tẽnet**, **teniamos**, **tenetes**, **tenıono**
+
+#### ere
+
+* **vendo**, **vendṡ**, **vendet**, **vendiamos**, **vendetes**, **vendono**
+
+#### ire
+
+* **parto**, **partṡ**, **partet**, **partiamos**, **partites**, **partono**
+
+#### Verbi Auxiliari et̯  Irregůlari
 
 * **ho**, **haṡ**, **hat**, **habĭamos**, **habetes**, **hanno**
 * **do**, **daṡ**, **dat**, **diamos**, **dates**, **danno**
 * **sto**, **staṡ**, **stat**, **stiamos**, **states**, **stanno**
 * **sono**, **seṡ**, **est**, **siamos**, **sietes**, **sono**
-* **tenıo**, **tẽnṡ**, **tẽnet**, **teniamos**, **tenetes**, **tenıono**
-* **porto**, **portṡ**, **porta**, **portiamos**, **portates**, **portano**
+* **vado**, **vaṡ**, **vat**, **andiamos**, **andates**, **vanno**
+* **exĭsco**, **exĭscṡ**, **exĭscet**, **ěxĭamos**, **ěxītes**, **exĭscono**
+* **dēbo**, **dēbṡ**, **dēbet**, **de̊bĭamos**, **de̊betes**, **dēbono**
+* **potso**, **põṡ**, **põt**, **potsiamos**, **potetes**, **potsono**
+
 ## Altĕri Vocalismi
 
 * **fėnestra** [finestra]
-* **de̊mandare** [domandare]
+* **de̊manda** [domanda]
 
 ## Formæ Compłexe
 
@@ -186,18 +233,13 @@
 * **plůvĭa** [pioggia]
 * **fas̆ĕolo** [fagiolo]
 * **platĕa** [piazza]
-* **ïllĕ** [egli]
 * **hodĭĕ** [oggi]
 * **hẽri** [ieri]
-* **lĕ dico** [gli dico]
-* **lĕ-lo dico** [glielo dico]
-* **lĭ** [gli]
 * **omnĭ** [ogni]
 * **somnio** [sogno]
-
 
 * **gratĭæ** [grazie]
 
 * **de̊post** [dopo]
-
+* **praxis** [prassi]
 * **dĭůrno** [giorno]
