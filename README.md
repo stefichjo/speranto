@@ -24,6 +24,10 @@
 * **acto** [atto]
 * **pacto** [patto]
 
+### pt
+
+* **apto** [atto]
+
 ### x
 
 * **exito** [esito]
@@ -269,3 +273,4 @@
 * **perfecto** [perfetto]
 * **dïcto** [detto]
 * **capĭtıo** [cazzo]
+* **hymno** [inno]
