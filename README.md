@@ -38,26 +38,10 @@
 
 * **åŭro** [oro]
 
-### ō
+### ē
 
-* **fōrma** [forma]
-* **cōrte** [corte]
-* **sōle** [sole]
-
-### ů
-
-* **můlto** [molto]
-* **můndo** [mondo]
-
-### õ
-
-* **hõmo** [uomo]
-* **fõco** [fuoco]
-* **fõri** [fuori]
-
-### ẽ
-
-* **tẽpido** [tiepido]
+* **tēla** [tela]
+* **sēra** [sera]
 
 ### ï
 
@@ -66,9 +50,31 @@
 * **ïntro** [entro]
 * **mïno** [meno]
 
-### ē
+### ẽ
 
-* **tēla** [tela]
+* **tẽpido** [tiepido]
+* **mẽle** [miele]
+
+### õ
+
+* **hõmo** [uomo]
+* **fõco** [fuoco]
+* **fõri** [fuori]
+
+### ů
+
+* **můlto** [molto]
+* **můndo** [mondo]
+
+### ō
+
+* **fōrma** [forma]
+* **cōrte** [corte]
+* **sōle** [sole]
+
+### åŭ
+
+* **cåŭsa** [cosa]
 
 ## ĭ ŭ
 
