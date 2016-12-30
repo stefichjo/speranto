@@ -128,7 +128,7 @@
 
 * **macŭla** [macchia]
 
-* **sedŭlo** [sedia]
+* **sedŭla** [sedia]
 * **vetŭlo** [vecchio]
 
 ## ...
