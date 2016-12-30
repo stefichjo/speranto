@@ -105,7 +105,7 @@
 
 ### lı, nı
 
-* **volĭo** [voglio]
+* **familĭa** [famiglia]
 * **tolıo** [tolgo]
 * **banĭo** [bagno]
 * **venıo** [vengo]
@@ -218,6 +218,8 @@
 * **exĭsco**, **exĭscṡ**, **exĭscet**, **ěxĭamos**, **ěxītes**, **exĭscono**
 * **dēbo**, **dēbṡ**, **dēbet**, **de̊bĭamos**, **de̊betes**, **dēbono**
 * **potso**, **põṡ**, **põt**, **potsiamos**, **potetes**, **potsono**
+* **volĭo**, **võṡ**, **võlet**, **volĭamos**, **voletes**, **volĭono**
+
 
 ## Altĕri Vocalismi
 
@@ -243,3 +245,4 @@
 * **de̊post** [dopo]
 * **praxis** [prassi]
 * **dĭůrno** [giorno]
+* **domĭna** [donna]
