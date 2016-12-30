@@ -171,7 +171,7 @@
 * **sto**, **staṡ**, **stat**, **stiamos**, **states**, **stanno**
 * **sono**, **seṡ**, **est**, **siamos**, **sietes**, **sono**
 * **tenıo**, **tẽnṡ**, **tẽnet**, **teniamos**, **tenetes**, **tenıono**
-
+* **porto**, **portṡ**, **porta**, **portiamos**, **portates**, **portano**
 ## Altĕri Vocalismi
 
 * **fėnestra** [finestra]
