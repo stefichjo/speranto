@@ -54,6 +54,7 @@
 
 * **tẽpido** [tiepido]
 * **mẽle** [miele]
+* **pẽtra** [pietra]
 
 ### õ
 
@@ -115,6 +116,11 @@
 
 * **incłuso** [incluso]
 
+...
+
+* **pluma** [piuma]
+* **plůmbo** [piombo]
+
 ### ...
 
 * **důplo** [doppio]
@@ -140,16 +146,19 @@
 * **cōrtēns̆ĭare** = **cōrtējare** [corteggiare]
 
 ## ic
+
 * **amico** > **amici** [amici]
 * **porĭco** > **porĭci** [porci]
 
 * **fungo** > **fungi** [funghi]
 * **parco** > **parci** [parchi]
 
-## ...
+## ṡ ẋ
 
 * **maṡ** [mai]
 * **seẋ** [sei]
+
+## ...
 
 * **sic** [sì]
 * **ĭam** = **jam** [già]
@@ -161,7 +170,7 @@
 * **do**, **daṡ**, **dat**, **diamos**, **dates**, **danno**
 * **sto**, **staṡ**, **stat**, **stiamos**, **states**, **stanno**
 * **sono**, **seṡ**, **est**, **siamos**, **sietes**, **sono**
-
+* **tenıo**, **tẽnṡ**, **tẽnet**, **teniamos**, **tenetes**, **tenıono**
 
 ## Altĕri Vocalismi
 
@@ -188,9 +197,7 @@
 
 
 * **gratĭæ** [grazie]
-* **cappello** [cappello]
 
 * **de̊post** [dopo]
-
 
 * **dĭůrno** [giorno]
