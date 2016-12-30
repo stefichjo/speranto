@@ -47,7 +47,7 @@
 * **bene** [bene]
 * **tono** [tono]
 
-* **pēr** [per]
+* **pēr**  [per]
 * **cōn** [con]
 
 * **pïsce** [pesce]
@@ -70,6 +70,7 @@
 * **ïntro** [entro]
 * **mïno** [meno]
 * **spïsso** [spesso]
+
 ### ẽ
 
 * **tẽpido** [tiepido]
@@ -190,6 +191,7 @@
 * **sic** [sì]
 * **ĭam** = **jam** [già]
 * **libertat̯** = **libertad** [e]
+* **dic-mė**
 
 ### Numerali
 
@@ -224,7 +226,7 @@
 
 * **parto**, **partṡ**, **partet**, **partiamos**, **partites**, **partono**
 
-#### Verbi Auxiliari et̯  Irregůlari
+#### Verbi Auxiliari et̯ Irregůlari
 
 * **ho**, **haṡ**, **hat**, **habĭamos**, **habetes**, **hanno**
 * **do**, **daṡ**, **dat**, **diamos**, **dates**, **danno**
@@ -235,7 +237,8 @@
 * **dēbo**, **dēbṡ**, **dēbet**, **de̊bĭamos**, **de̊betes**, **dēbono**
 * **potso**, **põṡ**, **põt**, **potsiamos**, **potetes**, **potsono**
 * **volĭo**, **võṡ**, **võlet**, **volĭamos**, **voletes**, **volĭono**
-
+* **facĭo**, **faṡ**, **fat**, **facĭamo**, **fate**, **fanno**
+* **dico**, **dicṡ**, **dicet**, **diciamo**, **dite**, **dicono**
 
 ## Altĕri Vocalismi
 
@@ -263,4 +266,6 @@
 * **dĭůrno** [giorno]
 * **domĭna** [donna]
 * **cïrcŭlo** [cerchio]
-* 
+* **perfecto** [perfetto]
+* **dïcto** [detto]
+* **capĭtıo** [cazzo]
