@@ -102,11 +102,9 @@
 
 * **cåŭsa** [cosa]
 
-## ĭ ŭ
+## ĭ
 
 * **calĭdo** [caldo]
-* **matŭtina** [mattina]
-* **qŭe** [che]
 
 ### ĭ Intervocale
 
@@ -140,19 +138,23 @@
 * **pleno** [pieno]
 
 * **incłuso** [incluso]
+* **důplo** [doppio]
 
 ...
 
 * **pluma** [piuma]
 * **plůmbo** [piombo]
 
-### ...
+## ŭ
 
-* **důplo** [doppio]
+* **qŭe** [che]
+
+### ŭ Interconsonantica
+
+* **matŭtina** [mattina]
+
 * **copŭla** [coppia]
-
 * **macŭla** [macchia]
-
 * **sedŭla** [sedia]
 * **vetŭlo** [vecchio]
 
