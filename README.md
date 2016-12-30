@@ -14,6 +14,16 @@
 
 * **op̄tare** [optare]
 
+### ct
+
+
+* **lacte** [latte]
+* **lecto** [tetto]
+* **facto** [fatto]
+* **tecto** [tetto]
+* **acto** [atto]
+* **pacto** [patto]
+
 ### x
 
 * **exito** [esito]
@@ -59,7 +69,7 @@
 * **capïllo** [capello]
 * **ïntro** [entro]
 * **mïno** [meno]
-
+* **spïsso** [spesso]
 ### ẽ
 
 * **tẽpido** [tiepido]
@@ -179,6 +189,10 @@
 * **ĭam** = **jam** [già]
 * **libertat̯** = **libertad** [e]
 
+### Numerali
+
+* **uno**, **due**, **tres**, **quattro**, **cinque**, **seṡ**, **septe**, **octo**, **nove**, **dẽcė**
+
 ### Pronomi
 
 * **ėo**, **tu**, **ïllĕ**, **noṡ**, **voṡ**, **loro**
@@ -246,3 +260,5 @@
 * **praxis** [prassi]
 * **dĭůrno** [giorno]
 * **domĭna** [donna]
+* **cïrcŭlo** [cerchio]
+* 
