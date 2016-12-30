@@ -125,8 +125,7 @@
 * **laxĭare** [lasciare]
 * **stat̯ĭone** [stagione]
 
-### ı
-
+### ı Consonantica
 * **tolıo** [tolgo]
 * **venıo** [vengo]
 * **cantıone** [canzone]
@@ -136,7 +135,6 @@
 
 * **pronuntja** [pronuncia]
 * **democratīa** [democrazia]
-* **format̯ĭc̆o** = **formajo** [formaggio]
 
 ## ł
 
@@ -146,12 +144,11 @@
 * **pleno** [pieno]
 
 * **incłuso** [incluso]
-* **důplo** [doppio]
 
-...
+### pl
 
 * **pluma** [piuma]
-* **plůmbo** [piombo]
+
 
 ## ŭ
 
@@ -277,3 +274,6 @@
 * **dïcto** [detto]
 * **capĭtıo** [cazzo]
 * **hymno** [inno]
+* **format̯ĭc̆o** = **formajo** [formaggio]
+* **důplo** [doppio]
+* **plůmbo** [piombo]
