@@ -76,6 +76,8 @@
 * **ïntro** [entro]
 * **mïno** [meno]
 * **spïsso** [spesso]
+* **frïsco** [fresco]
+* **mïsso** [messo]
 
 ### ẽ
 
@@ -128,6 +130,14 @@
 * **laxĭare** [lasciare]
 * **stat̯ĭone** [stagione]
 
+
+#### lĭ
+
+* **folĭo** [foglio]
+* **filĭo** [figlio]
+
+#### dĭ
+* **radĭo** [raggio]
 ### ı Consonantica
 * **tolıo** [tolgo]
 * **venıo** [vengo]
@@ -266,13 +276,16 @@
 * **fėnestra** [finestra]
 * **de̊manda** [domanda]
 
+## ...
+
+* **jäna
 ## Formæ Compłexe
 
 * **poṡt** [poi]
 * **ĭntra** [tra]
 * **post-** [pos-]
 * **trans-** [tras-]
-* **plůvĭa** [pioggia]
+* **plůvĭa** ! **plovĭa** [pioggia]
 * **fas̆ĕolo** [fagiolo]
 * **platĕa** [piazza]
 * **hodĭĕ** [oggi]
@@ -298,3 +311,8 @@
 * **thůnno** [tonno]
 * **civĭtat̯** = **civĭtad** [città]
 * **civĭtat̯inantıa** = **civĭtadinantıa** [cittadinanza]
+* **spïcŭlo** ! **specŭlo** [specchio]
+* **compŭtare** ! **contare** [contare]
+* **vïrĭde** [verde]
+* **frïgĭdo** [freddo]
+* **åŭrïcŭlo** [orecchio]
