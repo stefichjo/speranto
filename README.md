@@ -131,10 +131,14 @@
 * **cantıone** [canzone]
 * **medıo** [mezzo]
 
-### j, ī
+### ī Lunga
+
+* **tīo** [zio]
+* **democratīa** [democrazia]
+
+### j
 
 * **pronuntja** [pronuncia]
-* **democratīa** [democrazia]
 
 ## ł
 
@@ -144,6 +148,10 @@
 * **pleno** [pieno]
 
 * **incłuso** [incluso]
+
+### cl
+
+* **claro** [chiaro]
 
 ### pl
 
@@ -185,8 +193,7 @@
 * **fungo** > **fungi** [funghi]
 * **parco** > **parci** [parchi]
 
-## ṡ ẋ
-
+## ṡ ẋ Vocalico
 * **maṡ** [mai]
 * **seẋ** [sei]
 
@@ -195,7 +202,8 @@
 * **sic** [sì]
 * **ĭam** = **jam** [già]
 * **libertat̯** = **libertad** [e]
-* **dic-mė**
+* **dic-mė** [dimmi]
+* **fac-mė** [fammi]
 
 ### Numerali
 
@@ -277,3 +285,4 @@
 * **format̯ĭc̆o** = **formajo** [formaggio]
 * **důplo** [doppio]
 * **plůmbo** [piombo]
+* **basĭino** [bacino]
