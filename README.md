@@ -23,10 +23,12 @@
 * **tecto** [tetto]
 * **acto** [atto]
 * **pacto** [patto]
+* **perfecto** [perfetto]
 
 ### pt
 
 * **apto** [atto]
+* **scripto** [scritto]
 
 ### x
 
@@ -96,6 +98,7 @@
 * **můlto** [molto]
 * **můndo** [mondo]
 * **secůndo** [secondo]
+* **bůcca** [bocca]
 
 ### ō
 
@@ -171,7 +174,12 @@
 * **sedŭla** [sedia]
 * **vetŭlo** [vecchio]
 
+### cŭl
+
+* **ocŭlo** [occhio]
+
 ## ...
+
 
 * **seq̆uire** [seguire]
 * **aq̄ua** [acqua]
@@ -233,6 +241,7 @@
 #### ere
 
 * **vendo**, **vendṡ**, **vendet**, **vendiamos**, **vendetes**, **vendono**
+* **scribo**, **scribṡ**, **scribet**, **scribiamo**, **scribetes**, **scribono**
 
 #### ire
 
@@ -278,7 +287,6 @@
 * **dĭůrno** [giorno]
 * **domĭna** [donna]
 * **cïrcŭlo** [cerchio]
-* **perfecto** [perfetto]
 * **dïcto** [detto]
 * **capĭtıo** [cazzo]
 * **hymno** [inno]
@@ -286,3 +294,7 @@
 * **důplo** [doppio]
 * **plůmbo** [piombo]
 * **basĭino** [bacino]
+* **mandŭcare** = **manjare** [mangiare]
+* **thůnno** [tonno]
+* **civĭtat̯** = **civĭtad** [città]
+* **civĭtat̯inantıa** = **civĭtadinantıa** [cittadinanza]
