@@ -101,6 +101,8 @@
 * **můndo** [mondo]
 * **secůndo** [secondo]
 * **bůcca** [bocca]
+* **auricůlare** [auricolare]
+* **regůla** [regola]
 
 ### ō
 
