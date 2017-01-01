@@ -32,6 +32,10 @@
 
 ### x
 
+* **maximo** [massimo]
+
+#### ex
+
 * **exito** [esito]
 
 ## ...
@@ -110,18 +114,15 @@
 * **cōrte** [corte]
 * **sōle** [sole]
 * **vōce** [voce]
+
 ### åŭ
 
 * **cåŭsa** [cosa]
+* **påŭco** [poco]
 
 ## ĭ
 
 * **calĭdo** [caldo]
-
-### ĭ Intervocale
-
-* **maĭo** = **majo** [maggio]
-* **ĭusto** = **justo** [giusto]
 
 ### ĭ Assimilata
 
@@ -132,15 +133,17 @@
 * **laxĭare** [lasciare]
 * **stat̯ĭone** [stagione]
 
-
 #### lĭ
 
 * **folĭo** [foglio]
 * **filĭo** [figlio]
 
 #### dĭ
+
 * **radĭo** [raggio]
+
 ### ı Consonantica
+
 * **tolıo** [tolgo]
 * **venıo** [vengo]
 * **cantıone** [canzone]
@@ -152,6 +155,9 @@
 * **democratīa** [democrazia]
 
 ### j
+
+* **maĭo** = **majo** [maggio]
+* **ĭusto** = **justo** [giusto]
 
 * **pronuntja** [pronuncia]
 
@@ -171,7 +177,7 @@
 ### pl
 
 * **pluma** [piuma]
-
+* **piano** [piano]
 
 ## ŭ
 
@@ -205,7 +211,6 @@
 * **nubůla** [nuvola]
 * **nēbŭla** [nebbia]
 
-* **mēnse** [mese]
 * **mēn̄sile** [mensile]
 * **cōrtēns̆ĭare** = **cōrtējare** [corteggiare]
 
@@ -282,7 +287,7 @@
 * **fėnestra** [finestra]
 * **de̊manda** [domanda]
 
-## ...
+## Mēnsi
 
 * **jänŭar̆io**, **febrŭar̆io**, **martıo**, **aprile**, **majo**, **junĭo**, **lulĭo**, **aŭgůsto**, **septembre**, **octobre**, **novembre**, **dėcembre**
 
