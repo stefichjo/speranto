@@ -284,14 +284,15 @@
 
 ## ...
 
-* **jäna
+* **jänŭar̆io**, **febrŭar̆io**, **martıo**, **aprile**, **majo**, **junĭo**, **lulĭo**, **aŭgůsto**, **septembre**, **octobre**, **novembre**, **dėcembre**
+
 ## Formæ Compłexe
 
 * **poṡt** [poi]
 * **ĭntra** [tra]
 * **post-** [pos-]
 * **trans-** [tras-]
-* **plůvĭa** ! **plovĭa** [pioggia]
+* **plůvĭa** [pioggia]
 * **fas̆ĕolo** [fagiolo]
 * **platĕa** [piazza]
 * **hodĭĕ** [oggi]
@@ -317,12 +318,12 @@
 * **thůnno** [tonno]
 * **civĭtat̯** = **civĭtad** [città]
 * **civĭtat̯inantıa** = **civĭtadinantıa** [cittadinanza]
-* **spïcŭlo** ! **specŭlo** [specchio]
+* **spïcŭlo** ! **spìcŭlo** [specchio]
 * **compŭtare** ! **contare** [contare]
 * **vïrĭde** [verde]
 * **frïgĭdo** [freddo]
 * **åŭrïcŭlo** [orecchio]
-* **gůttĕa** [goccia] ?
+* **gůttĕa** ! **gůttjo** [goccia] ?
 * **obiectivo** [obiettivo]
 * **obĭecto** [oggetto]
  
