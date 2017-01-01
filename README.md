@@ -214,6 +214,12 @@
 * **mēn̄sile** [mensile]
 * **cōrtēns̆ĭare** = **cōrtējare** [corteggiare]
 
+### bil
+
+* **mobile** [mobile]
+* **stabile** [stabile]
+* **visibile** [visibile]
+
 ## ic
 
 * **amico** > **amici** [amici]
@@ -332,7 +338,7 @@
 * **vïrĭde** [verde]
 * **frïgĭdo** [freddo]
 * **åŭrïcŭlo** [orecchio]
-* **gůttĕa** ! **gůttjo** [goccia] ?
+* **gůttĕa** ! **gůttja** [goccia]
 * **obiectivo** [obiettivo]
 * **obĭecto** [oggetto]
 * **ĭst'ïpso** [stesso]
