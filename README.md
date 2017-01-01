@@ -199,28 +199,24 @@
 
 * **ocŭlo** [occhio]
 
-## ...
+## Lenitĭone éd Rĕaddůplamento
 
 * **c̆atto** [gatto]
+* **rico** [ricco] ?
 * **seq̆uire** [seguire]
 * **aq̄ua** [acqua]
 
 * **operar̆io** [operaio]
-
 * **par̆o** [paio]
 
+### ƀ
+
 * **laboro** [lavoro]
-* **laboratorio** [laboratorio]
+* **laƀoratorio** [laboratorio]
 * **nubůla** [nuvola]
 * **nēbŭla** [nebbia]
 
-* **mēn̄sile** [mensile]
-* **cōrtēns̆ĭare** = **cōrtējare** [corteggiare]
-
-## ƀ
-* **laƀoratorio** [laboratorio]
-
-### bil
+#### bil
 
 * **mobile** [mobile]
 * **stabile** [stabile]
@@ -233,6 +229,13 @@
 
 * **fungo** > **fungi** [funghi]
 * **parco** > **parci** [parchi]
+
+## ēns
+
+* **pensare** [pensare]
+* **mēnse** [mese]
+* **mēn̄sile** [mensile]
+* **cōrtēns̆ĭare** = **cōrtējare** [corteggiare]
 
 ## ṡ ẋ Vocalico
 * **maṡ** [mai]
@@ -280,14 +283,14 @@
 
 * **parto**, **partṡ**, **partet**, **partiamos**, **partites**, **partono**
 
-#### Verbi Auxiliari et̯ Irregůlari
+#### Verbi Auxiliari éd Irregůlari
 
 * **ho**, **haṡ**, **hat**, **habĭamos**, **habetes**, **hanno**
 * **do**, **daṡ**, **dat**, **diamos**, **dates**, **danno**
 * **sto**, **staṡ**, **stat**, **stiamos**, **states**, **stanno**
 * **sono**, **seṡ**, **est**, **siamos**, **sietes**, **sono**
 * **vado**, **vaṡ**, **vat**, **andiamos**, **andates**, **vanno**
-* **exĭsco**, **exĭscṡ**, **exĭscet**, **ěxĭamos**, **ěxītes**, **exĭscono**
+* **ïsco**, **ïscṡ**, **ïscet**, **ěxĭamos**, **ěxītes**, **ïscono**
 * **dēbo**, **dēbṡ**, **dēbet**, **de̊bĭamos**, **de̊betes**, **dēbono**
 * **potso**, **põṡ**, **põt**, **potsiamos**, **potetes**, **potsono**
 * **volĭo**, **võṡ**, **võlet**, **volĭamos**, **voletes**, **volĭono**
@@ -312,6 +315,7 @@
 
 * **poṡt** [poi]
 * **ĭntra** [tra]
+* **ĭnfra** [fra]
 * **post-** [pos-]
 * **trans-** [tras-]
 * **plůvĭa** [pioggia]
