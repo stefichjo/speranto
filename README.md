@@ -50,7 +50,7 @@
 
 ### æ
 
-* **cælo** = **celo** [celo]
+* **cælo** = **celo** [cielo]
 
 ## Vocalismi
 
@@ -82,6 +82,7 @@
 * **spïsso** [spesso]
 * **frïsco** [fresco]
 * **mïsso** [messo]
+* **lïttera** [lettera]
 
 ### ẽ
 
@@ -114,6 +115,7 @@
 * **cōrte** [corte]
 * **sōle** [sole]
 * **vōce** [voce]
+* **bōrdo** [bordo]
 
 ### åŭ
 
@@ -173,6 +175,7 @@
 ### cl
 
 * **claro** [chiaro]
+* **clave** [chiave]
 
 ### pl
 
@@ -343,3 +346,8 @@
 * **obĭecto** [oggetto]
 * **ĭst'ïpso** [stesso]
 * **påŭp̆ero** [povero]
+* **fabŭla** ! **flaba** [fiava]
+* **ad-ïpso** ! **ad-ìsso** [adesso]
+* **ïpso** [esso]
+* **aŭscůltare** [ascoltare]
+
