@@ -38,7 +38,7 @@
 
 * **exito** [esito]
 
-## ...
+## Simplificatĭoni
 
 * **præsto** = **presto** [presto]
 * **pœna** = **pena** [pena]
@@ -117,6 +117,8 @@
 * **vōce** [voce]
 * **bōrdo** [bordo]
 
+* **visiōne** = **visione** [visione]
+
 ### åŭ
 
 * **cåŭsa** [cosa]
@@ -133,7 +135,6 @@
 * **banĭo** [bagno]
 * **statĭone** [stazione]
 * **laxĭare** [lasciare]
-* **stat̯ĭone** [stagione]
 
 #### lĭ
 
@@ -160,15 +161,14 @@
 
 * **maĭo** = **majo** [maggio]
 * **ĭusto** = **justo** [giusto]
-
 * **pronuntja** [pronuncia]
 
 ## ł
 
 * **blanco** [bianco]
 * **cluso** [chiuso]
+* **plano** [piano]
 * **flore** [fiore]
-* **pleno** [pieno]
 
 * **incłuso** [incluso]
 
@@ -179,8 +179,8 @@
 
 ### pl
 
+* **pleno** [pieno]
 * **pluma** [piuma]
-* **plano** [piano]
 
 ## ŭ
 
@@ -202,7 +202,7 @@
 ## Lenitĭone éd Rĕaddůplamento
 
 * **c̆atto** [gatto]
-* **rico** [ricco] ?
+* **rico** [ricco] (c with dash above)
 * **seq̆uire** [seguire]
 * **aq̄ua** [acqua]
 
@@ -224,11 +224,15 @@
 
 ## ic
 
-* **amico** > **amici** [amici]
-* **porĭco** > **porĭci** [porci]
+* **amici** [amici]
+* **porĭci** [porci]
 
-* **fungo** > **fungi** [funghi]
-* **parco** > **parci** [parchi]
+* **fungi** [funghi]
+* **parci** [parchi]
+
+## at̯ĭc̆
+
+* **format̯ĭc̆o** = **formajo** [formaggio]
 
 ## ēns
 
@@ -238,8 +242,8 @@
 * **cōrtēns̆ĭare** = **cōrtējare** [corteggiare]
 
 ## ṡ ẋ Vocalico
+
 * **maṡ** [mai]
-* **seẋ** [sei]
 
 ## ...
 
@@ -251,23 +255,22 @@
 
 ### Numerali
 
-* **uno**, **due**, **tres**, **quattro**, **cinque**, **seṡ**, **septe**, **octo**, **nove**, **dẽcė**
+* **uno**, **due**, **tres**, **quattro**, **cinque**, **seẋ**, **septe**, **octo**, **nove**, **dẽcė**
 
 ### Pronomi
 
-* **ėo**, **tu**, **ïllĕ**, **noṡ**, **voṡ**, **loro**
+* **ėo**, **tu**, **ïllĕ**, **nōṡ**, **vōṡ**, **loro**
 * **mė**, **tė**, **lĕ**, **cė**, **vė**
 
 ### Coniugatĭone
 
 * **amo**, **amṡ**, **amat**, **amiamos**, **amates**, **amano**
 * **vïdo**, **vïdṡ**, **vïdet**, **vïdiamos**, **vïdetes**, **vïdono**
-* **vinco**, **vincṡ**, **vincet**, **vinciamos**, **vincetes**, **vincino**
+* **vinco**, **vincṡ**, **vincet**, **vinciamos**, **vincetes**, **vincono**
 * **sento**, **sentṡ**, **sentet**, **sentiamos**, **sentetes**, **sentono**
 
 #### are
 
-* **porto**, **portṡ**, **portat**, **portiamos**, **portates**, **portano**
 * **lïgo**, **lïgṡ**, **lïgat**, **lïgiamos**, **lïgates**, **lïgano**
 
 #### ēre
@@ -302,10 +305,9 @@
 * **fėnestra** [finestra]
 * **de̊manda** [domanda]
 
-
 ## Dĭůrni de-la Septimana
 
-* **lunedi**, **martedi**, **mercoledi**, **jůp̆edi**, **sabato**, **domenica**
+* **lunedi**, **martedi**, **mercoledi**, **jůp̆edi**, **sabato**, **domïnica**
 
 ## Mēnsi
 
@@ -323,11 +325,9 @@
 * **platĕa** [piazza]
 * **hodĭĕ** [oggi]
 * **hẽri** [ieri]
-* **omnĭ** [ogni]
+* **omnĭ** ! **ómnĭ** [ogni]
 * **somnio** [sogno]
-
-* **gratĭæ** [grazie]
-
+* **gratĭe** [grazie]
 * **de̊post** [dopo]
 * **praxis** [prassi]
 * **domĭna** [donna]
@@ -335,14 +335,12 @@
 * **dïcto** [detto]
 * **capĭtıo** [cazzo]
 * **hymno** [inno]
-* **format̯ĭc̆o** = **formajo** [formaggio]
 * **důplo** [doppio]
-* **plůmbo** [piombo]
+* **plůmbo** ! **plúmbo** [piombo]
 * **basĭino** [bacino]
 * **mandŭcare** = **manjare** [mangiare]
 * **thůnno** [tonno]
 * **civĭtat̯** = **civĭtad** [città]
-* **civĭtat̯inantıa** = **civĭtadinantıa** [cittadinanza]
 * **spïcŭlo** ! **spìcŭlo** [specchio]
 * **compŭtare** ! **contare** [contare]
 * **vïrĭde** [verde]
@@ -351,10 +349,16 @@
 * **gůttĕa** ! **gůttja** [goccia]
 * **obiectivo** [obiettivo]
 * **obĭecto** [oggetto]
-* **ĭst'ïpso** [stesso]
+* **ĭst’ïpso** [stesso]
 * **påŭp̆ero** [povero]
 * **fabŭla** ! **flaba** [fiava]
 * **ad-ïpso** ! **ad-ìsso** [adesso]
 * **ïpso** [esso]
 * **aŭscůltare** [ascoltare]
 * **ăudire** [udire]
+* **stat̯ĭone** [stagione]
+* **rat̯ĭone** [ragione]
+* **plůvet** [piove]
+* **plus** [più]
+* **thesis** [tesi]
+
