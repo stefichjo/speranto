@@ -217,6 +217,9 @@
 * **mēn̄sile** [mensile]
 * **cōrtēns̆ĭare** = **cōrtējare** [corteggiare]
 
+## ƀ
+* **laƀoratorio** [laboratorio]
+
 ### bil
 
 * **mobile** [mobile]
