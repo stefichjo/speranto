@@ -287,11 +287,16 @@
 * **fėnestra** [finestra]
 * **de̊manda** [domanda]
 
+
+## Dĭůrni de-la Septimana
+
+* **lunedi**, **martedi**, **mercoledi**, **jůp̆edi**, **sabato**, **domenica**
+
 ## Mēnsi
 
 * **jänŭar̆io**, **febrŭar̆io**, **martıo**, **aprile**, **majo**, **junĭo**, **lulĭo**, **aŭgůsto**, **septembre**, **octobre**, **novembre**, **dėcembre**
 
-## Formæ Compłexe
+## Forme Compłexe
 
 * **poṡt** [poi]
 * **ĭntra** [tra]
@@ -309,7 +314,6 @@
 
 * **de̊post** [dopo]
 * **praxis** [prassi]
-* **dĭůrno** [giorno]
 * **domĭna** [donna]
 * **cïrcŭlo** [cerchio]
 * **dïcto** [detto]
@@ -332,3 +336,4 @@
 * **obiectivo** [obiettivo]
 * **obĭecto** [oggetto]
 * **ĭst'ïpso** [stesso]
+* **påŭp̆ero** [povero]
