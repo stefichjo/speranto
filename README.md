@@ -109,7 +109,7 @@
 * **fōrma** [forma]
 * **cōrte** [corte]
 * **sōle** [sole]
-
+* **vōce** [voce]
 ### åŭ
 
 * **cåŭsa** [cosa]
@@ -192,12 +192,16 @@
 
 ## ...
 
-
+* **c̆atto** [gatto]
 * **seq̆uire** [seguire]
 * **aq̄ua** [acqua]
 
 * **operar̆io** [operaio]
 
+* **par̆o** [paio]
+
+* **laboro** [lavoro]
+* **laboratorio** [laboratorio]
 * **nubůla** [nuvola]
 * **nēbŭla** [nebbia]
 
@@ -318,3 +322,7 @@
 * **vïrĭde** [verde]
 * **frïgĭdo** [freddo]
 * **åŭrïcŭlo** [orecchio]
+* **gůttĕa** [goccia] ?
+* **obiectivo** [obiettivo]
+* **obĭecto** [oggetto]
+ 
