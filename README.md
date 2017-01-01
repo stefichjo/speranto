@@ -50,7 +50,7 @@
 
 ### æ
 
-* **cælo** [celo]
+* **cælo** = **celo** [celo]
 
 ## Vocalismi
 
@@ -177,7 +177,7 @@
 ### pl
 
 * **pluma** [piuma]
-* **piano** [piano]
+* **plano** [piano]
 
 ## ŭ
 
@@ -331,4 +331,4 @@
 * **gůttĕa** ! **gůttjo** [goccia] ?
 * **obiectivo** [obiettivo]
 * **obĭecto** [oggetto]
- 
+* **ĭst'ïpso** [stesso]
