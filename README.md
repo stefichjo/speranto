@@ -357,4 +357,4 @@
 * **ad-ïpso** ! **ad-ìsso** [adesso]
 * **ïpso** [esso]
 * **aŭscůltare** [ascoltare]
-
+* **ăudire** [udire]
