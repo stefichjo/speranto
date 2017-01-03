@@ -202,7 +202,7 @@
 ## Lenitĭone éd Rĕaddůplamento
 
 * **c̆atto** [gatto]
-* **rico** [ricco] (c with dash above)
+* **rico** [ricco] ?
 * **seq̆uire** [seguire]
 * **aq̄ua** [acqua]
 
@@ -361,4 +361,6 @@
 * **plůvet** [piove]
 * **plus** [più]
 * **thesis** [tesi]
+* **ĕxvïgĭlare** ! **ĕxvïglĭare** [svegliare]
+* **glacĭo** [ghiaccio]
 
