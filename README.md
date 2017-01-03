@@ -1,61 +1,110 @@
 # Orthographia
 
-## Assimilatĭoni
+## Elisioni, Sïmplificatĭoni éd Assimilatĭoni
 
-* **horarii** [orari]
+### ii
 
-* **nocte** [notte]
-* **optimo** [ottimo]
-* **texto** [testo]
-* **exame** [esame]
-* **luxo** [lusso]
-* **somno** [sonno]
-* **puncto** [punto]
+* **binarii** [binari]
 
-* **op̄tare** [optare]
+### h
 
-### ct
+* **halito** [alito]
 
+### Finale Cōnsonantica
 
-* **lacte** [latte]
-* **lecto** [tetto]
-* **facto** [fatto]
-* **tecto** [tetto]
-* **acto** [atto]
-* **pacto** [patto]
-* **perfecto** [perfetto]
+* **in** [in]
 
-### pt
+* **ab** [a]
+* **sic** [sì]
 
-* **apto** [atto]
-* **scripto** [scritto]
+### æ
+
+* **præsto** = **presto** [presto]
+* **cælo** = **celo** [cielo]
+
+### œ
+
+* **pœna** = **pena** [pena]
+
+### y
+
+* **systema** [sistema]
+
+### ph
+
+* **photo** [foto]
+
+### th
+
+* **thema** [tema]
+* **theoria** [teoria]
+* **mathematica** [matematica]
+
+...
+
+* **thesis** [tesi]
+
+### ch
+
+* **echo** [eco]
+* **chaos** [caos]
 
 ### x
 
 * **maximo** [massimo]
+* **texto** [testo]
+* **luxo** [lusso]
 
-#### ex
-
+* **exame** [esame]
 * **exito** [esito]
 
-## Simplificatĭoni
+...
 
-* **præsto** = **presto** [presto]
-* **pœna** = **pena** [pena]
-* **systema** [sistema]
+* **praxis** [prassi]
 
-* **photo** [foto]
-* **thema** [tema]
-* **echo** [eco]
+### ps
 
-### æ
+...
 
-* **cælo** = **celo** [cielo]
+* **apocalypse** [apocalisse]
+
+### pt
+
+* **optimo** [ottimo]
+* **apto** [atto]
+* **scripto** [scritto]
+
+* **op̄tare** [optare]
+* **eucalyp̄to** [eucalipto]
+
+...
+
+* **helicoptero** [elicottero]
+
+### ct
+
+* **nocte** [notte]
+* **lacte** [latte]
+* **lecto** [letto]
+* **tecto** [tetto]
+* **facto** [fatto]
+* **acto** [atto]
+* **pacto** [patto]
+* **pērfecto** [perfetto]
+* **obiectivo** [obiettivo]
+
+* **puncto** [punto]
+
+### mn
+
+* **damno** [danno]
+* **somno** [sonno]
+
+...
+
+* **hymno** [inno]
 
 ## Vocalismi
-
-* **bene** [bene]
-* **tono** [tono]
 
 * **pēr**  [per]
 * **cōn** [con]
@@ -83,12 +132,22 @@
 * **frïsco** [fresco]
 * **mïsso** [messo]
 * **lïttera** [lettera]
+* **lïgno** [legno]
+
+...
+
+* **dïcto** [detto]
+* **ïpso** [esso]
 
 ### ẽ
 
 * **tẽpido** [tiepido]
 * **mẽle** [miele]
 * **pẽtra** [pietra]
+
+...
+
+* **hẽri** [ieri]
 
 ### õ
 
@@ -109,6 +168,10 @@
 * **auricůlare** [auricolare]
 * **regůla** [regola]
 
+...
+
+* **thůnno** [tonno]
+
 ### ō
 
 * **fōrma** [forma]
@@ -119,51 +182,88 @@
 
 * **visiōne** = **visione** [visione]
 
+...
+
+* **hōra** [ora]
+
 ### åŭ
 
 * **cåŭsa** [cosa]
 * **påŭco** [poco]
 
-## ĭ
+## i
+
+### ĭ Muta
 
 * **calĭdo** [caldo]
+
+* **ĭntra** [tra]
+* **ĭnfra** [fra]
+
+...
+
+* **domĭna** [donna]
+* **vïrĭde** [verde]
+* **frïgĭdo** [freddo]
+* **ĭst’ïpso** [stesso]
 
 ### ĭ Assimilata
 
 * **basĭo** [bacio]
 * **familĭa** [famiglia]
 * **banĭo** [bagno]
-* **statĭone** [stazione]
+* **gratĭe** [grazie]
 * **laxĭare** [lasciare]
+
+#### tĭ
+
+* **statĭone** [stazione]
+
+##### tī
+
+* **tīo** [zio]
+* **democratīa** [democrazia]
+
+#### dĭ
+
+* **radĭo** [raggio]
 
 #### lĭ
 
 * **folĭo** [foglio]
 * **filĭo** [figlio]
 
-#### dĭ
+#### nĭ
 
-* **radĭo** [raggio]
+...
 
-### ı Consonantica
+* **somnĭo** [sogno]
+
+### ı Cōnsonantica
 
 * **tolıo** [tolgo]
 * **venıo** [vengo]
 * **cantıone** [canzone]
 * **medıo** [mezzo]
 
-### ī Lunga
+...
 
-* **tīo** [zio]
-* **democratīa** [democrazia]
+* **capĭtıo** [cazzo]
 
 ### j
 
 * **maĭo** = **majo** [maggio]
 * **ĭusto** = **justo** [giusto]
+* **ĭurare** = **jurare** [giurare]
+
 * **pronuntja** [pronuncia]
 
-## ł
+...
+
+* **ĭam** = **jam** [già]
+* **obĭecto** = **objecto** [oggetto]
+
+## l
 
 * **blanco** [bianco]
 * **cluso** [chiuso]
@@ -177,27 +277,58 @@
 * **claro** [chiaro]
 * **clave** [chiave]
 
+### gl
+
+...
+
+* **glacĭo** [ghiaccio]
+
 ### pl
 
 * **pleno** [pieno]
 * **pluma** [piuma]
+* **templo** [tempio]
 
-## ŭ
+...
+
+* **tempłi** [templi]
+* **důplo** [doppio]
+* **plůvere** [piovere]
+* **plůvĭa** [pioggia]
+* **plus** [più]
+
+## u
+
+### ŭ Muta
 
 * **qŭe** [che]
-
-### ŭ Interconsonantica
-
 * **matŭtina** [mattina]
 
-* **copŭla** [coppia]
+...
+
+* **aŭscůltare** [ascoltare]
+
+#### cŭl
+
 * **macŭla** [macchia]
-* **sedŭla** [sedia]
-* **vetŭlo** [vecchio]
-
-### cŭl
-
 * **ocŭlo** [occhio]
+
+...
+
+* **cïrcŭlo** [cerchio]
+* **åŭrïcŭlo** [orecchio]
+
+#### dŭl
+
+* **sedŭla** [sedia]
+
+#### pŭl
+
+* **copŭla** [coppia]
+
+#### tŭl
+
+* **vetŭlo** [vecchio]
 
 ## Lenitĭone éd Rĕaddůplamento
 
@@ -209,7 +340,15 @@
 * **operar̆io** [operaio]
 * **par̆o** [paio]
 
-### ƀ
+...
+
+* **stat̯ĭone** [stagione]
+* **rat̯ĭone** [ragione]
+* **civĭtat̯** = **civĭtad** [città]
+* **påŭp̆ero** [povero]
+* **sap̆ĭo** [saggio]
+
+### b
 
 * **laboro** [lavoro]
 * **laƀoratorio** [laboratorio]
@@ -221,6 +360,14 @@
 * **mobile** [mobile]
 * **stabile** [stabile]
 * **visibile** [visibile]
+
+#### ber
+
+* **libero** [libero]
+
+...
+
+* **libertat̯** = **libertad** [libertà]
 
 ## ic
 
@@ -241,17 +388,45 @@
 * **mēn̄sile** [mensile]
 * **cōrtēns̆ĭare** = **cōrtējare** [corteggiare]
 
-## ṡ ẋ Vocalico
+
+## Altĕri Vocalismi
+
+* **ăudire** [udire]
+
+### ė
+
+* **fėnestra** [finestra]
+* **dėo** [dio]
+
+...
+
+* **dic-mė** [dimmi]
+* **fac-mė** [fammi]
+
+### e̊
+
+* **de̊manda** [domanda]
+
+### ĕ
+
+* **dĕab** [da]
+
+...
+
+* **fas̆ĕolo** [fagiolo]
+* **platĕa** [piazza]
+* **hodĭĕ** [oggi]
+...
+
+* **de̊post** [dopo]
+
+### ṡ
 
 * **maṡ** [mai]
 
-## ...
+...
 
-* **sic** [sì]
-* **ĭam** = **jam** [già]
-* **libertat̯** = **libertad** [e]
-* **dic-mė** [dimmi]
-* **fac-mė** [fammi]
+* **poṡt** [poi]
 
 ### Numerali
 
@@ -262,7 +437,7 @@
 * **ėo**, **tu**, **ïllĕ**, **nōṡ**, **vōṡ**, **loro**
 * **mė**, **tė**, **lĕ**, **cė**, **vė**
 
-### Coniugatĭone
+### Cōniugatĭone
 
 * **amo**, **amṡ**, **amat**, **amiamos**, **amates**, **amano**
 * **vïdo**, **vïdṡ**, **vïdet**, **vïdiamos**, **vïdetes**, **vïdono**
@@ -300,11 +475,6 @@
 * **facĭo**, **faṡ**, **fat**, **facĭamo**, **fate**, **fanno**
 * **dico**, **dicṡ**, **dicet**, **diciamo**, **dite**, **dicono**
 
-## Altĕri Vocalismi
-
-* **fėnestra** [finestra]
-* **de̊manda** [domanda]
-
 ## Dĭůrni de-la Septimana
 
 * **lunedi**, **martedi**, **mercoledi**, **jůp̆edi**, **sabato**, **domïnica**
@@ -313,54 +483,21 @@
 
 * **jänŭar̆io**, **febrŭar̆io**, **martıo**, **aprile**, **majo**, **junĭo**, **lulĭo**, **aŭgůsto**, **septembre**, **octobre**, **novembre**, **dėcembre**
 
-## Forme Compłexe
+## Forme Cōmpłexe
 
-* **poṡt** [poi]
-* **ĭntra** [tra]
-* **ĭnfra** [fra]
-* **post-** [pos-]
-* **trans-** [tras-]
-* **plůvĭa** [pioggia]
-* **fas̆ĕolo** [fagiolo]
-* **platĕa** [piazza]
-* **hodĭĕ** [oggi]
-* **hẽri** [ieri]
-* **omnĭ** ! **ómnĭ** [ogni]
-* **somnio** [sogno]
-* **gratĭe** [grazie]
-* **de̊post** [dopo]
-* **praxis** [prassi]
-* **domĭna** [donna]
-* **cïrcŭlo** [cerchio]
-* **dïcto** [detto]
-* **capĭtıo** [cazzo]
-* **hymno** [inno]
-* **důplo** [doppio]
-* **plůmbo** ! **plúmbo** [piombo]
-* **basĭino** [bacino]
-* **mandŭcare** = **manjare** [mangiare]
-* **thůnno** [tonno]
-* **civĭtat̯** = **civĭtad** [città]
+* **mandŭcare** ! **manjare** [mangiare]
 * **spïcŭlo** ! **spìcŭlo** [specchio]
-* **compŭtare** ! **contare** [contare]
-* **vïrĭde** [verde]
-* **frïgĭdo** [freddo]
-* **åŭrïcŭlo** [orecchio]
-* **gůttĕa** ! **gůttja** [goccia]
-* **obiectivo** [obiettivo]
-* **obĭecto** [oggetto]
-* **ĭst’ïpso** [stesso]
-* **påŭp̆ero** [povero]
+* **cōmpŭtare** ! **cōntare** [contare]
+* **ĕxvïgĭlare** ! **ĕxvïglĭare** [svegliare]
+* **plůmbo** ! **plúmbo** [piombo]
 * **fabŭla** ! **flaba** [fiava]
 * **ad-ïpso** ! **ad-ìsso** [adesso]
-* **ïpso** [esso]
-* **aŭscůltare** [ascoltare]
-* **ăudire** [udire]
-* **stat̯ĭone** [stagione]
-* **rat̯ĭone** [ragione]
-* **plůvet** [piove]
-* **plus** [più]
-* **thesis** [tesi]
-* **ĕxvïgĭlare** ! **ĕxvïglĭare** [svegliare]
-* **glacĭo** [ghiaccio]
+* **gůttĕa** ! **gůttja** [goccia]
+* **omnĭ** ! **ómnĭ** [ogni]
+
+* **post-** [pos-]
+* **trans-** [tras-]
+
+
+
 
