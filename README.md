@@ -8,7 +8,9 @@
 
 ### h
 
+* **habitare** [abitare]
 * **halito** [alito]
+* **helio** [elio]
 
 ### Finale Cōnsonantica
 
@@ -17,18 +19,27 @@
 * **ab** [a]
 * **sic** [sì]
 
+...
+
+* **dĕab-vēro** [davvero]
+
 ### æ
 
+* **præsente** = **presente** [presente]
+* **æstate** = **estate** [estate]
 * **præsto** = **presto** [presto]
 * **cælo** = **celo** [cielo]
 
 ### œ
 
 * **pœna** = **pena** [pena]
+* **ad-pœna** = **ad-pena** [appena]
 
 ### y
 
 * **systema** [sistema]
+* **typo** [tipo]
+* **cygno** [cigno]
 
 ### ph
 
@@ -58,15 +69,20 @@
 * **exame** [esame]
 * **exito** [esito]
 
+* **xylophono** [xilofono]
+
 ...
 
 * **praxis** [prassi]
 
 ### ps
 
+
 ...
 
 * **apocalypse** [apocalisse]
+
+* **psychologia** [psicologia]
 
 ### pt
 
@@ -133,6 +149,7 @@
 * **mïsso** [messo]
 * **lïttera** [lettera]
 * **lïgno** [legno]
+* **invïce** [invece]
 
 ...
 
@@ -144,6 +161,7 @@
 * **tẽpido** [tiepido]
 * **mẽle** [miele]
 * **pẽtra** [pietra]
+* **pẽde** [piede]
 
 ...
 
@@ -167,10 +185,13 @@
 * **bůcca** [bocca]
 * **auricůlare** [auricolare]
 * **regůla** [regola]
+* **sůpra** [sopra]
+* **ecců** [ecco]
 
 ...
 
 * **thůnno** [tonno]
+* **sůbto** [sotto]
 
 ### ō
 
@@ -185,6 +206,7 @@
 ...
 
 * **hōra** [ora]
+* **ad-l’hōra** [allora]
 
 ### åŭ
 
@@ -228,10 +250,16 @@
 
 * **radĭo** [raggio]
 
+...
+
+* **post
+
 #### lĭ
 
 * **folĭo** [foglio]
 * **filĭo** [figlio]
+* **melĭo** [meglio]
+* **alĭo** [aglio]
 
 #### nĭ
 
@@ -253,6 +281,7 @@
 ### j
 
 * **maĭo** = **majo** [maggio]
+* **peĭo** = **pejo** [peggio]
 * **ĭusto** = **justo** [giusto]
 * **ĭurare** = **jurare** [giurare]
 
@@ -265,17 +294,27 @@
 
 ## l
 
-* **blanco** [bianco]
-* **cluso** [chiuso]
-* **plano** [piano]
-* **flore** [fiore]
+### bl
 
-* **incłuso** [incluso]
+* **blanco** [bianco]
 
 ### cl
 
 * **claro** [chiaro]
 * **clave** [chiave]
+* **cluso** [chiuso]
+
+* **incłuso** [incluso]
+
+...
+
+* **clesıa** [chiesa]
+
+### fl
+
+* **flamma** [fiamma]
+* **flore** [fiore]
+* **flume** [fiume]
 
 ### gl
 
@@ -285,13 +324,16 @@
 
 ### pl
 
+* **plano** [piano]
+* **planta** [pianta]
 * **pleno** [pieno]
 * **pluma** [piuma]
 * **templo** [tempio]
 
+* **tempłi** [templi]
+
 ...
 
-* **tempłi** [templi]
 * **důplo** [doppio]
 * **plůvere** [piovere]
 * **plůvĭa** [pioggia]
@@ -307,6 +349,7 @@
 ...
 
 * **aŭscůltare** [ascoltare]
+* **qŭōme** [come]
 
 #### cŭl
 
@@ -330,7 +373,7 @@
 
 * **vetŭlo** [vecchio]
 
-## Lenitĭone éd Rĕaddůplamento
+## Lenitĭone éd Rĕaddůplamento [Lenizione e Raddoppiamento]
 
 * **c̆atto** [gatto]
 * **rico** [ricco] ?
@@ -380,6 +423,8 @@
 ## at̯ĭc̆
 
 * **format̯ĭc̆o** = **formajo** [formaggio]
+* **villat̯ĭc̆o** = **vilajo** [villaggio]
+* **corat̯ĭc̆o** = **corajo** [coraggio]
 
 ## ēns
 
@@ -387,11 +432,18 @@
 * **mēnse** [mese]
 * **mēn̄sile** [mensile]
 * **cōrtēns̆ĭare** = **cōrtējare** [corteggiare]
+* **pagēnse** [paese] ?
 
 
 ## Altĕri Vocalismi
 
+### ă
+
 * **ăudire** [udire]
+
+...
+
+* **băuc̆ia** [bugia]
 
 ### ė
 
@@ -402,10 +454,15 @@
 
 * **dic-mė** [dimmi]
 * **fac-mė** [fammi]
+* **mėlĭōre** [migliore]
 
 ### e̊
 
 * **de̊manda** [domanda]
+
+...
+
+* **de̊post** [dopo]
 
 ### ĕ
 
@@ -416,9 +473,8 @@
 * **fas̆ĕolo** [fagiolo]
 * **platĕa** [piazza]
 * **hodĭĕ** [oggi]
-...
-
-* **de̊post** [dopo]
+* **ĕccu-ïllo** = **quïllo** [quello]
+* **ĕccu-ïsto** = **quësto** [questo]
 
 ### ṡ
 
@@ -494,9 +550,13 @@
 * **ad-ïpso** ! **ad-ìsso** [adesso]
 * **gůttĕa** ! **gůttja** [goccia]
 * **omnĭ** ! **ómnĭ** [ogni]
+* **qŭærere** ! **qŭiédere** [chiedere] ?
+* **venēno** ! **velēno** [veleno]
 
 * **post-** [pos-]
 * **trans-** [tras-]
+
+* **postmeridĭo** [pomeriggio]
 
 
 
