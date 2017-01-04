@@ -18,6 +18,8 @@
 
 * **ab** [a]
 * **sic** [sì]
+* **lic** [lì]
+* **lac** [là]
 
 ...
 
@@ -122,8 +124,8 @@
 
 ## Vocalismi
 
-* **pēr**  [per]
-* **cōn** [con]
+* **stēlla** [stella]
+* **fōrma** [forma]
 
 * **pïsce** [pesce]
 * **půlso** [polso]
@@ -135,8 +137,11 @@
 
 ### ē
 
+* **pēr**  [per]
 * **tēla** [tela]
 * **sēra** [sera]
+* **cēna** [cena]
+* **crēdere** [credere]
 
 ### ï
 
@@ -150,6 +155,8 @@
 * **lïttera** [lettera]
 * **lïgno** [legno]
 * **invïce** [invece]
+* **bïre** [bere]
+* **sïno** [seno]
 
 ...
 
@@ -187,21 +194,29 @@
 * **regůla** [regola]
 * **sůpra** [sopra]
 * **ecců** [ecco]
+* **růsso** [rosso]
+* **fůndo** [fondo]
+* **vagabůndo** [vagabondo]
+* **růmpere** [rompere]
+* **ůltre** [oltre]
 
 ...
 
 * **thůnno** [tonno]
 * **sůbto** [sotto]
+* **růpto** [rotto]
 
 ### ō
 
-* **fōrma** [forma]
 * **cōrte** [corte]
 * **sōle** [sole]
 * **vōce** [voce]
 * **bōrdo** [bordo]
+* **cōn** [con]
 
 * **visiōne** = **visione** [visione]
+* **prō** = **pro** [pro]
+* **dō** = **do** [do]
 
 ...
 
@@ -251,8 +266,6 @@
 * **radĭo** [raggio]
 
 ...
-
-* **post
 
 #### lĭ
 
@@ -335,21 +348,22 @@
 ...
 
 * **důplo** [doppio]
-* **plůvere** [piovere]
-* **plůvĭa** [pioggia]
 * **plus** [più]
+* **plůmbo** [piombo]
+* **biůndo** [biondo]
 
 ## u
 
 ### ŭ Muta
 
-* **qŭe** [che]
+* **qŭē** [che]
 * **matŭtina** [mattina]
 
 ...
 
 * **aŭscůltare** [ascoltare]
 * **qŭōme** [come]
+* **qŭis** [chi]
 
 #### cŭl
 
@@ -376,9 +390,11 @@
 ## Lenitĭone éd Rĕaddůplamento [Lenizione e Raddoppiamento]
 
 * **c̆atto** [gatto]
-* **rico** [ricco] ?
+* **riĉo** [ricco]
 * **seq̆uire** [seguire]
 * **aq̄ua** [acqua]
+* **mağïstro** [maestro]
+* **leĝere** [leggere]
 
 * **operar̆io** [operaio]
 * **par̆o** [paio]
@@ -390,11 +406,16 @@
 * **civĭtat̯** = **civĭtad** [città]
 * **påŭp̆ero** [povero]
 * **sap̆ĭo** [saggio]
+* **rėcůp̆erare** [ricoverare]
 
 ### b
 
 * **laboro** [lavoro]
 * **laƀoratorio** [laboratorio]
+* **libello** [livello]
+
+...
+
 * **nubůla** [nuvola]
 * **nēbŭla** [nebbia]
 
@@ -432,7 +453,7 @@
 * **mēnse** [mese]
 * **mēn̄sile** [mensile]
 * **cōrtēns̆ĭare** = **cōrtējare** [corteggiare]
-* **pagēnse** [paese] ?
+* **pağēnse** [paese]
 
 
 ## Altĕri Vocalismi
@@ -471,10 +492,13 @@
 ...
 
 * **fas̆ĕolo** [fagiolo]
+* **gris̆ĕo** [grigio]
 * **platĕa** [piazza]
 * **hodĭĕ** [oggi]
 * **ĕccu-ïllo** = **quïllo** [quello]
 * **ĕccu-ïsto** = **quësto** [questo]
+* **ĕccu-hac** = **quac** [qua]
+* **ĕccu-hic** = **quic** [qui]
 
 ### ṡ
 
@@ -496,26 +520,41 @@
 ### Cōniugatĭone
 
 * **amo**, **amṡ**, **amat**, **amiamos**, **amates**, **amano**
-* **vïdo**, **vïdṡ**, **vïdet**, **vïdiamos**, **vïdetes**, **vïdono**
 * **vinco**, **vincṡ**, **vincet**, **vinciamos**, **vincetes**, **vincono**
 * **sento**, **sentṡ**, **sentet**, **sentiamos**, **sentetes**, **sentono**
 
+...
+
+* **vïdo**, **vïdṡ**, **vïdet**, **vïdiamos**, **vïdetes**, **vïdono**
+
 #### are
+
+...
 
 * **lïgo**, **lïgṡ**, **lïgat**, **lïgiamos**, **lïgates**, **lïgano**
 
 #### ēre
+
+...
 
 * **tenıo**, **tẽnṡ**, **tẽnet**, **teniamos**, **tenetes**, **tenıono**
 
 #### ere
 
 * **vendo**, **vendṡ**, **vendet**, **vendiamos**, **vendetes**, **vendono**
-* **scribo**, **scribṡ**, **scribet**, **scribiamo**, **scribetes**, **scribono**
+
+...
+
+* **scribo**, **scribṡ**, **scribet**, **scribiamos**, **scribetes**, **scribono**
+* **tolıo**, **tolĭṡ**, **tolĭet**, **tolĭamos**, **tolĭetes**, **tolıono**
 
 #### ire
 
 * **parto**, **partṡ**, **partet**, **partiamos**, **partites**, **partono**
+
+##### isc
+
+* **finisco**, **finiscṡ**, **finiscet**, **finiamos**, **finites**, **finiscono**
 
 #### Verbi Auxiliari éd Irregůlari
 
@@ -542,15 +581,10 @@
 ## Forme Cōmpłexe
 
 * **mandŭcare** ! **manjare** [mangiare]
-* **spïcŭlo** ! **spìcŭlo** [specchio]
 * **cōmpŭtare** ! **cōntare** [contare]
 * **ĕxvïgĭlare** ! **ĕxvïglĭare** [svegliare]
-* **plůmbo** ! **plúmbo** [piombo]
 * **fabŭla** ! **flaba** [fiava]
-* **ad-ïpso** ! **ad-ìsso** [adesso]
 * **gůttĕa** ! **gůttja** [goccia]
-* **omnĭ** ! **ómnĭ** [ogni]
-* **qŭærere** ! **qŭiédere** [chiedere] ?
 * **venēno** ! **velēno** [veleno]
 
 * **post-** [pos-]
@@ -558,6 +592,11 @@
 
 * **postmeridĭo** [pomeriggio]
 
+### Vocalismi Strani
 
-
-
+* **ad-ïpso** ! **ad-ìsso** [adesso]
+* **spïcŭlo** ! **spìcŭlo** [specchio]
+* **plůvere** ! **plùvere** [piovere]
+* **plůvĭa** ! **plùvĭa** [pioggia]
+* **omnĭ** ! **ómnĭ** [ogni]
+* **qŭærere** ! **qŭiédere** [chiedere] ?
