@@ -1,6 +1,6 @@
 # SĒṢOPŌ (正書法)
 
-## KUN.yomi
+## KUN.yomi (訓読み)
 
 * pito (人)
 * pude (筆)
@@ -8,7 +8,7 @@
 * .he (へ)
 * .wo (を)
 
-## ON.yomi (音読)
+## ON.yomi (音読み)
 
 * 聿 IṬ IT
  * 律 RĖT RĖṬ RET
