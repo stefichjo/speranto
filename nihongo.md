@@ -93,6 +93,7 @@
 * 市 SI
  * 姉 SI 
 * 弓 ḲŪ
+ * 強 ḲŌ :KO
  * 巷 「衖」 KŌ
    * 港 KŌ
 * 【｜】
@@ -116,11 +117,19 @@
 * 穴 KET
 * 水 SĪ
 * 氷 P̣Õ
+* 泉 SEN
+ * 原 GEN
 * 長 ṬŌ
  * 帳 ṬŌ
 * 衣 Ė E
  * 哀 Ā
 * 人 N̥IN NIN
+* 木 M̥OK MOK
+* 本 PON
+* 休 ḲŪ
+* 林 RIN
+ * 禁 KIN
+* 東 TŌ
 * 失 SIT
  * 鉄 TET
 * 【弋】
@@ -129,6 +138,15 @@
    * 試 SI
 * 代 :TĀ TĀ
  * 貸 TĀ
+
+* 者 ṢA
+ * 都 TO TǑ
+
+## tatowe:ha (例えば)
+
+* NI'.PON (日本)
+ * TŌ.ḲĒ (東京)
+ * ḲĒ.TO (京都) 
 
 
 示 :SI SI: 祭 SĀ: 察 SAT
@@ -149,7 +167,6 @@
 母 BO: 毎 MĀ: 海 KĀ
 竹 TIK: 第 :TĀ TǢ
 門 MON
-弓 ḲŪ: 強 ḲŌ :KO
 匕 PI
 化 KA KÆ: 花 KA KÆ 靴 KA
 北 POK: 背 PĀ
@@ -182,8 +199,6 @@
 僉 SEN: 検 KEN 験 KEN :KEN
 日 NIṬ N̥IT
 白 PAK :P̣AK: 百 P̣AK :P̣AK: 佰 P̣AK PAK: 宿 ṢUK
-泉 SEN: 原 GEN
-者 ṢA
 旨 SI: 指 SI
 車 ṢA
 軍 GEN: 運 UN
@@ -231,10 +246,6 @@
 去 ḲO KO: 却 ḲAK 怯 ḲŌ KŌ
 : 盍 KŌ: 溘 KŌ 蓋 :KĀ KĀ KŌ!(KÅ)
 干 KAN: 開 KĀ
-木 M̥OK MOK
-本 PON
-休 ḲŪ
-林 RIN: 禁 KIN 
 牛 G̣Ō: 告 KOK
 斗 TO TŌ: 料: ṚŌ
 大  :TĀ TĀ
