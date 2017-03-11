@@ -4,29 +4,61 @@
 
 ### .
 
+* ki.mono (着物)
+
 ### :
 
-* me:kane (眼鏡)
+* yama:ta (山田)
+* te:kami (手紙)
 
-### t → ch/ts
+### - → r
 
-* matu (待つ)
-* mati.masu (待)
-
-### d/z → j
-
-* dha ()
+* tabeu (食べる)
+* miu (見る)
 
 ### w → -
 
+* kawu (買う)
 * .wo (を)
 
-### p → h/f → w
+### p → f/h
 
-* pito (人)
 * pude (筆)
+* pito (人)
 * .ha (は)
 * .he (へ)
+
+### -t
+
+* 持って motte
+* 押して oste
+* 書いて kakte
+* 急いで isogte
+* 死んで sinte
+* 飲んで nomte
+* 呼んで yobte
+
+* 行って i'te
+
+
+### t → ts
+
+* tuki (月)
+
+### s, t → sh, ch
+
+* asi (足)
+* mati (町)
+
+### z, d → j
+
+* pana:ti (鼻血)
+
+* d-ha ()
+
+### k
+
+* hayak 
 
 ## ON.yomi (音読み)
 
