@@ -76,8 +76,12 @@
  * 終 ṢŌ
 * 系 KEN
  * 懸 KEN KE
+* 万 MAN M̥AN
+ * 方 PŌ
+   * 坊 BŌ BO'
+   * 防 BŌ
 * 市 SI
- * 姉 SI
+ * 姉 SI 
 * 【｜】
 * 聿 IṬ IT
  * 律 RĖT RĖṬ RET
@@ -110,7 +114,7 @@
 水 SỤ
 刀 TŌ: 初 ṢO
 列 RET RE: 例 RĒ
-方 PŌ: 坊 BŌ BO' 防 BŌ
+
 丁 ṬĒ TĒ TĖN TŌ=TE̊ TĖ: 町 ṬŌ
 示 :SI SI: 祭 SĀ: 察 SAT
 予 YÅ ṢA: 野 YȎ ṢO 預 YO
