@@ -21,7 +21,7 @@
 * kawu (買う)
 * .wo (を)
 
-### p → f/h
+### p → f/h/w
 
 * pude (筆)
 * pito (人)
@@ -30,16 +30,18 @@
 
 ### -t
 
-* 持って motte
-* 押して oste
-* 書いて kakte
-* 急いで isogte
-* 死んで sinte
-* 飲んで nomte
-* 呼んで yobte
+* motte (持って)
+* oste (押して)
+* kakte (書いて)
+* isogte (急いで)
+* sinte (死んで)
+* nomte (飲んで)
+* yobte (呼んで)
+* kawte (買って)
+* torte (取って)
 
-* 行って i'te
-
+* i'te (行って)
+* ste (して)
 
 ### t → ts
 
@@ -52,22 +54,28 @@
 
 ### z, d → j
 
+* tojiu (閉じる)
 * pana:ti (鼻血)
+* d-ha (じゃあ)
 
-* d-ha ()
+### k → ku
 
-### k
-
-* hayak 
+* hayak (早く)
+* hayak.te (早くて)
+* hayak-arta (早かった)
 
 ## ON.yomi (音読み)
 
 * 聿 IṬ IT
  * 律 RĖT RĖṬ RET
+* 爿 ṢŌ SŌ
+ * 状 JŌ
 * 厶 SI M̥Ō MǑ
  * 私 SI
  * 台 :TĀ TĀ
     * 始 SI
+* 市 SI
+ * 姉 SI
 * 衣 Ė E
  * 哀 Ā
 * 長 ṬŌ
