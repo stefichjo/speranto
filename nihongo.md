@@ -10,6 +10,11 @@
 
 * yama:ta (山田)
 * te:kami (手紙)
+* toki:toki (時々)
+
+### -
+
+* d-arou (だろう)
 
 ### - → r
 
@@ -72,6 +77,7 @@
 * 小 ṢŌ
  * 肖 ṢŌ
    * 消 ṢŌ
+* 丁 ṬĒ TĒ TĖN TŌ=TE̊ TĖ: 町 ṬŌ
 * 糸 SI
  * 終 ṢŌ
 * 系 KEN
@@ -81,10 +87,14 @@
    * 坊 BŌ BO'
    * 防 BŌ
 * 刀 TŌ
+ * 列 RET RE
+   * 例 RĒ
  * 初 ṢO
 * 市 SI
  * 姉 SI 
 * 【｜】
+* 工 KŌ KǑ :KǑ
+ * 空 KŪ
 * 聿 IṬ IT
  * 律 RĖT RĖṬ RET
 * 爿 ṢŌ SŌ
@@ -115,9 +125,9 @@
 * 代 :TĀ TĀ
  * 貸 TĀ
 
-列 RET RE: 例 RĒ
 
-丁 ṬĒ TĒ TĖN TŌ=TE̊ TĖ: 町 ṬŌ
+穴 KET
+
 示 :SI SI: 祭 SĀ: 察 SAT
 予 YÅ ṢA: 野 YȎ ṢO 預 YO
 矛 MǑ M̥Ō: 務 MU
@@ -203,7 +213,6 @@
 占 SEN: 店 TEN 点 TEN
 疋 PIḲ ṢO SO PIT 定 S̥Ē ṢĒ 是 :SE SĖ: 提 TĒ ṬĒ :TĀ?
 下 KA :KÆ
-工 KŌ KǑ :KǑ
 王 Ō -NŌ
 主 ṢU SU ṢŪ: 注 ṬŪ 住 :ṬŪ ṬŪ
 羊 YŌ: 洋 YŌ
