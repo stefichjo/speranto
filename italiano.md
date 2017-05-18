@@ -299,6 +299,7 @@
 * **ĭurare** = **jurare** [giurare]
 
 * **pronuntja** [pronuncia]
+* **angùstja** [angoscia]
 
 ...
 
