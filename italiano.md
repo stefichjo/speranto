@@ -127,8 +127,8 @@
 ## Vocalismi
 
 * **[stēlla](#ē)** [stella]
-   * **[pïsce](#ï)** [pesce]
-   * **[fẽro](#ẽ)** [fiero]
+  * **[pïsce](#ï)** [pesce]
+  * **[fẽro](#ẽ)** [fiero]
 
 ## ..
 
@@ -419,11 +419,11 @@
 * **plůmbo** [piombo]
 * **bḷůndo** [biondo]
 
-### pl
-
 #### pŭl
 
 * **copŭla** [coppia]
+
+### tl
 
 #### tŭl
 
