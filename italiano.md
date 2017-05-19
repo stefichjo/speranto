@@ -127,10 +127,11 @@
 
 * **[stēlla](#ē)** [stella]
   * **[pïsce](#ï)** [pesce]
+  * **[fẽro](#ẽ)** [fiero]
 * **[fōrma](#ō)** [forma]
-  * **[půlso](#ů)** [polso]
-* **[fẽro](#ẽ)** [fiero]
-* **[bõno](#õ)** [buono]
+  * **[půlso](#ů)** [polso]
+  * **[plùvere](#ù)** [piovere]
+  * **[bõno](#õ)** [buono]
 
 * **åŭro** [oro]
 
@@ -162,6 +163,18 @@
 * **dïcto** [detto]
 * **ïpso** [esso]
 
+
+#### ẽ
+
+* **tẽpido** [tiepido]
+* **mẽle** [miele]
+* **pẽtra** [pietra]
+* **pẽde** [piede]
+
+...
+
+* **hẽri** [ieri]
+
 ### ō
 
 * **cōrte** [corte]
@@ -179,7 +192,7 @@
 * **hōra** [ora]
 * **ad-l’hōra** [allora]
 
-### ů
+#### ů
 
 * **můlto** [molto]
 * **můndo** [mondo]
@@ -202,18 +215,14 @@
 * **sůbto** [sotto]
 * **růpto** [rotto]
 
-### ẽ
-
-* **tẽpido** [tiepido]
-* **mẽle** [miele]
-* **pẽtra** [pietra]
-* **pẽde** [piede]
+#### ù
 
 ...
 
-* **hẽri** [ieri]
+* **plùvere** [piovere]
+* **plùvĭa** [pioggia]
 
-### õ
+#### õ
 
 * **hõmo** [uomo]
 * **fõco** [fuoco]
@@ -502,11 +511,6 @@
 * **ĕccu-ïsto** = **quësto** [questo]
 * **ĕccu-hac** = **quac** [qua]
 * **ĕccu-hic** = **quic** [qui]
-
-### ù
-
-* **plůvere** ! **plùvere** [piovere]
-* **plůvĭa** ! **plùvĭa** [pioggia]
 
 ### ṡ
 
