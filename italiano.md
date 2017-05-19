@@ -163,6 +163,9 @@
 * **dïcto** [detto]
 * **ïpso** [esso]
 
+#### ì
+
+* **ad-ìsso** [adesso]
 
 #### ẽ
 
@@ -386,6 +389,7 @@
 
 * **cïrcŭlo** [cerchio]
 * **åŭrïcŭlo** [orecchio]
+* **spìcŭlo** [specchio]
 
 #### dŭl
 
@@ -606,7 +610,5 @@
 
 ### Vocalismi Strani
 
-* **ad-ïpso** ! **ad-ìsso** [adesso]
-* **spïcŭlo** ! **spìcŭlo** [specchio]
 * **omnĭ** ! **ómnĭ** [ogni]
 * **qŭærere** ! **qŭiédere** [chiedere] ?
