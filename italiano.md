@@ -67,6 +67,7 @@
 * **maximo** [massimo]
 * **texto** [testo]
 * **luxo** [lusso]
+* **anxia** [ansia]
 
 * **exame** [esame]
 * **exito** [esito]
@@ -214,9 +215,9 @@
 * **bōrdo** [bordo]
 * **cōn** [con]
 
-* **visiōne** = **visione** [visione]
-* **prō** = **pro** [pro]
-* **dō** = **do** [do]
+* **visiōne** [visione]
+* **prō** [pro]
+* **dō** [do]
 
 ...
 
@@ -501,6 +502,11 @@
 * **ĕccu-hac** = **quac** [qua]
 * **ĕccu-hic** = **quic** [qui]
 
+### ù
+
+* **plůvere** ! **plùvere** [piovere]
+* **plůvĭa** ! **plùvĭa** [pioggia]
+
 ### ṡ
 
 * **maṡ** [mai]
@@ -597,7 +603,5 @@
 
 * **ad-ïpso** ! **ad-ìsso** [adesso]
 * **spïcŭlo** ! **spìcŭlo** [specchio]
-* **plůvere** ! **plùvere** [piovere]
-* **plůvĭa** ! **plùvĭa** [pioggia]
 * **omnĭ** ! **ómnĭ** [ogni]
 * **qŭærere** ! **qŭiédere** [chiedere] ?
