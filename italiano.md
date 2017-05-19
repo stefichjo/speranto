@@ -127,13 +127,13 @@
 ## Vocalismi
 
 * **[stēlla](#ē)** [stella]
-  * **[pïsce](#ï)** [pesce]
-  * **[fẽro](#ẽ)** [fiero]
+   * **[pïsce](#ï)** [pesce]
+   * **[fẽro](#ẽ)** [fiero]
 * **[ōra](#ō)** [ora]
-  * **[půlso](#ů)** [polso]
-  * **[plùvere](#ù)** [piovere]
-    * **[ăùro](#ăù)** [oro]
-  * **[bõno](#õ)** [buono]
+   * **[půlso](#ů)** [polso]
+   * **[plùvere](#ù)** [piovere]
+      * **[ăùro](#ăù)** [oro]
+   * **[bõno](#õ)** [buono]
   
 
 ### ē
@@ -232,6 +232,7 @@
 * **căùsa** [cosa]
 * **păùco** [poco]
 * **tăùro** [toro]
+
 ## Vocali Muti
 
 ### ă
@@ -292,10 +293,7 @@
 * **sõra** [suora]
 * **sõno** [suono]
 
-## i
-
-
-### ĭ Assimilata
+## ĭ Assimilata
 
 * **basĭo** [bacio]
 * **familĭa** [famiglia]
@@ -303,35 +301,35 @@
 * **gratĭe** [grazie]
 * **laxĭare** [lasciare]
 
-#### tĭ
+### tĭ
 
-* **statĭone** [stazione]
+* **statĭōne** [stazione]
 
-##### tī
+#### tī
 
 * **tīo** [zio]
 * **democratīa** [democrazia]
 
-#### dĭ
+### dĭ
 
 * **radĭo** [raggio]
 
 ...
 
-#### lĭ
+### lĭ
 
 * **folĭo** [foglio]
 * **filĭo** [figlio]
 * **melĭo** [meglio]
 * **alĭo** [aglio]
 
-#### nĭ
+### nĭ
 
 ...
 
 * **somnĭo** [sogno]
 
-### ı Cōnsonantica
+## ı Cōnsonantica
 
 * **tolıo** [tolgo]
 * **venıo** [vengo]
@@ -342,7 +340,7 @@
 
 * **capĭtıo** [cazzo]
 
-### j
+### ĭ Intervocalica
 
 * **maĭo** = **majo** [maggio]
 * **peĭo** = **pejo** [peggio]
@@ -357,7 +355,7 @@
 * **ĭam** = **jam** [già]
 * **obĭecto** = **objecto** [oggetto]
 
-## l
+## ḷ
 
 ### bl
 
@@ -374,6 +372,20 @@
 ...
 
 * **clesıa** [chiesa]
+
+#### cŭl
+
+* **macŭla** [macchia]
+* **ocŭlo** [occhio]
+* **cïrcŭlo** [cerchio]
+* **åŭrïcŭlo** [orecchio]
+* **spìcŭlo** [specchio]
+
+### dl
+
+#### dŭl
+
+* **sedŭla** [sedia]
 
 ### fl
 
@@ -402,24 +414,9 @@
 * **důplo** [doppio]
 * **plus** [più]
 * **plůmbo** [piombo]
-* **biůndo** [biondo]
+* **bḷůndo** [biondo]
 
-## u
-
-#### cŭl
-
-* **macŭla** [macchia]
-* **ocŭlo** [occhio]
-
-...
-
-* **cïrcŭlo** [cerchio]
-* **åŭrïcŭlo** [orecchio]
-* **spìcŭlo** [specchio]
-
-#### dŭl
-
-* **sedŭla** [sedia]
+### pl
 
 #### pŭl
 
