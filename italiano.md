@@ -130,6 +130,8 @@
    * **[pïsce](#ï)** [pesce]
    * **[fẽro](#ẽ)** [fiero]
 
+## ..
+
 * **[ōra](#ō)** [ora]
    * **[půlso](#ů)** [polso]
    * **[plùvere](#ù)** [piovere]
