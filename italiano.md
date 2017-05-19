@@ -129,6 +129,7 @@
 * **[stēlla](#ē)** [stella]
    * **[pïsce](#ï)** [pesce]
    * **[fẽro](#ẽ)** [fiero]
+
 * **[ōra](#ō)** [ora]
    * **[půlso](#ů)** [polso]
    * **[plùvere](#ù)** [piovere]
@@ -233,6 +234,16 @@
 * **păùco** [poco]
 * **tăùro** [toro]
 
+#### õ
+
+* **hõmo** [uomo]
+* **fõco** [fuoco]
+* **fõri** [fuori]
+* **cõre** [cuore]
+* **dõmo** [duomo]
+* **sõra** [suora]
+* **sõno** [suono]
+
 ## Vocali Muti
 
 ### ă
@@ -282,16 +293,6 @@
 * **aŭscůltare** [ascoltare]
 * **qŭōme** [come]
 * **qŭis** [chi]
-
-#### õ
-
-* **hõmo** [uomo]
-* **fõco** [fuoco]
-* **fõri** [fuori]
-* **cõre** [cuore]
-* **dõmo** [duomo]
-* **sõra** [suora]
-* **sõno** [suono]
 
 ## ĭ Assimilata
 
