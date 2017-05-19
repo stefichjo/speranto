@@ -125,10 +125,10 @@
 
 ## Vocalismi
 
-* **stēlla** [stella]
+* **[stēlla](#ē)** [stella]
+* **pïsce** [pesce]
 * **fōrma** [forma]
 
-* **pïsce** [pesce]
 * **půlso** [polso]
 
 * **fẽro** [fiero]
