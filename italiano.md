@@ -129,11 +129,12 @@
 * **[stēlla](#ē)** [stella]
   * **[pïsce](#ï)** [pesce]
   * **[fẽro](#ẽ)** [fiero]
-* **[fōrma](#ō)** [forma]
+* **[ōra](#ō)** [ora]
   * **[půlso](#ů)** [polso]
   * **[plùvere](#ù)** [piovere]
+    * **[ăùro](#ăù)** [oro]
   * **[bõno](#õ)** [buono]
-  * **[ăùro](#ăù)** [oro]
+  
 
 ### ē
 
@@ -231,6 +232,55 @@
 * **căùsa** [cosa]
 * **păùco** [poco]
 * **tăùro** [toro]
+## Vocali Muti
+
+### ă
+
+* **ăudire** [udire]
+
+...
+
+* **băuc̆ia** [bugia]
+
+### ĕ
+
+* **dĕab** [da]
+
+...
+
+* **fas̆ĕolo** [fagiolo]
+* **gris̆ĕo** [grigio]
+* **platĕa** [piazza]
+* **hodĭĕ** [oggi]
+* **ĕccu-ïllo** = **quïllo** [quello]
+* **ĕccu-ïsto** = **quësto** [questo]
+* **ĕccu-hac** = **quac** [qua]
+* **ĕccu-hic** = **quic** [qui]
+
+### ĭ
+
+* **calĭdo** [caldo]
+
+* **ĭntra** [tra]
+* **ĭnfra** [fra]
+
+...
+
+* **domĭna** [donna]
+* **vïrĭde** [verde]
+* **frïgĭdo** [freddo]
+* **ĭst’ïpso** [stesso]
+
+### ŭ
+
+* **qŭē** [che]
+* **matŭtina** [mattina]
+
+...
+
+* **aŭscůltare** [ascoltare]
+* **qŭōme** [come]
+* **qŭis** [chi]
 
 #### õ
 
@@ -244,19 +294,6 @@
 
 ## i
 
-### ĭ Muta
-
-* **calĭdo** [caldo]
-
-* **ĭntra** [tra]
-* **ĭnfra** [fra]
-
-...
-
-* **domĭna** [donna]
-* **vïrĭde** [verde]
-* **frïgĭdo** [freddo]
-* **ĭst’ïpso** [stesso]
 
 ### ĭ Assimilata
 
@@ -369,17 +406,6 @@
 
 ## u
 
-### ŭ Muta
-
-* **qŭē** [che]
-* **matŭtina** [mattina]
-
-...
-
-* **aŭscůltare** [ascoltare]
-* **qŭōme** [come]
-* **qŭis** [chi]
-
 #### cŭl
 
 * **macŭla** [macchia]
@@ -420,7 +446,7 @@
 * **stat̯ĭone** [stagione]
 * **rat̯ĭone** [ragione]
 * **civĭtat̯** = **civĭtad** [città]
-* **påŭp̆ero** [povero]
+* **păùp̆ero** [povero]
 * **sap̆ĭo** [saggio]
 * **rėcůp̆erare** [ricoverare]
 
@@ -474,13 +500,6 @@
 
 ## Altĕri Vocalismi
 
-### ă
-
-* **ăudire** [udire]
-
-...
-
-* **băuc̆ia** [bugia]
 
 ### ė
 
@@ -501,20 +520,7 @@
 
 * **de̊post** [dopo]
 
-### ĕ
 
-* **dĕab** [da]
-
-...
-
-* **fas̆ĕolo** [fagiolo]
-* **gris̆ĕo** [grigio]
-* **platĕa** [piazza]
-* **hodĭĕ** [oggi]
-* **ĕccu-ïllo** = **quïllo** [quello]
-* **ĕccu-ïsto** = **quësto** [questo]
-* **ĕccu-hac** = **quac** [qua]
-* **ĕccu-hic** = **quic** [qui]
 
 ### ṡ
 
