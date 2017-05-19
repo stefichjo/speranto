@@ -23,7 +23,7 @@
 
 ...
 
-* **dĕab-vēro** [davvero]
+* **dĕ-ab-vēro** [davvero]
 
 ### æ
 
@@ -31,6 +31,11 @@
 * **æstate** = **estate** [estate]
 * **præsto** = **presto** [presto]
 * **cælo** = **celo** [cielo]
+
+...
+
+* **qyær̥ere** = **qŭiedere** [chiedere]
+
 
 ### œ
 
@@ -69,6 +74,7 @@
 * **luxo** [lusso]
 * **fixo** [fisso]
 * **anxia** [ansia]
+* **fluxo** [flusso]
 
 * **exame** [esame]
 * **exito** [esito]
@@ -124,19 +130,22 @@
 
 * **hymno** [inno]
 
+### r̥
+
+* **armar̥io** [armadio]
+* **dė rar̥o** [di rado]
+
 ## Vocalismi
 
 * **[stēlla](#ē)** [stella]
-  * **[pïsce](#ï)** [pesce]
-  * **[fẽro](#ẽ)** [fiero]
-
-## ..
+ * **[pïsce](#ï)** [pesce]
+ * **[fẽro](#ẽ)** [fiero]
 
 * **[ōra](#ō)** [ora]
-   * **[půlso](#ů)** [polso]
-   * **[plùvere](#ù)** [piovere]
-      * **[ăùro](#ăù)** [oro]
-   * **[bõno](#õ)** [buono]
+ * **[půlso](#ů)** [polso]
+ * **[pḷùvere](#ù)** [piovere]
+   * **[ăùro](#ăù)** [oro]
+ * **[bõno](#õ)** [buono]
   
 
 ### ē
@@ -189,7 +198,6 @@
 * **vōce** [voce]
 * **bōrdo** [bordo]
 * **cōn** [con]
-
 * **visiōne** [visione]
 * **prō** [pro]
 * **dō** [do]
@@ -226,8 +234,8 @@
 
 ...
 
-* **plùvere** [piovere]
-* **plùvĭa** [pioggia]
+* **pḷùvere** [piovere]
+* **pḷùvĭa** [pioggia]
 
 ##### ăù
 
@@ -258,16 +266,16 @@
 
 ### ĕ
 
-* **dĕab** [da]
+* **dĕ-ab** [da]
 
 ...
 
 * **fas̆ĕolo** [fagiolo]
 * **gris̆ĕo** [grigio]
-* **platĕa** [piazza]
+* **pḷatĕa** [piazza]
 * **hodĭĕ** [oggi]
 * **ĕccu-ïllo** = **quïllo** [quello]
-* **ĕccu-ïsto** = **quësto** [questo]
+* **ĕccu-ïsto** = **quïsto** [questo]
 * **ĕccu-hac** = **quac** [qua]
 * **ĕccu-hic** = **quic** [qui]
 
@@ -360,21 +368,27 @@
 
 ## ḷ
 
-### bl
+### bḷ
 
-* **blanco** [bianco]
+* **bḷanco** [bianco]
 
-### cl
+#### bŭl
 
-* **claro** [chiaro]
-* **clave** [chiave]
-* **cluso** [chiuso]
+* **nēbŭla** [nebbia]
 
-* **incłuso** [incluso]
+### cḷ
+
+* **cḷaro** [chiaro]
+* **cḷave** [chiave]
+* **cḷuso** [chiuso]
 
 ...
 
-* **clesıa** [chiesa]
+* **incluso** [incluso]
+
+...
+
+* **cḷesıa** [chiesa]
 
 #### cŭl
 
@@ -384,52 +398,58 @@
 * **åŭrïcŭlo** [orecchio]
 * **spìcŭlo** [specchio]
 
-### dl
+### dḷ
 
 #### dŭl
 
 * **sedŭla** [sedia]
 
-### fl
+### fḷ
 
-* **flamma** [fiamma]
-* **flore** [fiore]
-* **flume** [fiume]
+* **fḷamma** [fiamma]
+* **fḷore** [fiore]
+* **fḷume** [fiume]
 
-### gl
-
-...
-
-* **glacĭo** [ghiaccio]
-
-### pl
-
-* **plano** [piano]
-* **planta** [pianta]
-* **pleno** [pieno]
-* **pluma** [piuma]
-* **templo** [tempio]
-
-* **tempłi** [templi]
+### gḷ
 
 ...
 
-* **důplo** [doppio]
-* **plus** [più]
-* **plůmbo** [piombo]
+* **gḷacĭo** [ghiaccio]
+
+...
+
+* **glaciale** [glaciale]
+
+### pḷ
+
+* **pḷano** [piano]
+* **pḷanta** [pianta]
+* **pḷeno** [pieno]
+* **pḷuma** [piuma]
+* **tempḷo** [tempio]
+
+...
+
+* **templi** [templi]
+
+...
+
+* **důpḷo** [doppio]
+* **pḷus** [più]
+* **pḷůmbo** [piombo]
 * **bḷůndo** [biondo]
 
 #### pŭl
 
 * **copŭla** [coppia]
 
-### tl
+### tḷ
 
 #### tŭl
 
 * **vetŭlo** [vecchio]
 
-## Lenitĭone éd Rĕaddůplamento [Lenizione e Raddoppiamento]
+## Lenitĭone éd Rĕaddůpḷamento [Lenizione e Raddoppiamento]
 
 * **c̆atto** [gatto]
 * **riĉo** [ricco]
@@ -450,28 +470,16 @@
 * **sap̆ĭo** [saggio]
 * **rėcůp̆erare** [ricoverare]
 
-### b
+### ƀ
 
-* **laboro** [lavoro]
-* **laƀoratorio** [laboratorio]
-* **libello** [livello]
-
-...
-
-* **nubůla** [nuvola]
-* **nēbŭla** [nebbia]
-
-#### bil
-
-* **mobile** [mobile]
-* **stabile** [stabile]
-* **visibile** [visibile]
-
-#### ber
-
-* **libero** [libero]
+* **laƀoro** [lavoro]
+* **liƀello** [livello]
 
 ...
+
+* **nuƀůla** [nuvola]
+
+## at̯
 
 * **libertat̯** = **libertad** [libertà]
 
@@ -486,7 +494,7 @@
 ## at̯ĭc̆
 
 * **format̯ĭc̆o** = **formajo** [formaggio]
-* **villat̯ĭc̆o** = **vilajo** [villaggio]
+* **villat̯ĭc̆o** = **villajo** [villaggio]
 * **corat̯ĭc̆o** = **corajo** [coraggio]
 
 ## ēns
@@ -520,7 +528,9 @@
 
 * **de̊post** [dopo]
 
+### ó
 
+* **omnĭ** ! **ómnĭ** [ogni]
 
 ### ṡ
 
@@ -567,7 +577,7 @@
 
 ...
 
-* **scribo**, **scribṡ**, **scribet**, **scribiamos**, **scribetes**, **scribono**
+* **scriƀo**, **scriƀṡ**, **scriƀet**, **scriƀiamos**, **scriƀetes**, **scriƀono**
 * **tolıo**, **tolĭṡ**, **tolĭet**, **tolĭamos**, **tolĭetes**, **tolıono**
 
 #### ire
@@ -580,13 +590,13 @@
 
 #### Verbi Auxiliari éd Irregůlari
 
-* **ho**, **haṡ**, **hat**, **habĭamos**, **habetes**, **hanno**
+* **ho**, **haṡ**, **hat**, **habĭamos**, **haƀetes**, **hanno**
 * **do**, **daṡ**, **dat**, **diamos**, **dates**, **danno**
 * **sto**, **staṡ**, **stat**, **stiamos**, **states**, **stanno**
 * **sono**, **seṡ**, **est**, **siamos**, **sietes**, **sono**
 * **vado**, **vaṡ**, **vat**, **andiamos**, **andates**, **vanno**
 * **ïsco**, **ïscṡ**, **ïscet**, **ěxĭamos**, **ěxītes**, **ïscono**
-* **dēbo**, **dēbṡ**, **dēbet**, **de̊bĭamos**, **de̊betes**, **dēbono**
+* **dēƀo**, **dēƀṡ**, **dēƀet**, **de̊ƀĭamos**, **de̊ƀetes**, **dēƀono**
 * **potso**, **põṡ**, **põt**, **potsiamos**, **potetes**, **potsono**
 * **volĭo**, **võṡ**, **võlet**, **volĭamos**, **voletes**, **volĭono**
 * **facĭo**, **faṡ**, **fat**, **facĭamo**, **fate**, **fanno**
@@ -600,12 +610,12 @@
 
 * **jänŭar̆io**, **febrŭar̆io**, **martıo**, **aprile**, **majo**, **junĭo**, **lulĭo**, **aŭgůsto**, **septembre**, **octobre**, **novembre**, **dėcembre**
 
-## Forme Cōmpłexe
+## Forme Cōmplexe
 
 * **mandŭcare** ! **manjare** [mangiare]
 * **cōmpŭtare** ! **cōntare** [contare]
 * **ĕxvïgĭlare** ! **ĕxvïglĭare** [svegliare]
-* **fabŭla** ! **flaba** [fiava]
+* **fabŭla** ! **fḷaƀa** [fiava]
 * **gůttĕa** ! **gůttja** [goccia]
 * **venēno** ! **velēno** [veleno]
 
@@ -613,8 +623,3 @@
 * **trans-** [tras-]
 
 * **postmeridĭo** [pomeriggio]
-
-### Vocalismi Strani
-
-* **omnĭ** ! **ómnĭ** [ogni]
-* **qŭærere** ! **qŭiédere** [chiedere] ?
