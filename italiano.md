@@ -126,13 +126,11 @@
 ## Vocalismi
 
 * **[stēlla](#ē)** [stella]
-* **pïsce** [pesce]
-* **fōrma** [forma]
-
-* **půlso** [polso]
-
-* **fẽro** [fiero]
-* **bõno** [buono]
+  * **[pïsce](#ï)** [pesce]
+* **[fōrma](#ō)** [forma]
+  * **[půlso](#ů)** [polso]
+* **[fẽro](#ẽ)** [fiero]
+* **[bõno](#õ)** [buono]
 
 * **åŭro** [oro]
 
@@ -144,7 +142,7 @@
 * **cēna** [cena]
 * **crēdere** [credere]
 
-### ï
+#### ï
 
 * **sïgno** [segno]
 * **capïllo** [capello]
@@ -163,6 +161,46 @@
 
 * **dïcto** [detto]
 * **ïpso** [esso]
+
+### ō
+
+* **cōrte** [corte]
+* **sōle** [sole]
+* **vōce** [voce]
+* **bōrdo** [bordo]
+* **cōn** [con]
+
+* **visiōne** [visione]
+* **prō** [pro]
+* **dō** [do]
+
+...
+
+* **hōra** [ora]
+* **ad-l’hōra** [allora]
+
+### ů
+
+* **můlto** [molto]
+* **můndo** [mondo]
+* **secůndo** [secondo]
+* **bůcca** [bocca]
+* **auricůlare** [auricolare]
+* **regůla** [regola]
+* **sůpra** [sopra]
+* **ecců** [ecco]
+* **růsso** [rosso]
+* **fůndo** [fondo]
+* **vagabůndo** [vagabondo]
+* **růmpere** [rompere]
+* **ůltre** [oltre]
+* **cůrto** [corto]
+
+...
+
+* **thůnno** [tonno]
+* **sůbto** [sotto]
+* **růpto** [rotto]
 
 ### ẽ
 
@@ -185,44 +223,7 @@
 * **sõra** [suora]
 * **sõno** [suono]
 
-### ů
 
-* **můlto** [molto]
-* **můndo** [mondo]
-* **secůndo** [secondo]
-* **bůcca** [bocca]
-* **auricůlare** [auricolare]
-* **regůla** [regola]
-* **sůpra** [sopra]
-* **ecců** [ecco]
-* **růsso** [rosso]
-* **fůndo** [fondo]
-* **vagabůndo** [vagabondo]
-* **růmpere** [rompere]
-* **ůltre** [oltre]
-
-...
-
-* **thůnno** [tonno]
-* **sůbto** [sotto]
-* **růpto** [rotto]
-
-### ō
-
-* **cōrte** [corte]
-* **sōle** [sole]
-* **vōce** [voce]
-* **bōrdo** [bordo]
-* **cōn** [con]
-
-* **visiōne** [visione]
-* **prō** [pro]
-* **dō** [do]
-
-...
-
-* **hōra** [ora]
-* **ad-l’hōra** [allora]
 
 ### åŭ
 
