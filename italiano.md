@@ -67,6 +67,7 @@
 * **maximo** [massimo]
 * **texto** [testo]
 * **luxo** [lusso]
+* **fixo** [fisso]
 * **anxia** [ansia]
 
 * **exame** [esame]
@@ -131,9 +132,8 @@
 * **[fōrma](#ō)** [forma]
   * **[půlso](#ů)** [polso]
   * **[plùvere](#ù)** [piovere]
-  * **[bõno](#õ)** [buono]
-
-* **åŭro** [oro]
+  * **[bõno](#õ)** [buono]
+  * **[ăùro](#ăù)** [oro]
 
 ### ē
 
@@ -225,6 +225,13 @@
 * **plùvere** [piovere]
 * **plùvĭa** [pioggia]
 
+##### ăù
+
+* **ăùro** [oro]
+* **căùsa** [cosa]
+* **păùco** [poco]
+* **tăùro** [toro]
+
 #### õ
 
 * **hõmo** [uomo]
@@ -234,13 +241,6 @@
 * **dõmo** [duomo]
 * **sõra** [suora]
 * **sõno** [suono]
-
-
-
-### åŭ
-
-* **cåŭsa** [cosa]
-* **påŭco** [poco]
 
 ## i
 
