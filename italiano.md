@@ -15,7 +15,6 @@
 ### Finale Cōnsonantica
 
 * **in** [in]
-
 * **ab** [a]
 * **sic** [sì]
 * **lic** [lì]
@@ -75,10 +74,8 @@
 * **fixo** [fisso]
 * **anxia** [ansia]
 * **fluxo** [flusso]
-
 * **exame** [esame]
 * **exito** [esito]
-
 * **xylophono** [xilofono]
 
 ...
@@ -91,7 +88,6 @@
 ...
 
 * **apocalypse** [apocalisse]
-
 * **psychologia** [psicologia]
 
 ### pt
@@ -99,7 +95,6 @@
 * **optimo** [ottimo]
 * **apto** [atto]
 * **scripto** [scritto]
-
 * **op̄tare** [optare]
 * **eucalyp̄to** [eucalipto]
 
@@ -118,7 +113,6 @@
 * **pacto** [patto]
 * **pērfecto** [perfetto]
 * **obiectivo** [obiettivo]
-
 * **puncto** [punto]
 
 ### mn
@@ -140,14 +134,12 @@
 * **[stēlla](#ē)** [stella]
  * **[pïsce](#ï)** [pesce]
  * **[fẽro](#ẽ)** [fiero]
-
 * **[ōra](#ō)** [ora]
  * **[půlso](#ů)** [polso]
  * **[pḷùvere](#ù)** [piovere]
    * **[ăùro](#ăù)** [oro]
  * **[bõno](#õ)** [buono]
   
-
 ### ē
 
 * **pēr**  [per]
@@ -339,6 +331,7 @@
 ...
 
 * **somnĭo** [sogno]
+* **omnĭ** [ogni]
 
 ## ı Cōnsonantica
 
@@ -357,7 +350,6 @@
 * **peĭo** = **pejo** [peggio]
 * **ĭusto** = **justo** [giusto]
 * **ĭurare** = **jurare** [giurare]
-
 * **pronuntja** [pronuncia]
 * **angùstja** [angoscia]
 
@@ -457,7 +449,6 @@
 * **aq̄ua** [acqua]
 * **mağïstro** [maestro]
 * **leĝere** [leggere]
-
 * **operar̆io** [operaio]
 * **par̆o** [paio]
 
@@ -487,7 +478,6 @@
 
 * **amici** [amici]
 * **porĭci** [porci]
-
 * **fungi** [funghi]
 * **parci** [parchi]
 
@@ -527,10 +517,6 @@
 ...
 
 * **de̊post** [dopo]
-
-### ó
-
-* **omnĭ** ! **ómnĭ** [ogni]
 
 ### ṡ
 
@@ -612,14 +598,12 @@
 
 ## Forme Cōmplexe
 
-* **mandŭcare** ! **manjare** [mangiare]
 * **cōmpŭtare** ! **cōntare** [contare]
+* **mandŭcare** ! **manjare** [mangiare]
 * **ĕxvïgĭlare** ! **ĕxvïglĭare** [svegliare]
 * **fabŭla** ! **fḷaƀa** [fiava]
 * **gůttĕa** ! **gůttja** [goccia]
 * **venēno** ! **velēno** [veleno]
-
 * **post-** [pos-]
 * **trans-** [tras-]
-
 * **postmeridĭo** [pomeriggio]
