@@ -136,7 +136,7 @@
  * **[fẽro](#ẽ)** [fiero]
 * **[ōra](#ō)** [ora]
  * **[půlso](#ů)** [polso]
- * **[pḷùvere](#ù)** [piovere]
+ * **[płùvere](#ù)** [piovere]
    * **[ăùro](#ăù)** [oro]
  * **[bõno](#õ)** [buono]
   
@@ -226,8 +226,8 @@
 
 ...
 
-* **pḷùvere** [piovere]
-* **pḷùvĭa** [pioggia]
+* **płùvere** [piovere]
+* **płùvĭa** [pioggia]
 
 ##### ăù
 
@@ -264,7 +264,7 @@
 
 * **fas̆ĕolo** [fagiolo]
 * **gris̆ĕo** [grigio]
-* **pḷatĕa** [piazza]
+* **płatĕa** [piazza]
 * **hodĭĕ** [oggi]
 * **ĕccu-ïllo** = **quïllo** [quello]
 * **ĕccu-ïsto** = **quïsto** [questo]
@@ -358,21 +358,21 @@
 * **ĭam** = **jam** [già]
 * **obĭecto** = **objecto** [oggetto]
 
-## ḷ
+## ł
 
-### bḷ
+### bł
 
-* **bḷanco** [bianco]
+* **błanco** [bianco]
 
 #### bŭl
 
 * **nēbŭla** [nebbia]
 
-### cḷ
+### cł
 
-* **cḷaro** [chiaro]
-* **cḷave** [chiave]
-* **cḷuso** [chiuso]
+* **cłaro** [chiaro]
+* **cłave** [chiave]
+* **cłuso** [chiuso]
 
 ...
 
@@ -380,7 +380,7 @@
 
 ...
 
-* **cḷesıa** [chiesa]
+* **cłesıa** [chiesa]
 
 #### cŭl
 
@@ -390,35 +390,35 @@
 * **åŭrïcŭlo** [orecchio]
 * **spìcŭlo** [specchio]
 
-### dḷ
+### dł
 
 #### dŭl
 
 * **sedŭla** [sedia]
 
-### fḷ
+### fł
 
-* **fḷamma** [fiamma]
-* **fḷore** [fiore]
-* **fḷume** [fiume]
+* **fłamma** [fiamma]
+* **fłore** [fiore]
+* **fłume** [fiume]
 
-### gḷ
+### gł
 
 ...
 
-* **gḷacĭo** [ghiaccio]
+* **głacĭo** [ghiaccio]
 
 ...
 
 * **glaciale** [glaciale]
 
-### pḷ
+### pł
 
-* **pḷano** [piano]
-* **pḷanta** [pianta]
-* **pḷeno** [pieno]
-* **pḷuma** [piuma]
-* **tempḷo** [tempio]
+* **płano** [piano]
+* **płanta** [pianta]
+* **płeno** [pieno]
+* **płuma** [piuma]
+* **tempło** [tempio]
 
 ...
 
@@ -426,22 +426,22 @@
 
 ...
 
-* **důpḷo** [doppio]
-* **pḷus** [più]
-* **pḷůmbo** [piombo]
-* **bḷůndo** [biondo]
+* **důpło** [doppio]
+* **płus** [più]
+* **płůmbo** [piombo]
+* **błůndo** [biondo]
 
 #### pŭl
 
 * **copŭla** [coppia]
 
-### tḷ
+### tł
 
 #### tŭl
 
 * **vetŭlo** [vecchio]
 
-## Lenitĭone éd Rĕaddůpḷamento [Lenizione e Raddoppiamento]
+## Lenitĭone éd Rĕaddůpłamento [Lenizione e Raddoppiamento]
 
 * **c̆atto** [gatto]
 * **riĉo** [ricco]
@@ -601,7 +601,7 @@
 * **cōmpŭtare** ! **cōntare** [contare]
 * **mandŭcare** ! **manjare** [mangiare]
 * **ĕxvïgĭlare** ! **ĕxvïglĭare** [svegliare]
-* **fabŭla** ! **fḷaƀa** [fiava]
+* **fabŭla** ! **fłaƀa** [fiava]
 * **gůttĕa** ! **gůttja** [goccia]
 * **venēno** ! **velēno** [veleno]
 * **post-** [pos-]
