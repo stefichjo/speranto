@@ -132,13 +132,13 @@
 ## Vocalismi
 
 * **[stēlla](#ē)** [stella]
- * **[pïsce](#ï)** [pesce]
- * **[fẽro](#ẽ)** [fiero]
+  * **[pïsce](#ï)** [pesce]
+  * **[fẽro](#ẽ)** [fiero]
 * **[ōra](#ō)** [ora]
- * **[půlso](#ů)** [polso]
- * **[płùvere](#ù)** [piovere]
-   * **[ăùro](#ăù)** [oro]
- * **[bõno](#õ)** [buono]
+  * **[půlso](#ů)** [polso]
+  * **[płùvere](#ù)** [piovere]
+    * **[ăùro](#ăù)** [oro]
+  * **[bõno](#õ)** [buono]
   
 ### ē
 
@@ -162,6 +162,7 @@
 * **invïce** [invece]
 * **bïre** [bere]
 * **sïno** [seno]
+* **fïrmo** [fermo]
 
 ...
 
@@ -308,6 +309,15 @@
 
 * **statĭōne** [stazione]
 
+#### tı
+
+* **altıare** [alzare]
+* **cantıone** [canzone]
+
+...
+
+* **capĭtıo** [cazzo]
+
 #### tī
 
 * **tīo** [zio]
@@ -317,7 +327,9 @@
 
 * **radĭo** [raggio]
 
-...
+#### dı
+
+* **medıo** [mezzo]
 
 ### lĭ
 
@@ -326,6 +338,10 @@
 * **melĭo** [meglio]
 * **alĭo** [aglio]
 
+#### lı
+
+* **tolıo** [tolgo]
+
 ### nĭ
 
 ...
@@ -333,30 +349,23 @@
 * **somnĭo** [sogno]
 * **omnĭ** [ogni]
 
-## ı Cōnsonantica
+#### nı
 
-* **tolıo** [tolgo]
 * **venıo** [vengo]
-* **cantıone** [canzone]
-* **medıo** [mezzo]
 
-...
+### j Intervocalica
 
-* **capĭtıo** [cazzo]
-
-### ĭ Intervocalica
-
-* **maĭo** = **majo** [maggio]
-* **peĭo** = **pejo** [peggio]
-* **ĭusto** = **justo** [giusto]
-* **ĭurare** = **jurare** [giurare]
+* **majo** [maggio]
+* **pejo** [peggio]
+* **justo** [giusto]
+* **jurare** [giurare]
 * **pronuntja** [pronuncia]
 * **angùstja** [angoscia]
 
 ...
 
-* **ĭam** = **jam** [già]
-* **obĭecto** = **objecto** [oggetto]
+* **jam** [già]
+* **objecto** [oggetto]
 
 ## ł
 
@@ -532,7 +541,7 @@
 
 ### Pronomi
 
-* **ėo**, **tu**, **ïllĕ**, **nōṡ**, **vōṡ**, **loro**
+* **ėğo**, **tu**, **ïllĕ**, **nōṡ**, **vōṡ**, **loro**
 * **mė**, **tė**, **lĕ**, **cė**, **vė**
 
 ### Cōniugatĭone
@@ -607,3 +616,5 @@
 * **post-** [pos-]
 * **trans-** [tras-]
 * **postmeridĭo** [pomeriggio]
+
+* exsugare [asciugare]
