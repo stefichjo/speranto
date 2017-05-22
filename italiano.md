@@ -79,18 +79,14 @@
 ...
 
 * **xylophono** [xilofono]
+* **praxis** [prassi]
 
 #### ex
 
 * **exame** [esame]
 * **exito** [esito]
 
-...
-
-* **praxis** [prassi]
-
 ### ps
-
 
 ...
 
@@ -102,12 +98,12 @@
 * **optimo** [ottimo]
 * **apto** [atto]
 * **scripto** [scritto]
-* **op̄tare** [optare]
-* **eucalyp̄to** [eucalipto]
 
 ...
 
 * **helicoptero** [elicottero]
+* **op̄tare** [optare]
+* **eucalyp̄to** [eucalipto]
 
 ### ct
 
@@ -122,6 +118,7 @@
 * **obiectivo** [obiettivo]
 * **puncto** [punto]
 * **vincto** [vinto]
+* **acto** [atto]
 
 ...
 
@@ -210,7 +207,6 @@
 * **cōn** [con]
 * **visiōne** [visione]
 * **prō** [pro]
-* **dō** [do]
 
 ...
 
@@ -261,6 +257,7 @@
 * **căùsa** [cosa]
 * **păùco** [poco]
 * **tăùro** [toro]
+* **găùdēre** [godere]
 
 #### õ
 
@@ -288,14 +285,17 @@
 
 ...
 
-* **fas̆ĕolo** [fagiolo]
-* **gris̆ĕo** [grigio]
-* **płatĕa** [piazza]
 * **hodĭĕ** [oggi]
 * **ĕccu-ïllo** = **quïllo** [quello]
 * **ĕccu-ïsto** = **quïsto** [questo]
 * **ĕccu-hac** = **quac** [qua]
 * **ĕccu-hic** = **quic** [qui]
+
+#### ĕ Assimilata
+
+* **fas̆ĕolo** [fagiolo]
+* **gris̆ĕo** [grigio]
+* **płatĕa** [piazza]
 
 ### ĭ
 
@@ -310,6 +310,20 @@
 * **vïrĭde** [verde]
 * **frïgĭdo** [freddo]
 * **ĭst’ïpso** [stesso]
+* **ĭlla** = **la** [la]
+* **ĭllæ** = **le** [le]
+* **ĭllo** = **lo** [lo]
+* **ĭlli** = **li** [li]
+* **ĭllĭ** = **lĭ** [gli]
+
+### ŏ
+
+* **illŏ** = **il** [il]
+* **unŏ** = **un** [un]
+
+...
+
+* **ĭllŏ** = **lŏ** [l']
 
 ### ŭ
 
@@ -499,6 +513,8 @@
 * **păùp̆ero** [povero]
 * **sap̆ĭo** [saggio]
 * **rėcůp̆erare** [ricoverare]
+* **ét̯** = **éd** [ed]
+* **ăùt̯** = **ăùd** [od]
 
 ### ƀ
 
