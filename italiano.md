@@ -150,12 +150,15 @@
 
 * **[stēlla](#ē)** [stella]
   * **[pïsce](#ï)** [pesce]
+  * **[ad-ìsso](#ì)** [adesso]
   * **[fẽro](#ẽ)** [fiero]
+  * **[fėnestra](#ė)** [finestra]
+  * **[técto](#é)** [tetto]
 * **[ōra](#ō)** [ora]
   * **[půlso](#ů)** [polso]
-  * **[płùvere](#ù)** [piovere]
-    * **[ăùro](#ăù)** [oro]
+  * **[tùrre](#ù)** [torre]
   * **[bõno](#õ)** [buono]
+  * **[ǒfficio](#ǒ)** [ufficio]
   
 ### ē
 
@@ -184,7 +187,6 @@
 * **pïlo** [pelo]
 * **capïllo** [capello]
 
-
 ...
 
 * **dïcto** [detto]
@@ -209,6 +211,26 @@
 ...
 
 * **hẽri** [ieri]
+
+#### ė
+
+* **fėnestra** [finestra]
+* **dėo** [dio]
+
+...
+
+* **dic-mė** [dimmi]
+* **fac-mė** [fammi]
+* **mėlĭōre** [migliore]
+
+#### é
+
+* **técto** [tetto]
+
+...
+
+* **tégůla** [tegola]
+
 
 ### ō
 
@@ -258,6 +280,8 @@
 
 #### ù
 
+* **tùrre** [torre]
+
 ...
 
 * **płùvere** [piovere]
@@ -280,6 +304,11 @@
 * **dõmo** [duomo]
 * **sõra** [suora]
 * **sõno** [suono]
+
+#### ǒ
+
+* **ǒfficio** [ufficio]
+* **ǒccidere** [uccidere]
 
 ## Vocali Muti
 
@@ -423,6 +452,7 @@
 * **stantıa** [stanza]
 * **cantıōne** [canzone]
 * **altıare** [alzare]
+* **experientıa** [esperienza]
 
 ...
 
@@ -571,6 +601,10 @@
 
 * **libertat̯** = **libertad** [libertà]
 
+...
+
+* **bonĭtat̯** = **bonĭtad** [bontà]
+
 ## ic
 
 * **amici** [amici]
@@ -612,25 +646,6 @@
 
 ## Altĕri Vocalismi
 
-### é
-
-* **técto** [tetto]
-
-...
-
-* **tégůla** [tegola]
-
-### ė
-
-* **fėnestra** [finestra]
-* **dėo** [dio]
-
-...
-
-* **dic-mė** [dimmi]
-* **fac-mė** [fammi]
-* **mėlĭōre** [migliore]
-
 ### e̊
 
 * **de̊manda** [domanda]
@@ -639,11 +654,6 @@
 ...
 
 * **de̊post** [dopo]
-
-### ǒ
-
-* **ǒfficio** [ufficio]
-* **ǒccidere** [uccidere]
 
 ### ṡ
 
@@ -717,7 +727,7 @@
 ...
 
 * **ïsco**, **ïscṡ**, **ïscet**, **ěxĭamos**, **ěxītes**, **ïscono**
-* **éx̊o**, **éx̊is**, **éx̊et**, **ěx̊iamo**, **ěx̊īte**, **éx̊ono**
+* **éx̊o**, **éx̊ṡ**, **éx̊et**, **ěx̊iamo**, **ěx̊īte**, **éx̊ono**
 
 ## Dĭůrni de-la Septimana
 
