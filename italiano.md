@@ -312,7 +312,7 @@
 
 ## Vocali Muti
 
-* **[ăudire](#ă)** [udire]
+* **[ăucello](#ă)** [ucello]
 * **[dĕ-ab](#ĕ)** [da]
 * **[calĭdo](#ĭ)** [caldo]
 * **[unŏ](#ŏ)** [un]
@@ -321,6 +321,7 @@
 ### ă
 
 * **ăudire** [udire]
+* **ăucello** [ucello]
 
 ...
 
@@ -364,7 +365,7 @@
 * **ĭllæ** = **le** [le]
 * **ĭllo** = **lo** [lo]
 * **ĭlli** = **li** [li]
-* [ĭ Assimilata](#ĭ-Assimilata)
+* [ĭ Assimilata](#ĭ-assimilata)
 
 ### ŏ
 
@@ -388,6 +389,7 @@
 
 ## ĭ Assimilata
 
+* **[majo](#j)** [maggio]
 * **[radĭo](#dĭ)** [raggio]
   * **[medıo](#dı)** [mezzo]
 * **[familĭa](#lĭ)** [famiglia]
@@ -400,9 +402,28 @@
 * **[tīo](#tī)** [zio]
 * **[laxĭare](#xĭ)** [lasciare]
 
+### j
+
+* **majo** [maggio]
+* **majōre** [maggiore]
+* **pejo** [peggio]
+* **justo** [giusto]
+* **jurare** [giurare]
+* **pronuntja** [pronuncia]
+* **angùstja** [angoscia]
+
+...
+
+* **jam** [già]
+* **objecto** [oggetto]
+
 ### dĭ
 
 * **radĭo** [raggio]
+
+...
+
+* **dĭůrno** [giorno]
 
 #### dı
 
@@ -468,21 +489,6 @@
 ### xĭ
 
 * **laxĭare** [lasciare]
-
-## j
-
-* **majo** [maggio]
-* **majōre** [maggiore]
-* **pejo** [peggio]
-* **justo** [giusto]
-* **jurare** [giurare]
-* **pronuntja** [pronuncia]
-* **angùstja** [angoscia]
-
-...
-
-* **jam** [già]
-* **objecto** [oggetto]
 
 ## ł
 
