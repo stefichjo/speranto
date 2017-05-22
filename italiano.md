@@ -163,6 +163,10 @@
 * **bïre** [bere]
 * **sïno** [seno]
 * **fïrmo** [fermo]
+* **vïtro** [vetro]
+* **pïlo** [pelo]
+* **capïllo** [capello]
+
 
 ...
 
@@ -172,6 +176,7 @@
 #### ì
 
 * **ad-ìsso** [adesso]
+* **tìtta** [tetta]
 
 #### ẽ
 
@@ -514,6 +519,13 @@
 
 ## Altĕri Vocalismi
 
+### é
+
+* **técto** [tetto]
+
+...
+
+* **tégůla** [tegola]
 
 ### ė
 
