@@ -216,6 +216,13 @@
 * **růmpere** [rompere]
 * **ůltre** [oltre]
 * **cůrto** [corto]
+* **ůnda** [onda]
+* **gůmma** [gomma]
+* **cůlpa** [colpa]
+* **ůmbra** [ombra]
+* **cůrso** [corso]
+* **cůlto** [colto]
+* **půlvere** [polvere]
 
 ...
 
