@@ -74,9 +74,16 @@
 * **fixo** [fisso]
 * **anxia** [ansia]
 * **fluxo** [flusso]
+* **toxico** [tossico]
+
+...
+
+* **xylophono** [xilofono]
+
+#### ex
+
 * **exame** [esame]
 * **exito** [esito]
-* **xylophono** [xilofono]
 
 ...
 
@@ -114,6 +121,11 @@
 * **pērfecto** [perfetto]
 * **obiectivo** [obiettivo]
 * **puncto** [punto]
+* **vincto** [vinto]
+
+...
+
+* **architecto** [architetto]
 
 ### mn
 
@@ -353,6 +365,7 @@
 #### lı
 
 * **tolıo** [tolgo]
+* **colıo** [colgo]
 
 ### nĭ
 
@@ -490,6 +503,7 @@
 ...
 
 * **nuƀůla** [nuvola]
+* **dĕ-ůƀe** [dove]
 
 ## at̯
 
@@ -516,6 +530,9 @@
 * **cōrtēns̆ĭare** = **cōrtējare** [corteggiare]
 * **pağēnse** [paese]
 
+## w
+
+wardare werra wasto wanto warire warnire
 
 ## Altĕri Vocalismi
 
@@ -541,6 +558,7 @@
 ### e̊
 
 * **de̊manda** [domanda]
+* **de̊mani** [domani]
 
 ...
 
@@ -610,7 +628,7 @@
 * **sono**, **seṡ**, **est**, **siamos**, **sietes**, **sono**
 * **vado**, **vaṡ**, **vat**, **andiamos**, **andates**, **vanno**
 * **ïsco**, **ïscṡ**, **ïscet**, **ěxĭamos**, **ěxītes**, **ïscono**
-* **dēƀo**, **dēƀṡ**, **dēƀet**, **de̊ƀĭamos**, **de̊ƀetes**, **dēƀono**
+* **dēƀo**, **dēƀṡ**, **dēƀet**, **de̊bĭamos**, **de̊ƀetes**, **dēƀono**
 * **potso**, **põṡ**, **põt**, **potsiamos**, **potetes**, **potsono**
 * **volĭo**, **võṡ**, **võlet**, **volĭamos**, **voletes**, **volĭono**
 * **facĭo**, **faṡ**, **fat**, **facĭamo**, **fate**, **fanno**
