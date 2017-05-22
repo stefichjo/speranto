@@ -240,6 +240,7 @@
 * **cůrso** [corso]
 * **cůlto** [colto]
 * **půlvere** [polvere]
+* **crůce** [croce]
 
 ...
 
@@ -332,15 +333,19 @@
 ### tĭ
 
 * **statĭōne** [stazione]
+* **malitĭa** [malizia]
 
 #### tı
 
 * **altıare** [alzare]
 * **cantıone** [canzone]
+* **palatıo** [palazzo]
 
 ...
 
 * **capĭtıo** [cazzo]
+* **capïtıůlo** [capezzolo]
+* **bellïtıa** [bellezza]
 
 #### tī
 
@@ -524,11 +529,15 @@
 
 ## ēns
 
-* **pensare** [pensare]
 * **mēnse** [mese]
+
+...
+
+* **tăùrinēnse** [torinese]
+* **pağēnse** [paese]
 * **mēn̄sile** [mensile]
 * **cōrtēns̆ĭare** = **cōrtējare** [corteggiare]
-* **pağēnse** [paese]
+
 
 ## w
 
@@ -539,6 +548,7 @@ wardare werra wasto wanto warire warnire
 ### é
 
 * **técto** [tetto]
+* **éd** [e]
 
 ...
 
@@ -563,6 +573,11 @@ wardare werra wasto wanto warire warnire
 ...
 
 * **de̊post** [dopo]
+
+### ǒ
+
+* **ǒfficio** [ufficio]
+* **ǒccidere** [uccidere]
 
 ### ṡ
 
