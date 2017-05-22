@@ -16,6 +16,7 @@
 
 * **in** [in]
 * **ab** [a]
+* **ad** [a]
 * **sic** [sì]
 * **lic** [lì]
 * **lac** [là]
@@ -23,6 +24,8 @@
 ...
 
 * **dĕ-ab-vēro** [davvero]
+* **ét̯** = **éd** [e]
+* **ăùt̯** = **ăùd** [o]
 
 ### æ
 
@@ -85,6 +88,11 @@
 
 * **exame** [esame]
 * **exito** [esito]
+
+...
+
+* **ĕẋaq̄uare** [sciacquare]
+* **ȇẋsuc̆are** [asciugare]
 
 ### ps
 
@@ -187,6 +195,10 @@
 * **ad-ìsso** [adesso]
 * **tìtta** [tetta]
 
+...
+
+* **teŭt̯ìsco** [tedesco]
+
 #### ẽ
 
 * **tẽpido** [tiepido]
@@ -271,6 +283,12 @@
 
 ## Vocali Muti
 
+* **[ăudire](#ă)** [udire]
+* **[dĕ-ab](#ĕ)** [da]
+* **[calĭdo](#ĭ)** [caldo]
+* **[unŏ](#ŏ)** [un]
+* **[qŭē](#ŭ)** [che]
+
 ### ă
 
 * **ăudire** [udire]
@@ -286,6 +304,9 @@
 ...
 
 * **hodĭĕ** [oggi]
+
+#### ĕccu
+ 
 * **ĕccu-ïllo** = **quïllo** [quello]
 * **ĕccu-ïsto** = **quïsto** [questo]
 * **ĕccu-hac** = **quac** [qua]
@@ -300,7 +321,7 @@
 ### ĭ
 
 * **calĭdo** [caldo]
-
+* **hĭstoria** [storia]
 * **ĭntra** [tra]
 * **ĭnfra** [fra]
 
@@ -314,12 +335,12 @@
 * **ĭllæ** = **le** [le]
 * **ĭllo** = **lo** [lo]
 * **ĭlli** = **li** [li]
-* **ĭllĭ** = **lĭ** [gli]
+* [ĭ Assimilata](#ĭ-Assimilata)
 
 ### ŏ
 
+* **unŏ** [un]
 * **illŏ** = **il** [il]
-* **unŏ** = **un** [un]
 
 ...
 
@@ -338,22 +359,70 @@
 
 ## ĭ Assimilata
 
-* **basĭo** [bacio]
+* **[radĭo](#dĭ)** [raggio]
+  * **[medıo](#dı)** [mezzo]
+* **[familĭa](#lĭ)** [famiglia]
+  * **[tolıo](#lı)** [tolgo]
+* **[banĭo](#nĭ)** [bagno]
+  * **[venıo](#nı)** [vengo]
+* **[basĭo](#sĭ)** [bacio]
+* **[gratĭe](#tĭ)** [grazie]
+  * **[palatıo](#tı)** [palazzo]
+* **[tīo](#tī)** [zio]
+* **[laxĭare](#xĭ)** [lasciare]
+
+### dĭ
+
+* **radĭo** [raggio]
+
+#### dı
+
+* **medıo** [mezzo]
+
+### lĭ
+
 * **familĭa** [famiglia]
+* **folĭo** [foglio]
+* **filĭo** [figlio]
+* **melĭo** [meglio]
+* **alĭo** [aglio]
+
+...
+
+* **ĭllĭ** = **lĭ** [gli]
+
+#### lı
+
+* **tolıo** [tolgo]
+* **colıo** [colgo]
+
+### nĭ
+
 * **banĭo** [bagno]
-* **gratĭe** [grazie]
-* **laxĭare** [lasciare]
+* **somnĭo** [sogno]
+* **omnĭ** [ogni]
+
+#### nı
+
+* **venıo** [vengo]
+
+### sĭ
+
+* **basĭo** [bacio]
+* **camisĭa** [camicia]
 
 ### tĭ
 
+* **gratĭe** [grazie]
 * **statĭōne** [stazione]
 * **malitĭa** [malizia]
 
 #### tı
 
-* **altıare** [alzare]
-* **cantıone** [canzone]
 * **palatıo** [palazzo]
+* **stantıa** [stanza]
+* **cantıōne** [canzone]
+* **altıare** [alzare]
 
 ...
 
@@ -366,40 +435,14 @@
 * **tīo** [zio]
 * **democratīa** [democrazia]
 
-### dĭ
+### xĭ
 
-* **radĭo** [raggio]
+* **laxĭare** [lasciare]
 
-#### dı
-
-* **medıo** [mezzo]
-
-### lĭ
-
-* **folĭo** [foglio]
-* **filĭo** [figlio]
-* **melĭo** [meglio]
-* **alĭo** [aglio]
-
-#### lı
-
-* **tolıo** [tolgo]
-* **colıo** [colgo]
-
-### nĭ
-
-...
-
-* **somnĭo** [sogno]
-* **omnĭ** [ogni]
-
-#### nı
-
-* **venıo** [vengo]
-
-### j Intervocalica
+## j
 
 * **majo** [maggio]
+* **majōre** [maggiore]
 * **pejo** [peggio]
 * **justo** [giusto]
 * **jurare** [giurare]
@@ -513,8 +556,6 @@
 * **păùp̆ero** [povero]
 * **sap̆ĭo** [saggio]
 * **rėcůp̆erare** [ricoverare]
-* **ét̯** = **éd** [ed]
-* **ăùt̯** = **ăùd** [od]
 
 ### ƀ
 
@@ -554,17 +595,26 @@
 * **mēn̄sile** [mensile]
 * **cōrtēns̆ĭare** = **cōrtējare** [corteggiare]
 
+## it̯
+
+...
+
+* **hospït̯ale** [ospedale]
 
 ## w
 
-wardare werra wasto wanto warire warnire
+* **wardare** [guardare]
+* **werra** [guerra]
+* **wasto** [guasto]
+* **wanto** [guanto]
+* **warire** [guarire]
+* **warnire** [guarninre]
 
 ## Altĕri Vocalismi
 
 ### é
 
 * **técto** [tetto]
-* **éd** [e]
 
 ...
 
@@ -658,12 +708,16 @@ wardare werra wasto wanto warire warnire
 * **sto**, **staṡ**, **stat**, **stiamos**, **states**, **stanno**
 * **sono**, **seṡ**, **est**, **siamos**, **sietes**, **sono**
 * **vado**, **vaṡ**, **vat**, **andiamos**, **andates**, **vanno**
-* **ïsco**, **ïscṡ**, **ïscet**, **ěxĭamos**, **ěxītes**, **ïscono**
 * **dēƀo**, **dēƀṡ**, **dēƀet**, **de̊bĭamos**, **de̊ƀetes**, **dēƀono**
 * **potso**, **põṡ**, **põt**, **potsiamos**, **potetes**, **potsono**
 * **volĭo**, **võṡ**, **võlet**, **volĭamos**, **voletes**, **volĭono**
 * **facĭo**, **faṡ**, **fat**, **facĭamo**, **fate**, **fanno**
 * **dico**, **dicṡ**, **dicet**, **diciamo**, **dite**, **dicono**
+
+...
+
+* **ïsco**, **ïscṡ**, **ïscet**, **ěxĭamos**, **ěxītes**, **ïscono**
+* **éx̊o**, **éx̊is**, **éx̊et**, **ěx̊iamo**, **ěx̊īte**, **éx̊ono**
 
 ## Dĭůrni de-la Septimana
 
@@ -685,4 +739,3 @@ wardare werra wasto wanto warire warnire
 * **trans-** [tras-]
 * **postmeridĭo** [pomeriggio]
 
-* exsugare [asciugare]
