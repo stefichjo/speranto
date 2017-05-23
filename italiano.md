@@ -148,10 +148,7 @@
 
 ...
 
-* **tăùrinēnse** [torinese]
-* **pağēnse** [paese]
 * **mēn̄sile** [mensile]
-* **cōrtēns̆ĭare** = **cōrtējare** [corteggiare]
 
 ### ic
 
@@ -197,6 +194,7 @@
 * **vïtro** [vetro]
 * **pïlo** [pelo]
 * **capïllo** [capello]
+* **pïra** [pera]
 
 ...
 
@@ -305,6 +303,10 @@
 * **păùco** [poco]
 * **tăùro** [toro]
 * **găùdēre** [godere]
+
+...
+
+* **tăùrinēnse** [torinese]
 
 #### õ
 
@@ -618,23 +620,50 @@
 
 ## Lenitĭone éd Rĕaddůpłamento [Lenizione e Raddoppiamento]
 
+### c̆
+
 * **c̆atto** [gatto]
-* **riĉo** [ricco]
-* **seq̆uire** [seguire]
-* **aq̄ua** [acqua]
-* **mağïstro** [maestro]
-* **leĝere** [leggere]
-* **operar̆io** [operaio]
-* **par̆o** [paio]
 
 ...
 
-* **stat̯ĭone** [stagione]
-* **rat̯ĭone** [ragione]
-* **civĭtat̯** = **civĭtad** [città]
-* **păùp̆ero** [povero]
+* **seq̆uire** [seguire]
+
+#### ĉ
+
+* **riĉo** [ricco]
+
+...
+
+* **aq̄ua** [acqua]
+
+#### ğ
+
+...
+
+* **mağïstro** [maestro]
+* **pağēnse** [paese]
+
+##### ĝ
+
+* **leĝere** [leggere]
+
+
+### p̆
+
+...
+
 * **sap̆ĭo** [saggio]
+* **păùp̆ero** [povero]
 * **rėcůp̆erare** [ricoverare]
+
+### r̆
+
+* **operar̆io** [operaio]
+* **par̆o** [paio]
+
+### s̆
+
+* **cōrtēns̆ĭare** = **cōrtējare** [corteggiare]
 
 ### t̯
 
@@ -643,6 +672,8 @@
 * **ét̯** = **éd** [e]
 * **ăùt̯** = **ăùd** [o]
 * **hospït̯ale** [ospedale]
+* **stat̯ĭone** [stagione]
+* **rat̯ĭone** [ragione]
 
 #### at̯
 
@@ -651,13 +682,13 @@
 ...
 
 * **bonĭtat̯** = **bonĭtad** [bontà]
+* **civĭtat̯** = **civĭtad** [città]
 
 ##### at̯ĭc̆
 
 * **format̯ĭc̆o** = **formajo** [formaggio]
 * **villat̯ĭc̆o** = **villajo** [villaggio]
 * **corat̯ĭc̆o** = **corajo** [coraggio]
-
 
 ## Altĕri Vocalismi
 
