@@ -15,3 +15,12 @@
 * **bø̃me** [Bäume]
 
 
+* **word** [Wort]
+* **wørder** [Wörter]
+
+* **wůlf** [Wolf]
+* **wẙlfe** [Wölfe]
+
+* **bǒk** [Buch]
+* **bø̌ker** [Büch]
+
