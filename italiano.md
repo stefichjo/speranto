@@ -24,8 +24,6 @@
 ...
 
 * **dĕ-ab-vēro** [davvero]
-* **ét̯** = **éd** [e]
-* **ăùt̯** = **ăùd** [o]
 
 ### æ
 
@@ -124,13 +122,16 @@
 * **pacto** [patto]
 * **pērfecto** [perfetto]
 * **obiectivo** [obiettivo]
-* **puncto** [punto]
-* **vincto** [vinto]
 * **acto** [atto]
 
 ...
 
 * **architecto** [architetto]
+
+#### nct
+
+* **puncto** [punto]
+* **vincto** [vinto]
 
 ### mn
 
@@ -141,10 +142,20 @@
 
 * **hymno** [inno]
 
-### r̥
+### ēns
 
-* **armar̥io** [armadio]
-* **dė rar̥o** [di rado]
+* **mēnse** [mese]
+
+...
+
+* **tăùrinēnse** [torinese]
+* **pağēnse** [paese]
+* **mēn̄sile** [mensile]
+* **cōrtēns̆ĭare** = **cōrtējare** [corteggiare]
+
+### ic
+
+* **amici** [amici]
 
 ## Vocalismi
 
@@ -361,6 +372,7 @@
 * **vïrĭde** [verde]
 * **frïgĭdo** [freddo]
 * **ĭst’ïpso** [stesso]
+* **porĭci** [porci]
 * **ĭlla** = **la** [la]
 * **ĭllæ** = **le** [le]
 * **ĭllo** = **lo** [lo]
@@ -387,7 +399,7 @@
 * **qŭōme** [come]
 * **qŭis** [chi]
 
-## ĭ Assimilata
+## ı
 
 * **[majo](#j)** [maggio]
 * **[radĭo](#dĭ)** [raggio]
@@ -399,7 +411,8 @@
 * **[basĭo](#sĭ)** [bacio]
 * **[gratĭe](#tĭ)** [grazie]
   * **[palatıo](#tı)** [palazzo]
-* **[tīo](#tī)** [zio]
+  * **[tīo](#tī)** [zio]
+  * **[pronuntja](#tj)** [pronuncia]
 * **[laxĭare](#xĭ)** [lasciare]
 
 ### j
@@ -409,8 +422,6 @@
 * **pejo** [peggio]
 * **justo** [giusto]
 * **jurare** [giurare]
-* **pronuntja** [pronuncia]
-* **angùstja** [angoscia]
 
 ...
 
@@ -485,6 +496,14 @@
 
 * **tīo** [zio]
 * **democratīa** [democrazia]
+
+#### tj
+
+* **pronuntja** [pronuncia]
+
+...
+
+* **angùstja** [angoscia]
 
 ### xĭ
 
@@ -573,6 +592,30 @@
 
 * **vetŭlo** [vecchio]
 
+## r̥
+
+* **armar̥io** [armadio]
+* **dė rar̥o** [di rado]
+
+## w
+
+* **wardare** [guardare]
+* **werra** [guerra]
+* **wasto** [guasto]
+* **wanto** [guanto]
+* **warire** [guarire]
+* **warnire** [guarninre]
+
+## ƀ
+
+* **laƀoro** [lavoro]
+* **liƀello** [livello]
+
+...
+
+* **nuƀůla** [nuvola]
+* **dĕ-ůƀï** [dove]
+
 ## Lenitĭone éd Rĕaddůpłamento [Lenizione e Raddoppiamento]
 
 * **c̆atto** [gatto]
@@ -593,17 +636,15 @@
 * **sap̆ĭo** [saggio]
 * **rėcůp̆erare** [ricoverare]
 
-### ƀ
-
-* **laƀoro** [lavoro]
-* **liƀello** [livello]
+### t̯
 
 ...
 
-* **nuƀůla** [nuvola]
-* **dĕ-ůƀï** [dove]
+* **ét̯** = **éd** [e]
+* **ăùt̯** = **ăùd** [o]
+* **hospït̯ale** [ospedale]
 
-## at̯
+#### at̯
 
 * **libertat̯** = **libertad** [libertà]
 
@@ -611,44 +652,12 @@
 
 * **bonĭtat̯** = **bonĭtad** [bontà]
 
-## ic
-
-* **amici** [amici]
-* **porĭci** [porci]
-* **fungi** [funghi]
-* **parci** [parchi]
-
-## at̯ĭc̆
+##### at̯ĭc̆
 
 * **format̯ĭc̆o** = **formajo** [formaggio]
 * **villat̯ĭc̆o** = **villajo** [villaggio]
 * **corat̯ĭc̆o** = **corajo** [coraggio]
 
-## ēns
-
-* **mēnse** [mese]
-
-...
-
-* **tăùrinēnse** [torinese]
-* **pağēnse** [paese]
-* **mēn̄sile** [mensile]
-* **cōrtēns̆ĭare** = **cōrtējare** [corteggiare]
-
-## it̯
-
-...
-
-* **hospït̯ale** [ospedale]
-
-## w
-
-* **wardare** [guardare]
-* **werra** [guerra]
-* **wasto** [guasto]
-* **wanto** [guanto]
-* **warire** [guarire]
-* **warnire** [guarninre]
 
 ## Altĕri Vocalismi
 
