@@ -768,8 +768,9 @@
 * **dēƀo**, **dēƀṡ**, **dēƀet**, **de̊bĭamos**, **de̊ƀetes**, **dēƀono**
 * **potso**, **põṡ**, **põt**, **potsiamos**, **potetes**, **potsono**
 * **volĭo**, **võṡ**, **võlet**, **volĭamos**, **voletes**, **volĭono**
-* **facĭo**, **faṡ**, **fat**, **facĭamo**, **fate**, **fanno**
-* **dico**, **dicṡ**, **dicet**, **diciamo**, **dite**, **dicono**
+* **facĭo**, **faṡ**, **fat**, **facĭamo**, **fates**, **fanno**
+* **dico**, **dicṡ**, **dicet**, **diciamo**, **dites**, **dicono**
+* **mõƀo**, **mõƀṡ**, **mõƀet**, **moƀiamo**, **moƀetes**, **mõƀono**
 
 ...
 
