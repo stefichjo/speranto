@@ -594,11 +594,6 @@
 
 * **vetŭlo** [vecchio]
 
-## r̥
-
-* **armar̥io** [armadio]
-* **dė rar̥o** [di rado]
-
 ## w
 
 * **wardare** [guardare]
@@ -624,26 +619,18 @@
 
 * **c̆atto** [gatto]
 
-...
-
-* **seq̆uire** [seguire]
-
 #### ĉ
 
 * **riĉo** [ricco]
 
-...
-
-* **aq̄ua** [acqua]
-
-#### ğ
+### ğ
 
 ...
 
 * **mağïstro** [maestro]
 * **pağēnse** [paese]
 
-##### ĝ
+#### ĝ
 
 * **leĝere** [leggere]
 
@@ -656,14 +643,36 @@
 * **păùp̆ero** [povero]
 * **rėcůp̆erare** [ricoverare]
 
+### q̆u
+
+* **seq̆uire** [seguire]
+
+#### q̄u
+
+* **aq̄ua** [acqua]
+
 ### r̆
 
 * **operar̆io** [operaio]
 * **par̆o** [paio]
 
+#### r̥
+
+* **armar̥io** [armadio]
+* **dė rar̥o** [di rado]
+
+
 ### s̆
 
 * **cōrtēns̆ĭare** = **cōrtējare** [corteggiare]
+
+#### ṡ
+
+* **maṡ** [mai]
+
+...
+
+* **poṡt** [poi]
 
 ### t̯
 
@@ -700,14 +709,6 @@
 ...
 
 * **de̊post** [dopo]
-
-### ṡ
-
-* **maṡ** [mai]
-
-...
-
-* **poṡt** [poi]
 
 ### Numerali
 
