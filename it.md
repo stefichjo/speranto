@@ -621,7 +621,7 @@
 * **dĕ-ůƀï** [dove]
 * **alloƀĭo** [alloggio]
 
-## Lenitĭone éd Rĕaddůpłamento [Lenizione e Raddoppiamento]
+## Lenitĭone éd Rĕaddůpłamento
 
 ### c̆
 
@@ -740,15 +740,16 @@
 
 ### Cōniugatĭone
 
-* **amo**, **amṡ**, **amat**, **amiamos**, **amates**, **amano**
-* **vinco**, **vincṡ**, **vincet**, **vinciamos**, **vincetes**, **vincono**
-* **sento**, **sentṡ**, **sentet**, **sentiamos**, **sentetes**, **sentono**
-
-...
-
-* **vïdo**, **vïdṡ**, **vïdet**, **vïdiamos**, **vïdetes**, **vïdono**
+* **[are](#are)**
+* **[ēre](#ēre)**
+* **[ere](#ere)**
+* **[ire](#ire)**
+  * **[isc](#isc)**
 
 #### are
+
+* **amo**, **amṡ**, **amat**, **amiamos**, **amates**, **amano**
+* **manjo**, **manjṡ**, **manjat**, **manjiamos**, **manjates**, **manjano**
 
 ...
 
@@ -759,42 +760,48 @@
 ...
 
 * **tenıo**, **tẽnṡ**, **tẽnet**, **teniamos**, **tenetes**, **tenıono**
+* **vïdo**, **vïdṡ**, **vïdet**, **vïdiamos**, **vïdetes**, **vïdono**
+* **volĭo**, **võṡ**, **võlet**, **volĭamos**, **voletes**, **volĭono**
 
 #### ere
 
+* **vinco**, **vincṡ**, **vincet**, **vinciamos**, **vincetes**, **vincono**
 * **vendo**, **vendṡ**, **vendet**, **vendiamos**, **vendetes**, **vendono**
 
 ...
 
 * **scriƀo**, **scriƀṡ**, **scriƀet**, **scriƀiamos**, **scriƀetes**, **scriƀono**
 * **tolıo**, **tolĭṡ**, **tolĭet**, **tolĭamos**, **tolĭetes**, **tolıono**
+* **mõvo**, **mõvṡ**, **mõvet**, **moviamo**, **movetes**, **mõvono**
 
 #### ire
 
+* **sento**, **sentṡ**, **sentet**, **sentiamos**, **sentetes**, **sentono**
 * **parto**, **partṡ**, **partet**, **partiamos**, **partites**, **partono**
 
 ##### isc
 
 * **finisco**, **finiscṡ**, **finiscet**, **finiamos**, **finites**, **finiscono**
 
-#### Verbi Auxiliari éd Irregůlari
+#### Verbi Irregůlari
 
-* **ho**, **haṡ**, **hat**, **habĭamos**, **haƀetes**, **hanno**
-* **do**, **daṡ**, **dat**, **diamos**, **dates**, **danno**
-* **sto**, **staṡ**, **stat**, **stiamos**, **states**, **stanno**
 * **sono**, **seṡ**, **est**, **siamos**, **sietes**, **sono**
-* **vado**, **vaṡ**, **vat**, **andiamos**, **andates**, **vanno**
 * **dēƀo**, **dēƀṡ**, **dēƀet**, **de̊bĭamos**, **de̊ƀetes**, **dēƀono**
 * **potso**, **põṡ**, **põt**, **potsiamos**, **potetes**, **potsono**
-* **volĭo**, **võṡ**, **võlet**, **volĭamos**, **voletes**, **volĭono**
-* **facĭo**, **faṡ**, **fat**, **facĭamo**, **fates**, **fanno**
 * **dico**, **dicṡ**, **dicet**, **diciamo**, **dites**, **dicono**
-* **mõƀo**, **mõƀṡ**, **mõƀet**, **moƀiamo**, **moƀetes**, **mõƀono**
 
 ...
 
 * **ïsco**, **ïscṡ**, **ïscet**, **ěxĭamos**, **ěxītes**, **ïscono**
 * **éx̊o**, **éx̊ṡ**, **éx̊et**, **ěx̊iamo**, **ěx̊īte**, **éx̊ono**
+
+##### -nno
+
+* **facĭo**, **faṡ**, **fat**, **facĭamo**, **fates**, **fanno**
+* **ho**, **haṡ**, **hat**, **habĭamos**, **haƀetes**, **hanno**
+* **sto**, **staṡ**, **stat**, **stiamos**, **states**, **stanno**
+* **do**, **daṡ**, **dat**, **diamos**, **dates**, **danno**
+* **vado**, **vaṡ**, **vat**, **andiamos**, **andates**, **vanno**
 
 ## Dĭůrni de-la Septimana
 
