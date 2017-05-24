@@ -52,6 +52,10 @@
 
 * **photo** [foto]
 
+...
+
+* **phlegma** [flemma]
+
 ### th
 
 * **thema** [tema]
@@ -165,6 +169,7 @@
 * **[ōra](#ō)** [ora]
   * **[půlso](#ů)** [polso]
     * **[tùrre](#ù)** [torre]
+      * **[ăùro](#ăù)** [oro]
   * **[bõno](#õ)** [buono]
     * **[ǒfficio](#ǒ)** [ufficio]
     * **[coğnóscere](#ó)** [conoscere]
@@ -185,11 +190,9 @@
 * **mïno** [meno]
 * **spïsso** [spesso]
 * **frïsco** [fresco]
-* **mïsso** [messo]
 * **lïttera** [lettera]
 * **lïgno** [legno]
 * **invïce** [invece]
-* **bïre** [bere]
 * **sïno** [seno]
 * **fïrmo** [fermo]
 * **vïtro** [vetro]
@@ -255,6 +258,7 @@
 * **cōn** [con]
 * **visiōne** [visione]
 * **prō** [pro]
+* **nōme** [nome]
 
 ...
 
@@ -415,7 +419,8 @@
 
 ## ı
 
-* **[majo](#j)** [maggio]
+* **[facĭa](#cĭ)** [faccia]
+  * **[indicıo](#cı)** [indizio]
 * **[radĭo](#dĭ)** [raggio]
   * **[medıo](#dı)** [mezzo]
 * **[familĭa](#lĭ)** [famiglia]
@@ -426,22 +431,28 @@
 * **[gratĭe](#tĭ)** [grazie]
   * **[palatıo](#tı)** [palazzo]
   * **[tīo](#tī)** [zio]
-  * **[pronuntja](#tj)** [pronuncia]
+  * **[prōnuntja](#tj)** [pronuncia]
 * **[laxĭare](#xĭ)** [lasciare]
+* **[](#zĭ)** []
+  * **[ragazıo](#zı)** [ragazzo]
+* **[majo](#j)** [maggio]
 
-### j
+### cĭ
 
-* **majo** [maggio]
-* **majōre** [maggiore]
-* **pejo** [peggio]
-* **justo** [giusto]
-* **jurare** [giurare]
-* **jocare** [giocare]
+* **facĭa** [faccia]
 
 ...
 
-* **jam** [già]
-* **objecto** [oggetto]
+* **acĭar̆io** [acciaio] ← **acĭario** [acciario]
+
+#### cı
+
+* **indicıo** [indizio]
+
+...
+
+* **ĭudicıo** [giudizio] ← **ĭudicĭo** [giudicio]
+
 
 ### dĭ
 
@@ -515,7 +526,7 @@
 
 #### tj
 
-* **pronuntja** [pronuncia]
+* **prōnuntja** [pronuncia] ← **prōnuntĭa** [pronunzia]
 
 ...
 
@@ -523,17 +534,42 @@
 
 ### vĭ
 
-* levĭero [leggero] ← [leggiero]
+* **levĭero** [leggero] ← [leggiero]
 
 ### xĭ
 
 * **laxĭare** [lasciare]
+
+### zĭ
+
+#### zı
+
+* **ragazıo** [ragazzo]
+
+### j
+
+* **maĭo** = **majo** [maggio]
+* **maĭōre** = **majōre** [maggiore]
+* **peĭo** = **pejo** [peggio]
+* **ĭusto** = **justo** [giusto]
+* **ĭurare** = **jurare** [giurare]
+* **ĭocare** = **jocare** [giocare]
+* **ĭudice** = **judice** [giudice]
+
+...
+
+* **jam** [già]
+* **objecto** [oggetto]
 
 ## ł
 
 ### bł
 
 * **błanco** [bianco]
+
+...
+
+* **błůndo** [biondo]
 
 #### bŭl
 
@@ -558,7 +594,7 @@
 * **macŭla** [macchia]
 * **ocŭlo** [occhio]
 * **cïrcŭlo** [cerchio]
-* **åŭrïcŭlo** [orecchio]
+* **ăùrïcŭlo** [orecchio]
 * **spìcŭlo** [specchio]
 
 ### dł
@@ -600,7 +636,6 @@
 * **důpło** [doppio]
 * **płus** [più]
 * **płůmbo** [piombo]
-* **błůndo** [biondo]
 
 #### pŭl
 
@@ -706,11 +741,11 @@
 * **stat̯ĭone** [stagione]
 * **rat̯ĭone** [ragione]
 
-#### ŧ
+#### ṯ
 
 ...
 
-* **płaŧo** [piatto]
+* **płaṯo** [piatto]
 
 #### at̯
 
@@ -748,7 +783,7 @@
 
 * **uno**, **due**, **tres**, **quattro**, **cinque**, **seẋ**, **septe**, **octo**, **nove**, **dẽcė**
 
-### Pronomi
+### Prōnōmi
 
 * **ėğo**, **tu**, **ïllĕ**, **nōṡ**, **vōṡ**, **loro**
 * **mė**, **tė**, **lĕ**, **cė**, **vė**
@@ -782,6 +817,7 @@
 
 * **vinco**, **vincṡ**, **vincet**, **vinciamos**, **vincetes**, **vincono**
 * **vendo**, **vendṡ**, **vendet**, **vendiamos**, **vendetes**, **vendono**
+* **mïtto**, **mïttṡ**, **mïttet**, **mïttiamo**, **mïttetes**, **mïttono**
 
 ...
 
@@ -806,6 +842,7 @@
 * **dēƀo**, **dēƀṡ**, **dēƀet**, **de̊bĭamos**, **de̊ƀetes**, **dēƀono**
 * **potso**, **põṡ**, **põt**, **potsiamos**, **potetes**, **potsono**
 * **dico**, **dicṡ**, **dicet**, **diciamo**, **dites**, **dicono**
+* **bïƀo**, **bïƀṡ**, **bïƀet**, **bïƀiamos**, **bïƀetes**, **bïƀono**
 
 ...
 
