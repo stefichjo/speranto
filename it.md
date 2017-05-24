@@ -34,7 +34,7 @@
 
 ...
 
-* **qyær̥ere** = **qŭiedere** [chiedere]
+* **qyæṟere** = **qŭiedere** [chiedere]
 
 
 ### œ
@@ -216,6 +216,7 @@
 * **mẽle** [miele]
 * **pẽtra** [pietra]
 * **pẽde** [piede]
+* **lẽve** [lieve]
 
 ...
 
@@ -424,6 +425,7 @@
 * **pejo** [peggio]
 * **justo** [giusto]
 * **jurare** [giurare]
+* **jocare** [giocare]
 
 ...
 
@@ -487,6 +489,7 @@
 * **cantıōne** [canzone]
 * **altıare** [alzare]
 * **experientıa** [esperienza]
+* **patıo** [pazzo]
 
 ...
 
@@ -506,6 +509,10 @@
 ...
 
 * **angùstja** [angoscia]
+
+### vĭ
+
+* levĭero [leggero] ← [leggiero]
 
 ### xĭ
 
@@ -612,6 +619,7 @@
 
 * **nuƀůla** [nuvola]
 * **dĕ-ůƀï** [dove]
+* **alloƀĭo** [alloggio]
 
 ## Lenitĭone éd Rĕaddůpłamento [Lenizione e Raddoppiamento]
 
@@ -619,9 +627,9 @@
 
 * **c̆atto** [gatto]
 
-#### ĉ
+#### c̄
 
-* **riĉo** [ricco]
+* **ric̄o** [ricco]
 
 ### ğ
 
@@ -630,10 +638,9 @@
 * **mağïstro** [maestro]
 * **pağēnse** [paese]
 
-#### ĝ
+#### g̈̇
 
-* **leĝere** [leggere]
-
+* **leg̈̇ere** [leggere]
 
 ### p̆
 
@@ -643,11 +650,11 @@
 * **păùp̆ero** [povero]
 * **rėcůp̆erare** [ricoverare]
 
-### q̆u
+### q̆
 
 * **seq̆uire** [seguire]
 
-#### q̄u
+#### q̄
 
 * **aq̄ua** [acqua]
 
@@ -656,10 +663,10 @@
 * **operar̆io** [operaio]
 * **par̆o** [paio]
 
-#### r̥
+#### ṟ
 
-* **armar̥io** [armadio]
-* **dė rar̥o** [di rado]
+* **armaṟio** [armadio]
+* **dė raṟo** [di rado]
 
 
 ### s̆
@@ -683,6 +690,12 @@
 * **hospït̯ale** [ospedale]
 * **stat̯ĭone** [stagione]
 * **rat̯ĭone** [ragione]
+
+#### ŧ
+
+...
+
+* płaŧo [piatto]
 
 #### at̯
 
@@ -709,6 +722,12 @@
 ...
 
 * **de̊post** [dopo]
+
+### ě
+
+...
+
+* **ěq̆uale** [uguale]
 
 ### Numerali
 
