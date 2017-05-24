@@ -158,16 +158,17 @@
 
 * **[stēlla](#ē)** [stella]
   * **[pïsce](#ï)** [pesce]
-  * **[ad-ìsso](#ì)** [adesso]
+    * **[ad-ìsso](#ì)** [adesso]
   * **[fẽro](#ẽ)** [fiero]
-  * **[fėnestra](#ė)** [finestra]
-  * **[técto](#é)** [tetto]
+    * **[fėnestra](#ė)** [finestra]
+    * **[técto](#é)** [tetto]
 * **[ōra](#ō)** [ora]
   * **[půlso](#ů)** [polso]
-  * **[tùrre](#ù)** [torre]
+    * **[tùrre](#ù)** [torre]
   * **[bõno](#õ)** [buono]
-  * **[ǒfficio](#ǒ)** [ufficio]
-  
+    * **[ǒfficio](#ǒ)** [ufficio]
+    * **[coğnóscere](#ó)** [conoscere]
+
 ### ē
 
 * **pēr**  [per]
@@ -201,7 +202,8 @@
 * **dïcto** [detto]
 * **ïpso** [esso]
 
-#### ì
+##### ì
+*(raro)*
 
 * **ad-ìsso** [adesso]
 * **tìtta** [tetta]
@@ -222,7 +224,8 @@
 
 * **hẽri** [ieri]
 
-#### ė
+##### ė
+*(raro)*
 
 * **fėnestra** [finestra]
 * **dėo** [dio]
@@ -233,7 +236,8 @@
 * **fac-mė** [fammi]
 * **mėlĭōre** [migliore]
 
-#### é
+##### é
+*(raro)*
 
 * **técto** [tetto]
 
@@ -288,7 +292,8 @@
 * **sůbto** [sotto]
 * **růpto** [rotto]
 
-#### ù
+##### ù
+*(raro)*
 
 * **tùrre** [torre]
 
@@ -319,10 +324,16 @@
 * **sõra** [suora]
 * **sõno** [suono]
 
-#### ǒ
+##### ǒ
+*(raro)*
 
 * **ǒfficio** [ufficio]
 * **ǒccidere** [uccidere]
+
+##### ó
+*(raro)*
+
+* **coğnóscere** [conoscere]
 
 ## Vocali Muti
 
@@ -380,7 +391,7 @@
 * **ĭllæ** = **le** [le]
 * **ĭllo** = **lo** [lo]
 * **ĭlli** = **li** [li]
-* [ĭ Assimilata](#ĭ-assimilata)
+* [ı](#ı)
 
 ### ŏ
 
@@ -627,6 +638,10 @@
 
 * **c̆atto** [gatto]
 
+...
+
+* **płïc̆are** [piegare]
+
 #### c̄
 
 * **ric̄o** [ricco]
@@ -695,7 +710,7 @@
 
 ...
 
-* płaŧo [piatto]
+* **płaŧo** [piatto]
 
 #### at̯
 
@@ -773,11 +788,13 @@
 * **scriƀo**, **scriƀṡ**, **scriƀet**, **scriƀiamos**, **scriƀetes**, **scriƀono**
 * **tolıo**, **tolĭṡ**, **tolĭet**, **tolĭamos**, **tolĭetes**, **tolıono**
 * **mõvo**, **mõvṡ**, **mõvet**, **moviamo**, **movetes**, **mõvono**
+* **sẽdo**, **sẽdṡ**, **sẽdet**, **sediamo**, **sedetes**, **sẽdono**
 
 #### ire
 
 * **sento**, **sentṡ**, **sentet**, **sentiamos**, **sentetes**, **sentono**
 * **parto**, **partṡ**, **partet**, **partiamos**, **partites**, **partono**
+* **dormo**, **dormṡ**, **dormet**, **dormiamos**, **dormites**, **dormono**
 
 ##### isc
 
