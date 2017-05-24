@@ -199,6 +199,7 @@
 * **pïlo** [pelo]
 * **capïllo** [capello]
 * **pïra** [pera]
+* **sï** [se]
 
 ...
 
@@ -210,6 +211,7 @@
 
 * **ad-ìsso** [adesso]
 * **tìtta** [tetta]
+* **spagìtti** [spaghetti]
 
 ...
 
@@ -416,6 +418,7 @@
 * **aŭscůltare** [ascoltare]
 * **qŭōme** [come]
 * **qŭis** [chi]
+* **qŭō-sic** [così]
 
 ## ı
 
