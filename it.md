@@ -752,6 +752,10 @@
 
 * **ric̄o** [ricco]
 
+### ḓ
+
+* **aḓiuto** [aiuto]
+
 ### ğ
 
 ...
@@ -834,10 +838,6 @@
 * **format̯ĭc̆o** = **formajo** [formaggio]
 * **villat̯ĭc̆o** = **villajo** [villaggio]
 
-### Numerali
-
-* **uno**, **due**, **tres**, **quattro**, **cinque**, **seẋ**, **septe**, **octo**, **nove**, **dẽcė**
-
 ### Prōnōmi
 
 * **ėğo**, **tu**, **ïllĕ**, **nōṡ**, **vōṡ**, **loro**
@@ -909,11 +909,17 @@
 * **stò**, **staṡ**, **stat**, **stiamos**, **states**, **stanno**
 * **vado**, **vaṡ**, **vat**, **andiamos**, **andates**, **vanno**
 
-## Dĭůrni de-la Septimana
+## Calendario
+
+### Numerali
+
+* **uno**, **due**, **tres**, **quattro**, **cinque**, **seẋ**, **septe**, **octo**, **nove**, **dẽcė**
+
+### Dĭůrni de-la Septimana
 
 * **lunedi**, **martedi**, **mercoledi**, **jůp̆edi**, **sabato**, **domïnica**
 
-## Mēnsi
+### Mēnsi
 
 * **jänŭar̆io**, **febrŭar̆io**, **martıo**, **aprile**, **majo**, **junĭo**, **lulĭo**, **aŭgůsto**, **septembre**, **octobre**, **novembre**, **dėcembre**
 
