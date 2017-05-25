@@ -11,6 +11,7 @@
 * **habitare** [abitare]
 * **halito** [alito]
 * **helio** [elio]
+* **herba** [erba]
 
 ### Finale Cōnsonantica
 
@@ -184,7 +185,7 @@
     * **[ad-ìsso](#ì)** [adesso]
   * **[fẽro](#ẽ)** [fiero]
     * **[fėnestra](#ė)** [finestra]
-    * **[técto](#é)** [tetto]
+    * **[créscere](#é)** [crescere]
     * **[de̊manda](#e̊)** [domanda]
     * **[ěq̆uale](#ě)** [uguale]
 * **[ōra](#ō)** [ora]
@@ -265,11 +266,13 @@
 ##### é
 *(raro)*
 
-* **técto** [tetto]
+* **créscere** [crescere]
 
 ...
 
+* **técto** [tetto]
 * **tégůla** [tegola]
+* **ăbséntıa** [senza]
 
 ##### e̊
 *(raro)*
@@ -290,14 +293,14 @@
 
 ### ō
 
-* **cōrte** [corte]
-* **sōle** [sole]
-* **vōce** [voce]
 * **bōrdo** [bordo]
 * **cōn** [con]
-* **visiōne** [visione]
-* **prō** [pro]
+* **cōrte** [corte]
 * **nōme** [nome]
+* **prō-** [pro-]
+* **sōle** [sole]
+* **visiōne** [visione]
+* **vōce** [voce]
 
 ...
 
@@ -332,7 +335,6 @@
 
 ...
 
-* **růpto** [rotto]
 * **sůbto** [sotto]
 * **thůnno** [tonno]
 
@@ -360,19 +362,19 @@
 
 #### õ
 
+* **cõre** [cuore]
+* **dõmo** [duomo]
 * **hõmo** [uomo]
 * **fõco** [fuoco]
 * **fõri** [fuori]
-* **cõre** [cuore]
-* **dõmo** [duomo]
-* **sõra** [suora]
 * **sõno** [suono]
+* **sõra** [suora]
 
 ##### ǒ
 *(raro)*
 
-* **ǒfficio** [ufficio]
 * **ǒccidere** [uccidere]
+* **ǒfficio** [ufficio]
 
 ##### ó
 *(raro)*
@@ -420,10 +422,10 @@
 
 #### ĕ Assimilata
 
-* **fas̆ĕolo** [fagiolo]
-* **gris̆ĕo** [grigio]
-* **gůttja** [goccia]
-* **płatĕa** [piazza]
+* **fas̆ĕolo** = **fas̆jolo** [fagiolo]
+* **gris̆ĕo** = **gris̆jo** [grigio]
+* **gůttĕa** = **gůttja** [goccia]
+* **płatĕa** = **płatja** [piazza]
 
 ### ĭ
 
@@ -468,6 +470,7 @@
 
 ## ı
 
+* **[dubĭo](#bĭ)** [dubbio]
 * **[facĭa](#cĭ)** [faccia]
   * **[indicıo](#cı)** [indizio]
 * **[radĭo](#dĭ)** [raggio]
@@ -485,6 +488,10 @@
 * **[](#zĭ)** []
   * **[ragazıo](#zı)** [ragazzo]
 * **[majo](#j)** [maggio]
+
+### bĭ
+
+* **[dubĭo](#bĭ)** [dubbio]
 
 ### cĭ
 
@@ -535,12 +542,17 @@
 ### nĭ
 
 * **banĭo** [bagno]
-* **somnĭo** [sogno]
+* **bisůmnĭo** [bisogno]
 * **omnĭ** [ogni]
+* **somnĭo** [sogno]
 
 #### nı
 
 * **venıo** [vengo]
+
+### pĭ
+
+* **sapĭamos** [sappiamo]
 
 ### sĭ
 
@@ -560,6 +572,7 @@
 * **experientıa** [esperienza]
 * **palatıo** [palazzo]
 * **patıo** [pazzo]
+* **pretıo** [prezzo]
 * **stantıa** [stanza]
 
 ...
@@ -580,6 +593,7 @@
 ...
 
 * **angùstja** [angoscia]
+* **frïtja** [freccia]
 
 ### vĭ
 
@@ -670,7 +684,9 @@
 
 ### pł
 
+* **ampło** [ampio]
 * **důpło** [doppio]
+* **płangere** [piangere]
 * **płano** [piano]
 * **płanta** [pianta]
 * **płeno** [pieno]
@@ -716,6 +732,13 @@
 * **nuƀůla** [nuvola]
 
 ## Lenitĭone éd Rĕaddůpłamento
+
+### bh
+
+#### ḇ
+
+* **puḇlico** [pubblico]
+* **repuḇlica** [repubblica]
 
 ### c̆
 
@@ -846,6 +869,7 @@
 * **leg̈̇o**, **leg̈̇ṡ**, **leg̈̇et**, **leg̈̇iamo**, **leg̈̇etes**, **leg̈̇ono**
 * **mïtto**, **mïttṡ**, **mïttet**, **mïttiamo**, **mïttetes**, **mïttono**
 * **mõvo**, **mõvṡ**, **mõvet**, **moviamo**, **movetes**, **mõvono**
+* **růmpo**, **růmpṡ**, **růmpet**, **růmpiamo**, **růmpete**, **růmpono**
 * **scriƀo**, **scriƀṡ**, **scriƀet**, **scriƀiamos**, **scriƀetes**, **scriƀono**
 * **sẽdo**, **sẽdṡ**, **sẽdet**, **sediamo**, **sedetes**, **sẽdono**
 * **tolıo**, **tolĭṡ**, **tolĭet**, **tolĭamos**, **tolĭetes**, **tolıono**
@@ -855,6 +879,7 @@
 #### ire
 
 * **dormo**, **dormṡ**, **dormet**, **dormiamos**, **dormites**, **dormono**
+* **mõr̆io**, **mõrṡ**, **mõret**, **moriamos**, **morites**, **mõr̆iono**
 * **parto**, **partṡ**, **partet**, **partiamos**, **partites**, **partono**
 * **sento**, **sentṡ**, **sentet**, **sentiamos**, **sentetes**, **sentono**
 
@@ -872,8 +897,8 @@
 
 ...
 
-* **ïsco**, **ïscṡ**, **ïscet**, **ěxĭamos**, **ěxītes**, **ïscono**
-* **éx̊o**, **éx̊ṡ**, **éx̊et**, **ěx̊iamo**, **ěx̊īte**, **éx̊ono**
+* **ïsco**, **ïscṡ**, **ïscet**, **ěxĭamos**, **ěxites**, **ïscono**
+* **éx̊o**, **éx̊ṡ**, **éx̊et**, **ěx̊iamo**, **ěx̊ite**, **éx̊ono**
 
 ##### -nno
 
