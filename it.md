@@ -92,12 +92,14 @@
 
 ### x
 
-* **maximo** [massimo]
-* **texto** [testo]
-* **luxo** [lusso]
-* **fixo** [fisso]
 * **anxia** [ansia]
+* **fixo** [fisso]
 * **fluxo** [flusso]
+* **luxo** [lusso]
+* **maximo** [massimo]
+* **Mexico** [Messico]
+* **proximo** [prossimo]
+* **texto** [testo]
 * **toxico** [tossico]
 
 ...
@@ -131,9 +133,10 @@
 
 ...
 
+* **eucalyp̄to** [eucalipto]
+* **Egypto** [Egitto]
 * **helicoptero** [elicottero]
 * **op̄tare** [optare]
-* **eucalyp̄to** [eucalipto]
 
 ### ct
 
@@ -231,7 +234,7 @@
 ##### ì
 *(raro)*
 
-* **ad-ìsso** [adesso]
+* **ad-ìpso** [adesso]
 * **spagìtti** [spaghetti]
 * **tìtta** [tetta]
 
@@ -270,6 +273,7 @@
 
 ...
 
+* **dĕscéndere** [scendere]
 * **técto** [tetto]
 * **tégůla** [tegola]
 * **ăbséntıa** [senza]
@@ -305,7 +309,7 @@
 ...
 
 * **hōra** [ora]
-* **ad-l’hōra** [allora]
+* **ad-lă-hōra** [allora]
 
 #### ů
 
@@ -347,12 +351,14 @@
 
 * **płùvere** [piovere]
 * **płùvĭa** [pioggia]
+* **sùbsta** [sosta]
 
 ##### ăù
 
 * **ăùro** [oro]
 * **căùsa** [cosa]
 * **păùco** [poco]
+* **păùsa** [posa]
 * **tăùro** [toro]
 * **găùdēre** [godere]
 
@@ -409,6 +415,7 @@
 
 ...
 
+* **dĕ-ïntro** [dentro]
 * **ĕxtra-** [stra-]
 * **hodĭĕ** [oggi]
 
@@ -442,7 +449,7 @@
 * **ĭllæ** = **le** [le]
 * **ĭllo** = **lo** [lo]
 * **ĭlli** = **li** [li]
-* **ĭst’ïpso** [stesso]
+* **ĭstĕ-ïpso** [stesso]
 * **porĭci** [porci]
 * **vïrĭde** [verde]
 * [ı](#ı)
@@ -464,6 +471,7 @@
 ...
 
 * **aŭscůltare** [ascoltare]
+* **dŭm-ïntĕre** [mentre]
 * **qŭis** [chi]
 * **qŭōme** [come]
 * **qŭō-sic** [così]
@@ -733,7 +741,7 @@
 
 ## Lenitĭone éd Rĕaddůpłamento
 
-### bh
+### Ƅ
 
 #### ḇ
 
@@ -750,6 +758,7 @@
 
 #### c̄
 
+* **mac̄hina** [macchina]
 * **ric̄o** [ricco]
 
 ### ḓ
@@ -808,13 +817,26 @@
 
 ### t̯
 
+* **libertat̯** = **libertad** [libertà]
+* **mat̯re** [madre]
+* **pat̯re** [padre]
+
 ...
 
 * **ăůt̯** = **ăůd** [o]
+* **bonĭtat̯** = **bonĭtad** [bontà]
+* **civĭtat̯** = **civĭtad** [città]
+* **civĭtat̯inantıa** = **civĭtadinantıa** [cittadinanza]
 * **ét̯** = **éd** [e]
 * **hospït̯ale** [ospedale]
 * **rat̯ĭone** [ragione]
 * **stat̯ĭone** [stagione]
+
+#### at̯ĭc̆
+
+* **corat̯ĭc̆o** = **corajo** [coraggio]
+* **format̯ĭc̆o** = **formajo** [formaggio]
+* **villat̯ĭc̆o** = **villajo** [villaggio]
 
 #### ṯ
 
@@ -822,21 +844,6 @@
 
 * **płaṯo** [piatto]
 * **tǒṯo** [tutto]
-
-#### at̯
-
-* **libertat̯** = **libertad** [libertà]
-
-...
-
-* **bonĭtat̯** = **bonĭtad** [bontà]
-* **civĭtat̯** = **civĭtad** [città]
-
-##### at̯ĭc̆
-
-* **corat̯ĭc̆o** = **corajo** [coraggio]
-* **format̯ĭc̆o** = **formajo** [formaggio]
-* **villat̯ĭc̆o** = **villajo** [villaggio]
 
 ### Prōnōmi
 
