@@ -313,6 +313,7 @@
 
 #### ů
 
+* **argůmento** [argomento]
 * **auricůlare** [auricolare]
 * **bůcca** [bocca]
 * **crůce** [croce]
