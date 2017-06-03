@@ -70,3 +70,5 @@
 * **eğo** [eu]
 
 ### q → g: 
+
+* **seq̆uirĕ** [seguir]
