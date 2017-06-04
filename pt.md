@@ -1,16 +1,37 @@
 # Português
 
+## ct
+
+* **victima** [vitima]
+* **octo** [oito]
+
 ## au
 
 * **åuro** [ouro]
 
 ## e → i
 
+
 * **crearĕ** [criar]
 
-** o → u
+## ï
+
+* **ïlle** [ele]
+* **vïcĕ** [vez]
+* **ïste** [este]
+
+## o → u
 
 * **meo** [meu]
+
+## ǒ
+
+* **oc-tǒbro** [outubro]
+
+## ů
+
+* **gůsto** [gosto]
+* **cům** [com]
 
 ## Diphtongs
 
@@ -27,15 +48,46 @@
 * **sĩx** [seis]
 * **pĩsce** [peixe]
 
+### õ
+
+* **dõs** [dois]
+
+## ı
+
+* **hodĭe** [hoje]
+* **civĭt̯at̯e** [cidade]
+* **filĭo** [filho]
+* **banĭo** [banho]
+* **mulĭeres** [mulheres]
+
 ## ł
 
-* **cłaves** [chaves]
+* **animałes** [animais]
 
 ### bł
 
 * **błancos** [brancos]
 
+### cł
+
+* **cłaves** [chaves]
+
+### łt
+
+* **mułto** [muito]
+* **åłtro** [outro]
+
+### pł
+
+* **płůverĕ** [chover]
+
 ## n
+
+### n̆
+
+* **commen̆tıat** [começa]
+* **płẽn̆o** [cheio]
+* **per-son̆as** [pessoas]
 
 ### an
 
@@ -44,6 +96,9 @@
 ### en
 
 * **cent** [cem]
+* **decident** [decidem]
+* **venĕt** [vem]
+* **mensa** [mesa]
 
 ### ōn
 
@@ -52,23 +107,36 @@
 * **nōn** [não]
 * **sōno-** [são]
 * **populatıōnĕ** [população]
-
-## ï
-
-* **ïlle** [ele]
-* **vïcĕ** [vez]
-
+* **millĭōnes** [milhões]
 
 ## "Lenizione"
 
-### p → b: p̆
+### c → g: c̆
 
-* **důp̆ło** [dobro]
+* **advoc̆at̯o** [advogado]
+
+### d → -: ḓ
+
+* **våḓo** [vou]
+* **caḓent** [caem]
 
 ### g → -: ğ
 
 * **eğo** [eu]
 
-### q → g: 
+### l → -: 	ľ
+
+* **voľat** [voa]
+
+### p → b: p̆
+
+* **důp̆ło** [dobro]
+
+### q → g: q̆
 
 * **seq̆uirĕ** [seguir]
+
+### t → d: t̯
+
+* **tot̯o** [todo]
+
