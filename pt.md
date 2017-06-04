@@ -3,7 +3,43 @@
 ## ct
 
 * **victima** [vitima]
-* **octo** [oito]
+* **exacto** [exato]
+* **tacto** [tato]
+* **acto** [ato]
+* **tracto** [trato]
+* **fructo** [fruto]
+* **tecto** [teto]
+* **architectura** [arquitetura]
+
+...
+
+* **directıōnĕ** [direção]
+* **perfẽcto** [perfeito]
+* **sẽcta** [seita]
+* **rẽctora** [reitora]
+* **lẽcto** [leito]
+* **lẽctora** [leitora]
+* **lėct̯o** [lido]
+* **õcto** [oito]
+* **õctava** [oitava]
+* **nõcte** [noite]
+
+...
+
+* **läċte** [leite]
+* **fac̄to** [facto]
+* **pac̄to** [pacto]
+* **lac̄tose** [lactose]
+
+### ct ?
+
+* **octǒbro** [outubro]
+* **doctorĕ** [doutor]
+
+### nct
+
+* **půncto** [ponto]
+* **juncto** [junto]
 
 ## au
 
@@ -17,6 +53,7 @@
 ## ï
 
 * **ïlle** [ele]
+* **ïlla** [ela]
 * **vïcĕ** [vez]
 * **ïste** [este]
 
@@ -26,7 +63,7 @@
 
 ## ǒ
 
-* **oc-tǒbro** [outubro]
+...
 
 ## ů
 
@@ -59,10 +96,15 @@
 * **filĭo** [filho]
 * **banĭo** [banho]
 * **mulĭeres** [mulheres]
+* **domĭna** [dona]
+* **camisıa** [camisa]
 
 ## ł
 
 * **animałes** [animais]
+* **ło** [o]
+* **ła** [a]
+* **sołŏ** [só]
 
 ### bł
 
@@ -83,6 +125,14 @@
 
 ## n
 
+### nn
+
+* **anno** [ano]
+
+### n → m: ñ
+
+* **uña** [uma]
+
 ### n̆
 
 * **commen̆tıat** [começa]
@@ -99,6 +149,11 @@
 * **decident** [decidem]
 * **venĕt** [vem]
 * **mensa** [mesa]
+* **mensĕ** [mês]
+
+#### en ?
+
+* **pensat** [pensa]
 
 ### ōn
 
@@ -113,28 +168,41 @@
 
 ### c → g: c̆
 
+* **amic̆o** [amigo]
+* **sec̆undo** [segundo]
+
+...
+
 * **advoc̆at̯o** [advogado]
 
 ### d → -: ḓ
 
 * **våḓo** [vou]
 * **caḓent** [caem]
+* **juḓicĕ** [juiz]
 
 ### g → -: ğ
 
 * **eğo** [eu]
+* **rȇğina** [raina]
 
-### l → -: 	ľ
+### l → -/r: 	ľ
 
 * **voľat** [voa]
+* **pľato** [prato]
 
 ### p → b: p̆
 
 * **důp̆ło** [dobro]
+* **Ap̆rilĕ** [Abril]
 
 ### q → g: q̆
 
 * **seq̆uirĕ** [seguir]
+
+### r → -/l: r̆
+
+* **bor̆sa** [bolsa]
 
 ### t → d: t̯
 
