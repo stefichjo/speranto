@@ -164,7 +164,7 @@
 
 ### gh [x]
 
-* **dhokh** (= **dogh**) [doch]
+* **dhokk** (= **dogh**) [doch]
 * **night** [nicht]
 
 ...
