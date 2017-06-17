@@ -81,6 +81,13 @@
 * **hẽth** [heiß]
 * **groth** [groß]
 
+#### t [t]
+
+* **luft** [Luft]
+* **lust** [Lust]
+* **maght** [Macht]
+* **waght** (= **wakt**) [Wacht]
+
 ## k
 
 * **night** [nicht]
