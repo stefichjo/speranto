@@ -197,16 +197,16 @@
 
 ### gh [x]
 
-* **nokk** (= **nogh**) [noch]
+* **nogk** (= **nokh**) [noch]
 * **night** [nicht]
 
 ...
 
-* **tien** (= **tihen**) [ziehen]
+* **tihen** (= **tien**) [ziehen]
   * **tught** [Zucht]
+  * **tyggen** [zücken]
 * **seen** (= **sehen**) [sehen]
   * **sight** [Sicht]
 * **gesheen** (= **geshehen**) [geschehen]
   * **geshighte** [Geschichte]
-
-
+  * **geshigged** [geschickt]
