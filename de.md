@@ -173,5 +173,7 @@
   * **tught** [Zucht]
 * **seen** (= **sehen**) [sehen]
   * **sight** [Sicht]
+* **gesheen** (= **geshehen**) [geschehen]
+  * **geshighte** [Geschichte]
 
 
