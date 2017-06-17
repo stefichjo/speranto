@@ -1,13 +1,3 @@
-* **smal** [schmal]
-* **sper** [Speer]
-* **stẽn** [Stein]
-
-* **fux** [Fuchs]
-
-* **foll** [voll]
-
-* **mænnĭsh** [Mensch]
-
 # Vocale
 
 ## Længe unđ Kyrte
@@ -80,6 +70,12 @@
 
 * **wůlf** (= **wolf**) [Wolf]
 * **wẙlfe** (= **wølfe**) [Wölfe]
+
+## Ũthfall
+
+* **mænnĭsh** (= **mensh**) [Mensch]
+* **gĕlĩk** (= **glĩk**) [gleich]
+* **næghĕst** (= **next**) [nächst]
 
 # Consonanten
 
@@ -210,3 +206,33 @@
 * **gesheen** (= **geshehen**) [geschehen]
   * **geshighte** [Geschichte]
   * **geshigged** [geschickt]
+
+## f
+
+* **foll** [voll]
+* **fader** [Vater]
+
+## s [ŝ]
+
+* **slaphen** [schlafen]
+* **smal** [schmal]
+* **snell** [schnell]
+
+...
+
+* **shrĩven** [schreiben]
+
+...
+
+* **sper** [Speer]
+* **stẽn** [Stein]
+
+...
+
+
+* **fish** [Fisch]
+
+## x
+
+* **fux** [Fuchs]
+
