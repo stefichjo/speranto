@@ -155,7 +155,7 @@
 
 ### dh [d]
 
-* **dha** [da]
+* **đa** (= **dha**) [da]
 * **ērđe** (= **ērdhe**) [Erde]
 
 ...
@@ -164,7 +164,7 @@
 
 ### gh [x]
 
-* **dhokk** (= **dhogh**) [doch]
+* **nokk** (= **nogh**) [noch]
 * **night** [nicht]
 
 ...
