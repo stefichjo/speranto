@@ -112,6 +112,7 @@
 
 * **word** [Wort]
 * **hydde** [Hütte]
+* **mudder** [Mutter]
 
 ### t [ts]
 
