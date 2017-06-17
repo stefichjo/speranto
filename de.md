@@ -146,7 +146,7 @@
 
 ### k [x]
 
-* **suken** [suchen]
+* **sǒken** [suchen]
 * **sakke** [Sache]
 * **makken** [machen]
 * **wakk** [wach]
