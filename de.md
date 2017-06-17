@@ -1,25 +1,3 @@
-* **kuss** [Kuss]
-* **kysse** [Küsse]
-
-* **mann** [Mann]
-* **mænner** [Männer]
-
-* **krone** [Krone]
-* **krønung** [Krönung]
-
-* **mĩn** [mein]
-* **hẽm** [Heim]
-* **hũs** [Haus]
-* **hỹser** [Häuser]
-* **bõm** [Baum]
-* **bø̃me** [Bäume]
-
-* **wůlf** (= **wolf**) [Wolf]
-* **wẙlfe** (= **wølfe**) [Wölfe]
-
-* **bǒk** (= **buk**) [Buch]
-* **bø̌ker** (= **byker**) [Bücher]
-
 * **smal** [schmal]
 * **sper** [Speer]
 * **stẽn** [Stein]
@@ -30,7 +8,9 @@
 
 * **mænnĭsh** [Mensch]
 
-# Doppelede Consonanten
+# Vocale
+
+## Længe unđ Kyrte
 
 * **in** [in]
   * **innen** [innen]
@@ -46,7 +26,62 @@
 
 * **rightig** (= **rightigh**) [richtig]
 
-# p, t, k
+## Diphtonge
+
+### ĩ, ẽ
+
+* **mĩn** [mein]
+* **hẽm** [Heim]
+
+### ũ, õ
+
+* **frũ** [Frau]
+* **drõm** [Traum]
+
+### ỹ
+
+* **dỹr** [teuer]
+
+## Umlũdung
+
+### æ
+
+* **mann** [Mann]
+* **mænner** [Männer]
+
+### ø
+
+* **krone** [Krone]
+* **krønung** [Krönung]
+
+...
+
+* **bõm** [Baum]
+* **bø̃me** [Bäume]
+
+### y
+
+* **kuss** [Kuss]
+* **kysse** [Küsse]
+
+...
+
+* **hũs** [Haus]
+* **hỹser** [Häuser]
+
+## Øphenung unđ Slithung
+
+### ǒ
+
+* **bǒk** (= **buk**) [Buch]
+* **bø̌ker** (= **byker**) [Bücher]
+
+### ů
+
+* **wůlf** (= **wolf**) [Wolf]
+* **wẙlfe** (= **wølfe**) [Wölfe]
+
+# Consonanten
 
 ## p
 
@@ -141,8 +176,6 @@
 
 * **metric** [Metrik]
   * **metricken** [Metriken]
-
-## bh, dh, gh
 
 ### v [b]
 
