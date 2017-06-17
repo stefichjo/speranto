@@ -137,6 +137,11 @@
 
 * **sinken** [sinken]
 
+...
+
+* **metric** [Metrik]
+  * **metricken** [Metriken]
+
 ## bh, dh, gh
 
 ### v [b]
