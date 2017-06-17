@@ -14,7 +14,7 @@
 
 ...
 
-* **rightig** (= **rightigh**) [richtig]
+* **rightig** = **rightigh** [richtig]
 
 ## Diphtonge
 
@@ -63,19 +63,19 @@
 
 ### ǒ
 
-* **bǒk** (= **buk**) [Buch]
-* **bø̌ker** (= **byker**) [Bücher]
+* **bǒk** = **buk** [Buch]
+* **bø̌ker** = **byker** [Bücher]
 
 ### ů
 
-* **wůlf** (= **wolf**) [Wolf]
-* **wẙlfe** (= **wølfe**) [Wölfe]
+* **wůlf** = **wolf** [Wolf]
+* **wẙlfe** = **wølfe** [Wölfe]
 
 ## Ũthfall
 
-* **mænnĭsh** (= **mensh**) [Mensch]
-* **gĕlĩk** (= **glĩk**) [gleich]
-* **næghĕst** (= **next**) [nächst]
+* **mænnĭsh** = **mensh** [Mensch]
+* **gĕlĩk** = **glĩk** [gleich]
+* **næghĕst** = **next** [nächst]
 
 # Consonanten
 
@@ -87,12 +87,12 @@
 
 #### b [b]
 
-* **rave** (= **rabe**) [Rabe]
-* **shrĩven** (= **shrĩben**) [scheiben]
+* **rave** = **rabe** [Rabe]
+* **shrĩven** = **shrĩben** [scheiben]
 
 ##### bh [v]
 
-* **shrift** (= **shribht**) [Schrift]
+* **shrift** = **shribht** [Schrift]
 
 ### p [pf]
 
@@ -134,7 +134,7 @@
 * **luft** [Luft]
 * **lust** [Lust]
 * **maght** [Macht]
-* **waght** (= **wakt**) [Wacht]
+* **waght** = **wakt** [Wacht]
 
 ## k
 
@@ -176,8 +176,8 @@
 
 ### v [b]
 
-* **rave** (= **rabhe**) [Rabe]
-* **haven** (= **habhen**) [haben]
+* **rave** = **rabe** [Rabe]
+* **haven** = **haben** [haben]
 
 ### th [d]
 
@@ -186,26 +186,26 @@
 
 ### dh [d]
 
-* **đa** (= **dha**) [da]
-* **ērđe** (= **ērdhe**) [Erde]
+* **đa** = **dha** [da]
+* **ērđe** = **ērdhe** [Erde]
 
 ...
 
-* **winđ** (= **windh**) [Wind]
+* **winđ** = **windh** [Wind]
 
 ### gh [x]
 
-* **nogk** (= **nokh**) [noch]
+* **nogh** = **nokk** [noch]
 * **night** [nicht]
 
 ...
 
-* **tihen** (= **tien**) [ziehen]
+* **tihen** = **tien** [ziehen]
   * **tught** [Zucht]
   * **tyggen** [zücken]
-* **seen** (= **sehen**) [sehen]
+* **sehen** = **seen** [sehen]
   * **sight** [Sicht]
-* **gesheen** (= **geshehen**) [geschehen]
+* **geshehen** = **geshehen** [geschehen]
   * **geshighte** [Geschichte]
   * **geshigged** [geschickt]
 
