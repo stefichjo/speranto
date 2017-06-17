@@ -30,6 +30,18 @@
 
 * **mænnĭsh** [Mensch]
 
+# Doppelede Consonanten
+
+* **in** [in]
+  * **innen** [innen]
+
+...
+
+* **frỹndhin** [Freundin]
+  * **frỹndhinnen** [Freundinnen]
+* **frỹndhlik** [freundlich]
+  * **frỹndhlikke** [freundliche]
+
 # p, t, k
 
 ## p
