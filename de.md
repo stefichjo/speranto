@@ -182,6 +182,7 @@
 ### th [d]
 
 * **thing** [Ding]
+* **thenken** [denken]
 
 ### dh [d]
 
