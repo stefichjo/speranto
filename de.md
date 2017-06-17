@@ -42,6 +42,10 @@
 * **frỹndhlik** [freundlich]
   * **frỹndhlikke** [freundliche]
 
+...
+
+* **rightig** (= **rightigh**) [richtig]
+
 # p, t, k
 
 ## p
@@ -128,6 +132,10 @@
 * **falcke** [Falke]
 * **kalck** [Kalk]
 * **melcken** [melken]
+
+...
+
+* **sinken** [sinken]
 
 ## bh, dh, gh
 
