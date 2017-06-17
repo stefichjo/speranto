@@ -14,43 +14,121 @@
 * **bõm** [Baum]
 * **bø̃me** [Bäume]
 
+* **wůlf** (= **wolf**) [Wolf]
+* **wẙlfe** (= **wølfe**) [Wölfe]
 
-* **word** [Wort]
-* **wørder** [Wörter]
-
-* **wůlf** [Wolf]
-* **wẙlfe** [Wölfe]
-
-* **bǒk** [Buch]
-* **bø̌ker** [Bücher]
+* **bǒk** (= **buk**) [Buch]
+* **bø̌ker** (= **byker**) [Bücher]
 
 * **smal** [schmal]
 * **sper** [Speer]
 * **stẽn** [Stein]
 
-* **thing** [Ding]
-* **dhar** [dar]
-* **ērdhe** [Erde]
-
-* **padh** [Pfad]
-* **appel** [Apfel]
-* **aphe** [Affe]
-
-* **tũn** [Zaun]
-* **katte** [Katze]
-* **strāthe** [Straße]
-
-* **wak** [wach]
-* **kirkhe** [Kirche]
-* **dhogh** [doch]
-* **night** [nicht]
-
-* **rave** [Rabe]
 * **fux** [Fuchs]
 
-* **windh** [Wind]
-* **milkh** [Milch]
-* **melken** [melken]
 * **foll** [voll]
 
 * **mænnĭsh** [Mensch]
+
+# p, t, k
+
+## p
+
+### b [p]
+
+* **ribbe** [Rippe]
+
+#### b [b]
+
+* **rave** (= **rabe**) [Rabe]
+* **shrĩven** (= **shrĩben**) [scheiben]
+
+##### bh [v]
+
+* **shrift** (= **shribht**) [Schrift]
+
+### p [pf]
+
+* **appel** [Apfel]
+
+...
+
+* **padh** [Pfad]
+
+#### p [f]
+
+* **aphe** [Affe]
+
+## t
+
+### d [t]
+
+* **word** [Wort]
+* **hydde** [Hütte]
+
+### t [ts]
+
+* **katte** [Katze]
+* **hẽten** [heizen]
+
+...
+
+* **tũn** [Zaun]
+
+#### t [s]
+
+* **strāthe** [Straße]
+* **hẽth** [heiß]
+* **groth** [groß]
+
+## k
+
+* **night** [nicht]
+* **dhogh** [doch]
+
+### g [k]
+
+* **brygge** [Brücke]
+* **weggen** [wecken]
+* **naggen** [Nacken]
+
+### k [x]
+
+* **suken** [suchen]
+* **sakke** [Sache]
+* **makken** [machen]
+* **wakk** [wach]
+
+...
+
+* **kirke** [Kirche]
+* **welke** [welche]
+* **milk** [Milch]
+
+#### k [k]
+
+* **wircken** [wirken]
+* **wolcke** [Wolke]
+* **falcke** [Falke]
+* **kalck** [Kalk]
+* **melcken** [melken]
+
+## b, th, dh
+
+### v [b]
+
+* **rave** (= **rabhe**) [Rabe]
+* **haven** (= **habhen**) [haben]
+
+### th [d]
+
+* **thing** [Ding]
+
+### dh [d]
+
+* **dha** [da]
+* **ērdhe** [Erde]
+
+...
+
+* **windh** [Wind]
