@@ -90,9 +90,6 @@
 
 ## k
 
-* **night** [nicht]
-* **dhogh** [doch]
-
 ### g [k]
 
 * **brygge** [Brücke]
@@ -120,7 +117,7 @@
 * **kalck** [Kalk]
 * **melcken** [melken]
 
-## b, th, dh
+## bh, dh, gh
 
 ### v [b]
 
@@ -139,3 +136,17 @@
 ...
 
 * **windh** [Wind]
+
+### gh [x]
+
+* **dhokh** (= **dogh**) [doch]
+* **night** [nicht]
+
+...
+
+* **tien** (= **tihen**) [ziehen]
+  * **tught** [Zucht]
+* **seen** (= **sehen**) [sehen]
+  * **sight** [Sicht]
+
+
