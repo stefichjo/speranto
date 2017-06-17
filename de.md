@@ -37,10 +37,10 @@
 
 ...
 
-* **frỹndhin** [Freundin]
-  * **frỹndhinnen** [Freundinnen]
-* **frỹndhlik** [freundlich]
-  * **frỹndhlikke** [freundliche]
+* **frỹnđin** [Freundin]
+  * **frỹnđinnen** [Freundinnen]
+* **frỹnđlik** [freundlich]
+  * **frỹnđlikke** [freundliche]
 
 ...
 
@@ -69,7 +69,7 @@
 
 ...
 
-* **padh** [Pfad]
+* **pađ** [Pfad]
 
 #### p [f]
 
@@ -156,15 +156,15 @@
 ### dh [d]
 
 * **dha** [da]
-* **ērdhe** [Erde]
+* **ērđe** (= **ērdhe**) [Erde]
 
 ...
 
-* **windh** [Wind]
+* **winđ** (= **windh**) [Wind]
 
 ### gh [x]
 
-* **dhokk** (= **dogh**) [doch]
+* **dhokk** (= **dhogh**) [doch]
 * **night** [nicht]
 
 ...
