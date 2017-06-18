@@ -214,6 +214,10 @@
 * **foll** [voll]
 * **fader** [Vater]
 
+## h [k]
+
+* **brø̌đerlikhẽd** [Brüderlichkeit]
+
 ## s [ŝ]
 
 * **slaphen** [schlafen]
