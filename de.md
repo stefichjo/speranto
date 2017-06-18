@@ -219,10 +219,11 @@
 * **slaphen** [schlafen]
 * **smal** [schmal]
 * **snell** [schnell]
+* **swimmen** [swimmen]
 
 ...
 
-* **shrĩven** [schreiben]
+* **shrank** [Schrank]
 
 ...
 
