@@ -228,7 +228,7 @@
 
 ## h [k]
 
-* **brø̌đerlikhẽd** [Brüderlichkeit]
+* **brø̌đerlikhẽd** = **brø̌đerlikkẽd** [Brüderlichkeit]
 
 ## s [ŝ]
 
