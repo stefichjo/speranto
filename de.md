@@ -235,7 +235,7 @@
 * **slaphen** [schlafen]
 * **smal** [schmal]
 * **snell** [schnell]
-* **swimmen** [swimmen]
+* **swimmen** [schwimmen]
 
 ...
 
