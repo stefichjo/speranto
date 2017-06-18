@@ -239,16 +239,17 @@
 
 ...
 
+* **sper** [Speer]
+* **stẽn** [Stein]
+
+### sh [ŝ]
+
 * **shrank** [Schrank]
 
 ...
 
-* **sper** [Speer]
-* **stẽn** [Stein]
 
-...
-
-
+* **shiph** [Schiff]
 * **fish** [Fisch]
 
 ## x
