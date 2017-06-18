@@ -74,6 +74,11 @@
 * **bǒk** = **buk** [Buch]
 * **bø̌ker** = **byker** [Bücher]
 
+...
+
+* **dor** [Tor]
+* **dø̌r** = **dyr** [Tür]
+
 ### ů
 
 * **wůlf** = **wolf** [Wolf]
