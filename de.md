@@ -2,19 +2,27 @@
 
 ## Længe unđ Kyrte
 
+### Präpositionen
+
 * **in** [in]
   * **innen** [innen]
 
-...
+### Personalpronomen
+
+* **man** [man]
+  * **mann** [Mann]
+
+### Enđungen
 
 * **frỹnđin** [Freundin]
   * **frỹnđinnen** [Freundinnen]
 * **frỹnđlik** [freundlich]
   * **frỹnđlikke** [freundliche]
 
-...
+#### Enđungen mid Swunđvocal
 
-* **rightig** = **rightigh** [richtig]
+* **gegener** = **geg'ner** [Gegner]
+  * **gegen** [gegen]
 
 ## Diphtonge
 
@@ -213,6 +221,10 @@
 
 * **foll** [voll]
 * **fader** [Vater]
+
+## g [x]
+
+* **rightig** = **rightigh** [richtig]
 
 ## h [k]
 
