@@ -148,9 +148,9 @@
 
 ### g [k]
 
-* **brygge** [Brücke]
-* **weggen** [wecken]
-* **naggen** [Nacken]
+* **brygge** = **brycke** [Brücke]
+* **weggen** = **wecken** [wecken]
+* **naggen** = **nacken** [Nacken]
 
 ### k [x]
 
@@ -232,10 +232,10 @@
 
 ## s [ŝ]
 
-* **slaphen** [schlafen]
+* **sloth** [Schloss]
 * **smal** [schmal]
-* **snell** [schnell]
-* **swimmen** [schwimmen]
+* **snũte** [Schnauze]
+* **swĩn** [Schwein]
 
 ...
 
