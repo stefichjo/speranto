@@ -114,6 +114,7 @@
 ...
 
 * **pađ** [Pfad]
+* **plight** [Pflicht]
 
 #### p [f]
 
@@ -156,6 +157,8 @@
 * **brygge** = **brycke** [Brücke]
 * **weggen** = **wecken** [wecken]
 * **naggen** = **nacken** [Nacken]
+* **hegge** = **hecke** [Hecke]
+* **ryggen** = **rycken** [Rücken]
 
 ### k [x]
 
@@ -186,6 +189,8 @@
 
 * **metric** [Metrik]
   * **metricken** [Metriken]
+* **socken** [Socken]
+* **flocke** [Flocke]
 
 ### v [b]
 

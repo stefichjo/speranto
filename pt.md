@@ -31,7 +31,7 @@
 * **pac̄to** [pacto]
 * **lac̄tose** [lactose]
 
-### ct ?
+### ct → c̆t
 
 * **octǒbro** [outubro]
 * **doctorĕ** [doutor]
@@ -186,10 +186,10 @@
 * **eğo** [eu]
 * **rȇğina** [raina]
 
-### l → -/r: 	ľ
+### l → -/r: l̯
 
-* **voľat** [voa]
-* **pľato** [prato]
+* **vol̯at** [voa]
+* **pl̯ato** [prato]
 
 ### p → b: p̆
 
