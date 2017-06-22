@@ -1,6 +1,6 @@
 # Português
 
-## ct
+## ct → t
 
 * **victima** [vitima]
 * **exacto** [exato]
@@ -10,47 +10,55 @@
 * **fructo** [fruto]
 * **tecto** [teto]
 * **architectura** [arquitetura]
+* **nocturno** [noturno]
 
 ...
 
-* **directıōnĕ** [direção]
-* **perfẽcto** [perfeito]
-* **sẽcta** [seita]
-* **rẽctora** [reitora]
-* **lẽcto** [leito]
-* **lẽctora** [leitora]
 * **lėct̯o** [lido]
-* **õcto** [oito]
-* **õctava** [oitava]
-* **nõcte** [noite]
+* **directıōnĕ** [direção]
 
-...
-
-* **läċte** [leite]
-* **fac̄to** [facto]
-* **pac̄to** [pacto]
-* **lac̄tose** [lactose]
-
-### ct → c̆t
-
-* **octǒbro** [outubro]
-* **doctorĕ** [doutor]
-
-### nct
+### nct → nt
 
 * **půncto** [ponto]
 * **juncto** [junto]
 
-## au
+### ċt → it
+
+* **perfeċto** [perfeito]
+* **seċta** [seita]
+* **reċtora** [reitora]
+* **leċto** [leito]
+* **oċto** [oito]
+* **noċte** [noite]
+
+...
+
+* **läċte** [leite]
+
+### c̆t → ut
+
+* **octǒbro** = **oc̆tǒbro** [outubro]
+* **doctorĕ** = **doc̆torĕ** [doutor]
+
+### c̄t → ct
+
+* **fac̄to** [facto]
+* **pac̄to** [pacto]
+* **lac̄tose** [lactose]
+
+## åu → ou
 
 * **åuro** [ouro]
 
-## e → i
+## åŭ → o
 
+* **påŭp̆ĕre** [pobre]
+
+## e → i
 
 * **crearĕ** [criar]
 
-## ï
+## i → e: ï
 
 * **ïlle** [ele]
 * **ïlla** [ela]
@@ -101,14 +109,8 @@
 
 ## ł
 
-* **animałes** [animais]
 * **ło** [o]
 * **ła** [a]
-* **sołŏ** [só]
-
-### bł
-
-* **błancos** [brancos]
 
 ### cł
 
@@ -166,7 +168,7 @@
 
 ## "Lenizione"
 
-### c → g: c̆
+### c̆ → g
 
 * **amic̆o** [amigo]
 * **sec̆undo** [segundo]
@@ -175,36 +177,51 @@
 
 * **advoc̆at̯o** [advogado]
 
-### d → -: ḓ
+### ḓ → -
 
 * **våḓo** [vou]
+* **vaḓet** [vai]
 * **caḓent** [caem]
 * **juḓicĕ** [juiz]
 
-### g → -: ğ
+### ğ → -
 
 * **eğo** [eu]
 * **rȇğina** [raina]
 
-### l → -/r: l̯
+### l̯ → r
 
-* **vol̯at** [voa]
+* **bl̯anco** [branco]
 * **pl̯ato** [prato]
 
-### p → b: p̆
+#### l̯ → -:
 
-* **důp̆ło** [dobro]
+* **vol̯at** [voa]
+
+* **animal̯es** [animais]
+* **sol̯ŏ** [só]
+
+### p̆ → b
+
+...
+
+* **ap̆rirĕ** [abrir]
+* **důp̆l̯o** [dobro]
 * **Ap̆rilĕ** [Abril]
 
-### q → g: q̆
+### q̆ → g
+
+* **aq̆ua** [água]
+
+...
 
 * **seq̆uirĕ** [seguir]
 
-### r → -/l: r̆
+### r̆ → l
 
 * **bor̆sa** [bolsa]
 
-### t → d: t̯
+### t̯ → d
 
 * **tot̯o** [todo]
 
