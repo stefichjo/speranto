@@ -46,19 +46,16 @@
 * **pac̄to** [pacto]
 * **lac̄tose** [lactose]
 
-## åu → ou
+## å → o
 
+* **fåme** [fome]
 * **åuro** [ouro]
-
-## åŭ → o
-
-* **påŭp̆ĕre** [pobre]
 
 ## e → i
 
 * **crearĕ** [criar]
 
-## i → e: ï
+## ï → e
 
 * **ïlle** [ele]
 * **ïlla** [ela]
@@ -77,6 +74,17 @@
 
 * **gůsto** [gosto]
 * **cům** [com]
+
+## u → -
+
+### qu, gu
+
+* **que** = **qŭe**
+
+### åŭ → o
+
+* **påŭp̆ĕre** [pobre]
+
 
 ## Diphtongs
 

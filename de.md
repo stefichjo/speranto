@@ -136,6 +136,7 @@
 ...
 
 * **tũn** [Zaun]
+* **twĩg** [Zweig]
 
 #### t [s]
 
@@ -159,6 +160,7 @@
 * **naggen** = **nacken** [Nacken]
 * **hegge** = **hecke** [Hecke]
 * **ryggen** = **rycken** [Rücken]
+* **twegg** = **tweck** [Zweck]
 
 ### k [x]
 
