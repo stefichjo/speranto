@@ -1,5 +1,15 @@
 # Português
 
+## l → "ŭ"
+
+* **animal** [animal]
+
+### l → "-"
+
+* **animales** [animais]
+* **volo** [voo]
+* **color** [cor]
+
 ## ct → t
 
 * **victima** [vitima]
