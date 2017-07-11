@@ -1,4 +1,9 @@
+
 # Vocale
+
+Eth empfiled sigh, tǒsammensettungen fon tǒsammensettungen mid hėlphe fon binđestrikken tǒ gliđeren.
+
+* **fartỹg-ryggave** = **fartỹgryggave** [Fahrzeugrückgabe]
 
 ## Længe unđ Kyrte
 
@@ -7,15 +12,14 @@ Enđed đer stamm ũph mer als ẽnen midlũd, so ist đer stammselvstlũd kurt.
 * **son** [Sohn]
 * **sonne** [Sonne]
 
-Ũthnamen kønnen mid kwerstrikk ø̌ver dem selvstlũd geshriven werden.
+Ũthnamen werđen mid kwerstrikk ø̌ver dem selvstlũd geshriven.
 
 * **methen** [messen]
-  * **mathe** = **māthe** [Maße]
+  * **māthe** [Maße]
 
-Ẽn twilũd kann night ferkyrted gesprokken werđen.
+Ẽn twilũd gėlded immer als lang.
 
 * **fũst** [Faust]
-* **frỹnđ** [Freund]
 
 Enđed ẽn stamm mit twilũd ũph ẽn "r", ũph welketh kẽn selvstlũd folged, so wirđ twishen twilũd unđ "r" ẽn swunđ-"e" gesprokken.
 
@@ -30,24 +34,32 @@ Eth werđen ni đrĩ gĕlĩke midlũde hinderẽnanđer geshriven.
 
 Ferhældniswørder, fø̌rwørder unđ enđungen haven oft ẽnen kurten selvstlũd. Si werđen jeđogh allẽnsteenđ ni mid dobbeledem midlũd geshriven.
 
+* **ik** [ich]
 * **in** [in]
   * **innen** [innen]
 * **frỹnđin** [Freundin]
   * **frỹnđinnen** [Freundinnen]
 
-Nagh ferhældnisword kann "đem" ferkyrted und fersmolten werđen. "n'm" wirđ dann "m" ũthgesprokken.
+Nagh ferhældnisword kønnen "đem" unđ "đer" ferkyrted und fersmolten werđen. "n'm" wirđ dann "m" ũthgesprokken.
 
+* **an đem** → **an'm** = **am** [am]
 * **fon đem** → **fon'm** = **fom** [vom]
 * **in đem** → **in'm** = **im** [im]
 * **tǒ đem** → **tǒ'm** = **tǒm** [zum]
+* **tǒ đer** → **tǒ'r** = **tǒr** [zur]
   
-Zu'r undershĩđung kann ẽn ø̌vertẽken ferwenđed werđen, welketh đė længe ođer kyrte đes selvstlũdes angived.
+Tǒ'r undershĩđung kann ẽn ø̌vertẽken ferwenđed werđen, welketh đė længe ođer kyrte đes selvstlũdes angived.
 
 * **đēn** [đen] ≠ **đen** [denn]
   * **đem** [dem]
 * **īn** [ihn] ≠ **in** [in]
-  * **im** [ihm]
-  * **inen** [ihnen]
+  * **im** [ihm] ≠ **in'm** [im]
+  * **inen** [ihnen] ≠ **innen** [innen]
+
+Đath tĩdword "hadd" hadd ẽnen kurten selvstlũd.
+
+* **er hadd** [er hat]
+* **er hadde** [er hatte]
 
 ### Swunđ
 
@@ -57,28 +69,52 @@ In for- und naghsilven sowi in enđungen kønnen swunđlũde ũthfallen.
 * **mænnĭsh** = **mænn'sh** = **mensh** [Mensch]
 * **gĕlĩk** = **g'lĩk** = **glĩk** [gleich]
 * **gĕlõven** = **g'lõven** = **glõven** [glauben]
-* **næghĕst** = **nægh'st** = **next** [nächst]
+* **fĕrethen** = **f'rethen** = **frethen** [fressen]
+* **tĕrrennen** = **t'rrennen** = **trennen** [trennen]
 
-Dreppen twĩ enđungen mit swunđselvstlũd ũphẽnanđer, so blĩven ni bẽde erhalden.
+Der swunđlũd "e" fon enđungen fælled nagh møglikħẽd ũth.
 
 * **gegen** [gegen]
   * **gegener** = **gegĕner** = **geg'ner** = **gegner** [Gegner]
+* **sagen** [sagen]
+  * **đu sagest** [du sagst]
+* **shøn** [schön]
+  * **shønest** = **shønĕst** = **shøn'st** = **shønst** [schönst]
+* **jettig** [jetzig]
+  * **jetted** = **jettĕd** = **jett'd** = **jettd** [jetzt]
+  
+## Twilũde
 
-## Diphtonge
-
-### ĩ, ẽ
+### ĩ, ẽ [ai]
 
 * **mĩn** [mein]
 * **hẽm** [Heim]
 
-### ũ, õ
+...
+
+* **tĩd** [Zeit]
+
+### ũ, õ [au]
 
 * **frũ** [Frau]
 * **drõm** [Traum]
 
-### ỹ
+...
 
+* **mũs** [Maus]
+* **tũn** [Zaun]
+
+### ỹ [oi]
+
+* **nỹ** [neu]
+
+...
+
+* **hỹde** [heute]
+* **lỹde** [Leute]
+* **tỹg** [Zeug]
 * **dỹr** [teuer]
+* **frỹnđ** [Freund]
 
 ## Umlũdung
 
@@ -87,7 +123,7 @@ Dreppen twĩ enđungen mit swunđselvstlũd ũphẽnanđer, so blĩven ni bẽde
 * **mann** [Mann]
 * **mænner** [Männer]
 
-### ø
+### ø, ø̃
 
 * **krone** [Krone]
 * **krønung** [Krönung]
@@ -97,7 +133,7 @@ Dreppen twĩ enđungen mit swunđselvstlũd ũphẽnanđer, so blĩven ni bẽde
 * **bõm** [Baum]
 * **bø̃me** [Bäume]
 
-### y
+### y, ỹ
 
 * **kuss** [Kuss]
 * **kysse** [Küsse]
@@ -112,12 +148,15 @@ Dreppen twĩ enđungen mit swunđselvstlũd ũphẽnanđer, so blĩven ni bẽde
 ### ǒ
 
 * **bǒk** = **buk** [Buch]
-* **bø̌ker** = **byker** [Bücher]
+  * **bø̌ker** = **byker** [Bücher]
 
 ...
 
 * **dor** [Tor]
-* **dø̌r** = **dyr** [Tür]
+  * **dø̌r** = **dyr** [Tür]
+* **fro** [froh]
+  * **frỹen** [freuen]
+* **fø̌len** [fühlen]
 
 ...
 
@@ -163,19 +202,22 @@ Dreppen twĩ enđungen mit swunđselvstlũd ũphẽnanđer, so blĩven ni bẽde
 
 * **appel** [Apfel]
 * **kupper** [Kupfer]
-* **pode** [Pfote]
 * **kopp** [Kopf]
+* **stoppen** [stopfen]
+* **kamp** [Kampf]
 
 ...
 
+* **pode** [Pfote]
 * **pađ** [Pfad]
 * **perđ** [Pferd]
 * **pĩl** [Pfeil]
-* **plight** [Pflicht]
 * **plǒg** [Pflug]
 * **topp** [Zopf]
 * **dopp** [Topf]
 * **pǒl** [Pfuhl]
+* **tippel** [Zipfel]
+* **tappen** [Zapfen]
 
 #### p [f]
 
@@ -195,11 +237,21 @@ Dreppen twĩ enđungen mit swunđselvstlũd ũphẽnanđer, so blĩven ni bẽde
 * **word** [Wort]
 * **hydde** [Hütte]
 * **mudder** [Mutter]
+* **godd** [Gott]
+* **bard** [Bart]
+* **kald** [kalt]
+
+...
+
+* **gǒd** [gut]
 
 ### t [ts]
 
 * **katte** [Katze]
 * **hẽten** [heizen]
+* **tære** [Zähre]
+* **tunge** [Zunge]
+* **hert** [Herz]
 
 ...
 
@@ -211,7 +263,7 @@ Dreppen twĩ enđungen mit swunđselvstlũd ũphẽnanđer, so blĩven ni bẽde
 
 * **strāthe** [Straße]
 * **hẽth** [heiß]
-* **groth** [groß]
+* **grōth** [groß]
 
 #### t [t]
 
@@ -219,14 +271,13 @@ Dreppen twĩ enđungen mit swunđselvstlũd ũphẽnanđer, so blĩven ni bẽde
 * **lust** [Lust]
 * **maght** [Macht]
 * **waght** = **wakt** [Wacht]
+* **træne** [Träne]
 
 ## k
 
 ### g [k]
 
 * **brygge** = **brycke** [Brücke]
-* **weggen** = **wecken** [wecken]
-* **naggen** = **nacken** [Nacken]
 * **hegge** = **hecke** [Hecke]
 * **ryggen** = **rycken** [Rücken]
 * **twegg** = **tweck** [Zweck]
@@ -237,11 +288,19 @@ Dreppen twĩ enđungen mit swunđselvstlũd ũphẽnanđer, so blĩven ni bẽde
 * **sakke** [Sache]
 * **makken** [machen]
 * **wakk** [wach]
+* **sikker** [sicher]
 
 ...
 
 * **thakk** [Dach]
 * **dũken** [tauchen]
+* **õk** [auch]
+
+#### ch [x]
+
+* **bithchen** [bisschen]
+* **mæğđchen** [Mädchen]
+* **pläcĕchen** [Plätzchen]
 
 #### lk, rk
 
@@ -249,7 +308,7 @@ Dreppen twĩ enđungen mit swunđselvstlũd ũphẽnanđer, so blĩven ni bẽde
 * **welke** [welche]
 * **milk** [Milch]
 
-#### k [k]
+...
 
 * **wircken** [wirken]
 * **wolcke** [Wolke]
@@ -257,18 +316,31 @@ Dreppen twĩ enđungen mit swunđselvstlũd ũphẽnanđer, so blĩven ni bẽde
 * **kalck** [Kalk]
 * **melcken** [melken]
 
-...
+#### ck [k]
 
-* **sinken** [sinken]
+
+* **nacken** [Nacken]
+* **wecken** [wecken]
+* **lecker** [lecker]
+* **socke** [Socke]
+* **flocke** [Flocke]
 
 ...
 
 * **metric** [Metrik]
   * **metricken** [Metriken]
-* **socken** [Socken]
-* **flocke** [Flocke]
 * **thick** [dick]
 * **đucken** [ducken]
+
+#### nk
+
+* **sinken** [sinken]
+
+...
+
+* **thenken** [denken]
+  * **thanke** [Danke]
+* **drinken** [trinken]
 
 ### v [b]
 
@@ -278,7 +350,6 @@ Dreppen twĩ enđungen mit swunđselvstlũd ũphẽnanđer, so blĩven ni bẽde
 ### th [d]
 
 * **thing** [Ding]
-* **thenken** [denken]
 
 ### dh [d]
 
@@ -293,10 +364,26 @@ Dreppen twĩ enđungen mit swunđselvstlũd ũphẽnanđer, so blĩven ni bẽde
 
 ### gh [x]
 
-* **nogh** = **nokk** [noch]
+* **naght** [Nacht]
 * **night** [nicht]
+* **feghten** [fechten]
+* **møgen** [mögen]
+  * **maght** [Macht]
+  * **møghte** [möchte]
+* **sigh** = **sikk** [sich]
+* **migh** = **mikk** [mich]
+* **đigh** = **đikk** [dich]
+* **nogh** = **nokk** [noch]
+* **đogh** = **đokk** [doch]
+* **bethenken** [bedenken]
+  * **bethaght** [Bedacht]
+* **dragen** [tragen]
+  * **draght** [Tracht]
+* **plegen** [pflegen]
+  * **plight** [Pflicht]
 
-...
+
+#### h [-]
 
 * **tihen** = **tien** [ziehen]
   * **tught** [Zucht]
@@ -306,6 +393,17 @@ Dreppen twĩ enđungen mit swunđselvstlũd ũphẽnanđer, so blĩven ni bẽde
 * **geshehen** = **geshehen** [geschehen]
   * **geshighte** [Geschichte]
   * **geshigged** [geschickt]
+* **hogh** = **hok** [hoch]
+  * **høher** = **høer** [höher]
+  * **høghest** = **høghĕst** = **høgh'st** = **høghst** = **høxt** [höchst]
+* **nah** = **na** [nah]
+  * **næher** = **næer** [näher]
+  * **næghest** = **næghĕst** = **nægh'st** = **next** [nächst]
+* **flihen** = **flien** [fliehen]
+  * **flught** [Flucht]
+    * **flyghten** [flüchten]
+* **gethĩhen** = **gethĩen** [gedeihen]
+  * **thight** = [dicht]
 
 ## f
 
@@ -317,9 +415,9 @@ Dreppen twĩ enđungen mit swunđselvstlũd ũphẽnanđer, so blĩven ni bẽde
 
 * **rightig** = **rightigh** [richtig]
 
-## h [k]
+## ħ [k]
 
-* **brø̌đerlikhẽd** = **brø̌đerlikkẽd** [Brüderlichkeit]
+* **brø̌đerlikħẽd** = **brø̌đerlikkẽd** [Brüderlichkeit]
 
 ## s [ŝ]
 
@@ -348,7 +446,23 @@ Dreppen twĩ enđungen mit swunđselvstlũd ũphẽnanđer, so blĩven ni bẽde
 
 * **fux** [Fuchs]
 
+## ñ [nt]
+
+* **ẽgeñlik** [eigentlich]
+* **weseñlik** [wesentlich]
+* **ferseheñlik** [versehentlich]
+* **nameñlik** [namentlich]
+
 ## Fremđwørder
+
+* **packen** [packen]
+* **plan** [Plan]
+* **platt** [platt]
+* **zucker** [Zucker]
+
+In tǒsammensettungen empfiled eth sigh twishen fremđwørd-bestanđdẽle mid hėlphe ẽnes binđestrikkes avtǒtrennen.
+
+* **process-shridd** [Prozessschritt]
 
 ### ph, th, ch, k, y
 
@@ -358,12 +472,13 @@ Dreppen twĩ enđungen mit swunđselvstlũd ũphẽnanđer, so blĩven ni bẽde
 * **kilo** [Kilo]
 * **system** [System]
 
-### c, t
+### c, t [ts]
 
 For "a", "o", "u" wirđ "c" wie "ts" ũthgesprokken, sonst wi "k".
 
 * **concert** [Konzert]
 * **princĕ** [Prinz]
+* **placĕ** [Platz]
 
 For "ti" wird for selvstlũd "tsj" ũthgesprokken. For ũthgefallenem "e" wird eth "ts" ũthgesprokken.
 
@@ -381,11 +496,14 @@ For "ti" wird for selvstlũd "tsj" ũthgesprokken. For ũthgefallenem "e" wird e
   * **numerėren** = **nummerėren** [nummerieren]
   * **numeral** = **nummeral** [Numeral]
 * **halvėren** [halbieren]
+* **placėren** [platzieren]
 
 ### -ŭl-
 
-* **regŭl** = **reg'l** = **regl** [Regel]
+* **regŭl** = **reg'l** = **regl** = **reglĕ** [Regel]
   * **regulėren** [regulieren]
+* **articŭl** = **artic'l** = **articl** = **articlĕ** [Artikel]
+  * **articulėren** [artikulieren]
 
 ### -ä
 
