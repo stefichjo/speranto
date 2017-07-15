@@ -149,14 +149,21 @@ Der swunđlũd "e" fon enđungen fælled nagh møglikħẽd ũth.
 
 * **bǒk** = **buk** [Buch]
   * **bø̌ker** = **byker** [Bücher]
+* **fø̌len** [fühlen]
 
 ...
 
 * **dor** [Tor]
   * **dø̌r** = **dyr** [Tür]
+* **ov** [ob]
+  * **ø̌ver** [über]
+* **foll** [voll]
+  * **fø̌llen** [füllen]
+  
+...
+
 * **fro** [froh]
   * **frỹen** [freuen]
-* **fø̌len** [fühlen]
 
 ...
 
@@ -364,24 +371,31 @@ Der swunđlũd "e" fon enđungen fælled nagh møglikħẽd ũth.
 
 ### gh [x]
 
-* **naght** [Nacht]
-* **night** [nicht]
-* **feghten** [fechten]
-* **møgen** [mögen]
-  * **maght** [Macht]
-  * **møghte** [möchte]
 * **sigh** = **sikk** [sich]
 * **migh** = **mikk** [mich]
 * **đigh** = **đikk** [dich]
 * **nogh** = **nokk** [noch]
 * **đogh** = **đokk** [doch]
+
+#### ght [xt]
+
+* **naght** [Nacht]
+* **night** [nicht]
+* **feghten** [fechten]
+
+...
+
+* **møgen** [mögen]
+  * **maght** [Macht]
+  * **møghte** [möchte]
 * **bethenken** [bedenken]
   * **bethaght** [Bedacht]
 * **dragen** [tragen]
   * **draght** [Tracht]
 * **plegen** [pflegen]
   * **plight** [Pflicht]
-
+* **ferbringen** [verbringen]
+  * **ferbraght** [verbracht]
 
 #### h [-]
 
@@ -446,7 +460,11 @@ Der swunđlũd "e" fon enđungen fælled nagh møglikħẽd ũth.
 
 * **fux** [Fuchs]
 
-## ñ [nt]
+## ñ [nd]
+
+* **jemañ** [jemand]
+
+### ñ [nt]
 
 * **ẽgeñlik** [eigentlich]
 * **weseñlik** [wesentlich]
@@ -520,3 +538,6 @@ For "ti" wird for selvstlũd "tsj" ũthgesprokken. For ũthgefallenem "e" wird e
 * **demokratiă** = **demokrati** [Demokratie]
 * **politĩă** = **politĩ** [Polizei]
 
+# ø̌verlegungen
+
+Eth tẽkened sigh av, đath balđ õk fø̌r
