@@ -163,7 +163,7 @@ Der swunđlũd "e" fon enđungen fælled nagh møglikħẽd ũth.
 ...
 
 * **fro** [froh]
-  * **frỹen** [freuen]
+  * **frø̃en** = **frỹen** [freuen]
 
 ...
 
@@ -175,6 +175,7 @@ Der swunđlũd "e" fon enđungen fælled nagh møglikħẽd ũth.
 
 * **wůlf** = **wolf** [Wolf]
 * **wẙlfe** = **wølfe** [Wölfe]
+* **sůmmer** = **sommer** [Sommer]
 
 ### ẏ
 
