@@ -2,15 +2,33 @@
 
 ### a
 
-* **mann** [man]
-* **kam** [came]
-* **grană** = **grane** = **gran** [grain]
-* **ap** [ape]
 * **appel** [apple]
+* **ap** [ape]
+* **grană** = **grane** = **gran** [grain]
+* **bar** [bear]
+* **đar** [there]
+* **whar** [where]
+* **war** [ware]
+* **war** [wear]
+* **warr** [war]
+
+#### æ
+
+* **mann** [man]
+* **mænn** [men]
+* **bǣrd** [beard]
+* **hær** [here]
+* **wær** = **wærr** [were]
+* **ræd** [read]
+  * **rædd** [read]
 
 #### å
 
 * **lång** [long]
+
+#### ȃ
+
+* **fȃđer** [father]
 
 ### e
 
@@ -22,6 +40,7 @@
 
 * **frend** [frend]
 * **fēld** [field]
+* **erđ** [earth]
 
 #### ẽ
 
@@ -43,15 +62,15 @@
 
 ...
 
-* **fīnd** = **fĩnd** [find]
+* **fīnd** [find]
 
 #### ï
 
-* **mï** = **mī** [me]
-* **bïr** = **bīr** [beer]
-* **wïk** = **wīk** [week]
-* **frï** = **frī** [free]
-* **shïld** = **shīld** [shield]
+* **mï** [me]
+* **bïr** [beer]
+* **wïk** [week]
+* **frï** [free]
+* **shïld** [shield]
 
 ### o
 
@@ -59,36 +78,7 @@
 * **so** [so]
 * **sol** [sole]
 
-#### ǒ
-
-* **bǒkk** [book]
-* **tǒ** [to]
-
-#### õ
-
-* **sõnd** [sound]
-
-### u
-
-* **u** [you]
-* **pŭtt** [put]
-* **summer** [summer]
-* **sunn** [sun]
-
-#### ũ
-
-* **mũs** [mouse]
-* **grũnd** [ground]
-* **sũr** [sour]
-* **ũt** [out]
-
-### æ
-
-* **hær** [here]
-* **ræd** [read]
-  * **rædd** [read]
-
-### ø
+#### ø
 
 * **fǒtt** [foot]
 * **føt** [feet]
@@ -100,17 +90,66 @@
 * **grøn** [green]
 * **rødd** [red]
 * **brødd** [bread]
+* **nød** [need]
+* **føl** [feel]
+* **drøm** [dream]
 
-### y
+...
+
+* **wørd** [word]
+* **port** [port]
+* **sword** [sword]@
+
+#### ǒ
+
+* **bǒkk** [book]
+* **tǒ** [to]
+
+#### ȏ
+
+* **grȏt** [great]
+* **mȏđer** [mother]
+
+#### õ
+
+* **sõnd** [sound]
+
+### u
+
+* **u** [you]
+* **pǔtt** [put]
+* **summer** [summer]
+* **sunn** [sun]
+
+#### y
 
 * **full** [full]
 * **fyll** [fill]
 * **dyr** [dear]
 * **sykk** [sick]
+* **fyrst** [first]
+* **thyrstig** [thirsty]
+* **byrthdag** [birthday]
+* **kyss** [kiss]
 
-#### ỹ
+##### ỹ
 
 * **fỹr** [fire]
+
+#### ů
+
+* **hůrs** [horse]
+
+#### ȗ
+
+* **sunn** = **sȗnn** [sun]
+
+#### ũ
+
+* **mũs** [mouse]
+* **grũnd** [ground]
+* **sũr** [sour]
+* **ũt** [out]
 
 ## Consonants
 
@@ -233,6 +272,7 @@
 ### k
 
 * **katt** [cat]
+* **kam** [came]
 * **kol** [cole]
 * **mak** [make]
 
@@ -240,3 +280,8 @@
 
 * **khirkh** [church]
 * **thakh** [thatch]
+* **khu** [chew]
+
+### nđ
+
+* **mǒnđ** = **mǒn** [moon]
