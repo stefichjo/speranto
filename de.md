@@ -182,6 +182,7 @@ Der swunđlũd "e" fon enđungen fælled nagh møglikħẽd ũth.
 * **lẏght** = **light** [Licht]
   * **lỹghten** [leuchten]
 * **krẏstall** = **kristall** [Kristall]
+* **fẏr** = **fir** [vier]
 
 ### ė
 

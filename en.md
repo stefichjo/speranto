@@ -4,31 +4,86 @@
 
 * **appel** [apple]
 * **ap** [ape]
-* **grană** = **grane** = **gran** [grain]
+
+...
+
+* *FR* **grane** = **gran** [grain]
+
+#### ar
+
 * **bar** [bear]
 * **đar** [there]
 * **whar** [where]
 * **war** [ware]
 * **war** [wear]
-* **warr** [war]
+
+...
+
+* **karr** = **kȃrr** [car]
+* **farr** = **fȃrr** [far]
+* **dark** = **dȃrk** [dark]
+* **ar** = **arr** = **ȃrr** [are]
+* *FR* **bar** = **barr** = **bȃrr** [bar]
+
+...
+
+* **warr** = **wårr** [war]
+* **warp** = **wårp** [warp]
+
 
 #### æ
 
 * **mann** [man]
 * **mænn** [men]
 * **bǣrd** [beard]
-* **hær** [here]
 * **wær** = **wærr** [were]
 * **ræd** [read]
   * **rædd** [read]
 
 #### å
 
+* **ån** [on]
+* **åv** [of]
 * **lång** [long]
+* **sång** [song]
+* **wrång** [wrong]
+
+##### all
+
+* **all** = **åll** [all]
+* **fall** = **fåll** [fall]
+* **ball** = **båll** [fall]
+* **hall** = **håll** [hall]
+* **kall** = **kåll** [call]
+* **tall** = **tåll** [call]
+
+...
+
+* **pal** = **pȃll** [pal]
+* **Al** = **Ȃll** [Al]
+
+##### ald
+
+* **ald** = **åld** [old]
+* **kald** = **kåld** [cold]
+* **bald** = **båld** [bold]
+* **fald** = **fåld** [fold]
+
+##### alk
+
+* **khalk** = **khåłk** [chalk]
+* **talk** = **tåłk** [talk]
+
+##### wa
+
+* **want** = **wånt** [want]
+* **warm** = **wårm** [warm]
+* **wall** = **wåll** [wall]
 
 #### ȃ
 
 * **fȃđer** [father]
+* **lȃst** [last]
 
 ### e
 
@@ -40,7 +95,13 @@
 
 * **frend** [frend]
 * **fēld** [field]
+
+#### er
+
+* **berri** = **bërri** [berry]
+* **err** = **** [err]
 * **erđ** [earth]
+* **perl** [pearl]
 
 #### ẽ
 
@@ -48,6 +109,7 @@
 * **bẽn** [bone]
 * **hẽm** [home]
 * **sẽel** [soul]
+* **mẽst** = **mẽest** [most]
 
 ### i
 
@@ -71,6 +133,7 @@
 * **wïk** [week]
 * **frï** [free]
 * **shïld** [shield]
+* **hïr** [here]
 
 ### o
 
@@ -78,15 +141,20 @@
 * **so** [so]
 * **sol** [sole]
 
+#### or
+
+* **or** [or]
+* **for** [for]
+* **fůr** [four]
+* **port** [port]
+* **sword** [sword]@
+* **form** [form]
+* **mẽr** = **mẽer** [more]
+* **bord** [board]
+
 #### ø
 
-* **fǒtt** [foot]
-* **føt** [feet]
-* **bom** [boom]
-* **bøm** [beam]
 * **søk** [seek]
-* **hør** [hear]
-  * **hørred** [heard]
 * **grøn** [green]
 * **rødd** [red]
 * **brødd** [bread]
@@ -96,27 +164,39 @@
 
 ...
 
+* **fǒtt** [foot]
+* **føt** [feet]
+* **bom** [boom]
+* **bøm** [beam]
+
+##### ør
+
 * **wørd** [word]
-* **port** [port]
-* **sword** [sword]@
+* **wørm** [worm]
+* **hør** [hear]
+  * **hørred** [heard]
 
 #### ǒ
 
 * **bǒkk** [book]
+* **lǒkk** [look]
 * **tǒ** [to]
 
 #### ȏ
 
 * **grȏt** [great]
 * **mȏđer** [mother]
+* **kȏmm** [come]
 
 #### õ
 
 * **sõnd** [sound]
+  * **đe sõnd åv silence** [the sound of silence]
 
 ### u
 
 * **u** [you]
+* **rum** [room]
 * **pǔtt** [put]
 * **summer** [summer]
 * **sunn** [sun]
@@ -125,12 +205,16 @@
 
 * **full** [full]
 * **fyll** [fill]
-* **dyr** [dear]
 * **sykk** [sick]
+* **kyss** [kiss]
+
+##### yr
+
+* **dyr** [dear]
+* **wyrk** [work]
 * **fyrst** [first]
 * **thyrstig** [thirsty]
 * **byrthdag** [birthday]
-* **kyss** [kiss]
 
 ##### ỹ
 
@@ -150,6 +234,9 @@
 * **grũnd** [ground]
 * **sũr** [sour]
 * **ũt** [out]
+* **hũs** [house]
+* **sũnd** [sound]
+  * **safe and sũnd** [safe and sound]
 
 ## Consonants
 
@@ -174,7 +261,7 @@
 
 ...
 
-* **-lïg** [-ly]
+* **-lïk** [-ly]
 * **lỹg** [lie]
   * **lỹger** [liar]
 * **lø̃g** [lye]
@@ -191,6 +278,7 @@
   * **flǒg** = **flug** [flew]
   * **flogen** [flown]
   * **flight** [flight]
+* **ẽgen** [own]
 
 #### gh
 
@@ -212,8 +300,10 @@
 * **bring** [bring]
   * **braght** [braught]
 * **think** [think]
-  * **thaght** [thaught]
-  
+  * **thaght** [thought]
+* **tēkh** [teach]
+  * **taght** [taught]
+
 ...
 
 * **lỹght** [light]
@@ -246,7 +336,7 @@
 
 * **sag̊** [saw]
 * **bog̊** [bow]
-* **fog̊el** [fowl]
+* **fůg̊el** = **fũgel** [fowl]
 
 ##### g̊h
 
@@ -282,6 +372,21 @@
 * **thakh** [thatch]
 * **khu** [chew]
 
-### nđ
+### c
+
+* *FR* **dȃnce** [dance]
+* *FR* **centre** [centre]
+* *FR* **care** [care]
+
+##### ch
+
+* *FR* **chānge** [change]
+* *FR* **chȃnce** [chance]
+* *FR* **march** [march]
+
+### nđ, nth
 
 * **mǒnđ** = **mǒn** [moon]
+* **sũnđ** = **sũđ** [south]
+* **mũnđ** = **mũđ** [mouth]
+
