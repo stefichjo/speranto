@@ -351,6 +351,7 @@
 * **myĝ** = **myĝĝ** [midge]
 * **eĝ** = **eĝĝ** [edge]
 * **sleĝ** = **sleĝĝ** [sledge]
+* **heĝ** = **heĝĝ** [hedge]
 
 ### h
 
