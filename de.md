@@ -1,15 +1,19 @@
-
 # Vocale
 
 Eth empfiled sigh, tǒsammensettungen fon tǒsammensettungen mid hėlphe fon binđestrikken tǒ gliđeren.
 
-* **fartỹg-ryggave** = **fartỹgryggave** [Fahrzeugrückgabe]
+* **fartỹg-ryggave** = **fartỹgryggave** [ˈfa:rtsɔykrʏkga:bə] *Fahrzeugrückgabe*
 
 ## Længe unđ Kyrte
 
-Enđed đer stamm ũph mer als ẽnen midlũd, so ist đer stammselvstlũd kurt.
+Ẽn selvstlũd an'm stammenđe ist lang. Er ist õk đann lang, wen an'm stammenđe ẽn ẽnselner midlũd steed (miđ ođer one denungs-h).
 
+* **đa** [da:] *da*
+* **so** [zo:] *so*
 * **son** [zo:n] *Sohn*
+
+Enđed đer stamm ũph mer als ẽnen midlũd, so ist đer lũd kurt.
+
 * **sonne** [ˈzɔnə] *Sonne*
 
 Ũthnamen werđen mid kwerstrikk ø̌ver dem selvstlũd geshriven.
