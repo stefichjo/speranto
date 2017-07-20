@@ -9,8 +9,8 @@ Eth empfiled sigh, tǒsammensettungen fon tǒsammensettungen mid hėlphe fon bin
 
 Enđed đer stamm ũph mer als ẽnen midlũd, so ist đer stammselvstlũd kurt.
 
-* **son** [Sohn]
-* **sonne** [Sonne]
+* **son** [zo:n] *Sohn*
+* **sonne** [ˈzɔnə] *Sonne*
 
 Ũthnamen werđen mid kwerstrikk ø̌ver dem selvstlũd geshriven.
 
