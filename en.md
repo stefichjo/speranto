@@ -79,6 +79,7 @@
 * **want** = **wånt** [want]
 * **warm** = **wårm** [warm]
 * **wall** = **wåll** [wall]
+* **was** = **wås** [was]
 
 #### ȃ
 
