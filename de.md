@@ -1,40 +1,71 @@
-# Vocale
+# Reghtshrĩvung
 
-Eth empfiled sigh, tǒsammensettungen fon tǒsammensettungen mid hėlphe fon binđestrikken tǒ gliđeren.
+Eth empfiled sigh, tǒsammensettungen fon tǒsammensettungen mid hėlphe fon binđestriken tǒ gliđeren.
 
 * **fartỹg-ryggave** = **fartỹgryggave** [ˈfa:rtsɔykrʏkga:bə] *Fahrzeugrückgabe*
 
+In tǒsammensettungen empfiled eth sigh fremđword-bestanđdẽle mid hėlphe ẽnes binđestrikes avtǒtĕrrennen.
+
+* **process-shridd** [proˈtsɛsʃrɪt] *Prozessschritt*
+
+## One Sonđertẽken
+
+Wen kẽne sonđertẽken tǒ'r ferfygung steen, kønnen si thurk bestimmede bǒkstavenferbinđungen umshriven werđen.
+
+* **đ** = **dh**
+* **ǒ** = **oo**
+* **ø̌** = **ooe**
+* **æ** = **ae**
+* **ø** = **oe**
+* **ø̃** = **oej**
+* **y** = **ue**
+* **ỹ** = **uej**
+* **ẽ** = **ej**
+* **ĩ** = **ij**
+* **õ** = **ow**
+* **ũ** = **uw**
+
+# Vocale
+
 ## Længe unđ Kyrte
 
-Ẽn selvstlũd an'm stammenđe ist lang. Er ist õk đann lang, wen an'm stammenđe ẽn ẽnselner midlũd steed (miđ ođer one denungs-h).
+Ẽn selvstlũd an'm stammenđe ist lang.
 
 * **đa** [da:] *da*
 * **so** [zo:] *so*
+
+Er ist õk đann lang, wen an'm stammenđe ẽn ẽnselner midlũd steed (miđ ođer one denungs-h).
+
 * **son** [zo:n] *Sohn*
+* **hyde** [ˈhy:tə] *Hüte*
 
 Enđed đer stamm ũph mer als ẽnen midlũd, so ist đer lũd kurt.
 
 * **sonne** [ˈzɔnə] *Sonne*
+* **hydde** [ˈhʏtə] *Hütte*
 
-Ũthnamen werđen mid kwerstrikk ø̌ver dem selvstlũd geshriven.
+Ũthnamen werđen mid længenstrik ø̌ver dem selvstlũd geshriven.
 
-* **methen** [messen]
-  * **māthe** [Maße]
+* **slaph** [ʃlaf] *schlaff*
+  * **slāph** [ʃla:f] *Schlaf*
+* **methen** [ˈmɛsn̩] *messen*
+  * **māthe** [ˈmasə] *Maße*
 
 Ẽn twilũd gėlded immer als lang.
 
-* **fũst** [Faust]
+* **fũst** [faust] *Faust*
 
-Enđed ẽn stamm mit twilũd ũph ẽn "r", ũph welketh kẽn selvstlũd folged, so wirđ twishen twilũd unđ "r" ẽn swunđ-"e" gesprokken.
+Enđed ẽn stamm mit twilũd ũph ẽn "r", ũph welketh kẽn selvstlũd folged, so wirđ twishen twilũd unđ "r" ẽn swunđ-"e" gesproken.
 
-* **fỹr** = **fỹĕr** [Feuer]
-  * **fỹrig** [feurig]
+* **fỹr** = **fỹĕr** [ˈfɔyɐ] *Feuer*
+  * **fỹrig** [ˈfɔyrɪç] *feurig*
 
 Eth werđen ni đrĩ gĕlĩke midlũde hinderẽnanđer geshriven.
 
-* **fø̌llinie** = **fø̌ll-linie** [Fülllinie]
-* **middag** = **midd-dag** [Mittag]
-* **beddǒk** = **bedd-dǒk** [Betttuch]
+* **middwok** [ˈmɪtvɔx] *Mittwoch*
+* **middag** = **midd-dag** [ˈmɪta:k] *Mittag*
+* **fø̌llinie** = **fø̌ll-linie** [ˈfʏlli:ni̯ə] *Fülllinie*
+* **beddǒk** = **bedd-dǒk** [ˈbɛttu:x] *Betttuch*
 
 Ferhældniswørder, fø̌rwørder unđ enđungen haven oft ẽnen kurten selvstlũd. Si werđen jeđogh allẽnsteenđ ni mid dobbeledem midlũd geshriven.
 
@@ -44,7 +75,7 @@ Ferhældniswørder, fø̌rwørder unđ enđungen haven oft ẽnen kurten selvstl
 * **frỹnđin** [Freundin]
   * **frỹnđinnen** [Freundinnen]
 
-Nagh ferhældnisword kønnen "đem" unđ "đer" ferkyrted und fersmolten werđen. "n'm" wirđ dann "m" ũthgesprokken.
+Nagh ferhældnisword kønnen "đem" unđ "đer" ferkyrted und fersmolten werđen. "n'm" wirđ dann "m" ũthgesproken.
 
 * **an đem** → **an'm** = **am** [am]
 * **fon đem** → **fon'm** = **fom** [vom]
@@ -52,7 +83,7 @@ Nagh ferhældnisword kønnen "đem" unđ "đer" ferkyrted und fersmolten werđen
 * **tǒ đem** → **tǒ'm** = **tǒm** [zum]
 * **tǒ đer** → **tǒ'r** = **tǒr** [zur]
   
-Tǒ'r undershĩđung kann ẽn ø̌vertẽken ferwenđed werđen, welketh đė længe ođer kyrte đes selvstlũdes angived.
+Tǒ'r undershĩđung kann ẽn ø̌vertẽken ferwenđed werđen, welketh đė længe ođer kyrte đes selvstlũdes angėved.
 
 * **đēn** [đen] ≠ **đen** [denn]
   * **đem** [dem]
@@ -134,8 +165,8 @@ Der swunđlũd "e" fon enđungen fælled nagh møglikħẽd ũth.
 
 ...
 
-* **bõm** [Baum]
-* **bø̃me** [Bäume]
+* **bõm** = **bowm** [Baum]
+* **bø̃me** = **boejme** [Bäume]
 
 ### y, ỹ
 
@@ -151,9 +182,9 @@ Der swunđlũd "e" fon enđungen fælled nagh møglikħẽd ũth.
 
 ### ǒ
 
-* **bǒk** = **buk** [Buch]
-  * **bø̌ker** = **byker** [Bücher]
-* **fø̌len** [fühlen]
+* **bǒk** = **būk** [Buch]
+  * **bø̌ker** = **bȳker** [Bücher]
+* **fø̌len** = **fylen** [fühlen]
 
 ...
 
@@ -167,7 +198,7 @@ Der swunđlũd "e" fon enđungen fælled nagh møglikħẽd ũth.
 ...
 
 * **fro** [froh]
-  * **frø̃en** = **frỹen** [freuen]
+  * **frø̃en** [freuen]
 
 ...
 
@@ -209,7 +240,7 @@ Der swunđlũd "e" fon enđungen fælled nagh møglikħẽd ũth.
 
 ##### bh [v]
 
-* **shrift** = **shribht** [Schrift]
+* **shrift** [Schrift]
 
 ### p [pf]
 
@@ -248,8 +279,7 @@ Der swunđlũd "e" fon enđungen fælled nagh møglikħẽd ũth.
 
 * **dag** [Tag]
 * **word** [Wort]
-* **hydde** [Hütte]
-* **mudder** [Mutter]
+* **mǒdder** [Mutter]
 * **godd** [Gott]
 * **bard** [Bart]
 * **kald** [kalt]
@@ -297,15 +327,19 @@ Der swunđlũd "e" fon enđungen fælled nagh møglikħẽd ũth.
 
 ### k [x]
 
+Ẽn "k" am stammenđe wird geriven gesproken. Normale selvstlũde werđen kurt ũthgesproken.
+
+* **sake** = **sakke** [Sache]
+* **maken** = **makken** [machen]
+* **wak** = **wakk** [wach]
+* **siker** = **sikker** [sicher]
+* **thak** = **thakk** [Dach]
+* **beker** = **bekker** [Becher]
+
+For "k" am stammenđe sinđ nur selvstũde mid ø̌vertẽken lang.
+
+* **sprāke** = **sprake** [Sprache]
 * **sǒken** [suchen]
-* **sakke** [Sache]
-* **makken** [machen]
-* **wakk** [wach]
-* **sikker** [sicher]
-
-...
-
-* **thakk** [Dach]
 * **dũken** [tauchen]
 * **õk** [auch]
 
@@ -331,7 +365,7 @@ Der swunđlũd "e" fon enđungen fælled nagh møglikħẽd ũth.
 
 #### ck [k]
 
-
+* **bæckerĩ** [Bäckerei]
 * **nacken** [Nacken]
 * **wecken** [wecken]
 * **lecker** [lecker]
@@ -364,24 +398,24 @@ Der swunđlũd "e" fon enđungen fælled nagh møglikħẽd ũth.
 
 * **thing** [Ding]
 
-### dh [d]
+### đ [d]
 
-* **đa** = **dha** [da]
-* **ērđe** = **ērdhe** [Erde]
-* **leđer** = **ledher** [Leder]
-* **winđ** = **windh** [Wind]
+* **đa** [da]
+* **ērđe** [Erde]
+* **leđer** [Leder]
+* **winđ** [Wind]
 
 ...
 
-* **lẽđer** = **lẽdher** [leider]
+* **lẽđer** [leider]
 
 ### gh [x]
 
-* **sigh** = **sikk** [sich]
-* **migh** = **mikk** [mich]
-* **đigh** = **đikk** [dich]
-* **nogh** = **nokk** [noch]
-* **đogh** = **đokk** [doch]
+* **sigh** = **sik** [sich]
+* **migh** = **mik** [mich]
+* **đigh** = **đik** [dich]
+* **nogh** = **nok** [noch]
+* **đogh** = **đok** [doch]
 
 #### ght [xt]
 
@@ -484,10 +518,6 @@ Der swunđlũd "e" fon enđungen fælled nagh møglikħẽd ũth.
 * **platt** [platt]
 * **zucker** [Zucker]
 
-In tǒsammensettungen empfiled eth sigh twishen fremđwørd-bestanđdẽle mid hėlphe ẽnes binđestrikkes avtǒtrennen.
-
-* **process-shridd** [Prozessschritt]
-
 ### ph, th, ch, k, y
 
 * **photo** [Foto]
@@ -543,7 +573,3 @@ For "ti" wird for selvstlũd "tsj" ũthgesprokken. For ũthgefallenem "e" wird e
 * **biologiă** = **biologi** [Biologie]
 * **demokratiă** = **demokrati** [Demokratie]
 * **politĩă** = **politĩ** [Polizei]
-
-# ø̌verlegungen
-
-Eth tẽkened sigh av, đath balđ õk fø̌r
