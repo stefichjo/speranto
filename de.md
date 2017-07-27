@@ -95,19 +95,19 @@ Tǒ'r undershĩđung kann ẽn ø̌vertẽken ferwenđed werđen, welketh đė l
 
 In for- und naghsilven sowi in enđungen kønnen swunđlũde ũthfallen.
 
-* **thỹdĭsh** = **thỹd'sh** = **thỹdsh** [deutsch]
-* **mænnĭsh** = **mænn'sh** = **mensh** [Mensch]
-* **gĕlĩk** = **g'lĩk** = **glĩk** [gleich]
-* **gĕlõven** = **g'lõven** = **glõven** [glauben]
-* **fĕrethen** = **f'rethen** = **frethen** [fressen]
-* **tĕrrennen** = **t'rrennen** = **trennen** [trennen]
+* *deutsch* [ˈdɔytʃ]: **thỹdĭsh** = **thỹd'sh** = **thỹdsh**
+* *Mensch* [mɛnʃ]: **mænnĭsh** = **mænn'sh** = **mensh**
+* *gleich* [ˈglaiç]: **gĕlĩk** = **g'lĩk** = **glĩk**
+* *glauben* [ˈglaubn̩]: **gĕlõven** = **g'lõven** = **glõven**
+* *fressen* [ˈfrɛsn̩]: **fĕrethen** = **f'rethen** = **frethen**
+* *trennen* [ˈtrɛnən]: **tĕrrennen** = **t'rrennen** = **trennen**
 
 Der swunđlũd "e" fon enđungen fælled nagh møglikħẽd ũth.
 
 * **gegen** [gegen]
   * **gegener** = **gegĕner** = **geg'ner** = **gegner** [Gegner]
 * **sagen** [sagen]
-  * **đu sagest** [du sagst]
+  * **đu sagest** = **đu sagĕst** = **đu sag'st** = **đu sagst** [du sagst]
 * **shøn** [schön]
   * **shønest** = **shønĕst** = **shøn'st** = **shønst** [schönst]
 * **jettig** [jetzig]
