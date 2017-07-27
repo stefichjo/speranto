@@ -187,46 +187,46 @@ Der swunđlũd "e" fon enđungen fælled nagh møglikħẽd ũth.
 ### ǒ, ø̌
 *(oo, ooe)*
 
-* **bǒk** [Buch]
-  * **bø̌ker** [Bücher]
-* **fø̌len** [fühlen]
+* *Buch* [bu:x]: **bǒk**
+  * *Bücher* [ˈby:çɐ]: **bø̌ker**
+* *fühlen* [ˈfy:lən] **fø̌len**
 
 ...
 
-* **dor** [Tor]
-  * **dø̌r** [Tür]
-* **ov** [ob]
-  * **ø̌ver** [über]
-* **foll** [voll]
-  * **fø̌llen** [füllen]
+* *Tor* [to:ɐ̯]: **dor**
+  * *Tür* [ty:ɐ̯]: **dø̌r**
+* *ob* [ɔp]: **ov**
+  * *über* [ˈy:bɐ]: **ø̌ver**
+* *voll* [fɔl]: **foll**
+  * *füllen* [ˈfʏlən]: **fø̌llen**
   
 ...
 
-* **kønnen** [können]
-* **kǒnst** [Kunst]
-* **kø̌nstlik** [künstlich]
+* *können* [ˈkœnən]: **kønnen**
+  * *Kunst* [kʊnst]: **kǒnst**
+    * *künstlich* [ˈkʏnstlɪç]: **kø̌nstlik**
 
 ### ů
 *(o)*
 
-* **wůlf** [Wolf]
-* **wẙlfe** [Wölfe]
-* **sůmmer** [Sommer]
+* *Wolf* [vɔlf]: **wůlf**
+  * *Wölfe* [ˈvœlfə]: **wẙlfe**
+* *Sommer* [ˈzɔmɐ]: **sůmmer**
 
 ### ẏ
 *(i)*
 
-* **lẏght** [Licht]
-  * **lỹghten** [leuchten]
-* **krẏstall** [Kristall]
-* **fẏr** [vier]
+* *Licht* [lɪçt]: **lẏght**
+  * *leuchten* [ˈlɔyçtn̩]: **lỹghten**
+* *Kristall* [krɪsˈtal]: **krẏstall**
+* *vier* [fi:ɐ̯]: **fẏr**
 
 ### ė
 *(i)*
 
-* **đė** [die]
-* **đu gėvest** [du gibst]
-* **gebėrge** [Gebirge]
+*  *die* [di:]: **đė**
+* *du gibst* [du: gɪpst]: **đu gėvest**
+* *Gebirge* [gəˈbɪrgə]: **gebėrge**
 
 # Midlũde
 
