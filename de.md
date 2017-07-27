@@ -2,23 +2,23 @@
 
 Eth empfiled sigh, tǒsammensettungen fon tǒsammensettungen mid hėlphe fon binđestriken tǒ gliđeren. In tǒsammensettungen empfiled eth sigh fremđword-bestanđdẽle mid hėlphe ẽnes binđestrikes avtǒtĕrrennen.
 
-* **fartỹg-ryggave** = **fartỹgryggave** [ˈfa:rtsɔykrʏkga:bə] *Fahrzeugrückgabe*
-* **process-shridd** = **processshridd** [proˈtsɛsʃrɪt] *Prozessschritt*
+* *Fahrzeugrückgabe* [ˈfa:rtsɔykrʏkga:bə]: **fartỹg-ryggave** = **fartỹgryggave**
+* *Prozessschritt* [proˈtsɛsʃrɪt]: **process-shridd** = **processshridd**
 
 Wen kẽne sonđertẽken tǒ'r ferfygung steen, kønnen si thurk bestimmede bǒkstaven-ferbinđungen umshriven werđen.
 
-* **bæckerĩ** = **baeckerij** [bɛkəˈrai] *Bäckerei*
+* *Bäckerei* [bɛkəˈraɪ̯]: **bæckerĩ** = **baeckerij**
 
 Đė umshrĩvungen "ph" und "th" werđen night thurk "ᵽ" und "ŧ" ersetted, õk đan night, wen si tǒ'r ferfygung steen.
 
-* **pepher** = **peᵽer** [ˈpfɛfɐ] *Pfeffer*
-* **wather** = **waŧer** [ˈvasɐ] *Wasser*
+* *Pfeffer* [ˈpfɛfɐ]: **pepher** = **peᵽer**
+* *Wasser* [ˈvasɐ]: **wather** = **waŧer**
 
 Evensowenig wėrđ "ꝁ" ođer "ƀ" fø̌r ẽn geriveneth "k" btw. "b" geshriven. In'm gegendẽl: in anlenung an anđere germanishe sprāken wėrđ nāgh selvstlũd "v" geshriven, õk wen "b" gesproken wėrđ.
 
-* **maken** = **maꝁen** [ˈmaxn̩] *machen*
-* **shrift** = **shriƀt** [ʃrɪft] *Schrift*
-* **shrĩven** = **shrĩben** [ˈʃraibn̩] *schreiben*
+* *machen* [ˈmaxn̩]: **maken** = **maꝁen**
+* *Schrift* [ʃrɪft]: **shrift** = **shriƀt**
+* *schreiben* [ˈʃraɪ̯bn̩]: **shrĩven** = **shrĩben**
 
 # Selvstlũde
 
@@ -26,70 +26,70 @@ Evensowenig wėrđ "ꝁ" ođer "ƀ" fø̌r ẽn geriveneth "k" btw. "b" geshrive
 
 Ẽn selvstlũd an'm stammenđe ist lang (unđ geslothen).
 
-* **đa** [da:] *da*
-* **so** [zo:] *so*
+* *da* [da:]: **đa**
+* *so* [zo:]: **so**
 
 Er ist õk đan lang, wen an'm stammenđe ẽn ẽñselener midlũd steed (miđ ođer one denungs-h).
 
-* **son** [zo:n] *Sohn*
-* **hyde** [ˈhy:tə] *Hüte*
+* *Sohn* [zo:n]: **son**
+* *Hüte* [ˈhy:tə]: **hyde**
 
 Enđed đer stamm ũph mer als ẽnen midlũd, so ist đer selvstlũd kurt (unđ geøphened).
 
-* **sonne** [ˈzɔnə] *Sonne*
-* **hydde** [ˈhʏtə] *Hütte*
+* *Sonne* [ˈzɔnə]: **sonne**
+* *Hütte* [ˈhʏtə]: **hydde**
 
 Ũthnamen werđen mid længenstrik ø̌ver dem selvstlũd geshriven.
 
-* **slaph** [ʃlaf] *schlaff*
-  * **slāph** [ʃla:f] *Schlaf*
-* **methen** [ˈmɛsn̩] *messen*
-  * **māthe** [ˈmasə] *Maße*
+* *schlaff* [ʃlaf]: **slaph**
+  * *Schlaf* [ʃla:f]: **slāph**
+* *messen* [ˈmɛsn̩]: **methen**
+  * *Maße* [ˈmasə]: **māthe**
 
 Ẽn twilũd gėlded immer als lang.
 
-* **fũst** [faust] *Faust*
+* *Faust* [faʊ̯st]: **fũst**
 
 Enđed ẽn stamm mit twilũd ũph ẽn "r", ũph welketh kẽn selvstlũd folged, so wėrđ twishen twilũd unđ "r" ẽn swunđ-"e" gesproken.
 
-* **fỹr** = **fỹĕr** [ˈfɔyɐ] *Feuer*
-  * **fỹrig** [ˈfɔyrɪç] *feurig*
+* *Feuer* [ˈfɔyɐ]: **fỹr** = **fỹĕr**
+  * *feurig* [ˈfɔyrɪç]: **fỹrig**
 
 Eth werđen ni đrĩ gĕlĩke midlũde hinderẽnanđer geshriven.
 
-* **middwok** [ˈmɪtvɔx] *Mittwoch*
-* **middag** = **midd-dag** [ˈmɪta:k] *Mittag*
-* **fø̌llinie** = **fø̌ll-linie** [ˈfʏlli:ni̯ə] *Fülllinie*
-* **beddǒk** = **bedd-dǒk** [ˈbɛttu:x] *Betttuch*
+* *Mittwoch* [ˈmɪtvɔx]: **middwok**
+* *Mittag* [ˈmɪta:k]: **middag** = **midd-dag**
+* *Fülllinie* [ˈfʏlli:ni̯ə]: **fø̌llinie** = **fø̌ll-linie**
+* *Betttuch* [ˈbɛttu:x]: **beddǒk** = **bedd-dǒk**
 
 Ferhældniswørder, fø̌rwørder unđ enđungen haven oft ẽnen kurten selvstlũd. Si werđen jeđogh allẽnsteenđ ni mid dobbeledem midlũd geshriven.
 
-* **ik** [ɪç] *ich*
-* **in** [ɪn] *in*
-  * **innen** [ˈɪnən] *innen*
-* **frỹnđin** [ˈfrɔyndɪn] *Freundin*
-  * **frỹnđinnen** [ˈfrɔyndɪnən] *Freundinnen*
+* *ich* [ɪç]: **ik**
+* *in* [ɪn]: **in**
+  * *innen* [ˈɪnən]: **innen**
+* *Freundin* [ˈfrɔyndɪn]: **frỹnđin**
+  * *Freundinnen* [ˈfrɔyndɪnən]: **frỹnđinnen**
 
 Nagh ferhældnisword kønnen "đem" unđ "đer" ferkyrted und fersmolten werđen. "n'm" wėrđ đan "m" ũthgesproken.
 
-* **an đem** → **an'm** = **am** [am] *am*
-* **fon đem** → **fon'm** = **fom** [fɔm] *vom*
-* **in đem** → **in'm** = **im** [ɪm] *im*
-* **tǒ đem** → **tǒ'm** = **tǒm** [tsʊm] *zum*
-* **tǒ đer** → **tǒ'r** = **tǒr** [tsu:ɐ̯, tsʊr] *zur*
+* *am* [am]: **an đem** → **an'm** = **am**
+* *vom* [fɔm]: **fon đem** → **fon'm** = **fom**
+* *im* [ɪm]: **in đem** → **in'm** = **im**
+* *zum* [tsʊm]: **tǒ đem** → **tǒ'm** = **tǒm**
+* *zur* [tsu:ɐ̯, tsʊr]: **tǒ đer** → **tǒ'r** = **tǒr**
   
 Tǒ'r undershĩđung kann ẽn ø̌vertẽken ferwenđed werđen, welketh đė længe ođer kyrte đes selvstlũdes angėved.
 
-* **đēn** [de:n] *den* ≠ **đen** [dɛn] *denn*
-  * **đem** [de:m] *dem*
-* **īn** [i:n] *ihn* ≠ **in** [ɪn] *in*
-  * **im** [i:m] ≠ **in'm** [ɪm]
-  * **inen** [ˈi:nən] *ihnen* ≠ **innen** [ˈɪnən] *innen*
+* *den* [de:n]: **đēn** ≠ *denn* [dɛn]: **đen**
+  * *dem* [de:m]: **đem**
+* *ihn* [i:n]: **īn** ≠ *in* [ɪn]: **in**
+  * *ihm* [i:m]: **im** ≠ *im* [ɪm]: **in'm**
+  * *ihnen* [ˈi:nən]: **inen** ≠ *innen* [ˈɪnən]: **innen**
 
 Đė tĩdwørder "bin" unđ "had" haven ẽnen kurten selvstlũd, werđen aver nur mit ẽnfakem stammũthlũd geshriven.
 
-* **ik bin** [ɪç bɪn] *ich bin*
-* **er had** [e:ɐ̯ hat] *er hat*
+* *ich bin* [ɪç bɪn]: **ik bin**
+* *er hat* [e:ɐ̯ hat]: **er had**
 
 ### Swunđ
 
@@ -97,45 +97,45 @@ In for- und naghsilven sowi in enđungen kønnen swunđlũde ũthfallen.
 
 * *deutsch* [ˈdɔytʃ]: **thỹdĭsh** = **thỹd'sh** = **thỹdsh**
 * *Mensch* [mɛnʃ]: **mænnĭsh** = **mænn'sh** = **mensh**
-* *gleich* [ˈglaiç]: **gĕlĩk** = **g'lĩk** = **glĩk**
-* *glauben* [ˈglaubn̩]: **gĕlõven** = **g'lõven** = **glõven**
+* *gleich* [ˈglaɪ̯ç]: **gĕlĩk** = **g'lĩk** = **glĩk**
+* *glauben* [ˈglaʊ̯bn̩]: **gĕlõven** = **g'lõven** = **glõven**
 * *fressen* [ˈfrɛsn̩]: **fĕrethen** = **f'rethen** = **frethen**
 * *trennen* [ˈtrɛnən]: **tĕrrennen** = **t'rrennen** = **trennen**
 
 Der swunđlũd "e" fon enđungen fælled nagh møglikħẽd ũth.
 
-* **gegen** [gegen]
-  * **gegener** = **gegĕner** = **geg'ner** = **gegner** [Gegner]
-* **sagen** [sagen]
-  * **đu sagest** = **đu sagĕst** = **đu sag'st** = **đu sagst** [du sagst]
-* **shøn** [schön]
-  * **shønest** = **shønĕst** = **shøn'st** = **shønst** [schönst]
-* **jettig** [jetzig]
-  * **jetted** = **jettĕd** = **jett'd** = **jettd** [jetzt]
+* *gegen* [ˈge:gn̩]: **gegen**
+  * *Gegner* [ˈge:gnɐ]: **gegener** = **gegĕner** = **geg'ner** = **gegner**
+* *sagen* [ˈza:gn̩]: **sagen**
+  * *du sagst* [du: za:kst]: **đu sagest** = **đu sagĕst** = **đu sag'st** = **đu sagst**
+* *schön* [ʃø:n]: **shøn**
+  * *schönst* [ʃø:nst]: **shønest** = **shønĕst** = **shøn'st** = **shønst**
+* *jetzt* [ˈjɛtsɪç]: **jettig**
+  * *jetzt* [jɛtst]: **jetted** = **jettĕd** = **jett'd** = **jettd**
   
 ## Twilũdung
 
 ### ĩ, ẽ
 *(ij, ej)*
 
-* **mĩn** [mein]
-* **hẽm** [Heim]
-* **ẽns** [eins]
+* *mein* [maɪ̯n]: **mĩn**
+* *Heim* [haɪ̯m]: **hẽm**
+* *eins* [aɪ̯ns]: **ẽns**
 
 ...
 
-* **tĩd** [Zeit]
+* *Zeit* [tsaɪ̯t]: **tĩd**
 
 ### ũ, õ
 *(uw, ow)*
 
-* **frũ** [Frau]
-* **drõm** [Traum]
+* *Frau* [fraʊ̯]: **frũ**
+* *Traum* [traʊ̯m]: **drõm**
 
 ...
 
-* **mũs** [Maus]
-* **tũn** [Zaun]
+* *Maus* [maʊ̯s]: **mũs**
+* *Zaun* [tsaʊ̯n] **tũn**
 
 
 ## Umlũdung
