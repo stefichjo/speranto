@@ -143,42 +143,42 @@ Der swunđlũd "e" fon enđungen fælled nagh møglikħẽd ũth.
 ### æ
 *(ae)*
 
-* **mann** [Mann]
-* **mænner** [Männer]
+* *Mann* [man]: **mann**
+  * *Männer* [ˈmɛnɐ]: **mænner**
 
 ### ø, ø̃
 *(oe, oej)*
 
-* **krone** [Krone]
-* **krønung** [Krönung]
+* *Krone* [ˈkro:nə]: **krone**
+  * *Krönung* [ˈkrø:nʊŋ]: **krønung**
 
 ...
 
-* **bõm** [Baum]
-* **bø̃me** [Bäume]
+* *Baum* [baʊ̯m]: **bõm**
+  * *Bäume* [ˈbɔʏ̯mə]: **bø̃me**
 
 ...
 
-* **fro** [froh]
-  * **frø̃en** [freuen]
+* *froh* [fro:]: **fro**
+  * *freuen* [ˈfrɔʏ̯ən]: **frø̃en**
 
 ### y, ỹ
 *(ue, uej)*
 
-* **kuss** [Kuss]
-* **kysse** [Küsse]
+* *Kuss* [kʊs]: **kuss**
+  * *Küsse* [ˈkʏsə]: **kysse**
 
 ...
 
-* **hũs** [Haus]
-* **hỹser** [Häuser]
+* *Haus* [haʊ̯s]: **hũs**
+* *Häuser* [ˈhɔʏ̯zɐ]: **hỹser**
 
 ...
 
-* **nỹ** [neu]
-* **hỹde** [heute]
-* **lỹde** [Leute]
-* **tỹg** [Zeug]
+* *neu* [nɔʏ̯]: **nỹ**
+* *heute* [ˈhɔʏ̯tə]: **hỹde**
+* *Leute* [ˈlɔʏ̯tə]: **lỹde**
+* *Zeug* [tsɔʏ̯k]: **tỹg**
 * **dỹr** [teuer]
 * **frỹnđ** [Freund]
 
