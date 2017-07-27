@@ -179,8 +179,8 @@ Der swunđlũd "e" fon enđungen fælled nagh møglikħẽd ũth.
 * *heute* [ˈhɔʏ̯tə]: **hỹde**
 * *Leute* [ˈlɔʏ̯tə]: **lỹde**
 * *Zeug* [tsɔʏ̯k]: **tỹg**
-* **dỹr** [teuer]
-* **frỹnđ** [Freund]
+* *teuer* [ˈtɔʏ̯ɐ]: **dỹr**
+* *Freund* [frɔʏ̯nt]: **frỹnđ**
 
 ## Øphenung unđ Slithung
 
