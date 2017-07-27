@@ -5,7 +5,7 @@ Eth empfiled sigh, tǒsammensettungen fon tǒsammensettungen mid hėlphe fon bin
 * **fartỹg-ryggave** = **fartỹgryggave** [ˈfa:rtsɔykrʏkga:bə] *Fahrzeugrückgabe*
 * **process-shridd** = **processshridd** [proˈtsɛsʃrɪt] *Prozessschritt*
 
-Wen kẽne sonđertẽken tǒ'r ferfygung steen, kønnen si thurk bestimmede bǒkstavenferbinđungen umshriven werđen.
+Wen kẽne sonđertẽken tǒ'r ferfygung steen, kønnen si thurk bestimmede bǒkstaven-ferbinđungen umshriven werđen.
 
 * **bæckerĩ** = **baeckerij** [bɛkəˈrai] *Bäckerei*
 
@@ -29,7 +29,7 @@ Evensowenig wėrđ "ꝁ" ođer "ƀ" fø̌r ẽn geriveneth "k" btw. "b" geshrive
 * **đa** [da:] *da*
 * **so** [zo:] *so*
 
-Er ist õk đan lang, wen an'm stammenđe ẽn ẽnselner midlũd steed (miđ ođer one denungs-h).
+Er ist õk đan lang, wen an'm stammenđe ẽn ẽñselener midlũd steed (miđ ođer one denungs-h).
 
 * **son** [zo:n] *Sohn*
 * **hyde** [ˈhy:tə] *Hüte*
@@ -120,6 +120,7 @@ Der swunđlũd "e" fon enđungen fælled nagh møglikħẽd ũth.
 
 * **mĩn** [mein]
 * **hẽm** [Heim]
+* **ẽns** [eins]
 
 ...
 
@@ -208,24 +209,24 @@ Der swunđlũd "e" fon enđungen fælled nagh møglikħẽd ũth.
 ### ů
 *(o)*
 
-* **wůlf** = **wolf** [Wolf]
-* **wẙlfe** = **wølfe** [Wölfe]
-* **sůmmer** = **sommer** [Sommer]
+* **wůlf** [Wolf]
+* **wẙlfe** [Wölfe]
+* **sůmmer** [Sommer]
 
 ### ẏ
 *(i)*
 
-* **lẏght** = **light** [Licht]
+* **lẏght** [Licht]
   * **lỹghten** [leuchten]
-* **krẏstall** = **kristall** [Kristall]
-* **fẏr** = **fir** [vier]
+* **krẏstall** [Kristall]
+* **fẏr** [vier]
 
 ### ė
 *(i)*
 
-* **đė** = **đi** [die]
-* **đu gėvest** = **đu givest** [du gibst]
-* **gebėrge** = **gebirge** [Gebirge]
+* **đė** [die]
+* **đu gėvest** [du gibst]
+* **gebėrge** [Gebirge]
 
 # Midlũde
 
@@ -393,13 +394,13 @@ For "k" am stammenđe sinđ nur selvstlũde mid ø̌vertẽken lang.
 
 ### v [b]
 
-* **rave** [Rabe]
-* **haven** [haben]
-* **leven** [leben]
+* **rave** = **rabe** [Rabe]
+* **haven** = **haben** [haben]
+* **leven** = **leben** [leben]
 
 ...
 
-* **rø̃ver** [Räuber]
+* **rø̃ver** = **rø̃ber** [Räuber]
 
 ### th [d]
 
@@ -418,12 +419,12 @@ For "k" am stammenđe sinđ nur selvstlũde mid ø̌vertẽken lang.
 
 ### gh [x]
 
-* **sigh** = **sikh** [sich]
-* **migh** = **mikh** [mich]
-* **đigh** = **đikh** [dich]
-* **nogh** = **nokh** [noch]
-* **đogh** = **đokh** [doch]
-* **nāgh** = **nākh** [nach]
+* **sigh** = **sik** [sich]
+* **migh** = **mik** [mich]
+* **đigh** = **đik** [dich]
+* **nogh** = **nok** [noch]
+* **đogh** = **đok** [doch]
+* **nāgh** = **nāk** [nach]
 
 #### ght [xt]
 
@@ -519,6 +520,7 @@ For "k" am stammenđe sinđ nur selvstlũde mid ø̌vertẽken lang.
 * **weseñlik** [wesentlich]
 * **ferseheñlik** [versehentlich]
 * **nameñlik** [namentlich]
+* **ẽñsig** [einzig]
 
 ## Fremđwørder
 
