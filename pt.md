@@ -1,245 +1,337 @@
 # Português
 
-## l → "ŭ"
+## Voc̆ales
 
-* **animal** [animal]
+### a
 
-### l → "-"
+#### ã
 
-* **animales** [animais]
-* **volo** [voo]
-* **color** [cor]
+* *mais* []: **mãs**
 
-## ct → t
-
-* **victima** [vitima]
-* **exacto** [exato]
-* **tacto** [tato]
-* **acto** [ato]
-* **tracto** [trato]
-* **fructo** [fruto]
-* **tecto** [teto]
-* **architectura** [arquitetura]
-* **nocturno** [noturno]
+#### ä
 
 ...
 
-* **lėct̯o** [lido]
-* **directıōnĕ** [direção]
+* *ei* []: **ä**
 
-### nct → nt
+#### å
 
-* **půncto** [ponto]
-* **juncto** [junto]
+* *fome* []: **fåme**
+* *ouro* []: **åuro**
 
-### ċt → it
+### e
 
-* **perfeċto** [perfeito]
-* **seċta** [seita]
-* **reċtora** [reitora]
-* **leċto** [leito]
-* **oċto** [oito]
-* **noċte** [noite]
+* *criar* []: **crearĕ**
 
-...
+#### -ĕ
 
-* **läċte** [leite]
-
-### c̆t → ut
-
-* **octǒbro** = **oc̆tǒbro** [outubro]
-* **doctorĕ** = **doc̆torĕ** [doutor]
-
-### c̄t → ct
-
-* **fac̄to** [facto]
-* **pac̄to** [pacto]
-* **lac̄tose** [lactose]
-
-## å → o
-
-* **fåme** [fome]
-* **åuro** [ouro]
-
-## e → i
-
-* **crearĕ** [criar]
-
-## ï → e
-
-* **ïlle** [ele]
-* **ïlla** [ela]
-* **vïcĕ** [vez]
-* **ïste** [este]
-
-## o → u
-
-* **meo** [meu]
-
-## ǒ
+* *flor* []: **florĕ**
+* *luz* []: **lucĕ**
+* *paz* []: **pacĕ**
+* *sol* []: **solĕ**
+* *sal* []: **salĕ**
 
 ...
 
-## ů
+* *vez* []: **vïcĕ**
 
-* **gůsto** [gosto]
-* **cům** [com]
-
-## u → -
-
-### qu, gu
-
-* **que** = **qŭe**
-
-### åŭ → o
-
-* **påŭp̆ĕre** [pobre]
-
-
-## Diphtongs
-
-### ã
-
-* **mãs** [mais]
-
-### ẽ
-
-* **sẽ** [sei]
-
-### ĩ
-
-* **sĩx** [seis]
-* **pĩsce** [peixe]
-
-### õ
-
-* **dõs** [dois]
-
-## ı
-
-* **hodĭe** [hoje]
-* **civĭt̯at̯e** [cidade]
-* **filĭo** [filho]
-* **banĭo** [banho]
-* **mulĭeres** [mulheres]
-* **domĭna** [dona]
-* **camisıa** [camisa]
-
-## ł
-
-* **ło** [o]
-* **ła** [a]
-
-### cł
-
-* **cłaves** [chaves]
-
-### łt
-
-* **mułto** [muito]
-* **åłtro** [outro]
-
-### pł
-
-* **płůverĕ** [chover]
-
-## n
-
-### nn
-
-* **anno** [ano]
-
-### n → m: ñ
-
-* **uña** [uma]
-
-### n̆
-
-* **commen̆tıat** [começa]
-* **płẽn̆o** [cheio]
-* **per-son̆as** [pessoas]
-
-### an
-
-* **precisant** [precisam]
-
-### en
-
-* **cent** [cem]
-* **decident** [decidem]
-* **venĕt** [vem]
-* **mensa** [mesa]
-* **mensĕ** [mês]
-
-#### en ?
-
-* **pensat** [pensa]
-
-### ōn
-
-* **prensıōnĕ** [prisão]
-* **portōnĕ** [portão]
-* **nōn** [não]
-* **sōno-** [são]
-* **populatıōnĕ** [população]
-* **millĭōnes** [milhões]
-
-## "Lenizione"
-
-### c̆ → g
-
-* **amic̆o** [amigo]
-* **sec̆undo** [segundo]
+#### ẽ
 
 ...
 
-* **advoc̆at̯o** [advogado]
+* *perfeito* []: **perfẽcto**
+* *seita* []: **sẽcta**
+* *leitora* []: **lẽctora**
+* *leito* []: **lẽcto**
+* *leite* []: **läcte**
 
-### ḓ → -
+### i
 
-* **våḓo** [vou]
-* **vaḓet** [vai]
-* **caḓent** [caem]
-* **juḓicĕ** [juiz]
+#### ĩ
 
-### ğ → -
+* *seis* []: **sĩx**
 
-* **eğo** [eu]
-* **rȇğina** [raina]
+#### ĭ
 
-### l̯ → r
-
-* **bl̯anco** [branco]
-* **pl̯ato** [prato]
-
-#### l̯ → -:
-
-* **vol̯at** [voa]
-
-* **animal̯es** [animais]
-* **sol̯ŏ** [só]
-
-### p̆ → b
+* *dona* []: **domĭna**
 
 ...
 
-* **ap̆rirĕ** [abrir]
-* **důp̆l̯o** [dobro]
-* **Ap̆rilĕ** [Abril]
+* *cidade* []: **civĭt̯at̯e** = **civĭt̯ade**
 
-### q̆ → g
+##### dĭ
 
-* **aq̆ua** [água]
+* *hoje* []: **hodĭe**
+
+##### lĭ
+
+* *filho* []: **filĭo**
+* *mulher* []: **mulĭerĕ**
+
+##### nĭ
+
+* *banho* []: **banĭo**
+
+##### sĭ
 
 ...
 
-* **seq̆uirĕ** [seguir]
+* *beijo* []: **bäsĭo**
 
-### r̆ → l
+##### ı
 
-* **bor̆sa** [bolsa]
+* *camisa* []: **camisıa**
 
-### t̯ → d
 
-* **tot̯o** [todo]
+#### ï
 
+* *pelo* []: **pïlo**
+* *ele* []: **ïlle**
+* *ela* []: **ïlla**
+* *este* []: **ïste**
+
+### o
+
+* *pulso* []: **pulso**
+* *meu* []: **meo**
+
+#### õ
+
+* *dois* []: **dõs**
+
+...
+
+* *oito* []: **õcto**
+* *noite* []: **nõcte**
+
+### u
+
+#### ů
+
+* *gosto* []: **gůsto**
+
+## Conson̆antes
+
+### c
+
+#### ct
+
+* *vitima* []: **victima**
+* *exato* []: **exacto**
+* *tato* []: **tacto**
+* *ato* []: **acto** []
+* *trato* []: **tracto**
+* *fruto* []: **fructo**
+* *teto* []: **tecto**
+* *noturno* []: **nocturno**
+* *junto* []: **juncto**
+
+...
+
+* *arquitetura* []: **architectura**
+* *ponto* []: **půncto**
+
+##### c̄t
+
+* *facto* []: **fac̄to**
+* *pacto* []: **pac̄to**
+* *lactose* []: **lac̄tose**
+
+#### c̆
+
+* *amigo* []: **amic̆o**
+* *segundo* []: **sec̆undo**
+
+##### c̆t
+
+* *outubro* []: **oc̆tǒbro**
+* *doutor* []: **doc̆torĕ**
+
+### d
+
+#### ḓ
+
+* *raio* []: **raḓio**
+
+...
+
+* *juiz* []: **juḓicĕ**
+* *vou* []: **våḓo**
+* *vai* []: **vaḓet**
+* *caem* []: **caḓent**
+
+### g
+
+#### ğ
+
+* *eu* []: **eğo**
+
+...
+
+* *raina* []: **rȇğina**
+
+### l
+
+* *colo* []: **collo**
+* *vela* []: **vela**
+
+#### l̯
+
+* *branco* []: **bl̯anco**
+* *prato* []: **pl̯ato**
+
+#### ł
+
+* *a* []: **ła**
+* *o* []: **ło**
+* *céu* []: **ceło**
+* *doce* []: **dołce**
+* *voo* []: **voło**
+
+...
+
+* *só* []: **sołŏ**
+
+##### cł
+
+* *chave* []: **cłave**
+
+##### pł
+
+...
+
+* *cheio* []: **płẽn̆o**
+* *chover* []: **płůverĕ**
+
+### n
+
+* *ano* []: **anno**
+
+#### -n
+
+* *um* []: **un**
+* *em* []: **en**
+* *com* []: **con**
+
+##### -nĕ
+
+* *bem* []: **benĕ**
+* *rim* []: **rėnĕ**
+  * *rins* []: **rėnĕs**
+
+##### -nŏ
+
+* *bom* []: **bonŏ**
+* *som* []: **sonŏ**
+  * *sons* []: **sonŏs**
+* *tom* []: **tonŏ**
+  * *tons* []: **tonŏs**
+
+##### -nt
+
+* *precisam* []: **precisant**
+* *cem* []: **cent**
+
+...
+
+* *tem* []: **tenĕt**
+* *têm* []: **tenĕnt**
+
+#### -n̆-
+
+* *boa* []: **bon̆a**
+* *lua* []: **lun̆a**
+* *coroa* []: **coron̆a**
+* *mesa* []: **men̆sa**
+
+...
+
+* *veia* []: **vẽn̆a**
+* *começo* []: **commen̆tıo**
+* *mês* []: **men̆sĕ**
+  * *mensal* []: **mensalĕ**
+* *seio* []: **sĩn̆o**
+
+#### -ȏn-
+
+* *não* []: **nōn**
+* *portão* []: **portȏnĕ**
+  * *portões* []: **portōn̆es**
+
+...
+
+* *prisão* []: **pren̆sıȏnĕ**
+* *canção* []: **cantıȏnĕ**
+* *população* []: **populatıȏnĕ**
+* *milhões* []: **millĭōn̆es**
+* *direção* []: **directıȏnĕ**
+
+### p
+
+#### p̆
+
+* *aberto* []: **ap̆erto**
+
+...
+
+* *dobro* []: **důp̆l̯o**
+* *Abril* []: **Ap̆rilĕ**
+
+### qu
+
+* *que* []: **que** = **qŭe**
+
+#### q̆u
+
+* *água* []: **aq̆ua**
+
+...
+
+* *seguir* []: **seq̆uirĕ** = **seq̆ŭirĕ**
+
+### r
+
+#### r̆
+
+* *bolsa* []: **bor̆sa**
+
+### s
+
+#### sp-
+
+#### st-
+
+...
+
+* *estação* []: **ŝtatıȏnĕ**
+
+### t
+
+#### t̯
+
+* *mudar* []: **mut̯arĕ**
+* *todo* []: **tot̯o**
+
+...
+
+* *advogado* []: **advoc̆at̯o**
+* *universidade* []: **universit̯at̯e** = **universit̯ade**
+* *lido* []: **lėct̯o**
+
+
+### x
+
+* *luxo* []: **luxo**
+* *tóxico* []: **toxico**
+
+# @
+
+* *pessoa* []: **person̆a**
+* *uma* []: **uña**
+* *cor* []: **colorĕ**
+* *tal* []: **talĕ**
+* *tais* []: **talĕs**
+* *peixe* []: **pĩsce**
+* *pobre* []: **påŭp̆ĕre**
+* *muito* []: **mułto**/**mũłto**
+* *outro* []: **åłtro**

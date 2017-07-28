@@ -116,7 +116,7 @@ Der swunđlũd "e" fon enđungen fælled nagh møglikħẽd ũth.
 ## Twilũdung
 
 ### ĩ, ẽ
-*(ij, ej)*
+*(ij = ÿ, ej)*
 
 * *mein* [maɪ̯n]: **mĩn**
 * *Heim* [haɪ̯m]: **hẽm**
