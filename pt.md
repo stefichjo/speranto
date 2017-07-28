@@ -45,6 +45,10 @@
 * *leito* []: **lẽcto**
 * *leite* []: **läcte**
 
+#### e̊
+
+* *por* []: **pe̊r**
+
 ### i
 
 #### ĩ
@@ -180,6 +184,10 @@
 * *branco* []: **bl̯anco**
 * *prato* []: **pl̯ato**
 
+...
+
+* *pelo* []: **per̆ ło**
+
 #### ł
 
 * *a* []: **ła**
@@ -299,6 +307,10 @@
 
 #### sp-
 
+...
+
+* *espaço* []: **ŝpatıo**
+
 #### st-
 
 ...
@@ -327,7 +339,7 @@
 # @
 
 * *pessoa* []: **person̆a**
-* *uma* []: **uña**
+* *uma* []: **una**
 * *cor* []: **colorĕ**
 * *tal* []: **talĕ**
 * *tais* []: **talĕs**
@@ -335,3 +347,6 @@
 * *pobre* []: **påŭp̆ĕre**
 * *muito* []: **mułto**
 * *outro* []: **åłtro**
+* *vinho* []: **viño**
+
+* ḷ
