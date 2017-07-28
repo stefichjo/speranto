@@ -119,7 +119,7 @@
 * *vitima* []: **victima**
 * *exato* []: **exacto**
 * *tato* []: **tacto**
-* *ato* []: **acto** []
+* *ato* []: **acto**
 * *trato* []: **tracto**
 * *fruto* []: **fructo**
 * *teto* []: **tecto**
@@ -210,7 +210,7 @@
 #### -n
 
 * *um* []: **un**
-* *em* []: **en**
+* *em* []: **ïn**
 * *com* []: **con**
 
 ##### -nĕ
@@ -333,5 +333,5 @@
 * *tais* []: **talĕs**
 * *peixe* []: **pĩsce**
 * *pobre* []: **påŭp̆ĕre**
-* *muito* []: **mułto**/**mũłto**
+* *muito* []: **mułto**
 * *outro* []: **åłtro**
