@@ -14,10 +14,23 @@
 
 * *ei* []: **ä**
 
+#### ȃ
+
+##### -ȃn-
+
+* *mão* []: **mȃnŏ**
+* *cão* []: **cȃnĕ**
+
 #### å
 
 * *fome* []: **fåme**
 * *ouro* []: **åuro**
+
+#### ǎ
+
+...
+
+* *outro* []: **ǎłtro**
 
 ### e
 
@@ -44,6 +57,10 @@
 * *leitora* []: **lẽctora**
 * *leito* []: **lẽcto**
 * *leite* []: **läcte**
+
+#### ȇ
+
+* *raina* []: **rȇğina**
 
 #### e̊
 
@@ -97,7 +114,20 @@
 ### o
 
 * *pulso* []: **pulso**
+* *mundo* []: **mundo**
+
+...
+
 * *meu* []: **meo**
+
+#### ǒ
+
+* *tesouro* []: **tesǒro**
+
+...
+
+* *outubro* []: **ǒctǒbro**@
+* *doutor* []: **dǒctorĕ**
 
 #### õ
 
@@ -113,6 +143,7 @@
 #### ů
 
 * *gosto* []: **gůsto**
+* *torre* []: **tůrre**
 
 ## Conson̆antes
 
@@ -146,11 +177,6 @@
 * *amigo* []: **amic̆o**
 * *segundo* []: **sec̆undo**
 
-##### c̆t
-
-* *outubro* []: **oc̆tǒbro**
-* *doutor* []: **doc̆torĕ**
-
 ### d
 
 #### ḓ
@@ -169,10 +195,6 @@
 #### ğ
 
 * *eu* []: **eğo**
-
-...
-
-* *raina* []: **rȇğina**
 
 ### l
 
@@ -199,6 +221,9 @@
 ...
 
 * *só* []: **sołŏ**
+* *tal* []: **talĕ**
+  * *tais* []: **tałes**
+* *cor* []: **cołŏrĕ**
 
 ##### cł
 
@@ -262,9 +287,9 @@
 
 #### -ȏn-
 
-* *não* []: **nōn**
+* *não* []: **nȏn**
 * *portão* []: **portȏnĕ**
-  * *portões* []: **portōn̆es**
+  * *portões* []: **portōn̆es**@
 
 ...
 
@@ -284,6 +309,7 @@
 
 * *dobro* []: **důp̆l̯o**
 * *Abril* []: **Ap̆rilĕ**
+* *pobre* []: **påŭp̆ĕre**
 
 ### qu
 
@@ -304,6 +330,10 @@
 * *bolsa* []: **bor̆sa**
 
 ### s
+
+#### sc
+
+* *peixe* []: **pĩsce**
 
 #### sp-
 
@@ -330,23 +360,24 @@
 * *universidade* []: **universit̯at̯e** = **universit̯ade**
 * *lido* []: **lėct̯o**
 
-
 ### x
 
 * *luxo* []: **luxo**
 * *tóxico* []: **toxico**
+* *máximo* []: **maximo**
 
 # @
 
-* *pessoa* []: **person̆a**
-* *uma* []: **una**
-* *cor* []: **colorĕ**
-* *tal* []: **talĕ**
-* *tais* []: **talĕs**
-* *peixe* []: **pĩsce**
-* *pobre* []: **påŭp̆ĕre**
-* *muito* []: **mułto**
-* *outro* []: **åłtro**
-* *vinho* []: **viño**
+## l
 
-* ḷ
+* *muito* []: **muḷto**
+
+## n
+
+* *vinho* []: **viño**
+* *uma* []: **una**
+
+## r
+
+* *pessoa* []: **person̆a**
+
