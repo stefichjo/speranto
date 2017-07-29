@@ -14,12 +14,12 @@
 
 * *ei* []: **ä**
 
-#### ȃ
+#### â
 
-##### -ȃn-
+##### -ân-
 
-* *mão* []: **mȃnŏ**
-* *cão* []: **cȃnĕ**
+* *mão* []: **mânŏ**
+* *cão* []: **cânĕ**
 
 #### å
 
@@ -122,12 +122,17 @@
 
 #### ǒ
 
-* *tesouro* []: **tesǒro**
+...
+
+* *outubro* []: **ôctǒbro**
+
+#### ô
+
+* *tesouro* []: **tesôro**
 
 ...
 
-* *outubro* []: **ǒctǒbro**@
-* *doutor* []: **dǒctorĕ**
+* *doutor* []: **dôctorĕ**
 
 #### õ
 
@@ -176,6 +181,11 @@
 
 * *amigo* []: **amic̆o**
 * *segundo* []: **sec̆undo**
+* *fogo* []: **foc̆o**
+
+...
+
+* *lugar* [] **lǒgal̯**
 
 ### d
 
@@ -205,10 +215,6 @@
 
 * *branco* []: **bl̯anco**
 * *prato* []: **pl̯ato**
-
-...
-
-* *pelo* []: **per̆ ło**
 
 #### ł
 
@@ -285,19 +291,19 @@
   * *mensal* []: **mensalĕ**
 * *seio* []: **sĩn̆o**
 
-#### -ȏn-
+#### -ôn-
 
-* *não* []: **nȏn**
-* *portão* []: **portȏnĕ**
-  * *portões* []: **portōn̆es**@
+* *não* []: **nôn**
+* *portão* []: **portônĕ**
+  * *portões* []: **portôn̆es**
 
 ...
 
-* *prisão* []: **pren̆sıȏnĕ**
-* *canção* []: **cantıȏnĕ**
-* *população* []: **populatıȏnĕ**
-* *milhões* []: **millĭōn̆es**
-* *direção* []: **directıȏnĕ**
+* *prisão* []: **pren̆sıônĕ**
+* *canção* []: **cantıônĕ**
+* *população* []: **populatıônĕ**
+* *milhões* []: **millĭôn̆es**
+* *direção* []: **directıônĕ**
 
 ### p
 
@@ -329,6 +335,10 @@
 
 * *bolsa* []: **bor̆sa**
 
+...
+
+* *pelo* []: **per̆ ło**
+
 ### s
 
 #### sc
@@ -345,7 +355,7 @@
 
 ...
 
-* *estação* []: **ŝtatıȏnĕ**
+* *estação* []: **ŝtatıônĕ**
 
 ### t
 
