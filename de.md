@@ -234,20 +234,20 @@ Der swunđlũd "e" fon enđungen fælled nagh møglikħẽd ũth.
 
 ### b [p]
 
-* **ribbe** [Rippe]
+* *Rippe* [ˈrɪpə]: **ribbe**
 
 #### b [b]
 
-* **rave** [Rabe]
-* **shrĩven** [scheiben]
+* *Rabe* [ˈra:bə]: **rave**
+* *schreiben* [ˈʃraɪ̯bən]: **shrĩven**
 
 ### p [pf]
 
-* **appel** [Apfel]
-* **kupper** [Kupfer]
-* **kopp** [Kopf]
-* **stoppen** [stopfen]
-* **kamp** [Kampf]
+* *Apfel* [ˈapfəl]: **appel**
+*  *Kupfer* [ˈkʊpfɐ]: **kupper**
+* *Kopf* [kɔpf]: **kopp**
+* *stopfen* [ˈʃtɔpfən]: **stoppen**
+* *Kampf* [kampf]: **kamp**
 
 ...
 
