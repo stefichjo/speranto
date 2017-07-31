@@ -16,6 +16,7 @@
 * **whar** [where]
 * **war** [ware]
 * **war** [wear]
+* **tar** [tear]
 
 ...
 
@@ -36,6 +37,7 @@
 * **mann** [man]
 * **mænn** [men]
 * **bǣrd** [beard]
+* **tǣr** [tear]
 * **wær** = **wærr** [were]
 * **ræd** [read]
   * **rædd** [read]
@@ -99,8 +101,8 @@
 
 #### er
 
-* **berri** = **bërri** [berry]
-* **err** = **** [err]
+* **berri** [berry]
+* **err** = **err** [err]
 * **erđ** [earth]
 * **perl** [pearl]
 
@@ -216,6 +218,7 @@
 * **fyrst** [first]
 * **thyrstig** [thirsty]
 * **byrthdag** [birthday]
+* **styrr** [stir]
 
 ##### ỹ
 

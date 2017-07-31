@@ -101,6 +101,7 @@ In for- und naghsilven sowi in enđungen kønnen swunđlũde ũthfallen.
 * *glauben* [ˈglaʊ̯bn̩]: **gĕlõven** = **g'lõven** = **glõven**
 * *fressen* [ˈfrɛsn̩]: **fĕrethen** = **f'rethen** = **frethen**
 * *trennen* [ˈtrɛnən]: **tĕrrennen** = **t'rrennen** = **trennen**
+* *Seele* [ˈze:lə]: **seele** = **se'le** = **sele**
 
 Der swunđlũd "e" fon enđungen fælled nagh møglikħẽd ũth.
 
@@ -113,32 +114,50 @@ Der swunđlũd "e" fon enđungen fælled nagh møglikħẽd ũth.
 * *jetzt* [ˈjɛtsɪç]: **jettig**
   * *jetzt* [jɛtst]: **jetted** = **jettĕd** = **jett'd** = **jettd**
   
-## Twilũdung
+## Twilũde
 
 ### ĩ, ẽ
 *(ij = ÿ, ej)*
 
+Đath urgermanishe lange "ī" wurđe tǒ'm twilũd [aɪ̯] **ĩ**.
+
 * *mein* [maɪ̯n]: **mĩn**
-* *Heim* [haɪ̯m]: **hẽm**
-* *eins* [aɪ̯ns]: **ẽns**
-
-...
-
 * *Zeit* [tsaɪ̯t]: **tĩd**
+
+Đer urgermanishe twilũd "ai" [aɪ̯] bĕliv erhalden ođer wėrđ tǒ'm ẽnlũd [e:] **e**.
+
+* *Heim* [haɪ̯m]: **hẽm**
+* *lehnen* [ˈle:nən]: **lenen**
 
 ### ũ, õ
 *(uw, ow)*
 
+Đath urgermanishe lange "ū" wurđe tǒ'm twilũd [aʊ̯] **ũ**.
+
 * *Frau* [fraʊ̯]: **frũ**
-* *Traum* [traʊ̯m]: **drõm**
-
-...
-
 * *Maus* [maʊ̯s]: **mũs**
-* *Zaun* [tsaʊ̯n] **tũn**
+* *Zaun* [tsaʊ̯n]: **tũn**
 
+Đer urgermanishe twilũd "au" [aʊ̯] bĕliv erhalden ođer wėrđ tǒ'm ẽnlũd [o:] **o**.
 
-## Umlũdung
+* *Traum* [traʊ̯m]: **drõm**
+* *rot* [ro:t]: **rod**
+
+### ỹ
+*(uej)*
+
+Đath urgermanische lange "ȳ" wurđe tǒ'm twilũd [ɔʏ̯] **ỹ**.
+
+* *neu* [nɔʏ̯]: **nỹ**
+* *heute* [ˈhɔʏ̯tə]: **hỹde**
+* *Leute* [ˈlɔʏ̯tə]: **lỹde**
+* *Zeug* [tsɔʏ̯k]: **tỹg**
+* *teuer* [ˈtɔʏ̯ɐ]: **dỹr**
+* *Freund* [frɔʏ̯nt]: **frỹnđ**
+
+## Umlũde
+
+File avlĩdungen haven umlũde.
 
 ### æ
 *(ae)*
@@ -150,15 +169,12 @@ Der swunđlũd "e" fon enđungen fælled nagh møglikħẽd ũth.
 *(oe, oej)*
 
 * *Krone* [ˈkro:nə]: **krone**
-  * *Krönung* [ˈkrø:nʊŋ]: **krønung**
+  * *krönen* [ˈkrø:nən]: **krønen**
 
-...
+Õk đer urgermanishe Twilũd "au" [aʊ̯] kann umgelũded wērđen.
 
 * *Baum* [baʊ̯m]: **bõm**
   * *Bäume* [ˈbɔʏ̯mə]: **bø̃me**
-
-...
-
 * *froh* [fro:]: **fro**
   * *freuen* [ˈfrɔʏ̯ən]: **frø̃en**
 
@@ -168,64 +184,59 @@ Der swunđlũd "e" fon enđungen fælled nagh møglikħẽd ũth.
 * *Kuss* [kʊs]: **kuss**
   * *Küsse* [ˈkʏsə]: **kysse**
 
-...
+Õk đath twigelũdede urgermanishe lange "ū" ([aʊ̯] **ũ**) kann umgelũded wērđen.
 
 * *Haus* [haʊ̯s]: **hũs**
-* *Häuser* [ˈhɔʏ̯zɐ]: **hỹser**
-
-...
-
-* *neu* [nɔʏ̯]: **nỹ**
-* *heute* [ˈhɔʏ̯tə]: **hỹde**
-* *Leute* [ˈlɔʏ̯tə]: **lỹde**
-* *Zeug* [tsɔʏ̯k]: **tỹg**
-* *teuer* [ˈtɔʏ̯ɐ]: **dỹr**
-* *Freund* [frɔʏ̯nt]: **frỹnđ**
+  * *Häuser* [ˈhɔʏ̯zɐ]: **hỹser**
 
 ## Øphenung unđ Slithung
 
 ### ǒ, ø̌
 *(oo, ooe)*
 
+Urgermanishe lange "ō" [o:] unđ "-ø" [ø:] wērđen oft tǒ [u:] **ǒ** btw. [y:] **ø̌** geøphened.
+
+* *fühlen* [ˈfy:lən] **fø̌len**
 * *Buch* [bu:x]: **bǒk**
   * *Bücher* [ˈby:çɐ]: **bø̌ker**
-* *fühlen* [ˈfy:lən] **fø̌len**
-
-...
-
+* *Kunst* [kʊnst]: **kǒnst**
+  * *künstlich* [ˈkʏnstlɪç]: **kø̌nstlik**
 * *Tor* [to:ɐ̯]: **dor**
   * *Tür* [ty:ɐ̯]: **dø̌r**
 * *ob* [ɔp]: **ov**
   * *über* [ˈy:bɐ]: **ø̌ver**
 * *voll* [fɔl]: **foll**
   * *füllen* [ˈfʏlən]: **fø̌llen**
-  
-...
-
-* *können* [ˈkœnən]: **kønnen**
-  * *Kunst* [kʊnst]: **kǒnst**
-    * *künstlich* [ˈkʏnstlɪç]: **kø̌nstlik**
+* *vor* [fo:r]: **for**
+  * *für* [fy:r]: **fø̌r**
 
 ### ů
 *(o)*
 
+Urgermanishe kurte "u" [ʊ] und "y" [ʏ] wērđen oft tǒ [ɔ] **ů** btw. [œ] **ẙ** geslothen.
+
+* *Sommer* [ˈzɔmɐ]: **sůmmer**
 * *Wolf* [vɔlf]: **wůlf**
   * *Wölfe* [ˈvœlfə]: **wẙlfe**
-* *Sommer* [ˈzɔmɐ]: **sůmmer**
 
 ### ẏ
 *(i)*
 
+Urgermanischeth "y" [ʏ]/[y:] wėrđ oft tǒ [ɪ]/[i:] **ẏ** geslothen.
+
 * *Licht* [lɪçt]: **lẏght**
-  * *leuchten* [ˈlɔyçtn̩]: **lỹghten**
+  * *leuchten* [ˈlɔʏ̯çtn̩]: **lỹghten**
 * *Kristall* [krɪsˈtal]: **krẏstall**
 * *vier* [fi:ɐ̯]: **fẏr**
 
 ### ė
 *(i)*
 
-*  *die* [di:]: **đė**
-* *du gibst* [du: gɪpst]: **đu gėvest**
+Seldener wėrđ urgermanisheth "e" [ɛ]/[e:] tǒ [ɪ]/[i:] **ė** geslothen.
+
+* *die* [di:]: **đė**
+* *geben* [ˈge:bn̩]: **geven**
+  * *gibt* [gɪpt]: **gėved**
 * *Gebirge* [gəˈbɪrgə]: **gebėrge**
 
 # Midlũde
@@ -244,283 +255,295 @@ Der swunđlũd "e" fon enđungen fælled nagh møglikħẽd ũth.
 ### p [pf]
 
 * *Apfel* [ˈapfəl]: **appel**
-*  *Kupfer* [ˈkʊpfɐ]: **kupper**
+* *Kupfer* [ˈkʊpfɐ]: **kupper**
 * *Kopf* [kɔpf]: **kopp**
 * *stopfen* [ˈʃtɔpfən]: **stoppen**
 * *Kampf* [kampf]: **kamp**
 
 ...
 
-* **pode** [Pfote]
-* **pađ** [Pfad]
-* **perđ** [Pferd]
-* **pĩl** [Pfeil]
-* **plǒg** [Pflug]
-* **topp** [Zopf]
-* **dopp** [Topf]
-* **pǒl** [Pfuhl]
-* **tippel** [Zipfel]
-* **tappen** [Zapfen]
+* *Pfote* [ˈpfo:tə]: **pode**
+* *Pfad* [pfa:t]: **pađ**
+* *Pferd* [ˈpfe:ɐt]: **perđ**
+* *Pfeil* [pfaɪ̯l]: **pĩl**
+* *Pflug* [pflu:k]: **plǒg**
+* *Zopf* [tsɔpf]: **topp**
+* *Topf* [tɔpf]: **dopp**
+* *Pfuhl* [pfu:l]: **pǒl**
+* *Zipfel* [ˈtsɪpfəl]: **tippel**
+* *Zapfen* [ˈtsapfən]: **tappen**
 
 #### p [f]
 
-* **aphe** [Affe]
+* *Affe* [ˈafə]: **aphe**
 
 ...
 
-* **pĩphe** [Pfeife]
-* **pepher** [Pfeffer]
-* **thorph** [Dorf]
+* *Pfeife* [ˈpfaɪ̯fə]: **pĩphe**
+* *Pfeffer* [ˈpfɛfɐ]: **pepher**
+* *Dorf* [dɔrf]: **thorph**
 
 ## t
 
 ### d [t]
 
-* **dag** [Tag]
-* **word** [Wort]
-* **mǒdder** [Mutter]
-* **godd** [Gott]
-* **bard** [Bart]
-* **kald** [kalt]
-* **dal** [Tal]
+* *Tag* [ta:k]: **dag**
+* *Tal* [ta:l]: **dal**
+* *Wort* [vɔrt]: **word**
+* *Gott* [gɔt]: **godd**
+* *hart* [hart]: **hard**
+* *kalt* [kalt]: **kald**
+* *Wirt* [vɪrt]: **wird**
 
 ...
 
-* **gǒd** [gut]
+* *Mutter* [ˈmʊtɐ]: **mǒdder**
+* *gut* [gu:t]: **gǒd**
+* *Bart* [ba:ɐ̯t]: **bārd**
+* *Wert* [ve:ɐ̯t]: **wērd**
+* *werden* [ˈve:ɐ̯dn̩]: **wērđen**
+  * *wird* [vɪrt]: **wėrđ**
+  * *wurde* [ˈvʊrdə]: **wurđe**
+  * *geworden* [gəˈvɔrdn̩]: **geworđen**
 
 ### t [ts]
 
-* **katte** [Katze]
-* **hẽten** [heizen]
-* **tære** [Zähre]
-* **tunge** [Zunge]
-* **hert** [Herz]
-* **tal** [Zahl]
+* *Katze* [ˈkatsə]: **katte**
+* *heizen* [ˈhaɪ̯tsn̩]: **hẽten**
+* *Zähre* [ˈtsɛ:rə]: **tære**
+* *Zunge* [ˈtsʊŋə]: **tunge**
+* *Herz* [hɛrts]: **hert**
+* *Zahl* [tsa:l]: **tal**
 
 ...
 
-* **tũn** [Zaun]
-* **twĩg** [Zweig]
-* **plante** [Pflanze]
+* *Zaun* [tsaun]: **tũn**
+* *Zweig* [tsvaɪ̯k]: **twĩg**
+* *Pflanze* [ˈpflantsə]: **plante**
 
 #### t [s]
 
-* **strāthe** [Straße]
-* **hẽth** [heiß]
-* **hẽthen** [heißen]
-* **grōth** [groß]
+* *Straße* [ˈʃtra:sə]: **strāthe**
+* *heiß* [haɪ̯s]: **hẽth**
+* *heißen* [ˈhaɪ̯sn̩]: **hẽthen**
+* *groß* [gro:s]: **grōth**
 
 #### t [t]
 
-* **luft** [Luft]
-* **lust** [Lust]
-* **maght** [Macht]
-* **waght** [Wacht]
-* **træne** [Träne]
+* *Luft* [lʊft]: **luft**
+* *Lust* [lʊst]: **lust**
+* *Macht* [maxt]: **maght**
+* *Wacht* [vaxt]: **waght**
+* *Träne* [ˈtrɛ:nə]: **træne**
 
 ## k
 
 ### g [k]
 
-* **brygge** = **brycke** [Brücke]
-* **hegge** = **hecke** [Hecke]
-* **ryggen** = **rycken** [Rücken]
-* **twegg** = **tweck** [Zweck]
+* *Brücke* [ˈbrʏkə]: **brygge** = **brycke**
+* *Hecke* [ˈhɛkə]: **hegge** = **hecke**
+* *Rücken* [ˈrʏkn̩]: **ryggen** = **rycken**
+* *Zweck* [tsvɛk]: **twegg** = **tweck**
 
 ### k [x]
 
 Ẽn "k" am stammenđe wird geriven gesproken. Normale selvstlũde werđen kurt ũthgesproken.
 
-* **sake** = **sakhe** [Sache]
-* **maken** = **makhen** [machen]
-* **wak** = **wakh** [wach]
-* **siker** = **sikher** [sicher]
-* **thak** = **thakh** [Dach]
-* **beker** = **bekher** [Becher]
+* *Sache* [ˈzaxə]: **sake** = **sakhe**
+* *machen* [ˈmaxn̩]: **maken** = **makhen**
+* *wach* [vax]: **wak** = **wakh**
+* *sicher* [ˈzɪçɐ]: **siker** = **sikher**
+* *Dach* [dax]: **thak** = **thakh**
+* *Becher* [ˈbɛçɐ]: **beker** = **bekher**
 
 For "k" am stammenđe sinđ nur selvstlũde mid ø̌vertẽken lang.
 
-* **sprāke** = **sprākhe** [Sprache]
-* **sǒken** = **sǒkhen** [suchen]
-* **dũken** = **dũkhen** [tauchen]
-* **õk** = **õkh** [auch]
+* *Sprache* [ˈʃpra:xə]: **sprāke** = **sprākhe**
+* *suchen* [ˈzu:xn̩]: **sǒken** = **sǒkhen**
+* *tauchen* [ˈtaʊ̯xn̩]: **dũken** = **dũkhen**
+* *auch* [aʊ̯x]: **õk** = **õkh**
 
 #### ch [x]
 
 Ẽn gerivenes "k" wėrđ am silvenanfang "ch" geshriven.
 
-* **bithchen** = **bithkhen** [bisschen]
-* **mæğđchen** = **mæğđkhen** [Mädchen]
-* **pläcĕchen** = **pläcĕkhen** [Plätzchen]
+* *bisschen* [ˈbɪsçən]: **bithchen** = **bithkhen**
+* *Mädchen* [ˈbɪsçən]: **mæğđchen** = **mæğđkhen**
+* *Plätzchen* [ˈplɛtsçən]: **pläcĕchen** = **pläcĕkhen**
 
 #### lk, rk
 
-* **kirke** = **kirkhe** [Kirche]
-* **welke** = **welkhe** [welche]
-* **milk** = **milkh** [Milch]
+* *Kirche* [ˈkɪrçə]: **kirke** = **kirkhe**
+* *welche* [ˈvɛlçə]: **welke** = **welkhe**
+* *Milch* [ˈmɪlç]: **milk** = **milkh**
 
 ...
 
-* **wircken** [wirken]
-* **wolcke** [Wolke]
-* **falcke** [Falke]
-* **kalck** [Kalk]
-* **melcken** [melken]
+* *wirken* [ˈvɪrkn̩]: **wircken**
+* *Wolke* [ˈvɔlkə]: **wolcke**
+* *Falke* [ˈfalkə]: **falcke**
+* *Kalk* [kalk]: **kalck**
+* *melken* [ˈmɛlkn̩]: **melcken**
 
 #### ck [k]
 
-* **nacken** [Nacken]
-* **wecken** [wecken]
-* **lecker** [lecker]
-* **socke** [Socke]
-* **flocke** [Flocke]
+* *Nacken* [ˈnakn̩]: **nacken**
+* *wecken* [ˈvɛkn̩]: **wecken**
+* *lecker* [ˈlɛkɐ]: **lecker**
+* *Socke* [ˈzɔkə]: **socke**
+* *Flocke* [ˈflɔkə]: **flocke**
 
 ...
 
-* **metric** [Metrik]
-  * **metricken** [Metriken]
-* **thick** [dick]
-* **đucken** [ducken]
+* *Metrik* [ˈme:trɪk]: **metric**
+  * *Metriken* [ˈme:trɪkn̩]: **metricken**
+* *dick* [dɪk]: **thick**
+* *ducken* [ˈdʊkn̩]: **đucken**
 
 #### nk
 
-* **sinken** [sinken]
+* *sinken* [ˈzɪŋkn̩]: **sinken**
 
 ...
 
-* **thenken** [denken]
-  * **thanke** [Danke]
-* **drinken** [trinken]
+* *denken* [ˈdɛŋkn̩]: **thenken**
+  * *Dank* [daŋk]: **thank**
+* *trinken* [ˈtrɪŋkn̩]: **drinken**
 
 ### v [b]
 
-* **rave** = **rabe** [Rabe]
-* **haven** = **haben** [haben]
-* **leven** = **leben** [leben]
+* *Rabe* [ˈra:bə]: **rave** = **rabe**
+* *haben* [ˈha:bn̩]: **haven** = **haben**
+* *leben* [ˈle:bn̩]: **leven** = **leben**
 
 ...
 
-* **rø̃ver** = **rø̃ber** [Räuber]
+* *Räuber* [ˈrɔʏ̯bɐ]: **rø̃ver** = **rø̃ber**
 
 ### th [d]
 
-* **thing** [Ding]
+* [Ding]: **thing**
 
 ### đ [d]
 
-* **đa** [da]
-* **ērđe** [Erde]
-* **leđer** [Leder]
-* **winđ** [Wind]
+* *da* [da:]: **đa**
+* *Pferd* [pfe:ɐ̯t]: **pērđ**
+* *Erde* [ˈe:ɐ̯də]: **ērđe**
+* *Leder* [ˈle:dɐ]: **leđer**
+* *Wind* [vɪnt]: **winđ**
 
 ...
 
-* **lẽđer** [leider]
+* *leider* [ˈlaɪ̯dɐ]: **lẽđer**
 
 ### gh [x]
 
-* **sigh** = **sik** [sich]
-* **migh** = **mik** [mich]
-* **đigh** = **đik** [dich]
-* **nogh** = **nok** [noch]
-* **đogh** = **đok** [doch]
-* **nāgh** = **nāk** [nach]
+* *sich* [zɪç]: **sigh** = **sik**
+* *mich* [mɪç]: **migh** = **mik**
+* *dich* [dɪç]: **đigh** = **đik**
+* *noch* [nɔx]: **nogh** = **nok**
+* *doch* [dɔx]: **đogh** = **đok**
+* *nach* [na:x]: **nāgh** = **nāk**
 
 #### ght [xt]
 
-* **naght** [Nacht]
-* **night** [nicht]
-* **feghten** [fechten]
+* *Nacht* [naxt]: **naght**
+* *nicht* [nɪçt]: **night**
+* *fechten* [ˈfɛçtn̩]: **feghten**
 
 ...
 
-* **møgen** [mögen]
-  * **maght** [Macht]
-  * **møghte** [möchte]
-* **bethenken** [bedenken]
-  * **bethaght** [Bedacht]
-* **dragen** [tragen]
-  * **draght** [Tracht]
-* **plegen** [pflegen]
-  * **plight** [Pflicht]
-* **ferbringen** [verbringen]
-  * **ferbraght** [verbracht]
+* *mögen* [ˈmø:gn̩]: **møgen**
+  * *Macht* [maxt]: **maght**
+  * *möchte* [ˈmœçtə]: **møghte**
+* *bedenken* [bəˈdɛŋkn̩]: **bethenken**
+  * *Bedacht* [bəˈdaxt]: **bethaght**
+* *tragen* [ˈtra:gn̩]: **dragen**
+  * *Tracht* [traxt]: **draght**
+* *pflegen* [pfle:gn̩]: **plegen**
+  * *Pflicht* [pflɪçt]: **plight**
+* *verbringen* [fɛɐ̯ˈbrɪŋən]: **ferbringen**
+  * *verbracht* [fɛɐ̯ˈbraxt]: **ferbraght**
 
 #### h [-]
 
-* **tihen** = **tien** [ziehen]
-  * **tught** [Zucht]
-  * **tyggen** [zücken]
-* **sehen** = **seen** [sehen]
-  * **sight** [Sicht]
-* **geshehen** = **geshehen** [geschehen]
-  * **geshighte** [Geschichte]
-  * **geshigged** [geschickt]
-* **hogh** = **hok** [hoch]
-  * **høher** = **høer** [höher]
-  * **høghest** = **høghĕst** = **høgh'st** = **høghst** = **høxt** [höchst]
-* **nah** = **na** [nah]
-  * **næher** = **næer** [näher]
-  * **næghest** = **næghĕst** = **nægh'st** = **next** [nächst]
-* **flihen** = **flien** [fliehen]
-  * **flught** [Flucht]
-    * **flyghten** [flüchten]
-* **gethĩhen** = **gethĩen** [gedeihen]
-  * **thight** = [dicht]
+* *ziehen* [ˈtsi:ən]: **tihen** = **tien**
+  * *Zucht* [tsʊxt]: **tught**
+  * *zücken* [ˈtsʏkn̩]: **tyggen**
+* *sehen* [ˈze:ən]: **sehen** = **seen**
+  * *Sicht* [zɪçt]: **sight**
+* *geschehen* [gəˈʃe:ən]: **geshehen** = **geshehen**
+  * *Geschichte* [gəˈʃɪçtə]: **geshighte**
+  * *geschickt* [gəˈʃɪkt]: **geshigged**
+* *hoch* [ho:x]: **hogh** = **hok**
+  * *höher* [ˈhø:ɐ]: **høher** = **høer**
+  * *höchst* [hø:çst]: **høghest** = **høghĕst** = **høgh'st** = **høghst** = **høxt**
+* *nah* [na:]: **nah** = **na**
+  * *näher* [ˈnɛ:ɐ]: **næher** = **næer**
+  * *nächst* [nɛ:çst]: **næghest** = **næghĕst** = **nægh'st** = **next**
+* *fliehen* [ˈfli:ən]: **flihen** = **flien**
+  * *Flucht* [flʊxt]: **flught**
+    * *flüchten* [ˈflʏçtn̩]: **flyghten**
+* *gedeihen* [gəˈdaɪ̯ən]: **gethĩhen** = **gethĩen**
+  * *dicht* [dɪçt]: **thight**
 
 ## f
 
-* **fader** [Vater]
-* **foll** [voll]
-* **fůgel** [Vogel]
+* *Vater* [ˈfa:tɐ]: **fader**
+* *voll* [fɔl]: **foll**
+* *Vogel* [ˈfo:gl̩]: **fůgel**
 
 ## g [x]
 
-* **rightig** = **rightigh** [richtig]
+* *richtig* [ˈrɪçtɪç]: **rightig** = **rightigh**
 
 ## ħ [k]
 
-* **brø̌đerlikħẽd** = **brø̌đerlikkẽd** [Brüderlichkeit]
+* *Brüderlichkeit* [ˈbry:dɐlɪçkaɪ̯t]: **brø̌đerlikħẽd** = **brø̌đerlikkẽd**
 
 ## s [ŝ]
 
-* **sloth** [Schloss]
-* **smal** [schmal]
-* **snũte** [Schnauze]
-* **swĩn** [Schwein]
+* *Schloss* [ʃlɔs]: **sloth**
+* *schmal* [ʃma:l]: **smal**
+* *Schnauze* [ˈʃnaʊ̯tsə]: **snũte**
+* *Schwein* [ʃvaɪ̯n]: **swĩn**
 
 ...
 
-* **sper** [Speer]
-* **stẽn** [Stein]
+* *Speer* [ʃpe:ɐ̯]: **sper**
+* *Stein* [ʃtaɪ̯n]: **stẽn**
 
 ### sh [ŝ]
 
-* **shrank** [Schrank]
-* **falsh** [falsch]
+* *Schrank* [ʃraŋk]: **shrank**
+* *falsch* [falʃ]: **falsh**
 
 ...
 
 
-* **shiph** [Schiff]
-* **fish** [Fisch]
+* *Schiff* [ʃɪf]: **shiph**
+* *Fisch* [fɪʃ]: **fish**
 
 ## x
 
-* **fux** [Fuchs]
-* **wax** [Wachs]
+* *Fuchs* [fuks]: **fux**
+* *Wachs* [vaks]: **wax**
 
 ## ñ [nd]
 
-* **jemañ** [jemand]
+* *jemand* [ˈje:mant]: **jemañ**
 
 ### ñ [nt]
 
-* **ẽgeñlik** [eigentlich]
-* **weseñlik** [wesentlich]
-* **ferseheñlik** [versehentlich]
-* **nameñlik** [namentlich]
-* **ẽñsig** [einzig]
+* *eigentlich* [ˈaɪ̯gn̩tlɪç]: **ẽgeñlik**
+* *wesentlich* [ˈve:zn̩tlɪç]: **weseñlik**
+* *versehentlich* [fɛɐ̯ˈze:əntlɪç]: **ferseheñlik**
+* *namentlich* [ˈna:məntlɪç]: **nameñlik**
+
+...
+
+* *eins* [ˈaɪ̯ns]: **ẽns**
+  * *einzig* [ˈaɪ̯ntsɪç]: **ẽñsig**
 
 ## Fremđwørder
 
@@ -578,9 +601,21 @@ For "ti" wird for selvstlũd "tsj" ũthgesproken. For ũthgefallenem "e" wird et
 * **tragödiä** = **tragödie** [Tragödie]
 * **trajectoriä** = **trajectorie** [Trajektorie]
 
+#### -är
+
+* **secretär** [Sekretär]
+
+#### -ät
+
+* **universität** [Universität]
+
 ### -iă
 
 * **phantasiă** = **phantasi** [Fantasie]
 * **biologiă** = **biologi** [Biologie]
 * **demokratiă** = **demokrati** [Demokratie]
 * **politĩă** = **politĩ** [Polizei]
+
+...
+
+* **theoriă** = **theori** [Theorie]
