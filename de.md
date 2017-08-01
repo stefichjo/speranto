@@ -9,7 +9,7 @@ Wen kẽne sonđertẽken tǒ'r ferfygung steen, kønnen si thurk bestimmede bǒ
 
 * *Bäckerei* [bɛkəˈraɪ̯]: **bæckerĩ** = **baeckerij**
 
-Đė umshrĩvungen "ph" und "th" werđen night thurk "ᵽ" und "ŧ" ersetted, õk đan night, wen si tǒ'r ferfygung steen.
+Đė umshrĩvungen "ph" unđ "th" werđen night thurk "ᵽ" unđ "ŧ" ersetted, õk đan night, wen si tǒ'r ferfygung steen.
 
 * *Pfeffer* [ˈpfɛfɐ]: **pepher** = **peᵽer**
 * *Wasser* [ˈvasɐ]: **wather** = **waŧer**
@@ -17,8 +17,8 @@ Wen kẽne sonđertẽken tǒ'r ferfygung steen, kønnen si thurk bestimmede bǒ
 Evensowenig wėrđ "ꝁ" ođer "ƀ" fø̌r ẽn geriveneth "k" btw. "b" geshriven. In'm gegendẽl: in anlenung an anđere germanishe sprāken wėrđ nāgh selvstlũd **v** geshriven, ovwol eth [b] ũthgesproken wėrđ.
 
 * *machen* [ˈmaxn̩]: **maken** = **maꝁen**
-* *Schrift* [ʃrɪft]: **shrift** = **shriƀt**
-* *schreiben* [ˈʃraɪ̯bn̩]: **shrĩven** = **shrĩben**
+* *Schrift* [ʃrɪft]: **shrift** = **ŝriƀt**
+* *schreiben* [ˈʃraɪ̯bn̩]: **shrĩven** = **ŝrĩben**
 
 # Selvstlũde
 
@@ -54,7 +54,7 @@ Enđed đer stamm ũph mer als ẽnen midlũd, so ist đer selvstlũd kurt (unđ
 
 Enđed ẽn stamm mit twilũd ũph ẽn "r", ũph welketh kẽn selvstlũd folged, so wėrđ twishen twilũd unđ "r" ẽn swunđ-"e" gesproken.
 
-* *Feuer* [ˈfɔyɐ]: **fỹr** = **fỹĕr**
+* *Feuer* [ˈfɔyɐ]: **fỹr** = **fỹer**
   * *feurig* [ˈfɔyrɪç]: **fỹrig**
 
 Eth werđen ni đrĩ gĕlĩke midlũde hinderẽnanđer geshriven.
@@ -120,6 +120,7 @@ Der swunđlũd "e" fon enđungen fælled nagh møglikħẽd ũth.
 * *jetztig* [ˈjɛtsɪç]: **jettig**
   * *jetzt* [jɛtst]: **jetted** = **jettĕd** = **jett'd** = **jettd**
 * *letzt* [lɛtst]: **letted** = **lettĕd** = **lett'd** = **lettd**
+* *Haupt* [haʊ̯pt]: **hõved** = **hõvĕd** = **hõv'd** = **hõvd**
 
 ---
 **Đēn letteden bĩthen đė hunđe.**
@@ -141,7 +142,7 @@ Der swunđlũd "e" fon enđungen fælled nagh møglikħẽd ũth.
 
 ---
 
-Đer urgermanishe twilũd "ai" [aɪ̯] bĕliv erhalden ođer wėrđ tǒ'm ẽnlũd [e:] **e**.
+Đer urgermanishe twilũd "ai" [aɪ̯] bĕlived erhalden ođer wėrđ tǒ'm ẽnlũd [e:] **e**.
 
 * *Heim* [haɪ̯m]: **hẽm**
 * *lehnen* [ˈle:nən]: **lenen**
@@ -560,7 +561,7 @@ An'm stammenđe fon umstanđswørderen, ferhældniswørderen unđ (gebỹgeden) 
 
 * *ich* [ɪç]: **ik**
 
-Đė naghsilve "ig" wėrđ an'm wordenđe [ɪç] ũthgesproken.
+Đė naghsilve **ig** wėrđ an'm wordenđe [ɪç] ũthgesproken.
 
 * *richtig* [ˈrɪçtɪç]: **rightig** = **rightik**
 
@@ -572,7 +573,7 @@ Fælled **k** am stammenđe ẽneth ferwanđĕden wordes ũth, so wėrđ **gh** 
 
 #### ch
 
-Ẽn gerivenes "k" wėrđ am silvenanfang "ch" geshriven.
+Ẽn gerivenes "k" wėrđ am silvenanfang **ch** geshriven.
 
 * *bisschen* [ˈbɪsçən]: **bithchen** = **bithkhen**
 * *Mädchen* [ˈbɪsçən]: **mæğđchen** = **mæğđkhen**
