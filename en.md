@@ -169,7 +169,7 @@
 
 * **fǒtt** [foot]
 * **føt** [feet]
-* **bom** [boom]
+* **bǒm** [boom]
 * **bøm** [beam]
 
 ##### ør
