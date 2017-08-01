@@ -14,7 +14,7 @@ Wen kẽne sonđertẽken tǒ'r ferfygung steen, kønnen si thurk bestimmede bǒ
 * *Pfeffer* [ˈpfɛfɐ]: **pepher** = **peᵽer**
 * *Wasser* [ˈvasɐ]: **wather** = **waŧer**
 
-Evensowenig wėrđ "ꝁ" ođer "ƀ" fø̌r ẽn geriveneth "k" btw. "b" geshriven. In'm gegendẽl: in anlenung an anđere germanishe sprāken wėrđ nāgh selvstlũd "v" geshriven, õk wen "b" gesproken wėrđ.
+Evensowenig wėrđ "ꝁ" ođer "ƀ" fø̌r ẽn geriveneth "k" btw. "b" geshriven. In'm gegendẽl: in anlenung an anđere germanishe sprāken wėrđ nāgh selvstlũd **v** geshriven, ovwol eth [b] ũthgesproken wėrđ.
 
 * *machen* [ˈmaxn̩]: **maken** = **maꝁen**
 * *Schrift* [ʃrɪft]: **shrift** = **shriƀt**
@@ -22,14 +22,16 @@ Evensowenig wėrđ "ꝁ" ođer "ƀ" fø̌r ẽn geriveneth "k" btw. "b" geshrive
 
 # Selvstlũde
 
-## Længe unđ Kyrte
+## Ẽnlũde
+
+### Længe unđ Kyrte
 
 Ẽn selvstlũd an'm stammenđe ist lang (unđ geslothen).
 
 * *da* [da:]: **đa**
 * *so* [zo:]: **so**
 
-Er ist õk đan lang, wen an'm stammenđe ẽn ẽñselener midlũd steed (miđ ođer one denungs-h).
+Er ist õk đan lang, wen an'm stammenđe ẽn ẽñselener midlũd steed (miđ ođer one thenungs-h).
 
 * *Sohn* [zo:n]: **son**
 * *Hüte* [ˈhy:tə]: **hyde**
@@ -62,9 +64,8 @@ Eth werđen ni đrĩ gĕlĩke midlũde hinderẽnanđer geshriven.
 * *Fülllinie* [ˈfʏlli:ni̯ə]: **fø̌llinie** = **fø̌ll-linie**
 * *Betttuch* [ˈbɛttu:x]: **beddǒk** = **bedd-dǒk**
 
-Ferhældniswørder, fø̌rwørder unđ enđungen haven oft ẽnen kurten selvstlũd. Si werđen jeđogh allẽnsteenđ ni mid dobbeledem midlũd geshriven.
+Ferhældniswørder, fø̌rwørder sowi naghsilven unđ enđungen haven oft ẽnen kurten selvstlũd. Si werđen jeđogh allẽnsteenđ ni mid dobbeledem midlũd geshriven.
 
-* *ich* [ɪç]: **ik**
 * *in* [ɪn]: **in**
   * *innen* [ˈɪnən]: **innen**
 * *Freundin* [ˈfrɔyndɪn]: **frỹnđin**
@@ -85,6 +86,11 @@ Tǒ'r undershĩđung kann ẽn ø̌vertẽken ferwenđed werđen, welketh đė l
 * *ihn* [i:n]: **īn** ≠ *in* [ɪn]: **in**
   * *ihm* [i:m]: **im** ≠ *im* [ɪm]: **in'm**
   * *ihnen* [ˈi:nən]: **inen** ≠ *innen* [ˈɪnən]: **innen**
+
+---
+**Wen đath wørdchen "wen" night wær', đan wær' mĩn fader millionär.**
+
+---
 
 Đė tĩdwørder "bin" unđ "had" haven ẽnen kurten selvstlũd, werđen aver nur mit ẽnfakem stammũthlũd geshriven.
 
@@ -111,18 +117,29 @@ Der swunđlũd "e" fon enđungen fælled nagh møglikħẽd ũth.
   * *du sagst* [du: za:kst]: **đu sagest** = **đu sagĕst** = **đu sag'st** = **đu sagst**
 * *schön* [ʃø:n]: **shøn**
   * *schönst* [ʃø:nst]: **shønest** = **shønĕst** = **shøn'st** = **shønst**
-* *jetzt* [ˈjɛtsɪç]: **jettig**
+* *jetztig* [ˈjɛtsɪç]: **jettig**
   * *jetzt* [jɛtst]: **jetted** = **jettĕd** = **jett'd** = **jettd**
+* *letzt* [lɛtst]: **letted** = **lettĕd** = **lett'd** = **lettd**
+
+---
+**Đēn letteden bĩthen đė hunđe.**
+
+---
   
 ## Twilũde
 
 ### ĩ, ẽ
 *(ij = ÿ, ej)*
 
-Đath urgermanishe lange "ī" wurđe tǒ'm twilũd [aɪ̯] **ĩ**.
+Đath urgermanishe lange "ī" [i:] wurđe tǒ'm twilũd [aɪ̯] **ĩ**.
 
 * *mein* [maɪ̯n]: **mĩn**
 * *Zeit* [tsaɪ̯t]: **tĩd**
+
+---
+**Hunđe, đė bellen, bĩthen night.**
+
+---
 
 Đer urgermanishe twilũd "ai" [aɪ̯] bĕliv erhalden ođer wėrđ tǒ'm ẽnlũd [e:] **e**.
 
@@ -132,11 +149,16 @@ Der swunđlũd "e" fon enđungen fælled nagh møglikħẽd ũth.
 ### ũ, õ
 *(uw, ow)*
 
-Đath urgermanishe lange "ū" wurđe tǒ'm twilũd [aʊ̯] **ũ**.
+Đath urgermanishe lange "ū" [u:] wurđe tǒ'm twilũd [aʊ̯] **ũ**.
 
 * *Frau* [fraʊ̯]: **frũ**
 * *Maus* [maʊ̯s]: **mũs**
 * *Zaun* [tsaʊ̯n]: **tũn**
+
+---
+**Blõkrũd bĕlĩved blõkrũd unđ brũdklẽđ bĕlĩved brũdklẽđ.**
+
+---
 
 Đer urgermanishe twilũd "au" [aʊ̯] bĕliv erhalden ođer wėrđ tǒ'm ẽnlũd [o:] **o**.
 
@@ -146,7 +168,7 @@ Der swunđlũd "e" fon enđungen fælled nagh møglikħẽd ũth.
 ### ỹ
 *(uej)*
 
-Đath urgermanische lange "ȳ" wurđe tǒ'm twilũd [ɔʏ̯] **ỹ**.
+Đath urgermanishe lange "ȳ" [y:] wurđe tǒ'm twilũd [ɔʏ̯] **ỹ**.
 
 * *neu* [nɔʏ̯]: **nỹ**
 * *heute* [ˈhɔʏ̯tə]: **hỹde**
@@ -154,6 +176,11 @@ Der swunđlũd "e" fon enđungen fælled nagh møglikħẽd ũth.
 * *Zeug* [tsɔʏ̯k]: **tỹg**
 * *teuer* [ˈtɔʏ̯ɐ]: **dỹr**
 * *Freund* [frɔʏ̯nt]: **frỹnđ**
+
+---
+**Lỹde sinđ õk mænnĭshen.**
+
+---
 
 ## Umlũde
 
@@ -171,7 +198,7 @@ File avlĩdungen haven umlũde.
 * *Krone* [ˈkro:nə]: **krone**
   * *krönen* [ˈkrø:nən]: **krønen**
 
-Õk đer urgermanishe Twilũd "au" [aʊ̯] kann umgelũded wērđen.
+Õk đer urgermanishe twilũd "au" [aʊ̯] kann umgelũded wērđen.
 
 * *Baum* [baʊ̯m]: **bõm**
   * *Bäume* [ˈbɔʏ̯mə]: **bø̃me**
@@ -194,7 +221,7 @@ File avlĩdungen haven umlũde.
 ### ǒ, ø̌
 *(oo, ooe)*
 
-Urgermanishe lange "ō" [o:] unđ "-ø" [ø:] wērđen oft tǒ [u:] **ǒ** btw. [y:] **ø̌** geøphened.
+Urgermanishe lange "ō" [o:] unđ "ø̄" [ø:] wērđen oft tǒ [u:] **ǒ** btw. [y:] **ø̌** geslothen.
 
 * *fühlen* [ˈfy:lən] **fø̌len**
 * *Buch* [bu:x]: **bǒk**
@@ -210,10 +237,15 @@ Urgermanishe lange "ō" [o:] unđ "-ø" [ø:] wērđen oft tǒ [u:] **ǒ** btw. 
 * *vor* [fo:r]: **for**
   * *für* [fy:r]: **fø̌r**
 
+---
+**Eth gived nights gǒdeth, eth sĩ đen man dǒed eth.**
+
+---
+
 ### ů
 *(o)*
 
-Urgermanishe kurte "u" [ʊ] und "y" [ʏ] wērđen oft tǒ [ɔ] **ů** btw. [œ] **ẙ** geslothen.
+Urgermanishe kurte "u" [ʊ] und "y" [ʏ] wērđen oft tǒ [ɔ] **ů** btw. [œ] **ẙ** geøphened.
 
 * *Sommer* [ˈzɔmɐ]: **sůmmer**
 * *Wolf* [vɔlf]: **wůlf**
@@ -222,12 +254,17 @@ Urgermanishe kurte "u" [ʊ] und "y" [ʏ] wērđen oft tǒ [ɔ] **ů** btw. [œ] 
 ### ẏ
 *(i)*
 
-Urgermanischeth "y" [ʏ]/[y:] wėrđ oft tǒ [ɪ]/[i:] **ẏ** geslothen.
+Urgermanisheth "y" [ʏ]/[y:] wėrđ oft tǒ [ɪ]/[i:] **ẏ** geslothen.
 
-* *Licht* [lɪçt]: **lẏght**
+* *Licht* [lɪçt]: **lẏght** = **light**
   * *leuchten* [ˈlɔʏ̯çtn̩]: **lỹghten**
-* *Kristall* [krɪsˈtal]: **krẏstall**
-* *vier* [fi:ɐ̯]: **fẏr**
+* *Kristall* [krɪsˈtal]: **krẏstall** = **kristall**
+* *vier* [fi:ɐ̯]: **fẏr** = **fir**
+
+---
+**Đath ist blõeth lẏght. Eth lỹghted blõ.**
+
+---
 
 ### ė
 *(i)*
@@ -241,18 +278,36 @@ Seldener wėrđ urgermanisheth "e" [ɛ]/[e:] tǒ [ɪ]/[i:] **ė** geslothen.
 
 # Midlũde
 
-## p
+## f, v, b, p, ph, p̄
 
-### b [p]
+### f
+
+Urgermanisheth "f" wėrđ steds **f** geshriven.
+
+* *Vater* [ˈfa:tɐ]: **fader**
+* *Vogel* [ˈfo:gl̩]: **fůgel**
+
+### v
+
+* *Rabe* [ˈra:bə]: **rave** = **rabe**
+* *schreiben* [ˈʃraɪ̯bən]: **shrĩven** = **shrĩben**
+* *haben* [ˈha:bn̩]: **haven** = **haben**
+* *leben* [ˈle:bn̩]: **leven** = **leben**
+
+---
+**Wer tǒ spæd kommed, đēn bestrafed đath leven.**
+
+---
+
+...
+
+* *Räuber* [ˈrɔʏ̯bɐ]: **rø̃ver** = **rø̃ber**
+
+### b
 
 * *Rippe* [ˈrɪpə]: **ribbe**
 
-#### b [b]
-
-* *Rabe* [ˈra:bə]: **rave**
-* *schreiben* [ˈʃraɪ̯bən]: **shrĩven**
-
-### p [pf]
+### p
 
 * *Apfel* [ˈapfəl]: **appel**
 * *Kupfer* [ˈkʊpfɐ]: **kupper**
@@ -270,10 +325,16 @@ Seldener wėrđ urgermanisheth "e" [ɛ]/[e:] tǒ [ɪ]/[i:] **ė** geslothen.
 * *Zopf* [tsɔpf]: **topp**
 * *Topf* [tɔpf]: **dopp**
 * *Pfuhl* [pfu:l]: **pǒl**
-* *Zipfel* [ˈtsɪpfəl]: **tippel**
-* *Zapfen* [ˈtsapfən]: **tappen**
+* *Zipfel* [ˈtsɪpfl̩]: **tippel**
+* *Zapfen* [ˈtsapfn̩]: **tappen**
+* *pflegen* [pfle:gn̩]: **plegen**
 
-#### p [f]
+---
+**"ẽn kønigrĩk fø̌r ẽn pērđ"**
+
+---
+
+### ph
 
 * *Affe* [ˈafə]: **aphe**
 
@@ -283,9 +344,50 @@ Seldener wėrđ urgermanisheth "e" [ɛ]/[e:] tǒ [ɪ]/[i:] **ė** geslothen.
 * *Pfeffer* [ˈpfɛfɐ]: **pepher**
 * *Dorf* [dɔrf]: **thorph**
 
-## t
+---
+**"bĕlĩven, wo đer pepher wæxed"**
 
-### d [t]
+---
+
+### p̄
+
+* *Körper* [ˈkœrpɐ]: **kørp̄er**
+
+---
+**"fø̌r 'n ap̄pel unđ 'n ej"**
+
+---
+
+## đ, d, t, th
+
+### đ
+
+Urgermanisheth "th" wėrd immer stimmhaft unđ night geriven [d] ũthgesproken. An'm stammanfang fon fø̌rwørderen wėrđ eth **đ** geshriven. Evenso wėrđ eth an'm stammenđe **đ** geshriven.
+
+* *da* [da:]: **đa**
+* *du* [du:]: **đu**
+* *leider* [ˈlaɪ̯dɐ]: **lẽđer**
+* *Erde* [ˈe:ɐ̯də]: **ērđe**
+* *Leder* [ˈle:dɐ]: **leđer**
+* *Kleid* [klaɪ̯d]: **klẽđ**
+
+Õk urgermanisheth "d", welketh am stammenđe wiđer erwarden night stimmlos [t], sonđern stimmhaft [d] ũthgesproken wėrđ, wėrđ evenfalls **đ** geshriven.
+
+* *Pferd* [pfe:ɐ̯t]: **pērđ**
+* *Wind* [vɪnt]: **winđ**
+* *werden* [ˈve:ɐ̯dn̩]: **wērđen**
+  * *wird* [vɪrt]: **wėrđ**
+  * *wurde* [ˈvʊrdə]: **wurđe**
+  * *geworden* [gəˈvɔrdn̩]: **geworđen**
+
+An'm stammanfang fon night-fø̌rwørdern wėrđ eth **th** geshriven.
+
+* *Ding* [dɪŋ]: **thing** = **đing**
+* *Dank* [daŋk]: **thank** = **đank**
+
+### d
+
+Urgermanisheth "d" wėrđ stimmlos [t] ũthgesproken.
 
 * *Tag* [ta:k]: **dag**
 * *Tal* [ta:l]: **dal**
@@ -294,19 +396,34 @@ Seldener wėrđ urgermanisheth "e" [ɛ]/[e:] tǒ [ɪ]/[i:] **ė** geslothen.
 * *hart* [hart]: **hard**
 * *kalt* [kalt]: **kald**
 * *Wirt* [vɪrt]: **wird**
-
-...
-
 * *Mutter* [ˈmʊtɐ]: **mǒdder**
 * *gut* [gu:t]: **gǒd**
 * *Bart* [ba:ɐ̯t]: **bārd**
 * *Wert* [ve:ɐ̯t]: **wērd**
-* *werden* [ˈve:ɐ̯dn̩]: **wērđen**
-  * *wird* [vɪrt]: **wėrđ**
-  * *wurde* [ˈvʊrdə]: **wurđe**
-  * *geworden* [gəˈvɔrdn̩]: **geworđen**
 
-### t [ts]
+---
+**Wer nights wėrđ, wėrđ wird.**
+
+---
+
+#### ñ
+
+Parasitäreth **d** btw. **đ** nagh **n** wėrđ **ñ** geshriven.
+
+* *jemand* [ˈje:mant]: **jemañ** = **jemanđ**
+* *eigentlich* [ˈaɪ̯gn̩tlɪç]: **ẽgeñlik** = **ẽgendlik**
+* *wesentlich* [ˈve:zn̩tlɪç]: **weseñlik** = **wesendlik**
+* *versehentlich* [fɛɐ̯ˈze:əntlɪç]: **ferseheñlik** = **fersehendlik**
+* *namentlich* [ˈna:məntlɪç]: **nameñlik** = **namendlik**
+* *einzig* [ˈaɪ̯ntsɪç]: **ẽñsig** = **ẽndsig**
+* *tanzen* [ˈtantsn̩]: **dañsen** = **dandsen**
+
+---
+**Ist đė katte ũth đem hũs, dañsen đė mỹse ũph đem dish.**
+
+---
+
+### t
 
 * *Katze* [ˈkatsə]: **katte**
 * *heizen* [ˈhaɪ̯tsn̩]: **hẽten**
@@ -314,6 +431,8 @@ Seldener wėrđ urgermanisheth "e" [ɛ]/[e:] tǒ [ɪ]/[i:] **ė** geslothen.
 * *Zunge* [ˈtsʊŋə]: **tunge**
 * *Herz* [hɛrts]: **hert**
 * *Zahl* [tsa:l]: **tal**
+* *nutzen* [ˈnʊtsn̩]: **nutten**
+* *Witz* [vɪts]: **witt**
 
 ...
 
@@ -321,33 +440,66 @@ Seldener wėrđ urgermanisheth "e" [ɛ]/[e:] tǒ [ɪ]/[i:] **ė** geslothen.
 * *Zweig* [tsvaɪ̯k]: **twĩg**
 * *Pflanze* [ˈpflantsə]: **plante**
 
-#### t [s]
+#### -ft, -ght, -st
+
+##### -ft
+
+* *Luft* [lʊft]: **luft** = **lufd**
+* *Zukunft* [ˈtsu:kʊnft]: **tǒkǒnft** = **tǒkǒnfd**
+* *Haft* [haft]: **haft** = **hafd**
+
+##### -ght
+
+* *Macht* [maxt]: **maght** = **makt**
+* *Nacht* [naxt]: **naght** = **nakt**
+* *Wacht* [vaxt]: **waght** = **wakt**
+* *Tracht* [traxt]: **draght** = **drakt**
+* *Bedacht* [bəˈdaxt]: **bethaght** = **bethakt**
+* *nicht* [nɪçt]: **night** = **nikt**
+* *Pflicht* [pflɪçt]: **plight** = **pflikt**
+* *fechten* [ˈfɛçtn̩]: **feghten** = **fekten**
+* *verbracht* [fɛɐ̯ˈbraxt]: **ferbraght** = **ferbrakt**
+
+---
+**Withen ist maght. Nights withen maked nights.**
+
+---
+
+##### -st
+
+* *Last* [last]: **last**
+* *Lust* [lʊst]: **lust**
+
+#### tr-
+
+* *Träne* [ˈtrɛ:nə]: **træne**
+
+### th
 
 * *Straße* [ˈʃtra:sə]: **strāthe**
 * *heiß* [haɪ̯s]: **hẽth**
 * *heißen* [ˈhaɪ̯sn̩]: **hẽthen**
 * *groß* [gro:s]: **grōth**
+* *lassen* [ˈlasn̩]: **lathen**
+* *wissen* [ˈvɪsn̩]: **withen**
+* *genießen* [gəˈni:sn̩]: **genīthen**
+* *schließen* [ˈʃli:sn̩]: **slīthen**
+* *das* [das]: **đath**
 
-#### t [t]
+## g, k, ck
 
-* *Luft* [lʊft]: **luft**
-* *Lust* [lʊst]: **lust**
-* *Macht* [maxt]: **maght**
-* *Wacht* [vaxt]: **waght**
-* *Träne* [ˈtrɛ:nə]: **træne**
+### g
 
-## k
-
-### g [k]
+Nagh kurtem urgermanishen selvstlũd wėrđ "g" stimmlos [k] ũthgesproken.
 
 * *Brücke* [ˈbrʏkə]: **brygge** = **brycke**
 * *Hecke* [ˈhɛkə]: **hegge** = **hecke**
 * *Rücken* [ˈrʏkn̩]: **ryggen** = **rycken**
 * *Zweck* [tsvɛk]: **twegg** = **tweck**
 
-### k [x]
+### k
 
-Ẽn "k" am stammenđe wird geriven gesproken. Normale selvstlũde werđen kurt ũthgesproken.
+Ẽn "k" an'm stammenđe wėrđ geriven gesproken. Normale selvstlũde wērđen kurt ũthgesproken.
 
 * *Sache* [ˈzaxə]: **sake** = **sakhe**
 * *machen* [ˈmaxn̩]: **maken** = **makhen**
@@ -362,8 +514,63 @@ For "k" am stammenđe sinđ nur selvstlũde mid ø̌vertẽken lang.
 * *suchen* [ˈzu:xn̩]: **sǒken** = **sǒkhen**
 * *tauchen* [ˈtaʊ̯xn̩]: **dũken** = **dũkhen**
 * *auch* [aʊ̯x]: **õk** = **õkh**
+* *brauchen* [ˈbraʊ̯xn̩]: **brũken** = **brũkhen**
 
-#### ch [x]
+---
+**Wer "brũken" one "tǒ" gebrũked, brũked "brũken" gar night tǒ gebrũken.**
+
+---
+
+Steed for dem "k" am silvenenđe ẽn wĩderer midlũd, so wėrđ đath "k" night geriven ũthgesproken...
+
+* *sinken* [ˈzɪŋkn̩]: **sinken**
+* *denken* [ˈdɛŋkn̩]: **thenken**
+* *trinken* [ˈtrɪŋkn̩]: **drinken**
+* *Bank* [baŋk]: **bank**
+
+...ũther in đēn ferbinđungen "lk" unđ "rk".
+
+* *Kirche* [ˈkɪrçə]: **kirke** = **kirkhe**
+* *welche* [ˈvɛlçə]: **welke** = **welkhe**
+* *Milch* [ˈmɪlç]: **milk** = **milkh**
+
+---
+**"đė kirke in'm thorph lathen"**
+
+---
+
+#### gh
+
+An'm stammenđe fon umstanđswørderen, ferhældniswørderen unđ (gebỹgeden) fø̌rwørderen wėrđ **gh** stadd **k** geshriven.
+
+* *doch* [dɔx]: **đogh** = **đok**
+* *noch* [nɔx]: **nogh** = **nok**
+* *nach* [na:x]: **nāgh** = **nāk**
+* *durch* [dʊrç]: **thurgh** = **thurk**
+* *mich* [mɪç]: **migh** = **mik**
+* *dich* [dɪç]: **đigh** = **đik**
+* *sich* [zɪç]: **sigh** = **sik**
+
+---
+**Wen fligen hinder fligen fligen, fligen fligen fligen nagh.**
+
+---
+
+Đath (ungebỹgede) fø̌rword **ik** wėrđ mid **k** an'm stammenđe geshriven.
+
+* *ich* [ɪç]: **ik**
+
+Đė naghsilve "ig" wėrđ an'm wordenđe [ɪç] ũthgesproken.
+
+* *richtig* [ˈrɪçtɪç]: **rightig** = **rightik**
+
+Fælled **k** am stammenđe ẽneth ferwanđĕden wordes ũth, so wėrđ **gh** stadd **k** geshriven.
+
+* *hoch* [ho:x]: **hōgh** = **hōk**
+  * *höher* [ˈhø:ɐ]: **hø̄her** = **høer**
+  * *höchst* [hø:çst]: **hø̄ghest** = **hø̄kest**
+
+#### ch
 
 Ẽn gerivenes "k" wėrđ am silvenanfang "ch" geshriven.
 
@@ -371,11 +578,18 @@ For "k" am stammenđe sinđ nur selvstlũde mid ø̌vertẽken lang.
 * *Mädchen* [ˈbɪsçən]: **mæğđchen** = **mæğđkhen**
 * *Plätzchen* [ˈplɛtsçən]: **pläcĕchen** = **pläcĕkhen**
 
-#### lk, rk
+### ck
 
-* *Kirche* [ˈkɪrçə]: **kirke** = **kirkhe**
-* *welche* [ˈvɛlçə]: **welke** = **welkhe**
-* *Milch* [ˈmɪlç]: **milk** = **milkh**
+* *Nacken* [ˈnakn̩]: **nacken** = **naggen**
+* *wecken* [ˈvɛkn̩]: **wecken** = **weggen**
+* *lecker* [ˈlɛkɐ]: **lecker** = **legger**
+* *Socke* [ˈzɔkə]: **socke** = **sogge**
+* *Flocke* [ˈflɔkə]: **flocke** = **flogge**
+
+...
+
+* *dick* [dɪk]: **thick** = **thigg**
+* *ducken* [ˈdʊkn̩]: **đucken** = **đuggen**
 
 ...
 
@@ -385,237 +599,186 @@ For "k" am stammenđe sinđ nur selvstlũde mid ø̌vertẽken lang.
 * *Kalk* [kalk]: **kalck**
 * *melken* [ˈmɛlkn̩]: **melcken**
 
-#### ck [k]
+## h, ħ, x, sh
 
-* *Nacken* [ˈnakn̩]: **nacken**
-* *wecken* [ˈvɛkn̩]: **wecken**
-* *lecker* [ˈlɛkɐ]: **lecker**
-* *Socke* [ˈzɔkə]: **socke**
-* *Flocke* [ˈflɔkə]: **flocke**
+### h
 
-...
+Ũthgefalleneth urgermanisheth "hw" wėrđ **h** geshriven. Eth openbared sigh in ferwanđĕden worden, đeren stamm auf **g**, **gg**, **gh** ođer **ght** enđed.
 
-* *Metrik* [ˈme:trɪk]: **metric**
-  * *Metriken* [ˈme:trɪkn̩]: **metricken**
-* *dick* [dɪk]: **thick**
-* *ducken* [ˈdʊkn̩]: **đucken**
-
-#### nk
-
-* *sinken* [ˈzɪŋkn̩]: **sinken**
-
-...
-
-* *denken* [ˈdɛŋkn̩]: **thenken**
-  * *Dank* [daŋk]: **thank**
-* *trinken* [ˈtrɪŋkn̩]: **drinken**
-
-### v [b]
-
-* *Rabe* [ˈra:bə]: **rave** = **rabe**
-* *haben* [ˈha:bn̩]: **haven** = **haben**
-* *leben* [ˈle:bn̩]: **leven** = **leben**
-
-...
-
-* *Räuber* [ˈrɔʏ̯bɐ]: **rø̃ver** = **rø̃ber**
-
-### th [d]
-
-* [Ding]: **thing**
-
-### đ [d]
-
-* *da* [da:]: **đa**
-* *Pferd* [pfe:ɐ̯t]: **pērđ**
-* *Erde* [ˈe:ɐ̯də]: **ērđe**
-* *Leder* [ˈle:dɐ]: **leđer**
-* *Wind* [vɪnt]: **winđ**
-
-...
-
-* *leider* [ˈlaɪ̯dɐ]: **lẽđer**
-
-### gh [x]
-
-* *sich* [zɪç]: **sigh** = **sik**
-* *mich* [mɪç]: **migh** = **mik**
-* *dich* [dɪç]: **đigh** = **đik**
-* *noch* [nɔx]: **nogh** = **nok**
-* *doch* [dɔx]: **đogh** = **đok**
-* *nach* [na:x]: **nāgh** = **nāk**
-
-#### ght [xt]
-
-* *Nacht* [naxt]: **naght**
-* *nicht* [nɪçt]: **night**
-* *fechten* [ˈfɛçtn̩]: **feghten**
-
-...
-
-* *mögen* [ˈmø:gn̩]: **møgen**
-  * *Macht* [maxt]: **maght**
-  * *möchte* [ˈmœçtə]: **møghte**
-* *bedenken* [bəˈdɛŋkn̩]: **bethenken**
-  * *Bedacht* [bəˈdaxt]: **bethaght**
-* *tragen* [ˈtra:gn̩]: **dragen**
-  * *Tracht* [traxt]: **draght**
-* *pflegen* [pfle:gn̩]: **plegen**
-  * *Pflicht* [pflɪçt]: **plight**
-* *verbringen* [fɛɐ̯ˈbrɪŋən]: **ferbringen**
-  * *verbracht* [fɛɐ̯ˈbraxt]: **ferbraght**
-
-#### h [-]
-
+* *nah* [na:]: **nah** = **na**
+  * *näher* [ˈnɛ:ɐ]: **næher** = **næer**
+  * *nächst* [nɛ:çst]: **nǣghest** = **nǣkest**
 * *ziehen* [ˈtsi:ən]: **tihen** = **tien**
+  * *zog* [tso:k]: **tog**
   * *Zucht* [tsʊxt]: **tught**
   * *zücken* [ˈtsʏkn̩]: **tyggen**
 * *sehen* [ˈze:ən]: **sehen** = **seen**
+  * *sah* [za:]: **sah** = **sa**
   * *Sicht* [zɪçt]: **sight**
 * *geschehen* [gəˈʃe:ən]: **geshehen** = **geshehen**
   * *Geschichte* [gəˈʃɪçtə]: **geshighte**
   * *geschickt* [gəˈʃɪkt]: **geshigged**
-* *hoch* [ho:x]: **hogh** = **hok**
-  * *höher* [ˈhø:ɐ]: **høher** = **høer**
-  * *höchst* [hø:çst]: **høghest** = **høghĕst** = **høgh'st** = **høghst** = **høxt**
-* *nah* [na:]: **nah** = **na**
-  * *näher* [ˈnɛ:ɐ]: **næher** = **næer**
-  * *nächst* [nɛ:çst]: **næghest** = **næghĕst** = **nægh'st** = **next**
 * *fliehen* [ˈfli:ən]: **flihen** = **flien**
   * *Flucht* [flʊxt]: **flught**
-    * *flüchten* [ˈflʏçtn̩]: **flyghten**
 * *gedeihen* [gəˈdaɪ̯ən]: **gethĩhen** = **gethĩen**
-  * *dicht* [dɪçt]: **thight**
+  * *Gedicht* [gəˈdɪçt]: **gethight**
 
-## f
+### ħ
 
-* *Vater* [ˈfa:tɐ]: **fader**
-* *voll* [fɔl]: **foll**
-* *Vogel* [ˈfo:gl̩]: **fůgel**
-
-## g [x]
-
-* *richtig* [ˈrɪçtɪç]: **rightig** = **rightigh**
-
-## ħ [k]
+Đė naghsilve [haɪ̯t] **-hẽd** wėrđ **-ħẽd** geshriven, wen si [kaɪ̯t] ũthgesproken wėrđ.
 
 * *Brüderlichkeit* [ˈbry:dɐlɪçkaɪ̯t]: **brø̌đerlikħẽd** = **brø̌đerlikkẽd**
 
-## s [ŝ]
+### x
 
-* *Schloss* [ʃlɔs]: **sloth**
-* *schmal* [ʃma:l]: **smal**
-* *Schnauze* [ˈʃnaʊ̯tsə]: **snũte**
-* *Schwein* [ʃvaɪ̯n]: **swĩn**
+Urgermanisheth "hs" wėrđ **x** geshriven.
 
-...
+* *Fuchs* [fʊks]: **fux** = **fucks**
+* *Wachs* [vaks]: **wax** = **wacks**
+* *Wechsel* [ˈvɛksl̩]: **wexel** = **wecksel**
+* *Sachsen* [ˈzaksn̩]: **Saxen** = **Sacksen**
 
-* *Speer* [ʃpe:ɐ̯]: **sper**
-* *Stein* [ʃtaɪ̯n]: **stẽn**
+---
+**"wo fux unđ hase sigh gǒde naght sagen"**
 
-### sh [ŝ]
+---
 
-* *Schrank* [ʃraŋk]: **shrank**
-* *falsch* [falʃ]: **falsh**
+### sh
 
-...
+Urgermanisheth "sk" [sk] wėrđ geriven [ʃ] **sh** ũthgesproken.
 
+* *Schiff* [ʃɪf]: **shiph** = **ŝiph**
+* *Fisch* [fɪʃ]: **fish** = **fiŝ**
+* *Schrank* [ʃraŋk]: **shrank** = **ŝrank**
 
-* *Schiff* [ʃɪf]: **shiph**
-* *Fisch* [fɪʃ]: **fish**
+---
+**Fisher's Frids fishede frishe fishe.**
 
-## x
+---
 
-* *Fuchs* [fuks]: **fux**
-* *Wachs* [vaks]: **wax**
+#### s
 
-## ñ [nd]
+An'm wordanfang wėrđ **s** for midlũd [ʃ] ũthgesproken.
 
-* *jemand* [ˈje:mant]: **jemañ**
+* *Schloss* [ʃlɔs]: **sloth** = **ŝloth**
+* *schmal* [ʃma:l]: **smal** = **ŝmal**
+* *Schnauze* [ˈʃnaʊ̯tsə]: **snũte** = **ŝnũte**
+* *Schwein* [ʃvaɪ̯n]: **swĩn** = **ŝwĩn**
+* *Speer* [ʃpe:ɐ̯]: **sper** = **ŝper**
+* *Stein* [ʃtaɪ̯n]: **stẽn** = **ŝtẽn**
 
-### ñ [nt]
+---
+**Aller anfang ist swer.**
 
-* *eigentlich* [ˈaɪ̯gn̩tlɪç]: **ẽgeñlik**
-* *wesentlich* [ˈve:zn̩tlɪç]: **weseñlik**
-* *versehentlich* [fɛɐ̯ˈze:əntlɪç]: **ferseheñlik**
-* *namentlich* [ˈna:məntlɪç]: **nameñlik**
+---
 
-...
+Wėrđ "s" in anđerer position [ʃ] ũthgesproken, so wėrđ eth **sh** geshriven.
 
-* *eins* [ˈaɪ̯ns]: **ẽns**
-  * *einzig* [ˈaɪ̯ntsɪç]: **ẽñsig**
+* *falsch* [falʃ]: **falsh** = **falŝ**
 
 ## Fremđwørder
 
-* **packen** [packen]
-* **plan** [Plan]
-* **platt** [platt]
-* **zucker** [Zucker]
-
-### ph, th, ch, k, y
-
-* **photo** [Foto]
-* **mathe** [Mathe]
-* **technic** [Technik]
-* **kilo** [Kilo]
-* **system** [System]
-
-### c, t [ts]
-
-For "a", "o", "u" wėrđ "c" wie "ts" ũthgesproken, sonst wi "k".
-
-* **concert** [Konzert]
-* **princĕ** [Prinz]
-* **placĕ** [Platz]
-
-For "ti" wird for selvstlũd "tsj" ũthgesproken. For ũthgefallenem "e" wird eth "ts" ũthgesproken.
-
-* **nation** = **nacion** [Nation]
-* **potent** [potent]
-  * **potentiĕ** = **potencĕ** [Potenz]
-  * **potential** = **potencial** [Potential]
-  * **potentiell** = **potenciell** [potentiell]
-
-### -ėr-
-
-* **motivėren** [motivieren]
-* **programmėren** [programmieren]
-* **numer** = **nummer** [Nummer]
-  * **numerėren** = **nummerėren** [nummerieren]
-  * **numeral** = **nummeral** [Numeral]
-* **halvėren** [halbieren]
-* **placėren** [platzieren]
-
-### -ŭl-
-
-* **regŭl** = **reg'l** = **regl** = **reglĕ** [Regel]
-  * **regulėren** [regulieren]
-* **articŭl** = **artic'l** = **articl** = **articlĕ** [Artikel]
-  * **articulėren** [artikulieren]
-
-### -ä
-
-* **messä** = **messe** [Messe]
-* **cassä** = **kasse** [Kasse]
-* **pausä** = **pause** [Pause]
-* **tragödiä** = **tragödie** [Tragödie]
-* **trajectoriä** = **trajectorie** [Trajektorie]
-
-#### -är
-
-* **secretär** [Sekretär]
-
-#### -ät
-
-* **universität** [Universität]
-
-### -iă
-
-* **phantasiă** = **phantasi** [Fantasie]
-* **biologiă** = **biologi** [Biologie]
-* **demokratiă** = **demokrati** [Demokratie]
-* **politĩă** = **politĩ** [Polizei]
+* *platt* [plat]: **pladt**
+* *matt* [mat]: **madt**
 
 ...
 
-* **theoriă** = **theori** [Theorie]
+* *packen* [ˈpakn̩]: **packen**
+* *Zucker* [ˈtsʊkɐ]: **çucker**
+* *Sack* [zak]: **sack**
+
+...
+
+* *Plan* [pla:n]: **plan**
+
+### Latĩnishe Fremdwørder
+
+Latĩnishe fremđwørder behalden ire latĩnishe reghtshrĩvung.
+
+### ph, th, ch, k, y
+
+* *Foto* [ˈfo:to]: **photo**
+* *Mathe* ['matə]: **mathe**
+* *Technik* [ˈteçnɪk]: **technic**
+* *Chemie* [çeˈmi]: **chemiă**
+* *Maschine* [maˈʃi:nə]: **maĉhine**
+* *Kilo* [ˈki:lo]: **kilo**
+* *System* [zʏsˈte:m]: **system**
+
+### c
+
+**c** wėrđ for "a", "o", "u" unđ an'm wordenđe [k] ũthgesproken, sonst [ts].
+
+* *Konzert* [kɔnˈtsɛrt]: **concert**
+* *Zentrum* [ˈtsɛntrʊm]: **centrum**
+* *Prinz* [prɪnts]: **princĕ**
+* *Platz* [plats]: **placĕ**
+* *Statistik* [ʃtaˈtɪstɪk]: **statistic**
+  * *Statistiken* [ʃtaˈtɪstɪkn̩]: **statisticken**
+
+---
+**Trũe kẽner statistic, đė đu night selver gefælshed hast.**
+
+---
+
+### t
+
+**ti** wėrđ for selvstlũd [tsi̯] ũthgesproken.
+
+* *Station* [ʃtaˈtsi̯o:n]: **station** = **stacion**
+
+**ti** wėrđ for ũthgefallenem **ĕ** [ts] ũthgesproken.
+
+* *potent* [poˈtɛnt]: **potent**
+  * *Potenz* [poˈtɛnts]: **potentiĕ** = **potencĕ**
+  * *Potential* [potɛnˈtsi̯a:l]: **potential** = **potencial**
+  * *potentiell* [potɛnˈtsi̯ɛl]: **potentiell** = **potenciell**
+
+### -ėr-
+
+* *motivieren* [motiˈvi:rən]: **motivėren**
+* *programmieren* [prograˈmi:rən]: **programmėren**
+* *Nummer* [ˈnʊmɐ]: **numer** = **nummer**
+  * *nummerieren* [nʊməˈri:rən]: **numerėren** = **nummerėren**
+  * *Numeral* [numeˈra:l]: **numeral** = **nummeral**
+* *halbieren* [halˈbi:rən]: **halvėren**
+* *platzieren* [plaˈtsi:rən]: **placėren**
+
+### -ŭl-
+
+* *Regel* [ˈre:gl̩]: **regŭl** = **reg'l** = **regl** = **reglĕ**
+  * *regulieren* [reguˈli:rən]: **regulėren**
+* *Artikel* [arˈti:kl̩]: **articŭl** = **artic'l** = **articl** = **articlĕ**
+  * *artikulieren* [artikuˈli:rən]: **articulėren**
+
+### -ä
+
+* *Messe* [ˈmɛsə]: **messä** = **messe**
+* *Kasse* [ˈkasə]:  **cassä** = **kasse**
+* *Pause* [ˈpaʊ̯zə]: **pausä** = **pause**
+* *Tragödie* [traˈgø:di̯ə]: **tragödiä** = **tragödie**
+* *Historie* [hɪsˈto:ri̯ə]: **historiä** = **historie**
+
+#### -är
+
+* *Sekretär* [zekreˈtɛ:ɐ̯]: **secretär**
+
+#### -ät
+
+* *Universität* [univɛrziˈtɛ:t]: **universität**
+
+### -iă
+
+* *Fantasie* [fantaˈzi:]: **phantasiă** = **phantasi**
+* *Biologie* [bioloˈgi:]: **biologiă** = **biologi**
+* *Demokratie* [demokraˈti:]: **demokratiă** = **demokrati**
+* *Theorie* [teoˈri:]: **theoriă** = **theori**
+
+---
+**Grũ, dỹrer frỹnđ, ist alle theoriă.**
+
+---
+
+#### -ĩă
+
+* *Polizei* [poliˈtsaɪ̯]: **politĩă** = **politĩ**
