@@ -1,15 +1,15 @@
-# Reghtshrĩvung
+# Thỹdĭshe Reghtshrĩvung
 
 Eth empfiled sigh, tǒsammensettungen fon tǒsammensettungen mid hėlphe fon binđestriken tǒ gliđeren. In tǒsammensettungen empfiled eth sigh fremđword-bestanđdẽle mid hėlphe ẽnes binđestrikes avtǒtĕrrennen.
 
 * *Fahrzeugrückgabe* [ˈfa:rtsɔykrʏkga:bə]: **fartỹg-ryggave** = **fartỹgryggave**
 * *Prozessschritt* [proˈtsɛsʃrɪt]: **process-shridd** = **processshridd**
 
-Wen kẽne sonđertẽken tǒ'r ferfygung steen, kønnen si thurk bestimmede bǒkstaven-ferbinđungen umshriven werđen.
+Wen kẽne sonđertẽken tǒ'r ferfygung steen, kønnen si thurgh bestimmede bǒkstaven-ferbinđungen umshriven werđen.
 
 * *Bäckerei* [bɛkəˈraɪ̯]: **bæckerĩ** = **baeckerij**
 
-Đė umshrĩvungen "ph" unđ "th" werđen night thurk "ᵽ" unđ "ŧ" ersetted, õk đan night, wen si tǒ'r ferfygung steen.
+Đė umshrĩvungen "ph" unđ "th" werđen night thurgh "ᵽ" unđ "ŧ" ersetted, õk đan night, wen si tǒ'r ferfygung steen.
 
 * *Pfeffer* [ˈpfɛfɐ]: **pepher** = **peᵽer**
 * *Wasser* [ˈvasɐ]: **wather** = **waŧer**
@@ -315,6 +315,7 @@ Urgermanisheth "f" wėrđ steds **f** geshriven.
 * *Kopf* [kɔpf]: **kopp**
 * *stopfen* [ˈʃtɔpfən]: **stoppen**
 * *Kampf* [kampf]: **kamp**
+* *Pfanne* [ˈpfanə]: **panne**
 
 ...
 
