@@ -1,246 +1,179 @@
-## Võgals
+# Orthographï
 
-### a
+# Vȏc̆als
 
-* **appel** [apple]
-* **ap** [ape]
+Vȏc̆als befor twǒ consonants or mẽr ar short. Befor ên consonant or løss đȇ ar lång.
 
-...
+* *lick* = *lĭck* [lɪk]: **likk**
+* *like* = *līke* [laɪk]: **lik**
 
-* *FR* **grane** = **gran** [grain]
+All vȏc̆als ar normallïk diphtongized when đȇ ar lång, except for [i:] **e**. (Nōt đat lång **e** at đe end åv đe wørd is written **ee**.)
 
-#### ar
+* *eat* = *ēat* [i:t]: **et**
+* *tea* = *tēa* [ti:]: **tee**
 
-* **bar** [bear]
-* **đar** [there]
-* **whar** [where]
-* **war** [ware]
-* **war** [wear]
-* **tar** [tear]
+Even ȇ lång [ju:] **u** is slightlïk diphthongized except āg̊hter **l** or **r**.
 
-...
+* *you* = *yoū* [ju:]: **u**
+* *glue* = *glūe* [glu:]: **glu**
+* *true* = *trūe* [tru:]: **tru**
+* *room* = *roǒm* [ru:m]: **rum**
 
-* **karr** = **kȃrr** [car]
-* **farr** = **fȃrr** [far]
-* **dark** = **dȃrk** [dark]
-* **ar** = **arr** = **ȃrr** [are]
-* *FR* **bar** = **barr** = **bȃrr** [bar]
+Lång [əʊ] **o** is pronũnced [oʊ] in American.
 
-...
+* *so* = *sō* [səʊ] → [soʊ]: **so**
 
-* **warr** = **wårr** [war]
-* **warp** = **wårp** [warp]
+## æ, ø, y
 
+**æ** and **ø** ar pronũnced lik **e** [e][i:], wharas short and lång **y** ar pronũnced lik [ɪ]/[aɪ̯] **i**. Diphtongized **ø̃** and **ỹ** ar pronũnced lik diphtongized **ĩ**.
 
-#### æ
+* *street* = *strēet* [stri:t]: **stræt**
+* *men* = *mĕn* [men]: **mænn**
+* *feel* = *fēel* [fi:l]: **føl**
+* *bread* = *brĕad* [bred]: **brødd**
+* *dear* = *dēar* [di:r]: **dyr**
+* *sin* = *sĭn* [sɪn]: **synn**
+* *light* = *līght* [laɪ̯t]: **lỹght**
+* *eye* = *ȇye* [aɪ̯]: **ø̃g**@
 
-* **mann** [man]
-* **mænn** [men]
-* **bǣrd** [beard]
-* **tǣr** [tear]
-* **wær** = **wærr** [were]
-* **ræd** [read]
-  * **rædd** [read]
+## â, ô, û
 
-#### å
+When **a** is pronũnced [ʌ]/[ɑ:], it is written **â**.
 
-* **ån** [on]
-* **åv** [of]
-* **lång** [long]
-* **sång** [song]
-* **wrång** [wrong]
+* *some* = *sôme* [sʌm]: **sâmm**
+* *father* = *fâther* [ˈfɑ:ðəʳ]: **fâđer**
 
-##### all
+Long **â** is often pronũnced lik short **a** in American.
 
-* **all** = **åll** [all]
-* **fall** = **fåll** [fall]
-* **ball** = **båll** [fall]
-* **hall** = **håll** [hall]
-* **kall** = **kåll** [call]
-* **tall** = **tåll** [call]
+* *bath* = *bâth* [bɑ:θ] → [bæθ]: **bâđ**
 
-...
+When short **o** is pronũnced [ʌ], it is written **ô**.
 
-* **pal** = **pȃll** [pal]
-* **Al** = **Ȃll** [Al]
+* *mother* = *môther* [ˈmʌðəʳ]: **môđer**
+* *come* = *côme* [kʌm]: **kômm**
 
-##### ald
+Short **o** is pronũnced lik long **â** in American.
 
-* **ald** = **åld** [old]
-* **kald** = **kåld** [cold]
-* **bald** = **båld** [bold]
-* **fald** = **fåld** [fold]
+* *dog* [dɒg] → [dɑ:g]: **dogg**
 
-##### alk
+Short **u** is normallïk pronũnced [ʌ]. When it is pronũnced [ʊ], it is written **ǔ**.
 
-* **khalk** = **khåłk** [chalk]
-* **talk** = **tåłk** [talk]
+* *sun* = *sûn* [sʌn]: **sunn** = **sûnn**
+* *put* = *pǔt* [pʊt]: **pǔtt**
 
-##### wa
+## å, ȏ
 
-* **want** = **wånt** [want]
-* **warm** = **wårm** [warm]
-* **wall** = **wåll** [wall]
-* **was** = **wås** [was]
+When **a** is pronũnced lik **o**, it is written **å**.
 
-#### ȃ
+* *on* = *ŏn* [ɒn]: **ån**
+* *of* = *ŏf* [ɒv]: **åv**
+* *long* = *lŏng* [lɒŋ]: **lång**
+* *song* = *sŏng* [sɒŋ]: **sång**
+* *wrong* = *wrŏng* [rɒŋ]: **wrång**
 
-* **fȃđer** [father]
-* **lȃst** [last]
+After **w** and **qu**, **a** is allweggs pronũnced like **o**.
 
-### e
+* *want* = *wånt* [wɒnt]: **want** = **wånt**
+* *quantity* = *quåntity* [ˈkwɒntəti]: **quantitä**
 
-* **bedd** [bed]
-* **wek** [weak]
-* **see** [sea]
+When **o** is pronũnced lik **a**, it is written **ȏ**.
 
-...
+* *great* = *greāt* [greɪt]: **grȏt**
 
-* **frend** [frend]
-* **fēld** [field]
+## ǒ, ů
 
-#### er
+When **o** is pronũnced lik **u**, it is written **ǒ**. (Nōt đat lång **ǒ** isn't diphtongized at all.)
 
-* **berri** [berry]
-* **err** = **err** [err]
-* **erđ** [earth]
-* **perl** [pearl]
+* *book* = *boǒk* [bʊk]: **bǒkk**
+* *to* = *tǒ* [tu:]: **tǒ**
 
-#### ẽ
+When **u** is pronũnced lik **o**, it is written **ů**.
 
-* **stẽn** [stone]
-* **bẽn** [bone]
-* **hẽm** [home]
-* **sẽel** [soul]
-* **mẽst** = **mẽest** [most]
+* *god* [gɒd]: **gůd**
 
-### i
+## ï
 
-* **mi** [my]
-* **min** [mine]
-* **winn** [win]
-* **win** [wine]
-* **bitt** [bit]
-* **bit** [bite]
-* **likk** [lick]
-* **lik** [like]
+When **i** is pronũnced lik **e**, it is written **ï**.
 
-...
+* *me* = *mē* [mi:]: **mï**
+* *week* = *weēk* [wi:k]: **wïk**
+* *free* = *freē* [fri:]: **frï**
+* *shield* = *shiēld* [ʃi:ld]: **shïld**
 
-* **fīnd** [find]
+## ẽ, õ
 
-#### ï
+Protogermanic "ai" [aɪ̯] is pronũnced lik lång **ō**. It is written **ẽ**.
 
-* **mï** [me]
-* **bïr** [beer]
-* **wïk** [week]
-* **frï** [free]
-* **shïld** [shield]
-* **hïr** [here]
+* *home* = *hōme* [həʊm]: **hẽm**
+* *stone* = *stōne* [stəʊn]: **stẽn**
 
-### o
+Protogermanic "au" [aʊ̯] is pronũnced lik diphtongized **ũ**. It is written **õ**.
 
-* **often** [often]
-* **so** [so]
-* **sol** [sole]
+* *sound* = *sõund* [saʊ̯nd]: **sõnd**
 
-#### or
+## +u
 
-* **or** [or]
-* **for** [for]
-* **fůr** [four]
-* **port** [port]
-* **sword** [sword]@
-* **form** [form]
-* **mẽr** = **mẽer** [more]
-* **bord** [board]
+Đe diphthong **au** is monophtongized tǒ [ɔ:]. Normallïk, it is pronũnced lik lång **â** in American.
 
-#### ø
+* *pause* [pɔ:z] → [pɑ:z]: *paus*
 
-* **søk** [seek]
-* **grøn** [green]
-* **rødd** [red]
-* **brødd** [bread]
-* **nød** [need]
-* **føl** [feel]
-* **drøm** [dream]
+## +l
 
-...
+Except for lẽnwørds, short **a** befor **l** is pronũnced lik **au**. Đe **l** in **lk** is mut.
 
-* **fǒtt** [foot]
-* **føt** [feet]
-* **bǒm** [boom]
-* **bøm** [beam]
+* *pal* = *păl* [pæl]: **păl**
+* *ball* [bɔ:l]: **ball**
+* *talk* [tɔ:k]: **talk** = **tałk**
+* *salt* [sɔ:lt]: **salt**
 
-##### ør
+Befor **l**, short **o** is pronũnced lik lång **o**.
 
-* **wørd** [word]
-* **wørm** [worm]
-* **hør** [hear]
-  * **hørred** [heard]
+* *role* = *rōle* [rəʊl]: **rol**
+* *roll* = *rŏll* [rəʊl]: **roll** = **rōll**
 
-#### ǒ
+Befor **ld**, **a** is pronũnced lik **o**.
 
-* **bǒkk** [book]
-* **lǒkk** [look]
-* **tǒ** [to]
+* *old* = *ŏld* [əʊld]: **ald** = **åld**
 
-#### ȏ
+## +r
 
-* **grȏt** [great]
-* **mȏđer** [mother]
-* **kȏmm** [come]
+### Lång Vȏc̆als and Diphthongs
 
-#### õ
+Āg̊hter [aɪ] **ī** and [aʊ] **ũ**, **r** is pronũnced [əʳ]. It is pronũnced [ɚ] in American.
 
-* **sõnd** [sound]
-  * **đe sõnd åv silence** [the sound of silence]
+* *tire* = *tīre* [taɪəʳ] → [taɪɚ]: **tir**
+* *sour* = *soũr* [saʊəʳ] → [saʊɚ]: **sũr**
 
-### u
+Āg̊hter [i:] **ē** and [ju:] **ū**, **r** is pronũnced [əʳ], except in American. Đe pronunciation of **ē** and **ū** is shortened tǒ [ɪ] and [jʊ].
 
-* **u** [you]
-* **rum** [room]
-* **pǔtt** [put]
-* **summer** [summer]
-* **sunn** [sun]
+* *beer* = *beēr* [bɪəʳ] → [bɪr]: **bïr**
+* *pure* = *pūre* [pjʊəʳ] → [pjʊr]: **pur**
 
-#### y
+Āg̊hter [eɪ] **ā**, **r** is pronũnced [əʳ], except in American. Đe pronunciation of **ā** is shortened tǒ [e].
 
-* **full** [full]
-* **fyll** [fill]
-* **sykk** [sick]
-* **kyss** [kiss]
+* *fare* = *fāre* [feəʳ] → [fer]: **far**
 
-##### yr
+Āg̊hter [əʊ] **ō**, **r** is pronũnced [ʳ], except in American. **ō** pronũnced lik [ɔ:] **au**.
 
-* **dyr** [dear]
-* **wyrk** [work]
-* **fyrst** [first]
-* **thyrstig** [thirsty]
-* **byrthdag** [birthday]
-* **styrr** [stir]
+* *for* = *fōr* [fɔ:ʳ] → [fɔ:r]: **for**
 
-##### ỹ
+### Short Vȏc̆als
 
-* **fỹr** [fire]
+Āg̊hter short vȏc̆al, **r** is pronũnced [ʳ] at đe end of đe wørd and mut befor consonant, except in Amerian. Short **e**, **i** and **u** ar pronũnced [ɜ:]. Short **o** befor **r** is pronũnced lik lång **o** befor **r**. Short **a** befor **r** is pronũnced like long [ɑ:] **â**.
 
-#### ů
+* *learn* = *lĕarn* [lɜ:n] → [lɜ:rn]: **lern**
+* *short* = *shŏrt* [ʃɔ:t] → [ʃɔ:rt]: **short**
+* *arm* = *ărm* [ɑ:m] → [ɑ:rm]: **arm**
 
-* **hůrs** [horse]
+Befor ȇnôđer vȏc̆al, [r] **r** is conserved, ałs wøll ałs đe pronunciation of đe short vȏc̆al.
 
-#### ȗ
+* *berrie* = *bĕrrie* [beri]: **berre**
+* *sorry* = *sŏrry* [sɒri]: **sorrig**
 
-* **sunn** = **sȗnn** [sun]
+In American đōgh, short **a** and **u** befor **r** ar allweggs pronũnced đe sam.
 
-#### ũ
-
-* **mũs** [mouse]
-* **grũnd** [ground]
-* **sũr** [sour]
-* **ũt** [out]
-* **hũs** [house]
-* **sũnd** [sound]
-  * **safe and sũnd** [safe and sound]
+* *Harry* = *Hărry* [hæri] → [heri]: **Harrï**
+* *hurry* = *hŭrry* [hʌri] → [hɜ:ri]: **hurrï**
 
 ## Consonants
 
@@ -262,6 +195,7 @@
   * **paged** [paid]
 * **ig** [I]
 * **egg** [egg]
+* **magen** [main]
 
 ...
 
@@ -376,6 +310,8 @@
 * **khirkh** [church]
 * **thakh** [thatch]
 * **khu** [chew]
+* **khalk** = **khåłk** [chalk]
+
 
 ### c
 
@@ -394,4 +330,39 @@
 * **mǒnđ** = **mǒn** [moon]
 * **sũnđ** = **sũđ** [south]
 * **mũnđ** = **mũđ** [mouth]
+
+
+
+
+---
+
+* a ă ã ā å
+* e ĕ ẽ ē ė ȇ
+* i ĭ ĩ ī ï ȋ
+* o ŏ õ ō ǒ ȏ
+* u ŭ ũ ū ů
+* ø   ø̃
+
+ȇn/ên
+twǒ
+-lïk
+w(h)en
+blød
+blȏdd
+not(t) vs. not(e)
+ag̊hter
+ne-w
+wringen
+
+* **sẽel** [soul]
+* **mẽr** = **mẽer** [more]
+* **mẽst** = **mẽest** [most]
+* **whar** [where]
+* **wær** = **wærr** [were]
+* **đar** [there]
+* *grain* = *grāin* [greɪn]: **gran**
+
+* **sword** [sword]@
+
+---
 
