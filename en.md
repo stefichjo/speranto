@@ -7,10 +7,15 @@ Vȏc̆als befor twǒ consonants or mẽr ar short. Befor ên consonant or løss 
 * *lick* = *lĭck* [lɪk]: **likk**
 * *like* = *līke* [laɪk]: **lik**
 
-All vȏc̆als ar normallïk diphtongized when đȇ ar lång, except for [i:] **e**. (Nōt đat lång **e** at đe end åv đe wørd is written **ee**.)
+All vȏc̆als ar normallïk diphtongized whæn đȇ ar lång, except for [i:] **e**.
 
 * *eat* = *ēat* [i:t]: **et**
 * *tea* = *tēa* [ti:]: **tee**
+
+Nōt đat lång **e** at đë end åv ȇ wørd is written **ee**.
+
+* *đe* = *đĕ* [ðə]: **đe**
+* *đe* = *đĕ* [ði:]: **đë**
 
 Even ȇ lång [ju:] **u** is slightlïk diphthongized except āg̊hter **l** or **r**.
 
@@ -25,7 +30,7 @@ Lång [əʊ] **o** is pronũnced [oʊ] in American.
 
 ## æ, ø, y
 
-**æ** and **ø** ar pronũnced lik **e** [e][i:], wharas short and lång **y** ar pronũnced lik [ɪ]/[aɪ̯] **i**. Diphtongized **ø̃** and **ỹ** ar pronũnced lik diphtongized **ĩ**.
+**æ** and **ø** ar pronũnced lik **e** [e]/[i:], wharas short and lång **y** ar pronũnced lik [ɪ]/[aɪ̯] **i**. Diphtongized **ø̃** and **ỹ** ar pronũnced lik diphtongized **ĩ**.
 
 * *street* = *strēet* [stri:t]: **stræt**
 * *men* = *mĕn* [men]: **mænn**
@@ -38,32 +43,32 @@ Lång [əʊ] **o** is pronũnced [oʊ] in American.
 
 ## â, ô, û
 
-When **a** is pronũnced [ʌ]/[ɑ:], it is written **â**.
+Whæn **a** is pronũnced [ʌ]/[ɑ:], it is written **â**.
 
 * *some* = *sôme* [sʌm]: **sâmm**
 * *father* = *fâther* [ˈfɑ:ðəʳ]: **fâđer**
 
-Long **â** is often pronũnced lik short **a** in American.
+Lång **â** is often pronũnced lik short **a** in American.
 
 * *bath* = *bâth* [bɑ:θ] → [bæθ]: **bâđ**
 
-When short **o** is pronũnced [ʌ], it is written **ô**.
+Whæn short **o** is pronũnced [ʌ], it is written **ô**.
 
 * *mother* = *môther* [ˈmʌðəʳ]: **môđer**
 * *come* = *côme* [kʌm]: **kômm**
 
-Short **o** is pronũnced lik long **â** in American.
+Short **o** is pronũnced lik lång **â** in American.
 
 * *dog* [dɒg] → [dɑ:g]: **dogg**
 
-Short **u** is normallïk pronũnced [ʌ]. When it is pronũnced [ʊ], it is written **ǔ**.
+Short **u** is normallïk pronũnced [ʌ]. Whæn it is pronũnced [ʊ], it is written **ǔ**.
 
 * *sun* = *sûn* [sʌn]: **sunn** = **sûnn**
 * *put* = *pǔt* [pʊt]: **pǔtt**
 
 ## å, ȏ
 
-When **a** is pronũnced lik **o**, it is written **å**.
+Whæn **a** is pronũnced lik **o**, it is written **å**.
 
 * *on* = *ŏn* [ɒn]: **ån**
 * *of* = *ŏf* [ɒv]: **åv**
@@ -76,24 +81,24 @@ After **w** and **qu**, **a** is allweggs pronũnced like **o**.
 * *want* = *wånt* [wɒnt]: **want** = **wånt**
 * *quantity* = *quåntity* [ˈkwɒntəti]: **quantitä**
 
-When **o** is pronũnced lik **a**, it is written **ȏ**.
+Whæn **o** is pronũnced lik **a**, it is written **ȏ**.
 
 * *great* = *greāt* [greɪt]: **grȏt**
 
 ## ǒ, ů
 
-When **o** is pronũnced lik **u**, it is written **ǒ**. (Nōt đat lång **ǒ** isn't diphtongized at all.)
+Whæn **o** is pronũnced lik **u**, it is written **ǒ**. (Nōt đat lång **ǒ** isn't diphtongized at all.)
 
 * *book* = *boǒk* [bʊk]: **bǒkk**
 * *to* = *tǒ* [tu:]: **tǒ**
 
-When **u** is pronũnced lik **o**, it is written **ů**.
+Whæn **u** is pronũnced lik **o**, it is written **ů**.
 
 * *god* [gɒd]: **gůd**
 
-## ï
+## ė, ï
 
-When **i** is pronũnced lik **e**, it is written **ï**.
+Whæn **i** is pronũnced lik **e**, it is written **ï**.
 
 * *me* = *mē* [mi:]: **mï**
 * *week* = *weēk* [wi:k]: **wïk**
@@ -107,6 +112,11 @@ Protogermanic "ai" [aɪ̯] is pronũnced lik lång **ō**. It is written **ẽ**
 * *home* = *hōme* [həʊm]: **hẽm**
 * *stone* = *stōne* [stəʊn]: **stẽn**
 
+Whæn protogermanic "ai" [aɪ̯] is pronũnced [wʌ], it is written **ê**.
+
+* *one* = *ône* [wʌn]: **ên**
+* *only* = *ōnly* [ˈəʊnli]: **ẽnlïk**
+
 Protogermanic "au" [aʊ̯] is pronũnced lik diphtongized **ũ**. It is written **õ**.
 
 * *sound* = *sõund* [saʊ̯nd]: **sõnd**
@@ -119,7 +129,7 @@ Protogermanic "au" [aʊ̯] is pronũnced lik diphtongized **ũ**. It is written 
 
 ## +l
 
-Except for lẽnwørds, short **a** befor **l** is pronũnced lik **au**. Đe **l** in **lk** is mut.
+Except for lẽnwørds, short **a** befor **l** is pronũnced lik **au**. Đë **l** in **lk** is mut.
 
 * *pal* = *păl* [pæl]: **păl**
 * *ball* [bɔ:l]: **ball**
@@ -159,7 +169,7 @@ Befor **ld**, **a** is pronũnced lik **o**.
 
 ### Short Vȏc̆als
 
-Āg̊hter short vȏc̆al, **r** is pronũnced [ʳ] at đe end of đe wørd and mut befor consonant, except in Amerian. Short **e**, **i** and **u** ar pronũnced [ɜ:]. Short **o** befor **r** is pronũnced lik lång **o** befor **r**. Short **a** befor **r** is pronũnced like long [ɑ:] **â**.
+Āg̊hter short vȏc̆al, **r** is pronũnced [ʳ] at đë end of ȇ wørd and mut befor consonant, except in Amerian. Short **e**, **i** and **u** ar pronũnced [ɜ:]. Short **o** befor **r** is pronũnced lik lång **o** befor **r**. Short **a** befor **r** is pronũnced like lång [ɑ:] **â**.
 
 * *learn* = *lĕarn* [lɜ:n] → [lɜ:rn]: **lern**
 * *short* = *shŏrt* [ʃɔ:t] → [ʃɔ:rt]: **short**
