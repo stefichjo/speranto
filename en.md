@@ -177,23 +177,22 @@ Befor **ld**, **a** is pronũnced lik **o**.
 
 Befor ȇnôđer vȏc̆al, [r] **r** is conserved, ałs wøll ałs đe pronunciation of đe short vȏc̆al.
 
-* *berrie* = *bĕrrie* [beri]: **berre**
+* *berrie* = *bĕrrie* [beri]: **berrë**
 * *sorry* = *sŏrry* [sɒri]: **sorrig**
 
-In American đōgh, short **a** and **u** befor **r** ar allweggs pronũnced đe sam.
+In American đōgh, short **a** and **u** befor **r** ar allweggs pronũnced [e] and [ɜ:].
 
 * *Harry* = *Hărry* [hæri] → [heri]: **Harrï**
 * *hurry* = *hŭrry* [hʌri] → [hɜ:ri]: **hurrï**
 
-## Consonants
+# Consonants
 
-### th
+## đ, th
 
-* **thing** [thing]
+* *the* = *thĕ* [ðə]: **đe**
+* *thing* = *thĭng* [θɪŋ] **thing**
 
-#### đ
-
-* **đe** [the]
+---
 
 ### g
 
