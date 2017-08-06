@@ -1,13 +1,13 @@
 # Orthographï
 
-# Vȏc̆als
+# Võc̆als
 
-Vȏc̆als befor twǒ consonants or mẽer ar short. Befor ên consonant or løss đȇ ar lång.
+Võc̆als befor twǒ consonants or mẽer ar short. Befor ên consonant or løss đȇ ar lång.
 
 * *lĭck* [lɪk]: **likk**
 * *līke* [laɪk]: **lik**
 
-All vȏc̆als ar normallïg diphthongized whæn đȇ ar lång, except for [i:] **e**.
+All võc̆als ar normallïk̆ diphthongized whæn đȇ ar lång, except for [i:] **e**.
 
 * *ēat* [i:t]: **et**
 * *tēa* [ti:]: **tee**
@@ -17,7 +17,7 @@ Nōt đat lång **e** at đē end åv ȇ wørd is written **ee**.
 * *thĕ* [ðə]: **đe**
 * *thē* [ði:]: **đē**
 
-Even ȇ lång [ju:] **u** is slightlïg diphthongized except āg̊hter **l** or **r**.
+Even ȇ lång [ju:] **u** is slightlïk̆ diphthongized except âg̊hter **l** or **r**.
 
 * *yoū* [ju:]: **u**
 * *glūe* [glu:]: **glu**
@@ -39,7 +39,7 @@ Lång [əʊ] **o** is pronũnced [oʊ] in American.
 * *dēar* [di:r]: **dyr**
 * *sĭn* [sɪn]: **synn**
 * *līght* [laɪ̯t]: **lỹght**
-* *ȇye* [aɪ̯]: **ø̃g**@
+* *eȳe* [aɪ̯]: **ø̃g**
 
 ## â, ô, û
 
@@ -61,7 +61,7 @@ Short **o** is pronũnced lik lång **â** in American.
 
 * *dŏg* [dɒg] → [dɑ:g]: **dogg**
 
-Short **u** is normallïg pronũnced [ʌ]. Whæn it is pronũnced [ʊ], it is written **ǔ**.
+Short **u** is normallïk̆ pronũnced [ʌ]. Whæn it is pronũnced [ʊ], it is written **ǔ**.
 
 * *sûn* [sʌn]: **sunn** = **sûnn**
 * *pǔt* [pʊt]: **pǔtt**
@@ -76,7 +76,7 @@ Whæn **a** is pronũnced lik **o**, it is written **å**.
 * *sŏng* [sɒŋ]: **sång**
 * *wrŏng* [rɒŋ]: **wrång**
 
-After **w** and **qu**, **a** is allweggs pronũnced like **o**.
+Âg̊hter **w** and **qu**, **a** is allweggs pronũnced like **o**.
 
 * *wånt* [wɒnt]: **want** = **wånt**
 * *quåntity* [ˈkwɒntəti]: **quantitä**
@@ -115,7 +115,7 @@ Protogermanic "ai" [aɪ̯] is pronũnced lik lång **ō**. It is written **ẽ**
 Whæn protogermanic "ai" [aɪ̯] is pronũnced [wʌ], it is written **ê**.
 
 * *ône* [wʌn]: **ên**
-* *ōnly* [ˈəʊnli]: **ẽnlïg**
+* *ōnly* [ˈəʊnli]: **ẽnlïk̆**
 
 Protogermanic "au" [aʊ̯] is pronũnced lik diphthongized **ũ**. It is written **õ**.
 
@@ -123,7 +123,7 @@ Protogermanic "au" [aʊ̯] is pronũnced lik diphthongized **ũ**. It is written
 
 ## +u
 
-Đe diphthong **au** is monophthongized tǒ [ɔ:]. Normallïg, it is pronũnced lik lång **â** in American.
+Đe diphthong **au** is monophthongized tǒ [ɔ:]. Normallïk̆, it is pronũnced lik lång **â** in American.
 
 * *pause* [pɔ:z] → [pɑ:z]: *paus*
 
@@ -147,35 +147,35 @@ Befor **ld**, **a** is pronũnced lik **o**.
 
 ## +r
 
-### Lång Vȏc̆als and Diphthongs
+### Lång Võc̆als and Diphthongs
 
-Āg̊hter [aɪ] **ī** and [aʊ] **ũ**, **r** is pronũnced [əʳ]. It is pronũnced [ɚ] in American.
+Âg̊hter [aɪ] **ī** and [aʊ] **ũ**, **r** is pronũnced [əʳ]. It is pronũnced [ɚ] in American.
 
 * *tīre* [taɪəʳ] → [taɪɚ]: **tir**
 * *soũr* [saʊəʳ] → [saʊɚ]: **sũr**
 
-Āg̊hter [i:] **ē** and [ju:] **ū**, **r** is pronũnced [əʳ], except in American. Đe pronunciation of **ē** and **ū** is shortened tǒ [ɪ] and [jʊ].
+Âg̊hter [i:] **ē** and [ju:] **ū**, **r** is pronũnced [əʳ], except in American. Đe pronunciation of **ē** and **ū** is shortened tǒ [ɪ] and [jʊ].
 
 * *beēr* [bɪəʳ] → [bɪr]: **bïr**
 * *pūre* [pjʊəʳ] → [pjʊr]: **pur**
 
-Āg̊hter [eɪ] **ā**, **r** is pronũnced [əʳ], except in American. Đe pronunciation of **ā** is shortened tǒ [e].
+Âg̊hter [eɪ] **ā**, **r** is pronũnced [əʳ], except in American. Đe pronunciation of **ā** is shortened tǒ [e].
 
 * *fāre* [feəʳ] → [fer]: **far**
 
-Āg̊hter [əʊ] **ō**, **r** is pronũnced [ʳ], except in American. **ō** pronũnced lik [ɔ:] **au**.
+Âg̊hter [əʊ] **ō**, **r** is pronũnced [ʳ], except in American. **ō** pronũnced lik [ɔ:] **au**.
 
 * *fōr* [fɔ:ʳ] → [fɔ:r]: **for**
 
-### Short Vȏc̆als
+### Short Võc̆als
 
-Āg̊hter short vȏc̆al, **r** is pronũnced [ʳ] at đē end of ȇ wørd and mut befor consonant, except in Amerian. Short **e**, **i** and **u** ar pronũnced [ɜ:]. Short **o** befor **r** is pronũnced lik lång **o** befor **r**. Short **a** befor **r** is pronũnced like lång [ɑ:] **â**.
+Âg̊hter short võc̆al, **r** is pronũnced [ʳ] at đē end of ȇ wørd and mut befor consonant, except in Amerian. Short **e**, **i** and **u** ar pronũnced [ɜ:]. Short **o** befor **r** is pronũnced lik lång **o** befor **r**. Short **a** befor **r** is pronũnced like lång [ɑ:] **â**.
 
 * *lĕarn* [lɜ:n] → [lɜ:rn]: **lern**
 * *shŏrt* [ʃɔ:t] → [ʃɔ:rt]: **short**
 * *ărm* [ɑ:m] → [ɑ:rm]: **arm**
 
-Befor ȇnôđer vȏc̆al, [r] **r** is conserved, ałs wøll ałs đe pronunciation of đe short vȏc̆al.
+Befor ȇnôđer võc̆al, [r] **r** is conserved, ałs wøll ałs đe pronunciation of đe short võc̆al.
 
 * *bĕrrie* [beri]: **berrë**
 * *sŏrry* [sɒri]: **sorrig**
@@ -187,13 +187,14 @@ In American đōgh, short **a** and **u** befor **r** ar allweggs pronũnced [e]
 
 ## ĕ
 
+Đe **e** in endings disappärs.
+
 * *hĕard* [hɜ:d]: **hørred** = **hørrĕd** = **hørr'd** = **hørd**
 * *bōrn* [bɔ:n]: **boren** = **borĕn** = **bor'n** = **born**
 * *seēn* [si:n]: **sehen** = **sehĕn** = **seh'n** = **sehn**
 * *sōul* [səʊl]: **sẽel** = **sẽĕl** = **sẽ'l** = **sẽl**
 * *mōre* [mɔ:ʳ]: **mẽer** = **mẽĕr** = **mẽ'r** = **mẽr**
 * *mōst* [məʊst]: **mẽest** = **mẽĕst** = **mẽ'st** = **mẽst**
-
 
 # Consonants
 
@@ -212,17 +213,134 @@ In American đōgh, short **a** and **u** befor **r** ar allweggs pronũnced [e]
 
 ## g
 
-* *dāy* []: **dag**
-* *māy* []: **mag**
+Âg̊hter lång võc̆als, **g** is mut.
+
+* *dāy* [deɪ]: **dag** = **dāğ**
+* *nāil* [neɪl]: **nagel** = **nāğel**
+* *ōwn* [əʊn]: **ẽgen** = **ẽğen**
+* *fõwl* [faʊl]: **fũgel** = **fũğel**
+* *bōw* [bəʊ]: **bog** = **bōğ**
+* *bõw* [baʊ]: **bõg** = **bõğ**
+* *dōuğh* [dəʊ]: **dẽg** = **dẽğ**
+* *window* [ˈwɪndəʊ]: **windog** = **windōğ**
+* *līe* [laɪ]: **lỹg** = **lỹğ**
+  * *līar* [ˈlaɪəʳ]: **lỹger** = **lỹğer**
+* *lȳe* [laɪ]: **lø̃g** = **lø̃ğ**
+* *rȳe* [raɪ]: **rỹg** = **rỹğ**
+
+### ğ
+
+Whæn **g** is mut in ôđer positions, it is written **ğ**.
+
+* *ălīke* [əˈlaɪk]: **ğelik**
+
+**a** befor mut **ğ** is pronũnced lik **au**.
+
+* *saw* [sɔ:]: **sağ** = **sah**
+* *awe* [ɔ:]: **ağ** = **ah**
+
+### ġ
+
+Âg̊hter short **e**, **g** is pronũnced [ɪ] and written **ġ**.
+
+* *wāy* [weɪ]: **weġ** = **wegg**
+* *sāil* [seɪl]: **seġel** = **seggel**
+* *rāin* [reɪn]: **reġen** = **reggen**
+
+Whæn **g** is pronũnced [ɪ] in ôđer positions, it is written **ġ**.
+
+* *yĕsterdāy* [ˈjestədeɪ]: **ġesterdag**
+
+### g̊
+
+Âg̊hter **l** and **r**, **g** is pronũnced [əʊ] and written **g̊**.
+
+* *follow* [ˈfɒləʊ]: **folg̊**
+* *sorrow* [ˈsɒrəʊ]: **sorg̊**
+* *tǒmorrow* [təˈmɒrəʊ]: **tǒmorg̊**
+
+## h
+
+Whæn protogermanic "h"* is mut, it is written **h**.
+
+* *thōuğh* [ðəʊ]: **đōh** = **đōğh**
+  
+**a** befor **h** is pronũnced lik **au**.
+
+* *seē* [si:]: **seh**
+  * *saw* [sɔ:]: **sah**
+  * *seēn* [si:n]: **sehen**
+
+### gh
+
+Whæn protogermanic "h"* is pronũnced [f], it is written **gh**.
+
+* *rôugh* [rʌf]: **rugh**
+* *tôugh* [tʌf]: **tugh**
 
 
-* *nāil* []: **nagel**
-* **hagel** [hāil]
-* **pag** [pāy]
-  * **paged** [pāid]
-* **ig** [Ī]
-* **egg** [egg]
-* **magen** [māin]
+
+---
+
+...
+
+
+## ght
+
+Whæn protogermanic "g" or "h"* is assimilated wiđ **t**, it is mut and written **gh**. **i** befor **ght** is allweġs lång.
+
+* *nīght* [naɪt]: **night** = **nīğht**
+* *seē* [si:]: **seh**
+  * *sīght* [saɪt]: **sight** = **sīğht**
+
+**a** befor **ght** is pronũnced lik **au**.
+
+* *brĭng* [brɪŋ]: **bring**
+  * *brought* [brɔ:t]: **braght** = **brağht**
+* *thĭnk* [θɪŋk]: **think**
+  * *thought* [θɔ:t]: **thaght** = **brağht**
+* *tēach* [ti:tʃ]: **tēkh**
+  * *taught* [tɔ:t]: **taght** = **tağht**
+
+...
+
+* *knight* [naɪt]: **knight**
+* *light* [laɪt]: **light**
+* *bright* [braɪt]: **bright**
+* *fight* [faɪt]: **fight**
+* *plight* [plaɪt]: **plight**
+* *right* [raɪt]: **right**
+* *might* [maɪt]: **might**
+* *slight* [slaɪt]: **slight**
+* *slay* [sleɪ]: **slag**
+  * *slew* [slu:]: **slug**
+  * *slain* [sleɪn]: **slagen**
+  * *slaughter* [ˈslɔ:təʳ]: **slaghter**
+* *fly* [flaɪ]: **flig**
+  * *flew* [flu:]: **flug**
+  * *flown* [fləʊn]: **flogen**
+  * *flight* [flaɪt]: **flight**
+
+Whæn **gh** in **ght** is pronũnced [f], it is written **g̊h**.
+
+* *âg̊hter* [ˈɑ:ftəʳ]: **âg̊hter**
+
+---
+
+### k̆
+
+* *Ī* [aɪ]: **ik̆**
+* *-ly* [li]: **-lïk̆**
+
+* *lâugh* [lɑ:f]: **lâk̆h** = **lâgh**
+* *lâugh* [ˈlɑ:ftəʳ]: **lâk̆hter** = **lâg̊hter**
+
+* *cŏugh* [kɒf]: **kok̆h** = **kogh**
+
+### ḡ
+
+* *ĕgg* [eg]: **eḡg**
+
 
 
 ---
@@ -230,67 +348,10 @@ In American đōgh, short **a** and **u** befor **r** ar allweggs pronũnced [e]
 ### g
 
 
-...
-
-* **-lïg** [-ly]
-* **lỹg** [lie]
-  * **lỹger** [liar]
-* **lø̃g** [lye]
-* **ø̃g** [eye]
-  * **windog** [window]
-* **reġenbog** [rainbow]
-
-...
-
-* **slag** [slay]
-  * **slǒg** = **slug** [slew]
-  * **slagen** [slain]
-* **flig** [fly]
-  * **flǒg** = **flug** [flew]
-  * **flogen** [flown]
-  * **flight** [flight]
-* **ẽgen** [own]
-
-#### gh
-
-* **đogh** [though]
-
-...
-
-* **night** [night]
-* **knight** [knight]
-* **light** [light]
-* **bright** [bright]
-* **fight** [fight]
-* **plight** [plight]
-* **right** [right]
-* **might** [might]
-
-...
-
-* **bring** [bring]
-  * **braght** [braught]
-* **think** [think]
-  * **thaght** [thought]
-* **tēkh** [teach]
-  * **taght** [taught]
-
-...
 
 * **lỹght** [light]
 * **fyr** [fear]
   * **frỹght** [fright]
-
-#### ġ
-
-* **seġel** = **seġġel** [sail]
-* **weġ** = **weġġ** [way]
-* **reġen** = **reġġen** [rain]
-* **breġen** = **breġġen** [brain]
-* **preġ** = **preġġ** [pray]
-
-...
-
 * **lig** [lie]
   * **lag** [lay]
   * **leġen** [lain]
@@ -302,18 +363,7 @@ In American đōgh, short **a** and **u** befor **r** ar allweggs pronũnced [e]
 
 * **seġ** [say]
   * **seġhed** [said]
-
-#### g̊
-
-* **sag̊** [saw]
-* **bog̊** [bow]
-* **fůg̊el** = **fũgel** [fowl]
-
-##### g̊h
-
-* **rug̊h** [rough]
-* **tug̊h** [tough]
-* **lag̊h** [laugh]
+* *pray* []: **preġ**
 
 ### ĝ
 
@@ -324,12 +374,6 @@ In American đōgh, short **a** and **u** befor **r** ar allweggs pronũnced [e]
 * **sleĝ** = **sleĝĝ** [sledge]
 * **heĝ** = **heĝĝ** [hedge]
 
-### h
-
-* **seh** [see]
-  * **sah** [saw]
-  * **sehen** [seen]
-  * **sight** [sight]
 
 ### k
 
@@ -375,15 +419,12 @@ In American đōgh, short **a** and **u** befor **r** ar allweggs pronũnced [e]
 * o ŏ õ ō ǒ ȏ
 * u ŭ ũ ū ů
 * ø   ø̃
+*       ȳ
 
-ȇn/ên
-twǒ
--lïg
 w(h)en
 blød
 blȏdd
 not(t) vs. not(e)
-ag̊hter
 ne-w
 wringen
 
@@ -391,8 +432,6 @@ wringen
 * **wær** = **wærr** [were]
 * **đar** [there]
 * *grain* = *grāin* [greɪn]: **gran**
-
-* **sword** [sword]@
 
 ---
 
