@@ -76,7 +76,7 @@ Whæn **a** is pronũnced lik **o**, it is written **å**.
 * *sŏng* [sɒŋ]: **sång**
 * *wrŏng* [rɒŋ]: **wrång**
 
-Âg̊hter **w** and **qu**, **a** is allweggs pronũnced like **o**.
+Âg̊hter **w** and **qu**, **a** is allweġs pronũnced like **o**.
 
 * *wånt* [wɒnt]: **want** = **wånt**
 * *quåntity* [ˈkwɒntəti]: **quantitä**
@@ -180,7 +180,7 @@ Befor ȇnôđer võc̆al, [r] **r** is conserved, ałs wøll ałs đe pronunciat
 * *bĕrrie* [beri]: **berrë**
 * *sŏrry* [sɒri]: **sorrig**
 
-In American đōgh, short **a** and **u** befor **r** ar allweggs pronũnced [e] and [ɜ:].
+In American đōgh, short **a** and **u** befor **r** ar allweġs pronũnced [e] and [ɜ:].
 
 * *Hărry* [hæri] → [heri]: **Harrï**
 * *hŭrry* [hʌri] → [hɜ:ri]: **hurrï**
@@ -267,9 +267,41 @@ Whæn **g** is pronũnced [ɪ] in ôđer positions, it is written **ġ**.
 * *sorrow* [ˈsɒrəʊ]: **sorg̊**
 * *tǒmorrow* [təˈmɒrəʊ]: **tǒmorg̊**
 
-### ght
+### ĝ
 
-Whæn **g** is assimilated tǒ **t**, it is mut and written **gh**. **i** befor **ght** is allweġs lång.
+* *brĭdge* []: **bryĝ** = **bryĝg**
+* *rĭdge* []: **ryĝ** = **ryĝg**
+* *mĭdge* []: **myĝ** = **myĝg**
+* *ĕdge* [eʤ] **eĝ** = **eĝg**
+* *hĕdge* [heʤ]: **heĝ** = **heĝg**
+* *slĕdge* [sleʤ]: **sleĝ** = **sleĝg**
+
+### ḡ
+
+* *bĕg* [beg]: **beḡg**
+* *ĕgg* [eg]: **eḡg**
+
+## h
+
+Whæn protogermanic "h"* is mut, it is written **h**.
+
+* *thōuğh* [ðəʊ]: **đōh** = **đōğh**
+  
+**a** befor **h** is pronũnced lik **au**.
+
+* *seē* [si:]: **seh**
+  * *saw* [sɔ:]: **sah**
+  * *seēn* [si:n]: **sehen**
+
+## gh
+
+Whæn protogermanic "g" or "h"* is pronũnced [f], it is written **gh**.
+
+* *ēnôugh* [ɪˈnʌf]: **ğēnôgh**
+* *rôugh* [rʌf]: **rugh**
+* *tôugh* [tʌf]: **tugh**
+
+**gh** befor **t** is allweġs mut. **i** befor **ght** is allweġs lång.
 
 * *nīğht* [naɪt]: **night** = **nīğht**
 * *seē* [si:]: **seh**
@@ -283,8 +315,10 @@ Whæn **g** is assimilated tǒ **t**, it is mut and written **gh**. **i** befor 
   * *brȏuğht* [brɔ:t]: **braght** = **brağht**
 * *thĭnk* [θɪŋk]: **think**
   * *thȏuğht* [θɔ:t]: **thaght** = **brağht**
-* *tēach* [ti:tʃ]: **tēkh**
+* *tēach* [ti:tʃ]: **tēꝁ**
   * *tauğht* [tɔ:t]: **taght** = **tağht**
+* *nauğht* [nɔ:t]: **naght**
+  * *nŏt* [nɒt]: **någht**
 
 ...
 
@@ -308,32 +342,18 @@ Whæn **g** is assimilated tǒ **t**, it is mut and written **gh**. **i** befor 
   * *flown* [fləʊn]: **flogen**
   * *flight* [flaɪt]: **flight**
 
-#### g̊ht
+### g̊h
 
 Whæn **gh** in **ght** is pronũnced [f], it is written **g̊h**.
 
 * *âg̊hter* [ˈɑ:ftəʳ]: **âg̊hter**
 
-## h
-
-Whæn protogermanic "h"* is mut, it is written **h**.
-
-* *thōuğh* [ðəʊ]: **đōh** = **đōğh**
-  
-**a** befor **h** is pronũnced lik **au**.
-
-* *seē* [si:]: **seh**
-  * *saw* [sɔ:]: **sah**
-  * *seēn* [si:n]: **sehen**
-
-### gh
-
-Whæn protogermanic "h"* is pronũnced [f], it is written **gh**.
-
-* *rôugh* [rʌf]: **rugh**
-* *tôugh* [tʌf]: **tugh**
-
 ## k
+
+* *cat* []: **katt**
+* *came* []: **kam**
+* *cole* []: **kol**
+* *make* []: **mak**
 
 ### k̆
 
@@ -341,45 +361,18 @@ Whæn protogermanic "h"* is pronũnced [f], it is written **gh**.
 * *-ly* [li]: **-lïk̆**
 
 * *lâugh* [lɑ:f]: **lâk̆h** = **lâgh**
-* *lâugh* [ˈlɑ:ftəʳ]: **lâk̆hter** = **lâg̊hter**
+  * *lâugh* [ˈlɑ:ftəʳ]: **lâk̆hter** = **lâghter** = **lâg̊hter**
 
 * *cŏugh* [kɒf]: **kok̆h** = **kogh**
 
-### ḡ
+### ꝁ
 
-* *ĕgg* [eg]: **eḡg**
-
-
-
----
-
-
-### ĝ
-
-* **bryĝ** = **bryĝĝ** [bridge]
-* **ryĝ** = **ryĝĝ** [ridge]
-* **myĝ** = **myĝĝ** [midge]
-* **eĝ** = **eĝĝ** [edge]
-* **sleĝ** = **sleĝĝ** [sledge]
-* **heĝ** = **heĝĝ** [hedge]
-
+* *church* [tʃɜ:tʃ]: **ꝁirꝁ** = **khirkh**
+* *thatch* [θætʃ]: **thaꝁ** = **thakh**
+* *chew* [tʃu:]: **ꝁu** = **khu**
+* *chalk* [tʃɔ:k]: **ꝁalk** = **khalk** = **khałk**
 
 ---
-
-### k
-
-* **katt** [cat]
-* **kam** [came]
-* **kol** [cole]
-* **mak** [make]
-
-#### kh
-
-* **khirkh** [church]
-* **thakh** [thatch]
-* **khu** [chew]
-* **khalk** = **khåłk** [chalk]
-
 
 ### c
 
@@ -399,25 +392,7 @@ Whæn protogermanic "h"* is pronũnced [f], it is written **gh**.
 * **sũnđ** = **sũđ** [south]
 * **mũnđ** = **mũđ** [mouth]
 
-
-
-
 ---
-
-* a ă ã ā å
-* e ĕ ẽ ē ė ȇ
-* i ĭ ĩ ī ï ȋ
-* o ŏ õ ō ǒ ȏ
-* u ŭ ũ ū ů
-* ø   ø̃
-*       ȳ
-
-w(h)en
-blød
-blȏdd
-not(t) vs. not(e)
-ne-w
-wringen
 
 * **whar** [where]
 * **wær** = **wærr** [were]
@@ -425,5 +400,6 @@ wringen
 * *grain* = *grāin* [greɪn]: **gran**
 * *pray* []: **preġ**
 
----
+* *bloôd* [blʌd]: **blôdd**
+* *bleēd* [bli:d]: **blød**
 
