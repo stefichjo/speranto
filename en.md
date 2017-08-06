@@ -246,6 +246,14 @@ Whæn **g** is mut in ôđer positions, it is written **ğ**.
 * *wāy* [weɪ]: **weġ** = **wegg**
 * *sāil* [seɪl]: **seġel** = **seggel**
 * *rāin* [reɪn]: **reġen** = **reggen**
+* *lie* [laɪ]: **lig**
+  * *lay* [leɪ]: **lag**
+  * *lain* [leɪn]: **leġen**
+* *lay* [leɪ]: **leġ**
+  * *laid* [leɪ]: **leġed**
+  * *layer* [ˈleɪəʳ]: **leġer**
+* *say* [seɪ]: **seġ**
+  * *said* [sed]: **seğğed**
 
 Whæn **g** is pronũnced [ɪ] in ôđer positions, it is written **ġ**.
 
@@ -258,6 +266,53 @@ Whæn **g** is pronũnced [ɪ] in ôđer positions, it is written **ġ**.
 * *follow* [ˈfɒləʊ]: **folg̊**
 * *sorrow* [ˈsɒrəʊ]: **sorg̊**
 * *tǒmorrow* [təˈmɒrəʊ]: **tǒmorg̊**
+
+### ght
+
+Whæn **g** is assimilated tǒ **t**, it is mut and written **gh**. **i** befor **ght** is allweġs lång.
+
+* *nīğht* [naɪt]: **night** = **nīğht**
+* *seē* [si:]: **seh**
+  * *sīğht* [saɪt]: **sight** = **sīğht**
+
+**a** befor **ght** is pronũnced lik **au**.
+
+* *ōwe* [əʊ]: **åg**
+  * *ȏuğht* [ɔ:t]: **aght**
+* *brĭng* [brɪŋ]: **bring**
+  * *brȏuğht* [brɔ:t]: **braght** = **brağht**
+* *thĭnk* [θɪŋk]: **think**
+  * *thȏuğht* [θɔ:t]: **thaght** = **brağht**
+* *tēach* [ti:tʃ]: **tēkh**
+  * *tauğht* [tɔ:t]: **taght** = **tağht**
+
+...
+
+* *knight* [naɪt]: **knight**
+* *light* [laɪt]: **light**
+* *light* [laɪt]: **lỹght**
+* *bright* [braɪt]: **bright**
+* *fight* [faɪt]: **fight**
+* *plight* [plaɪt]: **plight**
+* *right* [raɪt]: **right**
+* *might* [maɪt]: **might**
+* *slight* [slaɪt]: **slight**
+* *fear* [fɪəʳ]: **fyr**
+  * *fright* [fraɪt]: **frỹght**
+* *slay* [sleɪ]: **slag**
+  * *slew* [slu:]: **slug**
+  * *slain* [sleɪn]: **slagen**
+  * *slaughter* [ˈslɔ:təʳ]: **slaghter**
+* *fly* [flaɪ]: **flig**
+  * *flew* [flu:]: **flug**
+  * *flown* [fləʊn]: **flogen**
+  * *flight* [flaɪt]: **flight**
+
+#### g̊ht
+
+Whæn **gh** in **ght** is pronũnced [f], it is written **g̊h**.
+
+* *âg̊hter* [ˈɑ:ftəʳ]: **âg̊hter**
 
 ## h
 
@@ -278,54 +333,7 @@ Whæn protogermanic "h"* is pronũnced [f], it is written **gh**.
 * *rôugh* [rʌf]: **rugh**
 * *tôugh* [tʌf]: **tugh**
 
-
-
----
-
-...
-
-
-## ght
-
-Whæn protogermanic "g" or "h"* is assimilated wiđ **t**, it is mut and written **gh**. **i** befor **ght** is allweġs lång.
-
-* *nīght* [naɪt]: **night** = **nīğht**
-* *seē* [si:]: **seh**
-  * *sīght* [saɪt]: **sight** = **sīğht**
-
-**a** befor **ght** is pronũnced lik **au**.
-
-* *brĭng* [brɪŋ]: **bring**
-  * *brought* [brɔ:t]: **braght** = **brağht**
-* *thĭnk* [θɪŋk]: **think**
-  * *thought* [θɔ:t]: **thaght** = **brağht**
-* *tēach* [ti:tʃ]: **tēkh**
-  * *taught* [tɔ:t]: **taght** = **tağht**
-
-...
-
-* *knight* [naɪt]: **knight**
-* *light* [laɪt]: **light**
-* *bright* [braɪt]: **bright**
-* *fight* [faɪt]: **fight**
-* *plight* [plaɪt]: **plight**
-* *right* [raɪt]: **right**
-* *might* [maɪt]: **might**
-* *slight* [slaɪt]: **slight**
-* *slay* [sleɪ]: **slag**
-  * *slew* [slu:]: **slug**
-  * *slain* [sleɪn]: **slagen**
-  * *slaughter* [ˈslɔ:təʳ]: **slaghter**
-* *fly* [flaɪ]: **flig**
-  * *flew* [flu:]: **flug**
-  * *flown* [fləʊn]: **flogen**
-  * *flight* [flaɪt]: **flight**
-
-Whæn **gh** in **ght** is pronũnced [f], it is written **g̊h**.
-
-* *âg̊hter* [ˈɑ:ftəʳ]: **âg̊hter**
-
----
+## k
 
 ### k̆
 
@@ -345,25 +353,6 @@ Whæn **gh** in **ght** is pronũnced [f], it is written **g̊h**.
 
 ---
 
-### g
-
-
-
-* **lỹght** [light]
-* **fyr** [fear]
-  * **frỹght** [fright]
-* **lig** [lie]
-  * **lag** [lay]
-  * **leġen** [lain]
-* **leġ** [lay]
-  * **leġed** [laid]
-  * **leġer** [layer]
-
-##### ġh
-
-* **seġ** [say]
-  * **seġhed** [said]
-* *pray* []: **preġ**
 
 ### ĝ
 
@@ -374,6 +363,8 @@ Whæn **gh** in **ght** is pronũnced [f], it is written **g̊h**.
 * **sleĝ** = **sleĝĝ** [sledge]
 * **heĝ** = **heĝĝ** [hedge]
 
+
+---
 
 ### k
 
@@ -432,6 +423,7 @@ wringen
 * **wær** = **wærr** [were]
 * **đar** [there]
 * *grain* = *grāin* [greɪn]: **gran**
+* *pray* []: **preġ**
 
 ---
 
