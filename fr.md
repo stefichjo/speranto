@@ -1,4 +1,4 @@
-# FR
+# Orthographĭă
 
 * *part* [paʀ]: **parte** = **par**
 * *tête* [tɛt]: **testa** = **tet**
@@ -6,24 +6,42 @@
 * *port* [pɔʀ]: **porto** = **por**
 * *tour* [tuʀ]: **turre** = **tur**
 * *qui* [ki]: **quis** = **qui**
-* *chien* [ʃjɛ̃]: **ĉãne** = **ĉãn**
+* *chien* [ʃjɛ̃]: **ĉãne** = **ĉãñ**
 * *soir* [swaʀ]: **sẽra** = **sẽr**
 * *pois* [pwa]: **pĩso** = **pĩ**
 * *lieu* [ljø]: **lõco** = **lõ**
-* *point* [pwɛ̃]: **pũncto** = **pũn**
+* *point* [pwɛ̃]: **pũncto** = **pũñ**
 * *mer* [mɛʀ]: **märe** = **mär**
+* *mère* [mɛʀ]: **mädre** = **mär**
+* *père* [pɛʀ]: **pädre** = **pär**
+* *pair* [pɛʀ]: **päre** = **pär**
+* *mais* [mɛ]: **mäs** = **mä**
 * *sœur* [sœʀ]: **söra** = **sör**
+* *fleur* [flœʀ]: **flöre** = **flör**
 * *tu* [ty]: **tü**
+* *mur* [myʀ]: **mür**
+
+## -äre
+
+* *compter* [kɔ͂te]: **contäre** = **contär** = **coñtär**
+
+## s
+
+* *être* [ɛtʀ]: **stăre** = **ŝtăre** = **etr**
+
+---
 
 ...
 
 * *mai* [mɛ]: **mai** = **mä**
 * *or* [ɔʀ]: **auro** = **or**
-* *Europe* [øʀɔp]: **Europa** = **Europ**
+* *Europe* [øʀɔp]: **Europa** = **Örop**
+* *pause* [poz]: **pausa** = **pos**
 
 ...
-* *bon* [bɔ̃]: **bono** = **bon**
-* *bonne* [bɔn]: **bona** = **bonn**
+
+* *bon* [bɔ̃]: **bono** = **boñ**
+* *bonne* [bɔn]: **bona** = **bon**
 
 ...
 
@@ -36,16 +54,26 @@
 
 ...
 
-* *champ* [ʃɑ̃]: **ĉampo** = **ĉam**
+* *champ* [ʃɑ̃]: **ĉampo** = **ĉam̃**
 * *nuit* [nɥi]: **nǒċte** = **nǒċ** = **nui**
 * *cheval* [ʃval]: **ĉăballo** = **ĉval**
 * *chevaux* [ʃvo]: **ĉăballos** = **ĉvałs**
 
 ...
 
-* *changer* [ʃɑ͂ʒe]: **ĉambĭäre** = **ĉamĭä** = **ĉanjä**
-* *avoir* [avwaʀ]: **habẽre** = **havẽr**
+* *aimer* [eme]: **ämäre** = **ämär**
+* *changer* [ʃɑ͂ʒe]: **ĉambĭäre** = **ĉamĭär** = **ĉanjär** = **ĉañjär**
+* *avoir* [avwaʀ]: **habẽre** = **avẽr**
 
 ...
 
 * *jour* [ʒuʀ]: **dĭǒrno** = **jǒr**
+* *pied* [pje]: **pẽde** = **pëde** = **pë**
+* *chance* [ʃɑ͂s]: **ĉadĕnce** = **ĉans** = **ĉañs**
+* *mars* [maʀs]: **martıo** = **mars**
+* *sûr* [syʀ]: **sĕcür** = **sür**
+* *scène* [sɛn]: **scenă** = **sen**
+* *même* [mɛm]: **medipsimo** = **mem**
+* *université* [ynivɛʀsite]: **üniversität**
+* *heur* [œʀ]: **höra** = **ör**
+
