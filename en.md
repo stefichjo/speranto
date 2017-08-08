@@ -5,7 +5,7 @@
 Võc̆als befor twǒ consonants or mẽer ar short. Befor ên consonant or løss đȇ ar lång.
 
 * *lĭck* [lɪk]: **likk**
-* *līke* [laɪk]: **lik**
+* *līke* [laɪ̯k]: **lik**
 
 All võc̆als ar normallïg diphthongized whæn đȇ ar lång, except for [i:] **e**.
 
@@ -22,20 +22,21 @@ Even ȇ lång [ju:] **u** is slightlïg diphthongized except âg̊hter **l** or 
 * *yoū* [ju:]: **u**
 * *glūe* [glu:]: **glu**
 * *trūe* [tru:]: **tru**
-* *roǒm* [ru:m]: **rum**
+* *rǒom* [ru:m]: **rum**
 
-Lång [əʊ] **o** is pronũnced [oʊ] in American.
+Lång [əʊ̯] **o** is pronũnced [oʊ̯] in American.
 
-* *sō* [səʊ] → [soʊ]: **so**
+* *sō* [səʊ̯] → [soʊ̯]: **so**
 
 ## æ, ø, y
 
-**æ** and **ø** ar pronũnced lik **e** [e]/[i:], wharas short and lång **y** ar pronũnced lik [ɪ]/[aɪ̯] **i**. Diphthongized **ø̃** and **ỹ** ar pronũnced lik diphthongized **ĩ**.
+**æ** and **ø** ar pronũnced lik **e** [e]/[i:], wharas short and lång **y** ar pronũnced lik [ɪ]/[aɪ̯̯] **i**. Diphthongized **ø̃** and **ỹ** ar pronũnced lik diphthongized **ĩ**.
 
 * *strēet* [stri:t]: **stræt**
 * *mĕn* [men]: **mænn**
 * *fēel* [fi:l]: **føl**
 * *blēed* [bli:d]: **blød**
+* *swēet* [swi:t]: **swøt**
 * *brĕad* [bred]: **brødd**
 * *dēar* [di:r]: **dyr**
 * *sĭn* [sɪn]: **synn**
@@ -77,20 +78,24 @@ Whæn **a** is pronũnced lik **o**, it is written **å**.
 * *sŏng* [sɒŋ]: **sång**
 * *wrŏng* [rɒŋ]: **wrång**
 
-Âg̊hter **w** and **qu**, **a** is allweġs pronũnced like **o**.
+Âg̊hter **w** and **qu**, short **a** is allweġs pronũnced like **o**.
 
 * *wånt* [wɒnt]: **want** = **wånt**
-* *quåntity* [ˈkwɒntəti]: **quantitä**
+* *quåntity* [ˈkwɒntəti]: **quantitä** = **quåntitä**
+* *wås* [wɒz]: **was** = **wåss**
+* *wĕre* [wɜ:ʳ]: **wer** = **werr**
+* *wăr* [wɔ:ʳ]: **warr** = **wårr**
+* *wāre* [weəʳ]: **wār**
 
 Whæn **o** is pronũnced lik **a**, it is written **ȏ**.
 
-* *greāt* [greɪt]: **grȏt**
+* *greāt* [greɪ̯t]: **grȏt**
 
 ## ǒ, ů
 
 Whæn **o** is pronũnced lik **u**, it is written **ǒ**. (Nōt đat lång **ǒ** isn't diphthongized at all.)
 
-* *boǒk* [bʊk]: **bǒkk**
+* *bǒok* [bʊk]: **bǒkk**
 * *tǒ* [tu:]: **tǒ**
 
 Whæn **u** is pronũnced lik **o**, it is written **ů**.
@@ -99,24 +104,29 @@ Whæn **u** is pronũnced lik **o**, it is written **ů**.
 
 ## ė, ï
 
+Whæn **e** is pronũnced lik **i**, it is written **ė**.
+
+* *sĭster* [ˈsɪstəʳ]: **sw̌ėster**
+
 Whæn **i** is pronũnced lik **e**, it is written **ï**.
 
 * *mē* [mi:]: **mï**
-* *weēk* [wi:k]: **wïk**
-* *freē* [fri:]: **frï**
+* *wēek* [wi:k]: **wïk**
+* *frēe* [fri:]: **frï**
 * *shiēld* [ʃi:ld]: **shïld**
 
 ## ẽ, õ
 
 Protogermanic "ai" [aɪ̯] is pronũnced lik lång **ō**. It is written **ẽ**.
 
-* *hōme* [həʊm]: **hẽm**
-* *stōne* [stəʊn]: **stẽn**
+* *hōme* [həʊ̯m]: **hẽm**
+* *stōne* [stəʊ̯n]: **stẽn**
+* *gō* [gəʊ̯]: **gẽ**
 
 Whæn protogermanic "ai" [aɪ̯] is pronũnced [wʌ], it is written **ê**.
 
 * *ône* [wʌn]: **ên**
-* *ōnly* [ˈəʊnli]: **ẽnlïg** = **ẽnlïk̆**
+* *ōnly* [ˈəʊ̯nli]: **ẽnlïg** = **ẽnlïk̆**
 
 Protogermanic "au" [aʊ̯] is pronũnced lik diphthongized **ũ**. It is written **õ**.
 
@@ -126,7 +136,7 @@ Protogermanic "au" [aʊ̯] is pronũnced lik diphthongized **ũ**. It is written
 
 Đe diphthong **au** is monophthongized tǒ [ɔ:]. Normallïg, it is pronũnced lik lång **â** in American.
 
-* *pause* [pɔ:z] → [pɑ:z]: *paus*
+* *pause* [pɔ:z] → [pɑ:z]: **paus**
 
 ## +l
 
@@ -139,32 +149,32 @@ Except for lẽnwørds, short **a** befor **l** is pronũnced lik **au**. đē *
 
 Befor **l**, short **o** is pronũnced lik lång **o**.
 
-* *rōle* [rəʊl]: **rol**
-* *rŏll* [rəʊl]: **roll** = **rōll**
+* *rōle* [rəʊ̯l]: **rol**
+* *rŏll* [rəʊ̯l]: **roll** = **rōll**
 
 Befor **ld**, **a** is pronũnced lik **o**.
 
-* *ŏld* [əʊld]: **ald** = **åld**
+* *ŏld* [əʊ̯ld]: **ald** = **åld**
 
 ## +r
 
 ### Lång Võc̆als and Diphthongs
 
-Âg̊hter [aɪ] **ī** and [aʊ] **ũ**, **r** is pronũnced [əʳ]. It is pronũnced [ɚ] in American.
+Âg̊hter [aɪ̯] **ĩ** and [aʊ̯] **ũ**, **r** is pronũnced [əʳ]. It is pronũnced [ɚ] in American.
 
-* *tīre* [taɪəʳ] → [taɪɚ]: **tir**
-* *soũr* [saʊəʳ] → [saʊɚ]: **sũr**
+* *tīre* [taɪ̯əʳ] → [taɪ̯ɚ]: **tir**
+* *sõur* [saʊ̯əʳ] → [saʊ̯ɚ]: **sũr**
 
 Âg̊hter [i:] **ē** and [ju:] **ū**, **r** is pronũnced [əʳ], except in American. Đe pronunciation of **ē** and **ū** is shortened tǒ [ɪ] and [jʊ].
 
-* *beēr* [bɪəʳ] → [bɪr]: **bïr**
+* *bēer* [bɪəʳ] → [bɪr]: **bïr**
 * *pūre* [pjʊəʳ] → [pjʊr]: **pur**
 
-Âg̊hter [eɪ] **ā**, **r** is pronũnced [əʳ], except in American. Đe pronunciation of **ā** is shortened tǒ [e].
+Âg̊hter [eɪ̯] **ā**, **r** is pronũnced [əʳ], except in American. Đe pronunciation of **ā** is shortened tǒ [e].
 
 * *fāre* [feəʳ] → [fer]: **far**
 
-Âg̊hter [əʊ] **ō**, **r** is pronũnced [ʳ], except in American. **ō** pronũnced lik [ɔ:] **au**.
+Âg̊hter [əʊ̯] **ō**, **r** is pronũnced [ʳ], except in American. **ō** pronũnced lik [ɔ:] **au**.
 
 * *fōr* [fɔ:ʳ] → [fɔ:r]: **for**
 
@@ -193,10 +203,11 @@ In American đōgh, short **a** and **u** befor **r** ar allweġs pronũnced [e]
 
 * *hĕard* [hɜ:d]: **hørred** = **hørrĕd** = **hørr'd** = **hørd**
 * *bōrn* [bɔ:n]: **boren** = **borĕn** = **bor'n** = **born**
-* *seēn* [si:n]: **sehen** = **sehĕn** = **seh'n** = **sehn**
-* *sōul* [səʊl]: **sẽel** = **sẽĕl** = **sẽ'l** = **sẽl**
+* *sēen* [si:n]: **sehen** = **sehĕn** = **seh'n** = **sehn**
+* *sōul* [səʊ̯l]: **sẽel** = **sẽĕl** = **sẽ'l** = **sẽl**
 * *mōre* [mɔ:ʳ]: **mẽer** = **mẽĕr** = **mẽ'r** = **mẽr**
-* *mōst* [məʊst]: **mẽest** = **mẽĕst** = **mẽ'st** = **mẽst**
+* *mōst* [məʊ̯st]: **mẽest** = **mẽĕst** = **mẽ'st** = **mẽst**
+* *gŏne* []: **ge̊en** = **ge̊ĕn** = **ge̊'n** = **ge̊n**
 
 # Consonants
 
@@ -207,7 +218,7 @@ In American đōgh, short **a** and **u** befor **r** ar allweġs pronũnced [e]
 
 ### ĉ
 
-* *chānge* []: **ĉānĵ**
+* *ĉhoice* [tʃɔɪ̯s]: **ĉĩs**
 
 ## đ, th, ẑ
 
@@ -217,9 +228,9 @@ In American đōgh, short **a** and **u** befor **r** ar allweġs pronũnced [e]
 
 ...
 
-* *bāthe* [beɪð]: **bāđ**
+* *bāthe* [beɪ̯ð]: **bāđ**
 * *bâth* [bɑ:θ]: **bâđ**
-* *lōath* [ləʊθ]: **lẽđ**
+* *lōath* [ləʊ̯θ]: **lẽđ**
 * *wråth* [rɒθ]: **wråđ**
 * *lĕather* [ˈleðəʳ]: **leđer**
 
@@ -231,24 +242,24 @@ In American đōgh, short **a** and **u** befor **r** ar allweġs pronũnced [e]
 
 Âg̊hter lång võc̆als, **g** is mut.
 
-* *dāy* [deɪ]: **dag** = **dāğ**
-* *nāil* [neɪl]: **nagel** = **nāğel**
-* *ōwn* [əʊn]: **ẽgen** = **ẽğen**
-* *fõwl* [faʊl]: **fũgel** = **fũğel**
-* *bōw* [bəʊ]: **bog** = **bōğ**
-* *bõw* [baʊ]: **bõg** = **bõğ**
-* *dōuğh* [dəʊ]: **dẽg** = **dẽğ**
-* *window* [ˈwɪndəʊ]: **windog** = **windōğ**
-* *līe* [laɪ]: **lỹg** = **lỹğ**
-  * *līar* [ˈlaɪəʳ]: **lỹger** = **lỹğer**
-* *lȳe* [laɪ]: **lø̃g** = **lø̃ğ**
-* *rȳe* [raɪ]: **rỹg** = **rỹğ**
+* *dāy* [deɪ̯]: **dag** = **dāğ**
+* *nāil* [neɪ̯l]: **nagel** = **nāğel**
+* *ōwn* [əʊ̯n]: **ẽgen** = **ẽğen**
+* *fõwl* [faʊ̯l]: **fũgel** = **fũğel**
+* *bōw* [bəʊ̯]: **bog** = **bōğ**
+* *bõw* [baʊ̯]: **bõg** = **bõğ**
+* *dōuğh* [dəʊ̯]: **dẽg** = **dẽğ**
+* *window* [ˈwɪndəʊ̯]: **windog** = **windōğ**
+* *līe* [laɪ̯]: **lỹg** = **lỹğ**
+  * *līar* [ˈlaɪ̯əʳ]: **lỹger** = **lỹğer**
+* *lȳe* [laɪ̯]: **lø̃g** = **lø̃ğ**
+* *rȳe* [raɪ̯]: **rỹg** = **rỹğ**
 
 ### ğ
 
 Whæn **g** is mut in ôđer positions, it is written **ğ**.
 
-* *ălīke* [əˈlaɪk]: **ğelik**
+* *ălīke* [əˈlaɪ̯k]: **ğelik**
 
 **a** befor mut **ğ** is pronũnced lik **au**.
 
@@ -257,38 +268,43 @@ Whæn **g** is mut in ôđer positions, it is written **ğ**.
 
 ### ġ
 
-Âg̊hter short **e**, **g** is pronũnced [ɪ] and written **ġ**.
+Âg̊hter short **e**, **g** is pronũnced [ɪ̯] and written **ġ**.
 
-* *wāy* [weɪ]: **weġ** = **wegg**
-* *sāil* [seɪl]: **seġel** = **seggel**
-* *rāin* [reɪn]: **reġen** = **reggen**
-* *lie* [laɪ]: **lig**
-  * *lay* [leɪ]: **lag**
-  * *lain* [leɪn]: **leġen**
-* *lay* [leɪ]: **leġ**
-  * *laid* [leɪ]: **leġed**
-  * *layer* [ˈleɪəʳ]: **leġer**
-* *say* [seɪ]: **seġ**
-  * *said* [sed]: **seğğed**
-* *pray* [preɪ]: **preġ**
+* *wāy* [weɪ̯]: **weġ** = **wegg**
+* *sāil* [seɪ̯l]: **seġel** = **seggel**
+* *rāin* [reɪ̯n]: **reġen** = **reggen**
+* *līe* [laɪ̯]: **lig**
+  * *lāy* [leɪ̯]: **lag**
+  * *lāin* [leɪ̯n]: **leġen**
+* *lāy* [leɪ̯]: **leġ**
+  * *lāid* [leɪ̯]: **leġed**
+  * *lāyer* [ˈleɪ̯əʳ]: **leġer**
+* *sāy* [seɪ̯]: **seġ**
+  * *säid* [sed]: **seğğed**
+* *prāy* [preɪ̯]: **preġ**
 
-Whæn **g** is pronũnced [ɪ] in ôđer positions, it is written **ġ**.
+Whæn **g** is pronũnced [j], it is written **ġ**.
 
-* *yĕsterdāy* [ˈjestədeɪ]: **ġesterdag**
+* *yĕsterdāy* [ˈjestədeɪ̯]: **ġesterdag**
 
 ### g̊
 
-Âg̊hter **l** and **r**, **g** is pronũnced [əʊ] and written **g̊**.
+Âg̊hter **l** and **r**, **g** is pronũnced [əʊ̯] and written **g̊**.
 
-* *follōw* [ˈfɒləʊ]: **folg̊**
-* *sorrōw* [ˈsɒrəʊ]: **sorg̊**
-* *tǒmorrōw* [təˈmɒrəʊ]: **tǒmorg̊**
+* *fŏllōw* [ˈfɒləʊ̯]: **folg̊**
+* *sŏrrōw* [ˈsɒrəʊ̯]: **sorg̊**
+* *tǒmŏrrōw* [təˈmɒrəʊ̯]: **tǒmorg̊**
+
+---
+**Tim fligs lik ȇn arg̊.**
+
+---
 
 ### ĝ
 
-* *brĭdge* []: **bryĝ** = **bryĝg**
-* *rĭdge* []: **ryĝ** = **ryĝg**
-* *mĭdge* []: **myĝ** = **myĝg**
+* *brĭdge* [brɪʤ]: **bryĝ** = **bryĝg**
+* *rĭdge* [rɪʤ]: **ryĝ** = **ryĝg**
+* *mĭdge* [mɪʤ]: **myĝ** = **myĝg**
 * *ĕdge* [eʤ] **eĝ** = **eĝg**
 * *hĕdge* [heʤ]: **heĝ** = **heĝg**
 * *slĕdge* [sleʤ]: **sleĝ** = **sleĝg**
@@ -296,19 +312,19 @@ Whæn **g** is pronũnced [ɪ] in ôđer positions, it is written **ġ**.
 ### ḡ
 
 * *bĕg* [beg]: **beḡg**
-* *ĕgg* [eg]: **eḡg**
+* *lĕg* [beg]: **læḡg**
 
 ## h
 
 Whæn protogermanic "h"* is mut, it is written **h**.
 
-* *thōuğh* [ðəʊ]: **đōh** = **đōğh**
+* *thōuğh* [ðəʊ̯]: **đōh** = **đōğh**
   
 **a** befor **h** is pronũnced lik **au**.
 
-* *seē* [si:]: **seh**
+* *sēe* [si:]: **seh**
   * *saw* [sɔ:]: **sah**
-  * *seēn* [si:n]: **sehen**
+  * *sēen* [si:n]: **sehen**
 
 ## gh
 
@@ -320,43 +336,44 @@ Whæn protogermanic "g" or "h"* is pronũnced [f], it is written **gh**.
 
 **gh** befor **t** is allweġs mut. **i** befor **ght** is allweġs lång.
 
-* *nīğht* [naɪt]: **night** = **nīğht**
-* *seē* [si:]: **seh**
-  * *sīğht* [saɪt]: **sight** = **sīğht**
+* *nīğht* [naɪ̯t]: **night** = **nĩğht**
+* *sēe* [si:]: **seh**
+  * *sīğht* [saɪ̯t]: **sight** = **sĩğht**
+* *līğht* [laɪ̯t]: **lỹght**
+  * *lĭğht* [lɪt]: **lĭght** = **litt**
 
 **a** befor **ght** is pronũnced lik **au**.
 
-* *ōwe* [əʊ]: **åg**
+* *ōwe* [əʊ̯]: **åg**
   * *ȏuğht* [ɔ:t]: **aght**
 * *brĭng* [brɪŋ]: **bring**
   * *brȏuğht* [brɔ:t]: **braght** = **brağht**
 * *thĭnk* [θɪŋk]: **think**
-  * *thȏuğht* [θɔ:t]: **thaght** = **brağht**
+  * *thȏuğht* [θɔ:t]: **thaght** = **thağht**
 * *tēach* [ti:tʃ]: **tēꝁ**
   * *tauğht* [tɔ:t]: **taght** = **tağht**
 * *nauğht* [nɔ:t]: **naght**
-  * *nŏt* [nɒt]: **någht**
+  * *nŏt* [nɒt]: **någht** = **nåt** = **nott**
 
 ...
 
-* *līght* [laɪt]: **light**
-* *līght* [laɪt]: **lỹght**
-* *brīght* [braɪt]: **bright**
-* *fīght* [faɪt]: **fight**
-* *plīght* [plaɪt]: **plight**
-* *rīght* [raɪt]: **right**
-* *mīght* [maɪt]: **might**
-* *slīght* [slaɪt]: **slight**
+* *līğht* [laɪ̯t]: **light**
+* *brīğht* [braɪ̯t]: **bright**
+* *fīğht* [faɪ̯t]: **fight**
+* *plīğht* [plaɪ̯t]: **plight**
+* *rīğht* [raɪ̯t]: **right**
+* *mīğht* [maɪ̯t]: **might**
+* *slīğht* [slaɪ̯t]: **slight**
 * *fēar* [fɪəʳ]: **fyr**
-  * *frīght* [fraɪt]: **frỹght**
-* *slāy* [sleɪ]: **slag**
+  * *frīğht* [fraɪ̯t]: **frỹght**
+* *slāy* [sleɪ̯]: **slag**
   * *sleŵ* [slu:]: **slug**
-  * *slāin* [sleɪn]: **slagen**
-  * *slaughter* [ˈslɔ:təʳ]: **slaghter**
-* *fly* [flaɪ]: **flig**
+  * *slāin* [sleɪ̯n]: **slagen**
+  * *slauğhter* [ˈslɔ:təʳ]: **slaghter**
+* *flȳ* [flaɪ̯]: **flig**
   * *fleŵ* [flu:]: **flug**
-  * *flōwn* [fləʊn]: **flogen**
-  * *flīght* [flaɪt]: **flight**
+  * *flōwn* [fləʊ̯n]: **flogen**
+  * *flīght* [flaɪ̯t]: **flight**
 
 ### g̊h
 
@@ -369,17 +386,25 @@ Whæn **gh** in **ght** is pronũnced [f], it is written **g̊h**.
 * *yēar* [jɪəʳ]: **jær**
 * *yôung* [jʌŋ]: **jung**
 
+### ĵ
+
+* *chānge* [tʃeɪ̯nʤ]: **ĉānĵ**
+
+### ı
+
+* *ĕgg* [eg]: **eı** = **eıı**
+
 ## k
 
 * *căt* [kæt]: **katt**
-* *cāme* [keɪm]: **kam**
-* *cōal* [kəʊl]: **kol**
-* *māke* [meɪk]: **mak**
+* *cāme* [keɪ̯m]: **kam**
+* *cōal* [kəʊ̯l]: **kol**
+* *māke* [meɪ̯k]: **mak**
 * *côme* [kʌm]: **kômm**
 
 ### k̆
 
-* *knīght* [naɪt]: **knight** = **k̆nĩğht**
+* *knīght* [naɪ̯t]: **knight** = **k̆nĩğht**
 
 ...
 
@@ -389,7 +414,7 @@ Whæn **gh** in **ght** is pronũnced [f], it is written **g̊h**.
 
 ...
 
-* *Ī* [aɪ]: **ig** = **ik̆**
+* *Ī* [aɪ̯]: **ig** = **ik̆**
 * *-ly* [li]: **-lïg** = **-lïk̆**
 
 ### ꝁ
@@ -399,20 +424,52 @@ Whæn **gh** in **ght** is pronũnced [f], it is written **g̊h**.
 * *ĉhŭrĉh* [tʃɜ:tʃ]: **ꝁirꝁ** = **khirkh**
 * *thătĉh* [θætʃ]: **thaꝁ** = **thakh**
 * *strĕtĉh* [stretʃ]: **streꝁ** = **strekh**
+* *brēaĉh* [bri:tʃ]: **brǣꝁ** = **brǣkh**
 
-## n, ñ
+## ñ
 
 * *dânce* [dɑ:ns]: **dâns**
   * *dâñce* [dɑ:nts]: **dâñs**
 * *ĉhânce* [tʃɑ:ns]: **ĉâns**
   * *ĉhâñce* [tʃɑ:nts]: **ĉâñs**
 
-### nđ, ñđ
+...
 
-* *moǒn* [mu:n]: **mǒnđ** = **mǒn**
-* *sõuth* [saʊθ]: **sũñđ** = **sũth**
-* *mõuth* [maʊθ]: **mũñđ** = **mũth**
+* *mǒon* [mu:n]: **mǒnđ** = **mǒn**
+* *sõuth* [saʊ̯θ]: **sũñđ** = **sũth**
+* *mõuth* [maʊ̯θ]: **mũñđ** = **mũth**
+* *tōoth* [tu:θ]: **tǎñđ** = **tǎth**
 
-## wh
+...
 
-* *whȇre* [weəʳ]: **whar**
+* *fīve* [faɪ̯v]: **fīñf** = **fīm̃f**
+
+## ř
+
+* *spēeĉh* [spi:tʃ]: **spřǣꝁ** = **spřǣkh**
+
+## v
+
+* *hăve* [hæv]: **hav**
+* *bėhāve* [bɪˈheɪ̯v]: **bėhāv**
+
+## w
+
+### wh
+
+* *whȇre* [hweəʳ]: **whar**
+* *whĕn* [hwen]: **whæn** = **whænn**
+* *whåt* [hwɒt] → [hwʌt]: **what** = **whått**
+* *whỹ* [hwaɪ̯]: **whi**
+* *whĭch* [hwɪtʃ]: **whėłꝁ**
+
+### w̌
+
+* *sw̌ŏrd* [sɔ:d]: **sw̌ard**
+* *tw̌ǒ* [tu:]: **tw̌ǒ**
+
+...
+
+* *w̌hǒ* [hu:]: **w̌hǎ**
+* *hõw* [haʊ̯]: **w̌hõ**
+

@@ -5,11 +5,11 @@ Eth empfiled sigh, tǒsammensettungen fon tǒsammensettungen mid hėlphe fon bin
 * *Fahrzeugrückgabe* [ˈfa:rtsɔykrʏkga:bə]: **fartỹg-ryggave** = **fartỹgryggave**
 * *Prozessschritt* [proˈtsɛsʃrɪt]: **process-shridd** = **processshridd**
 
-Wen kẽne sonđertẽken tǒ'r ferfygung steen, kønnen si thurgh bestimmede bǒkstaven-ferbinđungen umshriven werđen.
+When kẽne sonđertẽken tǒ'r ferfygung steen, kønnen si thurgh bestimmede bǒkstaven-ferbinđungen umshriven werđen.
 
 * *Bäckerei* [bɛkəˈraɪ̯]: **bæckerĩ** = **baeckerij**
 
-Đė umshrĩvungen "ph" unđ "th" werđen night thurgh "ᵽ" unđ "ŧ" ersetted, õk đan night, wen si tǒ'r ferfygung steen.
+Đė umshrĩvungen "ph" unđ "th" werđen night thurgh "ᵽ" unđ "ŧ" ersetted, õk đan night, when si tǒ'r ferfygung steen.
 
 * *Pfeffer* [ˈpfɛfɐ]: **pepher** = **peᵽer**
 * *Wasser* [ˈvasɐ]: **wather** = **waŧer**
@@ -31,7 +31,7 @@ Evensowenig wėrđ "ꝁ" ođer "ƀ" fø̌r ẽn geriveneth "k" btw. "b" geshrive
 * *da* [da:]: **đa**
 * *so* [zo:]: **so**
 
-Er ist õk đan lang, wen an'm stammenđe ẽn ẽñselener midlũd steed (miđ ođer one thenungs-h).
+Er ist õk đan lang, when an'm stammenđe ẽn ẽñselener midlũd steed (miđ ođer one thenungs-h).
 
 * *Sohn* [zo:n]: **son**
 * *Hüte* [ˈhy:tə]: **hyde**
@@ -64,7 +64,7 @@ Eth werđen ni đrĩ gĕlĩke midlũde hinderẽnanđer geshriven.
 * *Fülllinie* [ˈfʏlli:ni̯ə]: **fø̌llinie** = **fø̌ll-linie**
 * *Betttuch* [ˈbɛttu:x]: **beddǒk** = **bedd-dǒk**
 
-Ferhældniswørder, fø̌rwørder sowi naghsilven unđ enđungen haven oft ẽnen kurten selvstlũd. Si werđen jeđogh allẽnsteenđ ni mid dobbeledem midlũd geshriven.
+Ferhældniswørder, fø̌rwørder sowhi naghsilven unđ enđungen haven oft ẽnen kurten selvstlũd. Si werđen jeđogh allẽnsteenđ ni mid dobbeledem midlũd geshriven.
 
 * *in* [ɪn]: **in**
   * *innen* [ˈɪnən]: **innen**
@@ -88,7 +88,7 @@ Tǒ'r undershĩđung kann ẽn ø̌vertẽken ferwenđed werđen, welketh đė l
   * *ihnen* [ˈi:nən]: **inen** ≠ *innen* [ˈɪnən]: **innen**
 
 ---
-**Wen đath wørdchen "wen" night wær', đan wær' mĩn fader millionär.**
+**When đath wørdchen "when" night wær', đan wær' mĩn fader millionär.**
 
 ---
 
@@ -99,7 +99,7 @@ Tǒ'r undershĩđung kann ẽn ø̌vertẽken ferwenđed werđen, welketh đė l
 
 ### Swunđ
 
-In for- und naghsilven sowi in enđungen kønnen swunđlũde ũthfallen.
+In for- und naghsilven sowhi in enđungen kønnen swunđlũde ũthfallen.
 
 * *deutsch* [ˈdɔytʃ]: **thỹdĭsh** = **thỹd'sh** = **thỹdsh**
 * *Mensch* [mɛnʃ]: **mænnĭsh** = **mænn'sh** = **mensh**
@@ -158,6 +158,8 @@ Der swunđlũd "e" fon enđungen fælled nagh møglikħẽd ũth.
 
 ---
 **Blõkrũd bĕlĩved blõkrũd unđ brũdklẽđ bĕlĩved brũdklẽđ.**
+
+**"mid mann unđ mũs"**
 
 ---
 
@@ -296,7 +298,7 @@ Urgermanisheth "f" wėrđ steds **f** geshriven.
 * *leben* [ˈle:bn̩]: **leven** = **leben**
 
 ---
-**Wer tǒ spæd kommed, đēn bestrafed đath leven.**
+**Wher tǒ spæd kommed, đēn bestrafed đath leven.**
 
 ---
 
@@ -347,7 +349,7 @@ Urgermanisheth "f" wėrđ steds **f** geshriven.
 * *Dorf* [dɔrf]: **thorph**
 
 ---
-**"bĕlĩven, wo đer pepher wæxed"**
+**"bĕlĩven, who đer pepher wæxed"**
 
 ---
 
@@ -404,7 +406,7 @@ Urgermanisheth "d" wėrđ stimmlos [t] ũthgesproken.
 * *Wert* [ve:ɐ̯t]: **wērd**
 
 ---
-**Wer nights wėrđ, wėrđ wird.**
+**Wher nights wėrđ, wėrđ wird.**
 
 ---
 
@@ -488,7 +490,7 @@ Parasitäreth **d** btw. **đ** nagh **n** wėrđ **ñ** geshriven.
 * *schließen* [ˈʃli:sn̩]: **slīthen**
 * *das* [das]: **đath**
 
-## g, k, ck
+## g, k, ck, w
 
 ### g
 
@@ -519,7 +521,7 @@ For "k" am stammenđe sinđ nur selvstlũde mid ø̌vertẽken lang.
 * *brauchen* [ˈbraʊ̯xn̩]: **brũken** = **brũkhen**
 
 ---
-**Wer "brũken" one "tǒ" gebrũked, brũked "brũken" gar night tǒ gebrũken.**
+**Wher "brũken" one "tǒ" gebrũked, brũked "brũken" gar night tǒ gebrũken.**
 
 ---
 
@@ -533,7 +535,7 @@ Steed for dem "k" am silvenenđe ẽn wĩderer midlũd, so wėrđ đath "k" nigh
 ...ũther in đēn ferbinđungen "lk" unđ "rk".
 
 * *Kirche* [ˈkɪrçə]: **kirke** = **kirkhe**
-* *welche* [ˈvɛlçə]: **welke** = **welkhe**
+* *welche* [ˈvɛlçə]: **whelke** = **whelkhe**
 * *Milch* [ˈmɪlç]: **milk** = **milkh**
 
 ---
@@ -554,7 +556,7 @@ An'm stammenđe fon umstanđswørderen, ferhældniswørderen unđ (gebỹgeden) 
 * *sich* [zɪç]: **sigh** = **sik**
 
 ---
-**Wen fligen hinder fligen fligen, fligen fligen fligen nagh.**
+**When fligen hinder fligen fligen, fligen fligen fligen nagh.**
 
 ---
 
@@ -627,7 +629,7 @@ Fælled **k** am stammenđe ẽneth ferwanđĕden wordes ũth, so wėrđ **gh** 
 
 ### ħ
 
-Đė naghsilve [haɪ̯t] **-hẽd** wėrđ **-ħẽd** geshriven, wen si [kaɪ̯t] ũthgesproken wėrđ.
+Đė naghsilve [haɪ̯t] **-hẽd** wėrđ **-ħẽd** geshriven, when si [kaɪ̯t] ũthgesproken wėrđ.
 
 * *Brüderlichkeit* [ˈbry:dɐlɪçkaɪ̯t]: **brø̌đerlikħẽd** = **brø̌đerlikkẽd**
 
@@ -641,7 +643,7 @@ Urgermanisheth "hs" wėrđ **x** geshriven.
 * *Sachsen* [ˈzaksn̩]: **Saxen** = **Sacksen**
 
 ---
-**"wo fux unđ hase sigh gǒde naght sagen"**
+**"who fux unđ hase sigh gǒde naght sagen"**
 
 ---
 
@@ -666,6 +668,7 @@ An'm wordanfang wėrđ **s** for midlũd [ʃ] ũthgesproken.
 * *schmal* [ʃma:l]: **smal** = **ŝmal**
 * *Schnauze* [ˈʃnaʊ̯tsə]: **snũte** = **ŝnũte**
 * *Schwein* [ʃvaɪ̯n]: **swĩn** = **ŝwĩn**
+* *Schwert* [ʃve:ɐ̯t]: **swērd** = **ŝwērd**
 * *Speer* [ʃpe:ɐ̯]: **sper** = **ŝper**
 * *Stein* [ʃtaɪ̯n]: **stẽn** = **ŝtẽn**
 
@@ -677,6 +680,21 @@ An'm wordanfang wėrđ **s** for midlũd [ʃ] ũthgesproken.
 Wėrđ "s" in anđerer position [ʃ] ũthgesproken, so wėrđ eth **sh** geshriven.
 
 * *falsch* [falʃ]: **falsh** = **falŝ**
+
+### w
+
+#### w̌
+
+* *süß* [zy:s]: **sw̌ø̌th**
+
+...
+
+* *wringen* [ˈvrɪŋən]: **wringen**
+* *reißen* [ˈraisn̩]: **w̌rĩthen**
+
+#### wh
+
+* *was* [vas]: **whath**
 
 ## Fremđwørder
 

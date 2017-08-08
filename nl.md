@@ -8,7 +8,6 @@
 * **klar** [klaar]
 * **jar** [jaar]
 * **har** [haar]
-* **war** [waar]
 * **dar** [daar]
 
 ### ã
@@ -113,6 +112,10 @@
 
 * **halv** [half]
   * **halve** [halve]
+
+## wh
+
+* **whar** [waar]
 
 ## x
 
