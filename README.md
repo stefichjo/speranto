@@ -1,6 +1,8 @@
 # Krokodilejo
 
-## [Orthographia France](fr.md)
+## Latinidaj Lingvoj
+
+### [Orthographia France](fr.md)
 
 Tǒtos les ŝtăres humänos näscent libros et eq̆uałes ïn dignitäte et ïn dĭrĩtos.
 Illes sont dǒt̯ät̯os de rät̯ıone et de conscientia

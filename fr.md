@@ -64,7 +64,7 @@ Quando la syllaba eŝt ǎp̆erta, läs võċäles [ɛ]/[ɔ]/[œ] sont fïrmät̯
 
 ...
 
-* *sel* [sɛl]: **säle** = **säl** → **sail**
+* *sel* → *sail* [sɛl]: **säle** = **säl**
 
 #### -äre
 
@@ -116,7 +116,7 @@ Quando la syllaba eŝt ǎp̆erta, läs võċäles [ɛ]/[ɔ]/[œ] sont fïrmät̯
 
 ...
 
-* *Pierre* [pjɛʀ]: **Pẽdro** = **Pëdro** = **Për** → **Pier**
+* *Pierre* → *Pier* [pjɛʀ]: **Pẽdro** = **Pëdro** = **Për**
 
 ### ȇ
 
@@ -137,7 +137,7 @@ Quando la syllaba eŝt ǎp̆erta, läs võċäles [ɛ]/[ɔ]/[œ] sont fïrmät̯
 
 ...
 
-* *sœur* [sœʀ]: **söra** = **sör** → **seur**
+* *sœur* → *seur* [sœʀ]: **söra** = **sör**
 
 ## i
 
@@ -184,7 +184,7 @@ Quando la syllaba eŝt ǎp̆erta, läs võċäles [ɛ]/[ɔ]/[œ] sont fïrmät̯
 
 ...
 
-* *course* [kuʀs]: **curso** = **curs** → **cours**
+* *course* → *cours* [kuʀs]: **curso** = **curs**
 
 ## ů
 
@@ -198,17 +198,17 @@ Quando la syllaba eŝt ǎp̆erta, läs võċäles [ɛ]/[ɔ]/[œ] sont fïrmät̯
 
 ...
 
-* *lune* [lyn]: **lüna** = **lün** → **lun**
-* *sûr* [syʀ]: **sĕcür** = **sür** → **sur**
+* *lune* → *lun* [lyn]: **lüna** = **lün**
+* *sûr* → *sur* [syʀ]: **sĕcür** = **sür**
 
 # Consonas
 
 ## Sübstantivos
 
 * *ciel* [sjɛl]: **cëlo** = **cël**
-* *cieux* [sjø]: **cëlos** = **cëłs** → **cieus**
-* *cheval* [ʃval]: **ĉăvallo** = **ĉval** → **chval**
-* *chevaux* [ʃvo]: **ĉăvallos** = **ĉvałs** → **chvos**
+* *cieux* → *cieus* [sjø]: **cëlos** = **cëłs**
+* *cheval* → *chval* [ʃval]: **ĉăvallo** = **ĉval**
+* *chevaux* → *chvos* [ʃvo]: **ĉăvallos** = **ĉvałs**
 
 * *chat* [ʃa]: **ĉatto** = **ĉa**
 * *chatte* [ʃat]: **ĉatta** = **ĉat**
@@ -289,7 +289,7 @@ Quando la syllaba eŝt ǎp̆erta, läs võċäles [ɛ]/[ɔ]/[œ] sont fïrmät̯
 
 ...
 
-* *cœur* [kœʀ]: **cöre** = **cör** → **queur**
+* *cœur* → *queur* [kœʀ]: **cöre** = **cör**
 
 ## -g
 
@@ -307,8 +307,6 @@ Quando la syllaba eŝt ǎp̆erta, läs võċäles [ɛ]/[ɔ]/[œ] sont fïrmät̯
 
 ## -l
 
-* *naturel* [natyʀɛl]: **natüräle** = **natüräl** → **naturail**
-
 * *rail* [ʀɑj]: **rȇgŭla**@
 * *sérail* [seʀaj]:
 * *voile* [vwal]: **vẽlo** = **vẽl**
@@ -319,6 +317,11 @@ Quando la syllaba eŝt ǎp̆erta, läs võċäles [ɛ]/[ɔ]/[œ] sont fïrmät̯
 
 * *cul* [ky]: **cüł** = **cü**
 * *vol* [vɔl]: **vol**
+
+...
+
+* *naturel* → *naturail* [natyʀɛl]: **natüräle** = **natüräl**
+
 
 ### -ał-
 
@@ -372,7 +375,7 @@ Quando la syllaba eŝt ǎp̆erta, läs võċäles [ɛ]/[ɔ]/[œ] sont fïrmät̯
 * *maître* [mɛtʀ]: **mägĭŝtro** = **mätr**
 * *goûter* [gute]: **guŝtäre** = **gutäř**
 * *bâton* [bɑtɔ͂]: **baŝtone** = **batoñ**
-* *état* [eta]: **ŝtato** = **eta** → **êta**
+* *état* → *êta* [eta]: **ŝtato** = **eta**
 * *été* [ete]: **eŝtäte** = **etä**
 
 ## -t
@@ -409,10 +412,8 @@ Quando la syllaba eŝt ǎp̆erta, läs võċäles [ɛ]/[ɔ]/[œ] sont fïrmät̯
 
 * *oracle* [ɔʀakl]: **oracŭlo** = **oracl**
 * *fruit* [fʀɥi]: **fruċto** = **früċ** = **früi**
-* *aimer* [eme]: **ämäre** = **ämäř** → **aime**
-* *changer* [ʃɑ͂ʒe]: **ĉambĭäre** = **ĉanjäř** = **ĉañjäř** → **chañje**
-* *avoir* [avwaʀ]: **havẽre** = **avẽr** → **avoir**
-* *jour* [ʒuʀ]: **dĭǒrno** = **jǒr** → **jour**
+* *avoir* [avwaʀ]: **havẽre** = **avẽr**
+* *jour* [ʒuʀ]: **dĭǒrno** = **jǒr**
 * *chance* [ʃɑ͂s]: **ĉadĕntıa** = **ĉans** = **ĉañs**
 * *mars* [maʀs]: **martıo** = **mars**
 * *bière* [bjɛʀ]: **bẽrra** = **bërra** = **bër**
@@ -422,7 +423,12 @@ Quando la syllaba eŝt ǎp̆erta, läs võċäles [ɛ]/[ɔ]/[œ] sont fïrmät̯
 * *dieu* [djø]: **dėö**
 * *même* [mɛm]: **medĭpsĭmo** = **mem**
 
+...
 
+* *aimer* → *aime* [eme]: **ämäre** = **ämäř**
+* *changer* → *chanje* [ʃɑ͂ʒe]: **ĉambĭäre** = **ĉanjäř** = **ĉañjäř**
+
+...
 
 
 * *déjà* [deʒa]: **de-jam** = **de-ja**
