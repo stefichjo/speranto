@@ -12,6 +12,6 @@ et dẽvent agire les unos ïnverso les ałtros dĕ-ȋntus̄ un s̈pĭrito de fr
 
 All human beings ar boren frï and equal in dignitä and rights.  
 Đä ar ïndõed wiđ räson and conscientıă  
-and shǒłłed act towards ên ȇnođer in ȇ spirit åv brôđerhěd.  
+and shǒłłed act towards ên ȇnôđer in ȇ spirit åv brôđerhěd.  
 
 
