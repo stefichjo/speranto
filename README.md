@@ -22,9 +22,15 @@ All human beings ar boren frï and equal in dignitä and rights.
 Đȇ ar ïndõed wiđ räson and conscientıă  
 and shǒłłed act towards ên ȇnôđer in ȇ spirit åv brôđerhěd.
 
+### [Nïderlandĭsh Orthographiă](nl.md)
+
+Alle mænnĭshen worden frĩ en' gelĩk in wārdighẽd en' reghten geboren.  
+Sĩ sĩn begiftiged met ferstand en' geweten,  
+en' behoren sigh ġegens elkander in en gēst fan brǒdershapp tŏ gedragen.
+
 ### [Thỹdĭshe Reghtshrĩvung](de.md)
 
 Alle mænnĭshen sinđ frĩ unđ gĕlĩk an wyrđe unđ reghten geboren.  
-Si sinđ mid fernunft unđ withen begaved  
+Si sinđ mėd fernunft unđ withen begaved  
 unđ sollen ẽnanđer in'm gẽste đer brø̌đerlikħẽd begegenen.
 

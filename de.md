@@ -1,6 +1,6 @@
 # Thỹdĭshe Reghtshrĩvung
 
-Eth empfiled sigh, tǒsammensettungen fon tǒsammensettungen mid hėlphe fon binđestriken tǒ gliđeren. In tǒsammensettungen empfiled eth sigh fremđword-bestanđdẽle mid hėlphe ẽnes binđestrikes avtǒtĕrrennen.
+Eth empfiled sigh, tǒsammensettungen fon tǒsammensettungen mėd hėlphe fon binđestriken tǒ gliđeren. In tǒsammensettungen empfiled eth sigh fremđword-bestanđdẽle mėd hėlphe ẽnes binđestrikes avtǒtĕrrennen.
 
 * *Fahrzeugrückgabe* [ˈfa:rtsɔykrʏkga:bə]: **fartỹg-ryggave** = **fartỹgryggave**
 * *Prozessschritt* [proˈtsɛsʃrɪt]: **process-shridd** = **processshridd**
@@ -31,17 +31,17 @@ Evensowenig wėrđ "ꝁ" ođer "ƀ" fø̌r ẽn geriveneth "k" btw. "b" geshrive
 * *da* [da:]: **đa**
 * *so* [zo:]: **so**
 
-Er ist õk đan lang, when an'm stammenđe ẽn ẽñselener midlũd steed (miđ ođer one thenungs-h).
+Er ist õk đan lang, when an'm stammenđe ẽn ẽñselener mėdlũd steed (miđ ođer one thenungs-h).
 
 * *Sohn* [zo:n]: **son**
 * *Hüte* [ˈhy:tə]: **hyde**
 
-Enđed đer stamm ũph mer als ẽnen midlũd, so ist đer selvstlũd kurt (unđ geøphened).
+Enđed đer stamm ũph mer als ẽnen mėdlũd, so ist đer selvstlũd kurt (unđ geøphened).
 
 * *Sonne* [ˈzɔnə]: **sonne**
 * *Hütte* [ˈhʏtə]: **hydde**
 
-Ũthnamen werđen mid længenstrik ø̌ver dem selvstlũd geshriven.
+Ũthnamen werđen mėd længenstrik ø̌ver dem selvstlũd geshriven.
 
 * *schlaff* [ʃlaf]: **slaph**
   * *Schlaf* [ʃla:f]: **slāph**
@@ -57,14 +57,14 @@ Enđed ẽn stamm mit twilũd ũph ẽn "r", ũph welketh kẽn selvstlũd folge
 * *Feuer* [ˈfɔyɐ]: **fỹr** = **fỹer**
   * *feurig* [ˈfɔyrɪç]: **fỹrig**
 
-Eth werđen ni đrĩ gĕlĩke midlũde hinderẽnanđer geshriven.
+Eth werđen ni đrĩ gĕlĩke mėdlũde hinderẽnanđer geshriven.
 
-* *Mittwoch* [ˈmɪtvɔx]: **middwok**
-* *Mittag* [ˈmɪta:k]: **middag** = **midd-dag**
+* *Mittwoch* [ˈmɪtvɔx]: **mėddwok**
+* *Mittag* [ˈmɪta:k]: **mėddag** = **mėdd-dag**
 * *Fülllinie* [ˈfʏlli:ni̯ə]: **fø̌llinie** = **fø̌ll-linie**
 * *Betttuch* [ˈbɛttu:x]: **beddǒk** = **bedd-dǒk**
 
-Ferhældniswørder, fø̌rwørder sowhi naghsilven unđ enđungen haven oft ẽnen kurten selvstlũd. Si werđen jeđogh allẽnsteenđ ni mid dobbeledem midlũd geshriven.
+Ferhældniswørder, fø̌rwørder sowhi naghsilven unđ enđungen haven oft ẽnen kurten selvstlũd. Si werđen jeđogh allẽnsteenđ ni mėd dobbeledem mėdlũd geshriven.
 
 * *in* [ɪn]: **in**
   * *innen* [ˈɪnən]: **innen**
@@ -159,7 +159,7 @@ Der swunđlũd "e" fon enđungen fælled nagh møglikħẽd ũth.
 ---
 **Blõkrũd bĕlĩved blõkrũd unđ brũdklẽđ bĕlĩved brũdklẽđ.**
 
-**"mid mann unđ mũs"**
+**"mėd mann unđ mũs"**
 
 ---
 
@@ -279,7 +279,7 @@ Seldener wėrđ urgermanisheth "e" [ɛ]/[e:] tǒ [ɪ]/[i:] **ė** geslothen.
   * *gibt* [gɪpt]: **gėved**
 * *Gebirge* [gəˈbɪrgə]: **gebėrge**
 
-# Midlũde
+# Mėdlũde
 
 ## f, v, b, p, ph, p̄
 
@@ -512,7 +512,7 @@ Nagh kurtem urgermanishen selvstlũd wėrđ "g" stimmlos [k] ũthgesproken.
 * *Dach* [dax]: **thak** = **thakh**
 * *Becher* [ˈbɛçɐ]: **beker** = **bekher**
 
-For "k" am stammenđe sinđ nur selvstlũde mid ø̌vertẽken lang.
+For "k" am stammenđe sinđ nur selvstlũde mėd ø̌vertẽken lang.
 
 * *Sprache* [ˈʃpra:xə]: **sprāke** = **sprākhe**
 * *suchen* [ˈzu:xn̩]: **sǒken** = **sǒkhen**
@@ -525,7 +525,7 @@ For "k" am stammenđe sinđ nur selvstlũde mid ø̌vertẽken lang.
 
 ---
 
-Steed for dem "k" am silvenenđe ẽn wĩderer midlũd, so wėrđ đath "k" night geriven ũthgesproken...
+Steed for dem "k" am silvenenđe ẽn wĩderer mėdlũd, so wėrđ đath "k" night geriven ũthgesproken...
 
 * *sinken* [ˈzɪŋkn̩]: **sinken**
 * *denken* [ˈdɛŋkn̩]: **thenken**
@@ -560,7 +560,7 @@ An'm stammenđe fon umstanđswørderen, ferhældniswørderen unđ (gebỹgeden) 
 
 ---
 
-Đath (ungebỹgede) fø̌rword **ik** wėrđ mid **k** an'm stammenđe geshriven.
+Đath (ungebỹgede) fø̌rword **ik** wėrđ mėd **k** an'm stammenđe geshriven.
 
 * *ich* [ɪç]: **ik**
 
@@ -662,7 +662,7 @@ Urgermanisheth "sk" [sk] wėrđ geriven [ʃ] **sh** ũthgesproken.
 
 #### s
 
-An'm wordanfang wėrđ **s** for midlũd [ʃ] ũthgesproken.
+An'm wordanfang wėrđ **s** for mėdlũd [ʃ] ũthgesproken.
 
 * *Schloss* [ʃlɔs]: **sloth** = **ŝloth**
 * *schmal* [ʃma:l]: **smal** = **ŝmal**
