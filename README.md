@@ -10,7 +10,7 @@ e devono agire lĭ uni verso lĭ altĕri in spirito dė fratïllantıa.
 
 ### [Orthographia Francensa](fr.md)
 
-Tǒtos les ŝtăres humänos näscent libros et eq̆uałes ïn dignitäte et ïn dĕrẽctos.  
+Tǒtos les ŝtăres humänos näscent libĕros et eq̆uałes ïn dignitäte et ïn dĕrẽctos.  
 Illes sont dǒt̯ät̯os de rät̯ıone et de conscientia  
 et dẽvent agire les ünos ïnverso les ałtĕros dĕ-ȋntus̄ un s̈pĭrito de fraternitäte.
 
