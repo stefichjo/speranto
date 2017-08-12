@@ -20,7 +20,7 @@ Quando la syllaba eŝt ǎp̆erta, läs võċäles [ɛ]/[ɔ]/[œ] sont fïrmät̯
 * *pied* [pje]: **pẽde** = **pëde** = **pëd̮**
 * *nais* [ne]: **näso** = **nä**
 
-* *fort* [fɔʀ]: **forte** = **for**
+* *fort* [fɔʀ]: **forte** = **fort̯**
 * *forte* [fɔʀt]: **forta** = **fort**
 
 * *école* [ekɔl]: **ŝcola** = **ecol**
