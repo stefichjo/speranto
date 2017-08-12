@@ -1,4 +1,4 @@
-# Orthographia
+# Orthographia Italiana
 
 ## Elisioni, Sïmplificatĭoni éd Assimilatĭoni
 
@@ -742,7 +742,7 @@
 
 ## Lenitĭone éd Rĕaddůpłamento
 
-### Ƅ
+### b
 
 #### ḇ
 
