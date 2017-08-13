@@ -34,3 +34,8 @@ Alle mænnĭshen sinđ frĩ unđ gĕlĩk an wyrđe unđ reghten geboren.
 Si sinđ mėd fernunft unđ withen begaved  
 unđ sollen ẽnanđer in'm gẽste đer brø̌đerlikħẽd begegenen.
 
+## Slavaj Lingvoj
+
+Vse lüdi roẑdaütsä svobodnymi i ravnymi v svoöm dostoinstve i pravah.
+Oni nadeleny razumom i sovesṭü
+i dolẑny postupaṭ v otnoŝenii drug druga v duhe bratstva.
