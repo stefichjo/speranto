@@ -14,12 +14,6 @@ Tǒtos les ŝtăres humänos näscent libĕros et eq̆uałes ïn dignitäte et �
 Illes sont dǒt̯ät̯os de rät̯ıone et de conscientia  
 et dẽvent agire les ünos ïnverso les ałtĕros dĕ-ȋntus̄ un s̈pĭrito de fraternitäte.
 
-### 
-
-Omnes homines dignitate et iure liberi et pares nascuntur,  
-rationis et conscientiae participes sunt,  
-quibus inter se concordiae studio est agendum.
-
 ## Ĝermanaj Lingvoj
 
 ### [Ȧngelish Orthographïă](en.md)
