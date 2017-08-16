@@ -773,11 +773,11 @@ Latĩnishe fremđwørder behalden ire latĩnishe reghtshrĩvung.
 
 ### -ä
 
-* *Messe* [ˈmɛsə]: **messä** = **messe**
-* *Kasse* [ˈkasə]:  **cassä** = **kasse**
-* *Pause* [ˈpaʊ̯zə]: **pausä** = **pause**
-* *Tragödie* [traˈgø:di̯ə]: **tragödiä** = **tragödie**
-* *Historie* [hɪsˈto:ri̯ə]: **historiä** = **historie**
+* *Messe* [ˈmɛsə]: **messe** = **messä**
+* *Kasse* [ˈkasə]:  **casse** = **kassä**
+* *Pause* [ˈpaʊ̯zə]: **pause** = **pausä**
+* *Tragödie* [traˈgø:di̯ə]: **tragödie** = **tragödiä**
+* *Historie* [hɪsˈto:ri̯ə]: **historie** = **historiä**
 
 #### -är
 
@@ -787,18 +787,18 @@ Latĩnishe fremđwørder behalden ire latĩnishe reghtshrĩvung.
 
 * *Universität* [univɛrziˈtɛ:t]: **universität**
 
-### -iă
+### -i
 
-* *Fantasie* [fantaˈzi:]: **phantasiă** = **phantasi**
-* *Biologie* [bioloˈgi:]: **biologiă** = **biologi**
-* *Demokratie* [demokraˈti:]: **demokratiă** = **demokrati**
-* *Theorie* [teoˈri:]: **theoriă** = **theori**
+* *Fantasie* [fantaˈzi:]: **phantasi** = **phantasiă**
+* *Biologie* [bioloˈgi:]: **biologi** = **biologiă**
+* *Demokratie* [demokraˈti:]: **demokrati** = **demokratiă**
+* *Theorie* [teoˈri:]: **theori** = **theoriă**
 
 ---
 **Grũ, dỹrer frỹnđ, ist alle theoriă.**
 
 ---
 
-#### -ĩă
+#### -ĩ
 
-* *Polizei* [poliˈtsaɪ̯]: **politĩă** = **politĩ**
+* *Polizei* [poliˈtsaɪ̯]: **politĩ** = **politĩă**

@@ -4,26 +4,63 @@
 
 Quando la syllaba eŝt ǎp̆erta, läs võċäles [ɛ]/[ɔ]/[œ] sont fïrmät̯as [e]/[o]/[ø].
 
-* *galop* [galo]: **galop** = **galo**
-* *chope* [ʃɔp]: **ĉopa** = **ĉop**
-* *pope* [pɔp]: **pop** = **pop**
-
 * *feu* [fø]: **föco** = **fö**
 * *fleur* [flœʀ]: **flöre** = **flör**
+
+Quando la forma mascülina se termina ap̆ŭd̯-hŏque la võċäle [o], la forma feminina termina ap̆ŭd̯-hŏque ça ałsi.
+
+* *gros* [gʀo]: **grosso** = **gros̆**
+* *grosse* [gʀos]: **grossa** = **gros**
+
+Quando la forma feminina se termina ap̆ŭd̯-hŏque la võċäle [ɛ], la forma mascülina termina ap̆ŭd̯-hŏque ça ałsi.
+
+* *parfaite* [paʀfɛt]: **pȇrfȇċta** = **pȇrfȇċt**
+* *parfait* [paʀfɛ]: **pȇrfȇċto** = **pȇrfȇċt̯**
+
+
+
+tres, trop
+
+
+
+* *jeune* [ʒœn]: **jẙvăna** = **jön**
+* *jeun* [ʒœ͂]: **jẙvăne** = **jöñ**
+
+...
+
+* *galop* [galo]: **galop** = **galo**
+* *chope* [ʃɔp]: **ĉopa** = **ĉop**
+* *école* [ekɔl]: **ŝcola** = **ecol**
+* *pope* [pɔp]: **pop** = **pop**
+* *bonne* [bɔn]: **bona** = **bon**
+* *bon* [bɔ̃]: **bono** = **boñ**
+* *cône* [kon]: **cóno** = **cón**
+* *contrôl* [kɔ͂tʀol]: **contrótŭlo** = **contróllo** = **coñtról**
+* *rôle* [rol]: **rótŭlo** = **róllo** = **ról**
+
+...
+
+* *nais* [ne]: **näso** = **nä**
+* *clé* [kle]: **cläve** = **clä**
+* *et* [e]: **ed** = **e**
+* *thé* [te]: **te**
+
+
+* *mais* [mɛ]: **mäs̆** = **mäs̆**
+* *très* [tʀɛ]: **trän̆s̆** = **träs̆**
+
 
 
 ---
 
 * *laison* [ljɛzɔ͂]: **liğät̯ıone** = **liäsoñ**
 
-* *chez* [ʃe]: **ĉäs̆a** = **ĉäs̆**
+* *chez* [ʃe]: **ĉäs̆a** = **ĉä**
 * *pied* [pje]: **pẽde** = **pëde** = **pëd̮**
-* *nais* [ne]: **näso** = **nä**
 
 * *fort* [fɔʀ]: **forte** = **fort̯**
 * *forte* [fɔʀt]: **forta** = **fort**
 
-* *école* [ekɔl]: **ŝcola** = **ecol**
 * *bol* [bɔl]: **bol** = **bol**
 * *Paul* [pɔl]: **Paulo** = **Pol**
 
@@ -68,7 +105,7 @@ Quando la syllaba eŝt ǎp̆erta, läs võċäles [ɛ]/[ɔ]/[œ] sont fïrmät̯
 
 #### -äre
 
-* *compter* [kɔ͂te]: **contäre** = **contäř** = **coñte**
+* *compter* [kɔ͂te]: **contäre** = **contär̆** = **coñte**
 
 #### -ät-
 
@@ -81,10 +118,10 @@ Quando la syllaba eŝt ǎp̆erta, läs võċäles [ɛ]/[ɔ]/[œ] sont fïrmät̯
 
 ### ai
 
+* *gai* [gɛ]: **gai** = **gä**
 * *mai* [mɛ]: **mai** = **mä**
 * *mais* [mɛ]: **mäs** = **maṡ** = **mä**
-* *gai* [gɛ]: **gai** = **gä**
-* *paix* [pɛ]: **päce** = **pä**
+* *paix* [pɛ]: **paċe** = **paċ**
 * *prêt* [prɛ]: **preŝto** = **pret̯**
 
 ### au
@@ -156,10 +193,6 @@ Quando la syllaba eŝt ǎp̆erta, läs võċäles [ɛ]/[ɔ]/[œ] sont fïrmät̯
 
 ### ó
 
-* *cône* [kon]: **cóno** = **cón**
-* *contrôl* [kɔ͂tʀol]: **contrótŭlo** = **contróllo** = **coñtról**
-* *rôle* [rol]: **rótŭlo** = **róllo** = **ról**
-
 ### ǒ
 
 * *amour* [amuʀ]: **amǒre** = **amǒr**
@@ -220,12 +253,6 @@ Quando la syllaba eŝt ǎp̆erta, läs võċäles [ɛ]/[ɔ]/[œ] sont fïrmät̯
 * *chienne* [ʃjɛn]: **ĉãna** = **ĉãn**
 
 ## Adjectivos
-
-* *bon* [bɔ̃]: **bono** = **boñ**
-* *bonne* [bɔn]: **bona** = **bon**
-
-* *jeun* [ʒœ͂]: **jẙvăne** = **jöñ**
-* *jeune* [ʒœn]: **jẙvăna** = **jön**
 
 * *premier* [pʀəmje]: **prĭmëro** = **prmër̆**
 * *première* [pʀəmjɛʀ]: **prĭmëra** = **prmër̄**
@@ -373,7 +400,7 @@ Quando la syllaba eŝt ǎp̆erta, läs võċäles [ɛ]/[ɔ]/[œ] sont fïrmät̯
 * *être* [ɛtʀ]: **ŝtăre** = **etr**
 * *êtoile* [etwal]: **ŝtẽlla** = **etẽl**
 * *maître* [mɛtʀ]: **mägĭŝtro** = **mätr**
-* *goûter* [gute]: **guŝtäre** = **gutäř**
+* *goûter* [gute]: **guŝtäre** = **gutär̆**
 * *bâton* [bɑtɔ͂]: **baŝtone** = **batoñ**
 * *état* → *êta* [eta]: **ŝtato** = **eta**
 * *été* [ete]: **eŝtäte** = **etä**
@@ -383,13 +410,12 @@ Quando la syllaba eŝt ǎp̆erta, läs võċäles [ɛ]/[ɔ]/[œ] sont fïrmät̯
 * *part* [paʀ]: **parte** = **par**
 * *port* [pɔʀ]: **porto** = **por**
 * *point* [pwɛ̃]: **pũncto** = **pũñ**
-* *mère* [mɛʀ]: **mädre** = **mär**
-* *père* [pɛʀ]: **pädre** = **pär**
-* *frère* [fʀɛʀ]: **frädre** = **frär**
+* *mère* [mɛʀ]: **mät̯re** = **mär**
+* *père* [pɛʀ]: **pät̯re** = **pär**
+* *frère* [fʀɛʀ]: **frät̯re** = **frär**
 
 ## -v
 
-* *clé* [kle]: **cläve** = **clä**@
 * *grave* [gʀav]: **grave** = **grav**
 * *œuf* [œf]: **övo** = **öv**
 
@@ -402,7 +428,7 @@ Quando la syllaba eŝt ǎp̆erta, läs võċäles [ɛ]/[ɔ]/[œ] sont fïrmät̯
 ...
 
 * *livre* [livʀ]: **livro** = **livr**
-* *libre* [libʀ]: **libro** = **libr**
+* *libre* [libʀ]: **libĕro** = **libr**
 
 
 ---
@@ -425,19 +451,14 @@ Quando la syllaba eŝt ǎp̆erta, läs võċäles [ɛ]/[ɔ]/[œ] sont fïrmät̯
 
 ...
 
-* *aimer* → *aime* [eme]: **ämäre** = **ämäř**
-* *changer* → *chanje* [ʃɑ͂ʒe]: **ĉambĭäre** = **ĉanjäř** = **ĉañjäř**
+* *aimer* → *aime* [eme]: **ämäre** = **ämär̆**
+* *changer* → *chanje* [ʃɑ͂ʒe]: **ĉambĭäre** = **ĉanjär̆** = **ĉañjär̆**
 
 ...
 
 
 * *déjà* [deʒa]: **de-jam** = **de-ja**
-* *et* [e]: **et** = **e**
-
-
-* *thé* [te]: **te**
 * *gant* [gɑ͂]: **ganto** = **gañ**
 * *pont* [pɔ͂]: **ponte** = **poñ**
-
 
 
