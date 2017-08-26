@@ -1,61 +1,120 @@
-# Orthographia
+# Orthographia Francensa
+
+Generalmente on nĕ pronůnciat nėc la terminät̯ıone nėc lĕ fine consonantic̄o.
+
+* *cas* [kɑ]: **caso** = ***ca***
+
+On tǒt̯os-dĭǒrnos pronůnciat üna **l**/**r**, ałĭ-si ïnsïmûle ap̆ŭd-hœc̄ üna **p**/**b**/**f**/**v**, **t**, **c**/**g** precedentȇ.
+
+* *col* [kɔl]: **collo** = ***col***
+  * *noble* [nɔbl]: **nobĭle** = ***nobl***
+  * *oracle* [ɔʀakl]: **oracŭlo** = ***oracl***
+  * *mufle* [myfl]: **müffĕl** = **müfl**
+  * *angle* [ɑ͂gl]: **angŭlo** = ***añgl***
+  * *peuple* [pœpl]: **pöpŭlo** = ***pöpl***
+* *pore* [pɔʀ]: **poro** = ***por***
+  * *macabre* [makɑbʀ]: **macabro** = ***macabr***
+  * *âcre* [ɑkʀ]: **acre** = ***acr***
+  * *chiffre* → *chifre* [ʃifʀ]: **ĉifro** = ***ĉifr***
+  * *maigre* [mɛgʀ]: **mägro** = ***mägr***
+  * *lèpre* [lɛpʀ]: **lepra** = ***lepr***
+  * *quatre* → *quattre* [katʀ]: **quattro** = ***quatr***
+  * *œuvre* → *euvre* [œvʀ]: **öp̆ĕra** = **övr**
+
+...
+
+* *cou* [ku]: **cǒłlo** = ***cǒ***
+* *cul* [kyl]: **cüł** = ***cü***
+* *aimer* → *aimair̆* [eme]: **ämär̆e** = ***ämä***
 
 # Võċäles
 
-Quando la syllaba eŝt ǎp̆erta, läs võċäles [ɛ]/[ɔ]/[œ] sont fïrmät̯as [e]/[o]/[ø].
+Quando la syllaba eŝt ǎp̆erta, läs võċäles [ɛ]/[ɔ]/[œ] sont fïrmät̯ås [e]/[o]/[ø].
 
-* *feu* [fø]: **föco** = **fö**
-* *fleur* [flœʀ]: **flöre** = **flör**
+* *...*
+* *feu* [fø]: **föco** = ***fö***
+* *fleur* [flœʀ]: **flöre** = ***flör***
+* *galop* [galo]: **galop** = ***galo***
+* *école* [ekɔl]: **ŝcola** = ***ecol***
 
-Quando la forma mascülina se termina ap̆ŭd̯-hŏque la võċäle [o], la forma feminina termina ap̆ŭd̯-hŏque ça ałsi.
+De-ăv-ante üna nasale, la syllabe eŝt fïrmät̯å.
 
-* *gros* [gʀo]: **grosso** = **gros̆**
-* *grosse* [gʀos]: **grossa** = **gros**
+* *sain* [sɛ͂]: **säno** = ***säñ***
+* *saine* [sɛn]: **säna** = ***sän***
+* *jeun* [ʒœ͂]: **jẙvăne** = ***jöñ***
+* *jeune* [ʒœn]: **jẙvănȇ** = ***jön***
+* *bon* [bɔ̃]: **bono** = ***boñ***
+* *bonne* [bɔn]: **bona** = ***bon***
 
-Quando la forma feminina se termina ap̆ŭd̯-hŏque la võċäle [ɛ], la forma mascülina termina ap̆ŭd̯-hŏque ça ałsi.
+-ais
+fʀɑ͂sɛ
+fʀɑ͂sɛz
+
+frais (fraîche) [fʀɛ, fʀɛʃ]
+mais [mɛ] 
+paix [pɛ] 
+très [tʀɛ]
+sais [sɛ]
+
+nez <pl nez> [ne]
+les [le]
+mes [me]
+
+
+souhait [swɛ]
+
+
+clé [kle]
+
+
+---
+
+* *avec* [avɛk]: **ap̆ŭd-hœc̄** = ***av-hec***
+* *toujours* [tuʒuʀ]: **tǒt̯os-dĭǒrnos** = **tǒ-jǒr**
+* *malade* [malad]: **malĕ-habĭt̯ȏ** = **malad**
+
+* *pas* [pɑ]: **passo** = ***pa***
+
+* *classe* [klas]: **classa** = ***class***
+
+
+* *bas* [bɑ]: **basso** = ***ba***
+* *basse* [bɑs]: **bassa** = ***bass***
+
+---
+
+La võċäle [o]/[ø] (dĕ-int̯us̄ una syllabe ǎp̆erta) nĕ ĉanjat passo dĕ-int̯us̄ una forma parallela ap̆ŭd̯-hœc̄ una syllaba fïrmät̯a.
+
+* *gros* [gʀo]: **grosso** = **gros̆s̆**
+* *grosse* [gʀos]: **grossa** = **gros̄s̄**
+* *Europe* [øʀɔp]: **Europa** = **Örop**
+* *trop grave* [tʀo gʀav]: **trop̆p̆o grave** = **trop̆ grav**
+* *trop important* [tʀop‿ɛ͂pɔʀtɑ͂]: **trop̄p̄o importante** = **trop̄ im̃portã**
+* *mieux manger* [mjø mɑ̃ʒe]: **melio manjär̆e**@
+* *mieux être* [mjøz‿ɛtʀ]: **melio ŝtăre**@
+
+La võċäle [ɛ] (dĕ-int̯us̄ una syllabe fïrmät̯a) nĕ ĉanjat passo dĕ-int̯us̄ una forma parallela ap̆ŭd̯-hŏque una syllaba ǎp̆erta.
 
 * *parfaite* [paʀfɛt]: **pȇrfȇċta** = **pȇrfȇċt**
 * *parfait* [paʀfɛ]: **pȇrfȇċto** = **pȇrfȇċt̯**
-
-
-
-tres, trop
-
-
-
-* *jeune* [ʒœn]: **jẙvăna** = **jön**
-* *jeun* [ʒœ͂]: **jẙvăne** = **jöñ**
-
-...
-
-* *galop* [galo]: **galop** = **galo**
-* *chope* [ʃɔp]: **ĉopa** = **ĉop**
-* *école* [ekɔl]: **ŝcola** = **ecol**
-* *pope* [pɔp]: **pop** = **pop**
-* *bonne* [bɔn]: **bona** = **bon**
-* *bon* [bɔ̃]: **bono** = **boñ**
-* *cône* [kon]: **cóno** = **cón**
-* *contrôl* [kɔ͂tʀol]: **contrótŭlo** = **contróllo** = **coñtról**
-* *rôle* [rol]: **rótŭlo** = **róllo** = **ról**
-
-...
-
+* *effet* [efɛ]: **effȇċto** = **pȇrfȇċt̯**
+* *vrai* [vrɛ]: **vĕraċo** = **vraċ**
+* *mais* [mɛ]: **maṡ** = **maṡ**
+* *quai* [ke]: **cäio** = **cä**
 * *nais* [ne]: **näso** = **nä**
 * *clé* [kle]: **cläve** = **clä**
 * *et* [e]: **ed** = **e**
-* *thé* [te]: **te**
-
-
-* *mais* [mɛ]: **mäs̆** = **mäs̆**
-* *très* [tʀɛ]: **trän̆s̆** = **träs̆**
-
-
+* *thé* [te]: **te** = **te**
+* *très important* [tʀɛz‿ɛ͂pɔʀtɑ͂]: **trän̆s̄ importante** = **träs̄ im̃portã**
+* *très grave* [tʀɛ gʀav]: **trän̆s̆ grave** = **träs̆ grav**
 
 ---
 
 * *laison* [ljɛzɔ͂]: **liğät̯ıone** = **liäsoñ**
 
-* *chez* [ʃe]: **ĉäs̆a** = **ĉä**
+* *chez eux* [ʃez‿ø]: **ĉäs̄ă ełles** = **ĉes̄ ös̆**@
+* *chez* [ʃe]: **ĉäs̆a** = **ĉä**@
+
 * *pied* [pje]: **pẽde** = **pëde** = **pëd̮**
 
 * *fort* [fɔʀ]: **forte** = **fort̯**
@@ -78,7 +137,7 @@ tres, trop
 * *tente* [tɑ͂t]: **tenta** = **teñt** = **tȇñt**
 * *teint* [tɛ͂]: **tinto** = **tiñ**
 * *vin* [vɛ͂]: **vino** = **viñ**
-* *mon* [mɔ͂]: **moñ**
+* *mon* [mɔ͂]: **moñ** = **moñ**
 * *un* [œ͂]: **üno** = **üñ**
 
 * *veine* [vɛn]: **vena** = **ven**
@@ -90,7 +149,6 @@ tres, trop
 
 ## a
 
-* *cas* [kɑ]: **caso** = **ca**
 * *salle* [sal]: **sala** = **sal**
 
 ### ä
@@ -103,14 +161,14 @@ tres, trop
 
 * *sel* → *sail* [sɛl]: **säle** = **säl**
 
-#### -äre
+#### -är̆-
 
 * *compter* [kɔ͂te]: **contäre** = **contär̆** = **coñte**
 
 #### -ät-
 
 * *université* [ynivɛʀsite]: **üniversitäte** = **üniversitä**
-* *soirée* [swaʀe]: **sẽrät̯a** = **sẽre**
+* *soirée* [swaʀe]: **sẽrät̯a** = **sẽrä**
 
 ### ǎ
 
@@ -169,8 +227,6 @@ tres, trop
 
 ### eu
 
-* *peuple* [pœpl]: **pöpŭlo** = **pöpl**
-* *Europe* [øʀɔp]: **Europa** = **Örop**
 
 ...
 
@@ -183,6 +239,8 @@ tres, trop
 ### ĩ
 
 * *pois* [pwa]: **pĩso** = **pĩ**
+* *voie* [vwa]: **vĩa** = **vĩ**
+* *voyage* [vwajaʒ]: **vĩajo** = **vĩaj**@j
 
 ## o
 
@@ -192,6 +250,10 @@ tres, trop
 * *personne* [pɛʀsɔn]: **persona** = **person**
 
 ### ó
+
+* *cône* [kon]: **cóno** = **cón**
+* *contrôl* [kɔ͂tʀol]: **contrótŭlo** > **contróllo** = **coñtról**
+* *rôle* [rol]: **rótŭlo** > **róllo** = **ról**
 
 ### ǒ
 
@@ -227,7 +289,7 @@ tres, trop
 ### ü
 
 * *tu* [ty]: **tü**
-* *mur* [myʀ]: **mür**
+* *mur* [myʀ]: **müro** = ***mür***
 
 ...
 
@@ -279,7 +341,7 @@ tres, trop
 
 ## Liäsoñ
 
-* *croc de boucher* [kʀo də buʃe]: **crocco de buĉer̆** = **cro de buĉe** = **croc̆ de buĉe**
+* *croc de boucher* [kʀo də buʃe]: **crocco de buĉer̆** = **cro de buĉe** = **croc̆ d buĉe**
 * *croc-en-jambe* [kʀɔk‿ɑ̃ ʒɑ̃b]: **crocco ïn ĝamba** = **croc̄ ïn jam̃b**
 
 * *grand roi* [gʀɑ̃ ʀwa]: **grande rẽge** = **grañ rẽ** = **grañd̮ rẽ**
@@ -288,11 +350,12 @@ tres, trop
 * *sang neuf* [sɑ̃ nœf]: **sangue növo** = **sañ növ̄** = **sañğ növ̄**
 * *sang impur* [sɑ̃k‿ɛ̃pyʀ]: **sangue impüro** = **sañḡ im̃pür**
 
-* *trop grand* [tʀo grɑ͂]: **troppo grande** = **tro grañ** = **trop̆ grañd̮**
-* *trop aimable* [tʀop‿ɛmabl]: **troppo ämabĭle** = **trop̄ ämabl**
-
 * *premier fils* [pʀəmje fis]: **prĭmëro filius̄**@ = **prmër̆ fis**
 * *premier enfant* [pʀəmjɛʀ‿ɑ̃fɑ̃]: **prĭmëro ïnfante** = **prmër̄ ïñfañ**
+
+* *les francs* [le fʀɑ̃]: **läs francos** = **lä frañ**
+* *les euros* [lez‿øʀo]: **läs euros** = **läs öro**
+
 
 ## -c
 
@@ -436,7 +499,6 @@ tres, trop
 
 ...
 
-* *oracle* [ɔʀakl]: **oracŭlo** = **oracl**
 * *fruit* [fʀɥi]: **fruċto** = **früċ** = **früi**
 * *avoir* [avwaʀ]: **havẽre** = **avẽr**
 * *jour* [ʒuʀ]: **dĭǒrno** = **jǒr**
@@ -451,8 +513,7 @@ tres, trop
 
 ...
 
-* *aimer* → *aime* [eme]: **ämäre** = **ämär̆**
-* *changer* → *chanje* [ʃɑ͂ʒe]: **ĉambĭäre** = **ĉanjär̆** = **ĉañjär̆**
+* *changer* → *chanje* [ʃɑ͂ʒe]: **ĉambĭär̆e** = **ĉañjä**
 
 ...
 
@@ -461,4 +522,5 @@ tres, trop
 * *gant* [gɑ͂]: **ganto** = **gañ**
 * *pont* [pɔ͂]: **ponte** = **poñ**
 
+* *couvrir* [kuvʀiʀ]: **cǒp̆rire** = ***cǒvrir***
 
