@@ -19,7 +19,7 @@ On tǒt̯os-dĭǒrnos pronůnciat üna **l**/**r**, ałĭ-si ïnsïmûle ap̆ŭd
   * *maigre* [mɛgʀ]: **mägro** = ***mägr***
   * *lèpre* [lɛpʀ]: **lepra** = ***lepr***
   * *quatre* → *quattre* [katʀ]: **quattro** = ***quatr***
-  * *œuvre* → *euvre* [œvʀ]: **öp̆ĕra** = **övr**
+  * *œuvre* → *euvre* [œvʀ]: **öp̆ĕra** = ***övr***
 
 ...
 
