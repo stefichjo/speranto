@@ -24,7 +24,12 @@ La literoj **w** [w] kaj **y** [j] aperas nur en fremdaj vortoj. **y** [j] kombi
 
 ## Duonvokaloj
 
-Neakcenteblaj **i** [ɪ] → **ĭ** [j] kaj **u** [ʊ] → **ŭ** [w] eliziiĝas.
+Nekcenteblaj **i** [ɪ] kaj **u** [ʊ] fariĝas **ĭ** [j] kaj **ŭ** [w].
+
+* **bestia** [ˈbɛstɪa] → **bestĭo** [ˈbɛstjɔ]
+* **lingua** [ˈlɪngʊa] → **linguo** [ˈlɪŋgwɔ]
+
+**Oido** → **Novoido:** Neakcenteblaj **ĭ** [j] kaj **ŭ** [w] eliziiĝas.
 
 * **bestia** [ˈbɛstɪa] → **bestĭo** [ˈbɛstjɔ] → **besto** [ˈbɛstɔ]
 * **lingua** [ˈlɪngʊa] → **linguo** [ˈlɪŋgwɔ] → **lingo** [ˈlɪŋgɔ]
