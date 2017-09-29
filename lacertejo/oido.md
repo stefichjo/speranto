@@ -31,11 +31,11 @@ Neakcenteblaj **i** [ɪ] → **ĭ** [j] kaj **u** [ʊ] → **ŭ** [w] eliziiĝas
 
 ### Diftongoj
 
-**Oido** → **Novoido:** Neakcenteblaj **i** [ɪ] → **ĭ** [j] kaj **u** [ʊ] → **ŭ** [w] formas monoftongon kun sia najbara vokalo.
+**Oido** → **Novoido:** Neakcenteblaj **ĭ** [j] kaj **ŭ** [w] formas monoftongon kun sia najbara vokalo.
 
-* **auro** [ˈaʊrɔ] → **oro** [ˈɔrɔ]
-* **Europo** [ɛʊˈrɔpɔ] → **Uropo** [uˈrɔpɔ]
-* **traino** [ˈtrajnɔ] → **treno** [ˈtrɛnɔ]
+* **aŭro** [ˈaʊrɔ] → **oro** [ˈɔrɔ]
+* **Eŭropo** [ɛʊˈrɔpɔ] → **Uropo** [uˈrɔpɔ]
+* **traĭno** [ˈtrajnɔ] → **treno** [ˈtrɛnɔ]
 
 ## Konsonantoj
 
