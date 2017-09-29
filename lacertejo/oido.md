@@ -31,7 +31,7 @@ Neakcenteblaj **i** [ɪ] → **ĭ** [j] kaj **u** [ʊ] → **ŭ** [w] eliziiĝas
 
 ### Diftongoj
 
-**Novoido:** Neakcenteblaj **i** [ɪ] → **ĭ** [j] kaj **u** [ʊ] → **ŭ** [w] formas monoftongon kun sia najbara vokalo.
+**Oido** → **Novoido:** Neakcenteblaj **i** [ɪ] → **ĭ** [j] kaj **u** [ʊ] → **ŭ** [w] formas monoftongon kun sia najbara vokalo.
 
 * **auro** [ˈaʊrɔ] → **oro** [ˈɔrɔ]
 * **Europo** [ɛʊˈrɔpɔ] → **Uropo** [uˈrɔpɔ]
