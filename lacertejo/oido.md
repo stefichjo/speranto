@@ -31,7 +31,7 @@ Nekcenteblaj **i** [j] kaj **u** [w] skribiĝas **ĭ** kaj **ŭ**.
 * **bestia** [ˈbɛstja] → **bestĭo** [ˈbɛstjɔ]
 * **lingua** [ˈlɪŋgwa] → **lingŭo** [ˈlɪŋgwɔ]
 
-***Oido → Novoido:*** Neakcenteblaj **ĭ** [j] kaj **ŭ** [w] eliziiĝas.
+*Oido → Novoido:* Neakcenteblaj **ĭ** [j] kaj **ŭ** [w] eliziiĝas.
 
 * **bestĭo** [ˈbɛstjɔ] → **besto** [ˈbɛstɔ]
 * **lingŭo** [ˈlɪŋgwɔ] → **lingo** [ˈlɪŋgɔ]
@@ -42,13 +42,13 @@ Komence de radiko, neakcentebla **i** [j] fariĝas **j** [dʒ].
 
 * **iusta** [ˈjʊsta] → **justa** [ˈdʒʊsta]
 
-***Neolingua → Praoido:*** Neakcentebla **i** [j] fariĝas **j** [ʒ] komence de radiko.
+*Neolingua → Praoido:* Neakcentebla **i** [j] fariĝas **j** [ʒ] komence de radiko.
 
 * **iusta** [ˈjʊsta] → **justa** [ˈʒʊsta]
 
 ### Diftongoj
 
-***Oido → Novoido:*** Neakcenteblaj **ĭ** [j] kaj **ŭ** [w] formas monoftongon kun sia najbara vokalo.
+*Oido → Novoido:* Neakcenteblaj **ĭ** [j] kaj **ŭ** [w] formas monoftongon kun sia najbara vokalo.
 
 * **aŭro** [ˈaʊrɔ] → **oro** [ˈɔrɔ]
 * **Eŭropo** [ɛʊˈrɔpɔ] → **Uropo** [uˈrɔpɔ]
