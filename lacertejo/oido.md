@@ -31,8 +31,8 @@ Nekcenteblaj **i** [ɪ] kaj **u** [ʊ] fariĝas **ĭ** [j] kaj **ŭ** [w].
 
 **Oido** → **Novoido:** Neakcenteblaj **ĭ** [j] kaj **ŭ** [w] eliziiĝas.
 
-* **bestia** [ˈbɛstɪa] → **bestĭo** [ˈbɛstjɔ] → **besto** [ˈbɛstɔ]
-* **lingua** [ˈlɪngʊa] → **linguo** [ˈlɪŋgwɔ] → **lingo** [ˈlɪŋgɔ]
+* **bestĭo** [ˈbɛstjɔ] → **besto** [ˈbɛstɔ]
+* **linguo** [ˈlɪŋgwɔ] → **lingo** [ˈlɪŋgɔ]
 
 ### Diftongoj
 
