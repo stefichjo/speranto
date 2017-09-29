@@ -24,19 +24,31 @@ La literoj **w** [w] kaj **y** [j] aperas nur en fremdaj vortoj. **y** [j] kombi
 
 ## Duonvokaloj
 
+### Neakcenteblaj i kaj u
+
 Nekcenteblaj **i** [j] kaj **u** [w] skribiĝas **ĭ** kaj **ŭ**.
 
 * **bestia** [ˈbɛstja] → **bestĭo** [ˈbɛstjɔ]
 * **lingua** [ˈlɪŋgwa] → **lingŭo** [ˈlɪŋgwɔ]
 
-**Oido** → **Novoido:** Neakcenteblaj **ĭ** [j] kaj **ŭ** [w] eliziiĝas.
+***Oido → Novoido:*** Neakcenteblaj **ĭ** [j] kaj **ŭ** [w] eliziiĝas.
 
 * **bestĭo** [ˈbɛstjɔ] → **besto** [ˈbɛstɔ]
 * **lingŭo** [ˈlɪŋgwɔ] → **lingo** [ˈlɪŋgɔ]
 
+### Radikokomenca Neakcentebla i
+
+Komence de radiko, neakcentebla **i** [j] fariĝas **j** [dʒ].
+
+* **iusta** [ˈjʊsta] → **justa** [ˈdʒʊsta]
+
+***Neolingua → Praoido:*** Neakcentebla **i** [j] fariĝas **j** [ʒ] komence de radiko.
+
+* **iusta** [ˈjʊsta] → **justa** [ˈʒʊsta]
+
 ### Diftongoj
 
-**Oido** → **Novoido:** Neakcenteblaj **ĭ** [j] kaj **ŭ** [w] formas monoftongon kun sia najbara vokalo.
+***Oido → Novoido:*** Neakcenteblaj **ĭ** [j] kaj **ŭ** [w] formas monoftongon kun sia najbara vokalo.
 
 * **aŭro** [ˈaʊrɔ] → **oro** [ˈɔrɔ]
 * **Eŭropo** [ɛʊˈrɔpɔ] → **Uropo** [uˈrɔpɔ]
@@ -56,8 +68,18 @@ Nekcenteblaj **i** [j] kaj **u** [w] skribiĝas **ĭ** kaj **ŭ**.
 
 ### Duonvokaloj
 
+#### Neakcenteblaj i kaj u
+
+Post vokalo, neakcentebla **ĭ** [j] skribiĝas **j**.
+
+* **...**
+
 Neakcentebla **ŭ** [w] fariĝas **v** [v].
 
 * **lingŭo** [ˈlɪŋgwɔ] → **lingvo** [ˈlɪŋgvɔ]
+
+#### Radikokomenca Neakcentebla i
+
+Komence de radiko, **praoida** neakcentebla **j** [ʒ] skribiĝas **ĵ**.
 
 ### Konsonantoj
