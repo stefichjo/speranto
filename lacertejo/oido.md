@@ -24,15 +24,15 @@ La literoj **w** [w] kaj **y** [j] aperas nur en fremdaj vortoj. **y** [j] kombi
 
 ## Duonvokaloj
 
-Nekcenteblaj **i** [ɪ] kaj **u** [ʊ] fariĝas **ĭ** [j] kaj **ŭ** [w].
+Nekcenteblaj **i** [j] kaj **u** [w] skribiĝas **ĭ** kaj **ŭ**.
 
-* **bestia** [ˈbɛstɪa] → **bestĭo** [ˈbɛstjɔ]
-* **lingua** [ˈlɪngʊa] → **linguo** [ˈlɪŋgwɔ]
+* **bestia** [ˈbɛstja] → **bestĭo** [ˈbɛstjɔ]
+* **lingua** [ˈlɪŋgwa] → **lingŭo** [ˈlɪŋgwɔ]
 
 **Oido** → **Novoido:** Neakcenteblaj **ĭ** [j] kaj **ŭ** [w] eliziiĝas.
 
 * **bestĭo** [ˈbɛstjɔ] → **besto** [ˈbɛstɔ]
-* **linguo** [ˈlɪŋgwɔ] → **lingo** [ˈlɪŋgɔ]
+* **lingŭo** [ˈlɪŋgwɔ] → **lingo** [ˈlɪŋgɔ]
 
 ### Diftongoj
 
@@ -48,7 +48,7 @@ Nekcenteblaj **i** [ɪ] kaj **u** [ʊ] fariĝas **ĭ** [j] kaj **ŭ** [w].
 
 # Dialecto
 
-**Dialecto** baziĝas sur **Lingua** → **Oido**.
+**Dialecto** baziĝas sur **Oido**.
 
 ## Alfabeto
 
@@ -56,8 +56,8 @@ Nekcenteblaj **i** [ɪ] kaj **u** [ʊ] fariĝas **ĭ** [j] kaj **ŭ** [w].
 
 ### Duonvokaloj
 
-Anstataŭ eliziiĝi, neakcentebla **u** [ʊ] → **ŭ** [w] fariĝas **v** [v].
+Neakcentebla **ŭ** [w] fariĝas **v** [v].
 
-* **linguo** [ˈlɪŋgwɔ] → **lingvo** [ˈlɪŋgvɔ]
+* **lingŭo** [ˈlɪŋgwɔ] → **lingvo** [ˈlɪŋgvɔ]
 
 ### Konsonantoj
