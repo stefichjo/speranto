@@ -16,4 +16,5 @@
 
 La literoj **w** [w] kaj **y** [j] aperas nur en fremdaj vortoj. **y** kombiniĝas al **cy** [tʃ], **dy** [dʒ], **gy** [dʒ], **sy** [ʃ], **zy** [ʒ].
 
-* Wasyingtono [waʃɪngˈtɔnɔ]
+* ***Wasyingtono*** [waʃɪngˈtɔnɔ]
+
