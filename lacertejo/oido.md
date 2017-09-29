@@ -4,7 +4,9 @@
 > ---
 > L. L. Zamenhof
 
-**Oido** baziĝas sur **Lingua**. Pli precize, **Praoido** baziĝas sur **Neolingua**.
+**Oido** baziĝas sur **Neolingua**.
+
+* **centro** [ˈθɛntrɔ] → **zentro** [ˈtsɛntrɔ]
 
 ## Alfabeto
 
@@ -14,7 +16,43 @@
 |**n**|**o**|**p**|**q**|**r**|**s**|**t**|**u**|**ŭ**|**v**|**w**|**x**|**y**|**z**|
 |[n]|[ɔ]|[p]|[k]|[r]|[s]|[t]|[ʊ]|[w]|[v]|[w]|[ks]|[j]|[ts]|
 
-La literoj **w** [w] kaj **y** [j] aperas nur en fremdaj vortoj. **y** kombiniĝas al **cy** [tʃ], **dy** [dʒ], **gy** [dʒ], **sy** [ʃ], **zy** [ʒ].
+La literoj **w** [w] kaj **y** [j] aperas nur en fremdaj vortoj. **y** [j] kombiniĝas al **cy** [tʃ], **dy** [dʒ], **gy** [dʒ], **sy** [ʃ].
 
-* ***Wasyingtono*** [waʃɪngˈtɔnɔ]
+* **Wasyingtono** [waʃɪŋgˈtɔnɔ]
 
+## Vokaloj
+
+## Duonvokaloj
+
+Neakcenteblaj **i** [ɪ] → **ĭ** [j] kaj **u** [ʊ] → **ŭ** [w] eliziiĝas.
+
+* **bestia** [ˈbɛstɪa] → **bestĭo** [ˈbɛstjɔ] → **besto** [ˈbɛstɔ]
+* **lingua** [ˈlɪngʊa] → **linguo** [ˈlɪŋgwɔ] → **lingo** [ˈlɪŋgɔ]
+
+### Diftongoj
+
+**Novoido:** Neakcenteblaj **i** [ɪ] → **ĭ** [j] kaj **u** [ʊ] → **ŭ** [w] formas monoftongon kun sia najbara vokalo.
+
+* **auro** [ˈaʊrɔ] → **oro** [ˈɔrɔ]
+* **Europo** [ɛʊˈrɔpɔ] → **Uropo** [uˈrɔpɔ]
+* **traino** [ˈtrajnɔ] → **treno** [ˈtrɛnɔ]
+
+## Konsonantoj
+
+...
+
+# Dialecto
+
+**Dialecto** baziĝas sur **Lingua** → **Oido**.
+
+## Alfabeto
+
+### Vokaloj
+
+### Duonvokaloj
+
+Anstataŭ eliziiĝi, neakcentebla **u** [ʊ] → **ŭ** [w] fariĝas **v** [v].
+
+* **linguo** [ˈlɪŋgwɔ] → **lingvo** [ˈlɪŋgvɔ]
+
+### Konsonantoj
