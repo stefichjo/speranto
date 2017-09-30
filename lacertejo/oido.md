@@ -14,7 +14,7 @@
 |-|-|-|-|-|-|-|-|-|-|-|-|-|-|
 |[a]|[b]|[k]|[d]|[ɛ]|[f]|[g]|[h]|[ɪ]|[j]|[dʒ]|[k]|[l]|[m]|
 |**n**|**o**|**p**|**q**|**r**|**s**|**t**|**u**|**ŭ**|**v**|**w**|**x**|**y**|**z**|
-|[n]|[ɔ]|[p]|[k]|[r]|[s]|[t]|[ʊ]|[w]|[v]|[w]|[ks]|[j]|[ts]|
+|[n]|[ɔ]|[p]|[k]|[r]|[s/z]|[t]|[ʊ]|[w]|[v]|[w]|[ks]|[j]|[ts]|
 
 La literoj **w** [w] kaj **y** [j] aperas nur en fremdaj vortoj. **y** [j] kombiniĝas al **cy** [tʃ], **dy** [dʒ], **gy** [dʒ], **sy** [ʃ].
 
@@ -56,7 +56,7 @@ Komence de radiko, neakcentebla **i** [j] fariĝas **j** [dʒ].
 
 ## Konsonantoj
 
-Duoblaj konsonantoj unuobliĝas. Nur **ss** [s] skribiĝas duoble kaj prononciĝas senvoĉe, dum intervokala **s** [z] prononciĝas voĉe.
+Konsonantoj prononciĝas unuoble en **Neolingua**. Tial ili skribiĝas unuoble en **Oido**. Nur **ss** [s] skribiĝas duoble kaj prononciĝas senvoĉe, dum intervokala **s** [z] prononciĝas voĉe.
 
 * **terra** [ˈtɛra] → **tero** [ˈtɛrɔ]
 * **tauro** [ˈtawrɔ] → **taŭro** [ˈtawrɔ]
