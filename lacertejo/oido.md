@@ -114,14 +114,17 @@ Ankaŭ **ss** [s] unuobliĝas al **s**, dum radikofina postvokala **s** [z] skri
 **z** [ts] fariĝas **ĉ** [tʃ].
 
 * **zesso** [ˈtsɛsɔ] → **ĉeso** [ˈtʃɛsɔ]
+* **aczento** [akˈtsɛntɔ] → **akĉento** [akˈtʃɛntɔ]
 
 **c** [k] skribiĝas **k**.
 
 * **culturo** [kʊlˈtʊrɔ] → **kulturo**
+* **dialecto** [dɪaˈlɛktɔ] → **dialekto**
 
 ***Oido → Dialekto:*** **z** [ts] skribiĝas **c**.
 
 * **zentro** [ˈtsɛntrɔ] → **centro**
+* **aczento** [akˈtsɛntɔ] → **akcento** [akˈtsɛntɔ]
 
 ***Lingua → Dialekto:*** **t** [t] antaŭ radikofina **i** [ɪ] restas senŝanĝa.
 
