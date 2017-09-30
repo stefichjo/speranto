@@ -72,7 +72,7 @@ Komence de radiko, neakcentebla **i** [j] fariĝas **j** [dʒ].
 
 Post vokalo, neakcentebla **ĭ** [j] skribiĝas **j**.
 
-* **...**
+* **maĭo** [ˈmajɔ] → **majo**
 
 Neakcentebla **ŭ** [w] fariĝas **v** [v].
 
@@ -80,6 +80,16 @@ Neakcentebla **ŭ** [w] fariĝas **v** [v].
 
 #### Radikokomenca Neakcentebla i
 
-Komence de radiko, **praoida** neakcentebla **j** [ʒ] skribiĝas **ĵ**.
+Komence de radiko, neakcentebla **j** [dʒ] skribiĝas **ĝ**.
+
+* **justa** [ˈdʒʊsta] → **ĝusta**
+
+***Praoido → Dialecto:*** Komence de radiko, neakcentebla **j** [ʒ] skribiĝas **ĵ**.
+
+* **juro** [ˈʒʊrɔ] → **ĵuro**
+
+***Neolingua → Dialecto:*** Komence de radiko, neakcentebla **i** [j] skribiĝas **j**.
+
+* **iusta** [ˈjʊsta] → **justa**
 
 ### Konsonantoj
