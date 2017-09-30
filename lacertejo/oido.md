@@ -44,7 +44,7 @@ Komence de radiko, neakcentebla **i** [j] fariĝas **j** [dʒ].
 
 *Neolingua → Praoido:* Neakcentebla **i** [j] fariĝas **j** [ʒ] komence de radiko.
 
-* **iusta** [ˈjʊsta] → **justa** [ˈʒʊsta]
+* **iura** [ˈjʊra] → **juri** [ˈʒʊrɪ]
 
 ### Diftongoj
 
