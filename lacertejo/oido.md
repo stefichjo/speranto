@@ -72,7 +72,7 @@ Konsonantoj prononciĝas unuoble en **Neolingua**. Tial ili skribiĝas unuoble e
 
 # Dialekto
 
-**Dialekto** baziĝas sur **Oido**.
+**Dialekto** baziĝas sur **Novoido**.
 
 ## Alfabeto
 
