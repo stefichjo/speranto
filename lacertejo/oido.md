@@ -70,13 +70,13 @@ Konsonantoj prononciĝas kaj skribiĝas unuoble. Nur **ss** [s] skribiĝas duobl
 * **spatio** [ˈspaθjɔ] → **spazĭo** [ˈspatsjɔ]
 * **democratīa** [dɛmɔkraˈθɪa] → **democrazio** [dɛmɔkraˈtsɪɔ]
 
-***Lingua → Praoido:*** **g** [g] restas senŝanĝa, ankaŭ antaŭ **e** [ɛ] kaj **i** [ɪ].
+**g** [ɣ] kaj radikokomenca neakcentebla **i** [j] fariĝas j [dʒ].
 
-* **gente** [ˈgɛntɛ] → **gento** [ˈgɛntɔ]
+* **gigante** [ɣɪˈgantɛ] → **jigante** [dʒɪˈgantɛ]
 
-*Oido → Novoido:* **g** [g] fariĝas **j** [dʒ] antaŭ **e** [ɛ] kaj **i** [ɪ].
+*Neolingua → Praoido:* **g** [ɣ] kaj radikokomenca neakcentebla **i** [j] fariĝas j [ʒ].
 
-* **generala** [ˈgɛnɛrala] → **jenerala** [ˈdʒɛnɛrala]
+* **gigante** [ɣɪˈgantɛ] → **jigante** [ʒɪˈgantɛ]
 
 # Dialekto
 
