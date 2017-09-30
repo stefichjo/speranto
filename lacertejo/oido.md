@@ -70,7 +70,7 @@ Konsonantoj prononciĝas kaj skribiĝas unuoble. Nur **ss** [s] skribiĝas duobl
 * **spatio** [ˈspaθjɔ] → **spazĭo** [ˈspatsjɔ]
 * **democratīa** [dɛmɔkraˈθɪa] → **democrazio** [dɛmɔkraˈtsɪɔ]
 
-***Lingua → Oido:*** **g** [g] restas senĝanĝa, ankaŭ antaŭ **e** [ɛ] kaj **i** [ɪ].
+***Lingua → Praoido:*** **g** [g] restas senŝanĝa, ankaŭ antaŭ **e** [ɛ] kaj **i** [ɪ].
 
 * **gente** [ˈgɛntɛ] → **gento** [ˈgɛntɔ]
 
@@ -139,5 +139,7 @@ Ankaŭ **ss** [s] unuobliĝas al **s**, dum radikofina postvokala **s** [z] skri
 
 * **democratīa** [dɛmɔkraˈtɪa] → **demokratio** [dɛmɔkraˈtɪɔ]
 
+***Praoido → Dialekto:*** **g** [g] restas senŝanĝa, ankaŭ antaŭ **e** [ɛ] kaj **i** [ɪ].
 
-* ĝenerala
+* **generalo** [gɛnɛˈralɔ]
+
