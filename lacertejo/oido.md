@@ -56,19 +56,27 @@ Komence de radiko, neakcentebla **i** [j] fariĝas **j** [dʒ].
 
 ## Konsonantoj
 
-Konsonantoj prononciĝas unuoble en **Neolingua**. Tial ili skribiĝas unuoble en **Oido**. Nur **ss** [s] skribiĝas duoble kaj prononciĝas senvoĉe, dum radikofina postvokala **s** [z] prononciĝas voĉe.
+Konsonantoj prononciĝas kaj skribiĝas unuoble. Nur **ss** [s] skribiĝas duoble kaj prononciĝas senvoĉe, dum radikofina postvokala **s** [z] prononciĝas voĉe.
 
 * **terra** [ˈtɛra] → **tero** [ˈtɛrɔ]
 * **tauro** [ˈtawrɔ] → **taŭro** [ˈtawrɔ]
 * **massa** [ˈmasa] → **masso** [ˈmasɔ]
 * **rosa** [ˈrɔza] → **roso** [ˈrɔzɔ]
 
-*Neolingua → Oido:* **c** [x] kaj **t** [θ] fariĝas **z** [ts].
+**c** [x] kaj **t** [θ] fariĝas **z** [ts].
 
 * **centro** [ˈxɛntrɔ] → **zentro** [ˈtsɛntrɔ]
 * **cyclo** [ˈxɪklɔ] → **ziclo** [ˈtsɪklɔ]
 * **spatio** [ˈspaθjɔ] → **spazĭo** [ˈspatsjɔ]
 * **democratīa** [dɛmɔkraˈθɪa] → **democrazio** [dɛmɔkraˈtsɪɔ]
+
+***Lingua → Oido:*** **g** [g] restas senĝanĝa, ankaŭ antaŭ **e** [ɛ] kaj **i** [ɪ].
+
+* **gente** [ˈgɛntɛ] → **gento** [ˈgɛntɔ]
+
+*Oido → Novoido:* **g** [g] fariĝas **j** [dʒ] antaŭ **e** [ɛ] kaj **i** [ɪ].
+
+* **generala** [ˈgɛnɛrala] → **jenerala** [ˈdʒɛnɛrala]
 
 # Dialekto
 
@@ -86,15 +94,16 @@ Post vokalo, neakcentebla **ĭ** [j] skribiĝas **j**.
 
 * **maĭo** [ˈmajɔ] → **majo**
 
-Neakcentebla **ŭ** [w] fariĝas **v** [v].
+***Oido → Dialekto:*** Neakcentebla **ŭ** [w] fariĝas **v** [v].
 
 * **lingŭo** [ˈlɪŋgwɔ] → **lingvo** [ˈlɪŋgvɔ]
 
 #### Radikokomenca Neakcentebla i
 
-Komence de radiko, neakcentebla **j** [dʒ] skribiĝas **ĝ**.
+Komence de radiko, **j** [dʒ] skribiĝas **ĝ**.
 
 * **justa** [ˈdʒʊsta] → **ĝusta**
+* **jenerala** [ˈdʒɛnɛrala] → **ĝenerala**
 
 ***Praoido → Dialekto:*** Komence de radiko, neakcentebla **j** [ʒ] skribiĝas **ĵ**.
 
