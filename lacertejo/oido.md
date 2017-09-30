@@ -56,7 +56,12 @@ Komence de radiko, neakcentebla **i** [j] fariĝas **j** [dʒ].
 
 ## Konsonantoj
 
-...
+*Neolingua → Oido:* Kiam **c** aŭ **t** prononciĝas [θ], ĝi fariĝas **z** [ts].
+
+* **centro** [ˈθɛntrɔ] → **zentro** [ˈtsɛntrɔ]
+* **cyclo** [ˈθiklɔ] → **ziclo** [ˈtsiklɔ]
+* **spatio** [ˈspaθjɔ] → **spazĭo** [ˈspatsjɔ]
+* **democratīa** [dɛmɔkraˈθia] → **democrazio** [dɛmɔkraˈtsia]
 
 # Dialecto
 
