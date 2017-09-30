@@ -50,11 +50,18 @@ Komence de radiko, neakcentebla **i** [j] fariĝas **j** [dʒ].
 
 *Oido → Novoido:* Neakcenteblaj **ĭ** [j] kaj **ŭ** [w] formas monoftongon kun sia najbara vokalo.
 
-* **aŭro** [ˈaʊrɔ] → **oro** [ˈɔrɔ]
-* **Eŭropo** [ɛʊˈrɔpɔ] → **Uropo** [uˈrɔpɔ]
+* **aŭro** [ˈawrɔ] → **oro** [ˈɔrɔ]
+* **Eŭropo** [ɛwˈrɔpɔ] → **Uropo** [uˈrɔpɔ]
 * **traĭno** [ˈtrajnɔ] → **treno** [ˈtrɛnɔ]
 
 ## Konsonantoj
+
+Duoblaj konsonantoj unuobliĝas. Nur **ss** [s] skribiĝas duoble kaj prononciĝas senvoĉe, dum intervokala **s** [z] prononciĝas voĉe.
+
+* **terra** [ˈtɛra] → **tero** [ˈtɛrɔ]
+* **tauro** [ˈtawrɔ] → **taŭro** [ˈtawrɔ]
+* **massa** [ˈmasa] → **masso** [ˈmasɔ]
+* **rosa** [ˈrɔza] → **roso** [ˈrɔzɔ]
 
 *Neolingua → Oido:* Kiam **c** aŭ **t** prononciĝas [θ], ĝi fariĝas **z** [ts].
 
