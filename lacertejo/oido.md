@@ -6,7 +6,7 @@
 
 **Oido** baziĝas sur **Neolingua**.
 
-* **centro** [ˈθɛntrɔ] → **zentro** [ˈtsɛntrɔ]
+* **centro** [ˈxɛntrɔ] → **zentro** [ˈtsɛntrɔ]
 
 ## Alfabeto
 
@@ -56,23 +56,23 @@ Komence de radiko, neakcentebla **i** [j] fariĝas **j** [dʒ].
 
 ## Konsonantoj
 
-Konsonantoj prononciĝas unuoble en **Neolingua**. Tial ili skribiĝas unuoble en **Oido**. Nur **ss** [s] skribiĝas duoble kaj prononciĝas senvoĉe, dum intervokala **s** [z] prononciĝas voĉe.
+Konsonantoj prononciĝas unuoble en **Neolingua**. Tial ili skribiĝas unuoble en **Oido**. Nur **ss** [s] skribiĝas duoble kaj prononciĝas senvoĉe, dum radikofina postvokala **s** [z] prononciĝas voĉe.
 
 * **terra** [ˈtɛra] → **tero** [ˈtɛrɔ]
 * **tauro** [ˈtawrɔ] → **taŭro** [ˈtawrɔ]
 * **massa** [ˈmasa] → **masso** [ˈmasɔ]
 * **rosa** [ˈrɔza] → **roso** [ˈrɔzɔ]
 
-*Neolingua → Oido:* Kiam **c** aŭ **t** prononciĝas [θ], ĝi fariĝas **z** [ts].
+*Neolingua → Oido:* **c** [x] kaj **t** [θ] fariĝas **z** [ts].
 
-* **centro** [ˈθɛntrɔ] → **zentro** [ˈtsɛntrɔ]
-* **cyclo** [ˈθiklɔ] → **ziclo** [ˈtsiklɔ]
+* **centro** [ˈxɛntrɔ] → **zentro** [ˈtsɛntrɔ]
+* **cyclo** [ˈxɪklɔ] → **ziclo** [ˈtsɪklɔ]
 * **spatio** [ˈspaθjɔ] → **spazĭo** [ˈspatsjɔ]
-* **democratīa** [dɛmɔkraˈθia] → **democrazio** [dɛmɔkraˈtsia]
+* **democratīa** [dɛmɔkraˈθɪa] → **democrazio** [dɛmɔkraˈtsɪɔ]
 
-# Dialecto
+# Dialekto
 
-**Dialecto** baziĝas sur **Oido**.
+**Dialekto** baziĝas sur **Oido**.
 
 ## Alfabeto
 
@@ -96,12 +96,36 @@ Komence de radiko, neakcentebla **j** [dʒ] skribiĝas **ĝ**.
 
 * **justa** [ˈdʒʊsta] → **ĝusta**
 
-***Praoido → Dialecto:*** Komence de radiko, neakcentebla **j** [ʒ] skribiĝas **ĵ**.
+***Praoido → Dialekto:*** Komence de radiko, neakcentebla **j** [ʒ] skribiĝas **ĵ**.
 
 * **juro** [ˈʒʊrɔ] → **ĵuro**
 
-***Neolingua → Dialecto:*** Komence de radiko, neakcentebla **i** [j] skribiĝas **j**.
+***Neolingua → Dialekto:*** Komence de radiko, neakcentebla **i** [j] skribiĝas **j**.
 
 * **iusta** [ˈjʊsta] → **justa**
 
 ### Konsonantoj
+
+Ankaŭ **ss** [s] unuobliĝas al **s**, dum radikofina postvokala **s** [z] skribiĝas **z**.
+
+* **masso** [ˈmasɔ] → **maso**
+* **roso** [ˈrɔzɔ] → **rozo**
+
+**z** [ts] fariĝas **ĉ** [tʃ].
+
+* **zesso** [ˈtsɛsɔ] → **ĉeso** [ˈtʃɛsɔ]
+
+**c** [k] skribiĝas **k**.
+
+* **culturo** [kʊlˈtʊrɔ] → **kulturo**
+
+***Oido → Dialekto:*** **z** [ts] skribiĝas **c**.
+
+* **zentro** [ˈtsɛntrɔ] → **centro**
+
+***Lingua → Dialekto:*** **t** [t] antaŭ radikofina **i** [ɪ] restas senŝanĝa.
+
+* **democratīa** [dɛmɔkraˈtɪa] → **demokratio** [dɛmɔkraˈtɪɔ]
+
+
+* ĝenerala
