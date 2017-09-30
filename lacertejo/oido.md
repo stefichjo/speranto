@@ -56,12 +56,13 @@ Komence de radiko, neakcentebla **i** [j] fariĝas **j** [dʒ].
 
 ## Konsonantoj
 
-Konsonantoj prononciĝas kaj skribiĝas unuoble. Nur **ss** [s] skribiĝas duoble kaj prononciĝas senvoĉe, dum radikofina postvokala **s** [z] prononciĝas voĉe.
+Konsonantoj prononciĝas kaj skribiĝas unuoble. Nur **ss** [s] skribiĝas duoble kaj prononciĝas senvoĉe, dum radikofina postvokala **s** [z] prononciĝas voĉe. La finaĵo **-s** [s] prononciĝas senvoĉe.
 
 * **terra** [ˈtɛra] → **tero** [ˈtɛrɔ]
 * **tauro** [ˈtawrɔ] → **taŭro** [ˈtawrɔ]
 * **massa** [ˈmasa] → **masso** [ˈmasɔ]
 * **rosa** [ˈrɔza] → **roso** [ˈrɔzɔ]
+* **rosas** [ˈrɔzas] → **rosos** [ˈrɔzɔs]
 
 **c** [x] kaj **t** [θ] fariĝas **z** [ts].
 
@@ -94,28 +95,28 @@ Post vokalo, neakcentebla **ĭ** [j] skribiĝas **j**.
 
 * **maĭo** [ˈmajɔ] → **majo**
 
-***Oido → Dialekto:*** Neakcentebla **ŭ** [w] fariĝas **v** [v].
+***Oidismo:*** Neakcentebla **ŭ** [w] fariĝas **v** [v].
 
 * **lingŭo** [ˈlɪŋgwɔ] → **lingvo** [ˈlɪŋgvɔ]
 
 #### Radikokomenca Neakcentebla i
 
-Komence de radiko, **j** [dʒ] skribiĝas **ĝ**.
+**j** [dʒ] skribiĝas **ĝ**.
 
 * **justa** [ˈdʒʊsta] → **ĝusta**
 * **jenerala** [ˈdʒɛnɛrala] → **ĝenerala**
 
-***Praoido → Dialekto:*** Komence de radiko, neakcentebla **j** [ʒ] skribiĝas **ĵ**.
+***Praoidismo:*** Komence de radiko, neakcentebla **j** [ʒ] skribiĝas **ĵ**.
 
 * **juro** [ˈʒʊrɔ] → **ĵuro**
 
-***Neolingua → Dialekto:*** Komence de radiko, neakcentebla **i** [j] skribiĝas **j**.
+***Neolingvismo:*** Komence de radiko, neakcentebla **i** [j] skribiĝas **j**.
 
 * **iusta** [ˈjʊsta] → **justa**
 
 ### Konsonantoj
 
-Ankaŭ **ss** [s] unuobliĝas al **s**, dum radikofina postvokala **s** [z] skribiĝas **z**.
+**ss** [s] unuobliĝas al **s**, dum radikofina postvokala **s** [z] skribiĝas **z**.
 
 * **masso** [ˈmasɔ] → **maso**
 * **roso** [ˈrɔzɔ] → **rozo**
