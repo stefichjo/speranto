@@ -131,7 +131,7 @@ Post vokalo, neakcentebla **ĭ** [j] skribiĝas **j**.
 * **culturo** [kʊlˈtʊrɔ] → **kulturo**
 * **dialecto** [dɪaˈlɛktɔ] → **dialekto**
 
-***Oidismo:*** **c** [ts] skribiĝas **c**.
+***Oidismo:*** **z** [ts] skribiĝas **c**.
 
 * **zentro** [ˈtsɛntrɔ] → **centro**
 * **akzento** [akˈtsɛntɔ] → **akcento**
