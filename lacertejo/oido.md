@@ -110,7 +110,7 @@ Post vokalo, neakcentebla **ĭ** [j] skribiĝas **j**.
 
 * **juro** [ˈʒʊrɔ] → **ĵuro**
 
-***Neolingvismo:*** Komence de radiko, neakcentebla **i** [j] skribiĝas **j**.
+***Neolingvaismo:*** Komence de radiko, neakcentebla **i** [j] skribiĝas **j**.
 
 * **iusta** [ˈjʊsta] → **justa**
 
@@ -140,7 +140,9 @@ Post vokalo, neakcentebla **ĭ** [j] skribiĝas **j**.
 
 * **democratīa** [dɛmɔkraˈtɪa] → **demokratio** [dɛmɔkraˈtɪɔ]
 
-***Praoido → Dialekto:*** **g** [g] restas senŝanĝa, ankaŭ antaŭ **e** [ɛ] kaj **i** [ɪ].
+***Lingvaismo:*** **g** [g] restas senŝanĝa, ankaŭ antaŭ **e** [ɛ] kaj **i** [ɪ].
 
-* **generalo** [gɛnɛˈralɔ]
+* **genera** [gɛˈnɛra] → **generi** [gɛˈnɛrɪ]
+
+
 
