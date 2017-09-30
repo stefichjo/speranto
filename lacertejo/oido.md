@@ -131,12 +131,12 @@ Post vokalo, neakcentebla **ĭ** [j] skribiĝas **j**.
 * **culturo** [kʊlˈtʊrɔ] → **kulturo**
 * **dialecto** [dɪaˈlɛktɔ] → **dialekto**
 
-***Oido → Dialekto:*** **z** [ts] skribiĝas **c**.
+***Oidismo:*** **c** [ts] skribiĝas **c**.
 
 * **zentro** [ˈtsɛntrɔ] → **centro**
-* **aczento** [akˈtsɛntɔ] → **akcento** [akˈtsɛntɔ]
+* **akzento** [akˈtsɛntɔ] → **akcento**
 
-***Lingua → Dialekto:*** **t** [t] antaŭ radikofina **i** [ɪ] restas senŝanĝa.
+***Lingvaismo:*** **t** [t] antaŭ radikofina **i** [ɪ] restas senŝanĝa.
 
 * **democratīa** [dɛmɔkraˈtɪa] → **demokratio** [dɛmɔkraˈtɪɔ]
 
