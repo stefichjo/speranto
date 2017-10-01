@@ -73,11 +73,12 @@ Konsonantoj prononciĝas kaj skribiĝas unuoble. Nur **ss** [s] skribiĝas duobl
 
 **g** [ɣ] kaj radikokomenca neakcentebla **i** [j] fariĝas j [dʒ].
 
-* **gigante** [ɣɪˈgantɛ] → **jigante** [dʒɪˈgantɛ]
+* **gentile** [ɣɛnˈtɪlɛ] → **jentila** [dʒɛnˈtɪla]
 
 *Neolingua → Praoido:* **g** [ɣ] kaj radikokomenca neakcentebla **i** [j] fariĝas j [ʒ].
 
-* **gigante** [ɣɪˈgantɛ] → **jigante** [ʒɪˈgantɛ]
+* **gentile** [ɣɛnˈtɪlɛ] → **jentila** [ʒɛnˈtɪla]
+* **iura** [ˈjʊra] → **juri** [ˈʒʊrɪ]
 
 # Dialekto
 
