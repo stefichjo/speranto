@@ -69,3 +69,23 @@ Post vokalo, neakcentebla **ĭ** [j] skribiĝas **j**.
 
 * **genera** [gɛˈnɛra] → **generi** [gɛˈnɛrɪ]
 
+## Gramatiko
+
+### Korelativoj
+
+Korelativo je **n-** estas prefiksata de redunda **ne-**.
+
+* Mi havas ***neno***. *(Mi havas nenion.)*
+
+### Pronomoj
+
+Pronomoj havas la ŝajnfinaĵon **-i**.
+
+* **mu** [mʊ] → **mi** [mɪ]
+
+Pere de la finaĵo **-a** formiĝas posesivaj pronomoj.
+
+* **mua** [ˈmʊa] → **mia** [ˈmɪa]
+
+### Artikoloj
+

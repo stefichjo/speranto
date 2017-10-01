@@ -102,3 +102,13 @@ Konsonantoj prononciĝas kaj skribiĝas unuoble. Nur **ss** [s] skribiĝas duobl
 |**qŭeje**|**qŭande**|**qŭante**|**qŭale**|**qŭare**|
 |[ˈkwɛdʒɛ]|[ˈkwandɛ]|[ˈkwantɛ]|[ˈkwalɛ]|[ˈkwarɛ]|
 
+### Pronomoj
+
+Pronomoj havas la ŝajnfinaĵon **-u**.
+
+|**mu**|**tu**|**alu**, **olu**, **ju**|
+|-|-|-|
+|[mʊ]|[tʊ]|[ˈɔlʊ], [ˈalʊ], [dʒʊ]|
+|**nu**|**vu**|**ilu**|
+|-|-|-|
+|[nʊ]|[vʊ]|[ˈɪlʊ]|
