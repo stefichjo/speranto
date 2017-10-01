@@ -97,8 +97,10 @@ Intervaloj esprimiĝas per sufiksa **-t-**.
 ### Korelativoj
 
 |**qŭo**|**qŭa**|**qŭessa**|**qŭesma**|**…**|
+|***kio***|***kiu***|***kia***|***kies***|***…***|
 |-|-|-|-|-|
 |**qŭeje**|**qŭande**|**qŭante**|**qŭale**|**qŭare**|
+|***kie***|***kiam***|***kiom***|***kiel***|***kial***|
 
 * **qŭo** *(kio)*
 * **ho** *(jen tio)*
