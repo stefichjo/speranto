@@ -83,9 +83,5 @@ Pronomoj havas la ŝajnfinaĵon **-i**.
 
 * **mu** [mʊ] → **mi** [mɪ]
 
-Pere de la finaĵo **-a** formiĝas posesivaj pronomoj.
-
-* **mua** [ˈmʊa] → **mia** [ˈmɪa]
-
 ### Artikoloj
 

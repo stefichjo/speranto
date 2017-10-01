@@ -112,3 +112,8 @@ Pronomoj havas la ŝajnfinaĵon **-u**.
 |**nu**|**vu**|**ilu**|
 |-|-|-|
 |[nʊ]|[vʊ]|[ˈɪlʊ]|
+
+Pere de la finaĵo **-a** formiĝas posesivaj pronomoj.
+
+* **mua** [ˈmʊa]
+
