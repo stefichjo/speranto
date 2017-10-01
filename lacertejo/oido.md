@@ -94,6 +94,10 @@ Konsonantoj prononciĝas kaj skribiĝas unuoble. Nur **ss** [s] skribiĝas duobl
 |**sixesma**|**sepesma**|**ocesma**|**naŭesma**|**decesma**|
 |[sɪksˈɛsma]|[sɛpˈɛsma]|[ɔkˈɛsma]|[nawˈɛsma]|[dɛkˈɛsma]|
 
+Intervaloj esprimiĝas per sufiksa **-t-**.
+
+* **qŭarto** [ˈkwartɔ] *(kvarto)*
+
 ### Korelativoj
 
 |**qŭo**|**qŭa**|**qŭessa**|**qŭesma**|**…**|
@@ -101,6 +105,15 @@ Konsonantoj prononciĝas kaj skribiĝas unuoble. Nur **ss** [s] skribiĝas duobl
 |[kwɔ]|[kwa]|[ˈkwɛsa]|[ˈkwɛsma]|[…]|
 |**qŭeje**|**qŭande**|**qŭante**|**qŭale**|**qŭare**|
 |[ˈkwɛdʒɛ]|[ˈkwandɛ]|[ˈkwantɛ]|[ˈkwalɛ]|[ˈkwarɛ]|
+
+* **qŭo** [kwɔ] *(kio)*
+* **ho** [hɔ] *(jen tio)*
+* **jo** [dʒɔ] *(ĉi tio)*
+* **to** [tɔ] *(tio)*
+* **lo** [lɔ] *(fore tio)*
+* **no** [nɔ] *(nenio)*
+* **omno** [ˈɔmnɔ] *(ĉio)*
+* **ono** [ˈɔnɔ] *(io)*
 
 ### Pronomoj
 
