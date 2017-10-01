@@ -82,38 +82,32 @@ Konsonantoj prononciĝas kaj skribiĝas unuoble. Nur **ss** [s] skribiĝas duobl
 
 |**un**|**du**|**tri**|**qŭar**|**qŭin**|
 |-|-|-|-|-|
-|[ʊn]|[dʊ]|[trɪ]|[kwar]|[kwɪn]|
 |**six**|**sep**|**oc**|**naŭ**|**dec**|
-|[sɪks]|[sɛp]|[ɔk]|[naw]|[dɛk]|
 
 #### Ordinaloj
 
 |**unesma**|**duesma**|**triesma**|**qŭaresma**|**qŭinesma**|
 |-|-|-|-|-|
-|[ʊnˈɛsma]|[dʊˈɛsma]|[trɪˈɛsma]|[kwarˈɛsma]|[kwɪnˈɛsma]|
 |**sixesma**|**sepesma**|**ocesma**|**naŭesma**|**decesma**|
-|[sɪksˈɛsma]|[sɛpˈɛsma]|[ɔkˈɛsma]|[nawˈɛsma]|[dɛkˈɛsma]|
 
 Intervaloj esprimiĝas per sufiksa **-t-**.
 
-* **qŭarto** [ˈkwartɔ] *(kvarto)*
+* **qŭarto** *(kvarto)*
 
 ### Korelativoj
 
 |**qŭo**|**qŭa**|**qŭessa**|**qŭesma**|**…**|
 |-|-|-|-|-|
-|[kwɔ]|[kwa]|[ˈkwɛsa]|[ˈkwɛsma]|[…]|
 |**qŭeje**|**qŭande**|**qŭante**|**qŭale**|**qŭare**|
-|[ˈkwɛdʒɛ]|[ˈkwandɛ]|[ˈkwantɛ]|[ˈkwalɛ]|[ˈkwarɛ]|
 
-* **qŭo** [kwɔ] *(kio)*
-* **ho** [hɔ] *(jen tio)*
-* **jo** [dʒɔ] *(ĉi tio)*
-* **to** [tɔ] *(tio)*
-* **lo** [lɔ] *(fore tio)*
-* **no** [nɔ] *(nenio)*
-* **omno** [ˈɔmnɔ] *(ĉio)*
-* **ono** [ˈɔnɔ] *(io)*
+* **qŭo** *(kio)*
+* **ho** *(jen tio)*
+* **jo** *(ĉi tio)*
+* **to** *(tio)*
+* **lo** *(fore tio)*
+* **no** *(nenio)*
+* **omno** *(ĉio)*
+* **ono** *(io)*
 
 ### Pronomoj
 
@@ -121,53 +115,53 @@ Pronomoj havas la ŝajnfinaĵon **-u**.
 
 |**mu**|**tu**|**ju**|
 |-|-|-|
-|[mʊ]|[tʊ]|[dʒʊ]|
 |**nu**|**vu**|**ilu**|
-|[nʊ]|[vʊ]|[ˈɪlʊ]|
 
 La ingenraj kaj virgenraj triapersonaj pronomoj estas **alu** kaj **olu**, dum la genre neŭtra triapersona pronomo estas **ulu**. Por vivaĵoj ĝenerale estas **lu**. La refleksiva triapersona pronomo estas **su**.
 
 |**alu**|**olu**|**ulu**|**lu**|**su**|
 |-|-|-|-|-|
-|[ˈalʊ]|[ˈɔlʊ]|[ˈʊlʊ]|[lʊ]|[sʊ]|
 
 Pere de la finaĵo **-a** formiĝas posesivaj pronomoj.
 
-* **mua** [ˈmʊa]
+* **mua**
 
 ### Artikoloj
 
 |**la**|**ja**|**unu**|
 |-|-|-|
-|[la]|[dʒa]|[ˈʊnʊ]|
 
 ### Radikaj Vortoj
 
 La finaĵo **-s** por substantivoj kaj adjektivoj signifas **multenombron**.
 
-* **bonas amicos** [ˈbɔnas aˈmɪkɔs]
+* **bonas amicos**
 
 #### Nomoj
 
 La finaĵoj **-a** kaj **-o** uziĝas por distingi genron.
 
-* **Carla** [ˈkarla]
-* **Carlo** [ˈkarlɔ]
+* **Carla**
+* **Carlo**
+
+La prepozicio **a** uziĝas por **akuzativo**.
+
+* Mi vidas ***a*** Carla.
 
 #### Substantivoj
 
 Substantivoj havas la finaĵon **-o**.
 
-* **amico** [aˈmɪkɔ]
+* **amico**
 
 La finaĵo **-u** uziĝas por **vokativo**.
 
-* **amicu!** [aˈmɪkʊ]
+* ***Amicu!***
 
 #### Adjektivoj
 
 Adjektivoj havas la finaĵon **-a**.
 
-* **bona** [ˈbɔna]
+* **bona**
 
 

@@ -81,7 +81,40 @@ Korelativo je **n-** estas prefiksata de redunda **ne-**.
 
 Pronomoj havas la ŝajnfinaĵon **-i**.
 
-* **mu** [mʊ] → **mi** [mɪ]
+* **mu** → **mi**
 
 ### Artikoloj
+
+### Radikaj Vortoj
+
+La finaĵo **-j** por substantivoj kaj adjektivoj signifas **multenombron**.
+
+* bona***j*** amiko***j***
+
+La **imperativa** finaĵo **-en** (respektive **-n**) uziĝas por esprimi **direkton** (respektive **akuzativon**).
+
+* **nenejen**
+* Ni iras renkont***en***.
+* Mi vidas ĝi***n***.
+* Bona***n*** nokto***n***!
+
+*Novoido → Dialekto:* 
+
+* Mu vidan ju**en**. → Mi vidas ĝi**n**.
+
+#### Substantivoj
+
+Por **vokativo** uziĝas **ho**.
+
+* **Ho amiko!** [hɔ aˈmɪkɔ]
+
+#### Adjektivoj
+
+#### Adverboj
+
+#### Verboj
+
+La **vokativa** finaĵo **-u** uziĝas por alvoki ion bezonatan aŭ por **imperativo**.
+
+* **Helpu!** [ˈhɛlpʊ]
 
