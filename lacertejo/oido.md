@@ -119,11 +119,17 @@ Intervaloj esprimiĝas per sufiksa **-t-**.
 
 Pronomoj havas la ŝajnfinaĵon **-u**.
 
-|**mu**|**tu**|**alu**, **olu**, **ju**|
+|**mu**|**tu**|**ju**|
 |-|-|-|
-|[mʊ]|[tʊ]|[ˈalʊ], [ˈɔlʊ], [dʒʊ]|
+|[mʊ]|[tʊ]|[dʒʊ]|
 |**nu**|**vu**|**ilu**|
 |[nʊ]|[vʊ]|[ˈɪlʊ]|
+
+La ingenraj kaj virgenraj triapersonaj pronomoj estas **alu** kaj **olu**, dum la genre neŭtra triapersona pronomo estas **ulu**. Por vivaĵoj ĝenerale estas **lu**.
+
+|**alu**|**olu**|**ulu**|**lu**|
+|-|-|-|-|
+|[ˈalʊ]|[ˈɔlʊ]|[ˈʊlʊ]|[lʊ]|
 
 Pere de la finaĵo **-a** formiĝas posesivaj pronomoj.
 
@@ -134,3 +140,8 @@ Pere de la finaĵo **-a** formiĝas posesivaj pronomoj.
 |**la**|**ja**|**unu**|
 |-|-|-|
 |[la]|[dʒa]|[ˈʊnʊ]|
+
+### Radikaj Vortoj
+
+La finaĵo **-s** por substantivoj kaj adjektivoj signifas **multenombron**.
+
