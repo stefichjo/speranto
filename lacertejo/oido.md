@@ -135,9 +135,6 @@ Post vokalo, neakcentebla **ĭ** [j] skribiĝas **j**.
 
 * **zentro** [ˈtsɛntrɔ] → **centro**
 * **akzento** [akˈtsɛntɔ] → **akcento**
-
-***Oidismo:*** Latindevena **t** [t] antaŭ radikofina **i** [ɪ]/[j] fariĝas **c** [ts].
-
 * **nazio** [naˈtsɪɔ] → **nacio**
 * **spazo** [ˈspatsɔ] → **spaco**
 
