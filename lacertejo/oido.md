@@ -84,7 +84,6 @@ Konsonantoj prononciĝas kaj skribiĝas unuoble. Nur **ss** [s] skribiĝas duobl
 |-|-|-|-|-|
 |[ʊn]|[dʊ]|[trɪ]|[kwar]|[kwɪn]|
 |**six**|**sep**|**oc**|**naŭ**|**dec**|
-|-|-|-|-|-|
 |[sɪks]|[sɛp]|[ɔk]|[naw]|[dɛk]|
 
 #### Ordinaloj
@@ -93,7 +92,6 @@ Konsonantoj prononciĝas kaj skribiĝas unuoble. Nur **ss** [s] skribiĝas duobl
 |-|-|-|-|-|
 |[ʊnˈɛsma]|[dʊˈɛsma]|[trɪˈɛsma]|[kwarˈɛsma]|[kwɪnˈɛsma]|
 |**sixesma**|**sepesma**|**ocesma**|**naŭesma**|**decesma**|
-|-|-|-|-|-|
 |[sɪksˈɛsma]|[sɛpˈɛsma]|[ɔkˈɛsma]|[nawˈɛsma]|[dɛkˈɛsma]|
 
 
