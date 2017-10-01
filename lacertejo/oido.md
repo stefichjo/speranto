@@ -147,7 +147,27 @@ La finaĵo **-s** por substantivoj kaj adjektivoj signifas **multenombron**.
 
 * **bonas amicos** [ˈbɔnas aˈmɪkɔs]
 
+#### Nomoj
+
+La finaĵoj **-a** kaj **-o** uziĝas por distingi genron.
+
+* **Carla** [ˈkarla]
+* **Carlo** [ˈkarlɔ]
+
 #### Substantivoj
 
+Substantivoj havas la finaĵon **-o**.
+
+* **amico** [aˈmɪkɔ]
+
+La finaĵo **-u** uziĝas por **vokativo**.
+
+* **amicu!** [aˈmɪkʊ]
+
+#### Adjektivoj
+
+Adjektivoj havas la finaĵon **-a**.
+
+* **bona** [ˈbɔna]
 
 
