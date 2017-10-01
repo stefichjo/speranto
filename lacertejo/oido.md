@@ -94,5 +94,11 @@ Konsonantoj prononciĝas kaj skribiĝas unuoble. Nur **ss** [s] skribiĝas duobl
 |**sixesma**|**sepesma**|**ocesma**|**naŭesma**|**decesma**|
 |[sɪksˈɛsma]|[sɛpˈɛsma]|[ɔkˈɛsma]|[nawˈɛsma]|[dɛkˈɛsma]|
 
+### Korelativoj
 
+|**qŭo**|**qŭa**|**qŭessa**|**qŭesma**|**…**|
+|-|-|-|-|-|
+|[kwɔ]|[kwa]|[ˈkwɛsa]|[ˈkwɛsma]|[…]|
+|**qŭeje**|**qŭande**|**qŭante**|**qŭale**|**qŭare**|
+|[ˈkwɛdʒɛ]|[ˈkwandɛ]|[ˈkwantɛ]|[ˈkwalɛ]|[ˈkwarɛ]|
 
