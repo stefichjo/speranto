@@ -75,3 +75,26 @@ Konsonantoj prononciĝas kaj skribiĝas unuoble. Nur **ss** [s] skribiĝas duobl
 
 * **gentile** [ɣɛnˈtɪlɛ] → **jentila** [ʒɛnˈtɪla]
 * **iura** [ˈjʊra] → **juri** [ˈʒʊrɪ]
+
+## Gramatiko
+
+### Numeraloj
+
+|**un**|**du**|**tri**|**qŭar**|**qŭin**|
+|-|-|-|-|-|
+|[ʊn]|[dʊ]|[trɪ]|[kwar]|[kwɪn]|
+|**six**|**sep**|**oc**|**naŭ**|**dec**|
+|-|-|-|-|-|
+|[sɪks]|[sɛp]|[ɔk]|[naw]|[dɛk]|
+
+#### Ordinaloj
+
+|**unesma**|**duesma**|**triesma**|**qŭaresma**|**qŭinesma**|
+|-|-|-|-|-|
+|[ʊnˈɛsma]|[dʊˈɛsma]|[trɪˈɛsma]|[kwarˈɛsma]|[kwɪnˈɛsma]|
+|**sixesma**|**sepesma**|**ocesma**|**naŭesma**|**decesma**|
+|-|-|-|-|-|
+|[sɪksˈɛsma]|[sɛpˈɛsma]|[ɔkˈɛsma]|[nawˈɛsma]|[dɛkˈɛsma]|
+
+
+
