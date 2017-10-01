@@ -125,11 +125,11 @@ Pronomoj havas la ŝajnfinaĵon **-u**.
 |**nu**|**vu**|**ilu**|
 |[nʊ]|[vʊ]|[ˈɪlʊ]|
 
-La ingenraj kaj virgenraj triapersonaj pronomoj estas **alu** kaj **olu**, dum la genre neŭtra triapersona pronomo estas **ulu**. Por vivaĵoj ĝenerale estas **lu**.
+La ingenraj kaj virgenraj triapersonaj pronomoj estas **alu** kaj **olu**, dum la genre neŭtra triapersona pronomo estas **ulu**. Por vivaĵoj ĝenerale estas **lu**. La refleksiva triapersona pronomo estas **su**.
 
-|**alu**|**olu**|**ulu**|**lu**|
-|-|-|-|-|
-|[ˈalʊ]|[ˈɔlʊ]|[ˈʊlʊ]|[lʊ]|
+|**alu**|**olu**|**ulu**|**lu**|**su**|
+|-|-|-|-|-|
+|[ˈalʊ]|[ˈɔlʊ]|[ˈʊlʊ]|[lʊ]|[sʊ]|
 
 Pere de la finaĵo **-a** formiĝas posesivaj pronomoj.
 
@@ -144,4 +144,10 @@ Pere de la finaĵo **-a** formiĝas posesivaj pronomoj.
 ### Radikaj Vortoj
 
 La finaĵo **-s** por substantivoj kaj adjektivoj signifas **multenombron**.
+
+* **bonas amicos** [ˈbɔnas aˈmɪkɔs]
+
+#### Substantivoj
+
+
 
