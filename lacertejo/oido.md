@@ -98,9 +98,9 @@ Intervaloj esprimiĝas per sufiksa **-t-**.
 
 |**qŭo**|**qŭa**|**qŭessa**|**qŭesma**|**…**|
 |-|-|-|-|-|
-|***kio*** |***kiu*** |***kia*** |***kies*** |***…***|
+|*(kio)*|*(kiu)*|*(kia)*|*(kies)*|*…*|
 |**qŭeje**|**qŭande**|**qŭante**|**qŭale**|**qŭare**|
-|***kie*** |***kiam*** |***kiom*** |***kiel*** |***kial***|
+|*(kie)*|*(kiam)*|*(kiom)*|*(kiel)*|*(kial)*|
 
 * **qŭo** *(kio)*
 * **ho** *(jen tio)*
