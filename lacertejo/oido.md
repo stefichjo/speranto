@@ -129,3 +129,8 @@ Pere de la finaĵo **-a** formiĝas posesivaj pronomoj.
 
 * **mua** [ˈmʊa]
 
+### Artikoloj
+
+|**la**|**ja**|**unu**|
+|-|-|-|
+|[la]|[dʒa]|[ˈʊnʊ]|
