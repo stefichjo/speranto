@@ -118,12 +118,30 @@ Grek-devenaj **ph**, **th**, **ch** prononciĝas [f], [t], [k].
 |**ono**|**ona**|**one**|**oni**|
 |*(io)*|*(ia)*|*(ie)*|*(ien)*|
 
-Uziĝas **que** kiel konjunkcio por enkonduki subfrazon kaj **ne** kiel nea adverbo.
+Kvankam estas gramatike ĝuste uzi korelativon je **-o**, por ***personoj***, preferiĝas uzi korelativon je **-a** por indiki ***identon***.
+
+* ***Qua*** esse in la domo? *(Kiu estas en la domo?)*
+
+Korelativoj je **-a** uziĝas ankaŭ por indiki ***posedon***.
+
+* ***Qua libro esse?*** *(Kies libro estas?)*
+
+La korelativoj je **-e** uziĝas ankaŭ por indiki ***tempon***, ***kaŭzon***, ***mezuron*** kaj ***manieron***.
+
+* ***Que vade?*** *(Kiel vi fartas?)*
+
+Kombine kun substantivoj estas formeblaj pli specifaj korelativaĵoj.
+
+* in qua ***loco***? *(en kiu loko?, kie?)*
+
+Uziĝas **que** kiel ***konjunkcio*** por enkonduki subfrazon kaj **ne** kiel nea ***adverbo***.
 
 * Meu spera ***que*** teu esse in domo. *(Mi esperas, ke vi estas hejme.)*
 * Teu ***ne*** esse in domo. *(Vi ne estas hejme.)*
 
 ### Pronomoj
+
+
 
 ### Radikaj Vortoj
 
