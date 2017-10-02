@@ -142,7 +142,7 @@ Uziĝas **que** kiel ***konjunkcio*** por enkonduki subfrazon kaj **ne** kiel ne
 ### Pronomoj
 
 |**meu**|**teu**|**ieu**|
-|-|-|-|-|
+|-|-|-|
 |*(mi)*|*(vi)*|*(ŝi, li, ĝi)*|
 |**nei**|**vei**|**lei**|
 |*(ni)*|*(vi)*|*(ili)*|
