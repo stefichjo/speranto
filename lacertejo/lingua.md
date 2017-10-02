@@ -147,7 +147,15 @@ Uziĝas **que** kiel ***konjunkcio*** por enkonduki subfrazon kaj **ne** kiel ne
 |**nei**|**vei**|**lei**|
 |*(ni)*|*(vi)*|*(ili)*|
 
+|**unei**|**uvei**|**ulei**|
+|-|-|-|
+|*(unu el ni)*|*(unu el vi)*|*(unu el ili)*|
+|**inei**|**ivei**|**ilei**|
+|*(ĉiuj el ni)*|*(ĉiuj el vi)*|*(ĉiuj el ili)*|
 
+Pere de la finaĵo **-a** formiĝas ***posesivaj pronomoj***.
+
+* ***meua*** libro *(mia libro)*
 
 
 ### Radikaj Vortoj
@@ -157,6 +165,12 @@ Uziĝas **que** kiel ***konjunkcio*** por enkonduki subfrazon kaj **ne** kiel ne
 Substantivoj havas la vir-genran ablativan formon.
 
 * **amico** [aˈmɪkɔ]
+
+Substantivoj estas baze nombre neŭtraj, t.e. ili ne distingiĝas laŭ ununombro aŭ multenombro. Por tamen esprimi nombron, eblas aldoni la finaĵon **-u** por ***ununombro*** aŭ la finaĵon **-i** por ***multenombro***.
+
+* **amico** *(amiko(j))*
+  * **amicou** *(amiko)*
+  * **amicoi** *(amikoj)*
 
 *Pralingua → Lingua:* La finaĵo **-i** fariĝas **-e**.
 
