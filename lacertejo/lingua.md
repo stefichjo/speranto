@@ -80,6 +80,45 @@ Grek-devenaj **ph**, **th**, **ch** prononciĝas [f], [t], [k].
 |-|-|-|-|-|
 |**six**|**sep**|**oc**|**nau**|**dec**|
 
+* **cent**
+* **mill**
+
+#### Ordinaloj
+
+|**unta**|**duta**|**trita**|**quarta**|**quinta**|
+|-|-|-|-|-|
+|**sixta**|**septa**|**octa**|**nauta**|**decta**|
+
+* **centesma**
+* **millesma**
+
+*Pralingua → Lingua:*
+
+* **prima** → **unta**
+* **secunda** → **duta**
+* **tertia** → **trita**
+
+#### Korelativoj
+
+|**quo**|**qua**|**que**|**qui**|
+|-|-|-|-|
+|*(kio)*|*(kia)*|*(kie)*|*(kien)*|
+|**ho**|**ha**|**he**|**hi**|
+|*(jen tio)*|*(jen tia)*|*(jen tie)*|*(jen tien)*|
+|**io**|**ia**|**ie**|**ii**|
+|*(ĉi tio)*|*(ĉi tia)*|*(ĉi tie)*|*(ĉi tien)*|
+|**to**|**ta**|**te**|**ti**|
+|*(tio)*|*(tia)*|*(tie)*|*(tien)*|
+|**lo**|**la**|**le**|**li**|
+|*(fore tio)*|*(fore tia)*|*(fore tie)*|*(fore tien)*|
+|**no**|**na**|**ne**|**ni**|
+|*(nenio)*|*(nenia)*|*(nenie)*|*(nenien)*|
+|**omno**|**omna**|**omne**|**omni**|
+|*(ĉio)*|*(ĉia)*|*(ĉie)*|*(ĉien)*|
+|**ono**|**ona**|**one**|**oni**|
+|*(io)*|*(ia)*|*(ie)*|*(ien)*|
+
+
 
 ### Radikaj Vortoj
 
