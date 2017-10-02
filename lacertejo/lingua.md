@@ -98,7 +98,7 @@ Grek-devenaj **ph**, **th**, **ch** prononciĝas [f], [t], [k].
 * **secunda** → **duta**
 * **tertia** → **trita**
 
-#### Korelativoj
+### Korelativoj
 
 |**quo**|**qua**|**que**|**qui**|
 |-|-|-|-|
@@ -118,7 +118,12 @@ Grek-devenaj **ph**, **th**, **ch** prononciĝas [f], [t], [k].
 |**ono**|**ona**|**one**|**oni**|
 |*(io)*|*(ia)*|*(ie)*|*(ien)*|
 
+Uziĝas **que** kiel konjunkcio por enkonduki subfrazon kaj **ne** kiel nea adverbo.
 
+* Meu spera ***que*** teu esse in domo. *(Mi esperas, ke vi estas hejme.)*
+* Teu ***ne*** esse in domo. *(Vi ne estas hejme.)*
+
+### Pronomoj
 
 ### Radikaj Vortoj
 
