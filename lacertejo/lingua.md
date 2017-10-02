@@ -22,9 +22,10 @@ Grek-devenaj **ph**, **th**, **ch** prononciĝas [f], [t], [k].
 * **thema** [ˈtɛma]
 * **charactere** [karakˈtɛrɛ]
 
-*Neolingua:* Intervokala **b** [b] en verboj prononciĝas [v].
+*Neolingua:* Postvokala radikofina **b** [b] prononciĝas [v].
 
 * **scribe** [ˈskrɪbɛ] → [ˈskrɪvɛ]
+* **habe** [ˈhabɛ] → [ˈhavɛ]
 
 *Pralingua:* Per **h** transskribiĝas la grek-devenaj literoj respektive sonoj **ph** [ɸ], **th** [θ], **ch** [⁠x⁠]​.
 
@@ -40,11 +41,12 @@ Grek-devenaj **ph**, **th**, **ch** prononciĝas [f], [t], [k].
 
 ### Duonvokaloj
 
-*Neolingua:* Apudvokalaj aŭ radikofinaj **i** [ɪ] kaj **u** [ʊ] prononciĝas [j] kaj [w]. Apud **u** [ʊ], **i** [ɪ] estas neakcentebla.
+*Neolingua:* Apudvokalaj aŭ radikofinaj **i** [ɪ] kaj **u** [ʊ] prononciĝas [j] kaj [w]. Apud **u** [ʊ], **i** [ɪ] estas ĝenerale neakcentebla, dum specife apud **q** [k], **u** [ʊ] estas neakcentebla.
 
 * **bestia** [ˈbɛstɪa] → [ˈbɛstja]
 * **aqua** [ˈakʊa] → [ˈakwa]
 * **iusta** [ɪˈʊsta] → [ˈjʊsta]
+* **quin** [kʊˈɪn] → [kwɪn]
 
 ### Konsonantoj
 
