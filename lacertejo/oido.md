@@ -1,6 +1,6 @@
 # Oido
 
-**Oido** baziĝas sur **Neolingua**.
+**Oido** baziĝas sur **Neolingua**. Pli precize, **Oido** baziĝas sur **Praoido**, kaj **Praoido** siavice baziĝas sur **Neolingua**.
 
 * **centro** [ˈxɛntrɔ] → **zentro** [ˈtsɛntrɔ]
 
@@ -37,14 +37,15 @@ Nekcenteblaj **i** [j] kaj **u** [w] skribiĝas **ĭ** kaj **ŭ**.
 Komence de radiko, neakcentebla **i** [j] fariĝas **j** [dʒ].
 
 * **iusta** [ˈjʊsta] → **justa** [ˈdʒʊsta]
+* **io** [jɔ] → **jo** [dʒɔ]
 
-*Neolingua → Praoido:* Neakcentebla **i** [j] fariĝas **j** [ʒ] komence de radiko.
+*Praoido:* Neakcentebla **i** [j] fariĝas **j** [ʒ] komence de radiko.
 
 * **iura** [ˈjʊra] → **juri** [ˈʒʊrɪ]
 
 ### Diftongoj
 
-*Oido → Novoido:* Neakcenteblaj **ĭ** [j] kaj **ŭ** [w] formas monoftongon kun sia najbara vokalo.
+*Novoido:* Neakcenteblaj **ĭ** [j] kaj **ŭ** [w] formas monoftongon kun sia najbara vokalo.
 
 * **aŭro** [ˈawrɔ] → **oro** [ˈɔrɔ]
 * **Eŭropo** [ɛwˈrɔpɔ] → **Uropo** [uˈrɔpɔ]
@@ -67,14 +68,26 @@ Konsonantoj prononciĝas kaj skribiĝas unuoble. Nur **ss** [s] skribiĝas duobl
 * **spatio** [ˈspaθjɔ] → **spazĭo** [ˈspatsjɔ]
 * **democratīa** [dɛmɔkraˈθɪa] → **democrazio** [dɛmɔkraˈtsɪɔ]
 
+Grek-devena **z** [dz] fariĝas **z** [ts].
+
+* **zona** [ˈdzɔna] → **zono** [ˈtsɔnɔ]
+
 **g** [ɣ] kaj radikokomenca neakcentebla **i** [j] fariĝas j [dʒ].
 
 * **gentile** [ɣɛnˈtɪlɛ] → **jentila** [dʒɛnˈtɪla]
 
-*Neolingua → Praoido:* **g** [ɣ] kaj radikokomenca neakcentebla **i** [j] fariĝas j [ʒ].
+**b** [v] skribiĝas **v**.
+
+* **scribe** [ˈskrɪvɛ] → **scrivi** [ˈskrɪvɪ]
+
+*Praoido:* **g** [ɣ] kaj radikokomenca neakcentebla **i** [j] fariĝas j [ʒ].
 
 * **gentile** [ɣɛnˈtɪlɛ] → **jentila** [ʒɛnˈtɪla]
 * **iura** [ˈjʊra] → **juri** [ˈʒʊrɪ]
+
+*Novoido:* **h** [h] fariĝas muta.
+
+* **hora** [ˈhɔra] → **oro** [ˈɔrɔ]
 
 ## Gramatiko
 

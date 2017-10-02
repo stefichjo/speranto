@@ -1,16 +1,22 @@
-# Dialekto
+# Piĝino
 
 > Se ni eĉ supozos, ke la fina lingvo de la estontaj generacioj estos ne Esperanto, en ĉia okazo la vojo al tiu ellaborota lingvo nepre devas konduki tra Esperanto.
 > ---
 > L. L. Zamenhof
 
-**Dialekto** baziĝas sur **Novoido**.
+**Piĝino** baziĝas sur **Novoido**.
 
 ## Alfabeto
 
 ### Vokaloj
 
 ### Duonvokaloj
+
+*Oidismo:* Diftongoj restas senŝanĝaj en **Piĝino**.
+
+* **taŭro** [ˈtawrɔ]
+* **trajno** [ˈtrajnɔ]
+* **Eŭropa** [ɛwˈrɔpa]
 
 #### Neakcenteblaj i kaj u
 
@@ -44,10 +50,14 @@ Post vokalo, neakcentebla **ĭ** [j] skribiĝas **j**.
 * **masso** [ˈmasɔ] → **maso**
 * **roso** [ˈrɔzɔ] → **rozo**
 
-**z** [ts] fariĝas **ĉ** [tʃ].
+Latin-devena **z** [ts] fariĝas **ĉ** [tʃ].
 
 * **zesso** [ˈtsɛsɔ] → **ĉeso** [ˈtʃɛsɔ]
 * **aczento** [akˈtsɛntɔ] → **akĉento** [akˈtʃɛntɔ]
+
+***Lingvaismo:*** Grek-devena **z** [z] restas senŝanĝa.
+
+* **zona** [ˈzɔna] → **zono** [ˈzɔnɔ]
 
 **c** [k] skribiĝas **k**.
 
@@ -61,6 +71,10 @@ Post vokalo, neakcentebla **ĭ** [j] skribiĝas **j**.
 * **nazio** [naˈtsɪɔ] → **nacio**
 * **spazo** [ˈspatsɔ] → **spaco**
 
+***Oidismo:*** **h** [h] restas senŝanĝa.
+
+* **horo** [ˈhɔrɔ]
+
 ***Lingvaismo:*** Grekdevena **t** [t] antaŭ radikofina **i** [ɪ] restas senŝanĝa.
 
 * **democratīa** [dɛmɔkraˈtɪa] → **demokratio** [dɛmɔkraˈtɪɔ]
@@ -68,6 +82,10 @@ Post vokalo, neakcentebla **ĭ** [j] skribiĝas **j**.
 ***Lingvaismo:*** **g** [g] restas senŝanĝa, ankaŭ antaŭ **e** [ɛ] kaj **i** [ɪ].
 
 * **genera** [gɛˈnɛra] → **generi** [gɛˈnɛrɪ]
+
+***Lingvaismo:*** Intervokala **b** [b] (en verboj) restas senĝanĝa.
+
+* **scribe** [ˈskrɪbɛ] → **skribi** [ˈskrɪbɪ]
 
 ## Gramatiko
 
@@ -98,7 +116,7 @@ La **imperativa** finaĵo **-en** (respektive **-n**) uziĝas por esprimi **dire
 * Mi vidas ĝi***n***.
 * Bona***n*** nokto***n***!
 
-*Novoido → Dialekto:* 
+*Novoido → Piĝino:* 
 
 * Mu vidan ju**en**. → Mi vidas ĝi**n**.
 
