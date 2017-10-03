@@ -116,9 +116,9 @@ Pronomoj havas la ŝajnfinaĵon **-i**.
 La **imperativa** finaĵo **-en** (respektive **-n**) uziĝas por esprimi **direkton** (respektive **akuzativon**).
 
 * **nenejen**
-* Ni iras renkont***en***.
-* Mi vidas ĝi***n***.
-* Bona***n*** nokto***n***!
+* Ni iras **renkonten**.
+* Mi vidas **ĝin**.
+* **Bonan** **nokton**!
 
 *Novoido → Piĝino:* 
 

@@ -160,8 +160,8 @@ Pere de la finaĵo **-a** formiĝas ***posesivaj pronomoj***.
 #### Honorigaj Pronomoj
 
 |**unei**|**uvei**|**ulei**|
-|*(unu el ni)*|*(unu el vi)*|*(unu el ili)*|
 |-|-|-|
+|*(unu el ni)*|*(unu el vi)*|*(unu el ili)*|
 |**anei**|**avei**|**alei**|
 |*(unu virino el ni)*|*(unu virino el vi)*|*(unu virino el ili)*|
 |**onei**|**ovei**|**olei**|
@@ -173,9 +173,13 @@ Pere de la finaĵo **-a** formiĝas ***posesivaj pronomoj***.
 
 #### Substantivoj
 
-Substantivoj havas la vir-genran ablativan formon.
+Substantivoj havas la **vir-genran ablativan** formon. Nomoj kaj terminoj havas sian specifan **nominativan** formon.
 
-* **amico** [aˈmɪkɔ]
+* **amico** *(amiko)*
+* **Iulius** *(Juliuso)*
+* **homo** *(homo)*
+* **data** *(datumoj)*
+* **datum** *(dato)*
 
 Substantivoj estas baze nombre kaj genre neŭtraj, t.e. ili ne distingiĝas laŭ ununombro aŭ multenombro aŭ laŭ in-genro aŭ vir-genro. Nur en vokativo eblas esprimi nombron per la finaĵo **-u** por ***ununombro*** aŭ per la finaĵo **-i** por ***multenombro*** respektive genron per la finaĵo **-a** por ***in-genro*** aŭ per la finaĵo **-o** por ***vir-genro***.
 
