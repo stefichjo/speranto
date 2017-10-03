@@ -177,33 +177,29 @@ Substantivoj havas la vir-genran ablativan formon.
 
 * **amico** [aˈmɪkɔ]
 
-Substantivoj estas baze nombre neŭtraj, t.e. ili ne distingiĝas laŭ ununombro aŭ multenombro. Por tamen esprimi nombron, eblas uzi la finaĵon **-u** por ***ununombro*** aŭ la finaĵon **-i** por ***multenombro***.
+Substantivoj estas baze nombre kaj genre neŭtraj, t.e. ili ne distingiĝas laŭ ununombro aŭ multenombro aŭ laŭ in-genro aŭ vir-genro. Nur en vokativo eblas esprimi nombron per la finaĵo **-u** por ***ununombro*** aŭ la finaĵon **-i** por ***multenombro*** respektive genron per la finaĵo **-a** por ***in-genro*** aŭ la finaĵon **-o** por ***vir-genro***.
 
-* **amico** *(amiko(j))*
-  * **amicu** *(amiko)*
-  * **amici** *(amikoj)*
-
-Substantivo estas genre neŭtraj, t.e. ili ne distingiĝas laŭ in-genro aŭ vir-genro. Nur en vokativo eblas esprimi genron per la finaĵo **-a** por ***in-genro*** aŭ la finaĵo **-o** por ***vir-genro***.
-
-* **Amico!** *(Amiko!)*
-  * **Amica!** *(Amikino!)*
-  * **Amico!** *(Vir-amiko!)*
+* **Amicu!** *(Amiko!)*
+* **Amici!** *(Amikoj!)*
+* **Amica!** *(Amikino!)*
+* **Amico!** *(Vir-amiko!)*
 
 *Pralingua → Lingua:* La vokalo antaŭ la la nombr-indikaj respektive genr-indikaj finaĵoj malaperas.
 
-* **amicou** → **amicu** *(amiko)*
-* **amicoi** → **amici** *(amikoj)*
+* **Amicou!** → **Amicu!** *(amiko)*
+* **Amicoi!** → **Amici!** *(amikoj)*
 * **Amicoa!** → **Amica!** *(Amikino!)*
 * **Amicoo!** → **Amico!** *(Vir-amiko!)*
 
-*Pralingua → Lingua:* La finaĵo **-i** fariĝas **-e**.
+*Pralingua → Lingua:* La substantivaj finaĵoj **-i** kaj **-u** fariĝas **-e** kaj **-o**.
 
-* **mari** [ˈmarɪ] → **mare** [ˈmarɛ]
+* **mari** → **mare** *(maro)*
+* **manu** → **mano** *(mano)*
 
 *Pralingua → Lingua:* La neakcenteblaj sufiksoj **-in-** kaj **-it-** eliziiĝas.
 
-* **nomine** [ˈnɔmɪnɛ] → **nome** [ˈnɔmɛ]
-* **limite** [ˈlɪmɪtɛ] → **lime** [ˈlɪmɛ]
+* **nomine** → **nome**
+* **limite** → **lime**
 
 #### Adjektivoj
 
