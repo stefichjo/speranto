@@ -177,7 +177,7 @@ Substantivoj havas la vir-genran ablativan formon.
 
 * **amico** [aˈmɪkɔ]
 
-Substantivoj estas baze nombre kaj genre neŭtraj, t.e. ili ne distingiĝas laŭ ununombro aŭ multenombro aŭ laŭ in-genro aŭ vir-genro. Nur en vokativo eblas esprimi nombron per la finaĵo **-u** por ***ununombro*** aŭ la finaĵon **-i** por ***multenombro*** respektive genron per la finaĵo **-a** por ***in-genro*** aŭ la finaĵon **-o** por ***vir-genro***.
+Substantivoj estas baze nombre kaj genre neŭtraj, t.e. ili ne distingiĝas laŭ ununombro aŭ multenombro aŭ laŭ in-genro aŭ vir-genro. Nur en vokativo eblas esprimi nombron per la finaĵo **-u** por ***ununombro*** aŭ per la finaĵo **-i** por ***multenombro*** respektive genron per la finaĵo **-a** por ***in-genro*** aŭ per la finaĵo **-o** por ***vir-genro***.
 
 * **Amicu!** *(Amiko!)*
 * **Amici!** *(Amikoj!)*
