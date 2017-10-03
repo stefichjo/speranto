@@ -202,20 +202,37 @@ Substantivoj estas baze nombre kaj genre neŭtraj, t.e. ili ne distingiĝas laŭ
 
 *Pralingua → Lingua:* La neakcenteblaj sufiksoj **-in-** kaj **-it-** eliziiĝas.
 
-* **nomine** → **nome**
-* **limite** → **lime**
+* **nomine** → **nome** *(nomo)*
+* **limite** → **lime** *(limo)*
 
 #### Adjektivoj
 
 Adjektivoj havas la in-genran ablativan formon.
 
-* **bona** [ˈbɔna]
+* **bona** *(bona)*
 
 #### Verboj
 
 Verboj havas la infinitivan formon sen **-re**.
 
-* **ama** [ˈama]
-* **vide** [ˈvɪdɛ]
-* **senti** [ˈsɛntɪ]
+* **ama** *(ami)*
+* **vide** *(vidi)*
+* **senti** *(senti)*
+
+##### Participo
+
+La participo formiĝas per **-ta**. Kombine kun la verbo **habe** esprimiĝas **pasinteco**.
+
+* **Meu habe formata.** *(Mi formis.)*
+  
+*Pralingua → Lingua:* Neakcentblaj, verbofinaj **-e** kaj **-i** eliziiĝas. Ofte apartaj formoj uziĝas.
+
+* **Meu habe facĕta.** → **Mu habe facta.** *(Mi faris.)*
+* **Meu habe venĭta.** → **Mu habe venta.** *(Mi venis.)*
+* **Meu habe agĕta.** → **Mu habe acta.** *(Mi agis.)*
+* **Meu habe sentĭta.** → **Mu habe sensa.** *(Mi sentis.)*
+
+Ankaŭ la verbo **esse** havas la saman participon **stata** kiel la verbo **sta**.
+
+* **Tu habe stata in domo.** *(Vi estis hejme.)*
 
