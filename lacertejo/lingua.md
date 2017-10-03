@@ -141,22 +141,33 @@ Uziĝas **que** kiel ***konjunkcio*** por enkonduki subfrazon kaj **ne** kiel ne
 
 ### Pronomoj
 
+Pere de la finaĵo **-a** formiĝas ***posesivaj pronomoj***.
+
+* ***neia*** libro *(nia libro)*
+
+*Neolingua:* La vokalo **e** de pronomoj malaperas.
+
+* ***neia*** libro → ***nia*** libro *(nia libro)*
+
+#### Intimaj Pronomoj
+
 |**meu**|**teu**|**ieu**|
 |-|-|-|
 |*(mi)*|*(vi)*|*(ŝi, li, ĝi)*|
 |**nei**|**vei**|**lei**|
 |*(ni)*|*(vi)*|*(ili)*|
 
+#### Honorigaj Pronomoj
+
 |**unei**|**uvei**|**ulei**|
-|-|-|-|
 |*(unu el ni)*|*(unu el vi)*|*(unu el ili)*|
+|-|-|-|
+|**anei**|**avei**|**alei**|
+|*(unu virino el ni)*|*(unu virino el vi)*|*(unu virino el ili)*|
+|**onei**|**ovei**|**olei**|
+|*(unu viro el ni)*|*(unu viro el vi)*|*(unu viro el ili)*|
 |**inei**|**ivei**|**ilei**|
 |*(ĉiuj el ni)*|*(ĉiuj el vi)*|*(ĉiuj el ili)*|
-
-Pere de la finaĵo **-a** formiĝas ***posesivaj pronomoj***.
-
-* ***meua*** libro *(mia libro)*
-
 
 ### Radikaj Vortoj
 

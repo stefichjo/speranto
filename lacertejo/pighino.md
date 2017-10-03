@@ -89,6 +89,10 @@ Latin-devena **z** [ts] fariĝas **ĉ** [tʃ].
 
 ## Gramatiko
 
+### Numeraloj
+
+#### Ordinaloj
+
 ### Korelativoj
 
 Korelativo je **n-** estas prefiksata de redunda **ne-**.
@@ -105,7 +109,7 @@ Pronomoj havas la ŝajnfinaĵon **-i**.
 
 ### Radikaj Vortoj
 
-La finaĵo **-j** por substantivoj kaj adjektivoj signifas **multenombron**.
+***Lingvaismo:*** La finaĵo **-j** por substantivoj kaj adjektivoj signifas **multenombron**.
 
 * bona***j*** amiko***j***
 
