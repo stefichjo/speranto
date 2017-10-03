@@ -186,10 +186,10 @@ Substantivoj estas baze nombre kaj genre neŭtraj, t.e. ili ne distingiĝas laŭ
 
 *Pralingua → Lingua:* La vokalo antaŭ la la nombr-indikaj respektive genr-indikaj finaĵoj malaperas.
 
-* **Amicou!** → **Amicu!** *(amiko)*
-* **Amicoi!** → **Amici!** *(amikoj)*
-* **Amicoa!** → **Amica!** *(Amikino!)*
-* **Amicoo!** → **Amico!** *(Vir-amiko!)*
+* **Amicou!** → **Amicu!**
+* **Amicoi!** → **Amici!**
+* **Amicoa!** → **Amica!**
+* **Amicoo!** → **Amico!**
 
 *Pralingua → Lingua:* La substantivaj finaĵoj **-i** kaj **-u** fariĝas **-e** kaj **-o**.
 
