@@ -284,7 +284,7 @@ Por la lokaj kazoj ***alativo***, ***lokativo***, ***ablativo*** kaj por la ne-l
 
 Pere de la prepozicio **ad** formiĝas prepoziciaĵoj.
 
-* circo **ad** domo *(ĉirkaŭ domo)*
+* ***circo ad*** domo *(ĉirkaŭ domo)*
 
 Tra bruo, la prepozicioj **ad**, **in**, **de** uziĝas ankaŭ por esprimi ***akuzativon***.
 
@@ -292,11 +292,11 @@ Tra bruo, la prepozicioj **ad**, **in**, **de** uziĝas ankaŭ por esprimi ***ak
 * Meu ama ***in*** teu. *(Mi amas vin.)*
 * Meu vide ***de*** teu. *(Mi vidas vin.)*
 
-*Neolingua:* Por la ne-lokaj kazoj ***dativo**, ***instrumentalo***, ***genitivo*** uziĝas la prepozicioj **as**, **en**, **di** anstataŭ **ad**, **in**, **de**.
+*Neolingua:* Por la ne-lokaj kazoj ***dativo***, ***instrumentalo***, ***genitivo*** uziĝas la prepozicioj **as**, **en**, **di** anstataŭ **ad**, **in**, **de**.
 
-* ***ad*** → ***as*** amico *(por amiko)*
-* ***in*** → ***en*** amico *(per amiko)*
-* ***de*** → ***di*** amico *(de amiko)*
+* adiuva ***ad*** amico → adiuva ***as*** amico *(helpo por amiko)*
+* adiuva ***in*** amico → adiuva ***en*** amico *(helpo per amiko)*
+* adiuva ***de*** amico → adiuva ***di*** amico *(helpo de amiko)*
 
 *Neolingua:* Tra bruo, la prepozicioj **as**, **en**, **di** fariĝas **as**, **an**, **da** por esprimi ***akuzativon***. Antaŭ **as** kaj **an**, la finaĵo de la verbo tiam eliziiĝas.
 
