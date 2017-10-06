@@ -101,9 +101,10 @@ Korelativo je **n-** estas prefiksata de redunda **ne-**.
 
 ### Pronomoj
 
-Pronomoj havas la ŝajnfinaĵon **-i**.
+***Neolingvaismo:*** Pronomoj havas la ŝajnfinaĵon **-i**.
 
 * **mu** → **mi**
+* **nu** → **ni**
 
 ### Artikoloj
 
@@ -111,24 +112,24 @@ Pronomoj havas la ŝajnfinaĵon **-i**.
 
 ***Lingvaismo:*** La finaĵo **-j** por substantivoj kaj adjektivoj signifas **multenombron**.
 
-* bona***j*** amiko***j***
+* ***bonaj*** ***amikoj***
 
 La **imperativa** finaĵo **-en** (respektive **-n**) uziĝas por esprimi **direkton** (respektive **akuzativon**).
 
 * **nenejen**
-* Ni iras **renkonten**.
-* Mi vidas **ĝin**.
-* **Bonan** **nokton**!
+* Ni iras ***renkonten***.
+* Mi vidas ***ĝin***.
+* ***Bonan*** ***nokton***!
 
 *Novoido → Piĝino:* 
 
-* Mu vidan ju**en**. → Mi vidas ĝi**n**.
+* Mu vidan ***juen***. → Mi vidas ***ĝin***.
 
 #### Substantivoj
 
 Por **vokativo** uziĝas **ho**.
 
-* **Ho amiko!** [hɔ aˈmɪkɔ]
+* ***Ho*** amiko!
 
 #### Adjektivoj
 
@@ -138,5 +139,14 @@ Por **vokativo** uziĝas **ho**.
 
 La **vokativa** finaĵo **-u** uziĝas por alvoki ion bezonatan aŭ por **imperativo**.
 
-* **Helpu!** [ˈhɛlpʊ]
+* **Adjuvu!**
 
+***Neolingvaismo:*** La trabrua akuzativa prepozicio **as** fariĝas la verba finaĵo por la ***as-tempo***.
+
+* Mu ***adiuv'as*** tu. → Mi ***adjuvas*** vin.
+
+#### Prepozicioj
+
+La ŝajnfinaĵo **-al** fariĝas **-aŭ**.
+
+* ***ĉirc'al*** → ***ĉirkaŭ***

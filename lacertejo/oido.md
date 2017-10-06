@@ -61,10 +61,10 @@ Konsonantoj prononciĝas kaj skribiĝas unuoble. Nur **ss** [s] skribiĝas duobl
 * **rosa** [ˈrɔza] → **roso** [ˈrɔzɔ]
 * **rosas** [ˈrɔzas] → **rosos** [ˈrɔzɔs]
 
-**c** [x] kaj **t** [θ] fariĝas **z** [ts].
+**c** [ç] kaj **t** [θ] fariĝas **z** [ts].
 
-* **centro** [ˈxɛntrɔ] → **zentro** [ˈtsɛntrɔ]
-* **cyclo** [ˈxɪklɔ] → **ziclo** [ˈtsɪklɔ]
+* **centro** [ˈçɛntrɔ] → **zentro** [ˈtsɛntrɔ]
+* **cyclo** [ˈçɪklɔ] → **ziclo** [ˈtsɪklɔ]
 * **spatio** [ˈspaθjɔ] → **spazĭo** [ˈspatsjɔ]
 * **democratīa** [dɛmɔkraˈθɪa] → **democrazio** [dɛmɔkraˈtsɪɔ]
 
@@ -111,9 +111,9 @@ Intervaloj esprimiĝas per sufiksa **-t-**.
 
 |**qŭo**|**qŭa**|**qŭessa**|**qŭesma**|**…**|
 |-|-|-|-|-|
-|*(kio)*|*(kiu)*|*(kia)*|*(kies)*|*…*|
+|*(kio)*|*(kiu)*|*(kia, de kiu eco)*|*(kies)*|*…*|
 |**qŭeje**|**qŭande**|**qŭante**|**qŭale**|**qŭare**|
-|*(kie)*|*(kiam)*|*(kiom)*|*(kiel)*|*(kial)*|
+|*(kie)*|*(kiam, en kiu kazo)*|*(kiom, kion farante)*|*(kiel, laŭ kies maniero)*|*(kial, por fari kion)*|
 
 * **qŭo** *(kio)*
 * **ho** *(jen tio)*
@@ -178,5 +178,3 @@ La finaĵo **-u** uziĝas por **vokativo**.
 Adjektivoj havas la finaĵon **-a**.
 
 * **bona**
-
-
