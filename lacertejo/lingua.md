@@ -29,9 +29,9 @@ Grek-devenaj **ph**, **th**, **ch** prononciĝas [f], [t], [k].
 
 *Pralingua:* Per **h** transskribiĝas la grek-devenaj literoj respektive sonoj **ph** [ɸ], **th** [θ], **ch** [⁠x⁠]​.
 
-* **phase** [ˈɸasɛ]
-* **thema** [ˈθɛma]
-* **charactere** [xarakˈtɛrɛ]
+* **phase** [ˈɸasɛ] → [ˈfasɛ]
+* **thema** [ˈθɛma] → [ˈtɛma]
+* **charactere** [xarakˈtɛrɛ] → [karakˈtɛrɛ]
 
 ### Vokaloj
 
@@ -193,28 +193,11 @@ Substantivoj estas baze nombre kaj genre neŭtraj, t.e. ili ne distingiĝas laŭ
 |**Amici!**|**Amico!**|
 |*(Amikoj!)*|*(Vir-amiko!)*|
 
-Substantivoj derivitaj de [participoj](#participoj) havas finaĵojn je **-u**, **-o**, **-īo**.
+Substantivoj derivitaj de [participoj](#participoj) havas finaĵojn je **-o** aŭ **-īo**.
 
-* **stata**
-  * **statu** *("starumo", statuso, staturo)*
-  * **stato** *("staraĵo", stato, statoro)*
-  * **statīo** *("starado", stacio)*
-
-*Pralingua → Lingua:*
-
-* **statura** → **statu**
-* **statore** → **stato**
-* **statione** → **statīo**
-
-pra: -u, -ura
-mez: -o, -ura
-neo: -o, -ura, -ore
-
-
-
-*Neolingua:* Sola fina **-u** de substantivoj derivitaj de [participoj](#participoj) fariĝas **-o**.
-
-* **sensu** → **senso** *(sentumo, senso)*
+* **stato** *("staro": stato, "stariĝo": statuso)*
+  * **statore** *("staranto": statoro)*
+* **lectīo** *("legado": lekcio, "legadaĵo": leciono)*
 
 Grek-devenaj neologismoj havas la finaĵojn **-i**, **-īa**, **-a**, **-e**.
 
@@ -239,6 +222,12 @@ Grek-devenaj neologismoj havas la finaĵojn **-i**, **-īa**, **-a**, **-e**.
 
 * **nomine** → **nome** *(nomo)*
 * **limite** → **lime** *(limo)*
+
+*Pralingua → Lingua:* Substantivoj (derivitaj de [participoj](#participoj)) je **-u** kaj **-ione** cedas al la malpli specifaj formoj je **-o** kaj **-īo**.
+
+* **statu** → **stato** *("stariĝo": statuso)*
+  * **statura** *("stariĝaĵo": staturo)*
+* **legĕtione** → **lectīo** *("legadaĵo": leciono)*
 
 #### Adjektivoj
 
