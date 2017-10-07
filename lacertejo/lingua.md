@@ -223,6 +223,14 @@ Verboj havas la infinitivan formon sen **-re**.
 * **vide** *(vidi)*
 * **senti** *(senti)*
 
+##### Tempoj
+
+La tempe proksimaj ***futuro***, ***prezenco***, ***preterito*** esprimiĝas per la verboj **vade**, **sta**, **veni** kun la prepozicioj **ad**, **in**, **de**.
+
+* Meu ***vade ad*** lege. *(Mi estas legonta.)*
+* Meu ***sta in*** lege. *(Mi estas leganta.)*
+* Meu ***veni de*** lege. *(Mi estas leginta.)*
+
 ##### Participo
 
 La participo formiĝas per **-ta**. Kombine kun la verbo **habe** esprimiĝas ***pasinteco***.
