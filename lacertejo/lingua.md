@@ -247,7 +247,7 @@ Verboj havas la infinitivan formon sen **-re**.
 * **vide** *(vidi)*
 * **senti** *(senti)*
 
-##### Tempoj
+##### Proksimaj Tempoj
 
 La tempe proksimaj ***futuro***, ***prezenco***, ***preterito*** esprimiĝas per la verboj **vade**, **sta**, **veni** kun la prepozicioj **ad**, **in**, **de**.
 
@@ -255,56 +255,62 @@ La tempe proksimaj ***futuro***, ***prezenco***, ***preterito*** esprimiĝas per
 * Meu ***sta in*** lege. *(Mi estas leganta.)*
 * Meu ***veni de*** lege. *(Mi estas leginta.)*
 
-##### Participo
+##### Pasivo
 
-La participo formiĝas per **-ta**. Kombine kun la verbo **habe** esprimiĝas ***pasinteco***.
+Pere de la sufikso **-t-**, verboj fariĝas adjektivoj, kiuj esprimas ***pasivon***.
 
-* **Meu habe data.** *(Mi donis.)*
-* **Meu habe ita.** *(Mi iris.)*
-  
+* La libro esse ***lecta***. *(La libro legiĝas. La libro estas legata.)*
+
 *Pralingua → Lingua:* Neakcentblaj, verbofinaj **-e** kaj **-i** eliziiĝas. Ofte apartaj formoj uziĝas.
 
 * → *-*
-  * **habe ducĕta** → **habe ducta** *(gvidis)*
-  * **habe facĕta** → **habe facta** *(faris)*
-  * **habe venĭta** → **habe venta** *(venis)*
+  * **ducĕta** → **ducta**
+  * **facĕta** → **facta**
+  * **venĭta** → **venta**
 * *bt* → *pt*
-  * **habe scribĕta** → **habe scripta** *(legis)*
+  * **scribĕta** → **scripta**
 * *gt* → *ct*
-  * **habe agĕta** → **habe acta** *(agis)*
-  * **habe legĕta** → **habe lecta** *(legis)*
-  * **habe pungĕta** → **habe puncta** *(pikis)*
+  * **agĕta** → **acta**
+  * **legĕta** → **lecta**
+  * **pungĕta** → **puncta**
 * *dt* → *s*
-  * **habe cadĕta** → **habe casa** *(falis)*
-  * **habe cludĕta** → **habe clusa** *(fermis)*
-  * **habe pandĕta** → **habe pansa** *(paŝis)*
-  * **habe prendĕta** → **habe prensa** *(prenis)*
-  * **habe vadĕta** → **habe vasa** *(vagis)*
-  * **habe vidĕta** → **habe visa** *(legis)*
+  * **cadĕta** → **casa**
+  * **cludĕta** → **clusa**
+  * **pandĕta** → **pansa**
+  * **prendĕta** → **prensa**
+  * **vadĕta** → **vasa**
+  * **vidĕta** → **visa**
 * *nct* → *ct*
-  * **habe vincĕta** → **habe victa** *(venkis)*
+  * **vincĕta** → **victa**
 * *ngt* → *ct*
-  * **habe tangĕta** → **habe tacta** *(tuŝis)*
+  * **tangĕta** → **tacta**
 * *nt* → *ns*
-  * **habe tenĕta** → **habe tensa** *(tenis)*
+  * **tenĕta** → **tensa**
 * *nt* → *sit*
-  * **habe ponĕta** → **habe posita** *(metis)*
+  * **ponĕta** → **posita**
 * *tt* → *ss*
-  * **habe mitĕta** → **habe missa** *(sendis)*
-  * **habe sentĭta** → **habe sensa** *(sentis)*
+  * **mitĕta** → **missa**
+  * **sentĭta** → **sensa**
 * *rrt* → *rs*
-  * **habe corrĕta** → **habe corsa** *(legis)*
+  * **corrĕta** → **corsa**
 * *rtt* → *rs*
-  * **habe vertĕta** → **habe versa** *(turnis)*
+  * **vertĕta** → **versa**
 * *vt* → *t*
-  * **habe movĕta** → **habe mota** *(movis)*
+  * **movĕta** → **mota**
 * *vt* → *ut*
-  * **habe solvĕta** → **habe soluta** *(solvis)*
-  * **habe volvĕta** → **habe voluta** *(revenis)*
+  * **solvĕta** → **soluta**
+  * **volvĕta** → **voluta**
 
-Ankaŭ la verbo **esse** havas la saman participon **stata** kiel la verbo **sta**.
+##### Malproksimaj Tempoj
 
-* **habe stata** *(estis, staris)*
+Pasivaj adjektivoj kun la verbo **habe** esprimas ***malproksiman preteriton***.
+
+* La homo ***habe lecta*** la libro. *(La homo legis la libron.)*
+
+La verbo **esse** havas la ***malproksim-preteritan*** adjektivon **stata**. Ĝi uziĝas kombine kun **esse** anstataŭ **habe**.
+
+* La homo ***habe stata*** ante ad la domo. *(La homo staris antaŭ la domo.)*
+* La homo ***esse stata*** felice. *(La homo estis feliĉa.)*
 
 #### Prepozicioj
 
@@ -317,6 +323,7 @@ Por la lokaj kazoj ***alativo***, ***lokativo***, ***ablativo*** kaj por la ne-l
 Pere de la prepozicio **ad** formiĝas prepoziciaĵoj.
 
 * ***circo ad*** domo *(ĉirkaŭ domo)*
+* ***ante ad*** domo *(antaŭ domo)*
 
 Tra bruo, la prepozicioj **ad**, **in**, **de** uziĝas ankaŭ por esprimi ***akuzativon***.
 
@@ -339,3 +346,4 @@ Tra bruo, la prepozicioj **ad**, **in**, **de** uziĝas ankaŭ por esprimi ***ak
 *Neolingua:* Tra bruo, la prepozicio **ad** por formi prepoziciaĵojn fariĝas **al**. La finaĵo antaŭ ĝi eliziiĝas.
 
 * circo **ad** → ***circ'al*** *(ĉirkaŭ)*
+* ante **ad** → ***ant'al*** *(antaŭ)*
