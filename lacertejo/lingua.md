@@ -187,10 +187,41 @@ Substantivoj havas la **vir-genran ablativan** formon. Nomoj kaj terminoj havas 
 
 Substantivoj estas baze nombre kaj genre neŭtraj, t.e. ili ne distingiĝas laŭ ununombro aŭ multenombro aŭ laŭ in-genro aŭ vir-genro. Nur en vokativo eblas esprimi nombron per la finaĵo **-u** por ***ununombro*** aŭ per la finaĵo **-i** por ***multenombro*** respektive genron per la finaĵo **-a** por ***in-genro*** aŭ per la finaĵo **-o** por ***vir-genro***.
 
-* **Amicu!** *(Amiko!)*
-* **Amici!** *(Amikoj!)*
-* **Amica!** *(Amikino!)*
-* **Amico!** *(Vir-amiko!)*
+|**Amicu!**|**Amica!**|
+|-|-|
+|*(Amiko!)*|*(Amikino!)*|
+|**Amici!**|**Amico!**|
+|*(Amikoj!)*|*(Vir-amiko!)*|
+
+Substantivoj derivitaj de [participoj](#participoj) havas finaĵojn je **-u**, **-o**, **-īo**.
+
+* **stata**
+  * **statu** *("starumo", statuso, staturo)*
+  * **stato** *("staraĵo", stato, statoro)*
+  * **statīo** *("starado", stacio)*
+
+*Pralingua → Lingua:*
+
+* **statura** → **statu**
+* **statore** → **stato**
+* **statione** → **statīo**
+
+pra: -u, -ura
+mez: -o, -ura
+neo: -o, -ura, -ore
+
+
+
+*Neolingua:* Sola fina **-u** de substantivoj derivitaj de [participoj](#participoj) fariĝas **-o**.
+
+* **sensu** → **senso** *(sentumo, senso)*
+
+Grek-devenaj neologismoj havas la finaĵojn **-i**, **-īa**, **-a**, **-e**.
+
+* **photographi** *("lumskribado", fotografado)*
+* **photographīa** *("lumskribarto", fotografio)*
+* **photographa** *("lumskribanto", fotografisto)*
+* **photographe** *("lumskribaĵo", fotografaĵo)*
 
 *Pralingua → Lingua:* La vokalo antaŭ la la nombr-indikaj respektive genr-indikaj finaĵoj malaperas.
 
@@ -214,6 +245,10 @@ Substantivoj estas baze nombre kaj genre neŭtraj, t.e. ili ne distingiĝas laŭ
 Adjektivoj havas la in-genran ablativan formon.
 
 * **bona** *(bona)*
+
+Adjektivo sekvas la substantivon.
+
+* domo ***grande*** *(granda domo)*
 
 #### Verboj
 
