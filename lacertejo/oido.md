@@ -178,3 +178,11 @@ La finaĵo **-u** uziĝas por **vokativo**.
 Adjektivoj havas la finaĵon **-a**.
 
 * **bona**
+
+#### Adverboj
+
+#### Verboj
+
+***Neolingvaismo:*** La trabrua akuzativa prepozicio **en** fariĝas **-an** kiel la verba finaĵo por la ***as-tempo***.
+
+* Mu ***adiuv'an*** tu. → Mu ***adjuvan*** tu. *(Mi helpas vin.)*

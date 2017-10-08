@@ -241,6 +241,12 @@ Adjektivo sekvas la substantivon.
 
 * domo ***grande*** *(granda domo)*
 
+#### Adverboj
+
+Adverboj formiĝas kun la finaĵo **-mente**.
+
+* **fortemente** *(forte)*
+
 #### Verboj
 
 Verboj havas la infinitivan formon sen **-re**.
@@ -308,11 +314,9 @@ Pere de la prepozicio **ad** formiĝas prepoziciaĵoj.
 * ***circo ad*** domo *(ĉirkaŭ domo)*
 * ***ante ad*** domo *(antaŭ domo)*
 
-Tra bruo, la prepozicioj **ad**, **in**, **de** uziĝas ankaŭ por esprimi ***akuzativon***.
+Tra bruo, la alativa prepozicio **ad** uziĝas por ***akuzativo***. Post ***helpaj verboj*** uziĝas la lokativa prepozicio **in**.
 
-* Meu adiuva ***ad*** teu. *(Mi helpas vin.)*
-* Meu ama ***in*** teu. *(Mi amas vin.)*
-* Meu vide ***de*** teu. *(Mi vidas vin.)*
+* Meu vole adiuva teu. → Meu vole ***in*** adiuva ***ad*** teu. *(Mi volas helpi vin.)*
 
 *Neolingua:* Por la ne-lokaj kazoj ***dativo***, ***instrumentalo***, ***genitivo*** uziĝas la prepozicioj **as**, **en**, **di** anstataŭ **ad**, **in**, **de**.
 
@@ -320,9 +324,9 @@ Tra bruo, la prepozicioj **ad**, **in**, **de** uziĝas ankaŭ por esprimi ***ak
 * adiuva ***in*** → ***en*** amico *(helpo per amiko)*
 * adiuva ***de*** → ***di*** amico *(helpo de amiko)*
 
-*Neolingua:* Tra bruo, la dativa prepozicio **as** uziĝas por ***akuzativo***, kaj la instrumentala prepozicio **en** fariĝas **an** kaj uziĝas post ***helpaj verboj***. La finaĵo de la verbo tiam povas eliziiĝi.
+*Neolingua:* La verba finaĵo antaŭ la trabruaj akuzativaj prepozicioj **as** kaj **en** povas eliziiĝi.
 
-* Meu vole adiuva teu. → Mu vole ***an*** adiuva ***as*** tu. → Mu ***vol'an*** ***adiuv'as*** tu. *(Mi volas helpi vin.)*
+* Meu vole ***en*** adiuva ***as*** teu. → Mu ***vol'en*** ***adiuv'as*** tu. *(Mi volas helpi vin.)*
 
 *Neolingua:* Tra bruo, la prepozicio **ad** por formi prepoziciaĵojn fariĝas **al**. La finaĵo antaŭ ĝi povas eliziiĝi.
 
