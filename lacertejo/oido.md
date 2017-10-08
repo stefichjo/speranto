@@ -1,6 +1,6 @@
-# Oido
+# Oĭdo
 
-**Oido** baziĝas sur **Neolingua**. Pli precize, **Oido** baziĝas sur **Praoido**, kaj **Praoido** siavice baziĝas sur **Neolingua**.
+**Oĭdo** baziĝas sur **Neolingua**. Pli precize, **Oĭdo** baziĝas sur **Praoĭdo**, kaj **Praoĭdo** siavice baziĝas sur **Neolingua**.
 
 * **centro** [ˈxɛntrɔ] → **zentro** [ˈtsɛntrɔ]
 
@@ -27,7 +27,7 @@ Nekcenteblaj **i** [j] kaj **u** [w] skribiĝas **ĭ** kaj **ŭ**.
 * **bestia** [ˈbɛstja] → **bestĭo** [ˈbɛstjɔ]
 * **lingua** [ˈlɪŋgwa] → **lingŭo** [ˈlɪŋgwɔ]
 
-*Oido → Novoido:* Neakcenteblaj **ĭ** [j] kaj **ŭ** [w] eliziiĝas.
+*Oĭdo → Novoĭdo:* Neakcenteblaj **ĭ** [j] kaj **ŭ** [w] eliziiĝas.
 
 * **bestĭo** [ˈbɛstjɔ] → **besto** [ˈbɛstɔ]
 * **lingŭo** [ˈlɪŋgwɔ] → **lingo** [ˈlɪŋgɔ]
@@ -39,13 +39,13 @@ Komence de radiko, neakcentebla **i** [j] fariĝas **j** [dʒ].
 * **iusta** [ˈjʊsta] → **justa** [ˈdʒʊsta]
 * **io** [jɔ] → **jo** [dʒɔ]
 
-*Praoido:* Neakcentebla **i** [j] fariĝas **j** [ʒ] komence de radiko.
+*Praoĭdo:* Neakcentebla **i** [j] fariĝas **j** [ʒ] komence de radiko.
 
 * **iura** [ˈjʊra] → **juri** [ˈʒʊrɪ]
 
 ### Diftongoj
 
-*Novoido:* Neakcenteblaj **ĭ** [j] kaj **ŭ** [w] formas monoftongon kun sia najbara vokalo.
+*Novoĭdo:* Neakcenteblaj **ĭ** [j] kaj **ŭ** [w] formas monoftongon kun sia najbara vokalo.
 
 * **aŭro** [ˈawrɔ] → **oro** [ˈɔrɔ]
 * **Eŭropo** [ɛwˈrɔpɔ] → **Uropo** [uˈrɔpɔ]
@@ -80,12 +80,12 @@ Grek-devena **z** [dz] fariĝas **z** [ts].
 
 * **scribe** [ˈskrɪvɛ] → **scrivi** [ˈskrɪvɪ]
 
-*Praoido:* **g** [ɣ] kaj radikokomenca neakcentebla **i** [j] fariĝas j [ʒ].
+*Praoĭdo:* **g** [ɣ] kaj radikokomenca neakcentebla **i** [j] fariĝas j [ʒ].
 
 * **gentile** [ɣɛnˈtɪlɛ] → **jentila** [ʒɛnˈtɪla]
 * **iura** [ˈjʊra] → **juri** [ˈʒʊrɪ]
 
-*Novoido:* **h** [h] fariĝas muta.
+*Novoĭdo:* **h** [h] fariĝas muta.
 
 * **hora** [ˈhɔra] → **oro** [ˈɔrɔ]
 

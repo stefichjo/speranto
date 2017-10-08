@@ -4,7 +4,7 @@
 > ---
 > L. L. Zamenhof
 
-**Piĝino** baziĝas sur **Novoido**.
+**Piĝino** baziĝas sur **Novoĭdo**.
 
 ## Alfabeto
 
@@ -12,7 +12,7 @@
 
 ### Duonvokaloj
 
-*Oidismo:* Diftongoj restas senŝanĝaj en **Piĝino**.
+*Ojdismo:* Diftongoj restas senŝanĝaj en **Piĝino**.
 
 * **taŭro** [ˈtawrɔ]
 * **trajno** [ˈtrajnɔ]
@@ -23,8 +23,9 @@
 Post vokalo, neakcentebla **ĭ** [j] skribiĝas **j**.
 
 * **maĭo** [ˈmajɔ] → **majo**
+* **Oĭdo** [ˈɔjdɔ] → **Ojdo**
 
-***Oidismo:*** Neakcentebla **ŭ** [w] fariĝas **v** [v].
+***Ojdismo:*** Neakcentebla **ŭ** [w] fariĝas **v** [v].
 
 * **lingŭo** [ˈlɪŋgwɔ] → **lingvo** [ˈlɪŋgvɔ]
 
@@ -35,7 +36,7 @@ Post vokalo, neakcentebla **ĭ** [j] skribiĝas **j**.
 * **justa** [ˈdʒʊsta] → **ĝusta**
 * **jenerala** [ˈdʒɛnɛrala] → **ĝenerala**
 
-***Praoidismo:*** Komence de radiko, neakcentebla **j** [ʒ] skribiĝas **ĵ**.
+***Praoĭdismo:*** Komence de radiko, neakcentebla **j** [ʒ] skribiĝas **ĵ**.
 
 * **juro** [ˈʒʊrɔ] → **ĵuro**
 
@@ -64,14 +65,14 @@ Latin-devena **z** [ts] fariĝas **ĉ** [tʃ].
 * **culturo** [kʊlˈtʊrɔ] → **kulturo**
 * **dialecto** [dɪaˈlɛktɔ] → **dialekto**
 
-***Oidismo:*** **z** [ts] skribiĝas **c**.
+***Ojdismo:*** **z** [ts] skribiĝas **c**.
 
 * **zentro** [ˈtsɛntrɔ] → **centro**
 * **akzento** [akˈtsɛntɔ] → **akcento**
 * **nazio** [naˈtsɪɔ] → **nacio**
 * **spazo** [ˈspatsɔ] → **spaco**
 
-***Oidismo:*** **h** [h] restas senŝanĝa.
+***Ojdismo:*** **h** [h] restas senŝanĝa.
 
 * **horo** [ˈhɔrɔ]
 
@@ -121,7 +122,7 @@ La **imperativa** finaĵo **-en** (respektive **-n**) uziĝas por esprimi **dire
 * Mi vidas ***ĝin***.
 * ***Bonan*** ***nokton***!
 
-*Novoido → Piĝino:* 
+*Novoĭdo → Piĝino:* 
 
 * Mu vidan ***juen***. → Mi vidas ***ĝin***.
 
@@ -135,11 +136,15 @@ Por **vokativo** uziĝas **ho**.
 
 #### Adverboj
 
+*Novojdismo:* La **imperativa** finaĵo **-en** uziĝas por esprimi **direkton**.
+
+* ***Laboren***! *(Al la laboro!)*
+
 #### Verboj
 
 La **vokativa** finaĵo **-u** uziĝas por alvoki ion bezonatan aŭ por **imperativo**.
 
-* **Adjuvu!**
+* ***Adjuvu***!
 
 ***Neolingvaismo:*** La trabrua akuzativa prepozicio **as** fariĝas la verba finaĵo por la ***as-tempo***.
 
