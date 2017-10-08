@@ -263,43 +263,19 @@ Pere de la sufikso **-t-**, verboj fariĝas adjektivoj, kiuj esprimas ***pasivon
 
 *Pralingua → Lingua:* Neakcentblaj, verbofinaj **-e** kaj **-i** eliziiĝas. Ofte apartaj formoj uziĝas.
 
-* → *-*
-  * **ducĕta** → **ducta**
-  * **facĕta** → **facta**
-  * **venĭta** → **venta**
-* *bt* → *pt*
-  * **scribĕta** → **scripta**
-* *gt* → *ct*
-  * **agĕta** → **acta**
-  * **legĕta** → **lecta**
-  * **pungĕta** → **puncta**
-* *dt* → *s*
-  * **cadĕta** → **casa**
-  * **cludĕta** → **clusa**
-  * **pandĕta** → **pansa**
-  * **prendĕta** → **prensa**
-  * **vadĕta** → **vasa**
-  * **vidĕta** → **visa**
-* *nct* → *ct*
-  * **vincĕta** → **victa**
-* *ngt* → *ct*
-  * **tangĕta** → **tacta**
-* *nt* → *ns*
-  * **tenĕta** → **tensa**
-* *nt* → *sit*
-  * **ponĕta** → **posita**
-* *tt* → *ss*
-  * **mitĕta** → **missa**
-  * **sentĭta** → **sensa**
-* *rrt* → *rs*
-  * **corrĕta** → **corsa**
-* *rtt* → *rs*
-  * **vertĕta** → **versa**
-* *vt* → *t*
-  * **movĕta** → **mota**
-* *vt* → *ut*
-  * **solvĕta** → **soluta**
-  * **volvĕta** → **voluta**
+* → *-*: **ducta**, **facta**, **venta**
+* *bt* → *pt*: **scripta**
+* *gt* → *ct*: **acta**, **lecta**, **puncta**
+* *dt* → *s*: **casa**, **clusa**, **pansa**, **prensa**, **vasa**, **visa**
+* *nct* → *ct*: **victa**
+* *ngt* → *ct*: **tacta**
+* *nt* → *ns*: **tensa**
+* *nt* → *sit*: **posita**
+* *tt* → *ss*: **missa**, **sensa**
+* *rrt* → *rs*: **corsa**
+* *rtt* → *rs*: **versa**
+* *vt* → *t*: **mota**
+* *vt* → *ut*: **soluta**, **voluta**
 
 ##### Malproksimaj Tempoj
 
@@ -307,7 +283,7 @@ Pasivaj adjektivoj kun la verbo **habe** esprimas ***malproksiman preteriton***.
 
 * La homo ***habe lecta*** la libro. *(La homo legis la libron.)*
 
-La verbo **esse** havas la ***malproksim-preteritan*** adjektivon **stata**. Ĝi uziĝas kombine kun **esse** anstataŭ **habe**.
+La verbo **esse** havas la ***malproksim-preteritan*** adjektivon **stata**. Tiu formo uziĝas kombine kun **esse** anstataŭ **habe**.
 
 * La homo ***habe stata*** ante ad la domo. *(La homo staris antaŭ la domo.)*
 * La homo ***esse stata*** felice. *(La homo estis feliĉa.)*
