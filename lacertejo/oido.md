@@ -212,3 +212,4 @@ La prepozicio **a** uziĝas por ***akuzativo*** antaŭ ***nomoj*** aŭ ***tra br
 
 * Mu vidan ***a*** Carla. *(Mi vidas Karlan.)*
 * Mu vidan tu. → Mu vidan ***a*** tu. *(Mi vidas vin.)*
+

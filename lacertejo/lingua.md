@@ -319,7 +319,7 @@ Tra bruo, la alativa prepozicio **ad** uziĝas por ***akuzativo***. Post ***help
 * adiuva ***ad*** → ***al*** amico *(helpo por amiko)*
 * adiuva ***in*** → ***en*** amico *(helpo per amiko)*
 * adiuva ***de*** → ***di*** amico *(helpo de amiko)*
-* circo **ad** → **al** domo → ***circ'al*** domo *(ĉirkaŭ domo)*
+* circo ***ad*** → ***al*** domo → ***circ'al*** domo *(ĉirkaŭ domo)*
 
 *Neolingua:* La trabruaj akuzativaj prepozicioj **ad** kaj **in** fariĝas **as** kaj **an**. La verba finaĵo antaŭ ili povas eliziiĝi.
 
