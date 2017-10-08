@@ -131,13 +131,13 @@ La direkta finaĵo **-en** mallongiĝas al **-n** por ***akuzativo***.
 
 ***Novojdismo:*** La ***imperativa*** finaĵo **-en** uziĝas por esprimi ***direkton***.
 
-* ***Laboren***! *(Al la laboro!)*
+* ***Laboren***! *(Laboru! Al la laboro!)*
 
 #### Verboj
 
 ***Novojdismo:*** La ***vokativa*** finaĵo **-u** uziĝas por alvoki ion bezonatan aŭ por ***imperativo***.
 
-* ***Adjuvu***!
+* ***Adjuvu***! *(Help! Helpu!)*
 
 ***Neolingvaismo:*** La trabrua akuzativa prepozicio **as** fariĝas la verba finaĵo por la ***as-tempo***.
 
