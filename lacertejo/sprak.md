@@ -13,15 +13,19 @@
 |-|-|-|-|-|-|-|
 |[a] [a:]|[ɛ] [e:]|[ɪ] [i:]|[ɔ] [o:]|[ʊ] [u:]|[œ] [ø:]|[ʏ] [y:]|
 
+[Pronomoj](#pronomoj) havas mallongan vokalon.
+
+* **ik** [ɪk] *(mi)*
+
 ## Gramatiko
 
 ### Pronomoj
 
 |**ik**|**du**|**wi**|**ji**|**hun**|**hen**|
 |-|-|-|-|-|-|
-|[ɪk]|[du:]|[wi:]|[ji:]|[hʊn]|[hɛn]
+|*(mi)*|*(vi)*|*(ni)*|*(vi)*|*(ŝi)*|*(li)*|
 |**mi**|**di**|**ons**|**ju**|**hum**|**hem**|
-|[mi:]|[di:]|[ɔns]|[ju:]|[hʊm]|[hɛm]|
+|*(min)*|*(vin)*|*(nin)*|*(vin)*|*(ŝin)*|*(lin)*|
 |**min**|**din**|**onser**|**jur**|**huns**|**hens**|
-|[mi:n]|[di:n]|[ˈɔnsər]|[ju:r]|[hʊns]|[hɛns]|
+|*(mia)*|*(via)*|*(nia)*|*(via)*|*(ŝia)*|*(lia)*|
 
