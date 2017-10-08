@@ -4,7 +4,7 @@
 > ---
 > L. L. Zamenhof
 
-***Piĝino*** baziĝas sur [***Oĭdo***](#oido.md). Pli precize, ***Piĝino*** baziĝas sur ***Novoĭdo***.
+***Piĝino*** baziĝas sur [***Oĭdo***](oido.md). Pli precize, ***Piĝino*** baziĝas sur ***Novoĭdo***.
 
 ## Alfabeto
 
