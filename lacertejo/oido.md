@@ -183,8 +183,21 @@ Adjektivoj havas la finaĵon **-a**.
 
 #### Verboj
 
+|**lavoron**|**lavoran**|**lavorin**|
+|-|-|-|
+|*(laboros)*|*(laboras)*|*(laboris)*|
+|**lavorun**|**lavoren**|**lavori**|
+|*(laborus)*|*(laboru)*|*(labori)*|
+
+|**vidonta**|**vidanta**|**vidinta**|
+|-|-|-|
+|*(vidonta)*|*(vidanta)*|*(vidinta)*|
+|**vidota**|**vidata**|**vidita**|
+|*(vidota)*|*(vidata)*|*(vidita)*|
+
 ***Neolingvaismo:*** La trabrua akuzativa prepozicio **an** fariĝas la verba finaĵo por la ***as-tempo***.
 
 * Mu ***adiuv'an*** tu. → Mu ***adjuvan*** tu. *(Mi helpas vin.)*
 
 #### Prepozicioj
+
