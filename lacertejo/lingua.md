@@ -118,16 +118,13 @@ Grek-devenaj **ph**, **th**, **ch** prononciĝas [f], [t], [k].
 |**ono**|**ona**|**one**|**oni**|
 |*(io)*|*(ia)*|*(ie)*|*(ien)*|
 
-*Neolingua:* La korelativoj je **-i** eksuziĝas.
+Substantivoj sekvas korelativojn.
 
-* **ii** → **ad ie** *(ĉi tien)*
+* ***omna*** homo *(ĉia homo)*
 
-Kvankam estas gramatike ĝuste uzi korelativon je **-o**, por ***personoj***, preferiĝas uzi korelativon je **-a** por indiki ***identon***.
+Kvankam estas gramatike ĝuste uzi korelativon je **-o**, por ***personoj***, preferiĝas uzi korelativon je **-a** por indiki ***identon***. Korelativoj je **-a** uziĝas ankaŭ por indiki ***posedon***.
 
 * ***Qua*** esse in la domo? *(Kiu estas en la domo?)*
-
-Korelativoj je **-a** uziĝas ankaŭ por indiki ***posedon***.
-
 * ***Qua libro esse?*** *(Kies libro estas?)*
 
 La korelativoj je **-e** uziĝas ankaŭ por indiki ***tempon***, ***kaŭzon***, ***mezuron*** kaj ***manieron***.
@@ -138,10 +135,15 @@ Kombine kun substantivoj estas formeblaj pli specifaj korelativaĵoj.
 
 * in qua ***loco***? *(en kiu loko?, kie?)*
 
-Uziĝas **que** kiel ***konjunkcio*** por enkonduki subfrazon kaj **ne** kiel nea ***adverbo***.
+La korelativo **la** uziĝas ankaŭ kiel difina ***artikolo***. La korelativo **que** uziĝas kiel ***konjunkcio*** por subfrazoj. La korelativo **ne** uziĝas kiel nea ***adverbo***.
 
+* ***la*** domo *(fore tia domo → la domo)*
 * Meu spera ***que*** teu esse in domo. *(Mi esperas, ke vi estas hejme.)*
 * Teu ***ne*** esse in domo. *(Vi ne estas hejme.)*
+
+*Neolingua:* La korelativoj je **-i** eksuziĝas.
+
+* **ii** → **ad ie** *(ĉi tien)*
 
 ### Pronomoj
 
@@ -263,7 +265,7 @@ Pere de la sufikso **-t-**, verboj fariĝas adjektivoj, kiuj esprimas ***pasivon
 
 *Pralingua → Lingua:* Neakcentblaj, verbofinaj **-e** kaj **-i** eliziiĝas. Ofte apartaj formoj uziĝas.
 
-* → *-*: **ducta**, **facta**, **venta**
+* → *-*: **dicta**, **ducta**, **facta**, **venta**
 * *bt* → *pt*: **scripta**
 * *gt* → *ct*: **acta**, **lecta**, **puncta**
 * *dt* → *s*: **casa**, **clusa**, **pansa**, **prensa**, **vasa**, **visa**
