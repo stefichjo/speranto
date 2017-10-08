@@ -159,10 +159,6 @@ La finaĵoj **-a** kaj **-o** uziĝas por distingi genron.
 * **Carla**
 * **Carlo**
 
-La prepozicio **a** uziĝas por **akuzativo**.
-
-* Mi vidas ***a*** Carla.
-
 #### Substantivoj
 
 Substantivoj havas la finaĵon **-o**.
@@ -181,6 +177,17 @@ Adjektivoj havas la finaĵon **-a**.
 
 #### Adverboj
 
+Adverboj havas la finaĵon **-e**.
+
+* ***multe*** cara amico *(tre kara amiko)*
+
+##### Lokoj kaj Direktoj
+
+Adverboj uziĝas por esprimi ***lokon***. Por esprimi ***direkton*** uziĝas la finaĵo **-i**.
+
+* Mu essan ***dome***. *(Mi estas hejme.)*
+* Mu vadan ***domi***. *(Mi iras hejmen.)*
+
 #### Verboj
 
 |**lavoron**|**lavoran**|**lavorin**|
@@ -197,7 +204,11 @@ Adjektivoj havas la finaĵon **-a**.
 
 ***Neolingvaismo:*** La trabrua akuzativa prepozicio **an** fariĝas la verba finaĵo por la ***as-tempo***.
 
-* Mu ***adiuv'an*** tu. → Mu ***adjuvan*** tu. *(Mi helpas vin.)*
+* Mu ***vol'an*** tu. → Mu ***volan*** tu. *(Mi volas vin.)*
 
 #### Prepozicioj
 
+La prepozicio **a** uziĝas por ***akuzativo*** antaŭ ***nomoj*** aŭ ***tra bruo***.
+
+* Mu vidan ***a*** Carla. *(Mi vidas Karlan.)*
+* Mu vidan tu. → Mu vidan ***a*** tu. *(Mi vidas vin.)*
