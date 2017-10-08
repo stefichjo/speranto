@@ -115,17 +115,6 @@ Korelativo je **n-** estas prefiksata de redunda **ne-**.
 
 * ***bonaj*** ***amikoj***
 
-La **imperativa** finaĵo **-en** (respektive **-n**) uziĝas por esprimi **direkton** (respektive **akuzativon**).
-
-* **nenejen**
-* Ni iras ***renkonten***.
-* Mi vidas ***ĝin***.
-* ***Bonan*** ***nokton***!
-
-*Novoĭdo → Piĝino:* 
-
-* Mu vidan ***juen***. → Mi vidas ***ĝin***.
-
 #### Substantivoj
 
 Por **vokativo** uziĝas **ho**.
