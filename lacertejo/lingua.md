@@ -303,32 +303,24 @@ La verbo **esse** havas la ***malproksim-preteritan*** adjektivon **stata**. Tiu
 
 #### Prepozicioj
 
-Por la lokaj kazoj ***alativo***, ***lokativo***, ***ablativo*** kaj por la ne-lokaj kazoj ***dativo***, ***instrumentalo***, ***genitivo*** uziĝas la prepozicioj **ad**, **in**, **de**.
+Por la lokaj kazoj ***alativo***, ***lokativo***, ***ablativo*** kaj por la ne-lokaj kazoj ***dativo***, ***instrumentalo***, ***genitivo*** uziĝas la prepozicioj **ad**, **in**, **de**. Pere de la prepozicio **ad** formiĝas prepoziciaĵoj.
 
 * ***ad*** domo *((ĝis) al la domo, hejmen)*
 * ***in*** domo *((en) ĉe la domo, hejme)*
 * ***de*** domo *((dis-) de la domo, de hejme)*
-
-Pere de la prepozicio **ad** formiĝas prepoziciaĵoj.
-
 * ***circo ad*** domo *(ĉirkaŭ domo)*
-* ***ante ad*** domo *(antaŭ domo)*
 
 Tra bruo, la alativa prepozicio **ad** uziĝas por ***akuzativo***. Post ***helpaj verboj*** uziĝas la lokativa prepozicio **in**.
 
 * Meu vole adiuva teu. → Meu vole ***in*** adiuva ***ad*** teu. *(Mi volas helpi vin.)*
 
-*Neolingua:* Por la ne-lokaj kazoj ***dativo***, ***instrumentalo***, ***genitivo*** uziĝas la prepozicioj **as**, **en**, **di** anstataŭ **ad**, **in**, **de**.
+*Neolingua:* Por la ne-lokaj kazoj ***dativo***, ***instrumentalo***, ***genitivo*** uziĝas la prepozicioj **al**, **en**, **di** anstataŭ **ad**, **in**, **de**. La substantiva finaĵo en prepoziciaĵoj povas eliziiĝi.
 
-* adiuva ***ad*** → ***as*** amico *(helpo por amiko)*
+* adiuva ***ad*** → ***al*** amico *(helpo por amiko)*
 * adiuva ***in*** → ***en*** amico *(helpo per amiko)*
 * adiuva ***de*** → ***di*** amico *(helpo de amiko)*
+* circo **ad** → **al** domo → ***circ'al*** domo *(ĉirkaŭ domo)*
 
-*Neolingua:* La verba finaĵo antaŭ la trabruaj akuzativaj prepozicioj **as** kaj **en** povas eliziiĝi.
+*Neolingua:* La trabruaj akuzativaj prepozicioj **al** kaj **en** fariĝas **as** kaj **an**. La verba finaĵo antaŭ ili povas eliziiĝi.
 
-* Meu vole ***en*** adiuva ***as*** teu. → Mu ***vol'en*** ***adiuv'as*** tu. *(Mi volas helpi vin.)*
-
-*Neolingua:* Tra bruo, la prepozicio **ad** por formi prepoziciaĵojn fariĝas **al**. La finaĵo antaŭ ĝi povas eliziiĝi.
-
-* circo **ad** → circo **al** → ***circ'al*** *(ĉirkaŭ)*
-* ante **ad** → ante **al** → ***ant'al*** *(antaŭ)*
+* Meu vole ***en*** adiuva ***al*** teu. → Mu vole ***an*** adiuva ***as*** tu. → Mu ***vol'an*** ***adiuv'as*** tu. *(Mi volas helpi vin.)*

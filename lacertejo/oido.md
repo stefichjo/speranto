@@ -183,6 +183,8 @@ Adjektivoj havas la finaĵon **-a**.
 
 #### Verboj
 
-***Neolingvaismo:*** La trabrua akuzativa prepozicio **en** fariĝas **-an** kiel la verba finaĵo por la ***as-tempo***.
+***Neolingvaismo:*** La trabrua akuzativa prepozicio **an** fariĝas la verba finaĵo por la ***as-tempo***.
 
 * Mu ***adiuv'an*** tu. → Mu ***adjuvan*** tu. *(Mi helpas vin.)*
+
+#### Prepozicioj
