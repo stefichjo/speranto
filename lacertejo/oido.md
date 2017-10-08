@@ -1,6 +1,6 @@
 # Oĭdo
 
-**Oĭdo** baziĝas sur **Neolingua**. Pli precize, **Oĭdo** baziĝas sur **Praoĭdo**, kaj **Praoĭdo** siavice baziĝas sur **Neolingua**.
+**Oĭdo** baziĝas sur [**Lingua**](#lingua.md). Pli precize, **Oĭdo** baziĝas sur **Praoĭdo**, kaj **Praoĭdo** siavice baziĝas sur **Neolingua**.
 
 * **centro** [ˈxɛntrɔ] → **zentro** [ˈtsɛntrɔ]
 

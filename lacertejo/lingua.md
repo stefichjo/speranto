@@ -1,6 +1,6 @@
 # Lingua
 
-**Lingua** baziĝas sur la **Latina**. Pli precize, **Lingua** baziĝas sur **Pralingua**, kaj **Pralingua** siavice baziĝas sur la **Latina**.
+**Lingua** baziĝas sur la **Latinidaj Lingvoj**. Pli precize, **Lingua** baziĝas sur **Pralingua**, kaj **Pralingua** siavice baziĝas sur la **Latinidaj Lingvoj**.
 
 ## Alfabeto
 

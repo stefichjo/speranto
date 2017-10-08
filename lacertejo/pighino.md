@@ -4,7 +4,7 @@
 > ---
 > L. L. Zamenhof
 
-***Piĝino*** baziĝas sur ***Novoĭdo***.
+***Piĝino*** baziĝas sur [***Oĭdo***](#oido.md). Pli precize, ***Piĝino*** baziĝas sur ***Novoĭdo***.
 
 ## Alfabeto
 
@@ -87,6 +87,7 @@ Latin-devena **z** [ts] fariĝas **ĉ** [tʃ].
 ***Lingvaismo:*** Intervokala **b** [b] (en verboj) restas senĝanĝa.
 
 * **scribe** [ˈskrɪbɛ] → **skribi** [ˈskrɪbɪ]
+* **labora** [laˈbɔra] → **labori** [laˈbɔrɪ]
 
 ## Gramatiko
 
@@ -121,7 +122,7 @@ Por ***vokativo*** uziĝas **ho**.
 
 * ***Ho*** amiko!
 
-La direkta finaĵo **-en** mallongiĝas al **-n** por ***akuzativo***.
+Tra bruo, la direkta finaĵo **-en** uziĝas por **akuzativo**. Sen bruo, ĝi mallongiĝas al **-n**.
 
 * Mi amas ***vien***. → Mi amas ***vin***.
 
