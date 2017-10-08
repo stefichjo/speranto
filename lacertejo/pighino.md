@@ -4,7 +4,7 @@
 > ---
 > L. L. Zamenhof
 
-**Piĝino** baziĝas sur **Novoĭdo**.
+***Piĝino*** baziĝas sur ***Novoĭdo***.
 
 ## Alfabeto
 
@@ -12,7 +12,7 @@
 
 ### Duonvokaloj
 
-*Ojdismo:* Diftongoj restas senŝanĝaj en **Piĝino**.
+*Ojdismo:* Diftongoj restas senŝanĝaj.
 
 * **taŭro** [ˈtawrɔ]
 * **trajno** [ˈtrajnɔ]
@@ -36,7 +36,7 @@ Post vokalo, neakcentebla **ĭ** [j] skribiĝas **j**.
 * **justa** [ˈdʒʊsta] → **ĝusta**
 * **jenerala** [ˈdʒɛnɛrala] → **ĝenerala**
 
-***Praoĭdismo:*** Komence de radiko, neakcentebla **j** [ʒ] skribiĝas **ĵ**.
+***Praojdismo:*** Komence de radiko, neakcentebla **j** [ʒ] skribiĝas **ĵ**.
 
 * **juro** [ˈʒʊrɔ] → **ĵuro**
 
@@ -111,13 +111,13 @@ Korelativo je **n-** estas prefiksata de redunda **ne-**.
 
 ### Radikaj Vortoj
 
-***Lingvaismo:*** La finaĵo **-j** por substantivoj kaj adjektivoj signifas **multenombron**.
+***Lingvaismo:*** La finaĵo **-j** por substantivoj kaj adjektivoj signifas ***multenombron***.
 
 * ***bonaj*** ***amikoj***
 
 #### Substantivoj
 
-Por **vokativo** uziĝas **ho**.
+Por ***vokativo*** uziĝas **ho**.
 
 * ***Ho*** amiko!
 
@@ -129,13 +129,13 @@ La direkta finaĵo **-en** mallongiĝas al **-n** por ***akuzativo***.
 
 #### Adverboj
 
-***Novojdismo:*** La **imperativa** finaĵo **-en** uziĝas por esprimi **direkton**.
+***Novojdismo:*** La ***imperativa*** finaĵo **-en** uziĝas por esprimi ***direkton***.
 
 * ***Laboren***! *(Al la laboro!)*
 
 #### Verboj
 
-***Novojdismo:*** La **vokativa** finaĵo **-u** uziĝas por alvoki ion bezonatan aŭ por **imperativo**.
+***Novojdismo:*** La ***vokativa*** finaĵo **-u** uziĝas por alvoki ion bezonatan aŭ por ***imperativo***.
 
 * ***Adjuvu***!
 
