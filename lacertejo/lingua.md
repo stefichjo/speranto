@@ -261,8 +261,12 @@ La tempe proksimaj ***futuro***, ***prezenco***, ***preterito*** esprimiĝas per
 
 Pere de la sufikso **-t-**, verboj fariĝas adjektivoj, kiuj esprimas ***pasivon***.
 
-* La libro esse ***lecta***. *(La libro legiĝas.)*
+* La libro esse ***lecta***. *(La libro legiĝas. La libro estas legata.)*
 * La libro esse ***lecta*** de amico. *(La libro estas legata de amiko.)*
+
+*Neolingua:* En ***pasivo***, la prepozicio **de** fariĝas **da**.
+
+* La libro esse lecta ***da*** amico. *(La libro estas legata de amiko.)*
 
 *Pralingua → Lingua:* Neakcentblaj, verbofinaj **-e** kaj **-i** eliziiĝas. Ofte apartaj formoj uziĝas.
 
@@ -312,15 +316,13 @@ Tra bruo, la prepozicioj **ad**, **in**, **de** uziĝas ankaŭ por esprimi ***ak
 
 *Neolingua:* Por la ne-lokaj kazoj ***dativo***, ***instrumentalo***, ***genitivo*** uziĝas la prepozicioj **as**, **en**, **di** anstataŭ **ad**, **in**, **de**.
 
-* adiuva ***ad*** amico → adiuva ***as*** amico *(helpo por amiko)*
-* adiuva ***in*** amico → adiuva ***en*** amico *(helpo per amiko)*
-* adiuva ***de*** amico → adiuva ***di*** amico *(helpo de amiko)*
+* adiuva ***ad*** → ***as*** amico *(helpo por amiko)*
+* adiuva ***in*** → ***en*** amico *(helpo per amiko)*
+* adiuva ***de*** → ***di*** amico *(helpo de amiko)*
 
-*Neolingua:* Tra bruo, la prepozicioj **as**, **en**, **di** fariĝas **as**, **an**, **da** por esprimi ***akuzativon***. Antaŭ **as** kaj **an**, la finaĵo de la verbo tiam eliziiĝas.
+*Neolingua:* Tra bruo, la dativa prepozicio **as** uziĝas por ***akuzativo***, kaj la instrumentala prepozicio **en** fariĝas **an** kaj uziĝas post ***helpaj verboj***. La finaĵo de la verbo tiam eliziiĝas.
 
-* Meu adiuva ***ad*** teu. → Mu ***adiuv'as*** tu. *(Mi helpas vin.)*
-* Meu ama ***in*** teu. → Mu ***am'an*** tu. *(Mi amas vin.)*
-* Meu vide ***de*** teu. → Mu vide ***da*** tu. *(Mi vidas vin.)*
+* Meu ***vole*** ***adiuva*** teu. → Mu ***vol'an*** ***adiuv'as*** tu. *(Mi volas helpi vin.)*
 
 *Neolingua:* Tra bruo, la prepozicio **ad** por formi prepoziciaĵojn fariĝas **al**. La finaĵo antaŭ ĝi eliziiĝas.
 
