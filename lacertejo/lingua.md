@@ -320,11 +320,11 @@ Tra bruo, la prepozicioj **ad**, **in**, **de** uziĝas ankaŭ por esprimi ***ak
 * adiuva ***in*** → ***en*** amico *(helpo per amiko)*
 * adiuva ***de*** → ***di*** amico *(helpo de amiko)*
 
-*Neolingua:* Tra bruo, la dativa prepozicio **as** uziĝas por ***akuzativo***, kaj la instrumentala prepozicio **en** fariĝas **an** kaj uziĝas post ***helpaj verboj***. La finaĵo de la verbo tiam eliziiĝas.
+*Neolingua:* Tra bruo, la dativa prepozicio **as** uziĝas por ***akuzativo***, kaj la instrumentala prepozicio **en** fariĝas **an** kaj uziĝas post ***helpaj verboj***. La finaĵo de la verbo tiam povas eliziiĝi.
 
-* Meu ***vole*** ***adiuva*** teu. → Mu ***vol'an*** ***adiuv'as*** tu. *(Mi volas helpi vin.)*
+* Meu ***vole*** ***adiuva*** teu. → Mu ***vole an*** ***adiuva as*** tu. → Mu ***vol'an*** ***adiuv'as*** tu. *(Mi volas helpi vin.)*
 
-*Neolingua:* Tra bruo, la prepozicio **ad** por formi prepoziciaĵojn fariĝas **al**. La finaĵo antaŭ ĝi eliziiĝas.
+*Neolingua:* Tra bruo, la prepozicio **ad** por formi prepoziciaĵojn fariĝas **al**. La finaĵo antaŭ ĝi povas eliziiĝi.
 
-* circo **ad** → ***circ'al*** *(ĉirkaŭ)*
-* ante **ad** → ***ant'al*** *(antaŭ)*
+* circo **ad** → ***circo al*** → ***circ'al*** *(ĉirkaŭ)*
+* ante **ad** → ***ante al*** → ***ant'al*** *(antaŭ)*
