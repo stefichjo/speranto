@@ -4,18 +4,25 @@
 
 ## Alfabeto
 
-* **drom** [dro:m] *(sonĝo)*
-* **kirk** [kɪrk] *(preĝejo)*
-
 ### Vokaloj
 
-|**a**|**e**|**i**|**o**|**u**|**ø**|**y**|
-|-|-|-|-|-|-|-|
-|[a] [a:]|[ɛ] [e:]|[ɪ] [i:]|[ɔ] [o:]|[ʊ] [u:]|[œ] [ø:]|[ʏ] [y:]|
+|**a**|**e**|**i**|**o**|**u**|**æ**|**ø**|**y**|
+|-|-|-|-|-|-|-|-|
+|[a] [a:]|[ɛ] [e:]|[ɪ] [i:]|[ɔ] [o:]|[ʊ] [u:]|[ɛ] [ɛ:]|[œ] [ø:]|[ʏ] [y:]|
 
-[Pronomoj](#pronomoj) havas mallongan vokalon.
+Konserviĝas longaj, monoftongaj, malhelaj vokaloj. (Antaŭ pluraj konsonantoj, la vokalo estas mallonga.)
+
+* **drom** [dro:m] *(sonĝo)*
+
+Kiam la radiko de [pronomo](#pronomoj) aŭ prepozicio finiĝas je (unuopa) konsonanto, ĝia vokalo tamen estas mallonga.
 
 * **ik** [ɪk] *(mi)*
+
+### Konsonantoj
+
+Konserviĝas plozivaj konsonantoj.
+
+* **kirk** [kɪrk] *(preĝejo)*
 
 ## Gramatiko
 
