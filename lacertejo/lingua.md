@@ -261,7 +261,8 @@ La tempe proksimaj ***futuro***, ***prezenco***, ***preterito*** esprimiĝas per
 
 Pere de la sufikso **-t-**, verboj fariĝas adjektivoj, kiuj esprimas ***pasivon***.
 
-* La libro esse ***lecta***. *(La libro legiĝas. La libro estas legata.)*
+* La libro esse ***lecta***. *(La libro legiĝas.)*
+* La libro esse ***lecta*** de amico. *(La libro estas legata de amiko.)*
 
 *Pralingua → Lingua:* Neakcentblaj, verbofinaj **-e** kaj **-i** eliziiĝas. Ofte apartaj formoj uziĝas.
 
