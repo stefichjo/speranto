@@ -132,17 +132,21 @@ Por **vokativo** uziĝas **ho**.
 
 * ***Ho*** amiko!
 
+La direkta finaĵo **-en** mallongiĝas al **-n** por ***akuzativo***.
+
+* Mi amas ***vien***. → Mi amas ***vin***.
+
 #### Adjektivoj
 
 #### Adverboj
 
-*Novojdismo:* La **imperativa** finaĵo **-en** uziĝas por esprimi **direkton**.
+***Novojdismo:*** La **imperativa** finaĵo **-en** uziĝas por esprimi **direkton**.
 
 * ***Laboren***! *(Al la laboro!)*
 
 #### Verboj
 
-La **vokativa** finaĵo **-u** uziĝas por alvoki ion bezonatan aŭ por **imperativo**.
+***Novojdismo:*** La **vokativa** finaĵo **-u** uziĝas por alvoki ion bezonatan aŭ por **imperativo**.
 
 * ***Adjuvu***!
 
@@ -155,3 +159,4 @@ La **vokativa** finaĵo **-u** uziĝas por alvoki ion bezonatan aŭ por **impera
 La ŝajnfinaĵo **-al** fariĝas **-aŭ**.
 
 * ***ĉirc'al*** → ***ĉirkaŭ***
+
