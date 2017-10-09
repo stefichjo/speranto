@@ -42,7 +42,7 @@ Konserviĝas plozivaj konsonantoj.
 
 ***Praĝermana*** **b** fariĝas **v** [v] fine de la radiko.
 
-* **hab** [hab] → **hav** [hav] *(havas)*
+* **hab** [ha:b] → **hav** [hav] *(havas)*
 
 ## Gramatiko
 
