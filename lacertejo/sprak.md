@@ -22,6 +22,16 @@ Kiam la radiko de [pronomo](#pronomoj) aŭ prepozicio finiĝas je (unuopa) konso
 
 * **stæn** [stɛ:n] *(ŝtono)*
 
+*Ursprak:* Radikofina **æ** fariĝas **o**.
+
+* **gæ** [gɛ:] → **go** [go:] *(iras)*
+
+### Konsonantoj
+
+Konserviĝas plozivaj konsonantoj.
+
+* **kirk** [kɪrk] *(preĝejo)*
+
 ***Praĝermana*** **kh** fariĝas **gh** [x].
 
 * **naght** [naxt] *(nokto)*
@@ -34,16 +44,6 @@ Kiam la radiko de [pronomo](#pronomoj) aŭ prepozicio finiĝas je (unuopa) konso
 
 * **hab** [hab] → **hav** [hav] *(havas)*
 
-*Ursprak:* Radikofina **æ** fariĝas **o**.
-
-* **gæ** [gɛ:] → **go** [go:] *(iras)*
-
-### Konsonantoj
-
-Konserviĝas plozivaj konsonantoj.
-
-* **kirk** [kɪrk] *(preĝejo)*
-
 ## Gramatiko
 
 ### Numeraloj
@@ -52,7 +52,7 @@ Konserviĝas plozivaj konsonantoj.
 |-|-|-|-|-|
 |*(unu)*|*(du)*|*(tri)*|*(kvar)*|*(kvin)*|
 |**six**|**seven**|**acht**|**nin**|**ten**|
-
+|*(ses)*|*(sep)*|*(ok)*|*(naŭ)*|*(dek)*|
 
 ### Pronomoj
 
