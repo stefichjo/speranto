@@ -23,7 +23,7 @@
 Post vokalo, neakcentebla **ĭ** [j] skribiĝas **j**.
 
 * **maĭo** [ˈmajɔ] → **majo**
-* **Oĭdo** [ˈɔjdɔ] → **Ojdo**
+* **asteroĭdo** [astɛrˈɔjdɔ] → **asterojdo**
 
 ***Ojdismo:*** Neakcentebla **ŭ** [w] fariĝas **v** [v].
 
