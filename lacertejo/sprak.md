@@ -99,7 +99,7 @@ La ***akuzativa*** formo de korelativoj, kies ***nominativa*** formo finiĝas je
 
 Adverbaj korelativoj je **-r** havas longan vokalon.
 
-*Ursprak:* La korelativaj radikokomencoj **đ** [ð] kaj **hw-** [hw] fariĝas **d-** [d] kaj **w-** [w].
+*Ursprak:* La korelativaj radikokomencoj **đ-** [ð] kaj **hw-** [hw] fariĝas **d-** [d] kaj **w-** [w].
 
 * **hwat** [hwat] → **wat** [wat]
 * **đat** [ðat] → **dat** [dat]
