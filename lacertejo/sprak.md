@@ -76,35 +76,28 @@ Kiam la radika vokalo de [pronomo](#pronomoj) aŭ prepozicio estas mallonga, ĝi
 |**h-**|**d-**|**w-**|
 |-|-|-|
 |**hi**|**de**|**wo**|
-|*(ŝi, li)*|*(tiuj, ili)*|*(kiu)*|
-|**hīm**|**dēm**|**wōm**|
-|*(ŝin, lin)*|*(tiujn, ilin)*|*(kiun)*|
-|**hīs**|**dēs**|**wōs**|
-|*(ŝia, lia)*|*(ties, ilia)*|*(kies)*|
-
-La ***akuzativa*** kaj ***genitiva*** formoj de korelativoj, kies ***nominativa*** formo finiĝas je vokalo (longa), finiĝas je ***-m*** respektive je ***-s***.
-
-|**het**|**dit**|**dat**|**wat**|
-|-|-|-|-|
-|*(ĝi(n))*|*(ĉi tio(n))*|*(tio(n))*|*(kio(n))*|
-|**hes**|**dis**|**das**|**was**|
-|*(ĝia)*|*(ĉi ties)*|*(ties)*|*(kies)*|
-
-La ***akuzativa*** formo de korelativoj, kies ***nominativa*** formo finiĝas je ***-t***, restas senŝanĝa. Anstataŭe, la ***genitiva*** formo finiĝas je ***-s***.
-
-|**h-**|**d-**|**w-**|
-|-|-|-|
-|**hīr**|**dār**|**wār**|
+|*(ŝi, li)*|*(ili)*|*(kiu)*|
+|**het**|**dit**|**wat**|
+|*(ĉi tio)*|*(tio)*|*(kio)*|
+|**hīr**|**dār**|**wēr**|
 |*(ĉi tie)*|*(tie)*|*(kie)*|
-|**hin**|**dan**|**wan**|
+|**hin**|**dan**|**wen**|
 |*(ĉi tiam)*|*(tiam)*|*(kiam)*|
 
-Adverbaj korelativoj je **-r** havas longan vokalon.
+La korelativoj, kiuj finiĝas je vokalo, havas apartajn ***akuzativan*** kaj ***genitivan*** formojn je **-m** kaj **-s**, kies vokaloj ankaŭ estas longaj.
+
+* **hīs** [hi:s] *(ŝia, lia)*
+* **wōm** [wo:m] *(kiun)*
+
+La korelativoj, kiuj finiĝas je ***-t*** estas uzeblaj ankaŭ kiel adjektivoj.
+
+* ***het*** mann *(ĉi tiu viro)*
+* ***dit*** fru *(tiu virino)*
 
 *Ursprak:* La korelativaj radikokomencoj **đ-** [ð] kaj **hw-** [hw] fariĝas **d-** [d] kaj **w-** [w].
 
 * **hwat** [hwat] → **wat** [wat]
-* **đat** [ðat] → **dat** [dat]
+* **đār** [ða:r] → **dār** [da:r]
 
 ### Artikoloj
 
@@ -190,12 +183,13 @@ La finaĵo por ***adjektivoj*** estas **-end** [ənd], kaj la finaĵo por la ***
 
 *Ursprak:* La konjunktiva finaĵo **-e** [ə] ne plu uziĝas.
 
-* dat ik ***spreke*** → dat ik ***sprek*** *(ke mi parolu)*
+* đat ik ***spreke*** → dat ik ***sprek*** *(ke mi parolu)*
 
 *Ursprak:* La **t**-formo por la ununombra tria persono ne plu uziĝas.
 
-* De mann ***sikht*** de hus. → De mann ***sej*** de hus. *(La viro vidas la domon.)*
-* De mann ***sprikht*** to mi. → De mann ***sprek*** to mi. *(La viro parolas al mi.)*
+* Đe mann ***sikht*** de hus. → De mann ***sej*** de hus. *(La viro vidas la domon.)*
+* Đe mann ***sprikht*** to mi. → De mann ***sprek*** to mi. *(La viro parolas al mi.)*
+* Đe mann is min frend. → De mann er min frend. *(La viro estas mia amiko.)*
 
 *Nysprak:* La **t**-formo por esprimi ***rezulton*** ne plu uziĝas.
 
@@ -211,7 +205,7 @@ La finaĵo por ***adjektivoj*** estas **-end** [ənd], kaj la finaĵo por la ***
 
 *Nysprak:* La verbo ne plu bezonas esti la dua frazero.
 
-* War ***er*** du? → War du  ***er***? *(Kie vi estas?)*
+* Hwēr ***er*** đu? → Wēr du ***er***? *(Kie vi estas?)*
 * Hidag ***regen*** het. → Hidag het ***regen***. *(Hodiaŭ pluvas.)*
 
 ##### Helpaj Verboj
@@ -255,20 +249,20 @@ Tra bruo, oni povas distingi per la prepozicioj **bi** and **to**/**av** inter *
 *Ursprak:* La ***dativa*** finaĵo **-e** ne plu uziĝas, nek por ***dativo*** mem nek por ***ne-direkta signifo*** malantaŭ prepozicio. Anstataŭ ***dativo***, uziĝas la prepozicio **to**.
 
 * Ik geb min ***frende*** en bok. → Ik gev en bok ***to*** min ***frend***. *(Mi donas libron al mia amiko.)*
-* Ik stai in de ***huse***. → Ik sto in de ***hus***. *(Mi staras en la domo.)*
-* Ik gai in de hus. → Ik go in de hus. *(Mi iras en la domon.)*
-* Ik stai ut de ***huse***. → Ik sto ut de hus. *(Mi staras ekster la domo.)*
-* Ik gai ut de ***huse***. → Ik go ut de hus. *(Mi iras el la domo.)*
+* Ik stai in đe ***huse***. → Ik sto in de ***hus***. *(Mi staras en la domo.)*
+* Ik gai in đe hus. → Ik go in de hus. *(Mi iras en la domon.)*
+* Ik stai ut đe ***huse***. → Ik sto ut de hus. *(Mi staras ekster la domo.)*
+* Ik gai ut đe ***huse***. → Ik go ut de hus. *(Mi iras el la domo.)*
 
 *Ursprak:* La ***genitiva*** finaĵo **-'s** [(ə)s] ne plu uziĝas. Anstataŭe, uziĝas la prepozicio **av**.
 
-* de ***husen's*** windogen [də ˈhu:səns ˈwɪndo:gən] → de windogen ***av*** de husen [də ˈwɪndo:gən
+* đe ***husen's*** windogen [ðə ˈhu:səns ˈwɪndo:gən] → de windogen ***av*** de husen [də ˈwɪndo:gən
 a:v də ˈhu:sən] *(la fenestroj de la domoj)*
 
 ##### Prefiksoj
 
 *Ursprak:* Anstataŭ metafora uzo, prepozicio fariĝas prefikso. Ĝia radika vokalo fariĝas neakcentata **e** [ə].
 
-* Ik ***stai for*** de manne. [staɪ̯ fɔr] → Ik ***sto for*** de mann. [sto: fɔr] *(Mi staras antaŭ la viro.)*
-* Ik ***forstai*** de mann. [ˈfɔrstaɪ̯] → Ik ***fersto*** de mann. [fərˈsto:] *(Mi komprenas la viron.)*
+* Ik ***stai for*** đe manne. [staɪ̯ fɔr] → Ik ***sto for*** de mann. [sto: fɔr] *(Mi staras antaŭ la viro.)*
+* Ik ***forstai*** đe mann. [ˈfɔrstaɪ̯] → Ik ***fersto*** de mann. [fərˈsto:] *(Mi komprenas la viron.)*
 
