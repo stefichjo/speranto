@@ -18,7 +18,7 @@ La vokalo antaŭ **v** estas ĉiam mallonga.
 
 * **seven** [ˈsɛvən] *(sep)*
 
-En poezio, post-ŝvaa ŝvao povas eliziiĝi.
+En poezio, ŝvao povas eliziiĝi.
 
 * **broderen** [ˈbro:dərən] → **brodern** [ˈbro:dərn] *(fratoj)*
 
@@ -33,6 +33,11 @@ En poezio, post-ŝvaa ŝvao povas eliziiĝi.
 Konserviĝas plozivaj konsonantoj.
 
 * **kirk** [kɪrk] *(preĝejo)*
+
+Kiam la radika vokalo de ne-radikaj vortoj aŭ prepozicio estas mallonga, ĝia fina konsonanto ne duobliĝas.
+
+* **mann** [man] *(viro)*
+* **man** [man] *(oni)*
 
 *Ursprak:* ***Praĝermana*** **kh** [x] skribiĝas **gh**.
 
@@ -66,11 +71,6 @@ Konserviĝas plozivaj konsonantoj.
 |**min**|**din**|**onser**|**jur**|**huns**|**hens**|
 |*(mia)*|*(via)*|*(nia)*|*(via)*|*(ŝia)*|*(lia)*|
 
-Kiam la radika vokalo de [pronomo](#pronomoj) aŭ prepozicio estas mallonga, ĝia fina konsonanto ne duobliĝas.
-
-* **mann** [man] *(viro)*
-* **man** [man] *(oni)*
-
 ### Korelativoj
 
 |**h-**|**d-**|**w-**|
@@ -84,15 +84,19 @@ Kiam la radika vokalo de [pronomo](#pronomoj) aŭ prepozicio estas mallonga, ĝi
 |**hin**|**dan**|**wen**|
 |*(ĉi tiam)*|*(tiam)*|*(kiam)*|
 
-La korelativoj, kiuj finiĝas je vokalo, havas apartajn ***akuzativan*** kaj ***genitivan*** formojn je **-m** kaj **-s**, kies vokaloj ankaŭ estas longaj.
+La korelativoj, kiuj finiĝas per vokalo, havas apartajn ***akuzativan*** kaj ***genitivan*** formojn je **-m** kaj **-s**, kies vokaloj ankaŭ estas longaj.
 
 * **hīs** [hi:s] *(ŝia, lia)*
 * **wōm** [wo:m] *(kiun)*
 
-La korelativoj, kiuj finiĝas je ***-t*** estas uzeblaj ankaŭ kiel adjektivoj.
+La korelativoj, kiuj finiĝas per ***-t*** estas uzeblaj ankaŭ kiel adjektivoj.
 
 * ***het*** mann *(ĉi tiu viro)*
 * ***dit*** fru *(tiu virino)*
+
+La korelativo **het** uziĝas, kiam mankas subjekto.
+
+* ***Het*** regen. *(Pluvas.)*
 
 *Ursprak:* La korelativaj radikokomencoj **đ-** [ð] kaj **hw-** [hw] fariĝas **d-** [d] kaj **w-** [w].
 
@@ -103,7 +107,7 @@ La korelativoj, kiuj finiĝas je ***-t*** estas uzeblaj ankaŭ kiel adjektivoj.
 
 La difina artikolo kaj por singularo kaj por pluralo estas **de** [də]. La nedifina artikolo **en** [ən] estas nur por singularo.
 
-* ***en*** hus *((iu) domo)*
+* ***en*** hus *(domo)*
 * ***de*** hus *(la domo)*
 
 ### Radikaj Vortoj
@@ -117,7 +121,10 @@ Bazaj substantivoj ne havas finaĵon.
 La finaĵo por ***multenombro*** estas **-en** [ən].
 
 * **husen** *(domoj)*
-* **broderen** *(fratoj)*
+
+Kiam adjektivo fariĝas substantivo, ĝi havas la finaĵon **-e** [ə].
+
+* de ***æne*** *(la unu)*
 
 #### Adjektivoj
 
@@ -203,10 +210,14 @@ La finaĵo por ***adjektivoj*** estas **-end** [ənd], kaj la finaĵo por la ***
 * ***sprak*** → ***spreking*** *(parolado)*
 * ***sprok*** → ***sprek*** *(parolo)*
 
+Ĉu-demando komenciĝas per verbo.
+
+* ***Er*** đu min frend? *(Ĉu vi estas mia amiko?)*
+
 *Nysprak:* La verbo ne plu bezonas esti la dua frazero.
 
-* Hwēr ***er*** đu? → Wēr du ***er***? *(Kie vi estas?)*
 * Hidag ***regen*** het. → Hidag het ***regen***. *(Hodiaŭ pluvas.)*
+* Đu sag, đat đu min frend ***er***. → Du sag, dat du ***er*** min frend. *(Vi diras, ke vi estas mia amiko.)*
 
 ##### Helpaj Verboj
 
@@ -261,8 +272,7 @@ a:v də ˈhu:sən] *(la fenestroj de la domoj)*
 
 ##### Prefiksoj
 
-*Ursprak:* Anstataŭ metafora uzo, prepozicio fariĝas prefikso. Ĝia radika vokalo fariĝas neakcentata **e** [ə].
+*Ursprak:* Anstataŭ metafora uzo, prepozicio fariĝas prefikso. Ĝia radika vokalo fariĝas ŝvao (**e** [ə]).
 
 * Ik ***stai for*** đe manne. [staɪ̯ fɔr] → Ik ***sto for*** de mann. [sto: fɔr] *(Mi staras antaŭ la viro.)*
 * Ik ***forstai*** đe mann. [ˈfɔrstaɪ̯] → Ik ***fersto*** de mann. [fərˈsto:] *(Mi komprenas la viron.)*
-
