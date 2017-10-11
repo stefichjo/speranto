@@ -139,7 +139,7 @@ Bazaj adjektivoj ne havas finaĵon.
 
 * en ***grot*** hus *(granda domo)*
 
-*Ursprak:* La finaĵoj por ***komparativo*** **-er** [ər] kaj ***superlativo*** **-est** [əst] ne plu uziĝas. Anstataŭe uziĝas la adverboj **mor** [mo:r] kaj **most** [mo:st].
+*Ursprak:* La finaĵoj por ***komparativo*** **-er** [ər] kaj ***superlativo*** **-est** [əst] ne plu uziĝas. La ŝvao (**e** [ə]) en **maier** kaj **maiest** eliziiĝas.
 
 * en ***groter*** hus → en ***mær grot*** hus *(pli granda domo)*
 * de ***grotest*** hus → de ***mæst grot*** hus *(la plej granda domo)*
