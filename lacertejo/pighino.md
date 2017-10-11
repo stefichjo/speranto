@@ -70,7 +70,6 @@ Latin-devena **z** [ts] fariĝas **ĉ** [tʃ].
 * **zentro** [ˈtsɛntrɔ] → **centro**
 * **akzento** [akˈtsɛntɔ] → **akcento**
 * **nazio** [naˈtsɪɔ] → **nacio**
-* **spazo** [ˈspatsɔ] → **spaco**
 
 ***Ojdismo:*** **h** [h] restas senŝanĝa.
 
@@ -149,4 +148,13 @@ Tra bruo, la direkta finaĵo **-en** uziĝas por **akuzativo**. Sen bruo, ĝi ma
 La ŝajnfinaĵo **-al** fariĝas **-aŭ**.
 
 * ***ĉirc'al*** → ***ĉirkaŭ***
+
+***Novojdismo:*** La lokaj prepozicioj **ad**, **in**, **de** kaj la ne-lokaj prepozicioj **al**, **en**, **di** unuiĝas al **al**, **en**, **de**.
+
+* Mi estas ***en*** la domo.
+
+***Jazikismo:*** Uziĝas jazikaj prepozicioj.
+
+* paroli ion de la temo → paroli ***pri*** la temo
+* ludi la gitaron → ludi ***na*** la gitaro
 

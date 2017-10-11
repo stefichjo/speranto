@@ -14,11 +14,6 @@ Konserviĝas longaj, monoftongaj, malhelaj vokaloj. (Antaŭ pluraj konsonantoj, 
 
 * **drom** [dro:m] *(sonĝo)*
 
-Kiam la radika vokalo de [pronomo](#pronomoj) aŭ prepozicio estas mallonga, ĝia fina konsonanto ne duobliĝas.
-
-* **mann** [man] *(viro)*
-* **man** [man] *(oni)*
-
 La vokalo antaŭ **v** estas ĉiam mallonga.
 
 * **seven** [ˈsɛvən] *(sep)*
@@ -40,7 +35,7 @@ Konserviĝas plozivaj konsonantoj.
 
 ***Praĝermana*** **kh** [x] skribiĝas **gh**.
 
-* **naght** [naxt] *(nokto)*
+* **nakht** → **naght** [naxt] *(nokto)*
 
 *Ursprak:* ***Praĝermana*** **sk** fariĝas **sh** [ʃ].
 
@@ -70,7 +65,38 @@ Konserviĝas plozivaj konsonantoj.
 |**min**|**din**|**onser**|**jur**|**huns**|**hens**|
 |*(mia)*|*(via)*|*(nia)*|*(via)*|*(ŝia)*|*(lia)*|
 
+Kiam la radika vokalo de [pronomo](#pronomoj) aŭ prepozicio estas mallonga, ĝia fina konsonanto ne duobliĝas.
+
+* **mann** [man] *(viro)*
+* **man** [man] *(oni)*
+
 ### Korelativoj
+
+|**hi**|**de**|**wo**|
+|-|-|-|
+|*(ŝi, li)*|*(tiuj, ili)*|*(kiu)*|
+|**hīm**|**dēm**|**wōm**|
+|*(ŝin, lin)*|*(tiujn, ilin)*|*(kiun)*|
+|**hīs**|**dēs**|**wōs**|
+|*(ŝia, lia)*|*(ties, ilia)*|*(kies)*|
+
+La ***akuzativa*** kaj ***genitiva*** formoj de korelativoj, kies ***nominativa*** formo finiĝas je vokalo, finiĝas je ***-m*** respektive je ***-s***.
+
+|**het**|**dit**|**dat**|**wat**|
+|-|-|-|-|
+|*(ĝi(n))*|*(ĉi tio(n))*|*(tio(n))*|*(kio(n))*|
+|**hes**|**dis**|**das**|**was**|
+|*(ĝia)*|*(ĉi ties)*|*(ties)*|*(kies)*|
+
+La ***akuzativa*** formo de korelativoj, kies ***nominativa*** formo finiĝas je ***-t***, restas senŝanĝa. Anstataŭe, la ***genitiva*** formo finiĝas je ***-s***.
+
+|**hīr**|**dār**|**wār**|
+|-|-|-|
+|*(ĉi tie)*|*(tie)*|*(kie)*|
+|**hin**|**dan**|**wan**|
+|*(ĉi tiam)*|*(tiam)*|*(kiam)*|
+
+Adverbaj korelativoj je **-r** havas longan vokalon.
 
 ### Artikoloj
 
@@ -102,6 +128,8 @@ Bazaj adjektivoj ne havas finaĵon.
 
 * en ***groter*** hus → en ***mor grot*** hus *(pli granda domo)*
 * de ***grotest*** hus → de ***most grot*** hus *(la plej granda domo)*
+* **moer** → **mor** *(pli multe)*
+* **moest** → **most** *(plej multe)*
 
 #### Adverboj
 
@@ -112,21 +140,21 @@ Adverboj havas la saman formon kiel adjektivoj.
 
 Adverboj sekvas la verbon.
 
-* Ik slap god. *(Mi dormas bone.)*
+* Ik slap ***god***. *(Mi dormas bone.)*
 
-##### Lokaj Adverboj
+##### Spacaj Adverboj
 
 Lokaj adverboj povas havi pozician aŭ direktan signifon.
 
 * Du er ***far***. *(Vi estas for.)*
 * Du go ***far***. *(Vi iras for.)*
 
-Pere de la sufikso **-er** [ər], lokaj adverboj kun pozicia signifo fariĝas adjektivo. La formo **forder** estas malregula.
+Pere de la sufikso **-er** [ər], spacaj adverboj kun pozicia signifo fariĝas adjektivo. La formo **forder** estas malregula.
 
 * de ***inner*** light *(la ena lumo)*
 * de ***forder*** mann *(la antaŭa viro)*
 
-*Ursprak:* La formo je **-en** [ən] de lokaj adverboj kun pozicia signifo ne plu uziĝas.
+*Ursprak:* La formo je **-en** [ən] de spacaj adverboj kun pozicia signifo ne plu uziĝas.
 
 * Du er ***innen***. → Du er ***in***. *(Vi estas ene.)*
 * Du er ***forren***. → Du er ***for***. *(Vi estas antaŭe.)*
@@ -144,23 +172,24 @@ La finaĵo por infinitivo estas **-e** [ə]. Kiel substantivo, infinitivo esprim
 
 La finaĵo **-ed** [əd] uziĝas por ***preterito*** kaj ***pasivo***.
 
-* Ik maked. *(Mi faris.)*
-* Ik hav maked. *(Mi estas farinta.)*
+* Ik ***maked***. *(Mi faris.)*
+* Ik hav ***maked***. *(Mi estas farinta.)*
+
+La finaĵo por ***adjektivoj*** estas **-end** [ənd], kaj la finaĵo por la ***aganto*** estas **-er** [ər].
+
+* **slapend** *(dormanta)*
+* **slaper** *(dormanto)*
 
 *Ursprak:* La konjunktiva finaĵo **-e** [ə] ne plu uziĝas.
 
 * dat ik ***spreke*** → dat ik ***sprek*** *(ke mi parolu)*
 
-*Ursprak:* La ***t***-formo por la ununombra tria persono ne plu uziĝas.
+*Ursprak:* La **t**-formo por la ununombra tria persono ne plu uziĝas.
 
-* De mann ***sight*** de hus. → De mann ***sej*** de hus. *(La viro vidas la domon.)*
-* De mann ***spright*** to mi. → De mann ***sprek*** to mi. *(La viro parolas al mi.)*
+* De mann ***sikht*** de hus. → De mann ***sej*** de hus. *(La viro vidas la domon.)*
+* De mann ***sprikht*** to mi. → De mann ***sprek*** to mi. *(La viro parolas al mi.)*
 
-*Ursprak:* La verbo ne plu bezonas esti la dua frazero.
-
-* Hidag ***regen*** het. → Hidag het ***regen***. *(Hodiaŭ pluvas.)*
-
-*Nysprak:* La ***t***-formo por esprimi ***rezulton*** ne plu uziĝas.
+*Nysprak:* La **t**-formo por esprimi ***rezulton*** ne plu uziĝas.
 
 * ***sight*** → ***sejnis*** *(vidaĵo)*
 * ***spright*** → ***spreknis*** *(parolaĵo)*
@@ -171,6 +200,31 @@ La finaĵo **-ed** [əd] uziĝas por ***preterito*** kaj ***pasivo***.
 * Ik hab ***sejen***. → Ik hav ***sejed***. *(Mi estas vidinta.)*
 * ***sprak*** → ***spreking*** *(parolado)*
 * ***sprok*** → ***sprek*** *(parolo)*
+
+*Nysprak:* La verbo ne plu bezonas esti la dua frazero.
+
+* War ***er*** du? → War du  ***er***? *(Kie vi estas?)*
+* Hidag ***regen*** het. → Hidag het ***regen***. *(Hodiaŭ pluvas.)*
+
+##### Helpaj Verboj
+
+La radiko de helpaj verboj havas specialan vokalon.
+
+* Ik ***wet*** het. *(Mi scias ĝin.)*
+* Ik shall ***wite*** het. *(Mi scios ĝin.)*
+
+*Nysprak:* La infinitiva radiko de helpaj verboj egalas al la ***prezenca*** formo.
+
+* **kønne** → **kanne** *(povi)*
+* **kynne** → **konne** *(koni)*
+* **møge** → **mage** *(kapabli)*
+* **møte** → **mote** *(devi)*
+* **shølle** → **shalle** *(-os)*
+* **shylle** → **sholle** *(-us)*
+* **shille** → **shulle** *(-u)*
+* **tørfe** → **tarfe** *(rajti, meriti)*
+* **wite** → **wete** *(scii)*
+* **wolle** → **wille** *(voli)*
 
 #### Prepozicioj
 
@@ -207,6 +261,6 @@ a:v də ˈhu:sən] *(la fenestroj de la domoj)*
 
 *Ursprak:* Anstataŭ metafora uzo, prepozicio fariĝas prefikso. Ĝia radika vokalo fariĝas neakcentata **e** [ə].
 
-* Ik ***stai for*** de manne. [staɪ̯ for] → Ik ***sto for*** de mann. [sto: for] *(Mi staras antaŭ la viro.)*
-* Ik ***forstai*** de mann. [ˈforstaɪ̯] → Ik ***fersto*** de mann. [fərˈsto:] *(Mi komprenas la viron.)*
+* Ik ***stai for*** de manne. [staɪ̯ fɔr] → Ik ***sto for*** de mann. [sto: fɔr] *(Mi staras antaŭ la viro.)*
+* Ik ***forstai*** de mann. [ˈfɔrstaɪ̯] → Ik ***fersto*** de mann. [fərˈsto:] *(Mi komprenas la viron.)*
 

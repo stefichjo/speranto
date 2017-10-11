@@ -241,6 +241,10 @@ Adjektivo sekvas la substantivon.
 
 * domo ***grande*** *(granda domo)*
 
+Substantivo estas adjektivigebla pere de **-ale**.
+
+* **bestiale** *(en maniero de besto, kvazaŭbesta, bestiala)*
+
 #### Adverboj
 
 Adverboj formiĝas kun la finaĵo **-mente**.
