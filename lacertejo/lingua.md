@@ -100,8 +100,9 @@ Grek-devenaj **ph**, **th**, **ch** prononciĝas [f], [t], [k].
 
 ### Korelativoj
 
-|**quo**|**qua**|**que**|**qui**|
+|**-o**|**-a**|**-e**|**-i**|
 |-|-|-|-|
+|**quo**|**qua**|**que**|**qui**|
 |*(kio)*|*(kia)*|*(kie)*|*(kien)*|
 |**ho**|**ha**|**he**|**hi**|
 |*(jen tio)*|*(jen tia)*|*(jen tie)*|*(jen tien)*|

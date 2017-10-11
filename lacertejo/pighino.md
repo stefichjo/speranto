@@ -83,7 +83,7 @@ Latin-devena **z** [ts] fariĝas **ĉ** [tʃ].
 
 * **genera** [gɛˈnɛra] → **generi** [gɛˈnɛrɪ]
 
-***Lingvaismo:*** Intervokala **b** [b] (en verboj) restas senĝanĝa.
+***Lingvaismo:*** Intervokala **b** [b] (en verboj) restas senŝanĝa.
 
 * **scribe** [ˈskrɪbɛ] → **skribi** [ˈskrɪbɪ]
 * **labora** [laˈbɔra] → **labori** [laˈbɔrɪ]
@@ -98,7 +98,7 @@ Latin-devena **z** [ts] fariĝas **ĉ** [tʃ].
 
 Korelativo je **n-** estas prefiksata de redunda **ne-**.
 
-* Mi havas ***neno***. *(Mi havas nenion.)*
+* Mu ***ne*** havan ***no***. → Mi havas ***nenon***. *(Mi havas nenion.)*
 
 ### Pronomoj
 
@@ -106,6 +106,14 @@ Korelativo je **n-** estas prefiksata de redunda **ne-**.
 
 * **mu** → **mi**
 * **nu** → **ni**
+
+La ununombra duapersona pronomo **ci** ne plu uziĝas. Anstataŭe, uziĝas la multenombra duapersona pronomo **vi**.
+
+* ***Ci*** estas bona amiko. → ***Vi*** estas bona amiko.
+
+*Prapiĝino:* La pronomo **ti** fariĝas **ci**.
+
+* **ti** → **ci**
 
 ### Artikoloj
 

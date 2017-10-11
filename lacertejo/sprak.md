@@ -8,7 +8,7 @@
 
 |**a**|**e**|**i**|**o**|**u**|**æ**|**ø**|**y**|
 |-|-|-|-|-|-|-|-|
-|[a] [a:]|[ɛ] [e:]|[ɪ] [i:]|[ɔ] [o:]|[ʊ] [u:]|[ɛ] [ɛ:]|[œ] [ø:]|[ʏ] [y:]|
+|[a] [a:]|[ɛ] [e:]|[ɪ] [i:]|[ɔ] [o:]|[ʊ] [u:]|[ɛ:]|[œ] [ø:]|[ʏ] [y:]|
 
 Konserviĝas longaj, monoftongaj, malhelaj vokaloj. (Antaŭ pluraj konsonantoj, la vokalo estas mallonga.)
 
@@ -22,9 +22,10 @@ En poezio, post-ŝvaa ŝvao povas eliziiĝi.
 
 * **broderen** [ˈbro:dərən] → **brodern** [ˈbro:dərn] *(fratoj)*
 
-*Ursprak:* ***Praĝermana*** **ai** fariĝas **æ**. Radikofina **æ** fariĝas **o**.
+*Ursprak:* ***Praĝermana*** **ai** fariĝas **æ**. **æ** estas ĉiam longa. Radikofina **æ** fariĝas **o**.
 
 * **stain** [staɪ̯n] → **stæn** [stɛ:n] *(ŝtono)*
+* **gaist** [gaɪ̯st] → **gæst** [gɛ:st] *(spirito)*
 * **gai** [gaɪ̯] → **go** [go:] *(iras)*
 
 ### Konsonantoj
@@ -126,10 +127,10 @@ Bazaj adjektivoj ne havas finaĵon.
 
 *Ursprak:* La finaĵoj por ***komparativo*** **-er** [ər] kaj ***superlativo*** **-est** [əst] ne plu uziĝas. Anstataŭe uziĝas la adverboj **mor** [mo:r] kaj **most** [mo:st].
 
-* en ***groter*** hus → en ***mor grot*** hus *(pli granda domo)*
-* de ***grotest*** hus → de ***most grot*** hus *(la plej granda domo)*
-* **moer** → **mor** *(pli multe)*
-* **moest** → **most** *(plej multe)*
+* en ***groter*** hus → en ***mær grot*** hus *(pli granda domo)*
+* de ***grotest*** hus → de ***mæst grot*** hus *(la plej granda domo)*
+* **maier** → **mær** *(pli multe)*
+* **maiest** → **mæst** *(plej multe)*
 
 #### Adverboj
 
