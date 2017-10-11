@@ -34,7 +34,7 @@ Konserviĝas plozivaj konsonantoj.
 
 * **kirk** [kɪrk] *(preĝejo)*
 
-***Praĝermana*** **kh** [x] skribiĝas **gh**.
+*Ursprak:* ***Praĝermana*** **kh** [x] skribiĝas **gh**.
 
 * **nakht** → **naght** [naxt] *(nokto)*
 
@@ -81,7 +81,7 @@ Kiam la radika vokalo de [pronomo](#pronomoj) aŭ prepozicio estas mallonga, ĝi
 |**hīs**|**dēs**|**wōs**|
 |*(ŝia, lia)*|*(ties, ilia)*|*(kies)*|
 
-La ***akuzativa*** kaj ***genitiva*** formoj de korelativoj, kies ***nominativa*** formo finiĝas je vokalo, finiĝas je ***-m*** respektive je ***-s***.
+La ***akuzativa*** kaj ***genitiva*** formoj de korelativoj, kies ***nominativa*** formo finiĝas je vokalo (longa), finiĝas je ***-m*** respektive je ***-s***.
 
 |**het**|**dit**|**dat**|**wat**|
 |-|-|-|-|
@@ -98,6 +98,10 @@ La ***akuzativa*** formo de korelativoj, kies ***nominativa*** formo finiĝas je
 |*(ĉi tiam)*|*(tiam)*|*(kiam)*|
 
 Adverbaj korelativoj je **-r** havas longan vokalon.
+
+*Ursprak:* La korelativa radikokomenco **hw-** fariĝas **w-**.
+
+* **hwat** [hwat] → **wat** [wat]
 
 ### Artikoloj
 
