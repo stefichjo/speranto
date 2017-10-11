@@ -22,11 +22,15 @@ En poezio, ŝvao povas eliziiĝi.
 
 * **broderen** [ˈbro:dərən] → **brodern** [ˈbro:dərn] *(fratoj)*
 
-*Ursprak:* ***Praĝermana*** **ai** [aɪ̯] fariĝas **æ** [ɛ:]. **æ** [ɛ:] estas ĉiam longa. Radikofina **æ** [ɛ:] fariĝas **o** [o:].
+*Ursprak:* ***Praĝermana*** **ai** [aɪ̯] fariĝas **æ** [ɛ:]. **æ** [ɛ:] estas ĉiam longa.
 
 * **stain** [staɪ̯n] → **stæn** [stɛ:n] *(ŝtono)*
 * **gaist** [gaɪ̯st] → **gæst** [gɛ:st] *(spirito)*
-* **gai** [gaɪ̯] → **go** [go:] *(iras)*
+* **gai** [gaɪ̯] → **gæ** [gɛ:] *(iras)*
+
+*Nysprak:* **æ** [ɛ:] fariĝas **ō** [o:].
+
+* **gai** [gaɪ̯] → **gō** [go:] *(iras)*
 
 ### Konsonantoj
 
@@ -157,10 +161,10 @@ Lokaj adverboj povas havi pozician aŭ direktan signifon.
 * Du er ***far***. *(Vi estas for.)*
 * Du go ***far***. *(Vi iras for.)*
 
-Pere de la sufikso **-er** [ər], spacaj adverboj kun pozicia signifo fariĝas adjektivo. La formo **forder** estas malregula.
+Pere de la sufikso **-er** [ər], spacaj adverboj kun pozicia signifo fariĝas adjektivo.
 
 * de ***inner*** light *(la ena lumo)*
-* de ***forder*** mann *(la antaŭa viro)*
+* de ***forrer*** mann *(la antaŭa viro)*
 
 *Ursprak:* La formo je **-en** [ən] de spacaj adverboj kun pozicia signifo ne plu uziĝas.
 
