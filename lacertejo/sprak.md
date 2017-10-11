@@ -129,6 +129,7 @@ La finaĵo por ***multenombro*** estas **-en** [ən].
 Kiam adjektivo fariĝas substantivo, ĝi havas la finaĵon **-e** [ə].
 
 * de ***æne*** *(la unu)*
+* ***kæne*** *(neniu)*
 
 #### Adjektivoj
 
@@ -216,7 +217,7 @@ La finaĵo por ***adjektivoj*** estas **-end** [ənd], kaj la finaĵo por la ***
 
 Ĉu-demando komenciĝas per verbo.
 
-* ***Er*** đu min frend? *(Ĉu vi estas mia amiko?)*
+* ***Er*** du min frend? *(Ĉu vi estas mia amiko?)*
 
 *Nysprak:* La verbo ne plu bezonas esti la dua frazero.
 
@@ -264,10 +265,10 @@ Tra bruo, oni povas distingi per la prepozicioj **bi** and **to**/**av** inter *
 *Ursprak:* La ***dativa*** finaĵo **-e** ne plu uziĝas, nek por ***dativo*** mem nek por ***ne-direkta signifo*** malantaŭ prepozicio. Anstataŭ ***dativo***, uziĝas la prepozicio **to**.
 
 * Ik geb min ***frende*** en bok. → Ik gev en bok ***to*** min ***frend***. *(Mi donas libron al mia amiko.)*
-* Ik stai in đe ***huse***. → Ik sto in de ***hus***. *(Mi staras en la domo.)*
-* Ik gai in đe hus. → Ik go in de hus. *(Mi iras en la domon.)*
-* Ik stai ut đe ***huse***. → Ik sto ut de hus. *(Mi staras ekster la domo.)*
-* Ik gai ut đe ***huse***. → Ik go ut de hus. *(Mi iras el la domo.)*
+* Ik stai in đe ***huse***. → Ik stæ in de ***hus***. *(Mi staras en la domo.)*
+* Ik gai in đe hus. → Ik gæ in de hus. *(Mi iras en la domon.)*
+* Ik stai ut đe ***huse***. → Ik stæ ut de hus. *(Mi staras ekster la domo.)*
+* Ik gai ut đe ***huse***. → Ik gæ ut de hus. *(Mi iras el la domo.)*
 
 *Ursprak:* La ***genitiva*** finaĵo **-'s** [(ə)s] ne plu uziĝas. Anstataŭe, uziĝas la prepozicio **av**.
 
@@ -278,5 +279,5 @@ a:v də ˈhu:sən] *(la fenestroj de la domoj)*
 
 *Ursprak:* Anstataŭ metafora uzo, prepozicio fariĝas prefikso. Ĝia radika vokalo fariĝas ŝvao (**e** [ə]).
 
-* Ik ***stai for*** đe manne. [staɪ̯ fɔr] → Ik ***sto for*** de mann. [sto: fɔr] *(Mi staras antaŭ la viro.)*
-* Ik ***forstai*** đe mann. [ˈfɔrstaɪ̯] → Ik ***fersto*** de mann. [fərˈsto:] *(Mi komprenas la viron.)*
+* Ik ***stai for*** đe manne. [staɪ̯ fɔr] → Ik ***stæ for*** de mann. [stɛ: fɔr] *(Mi staras antaŭ la viro.)*
+* Ik ***forstai*** đe mann. [ˈfɔrstaɪ̯] → Ik ***ferstæ*** de mann. [fərˈstɛ:] *(Mi komprenas la viron.)*
