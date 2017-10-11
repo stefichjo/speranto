@@ -73,8 +73,9 @@ Kiam la radika vokalo de [pronomo](#pronomoj) aŭ prepozicio estas mallonga, ĝi
 
 ### Korelativoj
 
-|**hi**|**de**|**wo**|
+|**h-**|**d-**|**w-**|
 |-|-|-|
+|**hi**|**de**|**wo**|
 |*(ŝi, li)*|*(tiuj, ili)*|*(kiu)*|
 |**hīm**|**dēm**|**wōm**|
 |*(ŝin, lin)*|*(tiujn, ilin)*|*(kiun)*|
