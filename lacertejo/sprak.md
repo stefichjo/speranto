@@ -91,8 +91,9 @@ La ***akuzativa*** kaj ***genitiva*** formoj de korelativoj, kies ***nominativa*
 
 La ***akuzativa*** formo de korelativoj, kies ***nominativa*** formo finiĝas je ***-t***, restas senŝanĝa. Anstataŭe, la ***genitiva*** formo finiĝas je ***-s***.
 
-|**hīr**|**dār**|**wār**|
+|**h-**|**d-**|**w-**|
 |-|-|-|
+|**hīr**|**dār**|**wār**|
 |*(ĉi tie)*|*(tie)*|*(kie)*|
 |**hin**|**dan**|**wan**|
 |*(ĉi tiam)*|*(tiam)*|*(kiam)*|
