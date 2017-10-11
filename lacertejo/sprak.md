@@ -22,7 +22,7 @@ En poezio, post-ŝvaa ŝvao povas eliziiĝi.
 
 * **broderen** [ˈbro:dərən] → **brodern** [ˈbro:dərn] *(fratoj)*
 
-*Ursprak:* ***Praĝermana*** **ai** fariĝas **æ**. **æ** estas ĉiam longa. Radikofina **æ** fariĝas **o**.
+*Ursprak:* ***Praĝermana*** **ai** [aɪ̯] fariĝas **æ** [ɛ:]. **æ** [ɛ:] estas ĉiam longa. Radikofina **æ** [ɛ:] fariĝas **o** [o:].
 
 * **stain** [staɪ̯n] → **stæn** [stɛ:n] *(ŝtono)*
 * **gaist** [gaɪ̯st] → **gæst** [gɛ:st] *(spirito)*
