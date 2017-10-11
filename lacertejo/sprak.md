@@ -95,7 +95,7 @@ La korelativoj, kiuj finiĝas per vokalo, havas apartajn ***akuzativan*** kaj **
 * **his** [hɪs] *(ŝia, lia)*
 * **wam** [wam] *(kiun)*
 
-La korelativoj, kiuj finiĝas per ***-t*** estas uzeblaj ankaŭ kiel adjektivoj.
+La korelativoj, kiuj finiĝas per **-t** estas uzeblaj ankaŭ kiel adjektivoj.
 
 * ***het*** mann *(ĉi tiu viro)*
 * ***dit*** fru *(tiu virino)*
@@ -103,6 +103,10 @@ La korelativoj, kiuj finiĝas per ***-t*** estas uzeblaj ankaŭ kiel adjektivoj.
 La korelativo **het** uziĝas, kiam mankas subjekto.
 
 * ***Het*** regen. *(Pluvas.)*
+
+*Ursprak:* La ***genitiva*** formoj je **-s** de korelativoj je **-t** ne plu uziĝas.
+
+* ***hets*** grotnis → de grotnis ***av het*** *(ĉi ties grandeco, la grandeco de ĉi tio)*
 
 *Ursprak:* La korelativaj radikokomencoj **đ-** [ð] kaj **hw-** [hw] fariĝas **d-** [d] kaj **w-** [w].
 
@@ -151,7 +155,7 @@ Bazaj adjektivoj ne havas finaĵon.
 Adverboj havas la saman formon kiel adjektivoj.
 
 * de hæl bok *(la tuta libro)*
-* en **hæl** ny bok *(tute nova libro)*
+* en ***hæl*** ny bok *(tute nova libro)*
 
 Adverboj sekvas la verbon.
 
@@ -183,7 +187,7 @@ Bazaj verboj ne havas finaĵon.
 La finaĵo por infinitivo estas **-e** [ə]. Kiel substantivo, infinitivo esprimas ***manieron***.
 
 * Ik kann ***spreke***. *(Mi povas paroli.)*
-* ***spreke*** *(parolmaniero)*
+* de ***spreke*** *(la parolmaniero)*
 
 La finaĵo **-ed** [əd] uziĝas por ***preterito*** kaj ***pasivo***.
 
@@ -193,7 +197,7 @@ La finaĵo **-ed** [əd] uziĝas por ***preterito*** kaj ***pasivo***.
 La finaĵo por ***adjektivoj*** estas **-end** [ənd], kaj la finaĵo por la ***aganto*** estas **-er** [ər].
 
 * **slapend** *(dormanta)*
-* **slaper** *(dormanto)*
+* **slaper** *(dormanto, dormulo)*
 
 *Ursprak:* La konjunktiva finaĵo **-e** [ə] ne plu uziĝas.
 
@@ -205,10 +209,9 @@ La finaĵo por ***adjektivoj*** estas **-end** [ənd], kaj la finaĵo por la ***
 * Đe mann ***sprikht*** to mi. → De mann ***sprek*** to mi. *(La viro parolas al mi.)*
 * Đe mann is min frend. → De mann er min frend. *(La viro estas mia amiko.)*
 
-*Nysprak:* La **t**-formo por esprimi ***rezulton*** ne plu uziĝas.
+*Nysprak:* La **t**-formo por esprimi ***povon*** ne plu uziĝas.
 
-* ***sight*** → ***sejnis*** *(vidaĵo)*
-* ***spright*** → ***spreknis*** *(parolaĵo)*
+* ***sight*** → ***sejmaght*** *(vido, vidkapablo)*
 
 *Nysprak:* Malregulaj formoj por la ***preterito*** aŭ ***pasivo*** ne plu uziĝas, nek por ***fojaj agoj*** nek por ***daŭraj agoj***.
 
