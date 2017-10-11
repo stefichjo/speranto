@@ -59,11 +59,13 @@ Kiam la radika vokalo de ne-radikaj vortoj aŭ prepozicio estas mallonga, ĝia f
 
 ### Numeraloj
 
-|**æn**|**two**|**tri**|**fir**|**fimf**|
+|**æn**|**twæ**|**tri**|**fir**|**fimf**|
 |-|-|-|-|-|
 |*(unu)*|*(du)*|*(tri)*|*(kvar)*|*(kvin)*|
 |**six**|**seven**|**aght**|**nin**|**ten**|
 |*(ses)*|*(sep)*|*(ok)*|*(naŭ)*|*(dek)*|
+
+Tra bruo, **twæ** [twɛ:] fariĝas **twō** [two:].
 
 ### Pronomoj
 
@@ -79,7 +81,7 @@ Kiam la radika vokalo de ne-radikaj vortoj aŭ prepozicio estas mallonga, ĝia f
 
 |**h-**|**d-**|**w-**|
 |-|-|-|
-|**hi**|**de**|**wo**|
+|**hi**|**de**|**wa**|
 |*(ŝi, li)*|*(ili)*|*(kiu)*|
 |**het**|**dit**|**wat**|
 |*(ĉi tio)*|*(tio)*|*(kio)*|
@@ -88,10 +90,10 @@ Kiam la radika vokalo de ne-radikaj vortoj aŭ prepozicio estas mallonga, ĝia f
 |**hin**|**dan**|**wen**|
 |*(ĉi tiam)*|*(tiam)*|*(kiam)*|
 
-La korelativoj, kiuj finiĝas per vokalo, havas apartajn ***akuzativan*** kaj ***genitivan*** formojn je **-m** kaj **-s**, kies vokaloj ankaŭ estas longaj.
+La korelativoj, kiuj finiĝas per vokalo, havas apartajn ***akuzativan*** kaj ***genitivan*** formojn je **-m** kaj **-s**.
 
-* **hīs** [hi:s] *(ŝia, lia)*
-* **wōm** [wo:m] *(kiun)*
+* **his** [hɪs] *(ŝia, lia)*
+* **wam** [wam] *(kiun)*
 
 La korelativoj, kiuj finiĝas per ***-t*** estas uzeblaj ankaŭ kiel adjektivoj.
 
