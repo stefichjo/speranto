@@ -1,6 +1,6 @@
 # Sprak
 
-***Sprak*** baziĝas sur la ***Praĝermana***. Pli specife, ***Sprak*** baziĝas sur la ***Ĝermanaj Lingvoj***, kiuj siavice baziĝas sur la ***Praĝermana***.
+***Sprak*** baziĝas sur la ***Praĝermana***. Pli specife, ***Sprak*** baziĝas sur la ***Ĝermanaj Lingvoj*** kaj ties ***Internaciaj Ortografioj***, kiuj siavice baziĝas sur la ***Praĝermana***.
 
 ## Alfabeto
 
@@ -24,13 +24,13 @@ En poezio, ŝvao povas eliziiĝi.
 
 *Ursprak:* ***Praĝermana*** **ai** [aɪ̯] fariĝas **æ** [ɛ:]. **æ** [ɛ:] estas ĉiam longa.
 
-* **stain** [staɪ̯n] → **stæn** [stɛ:n] *(ŝtono)*
 * **gaist** [gaɪ̯st] → **gæst** [gɛ:st] *(spirito)*
 * **gai** [gaɪ̯] → **gæ** [gɛ:] *(iras)*
+* **ain** [aɪ̯n] → **æn** [ɛ:n] *(unu)*
 
 *Nysprak:* **æ** [ɛ:] fariĝas **ō** [o:].
 
-* **gai** [gaɪ̯] → **gō** [go:] *(iras)*
+* **gæst** [gaɪ̯st] → **gōst** [go:st]
 
 ### Konsonantoj
 
@@ -77,6 +77,10 @@ Tra bruo, **twæ** [twɛ:] fariĝas **twō** [two:].
 |**min**|**din**|**onser**|**jur**|**huns**|**hens**|
 |*(mia)*|*(via)*|*(nia)*|*(via)*|*(ŝia)*|*(lia)*|
 
+*Ursprak:* La pronomo **đu** fariĝas **du**.
+
+* ***đin*** frend → ***din*** frend *(via amiko)*
+
 ### Korelativoj
 
 |**h-**|**d-**|**w-**|
@@ -104,14 +108,43 @@ La korelativo **het** uziĝas, kiam mankas subjekto.
 
 * ***Het*** regen. *(Pluvas.)*
 
+La korelativo **hi** estas uzebla prefiksece por signifi **ĉi-**.
+
+* **hidag** *(ĉi-tagon, hodiaŭ)*
+* **hijar** *(ĉi-jaron)*
+
+La korelativa prefikso **i-** kombineblas kun korelativoj je **w-** por formi korelativojn kun la signifo **i-**. La korelativa prefikso **n-** kombineblas kun korelativoj je **i-** por formi korelativojn kun la signifo **neni-**.
+
+|**i-**|**ni-**|
+|-|-|
+|**iwa**|**niwa**|
+|*(iu)*|*(neniu)*|
+|**iwat**|**niwat**|
+|*(io)*|*(nenio)*|
+|**iwēr**|**niwēr**|
+|*(ie)*|*(nenie)*|
+|**iwen**|**niwen**|
+|*(iam)*|*(neniam)*|
+
+*Ursprak:* La prefikso **hi-** ne plu uziĝas por korelativoj por signifi **ĉi**.
+
+* **hiwa** → **hi** *(ĉi tiu)*
+* **hiwat** → **het** *(ĉi tio)*
+* **hiwēr** → **hīr** *(ĉi tie)*
+* **hiwen** → **hin** *(ĉi tiam)*
+
 *Ursprak:* La ***genitiva*** formoj je **-s** de korelativoj je **-t** ne plu uziĝas.
 
 * ***hets*** grotnis → de grotnis ***av het*** *(ĉi ties grandeco, la grandeco de ĉi tio)*
 
 *Ursprak:* La korelativaj radikokomencoj **đ-** [ð] kaj **hw-** [hw] fariĝas **d-** [d] kaj **w-** [w].
 
-* **hwat** [hwat] → **wat** [wat]
 * **đār** [ða:r] → **dār** [da:r]
+* **hwat** [hwat] → **wat** [wat]
+
+*Nysprak:* La korelativaj prefiksoj **i-** kaj **ni-** estas uzeblaj ankaŭ kun radikaj vortoj.
+
+* **niting** *(neniaĵo, nenio)*
 
 ### Artikoloj
 
@@ -119,6 +152,10 @@ La difina artikolo kaj por singularo kaj por pluralo estas **de** [də]. La nedi
 
 * ***en*** hus *(domo)*
 * ***de*** hus *(la domo)*
+
+*Urspak:* La difina artikolo **đe** [ðə] fariĝas **de** [də].
+
+* ***đe*** frend → ***de frend*** *(la amiko)*
 
 ### Radikaj Vortoj
 
@@ -199,6 +236,10 @@ La finaĵo por ***adjektivoj*** estas **-end** [ənd], kaj la finaĵo por la ***
 * **slapend** *(dormanta)*
 * **slaper** *(dormanto, dormulo)*
 
+Ĉu-demando komenciĝas per verbo.
+
+* ***Er*** du min frend? *(Ĉu vi estas mia amiko?)*
+
 *Ursprak:* La konjunktiva finaĵo **-e** [ə] ne plu uziĝas.
 
 * đat ik ***spreke*** → dat ik ***sprek*** *(ke mi parolu)*
@@ -207,7 +248,7 @@ La finaĵo por ***adjektivoj*** estas **-end** [ənd], kaj la finaĵo por la ***
 
 * Đe mann ***sikht*** de hus. → De mann ***sej*** de hus. *(La viro vidas la domon.)*
 * Đe mann ***sprikht*** to mi. → De mann ***sprek*** to mi. *(La viro parolas al mi.)*
-* Đe mann is min frend. → De mann er min frend. *(La viro estas mia amiko.)*
+* Đe mann ***is*** min frend. → De mann ***er*** min frend. *(La viro estas mia amiko.)*
 
 *Nysprak:* La **t**-formo por esprimi ***povon*** ne plu uziĝas.
 
@@ -219,10 +260,6 @@ La finaĵo por ***adjektivoj*** estas **-end** [ənd], kaj la finaĵo por la ***
 * Ik hab ***sejen***. → Ik hav ***sejed***. *(Mi estas vidinta.)*
 * ***sprak*** → ***spreking*** *(parolado)*
 * ***sprok*** → ***sprek*** *(parolo)*
-
-Ĉu-demando komenciĝas per verbo.
-
-* ***Er*** du min frend? *(Ĉu vi estas mia amiko?)*
 
 *Nysprak:* La verbo ne plu bezonas esti la dua frazero.
 

@@ -1,40 +1,42 @@
-# Krokodilejo
+# Interna Ideo
 
 ## Latinidaj Lingvoj
 
-### [Orthographia Italiana](it.md)
+### [Orthographia Italiana](latinidaj/it.md)
 
 Tǒṯi lĭ esseri humani nascono liberi éd eq̆uali in dignitad éd dirėcti.  
 Essi sono dotati dė rat̯ĭone éd dė conscientıa  
 e devono agire lĭ uni verso lĭ altĕri in spirito dė fratïllantıa.
 
-### [Orthographia Francensa](fr.md)
+### [Orthographia Francensa](latinidaj/fr.md)
 
 Tǒtos les ŝtăres humänos näscent libĕros et eq̆uałes ïn dignitäte et ïn dĭrẽctos.  
 Illes sont dǒt̯ät̯os de rät̯ıone et de conscientia  
 et dẽvent agire les ünos ïnverso les ałtĕros dĕ-ȋntus̄ un s̈pĭrito de fraternitäte.
 
+### [...](latinidaj/pt.md)
+
 ## Ĝermanaj Lingvoj
 
-### [Ȧngelish Orthographï](en.md)
+### [Ȧngelish Orthographï](ghermanaj/en.md)
 
 All human beings ar boren frï and equal in dignitä and rights.  
 Đȇ ar ïndõed wiđ räson and conscientıă  
 and shǒłłed act towards ên ȇnôđer in ȇ spirit åv brôđerhěd.
 
-### [Nïderlandĭsh Spelling](nl.md)
+### [Nïderlandĭsh Spelling](ghermanaj/nl.md)
 
 Alle mænnĭshen worden frĩ en' gelĩk in wārdighẽd en' reghten geboren.  
 Sĩ sĩn begiftiged met ferstand en' geweten,  
 en' behoren sigh ġegens elkander in en gēst fan brǒdershapp tŏ gedragen.
 
-### [Thỹdĭshe Reghtshrĩvung](de.md)
+### [Thỹdĭshe Reghtshrĩvung](ghermanaj/de.md)
 
 Alle mænnĭshen sinđ frĩ unđ gĕlĩk an wyrđe unđ reghten geboren.  
 Si sinđ mėd fernunft unđ withen begaved  
 unđ sollen ẽnanđer in'm gẽste đer brø̌đerlikħẽd begegenen.
 
-### [Danĭsh Reghtshrivening](da.md)
+### [Danĭsh Reghtshrivening](ghermanaj/da.md)
 
 Alle mænnïsher är fødet frie og lige iñ werdighed og reghtigheder.  
 De är ut̯styret med fornuñft og samwittighed,  

@@ -26,11 +26,13 @@ Nekcenteblaj **i** [j] kaj **u** [w] skribiĝas **ĭ** kaj **ŭ**.
 
 * **bestia** [ˈbɛstja] → **bestĭo** [ˈbɛstjɔ]
 * **lingua** [ˈlɪŋgwa] → **lingŭo** [ˈlɪŋgwɔ]
+* **que** [kwɛ] → **qŭe** [kwɛ]
 
 *Oĭdo → Novoĭdo:* Neakcenteblaj **ĭ** [j] kaj **ŭ** [w] eliziiĝas.
 
 * **bestĭo** [ˈbɛstjɔ] → **besto** [ˈbɛstɔ]
 * **lingŭo** [ˈlɪŋgwɔ] → **lingo** [ˈlɪŋgɔ]
+* **que** [kwɛ] → **ke** [kɛ]
 
 ### Radikokomenca Neakcentebla i
 
@@ -123,6 +125,11 @@ Intervaloj esprimiĝas per sufiksa **-t-**.
 * **no** *(nenio)*
 * **omno** *(ĉio)*
 * **ono** *(io)*
+
+*Novoĭdo:* La korelativoj je **-o** kaj **-a** estas distingataj per unu el sufiksoj ***-aj-*** aŭ ***-ul-***.
+
+* **nula** *(neniu)*
+* **kajo** *(kio)*
 
 ### Pronomoj
 

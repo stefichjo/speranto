@@ -96,9 +96,23 @@ Latin-devena **z** [ts] fariĝas **ĉ** [tʃ].
 
 ### Korelativoj
 
-Korelativo je **n-** estas prefiksata de redunda **ne-**.
+***Sprakismo:*** La korelativaj prefiksoj **i-** kaj **ni-** uziĝas kiel korelativa radiko. **ni-** estas prefiksata de redunda **ne-**.
 
-* Mu ***ne*** havan ***no***. → Mi havas ***nenon***. *(Mi havas nenion.)*
+* Mu havan ***ajo***. → Mi havas ***ion***.
+* Mu ***ne*** havan ***najo***. → Mi havas ***nenion***.
+
+La korelativaj prefiksoj **k-** kaj **t-** kombiniĝas kun korelativoj je **i-** por signifi **ki-** kaj **ti-**.
+
+* A ***kajo*** tu havan? → ***Kion*** vi havas?
+* Tu havan ***tajo***. → Vi havas ***tion***.
+
+***Ojdismo:*** La pronoma finaĵo **-u** fariĝas la korelativa finaĵo por ***individu(aĵ)oj***.
+
+* ***ula*** domo → ***iu*** domo
+
+***Ursprakismo:*** Kombine kun la nedifina artikolo **ajn** esprimiĝas ***indiferenteco**.
+
+* ***iu ajn*** domo
 
 ### Pronomoj
 
@@ -114,6 +128,10 @@ La ununombra duapersona pronomo **ci** ne plu uziĝas. Anstataŭe, uziĝas la mu
 *Prapiĝino:* La pronomo **ti** fariĝas **ci**.
 
 * **ti** → **ci**
+
+*Sprakismo:* La korelativo **hi** uzeblas kiel virgenra ununombra pronomo.
+
+* ***Hi*** estas viro.
 
 ### Artikoloj
 

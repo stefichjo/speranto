@@ -221,10 +221,11 @@ Grek-devenaj neologismoj havas la finaĵojn **-i**, **-īa**, **-a**, **-e**.
 * **mari** → **mare** *(maro)*
 * **manu** → **mano** *(mano)*
 
-*Pralingua → Lingua:* La neakcenteblaj sufiksoj **-in-** kaj **-it-** eliziiĝas.
+*Pralingua → Lingua:* La neakcenteblaj sufiksoj **-in-**, **-it-** kaj **-ul-** eliziiĝas.
 
-* **nomine** → **nome** *(nomo)*
-* **limite** → **lime** *(limo)*
+* **nomĭne** → **nome** *(nomo)*
+* **limĭte** → **lime** *(limo)*
+* **particŭla** → **particla** *(partiklo)*
 
 *Pralingua → Lingua:* Substantivoj (derivitaj de [participoj](#participoj)) je **-u** kaj **-ione** cedas al la malpli specifaj formoj je **-o** kaj **-īo**.
 
@@ -248,9 +249,10 @@ Substantivo estas adjektivigebla pere de **-ale**.
 
 #### Adverboj
 
-Adverboj formiĝas kun la finaĵo **-mente**.
+Adverboj formiĝas kun **-mente**.
 
 * **fortemente** *(forte)*
+* **bonamente** *(bone)*
 
 #### Verboj
 
