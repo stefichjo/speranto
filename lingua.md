@@ -1,6 +1,6 @@
 # Lingua
 
-**Lingua** baziĝas sur la **Latina**. Pli precize, **Lingua** baziĝas sur **Pralingua**, kaj **Pralingua** siavice baziĝas sur la **Latinidaj Lingvoj**, kiuj siavice parencas kun la **Latina**.
+**Lingua** baziĝas sur la **Latina**. Pli precize, **Lingua** baziĝas sur **Pralingua**, kaj **Pralingua** siavice baziĝas sur la **Latinidaj Lingvoj**, kiuj siavice parencas kun la **Latina**. Sur ***Lingua*** baziĝas [***Oĭdo***](oido.md). El ***Lingua*** pruntas [***Piĝino***](pighino.md).
 
 ## Alfabeto
 
