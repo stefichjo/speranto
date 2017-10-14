@@ -137,9 +137,9 @@ La ununombra duapersona pronomo **ci** ne plu uziĝas. Anstataŭe, uziĝas la mu
 
 * ***Hi*** estas viro.
 
-*Prapiĝino:* La korelativo **hi** fariĝas (**ĥi** → **ki** → **ci** →) **ĉi** kombine kun indikaj korelativoj je **ti-**.
+*Prapiĝino:* La korelativo **hi** fariĝas (**ĥi** → **ki** → **ci** →) **ĉi** kombine kun indikaj korelativoj je **ti-**. La korelativoj je **ĵ-** ne plu uziĝas.
 
-* **hi-taĵo** → **ĉi tio**
+* **ĵio**, **hi-tio** → **ĉi tio**
 
 ### Artikoloj
 
