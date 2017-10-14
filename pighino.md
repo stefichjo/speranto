@@ -114,6 +114,10 @@ La korelativaj prefiksoj **k-** kaj **t-** kombiniĝas kun korelativoj je **i-**
 
 * ***iu ajn*** domo
 
+*Prapiĝino:* Anstataŭ korelativo je **ki-** kombine kun la nedifina artikolo **ajn** uziĝas korelativo je **ĉi-**.
+
+* **kio ajn** → **ĉio**
+
 ### Pronomoj
 
 ***Neolingvaismo:*** Pronomoj havas la ŝajnfinaĵon **-i**.
@@ -132,6 +136,10 @@ La ununombra duapersona pronomo **ci** ne plu uziĝas. Anstataŭe, uziĝas la mu
 *Sprakismo:* La korelativo **hi** uzeblas kiel virgenra ununombra pronomo.
 
 * ***Hi*** estas viro.
+
+*Prapiĝino:* La korelativo **hi** fariĝas (**ĥi** → **ki** → **ci** →) **ĉi** kombine kun indikaj korelativoj je **ti-**.
+
+* **hi-taĵo** → **ĉi tio**
 
 ### Artikoloj
 
