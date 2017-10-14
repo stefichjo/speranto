@@ -13,44 +13,44 @@
 |**r**|**s**|**t**|**u**|**f**|**h**|**ç**|**ĉ**|**ŝ**|**ŝĉ**|**-**|**y**|**.**|**æ**|**ü**|**ä**||
 |*(r)*|*(s)*|*(t)*|*(u)*|*(f)*|*(h)*|*(c)*|*(cz)*|*(sz)*|*(czsz)*|*(-(j))*|*(y)*|*(')*|*(e)*|*(ju)*|*(ja)*||
 
-* *cena* []: **çena**
-* *czech* []: **ĉeh**
-* *sześć* []: **ŝesṭ**
-* *żyć* []: **ẑiṭ**
+* *cena*: **çena**
+* *czech*: **ĉeh**
+* *sześć*: **ŝesṭ**
+* *żyć*: **ẑiṭ**
 
-* *masa* []: **massa**
-* *róża* []: **rǒsa**
+* *masa*: **massa**
+* *róża*: **rǒsa**
 
-* *sól* []: **sǒḷ**
-* *zając* []: **zaą̈ç**
+* *sól*: **sǒḷ**
+* *zając*: **zaą̈ç**
 
-* *kwadrat* []: **quadrat**
-* *koncert* []: **concert**
+* *kwadrat*: **quadrat**
+* *koncert*: **concert**
 
-* *fenomen* []: **phenomen**
-* *teatr* []: **theatr**
-* *charakter* []: **character**
-* *maszyna* []: **maĉhina**
+* *fenomen*: **phenomen**
+* *teatr*: **theatr**
+* *charakter*: **character**
+* *maszyna*: **maĉhina**
 
-* *automat* []: **automat**
-* *Europa* []: **Europa**
+* *automat*: **automat**
+* *Europa*: **Europa**
 
-* *refleks* []: **reflex**
-* *egzamin* []: **examėn**
-* *zona* []: **zona**
+* *refleks*: **reflex**
+* *egzamin*: **examėn**
+* *zona*: **zona**
 
-* *esperanto* []: **esperanto**
-* *system* []: **systema**
-* *muzyka* []: **musıca**
-* *widzę* []: **vidę̈**
-* *chcę* []: **hŏtę̃**
-* *"przyruczyć"* []: **prirukĩṭ**
-* *…* []: **druĝba**
-* *…* []: **druġä**
-* *pomoc* []: **pomoĝṭ**
-* *żyrafa* []: **ĝiraffa**
-* *…* []: **ĵurnal**
-* *mit* []: **mÿth**?
-* *hymn* []: **hÿmn**
-* *medytacja* []: **meditatĭa**
+* *esperanto*: **esperanto**
+* *system*: **systema**
+* *muzyka*: **musıca**
+* *widzę*: **vidę̈**
+* *chcę*: **hŏtę̃**
+* *"przyruczyć"*: **prirukĩṭ**
+* *…*: **druĝba**
+* *…*: **druġä**
+* *pomoc*: **pomoĝṭ**
+* *żyrafa*: **ĝiraffa**
+* *…*: **ĵurnal**
+* *mit*: **mÿth**?
+* *hymn*: **hÿmn**
+* *medytacja*: **meditatĭa**
 
