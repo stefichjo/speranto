@@ -1,6 +1,6 @@
 # Sprak
 
-***Sprak*** baziĝas sur la ***Praĝermana***. Pli specife, ***Sprak*** baziĝas sur la ***Ĝermanaj Lingvoj*** kaj ties ***Internaciaj Ortografioj***, kiuj siavice baziĝas sur la ***Praĝermana***. El ***Sprak*** pruntas [***Piĝino***](pighino.md).
+***Sprak*** baziĝas sur la ***Praĝermana***. Pli specife, ***Sprak*** baziĝas sur la ***Ĝermanaj Lingvoj*** kaj [ties ***Internaciaj Ortografioj***](ghermanaj/README.md), kiuj siavice baziĝas sur la ***Praĝermana***. El ***Sprak*** pruntas [***Piĝino***](pighino.md).
 
 ## Alfabeto
 
