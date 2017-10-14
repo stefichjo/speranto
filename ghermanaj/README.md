@@ -12,7 +12,7 @@ Alle mænnĭshen worden frĩ en' gelĩk in wārdighẽd en' reghten geboren.
 Sĩ sĩn begiftiged met ferstand en' geweten,  
 en' behoren sigh ġegens elkander in en gēst fan brǒdershapp tŏ gedragen.
 
-## La Germana: [](de.md)
+## La Germana: [Thỹdĭshe Reghtshrĩvung](de.md)
 
 Alle mænnĭshen sinđ frĩ unđ gĕlĩk an wyrđe unđ reghten geboren.  
 Si sinđ mėd fernunft unđ withen begaved  
