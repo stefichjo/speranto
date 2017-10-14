@@ -171,11 +171,11 @@ Tra bruo, la direkta finaĵo **-en** uziĝas por **akuzativo**. Sen bruo, ĝi ma
 
 ***Novojdismo:*** La ***vokativa*** finaĵo **-u** uziĝas por alvoki ion bezonatan aŭ por ***imperativo***.
 
-* ***Adjuvu***! *(Help! Helpu!)*
+* ***Helpu***! *(Help! Helpu!)*
 
 ***Neolingvaismo:*** La trabrua akuzativa prepozicio **as** fariĝas la verba finaĵo por la ***as-tempo***.
 
-* Mu ***adiuv'as*** tu. → Mi ***adjuvas*** vin.
+* Mu ***adiuv'as*** tu. → Mi ***helpas*** vin.
 
 #### Prepozicioj
 
