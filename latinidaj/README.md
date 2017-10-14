@@ -1,5 +1,7 @@
 # Internaciaj Ortografioj de la Latinidaj Lingvoj
 
+Sur la ***Internaciaj Ortografioj*** de la ***Itala***, la ***Franca***, la ***Hispana*** kaj la ***Portugala*** baziĝas [***Oĭdo***](../oido.md).
+
 ## La Itala: [Orthographia Italiana](it.md)
 
 Tǒṯi lĭ esseri humani nascono liberi éd eq̆uali in dignitad éd dirėcti.  
