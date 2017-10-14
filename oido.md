@@ -1,6 +1,6 @@
 # Oĭdo
 
-***Oĭdo*** baziĝas sur [**Lingua**](lingua.md). Pli precize, ***Oĭdo*** baziĝas sur ***Praoĭdo***, kaj ***Praoĭdo*** siavice baziĝas sur ***Neolingua***. Sur ***Oĭdo*** baziĝas [***Piĝino***](pighino.md). El ***Oĭdo*** pruntas [***Piĝino***](pighino.md).
+***Oĭdo*** baziĝas sur [***Lingua***](lingua.md). Pli precize, ***Oĭdo*** baziĝas sur ***Praoĭdo***, kaj ***Praoĭdo*** siavice baziĝas sur ***Neolingua***. Sur ***Oĭdo*** baziĝas [***Piĝino***](pighino.md). El ***Oĭdo*** pruntas [***Piĝino***](pighino.md).
 
 * **centro** [ˈxɛntrɔ] → **zentro** [ˈtsɛntrɔ]
 
