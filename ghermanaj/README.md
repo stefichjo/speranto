@@ -1,5 +1,7 @@
 # Internaciaj Ortografioj de la Ĝermanaj Lingvoj
 
+Sur la ***Internaciaj Ortografioj*** de la ***Angla***, la ***Nederlanda***, la ***Germana*** kaj la ***Dana*** baziĝas [***Sprak***](../sprak.md).
+
 ## La Angla: [Ȧngelish Orthographï](en.md)
 
 All human beings ar boren frï and equal in dignitä and rights.  
