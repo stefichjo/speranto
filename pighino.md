@@ -4,7 +4,7 @@
 > ---
 > L. L. Zamenhof
 
-***Piĝino*** baziĝas sur [***Oĭdo***](oido.md). Pli precize, ***Piĝino*** baziĝas sur ***Novoĭdo***. ***Piĝino*** pruntas elementojn el [***Lingua***](lingua.md), [***Sprak***](sprak.md) kaj ***Äzyk***. Sen tiu ĉi kunteksto, ***Piĝino*** estas ***Esperanto***.
+***Piĝino*** baziĝas sur [***Oĭdo***](oido.md). Pli precize, ***Piĝino*** baziĝas sur ***Novoĭdo***. ***Piĝino*** pruntas elementojn el [***Lingua***](lingua.md), [***Sprak***](sprak.md) kaj ***Äzyk***. Sen tiu ĉi kunteksto, ***Piĝino*** estas simple — ***Esperanto***.
 
 ## Alfabeto
 
