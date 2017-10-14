@@ -1,4 +1,4 @@
-# Internaciaj Ortografioj de Ĝermanaj Lingvoj
+# Internaciaj Ortografioj de la Ĝermanaj Lingvoj
 
 ## La Angla: [Ȧngelish Orthographï](en.md)
 
