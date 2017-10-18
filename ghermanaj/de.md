@@ -720,7 +720,7 @@ Latĩnishe fremđwørder behalden ire latĩnishe reghtshrĩvung.
 * *Foto* [ˈfo:to]: **photo**
 * *Mathe* ['matə]: **mathe**
 * *Technik* [ˈteçnɪk]: **technic**
-* *Chemie* [çeˈmi]: **chemiă**
+* *Chemie* [çeˈmi]: **chemi**
 * *Maschine* [maˈʃi:nə]: **maĉhine**
 * *Kilo* [ˈki:lo]: **kilo**
 * *System* [zʏsˈte:m]: **system**
@@ -789,16 +789,16 @@ Latĩnishe fremđwørder behalden ire latĩnishe reghtshrĩvung.
 
 ### -i
 
-* *Fantasie* [fantaˈzi:]: **phantasi** = **phantasiă**
-* *Biologie* [bioloˈgi:]: **biologi** = **biologiă**
-* *Demokratie* [demokraˈti:]: **demokrati** = **demokratiă**
-* *Theorie* [teoˈri:]: **theori** = **theoriă**
+* *Fantasie* [fantaˈzi:]: **phantasi**
+* *Biologie* [bioloˈgi:]: **biologi**
+* *Demokratie* [demokraˈti:]: **demokrati**
+* *Theorie* [teoˈri:]: **theori**
 
 ---
-**Grũ, dỹrer frỹnđ, ist alle theoriă.**
+**Grũ, dỹrer frỹnđ, ist alle theori.**
 
 ---
 
 #### -ĩ
 
-* *Polizei* [poliˈtsaɪ̯]: **politĩ** = **politĩă**
+* *Polizei* [poliˈtsaɪ̯]: **politĩ**
