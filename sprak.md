@@ -172,7 +172,6 @@ La finaĵo por ***multenombro*** estas **-en** [ən].
 Kiam adjektivo fariĝas substantivo, ĝi havas la finaĵon **-e** [ə].
 
 * de ***æne*** *(la unu)*
-* ***kæne*** *(neniu)*
 
 #### Adjektivoj
 
