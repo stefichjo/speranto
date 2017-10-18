@@ -4,7 +4,7 @@
 > ---
 > L. L. Zamenhof
 
-***Piĝino*** baziĝas sur [***Oĭdo***](oido.md). Pli precize, ***Piĝino*** baziĝas sur ***Novoĭdo***. ***Piĝino*** pruntas elementojn el [***Lingua***](lingua.md), [***Sprak***](sprak.md) kaj [***Äzyk***](jazyk.md). Sen tiu ĉi kunteksto, ***Piĝino*** estas simple — ***Esperanto***.
+***Piĝino*** baziĝas sur [***Lingŭido***](linguido.md). Pli precize, ***Piĝino*** baziĝas sur ***Novlingŭido***. ***Piĝino*** pruntas elementojn el [***Lingua***](lingua.md), [***Sprak***](sprak.md) kaj [***Äzyk***](jazyk.md). Sen tiu ĉi kunteksto, ***Piĝino*** estas simple — ***Esperanto***.
 
 ## Alfabeto
 
@@ -12,7 +12,7 @@
 
 ### Duonvokaloj
 
-*Ojdismo:* Diftongoj restas senŝanĝaj.
+*Lingvidismo:* Diftongoj restas senŝanĝaj.
 
 * **taŭro** [ˈtawrɔ]
 * **trajno** [ˈtrajnɔ]
@@ -23,9 +23,8 @@
 Post vokalo, neakcentebla **ĭ** [j] skribiĝas **j**.
 
 * **maĭo** [ˈmajɔ] → **majo**
-* **asteroĭdo** [astɛrˈɔjdɔ] → **asterojdo**
 
-***Ojdismo:*** Neakcentebla **ŭ** [w] fariĝas **v** [v].
+***Lingvidismo:*** Neakcentebla **ŭ** [w] fariĝas **v** [v].
 
 * **lingŭo** [ˈlɪŋgwɔ] → **lingvo** [ˈlɪŋgvɔ]
 
@@ -36,7 +35,7 @@ Post vokalo, neakcentebla **ĭ** [j] skribiĝas **j**.
 * **justa** [ˈdʒʊsta] → **ĝusta**
 * **jenerala** [ˈdʒɛnɛrala] → **ĝenerala**
 
-***Praojdismo:*** Komence de radiko, neakcentebla **j** [ʒ] skribiĝas **ĵ**.
+***Pralingvidismo:*** Komence de radiko, neakcentebla **j** [ʒ] skribiĝas **ĵ**.
 
 * **juro** [ˈʒʊrɔ] → **ĵuro**
 
@@ -65,13 +64,13 @@ Latin-devena **z** [ts] fariĝas **ĉ** [tʃ].
 * **culturo** [kʊlˈtʊrɔ] → **kulturo**
 * **dialecto** [dɪaˈlɛktɔ] → **dialekto**
 
-***Ojdismo:*** **z** [ts] skribiĝas **c**.
+***Lingvidismo:*** **z** [ts] skribiĝas **c**.
 
 * **zentro** [ˈtsɛntrɔ] → **centro**
 * **akzento** [akˈtsɛntɔ] → **akcento**
 * **nazio** [naˈtsɪɔ] → **nacio**
 
-***Ojdismo:*** **h** [h] restas senŝanĝa.
+***Lingvidismo:*** **h** [h] restas senŝanĝa.
 
 * **horo** [ˈhɔrɔ]
 
@@ -106,7 +105,7 @@ La korelativaj prefiksoj **k-** kaj **t-** kombiniĝas kun korelativoj je **i-**
 * A ***kajo*** tu havan? → ***Kion*** vi havas?
 * Tu havan ***tajo***. → Vi havas ***tion***.
 
-***Ojdismo:*** La pronoma finaĵo **-u** fariĝas la korelativa finaĵo por ***individu(aĵ)oj***.
+***Lingvidismo:*** La pronoma finaĵo **-u** fariĝas la korelativa finaĵo por ***individu(aĵ)oj***.
 
 * ***ula*** domo → ***iu*** domo
 
@@ -163,13 +162,13 @@ Tra bruo, la direkta finaĵo **-en** uziĝas por **akuzativo**. Sen bruo, ĝi ma
 
 #### Adverboj
 
-***Novojdismo:*** La ***imperativa*** finaĵo **-en** uziĝas por esprimi ***direkton***.
+***Novlingvidismo:*** La ***imperativa*** finaĵo **-en** uziĝas por esprimi ***direkton***.
 
 * ***Laboren***! *(Laboru! Al la laboro!)*
 
 #### Verboj
 
-***Novojdismo:*** La ***vokativa*** finaĵo **-u** uziĝas por alvoki ion bezonatan aŭ por ***imperativo***.
+***Novlingvidismo:*** La ***vokativa*** finaĵo **-u** uziĝas por alvoki ion bezonatan aŭ por ***imperativo***.
 
 * ***Helpu***! *(Help! Helpu!)*
 
@@ -183,7 +182,7 @@ La ŝajnfinaĵo **-al** fariĝas **-aŭ**.
 
 * ***ĉirc'al*** → ***ĉirkaŭ***
 
-***Novojdismo:*** La lokaj prepozicioj **ad**, **in**, **de** kaj la ne-lokaj prepozicioj **al**, **en**, **di** unuiĝas al **al**, **en**, **de**.
+***Novlingvidismo:*** La lokaj prepozicioj **ad**, **in**, **de** kaj la ne-lokaj prepozicioj **al**, **en**, **di** unuiĝas al **al**, **en**, **de**.
 
 * Mi estas ***en*** la domo.
 

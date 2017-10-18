@@ -1,6 +1,6 @@
-# Oĭdo
+# Lingŭido
 
-***Oĭdo*** baziĝas sur [***Lingua***](lingua.md) kaj la [***Internaciaj Ortografioj***](latinidaj/README.md) de la ***Latinidaj Lingvoj***. Pli specife, ***Oĭdo*** baziĝas sur ***Praoĭdo***, kaj ***Praoĭdo*** siavice baziĝas sur ***Neolingua***. Sur ***Oĭdo*** baziĝas [***Piĝino***](pighino.md). El ***Oĭdo*** pruntas [***Piĝino***](pighino.md).
+***Lingŭido*** baziĝas sur [***Lingua***](lingua.md) kaj la [***Internaciaj Ortografioj***](latinidaj/README.md) de la ***Latinidaj Lingvoj***. Pli specife, ***Lingŭido*** baziĝas sur ***Pralingŭido***, kaj ***Pralingŭido*** siavice baziĝas sur ***Neolingua***. Sur ***Lingŭido*** baziĝas [***Piĝino***](pighino.md). El ***Lingŭido*** pruntas [***Piĝino***](pighino.md).
 
 * **centro** [ˈxɛntrɔ] → **zentro** [ˈtsɛntrɔ]
 
@@ -28,7 +28,7 @@ Nekcenteblaj **i** [j] kaj **u** [w] skribiĝas **ĭ** kaj **ŭ**.
 * **lingua** [ˈlɪŋgwa] → **lingŭo** [ˈlɪŋgwɔ]
 * **que** [kwɛ] → **qŭe** [kwɛ]
 
-*Oĭdo → Novoĭdo:* Neakcenteblaj **ĭ** [j] kaj **ŭ** [w] eliziiĝas.
+*Lingŭido → Novlingŭido:* Neakcenteblaj **ĭ** [j] kaj **ŭ** [w] eliziiĝas.
 
 * **bestĭo** [ˈbɛstjɔ] → **besto** [ˈbɛstɔ]
 * **lingŭo** [ˈlɪŋgwɔ] → **lingo** [ˈlɪŋgɔ]
@@ -41,13 +41,13 @@ Komence de radiko, neakcentebla **i** [j] fariĝas **j** [dʒ].
 * **iusta** [ˈjʊsta] → **justa** [ˈdʒʊsta]
 * **io** [jɔ] → **jo** [dʒɔ]
 
-*Praoĭdo:* Neakcentebla **i** [j] fariĝas **j** [ʒ] komence de radiko.
+*Pralingŭido:* Neakcentebla **i** [j] fariĝas **j** [ʒ] komence de radiko.
 
 * **iura** [ˈjʊra] → **juri** [ˈʒʊrɪ]
 
 ### Diftongoj
 
-*Novoĭdo:* Neakcenteblaj **ĭ** [j] kaj **ŭ** [w] formas monoftongon kun sia najbara vokalo.
+*Novlingŭido:* Neakcenteblaj **ĭ** [j] kaj **ŭ** [w] formas monoftongon kun sia najbara vokalo.
 
 * **aŭro** [ˈawrɔ] → **oro** [ˈɔrɔ]
 * **Eŭropo** [ɛwˈrɔpɔ] → **Uropo** [uˈrɔpɔ]
@@ -82,12 +82,12 @@ Grek-devena **z** [dz] fariĝas **z** [ts].
 
 * **scribe** [ˈskrɪvɛ] → **scrivi** [ˈskrɪvɪ]
 
-*Praoĭdo:* **g** [ɣ] kaj radikokomenca neakcentebla **i** [j] fariĝas j [ʒ].
+*Pralingŭido:* **g** [ɣ] kaj radikokomenca neakcentebla **i** [j] fariĝas j [ʒ].
 
 * **gentile** [ɣɛnˈtɪlɛ] → **jentila** [ʒɛnˈtɪla]
 * **iura** [ˈjʊra] → **juri** [ˈʒʊrɪ]
 
-*Novoĭdo:* **h** [h] fariĝas muta.
+*Novlingŭido:* **h** [h] fariĝas muta.
 
 * **hora** [ˈhɔra] → **oro** [ˈɔrɔ]
 
@@ -126,7 +126,7 @@ Intervaloj esprimiĝas per sufiksa **-t-**.
 * **omno** *(ĉio)*
 * **ono** *(io)*
 
-*Novoĭdo:* La korelativoj je **-o** kaj **-a** estas distingataj per unu el sufiksoj ***-aj-*** aŭ ***-ul-***.
+*Novlingŭido:* La korelativoj je **-o** kaj **-a** estas distingataj per unu el sufiksoj ***-aj-*** aŭ ***-ul-***.
 
 * **nula** *(neniu)*
 * **kajo** *(kio)*
