@@ -57,6 +57,15 @@ Kiam la radika vokalo de ne-radikaj vortoj aŭ prepozicio estas mallonga, ĝia f
 
 ## Gramatiko
 
+### Jes/Ne
+
+* **æ** *(jes)*
+* **næ** *(ne)*
+
+*Ursprakismo:* Tra bruo, **æ** [æ:] fariĝas **ai** [aɪ̯].
+
+*Nisprakismo:* Tra bruo, **næ** [næ:] fariĝas **nō** [no:].
+
 ### Numeraloj
 
 |**æn**|**twæ**|**tri**|**fir**|**fimf**|
@@ -65,7 +74,7 @@ Kiam la radika vokalo de ne-radikaj vortoj aŭ prepozicio estas mallonga, ĝia f
 |**six**|**seven**|**aght**|**nin**|**ten**|
 |*(ses)*|*(sep)*|*(ok)*|*(naŭ)*|*(dek)*|
 
-Tra bruo, **twæ** [twɛ:] fariĝas **twō** [two:].
+*Nisprakismo:* Tra bruo, **twæ** [twɛ:] fariĝas **twō** [two:].
 
 ### Pronomoj
 
@@ -113,7 +122,7 @@ La korelativo **hi** estas uzebla prefiksece por signifi **ĉi-**.
 * **hidag** *(ĉi-tagon, hodiaŭ)*
 * **hijar** *(ĉi-jaron)*
 
-La korelativa prefikso **i-** kombineblas kun korelativoj je **w-** por formi korelativojn kun la signifo **i-**. La korelativa prefikso **n-** kombineblas kun korelativoj je **i-** por formi korelativojn kun la signifo **neni-**.
+**æ** kaj **næ** fariĝas la korelativa prefiksoj **i-** kaj **ni-**. Ili kombineblas kun korelativoj je **w-** por formi korelativojn kun la signifo **i-** respektive **neni-**.
 
 |**i-**|**ni-**|
 |-|-|
