@@ -109,7 +109,7 @@ La korelativaj prefiksoj **k-** kaj **t-** kombiniĝas kun korelativoj je **i-**
 
 * ***ula*** domo → ***iu*** domo
 
-***Ursprakismo:*** Kombine kun la nedifina artikolo **ajn** esprimiĝas ***indiferenteco**.
+***Ursprakismo:*** Kombine kun la nedifina artikolo **ajn** esprimiĝas ***indiferenteco***.
 
 * ***iu ajn*** domo
 
