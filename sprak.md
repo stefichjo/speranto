@@ -62,9 +62,9 @@ Kiam la radika vokalo de ne-radikaj vortoj aŭ prepozicio estas mallonga, ĝia f
 * **æ** *(jes)*
 * **næ** *(ne)*
 
-*Ursprakismo:* Tra bruo, **æ** [æ:] fariĝas **ai** [aɪ̯].
+*Ursprakismo:* Tra bruo, **æ** [ɛ:] fariĝas **ai** [aɪ̯].
 
-*Nisprakismo:* Tra bruo, **næ** [næ:] fariĝas **nō** [no:].
+*Nisprakismo:* Tra bruo, **næ** [nɛ:] fariĝas **nō** [no:].
 
 ### Numeraloj
 
@@ -73,6 +73,8 @@ Kiam la radika vokalo de ne-radikaj vortoj aŭ prepozicio estas mallonga, ĝia f
 |*(unu)*|*(du)*|*(tri)*|*(kvar)*|*(kvin)*|
 |**six**|**seven**|**aght**|**nin**|**ten**|
 |*(ses)*|*(sep)*|*(ok)*|*(naŭ)*|*(dek)*|
+
+*Ursprakismo:* Tra bruo, **æn** [ɛ:n] fariĝas **ain** [aɪ̯n].
 
 *Nisprakismo:* Tra bruo, **twæ** [twɛ:] fariĝas **twō** [two:].
 
