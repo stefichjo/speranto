@@ -155,7 +155,7 @@ Pere de la finaĵo **-a** formiĝas posesivaj pronomoj.
 
 ### Radikaj Vortoj
 
-La finaĵo **-s** por substantivoj kaj adjektivoj signifas **multenombron**.
+***Pralingŭismo:*** La finaĵo **-s** signifas **multenombron** por substantivoj kaj adjektivoj .
 
 * **bonas amicos**
 

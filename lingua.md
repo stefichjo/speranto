@@ -156,6 +156,15 @@ Pere de la finaĵo **-a** formiĝas ***posesivaj pronomoj***.
 
 * ***neia*** libro → ***nia*** libro *(nia libro)*
 
+*Pralingua:* La pronomoj **meu**, **teu** kaj la numeralo **un** sufiksiĝas al verboj kiel **-m**, **-t**, **-n**. Aldona **-s** indikas multenombron.
+
+* **amam** *(mi amas)*
+  * **amams** *(ni amas)*
+* **videt** *(vi vidas)*
+  * **videts** *(vi vidas)*
+* **sentin** *(li sentas)*
+  * **sentins** *(ili sentas)*
+
 #### Intimaj Pronomoj
 
 |**meu**|**teu**|**ieu**|
