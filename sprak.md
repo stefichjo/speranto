@@ -166,7 +166,7 @@ La difina artikolo kaj por singularo kaj por pluralo estas **de** [də]. La nedi
 
 *Urspak:* La difina artikolo **đe** [ðə] fariĝas **de** [də].
 
-* ***đe*** frend → ***de frend*** *(la amiko)*
+* ***đe*** frend → ***de*** frend *(la amiko)*
 
 ### Radikaj Vortoj
 
