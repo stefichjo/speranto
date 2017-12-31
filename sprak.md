@@ -43,9 +43,10 @@ Kiam la radika vokalo de ne-radikaj vortoj aŭ prepozicio estas mallonga, ĝia f
 * **mann** [man] *(viro)*
 * **man** [man] *(oni)*
 
-*Ursprak:* ***Praĝermana*** **kh** [x] skribiĝas **gh**.
+*Ursprak:* ***Praĝermana*** **kh** [x] skribiĝas **gh**. La **kh** en **nikht** eliziiĝas.
 
 * **nakht** → **naght** [naxt] *(nokto)*
+* **nikht** → **nit** [nɪt] *(ne)*
 
 *Ursprak:* ***Praĝermana*** **sk** fariĝas **sh** [ʃ].
 
