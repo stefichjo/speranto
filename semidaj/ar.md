@@ -2,11 +2,11 @@
 
 ## (1) ḴṮḆ - li skribis
 
-* ḴṮḆ 'L Ḵ-ṬB̥ - skribis la skribisto
+* ḴṮḆ 'L Ḵ̱ṬB̥ - skribis la skribisto
 
-## (2) -L Ḵ-ṬB̥ - la skribisto
+## (2) -L Ḵ̱ṬB̥ - la skribisto
 
-* J̱ḺS̱ 'L Ḵ-ṬB̥ - sidiĝis la skribisto
+* J̱ḺS̱ 'L Ḵ̱ṬB̥ - sidiĝis la skribisto
 * J̱ḺS̱ W̱ ḴṮḆ - li sidiĝis kaj skribis
 
 ## (3) -L W̱ḺD̥ - la infano
@@ -16,8 +16,8 @@
 
 ## (4) -L ṞJ̥L̥ - la viro
 
-* M̱- ḴṮḆ 'L ṞJ̥L̥? - kion skribis la viro?
-* ḴṮḆ 'L ḲṮ-Ḇ - li skribis la libron
+* M̱̱ ḴṮḆ 'L ṞJ̥L̥? - kion skribis la viro?
+* ḴṮḆ 'L ḲṮ̱Ḇ - li skribis la libron
 
 ## (5) F̣. 'L Ḇ.Ṭ - en la domo
 
@@ -28,13 +28,13 @@
 
 * ḎX̱Ḻ 'L W̱̱ḶD̥ 'L Ḇ.Ṯ - eniris la patro la domon
 * M̱̱ W̱J̱Ḏ 'L W̱̱ḶD̥? - kion trovis la patro?
-* W̱J̱Ḏ 'L ḲṮ-Ḇ - li trovis la libron
+* W̱J̱Ḏ 'L ḲṮ̱Ḇ - li trovis la libron
 * -L W̱̱ḶD̥ W̱ 'L W̱ḺD̥ F̣. 'L Ḇ.Ṭ - la patro kaj la infano estas en la domo
 
 ## (7)
 
-* J̱ḺS̱ 'L Ḵ-ṬB̥ W̱ ḴṮḆ 'L ḲṮ-Ḇ - sidiĝis la skribisto kaj skribis la libron
-* ḎX̱Ḻ 'L W̱ḺD̥ W̱ ḎṞS̱ F̣. 'L ḲṮ-Ḅ - eniris la infano kaj lernis en la libro
+* J̱ḺS̱ 'L Ḵ̱ṬB̥ W̱ ḴṮḆ 'L ḲṮ̱Ḇ - sidiĝis la skribisto kaj skribis la libron
+* ḎX̱Ḻ 'L W̱ḺD̥ W̱ ḎṞS̱ F̣. 'L ḲṮ̱Ḅ - eniris la infano kaj lernis en la libro
 * ḎX̱Ḻ 'L ṞJ̥L̥ 'L Ḇ.Ṯ W̱ W̱J̱Ḏ 'L W̱ḺḎ - eniris la viro la domon kaj trovis la infanon
 * -L ṞJ̥L̥ W̱ 'L W̱̱ḶD̥ F̣. 'L Ḇ.Ṭ - la viro kaj la patro estas en la domo
 
