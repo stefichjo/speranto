@@ -9,9 +9,9 @@
 * J̱ḺS̱ L Ḵ̱ṬB̥ - sidiĝis la skribisto
 * J̱ḺS̱ W̱ ḴṮḆ - li sidiĝis kaj skribis
 
-## (3) L̄ W̱ḺD̥ - la infano
+## (3) L̄ W̱ḺD̥ - la knabo
 
-* ḎX̱Ḻ L W̱ḺD̥ - eniris la infano
+* ḎX̱Ḻ L W̱ḺD̥ - eniris la knabo
 * ḴṮḆ W̱ ḎṞS̱ - li skribis kaj lernis
 
 ## (4) L̄ ṞJ̥L̥ - la viro
@@ -29,11 +29,26 @@
 * ḎX̱Ḻ L W̱̱ḶD̥ L Ḇ̣Ṯ - eniris la patro la domon
 * M̱̱ W̱J̱Ḏ L W̱̱ḶD̥? - kion trovis la patro?
 * W̱J̱Ḏ L ḲṮ̱Ḇ - li trovis la libron
-* L̄ W̱̱ḶD̥ W̱ L W̱ḺD̥ F̤ L Ḇ̣Ṭ - la patro kaj la infano estas en la domo
+* L̄ W̱̱ḶD̥ W̱ L W̱ḺD̥ F̤ L Ḇ̣Ṭ - la patro kaj la knabo estas en la domo
 
 ## (7)
 
 * J̱ḺS̱ L Ḵ̱ṬB̥ W̱ ḴṮḆ L ḲṮ̱Ḇ - sidiĝis la skribisto kaj skribis la libron
-* ḎX̱Ḻ L W̱ḺD̥ W̱ ḎṞS̱ F̤ L ḲṮ̱Ḅ - eniris la infano kaj lernis en la libro
-* ḎX̱Ḻ L ṞJ̥L̥ L Ḇ̣Ṯ W̱ W̱J̱Ḏ L W̱ḺḎ - eniris la viro la domon kaj trovis la infanon
+* ḎX̱Ḻ L W̱ḺD̥ W̱ ḎṞS̱ F̤ L ḲṮ̱Ḅ - eniris la knabo kaj lernis en la libro
+* ḎX̱Ḻ L ṞJ̥L̥ L Ḇ̣Ṯ W̱ W̱J̱Ḏ L W̱ḺḎ - eniris la viro la domon kaj trovis la knabon
 * L̄ ṞJ̥L̥ W̱ L W̱̱ḶD̥ F̤ L Ḇ̣Ṭ - la viro kaj la patro estas en la domo
+
+## (8) L̄ ḄNT̥ - la knabino
+
+* M̱N ḎX̱Ḻ L M̱KṮḆ? - kiu eniris la oficejon?
+* ḎX̱ḺT L̇ ḄNT̥ L M̱KṮḆ - eniris la knabino la oficejon
+* J̱ḺS̱T W̱ ḎṞS̱T - ŝi sidiĝis kaj lernis
+* W̱ X̱ṞJ̱T - kaj ŝi eliris
+
+## (9) Ḅ L Q̱ḺṂ - per la skribilo
+
+* W̱J̱Ḏ L W̱ḺD̥ L ḄNṮ W̱ Q̱̱Ḻ: - trovis la knabo la knabinon kaj diris:
+* ̄Ṉ̱ ḎṞST̥ F̤ L ḲṮ̱Ḅ - mi lernis en la libro
+* W̱ ḴṮBT̥ Ḅ L Q̱ḺṂ - kaj mi skribis per la skribilo
+* L̄ Q̱ḺM̥ Q̱ḺM̥Ḳ - la skribilo estas via skribilo
+
