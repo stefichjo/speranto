@@ -22,21 +22,21 @@
 ## (5) F̤ L Ḇ̣Ṭ - en la domo
 
 * ḎX̱Ḻ L Ḇ̣Ṯ - li eniris la domon
-* L̄ ṞJ̥L̥ F̤ L Ḇ̣Ṭ - la viro estas en la domo
+* L̄ ṞJ̥L̥ F̤L Ḇ̣Ṭ - la viro estas en la domo
 
 ## (6) L̄ W̱̱ḶD̥ - la patro
 
 * ḎX̱Ḻ L W̱̱ḶD̥ L Ḇ̣Ṯ - eniris la patro la domon
 * M̱̱ W̱J̱Ḏ L W̱̱ḶD̥? - kion trovis la patro?
 * W̱J̱Ḏ L ḲṮ̱Ḇ - li trovis la libron
-* L̄ W̱̱ḶD̥ W̱ L W̱ḺD̥ F̤ L Ḇ̣Ṭ - la patro kaj la knabo estas en la domo
+* L̄ W̱̱ḶD̥ W̱ L W̱ḺD̥ F̤L Ḇ̣Ṭ - la patro kaj la knabo estas en la domo
 
 ## (7)
 
 * J̱ḺS̱ L Ḵ̱ṬB̥ W̱ ḴṮḆ L ḲṮ̱Ḇ - sidiĝis la skribisto kaj skribis la libron
-* ḎX̱Ḻ L W̱ḺD̥ W̱ ḎṞS̱ F̤ L ḲṮ̱Ḅ - eniris la knabo kaj lernis en la libro
+* ḎX̱Ḻ L W̱ḺD̥ W̱ ḎṞS̱ F̤L ḲṮ̱Ḅ - eniris la knabo kaj lernis en la libro
 * ḎX̱Ḻ L ṞJ̥L̥ L Ḇ̣Ṯ W̱ W̱J̱Ḏ L W̱ḺḎ - eniris la viro la domon kaj trovis la knabon
-* L̄ ṞJ̥L̥ W̱ L W̱̱ḶD̥ F̤ L Ḇ̣Ṭ - la viro kaj la patro estas en la domo
+* L̄ ṞJ̥L̥ W̱ L W̱̱ḶD̥ F̤L Ḇ̣Ṭ - la viro kaj la patro estas en la domo
 
 ## (8) L̄ ḄNT̥ - la knabino
 
@@ -48,11 +48,11 @@
 ## (9) Ḅ L Q̱ḺṂ - per la skribilo
 
 * W̱J̱Ḏ L W̱ḺD̥ L ḄNṮ W̱ Q̱̱Ḻ: - trovis la knabo la knabinon kaj diris:
-* ̄Ṉ̱ ḎṞST̥ F̤ L ḲṮ̱Ḅ - mi lernis en la libro
-* W̱ ḴṮBT̥ Ḅ L Q̱ḺṂ - kaj mi skribis per la skribilo
+* ̄Ṉ̱ ḎṞST̥ F̤L ḲṮ̱Ḅ - mi lernis en la libro
+* W̱ ḴṮBT̥ ḄL Q̱ḺṂ - kaj mi skribis per la skribilo
 * L̄ Q̱ḺM̥ Q̱ḺM̥Ḳ - la skribilo estas via skribilo
 
 ## (10) Q̱ḺM̥ L ḄNṬ - la skribilo de la knabino
 
-* L̄ S̊Ṯ̱FS̥ F̤ L M̱KṮḄ - la profesoro estas en la oficejo
-* Q̱̱Ḻ Ḷ L W̱ḺḌ: - li diris al la knabo:
+* L̄ S̊Ṯ̱FS̥ F̤L M̱KṮḄ - la profesoro estas en la oficejo
+* Q̱̱Ḻ ḶL W̱ḺḌ: - li diris al la knabo:
