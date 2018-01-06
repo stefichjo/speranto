@@ -54,8 +54,9 @@
 
 ## (10) Q̱ḺM̥ L ḄNṬ - la skribilo de la knabino
 
-* ̄L̄ S̊Ṯ̱FS̥ F̤L M̱KṮḄ - la profesoro estas en la oficejo
+* ̄L̄ S̊Ṯ̱Đ̥ F̤L M̱KṮḄ - la profesoro estas en la oficejo
 * Q̱̱Ḻ ḶL W̱ḺḌ: - li diris al la knabo:
-* ̄̄NṮ, M̱̱ ̄X̱FSṮ? - vi, kion vi prenis?
-* ̄̄Ṉ̱ ̄X̱FST̥ Q̱ḺM̱ L ḄNṬ - mi prenis la skribilon de la knabino
+* ̄̄NṮ, M̱̱ ̄X̱ĐṮ? - vi, kion vi prenis?
+* ̄̄Ṉ̱ ̄X̱ĐT̥ Q̱ḺM̱ L ḄNṬ - mi prenis la skribilon de la knabino
 
+## (11)
