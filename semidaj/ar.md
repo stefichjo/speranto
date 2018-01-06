@@ -52,3 +52,7 @@
 * W̱ ḴṮBT̥ Ḅ L Q̱ḺṂ - kaj mi skribis per la skribilo
 * L̄ Q̱ḺM̥ Q̱ḺM̥Ḳ - la skribilo estas via skribilo
 
+## (10) Q̱ḺM̥ L ḄNṬ - la skribilo de la knabino
+
+* L̄ S̊Ṯ̱FS̥ F̤ L M̱KṮḄ - la profesoro estas en la oficejo
+* Q̱̱Ḻ Ḷ L W̱ḺḌ: - li diris al la knabo:
