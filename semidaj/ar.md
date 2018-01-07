@@ -16,7 +16,7 @@
 
 ## (4) ̄L̄ ṞJ̥L̥ - la viro
 
-* M̱̱ ḴṮḆ L ṞJ̥L̥? - kion skribis la viro?
+* M̱̱Đ̱̱ ḴṮḆ L ṞJ̥L̥? - kion skribis la viro?
 * ḴṮḆ L ḲṮ̱Ḇ - li skribis la libron
 
 ## (5) F̤ L Ḇ̣Ṭ - en la domo
@@ -27,7 +27,7 @@
 ## (6) ̄L̄ W̱̱ḶD̥ - la patro
 
 * ḎX̱Ḻ L W̱̱ḶD̥ L Ḇ̣Ṯ - eniris la patro la domon
-* M̱̱ W̱J̱Ḏ L W̱̱ḶD̥? - kion trovis la patro?
+* M̱̱Đ̱̱ W̱J̱Ḏ L W̱̱ḶD̥? - kion trovis la patro?
 * W̱J̱Ḏ L ḲṮ̱Ḇ - li trovis la libron
 * ̄L̄ W̱̱ḶD̥ W̱ L W̱ḺD̥ F̤L Ḇ̣Ṭ - la patro kaj la knabo estas en la domo
 
@@ -56,7 +56,7 @@
 
 * ̄L̄ S̊Ṯ̱Đ̥ F̤L M̱KṮḄ - la profesoro estas en la oficejo
 * Q̱̱Ḻ ḶL W̱ḺḌ: - li diris al la knabo:
-* ̄̄NṮ, M̱̱ ̄X̱ĐṮ? - vi, kion vi prenis?
+* ̄̄NṮ, M̱̱Đ̱̱ ̄X̱ĐṮ? - vi, kion vi prenis?
 * ̄̄Ṉ̱ ̄X̱ĐT̥ Q̱ḺM̱ L ḄNṬ - mi prenis la skribilon de la knabino
 
 ## (11)
