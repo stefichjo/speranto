@@ -1,8 +1,11 @@
-# Araba Lingvo
+# La Araba Lingvo
 
-## (1) ḴṮḆ - li skribis
+## (1) كتب
+*(ḴṮḆ — li skribis)*
 
-* ḴṮḆ L Ḵ̱ṬB̥ - skribis la skribisto
+| كتب الكاتب |
+|:-|
+| ḴṮḆ L Ḵ̱ṬB̥ — skribis la skribisto |
 
 ## (2) ̄L̄ Ḵ̱ṬB̥ - la skribisto
 
