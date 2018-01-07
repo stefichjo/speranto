@@ -8,7 +8,7 @@
 | B̥ṬḴ̱-L ḆṮḴ — skribis la skribisto |
 
 ## (2) الكاتب
-*(B̥ṬḴ̱-̄L̄ - la skribisto)*
+*(B̥ṬḴ̱-̄L̄ — la skribisto)*
 
 | جلس الكاتب |
 |:-|
