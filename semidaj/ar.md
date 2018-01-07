@@ -1,16 +1,22 @@
 # La Araba Lingvo
 
 ## (1) كتب
-*(ḴṮḆ — li skribis)*
+*(ḆṮḴ — li skribis)*
 
 | كتب الكاتب |
 |:-|
 | B̥ṬḴ̱-L ḆṮḴ — skribis la skribisto |
 
-## (2) ̄L̄ Ḵ̱ṬB̥ - la skribisto
+## (2) الكاتب
+*(B̥ṬḴ̱-̄L̄ - la skribisto)*
 
-* J̱ḺS̱ L Ḵ̱ṬB̥ - sidiĝis la skribisto
-* J̱ḺS̱ W̱ ḴṮḆ - li sidiĝis kaj skribis
+| جلس الكاتب |
+|:-|
+| B̥ṬḴ̱-L S̱ḺJ̱ — sidiĝis la skribisto |
+
+| جلس وكتب |
+|:-|
+| ḆṮḴ-W̱ S̱ḺJ̱ — li sidiĝis kaj skribis |
 
 ## (3) ̄L̄ W̱ḺD̥ - la knabo
 
