@@ -48,7 +48,7 @@
 ## (9) Ḅ L Q̱ḺṂ - per la skribilo
 
 * W̱J̱Ḏ L W̱ḺD̥ L ḄNṮ W̱ Q̱̱Ḻ: - trovis la knabo la knabinon kaj diris:
-* ̄̄Ṉ̱ ḎṞST̥ F̤ L ḲṮ̱Ḅ - mi lernis en la libro
+* ̄Ṉ̱ ḎṞST̥ F̤ L ḲṮ̱Ḅ - mi lernis en la libro
 * W̱ ḴṮBT̥ ḄL Q̱ḺṂ - kaj mi skribis per la skribilo
 * ̄L Q̱ḺM̥ Q̱ḺM̥Ḳ - la skribilo estas via skribilo
 
@@ -56,7 +56,7 @@
 
 * ̄L S̊Ṯ̱Đ̥ F̤ L M̱KṮḄ - la profesoro estas en la oficejo
 * Q̱̱Ḻ Ḷ L W̱ḺḌ: - li diris al la knabo:
-* ̄̄NṮ, M̱̱Đ̱̱ ̄X̱ĐṮ? - vi, kion vi prenis?
-* ̄̄Ṉ̱ ̄X̱ĐT̥ Q̱ḺM̱ L ḄNṬ - mi prenis la skribilon de la knabino
+* ̄NṮ, M̱̱Đ̱̱ ̄X̱ĐṮ? - vi, kion vi prenis?
+* ̄Ṉ̱ ̄X̱ĐT̥ Q̱ḺM̱ L ḄNṬ - mi prenis la skribilon de la knabino
 
 ## (11)
