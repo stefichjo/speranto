@@ -5,7 +5,7 @@
 
 | كتب الكاتب |
 |:-|
-| ḴṮḆ L Ḵ̱ṬB̥ — skribis la skribisto |
+| B̥ṬḴ̱-L ḆṮḴ — skribis la skribisto |
 
 ## (2) ̄L̄ Ḵ̱ṬB̥ - la skribisto
 
