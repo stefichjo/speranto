@@ -11,7 +11,7 @@
 | skribis la skribisto |
 
 ## (2) الكاتب
-*(B̥ṬḴ̱-̄L̄ — la skribisto)*
+*(B̥ṬḴ̱-Lʔ̱⁠ — la skribisto)*
 
 | جلس الكاتب |
 |:-|
@@ -26,7 +26,7 @@
 | li sidiĝis kaj skribis |
 
 ## (3) الولد
-*(D̥ḺW̱-̄L — la knabo)*
+*(D̥ḺW̱-Lʔ̱ — la knabo)*
 
 | دخل الولد |
 |:-|
@@ -40,29 +40,39 @@
 | kataba wa-darasa |
 | li skribis kaj lernis |
 
-## (4) ̄L̄ ṞJ̥L̥ - la viro
+## (4) الرجل
+*(̥LJ̥Ṟ-̄L — la viro)*
 
-* M̱̱ ḴṮḆ L ṞJ̥L̥? - kion skribis la viro?
-* ḴṮḆ L ḲṮ̱Ḇ - li skribis la libron
+| ماذا كتب الرجل؟ |
+|:-|
+| ؟ ̥LJ̥Ṟ-L ḆṮḴ Đ̱̱M̱̱ |
+| maađaa kataba l-rajulu? |
+| kion skribis la viro? |
+
+| كتب الكتاب |
+|:-|
+| ḆṮ̱Ḳ-L ḆṮḴ |
+| kataba l-kitaaba |
+| li skribis la libron |
 
 ## (5) F̤ L Ḇ̣Ṭ - en la domo
 
-* ḎX̱Ḻ L Ḇ̣Ṯ - li eniris la domon
-* ̄L̄ ṞJ̥L̥ F̤L Ḇ̣Ṭ - la viro estas en la domo
+* ḎX̱Ḻ L ḆYṮ - li eniris la domon
+* ̄L̄ ṞJ̥L̥ F̤L ḆYṬ - la viro estas en la domo
 
 ## (6) ̄L̄ W̱̱ḶD̥ - la patro
 
-* ḎX̱Ḻ L W̱̱ḶD̥ L Ḇ̣Ṯ - eniris la patro la domon
+* ḎX̱Ḻ L W̱̱ḶD̥ L ḆYṮ - eniris la patro la domon
 * M̱̱ W̱J̱Ḏ L W̱̱ḶD̥? - kion trovis la patro?
 * W̱J̱Ḏ L ḲṮ̱Ḇ - li trovis la libron
-* ̄L̄ W̱̱ḶD̥ W̱ L W̱ḺD̥ F̤L Ḇ̣Ṭ - la patro kaj la knabo estas en la domo
+* ̄L̄ W̱̱ḶD̥ W̱ L W̱ḺD̥ F̤L ḆYṬ - la patro kaj la knabo estas en la domo
 
 ## (7)
 
 * J̱ḺS̱ L Ḵ̱ṬB̥ W̱ ḴṮḆ L ḲṮ̱Ḇ - sidiĝis la skribisto kaj skribis la libron
 * ḎX̱Ḻ L W̱ḺD̥ W̱ ḎṞS̱ F̤L ḲṮ̱Ḅ - eniris la knabo kaj lernis en la libro
-* ḎX̱Ḻ L ṞJ̥L̥ L Ḇ̣Ṯ W̱ W̱J̱Ḏ L W̱ḺḎ - eniris la viro la domon kaj trovis la knabon
-* ̄L̄ ṞJ̥L̥ W̱ L W̱̱ḶD̥ F̤L Ḇ̣Ṭ - la viro kaj la patro estas en la domo
+* ḎX̱Ḻ L ṞJ̥L̥ L ḆYṮ W̱ W̱J̱Ḏ L W̱ḺḎ - eniris la viro la domon kaj trovis la knabon
+* ̄L̄ ṞJ̥L̥ W̱ L W̱̱ḶD̥ F̤L ḆYṬ - la viro kaj la patro estas en la domo
 
 ## (8) ̄L̄ ḄNT̥ - la knabino
 
