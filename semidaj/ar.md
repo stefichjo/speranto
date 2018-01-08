@@ -1,4 +1,5 @@
 # La Araba Lingvo
+*(ekzemploj el "Arabisch ohne Mühe heute" el la eldonejo Assimil)*
 
 ## (1) كتب
 *(ḆṮḴ — li skribis)*
@@ -49,8 +50,8 @@
 
 ## (8) ̄L̄ ḄNT̥ - la knabino
 
-* M̱N ḎX̱Ḻ L M̱KṮḆ? - kiu eniris la oficejon?
-* ḎX̱ḺT L̇ ḄNT̥ L M̱KṮḆ - eniris la knabino la oficejon
+* M̱N ḎX̱Ḻ L M̱KṮḆ? - kiu eniris la skribejon?
+* ḎX̱ḺT L̇ ḄNT̥ L M̱KṮḆ - eniris la knabino la skribejon
 * J̱ḺS̱T W̱ ḎṞS̱T - ŝi sidiĝis kaj lernis
 * W̱ X̱ṞJ̱T - kaj ŝi eliris
 
@@ -63,7 +64,7 @@
 
 ## (10) Q̱ḺM̥ L ḄNṬ - la skribilo de la knabino
 
-* ̄L̄ S̊Ṯ̱Đ̥ F̤L M̱KṮḄ - la profesoro estas en la oficejo
+* ̄L̄ S̊Ṯ̱Đ̥ F̤L M̱KṮḄ - la profesoro estas en la skribejo
 * Q̱̱Ḻ ḶL W̱ḺḌ: - li diris al la knabo:
 * ̄̄NṮ, M̱̱ ̄X̱ĐṮ? - vi, kion vi prenis?
 * ̄̄Ṉ̱ ̄X̱ĐT̥ Q̱ḺM̱ L ḄNṬ - mi prenis la skribilon de la knabino
