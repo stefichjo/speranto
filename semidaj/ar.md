@@ -1,13 +1,23 @@
-# Araba Lingvo
+# La Araba Lingvo
+*(ekzemploj el "Arabisch ohne Mühe heute" el la eldonejo Assimil)*
 
-## (1) ḴṮḆ - li skribis
+## (1) كتب
+*(ḆṮḴ — li skribis)*
 
-* ḴṮḆ L Ḵ̱ṬB̥ - skribis la skribisto
+| كتب الكاتب |
+|:-|
+| B̥ṬḴ̱-L ḆṮḴ — skribis la skribisto |
 
-## (2) ʔ̱L Ḵ̱ṬB̥ - la skribisto
+## (2) الكاتب
+*(B̥ṬḴ̱ Lʔ̱ — la skribisto)*
 
-* J̱ḺS̱ L Ḵ̱ṬB̥ - sidiĝis la skribisto
-* J̱ḺS̱ W̱ ḴṮḆ - li sidiĝis kaj skribis
+| جلس الكاتب |
+|:-|
+| B̥ṬḴ̱-L S̱ḺJ̱ — sidiĝis la skribisto |
+
+| جلس وكتب |
+|:-|
+| ḆṮḴ-W̱ S̱ḺJ̱ — li sidiĝis kaj skribis |
 
 ## (3) ʔ̱L W̱ḺD̥ - la knabo
 
@@ -40,8 +50,8 @@
 
 ## (8) ʔ̱L ḄNT̥ - la knabino
 
-* M̱N ḎX̱Ḻ L M̱KṮḆ? - kiu eniris la oficejon?
-* ḎX̱ḺT L̇ ḄNT̥ L M̱KṮḆ - eniris la knabino la oficejon
+* M̱N ḎX̱Ḻ L M̱KṮḆ? - kiu eniris la skribejon?
+* ḎX̱ḺT L̇ ḄNT̥ L M̱KṮḆ - eniris la knabino la skribejon
 * J̱ḺS̱T W̱ ḎṞS̱T - ŝi sidiĝis kaj lernis
 * W̱ X̱ṞJ̱T - kaj ŝi eliris
 
@@ -54,8 +64,9 @@
 
 ## (10) Q̱ḺM̥ L ḄNṬ - la skribilo de la knabino
 
-* ʔ̱L ʔ̥SṮ̱Đ̥ F̤ L M̱KṮḄ - la profesoro estas en la oficejo
+* ̄ʔ̱L ʔ̥SṮ̱Đ̥ F̤ L M̱KṮḄ - la profesoro estas en la skribejo
 * Q̱̱Ḻ Ḷ L W̱ḺḌ: - li diris al la knabo:
+
 * ʔ̱NṮ, M̱̱Đ̱̱ ʔ̱X̱ĐṮ? - vi, kion vi prenis?
 * ʔ̱Ṉ̱ ʔ̱X̱ĐT̥ Q̱ḺM̱ L ḄNṬ - mi prenis la skribilon de la knabino
 
