@@ -6,18 +6,21 @@
 
 | كتب الكاتب |
 |:-|
-| B̥ṬḴ̱-L ḆṮḴ — skribis la skribisto |
+| B̥ṬḴ̱-L ḆṮḴ |
+| skribis la skribisto |
 
 ## (2) الكاتب
 *(B̥ṬḴ̱-̄L̄ — la skribisto)*
 
 | جلس الكاتب |
 |:-|
-| B̥ṬḴ̱-L S̱ḺJ̱ — sidiĝis la skribisto |
+| B̥ṬḴ̱-L S̱ḺJ̱ |
+| sidiĝis la skribisto |
 
 | جلس وكتب |
 |:-|
-| ḆṮḴ-W̱ S̱ḺJ̱ — li sidiĝis kaj skribis |
+| ḆṮḴ-W̱ S̱ḺJ̱ |
+| li sidiĝis kaj skribis |
 
 ## (3) ̄L̄ W̱ḺD̥ - la knabo
 
