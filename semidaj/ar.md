@@ -22,13 +22,23 @@
 | جلس وكتب |
 |:-|
 | ḆṮḴ-W̱ S̱ḺJ̱ |
-| jalasa wa kataba |
+| jalasa wa-kataba |
 | li sidiĝis kaj skribis |
 
-## (3) ̄L̄ W̱ḺD̥ - la knabo
+## (3) الولد
+*(D̥ḺW̱-̄L — la knabo)*
 
-* ḎX̱Ḻ L W̱ḺD̥ - eniris la knabo
-* ḴṮḆ W̱ ḎṞS̱ - li skribis kaj lernis
+| دخل الولد |
+|:-|
+| D̥ḺW̱-L ḺX̱Ḏ |
+| daxala l-waladu |
+| eniris la knabo |
+
+| كتب ودرس |
+|:-|
+| S̱ṞḎ-W̱ ḆṮḴ |
+| kataba wa-darasa |
+| li skribis kaj lernis |
 
 ## (4) ̄L̄ ṞJ̥L̥ - la viro
 
