@@ -41,7 +41,7 @@
 | li skribis kaj lernis |
 
 ## (4) الرجل
-*(̥LJ̥Ṟ-̄L — la viro)*
+*(̥LJ̥Ṟ-Lʔ̱ — la viro)*
 
 | ماذا كتب الرجل؟ |
 |:-|
@@ -55,44 +55,153 @@
 | kataba l-kitaaba |
 | li skribis la libron |
 
-## (5) F̤ L Ḇ̣Ṭ - en la domo
+## (5) في ابىت
+*(ṬYḆ-L F̤ — en la domo)*
 
-* ḎX̱Ḻ L ḆYṮ - li eniris la domon
-* ̄L̄ ṞJ̥L̥ F̤L ḆYṬ - la viro estas en la domo
+| دخل البىت |
+|:-|
+| ṮYḆ-L ḺX̱Ḏ |
+| daxala l-bayta |
+| li eniris la domon |
 
-## (6) ̄L̄ W̱̱ḶD̥ - la patro
+| الرحل في البىت |
+|:-|
+| ṬYḆ-L F̤ L̥J̥Ṟ Lʔ̱ |
+| 'al-rajulu fii l-bayti |
+| la viro estas en la domo |
 
-* ḎX̱Ḻ L W̱̱ḶD̥ L ḆYṮ - eniris la patro la domon
-* M̱̱ W̱J̱Ḏ L W̱̱ḶD̥? - kion trovis la patro?
-* W̱J̱Ḏ L ḲṮ̱Ḇ - li trovis la libron
-* ̄L̄ W̱̱ḶD̥ W̱ L W̱ḺD̥ F̤L ḆYṬ - la patro kaj la knabo estas en la domo
+## (6) الوالد
+*(D̥ḶW̱̱-Lʔ̱ — la patro)*
+
+| … |
+|:-|
+| ṮYḆ-L D̥ḶW̱̱-L ḺX̱Ḏ |
+| daxala l-waalidu l-bayta |
+| eniris la patro la domon |
+
+| … |
+|:-|
+| ؟ D̥ḶW̱̱-L ḎJ̱W̱ Đ̱̱M̱̱ |
+| maađaa wajada l-waalidu? |
+| kion trovis la patro? |
+
+| … |
+|:-|
+| ḆṮ̱Ḳ-L ḎJ̱W̱ |
+| wajada l-kitaaba |
+| li trovis la libron |
+
+| … |
+|:-|
+| ṬYḆ-L F̤ D̥ḺW̱-L W̱ D̥ḶW̱̱ Lʔ̱ |
+| 'al waalidu wa l-waladu fii l-bayti |
+| la patro kaj la knabo estas en la domo |
 
 ## (7)
 
-* J̱ḺS̱ L Ḵ̱ṬB̥ W̱ ḴṮḆ L ḲṮ̱Ḇ - sidiĝis la skribisto kaj skribis la libron
-* ḎX̱Ḻ L W̱ḺD̥ W̱ ḎṞS̱ F̤L ḲṮ̱Ḅ - eniris la knabo kaj lernis en la libro
-* ḎX̱Ḻ L ṞJ̥L̥ L ḆYṮ W̱ W̱J̱Ḏ L W̱ḺḎ - eniris la viro la domon kaj trovis la knabon
-* ̄L̄ ṞJ̥L̥ W̱ L W̱̱ḶD̥ F̤L ḆYṬ - la viro kaj la patro estas en la domo
+| … |
+|:-|
+| ḆṮ̱Ḳ-L ḆṮḴ-W̱ B̥ṬḴ̱-L S̱ḺJ̱ |
+| jalasa l-kaatibu wa-kataba l-kitaaba |
+| sidiĝis la skribisto kaj skribis la libron |
 
-## (8) ̄L̄ ḄNT̥ - la knabino
+| … |
+|:-|
+| ḄṮ̱Ḳ-L F̤ S̱ṞḎ-W̱ D̥ḺW̱-L ḺX̱Ḏ |
+| daxala l-waladu wa-darasa fii l-kitaabi |
+| eniris la knabo kaj lernis en la libro |
 
-* M̱N ḎX̱Ḻ L M̱KṮḆ? - kiu eniris la skribejon?
-* ḎX̱ḺT L̇ ḄNT̥ L M̱KṮḆ - eniris la knabino la skribejon
-* J̱ḺS̱T W̱ ḎṞS̱T - ŝi sidiĝis kaj lernis
-* W̱ X̱ṞJ̱T - kaj ŝi eliris
+| … |
+|:-|
+| ḎḺW̱-L ḎJ̱W̱-W̱ ṮYḆ-L L̥J̥Ṟ-L ḺX̱Ḏ |
+| daxala l-rajulu l-bayta wa-wajada l-walada |
+| eniris la viro la domon kaj trovis la knabon |
 
-## (9) Ḅ L Q̱ḺṂ - per la skribilo
+| … |
+|:-|
+| ṬYḆ-L F̤ D̥ḶW̱̱-L-W̱ L̥J̥Ṟ-Lʔ̱ |
+| 'al-rajulu wa-l-waalidu fii l-bayti |
+| la viro kaj la patro estas en la domo |
 
-* W̱J̱Ḏ L W̱ḺD̥ L ḄNṮ W̱ Q̱̱Ḻ: - trovis la knabo la knabinon kaj diris:
-* ̄̄Ṉ̱ ḎṞST̥ F̤L ḲṮ̱Ḅ - mi lernis en la libro
-* W̱ ḴṮBT̥ ḄL Q̱ḺṂ - kaj mi skribis per la skribilo
-* ̄L̄ Q̱ḺM̥ Q̱ḺM̥Ḳ - la skribilo estas via skribilo
+## (8) البنت
+*(T̥NḄ-Lʔ̱ — la knabino)*
 
-## (10) Q̱ḺM̥ L ḄNṬ - la skribilo de la knabino
+| … |
+|:-|
+| ؟ ḆṮKM̱-L ḺX̱Ḏ NM̱ |
+| man daxala l-maktaba? |
+| kiu eniris la skribejon? |
 
-* ̄L̄ S̊Ṯ̱Đ̥ F̤L M̱KṮḄ - la profesoro estas en la skribejo
-* Q̱̱Ḻ ḶL W̱ḺḌ: - li diris al la knabo:
-* ̄̄NṮ, M̱̱ ̄X̱ĐṮ? - vi, kion vi prenis?
-* ̄̄Ṉ̱ ̄X̱ĐT̥ Q̱ḺM̱ L ḄNṬ - mi prenis la skribilon de la knabino
+| … |
+|:-|
+| ḆṮKM̱-L T̥NḄ-L̇-TḺX̱Ḏ |
+| daxalat-i-l-bintu l-maktaba |
+| eniris la knabino la skribejon |
+
+| … |
+|:-|
+| TS̱ṞḎ-W̱ TS̱ḺJ̱ |
+| jalasat wa-darasat |
+| ŝi sidiĝis kaj lernis |
+
+| … |
+|:-|
+| TJ̱ṞX̱-W̱ |
+| wa-xarajat |
+| kaj ŝi eliris |
+
+## (9) …
+*(MḺQ̱-L-Ḅ — per la skribilo)*
+
+| … |
+|:-|
+| :ḺQ̱̱-W̱ ṮNḄ-L D̥ḺW̱-L ḎJ̱W̱ |
+| wajada l-waladu l-bintu wa-qaala: |
+| trovis la knabo la knabinon kaj diris: |
+
+| … |
+|:-|
+| ḄṮ̱Ḳ-L F̤ T̥SṞḎ Ṉ̱ʔ̱ |
+| 'anaa darastu fii l-kitaabi |
+| mi lernis en la libro |
+
+| … |
+|:-|
+| ṂḺQ̱-L-Ḅ T̥BṮḴ-W̱ |
+| wa-katabtu bi-l-qalami |
+| kaj mi skribis per la skribilo |
+
+| … |
+|:-|
+| Ḳ-M̥ḺQ̱ M̥ḺQ̱-Lʔ̱ |
+| 'al-qalamu qalamu-ki |
+| la skribilo estas via skribilo |
+
+## (10) …
+*(ṬNḄ-L M̥ḺQ̱ — la skribilo de la knabino)*
+
+| … |
+|:-|
+| ḄṮKM̱-L F̤ Đ̥Ṯ̱Sʔ̥ Lʔ̱ |
+| 'al 'ustaađu fii l-maktabi |
+| la profesoro estas en la skribejo |
+
+| … |
+|:-|
+| :ḌḺW̱-L-Ḷ ḺQ̱̱ |
+| qaala li-l-waladi: |
+| li diris al la knabo: |
+
+| … |
+|:-|
+| ؟ ṮĐX̱ʔ̱ Đ̱̱M̱̱ ,ṮNʔ̱ |
+| 'anta, maađaa 'axađta? |
+| vi, kion vi prenis? |
+
+| … |
+|:-|
+| ṬNḄ-L M̱ḺQ̱ T̥ĐX̱ʔ̱ Ṉ̱ʔ̱ |
+| 'anaa 'axađtu qalama l-binti |
+| mi prenis la skribilon de la knabino |
 
 ## (11)
