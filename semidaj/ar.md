@@ -2,7 +2,7 @@
 *(ekzemploj el "Arabisch ohne Mühe heute" el la eldonejo Assimil)*
 
 ## (1) كتب
-*(ḆṮḴ — li skribis)*
+*(ḆṮḴ — kataba — li skribis)*
 
 | كتب الكاتب |
 |:-|
@@ -11,7 +11,7 @@
 | skribis la skribisto |
 
 ## (2) الكاتب
-*(B̥ṬḴ̱-Lʔ̱⁠ — la skribisto)*
+*(B̥ṬḴ̱-Lʔ̱⁠ — 'al-kaatibu — la skribisto)*
 
 | جلس الكاتب |
 |:-|
@@ -26,11 +26,11 @@
 | li sidiĝis kaj skribis |
 
 ## (3) الولد
-*(D̥ḺW̱-Lʔ̱ — la knabo)*
+*(D̥ḺW̱-Lʔ̱ — 'al-waladu — la knabo)*
 
 | دخل الولد |
 |:-|
-| D̥ḺW̱-L ḺX̱Ḏ |
+| D̥ḺW̱-L' ḺX̱Ḏ |
 | daxala l-waladu |
 | eniris la knabo |
 
@@ -41,22 +41,22 @@
 | li skribis kaj lernis |
 
 ## (4) الرجل
-*(̥LJ̥Ṟ-Lʔ̱ — la viro)*
+*(̥LJ̥Ṟ-Lʔ̱ — 'al-rajulu — la viro)*
 
 | ماذا كتب الرجل؟ |
 |:-|
-| ؟ ̥LJ̥Ṟ-L ḆṮḴ Đ̱̱M̱̱ |
+| ؟ ̥LJ̥Ṟ-L' ḆṮḴ Đ̱̱M̱̱ |
 | maađaa kataba l-rajulu? |
 | kion skribis la viro? |
 
-| كتب الكتاب |
+| كتب الكتلب |
 |:-|
-| ḆṮ̱Ḳ-L ḆṮḴ |
+| ḆṮ̱Ḳ-L' ḆṮḴ |
 | kataba l-kitaaba |
 | li skribis la libron |
 
-## (5) في ابىت
-*(ṬYḆ-L F̤ — en la domo)*
+## (5) في البىت
+*(ṬYḆ-L F̤ — fii l-bayti — en la domo)*
 
 | دخل البىت |
 |:-|
@@ -64,87 +64,88 @@
 | daxala l-bayta |
 | li eniris la domon |
 
-| الرحل في البىت |
+| الرجل في البىت |
 |:-|
 | ṬYḆ-L F̤ L̥J̥Ṟ Lʔ̱ |
 | 'al-rajulu fii l-bayti |
 | la viro estas en la domo |
 
 ## (6) الوالد
-*(D̥ḶW̱̱-Lʔ̱ — la patro)*
+*(D̥ḶW̱̱-Lʔ̱ — 'al-waalidu — la patro)*
 
-| … |
+| دخل الوالد البىت |
 |:-|
 | ṮYḆ-L D̥ḶW̱̱-L ḺX̱Ḏ |
 | daxala l-waalidu l-bayta |
 | eniris la patro la domon |
 
-| … |
+| ماذا وجد الوالد؟ |
 |:-|
 | ؟ D̥ḶW̱̱-L ḎJ̱W̱ Đ̱̱M̱̱ |
 | maađaa wajada l-waalidu? |
 | kion trovis la patro? |
 
-| … |
+| وجد الكتاب |
 |:-|
 | ḆṮ̱Ḳ-L ḎJ̱W̱ |
 | wajada l-kitaaba |
 | li trovis la libron |
 
-| … |
+| الوالد والولد في البىت |
 |:-|
-| ṬYḆ-L F̤ D̥ḺW̱-L W̱ D̥ḶW̱̱ Lʔ̱ |
-| 'al waalidu wa l-waladu fii l-bayti |
+| ṬYḆ-L F̤ D̥ḺW̱-L-W̱ D̥ḶW̱̱-Lʔ̱ |
+| 'al-waalidu wa-l-waladu fii l-bayti |
 | la patro kaj la knabo estas en la domo |
 
 ## (7)
 
-| … |
+| جلس الكاتب وكتب الكتاب |
 |:-|
 | ḆṮ̱Ḳ-L ḆṮḴ-W̱ B̥ṬḴ̱-L S̱ḺJ̱ |
 | jalasa l-kaatibu wa-kataba l-kitaaba |
 | sidiĝis la skribisto kaj skribis la libron |
 
-| … |
+| دخل الولد ودرس في الكتاب |
 |:-|
 | ḄṮ̱Ḳ-L F̤ S̱ṞḎ-W̱ D̥ḺW̱-L ḺX̱Ḏ |
 | daxala l-waladu wa-darasa fii l-kitaabi |
 | eniris la knabo kaj lernis en la libro |
 
-| … |
+| دخل الرجل البىت ووجد الولد |
 |:-|
 | ḎḺW̱-L ḎJ̱W̱-W̱ ṮYḆ-L L̥J̥Ṟ-L ḺX̱Ḏ |
 | daxala l-rajulu l-bayta wa-wajada l-walada |
 | eniris la viro la domon kaj trovis la knabon |
 
-| … |
+| الرجل والوالد في البىت |
 |:-|
 | ṬYḆ-L F̤ D̥ḶW̱̱-L-W̱ L̥J̥Ṟ-Lʔ̱ |
 | 'al-rajulu wa-l-waalidu fii l-bayti |
 | la viro kaj la patro estas en la domo |
 
-## (8) البنت
-*(T̥NḄ-Lʔ̱ — la knabino)*
 
-| … |
+## (8) البنت
+*(T̥NḄ-Lʔ̱ — 'al-bintu — la knabino)*
+
+| من دخل المكتب؟ |
 |:-|
 | ؟ ḆṮKM̱-L ḺX̱Ḏ NM̱ |
 | man daxala l-maktaba? |
 | kiu eniris la skribejon? |
 
-| … |
+| دخلت البنت المكتب |
 |:-|
-| ḆṮKM̱-L T̥NḄ-L̇-TḺX̱Ḏ |
-| daxalat-i-l-bintu l-maktaba |
+| ḆṮKM̱-L T̥NḄ-L̇ TḺX̱Ḏ |
+| daxalat i-l-bintu l-maktaba |
 | eniris la knabino la skribejon |
 
-| … |
+| جلست ودرست |
 |:-|
 | TS̱ṞḎ-W̱ TS̱ḺJ̱ |
 | jalasat wa-darasat |
 | ŝi sidiĝis kaj lernis |
 
-| … |
+| وخرجت |
 |:-|
 | TJ̱ṞX̱-W̱ |
 | wa-xarajat |
