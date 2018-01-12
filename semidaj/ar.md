@@ -151,58 +151,61 @@
 | wa-xarajat |
 | kaj ŝi eliris |
 
-## (9) …
+
+## (9) بالقلم
 *(MḺQ̱-L-Ḅ — per la skribilo)*
 
-| … |
+| وجد الولد البنت وقل |
 |:-|
 | :ḺQ̱̱-W̱ ṮNḄ-L D̥ḺW̱-L ḎJ̱W̱ |
 | wajada l-waladu l-bintu wa-qaala: |
 | trovis la knabo la knabinon kaj diris: |
 
-| … |
+| انا درست في الكتاب |
 |:-|
 | ḄṮ̱Ḳ-L F̤ T̥SṞḎ Ṉ̱ʔ̱ |
 | 'anaa darastu fii l-kitaabi |
 | mi lernis en la libro |
 
-| … |
+| و كتبت بالقلم |
 |:-|
 | ṂḺQ̱-L-Ḅ T̥BṮḴ-W̱ |
 | wa-katabtu bi-l-qalami |
 | kaj mi skribis per la skribilo |
 
-| … |
+| القلم قلمك |
 |:-|
 | Ḳ-M̥ḺQ̱ M̥ḺQ̱-Lʔ̱ |
 | 'al-qalamu qalamu-ki |
 | la skribilo estas via skribilo |
 
-## (10) …
+## (10) قلم البنت
 *(ṬNḄ-L M̥ḺQ̱ — la skribilo de la knabino)*
 
-| … |
+| الاستاذ قي المكتب |
 |:-|
-| ḄṮKM̱-L F̤ Đ̥Ṯ̱Sʔ̥ Lʔ̱ |
-| 'al 'ustaađu fii l-maktabi |
+| ḄṮKM̱-L F̤ Đ̥Ṯ̱Sʔ̥-Lʔ̱ |
+| 'al-'ustaađu fii l-maktabi |
 | la profesoro estas en la skribejo |
 
-| … |
+| قال للولد |
 |:-|
 | :ḌḺW̱-L-Ḷ ḺQ̱̱ |
 | qaala li-l-waladi: |
 | li diris al la knabo: |
 
-| … |
+| انت ماذا اخذت؟ |
 |:-|
 | ؟ ṮĐX̱ʔ̱ Đ̱̱M̱̱ ,ṮNʔ̱ |
 | 'anta, maađaa 'axađta? |
 | vi, kion vi prenis? |
 
-| … |
+| انا اخذت قلم البنت |
 |:-|
 | ṬNḄ-L M̱ḺQ̱ T̥ĐX̱ʔ̱ Ṉ̱ʔ̱ |
 | 'anaa 'axađtu qalama l-binti |
 | mi prenis la skribilon de la knabino |
 
-## (11)
+## (11) في السوق
+*(Q̣WS̥-L F̤ — en la merkato)*
+
