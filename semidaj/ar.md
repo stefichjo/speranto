@@ -7,16 +7,16 @@
 | كتب الكاتب |
 |:-|
 | B̥ṬḴ̱-L- ḆṮḴ |
-| kataba -l-kaatibu |
+| kataba -l-kātibu |
 | skribis la skribisto |
 
 ## (2) الكاتب
-*(B̥ṬḴ̱-Lʔ̱⁠ — 'al-kaatibu — la skribisto)*
+*(B̥ṬḴ̱-Lʔ̱⁠ — 'al-kātibu — la skribisto)*
 
 | جلس الكاتب |
 |:-|
 | B̥ṬḴ̱-L- S̱ḺJ̱ |
-| jalasa -l-kaatibu |
+| jalasa -l-kātibu |
 | sidiĝis la skribisto |
 
 | جلس وكتب |
@@ -46,55 +46,55 @@
 | ماذا كتب الرجل؟ |
 |:-|
 | ؟ ̥LJ̥Ṟ-L- ḆṮḴ Đ̱̱M̱̱ |
-| maađaa kataba -l-rajulu? |
+| māđā kataba -l-rajulu? |
 | kion skribis la viro? |
 
 | كتب الكتلب |
 |:-|
 | ḆṮ̱Ḳ-L- ḆṮḴ |
-| kataba -l-kitaaba |
+| kataba -l-kitāba |
 | li skribis la libron |
 
 ## (5) في البيت
-*(ṬYḆ-L F̤ — fii -l-bayti — en la domo)*
+*(ṬYḆ-L F̤ — fī -l-bạti — en la domo)*
 
 | دخل البيت |
 |:-|
 | ṮYḆ-L- ḺX̱Ḏ |
-| daxala -l-bayta |
+| daxala -l-bạta |
 | li eniris la domon |
 
 | الرجل في البيت |
 |:-|
 | ṬYḆ-L- F̤ L̥J̥Ṟ Lʔ̱ |
-| 'al-rajulu fii -l-bayti |
+| 'al-rajulu fī -l-bạti |
 | la viro estas en la domo |
 
 ## (6) الوالد
-*(D̥ḶW̱̱-Lʔ̱ — 'al-waalidu — la patro)*
+*(D̥ḶW̱̱-Lʔ̱ — 'al-wālidu — la patro)*
 
 | دخل الوالد البيت |
 |:-|
 | ṮYḆ-L- D̥ḶW̱̱-L- ḺX̱Ḏ |
-| daxala -l-waalidu -l-bayta |
+| daxala -l-wālidu -l-bạta |
 | eniris la patro la domon |
 
 | ماذا وجد الوالد؟ |
 |:-|
 | ؟ D̥ḶW̱̱-L- ḎJ̱W̱ Đ̱̱M̱̱ |
-| maađaa wajada -l-waalidu? |
+| māđā wajada -l-wālidu? |
 | kion trovis la patro? |
 
 | وجد الكتاب |
 |:-|
 | ḆṮ̱Ḳ-L- ḎJ̱W̱ |
-| wajada -l-kitaaba |
+| wajada -l-kitāba |
 | li trovis la libron |
 
 | الوالد والولد في البيت |
 |:-|
 | ṬYḆ-L- F̤ D̥ḺW̱-L-W̱ D̥ḶW̱̱-Lʔ̱ |
-| 'al-waalidu wa-l-waladu fii -l-bayti |
+| 'al-wālidu wa-l-waladu fī -l-bạti |
 | la patro kaj la knabo estas en la domo |
 
 ## (7)
@@ -102,25 +102,25 @@
 | جلس الكاتب وكتب الكتاب |
 |:-|
 | ḆṮ̱Ḳ-L- ḆṮḴ-W̱ B̥ṬḴ̱-L- S̱ḺJ̱ |
-| jalasa -l-kaatibu wa-kataba -l-kitaaba |
+| jalasa -l-kātibu wa-kataba -l-kitāba |
 | sidiĝis la skribisto kaj skribis la libron |
 
 | دخل الولد ودرس في الكتاب |
 |:-|
 | ḄṮ̱Ḳ-L- F̤ S̱ṞḎ-W̱ D̥ḺW̱-L- ḺX̱Ḏ |
-| daxala -l-waladu wa-darasa fii -l-kitaabi |
+| daxala -l-waladu wa-darasa fī -l-kitābi |
 | eniris la knabo kaj lernis en la libro |
 
 | دخل الرجل البيت ووجد الولد |
 |:-|
 | ḎḺW̱-L- ḎJ̱W̱-W̱ ṮYḆ-L- L̥J̥Ṟ-L- ḺX̱Ḏ |
-| daxala -l-rajulu -l-bayta wa-wajada -l-walada |
+| daxala -l-rajulu -l-bạta wa-wajada -l-walada |
 | eniris la viro la domon kaj trovis la knabon |
 
 | الرجل والوالد في البيت |
 |:-|
 | ṬYḆ-L- F̤ D̥ḶW̱̱-L-W̱ L̥J̥Ṟ-Lʔ̱ |
-| 'al-rajulu wa-l-waalidu fii -l-bayti |
+| 'al-rajulu wa-l-wālidu fī -l-bạti |
 | la viro kaj la patro estas en la domo |
 
 
@@ -158,13 +158,13 @@
 | وجد الولد البنت وقل |
 |:-|
 | :ḺQ̱̱-W̱ ṮNḄ-L- D̥ḺW̱-L- ḎJ̱W̱ |
-| wajada -l-waladu -l-bintu wa-qaala: |
+| wajada -l-waladu -l-bintu wa-qāla: |
 | trovis la knabo la knabinon kaj diris: |
 
 | انا درست في الكتاب |
 |:-|
 | ḄṮ̱Ḳ-L- F̤ T̥SṞḎ Ṉ̱ʔ̱ |
-| 'anaa darastu fii -l-kitaabi |
+| 'anā darastu fī -l-kitābi |
 | mi lernis en la libro |
 
 | وكتبت بالقلم |
@@ -185,49 +185,51 @@
 | الاستاذ قي المكتب |
 |:-|
 | ḄṮKM̱-L- F̤ Đ̥Ṯ̱Sʔ̥-Lʔ̱ |
-| 'al-'ustaađu fii -l-maktabi |
+| 'al-'ustāđu fī -l-maktabi |
 | la profesoro estas en la skribejo |
 
 | قال للولد |
 |:-|
 | :ḌḺW̱-L-Ḷ ḺQ̱̱ |
-| qaala li-l-waladi: |
+| qāla li-l-waladi: |
 | li diris al la knabo: |
 
 | انت ماذا اخذت؟ |
 |:-|
 | ؟ ṮĐX̱ʔ̱ Đ̱̱M̱̱ ,ṮNʔ̱ |
-| 'anta, maađaa 'axađta? |
+| 'anta, māđā 'axađta? |
 | vi, kion vi prenis? |
 
 | انا اخذت قلم البنت |
 |:-|
 | ṬNḄ-L- M̱ḺQ̱ T̥ĐX̱ʔ̱ Ṉ̱ʔ̱ |
-| 'anaa 'axađtu qalama -l-binti |
+| 'anā 'axađtu qalama -l-binti |
 | mi prenis la skribilon de la knabino |
 
 ## (11) في السوق
-*(Q̣WS̥-L- F̤ — fii -l-suwqi — en la merkato)*
+*(Q̣WS̥-L- F̤ — fī -l-sūqi — en la merkato)*
 
-| ذهب الرجل الى السوق |
+| ذهب الرل إلى السوق |
 |:-|
 | |
-| đahaba -l-rajulu 'iilaa -l-suwqi |
+| đahaba -l-rajulu 'ilā -l-sūqi |
 | la viro iris al la merkato |
 
 | :قال الجد للولد |
 |:-|
 | |
-| qaala -l-jaddu li-l-waladi: |
+| qāla -l-jaddu li-l-waladi: |
 | la avo diris al la knabo: |
 
 | اين والدك؟ |
 |:-|
 | |
-| 'ayn waalidu-ka? |
+| 'ạn wālidu-ka? |
 | kie estas via patro? |
 
 | هو في السوق الجديد |
 |:-|
 | |
-| huwa fii -l-suwqi -l-jadiidi |
+| huwa fī -l-sūqi -l-jadīdi |
+| li estas en la nova merkato |
+
