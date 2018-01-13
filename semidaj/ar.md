@@ -55,7 +55,7 @@
 | kataba l-kitaaba |
 | li skribis la libron |
 
-## (5) قي البيت
+## (5) في البيت
 *(ṬYḆ-L F̤ — fii l-bayti — en la domo)*
 
 | دخل البيت |
