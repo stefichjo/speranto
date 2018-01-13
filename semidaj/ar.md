@@ -111,7 +111,7 @@
 | daxala l-waladu wa-darasa fii l-kitaabi |
 | eniris la knabo kaj lernis en la libro |
 
-| دخل الرجل البىت ووجد الولد |
+| دخل الرجل البيت ووجد الولد |
 |:-|
 | ḎḺW̱-L ḎJ̱W̱-W̱ ṮYḆ-L L̥J̥Ṟ-L ḺX̱Ḏ |
 | daxala l-rajulu l-bayta wa-wajada l-walada |
