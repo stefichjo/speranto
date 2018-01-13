@@ -167,7 +167,7 @@
 | 'anaa darastu fii l-kitaabi |
 | mi lernis en la libro |
 
-| و كتبت بالقلم |
+| وكتبت بالقلم |
 |:-|
 | ṂḺQ̱-L-Ḅ T̥BṮḴ-W̱ |
 | wa-katabtu bi-l-qalami |
