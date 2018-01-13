@@ -237,4 +237,7 @@
 | mā darasa -l-tilmīđu darsa-hu |
 | la studento ne lernis sian lernaĵon |
 
-
+| قال الاستاذ للتلميذ |
+|:-|
+| qāla -l-'ustāđu li-l-tilmīđi |
+| diris la profesoro
