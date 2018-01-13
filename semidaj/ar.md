@@ -7,7 +7,7 @@
 | كتب الكاتب |
 |:-|
 | B̥ṬḴ̱-L- ḆṮḴ |
-| kataba -l-kātibu |
+| kataba ăl-kātibu |
 | skribis la skribisto |
 
 ## (2) الكاتب
@@ -16,7 +16,7 @@
 | جلس الكاتب |
 |:-|
 | B̥ṬḴ̱-L- S̱ḺJ̱ |
-| jalasa -l-kātibu |
+| jalasa ăl-kātibu |
 | sidiĝis la skribisto |
 
 | جلس وكتب |
@@ -31,7 +31,7 @@
 | دخل الولد |
 |:-|
 | D̥ḺW̱-L- ḺX̱Ḏ |
-| daxala -l-waladu |
+| daxala ăl-waladu |
 | eniris la knabo |
 
 | كتب ودرس |
@@ -46,28 +46,28 @@
 | ماذا كتب الرجل؟ |
 |:-|
 | ؟ ̥LJ̥Ṟ-L- ḆṮḴ Đ̱̱M̱̱ |
-| māđā kataba -l-rajulu? |
+| māđā kataba ăl-rajulu? |
 | kion skribis la viro? |
 
 | كتب الكتلب |
 |:-|
 | ḆṮ̱Ḳ-L- ḆṮḴ |
-| kataba -l-kitāba |
+| kataba ăl-kitāba |
 | li skribis la libron |
 
 ## (5) في البيت
-*(ṬYḆ-L F̤ — fī -l-bạti — en la domo)*
+*(ṬYḆ-L F̤ — fī ăl-bạti — en la domo)*
 
 | دخل البيت |
 |:-|
 | ṮYḆ-L- ḺX̱Ḏ |
-| daxala -l-bạta |
+| daxala ăl-bạta |
 | li eniris la domon |
 
 | الرجل في البيت |
 |:-|
 | ṬYḆ-L- F̤ L̥J̥Ṟ Lʔ̱ |
-| al-rajulu fī -l-bạti |
+| al-rajulu fī ăl-bạti |
 | la viro estas en la domo |
 
 ## (6) الوالد
@@ -76,25 +76,25 @@
 | دخل الوالد البيت |
 |:-|
 | ṮYḆ-L- D̥ḶW̱̱-L- ḺX̱Ḏ |
-| daxala -l-wālidu -l-bạta |
+| daxala ăl-wālidu ăl-bạta |
 | eniris la patro la domon |
 
 | ماذا وجد الوالد؟ |
 |:-|
 | ؟ D̥ḶW̱̱-L- ḎJ̱W̱ Đ̱̱M̱̱ |
-| māđā wajada -l-wālidu? |
+| māđā wajada ăl-wālidu? |
 | kion trovis la patro? |
 
 | وجد الكتاب |
 |:-|
 | ḆṮ̱Ḳ-L- ḎJ̱W̱ |
-| wajada -l-kitāba |
+| wajada ăl-kitāba |
 | li trovis la libron |
 
 | الوالد والولد في البيت |
 |:-|
 | ṬYḆ-L- F̤ D̥ḺW̱-L-W̱ D̥ḶW̱̱-Lʔ̱ |
-| al-wālidu wa-l-waladu fī -l-bạti |
+| al-wālidu wa-l-waladu fī ăl-bạti |
 | la patro kaj la knabo estas en la domo |
 
 ## (7)
@@ -102,25 +102,25 @@
 | جلس الكاتب وكتب الكتاب |
 |:-|
 | ḆṮ̱Ḳ-L- ḆṮḴ-W̱ B̥ṬḴ̱-L- S̱ḺJ̱ |
-| jalasa -l-kātibu wa-kataba -l-kitāba |
+| jalasa ăl-kātibu wa-kataba ăl-kitāba |
 | sidiĝis la skribisto kaj skribis la libron |
 
 | دخل الولد ودرس في الكتاب |
 |:-|
 | ḄṮ̱Ḳ-L- F̤ S̱ṞḎ-W̱ D̥ḺW̱-L- ḺX̱Ḏ |
-| daxala -l-waladu wa-darasa fī -l-kitābi |
+| daxala ăl-waladu wa-darasa fī ăl-kitābi |
 | eniris la knabo kaj lernis en la libro |
 
 | دخل الرجل البيت ووجد الولد |
 |:-|
 | ḎḺW̱-L- ḎJ̱W̱-W̱ ṮYḆ-L- L̥J̥Ṟ-L- ḺX̱Ḏ |
-| daxala -l-rajulu -l-bạta wa-wajada -l-walada |
+| daxala ăl-rajulu ăl-bạta wa-wajada ăl-walada |
 | eniris la viro la domon kaj trovis la knabon |
 
 | الرجل والوالد في البيت |
 |:-|
 | ṬYḆ-L- F̤ D̥ḶW̱̱-L-W̱ L̥J̥Ṟ-Lʔ̱ |
-| al-rajulu wa-l-wālidu fī -l-bạti |
+| al-rajulu wa-l-wālidu fī ăl-bạti |
 | la viro kaj la patro estas en la domo |
 
 
@@ -130,13 +130,13 @@
 | من دخل المكتب؟ |
 |:-|
 | ؟ ḆṮKM̱-L- ḺX̱Ḏ NM̱ |
-| man daxala -l-maktaba? |
+| man daxala ăl-maktaba? |
 | kiu eniris la skribejon? |
 
 | دخلت البنت المكتب |
 |:-|
 | ḆṮKM̱-L- T̥NḄ-L̇ TḺX̱Ḏ |
-| daxalat i-l-bintu -l-maktaba |
+| daxalat i-l-bintu ăl-maktaba |
 | eniris la knabino la skribejon |
 
 | جلست ودرست |
@@ -158,13 +158,13 @@
 | وجد الولد البنت وقل |
 |:-|
 | :ḺQ̱̱-W̱ ṮNḄ-L- D̥ḺW̱-L- ḎJ̱W̱ |
-| wajada -l-waladu -l-bintu wa-qāla: |
+| wajada ăl-waladu ăl-bintu wa-qāla: |
 | trovis la knabo la knabinon kaj diris: |
 
 | انا درست في الكتاب |
 |:-|
 | ḄṮ̱Ḳ-L- F̤ T̥SṞḎ Ṉ̱ʔ̱ |
-| anā darastu fī -l-kitābi |
+| anā darastu fī ăl-kitābi |
 | mi lernis en la libro |
 
 | وكتبت بالقلم |
@@ -180,12 +180,12 @@
 | la skribilo estas via skribilo |
 
 ## (10) قلم البنت
-*(ṬNḄ-L- M̥ḺQ̱ — qalamu -l-binti — la skribilo de la knabino)*
+*(ṬNḄ-L- M̥ḺQ̱ — qalamu ăl-binti — la skribilo de la knabino)*
 
 | الاستاذ قي المكتب |
 |:-|
 | ḄṮKM̱-L- F̤ Đ̥Ṯ̱Sʔ̥-Lʔ̱ |
-| al-ustāđu fī -l-maktabi |
+| al-ustāđu fī ăl-maktabi |
 | la profesoro estas en la skribejo |
 
 | قال للولد |
@@ -203,20 +203,20 @@
 | انا اخذت قلم البنت |
 |:-|
 | ṬNḄ-L- M̱ḺQ̱ T̥ĐX̱ʔ̱ Ṉ̱ʔ̱ |
-| anā axađtu qalama -l-binti |
+| anā axađtu qalama ăl-binti |
 | mi prenis la skribilon de la knabino |
 
 ## (11) في السوق
-*(fī -l-sūqi — en la merkato)*
+*(fī ăl-sūqi — en la merkato)*
 
 | ذهب الرل إلى السوق |
 |:-|
-| đahaba -l-rajulu ilâ -l-sūqi |
+| đahaba ăl-rajulu ilâ ăl-sūqi |
 | la viro iris al la merkato |
 
 | :قال الجد للولد |
 |:-|
-| qāla -l-jaddu li-l-waladi: |
+| qāla ăl-jaddu li-l-waladi: |
 | la avo diris al la knabo: |
 
 | اين والدك؟ |
@@ -226,7 +226,7 @@
 
 | هو في السوق الجديد |
 |:-|
-| huwa fī -l-sūqi -l-jadīdi |
+| huwa fī ăl-sūqi ăl-jadīdi |
 | li estas en la nova merkato |
 
 ## (12) التلميذ
@@ -234,10 +234,10 @@
 
 | ما درس التلميذ درسه |
 |:-|
-| mā darasa -l-tilmīđu darsa-hu |
+| mā darasa ăl-tilmīđu darsa-hu |
 | la studento ne lernis sian lernaĵon |
 
 | قال الاستاذ للتلميذ |
 |:-|
-| qāla -l-ustāđu li-l-tilmīđi |
+| qāla ăl-ustāđu li-l-tilmīđi |
 | diris la profesoro
