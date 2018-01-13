@@ -94,7 +94,7 @@
 | الوالد والولد في البيت |
 |:-|
 | ṬYḆ-L- F̤ D̥ḺW̱-L-W̱ D̥ḶW̱̱-Lʔ̱ |
-| al-wālidu wa-l-waladu fī ăl-bạti |
+| al-wālidu wa-ăl-waladu fī ăl-bạti |
 | la patro kaj la knabo estas en la domo |
 
 ## (7)
@@ -120,7 +120,7 @@
 | الرجل والوالد في البيت |
 |:-|
 | ṬYḆ-L- F̤ D̥ḶW̱̱-L-W̱ L̥J̥Ṟ-Lʔ̱ |
-| al-rajulu wa-l-wālidu fī ăl-bạti |
+| al-rajulu wa-ăl-wālidu fī ăl-bạti |
 | la viro kaj la patro estas en la domo |
 
 
@@ -136,7 +136,7 @@
 | دخلت البنت المكتب |
 |:-|
 | ḆṮKM̱-L- T̥NḄ-L̇ TḺX̱Ḏ |
-| daxalat i-l-bintu ăl-maktaba |
+| daxalat i-ăl-bintu ăl-maktaba |
 | eniris la knabino la skribejon |
 
 | جلست ودرست |
@@ -153,7 +153,7 @@
 
 
 ## (9) بالقلم
-*(ṂḺQ̱-L-Ḅ — bi-l-qalami — per la skribilo)*
+*(ṂḺQ̱-L-Ḅ — bi-ăl-qalami — per la skribilo)*
 
 | وجد الولد البنت وقل |
 |:-|
@@ -170,7 +170,7 @@
 | وكتبت بالقلم |
 |:-|
 | ṂḺQ̱-L-Ḅ T̥BṮḴ-W̱ |
-| wa-katabtu bi-l-qalami |
+| wa-katabtu bi-ăl-qalami |
 | kaj mi skribis per la skribilo |
 
 | القلم قلمك |
@@ -191,7 +191,7 @@
 | قال للولد |
 |:-|
 | :ḌḺW̱-L-Ḷ ḺQ̱̱ |
-| qāla li-l-waladi: |
+| qāla li-ăl-waladi: |
 | li diris al la knabo: |
 
 | انت ماذا اخذت؟ |
@@ -216,7 +216,7 @@
 
 | :قال الجد للولد |
 |:-|
-| qāla ăl-jaddu li-l-waladi: |
+| qāla ăl-jaddu li-ăl-waladi: |
 | la avo diris al la knabo: |
 
 | اين والدك؟ |
@@ -239,5 +239,5 @@
 
 | قال الاستاذ للتلميذ |
 |:-|
-| qāla ăl-ustāđu li-l-tilmīđi |
+| qāla ăl-ustāđu li-ăl-tilmīđi |
 | diris la profesoro
