@@ -153,7 +153,7 @@
 
 
 ## (9) بالقلم
-*(MḺQ̱-L-Ḅ — per la skribilo)*
+*(ṂḺQ̱-L-Ḅ — bi-l-qalami — per la skribilo)*
 
 | وجد الولد البنت وقل |
 |:-|
@@ -180,7 +180,7 @@
 | la skribilo estas via skribilo |
 
 ## (10) قلم البنت
-*(ṬNḄ-L M̥ḺQ̱ — la skribilo de la knabino)*
+*(ṬNḄ-L M̥ḺQ̱ — qalamu l-binti — la skribilo de la knabino)*
 
 | الاستاذ قي المكتب |
 |:-|
@@ -207,5 +207,5 @@
 | mi prenis la skribilon de la knabino |
 
 ## (11) في السوق
-*(Q̣WS̥-L F̤ — en la merkato)*
+*(Q̣WS̥-L F̤ — fii l-suwqi — en la merkato)*
 
