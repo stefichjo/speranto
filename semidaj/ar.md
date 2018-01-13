@@ -224,7 +224,7 @@
 | اين والدك؟ |
 |:-|
 | |
-| 'ạn wālidu-ka? |
+| 'ạna wālidu-ka? |
 | kie estas via patro? |
 
 | هو في السوق الجديد |
