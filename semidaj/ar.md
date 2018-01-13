@@ -209,3 +209,15 @@
 ## (11) في السوق
 *(Q̣WS̥-L F̤ — fii l-suwqi — en la merkato)*
 
+| ذهب الرجل الى السوق |
+|:-|
+| |
+| đahaba l-rajulu 'iilaa l-suwqi |
+| la viro iris al la merkato |
+
+
+| :قال الجد للولد |
+|:-|
+| |
+| qaala l-jaddu li-l-waladi |
+| la avo diris al la knabo |
