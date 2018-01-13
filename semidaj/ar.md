@@ -55,16 +55,16 @@
 | kataba l-kitaaba |
 | li skribis la libron |
 
-## (5) في البىت
+## (5) قي البيت
 *(ṬYḆ-L F̤ — fii l-bayti — en la domo)*
 
-| دخل البىت |
+| دخل البيت |
 |:-|
 | ṮYḆ-L ḺX̱Ḏ |
 | daxala l-bayta |
 | li eniris la domon |
 
-| الرجل في البىت |
+| الرجل في البيت |
 |:-|
 | ṬYḆ-L F̤ L̥J̥Ṟ Lʔ̱ |
 | 'al-rajulu fii l-bayti |
@@ -73,7 +73,7 @@
 ## (6) الوالد
 *(D̥ḶW̱̱-Lʔ̱ — 'al-waalidu — la patro)*
 
-| دخل الوالد البىت |
+| دخل الوالد البيت |
 |:-|
 | ṮYḆ-L D̥ḶW̱̱-L ḺX̱Ḏ |
 | daxala l-waalidu l-bayta |
@@ -91,7 +91,7 @@
 | wajada l-kitaaba |
 | li trovis la libron |
 
-| الوالد والولد في البىت |
+| الوالد والولد في البيت |
 |:-|
 | ṬYḆ-L F̤ D̥ḺW̱-L-W̱ D̥ḶW̱̱-Lʔ̱ |
 | 'al-waalidu wa-l-waladu fii l-bayti |
@@ -117,7 +117,7 @@
 | daxala l-rajulu l-bayta wa-wajada l-walada |
 | eniris la viro la domon kaj trovis la knabon |
 
-| الرجل والوالد في البىت |
+| الرجل والوالد في البيت |
 |:-|
 | ṬYḆ-L F̤ D̥ḶW̱̱-L-W̱ L̥J̥Ṟ-Lʔ̱ |
 | 'al-rajulu wa-l-waalidu fii l-bayti |
