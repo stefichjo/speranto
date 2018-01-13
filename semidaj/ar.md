@@ -207,29 +207,34 @@
 | mi prenis la skribilon de la knabino |
 
 ## (11) في السوق
-*(Q̣WS̥-L- F̤ — fī -l-sūqi — en la merkato)*
+*(fī -l-sūqi — en la merkato)*
 
 | ذهب الرل إلى السوق |
 |:-|
-| |
 | đahaba -l-rajulu 'ilâ -l-sūqi |
 | la viro iris al la merkato |
 
 | :قال الجد للولد |
 |:-|
-| |
 | qāla -l-jaddu li-l-waladi: |
 | la avo diris al la knabo: |
 
 | اين والدك؟ |
 |:-|
-| |
 | 'ạna wālidu-ka? |
 | kie estas via patro? |
 
 | هو في السوق الجديد |
 |:-|
-| |
 | huwa fī -l-sūqi -l-jadīdi |
 | li estas en la nova merkato |
+
+## (12) التلميذ
+*('al-tilmīđu — la studento)*
+
+| ما درس التلميذ درسه |
+|:-|
+| mā darasa -l-tilmīđu darsa-hu |
+| la studento ne lernis sian lernaĵon |
+
 
