@@ -212,7 +212,7 @@
 | ذهب الرل إلى السوق |
 |:-|
 | |
-| đahaba -l-rajulu 'ilā -l-sūqi |
+| đahaba -l-rajulu 'ilâ -l-sūqi |
 | la viro iris al la merkato |
 
 | :قال الجد للولد |
