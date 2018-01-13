@@ -11,7 +11,7 @@
 | skribis la skribisto |
 
 ## (2) الكاتب
-*(B̥ṬḴ̱-Lʔ̱⁠ — 'al-kātibu — la skribisto)*
+*(B̥ṬḴ̱-Lʔ̱⁠ — al-kātibu — la skribisto)*
 
 | جلس الكاتب |
 |:-|
@@ -26,7 +26,7 @@
 | li sidiĝis kaj skribis |
 
 ## (3) الولد
-*(D̥ḺW̱-Lʔ̱ — 'al-waladu — la knabo)*
+*(D̥ḺW̱-Lʔ̱ — al-waladu — la knabo)*
 
 | دخل الولد |
 |:-|
@@ -41,7 +41,7 @@
 | li skribis kaj lernis |
 
 ## (4) الرجل
-*(̥LJ̥Ṟ-Lʔ̱ — 'al-rajulu — la viro)*
+*(̥LJ̥Ṟ-Lʔ̱ — al-rajulu — la viro)*
 
 | ماذا كتب الرجل؟ |
 |:-|
@@ -67,11 +67,11 @@
 | الرجل في البيت |
 |:-|
 | ṬYḆ-L- F̤ L̥J̥Ṟ Lʔ̱ |
-| 'al-rajulu fī -l-bạti |
+| al-rajulu fī -l-bạti |
 | la viro estas en la domo |
 
 ## (6) الوالد
-*(D̥ḶW̱̱-Lʔ̱ — 'al-wālidu — la patro)*
+*(D̥ḶW̱̱-Lʔ̱ — al-wālidu — la patro)*
 
 | دخل الوالد البيت |
 |:-|
@@ -94,7 +94,7 @@
 | الوالد والولد في البيت |
 |:-|
 | ṬYḆ-L- F̤ D̥ḺW̱-L-W̱ D̥ḶW̱̱-Lʔ̱ |
-| 'al-wālidu wa-l-waladu fī -l-bạti |
+| al-wālidu wa-l-waladu fī -l-bạti |
 | la patro kaj la knabo estas en la domo |
 
 ## (7)
@@ -120,12 +120,12 @@
 | الرجل والوالد في البيت |
 |:-|
 | ṬYḆ-L- F̤ D̥ḶW̱̱-L-W̱ L̥J̥Ṟ-Lʔ̱ |
-| 'al-rajulu wa-l-wālidu fī -l-bạti |
+| al-rajulu wa-l-wālidu fī -l-bạti |
 | la viro kaj la patro estas en la domo |
 
 
 ## (8) البنت
-*(T̥NḄ-Lʔ̱ — 'al-bintu — la knabino)*
+*(T̥NḄ-Lʔ̱ — al-bintu — la knabino)*
 
 | من دخل المكتب؟ |
 |:-|
@@ -164,7 +164,7 @@
 | انا درست في الكتاب |
 |:-|
 | ḄṮ̱Ḳ-L- F̤ T̥SṞḎ Ṉ̱ʔ̱ |
-| 'anā darastu fī -l-kitābi |
+| anā darastu fī -l-kitābi |
 | mi lernis en la libro |
 
 | وكتبت بالقلم |
@@ -176,7 +176,7 @@
 | القلم قلمك |
 |:-|
 | Ḳ-M̥ḺQ̱ M̥ḺQ̱-Lʔ̱ |
-| 'al-qalamu qalamu-ki |
+| al-qalamu qalamu-ki |
 | la skribilo estas via skribilo |
 
 ## (10) قلم البنت
@@ -185,7 +185,7 @@
 | الاستاذ قي المكتب |
 |:-|
 | ḄṮKM̱-L- F̤ Đ̥Ṯ̱Sʔ̥-Lʔ̱ |
-| 'al-'ustāđu fī -l-maktabi |
+| al-ustāđu fī -l-maktabi |
 | la profesoro estas en la skribejo |
 
 | قال للولد |
@@ -197,13 +197,13 @@
 | انت ماذا اخذت؟ |
 |:-|
 | ؟ ṮĐX̱ʔ̱ Đ̱̱M̱̱ ,ṮNʔ̱ |
-| 'anta, māđā 'axađta? |
+| anta, māđā axađta? |
 | vi, kion vi prenis? |
 
 | انا اخذت قلم البنت |
 |:-|
 | ṬNḄ-L- M̱ḺQ̱ T̥ĐX̱ʔ̱ Ṉ̱ʔ̱ |
-| 'anā 'axađtu qalama -l-binti |
+| anā axađtu qalama -l-binti |
 | mi prenis la skribilon de la knabino |
 
 ## (11) في السوق
@@ -211,7 +211,7 @@
 
 | ذهب الرل إلى السوق |
 |:-|
-| đahaba -l-rajulu 'ilâ -l-sūqi |
+| đahaba -l-rajulu ilâ -l-sūqi |
 | la viro iris al la merkato |
 
 | :قال الجد للولد |
@@ -221,7 +221,7 @@
 
 | اين والدك؟ |
 |:-|
-| 'ạna wālidu-ka? |
+| ạna wālidu-ka? |
 | kie estas via patro? |
 
 | هو في السوق الجديد |
@@ -230,7 +230,7 @@
 | li estas en la nova merkato |
 
 ## (12) التلميذ
-*('al-tilmīđu — la studento)*
+*(al-tilmīđu — la studento)*
 
 | ما درس التلميذ درسه |
 |:-|
@@ -239,5 +239,5 @@
 
 | قال الاستاذ للتلميذ |
 |:-|
-| qāla -l-'ustāđu li-l-tilmīđi |
+| qāla -l-ustāđu li-l-tilmīđi |
 | diris la profesoro
