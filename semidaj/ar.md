@@ -16,13 +16,13 @@
 | جلس الكاتب |
 |:-|
 | B̥ṬḴ̱-L- S̱ḺJ̱ |
-| jalasa ăl-kātibu |
+| ĝalasa ăl-kātibu |
 | sidiĝis la skribisto |
 
 | جلس وكتب |
 |:-|
 | ḆṮḴ-W̱ S̱ḺJ̱ |
-| jalasa wa-kataba |
+| ĝalasa wa-kataba |
 | li sidiĝis kaj skribis |
 
 ## (3) الولد
@@ -31,7 +31,7 @@
 | دخل الولد |
 |:-|
 | D̥ḺW̱-L- ḺX̱Ḏ |
-| daxala ăl-waladu |
+| daꝁala ăl-waladu |
 | eniris la knabo |
 
 | كتب ودرس |
@@ -41,12 +41,12 @@
 | li skribis kaj lernis |
 
 ## (4) الرجل
-*(̥LJ̥Ṟ-Lʔ̱ — al-rajulu — la viro)*
+*(̥LJ̥Ṟ-Lʔ̱ — al-raĝulu — la viro)*
 
 | ماذا كتب الرجل؟ |
 |:-|
 | ؟ ̥LJ̥Ṟ-L- ḆṮḴ Đ̱̱M̱̱ |
-| māđā kataba ăl=rajulu? |
+| māđā kataba ăl=raĝulu? |
 | kion skribis la viro? |
 
 | كتب الكتلب |
@@ -61,13 +61,13 @@
 | دخل البيت |
 |:-|
 | ṮYḆ-L- ḺX̱Ḏ |
-| daxala ăl-bayta |
+| daꝁala ăl-bayta |
 | li eniris la domon |
 
 | الرجل في البيت |
 |:-|
 | ṬYḆ-L- F̤ L̥J̥Ṟ Lʔ̱ |
-| al-rajulu fī ăl-bayti |
+| al-raĝulu fī ăl-bayti |
 | la viro estas en la domo |
 
 ## (6) الوالد
@@ -76,19 +76,19 @@
 | دخل الوالد البيت |
 |:-|
 | ṮYḆ-L- D̥ḶW̱̱-L- ḺX̱Ḏ |
-| daxala ăl-wālidu ăl-bayta |
+| daꝁala ăl-wālidu ăl-bayta |
 | eniris la patro la domon |
 
 | ماذا وجد الوالد؟ |
 |:-|
 | ؟ D̥ḶW̱̱-L- ḎJ̱W̱ Đ̱̱M̱̱ |
-| māđā wajada ăl-wālidu? |
+| māđā waĝada ăl-wālidu? |
 | kion trovis la patro? |
 
 | وجد الكتاب |
 |:-|
 | ḆṮ̱Ḳ-L- ḎJ̱W̱ |
-| wajada ăl-kitāba |
+| waĝada ăl-kitāba |
 | li trovis la libron |
 
 | الوالد والولد في البيت |
@@ -102,25 +102,25 @@
 | جلس الكاتب وكتب الكتاب |
 |:-|
 | ḆṮ̱Ḳ-L- ḆṮḴ-W̱ B̥ṬḴ̱-L- S̱ḺJ̱ |
-| jalasa ăl-kātibu wa-kataba ăl-kitāba |
+| ĝalasa ăl-kātibu wa-kataba ăl-kitāba |
 | sidiĝis la skribisto kaj skribis la libron |
 
 | دخل الولد ودرس في الكتاب |
 |:-|
 | ḄṮ̱Ḳ-L- F̤ S̱ṞḎ-W̱ D̥ḺW̱-L- ḺX̱Ḏ |
-| daxala ăl=waladu wa-darasa fī ăl-kitābi |
+| daꝁala ăl=waladu wa-darasa fī ăl-kitābi |
 | eniris la knabo kaj lernis en la libro |
 
 | دخل الرجل البيت ووجد الولد |
 |:-|
 | ḎḺW̱-L- ḎJ̱W̱-W̱ ṮYḆ-L- L̥J̥Ṟ-L- ḺX̱Ḏ |
-| daxala ăl=rajulu ăl-bayta wa-wajada ăl-walada |
+| daꝁala ăl=raĝulu ăl-bayta wa-waĝada ăl-walada |
 | eniris la viro la domon kaj trovis la knabon |
 
 | الرجل والوالد في البيت |
 |:-|
 | ṬYḆ-L- F̤ D̥ḶW̱̱-L-W̱ L̥J̥Ṟ-Lʔ̱ |
-| al-rajulu wa-ăl-wālidu fī ăl-bayti |
+| al-raĝulu wa-ăl-wālidu fī ăl-bayti |
 | la viro kaj la patro estas en la domo |
 
 
@@ -130,25 +130,25 @@
 | من دخل المكتب؟ |
 |:-|
 | ؟ ḆṮKM̱-L- ḺX̱Ḏ NM̱ |
-| man daxala ăl-maktaba? |
+| man daꝁala ăl-maktaba? |
 | kiu eniris la skribejon? |
 
 | دخلت البنت المكتب |
 |:-|
 | ḆṮKM̱-L- T̥NḄ-L̇ TḺX̱Ḏ |
-| daxalati ăl-bintu ăl-maktaba |
+| daꝁalati ăl-bintu ăl-maktaba |
 | eniris la knabino la skribejon |
 
 | جلست ودرست |
 |:-|
 | TS̱ṞḎ-W̱ TS̱ḺJ̱ |
-| jalasatĭ wa-darasat |
+| ĝalasatĭ wa-darasat |
 | ŝi sidiĝis kaj lernis |
 
 | وخرجت |
 |:-|
 | TJ̱ṞX̱-W̱ |
-| wa-xarajatĭ |
+| wa-ꝁaraĝatĭ |
 | kaj ŝi eliris |
 
 
@@ -158,7 +158,7 @@
 | وجد الولد البنت وقل |
 |:-|
 | :ḺQ̱̱-W̱ ṮNḄ-L- D̥ḺW̱-L- ḎJ̱W̱ |
-| wajada ăl-waladu ăl-bintu wa-qāla: |
+| waĝada ăl-waladu ăl-bintu wa-qāla: |
 | trovis la knabo la knabinon kaj diris: |
 
 | انا درست في الكتاب |
@@ -197,13 +197,13 @@
 | انت ماذا اخذت؟ |
 |:-|
 | ؟ ṮĐX̱ʔ̱ Đ̱̱M̱̱ ,ṮNʔ̱ |
-| anta, māđā axađta? |
+| anta, māđā aꝁađta? |
 | vi, kion vi prenis? |
 
 | انا اخذت قلم البنت |
 |:-|
 | ṬNḄ-L- M̱ḺQ̱ T̥ĐX̱ʔ̱ Ṉ̱ʔ̱ |
-| anā axađtu qalama ăl-binti |
+| anā aꝁađtu qalama ăl-binti |
 | mi prenis la skribilon de la knabino |
 
 ## (11) في السوق
@@ -211,12 +211,12 @@
 
 | ذهب الرل إلى السوق |
 |:-|
-| đahaba ăl=rajulu ilâ ăl=sūqi |
+| đahaba ăl=raĝulu ilâ ăl=sūqi |
 | la viro iris al la merkato |
 
 | :قال الجد للولد |
 |:-|
-| qāla ăl-jaddu li-l-waladi: |
+| qāla ăl-ĝaddu li-l-waladi: |
 | la avo diris al la knabo: |
 
 | اين والدك؟ |
@@ -226,7 +226,7 @@
 
 | هو في السوق الجديد |
 |:-|
-| huwa fī ăl=sūqi ăl-jadīdi |
+| huwa fī ăl=sūqi ăl-ĝadīdi |
 | li estas en la nova merkato |
 
 ## (12) التلميذ
@@ -249,7 +249,7 @@
 
 | وخرج من المكتب |
 |:-|
-| wa-xaraja mina ăl-maktabi |
+| wa-ꝁaraĝa mina ăl-maktabi |
 | kaj li eliris el la skribejo |
 
 ## (13) 
