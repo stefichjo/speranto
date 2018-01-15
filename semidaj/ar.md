@@ -2,7 +2,7 @@
 *(ekzemploj el "Arabisch ohne Mühe heute" el la eldonejo Assimil)*
 
 ## (1) كتب
-*(ḆṮḴ — kataba — li skribis)*
+*(ḆṮḴ — kataba — skribis li)*
 
 | كتب الكاتب |
 |:-|
@@ -23,7 +23,7 @@
 |:-|
 | ḆṮḴ-W̱ S̱ḺJ̱ |
 | ĝalasa wa-kataba |
-| li sidiĝis kaj skribis |
+| sidiĝis li kaj skribis |
 
 ## (3) الولد
 *(D̥ḺW̱-Lʔ̱ — al-waladu — la knabo)*
@@ -38,7 +38,7 @@
 |:-|
 | S̱ṞḎ-W̱ ḆṮḴ |
 | kataba wa-darasa |
-| li skribis kaj lernis |
+| skribis li kaj lernis |
 
 ## (4) الرجل
 *(̥LJ̥Ṟ-Lʔ̱ — al-raĝulu — la viro)*
@@ -53,7 +53,7 @@
 |:-|
 | ḆṮ̱Ḳ-L- ḆṮḴ |
 | kataba ăl-kitāba |
-| li skribis la libron |
+| skribis li la libron |
 
 ## (5) في البيت
 *(ṬYḆ-L F̤ — fī ăl-bayti — en la domo)*
@@ -62,13 +62,13 @@
 |:-|
 | ṮYḆ-L- ḺX̱Ḏ |
 | daꝁala ăl-bayta |
-| li eniris la domon |
+| eniris li la domon |
 
 | الرجل في البيت |
 |:-|
 | ṬYḆ-L- F̤ L̥J̥Ṟ Lʔ̱ |
 | al-raĝulu fī ăl-bayti |
-| la viro estas en la domo |
+| estas la viro en la domo |
 
 ## (6) الوالد
 *(D̥ḶW̱̱-Lʔ̱ — al-wālidu — la patro)*
@@ -89,13 +89,13 @@
 |:-|
 | ḆṮ̱Ḳ-L- ḎJ̱W̱ |
 | waĝada ăl-kitāba |
-| li trovis la libron |
+| trovis li la libron |
 
 | الوالد والولد في البيت |
 |:-|
 | ṬYḆ-L- F̤ D̥ḺW̱-L-W̱ D̥ḶW̱̱-Lʔ̱ |
 | al-wālidu wa-ăl-waladu fī ăl-bayti |
-| la patro kaj la knabo estas en la domo |
+| estas la patro kaj la knabo en la domo |
 
 ## (7)
 
@@ -121,7 +121,7 @@
 |:-|
 | ṬYḆ-L- F̤ D̥ḶW̱̱-L-W̱ L̥J̥Ṟ-Lʔ̱ |
 | al-raĝulu wa-ăl-wālidu fī ăl-bayti |
-| la viro kaj la patro estas en la domo |
+| estas la viro kaj la patro en la domo |
 
 
 ## (8) البنت
@@ -143,13 +143,13 @@
 |:-|
 | TS̱ṞḎ-W̱ TS̱ḺJ̱ |
 | ĝalasatĭ wa-darasat |
-| ŝi sidiĝis kaj lernis |
+| sidiĝis ŝi kaj lernis |
 
 | وخرجت |
 |:-|
 | TJ̱ṞX̱-W̱ |
 | wa-ꝁaraĝatĭ |
-| kaj ŝi eliris |
+| kaj eliris |
 
 
 ## (9) بالقلم
@@ -165,19 +165,19 @@
 |:-|
 | ḄṮ̱Ḳ-L- F̤ T̥SṞḎ Ṉ̱ʔ̱ |
 | anā darastu fī ăl-kitābi |
-| mi lernis en la libro |
+| lernis mi en la libro |
 
 | وكتبت بالقلم |
 |:-|
 | ṂḺQ̱-L-Ḅ T̥BṮḴ-W̱ |
 | wa-katabtu bi-ăl-qalami |
-| kaj mi skribis per la skribilo |
+| kaj skribis per la skribilo |
 
 | القلم قلمك |
 |:-|
 | Ḳ-M̥ḺQ̱ M̥ḺQ̱-Lʔ̱ |
 | al-qalamu qalamu-ki |
-| la skribilo estas via skribilo |
+| estas la skribilo via skribilo |
 
 ## (10) قلم البنت
 *(ṬNḄ-L- M̥ḺQ̱ — qalamu ăl-binti — la skribilo de la knabino)*
@@ -186,25 +186,25 @@
 |:-|
 | ḄṮKM̱-L- F̤ Đ̥Ṯ̱Sʔ̥-Lʔ̱ |
 | al-ustāđu fī ăl-maktabi |
-| la profesoro estas en la skribejo |
+| estas la profesoro en la skribejo |
 
 | قال للولد |
 |:-|
 | :ḌḺW̱-L-Ḷ ḺQ̱̱ |
 | qāla li-l-waladi: |
-| li diris al la knabo: |
+| diris li al la knabo: |
 
 | انت ماذا اخذت؟ |
 |:-|
 | ؟ ṮĐX̱ʔ̱ Đ̱̱M̱̱ ,ṮNʔ̱ |
 | anta, māđā aꝁađta? |
-| vi, kion vi prenis? |
+| vi, kion prenis vi? |
 
 | انا اخذت قلم البنت |
 |:-|
 | ṬNḄ-L- M̱ḺQ̱ T̥ĐX̱ʔ̱ Ṉ̱ʔ̱ |
 | anā aꝁađtu qalama ăl-binti |
-| mi prenis la skribilon de la knabino |
+| prenis mi la skribilon de la knabino |
 
 ## (11) في السوق
 *(fī ăl=sūqi — en la merkato)*
@@ -222,12 +222,12 @@
 | اين والدك؟ |
 |:-|
 | ạna wālidu-ka? |
-| kie estas via patro? |
+| estas kie via patro? |
 
 | هو في السوق الجديد |
 |:-|
 | huwa fī ăl=sūqi ăl-ĝadīdi |
-| li estas en la nova merkato |
+| estas li en la nova merkato |
 
 ## (12) التلميذ
 *(al-tilmīđu — la lernanto)*
@@ -245,11 +245,28 @@
 | !ما درست درسك |
 |:-|
 | mā darasta darsa-ka! |
-| vi ne lernis vian lernaĵon! |
+| ne lernis vi vian lernaĵon! |
 
 | وخرج من المكتب |
 |:-|
 | wa-ꝁaraĝa mina ăl-maktabi |
-| kaj li eliris el la skribejo |
+| kaj eliris li el la skribejo |
 
-## (13) 
+## (13) قط البنت
+*(qiţţu ăl-binti — la kato de la knabino)*
+
+| انت هل وخدت قطك؟ |
+|:-|
+| anti hal waĝadti qiţţa-ki? |
+| ĉu trovis vi vian katon? |
+
+| لا! ما وجدت قطي |
+|:-|
+| la! mā waꝁadtu qiţţă-ī |
+| ne! ne trovis mi mian katon |
+
+| القط الجميل |
+|:-|
+| al-qiţţu ăl-ĝamīlu |
+| estas la bela kato |
+
