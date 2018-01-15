@@ -270,3 +270,9 @@
 | al-qiţţu ăl-ĝamīlu |
 | estas la bela kato |
 
+| في وسط البستان |
+|:-|
+| fī wasaţi ăl-bustāni |
+| en la mezo de la ĝardeno |
+
+
