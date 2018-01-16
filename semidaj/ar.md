@@ -224,24 +224,24 @@
 | kaj eliris li el la skribejo |
 
 ## (13) قط البنت
-*(ķiţţu ăl-binti — la kato de la knabino)*
+*(ķițțu ăl-binti — la kato de la knabino)*
 
 | انت هل وخدت قطك؟ |
 |:-|
-| anti hal waĝadti ķiţţa-ki? |
+| anti hal waĝadti ķițța-ki? |
 | ĉu trovis vi vian katon? |
 
 | لا! ما وجدت قطي |
 |:-|
-| la! mā waꝁadtu ķiţţă-ī |
+| la! mā waꝁadtu ķițță-ī |
 | ne! ne trovis mi mian katon |
 
 | القط الجميل |
 |:-|
-| al-ķiţţu ăl-ĝamīlu |
+| al-ķițțu ăl-ĝamīlu |
 | estas la bela kato |
 
 | في وسط البستان |
 |:-|
-| fī wasaţi ăl-bustāni |
+| fī wasați ăl-bustāni |
 | en la mezo de la ĝardeno |
