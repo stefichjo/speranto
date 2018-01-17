@@ -1,6 +1,10 @@
 # La Araba Lingvo
 *(ekzemploj el "Arabisch ohne Mühe heute" el la eldonejo Assimil)*
 
+| ء | ي | و | ه | ن | م | ل | ك | ق | ف | غ | ع | ظ | ط | ض | ص | ش | س | ز | ر | ذ | د | خ | ح | ج | ث | ت | ب | ا |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+| a | b | t | ŧ (th) | ĝ (j) | h̓ | ꝁ (x) | d | đ (dh) | r | z | s | ŝ (sh) | ș | d̦ | ț | đ¸ (d̦h) | j̓ | ǥ (gh) | f | ķ (q) | k | l | m | n | h | w | y | ȷ (') |
+
 ## (1) كتب
 *(kataba — skribis li)*
 
@@ -245,3 +249,4 @@
 |:-|
 | fī wasați ăl-bustāni |
 | en la mezo de la ĝardeno |
+
