@@ -250,4 +250,8 @@
 | fī wasați ăl-bustāni |
 | en la mezo de la ĝardeno |
 
-## (14) الكلب في البسبان
+## (14) …
+
+## (15) الكلب في البسبان
+*(al-kalbu fī ăl-bustāni)*
+
