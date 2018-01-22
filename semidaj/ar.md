@@ -3,7 +3,8 @@
 
 | ء | ي | و | ه | ن | م | ل | ك | ق | ف | غ | ع | ظ | ط | ض | ص | ش | س | ز | ر | ذ | د | خ | ح | ج | ث | ت | ب | ا |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-| a | b | t | ŧ (th) | ĝ (j) | h̓ | ꝁ (x) | d | đ (dh) | r | z | s | ŝ (sh) | ș | d̦ | ț | đ¸ (d̦h) | j̓ | ǥ (gh) | f | ķ (q) | k | l | m | n | h | w | y | ȷ (') |
+| ȷ (') | y | w | h | n | m | l | k | ķ (q) | f | ǥ (gh) | j̓ | đ¸ (d̦h) | ț | d̦ | ș | ŝ (sh) | s | z | r | đ (dh) | d | ꝁ (x) | h̓ | ĝ (j) | ŧ (th) | t | b | a |
+
 
 ## (1) كتب
 *(kataba — skribis li)*
@@ -254,4 +255,24 @@
 
 ## (15) الكلب في البسبان
 *(al-kalbu fī ăl-bustāni)*
+
+| خرج الولد من البيت |
+|:-|
+| ꝁaraĝa ăl-waladu mina ăl-bayti |
+| eliris la knabo el la domo |
+
+| مكث قطه في بيته |
+|:-|
+| makaŧa ķiţţu-hu fī bayti-hi |
+| restis lia kato en lia domo |
+
+| ثم خرجت بنت جاره من بيتها |
+|:-|
+| ŧumma ꝁaraĝat bintu ĝāri-hi mină bayti-hā |
+| poste eliris la knabino de lia najbaro el ŝia domo |
+
+| مكث كلبها في بستانها الجميل |
+|:-|
+| makaŧa kalbu-hā fī bustāni-hā ăl-ĝamīli |
+| restis ŝia hundo en ŝia ĝardeno bela |
 
