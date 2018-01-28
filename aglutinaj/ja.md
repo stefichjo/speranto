@@ -2,36 +2,36 @@
 
 ## KUN.yomi (訓読み)
 
-### .
-
-* ki.mono (着物)
-
-### :
-
-* yama:ta (山田)
-* te:kami (手紙)
-* toki:toki (時々)
-
 ### -
 
-* d-arou (だろう)
+* ki-mono (着物)
 
-### - → r
+### =
 
-* tabeu (食べる)
-* miu (見る)
+* yama=ta (山田)
+* te=kami (手紙)
+* toki=toki (時々)
 
-### w → -
+### '
 
-* kawu (買う)
-* .wo (を)
+* d'arou (だろう)
+
+### / → r
+
+* ta*beu* (食べる)
+* mi*u* (見る)
+
+### w → /
+
+* ka*wu* (買う)
+* .*wo* (を)
 
 ### p → f/h/w
 
 * pude (筆)
 * pito (人)
-* .ha (は)
-* .he (へ)
+* .*ha* (は)
+* .*he* (へ)
 
 ### -t
 

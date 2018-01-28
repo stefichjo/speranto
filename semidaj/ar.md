@@ -254,7 +254,7 @@
 ## (14) …
 
 ## (15) الكلب في البسبان
-*(al-kalbu fī ăl-bustāni)*
+*(al-kalbu fī ăl-bustāni — estas la hundo en la ĝardeno)*
 
 | خرج الولد من البيت |
 |:-|
@@ -276,3 +276,12 @@
 | makaŧa kalbu-hā fī bustāni-hā ăl-ĝamīli |
 | restis ŝia hundo en ŝia ĝardeno bela |
 
+## (16) ما اسمك
+*(mā ĭsmuka — estas kio via nomo?)*
+
+| مر حبا! ما اسمك؟ |
+|:-|
+| mar h̓abān! mā ĭsmuka? |
+| bonvenon! estas kio via nomo? |
+
+| اسمي محمد
