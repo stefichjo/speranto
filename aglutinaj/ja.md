@@ -35,18 +35,18 @@
 
 ### -t
 
-* motte (持って)
-* oste (押して)
-* kakte (書いて)
-* isogte (急いで)
-* sinte (死んで)
-* nomte (飲んで)
-* yobte (呼んで)
-* kawte (買って)
-* torte (取って)
+* mo*tte* (持って)
+* o*ste* (押して)
+* ka*kte* (書いて)
+* iso*gte* (急いで)
+* si*nte* (死んで)
+* no*mte* (飲んで)
+* yo*bte* (呼んで)
+* ka*wte* (買って)
+* to*rte* (取って)
 
-* i'te (行って)
-* ste (して)
+* *i'te* (行って)
+* *ste* (して)
 
 ### t → ts
 
@@ -59,15 +59,15 @@
 
 ### z, d → j
 
-* tojiu (閉じる)
-* pana:ti (鼻血)
-* d-ha (じゃあ)
+* to*jiu* (閉じる) (= to*diu*/to*ziu*)
+* pana=ti (鼻血)
+* *ja* (じゃあ) (= *d'.pa*)
 
-### k → ku
+### q → ku
 
-* hayak (早く)
-* hayak.te (早くて)
-* hayak-arta (早かった)
+* haya**q (早く)
+* haya*qte* (早くて)
+* haya*q-arta* (早かった)
 
 ## ON.yomi (音読み)
 
