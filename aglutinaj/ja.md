@@ -14,7 +14,7 @@
 
 ### '
 
-* d'arou (だろう)
+* *d'arou* (だろう)
 
 ### / → r
 
@@ -30,8 +30,8 @@
 
 * pude (筆)
 * pito (人)
-* .*ha* (は)
-* .*he* (へ)
+* .*pa* (は)
+* .*pe* (へ)
 
 ### -t
 
@@ -65,9 +65,9 @@
 
 ### q → ku
 
-* haya*q* (早く)
-* haya*qte* (早くて)
-* haya*q-arta* (早かった)
+* paya*q* (早く)
+* paya*qte* (早くて)
+* paya*q-arta* (早かった)
 
 ## ON-yo*mi* (音読み)
 
