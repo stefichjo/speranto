@@ -65,7 +65,7 @@
 
 ### q → ku
 
-* haya**q (早く)
+* haya*q* (早く)
 * haya*qte* (早くて)
 * haya*q-arta* (早かった)
 
