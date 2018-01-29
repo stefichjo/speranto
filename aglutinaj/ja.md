@@ -231,6 +231,10 @@
 |:-|
 | **BOK**.*pa* **tuki**.*pe* **to***bte* **i***qu* *tumori* *sa*. |
 
+| 彼は月の表面に立った。 |
+|:-|
+| **kare**.*pa* **tuki**.*no* **P̣Ō-MEN**.*ni* **ta**tta. |
+
 示 :SI SI: 祭 SĀ: 察 SAT
 予 YÅ ṢA: 野 YȎ ṢO 預 YO
 矛 MǑ M̥Ō: 務 MU
