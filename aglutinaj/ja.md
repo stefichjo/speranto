@@ -358,7 +358,7 @@
 
 | ライオンは動物の王さまです。 |
 |:-|
-| **LĪON**.*pa* **DŌ-M̥ǑT**.*no* **ou**-*sama* *desu*. |
+| ***LĪON***.*pa* **DŌ-M̥ǑT**.*no* **ou**-*sama* *desu*. |
 
 | 目を覚ますと、家族が来ていた。 |
 | :- |
@@ -370,11 +370,11 @@
 
 | アマゾン・ドット・コムで本を注文しました。 |
 |:-|
-| **AMAZON-DOT-COM**.*de* **PON**.*wo* **ṬŪ-MON**-*smasta*. |
+| ***AMAZON-DOT-COM***.*de* **PON**.*wo* **ṬŪ-MON**-*smasta*. |
 
 | 約束どおりにピアノをひいた。 |
 |:-|
-| **YAK-SOK**-*douri*.*ni* **PIANO**.*wo* *pikta*. |
+| **YAK-SOK**-*douri*.*ni* ***PIANO***.*wo* *pikta*. |
 
 | そこに問題がある。 |
 |:-|
