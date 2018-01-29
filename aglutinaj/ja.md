@@ -227,6 +227,10 @@
 |:-|
 | **kare**.*pa* **YAK-SOK**.*wo* **yabu***rta*. |
 
+| 僕は月へ飛んで行くつもりさ。 |
+|:-|
+| **BOK**.*pa* **tuki**.*pe* **to***bte **i***qu* *tumori* *sa*. |
+
 示 :SI SI: 祭 SĀ: 察 SAT
 予 YÅ ṢA: 野 YȎ ṢO 預 YO
 矛 MǑ M̥Ō: 務 MU
