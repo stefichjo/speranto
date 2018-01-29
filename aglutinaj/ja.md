@@ -382,4 +382,4 @@
 
 | 隣の村まで歩いて１時間かかった。 |
 |:-|
-| **tonari**.*no* **mura**.*made* **aru***kte* **IṬ-JI-KAN**.*kakarta*. |
+| **tonari**.*no* **mura**.*made* **aru***kte* **IṬ-JI-KAN**-*kakarta*. |
