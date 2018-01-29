@@ -233,7 +233,11 @@
 
 | 彼は月の表面に立った。 |
 |:-|
-| **kare**.*pa* **tuki**.*no* **P̣Ō-MEN**.*ni* **ta**tta. |
+| **kare**.*pa* **tuki**.*no* **P̣Ō-MEN**.*ni* **ta***tta*. |
+
+| この土地とこの家は私の物ですよ。 |
+|:-|
+| **sono** **TO-TI**.*to* *kono* **iwe**.*pa* **watasi**.*no* **mono** *desu*.*yo*. |
 
 示 :SI SI: 祭 SĀ: 察 SAT
 予 YÅ ṢA: 野 YȎ ṢO 預 YO
