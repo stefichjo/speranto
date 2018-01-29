@@ -223,6 +223,10 @@
 |:-|
 | **YŪ-BĖN-ḲOK**.*pa* sono **tou***ri*.*wo* **kuda***rta* *tokoro* *desu*. |
 
+| 彼は約束を破った。 |
+|:-|
+| **kare**.*pa* **YAK-SOK**.*wo* **yabu***rta*. |
+
 示 :SI SI: 祭 SĀ: 察 SAT
 予 YÅ ṢA: 野 YȎ ṢO 預 YO
 矛 MǑ M̥Ō: 務 MU
