@@ -71,6 +71,59 @@
 
 ## ON-yo*mi* (音読み)
 
+### A, E, I, O, U
+
+* A
+  * 多 TA
+    * 安 AN
+    * 約 YAK
+    * 活 KAT
+  * 毎 MĀ
+    * 上 ṢĀ ...
+* E
+  * 家 KE KA
+    * 天 TEN
+	* 駅 EK = EḲ
+	* 鉄 TET
+  * 計 KĒ
+    * 正 ṢĒ ...
+* I
+  * 市 SI
+    * 心 SIN
+	* 肉 NIK
+    * 一 IT IṬ
+  * 水 SĪ
+* O
+  * 母 BO
+    * 門 MON
+	* 足 SOK
+	* 骨 KOT
+  * 刀 TŌ
+    * 調 ṬŌ
+* U
+  *
+    * 寸 SUN
+  * 又 YŪ
+    * 休 ḲŪ
+
+#### → U
+
+### P → H
+
+* 本 PON
+
+### :
+
+* 台 :TĀ TĀ
+ 
+### °
+
+* 木 M̥OK MOK
+* 人 N̥IN NIN
+
+
+### ...
+
 * 【一】
 * 【丿】
 * 【亅】
@@ -80,9 +133,9 @@
 * 丁 ṬĒ TĒ TĖN TŌ=TE̊ TĖ: 町 ṬŌ
 * 糸 SI
  * 終 ṢŌ
-* 系 KEN
+* 系 KEN (! :( !)
  * 懸 KEN KE
-* 万 MAN M̥AN
+* 万 M̥AN MAN
  * 方 PŌ
    * 坊 BŌ BO'
    * 防 BŌ
@@ -229,7 +282,7 @@
 云 UN: 紜 UN 耘 UN 転 TEN 伝 :TEN TEN 雲 UN: 曇 DON: 壜 :TÅN TAN
 会 Y̥Ā Æ: 絵 Y̥Ā YÆ 桧 KĀ
 占 SEN: 店 TEN 点 TEN
-疋 PIḲ ṢO SO PIT 定 S̥Ē ṢĒ 是 :SE SĖ: 提 TĒ ṬĒ :TĀ?
+疋 PIḲ ṢO SO PIT 定 S̥Ē/TĒ ṢĒ/ṬĒ : 是 :SE SĖ: 提 TĒ ṬĒ :TĀ?
 下 KA :KÆ
 王 Ō -NŌ
 主 ṢU SU ṢŪ: 注 ṬŪ 住 :ṬŪ ṬŪ
@@ -237,7 +290,7 @@
 土羊 TAT: 達 TAT :TA
 不 PU :PU
 斤 KIN: 新 SIN 近 KȮN KON
-隹 SĀ SUI@: 進 SIN 集 ṢŌ
+隹 SĀ SĪ: 進 SIN 集 ṢŌ
 十 JŪ JU̇T- JUT-
 土 :TO TO
 圣 KOT KǑT KOṬ SĒ!: 経 KĒ ḲĒ 軽: KĒ
