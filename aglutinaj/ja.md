@@ -106,21 +106,29 @@
   * 又 YŪ
     * 休 ḲŪ
 
+#### Æ, Ø
+
+* 也 YÆ YA
+* 遠 ØN ON
+
 #### → U
 
-### P → H
+### P, H
 
 * 本 PON
+* 黄 ĦŌ HŌ
 
 ### :
 
 * 台 :TĀ TĀ
- 
+* 示 :SI SI
+* 験 :KEN KEN
+* 百 :P̣AK P̣AK
+
 ### °
 
 * 木 M̥OK MOK
 * 人 N̥IN NIN
-
 
 ### ...
 
@@ -161,7 +169,7 @@
  * 台 :TĀ TĀ
     * 始 SI
 * 【乙】
-* 也 YA YÆ
+* 也 YÆ YA
  * 池 TI
  * 地 TI
  * 他 TA
@@ -199,7 +207,13 @@
 
 * NI'.PON (日本)
  * TŌ.ḲĒ (東京)
- * ḲĒ.TO (京都) 
+ * ḲĒ.TO (京都)
+ 
+###
+
+| 僕の郷里の町は海に接している。 |
+|:-|
+| **BOK**.*no* **ḲŌ**-**RI**.*no* **mati**.*pa* **umi**.*ni* **SET**.*ste* *iu*.
 
 
 示 :SI SI: 祭 SĀ: 察 SAT
@@ -216,7 +230,7 @@
 勿 MOṬ M̥ǑT M̥OT
 月 GÆT GAT
 兪 TǑ TŌ YU!: 輸 YU ṢU
-甬 YŌ: 通 TŪ TU 痛: TŪ
+甬 YŌ: 通 TŪ TU 痛 TŪ
 母 BO: 毎 MĀ: 海 KĀ
 竹 TIK: 第 :TĀ TǢ
 門 MON
@@ -249,22 +263,22 @@
 韋 I: 違 I
 兌 :TA Ē ET TĀ!: 説 SET :SĒ
 周 ṢU: 調 ṬŌ
-僉 SEN: 検 KEN 験 KEN :KEN
+僉 SEN: 検 KEN 験 :KEN KEN
 日 NIṬ N̥IT
-白 PAK :P̣AK: 百 P̣AK :P̣AK: 佰 P̣AK PAK: 宿 ṢUK
+白 :PAK P̣AK: 百 :P̣AK P̣AK: 佰 P̣AK PAK: 宿 ṢUK
 旨 SI: 指 SI
 車 ṢA
 軍 GEN: 運 UN
 早十 KAN ṬŌ!: 乾 KAN KÆN
 竟 ḲĒ KĒ: 鏡 ḲĒ KĒ
-艮 KON :KON: 眼 GAN GÆN
+艮 :KON KON: 眼 GÆN GAN
 田 DEN: 男 N̥AN NAN
 畐 PǑK P̣OK PȮḲ: 福 PUK 富 PU PŪ 冨 PU PŪ 副 PUK 幅 PUK
 曽 SŌ SO :SŌ
 里 RI: 理 RI
 重 :ṬŌ ṬŌ: 動 DŌ
 単 TAN: 戦 SEN
-黄 Y̥Ō ỴŌ: 横 Ō
+黄 ĦŌ HŌ: 横 Ō
 目 MOK M̥OK
 且 ṢO SO ṢŌ
 自 :SI SI
@@ -280,10 +294,10 @@
 止 SI
 寺 「止」 JI: 詩 SI 持 JI 時 SI 特 TOK
 云 UN: 紜 UN 耘 UN 転 TEN 伝 :TEN TEN 雲 UN: 曇 DON: 壜 :TÅN TAN
-会 Y̥Ā Æ: 絵 Y̥Ā YÆ 桧 KĀ
+会 ĦÆ HĀ: 絵 ĦÆ HĀ 桧 KĀ
 占 SEN: 店 TEN 点 TEN
 疋 PIḲ ṢO SO PIT 定 S̥Ē/TĒ ṢĒ/ṬĒ : 是 :SE SĖ: 提 TĒ ṬĒ :TĀ?
-下 KA :KÆ
+下 :KÆ KA
 王 Ō -NŌ
 主 ṢU SU ṢŪ: 注 ṬŪ 住 :ṬŪ ṬŪ
 羊 YŌ: 洋 YŌ
