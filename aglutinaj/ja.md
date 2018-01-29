@@ -219,6 +219,9 @@
 |:-|
 | **sono** **kuruma**.*pa* **ugo***kou*.*to* *snaq-arta*. |
 
+| 郵便局はその通りを下ったところです。 |
+|:-|
+| **YŪ-BĖN-ḲOK**.*pa* sono **tou***ri*.*wo* **kuda***rta* *tokoro* *desu*. |
 
 示 :SI SI: 祭 SĀ: 察 SAT
 予 YÅ ṢA: 野 YȎ ṢO 預 YO
