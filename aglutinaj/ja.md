@@ -215,6 +215,10 @@
 |:-|
 | **BOK**.*no* **ḲŌ**-**RI**.*no* **mati**.*pa* **umi**.*ni* **SET**.*ste* *iu*.
 
+| その車は動こうとしなかった |
+|:-|
+| **sono** **kuruma**.*pa* **ugo***kou*.*to* *snaq-arta*. |
+
 
 示 :SI SI: 祭 SĀ: 察 SAT
 予 YÅ ṢA: 野 YȎ ṢO 預 YO
