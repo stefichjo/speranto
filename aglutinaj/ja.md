@@ -379,3 +379,7 @@
 | そこに問題がある。 |
 |:-|
 | *sono*.*ni* **MON-DĀ**.*ga* *aru*. |
+
+| 隣の村まで歩いて１時間かかった。 |
+|:-|
+| **tonari**.*no* **mura**.*made* **aru***kte* **IṬ-JI-KAN**.*kakarta*. |
