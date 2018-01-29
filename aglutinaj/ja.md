@@ -356,3 +356,6 @@
 |:-|
 | *sono* **TO-TI**.*to* *kono* **iwe**.*pa* **watasi**.*no* **mono** *desu*.*yo*. |
 
+| ライオンは動物の王さまです。 |
+|:-|
+| **LĪON**.*pa* **DŌ-M̥ǑT**.*no* **ou**-*sama* *desu*. |
