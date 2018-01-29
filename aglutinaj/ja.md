@@ -203,42 +203,6 @@
 * 者 ṢA
  * 都 TO TǑ
 
-## tatowe=pa (例えば)
-
-* NI'.PON (日本)
- * TŌ.ḲĒ (東京)
- * ḲĒ.TO (京都)
- 
-###
-
-| 僕の郷里の町は海に接している。 |
-|:-|
-| **BOK**.*no* **ḲŌ**-**RI**.*no* **mati**.*pa* **umi**.*ni* **SET**.*ste* *iu*.
-
-| その車は動こうとしなかった |
-|:-|
-| **sono** **kuruma**.*pa* **ugo***kou*.*to* *snaq-arta*. |
-
-| 郵便局はその通りを下ったところです。 |
-|:-|
-| **YŪ-BĖN-ḲOK**.*pa* sono **tou***ri*.*wo* **kuda***rta* *tokoro* *desu*. |
-
-| 彼は約束を破った。 |
-|:-|
-| **kare**.*pa* **YAK-SOK**.*wo* **yabu***rta*. |
-
-| 僕は月へ飛んで行くつもりさ。 |
-|:-|
-| **BOK**.*pa* **tuki**.*pe* **to***bte* **i***qu* *tumori* *sa*. |
-
-| 彼は月の表面に立った。 |
-|:-|
-| **kare**.*pa* **tuki**.*no* **P̣Ō-MEN**.*ni* **ta***tta*. |
-
-| この土地とこの家は私の物ですよ。 |
-|:-|
-| *sono* **TO-TI**.*to* *kono* **iwe**.*pa* **watasi**.*no* **mono** *desu*.*yo*. |
-
 示 :SI SI: 祭 SĀ: 察 SAT
 予 YÅ ṢA: 野 YȎ ṢO 預 YO
 矛 MǑ M̥Ō: 務 MU
@@ -355,3 +319,40 @@
 氏 SI: 紙 SI
 民 MIN: 眠 MIN
 彡 SAN SÆN: 参 SAN SIN@
+
+## tatowe=pa (例えば)
+
+* NI'.PON (日本)
+ * TŌ.ḲĒ (東京)
+ * ḲĒ.TO (京都)
+ 
+###
+
+| 僕の郷里の町は海に接している。 |
+|:-|
+| **BOK**.*no* **ḲŌ**-**RI**.*no* **mati**.*pa* **umi**.*ni* **SET**.*ste* *iu*.
+
+| その車は動こうとしなかった |
+|:-|
+| **sono** **kuruma**.*pa* **ugo***kou*.*to* *snaq-arta*. |
+
+| 郵便局はその通りを下ったところです。 |
+|:-|
+| **YŪ-BĖN-ḲOK**.*pa* sono **tou***ri*.*wo* **kuda***rta* *tokoro* *desu*. |
+
+| 彼は約束を破った。 |
+|:-|
+| **kare**.*pa* **YAK-SOK**.*wo* **yabu***rta*. |
+
+| 僕は月へ飛んで行くつもりさ。 |
+|:-|
+| **BOK**.*pa* **tuki**.*pe* **to***bte* **i***qu* *tumori* *sa*. |
+
+| 彼は月の表面に立った。 |
+|:-|
+| **kare**.*pa* **tuki**.*no* **P̣Ō-MEN**.*ni* **ta***tta*. |
+
+| この土地とこの家は私の物ですよ。 |
+|:-|
+| *sono* **TO-TI**.*to* *kono* **iwe**.*pa* **watasi**.*no* **mono** *desu*.*yo*. |
+
