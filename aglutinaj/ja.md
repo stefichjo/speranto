@@ -376,3 +376,6 @@
 |:-|
 | **YAK-SOK**-*douri*.*ni* **PIANO**.*wo* *pikta*. |
 
+| そこに問題がある。 |
+|:-|
+| *sono*.*ni* **MON-DĀ**.*ga* *aru*. |
