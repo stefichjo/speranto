@@ -326,9 +326,17 @@
 
 ## tatowe=pa (例えば)
 
+### Hansignoj por Prajapanaj Vortoj
+
 | その車は動こうとしなかった |
 |:-|
 | *sono* **kuruma**.*pa* **ugo***kou*.*to* *snaq-arta*. |
+
+### Unuopaj Ĉin-Devenaj Vortoj
+
+| 僕は月へ飛んで行くつもりさ。 |
+|:-|
+| **BOK**.*pa* **tuki**.*pe* **to***bte* **i***qu* *tumori* *sa*. |
 
 ### Kombinoj el Hansignoj
 
@@ -368,14 +376,19 @@
 |:-|
 | **YŪ-BĖN-ḲOK**.*pa* sono **tou***ri*.*wo* **kuda***rta* *tokoro* *desu*. |
 
+| | | | | | |
+|-:|:-|-:|:-|-:|:-|-:|:-|
+| **郵** | **YŪ** | **便** | **BĖN** **BEN** | **局** | **ḲOK** |
+| **邑** | **YŪ** | **人** | **N̥IN** **NIN** | **句** | **KU** |
+| | | |                                      | **口** | **KǑ** **KŌ** |
+
+
+
 
 | 彼は約束を破った。 |
 |:-|
 | **kare**.*pa* **YAK-SOK**.*wo* **yabu***rta*. |
 
-| 僕は月へ飛んで行くつもりさ。 |
-|:-|
-| **BOK**.*pa* **tuki**.*pe* **to***bte* **i***qu* *tumori* *sa*. |
 
 | 彼は月の表面に立った。 |
 |:-|
