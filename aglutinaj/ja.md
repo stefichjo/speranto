@@ -4,13 +4,13 @@
 
 ### -
 
-* ki-mono (着物)
+* **ki**-**mono** (着物)
 
 ### =
 
-* yama=ta (山田)
-* te=kami (手紙)
-* toki=toki (時々)
+* **yama**=**ta** (山田)
+* **te**=**kami** (手紙)
+* **toki**=**toki** (時々)
 
 ### '
 
@@ -18,56 +18,56 @@
 
 ### / → r
 
-* ta*beu* (食べる)
-* mi*u* (見る)
+* **ta***beu* (食べる)
+* **mi***u* (見る)
 
 ### w → /
 
-* ka*wu* (買う)
+* **ka***wu* (買う)
 * .*wo* (を)
 
 ### p → f/h/w
 
-* pude (筆)
-* pito (人)
+* **pude** (筆)
+* **pito** (人)
 * .*pa* (は)
 * .*pe* (へ)
 
 ### -t
 
-* mo*tte* (持って)
-* o*ste* (押して)
-* ka*kte* (書いて)
-* iso*gte* (急いで)
-* si*nte* (死んで)
-* no*mte* (飲んで)
-* yo*bte* (呼んで)
-* ka*wte* (買って)
-* to*rte* (取って)
+* **mo***tte* (持って)
+* **o***ste* (押して)
+* **ka***kte* (書いて)
+* **iso***gte* (急いで)
+* **si***nte* (死んで)
+* **no***mte* (飲んで)
+* **yo***bte* (呼んで)
+* **ka***wte* (買って)
+* **to***rte* (取って)
 
 * *i'te* (行って)
 * *ste* (して)
 
 ### t → ts
 
-* tuki (月)
+* **tuki** (月)
 
 ### s, t → sh, ch
 
-* asi (足)
-* mati (町)
+* **asi** (足)
+* **mati** (町)
 
 ### z, d → j
 
-* to*jiu* (閉じる) (= to*diu*/to*ziu*)
-* pana=ti (鼻血)
+* **to***jiu* (閉じる) (= **to***diu*/**to***ziu*)
+* **pana**=**ti** (鼻血)
 * *ja* (じゃあ) (= *d'.pa*)
 
 ### q → ku
 
-* paya*q* (早く)
-* paya*qte* (早くて)
-* paya*q-arta* (早かった)
+* **paya***q* (早く)
+* **paya***qte* (早くて)
+* **paya***q-arta* (早かった)
 
 ## ON-yo*mi* (音読み)
 
@@ -334,7 +334,7 @@
 
 | その車は動こうとしなかった |
 |:-|
-| **sono** **kuruma**.*pa* **ugo***kou*.*to* *snaq-arta*. |
+| *sono* **kuruma**.*pa* **ugo***kou*.*to* *snaq-arta*. |
 
 | 郵便局はその通りを下ったところです。 |
 |:-|
