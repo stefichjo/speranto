@@ -14,7 +14,7 @@
 
 ### '
 
-* *d'arou* (だろう)
+* *d'arō* (だろう)
 
 ### / → r
 
@@ -63,11 +63,11 @@
 * **pana**=**ti** (鼻血)
 * *ja* (じゃあ) (= *d'.pa*)
 
-### q → ku
+### ı → ku
 
-* **paya***q* (早く)
-* **paya***qte* (早くて)
-* **paya***q-arta* (早かった)
+* **paya***ı* (早く)
+* **paya***ıte* (早くて)
+* **paya***ı-arta* (早かった)
 
 ## ON-yo*mi* (音読み)
 
@@ -222,7 +222,7 @@
 月 GÆT GAT
 兪 TǑ TŌ YU!: 輸 YU ṢU
 甬 YŌ: 通 TŪ TU 痛 TŪ
-母 BO: 毎 MĀ: 海 KĀ
+母 BO: 毎 MĀ
 竹 TIK: 第 :TĀ TǢ
 匕 PI
 化 KA KÆ: 花 KA KÆ 靴 KA
@@ -236,7 +236,6 @@
 皮 PI: 破 PA 彼 PI
 爰 EN: 暖 N̥ȎN NON
 度 :TO TO TAK@: 渡 TO
-女 Ṅ̥O ṆO ṆŌ
 安 AN: 案 AN
 奴 DO: 努 DO
 心 SIN
@@ -327,19 +326,19 @@
 
 | その車は動こうとしなかった |
 |:-|
-| *sono* **kuruma**.*pa* **ugo***kou*.*to* *snaq-arta*. |
+| *sono* **kuruma**.*pa* **ugo***kō*.*to* *snaı-arta*. |
 
 ### Unuopaj Ĉin-Devenaj Vortoj
 
 | 僕は月へ飛んで行くつもりさ。 |
 |:-|
-| **BOK**.*pa* **tuki**.*pe* **to***bte* **i***qu* *tumori* *sa*. |
+| **BOK**.*pa* **tuki**.*pe* **to***bte* **i***ıu* *tumori* *sa*. |
 
 ### Kombinoj el Hansignoj
 
 | 日本人ならそんなことはけっしてしないでしょう。 |
 |:-|
-| **NI'-PON-N̥IN**.*nara* *sonna* *koto*.*pa* KET.*ste* *snai* *desyou*. |
+| **NI'-PON-N̥IN**.*nara* *sonna* *koto*.*pa* KET.*ste* *snai* *desyō*. |
 
 | | | | | | |
 |-:|:-|-:|:-|-:|:-|
@@ -358,7 +357,7 @@
 
 | 約束どおりにピアノをひいた。 |
 |:-|
-| **YAK-SOK**-*douri*.*ni* *PIANO*.*wo* *pikta*. |
+| **YAK-SOK**-*dōri*.*ni* *PIANO*.*wo* *pikta*. |
 
 | 彼は約束を破った。 |
 |:-|
@@ -411,7 +410,7 @@
 
 | 郵便局はその通りを下ったところです。 |
 |:-|
-| **YŪ-BĖN-ḲOK**.*pa* *sono* **tou***ri*.*wo* **kuda***rta* *tokoro* *desu*. |
+| **YŪ-BĖN-ḲOK**.*pa* *sono* **tō***ri*.*wo* **kuda***rta* *tokoro* *desu*. |
 
 | | | | | | |
 |-:|:-|-:|:-|-:|:-|
@@ -441,7 +440,7 @@
 
 | ライオンは動物の王さまです。 |
 |:-|
-| *LĪON*.*pa* **DŌ-M̥ǑT**.*no* **ou**-*sama* *desu*. |
+| *LĪON*.*pa* **DŌ-M̥ǑT**.*no* **ō**-*sama* *desu*. |
 
 | 目を覚ますと、家族が来ていた。 |
 | :- |
@@ -455,3 +454,12 @@
 |:-|
 | *AMAZON-DOT-COM*.*de* **PON**.*wo* **ṬŪ-MON**-*smasta*. |
 
+| 北海道はたいへん遠いですね。 |
+|:-|
+| **POK-KĀ÷TŌ**.*pa* TĀ-PEN **tō***i* *desu*.*ne*. |
+
+| 彼女と言う人がぜんぜん分からなかった。 |
+|:-|
+| **kano**-**Ṅ̥O**.*to* **i**wu **pito**.*ga* ZENṆ̥EN **wa***karanaı*-*arta*. |
+
+* 女 Ṅ̥O ṆO ṆŌ
