@@ -125,6 +125,12 @@
 * 験 :KEN KEN
 * 百 :P̣AK P̣AK
 
+### .
+
+* 車 ṢA
+
+*(Post "Y" ne estas "E", nek radika fino "N".)*
+
 ### °
 
 * 木 M̥OK MOK
@@ -175,7 +181,6 @@
 * 【乙】
 * 也 YÆ YA
  * 池 TI
- * 地 TI
  * 他 TA
 * 已 E
 * 【人】
@@ -255,16 +260,13 @@
 僉 SEN: 検 KEN 験 :KEN KEN
 白 :PAK P̣AK: 百 :P̣AK P̣AK: 佰 P̣AK PAK: 宿 ṢUK
 旨 SI: 指 SI
-車 ṢA
 軍 GEN: 運 UN
 早十 KAN ṬŌ!: 乾 KAN KÆN
 竟 ḲĒ KĒ: 鏡 ḲĒ KĒ
 艮 :KON KON: 眼 GÆN GAN
-田 DEN: 男 N̥AN NAN
 畐 PǑK P̣OK PȮḲ: 福 PUK 富 PU PŪ 冨 PU PŪ 副 PUK 幅 PUK
 曽 SŌ SO :SŌ
 里 RI: 理 RI
-重 :ṬŌ ṬŌ: 動 DŌ
 単 TAN: 戦 SEN
 黄 ĦŌ HŌ: 横 Ō
 目 MOK M̥OK
@@ -279,21 +281,18 @@
 竟 ḲĒ KĒ
 彦 GEN: 顔 GAN 産 SAN
 上 :ṢĀ ṢĀ ṢAN
-寺 「止」 JI: 詩 SI 持 JI 時 SI 特 TOK
+寺 「止」 JI: 詩 SI 持 JI 特 TOK
 云 UN: 紜 UN 耘 UN 転 TEN 伝 :TEN TEN 雲 UN: 曇 DON: 壜 :TÅN TAN
 会 ĦÆ HĀ: 絵 ĦÆ HĀ 桧 KĀ
 占 SEN: 店 TEN 点 TEN
 疋 PIḲ ṢO SO PIT 定 S̥Ē/TĒ ṢĒ/ṬĒ : 是 :SE SĖ: 提 TĒ ṬĒ :TĀ?
 下 :KÆ KA
-王 Ō -NŌ
-主 ṢU SU ṢŪ: 注 ṬŪ 住 :ṬŪ ṬŪ
 羊 YŌ: 洋 YŌ
 土羊 TAT: 達 TAT :TA
 不 PU :PU
 斤 KIN: 新 SIN 近 KȮN KON
 隹 SĀ SĪ: 進 SIN 集 ṢŌ
 十 JŪ JU̇T- JUT-
-土 :TO TO
 圣 KOT KǑT KOṬ SĒ!: 経 KĒ ḲĒ 軽: KĒ
 士 SI: 志 SI: 誌 SI
 吉 KIṬ KIT: 結 KET KEṬ
@@ -305,7 +304,6 @@
 大  :TĀ TĀ
 犬 KEN: 然 ZEN NEN!
 夬 KĀ KÆT KÆṬ 「叏」: 決 KET
-央 Ō
 奐 KAN: 換 KAN
 天 TEN
 矢 SI: 知 TI 医 I 矣 I: 欸 Ā KĀ
@@ -328,13 +326,39 @@
 |:-|
 | *sono* **kuruma**.*pa* **ugo***kō*.*to* *snaı-arta*. |
 
+### Katakanoj por Okcident-Devenaj Vortoj
+
+| その間私はテレビを見ていた。 |
+|:-|
+| *sono* **awida** **watasi**.*pa* *TELEVI*.*wo* **mi**.*te* *ita*. |
+
+### Ĉin-Devenaj Vortoj sen Hansignoj
+
+| この秋は、珍しくドラマをたくさん見ている。 |
+|:-|
+| *sono* **aki**.*pa*, **mezura***siı* *DRAMA*.*wo* TAK-SAN **mi***te* *iu*. |
+
 ### Unuopaj Ĉin-Devenaj Vortoj
+
+| 愛してる。 |
+|:-|
+| **Ā**-*ste* *iu*. |
 
 | 僕は月へ飛んで行くつもりさ。 |
 |:-|
 | **BOK**.*pa* **tuki**.*pe* **to***bte* **i***ıu* *tumori* *sa*. |
 
-### Kombinoj el Hansignoj
+| 彼女と言う人がぜんぜん分からなかった。 |
+|:-|
+| **kano**-**̥̣NO**.*to* **i***wu* **pito**.*ga* ZEN-N̥̣EN **wa***karanaı*-*arta*. |
+
+### Nomoj de Lokoj
+
+| 北海道はたいへん遠いですね。 |
+|:-|
+| **POK-KĀ÷TŌ**.*pa* TĀ-PEN **tō***i* *desu*.*ne*. |
+
+### Simplaj Hansignoj
 
 | 日本人ならそんなことはけっしてしないでしょう。 |
 |:-|
@@ -353,7 +377,12 @@
 |-:|:-|-:|:-|
 | **旅** | **ṚO** | **行** | **:ḲO** **KŌ**, **AN** |
 
-### Kunmetitaj Hansignoj
+### Kompleksaj Hansignoj
+
+* **家** **KÆ** **KA**
+* **休** **ḲŪ**
+
+### Kompleksaj Hansignoj kun Sonindiko
 
 | 約束どおりにピアノをひいた。 |
 |:-|
@@ -363,15 +392,15 @@
 |:-|
 | **kare**.*pa* **YAK-SOK**.*wo* **yabu***rta*. |
 
-| | |
-|-:|:-|
+| | | | |
+|-:|:-|-:|:-|
 | **約** | **YAK** | **束** | **SOK** |
 | **勺** | **ṢAK** | **木** | **M̥OK** **MOK** |
 
 
 | そこに問題がある。 |
 |:-|
-| *sono*.*ni* **MON-DĀ**.*ga* *aru*. |
+| *soko*.*ni* **MON-DĀ**.*ga* *aru*. |
 
 | | | | |
 |-:|:-|-:|:-|
@@ -428,38 +457,64 @@
 | | | **寺** | **JI** | **門** | **MON** |
 | | | **止** | **SI** | | |
 
-###
-
-| 彼は月の表面に立った。 |
+| 男女の間にはどうして違いがあるのか。 |
 |:-|
-| **kare**.*pa* **tuki**.*no* **P̣Ō-MEN**.*ni* **ta***tta*. |
+| **N̥AN-̥̣NO**.*no* **awida**.*ni*.*pa* *dō-ste* **tiga***wi*.*ga* *aru* *no*.*ka*. |
 
-| この土地とこの家は私の物ですよ。 |
-|:-|
-| *sono* **TO-TI**.*to* *kono* **iwe**.*pa* **watasi**.*no* **mono** *desu*.*yo*. |
+| | | | |
+|-:|:-|-:|:-|
+| **男** | **N̥AN** **NAN** | **女** | **̥̣NO** **ṆO** **ṆŌ** |
+| **田** | **DEN** | | |
 
-| ライオンは動物の王さまです。 |
-|:-|
-| *LĪON*.*pa* **DŌ-M̥ǑT**.*no* **ō**-*sama* *desu*. |
-
-| 目を覚ますと、家族が来ていた。 |
-| :- |
-| **me**.*wo* **sa***masu*.*to*, **KA-ZOK**.*ga* **ki***te* *ita*. |
-
-| 愛してる。 |
-|:-|
-| **Ā**-*ste* *iu*. |
 
 | アマゾン・ドット・コムで本を注文しました。 |
 |:-|
 | *AMAZON-DOT-COM*.*de* **PON**.*wo* **ṬŪ-MON**-*smasta*. |
 
-| 北海道はたいへん遠いですね。 |
-|:-|
-| **POK-KĀ÷TŌ**.*pa* TĀ-PEN **tō***i* *desu*.*ne*. |
+| | | | |
+|-:|:-|-:|:-|
+| **注** | **ṬŪ** | **文** | **M̥ǑN** **MON** |
+| **主** | **SU** **ṢU** **ṢŪ** | | |
 
-| 彼女と言う人がぜんぜん分からなかった。 |
-|:-|
-| **kano**-**Ṅ̥O**.*to* **i**wu **pito**.*ga* ZENṆ̥EN **wa***karanaı*-*arta*. |
 
-* 女 Ṅ̥O ṆO ṆŌ
+| 目を覚ますと、家族が来ていた。 |
+| :- |
+| **me**.*wo* **sa***masu*.*to*, **KA-ZOK**.*ga* **ki***te* *ita*. |
+
+| | | | |
+|-:|:-|-:|:-|
+| **家** | **KÆ** **KA** | **族** | **ZOK** |
+| | | **矢** | **SI** |
+
+
+| ライオンは動物の王さまです。 |
+|:-|
+| *LĪON*.*pa* **DŌ-M̥ǑT**.*no* **ō**-*sama* *desu*. |
+
+| | | | |
+|-:|:-|-:|:-|
+| **動** | **DŌ** | **物** | **M̥ǑT** **MOT** |
+| **重** | **:ṬŌ** **ṬŌ** | **勿** | **M̥ǑT** **M̥OT** **MOṬ** |
+
+
+| この土地とこの家は私の物ですよ。 |
+|:-|
+| *sono* **TO-TI**.*to* *kono* **iwe**.*pa* **watasi**.*no* **mono** *desu*.*yo*. |
+
+| | | | |
+|-:|:-|-:|:-|
+| **土** | **:TO** **TO** | **地** | **:TI** **TI** |
+| | | **也** | **YÆ** **YA** |
+
+### ?
+
+| 彼は月の表面に立った。 |
+|:-|
+| **kare**.*pa* **tuki**.*no* **P̣Ō-MEN**.*ni* **ta***tta*. |
+
+| | | | |
+|-:|:-|-:|:-|
+| **表** | **P̣Ō** | **面** | **M̥EN** **MEN** |
+| **王** ? | **Ō** -**NŌ** | | |
+| **良** ? | **ṚŌ** | | |
+
