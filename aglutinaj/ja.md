@@ -140,6 +140,8 @@
 
 * 予 ṢA YÅ
 
+### J → Z
+
 ### ...
 
 * 【一】
@@ -326,6 +328,12 @@
 |:-|
 | *sono* **kuruma**.*pa* **ugo***kō*.*to* *snaı-arta*. |
 
+### Pluraj Hansignoj por Prajapanaj Vortoj
+
+| 明日はどうですか。 |
+|:-|
+| **asta**.*pa* *dō* *desu.ka*. |
+
 ### Katakanoj por Okcident-Devenaj Vortoj
 
 | その間私はテレビを見ていた。 |
@@ -351,6 +359,12 @@
 | 彼女と言う人がぜんぜん分からなかった。 |
 |:-|
 | **kano**-**̥̣NO**.*to* **i***wu* **pito**.*ga* ZEN-N̥̣EN **wa***karanaı*-*arta*. |
+
+### Nomoj de Tempoj
+
+| 明日は日曜日です。 |
+|:-|
+| **asta**.*pa* **NIṬ-YŌ=pi** *desu*. |
 
 ### Nomoj de Lokoj
 
