@@ -329,30 +329,43 @@
 |:-|
 | *sono* **kuruma**.*pa* **ugo***kō*.*to* *snaı-arta*. |
 
-### Pluraj Hansignoj por Prajapanaj Vortoj
+#### Pluraj Hansignoj por Prajapanaj Vortoj
 
 | 明日はどうですか。 |
 |:-|
 | **asta**.*pa* *dō* *desu.ka*. |
 
-### Katakanoj por Okcident-Devenaj Vortoj
+#### Koloroj
+
+| 彼は寒さでまっさおになっていた。 |
+|:-|
+| **kare**.*pa* **samu***sa*.*de* *matu-sawo*.*ni* *narte* *ita*. |
+
+| 彼の顔は真っ青になった。 |
+|:-|
+| **kare**.*no* **kawo**.*pa* **ma***tu*-**sawo**.*ni* *narta*. |
+
+### Kanoj por Ne-Prajapanaj Vortoj
+
+#### Katakanoj
 
 | その間私はテレビを見ていた。 |
 |:-|
 | *sono* **aida** **watasi**.*pa* *TELEVI*.*wo* **mi**.*te* *ita*. |
 
+| ショウイチは真っ青になった。 |
+|:-|
+| *ṢŌ-IṬ*.*pa* **ma***tu*-**sawo**.*ni* *narta*. |
 
-### Ĉin-Devenaj Vortoj sen Hansignoj
+#### Hiraganoj
 
 | お早うございます。 |
 |:-|
 | *o*-**hayå***u* GO-ZA*imasu*. |
 
-
 | この秋は、珍しくドラマをたくさん見ている。 |
 |:-|
 | *sono* **aki**.*pa*, **mezura***siı* *DRAMA*.*wo* TAK-SAN **mi***te* *iu*. |
-
 
 ### Unuopaj Ĉin-Devenaj Vortoj
 
@@ -360,13 +373,21 @@
 |:-|
 | **Ā**-*ste* *iu*. |
 
+#### 僕
+
 | 僕は月へ飛んで行くつもりさ。 |
 |:-|
 | **BOK**.*pa* **tuki**.*pe* **to***bte* **i***ıu* *tumori* *sa*. |
 
+#### 女
+
 | 彼女と言う人がぜんぜん分からなかった。 |
 |:-|
 | **kano**-**̥̣NO**.*to* **i***wu* **pito**.*ga* ZEN-N̥̣EN **wa***karanaı*-*arta*. |
+
+| 彼女はその知らせを聞いて真っ青になった。 |
+|:-|
+| **kano**-**̥̣NO**.*pa* *sono* **si***rase*.*wo* **ki***te* **ma***tu*-**sawo**.*ni* *narta*. |
 
 ### Nomoj de Tempoj
 
