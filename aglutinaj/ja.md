@@ -399,6 +399,10 @@
 |:-|
 | **kano**-**̥̣NO**.*pa* *sono* **si***rase*.*wo* **ki***te* **ma***t'*-**sawo**.*ni* *narta*. |
 
+| 彼女は昨日背の高い男の人に会いました。 |
+|:-|
+| **kano**-**̥̣NO**.*pa* **kinō** **se**.*no* **taka***i* **otoko**.*no* **pito**.*ni* **a***wimasta*. |
+
 ### Nomoj
 
 | 洋子はきのう買い物に行った。 |
@@ -597,6 +601,3 @@
 
 
 
-| 彼女は昨日背の高い男の人に会いました。 |
-|:-|
-| **kano**-**̥̣NO**.*pa* **kinō** **se**.*no* **taka***i* **otoko**.*no* **pito**.*ni* **a***wimasta*. |
