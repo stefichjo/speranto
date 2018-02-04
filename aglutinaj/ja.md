@@ -20,6 +20,7 @@
 
 * **ta***beu* (食べる)
 * **mi***u* (見る)
+* **GO-ZA***u* (御座る)
 
 ### w → /
 
@@ -324,11 +325,6 @@
 
 ### Hansignoj por Prajapanaj Vortoj
 
-| お早うございます。 |
-|:-|
-| *o*-**hayå***u* *gozaimasu*. |
-
-
 | その車は動こうとしなかった |
 |:-|
 | *sono* **kuruma**.*pa* **ugo***kō*.*to* *snaı-arta*. |
@@ -347,6 +343,11 @@
 
 
 ### Ĉin-Devenaj Vortoj sen Hansignoj
+
+| お早うございます。 |
+|:-|
+| *o*-**hayå***u* GO-ZA*imasu*. |
+
 
 | この秋は、珍しくドラマをたくさん見ている。 |
 |:-|
@@ -377,12 +378,20 @@
 |:-|
 | *o*-**TAN=ṢŌ=pi**-*o-medetåu* **ai=pa**-*s̥̣an*! |
 
+| 来週休みを取ってもよろしいでしょうか。 |
+|:-|
+| **RĀ-ṢŪ** **yasu***mi*.*wo* **to***rte*.*mo* *yorosii* *desyō*.*ka*. |
 
 ### Nomoj de Lokoj
 
 | 北海道はたいへん遠いですね。 |
 |:-|
 | **POK-KĀ÷TŌ**.*pa* TĀ-PEN **tō***i* *desu*.*ne*. |
+
+
+| 来週東京に行くことになっています。 |
+|:-|
+| **RĀ-ṢŪ** **TŌ-ḲĒ**.*ni* **i***ıu* *koto*.*ni* *narte* *imasu*. |
 
 ### Simplaj Hansignoj
 
