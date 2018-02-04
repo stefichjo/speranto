@@ -335,6 +335,10 @@
 |:-|
 | **asta**.*pa* *dō* *desu.ka*. |
 
+| 今日はとても暑い。 |
+|:-|
+| **kyō**.*pa* *totemo* **atu***i*. |
+
 #### Koloroj
 
 | 彼は寒さでまっさおになっていた。 |
@@ -343,13 +347,13 @@
 
 | 彼の顔は真っ青になった。 |
 |:-|
-| **kare**.*no* **kawo**.*pa* **ma***tu*-**sawo**.*ni* *narta*. |
+| **kare**.*no* **kawo**.*pa* **ma***t'*-**sawo**.*ni* *narta*. |
 
 #### Direktoj
 
 | 北を向くと、東は右側になる。 |
 |:-|
-| **kita**.*wo* **mu***ku*.*to*, **pikasi**.*pa* **migi=kawa**.*ni* *naru*. |
+| **kita**.*wo* **mu***ku*.*to*, **pikasi**.*pa* **migi**=**kawa**.*ni* *naru*. |
 
 ### Kanoj por Ne-Prajapanaj Vortoj
 
@@ -361,7 +365,7 @@
 
 | ショウイチは真っ青になった。 |
 |:-|
-| *ṢŌ-IṬ*.*pa* **ma***tu*-**sawo**.*ni* *narta*. |
+| *ṢŌ-IṬ*.*pa* **ma***t'*-**sawo**.*ni* *narta*. |
 
 #### Hiraganoj
 
@@ -393,9 +397,15 @@
 
 | 彼女はその知らせを聞いて真っ青になった。 |
 |:-|
-| **kano**-**̥̣NO**.*pa* *sono* **si***rase*.*wo* **ki***te* **ma***tu*-**sawo**.*ni* *narta*. |
+| **kano**-**̥̣NO**.*pa* *sono* **si***rase*.*wo* **ki***te* **ma***t'*-**sawo**.*ni* *narta*. |
 
-### Nomoj de Tempoj
+### Nomoj
+
+| 洋子はきのう買い物に行った。 |
+|:-|
+| **YŌ**-**ko**.*pa* *kinō* **ka***wi*-**mono**.*ni* **i***ıta*. |
+
+#### Nomoj de Tempoj
 
 | 明日は日曜日です。 |
 |:-|
@@ -409,7 +419,7 @@
 |:-|
 | **RĀ-ṢŪ** **yasu***mi*.*wo* **to***rte*.*mo* *yorosii* *desyō*.*ka*. |
 
-### Nomoj de Lokoj
+#### Nomoj de Lokoj
 
 | 北海道はたいへん遠いですね。 |
 |:-|
