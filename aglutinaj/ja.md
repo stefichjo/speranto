@@ -324,6 +324,11 @@
 
 ### Hansignoj por Prajapanaj Vortoj
 
+| お早うございます。 |
+|:-|
+| *o*-**hayå***u* *gozaimasu*. |
+
+
 | その車は動こうとしなかった |
 |:-|
 | *sono* **kuruma**.*pa* **ugo***kō*.*to* *snaı-arta*. |
@@ -338,13 +343,15 @@
 
 | その間私はテレビを見ていた。 |
 |:-|
-| *sono* **awida** **watasi**.*pa* *TELEVI*.*wo* **mi**.*te* *ita*. |
+| *sono* **aida** **watasi**.*pa* *TELEVI*.*wo* **mi**.*te* *ita*. |
+
 
 ### Ĉin-Devenaj Vortoj sen Hansignoj
 
 | この秋は、珍しくドラマをたくさん見ている。 |
 |:-|
 | *sono* **aki**.*pa*, **mezura***siı* *DRAMA*.*wo* TAK-SAN **mi***te* *iu*. |
+
 
 ### Unuopaj Ĉin-Devenaj Vortoj
 
@@ -365,6 +372,11 @@
 | 明日は日曜日です。 |
 |:-|
 | **asta**.*pa* **NIṬ-YŌ=pi** *desu*. |
+
+| お誕生日おめでとう相葉ちゃん！ |
+|:-|
+| *o*-**TAN=ṢŌ=pi**-*o-medetåu* **ai=pa**-*s̥̣an*! |
+
 
 ### Nomoj de Lokoj
 
@@ -473,7 +485,7 @@
 
 | 男女の間にはどうして違いがあるのか。 |
 |:-|
-| **N̥AN-̥̣NO**.*no* **awida**.*ni*.*pa* *dō-ste* **tiga***wi*.*ga* *aru* *no*.*ka*. |
+| **N̥AN-̥̣NO**.*no* **aida**.*ni*.*pa* *dō-ste* **tiga***wi*.*ga* *aru* *no*.*ka*. |
 
 | | | | |
 |-:|:-|-:|:-|
