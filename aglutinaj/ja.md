@@ -345,6 +345,12 @@
 |:-|
 | **kare**.*no* **kawo**.*pa* **ma***tu*-**sawo**.*ni* *narta*. |
 
+#### Direktoj
+
+| 北を向くと、東は右側になる。 |
+|:-|
+| **kita**.*wo* **mu***ku*.*to*, **pikasi**.*pa* **migi=kawa**.*ni* *naru*. |
+
 ### Kanoj por Ne-Prajapanaj Vortoj
 
 #### Katakanoj
