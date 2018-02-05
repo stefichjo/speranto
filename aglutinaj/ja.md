@@ -185,14 +185,11 @@
 |:-|
 | **niwa**.*ni* *anata*.*no* neko.*ga* **mi***emasu*. |
 
-
-
-
 #### Koloroj
 
 | 彼は寒さでまっさおになっていた。 |
 |:-|
-| **kare**.*pa* **samu***sa*.*de* *matu-sawo*.*ni* *narte* *ita*. |
+| **kare**.*pa* **samu***sa*.*de* *mat'sawo*.*ni* *narte* *ita*. |
 
 | 彼の顔は真っ青になった。 |
 |:-|
