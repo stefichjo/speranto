@@ -2,6 +2,11 @@
 
 ## KUN-yo*mi* (訓読み)
 
+### .
+
+* *de*.*mo* (でも)
+* *da*.*kara* (だから)
+
 ### -
 
 * **ki**-**mono** (着物)
@@ -15,6 +20,7 @@
 ### '
 
 * *d'arō* (だろう)
+* **paya***k'arta* (早かった)
 
 ### / → r
 
@@ -45,8 +51,7 @@
 * **yo***bte* (呼んで)
 * **ka***wte* (買って)
 * **to***rte* (取って)
-
-* *i'te* (行って)
+* **i***qte* (行って)
 * *ste* (して)
 
 ### t → ts
@@ -63,12 +68,6 @@
 * **to***jiu* (閉じる) (= **to***diu*/**to***ziu*)
 * **pana**=**ti** (鼻血)
 * *ja* (じゃあ) (= *d'.pa*)
-
-### ı → ku
-
-* **paya***ı* (早く)
-* **paya***ıte* (早くて)
-* **paya***ı-arta* (早かった)
 
 ## ON-yo*mi* (音読み)
 
@@ -145,13 +144,25 @@
 
 ## tatowe=pa (例えば)
 
-### Hansignoj por Prajapanaj Vortoj
+### Prajapanaj Vortoj
 
-| その車は動こうとしなかった |
+#### Hiraganoj por Prajapanaj Vortoj
+
+| はい。 |
 |:-|
-| *sono* **kuruma**.*pa* **ugo***kō*.*to* *snaı-arta*. |
+| *pai.* |
 
-#### Pluraj Hansignoj por Prajapanaj Vortoj
+#### Hansignoj por Prajapanaj Vortoj
+
+| その車は動こうとしなかった。 |
+|:-|
+| *sono* **kuruma**.*pa* **ugo***kō*.*to* *snak'arta*. |
+
+| 木の上の猫が私の所へ降りてきた。 |
+|:-|
+| **ki**.*no* **uwe**.*no* **neko**.*ga* **watasi**.*no* **tokoro**.*pe* **o***rite* *kita*. |
+
+##### Pluraj Hansignoj por Prajapanaj Vortoj
 
 | 明日はどうですか。 |
 |:-|
@@ -160,6 +171,22 @@
 | 今日はとても暑い。 |
 |:-|
 | **kyō**.*pa* *totemo* **atu***i*. |
+
+| 私は昨日忙しかった。 |
+|:-|
+| **watasi**.*pa* **kinō** **isoga***sik'arta*. |
+
+
+---
+
+#### Katakanoj por Prajapanaj Vortoj
+
+| 庭にあなたのネコが見えます。 |
+|:-|
+| **niwa**.*ni* *anata*.*no* neko.*ga* **mi***emasu*. |
+
+
+
 
 #### Koloroj
 
@@ -187,7 +214,7 @@
 
 | ショウイチは真っ青になった。 |
 |:-|
-| *ṢŌ-IṬ*.*pa* **ma***t'*-**sawo**.*ni* *narta*. |
+| *ṢŌ-IṬ*.*pa* **ma***t*'**sawo**.*ni* *narta*. |
 
 | カーテンに火が点いた。 |
 |:-|
@@ -201,7 +228,7 @@
 
 | この秋は、珍しくドラマをたくさん見ている。 |
 |:-|
-| *sono* **aki**.*pa*, **mezura***siı* *DRAMA*.*wo* TAK-SAN **mi***te* *iu*. |
+| *sono* **aki**.*pa*, **mezura***siku* *DRAMA*.*wo* TAK-SAN **mi***te* *iu*. |
 
 ### Unuopaj Ĉin-Devenaj Vortoj
 
@@ -233,17 +260,17 @@
 
 | 僕は月へ飛んで行くつもりさ。 |
 |:-|
-| **BOK**.*pa* **tuki**.*pe* **to***bte* **i***ıu* *tumori* *sa*. |
+| **BOK**.*pa* **tuki**.*pe* **to***bte* **i***qu* *tumori* *sa*. |
 
 #### 女
 
 | 彼女と言う人がぜんぜん分からなかった。 |
 |:-|
-| **kano**-**̥̣NO**.*to* **i***wu* **pito**.*ga* ZEN-N̥̣EN **wa***karanaı*-*arta*. |
+| **kano**-**̥̣NO**.*to* **i***wu* **pito**.*ga* ZEN-N̥̣EN **wa***karanak'arta*. |
 
 | 彼女はその知らせを聞いて真っ青になった。 |
 |:-|
-| **kano**-**̥̣NO**.*pa* *sono* **si***rase*.*wo* **ki***te* **ma***t'*-**sawo**.*ni* *narta*. |
+| **kano**-**̥̣NO**.*pa* *sono* **si***rase*.*wo* **ki***te* **ma***t*'**sawo**.*ni* *narta*. |
 
 | 彼女は昨日背の高い男の人に会いました。 |
 |:-|
@@ -253,7 +280,7 @@
 
 | 洋子はきのう買い物に行った。 |
 |:-|
-| **YŌ**-**ko**.*pa* *kinō* **ka***wi*-**mono**.*ni* **i***ıta*. |
+| **YŌ**-**ko**.*pa* *kinō* **ka***wi*-**mono**.*ni* **i***qta*. |
 
 #### Nomoj de Tempoj
 
@@ -277,17 +304,17 @@
 
 | 来週東京に行くことになっています。 |
 |:-|
-| **RĀ-ṢŪ** **TŌ-ḲĒ**.*ni* **i***ıu* *koto*.*ni* *narte* *imasu*. |
+| **RĀ-ṢŪ** **TŌ-ḲĒ**.*ni* **i***qu* *koto*.*ni* *narte* *imasu*. |
 
 | 妹は昨日神戸へ行った。 |
 |:-|
-| **imōto**.*pa* **kinō** **kō**=**pe**.*pe* **i***ıta*. |
+| **imōto**.*pa* **kinō** **kō**=**pe**.*pe* **i***qta*. |
 
 ### Simplaj Hansignoj
 
 | 日本人ならそんなことはけっしてしないでしょう。 |
 |:-|
-| **NI'-PON-N̥IN**.*nara* *sonna* *koto*.*pa* KET.*ste* *snai* *desyō*. |
+| **NI'PON-N̥IN**.*nara* *sonna* *koto*.*pa* KET.*ste* *snai* *desyō*. |
 
 | | | | | | |
 |-:|:-|-:|:-|-:|:-|
@@ -444,12 +471,10 @@
 | 漢字を書くときは点やはらいに気をつけて、なるべく早くていねいに書きましょう。 |
 |:-|
 | **KAN-JI**.*wo* **ka***ku* *toki*.*pa* **TEN**.*ya* *parai*.*ni* **ki**.*wo* *tukete*, *naru*-*beku*
- **paya***ı* TĒ-NĒ.*ni* **ka***kimasyō*. |
+ **paya***ku* TĒ-NĒ.*ni* **ka***kimasyō*. |
 
 | | | | |
 |-:|:-|-:|:-|
 | **漢** | **KAN** | **字** | **JI** |
 | **𦰩** | | **子** | **SI** **SU** **S̥U** |
-
-### ?
 
