@@ -162,7 +162,7 @@
 |:-|
 | **ki**.*no* **uwe**.*no* **neko**.*ga* **watasi**.*no* **tokoro**.*pe* **o***rite* *kita*. |
 
-##### Pluraj Hansignoj por Prajapanaj Vortoj
+##### Du Hansignoj por Unu Prajapana Vorto
 
 | 明日はどうですか。 |
 |:-|
@@ -176,6 +176,9 @@
 |:-|
 | **watasi**.*pa* **kinō** **isoga***sik'arta*. |
 
+| 明日貴方にそのお金を払います。 |
+|:-|
+| **asta** **anata**.*ni* *sono* *o*-**kane**.*wo* **para***wimasu*. |
 
 ---
 
@@ -221,7 +224,7 @@
 
 | お早うございます。 |
 |:-|
-| *o*-**hayå***u* GO-ZA*imasu*. |
+| *o*-**payå***u* GO-ZA*imasu*. |
 
 | この秋は、珍しくドラマをたくさん見ている。 |
 |:-|
@@ -467,11 +470,12 @@
 
 | 漢字を書くときは点やはらいに気をつけて、なるべく早くていねいに書きましょう。 |
 |:-|
-| **KAN-JI**.*wo* **ka***ku* *toki*.*pa* **TEN**.*ya* *parai*.*ni* **ki**.*wo* *tukete*, *naru*-*beku*
+| **KAN-JI**.*wo* **ka***ku* *toki*.*pa* **TEN**.*ya* *parawi*.*ni* **ki**.*wo* *tukete*, *naru*-*beku*
  **paya***ku* TĒ-NĒ.*ni* **ka***kimasyō*. |
 
 | | | | |
 |-:|:-|-:|:-|
 | **漢** | **KAN** | **字** | **JI** |
 | **𦰩** | | **子** | **SI** **SU** **S̥U** |
+
 
