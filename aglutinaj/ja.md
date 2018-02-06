@@ -1,4 +1,4 @@
-# SĒ-ṢO-PŌ (正書法)
+# SÆ̥-ṢO-PO̥ (正書法)
 
 ## KUN-yo*mi* (訓読み)
 
@@ -69,104 +69,73 @@
 * **pana**=**ti** (鼻血)
 * *ja* (じゃあ) (= *d'.pa*)
 
-## ON-yo*mi* (音読み)
-
-### A, E, I, O, U
-
-* A
-  * 多 TA
-    * 安 AN
-    * 約 YAK
-    * 活 KAT
-  * 毎 MĀ
-    * 上 ṢĀ ...
-* E
-  * 家 KE KA
-    * 天 TEN
-	* 駅 EK = EḲ
-	* 鉄 TET
-  * 計 KĒ
-    * 正 ṢĒ ...
-* I
-  * 市 SI
-    * 心 SIN
-	* 肉 NIK
-    * 一 IT IṬ
-  * 水 SĪ
-* O
-  * 母 BO
-    * 門 MON
-	* 足 SOK
-	* 骨 KOT
-  * 刀 TŌ
-    * 調 ṬŌ
-* U
-  *
-    * 寸 SUN
-  * 又 YŪ
-    * 休 ḲŪ
-
-#### Æ, Ø
-
-* 也 YÆ YA
-* 遠 ØN ON
-
-#### → U
-
-### P, H
-
-* 本 PON
-* 黄 ĦŌ HŌ
-
-### :
-
-* 台 :TĀ TĀ
-* 示 :SI SI
-* 験 :KEN KEN
-* 百 :P̣AK P̣AK
-
-### .
-
-* 車 ṢA
-
-*(Post "Y" ne estas "E", nek radika fino "N".)*
-
-### °
-
-* 木 M̥OK MOK
-* 人 N̥IN NIN
-
-### Y → S
-
-* 予 ṢA YÅ @Ẏ?
-
-### J → Z
-
 ## tatowe=pa (例えば)
 
-### Prajapanaj Vortoj
-
-#### Hiraganoj por Prajapanaj Vortoj
+### Oftaj Vortoj
 
 | はい。 |
 |:-|
 | *pai.* |
 
-#### Hansignoj por Prajapanaj Vortoj
+| どうぞ。 |
+|:-|
+| *dōzo.* |
+
+| ありがとう。 |
+|:-"
+| *ari-gatåu.*|
+
+| いいえ。 |
+|:-|
+| *iie.* |
+
+#### Oftaj Ĉin-Devenaj Vortoj
+
+| こんにちは。 |
+|:-|
+| KON-NIṬ.*pa*. |
+
+| おはようございます。 |
+|:-|
+| *o*-*payåu* GO-ZA*imasu*. |
+
+| こんばんは。 |
+|:-|
+| KON-BAN.*pa* |
+
+### Substantivoj
+
+| 雨 |
+|:-|
+| **ame** |
+
+| 雨傘 |
+|:-|
+| **ama**=**kasa** |
+
+| 友達 |
+|:-|
+| **tomo**=**tati** |
+
+### Verboj kaj Adjektivoj
 
 | その車は動こうとしなかった。 |
 |:-|
-| *sono* **kuruma**.*pa* **ugo***kō*.*to* *snak'arta*. |
+| *sono* **kuruma**.*pa* **ugo***kō*.*to* *s-nak'arta*. |
 
 | 木の上の猫が私の所へ降りてきた。 |
 |:-|
 | **ki**.*no* **uwe**.*no* **neko**.*ga* **watasi**.*no* **tokoro**.*pe* **o***rite* *kita*. |
 
-##### Du Hansignoj por Unu Prajapana Vorto
-
-| 明日はどうですか。 |
+| この秋は、珍しくドラマをたくさん見ている。 |
 |:-|
-| **asta**.*pa* *dō* *desu.ka*. |
+| *sono* **aki**.*pa*, **mezura***siku* *DRAMA*.*wo* TAK-SAN **mi***te* *iu*. |
+
+| 妹は、「こんにちは」と言いませんでした。 |
+|:-|
+| **imōto**.*pa*, "KON-NIṬ.*pa*".*to* **i***wimasen* *desta*. |
+
+### Du Hansignoj por Unu Prajapana Vorto
 
 | 今日はとても暑い。 |
 |:-|
@@ -176,61 +145,51 @@
 |:-|
 | **watasi**.*pa* **kinō** **isoga***sik'arta*. |
 
+#### 明日
+
+| 明日はどうですか。 |
+|:-|
+| **asta**.*pa* *dō* *desu.ka*. |
+
 | 明日貴方にそのお金を払います。 |
 |:-|
 | **asta** **anata**.*ni* *sono* *o*-**kane**.*wo* **para***wimasu*. |
 
----
+| 明日暑ければ、私達は泳ぎに行くつもりだ。 |
+|:-|
+| **asta** **atu***k'äre:pa*, **watasi**-**tati**.*pa* **oyo***gi*.*ni* **i***qu* *tumori* *da*. |
 
-#### Katakanoj por Prajapanaj Vortoj
+### Sonimitoj
+
+...
+
+### Bestoj
 
 | 庭にあなたのネコが見えます。 |
 |:-|
 | **niwa**.*ni* *anata*.*no* neko.*ga* **mi***emasu*. |
 
-#### Koloroj
-
-| 彼は寒さでまっさおになっていた。 |
-|:-|
-| **kare**.*pa* **samu***sa*.*de* *mat'sawo*.*ni* *narte* *ita*. |
-
-| 彼の顔は真っ青になった。 |
-|:-|
-| **kare**.*no* **kawo**.*pa* **ma***t'*-**sawo**.*ni* *narta*. |
-
-#### Direktoj
-
-| 北を向くと、東は右側になる。 |
-|:-|
-| **kita**.*wo* **mu***ku*.*to*, **pikasi**.*pa* **migi**=**kawa**.*ni* *naru*. |
-
-### Kanoj por Ne-Prajapanaj Vortoj
-
-#### Katakanoj
-
-| その間私はテレビを見ていた。 |
-|:-|
-| *sono* **aida** **watasi**.*pa* *TELEVI*.*wo* **mi**.*te* *ita*. |
+### Nomoj
 
 | ショウイチは真っ青になった。 |
 |:-|
 | *ṢŌ-IṬ*.*pa* **ma***t*'**sawo**.*ni* *narta*. |
 
+### Usonaj Vortoj
+
+| その間私はテレビを見ていた。 |
+|:-|
+| *sono* **aida** **watasi**.*pa* *TELEVI*.*wo* **mi**.*te* *ita*. |
+
 | カーテンに火が点いた。 |
 |:-|
 | *CURTAIN*.*ni* **pi**.*ga* **tu***kta*. |
 
-#### Hiraganoj
-
-| お早うございます。 |
+| 私は眠らなければなりません！朝クラスがありますから。 |
 |:-|
-| *o*-**payå***u* GO-ZA*imasu*. |
+| **watasi**.*pa* **nemu***ra-nak'äre:pa* *narimasen*! **asa** *CLASS*.*ga* *arimasu*.*kara*. |
 
-| この秋は、珍しくドラマをたくさん見ている。 |
-|:-|
-| *sono* **aki**.*pa*, **mezura***siku* *DRAMA*.*wo* TAK-SAN **mi***te* *iu*. |
-
-### Unuopaj Ĉin-Devenaj Vortoj
+### Ĉin-Devenaj Vortoj
 
 | 愛してる。 |
 |:-|
@@ -238,15 +197,15 @@
 
 | ローマ字 |
 |:-|
-| *RŌMA*-**JI** |
+| *RŌMA*-**ZI** |
 
 | 気をつけて。 |
 |:-|
-| **KI**.*wo* *tukete*. |
+| **KĖ**.*wo* *tukete*. |
 
 | 冷たい北風が木の葉を茶色にした。 |
 |:-|
-| **tume***tai* **kita**-**kaze**.*ga* **ko**.*no* **pa**.*wo* **S̥̣A**-**iro**.*ni* *sta*. |
+| **tume***tai* **kita**-**kaze**.*ga* **ko**.*no* **pa**.*wo* **:̣DA**-**iro**.*ni* *sta*. |
 
 | 友達が多いという点で、ナンシーは幸せだ。 |
 |:-|
@@ -254,9 +213,11 @@
 
 | あの人は化け物のような力持ちだ。 |
 |:-|
-| *ano* **pito**.*pa* **ba***ke*-**mono**.*no* YŌ.*na* **tikara**-**mo***ti* *da*. |
+| *ano* **pito**.*pa* **ba***ke*-**mono**.*no* YḀ.*na* **tikara**-**mo***ti* *da*. |
 
-#### 僕
+| 何時ですか。 |
+|:-|
+| **nan'**-**ZI** *desu*.*ka*. |
 
 | 僕は月へ飛んで行くつもりさ。 |
 |:-|
@@ -266,7 +227,7 @@
 
 | 彼女と言う人がぜんぜん分からなかった。 |
 |:-|
-| **kano**-**̥̣NO**.*to* **i***wu* **pito**.*ga* ZEN-N̥̣EN **wa***karanak'arta*. |
+| **kano**-**̥̣NO**.*to* **i***wu* **pito**.*ga* ZEN-N̥̣EN **wa***kara-nak'arta*. |
 
 | 彼女はその知らせを聞いて真っ青になった。 |
 |:-|
@@ -276,58 +237,24 @@
 |:-|
 | **kano**-**̥̣NO**.*pa* **kinō** **se**.*no* **taka***i* **otoko**.*no* **pito**.*ni* **a***wimasta*. |
 
-### Nomoj
-
-| 洋子はきのう買い物に行った。 |
-|:-|
-| **YŌ**-**ko**.*pa* *kinō* **ka***wi*-**mono**.*ni* **i***qta*. |
-
-#### Nomoj de Tempoj
-
-| 明日は日曜日です。 |
-|:-|
-| **asta**.*pa* **NIṬ-YŌ=pi** *desu*. |
-
-| お誕生日おめでとう相葉ちゃん！ |
-|:-|
-| *o*-**TAN=ṢŌ=pi**-*o-medetåu* **ai=pa**-*s̥̣an*! |
-
-| 来週休みを取ってもよろしいでしょうか。 |
-|:-|
-| **RĀ-ṢŪ** **yasu***mi*.*wo* **to***rte*.*mo* *yorosii* *desyō*.*ka*. |
-
-#### Nomoj de Lokoj
-
-| 北海道はたいへん遠いですね。 |
-|:-|
-| **POK-KĀ÷TŌ**.*pa* TĀ-PEN **tō***i* *desu*.*ne*. |
-
-| 来週東京に行くことになっています。 |
-|:-|
-| **RĀ-ṢŪ** **TŌ-ḲĒ**.*ni* **i***qu* *koto*.*ni* *narte* *imasu*. |
-
-| 妹は昨日神戸へ行った。 |
-|:-|
-| **imōto**.*pa* **kinō** **kō**=**pe**.*pe* **i***qta*. |
-
-### Simplaj Hansignoj
+### Ĉin-Devenaj Vortparoj
 
 | 日本人ならそんなことはけっしてしないでしょう。 |
 |:-|
-| **NI'PON-N̥IN**.*nara* *sonna* *koto*.*pa* KET.*ste* *snai* *desyō*. |
+| **NI'PON-N̥IN**.*nara* *sonna* *koto*.*pa* KET.*ste* *s-nai* *desyō*. |
 
 | | | | | | |
 |-:|:-|-:|:-|-:|:-|
-| **日** | **N̥IT** **NIṬ** | **本** | **PON** | **人** | **N̥IN** **NIN** |
+| **日** | **NIṬ** **N̥IT** | **本** | **PON** | **人** | **NIN** **N̥IN** |
 
 
 | お金がないので、プチッと旅行。 |
 |:-|
-| *o*-**kane**.*ga* *nai* *no*.*de*, *PUTIT*.*to* **ṚO-KŌ**. |
+| *o*-**kane**.*ga* *nai* *no*.*de*, *PUTIT*.*to* **ṚO÷GŌ**. |
 
 | | | | |
 |-:|:-|-:|:-|
-| **旅** | **ṚO** | **行** | **:ḲO** **KŌ**, **AN** |
+| **旅** | **RO** **ṚO** | **行** | **G̣Ō**/**GŌ** **KŌ** (**AN**/**PIN** **G̣Ō**) |
 
 
 | 彼は月の表面に立った。 |
@@ -336,14 +263,28 @@
 
 | | | | |
 |-:|:-|-:|:-|
-| **表** | **P̣Ō** | **面** | **M̥EN** **MEN** |
+| **表** | **P̣Ō** | **面** | **MEN** **M̥EN** |
 
-### Kompleksaj Hansignoj
 
-* **家** **KÆ** **KA**
-* **休** **ḲŪ**
+| 湖は白鳥が何羽か泳いでいて美しかった。|
+|:-|
+| **mizu-umi**.*pa* **:BAK**-**ṬE̥**.*ga* **nani**-**wa**.*ka* **oyo***gte* **utuku***sik'arta*. |
 
-### Kompleksaj Hansignoj kun Sonindiko
+| | | | |
+|-:|:-|-:|:-|
+| **白** | **ḄAK** **:BAK** | **鳥** | **ṬE̥** |
+
+
+| 彼女は、汽車が見えなくなるまで手を振った。 |
+|:-|
+| **kano**-**̥̣NO**.*pa* **KĖ-ṢA**.*ga* **mi***e-naku* *naru*.*made* **te**.*wo* **pu***rta*. |
+
+| | | | |
+|-:|:-|-:|:-|
+| **汽** | **KE** **KĖ** | **車** | **ṢA** |
+
+
+##### Sonindiko
 
 | 約束どおりにピアノをひいた。 |
 |:-|
@@ -355,28 +296,24 @@
 
 | | | | |
 |-:|:-|-:|:-|
-| **約** | **YAK** | **束** | **SOK** |
-| **勺** | **ṢAK** | **木** | **M̥OK** **MOK** |
+| **約** | **YAK**/**YÆ̥** | **束** | **SOK** **ṢOK** |
+| **勺** | **ẒAK** **:ẒAK** | **木** | **MOK** **M̥OK** |
 
 
 | そこに問題がある。 |
 |:-|
 | *soko*.*ni* **MON-DĀ**.*ga* *aru*. |
 
-| | | | |
-|-:|:-|-:|:-|
-| **問** | **MON** | **題** | **DĀ** |
-| **門** | **MON** | **是** | **:SE** **SI** |
-| | | **疋** | **PIḲ** **ṢO** **SO** **PIT** |
 
 | 毎月何回ぐらい君は映画へ行くか。 |
 |:-|
-| **MĀ**-**tuki** **nan**-**HĀ**-*gurai* **kimi**.*pa* **Ē-HA**.*pe* **i***ku*. |
+| **MĀ**-**tuki** **nan**÷**W̥Ā**=*kurai* **kimi**.*pa* **YĒ-W̥Ê**.*pe* **i***qu*.*ka*. |
 
 | | | | |
 |-:|:-|-:|:-|
-| **映** | **Ē** | **画** | **:HA** **HAK** **ĦE** **HĀ** |
-| **央** | **Ō** | | |
+| **映** | **YḀ** **YĒ** | **画** | **WE**/**W̥Ê**/**WÊK** **:W̥Ệ** **:W̥ÊK** |
+| **央** | **Ō**/**YŌ** **YŌ**/**YØ̄** | | |
+
 
 | 僕の郷里の町は海に接している。 |
 |:-|
@@ -384,38 +321,38 @@
 
 | | | | |
 |-:|:-|-:|:-|
-| **郷** | **:KŌ** **ḲŌ** | **里** | **RI** |
+| **郷** | **KŌ** **ḲŌ** (**:KŌ**) | **里** | **RI** |
 | **郎** | **RŌ** **ṚŌ** |
 
 
 | その不届きな野郎の顔を、拝ませてもらうか |
 |:-|
-| *sono* **PU**-**todo***ki*.*na* **YA-RŌ**.*no* **kawo**.*wo*, **oga***masete* *morawu*.*ka*. |
+| *sono* **PǑ**-**todo***ki*.*na* **YA-RḀ**.*no* **kawo**.*wo*, **oga***masete* *morawu*.*ka*. |
 
 | | | | |
 |-:|:-|-:|:-|
-| **野** | **ỴÅ** **YA** | **郎** | **RŌ** **ṚŌ** |
-| **予** | **ỴA** **YÅ** | | |
+| **野** | **YA**/**ḌÅ** **YA**/**ṢÅ** | **郎** | **RḀ** |
+| **予** | **YO**/**ṢO**/**ḌO** **YO**/**ṢO**/**:ḌO** | | |
 
 
 | 郵便局はその通りを下ったところです。 |
 |:-|
-| **YŪ-BĖN-ḲOK**.*pa* *sono* **tō***ri*.*wo* **kuda***rta* *tokoro* *desu*. |
+| **YŪ-BĖN÷G̣OK**.*pa* *sono* **tō***ri*.*wo* **kuda***rta* *tokoro* *desu*. |
 
 | | | | | | |
 |-:|:-|-:|:-|-:|:-|
-| **郵** | **YŪ** | **便** | **BĖN** **BEN** | **局** | **ḲOK** |
-| **邑** | **YŪ** | **人** | **N̥IN** **NIN** | **句** | **KU** |
-|        |        |        |                 | **口** | **KǑ** **KŌ** |
+| **郵** | **YŪ** | **便** | **BEN** **:BEN** (**BĖN**) | **局** | **GOK** **:G̣OK** |
+| **邑** | **O̥** **Ḁ**/**Ī̥** | **人** | **N̥IN** **NIN** | **句** | **KU** **KU**/**KŌ** |
+| | | | | **口** | **KU** **KŌ** |
 
 | 隣の村まで歩いて一時間かかった。 |
 |:-|
-| **tonari**.*no* **mura**.*made* **aru***kte* **IṬ-JI-KAN**-*kakarta*. |
+| **tonari**.*no* **mura**.*made* **aru***kte* **IṬ-ZI-KÊN**-*kakarta*. |
 
 | | | | | | |
 |-:|:-|-:|:-|-:|:-|
-| **一** | **IṬ** **IT** | **時** | **JI** | **間** | **KAN** |
-| | | **寺** | **JI** | **門** | **MON** |
+| **一** | **IṬ** **IT** | **時** | **ZI** **:ZI** | **間** | **KEN** **KÊN** |
+| | | **寺** | **ZI** **:ZI** | **門** | **MON** **M̥ON** |
 | | | **止** | **SI** | | |
 
 | 男女の間にはどうして違いがあるのか。 |
@@ -424,27 +361,27 @@
 
 | | | | |
 |-:|:-|-:|:-|
-| **男** | **N̥AN** **NAN** | **女** | **̥̣NO** **ṆO** **ṆŌ** |
-| **田** | **DEN** | | |
+| **男** | **NAN** **N̥AN** | **女** | **ṆO** **̥̣NO** (**ṆŌ**) |
+| **田** | **DEN** **:DEN** | | |
 
 
 | アマゾン・ドット・コムで本を注文しました。 |
 |:-|
-| *AMAZON-DOT-COM*.*de* **PON**.*wo* **ṬŪ-MON**-*smasta*. |
+| *AMAZON-DOT-COM*.*de* **PON**.*wo* **S̥̣Ū-MON**-*smasta*. |
 
 | | | | |
 |-:|:-|-:|:-|
-| **注** | **ṬŪ** | **文** | **M̥ǑN** **MON** |
-| **主** | **SU** **ṢU** **ṢŪ** | | |
+| **注** | **SU** **ṢU** (***S̥̣Ū**) | **文** | **MON** **M̥ǑN** |
+| **主** | **SU** **ṢU** | | |
 
 
 | 目を覚ますと、家族が来ていた。 |
 | :- |
-| **me**.*wo* **sa***masu*.*to*, **KA-ZOK**.*ga* **ki***te* *ita*. |
+| **me**.*wo* **sa***masu*.*to*, **KÊ-ZOK**.*ga* **ki***te* *ita*. |
 
 | | | | |
 |-:|:-|-:|:-|
-| **家** | **KÆ** **KA** | **族** | **ZOK** |
+| **家** | **KE**/**KĚ** **KÊ**/**KE̊** | **族** | **ZOK** **:ZOK** (**:ZŌ**) |
 | | | **矢** | **SI** |
 
 
@@ -454,28 +391,119 @@
 
 | | | | |
 |-:|:-|-:|:-|
-| **動** | **DŌ** | **物** | **M̥ǑT** **MOT** |
-| **重** | **:ṬŌ** **ṬŌ** | **勿** | **M̥ǑT** **M̥OT** **MOṬ** |
+| **動** | **DŌ** | **物** | **MOT**/**MOṬ** **M̥ǑT** |
+| **重** | **ḌŪ** **:ḌŌ** | **勿** | **MOṬ** **M̥ǑT** (**M̥OT**) |
 
 
 | この土地とこの家は私の物ですよ。 |
 |:-|
-| *sono* **TO-TI**.*to* *kono* **iwe**.*pa* **watasi**.*no* **mono** *desu*.*yo*. |
+| *sono* **TO÷DI**.*to* *kono* **iwe**.*pa* **watasi**.*no* **mono** *desu*.*yo*. |
 
 | | | | |
 |-:|:-|-:|:-|
-| **土** | **:TO** **TO** | **地** | **:TI** **TI** |
-| | | **也** | **YÆ** **YA** |
+| **土** | **TU** **TO** (**:TO**) | **地** | **DI** **:DI** |
+| | | **也** | **YA**/**YÆ** **YA** |
 
 
 | 漢字を書くときは点やはらいに気をつけて、なるべく早くていねいに書きましょう。 |
 |:-|
-| **KAN-JI**.*wo* **ka***ku* *toki*.*pa* **TEN**.*ya* *parawi*.*ni* **ki**.*wo* *tukete*, *naru*-*beku*
- **paya***ku* TĒ-NĒ.*ni* **ka***kimasyō*. |
+| **KAN-ZI**.*wo* **ka***ku* *toki*.*pa* **TEN**.*ya* *parawi*.*ni* **KĖ**.*wo* *tukete*, *naru*-*beku* **paya***ku* TĒ-NĒ.*ni* **ka***kimasyō*. |
 
 | | | | |
 |-:|:-|-:|:-|
-| **漢** | **KAN** | **字** | **JI** |
-| **𦰩** | | **子** | **SI** **SU** **S̥U** |
+| **漢** | **KAN** | **字** | **ZI** **:ZI** |
+| **𦰩** | | **子** | **SI** (**SU**) |
+
+| 彼女は部屋が暑すぎて困ると言った。 |
+|:-|
+| **kano**-**̥̣NO**.*pa* **pe**-**ya**.*ga* **atu**-*sugite* **koma***ru*.*to* **i***wta*. |
 
 
+| 明日までに宿題をしなければならない。 |
+|:-|
+| **asta**.*made*.*ni* **ṢUK**-**DĀ**.*wo* *s-nak'äre:pa* *nara-nai*. |
+
+| | | | |
+|-:|:-|-:|:-|
+| **宿** | **ṢU**/**SUK** **ṢŪ**/**ṢUK** | **題** | **DĀ** **:DǢ** |
+| **佰** | **ḄAK** **:BAK** | **是** | **ZE** **:ZĖ** |
+| **百** | | **疋** | **GE**/**ṢO**/**PIṬ** **GÊ**/**SO**/**PIT** |
+| **白** | **ḄAK** **:PAK** | | |
+
+
+| 何時くらいまでなら電話してもいいですか。 |
+|:-|
+| **itu**-*kurai*.*made*.*nara* **DEN-WA**-*ste*.*mo* *ii* *desu*.*ka*. |
+
+| | | | |
+|-:|:-|-:|:-|
+| **電** | **DEN** **:DEN** | **話** | **WA** |
+| **申** | **SIN** | **𠯑** |  |
+
+---
+
+
+#### Vortaro: Koloroj
+
+| 彼は寒さでまっさおになっていた。 |
+|:-|
+| **kare**.*pa* **samu***sa*.*de* *mat'sawo*.*ni* *narte* *ita*. |
+
+| 彼の顔は真っ青になった。 |
+|:-|
+| **kare**.*no* **kawo**.*pa* **ma***t'*-**sawo**.*ni* *narta*. |
+
+#### Vortaro: Direktoj
+
+| 北を向くと、東は右側になる。 |
+|:-|
+| **kita**.*wo* **mu***ku*.*to*, **pikasi**.*pa* **migi**=**kawa**.*ni* *naru*. |
+
+#### Vortaro: Nomoj de Tempoj
+
+| 明日は日曜日です。 |
+|:-|
+| **asta**.*pa* **NIṬ-YE̥=pi** *desu*. |
+
+| お誕生日おめでとう相葉ちゃん！ |
+|:-|
+| *o*-**:DAN=ṢḀ=pi**-*o-medetåu* **ai=pa**-*s̥̣an*! |
+
+| 来週休みを取ってもよろしいでしょうか。 |
+|:-|
+| **RĀ-ṢŪ** **yasu***mi*.*wo* **to***rte*.*mo* *yorosii* *desyō*.*ka*. |
+
+#### Vortaro: Nomoj de Lokoj
+
+| 北海道はたいへん遠いですね。 |
+|:-|
+| **POK-KĀ-DḀ**.*pa* :DĀ-PEN **tō***i* *desu*.*ne*. |
+
+| 来週東京に行くことになっています。 |
+|:-|
+| **RĀ-ṢŪ** **TŌ-ḲḀ**.*ni* **i***qu* *koto*.*ni* *narte* *imasu*. |
+
+| 妹は昨日神戸へ行った。 |
+|:-|
+| **imōto**.*pa* **kinō** **kō**=**pe**.*pe* **i***qta*. |
+
+### Vortaro: Nomoj
+
+| 洋子はきのう買い物に行った。 |
+|:-|
+| **YḀ**-**ko**.*pa* *kinō* **ka***wi*-**mono**.*ni* **i***qta*. |
+
+
+---
+
+| | |
+|-:|:-|
+| **茶** | **̣DA** **:DA** (**:ĐA** **:̣DA**) |
+
+| | |
+|-:|:-|
+| **様** | **YḀ** (**ṢḀ**) |
+
+| | |
+|-:|:-|
+| **全** | **ZEN** **:ZEN** |
