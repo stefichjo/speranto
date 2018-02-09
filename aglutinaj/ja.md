@@ -626,9 +626,9 @@
 * 料理
 * 風邪
 
-| こんなに上手に英語で手紙を書けるのにどうして話せないの？ |
+| こんなに 上手に 英語で 手紙を 書ける のに どうして 話せない の？ |
 |:-|
-| *konna*.*ni* **ẒḀ÷SU**.*ni* **YØ̄-GO**.*de* **te=kami**.*wo* **ka***keru* *no*.*ni* *dō* *ste* **hana***senai* *no*? |
+| *konna*.*ni* **ẒḀ÷SU**.*ni* **YØ̄-GO**.*de* **te=kami**.*wo* **ka***keru* *no*.*ni* *dō-ste* **hana***senai* *no*? |
 
 | | | | |
 |-:|:-|-:|:-|
