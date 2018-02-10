@@ -97,7 +97,7 @@
 
 | おはようございます。 |
 |:-|
-| *o*-*payåu* GO-ZA*imasu*. |
+| *o*-*payåu* GO-ZA*i-masu*. |
 
 | こんばんは。 |
 |:-|
@@ -172,7 +172,7 @@
 
 | 明日貴方にそのお金を払います。 |
 |:-|
-| **asta** **anata**.*ni* *sono* *o*-**kane**.*wo* **para***wimasu*. |
+| **asta** **anata**.*ni* *sono* *o*-**kane**.*wo* **para***wi-masu*. |
 
 | 明日暑ければ、私達は泳ぎに行くつもりだ。 |
 |:-|
@@ -191,7 +191,7 @@
 ---
 | 庭にあなたのネコが見えます。 |
 |:-|
-| **niwa**.*ni* *anata*.*no* neko.*ga* **mi***emasu*. |
+| **niwa**.*ni* *anata*.*no* neko.*ga* **mi***e-masu*. |
 
 ### Nomoj
 
@@ -229,7 +229,7 @@
 
 | 私は眠らなければなりません！朝クラスがありますから。 |
 |:-|
-| **watasi**.*pa* **nemu***ra-nak'äre:pa* *narimasen*! **asa** *CLASS*.*ga* *arimasu*.*kara*. |
+| **watasi**.*pa* **nemu***ra-nak'äre:pa* *narimasen*! **asa** *CLASS*.*ga* *ari-masu*.*kara*. |
 
 | ニューススタンドで聞いて下さい。 |
 |:-|
@@ -285,7 +285,7 @@
 
 | 彼女は昨日背の高い男の人に会いました。 |
 |:-|
-| **kano**-**̥̣NO**.*pa* **kinō** **se**.*no* **taka***i* **otoko**.*no* **pito**.*ni* **a***wimasta*. |
+| **kano**-**̥̣NO**.*pa* **kinō** **se**.*no* **taka***i* **otoko**.*no* **pito**.*ni* **a***wi-masta*. |
 
 ### Ĉin-Devenaj Vortparoj
 
@@ -437,7 +437,7 @@
 
 | アマゾン・ドット・コムで本を注文しました。 |
 |:-|
-| *AMAZON-DOT-COM*.*de* **PON**.*wo* **S̥̣Ū-MON**-*smasta*. |
+| *AMAZON-DOT-COM*.*de* **PON**.*wo* **S̥̣Ū-MON**-*s-masta*. |
 
 | | | | |
 |-:|:-|-:|:-|
@@ -542,6 +542,17 @@
 | | | **五** | **GU** |
 
 
+| 料理長に | おいしかったと | お伝え | 下さい。 |
+|:-|:-|:-|:-|
+| **ṚE̥-RI÷ḌḀ**.*ni* | *oisik'arta*.*to* | *o-tutawe* | **kuda***sai*. |
+
+| **料** | **ṚE̥** | **理** | **RI** | **長** | **ḌḀ** **:ḌḀ** |
+|-:|:-|-:|:-|-:|:-|
+| **米** + **斗** | | **里** | **RI** | | |
+| | | **田** + **土** | | | |
+
+
+
 
 ---
 
@@ -559,7 +570,7 @@
 
 | コンタクトすると目が乾いた感じになって、目が赤くなります。 |
 |:-|
-| *CONTACT*-*suru*.*to* **me**.*ga* **kawa***kta* **KAN**=*si*.*ni* *narte*, **me**.*ga* *akaku* *narimasu*. |
+| *CONTACT*-*suru*.*to* **me**.*ga* **kawa***kta* **KAN**=*si*.*ni* *narte*, **me**.*ga* *akaku* *nari-masu*. |
 
 ### Direktoj
 
@@ -601,7 +612,7 @@
 
 | 来週東京に行くことになっています。 |
 |:-|
-| **RĀ-ṢŪ** **TŌ-ḲḀ**.*ni* **i***qu* *koto*.*ni* *narte* *imasu*. |
+| **RĀ-ṢŪ** **TŌ-ḲḀ**.*ni* **i***qu* *koto*.*ni* *narte* *i-masu*. |
 
 | 妹は昨日神戸へ行った。 |
 |:-|
@@ -609,7 +620,7 @@
 
 | 彼は明日京都につきます。 |
 |:-|
-| **kare**.*pa* **asta** **ḲḀ-TO**.*ni* *tukimasu*. |
+| **kare**.*pa* **asta** **ḲḀ-TO**.*ni* *tuki-masu*. |
 
 ### Nomoj
 
@@ -641,14 +652,7 @@
 * **乞** **KOṬ** **KȮT** (**KOT**)
 * **气** **KE** **KĖ**
 
-
-
-* 料理
 * 風邪
 
+秋 = 禾 + 火
 
-
-
-Ideogramoj
-
-秋 禾火
