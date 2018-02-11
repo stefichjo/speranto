@@ -674,7 +674,7 @@
 
 | 今欲しいのは熱い一杯のコーヒーです。 |
 |:-|
-| **ima****po***sii**no*.*pa***atu***i***IT-PẸ̑**.*no***CŌFFĒE***desu*. |
+| **ima** **po***sii* *no*.*pa* **atu***i* **IT-PẸ̑**.*no* **CŌFFĒE** *desu*. |
 
 ---
 
