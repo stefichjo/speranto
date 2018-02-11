@@ -30,6 +30,10 @@
 |:-|
 | *ARESSANDORA* ← *ALESSANDRA* |
 
+| ショウイチ |
+|:-|
+| *SYOU-ITI* ← *ṢŌ-IṬ* |
+
 ### Oftaj Vortoj: Hiraganoj
 
 | はい。 |
@@ -138,21 +142,45 @@
 |:-|
 | *o*-**kawe***ri-nasai* |
 
-| 木の上の猫が私の所へ降りてきた。 |
-|:-|
-| **ki**.*no* **uwe**.*no* **neko**.*ga* **watasi**.*no* **tokoro**.*pe* **o***rite* *kita*. |
+| 木の | 上の | 猫が | 私の | 所へ | 降り | てきた。 |
+|:-|:-|:-|:-|:-|:-|:-|
+| **ki**.*no* | **uwe**.*no* | **neko**.*ga* | **watasi**.*no* | **tokoro**.*pe* | **o***rite* | *kita*. |
 
-| 今日はとても暑い。 |
-|:-|
-| **kyō**.*pa* *totemo* **atu***i*. |
+| 今日は | とても | 暑い。 |
+|:-|:-|:-|
+| **kyō**.*pa* | *totemo* | **atu***i*. |
 
-| 私は昨日忙しかった。 |
-|:-|
-| **watasi**.*pa* **kinō** **isoga***sik'arta*. |
+| 私は | 昨日 | 忙しかった。 |
+|:-|:-|:-|
+| **watasi**.*pa* | **kinō** | **isoga***sik'arta*. |
 
-| 明日暑ければ、私達は泳ぎに行くつもりだ。 |
+| 明日 | 暑ければ、 | 私達は | 泳ぎに | 行く | つもり | だ。 |
+|:-|:-|:-|:-|:-|:-|:-|
+| **asta** | **atu***k'ære:pa*, | **watasi**-**tati**.*pa* | **oyo***gi*.*ni* | **i***ku* | *tumori* | *da*. |
+
+| 髪も | 上げた | ほうが | 私は | 好き | だ。 |
+|:-|:-|:-|:-|:-|:-|
+| **kami**.*mo* | **a***geta* | PḀ.*ga* | **watasi**.*pa* | **su***ki* | *da*. |
+
+| 庭にあなたのネコが見えます。 |
 |:-|
-| **asta** **atu***k'ære:pa*, **watasi**-**tati**.*pa* **oyo***gi*.*ni* **i***ku* *tumori* *da*. |
+| **niwa**.*ni* *anata*.*no* neko.*ga* **mi***e-masu*. |
+
+| その間私はテレビを見ていた。 |
+|:-|
+| *sono* **aida** **watasi**.*pa* *TELEVI*.*wo* **mi**.*te* *ita*. |
+
+| カーテンに火が点いた。 |
+|:-|
+| *CURTAIN*.*ni* **pi**.*ga* **tu***kta*. |
+
+| 私は眠らなければなりません！朝クラスがありますから。 |
+|:-|
+| **watasi**.*pa* **nemu***ra-nak'ære:pa* *nari-masen*! **asa** *CLASS*.*ga* *ari-masu*.*kara*. |
+
+| ニューススタンドで聞いて下さい。 |
+|:-|
+| *NEWS-STAND*.*de* **ki***kte* **kuda***sai*. |
 
 ---
 
@@ -177,136 +205,70 @@
 | 速い |
 
 
+### Ĉin-Devenaj Vortoj: Hansignoj
 
-| この秋は、珍しくドラマをたくさん見ている。 |
-|:-|
-| *sono* **aki**.*pa*, **mezura***siku* *DRAMA*.*wo* TAK-SAN **mi***te* *iu*. |
-
-| 妹は、「こんにちは」と言いませんでした。 |
-|:-|
-| **imōto**.*pa*, "KON-NIṬ.*pa*".*to* **i***wi-masen* *desta*. |
-
-| 髪も | 上げた | ほうが | 私は | 好き | だ。 |
-|:-|:-|:-|:-|:-|:-|
-| **kami**.*mo* | **a***geta* | PḀ.*ga* | **watasi**.*pa* | **su***ki* | *da*. |
-
-
-
-
----
-| 庭にあなたのネコが見えます。 |
-|:-|
-| **niwa**.*ni* *anata*.*no* neko.*ga* **mi***e-masu*. |
-
-### Nomoj
-
-| ショウイチ |
-|:-|
-| *ṢŌ-IṬ* |
-
----
-| ショウイチは真っ青になった。 |
-|:-|
-| *ṢŌ-IṬ*.*pa* **ma***t*'**sawo**.*ni* *narta*. |
-
-### Usonaj Vortoj
-
-| テレビ |
-|:-|
-| *TELEVI* |
-
-| カーテン |
-|:-|
-| *CURTAIN* |
-
-| クラス |
-|:-|
-| *CLASS* |
-
----
-| その間私はテレビを見ていた。 |
-|:-|
-| *sono* **aida** **watasi**.*pa* *TELEVI*.*wo* **mi**.*te* *ita*. |
-
-| カーテンに火が点いた。 |
-|:-|
-| *CURTAIN*.*ni* **pi**.*ga* **tu***kta*. |
-
-| 私は眠らなければなりません！朝クラスがありますから。 |
-|:-|
-| **watasi**.*pa* **nemu***ra-nak'ære:pa* *nari-masen*! **asa** *CLASS*.*ga* *ari-masu*.*kara*. |
-
-| ニューススタンドで聞いて下さい。 |
-|:-|
-| *NEWS-STAND*.*de* **ki***kte* **kuda***sai*. |
-
-### Ĉin-Devenaj Vortoj
-
-| 愛してる。 |
-|:-|
-| **Ā**-*ste* *iu*. |
-
-| ローマ字 |
-|:-|
-| *RŌMA*-**ZI** |
-
-| 気をつけて。 |
-|:-|
-| **KĖ**.*wo* *tukete*. |
-
-| 冷たい北風が木の葉を茶色にした。 |
-|:-|
-| **tume***tai* **kita**-**kaze**.*ga* **ko**.*no* **pa**.*wo* **:̣DA**-**iro**.*ni* *sta*. |
-
-| 友達が多いという点で、ナンシーは幸せだ。 |
-|:-|
-| **tomo**=**tati**.*ga* **ō***i*.*to* *iwu* **TEN**.*de*, *NANCɎ*.*pa* **siyawase** *da*. |
-
-| あの人は化け物のような力持ちだ。 |
-|:-|
-| *ano* **pito**.*pa* **ba***ke*-**mono**.*no* YḀ.*na* **tikara**-**mo***ti* *da*. |
-
-| 何時ですか。 |
-|:-|
-| **nan'**-**ZI** *desu*.*ka*. |
-
-| 僕は月へ飛んで行くつもりさ。 |
-|:-|
-| **BOK**.*pa* **tuki**.*pe* **to***bte* **i***ku* *tumori* *sa*. |
-
-| 早く帰った方がいい、暑いから。 |
-|:-|
-| **paya***ku* **kawe***rta* **PḀ**.*ga* *ii*, **atu***i*.*kara*. |
+| 気を | つけて。 |
+|:-|:-|
+| **KĖ**.*wo* | *tukete*. |
 
 | 門は | 今 | 開いて | いる。 |
 |:-|:-|:-|:-|
 | **MON**.*pa* | **ima** | **a***kte* | *iu*. |
 
+| やっと | ほしい | 本を | 手に | 入れた。 |
+|:-|:-|:-|:-|:-|
+| *yatto* | *posii* | **PON**.*wo* | **te**.*ni* | **i***reta*. |
+
+| 母が | お茶を | 入れて | くれて | います。 |
+|:-|:-|:-|:-|:-|
+| **papa**.*ga* | *o*-**:̣DA**.*wo* | **i***rete* | *kurete* | *i-masu*. |
+
+| 僕は | 月へ | 飛んで | 行く | つもり | さ。 |
+|:-|:-|:-|:-|:-|:-|
+| **BOK**.*pa* | **tuki**.*pe* | **to***bte* | **i***ku* | *tumori* | *sa*. |
+
+| 早く | 帰った | 方が | いい、 | 暑いから。 |
+|:-|:-|:-|:-|:-|
+| **paya***ku* | **kawe***rta* | **PḀ**.*ga* | *ii*, | **atu***i*.*kara*. |
+
+
+### Ĉin-Devenaj Afiksoj: Hansignoj
+
+#### Prefiksoj
+
+| 愛してる。 |
+|:-|
+| **Ā**-*ste* *iu*. |
+
 | 牛に | 乾草を | やって、 | 昼の | 仕事は | おわり | です。 |
 |:-|:-|:-|:-|:-|:-|:-|
 | **usi**.*ni* | **posi**-**kusa**.*wo* | *yarte*, | **piro**.*no* | **:ZI**=**koto**.*pa* | *owari* | *desu*. |
 
-#### Ĉin-Devenaj Afiksoj
+#### Sufiksoj
 
-##### 女
-
-| 彼女と言う人がぜんぜん分からなかった。 |
+| ローマ字 |
 |:-|
-| **kano**-**̥̣NO**.*to* **i***wu* **pito**.*ga* ZEN-N̥̣EN **wa***kara-nak'arta*. |
+| *RŌMA*-**ZI** |
 
-| 彼女はその知らせを聞いて真っ青になった。 |
-|:-|
-| **kano**-**̥̣NO**.*pa* *sono* **si***ra-se*.*wo* **ki***te* **ma***t*'**sawo**.*ni* *narta*. |
+| 何時 | ですか。 |
+|:-|:-|
+| **nan'**-**ZI** | *desu*.*ka*. |
 
-| 彼女は昨日背の高い男の人に会いました。 |
-|:-|
-| **kano**-**̥̣NO**.*pa* **kinō** **se**.*no* **taka***i* **otoko**.*no* **pito**.*ni* **a***wi-masta*. |
+| 彼女は | 昨日 | 背の | 高い | 男の | 人に | 会いました。 |
+|:-|:-|:-|:-|:-|:-|:-|
+| **kano**-**̥̣NO**.*pa* | **kinō** | **se**.*no* | **taka***i* | **otoko**.*no* | **pito**.*ni* | **a***wi-masta*. |
 
-#### Ĉin-Devenaj Vortparoj
+| 彼女は | その | 知らせを | 聞いて | 真っ青に | なった。 |
+|:-|:-|:-|:-|:-|:-|
+| **kano**-**̥̣NO**.*pa* | *sono* | **si***ra-se*.*wo* | **ki***te* | **ma***t*'**sawo**.*ni* | *narta*. |
 
-| 日本人ならそんなことはけっしてしないでしょう。 |
-|:-|
-| **NI'PON-N̥IN**.*nara* *sonna* *koto*.*pa* KET.*ste* *s'nai* *desyō*. |
+##### Nombrado
+
+#### Ĉin-Devenaj Terminoj
+
+| 日本人なら | そんな | ことは | けっして | しない | でしょう。 |
+|:-|:-|:-|:-|:-|:-|
+| **NI'PON-N̥IN**.*nara* | *sonna* | *koto*.*pa* | KET.*ste* | *s'nai* | *desyō*. |
 
 | | | | | | |
 |-:|:-|-:|:-|-:|:-|
@@ -314,22 +276,13 @@
 | | | | | | |
 
 
-| お金がないので、プチッと旅行。 |
-|:-|
-| *o*-**kane**.*ga* *nai* *no*.*de*, *PUTIT*.*to* **ṚO÷GŌ**. |
+| お金が | ない | ので、 | プチッと | 旅行。 |
+|:-|:-|:-|:-|:-|
+| *o*-**kane**.*ga* | *nai* | *no*.*de*, | *PUTIT*.*to* | **ṚO÷GŌ**. |
 
 | | | | |
 |-:|:-|-:|:-|
 | **旅** | **RO** **ṚO** | **行** | **G̣Ō**/**GŌ** **KŌ** (**AN**/**PIN** **G̣Ō**) |
-
-
-| 彼は月の表面に立った。 |
-|:-|
-| **kare**.*pa* **tuki**.*no* **P̣Ō-MEN**.*ni* **ta***tta*. |
-
-| | | | |
-|-:|:-|-:|:-|
-| **表** | **P̣Ō** | **面** | **MEN** **M̥EN** |
 
 
 | 黙る | ことを | 知らない | 者は | 話し上手 | では | ない。 |
