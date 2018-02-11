@@ -146,7 +146,7 @@
 
 | 妹は、「こんにちは」と言いませんでした。 |
 |:-|
-| **imōto**.*pa*, "KON-NIṬ.*pa*".*to* **i***wimasen* *desta*. |
+| **imōto**.*pa*, "KON-NIṬ.*pa*".*to* **i***wi-masen* *desta*. |
 
 | 髪も | 上げた | ほうが | 私は | 好きだ。 |
 |:-|:-|:-|:-|
@@ -235,7 +235,7 @@
 
 | 私は眠らなければなりません！朝クラスがありますから。 |
 |:-|
-| **watasi**.*pa* **nemu***ra-nak'ære:pa* *narimasen*! **asa** *CLASS*.*ga* *ari-masu*.*kara*. |
+| **watasi**.*pa* **nemu***ra-nak'ære:pa* *nari-masen*! **asa** *CLASS*.*ga* *ari-masu*.*kara*. |
 
 | ニューススタンドで聞いて下さい。 |
 |:-|
@@ -292,7 +292,7 @@
 
 | 彼女はその知らせを聞いて真っ青になった。 |
 |:-|
-| **kano**-**̥̣NO**.*pa* *sono* **si***rase*.*wo* **ki***te* **ma***t*'**sawo**.*ni* *narta*. |
+| **kano**-**̥̣NO**.*pa* *sono* **si***ra-se*.*wo* **ki***te* **ma***t*'**sawo**.*ni* *narta*. |
 
 | 彼女は昨日背の高い男の人に会いました。 |
 |:-|
@@ -409,7 +409,7 @@
 
 | その不届きな野郎の顔を、拝ませてもらうか |
 |:-|
-| *sono* **PǑ**-**todo***ki*.*na* **YA-RḀ**.*no* **kawo**.*wo*, **oga***masete* *morawu*.*ka*. |
+| *sono* **PǑ**-**todo***ki*.*na* **YA-RḀ**.*no* **kawo**.*wo*, **oga***ma-sete* *morawu*.*ka*. |
 
 | | | | |
 |-:|:-|-:|:-|
@@ -546,7 +546,7 @@
 
 | こんなに | 上手に | 英語で | 手紙を | 書ける | のに | どうして | 話せない | の？|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|
-| *konna*.*ni* | **ẒḀ÷SU**.*ni* | **YØ̄-GO**.*de* | **te=kami**.*wo* | **ka***keru* | *no*.*ni* | *dō-ste* | **pana***senai* | *no*? |
+| *konna*.*ni* | **ẒḀ÷SU**.*ni* | **YØ̄-GO**.*de* | **te=kami**.*wo* | **ka***keru* | *no*.*ni* | *dō-ste* | **pana***se-nai* | *no*? |
 
 | | | | |
 |-:|:-|-:|:-|
