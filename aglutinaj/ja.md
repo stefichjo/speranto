@@ -1,6 +1,36 @@
 # SÆ̥-ṢO-PO̥ (正書法)
 
-### Oftaj Vortoj
+### Sonimitoj: Katakanoj
+
+| ワンワン |
+|:-|
+| *WAN-WAN* |
+
+| ニャニャ |
+|:-|
+| *NYA-NYA* |
+
+### Fremdvortoj: Katakanoj
+
+| ピアノ |
+|:-|
+| *PIANO* |
+
+| コンピュータ |
+|:-|
+| *KONPYŪTA* ← *COMPUTER* |
+
+### Nomoj: Katakanoj
+
+| ネコ |
+|:-|
+| *NEKO* ← neko |
+
+| アレッサンドラ |
+|:-|
+| *ARESSANDORA* ← *ALESSANDRA* |
+
+### Oftaj Vortoj: Hiraganoj
 
 | はい。 |
 |:-|
@@ -22,7 +52,25 @@
 |:-|:-|
 | *sou* | *desu*. |
 
-### Substantivoj
+#### Oftaj Ĉin-Devenaj Vortoj: Hiraganoj
+
+| こんにちは。 |
+|:-|
+| *konniti*.*pa* ← KON-NIṬ.*pa*. |
+
+| おはよう　ございます。 |
+|:-|
+| *o*-*payåu* *gozai-masu*. ← *o*-*payåu* GO-ZA*i-masu*. |
+
+| こんばんは。 |
+|:-|
+| *konban*.*pa* ← KON-BAN.*pa* |
+
+### Substantivoj: Han-Signoj
+
+| 猫 |
+|:-|
+| **neko**|
 
 | 車 |
 |:-|
@@ -74,36 +122,37 @@
 | 供 |
 | 友 |
 
+### Postpozicioj: Hiraganoj
 
-### Verboj kaj Adjektivoj
+| 友達の | 名前 |
+|:-|:-|
+| **tomo**=**tati**.*no* | **na**-**mawe** |
 
-| その車は動こうとしなかった。 |
-|:-|
-| *sono* **kuruma**.*pa* **ugo***kō*.*to* *s'nak'arta*. |
+### Verboj kaj Adjektivoj: Hansignoj kaj Hiraganoj
 
-| 木の上の猫が私の所へ降りてきた。 |
-|:-|
-| **ki**.*no* **uwe**.*no* **neko**.*ga* **watasi**.*no* **tokoro**.*pe* **o***rite* *kita*. |
-
-| この秋は、珍しくドラマをたくさん見ている。 |
-|:-|
-| *sono* **aki**.*pa*, **mezura***siku* *DRAMA*.*wo* TAK-SAN **mi***te* *iu*. |
-
-| 妹は、「こんにちは」と言いませんでした。 |
-|:-|
-| **imōto**.*pa*, "KON-NIṬ.*pa*".*to* **i***wi-masen* *desta*. |
-
-| 髪も | 上げた | ほうが | 私は | 好き | だ。 |
-|:-|:-|:-|:-|:-|:-|
-| **kami**.*mo* | **a***geta* | PḀ.*ga* | **watasi**.*pa* | **su***ki* | *da*. |
+| さあ、 | 来なさい！ | 急いで！ |
+|:-|:-|:-|
+| *sā*, | **ki**-*nasai*! | **iso***gte*! |
 
 | お帰りなさい |
 |:-|
 | *o*-**kawe***ri-nasai* |
 
-| さあ、 | 来なさい！ | 急いで！ |
-|:-|:-|:-|
-| *sā*, | **ki**-*nasai*! | **iso***gte*! |
+| 木の上の猫が私の所へ降りてきた。 |
+|:-|
+| **ki**.*no* **uwe**.*no* **neko**.*ga* **watasi**.*no* **tokoro**.*pe* **o***rite* *kita*. |
+
+| 今日はとても暑い。 |
+|:-|
+| **kyō**.*pa* *totemo* **atu***i*. |
+
+| 私は昨日忙しかった。 |
+|:-|
+| **watasi**.*pa* **kinō** **isoga***sik'arta*. |
+
+| 明日暑ければ、私達は泳ぎに行くつもりだ。 |
+|:-|
+| **asta** **atu***k'ære:pa*, **watasi**-**tati**.*pa* **oyo***gi*.*ni* **i***ku* *tumori* *da*. |
 
 ---
 
@@ -127,43 +176,22 @@
 | 早い |
 | 速い |
 
-#### Oftaj Ĉin-Devenaj Vortoj
 
-| こんにちは。 |
+
+| この秋は、珍しくドラマをたくさん見ている。 |
 |:-|
-| KON-NIṬ.*pa*. |
+| *sono* **aki**.*pa*, **mezura***siku* *DRAMA*.*wo* TAK-SAN **mi***te* *iu*. |
 
-| おはようございます。 |
+| 妹は、「こんにちは」と言いませんでした。 |
 |:-|
-| *o*-*payåu* GO-ZA*i-masu*. |
+| **imōto**.*pa*, "KON-NIṬ.*pa*".*to* **i***wi-masen* *desta*. |
 
-| こんばんは。 |
-|:-|
-| KON-BAN.*pa* |
+| 髪も | 上げた | ほうが | 私は | 好き | だ。 |
+|:-|:-|:-|:-|:-|:-|
+| **kami**.*mo* | **a***geta* | PḀ.*ga* | **watasi**.*pa* | **su***ki* | *da*. |
 
-### Prajapanaj Vortoj je Du Hansignoj
 
-| 今日はとても暑い。 |
-|:-|
-| **kyō**.*pa* *totemo* **atu***i*. |
 
-| 私は昨日忙しかった。 |
-|:-|
-| **watasi**.*pa* **kinō** **isoga***sik'arta*. |
-
-| 明日暑ければ、私達は泳ぎに行くつもりだ。 |
-|:-|
-| **asta** **atu***k'ære:pa*, **watasi**-**tati**.*pa* **oyo***gi*.*ni* **i***ku* *tumori* *da*. |
-
-### Sonimitoj
-
-...
-
-### Bestoj
-
-| ネコ |
-|:-|
-| neko |
 
 ---
 | 庭にあなたのネコが見えます。 |
