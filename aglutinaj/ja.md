@@ -285,7 +285,7 @@
 
 | 牛に | 乾草を | やって、 | 昼の | 仕事は | おわり | です。 |
 |:-|:-|:-|:-|:-|:-|:-|
-| **usi**.*ni* | **hosi**-**kusa**.*wo* | *yarte*, | **piro**.*no* | **:ZI**=**koto**.*pa* | *owari* | *desu*. |
+| **usi**.*ni* | **posi**-**kusa**.*wo* | *yarte*, | **piro**.*no* | **:ZI**=**koto**.*pa* | *owari* | *desu*. |
 
 #### 女
 
