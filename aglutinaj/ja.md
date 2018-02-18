@@ -611,7 +611,7 @@
 
 | 彼女は | 他の | 何よりも | 音楽が | 好き | です。 |
 |:-|:-|:-|:-|:-|:-|
-| **kano.N̥̣O**.*pa* | **poka**.*no* | **nani**.*yori*.*mo* | **ON.GAK**.*ga* | **su***ki* *desu*. |
+| **kano.N̥̣O**.*pa* | **poka**.*no* | **nani**.*yori*.*mo* | **ON.GAK**.*ga* | **su***ki* | *desu*. |
 
 | | | | |
 |-:|:-|-:|:-|
