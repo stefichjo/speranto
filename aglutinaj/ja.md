@@ -187,7 +187,7 @@
 |:-|
 | *o*-**kawe***ri-nasai* |
 
-| 木の | 上の | 猫が | 私の | 所へ | 降り | てきた。 |
+| 木の | 上の | 猫が | 私の | 所へ | 降りて | きた。 |
 |:-|:-|:-|:-|:-|:-|:-|
 | **ki**.*no* | **uwe**.*no* | **neko**.*ga* | **watasi**.*no* | **tokoro**.*pe* | **o***rite* | *kita*. |
 
@@ -228,7 +228,7 @@
 | *ano* | **mado**.*no* | *soba*.*no* | **tukuwe**.*wo* | **tuka***wu*.*na*. |
 
 
-### Ĉin-Devenaj Vortoj: Hansignoj
+### Ĉin-Devenaj Unu-Vortoj: Hansignoj
 
 | 愛してる。 |
 |:-|
@@ -490,6 +490,19 @@
 | | |
 |-:|:-|
 | **不** | **PU**/**PŮṬ**/**PUṬ** **PŪ**/**PŮT**/**PUT** (**:PU**) |
+
+
+#### 実
+
+| | |
+|-:|:-|
+| **実** | **ZIṬ** **:ZIT** (**ZIT**) |
+| **實** | |
+| **宀** + **周** + **貝** | |
+
+| 実は | 難しい | ので | ある。 |
+|:-|
+| **ZIT**.*pa* | **muzuka***sii* | *no*.*de* | *aru*. |
 
 
 ### Ĉin-Devenaj Du-Vortoj: Han-Signoj
