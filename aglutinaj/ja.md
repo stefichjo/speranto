@@ -16,10 +16,10 @@
 |:-|
 | *PIANO* |
 
-| ビール | コンピュータ |
-|:-|:-|
-| *BĒₒā| *KONPYŪTA* |
-| *COMPŪTER* |
+| ビール | バイオリン | コンピュータ |
+|:-|:-|:-|
+| *BĪRU* | *BAIORLIN* | *KONPYŪTA* |
+| *BĒER* | *VĪOLIN* | *COMPŪTER* |
 
 ### Nomoj: Katakanoj
 
