@@ -174,10 +174,10 @@
 
 ### Verboj kaj Adjektivoj: Hansignoj kaj Hiraganoj
 
-| atui | tomaru | puru | payai | awu | kaweru |
-|:-|:-|:-|:-|:-|:-|
-| 暑い | 止まる | 降る | 早い | 合う | 変える |
-| 熱い | 泊まる | 振る | 速い | 会う | 帰る |
+| atui | tomaru | puru | payai | awu | kaweru | purui |
+|:-|:-|:-|:-|:-|:-|:-|
+| 暑い | 止まる | 降る | 早い | 合う | 変える | 古い |
+| 熱い | 泊まる | 振る | 速い | 会う | 帰る | 旧い |
 
 | さあ、 | 来なさい！ | 急いで！ |
 |:-|:-|:-|
