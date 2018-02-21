@@ -18,7 +18,7 @@
 
 | ビール | バイオリン | コンピュータ |
 |:-|:-|:-|
-| *BĪRU* | *BAIORLIN* | *KONPYŪTA* |
+| *BĪRU* | *BAIORIN* | *KONPYŪTA* |
 | *BĒER* | *VĪOLIN* | *COMPŪTER* |
 
 ### Nomoj: Katakanoj
