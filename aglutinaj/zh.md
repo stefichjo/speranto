@@ -1,53 +1,84 @@
-* 六 ḶÒ̥ liù
-* 二 ǸH èr @
-* 九 ḌǑ̥ jiǔ
-* 见 ḌÆ̀N jiàn
-* 百 BẠ̌ bǎi
+| M | N | Ŋ |
+|:-|:-|:-|
+| *m* | *n* | *ng* |
+| **/m/** | **/n/** | **/ŋ/** |
+
+
+* 见 ̣D̂Æ̀N jiàn
 * 元 YǼN yuán
-* 叫 ḌḀ̀ jiào
+* 叫 ̣D̂Ḁ̀ jiào
+* 什 Ꞩ́ØN shén
+* 姓 ̣S̀Ø̰ xìng
+* 兴 ̣S̀Ø̰ xìng
+* 书 ꞨŪ shū
+
+
+* 百 BẠ̌ bǎi
 * 名 ̣ḾØ̰ míng
 * 明 ̣ḾØ̰ míng
 * 我 UǑ wǒ
-* 姓 ̣S̀Ø̰ xìng
-* 字 D̂Ì zì
 * 呢 NØ ne
 * 王 UÁ̰ wáng	
-* 什 ̣Ꞩ́ØN shén
 * 么 MØ me
-* 五 Ǔ wǔ
-* 一 Ī yī
 * 零 ̣ĹØ̰ líng
-* 十 ꞨÍ shí
-* 七 ṬĪ qī
-* 四 SÌ sì
 * 再 D̂Ạ̀ zài
-* 三 SĀN sān
-* 八 BĀ bā
 * 本 BØ̌N
-* 书 ꞨŪ shū
 * 好 HḀ̌ hǎo
 * 你 NǏ nǐ
+* 高 GḀ̄ gāo
+* 很 HØN hěn @
+* 新 ṢØN xīn @
+* 心 ṢØN xīn @
+* 店 ḌÀN diàn
+* 中 ĐŌ̰ zhōng
 
 ---
 
-* 日 rì njiɡ
-* 店 diàn tiːms
-* 天 tiān qʰl'iːn
-* 行 háng ɡaːŋ
-* 中 zhōng tuŋ
-
-* 土 tǔ l̥ʰaːʔ, l'aːʔ
-* 水 shuǐ qʰʷljilʔ
-
 * 大 DÀ dà
-* 汉 HÀN hàn
 * 道 DḀ̀ dào
 * 月 YØ̀ yuè
 * 鳥 ṆḀ̌ niǎo
-* 新 ṢØN xīn @
-* 心 ṢØN xīn @
-* 人 NHǾN rén
-
+* 人 NHǾN rén @
+* 日 NHÌ rì @
+* 急 ̣D́ jí
+* 局 ̣D̂Ù jù
+* 天 ṬĀN tiān
+* 行 HĀ̰ háng
+* 土 TǓ tǔ
+* 水 ̥ꞨØ̣ shuǐ @
 
 ---
+
+* [m]
+* [b̥]  [v]
+* [pʰ] [f]
+
+* [n]
+* [d̥]  [d̥z̥]  [ɖ̥ʐ̥]  [d̥ʑ̥]    Ḍ → G̣/Ĝ / Đ̣
+* [tʰ] [tsʰ] [tʂʰ] [tɕʰ]   Ṭ → C̣/Ĉ / Ŧ̣
+*      [s]   [ʂ]   [ɕ]     Ṣ → Ḥ/Ĥ / ̣Ꞩ
+
+* [ŋ]
+* [ɡ̊]       G
+* [kʰ] [x]  K → C  H
+
+* [l] [ʐ]
+
+* D̂ T̂ S
+* Đ Ŧ Ꞩ
+* Ḍ Ṭ ̣S
+
+* 一 Ī yī
+* 二 ǸH èr @
+* 三 SĀN sān
+* 四 SÌ sì
+* 五 Ǔ wǔ
+* 六 ḶÒ̥ liù
+* 七 ̣T̄ qī
+* 八 BĀ bā
+* 九 ̣D̂Ǒ̥ jiǔ
+* 十 ꞨÍ shí
+
+* 汉 HÀN hàn
+* 字 D̂Ì zì
 
