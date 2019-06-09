@@ -183,6 +183,7 @@
 
 ## Vocalismi
 
+* **[nãtare](#ã)** [nuotare]
 * **[stēlla](#ē)** [stella]
   * **[pïsce](#ï)** [pesce]
     * **[ad-ìsso](#ì)** [adesso]
@@ -199,6 +200,11 @@
     * **[ǒfficio](#ǒ)** [ufficio]
     * **[coğnóscere](#ó)** [conoscere]
     * **[nò](#ò)** [no]
+
+##### ã
+(raro)
+
+* **nãŭtare** = **nãtare** [nuotare]
 
 ### ē
 
@@ -362,8 +368,6 @@
 * **păùsa** [posa]
 * **tăùro** [toro]
 * **găùdēre** [godere]
-
-...
 
 * **tăùrinēnse** [torinese]
 
