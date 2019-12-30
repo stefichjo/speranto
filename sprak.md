@@ -97,7 +97,7 @@ Kiam la radika vokalo de ne-radikaj vortoj aŭ prepozicio estas mallonga, ĝia f
 
 |**h-**|**d-**|**w-**|
 |-|-|-|
-|**hi**|**de**|**wa**|
+|**hi**|**de**|**wæ**|
 |*(ŝi, li)*|*(ili)*|*(kiu)*|
 |**het**|**dit**|**wat**|
 |*(ĉi tio)*|*(tio)*|*(kio)*|
@@ -109,7 +109,7 @@ Kiam la radika vokalo de ne-radikaj vortoj aŭ prepozicio estas mallonga, ĝia f
 La korelativoj, kiuj finiĝas per vokalo, havas apartajn ***akuzativan*** kaj ***genitivan*** formojn je **-m** kaj **-s**.
 
 * **his** [hɪs] *(ŝia, lia)*
-* **wam** [wam] *(kiun)*
+* **wæm** [wæm] *(kiun)*
 
 La korelativoj, kiuj finiĝas per **-t** estas uzeblaj ankaŭ kiel adjektivoj.
 
@@ -129,7 +129,7 @@ La korelativo **hi** estas uzebla prefiksece por signifi **ĉi-**.
 
 |**i-**|**ni-**|
 |-|-|
-|**iwa**|**niwa**|
+|**iwæ**|**niwæ**|
 |*(iu)*|*(neniu)*|
 |**iwat**|**niwat**|
 |*(io)*|*(nenio)*|
@@ -140,7 +140,7 @@ La korelativo **hi** estas uzebla prefiksece por signifi **ĉi-**.
 
 *Ursprak:* La prefikso **hi-** ne plu uziĝas por korelativoj por signifi **ĉi**.
 
-* **hiwa** → **hi** *(ĉi tiu)*
+* **hiwai** → **hi** *(ĉi tiu)*
 * **hiwat** → **het** *(ĉi tio)*
 * **hiwēr** → **hīr** *(ĉi tie)*
 * **hiwen** → **hin** *(ĉi tiam)*
