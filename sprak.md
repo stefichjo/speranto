@@ -14,8 +14,10 @@ Konserviĝas longaj, monoftongaj, malhelaj vokaloj. (Antaŭ pluraj konsonantoj, 
 
 | | Sprak |
 |:-|:-|
-| *(sonĝo)* | **drom** [dro:m] |
-| *(sep)* | **seven** [ˈsɛvən] |
+| *(sonĝo)* | **drom** |
+| | [dro:m] |
+| *(sep)* | **seven** |
+| | [ˈsɛvən] |
 
 En poezio, ŝvao povas eliziiĝi.
 
