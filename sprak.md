@@ -22,15 +22,13 @@ En poezio, ŝvao povas eliziiĝi.
 
 * **broderen** [ˈbro:dərən] → **brodern** [ˈbro:dərn] *(fratoj)*
 
-*Ursprak:* ***Praĝermana*** **ai** [aɪ̯] fariĝas **æ** [ɛ:]. **æ** [ɛ:] estas ĉiam longa.
+*Ursprak/Nysprak:* ***Praĝermana*** **ai** [aɪ̯] fariĝas **æ** [ɛ:] respektive **ō** [o:].
 
-* **gaist** [gaɪ̯st] → **gæst** [gɛ:st] *(spirito)*
-* **gai** [gaɪ̯] → **gæ** [gɛ:] *(iras)*
-* **ain** [aɪ̯n] → **æn** [ɛ:n] *(unu)*
-
-*Nysprak:* **æ** [ɛ:] fariĝas **ō** [o:].
-
-* **gæst** [gaɪ̯st] → **gōst** [go:st]
+| Ursprak | Sprak | Nysprak |
+|:-|:-|:-|
+| **gaist** [gaɪ̯st] | **gæst** [gɛ:st] *(spirito)* | **gōst** [go:st] |
+| **gai** [gaɪ̯] | **gæ** [gɛ:] *(iras)* | **go** [go:] |
+| **ain** [aɪ̯n] | **æn** [ɛ:n] *(unu)* | **on** [o:n] |
 
 ### Konsonantoj
 
