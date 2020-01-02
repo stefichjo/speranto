@@ -73,10 +73,6 @@ Kiam la radika vokalo de ne-radikaj vortoj aŭ prepozicio estas mallonga, ĝia f
 |**six**|**seven**|**aght**|**nin**|**ten**|
 |*(ses)*|*(sep)*|*(ok)*|*(naŭ)*|*(dek)*|
 
-*Ursprakismo:* Tra bruo, **æn** [ɛ:n] fariĝas **ain** [aɪ̯n].
-
-*Nisprakismo:* Tra bruo, **twæ** [twɛ:] fariĝas **twō** [two:].
-
 ### Pronomoj
 
 |**ik**|**du**|**wi**|**ji**|**hun**|**hen**|
