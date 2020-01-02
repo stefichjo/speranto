@@ -78,7 +78,7 @@ Kiam la radika vokalo de ne-radikaj vortoj aŭ prepozicio estas mallonga, ĝia f
 ### Numeraloj
 
 |**æn**|**twæ**|**tri**|**fir**|**fimf**|
-|-|-|-|-|-|
+|:-|:-|:-|:-|:-|
 |*(unu)*|*(du)*|*(tri)*|*(kvar)*|*(kvin)*|
 |**six**|**seven**|**aght**|**nin**|**ten**|
 |*(ses)*|*(sep)*|*(ok)*|*(naŭ)*|*(dek)*|
@@ -86,7 +86,7 @@ Kiam la radika vokalo de ne-radikaj vortoj aŭ prepozicio estas mallonga, ĝia f
 ### Pronomoj
 
 |**ik**|**du**|**wi**|**ji**|**hun**|**hen**|
-|-|-|-|-|-|-|
+|:-|:-|:-|:-|:-|:-|
 |*(mi)*|*(vi)*|*(ni)*|*(vi)*|*(ŝi)*|*(li)*|
 |**mi**|**di**|**ons**|**ju**|**hum**|**hem**|
 |*(min)*|*(vin)*|*(nin)*|*(vin)*|*(ŝin)*|*(lin)*|
@@ -95,16 +95,18 @@ Kiam la radika vokalo de ne-radikaj vortoj aŭ prepozicio estas mallonga, ĝia f
 
 ### Korelativoj
 
+| *ĉi ti-* | *ti-* | *ki-* |
+|:-|:-|:-|
+| *(loko)* ***-e*** | **hir** [hi:r] | **dar** [da:r] | **wer** [we:r] |
+| *(tempo)* ***-am*** | **hin** [hɪn] | **dan** [dan] | **wen** [wɛn] |
+
+
 |**h-**|**d-**|**w-**|
-|-|-|-|
+|:-|:-|:-|
 |**hi**|**de**|**wæ**|
 |*(ŝi, li)*|*(ili)*|*(kiu)*|
 |**het**|**dit**|**wat**|
 |*(ĉi tio)*|*(tio)*|*(kio)*|
-|**hīr**|**dār**|**wēr**|
-|*(ĉi tie)*|*(tie)*|*(kie)*|
-|**hin**|**dan**|**wen**|
-|*(ĉi tiam)*|*(tiam)*|*(kiam)*|
 
 La korelativoj, kiuj finiĝas per vokalo, havas apartajn ***akuzativan*** kaj ***genitivan*** formojn je **-m** kaj **-s**.
 
