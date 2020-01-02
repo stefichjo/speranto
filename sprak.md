@@ -22,7 +22,7 @@ En poezio, ŝvao povas eliziiĝi.
 
 * **broderen** [ˈbro:dərən] → **brodern** [ˈbro:dərn] *(fratoj)*
 
-*Ursprak/Nysprak:* ***Praĝermana*** **ai** [aɪ̯] fariĝas **æ** [ɛ:] respektive **ō** [o:]. Tra bruo, **æ** [ɛ:] restas **ai** [aɪ̯] *(jes)* kaj **næ** [nɛ:] fariĝas **nō**.
+*Ursprak/Nysprak:* ***Praĝermana*** **ai** [aɪ̯] fariĝas **æ** [ɛ:] respektive **ō** [o:]. Tra bruo, **æ** [ɛ:] restas **ai** [aɪ̯] *(jes)* kaj **næ** [nɛ:] fariĝas **nō** *(ne)*.
 
 | | Ursprak | Sprak | Nysprak |
 |:-|:-|:-|:-|
