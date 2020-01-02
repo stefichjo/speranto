@@ -55,12 +55,12 @@ Kiam la radika vokalo de ne-radikaj vortoj aŭ prepozicio estas mallonga, ĝia f
 | *(ŝipo)* | **skipp** [skɪp] | **shipp** [ʃɪp] |
 | *(havas)* | **hab** [ha:b] | **hav** [hav] |
 
-*Ursprak/Nysprak:* Komence de la radiko, ***praĝermana*** **khw** fariĝis **hw** [hw] en ***Ursprak*** kaj **w** [w] en ***Sprak***. Fine de la radiko, ĝi fariĝis **j** [ɪ̯] respektive **w** [w] jam en ***Ursprak***. ***Praĝermana*** **kht** [xt] fariĝas **ght** en ***Sprak*** kaj **t** [t] en ***Nysprak***. Post **a**, **o** kaj **u**, **ght** prononciĝas [ɪ̯t], alikaze [çt].
+*Ursprak/Nysprak:* Komence de la radiko, ***praĝermana*** **khw** fariĝis **hw** [hw] en ***Ursprak*** kaj **w** [w] en ***Sprak***. Fine de la radiko, ĝi fariĝis **j** [ɪ̯] respektive **w** [w] jam en ***Ursprak***, sed ĝi eliziiĝas post **ai**. ***Praĝermana*** **kht** [xt] fariĝas **ght** en ***Sprak*** kaj **t** [t] en ***Nysprak***. Post **a**, **o** kaj **u**, **ght** prononciĝas [ɪ̯t], alikaze [çt].
 
 | | Ursprak | Sprak | Nysprak |
 |:-|:-|:-|:-|
 | *(kio)* | **hwat** [hwat] | **wat** [wat] | |
-| *(piedfingro)* | **taij** [taɪ̯] | **tæj** [tɛ:ɪ̯] | **tōw** [to:w] |
+| *(piedfingro)* | **tai** [taɪ̯] | **tæ** [tɛ:] | **tō** [to:] |
 | *(nokto)* | **nakht** [naxt] | **naght** [naɪ̯t] | **natt** [nat] |
 | *(lumo)* | **likht** [lɪxt] | **light** [liçt] | **litt** [lɪt] |
 
