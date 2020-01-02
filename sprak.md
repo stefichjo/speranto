@@ -6,9 +6,16 @@
 
 ### Vokaloj
 
-|**a**|**e**|**i**|**o**|**u**|**æ**|**ø**|**y**|
-|-|-|-|-|-|-|-|-|
-|[a] [a:]|[ɛ] [e:]|[ɪ] [i:]|[ɔ] [o:]|[ʊ] [u:]|[ɛ:]|[œ] [ø:]|[ʏ] [y:]|
+| | |
+|:-|:-|
+| **a** | [a] / [a:] |
+| **e** | [ɛ] / [e:] |
+| **i** | [ɪ] / [i:] |
+| **o** | [ɔ] / [o:] |
+| **u** | [ʊ] / [u:] |
+| **æ** | - / [ɛ:] |
+| **ø** | [œ] / [ø:] |
+| **y** | [ʏ] / [y:] |
 
 Konserviĝas longaj, monoftongaj, malhelaj vokaloj. (Antaŭ pluraj konsonantoj, la vokalo estas mallonga.) La vokalo antaŭ **v** estas ĉiam mallonga. **æ** [ɛ:] estas ĉiam longa.
 
