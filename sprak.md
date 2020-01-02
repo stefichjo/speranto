@@ -22,15 +22,21 @@ En poezio, ŝvao povas eliziiĝi.
 
 * **broderen** [ˈbro:dərən] → **brodern** [ˈbro:dərn] *(fratoj)*
 
-*Ursprak/Nysprak:* ***Praĝermana*** **ai** [aɪ̯] fariĝas **æ** [ɛ:] respektive **ō** [o:]. Tra bruo, **æ** [ɛ:] restas **ai** [aɪ̯] *(jes)* kaj **næ** [nɛ:] fariĝas **nō** *(ne)*.
+*Ursprak/Nysprak:* ***Praĝermana*** **ai** [aɪ̯] fariĝas **æ** [ɛ:] respektive **ō** [o:].
 
 | | Ursprak | Sprak | Nysprak |
 |:-|:-|:-|:-|
 | *(spirito)* | **gaist** [gaɪ̯st] | **gæst** [gɛ:st] | **gōst** [go:st] |
 | *(iras)* | **gai** [gaɪ̯] | **gæ** [gɛ:] | **gō** [go:] |
-| *(unu)* | **ain** [aɪ̯n] | **æn** [ɛ:n] | **ōn** [o:n] |
+
+*Ursprak/Nysprak:* Tra bruo, **æ** [ɛ:] restas **ai** [aɪ̯] *(jes)* kaj **næ** [nɛ:] fariĝas **nō** *(ne)*. Simile, **æn** [ɛ:n] restas **ain** [aɪ̯n] *(unu)* kaj **twæ** [twɛ:] fariĝas **twō** [two:] *(du)*.
+
+| | Ursprak | Sprak | Nysprak |
+|:-|:-|:-|:-|
 | *(jes)* | **ai** [aɪ̯] | **æ** [ɛ:] | **ō** [o:] |
 | *(ne)* | **nai** [naɪ̯] | **næ** [nɛ:] | **nō** [no:] |
+| *(unu)* | **ain** [aɪ̯n] | **æn** [ɛ:n] | **ōn** [o:n] |
+| *(du)* | **twai** [twaɪ̯] | **twæ** [twɛ:] | **twō** [two:] |
 
 ### Konsonantoj
 
