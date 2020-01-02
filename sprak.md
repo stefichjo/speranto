@@ -83,40 +83,27 @@ Kiam la radika vokalo de ne-radikaj vortoj aŭ prepozicio estas mallonga, ĝia f
 |**six**|**seven**|**aght**|**nin**|**ten**|
 |*(ses)*|*(sep)*|*(ok)*|*(naŭ)*|*(dek)*|
 
-### Pronomoj
-
-|**ik**|**du**|**wi**|**ji**|**hun**|**hen**|
-|:-|:-|:-|:-|:-|:-|
-|*(mi)*|*(vi)*|*(ni)*|*(vi)*|*(ŝi)*|*(li)*|
-|**mi**|**di**|**ons**|**ju**|**hum**|**hem**|
-|*(min)*|*(vin)*|*(nin)*|*(vin)*|*(ŝin)*|*(lin)*|
-|**min**|**din**|**onser**|**jur**|**huns**|**hens**|
-|*(mia)*|*(via)*|*(nia)*|*(via)*|*(ŝia)*|*(lia)*|
-
-### Korelativoj
+### Korelativoj kaj Pronomoj
 
 | *ĉi ti-* | *ti-* | *ki-* |
 |:-|:-|:-|
+| *(afero)* ***-o***, ***-u*** | **het** [hɛt] | **dit** [dɪt] | **wat** [wat] |
 | *(loko)* ***-e*** | **hir** [hi:r] | **dar** [da:r] | **wer** [we:r] |
 | *(tempo)* ***-am*** | **hin** [hɪn] | **dan** [dan] | **wen** [wɛn] |
 
+Personaj korelativoj kaj pronomoj havas apartajn kazajn finaĵojn.
 
-|**h-**|**d-**|**w-**|
-|:-|:-|:-|
-|**hi**|**de**|**wæ**|
-|*(ŝi, li)*|*(ili)*|*(kiu)*|
-|**het**|**dit**|**wat**|
-|*(ĉi tio)*|*(tio)*|*(kio)*|
+| | *ŝi* | *li* | *ŝi*/*li* | *ili* | *kiu* |
+|:-|:-|:-|:-|:-|:-|
+| *(nominativo)* | **hun** [hʊn] | **hen** [hɛn] | **hi** [hi:] | **de** [de:] | **wæ** [wɛ:] |
+| *(akuz-/dativo)* | **hum** [hʊm] | **hem** [hɛm] | **him** [hɪm] | **dem** [dɛm] | **wæm** [wɛ:m] |
+| *(genitivo)* | **huns** [hʊns] | **hens** [hɛns] | **his** [hɪs] | **des** [dɛs] | **wæs** [wɛ:s] |
 
-La korelativoj, kiuj finiĝas per vokalo, havas apartajn ***akuzativan*** kaj ***genitivan*** formojn je **-m** kaj **-s**.
-
-* **his** [hɪs] *(ŝia, lia)*
-* **wæm** [wæm] *(kiun)*
-
-La korelativoj, kiuj finiĝas per **-t** estas uzeblaj ankaŭ kiel adjektivoj.
-
-* ***het*** mann *(ĉi tiu viro)*
-* ***dit*** fru *(tiu virino)*
+| | *mi* | *vi* | *ni* | *vi* |
+|:-|:-|:-|:-|:-|
+| *(nominativo)* | **ik** [ɪk] | **du** [du:] | **wi** [wi:] | **ji** [ji:] |
+| *(akuz-/dativo)* | **mi** [mi:] | **di** [di:] | **ons** [ɔns] | **ju** [ju:] |
+| *(genitivo)* | **min** [mi:n] | **din** [di:n] | **onser** ['ɔnsər] | **jur** [ju:r] |
 
 La korelativo **het** uziĝas, kiam mankas subjekto.
 
