@@ -22,13 +22,15 @@ En poezio, ŝvao povas eliziiĝi.
 
 * **broderen** [ˈbro:dərən] → **brodern** [ˈbro:dərn] *(fratoj)*
 
-*Ursprak/Nysprak:* ***Praĝermana*** **ai** [aɪ̯] fariĝas **æ** [ɛ:] respektive **ō** [o:].
+*Ursprak/Nysprak:* ***Praĝermana*** **ai** [aɪ̯] fariĝas **æ** [ɛ:] respektive **ō** [o:]. Tra bruo, **æ** [ɛ:] restas **ai** [aɪ̯] *(jes)* kaj **næ** [nɛ:] fariĝas **nō**.
 
 | | Ursprak | Sprak | Nysprak |
 |:-|:-|:-|:-|
 | *(spirito)* | **gaist** [gaɪ̯st] | **gæst** [gɛ:st] | **gōst** [go:st] |
-| *(iras)* | **gai** [gaɪ̯] | **gæ** [gɛ:] | **go** [go:] |
-| *(unu)* | **ain** [aɪ̯n] | **æn** [ɛ:n] | **on** [o:n] |
+| *(iras)* | **gai** [gaɪ̯] | **gæ** [gɛ:] | **gō** [go:] |
+| *(unu)* | **ain** [aɪ̯n] | **æn** [ɛ:n] | **ōn** [o:n] |
+| *(jes)* | **ai** [aɪ̯] | **æ** [ɛ:] | **ō** [o:] |
+| *(ne)* | **ai** [naɪ̯] | **næ** [nɛ:] | **nō** [no:] |
 
 ### Konsonantoj
 
@@ -56,15 +58,6 @@ Kiam la radika vokalo de ne-radikaj vortoj aŭ prepozicio estas mallonga, ĝia f
 | *(havas)* | **hab** [ha:b] | **hav** [hav] |
 
 ## Gramatiko
-
-### Jes/Ne
-
-* **æ** *(jes)*
-* **næ** *(ne)*
-
-*Ursprakismo:* Tra bruo, **æ** [ɛ:] fariĝas **ai** [aɪ̯].
-
-*Nisprakismo:* Tra bruo, **næ** [nɛ:] fariĝas **nō** [no:].
 
 ### Numeraloj
 
