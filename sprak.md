@@ -10,12 +10,13 @@
 |-|-|-|-|-|-|-|-|
 |[a] [a:]|[ɛ] [e:]|[ɪ] [i:]|[ɔ] [o:]|[ʊ] [u:]|[ɛ:]|[œ] [ø:]|[ʏ] [y:]|
 
-Konserviĝas longaj, monoftongaj, malhelaj vokaloj. (Antaŭ pluraj konsonantoj, la vokalo estas mallonga.) La vokalo antaŭ **v** estas ĉiam mallonga.
+Konserviĝas longaj, monoftongaj, malhelaj vokaloj. (Antaŭ pluraj konsonantoj, la vokalo estas mallonga.) La vokalo antaŭ **v** estas ĉiam mallonga. "æ" [ɛ:] estas ĉiam longa.
 
 | | Sprak |
 |:-|:-|
 | *(sonĝo)* | **drom** [dro:m] |
 | *(sep)* | **seven** ['sɛvən] |
+| *(spirito)* | **gæst** [gɛ:st] |
 
 En poezio, ŝvao povas eliziiĝi.
 
@@ -27,7 +28,6 @@ En poezio, ŝvao povas eliziiĝi.
 
 | | Ursprak | Sprak | Nysprak |
 |:-|:-|:-|:-|
-| *(spirito)* | **gaist** [gaɪ̯st] | **gæst** [gɛ:st] | **gōst** [go:st] |
 | *(iras)* | **gai** [gaɪ̯] | **gæ** [gɛ:] | **gō** [go:] |
 
 *Ursprak/Nysprak:* Tra bruo, **æ** [ɛ:] restas **ai** [aɪ̯] *(jes)* kaj **næ** [nɛ:] fariĝas **nō** *(ne)*. Simile, **æn** [ɛ:n] restas **ain** [aɪ̯n] *(unu)* kaj **twæ** [twɛ:] fariĝas **twō** [two:] *(du)*.
