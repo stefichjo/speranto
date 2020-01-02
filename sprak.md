@@ -31,16 +31,11 @@ Kiam la radika vokalo de ne-radikaj vortoj aŭ prepozicio estas mallonga, ĝia f
 |:-|:-|:-|
 | *(fratoj)* | **broderen** ['bro:dərən] | **brodern** ['bro:dərn] |
 
-*Ursprak/Nysprak:* ***Praĝermana*** **ai** [aɪ̯] fariĝas **æ** [ɛ:] respektive **ō** [o:].
+*Ursprak/Nysprak:* ***Praĝermana*** **ai** [aɪ̯] fariĝas **æ** [ɛ:] en ***Sprak*** respektive **ō** [o:] en ***Nysprak***. Tra bruo, **æ** [ɛ:] restas **ai** [aɪ̯] *(jes)* el ***Ursprak***, dum **næ** [nɛ:] fariĝas **nō** *(ne)* el ***Nysprak***. Simile, **æn** [ɛ:n] restas **ain** [aɪ̯n] *(unu)* el ***Ursprak***, dum **twæ** [twɛ:] fariĝas **twō** [two:] *(du)* el ***Nysprak***.
 
 | | Ursprak | Sprak | Nysprak |
 |:-|:-|:-|:-|
 | *(iras)* | **gai** [gaɪ̯] | **gæ** [gɛ:] | **gō** [go:] |
-
-*Ursprak/Nysprak:* Tra bruo, **æ** [ɛ:] restas **ai** [aɪ̯] *(jes)* el ***Ursprak***, dum **næ** [nɛ:] fariĝas **nō** *(ne)* el ***Nysprak***. Simile, **æn** [ɛ:n] restas **ain** [aɪ̯n] *(unu)* el ***Ursprak***, dum **twæ** [twɛ:] fariĝas **twō** [two:] *(du)* el ***Nysprak***.
-
-| | Ursprak | Sprak | Nysprak |
-|:-|:-|:-|:-|
 | *(jes)* | **ai** [aɪ̯] | **æ** [ɛ:] | **ō** [o:] |
 | *(ne)* | **nai** [naɪ̯] | **næ** [nɛ:] | **nō** [no:] |
 | *(unu)* | **ain** [aɪ̯n] | **æn** [ɛ:n] | **ōn** [o:n] |
