@@ -41,18 +41,19 @@ Kiam la radika vokalo de ne-radikaj vortoj aŭ prepozicio estas mallonga, ĝia f
 * **mann** [man] *(viro)*
 * **man** [man] *(oni)*
 
-*Ursprak:* ***Praĝermana*** **kh** [x] skribiĝas **gh**. La **kh** en **nikht** eliziiĝas.
+*Ursprak/Nysprak:* ***Praĝermana*** **kh** [x] fariĝas **j** [j] respektive eliziiĝas. En ***Sprak***, kutime uziĝas la formo **nit** [nɪt] (el ***Nysprak***) anstataŭ **night** [nijt] *(ne)*.
 
-* **nakht** → **naght** [naxt] *(nokto)*
-* **nikht** → **nit** [nɪt] *(ne)*
+| | Ursprak | Sprak | Nysprak
+|:-|:-|:-|:-|
+| *(nokto)* | **nakht** [naxt] | **naght** [najt] | **nat** [nat] |
+| *(ne)* | **nikht** [nɪxt] | **night** [nɪjt] | **nit** [nɪt] |
 
-*Ursprak:* ***Praĝermana*** **sk** fariĝas **sh** [ʃ].
+*Ursprak/Nysprak:* ***Praĝermana*** **sk** fariĝas **sh** [ʃ]. Radikofine, ***praĝermana*** **b** fariĝas **v**. La vokalo tiam mallongiĝas.
 
-* **skipp** → **shipp** [ʃɪp] *(ŝipo)*
-
-*Ursprak:* ***Praĝermana*** **b** fariĝas **v** fine de la radiko.
-
-* **hab** [ha:b] → **hav** [hav] *(havas)*
+| | Ursprak | Sprak |
+|:-|:-|:-|
+| *(ŝipo)* | **skipp** [skɪp] | **shipp** [ʃɪp] |
+| *(havas)* | **hab** [ha:b] | **hav** [hav] |
 
 ## Gramatiko
 
