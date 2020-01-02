@@ -10,7 +10,7 @@
 |-|-|-|-|-|-|-|-|
 |[a] [a:]|[ɛ] [e:]|[ɪ] [i:]|[ɔ] [o:]|[ʊ] [u:]|[ɛ:]|[œ] [ø:]|[ʏ] [y:]|
 
-Konserviĝas longaj, monoftongaj, malhelaj vokaloj. (Antaŭ pluraj konsonantoj, la vokalo estas mallonga.) La vokalo antaŭ **v** estas ĉiam mallonga. "æ" [ɛ:] estas ĉiam longa.
+Konserviĝas longaj, monoftongaj, malhelaj vokaloj. (Antaŭ pluraj konsonantoj, la vokalo estas mallonga.) La vokalo antaŭ **v** estas ĉiam mallonga. **æ** [ɛ:] estas ĉiam longa.
 
 | | Sprak |
 |:-|:-|
@@ -18,9 +18,9 @@ Konserviĝas longaj, monoftongaj, malhelaj vokaloj. (Antaŭ pluraj konsonantoj, 
 | *(sep)* | **seven** ['sɛvən] |
 | *(spirito)* | **gæst** [gɛ:st] |
 
-En poezio, ŝvao povas eliziiĝi.
+*Nysprak*: Aldonaj ŝvao eliziiĝas, same en poezio en ***Sprak***.
 
-| | Sprak | Sprak (poezie) |
+| | Sprak | Nysprak |
 |:-|:-|:-|
 | *(fratoj)* | **broderen** ['bro:dərən] | **brodern** ['bro:dərn] |
 
@@ -30,7 +30,7 @@ En poezio, ŝvao povas eliziiĝi.
 |:-|:-|:-|:-|
 | *(iras)* | **gai** [gaɪ̯] | **gæ** [gɛ:] | **gō** [go:] |
 
-*Ursprak/Nysprak:* Tra bruo, **æ** [ɛ:] restas **ai** [aɪ̯] *(jes)* kaj **næ** [nɛ:] fariĝas **nō** *(ne)*. Simile, **æn** [ɛ:n] restas **ain** [aɪ̯n] *(unu)* kaj **twæ** [twɛ:] fariĝas **twō** [two:] *(du)*.
+*Ursprak/Nysprak:* Tra bruo, **æ** [ɛ:] restas **ai** [aɪ̯] *(jes)* el ***Ursprak***, dum **næ** [nɛ:] fariĝas **nō** *(ne)* el ***Nysprak***. Simile, **æn** [ɛ:n] restas **ain** [aɪ̯n] *(unu)* el ***Ursprak***, dum **twæ** [twɛ:] fariĝas **twō** [two:] *(du)* el ***Nysprak***.
 
 | | Ursprak | Sprak | Nysprak |
 |:-|:-|:-|:-|
@@ -41,28 +41,34 @@ En poezio, ŝvao povas eliziiĝi.
 
 ### Konsonantoj
 
-Konserviĝas plozivaj konsonantoj.
-
-* **kirk** [kɪrk] *(preĝejo)*
-
-Kiam la radika vokalo de ne-radikaj vortoj aŭ prepozicio estas mallonga, ĝia fina konsonanto ne duobliĝas.
-
-* **mann** [man] *(viro)*
-* **man** [man] *(oni)*
-
-*Ursprak/Nysprak:* ***Praĝermana*** **kh** [x] fariĝas **j** [j] respektive eliziiĝas. En ***Sprak***, kutime uziĝas la formo **nit** [nɪt] (el ***Nysprak***) anstataŭ **night** [niɪ̯t] *(ne)*.
-
-| | Ursprak | Sprak | Nysprak
-|:-|:-|:-|:-|
-| *(nokto)* | **nakht** [naxt] | **naght** [najt] | **nat** [nat] |
-| *(ne)* | **nikht** [nɪxt] | **night** [nɪjt] | **nit** [nɪt] |
-
-*Ursprak/Nysprak:* ***Praĝermana*** **sk** fariĝas **sh** [ʃ]. Radikofine, ***praĝermana*** **b** fariĝas **v**. La vokalo tiam mallongiĝas.
+*Ursprak/Nysprak:* ***Praĝermana*** **sk** fariĝas **sh** [ʃ]. Radikofine, ***praĝermana*** **b** fariĝas **v**. (La vokalo tiam mallongiĝas.)
 
 | | Ursprak | Sprak |
 |:-|:-|:-|
 | *(ŝipo)* | **skipp** [skɪp] | **shipp** [ʃɪp] |
 | *(havas)* | **hab** [ha:b] | **hav** [hav] |
+
+*Ursprak/Nysprak:* Komence de la radiko, ***praĝermana*** **khw** fariĝis **hw** [hw] en ***Ursprak*** kaj **w** [w] en ***Sprak***. Fine de la radiko, ĝi fariĝis **j** [ɪ̯] respektive **w** [w] jam en ***Ursprak***. ***Praĝermana*** **kht** [xt] fariĝas **ght** en ***Sprak*** kaj **t** [t] en ***Nysprak***. Post **a**, **o** kaj **u**, **ght** prononciĝas [ɪ̯t], alikaze [çt].
+
+| | Ursprak | Sprak | Nysprak |
+|:-|:-|:-|:-|
+| *(kio)* | **hwat** [hwat] | **wat** [wat] | |
+| *(piedfingro)* | **taij** [taɪ̯] | **tæj** [tɛ:ɪ̯] | **tōw** [to:w] |
+| *(nokto)* | **nakht** [naxt] | **naght** [naɪ̯t] | **natt** [nat] |
+| *(lumo)* | **likht** [lɪxt] | **light** [liçt] | **litt** [lɪt] |
+
+*Nysprak*: La formo **nit** [nɪt] uziĝas ankaŭ en poezio en ***Sprak***.
+
+| | Ursprak | Sprak | Nysprak |
+|:-|:-|:-|:-|
+| *(ne)* | **nikht** [nɪxt] | **night** [nɪçt] | **nit** [nɪt] |
+
+Kiam la radika vokalo de ne-radikaj vortoj aŭ prepozicio estas mallonga, ĝia fina konsonanto ne duobliĝas.
+
+| | Sprak |
+|:-|:-|
+| *(viro)* | **mann** [man] |
+| *(oni)* | **man** [man] |
 
 ## Gramatiko
 
@@ -147,7 +153,6 @@ La korelativo **hi** estas uzebla prefiksece por signifi **ĉi-**.
 *Ursprak:* La korelativaj radikokomencoj **đ-** [ð] kaj **hw-** [hw] fariĝas **d-** [d] kaj **w-** [w].
 
 * **đār** [ða:r] → **dār** [da:r]
-* **hwat** [hwat] → **wat** [wat]
 
 *Nysprak:* La korelativaj prefiksoj **i-** kaj **ni-** estas uzeblaj ankaŭ kun radikaj vortoj.
 
