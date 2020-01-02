@@ -18,6 +18,13 @@ Konserviĝas longaj, monoftongaj, malhelaj vokaloj. (Antaŭ pluraj konsonantoj, 
 | *(sep)* | **seven** ['sɛvən] |
 | *(spirito)* | **gæst** [gɛ:st] |
 
+Kiam la radika vokalo de ne-radikaj vortoj aŭ prepozicio estas mallonga, ĝia fina konsonanto ne duobliĝas.
+
+| | Sprak |
+|:-|:-|
+| *(viro)* | **mann** [man] |
+| *(oni)* | **man** [man] |
+
 *Nysprak*: Aldonaj ŝvao eliziiĝas, same en poezio en ***Sprak***.
 
 | | Sprak | Nysprak |
@@ -62,13 +69,6 @@ Konserviĝas longaj, monoftongaj, malhelaj vokaloj. (Antaŭ pluraj konsonantoj, 
 | | Ursprak | Sprak | Nysprak |
 |:-|:-|:-|:-|
 | *(ne)* | **nikht** [nɪxt] | **night** [nɪçt] | **nit** [nɪt] |
-
-Kiam la radika vokalo de ne-radikaj vortoj aŭ prepozicio estas mallonga, ĝia fina konsonanto ne duobliĝas.
-
-| | Sprak |
-|:-|:-|
-| *(viro)* | **mann** [man] |
-| *(oni)* | **man** [man] |
 
 ## Gramatiko
 
