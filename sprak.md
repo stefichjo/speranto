@@ -1,6 +1,6 @@
 # Sprak
 
-***Sprak*** baziĝas sur la ***Praĝermana***. Pli specife, ***Sprak*** baziĝas sur la ***Ĝermanaj Lingvoj*** kaj [ties ***Internaciaj Ortografioj***](ghermanaj/README.md), kiuj siavice baziĝas sur la ***Praĝermana***. El ***Sprak*** pruntas [***Piĝino***](pighino.md).
+***Sprak*** baziĝas sur la ***Praĝermana*** kaj la [***Internaciaj Ortografioj***](ghermanaj/README.md) de ***Ĝermanaj Lingvoj***. El ***Sprak*** pruntas [***Piĝino***](pighino.md).
 
 ## Alfabeto
 
@@ -10,17 +10,18 @@
 |-|-|-|-|-|-|-|-|
 |[a] [a:]|[ɛ] [e:]|[ɪ] [i:]|[ɔ] [o:]|[ʊ] [u:]|[ɛ:]|[œ] [ø:]|[ʏ] [y:]|
 
-Konserviĝas longaj, monoftongaj, malhelaj vokaloj. (Antaŭ pluraj konsonantoj, la vokalo estas mallonga.)
+Konserviĝas longaj, monoftongaj, malhelaj vokaloj. (Antaŭ pluraj konsonantoj, la vokalo estas mallonga.) La vokalo antaŭ **v** estas ĉiam mallonga.
 
-* **drom** [dro:m] *(sonĝo)*
-
-La vokalo antaŭ **v** estas ĉiam mallonga.
-
-* **seven** [ˈsɛvən] *(sep)*
+| | Sprak |
+|:-|:-|
+| *(sonĝo)* | **drom** [dro:m] |
+| *(sep)* | **seven** [ˈsɛvən] |
 
 En poezio, ŝvao povas eliziiĝi.
 
-* **broderen** [ˈbro:dərən] → **brodern** [ˈbro:dərn] *(fratoj)*
+| | Sprak | Sprak (poezie) |
+|:-|:-|:-|
+| *(fratoj)* | **broderen** [ˈbro:dərən] | **brodern** [ˈbro:dərn] |
 
 *Ursprak/Nysprak:* ***Praĝermana*** **ai** [aɪ̯] fariĝas **æ** [ɛ:] respektive **ō** [o:].
 
@@ -49,7 +50,7 @@ Kiam la radika vokalo de ne-radikaj vortoj aŭ prepozicio estas mallonga, ĝia f
 * **mann** [man] *(viro)*
 * **man** [man] *(oni)*
 
-*Ursprak/Nysprak:* ***Praĝermana*** **kh** [x] fariĝas **j** [j] respektive eliziiĝas. En ***Sprak***, kutime uziĝas la formo **nit** [nɪt] (el ***Nysprak***) anstataŭ **night** [nijt] *(ne)*.
+*Ursprak/Nysprak:* ***Praĝermana*** **kh** [x] fariĝas **j** [j] respektive eliziiĝas. En ***Sprak***, kutime uziĝas la formo **nit** [nɪt] (el ***Nysprak***) anstataŭ **night** [niɪ̯t] *(ne)*.
 
 | | Ursprak | Sprak | Nysprak
 |:-|:-|:-|:-|
