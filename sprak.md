@@ -30,7 +30,7 @@ En poezio, ŝvao povas eliziiĝi.
 | *(iras)* | **gai** [gaɪ̯] | **gæ** [gɛ:] | **gō** [go:] |
 | *(unu)* | **ain** [aɪ̯n] | **æn** [ɛ:n] | **ōn** [o:n] |
 | *(jes)* | **ai** [aɪ̯] | **æ** [ɛ:] | **ō** [o:] |
-| *(ne)* | **ai** [naɪ̯] | **næ** [nɛ:] | **nō** [no:] |
+| *(ne)* | **nai** [naɪ̯] | **næ** [nɛ:] | **nō** [no:] |
 
 ### Konsonantoj
 
