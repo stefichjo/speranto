@@ -24,11 +24,11 @@ En poezio, ŝvao povas eliziiĝi.
 
 *Ursprak/Nysprak:* ***Praĝermana*** **ai** [aɪ̯] fariĝas **æ** [ɛ:] respektive **ō** [o:].
 
-| Ursprak | Sprak | Nysprak |
-|:-|:-|:-|
-| **gaist** [gaɪ̯st] | **gæst** [gɛ:st] *(spirito)* | **gōst** [go:st] |
-| **gai** [gaɪ̯] | **gæ** [gɛ:] *(iras)* | **go** [go:] |
-| **ain** [aɪ̯n] | **æn** [ɛ:n] *(unu)* | **on** [o:n] |
+| | Ursprak | Sprak | Nysprak |
+|:-|:-|:-|:-|
+| *(spirito)* | **gaist** [gaɪ̯st] | **gæst** [gɛ:st] | **gōst** [go:st] |
+| *(iras)* | **gai** [gaɪ̯] | **gæ** [gɛ:] | **go** [go:] |
+| *(unu)* | **ain** [aɪ̯n] | **æn** [ɛ:n] | **on** [o:n] |
 
 ### Konsonantoj
 
