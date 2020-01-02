@@ -14,16 +14,14 @@ Konserviĝas longaj, monoftongaj, malhelaj vokaloj. (Antaŭ pluraj konsonantoj, 
 
 | | Sprak |
 |:-|:-|
-| *(sonĝo)* | **drom** |
-| | [dro:m] |
-| *(sep)* | **seven** |
-| | [ˈsɛvən] |
+| *(sonĝo)* | **drom** [dro:m] |
+| *(sep)* | **seven** ['sɛvən] |
 
 En poezio, ŝvao povas eliziiĝi.
 
 | | Sprak | Sprak (poezie) |
 |:-|:-|:-|
-| *(fratoj)* | **broderen** [ˈbro:dərən] | **brodern** [ˈbro:dərn] |
+| *(fratoj)* | **broderen** ['bro:dərən] | **brodern** ['bro:dərn] |
 
 *Ursprak/Nysprak:* ***Praĝermana*** **ai** [aɪ̯] fariĝas **æ** [ɛ:] respektive **ō** [o:].
 
@@ -322,12 +320,12 @@ Tra bruo, oni povas distingi per la prepozicioj **bi** and **to**/**av** inter *
 
 *Ursprak:* La ***genitiva*** finaĵo **-'s** [(ə)s] ne plu uziĝas. Anstataŭe, uziĝas la prepozicio **av**.
 
-* đe ***husen's*** windogen [ðə ˈhu:səns ˈwɪndo:gən] → de windogen ***av*** de husen [də ˈwɪndo:gən
-a:v də ˈhu:sən] *(la fenestroj de la domoj)*
+* đe ***husen's*** windogen [ðə 'hu:səns 'wɪndo:gən] → de windogen ***av*** de husen [də 'wɪndo:gən
+a:v də 'hu:sən] *(la fenestroj de la domoj)*
 
 ##### Prefiksoj
 
 *Ursprak:* Anstataŭ metafora uzo, prepozicio fariĝas prefikso. Ĝia radika vokalo fariĝas ŝvao (**e** [ə]).
 
 * Ik ***stai for*** đe manne. [staɪ̯ fɔr] → Ik ***stæ for*** de mann. [stɛ: fɔr] *(Mi staras antaŭ la viro.)*
-* Ik ***forstai*** đe mann. [ˈfɔrstaɪ̯] → Ik ***ferstæ*** de mann. [fərˈstɛ:] *(Mi komprenas la viron.)*
+* Ik ***forstai*** đe mann. ['fɔrstaɪ̯] → Ik ***ferstæ*** de mann. [fər'stɛ:] *(Mi komprenas la viron.)*
