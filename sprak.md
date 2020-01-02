@@ -86,7 +86,7 @@ Kiam la radika vokalo de ne-radikaj vortoj aŭ prepozicio estas mallonga, ĝia f
 ### Korelativoj kaj Pronomoj
 
 | *ĉi ti-* | *ti-* | *ki-* |
-|:-|:-|:-|
+|:-|:-|:-|:-|
 | *(afero)* ***-o***, ***-u*** | **het** [hɛt] | **dit** [dɪt] | **wat** [wat] |
 | *(loko)* ***-e*** | **hir** [hi:r] | **dar** [da:r] | **wer** [we:r] |
 | *(tempo)* ***-am*** | **hin** [hɪn] | **dan** [dan] | **wen** [wɛn] |
