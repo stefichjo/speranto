@@ -96,11 +96,19 @@ Kiam la radika vokalo de ne-radikaj vortoj aŭ prepozicio estas mallonga, ĝia f
 
 ### Korelativoj kaj Pronomoj
 
+La korelativo **het** [hɛt] *(ĉi tio)* uziĝas ankaŭ por signifi **ĝi**.
+
 | | *ĉi ti-* | *ti-* | *ki-* |
 |:-|:-|:-|:-|
 | *(afero)* ***-o***, ***-u*** | **het** [hɛt] | **dit** [dɪt] | **wat** [wat] |
 | *(loko)* ***-e*** | **hir** [hi:r] | **dar** [da:r] | **wer** [we:r] |
 | *(tempo)* ***-am*** | **hin** [hɪn] | **dan** [dan] | **wen** [wɛn] |
+
+*Ursprak:* Uziĝis la korelativo **dit** [dɪt] *(tio)* por signifi **ĝi**.
+
+| | Ursprak | Sprak |
+|:-|:-|:-|
+| *(ĝi)* | **dit** | **het** |
 
 #### Kazoj
 
@@ -228,12 +236,12 @@ Kutime, verboj sekvas la subjekton. Kiam mankas subjekto, uziĝas **het**.
 
 * Het regen. *(Pluvas.)*
 
-*Ursprak:* Verboj staris en la dua pozicio de frazo kaj en la fina pozicio de subfrazo.
+*Ursprak:* Verboj staris en la dua pozicio ene de frazo kaj en la fina pozicio ene de subfrazo.
 
 | | Ursprak | Sprak |
 |:-|:-|:-|
 | *(Hodiaŭ mi laboras.)* | Hidag **werk** ik. | Hidag, ik **werk**. |
-| *(ke mi laboras hodiaŭ)* | đat ik hidag **werk** | dat ik werk **hidag** |
+| *(ke mi laboras hodiaŭ)* | đat ik hidag **werk** | dat ik **werk** hidag |
 
 ##### Infinitivoj
 
@@ -252,7 +260,34 @@ Infinitivoj finiĝas je **-e** [ə].
 |:-|:-|:-|
 | *(Vi diras, ke mi laboras.)* | Đu sag, đat ik **werke**. | Du sag, dat ik **werk**. |
 
+##### Helpaj Verboj
 
+La radiko de helpaj verboj havas specialan vokalon.
+
+* Ik ***wet*** het. *(Mi scias ĝin.)*
+* Ik shall ***wite*** het. *(Mi scios ĝin.)*
+
+*Ursprak:* La infinitivo estis en la lasta pozicio ene de frazo.
+
+| | Ursprak | Sprak |
+|:-|:-|:-|
+| *(Mi scios ĝin.)* | Ik skall het ***wite***. | Ik shall ***wite*** het. |
+
+
+*Nysprak:* La infinitiva radiko de helpaj verboj egalas al la ***prezenca*** formo.
+
+| | Sprak | Nysprak |
+|:-|:-|:-|
+| *(povi)* | **kønne** | **kanne** |
+| *(koni)* | **kynne** | **konne** 
+| *(kapabli)* | **møge** | **mage** |
+| *(devi)* | **møte** | **mote** |
+| *(-os)* | **shølle** | **shalle** |
+| *(-us)* | **shylle** | **sholle** |
+| *(-u)* | **shille** | **shulle** |
+| *(rajti, meriti)* | **tørfe** | **tarfe** |
+| *(scii)* | **wite** | **wete** |
+| *(voli)* | **wolle** | **wille** |
 
 ---
 
@@ -295,26 +330,6 @@ La finaĵo por ***adjektivoj*** estas **-end** [ənd], kaj la finaĵo por la ***
 *Ursprak:* La ***genitiva*** formoj je **-s** de korelativoj je **-t** ne plu uziĝas.
 
 * ***hets*** grotnis → de grotnis ***av het*** *(ĉi ties grandeco, la grandeco de ĉi tio)*
-
-##### Helpaj Verboj
-
-La radiko de helpaj verboj havas specialan vokalon.
-
-* Ik ***wet*** het. *(Mi scias ĝin.)*
-* Ik shall ***wite*** het. *(Mi scios ĝin.)*
-
-*Nysprak:* La infinitiva radiko de helpaj verboj egalas al la ***prezenca*** formo.
-
-* **kønne** → **kanne** *(povi)*
-* **kynne** → **konne** *(koni)*
-* **møge** → **mage** *(kapabli)*
-* **møte** → **mote** *(devi)*
-* **shølle** → **shalle** *(-os)*
-* **shylle** → **sholle** *(-us)*
-* **shille** → **shulle** *(-u)*
-* **tørfe** → **tarfe** *(rajti, meriti)*
-* **wite** → **wete** *(scii)*
-* **wolle** → **wille** *(voli)*
 
 #### Prepozicioj
 
