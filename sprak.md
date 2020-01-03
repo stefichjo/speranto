@@ -135,10 +135,12 @@ La korelativo **hi** estas uzebla prefiksece por signifi **ĉi-**.
 
 *Ursprak:* La prefikso **hi-** [hi:] *(ĉi)* uziĝis kun korelativoj je **hw-** [hw].
 
-* **hi-hwai** → **hi** *(ĉi tiu)*
-* **hi-hwat** → **het** *(ĉi tio)*
-* **hi-hwer** → **hir** *(ĉi tie)*
-* **hi-hwen** → **hin** *(ĉi tiam)*
+| | Ursprak | Sprak |
+|:-|:-|:-|
+| *(ĉi tiu)* | **hi-hwai** | **hi** |
+| *(ĉi tio)* | **hi-hwat** | **het** |
+| *(ĉi tie)* | **hi-hwer** | **hir** |
+| *(ĉi tiam)* | **hi-hwen** | **hin** |
 
 La adverboj **æ** [ɛ:] *(jes)* kaj **næ** [nɛ:] *(ne)* uziĝas prefiksece kiel **i-** [i:] kaj **ni-** [ni:] kun korelativoj je **w-** por signifi **i-** respektive **neni-**.
 
