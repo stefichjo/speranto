@@ -140,7 +140,7 @@ La korelativo **hi** estas uzebla prefiksece por signifi **ĉi-**.
 | *(ĉi tiu)* | **hi-hwai** | **hi** |
 | *(ĉi tio)* | **hi-hwat** | **het** |
 | *(ĉi tie)* | **hi-hwer** | **hir** |
-| *(ĉi tiam)* | **hi-hwen** | **hin** |
+| *(ĉi tiam)* | **hi-hwen** | **hin** | 
 
 La adverboj **æ** [ɛ:] *(jes)* kaj **næ** [nɛ:] *(ne)* uziĝas prefiksece kiel **i-** [i:] kaj **ni-** [ni:] kun korelativoj je **w-** por signifi **i-** respektive **neni-**.
 
@@ -195,10 +195,9 @@ La ***komparativo*** kaj la ***superlativo*** esprimiĝas per la adverboj ***mæ
 
 #### Adverboj
 
-Adverboj havas la saman formon kiel adjektivoj.
+Adverboj staras antaŭ la adjektivo.
 
-* de hæl bok *(la tuta libro)*
-* en ***hæl*** ny bok *(tute nova libro)*
+* de ***hæl*** ny bok *(la tute nova libro)*
 
 Adverboj sekvas la verbon.
 
@@ -209,7 +208,7 @@ Adverboj sekvas la verbon.
 Lokaj adverboj povas havi pozician aŭ direktan signifon.
 
 * Du er ***far***. *(Vi estas for.)*
-* Du go ***far***. *(Vi iras for.)*
+* Du gæ ***far***. *(Vi iras for.)*
 
 Pere de la sufikso **-er** [ər], spacaj adverboj kun pozicia signifo fariĝas adjektivo.
 
@@ -218,8 +217,10 @@ Pere de la sufikso **-er** [ər], spacaj adverboj kun pozicia signifo fariĝas a
 
 *Ursprak:* La formo je **-en** [ən] de spacaj adverboj kun pozicia signifo ne plu uziĝas.
 
-* Du er ***innen***. → Du er ***in***. *(Vi estas ene.)*
-* Du er ***forren***. → Du er ***for***. *(Vi estas antaŭe.)*
+| | Ursprak | Sprak |
+|:-|:-|:-|
+| *(Vi estas ene.)* | Đu er ***innen***. | Du er ***in***. |
+| *(Vi estas antaŭe.)* | Đu er ***forren***. | Du er ***for***. |
 
 #### Verboj
 
