@@ -148,7 +148,6 @@ La adverboj **æ** [ɛ:] *(jes)* kaj **næ** [nɛ:] *(ne)* uziĝas prefiksece ki
 * **niting** *(neniaĵo, nenio)*
 * **nimann** *(neniulo, neniu)*
 
-
 La triapersonaj pronomoj havas apartajn kazajn finaĵojn.
 
 | | *ŝi* | *li* | *ŝi*/*li* | *ili* |
@@ -169,32 +168,32 @@ La unuaj- kaj dua-personaj pronomoj havas apartajn kazajn finaĵojn.
 
 La difina artikolo kaj por singularo kaj por pluralo estas **de** [də]. La nedifina artikolo **en** [ən] estas nur por singularo.
 
-* ***de*** hus *(la domo)*
-* ***de*** husen *(la domoj)*
-* ***en*** hus *(domo)*
+* **de** hus *(la domo)*
+* **de** husen *(la domoj)*
+* **en** hus *(domo)*
 * husen *(domoj)*
 
 ### Radikaj Vortoj
 
 #### Substantivoj
 
-La finaĵo por ***multenombro*** estas **-en** [ən].
+La finaĵo por multenombro estas **-en** [ən].
 
 * **husen** *(domoj)*
 
 Kiam adjektivo fariĝas substantivo, ĝi havas la finaĵon **-e** [ə].
 
-* de ***æne*** *(la unu)*
+* de **æne** *(la unu)*
 
 #### Adjektivoj
 
 Adjektivoj staras antaŭ la substantivo.
 
-* en ***grot*** hus *(granda domo)*
+* en **grot** hus *(granda domo)*
 
-La ***komparativo*** kaj la ***superlativo*** esprimiĝas per la adverboj ***mær*** [mɛ:r] respektive ***mæst*** [mɛ:st].
+La *komparativo* kaj la *superlativo* esprimiĝas per la adverboj **mær** [mɛ:r] respektive **mæst** [mɛ:st].
 
-*Ursprak:* La ***komparativo*** kaj la ***superlativo*** esprimiĝis per la sufiksoj **-er** [ər] respektive **-est** [əst].
+*Ursprak:* La *komparativo* kaj la *superlativo* esprimiĝis per la sufiksoj **-er** [ər] respektive **-est** [əst].
 
 | | Ursprak | Sprak |
 |:-|:-|:-|
@@ -206,23 +205,23 @@ La ***komparativo*** kaj la ***superlativo*** esprimiĝas per la adverboj ***mæ
 
 Adverboj staras antaŭ la adjektivo.
 
-* de ***hæl*** ny bok *(la tute nova libro)*
+* de **hæl** ny bok *(la tute nova libro)*
 
 Adverboj sekvas la verbon.
 
-* Ik slap ***god***. *(Mi dormas bone.)*
+* Ik slap **god**. *(Mi dormas bone.)*
 
 ##### Spacaj Adverboj
 
 Lokaj adverboj povas havi lokan aŭ direktan signifon.
 
-* Du er ***far***. *(Vi estas for.)*
-* Du gæ ***far***. *(Vi iras for.)*
+* Du er **far**. *(Vi estas for.)*
+* Du gæ **far**. *(Vi iras for.)*
 
 Pere de la sufikso **-er** [ər], prepozicioj kun loka signifo fariĝas adjektivo (ĉiam kun mallonga vokalo).
 
-* de ***inner*** light *(la ena lumo)*
-* de ***forrer*** mann *(la antaŭa viro)*
+* de **inner** light *(la ena lumo)*
+* de **forrer** mann *(la antaŭa viro)*
 
 *Ursprak:* La formo je **-en** [ən] de spacaj adverboj kun loka signifo ne plu uziĝas.
 
@@ -265,17 +264,17 @@ Infinitivoj finiĝas je **-e** [ə].
 
 La radiko de helpaj verboj havas specialan vokalon.
 
-* Ik ***wet*** het. *(Mi scias ĝin.)*
-* Ik shall ***wite*** het. *(Mi scios ĝin.)*
+* Ik **wet** het. *(Mi scias ĝin.)*
+* Ik shall **wite** het. *(Mi scios ĝin.)*
 
 *Ursprak:* La infinitivo estis en la lasta pozicio ene de frazo.
 
 | | Ursprak | Sprak |
 |:-|:-|:-|
-| *(Mi scios ĝin.)* | Ik skall het ***wite***. | Ik shall ***wite*** het. |
+| *(Mi scios ĝin.)* | Ik skall đit **witen**. | Ik shall **wite** het. |
 
 
-*Nysprak:* La infinitiva radiko de helpaj verboj egalas al la ***prezenca*** formo.
+*Nysprak:* La infinitiva radiko de helpaj verboj egalas al la *prezenca* formo.
 
 | | Sprak | Nysprak |
 |:-|:-|:-|
@@ -292,80 +291,80 @@ La radiko de helpaj verboj havas specialan vokalon.
 
 ---
 
-La finaĵo por infinitivo estas **-e** [ə]. Kiel substantivo, infinitivo esprimas ***manieron***.
+La finaĵo por infinitivo estas **-e** [ə]. Kiel substantivo, infinitivo esprimas *manieron*.
 
-* Ik kann ***spreke***. *(Mi povas paroli.)*
-* de ***spreke*** *(la parolmaniero)*
+* Ik kann **spreke**. *(Mi povas paroli.)*
+* de **spreke** *(la parolmaniero)*
 
-La finaĵo **-ed** [əd] uziĝas por ***preterito*** kaj ***pasivo***.
+La finaĵo **-ed** [əd] uziĝas por *preterito* kaj *pasivo*.
 
-* Ik ***maked***. *(Mi faris.)*
-* Ik hav ***maked***. *(Mi estas farinta.)*
+* Ik **maked**. *(Mi faris.)*
+* Ik hav **maked**. *(Mi estas farinta.)*
 
-La finaĵo por ***adjektivoj*** estas **-end** [ənd], kaj la finaĵo por la ***aganto*** estas **-er** [ər].
+La finaĵo por *adjektivoj* estas **-end** [ənd], kaj la finaĵo por la *aganto* estas **-er** [ər].
 
 * **slapend** *(dormanta)*
 * **slaper** *(dormanto, dormulo)*
 
 Ĉu-demando komenciĝas per verbo.
 
-* ***Er*** du min frend? *(Ĉu vi estas mia amiko?)*
+* **Er** du min frend? *(Ĉu vi estas mia amiko?)*
 
 *Ursprak:* La **t**-formo por la ununombra tria persono ne plu uziĝas.
 
-* Đe mann ***sikht*** de hus. → De mann ***sej*** de hus. *(La viro vidas la domon.)*
-* Đe mann ***sprikht*** to mi. → De mann ***sprek*** to mi. *(La viro parolas al mi.)*
-* Đe mann ***is*** min frend. → De mann ***er*** min frend. *(La viro estas mia amiko.)*
+* Đe mann **sikht** de hus. → De mann **sej** de hus. *(La viro vidas la domon.)*
+* Đe mann **sprikht** to mi. → De mann **sprek** to mi. *(La viro parolas al mi.)*
+* Đe mann **is** min frend. → De mann **er** min frend. *(La viro estas mia amiko.)*
 
-*Nysprak:* La **t**-formo por esprimi ***povon*** ne plu uziĝas.
+*Nysprak:* La **t**-formo por esprimi *povon* ne plu uziĝas.
 
-* ***sight*** → ***sejmaght*** *(vido, vidkapablo)*
+* **sight** → **sejmaght** *(vido, vidkapablo)*
 
-*Nysprak:* Malregulaj formoj por la ***preterito*** aŭ ***pasivo*** ne plu uziĝas, nek por ***fojaj agoj*** nek por ***daŭraj agoj***.
+*Nysprak:* Malregulaj formoj por la *preterito* aŭ *pasivo* ne plu uziĝas, nek por *fojaj agoj* nek por *daŭraj agoj*.
 
-* Ik ***saw***. → Ik ***sejed***. *(Mi vidis.)*
-* Ik hab ***sejen***. → Ik hav ***sejed***. *(Mi estas vidinta.)*
-* ***sprak*** → ***spreking*** *(parolado)*
-* ***sprok*** → ***sprek*** *(parolo)*
+* Ik **saw**. → Ik **sejed**. *(Mi vidis.)*
+* Ik hab **sejen**. → Ik hav **sejed**. *(Mi estas vidinta.)*
+* **sprak** → **spreking** *(parolado)*
+* **sprok** → **sprek** *(parolo)*
 
-*Ursprak:* La ***genitiva*** formoj je **-s** de korelativoj je **-t** ne plu uziĝas.
+*Ursprak:* La *genitiva* formoj je **-s** de korelativoj je **-t** ne plu uziĝas.
 
-* ***hets*** grotnis → de grotnis ***av het*** *(ĉi ties grandeco, la grandeco de ĉi tio)*
+* **hets** grotnis → de grotnis **av het** *(ĉi ties grandeco, la grandeco de ĉi tio)*
 
 #### Prepozicioj
 
-La prepozicioj **to** [to:], **bi** [bi:] kaj **av** [av] uziĝas por ***alativo***, ***lokativo*** kaj ***ablativo*** respektive por ***dativo***, ***instrumentalo*** kaj ***genitivo***.
+La prepozicioj **to** [to:], **bi** [bi:] kaj **av** [av] uziĝas por *alativo*, *lokativo* kaj *ablativo* respektive por *dativo*, *instrumentalo* kaj *genitivo*.
 
-* Ik gev en bok ***to*** min frend. *(Mi donas libron al mia amiko.)*
+* Ik gev en bok **to** min frend. *(Mi donas libron al mia amiko.)*
 
 Kiam [adverbo](#adverboj) fariĝas prepozicio, ĝia vokalo mallongiĝas antaŭ konsonanta radikofino.
 
-* Ik er ***in***. [ɪk ər i:n] *(Mi estas ene.)*
-* Ik er ***in*** de hus. [ɪk ər ɪn də hu:s] *(Mi estas en la domo.)*
+* Ik er **in**. [ɪk ər i:n] *(Mi estas ene.)*
+* Ik er **in** de hus. [ɪk ər ɪn də hu:s] *(Mi estas en la domo.)*
 
-Tra bruo, oni povas distingi per la prepozicioj **bi** and **to**/**av** inter ***pozicia*** kaj ***direkta*** signifoj de prepozicioj. La distingata prepozicio fariĝas adverbo.
+Tra bruo, oni povas distingi per la prepozicioj **bi** and **to**/**av** inter *loka* kaj *direkta* signifoj de prepozicioj. La distingata prepozicio fariĝas adverbo.
 
-* Ik sto ***in*** de hus. [ɪn] → Ik sto ***in bi*** de hus. [i:n bi:] *(Mi staras en la domo.)*
-* Ik go ***in*** de hus. [ɪn] → Ik go ***in to*** de hus. [i:n to:] *(Mi iras en la domon.)*
-* Ik sto ***ut*** de hus. [ʊt] → Ik sto ***ut bi*** de hus. [u:t bi:] *(Mi staras ekster la domo.)*
-* Ik go ***ut*** de hus. [ʊt] → Ik go ***ut av*** de hus. [u:t av] *(Mi iras el la domo.)*
+* Ik sto **in** de hus. [ɪn] → Ik sto **in bi** de hus. [i:n bi:] *(Mi staras en la domo.)*
+* Ik go **in** de hus. [ɪn] → Ik go **in to** de hus. [i:n to:] *(Mi iras en la domon.)*
+* Ik sto **ut** de hus. [ʊt] → Ik sto **ut bi** de hus. [u:t bi:] *(Mi staras ekster la domo.)*
+* Ik go **ut** de hus. [ʊt] → Ik go **ut av** de hus. [u:t av] *(Mi iras el la domo.)*
 
-*Ursprak:* La ***dativa*** finaĵo **-e** ne plu uziĝas, nek por ***dativo*** mem nek por ***ne-direkta signifo*** malantaŭ prepozicio. Anstataŭ ***dativo***, uziĝas la prepozicio **to**.
+*Ursprak:* La *dativa* finaĵo **-e** ne plu uziĝas, nek por *dativo* mem nek por *ne-direkta signifo* malantaŭ prepozicio. Anstataŭ *dativo*, uziĝas la prepozicio **to**.
 
-* Ik geb min ***frende*** en bok. → Ik gev en bok ***to*** min ***frend***. *(Mi donas libron al mia amiko.)*
-* Ik stai in đe ***huse***. → Ik stæ in de ***hus***. *(Mi staras en la domo.)*
+* Ik geb min **frende** en bok. → Ik gev en bok **to** min **frend**. *(Mi donas libron al mia amiko.)*
+* Ik stai in đe **huse**. → Ik stæ in de **hus**. *(Mi staras en la domo.)*
 * Ik gai in đe hus. → Ik gæ in de hus. *(Mi iras en la domon.)*
-* Ik stai ut đe ***huse***. → Ik stæ ut de hus. *(Mi staras ekster la domo.)*
-* Ik gai ut đe ***huse***. → Ik gæ ut de hus. *(Mi iras el la domo.)*
+* Ik stai ut đe **huse**. → Ik stæ ut de hus. *(Mi staras ekster la domo.)*
+* Ik gai ut đe **huse**. → Ik gæ ut de hus. *(Mi iras el la domo.)*
 
-*Ursprak:* La ***genitiva*** finaĵo **-'s** [(ə)s] ne plu uziĝas. Anstataŭe, uziĝas la prepozicio **av**.
+*Ursprak:* La *genitiva* finaĵo **-'s** [(ə)s] ne plu uziĝas. Anstataŭe, uziĝas la prepozicio **av**.
 
-* đe ***husen's*** windogen [ðə 'hu:səns 'wɪndo:gən] → de windogen ***av*** de husen [də 'wɪndo:gən
+* đe **husen's** windogen [ðə 'hu:səns 'wɪndo:gən] → de windogen **av** de husen [də 'wɪndo:gən
 a:v də 'hu:sən] *(la fenestroj de la domoj)*
 
 ##### Prefiksoj
 
 *Ursprak:* Anstataŭ metafora uzo, prepozicio fariĝas prefikso. Ĝia radika vokalo fariĝas ŝvao (**e** [ə]).
 
-* Ik ***stai for*** đe manne. [staɪ̯ fɔr] → Ik ***stæ for*** de mann. [stɛ: fɔr] *(Mi staras antaŭ la viro.)*
-* Ik ***forstai*** đe mann. ['fɔrstaɪ̯] → Ik ***ferstæ*** de mann. [fər'stɛ:] *(Mi komprenas la viron.)*
+* Ik **stai for** đe manne. [staɪ̯ fɔr] → Ik **stæ for** de mann. [stɛ: fɔr] *(Mi staras antaŭ la viro.)*
+* Ik **forstai** đe mann. ['fɔrstaɪ̯] → Ik **ferstæ** de mann. [fər'stɛ:] *(Mi komprenas la viron.)*
