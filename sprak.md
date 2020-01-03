@@ -6,6 +6,8 @@
 
 ### Vokaloj
 
+Estas longaj kaj mallongaj vokaloj. **æ** [ɛ:] estas ĉiam longa. (Konserviĝas longaj, monoftongaj, malhelaj vokaloj.)
+
 | | |
 |:-|:-|
 | **a** | [a] / [a:] |
@@ -17,7 +19,7 @@
 | **ø** | [œ] / [ø:] |
 | **y** | [ʏ] / [y:] |
 
-Konserviĝas longaj, monoftongaj, malhelaj vokaloj. (Antaŭ pluraj konsonantoj, la vokalo estas mallonga.) La vokalo antaŭ **v** estas ĉiam mallonga. **æ** [ɛ:] estas ĉiam longa.
+Antaŭ pluraj konsonantoj, la vokalo estas mallonga. La vokalo antaŭ **v** estas ĉiam mallonga.
 
 | | Sprak |
 |:-|:-|
@@ -91,13 +93,21 @@ Kiam la radika vokalo de ne-radikaj vortoj aŭ prepozicio estas mallonga, ĝia f
 | *(loko)* ***-e*** | **hir** [hi:r] | **dar** [da:r] | **wer** [we:r] |
 | *(tempo)* ***-am*** | **hin** [hɪn] | **dan** [dan] | **wen** [wɛn] |
 
-Personaj korelativoj kaj pronomoj havas apartajn kazajn finaĵojn.
+Persona korelativo **wæ** [wɛ:] *(kiu)* havas apartajn kazajn finaĵojn.
 
-| | *ŝi* | *li* | *ŝi*/*li* | *ili* | *kiu* |
-|:-|:-|:-|:-|:-|:-|
-| *(nominativo)* | **hun** [hʊn] | **hen** [hɛn] | **hi** [hi:] | **de** [de:] | **wæ** [wɛ:] |
-| *(akuz-/dativo)* | **hum** [hʊm] | **hem** [hɛm] | **him** [hɪm] | **dem** [dɛm] | **wæm** [wɛ:m] |
-| *(genitivo)* | **huns** [hʊns] | **hens** [hɛns] | **his** [hɪs] | **des** [dɛs] | **wæs** [wɛ:s] |
+| | *kiu* |
+|:-|:-|
+| *(nominativo)* | **wæ** [wɛ:] |
+| *(akuz-/dativo)* | **wæm** [wɛ:m] |
+| *(genitivo)* | **wæs** [wɛ:s] |
+
+La triapersonaj pronomoj **hun** [hʊn] *(ŝi)*, **hen** [hɛn] *(li)*, **hi** [hi:] *(ri)* kaj **de** [de:] *(ili)*
+
+| | *ŝi* | *li* | *ŝi*/*li* | *ili* |
+|:-|:-|:-|:-|:-|
+| *(nominativo)* | **hun** [hʊn] | **hen** [hɛn] | **hi** [hi:] | **de** [de:] |
+| *(akuz-/dativo)* | **hum** [hʊm] | **hem** [hɛm] | **him** [hɪm] | **dem** [dɛm] |
+| *(genitivo)* | **huns** [hʊns] | **hens** [hɛns] | **his** [hɪs] | **des** [dɛs] |
 
 | | *mi* | *vi* | *ni* | *vi* |
 |:-|:-|:-|:-|:-|
@@ -105,42 +115,39 @@ Personaj korelativoj kaj pronomoj havas apartajn kazajn finaĵojn.
 | *(akuz-/dativo)* | **mi** [mi:] | **di** [di:] | **ons** [ɔns] | **ju** [ju:] |
 | *(genitivo)* | **min** [mi:n] | **din** [di:n] | **onser** ['ɔnsər] | **jur** [ju:r] |
 
-La korelativo **het** uziĝas, kiam mankas subjekto.
-
-* ***Het*** regen. *(Pluvas.)*
-
 La korelativo **hi** estas uzebla prefiksece por signifi **ĉi-**.
 
 * **hidag** *(ĉi-tagon, hodiaŭ)*
 * **hijar** *(ĉi-jaron)*
 
-**æ** kaj **næ** fariĝas la korelativa prefiksoj **i-** kaj **ni-**. Ili kombineblas kun korelativoj je **w-** por formi korelativojn kun la signifo **i-** respektive **neni-**.
+*Ursprak:* La prefikso **hi-** [hi:] *(ĉi)* uziĝis kun korelativoj je **hw-** [hw].
 
-|**i-**|**ni-**|
-|-|-|
-|**iwæ**|**niwæ**|
-|*(iu)*|*(neniu)*|
-|**iwat**|**niwat**|
-|*(io)*|*(nenio)*|
-|**iwēr**|**niwēr**|
-|*(ie)*|*(nenie)*|
-|**iwen**|**niwen**|
-|*(iam)*|*(neniam)*|
+* **hi-hwai** → **hi** *(ĉi tiu)*
+* **hi-hwat** → **het** *(ĉi tio)*
+* **hi-hwer** → **hir** *(ĉi tie)*
+* **hi-hwen** → **hin** *(ĉi tiam)*
 
-*Ursprak:* La prefikso **hi-** ne plu uziĝas por korelativoj por signifi **ĉi**.
+La adverboj **æ** [ɛ:] *(jes)* kaj **næ** [nɛ:] *(ne)* uziĝas prefiksece kiel **i-** [i:] kaj **ni-** [ni:] kun korelativoj je **w-** por signifi **i-** respektive **neni-**.
 
-* **hiwai** → **hi** *(ĉi tiu)*
-* **hiwat** → **het** *(ĉi tio)*
-* **hiwēr** → **hīr** *(ĉi tie)*
-* **hiwen** → **hin** *(ĉi tiam)*
-
-*Ursprak:* La ***genitiva*** formoj je **-s** de korelativoj je **-t** ne plu uziĝas.
-
-* ***hets*** grotnis → de grotnis ***av het*** *(ĉi ties grandeco, la grandeco de ĉi tio)*
+| | *i-* | *neni-* |
+|:-|:-|:-|
+| *(persono)* ***-u*** | **iwæ** | **niwæ** |
+| *(afero)* ***-o*** | **iwat** | **niwat** |
+| *(loko)* ***-e*** | **iwer** | **niwer** |
+| *(tempo)* ***-am*** | **iwen** | **niwen** |
 
 *Nysprak:* La korelativaj prefiksoj **i-** kaj **ni-** estas uzeblaj ankaŭ kun radikaj vortoj.
 
 * **niting** *(neniaĵo, nenio)*
+* **nimann** *(neniulo, neniu)*
+
+La korelativo **het** uziĝas, kiam mankas subjekto.
+
+* ***Het*** regen. *(Pluvas.)*
+
+*Ursprak:* La ***genitiva*** formoj je **-s** de korelativoj je **-t** ne plu uziĝas.
+
+* ***hets*** grotnis → de grotnis ***av het*** *(ĉi ties grandeco, la grandeco de ĉi tio)*
 
 ### Artikoloj
 
