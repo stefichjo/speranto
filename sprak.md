@@ -233,7 +233,7 @@ Kutime, verboj sekvas la subjekton. Kiam mankas subjekto, uziĝas **het**.
 | | Ursprak | Sprak |
 |:-|:-|:-|
 | *(Hodiaŭ mi laboras.)* | Hidag **werk** ik. | Hidag, ik **werk**. |
-| *(ke mi laboras hodiaŭ)* | đat ik hidag werk | dat ik werk hidag |
+| *(ke mi laboras hodiaŭ)* | đat ik hidag **werk** | dat ik werk **hidag** |
 
 ##### Infinitivoj
 
