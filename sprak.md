@@ -205,17 +205,17 @@ Adverboj sekvas la verbon.
 
 ##### Spacaj Adverboj
 
-Lokaj adverboj povas havi pozician aŭ direktan signifon.
+Lokaj adverboj povas havi lokan aŭ direktan signifon.
 
 * Du er ***far***. *(Vi estas for.)*
 * Du gæ ***far***. *(Vi iras for.)*
 
-Pere de la sufikso **-er** [ər], spacaj adverboj kun pozicia signifo fariĝas adjektivo.
+Pere de la sufikso **-er** [ər], prepozicioj kun loka signifo fariĝas adjektivo (ĉiam kun mallonga vokalo).
 
 * de ***inner*** light *(la ena lumo)*
 * de ***forrer*** mann *(la antaŭa viro)*
 
-*Ursprak:* La formo je **-en** [ən] de spacaj adverboj kun pozicia signifo ne plu uziĝas.
+*Ursprak:* La formo je **-en** [ən] de spacaj adverboj kun loka signifo ne plu uziĝas.
 
 | | Ursprak | Sprak |
 |:-|:-|:-|
@@ -224,9 +224,37 @@ Pere de la sufikso **-er** [ər], spacaj adverboj kun pozicia signifo fariĝas a
 
 #### Verboj
 
-Bazaj verboj ne havas finaĵon.
+Kutime, verboj sekvas la subjekton. Kiam mankas subjekto, uziĝas **het**.
 
-* Ik ***sprek*** *(Mi parolas.)*
+* Het regen. *(Pluvas.)*
+
+*Ursprak:* Verboj staris en la dua pozicio de frazo kaj en la fina pozicio de subfrazo.
+
+| | Ursprak | Sprak |
+|:-|:-|:-|
+| *(Hodiaŭ mi laboras.)* | Hidag **werk** ik. | Hidag, ik **werk**. |
+| *(ke mi laboras hodiaŭ)* | đat ik hidag werk | dat ik werk hidag |
+
+##### Infinitivoj
+
+Infinitivoj finiĝas je **-e** [ə].
+
+*Ursprak:* La infinitiva finaĵo estis **-en** [ən].
+
+| | Ursprak | Sprak |
+|:-|:-|:-|
+| *(labori)* | **werken** | **werke** |
+| *(diri)* | **sagen** | **sage** |
+
+*Ursprak:* Ekzistis konjunktivo. Ĝia finaĵo estis **-e** [ə].
+
+| | Ursprak | Sprak |
+|:-|:-|:-|
+| *(Vi diras, ke mi laboras.)* | Đu sag, đat ik **werke**. | Du sag, dat ik **werk**. |
+
+
+
+---
 
 La finaĵo por infinitivo estas **-e** [ə]. Kiel substantivo, infinitivo esprimas ***manieron***.
 
@@ -247,10 +275,6 @@ La finaĵo por ***adjektivoj*** estas **-end** [ənd], kaj la finaĵo por la ***
 
 * ***Er*** du min frend? *(Ĉu vi estas mia amiko?)*
 
-*Ursprak:* La konjunktiva finaĵo **-e** [ə] ne plu uziĝas.
-
-* đat ik ***spreke*** → dat ik ***sprek*** *(ke mi parolu)*
-
 *Ursprak:* La **t**-formo por la ununombra tria persono ne plu uziĝas.
 
 * Đe mann ***sikht*** de hus. → De mann ***sej*** de hus. *(La viro vidas la domon.)*
@@ -267,15 +291,6 @@ La finaĵo por ***adjektivoj*** estas **-end** [ənd], kaj la finaĵo por la ***
 * Ik hab ***sejen***. → Ik hav ***sejed***. *(Mi estas vidinta.)*
 * ***sprak*** → ***spreking*** *(parolado)*
 * ***sprok*** → ***sprek*** *(parolo)*
-
-*Nysprak:* La verbo ne plu bezonas esti la dua frazero.
-
-* Hidag ***regen*** het. → Hidag het ***regen***. *(Hodiaŭ pluvas.)*
-* Đu sag, đat đu min frend ***er***. → Du sag, dat du ***er*** min frend. *(Vi diras, ke vi estas mia amiko.)*
-
-La korelativo **het** uziĝas, kiam mankas subjekto.
-
-* ***Het*** regen. *(Pluvas.)*
 
 *Ursprak:* La ***genitiva*** formoj je **-s** de korelativoj je **-t** ne plu uziĝas.
 
