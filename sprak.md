@@ -34,12 +34,6 @@ Kiam la radika vokalo de ne-radikaj vortoj aŭ prepozicio estas mallonga, ĝia f
 | *(viro)* | **mann** [man] |
 | *(oni)* | **man** [man] |
 
-*Nysprak*: Aldonaj ŝvao eliziiĝas, same en poezio en ***Sprak***.
-
-| | Sprak | Nysprak |
-|:-|:-|:-|
-| *(fratoj)* | **broderen** ['bro:dərən] | **brodern** ['bro:dərn] |
-
 *Ursprak/Nysprak:* ***Praĝermana*** **ai** [aɪ̯] fariĝas **æ** [ɛ:] en ***Sprak*** respektive **ō** [o:] en ***Nysprak***. Tra bruo, **æ** [ɛ:] restas **ai** [aɪ̯] *(jes)* el ***Ursprak***, dum **næ** [nɛ:] fariĝas **nō** *(ne)* el ***Nysprak***. Simile, **æn** [ɛ:n] restas **ain** [aɪ̯n] *(unu)* el ***Ursprak***, dum **twæ** [twɛ:] fariĝas **twō** [two:] *(du)* el ***Nysprak***.
 
 | | Ursprak | Sprak | Nysprak |
@@ -49,6 +43,21 @@ Kiam la radika vokalo de ne-radikaj vortoj aŭ prepozicio estas mallonga, ĝia f
 | *(ne)* | **nai** [naɪ̯] | **næ** [nɛ:] | **nō** [no:] |
 | *(unu)* | **ain** [aɪ̯n] | **æn** [ɛ:n] | **ōn** [o:n] |
 | *(du)* | **twai** [twaɪ̯] | **twæ** [twɛ:] | **twō** [two:] |
+
+#### Ŝvaoj
+
+*Ursprak/Nysprak:* La formoj **maier** ['maɪ̯ər] kaj **maiest** ['maɪ̯əst] havis ŝvaon.
+
+| | Ursprak | Sprak | Nysprak |
+|:-|:-|:-|:-|
+| *(pli multe)* | **maier** ['maɪ̯ər] | **mær** [mɛ:r] | **mōr** [mo:r] |
+| *(plej multe)* | **maiest** ['maɪ̯əst] | **mæst** [mɛ:st] | **mōst** [mo:st] |
+
+*Nysprak*: Aldona ŝvao eliziiĝas (krom inter samaj konsonantoj), same en poezio en ***Sprak***.
+
+| | Sprak | Nysprak |
+|:-|:-|:-|
+| *(fratoj)* | **broderen** ['bro:dərən] | **brodern** ['bro:dərn] |
 
 ### Konsonantoj
 
@@ -93,6 +102,8 @@ Kiam la radika vokalo de ne-radikaj vortoj aŭ prepozicio estas mallonga, ĝia f
 | *(loko)* ***-e*** | **hir** [hi:r] | **dar** [da:r] | **wer** [we:r] |
 | *(tempo)* ***-am*** | **hin** [hɪn] | **dan** [dan] | **wen** [wɛn] |
 
+#### Kazoj
+
 Persona korelativo **wæ** [wɛ:] *(kiu)* havas apartajn kazajn finaĵojn.
 
 | | *kiu* |
@@ -101,13 +112,15 @@ Persona korelativo **wæ** [wɛ:] *(kiu)* havas apartajn kazajn finaĵojn.
 | *(akuz-/dativo)* | **wæm** [wɛ:m] |
 | *(genitivo)* | **wæs** [wɛ:s] |
 
-La triapersonaj pronomoj **hun** [hʊn] *(ŝi)*, **hen** [hɛn] *(li)*, **hi** [hi:] *(ri)* kaj **de** [de:] *(ili)*
+La triapersonaj pronomoj havas apartajn kazajn finaĵojn.
 
 | | *ŝi* | *li* | *ŝi*/*li* | *ili* |
 |:-|:-|:-|:-|:-|
 | *(nominativo)* | **hun** [hʊn] | **hen** [hɛn] | **hi** [hi:] | **de** [de:] |
 | *(akuz-/dativo)* | **hum** [hʊm] | **hem** [hɛm] | **him** [hɪm] | **dem** [dɛm] |
 | *(genitivo)* | **huns** [hʊns] | **hens** [hɛns] | **his** [hɪs] | **des** [dɛs] |
+
+La unuaj- kaj dua-personaj pronomoj havas apartajn kazajn finaĵojn.
 
 | | *mi* | *vi* | *ni* | *vi* |
 |:-|:-|:-|:-|:-|
@@ -141,28 +154,18 @@ La adverboj **æ** [ɛ:] *(jes)* kaj **næ** [nɛ:] *(ne)* uziĝas prefiksece ki
 * **niting** *(neniaĵo, nenio)*
 * **nimann** *(neniulo, neniu)*
 
-La korelativo **het** uziĝas, kiam mankas subjekto.
-
-* ***Het*** regen. *(Pluvas.)*
-
-*Ursprak:* La ***genitiva*** formoj je **-s** de korelativoj je **-t** ne plu uziĝas.
-
-* ***hets*** grotnis → de grotnis ***av het*** *(ĉi ties grandeco, la grandeco de ĉi tio)*
-
 ### Artikoloj
 
 La difina artikolo kaj por singularo kaj por pluralo estas **de** [də]. La nedifina artikolo **en** [ən] estas nur por singularo.
 
-* ***en*** hus *(domo)*
 * ***de*** hus *(la domo)*
+* ***de*** husen *(la domoj)*
+* ***en*** hus *(domo)*
+* husen *(domoj)*
 
 ### Radikaj Vortoj
 
 #### Substantivoj
-
-Bazaj substantivoj ne havas finaĵon.
-
-* **hus** *(domo)*
 
 La finaĵo por ***multenombro*** estas **-en** [ən].
 
@@ -174,16 +177,19 @@ Kiam adjektivo fariĝas substantivo, ĝi havas la finaĵon **-e** [ə].
 
 #### Adjektivoj
 
-Bazaj adjektivoj ne havas finaĵon.
+Adjektivoj staras antaŭ la substantivo.
 
 * en ***grot*** hus *(granda domo)*
 
-*Ursprak:* La finaĵoj por ***komparativo*** **-er** [ər] kaj ***superlativo*** **-est** [əst] ne plu uziĝas. La ŝvao (**e** [ə]) en **maier** kaj **maiest** eliziiĝas.
+La ***komparativo*** kaj la ***superlativo*** esprimiĝas per la adverboj ***mær*** [mɛ:r] respektive ***mæst*** [mɛ:st].
 
-* en ***groter*** hus → en ***mær grot*** hus *(pli granda domo)*
-* de ***grotest*** hus → de ***mæst grot*** hus *(la plej granda domo)*
-* **maier** → **mær** *(pli multe)*
-* **maiest** → **mæst** *(plej multe)*
+*Ursprak:* La ***komparativo*** kaj la ***superlativo*** esprimiĝis per la sufiksoj **-er** [ər] respektive **-est** [əst].
+
+| | Ursprak | Sprak |
+|:-|:-|:-|
+| *(pozitivo)* | **grot** | **grot** |
+| *(komparativo)* | **groter** | **mær grot** |
+| *(superlativo)* | **grotest** | **mæst grot** |
 
 #### Adverboj
 
@@ -263,6 +269,14 @@ La finaĵo por ***adjektivoj*** estas **-end** [ənd], kaj la finaĵo por la ***
 
 * Hidag ***regen*** het. → Hidag het ***regen***. *(Hodiaŭ pluvas.)*
 * Đu sag, đat đu min frend ***er***. → Du sag, dat du ***er*** min frend. *(Vi diras, ke vi estas mia amiko.)*
+
+La korelativo **het** uziĝas, kiam mankas subjekto.
+
+* ***Het*** regen. *(Pluvas.)*
+
+*Ursprak:* La ***genitiva*** formoj je **-s** de korelativoj je **-t** ne plu uziĝas.
+
+* ***hets*** grotnis → de grotnis ***av het*** *(ĉi ties grandeco, la grandeco de ĉi tio)*
 
 ##### Helpaj Verboj
 
