@@ -120,6 +120,35 @@ Persona korelativo **wæ** [wɛ:] *(kiu)* havas apartajn kazajn finaĵojn.
 | *(akuz-/dativo)* | **wæm** [wɛ:m] |
 | *(genitivo)* | **wæs** [wɛ:s] |
 
+*Ursprak:* La prefikso **hi-** [hi:] *(ĉi)* uziĝis kun korelativoj je **hw-** [hw].
+
+| | Ursprak | Sprak |
+|:-|:-|:-|
+| *(ĉi tiu)* | **hi-hwai** | **hi** |
+| *(ĉi tio, ĉi tiu)* | **hi-hwat** | **het** |
+| *(ĉi tie)* | **hi-hwer** | **hir** |
+| *(ĉi tiam)* | **hi-hwen** | **hin** | 
+
+La korelativo **hi** estas uzebla prefiksece por signifi **ĉi-**.
+
+* **hidag** *(ĉi-tagon, hodiaŭ)*
+* **hijar** *(ĉi-jaron)*
+
+La adverboj **æ** [ɛ:] *(jes)* kaj **næ** [nɛ:] *(ne)* uziĝas prefiksece kiel **i-** [i:] kaj **ni-** [ni:] kun korelativoj je **w-** por signifi **i-** respektive **neni-**.
+
+| | *i-* | *neni-* |
+|:-|:-|:-|
+| *(persono)* ***-u*** | **iwæ** | **niwæ** |
+| *(afero)* ***-o***, ***-u*** | **iwat** | **niwat** |
+| *(loko)* ***-e*** | **iwer** | **niwer** |
+| *(tempo)* ***-am*** | **iwen** | **niwen** |
+
+*Nysprak:* La korelativaj prefiksoj **i-** kaj **ni-** estas uzeblaj ankaŭ kun radikaj vortoj.
+
+* **niting** *(neniaĵo, nenio)*
+* **nimann** *(neniulo, neniu)*
+
+
 La triapersonaj pronomoj havas apartajn kazajn finaĵojn.
 
 | | *ŝi* | *li* | *ŝi*/*li* | *ili* |
@@ -135,34 +164,6 @@ La unuaj- kaj dua-personaj pronomoj havas apartajn kazajn finaĵojn.
 | *(nominativo)* | **ik** [ɪk] | **du** [du:] | **wi** [wi:] | **ji** [ji:] |
 | *(akuz-/dativo)* | **mi** [mi:] | **di** [di:] | **ons** [ɔns] | **ju** [ju:] |
 | *(genitivo)* | **min** [mi:n] | **din** [di:n] | **onser** ['ɔnsər] | **jur** [ju:r] |
-
-La korelativo **hi** estas uzebla prefiksece por signifi **ĉi-**.
-
-* **hidag** *(ĉi-tagon, hodiaŭ)*
-* **hijar** *(ĉi-jaron)*
-
-*Ursprak:* La prefikso **hi-** [hi:] *(ĉi)* uziĝis kun korelativoj je **hw-** [hw].
-
-| | Ursprak | Sprak |
-|:-|:-|:-|
-| *(ĉi tiu)* | **hi-hwai** | **hi** |
-| *(ĉi tio)* | **hi-hwat** | **het** |
-| *(ĉi tie)* | **hi-hwer** | **hir** |
-| *(ĉi tiam)* | **hi-hwen** | **hin** | 
-
-La adverboj **æ** [ɛ:] *(jes)* kaj **næ** [nɛ:] *(ne)* uziĝas prefiksece kiel **i-** [i:] kaj **ni-** [ni:] kun korelativoj je **w-** por signifi **i-** respektive **neni-**.
-
-| | *i-* | *neni-* |
-|:-|:-|:-|
-| *(persono)* ***-u*** | **iwæ** | **niwæ** |
-| *(afero)* ***-o*** | **iwat** | **niwat** |
-| *(loko)* ***-e*** | **iwer** | **niwer** |
-| *(tempo)* ***-am*** | **iwen** | **niwen** |
-
-*Nysprak:* La korelativaj prefiksoj **i-** kaj **ni-** estas uzeblaj ankaŭ kun radikaj vortoj.
-
-* **niting** *(neniaĵo, nenio)*
-* **nimann** *(neniulo, neniu)*
 
 ### Artikoloj
 
@@ -227,8 +228,8 @@ Pere de la sufikso **-er** [ər], prepozicioj kun loka signifo fariĝas adjektiv
 
 | | Ursprak | Sprak |
 |:-|:-|:-|
-| *(Vi estas ene.)* | Đu er ***innen***. | Du er ***in***. |
-| *(Vi estas antaŭe.)* | Đu er ***forren***. | Du er ***for***. |
+| *(Vi estas ene.)* | Đu er **innen**. | Du er **in**. |
+| *(Vi estas antaŭe.)* | Đu er **forren**. | Du er **for**. |
 
 #### Verboj
 
