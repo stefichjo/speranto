@@ -164,6 +164,12 @@ La unuaj- kaj dua-personaj pronomoj havas apartajn kazajn finaĵojn.
 | *(akuz-/dativo)* | **mi** [mi:] | **di** [di:] | **ons** [ɔns] | **ju** [ju:] |
 | *(genitivo)* | **min** [mi:n] | **din** [di:n] | **onser** ['ɔnsər] | **jur** [ju:r] |
 
+*Ursprak:* Uziĝis *genitivaj* formoj je **-s** de korelativoj je **-t**.
+
+| | Sprak | Nysprak |
+|:-|:-|:-|
+| *(ĝia grandeco)* | **đits** grotnis | de grotnis **av het** |
+
 ### Artikoloj
 
 La difina artikolo kaj por singularo kaj por pluralo estas **de** [də]. La nedifina artikolo **en** [ən] estas nur por singularo.
@@ -341,14 +347,6 @@ La radiko de helpaj verboj havas specialan vokalon.
 | *(rajti, meriti)* | **tørfe** | **tarfe** |
 | *(scii)* | **wite** | **wete** |
 | *(voli)* | **wolle** | **wille** |
-
-
-
----
-
-*Ursprak:* La *genitiva* formoj je **-s** de korelativoj je **-t** ne plu uziĝas.
-
-* **hets** grotnis → de grotnis **av het** *(ĉi ties grandeco, la grandeco de ĉi tio)*
 
 #### Prepozicioj
 
