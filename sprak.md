@@ -176,7 +176,7 @@ La korelativo **dë** [de:] *(ili)* uziĝas *multenombre* kaj por *personoj* kaj
 Personaj pronomoj havas apartajn kazajn finaĵojn respektive formojn.
 
 | | *mi* | *vi* | *ŝi* | *li* | *ni* | *vi* |
-|:-|:-|:-|:-|:-|
+|:-|:-|:-|:-|:-|:-|:-|
 | *(nominativo)* | **ik** [ɪk] | **du** [du:] | **hun** [hʊn] | **han** [han] | **wi** [wi:] | **ji** [ji:] |
 | *(akuz-/dativo)* | **mi** [mi:] | **di** [di:] | **hum** [hʊm] | **ham** [ham] | **ons** [ɔns] | **ju** [ju:] |
 | *(genitivo)* | **min** [mi:n] | **din** [di:n] | **huns** [hʊns] | **hans** [hans] | **onser** ['ɔnsər] | **jur** [ju:r] |
@@ -250,8 +250,9 @@ Kutime, verboj sekvas la subjekton. Kiam mankas subjekto, uziĝas **het**.
 
 * **Het** regen. *(Pluvas.)*
 
-En ĉu-demando, la verbo estas en la unua pozicio.
+En demandoj, la verbo estas en la unua pozicio post la demanda vorto. En ĉu-demando, la verbo estas la unua vorto de la frazo.
 
+* Wen **komm** du? *(Kiam vi venos?)*
 * **Er** du min frend? *(Ĉu vi estas mia amiko?)*
 
 *Ursprak:* Verboj staris en la dua pozicio ene de frazo kaj en la fina pozicio ene de subfrazo.
