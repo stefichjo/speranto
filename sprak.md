@@ -350,21 +350,30 @@ La radiko de helpaj verboj havas specialan vokalon.
 
 #### Prepozicioj
 
-La prepozicioj **to** [to:], **bi** [bi:] kaj **av** [av] uziĝas por *alativo*, *lokativo* kaj *ablativo* respektive por *dativo*, *instrumentalo* kaj *genitivo*.
-
-* Ik gev en bok **to** min frend. *(Mi donas libron al mia amiko.)*
-
 Kiam [adverbo](#adverboj) fariĝas prepozicio, ĝia vokalo mallongiĝas antaŭ konsonanta radikofino.
 
 * Ik er **in**. [ɪk ər i:n] *(Mi estas ene.)*
 * Ik er **in** de hus. [ɪk ər ɪn də hu:s] *(Mi estas en la domo.)*
 
+La prepozicioj **to** [to:], **bi** [bi:] kaj **av** [av] uziĝas por *alativo*, *lokativo* kaj *ablativo* respektive por *dativo*, *instrumentalo* kaj *genitivo*.
+
+* Ik gev en bok **to** min frend. *(Mi donas libron al mia amiko.)*
+* Ik gæ **to** min frend. *(Mi iras al mia amiko)*
+
+| | |
+|:-|:-|
+| *(alativo, dativo)* ***al*** | **to** [to:] |
+| *(lokativo, instrumentalo)* ***en*** | **bi** [bi:] |
+| *(ablativo, genitivo)* ***de*** | **av** [av] |
+
 Tra bruo, oni povas distingi per la prepozicioj **bi** and **to**/**av** inter *loka* kaj *direkta* signifoj de prepozicioj. La distingata prepozicio fariĝas adverbo.
 
-* Ik sto **in** de hus. [ɪn] → Ik sto **in bi** de hus. [i:n bi:] *(Mi staras en la domo.)*
-* Ik go **in** de hus. [ɪn] → Ik go **in to** de hus. [i:n to:] *(Mi iras en la domon.)*
-* Ik sto **ut** de hus. [ʊt] → Ik sto **ut bi** de hus. [u:t bi:] *(Mi staras ekster la domo.)*
-* Ik go **ut** de hus. [ʊt] → Ik go **ut av** de hus. [u:t av] *(Mi iras el la domo.)*
+| | | (tra bruo) |
+|:-|:-|:-|
+| *(Mi staras en la domo.)* | Ik sto **in** de hus. [ɪn] | Ik sto **in bi** de hus. [i:n bi:] |
+| *(Mi iras en la domon.)* | Ik go **in** de hus. [ɪn] | Ik go **in to** de hus. [i:n to:] |
+| *(Mi staras ekster la domo.)* | Ik sto **ut** de hus. [ʊt] | Ik sto **ut bi** de hus. [u:t bi:] |
+| *(Mi iras el la domo.)* | Ik go **ut** de hus. [ʊt] | Ik go **ut av** de hus. [u:t av] |
 
 *Ursprak:* La *dativa* finaĵo **-e** ne plu uziĝas, nek por *dativo* mem nek por *ne-direkta signifo* malantaŭ prepozicio. Anstataŭ *dativo*, uziĝas la prepozicio **to**.
 
