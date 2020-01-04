@@ -104,7 +104,7 @@ Kiam la radika vokalo de ne-radikaj vortoj aŭ prepozicio estas mallonga, ĝia f
 
 ### Korelativoj
 
-La korelativo **het** [hɛt] *(ĉi tio)* uziĝas ankaŭ por signifi **ĝi**. (Anstataŭ **hin** [hɪn] *(ĉi tiam)*, eblas uzi **nu** [nu:] *(nun)*.) La adverboj **æ** [ɛ:] *(jes)* kaj **næ** [nɛ:] *(ne)* uziĝas prefiksece kiel **i-** [i:] kaj **ni-** [ni:] kun korelativoj je **w-** por signifi **i-** respektive **neni-**.
+La adverboj **æ** [ɛ:] *(jes)* kaj **næ** [nɛ:] *(ne)* uziĝas prefiksece kiel **i-** [i:] kaj **ni-** [ni:] kun korelativoj je **w-** por signifi **i-** respektive **neni-**.
 
 | | *ĉi ti-* | *ti-* | *ki-* | *i-* | *neni-* |
 |:-|:-|:-|:-|:-|:-|
@@ -123,7 +123,7 @@ La korelativoj **het** [hɛt] *(ĉi tiu/tio)* kaj **dit** [dɪt] *(tiu/tio)* pov
 
 | | Ursprak | Sprak |
 |:-|:-|:-|
-| *ĝi* | **đit** [ðɪt] | **het** [hɛt] |
+| *ĝi* | **đit** [ðɪt] | **het** [hɛt] / **dit** [dɪt] |
 
 Por *maniero* kaj *kaŭzo* uziĝas la korelativoj **so** [so:] *((ĉi) tiel, (ĉi) tial)* kaj **wæ** [wɛ:] *(kial, kiel)*. Formoj kun la ŝajnsufikso **-lk** (el **-lik** [lɪk]) estas pri *speco*.
 
