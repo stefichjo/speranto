@@ -369,11 +369,12 @@ La prepozicioj **to** [to:], **bi** [bi:] kaj **av** [av] uziĝas por *alativo*,
 | *(lokativo, instrumentalo)* *en* | **bi** [bi:] |
 | *(ablativo, genitivo)* *de* | **av** [av] |
 
-*Ursprak:* Uziĝis la *genitiva* finaĵo **-'s** [(ə)s] anstataŭ la prepozicio **av**.
+*Ursprak:* Uziĝis la *genitiva* finaĵo **-s** [(ə)s] anstataŭ la prepozicio **av**.
 
 | | Ursprak | Sprak |
 |:-|:-|:-|
-| *la fenestroj de la domoj* | đe **husen's** windogen [ðə 'hu:səns 'wɪndo:gən] | de windogen **av** de husen [də 'wɪndo:gən a:v də 'hu:sən] |
+| *la fenestroj de la domoj* | đe **husens** windogen [ðə 'hu:səns 'wɪndo:gən] | de windogen **av** de husen [də 'wɪndo:gən a:v də 'hu:sən] |
+| *iliaj fenestroj* | **đes** windogen [ðe:s 'wɪndo:gən] | **des** windogen [ðe:s 'wɪndo:gən] |
 
 *Ursprak:* Uziĝis la *dativa* finaĵo **-e** anstataŭe la prepozicio **to**.
 
