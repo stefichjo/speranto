@@ -108,15 +108,30 @@ La korelativo **het** [hɛt] *(ĉi tio)* uziĝas ankaŭ por signifi **ĝi**.
 
 | | *ĉi ti-* | *ti-* | *ki-* |
 |:-|:-|:-|:-|
-| *afero* ***-o***, ***-u*** | **het** [hɛt] | **dit** [dɪt] | **wat** [wat] |
-| *loko* ***-e*** | **hir** [hi:r] | **dar** [da:r] | **wer** [we:r] |
-| *tempo* ***-am*** | **hin** [hɪn] | **dan** [dan] | **wen** [wɛn] |
+| *(afero)*/*(elekto)* ***-o***/***-u*** | **het** [hɛt] | **dit** [dɪt] | **wat** [wat] |
+| *(loko)* ***-e*** | **hir** [hi:r] | **dar** [da:r] | **wer** [we:r] |
+| *(tempo)* ***-am*** | **hin** [hɪn] | **dan** [dan] | **wen** [wɛn] |
 
 *Ursprak:* Uziĝis la korelativo **đit** [ðɪt] *(tio)* por signifi **ĝi**.
 
 | | Ursprak | Sprak |
 |:-|:-|:-|
 | *ĝi* | **đit** [ðɪt] | **het** [hɛt] |
+
+Por *maniero* kaj *kaŭzo* uziĝas la korelativoj **so** [so:] *((ĉi) tiel, (ĉi) tial)* kaj **wi** [wi:] *(kial, kiel)*. Formoj kun la ŝajnsufikso **-lk** (el **-lik** [lɪk]) estas pri *speco*.
+
+| | *(ĉi) ti-* | *ki-* |
+|:-|:-|:-|
+| *(maniero)*/*(kaŭzo)* *-el*/*-al* | **so** [so:] | **wi** [wi:] |
+| *(speco)* *-a* | **solk** [sɔlk] | **wilk** [wɪlk] |
+
+*Nysprak:* Anstataŭ la difina artikolo **de** uziĝas la korelativoj **het**/**dit** por *aferoj*. Anstataŭ **het**/**dit** (kaj **wat**) uziĝas **solk** (kaj **wilk**) por *elektoj*.
+
+| | Sprak | Nysprak |
+|:-|:-|:-|
+| *la pano* | **de** brod | **het**/**dit** brod |
+| *(ĉi) tiu pano* | **het**/**dit** brod | **solk** brod |
+| *kiu pano* | **wat** brod | **wilk** brod |
 
 #### Kazoj
 
@@ -135,7 +150,7 @@ Persona korelativo **wæ** [wɛ:] *(kiu)* havas apartajn kazajn finaĵojn.
 | *ĉi tiu* | **hi-hwai** | **hi** |
 | *ĉi tio, ĉi tiu* | **hi-hwat** | **het** |
 | *ĉi tie* | **hi-hwer** | **hir** |
-| *ĉi tiam* | **hi-hwen** | **hin** | 
+| *ĉi tiam* | **hi-hwen** | **hin** |
 
 La korelativo **hi** estas uzebla prefiksece por signifi **ĉi-**.
 
@@ -147,7 +162,7 @@ La adverboj **æ** [ɛ:] *(jes)* kaj **næ** [nɛ:] *(ne)* uziĝas prefiksece ki
 | | *i-* | *neni-* |
 |:-|:-|:-|
 | *(persono)* *-u* | **iwæ** | **niwæ** |
-| *(afero)* *-o*, ***-u*** | **iwat** | **niwat** |
+| *(afero)*/*(elekto)* *-o*, *-u* | **iwat** | **niwat** |
 | *(loko)* *-e* | **iwer** | **niwer** |
 | *(tempo)* *-am* | **iwen** | **niwen** |
 
