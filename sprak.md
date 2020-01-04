@@ -102,17 +102,32 @@ Kiam la radika vokalo de ne-radikaj vortoj aŭ prepozicio estas mallonga, ĝia f
 | *naŭ* | **nin** [ni:n] |
 | *dek* | **ten** [te:n] |
 
-### Korelativoj kaj Pronomoj
+### Korelativoj
 
 La korelativo **het** [hɛt] *(ĉi tio)* uziĝas ankaŭ por signifi **ĝi**. Anstataŭ **hin** [hɪn] *(ĉi tiam)*, eblas uzi **nu** [nu:] *(nun)*.
 
 | | *ĉi ti-* | *ti-* | *ki-* |
 |:-|:-|:-|:-|
-| *(afero)*/*(elekto)* ***-o***/***-u*** | **het** [hɛt] | **dit** [dɪt] | **wat** [wat] |
-| *(loko)* ***-e*** | **hir** [hi:r] | **dar** [da:r] | **wer** [we:r] |
-| *(tempo)* ***-am*** | **hin** [hɪn] | **dan** [dan] | **wen** [wɛn] |
+| *(afero)*/*(elekto)* *-o*/*-u* | **het** [hɛt] | **dit** [dɪt] | **wat** [wat] |
+| *(loko)* *-e* | **hir** [hi:r] | **dar** [da:r] | **wer** [we:r] |
+| *(tempo)* *-am* | **hin** [hɪn] | **dan** [dan] | **wen** [wɛn] |
 
-*Ursprak:* Uziĝis la korelativo **đit** [ðɪt] *(tio)* por signifi **ĝi**.
+La adverboj **æ** [ɛ:] *(jes)* kaj **næ** [nɛ:] *(ne)* uziĝas prefiksece kiel **i-** [i:] kaj **ni-** [ni:] kun korelativoj je **w-** por signifi **i-** respektive **neni-**.
+
+| | *i-* | *neni-* |
+|:-|:-|:-|
+| *(afero)*/*(elekto)* *-o*/*-u* | **iwat** ['i:wat] | **niwat** ['ni:wat] |
+| *(loko)* *-e* | **iwer** ['i:we:r] | **niwer** ['ni:we:r] |
+| *(tempo)* *-am* | **iwen** ['i:wɛn] | **niwen** ['ni:wɛn] |
+
+*Nysprak:* La korelativaj prefiksoj **i-** kaj **ni-** estas uzeblaj ankaŭ kun radikaj vortoj.
+
+* **niting** *(neniaĵo, nenio)*
+* **nimann** *(neniulo, neniu)*
+
+La korelativoj **het** [hɛt] *(ĉi tiu/tio)* kaj **dit** [dɪt] *(tiu/tio)* povas signifi **ĝi**.
+
+*Ursprak:* Uziĝis nur la korelativo **đit** [ðɪt] *(tiu/tio)* por signifi **ĝi**.
 
 | | Ursprak | Sprak |
 |:-|:-|:-|
@@ -133,51 +148,47 @@ Por *maniero* kaj *kaŭzo* uziĝas la korelativoj **so** [so:] *((ĉi) tiel, (ĉ
 | *(ĉi) tiu pano* | **het**/**dit** brod | **solk** brod |
 | *kiu pano* | **wat** brod | **welk** brod |
 
-#### Kazoj
+#### Personaj Korelativoj
 
-Persona korelativo **we** [we:] *(kiu)* havas apartajn kazajn finaĵojn.
+La korelativo **hi** [hi:] *(ri)* uziĝas *ununombre* kutime nur por *persono*. Por *afero*, ĝi uziĝas prefikse *(ĉi-)* formante adverbon.
 
-| | *kiu* |
-|:-|:-|
-| *(nominativo)* | **we** [we:] |
-| *(akuz-/dativo)* | **wem** [wɛm] |
-| *(genitivo)* | **wes** [wɛs] |
+* Wen du sej **him**, grøt **him**. *(Kiam vi vidas rin, salutu rin.)*
+* **hi** dag *(ĉi tagon)* → **hidag** *(ĉi-tage, hodiaŭ)*
+* **hi** jar *(ĉi jaron)* → **hijar** *(ĉi-jare)*
 
 *Ursprak:* La prefikso **hi-** [hi:] *(ĉi)* uziĝis kun korelativoj je **hw-** [hw].
 
 | | Ursprak | Sprak |
 |:-|:-|:-|
 | *ĉi tiu* | **hi-hwai** | **hi** |
-| *ĉi tio, ĉi tiu* | **hi-hwat** | **het** |
+| *ĉi tiu/tio* | **hi-hwat** | **het** |
 | *ĉi tie* | **hi-hwer** | **hir** |
 | *ĉi tiam* | **hi-hwen** | **hin** |
 
-La korelativo **hi** estas uzebla prefiksece por signifi **ĉi-**.
+La korelativo **dë** [de:] *(ili)* uziĝas *multenombre* kaj por *personoj* kaj por *aferoj*, ĉu *ĝenerale* aŭ *specife*. *Ununombre*, ĝi uziĝas kutime nur *ĝenerale*. *Specife*, ĝi havas *distingan* kunsencon, depende de la kunteksto. ;)
 
-* **hidag** *(ĉi-tagon, hodiaŭ)*
-* **hijar** *(ĉi-jaron)*
+* Wen du sej en frend, grøt **dem**. *(Kiam vi vidas amikon, salutu lin.)*
+* **dë** sprak *(**la** lingvo)*
 
-La adverboj **æ** [ɛ:] *(jes)* kaj **næ** [nɛ:] *(ne)* uziĝas prefiksece kiel **i-** [i:] kaj **ni-** [ni:] kun korelativoj je **w-** por signifi **i-** respektive **neni-**.
+La (personaj) korelativoj **hi** [hi:] *(ri)*, **dë** [de:] *(ili)* kaj **we** [we:] *(kiu)* havas apartajn kazajn finaĵojn.
 
-| | *i-* | *neni-* |
-|:-|:-|:-|
-| *(persono)* *-u* | **iwe** | **niwe** |
-| *(afero)*/*(elekto)* *-o*, *-u* | **iwat** | **niwat** |
-| *(loko)* *-e* | **iwer** | **niwer** |
-| *(tempo)* *-am* | **iwen** | **niwen** |
+* **Wes** brod ik et, **des** sang ik sing. *(Kies panon mi manĝas, ties kanton mi kantas.)*
 
-*Nysprak:* La korelativaj prefiksoj **i-** kaj **ni-** estas uzeblaj ankaŭ kun radikaj vortoj.
+| | *ri* | *ili* | *kiu* |
+|:-|:-|:-|:-|
+| *(nominativo)* | **hi** [hi:] | **dë** [de:] | **we** [we:] |
+| *(akuz-/dativo)* | **him** [hɪm] | **dem** [dɛm] | **wem** [wɛm] |
+| *(genitivo)* | **his** [hɪs] | **des** [dɛs] | **wes** [wɛs] |
 
-* **niting** *(neniaĵo, nenio)*
-* **nimann** *(neniulo, neniu)*
+#### Personaj Pronomoj
 
 La triapersonaj pronomoj havas apartajn kazajn finaĵojn.
 
-| | *ŝi* | *li* | *ŝi*/*li* | *ili* |
-|:-|:-|:-|:-|:-|
-| *(nominativo)* | **hun** [hʊn] | **han** [han] | **hi** [hi:] | **de** [de:] |
-| *(akuz-/dativo)* | **hum** [hʊm] | **ham** [ham] | **him** [hɪm] | **dem** [dɛm] |
-| *(genitivo)* | **huns** [hʊns] | **hans** [hans] | **his** [hɪs] | **des** [dɛs] |
+| | *ŝi* | *li* |
+|:-|:-|:-|
+| *(nominativo)* | **hun** [hʊn] | **han** [han] |
+| *(akuz-/dativo)* | **hum** [hʊm] | **ham** [ham] |
+| *(genitivo)* | **huns** [hʊns] | **hans** [hans] |
 
 La unuaj- kaj dua-personaj pronomoj havas apartajn kazajn finaĵojn.
 
@@ -195,7 +206,7 @@ La unuaj- kaj dua-personaj pronomoj havas apartajn kazajn finaĵojn.
 
 ### Artikoloj
 
-La difina artikolo kaj por singularo kaj por pluralo estas **de** [də]. La nedifina artikolo **en** [ən] estas nur por singularo.
+La difina artikolo kaj por ununombro kaj por multenombro estas **de** [də]. La nedifina artikolo **en** [ən] estas nur por ununombro.
 
 * **de** hus *(la domo)*
 * husen *(domoj)*
