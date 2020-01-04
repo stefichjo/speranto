@@ -181,12 +181,6 @@ Personaj pronomoj havas apartajn kazajn finaĵojn respektive formojn.
 | *(akuz-/dativo)* | **mi** [mi:] | **di** [di:] | **hum** [hʊm] | **ham** [ham] | **ons** [ɔns] | **ju** [ju:] |
 | *(genitivo)* | **min** [mi:n] | **din** [di:n] | **huns** [hʊns] | **hans** [hans] | **onser** ['ɔnsər] | **jur** [ju:r] |
 
-*Ursprak:* Uziĝis *genitivaj* formoj je **-s** de korelativoj je **-t**.
-
-| | Sprak | Nysprak |
-|:-|:-|:-|
-| *ĝia grandeco* | **đits** grotnis | de grotnis **av het** |
-
 ### Artikoloj
 
 La difina artikolo kaj por ununombro kaj por multenombro estas **de** [də]. La nedifina artikolo **en** [ən] estas nur por ununombro.
