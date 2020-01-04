@@ -112,11 +112,11 @@ La korelativo **het** [hɛt] *(ĉi tio)* uziĝas ankaŭ por signifi **ĝi**.
 | *loko* ***-e*** | **hir** [hi:r] | **dar** [da:r] | **wer** [we:r] |
 | *tempo* ***-am*** | **hin** [hɪn] | **dan** [dan] | **wen** [wɛn] |
 
-*Ursprak:* Uziĝis la korelativo **dit** [dɪt] *(tio)* por signifi **ĝi**.
+*Ursprak:* Uziĝis la korelativo **đit** [ðɪt] *(tio)* por signifi **ĝi**.
 
 | | Ursprak | Sprak |
 |:-|:-|:-|
-| *ĝi* | **dit** | **het** |
+| *ĝi* | **đit** [ðɪt] | **het** [hɛt] |
 
 #### Kazoj
 
