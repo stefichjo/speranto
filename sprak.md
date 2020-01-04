@@ -362,11 +362,11 @@ La prepozicioj **to** [to:], **bi** [bi:] kaj **av** [av] uziĝas por *alativo*,
 
 | | |
 |:-|:-|
-| *(alativo, dativo)* ***al*** | **to** [to:] |
-| *(lokativo, instrumentalo)* ***en*** | **bi** [bi:] |
-| *(ablativo, genitivo)* ***de*** | **av** [av] |
+| ***al*** | **to** [to:] |
+| ***en*** | **bi** [bi:] |
+| ***de*** | **av** [av] |
 
-Tra bruo, oni povas distingi per la prepozicioj **bi** and **to**/**av** inter *loka* kaj *direkta* signifoj de prepozicioj. La distingata prepozicio fariĝas adverbo.
+*Tra bruo*, oni povas distingi per la prepozicioj **bi** and **to**/**av** inter *loka* kaj *direkta* signifoj de prepozicioj. La distingata prepozicio fariĝas adverbo.
 
 | | | (tra bruo) |
 |:-|:-|:-|
@@ -375,18 +375,18 @@ Tra bruo, oni povas distingi per la prepozicioj **bi** and **to**/**av** inter *
 | *(Mi staras ekster la domo.)* | Ik sto **ut** de hus. [ʊt] | Ik sto **ut bi** de hus. [u:t bi:] |
 | *(Mi iras el la domo.)* | Ik go **ut** de hus. [ʊt] | Ik go **ut av** de hus. [u:t av] |
 
-*Ursprak:* La *dativa* finaĵo **-e** ne plu uziĝas, nek por *dativo* mem nek por *ne-direkta signifo* malantaŭ prepozicio. Anstataŭ *dativo*, uziĝas la prepozicio **to**.
+*Ursprak:* Uziĝis la *dativa* finaĵo **-e** anstataŭe la prepozicio **to**.
 
-* Ik geb min **frende** en bok. → Ik gev en bok **to** min **frend**. *(Mi donas libron al mia amiko.)*
-* Ik stai in đe **huse**. → Ik stæ in de **hus**. *(Mi staras en la domo.)*
-* Ik gai in đe hus. → Ik gæ in de hus. *(Mi iras en la domon.)*
-* Ik stai ut đe **huse**. → Ik stæ ut de hus. *(Mi staras ekster la domo.)*
-* Ik gai ut đe **huse**. → Ik gæ ut de hus. *(Mi iras el la domo.)*
+| | Ursprak | Sprak |
+|:-|:-|:-|
+| *(Mi donas libron al mia amiko.)* | Ik geb min **frende** en bok. | Ik gev en bok **to** min **frend**. |
+| *(Mi staras en la domo.)* | Ik stai in đe **huse**. | Ik stæ in de **hus**. |
 
-*Ursprak:* La *genitiva* finaĵo **-'s** [(ə)s] ne plu uziĝas. Anstataŭe, uziĝas la prepozicio **av**.
+*Ursprak:* Uziĝis la *genitiva* finaĵo **-'s** [(ə)s] anstataŭ la prepozicio **av**.
 
-* đe **husen's** windogen [ðə 'hu:səns 'wɪndo:gən] → de windogen **av** de husen [də 'wɪndo:gən
-a:v də 'hu:sən] *(la fenestroj de la domoj)*
+| | Ursprak | Sprak |
+|:-|:-|:-|
+| *(la fenestroj de la domoj)* | đe **husen's** windogen [ðə 'hu:səns 'wɪndo:gən] | de windogen **av** de husen [də 'wɪndo:gən a:v də 'hu:sən] |
 
 ##### Prefiksoj
 
