@@ -234,7 +234,11 @@ Pere de la sufikso **-er** [ər], prepozicioj kun loka signifo fariĝas adjektiv
 
 Kutime, verboj sekvas la subjekton. Kiam mankas subjekto, uziĝas **het**.
 
-* Het regen. *(Pluvas.)*
+* **Het** regen. *(Pluvas.)*
+
+En ĉu-demando, la verbo estas en la unua pozicio.
+
+* **Er** du min frend? *(Ĉu vi estas mia amiko?)*
 
 *Ursprak:* Verboj staris en la dua pozicio ene de frazo kaj en la fina pozicio ene de subfrazo.
 
@@ -243,9 +247,59 @@ Kutime, verboj sekvas la subjekton. Kiam mankas subjekto, uziĝas **het**.
 | *(Hodiaŭ mi laboras.)* | Hidag **werk** ik. | Hidag, ik **werk**. |
 | *(ke mi laboras hodiaŭ)* | đat ik hidag **werk** | dat ik **werk** hidag |
 
+##### Prezenco
+
+*Ursprak:* La malregula verbo **wese** havis la malregulan tria-personan formon **is** [ɪs].
+
+| | Ursprak | Sprak |
+|:-|:-|:-|
+| *(Tio estas bona.)* | Đit **is** god. | Dit **er** god. |
+
+*Ursprak:* Ekzistis aparta tria-persona formo je **-t**. Ĝi uziĝas por formi substantivojn pri *kapablo*.
+
+| | Ursprak | Sprak |
+|:-|:-|:-|
+| *(La viro vidas la domon.)* | Đe mann **sikht** đe hus. | De mann **sej** de hus. |
+| *(vido, vidpovo)* | **sikht** | **sight** |
+
+##### Preterito kaj Pasivo
+
+La finaĵo **-ed** [əd] uziĝas por *preterito* kaj *pasivo*.
+
+* Ik **maked**. *(Mi faris.)*
+* Ik hav **maked**. *(Mi estas farinta.)*
+
+*Ursprak:* Ekzistis apartaj formoj por *preterito* kaj *pasivo* sen la finaĵo **-ed** [əd], sed kun vokalŝanĝo respektive la finaĵo **-en** [ən].
+
+| | Ursprak | Sprak |
+|:-|:-|:-|
+| *(Mi vidis.)* | Ik **saw**. | Ik **sejed**. |
+| *(Mi parolis.)* | Ik **sprak**. | Ik **spreked**. |
+| *(Mi estas vidinta.)* | Ik **hab sejen**. | Ik **hav sejed**. |
+| *(Mi estas parolinta.)* | Ik **hab sproken**. | Ik **hav spreked**. |
+
+*Nysprak:* La apartaj *preteritaj* kaj *pasivaj* verbaj formoj uziĝis por formi substantivojn pri *daŭraj agoj* respektive *fojaj agoj*, sed ili ne plu uziĝas en ***Nysprak***.
+
+| | Sprak | Nysprak |
+|:-|:-|:-|
+| *(parolado, lingvo)* | **sprak** | **spreking** |
+| *(parolo, diraĵo)* | **sprok** | **sprek** |
+
+##### Aktivo
+
+La finaĵo **-end** [ənd] uziĝas por *aktivo*.
+
+* de **sprekend** mann *(la parolanta viro)*
+
+La finaĵo **-er** [ər] uziĝas por la *aganto*.
+
+* de **spreker** *(la parolanto)*
+
 ##### Infinitivoj
 
-Infinitivoj finiĝas je **-e** [ə].
+Infinitivoj finiĝas je **-e** [ə]. Kiel *substantivo*, ĝi signifas *manieron*.
+
+* **spreke** *(paroli, parolmaniero)*
 
 *Ursprak:* La infinitiva finaĵo estis **-en** [ən].
 
@@ -273,7 +327,6 @@ La radiko de helpaj verboj havas specialan vokalon.
 |:-|:-|:-|
 | *(Mi scios ĝin.)* | Ik skall đit **witen**. | Ik shall **wite** het. |
 
-
 *Nysprak:* La infinitiva radiko de helpaj verboj egalas al la *prezenca* formo.
 
 | | Sprak | Nysprak |
@@ -289,43 +342,9 @@ La radiko de helpaj verboj havas specialan vokalon.
 | *(scii)* | **wite** | **wete** |
 | *(voli)* | **wolle** | **wille** |
 
+
+
 ---
-
-La finaĵo por infinitivo estas **-e** [ə]. Kiel substantivo, infinitivo esprimas *manieron*.
-
-* Ik kann **spreke**. *(Mi povas paroli.)*
-* de **spreke** *(la parolmaniero)*
-
-La finaĵo **-ed** [əd] uziĝas por *preterito* kaj *pasivo*.
-
-* Ik **maked**. *(Mi faris.)*
-* Ik hav **maked**. *(Mi estas farinta.)*
-
-La finaĵo por *adjektivoj* estas **-end** [ənd], kaj la finaĵo por la *aganto* estas **-er** [ər].
-
-* **slapend** *(dormanta)*
-* **slaper** *(dormanto, dormulo)*
-
-Ĉu-demando komenciĝas per verbo.
-
-* **Er** du min frend? *(Ĉu vi estas mia amiko?)*
-
-*Ursprak:* La **t**-formo por la ununombra tria persono ne plu uziĝas.
-
-* Đe mann **sikht** de hus. → De mann **sej** de hus. *(La viro vidas la domon.)*
-* Đe mann **sprikht** to mi. → De mann **sprek** to mi. *(La viro parolas al mi.)*
-* Đe mann **is** min frend. → De mann **er** min frend. *(La viro estas mia amiko.)*
-
-*Nysprak:* La **t**-formo por esprimi *povon* ne plu uziĝas.
-
-* **sight** → **sejmaght** *(vido, vidkapablo)*
-
-*Nysprak:* Malregulaj formoj por la *preterito* aŭ *pasivo* ne plu uziĝas, nek por *fojaj agoj* nek por *daŭraj agoj*.
-
-* Ik **saw**. → Ik **sejed**. *(Mi vidis.)*
-* Ik hab **sejen**. → Ik hav **sejed**. *(Mi estas vidinta.)*
-* **sprak** → **spreking** *(parolado)*
-* **sprok** → **sprek** *(parolo)*
 
 *Ursprak:* La *genitiva* formoj je **-s** de korelativoj je **-t** ne plu uziĝas.
 
