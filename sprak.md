@@ -150,11 +150,20 @@ Por *maniero* kaj *kaŭzo* uziĝas la korelativoj **so** [so:] *((ĉi) tiel, (ĉ
 
 #### Personaj Korelativoj
 
+La korelativoj **hi** [hi:] *(ri)*, **dë** [de:] *(ili)* kaj **we** [we:] *(kiu)* havas apartajn kazajn finaĵojn.
+
+* **Wes** brod ik et, **des** sang ik sing. *(Kies panon mi manĝas, ties kanton mi kantas.)*
+
+| | *ri* | *ili* | *kiu* |
+|:-|:-|:-|:-|
+| *(nominativo)* | **hi** [hi:] | **dë** [de:] | **we** [we:] |
+| *(akuz-/dativo)* | **him** [hɪm] | **dem** [dɛm] | **wem** [wɛm] |
+| *(genitivo)* | **his** [hɪs] | **des** [dɛs] | **wes** [wɛs] |
+
 La korelativo **hi** [hi:] *(ri)* uziĝas *ununombre* kutime nur por *persono*. Por *afero*, ĝi uziĝas prefikse *(ĉi-)* formante adverbon.
 
 * Wen du sej **him**, grøt **him**. *(Kiam vi vidas rin, salutu rin.)*
 * **hi** dag *(ĉi tagon)* → **hidag** *(ĉi-tage, hodiaŭ)*
-* **hi** jar *(ĉi jaron)* → **hijar** *(ĉi-jare)*
 
 *Ursprak:* La prefikso **hi-** [hi:] *(ĉi)* uziĝis kun korelativoj je **hw-** [hw].
 
@@ -170,33 +179,15 @@ La korelativo **dë** [de:] *(ili)* uziĝas *multenombre* kaj por *personoj* kaj
 * Wen du sej en frend, grøt **dem**. *(Kiam vi vidas amikon, salutu lin.)*
 * **dë** sprak *(**la** lingvo)*
 
-La (personaj) korelativoj **hi** [hi:] *(ri)*, **dë** [de:] *(ili)* kaj **we** [we:] *(kiu)* havas apartajn kazajn finaĵojn.
-
-* **Wes** brod ik et, **des** sang ik sing. *(Kies panon mi manĝas, ties kanton mi kantas.)*
-
-| | *ri* | *ili* | *kiu* |
-|:-|:-|:-|:-|
-| *(nominativo)* | **hi** [hi:] | **dë** [de:] | **we** [we:] |
-| *(akuz-/dativo)* | **him** [hɪm] | **dem** [dɛm] | **wem** [wɛm] |
-| *(genitivo)* | **his** [hɪs] | **des** [dɛs] | **wes** [wɛs] |
-
 #### Personaj Pronomoj
 
-La triapersonaj pronomoj havas apartajn kazajn finaĵojn.
+Personaj pronomoj havas apartajn kazajn finaĵojn respektive formojn.
 
-| | *ŝi* | *li* |
-|:-|:-|:-|
-| *(nominativo)* | **hun** [hʊn] | **han** [han] |
-| *(akuz-/dativo)* | **hum** [hʊm] | **ham** [ham] |
-| *(genitivo)* | **huns** [hʊns] | **hans** [hans] |
-
-La unuaj- kaj dua-personaj pronomoj havas apartajn kazajn finaĵojn.
-
-| | *mi* | *vi* | *ni* | *vi* |
+| | *mi* | *vi* | *ŝi* | *li* | *ni* | *vi* |
 |:-|:-|:-|:-|:-|
-| *(nominativo)* | **ik** [ɪk] | **du** [du:] | **wi** [wi:] | **ji** [ji:] |
-| *(akuz-/dativo)* | **mi** [mi:] | **di** [di:] | **ons** [ɔns] | **ju** [ju:] |
-| *(genitivo)* | **min** [mi:n] | **din** [di:n] | **onser** ['ɔnsər] | **jur** [ju:r] |
+| *(nominativo)* | **ik** [ɪk] | **du** [du:] | **hun** [hʊn] | **han** [han] | **wi** [wi:] | **ji** [ji:] |
+| *(akuz-/dativo)* | **mi** [mi:] | **di** [di:] | **hum** [hʊm] | **ham** [ham] | **ons** [ɔns] | **ju** [ju:] |
+| *(genitivo)* | **min** [mi:n] | **din** [di:n] | **huns** [hʊns] | **hans** [hans] | **onser** ['ɔnsər] | **jur** [ju:r] |
 
 *Ursprak:* Uziĝis *genitivaj* formoj je **-s** de korelativoj je **-t**.
 
