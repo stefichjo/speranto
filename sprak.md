@@ -374,7 +374,7 @@ La prepozicioj **to** [to:], **bi** [bi:] kaj **av** [av] uziĝas por *alativo*,
 | | Ursprak | Sprak |
 |:-|:-|:-|
 | *la fenestroj de la domoj* | đe **husens** windogen [ðə 'hu:səns 'wɪndo:gən] | de windogen **av** de husen [də 'wɪndo:gən a:v də 'hu:sən] |
-| *iliaj fenestroj* | **đes** windogen [ðe:s 'wɪndo:gən] | **des** windogen [ðe:s 'wɪndo:gən] |
+| *iliaj fenestroj* | **đes** windogen [ðɛs 'wɪndo:gən] | **des** windogen [dɛs 'wɪndo:gən] |
 
 *Ursprak:* Uziĝis la *dativa* finaĵo **-e** anstataŭe la prepozicio **to**.
 
