@@ -387,7 +387,7 @@ La prepozicioj **to** [to:], **bi** [bi:] kaj **av** [av] uziĝas por *alativo*,
 
 *Ursprak:* Paralele al *prepozico* kun *argumento* por indiki *lokon* aŭ *direkton*, uziĝis *nerekta objekto* kun *spaca adverbo* por *metafora signifo*. En ***Sprak*** nur uziĝas la formo kun *prepozicio* kaj *argumento* — sen implici *metaforon*.
 
-* Ik stai đe manne for. [fo:r] *(Mi estras la viron.)*
+* Ik stai đe manne **for**. [fo:r] *(Mi estras la viron.)*
 
 | | Ursprak | Sprak |
 |:-|:-|:-|
