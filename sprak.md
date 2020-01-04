@@ -389,22 +389,19 @@ La prepozicioj **to** [to:], **bi** [bi:] kaj **av** [av] uziĝas por *alativo*,
 
 ##### Prefiksoj
 
-*Ursprak:* Anstataŭ metafora uzo, prepozicio fariĝas prefikso. Ĝia radika vokalo fariĝas ŝvao (**e** [ə]).
-
-*Ursprak:* Uziĝis *nerektaj objektoj* kun *spaca adverbo* paralele al *prepozicioj* kun *argumento*, kiam la *spaca adverbo* retenis *metaforon*.
-
+*Ursprak:* Paralele al *prepozico* kun *argumento* por indiki *lokon* aŭ *direkton*, uziĝis *nerekta objekto* kun *spaca adverbo* por *metafora signifo*. En ***Sprak*** nur uziĝas la *laŭlitera* formo kun *prepozicio* kaj *argumento*. (Sen argumento, uziĝas la *spaca adverbo* — sen *nerekta objekto*.)
 
 | | Ursprak | Sprak |
 |:-|:-|:-|
-| *(Mi estras.)* | Ik **stai** **for**. [fo:r] | Ik **stæ** **for**. [fo:r] |
-| *(Mi staras antaŭe.)* | Ik **stai** **forren**. ['fɔrən] | ↑ |
+| *(Mi estras.)* | Ik **stai** **for**. [fo:r] | (↓) |
+| *(Mi staras antaŭe.)* | Ik **stai** **forren**. ['fɔrən] | Ik **stæ** **for** [fo:r] |
 | *(Mi komprenas.)* | Ik **forstai**. [fɔr'] | Ik **ferstæ**. [fər'] |
 | | | |
-| *(Mi estras la viron.)* | Ik **stai** đe manne **for**. [fo:r] | ↓ |
+| *(Mi estras la viron.)* | Ik **stai** đe manne **for**. [fo:r] | (↓) |
 | *(Mi staras antaŭ la viro.)* | Ik **stai** **for** đe mann. [fɔr] | Ik **stæ** **for** de mann. [fɔr] |
 | *(Mi komprenas la viron.)* | Ik **forstai** đe mann. [fɔr'] | Ik **ferstæ** de mann. [fər'] |
 | | | |
-| *(Mi volas estri la viron.)* | Ik will đe manne **for-staien**. ['fo:r] | ↓ |
+| *(Mi volas estri la viron.)* | Ik will đe manne **for-staien**. ['fo:r] | (↓) |
 | *(Mi volas stari antaŭ la viro.)* | Ik will **for** đe mann **staien**. [fɔr] | Ik will **stæe** **for** de mann. [fɔr] |
 | *(Mi volas kompreni la viron.)* | Ik will đe mann **forstaien**. [fɔr'] | Ik will **ferstæe** de mann. [fər'] |
 
