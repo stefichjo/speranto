@@ -233,8 +233,8 @@ Pere de la sufikso **-er** [ər], prepozicioj kun loka signifo fariĝas adjektiv
 
 | | Ursprak | Sprak |
 |:-|:-|:-|
-| *(Vi estas ene.)* | Đu er **innen**. | Du er **in**. |
-| *(Vi estas antaŭe.)* | Đu er **forren**. | Du er **for**. |
+| *(Vi estas ene.)* | Đu er **innen**. ['ɪnən] | Du er **in**. [i:n] |
+| *(Vi estas antaŭe.)* | Đu er **forren**. ['fɔrən] | Du er **for**. [fo:r] |
 
 #### Verboj
 
@@ -352,8 +352,8 @@ La radiko de helpaj verboj havas specialan vokalon.
 
 Kiam [adverbo](#adverboj) fariĝas prepozicio, ĝia vokalo mallongiĝas antaŭ konsonanta radikofino.
 
-* Ik er **in**. [ɪk ər i:n] *(Mi estas ene.)*
-* Ik er **in** de hus. [ɪk ər ɪn də hu:s] *(Mi estas en la domo.)*
+* Ik er **in**. [i:n] *(Mi estas ene.)*
+* Ik er **in** de hus. [ɪn] *(Mi estas en la domo.)*
 
 La prepozicioj **to** [to:], **bi** [bi:] kaj **av** [av] uziĝas por *alativo*, *lokativo* kaj *ablativo* respektive por *dativo*, *instrumentalo* kaj *genitivo*.
 
@@ -362,25 +362,24 @@ La prepozicioj **to** [to:], **bi** [bi:] kaj **av** [av] uziĝas por *alativo*,
 
 | | |
 |:-|:-|
-| ***al*** | **to** [to:] |
-| ***en*** | **bi** [bi:] |
-| ***de*** | **av** [av] |
-
-*Tra bruo*, oni povas distingi per la prepozicioj **bi** and **to**/**av** inter *loka* kaj *direkta* signifoj de prepozicioj. La distingata prepozicio fariĝas adverbo.
-
-| | | (tra bruo) |
-|:-|:-|:-|
-| *(Mi staras en la domo.)* | Ik sto **in** de hus. [ɪn] | Ik sto **in bi** de hus. [i:n bi:] |
-| *(Mi iras en la domon.)* | Ik go **in** de hus. [ɪn] | Ik go **in to** de hus. [i:n to:] |
-| *(Mi staras ekster la domo.)* | Ik sto **ut** de hus. [ʊt] | Ik sto **ut bi** de hus. [u:t bi:] |
-| *(Mi iras el la domo.)* | Ik go **ut** de hus. [ʊt] | Ik go **ut av** de hus. [u:t av] |
+| *(al)* | **to** [to:] |
+| *(en)* | **bi** [bi:] |
+| *(de)* | **av** [av] |
 
 *Ursprak:* Uziĝis la *dativa* finaĵo **-e** anstataŭe la prepozicio **to**.
 
 | | Ursprak | Sprak |
 |:-|:-|:-|
 | *(Mi donas libron al mia amiko.)* | Ik geb min **frende** en bok. | Ik gev en bok **to** min **frend**. |
-| *(Mi staras en la domo.)* | Ik stai in đe **huse**. | Ik stæ in de **hus**. |
+
+*Tra bruo*, oni povas distingi per la prepozicioj **bi** and **to**/**av** inter *loka* kaj *direkta* signifoj de prepozicioj. La distingata prepozicio fariĝas adverbo.
+
+| | | (tra bruo) |
+|:-|:-|:-|
+| *(Mi staras en la domo.)* | Ik stæ **in** de hus. [ɪn] | Ik stæ **in bi** de hus. [i:n bi:] |
+| *(Mi iras en la domon.)* | Ik gæ **in** de hus. [ɪn] | Ik gæ **in to** de hus. [i:n to:] |
+| *(Mi staras ekster la domo.)* | Ik stæ **ut** de hus. [ʊt] | Ik stæ **ut bi** de hus. [u:t bi:] |
+| *(Mi venas el la domo.)* | Ik komm **ut** de hus. [ʊt] | Ik komm **ut av** de hus. [u:t av] |
 
 *Ursprak:* Uziĝis la *genitiva* finaĵo **-'s** [(ə)s] anstataŭ la prepozicio **av**.
 
@@ -392,5 +391,28 @@ La prepozicioj **to** [to:], **bi** [bi:] kaj **av** [av] uziĝas por *alativo*,
 
 *Ursprak:* Anstataŭ metafora uzo, prepozicio fariĝas prefikso. Ĝia radika vokalo fariĝas ŝvao (**e** [ə]).
 
-* Ik **stai for** đe manne. [staɪ̯ fɔr] → Ik **stæ for** de mann. [stɛ: fɔr] *(Mi staras antaŭ la viro.)*
-* Ik **forstai** đe mann. ['fɔrstaɪ̯] → Ik **ferstæ** de mann. [fər'stɛ:] *(Mi komprenas la viron.)*
+| | Ursprak | Sprak |
+|:-|:-|:-|
+| *(Mi staras antaŭ la viro.)* | Ik **stai for** đe manne. [staɪ̯ fo:r] | Ik **stæ for** de mann. [stɛ: fɔr] |
+| *(Mi volas stari antaŭ la viro.)* | Ik will đe manne **for staien**. ['fo:r‿staɪ̯ən] | Ik will **stæe for** de mann. ['stɛ:ə fo:r] |
+| *(Mi komprenas la viron.)* | Ik **forstai** đe mann. [fɔr'staɪ̯] | Ik **ferstæ** de mann. [fər'stɛ:] |
+
+| *(Mi volas kompreni la viron.)* | Ik will đe mann **forstaien**. [fɔr'staɪ̯ən] | Ik will **ferstæe** de mann. [fər'stɛ:ə] |
+
+*Ursprak:* Uziĝis *nerektaj objektoj* kun *spaca adverbo* paralele al *prepozicioj* kun *argumento*, kiam la *spaca adverbo* retenis *metaforon*.
+
+| | Ursprak | Sprak |
+|:-|:-|:-|
+| *(Mi volas stari antaŭ la viro.)* | Ik will **for** đe mann **staien**. [fɔr] | Ik will **stæe** **for** de mann. [fɔr] |
+| *(Mi volas estri la viron.)* | Ik will đe manne **for-staien**. ['fo:r] | -||- |
+| *(Mi volas kompreni la viron.)* | Ik will đe mann **forstaien**. [fɔr'] | Ik will **ferstæe** de mann. [fər'] |
+
+| *(Mi staras antaŭ la viro.)* | Ik **stai** **for** đe mann. [fɔr] | Ik **stæ** **for** de mann. [fɔr] |
+| *(Mi estras la viron.)* | Ik **stai** đe manne **for**. [fo:r] | -||- |
+| *(Mi komprenas la viron.)* | Ik **forstai** đe mann. [fɔr'] | Ik **ferstæ** de mann. [fər'] |
+
+| *(Mi staras antaŭe.)* | Ik **stai** **forren**. ['fɔrən] | -||- |
+| *(Mi estras.)* | Ik **stai** **for**. [fo:r] | Ik **stæ** **for**. [fo:r] |
+| *(Mi komprenas.)* | Ik **forstai**. [fɔr'] | Ik **ferstæ**. [fər'] |
+
+
