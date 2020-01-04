@@ -194,7 +194,7 @@ La unuaj- kaj dua-personaj pronomoj havas apartajn kazajn finaĵojn.
 
 | | *mi* | *vi* | *ni* | *vi* |
 |:-|:-|:-|:-|:-|
-| *(nominativo)* | **ik** [ɪk] | **du** [du:] | **we** [we:] | **je** [je:] |
+| *(nominativo)* | **ik** [ɪk] | **du** [du:] | **wi** [wi:] | **ji** [ji:] |
 | *(akuz-/dativo)* | **mi** [mi:] | **di** [di:] | **ons** [ɔns] | **ju** [ju:] |
 | *(genitivo)* | **min** [mi:n] | **din** [di:n] | **onser** ['ɔnsər] | **jur** [ju:r] |
 
