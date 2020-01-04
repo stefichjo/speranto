@@ -104,7 +104,7 @@ Kiam la radika vokalo de ne-radikaj vortoj aŭ prepozicio estas mallonga, ĝia f
 
 ### Korelativoj kaj Pronomoj
 
-La korelativo **het** [hɛt] *(ĉi tio)* uziĝas ankaŭ por signifi **ĝi**.
+La korelativo **het** [hɛt] *(ĉi tio)* uziĝas ankaŭ por signifi **ĝi**. Anstataŭ **hin** [hɪn] *(ĉi tiam)*, eblas uzi **nu** [nu:] *(nun)*.
 
 | | *ĉi ti-* | *ti-* | *ki-* |
 |:-|:-|:-|:-|
@@ -118,30 +118,30 @@ La korelativo **het** [hɛt] *(ĉi tio)* uziĝas ankaŭ por signifi **ĝi**.
 |:-|:-|:-|
 | *ĝi* | **đit** [ðɪt] | **het** [hɛt] |
 
-Por *maniero* kaj *kaŭzo* uziĝas la korelativoj **so** [so:] *((ĉi) tiel, (ĉi) tial)* kaj **wi** [wi:] *(kial, kiel)*. Formoj kun la ŝajnsufikso **-lk** (el **-lik** [lɪk]) estas pri *speco*.
+Por *maniero* kaj *kaŭzo* uziĝas la korelativoj **so** [so:] *((ĉi) tiel, (ĉi) tial)* kaj **wæ** [wɛ:] *(kial, kiel)*. Formoj kun la ŝajnsufikso **-lk** (el **-lik** [lɪk]) estas pri *speco*.
 
 | | *(ĉi) ti-* | *ki-* |
 |:-|:-|:-|
-| *(maniero)*/*(kaŭzo)* *-el*/*-al* | **so** [so:] | **wi** [wi:] |
-| *(speco)* *-a* | **solk** [sɔlk] | **wilk** [wɪlk] |
+| *(maniero)*/*(kaŭzo)* *-el*/*-al* | **so** [so:] | **wæ** [wɛ:] |
+| *(speco)* *-a* | **solk** [sɔlk] | **welk** [wɛlk] |
 
-*Nysprak:* Anstataŭ la difina artikolo **de** uziĝas la korelativoj **het**/**dit** por *aferoj*. Anstataŭ **het**/**dit** (kaj **wat**) uziĝas **solk** (kaj **wilk**) por *elektoj*.
+*Nysprak:* Anstataŭ la difina artikolo **de** uziĝas la korelativoj **het**/**dit** por *aferoj*. Anstataŭ **het**/**dit** (kaj **wat**) uziĝas **solk** (kaj **welk**) por *elektoj*.
 
 | | Sprak | Nysprak |
 |:-|:-|:-|
 | *la pano* | **de** brod | **het**/**dit** brod |
 | *(ĉi) tiu pano* | **het**/**dit** brod | **solk** brod |
-| *kiu pano* | **wat** brod | **wilk** brod |
+| *kiu pano* | **wat** brod | **welk** brod |
 
 #### Kazoj
 
-Persona korelativo **wæ** [wɛ:] *(kiu)* havas apartajn kazajn finaĵojn.
+Persona korelativo **we** [we:] *(kiu)* havas apartajn kazajn finaĵojn.
 
 | | *kiu* |
 |:-|:-|
-| *(nominativo)* | **wæ** [wɛ:] |
-| *(akuz-/dativo)* | **wæm** [wɛ:m] |
-| *(genitivo)* | **wæs** [wɛ:s] |
+| *(nominativo)* | **we** [we:] |
+| *(akuz-/dativo)* | **wem** [wɛm] |
+| *(genitivo)* | **wes** [wɛs] |
 
 *Ursprak:* La prefikso **hi-** [hi:] *(ĉi)* uziĝis kun korelativoj je **hw-** [hw].
 
@@ -161,7 +161,7 @@ La adverboj **æ** [ɛ:] *(jes)* kaj **næ** [nɛ:] *(ne)* uziĝas prefiksece ki
 
 | | *i-* | *neni-* |
 |:-|:-|:-|
-| *(persono)* *-u* | **iwæ** | **niwæ** |
+| *(persono)* *-u* | **iwe** | **niwe** |
 | *(afero)*/*(elekto)* *-o*, *-u* | **iwat** | **niwat** |
 | *(loko)* *-e* | **iwer** | **niwer** |
 | *(tempo)* *-am* | **iwen** | **niwen** |
@@ -183,7 +183,7 @@ La unuaj- kaj dua-personaj pronomoj havas apartajn kazajn finaĵojn.
 
 | | *mi* | *vi* | *ni* | *vi* |
 |:-|:-|:-|:-|:-|
-| *(nominativo)* | **ik** [ɪk] | **du** [du:] | **wi** [wi:] | **ji** [ji:] |
+| *(nominativo)* | **ik** [ɪk] | **du** [du:] | **we** [we:] | **je** [je:] |
 | *(akuz-/dativo)* | **mi** [mi:] | **di** [di:] | **ons** [ɔns] | **ju** [ju:] |
 | *(genitivo)* | **min** [mi:n] | **din** [di:n] | **onser** ['ɔnsər] | **jur** [ju:r] |
 
