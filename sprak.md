@@ -229,13 +229,6 @@ Pere de la sufikso **-er** [ər], prepozicioj kun loka signifo fariĝas adjektiv
 * de **inner** light *(la ena lumo)*
 * de **forrer** mann *(la antaŭa viro)*
 
-*Ursprak:* La formo je **-en** [ən] de spacaj adverboj kun loka signifo ne plu uziĝas.
-
-| | Ursprak | Sprak |
-|:-|:-|:-|
-| *(Vi estas ene.)* | Đu er **innen**. ['ɪnən] | Du er **in**. [i:n] |
-| *(Vi estas antaŭe.)* | Đu er **forren**. ['fɔrən] | Du er **for**. [fo:r] |
-
 #### Verboj
 
 Kutime, verboj sekvas la subjekton. Kiam mankas subjekto, uziĝas **het**.
@@ -389,7 +382,16 @@ La prepozicioj **to** [to:], **bi** [bi:] kaj **av** [av] uziĝas por *alativo*,
 
 ##### Prefiksoj
 
-*Ursprak:* Paralele al *prepozico* kun *argumento* por indiki *lokon* aŭ *direkton*, uziĝis *nerekta objekto* kun *spaca adverbo* por *metafora signifo*. En ***Sprak*** nur uziĝas la *laŭlitera* formo kun *prepozicio* kaj *argumento*. (Sen argumento, uziĝas la *spaca adverbo* — sen *nerekta objekto*.)
+*Ursprak:* Sen *argumento* de *prepozicio*, uziĝis formo je **-en** [ən].
+
+| | Ursprak | Sprak |
+|:-|:-|:-|
+| *(Vi estas ene.)* | Đu er **innen**. ['ɪnən] | Du er **in**. [i:n] |
+| *(Vi estas antaŭe.)* | Đu er **forren**. ['fɔrən] | Du er **for**. [fo:r] |
+
+*Ursprak:* Paralele al *prepozico* kun *argumento* por indiki *lokon* aŭ *direkton*, uziĝis *nerekta objekto* kun *spaca adverbo* por *metafora signifo*. En ***Sprak*** nur uziĝas la formo kun *prepozicio* kaj *argumento* — sen implici *metaforon*.
+
+* Ik stai đe manne for. [fo:r] *(Mi estras la viron.)*
 
 | | Ursprak | Sprak |
 |:-|:-|:-|
