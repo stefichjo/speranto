@@ -104,21 +104,13 @@ Kiam la radika vokalo de ne-radikaj vortoj aŭ prepozicio estas mallonga, ĝia f
 
 ### Korelativoj
 
-La korelativo **het** [hɛt] *(ĉi tio)* uziĝas ankaŭ por signifi **ĝi**. Anstataŭ **hin** [hɪn] *(ĉi tiam)*, eblas uzi **nu** [nu:] *(nun)*.
+La korelativo **het** [hɛt] *(ĉi tio)* uziĝas ankaŭ por signifi **ĝi**. (Anstataŭ **hin** [hɪn] *(ĉi tiam)*, eblas uzi **nu** [nu:] *(nun)*.) La adverboj **æ** [ɛ:] *(jes)* kaj **næ** [nɛ:] *(ne)* uziĝas prefiksece kiel **i-** [i:] kaj **ni-** [ni:] kun korelativoj je **w-** por signifi **i-** respektive **neni-**.
 
-| | *ĉi ti-* | *ti-* | *ki-* |
-|:-|:-|:-|:-|
-| *(afero)*/*(elekto)* *-o*/*-u* | **het** [hɛt] | **dit** [dɪt] | **wat** [wat] |
-| *(loko)* *-e* | **hir** [hi:r] | **dar** [da:r] | **wer** [we:r] |
-| *(tempo)* *-am* | **hin** [hɪn] | **dan** [dan] | **wen** [wɛn] |
-
-La adverboj **æ** [ɛ:] *(jes)* kaj **næ** [nɛ:] *(ne)* uziĝas prefiksece kiel **i-** [i:] kaj **ni-** [ni:] kun korelativoj je **w-** por signifi **i-** respektive **neni-**.
-
-| | *i-* | *neni-* |
-|:-|:-|:-|
-| *(afero)*/*(elekto)* *-o*/*-u* | **iwat** ['i:wat] | **niwat** ['ni:wat] |
-| *(loko)* *-e* | **iwer** ['i:we:r] | **niwer** ['ni:we:r] |
-| *(tempo)* *-am* | **iwen** ['i:wɛn] | **niwen** ['ni:wɛn] |
+| | *ĉi ti-* | *ti-* | *ki-* | *i-* | *neni-* |
+|:-|:-|:-|:-|:-|:-|
+| *(afero)*/*(elekto)* *-o*/*-u* | **het** [hɛt] | **dit** [dɪt] | **wat** [wat] | **iwat** ['i:wat] | **niwat** ['ni:wat] |
+| *(loko)* *-e* | **hir** [hi:r] | **dar** [da:r] | **wer** [we:r] | **iwer** ['i:we:r] | **niwer** ['ni:we:r] |
+| *(tempo)* *-am* | **hin** [hɪn] | **dan** [dan] | **wen** [wɛn] | **iwen** ['i:wɛn] | **niwen** ['ni:wɛn] |
 
 *Nysprak:* La korelativaj prefiksoj **i-** kaj **ni-** estas uzeblaj ankaŭ kun radikaj vortoj.
 
