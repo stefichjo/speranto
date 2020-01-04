@@ -175,8 +175,6 @@ La unuaj- kaj dua-personaj pronomoj havas apartajn kazajn finaĵojn.
 La difina artikolo kaj por singularo kaj por pluralo estas **de** [də]. La nedifina artikolo **en** [ən] estas nur por singularo.
 
 * **de** hus *(la domo)*
-* **de** husen *(la domoj)*
-* **en** hus *(domo)*
 * husen *(domoj)*
 
 ### Radikaj Vortoj
@@ -359,6 +357,12 @@ La prepozicioj **to** [to:], **bi** [bi:] kaj **av** [av] uziĝas por *alativo*,
 | *(en)* | **bi** [bi:] |
 | *(de)* | **av** [av] |
 
+*Ursprak:* Uziĝis la *genitiva* finaĵo **-'s** [(ə)s] anstataŭ la prepozicio **av**.
+
+| | Ursprak | Sprak |
+|:-|:-|:-|
+| *(la fenestroj de la domoj)* | đe **husen's** windogen [ðə 'hu:səns 'wɪndo:gən] | de windogen **av** de husen [də 'wɪndo:gən a:v də 'hu:sən] |
+
 *Ursprak:* Uziĝis la *dativa* finaĵo **-e** anstataŭe la prepozicio **to**.
 
 | | Ursprak | Sprak |
@@ -373,14 +377,6 @@ La prepozicioj **to** [to:], **bi** [bi:] kaj **av** [av] uziĝas por *alativo*,
 | *(Mi iras en la domon.)* | Ik gæ **in** de hus. [ɪn] | Ik gæ **in to** de hus. [i:n] |
 | *(Mi staras ekster la domo.)* | Ik stæ **ut** de hus. [ʊt] | Ik stæ **ut bi** de hus. [u:t] |
 | *(Mi venas el la domo.)* | Ik komm **ut** de hus. [ʊt] | Ik komm **ut av** de hus. [u:t] |
-
-*Ursprak:* Uziĝis la *genitiva* finaĵo **-'s** [(ə)s] anstataŭ la prepozicio **av**.
-
-| | Ursprak | Sprak |
-|:-|:-|:-|
-| *(la fenestroj de la domoj)* | đe **husen's** windogen [ðə 'hu:səns 'wɪndo:gən] | de windogen **av** de husen [də 'wɪndo:gən a:v də 'hu:sən] |
-
-##### Prefiksoj
 
 *Ursprak:* Sen *argumento* de *prepozicio*, uziĝis formo je **-en** [ən].
 
@@ -406,5 +402,4 @@ La prepozicioj **to** [to:], **bi** [bi:] kaj **av** [av] uziĝas por *alativo*,
 | *(Mi volas estri la viron.)* | Ik will đe manne **for-staien**. ['fo:r] | (↓) |
 | *(Mi volas stari antaŭ la viro.)* | Ik will **for** đe mann **staien**. [fɔr] | Ik will **stæe** **for** de mann. [fɔr] |
 | *(Mi volas kompreni la viron.)* | Ik will đe mann **forstaien**. [fɔr'] | Ik will **ferstæe** de mann. [fər'] |
-
 
