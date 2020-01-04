@@ -160,9 +160,9 @@ La triapersonaj pronomoj havas apartajn kazajn finaĵojn.
 
 | | *ŝi* | *li* | *ŝi*/*li* | *ili* |
 |:-|:-|:-|:-|:-|
-| *(nominativo)* | **hun** [hʊn] | **hen** [hɛn] | **hi** [hi:] | **de** [de:] |
-| *(akuz-/dativo)* | **hum** [hʊm] | **hem** [hɛm] | **him** [hɪm] | **dem** [dɛm] |
-| *(genitivo)* | **huns** [hʊns] | **hens** [hɛns] | **his** [hɪs] | **des** [dɛs] |
+| *(nominativo)* | **hun** [hʊn] | **han** [han] | **hi** [hi:] | **de** [de:] |
+| *(akuz-/dativo)* | **hum** [hʊm] | **ham** [ham] | **him** [hɪm] | **dem** [dɛm] |
+| *(genitivo)* | **huns** [hʊns] | **hans** [hans] | **his** [hɪs] | **des** [dɛs] |
 
 La unuaj- kaj dua-personaj pronomoj havas apartajn kazajn finaĵojn.
 
