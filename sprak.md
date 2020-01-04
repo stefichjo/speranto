@@ -61,13 +61,14 @@ Kiam la radika vokalo de ne-radikaj vortoj aŭ prepozicio estas mallonga, ĝia f
 
 ### Konsonantoj
 
-*Ursprak:* ***Praĝermana*** **sk** fariĝas **sh** [ʃ] en ***Sprak***. Radikofine, ***praĝermana*** **b** fariĝas **v** en ***Sprak***. ***Praĝermana*** **th** fariĝas **d** [d] en ***Sprak***.
+*Ursprak:* ***Praĝermana*** **sk** fariĝas **sh** [ʃ] en ***Sprak***. Radikofine, ***praĝermana*** **b** fariĝas **v** en ***Sprak***. ***Praĝermana*** **th** fariĝas **d** [d] (voĉa) respektive **t** [t] (senvoĉa) en ***Sprak***.
 
 | | Ursprak | Sprak |
 |:-|:-|:-|
 | *ŝipo* | **skipp** [skɪp] | **shipp** [ʃɪp] |
 | *havas* | **hab** [ha:b] | **hav** [hav] |
 | *vi* | **đu** [ðu:] | **du** [du:] |
+| *afero* | **thing** [θɪŋ] | **ting** [tɪŋ] |
 
 *Ursprak/Nysprak:* Komence de la radiko, ***praĝermana*** **khw** fariĝis **hw** [hw] en ***Ursprak*** kaj **w** [w] en ***Sprak***. Fine de la radiko, ĝi fariĝis **j** [ɪ̯] respektive **w** [ʊ̯] jam en ***Ursprak***, sed ĝi eliziiĝas post **ai**. ***Praĝermana*** **kht** [xt] fariĝas **ght** en ***Sprak*** kaj **t** [t] en ***Nysprak***. Post **a**, **o** kaj **u**, **ght** prononciĝas [ɪ̯t], alikaze [çt].
 
