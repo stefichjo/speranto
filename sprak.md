@@ -131,8 +131,8 @@ Por *maniero* kaj *kaŭzo* uziĝas la korelativoj **so** [so:] *((ĉi) tiel, (ĉ
 
 | | Sprak | Nysprak |
 |:-|:-|:-|
-| *(ĉi) tiu pano* | **het**/**dit** brod | **solk** brod |
-| *kiu pano* | **wat** brod | **welk** brod |
+| *(ĉi) tiu domo* | **het**/**dit** hus | **solk** hus |
+| *kiu domo* | **wat** hus | **welk** hus |
 
 #### Personaj Korelativoj
 
