@@ -380,7 +380,7 @@ La prepozicioj **to** [to:], **bi** [bi:] kaj **av** [av] uziĝas por *alativo*,
 
 | | Ursprak | Sprak |
 |:-|:-|:-|
-| *Mi donas libron al mia amiko.* | Ik geb min **frende** en bok. | Ik gev en bok **to** min **frend**. |
+| *Mi donas libron al mia amiko.* | Ik geb **min frende** en bok. | Ik gev en bok **to min frend**. |
 
 *Tra bruo*, oni povas distingi per la prepozicioj **bi** and **to**/**av** inter *loka* kaj *direkta* signifoj de prepozicioj. La distingata prepozicio fariĝas adverbo.
 
