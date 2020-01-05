@@ -53,7 +53,7 @@ Kiam la radika vokalo de ne-radikaj vortoj aŭ prepozicio estas mallonga, ĝia f
 | *pli multe* | **maier** ['maɪ̯ər] | **mær** [mɛ:r] | **mōr** [mo:r] |
 | *plej multe* | **maiest** ['maɪ̯əst] | **mæst** [mɛ:st] | **mōst** [mo:st] |
 
-*Nysprak*: Aldona ŝvao eliziiĝas (krom inter samaj konsonantoj), same en poezio en ***Sprak***.
+*Nysprak*: Aldona ŝvao eliziiĝas (krom inter samaj konsonantoj).
 
 | | Sprak | Nysprak |
 |:-|:-|:-|
@@ -78,11 +78,6 @@ Kiam la radika vokalo de ne-radikaj vortoj aŭ prepozicio estas mallonga, ĝia f
 | *piedfingro* | **tai** [taɪ̯] | **tæ** [tɛ:] | **tō** [to:] |
 | *nokto* | **nakht** [naxt] | **naght** [naɪ̯t] | **natt** [nat] |
 | *lumo* | **likht** [lɪxt] | **light** [liçt] | **litt** [lɪt] |
-
-*Nysprak*: La formo **nit** [nɪt] uziĝas ankaŭ en poezio en ***Sprak***.
-
-| | Ursprak | Sprak | Nysprak |
-|:-|:-|:-|:-|
 | *ne* | **nikht** [nɪxt] | **night** [nɪçt] | **nit** [nɪt] |
 
 ## Gramatiko
