@@ -216,28 +216,6 @@ La *komparativo* kaj la *superlativo* esprimiĝas per la adverboj **mær** [mɛ:
 | *(komparativo)* | **groter** | **mær grot** |
 | *(superlativo)* | **grotest** | **mæst grot** |
 
-#### Adverboj
-
-Adverboj staras antaŭ la adjektivo.
-
-* de **hæl** ny bok *(la tute nova libro)*
-
-Adverboj sekvas la verbon.
-
-* Ik slap **god**. *(Mi dormas bone.)*
-
-##### Spacaj Adverboj
-
-Lokaj adverboj povas havi lokan aŭ direktan signifon.
-
-* Du er **far**. *(Vi estas for.)*
-* Du gæ **far**. *(Vi iras for.)*
-
-Pere de la sufikso **-er** [ər], prepozicioj kun loka signifo fariĝas adjektivo (ĉiam kun mallonga vokalo).
-
-* de **inner** light *(la ena lumo)*
-* de **forrer** mann *(la antaŭa viro)*
-
 #### Verboj
 
 Kutime, verboj sekvas la subjekton. Kiam mankas subjekto, uziĝas **het**.
@@ -350,6 +328,28 @@ La radiko de helpaj verboj havas specialan vokalon.
 | *rajti, meriti* | **tørfe** | **tarfe** |
 | *scii* | **wite** | **wete** |
 | *voli* | **wolle** | **wille** |
+
+#### Adverboj
+
+Adverboj staras antaŭ la adjektivo.
+
+* de **hæl** ny bok *(la tute nova libro)*
+
+Adverboj sekvas la verbon.
+
+* Ik slap **god**. *(Mi dormas bone.)*
+
+##### Spacaj Adverboj
+
+Lokaj adverboj povas havi lokan aŭ direktan signifon.
+
+* Du er **far**. *(Vi estas for.)*
+* Du gæ **far**. *(Vi iras for.)*
+
+Pere de la sufikso **-er** [ər], prepozicioj kun loka signifo fariĝas adjektivo (ĉiam kun mallonga vokalo).
+
+* de **inner** light *(la ena lumo)*
+* de **forrer** mann *(la antaŭa viro)*
 
 #### Prepozicioj
 
