@@ -127,11 +127,10 @@ Por *maniero* kaj *kaŭzo* uziĝas la korelativoj **so** [so:] *((ĉi) tiel, (ĉ
 | *(maniero)*/*(kaŭzo)* *-el*/*-al* | **so** [so:] | **wæ** [wɛ:] |
 | *(speco)* *-a* | **solk** [sɔlk] | **welk** [wɛlk] |
 
-*Nysprak:* Anstataŭ la difina artikolo **de** uziĝas la korelativoj **het**/**dit** por *aferoj*. Anstataŭ **het**/**dit** (kaj **wat**) uziĝas **solk** (kaj **welk**) por *elektoj*.
+*Nysprak:* Anstataŭ **het**/**dit** (kaj **wat**) uziĝas **solk** (kaj **welk**) por *elektoj*.
 
 | | Sprak | Nysprak |
 |:-|:-|:-|
-| *la pano* | **de** brod | **het**/**dit** brod |
 | *(ĉi) tiu pano* | **het**/**dit** brod | **solk** brod |
 | *kiu pano* | **wat** brod | **welk** brod |
 
@@ -182,6 +181,12 @@ La difina artikolo kaj por ununombro kaj por multenombro estas **de** [də]. La 
 
 * **de** hus *(la domo)*
 * husen *(domoj)*
+
+*Nysprak:* Anstataŭ la difina artikolo **de** uziĝas la korelativoj **het**/**dit** por *aferoj*.
+
+| | Sprak | Nysprak |
+|:-|:-|:-|
+| *la domo* | **de** hus | **het**/**dit** hus |
 
 ### Radikaj Vortoj
 
