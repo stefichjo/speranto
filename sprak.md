@@ -318,16 +318,16 @@ La radiko de helpaj verboj havas specialan vokalon.
 
 | | Sprak | Nysprak |
 |:-|:-|:-|
-| *povi* | **kønne** | **kanne** |
-| *koni* | **kynne** | **konne** 
-| *kapabli* | **møge** | **mage** |
-| *devi* | **møte** | **mote** |
-| *-os* | **shølle** | **shalle** |
-| *-us* | **shylle** | **sholle** |
-| *-u* | **shille** | **shulle** |
-| *rajti, meriti* | **tørfe** | **tarfe** |
-| *scii* | **wite** | **wete** |
-| *voli* | **wolle** | **wille** |
+| *povi* | **kønne**, **kann**, **konned** | **kanne** |
+| *koni* | **kynne**, **konn**, **kunned** | **konne** 
+| *kapabli* | **møge**, **mag**, **moged** | **mage** |
+| *devi* | **møte**, **mot**, **moted** | **mote** |
+| *-os* | **shølle**, **shall**, **sholled** | **shalle** |
+| *-us* | **shylle**, **sholl**, **shulled** | **sholle** |
+| *-u* | **shille**, **shull**, **shulled** | **shulle** |
+| *rajti, meriti* | **tørfe**, **tarf**, **torfed** | **tarfe** |
+| *scii* | **wite**, **wet**, **weted** | **wete** |
+| *voli* | **wolle**, **will**, **wolled** | **wille** |
 
 #### Adverboj
 
