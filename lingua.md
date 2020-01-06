@@ -313,6 +313,8 @@ Verboj havas la infinitivan formon sen **-re**.
 
 *Tra bruo*, uziĝas la *instrumentala* prepozicio **en** antaŭ infinitivo.
 
+| | Lingua | (tra bruo) |
+|:-|:-|:-|
 | *Mi volas helpi vin.* | **Mu vole adiuva tu.** | **Mu vole en adiuva tu.** |
 
 Por *futuro*, *prezenco*, *preterito* oni povas uzi la frazerojn **vade ad**, **sta in**, **veni de**.
