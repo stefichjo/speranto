@@ -171,17 +171,13 @@ Anstataŭ **quo** por *persono*, eblas uzi **qua persona** aŭ nur **qua**.
 
 * *(Kiu venas?)* **Quo vene?** → **Qua (persona) vene?**
 
----
+#### la, que kaj ne
 
-La korelativo **la** uziĝas ankaŭ kiel difina ***artikolo***. La korelativo **que** uziĝas kiel ***konjunkcio*** por subfrazoj. La korelativo **ne** uziĝas kiel nea ***adverbo***.
+La korelativoj **la**, **que** kaj **ne** uziĝas kiel difina *artikolo*, *konjunkcio* respektive kiel nea *adverbo*.
 
-* ***la*** domo *(fore tia domo → la domo)*
-* Meu spera ***que*** teu esse in domo. *(Mi esperas, ke vi estas hejme.)*
-* Teu ***ne*** esse in domo. *(Vi ne estas hejme.)*
-
-*Neolingua:* La korelativoj je **-i** eksuziĝas.
-
-* **ii** → **ad ie** *(ĉi tien)*
+* *(fore tiu → la domo)* **la** domo
+* *(Mi vidas, kiel → ke vi estas hejme.)* Mu vide **que** tu esse in domo.
+* *(Vi neniel → ne estas hejme.)* Tu ne esse in domo.
 
 ### Pronomoj
 
