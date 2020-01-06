@@ -10,27 +10,31 @@
 |**n**|**o**|**p**|**q**|**r**|**s**|**t**|**u**|**v**|**w**|**x**|**y**|**z**|
 |[n]/[ŋ]|[ɔ]|[p]/[f]|[k]|[r]|[s]/[z]|[t]/[θ]|[ʊ]|[v]|[w]|[ks]|[ɪ]/[j]|[dz]|
 
-*Paleolingua:* Radikofina **v** [v] estis **b** [b].
+*Paleolingua:* Radikofina **v** [v] estis **b** [b]. **ng** [ŋg] prononciĝis [ng].
 
 | | Paleolingua | Lingua | Neolingua |
 |:-|:-|:-|:-|
 | *(skribi)* | **scribe** ['skrɪbɛ] | **scrive** ['skrɪvɛ] | **scrivi** ['skrɪvɪ] |
 | *(havi)* | **habe** ['habɛ] | **have** ['havɛ] | **havi** ['havɪ] |
+| *(longa)* | **longa** ['lɔnga] | **longa** ['lɔŋga] | **longa** ['lɔŋga] |
 
 ### Duoblaj Konsonantoj
 
 Duoblaj konsonantoj estas prononcataj unuoble. **s** [s] prononciĝas [z] inter vokaloj.
 
-*Paleolingua:* Duoblaj konsonantoj prononciĝis duoble.
+*Paleolingua/Neolingua:* Duoblaj konsonantoj prononciĝis duoble. En **Neolingua**, duoblaj konsonantoj (krom **ss**) skribiĝas unuoble.
 
 | | Paleolingua | Lingua | Neolingua |
 |:-|:-|:-|:-|
 | *(tero)* | **terra** ['tɛrra] | **terra** ['tɛra] | **tero** ['tɛrɔ] |
 | *(maso)* | **massa** ['massa] | **massa** ['masa] | **masso** ['masɔ] |
+| *(rozo)* | **rosa** ['rɔsa] | **rosa** ['rɔza] | **roso** ['rɔzɔ] |
 
 ### C kaj G
 
 Antaŭ **e** kaj **i**, **c** [k] kaj **g** [g] prononciĝas [ç] respektive [ɣ]. Por *didaktikaj celoj*, ili skribiĝas **ĉ** [ç] respektive **ĝ** [ɣ].
+
+*Neolingua:* **ĉ** [ç] kaj **ĝ** [ɣ] fariĝas **z** [ts] respektive **j** [dʒ]. Por *didaktikaj celoj*, **j** [dʒ] tiam skribiĝas **ĵ**.
 
 | | Paleolingua | Lingua | Neolingua |
 |:-|:-|:-|:-|
@@ -41,7 +45,7 @@ Antaŭ **e** kaj **i**, **c** [k] kaj **g** [g] prononciĝas [ç] respektive [ɣ
 
 Por *didaktikaj celoj*, duonvokalaj **i** [j] kaj **u** [w] skribiĝas **ĭ** respektive **ŭ**.
 
-*Paleolingua/Neolingua:* Duonvokalaj **i** [j] kaj **u** [w] estis ne-akcentataj **i** [ɪ] kaj **u** [ʊ] apud vokalo. Ili eliziiĝas aŭ monoftongiĝas en **Neolingua**. **j** [ʒ] estis ne-akcentata **i** [ɪ] komence de radiko. Ĝi prononciĝas [dʒ] en **Neolingua**. **t** [t] antaŭ radikofina **i** prononciĝas [θ]. En grek-devenaj vortoj, radikofina **i** estas akcentebla. Por *didaktikaj celoj*, **i** tiam skribiĝas **ī**. **st** [st] restas senŝanĝa.
+*Paleolingua/Neolingua:* Duonvokalaj **i** [j] kaj **u** [w] estis ne-akcentataj **i** [ɪ] kaj **u** [ʊ] apud vokalo. Ili eliziiĝas aŭ monoftongiĝas en **Neolingua**. **j** [ʒ] estis ne-akcentata **i** [ɪ] komence de radiko. Ĝi prononciĝas [dʒ] en **Neolingua**. **t** [t] antaŭ radikofina **i** prononciĝas [θ] kaj fariĝas **z** [ts] en **Neolingua**. En grek-devenaj vortoj, radikofina **i** estas akcentebla. Por *didaktikaj celoj*, **i** tiam skribiĝas **ī**. **st** [st] restas senŝanĝa.
 
 | | Paleolingua | Lingua | Neolingua |
 |:-|:-|:-|:-|
@@ -60,15 +64,14 @@ Por *didaktikaj celoj*, duonvokalaj **i** [j] kaj **u** [w] skribiĝas **ĭ** re
 
 *Paleolingua:* Por *didaktikaj celoj*, **u** [ʊ] kaj **v** [v] skribiĝis **V** kaj ambaŭ prononciĝis [w] apud vokalo.
 
-| | Paleolingua | PALEOLINGVA (didaktike) |
+| | Paleolingua | (didaktike) |
 |:-|:-|:-|
-| *(ke)* | **que** [kʊɛ] | **QVE** [kwɛ] |
-| *(ĝusta, justa)* | **iusta** [ɪ'ʊsta] | **IVSTA** ['jʊsta] |
+| *(akvo)* | **aqua** ['akʊɔ] | **AQVA** ['akwɔ] |
+| *(ĵuri)* | **iura** [ɪ'ʊra] | **IVRA** ['jʊra] |
 
+### Fremdaj Vortoj
 
-### Fremdvortoj
-
-*Paleolingua/Neolingua:* Grek-devenaj **ph** [f], **th** [t], **ch** [k], **y** [ɪ], **z** [dz] prononciĝis​ [ɸ], [θ], [x], [ʏ], [z].
+*Paleolingua/Neolingua:* Grek-devenaj **ph** [f], **th** [t], **ch** [k], **y** [ɪ], **z** [dz] prononciĝis​ [ɸ], [θ], [x], [ʏ], [z]. Grekdevena **z** [dz] fariĝas **z** [ts] en **Neolingua**.
 
 | | Paleolingua | Lingua | Neolingua |
 |:-|:-|:-|:-|
@@ -76,32 +79,11 @@ Por *didaktikaj celoj*, duonvokalaj **i** [j] kaj **u** [w] skribiĝas **ĭ** re
 | *(temo)* | **thema** ['θɛma] | **thema** ['tɛma] | **temo** ['tɛmɔ] |
 | *(karaktero)* | **charactere** [xarak'tɛrɛ] | **charactere** [karak'tɛrɛ] | **caractero** [karak'tɛrɔ] |
 | *(sistemo)* | **systema** [sʏs'tɛma] | **systema** [sɪs'tɛma] | **sistemo** [sɪs'tɛmɔ] |
-| *(zono)* | **zona** ['zɔna] | **zona** ['dzɔna] | **zono** ['tsɔna] |
+| *(zono)* | **zona** ['zɔna] | **zona** ['dzɔna] | **zono** ['tsɔnɔ] |
 
+*Neolingua:* La literoj **w** [w] kaj **y** [j] aperas nur en fremdaj vortoj. **y** [j] kombiniĝas al **cy** [tʃ], **dy** [dʒ], **gy** [dʒ], **sy** [ʃ].
 
-
----
-
-
-### Duonvokaloj
-
-*Neolingua:* Apudvokalaj aŭ radikofinaj **i** [ɪ] kaj **u** [ʊ] prononciĝas [j] kaj [w]. Apud **u** [ʊ], **i** [ɪ] estas ĝenerale neakcentebla, dum specife apud **q** [k], **u** [ʊ] estas neakcentebla.
-
-* **bestia** ['bɛstɪa] → ['bɛstja]
-* **aqua** ['akʊa] → ['akwa]
-* **iusta** [ɪ'ʊsta] → ['jʊsta]
-* **quin** [kʊ'ɪn] → [kwɪn]
-
-### Konsonantoj
-
-*Neolingua:* **ng** [ng] prononciĝas [ŋg].
-
-* **longa** ['lɔnga] → ['lɔŋga]
-
-*Neolingua:* Radikofina postvokala **s** [s] prononciĝas [z].
-
-* **naso** ['nasɔ] → ['nazɔ]
-
+* **Wasyingtono** [waʃɪŋg'tɔnɔ]
 
 ## Gramatiko
 
