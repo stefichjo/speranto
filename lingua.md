@@ -131,7 +131,7 @@ Korelativoj havas la ŝajnfinaĵojn **-o**, **-a**, **-e** kaj **-i**.
 |*(kio)*|*(kia)*|*(kiel)*|*(kien)*|
 |**ho**|**ha**|**he**|**hi**|
 |*(jen tio)*|*(jen tia)*|*(jen tiel)*|*(jen tien)*|
-|**io**|**ia**|**ie**|**ii**|
+|**jo**|**ja**|**je**|**ji**|
 |*(ĉi tio)*|*(ĉi tia)*|*(ĉi tiel)*|*(ĉi tien)*|
 |**to**|**ta**|**te**|**ti**|
 |*(tio)*|*(tia)*|*(tiel)*|*(tien)*|
@@ -148,8 +148,8 @@ Korelativoj havas la ŝajnfinaĵojn **-o**, **-a**, **-e** kaj **-i**.
 
 | | Paleolingua | Lingua |
 |:-|:-|:-|
-| *Kie vi estas?* | **Que esse teu?** | **Que esse tu?** |
-| *Kien vi iras?* | **Ad que vade teu?** | **Qui vade tu?** |
+| *Kie vi estas?* | **Que esse tu?** | **Que esse tu?** |
+| *Kien vi iras?* | **Ad que vade tu?** | **Qui vade tu?** |
 
 Korelativoj havas fakte pli ampleksajn signifojn. **-o** povas esti pri *afero* aŭ *persono*. **-a** povas esti pri *speco* aŭ *posedo*/*origino*. **-e** povas esti pri *loko*, *maniero*, *graveco*/*kvanto*, *intenco*. **-i** estas pri *celo*/*intenco*, ĉu de movo aŭ ago. Pere de ŝajnsufiksoj eblas formi pli specifajn korelativojn.
 
@@ -181,42 +181,30 @@ La korelativoj **la**, **que** kaj **ne** uziĝas kiel difina *artikolo*, *konju
 
 ### Pronomoj
 
-Pere de la finaĵo **-a** formiĝas ***posesivaj pronomoj***.
+Pronomoj havas la ŝajnfinaĵon **-u**. La persona pronomo **lu** uziĝas por *etinfanoj* kaj *bestoj*. La refleksiva pronomo estas **su**.
 
-* ***neia*** libro *(nia libro)*
-
-*Neolingua:* La vokalo **e** de pronomoj malaperas.
-
-* ***neia*** libro → ***nia*** libro *(nia libro)*
-
-*Paleolingua:* La pronomoj **meu**, **teu** kaj la numeralo **un** sufiksiĝas al verboj kiel **-m**, **-t**, **-n**. Aldona **-s** indikas multenombron.
-
-* **amam** *(mi amas)*
-  * **amams** *(ni amas)*
-* **videt** *(vi vidas)*
-  * **videts** *(vi vidas)*
-* **sentin** *(li sentas)*
-  * **sentins** *(ili sentas)*
-
-#### Intimaj Pronomoj
-
-|**meu**|**teu**|**ieu**|
+| | | |
 |-|-|-|
-|*(mi)*|*(vi)*|*(ŝi, li, ĝi)*|
-|**nei**|**vei**|**lei**|
+|**mu**|**tu**|**ju**/**lu**|
+|*(mi)*|*(vi)*|*(ĝi)*|
+| | | |
+|**alu**|**olu**|**ulu**|
+|*(ŝi)*|*(li)*|*(ri)*|
+| | | |
+|**nu**|**vu**|**ilu**|
 |*(ni)*|*(vi)*|*(ili)*|
 
-#### Honorigaj Pronomoj
+*Paleolingua:* La *multenombraj* pronomoj havis la ŝajnfinaĵon **-i**.
 
-|**unei**|**uvei**|**ulei**|
-|-|-|-|
-|*(unu el ni)*|*(unu el vi)*|*(unu el ili)*|
-|**anei**|**avei**|**alei**|
-|*(unu virino el ni)*|*(unu virino el vi)*|*(unu virino el ili)*|
-|**onei**|**ovei**|**olei**|
-|*(unu viro el ni)*|*(unu viro el vi)*|*(unu viro el ili)*|
-|**inei**|**ivei**|**ilei**|
-|*(ĉiuj el ni)*|*(ĉiuj el vi)*|*(ĉiuj el ili)*|
+| | Paleolingua | Lingua |
+|:-|:-|:-|
+| *ni* | **ni** | **nu** |
+| *vi* | **vi** | **vu** |
+| *ili* | **li** | **ili** |
+
+Pere de la finaĵo **-a** formiĝas *posesivaj pronomoj*.
+
+* *(mia domo)* **mua** domo
 
 ### Radikaj Vortoj
 
