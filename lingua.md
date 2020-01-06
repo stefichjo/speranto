@@ -328,29 +328,31 @@ Por *futuro*, *prezenco*, *preterito* oni povas uzi la frazerojn **vade ad**, **
 | *Mi legis. / Mi estas leginta.* | Mu **veni de** lege. | Mu **legin**. / Mu **essan leginta**. | | |
 | *Legu!* | **Lege!** | **Legen!** |
 
-La *pasivo* estas malregulaj adjektivoj je **-t** aŭ **-s**.
+La *pasivo* estas malregulaj adjektivoj je **-t** aŭ **-s**. (Kaj **esse** *(esti)* kaj **sta** *(stari)* havas la participon **stata**.)
 
 *Neolingua:* La sufiksoj por *pasivo* estas **-ot-**, **-at-**, **-it-**.
 
 | | Lingua | Neolingua |
 |:-|:-|:-|
 | *La libro estas legota.* | La libro vade **lecta**. | La libro essan **legota**. |
-| *La libro estas legata.* | La libro esse **lecta**. | La libro essan **legata**. |
+| *La libro estas legata.* | La libro sta **lecta**. | La libro essan **legata**. |
 | *La libro estas legita.* | La libro veni **lecta**. | La libro essan **legita**. |
+
 
 #### Prepozicioj
 
----
-
-La prepozicio **a** uziĝas por ***akuzativo*** antaŭ ***nomoj*** aŭ ***tra bruo***.
-
-* Mu vidan ***a*** Carla. *(Mi vidas Karlan.)*
-* Mu vidan tu. → Mu vidan ***a*** tu. *(Mi vidas vin.)*
-
+Per **de** oni povas indiki la *aganton* en *pasivo*.
 
 *Neolingua:* En ***pasivo***, la prepozicio **de** fariĝas **da**.
 
-* La libro esse lecta ***da*** amico. *(La libro estas legata de amiko.)*
+| | Lingua | Neolingua |
+|:-|:-|:-|
+| *(La libro estas legata de amiko.)* | La libro sta lecta **de** amico. | La libro essan legata **da** amico. |
+
+La prepozicio **a** uziĝas por ***akuzativo*** antaŭ ***nomoj*** aŭ ***tra bruo***.
+
+* Mu vide ***a*** Carla. *(Mi vidas Karlan.)*
+* Mu vide tu. → Mu vidan ***a*** tu. *(Mi vidas vin.)*
 
 ---
 
