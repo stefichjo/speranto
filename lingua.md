@@ -8,35 +8,7 @@
 |-|-|-|-|-|-|-|-|-|-|-|-|-|
 |[a]|[b]|[k]/[ç]|[d]|[ɛ]|[f]|[g]/[ɣ]|[h]|[ɪ]/[j]|[dʒ]|[k]|[l]|[m]|
 |**n**|**o**|**p**|**q**|**r**|**s**|**t**|**u**|**v**|**w**|**x**|**y**|**z**|
-|[n]/[ŋ]|[ɔ]|[p]/[f]|[k]|[r]|[s]/[z]|[t]/[θ]|[ʊ]|[v]|[w]|[ks]|[ɪ]/[j]|[ts]|
-
-Por *didaktikaj celoj*, duonvokalaj **i** [j] kaj **u** [w] skribiĝas **ĭ** respektive **ŭ**.
-
-| | | (didaktike) |
-|:-|:-|:-|
-| *(oro)* | **auro** | **aŭro** ['awrɔ] |
-| *(trajno)* | **traino** | **traĭno** ['trajnɔ] |
-
-*Paleolingua/Neolingua:* Duonvokalaj **i** [j] kaj **u** [w] estis ne-akcentataj **i** [ɪ] kaj **u** [ʊ] apud vokalo. Ili eliziiĝas aŭ monoftongiĝas en **Neolingua**. **j** [ʒ] estis ne-akcentata **i** [ɪ] komence de radiko. Ĝi prononciĝas [dʒ] en **Neolingua**.
-
-| | Paleolingua | Lingua | Neolingua |
-|:-|:-|:-|:-|
-| *(trajno)* | **traino** ['traɪnɔ] | **traĭno** ['trajnɔ] | **treno** ['trɛnɔ] |
-| *(oro)* | **auro** ['aʊrɔ] | **aŭro** ['awrɔ] | **oro** ['ɔrɔ] |
-| *(Eŭropo)* | **Europa** [ɛʊ'rɔpa] | **Eŭropa** [ɛw'rɔpa] | **Uropo** [ɛw'rɔpɔ] |
-| | | | |
-| *(besto)* | **bestia** ['bɛstɪa] | **bestĭa** ['bɛstja] | **besto** ['bɛstɔ] |
-| *(lingvo)* | **lingua** ['lɪngʊa] | **lingŭa** ['lɪŋgwa] | **lingo** ['lɪŋgɔ] |
-| *(ke)* | **que** [kʊɛ] | **qŭe** [kwɛ] | **ke** [kɛ] |
-| | | | |
-| *(ĝusta, justa)* | **iusta** [ɪ'ʊsta] | **ĵusta** ['ʒʊsta] | **justa** ['dʒʊsta] |
-
-*Paleolingua:* Por *didaktikaj celoj*, **u** [ʊ] kaj **v** [v] skribiĝis **V** kaj ambaŭ prononciĝis [w] apud vokalo.
-
-| | Paleolingua | (didaktike) |
-|:-|:-|:-|
-| *(ke)* | **que** [kʊɛ] | **QVE** [kwɛ] |
-| *(ĝusta, justa)* | **iusta** [ɪ'ʊsta] | **IVSTA** ['jʊsta] |
+|[n]/[ŋ]|[ɔ]|[p]/[f]|[k]|[r]|[s]/[z]|[t]/[θ]|[ʊ]|[v]|[w]|[ks]|[ɪ]/[j]|[dz]|
 
 ### Duoblaj Konsonantoj
 
@@ -49,35 +21,56 @@ Duoblaj konsonantoj estas prononcataj unuoble. **s** [s] prononciĝas [z] inter 
 | *(tero)* | **terra** ['tɛrra] | **terra** ['tɛra] | **tero** ['tɛrɔ] |
 | *(maso)* | **massa** ['massa] | **massa** ['masa] | **masso** ['masɔ] |
 
-### Fremdvortoj
+### ...
 
-*Paleolingua/Neolingua:*
+Antaŭ **e** kaj **i**, **c** [k] kaj **g** [g] prononciĝas [ç] respektive [ɣ]. Por *didaktikaj celoj*, ili skribiĝas **ĉ** [ç] respektive **ĝ** [ɣ].
 
 | | Paleolingua | Lingua | Neolingua |
 |:-|:-|:-|:-|
-| *(kilo)* | **kilo** ['kɪlɔ] | **kilo** ['kɪlɔ] | **kilo** ['kɪlɔ] |
-| *(sistemo)* | **systema** [sʏs'tɛma] | **systema** [sɪs'tɛma] | **sistemo** [sɪs'tɛmɔ] |
+| *(centro)* | **centro** ['kɛntrɔ] | **ĉentro** ['çɛntrɔ] | **zentro** ['tsɛntrɔ] |
+| *(ĝenerala)* | **generale** [gɛnɛ'ralɛ] | **ĝenerale** [ɣɛnɛ'ralɛ] | **ĵenerala** ['dʒɛnɛ'rala] |
+
+### Duonvokaloj
+
+Por *didaktikaj celoj*, duonvokalaj **i** [j] kaj **u** [w] skribiĝas **ĭ** respektive **ŭ**.
+
+*Paleolingua/Neolingua:* Duonvokalaj **i** [j] kaj **u** [w] estis ne-akcentataj **i** [ɪ] kaj **u** [ʊ] apud vokalo. Ili eliziiĝas aŭ monoftongiĝas en **Neolingua**. **j** [ʒ] estis ne-akcentata **i** [ɪ] komence de radiko. Ĝi prononciĝas [dʒ] en **Neolingua**. **t** [t] antaŭ radikofina **i** prononciĝas [θ]. En grek-devenaj vortoj, radikofina **i** estas akcentebla. Por *didaktikaj celoj*, **i** tiam skribiĝas **ī**. **st** [st] restas senŝanĝa.
+
+| | Paleolingua | Lingua | Neolingua |
+|:-|:-|:-|:-|
+| *(trajno)* | **traino** ['traɪnɔ] | **traĭno** ['trajnɔ] | **treno** ['trɛnɔ] |
+| *(oro)* | **auro** ['aʊrɔ] | **aŭro** ['awrɔ] | **oro** ['ɔrɔ] |
+| *(Eŭropo)* | **Europa** [ɛʊ'rɔpa] | **Eŭropa** [ɛw'rɔpa] | **Uropo** [ɛw'rɔpɔ] |
+| | | | |
+| *(besto)* | **bestia** ['bɛstɪa] | **bestĭa** ['bɛstja] | **besto** ['bɛstɔ] |
+| *(lingvo)* | **lingua** ['lɪngʊa] | **lingŭa** ['lɪŋgwa] | **lingo** ['lɪŋgɔ] |
+| *(ke)* | **que** [kʊɛ] | **qŭe** [kwɛ] | **ke** [kɛ] |
+| | | | |
+| *(ĝusta, justa)* | **iusta** [ɪ'ʊsta] | **ĵusta** ['ʒʊsta] | **justa** ['dʒʊsta] |
+| | | | |
+| *(spaco)* | **spatio** ['spatɪɔ] | **spatĭo** ['spaθjɔ] | **spazo** ['spatsɔ] |
+| *(demokratio)* | **democratia** [dɛmɔkra'tɪa] | **democratīa** [dɛmɔkra'θɪa] | **democrazio** [dɛmɔkra'tsɪɔ] |
+
+*Paleolingua:* Por *didaktikaj celoj*, **u** [ʊ] kaj **v** [v] skribiĝis **V** kaj ambaŭ prononciĝis [w] apud vokalo.
+
+| | Paleolingua | PALEOLINGVA (didaktike) |
+|:-|:-|:-|
+| *(ke)* | **que** [kʊɛ] | **QVE** [kwɛ] |
+| *(ĝusta, justa)* | **iusta** [ɪ'ʊsta] | **IVSTA** ['jʊsta] |
+
+
+### Fremdvortoj
+
+*Paleolingua/Neolingua:* Grek-devenaj **ph** [f], **th** [t], **ch** [k], **y** [ɪ], **z** [dz] prononciĝis​ [ɸ], [θ], [x], [ʏ], [z].
+
+| | Paleolingua | Lingua | Neolingua |
+|:-|:-|:-|:-|
 | *(fazo)* | **phase** ['ɸasɛ] | **phase** ['fasɛ] | **faso** ['fasɔ] |
 | *(temo)* | **thema** ['θɛma] | **thema** ['tɛma] | **temo** ['tɛmɔ] |
 | *(karaktero)* | **charactere** [xarak'tɛrɛ] | **charactere** [karak'tɛrɛ] | **caractero** [karak'tɛrɔ] |
+| *(sistemo)* | **systema** [sʏs'tɛma] | **systema** [sɪs'tɛma] | **sistemo** [sɪs'tɛmɔ] |
+| *(zono)* | **zona** ['zɔna] | **zona** ['dzɔna] | **zono** ['tsɔna] |
 
-
-*Paleolingua:* Per **h** transskribiĝas la grek-devenaj literoj respektive sonoj **ph** [ɸ], **th** [θ], **ch** [⁠x⁠]​.
-
-
-
-
-La literoj respektive sonoj **k** [k], **y** [ʏ] kaj **z** [z] aperas nur en grek-devenaj fremdvortoj. Grek-devenaj **ph**, **th**, **ch** prononciĝas [f], [t], [k].
-
-* **zona**
-* **phase** ['fasɛ]
-* **thema** ['tɛma]
-* **charactere** [karak'tɛrɛ]
-
-
-* c, g
-* pp, rr, ss
-* ph, th, ch, y
 
 
 ---
@@ -113,19 +106,6 @@ La literoj respektive sonoj **k** [k], **y** [ʏ] kaj **z** [z] aperas nur en gr
 
 * **naso** ['nasɔ] → ['nazɔ]
 
-*Neolingua:* Grek-devena **z** prononciĝas [dz].
-
-* **zona** ['zɔna] → ['dzɔna]
-
-*Neolingua:* **c** [k] kaj **g** [g] antaŭ **e** [ɛ] aŭ **i** [ɪ] prononciĝas [ç] respektive [ɣ].
-
-* **centro** ['kɛntrɔ] → ['çɛntrɔ]
-* **generale** [gɛnɛ'ralɛ] → [ɣɛnɛ'ralɛ]
-
-*Neolingua:* **t** [t] antaŭ radikofina **i** prononciĝas [θ].
-
-* **spatio** ['spatɪɔ] → ['spaθjɔ]
-* **democratīa** [dɛmɔkra'tɪa] → [dɛmɔkra'θɪa]
 
 ## Gramatiko
 
