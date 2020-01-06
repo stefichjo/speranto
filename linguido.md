@@ -6,13 +6,6 @@
 
 #### Adverboj
 
-##### Lokoj kaj Direktoj
-
-Adverboj uziĝas por esprimi ***lokon***. Por esprimi ***direkton*** uziĝas la finaĵo **-i**.
-
-* Mu essan ***dome***. *(Mi estas hejme.)*
-* Mu vadan ***domi***. *(Mi iras hejmen.)*
-
 #### Verboj
 
 |**lavoron**|**lavoran**|**lavorin**|
