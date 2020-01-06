@@ -81,39 +81,45 @@ Por *didaktikaj celoj*, duonvokalaj **i** [j] kaj **u** [w] skribiĝas **ĭ** re
 | *sistemo* | **systema** [sʏs'tɛma] | **systema** [sɪs'tɛma] | **sistemo** [sɪs'tɛmɔ] |
 | *zono* | **zona** ['zɔna] | **zona** ['dzɔna] | **zono** ['tsɔnɔ] |
 
-*Neolingua:* La literoj **w** [w] kaj **y** [j] aperas nur en fremdaj vortoj. **y** [j] kombiniĝas al **cy** [tʃ], **dy** [dʒ], **gy** [dʒ], **sy** [ʃ].
+La literoj **w** [w] kaj **y** [j] aperas nur en fremdaj vortoj. **y** [j] kombiniĝas al **ty**/**cy** [tʃ], **dy**/**gy** [dʒ], **sy** [ʃ].
 
-* **Wasyingtono** [waʃɪŋg'tɔnɔ]
+*Neolingua:* Anstataŭ **y** uziĝas **h** kombine kun konsonanto.
+
+| | Lingua | Neolingua |
+|:-|:-|:-|
+| *Vaŝingtono* | **Wasyington** [wa'ʃɪŋgtɔn] | **Washingtono** [waʃɪŋg'tɔnɔ] |
 
 ## Gramatiko
 
 ### Numeraloj
 
-| | |
-|:-|:-|
-| *unu* | |
+| | numeralo | ordinalo |
+|:-|:-|:-|
+| *unu* | **un** | **unesma** |
+| *du* | **du** | **duesma** |
+| *tri* | **tri** | **triesma** |
+| *kvar* | **quar** | **quaresma** |
+| *kvin* | **quin** | **quinesma** |
+| *ses* | **six** | **sixesma** |
+| *sep* | **sep** | **sepesma** |
+| *ok* | **oc** | **ocesma** |
+| *naŭ* | **nau** | **nauesma** |
+| *dek* | **dec** | **decesma** |
+| *cent* | **cent** | **centesma** |
+| *mil* | **mill** | **millesma** |
 
-|**un**|**du**|**tri**|**quar**|**quin**|
-|-|-|-|-|-|
-|**six**|**sep**|**oc**|**nau**|**dec**|
+Intervaloj esprimiĝas per la sufikso **-t-**.
 
-* **cent**
-* **mill**
+* **quarto** *(kvarto)*
 
-#### Ordinaloj
+*Paleolingua:* Ordinaloj (ĝis 10) havis la sufikson **-t-**. La numeraloj **un**, **du**, **tri** havis apartajn formojn kiel ordinaloj.
 
-|**unta**|**duta**|**trita**|**quarta**|**quinta**|
-|-|-|-|-|-|
-|**sixta**|**septa**|**octa**|**nauta**|**decta**|
-
-* **centesma**
-* **millesma**
-
-*Paleolingua → Lingua:*
-
-* **prima** → **unta**
-* **secunda** → **duta**
-* **tertia** → **trita**
+| | Paleolingua | Lingua |
+|:-|:-|:-|
+| *unua* | **prima** | **unesma** |
+| *dua* | **secunda** | **duesma** |
+| *tria* | **tertia** | **triesma** |
+| *kvara* | **quarta** | **quaresma** |
 
 ### Korelativoj
 

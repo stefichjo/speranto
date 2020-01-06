@@ -2,22 +2,6 @@
 
 ## Gramatiko
 
-### Numeraloj
-
-|**un**|**du**|**tri**|**qŭar**|**qŭin**|
-|-|-|-|-|-|
-|**six**|**sep**|**oc**|**naŭ**|**dec**|
-
-#### Ordinaloj
-
-|**unesma**|**duesma**|**triesma**|**qŭaresma**|**qŭinesma**|
-|-|-|-|-|-|
-|**sixesma**|**sepesma**|**ocesma**|**naŭesma**|**decesma**|
-
-Intervaloj esprimiĝas per sufiksa **-t-**.
-
-* **qŭarto** *(kvarto)*
-
 ### Korelativoj
 
 |**qŭo**|**qŭa**|**qŭessa**|**qŭesma**|**…**|
