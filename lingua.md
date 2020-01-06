@@ -230,6 +230,13 @@ La ŝajnfinaĵoj **-a** kaj **-o** uziĝas ĉe nomoj por distingi inter la genro
 | *Karla* | **Carla** |
 | *Karlo* | **Carlo** |
 
+La ŝajnfinaĵo de substantivo povas eliziiĝi.
+
+| | |
+|:-|:-|
+| *man-en-mane* | **man'** in mano |
+
+
 *Neolingua:* Substantivoj havas la finaĵon **-o**.
 
 | | Lingua | Neolingua |
