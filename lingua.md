@@ -22,7 +22,7 @@
 
 Duoblaj konsonantoj estas prononcataj unuoble. **s** [s] prononciĝas [z] inter vokaloj.
 
-*Paleolingua/Neolingua:* Duoblaj konsonantoj prononciĝis duoble. En **Neolingua**, duoblaj konsonantoj (krom **ss**) skribiĝas unuoble.
+*Paleolingua/Neolingua:* Duoblaj konsonantoj prononciĝis duoble. En ***Neolingua***, duoblaj konsonantoj (krom **ss**) skribiĝas unuoble.
 
 | | Paleolingua | Lingua | Neolingua |
 |:-|:-|:-|:-|
@@ -45,7 +45,7 @@ Antaŭ **e** kaj **i**, **c** [k] kaj **g** [g] prononciĝas [ç] respektive [ɣ
 
 Por *didaktikaj celoj*, duonvokalaj **i** [j] kaj **u** [w] skribiĝas **ĭ** respektive **ŭ**.
 
-*Paleolingua/Neolingua:* Duonvokalaj **i** [j] kaj **u** [w] estis ne-akcentataj **i** [ɪ] kaj **u** [ʊ] apud vokalo. Ili eliziiĝas aŭ monoftongiĝas en **Neolingua**. **j** [ʒ] estis ne-akcentata **i** [ɪ] komence de radiko. Ĝi prononciĝas [dʒ] en **Neolingua**. **t** [t] antaŭ radikofina **i** prononciĝas [θ] kaj fariĝas **z** [ts] en **Neolingua**. En grek-devenaj vortoj, radikofina **i** estas akcentebla. Por *didaktikaj celoj*, **i** tiam skribiĝas **ī**. **st** [st] restas senŝanĝa.
+*Paleolingua/Neolingua:* Duonvokalaj **i** [j] kaj **u** [w] estis ne-akcentataj **i** [ɪ] kaj **u** [ʊ] apud vokalo. Ili eliziiĝas aŭ monoftongiĝas en ***Neolingua***. **j** [ʒ] estis ne-akcentata **i** [ɪ] komence de radiko. Ĝi prononciĝas [dʒ] en ***Neolingua***. **t** [t] antaŭ radikofina **i** prononciĝas [θ] kaj fariĝas **z** [ts] en ***Neolingua***. En grek-devenaj vortoj, radikofina **i** estas akcentebla. Por *didaktikaj celoj*, **i** tiam skribiĝas **ī**. **st** [st] restas senŝanĝa.
 
 | | Paleolingua | Lingua | Neolingua |
 |:-|:-|:-|:-|
@@ -71,7 +71,7 @@ Por *didaktikaj celoj*, duonvokalaj **i** [j] kaj **u** [w] skribiĝas **ĭ** re
 
 ### Fremdaj Vortoj
 
-*Paleolingua/Neolingua:* Grek-devenaj **ph** [f], **th** [t], **ch** [k], **y** [ɪ], **z** [dz] prononciĝis​ [ɸ], [θ], [x], [ʏ], [z]. Grekdevena **z** [dz] fariĝas **z** [ts] en **Neolingua**.
+*Paleolingua/Neolingua:* Grek-devenaj **ph** [f], **th** [t], **ch** [k], **y** [ɪ], **z** [dz] prononciĝis​ [ɸ], [θ], [x], [ʏ], [z]. Grekdevena **z** [dz] fariĝas **z** [ts] en ***Neolingua***.
 
 | | Paleolingua | Lingua | Neolingua |
 |:-|:-|:-|:-|
@@ -100,7 +100,7 @@ La literoj **w** [w] kaj **y** [j] aperas nur en fremdaj vortoj. **y** [j] kombi
 | *3* | **tri** | **triesma** |
 | *4* | **quar** | **quaresma** |
 | *5* | **quin** | **quinesma** |
-| *6 * | **six** | **sixesma** |
+| *6* | **six** | **sixesma** |
 | *7* | **sep** | **sepesma** |
 | *8* | **oc** | **ocesma** |
 | *9* | **nau** | **nauesma** |
@@ -169,15 +169,15 @@ Korelativoj havas fakte pli ampleksajn signifojn. **-o** povas esti pri *afero* 
 
 Anstataŭ **quo** por *persono*, eblas uzi **qua persona** aŭ nur **qua**.
 
-* *(Kiu venas?)* **Quo vene?** → **Qua (persona) vene?**
+* **Quo vene?** → **Qua (persona) vene?** *(Kiu venas?)*
 
 #### la, que kaj ne
 
 La korelativoj **la**, **que** kaj **ne** uziĝas kiel difina *artikolo*, *konjunkcio* respektive kiel nea *adverbo*.
 
-* *(fore tiu → la domo)* **la** domo
-* *(Mi vidas, kiel → ke vi estas hejme.)* Mu vide **que** tu esse in domo.
-* *(Vi neniel → ne estas hejme.)* Tu ne esse in domo.
+* **la** domo *(fore tiu → la domo)*
+* Mu vide **que** tu esse in domo. *(Mi vidas, kiel → ke vi estas hejme.)*
+* Tu **ne** esse in domo. *(Vi neniel → ne estas hejme.)*
 
 ### Pronomoj
 
@@ -204,13 +204,13 @@ Pronomoj havas la ŝajnfinaĵon **-u**. La persona pronomo **lu** uziĝas por *e
 
 Pere de la finaĵo **-a** formiĝas *posesivaj pronomoj*.
 
-* *(mia domo)* **mua** domo
+* **mua** domo *(mia domo)*
 
 ### Radikaj Vortoj
 
 #### Substantivoj
 
-Substantivoj havas la **vir-genran ablativan** formon. Nomoj kaj terminoj havas sian specifan **nominativan** formon.
+Substantivoj havas la **vir-genran ablativan** formon el la ***Latina***. Nomoj kaj terminoj havas sian specifan **nominativan** formon.
 
 * **amico** *(amiko)*
 * **Iulius** *(Juliuso)*
