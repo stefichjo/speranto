@@ -4,23 +4,6 @@
 
 ### Radikaj Vortoj
 
-#### Nomoj
-
-La finaĵoj **-a** kaj **-o** uziĝas por distingi genron.
-
-* **Carla**
-* **Carlo**
-
-#### Substantivoj
-
-Substantivoj havas la finaĵon **-o**.
-
-* **amico**
-
-La finaĵo **-u** uziĝas por **vokativo**.
-
-* ***Amicu!***
-
 #### Adverboj
 
 ##### Lokoj kaj Direktoj

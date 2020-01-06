@@ -216,6 +216,20 @@ Substantivoj havas la *vir-genran ablativan* formon el la ***Latina***. En sia *
 * **amico** *(amiko)*
 * **amicos** *(amikoj)*
 
+Substantivoj estas baze nombre kaj genre *neŭtraj*, t.e. ili ne distingiĝas laŭ *nombro* aŭ *genro*. Nur en *vokativo* eblas esprimi nombron per la finaĵo **-u** por ***ununombro*** aŭ per la ŝajnfinaĵo **-i** por *multenombro* respektive *genron* per la ŝajnfinaĵo **-a** por *in-genro* aŭ per la ŝajnfinaĵo **-o** por *vir-genro*.
+
+| | | | |
+|-|-|-|-|
+|**Amicu!**|**Amici!**|**Amica!**|**Amico!**|
+|*(Amiko!)*|*(Amikoj!)*|*(Amikino!)*|*(Vir-amiko!)*|
+
+La ŝajnfinaĵoj **-a** kaj **-o** uziĝas ĉe nomoj por distingi inter la genroj.
+
+| | |
+|:-|:-|
+| *Karla* | **Carla** |
+| *Karlo* | **Carlo** |
+
 *Neolingua:* Substantivoj havas la finaĵon **-o**.
 
 | | Lingua | Neolingua |
@@ -229,24 +243,6 @@ Nomoj kaj terminoj havas sian specifan *nominativan* formon.
 * **data** *(datumoj)*
 * **datum** *(dato)*
 * **status** *(statuso)*
-
-Substantivoj estas baze nombre kaj genre *neŭtraj*, t.e. ili ne distingiĝas laŭ *nombro* aŭ *genro*. Nur en *vokativo* eblas esprimi nombron per la finaĵo **-u** por ***ununombro*** aŭ per la ŝajnfinaĵo **-i** por *multenombro* respektive *genron* per la ŝajnfinaĵo **-a** por *in-genro* aŭ per la ŝajnfinaĵo **-o** por *vir-genro*.
-
-| | | | |
-|-|-|-|-|
-|**Amicu!**|**Amici!**|**Amica!**|**Amico!**|
-|*(Amiko!)*|*(Amikoj!)*|*(Amikino!)*|*(Vir-amiko!)*|
-
-*Paleolingua:* Kelkaj latin-devenaj ŝajnfinaĵoj de substantivoj ŝanĝiĝis.
-
-| | Paleolingua | Lingua |
-|:-|:-|:-|
-| *nomo* | **nomine** [nɔ'mɪnɛ] | **nome** ['nɔmɛ] |
-| *limo* | **limite** [lɪ'mɪtɛ] | **lime** ['lɪmɛ] |
-| *maro* | **mari** ['marɪ] | **mare** ['marɛ] |
-| *mano* | **manu** ['manʊ] | **mano** ['manɔ] |
-| *stacio* | **statione** [statɪ'ɔnɛ] | **statīo** [sta'θɪɔ] |
-| *partiklo* | **particŭla** [par'tɪkʊla] | **particla** [par'tɪkla] |
 
 La ŝajnfinaĵoj **-īo**, **-o**, **-ore**, **-ura** aperas ĉe *participoj* kaj ili signifo similas al la grek-devenaj ŝajnfinaĵoj **-i**, **-īa**, **-a**, **-e**.
 
@@ -262,6 +258,17 @@ La ŝajnfinaĵoj **-īo**, **-o**, **-ore**, **-ura** aperas ĉe *participoj* ka
 | *("staranto", statoro)* | **statore** |
 | *("staraĵo", staturo)* | **statura** |
 
+*Paleolingua:* Kelkaj latin-devenaj ŝajnfinaĵoj de substantivoj ŝanĝiĝis.
+
+| | Paleolingua | Lingua |
+|:-|:-|:-|
+| *nomo* | **nomine** [nɔ'mɪnɛ] | **nome** ['nɔmɛ] |
+| *limo* | **limite** [lɪ'mɪtɛ] | **lime** ['lɪmɛ] |
+| *maro* | **mari** ['marɪ] | **mare** ['marɛ] |
+| *mano* | **manu** ['manʊ] | **mano** ['manɔ] |
+| *stacio* | **statione** [statɪ'ɔnɛ] | **statīo** [sta'θɪɔ] |
+| *partiklo* | **particŭla** [par'tɪkʊla] | **particla** [par'tɪkla] |
+
 #### Adjektivoj kaj Adverboj
 
 Adjektivoj havas la *in-genran ablativan* formon. En sia *multenombra* formo, ĝi ricevas la finaĵon **-s**.
@@ -275,7 +282,7 @@ Adjektivoj havas la *in-genran ablativan* formon. En sia *multenombra* formo, ĝ
 |:-|:-|:-|
 | *forta amiko* | amico **forte** | **forta** amico |
 
-Substantivo estas adjektivigebla pere de **-ale**.
+Substantivo estas adjektivigebla pere de la ŝajnfinaĵo **-ale**.
 
 * **bestiale** *(en maniero de besto, kvazaŭbesta, bestiala)*
 
@@ -297,6 +304,16 @@ Verboj havas la infinitivan formon sen **-re**.
 * **ama** *(ami)*
 * **vide** *(vidi)*
 * **senti** *(senti)*
+
+*Paleolingua:* Infinitivoj havis la ŝajnfinaĵon **-re**. En **Neolingua**, la infinitiva finaĵo estas **-i**.
+
+| | Paleolingua | Lingua | Neolingua |
+|:-|:-|:-|:-|
+| *ami* | **amare** | **ama** | **ami** |
+| *vidi* | **videre** | **vide** | **vidi** |
+| *senti* | **sentire** | **senti** | **senti** |
+
+---
 
 ##### Proksimaj Tempoj
 
