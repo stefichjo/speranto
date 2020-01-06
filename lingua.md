@@ -356,13 +356,28 @@ La prepozicio **a** uziĝas por *akuzativo* *antaŭ nomo* / *tra bruo*.
 | *Mi vidas Karlan.* | | Mu vide ***a*** Carla. |
 | *Mi vidas vin.* | Mu vide tu. | Mu vide ***a*** tu. |
 
+Por *alativo*, *lokativo*, *ablativo* uziĝas la prepozicioj **ad**, **in**, **de**.
+
+| | |
+|:-|:-|
+| *Mi iras al/ĝis la domo.* | Mu vade **ad** la domo. |
+| *Mi estas ĉe/en la domo.* | Mu esse **in** la domo. |
+| *Mi venas de la domo.* | Mu veni **de** la domo. |
+
+Ankaŭ por *dativo*, *instrumentalo*, *genitivo* uziĝas la prepozicioj **ad**, **in**, **de**.
+
+*Neolingua:* Por *dativo*, *instrumentalo*, *genitivo* uziĝas la prepozicioj **al**, **en**, **di**.
+
+| | Lingua | Neolingua |
+|:-|:-|:-|
+| *Mi parolas al amiko.* | Mu parola **ad** amico. | Mu parolan **al** amico. |
+| *Mi venas per biciklo.* | Mu veni **in** bicyclo. | Mu venan **en** biziclo. |
+| *Mi havas libron de amiko.* | Mu have libro **de** amico. | Mu havan libro **di** amico. |
+
 ---
 
-Por la lokaj kazoj ***alativo***, ***lokativo***, ***ablativo*** kaj por la ne-lokaj kazoj ***dativo***, ***instrumentalo***, ***genitivo*** uziĝas la prepozicioj **ad**, **in**, **de**. Pere de la prepozicio **ad** formiĝas prepoziciaĵoj.
+ Pere de la prepozicio **ad** formiĝas prepoziciaĵoj.
 
-* ***ad*** domo *((ĝis) al la domo, hejmen)*
-* ***in*** domo *((en) ĉe la domo, hejme)*
-* ***de*** domo *((dis-) de la domo, de hejme)*
 * ***circo ad*** domo *(ĉirkaŭ domo)*
 
 Tra bruo, la alativa prepozicio **ad** uziĝas por ***akuzativo***. Post ***helpaj verboj*** uziĝas la lokativa prepozicio **in**.
