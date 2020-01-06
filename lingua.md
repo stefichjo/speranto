@@ -338,7 +338,6 @@ La *pasivo* estas malregulaj adjektivoj je **-t** aŭ **-s**. (Kaj **esse** *(es
 | *La libro estas legata.* | La libro sta **lecta**. | La libro essan **legata**. |
 | *La libro estas legita.* | La libro veni **lecta**. | La libro essan **legita**. |
 
-
 #### Prepozicioj
 
 Per **de** oni povas indiki la *aganton* en *pasivo*.
@@ -374,11 +373,13 @@ Ankaŭ por *dativo*, *instrumentalo*, *genitivo* uziĝas la prepozicioj **ad**, 
 | *Mi venas per biciklo.* | Mu veni **in** bicyclo. | Mu venan **en** biziclo. |
 | *Mi havas libron de amiko.* | Mu have libro **de** amico. | Mu havan libro **di** amico. |
 
+Pere de la prepozicio **ad** formiĝas *prepoziciaĵoj*.
+
+| | |
+|:-|:-|
+| (ĉirkaŭ domo) | ***circ' ad*** domo |
+
 ---
-
- Pere de la prepozicio **ad** formiĝas prepoziciaĵoj.
-
-* ***circo ad*** domo *(ĉirkaŭ domo)*
 
 Tra bruo, la alativa prepozicio **ad** uziĝas por ***akuzativo***. Post ***helpaj verboj*** uziĝas la lokativa prepozicio **in**.
 
