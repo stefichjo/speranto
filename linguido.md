@@ -4,10 +4,6 @@
 
 ### Radikaj Vortoj
 
-***Pralingŭismo:*** La finaĵo **-s** signifas **multenombron** por substantivoj kaj adjektivoj .
-
-* **bonas amicos**
-
 #### Nomoj
 
 La finaĵoj **-a** kaj **-o** uziĝas por distingi genron.
@@ -25,17 +21,7 @@ La finaĵo **-u** uziĝas por **vokativo**.
 
 * ***Amicu!***
 
-#### Adjektivoj
-
-Adjektivoj havas la finaĵon **-a**.
-
-* **bona**
-
 #### Adverboj
-
-Adverboj havas la finaĵon **-e**.
-
-* ***multe*** cara amico *(tre kara amiko)*
 
 ##### Lokoj kaj Direktoj
 

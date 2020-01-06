@@ -211,9 +211,19 @@ Pere de la ŝajnfinaĵo **-a** formiĝas *posesivaj pronomoj*.
 
 #### Substantivoj
 
-Substantivoj havas la *vir-genran ablativan* formon el la ***Latina***. Nomoj kaj terminoj havas sian specifan *nominativan* formon.
+Substantivoj havas la *vir-genran ablativan* formon el la ***Latina***. En sia *multenombra* formo, ĝi ricevas la finaĵon **-s**.
 
 * **amico** *(amiko)*
+* **amicos** *(amikoj)*
+
+*Neolingua:* Substantivoj havas la finaĵon **-o**.
+
+| | Lingua | Neolingua |
+|:-|:-|:-|
+| *nomo* | **nome** | **nomo** |
+
+Nomoj kaj terminoj havas sian specifan *nominativan* formon.
+
 * **Iulius** *(Juliuso)*
 * **homo** *(homo)*
 * **data** *(datumoj)*
@@ -252,27 +262,33 @@ La ŝajnfinaĵoj **-īo**, **-o**, **-ore**, **-ura** aperas ĉe *participoj* ka
 | *("staranto", statoro)* | **statore** |
 | *("staraĵo", staturo)* | **statura** |
 
+#### Adjektivoj kaj Adverboj
 
-#### Adjektivoj
+Adjektivoj havas la *in-genran ablativan* formon. En sia *multenombra* formo, ĝi ricevas la finaĵon **-s**.
 
-Adjektivoj havas la in-genran ablativan formon.
+* amico **bona** *(bona amiko)*
+* amicos **bonas** *(bonaj amikoj)*
 
-* **bona** *(bona)*
+*Neolingua:* Adjektivoj havas la finaĵon **-a**.
 
-Adjektivo sekvas la substantivon.
-
-* domo ***grande*** *(granda domo)*
+| | Lingua | Neolingua |
+|:-|:-|:-|
+| *forta amiko* | amico **forte** | **forta** amico |
 
 Substantivo estas adjektivigebla pere de **-ale**.
 
 * **bestiale** *(en maniero de besto, kvazaŭbesta, bestiala)*
 
-#### Adverboj
-
 Adverboj formiĝas kun **-mente**.
 
-* **fortemente** *(forte)*
 * **bonamente** *(bone)*
+* **bestialemente** *(bestiale)*
+
+*Neolingua:* Adverboj havas la finaĵon **-e**.
+
+| | Lingua | Neolingua |
+|:-|:-|:-|
+| *tre forta* | **multa** forte | **multe** forta |
 
 #### Verboj
 
