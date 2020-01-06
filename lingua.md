@@ -1,342 +1,382 @@
 # Lingua
 
-***Lingua*** baziĝas sur la ***Latina***. Pli precize, ***Lingua*** baziĝas sur ***Pralingua***, kaj ***Pralingua*** siavice baziĝas sur la ***Latina***. Sur ***Lingua*** baziĝas [***Lingŭido***](linguido.md). El ***Lingua*** pruntas [***Piĝino***](pighino.md).
+***Lingua*** baziĝas sur la ***Latina*** kaj la [***Internaciaj Ortografioj***](latinidaj/README.md) de la ***Latinidaj Lingvoj***. El ***Lingua*** pruntas [***Piĝino***](pighino.md).
 
 ## Alfabeto
 
-|**a**|**b**|**c**|**d**|**e**|**f**|**g**|**h**|**i**|**k**|**l**|**m**|
-|-|-|-|-|-|-|-|-|-|-|-|-|
-|[a]|[b]|[k]|[d]|[ɛ]|[f]|[g]|[h]|[ɪ]|[k]|[l]|[m]|
-|**n**|**o**|**p**|**q**|**r**|**s**|**t**|**u**|**v**|**x**|**y**|**z**|
-|[n]|[ɔ]|[p]|[k]|[r]|[s]|[t]|[ʊ]|[v]|[ks]|[y]|[z]|
+|**a**|**b**|**c**|**d**|**e**|**f**|**g**|**h**|**i**|**j**|**k**|**l**|**m**|
+|-|-|-|-|-|-|-|-|-|-|-|-|-|
+|[a]|[b]|[k]*|[d]|[ɛ]|[f]|[g]*|[h]|[ɪ]|[dʒ]|[k]|[l]|[m]|
+|**n**|**o**|**p**|**q**|**r**|**s**|**t**|**u**|**v**|**w**|**x**|**y**|**z**|
+|[n]|[ɔ]|[p]*|[k]|[r]|[s]*|[t]*|[ʊ]|[v]|[w]|[ks]|[ɪ]*|[dz]|
 
-La literoj respektive sonoj **k** [k], **y** [y] kaj **z** [z] aperas nur en grek-devenaj fremdvortoj.
+*Paleolingua:* Radikofina **v** [v] estis **b** [b]. **ng** [ŋg] prononciĝis [ng].
 
-* **kilogramma**
-* **systema**
-* **zona**
+| | Paleolingua | Lingua | Neolingua |
+|:-|:-|:-|:-|
+| *skribi* | **scribe** ['skrɪbɛ] | **scrive** ['skrɪvɛ] | **scrivi** ['skrɪvɪ] |
+| *havi* | **habe** ['habɛ] | **have** ['havɛ] | **havi** ['havɪ] |
+| *longa* | **longa** ['lɔnga] | **longa** ['lɔŋga] | **longa** ['lɔŋga] |
 
-Grek-devenaj **ph**, **th**, **ch** prononciĝas [f], [t], [k].
+### Duoblaj Konsonantoj
 
-* **phase** [ˈfasɛ]
-* **thema** [ˈtɛma]
-* **charactere** [karakˈtɛrɛ]
+Duoblaj konsonantoj estas prononcataj unuoble. **s** [s] prononciĝas [z] inter vokaloj.
 
-*Neolingua:* Postvokala radikofina **b** [b] prononciĝas [v].
+*Paleolingua/Neolingua:* Duoblaj konsonantoj prononciĝis duoble. En ***Neolingua***, duoblaj konsonantoj (krom **ss**) skribiĝas unuoble.
 
-* **scribe** [ˈskrɪbɛ] → [ˈskrɪvɛ]
-* **habe** [ˈhabɛ] → [ˈhavɛ]
+| | Paleolingua | Lingua | Neolingua |
+|:-|:-|:-|:-|
+| *tero* | **terra** ['tɛrra] | **terra** ['tɛra] | **tero** ['tɛrɔ] |
+| *maso* | **massa** ['massa] | **massa** ['masa] | **masso** ['masɔ] |
+| *rozo* | **rosa** ['rɔsa] | **rosa** ['rɔza] | **roso** ['rɔzɔ] |
 
-*Pralingua:* Per **h** transskribiĝas la grek-devenaj literoj respektive sonoj **ph** [ɸ], **th** [θ], **ch** [⁠x⁠]​.
+### C kaj G
 
-* **phase** [ˈɸasɛ] → [ˈfasɛ]
-* **thema** [ˈθɛma] → [ˈtɛma]
-* **charactere** [xarakˈtɛrɛ] → [karakˈtɛrɛ]
+Antaŭ **e** kaj **i**, **c** [k] kaj **g** [g] prononciĝas [ç] respektive [ɣ]. Por *didaktikaj celoj*, ili skribiĝas **ĉ** [ç] respektive **ĝ** [ɣ].
 
-### Vokaloj
+*Neolingua:* **ĉ** [ç] kaj **ĝ** [ɣ] fariĝas **z** [ts] respektive **j** [dʒ]. Por *didaktikaj celoj*, **j** [dʒ] tiam skribiĝas **ĵ**.
 
-*Neolingua:* (Grek-devena) **y** [ʏ] prononciĝas [ɪ].
-
-* **systema** [sʏsˈtɛma] → [sɪsˈtɛma]
+| | Paleolingua | Lingua | Neolingua |
+|:-|:-|:-|:-|
+| *centro* | **centro** ['kɛntrɔ] | **ĉentro** ['çɛntrɔ] | **zentro** ['tsɛntrɔ] |
+| *ĝenerala* | **generale** [gɛnɛ'ralɛ] | **ĝenerale** [ɣɛnɛ'ralɛ] | **ĵenerala** ['dʒɛnɛ'rala] |
 
 ### Duonvokaloj
 
-*Neolingua:* Apudvokalaj aŭ radikofinaj **i** [ɪ] kaj **u** [ʊ] prononciĝas [j] kaj [w]. Apud **u** [ʊ], **i** [ɪ] estas ĝenerale neakcentebla, dum specife apud **q** [k], **u** [ʊ] estas neakcentebla.
+Por *didaktikaj celoj*, duonvokalaj **i** [j] kaj **u** [w] skribiĝas **ĭ** respektive **ŭ**.
 
-* **bestia** [ˈbɛstɪa] → [ˈbɛstja]
-* **aqua** [ˈakʊa] → [ˈakwa]
-* **iusta** [ɪˈʊsta] → [ˈjʊsta]
-* **quin** [kʊˈɪn] → [kwɪn]
+*Paleolingua/Neolingua:* Duonvokalaj **i** [j] kaj **u** [w] estis ne-akcentataj **i** [ɪ] kaj **u** [ʊ] apud vokalo. Ili eliziiĝas aŭ monoftongiĝas en ***Neolingua***. **j** [ʒ] estis ne-akcentata **i** [ɪ] komence de radiko. Ĝi prononciĝas [dʒ] en ***Neolingua***. **t** [t] antaŭ radikofina **i** prononciĝas [θ] kaj fariĝas **z** [ts] en ***Neolingua***. Por *didaktikaj celoj*, kiam radikofina **i** estas akcentata, **i** skribiĝas **ī**. **st** [st] restas senŝanĝa.
 
-### Konsonantoj
+| | Paleolingua | Lingua | Neolingua |
+|:-|:-|:-|:-|
+| *trajno* | **traino** ['traɪnɔ] | **traĭno** ['trajnɔ] | **treno** ['trɛnɔ] |
+| *oro* | **auro** ['aʊrɔ] | **aŭro** ['awrɔ] | **oro** ['ɔrɔ] |
+| *Eŭropo* | **Europa** [ɛʊ'rɔpa] | **Eŭropa** [ɛw'rɔpa] | **Uropo** [ɛw'rɔpɔ] |
+| | | | |
+| *besto* | **bestia** ['bɛstɪa] | **bestĭa** ['bɛstja] | **besto** ['bɛstɔ] |
+| *lingvo* | **lingua** ['lɪngʊa] | **lingŭa** ['lɪŋgwa] | **lingo** ['lɪŋgɔ] |
+| *ke* | **que** [kʊɛ] | **qŭe** [kwɛ] | **ke** [kɛ] |
+| | | | |
+| *ĝusta, justa* | **iusta** [ɪ'ʊsta] | **ĵusta** ['ʒʊsta] | **justa** ['dʒʊsta] |
+| | | | |
+| *spaco* | **spatio** ['spatɪɔ] | **spatĭo** ['spaθjɔ] | **spazo** ['spatsɔ] |
+| *lekcio* | **lectione** [lɛktɪ'ɔnɛ] | **lectīo** [lɛk'θɪɔ] | **lezio** [lɛ'tsɪɔ] |
+| *demokratio* | **democratia** [dɛmɔkra'tɪa] | **democratīa** [dɛmɔkra'θɪa] | **democrazio** [dɛmɔkra'tsɪɔ] |
 
-*Neolingua:* **ng** [ng] prononciĝas [ŋg].
+*Paleolingua:* Por *didaktikaj celoj*, **u** [ʊ] kaj **v** [v] skribiĝis **V** kaj ambaŭ prononciĝis [w] apud vokalo.
 
-* **longa** ['lɔnga] → ['lɔŋga]
+| | Paleolingua | (didaktike) |
+|:-|:-|:-|
+| *akvo* | **aqua** ['akʊɔ] | **AQVA** ['akwɔ] |
+| *ĵuri* | **iura** [ɪ'ʊra] | **IVRA** ['jʊra] |
 
-*Neolingua:* Radikofina postvokala **s** [s] prononciĝas [z].
+### Fremdaj Vortoj
 
-* **naso** [ˈnasɔ] → [ˈnazɔ]
+*Paleolingua/Neolingua:* Grek-devenaj **ph** [f], **th** [t], **ch** [k], **y** [ɪ], **z** [dz] prononciĝis​ [ɸ], [θ], [x], [ʏ], [z]. Grekdevena **z** [dz] fariĝas **z** [ts] en ***Neolingua***.
 
-*Neolingua:* Grek-devena **z** prononciĝas [dz].
+| | Paleolingua | Lingua | Neolingua |
+|:-|:-|:-|:-|
+| *fazo* | **phase** ['ɸasɛ] | **phase** ['fazɛ] | **faso** ['fazɔ] |
+| *temo* | **thema** ['θɛma] | **thema** ['tɛma] | **temo** ['tɛmɔ] |
+| *karaktero* | **charactere** [xarak'tɛrɛ] | **charactere** [karak'tɛrɛ] | **caractero** [karak'tɛrɔ] |
+| *sistemo* | **systema** [sʏs'tɛma] | **systema** [sɪs'tɛma] | **sistemo** [sɪs'tɛmɔ] |
+| *zono* | **zona** ['zɔna] | **zona** ['dzɔna] | **zono** ['tsɔnɔ] |
 
-* **zona** [ˈzɔna] → [ˈdzɔna]
+La literoj **w** [w] kaj **y** [j] aperas nur en fremdaj vortoj. **y** [j] kombiniĝas al **ty**/**cy** [tʃ], **dy**/**gy** [dʒ], **sy** [ʃ].
 
-*Neolingua:* **c** [k] kaj **g** [g] antaŭ **e** [ɛ] aŭ **i** [ɪ] prononciĝas [ç] respektive [ɣ].
+*Neolingua:* Anstataŭ **y** uziĝas **h** kombine kun konsonanto.
 
-* **centro** [ˈkɛntrɔ] → [ˈçɛntrɔ]
-* **generale** [gɛnɛˈralɛ] → [ɣɛnɛˈralɛ]
-
-*Neolingua:* **t** [t] antaŭ radikofina **i** prononciĝas [θ].
-
-* **spatio** [ˈspatɪɔ] → ['spaθjɔ]
-* **democratīa** [dɛmɔkraˈtɪa] → [dɛmɔkraˈθɪa]
+| | Lingua | Neolingua |
+|:-|:-|:-|
+| *Vaŝingtono* | **Wasyington** [wa'ʃɪŋgtɔn] | **Washingtono** [waʃɪŋg'tɔnɔ] |
 
 ## Gramatiko
 
 ### Numeraloj
 
-|**un**|**du**|**tri**|**quar**|**quin**|
-|-|-|-|-|-|
-|**six**|**sep**|**oc**|**nau**|**dec**|
+| | numeralo | ordinalo |
+|:-|:-|:-|
+| *1* | **un** | **unesma** |
+| *2* | **du** | **duesma** |
+| *3* | **tri** | **triesma** |
+| *4* | **quar** | **quaresma** |
+| *5* | **quin** | **quinesma** |
+| *6* | **six** | **sixesma** |
+| *7* | **sep** | **sepesma** |
+| *8* | **oc** | **ocesma** |
+| *9* | **nau** | **nauesma** |
+| *10* | **dec** | **decesma** |
+| *100* | **cent** | **centesma** |
+| *1000* | **mill** | **millesma** |
 
-* **cent**
-* **mill**
+Intervaloj esprimiĝas per la sufikso **-t-**.
 
-#### Ordinaloj
+* **quarto** *(kvarto)*
 
-|**unta**|**duta**|**trita**|**quarta**|**quinta**|
-|-|-|-|-|-|
-|**sixta**|**septa**|**octa**|**nauta**|**decta**|
+*Paleolingua:* Ordinaloj (ĝis 10) havis la sufikson **-t-**. La numeraloj **un**, **du**, **tri** havis apartajn formojn kiel ordinaloj.
 
-* **centesma**
-* **millesma**
-
-*Pralingua → Lingua:*
-
-* **prima** → **unta**
-* **secunda** → **duta**
-* **tertia** → **trita**
+| | Paleolingua | Lingua |
+|:-|:-|:-|
+| *1-a* | **prima** | **unesma** |
+| *2-a* | **secunda** | **duesma** |
+| *3-a* | **tertia** | **triesma** |
+| *4-a* | **quarta** | **quaresma** |
 
 ### Korelativoj
+
+Korelativoj havas la ŝajnfinaĵojn **-o**, **-a**, **-e** kaj **-i**.
 
 |**-o**|**-a**|**-e**|**-i**|
 |-|-|-|-|
 |**quo**|**qua**|**que**|**qui**|
-|*(kio)*|*(kia)*|*(kie)*|*(kien)*|
+|*(kio)*|*(kia)*|*(kiel)*|*(kien)*|
 |**ho**|**ha**|**he**|**hi**|
-|*(jen tio)*|*(jen tia)*|*(jen tie)*|*(jen tien)*|
-|**io**|**ia**|**ie**|**ii**|
-|*(ĉi tio)*|*(ĉi tia)*|*(ĉi tie)*|*(ĉi tien)*|
+|*(jen tio)*|*(jen tia)*|*(jen tiel)*|*(jen tien)*|
+|**jo**|**ja**|**je**|**ji**|
+|*(ĉi tio)*|*(ĉi tia)*|*(ĉi tiel)*|*(ĉi tien)*|
 |**to**|**ta**|**te**|**ti**|
-|*(tio)*|*(tia)*|*(tie)*|*(tien)*|
+|*(tio)*|*(tia)*|*(tiel)*|*(tien)*|
 |**lo**|**la**|**le**|**li**|
-|*(fore tio)*|*(fore tia)*|*(fore tie)*|*(fore tien)*|
+|*(fore tio)*|*(fore tia)*|*(fore tiel)*|*(fore tien)*|
 |**no**|**na**|**ne**|**ni**|
-|*(nenio)*|*(nenia)*|*(nenie)*|*(nenien)*|
+|*(nenio)*|*(nenia)*|*(neniel)*|*(nenien)*|
 |**omno**|**omna**|**omne**|**omni**|
-|*(ĉio)*|*(ĉia)*|*(ĉie)*|*(ĉien)*|
+|*(ĉio)*|*(ĉia)*|*(ĉiel)*|*(ĉien)*|
 |**ono**|**ona**|**one**|**oni**|
-|*(io)*|*(ia)*|*(ie)*|*(ien)*|
+|*(io)*|*(ia)*|*(iel)*|*(ien)*|
 
-Substantivoj sekvas korelativojn.
+*Paleolingua:* Anstataŭ la ŝajnfinaĵo **-i** uziĝis la prepozicio **ad**.
 
-* ***omna*** homo *(ĉia homo)*
+| | Paleolingua | Lingua |
+|:-|:-|:-|
+| *Kie vi estas?* | **Que esse tu?** | **Que esse tu?** |
+| *Kien vi iras?* | **Ad que vade tu?** | **Qui vade tu?** |
 
-Kvankam estas gramatike ĝuste uzi korelativon je **-o**, por ***personoj***, preferiĝas uzi korelativon je **-a** por indiki ***identon***. Korelativoj je **-a** uziĝas ankaŭ por indiki ***posedon***.
+Korelativoj havas fakte pli ampleksajn signifojn. **-o** povas esti pri *afero* aŭ *persono*. **-a** povas esti pri *speco* aŭ *posedo*/*origino*. **-e** povas esti pri *loko*, *maniero*, *graveco*/*kvanto*, *intenco*. **-i** estas pri *celo*/*intenco*, ĉu de movo aŭ ago. Pere de ŝajnsufiksoj eblas formi pli specifajn korelativojn.
 
-* ***Qua*** esse in la domo? *(Kiu estas en la domo?)*
-* ***Qua libro esse?*** *(Kies libro estas?)*
+| | |
+|:-|:-|
+| *kiu (afero), kio* | **quajo** |
+| *kiu (persono), kiu* | **quulo** |
+| | |
+| *kiuspeca, kia* | **quessa** |
+| *de kiu/kio/kie, kies* | **quesma** |
+| | |
+| *kiuloke, kie* | **queje** |
+| *kiutempe, kiam* | **quande** |
+| *kiukvante, kiom* | **quante** |
+| *kiumaniere, kiel* | **quale** |
+| *kiuintence, kial* | **quare** |
 
-La korelativoj je **-e** uziĝas ankaŭ por indiki ***tempon***, ***kaŭzon***, ***mezuron*** kaj ***manieron***.
+Anstataŭ **quo** por *persono*, eblas uzi **qua persona** aŭ nur **qua**.
 
-* ***Que vade?*** *(Kiel vi fartas?)*
+* **Quo vene?** → **Qua (persona) vene?** *(Kiu venas?)*
 
-Kombine kun substantivoj estas formeblaj pli specifaj korelativaĵoj.
+#### la, que kaj ne
 
-* in qua ***loco***? *(en kiu loko?, kie?)*
+La korelativoj **la**, **que** kaj **ne** uziĝas kiel difina *artikolo*, *konjunkcio* respektive kiel nea *adverbo*.
 
-La korelativo **la** uziĝas ankaŭ kiel difina ***artikolo***. La korelativo **que** uziĝas kiel ***konjunkcio*** por subfrazoj. La korelativo **ne** uziĝas kiel nea ***adverbo***.
-
-* ***la*** domo *(fore tia domo → la domo)*
-* Meu spera ***que*** teu esse in domo. *(Mi esperas, ke vi estas hejme.)*
-* Teu ***ne*** esse in domo. *(Vi ne estas hejme.)*
-
-*Neolingua:* La korelativoj je **-i** eksuziĝas.
-
-* **ii** → **ad ie** *(ĉi tien)*
+* **la** domo *(fore tiu → la domo)*
+* Mu vide **que** tu esse in domo. *(Mi vidas, kiel → ke vi estas hejme.)*
+* Tu **ne** esse in domo. *(Vi neniel → ne estas hejme.)*
 
 ### Pronomoj
 
-Pere de la finaĵo **-a** formiĝas ***posesivaj pronomoj***.
+Pronomoj havas la ŝajnfinaĵon **-u**. La persona pronomo **lu** uziĝas por *etinfanoj* kaj *bestoj*. La refleksiva pronomo estas **su**.
 
-* ***neia*** libro *(nia libro)*
-
-*Neolingua:* La vokalo **e** de pronomoj malaperas.
-
-* ***neia*** libro → ***nia*** libro *(nia libro)*
-
-*Pralingua:* La pronomoj **meu**, **teu** kaj la numeralo **un** sufiksiĝas al verboj kiel **-m**, **-t**, **-n**. Aldona **-s** indikas multenombron.
-
-* **amam** *(mi amas)*
-  * **amams** *(ni amas)*
-* **videt** *(vi vidas)*
-  * **videts** *(vi vidas)*
-* **sentin** *(li sentas)*
-  * **sentins** *(ili sentas)*
-
-#### Intimaj Pronomoj
-
-|**meu**|**teu**|**ieu**|
+| | | |
 |-|-|-|
-|*(mi)*|*(vi)*|*(ŝi, li, ĝi)*|
-|**nei**|**vei**|**lei**|
+|**mu**|**tu**|**ju**/**lu**|
+|*(mi)*|*(vi)*|*(ĝi)*|
+| | | |
+|**alu**|**olu**|**ulu**|
+|*(ŝi)*|*(li)*|*(ri)*|
+| | | |
+|**nu**|**vu**|**ilu**|
 |*(ni)*|*(vi)*|*(ili)*|
 
-#### Honorigaj Pronomoj
+*Paleolingua:* La *multenombraj* pronomoj havis la ŝajnfinaĵon **-i**.
 
-|**unei**|**uvei**|**ulei**|
-|-|-|-|
-|*(unu el ni)*|*(unu el vi)*|*(unu el ili)*|
-|**anei**|**avei**|**alei**|
-|*(unu virino el ni)*|*(unu virino el vi)*|*(unu virino el ili)*|
-|**onei**|**ovei**|**olei**|
-|*(unu viro el ni)*|*(unu viro el vi)*|*(unu viro el ili)*|
-|**inei**|**ivei**|**ilei**|
-|*(ĉiuj el ni)*|*(ĉiuj el vi)*|*(ĉiuj el ili)*|
+| | Paleolingua | Lingua |
+|:-|:-|:-|
+| *ni* | **ni** | **nu** |
+| *vi* | **vi** | **vu** |
+| *ili* | **li** | **ilu** |
+
+Pere de la ŝajnfinaĵo **-a** formiĝas *posesivaj pronomoj*.
+
+* **mua** domo *(mia domo)*
 
 ### Radikaj Vortoj
 
 #### Substantivoj
 
-Substantivoj havas la **vir-genran ablativan** formon. Nomoj kaj terminoj havas sian specifan **nominativan** formon.
+Substantivoj havas la *vir-genran ablativan* formon el la ***Latina***. En sia *multenombra* formo, ĝi ricevas la finaĵon **-s**.
 
 * **amico** *(amiko)*
+* **amicos** *(amikoj)*
+
+Substantivoj estas baze nombre kaj genre *neŭtraj*, t.e. ili ne distingiĝas laŭ *nombro* aŭ *genro*. Nur en *vokativo* eblas esprimi nombron per la finaĵo **-u** por ***ununombro*** aŭ per la ŝajnfinaĵo **-i** por *multenombro* respektive *genron* per la ŝajnfinaĵo **-a** por *in-genro* aŭ per la ŝajnfinaĵo **-o** por *vir-genro*.
+
+| | | | |
+|-|-|-|-|
+|**Amicu!**|**Amici!**|**Amica!**|**Amico!**|
+|*(Amiko!)*|*(Amikoj!)*|*(Amikino!)*|*(Vir-amiko!)*|
+
+La ŝajnfinaĵoj **-a** kaj **-o** uziĝas ĉe nomoj por distingi inter la genroj.
+
+| | |
+|:-|:-|
+| *Karla* | **Carla** |
+| *Karlo* | **Carlo** |
+
+La ŝajnfinaĵo de substantivo povas eliziiĝi.
+
+| | |
+|:-|:-|
+| *man-en-mane* | **man'** in mano |
+
+*Neolingua:* Substantivoj havas la finaĵon **-o**.
+
+| | Lingua | Neolingua |
+|:-|:-|:-|
+| *nomo* | **nome** | **nomo** |
+
+Nomoj kaj terminoj havas sian specifan *nominativan* formon.
+
 * **Iulius** *(Juliuso)*
 * **homo** *(homo)*
 * **data** *(datumoj)*
 * **datum** *(dato)*
+* **status** *(statuso)*
 
-Substantivoj estas baze nombre kaj genre neŭtraj, t.e. ili ne distingiĝas laŭ ununombro aŭ multenombro aŭ laŭ in-genro aŭ vir-genro. Nur en vokativo eblas esprimi nombron per la finaĵo **-u** por ***ununombro*** aŭ per la finaĵo **-i** por ***multenombro*** respektive genron per la finaĵo **-a** por ***in-genro*** aŭ per la finaĵo **-o** por ***vir-genro***.
+La ŝajnfinaĵoj **-īo**, **-o**, **-ore**, **-ura** aperas ĉe *participoj* kaj ili signifo similas al la grek-devenaj ŝajnfinaĵoj **-i**, **-īa**, **-a**, **-e**.
 
-|**Amicu!**|**Amica!**|
-|-|-|
-|*(Amiko!)*|*(Amikino!)*|
-|**Amici!**|**Amico!**|
-|*(Amikoj!)*|*(Vir-amiko!)*|
+| | |
+|:-|:-|
+| *("lumskribado", fotografado)* | **photographi** |
+| *("lumskribmaniero", fotografio)* | **photographīa** |
+| *("lumskribanto", fotografisto)* | **photographa** |
+| *("lumskribaĵo", fotografaĵo)* | **photographe** |
+| | |
+| *("starado", stacio)* | **statīo** |
+| *("starmaniero", staro)* | **stato** |
+| *("staranto", statoro)* | **statore** |
+| *("staraĵo", staturo)* | **statura** |
 
-Substantivoj derivitaj de [participoj](#participoj) havas finaĵojn je **-o** aŭ **-īo**.
+*Paleolingua:* Kelkaj latin-devenaj ŝajnfinaĵoj de substantivoj ŝanĝiĝis.
 
-* **stato** *("staro": stato, "stariĝo": statuso)*
-  * **statore** *("staranto": statoro)*
-* **lectīo** *("legado": lekcio, "legadaĵo": leciono)*
+| | Paleolingua | Lingua |
+|:-|:-|:-|
+| *nomo* | **nomine** [nɔ'mɪnɛ] | **nome** ['nɔmɛ] |
+| *limo* | **limite** [lɪ'mɪtɛ] | **lime** ['lɪmɛ] |
+| *maro* | **mari** ['marɪ] | **mare** ['marɛ] |
+| *mano* | **manu** ['manʊ] | **mano** ['manɔ] |
+| *stacio* | **statione** [statɪ'ɔnɛ] | **statīo** [sta'θɪɔ] |
+| *partiklo* | **particŭla** [par'tɪkʊla] | **particla** [par'tɪkla] |
 
-Grek-devenaj neologismoj havas la finaĵojn **-i**, **-īa**, **-a**, **-e**.
+#### Adjektivoj kaj Adverboj
 
-* **photographi** *("lumskribado", fotografado)*
-* **photographīa** *("lumskribarto", fotografio)*
-* **photographa** *("lumskribanto", fotografisto)*
-* **photographe** *("lumskribaĵo", fotografaĵo)*
+Adjektivoj havas la *in-genran ablativan* formon. En sia *multenombra* formo, ĝi ricevas la finaĵon **-s**.
 
-*Pralingua → Lingua:* La vokalo antaŭ la la nombr-indikaj respektive genr-indikaj finaĵoj malaperas.
+* amico **bona** *(bona amiko)*
+* amicos **bonas** *(bonaj amikoj)*
 
-* **Amicou!** → **Amicu!**
-* **Amicoi!** → **Amici!**
-* **Amicoa!** → **Amica!**
-* **Amicoo!** → **Amico!**
+*Neolingua:* Adjektivoj havas la finaĵon **-a**.
 
-*Pralingua → Lingua:* La substantivaj finaĵoj **-i** kaj **-u** fariĝas **-e** kaj **-o**.
+| | Lingua | Neolingua |
+|:-|:-|:-|
+| *forta amiko* | amico **forte** | **forta** amico |
 
-* **mari** → **mare** *(maro)*
-* **manu** → **mano** *(mano)*
-
-*Pralingua → Lingua:* La neakcenteblaj sufiksoj **-in-**, **-it-** kaj **-ul-** eliziiĝas.
-
-* **nomĭne** → **nome** *(nomo)*
-* **limĭte** → **lime** *(limo)*
-* **particŭla** → **particla** *(partiklo)*
-
-*Pralingua → Lingua:* Substantivoj (derivitaj de [participoj](#participoj)) je **-u** kaj **-ione** cedas al la malpli specifaj formoj je **-o** kaj **-īo**.
-
-* **statu** → **stato** *("stariĝo": statuso)*
-  * **statura** *("stariĝaĵo": staturo)*
-* **legĕtione** → **lectīo** *("legadaĵo": leciono)*
-
-#### Adjektivoj
-
-Adjektivoj havas la in-genran ablativan formon.
-
-* **bona** *(bona)*
-
-Adjektivo sekvas la substantivon.
-
-* domo ***grande*** *(granda domo)*
-
-Substantivo estas adjektivigebla pere de **-ale**.
+Substantivo estas adjektivigebla pere de la ŝajnfinaĵo **-ale**.
 
 * **bestiale** *(en maniero de besto, kvazaŭbesta, bestiala)*
 
-#### Adverboj
-
 Adverboj formiĝas kun **-mente**.
 
-* **fortemente** *(forte)*
 * **bonamente** *(bone)*
+* **bestialemente** *(bestiale)*
+
+*Neolingua:* Adverboj havas la finaĵon **-e**. Por esprimi *celon* uziĝas la ŝajnfinaĵo **-i**.
+
+| | Lingua | Neolingua |
+|:-|:-|:-|
+| *tre forta* | multa forte | **multe** forta |
+| *Mi estas hejme.* | Mu esse in domo. | Mu esse **dome**. |
+| *Mi iras hejmen.* | Mu vade ad domo. | Mu vade **domi**. |
 
 #### Verboj
 
 Verboj havas la infinitivan formon sen **-re**.
 
-* **ama** *(ami)*
-* **vide** *(vidi)*
-* **senti** *(senti)*
+*Paleolingua/Neolingua:* Infinitivoj havis la ŝajnfinaĵon **-re**. En **Neolingua**, la infinitiva finaĵo estas **-ar'**. *Tra bruo*, **-ar'** fariĝas **-as'**.
 
-##### Proksimaj Tempoj
+| | Paleolingua | Lingua | Neolingua | (tra bruo) |
+|:-|:-|:-|:-|:-|
+| *ami* | **amare** | **ama** | **amar'** | **amas'** |
+| *vidi* | **videre** | **vide** | **vidar'** | **vidas'** |
+| *senti* | **sentire** | **senti** | **sentar'** | **sentas'** |
 
-La tempe proksimaj ***futuro***, ***prezenco***, ***preterito*** esprimiĝas per la verboj **vade**, **sta**, **veni** kun la prepozicioj **ad**, **in**, **de**.
+*Tra bruo*, uziĝas la *instrumentala* prepozicio **en** antaŭ infinitivo.
 
-* Meu ***vade ad*** lege. *(Mi estas legonta.)*
-* Meu ***sta in*** lege. *(Mi estas leganta.)*
-* Meu ***veni de*** lege. *(Mi estas leginta.)*
+| | Lingua | (tra bruo) |
+|:-|:-|:-|
+| *Mi volas helpi vin.* | **Mu vole adiuva tu.** | **Mu vole en adiuva tu.** |
 
-##### Pasivo
+Por *futuro*, *prezenco*, *preterito* oni povas uzi la frazerojn **vade ad**, **sta in**, **veni de**.
 
-Pere de la sufikso **-t-**, verboj fariĝas adjektivoj, kiuj esprimas ***pasivon***.
+*Neolingua:* La finaĵoj por *futuro*, *prezenco*, *preterito* estas **-on**, **-an**, **-in**. Analogie, la respektivaj participaj aktivaj finaĵoj estas **-onta**, **-anta**, **-inta**. La *imperativa*/*volitiva* verba finaĵoj estas **-en**.
 
-* La libro esse ***lecta***. *(La libro legiĝas. La libro estas legata.)*
-* La libro esse ***lecta*** de amico. *(La libro estas legata de amiko.)*
+| | Lingua | Neolingua |
+|:-|:-|:-|
+| *Mi legos. / Mi estas legonta.* | Mu **vade ad** lege. | Mu **legon**. / Mu **essan legonta**. |
+| *Mi legas. / Mi estas leganta.* | Mu **sta in** lege. | Mu **legan**. / Mu **essan leganta**. |
+| *Mi legis. / Mi estas leginta.* | Mu **veni de** lege. | Mu **legin**. / Mu **essan leginta**. | | |
+| *Legu!* | **Lege!** | **Legen!** |
 
-*Neolingua:* En ***pasivo***, la prepozicio **de** fariĝas **da**.
+La *pasivo* estas malregulaj adjektivoj je **-t** aŭ **-s**. (Kaj **esse** *(esti)* kaj **sta** *(stari)* havas la participon **stata**.)
 
-* La libro esse lecta ***da*** amico. *(La libro estas legata de amiko.)*
+*Neolingua:* La sufiksoj por *pasivo* estas **-ot-**, **-at-**, **-it-**.
 
-*Pralingua → Lingua:* Neakcentblaj, verbofinaj **-e** kaj **-i** eliziiĝas. Ofte apartaj formoj uziĝas.
-
-* → *-*: **dicta**, **ducta**, **facta**, **venta**
-* *bt* → *pt*: **scripta**
-* *gt* → *ct*: **acta**, **lecta**, **puncta**
-* *dt* → *s*: **casa**, **clusa**, **pansa**, **prensa**, **vasa**, **visa**
-* *nct* → *ct*: **victa**
-* *ngt* → *ct*: **tacta**
-* *nt* → *ns*: **tensa**
-* *nt* → *sit*: **posita**
-* *tt* → *ss*: **missa**, **sensa**
-* *rrt* → *rs*: **corsa**
-* *rtt* → *rs*: **versa**
-* *vt* → *t*: **mota**
-* *vt* → *ut*: **soluta**, **voluta**
-
-##### Malproksimaj Tempoj
-
-Pasivaj adjektivoj kun la verbo **habe** esprimas ***malproksiman preteriton***.
-
-* La homo ***habe lecta*** la libro. *(La homo legis la libron.)*
-
-La verbo **esse** havas la ***malproksim-preteritan*** adjektivon **stata**. Tiu formo uziĝas kombine kun **esse** anstataŭ **habe**.
-
-* La homo ***habe stata*** ante ad la domo. *(La homo staris antaŭ la domo.)*
-* La homo ***esse stata*** felice. *(La homo estis feliĉa.)*
+| | Lingua | Neolingua |
+|:-|:-|:-|
+| *La libro estas legota.* | La libro vade **lecta**. | La libro essan **legota**. |
+| *La libro estas legata.* | La libro sta **lecta**. | La libro essan **legata**. |
+| *La libro estas legita.* | La libro veni **lecta**. | La libro essan **legita**. |
 
 #### Prepozicioj
 
-Por la lokaj kazoj ***alativo***, ***lokativo***, ***ablativo*** kaj por la ne-lokaj kazoj ***dativo***, ***instrumentalo***, ***genitivo*** uziĝas la prepozicioj **ad**, **in**, **de**. Pere de la prepozicio **ad** formiĝas prepoziciaĵoj.
+Per **de** oni povas indiki la *aganton* en *pasivo*.
 
-* ***ad*** domo *((ĝis) al la domo, hejmen)*
-* ***in*** domo *((en) ĉe la domo, hejme)*
-* ***de*** domo *((dis-) de la domo, de hejme)*
-* ***circo ad*** domo *(ĉirkaŭ domo)*
+*Neolingua:* En *pasivo*, la prepozicio **de** fariĝas **da**.
 
-Tra bruo, la alativa prepozicio **ad** uziĝas por ***akuzativo***. Post ***helpaj verboj*** uziĝas la lokativa prepozicio **in**.
+| | Lingua | Neolingua |
+|:-|:-|:-|
+| *(La libro estas legata de amiko.)* | La libro sta lecta **de** amico. | La libro essan legata **da** amico. |
 
-* Meu vole adiuva teu. → Meu vole ***in*** adiuva ***ad*** teu. *(Mi volas helpi vin.)*
+La prepozicio **a** uziĝas por *akuzativo* *antaŭ nomo* / *tra bruo*.
 
-*Neolingua:* Por la ne-lokaj kazoj ***dativo***, ***instrumentalo***, ***genitivo*** uziĝas la prepozicioj **al**, **en**, **di** anstataŭ **ad**, **in**, **de**. La substantiva finaĵo en prepoziciaĵoj povas eliziiĝi.
+| | Lingua | (antaŭ nomo) / (tra bruo) |
+|:-|:-|:-|
+| *Mi vidas Karlan.* | | Mu vide ***a*** Carla. |
+| *Mi vidas vin.* | Mu vide tu. | Mu vide ***a*** tu. |
 
-* adiuva ***ad*** → ***al*** amico *(helpo por amiko)*
-* adiuva ***in*** → ***en*** amico *(helpo per amiko)*
-* adiuva ***de*** → ***di*** amico *(helpo de amiko)*
-* circo ***ad*** → ***al*** domo → ***circ'al*** domo *(ĉirkaŭ domo)*
+Por *alativo*, *lokativo*, *ablativo* uziĝas la prepozicioj **ad**, **in**, **de**. Pere de la prepozicio **ad** formiĝas *prepoziciaĵoj*.
 
-*Neolingua:* La trabruaj akuzativaj prepozicioj **ad** kaj **in** fariĝas **as** kaj **an**. La verba finaĵo antaŭ ili povas eliziiĝi.
+| | |
+|:-|:-|
+| *Mi iras al/ĝis la domo.* | Mu vade **ad** la domo. |
+| *Mi estas ĉe/en la domo.* | Mu esse **in** la domo. |
+| *Mi venas de la domo.* | Mu veni **de** la domo. |
+| *Mi iras ĉirkaŭ la domo.* | Mu vade **circ' ad** la domo. |
 
-* Meu vole ***in*** adiuva ***ad*** teu. → Mu vole ***an*** adiuva ***as*** tu. → Mu ***vol'an*** ***adiuv'as*** tu. *(Mi volas helpi vin.)*
+Ankaŭ por *dativo*, *instrumentalo*, *genitivo* uziĝas la prepozicioj **ad**, **in**, **de**.
+
+*Neolingua:* Por *dativo*, *instrumentalo*, *genitivo* uziĝas la prepozicioj **al**, **en**, **di**.
+
+| | Lingua | Neolingua |
+|:-|:-|:-|
+| *Mi parolas al amiko.* | Mu parola **ad** amico. | Mu parolan **al** amico. |
+| *Mi venas per biciklo.* | Mu veni **in** bicyclo. | Mu venan **en** biziclo. |
+| *Mi havas libron de amiko.* | Mu have libro **de** amico. | Mu havan libro **di** amico. |
+
