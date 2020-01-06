@@ -291,11 +291,14 @@ Adverboj formiĝas kun **-mente**.
 * **bonamente** *(bone)*
 * **bestialemente** *(bestiale)*
 
-*Neolingua:* Adverboj havas la finaĵon **-e**.
+*Neolingua:* Adverboj havas la finaĵon **-e**. Por esprimi **celon* aŭ *intencon* uziĝas la ŝajnfinaĵo **-i**.
 
 | | Lingua | Neolingua |
 |:-|:-|:-|
-| *tre forta* | **multa** forte | **multe** forta |
+| *tre forta* | multa forte | **multe** forta |
+| *Mi estas hejme.* | Mu esse in domo. | Mu esse **dome**. |
+| *Mi iras hejmen.* | Mu vade ad domo. | Mu vade **domi**. |
+| *Mi iras dormi.* | Mu vade ad dormi. | Mu vade **dormi**. |
 
 #### Verboj
 
