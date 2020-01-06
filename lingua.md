@@ -328,43 +328,31 @@ Por *futuro*, *prezenco*, *preterito* oni povas uzi la frazerojn **vade ad**, **
 | *Mi legis. / Mi estas leginta.* | Mu **veni de** lege. | Mu **legin**. / Mu **essan leginta**. | | |
 | *Legu!* | **Lege!** | **Legen!** |
 
-##### Pasivo
+La *pasivo* estas malregulaj adjektivoj je **-t** aŭ **-s**.
 
-Pere de la sufikso **-t-**, verboj fariĝas adjektivoj, kiuj esprimas ***pasivon***.
+*Neolingua:* La sufiksoj por *pasivo* estas **-ot-**, **-at-**, **-it-**.
 
-* La libro esse ***lecta***. *(La libro legiĝas. La libro estas legata.)*
-* La libro esse ***lecta*** de amico. *(La libro estas legata de amiko.)*
+| | Lingua | Neolingua |
+|:-|:-|:-|
+| *La libro estas legota.* | La libro vade **lecta**. | La libro essan **legota**. |
+| *La libro estas legata.* | La libro esse **lecta**. | La libro essan **legata**. |
+| *La libro estas legita.* | La libro veni **lecta**. | La libro essan **legita**. |
+
+#### Prepozicioj
+
+---
+
+La prepozicio **a** uziĝas por ***akuzativo*** antaŭ ***nomoj*** aŭ ***tra bruo***.
+
+* Mu vidan ***a*** Carla. *(Mi vidas Karlan.)*
+* Mu vidan tu. → Mu vidan ***a*** tu. *(Mi vidas vin.)*
+
 
 *Neolingua:* En ***pasivo***, la prepozicio **de** fariĝas **da**.
 
 * La libro esse lecta ***da*** amico. *(La libro estas legata de amiko.)*
 
-*Paleolingua → Lingua:* Neakcentblaj, verbofinaj **-e** kaj **-i** eliziiĝas. Ofte apartaj formoj uziĝas.
-
-* → *-*: **dicta**, **ducta**, **facta**, **venta**
-* *bt* → *pt*: **scripta**
-* *gt* → *ct*: **acta**, **lecta**, **puncta**
-* *dt* → *s*: **casa**, **clusa**, **pansa**, **prensa**, **vasa**, **visa**
-* *nct* → *ct*: **victa**
-* *ngt* → *ct*: **tacta**
-* *nt* → *ns*: **tensa**
-* *nt* → *sit*: **posita**
-* *tt* → *ss*: **missa**, **sensa**
-* *rrt* → *rs*: **corsa**
-* *rtt* → *rs*: **versa**
-* *vt* → *t*: **mota**
-* *vt* → *ut*: **soluta**, **voluta**
-
-Pasivaj adjektivoj kun la verbo **habe** esprimas ***malproksiman preteriton***.
-
-* La homo ***habe lecta*** la libro. *(La homo legis la libron.)*
-
-La verbo **esse** havas la ***malproksim-preteritan*** adjektivon **stata**. Tiu formo uziĝas kombine kun **esse** anstataŭ **habe**.
-
-* La homo ***habe stata*** ante ad la domo. *(La homo staris antaŭ la domo.)*
-* La homo ***esse stata*** felice. *(La homo estis feliĉa.)*
-
-#### Prepozicioj
+---
 
 Por la lokaj kazoj ***alativo***, ***lokativo***, ***ablativo*** kaj por la ne-lokaj kazoj ***dativo***, ***instrumentalo***, ***genitivo*** uziĝas la prepozicioj **ad**, **in**, **de**. Pere de la prepozicio **ad** formiĝas prepoziciaĵoj.
 
