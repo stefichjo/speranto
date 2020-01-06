@@ -21,15 +21,21 @@ Por *didaktikaj celoj*, duonvokalaj **i** [j] kaj **u** [w] skribiĝas **ĭ** re
 
 | | Pralingua | Lingua | Neolingua |
 |:-|:-|:-|:-|
+| *(trajno)* | **traino** ['traɪnɔ] | **traĭno** ['trajnɔ] | **treno** ['trɛnɔ] |
 | *(oro)* | **auro** ['aʊrɔ] | **aŭro** ['awrɔ] | **oro** ['ɔrɔ] |
 | *(Eŭropo)* | **Europa** [ɛʊ'rɔpa] | **Eŭropa** [ɛw'rɔpa] | **Uropo** [ɛw'rɔpɔ] |
-| *(trajno)* | **traino** ['traɪnɔ] | **traĭno** ['trajnɔ] | **treno** ['trɛnɔ] |
 | | | | |
 | *(besto)* | **bestia** ['bɛstɪa] | **bestĭa** ['bɛstja] | **besto** ['bɛstɔ] |
 | *(lingvo)* | **lingua** ['lɪngʊa] | **lingŭa** ['lɪŋgwa] | **lingo** ['lɪŋgɔ] |
 | *(ke)* | **que** [kʊɛ] | **qŭe** [kwɛ] | **ke** [kɛ] |
 | | | | |
-| | **iusta** [ɪ'ʊsta] | **justa** ['ʒʊsta] | **justa** ['dʒʊsta] |
+| | **iusta** [ɪ'ʊsta] | **ĵusta** ['ʒʊsta] | **justa** ['dʒʊsta] |
+
+*Pralingua:* Por *didaktikaj celoj*, **u** [ʊ] kaj **v** [v] skribiĝis **v** kaj ambaŭ prononciĝis [w].
+
+| | Pralingua | (didaktike) |
+|:-|:-|:-|
+| *(lingvo)* | **lingua** | **lingva** ['lɪngwa] |
 
 * pp, rr, ss
 * ph, th, ch, y
