@@ -322,7 +322,7 @@ Por *futuro*, *prezenco*, *preterito* oni povas uzi la frazerojn **vade ad**, **
 *Neolingua:* La finaĵoj por *futuro*, *prezenco*, *preterito* estas **-on**, **-an**, **-in**. Analogie, la respektivaj participaj aktivaj finaĵoj estas **-onta**, **-anta**, **-inta**. La *imperativa*/*volitiva* verba finaĵoj estas **-en**.
 
 | | Lingua | Neolingua |
-|:-|:-|
+|:-|:-|:-|
 | *Mi legos. / Mi estas legonta.* | Mu **vade ad** lege. | Mu **legon**. / Mu **essan legonta**. |
 | *Mi legas. / Mi estas leganta.* | Mu **sta in** lege. | Mu **legan**. / Mu **essan leganta**. |
 | *Mi legis. / Mi estas leginta.* | Mu **veni de** lege. | Mu **legin**. / Mu **essan leginta**. | | |
