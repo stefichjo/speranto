@@ -2,50 +2,6 @@
 
 ## Gramatiko
 
-### Korelativoj
-
-|**qŭo**|**qŭa**|**qŭessa**|**qŭesma**|**…**|
-|-|-|-|-|-|
-|*(kio)*|*(kiu)*|*(kia, de kiu eco)*|*(kies)*|*…*|
-|**qŭeje**|**qŭande**|**qŭante**|**qŭale**|**qŭare**|
-|*(kie)*|*(kiam, en kiu kazo)*|*(kiom, kion farante)*|*(kiel, laŭ kies maniero)*|*(kial, por fari kion)*|
-
-* **qŭo** *(kio)*
-* **ho** *(jen tio)*
-* **jo** *(ĉi tio)*
-* **to** *(tio)*
-* **lo** *(fore tio)*
-* **no** *(nenio)*
-* **omno** *(ĉio)*
-* **ono** *(io)*
-
-*Novlingŭido:* La korelativoj je **-o** kaj **-a** estas distingataj per unu el sufiksoj ***-aj-*** aŭ ***-ul-***.
-
-* **nula** *(neniu)*
-* **kajo** *(kio)*
-
-### Pronomoj
-
-Pronomoj havas la ŝajnfinaĵon **-u**.
-
-|**mu**|**tu**|**ju**|
-|-|-|-|
-|**nu**|**vu**|**ilu**|
-
-La ingenraj kaj virgenraj triapersonaj pronomoj estas **alu** kaj **olu**, dum la genre neŭtra triapersona pronomo estas **ulu**. Por vivaĵoj ĝenerale estas **lu**. La refleksiva triapersona pronomo estas **su**.
-
-|**alu**|**olu**|**ulu**|**lu**|**su**|
-|-|-|-|-|-|
-
-Pere de la finaĵo **-a** formiĝas posesivaj pronomoj.
-
-* **mua**
-
-### Artikoloj
-
-|**la**|**ja**|**unu**|
-|-|-|-|
-
 ### Radikaj Vortoj
 
 ***Pralingŭismo:*** La finaĵo **-s** signifas **multenombron** por substantivoj kaj adjektivoj .

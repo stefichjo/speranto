@@ -200,7 +200,7 @@ Pronomoj havas la ŝajnfinaĵon **-u**. La persona pronomo **lu** uziĝas por *e
 |:-|:-|:-|
 | *ni* | **ni** | **nu** |
 | *vi* | **vi** | **vu** |
-| *ili* | **li** | **ili** |
+| *ili* | **li** | **ilu** |
 
 Pere de la finaĵo **-a** formiĝas *posesivaj pronomoj*.
 
