@@ -17,7 +17,7 @@ Por *didaktikaj celoj*, duonvokalaj **i** [j] kaj **u** [w] skribiĝas **ĭ** re
 | *(oro)* | **auro** | **aŭro** ['awrɔ] |
 | *(trajno)* | **traino** | **traĭno** ['trajnɔ] |
 
-*Pralingua/Neolingua:* Duonvokalaj **i** [j] kaj **u** [w] estis ne-akcentataj **i** [ɪ] kaj **u** [ʊ] apud alia vokalo. Ili eliziiĝas aŭ monoftongiĝas en **Neolingua**. **j** [ʒ] estis ne-akcentata **i** [ɪ] komence de radiko. Ĝi prononciĝas [dʒ] en **Neolingua**.
+*Pralingua/Neolingua:* Duonvokalaj **i** [j] kaj **u** [w] estis ne-akcentataj **i** [ɪ] kaj **u** [ʊ] apud vokalo. Ili eliziiĝas aŭ monoftongiĝas en **Neolingua**. **j** [ʒ] estis ne-akcentata **i** [ɪ] komence de radiko. Ĝi prononciĝas [dʒ] en **Neolingua**.
 
 | | Pralingua | Lingua | Neolingua |
 |:-|:-|:-|:-|
@@ -31,15 +31,15 @@ Por *didaktikaj celoj*, duonvokalaj **i** [j] kaj **u** [w] skribiĝas **ĭ** re
 | | | | |
 | | **iusta** [ɪ'ʊsta] | **ĵusta** ['ʒʊsta] | **justa** ['dʒʊsta] |
 
-*Pralingua:* Por *didaktikaj celoj*, **u** [ʊ] kaj **v** [v] skribiĝis **v** kaj ambaŭ prononciĝis [w].
+*Pralingua:* Por *didaktikaj celoj*, **u** [ʊ] kaj **v** [v] skribiĝis **V** kaj ambaŭ prononciĝis [w] apud vokalo.
 
 | | Pralingua | (didaktike) |
 |:-|:-|:-|
-| *(lingvo)* | **lingua** | **lingva** ['lɪngwa] |
+| *(lingvo)* | **lingua** | **LINGVA** ['lɪngwa] |
+| *(ke)* | **que** | **QVE** [kwɛ] |
 
 * pp, rr, ss
 * ph, th, ch, y
-
 
 
 ---
