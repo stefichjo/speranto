@@ -29,14 +29,14 @@ Por *didaktikaj celoj*, duonvokalaj **i** [j] kaj **u** [w] skribiĝas **ĭ** re
 | *(lingvo)* | **lingua** ['lɪngʊa] | **lingŭa** ['lɪŋgwa] | **lingo** ['lɪŋgɔ] |
 | *(ke)* | **que** [kʊɛ] | **qŭe** [kwɛ] | **ke** [kɛ] |
 | | | | |
-| | **iusta** [ɪ'ʊsta] | **ĵusta** ['ʒʊsta] | **justa** ['dʒʊsta] |
+| *(ĝusta, justa)* | **iusta** [ɪ'ʊsta] | **ĵusta** ['ʒʊsta] | **justa** ['dʒʊsta] |
 
 *Pralingua:* Por *didaktikaj celoj*, **u** [ʊ] kaj **v** [v] skribiĝis **V** kaj ambaŭ prononciĝis [w] apud vokalo.
 
 | | Pralingua | (didaktike) |
 |:-|:-|:-|
-| *(lingvo)* | **lingua** | **LINGVA** ['lɪngwa] |
-| *(ke)* | **que** | **QVE** [kwɛ] |
+| *(ke)* | **que** [kʊɛ] | **QVE** [kwɛ] |
+| *(ĝusta, justa)* | **iusta** [ɪ'ʊsta] | **IVSTA** ['jʊsta] |
 
 * pp, rr, ss
 * ph, th, ch, y
