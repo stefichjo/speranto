@@ -1,20 +1,12 @@
 # Lingŭido
 
-***Lingŭido*** baziĝas sur [***Lingua***](lingua.md) kaj la [***Internaciaj Ortografioj***](latinidaj/README.md) de la ***Latinidaj Lingvoj***. Pli specife, ***Lingŭido*** baziĝas sur ***Pralingŭido***, kaj ***Pralingŭido*** siavice baziĝas sur ***Neolingua***. Sur ***Lingŭido*** baziĝas [***Piĝino***](pighino.md). El ***Lingŭido*** pruntas [***Piĝino***](pighino.md).
-
-* **centro** [ˈxɛntrɔ] → **zentro** [ˈtsɛntrɔ]
+* **centro** ['xɛntrɔ] → **zentro** ['tsɛntrɔ]
 
 ## Alfabeto
 
-|**a**|**b**|**c**|**d**|**e**|**f**|**g**|**h**|**i**|**ĭ**|**j**|**k**|**l**|**m**|
-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|
-|[a]|[b]|[k]|[d]|[ɛ]|[f]|[g]|[h]|[ɪ]|[j]|[dʒ]|[k]|[l]|[m]|
-|**n**|**o**|**p**|**q**|**r**|**s**|**t**|**u**|**ŭ**|**v**|**w**|**x**|**y**|**z**|
-|[n]|[ɔ]|[p]|[k]|[r]|[s/z]|[t]|[ʊ]|[w]|[v]|[w]|[ks]|[j]|[ts]|
-
 La literoj **w** [w] kaj **y** [j] aperas nur en fremdaj vortoj. **y** [j] kombiniĝas al **cy** [tʃ], **dy** [dʒ], **gy** [dʒ], **sy** [ʃ].
 
-* **Wasyingtono** [waʃɪŋgˈtɔnɔ]
+* **Wasyingtono** [waʃɪŋg'tɔnɔ]
 
 ## Vokaloj
 
@@ -22,74 +14,69 @@ La literoj **w** [w] kaj **y** [j] aperas nur en fremdaj vortoj. **y** [j] kombi
 
 ### Neakcenteblaj i kaj u
 
-Nekcenteblaj **i** [j] kaj **u** [w] skribiĝas **ĭ** kaj **ŭ**.
-
-* **bestia** [ˈbɛstja] → **bestĭo** [ˈbɛstjɔ]
-* **lingua** [ˈlɪŋgwa] → **lingŭo** [ˈlɪŋgwɔ]
-* **que** [kwɛ] → **qŭe** [kwɛ]
 
 *Lingŭido → Novlingŭido:* Neakcenteblaj **ĭ** [j] kaj **ŭ** [w] eliziiĝas.
 
-* **bestĭo** [ˈbɛstjɔ] → **besto** [ˈbɛstɔ]
-* **lingŭo** [ˈlɪŋgwɔ] → **lingo** [ˈlɪŋgɔ]
+* **bestĭo** ['bɛstjɔ] → **besto** ['bɛstɔ]
+* **lingŭo** ['lɪŋgwɔ] → **lingo** ['lɪŋgɔ]
 * **que** [kwɛ] → **ke** [kɛ]
 
 ### Radikokomenca Neakcentebla i
 
 Komence de radiko, neakcentebla **i** [j] fariĝas **j** [dʒ].
 
-* **iusta** [ˈjʊsta] → **justa** [ˈdʒʊsta]
+* **iusta** ['jʊsta] → **justa** ['dʒʊsta]
 * **io** [jɔ] → **jo** [dʒɔ]
 
 *Pralingŭido:* Neakcentebla **i** [j] fariĝas **j** [ʒ] komence de radiko.
 
-* **iura** [ˈjʊra] → **juri** [ˈʒʊrɪ]
+* **iura** ['jʊra] → **juri** ['ʒʊrɪ]
 
 ### Diftongoj
 
 *Novlingŭido:* Neakcenteblaj **ĭ** [j] kaj **ŭ** [w] formas monoftongon kun sia najbara vokalo.
 
-* **aŭro** [ˈawrɔ] → **oro** [ˈɔrɔ]
-* **Eŭropo** [ɛwˈrɔpɔ] → **Uropo** [uˈrɔpɔ]
-* **traĭno** [ˈtrajnɔ] → **treno** [ˈtrɛnɔ]
+* **aŭro** ['awrɔ] → **oro** ['ɔrɔ]
+* **Eŭropo** [ɛw'rɔpɔ] → **Uropo** [u'rɔpɔ]
+* **traĭno** ['trajnɔ] → **treno** ['trɛnɔ]
 
 ## Konsonantoj
 
 Konsonantoj prononciĝas kaj skribiĝas unuoble. Nur **ss** [s] skribiĝas duoble kaj prononciĝas senvoĉe, dum radikofina postvokala **s** [z] prononciĝas voĉe. La finaĵo **-s** [s] prononciĝas senvoĉe.
 
-* **terra** [ˈtɛra] → **tero** [ˈtɛrɔ]
-* **tauro** [ˈtawrɔ] → **taŭro** [ˈtawrɔ]
-* **massa** [ˈmasa] → **masso** [ˈmasɔ]
-* **rosa** [ˈrɔza] → **roso** [ˈrɔzɔ]
-* **rosas** [ˈrɔzas] → **rosos** [ˈrɔzɔs]
+* **terra** ['tɛra] → **tero** ['tɛrɔ]
+* **tauro** ['tawrɔ] → **taŭro** ['tawrɔ]
+* **massa** ['masa] → **masso** ['masɔ]
+* **rosa** ['rɔza] → **roso** ['rɔzɔ]
+* **rosas** ['rɔzas] → **rosos** ['rɔzɔs]
 
 **c** [ç] kaj **t** [θ] fariĝas **z** [ts].
 
-* **centro** [ˈçɛntrɔ] → **zentro** [ˈtsɛntrɔ]
-* **cyclo** [ˈçɪklɔ] → **ziclo** [ˈtsɪklɔ]
-* **spatio** [ˈspaθjɔ] → **spazĭo** [ˈspatsjɔ]
-* **democratīa** [dɛmɔkraˈθɪa] → **democrazio** [dɛmɔkraˈtsɪɔ]
+* **centro** ['çɛntrɔ] → **zentro** ['tsɛntrɔ]
+* **cyclo** ['çɪklɔ] → **ziclo** ['tsɪklɔ]
+* **spatio** ['spaθjɔ] → **spazĭo** ['spatsjɔ]
+* **democratīa** [dɛmɔkra'θɪa] → **democrazio** [dɛmɔkra'tsɪɔ]
 
 Grek-devena **z** [dz] fariĝas **z** [ts].
 
-* **zona** [ˈdzɔna] → **zono** [ˈtsɔnɔ]
+* **zona** ['dzɔna] → **zono** ['tsɔnɔ]
 
 **g** [ɣ] kaj radikokomenca neakcentebla **i** [j] fariĝas j [dʒ].
 
-* **gentile** [ɣɛnˈtɪlɛ] → **jentila** [dʒɛnˈtɪla]
+* **gentile** [ɣɛn'tɪlɛ] → **jentila** [dʒɛn'tɪla]
 
 **b** [v] skribiĝas **v**.
 
-* **scribe** [ˈskrɪvɛ] → **scrivi** [ˈskrɪvɪ]
+* **scribe** ['skrɪvɛ] → **scrivi** ['skrɪvɪ]
 
 *Pralingŭido:* **g** [ɣ] kaj radikokomenca neakcentebla **i** [j] fariĝas j [ʒ].
 
-* **gentile** [ɣɛnˈtɪlɛ] → **jentila** [ʒɛnˈtɪla]
-* **iura** [ˈjʊra] → **juri** [ˈʒʊrɪ]
+* **gentile** [ɣɛn'tɪlɛ] → **jentila** [ʒɛn'tɪla]
+* **iura** ['jʊra] → **juri** ['ʒʊrɪ]
 
 *Novlingŭido:* **h** [h] fariĝas muta.
 
-* **hora** [ˈhɔra] → **oro** [ˈɔrɔ]
+* **hora** ['hɔra] → **oro** ['ɔrɔ]
 
 ## Gramatiko
 

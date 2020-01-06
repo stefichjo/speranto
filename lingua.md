@@ -1,16 +1,51 @@
 # Lingua
 
-***Lingua*** baziĝas sur la ***Latina***. Pli precize, ***Lingua*** baziĝas sur ***Pralingua***, kaj ***Pralingua*** siavice baziĝas sur la ***Latina***. Sur ***Lingua*** baziĝas [***Lingŭido***](linguido.md). El ***Lingua*** pruntas [***Piĝino***](pighino.md).
+***Lingua*** baziĝas sur la ***Latina*** kaj la [***Internaciaj Ortografioj***](latinidaj/README.md) de la ***Latinidaj Lingvoj***. El ***Lingua*** pruntas [***Piĝino***](pighino.md).
 
 ## Alfabeto
+
+|**a**|**b**|**c**|**d**|**e**|**f**|**g**|**h**|**i**|**j**|**k**|**l**|**m**|
+|-|-|-|-|-|-|-|-|-|-|-|-|-|
+|[a]|[b]|[k]/[ç]|[d]|[ɛ]|[f]|[g]/[ɣ]|[h]|[ɪ]/[j]|[dʒ]|[k]|[l]|[m]|
+|**n**|**o**|**p**|**q**|**r**|**s**|**t**|**u**|**v**|**w**|**x**|**y**|**z**|
+|[n]/[ŋ]|[ɔ]|[p]|[k]|[r]|[s]/[z]|[t]|[ʊ]|[v]|[w]|[ks]|[ɪ]/[j]|[ts]|
+
+Por *didaktikaj celoj*, duonvokalaj **i** [j] kaj **u** [w] skribiĝas **ĭ** respektive **ŭ**.
+
+| | Lingua |
+|:-|:-|
+| *(oro)* | **aŭro** ['awrɔ] |
+| *(Eŭropo)* | **Eŭropa** [ɛw'rɔpa] |
+| *(trajno)* | **traĭno** ['trajnɔ] |
+| *(besto)* | **bestĭa** ['bɛstja] |
+| *(lingvo)* | **lingŭa** ['lɪŋgwa] |
+| *(ke)* | **qŭe** [kwɛ] |
+
+* pp, rr, ss
+* ph, th, ch, y
+
+
+
+---
+Neolingua
+
+|**a**|**b**|**c**|**d**|**e**|**f**|**g**|**h**|**i**|**j**|**k**|**l**|**m**|
+|-|-|-|-|-|-|-|-|-|-|-|-|-|
+|[a]|[b]|[k]|[d]|[ɛ]|[f]|[g]|[h]|[ɪ]/[j]|[dʒ]|[k]|[l]|[m]|
+|**n**|**o**|**p**|**q**|**r**|**s**|**t**|**u**|**v**|**w**|**x**|**y**|**z**|
+|[n]|[ɔ]|[p]|[k]|[r]|[s]/[z]|[t]|[ʊ]|[v]|[w]|[ks]|[j]|[ts]|
+
+*Pralingua:*
 
 |**a**|**b**|**c**|**d**|**e**|**f**|**g**|**h**|**i**|**k**|**l**|**m**|
 |-|-|-|-|-|-|-|-|-|-|-|-|
 |[a]|[b]|[k]|[d]|[ɛ]|[f]|[g]|[h]|[ɪ]|[k]|[l]|[m]|
 |**n**|**o**|**p**|**q**|**r**|**s**|**t**|**u**|**v**|**x**|**y**|**z**|
-|[n]|[ɔ]|[p]|[k]|[r]|[s]|[t]|[ʊ]|[v]|[ks]|[y]|[z]|
+|[n]|[ɔ]|[p]|[k]|[r]|[s]|[t]|[ʊ]|[v]|[ks]|[ʏ]|[z]|
 
-La literoj respektive sonoj **k** [k], **y** [y] kaj **z** [z] aperas nur en grek-devenaj fremdvortoj.
+---
+
+La literoj respektive sonoj **k** [k], **y** [ʏ] kaj **z** [z] aperas nur en grek-devenaj fremdvortoj.
 
 * **kilogramma**
 * **systema**
@@ -18,35 +53,35 @@ La literoj respektive sonoj **k** [k], **y** [y] kaj **z** [z] aperas nur en gre
 
 Grek-devenaj **ph**, **th**, **ch** prononciĝas [f], [t], [k].
 
-* **phase** [ˈfasɛ]
-* **thema** [ˈtɛma]
-* **charactere** [karakˈtɛrɛ]
+* **phase** ['fasɛ]
+* **thema** ['tɛma]
+* **charactere** [karak'tɛrɛ]
 
 *Neolingua:* Postvokala radikofina **b** [b] prononciĝas [v].
 
-* **scribe** [ˈskrɪbɛ] → [ˈskrɪvɛ]
-* **habe** [ˈhabɛ] → [ˈhavɛ]
+* **scribe** ['skrɪbɛ] → ['skrɪvɛ]
+* **habe** ['habɛ] → ['havɛ]
 
 *Pralingua:* Per **h** transskribiĝas la grek-devenaj literoj respektive sonoj **ph** [ɸ], **th** [θ], **ch** [⁠x⁠]​.
 
-* **phase** [ˈɸasɛ] → [ˈfasɛ]
-* **thema** [ˈθɛma] → [ˈtɛma]
-* **charactere** [xarakˈtɛrɛ] → [karakˈtɛrɛ]
+* **phase** ['ɸasɛ] → ['fasɛ]
+* **thema** ['θɛma] → ['tɛma]
+* **charactere** [xarak'tɛrɛ] → [karak'tɛrɛ]
 
 ### Vokaloj
 
 *Neolingua:* (Grek-devena) **y** [ʏ] prononciĝas [ɪ].
 
-* **systema** [sʏsˈtɛma] → [sɪsˈtɛma]
+* **systema** [sʏs'tɛma] → [sɪs'tɛma]
 
 ### Duonvokaloj
 
 *Neolingua:* Apudvokalaj aŭ radikofinaj **i** [ɪ] kaj **u** [ʊ] prononciĝas [j] kaj [w]. Apud **u** [ʊ], **i** [ɪ] estas ĝenerale neakcentebla, dum specife apud **q** [k], **u** [ʊ] estas neakcentebla.
 
-* **bestia** [ˈbɛstɪa] → [ˈbɛstja]
-* **aqua** [ˈakʊa] → [ˈakwa]
-* **iusta** [ɪˈʊsta] → [ˈjʊsta]
-* **quin** [kʊˈɪn] → [kwɪn]
+* **bestia** ['bɛstɪa] → ['bɛstja]
+* **aqua** ['akʊa] → ['akwa]
+* **iusta** [ɪ'ʊsta] → ['jʊsta]
+* **quin** [kʊ'ɪn] → [kwɪn]
 
 ### Konsonantoj
 
@@ -56,21 +91,21 @@ Grek-devenaj **ph**, **th**, **ch** prononciĝas [f], [t], [k].
 
 *Neolingua:* Radikofina postvokala **s** [s] prononciĝas [z].
 
-* **naso** [ˈnasɔ] → [ˈnazɔ]
+* **naso** ['nasɔ] → ['nazɔ]
 
 *Neolingua:* Grek-devena **z** prononciĝas [dz].
 
-* **zona** [ˈzɔna] → [ˈdzɔna]
+* **zona** ['zɔna] → ['dzɔna]
 
 *Neolingua:* **c** [k] kaj **g** [g] antaŭ **e** [ɛ] aŭ **i** [ɪ] prononciĝas [ç] respektive [ɣ].
 
-* **centro** [ˈkɛntrɔ] → [ˈçɛntrɔ]
-* **generale** [gɛnɛˈralɛ] → [ɣɛnɛˈralɛ]
+* **centro** ['kɛntrɔ] → ['çɛntrɔ]
+* **generale** [gɛnɛ'ralɛ] → [ɣɛnɛ'ralɛ]
 
 *Neolingua:* **t** [t] antaŭ radikofina **i** prononciĝas [θ].
 
-* **spatio** [ˈspatɪɔ] → ['spaθjɔ]
-* **democratīa** [dɛmɔkraˈtɪa] → [dɛmɔkraˈθɪa]
+* **spatio** ['spatɪɔ] → ['spaθjɔ]
+* **democratīa** [dɛmɔkra'tɪa] → [dɛmɔkra'θɪa]
 
 ## Gramatiko
 
