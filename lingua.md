@@ -8,18 +8,25 @@
 |-|-|-|-|-|-|-|-|-|-|-|-|-|
 |[a]|[b]|[k]/[ç]|[d]|[ɛ]|[f]|[g]/[ɣ]|[h]|[ɪ]/[j]|[dʒ]|[k]|[l]|[m]|
 |**n**|**o**|**p**|**q**|**r**|**s**|**t**|**u**|**v**|**w**|**x**|**y**|**z**|
-|[n]/[ŋ]|[ɔ]|[p]|[k]|[r]|[s]/[z]|[t]|[ʊ]|[v]|[w]|[ks]|[ɪ]/[j]|[ts]|
+|[n]/[ŋ]|[ɔ]|[p]/[f]|[k]|[r]|[s]/[z]|[t]/[θ]|[ʊ]|[v]|[w]|[ks]|[ɪ]/[j]|[ts]|
 
 Por *didaktikaj celoj*, duonvokalaj **i** [j] kaj **u** [w] skribiĝas **ĭ** respektive **ŭ**.
 
-| | Lingua |
-|:-|:-|
-| *(oro)* | **aŭro** ['awrɔ] |
-| *(Eŭropo)* | **Eŭropa** [ɛw'rɔpa] |
-| *(trajno)* | **traĭno** ['trajnɔ] |
-| *(besto)* | **bestĭa** ['bɛstja] |
-| *(lingvo)* | **lingŭa** ['lɪŋgwa] |
-| *(ke)* | **qŭe** [kwɛ] |
+| | | (didaktike) |
+|:-|:-|:-|
+| *(oro)* | **auro** | **aŭro** ['awrɔ] |
+| *(trajno)* | **traino** | **traĭno** ['trajnɔ] |
+
+*Pralingua/Neolingua:* Duonvokalaj **i** [j] kaj **u** [w] estis ne-akcentataj **i** [ɪ] kaj **u** [ʊ] apud alia vokalo.
+
+| | Pralingua | Lingua | Neolingua |
+|:-|:-|:-|:-|
+| *(oro)* | **auro** ['aʊrɔ] | **aŭro** ['awrɔ] | **oro** ['ɔrɔ] |
+| *(Eŭropo)* | **Europa** [ɛʊ'rɔpa] | **Eŭropa** [ɛw'rɔpa] | **Uropo** [ɛw'rɔpɔ] |
+| *(trajno)* | **traino** ['traɪnɔ] | **traĭno** ['trajnɔ] | **treno** ['trɛnɔ] |
+| *(besto)* | **bestia** ['bɛstɪa] | **bestĭa** ['bɛstja] | **besto** ['bɛstɔ] |
+| *(lingvo)* | **lingua** ['lɪngʊa] | **lingŭa** ['lɪŋgwa] | **lingo** ['lɪŋgɔ] |
+| *(ke)* | **que** [kʊɛ] | **qŭe** [kwɛ] | **ke** [kɛ] |
 
 * pp, rr, ss
 * ph, th, ch, y
