@@ -361,13 +361,14 @@ La prepozicio **a** uziĝas por *akuzativo* *antaŭ nomo* / *tra bruo*.
 | *Mi vidas Karlan.* | | Mu vide ***a*** Carla. |
 | *Mi vidas vin.* | Mu vide tu. | Mu vide ***a*** tu. |
 
-Por *alativo*, *lokativo*, *ablativo* uziĝas la prepozicioj **ad**, **in**, **de**.
+Por *alativo*, *lokativo*, *ablativo* uziĝas la prepozicioj **ad**, **in**, **de**. Pere de la prepozicio **ad** formiĝas *prepoziciaĵoj*.
 
 | | |
 |:-|:-|
 | *Mi iras al/ĝis la domo.* | Mu vade **ad** la domo. |
 | *Mi estas ĉe/en la domo.* | Mu esse **in** la domo. |
 | *Mi venas de la domo.* | Mu veni **de** la domo. |
+| *Mi iras ĉirkaŭ la domo.* | Mu vade **circ' ad** la domo. |
 
 Ankaŭ por *dativo*, *instrumentalo*, *genitivo* uziĝas la prepozicioj **ad**, **in**, **de**.
 
@@ -379,21 +380,3 @@ Ankaŭ por *dativo*, *instrumentalo*, *genitivo* uziĝas la prepozicioj **ad**, 
 | *Mi venas per biciklo.* | Mu veni **in** bicyclo. | Mu venan **en** biziclo. |
 | *Mi havas libron de amiko.* | Mu have libro **de** amico. | Mu havan libro **di** amico. |
 
-Pere de la prepozicio **ad** formiĝas *prepoziciaĵoj*.
-
-| | |
-|:-|:-|
-| (ĉirkaŭ domo) | ***circ' ad*** domo |
-
----
-
-*Neolingua:* Por la ne-lokaj kazoj ***dativo***, ***instrumentalo***, ***genitivo*** uziĝas la prepozicioj **al**, **en**, **di** anstataŭ **ad**, **in**, **de**. La substantiva finaĵo en prepoziciaĵoj povas eliziiĝi.
-
-* adiuva ***ad*** → ***al*** amico *(helpo por amiko)*
-* adiuva ***in*** → ***en*** amico *(helpo per amiko)*
-* adiuva ***de*** → ***di*** amico *(helpo de amiko)*
-* circo ***ad*** → ***al*** domo → ***circ'al*** domo *(ĉirkaŭ domo)*
-
-*Neolingua:* La trabruaj akuzativaj prepozicioj **ad** kaj **in** fariĝas **as** kaj **an**. La verba finaĵo antaŭ ili povas eliziiĝi.
-
-* Meu vole ***in*** adiuva ***ad*** teu. → Mu vole ***an*** adiuva ***as*** tu. → Mu ***vol'an*** ***adiuv'as*** tu. *(Mi volas helpi vin.)*
