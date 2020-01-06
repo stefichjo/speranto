@@ -1,6 +1,6 @@
 # Internaciaj Ortografioj de la Latinidaj Lingvoj
 
-Sur la ***Internaciaj Ortografioj*** de la ***Itala***, la ***Franca***, la ***Hispana*** kaj la ***Portugala*** baziĝas [***Lingŭido***](../linguido.md).
+Sur la ***Internaciaj Ortografioj*** de la ***Itala***, la ***Franca***, la ***Hispana*** kaj la ***Portugala*** baziĝas [***Linga***](../lingua.md).
 
 ## La Itala: [Orthographia Italiana](it.md)
 
