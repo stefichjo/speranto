@@ -10,6 +10,13 @@
 |**n**|**o**|**p**|**q**|**r**|**s**|**t**|**u**|**v**|**w**|**x**|**y**|**z**|
 |[n]/[ŋ]|[ɔ]|[p]/[f]|[k]|[r]|[s]/[z]|[t]/[θ]|[ʊ]|[v]|[w]|[ks]|[ɪ]/[j]|[dz]|
 
+*Paleolingua:* Radikofina **v** [v] estis **b** [b].
+
+| | Paleolingua | Lingua | Neolingua |
+|:-|:-|:-|:-|
+| *(skribi)* | **scribe** ['skrɪbɛ] | **scrive** ['skrɪvɛ] | **scrivi** ['skrɪvɪ] |
+| *(havi)* | **habe** ['habɛ] | **have** ['havɛ] | **havi** ['havɪ] |
+
 ### Duoblaj Konsonantoj
 
 Duoblaj konsonantoj estas prononcataj unuoble. **s** [s] prononciĝas [z] inter vokaloj.
@@ -21,7 +28,7 @@ Duoblaj konsonantoj estas prononcataj unuoble. **s** [s] prononciĝas [z] inter 
 | *(tero)* | **terra** ['tɛrra] | **terra** ['tɛra] | **tero** ['tɛrɔ] |
 | *(maso)* | **massa** ['massa] | **massa** ['masa] | **masso** ['masɔ] |
 
-### ...
+### C kaj G
 
 Antaŭ **e** kaj **i**, **c** [k] kaj **g** [g] prononciĝas [ç] respektive [ɣ]. Por *didaktikaj celoj*, ili skribiĝas **ĉ** [ç] respektive **ĝ** [ɣ].
 
@@ -65,7 +72,7 @@ Por *didaktikaj celoj*, duonvokalaj **i** [j] kaj **u** [w] skribiĝas **ĭ** re
 
 | | Paleolingua | Lingua | Neolingua |
 |:-|:-|:-|:-|
-| *(fazo)* | **phase** ['ɸasɛ] | **phase** ['fasɛ] | **faso** ['fasɔ] |
+| *(fazo)* | **phase** ['ɸasɛ] | **phase** ['fazɛ] | **faso** ['fazɔ] |
 | *(temo)* | **thema** ['θɛma] | **thema** ['tɛma] | **temo** ['tɛmɔ] |
 | *(karaktero)* | **charactere** [xarak'tɛrɛ] | **charactere** [karak'tɛrɛ] | **caractero** [karak'tɛrɔ] |
 | *(sistemo)* | **systema** [sʏs'tɛma] | **systema** [sɪs'tɛma] | **sistemo** [sɪs'tɛmɔ] |
@@ -75,17 +82,6 @@ Por *didaktikaj celoj*, duonvokalaj **i** [j] kaj **u** [w] skribiĝas **ĭ** re
 
 ---
 
-*Neolingua:* Postvokala radikofina **b** [b] prononciĝas [v].
-
-* **scribe** ['skrɪbɛ] → ['skrɪvɛ]
-* **habe** ['habɛ] → ['havɛ]
-
-
-### Vokaloj
-
-*Neolingua:* (Grek-devena) **y** [ʏ] prononciĝas [ɪ].
-
-* **systema** [sʏs'tɛma] → [sɪs'tɛma]
 
 ### Duonvokaloj
 
