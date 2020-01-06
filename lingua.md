@@ -17,9 +17,9 @@ Por *didaktikaj celoj*, duonvokalaj **i** [j] kaj **u** [w] skribiĝas **ĭ** re
 | *(oro)* | **auro** | **aŭro** ['awrɔ] |
 | *(trajno)* | **traino** | **traĭno** ['trajnɔ] |
 
-*Pralingua/Neolingua:* Duonvokalaj **i** [j] kaj **u** [w] estis ne-akcentataj **i** [ɪ] kaj **u** [ʊ] apud vokalo. Ili eliziiĝas aŭ monoftongiĝas en **Neolingua**. **j** [ʒ] estis ne-akcentata **i** [ɪ] komence de radiko. Ĝi prononciĝas [dʒ] en **Neolingua**.
+*Paleolingua/Neolingua:* Duonvokalaj **i** [j] kaj **u** [w] estis ne-akcentataj **i** [ɪ] kaj **u** [ʊ] apud vokalo. Ili eliziiĝas aŭ monoftongiĝas en **Neolingua**. **j** [ʒ] estis ne-akcentata **i** [ɪ] komence de radiko. Ĝi prononciĝas [dʒ] en **Neolingua**.
 
-| | Pralingua | Lingua | Neolingua |
+| | Paleolingua | Lingua | Neolingua |
 |:-|:-|:-|:-|
 | *(trajno)* | **traino** ['traɪnɔ] | **traĭno** ['trajnɔ] | **treno** ['trɛnɔ] |
 | *(oro)* | **auro** ['aʊrɔ] | **aŭro** ['awrɔ] | **oro** ['ɔrɔ] |
@@ -31,58 +31,62 @@ Por *didaktikaj celoj*, duonvokalaj **i** [j] kaj **u** [w] skribiĝas **ĭ** re
 | | | | |
 | *(ĝusta, justa)* | **iusta** [ɪ'ʊsta] | **ĵusta** ['ʒʊsta] | **justa** ['dʒʊsta] |
 
-*Pralingua:* Por *didaktikaj celoj*, **u** [ʊ] kaj **v** [v] skribiĝis **V** kaj ambaŭ prononciĝis [w] apud vokalo.
+*Paleolingua:* Por *didaktikaj celoj*, **u** [ʊ] kaj **v** [v] skribiĝis **V** kaj ambaŭ prononciĝis [w] apud vokalo.
 
-| | Pralingua | (didaktike) |
+| | Paleolingua | (didaktike) |
 |:-|:-|:-|
 | *(ke)* | **que** [kʊɛ] | **QVE** [kwɛ] |
 | *(ĝusta, justa)* | **iusta** [ɪ'ʊsta] | **IVSTA** ['jʊsta] |
 
+### Duoblaj Konsonantoj
+
+Duoblaj konsonantoj estas prononcataj unuoble. **s** [s] prononciĝas [z] inter vokaloj.
+
+*Paleolingua:* Duoblaj konsonantoj prononciĝis duoble.
+
+| | Paleolingua | Lingua | Neolingua |
+|:-|:-|:-|:-|
+| *(tero)* | **terra** ['tɛrra] | **terra** ['tɛra] | **tero** ['tɛrɔ] |
+| *(maso)* | **massa** ['massa] | **massa** ['masa] | **masso** ['masɔ] |
+
+### Fremdvortoj
+
+*Paleolingua/Neolingua:*
+
+| | Paleolingua | Lingua | Neolingua |
+|:-|:-|:-|:-|
+| *(kilo)* | **kilo** ['kɪlɔ] | **kilo** ['kɪlɔ] | **kilo** ['kɪlɔ] |
+| *(sistemo)* | **systema** [sʏs'tɛma] | **systema** [sɪs'tɛma] | **sistemo** [sɪs'tɛmɔ] |
+| *(fazo)* | **phase** ['ɸasɛ] | **phase** ['fasɛ] | **faso** ['fasɔ] |
+| *(temo)* | **thema** ['θɛma] | **thema** ['tɛma] | **temo** ['tɛmɔ] |
+| *(karaktero)* | **charactere** [xarak'tɛrɛ] | **charactere** [karak'tɛrɛ] | **caractero** [karak'tɛrɔ] |
+
+
+*Paleolingua:* Per **h** transskribiĝas la grek-devenaj literoj respektive sonoj **ph** [ɸ], **th** [θ], **ch** [⁠x⁠]​.
+
+
+
+
+La literoj respektive sonoj **k** [k], **y** [ʏ] kaj **z** [z] aperas nur en grek-devenaj fremdvortoj. Grek-devenaj **ph**, **th**, **ch** prononciĝas [f], [t], [k].
+
+* **zona**
+* **phase** ['fasɛ]
+* **thema** ['tɛma]
+* **charactere** [karak'tɛrɛ]
+
+
+* c, g
 * pp, rr, ss
 * ph, th, ch, y
 
 
 ---
-Neolingua
-
-|**a**|**b**|**c**|**d**|**e**|**f**|**g**|**h**|**i**|**j**|**k**|**l**|**m**|
-|-|-|-|-|-|-|-|-|-|-|-|-|-|
-|[a]|[b]|[k]|[d]|[ɛ]|[f]|[g]|[h]|[ɪ]/[j]|[dʒ]|[k]|[l]|[m]|
-|**n**|**o**|**p**|**q**|**r**|**s**|**t**|**u**|**v**|**w**|**x**|**y**|**z**|
-|[n]|[ɔ]|[p]|[k]|[r]|[s]/[z]|[t]|[ʊ]|[v]|[w]|[ks]|[j]|[ts]|
-
-*Pralingua:*
-
-|**a**|**b**|**c**|**d**|**e**|**f**|**g**|**h**|**i**|**k**|**l**|**m**|
-|-|-|-|-|-|-|-|-|-|-|-|-|
-|[a]|[b]|[k]|[d]|[ɛ]|[f]|[g]|[h]|[ɪ]|[k]|[l]|[m]|
-|**n**|**o**|**p**|**q**|**r**|**s**|**t**|**u**|**v**|**x**|**y**|**z**|
-|[n]|[ɔ]|[p]|[k]|[r]|[s]|[t]|[ʊ]|[v]|[ks]|[ʏ]|[z]|
-
----
-
-La literoj respektive sonoj **k** [k], **y** [ʏ] kaj **z** [z] aperas nur en grek-devenaj fremdvortoj.
-
-* **kilogramma**
-* **systema**
-* **zona**
-
-Grek-devenaj **ph**, **th**, **ch** prononciĝas [f], [t], [k].
-
-* **phase** ['fasɛ]
-* **thema** ['tɛma]
-* **charactere** [karak'tɛrɛ]
 
 *Neolingua:* Postvokala radikofina **b** [b] prononciĝas [v].
 
 * **scribe** ['skrɪbɛ] → ['skrɪvɛ]
 * **habe** ['habɛ] → ['havɛ]
 
-*Pralingua:* Per **h** transskribiĝas la grek-devenaj literoj respektive sonoj **ph** [ɸ], **th** [θ], **ch** [⁠x⁠]​.
-
-* **phase** ['ɸasɛ] → ['fasɛ]
-* **thema** ['θɛma] → ['tɛma]
-* **charactere** [xarak'tɛrɛ] → [karak'tɛrɛ]
 
 ### Vokaloj
 
@@ -143,7 +147,7 @@ Grek-devenaj **ph**, **th**, **ch** prononciĝas [f], [t], [k].
 * **centesma**
 * **millesma**
 
-*Pralingua → Lingua:*
+*Paleolingua → Lingua:*
 
 * **prima** → **unta**
 * **secunda** → **duta**
@@ -207,7 +211,7 @@ Pere de la finaĵo **-a** formiĝas ***posesivaj pronomoj***.
 
 * ***neia*** libro → ***nia*** libro *(nia libro)*
 
-*Pralingua:* La pronomoj **meu**, **teu** kaj la numeralo **un** sufiksiĝas al verboj kiel **-m**, **-t**, **-n**. Aldona **-s** indikas multenombron.
+*Paleolingua:* La pronomoj **meu**, **teu** kaj la numeralo **un** sufiksiĝas al verboj kiel **-m**, **-t**, **-n**. Aldona **-s** indikas multenombron.
 
 * **amam** *(mi amas)*
   * **amams** *(ni amas)*
@@ -269,25 +273,25 @@ Grek-devenaj neologismoj havas la finaĵojn **-i**, **-īa**, **-a**, **-e**.
 * **photographa** *("lumskribanto", fotografisto)*
 * **photographe** *("lumskribaĵo", fotografaĵo)*
 
-*Pralingua → Lingua:* La vokalo antaŭ la la nombr-indikaj respektive genr-indikaj finaĵoj malaperas.
+*Paleolingua → Lingua:* La vokalo antaŭ la la nombr-indikaj respektive genr-indikaj finaĵoj malaperas.
 
 * **Amicou!** → **Amicu!**
 * **Amicoi!** → **Amici!**
 * **Amicoa!** → **Amica!**
 * **Amicoo!** → **Amico!**
 
-*Pralingua → Lingua:* La substantivaj finaĵoj **-i** kaj **-u** fariĝas **-e** kaj **-o**.
+*Paleolingua → Lingua:* La substantivaj finaĵoj **-i** kaj **-u** fariĝas **-e** kaj **-o**.
 
 * **mari** → **mare** *(maro)*
 * **manu** → **mano** *(mano)*
 
-*Pralingua → Lingua:* La neakcenteblaj sufiksoj **-in-**, **-it-** kaj **-ul-** eliziiĝas.
+*Paleolingua → Lingua:* La neakcenteblaj sufiksoj **-in-**, **-it-** kaj **-ul-** eliziiĝas.
 
 * **nomĭne** → **nome** *(nomo)*
 * **limĭte** → **lime** *(limo)*
 * **particŭla** → **particla** *(partiklo)*
 
-*Pralingua → Lingua:* Substantivoj (derivitaj de [participoj](#participoj)) je **-u** kaj **-ione** cedas al la malpli specifaj formoj je **-o** kaj **-īo**.
+*Paleolingua → Lingua:* Substantivoj (derivitaj de [participoj](#participoj)) je **-u** kaj **-ione** cedas al la malpli specifaj formoj je **-o** kaj **-īo**.
 
 * **statu** → **stato** *("stariĝo": statuso)*
   * **statura** *("stariĝaĵo": staturo)*
@@ -341,7 +345,7 @@ Pere de la sufikso **-t-**, verboj fariĝas adjektivoj, kiuj esprimas ***pasivon
 
 * La libro esse lecta ***da*** amico. *(La libro estas legata de amiko.)*
 
-*Pralingua → Lingua:* Neakcentblaj, verbofinaj **-e** kaj **-i** eliziiĝas. Ofte apartaj formoj uziĝas.
+*Paleolingua → Lingua:* Neakcentblaj, verbofinaj **-e** kaj **-i** eliziiĝas. Ofte apartaj formoj uziĝas.
 
 * → *-*: **dicta**, **ducta**, **facta**, **venta**
 * *bt* → *pt*: **scripta**
