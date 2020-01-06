@@ -17,16 +17,19 @@ Por *didaktikaj celoj*, duonvokalaj **i** [j] kaj **u** [w] skribiĝas **ĭ** re
 | *(oro)* | **auro** | **aŭro** ['awrɔ] |
 | *(trajno)* | **traino** | **traĭno** ['trajnɔ] |
 
-*Pralingua/Neolingua:* Duonvokalaj **i** [j] kaj **u** [w] estis ne-akcentataj **i** [ɪ] kaj **u** [ʊ] apud alia vokalo.
+*Pralingua/Neolingua:* Duonvokalaj **i** [j] kaj **u** [w] estis ne-akcentataj **i** [ɪ] kaj **u** [ʊ] apud alia vokalo. Ili eliziiĝas aŭ monoftongiĝas en **Neolingua**. **j** [ʒ] estis ne-akcentata **i** [ɪ] komence de radiko. Ĝi prononciĝas [dʒ] en **Neolingua**.
 
 | | Pralingua | Lingua | Neolingua |
 |:-|:-|:-|:-|
 | *(oro)* | **auro** ['aʊrɔ] | **aŭro** ['awrɔ] | **oro** ['ɔrɔ] |
 | *(Eŭropo)* | **Europa** [ɛʊ'rɔpa] | **Eŭropa** [ɛw'rɔpa] | **Uropo** [ɛw'rɔpɔ] |
 | *(trajno)* | **traino** ['traɪnɔ] | **traĭno** ['trajnɔ] | **treno** ['trɛnɔ] |
+| | | | |
 | *(besto)* | **bestia** ['bɛstɪa] | **bestĭa** ['bɛstja] | **besto** ['bɛstɔ] |
 | *(lingvo)* | **lingua** ['lɪngʊa] | **lingŭa** ['lɪŋgwa] | **lingo** ['lɪŋgɔ] |
 | *(ke)* | **que** [kʊɛ] | **qŭe** [kwɛ] | **ke** [kɛ] |
+| | | | |
+| | **iusta** [ɪ'ʊsta] | **justa** ['ʒʊsta] | **justa** ['dʒʊsta] |
 
 * pp, rr, ss
 * ph, th, ch, y
