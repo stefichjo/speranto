@@ -236,7 +236,6 @@ La ŝajnfinaĵo de substantivo povas eliziiĝi.
 |:-|:-|
 | *man-en-mane* | **man'** in mano |
 
-
 *Neolingua:* Substantivoj havas la finaĵon **-o**.
 
 | | Lingua | Neolingua |
@@ -387,10 +386,6 @@ Pere de la prepozicio **ad** formiĝas *prepoziciaĵoj*.
 | (ĉirkaŭ domo) | ***circ' ad*** domo |
 
 ---
-
-Tra bruo, la alativa prepozicio **ad** uziĝas por ***akuzativo***. Post ***helpaj verboj*** uziĝas la lokativa prepozicio **in**.
-
-* Meu vole adiuva teu. → Meu vole ***in*** adiuva ***ad*** teu. *(Mi volas helpi vin.)*
 
 *Neolingua:* Por la ne-lokaj kazoj ***dativo***, ***instrumentalo***, ***genitivo*** uziĝas la prepozicioj **al**, **en**, **di** anstataŭ **ad**, **in**, **de**. La substantiva finaĵo en prepoziciaĵoj povas eliziiĝi.
 
