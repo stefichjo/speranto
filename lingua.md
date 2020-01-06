@@ -45,7 +45,7 @@ Antaŭ **e** kaj **i**, **c** [k] kaj **g** [g] prononciĝas [ç] respektive [ɣ
 
 Por *didaktikaj celoj*, duonvokalaj **i** [j] kaj **u** [w] skribiĝas **ĭ** respektive **ŭ**.
 
-*Paleolingua/Neolingua:* Duonvokalaj **i** [j] kaj **u** [w] estis ne-akcentataj **i** [ɪ] kaj **u** [ʊ] apud vokalo. Ili eliziiĝas aŭ monoftongiĝas en ***Neolingua***. **j** [ʒ] estis ne-akcentata **i** [ɪ] komence de radiko. Ĝi prononciĝas [dʒ] en ***Neolingua***. **t** [t] antaŭ radikofina **i** prononciĝas [θ] kaj fariĝas **z** [ts] en ***Neolingua***. En grek-devenaj vortoj, radikofina **i** estas akcentebla. Por *didaktikaj celoj*, **i** tiam skribiĝas **ī**. **st** [st] restas senŝanĝa.
+*Paleolingua/Neolingua:* Duonvokalaj **i** [j] kaj **u** [w] estis ne-akcentataj **i** [ɪ] kaj **u** [ʊ] apud vokalo. Ili eliziiĝas aŭ monoftongiĝas en ***Neolingua***. **j** [ʒ] estis ne-akcentata **i** [ɪ] komence de radiko. Ĝi prononciĝas [dʒ] en ***Neolingua***. **t** [t] antaŭ radikofina **i** prononciĝas [θ] kaj fariĝas **z** [ts] en ***Neolingua***. Por *didaktikaj celoj*, kiam radikofina **i** estas akcentata, **i** skribiĝas **ī**. **st** [st] restas senŝanĝa.
 
 | | Paleolingua | Lingua | Neolingua |
 |:-|:-|:-|:-|
@@ -60,6 +60,7 @@ Por *didaktikaj celoj*, duonvokalaj **i** [j] kaj **u** [w] skribiĝas **ĭ** re
 | *ĝusta, justa* | **iusta** [ɪ'ʊsta] | **ĵusta** ['ʒʊsta] | **justa** ['dʒʊsta] |
 | | | | |
 | *spaco* | **spatio** ['spatɪɔ] | **spatĭo** ['spaθjɔ] | **spazo** ['spatsɔ] |
+| *lekcio* | **lectione** [lɛktɪ'ɔnɛ] | **lectīo** [lɛk'θɪɔ] | **lezio** [lɛ'tsɪɔ] |
 | *demokratio* | **democratia** [dɛmɔkra'tɪa] | **democratīa** [dɛmɔkra'θɪa] | **democrazio** [dɛmɔkra'tsɪɔ] |
 
 *Paleolingua:* Por *didaktikaj celoj*, **u** [ʊ] kaj **v** [v] skribiĝis **V** kaj ambaŭ prononciĝis [w] apud vokalo.
@@ -202,7 +203,7 @@ Pronomoj havas la ŝajnfinaĵon **-u**. La persona pronomo **lu** uziĝas por *e
 | *vi* | **vi** | **vu** |
 | *ili* | **li** | **ilu** |
 
-Pere de la finaĵo **-a** formiĝas *posesivaj pronomoj*.
+Pere de la ŝajnfinaĵo **-a** formiĝas *posesivaj pronomoj*.
 
 * **mua** domo *(mia domo)*
 
@@ -210,58 +211,47 @@ Pere de la finaĵo **-a** formiĝas *posesivaj pronomoj*.
 
 #### Substantivoj
 
-Substantivoj havas la **vir-genran ablativan** formon el la ***Latina***. Nomoj kaj terminoj havas sian specifan **nominativan** formon.
+Substantivoj havas la *vir-genran ablativan* formon el la ***Latina***. Nomoj kaj terminoj havas sian specifan *nominativan* formon.
 
 * **amico** *(amiko)*
 * **Iulius** *(Juliuso)*
 * **homo** *(homo)*
 * **data** *(datumoj)*
 * **datum** *(dato)*
+* **status** *(statuso)*
 
-Substantivoj estas baze nombre kaj genre neŭtraj, t.e. ili ne distingiĝas laŭ ununombro aŭ multenombro aŭ laŭ in-genro aŭ vir-genro. Nur en vokativo eblas esprimi nombron per la finaĵo **-u** por ***ununombro*** aŭ per la finaĵo **-i** por ***multenombro*** respektive genron per la finaĵo **-a** por ***in-genro*** aŭ per la finaĵo **-o** por ***vir-genro***.
+Substantivoj estas baze nombre kaj genre *neŭtraj*, t.e. ili ne distingiĝas laŭ *nombro* aŭ *genro*. Nur en *vokativo* eblas esprimi nombron per la finaĵo **-u** por ***ununombro*** aŭ per la ŝajnfinaĵo **-i** por *multenombro* respektive *genron* per la ŝajnfinaĵo **-a** por *in-genro* aŭ per la ŝajnfinaĵo **-o** por *vir-genro*.
 
-|**Amicu!**|**Amica!**|
-|-|-|
-|*(Amiko!)*|*(Amikino!)*|
-|**Amici!**|**Amico!**|
-|*(Amikoj!)*|*(Vir-amiko!)*|
+| | | | |
+|-|-|-|-|
+|**Amicu!**|**Amici!**|**Amica!**|**Amico!**|
+|*(Amiko!)*|*(Amikoj!)*|*(Amikino!)*|*(Vir-amiko!)*|
 
-Substantivoj derivitaj de [participoj](#participoj) havas finaĵojn je **-o** aŭ **-īo**.
+*Paleolingua:* Kelkaj latin-devenaj ŝajnfinaĵoj de substantivoj ŝanĝiĝis.
 
-* **stato** *("staro": stato, "stariĝo": statuso)*
-  * **statore** *("staranto": statoro)*
-* **lectīo** *("legado": lekcio, "legadaĵo": leciono)*
+| | Paleolingua | Lingua |
+|:-|:-|:-|
+| *nomo* | **nomine** [nɔ'mɪnɛ] | **nome** ['nɔmɛ] |
+| *limo* | **limite** [lɪ'mɪtɛ] | **lime** ['lɪmɛ] |
+| *maro* | **mari** ['marɪ] | **mare** ['marɛ] |
+| *mano* | **manu** ['manʊ] | **mano** ['manɔ] |
+| *stacio* | **statione** [statɪ'ɔnɛ] | **statīo** [sta'θɪɔ] |
+| *partiklo* | **particŭla** [par'tɪkʊla] | **particla** [par'tɪkla] |
 
-Grek-devenaj neologismoj havas la finaĵojn **-i**, **-īa**, **-a**, **-e**.
+La ŝajnfinaĵoj **-īo**, **-o**, **-ore**, **-ura** aperas ĉe *participoj* kaj ili signifo similas al la grek-devenaj ŝajnfinaĵoj **-i**, **-īa**, **-a**, **-e**.
 
-* **photographi** *("lumskribado", fotografado)*
-* **photographīa** *("lumskribarto", fotografio)*
-* **photographa** *("lumskribanto", fotografisto)*
-* **photographe** *("lumskribaĵo", fotografaĵo)*
+| | |
+|:-|:-|
+| *("lumskribado", fotografado)* | **photographi** |
+| *("lumskribmaniero", fotografio)* | **photographīa** |
+| *("lumskribanto", fotografisto)* | **photographa** |
+| *("lumskribaĵo", fotografaĵo)* | **photographe** |
+| | |
+| *("starado", stacio)* | **statīo** |
+| *("starmaniero", staro)* | **stato** |
+| *("staranto", statoro)* | **statore** |
+| *("staraĵo", staturo)* | **statura** |
 
-*Paleolingua → Lingua:* La vokalo antaŭ la la nombr-indikaj respektive genr-indikaj finaĵoj malaperas.
-
-* **Amicou!** → **Amicu!**
-* **Amicoi!** → **Amici!**
-* **Amicoa!** → **Amica!**
-* **Amicoo!** → **Amico!**
-
-*Paleolingua → Lingua:* La substantivaj finaĵoj **-i** kaj **-u** fariĝas **-e** kaj **-o**.
-
-* **mari** → **mare** *(maro)*
-* **manu** → **mano** *(mano)*
-
-*Paleolingua → Lingua:* La neakcenteblaj sufiksoj **-in-**, **-it-** kaj **-ul-** eliziiĝas.
-
-* **nomĭne** → **nome** *(nomo)*
-* **limĭte** → **lime** *(limo)*
-* **particŭla** → **particla** *(partiklo)*
-
-*Paleolingua → Lingua:* Substantivoj (derivitaj de [participoj](#participoj)) je **-u** kaj **-ione** cedas al la malpli specifaj formoj je **-o** kaj **-īo**.
-
-* **statu** → **stato** *("stariĝo": statuso)*
-  * **statura** *("stariĝaĵo": staturo)*
-* **legĕtione** → **lectīo** *("legadaĵo": leciono)*
 
 #### Adjektivoj
 
