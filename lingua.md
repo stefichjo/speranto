@@ -95,18 +95,18 @@ La literoj **w** [w] kaj **y** [j] aperas nur en fremdaj vortoj. **y** [j] kombi
 
 | | numeralo | ordinalo |
 |:-|:-|:-|
-| *unu* | **un** | **unesma** |
-| *du* | **du** | **duesma** |
-| *tri* | **tri** | **triesma** |
-| *kvar* | **quar** | **quaresma** |
-| *kvin* | **quin** | **quinesma** |
-| *ses* | **six** | **sixesma** |
-| *sep* | **sep** | **sepesma** |
-| *ok* | **oc** | **ocesma** |
-| *naŭ* | **nau** | **nauesma** |
-| *dek* | **dec** | **decesma** |
-| *cent* | **cent** | **centesma** |
-| *mil* | **mill** | **millesma** |
+| *1* | **un** | **unesma** |
+| *2* | **du** | **duesma** |
+| *3* | **tri** | **triesma** |
+| *4* | **quar** | **quaresma** |
+| *5* | **quin** | **quinesma** |
+| *6 * | **six** | **sixesma** |
+| *7* | **sep** | **sepesma** |
+| *8* | **oc** | **ocesma** |
+| *9* | **nau** | **nauesma** |
+| *10* | **dec** | **decesma** |
+| *100* | **cent** | **centesma** |
+| *1000* | **mill** | **millesma** |
 
 Intervaloj esprimiĝas per la sufikso **-t-**.
 
@@ -116,48 +116,62 @@ Intervaloj esprimiĝas per la sufikso **-t-**.
 
 | | Paleolingua | Lingua |
 |:-|:-|:-|
-| *unua* | **prima** | **unesma** |
-| *dua* | **secunda** | **duesma** |
-| *tria* | **tertia** | **triesma** |
-| *kvara* | **quarta** | **quaresma** |
+| *1-a* | **prima** | **unesma** |
+| *2-a* | **secunda** | **duesma** |
+| *3-a* | **tertia** | **triesma** |
+| *4-a* | **quarta** | **quaresma** |
 
 ### Korelativoj
+
+Korelativoj havas la ŝajnfinaĵojn **-o**, **-a**, **-e** kaj **-i**.
 
 |**-o**|**-a**|**-e**|**-i**|
 |-|-|-|-|
 |**quo**|**qua**|**que**|**qui**|
-|*(kio)*|*(kia)*|*(kie)*|*(kien)*|
+|*(kio)*|*(kia)*|*(kiel)*|*(kien)*|
 |**ho**|**ha**|**he**|**hi**|
-|*(jen tio)*|*(jen tia)*|*(jen tie)*|*(jen tien)*|
+|*(jen tio)*|*(jen tia)*|*(jen tiel)*|*(jen tien)*|
 |**io**|**ia**|**ie**|**ii**|
-|*(ĉi tio)*|*(ĉi tia)*|*(ĉi tie)*|*(ĉi tien)*|
+|*(ĉi tio)*|*(ĉi tia)*|*(ĉi tiel)*|*(ĉi tien)*|
 |**to**|**ta**|**te**|**ti**|
-|*(tio)*|*(tia)*|*(tie)*|*(tien)*|
+|*(tio)*|*(tia)*|*(tiel)*|*(tien)*|
 |**lo**|**la**|**le**|**li**|
-|*(fore tio)*|*(fore tia)*|*(fore tie)*|*(fore tien)*|
+|*(fore tio)*|*(fore tia)*|*(fore tiel)*|*(fore tien)*|
 |**no**|**na**|**ne**|**ni**|
-|*(nenio)*|*(nenia)*|*(nenie)*|*(nenien)*|
+|*(nenio)*|*(nenia)*|*(neniel)*|*(nenien)*|
 |**omno**|**omna**|**omne**|**omni**|
-|*(ĉio)*|*(ĉia)*|*(ĉie)*|*(ĉien)*|
+|*(ĉio)*|*(ĉia)*|*(ĉiel)*|*(ĉien)*|
 |**ono**|**ona**|**one**|**oni**|
-|*(io)*|*(ia)*|*(ie)*|*(ien)*|
+|*(io)*|*(ia)*|*(iel)*|*(ien)*|
 
-Substantivoj sekvas korelativojn.
+*Paleolingua:* Anstataŭ la ŝajnfinaĵo **-i** uziĝis la prepozicio **ad**.
 
-* ***omna*** homo *(ĉia homo)*
+| | Paleolingua | Lingua |
+|:-|:-|:-|
+| *Kie vi estas?* | **Que esse teu?** | **Que esse tu?** |
+| *Kien vi iras?* | **Ad que vade teu?** | **Qui vade tu?** |
 
-Kvankam estas gramatike ĝuste uzi korelativon je **-o**, por ***personoj***, preferiĝas uzi korelativon je **-a** por indiki ***identon***. Korelativoj je **-a** uziĝas ankaŭ por indiki ***posedon***.
+Korelativoj havas fakte pli ampleksajn signifojn. **-o** povas esti pri *afero* aŭ *persono*. **-a** povas esti pri *speco* aŭ *posedo*/*origino*. **-e** povas esti pri *loko*, *maniero*, *graveco*/*kvanto*, *intenco*. **-i** estas pri *celo*/*intenco*, ĉu de movo aŭ ago. Pere de ŝajnsufiksoj eblas formi pli specifajn korelativojn.
 
-* ***Qua*** esse in la domo? *(Kiu estas en la domo?)*
-* ***Qua libro esse?*** *(Kies libro estas?)*
+| | |
+|:-|:-|
+| *kiu (afero), kio* | **quajo** |
+| *kiu (persono), kiu* | **quulo** |
+| | |
+| *kiuspeca, kia* | **quessa** |
+| *de kiu/kio/kie, kies* | **quesma** |
+| | |
+| *kiuloke, kie* | **queje** |
+| *kiutempe, kiam* | **quande** |
+| *kiukvante, kiom* | **quante** |
+| *kiumaniere, kiel* | **quale** |
+| *kiuintence, kial* | **quare** |
 
-La korelativoj je **-e** uziĝas ankaŭ por indiki ***tempon***, ***kaŭzon***, ***mezuron*** kaj ***manieron***.
+Anstataŭ **quo** por *persono*, eblas uzi **qua persona** aŭ nur **qua**.
 
-* ***Que vade?*** *(Kiel vi fartas?)*
+* *(Kiu venas?)* **Quo vene?** → **Qua (persona) vene?**
 
-Kombine kun substantivoj estas formeblaj pli specifaj korelativaĵoj.
-
-* in qua ***loco***? *(en kiu loko?, kie?)*
+---
 
 La korelativo **la** uziĝas ankaŭ kiel difina ***artikolo***. La korelativo **que** uziĝas kiel ***konjunkcio*** por subfrazoj. La korelativo **ne** uziĝas kiel nea ***adverbo***.
 
