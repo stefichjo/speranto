@@ -343,16 +343,18 @@ La *pasivo* estas malregulaj adjektivoj je **-t** aŭ **-s**. (Kaj **esse** *(es
 
 Per **de** oni povas indiki la *aganton* en *pasivo*.
 
-*Neolingua:* En ***pasivo***, la prepozicio **de** fariĝas **da**.
+*Neolingua:* En *pasivo*, la prepozicio **de** fariĝas **da**.
 
 | | Lingua | Neolingua |
 |:-|:-|:-|
 | *(La libro estas legata de amiko.)* | La libro sta lecta **de** amico. | La libro essan legata **da** amico. |
 
-La prepozicio **a** uziĝas por ***akuzativo*** antaŭ ***nomoj*** aŭ ***tra bruo***.
+La prepozicio **a** uziĝas por *akuzativo* *antaŭ nomo* / *tra bruo*.
 
-* Mu vide ***a*** Carla. *(Mi vidas Karlan.)*
-* Mu vide tu. → Mu vidan ***a*** tu. *(Mi vidas vin.)*
+| | Lingua | (antaŭ nomo) / (tra bruo) |
+|:-|:-|:-|
+| *Mi vidas Karlan.* | | Mu vide ***a*** Carla. |
+| *Mi vidas vin.* | Mu vide tu. | Mu vide ***a*** tu. |
 
 ---
 
