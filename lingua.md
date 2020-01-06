@@ -304,10 +304,6 @@ Adverboj formiĝas kun **-mente**.
 
 Verboj havas la infinitivan formon sen **-re**.
 
-* **ama** *(ami)*
-* **vide** *(vidi)*
-* **senti** *(senti)*
-
 *Paleolingua:* Infinitivoj havis la ŝajnfinaĵon **-re**. En **Neolingua**, la infinitiva finaĵo estas **-i**.
 
 | | Paleolingua | Lingua | Neolingua |
@@ -316,15 +312,13 @@ Verboj havas la infinitivan formon sen **-re**.
 | *vidi* | **videre** | **vide** | **vidi** |
 | *senti* | **sentire** | **senti** | **senti** |
 
----
-
-##### Proksimaj Tempoj
-
 La tempe proksimaj ***futuro***, ***prezenco***, ***preterito*** esprimiĝas per la verboj **vade**, **sta**, **veni** kun la prepozicioj **ad**, **in**, **de**.
 
-* Meu ***vade ad*** lege. *(Mi estas legonta.)*
-* Meu ***sta in*** lege. *(Mi estas leganta.)*
-* Meu ***veni de*** lege. *(Mi estas leginta.)*
+| | |
+|:-|:-|
+| *Mi estas legonta.* | Mu **vade ad** lege. |
+| *Mi estas leganta.* | Mu **sta in** lege. |
+| *Mi estas legonta.* | Mu **veni de** lege. |
 
 ##### Pasivo
 
