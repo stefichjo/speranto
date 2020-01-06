@@ -1,13 +1,5 @@
 # Lingŭido
 
-## Gramatiko
-
-### Radikaj Vortoj
-
-#### Adverboj
-
-#### Verboj
-
 |**lavoron**|**lavoran**|**lavorin**|
 |-|-|-|
 |*(laboros)*|*(laboras)*|*(laboris)*|
@@ -24,7 +16,6 @@
 
 * Mu ***vol'an*** tu. → Mu ***volan*** tu. *(Mi volas vin.)*
 
-#### Prepozicioj
 
 La prepozicio **a** uziĝas por ***akuzativo*** antaŭ ***nomoj*** aŭ ***tra bruo***.
 

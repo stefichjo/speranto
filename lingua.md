@@ -291,34 +291,40 @@ Adverboj formiĝas kun **-mente**.
 * **bonamente** *(bone)*
 * **bestialemente** *(bestiale)*
 
-*Neolingua:* Adverboj havas la finaĵon **-e**. Por esprimi **celon* aŭ *intencon* uziĝas la ŝajnfinaĵo **-i**.
+*Neolingua:* Adverboj havas la finaĵon **-e**. Por esprimi *celon* uziĝas la ŝajnfinaĵo **-i**.
 
 | | Lingua | Neolingua |
 |:-|:-|:-|
 | *tre forta* | multa forte | **multe** forta |
 | *Mi estas hejme.* | Mu esse in domo. | Mu esse **dome**. |
 | *Mi iras hejmen.* | Mu vade ad domo. | Mu vade **domi**. |
-| *Mi iras dormi.* | Mu vade ad dormi. | Mu vade **dormi**. |
 
 #### Verboj
 
 Verboj havas la infinitivan formon sen **-re**.
 
-*Paleolingua:* Infinitivoj havis la ŝajnfinaĵon **-re**. En **Neolingua**, la infinitiva finaĵo estas **-i**.
+*Paleolingua/Neolingua:* Infinitivoj havis la ŝajnfinaĵon **-re**. En **Neolingua**, la infinitiva finaĵo estas **-ar'**. *Tra bruo*, **-ar'** fariĝas **-as'**.
 
-| | Paleolingua | Lingua | Neolingua |
-|:-|:-|:-|:-|
-| *ami* | **amare** | **ama** | **ami** |
-| *vidi* | **videre** | **vide** | **vidi** |
-| *senti* | **sentire** | **senti** | **senti** |
+| | Paleolingua | Lingua | Neolingua | (tra bruo) |
+|:-|:-|:-|:-|:-|
+| *ami* | **amare** | **ama** | **amar'** | **amas'** |
+| *vidi* | **videre** | **vide** | **vidar'** | **vidas'** |
+| *senti* | **sentire** | **senti** | **sentar'** | **sentas'** |
 
-La tempe proksimaj ***futuro***, ***prezenco***, ***preterito*** esprimiĝas per la verboj **vade**, **sta**, **veni** kun la prepozicioj **ad**, **in**, **de**.
+*Tra bruo*, uziĝas la *instrumentala* prepozicio **en** antaŭ infinitivo.
 
-| | |
+| *Mi volas helpi vin.* | **Mu vole adiuva tu.** | **Mu vole en adiuva tu.** |
+
+Por *futuro*, *prezenco*, *preterito* oni povas uzi la frazerojn **vade ad**, **sta in**, **veni de**.
+
+*Neolingua:* La finaĵoj por *futuro*, *prezenco*, *preterito* estas **-on**, **-an**, **-in**. Analogie, la respektivaj participaj aktivaj finaĵoj estas **-onta**, **-anta**, **-inta**. La *imperativa*/*volitiva* verba finaĵoj estas **-en**.
+
+| | Lingua | Neolingua |
 |:-|:-|
-| *Mi estas legonta.* | Mu **vade ad** lege. |
-| *Mi estas leganta.* | Mu **sta in** lege. |
-| *Mi estas legonta.* | Mu **veni de** lege. |
+| *Mi legos. / Mi estas legonta.* | Mu **vade ad** lege. | Mu **legon**. / Mu **essan legonta**. |
+| *Mi legas. / Mi estas leganta.* | Mu **sta in** lege. | Mu **legan**. / Mu **essan leganta**. |
+| *Mi legis. / Mi estas leginta.* | Mu **veni de** lege. | Mu **legin**. / Mu **essan leginta**. | | |
+| *Legu!* | **Lege!** | **Legen!** |
 
 ##### Pasivo
 
@@ -346,8 +352,6 @@ Pere de la sufikso **-t-**, verboj fariĝas adjektivoj, kiuj esprimas ***pasivon
 * *rtt* → *rs*: **versa**
 * *vt* → *t*: **mota**
 * *vt* → *ut*: **soluta**, **voluta**
-
-##### Malproksimaj Tempoj
 
 Pasivaj adjektivoj kun la verbo **habe** esprimas ***malproksiman preteriton***.
 
