@@ -67,7 +67,7 @@ Por *didaktikaj celoj*, duonvokalaj **i** [j] kaj **u** [w] skribiĝas **ĭ** re
 
 | | Paleolingua | (didaktike) |
 |:-|:-|:-|
-| *akvo* | **aqua** ['akʊɔ] | **AQVA** ['akwɔ] |
+| *akvo* | **aqua** ['akʊa] | **AQVA** ['akwa] |
 | *ĵuri* | **iura** [ɪ'ʊra] | **IVRA** ['jʊra] |
 
 ### Fremdaj Vortoj
