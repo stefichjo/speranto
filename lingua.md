@@ -254,15 +254,15 @@ La ŝajnfinaĵoj **-īo**, **-o**, **-ore**, **-ura** aperas ĉe *participoj* ka
 
 | | |
 |:-|:-|
-| *("lumskribado", fotografado)* | **photographi** |
-| *("lumskribmaniero", fotografio)* | **photographīa** |
-| *("lumskribanto", fotografisto)* | **photographa** |
-| *("lumskribaĵo", fotografaĵo)* | **photographe** |
+| *"lumskribado", fotografado* | **photographi** |
+| *"lumskribmaniero", fotografio* | **photographīa** |
+| *"lumskribanto", fotografisto* | **photographa** |
+| *"lumskribaĵo", fotografaĵo* | **photographe** |
 | | |
-| *("starado", stacio)* | **statīo** |
-| *("starmaniero", staro)* | **stato** |
-| *("staranto", statoro)* | **statore** |
-| *("staraĵo", staturo)* | **statura** |
+| *"starado", stacio* | **statīo** |
+| *"starmaniero", staro* | **stato** |
+| *"staranto", statoro* | **statore** |
+| *"staraĵo", staturo* | **statura** |
 
 *Paleolingua:* Kelkaj latin-devenaj ŝajnfinaĵoj de substantivoj ŝanĝiĝis.
 

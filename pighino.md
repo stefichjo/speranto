@@ -8,6 +8,17 @@
 
 ## Alfabeto
 
+La ortografio kaj la prononco de ***Piĝino*** baziĝas sur ***Äzyk***. Tial, etimoligiaj skriboj de ***latin***- kaj ***grek***-devenaj vortoj cedas al fonetikaj skriboj de ***slavaj*** vortoj.
+
+| | Äzyk |
+|:-|:-|
+| *koncerto* [kɔn'tsɛrtɔ] | **koncert** |
+| *majo* ['majɔ] | **maj** |
+| *Eŭropo* [ɛwˈrɔpɔ] | **Eŭropa** |
+| *lekcio* [lɛk'tsɪɔ] | **lekcja** |
+
+---
+
 ### Vokaloj
 
 ### Duonvokaloj
@@ -16,7 +27,7 @@
 
 * **taŭro** [ˈtawrɔ]
 * **trajno** [ˈtrajnɔ]
-* **Eŭropa** [ɛwˈrɔpa]
+* **Eŭropo** [ɛwˈrɔpɔ]
 
 #### Neakcenteblaj i kaj u
 
