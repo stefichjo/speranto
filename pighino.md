@@ -24,24 +24,24 @@ Kaze de dubo aŭ pro estetikaj kialoj, oni povas skribi fonetike anstataŭ etimo
 
 ### Latinidaj Vortoj
 
-La **c** [k]/[ts] havas la samajn prononcojn kiel **c** en ***Sprak*** kaj ***Äzyk***.
+La **c** [k]/[c] havas la samajn prononcojn kiel **c** [k]/[c] en ***Sprak*** kaj ***Äzyk***.
 
 | | Sprak | Äzyk | Lingua | Piẑino |
 |:-|:-|:-|:-|:-|
 | *fakto* | **fact** | **fakt** | **facto** | **facto** |
 | *kulturo* | **cultur** | **kultura** | **cultura** | **culturo** |
-| *centro* | **center** | **centr** | **ĉentro** | **centro** |
+| *centro* | **centrum** | **centrum** | **ĉentro** | **centro** |
 | *koncerto* | **concert** | **koncert** | **conĉerto** | **concerto** |
 | *logiko* | **logic** | **logika** | **loĝica** | **logico** |
 
-@
-La prononco [ĉ] de **c** 
+Kvazaŭ alternativo de **c** [c] estas ankaŭ **ĉ** [ĉ].
 
 | | Äzyk | Lingua | Piẑino |
 |:-|:-|:-|:-|
 | | | | |
 | *ĉelo* | **cela** | **ĉella** | **ĉelo** |
 
+---
 * semantika distingilos
 
 | | Äzyk | Lingua | Piẑino |
