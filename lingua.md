@@ -70,6 +70,13 @@ Por *didaktikaj celoj*, duonvokalaj **i** [j] kaj **u** [w] skribiĝas **ĭ** re
 | *akvo* | **aqua** ['akʊa] | **AQVA** ['akwa] |
 | *ĵuri* | **iura** [ɪ'ʊra] | **IVRA** ['jʊra] |
 
+*Archelingua:* **æ** kaj **œ** prononciĝis [ɛ] kaj [œ].
+
+| | Archelingua | Lingua | Neolingua |
+|:-|:-|:-|:-|
+| *enciklopedio* | **encyclopædia** [ɛnkʏklɔpɛ'dɪa] | **encyclopedīa** [ɛnçɪklɔpɛ'dɪa] | **enziclopedio** [ɛntsɪklɔpɛ'dɪɔ] |
+| *federacio* | **fœderatione** [fœdɛratɪ'ɔnɛ] | **federatīo** [fɛdɛra'θɪɔ] | **federazio** [fɛdɛra'tsɪɔ] |
+
 ### Fremdaj Vortoj
 
 *Archelingua/Neolingua:* Grek-devenaj **ph** [f], **th** [t], **ch** [k], **y** [ɪ], **z** [dz] prononciĝis​ [ɸ], [θ], [x], [ʏ], [z]. Grekdevena **z** [dz] fariĝas **z** [ts] en ***Neolingua***.

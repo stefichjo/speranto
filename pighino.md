@@ -4,11 +4,20 @@
 > ---
 > L. L. Zamenhof
 
-***Piĝino*** pruntas elementojn el [***Lingua***](lingua.md), [***Sprak***](sprak.md) kaj [***Äzyk***](jazyk.md). Sen tiu ĉi kunteksto, ***Piĝino*** estas simple — ***Esperanto***.
+***Piĝino*** pruntas elementojn el [***Lingua***](lingua.md), [***Sprak***](sprak.md) kaj [***Äzyk***](jazyk.md). Sen tiu ĉi kunteksto, ***Piĝino*** estas simple ***Esperanto*** kun aldona etymologia skribo.
 
 ## Alfabeto
 
 La ortografia skribo de ***Piĝino*** baziĝas sur ***Lingua***. La fonetika skribo de ***Piĝino*** baziĝas sur ***Äzyk***.
+
+| | Lingua | Äzyk | Piĝino |
+|:-|:-|:-|:-|
+| *fakto* | **facto** | **fakt** | **facto** [fakto] |
+
+
+
+
+---
 
 | | Lingua | Äzyk | Piĝino |
 |:-|:-|:-|:-|
