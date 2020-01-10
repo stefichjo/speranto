@@ -18,12 +18,17 @@ La fonetika skribo de ***Piẑino*** baziĝas sur ***Äzyk***, sed la ortografia
 
 ### Latinidaj Vortoj
 
-| | Äzyk | Lingua | Piẑino |
-|:-|:-|:-|:-|
-| *fakto* | **fakt** | **facto** | **facto** |
-| *kulturo* | **kultura** | **cultura** | **culturo** |
-| *centro* | **centr** | **ĉentro** | **centro** |
-| *koncerto* | **koncert** | **conĉerto** | **concerto** |
+La **c** [k]/[ts] havas la samajn prononcojn kiel **c** en ***Sprak*** kaj ***Äzyk***.
+
+| | Sprak | Äzyk | Lingua | Piẑino |
+|:-|:-|:-|:-|:-|
+| *fakto* | **fact** | **fakt** | **facto** | **facto** |
+| *kulturo* | **cultur** | **kultura** | **cultura** | **culturo** |
+| *centro* | **center** | **centr** | **ĉentro** | **centro** |
+| *koncerto* | **concert** | **koncert** | **conĉerto** | **concerto** |
+| *logiko* | **logic** | **logika** | **loĝica** | **logico** |
+
+---
 
 | | Äzyk | Lingua | Piẑino |
 |:-|:-|:-|:-|
@@ -59,6 +64,10 @@ La fonetika skribo de ***Piẑino*** baziĝas sur ***Äzyk***, sed la ortografia
 |:-|:-|:-|:-|
 | | | | |
 | *maso* | **masa** | **massa** | **masso** |
+
+| | Lingua | Piẑino |
+|:-|:-|:-|
+| *tero* | **terra** | **tero** |
 
 | | Lingua | Piẑino |
 |:-|:-|:-|

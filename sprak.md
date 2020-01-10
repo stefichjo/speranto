@@ -61,6 +61,12 @@ Kiam la radika vokalo de ne-radikaj vortoj aŭ prepozicio estas mallonga, ĝia f
 
 ### Konsonantoj
 
+La prononco de **c** kiel [ts] estas ***trabrua***. Kutime, la pronco [s] sufiĉas.
+
+| | Sprak | (tra bruo) |
+|:-|:-|:-|
+| *centro* | **centrum** ['sɛntrʊm] | ['tsɛntrʊm] |
+
 *Ursprak:* ***Praĝermana*** **sk** fariĝas **sh** [ʃ] en ***Sprak***. Radikofine, ***praĝermana*** **b** fariĝas **v** en ***Sprak***. ***Praĝermana*** **th** fariĝas **d** [d] (voĉa) respektive **t** [t] (senvoĉa) en ***Sprak***.
 
 | | Ursprak | Sprak |
