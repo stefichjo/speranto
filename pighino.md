@@ -1,29 +1,72 @@
-# Piĝino
+# Piẑino
 
 > Se ni eĉ supozos, ke la fina lingvo de la estontaj generacioj estos ne Esperanto, en ĉia okazo la vojo al tiu ellaborota lingvo nepre devas konduki tra Esperanto.
 > ---
 > L. L. Zamenhof
 
-***Piĝino*** pruntas elementojn el [***Lingua***](lingua.md), [***Sprak***](sprak.md) kaj [***Äzyk***](jazyk.md). Sen tiu ĉi kunteksto, ***Piĝino*** estas simple ***Esperanto*** kun aldona etymologia skribo.
+***Piẑino*** [pɪ'dʒɪnɔ] pruntas elementojn el [***Lingua***](lingua.md), [***Sprak***](sprak.md) kaj [***Äzyk***](jazyk.md). Sen tiu ĉi kunteksto, ***Piẑino*** estas ***Esperanto*** kun aldona etymologia skribo.
 
 ## Alfabeto
 
-La ortografia skribo de ***Piĝino*** baziĝas sur ***Lingua***. La fonetika skribo de ***Piĝino*** baziĝas sur ***Äzyk***.
+La fonetika skribo de ***Piẑino*** baziĝas sur ***Äzyk***, sed la ortografia skribo estas etimologia.
 
-| | Lingua | Äzyk | Piĝino |
+| | Piẑino [Piĝino] |
+| *fakto* | **facto** [fakto] |
+| *ŝipo* | **shippo** [ŝipo] |
+| *kolbaso* | **kolbaso** [kolbaso] |
+
+### Latinidaj Vortoj
+
+| | Äzyk | Lingua | Piẑino |
 |:-|:-|:-|:-|
-| *fakto* | **facto** | **fakt** | **facto** [fakto] |
+| *fakto* | **fakt** | **facto** | **facto** |
+| *kulturo* | **kultura** | **cultura** | **culturo** |
+| *centro* | **centr** | **ĉentro** | **centro** |
+| *koncerto* | **koncert** | **conĉerto** | **concerto** |
 
+| | Äzyk | Lingua | Piẑino |
+|:-|:-|:-|:-|
+| | | | |
+| *ĉelo* | **cela** | **ĉella** | **ĉelo** |
 
+* semantika distingilos
+
+| | Äzyk | Lingua | Piẑino |
+|:-|:-|:-|:-|
+| | | | |
+| *akcento* | **akcent** | **acĉento** | **accento** |
+| *akĉento* | **akcent** | **acĉento** | **acĉento** |
+| | | | |
+| *ŝanco* | **ŝansa** | **cadentia** | **çadĕntĭo**/**ŝanco** |
+
+| | Lingua | Piẑino |
+|:-|:-|:-|
+| *generi* | **ĝenera** | **generi** |
+| *ĝentila* | **ĝentile** | **ĝentila** |
+
+| | Äzyk | Lingua | Piẑino |
+|:-|:-|:-|:-|
+| *generalo* | **general** | **generale** | **generalo** |
+| *ĝenerala* | **generalny** | **ĝenerale** | **ĝenerala** |
+
+| | Lingua | Piẑino |
+|:-|:-|:-|
+| | | |
+| *seĝo* | **sedia** | **sedjo** |
+
+| | Äzyk | Lingua | Piẑino |
+|:-|:-|:-|:-|
+| | | | |
+| *maso* | **masa** | **massa** | **masso** |
+
+| | Lingua | Piẑino |
+|:-|:-|:-|
+| *justa* | **justa** | **ĭusta** |
+| *ĝusta* | **justa** | **justa** |
+| *ĵus* | **jus** | **ĵus** |
 
 
 ---
-
-| | Lingua | Äzyk | Piĝino |
-|:-|:-|:-|:-|
-| *koncerto* | **conĉerto** | **koncert** | **concerto** [koncerto] |
-| *kulturo* | **cultura** | **kultura** | **culturo** [kulturo] |
-
 | | Äzyk |
 |:-|:-|
 | *majo* ['majɔ] | **maĭ** |
@@ -137,7 +180,7 @@ La korelativaj prefiksoj **k-** kaj **t-** kombiniĝas kun korelativoj je **i-**
 
 * ***iu ajn*** domo
 
-*Prapiĝino:* Anstataŭ korelativo je **ki-** kombine kun la nedifina artikolo **ajn** uziĝas korelativo je **ĉi-**.
+*PraPiẑino:* Anstataŭ korelativo je **ki-** kombine kun la nedifina artikolo **ajn** uziĝas korelativo je **ĉi-**.
 
 * **kio ajn** → **ĉio**
 
@@ -152,7 +195,7 @@ La ununombra duapersona pronomo **ci** ne plu uziĝas. Anstataŭe, uziĝas la mu
 
 * ***Ci*** estas bona amiko. → ***Vi*** estas bona amiko.
 
-*Prapiĝino:* La pronomo **ti** fariĝas **ci**.
+*PraPiẑino:* La pronomo **ti** fariĝas **ci**.
 
 * **ti** → **ci**
 
@@ -160,7 +203,7 @@ La ununombra duapersona pronomo **ci** ne plu uziĝas. Anstataŭe, uziĝas la mu
 
 * ***Hi*** estas viro.
 
-*Prapiĝino:* La korelativo **hi** fariĝas (**ĥi** → **ki** → **ci** →) **ĉi** kombine kun indikaj korelativoj je **ti-**. La korelativoj je **ĵ-** ne plu uziĝas.
+*PraPiẑino:* La korelativo **hi** fariĝas (**ĥi** → **ki** → **ci** →) **ĉi** kombine kun indikaj korelativoj je **ti-**. La korelativoj je **ĵ-** ne plu uziĝas.
 
 * **ĵio**, **hi-tio** → **ĉi tio**
 

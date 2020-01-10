@@ -67,7 +67,7 @@ Por *didaktikaj celoj*, duonvokalaj **i** [j] kaj **u** [w] skribiĝas **ĭ** re
 
 | | Archelingua | (didaktike) |
 |:-|:-|:-|
-| *akvo* | **aqua** ['akʊa] | **AQVA** ['akwa] |
+| *akvo* | **aqua** ['akʊa] | **AQVA** ['akva] |
 | *ĵuri* | **iura** [ɪ'ʊra] | **IVRA** ['jʊra] |
 
 *Archelingua:* **æ** kaj **œ** prononciĝis [ɛ] kaj [œ].
