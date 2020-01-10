@@ -4,13 +4,14 @@
 > ---
 > L. L. Zamenhof
 
-***Piẑino*** [pɪ'dʒɪnɔ] pruntas elementojn el [***Lingua***](lingua.md), [***Sprak***](sprak.md) kaj [***Äzyk***](jazyk.md). Sen tiu ĉi kunteksto, ***Piẑino*** estas ***Esperanto*** kun aldona etymologia skribo.
+***Piẑino*** (prononcata [pɪ'dʒɪnɔ], en ***Esperanto***: ***Piĝino***) pruntas elementojn el [***Lingua***](lingua.md), [***Sprak***](sprak.md) kaj [***Äzyk***](jazyk.md). Sen tiu ĉi kunteksto, ***Piẑino*** estas ***Esperanto*** kun aldona etimologia skribo.
 
 ## Alfabeto
 
 La fonetika skribo de ***Piẑino*** baziĝas sur ***Äzyk***, sed la ortografia skribo estas etimologia.
 
 | | Piẑino [Piĝino] |
+|:-|:-|
 | *fakto* | **facto** [fakto] |
 | *ŝipo* | **shippo** [ŝipo] |
 | *kolbaso* | **kolbaso** [kolbaso] |
