@@ -16,6 +16,11 @@ La fonetika skribo de ***Piẑino*** baziĝas sur ***Äzyk***, sed la ortografia
 | *ŝipo* | **shippo** [ŝipo] |
 | *kolbaso* | **kolbaso** [kolbaso] |
 
+Kaze de dubo aŭ pro estetikaj kialoj, oni povas skribi fonetike anstataŭ etimologie.
+
+| | Piẑino [Piĝino] |
+| *ŝanco* | **^çadĕntĭo**/**ŝanco** [ŝanco] |
+
 ### Latinidaj Vortoj
 
 La **c** [k]/[ts] havas la samajn prononcojn kiel **c** en ***Sprak*** kaj ***Äzyk***.
@@ -28,7 +33,8 @@ La **c** [k]/[ts] havas la samajn prononcojn kiel **c** en ***Sprak*** kaj ***Ä
 | *koncerto* | **concert** | **koncert** | **conĉerto** | **concerto** |
 | *logiko* | **logic** | **logika** | **loĝica** | **logico** |
 
----
+@
+La prononco [ĉ] de **c** 
 
 | | Äzyk | Lingua | Piẑino |
 |:-|:-|:-|:-|
@@ -42,8 +48,6 @@ La **c** [k]/[ts] havas la samajn prononcojn kiel **c** en ***Sprak*** kaj ***Ä
 | | | | |
 | *akcento* | **akcent** | **acĉento** | **accento** |
 | *akĉento* | **akcent** | **acĉento** | **acĉento** |
-| | | | |
-| *ŝanco* | **ŝansa** | **cadentia** | **çadĕntĭo**/**ŝanco** |
 
 | | Lingua | Piẑino |
 |:-|:-|:-|
