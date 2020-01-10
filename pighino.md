@@ -8,11 +8,15 @@
 
 ## Alfabeto
 
-La ortografio kaj la prononco de ***Piĝino*** baziĝas sur ***Äzyk***. Tial, etimoligiaj skriboj de ***latin***- kaj ***grek***-devenaj vortoj cedas al fonetikaj skriboj de ***slavaj*** vortoj.
+La ortografia skribo de ***Piĝino*** baziĝas sur ***Lingua***. La fonetika skribo de ***Piĝino*** baziĝas sur ***Äzyk***.
+
+| | Lingua | Äzyk | Piĝino |
+|:-|:-|:-|:-|
+| *koncerto* | **conĉerto** | **koncert** | **concerto** [koncerto] |
+| *kulturo* | **cultura** | **kultura** | **culturo** [kulturo] |
 
 | | Äzyk |
 |:-|:-|
-| *koncerto* [kɔn'tsɛrtɔ] | **koncert** |
 | *majo* ['majɔ] | **maĭ** |
 | *Eŭropo* [ɛwˈrɔpɔ] | **Eŭropa** |
 | *lekcio* [lɛk'tsɪɔ] | **lekcĭa** |

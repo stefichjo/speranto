@@ -6,6 +6,13 @@
 
 La ortografio de ***Äzyk*** baziĝas precipe sur ***latin***-skribaj ***slavaj*** lingvoj kiel la ***Pola***, sed ĝi havas ankaŭ trajton de ***ciril***-skribaj ***slavaj*** lingvoj kiel la ***Rusa***.
 
+---
+
+* Novoäzyk
+* Äzyk
+* Staroäzyk
+
+
 | | Rusa | Pola | Äzyk |
 |:-|:-|:-|:-|
 | *centro* | **центр** | **centrum** | **centr** [tsɛntr] |
