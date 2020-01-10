@@ -4,27 +4,24 @@
 
 ## Alfabeto
 
-La ortografio de ***Äzyk*** baziĝas sur la ***Pola***. 
+La ortografio de ***Äzyk*** baziĝas precipe sur ***latin***-skribaj ***slavaj*** lingvoj kiel la ***Pola***, sed ĝi havas ankaŭ trajton de ***ciril***-skribaj ***slavaj*** lingvoj kiel la ***Rusa***.
 
-| | Äzyk |
-|:-|:-|
-| *centro* | **centr** [tsɛntr] |
-| *kulturo* | **kultura** [kʊl'tʊra] |
+| | Rusa | Pola | Äzyk |
+|:-|:-|:-|:-|
+| *centro* | **центр** | **centrum** | **centr** [tsɛntr] |
+| *kulturo* | ***культура*** | ***kultura*** | **kultura** [kʊl'tʊra] |
 
----
-
-| | Äzyk |
-|:-|:-|
-| *majo* | **maĭ** [maj] |
-| *lekcio* | **lekcĭa** ['lɛktsja] |
-
+| | Rusa | Pola | Äzyk |
+|:-|:-|:-|:-|
+| *majo* | **май** | **maj** | **maĭ** [maj] |
+| *lekcio* | **лекция** | **lekcja** | **lekcĭa** ['lɛktsja] |
 
 Postkonsonanta **ŭ** [w] fariĝas **v** [v]. Tial, **qŭ** [kw] fariĝas **kv** [kv].
 
-| | |
-|:-|:-|
-| *Eŭropo* | **Eŭropa** |
-| *kvadrato* | **kvadrat** |
+| | Rusa | Pola | Äzyk |
+|:-|:-|:-|:-|
+| *Eŭropo* | **Европа** | **Europa** | **Eŭropa** |
+| *kvadrato* | **квадрат** | **kwadrat** | **kvadrat** |
 
-
+ 
 

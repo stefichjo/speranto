@@ -14,8 +14,8 @@
 
 | | Paleolingua | Lingua | Neolingua |
 |:-|:-|:-|:-|
-| *skribi* | **scribe** ['skrɪbɛ] | **scrive** ['skrɪvɛ] | **scrivi** ['skrɪvɪ] |
-| *havi* | **habe** ['habɛ] | **have** ['havɛ] | **havi** ['havɪ] |
+| *skribi* | **scribe** ['skrɪbɛ] | **scrive** ['skrɪvɛ] | **scrivi** [skrɪ'var] |
+| *havi* | **habe** ['habɛ] | **have** ['havɛ] | **havar'** [hav'ar] |
 | *longa* | **longa** ['lɔnga] | **longa** ['lɔŋga] | **longa** ['lɔŋga] |
 
 ### Duoblaj Konsonantoj

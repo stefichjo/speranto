@@ -13,9 +13,9 @@ La ortografio kaj la prononco de ***Piĝino*** baziĝas sur ***Äzyk***. Tial, e
 | | Äzyk |
 |:-|:-|
 | *koncerto* [kɔn'tsɛrtɔ] | **koncert** |
-| *majo* ['majɔ] | **maj** |
+| *majo* ['majɔ] | **maĭ** |
 | *Eŭropo* [ɛwˈrɔpɔ] | **Eŭropa** |
-| *lekcio* [lɛk'tsɪɔ] | **lekcja** |
+| *lekcio* [lɛk'tsɪɔ] | **lekcĭa** |
 
 ---
 
