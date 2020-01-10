@@ -19,6 +19,7 @@ La fonetika skribo de ***Piẑino*** baziĝas sur ***Äzyk***, sed la ortografia
 Kaze de dubo aŭ pro estetikaj kialoj, oni povas skribi fonetike anstataŭ etimologie.
 
 | | Piẑino [Piĝino] |
+|:-|:-|
 | *ŝanco* | **^çadĕntĭo**/**ŝanco** [ŝanco] |
 
 ### Latinidaj Vortoj
