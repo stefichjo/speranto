@@ -10,9 +10,9 @@
 |**n**|**o**|**p**|**q**|**r**|**s**|**t**|**u**|**v**|**w**|**x**|**y**|**z**|
 |[n]|[ɔ]|[p]*|[k]|[r]|[s]*|[t]*|[ʊ]|[v]|[w]|[ks]|[ɪ]*|[dz]|
 
-*Paleolingua:* Radikofina **v** [v] estis **b** [b]. **ng** [ŋg] prononciĝis [ng].
+*Archelingua:* Radikofina **v** [v] estis **b** [b]. **ng** [ŋg] prononciĝis [ng].
 
-| | Paleolingua | Lingua | Neolingua |
+| | Archelingua | Lingua | Neolingua |
 |:-|:-|:-|:-|
 | *skribi* | **scribe** ['skrɪbɛ] | **scrive** ['skrɪvɛ] | **scrivi** [skrɪ'var] |
 | *havi* | **habe** ['habɛ] | **have** ['havɛ] | **havar'** [hav'ar] |
@@ -22,9 +22,9 @@
 
 Duoblaj konsonantoj estas prononcataj unuoble. **s** [s] prononciĝas [z] inter vokaloj.
 
-*Paleolingua/Neolingua:* Duoblaj konsonantoj prononciĝis duoble. En ***Neolingua***, duoblaj konsonantoj (krom **ss**) skribiĝas unuoble.
+*Archelingua/Neolingua:* Duoblaj konsonantoj prononciĝis duoble. En ***Neolingua***, duoblaj konsonantoj (krom **ss**) skribiĝas unuoble.
 
-| | Paleolingua | Lingua | Neolingua |
+| | Archelingua | Lingua | Neolingua |
 |:-|:-|:-|:-|
 | *tero* | **terra** ['tɛrra] | **terra** ['tɛra] | **tero** ['tɛrɔ] |
 | *maso* | **massa** ['massa] | **massa** ['masa] | **masso** ['masɔ] |
@@ -36,7 +36,7 @@ Antaŭ **e** kaj **i**, **c** [k] kaj **g** [g] prononciĝas [ç] respektive [ɣ
 
 *Neolingua:* **ĉ** [ç] kaj **ĝ** [ɣ] fariĝas **z** [ts] respektive **j** [dʒ]. Por *didaktikaj celoj*, **j** [dʒ] tiam skribiĝas **ĵ**.
 
-| | Paleolingua | Lingua | Neolingua |
+| | Archelingua | Lingua | Neolingua |
 |:-|:-|:-|:-|
 | *centro* | **centro** ['kɛntrɔ] | **ĉentro** ['çɛntrɔ] | **zentro** ['tsɛntrɔ] |
 | *ĝenerala* | **generale** [gɛnɛ'ralɛ] | **ĝenerale** [ɣɛnɛ'ralɛ] | **ĵenerala** ['dʒɛnɛ'rala] |
@@ -45,9 +45,9 @@ Antaŭ **e** kaj **i**, **c** [k] kaj **g** [g] prononciĝas [ç] respektive [ɣ
 
 Por *didaktikaj celoj*, duonvokalaj **i** [j] kaj **u** [w] skribiĝas **ĭ** respektive **ŭ**.
 
-*Paleolingua/Neolingua:* Duonvokalaj **i** [j] kaj **u** [w] estis ne-akcentataj **i** [ɪ] kaj **u** [ʊ] apud vokalo. Ili eliziiĝas aŭ monoftongiĝas en ***Neolingua***. **j** [ʒ] estis ne-akcentata **i** [ɪ] komence de radiko. Ĝi prononciĝas [dʒ] en ***Neolingua***. **t** [t] antaŭ radikofina **i** prononciĝas [θ] kaj fariĝas **z** [ts] en ***Neolingua***. Por *didaktikaj celoj*, kiam radikofina **i** estas akcentata, **i** skribiĝas **ī**. **st** [st] restas senŝanĝa.
+*Archelingua/Neolingua:* Duonvokalaj **i** [j] kaj **u** [w] estis ne-akcentataj **i** [ɪ] kaj **u** [ʊ] apud vokalo. Ili eliziiĝas aŭ monoftongiĝas en ***Neolingua***. **j** [ʒ] estis ne-akcentata **i** [ɪ] komence de radiko. Ĝi prononciĝas [dʒ] en ***Neolingua***. **t** [t] antaŭ radikofina **i** prononciĝas [θ] kaj fariĝas **z** [ts] en ***Neolingua***. Por *didaktikaj celoj*, kiam radikofina **i** estas akcentata, **i** skribiĝas **ī**. **st** [st] restas senŝanĝa.
 
-| | Paleolingua | Lingua | Neolingua |
+| | Archelingua | Lingua | Neolingua |
 |:-|:-|:-|:-|
 | *trajno* | **traino** ['traɪnɔ] | **traĭno** ['trajnɔ] | **treno** ['trɛnɔ] |
 | *oro* | **auro** ['aʊrɔ] | **aŭro** ['awrɔ] | **oro** ['ɔrɔ] |
@@ -63,18 +63,18 @@ Por *didaktikaj celoj*, duonvokalaj **i** [j] kaj **u** [w] skribiĝas **ĭ** re
 | *lekcio* | **lectione** [lɛktɪ'ɔnɛ] | **lectīo** [lɛk'θɪɔ] | **lezio** [lɛ'tsɪɔ] |
 | *demokratio* | **democratia** [dɛmɔkra'tɪa] | **democratīa** [dɛmɔkra'θɪa] | **democrazio** [dɛmɔkra'tsɪɔ] |
 
-*Paleolingua:* Por *didaktikaj celoj*, **u** [ʊ] kaj **v** [v] skribiĝis **V** kaj ambaŭ prononciĝis [w] apud vokalo.
+*Archelingua:* Por *didaktikaj celoj*, **u** [ʊ] kaj **v** [v] skribiĝis **V** kaj ambaŭ prononciĝis [w] apud vokalo.
 
-| | Paleolingua | (didaktike) |
+| | Archelingua | (didaktike) |
 |:-|:-|:-|
 | *akvo* | **aqua** ['akʊa] | **AQVA** ['akwa] |
 | *ĵuri* | **iura** [ɪ'ʊra] | **IVRA** ['jʊra] |
 
 ### Fremdaj Vortoj
 
-*Paleolingua/Neolingua:* Grek-devenaj **ph** [f], **th** [t], **ch** [k], **y** [ɪ], **z** [dz] prononciĝis​ [ɸ], [θ], [x], [ʏ], [z]. Grekdevena **z** [dz] fariĝas **z** [ts] en ***Neolingua***.
+*Archelingua/Neolingua:* Grek-devenaj **ph** [f], **th** [t], **ch** [k], **y** [ɪ], **z** [dz] prononciĝis​ [ɸ], [θ], [x], [ʏ], [z]. Grekdevena **z** [dz] fariĝas **z** [ts] en ***Neolingua***.
 
-| | Paleolingua | Lingua | Neolingua |
+| | Archelingua | Lingua | Neolingua |
 |:-|:-|:-|:-|
 | *fazo* | **phase** ['ɸasɛ] | **phase** ['fazɛ] | **faso** ['fazɔ] |
 | *temo* | **thema** ['θɛma] | **thema** ['tɛma] | **temo** ['tɛmɔ] |
@@ -113,9 +113,9 @@ Intervaloj esprimiĝas per la sufikso **-t-**.
 
 * **quarto** *(kvarto)*
 
-*Paleolingua:* Ordinaloj (ĝis 10) havis la sufikson **-t-**. La numeraloj **un**, **du**, **tri** havis apartajn formojn kiel ordinaloj.
+*Archelingua:* Ordinaloj (ĝis 10) havis la sufikson **-t-**. La numeraloj **un**, **du**, **tri** havis apartajn formojn kiel ordinaloj.
 
-| | Paleolingua | Lingua |
+| | Archelingua | Lingua |
 |:-|:-|:-|
 | *1-a* | **prima** | **unesma** |
 | *2-a* | **secunda** | **duesma** |
@@ -145,9 +145,9 @@ Korelativoj havas la ŝajnfinaĵojn **-o**, **-a**, **-e** kaj **-i**.
 |**ono**|**ona**|**one**|**oni**|
 |*(io)*|*(ia)*|*(iel)*|*(ien)*|
 
-*Paleolingua:* Anstataŭ la ŝajnfinaĵo **-i** uziĝis la prepozicio **ad**.
+*Archelingua:* Anstataŭ la ŝajnfinaĵo **-i** uziĝis la prepozicio **ad**.
 
-| | Paleolingua | Lingua |
+| | Archelingua | Lingua |
 |:-|:-|:-|
 | *Kie vi estas?* | **Que esse tu?** | **Que esse tu?** |
 | *Kien vi iras?* | **Ad que vade tu?** | **Qui vade tu?** |
@@ -195,9 +195,9 @@ Pronomoj havas la ŝajnfinaĵon **-u**. La persona pronomo **lu** uziĝas por *e
 |**nu**|**vu**|**ilu**|
 |*(ni)*|*(vi)*|*(ili)*|
 
-*Paleolingua:* La *multenombraj* pronomoj havis la ŝajnfinaĵon **-i**.
+*Archelingua:* La *multenombraj* pronomoj havis la ŝajnfinaĵon **-i**.
 
-| | Paleolingua | Lingua |
+| | Archelingua | Lingua |
 |:-|:-|:-|
 | *ni* | **ni** | **nu** |
 | *vi* | **vi** | **vu** |
@@ -264,9 +264,9 @@ La ŝajnfinaĵoj **-īo**, **-o**, **-ore**, **-ura** aperas ĉe *participoj* ka
 | *"staranto", statoro* | **statore** |
 | *"staraĵo", staturo* | **statura** |
 
-*Paleolingua:* Kelkaj latin-devenaj ŝajnfinaĵoj de substantivoj ŝanĝiĝis.
+*Archelingua:* Kelkaj latin-devenaj ŝajnfinaĵoj de substantivoj ŝanĝiĝis.
 
-| | Paleolingua | Lingua |
+| | Archelingua | Lingua |
 |:-|:-|:-|
 | *nomo* | **nomine** [nɔ'mɪnɛ] | **nome** ['nɔmɛ] |
 | *limo* | **limite** [lɪ'mɪtɛ] | **lime** ['lɪmɛ] |
@@ -309,9 +309,9 @@ Adverboj formiĝas kun **-mente**.
 
 Verboj havas la infinitivan formon sen **-re**.
 
-*Paleolingua/Neolingua:* Infinitivoj havis la ŝajnfinaĵon **-re**. En **Neolingua**, la infinitiva finaĵo estas **-ar'**. *Tra bruo*, **-ar'** fariĝas **-as'**.
+*Archelingua/Neolingua:* Infinitivoj havis la ŝajnfinaĵon **-re**. En **Neolingua**, la infinitiva finaĵo estas **-ar'**. *Tra bruo*, **-ar'** fariĝas **-as'**.
 
-| | Paleolingua | Lingua | Neolingua | (tra bruo) |
+| | Archelingua | Lingua | Neolingua | (tra bruo) |
 |:-|:-|:-|:-|:-|
 | *ami* | **amare** | **ama** | **amar'** | **amas'** |
 | *vidi* | **videre** | **vide** | **vidar'** | **vidas'** |
