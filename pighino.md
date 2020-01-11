@@ -44,15 +44,49 @@ La **c** prononciĝas [k] antaŭ **a**, **o**, **u**, antaŭ konsonanto kaj fine
 | *akĉento* | **akcent** | **acĉento** | **acĉento** |
 | *ĝenerala* | **generalny** | **ĝenerale** | **ĝenerala** |
 
----
-
-| | Äzyk | Lingua | Piĝino |
-|:-|:-|:-|:-|
+La **tĭ** prononciĝas [c] (sed [st] en **stĭ**). Antaŭ **i** kun aldona vokalo, ĝi ankaŭ prononciĝas [c].
 
 | | Lingua | Piĝino |
 |:-|:-|:-|
 | | | |
-| *seĝo* | **sedia** | **sedjo** |
+| *nacio* | **natīo** | **natio** |
+| *pacienco* | **patīentĭa** | **patientĭo** |
+| *besto* | **bestĭa** | **bestĭo** |
+
+La **j** prononciĝas [ĝ]. Kiam ĝia prononco estas [j], ĝi skribiĝas [ĭ]. Ĉar la prononco de **j** kiel [ĵ] ne estas skribebla etimologie, ĝi skribiĝas fonetike **ĵ** [ĵ].
+
+| | Lingua | Piĝino |
+|:-|:-|:-|
+| *justa* | **justa** | **ĭusta** |
+| *ĝusta* | **justa** | **justa** |
+| *ĵus* | **jus** | **ĵus** |
+| *jam* | **jam** | **ĭam** |
+| *majo* | **maio** | **maĭo** |
+| *seĝo* | **sedia** | **sedĵo** |
+
+Post vokalo, **ŭ** prononciĝas [ŭ]. Kiam **aŭ** prononciĝas [o], ĝi etimologie skribiĝas **åŭ**. Inter konsonanto kaj vokalo (respektive radikofino), **ŭ** elliziiĝas kaj **u** prononciĝas [v]. Kiam **u** tamen prononciĝas [u], ĝi skribiĝas **ū**.
+
+| | Lingua | Piĝino |
+|:-|:-|:-|
+| *taŭro* | **taŭro** | **taŭro** |
+| *oro* | **aŭro** | **åŭro** |
+| | | |
+| *ke* | **qŭe** | **qŭe** |
+| *kio* | **qŭo** | **qŭio** |
+| | | |
+| *kvanto* | **qŭanto** | **quanto** |
+| *akvo* | **aqŭa** | **aquo** |
+| *sekvi* | **seqŭi** | **sequi** |
+| *lingvo* | **lingŭa** | **linguo** |
+| *solvi* | **solve** | **solui** |
+| | | |
+| *evolui* | **evolve** | **evolūi** |
+| *evolucio* | **evolutīo** | **evolutīo** |
+| *situi* | **situa** | **sitūi** |
+| *situacio* | **situatīo** | **sitūatīo** |
+
+---
+
 
 | | Äzyk | Lingua | Piĝino |
 |:-|:-|:-|:-|
@@ -75,9 +109,21 @@ La **c** prononciĝas [k] antaŭ **a**, **o**, **u**, antaŭ konsonanto kaj fine
 |:-|:-|
 | *majo* ['majɔ] | **maĭ** |
 | *Eŭropo* [ɛwˈrɔpɔ] | **Eŭropa** |
-| *lekcio* [lɛk'tsɪɔ] | **lekcĭa** |
 
 ---
+
+#### Grekaj Vortoj
+
+Radikofina **ti** ĉiam prononciĝas [ti].
+
+| | Äzyk | Lingua | Piĝino |
+|:-|:-|:-|:-|
+| | | | |
+| *demokratio* | **demoracĭa** | **democratio** | **democratio** |
+
+---
+
+### Ĝermanaj Vortoj
 
 ### Vokaloj
 
@@ -121,37 +167,9 @@ Post vokalo, neakcentebla **ĭ** [j] skribiĝas **j**.
 * **masso** [ˈmasɔ] → **maso**
 * **roso** [ˈrɔzɔ] → **rozo**
 
-Latin-devena **z** [ts] fariĝas **ĉ** [tʃ].
-
-* **zesso** [ˈtsɛsɔ] → **ĉeso** [ˈtʃɛsɔ]
-* **aczento** [akˈtsɛntɔ] → **akĉento** [akˈtʃɛntɔ]
-
 ***Lingvaismo:*** Grek-devena **z** [z] restas senŝanĝa.
 
 * **zona** [ˈzɔna] → **zono** [ˈzɔnɔ]
-
-**c** [k] skribiĝas **k**.
-
-* **culturo** [kʊlˈtʊrɔ] → **kulturo**
-* **dialecto** [dɪaˈlɛktɔ] → **dialekto**
-
-***Lingvidismo:*** **z** [ts] skribiĝas **c**.
-
-* **zentro** [ˈtsɛntrɔ] → **centro**
-* **akzento** [akˈtsɛntɔ] → **akcento**
-* **nazio** [naˈtsɪɔ] → **nacio**
-
-***Lingvidismo:*** **h** [h] restas senŝanĝa.
-
-* **horo** [ˈhɔrɔ]
-
-***Lingvaismo:*** Grekdevena **t** [t] antaŭ radikofina **i** [ɪ] restas senŝanĝa.
-
-* **democratīa** [dɛmɔkraˈtɪa] → **demokratio** [dɛmɔkraˈtɪɔ]
-
-***Lingvaismo:*** **g** [g] restas senŝanĝa, ankaŭ antaŭ **e** [ɛ] kaj **i** [ɪ].
-
-* **genera** [gɛˈnɛra] → **generi** [gɛˈnɛrɪ]
 
 ***Lingvaismo:*** Intervokala **b** [b] (en verboj) restas senŝanĝa.
 
