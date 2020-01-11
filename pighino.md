@@ -1,14 +1,14 @@
-# Piẑino
+# Piĝino
 
 > Se ni eĉ supozos, ke la fina lingvo de la estontaj generacioj estos ne Esperanto, en ĉia okazo la vojo al tiu ellaborota lingvo nepre devas konduki tra Esperanto.
 > ---
 > L. L. Zamenhof
 
-***Piẑino*** (prononcata [pɪ'dʒɪnɔ], en ***Esperanto***: ***Piĝino***) pruntas elementojn el [***Lingua***](lingua.md), [***Sprak***](sprak.md) kaj [***Äzyk***](jazyk.md). Sen tiu ĉi kunteksto, ***Piẑino*** estas ***Esperanto*** kun aldona etimologia skribo.
+***Piĝino*** pruntas elementojn el [***Lingua***](lingua.md), [***Sprak***](sprak.md) kaj [***Äzyk***](jazyk.md). Sen tiu ĉi kunteksto, ***Piĝino*** estas ***Esperanto*** kun aldona etimologia skribo.
 
 ## Alfabeto
 
-La fonetika skribo de ***Piẑino*** baziĝas sur ***Äzyk***, sed la ortografia skribo estas etimologia.
+La fonetika skribo de ***Piĝino*** baziĝas sur ***Äzyk***, sed la ortografia skribo estas etimologia.
 
 | | Piẑino [Piĝino] |
 |:-|:-|
@@ -24,57 +24,46 @@ Kaze de dubo aŭ pro estetikaj kialoj, oni povas skribi fonetike anstataŭ etimo
 
 ### Latinidaj Vortoj
 
-La **c** [k]/[c] havas la samajn prononcojn kiel **c** [k]/[c] en ***Sprak*** kaj ***Äzyk***.
+La **c** prononciĝas [k] antaŭ **a**, **o**, **u**, antaŭ konsonanto kaj fine de radiko. Antaŭ **e**, **i** (kaj **y**) ĝi prononciĝas [c]. La **g** ĉiam prononciĝas [g].
 
-| | Sprak | Äzyk | Lingua | Piẑino |
+| | Sprak | Äzyk | Lingua | Piĝino |
 |:-|:-|:-|:-|:-|
 | *fakto* | **fact** | **fakt** | **facto** | **facto** |
 | *kulturo* | **cultur** | **kultura** | **cultura** | **culturo** |
 | *centro* | **centrum** | **centrum** | **ĉentro** | **centro** |
 | *koncerto* | **concert** | **koncert** | **conĉerto** | **concerto** |
 | *logiko* | **logic** | **logika** | **loĝica** | **logico** |
-
-Kvazaŭ alternativo de **c** [c] estas ankaŭ **ĉ** [ĉ].
-
-| | Äzyk | Lingua | Piẑino |
-|:-|:-|:-|:-|
-| | | | |
-| *ĉelo* | **cela** | **ĉella** | **ĉelo** |
-
----
-* semantika distingilos
-
-| | Äzyk | Lingua | Piẑino |
-|:-|:-|:-|:-|
-| | | | |
 | *akcento* | **akcent** | **acĉento** | **accento** |
-| *akĉento* | **akcent** | **acĉento** | **acĉento** |
+| *generalo* | **general** | **general** | **generale** | **generalo** |
 
-| | Lingua | Piẑino |
-|:-|:-|:-|
-| *generi* | **ĝenera** | **generi** |
-| *ĝentila* | **ĝentile** | **ĝentila** |
+Ĉar la prononcoj de **c** kiel [ĉ] kaj de **g** kiel [ĝ] ne estas skribeblaj etimologie, ili skribiĝas fonetike **ĉ** [ĉ] kaj **ĝ** [ĝ].
 
-| | Äzyk | Lingua | Piẑino |
+| | Äzyk | Lingua | Piĝino |
 |:-|:-|:-|:-|
-| *generalo* | **general** | **generale** | **generalo** |
+| | | | |
+| *akĉento* | **akcent** | **acĉento** | **acĉento** |
 | *ĝenerala* | **generalny** | **ĝenerale** | **ĝenerala** |
 
-| | Lingua | Piẑino |
+---
+
+| | Äzyk | Lingua | Piĝino |
+|:-|:-|:-|:-|
+
+| | Lingua | Piĝino |
 |:-|:-|:-|
 | | | |
 | *seĝo* | **sedia** | **sedjo** |
 
-| | Äzyk | Lingua | Piẑino |
+| | Äzyk | Lingua | Piĝino |
 |:-|:-|:-|:-|
 | | | | |
 | *maso* | **masa** | **massa** | **masso** |
 
-| | Lingua | Piẑino |
+| | Lingua | Piĝino |
 |:-|:-|:-|
 | *tero* | **terra** | **tero** |
 
-| | Lingua | Piẑino |
+| | Lingua | Piĝino |
 |:-|:-|:-|
 | *justa* | **justa** | **ĭusta** |
 | *ĝusta* | **justa** | **justa** |
@@ -195,7 +184,7 @@ La korelativaj prefiksoj **k-** kaj **t-** kombiniĝas kun korelativoj je **i-**
 
 * ***iu ajn*** domo
 
-*PraPiẑino:* Anstataŭ korelativo je **ki-** kombine kun la nedifina artikolo **ajn** uziĝas korelativo je **ĉi-**.
+*Prapiĝino:* Anstataŭ korelativo je **ki-** kombine kun la nedifina artikolo **ajn** uziĝas korelativo je **ĉi-**.
 
 * **kio ajn** → **ĉio**
 
@@ -210,7 +199,7 @@ La ununombra duapersona pronomo **ci** ne plu uziĝas. Anstataŭe, uziĝas la mu
 
 * ***Ci*** estas bona amiko. → ***Vi*** estas bona amiko.
 
-*PraPiẑino:* La pronomo **ti** fariĝas **ci**.
+*Prapiĝino:* La pronomo **ti** fariĝas **ci**.
 
 * **ti** → **ci**
 
@@ -218,7 +207,7 @@ La ununombra duapersona pronomo **ci** ne plu uziĝas. Anstataŭe, uziĝas la mu
 
 * ***Hi*** estas viro.
 
-*PraPiẑino:* La korelativo **hi** fariĝas (**ĥi** → **ki** → **ci** →) **ĉi** kombine kun indikaj korelativoj je **ti-**. La korelativoj je **ĵ-** ne plu uziĝas.
+*Prapiĝino:* La korelativo **hi** fariĝas (**ĥi** → **ki** → **ci** →) **ĉi** kombine kun indikaj korelativoj je **ti-**. La korelativoj je **ĵ-** ne plu uziĝas.
 
 * **ĵio**, **hi-tio** → **ĉi tio**
 
