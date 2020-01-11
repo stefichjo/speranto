@@ -85,32 +85,16 @@ Post vokalo, **ŭ** prononciĝas [ŭ]. Kiam **aŭ** prononciĝas [o], ĝi etimol
 | *situi* | **situa** | **sitūi** |
 | *situacio* | **situatīo** | **sitūatīo** |
 
----
-
-
-| | Äzyk | Lingua | Piĝino |
-|:-|:-|:-|:-|
-| | | | |
-| *maso* | **masa** | **massa** | **masso** |
+Samkiel en ***Lingua***, duoblaj konsonantoj prononciĝas unuoble. Inter vokaloj (respektive inter vokalo kaj radikofino), **s** prononciĝas [z].
 
 | | Lingua | Piĝino |
 |:-|:-|:-|
+| | | |
 | *tero* | **terra** | **tero** |
-
-| | Lingua | Piĝino |
-|:-|:-|:-|
-| *justa* | **justa** | **ĭusta** |
-| *ĝusta* | **justa** | **justa** |
-| *ĵus* | **jus** | **ĵus** |
-
-
----
-| | Äzyk |
-|:-|:-|
-| *majo* ['majɔ] | **maĭ** |
-| *Eŭropo* [ɛwˈrɔpɔ] | **Eŭropa** |
-
----
+| *maso* | **massa** | **masso** |
+| | | |
+| *rozo* | **rosa** | **roso** |
+| *paŭzo* | **paŭsa** | **paŭso** |
 
 #### Grekaj Vortoj
 
@@ -120,6 +104,34 @@ Radikofina **ti** ĉiam prononciĝas [ti].
 |:-|:-|:-|:-|
 | | | | |
 | *demokratio* | **demoracĭa** | **democratio** | **democratio** |
+
+Samkiel en **aŭ** [aŭ], **ŭ** prononciĝas [ŭ] en **eŭ**.
+
+| | Lingua | Piĝino |
+|:-|:-|:-|
+| *aŭto* | **aŭto** | **aŭto** |
+| *Eŭropo* | **Eŭropa** | **Eŭropo** |
+
+***Grekaj*** **ph**, **th**, **ch** kaj **y** prononciĝas [f], [t], [k] kaj [i]. Kiam **ch** prononciĝas [ĥ] aŭ [ŝ], ili skribiĝas etimologie **cĥ** [ĥ] respektive **çh** [ŝ]. Antaŭ **e**, **i** kaj **y**, ***greka*** **c** daŭre prononciĝas [k] kaj skribiĝas **k**.
+
+| | Lingua | Piĝino |
+|:-|:-|:-|
+| *sistemo* | **systema** | **systemo** |
+| *fazo* | **phase** | **phaso** |
+| *temo* | **tema** | **themo** |
+| *karaktero* | **charactere** | **charactero** |
+| | | |
+| *eĥo* | **echo** | **ecĥo** |
+| *maŝino* | **machina** | **maçhino** |
+| | | |
+| *kilo* | **kilo** | **kilo** |
+
+***Grekaj*** vortoj, kiuj rekte eniris ***Piĝinon***, havas **k**-on kie ***Lingua*** havus ***c***-on.
+
+| | Lingua | Piĝino |
+|:-|:-|:-|
+| *kaj* | (**caĭ**) | **kaĭ** |
+| *krom* | (**crom**) | **krom** |
 
 ---
 
