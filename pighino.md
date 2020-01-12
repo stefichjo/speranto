@@ -18,10 +18,11 @@ La fonetika skribo de ***Piĝino*** baziĝas sur ***Äzyk***, sed la ortografia 
 
 Kaze de dubo aŭ pro estetikaj kialoj, oni skribas fonetike anstataŭ etimologie.
 
-| | Prapiĝino | Piĝino |
-|:-|:-|:-|
-| | | |
-| *ŝanco* | **^çadĕntĭo** | **ŝanco** |
+| | Lingua | Prapiĝino | Piĝino |
+|:-|:-|:-|:-|
+| | | | |
+| *ŝanco* | **cadentĭa** | **^çadĕntĭo** | **ŝanco** |
+| *ĵurnalo* | **dĭurnale** | **đĵurnalo** | **ĵurnalo** |
 
 ### Latinidaj Vortoj
 
@@ -86,6 +87,7 @@ La **j** prononciĝas [ĝ]. Kiam ĝia prononco estas [j], ĝi skribiĝas [ĭ]. �
 | *justa* | **justa** | **ĭusta** |
 | *ĝusta* | **justa** | **justa** |
 | *ĵus* | **jus** | **ĵus** |
+| *ĵuri* | **jura** | **ĵuri** |
 | *jam* | **jam** | **ĭam** |
 | *majo* | **maio** | **maĭo** |
 | *seĝo* | **sedia** | **sedĵo** |
@@ -120,6 +122,14 @@ Samkiel en ***Lingua***, duoblaj konsonantoj prononciĝas unuoble. Inter vokaloj
 | *maso* | **massa** | **masso** |
 | *rozo* | **rosa** | **roso** |
 
+En kelkaj ***Arkelingvaismoj***, intervokala **b** restas senŝanĝa.
+
+| | Archelingua | Lingua | Piĝino |
+|:-|:-|:-|:-|
+| | | | |
+| *skribi* | **scribe** | **scrive** | **scribi** |
+| *labori* | **labora** | **lavora** | **labori** |
+
 #### Grekaj Vortoj
 
 Radikofina **ti** ĉiam prononciĝas [ti].
@@ -136,7 +146,7 @@ Samkiel en **aŭ** [aŭ], **ŭ** prononciĝas [ŭ] en **eŭ**.
 | *aŭto* | **aŭto** | **aŭto** |
 | *Eŭropo* | **Eŭropa** | **Eŭropo** |
 
-***Grekaj*** **ph**, **th**, **ch** kaj **y** prononciĝas [f], [t], [k] kaj [i]. Kiam **ch** prononciĝas [ĥ] aŭ [ŝ], ili skribiĝas etimologie **cĥ** [ĥ] respektive **çh** [ŝ]. Antaŭ **e**, **i** kaj **y**, ***greka*** **c** daŭre prononciĝas [k] kaj skribiĝas **k**.
+***Grekaj*** **ph**, **th**, **ch** kaj **y** prononciĝas [f], [t], [k] kaj [i]. Kiam **ch** prononciĝas [ĥ] aŭ [ŝ], ili skribiĝas etimologie **cĥ** [ĥ] respektive **çh** [ŝ]. Antaŭ **e**, **i** kaj **y**, ***greka*** **c** daŭre prononciĝas [k] kaj skribiĝas **k**. **z** [z] restas senŝanĝa.
 
 | | Lingua | Piĝino |
 |:-|:-|:-|
@@ -149,6 +159,7 @@ Samkiel en **aŭ** [aŭ], **ŭ** prononciĝas [ŭ] en **eŭ**.
 | *maŝino* | **machina** | **maçhino** |
 | | | |
 | *kilo* | **kilo** | **kilo** |
+| *zono* | **zona** | **zono** |
 
 ***Grekaj*** vortoj, kiuj rekte eniris ***Piĝinon***, havas **k**-on kie ***Lingua*** havus ***c***-on.
 
@@ -157,66 +168,9 @@ Samkiel en **aŭ** [aŭ], **ŭ** prononciĝas [ŭ] en **eŭ**.
 | *kaj* | (**caĭ**) | **kaĭ** |
 | *krom* | (**crom**) | **krom** |
 
----
-
 ### Ĝermanaj Vortoj
 
-### Vokaloj
-
-### Duonvokaloj
-
-*Lingvidismo:* Diftongoj restas senŝanĝaj.
-
-* **taŭro** [ˈtawrɔ]
-* **trajno** [ˈtrajnɔ]
-* **Eŭropo** [ɛwˈrɔpɔ]
-
-#### Neakcenteblaj i kaj u
-
-Post vokalo, neakcentebla **ĭ** [j] skribiĝas **j**.
-
-* **maĭo** [ˈmajɔ] → **majo**
-
-***Lingvidismo:*** Neakcentebla **ŭ** [w] fariĝas **v** [v].
-
-* **lingŭo** [ˈlɪŋgwɔ] → **lingvo** [ˈlɪŋgvɔ]
-
-#### Radikokomenca Neakcentebla i
-
-**j** [dʒ] skribiĝas **ĝ**.
-
-* **justa** [ˈdʒʊsta] → **ĝusta**
-* **jenerala** [ˈdʒɛnɛrala] → **ĝenerala**
-
-***Pralingvidismo:*** Komence de radiko, neakcentebla **j** [ʒ] skribiĝas **ĵ**.
-
-* **juro** [ˈʒʊrɔ] → **ĵuro**
-
-***Neolingvaismo:*** Komence de radiko, neakcentebla **i** [j] skribiĝas **j**.
-
-* **iusta** [ˈjʊsta] → **justa**
-
-### Konsonantoj
-
-**ss** [s] unuobliĝas al **s**, dum radikofina postvokala **s** [z] skribiĝas **z**.
-
-* **masso** [ˈmasɔ] → **maso**
-* **roso** [ˈrɔzɔ] → **rozo**
-
-***Lingvaismo:*** Grek-devena **z** [z] restas senŝanĝa.
-
-* **zona** [ˈzɔna] → **zono** [ˈzɔnɔ]
-
-***Lingvaismo:*** Intervokala **b** [b] (en verboj) restas senŝanĝa.
-
-* **scribe** [ˈskrɪbɛ] → **skribi** [ˈskrɪbɪ]
-* **labora** [laˈbɔra] → **labori** [laˈbɔrɪ]
-
-## Gramatiko
-
-### Numeraloj
-
-#### Ordinaloj
+---
 
 ### Korelativoj
 
