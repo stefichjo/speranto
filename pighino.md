@@ -18,10 +18,10 @@ La fonetika skribo de ***Piĝino*** baziĝas sur ***Äzyk***, sed la ortografia 
 
 Kaze de dubo aŭ pro estetikaj kialoj, oni skribas fonetike anstataŭ etimologie.
 
-| | Lingua | Prapiĝino | Piĝino |
-|:-|:-|:-|:-|
-| *ŝanco* | **cadentĭa** | **^çadĕntĭo** | **ŝanco** |
-| *ĵurnalo* | **dĭurnale** | **đĵurnalo** | **ĵurnalo** |
+| | Prapiĝino | Piĝino |
+|:-|:-|:-|
+| *ŝanco* | **^çadĕntĭo** | **ŝanco** |
+| *ĵurnalo* | **đĵurnalo** | **ĵurnalo** |
 
 ### Slavaj Vortoj
 
