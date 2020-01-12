@@ -20,7 +20,6 @@ Kaze de dubo aŭ pro estetikaj kialoj, oni skribas fonetike anstataŭ etimologie
 
 | | Lingua | Prapiĝino | Piĝino |
 |:-|:-|:-|:-|
-| | | | |
 | *ŝanco* | **cadentĭa** | **^çadĕntĭo** | **ŝanco** |
 | *ĵurnalo* | **dĭurnale** | **đĵurnalo** | **ĵurnalo** |
 
@@ -43,7 +42,6 @@ La **c** kutime prononciĝas [k], sed antaŭ **e**, **i** (kaj **y**) ĝi pronon
 
 | | Lingua | Piĝino |
 |:-|:-|:-|
-| | | |
 | *akĉento* | **acĉento** | **acĉento** |
 | *ĝenerala* | **ĝenerale** | **ĝenerala** |
 
@@ -51,7 +49,6 @@ Kiam **c** prononciĝas [k] anstataŭ [c], ĝi skribiĝas **qŭ**. Kiam **c** pr
 
 | | Lingua | Piĝino |
 |:-|:-|:-|
-| | | |
 | *indiki* | **indica** | **indiqŭi** |
 | *impliki* | **implica** | **impliqŭi** |
 | | | |
@@ -67,7 +64,6 @@ En ***Prapiĝino***, la skribo de **tĭ** konserviĝas. En ***Novpiĝino***, **q
 
 | | Lingua | Prapiĝino | Piĝino | Novpiĝino |
 |:-|:-|:-|:-|:-|
-| | | | | |
 | *spaco* | **spatĭo** | **spatĭo** | **spaço** | **spaço** |
 | | | | | |
 | *ke* | **qŭe** | **qŭe** | **qŭe** | **ke** |
@@ -76,7 +72,6 @@ La **t** antaŭ **ĭ** aŭ **ī** prononciĝas [c], sed **st** ĉiam prononciĝa
 
 | | Lingua | Piĝino |
 |:-|:-|:-|
-| | | |
 | *nacio* | **natīo** | **natīo** |
 | *besto* | **bestĭa** | **bestĭo** |
 
@@ -120,7 +115,6 @@ Samkiel en ***Lingua***, duoblaj konsonantoj prononciĝas unuoble. Inter vokaloj
 
 | | Lingua | Piĝino |
 |:-|:-|:-|
-| | | |
 | *tero* | **terra** | **tero** |
 | | | |
 | *maso* | **massa** | **masso** |
@@ -133,7 +127,6 @@ En kelkaj ***Arkelingvaismoj***, intervokala **b** restas senŝanĝa.
 
 | | Archelingua | Lingua | Piĝino |
 |:-|:-|:-|:-|
-| | | | |
 | *skribi* | **scribe** | **scrive** | **scribi** |
 | *labori* | **labora** | **lavora** | **labori** |
 
@@ -143,7 +136,6 @@ Radikofina **ti** ĉiam prononciĝas [ti].
 
 | | Lingua | Piĝino |
 |:-|:-|:-|
-| | | | |
 | *demokratio* | **democratio** | **democratio** |
 
 Samkiel en **aŭ** [aŭ], **ŭ** prononciĝas [ŭ] en **eŭ**.
@@ -182,21 +174,18 @@ Samkiel en **aŭ** [aŭ], **ŭ** prononciĝas [ŭ] en **eŭ**.
 
 | | Sprak | Piĝino |
 |:-|:-|:-|
-| | | |
 | *kekso* | **keks** | **kekso** |
 
 ***Ĝermana*** **w** prononciĝas [v] kaj skribiĝas **v**. En ***Prapiĝino***, ĝi skribiĝas **w**.
 
 | | Sprak | Prapiĝino | Piĝino |
 |:-|:-|:-|:-|
-| | | | |
 | *varma* | **warm** | **warma** | **varma** |
 
 ***Ĝermana*** **j** prononciĝas [j] kaj skribiĝas **ĭ**.
 
 | | Sprak | Piĝino |
 |:-|:-|:-|
-| | | |
 | *ja* | **ja** | **ĭa** |
 
 ***Ĝermana*** **sh** [ŝ] konserviĝas. Antaŭ konsonanto, ***ĝermana*** **s** fariĝas **ŝ** [ŝ].
