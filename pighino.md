@@ -298,7 +298,7 @@ Malkonstruante la *direktan* ŝajnfinaĵo **-en** al **-e**, oni esprimas *lokon
 |:-|:-|
 | *iu* | **iu** |
 
-*Lingvaismo:* La tabelvortaj ŝajnfinaĵoj **-ale** kaj **-esma** fariĝas **-al** (respektive **-äl**) kaj **-es**.
+*Lingvaismo:* La tabelvortaj ŝajnfinaĵoj **-ale** kaj **-esma** fariĝas **-al** (respektive **-äl**) kaj **-es**. La tabelvorta ŝajnfinaĵo **-ande** unue fariĝis **-an** kaj poste **-am**. Analogie, la tabelvorta ŝajnsufikso **-ante** fariĝas **-åm** [om].
 
 | | Linga | Piĝino |
 |:-|:-|:-|
@@ -306,11 +306,7 @@ Malkonstruante la *direktan* ŝajnfinaĵo **-en** al **-e**, oni esprimas *lokon
 | *kiel* | **qŭale** | **qŭiäl** |
 | | | |
 | *kies* | **qŭesma** | **qŭies** |
-
-*Lingvaismo:* La tabelvorta ŝajnfinaĵo **-ande** unue fariĝis **-an** kaj poste **-am**. Analogie, la tabelvorta ŝajnsufikso **-ante** fariĝas **-åm** [om].
-
-| | Linga | Piĝino |
-|:-|:-|:-|
+| | | |
 | *kiam* | **qŭande** | **qŭiam** |
 | *kiom* | **qŭande** | **qŭiåm** |
 
