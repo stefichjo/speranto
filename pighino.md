@@ -1,6 +1,6 @@
 # Piĝino
 
-> Se ni eĉ supozos, ke la fina lingvo de la estontaj generacioj estos ne Esperanto, en ĉia okazo la vojo al tiu ellaborota lingvo nepre devas konduki tra Esperanto.
+> Se ni eĉ supposos, qŭe la fina linguo de la s̈tontaĭ generatīoĭ s̈tos ne S̈peranto, en ĉia occaso la voĭo al tiu ellaborota linguo nepre devas conduqŭi tra S̈peranto.
 > ---
 > L. L. Zamenhof
 
@@ -10,7 +10,7 @@
 
 La fonetika skribo de ***Piĝino*** baziĝas sur ***Äzyk***, sed la ortografia skribo estas etimologia.
 
-| | Piẑino [Piĝino] |
+| | Pidẑino [Piĝino] |
 |:-|:-|
 | *fakto* | **facto** [fakto] |
 | *ŝipo* | **shippo** [ŝipo] |
@@ -18,9 +18,9 @@ La fonetika skribo de ***Piĝino*** baziĝas sur ***Äzyk***, sed la ortografia 
 
 Kaze de dubo aŭ pro estetikaj kialoj, oni povas skribi fonetike anstataŭ etimologie.
 
-| | Piẑino [Piĝino] |
-|:-|:-|
-| *ŝanco* | **^çadĕntĭo**/**ŝanco** [ŝanco] |
+| | Prapidẑino | Pidẑino |
+|:-|:-|:-"
+| *ŝanco* | **^çadĕntĭo** | **ŝanco** |
 
 ### Latinidaj Vortoj
 
@@ -43,6 +43,39 @@ La **c** prononciĝas [k] antaŭ **a**, **o**, **u**, antaŭ konsonanto kaj fine
 | | | | |
 | *akĉento* | **akcent** | **acĉento** | **acĉento** |
 | *ĝenerala* | **generalny** | **ĝenerale** | **ĝenerala** |
+
+Kiam radikofina **c** kun **a**, **o** aŭ **u** prononciĝas [c], ĝi skribiĝas **ç**.
+
+| | Lingua | Piĝino |
+|:-|:-|:-|
+| | | |
+| *paco* | **pace** | **paço** |
+| *implici* | **implica** | **impliçi** |
+
+Kiam radikofina **c** kun **e**, **i** aŭ **y** prononciĝas [k], ĝi skribiĝas **qŭ**.
+
+| | Lingua | Prapiĝino | Piĝino |
+|:-|:-|:-|:-|
+| | | | |
+| *spaco* | **spatĭo** | **spatĭo** | **spaço** |
+| *paciento* | **patiente** | **patīento** | **patīento** |
+| *pacienco* | **patientĭa** | **patīentĭo** | **patīenço** |
+| *potenco* | **potentĭa** | **potentĭo** | **potenço** |
+| *potencialo* | **potentĭale** | **potentīalo** | **potentīalo** |
+
+Kiam **ce**/**qŭe**, **ci**/**qŭi**, **cy**/**qŭy** prononciĝas kun [k], ili skribiĝas **qŭe**, **qŭi**, **qŭy**. En ***Novpiĝino***, ili skribiĝas **ke**, **ki**, **ky**.
+
+| | Lingua | Prapiĝino | Piĝino | Novpiĝino |
+|:-|:-|:-|:-|:-|
+| | | | | |
+| *indiki* | **indica** | **indici** | **indiqŭi** | **indiki** |
+| *impliki* | **implica** | **implici** | **impliqŭi** | **impliki** |
+
+
+
+| | Prapiĝino | Piĝino | Novpiĝino |
+|:-|:-|:-|
+| *indiki* | **indici** | **indiki** | **indiqŭi** |
 
 La **tĭ** prononciĝas [c] (sed [st] en **stĭ**). Antaŭ **i** kun aldona vokalo, ĝi ankaŭ prononciĝas [c].
 
