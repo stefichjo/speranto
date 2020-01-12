@@ -249,9 +249,43 @@ Samkiel en **aŭ** [aŭ], **ŭ** prononciĝas [ŭ] en **eŭ**.
 |:-|:-|:-|
 | *kaj* | (**caĭ**) | **kaĭ** |
 
----
+## Gramatiko
 
 ### Korelativoj
+
+#### Artikoloj
+
+### Pronomoj
+
+### Radikaj Vortoj
+
+#### Substantivoj
+
+#### Adjektivoj
+
+#### Adverboj
+
+*Lingvaismo:* La ŝajnsufikso **-al-** fariĝas la ŝajnfinaĵo **-ał** [aŭ] ĉe kelkaj adverboj.
+
+| | Lingua | Piĝino |
+|:-|:-|:-|
+| *hodiaŭ* | **hodie** | **hodiał** |
+
+*Lingvaismo:* La imperativa finaĵo **-en** fariĝas finaĵo por esprimi *direkton*.
+
+| | Lingua | Piĝino |
+|:-|:-|:-|
+| *laboren*, *al la laboro* | **ad lavoro** | **laboren**, **al la laboro** |
+
+---
+
+#### Verboj
+
+#### Prepozicioj
+
+
+---
+
 
 ***Sprakismo:*** La korelativaj prefiksoj **i-** kaj **ni-** uziĝas kiel korelativa radiko. **ni-** estas prefiksata de redunda **ne-**.
 
@@ -315,14 +349,6 @@ Por ***vokativo*** uziĝas **ho**.
 Tra bruo, la direkta finaĵo **-en** uziĝas por **akuzativo**. Sen bruo, ĝi mallongiĝas al **-n**.
 
 * Mi amas ***vien***. → Mi amas ***vin***.
-
-#### Adjektivoj
-
-#### Adverboj
-
-***Novlingvidismo:*** La ***imperativa*** finaĵo **-en** uziĝas por esprimi ***direkton***.
-
-* ***Laboren***! *(Laboru! Al la laboro!)*
 
 #### Verboj
 
