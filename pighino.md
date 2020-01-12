@@ -388,10 +388,9 @@ Adjektivoj havas la samajn finaĵojn por *multenombro* kaj *akuzativo* kiel la s
 | *krom* | **krom** | **krom** |
 | *pri* | **pri** | **pri** |
 
-| | |
-|:-|:-|
-| *ludi la gitaron* | **ludi na la gitaro** |
-
+| | Piĝino | Novpiĝino |
+|:-|:-|:-|
+| *ludi la gitaron* | **ludi la gitarron** | **ludi na la gitarro** |
 
 ---
 
