@@ -18,14 +18,14 @@ La fonetika skribo de ***Piĝino*** baziĝas sur ***Äzyk***, sed la ortografia 
 
 Kaze de dubo aŭ pro estetikaj kialoj, oni skribas fonetike anstataŭ etimologie.
 
-| | Prapidẑino | Pidẑino |
+| | Prapiĝino | Piĝino |
 |:-|:-|:-|
 | | | |
 | *ŝanco* | **^çadĕntĭo** | **ŝanco** |
 
 ### Latinidaj Vortoj
 
-La **c** prononciĝas [k] antaŭ **a**, **o**, **u**, antaŭ konsonanto kaj fine de radiko. Antaŭ **e**, **i** (kaj **y**) ĝi prononciĝas [c]. La **g** ĉiam prononciĝas [g].
+La **c** kutime prononciĝas [k], sed antaŭ **e**, **i** (kaj **y**) ĝi prononciĝas [c]. La **g** ĉiam prononciĝas [g].
 
 | | Sprak | Äzyk | Lingua | Piĝino |
 |:-|:-|:-|:-|:-|
@@ -35,57 +35,54 @@ La **c** prononciĝas [k] antaŭ **a**, **o**, **u**, antaŭ konsonanto kaj fine
 | *koncerto* | **concert** | **koncert** | **conĉerto** | **concerto** |
 | *logiko* | **logic** | **logika** | **loĝica** | **logico** |
 | *akcento* | **akcent** | **acĉento** | **accento** |
+| | | | | |
 | *generalo* | **general** | **general** | **generale** | **generalo** |
 
+---
+
 Ĉar la prononcoj de **c** kiel [ĉ] kaj de **g** kiel [ĝ] ne estas skribeblaj etimologie, ili skribiĝas fonetike **ĉ** [ĉ] kaj **ĝ** [ĝ].
-
-| | Äzyk | Lingua | Piĝino |
-|:-|:-|:-|:-|
-| | | | |
-| *akĉento* | **akcent** | **acĉento** | **acĉento** |
-| *ĝenerala* | **generalny** | **ĝenerale** | **ĝenerala** |
-
-Kiam radikofina **c** kun **a**, **o** aŭ **u** prononciĝas [c], ĝi skribiĝas **ç**.
 
 | | Lingua | Piĝino |
 |:-|:-|:-|
 | | | |
+| *akĉento* | **acĉento** | **acĉento** |
+| *ĝenerala* | **ĝenerale** | **ĝenerala** |
+
+Kiam **c** prononciĝas [k] anstataŭ [c], ĝi skribiĝas **qŭ** (respektive **k** en ***Novpiĝino***). Kiam **c** prononciĝas [c] anstataŭ [k], ĝi skribiĝas **ç**. Radikofina **tĭ** [c] skribiĝas kiel **c**/**ç**.
+
+
+| | Lingua | Piĝino |
+|:-|:-|:-|
+| | | |
+| *indiki* | **indica** | **indiqŭi** |
+| *impliki* | **implica** | **impliqŭi** |
+| | | |
 | *paco* | **pace** | **paço** |
-| *implici* | **implica** | **impliçi** |
+| *implici* | **implica** | **implici** |
+| | | |
+| *paciento* | **patiente** | **patīento** |
+| *pacienco* | **patientĭa** | **patīenço** |
+| *potenco* | **potentĭa** | **potenço** |
+| *potencialo* | **potentĭale** | **potentīalo** |
 
-Kiam radikofina **c** kun **e**, **i** aŭ **y** prononciĝas [k], ĝi skribiĝas **qŭ**.
-
-| | Lingua | Prapiĝino | Piĝino |
-|:-|:-|:-|:-|
-| | | | |
-| *spaco* | **spatĭo** | **spatĭo** | **spaço** |
-| *paciento* | **patiente** | **patīento** | **patīento** |
-| *pacienco* | **patientĭa** | **patīentĭo** | **patīenço** |
-| *potenco* | **potentĭa** | **potentĭo** | **potenço** |
-| *potencialo* | **potentĭale** | **potentīalo** | **potentīalo** |
-
-Kiam **ce**/**qŭe**, **ci**/**qŭi**, **cy**/**qŭy** prononciĝas kun [k], ili skribiĝas **qŭe**, **qŭi**, **qŭy**. En ***Novpiĝino***, ili skribiĝas **ke**, **ki**, **ky**.
+En ***Prapiĝino***, la skribo de **tĭ** konserviĝas. En ***Novpiĝino***, **qŭ** [k] skribiĝas **k**.
 
 | | Lingua | Prapiĝino | Piĝino | Novpiĝino |
 |:-|:-|:-|:-|:-|
 | | | | | |
-| *indiki* | **indica** | **indici** | **indiqŭi** | **indiki** |
-| *impliki* | **implica** | **implici** | **impliqŭi** | **impliki** |
+| *spaco* | **spatĭo** | **spatĭo** | **spaço** | **spaço** |
+| | | | | |
+| *ke* | **qŭe** | **qŭe** | **qŭe** | **ke** |
 
-
-
-| | Prapiĝino | Piĝino | Novpiĝino |
-|:-|:-|:-|
-| *indiki* | **indici** | **indiki** | **indiqŭi** |
-
-La **tĭ** prononciĝas [c] (sed [st] en **stĭ**). Antaŭ **i** kun aldona vokalo, ĝi ankaŭ prononciĝas [c].
+La **t** antaŭ **ĭ** aŭ **ī** prononciĝas [c], sed **st** ĉiam prononciĝas [st].
 
 | | Lingua | Piĝino |
 |:-|:-|:-|
 | | | |
-| *nacio* | **natīo** | **natio** |
-| *pacienco* | **patīentĭa** | **patientĭo** |
+| *nacio* | **natīo** | **natīo** |
 | *besto* | **bestĭa** | **bestĭo** |
+
+---
 
 La **j** prononciĝas [ĝ]. Kiam ĝia prononco estas [j], ĝi skribiĝas [ĭ]. Ĉar la prononco de **j** kiel [ĵ] ne estas skribebla etimologie, ĝi skribiĝas fonetike **ĵ** [ĵ].
 
