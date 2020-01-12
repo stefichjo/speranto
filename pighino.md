@@ -260,6 +260,13 @@ Samkiel en **aŭ** [aŭ], **ŭ** prononciĝas [ŭ] en **eŭ**.
 
 ### Korelativoj
 
+La *korelativaj ŝajnfiksaĵoj* **i-** kaj **ni-** el ***Sprak*** kombiniĝas kun la (ŝajn-)finaĵoj formante *korelativojn*.
+
+| | |
+|:-|:-|
+| *io* | **io** |
+| *ia* | **ia** |
+
 #### Artikoloj
 
 ### Pronomoj
@@ -281,7 +288,7 @@ Samkiel en **aŭ** [aŭ], **ŭ** prononciĝas [ŭ] en **eŭ**.
 
 #### Substantivoj
 
-*Lingvaismo:* La pronoma ŝajnprefikso **i-** fariĝas la finaĵo **-ĭ** [j] por *multenombro*.
+*Lingvaismo:* La pronoma ŝajnsufikso **-i** por *multenombraj* pronomoj en ***Archelingua*** fariĝas la finaĵo **-ĭ** [j] por *multenombro*.
 
 | | Piĝino |
 |:-|:-|
@@ -351,10 +358,6 @@ La korelativaj prefiksoj **k-** kaj **t-** kombiniĝas kun korelativoj je **i-**
 * **kio ajn** → **ĉio**
 
 ### Pronomoj
-
-*Sprakismo:* La korelativo **hi** uzeblas kiel virgenra ununombra pronomo.
-
-* ***Hi*** estas viro.
 
 *Prapiĝino:* La korelativo **hi** fariĝas (**ĥi** → **ki** → **ci** →) **ĉi** kombine kun indikaj korelativoj je **ti-**. La korelativoj je **ĵ-** ne plu uziĝas.
 

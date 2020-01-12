@@ -137,18 +137,25 @@ Korelativoj havas la ŝajnfinaĵojn **-o**, **-a**, **-e** kaj **-i**.
 |-|-|-|-|
 |**quo**|**qua**|**que**|**qui**|
 |*(kio)*|*(kia)*|*(kiel)*|*(kien)*|
+|-|-|-|-|
 |**ho**|**ha**|**he**|**hi**|
 |*(jen tio)*|*(jen tia)*|*(jen tiel)*|*(jen tien)*|
+|-|-|-|-|
 |**jo**|**ja**|**je**|**ji**|
 |*(ĉi tio)*|*(ĉi tia)*|*(ĉi tiel)*|*(ĉi tien)*|
+|-|-|-|-|
 |**to**|**ta**|**te**|**ti**|
 |*(tio)*|*(tia)*|*(tiel)*|*(tien)*|
+|-|-|-|-|
 |**lo**|**la**|**le**|**li**|
 |*(fore tio)*|*(fore tia)*|*(fore tiel)*|*(fore tien)*|
+|-|-|-|-|
 |**no**|**na**|**ne**|**ni**|
 |*(nenio)*|*(nenia)*|*(neniel)*|*(nenien)*|
+|-|-|-|-|
 |**omno**|**omna**|**omne**|**omni**|
 |*(ĉio)*|*(ĉia)*|*(ĉiel)*|*(ĉien)*|
+|-|-|-|-|
 |**ono**|**ona**|**one**|**oni**|
 |*(io)*|*(ia)*|*(iel)*|*(ien)*|
 
