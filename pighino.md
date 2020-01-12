@@ -258,21 +258,21 @@ Samkiel en **aŭ** [aŭ], **ŭ** prononciĝas [ŭ] en **eŭ**.
 
 ## Gramatiko
 
-### Korelativoj
+### tabelvortoj
 
-*Sprakismo:* La *korelativaj ŝajnprefiksoj* **i-** kaj **ni-** el ***Sprak*** kombiniĝas kun (ŝajn-)finaĵoj formante *korelativojn*. Korelativoj kun la ŝajnprefikso **ni-** uziĝas kun prefiksita **ne**. En **Prapiĝino**, **ne** estas separebla.
+*Sprakismo:* La *tabelvortaj ŝajnprefiksoj* **i-** kaj **ni-** el ***Sprak*** kombiniĝas kun (ŝajn-)finaĵoj formante *tabelvortojn*. tabelvortoj kun la ŝajnprefikso **ni-** uziĝas kun prefiksita **ne**. En **Prapiĝino**, **ne** estas separebla.
 
 | | Prapiĝino | Piĝino |
 |:-|:-|:-|
 | *Mi vidas nenion.* | **Mi ne vidas nion.** | **Mi vidas nenion.** |
 
-La korelativaj prefiksoj **qŭ-** kaj **t-** kombiniĝas kun korelativoj je **i-**.
+La tabelvortaj prefiksoj **qŭ-** kaj **t-** kombiniĝas kun tabelvortoj je **i-**.
 
 | | |
 |:-|:-|
 | *Kio estas tio?* | **Qŭio s̈tas tio?** |
 
-*Sprakismo:* La nedifina artikolo **ain** el ***Ursprak*** uziĝas por esprimi *indiferentecon* aŭ kombine kun korelativoj je **qŭ-**.
+*Sprakismo:* La nedifina artikolo **ain** el ***Ursprak*** uziĝas por esprimi *indiferentecon* aŭ kombine kun tabelvortoj je **qŭ-**.
 
 | | |
 |:-|:-|
@@ -286,13 +286,13 @@ Malkonstruante la *direktan* ŝajnfinaĵo **-en** al **-e**, oni esprimas *lokon
 | *Kie vi estas?* | **Qŭie vi s̈tas?** |
 | *Kien vi iras?* | **Qŭien vi iras?** |
 
-*Lingvaismo:* La pronoma ŝajnfinaĵo **-u** fariĝas la korelativa ŝajnfinaĵo por *individu(aĵ)oj*.
+*Lingvaismo:* La pronoma ŝajnfinaĵo **-u** fariĝas la tabelvorta ŝajnfinaĵo por *individu(aĵ)oj*.
 
 | | |
 |:-|:-|
 | *iu* | **iu** |
 
-*Lingvaismo:* La korelativaj ŝajnsufiksoj **-al-** kaj **-esm-** fariĝas la korelativaj ŝajnfinaĵoj **-al** (respektive **-äl**) kaj **-es**.
+*Lingvaismo:* La tabelvortaj ŝajnsufiksoj **-al-** kaj **-esm-** fariĝas la tabelvortaj ŝajnfinaĵoj **-al** (respektive **-äl**) kaj **-es**.
 
 | | Linga | Piĝino |
 |:-|:-|:-|
@@ -301,7 +301,7 @@ Malkonstruante la *direktan* ŝajnfinaĵo **-en** al **-e**, oni esprimas *lokon
 | | | |
 | *kies* | **qŭesma** | **qŭies** |
 
-*Lingvaismo:* La korelativa ŝajnfinaĵo **-ande** unue fariĝis **-an** kaj poste **-am**. Analogie, la korelativa ŝajnsufikso **-ante** fariĝas **-åm** [om].
+*Lingvaismo:* La tabelvorta ŝajnfinaĵo **-ande** unue fariĝis **-an** kaj poste **-am**. Analogie, la tabelvorta ŝajnsufikso **-ante** fariĝas **-åm** [om].
 
 | | Linga | Piĝino |
 |:-|:-|:-|
@@ -377,7 +377,7 @@ Adjektivoj havas la samajn finaĵojn por *multenombro* kaj *akuzativo* kiel la s
 
 ### Pronomoj
 
-*Prapiĝino:* La korelativo **hi** fariĝas (**ĥi** → **ki** → **ci** →) **ĉi** kombine kun indikaj korelativoj je **ti-**. La korelativoj je **ĵ-** ne plu uziĝas.
+*Prapiĝino:* La tabelvorto **hi** fariĝas (**ĥi** → **ki** → **ci** →) **ĉi** kombine kun indikaj tabelvortoj je **ti-**. La tabelvortoj je **ĵ-** ne plu uziĝas.
 
 * **ĵio**, **hi-tio** → **ĉi tio**
 
