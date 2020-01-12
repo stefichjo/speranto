@@ -264,7 +264,14 @@ Samkiel en **aŭ** [aŭ], **ŭ** prononciĝas [ŭ] en **eŭ**.
 
 ### Pronomoj
 
-*Tra bruo:* La direkta finaĵo **-en** uziĝas por *akuzativo*. Sen bruo, ĝi mallongiĝas al **-n**.
+***Lingvaismo:*** Samkiel la (multenombraj) pronomoj en ***Archelingua***, pronomoj en ***Piĝino*** havas la ŝajnfinaĵon **-i** (kaj en ununombro kaj en multenombro).
+
+| | Archelingua | Lingua | Piĝino |
+|:-|:-|:-|:-|
+| *vi* | **vi** | **vu** | **vi** |
+| *ci* | **tu** | **tu** | **tī** |
+
+*Tra bruo:* La direkta finaĵo **-en** uziĝas por *akuzativo*. *Sen bruo*, ĝi mallongiĝas al **-n**.
 
 | | Piĝino | (tra bruo) |
 |:-|:-|:-|
@@ -274,13 +281,25 @@ Samkiel en **aŭ** [aŭ], **ŭ** prononciĝas [ŭ] en **eŭ**.
 
 #### Substantivoj
 
-*Lingvaismo:* La direkta finaĵo **-en** mallongiĝas al **-n** kaj fariĝas finaĵo por *akuzativo*. **Tra bruo**, uziĝas anstataŭe la *akuzativa* prepozicio **a**.
+*Lingvaismo:* La pronoma ŝajnprefikso **i-** fariĝas la finaĵo **-ĭ** [j] por *multenombro*.
+
+| | Piĝino |
+|:-|:-|
+| *amikoj* | **amicoĭ** |
+
+*Lingvaismo:* La direkta finaĵo **-en** mallongiĝas al **-n** kaj fariĝas finaĵo por *akuzativo*. **Tra bruo**, uziĝas anstataŭe la (neologisma) *akuzativa* prepozicio **a**.
 
 | | Piĝino | (tra bruo) |
 |:-|:-|:-|
 | *Mi vidas domon.* | **Mi vidas domon.** | **Mi vidas a domo.** |
 
 #### Adjektivoj
+
+Adjektivoj havas la samajn finaĵojn por *multenombro* kaj *akuzativo* kiel la substantivoj.
+
+| | Piĝino |
+|:-|:-|
+| *Mi havas multajn amikojn.* | **Mi havas multaĭn amicoĭn.** |
 
 #### Adverboj
 
@@ -333,19 +352,6 @@ La korelativaj prefiksoj **k-** kaj **t-** kombiniĝas kun korelativoj je **i-**
 
 ### Pronomoj
 
-***Neolingvaismo:*** Pronomoj havas la ŝajnfinaĵon **-i**.
-
-* **mu** → **mi**
-* **nu** → **ni**
-
-La ununombra duapersona pronomo **ci** ne plu uziĝas. Anstataŭe, uziĝas la multenombra duapersona pronomo **vi**.
-
-* ***Ci*** estas bona amiko. → ***Vi*** estas bona amiko.
-
-*Prapiĝino:* La pronomo **ti** fariĝas **ci**.
-
-* **ti** → **ci**
-
 *Sprakismo:* La korelativo **hi** uzeblas kiel virgenra ununombra pronomo.
 
 * ***Hi*** estas viro.
@@ -353,14 +359,6 @@ La ununombra duapersona pronomo **ci** ne plu uziĝas. Anstataŭe, uziĝas la mu
 *Prapiĝino:* La korelativo **hi** fariĝas (**ĥi** → **ki** → **ci** →) **ĉi** kombine kun indikaj korelativoj je **ti-**. La korelativoj je **ĵ-** ne plu uziĝas.
 
 * **ĵio**, **hi-tio** → **ĉi tio**
-
-### Artikoloj
-
-### Radikaj Vortoj
-
-***Lingvaismo:*** La finaĵo **-j** por substantivoj kaj adjektivoj signifas ***multenombron***.
-
-* ***bonaj*** ***amikoj***
 
 #### Substantivoj
 
