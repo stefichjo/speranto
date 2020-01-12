@@ -362,7 +362,7 @@ Adjektivoj havas la samajn finaĵojn por *multenombro* kaj *akuzativo* kiel la s
 
 | | Lingua | Piĝino |
 |:-|:-|:-|
-| *laboren*, *al la laboro* | **laboren** → **ad la lavoro** | **laboren**, **al la laboro** |
+| *laboren*, *al la laboro* | **lavoren** → **ad la lavoro** | **laboren**, **al la laboro** |
 
 #### Verboj
 
