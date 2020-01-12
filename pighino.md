@@ -106,21 +106,27 @@ Post vokalo, **ŭ** prononciĝas [ŭ]. Kiam **aŭ** prononciĝas [o], ĝi etimol
 | *akvo* | **aqŭa** | **aquo** |
 | *sekvi* | **seqŭi** | **sequi** |
 | *lingvo* | **lingŭa** | **linguo** |
-| *solvi* | **solve** | **solui** |
+| *vidvo* | **vidŭo** | **viduo** |
+| | | |
+| *solvi* | **solve** | **solvi** |
 | | | |
 | *evolui* | **evolve** | **evolūi** |
 | *evolucio* | **evolutīo** | **evolutīo** |
 | *situi* | **situa** | **sitūi** |
 | *situacio* | **situatīo** | **sitūatīo** |
 
-Samkiel en ***Lingua***, duoblaj konsonantoj prononciĝas unuoble. Inter vokaloj (respektive inter vokalo kaj radikofino), **s** prononciĝas [z].
+Samkiel en ***Lingua***, duoblaj konsonantoj prononciĝas unuoble. Inter vokaloj (respektive inter vokalo kaj radikofino), **s** kaj **x** prononciĝas [z] respektive [kz].
 
 | | Lingua | Piĝino |
 |:-|:-|:-|
 | | | |
 | *tero* | **terra** | **tero** |
+| | | |
 | *maso* | **massa** | **masso** |
 | *rozo* | **rosa** | **roso** |
+| | | |
+| *akso* | **axe** | **axo** |
+| *ekzemplo* | **exemplo** | **exemplo** |
 
 En kelkaj ***Arkelingvaismoj***, intervokala **b** restas senŝanĝa.
 
@@ -134,10 +140,10 @@ En kelkaj ***Arkelingvaismoj***, intervokala **b** restas senŝanĝa.
 
 Radikofina **ti** ĉiam prononciĝas [ti].
 
-| | Äzyk | Lingua | Piĝino |
-|:-|:-|:-|:-|
+| | Lingua | Piĝino |
+|:-|:-|:-|
 | | | | |
-| *demokratio* | **demoracĭa** | **democratio** | **democratio** |
+| *demokratio* | **democratio** | **democratio** |
 
 Samkiel en **aŭ** [aŭ], **ŭ** prononciĝas [ŭ] en **eŭ**.
 
@@ -167,6 +173,7 @@ Samkiel en **aŭ** [aŭ], **ŭ** prononciĝas [ŭ] en **eŭ**.
 |:-|:-|:-|
 | *kaj* | (**caĭ**) | **kaĭ** |
 | *krom* | (**crom**) | **krom** |
+
 
 ### Ĝermanaj Vortoj
 
