@@ -38,8 +38,6 @@ La **c** kutime prononciĝas [k], sed antaŭ **e**, **i** (kaj **y**) ĝi pronon
 | | | | | |
 | *generalo* | **general** | **general** | **generale** | **generalo** |
 
----
-
 Ĉar la prononcoj de **c** kiel [ĉ] kaj de **g** kiel [ĝ] ne estas skribeblaj etimologie, ili skribiĝas fonetike **ĉ** [ĉ] kaj **ĝ** [ĝ].
 
 | | Lingua | Piĝino |
@@ -49,7 +47,6 @@ La **c** kutime prononciĝas [k], sed antaŭ **e**, **i** (kaj **y**) ĝi pronon
 | *ĝenerala* | **ĝenerale** | **ĝenerala** |
 
 Kiam **c** prononciĝas [k] anstataŭ [c], ĝi skribiĝas **qŭ** (respektive **k** en ***Novpiĝino***). Kiam **c** prononciĝas [c] anstataŭ [k], ĝi skribiĝas **ç**. Radikofina **tĭ** [c] skribiĝas kiel **c**/**ç**.
-
 
 | | Lingua | Piĝino |
 |:-|:-|:-|
@@ -81,8 +78,6 @@ La **t** antaŭ **ĭ** aŭ **ī** prononciĝas [c], sed **st** ĉiam prononciĝa
 | | | |
 | *nacio* | **natīo** | **natīo** |
 | *besto* | **bestĭa** | **bestĭo** |
-
----
 
 La **j** prononciĝas [ĝ]. Kiam ĝia prononco estas [j], ĝi skribiĝas [ĭ]. Ĉar la prononco de **j** kiel [ĵ] ne estas skribebla etimologie, ĝi skribiĝas fonetike **ĵ** [ĵ].
 
