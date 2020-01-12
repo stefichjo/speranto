@@ -324,7 +324,7 @@ Malkonstruante la *direktan* ŝajnfinaĵo **-en** al **-e**, oni esprimas *lokon
 
 | | Piĝino | (tra bruo) |
 |:-|:-|:-|
-| *Mi amas vin.* | **Mi amas vin.** | **Mi amas vien.** |
+| *Mi aŭdas ilin.* | **Mi aŭdas ilin.** | **Mi aŭdas ili-en.** |
 
 ### Radikaj Vortoj
 
@@ -366,6 +366,14 @@ Adjektivoj havas la samajn finaĵojn por *multenombro* kaj *akuzativo* kiel la s
 
 #### Verboj
 
+*Lingvaismo:* La *vokativa* finaĵo **-u** uziĝas por *imperativo* anstataŭ por alvoki ion bezonatan. La trabrua verba ŝajnfinaĵo **-s'** en ***Neolingua*** fariĝas **-s**.
+
+| | Neolingua | Piĝino |
+|:-|:-|:-|
+| *Helpu!* | **Adjuvu!** → **Adjuven!** | **Helpu!** |
+| | | |
+| *Mi helpas vin.* | **Mu adjuvas' tu.** | **Mi helpas vin.** |
+
 #### Prepozicioj
 
 *Lingvaismo:* La lokaj prepozicioj **ad**, **in**, **de** kaj la ne-lokaj prepozicioj **al**, **en**, **di** el ***Neolingua*** unuiĝas al **al**, **en**, **de** en ***Piĝino***.
@@ -392,22 +400,10 @@ Adjektivoj havas la samajn finaĵojn por *multenombro* kaj *akuzativo* kiel la s
 |:-|:-|:-|
 | *ludi la gitaron* | **ludi la gitarron** | **ludi na la gitarro** |
 
----
+*Novpiĝino:* *Tra bruo*, uziĝas **na** anstataŭ **a**.
 
-#### Substantivoj
-
-Por ***vokativo*** uziĝas **ho**.
-
-* ***Ho*** amiko!
-
-#### Verboj
-
-***Novlingvidismo:*** La ***vokativa*** finaĵo **-u** uziĝas por alvoki ion bezonatan aŭ por ***imperativo***.
-
-* ***Helpu***! *(Help! Helpu!)*
-
-***Neolingvaismo:*** La trabrua akuzativa prepozicio **as** fariĝas la verba finaĵo por la ***as-tempo***.
-
-* Mu ***adiuv'as*** tu. → Mi ***helpas*** vin.
+| | Novpiĝino | (tra bruo) |
+|:-|:-|:-|:-|
+| *Mi vidas vin.* | **Mi vidas vin.** | **Mi vidas na vi.** |
 
 
