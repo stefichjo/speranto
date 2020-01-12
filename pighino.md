@@ -85,6 +85,7 @@ La **j** prononciĝas [ĝ]. Kiam ĝia prononco estas [j], ĝi skribiĝas [ĭ]. �
 | *ĵuri* | **jura** | **ĵuri** |
 | *jam* | **jam** | **ĭam** |
 | *majo* | **maĭo** | **maĭo** |
+| *trajno* | **traĭno** | **traĭno** |
 | ? *seĝo* | **sedĭa** | **sedĵo** |
 | ? *neĝo* | **nevĭa** | **nevĵo** |
 
@@ -231,19 +232,6 @@ Kiam ***ĝermanaj*** **i** kaj **u** diftongiĝas al [aj] respektive [aŭ], ili 
 | *ajn* | **æn** | **æn** | **aĭn** |
 | | | | |
 | *ŝtono* | **stæn** | **ståno** | **ŝtono** |
-
----
-
-*-er
-
-| *telero* | **teller** | **tellero** |
-
-
-* ! cella cellario
-
-| *kelo* | **keller** | **kello** |
-| *kelnero* | **kellner** | **kellnero** |
-
 
 ---
 
