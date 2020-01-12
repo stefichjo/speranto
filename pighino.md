@@ -188,19 +188,20 @@ Samkiel en **aŭ** [aŭ], **ŭ** prononciĝas [ŭ] en **eŭ**.
 |:-|:-|:-|
 | *ja* | **ja** | **ĭa** |
 
-***Ĝermana*** **sh** [ŝ] konserviĝas. Antaŭ konsonanto, ***ĝermana*** **s** fariĝas **ŝ** [ŝ].
+***Ĝermana*** **sh** [ŝ] konserviĝas. Antaŭ konsonanto, ***ĝermana*** **s** fariĝas **ŝ** [ŝ]. Kiam ***ĝermana*** **s** prononciĝas [s] anstataŭ [ŝ], ĝi skribiĝas **ş**.
 
-| | Sprak | Piĝino |
-|:-|:-|:-|
-| *fiŝo* | **fish** | **fisho** |
-| *ŝipo* | **shipp** | **shippo** |
-| *ŝranko* | **shrank** | **shranko** |
-| *ŝuo* | **shu** | **shuo** |
+| | Sprak | Prapiĝino | Piĝino |
+|:-|:-|:-|:-|
+| *fiŝo* | **fish** | **fisho** | **fisho** |
+| *ŝipo* | **shipp** | **shippo** | **shippo** |
+| *ŝranko* | **shrank** | **shranko** | **shranko** |
+| *ŝuo* | **shu** | **shuo** | **shuo** |
+| | | | |
+| *ŝnuro* | **snur** | **snuro** | **ŝnuro** |
+| *ŝlimo* | **slim** | **slimo** | **ŝlimo** |
+| *ŝtalo* | **stal** | **stalo** | **ŝtalo** |
 | | | |
-| *ŝnuro* | **snur** | **ŝnuro** |
-| *ŝlimo* | **slim** | **ŝlimo** |
-| *ŝtato* | **stat** | **ŝtato** |
-| *ŝtalo* | **stal** | **ŝtalo** |
+| *anstataŭ* | **an stad** | **anştad'ał** | **anstataŭ** |
 
 ***Ĝermanaj*** **t**, **d** kaj **đ** prononciĝas [c], [t] kaj [d]. Kiam ***germana*** **t** aŭ **d** prononciĝas senŝanĝe [t] respektive [d], ili skribiĝas **ŧ** respektive **đ** en ***Prapiĝino***.
 
@@ -217,6 +218,7 @@ Samkiel en **aŭ** [aŭ], **ŭ** prononciĝas [ŭ] en **eŭ**.
 | *trinki* | **drink** | **drinki** | **trinki** |
 | *drinki* | **drink** | **đrinki** | **drinki** |
 | *pelto* | **pelt** | **pelŧo** | **pelto** |
+| *ŝtato* | **stat** | **staŧo** | **ŝtato** |
 
 Kiam ***ĝermanaj*** **i** kaj **u** diftongiĝas al [aj] respektive [aŭ], ili skribiĝas **ĩ** respektive **ũ** en ***Prapiĝino***. Kiam ***ĝermana*** **e** aŭ **i** prononciĝas [ej], ili skribiĝas **ë** respektive **ï** en ***Prapiĝino***.
 
