@@ -264,6 +264,12 @@ Samkiel en **aŭ** [aŭ], **ŭ** prononciĝas [ŭ] en **eŭ**.
 
 ### Pronomoj
 
+*Tra bruo:* La direkta finaĵo **-en** uziĝas por *akuzativo*. Sen bruo, ĝi mallongiĝas al **-n**.
+
+| | Piĝino | (tra bruo) |
+|:-|:-|:-|
+| *Mi amas vin.* | **Mi amas vin.** | **Mi amas vien.** |
+
 ### Radikaj Vortoj
 
 #### Substantivoj
@@ -293,7 +299,6 @@ Samkiel en **aŭ** [aŭ], **ŭ** prononciĝas [ŭ] en **eŭ**.
 | | Lingua | Neolingua | Piĝino |
 |:-|:-|:-|:-|
 | *ĉirkaŭ* | **ĉirc' ad** | **zirc' al** | **ĉirc' ał** |
-
 
 ---
 
@@ -356,10 +361,6 @@ La ununombra duapersona pronomo **ci** ne plu uziĝas. Anstataŭe, uziĝas la mu
 Por ***vokativo*** uziĝas **ho**.
 
 * ***Ho*** amiko!
-
-Tra bruo, la direkta finaĵo **-en** uziĝas por **akuzativo**. Sen bruo, ĝi mallongiĝas al **-n**.
-
-* Mi amas ***vien***. → Mi amas ***vin***.
 
 #### Verboj
 
