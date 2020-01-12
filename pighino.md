@@ -260,12 +260,19 @@ Samkiel en **aŭ** [aŭ], **ŭ** prononciĝas [ŭ] en **eŭ**.
 
 ### Korelativoj
 
-La *korelativaj ŝajnfiksaĵoj* **i-** kaj **ni-** el ***Sprak*** kombiniĝas kun la (ŝajn-)finaĵoj formante *korelativojn*.
+La *korelativaj ŝajnprefiksoj* **i-** kaj **ni-** el ***Sprak*** kombiniĝas kun (ŝajn-)finaĵoj formante *korelativojn*. Korelativoj kun la ŝajnprefikso **ni-** uziĝas kun prefiksita **ne**. Malkonstruante la *direktan* ŝajnfinaĵo **-en** al **-e**, oni esprimas *lokon*.
 
-| | |
-|:-|:-|
-| *io* | **io** |
-| *ia* | **ia** |
+| | -o |-a | -e | -en |
+|:-|:-|:-|:-|:-|
+| **i-** | **io** | **ia** | **ie** | **ien** |
+| **neni-** | **nenio** | **nenia** | **nenie** | **nenien** |
+
+En **Prapiĝino**, **ne** estas separebla.
+
+| | Prapiĝino | Piĝino |
+|:-|:-|:-|
+| *Mi vidas nenion.* | **Mi ne vidas nion.** | **Mi vidas nenion.** |
+
 
 #### Artikoloj
 
