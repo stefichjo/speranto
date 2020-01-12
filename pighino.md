@@ -260,19 +260,53 @@ Samkiel en **aŭ** [aŭ], **ŭ** prononciĝas [ŭ] en **eŭ**.
 
 ### Korelativoj
 
-La *korelativaj ŝajnprefiksoj* **i-** kaj **ni-** el ***Sprak*** kombiniĝas kun (ŝajn-)finaĵoj formante *korelativojn*. Korelativoj kun la ŝajnprefikso **ni-** uziĝas kun prefiksita **ne**. Malkonstruante la *direktan* ŝajnfinaĵo **-en** al **-e**, oni esprimas *lokon*.
-
-| | -o |-a | -e | -en |
-|:-|:-|:-|:-|:-|
-| **i-** | **io** | **ia** | **ie** | **ien** |
-| **neni-** | **nenio** | **nenia** | **nenie** | **nenien** |
-
-En **Prapiĝino**, **ne** estas separebla.
+*Sprakismo:* La *korelativaj ŝajnprefiksoj* **i-** kaj **ni-** el ***Sprak*** kombiniĝas kun (ŝajn-)finaĵoj formante *korelativojn*. Korelativoj kun la ŝajnprefikso **ni-** uziĝas kun prefiksita **ne**. En **Prapiĝino**, **ne** estas separebla.
 
 | | Prapiĝino | Piĝino |
 |:-|:-|:-|
 | *Mi vidas nenion.* | **Mi ne vidas nion.** | **Mi vidas nenion.** |
 
+La korelativaj prefiksoj **qŭ-** kaj **t-** kombiniĝas kun korelativoj je **i-**.
+
+| | |
+|:-|:-|
+| *Kio estas tio?* | **Qŭio s̈tas tio?** |
+
+*Sprakismo:* La nedifina artikolo **ain** el ***Ursprak*** uziĝas por esprimi *indiferentecon* aŭ kombine kun korelativoj je **qŭ-**.
+
+| | |
+|:-|:-|
+| *Kio ajn povas okazi.* | **Qŭio aĭn povas occasi.** |
+| *Ĉio ajn povas okazi.* | **Ĉio aĭn povas occasi.** |
+
+Malkonstruante la *direktan* ŝajnfinaĵo **-en** al **-e**, oni esprimas *lokon*.
+
+| | |
+|:-|:-|
+| *Kie vi estas?* | **Qŭie vi s̈tas?** |
+| *Kien vi iras?* | **Qŭien vi iras?** |
+
+*Lingvaismo:* La pronoma ŝajnfinaĵo **-u** fariĝas la korelativa ŝajnfinaĵo por *individu(aĵ)oj*.
+
+| | |
+|:-|:-|
+| *iu* | **iu** |
+
+*Lingvaismo:* La korelativaj ŝajnsufiksoj **-al-** kaj **-esm-** fariĝas la korelativaj ŝajnfinaĵoj **-al** (respektive **-äl**) kaj **-es**.
+
+| | Linga | Piĝino |
+|:-|:-|:-|
+| *kial* | **qŭale** | **qŭial** |
+| *kiel* | **qŭale** | **qŭiäl** |
+| | | |
+| *kies* | **qŭesma** | **qŭies** |
+
+*Lingvaismo:* La korelativa ŝajnfinaĵo **-ande** unue fariĝis **-an** kaj poste **-am**. Analogie, la korelativa ŝajnsufikso **-ante** fariĝas **-åm** [om].
+
+| | Linga | Piĝino |
+|:-|:-|:-|
+| *kiam* | **qŭande** | **qŭiam** |
+| *kiom* | **qŭande** | **qŭiåm** |
 
 #### Artikoloj
 
@@ -301,7 +335,7 @@ En **Prapiĝino**, **ne** estas separebla.
 |:-|:-|
 | *amikoj* | **amicoĭ** |
 
-*Lingvaismo:* La direkta finaĵo **-en** mallongiĝas al **-n** kaj fariĝas finaĵo por *akuzativo*. **Tra bruo**, uziĝas anstataŭe la (neologisma) *akuzativa* prepozicio **a**.
+*Lingvaismo:* La direkta finaĵo **-en** mallongiĝas al **-n** kaj fariĝas finaĵo por *akuzativo*. *Tra bruo*, uziĝas anstataŭe la (neologisma) *akuzativa* prepozicio **a**.
 
 | | Piĝino | (tra bruo) |
 |:-|:-|:-|
@@ -341,29 +375,6 @@ Adjektivoj havas la samajn finaĵojn por *multenombro* kaj *akuzativo* kiel la s
 
 ---
 
-
-***Sprakismo:*** La korelativaj prefiksoj **i-** kaj **ni-** uziĝas kiel korelativa radiko. **ni-** estas prefiksata de redunda **ne-**.
-
-* Mu havan ***ajo***. → Mi havas ***ion***.
-* Mu ***ne*** havan ***najo***. → Mi havas ***nenion***.
-
-La korelativaj prefiksoj **k-** kaj **t-** kombiniĝas kun korelativoj je **i-** por signifi **ki-** kaj **ti-**.
-
-* A ***kajo*** tu havan? → ***Kion*** vi havas?
-* Tu havan ***tajo***. → Vi havas ***tion***.
-
-***Lingvidismo:*** La pronoma finaĵo **-u** fariĝas la korelativa finaĵo por ***individu(aĵ)oj***.
-
-* ***ula*** domo → ***iu*** domo
-
-***Ursprakismo:*** Kombine kun la nedifina artikolo **ajn** esprimiĝas ***indiferenteco***.
-
-* ***iu ajn*** domo
-
-*Prapiĝino:* Anstataŭ korelativo je **ki-** kombine kun la nedifina artikolo **ajn** uziĝas korelativo je **ĉi-**.
-
-* **kio ajn** → **ĉio**
-
 ### Pronomoj
 
 *Prapiĝino:* La korelativo **hi** fariĝas (**ĥi** → **ki** → **ci** →) **ĉi** kombine kun indikaj korelativoj je **ti-**. La korelativoj je **ĵ-** ne plu uziĝas.
@@ -387,10 +398,6 @@ Por ***vokativo*** uziĝas **ho**.
 * Mu ***adiuv'as*** tu. → Mi ***helpas*** vin.
 
 #### Prepozicioj
-
-La ŝajnfinaĵo **-al** fariĝas **-aŭ**.
-
-* ***ĉirc'al*** → ***ĉirkaŭ***
 
 ***Novlingvidismo:*** La lokaj prepozicioj **ad**, **in**, **de** kaj la ne-lokaj prepozicioj **al**, **en**, **di** unuiĝas al **al**, **en**, **de**.
 
