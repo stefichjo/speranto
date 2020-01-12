@@ -31,7 +31,6 @@ La fonetika skribo de ***Piĝino*** baziĝas sur ***Äzyk***. Tial, la etimologi
 |:-|:-|:-|
 | *prava* | **prava** | **prava** [prava] |
 | *nepre* | **nepre** | **nepre** [nepre] |
-| *krom* | **krom** | **krom** [krom] |
 
 ### Ĝermanaj Vortoj
 
@@ -369,11 +368,30 @@ Adjektivoj havas la samajn finaĵojn por *multenombro* kaj *akuzativo* kiel la s
 
 #### Prepozicioj
 
+*Lingvaismo:* La lokaj prepozicioj **ad**, **in**, **de** kaj la ne-lokaj prepozicioj **al**, **en**, **di** el ***Neolingua*** unuiĝas al **al**, **en**, **de** en ***Piĝino***.
+
+| | Lingua | Piĝino |
+|:-|:-|:-|
+| *al*, *en*, *de* | **ad**/**al**, **in**/**en**, **de**/**di** | **al**, **en**, **de** |
+
 *Lingvaismo:* La prepoziciaĵa ŝajnfinaĵo **' ad** (respektive **' al**) fariĝas **' ał** [aŭ].
 
 | | Lingua | Neolingua | Piĝino |
 |:-|:-|:-|:-|
 | *ĉirkaŭ* | **ĉirc' ad** | **zirc' al** | **ĉirc' ał** |
+
+*Jazikismo:* (neologisma) **na**
+
+| | Äzyk | Piĝino |
+|:-|:-|:-|
+| *na* | **na** | **na** |
+| *krom* | **krom** | **krom** |
+| *pri* | **pri** | **pri** |
+
+| | |
+|:-|:-|
+| *ludi la gitaron* | **ludi na la gitaro** |
+
 
 ---
 
@@ -393,14 +411,4 @@ Por ***vokativo*** uziĝas **ho**.
 
 * Mu ***adiuv'as*** tu. → Mi ***helpas*** vin.
 
-#### Prepozicioj
-
-***Novlingvidismo:*** La lokaj prepozicioj **ad**, **in**, **de** kaj la ne-lokaj prepozicioj **al**, **en**, **di** unuiĝas al **al**, **en**, **de**.
-
-* Mi estas ***en*** la domo.
-
-***Jazikismo:*** Uziĝas jazikaj prepozicioj.
-
-* paroli ion de la temo → paroli ***pri*** la temo
-* ludi la gitaron → ludi ***na*** la gitaro
 
