@@ -272,6 +272,12 @@ La tabelvortaj prefiksoj **qŭ-** kaj **t-** kombiniĝas kun tabelvortoj je **i-
 |:-|:-|
 | *Kio estas tio?* | **Qŭio s̈tas tio?** |
 
+*Lingvaismo:* **ĉŭi**
+
+| | Linga | Prapiĝino | Piĝino |
+|:-|:-|:-|:-|
+| *ĉi* | **cui** | **ĉŭi** | **ĉi** |
+
 *Sprakismo:* La nedifina artikolo **ain** el ***Ursprak*** uziĝas por esprimi *indiferentecon* aŭ kombine kun tabelvortoj je **qŭ-**.
 
 | | |
@@ -374,12 +380,6 @@ Adjektivoj havas la samajn finaĵojn por *multenombro* kaj *akuzativo* kiel la s
 | *ĉirkaŭ* | **ĉirc' ad** | **zirc' al** | **ĉirc' ał** |
 
 ---
-
-### Pronomoj
-
-*Prapiĝino:* La tabelvorto **hi** fariĝas (**ĥi** → **ki** → **ci** →) **ĉi** kombine kun indikaj tabelvortoj je **ti-**. La tabelvortoj je **ĵ-** ne plu uziĝas.
-
-* **ĵio**, **hi-tio** → **ĉi tio**
 
 #### Substantivoj
 
