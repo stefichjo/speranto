@@ -89,8 +89,9 @@ La **j** prononciĝas [ĝ]. Kiam ĝia prononco estas [j], ĝi skribiĝas [ĭ]. �
 | *ĵus* | **jus** | **ĵus** |
 | *ĵuri* | **jura** | **ĵuri** |
 | *jam* | **jam** | **ĭam** |
-| *majo* | **maio** | **maĭo** |
-| *seĝo* | **sedia** | **sedĵo** |
+| *majo* | **maĭo** | **maĭo** |
+| ? *seĝo* | **sedĭa** | **sedĵo** |
+| ? *neĝo* | **nevĭa** | **nevĵo** |
 
 Post vokalo, **ŭ** prononciĝas [ŭ]. Kiam **aŭ** prononciĝas [o], ĝi etimologie skribiĝas **åŭ**. Inter konsonanto kaj vokalo (respektive radikofino), **ŭ** elliziiĝas kaj **u** prononciĝas [v]. Kiam **u** tamen prononciĝas [u], ĝi skribiĝas **ū**.
 
@@ -125,7 +126,7 @@ Samkiel en ***Lingua***, duoblaj konsonantoj prononciĝas unuoble. Inter vokaloj
 | *maso* | **massa** | **masso** |
 | *rozo* | **rosa** | **roso** |
 | | | |
-| *akso* | **axe** | **axo** |
+| *fiksi* | **fixa** | **fixi** |
 | *ekzemplo* | **exemplo** | **exemplo** |
 
 En kelkaj ***Arkelingvaismoj***, intervokala **b** restas senŝanĝa.
@@ -176,6 +177,97 @@ Samkiel en **aŭ** [aŭ], **ŭ** prononciĝas [ŭ] en **eŭ**.
 
 
 ### Ĝermanaj Vortoj
+
+***Ĝermana*** **k** konserviĝas.
+
+| | Sprak | Piĝino |
+|:-|:-|:-|
+| | | |
+| *kekso* | **keks** | **kekso** |
+
+***Ĝermana*** **w** prononciĝas [v] kaj skribiĝas **v**. En ***Prapiĝino***, ĝi skribiĝas **w**.
+
+| | Sprak | Prapiĝino | Piĝino |
+|:-|:-|:-|:-|
+| | | | |
+| *varma* | **warm** | **warma** | **varma** |
+
+***Ĝermana*** **j** prononciĝas [j] kaj skribiĝas **ĭ**.
+
+| | Sprak | Piĝino |
+|:-|:-|:-|
+| | | |
+| *ja* | **ja** | **ĭa** |
+
+***Ĝermana*** **sh** [ŝ] konserviĝas. Antaŭ konsonanto, ***ĝermana*** **s** fariĝas **ŝ** [ŝ].
+
+| | Sprak | Piĝino |
+|:-|:-|:-|
+| | | |
+| *fiŝo* | **fish** | **fisho** |
+| *ŝipo* | **shipp** | **shippo** |
+| *ŝranko* | **shrank** | **shranko** |
+| *ŝuo* | **shu** | **shuo** |
+| | | |
+| *ŝnuro* | **snur** | **ŝnuro** |
+| *ŝlimo* | **slim** | **ŝlimo** |
+
+***Ĝermanaj **t**, **d** kaj **đ** prononciĝas [c], [t] kaj [d]. Kiam ***germana*** **t** aŭ **d** prononciĝas senŝanĝe [t] respektive [d], ili skribiĝas **ŧ** respektive **đ** en ***Prapiĝino***.
+
+| | Sprak | Prapiĝino | Piĝino |
+|:-|:-|:-|:-|
+| | | | |
+| *vorto* | **word** | **wordo** | **vorto** |
+| | | | |
+| *milda* | **mild** | **milđa** | **milda** |
+| *ŝildo* | **shild** | **shilđo** | **shildo** |
+| *bildo* | **bild** | **bilđo** | **bildo** |
+| | | | |
+| *trinki* | **drink** | **drinki** | **trinki** |
+| *drinki* | **drink** | **đrinki** | **drinki** |
+| *pelto* | **pelt** | **pelŧo** | **pelto** |
+
+Kiam ***ĝermana*** **i** kaj **u** diftongiĝas al [aj] respektive [aŭ], ili skribiĝas **ĩ** respektive **ũ** en ***Prapiĝino***.
+
+| | Sprak | Prapiĝino | Piĝino |
+|:-|:-|:-|:-|
+| | | | |
+| *ŝajni* | **shine** | **shĩni** | **shaĭni** |
+| | | | |
+| *laŭta* | **lud** | **lũda** | **laŭta** |
+
+---
+
+
+* ŝtono = stæ°no = ståno
+* ajn = æn
+* mejlo = 
+
+
+*-er
+
+| *telero* | **teller** | **tellero** |
+
+
+* ! cella cellario
+
+| *kelo* | **keller** | **kello** |
+| *kelnero* | **kellner** | **kellnero** |
+
+
+***Ĝermanaj*** **w** [w] kaj **j** [j] skribiĝas **w** kaj **y**.
+
+| | Sprak | Prapiĝino | Piĝino |
+|:-|:-|:-|:-|
+| *vorto* | **word** | **wordo** | **worto** |
+
+* birdo
+* laŭta / lũda?
+* olda
+* milda
+* jes, ja
+
+
 
 ---
 
