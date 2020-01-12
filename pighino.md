@@ -213,6 +213,13 @@ En kelkaj ***Arkelingvaismoj***, intervokala **b** restas senŝanĝa.
 | *skribi* | **scribe** | **scrive** | **scribi** |
 | *labori* | **labora** | **lavora** | **labori** |
 
+Kiam radikokomenca **s** antaŭ konsonanto prononciĝas [es], ĝi skribiĝas **s̈**.
+
+| | Lingua | Piĝino |
+|:-|:-|:-|
+| *esti* | **sta** | **s̈ti** |
+| *Esperanto* | **Sperante** | **S̈peranto** |
+
 #### Grekaj Vortoj
 
 Radikofina **ti** ĉiam prononciĝas [ti].
@@ -275,7 +282,7 @@ Samkiel en **aŭ** [aŭ], **ŭ** prononciĝas [ŭ] en **eŭ**.
 
 | | Lingua | Piĝino |
 |:-|:-|:-|
-| *laboren*, *al la laboro* | **ad lavoro** | **laboren**, **al la laboro** |
+| *laboren*, *al la laboro* | **laboren** → **ad la lavoro** | **laboren**, **al la laboro** |
 
 #### Verboj
 
@@ -285,7 +292,7 @@ Samkiel en **aŭ** [aŭ], **ŭ** prononciĝas [ŭ] en **eŭ**.
 
 | | Lingua | Neolingua | Piĝino |
 |:-|:-|:-|:-|
-| *ĉirkaŭ* | **ĉirc' ad** | **ĉirc' al** | **ĉirc' ał** |
+| *ĉirkaŭ* | **ĉirc' ad** | **zirc' al** | **ĉirc' ał** |
 
 
 ---
