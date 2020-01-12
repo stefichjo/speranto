@@ -206,6 +206,8 @@ Samkiel en **aŭ** [aŭ], **ŭ** prononciĝas [ŭ] en **eŭ**.
 
 | | Sprak | Prapiĝino | Piĝino |
 |:-|:-|:-|:-|
+| *ŝpruci* | **sprut** | **spruti** | **ŝpruçi** |
+| | | | |
 | *vorto* | **word** | **wordo** | **vorto** |
 | | | | |
 | *milda* | **mild** | **milđa** | **milda** |
@@ -216,14 +218,17 @@ Samkiel en **aŭ** [aŭ], **ŭ** prononciĝas [ŭ] en **eŭ**.
 | *drinki* | **drink** | **đrinki** | **drinki** |
 | *pelto* | **pelt** | **pelŧo** | **pelto** |
 
-Kiam ***ĝermanaj*** **i** kaj **u** diftongiĝas al [aj] respektive [aŭ], ili skribiĝas **ĩ** respektive **ũ** en ***Prapiĝino***. Kiam ***ĝermana*** **i** prononciĝas [ej], ĝi skribiĝas **ï** en ***Prapiĝino***.
+Kiam ***ĝermanaj*** **i** kaj **u** diftongiĝas al [aj] respektive [aŭ], ili skribiĝas **ĩ** respektive **ũ** en ***Prapiĝino***. Kiam ***ĝermana*** **e** aŭ **i** prononciĝas [ej], ili skribiĝas **ë** respektive **ï** en ***Prapiĝino***.
 
 | | Sprak | Prapiĝino | Piĝino |
 |:-|:-|:-|:-|
 | *ŝajni* | **shine** | **shĩni** | **shaĭni** |
+| *fajna* | **fin** | **fĩna** | **faĭna** |
+| | | | |
 | *laŭta* | **lud** | **lũda** | **laŭta** |
 | | | | |
 | *mejlo* | **mil** | **mïlo** | **meĭlo** |
+| *Rejno* | **Ren** | **Rëno** | **Reĭno** |
 
 ***Ĝermana*** **æ** prononciĝas [aj]. Kiam ĝi prononciĝas [o], ĝi skribiĝas **å**.
 
