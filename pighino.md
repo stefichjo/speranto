@@ -403,7 +403,7 @@ Adjektivoj havas la samajn finaĵojn por *multenombro* kaj *akuzativo* kiel la s
 *Novpiĝino:* *Tra bruo*, uziĝas **na** anstataŭ **a**.
 
 | | Novpiĝino | (tra bruo) |
-|:-|:-|:-|:-|
+|:-|:-|:-|
 | *Mi vidas vin.* | **Mi vidas vin.** | **Mi vidas na vi.** |
 
 
