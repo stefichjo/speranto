@@ -34,7 +34,7 @@ La **c** kutime prononciĝas [k], sed antaŭ **e**, **i** (kaj **y**) ĝi pronon
 | *centro* | **centrum** | **centrum** | **ĉentro** | **centro** |
 | *koncerto* | **concert** | **koncert** | **conĉerto** | **concerto** |
 | *logiko* | **logic** | **logika** | **loĝica** | **logico** |
-| *akcento* | **akcent** | **acĉento** | **accento** |
+| *akcento* | **accent** | **akcent** | **acĉento** | **accento** |
 | | | | | |
 | *generalo* | **general** | **general** | **generale** | **generalo** |
 
@@ -167,7 +167,6 @@ Samkiel en **aŭ** [aŭ], **ŭ** prononciĝas [ŭ] en **eŭ**.
 | *kaj* | (**caĭ**) | **kaĭ** |
 | *krom* | (**crom**) | **krom** |
 
-
 ### Ĝermanaj Vortoj
 
 ***Ĝermana*** **k** konserviĝas.
@@ -192,7 +191,6 @@ Samkiel en **aŭ** [aŭ], **ŭ** prononciĝas [ŭ] en **eŭ**.
 
 | | Sprak | Piĝino |
 |:-|:-|:-|
-| | | |
 | *fiŝo* | **fish** | **fisho** |
 | *ŝipo* | **shipp** | **shippo** |
 | *ŝranko* | **shrank** | **shranko** |
@@ -200,12 +198,13 @@ Samkiel en **aŭ** [aŭ], **ŭ** prononciĝas [ŭ] en **eŭ**.
 | | | |
 | *ŝnuro* | **snur** | **ŝnuro** |
 | *ŝlimo* | **slim** | **ŝlimo** |
+| *ŝtato* | **stat** | **ŝtato** |
+| *ŝtalo* | **stal** | **ŝtalo** |
 
-***Ĝermanaj **t**, **d** kaj **đ** prononciĝas [c], [t] kaj [d]. Kiam ***germana*** **t** aŭ **d** prononciĝas senŝanĝe [t] respektive [d], ili skribiĝas **ŧ** respektive **đ** en ***Prapiĝino***.
+***Ĝermanaj*** **t**, **d** kaj **đ** prononciĝas [c], [t] kaj [d]. Kiam ***germana*** **t** aŭ **d** prononciĝas senŝanĝe [t] respektive [d], ili skribiĝas **ŧ** respektive **đ** en ***Prapiĝino***.
 
 | | Sprak | Prapiĝino | Piĝino |
 |:-|:-|:-|:-|
-| | | | |
 | *vorto* | **word** | **wordo** | **vorto** |
 | | | | |
 | *milda* | **mild** | **milđa** | **milda** |
@@ -216,22 +215,24 @@ Samkiel en **aŭ** [aŭ], **ŭ** prononciĝas [ŭ] en **eŭ**.
 | *drinki* | **drink** | **đrinki** | **drinki** |
 | *pelto* | **pelt** | **pelŧo** | **pelto** |
 
-Kiam ***ĝermana*** **i** kaj **u** diftongiĝas al [aj] respektive [aŭ], ili skribiĝas **ĩ** respektive **ũ** en ***Prapiĝino***.
+Kiam ***ĝermanaj*** **i** kaj **u** diftongiĝas al [aj] respektive [aŭ], ili skribiĝas **ĩ** respektive **ũ** en ***Prapiĝino***. Kiam ***ĝermana*** **i** prononciĝas [ej], ĝi skribiĝas **ï** en ***Prapiĝino***.
 
 | | Sprak | Prapiĝino | Piĝino |
 |:-|:-|:-|:-|
-| | | | |
 | *ŝajni* | **shine** | **shĩni** | **shaĭni** |
-| | | | |
 | *laŭta* | **lud** | **lũda** | **laŭta** |
+| | | | |
+| *mejlo* | **mil** | **mïlo** | **meĭlo** |
+
+***Ĝermana*** **æ** prononciĝas [aj]. Kiam ĝi prononciĝas [o], ĝi skribiĝas **å**.
+
+| | Sprak | Prapiĝino | Piĝino |
+|:-|:-|:-|:-|
+| *ajn* | **æn** | **æn** | **aĭn** |
+| | | | |
+| *ŝtono* | **stæn** | **ståno** | **ŝtono** |
 
 ---
-
-
-* ŝtono = stæ°no = ståno
-* ajn = æn
-* mejlo = 
-
 
 *-er
 
@@ -242,20 +243,6 @@ Kiam ***ĝermana*** **i** kaj **u** diftongiĝas al [aj] respektive [aŭ], ili s
 
 | *kelo* | **keller** | **kello** |
 | *kelnero* | **kellner** | **kellnero** |
-
-
-***Ĝermanaj*** **w** [w] kaj **j** [j] skribiĝas **w** kaj **y**.
-
-| | Sprak | Prapiĝino | Piĝino |
-|:-|:-|:-|:-|
-| *vorto* | **word** | **wordo** | **worto** |
-
-* birdo
-* laŭta / lũda?
-* olda
-* milda
-* jes, ja
-
 
 
 ---
