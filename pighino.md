@@ -46,7 +46,7 @@ La **c** kutime prononciĝas [k], sed antaŭ **e**, **i** (kaj **y**) ĝi pronon
 | *akĉento* | **acĉento** | **acĉento** |
 | *ĝenerala* | **ĝenerale** | **ĝenerala** |
 
-Kiam **c** prononciĝas [k] anstataŭ [c], ĝi skribiĝas **qŭ** (respektive **k** en ***Novpiĝino***). Kiam **c** prononciĝas [c] anstataŭ [k], ĝi skribiĝas **ç**. Radikofina **tĭ** [c] skribiĝas kiel **c**/**ç**.
+Kiam **c** prononciĝas [k] anstataŭ [c], ĝi skribiĝas **qŭ**. Kiam **c** prononciĝas [c] anstataŭ [k], ĝi skribiĝas **ç**. Radikofina **tĭ** [c] skribiĝas kiel **c**/**ç**.
 
 | | Lingua | Piĝino |
 |:-|:-|:-|
@@ -118,9 +118,7 @@ Samkiel en ***Lingua***, duoblaj konsonantoj prononciĝas unuoble. Inter vokaloj
 | | | |
 | *tero* | **terra** | **tero** |
 | *maso* | **massa** | **masso** |
-| | | |
 | *rozo* | **rosa** | **roso** |
-| *paŭzo* | **paŭsa** | **paŭso** |
 
 #### Grekaj Vortoj
 
