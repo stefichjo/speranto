@@ -274,6 +274,12 @@ Samkiel en **aŭ** [aŭ], **ŭ** prononciĝas [ŭ] en **eŭ**.
 
 #### Substantivoj
 
+*Lingvaismo:* La direkta finaĵo **-en** mallongiĝas al **-n** kaj fariĝas finaĵo por *akuzativo*. **Tra bruo**, uziĝas anstataŭe la *akuzativa* prepozicio **a**.
+
+| | Piĝino | (tra bruo) |
+|:-|:-|:-|
+| *Mi vidas domon.* | **Mi vidas domon.** | **Mi vidas a domo.** |
+
 #### Adjektivoj
 
 #### Adverboj
