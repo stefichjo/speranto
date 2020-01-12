@@ -23,6 +23,16 @@ Kaze de dubo aŭ pro estetikaj kialoj, oni skribas fonetike anstataŭ etimologie
 | *ŝanco* | **cadentĭa** | **^çadĕntĭo** | **ŝanco** |
 | *ĵurnalo* | **dĭurnale** | **đĵurnalo** | **ĵurnalo** |
 
+### Slavaj Vortoj
+
+La fonetika skribo de ***Piĝino*** baziĝas sur ***Äzyk***. Tial, la etimologia kaj la fonetika skriboj de ***slavaj*** vortoj estas identaj. 
+
+| | Äzyk | Piĝino |
+|:-|:-|:-|
+| *prava* | **prava** | **prava** [prava] |
+| *nepre* | **nepre** | **nepre** [nepre] |
+| *krom* | **krom** | **krom** [krom] |
+
 ### Latinidaj Vortoj
 
 La **c** kutime prononciĝas [k], sed antaŭ **e**, **i** (kaj **y**) ĝi prononciĝas [c]. La **g** ĉiam prononciĝas [g].
@@ -166,7 +176,6 @@ Samkiel en **aŭ** [aŭ], **ŭ** prononciĝas [ŭ] en **eŭ**.
 | | Lingua | Piĝino |
 |:-|:-|:-|
 | *kaj* | (**caĭ**) | **kaĭ** |
-| *krom* | (**crom**) | **krom** |
 
 ### Ĝermanaj Vortoj
 
