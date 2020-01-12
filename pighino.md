@@ -16,10 +16,11 @@ La fonetika skribo de ***Piĝino*** baziĝas sur ***Äzyk***, sed la ortografia 
 | *ŝipo* | **shippo** [ŝipo] |
 | *kolbaso* | **kolbaso** [kolbaso] |
 
-Kaze de dubo aŭ pro estetikaj kialoj, oni povas skribi fonetike anstataŭ etimologie.
+Kaze de dubo aŭ pro estetikaj kialoj, oni skribas fonetike anstataŭ etimologie.
 
 | | Prapidẑino | Pidẑino |
-|:-|:-|:-"
+|:-|:-|:-|
+| | | |
 | *ŝanco* | **^çadĕntĭo** | **ŝanco** |
 
 ### Latinidaj Vortoj
