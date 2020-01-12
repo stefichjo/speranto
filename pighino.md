@@ -298,7 +298,7 @@ Malkonstruante la *direktan* ŝajnfinaĵo **-en** al **-e**, oni esprimas *lokon
 |:-|:-|
 | *iu* | **iu** |
 
-*Lingvaismo:* La tabelvortaj ŝajnsufiksoj **-al-** kaj **-esm-** fariĝas la tabelvortaj ŝajnfinaĵoj **-al** (respektive **-äl**) kaj **-es**.
+*Lingvaismo:* La tabelvortaj ŝajnfinaĵoj **-ale** kaj **-esma** fariĝas **-al** (respektive **-äl**) kaj **-es**.
 
 | | Linga | Piĝino |
 |:-|:-|:-|
@@ -325,7 +325,7 @@ Malkonstruante la *direktan* ŝajnfinaĵo **-en** al **-e**, oni esprimas *lokon
 | *vi* | **vi** | **vu** | **vi** |
 | *ci* | **tu** | **tu** | **tī** |
 
-*Tra bruo:* La direkta finaĵo **-en** uziĝas por *akuzativo*. *Sen bruo*, ĝi mallongiĝas al **-n**.
+*Tra bruo:* La *direkta* finaĵo **-en** uziĝas por *akuzativo*. *Sen bruo*, ĝi mallongiĝas al **-n**.
 
 | | Piĝino | (tra bruo) |
 |:-|:-|:-|
@@ -341,7 +341,7 @@ Malkonstruante la *direktan* ŝajnfinaĵo **-en** al **-e**, oni esprimas *lokon
 |:-|:-|
 | *amikoj* | **amicoĭ** |
 
-*Lingvaismo:* La direkta finaĵo **-en** mallongiĝas al **-n** kaj fariĝas finaĵo por *akuzativo*. *Tra bruo*, uziĝas anstataŭe la (neologisma) *akuzativa* prepozicio **a**.
+*Lingvaismo:* La *direkta* finaĵo **-en** mallongiĝas al **-n** kaj fariĝas finaĵo por *akuzativo*. *Tra bruo*, uziĝas anstataŭe la (neologisma) *akuzativa* prepozicio **a**.
 
 | | Piĝino | (tra bruo) |
 |:-|:-|:-|
