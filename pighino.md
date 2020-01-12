@@ -265,7 +265,7 @@ Samkiel en **aŭ** [aŭ], **ŭ** prononciĝas [ŭ] en **eŭ**.
 
 #### Adverboj
 
-*Lingvaismo:* La ŝajnsufikso **-al-** fariĝas la ŝajnfinaĵo **-ał** [aŭ] ĉe kelkaj adverboj.
+*Lingvaismo:* La ŝajnsufikso **-al-** fariĝas la ŝajnfinaĵo **-ał** [aŭ] ĉe kelkaj *adverboj*.
 
 | | Lingua | Piĝino |
 |:-|:-|:-|
@@ -277,11 +277,15 @@ Samkiel en **aŭ** [aŭ], **ŭ** prononciĝas [ŭ] en **eŭ**.
 |:-|:-|:-|
 | *laboren*, *al la laboro* | **ad lavoro** | **laboren**, **al la laboro** |
 
----
-
 #### Verboj
 
 #### Prepozicioj
+
+*Lingvaismo:* La prepoziciaĵa ŝajnfinaĵo **' ad** (respektive **' al**) fariĝas **' ał** [aŭ].
+
+| | Lingua | Neolingua | Piĝino |
+|:-|:-|:-|:-|
+| *ĉirkaŭ* | **ĉirc' ad** | **ĉirc' al** | **ĉirc' ał** |
 
 
 ---
