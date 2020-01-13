@@ -391,23 +391,30 @@ Adjektivoj havas la samajn finaĵojn por *multenombro* kaj *akuzativo* kiel la s
 
 | | Lingua | Piĝino |
 |:-|:-|:-|
-| *hodiaŭ* | **hodie** | **hodiał** |
+| *hodiaŭ* | **hodĭe** | **hodiał** |
 
 *Lingvaismo:* La imperativa finaĵo **-en** fariĝas finaĵo por esprimi *direkton*.
 
-| | Lingua | Piĝino |
-|:-|:-|:-|
-| *laboren*, *al la laboro* | **lavoren** → **ad la lavoro** | **laboren**, **al la laboro** |
+| | Lingua | Neolingua | Piĝino |
+|:-|:-|:-|:-|
+| *laboren*, *al la laboro* | **ad la lavoro** | **lavori**  **lavoren** | **laboren**, **al la laboro** |
 
 #### Verboj
 
-*Lingvaismo:* La *vokativa* finaĵo **-u** uziĝas por *imperativo* anstataŭ por alvoki ion bezonatan. La trabrua verba ŝajnfinaĵo **-s'** en ***Neolingua*** fariĝas **-s**.
+*Lingvaismo:*
+ La *vokativa* finaĵo **-u** fariĝas *imperativa* finaĵo.
 
 | | Neolingua | Piĝino |
 |:-|:-|:-|
-| *Helpu!* | **Adjuvu!** → **Adjuven!** | **Helpu!** |
-| | | |
+| *Helpu!* | **Adjuven!** → **Adjuvu!** | **Helpu!** |
+ 
+*Novlingvaismo:* La *trabrua infinitiva* ŝajnfinaĵo **-s'** fariĝas *verba* ŝajnfinaĵo. La *cela* finaĵo **-i** fariĝas *infinitiva* finaĵo.
+
+| | Neolingua | Piĝino |
+|:-|:-|:-|
 | *Mi helpas vin.* | **Mu adjuvas' tu.** | **Mi helpas vin.** |
+| | | |
+| *Mi iras dormi.* | **Mu vade dormi.** | **Mi iras dormi.** |
 
 #### Prepozicioj
 
