@@ -393,11 +393,11 @@ Adjektivoj havas la samajn finaĵojn por *multenombro* kaj *akuzativo* kiel la s
 |:-|:-|:-|
 | *hodiaŭ* | **hodĭe** | **hodiał** |
 
-*Novlingvaismo:* La imperativa finaĵo **-en** fariĝas finaĵo por esprimi *celon*.
+*Novlingvaismo:* La imperativa finaĵo **-en** fariĝas *cela* finaĵo.
 
 | | Neolingua | Piĝino |
 |:-|:-|:-|
-| *Al la laboro!* / *Laboren!* | **Al la lavoro!** / **Lavori!** → **Lavoren!** | **Al la laboro!** / **Laboren!** |
+| *Al la laboro!* / *Laboren!* | **Al la lavoro!** / **Lavori!** → **Al la lavoro!** / **Lavoren!** | **Al la laboro!** / **Laboren!** |
 
 #### Verboj
 
