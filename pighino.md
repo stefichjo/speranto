@@ -18,13 +18,15 @@ La fonetika skribo de ***Piĝino*** baziĝas sur ***Äzyk***, sed la ortografia 
 
 ### Slavaj Vortoj
 
-La fonetika skribo de ***Piĝino*** baziĝas sur ***Äzyk***. Tial, la etimologia kaj la fonetika skriboj de ***slavaj*** vortoj estas identaj.
+La fonetika skribo de ***Piĝino*** baziĝas sur ***Äzyk***. Tial, la etimologia kaj la fonetika skriboj de ***slavaj*** vortoj estas preskaŭ identaj. (**c** [c] antaŭ **a**, **o**, **u** skribiĝas **ç**.)
 
 | | Äzyk | Piĝino |
 |:-|:-|:-|
 | *prava* | **prava** | **prava** [prava] |
 | *nepre* | **nepre** | **nepre** [nepre] |
 | *kolbaso* | **kolbasa** | **kolbaso** [kolbaso] |
+| | | | |
+| *caro* | **car** | **çaro** [caro] |
 
 ### Ĝermanaj Vortoj
 
@@ -61,6 +63,7 @@ La fonetika skribo de ***Piĝino*** baziĝas sur ***Äzyk***. Tial, la etimologi
 | | Sprak | Prapiĝino | Piĝino |
 |:-|:-|:-|:-|
 | *ŝpruci* | **sprut** | **spruti** | **ŝpruci** |
+| *colo* | **toll** | **tollo** | **çollo** |
 | | | | |
 | *vorto* | **word** | **wordo** | **vorto** |
 | | | | |
@@ -73,7 +76,7 @@ La fonetika skribo de ***Piĝino*** baziĝas sur ***Äzyk***. Tial, la etimologi
 | *pelto* | **pelt** | **pelŧo** | **pelto** |
 | *ŝtato* | **stat** | **staŧo** | **ŝtato** |
 
-Kiam ***ĝermanaj*** **i** kaj **u** diftongiĝas al [aj] respektive [aŭ], ili skribiĝas **ĩ** respektive **ũ** en ***Prapiĝino***. Kiam ***ĝermana*** **e** aŭ **i** prononciĝas [ej], ili skribiĝas **ë** respektive **ï** en ***Prapiĝino***.
+Kiam ***ĝermanaj*** **i** kaj **u** diftongiĝas al [aj] respektive [aŭ], ili skribiĝas **ĩ** respektive **ũ** en ***Prapiĝino***.
 
 | | Sprak | Prapiĝino | Piĝino |
 |:-|:-|:-|:-|
@@ -81,17 +84,23 @@ Kiam ***ĝermanaj*** **i** kaj **u** diftongiĝas al [aj] respektive [aŭ], ili 
 | *fajna* | **fin** | **fĩna** | **faĭna** |
 | | | | |
 | *laŭta* | **lud** | **lũda** | **laŭta** |
-| | | | |
-| *mejlo* | **mil** | **mïlo** | **meĭlo** |
-| *Rejno* | **Ren** | **Rëno** | **Reĭno** |
 
-***Ĝermana*** **æ** prononciĝas [aj]. Kiam ĝi prononciĝas [o], ĝi skribiĝas **å**.
+***Ĝermana*** **æ** prononciĝas [aj].
 
 | | Sprak | Prapiĝino | Piĝino |
 |:-|:-|:-|:-|
 | *ajn* | **æn** | **æn** | **aĭn** |
-| | | | |
-| *ŝtono* | **stæn** | **ståno** | **ŝtono** |
+
+***Ĝermanaj*** vortoj foje prononciĝas laŭ ilia nacia literumado.
+
+| | Angla | Germana | Sprak | Piĝino |
+|:-|:-|:-|:-|:-|
+| *boato* | **boat** | **boot** | **bot** | **boato** |
+| *teamo* | **team** | **zaum** | **tøm** | **teamo** |
+| *ŝtono* | **stone** | **stein** | **stæn** | **ŝtono** |
+| *biero* | **beer** | **bier** | **bir** | **biero** |
+| *najlo* | **nail** | **nagel** | **nagel** | **naĭlo** |
+| *Rejno* | **Rhine** | **Rhein** | **Ren** | **Reĭno** |
 
 ### Latinidaj Vortoj
 
@@ -244,6 +253,10 @@ En kelkaj ***Arkelingvaismoj***, intervokala **b** restas senŝanĝa.
 | *ŝanco* | **cadentĭa** | **^çadĕntĭo** | **ŝanço** |
 | *ŝanĝo* | **cambĭo** | **^çam̃bjo** | **ŝanĝo** |
 | *ĉemizo* | **camisĭa** | **ĉämisĭo** | **ĉemiso** |
+
+mejlo
+rejno
+pejzagho
 
 #### Grekaj Vortoj
 
