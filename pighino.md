@@ -1,6 +1,6 @@
 # Piĝino
 
-> Se ni eĉ supposos, qŭe la fina linguo de la s̈tontaĭ generatīoĭ s̈tos ne S̈peranto, en ĉia occaso la vĩo al tiu ellaborota linguo nepre devas conduqŭi tra S̈peranto.
+> Se ni eĉ supposos, qŭe la fina linguo de la s̈tontaĭ generatīoĭ s̈tos ne S̈peranto, en ĉia occaso la voĭo al tiu ellaborota linguo nepre devas conduqŭi tra S̈peranto.
 > ---
 > L. L. Zamenhof
 
@@ -192,7 +192,9 @@ Kiam **i** prononciĝas [oj], ĝi skribiĝas **ĩ** en ***Prapiĝino***.
 
 | | Lingua | Prapiĝino | Piĝino |
 |:-|:-|:-|:-|
-| *vojo* | **vio** | **vĩo** | **voĭo** |
+| *rojo* | **rio** | **rĩo** | **roĭo** |
+| *vojo* | **via** | **vĩo** | **voĭo** |
+| *vojaĝo* | **viajo** | **vĩajo** | **voĭajo** |
 
 Samkiel en ***Lingua***, duoblaj konsonantoj prononciĝas unuoble. Inter vokaloj (respektive inter vokalo kaj radikofino), **s** [s] prononciĝas [z]. Inter vokaloj, **x** [ks] prononciĝas [kz].
 
@@ -403,8 +405,6 @@ Adjektivoj havas la samajn finaĵojn por *multenombro* kaj *akuzativo* kiel la s
 
 *Novpiĝino:* *Tra bruo*, uziĝas **na** anstataŭ **a**.
 
-| | Novpiĝino | (tra bruo) |
+| | Piĝino (tra bruo) | Novpiĝino (tra bruo) |
 |:-|:-|:-|
-| *Mi vidas vin.* | **Mi vidas vin.** | **Mi vidas na vi.** |
-
-
+| *Mi vidas vin.* | **Mi vidas a vi.** | **Mi vidas na vi.** |
