@@ -411,18 +411,6 @@ Adjektivoj havas la samajn finaĵojn por *multenombro* kaj *akuzativo* kiel la s
 
 #### Prepozicioj
 
-*Lingvaismo:* La lokaj prepozicioj **ad**, **in**, **de** kaj la ne-lokaj prepozicioj **al**, **en**, **di** el ***Neolingua*** unuiĝas al **al**, **en**, **de** en ***Piĝino***.
-
-| | Lingua | Piĝino |
-|:-|:-|:-|
-| *al*, *en*, *de* | **ad**/**al**, **in**/**en**, **de**/**di** | **al**, **en**, **de** |
-
-*Lingvaismo:* La prepoziciaĵa ŝajnfinaĵo **' ad** (respektive **' al**) fariĝas **' ał** [aŭ].
-
-| | Lingua | Neolingua | Piĝino |
-|:-|:-|:-|:-|
-| *ĉirkaŭ* | **ĉirc' ad** | **zirc' al** | **ĉirc' ał** |
-
 *Jazikismo:* (neologisma) **na**
 
 | | Äzyk | Piĝino |
@@ -440,3 +428,15 @@ Adjektivoj havas la samajn finaĵojn por *multenombro* kaj *akuzativo* kiel la s
 | | Piĝino (tra bruo) | Novpiĝino (tra bruo) |
 |:-|:-|:-|
 | *Mi vidas vin.* | **Mi vidas a vi.** | **Mi vidas na vi.** |
+
+*Lingvaismo:* La lokaj prepozicioj **ad**, **in**, **de** kaj la ne-lokaj prepozicioj **al**, **en**, **di** el ***Neolingua*** unuiĝas al **al**, **en**, **de** en ***Piĝino***.
+
+| | Neolingua | Piĝino |
+|:-|:-|:-|
+| *al*, *en*, *de* | **ad**/**al**, **in**/**en**, **de**/**di** | **al**, **en**, **de** |
+
+*Lingvaismo:* La prepoziciaĵa ŝajnfinaĵo **' ad** (respektive **' al**) fariĝas **' ał** [aŭ].
+
+| | Lingua | Neolingua | Piĝino |
+|:-|:-|:-|:-|
+| *ĉirkaŭ* | **ĉirc' ad** | **zirc' al** | **ĉirc' ał** |
