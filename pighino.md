@@ -254,10 +254,6 @@ En kelkaj ***Arkelingvaismoj***, intervokala **b** restas senŝanĝa.
 | *ŝanĝo* | **cambĭo** | **^çam̃bjo** | **ŝanĝo** |
 | *ĉemizo* | **camisĭa** | **ĉämisĭo** | **ĉemiso** |
 
-mejlo
-rejno
-pejzagho
-
 #### Grekaj Vortoj
 
 Radikofina **ti** ĉiam prononciĝas [ti].
