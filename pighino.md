@@ -319,7 +319,7 @@ La tabelvortaj prefiksoj **qŭ-** kaj **t-** kombiniĝas kun tabelvortoj je **i-
 | *Kio ajn povas okazi.* | **Qŭio aĭn povas occasi.** |
 | *Ĉio ajn povas okazi.* | **Ĉio aĭn povas occasi.** |
 
-Malkonstruante la *direktan* ŝajnfinaĵo **-en** al **-e**, oni esprimas *lokon*.
+Ŝajnmalkonstruante la *celan* ŝajnfinaĵo **-en** al **-e**, oni esprimas *lokon*.
 
 | | |
 |:-|:-|
@@ -355,7 +355,7 @@ Malkonstruante la *direktan* ŝajnfinaĵo **-en** al **-e**, oni esprimas *lokon
 | *vi* | **vi** | **vu** | **vi** |
 | *ci* | **tu** | **tu** | **tī** |
 
-*Tra bruo:* La *direkta* finaĵo **-en** uziĝas por *akuzativo*. *Sen bruo*, ĝi mallongiĝas al **-n**.
+*Tra bruo:* La *cela* finaĵo **-en** uziĝas por *akuzativo*. *Sen bruo*, ĝi mallongiĝas al **-n**.
 
 | | Piĝino | (tra bruo) |
 |:-|:-|:-|
@@ -371,7 +371,7 @@ Malkonstruante la *direktan* ŝajnfinaĵo **-en** al **-e**, oni esprimas *lokon
 |:-|:-|
 | *amikoj* | **amicoĭ** |
 
-*Lingvaismo:* La *direkta* finaĵo **-en** mallongiĝas al **-n** kaj fariĝas finaĵo por *akuzativo*. *Tra bruo*, uziĝas anstataŭe la (neologisma) *akuzativa* prepozicio **a**.
+*Lingvaismo:* La *cela* finaĵo **-en** mallongiĝas al **-n** kaj fariĝas finaĵo por *akuzativo*. *Tra bruo*, uziĝas anstataŭe la (neologisma) *akuzativa* prepozicio **a**.
 
 | | Piĝino | (tra bruo) |
 |:-|:-|:-|
@@ -393,11 +393,11 @@ Adjektivoj havas la samajn finaĵojn por *multenombro* kaj *akuzativo* kiel la s
 |:-|:-|:-|
 | *hodiaŭ* | **hodĭe** | **hodiał** |
 
-*Lingvaismo:* La imperativa finaĵo **-en** fariĝas finaĵo por esprimi *direkton*.
+*Novlingvaismo:* La imperativa finaĵo **-en** fariĝas finaĵo por esprimi *celon*.
 
-| | Lingua | Neolingua | Piĝino |
-|:-|:-|:-|:-|
-| *laboren*, *al la laboro* | **ad la lavoro** | **lavori** → **lavoren** | **laboren**, **al la laboro** |
+| | Neolingua | Piĝino |
+|:-|:-|:-|
+| *Al la laboro!* / *Laboren!* | **Al la lavoro!** / **Lavori!** → **Lavoren!** | **Al la laboro!** / **Laboren!** |
 
 #### Verboj
 
