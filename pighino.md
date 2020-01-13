@@ -1,6 +1,6 @@
 # Piĝino
 
-> Se ni eĉ supposos, qŭe la fina linguo de la s̈tontaĭ generatīoĭ s̈tos ne S̈peranto, en ĉia occaso la voĭo al tiu ellaborota linguo nepre devas conduqŭi tra S̈peranto.
+> Se ni eĉ supposos, qŭe la fina linguo de la estontaĭ generatīoĭ estos ne Esperanto, en ĉia occaso la voĭo al tiu ellaborota linguo nepre devas conduqŭi tra Esperanto.
 > ---
 > L. L. Zamenhof
 
@@ -14,23 +14,17 @@ La fonetika skribo de ***Piĝino*** baziĝas sur ***Äzyk***, sed la ortografia 
 |:-|:-|
 | *fakto* | **facto** [fakto] |
 | *ŝipo* | **shippo** [ŝipo] |
-| *kolbaso* | **kolbaso** [kolbaso] |
-
-Kaze de dubo aŭ pro estetikaj kialoj, oni skribas fonetike anstataŭ etimologie.
-
-| | Prapiĝino | Piĝino |
-|:-|:-|:-|
-| *ŝanco* | **^çadĕntĭo** | **ŝanco** |
-| *ĵurnalo* | **đĵurnalo** | **ĵurnalo** |
+| *ekrano* | **ekrano** [ekrano] |
 
 ### Slavaj Vortoj
 
-La fonetika skribo de ***Piĝino*** baziĝas sur ***Äzyk***. Tial, la etimologia kaj la fonetika skriboj de ***slavaj*** vortoj estas identaj. 
+La fonetika skribo de ***Piĝino*** baziĝas sur ***Äzyk***. Tial, la etimologia kaj la fonetika skriboj de ***slavaj*** vortoj estas identaj.
 
 | | Äzyk | Piĝino |
 |:-|:-|:-|
 | *prava* | **prava** | **prava** [prava] |
 | *nepre* | **nepre** | **nepre** [nepre] |
+| *kolbaso* | **kolbasa** | **kolbaso** [kolbaso] |
 
 ### Ĝermanaj Vortoj
 
@@ -120,16 +114,22 @@ La **c** kutime prononciĝas [k], sed antaŭ **e**, **i** (kaj **y**) ĝi pronon
 |:-|:-|:-|
 | *akĉento* | **acĉento** | **acĉento** |
 | *ĝenerala* | **ĝenerale** | **ĝenerala** |
+| | | |
+| *legi* | **lege** | **legi** |
+| *leĝo* | **lege** | **leĝo** |
 
 Kiam **c** prononciĝas [k] anstataŭ [c], ĝi skribiĝas **qŭ**. Kiam **c** prononciĝas [c] anstataŭ [k], ĝi skribiĝas **ç**. Radikofina **tĭ** [c] skribiĝas kiel **c**/**ç**.
 
 | | Lingua | Piĝino |
 |:-|:-|:-|
 | *indiki* | **indica** | **indiqŭi** |
-| *impliki* | **implica** | **impliqŭi** |
-| | | |
 | *paco* | **pace** | **paço** |
+| | | |
+| *impliki* | **implica** | **impliqŭi** |
 | *implici* | **implica** | **implici** |
+| | | |
+| *voki* | **voca** | **voqŭi** |
+| *voĉo* | **voce** | **voĉo** |
 | | | |
 | *paciento* | **patiente** | **patīento** |
 | *pacienco* | **patientĭa** | **patīenço** |
@@ -162,15 +162,12 @@ La **j** prononciĝas [ĝ]. Kiam ĝia prononco estas [j], ĝi skribiĝas [ĭ]. �
 | *jam* | **jam** | **ĭam** |
 | *majo* | **maĭo** | **maĭo** |
 | *trajno* | **traĭno** | **traĭno** |
-| ? *seĝo* | **sedĭa** | **sedĵo** |
-| ? *neĝo* | **nevĭa** | **nevĵo** |
 
-Post vokalo, **ŭ** prononciĝas [ŭ]. Kiam **aŭ** prononciĝas [o], ĝi etimologie skribiĝas **åŭ**. Inter konsonanto kaj vokalo (respektive radikofino), **ŭ** elliziiĝas kaj **u** prononciĝas [v]. Kiam **u** prononciĝas [u] anstata [v], ĝi skribiĝas **ū**.
+Post vokalo, **ŭ** prononciĝas [ŭ]. Inter konsonanto kaj vokalo (respektive radikofino), **ŭ** elliziiĝas kaj **u** prononciĝas [v]. Kiam **u** prononciĝas [u] anstata [v], ĝi skribiĝas **ū**.
 
 | | Lingua | Piĝino |
 |:-|:-|:-|
 | *taŭro* | **taŭro** | **taŭro** |
-| *oro* | **aŭro** | **åŭro** |
 | | | |
 | *ke* | **qŭe** | **qŭe** |
 | *kio* | **qŭo** | **qŭio** |
@@ -187,14 +184,6 @@ Post vokalo, **ŭ** prononciĝas [ŭ]. Kiam **aŭ** prononciĝas [o], ĝi etimol
 | *evolucio* | **evolutīo** | **evolutīo** |
 | *situi* | **situa** | **sitūi** |
 | *situacio* | **situatīo** | **sitūatīo** |
-
-Kiam **i** prononciĝas [oj], ĝi skribiĝas **ĩ** en ***Prapiĝino***.
-
-| | Lingua | Prapiĝino | Piĝino |
-|:-|:-|:-|:-|
-| *rojo* | **rio** | **rĩo** | **roĭo** |
-| *vojo* | **via** | **vĩo** | **voĭo** |
-| *vojaĝo* | **viajo** | **vĩajo** | **voĭajo** |
 
 Samkiel en ***Lingua***, duoblaj konsonantoj prononciĝas unuoble. Inter vokaloj (respektive inter vokalo kaj radikofino), **s** [s] prononciĝas [z]. Inter vokaloj, **x** [ks] prononciĝas [kz].
 
@@ -215,12 +204,46 @@ En kelkaj ***Arkelingvaismoj***, intervokala **b** restas senŝanĝa.
 | *skribi* | **scribe** | **scrive** | **scribi** |
 | *labori* | **labora** | **lavora** | **labori** |
 
-Kiam radikokomenca **s** antaŭ konsonanto prononciĝas [es], ĝi skribiĝas **s̈**.
+#### Novlatinidaj Vortoj en Prapiĝino
 
-| | Lingua | Piĝino |
-|:-|:-|:-|
-| *esti* | **sta** | **s̈ti** |
-| *Esperanto* | **Sperante** | **S̈peranto** |
+*Prapiĝino:* Kiam radikokomenca **s** antaŭ konsonanto prononciĝas [es], ĝi skribiĝas **s̈**.
+
+| | Lingua | Prapiĝino | Piĝino |
+|:-|:-|:-|:-|
+| *esti* | **sta** | **s̈ti** | | **esti** |
+| *Esperanto* | **Sperante** | **S̈peranto** | **Esperanto** |
+
+*Prapiĝino:* Kiam **i** prononciĝas [oj], ĝi skribiĝas **ĩ**.
+
+| | Lingua | Prapiĝino | Piĝino |
+|:-|:-|:-|:-|
+| *rojo* | **rio** | **rĩo** | **roĭo** |
+| *vojo* | **via** | **vĩo** | **voĭo** |
+| *vojaĝo* | **viajo** | **vĩajo** | **voĭajo** |
+
+*Prapiĝino:* Kiam **aŭ** prononciĝas [o], ĝi skribiĝas **åŭ**.
+
+| *oro* | **aŭro** | **åŭro** | **oro** |
+
+*Prapiĝino:* **j** [ĝ] kaj **ĵ** [ĵ] asimilas la antaŭan konsonanton. (Oni ne skribas la ŝanĝon de **ti(c)** al **dj** al **j**.)
+
+| | Lingua | Prapiĝino | Piĝino |
+|:-|:-|:-|:-|
+| *seĝo* | **sedĭa** | **sedjo** | **seĝo** |
+| *neĝo* | **nevĭa** | **nevjo** | **neĝo** |
+| *ruĝa* | **ruvĭa** | **ruvja** | **ruĝa** |
+| | | | |
+| *ĵurnalo* | **dĭurnale** | **dĵurnalo** | **ĵurnalo** |
+| | | | |
+| *pejzaĝo* | **paesajo** | **päĕsajo** | **peĭsajo** |
+
+*Prapiĝino:* Kiam **c** prononciĝas [ŝ], ĝi skribiĝas **^ç**.
+
+| | Lingua | Prapiĝino | Piĝino |
+|:-|:-|:-|:-|
+| *ŝanco* | **cadentĭa** | **^çadĕntĭo** | **ŝanço** |
+| *ŝanĝo* | **cambĭo** | **^çam̃bjo** | **ŝanĝo** |
+| *ĉemizo* | **camisĭa** | **ĉämisĭo** | **ĉemiso** |
 
 #### Grekaj Vortoj
 
@@ -272,7 +295,7 @@ La tabelvortaj prefiksoj **qŭ-** kaj **t-** kombiniĝas kun tabelvortoj je **i-
 
 | | |
 |:-|:-|
-| *Kio estas tio?* | **Qŭio s̈tas tio?** |
+| *Kio estas tio?* | **Qŭio estas tio?** |
 
 *Lingvaismo:* **ĉŭi**
 
@@ -291,7 +314,7 @@ Malkonstruante la *direktan* ŝajnfinaĵo **-en** al **-e**, oni esprimas *lokon
 
 | | |
 |:-|:-|
-| *Kie vi estas?* | **Qŭie vi s̈tas?** |
+| *Kie vi estas?* | **Qŭie vi estas?** |
 | *Kien vi iras?* | **Qŭien vi iras?** |
 
 *Lingvaismo:* La pronoma ŝajnfinaĵo **-u** fariĝas la tabelvorta ŝajnfinaĵo por *individu(aĵ)oj*.

@@ -62,6 +62,8 @@ Por *didaktikaj celoj*, duonvokalaj **i** [j] kaj **u** [w] skribiĝas **ĭ** re
 | *spaco* | **spatio** ['spatɪɔ] | **spatĭo** ['spaθjɔ] | **spazo** ['spatsɔ] |
 | *lekcio* | **lectione** [lɛktɪ'ɔnɛ] | **lectīo** [lɛk'θɪɔ] | **lezio** [lɛ'tsɪɔ] |
 | *demokratio* | **democratia** [dɛmɔkra'tɪa] | **democratīa** [dɛmɔkra'θɪa] | **democrazio** [dɛmɔkra'tsɪɔ] |
+| | | | |
+| *placo* | **platĕo** ['platɛɔ] | **platĭo** ['plaθjɔ] | **plazo** ['platsɔ] |
 
 *Archelingua:* Por *didaktikaj celoj*, **u** [ʊ] kaj **v** [v] skribiĝis **V** kaj ambaŭ prononciĝis [w] apud vokalo.
 
