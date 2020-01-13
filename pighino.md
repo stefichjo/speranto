@@ -435,7 +435,7 @@ Adjektivoj havas la samajn finaĵojn por *multenombro* kaj *akuzativo* kiel la s
 |:-|:-|:-|
 | *al*, *en*, *de* | **ad**/**al**, **in**/**en**, **de**/**di** | **al**, **en**, **de** |
 
-*Lingvaismo:* La prepoziciaĵa ŝajnfinaĵo **' ad** (respektive **' al**) fariĝas **' ał** [aŭ].
+*Lingvaismo:* La prepoziciaĵa ŝajnfinaĵo **' al** fariĝas **' ał** [aŭ].
 
 | | Lingua | Neolingua | Piĝino |
 |:-|:-|:-|:-|
