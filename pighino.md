@@ -414,7 +414,7 @@ Adjektivoj havas la samajn finaĵojn por *multenombro* kaj *akuzativo* kiel la s
 |:-|:-|:-|
 | *Mi helpas vin.* | **Mu adjuvas' tu.** | **Mi helpas vin.** |
 | | | |
-| *Mi iras dormi.* | **Mu vade dormi.** | **Mi iras dormi.** |
+| *Mi iras dormi.* | **Mu vades' dormi.** | **Mi iras dormi.** |
 
 #### Prepozicioj
 
