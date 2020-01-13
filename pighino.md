@@ -410,7 +410,7 @@ Adjektivoj havas la samajn finaĵojn por *multenombro* kaj *akuzativo* kiel la s
  
 *Novlingvaismo:* La *trabrua infinitiva* ŝajnfinaĵo **-s'** fariĝas *verba* ŝajnfinaĵo. La *cela* finaĵo **-i** fariĝas *infinitiva* finaĵo.
 
-| | Neolingua | Piĝino |
+| | Neolingua (tra bruo) | Piĝino |
 |:-|:-|:-|
 | *Mi helpas vin.* | **Mu adjuvas' tu.** | **Mi helpas vin.** |
 | | | |
