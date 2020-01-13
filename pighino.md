@@ -440,4 +440,4 @@ Adjektivoj havas la samajn finaĵojn por *multenombro* kaj *akuzativo* kiel la s
 | | Lingua | Neolingua | Piĝino |
 |:-|:-|:-|:-|
 | *ĉirkaŭ* | **ĉirc' ad** | **zirc' al** | **ĉirc' ał** |
-| *ĉirkaŭo* | **ĉirc'ada** | **zirc'alo** | **ĉirc'ało** |
+| *ĉirkaŭo* | **ĉircada** | **zircalo** | **ĉircało** |
