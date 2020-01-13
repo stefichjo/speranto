@@ -1,6 +1,6 @@
 # Piĝino
 
-> Se ni eĉ supposos, qŭe la fina linguo de la s̈tontaĭ generatīoĭ s̈tos ne S̈peranto, en ĉia occaso la voĭo al tiu ellaborota linguo nepre devas conduqŭi tra S̈peranto.
+> Se ni eĉ supposos, qŭe la fina linguo de la s̈tontaĭ generatīoĭ s̈tos ne S̈peranto, en ĉia occaso la vĩo al tiu ellaborota linguo nepre devas conduqŭi tra S̈peranto.
 > ---
 > L. L. Zamenhof
 
@@ -40,17 +40,12 @@ La fonetika skribo de ***Piĝino*** baziĝas sur ***Äzyk***. Tial, la etimologi
 |:-|:-|:-|
 | *kekso* | **keks** | **kekso** |
 
-***Ĝermana*** **w** prononciĝas [v] kaj skribiĝas **v**. En ***Prapiĝino***, ĝi skribiĝas **w**.
+***Ĝermanaj*** **w** kaj **j** prononciĝas [v] respektive [j] kaj skribiĝas **v** respektive **ĭ**. En ***Prapiĝino***, ili skribiĝas **w** respektive **j**.
 
 | | Sprak | Prapiĝino | Piĝino |
 |:-|:-|:-|:-|
 | *varma* | **warm** | **warma** | **varma** |
-
-***Ĝermana*** **j** prononciĝas [j] kaj skribiĝas **ĭ**.
-
-| | Sprak | Piĝino |
-|:-|:-|:-|
-| *ja* | **ja** | **ĭa** |
+| *jaro* | **jar** | **jaro** | **ĭaro** |
 
 ***Ĝermana*** **sh** [ŝ] konserviĝas. Antaŭ konsonanto, ***ĝermana*** **s** fariĝas **ŝ** [ŝ]. Kiam ***ĝermana*** **s** prononciĝas [s] anstataŭ [ŝ], ĝi skribiĝas **ş**.
 
@@ -65,9 +60,9 @@ La fonetika skribo de ***Piĝino*** baziĝas sur ***Äzyk***. Tial, la etimologi
 | *ŝlimo* | **slim** | **slimo** | **ŝlimo** |
 | *ŝtalo* | **stal** | **stalo** | **ŝtalo** |
 | | | |
-| *anstataŭ* | **an stad** | **anştad'ał** | **anstataŭ** |
+| *anstataŭ* | **an stad** | **anştad' ał** | **anstataŭ** |
 
-***Ĝermanaj*** **t**, **d** kaj **đ** prononciĝas [c], [t] kaj [d]. Kiam ***germana*** **t** aŭ **d** prononciĝas senŝanĝe [t] respektive [d], ili skribiĝas **ŧ** respektive **đ** en ***Prapiĝino***.
+***Ĝermanaj*** **t**, **d** kaj **đ** prononciĝas [c], [t] kaj [d]. Kiam ***ĝermana*** **t** aŭ **d** prononciĝas senŝanĝe [t] respektive [d], ili skribiĝas **ŧ** respektive **đ** en ***Prapiĝino***.
 
 | | Sprak | Prapiĝino | Piĝino |
 |:-|:-|:-|:-|
@@ -170,7 +165,7 @@ La **j** prononciĝas [ĝ]. Kiam ĝia prononco estas [j], ĝi skribiĝas [ĭ]. �
 | ? *seĝo* | **sedĭa** | **sedĵo** |
 | ? *neĝo* | **nevĭa** | **nevĵo** |
 
-Post vokalo, **ŭ** prononciĝas [ŭ]. Kiam **aŭ** prononciĝas [o], ĝi etimologie skribiĝas **åŭ**. Inter konsonanto kaj vokalo (respektive radikofino), **ŭ** elliziiĝas kaj **u** prononciĝas [v]. Kiam **u** tamen prononciĝas [u], ĝi skribiĝas **ū**.
+Post vokalo, **ŭ** prononciĝas [ŭ]. Kiam **aŭ** prononciĝas [o], ĝi etimologie skribiĝas **åŭ**. Inter konsonanto kaj vokalo (respektive radikofino), **ŭ** elliziiĝas kaj **u** prononciĝas [v]. Kiam **u** prononciĝas [u] anstata [v], ĝi skribiĝas **ū**.
 
 | | Lingua | Piĝino |
 |:-|:-|:-|
@@ -193,7 +188,13 @@ Post vokalo, **ŭ** prononciĝas [ŭ]. Kiam **aŭ** prononciĝas [o], ĝi etimol
 | *situi* | **situa** | **sitūi** |
 | *situacio* | **situatīo** | **sitūatīo** |
 
-Samkiel en ***Lingua***, duoblaj konsonantoj prononciĝas unuoble. Inter vokaloj (respektive inter vokalo kaj radikofino), **s** kaj **x** prononciĝas [z] respektive [kz].
+Kiam **i** prononciĝas [oj], ĝi skribiĝas **ĩ** en ***Prapiĝino***.
+
+| | Lingua | Prapiĝino | Piĝino |
+|:-|:-|:-|:-|
+| *vojo* | **vio** | **vĩo** | **voĭo** |
+
+Samkiel en ***Lingua***, duoblaj konsonantoj prononciĝas unuoble. Inter vokaloj (respektive inter vokalo kaj radikofino), **s** [s] prononciĝas [z]. Inter vokaloj, **x** [ks] prononciĝas [kz].
 
 | | Lingua | Piĝino |
 |:-|:-|:-|
@@ -257,9 +258,9 @@ Samkiel en **aŭ** [aŭ], **ŭ** prononciĝas [ŭ] en **eŭ**.
 
 ## Gramatiko
 
-### tabelvortoj
+### Tabelvortoj
 
-*Sprakismo:* La *tabelvortaj ŝajnprefiksoj* **i-** kaj **ni-** el ***Sprak*** kombiniĝas kun (ŝajn-)finaĵoj formante *tabelvortojn*. tabelvortoj kun la ŝajnprefikso **ni-** uziĝas kun prefiksita **ne**. En **Prapiĝino**, **ne** estas separebla.
+*Sprakismo:* La *tabelvortaj ŝajnprefiksoj* **i-** kaj **ni-** el ***Sprak*** kombiniĝas kun (ŝajn-)finaĵoj formante *tabelvortojn*. Tabelvortoj kun la ŝajnprefikso **ni-** uziĝas kun prefiksita **ne**. En **Prapiĝino**, **ne** estas separebla.
 
 | | Prapiĝino | Piĝino |
 |:-|:-|:-|
