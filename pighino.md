@@ -387,13 +387,13 @@ Adjektivoj havas la samajn finaĵojn por *multenombro* kaj *akuzativo* kiel la s
 
 #### Adverboj
 
-*Lingvaismo:* La ŝajnsufikso **-al-** fariĝas la ŝajnfinaĵo **-ał** [aŭ] ĉe kelkaj *adverboj*.
+*Lingvaismo:* La ŝajnsufikso **-al-** fariĝas **-ał** [aŭ] ĉe kelkaj *adverboj*.
 
 | | Lingua | Piĝino |
 |:-|:-|:-|
 | *hodiaŭ* | **hodĭe** | **hodiał** |
 
-*Novlingvaismo:* La imperativa finaĵo **-en** fariĝas *cela* finaĵo.
+*Novlingvaismo:* La *imperativa* finaĵo **-en** fariĝas *cela* finaĵo.
 
 | | Neolingua | Piĝino |
 |:-|:-|:-|
