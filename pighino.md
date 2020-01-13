@@ -234,7 +234,7 @@ En kelkaj ***Arkelingvaismoj***, intervokala **b** restas senŝanĝa.
 
 | *oro* | **aŭro** | **åŭro** | **oro** |
 
-*Prapiĝino:* **j** [ĝ] kaj **ĵ** [ĵ] asimilas la antaŭan konsonanton. (Oni ne skribas la ŝanĝon de **ti(c)** al **dj** al **j**.)
+*Prapiĝino:* **j** [ĝ] kaj **ĵ** [ĵ] asimilas la antaŭan konsonanton. (Oni ne skribas la ŝanĝon de **ti(c)** (al **dj**) al **j**.)
 
 | | Lingua | Prapiĝino | Piĝino |
 |:-|:-|:-|:-|
