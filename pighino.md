@@ -1,6 +1,6 @@
 # Piĝino
 
-> Se ni ech suposos, que la fina linguo de la estontai guenerazioi estas ne Esperanto, en chia ocaso la voio al tiu ellaborota linguo nepre devas conduqui tra Esperanto.
+> Se ni ech suposos, que la fina linguo de la estontai gueneracioi estas ne Esperanto, en chia ocaso la voio al tiu ellaborota linguo nepre devas conduqui tra Esperanto.
 > ---
 > L. L. Zamenhof
 
@@ -312,9 +312,14 @@ Samkiel en **aŭ** [aŭ], **ŭ** prononciĝas [ŭ] en **eŭ**.
 | *centro* | **centro** | **centro** |
 | | | |
 | *kanalo* | **canalo** | **canalo** |
-| *garantio* | **garantio** | **garantio** |
 | *ke* | **qŭe** | **que** |
-| *ege* | **ege** | **egue** |
+| *garantio* | **garantio** | **garantio** |
+| *gesto* | **gesto** | **guesto** |
+| | | |		
+| *akvo* | **aquo** | **aquo** |
+| *kvieta* | **quieta** | **qvieta** |
+| *lingvo* | **linguo** | **linguo** |
+| *gvidi* | **guidi** | **gvidi** |
 | | | |
 | *maso* | **masso** | **masso** |
 | *rozo* | **roso** | **roso** |
