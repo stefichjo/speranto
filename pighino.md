@@ -1,6 +1,6 @@
 # Piĝino
 
-> Se ni eĉ supposos, qŭe la fina linguo de la estontaĭ generatīoĭ estos ne Esperanto, en ĉia occaso la voĭo al tiu ellaborota linguo nepre devas conduqŭi tra Esperanto.
+> Se ni ech suposos, que la fina linguo de la estontai guenerazioi estas ne Esperanto, en chia ocaso la voio al tiu ellaborota linguo nepre devas conduqui tra Esperanto.
 > ---
 > L. L. Zamenhof
 
@@ -219,7 +219,7 @@ En kelkaj ***Arkelingvaismoj***, intervokala **b** restas senŝanĝa.
 
 | | Lingua | Prapiĝino | Piĝino |
 |:-|:-|:-|:-|
-| *esti* | **sta** | **s̈ti** | | **esti** |
+| *esti* | **sta** | **s̈ti** | **esti** |
 | *Esperanto* | **Sperante** | **S̈peranto** | **Esperanto** |
 
 *Prapiĝino:* Kiam **i** prononciĝas [oj], ĝi skribiĝas **ĩ**.
@@ -289,6 +289,44 @@ Samkiel en **aŭ** [aŭ], **ŭ** prononciĝas [ŭ] en **eŭ**.
 | | Lingua | Piĝino |
 |:-|:-|:-|
 | *kaj* | (**caĭ**) | **kaĭ** |
+
+## h-Sistemo
+
+| | Piĝino | (h-sistemo) |
+|:-|:-|:-|
+| *ĉambro* | **ĉambro** | **chambro** |
+| *maŝino* | **maçhino** | **mashino** |
+| *ĥaoso* | **cĥaoso** | **kaoso** |
+| | | |
+| *aŭto* | **aŭto** | **auto** |
+| *trajno* | **traĭno** | **traino** |
+| *ŭaŭ* | **ŭaŭ** | **wau** |
+| *jam* | **ĭam** | **yam** |
+| | | |
+| *ĵus* | **ĵus** | **jus** |
+| *ĵeti* | **ĵeti** | **jeti** |
+| | | |
+| *ĝusta* | **justa** | **justa** |
+| *ĝentila* | **ĝentila** | **gentila** |
+| *zaro* | **çaro** | **zaro** |
+| *centro* | **centro** | **centro** |
+| | | |
+| *kanalo* | **canalo** | **canalo** |
+| *garantio* | **garantio** | **garantio** |
+| *ke* | **qŭe** | **que** |
+| *ege* | **ege** | **egue** |
+| | | |
+| *maso* | **masso** | **masso** |
+| *rozo* | **roso** | **roso** |
+| *sana* | **sana** | **sana** 
+| *zono* | **zono** | **zono** |
+| *teksto* | **texto** | **texto** |
+| *ekzameno* | **exameno** | **exameno** |
+
+| | Piĝino | (h-sistemo) |
+|:-|:-|:-|
+| *infanaĝo* | **infanajo** | **infanajo** → **infanadjo** |
+| *cumo* | **çumo** | **zumo** → **tsumo** |
 
 ## Gramatiko
 
