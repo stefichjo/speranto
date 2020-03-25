@@ -145,13 +145,11 @@ Kiam **c** prononciĝas [k] anstataŭ [c], ĝi skribiĝas **qŭ**. Kiam **c** pr
 | *potenco* | **potentĭa** | **potenço** |
 | *potencialo* | **potentĭale** | **potentīalo** |
 
-En ***Prapiĝino***, la skribo de **tĭ** konserviĝas. En ***Novpiĝino***, **qŭ** [k] skribiĝas **k**.
+En ***Prapiĝino***, la skribo de **tĭ** konserviĝas.
 
-| | Lingua | Prapiĝino | Piĝino | Novpiĝino |
-|:-|:-|:-|:-|:-|
-| *spaco* | **spatĭo** | **spatĭo** | **spaço** | **spaço** |
-| | | | | |
-| *ke* | **qŭe** | **qŭe** | **qŭe** | **ke** |
+| | Lingua | Prapiĝino | Piĝino |
+|:-|:-|:-|:-|
+| *spaco* | **spatĭo** | **spatĭo** | **spaço** |
 
 La **t** antaŭ **ĭ** aŭ **ī** prononciĝas [c], sed **st** ĉiam prononciĝas [st].
 
