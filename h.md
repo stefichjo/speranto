@@ -1,12 +1,10 @@
-# Sendiakritaj Transskriboj
+# h-Sistemo
 
 > Se ni ech suposos, que la fina linguo de la estontai gueneracioi estas ne Esperanto, en chia ocaso la voio al tiu ellaborota linguo nepre devas conduqui tra Esperanto.
 > ---
 > L. L. Zamenhof
 
-Kiam supersignoj ne estas disponeblaj, uziĝas propra h-sistemo. (Vd. [***Piĝino***](pighino.md))
-
-## h-Sistemo
+Kiam supersignoj ne estas disponeblaj, uziĝas la h-sistemo de [***Piĝino***](pighino.md).
 
 [ĉ] kaj [ŝ] skribiĝas **ch** kaj **sh**.
 
@@ -22,7 +20,7 @@ Skribiĝas **x** kaj por [ks] kaj por [kz]. (Kutime, la sono [kz] aperas nur int
 | *teksto* | **texto** |
 | *ekzameno* | **exameno** |
 
-Post vokalo, [s] kaj [z] skribiĝas **ss** kaj **s**. En aliaj okazoj, ili skribiĝas **s** kaj **z**. (Verbaj finaĵoj je **-s** prononciĝas [s].)
+Post vokalo, [s] kaj [z] skribiĝas **ss** kaj **s**. En aliaj okazoj, ili skribiĝas **s** kaj **z**. (Verbaj finaĵoj je **-s** prononciĝas [s]. Postvokala [dz] skribiĝas **ds**.)
 
 | | h-sistemo |
 |:-|:-|
@@ -32,6 +30,7 @@ Post vokalo, [s] kaj [z] skribiĝas **ss** kaj **s**. En aliaj okazoj, ili skrib
 | *zono* | **zono** |
 | | |
 | *estas* | **estas** |
+| *edzo* | **edso** |
 
 Post vokalo, [j] kaj [ŭ] skribiĝas **i** kaj **u**. En aliaj okazoj, ili skribiĝas **y** kaj **w**.
 
@@ -76,29 +75,14 @@ Antaŭ **a**, **o** kaj **u**, skribiĝas **qu** kaj **gu** por [kv] kaj [gv]. A
 | *kvieta* | **qvieta** |
 | *gvidi* | **gvidi** |
 
+[ĥ] skribiĝas **k**.
+
 | | h-sistemo |
 |:-|:-|
-| *ĥaoso* | **kaosso** |
-| | |
-| *edzo* | **edso** |
+| *ĥemio* | **kemio** |
 
-## x-Sistemo
+Kiam grek-devenaj vortoj prononciĝas kun [ĥ] anstataŭ [k], preferindas la h-sistemo de ***Esperanto***.
 
-| | h-sistemo | x-sistemo |
-|:-|:-|:-|
-| *ĥemio* | **kemio** | **khemio** = **kxemio** |
-| *kemio* | **quemio** | **kemio** |
-| | | |
-| *taksio* | **taxio** | **taksio** |
-| *ekzemplo* | **exemplo** | **ekzemplo** |
-| *klaso* | **classo** | **klaso** |
-| *krizo* | **criso** | **krizo** |
-| *edzo* | **edso** | **edzo** |
-| | | |
-| *ke* | **que** | **ke** |
-| *caro* | **zaro** | **caro** |
-| | | |
-| *kvanto* | **quanto** | **kvanto** |
-| *sekve* | **seqve** | **sekve** |
-| *lingvo* | **linguo** | **lingvo** |
-
+| | h-sistemo |
+|:-|:-|
+| *ĥemio* → *kemio* | **kemio** |
