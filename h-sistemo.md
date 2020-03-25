@@ -81,10 +81,16 @@ Antaŭ **a**, **o** kaj **u**, skribiĝas **qu** kaj **gu** por [kv] kaj [gv]. A
 |:-|:-|
 | *ĥemio* | **kemio** |
 
-La h-sistemo de [***Novpiĝino***](pighino.md) uzas **k** anstataŭ **c** aŭ **q(u)**.
+La h-sistemo de [***Novpiĝino***](pighino.md) estas pli fonetika.
 
 | | h-sistemo |
 |:-|:-|
 | *kemio* | **kemio** |
 | *ĝenerala* | **jenerala** |
+
+|**a**|**b**|**c**|**ĉ**|**d**|**e**|**f**|**g**|**ĝ**|**h**|**ĥ**|**i**|**j**|**ĵ**|
+|-|-|-|-|-|-|-|-|-|-|-|-|-|-|
+|a|b|c|ch|d|e|f|g|(d)j|h|hh|i|y|j(h)|
+|**k**|**l**|**m**|**n**|**o**|**p**|**r**|**s**|**ŝ**|**t**|**u**|**ŭ**|**v**|**z**|
+|k|l|m|n|o|p|r|s|sh|t|u|w|v|z|
 
