@@ -290,13 +290,13 @@ Samkiel en **aŭ** [aŭ], **ŭ** prononciĝas [ŭ] en **eŭ**.
 |:-|:-|:-|
 | *kaj* | (**caĭ**) | **kaĭ** |
 
-## h-Sistemo
+### h-Sistemo
 
-| | Piĝino | (h-sistemo) |
+| | Piĝino | h-sistemo |
 |:-|:-|:-|
 | *ĉambro* | **ĉambro** | **chambro** |
 | *maŝino* | **maçhino** | **mashino** |
-| *ĥaoso* | **cĥaoso** | **kaoso** |
+| *ĥaoso* | **cĥaoso** | **kaosso** |
 | | | |
 | *aŭto* | **aŭto** | **auto** |
 | *trajno* | **traĭno** | **traino** |
@@ -325,13 +325,36 @@ Samkiel en **aŭ** [aŭ], **ŭ** prononciĝas [ŭ] en **eŭ**.
 | *rozo* | **roso** | **roso** |
 | *sana* | **sana** | **sana** 
 | *zono* | **zono** | **zono** |
+| *edzo* | **edso** | **edso** |
 | *teksto* | **texto** | **texto** |
 | *ekzameno* | **exameno** | **exameno** |
 
-| | Piĝino | (h-sistemo) |
+| | h-sistemo | (tra bruo) |
 |:-|:-|:-|
-| *infanaĝo* | **infanajo** | **infanajo** → **infanadjo** |
-| *cumo* | **çumo** | **zumo** → **tsumo** |
+| *aĵo* | **ajo** | **ajho** |
+| *aĝo* | **ajo** | **adjo** |
+| | | |
+| *caro* | **zaro** | **dsaro** = **tsaro** |
+
+### x-Sistemo
+
+| | h-sistemo | x-sistemo |
+|:-|:-|:-|
+| *ĥemio* | **kemio** | **khemio** = **kxemio** |
+| *kemio* | **quemio** | **kemio** |
+| | | |
+| *taksio* | **taxio** | **taksio** |
+| *ekzemplo* | **exemplo** | **ekzemplo** |
+| *klaso* | **classo** | **klaso** |
+| *krizo* | **criso** | **krizo** |
+| *edzo* | **edso** | **edzo** |
+| | | |
+| *ke* | **que** | **ke** |
+| *caro* | **zaro** | **caro** |
+| | | |
+| *kvanto* | **quanto** | **kvanto** |
+| *sekve* | **seqve** | **sekve** |
+| *lingvo* | **linguo** | **lingvo** |
 
 ## Gramatiko
 
