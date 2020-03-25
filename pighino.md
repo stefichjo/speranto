@@ -1,10 +1,10 @@
 # Piĝino
 
-> Se ni ech suposos, que la fina linguo de la estontai gueneracioi estas ne Esperanto, en chia ocaso la voio al tiu ellaborota linguo nepre devas conduqui tra Esperanto.
+> Se ni eĉ supposos, qŭe la fina linguo de la estontai generacioi estas ne Esperanto, en ĉia occaso la voio al tiu ellaborota linguo nepre devas conduqŭi tra Esperanto.
 > ---
 > L. L. Zamenhof
 
-***Piĝino*** pruntas elementojn el [***Lingua***](lingua.md), [***Sprak***](sprak.md) kaj [***Äzyk***](jazyk.md). Sen tiu ĉi kunteksto, ***Piĝino*** estas ***Esperanto*** kun aldona etimologia skribo.
+***Piĝino*** pruntas elementojn el [***Lingua***](lingua.md), [***Sprak***](sprak.md) kaj [***Äzyk***](jazyk.md). Sen tiu ĉi kunteksto, ***Piĝino*** estas ***Esperanto*** kun aldona etimologia skribo. (Kiam diakritaĵoj ne estas disponeblaj, ***Piĝino*** uzas propran [h-sistemon](h.md).
 
 ## Alfabeto
 
