@@ -4,7 +4,7 @@
 > ---
 > L. L. Zamenhof
 
-***Piĝino*** pruntas elementojn el [***Lingua***](lingua.md), [***Sprak***](sprak.md) kaj [***Äzyk***](jazyk.md). Sen tiu ĉi kunteksto, ***Piĝino*** estas ***Esperanto*** kun aldona etimologia skribo. (Kiam diakritaĵoj ne estas disponeblaj, ***Piĝino*** uzas propran [h-sistemon](h-sistemo.md).
+***Piĝino*** pruntas elementojn el [***Lingua***](lingua.md), [***Sprak***](sprak.md) kaj [***Äzyk***](jazyk.md). Sen tiu ĉi kunteksto, ***Piĝino*** estas ***Esperanto*** kun aldona etimologia skribo. (Kiam diakritaĵoj ne estas disponeblaj, ***Piĝino*** uzas propran [h-sistemon](h-sistemo.md).)
 
 ## Alfabeto
 
