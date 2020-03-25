@@ -6,6 +6,16 @@
 
 Kiam supersignoj ne estas disponeblaj, uziĝas la h-sistemo de [***Piĝino***](pighino.md).
 
+|**a**|**b**|**c**|**ĉ**|**d**|**e**|**f**|**g**|**ĝ**|**h**|**ĥ**|**i**|**j**|**ĵ**|
+|-|-|-|-|-|-|-|-|-|-|-|-|-|-|
+|a|b|z/c|ch|d|e|f|g/gu|(d)j|h|k|i|y/i|j(h)|
+|**k**|**l**|**m**|**n**|**o**|**p**|**r**|**s**|**ŝ**|**t**|**u**|**ŭ**|**v**|**z**|
+|c/qu|l|m|n|o|p|r|s/ss|sh|t|u|w/u|(q/g)u/v|z/s|
+
+* **kv** = **qu**/**qv**
+* **gv** = **gu**/**gv**
+* **z-** = **ts-**
+
 [ĉ] kaj [ŝ] skribiĝas **ch** kaj **sh**.
 
 | | h-sistemo |
@@ -92,5 +102,6 @@ La h-sistemo de [***Novpiĝino***](pighino.md) estas pli fonetika.
 |-|-|-|-|-|-|-|-|-|-|-|-|-|-|
 |a|b|c|ch|d|e|f|g|(d)j|h|hh|i|y|j(h)|
 |**k**|**l**|**m**|**n**|**o**|**p**|**r**|**s**|**ŝ**|**t**|**u**|**ŭ**|**v**|**z**|
-|k|l|m|n|o|p|r|s|sh|t|u|w|v|z|
+|k/q|l|m|n|o|p|r|s|sh|t|u|w|v|z|
 
+* **kv** = **qu**
