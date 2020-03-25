@@ -267,7 +267,7 @@ Samkiel en **aŭ** [aŭ], **ŭ** prononciĝas [ŭ] en **eŭ**.
 | *aŭto* | **aŭto** | **aŭto** |
 | *Eŭropo* | **Eŭropa** | **Eŭropo** |
 
-***Grekaj*** **ph**, **th**, **ch** kaj **y** prononciĝas [f], [t], [k] kaj [i]. Kiam **ch** prononciĝas [ĥ] aŭ [ŝ], ili skribiĝas etimologie **cĥ** [ĥ] respektive **çh** [ŝ]. Antaŭ **e**, **i** kaj **y**, ***greka*** **c** daŭre prononciĝas [k] kaj skribiĝas **k**. **z** [z] restas senŝanĝa.
+***Grekaj*** **ph**, **th**, **ch** kaj **y** prononciĝas [f], [t], [ĥ] kaj [i]. Kiam **ch** prononciĝas [ĥ] aŭ [ŝ], ili skribiĝas etimologie **cĥ** [ĥ] respektive **çh** [ŝ]. Antaŭ **e**, **i** kaj **y**, ***greka*** **c** daŭre prononciĝas [k] kaj skribiĝas **k**. **z** [z] restas senŝanĝa.
 
 | | Lingua | Piĝino |
 |:-|:-|:-|
@@ -287,6 +287,12 @@ Samkiel en **aŭ** [aŭ], **ŭ** prononciĝas [ŭ] en **eŭ**.
 | | Lingua | Piĝino |
 |:-|:-|:-|
 | *kaj* | (**caĭ**) | **kaĭ** |
+
+En ***Novpiĝino***, **cĥ** [ĥ] fariĝas **ch** [k].
+
+| | Lingua | Piĝino | Novpiĝino |
+|:-|:-|:-|:-|
+| *chemia* | **cĥemio** | **chemio** |
 
 ## Gramatiko
 

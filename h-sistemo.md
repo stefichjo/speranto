@@ -81,8 +81,10 @@ Antaŭ **a**, **o** kaj **u**, skribiĝas **qu** kaj **gu** por [kv] kaj [gv]. A
 |:-|:-|
 | *ĥemio* | **kemio** |
 
-Kiam grek-devenaj vortoj prononciĝas kun [ĥ] anstataŭ [k], preferindas la h-sistemo de ***Esperanto***.
+La h-sistemo de [***Novpiĝino***](pighino.md) uzas **k** anstataŭ **c** aŭ **q(u)**.
 
 | | h-sistemo |
 |:-|:-|
-| *ĥemio* → *kemio* | **kemio** |
+| *kemio* | **kemio** |
+| *ĝenerala* | **jenerala** |
+
