@@ -66,8 +66,8 @@ Antaŭ **e** kaj **i**, skribiĝas **c** por [c]. Antaŭ **a**, **o** kaj **u**,
 
 Antaŭ **e** kaj **i**, skribiĝas **g** kaj **j** por [ĝ] kaj [ĵ]. Antaŭ **a**, **o** kaj **u**, skribiĝas **dj** kaj **j** (komence de la radiko) respektive **j** kaj **jh**. Komence de la radiko, skribiĝas **j**.
 
-| | h-sistemo | |
-|:-|:-|:-|:-|:-|
+| | h-sistemo | | |
+|:-|:-|:-|:-|
 | *ĝentila* | **gentila** | **jentila** | **jentila** |
 | *averaĝe* | **average** | **averaje** | **averaje** |
 | *ĝusta* | **djusta** | **justa** | **justa** |
