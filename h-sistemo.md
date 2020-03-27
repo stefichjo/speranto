@@ -1,6 +1,4 @@
-# Ortografio
-
-## h-Sistemo
+# h-Sistemo
 
 > Se ni ech supposos, que la fina linguo de la estontai gueneracioi estas ne Esperanto, en chia occaso la voio al tiu ellaborota linguo nepre devas conduqui tra Esperanto.
 > ---
@@ -10,7 +8,7 @@ Kiam supersignoj ne estas disponeblaj, uziĝas la h-sistemo de [***Piĝino***](p
 
 |**a**|**b**|**c**|**ĉ**|**d**|**e**|**f**|**g**|**ĝ**|**h**|**ĥ**|**i**|**j**|**ĵ**|
 |-|-|-|-|-|-|-|-|-|-|-|-|-|-|
-|a|b|c/ts-z|ch|d|e|f|gu/g|g/dj-j|h|k|i|y-i|j/j-jh|
+|a|b|c/ts-z|ch|d|e|f|gu/g| g/dj-j |h|k|i|y-i|j/j-jh|
 |**k**|**l**|**m**|**n**|**o**|**p**|**r**|**s**|**ŝ**|**t**|**u**|**ŭ**|**v**|**z**|
 |qu/c|l|m|n|o|p|r|s-ss/(x)|sh|t|u|w-u|v/(q/g)u|z-s/(x)|
 
