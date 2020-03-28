@@ -1,6 +1,6 @@
 # h-Sistemo
 
-Kiam supersignoj ne estas disponeblaj, uziĝas du ***h-sistemoj*** de [***Piĝino***](pighino.md): unu ***etimologia*** kaj unu ***fonetika***. Sen tiu ĉi kunteksto, la diakrita versio de la ***fonetika h-sistemo de Piĝino*** estas ***Esperanto***.
+Kiam supersignoj ne estas disponeblaj, uziĝas du ***h-sistemoj*** de [***Piĝino***](pighino.md): unu ***etimologia*** kaj unu ***fonetika***. Sen tiu ĉi kunteksto, la diakrita versio de la [***fonetika h-sistemo de Piĝino***](#fonetika-h-sistemo) estas ***Esperanto***.
 
 ## Etimologia h-Sistemo
 
