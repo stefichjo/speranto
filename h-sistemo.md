@@ -1,14 +1,14 @@
 # h-Sistemo
 
-Kiam supersignoj ne estas disponeblaj, uziĝas la ***h-sistemo*** de [***Piĝino***](pighino.md).
+Kiam supersignoj ne estas disponeblaj, uziĝas du ***h-sistemoj*** de [***Piĝino***](pighino.md): unu ***etimologia*** kaj unu ***fonetika***. Sen tiu ĉi kunteksto, la diakrita versio de la ***fonetika h-sistemo de Piĝino*** estas ***Esperanto***.
 
-## Ŝajn-Etimologia h-Sistemo
+## Etimologia h-Sistemo
 
 > Se ni ech supposos, que la fina linguo de la estontai gueneracioi estas ne Esperanto, en chia occaso la voio al tiu ellaborota linguo nepre devas conduqui tra Esperanto.
 > ---
 > L. L. Zamenhof
 
-La ***ŝajn-etimologia h-sistemo*** estas sensupersigna transskribo de [***Piĝino***](pighino.md). Ĝi konservas duoblajn konsonantojn, kaj la prononco de transskribo aŭ litero ofte dependas de ĝi pozicio.
+La ***etimologia h-sistemo*** estas sensupersigna transskribo de [***Piĝino***](pighino.md). Ĝi konservas duoblajn konsonantojn, kaj la prononco de transskribo aŭ litero ofte dependas de ĝi pozicio.
 
 | | | | | | | |
 |-|-|-|-|-|-|-|
@@ -65,13 +65,13 @@ Antaŭ **e** kaj **i**, skribiĝas **g** kaj **j** por *[ĝ]* kaj *[ĵ]*. Antaŭ
 | **chambro** | **shuo** | | **kemio** |
 | *ĉambro* | *ŝuo* | | *ĥemio* |
 
-## Ŝajn-Fonetika h-Sistemo
+## Fonetika h-Sistemo
 
 > Se ni ech supozos, ke la fina lingvo de la estontay generacioy estas ne Esperanto, en chia okazo la voyo al tiu ellaborota lingvo nepre devas konduki tra Esperanto.
 > ---
 > L. L. Zamenhof
 
-La ***ŝajn-fonetika h-sistemo*** sekvas la principon "unu transskribo, unu sono". Tial, la prononco de transskribo aŭ litero neniam dependas de ĝia pozicio, kaj duoblaj konsonantoj ne estas konservataj. Kiam supersignoj estas disponeblaj, literkombinoj, kiuj reprezentas simplan sonon, estas skribataj per ĉapelo: "Unu litero, unu sono." (Ĉi-okaze la duonvokaloj *[j]* kaj *[ŭ]* estas skribataj kun hoketo: **ĭ** kaj **ŭ**.)
+La ***fonetika h-sistemo*** sekvas la principon "unu transskribo, unu sono". Tial, la prononco de transskribo aŭ litero neniam dependas de ĝia pozicio, kaj duoblaj konsonantoj ne estas konservataj. Kiam supersignoj estas disponeblaj, literkombinoj, kiuj reprezentas simplan sonon, estas skribataj per ĉapelo: "Unu litero, unu sono." (Ĉi-okaze la duonvokaloj *[j]* kaj *[ŭ]* estas skribataj kun hoketo: **ĭ** kaj **ŭ**.)
 
 | | | | | | | |
 |-|-|-|-|-|-|-|
@@ -80,7 +80,7 @@ La ***ŝajn-fonetika h-sistemo*** sekvas la principon "unu transskribo, unu sono
 |**qu/c** → **k**|**s-ss/(x)** → **s**|**sh** = **ŝ**|**w-u** → **w** = **ŭ**|**(q)u** → **v**|**z-s/(x)** → **z**|
 |*k*|*s*|*ŝ*|*ŭ*|*v*|*z*|
 
-Ĉar **j** *[ĝ]* estas pli kompleksa sono ol **ĵ** *[ĵ]*, estas la tendenco skribi ĝin per ĉapelita litero: **ĝ** *[ĝ]*. Tiam, *[j]* skribiĝas **j**. Sen tiu ĉi kunteksto, la diakrita versio de la ***ŝajn-fonetika h-sistemo de Piĝino*** estas ***Esperanto***.
+Ĉar **j** *[ĝ]* estas pli kompleksa sono ol **ĵ** *[ĵ]*, estas la tendenco skribi ĝin per ĉapelita litero: **ĝ** *[ĝ]*. Tiam, *[j]* skribiĝas **j**.
 
 | | |
 |-|-|
