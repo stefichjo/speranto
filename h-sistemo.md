@@ -28,10 +28,10 @@ Post vokalo, [j] kaj [ŭ] skribiĝas **i** kaj **u**. Post konsonanto aŭ komenc
 
 Post vokalo, [s] kaj [z] skribiĝas **ss** kaj **s**. Post konsonanto aŭ komence de la radiko, ili skribiĝas **s** kaj **z**. Kaj [ks] kaj [kz] skribiĝas **x**. (Kutime, [kz] aperas nur inter vokaloj.)
 
-| | | | | | | | |
-|:-|:-|:-|:-|:-|:-|:-|:-|
-| **masso** | **roso** | **sana** | **zono** | **texto** | **exameno** | **yes** | **yessi** |
-| *maso* | *rozo* | *sana* | *zono* | *teksto* | *ekzameno* | *jes* | *jesi* |
+| | | | | | | | | | |
+|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|
+| **masso** | **roso** | **sana** | **zono** | | **texto** | **exameno** | | **yes** | **yessi** |
+| *maso* | *rozo* | *sana* | *zono* | | *teksto* | *ekzameno* | | *jes* | *jesi* |
 
 Antaŭ **a**, **o** kaj **u**, skribiĝas **c** kaj **g** por [k] kaj [g]. Antaŭ **e** kaj **i**, skribiĝas **qu** kaj **gu**. Analogie, antaŭ **a**, **o** kaj **u**, skribiĝas **qu** kaj **gu** por [kv] kaj [gv]. Antaŭ **e** kaj **i**, skribiĝas **qv** kaj **gv**.
 
