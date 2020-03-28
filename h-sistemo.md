@@ -26,7 +26,7 @@ Post vokalo, [j] kaj [ŭ] skribiĝas **i** kaj **u**. Post konsonanto aŭ komenc
 | *jes* | **yes** |
 | *ŭaŭ* | **wau** |
 
-Post vokalo, [s] kaj [z] skribiĝas **ss** kaj **s**. Post konsonanto aŭ komence de la radiko, ili skribiĝas **s** kaj **z**. Kaj [ks] kaj [kz] skribiĝas **x**. (Kutime, [kz] aperas nur inter vokaloj.)
+Post vokalo, *[s]* kaj *[z]* skribiĝas **ss** kaj **s**. Post konsonanto aŭ komence de la radiko, ili skribiĝas **s** kaj **z**. Kaj *[ks]* kaj *[kz]* skribiĝas **x**. (Kutime, *[kz]* aperas nur inter vokaloj.)
 
 | | | | | | | | | | |
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|
