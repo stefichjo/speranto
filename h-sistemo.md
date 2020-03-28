@@ -71,7 +71,7 @@ Antaŭ **e** kaj **i**, skribiĝas **g** kaj **j** por *[ĝ]* kaj *[ĵ]*. Antaŭ
 > ---
 > L. L. Zamenhof
 
-La ***fonetika h-sistemo*** sekvas la principon "unu transskribo, unu sono". Tial, la prononco de transskribo aŭ litero neniam dependas de ĝia pozicio, kaj duoblaj konsonantoj ne estas konservataj. Kiam supersignoj estas disponeblaj, literkombinoj, kiuj reprezentas simplan sonon, estas skribataj per ĉapelo: "Unu litero, unu sono." (Ĉi-okaze la duonvokaloj *[j]* kaj *[ŭ]* estas skribataj kun hoketo: **ĭ** kaj **ŭ**.)
+La ***fonetika h-sistemo*** sekvas la principon "unu transskribo, unu sono". Tial, la prononco de transskribo aŭ litero neniam dependas de ĝia pozicio, kaj duoblaj konsonantoj ne estas konservataj. Kiam supersignoj estas disponeblaj, literkombinoj, kiuj reprezentas simplan sonon, estas skribataj per ĉapelo: "Unu litero, unu sono." (Ĉi-okaze la duonvokaloj **y** *[j]* kaj **w** *[ŭ]* estas skribataj kun hoketo: **ĭ** kaj **ŭ**.)
 
 | | | | | | | |
 |-|-|-|-|-|-|-|
