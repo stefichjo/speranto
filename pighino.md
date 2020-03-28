@@ -1,10 +1,10 @@
 # Piĝino
 
-> Se ni ech suposos, que la fina linguo de la estontai gueneracioi estas ne Esperanto, en chia ocaso la voio al tiu ellaborota linguo nepre devas conduqui tra Esperanto.
+> Se ni eĉ supposos, qŭe la fina linguo de la estontai generacioi estas ne Esperanto, en ĉia occaso la voio al tiu ellaborota linguo nepre devas conduqŭi tra Esperanto.
 > ---
 > L. L. Zamenhof
 
-***Piĝino*** pruntas elementojn el [***Lingua***](lingua.md), [***Sprak***](sprak.md) kaj [***Äzyk***](jazyk.md). Sen tiu ĉi kunteksto, ***Piĝino*** estas ***Esperanto*** kun aldona etimologia skribo.
+***Piĝino*** pruntas elementojn el [***Lingua***](lingua.md), [***Sprak***](sprak.md) kaj [***Äzyk***](jazyk.md). Sen tiu ĉi kunteksto, ***Piĝino*** estas ***Esperanto*** kun aldona etimologia skribo. (Kiam diakritaĵoj ne estas disponeblaj, ***Piĝino*** uzas propran [h-sistemon](h-sistemo.md).)
 
 ## Alfabeto
 
@@ -145,13 +145,11 @@ Kiam **c** prononciĝas [k] anstataŭ [c], ĝi skribiĝas **qŭ**. Kiam **c** pr
 | *potenco* | **potentĭa** | **potenço** |
 | *potencialo* | **potentĭale** | **potentīalo** |
 
-En ***Prapiĝino***, la skribo de **tĭ** konserviĝas. En ***Novpiĝino***, **qŭ** [k] skribiĝas **k**.
+En ***Prapiĝino***, la skribo de **tĭ** konserviĝas.
 
-| | Lingua | Prapiĝino | Piĝino | Novpiĝino |
-|:-|:-|:-|:-|:-|
-| *spaco* | **spatĭo** | **spatĭo** | **spaço** | **spaço** |
-| | | | | |
-| *ke* | **qŭe** | **qŭe** | **qŭe** | **ke** |
+| | Lingua | Prapiĝino | Piĝino |
+|:-|:-|:-|:-|
+| *spaco* | **spatĭo** | **spatĭo** | **spaço** |
 
 La **t** antaŭ **ĭ** aŭ **ī** prononciĝas [c], sed **st** ĉiam prononciĝas [st].
 
@@ -269,7 +267,7 @@ Samkiel en **aŭ** [aŭ], **ŭ** prononciĝas [ŭ] en **eŭ**.
 | *aŭto* | **aŭto** | **aŭto** |
 | *Eŭropo* | **Eŭropa** | **Eŭropo** |
 
-***Grekaj*** **ph**, **th**, **ch** kaj **y** prononciĝas [f], [t], [k] kaj [i]. Kiam **ch** prononciĝas [ĥ] aŭ [ŝ], ili skribiĝas etimologie **cĥ** [ĥ] respektive **çh** [ŝ]. Antaŭ **e**, **i** kaj **y**, ***greka*** **c** daŭre prononciĝas [k] kaj skribiĝas **k**. **z** [z] restas senŝanĝa.
+***Grekaj*** **ph**, **th**, **ch** kaj **y** prononciĝas [f], [t], [ĥ] kaj [i]. Kiam **ch** prononciĝas [ĥ] aŭ [ŝ], ili skribiĝas etimologie **cĥ** [ĥ] respektive **çh** [ŝ]. Antaŭ **e**, **i** kaj **y**, ***greka*** **c** daŭre prononciĝas [k] kaj skribiĝas **k**. **z** [z] restas senŝanĝa.
 
 | | Lingua | Piĝino |
 |:-|:-|:-|
@@ -290,48 +288,11 @@ Samkiel en **aŭ** [aŭ], **ŭ** prononciĝas [ŭ] en **eŭ**.
 |:-|:-|:-|
 | *kaj* | (**caĭ**) | **kaĭ** |
 
-## h-Sistemo
+En ***Novpiĝino***, **cĥ** [ĥ] fariĝas **ch** [k].
 
-| | Piĝino | (h-sistemo) |
-|:-|:-|:-|
-| *ĉambro* | **ĉambro** | **chambro** |
-| *maŝino* | **maçhino** | **mashino** |
-| *ĥaoso* | **cĥaoso** | **kaoso** |
-| | | |
-| *aŭto* | **aŭto** | **auto** |
-| *trajno* | **traĭno** | **traino** |
-| *ŭaŭ* | **ŭaŭ** | **wau** |
-| *jam* | **ĭam** | **yam** |
-| | | |
-| *ĵus* | **ĵus** | **jus** |
-| *ĵeti* | **ĵeti** | **jeti** |
-| | | |
-| *ĝusta* | **justa** | **justa** |
-| *ĝentila* | **ĝentila** | **gentila** |
-| *zaro* | **çaro** | **zaro** |
-| *centro* | **centro** | **centro** |
-| | | |
-| *kanalo* | **canalo** | **canalo** |
-| *ke* | **qŭe** | **que** |
-| *garantio* | **garantio** | **garantio** |
-| *gesto* | **gesto** | **guesto** |
-| | | |		
-| *akvo* | **aquo** | **aquo** |
-| *kvieta* | **quieta** | **qvieta** |
-| *lingvo* | **linguo** | **linguo** |
-| *gvidi* | **guidi** | **gvidi** |
-| | | |
-| *maso* | **masso** | **masso** |
-| *rozo* | **roso** | **roso** |
-| *sana* | **sana** | **sana** 
-| *zono* | **zono** | **zono** |
-| *teksto* | **texto** | **texto** |
-| *ekzameno* | **exameno** | **exameno** |
-
-| | Piĝino | (h-sistemo) |
-|:-|:-|:-|
-| *infanaĝo* | **infanajo** | **infanajo** → **infanadjo** |
-| *cumo* | **çumo** | **zumo** → **tsumo** |
+| | Lingua | Piĝino | Novpiĝino |
+|:-|:-|:-|:-|
+| *chemia* | **cĥemio** | **chemio** |
 
 ## Gramatiko
 
