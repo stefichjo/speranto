@@ -2,20 +2,20 @@
 
 Kiam supersignoj ne estas disponeblaj, uziĝas la ***h-sistemo*** de [***Piĝino***](pighino.md).
 
-## Etimologia h-Sistemo
+## Ŝajn-Etimologia h-Sistemo
 
 > Se ni ech supposos, que la fina linguo de la estontai gueneracioi estas ne Esperanto, en chia occaso la voio al tiu ellaborota linguo nepre devas conduqui tra Esperanto.
 > ---
 > L. L. Zamenhof
 
-La ***etimologia h-sistemo*** estas sendiakrita transskribo de [***Piĝino***](pighino.md).
+La ***ŝajn-etimologia h-sistemo*** estas sendiakrita transskribo de [***Piĝino***](pighino.md). Ĝi konservas duoblajn konsonantojn, kaj la prononco de transskribo aŭ litero ofte dependas de ĝi pozicio.
 
-| | | | | | | | | | | | | | |
-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|
-|**a**|**b**|**c/ts-z**|**ch**|**d**|**e**|**f**|**gu/g**|**g/dj-j**|**h**|**k**|**i**|**y-i**|**j/j-jh**|
-|*a*|*b*|*c*|*ĉ*|*d*|*e*|*f*|*g*|*ĝ*|*h*|*ĥ*|*i*|*j*|*ĵ*|
-|**qu/c**|**l**|**m**|**n**|**o**|**p**|**r**|**s-ss/(x)**|**sh**|**t**|**u**|**w-u**|**v/(q/g)u**|**z-s/(x)**|
-|*k*|*l*|*m*|*n*|*o*|*p*|*r*|*s*|*ŝ*|*t*|*u*|*ŭ*|*v*|*z*|
+| | | | | | | |
+|-|-|-|-|-|-|-|
+|**c/ts-z**|**ch**|**gu/g**|**g/dj-j**|**k**|**y-i**|**j/j-jh**|
+|*c*|*ĉ*|*g*|*ĝ*|*ĥ*|*j*|*ĵ*|
+|**qu/c**|**s-ss/(x)**|**sh**|**w-u**|**(q)u**|**z-s/(x)**|
+|*k*|*s*|*ŝ*|*ŭ*|*v*|*z*|
 
 Post vokalo, *[j]* kaj *[ŭ]* skribiĝas **i** kaj **u**. Post konsonanto aŭ komence de la radiko, ili skribiĝas **y** kaj **w**.
 
@@ -58,6 +58,8 @@ Antaŭ **e** kaj **i**, skribiĝas **g** kaj **j** por *[ĝ]* kaj *[ĵ]*. Antaŭ
 | **jeti** | **uje** | **jus** | **ajho** |
 | *ĵeti* | *uĵe* | *ĵus* | *aĵo* |
 
+***TODO***
+
 [ĥ] skribiĝas **k**.
 
 | | h-sistemo |
@@ -66,18 +68,18 @@ Antaŭ **e** kaj **i**, skribiĝas **g** kaj **j** por *[ĝ]* kaj *[ĵ]*. Antaŭ
 | *ĉambro* | **chambro** |
 | *ŝuo* | **shuo** |
 
-## Fonetika h-Sistemo
+## Ŝajn-Fonetika h-Sistemo
 
-> Se ni ech supposos, que la fina linguo de la estontai gueneracioi estas ne Esperanto, en chia occaso la voio al tiu ellaborota linguo nepre devas conduqui tra Esperanto.
+> Se ni ech supozos, ke la fina lingvo de la estontay generacioy estas ne Esperanto, en chia okazo la voyo al tiu ellaborota lingvo nepre devas konduki tra Esperanto.
 > ---
 > L. L. Zamenhof
 
-La ***etimologia h-sistemo*** estas sendiakrita transskribo de [***Piĝino***](pighino.md).
+La ***ŝajn-fonetika h-sistemo*** sekvas la principon "unu transskribo, unu sono". Tial, la prononco de transskribo aŭ litero neniam dependas de ĝia pozicio, kaj duoblaj konsonantoj ne estas konservataj.
 
-|**a**|**b**|**c**|**ĉ**|**d**|**e**|**f**|**g**|**ĝ**|**h**|**ĥ**|**i**|**j**|**ĵ**|
-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|
-|a|b|c/ts-z|ch|d|e|f|gu/g|g/dj-j|h|k|i|y-i|j/j-jh|
-|**k**|**l**|**m**|**n**|**o**|**p**|**r**|**s**|**ŝ**|**t**|**u**|**ŭ**|**v**|**z**|
-|qu/c|l|m|n|o|p|r|s-ss/(x)|sh|t|u|w-u|v/(q/g)u|z-s/(x)|
-
+| | | | | | | |
+|-|-|-|-|-|-|-|
+|**c/ts-z** → **k**|**ch**|**gu/g** → **g**|**g/dj-j** → **(d)j**|**k** → **hh**|**y-i** → **y**|**j/j-jh** → **j(h)**|
+|*c*|*ĉ*|*g*|*ĝ*|*ĥ*|*j*|*ĵ*|
+|**qu/c** → **k**|**s-ss/(x)** → **s**|**sh**|**w-u** → **w**|**(q)u** → **v**|**z-s/(x)** → **z**|
+|*k*|*s*|*ŝ*|*ŭ*|*v*|*z*|
 
