@@ -16,17 +16,14 @@ La ***etimologia h-sistemo*** estas sendiakrita transskribo de [***Piĝino***](p
 |**k**|**l**|**m**|**n**|**o**|**p**|**r**|**s**|**ŝ**|**t**|**u**|**ŭ**|**v**|**z**|
 |qu/c|l|m|n|o|p|r|s-ss/(x)|sh|t|u|w-u|v/(q/g)u|z-s/(x)|
 
-Post vokalo, [j] kaj [ŭ] skribiĝas **i** kaj **u**. Post konsonanto aŭ komence de la radiko, ili skribiĝas **y** kaj **w**.
+Post vokalo, *[j]* kaj *[ŭ]* skribiĝas **i** kaj **u**. Post konsonanto aŭ komence de la radiko, ili skribiĝas **y** kaj **w**.
 
-| | h-sistemo |
-|:-|:-|
-| *trajno* | **traino** |
-| *aŭto* | **auto** |
-| | |
-| *jes* | **yes** |
-| *ŭaŭ* | **wau** |
+| | | | | |
+|:-|:-|:-|:-|:-|
+| **traino** | **auto** | | **yes** | **wau** |
+| *trajno* | *aŭto* | | *jes* | *ŭaŭ* |
 
-Post vokalo, *[s]* kaj *[z]* skribiĝas **ss** kaj **s**. Post konsonanto aŭ komence de la radiko, ili skribiĝas **s** kaj **z**. Kaj *[ks]* kaj *[kz]* skribiĝas **x**. (Kutime, *[kz]* aperas nur inter vokaloj ene de la radiko, krom malmultaj esceptoj, ekzemple **taxio**, kiu havas la sonon *[ks]*.) Fine  de la vorto, skribiĝas **s** por *[s]*. Postvokala *[dz]* skribiĝas **ds**.
+Post vokalo, *[s]* kaj *[z]* skribiĝas **ss** kaj **s**. Post konsonanto aŭ komence de la radiko, ili skribiĝas **s** kaj **z**. Kaj *[ks]* kaj *[kz]* skribiĝas **x**. (Kutime, *[kz]* aperas nur inter vokaloj ene de la radiko, krom malmultaj esceptoj, ekzemple **taxio**, kiu havas la sonon *[ks]*.) Fine  de la vorto, skribiĝas **s** por *[s]*. *[dz]* skribiĝas **ds**.
 
 | | | | | | | | | | | | |
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|
