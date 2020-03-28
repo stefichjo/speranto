@@ -58,15 +58,12 @@ Antaŭ **e** kaj **i**, skribiĝas **g** kaj **j** por *[ĝ]* kaj *[ĵ]*. Antaŭ
 | **jeti** | **uje** | **jus** | **ajho** |
 | *ĵeti* | *uĵe* | *ĵus* | *aĵo* |
 
-***TODO***
+*[ĉ]* kaj *[ŝ]* skribiĝas **ch** kaj **sh**, dum *[ĥ]* skribiĝas **k**.
 
-[ĥ] skribiĝas **k**.
-
-| | h-sistemo |
-|:-|:-|
-| *ĥemio* | **kemio** |
-| *ĉambro* | **chambro** |
-| *ŝuo* | **shuo** |
+| | | | |
+|:-|:-|:-|:-|
+| **chambro** | **shuo** | | **kemio** |
+| *ĉambro* | *ŝuo* | | *ĥemio* |
 
 ## Ŝajn-Fonetika h-Sistemo
 
@@ -78,8 +75,7 @@ La ***ŝajn-fonetika h-sistemo*** sekvas la principon "unu transskribo, unu sono
 
 | | | | | | | |
 |-|-|-|-|-|-|-|
-|**c/ts-z** → **k**|**ch**|**gu/g** → **g**|**g/dj-j** → **(d)j**|**k** → **hh**|**y-i** → **y**|**j/j-jh** → **j(h)**|
+|**c/ts-z** → **c**|**ch** = **ĉ**|**gu/g** → **g**|**g/dj-j** → **j**|**k** → **hh** = **ĥ**|**y-i** → **y** = **ĭ**|**j/j-jh** → **jh** = **ĵ**|
 |*c*|*ĉ*|*g*|*ĝ*|*ĥ*|*j*|*ĵ*|
-|**qu/c** → **k**|**s-ss/(x)** → **s**|**sh**|**w-u** → **w**|**(q)u** → **v**|**z-s/(x)** → **z**|
+|**qu/c** → **k**|**s-ss/(x)** → **s**|**sh** = **ŝ**|**w-u** → **w** = **ŭ**|**(q)u** → **v**|**z-s/(x)** → **z**|
 |*k*|*s*|*ŝ*|*ŭ*|*v*|*z*|
-
