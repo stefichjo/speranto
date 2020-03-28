@@ -26,12 +26,12 @@ Post vokalo, [j] kaj [ŭ] skribiĝas **i** kaj **u**. Post konsonanto aŭ komenc
 | *jes* | **yes** |
 | *ŭaŭ* | **wau** |
 
-Post vokalo, *[s]* kaj *[z]* skribiĝas **ss** kaj **s**. Post konsonanto aŭ komence de la radiko, ili skribiĝas **s** kaj **z**. Kaj *[ks]* kaj *[kz]* skribiĝas **x**. (Kutime, *[kz]* aperas nur inter vokaloj ene de la radiko, sed **taxio** kaj **maximuma** havas la sonon *[ks]*.)
+Post vokalo, *[s]* kaj *[z]* skribiĝas **ss** kaj **s**. Post konsonanto aŭ komence de la radiko, ili skribiĝas **s** kaj **z**. Kaj *[ks]* kaj *[kz]* skribiĝas **x**. (Kutime, *[kz]* aperas nur inter vokaloj ene de la radiko, krom malmultaj esceptoj, ekzemple **taxio**, kiu havas la sonon *[ks]*.) Fine  de la vorto, skribiĝas **s** por *[s]*. Postvokala *[dz]* skribiĝas **ds**.
 
-| | | | | | | | | | |
-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|
-| **masso** | **roso** | **sana** | **zono** | | **texto** | **exameno** | | **yes** | **yessi** |
-| *maso* | *rozo* | *sana* | *zono* | | *teksto* | *ekzameno* | | *jes* | *jesi* |
+| | | | | | | | | | | | |
+|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|
+| **masso** | **roso** | **sana** | **zono** | | **texto** | **exameno** | | **yes** | **yessi** | | **edso** |
+| *maso* | *rozo* | *sana* | *zono* | | *teksto* | *ekzameno* | | *jes* | *jesi* | | *edzo* |
 
 Antaŭ **a**, **o** kaj **u**, skribiĝas **c** kaj **g** por *[k]* kaj *[g]*. Antaŭ **e** kaj **i**, skribiĝas **qu** kaj **gu**. Analogie, antaŭ **a**, **o** kaj **u**, skribiĝas **qu** kaj **gu** por *[kv]* kaj *[gv]*. Antaŭ **e** kaj **i**, skribiĝas **qv** kaj **gv**.
 
@@ -43,31 +43,22 @@ Antaŭ **a**, **o** kaj **u**, skribiĝas **c** kaj **g** por *[k]* kaj *[g]*. A
 | **garantio** | **guesto** | **linguo** | **gvidi** |
 | *garantio* | *gesto* | *lingvo* | *gvidi* |
 
-Antaŭ **e** kaj **i**, skribiĝas **c** por [c]. Antaŭ **a**, **o** kaj **u**, skribiĝas **ts** (komence de la radiko) respektive **z**. Komence de la radiko, skribiĝas **ts**. Fine  de la vorto, skribiĝas **s** por [s]. Postvokala [dz] skribiĝas **ds**.
+Antaŭ **e** kaj **i**, skribiĝas **c** por *[c]*. Antaŭ **a**, **o** kaj **u**, skribiĝas **ts** (komence de la radiko) respektive **z**. Komence de la radiko, skribiĝas **ts**.
 
-| | h-sistemo |
-|:-|:-|
-| *centro* | **centro** |
-| *pace* | **pace** |
-| | |
-| *caro* | **tsaro** |
-| *paco* | **pazo** |
-| | |
-| *edzo* | **edso** |
+| | | | |
+|:-|:-|:-|:-|
+| **centro** | **pace** | **tsaro** | **pazo** |
+| *centro* | *pace* | *caro* | *paco* |
 
-Antaŭ **e** kaj **i**, skribiĝas **g** kaj **j** por [ĝ] kaj [ĵ]. Antaŭ **a**, **o** kaj **u**, skribiĝas **dj** kaj **j** (komence de la radiko) respektive **j** kaj **jh**. Komence de la radiko, skribiĝas **j**.
+Antaŭ **e** kaj **i**, skribiĝas **g** kaj **j** por *[ĝ]* kaj *[ĵ]*. Antaŭ **a**, **o** kaj **u**, skribiĝas **dj** kaj **j** (komence de la radiko) respektive **j** kaj **jh**. Komence de la radiko, skribiĝas **j**.
 
-| | h-sistemo |
-|:-|:-|
-| *ĝentila* | **gentila** |
-| *averaĝe* | **average** |
-| *ĝusta* | **djusta** |
-| *aĝo* | **ajo** |
-| | |
-| *ĵeti* | **jeti** |
-| *uĵe* | **uje** |
-| *ĵus* | **juss** |
-| *aĵo* | **ajho** |
+| | | | |
+|:-|:-|:-|:-|
+| **gentila** | **average** | **djusta** | **ajo** |
+| *ĝentila* | *averaĝe* | *ĝusta* | *aĝo* |
+| | | | |
+| **jeti** | **uje** | **jus** | **ajho** |
+| *ĵeti* | *uĵe* | *ĵus* | *aĵo* |
 
 [ĥ] skribiĝas **k**.
 
