@@ -80,7 +80,7 @@ La ***ŝajn-fonetika h-sistemo*** sekvas la principon "unu transskribo, unu sono
 |**qu/c** → **k**|**s-ss/(x)** → **s**|**sh** = **ŝ**|**w-u** → **w** = **ŭ**|**(q)u** → **v**|**z-s/(x)** → **z**|
 |*k*|*s*|*ŝ*|*ŭ*|*v*|*z*|
 
-Ĉar **j** *[ĝ]* estas pli kompleksa sono ol **ĵ** *[ĵ]*, estas la tendenco skribi ĝin per ĉapelita litero: **ĝ** *[ĝ]*. Tiam, *[j]* skribiĝas **j**.
+Ĉar **j** *[ĝ]* estas pli kompleksa sono ol **ĵ** *[ĵ]*, estas la tendenco skribi ĝin per ĉapelita litero: **ĝ** *[ĝ]*. Tiam, *[j]* skribiĝas **j**. Sen tiu ĉi kunteksto, la diakrita versio de la ***ŝajn-fonetika h-sistemo de Piĝino*** estas ***Esperanto***.
 
 | | |
 |-|-|
