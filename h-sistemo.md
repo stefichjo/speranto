@@ -8,7 +8,7 @@ Kiam supersignoj ne estas disponeblaj, uziĝas la ***h-sistemo*** de [***Piĝino
 > ---
 > L. L. Zamenhof
 
-La ***ŝajn-etimologia h-sistemo*** estas sendiakrita transskribo de [***Piĝino***](pighino.md). Ĝi konservas duoblajn konsonantojn, kaj la prononco de transskribo aŭ litero ofte dependas de ĝi pozicio.
+La ***ŝajn-etimologia h-sistemo*** estas sensupersigna transskribo de [***Piĝino***](pighino.md). Ĝi konservas duoblajn konsonantojn, kaj la prononco de transskribo aŭ litero ofte dependas de ĝi pozicio.
 
 | | | | | | | |
 |-|-|-|-|-|-|-|
@@ -71,7 +71,7 @@ Antaŭ **e** kaj **i**, skribiĝas **g** kaj **j** por *[ĝ]* kaj *[ĵ]*. Antaŭ
 > ---
 > L. L. Zamenhof
 
-La ***ŝajn-fonetika h-sistemo*** sekvas la principon "unu transskribo, unu sono". Tial, la prononco de transskribo aŭ litero neniam dependas de ĝia pozicio, kaj duoblaj konsonantoj ne estas konservataj.
+La ***ŝajn-fonetika h-sistemo*** sekvas la principon "unu transskribo, unu sono". Tial, la prononco de transskribo aŭ litero neniam dependas de ĝia pozicio, kaj duoblaj konsonantoj ne estas konservataj. Kiam supersignoj estas disponeblaj, literkombinoj, kiuj reprezentas simplan sonon, estas skribataj per ĉapelo. (Ĉi-okaze la duonvokaloj *[j]* kaj *[ŭ]* estas skribataj kun hoketo: **ĭ** kaj **ŭ**.)
 
 | | | | | | | |
 |-|-|-|-|-|-|-|
@@ -79,3 +79,5 @@ La ***ŝajn-fonetika h-sistemo*** sekvas la principon "unu transskribo, unu sono
 |*c*|*ĉ*|*g*|*ĝ*|*ĥ*|*j*|*ĵ*|
 |**qu/c** → **k**|**s-ss/(x)** → **s**|**sh** = **ŝ**|**w-u** → **w** = **ŭ**|**(q)u** → **v**|**z-s/(x)** → **z**|
 |*k*|*s*|*ŝ*|*ŭ*|*v*|*z*|
+
+
