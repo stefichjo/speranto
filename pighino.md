@@ -292,7 +292,7 @@ En ***Novpiĝino***, **cĥ** [ĥ] fariĝas **ch** [k].
 
 | | Lingua | Piĝino | Novpiĝino |
 |:-|:-|:-|:-|
-| *chemia* | **cĥemio** | **chemio** |
+| *chemia* | **chemia** | **cĥemio** | **chemio** |
 
 ## Gramatiko
 
