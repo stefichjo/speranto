@@ -24,7 +24,7 @@ Post vokalo, *[j]* kaj *[ŭ]* skribiĝas **i** kaj **u**. Post konsonanto aŭ ko
 | **traino** | **auto** | | **yam** | **wau** |
 | *trajno* | *aŭto* | | *jam* | *ŭaŭ* |
 
-Post vokalo, *[s]* kaj *[z]* skribiĝas **ss** kaj **s**. Post konsonanto aŭ komence de la radiko, ili skribiĝas **s** kaj **z**. Kaj *[ks]* kaj *[kz]* skribiĝas **x**. (Kutime, *[kz]* aperas nur inter vokaloj ene de la radiko, krom malmultaj esceptoj, ekzemple **taxio**, kiu havas la sonon *[ks]*.) *[dz]* skribiĝas **ds**. En malkutima pozicio, [z] skribiĝas **zz**.
+Post vokalo, *[s]* kaj *[z]* skribiĝas **ss** kaj **s**. Post konsonanto aŭ komence de la radiko, ili skribiĝas **s** kaj **z**. Kaj *[ks]* kaj *[kz]* skribiĝas **x**. (Kutime, *[kz]* aperas nur inter vokaloj ene de la radiko, krom malmultaj esceptoj, ekzemple **taxio**, kiu havas la sonon *[ks]*.) *[dz]* skribiĝas **ds**. En malkutima pozicio, *[z]* skribiĝas **zz**.
 
 | | | | | | | | | | | |
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|
