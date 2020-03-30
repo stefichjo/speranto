@@ -36,7 +36,7 @@ Fine de la vorto, skribiĝas **s** por *[s]*, **z** por *[z]* kaj **ts** por *[c
 | | | |
 |:-|:-|:-|
 | **yes** | **roz'** | **pats'** |
-| *jes* | *roz'* | **pac'* |
+| *jes* | *roz'* | *pac'* |
 
 Kiam latindevena radiko finiĝas je **ti**, ĝi prononciĝas *[ci]*.
 
