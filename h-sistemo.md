@@ -31,7 +31,7 @@ Post vokalo, *[s]* kaj *[z]* skribiĝas **ss** kaj **s**. Post konsonanto aŭ ko
 | **masso** | **roso** | **sana** | **zono** | | **texto** | **exemplo** | | **edso** | | **puzzlo** |
 | *maso* | *rozo* | *sana* | *zono* | | *teksto* | *ekzemplo* | | *edzo* | | *puzlo* |
 
-Fine de la vorto, skribiĝas **s** por *[s]*, **z** por *[z]* kaj **ts** por *[c]*.
+Fine de la radiko, skribiĝas **s** por *[s]*, **z** por *[z]* kaj **ts** por *[c]*.
 
 | | | |
 |:-|:-|:-|
