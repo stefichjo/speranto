@@ -36,12 +36,12 @@ La fonetika skribo de ***Piĝino*** baziĝas sur ***Äzyk***. Tial, la etimologi
 |:-|:-|:-|
 | *kekso* | **keks** | **kekso** |
 
-***Ĝermanaj*** **w** kaj **j** prononciĝas [v] respektive [j] kaj skribiĝas **v** respektive **ĭ**. En ***Prapiĝino***, ili skribiĝas **w** respektive **j**.
+***Ĝermanaj*** **w** kaj **j** prononciĝas [v] respektive [j] kaj skribiĝas **v** respektive **y**. En ***Prapiĝino***, ili skribiĝas **w** respektive **j**.
 
 | | Sprak | Prapiĝino | Piĝino |
 |:-|:-|:-|:-|
 | *varma* | **warm** | **warma** | **varma** |
-| *jaro* | **jar** | **jaro** | **ĭaro** |
+| *jaro* | **jar** | **jaro** | **yaro** |
 
 ***Ĝermana*** **sh** [ŝ] konserviĝas. Antaŭ konsonanto, ***ĝermana*** **s** fariĝas **ŝ** [ŝ]. Kiam ***ĝermana*** **s** prononciĝas [s] anstataŭ [ŝ], ĝi skribiĝas **ş**.
 
