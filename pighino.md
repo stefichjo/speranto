@@ -430,15 +430,15 @@ Adjektivoj havas la samajn finaĵojn por *multenombro* kaj *akuzativo* kiel la s
 | *krom* | **krom** | **krom** |
 | *pri* | **pri** | **pri** |
 
-| | Piĝino | Novpiĝino |
-|:-|:-|:-|
-| *ludi la gitaron* | **ludi la gitarron** | **ludi na la gitarro** |
+| | Piĝino |
+|:-|:-|
+| *ludi la gitaron* | **ludi la gitarron** → **ludi na la gitarro** |
 
-*Novpiĝino:* *Tra bruo*, uziĝas **na** anstataŭ **a**.
+*Tra bruo*, uziĝas **a** aŭ, anstataŭe, **na**.
 
-| | Piĝino (tra bruo) | Novpiĝino (tra bruo) |
-|:-|:-|:-|
-| *Mi vidas vin.* | **Mi vidas a vi.** | **Mi vidas na vi.** |
+| | Piĝino (tra bruo) |
+|:-|:-|
+| *Mi vidas vin.* | **Mi vidas a vi.** → **Mi vidas na vi.** |
 
 *Lingvaismo:* La lokaj prepozicioj **ad**, **in**, **de** kaj la ne-lokaj prepozicioj **al**, **en**, **di** el ***Neolingua*** unuiĝas al **al**, **en**, **de** en ***Piĝino***.
 
