@@ -119,13 +119,13 @@ La **c** kutime prononciĝas [k], sed antaŭ **e**, **i** (kaj **y**) ĝi pronon
 
 Ĉar la prononcoj de **c** kiel [ĉ] kaj de **g** kiel [ĝ] ne estas skribeblaj etimologie, ili skribiĝas fonetike **ĉ** [ĉ] kaj **ĝ** [ĝ].
 
-| | Lingua | Piĝino | Novpiĝino |
-|:-|:-|:-|:-|
-| *akĉento* | **acĉento** [c] | **acĉento** [ĉ] | **accento** [c] |
-| *ĝenerala* | **ĝenerale** [g] | **ĝenerala** [ĝ] | **generala** [ĝ] |
-| | | | |
-| *legi* | **lege** | **legi** [g] | ... |
-| *leĝo* | **lege** | **leĝo** [ĝ] | ... |
+| | Lingua | Piĝino |
+|:-|:-|:-|
+| *akĉento* | **acĉento** [c] | **acĉento** [ĉ] |
+| *ĝenerala* | **ĝenerale** [g] | **ĝenerala** [ĝ] |
+| | | |
+| *legi* | **lege** | **legi** [g] |
+| *leĝo* | **lege** | **leĝo** [ĝ] |
 
 Kiam **c** prononciĝas [k] anstataŭ [c], ĝi skribiĝas **qŭ**. Kiam **c** prononciĝas [c] anstataŭ [k], ĝi skribiĝas **ç**. Radikofina **tĭ** [c] skribiĝas kiel **c**/**ç**.
 
@@ -285,21 +285,74 @@ Samkiel en **aŭ** [aŭ], **ŭ** prononciĝas [ŭ] en **eŭ**.
 
 #### Novpiĝino
 
-En ***Novpiĝino***, grekaj **th** [t] kaj **y** povas esti prononcataj [θ] kaj [y].
+##### Ĝermana
+
+Ĝermana [j] skribiĝas **y**.
+
+| | Sprak | Piĝino | Novpiĝino |
+|:-|:-|:-|:-|
+| *jes* | **jes** | **jes** [jes] | **yes** |
+
+##### Greka
+
+Greka **ch** *[ĥ]* prononciĝas *[k]* komence de la radiko.
+
+| | Lingua | Piĝino | Novpiĝino |
+|:-|:-|:-|:-|
+| *kemio*, *ĥemio* | **chemia** | **cĥemio** [ĥemio] | **chemio** [kemio] |
+| *mekaniko*, *meĥaniko* | **mechanica** | **mecĥanico** [meĥaniko] | = |
+| *eĥo* | **echo** | **ecĥo** [eĥo] | = |
+
+Grekaj **th** [t] kaj **y** povas esti prononcataj [θ] kaj [y].
 
 | | Lingua | Piĝino | Novpiĝino |
 |:-|:-|:-|:-|
 | *simpatio* | **sympathia** | **sympathio** [simpatio] | [sympaθio] |
 
-En ***Novpiĝino***, **ĉ** [ĉ] fariĝas **^ç** = **çh** [ŝ] aŭ akceptas pli etiman formon.
+##### Latinida
+
+Novlatinida **çh** [ŝ] prononciĝas [ĉ] nur fine de la radiko.
 
 | | Lingua | Piĝino | Novpiĝino |
 |:-|:-|:-|:-|
-| *ĉambro* | **camera** | **ĉambro** [ĉ] | **çhambro** [ŝ] |
-| *ĉemizo* | **...** | **ĉemiso** [ĉ] | **çhemiso** [ŝ] / **camiso** [k] |
-| *ĉielo* | **...** | **ĉielo** [ĉ] | **cielo** [c] |
+| *ŝanco* | **cadentĭa** | **ŝanço** [ŝ] | **çhanzo** |
+| *voĉo* | **voce** | **voĉo** [ĉ] | **voçho** |
+| | | | |
+| *ĉe* | **casa** | **ĉe** [ĉ] | **çhe** [ŝ] |
 
-***TODO*** ri-, di-, -ino
+Frikativa **c** [s] prononciĝas [c] nur fine de la radiko.
+
+| | Lingua | Piĝino | Novpiĝino |
+|:-|:-|:-|:-|
+| *serĉi* | **ĉirca** | **çerĉi** [serĉi] | **çerçhi** |
+| | | | |
+| *centro* | **centro** | **centro** [c] | [s] |
+| *akcento* | **acĉento** | **accento** [c] | [s] |
+| | | | |
+| *ĉielo* | **cælo** | **ĉielo** [ĉ] | **cielo** [s] |
+
+Frikativa **ĝ** / **ĵ** [ĵ] prononciĝas [ĝ] nur fine de la radiko.
+
+| | Lingua | Piĝino | Novpiĝino |
+|:-|:-|:-|:-|
+| *ĝentila* | **ĝentile** | **ĝentila** [ĝ] | **gentila** [ĵ] |
+| *leĝo* | **leĝe** | **leĝo** [ĝ] | **lejo** |
+| *manĝi* | **manja** | **manĝi** [ĝ] | **mangi** |
+| | | | |
+| *ĵus* | **jus** | **ĵus** [ĵ] | **jus** |
+| *mesaĝo* | **messajo** | **messajo** [ĝ] | = |
+| *ŝanĝi* | **cambĭo** | **ŝanĝi** | **çhangi** |
+| | | | |
+| *jam* | **jam** | **ĭam** [j] | **jam** [ĵ] |
+| *objekto* | **objecto** | **obĭecto** [j] | **objecto** [ĵ] |
+| | | | |
+| *majo* | **majo** | **maĭo** [j] | = |
+
+***TODO*** ripari
+
+***TODO*** dipendi
+
+***TODO*** jardino camino pingvino
 
 ## Gramatiko
 
