@@ -119,13 +119,13 @@ La **c** kutime prononciĝas [k], sed antaŭ **e**, **i** (kaj **y**) ĝi pronon
 
 Ĉar la prononcoj de **c** kiel [ĉ] kaj de **g** kiel [ĝ] ne estas skribeblaj etimologie, ili skribiĝas fonetike **ĉ** [ĉ] kaj **ĝ** [ĝ].
 
-| | Lingua | Piĝino |
-|:-|:-|:-|
-| *akĉento* | **acĉento** | **acĉento** |
-| *ĝenerala* | **ĝenerale** | **ĝenerala** |
-| | | |
-| *legi* | **lege** | **legi** |
-| *leĝo* | **lege** | **leĝo** |
+| | Lingua | Piĝino | Novpiĝino |
+|:-|:-|:-|:-|
+| *akĉento* | **acĉento** [c] | **acĉento** [ĉ] | **accento** [c] |
+| *ĝenerala* | **ĝenerale** [g] | **ĝenerala** [ĝ] | **generala** [ĝ] |
+| | | | |
+| *legi* | **lege** | **legi** [g] | ... |
+| *leĝo* | **lege** | **leĝo** [ĝ] | ... |
 
 Kiam **c** prononciĝas [k] anstataŭ [c], ĝi skribiĝas **qŭ**. Kiam **c** prononciĝas [c] anstataŭ [k], ĝi skribiĝas **ç**. Radikofina **tĭ** [c] skribiĝas kiel **c**/**ç**.
 
@@ -196,7 +196,7 @@ Samkiel en ***Lingua***, duoblaj konsonantoj prononciĝas unuoble. Inter vokaloj
 
 | | Lingua | Piĝino |
 |:-|:-|:-|
-| *tero* | **terra** | **tero** |
+| *tero* | **terra** | **terro** |
 | | | |
 | *maso* | **massa** | **masso** |
 | *rozo* | **rosa** | **roso** |
@@ -244,12 +244,12 @@ En kelkaj ***Arkelingvaismoj***, intervokala **b** restas senŝanĝa.
 | | | | |
 | *pejzaĝo* | **paesajo** | **päĕsajo** | **peĭsajo** |
 
-*Prapiĝino:* Kiam **c** prononciĝas [ŝ], ĝi skribiĝas **^ç**.
+*Prapiĝino:* Kiam **c** prononciĝas [ŝ], ĝi skribiĝas **^ç** = **çh**.
 
 | | Lingua | Prapiĝino | Piĝino |
 |:-|:-|:-|:-|
-| *ŝanco* | **cadentĭa** | **^çadĕntĭo** | **ŝanço** |
-| *ŝanĝo* | **cambĭo** | **^çam̃bjo** | **ŝanĝo** |
+| *ŝanco* | **cadentĭa** | **çhadĕntĭo** | **ŝanço** |
+| *ŝanĝo* | **cambĭo** | **çham̃bjo** | **ŝanĝo** |
 | *ĉemizo* | **camisĭa** | **ĉämisĭo** | **ĉemiso** |
 
 #### Grekaj Vortoj
@@ -267,7 +267,7 @@ Samkiel en **aŭ** [aŭ], **ŭ** prononciĝas [ŭ] en **eŭ**.
 | *aŭto* | **aŭto** | **aŭto** |
 | *Eŭropo* | **Eŭropa** | **Eŭropo** |
 
-***Grekaj*** **ph**, **th**, **ch** kaj **y** prononciĝas [f], [t], [ĥ] kaj [i]. Kiam **ch** prononciĝas [ĥ] aŭ [ŝ], ili skribiĝas etimologie **cĥ** [ĥ] respektive **çh** [ŝ]. Antaŭ **e**, **i** kaj **y**, ***greka*** **c** daŭre prononciĝas [k] kaj skribiĝas **k**. **z** [z] restas senŝanĝa.
+***Grekaj*** **ph**, **th**, **ch** kaj **y** prononciĝas [f], [t], [ĥ] kaj [i]. Kiam **ch** prononciĝas [ŝ], ĝi skribiĝas **çh**. ***greka*** [k] kaj skribiĝas **k** antaŭ **e**, **i** kaj **y**. **z** [z] restas senŝanĝa.
 
 | | Lingua | Piĝino |
 |:-|:-|:-|
@@ -275,6 +275,7 @@ Samkiel en **aŭ** [aŭ], **ŭ** prononciĝas [ŭ] en **eŭ**.
 | *fazo* | **phase** | **phaso** |
 | *temo* | **tema** | **themo** |
 | *karaktero* | **charactere** | **charactero** |
+| *kaligrafio* | **calligraphia** | **calligraphio** |
 | | | |
 | *eĥo* | **echo** | **ecĥo** |
 | *maŝino* | **machina** | **maçhino** |
@@ -282,17 +283,23 @@ Samkiel en **aŭ** [aŭ], **ŭ** prononciĝas [ŭ] en **eŭ**.
 | *kilo* | **kilo** | **kilo** |
 | *zono* | **zona** | **zono** |
 
-***Grekaj*** vortoj, kiuj rekte eniris ***Piĝinon***, havas **k**-on kie ***Lingua*** havus ***c***-on.
+#### Novpiĝino
 
-| | Lingua | Piĝino |
-|:-|:-|:-|
-| *kaj* | (**caĭ**) | **kaĭ** |
-
-En ***Novpiĝino***, **cĥ** [ĥ] fariĝas **ch** [k].
+En ***Novpiĝino***, grekaj **th** [t] kaj **y** povas esti prononcataj [θ] kaj [y].
 
 | | Lingua | Piĝino | Novpiĝino |
 |:-|:-|:-|:-|
-| *ĥemio* | **chemia** | **cĥemio** | **chemio** |
+| *simpatio* | **sympathia** | **sympathio** [simpatio] | [sympaθio] |
+
+En ***Novpiĝino***, **ĉ** [ĉ] fariĝas **^ç** = **çh** [ŝ] aŭ akceptas pli etiman formon.
+
+| | Lingua | Piĝino | Novpiĝino |
+|:-|:-|:-|:-|
+| *ĉambro* | **camera** | **ĉambro** [ĉ] | **çhambro** [ŝ] |
+| *ĉemizo* | **...** | **ĉemiso** [ĉ] | **çhemiso** [ŝ] / **camiso** [k] |
+| *ĉielo* | **...** | **ĉielo** [ĉ] | **cielo** [c] |
+
+***TODO*** ri-, di-, -ino
 
 ## Gramatiko
 
