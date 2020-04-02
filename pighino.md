@@ -295,7 +295,7 @@ Samkiel en **aŭ** [aŭ], **ŭ** prononciĝas [ŭ] en **eŭ**.
 
 | | Sprak | Piĝino | Novpiĝino |
 |:-|:-|:-|:-|
-| *jes* | **jes** | **jes** *[j]* | **y̆es** |
+| *jes* | **jes** | **yes** *[j]* | **y̆es** |
 
 ##### Greka
 
