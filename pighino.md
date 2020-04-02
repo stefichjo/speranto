@@ -285,33 +285,33 @@ Samkiel en **aŭ** [aŭ], **ŭ** prononciĝas [ŭ] en **eŭ**.
 
 #### Novpiĝino
 
-> Se ni eçh supposos, qŭe la fina linguo de la estontai generatioi estas ne Esperanto, en ĉhia occaso la voĭo al tiu ellaborota linguo nepre devas conduqŭi tra Esperanto. [Se ni eĉ supozos, ke la fina lingvo de la estontaj ĵeneracioj estas ne Esperanto, en ĉia okazo la vojo al tiu ellaborota lingvo nepre devas konduki tra Esperanto.]
+> Se ni eçh supposos, qŭe la fina linguo de la estontai generatioi estas ne Esperanto, en ĉhia occaso la voĭo al tiu ellaborota linguo nepre devas conduqŭi tra Esperanto. *[Se ni eĉ supozos, ke la fina lingvo de la estontaj ĵeneracioj estas ne Esperanto, en ĉia okazo la vojo al tiu ellaborota lingvo nepre devas konduki tra Esperanto.]*
 > ---
 > L. L. Zamenhof
 
 ##### Ĝermana
 
-Ĝermana [j] skribiĝas **y̆**.
+Ĝermana *[j]* skribiĝas **y̆**.
 
 | | Sprak | Piĝino | Novpiĝino |
 |:-|:-|:-|:-|
-| *jes* | **jes** | **jes** [jes] | **y̆es** |
+| *jes* | **jes** | **jes** *[j]* | **y̆es** |
 
 ##### Greka
 
-Grekaj **th** [t] kaj **y** povas esti prononcataj [θ] kaj [y].
+Tra bruo, ***grekaj*** **th** *[t]* kaj **y** prononciĝas *[θ]* kaj *[y]*.
 
 | | Lingua | Piĝino | Novpiĝino |
 |:-|:-|:-|:-|
-| *simpatio* | **sympathia** | **sympathio** [simpatio] | [sympaθio] |
+| *simpatio* | **sympathia** | **sympathio** *[simpatio]* | → *[sympaθio]* |
 
-Greka **ch** *[ĥ]* prononciĝas *[k]* nur fine de la radiko. Tra bruo, ĝi ĉiam prononciĝas *[ĥ]*.
+Greka **ch** *[k]* prononciĝas *[ĥ]* nur fine de la radiko. Tra bruo, ĝi ĉiam prononciĝas *[ĥ]*.
 
 | | Lingua | Piĝino | Novpiĝino |
 |:-|:-|:-|:-|
-| *kemio*, *ĥemio* | **chemia** | **cĥemio** [ĥ] | **chemio** [k] |
-| *mekaniko*, *meĥaniko* | **mechanica** | **mecĥanico** [ĥ] | **mechanico** [k] |
-| *eĥo* | **echo** | **ecĥo** [eĥo] | = |
+| *kemio*, *ĥemio* | **chemia** | **cĥemio** *[ĥ]* | **chemio** *[k]* → **cĥemio** *[ĥ]* |
+| *mekaniko*, *meĥaniko* | **mechanica** | **mecĥanico** *[ĥ]* | **mechanico** *[k]* → **mecĥanico** *[ĥ]* |
+| *eĥo* | **echo** | **ecĥo** *[eĥo]* | = |
 
 ##### Slava
 
@@ -331,70 +331,69 @@ Greka **ch** *[ĥ]* prononciĝas *[k]* nur fine de la radiko. Tra bruo, ĝi ĉia
 
 ##### Latinida
 
-***Latinida*** frikativa **c** [s] prononciĝas [c] nur fine de la radiko. Tra bruo, ĝi ĉiam prononciĝas *[c]*.
+***Latinida*** frikativa **c** *[s]* prononciĝas *[c]* nur fine de la radiko. Tra bruo, ĝi ĉiam prononciĝas *[c]*.
 
 | | Lingua | Piĝino | Novpiĝino |
 |:-|:-|:-|:-|
-| *serĉi* | **ĉirca** | **çerĉi** [serĉi] | **cerçhi** |
+| *serĉi* | **ĉirca** | **çerĉi** *[serĉi]* | **cerçhi** → *[cerĉi]* |
 | | | | |
-| *centro* | **centro** | **centro** [c] | [s] |
-| *akcento* | **acĉento** | **accento** [c] | [s] |
-| *beleco* | | **belleço** [c] | **bellezo** [s] |
+| *centro* | **centro** | **centro** *[c]* | *[s]* → *[c]* |
+| *akcento* | **acĉento** | **accento** *[c]* | *[s]* → *[c]* |
+| *beleco* | | **belleço** *[c]* | **bellezo** *[s]* → *[c]* |
 | | | | |
-| *ĉielo* | **cælo** | **ĉielo** [ĉ] | **cielo** [s] |
+| *ĉesi* | **ĉessa** | **ĉessi** *[ĉ]* | **cessi** *[s]* → *[c]* |
+| *ĉielo* | **cælo** | **ĉielo** *[ĉ]* | **cielo** *[s]* → *[c]* |
 
-***Novlatinida*** **çh** [ŝ] prononciĝas [ĉ] nur fine de la radiko. Tra bruo, ĝi ĉiam prononciĝas *[ĉ]*.
-
-| | Lingua | Piĝino | Novpiĝino |
-|:-|:-|:-|:-|
-| *ŝanco* | **cadentĭa** | **ŝanço** [ŝ] | **çhanzo** |
-| *voĉo* | **voce** | **voĉo** [ĉ] | **voçho** |
-| | | | |
-| *ĉarmo* | **carme** | **ĉarmo** [ĉ] | **çharmo** [ŝ] |
-| *ĉe* | **casa** | **ĉe** [ĉ] | **çhe** [ŝ] |
-| *domaĉo* | | **domaĉo** [ĉ] | **domaçho** [ŝ] |
-| | | | |
-| *ĉesi* | **ĉessa** | **ĉessi** [ĉ] | **cessi** [s] |
-
-Frikativa **ĝ** / **ĵ** [ĵ] prononciĝas [ĝ] nur fine de la radiko. Tra bruo, ĝi ĉiam prononciĝas *[ĝ]*. Ene de la radiko, la etimologia skribo de **j** [ĵ] konserviĝas antaŭ **e** kaj **i**.
+***Novlatinida*** **çh** *[ŝ]* prononciĝas *[ĉ]* nur fine de la radiko. Tra bruo, ĝi ĉiam prononciĝas *[ĉ]*.
 
 | | Lingua | Piĝino | Novpiĝino |
 |:-|:-|:-|:-|
-| *ĝentila* | **ĝentile** | **ĝentila** [ĝ] | **gentila** [ĵ] |
-| *leĝo* | **leĝe** | **leĝo** [ĝ] | **lejo** |
-| *manĝi* | **manja** | **manĝi** [ĝ] | **mangi** |
-| *manĝaĵo* | | **manĝaĵo** [ĵ] | **manjajo** |
+| *ŝanco* | **cadentĭa** | **ŝanço** *[ŝ]* | **çhanzo** → *[ĉ]* |
+| *voĉo* | **voce** | **voĉo** *[ĉ]* | **voçho** |
 | | | | |
-| *ĵus* | **jus** | **ĵus** [ĵ] | **jus** |
-| *mesaĝo* | **messajo** | **messajo** [ĝ] | = |
-| *ŝanĝi* | **cambĭo** | **ŝanĝi** [ĝ] | **çhangi** |
-| *ŝanĝiĝi* | | **ŝanĝiĝi** [ĝ] | **çhangigi** [ĵ] |
+| *ĉarmo* | **carme** | **ĉarmo** *[ĉ]* | **çharmo** *[ŝ]* → *[ĉ]* |
+| *ĉe* | **casa** | **ĉe** *[ĉ]* | **çhe** *[ŝ]* → *[ĉ]* |
+| *domaĉo* | | **domaĉo** *[ĉ]* | **domaçho** *[ŝ]* → *[ĉ]* |
+
+Frikativa **ĝ** / **ĵ** *[ĵ]* prononciĝas *[ĝ]* nur fine de la radiko. Tra bruo, ĝi ĉiam prononciĝas *[ĝ]*. Ene de la radiko, la etimologia skribo de **j** *[ĵ]* konserviĝas antaŭ **e** kaj **i**.
+
+| | Lingua | Piĝino | Novpiĝino |
+|:-|:-|:-|:-|
+| *ĝentila* | **ĝentile** | **ĝentila** *[ĝ]* | **gentila** *[ĵ]* → *[ĝ]* |
+| *leĝo* | **leĝe** | **leĝo** *[ĝ]* | **lejo** |
+| *manĝi* | **manja** | **manĝi** *[ĝ]* | **mangi** |
+| *manĝaĵo* | | **manĝaĵo** *[ĵ]* | **manjajo** → *[ĝ]* |
 | | | | |
-| *jam* | **jam** | **ĭam** [j] | **jam** [ĵ] |
-| *objekto* | **objecto** | **obĭecto** [j] | **objecto** [ĵ] |
+| *ĵus* | **jus** | **ĵus** *[ĵ]* | **jus** → *[ĝ]* |
+| *mesaĝo* | **messajo** | **messajo** *[ĝ]* | = |
+| *ŝanĝi* | **cambĭo** | **ŝanĝi** *[ĝ]* | **çhangi** |
+| *ŝanĝiĝi* | | **ŝanĝiĝi** *[ĝ]* | **çhangigi** *[ĵ]* → *[ĝ]* |
 | | | | |
-| *majo* | **majo** | **maĭo** [j] | = |
+| *jam* | **jam** | **ĭam** *[j]* | **jam** *[ĵ]* → *[ĝ]* |
+| *objekto* | **objecto** | **obĭecto** *[j]* | **objecto** *[ĵ]* → *[ĝ]* |
+| | | | |
+| *majo* | **majo** | **maĭo** *[j]* | = |
 
 La ŝajnprefiksoj **de-** kaj **re-** prononciĝas *[di]* kaj *[ri]*. Tra bruo, ili prononciĝas *[de]* kaj *[re]*.
 
 | | Lingua | Piĝino | Novpiĝino |
 |:-|:-|:-|:-|
-| *difekto* | **defecto** | **difecto** *[i]* | **defecto** *[i]* |
-| *difini* | **defini** | **difini** *[i]* | **defini** *[i]* |
-| *ripari* | **repara** | **ripari** *[i]* | **repari** *[i]* |
-| *rilato* | **relato** | **rilato** *[i]* | **relato** *[i]* |
+| *difekto* | **defecto** | **difecto** *[i]* | **defecto** → *[e]* |
+| *difini* | **defini** | **difini** *[i]* | **defini** → *[e]* |
+| *ripari* | **repara** | **ripari** *[i]* | **repari** → *[e]* |
+| *rilato* | **relato** | **rilato** *[i]* | **relato** → *[e]* |
 | | | | |
-| *dependi* | **depende** | **dependi** *[e]* | **dependi** *[i]* |
-| *respondi* | **responde** | **respondi** *[e]* | **respondi** *[i]* |
+| *dependi* | **depende** | **dependi** *[e]* | **dependi** *[i]* → *[e]* |
+| *respondi* | **responde** | **respondi** *[e]* | **respondi** *[i]* → *[e]* |
 
 La ŝajnsufikso **-in** prononciĝas *[en]*. Tra bruo, ĝi prononciĝas *[in]*.
 
 | | Lingua | Piĝino | Novpiĝino |
 |:-|:-|:-|:-|
-| *kameno* | **camino** | **cameno** *[en]* | **camino** *[en]* |
-| *ĝardeno* | **gardino** | **ĝardeno** *[en]* | **jardino** *[en]* |
+| *kameno* | **camino** | **cameno** *[en]* | **camino** → *[in]* |
+| *ĝardeno* | **gardino** | **ĝardeno** *[en]* | **jardino** → *[in]* |
 | | | | |
-| *termino* | **termino** | **termino** *[in]* | **termino** *[en]* |
+| *termino* | **termino** | **termino** *[in]* | **termino** → *[in]* |
 
 ## Gramatiko
 
