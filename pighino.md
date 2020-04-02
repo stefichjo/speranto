@@ -104,7 +104,7 @@ Kiam ***ĝermanaj*** **i** kaj **u** diftongiĝas al [aj] respektive [aŭ], ili 
 
 ### Latinidaj Vortoj
 
-La **c** kutime prononciĝas [k], sed antaŭ **e**, **i** (kaj **y**) ĝi prononciĝas [c]. La **g** ĉiam prononciĝas [g].
+La **c** kutime prononciĝas [k], sed antaŭ **e**, **i** (kaj **y**) ĝi prononciĝas [c]. La **g** prononciĝas [g].
 
 | | Sprak | Äzyk | Lingua | Piĝino |
 |:-|:-|:-|:-|:-|
@@ -151,7 +151,7 @@ En ***Prapiĝino***, la skribo de **tĭ** konserviĝas.
 |:-|:-|:-|:-|
 | *spaco* | **spatĭo** | **spatĭo** | **spaço** |
 
-La **t** antaŭ **ĭ** aŭ **ī** prononciĝas [c], sed **st** ĉiam prononciĝas [st].
+La **t** antaŭ **ĭ** aŭ **ī** prononciĝas [c], sed **st** prononciĝas [st].
 
 | | Lingua | Piĝino |
 |:-|:-|:-|
@@ -254,7 +254,7 @@ En kelkaj ***Arkelingvaismoj***, intervokala **b** restas senŝanĝa.
 
 #### Grekaj Vortoj
 
-Radikofina **ti** ĉiam prononciĝas [ti].
+Radikofina **ti** prononciĝas [ti].
 
 | | Lingua | Piĝino |
 |:-|:-|:-|
@@ -305,7 +305,7 @@ Tra bruo, ***grekaj*** **th** *[t]* kaj **y** prononciĝas *[θ]* kaj *[y]*.
 |:-|:-|:-|:-|
 | *simpatio* | **sympathia** | **sympathio** *[simpatio]* | → *[sympaθio]* |
 
-Greka **ch** *[k]* prononciĝas *[ĥ]* nur fine de la radiko. Tra bruo, ĝi ĉiam prononciĝas *[ĥ]*.
+Greka **ch** *[k]* prononciĝas *[ĥ]* nur fine de la radiko. Tra bruo, ĝi prononciĝas *[ĥ]*.
 
 | | Lingua | Piĝino | Novpiĝino |
 |:-|:-|:-|:-|
@@ -322,20 +322,16 @@ Greka **ch** *[k]* prononciĝas *[ĥ]* nur fine de la radiko. Tra bruo, ĝi ĉia
 | *ĉu* | **ĉu** | **ĉhu** *[ĉ]* |
 | *ĉi* | **ĉi** | **ĉhi** *[ĉ]* |
 | *ĉiu* | **ĉiu** | **ĉhiu** *[ĉ]* |
-
-***Slava*** **ŝ** *[ŝ]* skribiĝas **ŝh**.
-
-| | Piĝino | Novpiĝino |
-|:-|:-|:-|
+| | | |
 | *kaĉo* | **kaĉo** *[ĉ]* | **kaŝo** *[ŝ]* |
 
 ##### Latinida
 
-***Latinida*** frikativa **c** *[s]* prononciĝas *[c]* nur fine de la radiko. Tra bruo, ĝi ĉiam prononciĝas *[c]*.
+***Latinida*** frikativa **c** *[s]* prononciĝas *[c]* nur fine de la radiko. Tra bruo, ĝi prononciĝas *[c]*.
 
 | | Lingua | Piĝino | Novpiĝino |
 |:-|:-|:-|:-|
-| *serĉi* | **ĉirca** | **çerĉi** *[serĉi]* | **cerçhi** → *[cerĉi]* |
+| *serĉi* | **ĉirca** | **çerĉi** *[s]* | **cerçhi** → *[c]* |
 | | | | |
 | *centro* | **centro** | **centro** *[c]* | *[s]* → *[c]* |
 | *akcento* | **acĉento** | **accento** *[c]* | *[s]* → *[c]* |
@@ -344,7 +340,7 @@ Greka **ch** *[k]* prononciĝas *[ĥ]* nur fine de la radiko. Tra bruo, ĝi ĉia
 | *ĉesi* | **ĉessa** | **ĉessi** *[ĉ]* | **cessi** *[s]* → *[c]* |
 | *ĉielo* | **cælo** | **ĉielo** *[ĉ]* | **cielo** *[s]* → *[c]* |
 
-***Novlatinida*** **çh** *[ŝ]* prononciĝas *[ĉ]* nur fine de la radiko. Tra bruo, ĝi ĉiam prononciĝas *[ĉ]*.
+***Novlatinida*** **çh** *[ŝ]* prononciĝas *[ĉ]* nur fine de la radiko. Tra bruo, ĝi prononciĝas *[ĉ]*.
 
 | | Lingua | Piĝino | Novpiĝino |
 |:-|:-|:-|:-|
@@ -355,7 +351,7 @@ Greka **ch** *[k]* prononciĝas *[ĥ]* nur fine de la radiko. Tra bruo, ĝi ĉia
 | *ĉe* | **casa** | **ĉe** *[ĉ]* | **çhe** *[ŝ]* → *[ĉ]* |
 | *domaĉo* | | **domaĉo** *[ĉ]* | **domaçho** *[ŝ]* → *[ĉ]* |
 
-Frikativa **ĝ** / **ĵ** *[ĵ]* prononciĝas *[ĝ]* nur fine de la radiko. Tra bruo, ĝi ĉiam prononciĝas *[ĝ]*. Ene de la radiko, la etimologia skribo de **j** *[ĵ]* konserviĝas antaŭ **e** kaj **i**.
+Frikativa **ĝ** / **ĵ** *[ĵ]* prononciĝas *[ĝ]* nur fine de la radiko. Tra bruo, ĝi prononciĝas *[ĝ]*. Ene de la radiko, la etimologia skribo de **j** *[ĵ]* konserviĝas antaŭ **e** kaj **i**.
 
 | | Lingua | Piĝino | Novpiĝino |
 |:-|:-|:-|:-|
