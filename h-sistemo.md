@@ -31,13 +31,6 @@ Post vokalo, *[s]* kaj *[z]* skribiĝas **ss** kaj **s**. Post konsonanto aŭ ko
 | **masso** | **roso** | **sana** | **zono** | | **texto** | **exemplo** | | **edso** | | **puzzlo** |
 | *maso* | *rozo* | *sana* | *zono* | | *teksto* | *ekzemplo* | | *edzo* | | *puzlo* |
 
-Fine de la radiko, skribiĝas **s** por *[s]*, **z** por *[z]* kaj **ts** por *[c]*.
-
-| | | |
-|:-|:-|:-|
-| **yes** | **roz'** | **pats'** |
-| *jes* | *roz'* | *pac'* |
-
 Kiam latindevena radiko finiĝas je **ti**, ĝi prononciĝas *[ci]*.
 
 | | | | | | | |

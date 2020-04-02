@@ -313,12 +313,25 @@ Greka **ch** *[ĥ]* prononciĝas *[k]* nur fine de la radiko. Tra bruo, ĝi ĉia
 | *mekaniko*, *meĥaniko* | **mechanica** | **mecĥanico** [ĥ] | **mechanico** [k] |
 | *eĥo* | **echo** | **ecĥo** [eĥo] | = |
 
+##### Slava
+
+***Slava*** **ĉ** *[ĉ]* skribiĝas **ĉh**.
+
+| | Piĝino | Novpiĝino |
+|:-|:-|:-|
+| *ĉu* | **ĉu** | **ĉhu** *[ĉ]* |
+| *ĉi* | **ĉi** | **ĉhi** *[ĉ]* |
+| *ĉiu* | **ĉiu** | **ĉhiu** *[ĉ]* |
+
+***Slava*** **ŝ** *[ŝ]* skribiĝas **ŝh**.
+
+| | Piĝino | Novpiĝino |
+|:-|:-|:-|
+| *kaĉo* | **kaĉo** *[ĉ]* | **kaŝo** *[ŝ]* |
+
 ##### Latinida
 
-* s ŝ ĵ
-* c ĉ ĝ
-
-Frikativa **c** [s] prononciĝas [c] nur fine de la radiko. Tra bruo, ĝi ĉiam prononciĝas *[c]*.
+***Latinida*** frikativa **c** [s] prononciĝas [c] nur fine de la radiko. Tra bruo, ĝi ĉiam prononciĝas *[c]*.
 
 | | Lingua | Piĝino | Novpiĝino |
 |:-|:-|:-|:-|
@@ -326,10 +339,11 @@ Frikativa **c** [s] prononciĝas [c] nur fine de la radiko. Tra bruo, ĝi ĉiam 
 | | | | |
 | *centro* | **centro** | **centro** [c] | [s] |
 | *akcento* | **acĉento** | **accento** [c] | [s] |
+| *beleco* | | **belleço** [c] | **bellezo** [s] |
 | | | | |
 | *ĉielo* | **cælo** | **ĉielo** [ĉ] | **cielo** [s] |
 
-Novlatinida **çh** [ŝ] prononciĝas [ĉ] nur fine de la radiko. Tra bruo, ĝi ĉiam prononciĝas *[ĉ]*.
+***Novlatinida*** **çh** [ŝ] prononciĝas [ĉ] nur fine de la radiko. Tra bruo, ĝi ĉiam prononciĝas *[ĉ]*.
 
 | | Lingua | Piĝino | Novpiĝino |
 |:-|:-|:-|:-|
@@ -379,6 +393,8 @@ La ŝajnsufikso **-in** prononciĝas *[en]*. Tra bruo, ĝi prononciĝas *[in]*.
 |:-|:-|:-|:-|
 | *kameno* | **camino** | **cameno** *[en]* | **camino** *[en]* |
 | *ĝardeno* | **gardino** | **ĝardeno** *[en]* | **jardino** *[en]* |
+| | | | |
+| *termino* | **termino** | **termino** *[in]* | **termino** *[en]* |
 
 ## Gramatiko
 
