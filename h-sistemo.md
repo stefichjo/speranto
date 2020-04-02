@@ -4,7 +4,7 @@ Kiam supersignoj ne estas disponeblaj, uziĝas du ***h-sistemoj*** de [***Piĝin
 
 ## Etimologia h-Sistemo
 
-> Se ni ech supposos, que la fina linguo de la estontai gueneracioi estas ne Esperanto, en chia occaso la voio al tiu ellaborota linguo nepre devas conduqui tra Esperanto.
+> Se ni ech supposos, que la fina linguo de la estontai gueneratioi estas ne Esperanto, en chia occaso la voio al tiu ellaborota linguo nepre devas conduqui tra Esperanto.
 > ---
 > L. L. Zamenhof
 
@@ -24,12 +24,19 @@ Post vokalo, *[j]* kaj *[ŭ]* skribiĝas **i** kaj **u**. Post konsonanto aŭ ko
 | **traino** | **auto** | | **yam** | **wau** |
 | *trajno* | *aŭto* | | *jam* | *ŭaŭ* |
 
-Post vokalo, *[s]* kaj *[z]* skribiĝas **ss** kaj **s**. Post konsonanto aŭ komence de la radiko, ili skribiĝas **s** kaj **z**. Kaj *[ks]* kaj *[kz]* skribiĝas **x**. (Kutime, *[kz]* aperas nur inter vokaloj ene de la radiko, krom malmultaj esceptoj, ekzemple **taxio**, kiu havas la sonon *[ks]*.) Fine  de la vorto, skribiĝas **s** por *[s]*. *[dz]* skribiĝas **ds**.
+Post vokalo, *[s]* kaj *[z]* skribiĝas **ss** kaj **s**. Post konsonanto aŭ komence de la radiko, ili skribiĝas **s** kaj **z**. Kaj *[ks]* kaj *[kz]* skribiĝas **x**. (Kutime, *[kz]* aperas nur inter vokaloj ene de la radiko, krom malmultaj esceptoj, ekzemple **taxio**, kiu havas la sonon *[ks]*.) *[dz]* skribiĝas **ds**. En malkutima pozicio, *[z]* skribiĝas **zz**.
 
-| | | | | | | | | | | | |
-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|
-| **masso** | **roso** | **sana** | **zono** | | **texto** | **exameno** | | **yes** | **yessi** | | **edso** |
-| *maso* | *rozo* | *sana* | *zono* | | *teksto* | *ekzameno* | | *jes* | *jesi* | | *edzo* |
+| | | | | | | | | | | |
+|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|
+| **masso** | **roso** | **sana** | **zono** | | **texto** | **exemplo** | | **edso** | | **puzzlo** |
+| *maso* | *rozo* | *sana* | *zono* | | *teksto* | *ekzemplo* | | *edzo* | | *puzlo* |
+
+Kiam latindevena radiko finiĝas je **ti**, ĝi prononciĝas *[ci]*.
+
+| | | | | | | |
+|:-|:-|:-|:-|:-|:-|:-|
+| **natio** | **functio** | | **tio** | **ci** | | **democratio** |
+| *nacio* | *funkcio* | | *tio* | *ci* | | *demokratio* |
 
 Antaŭ **a**, **o** kaj **u**, skribiĝas **c** kaj **g** por *[k]* kaj *[g]*. Antaŭ **e** kaj **i**, skribiĝas **qu** kaj **gu**. Analogie, antaŭ **a**, **o** kaj **u**, skribiĝas **qu** kaj **gu** por *[kv]* kaj *[gv]*. Antaŭ **e** kaj **i**, skribiĝas **qv** kaj **gv**.
 
