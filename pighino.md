@@ -327,7 +327,7 @@ Greka **ch** *[k]* prononciĝas *[ĥ]* nur fine de la radiko. Tra bruo, ĝi pron
 
 ##### Latinida
 
-***Latinida*** frikativa **c** *[s]* prononciĝas *[c]* nur fine de la radiko. Tra bruo, ĝi prononciĝas *[c]*.
+Frikativa **c** *[s]* prononciĝas *[c]* nur fine de la radiko. Tra bruo, ĝi prononciĝas *[c]*.
 
 | | Lingua | Piĝino | Novpiĝino |
 |:-|:-|:-|:-|
@@ -390,6 +390,19 @@ La ŝajnsufikso **-in** prononciĝas *[en]*. Tra bruo, ĝi prononciĝas *[in]*.
 | *ĝardeno* | **gardino** | **ĝardeno** *[en]* | **jardino** → *[in]* |
 | | | | |
 | *termino* | **termino** | **termino** *[in]* | **termino** → *[in]* |
+
+**b** *[b]* prononciĝas *[v]* nur fine de la radiko. Tra bruo, ĝi prononciĝas *[b]*.
+
+| | Lingua | Piĝino | Novpiĝino |
+|:-|:-|:-|:-|
+| *skribi* | **scrive** | **scribi** | *[v]* → *[b]* |
+| *kurba* | **curba** | **curba** | *[v]* → *[b]* |
+| *nubo* | **nubo** | **nubo** | *[v]* → *[b]* |
+| | | | |
+| *havi* | **have** | **havi** | **habi** *[v]* → *[b]* |
+| *provi* | **prova** | **provi** | **probi** *[v]* → *[b]* |
+| | | | |
+| *povra* | **paupera** | **povra** | **pobra** *[b]* |
 
 ## Gramatiko
 
