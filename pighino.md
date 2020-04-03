@@ -1,6 +1,6 @@
 # Piĝino
 
-> Se ni eĉ supposos, qŭe la fina linguo de la estontai generacioi estas ne Esperanto, en ĉia occaso la voio al tiu ellaborota linguo nepre devas conduqŭi tra Esperanto.
+> Se ni eĉ supposos, qŭe la fina linguo de la estontai generatīoi estas ne Esperanto, en ĉia occaso la voio al tiu ellaborota linguo nepre devas conduqŭi tra Esperanto.
 > ---
 > L. L. Zamenhof
 
@@ -472,9 +472,9 @@ La tabelvortaj prefiksoj **qŭ-** kaj **t-** kombiniĝas kun tabelvortoj je **i-
 
 *Tra bruo:* La *cela* finaĵo **-en** uziĝas por *akuzativo*. *Sen bruo*, ĝi mallongiĝas al **-n**.
 
-| | Piĝino | (tra bruo) |
-|:-|:-|:-|
-| *Mi aŭdas ilin.* | **Mi aŭdas ilin.** | **Mi aŭdas ili-en.** |
+| | Piĝino |
+|:-|:-|
+| *Mi aŭdas ilin.* | **Mi aŭdas ilin.** ← **Mi aŭdas ili-en.** |
 
 ### Radikaj Vortoj
 
@@ -488,9 +488,9 @@ La tabelvortaj prefiksoj **qŭ-** kaj **t-** kombiniĝas kun tabelvortoj je **i-
 
 *Lingvaismo:* La *cela* finaĵo **-en** mallongiĝas al **-n** kaj fariĝas finaĵo por *akuzativo*. *Tra bruo*, uziĝas anstataŭe la (neologisma) *akuzativa* prepozicio **a**.
 
-| | Piĝino | (tra bruo) |
-|:-|:-|:-|
-| *Mi vidas domon.* | **Mi vidas domon.** | **Mi vidas a domo.** |
+| | Piĝino |
+|:-|:-|
+| *Mi vidas domon.* | **Mi vidas domon.** ← **Mi vidas a domo.** |
 
 #### Adjektivoj
 
@@ -525,11 +525,11 @@ Adjektivoj havas la samajn finaĵojn por *multenombro* kaj *akuzativo* kiel la s
  
 *Novlingvaismo:* La *trabrua infinitiva* ŝajnfinaĵo **-s'** fariĝas *verba* ŝajnfinaĵo. La *cela* finaĵo **-i** fariĝas *infinitiva* finaĵo.
 
-| | Neolingua (tra bruo) | Piĝino |
+| | Neolingua | Piĝino |
 |:-|:-|:-|
-| *Mi helpas vin.* | **Mu adjuvas' tu.** | **Mi helpas vin.** |
+| *Mi helpas vin.* | ← **Mu adjuvas' tu.** | **Mi helpas vin.** |
 | | | |
-| *Mi iras dormi.* | **Mu vades' dormi.** | **Mi iras dormi.** |
+| *Mi iras dormi.* | ← **Mu vades' dormi.** | **Mi iras dormi.** |
 
 #### Prepozicioj
 
