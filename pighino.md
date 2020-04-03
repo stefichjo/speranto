@@ -291,26 +291,27 @@ Samkiel en **aŭ** [aŭ], **ŭ** prononciĝas [ŭ] en **eŭ**.
 
 ##### Ĝermana
 
-Ĝermana *[j]* skribiĝas **y̆**.
+Ĝermana *[j]* skribiĝas **y̆**. Ĝermana **w** prononciĝas *[ŭ]*.
 
 | | Sprak | Piĝino | Novpiĝino |
 |:-|:-|:-|:-|
 | *jes* | **jes** | **yes** *[j]* | **y̆es** |
+| *varma* | **warm** | **warma** *[v]* | **warma** *[ŭ]* |
 
 ##### Greka
 
-Tra bruo, ***grekaj*** **th** *[t]* kaj **y** prononciĝas *[θ]* kaj *[y]*.
+Tra bruo, ***grekaj*** **th** *[t]* kaj **y** prononciĝas ← *[θ]* kaj ← *[y]*.
 
 | | Lingua | Piĝino | Novpiĝino |
 |:-|:-|:-|:-|
-| *simpatio* | **sympathia** | **sympathio** *[simpatio]* | → *[sympaθio]* |
+| *simpatio* | **sympathia** | **sympathio** *[simpatio]* | ← *[sympaθio]* |
 
-Greka **ch** *[k]* prononciĝas *[ĥ]* nur fine de la radiko. Tra bruo, ĝi prononciĝas *[ĥ]*.
+Greka **ch** *[k]* prononciĝas *[ĥ]* nur fine de la radiko. Tra bruo, ĝi ĉie prononciĝas ← *[ĥ]*.
 
 | | Lingua | Piĝino | Novpiĝino |
 |:-|:-|:-|:-|
-| *kemio*, *ĥemio* | **chemia** | **cĥemio** *[ĥ]* | **chemio** *[k]* → **cĥemio** *[ĥ]* |
-| *mekaniko*, *meĥaniko* | **mechanica** | **mecĥanico** *[ĥ]* | **mechanico** *[k]* → **mecĥanico** *[ĥ]* |
+| *kemio*, *ĥemio* | **chemia** | **cĥemio** *[ĥ]* | **chemio** *[k]* ← **cĥemio** *[ĥ]* |
+| *mekaniko*, *meĥaniko* | **mechanica** | **mecĥanico** *[ĥ]* | **mechanico** *[k]* ← **mecĥanico** *[ĥ]* |
 | *eĥo* | **echo** | **ecĥo** *[eĥo]* | = |
 
 ##### Slava
@@ -327,46 +328,46 @@ Greka **ch** *[k]* prononciĝas *[ĥ]* nur fine de la radiko. Tra bruo, ĝi pron
 
 ##### Latinida
 
-Frikativa **c** *[s]* prononciĝas *[c]* nur fine de la radiko. Tra bruo, ĝi prononciĝas *[c]*.
+Frikativa **c** *[s]* prononciĝas *[c]* nur fine de la radiko. Tra bruo, ĝi ĉie prononciĝas ← *[c]*.
 
 | | Lingua | Piĝino | Novpiĝino |
 |:-|:-|:-|:-|
-| *serĉi* | **ĉirca** | **çerĉi** *[s]* | **cerçhi** → *[c]* |
+| *serĉi* | **ĉirca** | **çerĉi** *[s]* | **cerçhi** ← *[c]* |
 | | | | |
-| *centro* | **centro** | **centro** *[c]* | *[s]* → *[c]* |
-| *akcento* | **acĉento** | **accento** *[c]* | *[s]* → *[c]* |
-| *beleco* | | **belleço** *[c]* | **bellezo** *[s]* → *[c]* |
+| *centro* | **centro** | **centro** *[c]* | *[s]* ← *[c]* |
+| *akcento* | **acĉento** | **accento** *[c]* | *[s]* ← *[c]* |
+| *beleco* | | **belleço** *[c]* | **bellezo** *[s]* ← *[c]* |
 | | | | |
-| *ĉesi* | **ĉessa** | **ĉessi** *[ĉ]* | **cessi** *[s]* → *[c]* |
-| *ĉielo* | **cælo** | **ĉielo** *[ĉ]* | **cielo** *[s]* → *[c]* |
+| *ĉesi* | **ĉessa** | **ĉessi** *[ĉ]* | **cessi** *[s]* ← *[c]* |
+| *ĉielo* | **cælo** | **ĉielo** *[ĉ]* | **cielo** *[s]* ← *[c]* |
 
-***Novlatinida*** **çh** *[ŝ]* prononciĝas *[ĉ]* nur fine de la radiko. Tra bruo, ĝi prononciĝas *[ĉ]*.
+***Novlatinida*** **çh** *[ŝ]* prononciĝas *[ĉ]* nur fine de la radiko. Tra bruo, ĝi ĉie prononciĝas ← *[ĉ]*.
 
 | | Lingua | Piĝino | Novpiĝino |
 |:-|:-|:-|:-|
-| *ŝanco* | **cadentĭa** | **ŝanço** *[ŝ]* | **çhanzo** → *[ĉ]* |
 | *voĉo* | **voce** | **voĉo** *[ĉ]* | **voçho** |
+| *ŝanco* | **cadentĭa** | **ŝanço** *[ŝ]* | **çhanzo** ← *[ĉ]* |
 | | | | |
-| *ĉarmo* | **carme** | **ĉarmo** *[ĉ]* | **çharmo** *[ŝ]* → *[ĉ]* |
-| *ĉe* | **casa** | **ĉe** *[ĉ]* | **çhe** *[ŝ]* → *[ĉ]* |
-| *domaĉo* | | **domaĉo** *[ĉ]* | **domaçho** *[ŝ]* → *[ĉ]* |
+| *ĉarmo* | **carme** | **ĉarmo** *[ĉ]* | **çharmo** *[ŝ]* ← *[ĉ]* |
+| *ĉe* | **casa** | **ĉe** *[ĉ]* | **çhe** *[ŝ]* ← *[ĉ]* |
+| *domaĉo* | | **domaĉo** *[ĉ]* | **domaçho** *[ŝ]* ← *[ĉ]* |
 
-Frikativa **ĝ** / **ĵ** *[ĵ]* prononciĝas *[ĝ]* nur fine de la radiko. Tra bruo, ĝi prononciĝas *[ĝ]*. Ene de la radiko, la etimologia skribo de **j** *[ĵ]* konserviĝas antaŭ **e** kaj **i**.
+Frikativa **ĝ** / **ĵ** *[ĵ]* prononciĝas *[ĝ]* nur fine de la radiko. Tra bruo, ĝi ĉie prononciĝas ← *[ĝ]*. Ene de la radiko, la etimologia skribo de **j** *[ĵ]* konserviĝas antaŭ **e** kaj **i**.
 
 | | Lingua | Piĝino | Novpiĝino |
 |:-|:-|:-|:-|
-| *ĝentila* | **ĝentile** | **ĝentila** *[ĝ]* | **gentila** *[ĵ]* → *[ĝ]* |
+| *ĝentila* | **ĝentile** | **ĝentila** *[ĝ]* | **gentila** *[ĵ]* ← *[ĝ]* |
 | *leĝo* | **leĝe** | **leĝo** *[ĝ]* | **lejo** |
 | *manĝi* | **manja** | **manĝi** *[ĝ]* | **mangi** |
-| *manĝaĵo* | | **manĝaĵo** *[ĵ]* | **manjajo** → *[ĝ]* |
+| *manĝaĵo* | | **manĝaĵo** *[ĵ]* | **manjajo** ← *[ĝ]* |
 | | | | |
-| *ĵus* | **jus** | **ĵus** *[ĵ]* | **jus** → *[ĝ]* |
+| *ĵus* | **jus** | **ĵus** *[ĵ]* | **jus** ← *[ĝ]* |
 | *mesaĝo* | **messajo** | **messajo** *[ĝ]* | = |
 | *ŝanĝi* | **cambĭo** | **ŝanĝi** *[ĝ]* | **çhangi** |
-| *ŝanĝiĝi* | | **ŝanĝiĝi** *[ĝ]* | **çhangigi** *[ĵ]* → *[ĝ]* |
+| *ŝanĝiĝi* | | **ŝanĝiĝi** *[ĝ]* | **çhangigi** *[ĵ]* ← *[ĝ]* |
 | | | | |
-| *jam* | **jam** | **ĭam** *[j]* | **jam** *[ĵ]* → *[ĝ]* |
-| *objekto* | **objecto** | **obĭecto** *[j]* | **objecto** *[ĵ]* → *[ĝ]* |
+| *jam* | **jam** | **ĭam** *[j]* | **jam** *[ĵ]* ← *[ĝ]* |
+| *objekto* | **objecto** | **obĭecto** *[j]* | **objecto** *[ĵ]* ← *[ĝ]* |
 | | | | |
 | *majo* | **majo** | **maĭo** *[j]* | = |
 
@@ -374,33 +375,33 @@ La ŝajnprefiksoj **de-** kaj **re-** prononciĝas *[di]* kaj *[ri]*. Tra bruo, 
 
 | | Lingua | Piĝino | Novpiĝino |
 |:-|:-|:-|:-|
-| *difekto* | **defecto** | **difecto** *[i]* | **defecto** → *[e]* |
-| *difini* | **defini** | **difini** *[i]* | **defini** → *[e]* |
-| *ripari* | **repara** | **ripari** *[i]* | **repari** → *[e]* |
-| *rilato* | **relato** | **rilato** *[i]* | **relato** → *[e]* |
+| *difekto* | **defecto** | **difecto** *[i]* | **defecto** ← *[e]* |
+| *difini* | **defini** | **difini** *[i]* | **defini** ← *[e]* |
+| *ripari* | **repara** | **ripari** *[i]* | **repari** ← *[e]* |
+| *rilato* | **relato** | **rilato** *[i]* | **relato** ← *[e]* |
 | | | | |
-| *dependi* | **depende** | **dependi** *[e]* | **dependi** *[i]* → *[e]* |
-| *respondi* | **responde** | **respondi** *[e]* | **respondi** *[i]* → *[e]* |
+| *dependi* | **depende** | **dependi** *[e]* | **dependi** *[i]* ← *[e]* |
+| *respondi* | **responde** | **respondi** *[e]* | **respondi** *[i]* ← *[e]* |
 
-La ŝajnsufikso **-in** prononciĝas *[en]*. Tra bruo, ĝi prononciĝas *[in]*.
+La ŝajnsufikso **-in** prononciĝas *[en]*. Tra bruo, ĝi prononciĝas ← *[in]*.
 
 | | Lingua | Piĝino | Novpiĝino |
 |:-|:-|:-|:-|
-| *kameno* | **camino** | **cameno** *[en]* | **camino** → *[in]* |
-| *ĝardeno* | **gardino** | **ĝardeno** *[en]* | **jardino** → *[in]* |
+| *kameno* | **camino** | **cameno** *[en]* | **camino** ← *[in]* |
+| *ĝardeno* | **gardino** | **ĝardeno** *[en]* | **jardino** ← *[in]* |
 | | | | |
-| *termino* | **termino** | **termino** *[in]* | **termino** → *[in]* |
+| *termino* | **termino** | **termino** *[in]* | **termino** *[en]* ← *[in]* |
 
-**b** *[b]* prononciĝas *[v]* nur fine de la radiko. Tra bruo, ĝi prononciĝas *[b]*.
+**b** *[b]* prononciĝas *[v]* nur fine de la radiko. Tra bruo, ĝi ĉie prononciĝas ← *[b]*.
 
 | | Lingua | Piĝino | Novpiĝino |
 |:-|:-|:-|:-|
-| *skribi* | **scrive** | **scribi** | *[v]* → *[b]* |
-| *kurba* | **curba** | **curba** | *[v]* → *[b]* |
-| *nubo* | **nubo** | **nubo** | *[v]* → *[b]* |
+| *skribi* | **scrive** | **scribi** | *[v]* ← *[b]* |
+| *kurba* | **curba** | **curba** | *[v]* ← *[b]* |
+| *nubo* | **nubo** | **nubo** | *[v]* ← *[b]* |
 | | | | |
-| *havi* | **have** | **havi** | **habi** *[v]* → *[b]* |
-| *provi* | **prova** | **provi** | **probi** *[v]* → *[b]* |
+| *havi* | **have** | **havi** | **habi** *[v]* ← *[b]* |
+| *provi* | **prova** | **provi** | **probi** *[v]* ← *[b]* |
 | | | | |
 | *povra* | **paupera** | **povra** | **pobra** *[b]* |
 
@@ -542,13 +543,13 @@ Adjektivoj havas la samajn finaĵojn por *multenombro* kaj *akuzativo* kiel la s
 
 | | Piĝino |
 |:-|:-|
-| *ludi la gitaron* | **ludi la gitarron** → **ludi na la gitarro** |
+| *ludi la gitaron* | **ludi la gitarron** ← **ludi na la gitarro** |
 
 *Tra bruo*, uziĝas **a** aŭ, anstataŭe, **na**.
 
-| | Piĝino (tra bruo) |
+| | Piĝino |
 |:-|:-|
-| *Mi vidas vin.* | **Mi vidas a vi.** → **Mi vidas na vi.** |
+| *Mi vidas vin.* | **Mi vidas a vi.** ← **Mi vidas na vi.** |
 
 *Lingvaismo:* La lokaj prepozicioj **ad**, **in**, **de** kaj la ne-lokaj prepozicioj **al**, **en**, **di** el ***Neolingua*** unuiĝas al **al**, **en**, **de** en ***Piĝino***.
 
