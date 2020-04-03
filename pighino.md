@@ -283,6 +283,8 @@ Samkiel en **aŭ** [aŭ], **ŭ** prononciĝas [ŭ] en **eŭ**.
 | *kilo* | **kilo** | **kilo** |
 | *zono* | **zona** | **zono** |
 
+***TODO*** al propra dosiero
+
 #### Novpiĝino
 
 > Se ni eçh supposos, qŭe la fina linguo de la estontai generatioi estas ne Esperanto, en ĉhia occaso la voĭo al tiu ellaborota linguo nepre devas conduqŭi tra Esperanto. *[Se ni eĉ supozos, ke la fina lingvo de la estontaj ĵeneracioj estas ne Esperanto, en ĉia okazo la vojo al tiu ellaborota lingvo nepre devas konduki tra Esperanto.]*
@@ -310,9 +312,9 @@ Greka **ch** *[k]* prononciĝas *[ĥ]* nur fine de la radiko. Tra bruo, ĝi ĉie
 
 | | Lingua | Piĝino | Novpiĝino |
 |:-|:-|:-|:-|
-| *kemio*, *ĥemio* | **chemia** | **cĥemio** *[ĥ]* | **chemio** *[k]* ← **cĥemio** *[ĥ]* |
-| *mekaniko*, *meĥaniko* | **mechanica** | **mecĥanico** *[ĥ]* | **mechanico** *[k]* ← **mecĥanico** *[ĥ]* |
-| *eĥo* | **echo** | **ecĥo** *[eĥo]* | = |
+| *kemio*, *ĥemio* | **chemia** | **cĥemio** *[ĥ]* | **chemio** *[k]* ← *[ĥ]* |
+| *mekaniko*, *meĥaniko* | **mechanica** | **mecĥanico** *[ĥ]* | **mechanico** *[k]* ← *[ĥ]* |
+| *eĥo* | **echo** | **ecĥo** *[ĥ]* | **echo** |
 
 ##### Slava
 
@@ -371,39 +373,74 @@ Frikativa **ĝ** / **ĵ** *[ĵ]* prononciĝas *[ĝ]* nur fine de la radiko. Tra 
 | | | | |
 | *majo* | **majo** | **maĭo** *[j]* | = |
 
-La ŝajnprefiksoj **de-** kaj **re-** prononciĝas *[di]* kaj *[ri]*. Tra bruo, ili prononciĝas *[de]* kaj *[re]*.
+##### Akĉentoj
+
+***TODO*** tra bruo, novpiĝina prononco
+
+###### Novlatinida
+
+**ct** *[kt]* prononciĝas *[t]*.
 
 | | Lingua | Piĝino | Novpiĝino |
 |:-|:-|:-|:-|
-| *difekto* | **defecto** | **difecto** *[i]* | **defecto** ← *[e]* |
-| *difini* | **defini** | **difini** *[i]* | **defini** ← *[e]* |
-| *ripari* | **repara** | **ripari** *[i]* | **repari** ← *[e]* |
-| *rilato* | **relato** | **rilato** *[i]* | **relato** ← *[e]* |
+| *perfekta* | **perfecta** | **perfecta** *[perfekta]* | *[perfeta]* |
+| *punkto* | **puncto** | **puncto** *[punkto]* | *[punto]* |
+
+###### Franca
+
+La ŝajnsufikso **-in** prononciĝas *[en]*.
+
+| | Lingua | Piĝino | Novpiĝino |
+|:-|:-|:-|:-|
+| *kameno* | **camino** | **cameno** *[en]* | **camino** *[en]* ← *[in]* |
+| *ĝardeno* | **gardino** | **ĝardeno** *[en]* | **jardino** *[en]* ← *[in]* |
 | | | | |
-| *dependi* | **depende** | **dependi** *[e]* | **dependi** *[i]* ← *[e]* |
-| *respondi* | **responde** | **respondi** *[e]* | **respondi** *[i]* ← *[e]* |
+| *termino* | **termino** | **termino** *[in]* | *[en]* |
 
-La ŝajnsufikso **-in** prononciĝas *[en]*. Tra bruo, ĝi prononciĝas ← *[in]*.
+###### Itala
+
+**x** *[ks]*/*[kz]* prononciĝas *[s]*/*[z]*. **ps** *[ps]* prononciĝas *[s]*.
 
 | | Lingua | Piĝino | Novpiĝino |
 |:-|:-|:-|:-|
-| *kameno* | **camino** | **cameno** *[en]* | **camino** ← *[in]* |
-| *ĝardeno* | **gardino** | **ĝardeno** *[en]* | **jardino** ← *[in]* |
+| *teksto* | **texto** | **texto** *[teksto]* | *[testo]* |
+| *ekzemplo* | **exemplo** | **exemplo** *[ekzemplo]* | *[ezemplo]* |
 | | | | |
-| *termino* | **termino** | **termino** *[in]* | **termino** *[en]* ← *[in]* |
+| *psalmo* | **psalmo** | **psalmo** *[psalmo]* | *[salmo]* |
 
-**b** *[b]* prononciĝas *[v]* nur fine de la radiko. Tra bruo, ĝi ĉie prononciĝas ← *[b]*.
+La ŝajnprefiksoj **de-** kaj **re-** prononciĝas *[di]* kaj *[ri]*.
 
 | | Lingua | Piĝino | Novpiĝino |
 |:-|:-|:-|:-|
-| *skribi* | **scrive** | **scribi** | *[v]* ← *[b]* |
-| *kurba* | **curba** | **curba** | *[v]* ← *[b]* |
-| *nubo* | **nubo** | **nubo** | *[v]* ← *[b]* |
+| *difekto* | **defecto** | **difecto** *[di]* | **defecto** *[di]* ← *[de]* |
+| *difini* | **defini** | **difini** *[di]* | **defini** *[di]* ← *[de]* |
+| *ripari* | **repara** | **ripari** *[ri]* | **repari** *[ri]* ← *[re]* |
+| *rilato* | **relato** | **rilato** *[ri]* | **relato** *[ri]* ← *[re]* |
+| *ripeti* | **repete** | **ripeti** *[ri]* | **repeti** *[ri]* ← *[re]* |
+| | | | |
+| *dependi* | **depende** | **dependi** *[de]* | **dependi** *[di]* ← *[de]* |
+| *respondi* | **responde** | **respondi** *[re]* | **respondi** *[ri]* ← *[re]* |
+
+**b** *[b]* prononciĝas *[v]* fine de la radiko.
+
+| | Lingua | Piĝino | Novpiĝino |
+|:-|:-|:-|:-|
+| *skribi* | **scrive** | **scribi** *[b]* | *[v]* ← *[b]* |
+| *kurba* | **curba** | **curba** *[b]* | *[v]* ← *[b]* |
+| *nubo* | **nubo** | **nubo** *[b]* | *[v]* ← *[b]* |
 | | | | |
 | *havi* | **have** | **havi** | **habi** *[v]* ← *[b]* |
 | *provi* | **prova** | **provi** | **probi** *[v]* ← *[b]* |
 | | | | |
-| *povra* | **paupera** | **povra** | **pobra** *[b]* |
+| *povra* | **paupera** | **povra** *[v]* | **pobra** *[b]* |
+
+###### Hispana
+
+Anstataŭ *[ĵ]*/*[ĝ]* prononciĝas *[ĥ]*, dum *[s]*/*[c]* prononciĝas *[θ]*.
+
+| | Lingua | Piĝino | Novpiĝino |
+|:-|:-|:-|:-|
+| *generacio* | **ĝeneratīo** | **generatīo** *[generacio]* | **generatio** *[ĥeneraθio]* ← *[ĵenerasio]* |
 
 ## Gramatiko
 
