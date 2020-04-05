@@ -16,18 +16,18 @@
 
 | |
 |-|
-| **yes** *[jes]* |
 | **amico** *[amiko]* |
-| **facto** *[fakto]* |
-| **culturo** *[kulturo]* |
 | **canti** *[kanti]* |
-| **indiqŭi** *[indiki]* |
+| **culturo** *[kulturo]* |
+| **facto** *[fakto]* |
 | **impliqŭi** *[impliki]* |
-| **implici** *[implici]* |
+| **indiqŭi** *[indiki]* |
 | **voqŭi** *[voki]* |
+| **yes** *[jes]* |
 | |
 | **domo** *[=]* |
 | **familio** *[=]* |
+| **implici** *[implici]* |
 
 Sago (→) signifas diferencon inter ***Prapiĝino*** kaj ***Piĝino***, ĉu ortografie aŭ prononce.
 
