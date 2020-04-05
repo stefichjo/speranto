@@ -23,7 +23,6 @@
 | **impliqŭi** *[impliki]* |
 | **indiqŭi** *[indiki]* |
 | **voqŭi** *[voki]* |
-| **yes** *[jes]* |
 | |
 | **domo** *[=]* |
 | **familio** *[=]* |
@@ -95,6 +94,7 @@ Diversa skribo:
 | **leĝo** → **lejo** *[leĝo]* |
 | **dolĉaĵo** → **dolçhajo** *[dolĉaĵo]* |
 | |
+| **ĵuri** → **juri** *[ĵuri]* |
 | **ĵus** → **jus** *[ĵus]* |
 
 Diversa prononco:
@@ -118,13 +118,17 @@ Diversaj skribo kaj prononco:
 |-|
 | (**anştad' ał** *[anstataŭ]* → **anŝtattaŭ** *[anŝtataŭ]*) |
 | **ĉe** *[ĉe]* → **çhe** *[ŝe]* |
-| **ĉämisĭo** = **ĉemisĭo** *[ĉemizo]* → **çhemiso** *[ŝemizo]* |
+| **ĉämisĭo** *[ĉemizo]* → **çhemiso** *[ŝemizo]* |
 | |
 | **acĉento** *[akĉento]* → **accento** *[akcento]* |
 | |
 | **ĝenerala** *[ĝenerala]* → **generala** *[ĵenerala]* |
 | **ĭam** *[jam]* → **jam** *[ĵam]* |
 | **ĭusta** *[justa]* → **justa** *[ĵusta]* |
+
+#### qu, c, g
+
+#### ss, s
 
 ### Ĝermanaj Vortoj
 
@@ -136,6 +140,7 @@ Diversaj skribo kaj prononco:
 | **fisho** *[fiŝo]* |
 | **shranko** *[ŝranko]* |
 | **shuo** *[ŝuo]* |
+| **y̆es** *[jes]* |
 | |
 | **æn** → **aĭn** *[ajn]* |
 | **bilđo** → **bildo** *[bildo]* |
@@ -157,6 +162,8 @@ Diversaj skribo kaj prononco:
 | **warma** *[varma]* → *[ŭarma]* |
 | |
 | **wordo** *[vorto]* → **worto** *[ŭorto]* |
+
+##### Ĝermana
 
 ***Ĝermanaj*** vortoj foje prononciĝas laŭ ilia nacia literumado.
 
@@ -186,37 +193,10 @@ Diversaj skribo kaj prononco:
 
 ### Latinidaj Vortoj
 
-En ***Prapiĝino***, la skribo de **tĭ** konserviĝas.
-
-| | Lingua | Prapiĝino | Piĝino |
-|:-|:-|:-|:-|
-| *spaco* | **spatĭo** | **spatĭo** | **spaço** |
-
-La **t** antaŭ **ĭ** aŭ **ī** prononciĝas [c], sed **st** prononciĝas [st].
-
-| | Lingua | Piĝino |
-|:-|:-|:-|
-| *nacio* | **natīo** | **natīo** |
-| *besto* | **bestĭa** | **bestĭo** |
-
-La **j** prononciĝas [ĝ]. Kiam ĝia prononco estas [j], ĝi skribiĝas [ĭ]. Ĉar la prononco de **j** kiel [ĵ] ne estas skribebla etimologie, ĝi skribiĝas fonetike **ĵ** [ĵ].
-
-| | Lingua | Piĝino |
-|:-|:-|:-|
-| *justa* | **justa** | **ĭusta** |
-| *ĝusta* | **justa** | **justa** |
-| *ĵus* | **jus** | **ĵus** |
-| *ĵuri* | **jura** | **ĵuri** |
-| *jam* | **jam** | **ĭam** |
-| *majo* | **maĭo** | **maĭo** |
-| *trajno* | **traĭno** | **traĭno** |
-
 Post vokalo, **ŭ** prononciĝas [ŭ]. Inter konsonanto kaj vokalo (respektive radikofino), **ŭ** elliziiĝas kaj **u** prononciĝas [v]. Kiam **u** prononciĝas [u] anstata [v], ĝi skribiĝas **ū**.
 
 | | Lingua | Piĝino |
 |:-|:-|:-|
-| *taŭro* | **taŭro** | **taŭro** |
-| | | |
 | *ke* | **qŭe** | **qŭe** |
 | *kio* | **qŭo** | **qŭio** |
 | | | |
@@ -332,15 +312,6 @@ Samkiel en **aŭ** [aŭ], **ŭ** prononciĝas [ŭ] en **eŭ**.
 > ---
 > L. L. Zamenhof
 
-##### Ĝermana
-
-Ĝermana *[j]* skribiĝas **y̆**. Ĝermana **w** prononciĝas *[ŭ]*.
-
-| | Sprak | Piĝino | Novpiĝino |
-|:-|:-|:-|:-|
-| *jes* | **jes** | **yes** *[j]* | **y̆es** |
-| *varma* | **warm** | **warma** *[v]* | **warma** *[ŭ]* |
-
 ##### Greka
 
 Tra bruo, ***grekaj*** **th** *[t]* kaj **y** prononciĝas ← *[θ]* kaj ← *[y]*.
@@ -416,7 +387,7 @@ Frikativa **ĝ** / **ĵ** *[ĵ]* prononciĝas *[ĝ]* nur fine de la radiko. Tra 
 
 ##### Akĉentoj
 
-***TODO*** tra bruo, novpiĝina prononco
+***TODO*** tra bruo, (nov)piĝina prononco
 
 ###### Novlatinida
 
@@ -429,11 +400,13 @@ Frikativa **ĝ** / **ĵ** *[ĵ]* prononciĝas *[ĝ]* nur fine de la radiko. Tra 
 
 **aŭ** kaj **aĭ** prononciĝas *[o]* kaj *[e]*.
 
-***DONE*** no nov
-
-| | Lingua | Prapiĝino | Piĝino | Novpiĝino |
-|:-|:-|:-|:-|:-|
-| *taŭro* | **taŭro** | = |  | **tåŭro** *[toro]* ← *[taŭro]* |
+| |
+|-|
+| **taŭro** *[=]* → *[toro]* |
+| |
+| **kaĭ** → **caĭ** *[kaj]* |
+| **maĭo** *[majo]* → *[meo]* |
+| **traĭno** *[trajno]* → *[treno]* |
 
 ###### Franca
 
