@@ -26,7 +26,7 @@
 | |
 | **domo** *[=]* |
 | **familio** *[=]* |
-| **implici** *[implici]* |
+| **implici** *[=]* |
 
 Sago (→) signifas diferencon inter ***Prapiĝino*** kaj ***Piĝino***, ĉu ortografie aŭ prononce.
 
@@ -128,6 +128,43 @@ Diversaj skribo kaj prononco:
 
 #### qu, c, g
 
+Inter konsonantoj, **u** prononciĝas *[u]*. Post vokalo, ĝi fariĝas **ŭ** *[ŭ]*. Inter konsonanto kaj vokalo (aŭ radikofino), **u** prononciĝas *[v]*. Post **q** kaj **g**, **ŭ** estas muta.
+
+| |
+|-|
+| **tuta** *[=]* |
+| |
+| **aŭto** *[=]* |
+| |
+| **aquo** *[akvo]* |
+| **linguo** *[lingvo]* |
+| **quanto** *[kvanto]* |
+| **sequi** *[sekvi]* |
+| **viduo** *[vidvo]* |
+| |
+| **qŭe** *[ke]* |
+| (**kio** → **qŭio** *[kio]* ) |
+
+---
+
+Post vokalo, **ŭ** prononciĝas [ŭ]. Inter konsonanto kaj vokalo (respektive radikofino), **ŭ** elliziiĝas kaj **u** prononciĝas [v]. Kiam **u** prononciĝas [u] anstata [v], ĝi skribiĝas **ū**.
+
+| | Lingua | Piĝino |
+|:-|:-|:-|
+| *vidvo* | **vidŭo** | **viduo** |
+| | | |
+| *solvi* | **solve** | **solvi** |
+| | | |
+| *evolui* | **evolve** | **evolūi** |
+| *evolucio* | **evolutīo** | **evolutīo** |
+| *situi* | **situa** | **sitūi** |
+| *situacio* | **situatīo** | **sitūatīo** |
+
+***TODO*** inviduo; postkonsonanteco
+
+
+***TODO*** [kŭ] novpiĝino
+
 #### ss, s
 
 ### Ĝermanaj Vortoj
@@ -163,8 +200,6 @@ Diversaj skribo kaj prononco:
 | |
 | **wordo** *[vorto]* → **worto** *[ŭorto]* |
 
-##### Ĝermana
-
 ***Ĝermanaj*** vortoj foje prononciĝas laŭ ilia nacia literumado.
 
 | |
@@ -192,26 +227,6 @@ Diversaj skribo kaj prononco:
 ## Alfabeto
 
 ### Latinidaj Vortoj
-
-Post vokalo, **ŭ** prononciĝas [ŭ]. Inter konsonanto kaj vokalo (respektive radikofino), **ŭ** elliziiĝas kaj **u** prononciĝas [v]. Kiam **u** prononciĝas [u] anstata [v], ĝi skribiĝas **ū**.
-
-| | Lingua | Piĝino |
-|:-|:-|:-|
-| *ke* | **qŭe** | **qŭe** |
-| *kio* | **qŭo** | **qŭio** |
-| | | |
-| *kvanto* | **qŭanto** | **quanto** |
-| *akvo* | **aqŭa** | **aquo** |
-| *sekvi* | **seqŭi** | **sequi** |
-| *lingvo* | **lingŭa** | **linguo** |
-| *vidvo* | **vidŭo** | **viduo** |
-| | | |
-| *solvi* | **solve** | **solvi** |
-| | | |
-| *evolui* | **evolve** | **evolūi** |
-| *evolucio* | **evolutīo** | **evolutīo** |
-| *situi* | **situa** | **sitūi** |
-| *situacio* | **situatīo** | **sitūatīo** |
 
 Samkiel en ***Lingua***, duoblaj konsonantoj prononciĝas unuoble. Inter vokaloj (respektive inter vokalo kaj radikofino), **s** [s] prononciĝas [z]. Inter vokaloj, **x** [ks] prononciĝas [kz].
 
