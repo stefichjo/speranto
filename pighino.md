@@ -39,19 +39,21 @@ Sago (→) signifas diferencon inter ***Prapiĝino*** kaj ***Piĝino***, ĉu ort
 
 #### ti
 
-En ***Piĝino***, radikofinaj **tĭ** *[c]* kaj **ţ** *[s]* skribiĝas **z**/**c** respective **s**, sed **stĭ** *[st]* skribiĝas **st**. **tī** *[ci]* prononciĝas *[si]*.
+En ***Piĝino***, radikofinaj **tĕ**/**tĭ** *[c]* kaj **ţ** *[s]* skribiĝas **z**/**c** respective **s**, sed **stĭ** *[st]* skribiĝas **st**. **tī** *[ci]* prononciĝas *[si]*.
 
 | |
 |-|
 | **potentĭo** → **potenzo** *[potenco]* |
+| **platĕo** → **plazo** *[placo]* |
 | **spatĭo** → **spazo** *[spaco]* |
+| |
 | **Marţo** → **Marso** *[marso]* |
 | |
 | **bestĭo** → **besto** *[besto]* |
 | |
 | **natīo** *[nacio]* → *[nasio]* |
-| **potentīalo** *[potencialo]* → *[potensialo]* |
 | **patīentĭo** *[pacienco]* → **patīenzo** *[pasienco]* |
+| **potentīalo** *[potencialo]* → *[potensialo]* |
 
 #### ci, gi, j
 
