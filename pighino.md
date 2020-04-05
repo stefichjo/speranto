@@ -22,6 +22,7 @@
 | **facto** *[fakto]* |
 | **impliqŭi** *[impliki]* |
 | **indiqŭi** *[indiki]* |
+| **terro** *[tero]* |
 | **voqŭi** *[voki]* |
 | |
 | **domo** *[=]* |
@@ -50,6 +51,7 @@ En ***Piĝino***, radikofinaj **tĕ**/**tĭ** *[c]* kaj **ţ** *[s]* skribiĝas 
 | |
 | **bestĭo** → **besto** *[besto]* |
 | |
+| **evolutīo** *[evolucio]* → *[evolusio]* |
 | **natīo** *[nacio]* → *[nasio]* |
 | **patīentĭo** *[pacienco]* → **patīenzo** *[pasienco]* |
 | **potentīalo** *[potencialo]* → *[potensialo]* |
@@ -76,32 +78,36 @@ Diversa skribo:
 
 | |
 |-|
-| **paċo** → **pazo** *[paco]* |
-| **farço** → **farso** *[farso]* |
-| |
 | (**çaro** = **ċaro** → **tsaro** *[caro]*) |
+| **paċo** → **pazo** *[paco]* |
+| |
 | **çerĉi** → **cerçhi** *[serĉi]* |
+| **farço** → **farso** *[farso]* |
 | |
 | **voĉo** → **voçho** *[voĉo]* |
 | **riĉa** → **riçha** *[riĉa]* |
+| (**ĉampiono** → **tshampiono** *[ĉampiono]*) |
+| |
+| **çham̃bjo** → **çhanjo** *[ŝanĝo]* |
+| **çhadĕntĭo** = **çhantĭo** → **çhanzo** *[ŝanco]* |
 | **tuçhi** → **tushi** *[tuŝi]* |
 | |
-| (**ĉampiono** → **tshampiono** *[ĉampiono]*) |
-| **çhadĕntĭo** = **çhantĭo** → **çhanzo** *[ŝanco]* |
-| |
-| **messajo** *[mesaĝo]* |
-| **sedĵo** → **sejo** *[seĝo]* |
 | **leĝo** → **lejo** *[leĝo]* |
-| **dolĉaĵo** → **dolçhajo** *[dolĉaĵo]* |
+| **nevjo** → **nejo** *[neĝo]* |
+| **messajo** *[mesaĝo]* |
+| **ruvja** → **ruja** *[ruĝa]* |
+| **sedjo** → **sejo** *[seĝo]* |
 | |
+| **dolĉaĵo** → **dolçhajo** *[dolĉaĵo]* |
 | **ĵuri** → **juri** *[ĵuri]* |
+| **đĵurnalo** → **jurnalo** *[ĵurnalo]* |
 | **ĵus** → **jus** *[ĵus]* |
 
 Diversa prononco:
 
 | |
 |-|
-| **TODO** |
+| - |
 | |
 | **accento** *[akcento]* → *[aksento]* |
 | **centro** *[centro]* → *[sentro]* |
@@ -120,7 +126,7 @@ Diversaj skribo kaj prononco:
 | **ĉe** *[ĉe]* → **çhe** *[ŝe]* |
 | **ĉämisĭo** *[ĉemizo]* → **çhemiso** *[ŝemizo]* |
 | |
-| **acĉento** *[akĉento]* → **accento** *[akcento]* |
+| **acĉento** *[akĉento]* → **accentumo** *[aksentumo]* |
 | |
 | **ĝenerala** *[ĝenerala]* → **generala** *[ĵenerala]* |
 | **ĭam** *[jam]* → **jam** *[ĵam]* |
@@ -128,13 +134,11 @@ Diversaj skribo kaj prononco:
 
 #### qu, c, g
 
-Inter konsonantoj, **u** prononciĝas *[u]*. Post vokalo, ĝi fariĝas **ŭ** *[ŭ]*. Inter konsonanto kaj vokalo (aŭ radikofino), **u** prononciĝas *[v]*. Post **q** kaj **g**, **ŭ** estas muta.
+Inter konsonantoj, **u** prononciĝas *[u]*. Inter konsonanto kaj vokalo (aŭ radikofino), **u** prononciĝas *[v]*, kaj **ū** restas *[u]*. Post vokalo, ĝi fariĝas **ŭ** *[ŭ]*. Post konsonanto, **ŭ** estas muta.
 
 | |
 |-|
 | **tuta** *[=]* |
-| |
-| **aŭto** *[=]* |
 | |
 | **aquo** *[akvo]* |
 | **linguo** *[lingvo]* |
@@ -142,30 +146,31 @@ Inter konsonantoj, **u** prononciĝas *[u]*. Post vokalo, ĝi fariĝas **ŭ** *[
 | **sequi** *[sekvi]* |
 | **viduo** *[vidvo]* |
 | |
+| **evolūi** *[evolui]* |
+| **individūo** *[individuo]* |
+| **sitūi** *[situi]* |
+| **sitūatīo** *[situacio]* → *[situasio]* |
+| |
+| **aŭto** *[=]* |
+| |
 | **qŭe** *[ke]* |
 | (**kio** → **qŭio** *[kio]* ) |
 
----
-
-Post vokalo, **ŭ** prononciĝas [ŭ]. Inter konsonanto kaj vokalo (respektive radikofino), **ŭ** elliziiĝas kaj **u** prononciĝas [v]. Kiam **u** prononciĝas [u] anstata [v], ĝi skribiĝas **ū**.
-
-| | Lingua | Piĝino |
-|:-|:-|:-|
-| *vidvo* | **vidŭo** | **viduo** |
-| | | |
-| *solvi* | **solve** | **solvi** |
-| | | |
-| *evolui* | **evolve** | **evolūi** |
-| *evolucio* | **evolutīo** | **evolutīo** |
-| *situi* | **situa** | **sitūi** |
-| *situacio* | **situatīo** | **sitūatīo** |
-
-***TODO*** inviduo; postkonsonanteco
-
-
-***TODO*** [kŭ] novpiĝino
-
 #### ss, s
+
+| |
+|-|
+| **masso** *[maso]* |
+| |
+| **päĕsajo** → **peĭsajo** *[pejzaĝo]* |
+| **roso** *[rozo]* |
+
+#### x
+
+| |
+|-|
+| **exemplo** *[ekzemplo]* |
+| **fixi** *[fiksi]* |
 
 ### Ĝermanaj Vortoj
 
@@ -222,39 +227,16 @@ Post vokalo, **ŭ** prononciĝas [ŭ]. Inter konsonanto kaj vokalo (respektive r
 | **kolbaso** *[kolbaso]* |
 | **çaro** *[caro]* |
 
----
+## Akĉentoj
 
-## Alfabeto
-
-### Latinidaj Vortoj
-
-Samkiel en ***Lingua***, duoblaj konsonantoj prononciĝas unuoble. Inter vokaloj (respektive inter vokalo kaj radikofino), **s** [s] prononciĝas [z]. Inter vokaloj, **x** [ks] prononciĝas [kz].
-
-| | Lingua | Piĝino |
-|:-|:-|:-|
-| *tero* | **terra** | **terro** |
-| | | |
-| *maso* | **massa** | **masso** |
-| *rozo* | **rosa** | **roso** |
-| | | |
-| *fiksi* | **fixa** | **fixi** |
-| *ekzemplo* | **exemplo** | **exemplo** |
-
-En kelkaj ***Arkelingvaismoj***, intervokala **b** restas senŝanĝa.
+***TODO*** b v
 
 | | Archelingua | Lingua | Piĝino |
 |:-|:-|:-|:-|
 | *skribi* | **scribe** | **scrive** | **scribi** |
 | *labori* | **labora** | **lavora** | **labori** |
 
-#### Novlatinidaj Vortoj en Prapiĝino
-
-*Prapiĝino:* Kiam radikokomenca **s** antaŭ konsonanto prononciĝas [es], ĝi skribiĝas **s̈**.
-
-| | Lingua | Prapiĝino | Piĝino |
-|:-|:-|:-|:-|
-| *esti* | **sta** | **s̈ti** | **esti** |
-| *Esperanto* | **Sperante** | **S̈peranto** | **Esperanto** |
+***TODO***
 
 *Prapiĝino:* Kiam **i** prononciĝas [oj], ĝi skribiĝas **ĩ**.
 
@@ -264,31 +246,30 @@ En kelkaj ***Arkelingvaismoj***, intervokala **b** restas senŝanĝa.
 | *vojo* | **via** | **vĩo** | **voĭo** |
 | *vojaĝo* | **viajo** | **vĩajo** | **voĭajo** |
 
+***TODO***
+
 *Prapiĝino:* Kiam **aŭ** prononciĝas [o], ĝi skribiĝas **åŭ**.
 
 | | Lingua | Prapiĝino | Piĝino |
 |:-|:-|:-|:-|
 | *oro* | **aŭro** | **åŭro** | **oro** |
 
-*Prapiĝino:* **j** [ĝ] kaj **ĵ** [ĵ] asimilas la antaŭan konsonanton. (Oni ne skribas la ŝanĝon de **ti(c)** (al **dj**) al **j**.)
+### Itala
+
+***TODO***
+
+*Prapiĝino:* Kiam radikokomenca **s** antaŭ konsonanto prononciĝas [es], ĝi skribiĝas **s̈**.
 
 | | Lingua | Prapiĝino | Piĝino |
 |:-|:-|:-|:-|
-| *seĝo* | **sedĭa** | **sedjo** | **sejo** |
-| *neĝo* | **nevĭa** | **nevjo** | **nejo** |
-| *ruĝa* | **ruvĭa** | **ruvja** | **ruja** |
-| | | | |
-| *ĵurnalo* | **dĭurnale** | **dĵurnalo** | **ĵurnalo** |
-| | | | |
-| *pejzaĝo* | **paesajo** | **päĕsajo** | **peĭsajo** |
+| *esti* | **sta** | **s̈ti** | **esti** |
+| *Esperanto* | **Sperante** | **S̈peranto** | **Esperanto** |
 
-*Prapiĝino:* Kiam **c** prononciĝas [ŝ], ĝi skribiĝas **^ç** = **çh**.
+---
 
-| | Lingua | Prapiĝino | Piĝino |
-|:-|:-|:-|:-|
-| *ŝanco* | **cadentĭa** | **çhadĕntĭo** | **çhanço** |
-| *ŝanĝo* | **cambĭo** | **çham̃bjo** | **çhanjo** |
-| *ĉemizo* | **camisĭa** | **ĉämisĭo** | **çhemiso** |
+## Alfabeto
+
+### Latinidaj Vortoj
 
 #### Grekaj Vortoj
 
@@ -403,6 +384,8 @@ Frikativa **ĝ** / **ĵ** *[ĵ]* prononciĝas *[ĝ]* nur fine de la radiko. Tra 
 ##### Akĉentoj
 
 ***TODO*** tra bruo, (nov)piĝina prononco
+
+***TODO*** [kŭ]
 
 ###### Novlatinida
 
