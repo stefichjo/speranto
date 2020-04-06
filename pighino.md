@@ -310,14 +310,14 @@ En ***akĉenta Piĝino***, **aŭ** prononciĝas *[o]*, dum **aĭ** kaj **eĭ** p
 
 ### Itala
 
-***TODO***
+En ***ital-akĉenta Piĝino***, la *[e]* antaŭ **s̈** mutas.
 
-*Prapiĝino:* Kiam radikokomenca **s** antaŭ konsonanto prononciĝas [es], ĝi skribiĝas **s̈**.
+| |
+|-|
+| **S̈peranto** *[esperanto]* → **Esperanto** *[=]* → *[speranto]* |
+| **s̈ti** → **esti** *[esti]* → *[sti]* |
 
-| | Lingua | Prapiĝino | Piĝino |
-|:-|:-|:-|:-|
-| *esti* | **sta** | **s̈ti** | **esti** |
-| *Esperanto* | **Sperante** | **S̈peranto** | **Esperanto** |
+---
 
 **x** *[ks]*/*[kz]* prononciĝas *[s]*/*[z]*. **ps** *[ps]* prononciĝas *[s]*.
 
