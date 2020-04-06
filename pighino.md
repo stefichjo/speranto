@@ -6,7 +6,13 @@
 
 ***TODO*** mallonga i en ekzempla teksto
 
+***TODO*** unu ekzemplo
+
 > Se ni eĉ supposos, qŭe la fina linguo de la estontai generatīoi estas ne Esperanto, en ĉia occaso la voio al tiu ellaborota linguo nepre devas conduqŭi tra Esperanto.
+> ---
+> L. L. Zamenhof
+
+> Se ni eçh supposos, qŭe la fina linguo de la estontai generatioi estas ne Esperanto, en ĉhia occaso la voĭo al tiu ellaborota linguo nepre devas conduqŭi tra Esperanto. *[Se ni eĉ supozos, ke la fina lingvo de la estontaj ĵeneracioj estas ne Esperanto, en ĉia okazo la vojo al tiu ellaborota lingvo nepre devas konduki tra Esperanto.]*
 > ---
 > L. L. Zamenhof
 
@@ -105,12 +111,14 @@ En ***Piĝino***, la skriboj varias laŭ ilia pozicio, t.e. ĉu ili estas radiko
 | **leĝo** → **lejo** *[leĝo]* |
 | **nevjo** → **nejo** *[neĝo]* |
 | **messajo** *[mesaĝo]* |
+| **manĝi** *[=]* → **mangi** |
 | **ruvja** → **ruja** *[ruĝa]* |
 | **sedjo** → **sejo** *[seĝo]* |
 | |
 | **dolĉaĵo** → **dolçhajo** *[dolĉaĵo]* |
 | **ĝenerala** *[ĝenerala]* → **generala** *[ĵenerala]* |
 | **generatīo** *[generacio]* → *[ĵenerasio]* |
+| **ĝentila** *[ĝentila]* → **gentila** *[ĵentila]* |
 | **ĭam** *[jam]* → **jam** *[ĵam]* |
 | **ĵuri** → **juri** *[ĵuri]* |
 | **đĵurnalo** → **jurnalo** *[ĵurnalo]* |
@@ -118,6 +126,16 @@ En ***Piĝino***, la skriboj varias laŭ ilia pozicio, t.e. ĉu ili estas radiko
 | **justa** *[ĝusta]* → *[ĵusta]* |
 | **ĭusta** *[justa]* → **justuma** *[ĵustuma]* |
 | **logico** *[logiko]* → *[loĵiko]* |
+| **manĝaĵo** *[=]* → **manjajo** |
+
+| | | | |
+| *mesaĝo* | **messajo** | **messajo** *[ĝ]* | = |
+| *ŝanĝi* | **cambĭo** | **ŝanĝi** *[ĝ]* | **çhangi** |
+| *ŝanĝiĝi* | | **ŝanĝiĝi** *[ĝ]* | **çhangigi** *[ĵ]* ← *[ĝ]* |
+| | | | |
+| *objekto* | **objecto** | **obĭecto** *[j]* | **objecto** *[ĵ]* ← *[ĝ]* |
+| | | | |
+| *majo* | **majo** | **maĭo** *[j]* | = |
 
 #### qu, c, g
 
@@ -302,33 +320,6 @@ Samkiel en **aŭ** [aŭ], **ŭ** prononciĝas [ŭ] en **eŭ**. Tra bruo, **y** p
 | *Esperanto* | **Sperante** | **S̈peranto** | **Esperanto** |
 
 ---
-
-#### Novpiĝino
-
-> Se ni eçh supposos, qŭe la fina linguo de la estontai generatioi estas ne Esperanto, en ĉhia occaso la voĭo al tiu ellaborota linguo nepre devas conduqŭi tra Esperanto. *[Se ni eĉ supozos, ke la fina lingvo de la estontaj ĵeneracioj estas ne Esperanto, en ĉia okazo la vojo al tiu ellaborota lingvo nepre devas konduki tra Esperanto.]*
-> ---
-> L. L. Zamenhof
-
-##### Latinida
-
-Frikativa **ĝ** / **ĵ** *[ĵ]* prononciĝas *[ĝ]* nur fine de la radiko. Tra bruo, ĝi ĉie prononciĝas ← *[ĝ]*. Ene de la radiko, la etimologia skribo de **j** *[ĵ]* konserviĝas antaŭ **e** kaj **i**.
-
-| | Lingua | Piĝino | Novpiĝino |
-|:-|:-|:-|:-|
-| *ĝentila* | **ĝentile** | **ĝentila** *[ĝ]* | **gentila** *[ĵ]* ← *[ĝ]* |
-| *leĝo* | **leĝe** | **leĝo** *[ĝ]* | **lejo** |
-| *manĝi* | **manja** | **manĝi** *[ĝ]* | **mangi** |
-| *manĝaĵo* | | **manĝaĵo** *[ĵ]* | **manjajo** ← *[ĝ]* |
-| | | | |
-| *ĵus* | **jus** | **ĵus** *[ĵ]* | **jus** ← *[ĝ]* |
-| *mesaĝo* | **messajo** | **messajo** *[ĝ]* | = |
-| *ŝanĝi* | **cambĭo** | **ŝanĝi** *[ĝ]* | **çhangi** |
-| *ŝanĝiĝi* | | **ŝanĝiĝi** *[ĝ]* | **çhangigi** *[ĵ]* ← *[ĝ]* |
-| | | | |
-| *jam* | **jam** | **ĭam** *[j]* | **jam** *[ĵ]* ← *[ĝ]* |
-| *objekto* | **objecto** | **obĭecto** *[j]* | **objecto** *[ĵ]* ← *[ĝ]* |
-| | | | |
-| *majo* | **majo** | **maĭo** *[j]* | = |
 
 ##### Akĉentoj
 
