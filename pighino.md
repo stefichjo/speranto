@@ -4,6 +4,8 @@
 
 ***TODO*** novpiĝino/franca: i → j
 
+***TODO*** garantio = garanthio?
+
 > Se ni eĉ supposos, qŭe la fina linguo de la estontai generatīoi estas ne Esperanto, en ĉia occaso la voio al tiu ellaborota linguo nepre devas conduqŭi tra Esperanto.
 > ---
 > L. L. Zamenhof
@@ -74,22 +76,25 @@ En ***Piĝino***, la skriboj varias laŭ ilia pozicio, t.e. ĉu ili estas radiko
 | **ts** *[c]* | **z/c** *[c]*/*[s]* | **s** *[s]* |
 | **dj** *[ĝ]* | **j/g** *[ĝ]*/*[ĵ]* | **jh** *[ĵ]* |
 
-Diversa skribo:
-
 | |
 |-|
-| (**çaro** = **ċaro** → **tsaro** *[caro]*) |
 | **paċo** → **pazo** *[paco]* |
 | |
+| **accento** *[akcento]* → *[aksento]* |
+| **acĉento** *[akĉento]* → **accentumo** *[aksentumo]* |
+| **centro** *[centro]* → *[sentro]* |
 | **çerĉi** → **cerçhi** *[serĉi]* |
+| **concerto** *[koncerto]* → *[konserto]* |
 | **farço** → **farso** *[farso]* |
+| **patīento** *[paciento]* → *[pasiento]* |
 | |
 | **voĉo** → **voçho** *[voĉo]* |
 | **riĉa** → **riçha** *[riĉa]* |
-| (**ĉampiono** → **tshampiono** *[ĉampiono]*) |
 | |
 | **çham̃bjo** → **çhanjo** *[ŝanĝo]* |
 | **çhadĕntĭo** = **çhantĭo** → **çhanzo** *[ŝanco]* |
+| **ĉe** *[ĉe]* → **çhe** *[ŝe]* |
+| **ĉämisĭo** *[ĉemizo]* → **çhemiso** *[ŝemizo]* |
 | **tuçhi** → **tushi** *[tuŝi]* |
 | |
 | **leĝo** → **lejo** *[leĝo]* |
@@ -99,38 +104,15 @@ Diversa skribo:
 | **sedjo** → **sejo** *[seĝo]* |
 | |
 | **dolĉaĵo** → **dolçhajo** *[dolĉaĵo]* |
+| **ĝenerala** *[ĝenerala]* → **generala** *[ĵenerala]* |
+| **generatīo** *[generacio]* → *[ĵenerasio]* |
+| **ĭam** *[jam]* → **jam** *[ĵam]* |
 | **ĵuri** → **juri** *[ĵuri]* |
 | **đĵurnalo** → **jurnalo** *[ĵurnalo]* |
 | **ĵus** → **jus** *[ĵus]* |
-
-Diversa prononco:
-
-| |
-|-|
-| - |
-| |
-| **accento** *[akcento]* → *[aksento]* |
-| **centro** *[centro]* → *[sentro]* |
-| **concerto** *[koncerto]* → *[konserto]* |
-| **patīento** *[paciento]* → *[pasiento]* |
-| |
 | **justa** *[ĝusta]* → *[ĵusta]* |
-| **generatīo** *[generacio]* → *[ĵenerasio]* |
+| **ĭusta** *[justa]* → **justuma** *[ĵustuma]* |
 | **logico** *[logiko]* → *[loĵiko]* |
-
-Diversaj skribo kaj prononco:
-
-| |
-|-|
-| (**anştad' ał** *[anstataŭ]* → **anŝtattaŭ** *[anŝtataŭ]*) |
-| **ĉe** *[ĉe]* → **çhe** *[ŝe]* |
-| **ĉämisĭo** *[ĉemizo]* → **çhemiso** *[ŝemizo]* |
-| |
-| **acĉento** *[akĉento]* → **accentumo** *[aksentumo]* |
-| |
-| **ĝenerala** *[ĝenerala]* → **generala** *[ĵenerala]* |
-| **ĭam** *[jam]* → **jam** *[ĵam]* |
-| **ĭusta** *[justa]* → **justa** *[ĵusta]* |
 
 #### qu, c, g
 
@@ -151,7 +133,7 @@ Inter konsonantoj, **u** prononciĝas *[u]*. Inter konsonanto kaj vokalo (aŭ ra
 | **sitūi** *[situi]* |
 | **sitūatīo** *[situacio]* → *[situasio]* |
 | |
-| **aŭto** *[=]* |
+| **taŭro** *[=]* |
 | |
 | **qŭe** *[ke]* |
 | (**kio** → **qŭio** *[kio]* ) |
@@ -171,6 +153,73 @@ Inter konsonantoj, **u** prononciĝas *[u]*. Inter konsonanto kaj vokalo (aŭ ra
 |-|
 | **exemplo** *[ekzemplo]* |
 | **fixi** *[fiksi]* |
+
+### Grekaj Vortoj
+
+Samkiel en **aŭ** [aŭ], **ŭ** prononciĝas [ŭ] en **eŭ**. Tra bruo, **y** prononciĝas *[y]*.
+
+| |
+|-|
+| **aŭto** *[=]* |
+| **Eŭropo** *[=]* |
+| |
+| **systemo** *[sistemo]* ← *[systemo]* |
+
+**k** *[k]* skribiĝas **k** nur antaŭ **e** kaj **i**. En aliaj kuntekstoj, ĝi skribiĝas **c**.
+
+| |
+|-|
+| **kilo** *[=]* |
+
+**ch** *[k]* prononciĝas *[ĥ]* fine de la radiko. ***Tra bruo***, ĝi ĉiam prononciĝas *[ĥ]*.
+
+| |
+|-|
+| **ecĥo** *[eĥo]* |
+| **cĥaractero** *[karaktero]* → **charactero** *[karaktero]* ← *[ĥaraktero]* |
+
+***Tra bruo***, **th** *[t]* prononciĝas *[ĥ]* fine de la radiko
+**th** *[t]*, **ch** *[k]*
+
+---
+
+Radikofina **ti** prononciĝas [ti].
+
+| | Lingua | Piĝino |
+|:-|:-|:-|
+| *demokratio* | **democratio** | **democratio** |
+
+***TODO***
+
+***Grekaj*** **ph**, **th**, **ch** kaj **y** prononciĝas [f], [t], [ĥ] kaj [i]. Kiam **ch** prononciĝas [ŝ], ĝi skribiĝas **çh**. ***Greka*** [k] kaj skribiĝas **k** antaŭ **e**, **i** kaj **y**. **z** [z] restas senŝanĝa.
+
+| | Lingua | Piĝino |
+|:-|:-|:-|
+| *fazo* | **phase** | **phaso** |
+| *temo* | **tema** | **themo** |
+| *karaktero* | **charactere** | **charactero** |
+| *kaligrafio* | **calligraphia** | **calligraphio** |
+| | | |
+| *eĥo* | **echo** | **ecĥo** |
+| *maŝino* | **machina** | **maçhino** |
+| | | |
+| *zono* | **zona** | **zono** |
+
+Tra bruo, ***grekaj*** **th** *[t]* kaj **y** prononciĝas ← *[θ]* kaj ← *[y]*.
+
+| | Lingua | Piĝino | Novpiĝino |
+|:-|:-|:-|:-|
+| *simpatio* | **sympathia** | **sympathio** *[simpatio]* | ← *[sympaθio]* |
+
+Greka **ch** *[k]* prononciĝas *[ĥ]* nur fine de la radiko. Tra bruo, ĝi ĉie prononciĝas ← *[ĥ]*.
+
+| | Lingua | Piĝino | Novpiĝino |
+|:-|:-|:-|:-|
+| *kemio*, *ĥemio* | **chemia** | **cĥemio** *[ĥ]* | **chemio** *[k]* ← *[ĥ]* |
+| *mekaniko*, *meĥaniko* | **mechanica** | **mecĥanico** *[ĥ]* | **mechanico** *[k]* ← *[ĥ]* |
+| *eĥo* | **echo** | **ecĥo** *[ĥ]* | **echo** |
+
+---
 
 ### Ĝermanaj Vortoj
 
@@ -203,6 +252,7 @@ Inter konsonantoj, **u** prononciĝas *[u]*. Inter konsonanto kaj vokalo (aŭ ra
 | |
 | **warma** *[varma]* → *[ŭarma]* |
 | |
+| **anştad' ał** *[anstataŭ]* → **anŝtattaŭ** *[anŝtataŭ]* |
 | **wordo** *[vorto]* → **worto** *[ŭorto]* |
 
 ***Ĝermanaj*** vortoj foje prononciĝas laŭ ilia nacia literumado.
@@ -225,7 +275,7 @@ Inter konsonantoj, **u** prononciĝas *[u]*. Inter konsonanto kaj vokalo (aŭ ra
 | **prava** *[prava]* |
 | **nepre** *[nepre]* |
 | **kolbaso** *[kolbaso]* |
-| **çaro** *[caro]* |
+| **çaro** = **ċaro** → **tsaro** *[caro]* |
 
 ## Akĉentoj
 
@@ -267,62 +317,11 @@ Inter konsonantoj, **u** prononciĝas *[u]*. Inter konsonanto kaj vokalo (aŭ ra
 
 ---
 
-## Alfabeto
-
-### Latinidaj Vortoj
-
-#### Grekaj Vortoj
-
-Radikofina **ti** prononciĝas [ti].
-
-| | Lingua | Piĝino |
-|:-|:-|:-|
-| *demokratio* | **democratio** | **democratio** |
-
-Samkiel en **aŭ** [aŭ], **ŭ** prononciĝas [ŭ] en **eŭ**.
-
-| | Lingua | Piĝino |
-|:-|:-|:-|
-| *aŭto* | **aŭto** | **aŭto** |
-| *Eŭropo* | **Eŭropa** | **Eŭropo** |
-
-***Grekaj*** **ph**, **th**, **ch** kaj **y** prononciĝas [f], [t], [ĥ] kaj [i]. Kiam **ch** prononciĝas [ŝ], ĝi skribiĝas **çh**. ***greka*** [k] kaj skribiĝas **k** antaŭ **e**, **i** kaj **y**. **z** [z] restas senŝanĝa.
-
-| | Lingua | Piĝino |
-|:-|:-|:-|
-| *sistemo* | **systema** | **systemo** |
-| *fazo* | **phase** | **phaso** |
-| *temo* | **tema** | **themo** |
-| *karaktero* | **charactere** | **charactero** |
-| *kaligrafio* | **calligraphia** | **calligraphio** |
-| | | |
-| *eĥo* | **echo** | **ecĥo** |
-| *maŝino* | **machina** | **maçhino** |
-| | | |
-| *kilo* | **kilo** | **kilo** |
-| *zono* | **zona** | **zono** |
-
 #### Novpiĝino
 
 > Se ni eçh supposos, qŭe la fina linguo de la estontai generatioi estas ne Esperanto, en ĉhia occaso la voĭo al tiu ellaborota linguo nepre devas conduqŭi tra Esperanto. *[Se ni eĉ supozos, ke la fina lingvo de la estontaj ĵeneracioj estas ne Esperanto, en ĉia okazo la vojo al tiu ellaborota lingvo nepre devas konduki tra Esperanto.]*
 > ---
 > L. L. Zamenhof
-
-##### Greka
-
-Tra bruo, ***grekaj*** **th** *[t]* kaj **y** prononciĝas ← *[θ]* kaj ← *[y]*.
-
-| | Lingua | Piĝino | Novpiĝino |
-|:-|:-|:-|:-|
-| *simpatio* | **sympathia** | **sympathio** *[simpatio]* | ← *[sympaθio]* |
-
-Greka **ch** *[k]* prononciĝas *[ĥ]* nur fine de la radiko. Tra bruo, ĝi ĉie prononciĝas ← *[ĥ]*.
-
-| | Lingua | Piĝino | Novpiĝino |
-|:-|:-|:-|:-|
-| *kemio*, *ĥemio* | **chemia** | **cĥemio** *[ĥ]* | **chemio** *[k]* ← *[ĥ]* |
-| *mekaniko*, *meĥaniko* | **mechanica** | **mecĥanico** *[ĥ]* | **mechanico** *[k]* ← *[ĥ]* |
-| *eĥo* | **echo** | **ecĥo** *[ĥ]* | **echo** |
 
 ##### Slava
 
@@ -400,7 +399,7 @@ Frikativa **ĝ** / **ĵ** *[ĵ]* prononciĝas *[ĝ]* nur fine de la radiko. Tra 
 
 | |
 |-|
-| **taŭro** *[=]* → *[toro]* |
+| **paŭso** *[paŭzo]* → *[pozo]* |
 | |
 | **kaĭ** → **caĭ** *[kaj]* |
 | **maĭo** *[majo]* → *[meo]* |
