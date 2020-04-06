@@ -166,7 +166,6 @@ Inter konsonantoj, **u** prononciĝas *[u]*. Inter konsonanto kaj vokalo (aŭ ra
 |-|
 | **masso** *[maso]* |
 | |
-| **päĕsajo** → **peĭsajo** *[pejzaĝo]* |
 | **roso** *[rozo]* |
 
 #### x
@@ -187,10 +186,11 @@ Samkiel en **aŭ** [aŭ], **ŭ** prononciĝas [ŭ] en **eŭ**. Tra bruo, **y** p
 | |
 | **systemo** *[sistemo]* ← *[systemo]* |
 
-**k** *[k]* skribiĝas **k** nur antaŭ **e** kaj **i**. En aliaj kuntekstoj, ĝi skribiĝas **c**.
+**k** *[k]* skribiĝas **k** nur antaŭ **e** kaj **i**. En aliaj kuntekstoj, ĝi skribiĝas **c** en ***Piĝino***.
 
 | |
 |-|
+| **kaĭ** → **caĭ** *[kaj]* |
 | **kilo** *[=]* |
 
 ***Tra bruo***, **th** *[t]* prononciĝas *[θ]*. **ch** *[k]* prononciĝas *[ĥ]* fine de la radiko, sed ***tra bruo***, ĝi ĉiam prononciĝas *[ĥ]*.
@@ -276,18 +276,32 @@ Samkiel en **aŭ** [aŭ], **ŭ** prononciĝas [ŭ] en **eŭ**. Tra bruo, **y** p
 | **kolbaso** *[kolbaso]* |
 | **çaro** = **ċaro** → **tsaro** *[caro]* |
 
-***TODO*** kaŝi → kaĉi (kazi (!cazo), kasi (! casso))
-
 ## Akĉentoj
 
-***TODO*** b v
+En ***akĉenta Piĝino***, latinidaj vortoj ĉie prononciĝas kun *[c]*, *[ĉ]*, *[ĝ]* anstataŭ *[s]*, *[ŝ]*, *[ĵ]*.
 
-| | Archelingua | Lingua | Piĝino |
-|:-|:-|:-|:-|
-| *skribi* | **scribe** | **scrive** | **scribi** |
-| *labori* | **labora** | **lavora** | **labori** |
+| |
+|-|
+| **domaĉo** *[=]* → **domaçho** *[domaŝo]* → *[domaĉo]* |
 
-***TODO***
+En ***akĉenta Piĝino***, **ct** *[kt]* prononciĝas *[t]*.
+
+| |
+|-|
+| **perfecta** *[perfekta]* → *[perfeta]* |
+| **puncto** *[punkto]* → *[punto]* |
+
+En ***akĉenta Piĝino***, **aŭ** prononciĝas *[o]*, dum **aĭ** kaj **eĭ** prononciĝas *[e]*.
+
+| |
+|-|
+| **åŭro** *[oro]* → **aŭro** *[=]* → *[oro]* |
+| **paŭso** *[paŭzo]* → *[pozo]* |
+| |
+| **maĭo** *[majo]* → *[meo]* |
+| **traĭno** *[trajno]* → *[treno]* |
+| |
+| **päĕsajo** → **peĭsajo** *[pejzaĝo]* → *[pezaĵo]* |
 
 *Prapiĝino:* Kiam **i** prononciĝas [oj], ĝi skribiĝas **ĩ**.
 
@@ -296,16 +310,6 @@ Samkiel en **aŭ** [aŭ], **ŭ** prononciĝas [ŭ] en **eŭ**. Tra bruo, **y** p
 | *rojo* | **rio** | **rĩo** | **roĭo** |
 | *vojo* | **via** | **vĩo** | **voĭo** |
 | *vojaĝo* | **viajo** | **vĩajo** | **voĭajo** |
-
-***TODO***
-
-*Prapiĝino:* Kiam **aŭ** prononciĝas [o], ĝi skribiĝas **åŭ**.
-
-| | Lingua | Prapiĝino | Piĝino |
-|:-|:-|:-|:-|
-| *oro* | **aŭro** | **åŭro** | **oro** |
-
-***TODO*** Sen distingo inter komenco kaj fino de la radiko
 
 ### Itala
 
@@ -318,46 +322,6 @@ Samkiel en **aŭ** [aŭ], **ŭ** prononciĝas [ŭ] en **eŭ**. Tra bruo, **y** p
 | *esti* | **sta** | **s̈ti** | **esti** |
 | *Esperanto* | **Sperante** | **S̈peranto** | **Esperanto** |
 
----
-
-##### Akĉentoj
-
-***TODO*** tra bruo, (nov)piĝina prononco
-
-***TODO*** [kŭ]
-
-###### Novlatinida
-
-**ct** *[kt]* prononciĝas *[t]*.
-
-| | Lingua | Piĝino | Novpiĝino |
-|:-|:-|:-|:-|
-| *perfekta* | **perfecta** | **perfecta** *[perfekta]* | *[perfeta]* |
-| *punkto* | **puncto** | **puncto** *[punkto]* | *[punto]* |
-
-**aŭ** kaj **aĭ** prononciĝas *[o]* kaj *[e]*.
-
-| |
-|-|
-| **paŭso** *[paŭzo]* → *[pozo]* |
-| |
-| **kaĭ** → **caĭ** *[kaj]* |
-| **maĭo** *[majo]* → *[meo]* |
-| **traĭno** *[trajno]* → *[treno]* |
-
-###### Franca
-
-La ŝajnsufikso **-in** prononciĝas *[en]*.
-
-| | Lingua | Piĝino | Novpiĝino |
-|:-|:-|:-|:-|
-| *kameno* | **camino** | **cameno** *[en]* | **camino** *[en]* ← *[in]* |
-| *ĝardeno* | **gardino** | **ĝardeno** *[en]* | **jardino** *[en]* ← *[in]* |
-| | | | |
-| *termino* | **termino** | **termino** *[in]* | *[en]* |
-
-###### Itala
-
 **x** *[ks]*/*[kz]* prononciĝas *[s]*/*[z]*. **ps** *[ps]* prononciĝas *[s]*.
 
 | | Lingua | Piĝino | Novpiĝino |
@@ -366,6 +330,32 @@ La ŝajnsufikso **-in** prononciĝas *[en]*.
 | *ekzemplo* | **exemplo** | **exemplo** *[ekzemplo]* | *[ezemplo]* |
 | | | | |
 | *psalmo* | **psalmo** | **psalmo** *[psalmo]* | *[salmo]* |
+
+
+### Franca
+
+En ***franc-akĉenta Piĝino***, latinidaj vortoj ĉie prononciĝas kun *[s]*, *[ŝ]*, *[ĵ]* anstataŭ *[c]*, *[ĉ]*, *[ĝ]*.
+
+| |
+|-|
+| **caŝi** *[kaŝi]* → **caçhi** *[kaĉi]* → *[kaŝi]* |
+
+La ŝajnsufikso **-in** prononciĝas *[en]*.
+
+| |
+|-|
+| **camïno** *[kameno]* → **camino** *[kamino]* → *[kameno]* |
+| **ĝardïno** *[ĝardeno]* → **jardino** *[ĵardino]* → *[ĵardeno]* |
+
+---
+
+##### Akĉentoj
+
+***TODO*** tra bruo, (nov)piĝina prononco
+
+***TODO*** [kŭ]
+
+###### Itala
 
 La ŝajnprefiksoj **de-** kaj **re-** prononciĝas *[di]* kaj *[ri]*.
 
