@@ -2,13 +2,11 @@
 
 ***TODO*** novpiĝino/franca: i → j
 
-***TODO*** garantio = garanthio?
-
 ***TODO*** mallonga i en ekzempla teksto
 
 ***TODO*** unu ekzemplo
 
-> Se ni eĉ supposos, qŭe la fina linguo de la estontai generatīoi estas ne Esperanto, en ĉia occaso la voio al tiu ellaborota linguo nepre devas conduqŭi tra Esperanto.
+> Se ni eĉ supposos, qŭe la fina linguo de la estontaĭ generatīoĭ estas ne Esperanto, en ĉia occaso la voĭo al tiu ellaborota linguo nepre devas conduqŭi tra Esperanto.
 > ---
 > L. L. Zamenhof
 
@@ -61,6 +59,7 @@ En ***Piĝino***, radikofinaj **tĕ**/**tĭ** *[c]* kaj **ţ** *[s]* skribiĝas 
 | |
 | **democratio** *[demokratio]* → **democratīo** *[demokrasio]* |
 | **evolutīo** *[evolucio]* → *[evolusio]* |
+| **garantio** *[=]* → **garantīo** *[garancio]* |
 | **natīo** *[nacio]* → *[nasio]* |
 | **patīentĭo** *[pacienco]* → **patīenzo** *[pasienco]* |
 | **potentīalo** *[potencialo]* → *[potensialo]* |
