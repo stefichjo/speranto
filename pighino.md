@@ -364,6 +364,8 @@ En ***franc-akĉenta Piĝino***, prononciĝas *[ĥ]* anstataŭ *[ĵ]*/*[ĝ]*, du
 |-|
 | **generatīo** *[generacio]* → *[ĵenerasio]* → *[ĥeneraθio]* |
 
+---
+
 ## Gramatiko
 
 ### Tabelvortoj
