@@ -189,7 +189,7 @@ Samkiel en **aŭ** [aŭ], **ŭ** prononciĝas [ŭ] en **eŭ**. Tra bruo, **y** p
 
 | |
 |-|
-| **calligraphio** *[kaligrafio]* |
+| **kalligraphio** → **calligraphio** *[kaligrafio]* |
 | **phaso** *[fazo]* |
 | |
 | **sympathio** *[simpatio]* ← *[sympaθio]* |
