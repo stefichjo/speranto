@@ -126,15 +126,8 @@ En ***Piĝino***, la skriboj varias laŭ ilia pozicio, t.e. ĉu ili estas radiko
 | **ĭusta** *[justa]* → **justuma** *[ĵustuma]* |
 | **logico** *[logiko]* → *[loĵiko]* |
 | **manĝaĵo** *[=]* → **manjajo** |
-
-| | | | |
-| *mesaĝo* | **messajo** | **messajo** *[ĝ]* | = |
-| *ŝanĝi* | **cambĭo** | **ŝanĝi** *[ĝ]* | **çhangi** |
-| *ŝanĝiĝi* | | **ŝanĝiĝi** *[ĝ]* | **çhangigi** *[ĵ]* ← *[ĝ]* |
-| | | | |
-| *objekto* | **objecto** | **obĭecto** *[j]* | **objecto** *[ĵ]* ← *[ĝ]* |
-| | | | |
-| *majo* | **majo** | **maĭo** *[j]* | = |
+| |
+| **obĭecto** *[objekto]* → **objecto** *[obĵekto]* |
 
 #### qu, c, g
 
