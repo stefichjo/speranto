@@ -256,6 +256,8 @@ Samkiel en **aŭ** [aŭ], **ŭ** prononciĝas [ŭ] en **eŭ**. Tra bruo, **y** p
 
 ### Slavaj Vortoj
 
+Kvankam **ĉi** estas origine ***latinida*** vorto, ĝi paralelas la ***slavan*** ŝajnradikon **ĉi-**.
+
 | |
 |-|
 | **ĉi** → **ĉhi** *[ĉi]* |
