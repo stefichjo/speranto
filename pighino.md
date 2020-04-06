@@ -310,6 +310,19 @@ En ***akĉenta Piĝino***, **aŭ** prononciĝas *[o]*, dum **aĭ** kaj **eĭ** p
 
 ### Itala
 
+En ***ital-akĉenta Piĝino***, la ŝajnprefiksoj **de-** kaj **re-** prononciĝas *[di]* kaj *[ri]*.
+
+| |
+|-|
+| **dėfecto** *[di-]* → **defecto** *[de-]* → *[difeto]* |
+| **dėfini** *[di-]* → **defini** *[de-]* → *[difini]* |
+| **dependi** *[de-]* → *[dipendi]* |
+| |
+| **rėpari** *[ri-]* → **repari** *[re-]* → *[ripari]* |
+| **rėlato** *[ri-]* → **relato** *[re-]* → *[rilato]* |
+| **rėpeti** *[ri-]* → **repeti** *[re-]* → *[ripeti]* |
+| **respondi** *[re-]* → *[rispondi]* |
+
 En ***ital-akĉenta Piĝino***, la *[e]* antaŭ **s̈** mutas.
 
 | |
@@ -317,29 +330,14 @@ En ***ital-akĉenta Piĝino***, la *[e]* antaŭ **s̈** mutas.
 | **S̈peranto** *[esperanto]* → **Esperanto** *[=]* → *[speranto]* |
 | **s̈ti** → **esti** *[esti]* → *[sti]* |
 
----
+En ***ital-akĉenta Piĝino***, **x** *[ks]*/*[kz]* prononciĝas *[s]*/*[z]*. Simile, **ps** *[ps]* prononciĝas *[s]*.
 
-**x** *[ks]*/*[kz]* prononciĝas *[s]*/*[z]*. **ps** *[ps]* prononciĝas *[s]*.
-
-| | Lingua | Piĝino | Novpiĝino |
-|:-|:-|:-|:-|
-| *teksto* | **texto** | **texto** *[teksto]* | *[testo]* |
-| *ekzemplo* | **exemplo** | **exemplo** *[ekzemplo]* | *[ezemplo]* |
-| | | | |
-| *psalmo* | **psalmo** | **psalmo** *[psalmo]* | *[salmo]* |
-
-La ŝajnprefiksoj **de-** kaj **re-** prononciĝas *[di]* kaj *[ri]*.
-
-| | Lingua | Piĝino | Novpiĝino |
-|:-|:-|:-|:-|
-| *difekto* | **defecto** | **difecto** *[di]* | **defecto** *[di]* ← *[de]* |
-| *difini* | **defini** | **difini** *[di]* | **defini** *[di]* ← *[de]* |
-| *ripari* | **repara** | **ripari** *[ri]* | **repari** *[ri]* ← *[re]* |
-| *rilato* | **relato** | **rilato** *[ri]* | **relato** *[ri]* ← *[re]* |
-| *ripeti* | **repete** | **ripeti** *[ri]* | **repeti** *[ri]* ← *[re]* |
-| | | | |
-| *dependi* | **depende** | **dependi** *[de]* | **dependi** *[di]* ← *[de]* |
-| *respondi* | **responde** | **respondi** *[re]* | **respondi** *[ri]* ← *[re]* |
+| |
+|-|
+| **texto** *[teksto]* → *[testo]* |
+| **exemplo** *[ekzemplo]* → *[ezemplo]* |
+| |
+| **psalmo** *[=]* → *[salmo]* |
 
 ### Franca
 
@@ -356,32 +354,13 @@ La ŝajnsufikso **-in** prononciĝas *[en]*.
 | **camïno** *[kameno]* → **camino** *[kamino]* → *[kameno]* |
 | **ĝardïno** *[ĝardeno]* → **jardino** *[ĵardino]* → *[ĵardeno]* |
 
----
+### Hispana
 
-###### Itala
+En ***franc-akĉenta Piĝino***, prononciĝas *[ĥ]* anstataŭ *[ĵ]*/*[ĝ]*, dum *[θ]* prononciĝas anstataŭ *[s]*/*[c]*.
 
-**b** *[b]* prononciĝas *[v]* fine de la radiko.
-
-| | Lingua | Piĝino | Novpiĝino |
-|:-|:-|:-|:-|
-| *skribi* | **scrive** | **scribi** *[b]* | *[v]* ← *[b]* |
-| *kurba* | **curba** | **curba** *[b]* | *[v]* ← *[b]* |
-| *nubo* | **nubo** | **nubo** *[b]* | *[v]* ← *[b]* |
-| | | | |
-| *havi* | **have** | **havi** | **habi** *[v]* ← *[b]* |
-| *provi* | **prova** | **provi** | **probi** *[v]* ← *[b]* |
-| | | | |
-| *povra* | **paupera** | **povra** *[v]* | **pobra** *[b]* |
-
-###### Hispana
-
-Anstataŭ *[ĵ]*/*[ĝ]* prononciĝas *[ĥ]*, dum *[s]*/*[c]* prononciĝas *[θ]*.
-
-| | Lingua | Piĝino | Novpiĝino |
-|:-|:-|:-|:-|
-| *generacio* | **ĝeneratīo** | **generatīo** *[generacio]* | **generatio** *[ĥeneraθio]* ← *[ĵenerasio]* |
-
----
+| |
+|-|
+| **generatīo** *[generacio]* → *[ĵenerasio]* → *[ĥeneraθio]* |
 
 ## Gramatiko
 
