@@ -94,3 +94,22 @@ La ***fonetika h-sistemo*** sekvas la principon "unu transskribo, unu sono". Tia
 |**j** → **ĝ**|**ĭ** → **j**|
 |*ĝ*|*j*|
 
+## Etimologi-Fonetika h-Sistemo
+
+La ***etimologi-fonetika h-sistemo*** estas ***Novpiĝino*** sen diakritaĵoj.
+
+| | | |
+|-|-|-|
+| **aĭn** | **laŭta** | **y̆a** |
+| *ain* | *lauta* | *ya* |
+
+| | |
+|-|-|
+| **ĉhu** | **mashino** |
+| *chu* | *mashino* |
+
+| | | | |
+|-|-|-|-|
+| **voçho** | **çharmo** | **ecĥo** | **chemio** |
+| *vocho* | *charmo* | *echo* | *chemio* |
+
