@@ -83,8 +83,11 @@ En ***Piĝino***, la skriboj varias laŭ ilia pozicio, t.e. ĉu ili estas radiko
 | |
 | **accento** *[akcento]* → *[aksento]* |
 | **acĉento** *[akĉento]* → **accentumo** *[aksentumo]* |
+| **belletĭo** *[beleco]* → **bellezo** *[beleso]* |
 | **centro** *[centro]* → *[sentro]* |
 | **çerĉi** → **cerçhi** *[serĉi]* |
+| **ĉessi** *[ĉesi]* → **cessi** *[sesi]* |
+| **ĉȧelo** *[ĉielo]* → **cielo** *[sielo]* |
 | **concerto** *[koncerto]* → *[konserto]* |
 | **farço** → **farso** *[farso]* |
 | **patīento** *[paciento]* → *[pasiento]* |
@@ -94,7 +97,8 @@ En ***Piĝino***, la skriboj varias laŭ ilia pozicio, t.e. ĉu ili estas radiko
 | |
 | **çham̃bjo** → **çhanjo** *[ŝanĝo]* |
 | **çhadĕntĭo** = **çhantĭo** → **çhanzo** *[ŝanco]* |
-| **ĉe** *[ĉe]* → **çhe** *[ŝe]* |
+| **ĉarmo** *[=]* → **çharmo** *[ŝarmo]* |
+| **ĉä** *[ĉe]* → **çhe** *[ŝe]* |
 | **ĉämisĭo** *[ĉemizo]* → **çhemiso** *[ŝemizo]* |
 | **tuçhi** → **tushi** *[tuŝi]* |
 | |
@@ -245,11 +249,17 @@ Samkiel en **aŭ** [aŭ], **ŭ** prononciĝas [ŭ] en **eŭ**. Tra bruo, **y** p
 
 | |
 |-|
+| **ĉi** → **ĉhi** *[ĉi]* |
+| **ĉiu** → **ĉhiu** *[ĉiu]* |
+| **ĉu** → **ĉhu** *[ĉu]* |
 | **ekrano** *[ekrano]* |
 | **prava** *[prava]* |
 | **nepre** *[nepre]* |
+| **kaĉo** *[kaĉo]* → **kaŝo** *[kaŝo]* |
 | **kolbaso** *[kolbaso]* |
 | **çaro** = **ċaro** → **tsaro** *[caro]* |
+
+***TODO*** kaŝi → kaĉi (kazi (!cazo), kasi (! casso))
 
 ## Akĉentoj
 
@@ -278,6 +288,8 @@ Samkiel en **aŭ** [aŭ], **ŭ** prononciĝas [ŭ] en **eŭ**. Tra bruo, **y** p
 |:-|:-|:-|:-|
 | *oro* | **aŭro** | **åŭro** | **oro** |
 
+***TODO*** Sen distingo inter komenco kaj fino de la radiko
+
 ### Itala
 
 ***TODO***
@@ -297,43 +309,7 @@ Samkiel en **aŭ** [aŭ], **ŭ** prononciĝas [ŭ] en **eŭ**. Tra bruo, **y** p
 > ---
 > L. L. Zamenhof
 
-##### Slava
-
-***Slava*** **ĉ** *[ĉ]* skribiĝas **ĉh**.
-
-| | Piĝino | Novpiĝino |
-|:-|:-|:-|
-| *ĉu* | **ĉu** | **ĉhu** *[ĉ]* |
-| *ĉi* | **ĉi** | **ĉhi** *[ĉ]* |
-| *ĉiu* | **ĉiu** | **ĉhiu** *[ĉ]* |
-| | | |
-| *kaĉo* | **kaĉo** *[ĉ]* | **kaŝo** *[ŝ]* |
-
 ##### Latinida
-
-Frikativa **c** *[s]* prononciĝas *[c]* nur fine de la radiko. Tra bruo, ĝi ĉie prononciĝas ← *[c]*.
-
-| | Lingua | Piĝino | Novpiĝino |
-|:-|:-|:-|:-|
-| *serĉi* | **ĉirca** | **çerĉi** *[s]* | **cerçhi** ← *[c]* |
-| | | | |
-| *centro* | **centro** | **centro** *[c]* | *[s]* ← *[c]* |
-| *akcento* | **acĉento** | **accento** *[c]* | *[s]* ← *[c]* |
-| *beleco* | | **belleço** *[c]* | **bellezo** *[s]* ← *[c]* |
-| | | | |
-| *ĉesi* | **ĉessa** | **ĉessi** *[ĉ]* | **cessi** *[s]* ← *[c]* |
-| *ĉielo* | **cælo** | **ĉielo** *[ĉ]* | **cielo** *[s]* ← *[c]* |
-
-***Novlatinida*** **çh** *[ŝ]* prononciĝas *[ĉ]* nur fine de la radiko. Tra bruo, ĝi ĉie prononciĝas ← *[ĉ]*.
-
-| | Lingua | Piĝino | Novpiĝino |
-|:-|:-|:-|:-|
-| *voĉo* | **voce** | **voĉo** *[ĉ]* | **voçho** |
-| *ŝanco* | **cadentĭa** | **ŝanço** *[ŝ]* | **çhanzo** ← *[ĉ]* |
-| | | | |
-| *ĉarmo* | **carme** | **ĉarmo** *[ĉ]* | **çharmo** *[ŝ]* ← *[ĉ]* |
-| *ĉe* | **casa** | **ĉe** *[ĉ]* | **çhe** *[ŝ]* ← *[ĉ]* |
-| *domaĉo* | | **domaĉo** *[ĉ]* | **domaçho** *[ŝ]* ← *[ĉ]* |
 
 Frikativa **ĝ** / **ĵ** *[ĵ]* prononciĝas *[ĝ]* nur fine de la radiko. Tra bruo, ĝi ĉie prononciĝas ← *[ĝ]*. Ene de la radiko, la etimologia skribo de **j** *[ĵ]* konserviĝas antaŭ **e** kaj **i**.
 
