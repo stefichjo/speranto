@@ -92,7 +92,6 @@ En ***Piĝino***, la skriboj varias laŭ ilia pozicio, t.e. ĉu ili estas radiko
 | **centro** *[centro]* → *[sentro]* |
 | **çerĉi** → **cerçhi** *[serĉi]* |
 | **ĉessi** *[ĉesi]* → **cessi** *[sesi]* |
-| **ĉȧelo** *[ĉielo]* → **cielo** *[sielo]* |
 | **concerto** *[koncerto]* → *[konserto]* |
 | **farço** → **farso** *[farso]* |
 | **patīento** *[paciento]* → *[pasiento]* |
@@ -284,7 +283,16 @@ En ***akĉenta Piĝino***, **ct** *[kt]* prononciĝas *[t]*.
 | **perfecta** *[perfekta]* → *[perfeta]* |
 | **puncto** *[punkto]* → *[punto]* |
 
-En ***akĉenta Piĝino***, **aŭ** prononciĝas *[o]*, dum **aĭ** kaj **eĭ** prononciĝas *[e]*.
+En ***akĉenta Piĝino***, **i** kaj **u** inter konsonanto kaj vokalo prononciĝas *[j]* kaj *[ŭ]*.
+
+| |
+|-|
+| **ĉȧelo** *[ĉielo]* → **cielo** *[sielo]* → *[sjelo]* |
+| **piedo** *[piedo]* → *[pjedo]* |
+| |
+| **qualito** *[kvalito]* → *[kŭalito]* |
+
+En ***akĉenta Piĝino***, **aŭ** prononciĝas *[o]*, dum **aĭ** kaj **eĭ** prononciĝas *[e]*. Simile, **ĩ** *[oj]* prononciĝas *[i]*.
 
 | |
 |-|
@@ -295,14 +303,10 @@ En ***akĉenta Piĝino***, **aŭ** prononciĝas *[o]*, dum **aĭ** kaj **eĭ** p
 | **traĭno** *[trajno]* → *[treno]* |
 | |
 | **päĕsajo** → **peĭsajo** *[pejzaĝo]* → *[pezaĵo]* |
-
-*Prapiĝino:* Kiam **i** prononciĝas [oj], ĝi skribiĝas **ĩ**.
-
-| | Lingua | Prapiĝino | Piĝino |
-|:-|:-|:-|:-|
-| *rojo* | **rio** | **rĩo** | **roĭo** |
-| *vojo* | **via** | **vĩo** | **voĭo** |
-| *vojaĝo* | **viajo** | **vĩajo** | **voĭajo** |
+| |
+| **rĩo** *[rojo]* → **rio** *[rio]* |
+| **vĩo** *[vojo]* → **vio** *[vio]* |
+| **vĩajo** *[vojaĝo]* → **viajo** *[viaĝo]* → *[vjaĝo]* |
 
 ### Itala
 
@@ -324,6 +328,18 @@ En ***akĉenta Piĝino***, **aŭ** prononciĝas *[o]*, dum **aĭ** kaj **eĭ** p
 | | | | |
 | *psalmo* | **psalmo** | **psalmo** *[psalmo]* | *[salmo]* |
 
+La ŝajnprefiksoj **de-** kaj **re-** prononciĝas *[di]* kaj *[ri]*.
+
+| | Lingua | Piĝino | Novpiĝino |
+|:-|:-|:-|:-|
+| *difekto* | **defecto** | **difecto** *[di]* | **defecto** *[di]* ← *[de]* |
+| *difini* | **defini** | **difini** *[di]* | **defini** *[di]* ← *[de]* |
+| *ripari* | **repara** | **ripari** *[ri]* | **repari** *[ri]* ← *[re]* |
+| *rilato* | **relato** | **rilato** *[ri]* | **relato** *[ri]* ← *[re]* |
+| *ripeti* | **repete** | **ripeti** *[ri]* | **repeti** *[ri]* ← *[re]* |
+| | | | |
+| *dependi* | **depende** | **dependi** *[de]* | **dependi** *[di]* ← *[de]* |
+| *respondi* | **responde** | **respondi** *[re]* | **respondi** *[ri]* ← *[re]* |
 
 ### Franca
 
@@ -342,26 +358,7 @@ La ŝajnsufikso **-in** prononciĝas *[en]*.
 
 ---
 
-##### Akĉentoj
-
-***TODO*** tra bruo, (nov)piĝina prononco
-
-***TODO*** [kŭ]
-
 ###### Itala
-
-La ŝajnprefiksoj **de-** kaj **re-** prononciĝas *[di]* kaj *[ri]*.
-
-| | Lingua | Piĝino | Novpiĝino |
-|:-|:-|:-|:-|
-| *difekto* | **defecto** | **difecto** *[di]* | **defecto** *[di]* ← *[de]* |
-| *difini* | **defini** | **difini** *[di]* | **defini** *[di]* ← *[de]* |
-| *ripari* | **repara** | **ripari** *[ri]* | **repari** *[ri]* ← *[re]* |
-| *rilato* | **relato** | **rilato** *[ri]* | **relato** *[ri]* ← *[re]* |
-| *ripeti* | **repete** | **ripeti** *[ri]* | **repeti** *[ri]* ← *[re]* |
-| | | | |
-| *dependi* | **depende** | **dependi** *[de]* | **dependi** *[di]* ← *[de]* |
-| *respondi* | **responde** | **respondi** *[re]* | **respondi** *[ri]* ← *[re]* |
 
 **b** *[b]* prononciĝas *[v]* fine de la radiko.
 
@@ -383,6 +380,8 @@ Anstataŭ *[ĵ]*/*[ĝ]* prononciĝas *[ĥ]*, dum *[s]*/*[c]* prononciĝas *[θ]*
 | | Lingua | Piĝino | Novpiĝino |
 |:-|:-|:-|:-|
 | *generacio* | **ĝeneratīo** | **generatīo** *[generacio]* | **generatio** *[ĥeneraθio]* ← *[ĵenerasio]* |
+
+---
 
 ## Gramatiko
 
