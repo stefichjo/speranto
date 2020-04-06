@@ -1,10 +1,10 @@
 # Piĝino
 
-***TODO*** Estas nura observaĵo, ke **tī** aperas ofte radikofine.
-
 ***TODO*** novpiĝino/franca: i → j
 
 ***TODO*** garantio = garanthio?
+
+***TODO*** mallonga i en ekzempla teksto
 
 > Se ni eĉ supposos, qŭe la fina linguo de la estontai generatīoi estas ne Esperanto, en ĉia occaso la voio al tiu ellaborota linguo nepre devas conduqŭi tra Esperanto.
 > ---
@@ -53,6 +53,7 @@ En ***Piĝino***, radikofinaj **tĕ**/**tĭ** *[c]* kaj **ţ** *[s]* skribiĝas 
 | |
 | **bestĭo** → **besto** *[besto]* |
 | |
+| **democratio** *[demokratio]* → **democratīo** *[demokrasio]* |
 | **evolutīo** *[evolucio]* → *[evolusio]* |
 | **natīo** *[nacio]* → *[nasio]* |
 | **patīentĭo** *[pacienco]* → **patīenzo** *[pasienco]* |
@@ -171,55 +172,27 @@ Samkiel en **aŭ** [aŭ], **ŭ** prononciĝas [ŭ] en **eŭ**. Tra bruo, **y** p
 |-|
 | **kilo** *[=]* |
 
-**ch** *[k]* prononciĝas *[ĥ]* fine de la radiko. ***Tra bruo***, ĝi ĉiam prononciĝas *[ĥ]*.
+***Tra bruo***, **th** *[t]* prononciĝas *[θ]*. **ch** *[k]* prononciĝas *[ĥ]* fine de la radiko, sed ***tra bruo***, ĝi ĉiam prononciĝas *[ĥ]*.
 
 | |
 |-|
-| **ecĥo** *[eĥo]* |
-| **cĥaractero** *[karaktero]* → **charactero** *[karaktero]* ← *[ĥaraktero]* |
+| **calligraphio** *[kaligrafio]* |
+| **phaso** *[fazo]* |
+| |
+| **sympathio** *[simpatio]* ← *[sympaθio]* |
+| **themo** *[temo]* ← *[θemo]* |
+| |
+| **charactero** *[karaktero]* ← *[ĥaraktero]* |
+| **chemio** *[kemio]* ← *[ĥemio]* |
+| **ecĥo** → **echo** *[eĥo]* |
+| **maçhino** *[maŝino]* |
+| **mechanico** *[mekaniko]* ← *[meĥaniko]* |
 
-***Tra bruo***, **th** *[t]* prononciĝas *[ĥ]* fine de la radiko
-**th** *[t]*, **ch** *[k]*
+**z** prononciĝas *[z]*.
 
----
-
-Radikofina **ti** prononciĝas [ti].
-
-| | Lingua | Piĝino |
-|:-|:-|:-|
-| *demokratio* | **democratio** | **democratio** |
-
-***TODO***
-
-***Grekaj*** **ph**, **th**, **ch** kaj **y** prononciĝas [f], [t], [ĥ] kaj [i]. Kiam **ch** prononciĝas [ŝ], ĝi skribiĝas **çh**. ***Greka*** [k] kaj skribiĝas **k** antaŭ **e**, **i** kaj **y**. **z** [z] restas senŝanĝa.
-
-| | Lingua | Piĝino |
-|:-|:-|:-|
-| *fazo* | **phase** | **phaso** |
-| *temo* | **tema** | **themo** |
-| *karaktero* | **charactere** | **charactero** |
-| *kaligrafio* | **calligraphia** | **calligraphio** |
-| | | |
-| *eĥo* | **echo** | **ecĥo** |
-| *maŝino* | **machina** | **maçhino** |
-| | | |
-| *zono* | **zona** | **zono** |
-
-Tra bruo, ***grekaj*** **th** *[t]* kaj **y** prononciĝas ← *[θ]* kaj ← *[y]*.
-
-| | Lingua | Piĝino | Novpiĝino |
-|:-|:-|:-|:-|
-| *simpatio* | **sympathia** | **sympathio** *[simpatio]* | ← *[sympaθio]* |
-
-Greka **ch** *[k]* prononciĝas *[ĥ]* nur fine de la radiko. Tra bruo, ĝi ĉie prononciĝas ← *[ĥ]*.
-
-| | Lingua | Piĝino | Novpiĝino |
-|:-|:-|:-|:-|
-| *kemio*, *ĥemio* | **chemia** | **cĥemio** *[ĥ]* | **chemio** *[k]* ← *[ĥ]* |
-| *mekaniko*, *meĥaniko* | **mechanica** | **mecĥanico** *[ĥ]* | **mechanico** *[k]* ← *[ĥ]* |
-| *eĥo* | **echo** | **ecĥo** *[ĥ]* | **echo** |
-
----
+| |
+|-|
+| **zono** *[=]* |
 
 ### Ĝermanaj Vortoj
 
@@ -261,6 +234,7 @@ Greka **ch** *[k]* prononciĝas *[ĥ]* nur fine de la radiko. Tra bruo, ĝi ĉie
 |-|
 | **biero** *[biero]* |
 | **boato** *[boato]* |
+| **memeo** *[memeo]* |
 | **naĭlo** *[najlo]* |
 | **Reĭno** *[rejno]* |
 | **teamo** *[teamo]* |
