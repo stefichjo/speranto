@@ -1,11 +1,5 @@
 # Piĝino
 
-***TODO*** novpiĝino/franca: i → j
-
-***TODO*** mallonga i en ekzempla teksto
-
-***TODO*** unu ekzemplo
-
 > Se ni eĉ supposos, qŭe la fina linguo de la estontaĭ generatīoĭ estas ne Esperanto, en ĉia occaso la voĭo al tiu ellaborota linguo nepre devas conduqŭi tra Esperanto.
 > ---
 > L. L. Zamenhof
@@ -365,6 +359,10 @@ En ***franc-akĉenta Piĝino***, prononciĝas *[ĥ]* anstataŭ *[ĵ]*/*[ĝ]*, du
 | **generatīo** *[generacio]* → *[ĵenerasio]* → *[ĥeneraθio]* |
 
 ---
+
+***TODO*** mallonga i en ekzempla teksto
+
+***TODO*** unu ekzemplo
 
 ## Gramatiko
 
