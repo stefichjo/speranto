@@ -1,10 +1,7 @@
 # Piĝino
 
-> Se ni eĉ supposos, qŭe la fina linguo de la estontaĭ generatīoĭ estas ne Esperanto, en ĉia occaso la voĭo al tiu ellaborota linguo nepre devas conduqŭi tra Esperanto.
-> ---
-> L. L. Zamenhof
-
-> Se ni eçh supposos, qŭe la fina linguo de la estontai generatioi estas ne Esperanto, en ĉhia occaso la voĭo al tiu ellaborota linguo nepre devas conduqŭi tra Esperanto. *[Se ni eĉ supozos, ke la fina lingvo de la estontaj ĵeneracioj estas ne Esperanto, en ĉia okazo la vojo al tiu ellaborota lingvo nepre devas konduki tra Esperanto.]*
+> **Se ni eĉ supposos, qŭe la fina linguo de la s̈tontaĭ generatīoĭ s̈tas ne S̈peranto, en ĉia occaso la vĩo al tiu ellaborota linguo nepre devas conduqŭi tra S̈peranto.** *[se ni eĉ supozos, ke la fina lingvo de la estontaj generacioj estas ne esperanto, en ĉia okazo la vojo al tiu ellaborota lingvo nepre devas konduki tra esperanto.]* →
+> **Se ni ech supposos, que la fina linguo de la estontai generatioi estas ne Esperanto, en chia occaso la voio al tiu ellaborota linguo nepre devas conduqui tra Esperanto.** *[Se ni eĉ supozos, ke la fina lingvo de la estontaj ĵenerasioj estas ne Esperanto, en ĉia okazo la vojo al tiu ellaborota lingvo nepre devas konduki tra Esperanto.]*
 > ---
 > L. L. Zamenhof
 
@@ -79,6 +76,9 @@ En ***Piĝino***, la skriboj varias laŭ ilia pozicio, t.e. ĉu ili estas radiko
 | |
 |-|
 | **paċo** → **pazo** *[paco]* |
+| **vici** *[vici]* |
+| **vice al** *[vice al]* → **vizau** *[vicaŭ]* |
+| **viċo** *[vico]* → **vizumo** *[vicumo]* |
 | |
 | **accento** *[akcento]* → *[aksento]* |
 | **acĉento** *[akĉento]* → **accentumo** *[aksentumo]* |
@@ -284,6 +284,7 @@ En ***akĉenta Piĝino***, **i** kaj **u** inter konsonanto kaj vokalo prononci�
 | |
 |-|
 | **ĉȧelo** *[ĉielo]* → **cielo** *[sielo]* → *[sjelo]* |
+| **fiera** *[fiera]* → *[fjera]* |
 | **piedo** *[piedo]* → *[pjedo]* |
 | |
 | **qualito** *[kvalito]* → *[kŭalito]* |
@@ -293,6 +294,8 @@ En ***akĉenta Piĝino***, **aŭ** prononciĝas *[o]*, dum **aĭ** kaj **eĭ** p
 | |
 |-|
 | **åŭro** *[oro]* → **aŭro** *[=]* → *[oro]* |
+| **aŭsculti** *[aŭskulti]* → *[osculti]* |
+| **caŭsi** *[kaŭzi]* → *[kozo]* |
 | **paŭso** *[paŭzo]* → *[pozo]* |
 | |
 | **maĭo** *[majo]* → *[meo]* |
@@ -303,6 +306,19 @@ En ***akĉenta Piĝino***, **aŭ** prononciĝas *[o]*, dum **aĭ** kaj **eĭ** p
 | **rĩo** *[rojo]* → **rio** *[rio]* |
 | **vĩo** *[vojo]* → **vio** *[vio]* |
 | **vĩajo** *[vojaĝo]* → **viajo** *[viaĝo]* → *[vjaĝo]* |
+| **fīo** *[fojo]* → **vizo** *[vico]* |
+| **viċo** *[vico]* → **vizo** *[vico]* |
+| **viċo** *[vico]* → **vizaro** *[vicaro]* |
+
+En ***akĉenta Piĝino***, la **i** de pronomoj prononciĝas *[oj]*. **tī** *[ci]* prononciĝas *[toj]*.
+
+| |
+|-|
+| **li** *[li]* → *[loj]* |
+| **mia** *[mia]* → *[moja]* |
+| **tīa** *[cia]* → *[toja]* |
+| **ni** *[ni]* → *[noj]* |
+| **vi** *[vi]* → *[voj]* |
 
 ### Itala
 
@@ -359,10 +375,6 @@ En ***franc-akĉenta Piĝino***, prononciĝas *[ĥ]* anstataŭ *[ĵ]*/*[ĝ]*, du
 | **generatīo** *[generacio]* → *[ĵenerasio]* → *[ĥeneraθio]* |
 
 ---
-
-***TODO*** mallonga i en ekzempla teksto
-
-***TODO*** unu ekzemplo
 
 ## Gramatiko
 
