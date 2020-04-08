@@ -1,6 +1,6 @@
 # Piĝino
 
-> **Se ni eĉ supposos, qŭe la fina linguo de la s̈tontaĭ generatīoĭ s̈tas ne S̈peranto, en ĉia occaso la vĩo al tiu ellaborota linguo nepre devas conduqŭi tra S̈peranto.** *[se ni eĉ supozos, ke la fina lingvo de la estontaj generacioj estas ne esperanto, en ĉia okazo la vojo al tiu ellaborota lingvo nepre devas konduki tra esperanto.]* →
+> **Se ni eĉ supposos, qŭe la fina linguo de la s̈tontaĭ generatīoĭ s̈tas ne S̈peranto, en ĉia occaso la vĩo al tiu ellaborota linguo nepre devas conduqŭi tra S̈peranto.** *[Se ni eĉ supozos, ke la fina lingvo de la estontaj generacioj estas ne esperanto, en ĉia okazo la vojo al tiu ellaborota lingvo nepre devas konduki tra esperanto.]* →
 > **Se ni ech supposos, que la fina linguo de la estontai generatioi estas ne Esperanto, en chia occaso la voio al tiu ellaborota linguo nepre devas conduqui tra Esperanto.** *[Se ni eĉ supozos, ke la fina lingvo de la estontaj ĵenerasioj estas ne Esperanto, en ĉia okazo la vojo al tiu ellaborota lingvo nepre devas konduki tra Esperanto.]*
 > ---
 > L. L. Zamenhof
@@ -252,11 +252,9 @@ Samkiel en **aŭ** [aŭ], **ŭ** prononciĝas [ŭ] en **eŭ**. Tra bruo, **y** p
 
 ### Slavaj Vortoj
 
-Kvankam **ĉi** estas origine ***latinida*** vorto, ĝi paralelas la ***slavan*** ŝajnradikon **ĉi-**.
 
 | |
 |-|
-| **ĉi** *[ĉi]* → **ĉhi** |
 | **ĉiu** *[=]* → **ĉhiu** |
 | **ĉu** *[=]* → **ĉhu** |
 | **ekrano** *[=]* |
@@ -325,6 +323,12 @@ En ***akĉenta Piĝino***, la **i** de pronomoj prononciĝas *[oj]*. **tī** *[c
 | **ni** *[ni]* → *[noj]* |
 | **vi** *[vi]* → *[voj]* |
 
+En ***akĉenta Piĝino***, la tabelvorta ŝajnprefikso **ne-** estas ellasebla.
+
+| |
+|-|
+| **ne 'n io** *[nenio]* → **nio** *[=]* |
+
 ### Itala
 
 En ***ital-akĉenta Piĝino***, la ŝajnprefiksoj **de-** kaj **re-** prononciĝas *[di]* kaj *[ri]*.
@@ -384,49 +388,42 @@ En ***franc-akĉenta Piĝino***, prononciĝas *[ĥ]* anstataŭ *[ĵ]*/*[ĝ]*, du
 
 ### Semajno
 
-| | | |
+| Dio | Planedo | Tago |
 |-|-|-|
-| **Ĭupitero** *[jupitero]* → **Jupitero** *[ĵupitero]* | **=** → **Jovo** *[ĵovo]* | ***TODO*** *[ĵaŭdo]* → **jovedio** *[ĵovedio]* |
+| **Ĭupitero** *[jupitero]* → **Jupitero** *[ĵupitero]* | **=** → **Jovo** *[ĵovo]* | **ĵaŭdıo** *[ĵaŭdo]* → **jovedio** *[ĵovedio]* |
 | **Luno** *[=]* | **=** | **lunedio** *[=]* |
-| **Marso** *[=]* | **=** → **Marto** *[=]* | ***TODO*** *[mardo]* → **martedio** *[=]* |
-| **Mercuro** *[merkuro]* | **=** → **Mercro** *[merkro]* | ***TODO*** *[merkredo]* → **mercredio** *[merkredio]* |
-| **Venusso** *[venuso]* | **=** → **Venro** *[=]* | ***TODO*** *[vendredo]* → **venredo** *[=]* |
+| **Marso** *[=]* | **=** → **Marto** *[=]* | **martĕdı** *[mardo]* → **martedio** *[=]* |
+| **Mercuro** *[merkuro]* | **=** → **Mercro** *[merkro]* | ***mercŭredıo*** *[merkredo]* → **mercredio** *[merkredio]* |
+| **Venusso** *[venuso]* | **=** → **Venro** *[=]* | **venĕredıo** *[vendredo]* → **venredio** *[=]* |
 
 ### Tabelvortoj
 
-***TODO*** aĭn io; ne-aĭn io: ne-ain-io - n'ain-io - nenio; ajnaĵo = ajnio; ne ajnio = najnio = nenio
+La tabelvorta ŝajnprefikso **i-** el ***Sprak*** kombiniĝas kun (ŝajn-)finaĵoj formante *tabelvortojn*. La nedifina artikolo **aĭn** el ***Ursprak*** uziĝas por esprimi *indiferentecon*. *(Sprakismo)*
 
-***TODO*** cachi, tuchi, chaci, Martedo
+| |
+|-|
+| **io** *[=]* |
+| |
+| **io aĭn** *[io ajn]* |
+| **ne 'n io** *[nenio]* |
+
+La tabelvortaj ŝajnprefiksoj **qŭ-** kaj **t-** kombiniĝas kun tabelvortoj je **i-**. Kvankam **ĉi** estas origine ***latinida*** vorto, ĝi paralelas la ***slavan*** ŝajnradikon **ĉi-**. Ĝi emfaze esprimas *specifecon*. *(Lingvaismo, Jazikismo)*
+
+| |
+|-|
+| **qŭio** *[kio]* |
+| **tio** *[=]* |
+| |
+| **tio ĉi** *[tio ĉi]* → **tio ĉhi** |
+
+
+
+***TODO*** cachi, tuchi, chaci
 
 ***TODO*** prepositivo: de mim al vim
 
 ---
 
-
-*Sprakismo:* La *tabelvortaj ŝajnprefiksoj* **i-** kaj **ni-** el ***Sprak*** kombiniĝas kun (ŝajn-)finaĵoj formante *tabelvortojn*. Tabelvortoj kun la ŝajnprefikso **ni-** uziĝas kun prefiksita **ne**. En **Prapiĝino**, **ne** estas separebla.
-
-| | Prapiĝino | Piĝino |
-|:-|:-|:-|
-| *Mi vidas nenion.* | **Mi ne vidas nion.** | **Mi vidas nenion.** |
-
-La tabelvortaj prefiksoj **qŭ-** kaj **t-** kombiniĝas kun tabelvortoj je **i-**.
-
-| | |
-|:-|:-|
-| *Kio estas tio?* | **Qŭio estas tio?** |
-
-*Lingvaismo:* **ĉŭi**
-
-| | Linga | Prapiĝino | Piĝino |
-|:-|:-|:-|:-|
-| *ĉi* | **cui** | **ĉŭi** | **ĉi** |
-
-*Sprakismo:* La nedifina artikolo **ain** el ***Ursprak*** uziĝas por esprimi *indiferentecon* aŭ kombine kun tabelvortoj je **qŭ-**.
-
-| | |
-|:-|:-|
-| *Kio ajn povas okazi.* | **Qŭio aĭn povas occasi.** |
-| *Ĉio ajn povas okazi.* | **Ĉio aĭn povas occasi.** |
 
 Ŝajnmalkonstruante la *celan* ŝajnfinaĵo **-en** al **-e**, oni esprimas *lokon*.
 
