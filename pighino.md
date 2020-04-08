@@ -40,11 +40,13 @@ En ***Piĝino***, radikofinaj **tĕ**/**tĭ** *[c]* kaj **ţ** *[s]* skribiĝas 
 
 | |
 |-|
+| **marto** *[marto]* → **marzo** *[marco]* |
 | **potentĭo** → **potenzo** *[potenco]* |
 | **platĕo** → **plazo** *[placo]* |
 | **spatĭo** → **spazo** *[spaco]* |
 | |
 | **Marţo** → **Marso** *[marso]* |
+| **senţo** *[senso]* → **sentumo** *[sentumo]* |
 | |
 | **bestĭo** → **besto** *[besto]* |
 | |
@@ -54,6 +56,7 @@ En ***Piĝino***, radikofinaj **tĕ**/**tĭ** *[c]* kaj **ţ** *[s]* skribiĝas 
 | **natīo** *[nacio]* → *[nasio]* |
 | **patīentĭo** *[pacienco]* → **patīenzo** *[pasienco]* |
 | **potentīalo** *[potencialo]* → *[potensialo]* |
+| **sentĭo** *[senco]* → **senso** *[senso]* |
 
 #### ci, gi, j
 
@@ -87,7 +90,6 @@ En ***Piĝino***, la skriboj varias laŭ ilia pozicio, t.e. ĉu ili estas radiko
 | **çerĉi** → **cerçhi** *[serĉi]* |
 | **ĉessi** *[ĉesi]* → **cessi** *[sesi]* |
 | **concerto** *[koncerto]* → *[konserto]* |
-| **farço** → **farso** *[farso]* |
 | **patīento** *[paciento]* → *[pasiento]* |
 | |
 | **voĉo** → **voçho** *[voĉo]* |
@@ -254,14 +256,15 @@ Kvankam **ĉi** estas origine ***latinida*** vorto, ĝi paralelas la ***slavan**
 
 | |
 |-|
-| **ĉi** → **ĉhi** *[ĉi]* |
-| **ĉiu** → **ĉhiu** *[ĉiu]* |
-| **ĉu** → **ĉhu** *[ĉu]* |
-| **ekrano** *[ekrano]* |
-| **prava** *[prava]* |
-| **nepre** *[nepre]* |
-| **kaĉo** *[kaĉo]* → **kaŝo** *[kaŝo]* |
-| **kolbaso** *[kolbaso]* |
+| **ĉi** *[ĉi]* → **ĉhi** |
+| **ĉiu** *[=]* → **ĉhiu** |
+| **ĉu** *[=]* → **ĉhu** |
+| **ekrano** *[=]* |
+| **prava** *[=]* |
+| **nepre** *[=]* |
+| **kaĉo** *[=]* → **kaŝo** *[=]* |
+| **kolbaso** *[=]* |
+| **koŝmaro** *[=]* |
 | **çaro** = **ċaro** → **tsaro** *[caro]* |
 
 ## Akĉentoj
@@ -270,6 +273,7 @@ En ***akĉenta Piĝino***, latinidaj vortoj ĉie prononciĝas kun *[c]*, *[ĉ]*,
 
 | |
 |-|
+| **ĉhamĕro** *[ĉambro]* → **çhamro** *[ŝamro]* → *[ĉamro]* |
 | **domaĉo** *[=]* → **domaçho** *[domaŝo]* → *[domaĉo]* |
 
 En ***akĉenta Piĝino***, **ct** *[kt]* prononciĝas *[t]*.
@@ -299,6 +303,7 @@ En ***akĉenta Piĝino***, **aŭ** prononciĝas *[o]*, dum **aĭ** kaj **eĭ** p
 | **paŭso** *[paŭzo]* → *[pozo]* |
 | |
 | **maĭo** *[majo]* → *[meo]* |
+| **semaĭno** *[semajno]* → *[semeno]* |
 | **traĭno** *[trajno]* → *[treno]* |
 | |
 | **päĕsajo** → **peĭsajo** *[pejzaĝo]* → *[pezaĵo]* |
@@ -358,6 +363,7 @@ En ***franc-akĉenta Piĝino***, latinidaj vortoj ĉie prononciĝas kun *[s]*, *
 | |
 |-|
 | **caŝi** *[kaŝi]* → **caçhi** *[kaĉi]* → *[kaŝi]* |
+| **farço** *[farso]* → **farzo** *[farco]* → *[farso]* |
 
 La ŝajnsufikso **-in** prononciĝas *[en]*.
 
@@ -374,11 +380,28 @@ En ***franc-akĉenta Piĝino***, prononciĝas *[ĥ]* anstataŭ *[ĵ]*/*[ĝ]*, du
 |-|
 | **generatīo** *[generacio]* → *[ĵenerasio]* → *[ĥeneraθio]* |
 
----
-
 ## Gramatiko
 
+### Semajno
+
+| | | |
+|-|-|-|
+| **Ĭupitero** *[jupitero]* → **Jupitero** *[ĵupitero]* | **=** → **Jovo** *[ĵovo]* | ***TODO*** *[ĵaŭdo]* → **jovedio** *[ĵovedio]* |
+| **Luno** *[=]* | **=** | **lunedio** *[=]* |
+| **Marso** *[=]* | **=** → **Marto** *[=]* | ***TODO*** *[mardo]* → **martedio** *[=]* |
+| **Mercuro** *[merkuro]* | **=** → **Mercro** *[merkro]* | ***TODO*** *[merkredo]* → **mercredio** *[merkredio]* |
+| **Venusso** *[venuso]* | **=** → **Venro** *[=]* | ***TODO*** *[vendredo]* → **venredo** *[=]* |
+
 ### Tabelvortoj
+
+***TODO*** aĭn io; ne-aĭn io: ne-ain-io - n'ain-io - nenio; ajnaĵo = ajnio; ne ajnio = najnio = nenio
+
+***TODO*** cachi, tuchi, chaci, Martedo
+
+***TODO*** prepositivo: de mim al vim
+
+---
+
 
 *Sprakismo:* La *tabelvortaj ŝajnprefiksoj* **i-** kaj **ni-** el ***Sprak*** kombiniĝas kun (ŝajn-)finaĵoj formante *tabelvortojn*. Tabelvortoj kun la ŝajnprefikso **ni-** uziĝas kun prefiksita **ne**. En **Prapiĝino**, **ne** estas separebla.
 
