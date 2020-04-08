@@ -405,7 +405,7 @@ La tabelvorta ŝajnprefikso **i-** el ***Sprak*** kombiniĝas kun (ŝajn-)finaĵ
 | **io** *[=]* |
 | |
 | **io aĭn** *[io ajn]* |
-| **ne 'n io** *[nenio]* |
+| **ne 'n io** *[nenio]* ← **ne aĭn io** *[ne ajn io]* |
 
 La tabelvortaj ŝajnprefiksoj **qŭ-** kaj **t-** kombiniĝas kun tabelvortoj je **i-**. Kvankam **ĉi** estas origine ***latinida*** vorto, ĝi paralelas la ***slavan*** ŝajnradikon **ĉi-**. Ĝi emfaze esprimas *specifecon*. *(Lingvaismo, Jazikismo)*
 
@@ -416,7 +416,7 @@ La tabelvortaj ŝajnprefiksoj **qŭ-** kaj **t-** kombiniĝas kun tabelvortoj je
 | |
 | **tio ĉi** *[tio ĉi]* → **tio ĉhi** |
 
-
+---
 
 ***TODO*** cachi, tuchi, chaci
 
