@@ -417,14 +417,6 @@ En ***franc-akĉenta Piĝino***, prononciĝas *[ĥ]* anstataŭ *[ĵ]*/*[ĝ]*, du
 
 ---
 
-
-Ŝajnmalkonstruante la *celan* ŝajnfinaĵo **-en** al **-e**, oni esprimas *lokon*.
-
-| | |
-|:-|:-|
-| *Kie vi estas?* | **Qŭie vi estas?** |
-| *Kien vi iras?* | **Qŭien vi iras?** |
-
 *Lingvaismo:* La pronoma ŝajnfinaĵo **-u** fariĝas la tabelvorta ŝajnfinaĵo por *individu(aĵ)oj*.
 
 | | |
@@ -491,12 +483,6 @@ Adjektivoj havas la samajn finaĵojn por *multenombro* kaj *akuzativo* kiel la s
 | | Lingua | Piĝino |
 |:-|:-|:-|
 | *hodiaŭ* | **hodĭe** | **hodiał** |
-
-*Novlingvaismo:* La *imperativa* finaĵo **-en** fariĝas *cela* finaĵo.
-
-| | Neolingua | Piĝino |
-|:-|:-|:-|
-| *Al la laboro!* / *Laboren!* | **Al la lavoro!** / **Lavori!** → **Al la lavoro!** / **Lavoren!** | **Al la laboro!** / **Laboren!** |
 
 #### Verboj
 

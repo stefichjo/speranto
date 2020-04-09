@@ -350,6 +350,13 @@ Por *futuro*, *prezenco*, *preterito* oni povas uzi la frazerojn **vade ad**, **
 | *Mi legis. / Mi estas leginta.* | Mu **veni de** lege. | Mu **legin**. / Mu **essan leginta**. | | |
 | *Legu!* | **Lege!** | **Legen!** |
 
+***Piĝino*** pruntas la *imperativan*/*volitivan* finaĵon **-en**, origine kiel *alativan*/*dativan* finaĵon. Mallongigante al **-n**, ĝi fariĝas *alativa*/*akuzativa* finaĵo. Tial **-en** estas ŝajnmalkonstruebla al **-e** + **-n**; pro kio **-e** fariĝas *lokativa*/*instrumentala* ŝajnfinaĵo.
+
+| | Neolingua | Piĝino |
+|-|-|-|
+| *Laboru!* | *Laboren!* | |
+| *Al la laboro!* | | *Laboren!* |
+
 La *pasivo* estas malregulaj adjektivoj je **-t** aŭ **-s**. (Kaj **esse** *(esti)* kaj **sta** *(stari)* havas la participon **stata**.)
 
 *Neolingua:* La sufiksoj por *pasivo* estas **-ot-**, **-at-**, **-it-**.
