@@ -113,6 +113,14 @@ La adverboj **æ** [ɛ:] *(jes)* kaj **næ** [nɛ:] *(ne)* uziĝas prefiksece ki
 | *(loko)* *-e* | **hir** [hi:r] | **dar** [da:r] | **wer** [we:r] | **iwer** ['i:we:r] | **niwer** ['ni:we:r] |
 | *(tempo)* *-am* | **hin** [hɪn] | **dan** [dan] | **wen** [wɛn] | **iwen** ['i:wɛn] | **niwen** ['ni:wɛn] |
 
+La ŝajnprefikso **i-** [i:] uziĝas en ***Piĝino*** por formi tabelvortojn.
+
+| |
+|-|
+| **io** *[=]* |
+| **aĭn io** *[ajn io]* = **io aĭn** *[io ajn]* |
+| **ne 'n io** *[nenio]* |
+
 *Nysprak:* La korelativaj prefiksoj **i-** kaj **ni-** estas uzeblaj ankaŭ kun radikaj vortoj.
 
 * **niting** *(neniaĵo, nenio)*

@@ -400,23 +400,16 @@ En ***franc-akĉenta Piĝino***, prononciĝas *[ĥ]* anstataŭ *[ĵ]*/*[ĝ]*, du
 
 ### Tabelvortoj
 
-La tabelvorta ŝajnprefikso **i-** el ***Sprak*** kombiniĝas kun (ŝajn-)finaĵoj formante *tabelvortojn*. La nedifina artikolo **aĭn** el ***Ursprak*** uziĝas por esprimi *indiferentecon*. *(Sprakismo)*
+| | | | | |
+|-|-|-|-|-|
+| **io** *[io]* | **kio** *[=]* → **qŭio** | **tio** *[=]* | **ĉio** *[=]* → **ĉhio** | **ne 'n io** *[nenio]* → **nenio** |
+
+**aĭn** uziĝas por esprimi *indiferentecon*, dum **ĉi** *[=]* → **ĉhi** uziĝas por esprimi *specifecon*. (Kvankam **ĉi** estas origine ***latinida*** vorto, ĝi paralelas la ***slavan*** ŝajnradikon **ĉi-**.)
 
 | |
 |-|
-| **io** *[=]* |
-| |
 | **io aĭn** *[io ajn]* |
-| **ne 'n io** *[nenio]* ← **ne aĭn io** *[ne ajn io]* |
-
-La tabelvortaj ŝajnprefiksoj **qŭ-** kaj **t-** kombiniĝas kun tabelvortoj je **i-**. Kvankam **ĉi** estas origine ***latinida*** vorto, ĝi paralelas la ***slavan*** ŝajnradikon **ĉi-**. Ĝi emfaze esprimas *specifecon*. *(Lingvaismo, Jazikismo)*
-
-| |
-|-|
-| **qŭio** *[kio]* |
-| **tio** *[=]* |
-| |
-| **tio ĉi** *[tio ĉi]* → **tio ĉhi** |
+| **tio ĉi** *[=]* → **tio ĉhi** |
 
 ---
 
