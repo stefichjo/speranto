@@ -211,6 +211,12 @@ Pronomoj havas la ŝajnfinaĵon **-u**. La persona pronomo **lu** uziĝas por *e
 |**nu**|**vu**|**ilu**|
 |*(ni)*|*(vi)*|*(ili)*|
 
+***Piĝino*** pruntas ŝajnfinaĵon **-u** kiel tabelvortan ŝajnfinaĵon por *individu(aĵ)oj*.
+
+| | Piĝino |
+|:-|:-|
+| *iu* | **iu** |
+
 *Archelingua:* La *multenombraj* pronomoj havis la ŝajnfinaĵon **-i**.
 
 | | Archelingua | Lingua |
@@ -308,10 +314,36 @@ Substantivo estas adjektivigebla pere de la ŝajnfinaĵo **-ale**.
 
 * **bestiale** *(en maniero de besto, kvazaŭbesta, bestiala)*
 
+***Piĝino*** pruntas la ŝajnfinaĵon **-ale** kiel la tabelvortan finaĵon **-al** *[al]* respektive **-äl** *[el]*.
+
+| | Linga | Piĝino |
+|:-|:-|:-|
+| *kial* | **qŭale** | **kial** → **qŭial** |
+| *kiel* | **qŭale** | **kiäl** → **qŭiel** |
+
 Adverboj formiĝas kun **-mente**.
 
 * **bonamente** *(bone)*
 * **bestialemente** *(bestiale)*
+
+*Vico* esprimiĝas pere de la ŝajnfinaĵo **-esĭma**.
+
+| | |
+|-|-|
+| *mila* | **millesma** |
+
+***Piĝino*** pruntas la ŝajnfinaĵon **-esĭma** kiel la tabelvortan ŝajnfinaĵon **-es** por *posedo*.
+
+| | Linga | Piĝino |
+|:-|:-|:-|
+| *kies* | **qŭesma** | **kies** *[=]* → **qŭies** |
+
+***Piĝino*** pruntas la ŝajnfinaĵojn **-ande** kaj **-ante** kiel la tabelvortajn ŝajnfinaĵojn **-añ** *[am]* kaj **-åñ** *[om]*.
+
+| | Linga | Piĝino |
+|:-|:-|:-|
+| *kiam* | **qŭande** | **kiañ** → **qŭiam** |
+| *kiom* | **qŭande** | **kiåñ** → **qŭiåm** |
 
 *Neolingua:* Adverboj havas la finaĵon **-e**. Por esprimi *celon* uziĝas la ŝajnfinaĵo **-i**.
 

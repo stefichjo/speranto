@@ -393,12 +393,14 @@ En ***franc-akĉenta Piĝino***, prononciĝas *[ĥ]* anstataŭ *[ĵ]*/*[ĝ]*, du
 | Dio | Planedo | Tago |
 |-|-|-|
 | **Ĭupitero** *[jupitero]* → **Jupitero** *[ĵupitero]* | **=** → **Jovo** *[ĵovo]* | **ĵaŭdıo** *[ĵaŭdo]* → **jovedio** *[ĵovedio]* |
-| **Luno** *[=]* | **=** | **lunedio** *[=]* |
+| **Luno** *[=]* | **=** | **lunĕdıo** *[lundo]* → **lunedio** *[=]* |
 | **Marso** *[=]* | **=** → **Marto** *[=]* | **martĕdı** *[mardo]* → **martedio** *[=]* |
 | **Mercuro** *[merkuro]* | **=** → **Mercro** *[merkro]* | ***mercŭredıo*** *[merkredo]* → **mercredio** *[merkredio]* |
 | **Venusso** *[venuso]* | **=** → **Venro** *[=]* | **venĕredıo** *[vendredo]* → **venredio** *[=]* |
 
 ### Tabelvortoj
+
+***TODO*** link sprak
 
 | | | | | |
 |-|-|-|-|-|
@@ -411,29 +413,7 @@ En ***franc-akĉenta Piĝino***, prononciĝas *[ĥ]* anstataŭ *[ĵ]*/*[ĝ]*, du
 | **io aĭn** *[io ajn]* |
 | **tio ĉi** *[=]* → **tio ĉhi** |
 
----
-
-***TODO*** prepositivo: de mim al vim
-
----
-
-*Lingvaismo:* La pronoma ŝajnfinaĵo **-u** fariĝas la tabelvorta ŝajnfinaĵo por *individu(aĵ)oj*.
-
-| | |
-|:-|:-|
-| *iu* | **iu** |
-
-*Lingvaismo:* La tabelvortaj ŝajnfinaĵoj **-ale** kaj **-esma** fariĝas **-al** (respektive **-äl**) kaj **-es**. La tabelvorta ŝajnfinaĵo **-ande** unue fariĝis **-an** kaj poste **-am**. Analogie, la tabelvorta ŝajnsufikso **-ante** fariĝas **-åm** [om].
-
-| | Linga | Piĝino |
-|:-|:-|:-|
-| *kial* | **qŭale** | **qŭial** |
-| *kiel* | **qŭale** | **qŭiäl** |
-| | | |
-| *kies* | **qŭesma** | **qŭies** |
-| | | |
-| *kiam* | **qŭande** | **qŭiam** |
-| *kiom* | **qŭande** | **qŭiåm** |
+***TODO*** link lingua
 
 #### Artikoloj
 

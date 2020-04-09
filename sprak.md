@@ -189,6 +189,12 @@ Personaj pronomoj havas apartajn kazajn finaĵojn respektive formojn.
 | *(akuz-/dativo)* | **mi** [mi:] | **di** [di:] | **hum** [hʊm] | **ham** [ham] | **ons** [ɔns] | **ju** [ju:] |
 | *(genitivo)* | **min** [mi:n] | **din** [di:n] | **huns** [hʊns] | **hans** [hans] | **onser** ['ɔnsər] | **jur** [ju:r] |
 
+***Piĝino*** pruntas la ŝajnfinaĵon **-m**, origine kiel *prepozitivan* finaĵon ***tra bruo***.
+
+| | |
+|-|-|
+| *al kiu* | **al kiu** *[]* ← **al kium** → **al qŭiu** |
+
 ### Artikoloj
 
 La difina artikolo kaj por ununombro kaj por multenombro estas **de** [də]. La nedifina artikolo **en** [ən] estas nur por ununombro.
