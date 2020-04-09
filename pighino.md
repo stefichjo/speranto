@@ -327,7 +327,7 @@ En ***akĉenta Piĝino***, la tabelvorta ŝajnprefikso **ne-** estas ellasebla.
 
 | |
 |-|
-| **ne 'n io** *[nenio]* → **nio** *[=]* |
+| **nenio** *[nenio]* ← **ne 'n io** → **nio** *[=]* |
 
 ### Itala
 
@@ -367,7 +367,9 @@ En ***franc-akĉenta Piĝino***, latinidaj vortoj ĉie prononciĝas kun *[s]*, *
 | |
 |-|
 | **caŝi** *[kaŝi]* → **caçhi** *[kaĉi]* → *[kaŝi]* |
+| **ĉhaţi** *[ĉasi]* → **çhaci** *[ŝaci]* → *[ŝasi]* |
 | **farço** *[farso]* → **farzo** *[farco]* → *[farso]* |
+| **tuŝi** *[tuŝi]* → **tuçhi** *[tuĉi]* → *[tuŝi]* |
 
 La ŝajnsufikso **-in** prononciĝas *[en]*.
 
@@ -417,8 +419,6 @@ La tabelvortaj ŝajnprefiksoj **qŭ-** kaj **t-** kombiniĝas kun tabelvortoj je
 | **tio ĉi** *[tio ĉi]* → **tio ĉhi** |
 
 ---
-
-***TODO*** cachi, tuchi, chaci
 
 ***TODO*** prepositivo: de mim al vim
 
