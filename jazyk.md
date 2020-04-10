@@ -30,5 +30,12 @@ Postkonsonanta **ŭ** [w] fariĝas **v** [v]. Tial, **qŭ** [kw] fariĝas **kv**
 | *Eŭropo* | **Европа** | **Europa** | **Eŭropa** |
 | *kvadrato* | **квадрат** | **kwadrat** | **kvadrat** |
 
+***TODO***
  
+**aĭn** uziĝas por esprimi *indiferentecon*, dum **ĉi** *[=]* → **ĉhi** uziĝas por esprimi *specifecon*. (Kvankam **ĉi** estas origine ***latinida*** vorto, ĝi paralelas la ***slavan*** ŝajnradikon **ĉi-**.)
+
+| |
+|-|
+| **io aĭn** *[io ajn]* |
+| **tio ĉi** *[=]* → **tio ĉhi** |
 

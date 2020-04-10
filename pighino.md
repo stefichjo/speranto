@@ -1,10 +1,7 @@
 # Piĝino
 
-> Se ni eĉ supposos, qŭe la fina linguo de la estontaĭ generatīoĭ estas ne Esperanto, en ĉia occaso la voĭo al tiu ellaborota linguo nepre devas conduqŭi tra Esperanto.
-> ---
-> L. L. Zamenhof
-
-> Se ni eçh supposos, qŭe la fina linguo de la estontai generatioi estas ne Esperanto, en ĉhia occaso la voĭo al tiu ellaborota linguo nepre devas conduqŭi tra Esperanto. *[Se ni eĉ supozos, ke la fina lingvo de la estontaj ĵeneracioj estas ne Esperanto, en ĉia okazo la vojo al tiu ellaborota lingvo nepre devas konduki tra Esperanto.]*
+> **Se ni eĉ supposos, qŭe la fina linguo de la s̈tontaĭ generatīoĭ s̈tas ne S̈peranto, en ĉia occaso la vĩo al tiu ellaborota linguo nepre devas conduqŭi tra S̈peranto.** *[Se ni eĉ supozos, ke la fina lingvo de la estontaj generacioj estas ne esperanto, en ĉia okazo la vojo al tiu ellaborota lingvo nepre devas konduki tra esperanto.]* →
+> **Se ni ech supposos, que la fina linguo de la estontai generatioi estas ne Esperanto, en chia occaso la voio al tiu ellaborota linguo nepre devas conduqui tra Esperanto.** *[Se ni eĉ supozos, ke la fina lingvo de la estontaj ĵenerasioj estas ne Esperanto, en ĉia okazo la vojo al tiu ellaborota lingvo nepre devas konduki tra Esperanto.]*
 > ---
 > L. L. Zamenhof
 
@@ -35,6 +32,14 @@ Sago (→) signifas diferencon inter ***Prapiĝino*** kaj ***Piĝino***, ĉu ort
 |-|
 | **legi** → **legŭi** *[legi]* |
 
+| Dio | Planedo | Tago |
+|-|-|-|
+| **Ĭupitero** *[jupitero]* → **Jupitero** *[ĵupitero]* | **=** → **Jovo** *[ĵovo]* | **ĵaŭdıo** *[ĵaŭdo]* → **jovedio** *[ĵovedio]* |
+| **Luno** *[=]* | **=** | **lunĕdıo** *[lundo]* → **lunedio** *[=]* |
+| **Marso** *[=]* | **=** → **Marto** *[=]* | **martĕdı** *[mardo]* → **martedio** *[=]* |
+| **Mercuro** *[merkuro]* | **=** → **Mercro** *[merkro]* | ***mercŭredıo*** *[merkredo]* → **mercredio** *[merkredio]* |
+| **Venusso** *[venuso]* | **=** → **Venro** *[=]* | **venĕredıo** *[vendredo]* → **venredio** *[=]* |
+
 ### Latinidaj Vortoj
 
 #### ti
@@ -43,11 +48,13 @@ En ***Piĝino***, radikofinaj **tĕ**/**tĭ** *[c]* kaj **ţ** *[s]* skribiĝas 
 
 | |
 |-|
+| **marto** *[marto]* → **marzo** *[marco]* |
 | **potentĭo** → **potenzo** *[potenco]* |
 | **platĕo** → **plazo** *[placo]* |
 | **spatĭo** → **spazo** *[spaco]* |
 | |
 | **Marţo** → **Marso** *[marso]* |
+| **senţo** *[senso]* → **sentumo** *[sentumo]* |
 | |
 | **bestĭo** → **besto** *[besto]* |
 | |
@@ -57,6 +64,7 @@ En ***Piĝino***, radikofinaj **tĕ**/**tĭ** *[c]* kaj **ţ** *[s]* skribiĝas 
 | **natīo** *[nacio]* → *[nasio]* |
 | **patīentĭo** *[pacienco]* → **patīenzo** *[pasienco]* |
 | **potentīalo** *[potencialo]* → *[potensialo]* |
+| **sentĭo** *[senco]* → **senso** *[senso]* |
 
 #### ci, gi, j
 
@@ -79,6 +87,9 @@ En ***Piĝino***, la skriboj varias laŭ ilia pozicio, t.e. ĉu ili estas radiko
 | |
 |-|
 | **paċo** → **pazo** *[paco]* |
+| **vici** *[vici]* |
+| **vice al** *[vice al]* → **vizau** *[vicaŭ]* |
+| **viċo** *[vico]* → **vizumo** *[vicumo]* |
 | |
 | **accento** *[akcento]* → *[aksento]* |
 | **acĉento** *[akĉento]* → **accentumo** *[aksentumo]* |
@@ -87,7 +98,6 @@ En ***Piĝino***, la skriboj varias laŭ ilia pozicio, t.e. ĉu ili estas radiko
 | **çerĉi** → **cerçhi** *[serĉi]* |
 | **ĉessi** *[ĉesi]* → **cessi** *[sesi]* |
 | **concerto** *[koncerto]* → *[konserto]* |
-| **farço** → **farso** *[farso]* |
 | **patīento** *[paciento]* → *[pasiento]* |
 | |
 | **voĉo** → **voçho** *[voĉo]* |
@@ -250,18 +260,19 @@ Samkiel en **aŭ** [aŭ], **ŭ** prononciĝas [ŭ] en **eŭ**. Tra bruo, **y** p
 
 ### Slavaj Vortoj
 
-Kvankam **ĉi** estas origine ***latinida*** vorto, ĝi paralelas la ***slavan*** ŝajnradikon **ĉi-**.
-
 | |
 |-|
-| **ĉi** → **ĉhi** *[ĉi]* |
-| **ĉiu** → **ĉhiu** *[ĉiu]* |
-| **ĉu** → **ĉhu** *[ĉu]* |
-| **ekrano** *[ekrano]* |
-| **prava** *[prava]* |
-| **nepre** *[nepre]* |
-| **kaĉo** *[kaĉo]* → **kaŝo** *[kaŝo]* |
-| **kolbaso** *[kolbaso]* |
+| **ĉiu** *[=]* → **ĉhiu** |
+| **ĉu** *[=]* → **ĉhu** |
+| **ekrano** *[=]* |
+| **prava** *[=]* |
+| **nepre** *[=]* |
+| **kaĉo** *[=]* → **kaŝo** *[=]* |
+| **kolbaso** *[=]* |
+| **koŝmaro** *[=]* |
+| **krom** *[=]* |
+| **na** *[=]* |
+| **pri** *[=]* |
 | **çaro** = **ċaro** → **tsaro** *[caro]* |
 
 ## Akĉentoj
@@ -270,6 +281,7 @@ En ***akĉenta Piĝino***, latinidaj vortoj ĉie prononciĝas kun *[c]*, *[ĉ]*,
 
 | |
 |-|
+| **ĉhamĕro** *[ĉambro]* → **çhamro** *[ŝamro]* → *[ĉamro]* |
 | **domaĉo** *[=]* → **domaçho** *[domaŝo]* → *[domaĉo]* |
 
 En ***akĉenta Piĝino***, **ct** *[kt]* prononciĝas *[t]*.
@@ -284,6 +296,7 @@ En ***akĉenta Piĝino***, **i** kaj **u** inter konsonanto kaj vokalo prononci�
 | |
 |-|
 | **ĉȧelo** *[ĉielo]* → **cielo** *[sielo]* → *[sjelo]* |
+| **fiera** *[fiera]* → *[fjera]* |
 | **piedo** *[piedo]* → *[pjedo]* |
 | |
 | **qualito** *[kvalito]* → *[kŭalito]* |
@@ -293,9 +306,12 @@ En ***akĉenta Piĝino***, **aŭ** prononciĝas *[o]*, dum **aĭ** kaj **eĭ** p
 | |
 |-|
 | **åŭro** *[oro]* → **aŭro** *[=]* → *[oro]* |
+| **aŭsculti** *[aŭskulti]* → *[osculti]* |
+| **caŭsi** *[kaŭzi]* → *[kozo]* |
 | **paŭso** *[paŭzo]* → *[pozo]* |
 | |
 | **maĭo** *[majo]* → *[meo]* |
+| **semaĭno** *[semajno]* → *[semeno]* |
 | **traĭno** *[trajno]* → *[treno]* |
 | |
 | **päĕsajo** → **peĭsajo** *[pejzaĝo]* → *[pezaĵo]* |
@@ -303,6 +319,33 @@ En ***akĉenta Piĝino***, **aŭ** prononciĝas *[o]*, dum **aĭ** kaj **eĭ** p
 | **rĩo** *[rojo]* → **rio** *[rio]* |
 | **vĩo** *[vojo]* → **vio** *[vio]* |
 | **vĩajo** *[vojaĝo]* → **viajo** *[viaĝo]* → *[vjaĝo]* |
+| **fīo** *[fojo]* → **vizo** *[vico]* |
+| **viċo** *[vico]* → **vizo** *[vico]* |
+| **viċo** *[vico]* → **vizaro** *[vicaro]* |
+
+En ***akĉenta Piĝino***, la **i** de pronomoj prononciĝas *[oj]*. **tī** *[ci]* prononciĝas *[toj]*.
+
+| |
+|-|
+| **li** *[li]* → *[loj]* |
+| **mia** *[mia]* → *[moja]* |
+| **tīa** *[cia]* → *[toja]* |
+| **ni** *[ni]* → *[noj]* |
+| **vi** *[vi]* → *[voj]* |
+
+En ***akĉenta Piĝino***, la tabelvorta ŝajnprefikso **ne-** estas ellasebla.
+
+| |
+|-|
+| **nenio** *[nenio]* ← **ne 'n io** → **nio** *[=]* |
+
+***TODO***
+
+*Lingvaismo:* La *cela* finaĵo **-en** mallongiĝas al **-n** kaj fariĝas finaĵo por *akuzativo*. *Tra bruo*, uziĝas anstataŭe la (neologisma) *akuzativa* prepozicio **a**.
+
+| | Piĝino |
+|:-|:-|
+| *Mi vidas domon.* | **Mi vidas domon.** ← **Mi vidas a domo.** |
 
 ### Itala
 
@@ -342,6 +385,9 @@ En ***franc-akĉenta Piĝino***, latinidaj vortoj ĉie prononciĝas kun *[s]*, *
 | |
 |-|
 | **caŝi** *[kaŝi]* → **caçhi** *[kaĉi]* → *[kaŝi]* |
+| **ĉhaţi** *[ĉasi]* → **çhaci** *[ŝaci]* → *[ŝasi]* |
+| **farço** *[farso]* → **farzo** *[farco]* → *[farso]* |
+| **tuŝi** *[tuŝi]* → **tuçhi** *[tuĉi]* → *[tuŝi]* |
 
 La ŝajnsufikso **-in** prononciĝas *[en]*.
 
@@ -358,167 +404,3 @@ En ***franc-akĉenta Piĝino***, prononciĝas *[ĥ]* anstataŭ *[ĵ]*/*[ĝ]*, du
 |-|
 | **generatīo** *[generacio]* → *[ĵenerasio]* → *[ĥeneraθio]* |
 
----
-
-***TODO*** mallonga i en ekzempla teksto
-
-***TODO*** unu ekzemplo
-
-## Gramatiko
-
-### Tabelvortoj
-
-*Sprakismo:* La *tabelvortaj ŝajnprefiksoj* **i-** kaj **ni-** el ***Sprak*** kombiniĝas kun (ŝajn-)finaĵoj formante *tabelvortojn*. Tabelvortoj kun la ŝajnprefikso **ni-** uziĝas kun prefiksita **ne**. En **Prapiĝino**, **ne** estas separebla.
-
-| | Prapiĝino | Piĝino |
-|:-|:-|:-|
-| *Mi vidas nenion.* | **Mi ne vidas nion.** | **Mi vidas nenion.** |
-
-La tabelvortaj prefiksoj **qŭ-** kaj **t-** kombiniĝas kun tabelvortoj je **i-**.
-
-| | |
-|:-|:-|
-| *Kio estas tio?* | **Qŭio estas tio?** |
-
-*Lingvaismo:* **ĉŭi**
-
-| | Linga | Prapiĝino | Piĝino |
-|:-|:-|:-|:-|
-| *ĉi* | **cui** | **ĉŭi** | **ĉi** |
-
-*Sprakismo:* La nedifina artikolo **ain** el ***Ursprak*** uziĝas por esprimi *indiferentecon* aŭ kombine kun tabelvortoj je **qŭ-**.
-
-| | |
-|:-|:-|
-| *Kio ajn povas okazi.* | **Qŭio aĭn povas occasi.** |
-| *Ĉio ajn povas okazi.* | **Ĉio aĭn povas occasi.** |
-
-Ŝajnmalkonstruante la *celan* ŝajnfinaĵo **-en** al **-e**, oni esprimas *lokon*.
-
-| | |
-|:-|:-|
-| *Kie vi estas?* | **Qŭie vi estas?** |
-| *Kien vi iras?* | **Qŭien vi iras?** |
-
-*Lingvaismo:* La pronoma ŝajnfinaĵo **-u** fariĝas la tabelvorta ŝajnfinaĵo por *individu(aĵ)oj*.
-
-| | |
-|:-|:-|
-| *iu* | **iu** |
-
-*Lingvaismo:* La tabelvortaj ŝajnfinaĵoj **-ale** kaj **-esma** fariĝas **-al** (respektive **-äl**) kaj **-es**. La tabelvorta ŝajnfinaĵo **-ande** unue fariĝis **-an** kaj poste **-am**. Analogie, la tabelvorta ŝajnsufikso **-ante** fariĝas **-åm** [om].
-
-| | Linga | Piĝino |
-|:-|:-|:-|
-| *kial* | **qŭale** | **qŭial** |
-| *kiel* | **qŭale** | **qŭiäl** |
-| | | |
-| *kies* | **qŭesma** | **qŭies** |
-| | | |
-| *kiam* | **qŭande** | **qŭiam** |
-| *kiom* | **qŭande** | **qŭiåm** |
-
-#### Artikoloj
-
-### Pronomoj
-
-***Lingvaismo:*** Samkiel la (multenombraj) pronomoj en ***Archelingua***, pronomoj en ***Piĝino*** havas la ŝajnfinaĵon **-i** (kaj en ununombro kaj en multenombro).
-
-| | Archelingua | Lingua | Piĝino |
-|:-|:-|:-|:-|
-| *vi* | **vi** | **vu** | **vi** |
-| *ci* | **tu** | **tu** | **tī** |
-
-*Tra bruo:* La *cela* finaĵo **-en** uziĝas por *akuzativo*. *Sen bruo*, ĝi mallongiĝas al **-n**.
-
-| | Piĝino |
-|:-|:-|
-| *Mi aŭdas ilin.* | **Mi aŭdas ilin.** ← **Mi aŭdas ili-en.** |
-
-### Radikaj Vortoj
-
-#### Substantivoj
-
-*Lingvaismo:* La pronoma ŝajnsufikso **-i** por *multenombraj* pronomoj en ***Archelingua*** fariĝas la finaĵo **-ĭ** [j] por *multenombro*.
-
-| | Piĝino |
-|:-|:-|
-| *amikoj* | **amicoĭ** |
-
-*Lingvaismo:* La *cela* finaĵo **-en** mallongiĝas al **-n** kaj fariĝas finaĵo por *akuzativo*. *Tra bruo*, uziĝas anstataŭe la (neologisma) *akuzativa* prepozicio **a**.
-
-| | Piĝino |
-|:-|:-|
-| *Mi vidas domon.* | **Mi vidas domon.** ← **Mi vidas a domo.** |
-
-#### Adjektivoj
-
-Adjektivoj havas la samajn finaĵojn por *multenombro* kaj *akuzativo* kiel la substantivoj.
-
-| | Piĝino |
-|:-|:-|
-| *Mi havas multajn amikojn.* | **Mi havas multaĭn amicoĭn.** |
-
-#### Adverboj
-
-*Lingvaismo:* La ŝajnsufikso **-al-** fariĝas **-ał** [aŭ] ĉe kelkaj *adverboj*.
-
-| | Lingua | Piĝino |
-|:-|:-|:-|
-| *hodiaŭ* | **hodĭe** | **hodiał** |
-
-*Novlingvaismo:* La *imperativa* finaĵo **-en** fariĝas *cela* finaĵo.
-
-| | Neolingua | Piĝino |
-|:-|:-|:-|
-| *Al la laboro!* / *Laboren!* | **Al la lavoro!** / **Lavori!** → **Al la lavoro!** / **Lavoren!** | **Al la laboro!** / **Laboren!** |
-
-#### Verboj
-
-*Lingvaismo:*
- La *vokativa* finaĵo **-u** fariĝas *imperativa* finaĵo.
-
-| | Neolingua | Piĝino |
-|:-|:-|:-|
-| *Helpu!* | **Adjuven!** → **Adjuvu!** | **Helpu!** |
- 
-*Novlingvaismo:* La *trabrua infinitiva* ŝajnfinaĵo **-s'** fariĝas *verba* ŝajnfinaĵo. La *cela* finaĵo **-i** fariĝas *infinitiva* finaĵo.
-
-| | Neolingua | Piĝino |
-|:-|:-|:-|
-| *Mi helpas vin.* | ← **Mu adjuvas' tu.** | **Mi helpas vin.** |
-| | | |
-| *Mi iras dormi.* | ← **Mu vades' dormi.** | **Mi iras dormi.** |
-
-#### Prepozicioj
-
-*Jazikismo:* (neologisma) **na**
-
-| | Äzyk | Piĝino |
-|:-|:-|:-|
-| *na* | **na** | **na** |
-| *krom* | **krom** | **krom** |
-| *pri* | **pri** | **pri** |
-
-| | Piĝino |
-|:-|:-|
-| *ludi la gitaron* | **ludi la gitarron** ← **ludi na la gitarro** |
-
-*Tra bruo*, uziĝas **a** aŭ, anstataŭe, **na**.
-
-| | Piĝino |
-|:-|:-|
-| *Mi vidas vin.* | **Mi vidas a vi.** ← **Mi vidas na vi.** |
-
-*Lingvaismo:* La lokaj prepozicioj **ad**, **in**, **de** kaj la ne-lokaj prepozicioj **al**, **en**, **di** el ***Neolingua*** unuiĝas al **al**, **en**, **de** en ***Piĝino***.
-
-| | Neolingua | Piĝino |
-|:-|:-|:-|
-| *al*, *en*, *de* | **ad**/**al**, **in**/**en**, **de**/**di** | **al**, **en**, **de** |
-
-*Lingvaismo:* La prepoziciaĵa ŝajnfinaĵo **' al** fariĝas **' ał** [aŭ].
-
-| | Lingua | Neolingua | Piĝino |
-|:-|:-|:-|:-|
-| *ĉirkaŭ* | **ĉirc' ad** | **zirc' al** | **ĉirc' ał** |
-| *ĉirkaŭo* | **ĉircada** | **zircalo** | **ĉircało** |

@@ -211,6 +211,12 @@ Pronomoj havas la ŝajnfinaĵon **-u**. La persona pronomo **lu** uziĝas por *e
 |**nu**|**vu**|**ilu**|
 |*(ni)*|*(vi)*|*(ili)*|
 
+***Piĝino*** pruntas la ŝajnfinaĵon **-u** kiel tabelvortan ŝajnfinaĵon por *individu(aĵ)oj*.
+
+| | Piĝino |
+|:-|:-|
+| *iu* | **iu** |
+
 *Archelingua:* La *multenombraj* pronomoj havis la ŝajnfinaĵon **-i**.
 
 | | Archelingua | Lingua |
@@ -218,6 +224,21 @@ Pronomoj havas la ŝajnfinaĵon **-u**. La persona pronomo **lu** uziĝas por *e
 | *ni* | **ni** | **nu** |
 | *vi* | **vi** | **vu** |
 | *ili* | **li** | **ilu** |
+
+***TODO***
+
+*Lingvaismo:* La pronoma ŝajnsufikso **-i** por *multenombraj* pronomoj en ***Archelingua*** fariĝas la finaĵo **-ĭ** [j] por *multenombro*.
+
+| | Piĝino |
+|:-|:-|
+| *amikoj* | **amicoĭ** |
+
+***Lingvaismo:*** Samkiel la (multenombraj) pronomoj en ***Archelingua***, pronomoj en ***Piĝino*** havas la ŝajnfinaĵon **-i** (kaj en ununombro kaj en multenombro).
+
+| | Archelingua | Lingua | Piĝino |
+|:-|:-|:-|:-|
+| *vi* | **vi** | **vu** | **vi** |
+| *ci* | **tu** | **tu** | **tī** |
 
 Pere de la ŝajnfinaĵo **-a** formiĝas *posesivaj pronomoj*.
 
@@ -238,6 +259,15 @@ Substantivoj estas baze nombre kaj genre *neŭtraj*, t.e. ili ne distingiĝas la
 |-|-|-|-|
 |**Amicu!**|**Amici!**|**Amica!**|**Amico!**|
 |*(Amiko!)*|*(Amikoj!)*|*(Amikino!)*|*(Vir-amiko!)*|
+
+***TODO***
+
+*Lingvaismo:*
+ La *vokativa* finaĵo **-u** fariĝas *imperativa* finaĵo.
+
+| | Neolingua | Piĝino |
+|:-|:-|:-|
+| *Helpu!* | **Adjuven!** → **Adjuvu!** | **Helpu!** |
 
 La ŝajnfinaĵoj **-a** kaj **-o** uziĝas ĉe nomoj por distingi inter la genroj.
 
@@ -308,10 +338,38 @@ Substantivo estas adjektivigebla pere de la ŝajnfinaĵo **-ale**.
 
 * **bestiale** *(en maniero de besto, kvazaŭbesta, bestiala)*
 
+***Piĝino*** pruntas la ŝajnfinaĵon **-ale** kiel la tabelvortan finaĵon **-al** *[al]* respektive **-äl** *[el]*, kaj kiel la adverban ŝajnfinaĵon **-ał** *[aŭ]*.
+
+| | Linga | Piĝino |
+|:-|:-|:-|
+| *kial* | **qŭale** | **kial** → **qŭial** |
+| *kiel* | **qŭale** | **kiäl** → **qŭiel** |
+| | | |
+| *hodiaŭ* | **hodĭe** | **hodiał** |
+
 Adverboj formiĝas kun **-mente**.
 
 * **bonamente** *(bone)*
 * **bestialemente** *(bestiale)*
+
+*Vico* esprimiĝas pere de la ŝajnfinaĵo **-esĭma**.
+
+| | |
+|-|-|
+| *mila* | **millesma** |
+
+***Piĝino*** pruntas la ŝajnfinaĵon **-esĭma** kiel la tabelvortan ŝajnfinaĵon **-es** por *posedo*.
+
+| | Linga | Piĝino |
+|:-|:-|:-|
+| *kies* | **qŭesma** | **kies** *[=]* → **qŭies** |
+
+***Piĝino*** pruntas la ŝajnfinaĵojn **-ande** kaj **-ante** kiel la tabelvortajn ŝajnfinaĵojn **-añ** *[am]* kaj **-åñ** *[om]*.
+
+| | Linga | Piĝino |
+|:-|:-|:-|
+| *kiam* | **qŭande** | **kiañ** → **qŭiam** |
+| *kiom* | **qŭande** | **kiåñ** → **qŭiåm** |
 
 *Neolingua:* Adverboj havas la finaĵon **-e**. Por esprimi *celon* uziĝas la ŝajnfinaĵo **-i**.
 
@@ -333,6 +391,16 @@ Verboj havas la infinitivan formon sen **-re**.
 | *vidi* | **videre** | **vide** | **vidar'** | **vidas'** |
 | *senti* | **sentire** | **senti** | **sentar'** | **sentas'** |
 
+***TODO***
+
+*Novlingvaismo:* La *trabrua infinitiva* ŝajnfinaĵo **-s'** fariĝas *verba* ŝajnfinaĵo. La *cela* finaĵo **-i** fariĝas *infinitiva* finaĵo.
+
+| | Neolingua | Piĝino |
+|:-|:-|:-|
+| *Mi helpas vin.* | ← **Mu adjuvas' tu.** | **Mi helpas vin.** |
+| | | |
+| *Mi iras dormi.* | ← **Mu vades' dormi.** | **Mi iras dormi.** |
+
 *Tra bruo*, uziĝas la *instrumentala* prepozicio **en** antaŭ infinitivo.
 
 | | Lingua | (tra bruo) |
@@ -349,6 +417,13 @@ Por *futuro*, *prezenco*, *preterito* oni povas uzi la frazerojn **vade ad**, **
 | *Mi legas. / Mi estas leganta.* | Mu **sta in** lege. | Mu **legan**. / Mu **essan leganta**. |
 | *Mi legis. / Mi estas leginta.* | Mu **veni de** lege. | Mu **legin**. / Mu **essan leginta**. | | |
 | *Legu!* | **Lege!** | **Legen!** |
+
+***Piĝino*** pruntas la *imperativan*/*volitivan* finaĵon **-en**, origine kiel *alativan*/*dativan* finaĵon. Mallongigante al **-n**, ĝi fariĝas *alativa*/*akuzativa* finaĵo. Tial **-en** estas ŝajnmalkonstruebla al **-e** + **-n**; pro kio **-e** fariĝas *lokativa*/*instrumentala* ŝajnfinaĵo.
+
+| | Neolingua | Piĝino |
+|-|-|-|
+| *Laboru!* | *Laboren!* | |
+| *Al la laboro!* | | *Laboren!* |
 
 La *pasivo* estas malregulaj adjektivoj je **-t** aŭ **-s**. (Kaj **esse** *(esti)* kaj **sta** *(stari)* havas la participon **stata**.)
 
@@ -395,4 +470,31 @@ Ankaŭ por *dativo*, *instrumentalo*, *genitivo* uziĝas la prepozicioj **ad**, 
 | *Mi parolas al amiko.* | Mu parola **ad** amico. | Mu parolan **al** amico. |
 | *Mi venas per biciklo.* | Mu veni **in** bicyclo. | Mu venan **en** biziclo. |
 | *Mi havas libron de amiko.* | Mu have libro **de** amico. | Mu havan libro **di** amico. |
+
+***TODO***
+
+*Jazikismo:* (neologisma) **na**
+
+| | Piĝino |
+|:-|:-|
+| *ludi la gitaron* | **ludi la gitarron** ← **ludi na la gitarro** |
+
+*Tra bruo*, uziĝas **a** aŭ, anstataŭe, **na**.
+
+| | Piĝino |
+|:-|:-|
+| *Mi vidas vin.* | **Mi vidas a vi.** ← **Mi vidas na vi.** |
+
+*Lingvaismo:* La lokaj prepozicioj **ad**, **in**, **de** kaj la ne-lokaj prepozicioj **al**, **en**, **di** el ***Neolingua*** unuiĝas al **al**, **en**, **de** en ***Piĝino***.
+
+| | Neolingua | Piĝino |
+|:-|:-|:-|
+| *al*, *en*, *de* | **ad**/**al**, **in**/**en**, **de**/**di** | **al**, **en**, **de** |
+
+*Lingvaismo:* La prepoziciaĵa ŝajnfinaĵo **' al** fariĝas **' ał** [aŭ].
+
+| | Lingua | Neolingua | Piĝino |
+|:-|:-|:-|:-|
+| *ĉirkaŭ* | **ĉirc' ad** | **zirc' al** | **ĉirc' ał** |
+| *ĉirkaŭo* | **ĉircada** | **zircalo** | **ĉircało** |
 

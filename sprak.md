@@ -113,6 +113,14 @@ La adverboj **æ** [ɛ:] *(jes)* kaj **næ** [nɛ:] *(ne)* uziĝas prefiksece ki
 | *(loko)* *-e* | **hir** [hi:r] | **dar** [da:r] | **wer** [we:r] | **iwer** ['i:we:r] | **niwer** ['ni:we:r] |
 | *(tempo)* *-am* | **hin** [hɪn] | **dan** [dan] | **wen** [wɛn] | **iwen** ['i:wɛn] | **niwen** ['ni:wɛn] |
 
+La ŝajnprefikso **i-** [i:] uziĝas en ***Piĝino*** por formi tabelvortojn.
+
+| |
+|-|
+| **io** *[=]* |
+| **aĭn io** *[ajn io]* = **io aĭn** *[io ajn]* |
+| **ne 'n io** *[nenio]* |
+
 *Nysprak:* La korelativaj prefiksoj **i-** kaj **ni-** estas uzeblaj ankaŭ kun radikaj vortoj.
 
 * **niting** *(neniaĵo, nenio)*
@@ -180,6 +188,12 @@ Personaj pronomoj havas apartajn kazajn finaĵojn respektive formojn.
 | *(nominativo)* | **ik** [ɪk] | **du** [du:] | **hun** [hʊn] | **han** [han] | **wi** [wi:] | **ji** [ji:] |
 | *(akuz-/dativo)* | **mi** [mi:] | **di** [di:] | **hum** [hʊm] | **ham** [ham] | **ons** [ɔns] | **ju** [ju:] |
 | *(genitivo)* | **min** [mi:n] | **din** [di:n] | **huns** [hʊns] | **hans** [hans] | **onser** ['ɔnsər] | **jur** [ju:r] |
+
+***Piĝino*** pruntas la ŝajnfinaĵon **-m**, origine kiel *prepozitivan* finaĵon ***tra bruo***.
+
+| | |
+|-|-|
+| *al kiu* | **al kiu** *[]* ← **al kium** → **al qŭiu** |
 
 ### Artikoloj
 
