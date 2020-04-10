@@ -32,6 +32,14 @@ Sago (→) signifas diferencon inter ***Prapiĝino*** kaj ***Piĝino***, ĉu ort
 |-|
 | **legi** → **legŭi** *[legi]* |
 
+| Dio | Planedo | Tago |
+|-|-|-|
+| **Ĭupitero** *[jupitero]* → **Jupitero** *[ĵupitero]* | **=** → **Jovo** *[ĵovo]* | **ĵaŭdıo** *[ĵaŭdo]* → **jovedio** *[ĵovedio]* |
+| **Luno** *[=]* | **=** | **lunĕdıo** *[lundo]* → **lunedio** *[=]* |
+| **Marso** *[=]* | **=** → **Marto** *[=]* | **martĕdı** *[mardo]* → **martedio** *[=]* |
+| **Mercuro** *[merkuro]* | **=** → **Mercro** *[merkro]* | ***mercŭredıo*** *[merkredo]* → **mercredio** *[merkredio]* |
+| **Venusso** *[venuso]* | **=** → **Venro** *[=]* | **venĕredıo** *[vendredo]* → **venredio** *[=]* |
+
 ### Latinidaj Vortoj
 
 #### ti
@@ -329,6 +337,14 @@ En ***akĉenta Piĝino***, la tabelvorta ŝajnprefikso **ne-** estas ellasebla.
 |-|
 | **nenio** *[nenio]* ← **ne 'n io** → **nio** *[=]* |
 
+***TODO***
+
+*Lingvaismo:* La *cela* finaĵo **-en** mallongiĝas al **-n** kaj fariĝas finaĵo por *akuzativo*. *Tra bruo*, uziĝas anstataŭe la (neologisma) *akuzativa* prepozicio **a**.
+
+| | Piĝino |
+|:-|:-|
+| *Mi vidas domon.* | **Mi vidas domon.** ← **Mi vidas a domo.** |
+
 ### Itala
 
 En ***ital-akĉenta Piĝino***, la ŝajnprefiksoj **de-** kaj **re-** prononciĝas *[di]* kaj *[ri]*.
@@ -386,83 +402,7 @@ En ***franc-akĉenta Piĝino***, prononciĝas *[ĥ]* anstataŭ *[ĵ]*/*[ĝ]*, du
 |-|
 | **generatīo** *[generacio]* → *[ĵenerasio]* → *[ĥeneraθio]* |
 
-## Gramatiko
-
-### Semajno
-
-| Dio | Planedo | Tago |
-|-|-|-|
-| **Ĭupitero** *[jupitero]* → **Jupitero** *[ĵupitero]* | **=** → **Jovo** *[ĵovo]* | **ĵaŭdıo** *[ĵaŭdo]* → **jovedio** *[ĵovedio]* |
-| **Luno** *[=]* | **=** | **lunĕdıo** *[lundo]* → **lunedio** *[=]* |
-| **Marso** *[=]* | **=** → **Marto** *[=]* | **martĕdı** *[mardo]* → **martedio** *[=]* |
-| **Mercuro** *[merkuro]* | **=** → **Mercro** *[merkro]* | ***mercŭredıo*** *[merkredo]* → **mercredio** *[merkredio]* |
-| **Venusso** *[venuso]* | **=** → **Venro** *[=]* | **venĕredıo** *[vendredo]* → **venredio** *[=]* |
-
-### Tabelvortoj
-
-***TODO*** link sprak
-
-| | | | | |
-|-|-|-|-|-|
-| **io** *[io]* | **kio** *[=]* → **qŭio** | **tio** *[=]* | **ĉio** *[=]* → **ĉhio** | **ne 'n io** *[nenio]* → **nenio** |
-
-**aĭn** uziĝas por esprimi *indiferentecon*, dum **ĉi** *[=]* → **ĉhi** uziĝas por esprimi *specifecon*. (Kvankam **ĉi** estas origine ***latinida*** vorto, ĝi paralelas la ***slavan*** ŝajnradikon **ĉi-**.)
-
-| |
-|-|
-| **io aĭn** *[io ajn]* |
-| **tio ĉi** *[=]* → **tio ĉhi** |
-
-***TODO*** link lingua
-
-#### Artikoloj
-
-### Pronomoj
-
-***Lingvaismo:*** Samkiel la (multenombraj) pronomoj en ***Archelingua***, pronomoj en ***Piĝino*** havas la ŝajnfinaĵon **-i** (kaj en ununombro kaj en multenombro).
-
-| | Archelingua | Lingua | Piĝino |
-|:-|:-|:-|:-|
-| *vi* | **vi** | **vu** | **vi** |
-| *ci* | **tu** | **tu** | **tī** |
-
-*Tra bruo:* La *cela* finaĵo **-en** uziĝas por *akuzativo*. *Sen bruo*, ĝi mallongiĝas al **-n**.
-
-| | Piĝino |
-|:-|:-|
-| *Mi aŭdas ilin.* | **Mi aŭdas ilin.** ← **Mi aŭdas ili-en.** |
-
-### Radikaj Vortoj
-
-#### Substantivoj
-
-*Lingvaismo:* La pronoma ŝajnsufikso **-i** por *multenombraj* pronomoj en ***Archelingua*** fariĝas la finaĵo **-ĭ** [j] por *multenombro*.
-
-| | Piĝino |
-|:-|:-|
-| *amikoj* | **amicoĭ** |
-
-*Lingvaismo:* La *cela* finaĵo **-en** mallongiĝas al **-n** kaj fariĝas finaĵo por *akuzativo*. *Tra bruo*, uziĝas anstataŭe la (neologisma) *akuzativa* prepozicio **a**.
-
-| | Piĝino |
-|:-|:-|
-| *Mi vidas domon.* | **Mi vidas domon.** ← **Mi vidas a domo.** |
-
-#### Adjektivoj
-
-Adjektivoj havas la samajn finaĵojn por *multenombro* kaj *akuzativo* kiel la substantivoj.
-
-| | Piĝino |
-|:-|:-|
-| *Mi havas multajn amikojn.* | **Mi havas multaĭn amicoĭn.** |
-
-#### Adverboj
-
-*Lingvaismo:* La ŝajnsufikso **-al-** fariĝas **-ał** [aŭ] ĉe kelkaj *adverboj*.
-
-| | Lingua | Piĝino |
-|:-|:-|:-|
-| *hodiaŭ* | **hodĭe** | **hodiał** |
+---
 
 #### Verboj
 

@@ -225,6 +225,21 @@ Pronomoj havas la ŝajnfinaĵon **-u**. La persona pronomo **lu** uziĝas por *e
 | *vi* | **vi** | **vu** |
 | *ili* | **li** | **ilu** |
 
+***TODO***
+
+*Lingvaismo:* La pronoma ŝajnsufikso **-i** por *multenombraj* pronomoj en ***Archelingua*** fariĝas la finaĵo **-ĭ** [j] por *multenombro*.
+
+| | Piĝino |
+|:-|:-|
+| *amikoj* | **amicoĭ** |
+
+***Lingvaismo:*** Samkiel la (multenombraj) pronomoj en ***Archelingua***, pronomoj en ***Piĝino*** havas la ŝajnfinaĵon **-i** (kaj en ununombro kaj en multenombro).
+
+| | Archelingua | Lingua | Piĝino |
+|:-|:-|:-|:-|
+| *vi* | **vi** | **vu** | **vi** |
+| *ci* | **tu** | **tu** | **tī** |
+
 Pere de la ŝajnfinaĵo **-a** formiĝas *posesivaj pronomoj*.
 
 * **mua** domo *(mia domo)*
@@ -314,12 +329,14 @@ Substantivo estas adjektivigebla pere de la ŝajnfinaĵo **-ale**.
 
 * **bestiale** *(en maniero de besto, kvazaŭbesta, bestiala)*
 
-***Piĝino*** pruntas la ŝajnfinaĵon **-ale** kiel la tabelvortan finaĵon **-al** *[al]* respektive **-äl** *[el]*.
+***Piĝino*** pruntas la ŝajnfinaĵon **-ale** kiel la tabelvortan finaĵon **-al** *[al]* respektive **-äl** *[el]*, kaj kiel la adverban ŝajnfinaĵon **-ał** *[aŭ]*.
 
 | | Linga | Piĝino |
 |:-|:-|:-|
 | *kial* | **qŭale** | **kial** → **qŭial** |
 | *kiel* | **qŭale** | **kiäl** → **qŭiel** |
+| | | |
+| *hodiaŭ* | **hodĭe** | **hodiał** |
 
 Adverboj formiĝas kun **-mente**.
 
