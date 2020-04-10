@@ -260,7 +260,6 @@ Samkiel en **aŭ** [aŭ], **ŭ** prononciĝas [ŭ] en **eŭ**. Tra bruo, **y** p
 
 ### Slavaj Vortoj
 
-
 | |
 |-|
 | **ĉiu** *[=]* → **ĉhiu** |
@@ -271,6 +270,9 @@ Samkiel en **aŭ** [aŭ], **ŭ** prononciĝas [ŭ] en **eŭ**. Tra bruo, **y** p
 | **kaĉo** *[=]* → **kaŝo** *[=]* |
 | **kolbaso** *[=]* |
 | **koŝmaro** *[=]* |
+| **krom** *[=]* |
+| **na** *[=]* |
+| **pri** *[=]* |
 | **çaro** = **ċaro** → **tsaro** *[caro]* |
 
 ## Akĉentoj
@@ -402,37 +404,3 @@ En ***franc-akĉenta Piĝino***, prononciĝas *[ĥ]* anstataŭ *[ĵ]*/*[ĝ]*, du
 |-|
 | **generatīo** *[generacio]* → *[ĵenerasio]* → *[ĥeneraθio]* |
 
----
-
-#### Prepozicioj
-
-*Jazikismo:* (neologisma) **na**
-
-| | Äzyk | Piĝino |
-|:-|:-|:-|
-| *na* | **na** | **na** |
-| *krom* | **krom** | **krom** |
-| *pri* | **pri** | **pri** |
-
-| | Piĝino |
-|:-|:-|
-| *ludi la gitaron* | **ludi la gitarron** ← **ludi na la gitarro** |
-
-*Tra bruo*, uziĝas **a** aŭ, anstataŭe, **na**.
-
-| | Piĝino |
-|:-|:-|
-| *Mi vidas vin.* | **Mi vidas a vi.** ← **Mi vidas na vi.** |
-
-*Lingvaismo:* La lokaj prepozicioj **ad**, **in**, **de** kaj la ne-lokaj prepozicioj **al**, **en**, **di** el ***Neolingua*** unuiĝas al **al**, **en**, **de** en ***Piĝino***.
-
-| | Neolingua | Piĝino |
-|:-|:-|:-|
-| *al*, *en*, *de* | **ad**/**al**, **in**/**en**, **de**/**di** | **al**, **en**, **de** |
-
-*Lingvaismo:* La prepoziciaĵa ŝajnfinaĵo **' al** fariĝas **' ał** [aŭ].
-
-| | Lingua | Neolingua | Piĝino |
-|:-|:-|:-|:-|
-| *ĉirkaŭ* | **ĉirc' ad** | **zirc' al** | **ĉirc' ał** |
-| *ĉirkaŭo* | **ĉircada** | **zircalo** | **ĉircało** |

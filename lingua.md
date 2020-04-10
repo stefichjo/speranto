@@ -471,3 +471,30 @@ Ankaŭ por *dativo*, *instrumentalo*, *genitivo* uziĝas la prepozicioj **ad**, 
 | *Mi venas per biciklo.* | Mu veni **in** bicyclo. | Mu venan **en** biziclo. |
 | *Mi havas libron de amiko.* | Mu have libro **de** amico. | Mu havan libro **di** amico. |
 
+***TODO***
+
+*Jazikismo:* (neologisma) **na**
+
+| | Piĝino |
+|:-|:-|
+| *ludi la gitaron* | **ludi la gitarron** ← **ludi na la gitarro** |
+
+*Tra bruo*, uziĝas **a** aŭ, anstataŭe, **na**.
+
+| | Piĝino |
+|:-|:-|
+| *Mi vidas vin.* | **Mi vidas a vi.** ← **Mi vidas na vi.** |
+
+*Lingvaismo:* La lokaj prepozicioj **ad**, **in**, **de** kaj la ne-lokaj prepozicioj **al**, **en**, **di** el ***Neolingua*** unuiĝas al **al**, **en**, **de** en ***Piĝino***.
+
+| | Neolingua | Piĝino |
+|:-|:-|:-|
+| *al*, *en*, *de* | **ad**/**al**, **in**/**en**, **de**/**di** | **al**, **en**, **de** |
+
+*Lingvaismo:* La prepoziciaĵa ŝajnfinaĵo **' al** fariĝas **' ał** [aŭ].
+
+| | Lingua | Neolingua | Piĝino |
+|:-|:-|:-|:-|
+| *ĉirkaŭ* | **ĉirc' ad** | **zirc' al** | **ĉirc' ał** |
+| *ĉirkaŭo* | **ĉircada** | **zircalo** | **ĉircało** |
+
