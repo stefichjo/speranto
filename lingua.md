@@ -211,7 +211,7 @@ Pronomoj havas la ŝajnfinaĵon **-u**. La persona pronomo **lu** uziĝas por *e
 |**nu**|**vu**|**ilu**|
 |*(ni)*|*(vi)*|*(ili)*|
 
-***Piĝino*** pruntas ŝajnfinaĵon **-u** kiel tabelvortan ŝajnfinaĵon por *individu(aĵ)oj*.
+***Piĝino*** pruntas la ŝajnfinaĵon **-u** kiel tabelvortan ŝajnfinaĵon por *individu(aĵ)oj*.
 
 | | Piĝino |
 |:-|:-|
@@ -259,6 +259,15 @@ Substantivoj estas baze nombre kaj genre *neŭtraj*, t.e. ili ne distingiĝas la
 |-|-|-|-|
 |**Amicu!**|**Amici!**|**Amica!**|**Amico!**|
 |*(Amiko!)*|*(Amikoj!)*|*(Amikino!)*|*(Vir-amiko!)*|
+
+***TODO***
+
+*Lingvaismo:*
+ La *vokativa* finaĵo **-u** fariĝas *imperativa* finaĵo.
+
+| | Neolingua | Piĝino |
+|:-|:-|:-|
+| *Helpu!* | **Adjuven!** → **Adjuvu!** | **Helpu!** |
 
 La ŝajnfinaĵoj **-a** kaj **-o** uziĝas ĉe nomoj por distingi inter la genroj.
 
@@ -381,6 +390,16 @@ Verboj havas la infinitivan formon sen **-re**.
 | *ami* | **amare** | **ama** | **amar'** | **amas'** |
 | *vidi* | **videre** | **vide** | **vidar'** | **vidas'** |
 | *senti* | **sentire** | **senti** | **sentar'** | **sentas'** |
+
+***TODO***
+
+*Novlingvaismo:* La *trabrua infinitiva* ŝajnfinaĵo **-s'** fariĝas *verba* ŝajnfinaĵo. La *cela* finaĵo **-i** fariĝas *infinitiva* finaĵo.
+
+| | Neolingua | Piĝino |
+|:-|:-|:-|
+| *Mi helpas vin.* | ← **Mu adjuvas' tu.** | **Mi helpas vin.** |
+| | | |
+| *Mi iras dormi.* | ← **Mu vades' dormi.** | **Mi iras dormi.** |
 
 *Tra bruo*, uziĝas la *instrumentala* prepozicio **en** antaŭ infinitivo.
 

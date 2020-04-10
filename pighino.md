@@ -404,23 +404,6 @@ En ***franc-akĉenta Piĝino***, prononciĝas *[ĥ]* anstataŭ *[ĵ]*/*[ĝ]*, du
 
 ---
 
-#### Verboj
-
-*Lingvaismo:*
- La *vokativa* finaĵo **-u** fariĝas *imperativa* finaĵo.
-
-| | Neolingua | Piĝino |
-|:-|:-|:-|
-| *Helpu!* | **Adjuven!** → **Adjuvu!** | **Helpu!** |
- 
-*Novlingvaismo:* La *trabrua infinitiva* ŝajnfinaĵo **-s'** fariĝas *verba* ŝajnfinaĵo. La *cela* finaĵo **-i** fariĝas *infinitiva* finaĵo.
-
-| | Neolingua | Piĝino |
-|:-|:-|:-|
-| *Mi helpas vin.* | ← **Mu adjuvas' tu.** | **Mi helpas vin.** |
-| | | |
-| *Mi iras dormi.* | ← **Mu vades' dormi.** | **Mi iras dormi.** |
-
 #### Prepozicioj
 
 *Jazikismo:* (neologisma) **na**
