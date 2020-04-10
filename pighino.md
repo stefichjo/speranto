@@ -384,10 +384,13 @@ En ***franc-akĉenta Piĝino***, latinidaj vortoj ĉie prononciĝas kun *[s]*, *
 
 | |
 |-|
-| **caŝi** *[kaŝi]* → **caçhi** *[kaĉi]* → *[kaŝi]* |
 | **ĉhaţi** *[ĉasi]* → **çhaci** *[ŝaci]* → *[ŝasi]* |
 | **farço** *[farso]* → **farzo** *[farco]* → *[farso]* |
+| |
+| **caŝi** *[kaŝi]* → **caçhi** *[kaĉi]* → *[kaŝi]* |
 | **tuŝi** *[tuŝi]* → **tuçhi** *[tuĉi]* → *[tuŝi]* |
+| |
+| **corsaĵo** *[korsaĵo]* → **corsajo** *[korsaĝo]* → *[korsaĵo]* |
 
 La ŝajnsufikso **-in** prononciĝas *[en]*.
 
@@ -398,7 +401,7 @@ La ŝajnsufikso **-in** prononciĝas *[en]*.
 
 ### Hispana
 
-En ***franc-akĉenta Piĝino***, prononciĝas *[ĥ]* anstataŭ *[ĵ]*/*[ĝ]*, dum *[θ]* prononciĝas anstataŭ *[s]*/*[c]*.
+En ***hispan-akĉenta Piĝino***, prononciĝas *[ĥ]* anstataŭ *[ĵ]*/*[ĝ]*, dum *[θ]* prononciĝas anstataŭ *[s]*/*[c]*.
 
 | |
 |-|
