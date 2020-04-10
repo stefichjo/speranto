@@ -34,11 +34,11 @@ Sago (→) signifas diferencon inter ***Prapiĝino*** kaj ***Piĝino***, ĉu ort
 
 | Dio | Planedo | Tago |
 |-|-|-|
-| **Ĭupitero** *[jupitero]* → **Jupitero** *[ĵupitero]* | **=** → **Jovo** *[ĵovo]* | **ĵaŭdıo** *[ĵaŭdo]* → **jovedio** *[ĵovedio]* |
-| **Luno** *[=]* | **=** | **lunĕdıo** *[lundo]* → **lunedio** *[=]* |
-| **Marso** *[=]* | **=** → **Marto** *[=]* | **martĕdı** *[mardo]* → **martedio** *[=]* |
-| **Mercuro** *[merkuro]* | **=** → **Mercro** *[merkro]* | ***mercŭredıo*** *[merkredo]* → **mercredio** *[merkredio]* |
-| **Venusso** *[venuso]* | **=** → **Venro** *[=]* | **venĕredıo** *[vendredo]* → **venredio** *[=]* |
+| **Ĭupitero** *[jupitero]* → **Jupitero** *[ĵupitero]* | **=** → **Jovo** *[ĵovo]* | **ĵaŭdıo** *[ĵaŭdo]* → **jovedo** *[ĵovedo]* |
+| **Luno** *[=]* | **=** | **lunĕdıo** *[lundo]* → **lunedo** *[=]* |
+| **Marso** *[=]* | **=** → **Marto** *[=]* | **martĕdıo** *[mardo]* → **martedo** *[=]* |
+| **Mercuro** *[merkuro]* | **=** → **Mercro** *[merkro]* | ***mercŭredıo*** *[merkredo]* → **mercredo** *[merkredo]* |
+| **Venusso** *[venuso]* | **=** → **Venro** *[=]* | **venĕredıo** *[vendredo]* → **venredo** *[=]* |
 
 ### Latinidaj Vortoj
 
@@ -281,7 +281,6 @@ En ***akĉenta Piĝino***, latinidaj vortoj ĉie prononciĝas kun *[c]*, *[ĉ]*,
 
 | |
 |-|
-| **ĉhamĕro** *[ĉambro]* → **çhamro** *[ŝamro]* → *[ĉamro]* |
 | **domaĉo** *[=]* → **domaçho** *[domaŝo]* → *[domaĉo]* |
 
 En ***akĉenta Piĝino***, **ct** *[kt]* prononciĝas *[t]*.
@@ -339,6 +338,13 @@ En ***akĉenta Piĝino***, la tabelvorta ŝajnprefikso **ne-** estas ellasebla.
 |-|
 | **nenio** *[nenio]* ← **ne 'n io** → **nio** *[=]* |
 
+En ***akĉenta Piĝino***, **mr** kaj **nr** prononciĝas *[mbr]* kaj *[ndr]*.
+
+| |
+|-|
+| **ĉhamĕro** *[ĉambro]* → **çhamro** *[ŝamro]* → *[ĉambro]* |
+| **venĕredıo** *[vendredo]* → **venredo** *[=]* → *[vendredo]* |
+
 ***TODO***
 
 *Lingvaismo:* La *cela* finaĵo **-en** mallongiĝas al **-n** kaj fariĝas finaĵo por *akuzativo*. *Tra bruo*, uziĝas anstataŭe la (neologisma) *akuzativa* prepozicio **a**.
@@ -392,7 +398,7 @@ En ***franc-akĉenta Piĝino***, latinidaj vortoj ĉie prononciĝas kun *[s]*, *
 | |
 | **corsaĵo** *[korsaĵo]* → **corsajo** *[korsaĝo]* → *[korsaĵo]* |
 
-La ŝajnsufikso **-in** prononciĝas *[en]*.
+En ***franc-akĉenta Piĝino***, la ŝajnsufikso **-in** prononciĝas *[en]*.
 
 | |
 |-|
