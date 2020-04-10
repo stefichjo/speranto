@@ -452,6 +452,14 @@ La prepozicio **a** uziĝas por *akuzativo* *antaŭ nomo* / *tra bruo*.
 | *Mi vidas Karlan.* | | Mu vide ***a*** Carla. |
 | *Mi vidas vin.* | Mu vide tu. | Mu vide ***a*** tu. |
 
+***TODO***
+
+*Lingvaismo:* La *cela* finaĵo **-en** mallongiĝas al **-n** kaj fariĝas finaĵo por *akuzativo*. *Tra bruo*, uziĝas anstataŭe la (neologisma) *akuzativa* prepozicio **a**.
+
+| | Piĝino |
+|:-|:-|
+| *Mi vidas domon.* | **Mi vidas domon.** ← **Mi vidas a domo.** |
+
 Por *alativo*, *lokativo*, *ablativo* uziĝas la prepozicioj **ad**, **in**, **de**. Pere de la prepozicio **ad** formiĝas *prepoziciaĵoj*.
 
 | | |

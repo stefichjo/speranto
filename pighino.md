@@ -110,6 +110,7 @@ En ***Piĝino***, la skriboj varias laŭ ilia pozicio, t.e. ĉu ili estas radiko
 | **ĉämisĭo** *[ĉemizo]* → **çhemiso** *[ŝemizo]* |
 | **tuçhi** → **tushi** *[tuŝi]* |
 | |
+| ***appodȷi*** *[apogi]* → **appogi** *[apoĝi]* |
 | **leĝo** → **lejo** *[leĝo]* |
 | **nevjo** → **nejo** *[neĝo]* |
 | **messajo** *[mesaĝo]* |
@@ -344,14 +345,6 @@ En ***akĉenta Piĝino***, **mr** kaj **nr** prononciĝas *[mbr]* kaj *[ndr]*.
 |-|
 | **ĉhamĕro** *[ĉambro]* → **çhamro** *[ŝamro]* → *[ĉambro]* |
 | **venĕredıo** *[vendredo]* → **venredo** *[=]* → *[vendredo]* |
-
-***TODO***
-
-*Lingvaismo:* La *cela* finaĵo **-en** mallongiĝas al **-n** kaj fariĝas finaĵo por *akuzativo*. *Tra bruo*, uziĝas anstataŭe la (neologisma) *akuzativa* prepozicio **a**.
-
-| | Piĝino |
-|:-|:-|
-| *Mi vidas domon.* | **Mi vidas domon.** ← **Mi vidas a domo.** |
 
 ### Itala
 
