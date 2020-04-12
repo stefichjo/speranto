@@ -110,13 +110,16 @@ En ***Piĝino***, la skriboj varias laŭ ilia pozicio, t.e. ĉu ili estas radiko
 | **ĉämisĭo** *[ĉemizo]* → **çhemiso** *[ŝemizo]* |
 | **tuçhi** → **tushi** *[tuŝi]* |
 | |
-| ***appodȷi*** *[apogi]* → **appogi** *[apoĝi]* |
+| **appodȷi** *[apogi]* → **appogi** *[apoĝi]* |
+| **menţonȷo** *[mensogo]* → ***TODO*** |
 | **leĝo** → **lejo** *[leĝo]* |
 | **nevjo** → **nejo** *[neĝo]* |
 | **messajo** *[mesaĝo]* |
 | **manĝi** *[=]* → **mangi** |
+| **preĝi** *[=]* → **pregi** |
 | **ruvja** → **ruja** *[ruĝa]* |
 | **sedjo** → **sejo** *[seĝo]* |
+| **sẽdjo** → **siejo** *[sieĝo]* |
 | |
 | **dolĉaĵo** → **dolçhajo** *[dolĉaĵo]* |
 | **ĝenerala** *[ĝenerala]* → **generala** *[ĵenerala]* |
