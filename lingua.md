@@ -506,3 +506,4 @@ Ankaŭ por *dativo*, *instrumentalo*, *genitivo* uziĝas la prepozicioj **ad**, 
 | *ĉirkaŭ* | **ĉirc' ad** | **zirc' al** | **ĉirc' ał** |
 | *ĉirkaŭo* | **ĉircada** | **zircalo** | **ĉircało** |
 
+***TODO*** mano/man' -> manoi/man'i = mani

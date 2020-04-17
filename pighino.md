@@ -13,6 +13,7 @@
 
 | |
 |-|
+| **acqŭiri** *[akiri]* |
 | **amico** *[amiko]* |
 | **canti** *[kanti]* |
 | **culturo** *[kulturo]* |
@@ -108,10 +109,11 @@ En ***Piĝino***, la skriboj varias laŭ ilia pozicio, t.e. ĉu ili estas radiko
 | **ĉarmo** *[=]* → **çharmo** *[ŝarmo]* |
 | **ĉä** *[ĉe]* → **çhe** *[ŝe]* |
 | **ĉämisĭo** *[ĉemizo]* → **çhemiso** *[ŝemizo]* |
+| **som̃njo** → **sonjo** *[sonĝo]* |
 | **tuçhi** → **tushi** *[tuŝi]* |
 | |
 | **appodȷi** *[apogi]* → **appogi** *[apoĝi]* |
-| **menţonȷo** *[mensogo]* → ***TODO*** |
+| **menţonȷo** *[mensogo]* → **mensogo** |
 | **leĝo** → **lejo** *[leĝo]* |
 | **nevjo** → **nejo** *[neĝo]* |
 | **messajo** *[mesaĝo]* |
@@ -221,7 +223,7 @@ Samkiel en **aŭ** [aŭ], **ŭ** prononciĝas [ŭ] en **eŭ**. Tra bruo, **y** p
 |-|
 | **shippo** *[ŝipo]* |
 | **kekso** *[kekso]* |
-| **yaro** *[jaro]* |
+| **y̆aro** *[jaro]* |
 | **fisho** *[fiŝo]* |
 | **shranko** *[ŝranko]* |
 | **shuo** *[ŝuo]* |
@@ -232,6 +234,7 @@ Samkiel en **aŭ** [aŭ], **ŭ** prononciĝas [ŭ] en **eŭ**. Tra bruo, **y** p
 | **tollo** → **çollo** *[colo]* |
 | **đrinki** → **drinki** *[drinki]* |
 | **fĩna** → **faĭna** *[fajna]* |
+| **kĩŧo** → **kaĭto** *[kajto]* |
 | **lũda** → **laŭta** *[laŭta]* |
 | **milđa** → **milda** *[milda]* |
 | **pelŧo** → **pelto** *[pelto]* |
@@ -255,10 +258,13 @@ Samkiel en **aŭ** [aŭ], **ŭ** prononciĝas [ŭ] en **eŭ**. Tra bruo, **y** p
 |-|
 | **biero** *[biero]* |
 | **boato** *[boato]* |
+| **hobbyo** *[hobio]* |
 | **memeo** *[memeo]* |
 | **naĭlo** *[najlo]* |
+| **parto** *[partio]* |
 | **Reĭno** *[rejno]* |
 | **teamo** *[teamo]* |
+| **traĭto** *[trajto]* |
 | |
 | **stono** → **ŝtono** *[ŝtono]* |
 
@@ -409,3 +415,10 @@ En ***hispan-akĉenta Piĝino***, prononciĝas *[ĥ]* anstataŭ *[ĵ]*/*[ĝ]*, d
 |-|
 | **generatīo** *[generacio]* → *[ĵenerasio]* → *[ĥeneraθio]* |
 
+***TODO*** nomo de sono ("ce") kaj nomo de litero ("ko")
+
+***TODO*** al/ad -> a? (ofte io nomata? persono?)
+
+***TODO*** na (ludo, sistemo, suprajho) (ofte io nomata? objekto?)
+
+***TODO*** nomoi ne besonas accusativon
