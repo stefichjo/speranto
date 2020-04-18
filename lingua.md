@@ -1,95 +1,10 @@
 # Lingua
 
-***Lingua*** baziĝas sur la ***Latina*** kaj la [***Internaciaj Ortografioj***](latinidaj/README.md) de la ***Latinidaj Lingvoj***. El ***Lingua*** pruntas [***Piĝino***](pighino.md).
+***Lingua*** baziĝas sur la ***Latina*** kaj la [***Internaciaj Ortografioj***](latinidaj/README.md) de la ***Latinidaj Lingvoj***. El ***Lingua*** pruntas [***Ojdo***](ojdo.md) kaj [***Piĝino***](pighino.md).
 
 ## Alfabeto
 
-|**a**|**b**|**c**|**d**|**e**|**f**|**g**|**h**|**i**|**j**|**k**|**l**|**m**|
-|-|-|-|-|-|-|-|-|-|-|-|-|-|
-|[a]|[b]|[k]*|[d]|[ɛ]|[f]|[g]*|[h]|[ɪ]|[dʒ]|[k]|[l]|[m]|
-|**n**|**o**|**p**|**q**|**r**|**s**|**t**|**u**|**v**|**w**|**x**|**y**|**z**|
-|[n]|[ɔ]|[p]*|[k]|[r]|[s]*|[t]*|[ʊ]|[v]|[w]|[ks]|[ɪ]*|[dz]|
-
-*Archelingua:* Radikofina **v** [v] estis **b** [b]. **ng** [ŋg] prononciĝis [ng].
-
-| | Archelingua | Lingua | Neolingua |
-|:-|:-|:-|:-|
-| *skribi* | **scribe** ['skrɪbɛ] | **scrive** ['skrɪvɛ] | **scrivi** [skrɪ'var] |
-| *havi* | **habe** ['habɛ] | **have** ['havɛ] | **havar'** [hav'ar] |
-| *longa* | **longa** ['lɔnga] | **longa** ['lɔŋga] | **longa** ['lɔŋga] |
-
-### Duoblaj Konsonantoj
-
-Duoblaj konsonantoj estas prononcataj unuoble. **s** [s] prononciĝas [z] inter vokaloj.
-
-*Archelingua/Neolingua:* Duoblaj konsonantoj prononciĝis duoble. En ***Neolingua***, duoblaj konsonantoj (krom **ss**) skribiĝas unuoble.
-
-| | Archelingua | Lingua | Neolingua |
-|:-|:-|:-|:-|
-| *tero* | **terra** ['tɛrra] | **terra** ['tɛra] | **tero** ['tɛrɔ] |
-| *maso* | **massa** ['massa] | **massa** ['masa] | **masso** ['masɔ] |
-| *rozo* | **rosa** ['rɔsa] | **rosa** ['rɔza] | **roso** ['rɔzɔ] |
-
-### C kaj G
-
-Antaŭ **e** kaj **i**, **c** [k] kaj **g** [g] prononciĝas [ç] respektive [ɣ]. Por *didaktikaj celoj*, ili skribiĝas **ĉ** [ç] respektive **ĝ** [ɣ].
-
-*Neolingua:* **ĉ** [ç] kaj **ĝ** [ɣ] fariĝas **z** [ts] respektive **j** [dʒ]. Por *didaktikaj celoj*, **j** [dʒ] tiam skribiĝas **ĵ**.
-
-| | Archelingua | Lingua | Neolingua |
-|:-|:-|:-|:-|
-| *centro* | **centro** ['kɛntrɔ] | **ĉentro** ['çɛntrɔ] | **zentro** ['tsɛntrɔ] |
-| *ĝenerala* | **generale** [gɛnɛ'ralɛ] | **ĝenerale** [ɣɛnɛ'ralɛ] | **ĵenerala** ['dʒɛnɛ'rala] |
-
-### Duonvokaloj
-
-Por *didaktikaj celoj*, duonvokalaj **i** [j] kaj **u** [w] skribiĝas **ĭ** respektive **ŭ**.
-
-*Archelingua/Neolingua:* Duonvokalaj **i** [j] kaj **u** [w] estis ne-akcentataj **i** [ɪ] kaj **u** [ʊ] apud vokalo. Ili eliziiĝas aŭ monoftongiĝas en ***Neolingua***. **j** [ʒ] estis ne-akcentata **i** [ɪ] komence de radiko. Ĝi prononciĝas [dʒ] en ***Neolingua***. **t** [t] antaŭ radikofina **i** prononciĝas [θ] kaj fariĝas **z** [ts] en ***Neolingua***. Por *didaktikaj celoj*, kiam radikofina **i** estas akcentata, **i** skribiĝas **ī**. **st** [st] restas senŝanĝa.
-
-| | Archelingua | Lingua | Neolingua |
-|:-|:-|:-|:-|
-| *trajno* | **traino** ['traɪnɔ] | **traĭno** ['trajnɔ] | **treno** ['trɛnɔ] |
-| *oro* | **auro** ['aʊrɔ] | **aŭro** ['awrɔ] | **oro** ['ɔrɔ] |
-| *Eŭropo* | **Europa** [ɛʊ'rɔpa] | **Eŭropa** [ɛw'rɔpa] | **Uropo** [ɛw'rɔpɔ] |
-| | | | |
-| *besto* | **bestia** ['bɛstɪa] | **bestĭa** ['bɛstja] | **besto** ['bɛstɔ] |
-| *lingvo* | **lingua** ['lɪngʊa] | **lingŭa** ['lɪŋgwa] | **lingo** ['lɪŋgɔ] |
-| *ke* | **que** [kʊɛ] | **qŭe** [kwɛ] | **ke** [kɛ] |
-| | | | |
-| *ĝusta, justa* | **iusta** [ɪ'ʊsta] | **ĵusta** ['ʒʊsta] | **justa** ['dʒʊsta] |
-| | | | |
-| *spaco* | **spatio** ['spatɪɔ] | **spatĭo** ['spaθjɔ] | **spazo** ['spatsɔ] |
-| *lekcio* | **lectione** [lɛktɪ'ɔnɛ] | **lectīo** [lɛk'θɪɔ] | **lezio** [lɛ'tsɪɔ] |
-| *demokratio* | **democratia** [dɛmɔkra'tɪa] | **democratīa** [dɛmɔkra'θɪa] | **democrazio** [dɛmɔkra'tsɪɔ] |
-| | | | |
-| *placo* | **platĕo** ['platɛɔ] | **platĭo** ['plaθjɔ] | **plazo** ['platsɔ] |
-
-*Archelingua:* Por *didaktikaj celoj*, **u** [ʊ] kaj **v** [v] skribiĝis **V** kaj ambaŭ prononciĝis [w] apud vokalo.
-
-| | Archelingua | (didaktike) |
-|:-|:-|:-|
-| *akvo* | **aqua** ['akʊa] | **AQVA** ['akva] |
-| *ĵuri* | **iura** [ɪ'ʊra] | **IVRA** ['jʊra] |
-
-*Archelingua:* **æ** kaj **œ** prononciĝis [ɛ] kaj [œ].
-
-| | Archelingua | Lingua | Neolingua |
-|:-|:-|:-|:-|
-| *enciklopedio* | **encyclopædia** [ɛnkʏklɔpɛ'dɪa] | **encyclopedīa** [ɛnçɪklɔpɛ'dɪa] | **enziclopedio** [ɛntsɪklɔpɛ'dɪɔ] |
-| *federacio* | **fœderatione** [fœdɛratɪ'ɔnɛ] | **federatīo** [fɛdɛra'θɪɔ] | **federazio** [fɛdɛra'tsɪɔ] |
-
-### Fremdaj Vortoj
-
-*Archelingua/Neolingua:* Grek-devenaj **ph** [f], **th** [t], **ch** [k], **y** [ɪ], **z** [dz] prononciĝis​ [ɸ], [θ], [x], [ʏ], [z]. Grekdevena **z** [dz] fariĝas **z** [ts] en ***Neolingua***.
-
-| | Archelingua | Lingua | Neolingua |
-|:-|:-|:-|:-|
-| *fazo* | **phase** ['ɸasɛ] | **phase** ['fazɛ] | **faso** ['fazɔ] |
-| *temo* | **thema** ['θɛma] | **thema** ['tɛma] | **temo** ['tɛmɔ] |
-| *karaktero* | **charactere** [xarak'tɛrɛ] | **charactere** [karak'tɛrɛ] | **caractero** [karak'tɛrɔ] |
-| *sistemo* | **systema** [sʏs'tɛma] | **systema** [sɪs'tɛma] | **sistemo** [sɪs'tɛmɔ] |
-| *zono* | **zona** ['zɔna] | **zona** ['dzɔna] | **zono** ['tsɔnɔ] |
+***TODO*** nur gravaj literoj (malsamecaj)
 
 La literoj **w** [w] kaj **y** [j] aperas nur en fremdaj vortoj. **y** [j] kombiniĝas al **ty**/**cy** [tʃ], **dy**/**gy** [dʒ], **sy** [ʃ].
 
@@ -98,6 +13,86 @@ La literoj **w** [w] kaj **y** [j] aperas nur en fremdaj vortoj. **y** [j] kombi
 | | Lingua | Neolingua |
 |:-|:-|:-|
 | *Vaŝingtono* | **Wasyington** [wa'ʃɪŋgtɔn] | **Washingtono** [waʃɪŋg'tɔnɔ] |
+
+### i, u
+
+Apudvokalaj kaj radikofinaj **ĭ** kaj **ŭ** estas neakcentataj.
+
+| Archelingua → Lingua |
+|-|
+| **maĭo** *[majo]* |
+| **traĭno** *[trajno]* |
+| |
+| **lingŭa** *[lingŭa]* → *[lingva]* |
+| **aqŭo** *[akŭo]* → *[akvo]* |
+| **aŭto** *[=]* |
+| **qŭe** *[kŭe]* → *[kve]* |
+
+La finaĵo **-ĭone** *[jone]* fariĝas **-īo** *[io]*.
+
+| Archelingua → Lingua |
+|-|
+| **versĭone** *[versjone]* → **versīo** *[versio]* |
+
+### ti
+
+**tĭ** (krom en **stĭ** *[stj]*) kaj **tī** prononciĝas kun *[c]*.
+
+| Archelingua → Lingua |
+|-|
+| **bestĭa** *[bestja]* |
+| **spatĭo** *[spatjo]* → *[spacjo]* |
+| **substantĭa** *[substantja]* → *[substancja]* |
+| |
+| **garantīa** *[garantia]* → *[garancia]* |
+| **lectĭone** *[lektjone]* → **lectīo** *[lekcio]* |
+
+Simile, **tĕ** prononciĝas *[c]*.
+
+| Archelingua → Lingua |
+|-|
+| **platĕa** *[plate-a]* → *[placa]* |
+
+### ci, gi, j
+
+Antaŭ **e** kaj **i**, **c** [k] kaj **g** [g] prononciĝas [c] kaj [ĝ].
+
+| Archelingua → Lingua |
+|-|
+| **centro** *[kentro]* → *[centro]* |
+| **generale** *[generale]* → *[ĝenerale]* |
+
+Antaŭ vokalo, **ĭ** fariĝas **j** *[ĵ]*.
+
+| Archelingua → Lingua |
+|-|
+| **ĭam** *[jam]* → **jam** *[ĵam]* |
+| **ĭusta** *[justa]* → **justa** *[ĵusta]* |
+
+---
+
+### ss, s
+
+Duobla konsonanto estas prononcata kiel unuopa konsonanto. Unuobla **s** [s] prononciĝas [z] inter vokaloj.
+
+| |
+|-|
+| **terra** *[terra]* → *[tera]* |
+| |
+| **massa** *[massa]* → *[masa]* |
+| **rosa** *[rosa]* → *[roza]* |
+
+### Grekaj Vortoj
+
+| |
+|-|
+| **phase** *[ɸaze]* → *[faze]* |
+| **thema** *[θema]* → *[tema]* |
+| **chractere** *[xaraktere]* → *[karaktere]* |
+| **systema** *[systema]* → *[sistema]* |
+| **zona** *[dzona]* → *[zona]* |
+
+---
 
 ## Gramatiko
 
@@ -507,3 +502,20 @@ Ankaŭ por *dativo*, *instrumentalo*, *genitivo* uziĝas la prepozicioj **ad**, 
 | *ĉirkaŭo* | **ĉircada** | **zircalo** | **ĉircało** |
 
 ***TODO*** mano/man' -> manoi/man'i = mani
+
+---
+
+
+Verboradika fino je **-b** prononciĝas *[v]*.
+
+| |
+|-|
+| **habere** *[habere]* → **haƀe** *[have]* |
+
+---
+
+| |
+|-|
+| **scribere** *[skribere]* → **scriƀe** *[skrive]* |
+
+

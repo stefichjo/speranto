@@ -1,5 +1,7 @@
 # Piĝino
 
+***TODO*** Prapiĝino venas post Piĝino.
+
 > **Se ni eĉ supposos, qŭe la fina linguo de la s̈tontaĭ generatīoĭ s̈tas ne S̈peranto, en ĉia occaso la vĩo al tiu ellaborota linguo nepre devas conduqŭi tra S̈peranto.** *[Se ni eĉ supozos, ke la fina lingvo de la estontaj generacioj estas ne esperanto, en ĉia okazo la vojo al tiu ellaborota lingvo nepre devas konduki tra esperanto.]* →
 > **Se ni ech supposos, que la fina linguo de la estontai generatioi estas ne Esperanto, en chia occaso la voio al tiu ellaborota linguo nepre devas conduqui tra Esperanto.** *[Se ni eĉ supozos, ke la fina lingvo de la estontaj ĵenerasioj estas ne Esperanto, en ĉia okazo la vojo al tiu ellaborota lingvo nepre devas konduki tra Esperanto.]*
 > ---
@@ -164,6 +166,8 @@ Inter konsonantoj, **u** prononciĝas *[u]*. Inter konsonanto kaj vokalo (aŭ ra
 
 #### ss, s
 
+***TODO*** movu al `ojdo.md`
+
 | |
 |-|
 | **masso** *[maso]* |
@@ -310,14 +314,16 @@ En ***akĉenta Piĝino***, **i** kaj **u** inter konsonanto kaj vokalo prononci�
 | |
 | **qualito** *[kvalito]* → *[kŭalito]* |
 
-En ***akĉenta Piĝino***, **aŭ** prononciĝas *[o]*, dum **aĭ** kaj **eĭ** prononciĝas *[e]*. Simile, **ĩ** *[oj]* prononciĝas *[i]*.
+En ***akĉenta Piĝino***, **aŭ** kaj **eŭ** prononciĝas *[o]* kaj *[u]*, dum **aĭ** kaj **eĭ** prononciĝas *[e]*. Simile, **ĩ** *[oj]* prononciĝas *[i]*.
 
 | |
 |-|
 | **åŭro** *[oro]* → **aŭro** *[=]* → *[oro]* |
 | **aŭsculti** *[aŭskulti]* → *[osculti]* |
-| **caŭsi** *[kaŭzi]* → *[kozo]* |
+| **caŭsi** *[kaŭzi]* → *[kozi]* |
 | **paŭso** *[paŭzo]* → *[pozo]* |
+| |
+| **Eŭropo** *[eŭropo]* → *[uropo]* |
 | |
 | **maĭo** *[majo]* → *[meo]* |
 | **semaĭno** *[semajno]* → *[semeno]* |
@@ -385,6 +391,12 @@ En ***ital-akĉenta Piĝino***, **x** *[ks]*/*[kz]* prononciĝas *[s]*/*[z]*. Si
 | **exemplo** *[ekzemplo]* → *[ezemplo]* |
 | |
 | **psalmo** *[=]* → *[salmo]* |
+
+Duobla konsonanto prononciĝas duoble.
+
+| |
+|-|
+| **terro** *[tero]* → *[terro]* |
 
 ### Franca
 
