@@ -2,21 +2,11 @@
 
 ***Lingua*** baziĝas sur la ***Latina*** kaj la [***Internaciaj Ortografioj***](latinidaj/README.md) de la ***Latinidaj Lingvoj***. El ***Lingua*** pruntas [***Ojdo***](ojdo.md) kaj [***Piĝino***](pighino.md).
 
-## Alfabeto
-
-***TODO*** nur gravaj literoj (malsamecaj)
-
-La literoj **w** [w] kaj **y** [j] aperas nur en fremdaj vortoj. **y** [j] kombiniĝas al **ty**/**cy** [tʃ], **dy**/**gy** [dʒ], **sy** [ʃ].
-
-*Neolingua:* Anstataŭ **y** uziĝas **h** kombine kun konsonanto.
-
-| | Lingua | Neolingua |
-|:-|:-|:-|
-| *Vaŝingtono* | **Wasyington** [wa'ʃɪŋgtɔn] | **Washingtono** [waʃɪŋg'tɔnɔ] |
+## Prononco
 
 ### i, u
 
-Apudvokalaj kaj radikofinaj **ĭ** kaj **ŭ** estas neakcentataj.
+Apudvokalaj kaj radikofinaj **ĭ** *[j]* kaj **ŭ** *[=]* estas neakcentataj. Post konsonanto, **ŭ** *[=]* prononciĝas *[v]*.
 
 | Archelingua → Lingua |
 |-|
@@ -24,9 +14,8 @@ Apudvokalaj kaj radikofinaj **ĭ** kaj **ŭ** estas neakcentataj.
 | **traĭno** *[trajno]* |
 | |
 | **lingŭa** *[lingŭa]* → *[lingva]* |
-| **aqŭo** *[akŭo]* → *[akvo]* |
+| **vidŭa** *[vidŭa]* → *[vidva]* |
 | **aŭto** *[=]* |
-| **qŭe** *[kŭe]* → *[kve]* |
 
 La finaĵo **-ĭone** *[jone]* fariĝas **-īo** *[io]*.
 
@@ -51,7 +40,7 @@ Simile, **tĕ** prononciĝas *[c]*.
 
 | Archelingua → Lingua |
 |-|
-| **platĕa** *[plate-a]* → *[placa]* |
+| **platĕa** *[plate_a]* → *[placa]* |
 
 ### ci, gi, j
 
@@ -69,7 +58,12 @@ Antaŭ vokalo, **ĭ** fariĝas **j** *[ĵ]*.
 | **ĭam** *[jam]* → **jam** *[ĵam]* |
 | **ĭusta** *[justa]* → **justa** *[ĵusta]* |
 
----
+### qu, c, g
+
+| Archelingua → Lingua |
+|-|
+| **aqŭo** *[akŭo]* → *[akvo]* |
+| **qŭe** *[kŭe]* → *[kve]* |
 
 ### ss, s
 
@@ -82,17 +76,22 @@ Duobla konsonanto estas prononcata kiel unuopa konsonanto. Unuobla **s** [s] pro
 | **massa** *[massa]* → *[masa]* |
 | **rosa** *[rosa]* → *[roza]* |
 
+### x
+
+| |
+|-|
+| **exemplo** *[ekzemplo]* |
+| **fixa** *[fiksa]* |
+
 ### Grekaj Vortoj
 
 | |
 |-|
-| **phase** *[ɸaze]* → *[faze]* |
+| **phase** *[ɸase]* → *[faze]* |
 | **thema** *[θema]* → *[tema]* |
-| **chractere** *[xaraktere]* → *[karaktere]* |
+| **chractere** *[ĥaraktere]* → *[karaktere]* |
 | **systema** *[systema]* → *[sistema]* |
 | **zona** *[dzona]* → *[zona]* |
-
----
 
 ## Gramatiko
 
@@ -103,28 +102,28 @@ Duobla konsonanto estas prononcata kiel unuopa konsonanto. Unuobla **s** [s] pro
 | *1* | **un** | **unesma** |
 | *2* | **du** | **duesma** |
 | *3* | **tri** | **triesma** |
-| *4* | **quar** | **quaresma** |
-| *5* | **quin** | **quinesma** |
-| *6* | **six** | **sixesma** |
+| *4* | **qŭar** | **qŭaresma** |
+| *5* | **qŭin** | **qŭinesma** |
+| *6* | **ses** | **sessesma** |
 | *7* | **sep** | **sepesma** |
 | *8* | **oc** | **ocesma** |
-| *9* | **nau** | **nauesma** |
+| *9* | **naŭ** | **naŭesma** |
 | *10* | **dec** | **decesma** |
 | *100* | **cent** | **centesma** |
 | *1000* | **mill** | **millesma** |
 
-Intervaloj esprimiĝas per la sufikso **-t-**.
+Intervaloj esprimiĝas per la sufikso **-t-**. ***TODO*** quaresma parto ⇒ quarto
 
-* **quarto** *(kvarto)*
+* **qŭarto** *(kvarto)*
 
-*Archelingua:* Ordinaloj (ĝis 10) havis la sufikson **-t-**. La numeraloj **un**, **du**, **tri** havis apartajn formojn kiel ordinaloj.
+*Archelingua:* Ordinaloj (ĝis 10) havis la sufikson **-t-**. La numeraloj **un**, **du**, **tri** havis apartajn formojn kiel ordinalojn.
 
 | | Archelingua | Lingua |
 |:-|:-|:-|
 | *1-a* | **prima** | **unesma** |
 | *2-a* | **secunda** | **duesma** |
-| *3-a* | **tertia** | **triesma** |
-| *4-a* | **quarta** | **quaresma** |
+| *3-a* | **tertĭa** | **triesma** |
+| *4-a* | **qŭarta** | **qŭaresma** |
 
 ### Korelativoj
 
@@ -132,7 +131,7 @@ Korelativoj havas la ŝajnfinaĵojn **-o**, **-a**, **-e** kaj **-i**.
 
 |**-o**|**-a**|**-e**|**-i**|
 |-|-|-|-|
-|**quo**|**qua**|**que**|**qui**|
+|**qŭo**|**qŭa**|**qŭe**|**qŭi**|
 |*(kio)*|*(kia)*|*(kiel)*|*(kien)*|
 | | | | |
 |**ho**|**ha**|**he**|**hi**|
@@ -155,6 +154,21 @@ Korelativoj havas la ŝajnfinaĵojn **-o**, **-a**, **-e** kaj **-i**.
 | | | | |
 |**ono**|**ona**|**one**|**oni**|
 |*(io)*|*(ia)*|*(iel)*|*(ien)*|
+
+---
+
+***TODO*** conjugatio en Lingua
+
+* ama mu → amam
+* ama tu → amat/amas
+* ama lu → ama(l)/amat
+
+* ama imus → amamus
+* ama itus → amatus
+* ama ilu → amas/aman
+
+
+---
 
 *Archelingua:* Anstataŭ la ŝajnfinaĵo **-i** uziĝis la prepozicio **ad**.
 
@@ -241,21 +255,14 @@ Pere de la ŝajnfinaĵo **-a** formiĝas *posesivaj pronomoj*.
 
 ### Radikaj Vortoj
 
-#### Substantivoj
-
-Substantivoj havas la *vir-genran ablativan* formon el la ***Latina***. En sia *multenombra* formo, ĝi ricevas la finaĵon **-s**.
-
-* **amico** *(amiko)*
-* **amicos** *(amikoj)*
-
-Substantivoj estas baze nombre kaj genre *neŭtraj*, t.e. ili ne distingiĝas laŭ *nombro* aŭ *genro*. Nur en *vokativo* eblas esprimi nombron per la finaĵo **-u** por ***ununombro*** aŭ per la ŝajnfinaĵo **-i** por *multenombro* respektive *genron* per la ŝajnfinaĵo **-a** por *in-genro* aŭ per la ŝajnfinaĵo **-o** por *vir-genro*.
-
-| | | | |
-|-|-|-|-|
-|**Amicu!**|**Amici!**|**Amica!**|**Amico!**|
-|*(Amiko!)*|*(Amikoj!)*|*(Amikino!)*|*(Vir-amiko!)*|
-
 ***TODO***
+
+En sia *multenombra* formo, ĝi ricevas la finaĵon **-s**.
+
+| |
+|-|
+| **amico** *[amiko]* |
+| **amicos** *[amikos]* |
 
 *Lingvaismo:*
  La *vokativa* finaĵo **-u** fariĝas *imperativa* finaĵo.

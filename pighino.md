@@ -142,7 +142,7 @@ En ***Piĝino***, la skriboj varias laŭ ilia pozicio, t.e. ĉu ili estas radiko
 
 #### qu, c, g
 
-Inter konsonantoj, **u** prononciĝas *[u]*. Inter konsonanto kaj vokalo (aŭ radikofino), **u** prononciĝas *[v]*, kaj **ū** restas *[u]*. Post vokalo, ĝi fariĝas **ŭ** *[ŭ]*. Post konsonanto, **ŭ** estas muta.
+Inter konsonantoj, **u** prononciĝas *[u]*. Inter konsonanto kaj vokalo (aŭ radikofino), **u** prononciĝas *[v]*, kaj **ū** restas *[u]*. Post vokalo, ĝi fariĝas **ŭ** *[ŭ]*. ***TODO*** Post konsonanto, **ŭ** estas muta.
 
 | |
 |-|
