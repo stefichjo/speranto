@@ -217,22 +217,22 @@ Samkiel en **aŭ** [aŭ], **ŭ** prononciĝas [ŭ] en **eŭ**. Tra bruo, **y** p
 | **y̆es** *[jes]* |
 | |
 | **æn** → **aĭn** *[ajn]* |
-| **bilđo** → **bildo** *[bildo]* |
+| **bilđo** → **bildo** *[=]* |
 | **tollo** → **çollo** *[colo]* |
-| **đrinki** → **drinki** *[drinki]* |
+| **đrinki** → **drinki** *[=]* |
 | **fĩna** → **faĭna** *[fajna]* |
 | **kĩŧo** → **kaĭto** *[kajto]* |
-| **lũda** → **laŭta** *[laŭta]* |
-| **milđa** → **milda** *[milda]* |
+| **lũda** → **laŭta** *[=]* |
+| **milđa** → **milda** *[=]* |
 | **pelŧo** → **pelto** *[pelto]* |
 | **shĩni** → **shaĭni** *[ŝajni]* |
 | **shilđo** → **shildo** *[ŝildo]* |
-| **slimo** → **ŝlimo** *[ŝlimo]* |
-| **snuro** → **ŝnuro** *[ŝnuro]* |
-| **spruti** → **ŝpruci** *[ŝpruci]* |
-| **stalo** → **ŝtalo** *[ŝtalo]* |
-| **staŧo** → **ŝtato** *[ŝtato]* |
-| **drinki** → **trinki** *[trinki]* |
+| **slimo** → **ŝlimo** *[=]* |
+| **snuro** → **ŝnuro** *[=]* |
+| **spruti** → **ŝpruci** *[=]* |
+| **stalo** → **ŝtalo** *[=]* |
+| **staŧo** → **ŝtato** *[=]* |
+| **drinki** → **trinki** *[=]* |
 | |
 | **warma** *[varma]* → *[ŭarma]* |
 | |
@@ -243,14 +243,15 @@ Samkiel en **aŭ** [aŭ], **ŭ** prononciĝas [ŭ] en **eŭ**. Tra bruo, **y** p
 
 | |
 |-|
-| **biero** *[biero]* |
-| **boato** *[boato]* |
+| **biero** *[=]* |
+| **boato** *[=]* |
 | **hobbyo** *[hobio]* |
-| **memeo** *[memeo]* |
+| **memeo** *[=]* |
 | **naĭlo** *[najlo]* |
-| **parto** *[partio]* |
+| **partyo** *[partio]* |
 | **Reĭno** *[rejno]* |
-| **teamo** *[teamo]* |
+| **stranga** *[=]* |
+| **teamo** *[=]* |
 | **traĭto** *[trajto]* |
 | |
 | **stono** → **ŝtono** *[ŝtono]* |

@@ -2,7 +2,7 @@
 
 ***Lingua*** baziĝas sur la ***Latina*** kaj la [***Internaciaj Ortografioj***](latinidaj/README.md) de la ***Latinidaj Lingvoj***. El ***Lingua*** pruntas [***Piĝino***](pighino.md).
 
-***TODO*** Lingua ⇒ Glossa
+***TODO*** Lingua ⇒ Glossa, Interlingua
 
 ## Prononco
 
@@ -129,7 +129,7 @@ Intervaloj esprimiĝas per la sufikso **-t-**. ***TODO*** quaresĭma parto ⇒ q
 
 ### Korelativoj
 
-Korelativoj havas la ŝajnfinaĵojn **-o**, **-a**, **-e** kaj **-i**.
+Korelativoj havas la finaĵojn **-o**, **-a**, **-e** kaj **-i**.
 
 | | |
 |-|-|
@@ -149,7 +149,9 @@ Korelativoj havas la ŝajnfinaĵojn **-o**, **-a**, **-e** kaj **-i**.
 | *ĉio* | **omno** *[=]* |
 | *io* | **ono** *[=]* |
 
-***En poezio***, la ŝajnfinaĵo **-i** de celaj korelativoj uziĝas anstataŭ la akuzativa prepozicio **a**.
+La korelativa 
+
+***En poezio***, la ço **-i** de celaj korelativoj uziĝas anstataŭ la akuzativa prepozicio **a**.
 
 | | | tra bruo | poezie |
 |-|-|-|-|
@@ -182,7 +184,7 @@ La korelativoj **la**, **que** kaj **ne** uziĝas kiel difina *artikolo*, *konju
 
 ### Pronomoj
 
-Pronomoj havas la ŝajnfinaĵon **-u**. La persona pronomo **lu** uziĝas por *etinfanoj* kaj *bestoj*. La refleksiva pronomo estas **su**.
+Pronomoj havas la finaĵon **-u**. La persona pronomo **lu** uziĝas por *etinfanoj* kaj *bestoj*. La refleksiva pronomo estas **su**.
 
 | | | |
 |-|-|-|
@@ -195,7 +197,7 @@ Pronomoj havas la ŝajnfinaĵon **-u**. La persona pronomo **lu** uziĝas por *e
 |**nu**|**vu**|**ilu**|
 |*(ni)*|*(vi)*|*(ili)*|
 
-***Piĝino*** pruntas la ŝajnfinaĵon **-u** kiel tabelvortan ŝajnfinaĵon por *individu(aĵ)oj*.
+***Piĝino*** pruntas la pronoman finaĵon **-u** kiel tabelvortan finaĵon por *individu(aĵ)oj*.
 
 | | Piĝino |
 |:-|:-|
@@ -262,7 +264,7 @@ En sia *multenombra* formo, ĝi ricevas la finaĵon **-s**.
 | **Amicu!** | **Ho amiko!** |
 | **Adjuva!** | **Helpu!** |
 
-La ŝajnfinaĵo de substantivo povas eliziiĝi.
+La finaĵo de substantivo povas eliziiĝi.
 
 | | |
 |:-|:-|
@@ -296,7 +298,7 @@ La ŝajnfinaĵoj **-īo**, **-o**, **-ore**, **-ura** aperas ĉe *participoj* ka
 | *"staranto", statoro* | **statore** |
 | *"staraĵo", staturo* | **statura** |
 
-*Archelingua:* Kelkaj latin-devenaj ŝajnfinaĵoj de substantivoj ŝanĝiĝis.
+*Archelingua:* Kelkaj latin-devenaj finaĵoj de substantivoj ŝanĝiĝis.
 
 | | Archelingua | Lingua |
 |:-|:-|:-|
