@@ -1,6 +1,8 @@
 # Lingua
 
-***Lingua*** baziĝas sur la ***Latina*** kaj la [***Internaciaj Ortografioj***](latinidaj/README.md) de la ***Latinidaj Lingvoj***. El ***Lingua*** pruntas [***Ojdo***](ojdo.md) kaj [***Piĝino***](pighino.md).
+***Lingua*** baziĝas sur la ***Latina*** kaj la [***Internaciaj Ortografioj***](latinidaj/README.md) de la ***Latinidaj Lingvoj***. El ***Lingua*** pruntas [***Piĝino***](pighino.md).
+
+***TODO*** Lingua ⇒ Glossa
 
 ## Prononco
 
@@ -99,20 +101,20 @@ Duobla konsonanto estas prononcata kiel unuopa konsonanto. Unuobla **s** [s] pro
 
 | | numeralo | ordinalo |
 |:-|:-|:-|
-| *1* | **un** | **unesma** |
-| *2* | **du** | **duesma** |
-| *3* | **tri** | **triesma** |
-| *4* | **qŭar** | **qŭaresma** |
-| *5* | **qŭin** | **qŭinesma** |
-| *6* | **ses** | **sessesma** |
-| *7* | **sep** | **sepesma** |
-| *8* | **oc** | **ocesma** |
-| *9* | **naŭ** | **naŭesma** |
-| *10* | **dec** | **decesma** |
-| *100* | **cent** | **centesma** |
-| *1000* | **mill** | **millesma** |
+| *1* | **un** | **unesĭma** → **unesma** |
+| *2* | **du** | **duesĭma** → **duesma** |
+| *3* | **tri** | **triesĭma** → **triesma** |
+| *4* | **qŭar** | **qŭaresĭma** → **qŭaresma** |
+| *5* | **qŭin** | **qŭinesĭma** → **qŭinesma** |
+| *6* | **ses** | **sessesĭma** → **sessesma** |
+| *7* | **sep** | **sepesĭma** → **sepesma** |
+| *8* | **oc** | **ocesĭma** → **ocesma** |
+| *9* | **naŭ** | **naŭesĭma** → **naŭesma** |
+| *10* | **dec** | **decesĭma** → **decesma** |
+| *100* | **cent** | **centesĭma** → **centesma** |
+| *1000* | **mill** | **millesĭma** → **millesma** |
 
-Intervaloj esprimiĝas per la sufikso **-t-**. ***TODO*** quaresma parto ⇒ quarto
+Intervaloj esprimiĝas per la sufikso **-t-**. ***TODO*** quaresĭma parto ⇒ quarto
 
 * **qŭarto** *(kvarto)*
 
@@ -120,82 +122,55 @@ Intervaloj esprimiĝas per la sufikso **-t-**. ***TODO*** quaresma parto ⇒ qua
 
 | | Archelingua | Lingua |
 |:-|:-|:-|
-| *1-a* | **prima** | **unesma** |
-| *2-a* | **secunda** | **duesma** |
-| *3-a* | **tertĭa** | **triesma** |
-| *4-a* | **qŭarta** | **qŭaresma** |
+| *1-a* | **prima** | **unesĭma** → **unesma** |
+| *2-a* | **secunda** | **duesĭma** → **duesma** |
+| *3-a* | **tertĭa** | **triesĭma** → **triesma** |
+| *4-a* | **qŭarta** | **qŭaresĭma** → **qŭaresma** |
 
 ### Korelativoj
 
 Korelativoj havas la ŝajnfinaĵojn **-o**, **-a**, **-e** kaj **-i**.
 
-|**-o**|**-a**|**-e**|**-i**|
+| | |
+|-|-|
+| *kio* | **qŭo** *[kvo]* |
+| *kia* | **qŭa** *[kva]* |
+| *kiel* | **qŭe** *[kve]* |
+| *kien* | **qŭi** *[kvi]* |
+
+| | |
+|-|-|
+| *kio* | **qŭo** *[kvo]* |
+| *jen tio* | **ho** *[=]* |
+| *ĉi tio* | **jo** *[ĵo]* |
+| *tio* | **to** *[=]* |
+| *fore tio* | **lo** *[=]* |
+| *nenio* | **no** *[=]* |
+| *ĉio* | **omno** *[=]* |
+| *io* | **ono** *[=]* |
+
+***En poezio***, la ŝajnfinaĵo **-i** de celaj korelativoj uziĝas anstataŭ la akuzativa prepozicio **a**.
+
+| | | tra bruo | poezie |
 |-|-|-|-|
-|**qŭo**|**qŭa**|**qŭe**|**qŭi**|
-|*(kio)*|*(kia)*|*(kiel)*|*(kien)*|
-| | | | |
-|**ho**|**ha**|**he**|**hi**|
-|*(jen tio)*|*(jen tia)*|*(jen tiel)*|*(jen tien)*|
-| | | | |
-|**jo**|**ja**|**je**|**ji**|
-|*(ĉi tio)*|*(ĉi tia)*|*(ĉi tiel)*|*(ĉi tien)*|
-| | | | |
-|**to**|**ta**|**te**|**ti**|
-|*(tio)*|*(tia)*|*(tiel)*|*(tien)*|
-| | | | |
-|**lo**|**la**|**le**|**li**|
-|*(fore tio)*|*(fore tia)*|*(fore tiel)*|*(fore tien)*|
-| | | | |
-|**no**|**na**|**ne**|**ni**|
-|*(nenio)*|*(nenia)*|*(neniel)*|*(nenien)*|
-| | | | |
-|**omno**|**omna**|**omne**|**omni**|
-|*(ĉio)*|*(ĉia)*|*(ĉiel)*|*(ĉien)*|
-| | | | |
-|**ono**|**ona**|**one**|**oni**|
-|*(io)*|*(ia)*|*(iel)*|*(ien)*|
+| *kion* | **a qŭo** *[a kvo]* | **ad qŭo** *[ad kvo]* | **qŭi** *[kvi]* |
 
 ---
 
-***TODO*** conjugatio en Lingua
-
-* ama mu → amam
-* ama tu → amat/amas
-* ama lu → ama(l)/amat
-
-* ama imus → amamus
-* ama itus → amatus
-* ama ilu → amas/aman
-
-
----
-
-*Archelingua:* Anstataŭ la ŝajnfinaĵo **-i** uziĝis la prepozicio **ad**.
-
-| | Archelingua | Lingua |
-|:-|:-|:-|
-| *Kie vi estas?* | **Que esse tu?** | **Que esse tu?** |
-| *Kien vi iras?* | **Ad que vade tu?** | **Qui vade tu?** |
-
-Korelativoj havas fakte pli ampleksajn signifojn. **-o** povas esti pri *afero* aŭ *persono*. **-a** povas esti pri *speco* aŭ *posedo*/*origino*. **-e** povas esti pri *loko*, *maniero*, *graveco*/*kvanto*, *intenco*. **-i** estas pri *celo*/*intenco*, ĉu de movo aŭ ago. Pere de ŝajnsufiksoj eblas formi pli specifajn korelativojn.
+Korelativoj havas fakte pli ampleksajn signifojn. **-a** povas esti pri *speco* aŭ *posedo*/*origino*. **-e** povas esti pri *loko*, *maniero*, *graveco*/*kvanto*, *intenco*. **-i** estas pri *celo*/*intenco*, ĉu de movo aŭ ago. Pere de ŝajnsufiksoj eblas formi pli specifajn korelativojn.
 
 | | |
 |:-|:-|
-| *kiu (afero), kio* | **quajo** |
-| *kiu (persono), kiu* | **quulo** |
-| | |
-| *kiuspeca, kia* | **quessa** |
-| *de kiu/kio/kie, kies* | **quesma** |
-| | |
-| *kiuloke, kie* | **queje** |
 | *kiutempe, kiam* | **quande** |
 | *kiukvante, kiom* | **quante** |
 | *kiumaniere, kiel* | **quale** |
 | *kiuintence, kial* | **quare** |
 
-Anstataŭ **quo** por *persono*, eblas uzi **qua persona** aŭ nur **qua**.
+Anstataŭ **quo** por *persono*, kutime uziĝas **qua persona** aŭ nur **qua**.
 
 * **Quo vene?** → **Qua (persona) vene?** *(Kiu venas?)*
+
+***TODO*** quu (vokativo nur senc-havas che personoj)
 
 #### la, que kaj ne
 
@@ -234,6 +209,16 @@ Pronomoj havas la ŝajnfinaĵon **-u**. La persona pronomo **lu** uziĝas por *e
 | *vi* | **vi** | **vu** |
 | *ili* | **li** | **ilu** |
 
+***TODO*** conjugatio en Lingua
+
+* ama mu → amam
+* ama tu → amat/amas
+* ama lu → ama(l)/amat
+
+* ama imus → amamus
+* ama itus → amatus
+* ama ilu → amas/aman
+
 ***TODO***
 
 *Lingvaismo:* La pronoma ŝajnsufikso **-i** por *multenombraj* pronomoj en ***Archelingua*** fariĝas la finaĵo **-ĭ** [j] por *multenombro*.
@@ -255,7 +240,13 @@ Pere de la ŝajnfinaĵo **-a** formiĝas *posesivaj pronomoj*.
 
 ### Radikaj Vortoj
 
-***TODO***
+#### Substantivoj
+
+La vokativa finaĵo estas **-u**.
+
+| |
+|-|
+| **amicu** *[amiku]* |
 
 En sia *multenombra* formo, ĝi ricevas la finaĵon **-s**.
 
@@ -264,19 +255,12 @@ En sia *multenombra* formo, ĝi ricevas la finaĵon **-s**.
 | **amico** *[amiko]* |
 | **amicos** *[amikos]* |
 
-*Lingvaismo:*
- La *vokativa* finaĵo **-u** fariĝas *imperativa* finaĵo.
+***Piĝino*** pruntas la vokativan finaĵon **-u** kiel imperativan finaĵon.
 
-| | Neolingua | Piĝino |
-|:-|:-|:-|
-| *Helpu!* | **Adjuven!** → **Adjuvu!** | **Helpu!** |
-
-La ŝajnfinaĵoj **-a** kaj **-o** uziĝas ĉe nomoj por distingi inter la genroj.
-
-| | |
-|:-|:-|
-| *Karla* | **Carla** |
-| *Karlo* | **Carlo** |
+| Lingua | Piĝino |
+|-|-|
+| **Amicu!** | **Ho amiko!** |
+| **Adjuva!** | **Helpu!** |
 
 La ŝajnfinaĵo de substantivo povas eliziiĝi.
 
@@ -358,13 +342,7 @@ Adverboj formiĝas kun **-mente**.
 
 | | |
 |-|-|
-| *mila* | **millesma** |
-
-***Piĝino*** pruntas la ŝajnfinaĵon **-esĭma** kiel la tabelvortan ŝajnfinaĵon **-es** por *posedo*.
-
-| | Linga | Piĝino |
-|:-|:-|:-|
-| *kies* | **qŭesma** | **kies** *[=]* → **qŭies** |
+| *mila* | **millesĭma** → **millesma** |
 
 ***Piĝino*** pruntas la ŝajnfinaĵojn **-ande** kaj **-ante** kiel la tabelvortajn ŝajnfinaĵojn **-añ** *[am]* kaj **-åñ** *[om]*.
 
@@ -508,8 +486,6 @@ Ankaŭ por *dativo*, *instrumentalo*, *genitivo* uziĝas la prepozicioj **ad**, 
 | *ĉirkaŭ* | **ĉirc' ad** | **zirc' al** | **ĉirc' ał** |
 | *ĉirkaŭo* | **ĉircada** | **zircalo** | **ĉircało** |
 
-***TODO*** mano/man' -> manoi/man'i = mani
-
 ---
 
 
@@ -524,5 +500,12 @@ Verboradika fino je **-b** prononciĝas *[v]*.
 | |
 |-|
 | **scribere** *[skribere]* → **scriƀe** *[skrive]* |
+
+Nomoj finiĝas je **-o** por vir-genro kaj **-a** por in-genro.
+
+| Argelingua | Lingua |
+|-|-|
+| **Petrus** *[=]* | **Petro** *[=]* |
+| **Petra** *[=]* | **Petra** *[=]* |
 
 

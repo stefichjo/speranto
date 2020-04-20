@@ -164,23 +164,6 @@ Inter konsonantoj, **u** prononciĝas *[u]*. Inter konsonanto kaj vokalo (aŭ ra
 | **qŭe** *[ke]* |
 | (**kio** → **qŭio** *[kio]* ) |
 
-#### ss, s
-
-***TODO*** movu al `ojdo.md`
-
-| |
-|-|
-| **masso** *[maso]* |
-| |
-| **roso** *[rozo]* |
-
-#### x
-
-| |
-|-|
-| **exemplo** *[ekzemplo]* |
-| **fixi** *[fiksi]* |
-
 ### Grekaj Vortoj
 
 Samkiel en **aŭ** [aŭ], **ŭ** prononciĝas [ŭ] en **eŭ**. Tra bruo, **y** prononciĝas *[y]*.

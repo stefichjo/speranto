@@ -1,46 +1,69 @@
-# Ojdo
+# Novlinguo
 
-***TODO*** Ortografio estas strikte aparta temo. (Oni ne havu apartan dialekton nur por havi dezideratan ortografion.)
-
-***TODO*** Lingua ⇒ Glossa
-
-***TODO*** Oido ⇒ Adjuvilo, Ido
-
-***TODO*** Pigino ⇒ Esperanto
-
-***TODO*** Ido: amic', amic'i = amiqui
-
-***TODO*** Ido + vocativo: Polu! Polui! → Poluio → Pol'io = Polio
-
----
-
-***TODO*** Oido ⇒ Adjuvilo, Novoido ⇒ Ido
+***TODO*** Novlinguo ⇒ Adjuvilo, Ido
 
 ## Gramatiko
 
 ### Substantivoj
 
-Substantivoj finiĝas je **-o**. Ĝi estas ellasebla. Anstataŭ la multenombra finaĵo **-s** uziĝas **-i** post ellasita **-o**.
+Substantivoj finiĝas je **-o**. ***En poezio***, ĝi estas ellasebla. Anstataŭ la multenombra finaĵo **-s** uziĝas **-i** post ellasita **-o**.
 
-| |
-|-|
-| **domo** *[=]* |
-| **dom'** *[=]* |
-| |
-| **domos** *[=]* |
-| **domi** *[=]* |
-
-Nomoj finiĝas je **-o** por vir-genro kaj **-a** por in-genro.
-
-| Lingua | Oido |
+| | poezie |
 |-|-|
-| **Petrus** *[=]* | **Petro** *[=]* |
-| **Petra** *[=]* | **Petra** *[=]* |
+| **domo** *[=]* | **dom'** *[=]* |
+| **domos** *[=]* | **domi** *[=]* |
 
-La vokativa finaĵo estas **-u**.
+La akuzativa prepozicio estas **a**. ***Tra bruo***, ĝi anstataŭiĝas per la alativa prepozicio **ad**.
+
+| | tra bruo |
+|-|-|
+| **a amico** *[=]* | **ad amico** *[=]* |
+
+### Korelativoj
+
+| | |
+|-|-|
+| *kio* | **qŭajo** *[kvaĵo]* |
+| *kiu* | **qŭulo** *[kvulo]* |
+| *kie* | **qŭeĭe** *[kveje]* |
+| *kia* | **qŭessa** *[kvesa]* |
+| *kies* | **qŭesĭma** → **qŭesma** *[kvesma]* |
+
+***Piĝino*** pruntas la ŝajnfinaĵon **-esĭma** kiel la tabelvortan ŝajnfinaĵon **-es** por *posedo*.
+
+| Neolingua | Piĝino |
+|-|-|
+| **qŭesĭma** → **qŭesma** | **kies** *[=]* → **qŭies** |
+
+### Artikoloj
+
+La difina artikolo estas **la**. **En poezio**, ĝi mallongiĝas al **l'-** antaŭ vokalokomenca vorto respektive al **-l** post vokalofina prepozicio.
+
+| | poezie |
+|-|-|
+| **por la amo** | **por l'amo** |
+| **de la amo** | **del amo** |
+
+### Verboj
+
+Infinitivoj finiĝas je **-i**.
 
 | |
 |-|
-| **amicu** *[amiku]* |
+| **vidi** *[=]* |
 
+La indikativoj finiĝas je **-n** (kun tempa vokalismo).
+
+| | |
+|-|-|
+| *La viro iras dormi.* | **La viro vadan dormi.** *[=]* |
+| | |
+| *Laboru!* | **Laboren!** *[=]* |
+
+***Piĝino*** pruntas la imperativan finaĵon **-en** kiel celan finaĵon (por korelativoj).
+
+| Neolingua | Piĝino |
+|-|-|
+| **Laboren!** | **Laboru!** |
+| **Labori!** | **Laboren!** |
 
