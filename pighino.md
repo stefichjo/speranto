@@ -367,12 +367,12 @@ En ***ital-akĉenta Piĝino***, la *[e]* antaŭ **s̈** mutas.
 | **S̈peranto** *[esperanto]* → **Esperanto** *[=]* → *[speranto]* |
 | **s̈ti** → **esti** *[esti]* → *[sti]* |
 
-En ***ital-akĉenta Piĝino***, **x** *[ks]*/*[kz]* prononciĝas *[s]*/*[z]*. Simile, **ps** *[ps]* prononciĝas *[s]*.
+En ***ital-akĉenta Piĝino***, **x** *[ks]*/*[gz]* prononciĝas *[s]*/*[z]*. Simile, **ps** *[ps]* prononciĝas *[s]*.
 
 | |
 |-|
 | **texto** *[teksto]* → *[testo]* |
-| **exemplo** *[ekzemplo]* → *[ezemplo]* |
+| **exemplo** *[egzemplo]* → *[ezemplo]* |
 | |
 | **psalmo** *[=]* → *[salmo]* |
 
