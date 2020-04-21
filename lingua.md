@@ -92,6 +92,20 @@ Antaŭ **e** kaj **i**, **c** [k] kaj **g** [g] prononciĝas [c] kaj [ĝ].
 | **systema** *[systema]* → *[sistema]* |
 | **zona** *[dzona]* → *[zona]* |
 
+La grek-devenaj ŝajnfinaĵoj **-i**, **-īa**, **-a**, **-e** havas signifojn similajn al la ŝajnfinaĵoj **-ĭone**, **-o**, **-ore**, **-ura**.
+
+| | |
+|-|-|
+| *"lumskribado"*, *fotografado* | **photographi** |
+| *"lumskribmaniero"*, *fotografio* | **photographīa** |
+| *"lumskribanto"*, *fotografisto* | **photographa** |
+| *"lumskribaĵo"*, *fotografaĵo* | **photographe** |
+| | |
+| *"starado"*, *stacio* | **statĭone** |
+| *"starmaniero"*, *staro* | **stato** |
+| *"staranto"*, *statoro* | **statore** |
+| *"staraĵo"*, *staturo* | **statura** |
+
 ## Gramatiko
 
 ### Substantivoj
@@ -106,35 +120,63 @@ Substantivoj je **-o** kaj **-e** havas vokativojn je **-u** kaj **-i**.
 | *homoj* | **gente** |
 | *ho homoj!| **genti!** |
 
+En sia *multenombra* formo, ĝi ricevas la finaĵon **-s**.
+
+| | |
+|-|-|
+| *amiko* | **amico** |
+| *amikoj* | **amicos** |
+
+Kelkaj latin-devenaj finaĵoj de substantivoj ŝanĝiĝis.
+
+| | Latina | Lingua |
+|:-|:-|:-|
+| *nomo* | **nomine** | **nome** |
+| *limo* | **limite** | **lime** |
+| *maro* | **mari** | **mare** |
+| *mano* | **manu** | **mano** |
+| *partiklo* | **particŭla** | **particla** |
+
+Nomoj kaj terminoj konservas sian specifan *nominativan* formon.
+
+| | |
+|-|-|
+| *(Juliuso)* | **Iulius** |
+| *(homo)* | **homo** |
+| *(datumoj)* | **data** |
+| *(dato)* | **datum** |
+| *(statuso)* | **status** |
+
 ### Numeraloj
 
 | | numeralo | ordinalo |
-|:-|:-|:-|
-| *1* | **un** | **unesĭma** → **unesma** |
-| *2* | **du** | **duesĭma** → **duesma** |
-| *3* | **tri** | **triesĭma** → **triesma** |
-| *4* | **qŭar** | **qŭaresĭma** → **qŭaresma** |
-| *5* | **qŭin** | **qŭinesĭma** → **qŭinesma** |
-| *6* | **ses** | **sessesĭma** → **sessesma** |
-| *7* | **sep** | **sepesĭma** → **sepesma** |
-| *8* | **oc** | **ocesĭma** → **ocesma** |
-| *9* | **naŭ** | **naŭesĭma** → **naŭesma** |
-| *10* | **dec** | **decesĭma** → **decesma** |
-| *100* | **cent** | **centesĭma** → **centesma** |
-| *1000* | **mill** | **millesĭma** → **millesma** |
+|-|-|-|
+| *1* | **un** | **prima** → **unesĭma** = **unesma** |
+| *2* | **du** | **secunda** → **duesĭma** = **duesma** |
+| *3* | **tri** | **tertĭa** → **triesĭma** = **triesma** |
+| *4* | **qŭar** | **qŭarta** → **qŭaresĭma** = **qŭaresma** |
+| *5* | **qŭin** | **qŭinta** → **qŭinesĭma** = **qŭinesma** |
+| *6* | **ses** | **sesta** → **sessesĭma** = **sessesma** |
+| *7* | **sep** | **septa** → **sepesĭma** = **sepesma** |
+| *8* | **oc** | **octa** → **ocesĭma** = **ocesma** |
+| *9* | **naŭ** | **naŭta** → **naŭesĭma** = **naŭesma** |
+| | | |
+| *10* | **dec** | **decesĭma** = **decesma** |
+| *100* | **cent** | **centesĭma** = **centesma** |
+| *1000* | **mill** | **millesĭma** = **millesma** |
 
 Intervaloj esprimiĝas per la sufikso **-t-**. ***TODO*** quaresĭma parto ⇒ quarto
 
 * **qŭarto** *(kvarto)*
 
-*Archelingua:* Ordinaloj (ĝis 10) havis la sufikson **-t-**. La numeraloj **un**, **du**, **tri** havis apartajn formojn kiel ordinalojn.
+Ordinaloj (ĝis 10) havis la sufikson **-t-**. La numeraloj **un**, **du**, **tri** havis apartajn formojn kiel ordinalojn.
 
-| | Archelingua | Lingua |
-|:-|:-|:-|
-| *1-a* | **prima** | **unesĭma** → **unesma** |
-| *2-a* | **secunda** | **duesĭma** → **duesma** |
-| *3-a* | **tertĭa** | **triesĭma** → **triesma** |
-| *4-a* | **qŭarta** | **qŭaresĭma** → **qŭaresma** |
+| | |
+|:-|:-|
+| *1-a* | **prima** → **unesĭma** = **unesma** |
+| *2-a* | **secunda** → **duesĭma** = **duesma** |
+| *3-a* | **tertĭa** → **triesĭma** = **triesma** |
+| *4-a* | **qŭarta** → **qŭaresĭma** = **qŭaresma** |
 
 ### Korelativoj
 
@@ -202,6 +244,12 @@ Pronomoj havas la finaĵon **-i**. La persona pronomo **hi** uziĝas por *homoj*
 | *ŝi*, *li*, *ri* | **ali**, **oli**, **hi** |
 | *ni*, *vi*, *ili* | **ni**, **vi**, **ili** |
 
+***Piĝino*** pruntas la ŝajnprefikson **i-** de la multenombra pronomoj **ili** kiel la finaĵon **-ĭ** [j] por multenombro.
+
+| | Piĝino | poezie |
+|-|-|-|
+| *amikoj* | **amicoĭ** | **amiqui** |
+
 La refleksiva pronomo estas **si**.
 
 | | | |
@@ -245,104 +293,12 @@ Pronomoj povas fariĝi adjektivoj por indiki posedon.
 
 ---
 
-*Lingvaismo:* La pronoma ŝajnsufikso **-i** por *multenombraj* pronomoj en ***Archelingua*** fariĝas la finaĵo **-ĭ** [j] por *multenombro*.
-
-| | Piĝino |
-|:-|:-|
-| *amikoj* | **amicoĭ** |
-
-***Lingvaismo:*** Samkiel la (multenombraj) pronomoj en ***Archelingua***, pronomoj en ***Piĝino*** havas la ŝajnfinaĵon **-i** (kaj en ununombro kaj en multenombro).
-
-| | Archelingua | Lingua | Piĝino |
-|:-|:-|:-|:-|
-| *vi* | **vi** | **vu** | **vi** |
-| *ci* | **tu** | **tu** | **tī** |
-
-Pere de la ŝajnfinaĵo **-a** formiĝas *posesivaj pronomoj*.
-
-* **mua** domo *(mia domo)*
-
-### Radikaj Vortoj
-
-#### Substantivoj
-
-La vokativa finaĵo estas **-u**.
-
-| |
-|-|
-| **amicu** *[amiku]* |
-
-En sia *multenombra* formo, ĝi ricevas la finaĵon **-s**.
-
-| |
-|-|
-| **amico** *[amiko]* |
-| **amicos** *[amikos]* |
-
-***Piĝino*** pruntas la vokativan finaĵon **-u** kiel imperativan finaĵon.
-
-| Lingua | Piĝino |
-|-|-|
-| **Amicu!** | **Ho amiko!** |
-| **Adjuva!** | **Helpu!** |
-
-La finaĵo de substantivo povas eliziiĝi.
-
-| | |
-|:-|:-|
-| *man-en-mane* | **man'** in mano |
-
-*Neolingua:* Substantivoj havas la finaĵon **-o**.
-
-| | Lingua | Neolingua |
-|:-|:-|:-|
-| *nomo* | **nome** | **nomo** |
-
-Nomoj kaj terminoj havas sian specifan *nominativan* formon.
-
-* **Iulius** *(Juliuso)*
-* **homo** *(homo)*
-* **data** *(datumoj)*
-* **datum** *(dato)*
-* **status** *(statuso)*
-
-La ŝajnfinaĵoj **-īo**, **-o**, **-ore**, **-ura** aperas ĉe *participoj* kaj ili signifo similas al la grek-devenaj ŝajnfinaĵoj **-i**, **-īa**, **-a**, **-e**.
-
-| | |
-|:-|:-|
-| *"lumskribado", fotografado* | **photographi** |
-| *"lumskribmaniero", fotografio* | **photographīa** |
-| *"lumskribanto", fotografisto* | **photographa** |
-| *"lumskribaĵo", fotografaĵo* | **photographe** |
-| | |
-| *"starado", stacio* | **statīo** |
-| *"starmaniero", staro* | **stato** |
-| *"staranto", statoro* | **statore** |
-| *"staraĵo", staturo* | **statura** |
-
-*Archelingua:* Kelkaj latin-devenaj finaĵoj de substantivoj ŝanĝiĝis.
-
-| | Archelingua | Lingua |
-|:-|:-|:-|
-| *nomo* | **nomine** [nɔ'mɪnɛ] | **nome** ['nɔmɛ] |
-| *limo* | **limite** [lɪ'mɪtɛ] | **lime** ['lɪmɛ] |
-| *maro* | **mari** ['marɪ] | **mare** ['marɛ] |
-| *mano* | **manu** ['manʊ] | **mano** ['manɔ] |
-| *stacio* | **statione** [statɪ'ɔnɛ] | **statīo** [sta'θɪɔ] |
-| *partiklo* | **particŭla** [par'tɪkʊla] | **particla** [par'tɪkla] |
-
 #### Adjektivoj kaj Adverboj
 
 Adjektivoj havas la *in-genran ablativan* formon. En sia *multenombra* formo, ĝi ricevas la finaĵon **-s**.
 
 * amico **bona** *(bona amiko)*
 * amicos **bonas** *(bonaj amikoj)*
-
-*Neolingua:* Adjektivoj havas la finaĵon **-a**.
-
-| | Lingua | Neolingua |
-|:-|:-|:-|
-| *forta amiko* | amico **forte** | **forta** amico |
 
 Substantivo estas adjektivigebla pere de la ŝajnfinaĵo **-ale**.
 
@@ -510,16 +466,11 @@ Ankaŭ por *dativo*, *instrumentalo*, *genitivo* uziĝas la prepozicioj **ad**, 
 | *ĉirkaŭ* | **ĉirc' ad** | **zirc' al** | **ĉirc' ał** |
 | *ĉirkaŭo* | **ĉircada** | **zircalo** | **ĉircało** |
 
----
-
-
 Verboradika fino je **-b** prononciĝas *[v]*.
 
 | |
 |-|
 | **habere** *[habere]* → **haƀe** *[have]* |
-
----
 
 | |
 |-|
