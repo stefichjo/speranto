@@ -38,7 +38,7 @@ Ankaŭ malantaŭ ŝajnprefikso, radikokomenca **ĭ** *[j]* fariĝas **j** *[ĵ]*
 |-|
 | **proĭecto** *[projekto]* → **projecto** *[proĵekto]* |
 | |
-| **viatico** *[viatiko]* → **viajo** *[viaĵo]* |
+| **viatĭco** *[viatko]* → **viajo** *[viaĵo]* |
 
 ### ti
 
@@ -53,11 +53,11 @@ Ankaŭ malantaŭ ŝajnprefikso, radikokomenca **ĭ** *[j]* fariĝas **j** *[ĵ]*
 | **garantīa** *[garantia]* → *[garancia]* |
 | **lectĭone** *[lektjone]* → *[lekcjone]* |
 
-Simile, **tĕ** prononciĝas *[c]*.
+Simile, **tĕ** fariĝas **z** *[c]*.
 
 | |
 |-|
-| **platĕa** *[plate_a]* → *[placa]* |
+| **platĕa** *[plate_a]* → **plaza** *[placa]* |
 
 ### ci, gi
 
@@ -141,11 +141,39 @@ Nomoj kaj terminoj konservas sian specifan *nominativan* formon.
 
 | | |
 |-|-|
-| *(Juliuso)* | **Iulius** |
-| *(homo)* | **homo** |
-| *(datumoj)* | **data** |
-| *(dato)* | **datum** |
-| *(statuso)* | **status** |
+| *Juliuso* | **Iulius** |
+| *homo* | **homo** |
+| *datumoj* | **data** |
+| *dato* | **datum** |
+| *statuso* | **status** |
+
+### Adjektivoj
+
+Adjektivoj pruntas la in-genran ablativan formon de la ***Latina***. En sia multenombra formo, ĝi ricevas la finaĵon **-s**.
+
+| | Latina | Lingua |
+|-|-|-|
+| *bona amiko* | **amico bona** |
+| *bonaj amikoj* | **amicos bonas** |
+
+Substantivo estas adjektivigebla pere de la ŝajnfinaĵo **-ale**.
+
+| | |
+|-|-|
+| *besto* | **bestĭa** |
+| *bestiala* | **bestĭale** |
+| | |
+| *velo* | **velo** |
+| *velara* | **velare** |
+
+### Adverboj
+
+---
+
+Adverboj formiĝas kun **-mente**.
+
+* **bonamente** *(bone)*
+* **bestialemente** *(bestiale)*
 
 ### Numeraloj
 
@@ -191,7 +219,7 @@ Korelativoj havas la finaĵojn **-e**, **-a**, **-o** kaj **-u**. Nur korelativo
 | | |
 | *kiaj* | **qŭas** |
 
-***En poezio***, la korelativoj **qŭe** povas ricevi la posedan ŝajnfinaĵon **-s**. La korelativoj je **qŭe** kaj **qŭi** povas havi la finaĵon **-u** anstataŭ la akuzativan prepozicion **a**.
+***En poezio***, la korelativo **qŭe** povas ricevi la posedan ŝajnfinaĵon **-s**. La korelativoj je **qŭe** kaj **qŭi** povas havi la finaĵon **-u** anstataŭ la akuzativan prepozicion **a**.
 
 | | | poezie |
 |-|-|-|
@@ -201,14 +229,34 @@ Korelativoj havas la finaĵojn **-e**, **-a**, **-o** kaj **-u**. Nur korelativo
 | *kion* | **a qŭe** | **qŭu** |
 | *kiun* | **a qŭa** | **qŭu** |
 
-En ***Archelingua***, la korelativo **qŭo** anstataŭas la adverbajn korelativojn **qŭando**, **qŭanto**, **qŭale** kaj **qŭare**.
+***TODO***
+
+| | |
+|-|-|
+| *kia* | **qŭa** → **qŭale** |
+
+***Piĝino*** pruntas la ŝajnfinaĵon **-ale** kiel la tabelvortan finaĵon **-al** *[al]* respektive **-äl** *[el]*.
+
+| | Lingua | Piĝino |
+|-|-|-|
+| *kia* | **qŭale** | **kial** → **qŭial** |
+| *kiel* | **qŭale** | **kiäl** → **qŭiel** |
+
+En ***Archelingua***, la korelativo **qŭo** anstataŭas la adverbajn korelativojn **qŭando**, **qŭanto**, **qŭam** kaj **qŭare**.
 
 | | |
 |-|-|
 | *kiam* | **qŭo** → **qŭando** |
 | *kiom* | **qŭo** → **qŭanto** |
-| *kiel* | **qŭo** → **qŭale** |
+| *kiel* | **qŭo** → **qŭalemente**, **quam** ***TODO*** |
 | *kial* | **qŭo** → **qŭare** |
+
+***Piĝino*** pruntas la ŝajnfinaĵojn **-ande** kaj **-ante** kiel la tabelvortajn ŝajnfinaĵojn **-añ** *[am]* kaj **-åñ** *[om]*.
+
+| | Lingua | Piĝino |
+|:-|:-|:-|
+| *kiam* | **qŭando** | **kiañ** → **qŭiam** |
+| *kiom* | **qŭanto** | **kiåñ** → **qŭiom** |
 
 | | |
 |-|-|
@@ -294,42 +342,6 @@ Pronomoj povas fariĝi adjektivoj por indiki posedon.
 ---
 
 #### Adjektivoj kaj Adverboj
-
-Adjektivoj havas la *in-genran ablativan* formon. En sia *multenombra* formo, ĝi ricevas la finaĵon **-s**.
-
-* amico **bona** *(bona amiko)*
-* amicos **bonas** *(bonaj amikoj)*
-
-Substantivo estas adjektivigebla pere de la ŝajnfinaĵo **-ale**.
-
-* **bestiale** *(en maniero de besto, kvazaŭbesta, bestiala)*
-
-***Piĝino*** pruntas la ŝajnfinaĵon **-ale** kiel la tabelvortan finaĵon **-al** *[al]* respektive **-äl** *[el]*, kaj kiel la adverban ŝajnfinaĵon **-ał** *[aŭ]*.
-
-| | Linga | Piĝino |
-|:-|:-|:-|
-| *kial* | **qŭale** | **kial** → **qŭial** |
-| *kiel* | **qŭale** | **kiäl** → **qŭiel** |
-| | | |
-| *hodiaŭ* | **hodĭe** | **hodiał** |
-
-Adverboj formiĝas kun **-mente**.
-
-* **bonamente** *(bone)*
-* **bestialemente** *(bestiale)*
-
-*Vico* esprimiĝas pere de la ŝajnfinaĵo **-esĭma**.
-
-| | |
-|-|-|
-| *mila* | **millesĭma** → **millesma** |
-
-***Piĝino*** pruntas la ŝajnfinaĵojn **-ande** kaj **-ante** kiel la tabelvortajn ŝajnfinaĵojn **-añ** *[am]* kaj **-åñ** *[om]*.
-
-| | Linga | Piĝino |
-|:-|:-|:-|
-| *kiam* | **qŭande** | **kiañ** → **qŭiam** |
-| *kiom* | **qŭande** | **kiåñ** → **qŭiåm** |
 
 *Neolingua:* Adverboj havas la finaĵon **-e**. Por esprimi *celon* uziĝas la ŝajnfinaĵo **-i**.
 
