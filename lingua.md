@@ -1,27 +1,48 @@
 # Lingua
 
-***Lingua*** baziĝas sur la ***Latina*** kaj la [***Internaciaj Ortografioj***](latinidaj/README.md) de la ***Latinidaj Lingvoj***. El ***Lingua*** pruntas [***Piĝino***](pighino.md).
-
-***TODO*** Lingua ⇒ Glossa, Interlingua, (Interlingue/Occidental)
+***Lingua*** baziĝas sur la ***Latina*** kaj la [***Internaciaj Ortografioj***](latinidaj/README.md) de la ***Latinidaj Lingvoj***. ***Lingua*** unuiĝas trajtojn de [***Interlingvao***](https://eo.wikipedia.org/wiki/Interlingvao) kaj [***Gloso***](https://eo.wikipedia.org/wiki/Gloso_(planlingvo)). El ***Lingua*** pruntas [***Ojdo***](ojdo.md) kaj [***Piĝino***](pighino.md).
 
 ## Prononco
 
+Duobla konsonanto estas prononcata kiel unuopa konsonanto.
+
+| |
+|-|
+| **terra** *[terra]* → *[tera]* |
+
 ### i, u
 
-Apudvokalaj kaj radikofinaj **ĭ** *[j]* kaj **ŭ** *[=]* estas neakcentataj.
+Apudvokalaj **ĭ** *[j]* kaj **ŭ** *[=]* estas neakcentataj.
 
 | |
 |-|
 | **maĭo** *[majo]* |
-| **traĭno** *[trajno]* |
+| **familĭa** *[familja]* |
 | |
-| **qŭanto** *[kŭanto]* |
-| **lingŭa** *[lingŭa]* |
 | **aŭto** *[=]* |
+| **qŭanto** *[kŭanto]* |
+
+Radikokomenca **ĭ** *[j]* kaj radikofina **ŭ** *[=]* fariĝas **j** *[ĵ]* kaj **ŭ** *[v]*.
+
+| |
+|-|
+| **ĭam** *[jam]* → **jam** *[ĵam]* |
+| **ĭusta** *[justa]* → **justa** *[ĵusta]* |
+| |
+| **aqŭo** *[akŭo]* → *[akvo]* |
+| **lingŭa** *[lingŭa]* → *[lingva]* |
+
+Ankaŭ malantaŭ ŝajnprefikso, radikokomenca **ĭ** *[j]* fariĝas **j** *[ĵ]*. La ŝajnsufikso **-atic-** *[atiko]* fariĝas **-aj-** *[aĵ]*.
+
+| |
+|-|
+| **proĭecto** *[projekto]* → **projecto** *[proĵekto]* |
+| |
+| **viatico** *[viatiko]* → **viajo** *[viaĵo]* |
 
 ### ti
 
-**tĭ** (krom en **stĭ** *[stj]*) kaj **tī** prononciĝas kun *[c]*.
+**tĭ** kaj **tī** prononciĝas kun *[c]*, krom en **stĭ** *[stj]*.
 
 | |
 |-|
@@ -38,7 +59,7 @@ Simile, **tĕ** prononciĝas *[c]*.
 |-|
 | **platĕa** *[plate_a]* → *[placa]* |
 
-### ci, gi, j
+### ci, gi
 
 Antaŭ **e** kaj **i**, **c** [k] kaj **g** [g] prononciĝas [c] kaj [ĝ].
 
@@ -47,35 +68,18 @@ Antaŭ **e** kaj **i**, **c** [k] kaj **g** [g] prononciĝas [c] kaj [ĝ].
 | **centro** *[kentro]* → *[centro]* |
 | **generale** *[generale]* → *[ĝenerale]* |
 
-Antaŭ vokalo, **ĭ** fariĝas **j** *[ĵ]*.
+### s, x
+
+**s** [s] prononciĝas [z] inter vokaloj.
 
 | |
 |-|
-| **ĭam** *[jam]* → **jam** *[ĵam]* |
-| **ĭusta** *[justa]* → **justa** *[ĵusta]* |
-
-### qu, c, g
-
-| |
-|-|
-| **aqŭo** *[akŭo]* |
-
-### ss, s
-
-Duobla konsonanto estas prononcata kiel unuopa konsonanto. Unuobla **s** [s] prononciĝas [z] inter vokaloj.
-
-| |
-|-|
-| **terra** *[terra]* → *[tera]* |
-| |
 | **massa** *[massa]* → *[masa]* |
 | **rosa** *[rosa]* → *[roza]* |
 
-### x
-
 | |
 |-|
-| **exemplo** *[egzemplo]* |
+| **exemplo** *[eksemplo]* → *[egzemplo]* |
 | **fixare** *[fiksare]* |
 
 ### Grekaj Vortoj
@@ -92,7 +96,7 @@ Duobla konsonanto estas prononcata kiel unuopa konsonanto. Unuobla **s** [s] pro
 
 ### Substantivoj
 
-Substantivoj je **-o** kaj **-e** havas siajn vokativojn je **-u** kaj **-i**.
+Substantivoj je **-o** kaj **-e** havas vokativojn je **-u** kaj **-i**.
 
 | | |
 |-|-|
@@ -145,23 +149,17 @@ Korelativoj havas la finaĵojn **-e**, **-a**, **-o** kaj **-u**. Nur korelativo
 | | |
 | *kiaj* | **qŭas** |
 
-***En Pralingua***, la korelativo **qŭa (persona)** anstataŭas la personan ŝajnkorelativon **qŭi**.
+***En poezio***, la korelativoj **qŭe** povas ricevi la posedan ŝajnfinaĵon **-s**. La korelativoj je **qŭe** kaj **qŭi** povas havi la finaĵon **-u** anstataŭ la akuzativan prepozicion **a**.
 
-| | |
-|-|-|
-| *kiu* | **qŭa (persona)** → **qŭi** |
+| | | poezie |
+|-|-|-|
+| *kies* | **de qŭe** | **qŭes** |
+| *kies* | **de qŭa** | **qŭes** |
+| | | |
+| *kion* | **a qŭe** | **qŭu** |
+| *kiun* | **a qŭa** | **qŭu** |
 
-***En poezio***, la korelativoj **qŭe** kaj **qŭi** povas ricevi la posedan ŝajnfinaĵon **-s**. Korelativoj je **qŭ-** *[kŭ]* povas havi la finaĵon **-u** por akuzativo.
-
-| | |
-|-|-|
-| *kies* | **de qŭe** → **qŭes** |
-| *kies* | **de qŭi** → **qŭis** |
-| | |
-| *kion* | **a qŭe**, **qŭu** |
-| *kiun* | **a qŭi**, **qŭu** |
-
-En ***Pralingua***, la korelativo **qŭo** anstataŭas la adverbajn korelativojn **qŭando**, **qŭanto**, **qŭale** kaj **qŭare**.
+En ***Archelingua***, la korelativo **qŭo** anstataŭas la adverbajn korelativojn **qŭando**, **qŭanto**, **qŭale** kaj **qŭare**.
 
 | | |
 |-|-|
@@ -172,39 +170,80 @@ En ***Pralingua***, la korelativo **qŭo** anstataŭas la adverbajn korelativojn
 
 | | |
 |-|-|
-| *kio* | **qŭe** *[kŭe]* |
-| *jen tio* | **he** *[=]* |
-| *ĉi tio* | **je** *[ĵe]* |
-| *tio* | **te** *[=]* |
-| *fore tio* | **le** *[=]* |
-| *nenio* | **ne** *[=]* |
-| *ĉio* | **omne** *[=]* |
-| *io* | **one** *[=]* |
+| *kio* | **qŭe** |
+| *jen tio* | **he** |
+| *ĉi tio* | **je** |
+| *tio* | **te** |
+| *fore tio* | **le** |
+| *nenio* | **none** |
+| *ĉio* | **omne** |
+| *io* | **one** |
 
----
+La formo **nono** *(neniel)* uziĝas nur ***tra bruo*** anstataŭ la kutima formo **no**.
 
-La korelativoj **la**, **qŭo** kaj **no** uziĝas kiel difina *artikolo*, *konjunkcio* respektive kiel nea *adverbo*.
+| | | tra bruo |
+|-|-|-|
+| *neniel (= ne)* | **no** | **nono** |
 
-* **la** domo *(fore tiu → la domo)*
-* Mi vide **quo** ti esse in domo. *(Mi vidas, kiel → ke vi estas hejme.)*
-* Ti **no** esse in domo. *(Vi neniel → ne estas hejme.)*
+La korelativoj **la** kaj **qŭo** uziĝas kiel difina artikolo respektive kiel konjunkcio.
+
+| | |
+|-|-|
+| *fore tiu*/*la* | **la** |
+| *kiel*/*ke* | **qŭo** |
 
 ### Pronomoj
 
-Pronomoj havas la finaĵon **-i**. La persona pronomo **li** uziĝas por *etinfanoj* kaj *bestoj*. La refleksiva pronomo estas **su**.
+Pronomoj havas la finaĵon **-i**. La persona pronomo **hi** uziĝas por *homoj* kiam ilia sekso ne gravas.
+
+| | |
+|-|-|
+| *mi*, *vi*, *li* | **mi**, **ti**, **li** |
+| *ŝi*, *li*, *ri* | **ali**, **oli**, **hi** |
+| *ni*, *vi*, *ili* | **ni**, **vi**, **ili** |
+
+La refleksiva pronomo estas **si**.
 
 | | | |
 |-|-|-|
-|**mi**|**ti**|**ji**/**li**|
-|*(mi)*|*(vi)*|*(ĝi)*|
-| | | |
-|**ali**|**oli**|**uli**|
-|*(ŝi)*|*(li)*|*(ri)*|
-| | | |
-|**ni**|**vi**|**ili**|
-|*(ni)*|*(vi)*|*(ili)*|
+| *La aŭto moviĝas.* | **La aŭto si move.** | **La aŭto moves.** |
 
-***TODO*** conjugatio en Lingua
+Pronomoj povas fariĝi adjektivoj por indiki posedon.
+
+| | |
+|-|-|
+| *mia nomo* | **mi nome** |
+| *miaj amikoj* | **mis amicos** |
+
+(Ŝajn-)korelativoj je **-i** estas fakte pronomoj.
+
+| | |
+|-|-|
+| *kiu* | **qŭi** |
+| *jen tiu*/*ri* | **hi** |
+| *ĉi tiu*/*ĝi* | **ji** |
+| *tiu*/*vi* | **ti** |
+| *fore tiu*/*li* | **li** |
+| *neniu* | **noni** |
+| *ĉiu* | **omni** |
+| *iu*/*oni* | **oni** |
+
+***En poezio***, uziĝas konjugacio.
+
+| | | poezie |
+|-|-|-|
+| *mi amas* | **mi ama** | **amam** |
+| *vi amas* | **ti ama** | **amat** |
+| | | |
+| *li/ŝi/ĝi amas* | **li ama** | **ama** |
+| *ili amas* | **ili ama** | **aman** |
+
+| | | poezie | tra bruo |
+|-|-|-|-|
+| *ni amas* | **ni ama** | **amami** | **amamos** |
+| *vi amas* | **vi ama** | **amati** | **amates** |
+
+---
 
 *Lingvaismo:* La pronoma ŝajnsufikso **-i** por *multenombraj* pronomoj en ***Archelingua*** fariĝas la finaĵo **-ĭ** [j] por *multenombro*.
 

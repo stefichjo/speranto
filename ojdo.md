@@ -1,6 +1,8 @@
-# Novlinguo
+# Oido
 
-***TODO*** Novlinguo ⇒ Adjuvilo, Ido
+***TODO*** Ojdo/Oido, Lingvao/Lingua, Adĵuvilo/Adjuvilo
+
+***Ojdo*** unuiĝas trajtojn de [***Adĵuvilo***](https://eo.wikipedia.org/wiki/Adjuvilo) kaj [***Ido***](https://eo.wikipedia.org/wiki/Ido_(lingvo)).
 
 ## Gramatiko
 
