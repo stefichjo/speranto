@@ -166,14 +166,32 @@ Substantivo estas adjektivigebla pere de la ŝajnfinaĵo **-ale**.
 | *velo* | **velo** |
 | *velara* | **velare** |
 
+***En poezio***
+
+* bestialmente
+* velarmente
+
+* tale -> tal
+* talemente -> talmente
+
+* universale -> universal
+* universalmente
+
+* videre -> vider
+* mi vole viderti
+
+* core -> corale -> coralmente
+* cordie -> cordiale -> cordialmente
+* core -> cordiale -> cordialmente
+
 ### Adverboj
 
 ---
 
-Adverboj formiĝas kun **-mente**.
+Adjektivoj estas adverbigeblaj pere de la ŝajnfinaĵo **-mente**.
 
 * **bonamente** *(bone)*
-* **bestialemente** *(bestiale)*
+* **bestialmente** *(bestiale)*
 
 ### Numeraloj
 
@@ -352,26 +370,6 @@ Pronomoj povas fariĝi adjektivoj por indiki posedon.
 | *Mi iras hejmen.* | Mu vade ad domo. | Mu vade **domi**. |
 
 #### Verboj
-
-Verboj havas la infinitivan formon sen **-re**.
-
-*Archelingua/Neolingua:* Infinitivoj havis la ŝajnfinaĵon **-re**. En **Neolingua**, la infinitiva finaĵo estas **-ar'**. *Tra bruo*, **-ar'** fariĝas **-as'**.
-
-| | Archelingua | Lingua | Neolingua | (tra bruo) |
-|:-|:-|:-|:-|:-|
-| *ami* | **amare** | **ama** | **amar'** | **amas'** |
-| *vidi* | **videre** | **vide** | **vidar'** | **vidas'** |
-| *senti* | **sentire** | **senti** | **sentar'** | **sentas'** |
-
-***TODO***
-
-*Novlingvaismo:* La *trabrua infinitiva* ŝajnfinaĵo **-s'** fariĝas *verba* ŝajnfinaĵo. La *cela* finaĵo **-i** fariĝas *infinitiva* finaĵo.
-
-| | Neolingua | Piĝino |
-|:-|:-|:-|
-| *Mi helpas vin.* | ← **Mu adjuvas' tu.** | **Mi helpas vin.** |
-| | | |
-| *Mi iras dormi.* | ← **Mu vades' dormi.** | **Mi iras dormi.** |
 
 *Tra bruo*, uziĝas la *instrumentala* prepozicio **en** antaŭ infinitivo.
 

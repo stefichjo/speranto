@@ -1,10 +1,48 @@
 # Oido
 
-***TODO*** Ojdo/Oido, Lingvao/Lingua, Adĵuvilo/Adjuvilo
+***TODO*** Ojdo/Oido, Lingvao/Lingua, Adĵuvilo/Adjuvilo + nomo de dossieroi
 
 ***Ojdo*** unuiĝas trajtojn de [***Adĵuvilo***](https://eo.wikipedia.org/wiki/Adjuvilo) kaj [***Ido***](https://eo.wikipedia.org/wiki/Ido_(lingvo)).
 
+## Prononco
+
+### i, u
+
+Post konsonanto, radikofina **ĭ** *[j]* fariĝas **i** *[=]*, sed **tĭ** fariĝas **z** *[c]* respektive **stĭ** fariĝas **st** *[=]*. La **-ĭone** ĉiam fariĝas **-īo** *[io]*.
+
+***TODO*** generale, **i** *[j]* ant'al vocalo relongijas. natione, potenciale, graciosa
+
+| |
+|-|
+| **alĭa** *[alja]* → **alia** *[=]* |
+| **familĭe** *[familje]* → **familio** *[=]* |
+| |
+| **poesĭe** *[poezje]* → **poesīo** *[poezio]* |
+| **nostalgĭe** *[nostalgje]* → **nostalgīo** *[nostalĝio]* |
+| |
+| **gratĭe** *[gracje]* → **grazo** *[graco]* |
+| **potentĭe** *[potencje]* → **potenzo** *[potenco]* |
+| **potentĭale** *[potencjale]* → **potencialo** *[=]* |
+| **spatĭe** *[spacje]* → **spazo** *[spaco]* |
+| |
+| **bestĭe** *[bestje]* → **besto** *[=]* |
+| |
+| **natĭe** *[nacje]* → **natīo** *[nacio]* |
+| **statĭe** *[stacje]* → **statīo** *[stacio]* |
+
+Samkiel en Archelingua kaj Lingua, [**ĭ** kaj **ŭ**](lingua.md) prononciĝas *[ĵ]* kaj *[v]* komence respektive fine de radiko. ***TODO***
+
+| |
+|-|
+| **lingŭe** *[=]* → **lingŭo** *[lingvo]* |
+| **aqŭe** *[akŭe]* → **aqŭo** *[akvo]* |
+
+* potenco
+* potencialo
+
 ## Gramatiko
+
+***TODO*** correlativos
 
 ### Substantivoj
 
