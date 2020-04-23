@@ -237,7 +237,7 @@ Korelativoj havas la finaĵojn **-e**, **-a**, **-o** kaj **-u**. Nur korelativo
 | | |
 | *kiaj* | **qŭas** |
 
-***En poezio***, la korelativo **qŭe** povas ricevi la posedan ŝajnfinaĵon **-s**. La korelativoj je **qŭe** kaj **qŭi** povas havi la finaĵon **-u** anstataŭ la akuzativan prepozicion **a**.
+***En poezio***, la korelativo **qŭe** povas ricevi la posedan ŝajnfinaĵon **-s**. La korelativoj **qŭe** kaj **qŭa** povas havi la finaĵon **-u** anstataŭ la akuzativan prepozicion **a**.
 
 | | | poezie |
 |-|-|-|
@@ -260,7 +260,7 @@ Korelativoj havas la finaĵojn **-e**, **-a**, **-o** kaj **-u**. Nur korelativo
 | *kia* | **qŭale** | **kial** → **qŭial** |
 | *kiel* | **qŭale** | **kiäl** → **qŭiel** |
 
-En ***Archelingua***, la korelativo **qŭo** anstataŭas la adverbajn korelativojn **qŭando**, **qŭanto**, **qŭam** kaj **qŭare**.
+En ***Archelingua***, uziĝas la korelativo **qŭo** anstataŭ la adverbaj korelativoj **qŭando**, **qŭanto**, **qŭam** kaj **qŭare**.
 
 | | |
 |-|-|
