@@ -40,12 +40,7 @@ Korelativaj radikoj kombineblas kun sufiksoj.
 | *kio* | **qŭajo** *[kvaĵo]* |
 | *kiu* | **qŭulo** *[kvulo]* |
 | *kia* | **qŭessa** *[kvesa]* |
-
-***Piĝino*** pruntas la ŝajnfinaĵon **-esĭma** kiel la tabelvortan ŝajnfinaĵon **-es** por *posedo*.
-
-| Neolingua | Piĝino |
-|-|-|
-| **qŭesĭma** → **qŭesma** | **kies** *[=]* = **qŭies** |
+| *kies* | **qŭesĭma** *[kvesma]* |
 
 ### Artikoloj
 
@@ -84,8 +79,10 @@ La indikativoj finiĝas je **-n** (kun tempa vokalismo).
 
 | Neolingua | Piĝino |
 |-|-|
-| **Laboren!** | **Laboru!** |
+| **Laboren!** | **Labori!** → **Laboru!** |
 | **Labori!** | **Laboren!** |
+
+---
 
 ## Prononco
 
@@ -120,7 +117,5 @@ Samkiel en Archelingua kaj Lingua, [**ĭ** kaj **ŭ**](lingua.md) prononciĝas *
 | **lingŭe** *[=]* → **lingŭo** *[lingvo]* |
 | **aqŭe** *[akŭe]* → **aqŭo** *[akvo]* |
 
-* potenco
-* potencialo
 
 
