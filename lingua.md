@@ -2,6 +2,10 @@
 
 ***Lingua*** baziĝas sur la ***Latina*** kaj la [***Internaciaj Ortografioj***](latinidaj/README.md) de la ***Latinidaj Lingvoj***. ***Lingua*** unuiĝas trajtojn de [***Interlingvao***](https://eo.wikipedia.org/wiki/Interlingvao) kaj [***Gloso***](https://eo.wikipedia.org/wiki/Gloso_(planlingvo)). El ***Lingua*** pruntas [***Ojdo***](ojdo.md) kaj [***Piĝino***](pighino.md).
 
+***TODO*** qŭare = kial; qŭarere = demandi (voli, ami)
+
+***TODO*** qŭ- [kv] -> [ku] -> qŭi [ki]
+
 ## Prononco
 
 Duobla konsonanto estas prononcata kiel unuopa konsonanto.
