@@ -373,25 +373,21 @@ Pronomoj povas fariĝi adjektivoj por indiki posedon.
 | *ni amas* | **ni ama** | **amami** | **amamos** |
 | *vi amas* | **vi ama** | **amati** | **amates** |
 
+### Verboj
+
+***TODO***
+
+* crear
+
+* vade crear; creara' = vade ad crear
+* esse creanta; crea = sta in crear
+* have creata; creava = veni de crear
+
+* crearea
+
+
+* 
 ---
-
-#### Adjektivoj kaj Adverboj
-
-*Neolingua:* Adverboj havas la finaĵon **-e**. Por esprimi *celon* uziĝas la ŝajnfinaĵo **-i**.
-
-| | Lingua | Neolingua |
-|:-|:-|:-|
-| *tre forta* | multa forte | **multe** forta |
-| *Mi estas hejme.* | Mu esse in domo. | Mu esse **dome**. |
-| *Mi iras hejmen.* | Mu vade ad domo. | Mu vade **domi**. |
-
-#### Verboj
-
-*Tra bruo*, uziĝas la *instrumentala* prepozicio **en** antaŭ infinitivo.
-
-| | Lingua | (tra bruo) |
-|:-|:-|:-|
-| *Mi volas helpi vin.* | **Mu vole adiuva tu.** | **Mu vole en adiuva tu.** |
 
 Por *futuro*, *prezenco*, *preterito* oni povas uzi la frazerojn **vade ad**, **sta in**, **veni de**.
 

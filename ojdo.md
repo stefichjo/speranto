@@ -12,11 +12,13 @@
 
 | | Lingua | Piĝino |
 |-|-|-|
-| *havi* | **have** | **havu** → **havi** |
-| *multe* | **multamente** | **multo** → **multe** |
-| *granda* | **grande** | **granda** |
+| *vi* | **ti** | **ti** → **tu** |
 | *terra* | **terra** | **terre** → **terro** |
-| *laboren!* | **ad labora!** | **labori!** → **laboru!** |
+| *granda* | **grande** | **granda** |
+| *ne* | **no** | **no** → **ne** |
+| *laboren!* | **ad labora!** | **laboru!** → **labori!** |
+| *havi* | **have** | **havu** → **havi** |
+| *tien* | **tu** | **tu** → **ti** |
 
 ### Substantivoj
 
@@ -61,6 +63,31 @@ Adverboj finiĝas je **-e**.
 |-|-|
 | *multe* | **multe** |
 | *hodiaŭ* | **hodie** *[=]* |
+
+| | |
+|-|-|
+| *hejmen* | **domi** |
+
+***TODO***
+
+-en -u
+-an -as (oui)
+-as -ijas (oui)
+-u -en
+-u -i
+-i -u
+
+* nu, tu, vu
+* quo kio
+
+Por esprimi celon uziĝas la ŝajnfinaĵo **-i**.
+
+| | Lingua | Neolingua |
+|:-|:-|:-|
+| *tre forta* | multa forte | **multe** forta |
+| *Mi estas hejme.* | Mu esse in domo. | Mu esse **dome**. |
+| *Mi iras hejmen.* | Mu vade ad domo. | Mu vade **domi**. |
+
 
 ### Verboj
 
