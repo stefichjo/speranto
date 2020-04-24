@@ -1,10 +1,12 @@
 # Lingua
 
-***Lingua*** baziĝas sur la ***Latina*** kaj la [***Internaciaj Ortografioj***](latinidaj/README.md) de la ***Latinidaj Lingvoj***. ***Lingua*** unuiĝas trajtojn de [***Interlingvao***](https://eo.wikipedia.org/wiki/Interlingvao) kaj [***Gloso***](https://eo.wikipedia.org/wiki/Gloso_(planlingvo)). El ***Lingua*** pruntas [***Ojdo***](ojdo.md) kaj [***Piĝino***](pighino.md).
+***Lingua*** baziĝas sur la ***Latina*** kaj la [***Internaciaj Ortografioj***](latinidaj/README.md) de la ***Latinidaj Lingvoj***. ***Lingua*** unuiĝas trajtojn de [***Interlingua***](https://eo.wikipedia.org/wiki/Interlingvao) kaj [***Glosa***](https://eo.wikipedia.org/wiki/Gloso_(planlingvo)). El ***Lingua*** pruntas [***Piĝino***](pighino.md).
 
-***TODO*** qŭare = kial; qŭarere = demandi (voli, ami)
+***TODO*** qŭere = kial; qŭerere = demandi (voli, ami, deziri)
 
 ***TODO*** qŭ- [kv] -> [ku] -> qŭi [ki]
+
+***TODO*** quom
 
 ## Prononco
 
@@ -18,83 +20,94 @@ Duobla konsonanto estas prononcata kiel unuopa konsonanto.
 
 Apudvokalaj **ĭ** *[j]* kaj **ŭ** *[=]* estas neakcentataj.
 
-| |
-|-|
-| **maĭo** *[majo]* |
-| **familĭa** *[familja]* |
-| |
-| **aŭto** *[=]* |
-| **qŭanto** *[kŭanto]* |
+| | |
+|-|-|
+| *majo* | **maĭo** *[majo]* |
+| *familio* | **familĭa** *[familja]* |
+| | |
+| *aŭto* | **aŭto** *[=]* |
+| *kvanto* | **qŭanto** *[kŭanto]* |
 
 Radikokomenca **ĭ** *[j]* kaj radikofina **ŭ** *[=]* fariĝas **j** *[ĵ]* kaj **ŭ** *[v]*.
 
-| |
-|-|
-| **ĭam** *[jam]* → **jam** *[ĵam]* |
-| **ĭusta** *[justa]* → **justa** *[ĵusta]* |
-| |
-| **aqŭo** *[akŭo]* → *[akvo]* |
-| **lingŭa** *[lingŭa]* → *[lingva]* |
+| | |
+|-|-|
+| *jam* | **ĭam** *[jam]* → **jam** *[ĵam]* |
+| *justa*, *ĝusta* | **ĭusta** *[justa]* → **justa** *[ĵusta]* |
+| | |
+| *akvo* | **aqŭa** *[akŭa]* → *[akva]* |
+| *lingvo* | **lingŭa** *[lingŭa]* → *[lingva]* |
 
 Ankaŭ malantaŭ ŝajnprefikso, radikokomenca **ĭ** *[j]* fariĝas **j** *[ĵ]*. La ŝajnsufikso **-atic-** *[atiko]* fariĝas **-aj-** *[aĵ]*.
 
-| |
-|-|
-| **proĭecto** *[projekto]* → **projecto** *[proĵekto]* |
-| |
-| **viatĭco** *[viatko]* → **viajo** *[viaĵo]* |
+| | |
+|-|-|
+| *projekto* | **proĭecto** *[projekto]* → **projecto** *[proĵekto]* |
+| | |
+| *vojaĵo* | **viatĭco** *[viatko]* → **viajo** *[viaĵo]* |
 
 ### ti
 
 **tĭ** kaj **tī** prononciĝas kun *[c]*, krom en **stĭ** *[stj]*.
 
-| |
-|-|
-| **bestĭa** *[bestja]* |
-| **spatĭo** *[spatjo]* → *[spacjo]* |
-| **substantĭa** *[substantja]* → *[substancja]* |
-| |
-| **garantīa** *[garantia]* → *[garancia]* |
-| **lectĭone** *[lektjone]* → *[lekcjone]* |
+| | |
+|-|-|
+| *besto* | **bestĭa** *[bestja]* |
+| *spaco* | **spatĭo** *[spatjo]* → *[spacjo]* |
+| *substanco* | **substantĭa** *[substantja]* → *[substancja]* |
+| | |
+| *garantio* | **garantīa** *[garantia]* → *[garancia]* |
+| *lekcio* | **lectĭone** *[lektjone]* → *[lekcjone]* |
 
 Simile, **tĕ** fariĝas **z** *[c]*.
 
-| |
-|-|
-| **platĕa** *[plate_a]* → **plaza** *[placa]* |
+| | |
+|-|-|
+| *placo* | **platĕa** *[plate_a]* → **plaza** *[placa]* |
 
 ### ci, gi
 
 Antaŭ **e** kaj **i**, **c** [k] kaj **g** [g] prononciĝas [c] kaj [ĝ].
 
-| |
-|-|
-| **centro** *[kentro]* → *[centro]* |
-| **generale** *[generale]* → *[ĝenerale]* |
+| | |
+|-|-|
+| *centro* | **centro** *[kentro]* → *[centro]* |
+| *ĝenerala* | **generale** *[generale]* → *[ĝenerale]* |
 
 ### s, x
 
 **s** [s] prononciĝas [z] inter vokaloj.
 
-| |
-|-|
-| **massa** *[massa]* → *[masa]* |
-| **rosa** *[rosa]* → *[roza]* |
+| | |
+|-|-|
+| *maso* | **massa** *[massa]* → *[masa]* |
+| *rozo* | **rosa** *[rosa]* → *[roza]* |
 
-| |
-|-|
-| **exemplo** *[eksemplo]* → *[egzemplo]* |
-| **fixare** *[fiksare]* |
+**x** [ks] prononciĝas [gz] inter vokaloj.
+
+| | |
+|-|-|
+| *ekzemplo* | **exemplo** *[eksemplo]* → *[egzemplo]* |
+| *fiksi* | **fixare** *[fiksare]* |
+
+### r, l
+
+Ŝajnfinaĵoj je **-re** kaj **-le** mallongiĝas al **-r** kaj **-l** sen ŝanĝi la akcenton.
+
+| | |
+|-|-|
+| *ami* | **amare** → **amar** |
+| *facila* | **facile** → **facil** |
 
 ### Grekaj Vortoj
 
-| |
-|-|
-| **phase** *[ɸase]* → *[faze]* |
-| **thema** *[θema]* → *[tema]* |
-| **chractere** *[ĥaraktere]* → *[karaktere]* |
-| **systema** *[systema]* → *[sistema]* |
-| **zona** *[dzona]* → *[zona]* |
+| | |
+|-|-|
+| *fazo* | **phase** *[ɸase]* → *[faze]* |
+| *temo* | **thema** *[θema]* → *[tema]* |
+| *karaktero* | **chractere** *[ĥaraktere]* → *[karaktere]* |
+| *sistemo* | **systema** *[systema]* → *[sistema]* |
+| *zono* | **zona** *[dzona]* → *[zona]* |
 
 La grek-devenaj ŝajnfinaĵoj **-i**, **-īa**, **-a**, **-e** havas signifojn similajn al la ŝajnfinaĵoj **-ĭone**, **-o**, **-ore**, **-ura**.
 
@@ -160,26 +173,17 @@ Adjektivoj pruntas la in-genran ablativan formon de la ***Latina***. En sia mult
 | *bona amiko* | **amico bona** |
 | *bonaj amikoj* | **amicos bonas** |
 
-Substantivo estas adjektivigebla pere de la ŝajnfinaĵo **-ale**.
+Substantivo estas adjektivigebla pere de la ŝajnfinaĵo **-ale**. Se la ŝajnradiko finiĝas je **-l**, **-ale** ŝanĝas sian formon al **-are**.
 
 | | |
 |-|-|
-| *besto* | **bestĭa** |
-| *bestiala* | **bestĭale** |
+| *universo* | **universo** |
+| *universala* | **universale** |
 | | |
 | *velo* | **velo** |
 | *velara* | **velare** |
 
 ***En poezio***
-
-* bestialmente
-* velarmente
-
-* tale -> tal
-* talemente -> talmente
-
-* universale -> universal
-* universalmente
 
 * videre -> vider
 * mi vole viderti
@@ -190,12 +194,13 @@ Substantivo estas adjektivigebla pere de la ŝajnfinaĵo **-ale**.
 
 ### Adverboj
 
----
-
 Adjektivoj estas adverbigeblaj pere de la ŝajnfinaĵo **-mente**.
 
-* **bonamente** *(bone)*
-* **bestialmente** *(bestiale)*
+| | |
+|-|-|
+| *klare* | **claramente** |
+| | |
+| *facile* | **facilemente** → **facilmente** |
 
 ### Numeraloj
 
@@ -230,16 +235,50 @@ Ordinaloj (ĝis 10) havis la sufikson **-t-**. La numeraloj **un**, **du**, **tr
 
 ### Korelativoj
 
-Korelativoj havas la finaĵojn **-e**, **-a**, **-o** kaj **-u**. Nur korelativoj je **-a** povas havi la multenombran finaĵon **-s**.
+Nur korelativoj povas havi verajn finaĵojn.
 
 | | |
 |-|-|
+| *kiu* | **qŭi** |
 | *kio* | **qŭe** |
-| *kia* | **qŭa** |
-| *kie* | **qŭo** |
+| *kia*, *kiu* | **qŭa** |
+| *kie*, *kiel*, *kial*, *kiam*, *kiom* | **qŭo** |
 | *kien* | **qŭu** |
+
+La korelativa ŝajnfinaĵo **-ale** estas specife por kvalitoj.
+
 | | |
-| *kiaj* | **qŭas** |
+|-|-|
+| *kia* | **qŭal** |
+
+La korelativaj ŝajnfinaĵoj **-ele** kaj **-ere** estas specife por maniero kaj motivo.
+
+| | |
+|-|-|
+| *kiel* | **qŭel** |
+| *kial* | **qŭer** |
+
+Pere de la korelativa ŝajnfinaĵo **-m** kreiĝas prepozicioj kaj konjunkcioj. ***En poezio***, uziĝas **-ando** kaj **-anto** anstataŭ **-am** kaj **-om**.
+
+| | |
+|-|-|
+| *kiam*, *kiel* | **quam** (= **quando**) |
+| | |
+| *Kiam vi venas?* | **Quam venit?** |
+| *Mi venas kiel amiko.* | **Venim quam amico.** |
+| *Mi vidas vin, kiam vi venas.* | **Ti videm quam venit.** |
+| | |
+| *kiom*, *-*, *ke* | **quom** (= **quanto**, **kome**, **ke**) |
+| | |
+| *Kiom kostas?* | **Quom (= quanto) costa?** |
+| *Vi nomas min amiko.* | **Mi clamat quom (= come) amico.** |
+| *Mi vidas, ke vi studas.* | **Videm quom (= ke) studiat.** |
+
+***En poezio***, korelativoj je **-a** povas havi la multenombran finaĵon **-s**.
+
+| | | poezie |
+|-|-|-|
+| *kiuj domoj* | **qŭa domos** | **qŭas domos** |
 
 ***En poezio***, la korelativo **qŭe** povas ricevi la posedan ŝajnfinaĵon **-s**. La korelativoj **qŭe** kaj **qŭa** povas havi la finaĵon **-u** anstataŭ la akuzativan prepozicion **a**.
 
@@ -252,33 +291,6 @@ Korelativoj havas la finaĵojn **-e**, **-a**, **-o** kaj **-u**. Nur korelativo
 | *kiun* | **a qŭa** | **qŭu** |
 
 ***TODO***
-
-| | |
-|-|-|
-| *kia* | **qŭa** → **qŭale** |
-
-***Piĝino*** pruntas la ŝajnfinaĵon **-ale** kiel la tabelvortan finaĵon **-al** *[al]* respektive **-äl** *[el]*.
-
-| | Lingua | Piĝino |
-|-|-|-|
-| *kia* | **qŭale** | **kial** → **qŭial** |
-| *kiel* | **qŭale** | **kiäl** → **qŭiel** |
-
-En ***Archelingua***, uziĝas la korelativo **qŭo** anstataŭ la adverbaj korelativoj **qŭando**, **qŭanto**, **qŭam** kaj **qŭare**.
-
-| | |
-|-|-|
-| *kiam* | **qŭo** → **qŭando** |
-| *kiom* | **qŭo** → **qŭanto** |
-| *kiel* | **qŭo** → **qŭalemente**, **quam** ***TODO*** |
-| *kial* | **qŭo** → **qŭare** |
-
-***Piĝino*** pruntas la ŝajnfinaĵojn **-ande** kaj **-ante** kiel la tabelvortajn ŝajnfinaĵojn **-añ** *[am]* kaj **-åñ** *[om]*.
-
-| | Lingua | Piĝino |
-|:-|:-|:-|
-| *kiam* | **qŭando** | **kiañ** → **qŭiam** |
-| *kiom* | **qŭanto** | **kiåñ** → **qŭiom** |
 
 | | |
 |-|-|
@@ -295,14 +307,14 @@ La formo **nono** *(neniel)* uziĝas nur ***tra bruo*** anstataŭ la kutima form
 
 | | | tra bruo |
 |-|-|-|
-| *neniel (= ne)* | **no** | **nono** |
+| *neniel*, *ne* | **no** | **nono** |
 
 La korelativoj **la** kaj **qŭo** uziĝas kiel difina artikolo respektive kiel konjunkcio.
 
 | | |
 |-|-|
-| *fore tiu*/*la* | **la** |
-| *kiel*/*ke* | **qŭo** |
+| *fore tiu*, *la* | **la** |
+| *kiel*, *ke* | **qŭo** |
 
 ### Pronomoj
 
@@ -322,7 +334,7 @@ Pronomoj havas la finaĵon **-i**. La persona pronomo **hi** uziĝas por *homoj*
 
 La refleksiva pronomo estas **si**.
 
-| | | |
+| | | poezie |
 |-|-|-|
 | *La aŭto moviĝas.* | **La aŭto si move.** | **La aŭto moves.** |
 
