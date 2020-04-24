@@ -11,6 +11,8 @@
 
 ## Ortografio
 
+***TODO*** "Prononco"
+
 ***Piĝino*** havas sian propran fonetikan skribon (inter *[kvadrataj krampoj]*). Nemalofte la fonetika skribo de ***Piĝino*** estas identa kun ĝia etimologia skribo.
 
 | |
