@@ -1,8 +1,6 @@
-# Lingua
+# Lingvao
 
 ***Lingua*** baziĝas sur la ***Latina*** kaj la [***Internaciaj Ortografioj***](latinidaj/README.md) de la ***Latinidaj Lingvoj***. ***Lingua*** unuiĝas trajtojn de [***Interlingua***](https://eo.wikipedia.org/wiki/Interlingvao) kaj [***Glosa***](https://eo.wikipedia.org/wiki/Gloso_(planlingvo)). El ***Lingua*** pruntas [***Piĝino***](pighino.md).
-
-***TODO*** qŭere = kial; qŭerere = demandi (voli, ami, deziri)
 
 ***TODO*** qŭ- [kv] -> [ku] -> qŭi [ki]
 
@@ -235,7 +233,7 @@ Ordinaloj (ĝis 10) havis la sufikson **-t-**. La numeraloj **un**, **du**, **tr
 
 ### Korelativoj
 
-Nur korelativoj povas havi verajn finaĵojn.
+Veraj korelativoj havas verajn finaĵojn.
 
 | | |
 |-|-|
@@ -245,30 +243,24 @@ Nur korelativoj povas havi verajn finaĵojn.
 | *kie*, *kiel*, *kial*, *kiam*, *kiom* | **qŭo** |
 | *kien* | **qŭu** |
 
-La korelativa ŝajnfinaĵo **-ale** estas specife por kvalitoj.
+Ŝajnkorelativoj havas ŝajnfinaĵon.
 
 | | |
 |-|-|
 | *kia* | **qŭal** |
-
-La korelativaj ŝajnfinaĵoj **-ele** kaj **-ere** estas specife por maniero kaj motivo.
-
 | | |
-|-|-|
 | *kiel* | **qŭel** |
 | *kial* | **qŭer** |
-
-Pere de la korelativa ŝajnfinaĵo **-m** kreiĝas prepozicioj kaj konjunkcioj. ***En poezio***, uziĝas **-ando** kaj **-anto** anstataŭ **-am** kaj **-om**.
+| | |
+| *kiam*, *kiel* | **quam** (= **quando**) |
+| | |
+| *kiom*, *-*, *ke* | **quom** (= **quanto**, **kome**, **ke**) |
 
 | | |
 |-|-|
-| *kiam*, *kiel* | **quam** (= **quando**) |
-| | |
-| *Kiam vi venas?* | **Quam venit?** |
+| *Kiam vi venas?* | **Quam (=quando) venit?** |
 | *Mi venas kiel amiko.* | **Venim quam amico.** |
-| *Mi vidas vin, kiam vi venas.* | **Ti videm quam venit.** |
-| | |
-| *kiom*, *-*, *ke* | **quom** (= **quanto**, **kome**, **ke**) |
+| *Mi vidas vin, kiam vi venas.* | **Ti videm quam (= quando) venit.** |
 | | |
 | *Kiom kostas?* | **Quom (= quanto) costa?** |
 | *Vi nomas min amiko.* | **Mi clamat quom (= come) amico.** |
@@ -315,6 +307,10 @@ La korelativoj **la** kaj **qŭo** uziĝas kiel difina artikolo respektive kiel 
 |-|-|
 | *fore tiu*, *la* | **la** |
 | *kiel*, *ke* | **qŭo** |
+
+***TODO*** qŭere = kial; qŭerere = demandi (voli, ami, deziri)
+
+### Artikoloj
 
 ### Pronomoj
 
@@ -417,7 +413,7 @@ La *pasivo* estas malregulaj adjektivoj je **-t** aŭ **-s**. (Kaj **esse** *(es
 | *La libro estas legata.* | La libro sta **lecta**. | La libro essan **legata**. |
 | *La libro estas legita.* | La libro veni **lecta**. | La libro essan **legita**. |
 
-#### Prepozicioj
+### Prepozicioj
 
 Per **de** oni povas indiki la *aganton* en *pasivo*.
 

@@ -9,9 +9,7 @@
 
 ***Piĝino*** pruntas elementojn el [***Lingua***](lingua.md), [***Sprak***](sprak.md) kaj [***Äzyk***](jazyk.md). La fonetika skribo de ***Prapiĝino*** estas identa kun la ortografio de ***Esperanto***.
 
-## Ortografio
-
-***TODO*** "Prononco"
+## Prononco
 
 ***Piĝino*** havas sian propran fonetikan skribon (inter *[kvadrataj krampoj]*). Nemalofte la fonetika skribo de ***Piĝino*** estas identa kun ĝia etimologia skribo.
 
@@ -45,9 +43,9 @@ Sago (→) signifas diferencon inter ***Prapiĝino*** kaj ***Piĝino***, ĉu ort
 | **Mercuro** *[merkuro]* | **=** → **Mercro** *[merkro]* | ***mercŭredıo*** *[merkredo]* → **mercredo** *[merkredo]* |
 | **Venusso** *[venuso]* | **=** → **Venro** *[=]* | **venĕredıo** *[vendredo]* → **venredo** *[=]* |
 
-### Latinidaj Vortoj
+### i, u
 
-#### ti
+### ti
 
 En ***Piĝino***, radikofinaj **tĕ**/**tĭ** *[c]* kaj **ţ** *[s]* skribiĝas **z**/**c** respective **s**, sed **stĭ** *[st]* skribiĝas **st**. **tī** *[ci]* prononciĝas *[si]*.
 
@@ -71,7 +69,9 @@ En ***Piĝino***, radikofinaj **tĕ**/**tĭ** *[c]* kaj **ţ** *[s]* skribiĝas 
 | **potentīalo** *[potencialo]* → *[potensialo]* |
 | **sentĭo** *[senco]* → **senso** *[senso]* |
 
-#### ci, gi, j
+### ci, gi, j
+
+***TODO*** j -> i, u
 
 En ***Prapiĝino***, la skriboj por **ĉ** *[ĉ]*, **ċ** *[c]*, **ĝ** *[ĝ]* (t.e. plozivaj frikativoj) kaj **çh** *[ŝ]*, **ç** *[s]*, **ĵ** *[ĵ]* (t.e. ne-plozivaj frikativoj) estas fiksitaj. (La skribo de **ĝ** povas varii laŭ la etimologio jen al **dĵ**, jen al **j**.) (La skribo **çh** surogatas la skribon **^ç**.)
 
@@ -142,7 +142,9 @@ En ***Piĝino***, la skriboj varias laŭ ilia pozicio, t.e. ĉu ili estas radiko
 | |
 | **obĭecto** *[objekto]* → **objecto** *[obĵekto]* |
 
-#### qu, c, g
+### qu, c, g
+
+***TODO*** aliaj dialektoj ne havas tiun chi sekcion
 
 Inter konsonantoj, **u** prononciĝas *[u]*. Inter konsonanto kaj vokalo (aŭ radikofino), **u** prononciĝas *[v]*, kaj **ū** restas *[u]*. Post vokalo, ĝi fariĝas **ŭ** *[ŭ]*. ***TODO*** Post konsonanto, **ŭ** estas muta.
 
@@ -165,6 +167,10 @@ Inter konsonantoj, **u** prononciĝas *[u]*. Inter konsonanto kaj vokalo (aŭ ra
 | |
 | **qŭe** *[ke]* |
 | (**kio** → **qŭio** *[kio]* ) |
+
+### s, x
+
+### r, l
 
 ### Grekaj Vortoj
 
@@ -420,3 +426,23 @@ En ***hispan-akĉenta Piĝino***, prononciĝas *[ĥ]* anstataŭ *[ĵ]*/*[ĝ]*, d
 ***TODO*** na (ludo, sistemo, suprajho) (ofte io nomata? objekto?)
 
 ***TODO*** nomoi ne besonas accusativon
+
+## Gramatiko
+
+### Substantivoj
+
+### Adjektivoj
+
+### Adverboj
+
+### Numeraloj
+
+### Korelativoj
+
+### Artikoloj
+
+### Pronomoj
+
+### Verboj
+
+### Prepozicioj

@@ -1,10 +1,53 @@
-# Piĝino
+# Ojdo
 
 ***TODO*** Ojdo/Oido, Lingvao/Lingua, Adĵuvilo/Adjuvilo + nomo de dossieroi
 
 ***Piĝino*** unuiĝas trajtojn de [***Okcidentalo***](https://eo.wikipedia.org/wiki/Okcidentalo), [***Adjuvilo***](https://eo.wikipedia.org/wiki/Adjuvilo) kaj [***Ido***](https://eo.wikipedia.org/wiki/Ido_(lingvo)).
 
 ***TODO*** vortkomenca **z** *[dz]* ?
+
+## Prononco
+
+### i, u
+
+***TODO*** jen estas Piĝino
+
+Post konsonanto, radikofina **ĭ** *[j]* fariĝas **i** *[=]*, sed radikofina **tĭ** fariĝas **z** *[c]* respektive radikofina **stĭ** fariĝas **st** *[=]*. La ŝajnfinaĵo **-ĭone** ĉiam fariĝas **-īo** *[io]*.
+
+***TODO*** generale, **i** *[j]* ant'al vocalo relongijas. natione, potenciale, graciosa
+
+| |
+|-|
+| **alĭa** *[alja]* → **alia** *[=]* |
+| **familĭe** *[familje]* → **familio** *[=]* |
+| |
+| **poesĭe** *[poezje]* → **poesīo** *[poezio]* |
+| **nostalgĭe** *[nostalgje]* → **nostalgīo** *[nostalĝio]* |
+| |
+| **gratĭe** *[gracje]* → **grazo** *[graco]* |
+| **potentĭe** *[potencje]* → **potenzo** *[potenco]* |
+| **potentĭale** *[potencjale]* → **potencialo** *[=]* |
+| **spatĭe** *[spacje]* → **spazo** *[spaco]* |
+| |
+| **bestĭe** *[bestje]* → **besto** *[=]* |
+| |
+| **natĭe** *[nacje]* → **natīo** *[nacio]* |
+| **statĭe** *[stacje]* → **statīo** *[stacio]* |
+
+Samkiel en Archelingua kaj Lingua, [**ĭ** kaj **ŭ**](lingua.md) prononciĝas *[ĵ]* kaj *[v]* komence respektive fine de radiko. ***TODO***
+
+| |
+|-|
+| **lingŭe** *[=]* → **lingŭo** *[lingvo]* |
+| **aqŭe** *[akŭe]* → **aqŭo** *[akvo]* |
+
+### ti
+
+### ci, gi
+
+### s, x
+
+### r, l
 
 ## Gramatiko
 
@@ -35,25 +78,7 @@ La akuzativa prepozicio estas **a**. ***Tra bruo***, ĝi anstataŭiĝas per la a
 |-|-|-|
 | *domon* | **a domo** | **ad domo** |
 
-### Korelativoj
-
-Korelativaj radikoj kombineblas kun sufiksoj.
-
-| | |
-|-|-|
-| *kio* | **qŭe** *[kve]* → **qŭo** *[kvo]* = **qŭajo** *[kvaĵo]* |
-| *kiu* | **qŭi** *[kvi]* → **qŭu** *[kvu]* = **qŭulo** *[kvulo]* |
-| *kia* | **qŭa** *[kva]* → **qŭessa** *[kvesa]* |
-| *kies* | **qŭes** *[kves]* → **qŭos** *[kvos]* = **qŭesĭma** *[kvesma]* |
-
-### Artikoloj
-
-La difina artikolo estas **la**. **En poezio**, ĝi mallongiĝas al **l'-** antaŭ vokalokomenca vorto respektive al **-l** post vokalofina prepozicio.
-
-| | poezie |
-|-|-|
-| **por la amo** | **por l'amo** |
-| **de la amo** | **del amo** |
+### Adjektivoj
 
 ### Adverboj
 
@@ -88,6 +113,29 @@ Por esprimi celon uziĝas la ŝajnfinaĵo **-i**.
 | *Mi estas hejme.* | Mu esse in domo. | Mu esse **dome**. |
 | *Mi iras hejmen.* | Mu vade ad domo. | Mu vade **domi**. |
 
+### Numeraloj
+
+### Korelativoj
+
+Korelativaj radikoj kombineblas kun sufiksoj.
+
+| | |
+|-|-|
+| *kio* | **qŭe** *[kve]* → **qŭo** *[kvo]* = **qŭajo** *[kvaĵo]* |
+| *kiu* | **qŭi** *[kvi]* → **qŭu** *[kvu]* = **qŭulo** *[kvulo]* |
+| *kia* | **qŭa** *[kva]* → **qŭessa** *[kvesa]* |
+| *kies* | **qŭes** *[kves]* → **qŭos** *[kvos]* = **qŭesĭma** *[kvesma]* |
+
+### Artikoloj
+
+La difina artikolo estas **la**. **En poezio**, ĝi mallongiĝas al **l'-** antaŭ vokalokomenca vorto respektive al **-l** post vokalofina prepozicio.
+
+| | poezie |
+|-|-|
+| **por la amo** | **por l'amo** |
+| **de la amo** | **del amo** |
+
+### Pronomoj
 
 ### Verboj
 
@@ -127,40 +175,4 @@ La ***prapiĝina*** verba finaĵo **-n** fariĝas **-s**. Anstataŭ la ***prapi�
 
 ---
 
-## Prononco
-
-### i, u
-
-***TODO*** jen estas Piĝino
-
-Post konsonanto, radikofina **ĭ** *[j]* fariĝas **i** *[=]*, sed radikofina **tĭ** fariĝas **z** *[c]* respektive radikofina **stĭ** fariĝas **st** *[=]*. La ŝajnfinaĵo **-ĭone** ĉiam fariĝas **-īo** *[io]*.
-
-***TODO*** generale, **i** *[j]* ant'al vocalo relongijas. natione, potenciale, graciosa
-
-| |
-|-|
-| **alĭa** *[alja]* → **alia** *[=]* |
-| **familĭe** *[familje]* → **familio** *[=]* |
-| |
-| **poesĭe** *[poezje]* → **poesīo** *[poezio]* |
-| **nostalgĭe** *[nostalgje]* → **nostalgīo** *[nostalĝio]* |
-| |
-| **gratĭe** *[gracje]* → **grazo** *[graco]* |
-| **potentĭe** *[potencje]* → **potenzo** *[potenco]* |
-| **potentĭale** *[potencjale]* → **potencialo** *[=]* |
-| **spatĭe** *[spacje]* → **spazo** *[spaco]* |
-| |
-| **bestĭe** *[bestje]* → **besto** *[=]* |
-| |
-| **natĭe** *[nacje]* → **natīo** *[nacio]* |
-| **statĭe** *[stacje]* → **statīo** *[stacio]* |
-
-Samkiel en Archelingua kaj Lingua, [**ĭ** kaj **ŭ**](lingua.md) prononciĝas *[ĵ]* kaj *[v]* komence respektive fine de radiko. ***TODO***
-
-| |
-|-|
-| **lingŭe** *[=]* → **lingŭo** *[lingvo]* |
-| **aqŭe** *[akŭe]* → **aqŭo** *[akvo]* |
-
-
-
+### Prepozicioj
