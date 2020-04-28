@@ -4,13 +4,9 @@
 
 ***Arkaika Lingvao*** havas arkaikan prononcon.
 
-| | Archelingua | Lingua |
-|-|-|-|
-| *generacio* | **generatĭone** *[generatione]* | **generatĭone** *[ĝeneracjone]* |
-
-***TODO*** qŭ- [kv] -> [ku] -> qŭi [ki]
-
-***TODO*** quom
+| | Archelingua → Lingua |
+|-|-|
+| *generacio* | **generatĭone** *[generatione → ĝeneracjone]* |
 
 ## Prononco
 
@@ -18,35 +14,35 @@ Duobla konsonanto estas prononcata kiel unuopa konsonanto.
 
 | |
 |-|
-| **terra** *[terra]* → *[tera]* |
+| **terra** *[terra → tera]* |
 
 ### i, u
 
-Apudvokalaj **ĭ** *[j]* kaj **ŭ** *[=]* estas neakcentataj.
+***TODO*** qŭ- [kv] -> [ku] -> qŭi [ki]
+
+***TODO*** quom
+
+En ***Arkaika Lingvao***, la duonvokaloj **ĭ** *[j]* kaj **ŭ** *[=]* estas neakcenteblaj, t.e. ili ne kalkuliĝas kiel antaŭlasta (t.e. akcentenda) silabo. En ***Lingvao***, radikokomenca **ĭ** *[j]* kaj radikofina **ŭ** *[=]* fariĝas frikativaj **j** *[ĵ]* kaj **ŭ** *[v]*.
 
 | | |
 |-|-|
-| *majo* | **maĭo** *[majo]* |
-| *familio* | **familĭa** *[familja]* |
+| *majo* | **maĭo** *[mai-o → majo]* |
+| *familio* | **familĭa** *[famili-a → familja]* |
 | | |
-| *aŭto* | **aŭto** *[=]* |
-| *kvanto* | **qŭanto** *[kŭanto]* |
-
-Radikokomenca **ĭ** *[j]* kaj radikofina **ŭ** *[=]* fariĝas **j** *[ĵ]* kaj **ŭ** *[v]*.
-
+| *aŭto* | **aŭto** *[au-to → aŭto]* |
+| *kvanto* | **qŭanto** *[kuanto → kŭanto]* |
 | | |
-|-|-|
-| *jam* | **ĭam** *[jam]* → **jam** *[ĵam]* |
-| *justa*, *ĝusta* | **ĭusta** *[justa]* → **justa** *[ĵusta]* |
+| *jam* | **ĭam** *[iam']* → **jam** *[ĵam]* |
+| *justa*, *ĝusta* | **ĭusta** *[iusta]* → **justa** *[ĵusta]* |
 | | |
-| *akvo* | **aqŭa** *[akŭa]* → *[akva]* |
-| *lingvo* | **lingŭa** *[lingŭa]* → *[lingva]* |
+| *akvo* | **aqŭa** *[aku-a → akva]* |
+| *lingvo* | **lingŭa** *[lingu-a → lingva]* |
 
-Ankaŭ malantaŭ ŝajnprefikso, radikokomenca **ĭ** *[j]* fariĝas **j** *[ĵ]*. La ŝajnsufikso **-atic-** *[atiko]* fariĝas **-aj-** *[aĵ]*.
+Ankaŭ malantaŭ ŝajnprefikso, radikokomenca **ĭ** *[j]* fariĝas **j** *[ĵ]*. Inter konsonantoj, **ĭ** kaj **ŭ** eliziiĝas. La ŝajnsufikso **-atĭc-** *[atk]* fariĝas **-aj-** *[aĵ]*.
 
 | | |
 |-|-|
-| *projekto* | **proĭecto** *[projekto]* → **projecto** *[proĵekto]* |
+| *projekto* | **proĭecto** *[proiekto]* → **projecto** *[proĵekto]* |
 | | |
 | *vojaĵo* | **viatĭco** *[viatko]* → **viajo** *[viaĵo]* |
 
@@ -56,18 +52,19 @@ Ankaŭ malantaŭ ŝajnprefikso, radikokomenca **ĭ** *[j]* fariĝas **j** *[ĵ]*
 
 | | |
 |-|-|
-| *besto* | **bestĭa** *[bestja]* |
-| *spaco* | **spatĭo** *[spatjo]* → *[spacjo]* |
-| *substanco* | **substantĭa** *[substantja]* → *[substancja]* |
+| *spaco* | **spatĭo** *[spati-o → spacjo]* |
+| *substanco* | **substantĭa** *[substanti-a → substancja]* |
 | | |
-| *garantio* | **garantīa** *[garantia]* → *[garancia]* |
-| *lekcio* | **lectĭone** *[lektjone]* → *[lekcjone]* |
+| *besto* | **bestĭa** *[besti-a → bestja]* |
+| | |
+| *garantio* | **garantīa** *[garantia → garancia]* |
+| *lekcio* | **lectĭone** *[lektione → lekcjone]* |
 
 Simile, **tĕ** fariĝas **z** *[c]*.
 
 | | |
 |-|-|
-| *placo* | **platĕa** *[plate_a]* → **plaza** *[placa]* |
+| *placo* | **platĕa** *[plate-a]* → **plaza** *[placa]* |
 
 ### ci, gi
 
@@ -75,8 +72,8 @@ Antaŭ **e** kaj **i**, **c** [k] kaj **g** [g] prononciĝas [c] kaj [ĝ].
 
 | | |
 |-|-|
-| *centro* | **centro** *[kentro]* → *[centro]* |
-| *ĝenerala* | **generale** *[generale]* → *[ĝenerale]* |
+| *centro* | **centro** *[kentro → centro]* |
+| *ĝenerala* | **generale** *[generale → ĝenerale]* |
 
 ### s, x
 
@@ -84,24 +81,32 @@ Antaŭ **e** kaj **i**, **c** [k] kaj **g** [g] prononciĝas [c] kaj [ĝ].
 
 | | |
 |-|-|
-| *maso* | **massa** *[massa]* → *[masa]* |
-| *rozo* | **rosa** *[rosa]* → *[roza]* |
+| *maso* | **massa** *[massa → masa]* |
+| *rozo* | **rosa** *[rosa → roza]* |
 
 **x** [ks] prononciĝas [gz] inter vokaloj.
 
 | | |
 |-|-|
-| *ekzemplo* | **exemplo** *[eksemplo]* → *[egzemplo]* |
+| *ekzemplo* | **exemplo** *[eksemplo → egzemplo]* |
 | *fiksi* | **fixare** *[fiksare]* |
 
 ### r, l
 
-Ŝajnfinaĵoj je **-re** kaj **-le** mallongiĝas al **-r** kaj **-l** sen ŝanĝi la akcenton.
+Kombiniĝante kun aldona vorteto (aŭ ***en poezio*** ĝenerale), ŝajnfinaĵoj je **-re** kaj **-le** mallongiĝas al **-r** kaj **-l** sen ŝanĝi la akcenton.
 
 | | |
 |-|-|
-| *ami* | **amare** → **amar** |
-| *facila* | **facile** → **facil** |
+| *ami* | **amare** → **amar** *[amar']* |
+| *stabila* | **stabile** → **stabil** *[stabil']* |
+
+***TODO*** acc sing: vidermi, viderti, viderli
+
+***TODO*** nom sing: videm, videt, vide
+
+***TODO*** acc plur: vidermos -> vidernos, vidertos -> vidervos, viderlos
+
+***TODO*** nom plur: videmos/videmis, videtos/videtis, viden
 
 ### Grekaj Vortoj
 
