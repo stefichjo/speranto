@@ -2,7 +2,7 @@
 
 ***Lingvao*** baziĝas sur la ***Latina*** kaj la [***Internaciaj Ortografioj***](latinidaj/README.md) de la ***Latinidaj Lingvoj***. ***Lingvao*** unuiĝas trajtojn de [***Interlingvao***](https://eo.wikipedia.org/wiki/Interlingvao) kaj [***Gloso***](https://eo.wikipedia.org/wiki/Gloso_(planlingvo)). El ***Lingvao*** pruntas [***Piĝino***](pighino.md).
 
-***Arkaika Lingvao*** havas arkaikan prononcon.
+***Arkaika Lingvao*** havas arkaikan prononcon, 
 
 | | Archelingua → Lingua |
 |-|-|
@@ -18,11 +18,7 @@ Duobla konsonanto estas prononcata kiel unuopa konsonanto.
 
 ### i, u
 
-***TODO*** qŭ- [kv] -> [ku] -> qŭi [ki]
-
-***TODO*** quom
-
-En ***Arkaika Lingvao***, la duonvokaloj **ĭ** *[j]* kaj **ŭ** *[=]* estas neakcenteblaj, t.e. ili ne kalkuliĝas kiel antaŭlasta (t.e. akcentenda) silabo. En ***Lingvao***, radikokomenca **ĭ** *[j]* kaj radikofina **ŭ** *[=]* fariĝas frikativaj **j** *[ĵ]* kaj **ŭ** *[v]*.
+En ***Arkaika Lingvao***, la duonvokaloj **ĭ** *[j]* kaj **ŭ** *[=]* estas neakcenteblaj. Ili do ne kalkuliĝas kiel antaŭlasta (t.e. akcentenda) silabo.
 
 | | |
 |-|-|
@@ -31,7 +27,11 @@ En ***Arkaika Lingvao***, la duonvokaloj **ĭ** *[j]* kaj **ŭ** *[=]* estas nea
 | | |
 | *aŭto* | **aŭto** *[au-to → aŭto]* |
 | *kvanto* | **qŭanto** *[kuanto → kŭanto]* |
+
+En ***Lingvao***, radikokomenca **ĭ** *[j]* kaj radikofina **ŭ** *[=]* fariĝas frikativaj **j** *[ĵ]* kaj **ŭ** *[v]*.
+
 | | |
+|-|-|
 | *jam* | **ĭam** *[iam']* → **jam** *[ĵam]* |
 | *justa*, *ĝusta* | **ĭusta** *[iusta]* → **justa** *[ĵusta]* |
 | | |
@@ -48,22 +48,22 @@ Ankaŭ malantaŭ ŝajnprefikso, radikokomenca **ĭ** *[j]* fariĝas **j** *[ĵ]*
 
 ### ti
 
-**tĭ** kaj **tī** prononciĝas kun *[c]*, krom en **stĭ** *[stj]*.
+**tĭ** prononciĝas *[cj]*. (Sed **stĭ** prononciĝas *[stj]*.)
 
 | | |
 |-|-|
+| *lekcio* | **lectĭone** *[lektione → lekcjone]* |
 | *spaco* | **spatĭo** *[spati-o → spacjo]* |
 | *substanco* | **substantĭa** *[substanti-a → substancja]* |
 | | |
 | *besto* | **bestĭa** *[besti-a → bestja]* |
-| | |
-| *garantio* | **garantīa** *[garantia → garancia]* |
-| *lekcio* | **lectĭone** *[lektione → lekcjone]* |
 
-Simile, **tĕ** fariĝas **z** *[c]*.
+Akcentata **tĭ** skribiĝas **tī** *[ci]*. ***Arkaika*** **tĕ** fariĝas **z** *[c]*.
 
 | | |
 |-|-|
+| *garantio* | **garantīa** *[garantia → garancia]* |
+| | |
 | *placo* | **platĕa** *[plate-a]* → **plaza** *[placa]* |
 
 ### ci, gi
@@ -93,20 +93,16 @@ Antaŭ **e** kaj **i**, **c** [k] kaj **g** [g] prononciĝas [c] kaj [ĝ].
 
 ### r, l
 
-Kombiniĝante kun aldona vorteto (aŭ ***en poezio*** ĝenerale), ŝajnfinaĵoj je **-re** kaj **-le** mallongiĝas al **-r** kaj **-l** sen ŝanĝi la akcenton.
+Vortoj kun ŝajnfinaĵoj je **-re**/**-le** povas mallongiĝi al **-r'**/**-l'**.
 
 | | |
 |-|-|
-| *ami* | **amare** → **amar** *[amar']* |
-| *stabila* | **stabile** → **stabil** *[stabil']* |
-
-***TODO*** acc sing: vidermi, viderti, viderli
-
-***TODO*** nom sing: videm, videt, vide
-
-***TODO*** acc plur: vidermos -> vidernos, vidertos -> vidervos, viderlos
-
-***TODO*** nom plur: videmos/videmis, videtos/videtis, viden
+| *ami* | **amare** → **amar'** |
+| | |
+| *stela* | **stellare** → **stellar'** |
+| *stabila* | **stabile** → **stabil'** |
+| | |
+| *doktoro* | **doctore** → **doctor'** |
 
 ### Grekaj Vortoj
 
@@ -143,6 +139,9 @@ Substantivoj je **-o** kaj **-e** havas vokativojn je **-u** kaj **-i**.
 | *amiko* | **amico** |
 | *ho amiko!* | **amicu!** |
 | | |
+| *amikino* | **amica** |
+| *ho amika!* | **amicā!** |
+| | |
 | *homoj* | **gente** |
 | *ho homoj!| **genti!** |
 
@@ -175,12 +174,12 @@ Nomoj kaj terminoj konservas sian specifan *nominativan* formon.
 
 ### Adjektivoj
 
-Adjektivoj pruntas la in-genran ablativan formon de la ***Latina***. En sia multenombra formo, ĝi ricevas la finaĵon **-s**.
+Adjektivoj pruntas la in-genran ablativan formon de la ***Latina***. ***En poezio***, adjektivoj ricevas la finaĵon **-s** por multenombro.
 
-| | Latina | Lingua |
+| | | poezie |
 |-|-|-|
-| *bona amiko* | **amico bona** |
-| *bonaj amikoj* | **amicos bonas** |
+| *bona amiko* | **amico bona** | |
+| *bonaj amikoj* | **amicos bona** | **amicos bonas** |
 
 Substantivo estas adjektivigebla pere de la ŝajnfinaĵo **-ale**. Se la ŝajnradiko finiĝas je **-l**, **-ale** ŝanĝas sian formon al **-are**.
 
@@ -192,15 +191,6 @@ Substantivo estas adjektivigebla pere de la ŝajnfinaĵo **-ale**. Se la ŝajnra
 | *velo* | **velo** |
 | *velara* | **velare** |
 
-***En poezio***
-
-* videre -> vider
-* mi vole viderti
-
-* core -> corale -> coralmente
-* cordie -> cordiale -> cordialmente
-* core -> cordiale -> cordialmente
-
 ### Adverboj
 
 Adjektivoj estas adverbigeblaj pere de la ŝajnfinaĵo **-mente**.
@@ -210,6 +200,18 @@ Adjektivoj estas adverbigeblaj pere de la ŝajnfinaĵo **-mente**.
 | *klare* | **claramente** |
 | | |
 | *facile* | **facilemente** → **facilmente** |
+
+***TODO*** evidente ne **clarmente**; **universalmente**
+***TODO*** qŭ- [kv] -> [ku] -> qŭi [ki]
+***TODO*** quom
+***TODO*** acc sing: vidermi, viderti, viderli
+***TODO*** nom sing: videm, videt, vide
+***TODO*** acc plur: vidermos -> vidernos, vidertos -> vidervos, viderlos
+***TODO*** nom plur: videmos/videmis, videtos/videtis, viden
+***TODO*** amicā
+***TODO*** differenzo inter domos grande e grande domos
+***TODO*** e/ed, a/ad, o/od
+***TODO*** ĉu estas tro da informo aldonante la ne-akcenteblajn silabojn ĉe vortoj kiel: "camĕra", "charactĕre", "stab(i)la", "mittĕre", "vendĕre"
 
 ### Numeraloj
 
