@@ -199,19 +199,7 @@ Adjektivoj estas adverbigeblaj pere de la ŝajnfinaĵo **-mente**.
 |-|-|
 | *klare* | **claramente** |
 | | |
-| *facile* | **facilemente** → **facilmente** |
-
-***TODO*** evidente ne **clarmente**; **universalmente**
-***TODO*** qŭ- [kv] -> [ku] -> qŭi [ki]
-***TODO*** quom
-***TODO*** acc sing: vidermi, viderti, viderli
-***TODO*** nom sing: videm, videt, vide
-***TODO*** acc plur: vidermos -> vidernos, vidertos -> vidervos, viderlos
-***TODO*** nom plur: videmos/videmis, videtos/videtis, viden
-***TODO*** amicā
-***TODO*** differenzo inter domos grande e grande domos
-***TODO*** e/ed, a/ad, o/od
-***TODO*** ĉu estas tro da informo aldonante la ne-akcenteblajn silabojn ĉe vortoj kiel: "camĕra", "charactĕre", "stab(i)la", "mittĕre", "vendĕre"
+| *facile* | **facilmente** |
 
 ### Numeraloj
 
@@ -231,7 +219,28 @@ Adjektivoj estas adverbigeblaj pere de la ŝajnfinaĵo **-mente**.
 | *100* | **cent** | **centesĭma** = **centesma** |
 | *1000* | **mill** | **millesĭma** = **millesma** |
 
-Intervaloj esprimiĝas per la sufikso **-t-**. ***TODO*** quaresĭma parto ⇒ quarto
+---
+
+Frakcio esprimiĝas per la sufikso **-t-**.
+
+* ses
+* sesto
+
+
+Intervaloj esprimiĝas per la sufikso **-t-**.
+
+***TODO*** quaresĭma parto ⇒ quarto
+***TODO*** qŭ- [kv] -> [ku] -> qŭi [ki]
+***TODO*** quom
+***TODO*** acc sing: vidermi, viderti, viderli
+***TODO*** nom sing: videm, videt, vide
+***TODO*** acc plur: vidermos -> vidernos, vidertos -> vidervos, viderlos
+***TODO*** nom plur: videmos/videmis, videtos/videtis, viden
+***TODO*** amicā
+***TODO*** differenzo inter domos grande e grande domos
+***TODO*** e/ed, a/ad, o/od
+***TODO*** ĉu estas tro da informo aldonante la ne-akcenteblajn silabojn ĉe vortoj kiel: "camĕra", "charactĕre", "stab(i)la", "mittĕre", "vendĕre"
+
 
 * **qŭarto** *(kvarto)*
 
