@@ -203,33 +203,26 @@ Adjektivoj estas adverbigeblaj pere de la ŝajnfinaĵo **-mente**.
 
 ### Numeraloj
 
+La ŝajnsufikso por ordinaloj estas **-esĭma** *[esi-ma]* **-esma** → *[esma]*. En ***Arkaika Lingvao***, ordinaloj de 4 ĝis 10 havas la ŝajnsufikson **-t-**, kaj la numeraloj **un**, **du**, **tri** havas apartajn ordinalojn formojn: **prima**, **secunda** kaj **tertĭa**.
+
 | | numeralo | ordinalo |
 |-|-|-|
-| *1* | **un** | **prima** → **unesĭma** = **unesma** |
-| *2* | **du** | **secunda** → **duesĭma** = **duesma** |
-| *3* | **tri** | **tertĭa** → **triesĭma** = **triesma** |
-| *4* | **qŭar** | **qŭarta** → **qŭaresĭma** = **qŭaresma** |
-| *5* | **qŭin** | **qŭinta** → **qŭinesĭma** = **qŭinesma** |
-| *6* | **ses** | **sesta** → **sessesĭma** = **sessesma** |
-| *7* | **sep** | **septa** → **sepesĭma** = **sepesma** |
-| *8* | **oc** | **octa** → **ocesĭma** = **ocesma** |
-| *9* | **naŭ** | **naŭta** → **naŭesĭma** = **naŭesma** |
+| *1* | **un** | **prima** → **unesma** |
+| *2* | **du** | **secunda** → **duesma** |
+| *3* | **tri** | **tertĭa** → **triesma** |
+| *4* | **qŭar** | **qŭarta** → **qŭaresma** |
+| *5* | **qŭin** | **qŭinta** → **qŭinesma** |
+| *6* | **ses** | **sesta** → **sessesma** |
+| *7* | **sep** | **septa** → **sepesma** |
+| *8* | **oc** | **octa** → **ocesma** |
+| *9* | **naŭ** | **naŭta** → **naŭesma** |
 | | | |
-| *10* | **dec** | **decesĭma** = **decesma** |
-| *100* | **cent** | **centesĭma** = **centesma** |
-| *1000* | **mill** | **millesĭma** = **millesma** |
+| *10* | **dec** | **decesĭma** → **decesma** |
+| *100* | **cent** | **centesĭma** → **centesma** |
+| *1000* | **mill** | **millesĭma** → **millesma** |
 
 ---
 
-Frakcio esprimiĝas per la sufikso **-t-**.
-
-* ses
-* sesto
-
-
-Intervaloj esprimiĝas per la sufikso **-t-**.
-
-***TODO*** quaresĭma parto ⇒ quarto
 ***TODO*** qŭ- [kv] -> [ku] -> qŭi [ki]
 ***TODO*** quom
 ***TODO*** acc sing: vidermi, viderti, viderli
@@ -239,19 +232,6 @@ Intervaloj esprimiĝas per la sufikso **-t-**.
 ***TODO*** amicā
 ***TODO*** differenzo inter domos grande e grande domos
 ***TODO*** e/ed, a/ad, o/od
-***TODO*** ĉu estas tro da informo aldonante la ne-akcenteblajn silabojn ĉe vortoj kiel: "camĕra", "charactĕre", "stab(i)la", "mittĕre", "vendĕre"
-
-
-* **qŭarto** *(kvarto)*
-
-Ordinaloj (ĝis 10) havis la sufikson **-t-**. La numeraloj **un**, **du**, **tri** havis apartajn formojn kiel ordinalojn.
-
-| | |
-|:-|:-|
-| *1-a* | **prima** → **unesĭma** = **unesma** |
-| *2-a* | **secunda** → **duesĭma** = **duesma** |
-| *3-a* | **tertĭa** → **triesĭma** = **triesma** |
-| *4-a* | **qŭarta** → **qŭaresĭma** = **qŭaresma** |
 
 ### Korelativoj
 
