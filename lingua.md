@@ -328,6 +328,13 @@ Pronomoj povas fariĝi posedaj pronomoj. En multenombro, ili havas la finaĵon *
 | *mia amiko* | **mi amico** |
 | *miaj amikoj* | **mis amicos** |
 
+Akuzativaj pronomoj uziĝas tuj post la infinitiva ŝajnfinaĵo **-re**. Anstataŭ **-ili** tiam uziĝas **-lis**.
+
+| | |
+|-|-|
+| *vidi vin* | **videre a ti** → **viderti** |
+| *vidi ilin* | **videre a ili** → **viderlis** |
+
 ### Verboj
 
 ***En Poezio***, la refleksiva pronomo **si** fariĝas la konjugacia finaĵo **-s**.
@@ -336,7 +343,19 @@ Pronomoj povas fariĝi posedaj pronomoj. En multenombro, ili havas la finaĵon *
 |-|-|-|
 | *La aŭto moviĝas.* | **La aŭto si move.** | **La aŭto moves.** |
 
-***En Poezio***, la personaj pronomoj **mi** kaj **ti** fariĝas la konjugaciaj finaĵoj **-m** kaj **-t**. Paralele, **imi** kaj **iti** (anstataŭ **ni** kaj **vi**) fariĝas la konjugaciaj finaĵoj **-ĭmi** kaj **-ĭti**. La plurala triapersona konjugacia finaĵo estas **-n**.
+La indikativa (prezenca) verba radiko uziĝas ankaŭ por imperativoj. Adresante plurajn personojn, aldoniĝas la ŝajnfinaĵo **-n**.
+
+| | |
+|-|-|
+| **li amas.** | **li ama.** |
+| **amu!** | **ama!** |
+| | |
+| **amu! (ĉiuj vi)** | **aman!** |
+
+
+La radika formo de verbo (t.e. sen la infinitiva ŝajnfinaĵo **-re**) estas
+
+***En Poezio***, la personaj pronomoj **mi** kaj **ti** fariĝas la konjugaciaj finaĵoj **-m** kaj **-t**. Paralele, **imi** kaj **iti** (anstataŭ **ni** kaj **vi**) fariĝas la konjugaciaj finaĵoj **-ĭmi** kaj **-ĭti**.
 
 | | | poezie |
 |-|-|-|
@@ -345,14 +364,17 @@ Pronomoj povas fariĝi posedaj pronomoj. En multenombro, ili havas la finaĵon *
 | | | |
 | *ni amas* | **ni ama** | **amaĭmi** → **amamis** |
 | *vi amas* | **vi ama** | **amaĭti** → **amatis** |
-| | | |
+
+***TODO*** imperative first
+ La plurala triapersona konjugacia finaĵo estas **-n**.
+
+| | | poezie |
+|-|-|-|
 | *li amas* | **li ama** | **ama** |
 | *ili amas* | **ili ama** | **aman** |
-
+ 
 ---
 
-***TODO*** vedermi/vidermos → vidernos, viderti/vidertos → vidervos, viderli/viderlos
-***TODO*** videm/videm's, videt/videt's, vide/viden
 ***TODO*** vide!/viden!
 
 ***TODO*** essere
@@ -369,21 +391,6 @@ Pronomoj povas fariĝi posedaj pronomoj. En multenombro, ili havas la finaĵon *
 
 ***TODO*** -ba, -va
 
-***En poezio***, uziĝas konjugacio.
-
-| | | poezie |
-|-|-|-|
-| *mi amas* | **mi ama** | **amam** |
-| *vi amas* | **ti ama** | **amat** |
-| | | |
-| *li/ŝi/ĝi amas* | **li ama** | **ama** |
-| *ili amas* | **ili ama** | **aman** |
-
-| | | poezie | tra bruo |
-|-|-|-|-|
-| *ni amas* | **ni ama** | **amami** | **amamos** |
-| *vi amas* | **vi ama** | **amati** | **amates** |
-
 ***TODO*** (a) ti videm
 
 ***TODO*** vene, amicā! venen, amicus!
@@ -397,6 +404,10 @@ Pronomoj povas fariĝi posedaj pronomoj. En multenombro, ili havas la finaĵon *
 * crearea
 
 ***TODO*** haveta teneta videta dormita faceta amata sentita formata data stata
+
+***TODO*** **h** *[ĥ]* → *[h]* trahere
+
+***TODO*** infinitivoj kun ne-akcentata -ere
 
 
 
