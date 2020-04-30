@@ -353,7 +353,7 @@ La indikativa (prezenca) verba radiko uziĝas ankaŭ por imperativoj.
 
 | | | poezie |
 |-|-|-|
-| **amu! (ĉiuj vi)** | **ama!** | **aman!** |
+| *amu! (ĉiuj vi)* | **ama!** | **aman!** |
 
 ***En Poezio***, la imperativaj formoj uziĝas por la indikativaj triaj personoj. La personaj pronomoj **mi** kaj **ti** fariĝas la konjugaciaj finaĵoj **-m** kaj **-t**. Paralele, **imi** kaj **iti** (anstataŭ samsignifaj **ni** kaj **vi**) fariĝas la konjugaciaj finaĵoj **-ĭmi** kaj **-ĭti**.
 
@@ -369,8 +369,6 @@ La indikativa (prezenca) verba radiko uziĝas ankaŭ por imperativoj.
 | *vi amas* | **vi ama.** | **amaĭti.** → **amatis.** |
 
 ---
-
-***TODO*** vide!/viden!
 
 ***TODO*** essere
 ***TODO*** essem/essem's, esset/esset's, esse/essen
@@ -388,8 +386,6 @@ La indikativa (prezenca) verba radiko uziĝas ankaŭ por imperativoj.
 
 ***TODO*** (a) ti videm
 
-***TODO*** vene, amicā! venen, amicus!
-
 * crear
 
 * vade crear; creara' = vade ad crear
@@ -404,9 +400,6 @@ La indikativa (prezenca) verba radiko uziĝas ankaŭ por imperativoj.
 
 ***TODO*** infinitivoj kun ne-akcentata -ere
 
-
-
-* 
 ---
 
 Por *futuro*, *prezenco*, *preterito* oni povas uzi la frazerojn **vade ad**, **sta in**, **veni de**.
