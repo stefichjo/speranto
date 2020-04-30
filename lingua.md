@@ -232,7 +232,7 @@ Estas kvin korelativoj kun la finaĵoj **-i**, **-e**, **-a**, **-o** kaj **-u**
 | *kie*, *kiel*, *kial*, *kiam*, *kiom* | **qŭo** |
 | *kien* | **qŭu** |
 
-***En poezio***, korelativoj je **-a** povas havi la multenombran finaĵon **-s**.
+***En poezio***, korelativoj je **-a** havas la multenombran finaĵon **-s**.
 
 | | | poezie |
 |-|-|-|
@@ -249,7 +249,7 @@ Estas kvin ŝajnkorelativoj kun la ŝajnfinaĵoj **-al**, **-el**, **-aŭ** kaj 
 | *kiam*, *kiel* | **quam** (= **quando**) |
 | *kiom*, *-*, *ke* | **quom** (= **quanto**, **kome**, **ke**) |
 
-***En poezio***, la korelativo **qŭe** povas ricevi la posedan ŝajnfinaĵon **-s**. La korelativoj **qŭe** kaj **qŭa** povas havi la finaĵon **-u** anstataŭ la akuzativan prepozicion **a**.
+***En poezio***, la korelativo **qŭe** ricevas la posedan ŝajnfinaĵon **-s**. La korelativoj **qŭe** kaj **qŭa** ricevas la finaĵon **-u** anstataŭ la akuzativan prepozicion **a**.
 
 | | | poezie |
 |-|-|-|
@@ -342,7 +342,9 @@ Akuzativaj pronomoj uziĝas tuj post la infinitiva ŝajnfinaĵo **-re**. Anstata
 |-|-|-|
 | *La aŭto moviĝas.* | **La aŭto si move.** | **La aŭto moves.** |
 
-La indikativa (prezenca) verba radiko uziĝas ankaŭ por imperativoj.
+#### Imperativo
+
+La verba radiko uziĝas por imperativoj.
 
 | | |
 |-|-|
@@ -355,34 +357,68 @@ La indikativa (prezenca) verba radiko uziĝas ankaŭ por imperativoj.
 |-|-|-|
 | *amu! (ĉiuj vi)* | **ama!** | **aman!** |
 
-***En Poezio***, la imperativaj formoj uziĝas por la indikativaj triaj personoj. La personaj pronomoj **mi** kaj **ti** fariĝas la konjugaciaj finaĵoj **-m** kaj **-t**. Paralele, **imi** kaj **iti** (anstataŭ samsignifaj **ni** kaj **vi**) fariĝas la konjugaciaj finaĵoj **-ĭmi** kaj **-ĭti**.
+#### Prezenco
+
+***En poezio***, la imperativaj formoj uziĝas por la indikativaj triaj personoj. La personaj pronomoj **mi** kaj **ti** fariĝas la konjugaciaj finaĵoj **-m** kaj **-t**. Paralele, **imi** kaj **iti** (anstataŭ samsignifaj **ni** kaj **vi**) fariĝas la konjugaciaj finaĵoj **-ĭmi** kaj **-ĭti**.
 
 | | | poezie |
 |-|-|-|
-| *li amas* | **li ama.** | **ama.** |
-| *ili amas* | **ili ama.** | **aman.** |
+| *li amas.* | **li ama.** | **ama.** |
+| *ili amas.* | **ili ama.** | **aman.** |
 | | | |
-| *mi amas* | **mi ama.** | **amam.** |
-| *vi amas* | **ti ama.** | **amat.** |
+| *mi amas.* | **mi ama.** | **amam.** |
+| *vi amas.* | **ti ama.** | **amat.** |
 | | | |
-| *ni amas* | **ni ama.** | **amaĭmi.** → **amamis.** |
-| *vi amas* | **vi ama.** | **amaĭti.** → **amatis.** |
+| *ni amas.* | **ni ama.** | **amaĭmi.** → **amamis.** |
+| *vi amas.* | **vi ama.** | **amaĭti.** → **amatis.** |
+
+***En poezio***, **esse** mallongiĝas al **es** kaj **se**.
+
+| | | poezie |
+|-|-|-|
+| *mi estas* | **mi esse** | **esm** |
+| *vi estas* | **ti esse** | **est** |
+| | | |
+| *ni estas* | **ni esse** | **seĭmi** → **semis** |
+| *vi estas* | **vi esse** | **seĭti* → **setis** |
+| | | |
+| *li estas* | **li esse** | **es** |
+| *ili estas* | **ili esse** | **sen** |
+
+#### Preterito
+
+| | |
+|-|-|
+| *mi vidis* | **mi videba** → **mi videva** |
+
+#### Futuro
+
+| | |
+|-|-|
+| *mi vidos* | **mi viderabe** → **mi videra'** |
+
+#### Kondicionalo
+
+| | |
+|-|-|
+| *mi vidus* | **mi viderea** |
+
+#### Perfekto
+
+| | |
+|-|-|
+| *mi estas vidinta* | **mi habe viso** → **mi have videta** |
+| *mi estis vidinta* | **mi habeba viso** → **mi haveva videta** |
+| *mi estos vidinta* | **mi haberabe viso** → **mi havera' videta** |
+| *mi estus vidinta* | **mi haberea viso** → **mi haverea videta** |
 
 ---
-
-***TODO*** essere
-***TODO*** essem/essem's, esset/esset's, esse/essen
-***TODO*** sem/sem's, set/set's, es/sen
 
 ***TODO*** differenzo inter domos grande e grande domos (pli-malpli: subjektiva/objektiva)
 
 ***TODO*** e/ed, a/ad, o/od
 
 ***TODO*** qŭere = kial; qŭerere = demandi (voli, ami, deziri)
-
-***TODO*** li kaj ili (ji kaj iji?)
-
-***TODO*** -ba, -va
 
 ***TODO*** (a) ti videm
 
