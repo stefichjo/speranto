@@ -12,9 +12,9 @@
 
 Duobla konsonanto estas prononcata kiel unuopa konsonanto.
 
-| |
-|-|
-| **terra** *[terra → tera]* |
+| | |
+|-|-|
+| *tero* | **terra** *[terra → tera]* |
 
 ### i, u
 
@@ -44,7 +44,7 @@ Ankaŭ malantaŭ ŝajnprefikso, radikokomenca **ĭ** *[j]* fariĝas **j** *[ĵ]*
 |-|-|
 | *projekto* | **proĭecto** *[proiekto]* → **projecto** *[proĵekto]* |
 | | |
-| *vojaĵo* | **viatĭco** *[viatko]* → **viajo** *[viaĵo]* |
+| *vojaĵo* | **viatĭco** *[viati-ko]* → **viajo** *[viaĵo]* |
 
 ### ti
 
@@ -143,9 +143,9 @@ Substantivoj je **-o** kaj **-e** havas vokativojn je **-u** kaj **-i**.
 | *ho amikino!* | **amicā!** |
 | | |
 | *homoj* | **gente** |
-| *ho homoj!| **genti!** |
+| *ho homoj!*| **genti!** |
 
-En sia *multenombra* formo, ĝi ricevas la finaĵon **-s**.
+En sia *multenombra* formo, ili ricevas la finaĵon **-s**.
 
 | | |
 |-|-|
@@ -160,13 +160,12 @@ Kelkaj latin-devenaj finaĵoj de substantivoj ŝanĝiĝis.
 | *limo* | **limite** | **lime** |
 | *maro* | **mari** | **mare** |
 | *mano* | **manu** | **mano** |
-| *partiklo* | **particŭla** | **particla** |
 
 Nomoj kaj terminoj konservas sian specifan *nominativan* formon.
 
 | | |
 |-|-|
-| *Juliuso* | **Iulius** |
+| *Juliuso* | **Ĭulĭus** *[iuli-us]* → **Julĭus** *[ĵuljus]* |
 | *homo* | **homo** |
 | *datumoj* | **data** |
 | *dato* | **datum** |
@@ -303,8 +302,8 @@ Kelkaj korelativoj je **-i** estas ankaŭ pronomoj.
 |-|-|-|
 | *kiu* | | **qŭi** |
 | | | |
-| *neniu* | | **noni** |
 | *ĉiu* | | **omni** |
+| *neniu* | | **noni** |
 | *iu* | *oni* | **oni** |
 | | | |
 | *jen tiu* | *ri* | **hi** |
@@ -343,36 +342,32 @@ Akuzativaj pronomoj uziĝas tuj post la infinitiva ŝajnfinaĵo **-re**. Anstata
 |-|-|-|
 | *La aŭto moviĝas.* | **La aŭto si move.** | **La aŭto moves.** |
 
-La indikativa (prezenca) verba radiko uziĝas ankaŭ por imperativoj. Adresante plurajn personojn, aldoniĝas la ŝajnfinaĵo **-n**.
+La indikativa (prezenca) verba radiko uziĝas ankaŭ por imperativoj.
 
 | | |
 |-|-|
 | **li amas.** | **li ama.** |
 | **amu!** | **ama!** |
-| | |
-| **amu! (ĉiuj vi)** | **aman!** |
 
-
-La radika formo de verbo (t.e. sen la infinitiva ŝajnfinaĵo **-re**) estas
-
-***En Poezio***, la personaj pronomoj **mi** kaj **ti** fariĝas la konjugaciaj finaĵoj **-m** kaj **-t**. Paralele, **imi** kaj **iti** (anstataŭ **ni** kaj **vi**) fariĝas la konjugaciaj finaĵoj **-ĭmi** kaj **-ĭti**.
+***En poezio***, aldoniĝas la ŝajnfinaĵo **-n** por multenombro.
 
 | | | poezie |
 |-|-|-|
-| *mi amas* | **mi ama** | **amam** |
-| *vi amas* | **ti ama** | **amat** |
+| **amu! (ĉiuj vi)** | **ama!** | **aman!** |
+
+***En Poezio***, la imperativaj formoj uziĝas por la indikativaj triaj personoj. La personaj pronomoj **mi** kaj **ti** fariĝas la konjugaciaj finaĵoj **-m** kaj **-t**. Paralele, **imi** kaj **iti** (anstataŭ samsignifaj **ni** kaj **vi**) fariĝas la konjugaciaj finaĵoj **-ĭmi** kaj **-ĭti**.
+
+| | | poezie |
+|-|-|-|
+| *li amas* | **li ama.** | **ama.** |
+| *ili amas* | **ili ama.** | **aman.** |
 | | | |
-| *ni amas* | **ni ama** | **amaĭmi** → **amamis** |
-| *vi amas* | **vi ama** | **amaĭti** → **amatis** |
+| *mi amas* | **mi ama.** | **amam.** |
+| *vi amas* | **ti ama.** | **amat.** |
+| | | |
+| *ni amas* | **ni ama.** | **amaĭmi.** → **amamis.** |
+| *vi amas* | **vi ama.** | **amaĭti.** → **amatis.** |
 
-***TODO*** imperative first
- La plurala triapersona konjugacia finaĵo estas **-n**.
-
-| | | poezie |
-|-|-|-|
-| *li amas* | **li ama** | **ama** |
-| *ili amas* | **ili ama** | **aman** |
- 
 ---
 
 ***TODO*** vide!/viden!
