@@ -348,14 +348,14 @@ La verba radiko uziĝas por imperativoj.
 
 | | |
 |-|-|
-| **li amas.** | **li ama.** |
-| **amu!** | **ama!** |
+| **li vidas** | **li vide** |
+| **vidu!** | **vide!** |
 
 ***En poezio***, aldoniĝas la ŝajnfinaĵo **-n** por multenombro.
 
 | | | poezie |
 |-|-|-|
-| *amu! (ĉiuj vi)* | **ama!** | **aman!** |
+| *vidu! (ĉiuj vi)* | **vide!** | **viden!** |
 
 #### Prezenco
 
@@ -363,14 +363,14 @@ La verba radiko uziĝas por imperativoj.
 
 | | | poezie |
 |-|-|-|
-| *li amas.* | **li ama.** | **ama.** |
-| *ili amas.* | **ili ama.** | **aman.** |
+| *li vidas* | **li vide** | **vide** |
+| *ili vidas* | **ili vide** | **viden** |
 | | | |
-| *mi amas.* | **mi ama.** | **amam.** |
-| *vi amas.* | **ti ama.** | **amat.** |
+| *mi vidas* | **mi vide** | **videm** |
+| *vi vidas* | **ti vide** | **videt** |
 | | | |
-| *ni amas.* | **ni ama.** | **amaĭmi.** → **amamis.** |
-| *vi amas.* | **vi ama.** | **amaĭti.** → **amatis.** |
+| *ni vidas* | **ni vide** | **videĭmi** → **videmis** |
+| *vi vidas* | **vi vide** | **videĭti** → **videtis** |
 
 ***En poezio***, **esse** mallongiĝas al **es** kaj **se**.
 
