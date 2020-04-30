@@ -244,8 +244,8 @@ Estas kvin ŝajnkorelativoj kun la ŝajnfinaĵoj **-al**, **-el**, **-aŭ** kaj 
 | | |
 |-|-|
 | *kia* | **qŭale** *[kuale]* → **qŭal** *[kŭal]* |
-| *kial* | **qŭare** *[kuare]* → **qŭaŭ** *[kŭaŭ]* |
 | *kiel* | **qŭäle** *[kuele]* → **qŭel** *[kŭel]* |
+| *kial* | **qŭäre** *[kuere]* → **qŭaŭ** *[kŭaŭ]* |
 | | |
 | *kiam*, *kiel* | **quam** (= **quando**) |
 | *kiom*, *-*, *ke* | **quom** (= **quanto**, **kome**, **ke**) |
@@ -279,6 +279,76 @@ La formo **nono** *(neniel)* uziĝas nur ***tra bruo*** anstataŭ la kutima form
 |-|-|-|
 | *neniel*, *ne* | **no** | **nono** |
 
+### Artikoloj
+
+La korelativo **la** uziĝas kiel difina artikolo.
+
+| | |
+|-|-|
+| *fore tiu*, *la* | **la** |
+
+### Pronomoj
+
+Pronomoj havas la finaĵon **-i**. La persona pronomo **li** estas genre neŭtra, dum **hi** uziĝas kiam la sekso ne gravas.
+
+| | |
+|-|-|
+| *mi*, *vi*, *li* | **mi**, **ti**, **li** |
+| *ŝi*, *li*, *ri* | **ali**, **oli**, **hi** |
+| *ni*, *vi*, *ili* | **ni**, **vi**, **ili** |
+
+Kelkaj korelativoj je **-i** estas ankaŭ pronomoj.
+
+| korelativo | pronomo | |
+|-|-|-|
+| *kiu* | | **qŭi** |
+| | | |
+| *neniu* | | **noni** |
+| *ĉiu* | | **omni** |
+| *iu* | *oni* | **oni** |
+| | | |
+| *jen tiu* | *ri* | **hi** |
+| *ĉi tiu* | *ĝi* | **ji** |
+| *tiu* | *vi* | **ti** |
+| *fore tiu* | *li* | **li** |
+
+La persona pronomo **li** havas multenombran formon kun la ŝajnprefikso **i-**. La persona pronomo **ji** *[ĵi]* estas specife por ne-personoj (**ji** estas "malpersona pronomo").
+
+| | |
+|-|-|
+| *li* | **li** |
+| *ili* | **ili** |
+| | |
+| *ĝi* | **ji** |
+
+Pronomoj povas fariĝi posedaj pronomoj. En multenombro, ili havas la finaĵon **-s**.
+
+| | |
+|-|-|
+| *mia amiko* | **mi amico** |
+| *miaj amikoj* | **mis amicos** |
+
+### Verboj
+
+***En Poezio***, la refleksiva pronomo **si** fariĝas la konjugacia finaĵo **-s**.
+
+| | | poezie |
+|-|-|-|
+| *La aŭto moviĝas.* | **La aŭto si move.** | **La aŭto moves.** |
+
+***En Poezio***, la personaj pronomoj **mi** kaj **ti** fariĝas la konjugaciaj finaĵoj **-m** kaj **-t**. Paralele, **imi** kaj **iti** (anstataŭ **ni** kaj **vi**) fariĝas la konjugaciaj finaĵoj **-ĭmi** kaj **-ĭti**. La plurala triapersona konjugacia finaĵo estas **-n**.
+
+| | | poezie |
+|-|-|-|
+| *mi amas* | **mi ama** | **amam** |
+| *vi amas* | **ti ama** | **amat** |
+| | | |
+| *ni amas* | **ni ama** | **amaĭmi** → **amamis** |
+| *vi amas* | **vi ama** | **amaĭti** → **amatis** |
+| | | |
+| *li amas* | **li ama** | **ama** |
+| *ili amas* | **ili ama** | **aman** |
+
 ---
 
 ***TODO*** vedermi/vidermos → vidernos, viderti/vidertos → vidervos, viderli/viderlos
@@ -289,62 +359,15 @@ La formo **nono** *(neniel)* uziĝas nur ***tra bruo*** anstataŭ la kutima form
 ***TODO*** essem/essem's, esset/esset's, esse/essen
 ***TODO*** sem/sem's, set/set's, es/sen
 
-***TODO*** differenzo inter domos grande e grande domos
+***TODO*** differenzo inter domos grande e grande domos (pli-malpli: subjektiva/objektiva)
 
 ***TODO*** e/ed, a/ad, o/od
 
-La korelativoj **la** kaj **qŭo** uziĝas kiel difina artikolo respektive kiel konjunkcio.
-
-| | |
-|-|-|
-| *fore tiu*, *la* | **la** |
-| *kiel*, *ke* | **qŭo** |
-
 ***TODO*** qŭere = kial; qŭerere = demandi (voli, ami, deziri)
 
-### Artikoloj
+***TODO*** li kaj ili (ji kaj iji?)
 
-### Pronomoj
-
-Pronomoj havas la finaĵon **-i**. La persona pronomo **hi** uziĝas por *homoj* kiam ilia sekso ne gravas.
-
-| | |
-|-|-|
-| *mi*, *vi*, *li* | **mi**, **ti**, **li** |
-| *ŝi*, *li*, *ri* | **ali**, **oli**, **hi** |
-| *ni*, *vi*, *ili* | **ni**, **vi**, **ili** |
-
-***Piĝino*** pruntas la ŝajnprefikson **i-** de la multenombra pronomoj **ili** kiel la finaĵon **-ĭ** [j] por multenombro.
-
-| | Piĝino | poezie |
-|-|-|-|
-| *amikoj* | **amicoĭ** | **amiqui** |
-
-La refleksiva pronomo estas **si**.
-
-| | | poezie |
-|-|-|-|
-| *La aŭto moviĝas.* | **La aŭto si move.** | **La aŭto moves.** |
-
-Pronomoj povas fariĝi adjektivoj por indiki posedon.
-
-| | |
-|-|-|
-| *mia nomo* | **mi nome** |
-| *miaj amikoj* | **mis amicos** |
-
-(Ŝajn-)korelativoj je **-i** estas fakte pronomoj.
-
-| | |
-|-|-|
-| *kiu* | **qŭi** |
-| *jen tiu*/*ri* | **hi** |
-| *ĉi tiu*/*ĝi* | **ji** |
-| *tiu*/*vi* | **ti** |
-| *fore tiu*/*li* | **li** |
-| *neniu* | **noni** |
-| *ĉiu* | **omni** |
-| *iu*/*oni* | **oni** |
+***TODO*** -ba, -va
 
 ***En poezio***, uziĝas konjugacio.
 
@@ -362,8 +385,6 @@ Pronomoj povas fariĝi adjektivoj por indiki posedon.
 | *vi amas* | **vi ama** | **amati** | **amates** |
 
 ***TODO*** (a) ti videm
-
-### Verboj
 
 ***TODO*** vene, amicā! venen, amicus!
 
