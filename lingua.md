@@ -140,7 +140,7 @@ Substantivoj je **-o** kaj **-e** havas vokativojn je **-u** kaj **-i**.
 | *ho amiko!* | **amicu!** |
 | | |
 | *amikino* | **amica** |
-| *ho amika!* | **amicā!** |
+| *ho amikino!* | **amicā!** |
 | | |
 | *homoj* | **gente** |
 | *ho homoj!| **genti!** |
@@ -221,21 +221,9 @@ La ŝajnsufikso por ordinaloj estas **-esĭma** *[esi-ma]* **-esma** → *[esma]
 | *100* | **cent** | **centesĭma** → **centesma** |
 | *1000* | **mill** | **millesĭma** → **millesma** |
 
----
-
-***TODO*** qŭ- [kv] -> [ku] -> qŭi [ki]
-***TODO*** quom
-***TODO*** acc sing: vidermi, viderti, viderli
-***TODO*** nom sing: videm, videt, vide
-***TODO*** acc plur: vidermos -> vidernos, vidertos -> vidervos, viderlos
-***TODO*** nom plur: videmos/videmis, videtos/videtis, viden
-***TODO*** amicā
-***TODO*** differenzo inter domos grande e grande domos
-***TODO*** e/ed, a/ad, o/od
-
 ### Korelativoj
 
-Veraj korelativoj havas verajn finaĵojn.
+Estas kvin korelativoj kun la finaĵoj **-i**, **-e**, **-a**, **-o** kaj **-u**.
 
 | | |
 |-|-|
@@ -245,34 +233,22 @@ Veraj korelativoj havas verajn finaĵojn.
 | *kie*, *kiel*, *kial*, *kiam*, *kiom* | **qŭo** |
 | *kien* | **qŭu** |
 
-Ŝajnkorelativoj havas ŝajnfinaĵon.
-
-| | |
-|-|-|
-| *kia* | **qŭal** |
-| | |
-| *kiel* | **qŭel** |
-| *kial* | **qŭer** |
-| | |
-| *kiam*, *kiel* | **quam** (= **quando**) |
-| | |
-| *kiom*, *-*, *ke* | **quom** (= **quanto**, **kome**, **ke**) |
-
-| | |
-|-|-|
-| *Kiam vi venas?* | **Quam (=quando) venit?** |
-| *Mi venas kiel amiko.* | **Venim quam amico.** |
-| *Mi vidas vin, kiam vi venas.* | **Ti videm quam (= quando) venit.** |
-| | |
-| *Kiom kostas?* | **Quom (= quanto) costa?** |
-| *Vi nomas min amiko.* | **Mi clamat quom (= come) amico.** |
-| *Mi vidas, ke vi studas.* | **Videm quom (= ke) studiat.** |
-
 ***En poezio***, korelativoj je **-a** povas havi la multenombran finaĵon **-s**.
 
 | | | poezie |
 |-|-|-|
-| *kiuj domoj* | **qŭa domos** | **qŭas domos** |
+| *fore tiuj domoj*, *la domoj* | **la domos** | **las domos** |
+
+Estas kvin ŝajnkorelativoj kun la ŝajnfinaĵoj **-al**, **-el**, **-aŭ** kaj **-am**, **-om**.
+
+| | |
+|-|-|
+| *kia* | **qŭale** *[kuale]* → **qŭal** *[kŭal]* |
+| *kial* | **qŭare** *[kuare]* → **qŭaŭ** *[kŭaŭ]* |
+| *kiel* | **qŭäle** *[kuele]* → **qŭel** *[kŭel]* |
+| | |
+| *kiam*, *kiel* | **quam** (= **quando**) |
+| *kiom*, *-*, *ke* | **quom** (= **quanto**, **kome**, **ke**) |
 
 ***En poezio***, la korelativo **qŭe** povas ricevi la posedan ŝajnfinaĵon **-s**. La korelativoj **qŭe** kaj **qŭa** povas havi la finaĵon **-u** anstataŭ la akuzativan prepozicion **a**.
 
@@ -284,24 +260,38 @@ Veraj korelativoj havas verajn finaĵojn.
 | *kion* | **a qŭe** | **qŭu** |
 | *kiun* | **a qŭa** | **qŭu** |
 
-***TODO***
-
 | | |
 |-|-|
 | *kio* | **qŭe** |
+| | |
+| *ĉio* | **omne** |
+| *nenio* | **none** |
+| *io* | **one** |
+| | |
 | *jen tio* | **he** |
 | *ĉi tio* | **je** |
 | *tio* | **te** |
 | *fore tio* | **le** |
-| *nenio* | **none** |
-| *ĉio* | **omne** |
-| *io* | **one** |
 
 La formo **nono** *(neniel)* uziĝas nur ***tra bruo*** anstataŭ la kutima formo **no**.
 
 | | | tra bruo |
 |-|-|-|
 | *neniel*, *ne* | **no** | **nono** |
+
+---
+
+***TODO*** vedermi/vidermos → vidernos, viderti/vidertos → vidervos, viderli/viderlos
+***TODO*** videm/videm's, videt/videt's, vide/viden
+***TODO*** vide!/viden!
+
+***TODO*** essere
+***TODO*** essem/essem's, esset/esset's, esse/essen
+***TODO*** sem/sem's, set/set's, es/sen
+
+***TODO*** differenzo inter domos grande e grande domos
+
+***TODO*** e/ed, a/ad, o/od
 
 La korelativoj **la** kaj **qŭo** uziĝas kiel difina artikolo respektive kiel konjunkcio.
 
@@ -371,9 +361,11 @@ Pronomoj povas fariĝi adjektivoj por indiki posedon.
 | *ni amas* | **ni ama** | **amami** | **amamos** |
 | *vi amas* | **vi ama** | **amati** | **amates** |
 
+***TODO*** (a) ti videm
+
 ### Verboj
 
-***TODO***
+***TODO*** vene, amicā! venen, amicus!
 
 * crear
 
@@ -382,6 +374,9 @@ Pronomoj povas fariĝi adjektivoj por indiki posedon.
 * have creata; creava = veni de crear
 
 * crearea
+
+***TODO*** haveta teneta videta dormita faceta amata sentita formata data stata
+
 
 
 * 

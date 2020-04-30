@@ -1,5 +1,7 @@
 # Piĝino
 
+***TODO*** qŭ- [kv] -> [ku] -> qŭi [ki]
+
 ***TODO*** Prapiĝino venas post Piĝino.
 
 > **Se ni eĉ supposos, qŭe la fina linguo de la s̈tontaĭ generatīoĭ s̈tas ne S̈peranto, en ĉia occaso la vĩo al tiu ellaborota linguo nepre devas conduqŭi tra S̈peranto.** *[Se ni eĉ supozos, ke la fina lingvo de la estontaj generacioj estas ne esperanto, en ĉia okazo la vojo al tiu ellaborota lingvo nepre devas konduki tra esperanto.]* →
