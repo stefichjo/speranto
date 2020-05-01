@@ -398,6 +398,12 @@ La verba radiko uziĝas por imperativoj.
 | *mi vidos* | **mi viderabe** → **mi videra'** |
 | *mi vidus* | **mi viderea** |
 
+| | |
+|-|-|
+| *mi estas vidanta* | **mi sta in videre** |
+| *mi estas vidinta* | **mi veni de videre** |
+| *mi estas vidonta* | **mi vade ad videre** |
+
 #### Perfekto
 
 | | |
@@ -415,26 +421,9 @@ La verba radiko uziĝas por imperativoj.
 
 ***TODO*** (a) ti videm
 
-* vade crear; creara' = vade ad crear
-* esse creanta; crea = sta in crear
-* have creata; creava = veni de crear
-
 ***TODO*** haveta teneta videta dormita faceta amata sentita formata data stata
 
-***TODO*** **h** *[ĥ]* → *[h]* trahere
-
 ---
-
-Por *futuro*, *prezenco*, *preterito* oni povas uzi la frazerojn **vade ad**, **sta in**, **veni de**.
-
-*Neolingua:* La finaĵoj por *futuro*, *prezenco*, *preterito* estas **-on**, **-an**, **-in**. Analogie, la respektivaj participaj aktivaj finaĵoj estas **-onta**, **-anta**, **-inta**. La *imperativa*/*volitiva* verba finaĵoj estas **-en**.
-
-| | Lingua | Neolingua |
-|:-|:-|:-|
-| *Mi legos. / Mi estas legonta.* | Mu **vade ad** lege. | Mu **legon**. / Mu **essan legonta**. |
-| *Mi legas. / Mi estas leganta.* | Mu **sta in** lege. | Mu **legan**. / Mu **essan leganta**. |
-| *Mi legis. / Mi estas leginta.* | Mu **veni de** lege. | Mu **legin**. / Mu **essan leginta**. | | |
-| *Legu!* | **Lege!** | **Legen!** |
 
 ***Piĝino*** pruntas la *imperativan*/*volitivan* finaĵon **-en**, origine kiel *alativan*/*dativan* finaĵon. Mallongigante al **-n**, ĝi fariĝas *alativa*/*akuzativa* finaĵo. Tial **-en** estas ŝajnmalkonstruebla al **-e** + **-n**; pro kio **-e** fariĝas *lokativa*/*instrumentala* ŝajnfinaĵo.
 
