@@ -421,32 +421,7 @@ La verba radiko uziĝas por imperativoj.
 | *la libro estas skribita de amiko* | **la libro es scripta de amico** |
 | *la libro estas skribata de amiko* | **la libro veni scripta de amico** |
 
-***TODO*** poez. sta
-
-***TODO*** e/ed, a/ad, o/od
-
-***TODO*** qŭere = kial; qŭerere = demandi (voli, ami, deziri)
-
-***TODO*** (a) ti videm
-
 ---
-
-***Piĝino*** pruntas la *imperativan*/*volitivan* finaĵon **-en**, origine kiel *alativan*/*dativan* finaĵon. Mallongigante al **-n**, ĝi fariĝas *alativa*/*akuzativa* finaĵo. Tial **-en** estas ŝajnmalkonstruebla al **-e** + **-n**; pro kio **-e** fariĝas *lokativa*/*instrumentala* ŝajnfinaĵo.
-
-| | Neolingua | Piĝino |
-|-|-|-|
-| *Laboru!* | *Laboren!* | |
-| *Al la laboro!* | | *Laboren!* |
-
-La *pasivo* estas malregulaj adjektivoj je **-t** aŭ **-s**. (Kaj **esse** *(esti)* kaj **sta** *(stari)* havas la participon **stata**.)
-
-*Neolingua:* La sufiksoj por *pasivo* estas **-ot-**, **-at-**, **-it-**.
-
-| | Lingua | Neolingua |
-|:-|:-|:-|
-| *La libro estas legota.* | La libro vade **lecta**. | La libro essan **legota**. |
-| *La libro estas legata.* | La libro sta **lecta**. | La libro essan **legata**. |
-| *La libro estas legita.* | La libro veni **lecta**. | La libro essan **legita**. |
 
 ### Prepozicioj
 
