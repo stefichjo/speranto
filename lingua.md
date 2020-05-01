@@ -395,7 +395,7 @@ La verba radiko uziĝas por imperativoj.
 |-|-|
 | *mi vidas* | **mi vide** |
 | *mi vidis* | **mi videba** → **mi videva** |
-| *mi vidos* | **mi viderabe** → **mi videra'** |
+| *mi vidos* | **mi videra'** → **mi videra'** |
 | *mi vidus* | **mi viderea** |
 
 | | |
@@ -408,20 +408,26 @@ La verba radiko uziĝas por imperativoj.
 
 | | |
 |-|-|
-| *mi estas vidinta* | **mi habe viso** → **mi have videta** |
-| *mi estis vidinta* | **mi habeba viso** → **mi haveva videta** |
-| *mi estos vidinta* | **mi haberabe viso** → **mi havera' videta** |
-| *mi estus vidinta* | **mi haberea viso** → **mi haverea videta** |
+| *mi estas skribinta* | **mi habe scripta** → **mi have scriveta** |
+| *mi estis skribinta* | **mi habeba scripta** → **mi haveva scriveta** |
+| *mi estos skribinta* | **mi habera' scripta** → **mi havera' scriveta** |
+| *mi estus skribinta* | **mi haberea scripta** → **mi haverea scriveta** |
 
----
+#### Pasivo
+
+| | |
+|-|-|
+| *skribita libro* | **libro scripta** |
+| *la libro estas skribita de amiko* | **la libro es scripta de amico** |
+| *la libro estas skribata de amiko* | **la libro veni scripta de amico** |
+
+***TODO*** poez. sta
 
 ***TODO*** e/ed, a/ad, o/od
 
 ***TODO*** qŭere = kial; qŭerere = demandi (voli, ami, deziri)
 
 ***TODO*** (a) ti videm
-
-***TODO*** haveta teneta videta dormita faceta amata sentita formata data stata
 
 ---
 
