@@ -190,6 +190,12 @@ Substantivo estas adjektivigebla pere de la ŝajnfinaĵo **-ale**. Se la ŝajnra
 | *velo* | **velo** |
 | *velara* | **velare** |
 
+Adjektivo antaŭ substantivo havas subjektivan konotacion, dum adjektivo post la substantivo havas objektivan konotacion.
+
+| | |
+|-|-|
+| *rapidaj aŭtoj* | **rapida aŭtos**, **aŭtos rapida** |
+
 ### Adverboj
 
 Adjektivoj estas adverbigeblaj pere de la ŝajnfinaĵo **-mente**.
@@ -357,7 +363,7 @@ La verba radiko uziĝas por imperativoj.
 |-|-|-|
 | *vidu! (ĉiuj vi)* | **vide!** | **viden!** |
 
-#### Prezenco
+#### Tempoj
 
 ***En poezio***, la imperativaj formoj uziĝas por la indikativaj triaj personoj. La personaj pronomoj **mi** kaj **ti** fariĝas la konjugaciaj finaĵoj **-m** kaj **-t**. Paralele, **imi** kaj **iti** (anstataŭ samsignifaj **ni** kaj **vi**) fariĝas la konjugaciaj finaĵoj **-ĭmi** kaj **-ĭti**.
 
@@ -380,27 +386,16 @@ La verba radiko uziĝas por imperativoj.
 | *vi estas* | **ti esse** | **est** |
 | | | |
 | *ni estas* | **ni esse** | **seĭmi** → **semis** |
-| *vi estas* | **vi esse** | **seĭti* → **setis** |
+| *vi estas* | **vi esse** | **seĭti** → **setis** |
 | | | |
 | *li estas* | **li esse** | **es** |
 | *ili estas* | **ili esse** | **sen** |
 
-#### Preterito
-
 | | |
 |-|-|
+| *mi vidas* | **mi vide** |
 | *mi vidis* | **mi videba** → **mi videva** |
-
-#### Futuro
-
-| | |
-|-|-|
 | *mi vidos* | **mi viderabe** → **mi videra'** |
-
-#### Kondicionalo
-
-| | |
-|-|-|
 | *mi vidus* | **mi viderea** |
 
 #### Perfekto
@@ -414,27 +409,19 @@ La verba radiko uziĝas por imperativoj.
 
 ---
 
-***TODO*** differenzo inter domos grande e grande domos (pli-malpli: subjektiva/objektiva)
-
 ***TODO*** e/ed, a/ad, o/od
 
 ***TODO*** qŭere = kial; qŭerere = demandi (voli, ami, deziri)
 
 ***TODO*** (a) ti videm
 
-* crear
-
 * vade crear; creara' = vade ad crear
 * esse creanta; crea = sta in crear
 * have creata; creava = veni de crear
 
-* crearea
-
 ***TODO*** haveta teneta videta dormita faceta amata sentita formata data stata
 
 ***TODO*** **h** *[ĥ]* → *[h]* trahere
-
-***TODO*** infinitivoj kun ne-akcentata -ere
 
 ---
 
@@ -542,6 +529,8 @@ Verboradika fino je **-b** prononciĝas *[v]*.
 | |
 |-|
 | **habere** *[habere]* → **haƀe** *[have]* |
+
+***TODO*** debere
 
 | |
 |-|
