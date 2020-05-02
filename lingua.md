@@ -68,11 +68,11 @@ Akcentata **tĭ** skribiĝas **tī** *[ci]*. ***Arkaika*** **tĕ** fariĝas **z*
 
 ### ci, gi
 
-Antaŭ **e** kaj **i**, **c** [k] kaj **g** [g] prononciĝas [c] kaj [ĝ].
+Antaŭ **e** kaj **i**, **c** [k] kaj **g** [g] prononciĝas [ĉ] kaj [ĝ].
 
 | | |
 |-|-|
-| *centro* | **centro** *[kentro → centro]* |
+| *centro* | **centro** *[kentro → ĉentro]* |
 | *ĝenerala* | **generale** *[generale → ĝenerale]* |
 
 ### s, x
@@ -204,7 +204,7 @@ Adjektivoj estas adverbigeblaj pere de la ŝajnfinaĵo **-mente**.
 |-|-|
 | *klare* | **claramente** |
 | | |
-| *facile* | **facilmente** |
+| *facile* | **facilmente** *[faĉilmente]* |
 
 ### Numeraloj
 
@@ -222,8 +222,8 @@ La ŝajnsufikso por ordinaloj estas **-esĭma** *[esi-ma]* **-esma** → *[esma]
 | *8* | **oc** | **octa** → **ocesma** |
 | *9* | **naŭ** | **naŭta** → **naŭesma** |
 | | | |
-| *10* | **dec** | **decesĭma** → **decesma** |
-| *100* | **cent** | **centesĭma** → **centesma** |
+| *10* | **dec** | **decesĭma** → **decesma** *[deĉesma]* |
+| *100* | **cent** | **centesĭma** → **centesma** *[ĉentesma]* |
 | *1000* | **mill** | **millesĭma** → **millesma** |
 
 ### Korelativoj
@@ -302,7 +302,7 @@ Pronomoj havas la finaĵon **-i**. La persona pronomo **li** estas genre neŭtra
 | *ŝi*, *li*, *ri* | **ali**, **oli**, **hi** |
 | *ni*, *vi*, *ili* | **ni**, **vi**, **ili** |
 
-Kelkaj korelativoj je **-i** estas ankaŭ pronomoj.
+Kelkaj korelativoj je **-i** estas ankaŭ personaj pronomoj.
 
 | korelativo | pronomo | |
 |-|-|-|
@@ -316,6 +316,10 @@ Kelkaj korelativoj je **-i** estas ankaŭ pronomoj.
 | *ĉi tiu* | *ĝi* | **ji** |
 | *tiu* | *vi* | **ti** |
 | *fore tiu* | *li* | **li** |
+
+***TODO*** ji = mi?
+
+***TODO*** 
 
 La persona pronomo **li** havas multenombran formon kun la ŝajnprefikso **i-**. La persona pronomo **ji** *[ĵi]* estas specife por ne-personoj (**ji** estas "malpersona pronomo").
 
