@@ -155,7 +155,7 @@ En sia *multenombra* formo, ili ricevas la finaĵon **-s**.
 Kelkaj latin-devenaj finaĵoj de substantivoj ŝanĝiĝis.
 
 | | Latina | Lingua |
-|:-|:-|:-|
+|-|-|-|
 | *nomo* | **nomine** | **nome** |
 | *limo* | **limite** | **lime** |
 | *maro* | **mari** | **mare** |
@@ -358,7 +358,7 @@ Pronomoj povas fariĝi posedaj pronomoj. En multenombro, ili havas la finaĵon *
 
 | | | poezie |
 |-|-|-|
-| *La aŭto moviĝas.* | **La aŭto si move.** | **La aŭto moves.** |
+| *la aŭto moviĝas* | **la aŭto si move** | **la aŭto moves** |
 
 Verboradika ŝajnfino je **-b** fariĝas **-v**.
 
@@ -445,7 +445,7 @@ La verba radiko uziĝas por imperativoj.
 Por alativo, lokativo, ablativo uziĝas la prepozicioj **de**, **in**, **ad**. Por dativo, instrumentalo, genitivo uziĝas la prepozicioj **di**, **en**, **al**. Pere de la prepozicio **al** formiĝas prepoziciaĵoj.
 
 | | |
-|:-|:-|
+|-|-|
 | *mi venas de la domo* | **mi veni de la domo** |
 | *mi estas ĉe/en la domo* | **mi esse in la domo** |
 | *mi iras al/ĝis la domo* | **mi vade ad la domo** |
@@ -459,9 +459,9 @@ Por alativo, lokativo, ablativo uziĝas la prepozicioj **de**, **in**, **ad**. P
 ***Tra bruo*** (kaj antaŭ nomo), la prepozicio **a** uziĝas por akuzativo.
 
 | | (tra bruo) |
-|:-|:-|
-| *mi vidas Karlan* | **mi vide a Carla.** |
-| *vin mi vidas* | **a ti mi vide.** |
+|-|-|
+| *mi vidas Karlan* | **mi vide a Carla** |
+| *vin mi vidas* | **a ti mi vide** |
 
 ### Konjunkcioj
 

@@ -145,62 +145,45 @@ La difina artikolo estas **la**. **En poezio**, ĝi mallongiĝas al **l'-** anta
 
 ### Pronomoj
 
----
+| | |
+|-|-|
+| *mi*, *vi*, *li* | **mu**, **tu**, **lu** |
+| *ŝi*, *li*, *ri* | **alu**, **olu**, **hu** |
+| *ni*, *vi*, *ili* | **nu**, **vu**, **ilu** |
 
 ### Verboj
 
 Infinitivoj finiĝas je **-i**.
 
-| |
-|-|
-| **vidi** *[=]* |
+| | |
+|-|-|
+| *vidi* | **vidi** *[=]* |
 
-La ***prapiĝina*** verba finaĵo **-n** fariĝas **-s**. Anstataŭ la ***prapiĝina*** volitiva finaĵo **-en** uziĝas **-u**. Verboj havas tempan vokalismon.
+Verboj finiĝas je **-n** kaj havas tempan vokalismon. La volitiva vokalo estas **e**.
 
 | | |
 |-|-|
-| *La viro iras dormi.* | **La viro vadan dormi.** *[=]* |
+| *mi vidas* | **mu vidan** |
+| *mi vidis* | **mu vidin** |
+| *mi vidos* | **mu vidon** |
 | | |
-| *Laboru!* | **Laboren!** → **Laboru** |
-
-***TODO***
-
-* mi vide ti.
-* mi vidan ti. / a ti mi vidan.
-* mu vidas tu.
-
-* qŭio [kio]
-* qŭo [kvo]
-* qŭe [kve]
-
-
----
-
-***Piĝino*** pruntas la imperativan finaĵon **-en** kiel celan finaĵon (por korelativoj).
-
-| Neolingua | Piĝino |
-|-|-|
-| **Laboren!** | **Labori!** → **Laboru!** |
-| **Labori!** | **Laboren!** |
-
----
+| *vidu!* | **viden!** |
 
 ### Prepozicioj
 
-***TODO***
+Prepoziciaĵoj finiĝas je **-ał** *[aŭ]*.
 
-*Lingvaismo:* La prepoziciaĵa ŝajnfinaĵo **' al** fariĝas **' ał** [aŭ].
+| | |
+| *ĉirkaŭ* | **circał** *[ĉirkaŭ]* |
+| *dank' al* | **gratĭał** *[gracjaŭ]* |
+| *anstataŭ* | **vizał** *[vicaŭ]* |
 
-| | Lingua | Neolingua | Piĝino |
-|:-|:-|:-|:-|
-| *ĉirkaŭ* | **ĉirc' ad** | **zirc' al** | **ĉirc' ał** |
-| *ĉirkaŭo* | **ĉircada** | **zircalo** | **ĉircało** |
+La akuzativa prepozicio **a** uziĝas nur ***tra bruo*** (kaj antaŭ nomoj kaj antaŭ nominativa frazparto).
 
-La akuzativa prepozicio estas **a**. ***Tra bruo***, ĝi anstataŭiĝas per la alativa prepozicio **ad**.
-
-| | | tra bruo |
-|-|-|-|
-| *domon* | **a domo** | **ad domo** |
+| | (tra bruo) |
+|-|-|
+| *mi vidas Karlan* | **mu vidan a Carla** |
+| *vin mi vidas* | **a tu mu vidan** |
 
 ### Konjunkcioj
 
