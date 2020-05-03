@@ -68,7 +68,7 @@ Akcentata **tĭ** skribiĝas **tī** *[ci]*. ***Arkaika*** **tĕ** fariĝas **z*
 
 ### ci, gi
 
-Antaŭ **e** kaj **i**, **c** [c] kaj **g** [g] prononciĝas [ĉ] kaj [ĝ].
+Antaŭ **e** kaj **i**, **c** *[c]* kaj **g** *[g]* prononciĝas *[ĉ]* kaj *[ĝ]*.
 
 | | |
 |-|-|
@@ -77,14 +77,14 @@ Antaŭ **e** kaj **i**, **c** [c] kaj **g** [g] prononciĝas [ĉ] kaj [ĝ].
 
 ### s, x
 
-**s** [s] prononciĝas [z] inter vokaloj.
+**s** *[s]* prononciĝas *[z]* inter vokaloj.
 
 | | |
 |-|-|
 | *maso* | **massa** *[massa → masa]* |
 | *rozo* | **rosa** *[rosa → roza]* |
 
-**x** [ks] prononciĝas [gz] inter vokaloj.
+**x** *[ks]* prononciĝas *[gz]* inter vokaloj.
 
 | | |
 |-|-|
@@ -246,11 +246,16 @@ Estas kvin korelativoj kun la finaĵoj **-i**, **-e**, **-a**, **-o** kaj **-u**
 | *kie*, *kiel*, *kial*, *kiam*, *kiom* | **qŭo** |
 | *kien* | **qŭu** |
 
-Korelativoj je **-e** ricevas la multenombran finaĵon **-s**. ***En poezio***, ankaŭ korelativoj je **-a** ricevas la multenombran finaĵon **-s**.
+Korelativoj je **-e** ricevas la multenombran finaĵon **-s**.
+
+| | |
+|-|-|
+| *fore tiuj aĵoj*, *ili* | **les** |
+
+***En poezio***, ankaŭ korelativoj je **-a** ricevas la multenombran finaĵon **-s**.
 
 | | | poezie |
 |-|-|-|
-| *fore tiuj aĵoj*, *ili* | **les** | |
 | *fore tiuj domoj*, *la domoj* | **la domos** | **las domos** |
 
 Estas kvin ŝajnkorelativoj kun la ŝajnfinaĵoj **-al**, **-el**, **-er** kaj **-am**, **-om**.
