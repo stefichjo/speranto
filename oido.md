@@ -176,3 +176,14 @@ La ***prapiĝina*** verba finaĵo **-n** fariĝas **-s**. Anstataŭ la ***prapi�
 ---
 
 ### Prepozicioj
+
+***TODO***
+
+*Lingvaismo:* La prepoziciaĵa ŝajnfinaĵo **' al** fariĝas **' ał** [aŭ].
+
+| | Lingua | Neolingua | Piĝino |
+|:-|:-|:-|:-|
+| *ĉirkaŭ* | **ĉirc' ad** | **zirc' al** | **ĉirc' ał** |
+| *ĉirkaŭo* | **ĉircada** | **zircalo** | **ĉircało** |
+
+

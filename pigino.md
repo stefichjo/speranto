@@ -448,3 +448,29 @@ En ***hispan-akĉenta Piĝino***, prononciĝas *[ĥ]* anstataŭ *[ĵ]*/*[ĝ]*, d
 ### Verboj
 
 ### Prepozicioj
+
+***TODO***
+
+***TODO***
+
+*Lingvaismo:* La *cela* finaĵo **-en** mallongiĝas al **-n** kaj fariĝas finaĵo por *akuzativo*. *Tra bruo*, uziĝas anstataŭe la (neologisma) *akuzativa* prepozicio **a**.
+
+| | Piĝino |
+|:-|:-|
+| *Mi vidas domon.* | **Mi vidas domon.** ← **Mi vidas a domo.** |
+
+***TODO***
+
+*Jazikismo:* (neologisma) **na**
+
+| | Piĝino |
+|:-|:-|
+| *ludi la gitaron* | **ludi la gitarron** ← **ludi na la gitarro** |
+
+*Tra bruo*, uziĝas **a** aŭ, anstataŭe, **na**.
+
+| | Piĝino |
+|:-|:-|
+| *Mi vidas vin.* | **Mi vidas a vi.** ← **Mi vidas na vi.** |
+
+

@@ -1,6 +1,6 @@
 # Lingvao
 
-***Lingvao*** baziĝas sur la ***Latina*** kaj la [***Internaciaj Ortografioj***](latinidaj/README.md) de la ***Latinidaj Lingvoj***. ***Lingvao*** unuiĝas trajtojn de [***Interlingvao***](https://eo.wikipedia.org/wiki/Interlingvao) kaj [***Gloso***](https://eo.wikipedia.org/wiki/Gloso_(planlingvo)). El ***Lingvao*** pruntas [***Piĝino***](pighino.md).
+***Lingvao*** baziĝas sur la ***Latina*** kaj la [***Internaciaj Ortografioj***](latinidaj/README.md) de la ***Latinidaj Lingvoj***. ***Lingvao*** unuiĝas trajtojn de [***Interlingvao***](https://eo.wikipedia.org/wiki/Interlingvao) kaj [***Gloso***](https://eo.wikipedia.org/wiki/Gloso_(planlingvo)). El ***Lingvao*** pruntas [***Ojdo***](oido.md) kaj [***Piĝino***](pigino.md).
 
 ***Arkaika Lingvao*** havas arkaikan prononcon, 
 
@@ -161,11 +161,11 @@ Kelkaj latin-devenaj finaĵoj de substantivoj ŝanĝiĝis.
 | *maro* | **mari** | **mare** |
 | *mano* | **manu** | **mano** |
 
-Nomoj kaj terminoj konservas sian specifan *nominativan* formon.
+Nomoj kaj terminoj konservas sian specifan *nominativan* formon. Por personaj nomoj, uziĝas **-o** anstataŭ **-us**.
 
 | | |
 |-|-|
-| *Juliuso* | **Ĭulĭus** *[iuli-us]* → **Julĭus** *[ĵuljus]* |
+| *Juliuso* | **Ĭulĭus** *[iuli-us]* → **Julĭo** *[ĵuljo]* |
 | *homo* | **homo** |
 | *datumoj* | **data** |
 | *dato* | **datum** |
@@ -252,13 +252,13 @@ Korelativoj je **-e** ricevas la multenombran finaĵon **-s**. ***En poezio***, 
 | *fore tiuj aĵoj*, *ili* | **les** | |
 | *fore tiuj domoj*, *la domoj* | **la domos** | **las domos** |
 
-Estas kvin ŝajnkorelativoj kun la ŝajnfinaĵoj **-al**, **-el**, **-aŭ** kaj **-am**, **-om**.
+Estas kvin ŝajnkorelativoj kun la ŝajnfinaĵoj **-al**, **-el**, **-er** kaj **-am**, **-om**.
 
 | | |
 |-|-|
 | *kia* | **qŭale** *[kuale]* → **qŭal** *[kŭal]* |
 | *kiel* | **qŭäle** *[kuele]* → **qŭel** *[kŭel]* |
-| *kial* | **qŭäre** *[kuere]* → **qŭaŭ** *[kŭaŭ]* |
+| *kial* | **qŭäre** *[kuere]* → **qŭer** *[kŭer]* |
 | | |
 | *kiam*, *kiel* | **quam** (= **quando**) |
 | *kiom*, *-*, *ke* | **quom** (= **quanto**, **kome**, **ke**) |
@@ -455,55 +455,10 @@ Por alativo, lokativo, ablativo uziĝas la prepozicioj **ad**, **in**, **de**. P
 | | |
 | *mi iras ĉirkaŭ la domo* | **mi vade circ' al (← circ' ad) la domo** |
 
----
+***Tra bruo*** (kaj antaŭ nomo), la prepozicio **a** uziĝas por akuzativo.
 
-La prepozicio **a** uziĝas por *akuzativo* *antaŭ nomo* / *tra bruo*.
-
-| | Lingua | (antaŭ nomo) / (tra bruo) |
-|:-|:-|:-|
-| *Mi vidas Karlan.* | | Mu vide ***a*** Carla. |
-| *Mi vidas vin.* | Mu vide tu. | Mu vide ***a*** tu. |
-
-***TODO***
-
-*Lingvaismo:* La *cela* finaĵo **-en** mallongiĝas al **-n** kaj fariĝas finaĵo por *akuzativo*. *Tra bruo*, uziĝas anstataŭe la (neologisma) *akuzativa* prepozicio **a**.
-
-| | Piĝino |
+| | (tra bruo) |
 |:-|:-|
-| *Mi vidas domon.* | **Mi vidas domon.** ← **Mi vidas a domo.** |
-
-***TODO***
-
-*Jazikismo:* (neologisma) **na**
-
-| | Piĝino |
-|:-|:-|
-| *ludi la gitaron* | **ludi la gitarron** ← **ludi na la gitarro** |
-
-*Tra bruo*, uziĝas **a** aŭ, anstataŭe, **na**.
-
-| | Piĝino |
-|:-|:-|
-| *Mi vidas vin.* | **Mi vidas a vi.** ← **Mi vidas na vi.** |
-
-*Lingvaismo:* La lokaj prepozicioj **ad**, **in**, **de** kaj la ne-lokaj prepozicioj **al**, **en**, **di** el ***Neolingua*** unuiĝas al **al**, **en**, **de** en ***Piĝino***.
-
-| | Neolingua | Piĝino |
-|:-|:-|:-|
-| *al*, *en*, *de* | **ad**/**al**, **in**/**en**, **de**/**di** | **al**, **en**, **de** |
-
-*Lingvaismo:* La prepoziciaĵa ŝajnfinaĵo **' al** fariĝas **' ał** [aŭ].
-
-| | Lingua | Neolingua | Piĝino |
-|:-|:-|:-|:-|
-| *ĉirkaŭ* | **ĉirc' ad** | **zirc' al** | **ĉirc' ał** |
-| *ĉirkaŭo* | **ĉircada** | **zircalo** | **ĉircało** |
-
-Nomoj finiĝas je **-o** por vir-genro kaj **-a** por in-genro.
-
-| Argelingua | Lingua |
-|-|-|
-| **Petrus** *[=]* | **Petro** *[=]* |
-| **Petra** *[=]* | **Petra** *[=]* |
-
+| *Mi vidas Karlan.* | **mi vide a Carla.** |
+| *Vin mi vidas.* | **a ti mi vide.** |
 
