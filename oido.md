@@ -171,13 +171,13 @@ Verboj finiĝas je **-n** kaj havas tempan vokalismon. La volitiva vokalo estas 
 
 ### Prepozicioj
 
-Prepoziciaĵoj finiĝas je **-ał** *[aŭ]*.
+Prepoziciaĵoj finiĝas je **-ał** → **-aŭ**.
 
 | | |
 |-|-|
-| *ĉirkaŭ* | **circał** *[ĉirkaŭ]* |
-| *dank' al* | **gratĭał** *[gracjaŭ]* |
-| *anstataŭ* | **vizał** *[vicaŭ]* |
+| *ĉirkaŭ* | **circał** → **circaŭ** *[ĉirkaŭ]* |
+| *dank' al* | **gratĭał** → **gratĭaŭ** *[gracjaŭ]* |
+| *anstataŭ* | **vizał** → **vizaŭ** *[vicaŭ]* |
 
 La akuzativa prepozicio **a** uziĝas nur ***tra bruo*** (kaj antaŭ nomoj kaj antaŭ nominativa frazparto).
 
