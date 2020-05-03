@@ -441,24 +441,24 @@ La verba radiko uziĝas por imperativoj.
 
 ### Prepozicioj
 
-Por alativo, lokativo, ablativo uziĝas la prepozicioj **ad**, **in**, **de**. Por dativo, instrumentalo, genitivo uziĝas la prepozicioj **al**, **en**, **di**. Pere de la prepozicio **al** formiĝas prepoziciaĵoj.
+Por alativo, lokativo, ablativo uziĝas la prepozicioj **de**, **in**, **ad**. Por dativo, instrumentalo, genitivo uziĝas la prepozicioj **di**, **en**, **al**. Pere de la prepozicio **al** formiĝas prepoziciaĵoj.
 
 | | |
 |:-|:-|
-| *mi iras al/ĝis la domo* | **mi vade ad la domo** |
-| *mi estas ĉe/en la domo* | **mi esse in la domo** |
 | *mi venas de la domo* | **mi veni de la domo** |
+| *mi estas ĉe/en la domo* | **mi esse in la domo** |
+| *mi iras al/ĝis la domo* | **mi vade ad la domo** |
 | | |
-| *mi parolas al amiko* | **mi parola al (← ad) amico** |
+| *mi legas libron de amiko* | **mi lege libro di (← de) amico** |
 | *mi venas per biciklo* | **mi veni en (← in) bicyclo** |
-| *mi legas libron de amiko* | **mi lege libro di (← di) amico** |
+| *mi parolas al amiko* | **mi parola al (← ad) amico** |
 | | |
-| *mi iras ĉirkaŭ la domo* | **mi vade circ' al (← circ' ad) la domo** |
+| *mi iras ĉirkaŭ la domo* | **mi vade circ' al (← ad) la domo** |
 
 ***Tra bruo*** (kaj antaŭ nomo), la prepozicio **a** uziĝas por akuzativo.
 
 | | (tra bruo) |
 |:-|:-|
-| *Mi vidas Karlan.* | **mi vide a Carla.** |
-| *Vin mi vidas.* | **a ti mi vide.** |
+| *mi vidas Karlan* | **mi vide a Carla.** |
+| *vin mi vidas* | **a ti mi vide.** |
 
