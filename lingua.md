@@ -238,10 +238,11 @@ Estas kvin korelativoj kun la finaĵoj **-i**, **-e**, **-a**, **-o** kaj **-u**
 | *kie*, *kiel*, *kial*, *kiam*, *kiom* | **qŭo** |
 | *kien* | **qŭu** |
 
-***En poezio***, korelativoj je **-a** havas la multenombran finaĵon **-s**.
+Korelativoj je **-e** ricevas la multenombran finaĵon **-s**. ***En poezio***, ankaŭ korelativoj je **-a** ricevas la multenombran finaĵon **-s**.
 
 | | | poezie |
 |-|-|-|
+| *fore tiuj aĵoj*, *ili* | **les** | |
 | *fore tiuj domoj*, *la domoj* | **la domos** | **las domos** |
 
 Estas kvin ŝajnkorelativoj kun la ŝajnfinaĵoj **-al**, **-el**, **-aŭ** kaj **-am**, **-om**.
@@ -255,12 +256,10 @@ Estas kvin ŝajnkorelativoj kun la ŝajnfinaĵoj **-al**, **-el**, **-aŭ** kaj 
 | *kiam*, *kiel* | **quam** (= **quando**) |
 | *kiom*, *-*, *ke* | **quom** (= **quanto**, **kome**, **ke**) |
 
-***En poezio***, la korelativo **qŭe** ricevas la posedan ŝajnfinaĵon **-s**. La korelativoj **qŭe** kaj **qŭa** ricevas la finaĵon **-u** anstataŭ la akuzativan prepozicion **a**.
+***En poezio***, la korelativoj **qŭe** kaj **qŭa** ricevas la finaĵon **-u** anstataŭ la akuzativan prepozicion **a**.
 
 | | | poezie |
 |-|-|-|
-| *kies* | **de qŭe** | **qŭes** |
-| *kies* | **de qŭa** | **qŭes** |
 | | | |
 | *kion* | **a qŭe** | **qŭu** |
 | *kiun* | **a qŭa** | **qŭu** |
@@ -284,6 +283,14 @@ La formo **nono** *(neniel)* uziĝas nur ***tra bruo*** anstataŭ la kutima form
 |-|-|-|
 | *neniel*, *ne* | **no** | **nono** |
 
+***En poezio***, uziĝas **-le** anstataŭ **he**, **je** kaj **te**.
+
+| | | poezie |
+|-|-|-|
+| *vidi jen tion* | **videre he** | **viderle** |
+| *vidi ĉi tion* | **videre je** | **viderle** |
+| *vidi tion* | **videre te** | **viderle** |
+
 ### Artikoloj
 
 La korelativo **la** uziĝas kiel difina artikolo.
@@ -294,7 +301,7 @@ La korelativo **la** uziĝas kiel difina artikolo.
 
 ### Pronomoj
 
-Pronomoj havas la finaĵon **-i**. La persona pronomo **li** estas genre neŭtra, dum **hi** uziĝas kiam la sekso ne gravas.
+Pronomoj havas la finaĵon **-i**. La persona pronomo **li** estas genre neŭtra, dum **hi** uziĝas kiam la sekso ne gravas. Anstataŭ **mis**, **tis**, **lis** uziĝas **ni**, **vi**, **ili**.
 
 | | |
 |-|-|
@@ -317,18 +324,18 @@ Kelkaj korelativoj je **-i** estas ankaŭ personaj pronomoj.
 | *tiu* | *vi* | **ti** |
 | *fore tiu* | *li* | **li** |
 
-***TODO*** ji = mi?
+***En poezio***, uziĝas **-li** anstataŭ **ali**, **oli**, **hi** kaj **ji**. Uziĝas **-lis** anstataŭ **ili**.
 
-***TODO*** 
-
-La persona pronomo **li** havas multenombran formon kun la ŝajnprefikso **i-**. La persona pronomo **ji** *[ĵi]* estas specife por ne-personoj (**ji** estas "malpersona pronomo").
-
-| | |
-|-|-|
-| *li* | **li** |
-| *ili* | **ili** |
-| | |
-| *ĝi* | **ji** |
+| | | poezie |
+|-|-|-|
+| *vidi lin* | **videre li** | **viderli** |
+| | | |
+| *vidi ŝin* | **videre ali** | **viderli** |
+| *vidi lin* | **videre oli** | **viderli** |
+| *vidi rin* | **videre hi** | **viderli** |
+| *vidi ĝin* | **videre ji** | **viderli** |
+| | | |
+| *vidi ilin* | **videre ili** | **viderlis** |
 
 Pronomoj povas fariĝi posedaj pronomoj. En multenombro, ili havas la finaĵon **-s**.
 
@@ -336,13 +343,6 @@ Pronomoj povas fariĝi posedaj pronomoj. En multenombro, ili havas la finaĵon *
 |-|-|
 | *mia amiko* | **mi amico** |
 | *miaj amikoj* | **mis amicos** |
-
-Akuzativaj pronomoj uziĝas tuj post la infinitiva ŝajnfinaĵo **-re**. Anstataŭ **-ili** tiam uziĝas **-lis**.
-
-| | |
-|-|-|
-| *vidi vin* | **videre a ti** → **viderti** |
-| *vidi ilin* | **videre a ili** → **viderlis** |
 
 ### Verboj
 
