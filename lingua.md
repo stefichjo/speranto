@@ -211,6 +211,7 @@ Adjektivoj estas adverbigeblaj pere de la ŝajnfinaĵo **-mente**.
 | | | poezie |
 |-|-|-|
 | *klare* | **claramente** | **claro** |
+| *tre* | **multamente** | **multo** |
 | *nur* | **solamente** | **solo** |
 
 ### Numeraloj
@@ -461,4 +462,6 @@ Por alativo, lokativo, ablativo uziĝas la prepozicioj **de**, **in**, **ad**. P
 |:-|:-|
 | *mi vidas Karlan* | **mi vide a Carla.** |
 | *vin mi vidas* | **a ti mi vide.** |
+
+### Konjunkcioj
 

@@ -473,4 +473,5 @@ En ***hispan-akĉenta Piĝino***, prononciĝas *[ĥ]* anstataŭ *[ĵ]*/*[ĝ]*, d
 |:-|:-|
 | *Mi vidas vin.* | **Mi vidas a vi.** ← **Mi vidas na vi.** |
 
+### Konjunkcioj
 

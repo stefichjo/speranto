@@ -7,7 +7,7 @@
 | | Praoido → Oido |
 |-|-|
 | *lingvo* | **lingŭe** *[lingve]* → **lingŭo** *[lingvo]* |
-| *lingvo* | **multo** *[multo]* → **multe** *[multe]* |
+| *multe* | **multo** *[multo]* → **multe** *[multe]* |
 
 ## Prononco
 
@@ -74,17 +74,17 @@ La ŝajnfinaĵo **-ĭone** *[jone]* mallongiĝas al **-ĭo** *[jo]*.
 
 ## Gramatiko
 
-***Prapiĝino*** pruntas la korelativajn finaĵojn **-i**, **-e**, **-a**, **-o** kaj **-u** el ***Lingua*** kiel vortspecajn finaĵojn. ***Prapiĝinaj*** **-o** kaj **-u** fariĝas **-e** kaj **-i**, kaj inverse.
+***Arkaike Ojdaj*** **-o** kaj **-u** fariĝas **-e** kaj **-i**, kaj inverse.
 
 | | Lingua | Piĝino |
 |-|-|-|
-| *vi* | **ti** | **ti** → **tu** |
-| *terra* | **terra** | **terre** → **terro** |
-| *granda* | **grande** | **granda** |
-| *ne* | **no** | **no** → **ne** |
-| *laboren!* | **ad labora!** | **laboru!** → **labori!** |
-| *havi* | **have** | **havu** → **havi** |
-| *tien* | **tu** | **tu** → **ti** |
+| *vi* | **ti** → **tu** |
+| *tero* | **terre** → **terro** |
+| *granda* | **granda** |
+| *ne* | **no** → **ne** |
+| *laboren!* | **laboru!** → **labori!** |
+| *havi* | **havu** → **havi** |
+| *tien* | **tu** → **ti** |
 
 ### Substantivoj
 
@@ -95,13 +95,13 @@ Substantivoj finiĝas je **-o**. ***En poezio***, la substantiva finaĵo estas e
 | *domo* | **domo** | **dom'** |
 | *domoj* | **domos** | **domi** |
 
-La akuzativa prepozicio estas **a**. ***Tra bruo***, ĝi anstataŭiĝas per la alativa prepozicio **ad**.
-
-| | | tra bruo |
-|-|-|-|
-| *domon* | **a domo** | **ad domo** |
-
 ### Adjektivoj
+
+Adjektivoj finiĝas je **-a**.
+
+| | |
+|-|-|
+| *bona* | **bona** *[=]* |
 
 ### Adverboj
 
@@ -109,34 +109,19 @@ Adverboj finiĝas je **-e**.
 
 | | |
 |-|-|
-| *multe* | **multe** |
-| *hodiaŭ* | **hodie** *[=]* |
+| *multe* | **multe** *[=]* |
+| *hodiaŭ* | **hodĭe** *[hodje]* |
+
+Celaj adverboj finiĝas je **-i**.
 
 | | |
 |-|-|
+| *hejme* | **dome** |
 | *hejmen* | **domi** |
 
-***TODO***
-
--en -u
--an -as (oui)
--as -ijas (oui)
--u -en
--u -i
--i -u
-
-* nu, tu, vu
-* quo kio
-
-Por esprimi celon uziĝas la ŝajnfinaĵo **-i**.
-
-| | Lingua | Neolingua |
-|:-|:-|:-|
-| *tre forta* | multa forte | **multe** forta |
-| *Mi estas hejme.* | Mu esse in domo. | Mu esse **dome**. |
-| *Mi iras hejmen.* | Mu vade ad domo. | Mu vade **domi**. |
-
 ### Numeraloj
+
+Vd. [numeraloj en ***Lingvao***](lingua.md#numeraloj).
 
 ### Korelativoj
 
@@ -144,21 +129,23 @@ Korelativaj radikoj kombineblas kun sufiksoj.
 
 | | |
 |-|-|
-| *kio* | **qŭe** *[kve]* → **qŭo** *[kvo]* = **qŭajo** *[kvaĵo]* |
-| *kiu* | **qŭi** *[kvi]* → **qŭu** *[kvu]* = **qŭulo** *[kvulo]* |
-| *kia* | **qŭa** *[kva]* → **qŭessa** *[kvesa]* |
-| *kies* | **qŭes** *[kves]* → **qŭos** *[kvos]* = **qŭesĭma** *[kvesma]* |
+| *kio* | **qŭo** *[kŭo]* = **qŭajo** *[kŭaĵo]* |
+| *kiu* | **qŭu** *[kŭu]* = **qŭulo** *[kvulo]* |
+| *kia* | **qŭa** *[kŭa]* = **qŭessa** *[kŭesa]* |
+| *kies* | **qŭesma** *[kŭesma]* |
 
 ### Artikoloj
 
 La difina artikolo estas **la**. **En poezio**, ĝi mallongiĝas al **l'-** antaŭ vokalokomenca vorto respektive al **-l** post vokalofina prepozicio.
 
-| | poezie |
-|-|-|
-| **por la amo** | **por l'amo** |
-| **de la amo** | **del amo** |
+| | | poezie |
+|-|-|-|
+| *por la amo* | **por la amo** | **por l'amo** |
+| *de la amo* | **de la amo** | **del amo** |
 
 ### Pronomoj
+
+---
 
 ### Verboj
 
@@ -209,4 +196,11 @@ La ***prapiĝina*** verba finaĵo **-n** fariĝas **-s**. Anstataŭ la ***prapi�
 | *ĉirkaŭ* | **ĉirc' ad** | **zirc' al** | **ĉirc' ał** |
 | *ĉirkaŭo* | **ĉircada** | **zircalo** | **ĉircało** |
 
+La akuzativa prepozicio estas **a**. ***Tra bruo***, ĝi anstataŭiĝas per la alativa prepozicio **ad**.
+
+| | | tra bruo |
+|-|-|-|
+| *domon* | **a domo** | **ad domo** |
+
+### Konjunkcioj
 
