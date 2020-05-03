@@ -171,7 +171,7 @@ Verboj finiĝas je **-n** kaj havas tempan vokalismon. La volitiva vokalo estas 
 
 ### Prepozicioj
 
-Prepoziciaĵoj finiĝas je **-ał** → **-aŭ**.
+Prepoziciaĵoj finiĝas je **-aŭ**.
 
 | | |
 |-|-|
