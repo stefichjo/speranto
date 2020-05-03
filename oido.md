@@ -174,6 +174,7 @@ Verboj finiĝas je **-n** kaj havas tempan vokalismon. La volitiva vokalo estas 
 Prepoziciaĵoj finiĝas je **-ał** *[aŭ]*.
 
 | | |
+|-|-|
 | *ĉirkaŭ* | **circał** *[ĉirkaŭ]* |
 | *dank' al* | **gratĭał** *[gracjaŭ]* |
 | *anstataŭ* | **vizał** *[vicaŭ]* |
