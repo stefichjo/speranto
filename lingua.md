@@ -68,11 +68,11 @@ Akcentata **tĭ** skribiĝas **tī** *[ci]*. ***Arkaika*** **tĕ** fariĝas **z*
 
 ### ci, gi
 
-Antaŭ **e** kaj **i**, **c** [k] kaj **g** [g] prononciĝas [ĉ] kaj [ĝ].
+Antaŭ **e** kaj **i**, **c** [c] kaj **g** [g] prononciĝas [ĉ] kaj [ĝ].
 
 | | |
 |-|-|
-| *centro* | **centro** *[kentro → ĉentro]* |
+| *centro* | **centro** *[centro → ĉentro]* |
 | *ĝenerala* | **generale** *[generale → ĝenerale]* |
 
 ### s, x
@@ -389,7 +389,7 @@ La verba radiko uziĝas por imperativoj.
 | *ni vidas* | **ni vide** | **videĭmi** → **videmis** |
 | *vi vidas* | **vi vide** | **videĭti** → **videtis** |
 
-***En poezio***, **esse** mallongiĝas al **es** kaj **se**.
+***En poezio***, **esse** mallongiĝas al **es** en ununombro kaj **se** en multenombro.
 
 | | | poezie |
 |-|-|-|
@@ -434,15 +434,21 @@ La verba radiko uziĝas por imperativoj.
 
 ### Prepozicioj
 
+Por alativo, lokativo, ablativo uziĝas la prepozicioj **ad**, **in**, **de**. Por dativo, instrumentalo, genitivo uziĝas la prepozicioj **al**, **en**, **di**. Pere de la prepozicio **al** formiĝas prepoziciaĵoj.
+
+| | |
+|:-|:-|
+| *mi iras al/ĝis la domo* | **mi vade ad la domo** |
+| *mi estas ĉe/en la domo* | **mi esse in la domo** |
+| *mi venas de la domo* | **mi veni de la domo** |
+| | |
+| *mi parolas al amiko* | **mi parola al (← ad) amico** |
+| *mi venas per biciklo* | **mi veni en (← in) bicyclo** |
+| *mi legas libron de amiko* | **mi lege libro di (← di) amico** |
+| | |
+| *mi iras ĉirkaŭ la domo* | **mi vade circ' al (← circ' ad) la domo** |
+
 ---
-
-Per **de** oni povas indiki la *aganton* en *pasivo*.
-
-*Neolingua:* En *pasivo*, la prepozicio **de** fariĝas **da**.
-
-| | Lingua | Neolingua |
-|:-|:-|:-|
-| *(La libro estas legata de amiko.)* | La libro sta lecta **de** amico. | La libro essan legata **da** amico. |
 
 La prepozicio **a** uziĝas por *akuzativo* *antaŭ nomo* / *tra bruo*.
 
@@ -458,25 +464,6 @@ La prepozicio **a** uziĝas por *akuzativo* *antaŭ nomo* / *tra bruo*.
 | | Piĝino |
 |:-|:-|
 | *Mi vidas domon.* | **Mi vidas domon.** ← **Mi vidas a domo.** |
-
-Por *alativo*, *lokativo*, *ablativo* uziĝas la prepozicioj **ad**, **in**, **de**. Pere de la prepozicio **ad** formiĝas *prepoziciaĵoj*.
-
-| | |
-|:-|:-|
-| *Mi iras al/ĝis la domo.* | Mu vade **ad** la domo. |
-| *Mi estas ĉe/en la domo.* | Mu esse **in** la domo. |
-| *Mi venas de la domo.* | Mu veni **de** la domo. |
-| *Mi iras ĉirkaŭ la domo.* | Mu vade **circ' ad** la domo. |
-
-Ankaŭ por *dativo*, *instrumentalo*, *genitivo* uziĝas la prepozicioj **ad**, **in**, **de**.
-
-*Neolingua:* Por *dativo*, *instrumentalo*, *genitivo* uziĝas la prepozicioj **al**, **en**, **di**.
-
-| | Lingua | Neolingua |
-|:-|:-|:-|
-| *Mi parolas al amiko.* | Mu parola **ad** amico. | Mu parolan **al** amico. |
-| *Mi venas per biciklo.* | Mu veni **in** bicyclo. | Mu venan **en** biziclo. |
-| *Mi havas libron de amiko.* | Mu have libro **de** amico. | Mu havan libro **di** amico. |
 
 ***TODO***
 
