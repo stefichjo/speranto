@@ -359,6 +359,13 @@ Pronomoj povas fariĝi posedaj pronomoj. En multenombro, ili havas la finaĵon *
 |-|-|-|
 | *La aŭto moviĝas.* | **La aŭto si move.** | **La aŭto moves.** |
 
+Verboradika ŝajnfino je **-b** fariĝas **-v**.
+
+| | |
+|-|-|
+| *havi* | **habere** → **havere** |
+| *skribi* | **scribere** → **scrivere** |
+
 #### Imperativo
 
 La verba radiko uziĝas por imperativoj.
@@ -491,18 +498,6 @@ La prepozicio **a** uziĝas por *akuzativo* *antaŭ nomo* / *tra bruo*.
 |:-|:-|:-|:-|
 | *ĉirkaŭ* | **ĉirc' ad** | **zirc' al** | **ĉirc' ał** |
 | *ĉirkaŭo* | **ĉircada** | **zircalo** | **ĉircało** |
-
-Verboradika fino je **-b** prononciĝas *[v]*.
-
-| |
-|-|
-| **habere** *[habere]* → **haƀere** *[havere]* |
-
-***TODO*** debere
-
-| |
-|-|
-| **scribere** *[skribere]* → **scriƀere** *[skrivere]* |
 
 Nomoj finiĝas je **-o** por vir-genro kaj **-a** por in-genro.
 
