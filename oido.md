@@ -1,10 +1,12 @@
 # Ojdo
 
-***TODO*** Ojdo/Oido, Lingvao/Lingua, Adĵuvilo/Adjuvilo + nomo de dossieroi
-
 ***Piĝino*** unuiĝas trajtojn de [***Okcidentalo***](https://eo.wikipedia.org/wiki/Okcidentalo), [***Adjuvilo***](https://eo.wikipedia.org/wiki/Adjuvilo) kaj [***Ido***](https://eo.wikipedia.org/wiki/Ido_(lingvo)).
 
-***TODO*** vortkomenca **z** *[dz]* ?
+***Arkaika Ojdo*** havas arkaikajn finaĵojn.
+
+| | Praoido → Oido |
+|-|-|
+| *lingvo* | **lingue** *[lingve]* → **linguo** *[lingvo]* |
 
 ## Prononco
 
@@ -12,9 +14,11 @@
 
 ***TODO*** jen estas Piĝino
 
-Post konsonanto, radikofina **ĭ** *[j]* fariĝas **i** *[=]*, sed radikofina **tĭ** fariĝas **z** *[c]* respektive radikofina **stĭ** fariĝas **st** *[=]*. La ŝajnfinaĵo **-ĭone** ĉiam fariĝas **-īo** *[io]*.
+***TODO*** vortkomenca **z** *[dz]* ?
 
 ***TODO*** generale, **i** *[j]* ant'al vocalo relongijas. natione, potenciale, graciosa
+
+Post konsonanto, radikofina **ĭ** *[j]* fariĝas **i** *[=]*, sed radikofina **tĭ** fariĝas **z** *[c]* respektive radikofina **stĭ** fariĝas **st** *[=]*. La ŝajnfinaĵo **-ĭone** ĉiam fariĝas **-īo** *[io]*.
 
 | |
 |-|
