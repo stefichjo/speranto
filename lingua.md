@@ -428,9 +428,9 @@ La verba radiko uziĝas por imperativoj.
 
 | | |
 |-|-|
-| *skribita libro* | **libro scripta** |
-| *la libro estas skribita de amiko* | **la libro es scripta de amico** |
-| *la libro estas skribata de amiko* | **la libro veni scripta de amico** |
+| *skribita libro* | **libro scriveta (← scripta)** |
+| *la libro estas skribita de amiko* | **la libro esse scriveta (← scripta) de amico** |
+| *la libro estas skribata de amiko* | **la libro veni scriveta (← scripta) de amico** |
 
 ### Prepozicioj
 
@@ -509,13 +509,13 @@ Verboradika fino je **-b** prononciĝas *[v]*.
 
 | |
 |-|
-| **habere** *[habere]* → **haƀe** *[have]* |
+| **habere** *[habere]* → **haƀere** *[havere]* |
 
 ***TODO*** debere
 
 | |
 |-|
-| **scribere** *[skribere]* → **scriƀe** *[skrive]* |
+| **scribere** *[skribere]* → **scriƀere** *[skrivere]* |
 
 Nomoj finiĝas je **-o** por vir-genro kaj **-a** por in-genro.
 
