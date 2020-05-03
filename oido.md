@@ -45,15 +45,32 @@ La ŝajnfinaĵo **-ĭone** *[jone]* mallongiĝas al **-ĭo** *[jo]*.
 
 ### ci, gi
 
----
-
-| |
-|-|
-| **nostalgĭe** *[nostalgje]* → **nostalgīo** *[nostalĝio]* |
+| | |
+|-|-|
+| *centro* | **centro** *[ĉentro]* |
+| *ĝenerala* | **generala** *[ĝenerala]* |
+| | |
+| *nostalgio* | **nostalgīo** *[nostalĝio]* |
 
 ### s, x
 
-### r, l
+| | |
+|-|-|
+| *maso* | **masso** *[maso]* |
+| *rozo* | **roso** *[rozo]* |
+| | |
+| *ekzemplo* | **exemplo** *[egzemplo]* |
+| *fiksi* | **fixi** *[fiksi]* |
+
+### Grekaj Vortoj
+
+| | |
+|-|-|
+| *fazo* | **phaso** *[fazo]* |
+| *temo* | **themo** *[temo]* |
+| *karaktero* | **charactero** *[karaktero]* |
+| *sistemo* | **systemo** *[sistemo]* |
+| *zono* | **zono** *[=]* |
 
 ## Gramatiko
 
