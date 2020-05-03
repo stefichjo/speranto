@@ -110,7 +110,7 @@ Vortoj kun ŝajnfinaĵoj je **-re**/**-le** povas mallongiĝi al **-r'**/**-l'**
 |-|-|
 | *fazo* | **phase** *[ɸase]* → *[faze]* |
 | *temo* | **thema** *[θema]* → *[tema]* |
-| *karaktero* | **chractere** *[ĥaraktere]* → *[karaktere]* |
+| *karaktero* | **charactere** *[ĥaraktere]* → *[karaktere]* |
 | *sistemo* | **systema** *[systema]* → *[sistema]* |
 | *zono* | **zona** *[dzona]* → *[zona]* |
 
@@ -205,6 +205,13 @@ Adjektivoj estas adverbigeblaj pere de la ŝajnfinaĵo **-mente**.
 | *klare* | **claramente** |
 | | |
 | *facile* | **facilmente** *[faĉilmente]* |
+
+***En poezio***, uziĝas la ŝajnfinaĵo **-o** anstataŭ **-amente**.
+
+| | | poezie |
+|-|-|-|
+| *klare* | **claramente** | **claro** |
+| *nur* | **solamente** | **solo** |
 
 ### Numeraloj
 
@@ -425,9 +432,9 @@ La verba radiko uziĝas por imperativoj.
 | *la libro estas skribita de amiko* | **la libro es scripta de amico** |
 | *la libro estas skribata de amiko* | **la libro veni scripta de amico** |
 
----
-
 ### Prepozicioj
+
+---
 
 Per **de** oni povas indiki la *aganton* en *pasivo*.
 
