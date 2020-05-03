@@ -6,48 +6,50 @@
 
 | | Praoido → Oido |
 |-|-|
-| *lingvo* | **lingue** *[lingve]* → **linguo** *[lingvo]* |
+| *lingvo* | **lingŭe** *[lingve]* → **lingŭo** *[lingvo]* |
+| *lingvo* | **multo** *[multo]* → **multe** *[multe]* |
 
 ## Prononco
 
 ### i, u
 
-***TODO*** jen estas Piĝino
-
-***TODO*** vortkomenca **z** *[dz]* ?
-
-***TODO*** generale, **i** *[j]* ant'al vocalo relongijas. natione, potenciale, graciosa
-
-Post konsonanto, radikofina **ĭ** *[j]* fariĝas **i** *[=]*, sed radikofina **tĭ** fariĝas **z** *[c]* respektive radikofina **stĭ** fariĝas **st** *[=]*. La ŝajnfinaĵo **-ĭone** ĉiam fariĝas **-īo** *[io]*.
-
-| |
-|-|
-| **alĭa** *[alja]* → **alia** *[=]* |
-| **familĭe** *[familje]* → **familio** *[=]* |
-| |
-| **poesĭe** *[poezje]* → **poesīo** *[poezio]* |
-| **nostalgĭe** *[nostalgje]* → **nostalgīo** *[nostalĝio]* |
-| |
-| **gratĭe** *[gracje]* → **grazo** *[graco]* |
-| **potentĭe** *[potencje]* → **potenzo** *[potenco]* |
-| **potentĭale** *[potencjale]* → **potencialo** *[=]* |
-| **spatĭe** *[spacje]* → **spazo** *[spaco]* |
-| |
-| **bestĭe** *[bestje]* → **besto** *[=]* |
-| |
-| **natĭe** *[nacje]* → **natīo** *[nacio]* |
-| **statĭe** *[stacje]* → **statīo** *[stacio]* |
-
-Samkiel en Archelingua kaj Lingua, [**ĭ** kaj **ŭ**](lingua.md) prononciĝas *[ĵ]* kaj *[v]* komence respektive fine de radiko. ***TODO***
-
-| |
-|-|
-| **lingŭe** *[=]* → **lingŭo** *[lingvo]* |
-| **aqŭe** *[akŭe]* → **aqŭo** *[akvo]* |
+| | |
+|-|-|
+| *majo* | **maĭo** *[majo]* |
+| *familio* | **familĭo** *[familjo]* |
+| | |
+| *akvo* | **aqŭo** *[akvo]* |
+| *aŭto* | **aŭto** *[=]* |
+| *kvanto* | **qŭanto** *[kŭanto]* |
+| | |
+| *poezio* | **poesīo** *[poezio]* |
 
 ### ti
 
+| | |
+|-|-|
+| *graco* | **gratĭo** *[gracjo]* |
+| *spaco* | **spatĭo** *[spacjo]* |
+| | |
+| *potenco* | **potentĭo** *[potencjo]* |
+| *potencialo* | **potentĭalo** *[potencjalo]* |
+| | |
+| *besto* | **bestĭo** *[bestjo]* |
+
+La ŝajnfinaĵo **-ĭone** *[jone]* mallongiĝas al **-ĭo** *[jo]*.
+
+| | |
+|-|-|
+| *nacio* | **natĭo** *[nacjo]* |
+| *stacio* | **statĭo** *[stacjo]* |
+
 ### ci, gi
+
+---
+
+| |
+|-|
+| **nostalgĭe** *[nostalgje]* → **nostalgīo** *[nostalĝio]* |
 
 ### s, x
 
