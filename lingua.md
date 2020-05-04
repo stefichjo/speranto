@@ -206,13 +206,13 @@ Adjektivoj estas adverbigeblaj pere de la ŝajnfinaĵo **-mente**.
 | | |
 | *facile* | **facilmente** *[faĉilmente]* |
 
-***En poezio***, uziĝas la ŝajnfinaĵo **-o** anstataŭ **-amente**.
+Uziĝas la ŝajnfinaĵo **-o** anstataŭ **-amente**.
 
-| | | poezie |
-|-|-|-|
-| *klare* | **claramente** | **claro** |
-| *tre* | **multamente** | **multo** |
-| *nur* | **solamente** | **solo** |
+| | |
+|-|-|
+| *bone* | **bonamente** → **bono** |
+| *tre* | **multamente** → **multo** |
+| *nur* | **solamente** → **solo** |
 
 ### Numeraloj
 
@@ -246,6 +246,8 @@ Estas kvin korelativoj kun la finaĵoj **-i**, **-e**, **-a**, **-o** kaj **-u**
 | *kie*, *kiel*, *kial*, *kiam*, *kiom* | **qŭo** |
 | *kien* | **qŭu** |
 
+***TODO*** kies
+
 Korelativoj je **-e** ricevas la multenombran finaĵon **-s**.
 
 | | |
@@ -267,7 +269,7 @@ Estas kvin ŝajnkorelativoj kun la ŝajnfinaĵoj **-al**, **-el**, **-er** kaj *
 | *kial* | **qŭäre** *[kuere]* → **qŭer** *[kŭer]* |
 | | |
 | *kiam*, *kiel* | **quam** (= **quando**) |
-| *kiom*, *-*, *ke* | **quom** (= **quanto**, **kome**, **ke**) |
+| *kiom*, *-*, *ke* | **quom** (= **quanto**, **come**, **ke**) |
 
 ***En poezio***, la korelativoj **qŭe** kaj **qŭa** ricevas la finaĵon **-u** anstataŭ la akuzativan prepozicion **a**.
 

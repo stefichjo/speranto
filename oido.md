@@ -129,10 +129,18 @@ Korelativaj radikoj kombineblas kun sufiksoj.
 
 | | |
 |-|-|
-| *kio* | **qŭo** *[kŭo]* = **qŭajo** *[kŭaĵo]* |
-| *kiu* | **qŭu** *[kŭu]* = **qŭulo** *[kvulo]* |
-| *kia* | **qŭa** *[kŭa]* = **qŭessa** *[kŭesa]* |
-| *kies* | **qŭesma** *[kŭesma]* |
+| *kiu* | **qŭu** = **qŭulo** |
+| *kio* | **qŭo** = **qŭajo** |
+| *kia*, *kiu* | **qŭa** = **qŭessa**, **qŭula** |
+| *kie* | **qŭe** = **qŭeie** |
+| *kien* | **qŭi** |
+| | |
+| *kies* | **qŭes** |
+| | |
+| *kiel* | **qŭel** |
+| *kial* | **qŭal** |
+| *kiam* | **qŭam** |
+| *kiom* | **qŭom** |
 
 ### Artikoloj
 
