@@ -284,19 +284,6 @@ Estas kvin ŝajnkorelativoj kun la ŝajnfinaĵoj **-ale**, **-are** kaj **-ad**,
 | *kion* | **a qŭe** | **qŭu** |
 | *kiun* | **a qŭa** | **qŭu** |
 
-| | |
-|-|-|
-| *kio* | **qŭe** |
-| | |
-| *ĉio* | **omne** |
-| *nenio* | **none** |
-| *io* | **one** |
-| | |
-| *jen tio* | **he** |
-| *ĉi tio* | **je** |
-| *tio* | **te** |
-| *fore tio* | **le** |
-
 La formo **nono** *(neniel)* uziĝas nur ***tra bruo*** anstataŭ la kutima formo **no**.
 
 | | | tra bruo |

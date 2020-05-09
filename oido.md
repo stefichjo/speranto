@@ -76,8 +76,8 @@ La ŝajnfinaĵo **-ĭone** *[jone]* mallongiĝas al **-ĭo** *[jo]*.
 
 ***Arkaike Ojdaj*** **-o** kaj **-u** fariĝas **-e** kaj **-i**, kaj inverse.
 
-| | Lingua | Piĝino |
-|-|-|-|
+| | Lingua |
+|-|-|
 | *vi* | **ti** → **tu** |
 | *tero* | **terre** → **terro** |
 | *granda* | **granda** |
@@ -139,7 +139,7 @@ Korelativaj radikoj kombineblas kun sufiksoj.
 | | |
 | *kiel* | **qŭel** |
 | *kial* | **qŭal** |
-| *kiam* | **qŭam** |
+| *kiam* | **qŭam** = **qŭade** |
 | *kiom* | **qŭom** |
 
 ### Artikoloj
@@ -195,4 +195,8 @@ La akuzativa prepozicio **a** uziĝas nur ***tra bruo*** (kaj antaŭ nomoj kaj a
 | *vin mi vidas* | **a tu mu vidan** |
 
 ### Konjunkcioj
+
+| | |
+|-|-|
+| *ke* | **ke** |
 
