@@ -42,7 +42,7 @@ Inter konsonantoj, **ĭ** *[j]* kaj **ŭ** *[=]* elliziiĝas. La ŝajnsufikso **
 
 | | |
 |-|-|
-| *partikulo*, *partiklo* | **particŭlo** *[partiku-lo]* → *[partiklo]* |
+| *partikulo*, *partiklo* | **particŭlo** *[partiku-lo]* → **particlo** *[partiklo]* |
 | | |
 | *vojaĵo* | **viatĭco** *[viati-ko]* → **viajo** *[viaĵo]* |
 
@@ -249,11 +249,9 @@ Estas kvin korelativoj kun la finaĵoj **-i**, **-e**, **-a**, **-o** kaj **-u**
 |-|-|
 | *kiu* | **qŭi** |
 | *kio* | **qŭe** |
-| *kia*, *kiu* | **qŭa** |
+| *kia*, *kiu*, *kies* | **qŭa** |
 | *kie*, *kiel*, *kial*, *kiam*, *kiom* | **qŭo** |
 | *kien* | **qŭu** |
-
-***TODO*** kies
 
 Korelativoj je **-e** ricevas la multenombran finaĵon **-s**.
 
@@ -267,16 +265,16 @@ Korelativoj je **-e** ricevas la multenombran finaĵon **-s**.
 |-|-|-|
 | *fore tiuj domoj*, *la domoj* | **la domos** | **las domos** |
 
-Estas kvin ŝajnkorelativoj kun la ŝajnfinaĵoj **-al**, **-el**, **-er** kaj **-am**, **-om**.
+Estas kvin ŝajnkorelativoj kun la ŝajnfinaĵoj **-ale**, **-are** kaj **-ad**, **-am**, **-om**.
 
 | | |
 |-|-|
-| *kia* | **qŭale** *[kuale]* → **qŭal** *[kŭal]* |
-| *kiel* | **qŭäle** *[kuele]* → **qŭel** *[kŭel]* |
-| *kial* | **qŭäre** *[kuere]* → **qŭer** *[kŭer]* |
+| *kies*, *kia* | **qŭale** *[kuale → kŭale]* |
+| *kial* | **qŭare** *[kuare → kŭare]* |
 | | |
-| *kiam*, *kiel* | **quam** (= **quando**) |
-| *kiom*, *-*, *ke* | **quom** (= **quanto**, **come**, **ke**) |
+| *kiam* | **qŭad** *[kuad' → kŭad]* (= **qŭando**) |
+| *kiom* | **qŭam** *[kuam' → kŭam]* (= **qŭanto**) |
+| *kiel* | **qŭom** *[kuom' → kŭom]* (= **como**) |
 
 ***En poezio***, la korelativoj **qŭe** kaj **qŭa** ricevas la finaĵon **-u** anstataŭ la akuzativan prepozicion **a**.
 
@@ -478,4 +476,9 @@ Por alativo, lokativo, ablativo uziĝas la prepozicioj **de**, **in**, **ad**. P
 | *vin mi vidas* | **a ti mi vide** |
 
 ### Konjunkcioj
+
+| | |
+|-|-|
+| *ke* | **qŭom**, **qŭo** (= **co**) |
+
 
