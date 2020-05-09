@@ -18,7 +18,7 @@ Duobla konsonanto estas prononcata kiel unuopa konsonanto.
 
 ### i, u
 
-En ***Arkaika Lingvao***, la duonvokaloj **ĭ** *[j]* kaj **ŭ** *[=]* estas neakcenteblaj. Ili do ne kalkuliĝas kiel antaŭlasta (t.e. akcentenda) silabo.
+En ***Arkaika Lingvao***, la duonvokaloj **ĭ** *[j]* kaj **ŭ** *[=]* estas neakcenteblaj *[i]* kaj *[u]*. Ili do ne kalkuliĝas kiel antaŭlasta (t.e. akcentenda) silabo.
 
 | | |
 |-|-|
@@ -37,6 +37,12 @@ En ***Lingvao***, radikokomenca **ĭ** *[j]* kaj radikofina **ŭ** *[=]* fariĝa
 | | |
 | *akvo* | **aqŭa** *[aku-a → akva]* |
 | *lingvo* | **lingŭa** *[lingu-a → lingva]* |
+
+Inter konsonantoj, **ĭ** *[j]* kaj **ŭ** *[=]* elliziiĝas.
+
+| | |
+|-|-|
+| *partikulo*, *partiklo* | **particŭlo** *[partiku-lo]* → *[partiklo]* |
 
 Ankaŭ malantaŭ ŝajnprefikso, radikokomenca **ĭ** *[j]* fariĝas **j** *[ĵ]*. Inter konsonantoj, **ĭ** kaj **ŭ** eliziiĝas. La ŝajnsufikso **-atĭc-** *[atk]* fariĝas **-aj-** *[aĵ]*.
 
