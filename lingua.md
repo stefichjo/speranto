@@ -38,19 +38,20 @@ En ***Lingvao***, radikokomenca **ĭ** *[j]* kaj radikofina **ŭ** *[=]* fariĝa
 | *akvo* | **aqŭa** *[aku-a → akva]* |
 | *lingvo* | **lingŭa** *[lingu-a → lingva]* |
 
-Inter konsonantoj, **ĭ** *[j]* kaj **ŭ** *[=]* elliziiĝas.
+Inter konsonantoj, **ĭ** *[j]* kaj **ŭ** *[=]* elliziiĝas. La ŝajnsufikso **-atĭc-** *[atk]* fariĝas **-aj-** *[aĵ]*.
 
 | | |
 |-|-|
 | *partikulo*, *partiklo* | **particŭlo** *[partiku-lo]* → *[partiklo]* |
+| | |
+| *vojaĵo* | **viatĭco** *[viati-ko]* → **viajo** *[viaĵo]* |
 
-Ankaŭ malantaŭ ŝajnprefikso, radikokomenca **ĭ** *[j]* fariĝas **j** *[ĵ]*. Inter konsonantoj, **ĭ** kaj **ŭ** eliziiĝas. La ŝajnsufikso **-atĭc-** *[atk]* fariĝas **-aj-** *[aĵ]*.
+
+Ankaŭ malantaŭ ŝajnprefikso, radikokomenca **ĭ** *[j]* fariĝas **j** *[ĵ]*. Inter konsonantoj, **ĭ** kaj **ŭ** eliziiĝas.
 
 | | |
 |-|-|
 | *projekto* | **proĭecto** *[proiekto]* → **projecto** *[proĵekto]* |
-| | |
-| *vojaĵo* | **viatĭco** *[viati-ko]* → **viajo** *[viaĵo]* |
 
 ### ti
 
