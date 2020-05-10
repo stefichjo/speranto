@@ -1,8 +1,8 @@
 # Lingvao
 
-***Lingvao*** baziĝas sur la ***Latina*** kaj la [***Internaciaj Ortografioj***](latinidaj/README.md) de la ***Latinidaj Lingvoj***. ***Lingvao*** unuiĝas trajtojn de [***Interlingvao***](https://eo.wikipedia.org/wiki/Interlingvao) kaj [***Gloso***](https://eo.wikipedia.org/wiki/Gloso_(planlingvo)). El ***Lingvao*** pruntas [***Ojdo***](oido.md) kaj [***Piĝino***](pigino.md).
+***Lingvao*** baziĝas sur la ***Latina*** kaj la [***Internaciaj Ortografioj***](latinidaj/README.md) de la ***Latinidaj Lingvoj***. ***Lingvao*** havas trajtojn de [***Interlingvao***](https://eo.wikipedia.org/wiki/Interlingvao) kaj [***Gloso***](https://eo.wikipedia.org/wiki/Gloso_(planlingvo)). El ***Lingvao*** pruntas [***Ojdo***](oido.md) kaj [***Piĝino***](pigino.md).
 
-***Arkaika Lingvao*** havas arkaikan prononcon, 
+***Arkaika Lingvao*** havas arkaikan prononcon.
 
 | | Archelingua → Lingua |
 |-|-|
@@ -223,7 +223,7 @@ Uziĝas la ŝajnfinaĵo **-o** anstataŭ **-amente**.
 
 ### Numeraloj
 
-La ŝajnsufikso por ordinaloj estas **-esĭma** *[esi-ma]* **-esma** → *[esma]*. En ***Arkaika Lingvao***, ordinaloj de 4 ĝis 10 havas la ŝajnsufikson **-t-**, kaj la numeraloj **un**, **du**, **tri** havas apartajn ordinalojn formojn: **prima**, **secunda** kaj **tertĭa**.
+La ŝajnsufikso por ordinaloj estas **-esĭma** *[esi-ma]* → **-esma** *[=]*. En ***Arkaika Lingvao***, ordinaloj de 4 ĝis 10 havas la ŝajnsufikson **-t-**, kaj la numeraloj **un**, **du**, **tri** havas apartajn ordinalojn formojn: **prima**, **secunda** kaj **tertĭa**.
 
 | | numeralo | ordinalo |
 |-|-|-|

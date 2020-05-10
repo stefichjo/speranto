@@ -1,6 +1,6 @@
 # Ojdo
 
-***Piĝino*** unuiĝas trajtojn de [***Okcidentalo***](https://eo.wikipedia.org/wiki/Okcidentalo), [***Adjuvilo***](https://eo.wikipedia.org/wiki/Adjuvilo) kaj [***Ido***](https://eo.wikipedia.org/wiki/Ido_(lingvo)).
+***Ojdo*** pruntas el [***Lingvao***](lingua.md) kaj havas trajtojn de [***Okcidentalo***](https://eo.wikipedia.org/wiki/Okcidentalo), [***Adjuvilo***](https://eo.wikipedia.org/wiki/Adjuvilo) kaj [***Ido***](https://eo.wikipedia.org/wiki/Ido_(lingvo)). El ***Ojdo*** pruntas [***Piĝino***](pigino.md).
 
 ***Arkaika Ojdo*** havas arkaikajn finaĵojn.
 

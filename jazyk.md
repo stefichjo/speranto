@@ -1,10 +1,10 @@
-# Äzyk
+# Jaziko
 
-***Äzyk*** baziĝas sur la ***Slavaj Lingvoj*** kaj [ties ***Internaciaj Ortografioj***](slavaj/README.md). El ***Äzyk*** pruntas [***Piĝino***](pighino.md).
+***Jaziko*** baziĝas sur la ***Slavaj Lingvoj*** kaj [ties ***Internaciaj Ortografioj***](slavaj/README.md). El ***Jaziko*** pruntas [***Piĝino***](pigino.md).
 
 ## Alfabeto
 
-La ortografio de ***Äzyk*** baziĝas precipe sur ***latin***-skribaj ***slavaj*** lingvoj kiel la ***Pola***, sed ĝi havas ankaŭ trajton de ***ciril***-skribaj ***slavaj*** lingvoj kiel la ***Rusa***.
+La ortografio de ***Jaziko*** baziĝas precipe sur ***latin***-skribaj ***slavaj*** lingvoj kiel la ***Pola***, sed ĝi havas ankaŭ trajton de ***ciril***-skribaj ***slavaj*** lingvoj kiel la ***Rusa***.
 
 ---
 

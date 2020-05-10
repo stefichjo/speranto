@@ -1,15 +1,12 @@
 # Piĝino
 
+***TODO*** Eĉ se ni supozos...
+
 ***TODO*** qŭ- [kv] -> [ku] -> qŭi [ki]
 
-***TODO*** Prapiĝino venas post Piĝino.
+***TODO*** spazio > spazo
 
-> **Se ni eĉ supposos, qŭe la fina linguo de la s̈tontaĭ generatīoĭ s̈tas ne S̈peranto, en ĉia occaso la vĩo al tiu ellaborota linguo nepre devas conduqŭi tra S̈peranto.** *[Se ni eĉ supozos, ke la fina lingvo de la estontaj generacioj estas ne esperanto, en ĉia okazo la vojo al tiu ellaborota lingvo nepre devas konduki tra esperanto.]* →
-> **Se ni ech supposos, que la fina linguo de la estontai generatioi estas ne Esperanto, en chia occaso la voio al tiu ellaborota linguo nepre devas conduqui tra Esperanto.** *[Se ni eĉ supozos, ke la fina lingvo de la estontaj ĵenerasioj estas ne Esperanto, en ĉia okazo la vojo al tiu ellaborota lingvo nepre devas konduki tra Esperanto.]*
-> ---
-> L. L. Zamenhof
-
-***Piĝino*** pruntas elementojn el [***Lingua***](lingua.md), [***Sprak***](sprak.md) kaj [***Äzyk***](jazyk.md). La fonetika skribo de ***Prapiĝino*** estas identa kun la ortografio de ***Esperanto***.
+***Piĝino*** pruntas el [***Ojdo***](lingua.md) kaj el [***Lingvao***](lingua.md), [***Sprako***](sprak.md) kaj [***Jaziko***](jazyk.md). ***Piĝino*** havas trajtojn de [***Esperanto***](https://eo.wikipedia.org/wiki/Esperanto).
 
 ## Prononco
 
