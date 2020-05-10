@@ -52,6 +52,12 @@ La ŝajnfinaĵo **-ione** *[jone]* mallongiĝas al **-io** *[jo]*.
 | | |
 | *nostalgio* | **nostalgīo** *[nostalĝio]* |
 
+Por skribi *[k]* aŭ *[g]* antaŭ *[e]* aŭ *[i]*, skribiĝas **qŭ** respektive **gŭ**.
+
+| | |
+|-|-|
+| *ke* | **qŭe** *[ke]* |
+
 ### s, x
 
 | | |

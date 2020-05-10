@@ -6,55 +6,18 @@
 
 ## Prononco
 
+Vd. [prononco en ***Ojdo***](oido.md#prononco).
+
 ### i, u
 
-* = Oido?
-* maĭo
-* familĭo = familīo
-* aqŭo
-* qvieta ?
+Post konsonanto, radikofina **i** kutime eliziiĝas. Kiam ĝi ne eliziiĝas sed akcentiĝas, ĝi skribiĝas **ī**.
 
-
-
-* **jam** *[ĵam]*
-* **maĭo** *[majo]*
-
-* ĭ/ŭ
-  * senakcenta Archelingua
-  * duonvokala Lingua
-  * duonvokala/frikativa Oido
-  * duonvokala/eliziita Pigino (?)
-    * kvalito
-    * akvo
-    * jam
-    * spaco, besto, substanco
-
-
-***TODO*** qŭ- [kv] -> [ku] -> qŭi [ki]
-
-***TODO*** Lingua: ŭ = senakcenta/duonvokala/eliziita; Pigino: eliziita?
-
-| |
-|-|
-| **acqŭiri** *[akiri]* |
-| **amico** *[amiko]* |
-| **canti** *[kanti]* |
-| **culturo** *[kulturo]* |
-| **facto** *[fakto]* |
-| **impliqŭi** *[impliki]* |
-| **indiqŭi** *[indiki]* |
-| **terro** *[tero]* |
-| **voqŭi** *[voki]* |
-| |
-| **domo** *[=]* |
-| **familio** *[=]* |
-| **implici** *[=]* |
-
-Sago (→) signifas diferencon inter ***Prapiĝino*** kaj ***Piĝino***, ĉu ortografie aŭ prononce.
-
-| |
-|-|
-| **legi** → **legŭi** *[legi]* |
+| | |
+|-|-|
+| *ekvilibro* | **equilibrio** *[ekvilibro]* |
+| | |
+| *ebria* | **ebrīa** *[ebria]* |
+| *familio* | **familīo** *[familio]* |
 
 | Dio | Planedo | Tago |
 |-|-|-|
@@ -63,6 +26,10 @@ Sago (→) signifas diferencon inter ***Prapiĝino*** kaj ***Piĝino***, ĉu ort
 | **Marso** *[=]* | **=** → **Marto** *[=]* | **martĕdıo** *[mardo]* → **martedo** *[=]* |
 | **Mercuro** *[merkuro]* | **=** → **Mercro** *[merkro]* | ***mercŭredıo*** *[merkredo]* → **mercredo** *[merkredo]* |
 | **Venusso** *[venuso]* | **=** → **Venro** *[=]* | **venĕredıo** *[vendredo]* → **venredo** *[=]* |
+
+***TODO*** spaco, besto, substanco
+
+***TODO*** qŭ- [kv] -> [ku] -> qŭi [ki]
 
 
 ### ti
