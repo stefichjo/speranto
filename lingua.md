@@ -16,9 +16,15 @@ Duobla konsonanto estas prononcata kiel unuopa konsonanto.
 |-|-|
 | *tero* | **terra** *[terra → tera]* |
 
+La antaŭlasta silabo estas akcentata. Neakcenteblaj silaboj havas vokalon kun hoketo.
+
+| | |
+|-|-|
+| *trajno* | **traĭno** *[trai-no → trajno]* |
+
 ### i, u
 
-En ***Arkaika Lingvao***, la duonvokaloj **ĭ** *[j]* kaj **ŭ** *[=]* estas neakcenteblaj *[i]* kaj *[u]*. Ili do ne kalkuliĝas kiel antaŭlasta (t.e. akcentenda) silabo.
+En ***Arkaika Lingvao***, la duonvokaloj **ĭ** *[j]* kaj **ŭ** *[=]* estas neakcenteblaj *[i]* kaj *[u]*.
 
 | | |
 |-|-|
@@ -247,11 +253,11 @@ Estas kvin korelativoj kun la finaĵoj **-i**, **-e**, **-a**, **-o** kaj **-u**
 
 | | |
 |-|-|
-| *kiu* | **qŭi** |
-| *kio* | **qŭe** |
-| *kia*, *kiu*, *kies* | **qŭa** |
-| *kie*, *kiel*, *kial*, *kiam*, *kiom* | **qŭo** |
-| *kien* | **qŭu** |
+| *kiu* | **qŭi** *[kui' → kŭi]* |
+| *kio* | **qŭe** *[kue' → kŭe]* |
+| *kia*, *kiu*, *kies* | **qŭa** *[kua' → kŭa]* |
+| *kie*, *kiel*, *kial*, *kiam*, *kiom* | **qŭo** *[kuo' → kŭo]* |
+| *kien* | **qŭu** *[kuu' → kŭu]* |
 
 Korelativoj je **-e** ricevas la multenombran finaĵon **-s**.
 

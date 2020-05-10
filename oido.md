@@ -6,7 +6,7 @@
 
 | | Praoido → Oido |
 |-|-|
-| *lingvo* | **lingŭe** *[lingve]* → **lingŭo** *[lingvo]* |
+| *lingvo* | **lingue** *[lingve]* → **linguo** *[lingvo]* |
 | *multe* | **multo** *[multo]* → **multe** *[multe]* |
 
 ## Prononco
@@ -15,33 +15,35 @@
 
 | | |
 |-|-|
-| *majo* | **maĭo** *[majo]* |
-| *familio* | **familĭo** *[familjo]* |
+| *majo* | **maio** *[majo]* |
+| *familio* | **familio** *[familjo]* |
 | | |
-| *akvo* | **aqŭo** *[akvo]* |
-| *aŭto* | **aŭto** *[=]* |
-| *kvanto* | **qŭanto** *[kŭanto]* |
+| *aŭto* | **auto** *[aŭto]* |
+| | |
+| *akvo* | **aquo** *[akvo]* |
+| *kvanto* | **quanto** *[kvanto]* |
 | | |
 | *poezio* | **poesīo** *[poezio]* |
+
+***TODO*** jam
 
 ### ti
 
 | | |
 |-|-|
-| *graco* | **gratĭo** *[gracjo]* |
-| *spaco* | **spatĭo** *[spacjo]* |
+| *spaco* | **spatio** *[spacjo]* |
 | | |
-| *potenco* | **potentĭo** *[potencjo]* |
-| *potencialo* | **potentĭalo** *[potencjalo]* |
+| *potenco* | **potentio** *[potencjo]* |
+| *potencialo* | **potentialo** *[potencjalo]* |
 | | |
-| *besto* | **bestĭo** *[bestjo]* |
+| *besto* | **bestio** *[bestjo]* |
 
-La ŝajnfinaĵo **-ĭone** *[jone]* mallongiĝas al **-ĭo** *[jo]*.
+La ŝajnfinaĵo **-ione** *[jone]* mallongiĝas al **-io** *[jo]*.
 
 | | |
 |-|-|
-| *nacio* | **natĭo** *[nacjo]* |
-| *stacio* | **statĭo** *[stacjo]* |
+| *nacio* | **natio** *[nacjo]* |
+| *stacio* | **statio** *[stacjo]* |
 
 ### ci, gi
 
@@ -110,7 +112,7 @@ Adverboj finiĝas je **-e**.
 | | |
 |-|-|
 | *multe* | **multe** *[=]* |
-| *hodiaŭ* | **hodĭe** *[hodje]* |
+| *hodiaŭ* | **hodie** *[hodje]* |
 
 Celaj adverboj finiĝas je **-i**.
 
@@ -129,18 +131,18 @@ Korelativaj radikoj kombineblas kun sufiksoj.
 
 | | |
 |-|-|
-| *kiu* | **qŭu** = **qŭulo** |
-| *kio* | **qŭo** = **qŭajo** |
-| *kia*, *kiu* | **qŭa** = **qŭessa**, **qŭula** |
-| *kie* | **qŭe** = **qŭeie** |
-| *kien* | **qŭi** |
+| *kiu* | **quu** *[kvu]* = **quulo** *[kvulo]* |
+| *kio* | **quo** *[kvo]* = **quajo** *[kvaĵo]* |
+| *kia*, *kiu* | **qua** *[kva]* = **quessa** *[kvesa]*, **quula** *[kvula]* |
+| *kie* | **que** *[kve]* = **queie** *[kveje]* |
+| *kien* | **qui** *[kvi]* |
 | | |
-| *kies* | **qŭes** |
+| *kies* | **ques** *[kves]* |
 | | |
-| *kiel* | **qŭel** |
-| *kial* | **qŭal** |
-| *kiam* | **qŭam** = **qŭade** |
-| *kiom* | **qŭom** |
+| *kiel* | **quel** *[kvel]* |
+| *kial* | **qual** *[kval]* |
+| *kiam* | **quam** *[kvam]* = **quade** *[kvade]* |
+| *kiom* | **quom** *[kvom]* |
 
 ### Artikoloj
 
@@ -183,9 +185,9 @@ Prepoziciaĵoj finiĝas je **-aŭ**.
 
 | | |
 |-|-|
-| *ĉirkaŭ* | **circał** → **circaŭ** *[ĉirkaŭ]* |
-| *dank' al* | **gratĭał** → **gratĭaŭ** *[gracjaŭ]* |
-| *anstataŭ* | **vizał** → **vizaŭ** *[vicaŭ]* |
+| *ĉirkaŭ* | **circał** → **circau** *[ĉirkaŭ]* |
+| *dank' al* | **gratiał** → **gratiau** *[gracjaŭ]* |
+| *anstataŭ* | **vizał** → **vizau** *[vicaŭ]* |
 
 La akuzativa prepozicio **a** uziĝas nur ***tra bruo*** (kaj antaŭ nomoj kaj antaŭ nominativa frazparto).
 
@@ -198,5 +200,5 @@ La akuzativa prepozicio **a** uziĝas nur ***tra bruo*** (kaj antaŭ nomoj kaj a
 
 | | |
 |-|-|
-| *ke* | **ke** |
+| *ke* | **qŭe** |
 

@@ -6,6 +6,34 @@
 
 ## Prononco
 
+### i, u
+
+* = Oido?
+* maĭo
+* familĭo = familīo
+* aqŭo
+* qvieta ?
+
+
+
+* **jam** *[ĵam]*
+* **maĭo** *[majo]*
+
+* ĭ/ŭ
+  * senakcenta Archelingua
+  * duonvokala Lingua
+  * duonvokala/frikativa Oido
+  * duonvokala/eliziita Pigino (?)
+    * kvalito
+    * akvo
+    * jam
+    * spaco, besto, substanco
+
+
+***TODO*** qŭ- [kv] -> [ku] -> qŭi [ki]
+
+***TODO*** Lingua: ŭ = senakcenta/duonvokala/eliziita; Pigino: eliziita?
+
 | |
 |-|
 | **acqŭiri** *[akiri]* |
@@ -36,13 +64,10 @@ Sago (→) signifas diferencon inter ***Prapiĝino*** kaj ***Piĝino***, ĉu ort
 | **Mercuro** *[merkuro]* | **=** → **Mercro** *[merkro]* | ***mercŭredıo*** *[merkredo]* → **mercredo** *[merkredo]* |
 | **Venusso** *[venuso]* | **=** → **Venro** *[=]* | **venĕredıo** *[vendredo]* → **venredo** *[=]* |
 
-### i, u
-
-***TODO*** spazio > spazo
-
-***TODO*** qŭ- [kv] -> [ku] -> qŭi [ki]
 
 ### ti
+
+***TODO*** spazio > spazo
 
 En ***Piĝino***, radikofinaj **tĕ**/**tĭ** *[c]* kaj **ţ** *[s]* skribiĝas **z**/**c** respective **s**, sed **stĭ** *[st]* skribiĝas **st**. **tī** *[ci]* prononciĝas *[si]*.
 
@@ -314,7 +339,6 @@ En ***akĉenta Piĝino***, **aŭ** kaj **eŭ** prononciĝas *[o]* kaj *[u]*, dum
 | |
 | **Eŭropo** *[eŭropo]* → *[uropo]* |
 | |
-| **maĭo** *[majo]* → *[meo]* |
 | **semaĭno** *[semajno]* → *[semeno]* |
 | **traĭno** *[trajno]* → *[treno]* |
 | |
