@@ -19,43 +19,36 @@ Post konsonanto, radikofina **i** kutime eliziiĝas. Kiam ĝi ne eliziiĝas sed 
 | *ebria* | **ebrīa** *[ebria]* |
 | *familio* | **familīo** *[familio]* |
 
-| Dio | Planedo | Tago |
-|-|-|-|
-| **Ĭupitero** *[jupitero]* → **Jupitero** *[ĵupitero]* | **=** → **Jovo** *[ĵovo]* | **ĵaŭdıo** *[ĵaŭdo]* → **jovedo** *[ĵovedo]* |
-| **Luno** *[=]* | **=** | **lunĕdıo** *[lundo]* → **lunedo** *[=]* |
-| **Marso** *[=]* | **=** → **Marto** *[=]* | **martĕdıo** *[mardo]* → **martedo** *[=]* |
-| **Mercuro** *[merkuro]* | **=** → **Mercro** *[merkro]* | ***mercŭredıo*** *[merkredo]* → **mercredo** *[merkredo]* |
-| **Venusso** *[venuso]* | **=** → **Venro** *[=]* | **venĕredıo** *[vendredo]* → **venredo** *[=]* |
-
-***TODO*** spaco, besto, substanco
-
-***TODO*** qŭ- [kv] -> [ku] -> qŭi [ki]
-
-
 ### ti
 
-***TODO*** spazio > spazo
+Kiam radikofina **i** eliziiĝas post **t** *[c]*, skribiĝas **z** *[c]*. (Radikofina **sti** *[st]* skribiĝas **st**.)
 
-En ***Piĝino***, radikofinaj **tĕ**/**tĭ** *[c]* kaj **ţ** *[s]* skribiĝas **z**/**c** respective **s**, sed **stĭ** *[st]* skribiĝas **st**. **tī** *[ci]* prononciĝas *[si]*.
+| | |
+|-|-|
+| *potenco* | **potentio** → **potenzo** *[potenco]* |
+| *potencialo* | **potentialo** *[potencjalo]* → *[potensjalo]* |
+| | |
+| *spaco* | **spatio** → **spazo** *[spaco]* |
+| *placo* | **plazo** *[placo]* |
+| | |
+| *besto* | **bestio** → **besto** *[besto]* |
+
+---
+
+En ***Piĝino***, radikofina **ţ** *[s]* skribiĝas **z**/**c** respective **s**. **tī** *[ci]* prononciĝas *[si]*.
 
 | |
 |-|
 | **marto** *[marto]* → **marzo** *[marco]* |
-| **potentĭo** → **potenzo** *[potenco]* |
-| **platĕo** → **plazo** *[placo]* |
-| **spatĭo** → **spazo** *[spaco]* |
 | |
 | **Marţo** → **Marso** *[marso]* |
 | **senţo** *[senso]* → **sentumo** *[sentumo]* |
-| |
-| **bestĭo** → **besto** *[besto]* |
 | |
 | **democratio** *[demokratio]* → **democratīo** *[demokrasio]* |
 | **evolutīo** *[evolucio]* → *[evolusio]* |
 | **garantio** *[=]* → **garantīo** *[garancio]* |
 | **natīo** *[nacio]* → *[nasio]* |
 | **patīentĭo** *[pacienco]* → **patīenzo** *[pasienco]* |
-| **potentīalo** *[potencialo]* → *[potensialo]* |
 | **sentĭo** *[senco]* → **senso** *[senso]* |
 
 ### ci, gi, j
@@ -460,4 +453,17 @@ En ***hispan-akĉenta Piĝino***, prononciĝas *[ĥ]* anstataŭ *[ĵ]*/*[ĝ]*, d
 | *Mi vidas vin.* | **Mi vidas a vi.** ← **Mi vidas na vi.** |
 
 ### Konjunkcioj
+
+***TODO***
+
+| Dio | Planedo | Tago |
+|-|-|-|
+| **Ĭupitero** *[jupitero]* → **Jupitero** *[ĵupitero]* | **=** → **Jovo** *[ĵovo]* | **ĵaŭdıo** *[ĵaŭdo]* → **jovedo** *[ĵovedo]* |
+| **Luno** *[=]* | **=** | **lunĕdıo** *[lundo]* → **lunedo** *[=]* |
+| **Marso** *[=]* | **=** → **Marto** *[=]* | **martĕdıo** *[mardo]* → **martedo** *[=]* |
+| **Mercuro** *[merkuro]* | **=** → **Mercro** *[merkro]* | ***mercŭredıo*** *[merkredo]* → **mercredo** *[merkredo]* |
+| **Venusso** *[venuso]* | **=** → **Venro** *[=]* | **venĕredıo** *[vendredo]* → **venredo** *[=]* |
+
+***TODO*** qŭ- [kv] -> [ku] -> qŭi [ki]
+
 
