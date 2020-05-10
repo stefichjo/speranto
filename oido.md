@@ -17,15 +17,13 @@
 |-|-|
 | *majo* | **maio** *[majo]* |
 | *familio* | **familio** *[familjo]* |
+| *jam* | **jam** *[ĵam]* |
 | | |
 | *aŭto* | **auto** *[aŭto]* |
-| | |
 | *akvo* | **aquo** *[akvo]* |
-| *kvanto* | **quanto** *[kvanto]* |
+| *kvanto* | **quanto** *[kŭanto]* |
 | | |
 | *poezio* | **poesīo** *[poezio]* |
-
-***TODO*** jam
 
 ### ti
 
@@ -131,18 +129,18 @@ Korelativaj radikoj kombineblas kun sufiksoj.
 
 | | |
 |-|-|
-| *kiu* | **quu** *[kvu]* = **quulo** *[kvulo]* |
-| *kio* | **quo** *[kvo]* = **quajo** *[kvaĵo]* |
-| *kia*, *kiu* | **qua** *[kva]* = **quessa** *[kvesa]*, **quula** *[kvula]* |
-| *kie* | **que** *[kve]* = **queie** *[kveje]* |
-| *kien* | **qui** *[kvi]* |
+| *kiu* | **quu** *[kŭu]* = **quulo** *[kŭulo]* |
+| *kio* | **quo** *[kŭo]* = **quajo** *[kŭaĵo]* |
+| *kia*, *kiu* | **qua** *[kŭa]* = **quessa** *[kŭesa]*, **quula** *[kŭula]* |
+| *kie* | **que** *[kŭe]* = **queie** *[kŭeje]* |
+| *kien* | **qui** *[kŭi]* |
 | | |
-| *kies* | **ques** *[kves]* |
+| *kies* | **ques** *[kŭes]* |
 | | |
-| *kiel* | **quel** *[kvel]* |
-| *kial* | **qual** *[kval]* |
-| *kiam* | **quam** *[kvam]* = **quade** *[kvade]* |
-| *kiom* | **quom** *[kvom]* |
+| *kiel* | **quel** *[kŭel]* |
+| *kial* | **qual** *[kŭal]* |
+| *kiam* | **quam** *[kŭam]* = **quade** *[kŭade]* |
+| *kiom* | **quom** *[kŭom]* |
 
 ### Artikoloj
 
