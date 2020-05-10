@@ -2,15 +2,9 @@
 
 ***TODO*** Eĉ se ni supozos...
 
-***TODO*** qŭ- [kv] -> [ku] -> qŭi [ki]
-
-***TODO*** spazio > spazo
-
 ***Piĝino*** pruntas el [***Ojdo***](lingua.md) kaj el [***Lingvao***](lingua.md), [***Sprako***](sprak.md) kaj [***Jaziko***](jazyk.md). ***Piĝino*** havas trajtojn de [***Esperanto***](https://eo.wikipedia.org/wiki/Esperanto).
 
 ## Prononco
-
-***Piĝino*** havas sian propran fonetikan skribon (inter *[kvadrataj krampoj]*).
 
 | |
 |-|
@@ -43,6 +37,10 @@ Sago (→) signifas diferencon inter ***Prapiĝino*** kaj ***Piĝino***, ĉu ort
 | **Venusso** *[venuso]* | **=** → **Venro** *[=]* | **venĕredıo** *[vendredo]* → **venredo** *[=]* |
 
 ### i, u
+
+***TODO*** spazio > spazo
+
+***TODO*** qŭ- [kv] -> [ku] -> qŭi [ki]
 
 ### ti
 
