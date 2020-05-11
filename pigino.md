@@ -35,6 +35,8 @@ Kiam radikofina **i** eliziiĝas post **t** *[c]*, skribiĝas **z** *[c]*. (Radi
 
 ### ci, gi, j
 
+---
+
 ***TODO*** j -> i, u
 
 En ***Prapiĝino***, la skriboj por **ĉ** *[ĉ]*, **ċ** *[c]*, **ĝ** *[ĝ]* (t.e. plozivaj frikativoj) kaj **çh** *[ŝ]*, **ç** *[s]*, **ĵ** *[ĵ]* (t.e. ne-plozivaj frikativoj) estas fiksitaj. (La skribo de **ĝ** povas varii laŭ la etimologio jen al **dĵ**, jen al **j**.) (La skribo **çh** surogatas la skribon **^ç**.)
