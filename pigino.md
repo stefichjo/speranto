@@ -33,24 +33,6 @@ Kiam radikofina **i** eliziiĝas post **t** *[c]*, skribiĝas **z** *[c]*. (Radi
 | | |
 | *besto* | **bestio** → **besto** *[besto]* |
 
----
-
-En ***Piĝino***, radikofina **ţ** *[s]* skribiĝas **z**/**c** respective **s**. **tī** *[ci]* prononciĝas *[si]*.
-
-| |
-|-|
-| **marto** *[marto]* → **marzo** *[marco]* |
-| |
-| **Marţo** → **Marso** *[marso]* |
-| **senţo** *[senso]* → **sentumo** *[sentumo]* |
-| |
-| **democratio** *[demokratio]* → **democratīo** *[demokrasio]* |
-| **evolutīo** *[evolucio]* → *[evolusio]* |
-| **garantio** *[=]* → **garantīo** *[garancio]* |
-| **natīo** *[nacio]* → *[nasio]* |
-| **patīentĭo** *[pacienco]* → **patīenzo** *[pasienco]* |
-| **sentĭo** *[senco]* → **senso** *[senso]* |
-
 ### ci, gi, j
 
 ***TODO*** j -> i, u
@@ -465,5 +447,25 @@ En ***hispan-akĉenta Piĝino***, prononciĝas *[ĥ]* anstataŭ *[ĵ]*/*[ĝ]*, d
 | **Venusso** *[venuso]* | **=** → **Venro** *[=]* | **venĕredıo** *[vendredo]* → **venredo** *[=]* |
 
 ***TODO*** qŭ- [kv] -> [ku] -> qŭi [ki]
+
+***TODO*** estas aparta temo, kiel skribi tiajn vortojn en Esperanto (simile kiel la h-sistemo)
+
+---
+
+En ***Piĝino***, radikofina **ţ** *[s]* skribiĝas **z**/**c** respective **s**. **tī** *[ci]* prononciĝas *[si]*.
+
+| |
+|-|
+| **marto** *[marto]* → **marzo** *[marco]* |
+| |
+| **Marţo** → **Marso** *[marso]* |
+| **senţo** *[senso]* → **sentumo** *[sentumo]* |
+| |
+| **democratio** *[demokratio]* → **democratīo** *[demokrasio]* |
+| **evolutīo** *[evolucio]* → *[evolusio]* |
+| **garantio** *[=]* → **garantīo** *[garancio]* |
+| **natīo** *[nacio]* → *[nasio]* |
+| **patīentĭo** *[pacienco]* → **patīenzo** *[pasienco]* |
+| **sentĭo** *[senco]* → **senso** *[senso]* |
 
 
