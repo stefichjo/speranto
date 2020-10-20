@@ -1,12 +1,12 @@
 # Ojdo
 
-***Piĝino*** unuiĝas trajtojn de [***Okcidentalo***](https://eo.wikipedia.org/wiki/Okcidentalo), [***Adjuvilo***](https://eo.wikipedia.org/wiki/Adjuvilo) kaj [***Ido***](https://eo.wikipedia.org/wiki/Ido_(lingvo)).
+***Ojdo*** pruntas el [***Lingvao***](lingua.md) kaj havas trajtojn de [***Okcidentalo***](https://eo.wikipedia.org/wiki/Okcidentalo), [***Adjuvilo***](https://eo.wikipedia.org/wiki/Adjuvilo) kaj [***Ido***](https://eo.wikipedia.org/wiki/Ido_(lingvo)). El ***Ojdo*** pruntas [***Piĝino***](pigino.md).
 
 ***Arkaika Ojdo*** havas arkaikajn finaĵojn.
 
 | | Praoido → Oido |
 |-|-|
-| *lingvo* | **lingŭe** *[lingve]* → **lingŭo** *[lingvo]* |
+| *lingvo* | **lingue** *[lingve]* → **linguo** *[lingvo]* |
 | *multe* | **multo** *[multo]* → **multe** *[multe]* |
 
 ## Prononco
@@ -15,12 +15,13 @@
 
 | | |
 |-|-|
-| *majo* | **maĭo** *[majo]* |
-| *familio* | **familĭo** *[familjo]* |
+| *majo* | **maio** *[majo]* |
+| *familio* | **familio** *[familjo]* |
+| *jam* | **jam** *[ĵam]* |
 | | |
-| *akvo* | **aqŭo** *[akvo]* |
-| *aŭto* | **aŭto** *[=]* |
-| *kvanto* | **qŭanto** *[kŭanto]* |
+| *aŭto* | **auto** *[aŭto]* |
+| *akvo* | **aquo** *[akvo]* |
+| *kvanto* | **quanto** *[kŭanto]* |
 | | |
 | *poezio* | **poesīo** *[poezio]* |
 
@@ -28,20 +29,19 @@
 
 | | |
 |-|-|
-| *graco* | **gratĭo** *[gracjo]* |
-| *spaco* | **spatĭo** *[spacjo]* |
+| *spaco* | **spatio** *[spacjo]* |
 | | |
-| *potenco* | **potentĭo** *[potencjo]* |
-| *potencialo* | **potentĭalo** *[potencjalo]* |
+| *potenco* | **potentio** *[potencjo]* |
+| *potencialo* | **potentialo** *[potencjalo]* |
 | | |
-| *besto* | **bestĭo** *[bestjo]* |
+| *besto* | **bestio** *[bestjo]* |
 
-La ŝajnfinaĵo **-ĭone** *[jone]* mallongiĝas al **-ĭo** *[jo]*.
+La ŝajnfinaĵo **-ione** *[jone]* mallongiĝas al **-io** *[jo]*.
 
 | | |
 |-|-|
-| *nacio* | **natĭo** *[nacjo]* |
-| *stacio* | **statĭo** *[stacjo]* |
+| *nacio* | **natio** *[nacjo]* |
+| *stacio* | **statio** *[stacjo]* |
 
 ### ci, gi
 
@@ -51,6 +51,12 @@ La ŝajnfinaĵo **-ĭone** *[jone]* mallongiĝas al **-ĭo** *[jo]*.
 | *ĝenerala* | **generala** *[ĝenerala]* |
 | | |
 | *nostalgio* | **nostalgīo** *[nostalĝio]* |
+
+Por skribi *[k]* aŭ *[g]* antaŭ *[e]* aŭ *[i]*, skribiĝas **qŭ** respektive **gŭ**.
+
+| | |
+|-|-|
+| *ke* | **qŭe** *[ke]* |
 
 ### s, x
 
@@ -76,8 +82,8 @@ La ŝajnfinaĵo **-ĭone** *[jone]* mallongiĝas al **-ĭo** *[jo]*.
 
 ***Arkaike Ojdaj*** **-o** kaj **-u** fariĝas **-e** kaj **-i**, kaj inverse.
 
-| | Lingua | Piĝino |
-|-|-|-|
+| | Lingua |
+|-|-|
 | *vi* | **ti** → **tu** |
 | *tero* | **terre** → **terro** |
 | *granda* | **granda** |
@@ -110,7 +116,7 @@ Adverboj finiĝas je **-e**.
 | | |
 |-|-|
 | *multe* | **multe** *[=]* |
-| *hodiaŭ* | **hodĭe** *[hodje]* |
+| *hodiaŭ* | **hodie** *[hodje]* |
 
 Celaj adverboj finiĝas je **-i**.
 
@@ -129,18 +135,18 @@ Korelativaj radikoj kombineblas kun sufiksoj.
 
 | | |
 |-|-|
-| *kiu* | **qŭu** = **qŭulo** |
-| *kio* | **qŭo** = **qŭajo** |
-| *kia*, *kiu* | **qŭa** = **qŭessa**, **qŭula** |
-| *kie* | **qŭe** = **qŭeie** |
-| *kien* | **qŭi** |
+| *kiu* | **quu** *[kŭu]* = **quulo** *[kŭulo]* |
+| *kio* | **quo** *[kŭo]* = **quajo** *[kŭaĵo]* |
+| *kia*, *kiu* | **qua** *[kŭa]* = **quessa** *[kŭesa]*, **quula** *[kŭula]* |
+| *kie* | **que** *[kŭe]* = **queie** *[kŭeje]* |
+| *kien* | **qui** *[kŭi]* |
 | | |
-| *kies* | **qŭes** |
+| *kies* | **ques** *[kŭes]* |
 | | |
-| *kiel* | **qŭel** |
-| *kial* | **qŭal** |
-| *kiam* | **qŭam** |
-| *kiom* | **qŭom** |
+| *kiel* | **quel** *[kŭel]* |
+| *kial* | **qual** *[kŭal]* |
+| *kiam* | **quam** *[kŭam]* = **quade** *[kŭade]* |
+| *kiom* | **quom** *[kŭom]* |
 
 ### Artikoloj
 
@@ -183,9 +189,9 @@ Prepoziciaĵoj finiĝas je **-aŭ**.
 
 | | |
 |-|-|
-| *ĉirkaŭ* | **circał** → **circaŭ** *[ĉirkaŭ]* |
-| *dank' al* | **gratĭał** → **gratĭaŭ** *[gracjaŭ]* |
-| *anstataŭ* | **vizał** → **vizaŭ** *[vicaŭ]* |
+| *ĉirkaŭ* | **circał** → **circau** *[ĉirkaŭ]* |
+| *dank' al* | **gratiał** → **gratiau** *[gracjaŭ]* |
+| *anstataŭ* | **vizał** → **vizau** *[vicaŭ]* |
 
 La akuzativa prepozicio **a** uziĝas nur ***tra bruo*** (kaj antaŭ nomoj kaj antaŭ nominativa frazparto).
 
@@ -195,4 +201,8 @@ La akuzativa prepozicio **a** uziĝas nur ***tra bruo*** (kaj antaŭ nomoj kaj a
 | *vin mi vidas* | **a tu mu vidan** |
 
 ### Konjunkcioj
+
+| | |
+|-|-|
+| *ke* | **qŭe** |
 

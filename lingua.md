@@ -1,8 +1,8 @@
 # Lingvao
 
-***Lingvao*** baziĝas sur la ***Latina*** kaj la [***Internaciaj Ortografioj***](latinidaj/README.md) de la ***Latinidaj Lingvoj***. ***Lingvao*** unuiĝas trajtojn de [***Interlingvao***](https://eo.wikipedia.org/wiki/Interlingvao) kaj [***Gloso***](https://eo.wikipedia.org/wiki/Gloso_(planlingvo)). El ***Lingvao*** pruntas [***Ojdo***](oido.md) kaj [***Piĝino***](pigino.md).
+***Lingvao*** baziĝas sur la ***Latina*** kaj la [***Internaciaj Ortografioj***](latinidaj/README.md) de la ***Latinidaj Lingvoj***. ***Lingvao*** havas trajtojn de [***Interlingvao***](https://eo.wikipedia.org/wiki/Interlingvao) kaj [***Gloso***](https://eo.wikipedia.org/wiki/Gloso_(planlingvo)). El ***Lingvao*** pruntas [***Ojdo***](oido.md) kaj [***Piĝino***](pigino.md).
 
-***Arkaika Lingvao*** havas arkaikan prononcon, 
+***Arkaika Lingvao*** havas arkaikan prononcon.
 
 | | Archelingua → Lingua |
 |-|-|
@@ -16,9 +16,15 @@ Duobla konsonanto estas prononcata kiel unuopa konsonanto.
 |-|-|
 | *tero* | **terra** *[terra → tera]* |
 
+La antaŭlasta silabo estas akcentata. Neakcenteblaj silaboj havas vokalon kun hoketo.
+
+| | |
+|-|-|
+| *trajno* | **traĭno** *[trai-no → trajno]* |
+
 ### i, u
 
-En ***Arkaika Lingvao***, la duonvokaloj **ĭ** *[j]* kaj **ŭ** *[=]* estas neakcenteblaj. Ili do ne kalkuliĝas kiel antaŭlasta (t.e. akcentenda) silabo.
+En ***Arkaika Lingvao***, la duonvokaloj **ĭ** *[j]* kaj **ŭ** *[=]* estas neakcenteblaj *[i]* kaj *[u]*.
 
 | | |
 |-|-|
@@ -38,13 +44,20 @@ En ***Lingvao***, radikokomenca **ĭ** *[j]* kaj radikofina **ŭ** *[=]* fariĝa
 | *akvo* | **aqŭa** *[aku-a → akva]* |
 | *lingvo* | **lingŭa** *[lingu-a → lingva]* |
 
-Ankaŭ malantaŭ ŝajnprefikso, radikokomenca **ĭ** *[j]* fariĝas **j** *[ĵ]*. Inter konsonantoj, **ĭ** kaj **ŭ** eliziiĝas. La ŝajnsufikso **-atĭc-** *[atk]* fariĝas **-aj-** *[aĵ]*.
+Inter konsonantoj, **ĭ** *[j]* kaj **ŭ** *[=]* elliziiĝas. La ŝajnsufikso **-atĭc-** *[atk]* fariĝas **-aj-** *[aĵ]*.
+
+| | |
+|-|-|
+| *partikulo*, *partiklo* | **particŭlo** *[partiku-lo]* → **particlo** *[partiklo]* |
+| | |
+| *vojaĵo* | **viatĭco** *[viati-ko]* → **viajo** *[viaĵo]* |
+
+
+Ankaŭ malantaŭ ŝajnprefikso, radikokomenca **ĭ** *[j]* fariĝas **j** *[ĵ]*. Inter konsonantoj, **ĭ** kaj **ŭ** eliziiĝas.
 
 | | |
 |-|-|
 | *projekto* | **proĭecto** *[proiekto]* → **projecto** *[proĵekto]* |
-| | |
-| *vojaĵo* | **viatĭco** *[viati-ko]* → **viajo** *[viaĵo]* |
 
 ### ti
 
@@ -216,7 +229,7 @@ Uziĝas la ŝajnfinaĵo **-o** anstataŭ **-amente**.
 
 ### Numeraloj
 
-La ŝajnsufikso por ordinaloj estas **-esĭma** *[esi-ma]* **-esma** → *[esma]*. En ***Arkaika Lingvao***, ordinaloj de 4 ĝis 10 havas la ŝajnsufikson **-t-**, kaj la numeraloj **un**, **du**, **tri** havas apartajn ordinalojn formojn: **prima**, **secunda** kaj **tertĭa**.
+La ŝajnsufikso por ordinaloj estas **-esĭma** *[esi-ma]* → **-esma** *[=]*. En ***Arkaika Lingvao***, ordinaloj de 4 ĝis 10 havas la ŝajnsufikson **-t-**, kaj la numeraloj **un**, **du**, **tri** havas apartajn ordinalojn formojn: **prima**, **secunda** kaj **tertĭa**.
 
 | | numeralo | ordinalo |
 |-|-|-|
@@ -240,13 +253,11 @@ Estas kvin korelativoj kun la finaĵoj **-i**, **-e**, **-a**, **-o** kaj **-u**
 
 | | |
 |-|-|
-| *kiu* | **qŭi** |
-| *kio* | **qŭe** |
-| *kia*, *kiu* | **qŭa** |
-| *kie*, *kiel*, *kial*, *kiam*, *kiom* | **qŭo** |
-| *kien* | **qŭu** |
-
-***TODO*** kies
+| *kiu* | **qŭi** *[kui' → kŭi]* |
+| *kio* | **qŭe** *[kue' → kŭe]* |
+| *kia*, *kiu*, *kies* | **qŭa** *[kua' → kŭa]* |
+| *kie*, *kiel*, *kial*, *kiam*, *kiom* | **qŭo** *[kuo' → kŭo]* |
+| *kien* | **qŭu** *[kuu' → kŭu]* |
 
 Korelativoj je **-e** ricevas la multenombran finaĵon **-s**.
 
@@ -260,16 +271,16 @@ Korelativoj je **-e** ricevas la multenombran finaĵon **-s**.
 |-|-|-|
 | *fore tiuj domoj*, *la domoj* | **la domos** | **las domos** |
 
-Estas kvin ŝajnkorelativoj kun la ŝajnfinaĵoj **-al**, **-el**, **-er** kaj **-am**, **-om**.
+Estas kvin ŝajnkorelativoj kun la ŝajnfinaĵoj **-ale**, **-are** kaj **-ad**, **-am**, **-om**.
 
 | | |
 |-|-|
-| *kia* | **qŭale** *[kuale]* → **qŭal** *[kŭal]* |
-| *kiel* | **qŭäle** *[kuele]* → **qŭel** *[kŭel]* |
-| *kial* | **qŭäre** *[kuere]* → **qŭer** *[kŭer]* |
+| *kies*, *kia* | **qŭale** *[kuale → kŭale]* |
+| *kial* | **qŭare** *[kuare → kŭare]* |
 | | |
-| *kiam*, *kiel* | **quam** (= **quando**) |
-| *kiom*, *-*, *ke* | **quom** (= **quanto**, **come**, **ke**) |
+| *kiam* | **qŭad** *[kuad' → kŭad]* (= **qŭando**) |
+| *kiom* | **qŭam** *[kuam' → kŭam]* (= **qŭanto**) |
+| *kiel* | **qŭom** *[kuom' → kŭom]* (= **como**) |
 
 ***En poezio***, la korelativoj **qŭe** kaj **qŭa** ricevas la finaĵon **-u** anstataŭ la akuzativan prepozicion **a**.
 
@@ -278,19 +289,6 @@ Estas kvin ŝajnkorelativoj kun la ŝajnfinaĵoj **-al**, **-el**, **-er** kaj *
 | | | |
 | *kion* | **a qŭe** | **qŭu** |
 | *kiun* | **a qŭa** | **qŭu** |
-
-| | |
-|-|-|
-| *kio* | **qŭe** |
-| | |
-| *ĉio* | **omne** |
-| *nenio* | **none** |
-| *io* | **one** |
-| | |
-| *jen tio* | **he** |
-| *ĉi tio* | **je** |
-| *tio* | **te** |
-| *fore tio* | **le** |
 
 La formo **nono** *(neniel)* uziĝas nur ***tra bruo*** anstataŭ la kutima formo **no**.
 
@@ -471,4 +469,9 @@ Por alativo, lokativo, ablativo uziĝas la prepozicioj **de**, **in**, **ad**. P
 | *vin mi vidas* | **a ti mi vide** |
 
 ### Konjunkcioj
+
+| | |
+|-|-|
+| *ke* | **qŭom**, **qŭo** (= **co**) |
+
 

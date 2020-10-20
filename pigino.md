@@ -1,77 +1,41 @@
 # Piĝino
 
-***TODO*** qŭ- [kv] -> [ku] -> qŭi [ki]
+***TODO*** Eĉ se ni supozos...
 
-***TODO*** Prapiĝino venas post Piĝino.
-
-> **Se ni eĉ supposos, qŭe la fina linguo de la s̈tontaĭ generatīoĭ s̈tas ne S̈peranto, en ĉia occaso la vĩo al tiu ellaborota linguo nepre devas conduqŭi tra S̈peranto.** *[Se ni eĉ supozos, ke la fina lingvo de la estontaj generacioj estas ne esperanto, en ĉia okazo la vojo al tiu ellaborota lingvo nepre devas konduki tra esperanto.]* →
-> **Se ni ech supposos, que la fina linguo de la estontai generatioi estas ne Esperanto, en chia occaso la voio al tiu ellaborota linguo nepre devas conduqui tra Esperanto.** *[Se ni eĉ supozos, ke la fina lingvo de la estontaj ĵenerasioj estas ne Esperanto, en ĉia okazo la vojo al tiu ellaborota lingvo nepre devas konduki tra Esperanto.]*
-> ---
-> L. L. Zamenhof
-
-***Piĝino*** pruntas elementojn el [***Lingua***](lingua.md), [***Sprak***](sprak.md) kaj [***Äzyk***](jazyk.md). La fonetika skribo de ***Prapiĝino*** estas identa kun la ortografio de ***Esperanto***.
+***Piĝino*** pruntas el [***Ojdo***](lingua.md) kaj el [***Lingvao***](lingua.md), [***Sprako***](sprak.md) kaj [***Jaziko***](jazyk.md). ***Piĝino*** havas trajtojn de [***Esperanto***](https://eo.wikipedia.org/wiki/Esperanto).
 
 ## Prononco
 
-***Piĝino*** havas sian propran fonetikan skribon (inter *[kvadrataj krampoj]*).
-
-| |
-|-|
-| **acqŭiri** *[akiri]* |
-| **amico** *[amiko]* |
-| **canti** *[kanti]* |
-| **culturo** *[kulturo]* |
-| **facto** *[fakto]* |
-| **impliqŭi** *[impliki]* |
-| **indiqŭi** *[indiki]* |
-| **terro** *[tero]* |
-| **voqŭi** *[voki]* |
-| |
-| **domo** *[=]* |
-| **familio** *[=]* |
-| **implici** *[=]* |
-
-Sago (→) signifas diferencon inter ***Prapiĝino*** kaj ***Piĝino***, ĉu ortografie aŭ prononce.
-
-| |
-|-|
-| **legi** → **legŭi** *[legi]* |
-
-| Dio | Planedo | Tago |
-|-|-|-|
-| **Ĭupitero** *[jupitero]* → **Jupitero** *[ĵupitero]* | **=** → **Jovo** *[ĵovo]* | **ĵaŭdıo** *[ĵaŭdo]* → **jovedo** *[ĵovedo]* |
-| **Luno** *[=]* | **=** | **lunĕdıo** *[lundo]* → **lunedo** *[=]* |
-| **Marso** *[=]* | **=** → **Marto** *[=]* | **martĕdıo** *[mardo]* → **martedo** *[=]* |
-| **Mercuro** *[merkuro]* | **=** → **Mercro** *[merkro]* | ***mercŭredıo*** *[merkredo]* → **mercredo** *[merkredo]* |
-| **Venusso** *[venuso]* | **=** → **Venro** *[=]* | **venĕredıo** *[vendredo]* → **venredo** *[=]* |
+Vd. [prononco en ***Ojdo***](oido.md#prononco).
 
 ### i, u
 
+Post konsonanto, radikofina **i** kutime eliziiĝas. Kiam ĝi ne eliziiĝas sed akcentiĝas, ĝi skribiĝas **ī**.
+
+| | |
+|-|-|
+| *ekvilibro* | **equilibrio** *[ekvilibro]* |
+| | |
+| *ebria* | **ebrīa** *[ebria]* |
+| *familio* | **familīo** *[familio]* |
+
 ### ti
 
-En ***Piĝino***, radikofinaj **tĕ**/**tĭ** *[c]* kaj **ţ** *[s]* skribiĝas **z**/**c** respective **s**, sed **stĭ** *[st]* skribiĝas **st**. **tī** *[ci]* prononciĝas *[si]*.
+Kiam radikofina **i** eliziiĝas post **t** *[c]*, skribiĝas **z** *[c]*. (Radikofina **sti** *[st]* skribiĝas **st**.)
 
-| |
-|-|
-| **marto** *[marto]* → **marzo** *[marco]* |
-| **potentĭo** → **potenzo** *[potenco]* |
-| **platĕo** → **plazo** *[placo]* |
-| **spatĭo** → **spazo** *[spaco]* |
-| |
-| **Marţo** → **Marso** *[marso]* |
-| **senţo** *[senso]* → **sentumo** *[sentumo]* |
-| |
-| **bestĭo** → **besto** *[besto]* |
-| |
-| **democratio** *[demokratio]* → **democratīo** *[demokrasio]* |
-| **evolutīo** *[evolucio]* → *[evolusio]* |
-| **garantio** *[=]* → **garantīo** *[garancio]* |
-| **natīo** *[nacio]* → *[nasio]* |
-| **patīentĭo** *[pacienco]* → **patīenzo** *[pasienco]* |
-| **potentīalo** *[potencialo]* → *[potensialo]* |
-| **sentĭo** *[senco]* → **senso** *[senso]* |
+| | |
+|-|-|
+| *potenco* | **potentio** → **potenzo** *[potenco]* |
+| *potencialo* | **potentialo** *[potencjalo]* → *[potensjalo]* |
+| | |
+| *spaco* | **spatio** → **spazo** *[spaco]* |
+| *placo* | **plazo** *[placo]* |
+| | |
+| *besto* | **bestio** → **besto** *[besto]* |
 
 ### ci, gi, j
+
+---
 
 ***TODO*** j -> i, u
 
@@ -319,7 +283,6 @@ En ***akĉenta Piĝino***, **aŭ** kaj **eŭ** prononciĝas *[o]* kaj *[u]*, dum
 | |
 | **Eŭropo** *[eŭropo]* → *[uropo]* |
 | |
-| **maĭo** *[majo]* → *[meo]* |
 | **semaĭno** *[semajno]* → *[semeno]* |
 | **traĭno** *[trajno]* → *[treno]* |
 | |
@@ -474,4 +437,37 @@ En ***hispan-akĉenta Piĝino***, prononciĝas *[ĥ]* anstataŭ *[ĵ]*/*[ĝ]*, d
 | *Mi vidas vin.* | **Mi vidas a vi.** ← **Mi vidas na vi.** |
 
 ### Konjunkcioj
+
+***TODO***
+
+| Dio | Planedo | Tago |
+|-|-|-|
+| **Ĭupitero** *[jupitero]* → **Jupitero** *[ĵupitero]* | **=** → **Jovo** *[ĵovo]* | **ĵaŭdıo** *[ĵaŭdo]* → **jovedo** *[ĵovedo]* |
+| **Luno** *[=]* | **=** | **lunĕdıo** *[lundo]* → **lunedo** *[=]* |
+| **Marso** *[=]* | **=** → **Marto** *[=]* | **martĕdıo** *[mardo]* → **martedo** *[=]* |
+| **Mercuro** *[merkuro]* | **=** → **Mercro** *[merkro]* | ***mercŭredıo*** *[merkredo]* → **mercredo** *[merkredo]* |
+| **Venusso** *[venuso]* | **=** → **Venro** *[=]* | **venĕredıo** *[vendredo]* → **venredo** *[=]* |
+
+***TODO*** qŭ- [kv] -> [ku] -> qŭi [ki]
+
+***TODO*** estas aparta temo, kiel skribi tiajn vortojn en Esperanto (simile kiel la h-sistemo)
+
+---
+
+En ***Piĝino***, radikofina **ţ** *[s]* skribiĝas **z**/**c** respective **s**. **tī** *[ci]* prononciĝas *[si]*.
+
+| |
+|-|
+| **marto** *[marto]* → **marzo** *[marco]* |
+| |
+| **Marţo** → **Marso** *[marso]* |
+| **senţo** *[senso]* → **sentumo** *[sentumo]* |
+| |
+| **democratio** *[demokratio]* → **democratīo** *[demokrasio]* |
+| **evolutīo** *[evolucio]* → *[evolusio]* |
+| **garantio** *[=]* → **garantīo** *[garancio]* |
+| **natīo** *[nacio]* → *[nasio]* |
+| **patīentĭo** *[pacienco]* → **patīenzo** *[pasienco]* |
+| **sentĭo** *[senco]* → **senso** *[senso]* |
+
 
