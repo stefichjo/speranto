@@ -1,5 +1,8 @@
 # Português
 
+pons.de:
+quando [Port ˈkwɐ̃du, Brasˈkwɜ̃ŋdu]
+
 ## Voc̆ales
 
 ### a
@@ -13,20 +16,25 @@
 
 #### -na → -a
 
-##### -ana → -a
+##### -ana → -ã
 
 * **sană** [sã]
 * **capitană** [capitã] 
-* **...ană** [irmã]
+* **ğėrmană** [irmã]
 
 * **lană** [lã]
 * **rană** [rã]
 
-##### -ona/-una → -oa/-ua
+* **seman̄a** [semana] /**semana**/**semāna** (?)
+
+##### -ona → -oa
 
 * **bon̆a** [boa]
-* **lun̆a** [lua]
 * **coron̆a** [coroa]
+
+##### -una → -ua
+
+* **lun̆a** [lua]
 
 #### o → ao
 
@@ -50,6 +58,17 @@
 
 * **marĕ** [mar]
 
+### i
+
+#### li → lh
+
+* **filĭo** [filho]
+* **mulĭerĕ** [mulher]
+
+#### ni → nh
+
+* **banĭo** [banho]
+
 ### o
 
 #### a → o
@@ -60,18 +79,13 @@
 * **tåuro** [touro]
 * **åuro** [ouro]
 
-#### -na → -a
-
-##### -ana → -a
-##### -ona/-una → -oa/-ua
-
 #### -no → -n
 
 ##### -ano → -ão
 
 * **sano** [são]
 * **capitano** [capitão]
-* **...ano** [irmão]
+* **ğėrmano** [irmão]
 
 ##### -ono/-uno → -om/-uno
 
@@ -133,6 +147,19 @@
 * **pluma** [=]
 * **płumbo** [chumbo]
 
+### l
+
+#### l → l [u]
+
+* **alto** [=]
+
+* **åltro** [outro]
+
+#### l → i
+
+* **finalĕ** [final]
+* **finalĕs** [finais]
+
 ### n
 
 * **con** [com]
@@ -170,12 +197,14 @@ ana humana
 * **portones** [portões]
 
 
-#### n → i
+#### ?
 
 * **pœna** [pena]
 * **mïnůs** [menos]
 * **scena** [cena]
 * **sïno** [seno]
+
+#### n → i
 
 * **ceṅa** [ceia]
 * **veṅa** [veia]
@@ -189,6 +218,11 @@ ana humana
 
 * **men̆sa** [mesa]
 
+### t
+
+#### t → -
+
+* **åut** [ou]
 
 ---
 
@@ -206,7 +240,7 @@ ana humana
 * raiz [rais]
 * país [pais]
 
-* mais [majs]
+* mağis [majs]
 
 * faz [fas] → faiz [faş = fajŝ]
 * paz [pas]
@@ -279,15 +313,6 @@ ana humana
 ##### dĭ
 
 * *hoje* []: **hodĭe**
-
-##### lĭ
-
-* *filho* []: **filĭo**
-* *mulher* []: **mulĭerĕ**
-
-##### nĭ
-
-* *banho* []: **banĭo**
 
 ##### sĭ
 
@@ -399,7 +424,7 @@ ana humana
 
 #### ğ
 
-* *eu* []: **eğo**
+* **eğo** [eu] 
 
 ### l
 
