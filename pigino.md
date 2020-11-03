@@ -1,72 +1,43 @@
 # Piĝino
 
-> **Se ni eĉ supposos, qŭe la fina linguo de la s̈tontaĭ generatīoĭ s̈tas ne S̈peranto, en ĉia occaso la vĩo al tiu ellaborota linguo nepre devas conduqŭi tra S̈peranto.** *[Se ni eĉ supozos, ke la fina lingvo de la estontaj generacioj estas ne esperanto, en ĉia okazo la vojo al tiu ellaborota lingvo nepre devas konduki tra esperanto.]* →
-> **Se ni ech supposos, que la fina linguo de la estontai generatioi estas ne Esperanto, en chia occaso la voio al tiu ellaborota linguo nepre devas conduqui tra Esperanto.** *[Se ni eĉ supozos, ke la fina lingvo de la estontaj ĵenerasioj estas ne Esperanto, en ĉia okazo la vojo al tiu ellaborota lingvo nepre devas konduki tra Esperanto.]*
-> ---
-> L. L. Zamenhof
+***TODO*** Eĉ se ni supozos...
 
-***Piĝino*** pruntas elementojn el [***Lingua***](lingua.md), [***Sprak***](sprak.md) kaj [***Äzyk***](jazyk.md). La fonetika skribo de ***Prapiĝino*** estas identa kun la ortografio de ***Esperanto***.
+***Piĝino*** pruntas el [***Ojdo***](lingua.md) kaj el [***Lingvao***](lingua.md), [***Sprako***](sprak.md) kaj [***Jaziko***](jazyk.md). ***Piĝino*** havas trajtojn de [***Esperanto***](https://eo.wikipedia.org/wiki/Esperanto).
 
-## Ortografio
+## Prononco
 
-***Piĝino*** havas sian propran fonetikan skribon (inter *[kvadrataj krampoj]*). Nemalofte la fonetika skribo de ***Piĝino*** estas identa kun ĝia etimologia skribo.
+Vd. [prononco en ***Ojdo***](oido.md#prononco).
 
-| |
-|-|
-| **amico** *[amiko]* |
-| **canti** *[kanti]* |
-| **culturo** *[kulturo]* |
-| **facto** *[fakto]* |
-| **impliqŭi** *[impliki]* |
-| **indiqŭi** *[indiki]* |
-| **terro** *[tero]* |
-| **voqŭi** *[voki]* |
-| |
-| **domo** *[=]* |
-| **familio** *[=]* |
-| **implici** *[=]* |
+### i, u
 
-Sago (→) signifas diferencon inter ***Prapiĝino*** kaj ***Piĝino***, ĉu ortografie aŭ prononce.
+Post konsonanto, radikofina **i** kutime eliziiĝas. Kiam ĝi ne eliziiĝas sed akcentiĝas, ĝi skribiĝas **ī**.
 
-| |
-|-|
-| **legi** → **legŭi** *[legi]* |
+| | |
+|-|-|
+| *ekvilibro* | **equilibrio** *[ekvilibro]* |
+| | |
+| *ebria* | **ebrīa** *[ebria]* |
+| *familio* | **familīo** *[familio]* |
 
-| Dio | Planedo | Tago |
-|-|-|-|
-| **Ĭupitero** *[jupitero]* → **Jupitero** *[ĵupitero]* | **=** → **Jovo** *[ĵovo]* | **ĵaŭdıo** *[ĵaŭdo]* → **jovedio** *[ĵovedio]* |
-| **Luno** *[=]* | **=** | **lunĕdıo** *[lundo]* → **lunedio** *[=]* |
-| **Marso** *[=]* | **=** → **Marto** *[=]* | **martĕdı** *[mardo]* → **martedio** *[=]* |
-| **Mercuro** *[merkuro]* | **=** → **Mercro** *[merkro]* | ***mercŭredıo*** *[merkredo]* → **mercredio** *[merkredio]* |
-| **Venusso** *[venuso]* | **=** → **Venro** *[=]* | **venĕredıo** *[vendredo]* → **venredio** *[=]* |
+### ti
 
-### Latinidaj Vortoj
+Kiam radikofina **i** eliziiĝas post **t** *[c]*, skribiĝas **z** *[c]*. (Radikofina **sti** *[st]* skribiĝas **st**.)
 
-#### ti
+| | |
+|-|-|
+| *potenco* | **potentio** → **potenzo** *[potenco]* |
+| *potencialo* | **potentialo** *[potencjalo]* → *[potensjalo]* |
+| | |
+| *spaco* | **spatio** → **spazo** *[spaco]* |
+| *placo* | **plazo** *[placo]* |
+| | |
+| *besto* | **bestio** → **besto** *[besto]* |
 
-En ***Piĝino***, radikofinaj **tĕ**/**tĭ** *[c]* kaj **ţ** *[s]* skribiĝas **z**/**c** respective **s**, sed **stĭ** *[st]* skribiĝas **st**. **tī** *[ci]* prononciĝas *[si]*.
+### ci, gi, j
 
-| |
-|-|
-| **marto** *[marto]* → **marzo** *[marco]* |
-| **potentĭo** → **potenzo** *[potenco]* |
-| **platĕo** → **plazo** *[placo]* |
-| **spatĭo** → **spazo** *[spaco]* |
-| |
-| **Marţo** → **Marso** *[marso]* |
-| **senţo** *[senso]* → **sentumo** *[sentumo]* |
-| |
-| **bestĭo** → **besto** *[besto]* |
-| |
-| **democratio** *[demokratio]* → **democratīo** *[demokrasio]* |
-| **evolutīo** *[evolucio]* → *[evolusio]* |
-| **garantio** *[=]* → **garantīo** *[garancio]* |
-| **natīo** *[nacio]* → *[nasio]* |
-| **patīentĭo** *[pacienco]* → **patīenzo** *[pasienco]* |
-| **potentīalo** *[potencialo]* → *[potensialo]* |
-| **sentĭo** *[senco]* → **senso** *[senso]* |
+---
 
-#### ci, gi, j
+***TODO*** j -> i, u
 
 En ***Prapiĝino***, la skriboj por **ĉ** *[ĉ]*, **ċ** *[c]*, **ĝ** *[ĝ]* (t.e. plozivaj frikativoj) kaj **çh** *[ŝ]*, **ç** *[s]*, **ĵ** *[ĵ]* (t.e. ne-plozivaj frikativoj) estas fiksitaj. (La skribo de **ĝ** povas varii laŭ la etimologio jen al **dĵ**, jen al **j**.) (La skribo **çh** surogatas la skribon **^ç**.)
 
@@ -108,14 +79,19 @@ En ***Piĝino***, la skriboj varias laŭ ilia pozicio, t.e. ĉu ili estas radiko
 | **ĉarmo** *[=]* → **çharmo** *[ŝarmo]* |
 | **ĉä** *[ĉe]* → **çhe** *[ŝe]* |
 | **ĉämisĭo** *[ĉemizo]* → **çhemiso** *[ŝemizo]* |
+| **som̃njo** → **sonjo** *[sonĝo]* |
 | **tuçhi** → **tushi** *[tuŝi]* |
 | |
+| **appodȷi** *[apogi]* → **appogi** *[apoĝi]* |
+| **menţonȷo** *[mensogo]* → **mensogo** |
 | **leĝo** → **lejo** *[leĝo]* |
 | **nevjo** → **nejo** *[neĝo]* |
 | **messajo** *[mesaĝo]* |
 | **manĝi** *[=]* → **mangi** |
+| **preĝi** *[=]* → **pregi** |
 | **ruvja** → **ruja** *[ruĝa]* |
 | **sedjo** → **sejo** *[seĝo]* |
+| **sẽdjo** → **siejo** *[sieĝo]* |
 | |
 | **dolĉaĵo** → **dolçhajo** *[dolĉaĵo]* |
 | **ĝenerala** *[ĝenerala]* → **generala** *[ĵenerala]* |
@@ -132,9 +108,11 @@ En ***Piĝino***, la skriboj varias laŭ ilia pozicio, t.e. ĉu ili estas radiko
 | |
 | **obĭecto** *[objekto]* → **objecto** *[obĵekto]* |
 
-#### qu, c, g
+### qu, c, g
 
-Inter konsonantoj, **u** prononciĝas *[u]*. Inter konsonanto kaj vokalo (aŭ radikofino), **u** prononciĝas *[v]*, kaj **ū** restas *[u]*. Post vokalo, ĝi fariĝas **ŭ** *[ŭ]*. Post konsonanto, **ŭ** estas muta.
+***TODO*** aliaj dialektoj ne havas tiun chi sekcion
+
+Inter konsonantoj, **u** prononciĝas *[u]*. Inter konsonanto kaj vokalo (aŭ radikofino), **u** prononciĝas *[v]*, kaj **ū** restas *[u]*. Post vokalo, ĝi fariĝas **ŭ** *[ŭ]*. ***TODO*** Post konsonanto, **ŭ** estas muta.
 
 | |
 |-|
@@ -156,20 +134,9 @@ Inter konsonantoj, **u** prononciĝas *[u]*. Inter konsonanto kaj vokalo (aŭ ra
 | **qŭe** *[ke]* |
 | (**kio** → **qŭio** *[kio]* ) |
 
-#### ss, s
+### s, x
 
-| |
-|-|
-| **masso** *[maso]* |
-| |
-| **roso** *[rozo]* |
-
-#### x
-
-| |
-|-|
-| **exemplo** *[ekzemplo]* |
-| **fixi** *[fiksi]* |
+### r, l
 
 ### Grekaj Vortoj
 
@@ -217,28 +184,29 @@ Samkiel en **aŭ** [aŭ], **ŭ** prononciĝas [ŭ] en **eŭ**. Tra bruo, **y** p
 |-|
 | **shippo** *[ŝipo]* |
 | **kekso** *[kekso]* |
-| **yaro** *[jaro]* |
+| **y̆aro** *[jaro]* |
 | **fisho** *[fiŝo]* |
 | **shranko** *[ŝranko]* |
 | **shuo** *[ŝuo]* |
 | **y̆es** *[jes]* |
 | |
 | **æn** → **aĭn** *[ajn]* |
-| **bilđo** → **bildo** *[bildo]* |
+| **bilđo** → **bildo** *[=]* |
 | **tollo** → **çollo** *[colo]* |
-| **đrinki** → **drinki** *[drinki]* |
+| **đrinki** → **drinki** *[=]* |
 | **fĩna** → **faĭna** *[fajna]* |
-| **lũda** → **laŭta** *[laŭta]* |
-| **milđa** → **milda** *[milda]* |
+| **kĩŧo** → **kaĭto** *[kajto]* |
+| **lũda** → **laŭta** *[=]* |
+| **milđa** → **milda** *[=]* |
 | **pelŧo** → **pelto** *[pelto]* |
 | **shĩni** → **shaĭni** *[ŝajni]* |
 | **shilđo** → **shildo** *[ŝildo]* |
-| **slimo** → **ŝlimo** *[ŝlimo]* |
-| **snuro** → **ŝnuro** *[ŝnuro]* |
-| **spruti** → **ŝpruci** *[ŝpruci]* |
-| **stalo** → **ŝtalo** *[ŝtalo]* |
-| **staŧo** → **ŝtato** *[ŝtato]* |
-| **drinki** → **trinki** *[trinki]* |
+| **slimo** → **ŝlimo** *[=]* |
+| **snuro** → **ŝnuro** *[=]* |
+| **spruti** → **ŝpruci** *[=]* |
+| **stalo** → **ŝtalo** *[=]* |
+| **staŧo** → **ŝtato** *[=]* |
+| **drinki** → **trinki** *[=]* |
 | |
 | **warma** *[varma]* → *[ŭarma]* |
 | |
@@ -249,12 +217,16 @@ Samkiel en **aŭ** [aŭ], **ŭ** prononciĝas [ŭ] en **eŭ**. Tra bruo, **y** p
 
 | |
 |-|
-| **biero** *[biero]* |
-| **boato** *[boato]* |
-| **memeo** *[memeo]* |
+| **biero** *[=]* |
+| **boato** *[=]* |
+| **hobbyo** *[hobio]* |
+| **memeo** *[=]* |
 | **naĭlo** *[najlo]* |
+| **partyo** *[partio]* |
 | **Reĭno** *[rejno]* |
-| **teamo** *[teamo]* |
+| **stranga** *[=]* |
+| **teamo** *[=]* |
+| **traĭto** *[trajto]* |
 | |
 | **stono** → **ŝtono** *[ŝtono]* |
 
@@ -281,7 +253,6 @@ En ***akĉenta Piĝino***, latinidaj vortoj ĉie prononciĝas kun *[c]*, *[ĉ]*,
 
 | |
 |-|
-| **ĉhamĕro** *[ĉambro]* → **çhamro** *[ŝamro]* → *[ĉamro]* |
 | **domaĉo** *[=]* → **domaçho** *[domaŝo]* → *[domaĉo]* |
 
 En ***akĉenta Piĝino***, **ct** *[kt]* prononciĝas *[t]*.
@@ -301,16 +272,17 @@ En ***akĉenta Piĝino***, **i** kaj **u** inter konsonanto kaj vokalo prononci�
 | |
 | **qualito** *[kvalito]* → *[kŭalito]* |
 
-En ***akĉenta Piĝino***, **aŭ** prononciĝas *[o]*, dum **aĭ** kaj **eĭ** prononciĝas *[e]*. Simile, **ĩ** *[oj]* prononciĝas *[i]*.
+En ***akĉenta Piĝino***, **aŭ** kaj **eŭ** prononciĝas *[o]* kaj *[u]*, dum **aĭ** kaj **eĭ** prononciĝas *[e]*. Simile, **ĩ** *[oj]* prononciĝas *[i]*.
 
 | |
 |-|
 | **åŭro** *[oro]* → **aŭro** *[=]* → *[oro]* |
 | **aŭsculti** *[aŭskulti]* → *[osculti]* |
-| **caŭsi** *[kaŭzi]* → *[kozo]* |
+| **caŭsi** *[kaŭzi]* → *[kozi]* |
 | **paŭso** *[paŭzo]* → *[pozo]* |
 | |
-| **maĭo** *[majo]* → *[meo]* |
+| **Eŭropo** *[eŭropo]* → *[uropo]* |
+| |
 | **semaĭno** *[semajno]* → *[semeno]* |
 | **traĭno** *[trajno]* → *[treno]* |
 | |
@@ -339,13 +311,12 @@ En ***akĉenta Piĝino***, la tabelvorta ŝajnprefikso **ne-** estas ellasebla.
 |-|
 | **nenio** *[nenio]* ← **ne 'n io** → **nio** *[=]* |
 
-***TODO***
+En ***akĉenta Piĝino***, **mr** kaj **nr** prononciĝas *[mbr]* kaj *[ndr]*.
 
-*Lingvaismo:* La *cela* finaĵo **-en** mallongiĝas al **-n** kaj fariĝas finaĵo por *akuzativo*. *Tra bruo*, uziĝas anstataŭe la (neologisma) *akuzativa* prepozicio **a**.
-
-| | Piĝino |
-|:-|:-|
-| *Mi vidas domon.* | **Mi vidas domon.** ← **Mi vidas a domo.** |
+| |
+|-|
+| **ĉhamĕro** *[ĉambro]* → **çhamro** *[ŝamro]* → *[ĉambro]* |
+| **venĕredıo** *[vendredo]* → **venredo** *[=]* → *[vendredo]* |
 
 ### Itala
 
@@ -369,14 +340,20 @@ En ***ital-akĉenta Piĝino***, la *[e]* antaŭ **s̈** mutas.
 | **S̈peranto** *[esperanto]* → **Esperanto** *[=]* → *[speranto]* |
 | **s̈ti** → **esti** *[esti]* → *[sti]* |
 
-En ***ital-akĉenta Piĝino***, **x** *[ks]*/*[kz]* prononciĝas *[s]*/*[z]*. Simile, **ps** *[ps]* prononciĝas *[s]*.
+En ***ital-akĉenta Piĝino***, **x** *[ks]*/*[gz]* prononciĝas *[s]*/*[z]*. Simile, **ps** *[ps]* prononciĝas *[s]*.
 
 | |
 |-|
 | **texto** *[teksto]* → *[testo]* |
-| **exemplo** *[ekzemplo]* → *[ezemplo]* |
+| **exemplo** *[egzemplo]* → *[ezemplo]* |
 | |
 | **psalmo** *[=]* → *[salmo]* |
+
+Duobla konsonanto prononciĝas duoble.
+
+| |
+|-|
+| **terro** *[tero]* → *[terro]* |
 
 ### Franca
 
@@ -384,12 +361,15 @@ En ***franc-akĉenta Piĝino***, latinidaj vortoj ĉie prononciĝas kun *[s]*, *
 
 | |
 |-|
-| **caŝi** *[kaŝi]* → **caçhi** *[kaĉi]* → *[kaŝi]* |
 | **ĉhaţi** *[ĉasi]* → **çhaci** *[ŝaci]* → *[ŝasi]* |
 | **farço** *[farso]* → **farzo** *[farco]* → *[farso]* |
+| |
+| **caŝi** *[kaŝi]* → **caçhi** *[kaĉi]* → *[kaŝi]* |
 | **tuŝi** *[tuŝi]* → **tuçhi** *[tuĉi]* → *[tuŝi]* |
+| |
+| **corsaĵo** *[korsaĵo]* → **corsajo** *[korsaĝo]* → *[korsaĵo]* |
 
-La ŝajnsufikso **-in** prononciĝas *[en]*.
+En ***franc-akĉenta Piĝino***, la ŝajnsufikso **-in** prononciĝas *[en]*.
 
 | |
 |-|
@@ -398,9 +378,96 @@ La ŝajnsufikso **-in** prononciĝas *[en]*.
 
 ### Hispana
 
-En ***franc-akĉenta Piĝino***, prononciĝas *[ĥ]* anstataŭ *[ĵ]*/*[ĝ]*, dum *[θ]* prononciĝas anstataŭ *[s]*/*[c]*.
+En ***hispan-akĉenta Piĝino***, prononciĝas *[ĥ]* anstataŭ *[ĵ]*/*[ĝ]*, dum *[θ]* prononciĝas anstataŭ *[s]*/*[c]*.
 
 | |
 |-|
 | **generatīo** *[generacio]* → *[ĵenerasio]* → *[ĥeneraθio]* |
+
+***TODO*** nomo de sono ("ce") kaj nomo de litero ("ko")
+
+***TODO*** al/ad -> a? (ofte io nomata? persono?)
+
+***TODO*** na (ludo, sistemo, suprajho) (ofte io nomata? objekto?)
+
+***TODO*** nomoi ne besonas accusativon
+
+## Gramatiko
+
+### Substantivoj
+
+### Adjektivoj
+
+### Adverboj
+
+### Numeraloj
+
+### Korelativoj
+
+### Artikoloj
+
+### Pronomoj
+
+### Verboj
+
+### Prepozicioj
+
+***TODO***
+
+***TODO***
+
+*Lingvaismo:* La *cela* finaĵo **-en** mallongiĝas al **-n** kaj fariĝas finaĵo por *akuzativo*. *Tra bruo*, uziĝas anstataŭe la (neologisma) *akuzativa* prepozicio **a**.
+
+| | Piĝino |
+|:-|:-|
+| *Mi vidas domon.* | **Mi vidas domon.** ← **Mi vidas a domo.** |
+
+***TODO***
+
+*Jazikismo:* (neologisma) **na**
+
+| | Piĝino |
+|:-|:-|
+| *ludi la gitaron* | **ludi la gitarron** ← **ludi na la gitarro** |
+
+*Tra bruo*, uziĝas **a** aŭ, anstataŭe, **na**.
+
+| | Piĝino |
+|:-|:-|
+| *Mi vidas vin.* | **Mi vidas a vi.** ← **Mi vidas na vi.** |
+
+### Konjunkcioj
+
+***TODO***
+
+| Dio | Planedo | Tago |
+|-|-|-|
+| **Ĭupitero** *[jupitero]* → **Jupitero** *[ĵupitero]* | **=** → **Jovo** *[ĵovo]* | **ĵaŭdıo** *[ĵaŭdo]* → **jovedo** *[ĵovedo]* |
+| **Luno** *[=]* | **=** | **lunĕdıo** *[lundo]* → **lunedo** *[=]* |
+| **Marso** *[=]* | **=** → **Marto** *[=]* | **martĕdıo** *[mardo]* → **martedo** *[=]* |
+| **Mercuro** *[merkuro]* | **=** → **Mercro** *[merkro]* | ***mercŭredıo*** *[merkredo]* → **mercredo** *[merkredo]* |
+| **Venusso** *[venuso]* | **=** → **Venro** *[=]* | **venĕredıo** *[vendredo]* → **venredo** *[=]* |
+
+***TODO*** qŭ- [kv] -> [ku] -> qŭi [ki]
+
+***TODO*** estas aparta temo, kiel skribi tiajn vortojn en Esperanto (simile kiel la h-sistemo)
+
+---
+
+En ***Piĝino***, radikofina **ţ** *[s]* skribiĝas **z**/**c** respective **s**. **tī** *[ci]* prononciĝas *[si]*.
+
+| |
+|-|
+| **marto** *[marto]* → **marzo** *[marco]* |
+| |
+| **Marţo** → **Marso** *[marso]* |
+| **senţo** *[senso]* → **sentumo** *[sentumo]* |
+| |
+| **democratio** *[demokratio]* → **democratīo** *[demokrasio]* |
+| **evolutīo** *[evolucio]* → *[evolusio]* |
+| **garantio** *[=]* → **garantīo** *[garancio]* |
+| **natīo** *[nacio]* → *[nasio]* |
+| **patīentĭo** *[pacienco]* → **patīenzo** *[pasienco]* |
+| **sentĭo** *[senco]* → **senso** *[senso]* |
+
 

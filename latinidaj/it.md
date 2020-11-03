@@ -822,7 +822,7 @@
 
 ### t̯
 
-* **libertat̯** = **libertad** [libertà]
+* **libertat̯ĕ** = **libertad** [libertà]
 * **mat̯re** [madre]
 * **pat̯re** [padre]
 

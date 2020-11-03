@@ -1,6 +1,253 @@
 # Português
 
+pons.de:
+quando [Port ˈkwɐ̃du, Brasˈkwɜ̃ŋdu]
+
 ## Voc̆ales
+
+### a
+
+#### a → ao
+
+* **pãnĕ** [pão]
+
+* **canes** [cães]
+* **cãnĕ** [cão]
+
+#### -na → -a
+
+##### -ana → -ã
+
+* **sană** [sã]
+* **capitană** [capitã] 
+* **ğėrmană** [irmã]
+
+* **lană** [lã]
+* **rană** [rã]
+
+* **seman̄a** [semana] /**semana**/**semāna** (?)
+
+##### -ona → -oa
+
+* **bon̆a** [boa]
+* **coron̆a** [coroa]
+
+##### -una → -ua
+
+* **lun̆a** [lua]
+
+#### o → ao
+
+* **nõn** [não]
+
+### e
+
+#### e → -
+
+##### -le → -l
+
+* **salĕ** [sal]
+* **solĕ** [sol]
+
+##### -ne → -n
+
+* **benĕ** [bem]
+* **rėnĕ** [rim]
+
+##### -re → -r
+
+* **marĕ** [mar]
+
+### i
+
+#### li → lh
+
+* **filĭo** [filho]
+* **mulĭerĕ** [mulher]
+
+#### ni → nh
+
+* **banĭo** [banho]
+
+### o
+
+#### a → o
+
+* **fåme** [fome]
+
+* **påuco** [pouco]
+* **tåuro** [touro]
+* **åuro** [ouro]
+
+#### -no → -n
+
+##### -ano → -ão
+
+* **sano** [são]
+* **capitano** [capitão]
+* **ğėrmano** [irmão]
+
+##### -ono/-uno → -om/-uno
+
+***TODO***
+
+* **bonŏ** [bom]
+* **domĭnŏ** [dom]
+
+* **sonŏs** [sons]
+* **sonŏ** [som]
+
+* **tonŏs** [tons]
+* **tonŏ** [tom]
+
+### u
+
+#### eo → eu
+
+* **museo** [museu]
+* **eğo** [eu]
+* **meo** [meu]
+
+#### oo → ou
+
+* **soo** [sou]
+
+## Conson̆antes
+
+### c/ç/z
+
+#### t → c
+
+* **potente** [=]
+* **potentĭa** [potência]
+
+#### t → ç
+
+* **cantor** [=]
+* **cantıõnĕ** [canção]
+
+* **petıa** [peça]
+
+#### z
+
+* **certeza** [certeza]
+
+### ch
+
+#### cl → ch
+
+* **cłave** [chave]
+
+#### fl → ch
+
+* **fłamma** [chama]
+
+#### pl → ch
+
+* **pluma** [=]
+* **płumbo** [chumbo]
+
+### l
+
+#### l → l [u]
+
+* **alto** [=]
+
+* **åltro** [outro]
+
+#### l → i
+
+* **finalĕ** [final]
+* **finalĕs** [finais]
+
+### n
+
+* **con** [com]
+
+* **sonar** [soar]
+
+* **manos** [mãos]
+* **mano** [mão]
+
+* **vulcano** [vulcão]
+
+* **marronĕ** [marrom] *BR*
+
+* **limõnĕ** [limão]
+* **limones** [limões]
+
+
+
+
+* **hyæna** [hiena]
+
+***TODO***
+
+un on an en in
+
+una fortuna
+oa pessoa
+ana humana
+
+* **ïn** [em]
+* **sïnĕ** [sem]
+* **finĕ** [fim]
+
+* **portõnĕ** [portão]
+* **portones** [portões]
+
+
+#### ?
+
+* **pœna** [pena]
+* **mïnůs** [menos]
+* **scena** [cena]
+* **sïno** [seno]
+
+#### n → i
+
+* **ceṅa** [ceia]
+* **veṅa** [veia]
+
+#### n → m
+
+* **un** [um]
+* **uña** [uma]
+
+#### n → -
+
+* **men̆sa** [mesa]
+
+### t
+
+#### t → -
+
+* **åut** [ou]
+
+---
+
+* *começo* []: **commen̆tıo**
+* *mês* []: **men̆sĕ**
+  * *mensal* []: **mensalĕ**
+* *seio* []: **sĩn̆o**
+
+* *prisão* []: **pren̆sıônĕ**
+* *milhões* []: **millĭôn̆es**
+
+---
+
+
+* raiz [rais]
+* país [pais]
+
+* mağis [majs]
+
+* faz [fas] → faiz [faş = fajŝ]
+* paz [pas]
+* gás [gas]
+
+---
+
 
 ### a
 
@@ -12,25 +259,8 @@
 
 ...
 
+
 * *ei* []: **ä**
-
-#### â
-
-##### -ân-
-
-* *mão* []: **mânŏ**
-* *cão* []: **cânĕ**
-
-#### å
-
-* *fome* []: **fåme**
-* *ouro* []: **åuro**
-
-#### ǎ
-
-...
-
-* *outro* []: **ǎłtro**
 
 ### e
 
@@ -83,15 +313,6 @@
 ##### dĭ
 
 * *hoje* []: **hodĭe**
-
-##### lĭ
-
-* *filho* []: **filĭo**
-* *mulher* []: **mulĭerĕ**
-
-##### nĭ
-
-* *banho* []: **banĭo**
 
 ##### sĭ
 
@@ -150,7 +371,6 @@
 * *gosto* []: **gůsto**
 * *torre* []: **tůrre**
 
-## Conson̆antes
 
 ### c
 
@@ -204,7 +424,7 @@
 
 #### ğ
 
-* *eu* []: **eğo**
+* **eğo** [eu] 
 
 ### l
 
@@ -231,10 +451,6 @@
   * *tais* []: **tałes**
 * *cor* []: **cołŏrĕ**
 
-##### cł
-
-* *chave* []: **cłave**
-
 ##### pł
 
 ...
@@ -248,24 +464,6 @@
 
 #### -n
 
-* *um* []: **un**
-* *em* []: **ïn**
-* *com* []: **con**
-
-##### -nĕ
-
-* *bem* []: **benĕ**
-* *rim* []: **rėnĕ**
-  * *rins* []: **rėnĕs**
-
-##### -nŏ
-
-* *bom* []: **bonŏ**
-* *som* []: **sonŏ**
-  * *sons* []: **sonŏs**
-* *tom* []: **tonŏ**
-  * *tons* []: **tonŏs**
-
 ##### -nt
 
 * *precisam* []: **precisant**
@@ -275,35 +473,6 @@
 
 * *tem* []: **tenĕt**
 * *têm* []: **tenĕnt**
-
-#### -n̆-
-
-* *boa* []: **bon̆a**
-* *lua* []: **lun̆a**
-* *coroa* []: **coron̆a**
-* *mesa* []: **men̆sa**
-
-...
-
-* *veia* []: **vẽn̆a**
-* *começo* []: **commen̆tıo**
-* *mês* []: **men̆sĕ**
-  * *mensal* []: **mensalĕ**
-* *seio* []: **sĩn̆o**
-
-#### -ôn-
-
-* *não* []: **nôn**
-* *portão* []: **portônĕ**
-  * *portões* []: **portôn̆es**
-
-...
-
-* *prisão* []: **pren̆sıônĕ**
-* *canção* []: **cantıônĕ**
-* *população* []: **populatıônĕ**
-* *milhões* []: **millĭôn̆es**
-* *direção* []: **directıônĕ**
 
 ### p
 
@@ -385,9 +554,6 @@
 ## n
 
 * *vinho* []: **viño**
-* *uma* []: **una**
 
-## r
-
-* *pessoa* []: **person̆a**
+* **peřson̆a** [pessoa]
 
