@@ -47,10 +47,6 @@ La ŝajnfinaĵo **-ione** *[jone]* mallongiĝas al **-ie** *[je]*.
 
 Por skribi *[k]* aŭ *[g]* antaŭ *[e]* aŭ *[i]*, skribiĝas **qŭ** respektive **gŭ**.
 
-| | |
-|-|-|
-| *kiu* | **qŭi** *[ki]* |
-
 ### s, x
 
 | | |
@@ -99,12 +95,12 @@ Adverboj finiĝas je **-o**.
 | *multe* | **multo** *[=]* |
 | *hodiaŭ* | **hodio** *[hodjo]* |
 
-Celaj adverboj finiĝas je **-i**.
+Celaj adverboj finiĝas je **-u**.
 
 | | |
 |-|-|
-| *hejme* | **dome** |
-| *hejmen* | **domi** |
+| *hejme* | **domo** |
+| *hejmen* | **domu** |
 
 ### Numeraloj
 
