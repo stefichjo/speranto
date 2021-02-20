@@ -1,6 +1,6 @@
-# Lingvao
+# Lingua
 
-***Lingvao*** baziĝas sur la ***Latina*** kaj la [***Internaciaj Ortografioj***](latinidaj/README.md) de la ***Latinidaj Lingvoj***. ***Lingvao*** havas trajtojn de [***Interlingvao***](https://eo.wikipedia.org/wiki/Interlingvao) kaj [***Gloso***](https://eo.wikipedia.org/wiki/Gloso_(planlingvo)). El ***Lingvao*** pruntas [***Ojdo***](oido.md) kaj [***Piĝino***](pigino.md).
+***Lingvao*** baziĝas sur la ***Latina*** kaj la [***Internaciaj Ortografioj***](latinidaj/README.md) de la ***Latinidaj Lingvoj***. ***Lingvao*** havas trajtojn de [***Interlingvao***](https://eo.wikipedia.org/wiki/Interlingvao) kaj [***Gloso***](https://eo.wikipedia.org/wiki/Gloso_(planlingvo)). El ***Lingvao*** pruntas [***Lingveo***](lingue.md) kaj [***Lingvoo***](linguo.md).
 
 ***Arkaika Lingvao*** havas arkaikan prononcon.
 

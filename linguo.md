@@ -1,12 +1,12 @@
-# Piĝino
+# Linguo
 
 ***TODO*** Eĉ se ni supozos...
 
-***Piĝino*** pruntas el [***Ojdo***](lingua.md) kaj el [***Lingvao***](lingua.md), [***Sprako***](sprak.md) kaj [***Jaziko***](jazyk.md). ***Piĝino*** havas trajtojn de [***Esperanto***](https://eo.wikipedia.org/wiki/Esperanto).
+***Lingvoo*** pruntas el [***Lingveo***](lingue.md) kaj el [***Lingvao***](lingua.md), [***Sprako***](sprak.md) kaj [***Jaziko***](jazyk.md). ***Lingvoo*** havas trajtojn de [***Esperanto***](https://eo.wikipedia.org/wiki/Esperanto).
 
 ## Prononco
 
-Vd. [prononco en ***Ojdo***](oido.md#prononco).
+Vd. [prononco en ***Lingveo***](lingue.md#prononco).
 
 ### i, u
 
@@ -39,7 +39,7 @@ Kiam radikofina **i** eliziiĝas post **t** *[c]*, skribiĝas **z** *[c]*. (Radi
 
 ***TODO*** j -> i, u
 
-En ***Prapiĝino***, la skriboj por **ĉ** *[ĉ]*, **ċ** *[c]*, **ĝ** *[ĝ]* (t.e. plozivaj frikativoj) kaj **çh** *[ŝ]*, **ç** *[s]*, **ĵ** *[ĵ]* (t.e. ne-plozivaj frikativoj) estas fiksitaj. (La skribo de **ĝ** povas varii laŭ la etimologio jen al **dĵ**, jen al **j**.) (La skribo **çh** surogatas la skribon **^ç**.)
+En ***Pralingvoo***, la skriboj por **ĉ** *[ĉ]*, **ċ** *[c]*, **ĝ** *[ĝ]* (t.e. plozivaj frikativoj) kaj **çh** *[ŝ]*, **ç** *[s]*, **ĵ** *[ĵ]* (t.e. ne-plozivaj frikativoj) estas fiksitaj. (La skribo de **ĝ** povas varii laŭ la etimologio jen al **dĵ**, jen al **j**.) (La skribo **çh** surogatas la skribon **^ç**.)
 
 | | |
 |-|-|
@@ -47,7 +47,7 @@ En ***Prapiĝino***, la skriboj por **ĉ** *[ĉ]*, **ċ** *[c]*, **ĝ** *[ĝ]* (
 | **ċ** *[c]* | **ç** *[s]* |
 | **ĝ** *[ĝ]* | **ĵ** *[ĵ]* |
 
-En ***Piĝino***, la skriboj varias laŭ ilia pozicio, t.e. ĉu ili estas radikofinaj aŭ ne. (Ĉi-sence sufiksoj ne estas radikoj.)
+En ***Lingvoo***, la skriboj varias laŭ ilia pozicio, t.e. ĉu ili estas radikofinaj aŭ ne. (Ĉi-sence sufiksoj ne estas radikoj.)
 
 | | | |
 |-|-|-|
@@ -149,7 +149,7 @@ Samkiel en **aŭ** [aŭ], **ŭ** prononciĝas [ŭ] en **eŭ**. Tra bruo, **y** p
 | |
 | **systemo** *[sistemo]* ← *[systemo]* |
 
-**k** *[k]* skribiĝas **k** nur antaŭ **e** kaj **i**. En aliaj kuntekstoj, ĝi skribiĝas **c** en ***Piĝino***.
+**k** *[k]* skribiĝas **k** nur antaŭ **e** kaj **i**. En aliaj kuntekstoj, ĝi skribiĝas **c** en ***Lingvoo***.
 
 | |
 |-|
@@ -249,20 +249,20 @@ Samkiel en **aŭ** [aŭ], **ŭ** prononciĝas [ŭ] en **eŭ**. Tra bruo, **y** p
 
 ## Akĉentoj
 
-En ***akĉenta Piĝino***, latinidaj vortoj ĉie prononciĝas kun *[c]*, *[ĉ]*, *[ĝ]* anstataŭ *[s]*, *[ŝ]*, *[ĵ]*.
+En ***akĉenta Lingvoo***, latinidaj vortoj ĉie prononciĝas kun *[c]*, *[ĉ]*, *[ĝ]* anstataŭ *[s]*, *[ŝ]*, *[ĵ]*.
 
 | |
 |-|
 | **domaĉo** *[=]* → **domaçho** *[domaŝo]* → *[domaĉo]* |
 
-En ***akĉenta Piĝino***, **ct** *[kt]* prononciĝas *[t]*.
+En ***akĉenta Lingvoo***, **ct** *[kt]* prononciĝas *[t]*.
 
 | |
 |-|
 | **perfecta** *[perfekta]* → *[perfeta]* |
 | **puncto** *[punkto]* → *[punto]* |
 
-En ***akĉenta Piĝino***, **i** kaj **u** inter konsonanto kaj vokalo prononciĝas *[j]* kaj *[ŭ]*.
+En ***akĉenta Lingvoo***, **i** kaj **u** inter konsonanto kaj vokalo prononciĝas *[j]* kaj *[ŭ]*.
 
 | |
 |-|
@@ -272,7 +272,7 @@ En ***akĉenta Piĝino***, **i** kaj **u** inter konsonanto kaj vokalo prononci�
 | |
 | **qualito** *[kvalito]* → *[kŭalito]* |
 
-En ***akĉenta Piĝino***, **aŭ** kaj **eŭ** prononciĝas *[o]* kaj *[u]*, dum **aĭ** kaj **eĭ** prononciĝas *[e]*. Simile, **ĩ** *[oj]* prononciĝas *[i]*.
+En ***akĉenta Lingvoo***, **aŭ** kaj **eŭ** prononciĝas *[o]* kaj *[u]*, dum **aĭ** kaj **eĭ** prononciĝas *[e]*. Simile, **ĩ** *[oj]* prononciĝas *[i]*.
 
 | |
 |-|
@@ -295,7 +295,7 @@ En ***akĉenta Piĝino***, **aŭ** kaj **eŭ** prononciĝas *[o]* kaj *[u]*, dum
 | **viċo** *[vico]* → **vizo** *[vico]* |
 | **viċo** *[vico]* → **vizaro** *[vicaro]* |
 
-En ***akĉenta Piĝino***, la **i** de pronomoj prononciĝas *[oj]*. **tī** *[ci]* prononciĝas *[toj]*.
+En ***akĉenta Lingvoo***, la **i** de pronomoj prononciĝas *[oj]*. **tī** *[ci]* prononciĝas *[toj]*.
 
 | |
 |-|
@@ -305,13 +305,13 @@ En ***akĉenta Piĝino***, la **i** de pronomoj prononciĝas *[oj]*. **tī** *[c
 | **ni** *[ni]* → *[noj]* |
 | **vi** *[vi]* → *[voj]* |
 
-En ***akĉenta Piĝino***, la tabelvorta ŝajnprefikso **ne-** estas ellasebla.
+En ***akĉenta Lingvoo***, la tabelvorta ŝajnprefikso **ne-** estas ellasebla.
 
 | |
 |-|
 | **nenio** *[nenio]* ← **ne 'n io** → **nio** *[=]* |
 
-En ***akĉenta Piĝino***, **mr** kaj **nr** prononciĝas *[mbr]* kaj *[ndr]*.
+En ***akĉenta Lingvoo***, **mr** kaj **nr** prononciĝas *[mbr]* kaj *[ndr]*.
 
 | |
 |-|
@@ -320,7 +320,7 @@ En ***akĉenta Piĝino***, **mr** kaj **nr** prononciĝas *[mbr]* kaj *[ndr]*.
 
 ### Itala
 
-En ***ital-akĉenta Piĝino***, la ŝajnprefiksoj **de-** kaj **re-** prononciĝas *[di]* kaj *[ri]*.
+En ***ital-akĉenta Lingvoo***, la ŝajnprefiksoj **de-** kaj **re-** prononciĝas *[di]* kaj *[ri]*.
 
 | |
 |-|
@@ -333,14 +333,14 @@ En ***ital-akĉenta Piĝino***, la ŝajnprefiksoj **de-** kaj **re-** prononciĝ
 | **rėpeti** *[ri-]* → **repeti** *[re-]* → *[ripeti]* |
 | **respondi** *[re-]* → *[rispondi]* |
 
-En ***ital-akĉenta Piĝino***, la *[e]* antaŭ **s̈** mutas.
+En ***ital-akĉenta Lingvoo***, la *[e]* antaŭ **s̈** mutas.
 
 | |
 |-|
 | **S̈peranto** *[esperanto]* → **Esperanto** *[=]* → *[speranto]* |
 | **s̈ti** → **esti** *[esti]* → *[sti]* |
 
-En ***ital-akĉenta Piĝino***, **x** *[ks]*/*[gz]* prononciĝas *[s]*/*[z]*. Simile, **ps** *[ps]* prononciĝas *[s]*.
+En ***ital-akĉenta Lingvoo***, **x** *[ks]*/*[gz]* prononciĝas *[s]*/*[z]*. Simile, **ps** *[ps]* prononciĝas *[s]*.
 
 | |
 |-|
@@ -357,7 +357,7 @@ Duobla konsonanto prononciĝas duoble.
 
 ### Franca
 
-En ***franc-akĉenta Piĝino***, latinidaj vortoj ĉie prononciĝas kun *[s]*, *[ŝ]*, *[ĵ]* anstataŭ *[c]*, *[ĉ]*, *[ĝ]*.
+En ***franc-akĉenta Lingvoo***, latinidaj vortoj ĉie prononciĝas kun *[s]*, *[ŝ]*, *[ĵ]* anstataŭ *[c]*, *[ĉ]*, *[ĝ]*.
 
 | |
 |-|
@@ -369,7 +369,7 @@ En ***franc-akĉenta Piĝino***, latinidaj vortoj ĉie prononciĝas kun *[s]*, *
 | |
 | **corsaĵo** *[korsaĵo]* → **corsajo** *[korsaĝo]* → *[korsaĵo]* |
 
-En ***franc-akĉenta Piĝino***, la ŝajnsufikso **-in** prononciĝas *[en]*.
+En ***franc-akĉenta Lingvoo***, la ŝajnsufikso **-in** prononciĝas *[en]*.
 
 | |
 |-|
@@ -378,7 +378,7 @@ En ***franc-akĉenta Piĝino***, la ŝajnsufikso **-in** prononciĝas *[en]*.
 
 ### Hispana
 
-En ***hispan-akĉenta Piĝino***, prononciĝas *[ĥ]* anstataŭ *[ĵ]*/*[ĝ]*, dum *[θ]* prononciĝas anstataŭ *[s]*/*[c]*.
+En ***hispan-akĉenta Lingvoo***, prononciĝas *[ĥ]* anstataŭ *[ĵ]*/*[ĝ]*, dum *[θ]* prononciĝas anstataŭ *[s]*/*[c]*.
 
 | |
 |-|
@@ -418,7 +418,7 @@ En ***hispan-akĉenta Piĝino***, prononciĝas *[ĥ]* anstataŭ *[ĵ]*/*[ĝ]*, d
 
 *Lingvaismo:* La *cela* finaĵo **-en** mallongiĝas al **-n** kaj fariĝas finaĵo por *akuzativo*. *Tra bruo*, uziĝas anstataŭe la (neologisma) *akuzativa* prepozicio **a**.
 
-| | Piĝino |
+| | Lingvoo |
 |:-|:-|
 | *Mi vidas domon.* | **Mi vidas domon.** ← **Mi vidas a domo.** |
 
@@ -426,13 +426,13 @@ En ***hispan-akĉenta Piĝino***, prononciĝas *[ĥ]* anstataŭ *[ĵ]*/*[ĝ]*, d
 
 *Jazikismo:* (neologisma) **na**
 
-| | Piĝino |
+| | Lingvoo |
 |:-|:-|
 | *ludi la gitaron* | **ludi la gitarron** ← **ludi na la gitarro** |
 
 *Tra bruo*, uziĝas **a** aŭ, anstataŭe, **na**.
 
-| | Piĝino |
+| | Lingvoo |
 |:-|:-|
 | *Mi vidas vin.* | **Mi vidas a vi.** ← **Mi vidas na vi.** |
 
@@ -454,7 +454,7 @@ En ***hispan-akĉenta Piĝino***, prononciĝas *[ĥ]* anstataŭ *[ĵ]*/*[ĝ]*, d
 
 ---
 
-En ***Piĝino***, radikofina **ţ** *[s]* skribiĝas **z**/**c** respective **s**. **tī** *[ci]* prononciĝas *[si]*.
+En ***Lingvoo***, radikofina **ţ** *[s]* skribiĝas **z**/**c** respective **s**. **tī** *[ci]* prononciĝas *[si]*.
 
 | |
 |-|
