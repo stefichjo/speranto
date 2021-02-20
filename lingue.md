@@ -1,6 +1,6 @@
-# Ojdo
+# Lingue
 
-***Ojdo*** pruntas el [***Lingvao***](lingua.md) kaj havas trajtojn de [***Okcidentalo***](https://eo.wikipedia.org/wiki/Okcidentalo), [***Adjuvilo***](https://eo.wikipedia.org/wiki/Adjuvilo) kaj [***Ido***](https://eo.wikipedia.org/wiki/Ido_(lingvo)). El ***Ojdo*** pruntas [***Piĝino***](pigino.md).
+***Lingveo*** pruntas el [***Lingvao***](lingua.md) kaj havas trajtojn de [***Okcidentalo***](https://eo.wikipedia.org/wiki/Okcidentalo), [***Adjuvilo***](https://eo.wikipedia.org/wiki/Adjuvilo) kaj [***Ido***](https://eo.wikipedia.org/wiki/Ido_(lingvo)). El ***Lingveo*** pruntas [***Lingvoo***](lingvoo.md).
 
 ## Prononco
 
