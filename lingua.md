@@ -1,26 +1,20 @@
 # Lingua
 
-***Lingvao*** baziĝas sur la ***Latina*** kaj la [***Internaciaj Ortografioj***](latinidaj/README.md) de la ***Latinidaj Lingvoj***. ***Lingvao*** havas trajtojn de [***Interlingvao***](https://eo.wikipedia.org/wiki/Interlingvao) kaj [***Gloso***](https://eo.wikipedia.org/wiki/Gloso_(planlingvo)). El ***Lingvao*** pruntas [***Lingveo***](lingue.md) kaj [***Lingvoo***](linguo.md).
-
-***Arkaika Lingvao*** havas arkaikan prononcon.
-
-| | Archelingua → Lingua |
-|-|-|
-| *generacio* | **generatĭone** *[generatione → ĝeneracjone]* |
+***Lingvao*** baziĝas sur la ***Latina*** kaj la [***Internaciaj Ortografioj***](latinidaj/README.md) de la ***Latinidaj Lingvoj***. ***Lingvao*** havas trajtojn de [***Interlingvao***](https://eo.wikipedia.org/wiki/Interlingvao) kaj [***Gloso***](https://eo.wikipedia.org/wiki/Gloso_(planlingvo)). El ***Lingvao*** pruntas [***Lingveo***](lingue.md).
 
 ## Prononco
 
-Duobla konsonanto estas prononcata kiel unuopa konsonanto.
+Duobla konsonanto estas prononcata duoble.
 
 | | |
 |-|-|
-| *tero* | **terra** *[terra → tera]* |
+| *tero* | **terra** |
 
-La antaŭlasta silabo estas akcentata. Neakcenteblaj silaboj havas vokalon kun hoketo.
+La antaŭlasta silabo estas akcentata. En diftongoj, **i** kaj **u** ne estas akcentataj.
 
 | | |
 |-|-|
-| *trajno* | **traĭno** *[trai-no → trajno]* |
+| *trajno* | **traino** *[traĭno]* |
 
 ### i, u
 
@@ -80,6 +74,16 @@ Akcentata **tĭ** skribiĝas **tī** *[ci]*. ***Arkaika*** **tĕ** fariĝas **z*
 | *placo* | **platĕa** *[plate-a]* → **plaza** *[placa]* |
 
 ### ci, gi
+
+----
+
+***Arkaika Lingvao*** havas arkaikan prononcon.
+
+| | Archelingua → Lingua |
+|-|-|
+| *generacio* | **generatĭone** *[generatione → ĝeneracjone]* |
+
+----
 
 Antaŭ **e** kaj **i**, **c** *[c]* kaj **g** *[g]* prononciĝas *[ĉ]* kaj *[ĝ]*.
 
