@@ -318,15 +318,32 @@ La korelativo **la** uziĝas kiel difina artikolo.
 
 ### Pronomoj
 
-Pronomoj havas la finaĵon **-i**. La persona pronomo **li** estas genre neŭtra, dum **hi** uziĝas kiam la sekso ne gravas. Anstataŭ **mis**, **tis**, **lis** uziĝas **ni**, **vi**, **ili**.
+| | |
+|-|-|
+| *mi*, *vi*, *ŝi/li/ĝi* | **mu**, **tu**, **lu** |
+| *ŝi*, *li*, *ri*, *ĝi* | **alu**, **olu**, **elu**, **ulu** |
+| *ni*, *vi*, *ili* | **nu**, **vu**, **ilu** |
+| *oni*, *si* | **?**, **su** |
 
 | | |
 |-|-|
-| *mi*, *vi*, *li* | **mi**, **ti**, **li** |
-| *ŝi*, *li*, *ri* | **ali**, **oli**, **hi** |
-| *ni*, *vi*, *ili* | **ni**, **vi**, **ili** |
+| *mia*, *via*, *ŝia/lia/ĝia* | **mua**, **tua**, **lua** |
+| *ŝia*, *lia*, *ria*, *ĝia* | **alua**, **olua**, **elua**, **ulua** |
+| *nia*, *via*, *ilia* | **nua**, **vua**, **ilua** |
+| *onia*, *sia* | **?**, **sua** |
+
+| | |
+|-|-|
+| *min*, *vin*, *ŝia/lia/ĝin* | **mi**, **ti**, **li** |
+| *ŝin*, *lin*, *rin*, *ĝin* | **ali**, **oli**, **eli**, **uli** |
+| *nin*, *vin*, *ilin* | **ni**, **vi**, **ili** |
+| *onin*, *sin* | **?**, **si** |
 
 Kelkaj korelativoj je **-i** estas ankaŭ personaj pronomoj.
+
+----
+@?
+----
 
 | korelativo | pronomo | |
 |-|-|-|
@@ -363,91 +380,104 @@ Pronomoj povas fariĝi posedaj pronomoj. En multenombro, ili havas la finaĵon *
 
 ### Verboj
 
-***En Poezio***, la refleksiva pronomo **si** fariĝas la konjugacia finaĵo **-s**.
+#### Infinitivo
 
-| | | poezie |
-|-|-|-|
-| *la aŭto moviĝas* | **la aŭto si move** | **la aŭto moves** |
-
-Verboradika ŝajnfino je **-b** fariĝas **-v**.
+Infinitivoj finiĝas je -**ere**.
 
 | | |
 |-|-|
-| *havi* | **habere** → **havere** |
-| *skribi* | **scribere** → **scrivere** |
+| *havi* | **habere** |
+
+***En poezio***, la infinitva formo **essere** mallongiĝas al **esse**.
+
+| | | poezie |
+|-|-|-|
+| *esti* | **essere** | **esse** |
+
+#### Prezenco
+
+En la prezenco, la infinitiva finiĝo -**ere** forestas.
+
+| | |
+|-|-|
+| *mi havas* | **mu habe** |
+| *mi estas* | **mu esse** |
+
+***En Poezio***, uziĝas personaj ŝajnfinaĵoj anstataŭ pronomoj.
+
+| | | poezie |
+|-|-|-|
+| *mi havas* | **mu habe** | **habem** |
+| *vi havas* | **tu habe** | **habes** |
+| *ŝi/li/ĝi havas* | **lu habe** | **habet** |
+| | | |
+| *ni havas* | **nu habe** | **habemus** |
+| *vi havas* | **vu habe** | **habetis** |
+| *ili havas* | **ilu habe** | **haben** |
+
+***En poezio***, la infinitva formo **essere** mallongiĝas al **esse**.
+
+| *mi estas* | **mu esse** | **essem** → **sum** |
+| *vi estas* | **tu esse** | **esses** → **es** |
+| *ŝi/li/ĝi estas* | **lu esse** | **esset** → **est** |
+| | | |
+| *ni estas* | **nu esse** | **essemus** → **sumus** |
+| *vi estas* | **vu esse** | **essetis** → **estis** |
+| *ili estas* | **ilu esse** | **essen** → **sun** |
+
+#### Preterito
+
+En la preterito, aldoniĝas la sufikso -**ba** al la prezenca formo.
+
+| | |
+|-|-|
+| *mi havis* | **mu habeba** |
+
+#### Futuro
+
+En la futuro, aldoniĝas la akcentata sufikso -**a'** al la infinitiva formo sen **-e**.
+
+| | |
+|-|-|
+| *mi havos* | **mu habera'** |
+
+#### Kondicionalo
+
+En la kondicionalo (por ĉiuj tempoj) aldoniĝas la sufikso -**a** al la infinitiva formo.
+
+| | |
+|-|-|
+| *mi havos* | **mu haberea** |
 
 #### Imperativo
 
-La verba radiko uziĝas por imperativoj.
+Por la imperativo, uziĝas la prezenca formo.
 
 | | |
 |-|-|
-| **li vidas** | **li vide** |
 | **vidu!** | **vide!** |
 
-***En poezio***, aldoniĝas la ŝajnfinaĵo **-n** por multenombro.
-
-| | | poezie |
-|-|-|-|
-| *vidu! (ĉiuj vi)* | **vide!** | **viden!** |
-
-#### Tempoj
-
-***En poezio***, la imperativaj formoj uziĝas por la indikativaj triaj personoj. La personaj pronomoj **mi** kaj **ti** fariĝas la konjugaciaj finaĵoj **-m** kaj **-t**. Paralele, **imi** kaj **iti** (anstataŭ samsignifaj **ni** kaj **vi**) fariĝas la konjugaciaj finaĵoj **-ĭmi** kaj **-ĭti**.
-
-| | | poezie |
-|-|-|-|
-| *li vidas* | **li vide** | **vide** |
-| *ili vidas* | **ili vide** | **viden** |
-| | | |
-| *mi vidas* | **mi vide** | **videm** |
-| *vi vidas* | **ti vide** | **videt** |
-| | | |
-| *ni vidas* | **ni vide** | **videĭmi** → **videmis** |
-| *vi vidas* | **vi vide** | **videĭti** → **videtis** |
-
-***En poezio***, **esse** mallongiĝas al **es** en ununombro kaj **se** en multenombro.
-
-| | | poezie |
-|-|-|-|
-| *mi estas* | **mi esse** | **esm** |
-| *vi estas* | **ti esse** | **est** |
-| | | |
-| *ni estas* | **ni esse** | **seĭmi** → **semis** |
-| *vi estas* | **vi esse** | **seĭti** → **setis** |
-| | | |
-| *li estas* | **li esse** | **es** |
-| *ili estas* | **ili esse** | **sen** |
+#### Aspektoj
 
 | | |
 |-|-|
-| *mi vidas* | **mi vide** |
-| *mi vidis* | **mi videba** → **mi videva** |
-| *mi vidos* | **mi videra'** → **mi videra'** |
-| *mi vidus* | **mi viderea** |
+| *mi estas vidanta* | **mu sta in videre** |
+| *mi estas vidinta* | **mu veni de videre** |
+| *mi estas vidonta* | **mu vade ad videre** |
 
-| | |
-|-|-|
-| *mi estas vidanta* | **mi sta in videre** |
-| *mi estas vidinta* | **mi veni de videre** |
-| *mi estas vidonta* | **mi vade ad videre** |
-
-#### Perfekto
-
-| | |
-|-|-|
-| *mi estas skribinta* | **mi habe scripta** → **mi have scriveta** |
-| *mi estis skribinta* | **mi habeba scripta** → **mi haveva scriveta** |
-| *mi estos skribinta* | **mi habera' scripta** → **mi havera' scriveta** |
-| *mi estus skribinta* | **mi haberea scripta** → **mi haverea scriveta** |
+| | | poezie |
+|-|-|-|
+| *mi estas vidinta* | **mu veni de videre** | **habem visto** 
+| *mi estis vidinta* | **mu veniba de videre** | **habebam visto** |
+| *mi estos vidinta* | **mu venira' de videre** | **haberam' visto** |
 
 #### Pasivo
 
-| | |
-|-|-|
-| *skribita libro* | **libro scriveta (← scripta)** |
-| *la libro estas skribita de amiko* | **la libro esse scriveta (← scripta) de amico** |
-| *la libro estas skribata de amiko* | **la libro veni scriveta (← scripta) de amico** |
+| | | poezie |
+|-|-|-|
+| *vidita domo* | **domo vista** |
+| *la domo estas vidita de amiko* | **la domo veni videta de amico** | **la domo venit vista de amico** |
+| *la domo estas vidata de amiko* | **la domo esse videta de amico** | **la domo est vista de amico** |
 
 ### Prepozicioj
 

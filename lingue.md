@@ -18,6 +18,11 @@
 | | |
 | *poezio* | **poesīe** *[poezie]* |
 
+| | |
+|-|-|
+| *kazeo* | **quese** *[keze]* |
+| *trankvila* | **tranquilla** *[trankilla]* |
+
 ### ti
 
 | | |
@@ -112,8 +117,8 @@ Korelativaj radikoj kombineblas kun sufiksoj.
 
 | | |
 |-|-|
-| *kiu* | **qui** *[kŭi]* = **quule** *[kŭule]* |
-| *kio* | **que** *[kŭe]* = **quaje** *[kŭaĵe]* |
+| *kiu* | **qui** *[ki]* = **quule** *[kŭule]* |
+| *kio* | **que** *[ke]* = **quaje** *[kŭaĵe]* |
 | *kia*, *kiu* | **qua** *[kŭa]* = **quessa** *[kŭesa]*, **quula** *[kŭula]* |
 | *kie* | **quo** *[kŭo]* = **queio** *[kŭejo]* |
 | *kien* | **quu** *[kŭu]* |
@@ -164,11 +169,12 @@ Verboj finiĝas je **-n** kaj havas tempan vokalismon.
 | *mi vidis* | **mi vidin** |
 | *mi vidos* | **mi vidon** |
 
-La volitiva vokalo estas **e**.
+La volitiva kaj kondicionala vokaloj estas **e** kaj **u**.
  
 | | |
 |-|-|
 | *vidu!* | **viden!** |
+| *se mi vidus...* | **se mi vidun...** |
 
 ### Prepozicioj
 
