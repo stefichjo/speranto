@@ -20,33 +20,35 @@ La ŝajnfinaĵo -**e** de la finaĵoj -**are**, -**ere**, -**ire** kaj -**ore** 
 
 ### i, u
 
-En diftongoj, **i** kaj **u** ne estas akcentataj.
+En diftongoj, **i** kaj **u** ne estas akcentataj. En la diftongoj **iu** kaj **ui**, **i** ne estas akcentata.
 
 | | |
 |-|-|
-| *trajno* | **traino** *[traĭno = trai-no]* |
+| *trajno* | **traino** *[trai-no]* |
 | | |
-| *majo* | **maio** *[maĭo = mai-o]* |
-| *familio* | **familia** *[familĭa = famili-a]* |
+| *majo* | **maio** *[mai-o]* |
+| *familio* | **familia** *[famili-a]* |
 | | |
-| *jam* | **iam** *[ĭam = iam']* |
-| *justa*, *ĝusta* | **iusta** *[ĭusta = iusta]* |
+| *jam* | **iam** *[i-am = iam']* |
+| *justa*, *ĝusta* | **iusta** *[iusta]* |
 | | |
-| *aŭto* | **auto** *[aŭto = au-to]* |
-| *kvanto* | **quanto** *[kŭanto = kuanto]* |
+| *aŭto* | **auto** *[au-to]* |
+| *kvanto* | **quanto** *[kuanto]* |
 | | |
-| *akvo* | **aqua** *[akŭa = aku-a]* |
-| *lingvo* | **lingua** *[lingŭa = lingu-a]* |
+| *akvo* | **aqua** *[aku-a]* |
+| *lingvo* | **lingua** *[lingu-a]* |
 
 Fine de la radiko, la sufiksoj -**ic**- kaj -**ul**- ne estas akcentataj.
 
 | | |
 |-|-|
-| *partikulo*, *partiklo* | **particulo** *[partikŭlo = partiku-lo]* |
-| *vojaĵo* | **viatico** *[viatĭko = viati-ko]* |
+| *partikulo*, *partiklo* | **partĭculo** *[partiku-lo]* |
+| *vojaĵo* | **viatĭco** *[viati-ko]* |
 | | |
-| *libera* | **libĕra** *[libĕra = libe-ra* |
-| *simila* | **simĭle** *[simĭle = simi-le* |
+| *amiko* | **amico** *[amiko]* |
+| | |
+| *libera* | **libĕra** *[libe-ra* |
+| *simila* | **simĭle** *[simi-le* |
 
 ### Grekaj Vortoj
 
@@ -54,7 +56,7 @@ Fine de la radiko, la sufiksoj -**ic**- kaj -**ul**- ne estas akcentataj.
 |-|-|
 | *fazo* | **phase** *[ɸase]* |
 | *temo* | **thema** *[θema]* |
-| *karaktero* | **charactĕre** *[ĥaraktĕre = ĥarakte-re]* |
+| *karaktero* | **charactĕre** *[ĥarakte-re]* |
 | *sistemo* | **systema** *[systema]* |
 | *zono* | **zona** *[dzona]* |
 
@@ -76,25 +78,17 @@ La grek-devenaj ŝajnfinaĵoj **-i**, **-īa**, **-a**, **-e** havas signifojn s
 
 ### Substantivoj
 
-Substantivoj je **-o** kaj **-e** havas vokativojn je **-u** kaj **-i**.
-
-| | |
-|-|-|
-| *amiko* | **amico** |
-| *ho amiko!* | **amicu!** |
-| | |
-| *amikino* | **amica** |
-| *ho amikino!* | **amicā!** |
-| | |
-| *homoj* | **gente** |
-| *ho homoj!*| **genti!** |
-
-En sia *multenombra* formo, ili ricevas la finaĵon **-s**.
+En sia *multenombra* formo, substantivoj ricevas la finaĵon **-s**.
 
 | | |
 |-|-|
 | *amiko* | **amico** |
 | *amikoj* | **amicos** |
+| | |
+| *amikino* | **amica** |
+| *amikinoj* | **amicas** |
+| | |
+| *homoj* | **gente** |
 
 Kelkaj latin-devenaj finaĵoj de substantivoj ŝanĝiĝis.
 
@@ -398,7 +392,7 @@ Por la imperativo, uziĝas la prezenca formo.
 |-|-|-|
 | *mi estas vidinta* | **mu veni de videre** | **habem visto** 
 | *mi estis vidinta* | **mu veniba de videre** | **habebam visto** |
-| *mi estos vidinta* | **mu venira' de videre** | **haberam' visto** |
+| *mi estos vidinta* | **mu venirā de videre** | **haberām visto** |
 
 #### Pasivo
 
