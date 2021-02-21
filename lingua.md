@@ -9,6 +9,14 @@ La antaŭlasta silabo estas akcentata. Duobla konsonanto estas prononcata duoble
 | | |
 |-|-|
 | *tero* | **terra** |
+| *maso* | **massa** |
+
+La ŝajnfinaĵo -**e** de la finaĵoj -**are**, -**ere**, -**ire** kaj -**ore** povas eliziiĝi.
+
+| | |
+|-|-|
+| *ami* | **amare** → **amar'** |
+| *doktoro* | **doctore** → **doctor'** |
 
 ### i, u
 
@@ -21,7 +29,7 @@ En diftongoj, **i** kaj **u** ne estas akcentataj.
 | *majo* | **maio** *[maĭo = mai-o]* |
 | *familio* | **familia** *[familĭa = famili-a]* |
 | | |
-| *jam* | **am** *[ĭam = iam']* |
+| *jam* | **iam** *[ĭam = iam']* |
 | *justa*, *ĝusta* | **iusta** *[ĭusta = iusta]* |
 | | |
 | *aŭto* | **auto** *[aŭto = au-to]* |
@@ -30,107 +38,27 @@ En diftongoj, **i** kaj **u** ne estas akcentataj.
 | *akvo* | **aqua** *[akŭa = aku-a]* |
 | *lingvo* | **lingua** *[lingŭa = lingu-a]* |
 
-Fine de la radiko, la sufiksoj -**ic**-, -**il**- kaj -**ul**- ne estas akcentataj.
+Fine de la radiko, la sufiksoj -**ic**- kaj -**ul**- ne estas akcentataj.
 
 | | |
 |-|-|
 | *partikulo*, *partiklo* | **particulo** *[partikŭlo = partiku-lo]* |
-| | |
-| *simila* | **simile** *[simĭle = simi-le* |
-| | |
 | *vojaĵo* | **viatico** *[viatĭko = viati-ko]* |
-
-----
-
-Inter konsonantoj, **ĭ** *[j]* kaj **ŭ** *[=]* elliziiĝas. La ŝajnsufikso **-atĭc-** *[atk]* fariĝas **-aj-** *[aĵ]*.
-
-
-
-Ankaŭ malantaŭ ŝajnprefikso, radikokomenca **ĭ** *[j]* fariĝas **j** *[ĵ]*. Inter konsonantoj, **ĭ** kaj **ŭ** eliziiĝas.
-
 | | |
-|-|-|
-| *projekto* | **proĭecto** *[proiekto]* → **projecto** *[proĵekto]* |
-
-### ti
-
-**tĭ** prononciĝas *[cj]*. (Sed **stĭ** prononciĝas *[stj]*.)
-
-| | |
-|-|-|
-| *lekcio* | **lectĭone** *[lektione → lekcjone]* |
-| *spaco* | **spatĭo** *[spati-o → spacjo]* |
-| *substanco* | **substantĭa** *[substanti-a → substancja]* |
-| | |
-| *besto* | **bestĭa** *[besti-a → bestja]* |
-
-Akcentata **tĭ** skribiĝas **tī** *[ci]*. ***Arkaika*** **tĕ** fariĝas **z** *[c]*.
-
-| | |
-|-|-|
-| *garantio* | **garantīa** *[garantia → garancia]* |
-| | |
-| *placo* | **platĕa** *[plate-a]* → **plaza** *[placa]* |
-
-### ci, gi
-
-----
-
-***Arkaika Lingvao*** havas arkaikan prononcon.
-
-| | Archelingua → Lingua |
-|-|-|
-| *generacio* | **generatĭone** *[generatione → ĝeneracjone]* |
-
-----
-
-Antaŭ **e** kaj **i**, **c** *[c]* kaj **g** *[g]* prononciĝas *[ĉ]* kaj *[ĝ]*.
-
-| | |
-|-|-|
-| *centro* | **centro** *[centro → ĉentro]* |
-| *ĝenerala* | **generale** *[generale → ĝenerale]* |
-
-### s, x
-
-**s** *[s]* prononciĝas *[z]* inter vokaloj.
-
-| | |
-|-|-|
-| *maso* | **massa** *[massa → masa]* |
-| *rozo* | **rosa** *[rosa → roza]* |
-
-**x** *[ks]* prononciĝas *[gz]* inter vokaloj.
-
-| | |
-|-|-|
-| *ekzemplo* | **exemplo** *[eksemplo → egzemplo]* |
-| *fiksi* | **fixare** *[fiksare]* |
-
-### r, l
-
-Vortoj kun ŝajnfinaĵoj je **-re**/**-le** povas mallongiĝi al **-r'**/**-l'**.
-
-| | |
-|-|-|
-| *ami* | **amare** → **amar'** |
-| | |
-| *stela* | **stellare** → **stellar'** |
-| *stabila* | **stabile** → **stabil'** |
-| | |
-| *doktoro* | **doctore** → **doctor'** |
+| *libera* | **libĕra** *[libĕra = libe-ra* |
+| *simila* | **simĭle** *[simĭle = simi-le* |
 
 ### Grekaj Vortoj
 
 | | |
 |-|-|
-| *fazo* | **phase** *[ɸase]* → *[faze]* |
-| *temo* | **thema** *[θema]* → *[tema]* |
-| *karaktero* | **charactere** *[ĥaraktere]* → *[karaktere]* |
-| *sistemo* | **systema** *[systema]* → *[sistema]* |
-| *zono* | **zona** *[dzona]* → *[zona]* |
+| *fazo* | **phase** *[ɸase]* |
+| *temo* | **thema** *[θema]* |
+| *karaktero* | **charactĕre** *[ĥaraktĕre = ĥarakte-re]* |
+| *sistemo* | **systema** *[systema]* |
+| *zono* | **zona** *[dzona]* |
 
-La grek-devenaj ŝajnfinaĵoj **-i**, **-īa**, **-a**, **-e** havas signifojn similajn al la ŝajnfinaĵoj **-ĭone**, **-o**, **-ore**, **-ura**.
+La grek-devenaj ŝajnfinaĵoj **-i**, **-īa**, **-a**, **-e** havas signifojn similajn al la ŝajnfinaĵoj **-ione**, **-o**, **-ore**, **-ura**.
 
 | | |
 |-|-|
@@ -139,7 +67,7 @@ La grek-devenaj ŝajnfinaĵoj **-i**, **-īa**, **-a**, **-e** havas signifojn s
 | *"lumskribanto"*, *fotografisto* | **photographa** |
 | *"lumskribaĵo"*, *fotografaĵo* | **photographe** |
 | | |
-| *"starado"*, *stacio* | **statĭone** |
+| *"starado"*, *stacio* | **statione** |
 | *"starmaniero"*, *staro* | **stato** |
 | *"staranto"*, *statoro* | **statore** |
 | *"staraĵo"*, *staturo* | **statura** |
