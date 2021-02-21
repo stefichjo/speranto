@@ -1,50 +1,49 @@
 # Lingua
 
-***Lingvao*** baziĝas sur la ***Latina*** kaj la [***Internaciaj Ortografioj***](latinidaj/README.md) de la ***Latinidaj Lingvoj***. ***Lingvao*** havas trajtojn de [***Interlingvao***](https://eo.wikipedia.org/wiki/Interlingvao) kaj [***Gloso***](https://eo.wikipedia.org/wiki/Gloso_(planlingvo)). El ***Lingvao*** pruntas [***Lingveo***](lingue.md).
+***Lingvao*** baziĝas sur la ***Latina***. ***Lingvao*** havas trajtojn de [***Interlingvao***](https://eo.wikipedia.org/wiki/Interlingvao) kaj [***Gloso***](https://eo.wikipedia.org/wiki/Gloso_(planlingvo)). El ***Lingvao*** pruntas [***Lingveo***](lingue.md).
 
 ## Prononco
 
-Duobla konsonanto estas prononcata duoble.
+La antaŭlasta silabo estas akcentata. Duobla konsonanto estas prononcata duoble.
 
 | | |
 |-|-|
 | *tero* | **terra** |
 
-La antaŭlasta silabo estas akcentata. En diftongoj, **i** kaj **u** ne estas akcentataj.
-
-| | |
-|-|-|
-| *trajno* | **traino** *[traĭno]* |
-
 ### i, u
 
-En ***Arkaika Lingvao***, la duonvokaloj **ĭ** *[j]* kaj **ŭ** *[=]* estas neakcenteblaj *[i]* kaj *[u]*.
+En diftongoj, **i** kaj **u** ne estas akcentataj.
 
 | | |
 |-|-|
-| *majo* | **maĭo** *[mai-o → majo]* |
-| *familio* | **familĭa** *[famili-a → familja]* |
+| *trajno* | **traino** *[traĭno = trai-no]* |
 | | |
-| *aŭto* | **aŭto** *[au-to → aŭto]* |
-| *kvanto* | **qŭanto** *[kuanto → kŭanto]* |
+| *majo* | **maio** *[maĭo = mai-o]* |
+| *familio* | **familia** *[familĭa = famili-a]* |
+| | |
+| *jam* | **am** *[ĭam = iam']* |
+| *justa*, *ĝusta* | **iusta** *[ĭusta = iusta]* |
+| | |
+| *aŭto* | **auto** *[aŭto = au-to]* |
+| *kvanto* | **quanto** *[kŭanto = kuanto]* |
+| | |
+| *akvo* | **aqua** *[akŭa = aku-a]* |
+| *lingvo* | **lingua** *[lingŭa = lingu-a]* |
 
-En ***Lingvao***, radikokomenca **ĭ** *[j]* kaj radikofina **ŭ** *[=]* fariĝas frikativaj **j** *[ĵ]* kaj **ŭ** *[v]*.
+Fine de la radiko, la sufiksoj -**ic**-, -**il**- kaj -**ul**- ne estas akcentataj.
 
 | | |
 |-|-|
-| *jam* | **ĭam** *[iam']* → **jam** *[ĵam]* |
-| *justa*, *ĝusta* | **ĭusta** *[iusta]* → **justa** *[ĵusta]* |
+| *partikulo*, *partiklo* | **particulo** *[partikŭlo = partiku-lo]* |
 | | |
-| *akvo* | **aqŭa** *[aku-a → akva]* |
-| *lingvo* | **lingŭa** *[lingu-a → lingva]* |
+| *simila* | **simile** *[simĭle = simi-le* |
+| | |
+| *vojaĵo* | **viatico** *[viatĭko = viati-ko]* |
+
+----
 
 Inter konsonantoj, **ĭ** *[j]* kaj **ŭ** *[=]* elliziiĝas. La ŝajnsufikso **-atĭc-** *[atk]* fariĝas **-aj-** *[aĵ]*.
 
-| | |
-|-|-|
-| *partikulo*, *partiklo* | **particŭlo** *[partiku-lo]* → **particlo** *[partiklo]* |
-| | |
-| *vojaĵo* | **viatĭco** *[viati-ko]* → **viajo** *[viaĵo]* |
 
 
 Ankaŭ malantaŭ ŝajnprefikso, radikokomenca **ĭ** *[j]* fariĝas **j** *[ĵ]*. Inter konsonantoj, **ĭ** kaj **ŭ** eliziiĝas.
@@ -417,6 +416,8 @@ En la prezenco, la infinitiva finiĝo -**ere** forestas.
 
 ***En poezio***, la infinitva formo **essere** mallongiĝas al **esse**.
 
+| | | poezie |
+|-|-|-|
 | *mi estas* | **mu esse** | **essem** → **sum** |
 | *vi estas* | **tu esse** | **esses** → **es** |
 | *ŝi/li/ĝi estas* | **lu esse** | **esset** → **est** |
@@ -475,7 +476,7 @@ Por la imperativo, uziĝas la prezenca formo.
 
 | | | poezie |
 |-|-|-|
-| *vidita domo* | **domo vista** |
+| *vidita/vidata domo* | **domo vista** |
 | *la domo estas vidita de amiko* | **la domo veni videta de amico** | **la domo venit vista de amico** |
 | *la domo estas vidata de amiko* | **la domo esse videta de amico** | **la domo est vista de amico** |
 
@@ -485,13 +486,13 @@ Por alativo, lokativo, ablativo uziĝas la prepozicioj **de**, **in**, **ad**. P
 
 | | |
 |-|-|
-| *mi venas de la domo* | **mi veni de la domo** |
-| *mi estas ĉe/en la domo* | **mi esse in la domo** |
-| *mi iras al/ĝis la domo* | **mi vade ad la domo** |
+| *mi venas de la domo* | **mu veni de la domo** |
+| *mi estas ĉe/en la domo* | **mu esse in la domo** |
+| *mi iras al/ĝis la domo* | **mu vade ad la domo** |
 | | |
-| *mi legas libron de amiko* | **mi lege libro di (← de) amico** |
-| *mi venas per biciklo* | **mi veni en (← in) bicyclo** |
-| *mi parolas al amiko* | **mi parola al (← ad) amico** |
+| *mi legas libron de amiko* | **mu lege libro di (← de) amico** |
+| *mi venas per biciklo* | **mu veni en (← in) bicyclo** |
+| *mi parolas al amiko* | **mu parola al (← ad) amico** |
 | | |
 | *mi iras ĉirkaŭ la domo* | **mi vade circ' al (← ad) la domo** |
 
