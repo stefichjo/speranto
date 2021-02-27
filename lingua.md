@@ -13,11 +13,11 @@ La antaŭlasta vokalo estas akcentata. Kiam la antaŭlasta vokalo ne estas akcen
 | *bona* | **bona** |
 | *amiko* | **amico** *[amiko]* |
 | | |
-| *libera* | **libĕra** *[libe-ra* |
+| *libera* | **libĕra** *[libe-ra]* |
 | *partikulo*, *partiklo* | **particŭlo** *[partiku-lo]* |
 | *rapida* | **rapĭda** *[rapi-da]* |
 | *regulo* | **regŭla** *[regu-la]* |
-| *simila* | **simĭle** *[simi-le* |
+| *simila* | **simĭle** *[simi-le]* |
 | *vojaĝo* | **viatĭco** *[viati-ko]* |
 | | |
 | *mi vidos* | **mu viderā** *[videra']* |
@@ -26,8 +26,8 @@ Duobla konsonanto estas prononcata duoble.
 
 | | |
 |-|-|
-| *tero* | **terra** |
-| *maso* | **massa** |
+| *tero* | **terra** *[ter-ra]* |
+| *maso* | **massa** *[mas-sa]* |
 
 #### -re
 
@@ -35,19 +35,22 @@ La ŝajnfinaĵo -**e** de la finaĵoj -**are**, -**ere**, -**ire** kaj -**ore** 
 
 | | |
 |-|-|
-| *ami* | **amare** → **amar'** |
-| *doktoro* | **doctore** → **doctor'** |
+| *ami* | **amare** → **amar'** *[amar']* |
+| *doktoro* | **doctore** → **doctor'** *[doktor']* |
 
-#### i, u
+#### i-, u-
 
 En diftongoj, **i** kaj **u** ne estas akcentataj.
 
 | | |
 |-|-|
-| *trajno* | **traino** *[trai-no]* |
+| *trajno* | **traĭno** = **traino** *[trai-no]* |
+| *majo* | **maĭo** = **maio** *[mai-o]* |
 | | |
-| *majo* | **maio** *[mai-o]* |
 | *familio* | **familĭa** = **familia** *[famili-a]* |
+| *jam* | **ĭam** = **iam** *[i-am = iam']* |
+| | |
+| *oto* | **aŭro** = **auro** *[au-ro]* |
 | | |
 | *akvo* | **aqŭa** = **aqua** *[aku-a]* |
 | *lingvo* | **lingŭa** = **lingua** *[lingu-a]* |
@@ -56,11 +59,7 @@ En la diftongoj **iu** kaj **ui**, **i** ne estas akcentata.
 
 | | |
 |-|-|
-| *jam* | **ĭam** = **iam** *[i-am = iam']* |
 | *justa*, *ĝusta* | **ĭusta** = **iusta** *[iusta]* |
-| | |
-| *aŭto* | **aŭto** = **auto** *[au-to]* |
-| *kvanto* | **quanto** *[kuanto]* |
 
 ### Grekaj Vortoj
 
