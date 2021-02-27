@@ -4,51 +4,63 @@
 
 ## Prononco
 
-La antaŭlasta silabo estas akcentata. Duobla konsonanto estas prononcata duoble.
+### Akcento
+
+La antaŭlasta vokalo estas akcentata. Kiam la antaŭlasta vokalo ne estas akcentata, ĝi portas hoketon. Kiam la lasta vokalo estas akcentata, ĝi portas makronon.
+
+| | |
+|-|-|
+| *bona* | **bona** |
+| *amiko* | **amico** *[amiko]* |
+| | |
+| *libera* | **libĕra** *[libe-ra* |
+| *partikulo*, *partiklo* | **particŭlo** *[partiku-lo]* |
+| *rapida* | **rapĭda** *[rapi-da]* |
+| *regulo* | **regŭla** *[regu-la]* |
+| *simila* | **simĭle** *[simi-le* |
+| *vojaĝo* | **viatĭco** *[viati-ko]* |
+| | |
+| *mi vidos* | **mu viderā** *[videra']* |
+
+Duobla konsonanto estas prononcata duoble.
 
 | | |
 |-|-|
 | *tero* | **terra** |
 | *maso* | **massa** |
 
-La ŝajnfinaĵo -**e** de la finaĵoj -**are**, -**ere**, -**ire** kaj -**ore** povas eliziiĝi.
+#### -re
+
+La ŝajnfinaĵo -**e** de la finaĵoj -**are**, -**ere**, -**ire** kaj -**ore** povas eliziiĝi. La akcento ne ŝanĝiĝas.
 
 | | |
 |-|-|
 | *ami* | **amare** → **amar'** |
 | *doktoro* | **doctore** → **doctor'** |
 
-### i, u
+#### i, u
 
-En diftongoj, **i** kaj **u** ne estas akcentataj. En la diftongoj **iu** kaj **ui**, **i** ne estas akcentata.
+En diftongoj, **i** kaj **u** ne estas akcentataj.
 
 | | |
 |-|-|
 | *trajno* | **traino** *[trai-no]* |
 | | |
 | *majo* | **maio** *[mai-o]* |
-| *familio* | **familia** *[famili-a]* |
+| *familio* | **familĭa** = **familia** *[famili-a]* |
 | | |
-| *jam* | **iam** *[i-am = iam']* |
-| *justa*, *ĝusta* | **iusta** *[iusta]* |
-| | |
-| *aŭto* | **auto** *[au-to]* |
-| *kvanto* | **quanto** *[kuanto]* |
-| | |
-| *akvo* | **aqua** *[aku-a]* |
-| *lingvo* | **lingua** *[lingu-a]* |
+| *akvo* | **aqŭa** = **aqua** *[aku-a]* |
+| *lingvo* | **lingŭa** = **lingua** *[lingu-a]* |
 
-Fine de la radiko, la sufiksoj -**ic**- kaj -**ul**- ne estas akcentataj.
+En la diftongoj **iu** kaj **ui**, **i** ne estas akcentata.
 
 | | |
 |-|-|
-| *partikulo*, *partiklo* | **partĭculo** *[partiku-lo]* |
-| *vojaĵo* | **viatĭco** *[viati-ko]* |
+| *jam* | **ĭam** = **iam** *[i-am = iam']* |
+| *justa*, *ĝusta* | **ĭusta** = **iusta** *[iusta]* |
 | | |
-| *amiko* | **amico** *[amiko]* |
-| | |
-| *libera* | **libĕra** *[libe-ra* |
-| *simila* | **simĭle** *[simi-le* |
+| *aŭto* | **aŭto** = **auto** *[au-to]* |
+| *kvanto* | **quanto** *[kuanto]* |
 
 ### Grekaj Vortoj
 
@@ -352,25 +364,25 @@ En la prezenco, la infinitiva finiĝo -**ere** forestas.
 
 En la preterito, aldoniĝas la sufikso -**ba** al la prezenca formo.
 
-| | |
-|-|-|
-| *mi havis* | **mu habeba** |
+| | | poezie |
+|-|-|-|
+| *mi havis* | **mu habeba** | **habebam** |
 
 #### Futuro
 
-En la futuro, aldoniĝas la akcentata sufikso -**a'** al la infinitiva formo sen **-e**.
+En la futuro, aldoniĝas la akcentata sufikso -**ā** al la infinitiva formo sen **-e**.
 
-| | |
-|-|-|
-| *mi havos* | **mu habera'** |
+| | | poezie |
+|-|-|-|
+| *mi havos* | **mu haberā** | **haberām** |
 
 #### Kondicionalo
 
 En la kondicionalo (por ĉiuj tempoj) aldoniĝas la sufikso -**a** al la infinitiva formo.
 
-| | |
-|-|-|
-| *mi havos* | **mu haberea** |
+| | | poezie |
+|-|-|-|
+| *mi havus* | **mu haberea** | **habeream** |
 
 #### Imperativo
 
