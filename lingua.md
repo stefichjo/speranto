@@ -7,6 +7,7 @@
 **c** kaj **g** estas ĉiam prononcataj *[k]* kaj *[g]*.
 
 | | |
+|-|-|
 | *centro* | **centro** *[kentro]* |
 | *homoj* | **gente** *[gente]* |
 
