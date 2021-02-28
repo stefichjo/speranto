@@ -267,7 +267,7 @@ La korelativo **la** kaj la numeralo **un** uziĝas kiel artikoloj. **En poezio*
 
 #### Infinitivo
 
-Infinitivoj finiĝas je -**ere**.
+Infinitivoj finiĝas je -**re**.
 
 | | |
 |-|-|
@@ -374,26 +374,30 @@ Por la imperativo, uziĝas la prezenca formo.
 
 ### Prepozicioj
 
-Por alativo, lokativo, ablativo uziĝas la prepozicioj **de**, **in**, **ad**. Por dativo, instrumentalo, genitivo uziĝas la prepozicioj **di**, **en**, **al**. Pere de la prepozicio **al** formiĝas prepoziciaĵoj.
+Por alativo, lokativo, ablativo uziĝas la prepozicioj **de**, **in**, **ad**.
 
 | | |
 |-|-|
 | *mi venas de la domo* | **me veni de la domo** |
 | *mi estas ĉe/en la domo* | **me esse in la domo** |
 | *mi iras al/ĝis la domo* | **me vade ad la domo** |
+
+***En poezio***, uziĝas la prepozicioj **di**, **en**, **al** por dativo, instrumentalo kaj genitivo. Pere de la prepozicio **al** formiĝas prepoziciaĵoj.
+
 | | |
-| *mi legas libron de amiko* | **me lege libro di (← de) amico** |
-| *mi venas per biciklo* | **me veni en (← in) bicyclo** |
-| *mi parolas al amiko* | **me parola al (← ad) amico** |
+|-|-|
+| *mi legas libron de amiko* | **me lege libro di de amico** | **legem libro di amico** |
+| *mi venas per biciklo* | **me veni in bicyclo** | **venim en bicyclo** |
+| *mi parolas al amiko* | **me parola ad amico** | **parolam al amico** |
 | | |
-| *mi iras ĉirkaŭ la domo* | **mi vade circ' al (← ad) la domo** |
+| *mi iras ĉirkaŭ la domo* | **me vade circ' ad la domo** | **vadem circ' al la domo** |
 
 ***Tra bruo*** (kaj antaŭ nomo), la prepozicio **a** uziĝas por akuzativo.
 
 | | (tra bruo) |
 |-|-|
-| *mi vidas Karlan* | **mi vide a Carla** |
-| *vin mi vidas* | **a ti mi vide** |
+| *mi vidas Karlan* | **me vide a Carla** |
+| *vin mi vidas* | **a ti me vide** |
 
 ### Konjunkcioj
 
