@@ -180,8 +180,8 @@ La ŝajnsufikso por ordinaloj estas **-essĭma** *[esi-ma]*. ***En Poezio***, or
 | *1* | **un** | **unessĭma** | **prima** |
 | *2* | **du** | **duessĭma** | **secunda** |
 | *3* | **tri** | **triessĭma** | **tertia** |
-| *4* | **qŭar** | **quaressĭma** | **quarta** |
-| *5* | **qŭin** | **quinessĭma** | **quinta** |
+| *4* | **quar** | **quaressĭma** | **quarta** |
+| *5* | **quin** | **quinessĭma** | **quinta** |
 | *6* | **ses** | **sessessĭma** | **sesta** |
 | *7* | **sep** | **sepessĭma** | **septa** |
 | *8* | **octo** | **octoessĭma** | **octava** |
@@ -193,15 +193,15 @@ La ŝajnsufikso por ordinaloj estas **-essĭma** *[esi-ma]*. ***En Poezio***, or
 
 ### Korelativoj
 
-Estas kvin korelativoj kun la finaĵoj **-i**, **-e**, **-a**, **-o** kaj **-u**.
+Estas kvin serioj da korelativoj kun la finaĵoj **-i**, **-e**, **-a**, **-o** kaj **-u**.
 
-| | |
-|-|-|
-| *kiu* | **qŭi** = **qui** *[kui']* |
-| *kio* | **qŭe** = **que** *[kue']* |
-| *kia*, *kiu*, *kies* | **qŭa** = **qua** *[kua']* |
-| *kie*, *kiel*, *kial*, *kiam*, *kiom* | **qŭo**  = **quo** *[kuo']* |
-| *kien* | **qŭu** = **quu** *[kuu']* |
+| | | | | |
+|-|-|-|-|-|
+| *kiu* | **qŭi** = **qui** *[kui']* | | *tiu* | **li** |
+| *kio* | **qŭe** = **que** *[kue']* | | *tio* | **le** |
+| *kia*, *kiu*, *kies* | **qŭa** = **qua** *[kua']* | | *tia*, *tiu*, *ties* | **la** |
+| *kie*, *kiel*, *kial*, *kiam*, *kiom* | **qŭo**  = **quo** *[kuo']* | | *tie*, *tiel*, *tial*, *tiam*, *tiom* | **lo** |
+| *kien* | **qŭu** = **quu** *[kuu']* | | *tien* | *lu* |
 
 Korelativoj ricevas la multenombran finaĵon **-s**.
 
