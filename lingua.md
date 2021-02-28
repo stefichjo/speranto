@@ -4,6 +4,19 @@
 
 ## Prononco
 
+**c** kaj **g** estas ĉiam prononcataj *[k]* kaj *[g]*.
+
+| | |
+| *centro* | **centro** *[kentro]* |
+| *homoj* | **gente** *[gente]* |
+
+| | |
+|-|-|
+| *"starado"*, *stacio* | **statione** |
+| *"starmaniero"*, *staro* | **stato** |
+| *"staranto"*, *statoro* | **statore** |
+| *"staraĵo"*, *staturo* | **statura** |
+
 ### Akcento
 
 La antaŭlasta vokalo estas akcentata. Kiam la antaŭlasta vokalo ne estas akcentata, ĝi portas hoketon. Kiam la lasta vokalo estas akcentata, ĝi portas makronon.
@@ -20,7 +33,7 @@ La antaŭlasta vokalo estas akcentata. Kiam la antaŭlasta vokalo ne estas akcen
 | *simila* | **simĭle** *[simi-le]* |
 | *vojaĝo* | **viatĭco** *[viati-ko]* |
 | | |
-| *mi vidos* | **mu viderā** *[videra']* |
+| *vidos* | **viderā** *[videra']* |
 
 Duobla konsonanto estas prononcata duoble.
 
@@ -76,15 +89,10 @@ La grek-devenaj ŝajnfinaĵoj **-i**, **-īa**, **-a**, **-e** havas signifojn s
 
 | | |
 |-|-|
-| *"lumskribado"*, *fotografado* | **photographi** |
-| *"lumskribmaniero"*, *fotografio* | **photographīa** |
-| *"lumskribanto"*, *fotografisto* | **photographa** |
-| *"lumskribaĵo"*, *fotografaĵo* | **photographe** |
-| | |
-| *"starado"*, *stacio* | **statione** |
-| *"starmaniero"*, *staro* | **stato** |
-| *"staranto"*, *statoro* | **statore** |
-| *"staraĵo"*, *staturo* | **statura** |
+| *"lumskribado"*, *fotografado* | **photographi** *[ɸotograɸi]* |
+| *"lumskribmaniero"*, *fotografio* | **photographīa** *[ɸotograɸia]* |
+| *"lumskribanto"*, *fotografisto* | **photographa** *[ɸotograɸa]* |
+| *"lumskribaĵo"*, *fotografaĵo* | **photographe** *[ɸotograɸe]* |
 
 ## Gramatiko
 
@@ -99,8 +107,6 @@ En sia *multenombra* formo, substantivoj ricevas la finaĵon **-s**.
 | | |
 | *amikino* | **amica** |
 | *amikinoj* | **amicas** |
-| | |
-| *homoj* | **gente** |
 
 Kelkaj latin-devenaj finaĵoj de substantivoj ŝanĝiĝis.
 
@@ -196,11 +202,14 @@ Estas kvin korelativoj kun la finaĵoj **-i**, **-e**, **-a**, **-o** kaj **-u**
 | *kie*, *kiel*, *kial*, *kiam*, *kiom* | **qŭo**  = **quo** *[kuo']* |
 | *kien* | **qŭu** = **quu** *[kuu']* |
 
-Korelativoj je **-e** ricevas la multenombran finaĵon **-s**.
+Korelativoj ricevas la multenombran finaĵon **-s**.
 
 | | |
 |-|-|
-| *fore tiuj aĵoj*, *ili* | **les** |
+| *la domoj* | **las domos** |
+| | |
+| *tiu*, *ĝi* | **le** |
+| *tiuj*, *ili* | **les** |
 
 ***En poezio***, ankaŭ korelativoj je **-a** ricevas la multenombran finaĵon **-s**.
 
