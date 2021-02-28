@@ -287,18 +287,18 @@ Infinitivoj finiĝas je -**ere**.
 
 #### Prezenco
 
-En la prezenco, la infinitiva finiĝo -**ere** forestas.
+En la prezenco, la infinitiva finiĝo -**re** forestas.
 
 | | |
 |-|-|
-| *mi havas* | **mu habe** |
-| *mi estas* | **mu esse** |
+| *mi havas* | **me habe** |
+| *mi estas* | **me esse** |
 
 ***En Poezio***, uziĝas personaj ŝajnfinaĵoj anstataŭ pronomoj.
 
 | | | poezie |
 |-|-|-|
-| *mi havas* | **mu habe** | **habem** |
+| *mi havas* | **me habe** | **habem** |
 | *vi havas* | **tu habe** | **habes** |
 | *ŝi/li/ĝi havas* | **lu habe** | **habet** |
 | | | |
@@ -310,7 +310,7 @@ En la prezenco, la infinitiva finiĝo -**ere** forestas.
 
 | | | poezie |
 |-|-|-|
-| *mi estas* | **mu esse** | **essem** → **sum** |
+| *mi estas* | **me esse** | **essem** → **sum** |
 | *vi estas* | **tu esse** | **esses** → **es** |
 | *ŝi/li/ĝi estas* | **lu esse** | **esset** → **est** |
 | | | |
@@ -324,7 +324,7 @@ En la preterito, aldoniĝas la sufikso -**ba** al la prezenca formo.
 
 | | | poezie |
 |-|-|-|
-| *mi havis* | **mu habeba** | **habebam** |
+| *mi havis* | **me habeba** | **habebam** |
 
 #### Futuro
 
@@ -332,7 +332,7 @@ En la futuro, aldoniĝas la akcentata sufikso -**ā** al la infinitiva formo sen
 
 | | | poezie |
 |-|-|-|
-| *mi havos* | **mu haberā** | **haberām** |
+| *mi havos* | **me haberā** | **haberām** |
 
 #### Kondicionalo
 
@@ -340,7 +340,7 @@ En la kondicionalo (por ĉiuj tempoj) aldoniĝas la sufikso -**a** al la infinit
 
 | | | poezie |
 |-|-|-|
-| *mi havus* | **mu haberea** | **habeream** |
+| *mi havus* | **me haberea** | **habeream** |
 
 #### Imperativo
 
@@ -354,15 +354,15 @@ Por la imperativo, uziĝas la prezenca formo.
 
 | | |
 |-|-|
-| *mi estas vidanta* | **mu sta in videre** |
-| *mi estas vidinta* | **mu veni de videre** |
-| *mi estas vidonta* | **mu vade ad videre** |
+| *mi estas vidanta* | **me sta in videre** |
+| *mi estas vidinta* | **me veni de videre** |
+| *mi estas vidonta* | **me vade ad videre** |
 
 | | | poezie |
 |-|-|-|
-| *mi estas vidinta* | **mu veni de videre** | **habem visto** 
-| *mi estis vidinta* | **mu veniba de videre** | **habebam visto** |
-| *mi estos vidinta* | **mu venirā de videre** | **haberām visto** |
+| *mi estas vidinta* | **me veni de videre** | **habem visto** 
+| *mi estis vidinta* | **me veniba de videre** | **habebam visto** |
+| *mi estos vidinta* | **me venirā de videre** | **haberām visto** |
 
 #### Pasivo
 
@@ -378,13 +378,13 @@ Por alativo, lokativo, ablativo uziĝas la prepozicioj **de**, **in**, **ad**. P
 
 | | |
 |-|-|
-| *mi venas de la domo* | **mu veni de la domo** |
-| *mi estas ĉe/en la domo* | **mu esse in la domo** |
-| *mi iras al/ĝis la domo* | **mu vade ad la domo** |
+| *mi venas de la domo* | **me veni de la domo** |
+| *mi estas ĉe/en la domo* | **me esse in la domo** |
+| *mi iras al/ĝis la domo* | **me vade ad la domo** |
 | | |
-| *mi legas libron de amiko* | **mu lege libro di (← de) amico** |
-| *mi venas per biciklo* | **mu veni en (← in) bicyclo** |
-| *mi parolas al amiko* | **mu parola al (← ad) amico** |
+| *mi legas libron de amiko* | **me lege libro di (← de) amico** |
+| *mi venas per biciklo* | **me veni en (← in) bicyclo** |
+| *mi parolas al amiko* | **me parola al (← ad) amico** |
 | | |
 | *mi iras ĉirkaŭ la domo* | **mi vade circ' al (← ad) la domo** |
 
