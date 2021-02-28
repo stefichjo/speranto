@@ -247,7 +247,7 @@ La korelativo **la** kaj la numeralo **un** uziĝas kiel artikoloj. **En poezio*
 | | |
 | *oni* | **uni** |
 | *onia* | **una** |
-| *onin* | **unu** |
+| *onin* | **une** |
 
 | | |
 |-|-|
@@ -262,30 +262,6 @@ La korelativo **la** kaj la numeralo **un** uziĝas kiel artikoloj. **En poezio*
 | *si* | **su** |
 | *sia* | **sūa** = **sua** |
 | *sin* | **si** |
-
-
-----
-
-
-***En poezio***, uziĝas **-li** anstataŭ **ali**, **oli**, **hi** kaj **ji**. Uziĝas **-lis** anstataŭ **ili**.
-
-| | | poezie |
-|-|-|-|
-| *vidi lin* | **videre li** | **viderli** |
-| | | |
-| *vidi ŝin* | **videre ali** | **viderli** |
-| *vidi lin* | **videre oli** | **viderli** |
-| *vidi rin* | **videre hi** | **viderli** |
-| *vidi ĝin* | **videre ji** | **viderli** |
-| | | |
-| *vidi ilin* | **videre ili** | **viderlis** |
-
-Pronomoj povas fariĝi posedaj pronomoj. En multenombro, ili havas la finaĵon **-s**.
-
-| | |
-|-|-|
-| *mia amiko* | **mi amico** |
-| *miaj amikoj* | **mis amicos** |
 
 ### Verboj
 
