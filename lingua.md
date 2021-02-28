@@ -160,7 +160,7 @@ Adjektivoj estas adverbigeblaj pere de la ŝajnfinaĵo **-mente**.
 |-|-|
 | *klare* | **claramente** |
 | | |
-| *facile* | **facilmente** *[faĉilmente]* |
+| *facile* | **facilmente** |
 
 Uziĝas la ŝajnfinaĵo **-o** anstataŭ **-amente**.
 
@@ -173,23 +173,23 @@ Uziĝas la ŝajnfinaĵo **-o** anstataŭ **-amente**.
 
 ### Numeraloj
 
-La ŝajnsufikso por ordinaloj estas **-esĭma** *[esi-ma]* → **-esma** *[=]*. En ***Arkaika Lingvao***, ordinaloj de 4 ĝis 10 havas la ŝajnsufikson **-t-**, kaj la numeraloj **un**, **du**, **tri** havas apartajn ordinalojn formojn: **prima**, **secunda** kaj **tertĭa**.
+La ŝajnsufikso por ordinaloj estas **-essĭma** *[esi-ma]*. ***En Poezio***, ordinaloj havas apartajn formojn.
 
-| | numeralo | ordinalo |
-|-|-|-|
-| *1* | **un** | **prima** → **unesma** |
-| *2* | **du** | **secunda** → **duesma** |
-| *3* | **tri** | **tertĭa** → **triesma** |
-| *4* | **qŭar** | **qŭarta** → **qŭaresma** |
-| *5* | **qŭin** | **qŭinta** → **qŭinesma** |
-| *6* | **ses** | **sesta** → **sessesma** |
-| *7* | **sep** | **septa** → **sepesma** |
-| *8* | **oc** | **octa** → **ocesma** |
-| *9* | **naŭ** | **naŭta** → **naŭesma** |
-| | | |
-| *10* | **dec** | **decesĭma** → **decesma** *[deĉesma]* |
-| *100* | **cent** | **centesĭma** → **centesma** *[ĉentesma]* |
-| *1000* | **mill** | **millesĭma** → **millesma** |
+| | numeralo | ordinalo | ordinalo (poezie) |
+|-|-|-|-|
+| *1* | **un** | **unessĭma** | **prima** |
+| *2* | **du** | **duessĭma** | **secunda** |
+| *3* | **tri** | **triessĭma** | **tertia** |
+| *4* | **qŭar** | **quaressĭma** | **quarta** |
+| *5* | **qŭin** | **quinessĭma** | **quinta** |
+| *6* | **ses** | **sessessĭma** | **sesta** |
+| *7* | **sep** | **sepessĭma** | **septa** |
+| *8* | **octo** | **octoessĭma** | **octava** |
+| *9* | **nove** | **noveessĭma** | **nona** |
+| | | | |
+| *10* | **dec** | **decessĭma** | |
+| *100* | **cent** | **centessĭma** | |
+| *1000* | **mill** | **millessĭma** | |
 
 ### Korelativoj
 
