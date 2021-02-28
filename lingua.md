@@ -167,6 +167,7 @@ Uziĝas la ŝajnfinaĵo **-o** anstataŭ **-amente**.
 | | |
 |-|-|
 | *bone* | **bonamente** → **bono** |
+| *klare* | **claramente** → **claro** |
 | *tre* | **multamente** → **multo** |
 | *nur* | **solamente** → **solo** |
 
