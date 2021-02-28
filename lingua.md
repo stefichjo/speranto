@@ -37,10 +37,6 @@ La antaŭlasta vokalo estas akcentata. Kiam la antaŭlasta vokalo ne estas akcen
 | | |
 | *vidos* | **viderā** *[videra']* |
 
-@Lingue:
-@-in- nomine, homine -> nome, home
-@-it- limite -> lime
-
 Duobla konsonanto estas prononcata duoble.
 
 | | |

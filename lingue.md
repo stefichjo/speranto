@@ -4,8 +4,28 @@
 
 ## Prononco
 
+### Akcento
+
+La antaŭlasta vokalo estas akcentata.
+
+| | |
+|-|-|
+| *bona* | **bona** |
+| *amiko* | **amique** *[amike]* |
+
+La Lingvaaj ŝajnsufiksoj **-ĭn-** kaj **-ĭt** eliziiĝas. La Lingvaa ŝajnsufikso **-atĭc-** fariĝas **-aj-** *[aĵ]*.
+
+| | |
+|-|-|
+| *homo* | **home** |
+| *nomo* | **nome** |
+| *limo* | **lime** |
+| *lumo* | **lume** |
+| | |
+| *vojaĝo* | **viajo** *[viaĵo]* |
+
 ----
-Inter konsonantoj, **ĭ** *[j]* kaj **ŭ** *[=]* elliziiĝas. La ŝajnsufikso **-atĭc-** *[atk]* fariĝas **-aj-** *[aĵ]*.
+Inter konsonantoj, **ĭ** *[j]* kaj **ŭ** *[=]* elliziiĝas. 
 
 Ankaŭ malantaŭ ŝajnprefikso, radikokomenca **ĭ** *[j]* fariĝas **j** *[ĵ]*. Inter konsonantoj, **ĭ** kaj **ŭ** eliziiĝas.
 
