@@ -403,17 +403,4 @@ Por alativo, lokativo, ablativo uziĝas la prepozicioj **de**, **in**, **ad**.
 
 | | |
 |-|-|
-| *ke* | **qŭom**, **qŭo** (= **co**) |
-
-
-----
-
-veni -> venia
-senti -> sentia
-
-(habere) habe -> habia/habea
-
-(movĕre) move -> mova/movea
-
-ama -> ame
-
+| *ke* | **qŭe** *[kue']* |
