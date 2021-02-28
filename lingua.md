@@ -28,7 +28,8 @@ La antaŭlasta vokalo estas akcentata. Kiam la antaŭlasta vokalo ne estas akcen
 | *amiko* | **amico** *[amiko]* |
 | | |
 | *libera* | **libĕra** *[libe-ra]* |
-| *partikulo*, *partiklo* | **particŭlo** *[partiku-lo]* |
+| *limo* | **limĭte** *[limi-te]* |
+| *nomo* | **nomĭne** *[nomi-ne]* |
 | *rapida* | **rapĭda** *[rapi-da]* |
 | *regulo* | **regŭla** *[regu-la]* |
 | *simila* | **simĭle** *[simi-le]* |
@@ -64,7 +65,7 @@ En diftongoj, **i** kaj **u** ne estas akcentataj.
 | *familio* | **familĭa** = **familia** *[famili-a]* |
 | *jam* | **ĭam** = **iam** *[i-am = iam']* |
 | | |
-| *oto* | **aŭro** = **auro** *[au-ro]* |
+| *oro* | **aŭro** = **auro** *[au-ro]* |
 | | |
 | *akvo* | **aqŭa** = **aqua** *[aku-a]* |
 | *lingvo* | **lingŭa** = **lingua** *[lingu-a]* |
@@ -99,24 +100,21 @@ La grek-devenaj ŝajnfinaĵoj **-i**, **-īa**, **-a**, **-e** havas signifojn s
 
 ### Substantivoj
 
-En sia *multenombra* formo, substantivoj ricevas la finaĵon **-s**.
-
-| | |
-|-|-|
-| *amiko* | **amico** |
-| *amikoj* | **amicos** |
-| | |
-| *amikino* | **amica** |
-| *amikinoj* | **amicas** |
-
-Kelkaj latin-devenaj finaĵoj de substantivoj ŝanĝiĝis.
+Substantivoj pruntas la vir-genran ablativan formon de la ***Latina***. La ŝajnfinaĵoj **-i** kaj **-u** fariĝas **-e** kaj **-o**.
 
 | | Latina | Lingua |
 |-|-|-|
-| *nomo* | **nomine** | **nome** |
-| *limo* | **limite** | **lime** |
 | *maro* | **mari** | **mare** |
 | *mano* | **manu** | **mano** |
+
+En sia *multenombra* formo, substantivoj ricevas la finaĵon **-s**.
+
+| | | multenombro |
+|-|-|-|
+| *amiko(j)* | **amico** | **amicos** |
+| *amikino(j)* | **amica** | **amicas** |
+
+----
 
 Nomoj kaj terminoj konservas sian specifan *nominativan* formon. Por personaj nomoj, uziĝas **-o** anstataŭ **-us**.
 
