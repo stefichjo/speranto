@@ -300,11 +300,11 @@ En la prezenco, la infinitiva finiĝo -**re** forestas.
 |-|-|-|
 | *mi havas* | **me habe** | **habem** |
 | *vi havas* | **tu habe** | **habes** |
-| *ŝi/li/ĝi havas* | **lu habe** | **habet** |
+| *li havas* | **ole habe** | **habet** |
 | | | |
-| *ni havas* | **nu habe** | **habemus** |
-| *vi havas* | **vu habe** | **habetis** |
-| *ili havas* | **ilu habe** | **haben** |
+| *ni havas* | **nos habe** | **habemus** |
+| *vi havas* | **vos habe** | **habetis** |
+| *ili havas* | **ile habe** | **haben** |
 
 ***En poezio***, la infinitva formo **essere** mallongiĝas al **esse**.
 
@@ -312,11 +312,11 @@ En la prezenco, la infinitiva finiĝo -**re** forestas.
 |-|-|-|
 | *mi estas* | **me esse** | **essem** → **sum** |
 | *vi estas* | **tu esse** | **esses** → **es** |
-| *ŝi/li/ĝi estas* | **lu esse** | **esset** → **est** |
+| *li estas* | **ole esse** | **esset** → **est** |
 | | | |
-| *ni estas* | **nu esse** | **essemus** → **sumus** |
-| *vi estas* | **vu esse** | **essetis** → **estis** |
-| *ili estas* | **ilu esse** | **essen** → **sun** |
+| *ni estas* | **nos esse** | **essemus** → **sumus** |
+| *vi estas* | **vos esse** | **essetis** → **estis** |
+| *ili estas* | **ile esse** | **essen** → **sun** |
 
 #### Preterito
 
