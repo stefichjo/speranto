@@ -222,18 +222,20 @@ Krom la korelativaj ŝajnprefiksoj **qu-** kaj **l-** estas ankaŭ **omn-**, **u
 | *ĉie*, *ĉiel*, *ĉial*, *ĉiam*, *ĉiom* | **omno** | | *ie*, *iel*, *ial*, *iam*, *iom* | **uno** | | *nenie*, *neniel*, *nenial*, *neniam*, *neniom* | **no** |
 | *ĉien* | **omnu** | | *ien* | **unu** | | *nenien* | **nu** |
 
+**En poezio**, la korelativoj **qua** kaj **quo** povas havi pli specifajn formojn.
+
+| | | poezie |
+|-|-|-|
+| *kia*, *kies* | **qua** | |
+| *kiu* | **qua** | **quale** |
+| | | |
+| *kie* | **quo** | |
+| *kial* | **quo** | **quare** |
+| *kiam* | **quo** | **quando** |
+| *kiom* | **quo** | **quanto** |
+| *kiel* | **quo** | **quomo** |
+
 ----
-
-Estas kvin ŝajnkorelativoj kun la ŝajnfinaĵoj **-ale**, **-are** kaj **-ad**, **-am**, **-om**.
-
-| | |
-|-|-|
-| *kies*, *kia* | **quale** *[kuale]* |
-| *kial* | **quare** *[kuare]* |
-| | |
-| *kiam* | **quad** *[kuad']* (= **qŭando**) |
-| *kiom* | **quam** *[kuam']* (= **qŭanto**) |
-| *kiel* | **quom** *[kuom']* (= **como**) |
 
 ***En poezio***, la korelativoj **qŭe** kaj **qŭa** ricevas la finaĵon **-u** anstataŭ la akuzativan prepozicion **a**.
 
