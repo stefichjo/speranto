@@ -129,12 +129,12 @@ Nomoj kaj terminoj konservas sian specifan *nominativan* formon. Por personaj no
 
 ### Adjektivoj
 
-Adjektivoj pruntas la in-genran ablativan formon de la ***Latina***. ***En poezio***, adjektivoj ricevas la finaĵon **-s** por multenombro.
+Adjektivoj pruntas la in-genran ablativan formon de la ***Latina***. Adjektivoj ricevas la finaĵon **-s** por multenombro.
 
-| | | poezie |
-|-|-|-|
-| *bona amiko* | **amico bona** | |
-| *bonaj amikoj* | **amicos bona** | **amicos bonas** |
+| | |
+|-|-|
+| *bona amiko* | **amico bona** |
+| *bonaj amikoj* | **amicos bonas** |
 
 Substantivo estas adjektivigebla pere de la ŝajnfinaĵo **-ale**. Se la ŝajnradiko finiĝas je **-l**, **-ale** ŝanĝas sian formon al **-are**.
 
@@ -150,7 +150,7 @@ Adjektivo antaŭ substantivo havas subjektivan konotacion, dum adjektivo post la
 
 | | |
 |-|-|
-| *rapidaj aŭtoj* | **rapida aŭtos**, **aŭtos rapida** |
+| *rapidaj aŭtoj* | **rapĭdas aŭtos**, **aŭtos rapĭdas** |
 
 ### Adverboj
 
