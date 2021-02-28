@@ -210,7 +210,7 @@ Korelativoj ricevas la finaĵon **-s** por multenombro.
 | | |
 |-|-|
 | *tiuj* | **les** |
-| *"tiuj tomoj"*, *la domoj* | **las domos** |
+| *tiuj tomoj*, *la domoj* | **las domos** |
 
 Krom la korelativaj ŝajnprefiksoj **qu-** kaj **l-** estas ankaŭ **omn-**, **un-** kaj **n-**.
  
