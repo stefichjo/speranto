@@ -4,6 +4,14 @@
 
 ## Prononco
 
+**c** kaj **g** estas prononcataj *[ĉ]* kaj *[ĝ]* antaŭ **-e** kaj **-i** (kaj **-y**).
+
+| | |
+|-|-|
+| *centro* | **centre** *[ĉentre]* |
+| | |
+| *biciklo* | **bicycle** *[biĉikle]* |
+
 ### Akcento
 
 La antaŭlasta vokalo estas akcentata.
@@ -17,12 +25,12 @@ La Lingvaaj ŝajnsufiksoj **-ĭn-** kaj **-ĭt** eliziiĝas. La Lingvaa ŝajnsuf
 
 | | |
 |-|-|
-| *homo* | **home** |
-| *nomo* | **nome** |
-| *limo* | **lime** |
-| *lumo* | **lume** |
+| *homo* | **homĭne** = **home** |
+| *nomo* | **nomĭne** = **nome** |
+| *limo* | **limĭte** = **lime** |
+| *lumo* | **lumĭne** = **lume** |
 | | |
-| *vojaĝo* | **viajo** *[viaĵo]* |
+| *vojaĝo* | **viatĭco** = **viajo** *[viaĵo]* |
 
 ----
 Inter konsonantoj, **ĭ** *[j]* kaj **ŭ** *[=]* elliziiĝas. 
