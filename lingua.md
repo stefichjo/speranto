@@ -37,6 +37,10 @@ La antaŭlasta vokalo estas akcentata. Kiam la antaŭlasta vokalo ne estas akcen
 | | |
 | *vidos* | **viderā** *[videra']* |
 
+@Lingue:
+@-in- nomine, homine -> nome, home
+@-it- limite -> lime
+
 Duobla konsonanto estas prononcata duoble.
 
 | | |
@@ -114,14 +118,11 @@ En sia *multenombra* formo, substantivoj ricevas la finaĵon **-s**.
 | *amiko(j)* | **amico** | **amicos** |
 | *amikino(j)* | **amica** | **amicas** |
 
-----
-
 Nomoj kaj terminoj konservas sian specifan *nominativan* formon. Por personaj nomoj, uziĝas **-o** anstataŭ **-us**.
 
 | | |
 |-|-|
-| *Juliuso* | **Ĭulĭus** *[iuli-us]* → **Julĭo** *[ĵuljo]* |
-| *homo* | **homo** |
+| *Juliuso* | **Ĭulĭus** = **Iulius** *[iuli-us]* |
 | *datumoj* | **data** |
 | *dato* | **datum** |
 | *statuso* | **status** |
