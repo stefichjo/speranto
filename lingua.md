@@ -384,12 +384,12 @@ Por alativo, lokativo, ablativo uziĝas la prepozicioj **de**, **in**, **ad**.
 
 ***En poezio***, uziĝas la prepozicioj **di**, **en**, **al** por dativo, instrumentalo kaj genitivo. Pere de la prepozicio **al** formiĝas prepoziciaĵoj.
 
-| | |
-|-|-|
+| | | poezie |
+|-|-|-|
 | *mi legas libron de amiko* | **me lege libro di de amico** | **legem libro di amico** |
 | *mi venas per biciklo* | **me veni in bicyclo** | **venim en bicyclo** |
 | *mi parolas al amiko* | **me parola ad amico** | **parolam al amico** |
-| | |
+| | | |
 | *mi iras ĉirkaŭ la domo* | **me vade circ' ad la domo** | **vadem circ' al la domo** |
 
 ***Tra bruo*** (kaj antaŭ nomo), la prepozicio **a** uziĝas por akuzativo.
@@ -405,4 +405,15 @@ Por alativo, lokativo, ablativo uziĝas la prepozicioj **de**, **in**, **ad**.
 |-|-|
 | *ke* | **qŭom**, **qŭo** (= **co**) |
 
+
+----
+
+veni -> venia
+senti -> sentia
+
+(habere) habe -> habia/habea
+
+(movĕre) move -> mova/movea
+
+ama -> ame
 
