@@ -186,14 +186,16 @@ La ŝajnsufikso por ordinaloj estas **-essĭma** *[esi-ma]*. ***En Poezio***, or
 | *7* | **sep** | **sepessĭma** | **septa** |
 | *8* | **octo** | **octoessĭma** | **octava** |
 | *9* | **nove** | **noveessĭma** | **nona** |
-| | | | |
-| *10* | **dec** | **decessĭma** | |
-| *100* | **cent** | **centessĭma** | |
-| *1000* | **mill** | **millessĭma** | |
+
+| | numeralo | ordinalo |
+|-|-|-|
+| *10* | **dec** | **decessĭma** |
+| *100* | **cent** | **centessĭma** |
+| *1000* | **mill** | **millessĭma** |
 
 ### Korelativoj
 
-Estas kvin serioj da korelativoj kun la finaĵoj **-i**, **-e**, **-a**, **-o** kaj **-u**.
+Estas kvin serioj da korelativoj kun la finaĵoj **-i**, **-e**, **-a**, **-o** kaj **-u**. Ili akceptas la ŝajnprefiksojn **qu-**, **l-** kaj **omn-**, **un-**, **n-**.
 
 | | | | | |
 |-|-|-|-|-|
@@ -203,20 +205,20 @@ Estas kvin serioj da korelativoj kun la finaĵoj **-i**, **-e**, **-a**, **-o** 
 | *kie*, *kiel*, *kial*, *kiam*, *kiom* | **qŭo**  = **quo** *[kuo']* | | *tie*, *tiel*, *tial*, *tiam*, *tiom* | **lo** |
 | *kien* | **qŭu** = **quu** *[kuu']* | | *tien* | **lu** |
 
-Korelativoj ricevas la multenombran finaĵon **-s**.
+| | | | | | | | |
+|-|-|-|-|-|-|-|-|
+| *ĉiu* | **omni** | | *iu* | **uni** | | *neniu* | **ni** |
+| *ĉio* | **omne** | | *io* | **une** | | *nenio* | **ne** |
+| *ĉia*, *ĉiu*, *ĉies* | **omna** | | *ia*, *iu*, *ies* | **una** | | *nenia*, *neniu*, *nenies* | **na** |
+| *ĉie*, *ĉiel*, *ĉial*, *ĉiam*, *ĉiom* | **omno** | | *ie*, *iel*, *ial*, *iam*, *iom* | **uno** | | *nenie*, *neniel*, *nenial*, *neniam*, *neniom* | **no** |
+| *ĉien* | **omnu** | | *ien* | **unu** | | *nenien* | **nu** |
+
+Korelativoj ricevas la finaĵon **-s** por multenombro.
 
 | | |
 |-|-|
-| *la domoj* | **las domos** |
-| | |
-| *tiu*, *ĝi* | **le** |
-| *tiuj*, *ili* | **les** |
-
-***En poezio***, ankaŭ korelativoj je **-a** ricevas la multenombran finaĵon **-s**.
-
-| | | poezie |
-|-|-|-|
-| *fore tiuj domoj*, *la domoj* | **la domos** | **las domos** |
+| *tiuj* | **les** |
+| *"tiuj tomoj"*, *la domoj* | **las domos** |
 
 Estas kvin ŝajnkorelativoj kun la ŝajnfinaĵoj **-ale**, **-are** kaj **-ad**, **-am**, **-om**.
 
