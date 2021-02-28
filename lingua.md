@@ -199,11 +199,11 @@ Estas kvin serioj da korelativoj kun la finaĵoj **-i**, **-e**, **-a**, **-o** 
 
 | | | | | |
 |-|-|-|-|-|
-| *kiu* | **qui** *[kui']* | | *tiu* | **li** |
-| *kio* | **que** *[kue']* | | *tio* | **le** |
-| *kia*, *kiu*, *kies* | **qua** *[kua']* | | *tia*, *tiu*, *ties* | **la** |
-| *kie*, *kiel*, *kial*, *kiam*, *kiom* | **quo** *[kuo']* | | *tie*, *tiel*, *tial*, *tiam*, *tiom* | **lo** |
-| *kien* | **quu** *[kuu']* | | *tien* | **lu** |
+| *kiu* | **qui** *[kui']* | | *tiu* | **li** | | *ĉi tiu* | **hi** |
+| *kio* | **que** *[kue']* | | *tio* | **le** | | *ĉi tio* | **he** |
+| *kia*, *kiu*, *kies* | **qua** *[kua']* | | *tia*, *tiu*, *ties* | **la** | | *ĉi tia*, *ĉi tiu*, *ĉi ties* | **ha** |
+| *kie*, *kiel*, *kial*, *kiam*, *kiom* | **quo** *[kuo']* | | *tie*, *tiel*, *tial*, *tiam*, *tiom* | **lo** | | *ĉi tie*, *ĉi tiel*, *ĉi tial*, *ĉi tiam*, *ĉi tiom* | **ho** |
+| *kien* | **quu** *[kuu']* | | *tien* | **lu** | | *ĉi tien* | **hu** |
 
 Krom la korelativaj ŝajnprefiksoj **qu-** kaj **l-** estas ankaŭ **omn-**, **un-** kaj **n-**.
  
@@ -237,54 +237,35 @@ La korelativo **la** kaj la numeralo **un** uziĝas kiel artikoloj. **En poezio*
 | *tiu amiko*, *la amiko* | **la amico** | **l'amico** |
 | *unu amiko*, *amiko* | **una amico** | **un'amico** |
 
-Korelativoj ricevas la finaĵon **-s** por multenombro.
-
-| | |
-|-|-|
-| *tiuj* | **les** |
-| *tiuj tomoj*, *la domoj* | **las domos** |
-
 ### Pronomoj
 
 | | |
 |-|-|
-| *mi*, *vi*, *ŝi/li/ĝi* | **mu**, **tu**, **lu** |
-| *ŝi*, *li*, *ri*, *ĝi* | **alu**, **olu**, **elu**, **ulu** |
-| *ni*, *vi*, *ili* | **nu**, **vu**, **ilu** |
-| *oni*, *si* | **?**, **su** |
+| *li*, *ŝi*, *ĝi*, *ri*, *ili* | **ole**, **ale**, **ule**, **ele**, **ile** |
+| *lia*, *ŝia*, *ĝia*, *ria*, *ilia* | **ola**, **ala**, **ula**, **ela**, **ila** |
+| *lin/ŝin/rin/ĝin*, *ilin* | **le**, **les** |
+| | |
+| *oni* | **uni** |
+| *onia* | **una** |
+| *onin* | **unu** |
 
 | | |
 |-|-|
-| *mia*, *via*, *ŝia/lia/ĝia* | **mua**, **tua**, **lua** |
-| *ŝia*, *lia*, *ria*, *ĝia* | **alua**, **olua**, **elua**, **ulua** |
-| *nia*, *via*, *ilia* | **nua**, **vua**, **ilua** |
-| *onia*, *sia* | **?**, **sua** |
-
+| *mi*, *vi* | **me**, **tu** |
+| *mia*, *via* | **mea**, **tūa** = **tua** |
+| *min*, *vin* | **mi**, **ti** |
 | | |
-|-|-|
-| *min*, *vin*, *ŝia/lia/ĝin* | **mi**, **ti**, **li** |
-| *ŝin*, *lin*, *rin*, *ĝin* | **ali**, **oli**, **eli**, **uli** |
-| *nin*, *vin*, *ilin* | **ni**, **vi**, **ili** |
-| *onin*, *sin* | **?**, **si** |
+| *ni*, *vi* | **nos**, **vos** |
+| *nia*, *via* | **nossa**, **vossa** |
+| *nin*, *vin* | **ni**, **vi** |
+| | |
+| *si* | **su** |
+| *sia* | **sūa** = **sua** |
+| *sin* | **si** |
 
-Kelkaj korelativoj je **-i** estas ankaŭ personaj pronomoj.
 
 ----
-@?
-----
 
-| korelativo | pronomo | |
-|-|-|-|
-| *kiu* | | **qŭi** |
-| | | |
-| *ĉiu* | | **omni** |
-| *neniu* | | **noni** |
-| *iu* | *oni* | **oni** |
-| | | |
-| *jen tiu* | *ri* | **hi** |
-| *ĉi tiu* | *ĝi* | **ji** |
-| *tiu* | *vi* | **ti** |
-| *fore tiu* | *li* | **li** |
 
 ***En poezio***, uziĝas **-li** anstataŭ **ali**, **oli**, **hi** kaj **ji**. Uziĝas **-lis** anstataŭ **ili**.
 
