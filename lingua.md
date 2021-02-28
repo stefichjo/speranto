@@ -273,7 +273,13 @@ Infinitivoj finiĝas je -**ere**.
 |-|-|
 | *havi* | **habere** |
 
-***En poezio***, la infinitva formo **essere** mallongiĝas al **esse**.
+***En poezio***, la infinitivo kaj persona pronomo en akuzativo fariĝas kvazaŭ unu vorto.
+
+| | | poezie |
+|-|-|-|
+| *sin movi*, *moviĝi* | **si movĕre** | **movĕrsi** |
+
+***En poezio***, la infinitiva formo **essere** mallongiĝas al **esse**.
 
 | | | poezie |
 |-|-|-|
