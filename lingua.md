@@ -195,7 +195,7 @@ La ŝajnsufikso por ordinaloj estas **-essĭma** *[esi-ma]*. ***En Poezio***, or
 
 ### Korelativoj
 
-Estas kvin serioj da korelativoj kun la finaĵoj **-i**, **-e**, **-a**, **-o** kaj **-u**. Ili akceptas la ŝajnprefiksojn **qu-**, **l-** kaj **omn-**, **un-**, **n-**.
+Estas kvin serioj da korelativoj kun la finaĵoj **-i**, **-e**, **-a**, **-o** kaj **-u**.
 
 | | | | | |
 |-|-|-|-|-|
@@ -205,6 +205,15 @@ Estas kvin serioj da korelativoj kun la finaĵoj **-i**, **-e**, **-a**, **-o** 
 | *kie*, *kiel*, *kial*, *kiam*, *kiom* | **qŭo**  = **quo** *[kuo']* | | *tie*, *tiel*, *tial*, *tiam*, *tiom* | **lo** |
 | *kien* | **qŭu** = **quu** *[kuu']* | | *tien* | **lu** |
 
+Korelativoj ricevas la finaĵon **-s** por multenombro.
+
+| | |
+|-|-|
+| *tiuj* | **les** |
+| *"tiuj tomoj"*, *la domoj* | **las domos** |
+
+Krom la korelativaj ŝajnprefiksoj **qu-** kaj **l-** estas ankaŭ **omn-**, **un-** kaj **n-**.
+ 
 | | | | | | | | |
 |-|-|-|-|-|-|-|-|
 | *ĉiu* | **omni** | | *iu* | **uni** | | *neniu* | **ni** |
@@ -213,12 +222,7 @@ Estas kvin serioj da korelativoj kun la finaĵoj **-i**, **-e**, **-a**, **-o** 
 | *ĉie*, *ĉiel*, *ĉial*, *ĉiam*, *ĉiom* | **omno** | | *ie*, *iel*, *ial*, *iam*, *iom* | **uno** | | *nenie*, *neniel*, *nenial*, *neniam*, *neniom* | **no** |
 | *ĉien* | **omnu** | | *ien* | **unu** | | *nenien* | **nu** |
 
-Korelativoj ricevas la finaĵon **-s** por multenombro.
-
-| | |
-|-|-|
-| *tiuj* | **les** |
-| *"tiuj tomoj"*, *la domoj* | **las domos** |
+----
 
 Estas kvin ŝajnkorelativoj kun la ŝajnfinaĵoj **-ale**, **-are** kaj **-ad**, **-am**, **-om**.
 
