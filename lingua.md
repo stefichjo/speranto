@@ -201,7 +201,7 @@ Estas kvin serioj da korelativoj kun la finaĵoj **-i**, **-e**, **-a**, **-o** 
 | *kio* | **qŭe** = **que** *[kue']* | | *tio* | **le** |
 | *kia*, *kiu*, *kies* | **qŭa** = **qua** *[kua']* | | *tia*, *tiu*, *ties* | **la** |
 | *kie*, *kiel*, *kial*, *kiam*, *kiom* | **qŭo**  = **quo** *[kuo']* | | *tie*, *tiel*, *tial*, *tiam*, *tiom* | **lo** |
-| *kien* | **qŭu** = **quu** *[kuu']* | | *tien* | *lu* |
+| *kien* | **qŭu** = **quu** *[kuu']* | | *tien* | **lu** |
 
 Korelativoj ricevas la multenombran finaĵon **-s**.
 
