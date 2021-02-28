@@ -205,13 +205,6 @@ Estas kvin serioj da korelativoj kun la finaĵoj **-i**, **-e**, **-a**, **-o** 
 | *kie*, *kiel*, *kial*, *kiam*, *kiom* | **quo** *[kuo']* | | *tie*, *tiel*, *tial*, *tiam*, *tiom* | **lo** |
 | *kien* | **quu** *[kuu']* | | *tien* | **lu** |
 
-Korelativoj ricevas la finaĵon **-s** por multenombro.
-
-| | |
-|-|-|
-| *tiuj* | **les** |
-| *tiuj tomoj*, *la domoj* | **las domos** |
-
 Krom la korelativaj ŝajnprefiksoj **qu-** kaj **l-** estas ankaŭ **omn-**, **un-** kaj **n-**.
  
 | | | | | | | | |
@@ -235,37 +228,21 @@ Krom la korelativaj ŝajnprefiksoj **qu-** kaj **l-** estas ankaŭ **omn-**, **u
 | *kiom* | **quo** | **quanto** |
 | *kiel* | **quo** | **quomo** |
 
-----
-
-***En poezio***, la korelativoj **qŭe** kaj **qŭa** ricevas la finaĵon **-u** anstataŭ la akuzativan prepozicion **a**.
-
-| | | poezie |
-|-|-|-|
-| | | |
-| *kion* | **a qŭe** | **qŭu** |
-| *kiun* | **a qŭa** | **qŭu** |
-
-La formo **nono** *(neniel)* uziĝas nur ***tra bruo*** anstataŭ la kutima formo **no**.
-
-| | | tra bruo |
-|-|-|-|
-| *neniel*, *ne* | **no** | **nono** |
-
-***En poezio***, uziĝas **-le** anstataŭ **he**, **je** kaj **te**.
-
-| | | poezie |
-|-|-|-|
-| *vidi jen tion* | **videre he** | **viderle** |
-| *vidi ĉi tion* | **videre je** | **viderle** |
-| *vidi tion* | **videre te** | **viderle** |
-
 ### Artikoloj
 
-La korelativo **la** uziĝas kiel difina artikolo.
+La korelativo **la** kaj la numeralo **un** uziĝas kiel artikoloj. **En poezio**, ili povas mallongiĝi al **l'** kaj **un'**.
+
+| | | poezie |
+|-|-|-|
+| *tiu amiko*, *la amiko* | **la amico** | **l'amico** |
+| *unu amiko*, *amiko* | **una amico** | **un'amico** |
+
+Korelativoj ricevas la finaĵon **-s** por multenombro.
 
 | | |
 |-|-|
-| *fore tiu*, *la* | **la** |
+| *tiuj* | **les** |
+| *tiuj tomoj*, *la domoj* | **las domos** |
 
 ### Pronomoj
 
