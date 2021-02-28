@@ -199,11 +199,11 @@ Estas kvin serioj da korelativoj kun la finaĵoj **-i**, **-e**, **-a**, **-o** 
 
 | | | | | |
 |-|-|-|-|-|
-| *kiu* | **qŭi** = **qui** *[kui']* | | *tiu* | **li** |
-| *kio* | **qŭe** = **que** *[kue']* | | *tio* | **le** |
-| *kia*, *kiu*, *kies* | **qŭa** = **qua** *[kua']* | | *tia*, *tiu*, *ties* | **la** |
-| *kie*, *kiel*, *kial*, *kiam*, *kiom* | **qŭo**  = **quo** *[kuo']* | | *tie*, *tiel*, *tial*, *tiam*, *tiom* | **lo** |
-| *kien* | **qŭu** = **quu** *[kuu']* | | *tien* | **lu** |
+| *kiu* | **qui** *[kui']* | | *tiu* | **li** |
+| *kio* | **que** *[kue']* | | *tio* | **le** |
+| *kia*, *kiu*, *kies* | **qua** *[kua']* | | *tia*, *tiu*, *ties* | **la** |
+| *kie*, *kiel*, *kial*, *kiam*, *kiom* | **quo** *[kuo']* | | *tie*, *tiel*, *tial*, *tiam*, *tiom* | **lo** |
+| *kien* | **quu** *[kuu']* | | *tien* | **lu** |
 
 Korelativoj ricevas la finaĵon **-s** por multenombro.
 
@@ -228,12 +228,12 @@ Estas kvin ŝajnkorelativoj kun la ŝajnfinaĵoj **-ale**, **-are** kaj **-ad**,
 
 | | |
 |-|-|
-| *kies*, *kia* | **qŭale** *[kuale → kŭale]* |
-| *kial* | **qŭare** *[kuare → kŭare]* |
+| *kies*, *kia* | **quale** *[kuale]* |
+| *kial* | **quare** *[kuare]* |
 | | |
-| *kiam* | **qŭad** *[kuad' → kŭad]* (= **qŭando**) |
-| *kiom* | **qŭam** *[kuam' → kŭam]* (= **qŭanto**) |
-| *kiel* | **qŭom** *[kuom' → kŭom]* (= **como**) |
+| *kiam* | **quad** *[kuad']* (= **qŭando**) |
+| *kiom* | **quam** *[kuam']* (= **qŭanto**) |
+| *kiel* | **quom** *[kuom']* (= **como**) |
 
 ***En poezio***, la korelativoj **qŭe** kaj **qŭa** ricevas la finaĵon **-u** anstataŭ la akuzativan prepozicion **a**.
 
