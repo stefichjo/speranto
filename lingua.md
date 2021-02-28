@@ -55,11 +55,12 @@ En diftongoj, **i** kaj **u** ne estas akcentataj.
 | *akvo* | **aqŭa** = **aqua** *[aku-a]* |
 | *lingvo* | **lingŭa** = **lingua** *[lingu-a]* |
 
-En la diftongoj **iu** kaj **ui**, **i** ne estas akcentata.
+En la diftongoj **iu** kaj **ui**, la diftongokomencaj **i-** kaj **u-** ne estas akcentataj.
 
 | | |
 |-|-|
 | *justa*, *ĝusta* | **ĭusta** = **iusta** *[iusta]* |
+| *kiu* | **qŭi** = **qui** *[kui']* |
 
 ### Grekaj Vortoj
 
@@ -189,11 +190,11 @@ Estas kvin korelativoj kun la finaĵoj **-i**, **-e**, **-a**, **-o** kaj **-u**
 
 | | |
 |-|-|
-| *kiu* | **qŭi** *[kui' → kŭi]* |
-| *kio* | **qŭe** *[kue' → kŭe]* |
-| *kia*, *kiu*, *kies* | **qŭa** *[kua' → kŭa]* |
-| *kie*, *kiel*, *kial*, *kiam*, *kiom* | **qŭo** *[kuo' → kŭo]* |
-| *kien* | **qŭu** *[kuu' → kŭu]* |
+| *kiu* | **qŭi** = **qui** *[kui']* |
+| *kio* | **qŭe** = **que** *[kue']* |
+| *kia*, *kiu*, *kies* | **qŭa** = **qua** *[kua']* |
+| *kie*, *kiel*, *kial*, *kiam*, *kiom* | **qŭo**  = **quo** *[kuo']* |
+| *kien* | **qŭu** = **quu** *[kuu']* |
 
 Korelativoj je **-e** ricevas la multenombran finaĵon **-s**.
 
