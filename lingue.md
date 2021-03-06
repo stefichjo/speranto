@@ -257,7 +257,7 @@ Prepoziciaĵoj finiĝas je **-aŭ**.
 
 | | |
 |-|-|
-| *ĉirkaŭ* | **circĕ al** *[cirkal]* |
+| *ĉirkaŭ* | **circ̄ĕ al** *[cirkal]* |
 | *dank' al* | **gratiĕ ał** *[graθjal]* |
 | *anstataŭ* | **vicĕ al** *[vical]* |
 
