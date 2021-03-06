@@ -53,7 +53,7 @@ Kiam **c** kaj **g** estas prononcataj *[k]* kaj *[g]* antaŭ **-e** kaj **-i**,
 
 ### i, u
 
-Neakcentata radikofina **-i** eliziiĝas post konsonanto. @?
+Neakcentata radikofina **-i** eliziiĝas post konsonanto.
 
 | | |
 |-|-|
@@ -75,14 +75,14 @@ En diftongoj, **u** prononciĝas *[ŭ]*. Post konsonanto kaj komence de radiko, 
 | *akvo* | **aquo** *[akvo]* |
 | *kvanto* | **quanto** *[kvante]* |
 | | |
-| *ŭaŭ* | **uau** *[vaŭ]* |
+| *ŭaŭ* | **wau** *[vaŭ]* |
 
 Kiam **i** kaj **u** estas akcentataj en antaŭlasta pozicio, ili portas makronon. En fremdaj vortoj, eblas skribi **y** anstataŭ **ī**.
 
 | | |
 |-|-|
-| *poezio* | **poesīo** *[poezie]* |
-| *tatuo* | **tatūo** *[tatue]* |
+| *poezio* | **poesīo** *[poezio]* |
+| *situi* | **sitūi** *[situi]* |
 | | |
 | *hobio* | **hobbīo** = **hobbyo** *[hobio]* |
 
@@ -131,6 +131,7 @@ Fremdaj vortoj povas eniri Lingvoon laŭ la origina ortografio.
 | *tuŝi* | **tǒçci** = **tuçci** *[tuŝi]* |
 | | |
 | *ĉielo* | **çẽlo** = **çielo** *[sielo]* |
+| *tuta* | **tǒta** = **tuta** *[tuta]* |
 | *vojo* | **vĩo** = **voyo** *[vojo]* |
 
 #### Italaj Vortoj
@@ -183,33 +184,6 @@ Fremdaj vortoj povas eniri Lingvoon laŭ la origina ortografio.
 | *preĝi* | **pregŭi** |
 
 ----
-
-
-### qu, c, g
-
-***TODO*** aliaj dialektoj ne havas tiun chi sekcion
-
-Inter konsonantoj, **u** prononciĝas *[u]*. Inter konsonanto kaj vokalo (aŭ radikofino), **u** prononciĝas *[v]*, kaj **ū** restas *[u]*. Post vokalo, ĝi fariĝas **ŭ** *[ŭ]*. ***TODO*** Post konsonanto, **ŭ** estas muta.
-
-| |
-|-|
-| **tuta** *[=]* |
-| |
-| **aquo** *[akvo]* |
-| **linguo** *[lingvo]* |
-| **quanto** *[kvanto]* |
-| **sequi** *[sekvi]* |
-| **viduo** *[vidvo]* |
-| |
-| **evolūi** *[evolui]* |
-| **individūo** *[individuo]* |
-| **sitūi** *[situi]* |
-| **sitūatīo** *[situacio]* → *[situasio]* |
-| |
-| **taŭro** *[=]* |
-| |
-| **qŭe** *[ke]* |
-| (**kio** → **qŭio** *[kio]* ) |
 
 ### Grekaj Vortoj
 
