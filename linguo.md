@@ -118,6 +118,7 @@ Fremdaj vortoj povas eniri Lingvoon laŭ la origina ortografio.
 | *ĉe* | **çhä** = **çhe** *[ŝe]* |
 | *ĉemizo* | **çhämisĭo** = **çhemiso** *[ŝemizo]* |
 | *-eco* | **-etĭo** = **-esso** *[eso]* |
+| *maŝino* | **maçhino** *[maŝino]* |
 | *mesaĝo* | **mïssaĵo** = **messaĵo** *[mesaĵo]* |
 | *neĝo* | **nïvĭo** = **neĵo** *[neĵo]* |
 | *ruĝa* | **ruvĭa** = **ruĵa** *[ruĵa]* |
@@ -153,6 +154,10 @@ Fremdaj vortoj povas eniri Lingvoon laŭ la origina ortografio.
 | *paco* | **paĉo** *[paĉo]*  | *[paco]* |
 | *ŝanco* | **çhanço** *[ŝanso]* | *[ŝanco]* |
 | | |
+| *eĥo* | **echo** *[eko]* | *[eĥo]* |
+| *kemio* | **chemio** *[kemio]* | *[ĥemio]* |
+| *mekaniko* | **mechanico** *[mekaniko]* | *[meĥaniko]* |
+| | |
 | *precipe* | **prençipe** *[prensipe]* | *[prencipe]* |
 | *saŭco* | **sałso** *[saŭso]* | *[saŭco]* |
 | *senco* | **senso** *[senso]* | *[senco]* |
@@ -184,46 +189,6 @@ Fremdaj vortoj povas eniri Lingvoon laŭ la origina ortografio.
 | *preĝi* | **pregŭi** |
 
 ----
-
-### Grekaj Vortoj
-
-Samkiel en **aŭ** [aŭ], **ŭ** prononciĝas [ŭ] en **eŭ**. Tra bruo, **y** prononciĝas *[y]*.
-
-| |
-|-|
-| **aŭto** *[=]* |
-| **Eŭropo** *[=]* |
-| |
-| **systemo** *[sistemo]* ← *[systemo]* |
-
-**k** *[k]* skribiĝas **k** nur antaŭ **e** kaj **i**. En aliaj kuntekstoj, ĝi skribiĝas **c** en ***Lingvoo***.
-
-| |
-|-|
-| **kaĭ** → **caĭ** *[kaj]* |
-| **kilo** *[=]* |
-
-***Tra bruo***, **th** *[t]* prononciĝas *[θ]*. **ch** *[k]* prononciĝas *[ĥ]* fine de la radiko, sed ***tra bruo***, ĝi ĉiam prononciĝas *[ĥ]*.
-
-| |
-|-|
-| **kalligraphio** → **calligraphio** *[kaligrafio]* |
-| **phaso** *[fazo]* |
-| |
-| **sympathio** *[simpatio]* ← *[sympaθio]* |
-| **themo** *[temo]* ← *[θemo]* |
-| |
-| **charactero** *[karaktero]* ← *[ĥaraktero]* |
-| **chemio** *[kemio]* ← *[ĥemio]* |
-| **ecĥo** → **echo** *[eĥo]* |
-| **maçhino** *[maŝino]* |
-| **mechanico** *[mekaniko]* ← *[meĥaniko]* |
-
-**z** prononciĝas *[z]*.
-
-| |
-|-|
-| **zono** *[=]* |
 
 ### Ĝermanaj Vortoj
 
