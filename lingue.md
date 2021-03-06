@@ -27,6 +27,7 @@ La Lingvaaj ŝajnsufiksoj **-ĭn-** kaj **-ĭt** eliziiĝas.
 
 | | |
 |-|-|
+| *graco* | **gratie** *[graθje]* |
 | *spaco* | **spatie** *[spaθje]* |
 | | |
 | *nacio* | **natie** *[naθje]* |
@@ -256,14 +257,14 @@ Prepoziciaĵoj finiĝas je **-aŭ**.
 
 | | |
 |-|-|
-| *ĉirkaŭ* | **circał** → **circau** *[ĉirkaŭ]* |
-| *dank' al* | **gratiał** → **gratiau** *[gracjaŭ]* |
-| *anstataŭ* | **vizał** → **vizau** *[vicaŭ]* |
+| *ĉirkaŭ* | **circĕ al** *[cirkal]* |
+| *dank' al* | **gratiĕ ał** *[graθjal]* |
+| *anstataŭ* | **vicĕ al** *[vical]* |
 
-La akuzativa prepozicio **a** uziĝas nur ***tra bruo*** (kaj antaŭ nomoj kaj antaŭ nominativa frazparto).
+La akuzativa prepozicio **a** uziĝas ***tra bruo*** (kaj antaŭ nomoj kaj kiam la akuzativa frazparto antaŭas la nominativan frazparton).
 
 | | (tra bruo) |
 |-|-|
 | *mi vidas Karlan* | **mi vidan a Carla** |
-| *vin mi vidas* | **a ti mi vidan** |
+| *vin mi vidas* | **a tī mi vidan** |
 
