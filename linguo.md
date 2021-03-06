@@ -1,62 +1,95 @@
- @Lingvoo: Alternative, oni povas skribi **qŭ** kaj **gŭ** anstataŭ **c̄** kaj **ḡ**.
- @Lingvoo: Alternative, oni povas skribi **ty** anstataŭ **t̄**.
-
 # Linguo
-
-***TODO*** Eĉ se ni supozos...
 
 ***Lingvoo*** pruntas el [***Lingveo***](lingue.md) kaj el [***Lingvao***](lingua.md), [***Sprako***](sprak.md) kaj [***Jaziko***](jazyk.md). ***Lingvoo*** havas trajtojn de [***Esperanto***](https://eo.wikipedia.org/wiki/Esperanto).
 
 ## Prononco
 
-Vd. [prononco en ***Lingveo***](lingue.md#prononco).
+### Akcento
+
+Vd. [akcento en ***Lingveo***](lingue.md#akcento).
+
+### t, d
+
+**t** estas prononcata *[s]* antaŭ radikofina **-i**. Kiam radikofina **-ti** ne estas akcentata, la **i** eliziiĝas. La Lingvaa ŝajnfinaĵo **-ione** *[ione]* mallongiĝas al **-io** *[io]*.
+
+| | |
+|-|-|
+| *graco* | **gratio** *[graso]* |
+| *spaco* | **spatio** *[spaso]* |
+| | |
+| *nacio* | **natio** *[nasio]* |
+
+Kiam radikofina **-ti** estas prononcata *[ti]*, ĝi skribiĝas **ty**. (Radikofinaa **-sti** ĉiam prononciĝas *[st]*.)
+
+| | |
+|-|-|
+| *partio* | **partyo** *[partio]* |
+| | |
+| *besto* | **bestio** *[besto]* |
+
+La Lingvaa ŝajnsufikso **-atĭc-** fariĝas **aĵ** *[aĵ]*.
+
+| | |
+|-|-|
+| *fromaĝo* | **formatĭco** = **formaĵo** *[formaĵo]* |
+| *mesaĝo* | **missatĭco** = **missaĵo** *[misaĵo]* |
+| *vojaĝo* | **viatĭco** = **viaĵo** *[viaĵo]* |
+
+### c, g
+
+**c** kaj **g** estas prononcataj *[ĉ]* kaj *[ĝ]* antaŭ **-e** kaj **-i** (kaj **-y**).
+
+| | |
+|-|-|
+| *centro* | **centro** *[ĉentro]* |
+| *leĝo* | **leĝo**  *[leĝo]* |
+| | |
+| *biciklo* | **bicyclo** *[biĉiklo]* |
+
+Kiam **c** kaj **g** estas prononcataj *[k]* kaj *[g]* antaŭ **-e** kaj **-i**, ili skribiĝas **qŭ** kaj **gŭ**.
+
+| | |
+|-|-|
+| *amike* | **amiqŭe** *[amike]* |
+| *longe* | **longŭe** *[longe]* |
 
 ### i, u
 
-Post konsonanto, radikofina **i** kutime eliziiĝas. Kiam ĝi ne eliziiĝas sed akcentiĝas, ĝi skribiĝas **ī**.
+Neakcentata radikofina **-i** eliziiĝas post konsonanto.
 
 | | |
 |-|-|
-| *ekvilibro* | **equilibrio** *[ekvilibro]* |
-| | |
-| *ebria* | **ebrīa** *[ebria]* |
-| *familio* | **familīo** *[familio]* |
+| *majo* | **maio** *[majo]* |
+| *filo* | **filio** *[filo]* |
 
-### ti
-
-Kiam radikofina **i** eliziiĝas post **t** *[c]*, skribiĝas **z** *[c]*. (Radikofina **sti** *[st]* skribiĝas **st**.)
+**j** prononciĝas *[ĥ]*.
 
 | | |
 |-|-|
-| *potenco* | **potentio** → **potenzo** *[potenco]* |
-| *potencialo* | **potentialo** *[potencjalo]* → *[potensjalo]* |
-| | |
-| *spaco* | **spatio** → **spazo** *[spaco]* |
-| *placo* | **plazo** *[placo]* |
-| | |
-| *besto* | **bestio** → **besto** *[besto]* |
+| *jam* | **jam** *[ĥam]* |
+| *objekto* | **objecto** *[obĥekto]* |
 
-### ci, gi, j
-
----
-
-***TODO*** j -> i, u
-
-En ***Pralingvoo***, la skriboj por **ĉ** *[ĉ]*, **ċ** *[c]*, **ĝ** *[ĝ]* (t.e. plozivaj frikativoj) kaj **çh** *[ŝ]*, **ç** *[s]*, **ĵ** *[ĵ]* (t.e. ne-plozivaj frikativoj) estas fiksitaj. (La skribo de **ĝ** povas varii laŭ la etimologio jen al **dĵ**, jen al **j**.) (La skribo **çh** surogatas la skribon **^ç**.)
+En diftongoj, **u** prononciĝas *[ŭ]*. Post konsonanto kaj komence de radiko, **u** prononciĝas *[v]*.
 
 | | |
 |-|-|
-| **ĉ** *[ĉ]* | **çh** *[ŝ]* |
-| **ċ** *[c]* | **ç** *[s]* |
-| **ĝ** *[ĝ]* | **ĵ** *[ĵ]* |
+| *aŭto* | **auto** *[aŭto]* |
+| *akvo* | **aquo** *[akvo]* |
+| *kvanto* | **quanto** *[kvante]* |
+| | |
+| *ŭaŭ* | **uau** *[vaŭ]* |
 
-En ***Lingvoo***, la skriboj varias laŭ ilia pozicio, t.e. ĉu ili estas radikofinaj aŭ ne. (Ĉi-sence sufiksoj ne estas radikoj.)
+Kiam **i** kaj **u** estas akcentataj en antaŭlasta pozicio, ili portas makronon. En fremdaj vortoj, eblas skribi **y** anstataŭ **ī**.
 
-| | | |
-|-|-|-|
-| **tsh** *[ĉ]* | **çh** *[ĉ]*/*[ŝ]* | **sh** *[ŝ]* |
-| **ts** *[c]* | **z/c** *[c]*/*[s]* | **s** *[s]* |
-| **dj** *[ĝ]* | **j/g** *[ĝ]*/*[ĵ]* | **jh** *[ĵ]* |
+| | |
+|-|-|
+| *poezio* | **poesīo** *[poezie]* |
+| *tatuo* | **tatūo** *[tatue]* |
+| | |
+| *hobio* | **hobbīo** = **hobbyo** *[hobio]* |
+
+
+----
 
 | |
 |-|

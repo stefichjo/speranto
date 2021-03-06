@@ -6,7 +6,7 @@
 
 ### Akcento
 
-La antaŭlasta vokalo estas akcentata.
+La antaŭlasta silabo estas akcentata.
 
 | | |
 |-|-|
