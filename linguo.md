@@ -1,3 +1,6 @@
+ @Lingvoo: Alternative, oni povas skribi **qŭ** kaj **gŭ** anstataŭ **c̄** kaj **ḡ**.
+ @Lingvoo: Alternative, oni povas skribi **ty** anstataŭ **t̄**.
+
 # Linguo
 
 ***TODO*** Eĉ se ni supozos...

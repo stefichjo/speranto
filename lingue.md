@@ -4,23 +4,24 @@
 
 ## Prononco
 
-### t, c, d, g
+### Akcento
 
-**c** kaj **g** estas prononcataj *[c]* kaj *[dz]* antaŭ **-e** kaj **-i** (kaj **-y**).
-
-| | |
-|-|-|
-| *centro* | **centre** *[centre]* |
-| *leĝo* | **lege**  *[ledze]* |
-| | |
-| *biciklo* | **bicycle** *[bicikle]* |
-
-Kiam **c** kaj **g** estas prononcataj *[k]* kaj *[g]* antaŭ **-e** kaj **-i**, ili portas makronon. @Lingvoo: Alternative, oni povas skribi **qŭ** kaj **gŭ** anstataŭ **c̄** kaj **ḡ**.
+La antaŭlasta vokalo estas akcentata.
 
 | | |
 |-|-|
-| *amiko* | **amic̄e** = **amiqŭe** *[amike]* |
-| *fungo* | **funḡe** = **fungŭe** *[funge]* |
+| *bona* | **bona** |
+
+La Lingvaaj ŝajnsufiksoj **-ĭn-** kaj **-ĭt** eliziiĝas.
+
+| | |
+|-|-|
+| *homo* | **homĭne** = **home** |
+| *nomo* | **nomĭne** = **nome** |
+| *limo* | **limĭte** = **lime** |
+| *lumo* | **lumĭne** = **lume** |
+
+### t, d
 
 **t** estas prononcata *[θ]* antaŭ radikofina **-i**. La Lingvaa ŝajnfinaĵo **-ione** *[ione]* mallongiĝas al **-ie** *[je]*.
 
@@ -30,7 +31,7 @@ Kiam **c** kaj **g** estas prononcataj *[k]* kaj *[g]* antaŭ **-e** kaj **-i**,
 |-|-|
 | *nacio* | **natie** *[naθje]* |
 
-Kiam **t** estas prononcata *[t]* antaŭ radikofina **-i**, ĝi portas makronon. (**st** ĉiam prononciĝas *[st]*.) @Lingvoo: Alternative, oni povas skribi **ty** anstataŭ **t̄**.
+Kiam **t** estas prononcata *[t]* antaŭ radikofina **-i**, ĝi portas makronon. (**st** ĉiam prononciĝas *[st]*.)
 
 | | |
 |-|-|
@@ -44,6 +45,24 @@ La Lingvaa ŝajnsufikso **-atĭc-** prononciĝas *[aðj]*.
 | *mesaĝo* | **missatĭco** *[misaðjo]* |
 | *vojaĝo* | **viatĭco** *[viaðjo]* |
  
+### c, g
+
+**c** kaj **g** estas prononcataj *[c]* kaj *[dz]* antaŭ **-e** kaj **-i** (kaj **-y**).
+
+| | |
+|-|-|
+| *centro* | **centre** *[centre]* |
+| *leĝo* | **lege**  *[ledze]* |
+| | |
+| *biciklo* | **bicycle** *[bicikle]* |
+
+Kiam **c** kaj **g** estas prononcataj *[k]* kaj *[g]* antaŭ **-e** kaj **-i**, ili portas makronon.
+
+| | |
+|-|-|
+| *amiko* | **amic̄e** *[amike]* |
+| *fungo* | **funḡe** *[funge]* |
+
 ### i, u
 
 En diftongoj, Lingvaa **i** prononciĝas *[j]*. Komence de radiko, ĝi skribiĝas **j**.
@@ -69,8 +88,18 @@ En diftongoj, **u** prononciĝas *[ŭ]*. Komence de radiko, ĝi skribiĝas **w**
 Kiam **i** kaj **u** estas akcentataj en antaŭlasta pozicio, ili skribiĝas **ī** kaj **ū**.
 
 | | |
+|-|-|
 | *poezio* | **poesīe** *[poezie]* |
 | *tatuo* | **tatūe** *[tatue]* |
+
+### v
+
+Radikofina Lingvaa **-b** fariĝas **-v** *[v]*.
+
+| | |
+|-|-|
+| *havi* | **havu** *[havu]* |
+| *skribi* | **scrivu** *[skrivu]* |
 
 ### s, x
 
@@ -87,23 +116,6 @@ Kiam **i** kaj **u** estas akcentataj en antaŭlasta pozicio, ili skribiĝas **�
 |-|-|
 | *ekzemplo* | **exemple** *[egzemple]* |
 | *fiksi* | **fixu** *[fiksu]* |
-
-### Akcento
-
-La antaŭlasta vokalo estas akcentata.
-
-| | |
-|-|-|
-| *bona* | **bona** |
-
-La Lingvaaj ŝajnsufiksoj **-ĭn-** kaj **-ĭt** eliziiĝas.
-
-| | |
-|-|-|
-| *homo* | **homĭne** = **home** |
-| *nomo* | **nomĭne** = **nome** |
-| *limo* | **limĭte** = **lime** |
-| *lumo* | **lumĭne** = **lume** |
 
 ### Grekaj Vortoj
 
