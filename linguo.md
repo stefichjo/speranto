@@ -53,7 +53,7 @@ Kiam **c** kaj **g** estas prononcataj *[k]* kaj *[g]* antaŭ **-e** kaj **-i**,
 
 ### i, u
 
-Neakcentata radikofina **-i** eliziiĝas post konsonanto.
+Neakcentata radikofina **-i** eliziiĝas post konsonanto. @?
 
 | | |
 |-|-|
@@ -100,7 +100,17 @@ Anstataŭ *[sĉ]*, prononciĝas *[ŝ]*.
 |-|-|
 | *scienco* | **scientĭo** *[ŝienso]* |
 
-### Francaj Vortoj
+### Fremdaj Vortoj
+
+Fremdaj vortoj povas eniri Lingvoon laŭ la origina ortografio.
+
+| | |
+|-|-|
+| *apogi* | **appodȷi** = **appogŭi** *[apogi]* |
+| *mensogi* | **menţonȷi** = **mensogi** *[mensogi]* |
+| *teamo* | **teamo** *[teamo]* |
+
+#### Francaj Vortoj
 
 | | |
 |-|-|
@@ -109,28 +119,38 @@ Anstataŭ *[sĉ]*, prononciĝas *[ŝ]*.
 | *ĉemizo* | **çhämisĭo** = **çhemiso** *[ŝemizo]* |
 | *-eco* | **-etĭo** = **-esso** *[eso]* |
 | *mesaĝo* | **mïssaĵo** = **messaĵo** *[mesaĵo]* |
+| *neĝo* | **nïvĭo** = **neĵo** *[neĵo]* |
 | *ruĝa* | **ruvĭa** = **ruĵa** *[ruĵa]* |
-| *savi* | **sałvi** *[saŭvi]* |
+| *savi* | **sałvi** = **sauvi** *[saŭvi]* |
+| *seĝo* | **sedĭo** = **seĵo** *[seĵo]* |
+| *sieĝo* | **sẽdĭo** = **sieĵo** *[sieĵo]* |
 | *serĉi* | **çïrçhi** = **çerçhi** *[serŝi]* |
 | *ŝanco* | **çhadĕntĭo** = **çhanço** *[ŝanso]* |
 | *ŝanĝo* | **çhambĭo** = **çhanĵo** *[ŝanĵo]* |
 | *sonĝo* | **somnĭo** = **sonĵo** *[sonĵo]* |
 | *tuŝi* | **tǒçci** = **tuçci** *[tuŝi]* |
 | | |
+| *ĉielo* | **çẽlo** = **çielo** *[sielo]* |
 | *vojo* | **vĩo** = **voyo** *[vojo]* |
+
+#### Italaj Vortoj
+
+| | |
+|-|-|
+| *dolĉa* | **důlĉa** = **dolĉa** *[dolĉa]* |
 
 ## Akĉentoj
 
 ### Pola-Germana
 
-| | | slave |
+| | | pole-germane |
 |-|-|-|
 | *-eco* | **-esso** *[eso]* | *[eco]* |
 | *generacio* | **generatio** *[ĝenerasio]* | *[generacio]* |
 | *jam* | **jam** *[ĥam]* | *[jam]* |
 | *koncerto* | **concerto** *[konĉerto]* | *[koncerto]* |
 | *paco* | **paĉo** *[paĉo]*  | *[paco]* |
-| *ŝanco* | **çhadĕntĭo** *[ŝanso]* | *[ŝanco]* |
+| *ŝanco* | **çhanço** *[ŝanso]* | *[ŝanco]* |
 | | |
 | *precipe* | **prençipe** *[prensipe]* | *[prencipe]* |
 | *saŭco* | **sałso** *[saŭso]* | *[saŭco]* |
@@ -142,9 +162,16 @@ Anstataŭ *[sĉ]*, prononciĝas *[ŝ]*.
 |-|-|-|
 | *ĉambro* | **çhambro** *[ŝambro]* | *[ĉambro]* |
 | *ĉarma* | **çharma** *[ŝarma]* | *[ĉarma]* |
+| *ĝusta* | **justa** *[ĥusta]* | *[ĝusta]* |
 | *mesaĝo* | **messaĵo** *[mesaĵo]* | *[mesaĝo]* |
 | *riĉa* | **riçha** *[riŝa]* | *[riĉa]* |
 | *ŝanĝo* | **çhanĵo** *[ŝanĵo]* | *[ĉanĝo]* |
+
+### Franca-Portugala
+
+| | | france-portugale |
+|-|-|-|
+| *ĵus* | *jus* *[ĥus]* | *[ĵus]* |
 
 ## Maltriviala Vortaro Esperanto-Lingvo
 
@@ -157,26 +184,6 @@ Anstataŭ *[sĉ]*, prononciĝas *[ŝ]*.
 
 ----
 
-| |
-|-|
-| |
-| **appodȷi** *[apogi]* → **appogi** *[apoĝi]* |
-| **menţonȷo** *[mensogo]* → **mensogo** |
-| **leĝo** → **lejo** *[leĝo]* |
-| **nevjo** → **nejo** *[neĝo]* |
-| **sedjo** → **sejo** *[seĝo]* |
-| **sẽdjo** → **siejo** *[sieĝo]* |
-| |
-| **dolĉaĵo** → **dolçhajo** *[dolĉaĵo]* |
-| **ĝenerala** *[ĝenerala]* → **generala** *[ĵenerala]* |
-| **generatīo** *[generacio]* → *[ĵenerasio]* |
-| **ĝentila** *[ĝentila]* → **gentila** *[ĵentila]* |
-| **ĭam** *[jam]* → **jam** *[ĵam]* |
-| **ĵuri** → **juri** *[ĵuri]* |
-| **đĵurnalo** → **jurnalo** *[ĵurnalo]* |
-| **ĵus** → **jus** *[ĵus]* |
-| **logico** *[logiko]* → *[loĵiko]* |
-| **manĝaĵo** *[=]* → **manjajo** |
 
 ### qu, c, g
 
@@ -457,26 +464,6 @@ En ***hispan-akĉenta Lingvoo***, prononciĝas *[ĥ]* anstataŭ *[ĵ]*/*[ĝ]*, d
 ***TODO*** na (ludo, sistemo, suprajho) (ofte io nomata? objekto?)
 
 ***TODO*** nomoi ne besonas accusativon
-
-## Gramatiko
-
-### Substantivoj
-
-### Adjektivoj
-
-### Adverboj
-
-### Numeraloj
-
-### Korelativoj
-
-### Artikoloj
-
-### Pronomoj
-
-### Verboj
-
-### Prepozicioj
 
 ***TODO***
 
