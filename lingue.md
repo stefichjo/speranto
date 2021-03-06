@@ -258,7 +258,7 @@ Prepoziciaĵoj finiĝas je **-aŭ**.
 | | |
 |-|-|
 | *ĉirkaŭ* | **circ̄ĕ al** *[cirkal]* |
-| *dank' al* | **gratiĕ ał** *[graθjal]* |
+| *dank' al* | **gratiĕ al** *[graθjal]* |
 | *anstataŭ* | **vicĕ al** *[vical]* |
 
 La akuzativa prepozicio **a** uziĝas ***tra bruo*** (kaj antaŭ nomoj kaj kiam la akuzativa frazparto antaŭas la nominativan frazparton).
