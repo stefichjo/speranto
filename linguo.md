@@ -151,6 +151,9 @@ Anstataŭ *[sĉ]*, prononciĝas *[ŝ]*.
 | Esperanto | Lingvo |
 |-|-|
 | *akĉento* | **accentumo** *[akĉentumo]* |
+| *justa* | **justuma** *[ĥustuma]* |
+| *pregi* | **pragi**/**praigi** |
+| *preĝi* | **pregŭi** |
 
 ----
 
@@ -161,9 +164,6 @@ Anstataŭ *[sĉ]*, prononciĝas *[ŝ]*.
 | **menţonȷo** *[mensogo]* → **mensogo** |
 | **leĝo** → **lejo** *[leĝo]* |
 | **nevjo** → **nejo** *[neĝo]* |
-| **messajo** *[mesaĝo]* |
-| **manĝi** *[=]* → **mangi** |
-| **preĝi** *[=]* → **pregi** |
 | **sedjo** → **sejo** *[seĝo]* |
 | **sẽdjo** → **siejo** *[sieĝo]* |
 | |
@@ -175,12 +175,8 @@ Anstataŭ *[sĉ]*, prononciĝas *[ŝ]*.
 | **ĵuri** → **juri** *[ĵuri]* |
 | **đĵurnalo** → **jurnalo** *[ĵurnalo]* |
 | **ĵus** → **jus** *[ĵus]* |
-| **justa** *[ĝusta]* → *[ĵusta]* |
-| **ĭusta** *[justa]* → **justuma** *[ĵustuma]* |
 | **logico** *[logiko]* → *[loĵiko]* |
 | **manĝaĵo** *[=]* → **manjajo** |
-| |
-| **obĭecto** *[objekto]* → **objecto** *[obĵekto]* |
 
 ### qu, c, g
 
