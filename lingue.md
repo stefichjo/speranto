@@ -28,7 +28,7 @@ La Lingvaaj ŝajnsufiksoj **-ĭn-** kaj **-ĭt** eliziiĝas.
 | | |
 |-|-|
 | *spaco* | **spatie** *[spaθje]* |
-|-|-|
+| | |
 | *nacio* | **natie** *[naθje]* |
 
 Kiam **t** estas prononcata *[t]* antaŭ radikofina **-i**, ĝi portas makronon. (**st** ĉiam prononciĝas *[st]*.)
@@ -85,7 +85,7 @@ En diftongoj, **u** prononciĝas *[ŭ]*. Komence de radiko, ĝi skribiĝas **w**
 | | |
 | *ŭaŭ* | **wau** *[ŭaŭ]* |
 
-Kiam **i** kaj **u** estas akcentataj en antaŭlasta pozicio, ili skribiĝas **ī** kaj **ū**.
+Kiam **i** kaj **u** estas akcentataj en antaŭlasta pozicio, ili portas makronon.
 
 | | |
 |-|-|
@@ -185,6 +185,12 @@ Korelativaj radikoj kombineblas kun sufiksoj.
 | *kiam* | **quam** *[kŭam]* = **quado** *[kŭado]* |
 | *kiom* | **quem** *[kŭem]* |
 
+----
+
+@l-, ...
+
+----
+
 ### Artikoloj
 
 La multenombra formo de **la** estas **las**.
@@ -197,16 +203,28 @@ La difina artikolo estas **la**. **En poezio**, ĝi mallongiĝas al **l'-** anta
 
 | | | poezie |
 |-|-|-|
-| *por la amo* | **por la amo** | **por l'amo** |
 | *de la amo* | **de la amo** | **del amo** |
 
 ### Pronomoj
 
 | | |
 |-|-|
-| *mi*, *vi*, *li* | **mi**, **ti**, **li** |
-| *ŝi*, *li*, *ri* | **ali**, **oli**, **hi** |
-| *ni*, *vi*, *ili* | **ni**, **vi**, **ili** |
+| *li(n)*, *ŝi(n)*, *ĝi(n)*, *ri(n)*, *ili(n)* | **oli**, **ali**, **uli**, **eli**, **ili** |
+| *lia*, *ŝia*, *ĝia*, *ria*, *ilia* | **olia**, **alia**, **ulia**, **elia**, **ilia** |
+| | |
+| *oni(n)* | **uni** |
+| *onia* | **unia** |
+
+| | |
+|-|-|
+| *mi(n)*, *vi(n)* | **mi**, **tī** *[ci]* |
+| *mia*, *via* | **mia**, **tīa** *[cia]* |
+| | |
+| *ni(n)*, *vi(n)* | **ni**, **vi** |
+| *nia*, *via* | **nia**, **via** |
+| | |
+| *si(n)* | **si** |
+| *sia* | **sia** |
 
 ### Verboj
 
@@ -214,7 +232,7 @@ Infinitivoj finiĝas je **-u**.
 
 | | |
 |-|-|
-| *vidi* | **vidu** *[=]* |
+| *vidi* | **vidu** *[vidu]* |
 
 Verboj finiĝas je **-n** kaj havas tempan vokalismon.
 
@@ -229,7 +247,8 @@ La volitiva kaj kondicionala vokaloj estas **e** kaj **u**.
 | | |
 |-|-|
 | *vidu!* | **viden!** |
-| *se mi vidus...* | **se mi vidun...** |
+| *ke vi vidu* | **qŭe vi viden** |
+| *se vi vidus* | **se vi vidun** |
 
 ### Prepozicioj
 
