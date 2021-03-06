@@ -4,13 +4,89 @@
 
 ## Prononco
 
-**c** kaj **g** estas prononcataj *[ĉ]* kaj *[ĝ]* antaŭ **-e** kaj **-i** (kaj **-y**).
+### t, c, d, g
+
+**c** kaj **g** estas prononcataj *[c]* kaj *[dz]* antaŭ **-e** kaj **-i** (kaj **-y**).
 
 | | |
 |-|-|
-| *centro* | **centre** *[ĉentre]* |
+| *centro* | **centre** *[centre]* |
+| *leĝo* | **lege**  *[ledze]* |
 | | |
-| *biciklo* | **bicycle** *[biĉikle]* |
+| *biciklo* | **bicycle** *[bicikle]* |
+
+Kiam **c** kaj **g** estas prononcataj *[k]* kaj *[g]* antaŭ **-e** kaj **-i**, ili portas makronon. @Lingvoo: Alternative, oni povas skribi **qŭ** kaj **gŭ** anstataŭ **c̄** kaj **ḡ**.
+
+| | |
+|-|-|
+| *amiko* | **amic̄e** = **amiqŭe** *[amike]* |
+| *fungo* | **funḡe** = **fungŭe** *[funge]* |
+
+**t** estas prononcata *[θ]* antaŭ radikofina **-i**. La Lingvaa ŝajnfinaĵo **-ione** *[ione]* mallongiĝas al **-ie** *[je]*.
+
+| | |
+|-|-|
+| *spaco* | **spatie** *[spaθje]* |
+|-|-|
+| *nacio* | **natie** *[naθje]* |
+
+Kiam **t** estas prononcata *[t]* antaŭ radikofina **-i**, ĝi portas makronon. (**st** ĉiam prononciĝas *[st]*.) @Lingvoo: Alternative, oni povas skribi **ty** anstataŭ **t̄**.
+
+| | |
+|-|-|
+| *besto* | **best̄ie** = **bestie** *[bestje]* |
+
+La Lingvaa ŝajnsufikso **-atĭc-** prononciĝas *[aðj]*.
+
+| | |
+|-|-|
+| *fromaĝo* | **formatĭco** *[formaðjo]* |
+| *mesaĝo* | **missatĭco** *[misaðjo]* |
+| *vojaĝo* | **viatĭco** *[viaðjo]* |
+ 
+### i, u
+
+En diftongoj, Lingvaa **i** prononciĝas *[j]*. Komence de radiko, ĝi skribiĝas **j**.
+
+| | |
+|-|-|
+| *majo* | **maie** *[maje]* |
+| *familio* | **familie** *[familje]* |
+| | |
+| *jam* | **jam** *[jam]* |
+| *projekto* | **projecte** *[projekte]* |
+
+En diftongoj, **u** prononciĝas *[ŭ]*. Komence de radiko, ĝi skribiĝas **w**.
+
+| | |
+|-|-|
+| *aŭto* | **aute** *[aŭte]* |
+| *akvo* | **aque** *[akve]* |
+| *kvanto* | **quante** *[kŭante]* |
+| | |
+| *ŭaŭ* | **wau** *[ŭaŭ]* |
+
+Kiam **i** kaj **u** estas akcentataj en antaŭlasta pozicio, ili skribiĝas **ī** kaj **ū**.
+
+| | |
+| *poezio* | **poesīe** *[poezie]* |
+| *tatuo* | **tatūe** *[tatue]* |
+
+### s, x
+
+**s** *[s]* prononciĝas *[z]* inter vokaloj.
+
+| | |
+|-|-|
+| *maso* | **masse** *[mase]* |
+| *rozo* | **rose** *[roze]* |
+
+**x** *[ks]* prononciĝas *[gz]* inter vokaloj.
+
+| | |
+|-|-|
+| *ekzemplo* | **exemple** *[egzemple]* |
+| *fiksi* | **fixu** *[fiksu]* |
 
 ### Akcento
 
@@ -19,9 +95,8 @@ La antaŭlasta vokalo estas akcentata.
 | | |
 |-|-|
 | *bona* | **bona** |
-| *amiko* | **amique** *[amike]* |
 
-La Lingvaaj ŝajnsufiksoj **-ĭn-** kaj **-ĭt** eliziiĝas. La Lingvaa ŝajnsufikso **-atĭc-** fariĝas **-aj-** *[aĵ]*.
+La Lingvaaj ŝajnsufiksoj **-ĭn-** kaj **-ĭt** eliziiĝas.
 
 | | |
 |-|-|
@@ -29,133 +104,6 @@ La Lingvaaj ŝajnsufiksoj **-ĭn-** kaj **-ĭt** eliziiĝas. La Lingvaa ŝajnsuf
 | *nomo* | **nomĭne** = **nome** |
 | *limo* | **limĭte** = **lime** |
 | *lumo* | **lumĭne** = **lume** |
-| | |
-| *vojaĝo* | **viatĭco** = **viajo** *[viaĵo]* |
-
-----
-Inter konsonantoj, **ĭ** *[j]* kaj **ŭ** *[=]* elliziiĝas. 
-
-Ankaŭ malantaŭ ŝajnprefikso, radikokomenca **ĭ** *[j]* fariĝas **j** *[ĵ]*. Inter konsonantoj, **ĭ** kaj **ŭ** eliziiĝas.
-
-| | |
-|-|-|
-| *projekto* | **proĭecto** *[proiekto]* → **projecto** *[proĵekto]* |
-----
-
-### ti
-
-**tĭ** prononciĝas *[cj]*. (Sed **stĭ** prononciĝas *[stj]*.)
-
-| | |
-|-|-|
-| *lekcio* | **lectĭone** *[lektione → lekcjone]* |
-| *spaco* | **spatĭo** *[spati-o → spacjo]* |
-| *substanco* | **substantĭa** *[substanti-a → substancja]* |
-| | |
-| *besto* | **bestĭa** *[besti-a → bestja]* |
-
-Akcentata **tĭ** skribiĝas **tī** *[ci]*. ***Arkaika*** **tĕ** fariĝas **z** *[c]*.
-
-| | |
-|-|-|
-| *garantio* | **garantīa** *[garantia → garancia]* |
-| | |
-| *placo* | **platĕa** *[plate-a]* → **plaza** *[placa]* |
-
-### ci, gi
-
-----
-
-***Arkaika Lingvao*** havas arkaikan prononcon.
-
-| | Archelingua → Lingua |
-|-|-|
-| *generacio* | **generatĭone** *[generatione → ĝeneracjone]* |
-
-----
-
-Antaŭ **e** kaj **i**, **c** *[c]* kaj **g** *[g]* prononciĝas *[ĉ]* kaj *[ĝ]*.
-
-| | |
-|-|-|
-| *centro* | **centro** *[centro → ĉentro]* |
-| *ĝenerala* | **generale** *[generale → ĝenerale]* |
-
-### s, x
-
-**s** *[s]* prononciĝas *[z]* inter vokaloj.
-
-| | |
-|-|-|
-| *maso* | **massa** *[massa → masa]* |
-| *rozo* | **rosa** *[rosa → roza]* |
-
-**x** *[ks]* prononciĝas *[gz]* inter vokaloj.
-
-| | |
-|-|-|
-| *ekzemplo* | **exemplo** *[eksemplo → egzemplo]* |
-| *fiksi* | **fixare** *[fiksare]* |
-
-----
-
-### i, u
-
-| | |
-|-|-|
-| *majo* | **maie** *[maje]* |
-| *familio* | **familie** *[familje]* |
-| *jam* | **jam** *[ĵam]* |
-| | |
-| *aŭto* | **aute** *[aŭte]* |
-| *akvo* | **aque** *[akve]* |
-| *kvanto* | **quante** *[kŭante]* |
-| | |
-| *poezio* | **poesīe** *[poezie]* |
-
-| | |
-|-|-|
-| *kazeo* | **quese** *[keze]* |
-| *trankvila* | **tranquilla** *[trankilla]* |
-
-### ti
-
-| | |
-|-|-|
-| *besto* | **bestie** *[bestje]* |
-| | |
-| *spaco* | **spatie** *[spacje]* |
-| | |
-| *potenco* | **potentie** *[potencje]* |
-| *potencialo* | **potentiale** *[potencjale]* |
-
-La ŝajnfinaĵo **-ione** *[jone]* mallongiĝas al **-ie** *[je]*.
-
-| | |
-|-|-|
-| *nacio* | **natie** *[nacje]* |
-| *stacio* | **statie** *[stacje]* |
-
-### ci, gi
-
-| | |
-|-|-|
-| *centro* | **centre** *[ĉentre]* |
-| *ĝenerala* | **generala** *[ĝenerala]* |
-| | |
-| *nostalgio* | **nostalgīe** *[nostalĝie]* |
-
-Por skribi *[k]* aŭ *[g]* antaŭ *[e]* aŭ *[i]*, skribiĝas **qŭ** respektive **gŭ**.
-
-### s, x
-
-| | |
-|-|-|
-| *maso* | **masse** *[mase]* |
-| *rozo* | **rose** *[roze]* |
-| | |
-| *ekzemplo* | **exemple** *[egzemple]* |
-| *fiksi* | **fixu** *[fiksu]* |
 
 ### Grekaj Vortoj
 
@@ -165,7 +113,7 @@ Por skribi *[k]* aŭ *[g]* antaŭ *[e]* aŭ *[i]*, skribiĝas **qŭ** respektive
 | *temo* | **theme** *[teme]* |
 | *karaktero* | **charactere** *[karaktere]* |
 | *sistemo* | **systeme** *[sisteme]* |
-| *zono* | **zone** *[=]* |
+| *zono* | **zone** *[zone]* |
 
 ## Gramatiko
 
@@ -184,7 +132,7 @@ Adjektivoj finiĝas je **-a**.
 
 | | |
 |-|-|
-| *bona* | **bona** *[=]* |
+| *bona* | **bona** *[bona]* |
 
 ### Adverboj
 
@@ -192,7 +140,7 @@ Adverboj finiĝas je **-o**.
 
 | | |
 |-|-|
-| *multe* | **multo** *[=]* |
+| *multe* | **multo** *[multo]* |
 | *hodiaŭ* | **hodio** *[hodjo]* |
 
 Celaj adverboj finiĝas je **-u**.

@@ -11,6 +11,8 @@
 | *centro* | **centro** *[kentro]* |
 | *homoj* | **gente** *[gente]* |
 
+**t** estas ĉiam prononcata *[t]*.
+
 | | |
 |-|-|
 | *"starado"*, *stacio* | **statione** |
@@ -118,10 +120,12 @@ Nomoj kaj terminoj konservas sian specifan *nominativan* formon. Por personaj no
 
 | | |
 |-|-|
-| *Juliuso* | **Ĭulĭus** = **Iulius** *[iuli-us]* |
 | *datumoj* | **data** |
 | *dato* | **datum** |
 | *statuso* | **status** |
+|-|-|
+| *Juliuso* | **Ĭulĭo** = **Iulio** *[iuli-o]* |
+| *Julia* | **Ĭulĭa** = **Iulia** *[iuli-a]* |
 
 ### Adjektivoj
 
