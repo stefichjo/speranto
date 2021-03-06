@@ -14,8 +14,8 @@ Vd. [akcento en ***Lingveo***](lingue.md#akcento).
 
 | | |
 |-|-|
-| *graco* | **gratio** *[graso]* |
-| *spaco* | **spatio** *[spaso]* |
+| *graco* | **gratĭo** *[graso]* |
+| *spaco* | **spatĭo** *[spaso]* |
 | | |
 | *nacio* | **natio** *[nasio]* |
 
@@ -87,6 +87,19 @@ Kiam **i** kaj **u** estas akcentataj en antaŭlasta pozicio, ili portas makrono
 | *tatuo* | **tatūo** *[tatue]* |
 | | |
 | *hobio* | **hobbīo** = **hobbyo** *[hobio]* |
+
+## Akĉentoj
+
+### Pola-Germana
+
+#### t, d, c, g, j
+
+| | | slave |
+|-|-|-|
+| *certa* | **certa** *[ĉerta]* | *[certa]* |
+| *generacio* | **generatio** *[ĝenerasio]* | *[generacio]* |
+| *jam* | **jam** *[ĥam]* | *[jam]* |
+
 
 
 ----
