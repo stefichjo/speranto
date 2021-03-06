@@ -15,13 +15,13 @@
 | | |
 | *nacio* | **natio** *[nasio]* |
 
-Kiam radikofina **-ti** estas prononcata *[ti]*, ĝi skribiĝas **ty**. (Radikofinaa **-sti** ĉiam prononciĝas *[st]*.)
+Kiam radikofina **-ti** estas prononcata *[ti]*, ĝi skribiĝas **ty**. (Radikofinaa **-stĭ** ĉiam prononciĝas *[st]*.)
 
 | | |
 |-|-|
 | *partio* | **partyo** *[partio]* |
 | | |
-| *besto* | **bestio** *[besto]* |
+| *besto* | **bestĭo** *[besto]* |
 
 La Lingvaa ŝajnsufikso **-atĭc-** fariĝas **aĵ** *[aĵ]*.
 
@@ -37,7 +37,9 @@ La Lingvaa ŝajnsufikso **-atĭc-** fariĝas **aĵ** *[aĵ]*.
 
 | | |
 |-|-|
-| *centro* | **centro** *[ĉentro]* |
+| *ĉesi* | **cessi** *[ĉesi]* |
+| *voĉo* | **voĉo** *[voĉo]* |
+| | |
 | *leĝo* | **leĝo**  *[leĝo]* |
 | | |
 | *biciklo* | **bicyclo** *[biĉiklo]* |
@@ -56,7 +58,7 @@ Neakcentata radikofina **-i** eliziiĝas post konsonanto.
 | | |
 |-|-|
 | *majo* | **maio** *[majo]* |
-| *filo* | **filio** *[filo]* |
+| *filo* | **filĭo** *[filo]* |
 
 **j** prononciĝas *[ĥ]*.
 
@@ -84,7 +86,7 @@ Kiam **i** kaj **u** estas akcentataj en antaŭlasta pozicio, ili portas makrono
 | | |
 | *hobio* | **hobbīo** = **hobbyo** *[hobio]* |
 
-### ł
+### ł, sc
 
 En prepoziciaĵoj, **al** fariĝas **ał** *[aŭ]*.
 
@@ -92,12 +94,30 @@ En prepoziciaĵoj, **al** fariĝas **ał** *[aŭ]*.
 |-|-|
 | *vice al* | **vicĕ ał** *[visaŭ]* |
 
+Anstataŭ *[sĉ]*, prononciĝas *[ŝ]*.
+
+| | |
+|-|-|
+| *scienco* | **scientĭo** *[ŝienso]* |
+
 ### Francaj Vortoj
 
 | | |
 |-|-|
-| *ĉemizo* | **çhämisĭo** *[ŝemizo]* |
-| *ŝanĝo* | **çhambĭo** *[ŝanĵo]* |
+| *ĉambro* | **çhamĕro** = **çhambro** *[ŝambro]* |
+| *ĉe* | **çhä** = **çhe** *[ŝe]* |
+| *ĉemizo* | **çhämisĭo** = **çhemiso** *[ŝemizo]* |
+| *-eco* | **-etĭo** = **-esso** *[eso]* |
+| *mesaĝo* | **mïssaĵo** = **messaĵo** *[mesaĵo]* |
+| *ruĝa* | **ruvĭa** = **ruĵa** *[ruĵa]* |
+| *savi* | **sałvi** *[saŭvi]* |
+| *serĉi* | **çïrçhi** = **çerçhi** *[serŝi]* |
+| *ŝanco* | **çhadĕntĭo** = **çhanço** *[ŝanso]* |
+| *ŝanĝo* | **çhambĭo** = **çhanĵo** *[ŝanĵo]* |
+| *sonĝo* | **somnĭo** = **sonĵo** *[sonĵo]* |
+| *tuŝi* | **tǒçci** = **tuçci** *[tuŝi]* |
+| | |
+| *vojo* | **vĩo** = **voyo** *[vojo]* |
 
 ## Akĉentoj
 
@@ -105,12 +125,14 @@ En prepoziciaĵoj, **al** fariĝas **ał** *[aŭ]*.
 
 | | | slave |
 |-|-|-|
-| *certa* | **certa** *[ĉerta]* | *[certa]* |
-| *paco* | **paço** *[paso]*  | *[paco]* |
+| *-eco* | **-esso** *[eso]* | *[eco]* |
 | *generacio* | **generatio** *[ĝenerasio]* | *[generacio]* |
 | *jam* | **jam** *[ĥam]* | *[jam]* |
+| *koncerto* | **concerto** *[konĉerto]* | *[koncerto]* |
+| *paco* | **paĉo** *[paĉo]*  | *[paco]* |
 | *ŝanco* | **çhadĕntĭo** *[ŝanso]* | *[ŝanco]* |
-| | | |
+| | |
+| *precipe* | **prençipe** *[prensipe]* | *[prencipe]* |
 | *saŭco* | **sałso** *[saŭso]* | *[saŭco]* |
 | *senco* | **senso** *[senso]* | *[senco]* |
 
@@ -118,31 +140,22 @@ En prepoziciaĵoj, **al** fariĝas **ał** *[aŭ]*.
 
 | | | angle |
 |-|-|-|
-| *ĉambro* | **çhamĕro** *[ŝambro]* | *[ĉambro]* |
+| *ĉambro* | **çhambro** *[ŝambro]* | *[ĉambro]* |
+| *ĉarma* | **çharma** *[ŝarma]* | *[ĉarma]* |
+| *mesaĝo* | **messaĵo** *[mesaĵo]* | *[mesaĝo]* |
+| *riĉa* | **riçha** *[riŝa]* | *[riĉa]* |
+| *ŝanĝo* | **çhanĵo** *[ŝanĵo]* | *[ĉanĝo]* |
+
+## Maltriviala Vortaro Esperanto-Lingvo
+
+| Esperanto | Lingvo |
+|-|-|
+| *akĉento* | **accentumo** *[akĉentumo]* |
 
 ----
 
 | |
 |-|
-| **accento** *[akcento]* → *[aksento]* |
-| **acĉento** *[akĉento]* → **accentumo** *[aksentumo]* |
-| **belletĭo** *[beleco]* → **bellezo** *[beleso]* |
-| **centro** *[centro]* → *[sentro]* |
-| **çerĉi** → **cerçhi** *[serĉi]* |
-| **ĉessi** *[ĉesi]* → **cessi** *[sesi]* |
-| **concerto** *[koncerto]* → *[konserto]* |
-| **patīento** *[paciento]* → *[pasiento]* |
-| |
-| **voĉo** → **voçho** *[voĉo]* |
-| **riĉa** → **riçha** *[riĉa]* |
-| |
-| **çham̃bjo** → **çhanjo** *[ŝanĝo]* |
-| **çhadĕntĭo** = **çhantĭo** → **çhanzo** *[ŝanco]* |
-| **ĉarmo** *[=]* → **çharmo** *[ŝarmo]* |
-| **ĉä** *[ĉe]* → **çhe** *[ŝe]* |
-| **ĉämisĭo** *[ĉemizo]* → **çhemiso** *[ŝemizo]* |
-| **som̃njo** → **sonjo** *[sonĝo]* |
-| **tuçhi** → **tushi** *[tuŝi]* |
 | |
 | **appodȷi** *[apogi]* → **appogi** *[apoĝi]* |
 | **menţonȷo** *[mensogo]* → **mensogo** |
@@ -151,7 +164,6 @@ En prepoziciaĵoj, **al** fariĝas **ał** *[aŭ]*.
 | **messajo** *[mesaĝo]* |
 | **manĝi** *[=]* → **mangi** |
 | **preĝi** *[=]* → **pregi** |
-| **ruvja** → **ruja** *[ruĝa]* |
 | **sedjo** → **sejo** *[seĝo]* |
 | **sẽdjo** → **siejo** *[sieĝo]* |
 | |
@@ -195,10 +207,6 @@ Inter konsonantoj, **u** prononciĝas *[u]*. Inter konsonanto kaj vokalo (aŭ ra
 | |
 | **qŭe** *[ke]* |
 | (**kio** → **qŭio** *[kio]* ) |
-
-### s, x
-
-### r, l
 
 ### Grekaj Vortoj
 

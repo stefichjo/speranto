@@ -95,12 +95,15 @@ Kiam **i** kaj **u** estas akcentataj en antaŭlasta pozicio, ili portas makrono
 
 ### v
 
-Radikofina Lingvaa **-b** fariĝas **-v** *[v]*.
+Radikofina Lingvaa **-b** kaj **-p** ofte fariĝas **-v** *[v]*.
 
 | | |
 |-|-|
 | *havi* | **havu** *[havu]* |
 | *skribi* | **scrivu** *[skrivu]* |
+| | |
+| *povra* | **pauvĕra** *[paŭvra]* |
+| *scii* | **savu** *[savu]* |
 
 ### s, x
 
