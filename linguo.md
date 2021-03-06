@@ -4,10 +4,6 @@
 
 ## Prononco
 
-### Akcento
-
-Vd. [akcento en ***Lingveo***](lingue.md#akcento).
-
 ### t, d
 
 **t** estas prononcata *[s]* antaŭ radikofina **-i**. Kiam radikofina **-ti** ne estas akcentata, la **i** eliziiĝas. La Lingvaa ŝajnfinaĵo **-ione** *[ione]* mallongiĝas al **-io** *[io]*.
@@ -88,29 +84,46 @@ Kiam **i** kaj **u** estas akcentataj en antaŭlasta pozicio, ili portas makrono
 | | |
 | *hobio* | **hobbīo** = **hobbyo** *[hobio]* |
 
+### ł
+
+En prepoziciaĵoj, **al** fariĝas **ał** *[aŭ]*.
+
+| | |
+|-|-|
+| *vice al* | **vicĕ ał** *[visaŭ]* |
+
+### Francaj Vortoj
+
+| | |
+|-|-|
+| *ĉemizo* | **çhämisĭo** *[ŝemizo]* |
+| *ŝanĝo* | **çhambĭo** *[ŝanĵo]* |
+
 ## Akĉentoj
 
 ### Pola-Germana
 
-#### t, d, c, g, j
-
 | | | slave |
 |-|-|-|
 | *certa* | **certa** *[ĉerta]* | *[certa]* |
+| *paco* | **paço** *[paso]*  | *[paco]* |
 | *generacio* | **generatio** *[ĝenerasio]* | *[generacio]* |
 | *jam* | **jam** *[ĥam]* | *[jam]* |
+| *ŝanco* | **çhadĕntĭo** *[ŝanso]* | *[ŝanco]* |
+| | | |
+| *saŭco* | **sałso** *[saŭso]* | *[saŭco]* |
+| *senco* | **senso** *[senso]* | *[senco]* |
 
+### Angla
 
+| | | angle |
+|-|-|-|
+| *ĉambro* | **çhamĕro** *[ŝambro]* | *[ĉambro]* |
 
 ----
 
 | |
 |-|
-| **paċo** → **pazo** *[paco]* |
-| **vici** *[vici]* |
-| **vice al** *[vice al]* → **vizau** *[vicaŭ]* |
-| **viċo** *[vico]* → **vizumo** *[vicumo]* |
-| |
 | **accento** *[akcento]* → *[aksento]* |
 | **acĉento** *[akĉento]* → **accentumo** *[aksentumo]* |
 | **belletĭo** *[beleco]* → **bellezo** *[beleso]* |
