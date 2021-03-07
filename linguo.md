@@ -110,6 +110,7 @@ Fremdaj vortoj povas eniri Lingvoon laŭ la origina ortografio.
 |-|-|
 | *apogi* | **appodȷi** = **appogŭi** *[apogi]* |
 | *mensogi* | **menţonȷi** = **mensogŭi** *[mensogi]* |
+| *stranga* | **stranȷa** = **stranga** *[stranga]* |
 | *teamo* | **teamo** *[teamo]* |
 
 #### Latinidaj Vortoj
@@ -146,12 +147,6 @@ Fremdaj vortoj povas eniri Lingvoon laŭ la origina ortografio.
 | *merkredo* | **merkŭredıo** = **merkredo** *[merkredo]* |
 | *ĵaŭdo* | **ĵũvĕdıo** = **ĵaudo** *[ĵaŭdo]* |
 | *vendredo* | **venĕredıo** = **vendredo** *[vendredo]* |
-
-##### Italaj Vortoj
-
-| | |
-|-|-|
-| *dolĉa* | **důlĉa** = **dolĉa** *[dolĉa]* |
 
 #### Ĝermanaj Vortoj
 
@@ -286,14 +281,17 @@ Prepoziciaĵoj finiĝas je **-ał** *[aŭ]*.
 | Esperanto | Lingvo |
 |-|-|
 | *akĉento* | **accentumo** *[akĉentumo]* |
+| *apogi* | **appodĭi** *[apodi]* |
 | *demokratio* | **democratio** *[demokrasio]* |
+| *dolĉa* | **dulĉa** *[dulĉa]* |
 | *garantio* | **garantio** *[garansio]* |
 | *hodiaŭ* | **hodie** *[hodie]* |
 | *justa* | **justuma** *[ĥustuma]* |
 | *kaĉo* | **kaŝo** *[kaŝo]* |
+| *mensogi* | **menţonĭi** = **mensoni** *[mensoni]* |
 | *pregi* | **prægi** = **praigŭi** *[prajgi]* |
 | *preĝi* | **pregŭi** *[pregi]* |
 | *senco* | **senso** *[senso]* |
 | *senso* | **sentumo** *[sentumo]* |
 | *skribi* | **scrivi** *[skrivi]* |
-
+| *stranga* | **stranĭa** = **strana** *[strana]* |
