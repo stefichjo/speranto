@@ -82,14 +82,11 @@ En diftongoj, **u** prononciĝas *[ŭ]*. Post konsonanto kaj komence de radiko, 
 | | |
 | *ŭaŭ* | **wau** *[vaŭ]* |
 
-Kiam **i** kaj **u** estas akcentataj en antaŭlasta pozicio, ili portas makronon. En fremdaj vortoj, eblas skribi **y** anstataŭ **ī**.
+Kiam **u** estas akcentata en antaŭlasta pozicio, ĝi portas makronon.
 
 | | |
 |-|-|
-| *poezio* | **poesīo** *[poezio]* |
 | *situi* | **sitūi** *[situi]* |
-| | |
-| *hobio* | **hobbīo** = **hobbyo** *[hobio]* |
 
 ### ł, sc
 
@@ -164,7 +161,7 @@ Fremdaj vortoj povas eniri Lingvoon laŭ la origina ortografio.
 |-|-|
 | *ajn* | **æn** = **ain** *[ajn]* |
 | *anstataŭ* | **anŝtattał** *[anŝtataŭ]* |
-| *colo* | **ţollo** = **çollo** *[solo]* |
+| *colo* | **ţollo** = **tsollo** *[colo]* |
 | *fajna* | **fĩna** = **faina** *[fajna]* |
 | *fiŝo* | **fisho** *[fiŝo]* |
 | *jaro* | **yaro** *[jaro]* |
@@ -192,7 +189,7 @@ Fremdaj vortoj povas eniri Lingvoon laŭ la origina ortografio.
 
 | | |
 |-|-|
-| *caro* | **çaro** *[saro]* |
+| *caro* | **ţaro** = **tsaro** *[caro]* |
 | *ĉu* | **chu** *[ĉu]* |
 | *ĉiu* | **chiu** *[ĉiu]* |
 | *ekrano* | **ekrano** *[ekrano]* |
@@ -202,8 +199,6 @@ Fremdaj vortoj povas eniri Lingvoon laŭ la origina ortografio.
 | *nepre* | **nepre** *[nepre]* |
 | *prava* | **prava** *[prava]* |
 | *pri* | **pri** *[pri]* |
-| | |
-| *kaĉo* | **kaŝo** *[kaŝo]* |
 
 ## Akĉentoj
 
@@ -213,12 +208,9 @@ Fremdaj vortoj povas eniri Lingvoon laŭ la origina ortografio.
 
 | | | pole-germane |
 |-|-|-|
-| *caro* | **çaro** *[saro]* | *[caro]* |
-| *colo* | **çollo** *[solo]* | *[colo]* |
 | *-eco* | **-esso** *[eso]* | *[eco]* |
 | *generacio* | **generatio** *[ĝenerasio]* | *[generacio]* |
 | *jam* | **jam** *[ĥam]* | *[jam]* |
-| *kaĉo* | **kaŝo** *[kaŝo]* | *[kaĉo]* |
 | *koncerto* | **concerto** *[konĉerto]* | *[koncerto]* |
 | *paco* | **paĉo** *[paĉo]*  | *[paco]* |
 | *ŝanco* | **çhanço** *[ŝanso]* | *[ŝanco]* |
@@ -231,7 +223,7 @@ Fremdaj vortoj povas eniri Lingvoon laŭ la origina ortografio.
 | *kemio* | **chemio** *[kemio]* | *[ĥemio]* |
 | *mekaniko* | **mechanico** *[mekaniko]* | *[meĥaniko]* |
 | | |
-| *hodiaŭ* | **hodīe** *[hodie]* | *[hodiaŭ]* |
+| *hodiaŭ* | **hodie** *[hodie]* | *[hodiaŭ]* |
 | | |
 | *precipe* | **prençipe** *[prensipe]* | *[prencipe]* |
 | *saŭco* | **sałso** *[saŭso]* | *[saŭco]* |
@@ -281,7 +273,7 @@ La gramatiko de Lingvoo estas sama al tiu de Esperanto.
 
 | | |
 |-|-|
-| *hodiaŭ* | **hodīe** *[hodie]* |
+| *hodiaŭ* | **hodie** *[hodie]* |
 
 Prepoziciaĵoj finiĝas je **-ał** *[aŭ]*.
 
@@ -296,8 +288,12 @@ Prepoziciaĵoj finiĝas je **-ał** *[aŭ]*.
 | *akĉento* | **accentumo** *[akĉentumo]* |
 | *demokratio* | **democratio** *[demokrasio]* |
 | *garantio* | **garantio** *[garansio]* |
+| *hodiaŭ* | **hodie** *[hodie]* |
 | *justa* | **justuma** *[ĥustuma]* |
+| *kaĉo* | **kaŝo** *[kaŝo]* |
 | *pregi* | **prægi** = **praigŭi** *[prajgi]* |
 | *preĝi* | **pregŭi** *[pregi]* |
 | *senco* | **senso** *[senso]* |
 | *senso* | **sentumo** *[sentumo]* |
+| *skribi* | **scrivi** *[skrivi]* |
+
