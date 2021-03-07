@@ -149,22 +149,23 @@ Adjektivoj finiĝas je **-a**.
 | | |
 |-|-|
 | *bona* | **bona** *[bona]* |
+| *bonaj* | **bonai** *[bonaj]* |
 
 ### Adverboj
 
-Adverboj finiĝas je **-o**.
+Adverboj finiĝas je **-e**.
 
 | | |
 |-|-|
-| *multe* | **multo** *[multo]* |
-| *hodiaŭ* | **hodio** *[hodjo]* |
+| *multe* | **multe** *[multe]* |
+| *hodiaŭ* | **hodīe** *[hodie]* |
 
-Celaj adverboj finiĝas je **-u**.
+Celaj adverboj finiĝas je **-en**.
 
 | | |
 |-|-|
-| *hejme* | **domo** |
-| *hejmen* | **domu** |
+| *hejme* | **heime** |
+| *hejmen* | **heimen** |
 
 ### Numeraloj
 

@@ -224,6 +224,8 @@ Fremdaj vortoj povas eniri Lingvoon laŭ la origina ortografio.
 | *kemio* | **chemio** *[kemio]* | *[ĥemio]* |
 | *mekaniko* | **mechanico** *[mekaniko]* | *[meĥaniko]* |
 | | |
+| *hodiaŭ* | **hodīe** *[hodie]* | *[hodiaŭ]* |
+| | |
 | *precipe* | **prençipe** *[prensipe]* | *[prencipe]* |
 | *saŭco* | **sałso** *[saŭso]* | *[saŭco]* |
 | *senco* | **senso** *[senso]* | *[senco]* |
@@ -284,28 +286,18 @@ Fremdaj vortoj povas eniri Lingvoon laŭ la origina ortografio.
 | *senco* | **senso** *[senso]* |
 | *senso* | **sentumo** *[sentumo]* |
 
-----
+## Gramatiko
 
-## Akĉentoj
+La gramatiko de Lingvoo estas sama al tiu de Esperanto.
 
-*Lingvaismo:* La *cela* finaĵo **-en** mallongiĝas al **-n** kaj fariĝas finaĵo por *akuzativo*. *Tra bruo*, uziĝas anstataŭe la (neologisma) *akuzativa* prepozicio **a**.
+Ĉiuj adverboj finiĝas je **-e**.
 
-| | Lingvoo |
-|:-|:-|
-| *Mi vidas domon.* | **Mi vidas domon.** ← **Mi vidas a domo.** |
+| | |
+|-|-|
+| *hodiaŭ* | **hodīe** *[hodie]* |
 
-***TODO***
+Prepoziciaĵoj finiĝas je **-ał** *[aŭ]*.
 
-*Jazikismo:* (neologisma) **na**
-
-| | Lingvoo |
-|:-|:-|
-| *ludi la gitaron* | **ludi la gitarron** ← **ludi na la gitarro** |
-
-*Tra bruo*, uziĝas **a** aŭ, anstataŭe, **na**.
-
-| | Lingvoo |
-|:-|:-|
-| *Mi vidas vin.* | **Mi vidas a vi.** ← **Mi vidas na vi.** |
-
-
+| | |
+|-|-|
+| *ĉirkaŭ* | **circał** *[ĉirkaŭ]* |
