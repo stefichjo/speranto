@@ -107,7 +107,7 @@ Fremdaj vortoj povas eniri Lingvoon laŭ la origina ortografio.
 | | |
 |-|-|
 | *apogi* | **appodȷi** = **appogŭi** *[apogi]* |
-| *mensogi* | **menţonȷi** = **mensogi** *[mensogi]* |
+| *mensogi* | **menţonȷi** = **mensogŭi** *[mensogi]* |
 | *ŝtono* | **stono** *[stono]* |
 | *teamo* | **teamo** *[teamo]* |
 
@@ -241,7 +241,7 @@ Fremdaj vortoj povas eniri Lingvoon laŭ la origina ortografio.
 |-|-|
 | *akĉento* | **accentumo** *[akĉentumo]* |
 | *justa* | **justuma** *[ĥustuma]* |
-| *pregi* | **prægi** = **praigi** *[prajgi]* |
+| *pregi* | **prægi** = **praigŭi** *[prajgi]* |
 | *preĝi* | **pregŭi** *[pregi]* |
 
 ----
