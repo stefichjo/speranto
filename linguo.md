@@ -166,7 +166,7 @@ Fremdaj vortoj povas eniri Lingvoon laŭ la origina ortografio.
 | *fiŝo* | **fisho** *[fiŝo]* |
 | *jaro* | **yaro** *[jaro]* |
 | *ŝajni* | **shĩni** = **shaini** *[ŝajni]* |
-| *ŝlimo* | **ŝlĩmo** *[ŝlajmo]* |
+| *ŝlimo* | **ŝlĩmo** = **ŝlaimo** *[ŝlajmo]* |
 | *ŝnuro* | **ŝnuro** *[ŝnuro]* |
 | *ŝpruci* | **ŝpruţi** = **ŝpruçi** *[ŝprusi]* |
 | *ŝtalo* | **ŝtalo** *[ŝtalo]* |
