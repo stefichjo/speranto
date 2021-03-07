@@ -88,11 +88,11 @@ Kiam **i** kaj **u** estas akcentataj en antaŭlasta pozicio, ili portas makrono
 
 ### ł, sc
 
-En prepoziciaĵoj, **al** fariĝas **ał** *[aŭ]*.
+En prepoziciaĵoj, **al** fariĝas **-ał** *[aŭ]*.
 
 | | |
 |-|-|
-| *vice al* | **vicĕ ał** *[visaŭ]* |
+| *vice al* | **viĉał** *[viĉaŭ]* |
 
 Anstataŭ *[sĉ]*, prononciĝas *[ŝ]*.
 
@@ -108,10 +108,11 @@ Fremdaj vortoj povas eniri Lingvoon laŭ la origina ortografio.
 |-|-|
 | *apogi* | **appodȷi** = **appogŭi** *[apogi]* |
 | *mensogi* | **menţonȷi** = **mensogŭi** *[mensogi]* |
-| *ŝtono* | **stono** *[stono]* |
 | *teamo* | **teamo** *[teamo]* |
 
-#### Francaj Vortoj
+#### Latinidaj Vortoj
+
+##### Francaj Vortoj
 
 | | |
 |-|-|
@@ -127,7 +128,6 @@ Fremdaj vortoj povas eniri Lingvoon laŭ la origina ortografio.
 | *ruĝa* | **ruvĭa** = **ruĵa** *[ruĵa]* |
 | *savi* | **sałvi** = **sauvi** *[saŭvi]* |
 | *seĝo* | **sedĭo** = **seĵo** *[seĵo]* |
-| *sieĝo* | **sẽdĭo** = **sieĵo** *[sieĵo]* |
 | *serĉi* | **çïrçhi** = **çerçhi** *[serŝi]* |
 | *ŝanco* | **çhadĕntĭo** = **çhanço** *[ŝanso]* |
 | *ŝanĝo* | **çhambĭo** = **çhanĵo** *[ŝanĵo]* |
@@ -137,14 +137,15 @@ Fremdaj vortoj povas eniri Lingvoon laŭ la origina ortografio.
 | *ĉielo* | **çẽlo** = **çielo** *[sielo]* |
 | *tuta* | **tǒta** = **tuta** *[tuta]* |
 | *vojo* | **vĩo** = **voyo** *[vojo]* |
+| *vojaĝo* | **vĩaĵo** = **voyaĵo** *[vojaĵo]* |
 | | |
 | *lundo* | **lunĕdıo** = **lundo** *[lundo]* |
 | *mardo* | **martĕdıo** = **mardo** *[mardo]* |
 | *merkredo* | **merkŭredıo** = **merkredo** *[merkredo]* |
-| *ĵaŭdo* | **ĵůvedıo** = **ĵovedo** *[ĵuvedo]* |
+| *ĵaŭdo* | **ĵũvĕdıo** = **ĵaudo** *[ĵaŭdo]* |
 | *vendredo* | **venĕredıo** = **vendredo** *[vendredo]* |
 
-#### Italaj Vortoj
+##### Italaj Vortoj
 
 | | |
 |-|-|
@@ -152,34 +153,35 @@ Fremdaj vortoj povas eniri Lingvoon laŭ la origina ortografio.
 
 #### Ĝermanaj Vortoj
 
-| | |
-|-|-|
-| *anstataŭ* | **anstattĕ ał** *[anstataŭ]* |
-| *drinki* | **drinki** *[drinki]* |
-| *fiŝo* | **fisho** *[fiŝo]* |
-| *jaro* | **yaro** *[jaro]* |
-| *jes* | **yes** *[jes]* |
-| *ŝipo* | **shippo** *[ŝipo]* |
-| *ŝuo* | **shuo** *[ŝuo]* |
-| | |
-| *ŝlimo* | **slimo** *[slimo]* |
-| | |
-| *fajna* | **fĩna** = **faina** *[fajna]* |
-| *ŝajni* | **shĩni** = **shaini** *[ŝajni]* |
-
 ##### Germanaj Vortoj
 
 | | |
 |-|-|
 | *ajn* | **æn** = **ain** *[ajn]* |
+| *anstataŭ* | **anŝtattał** *[anŝtataŭ]* |
 | *colo* | **ţollo** = **çollo** *[solo]* |
+| *fajna* | **fĩna** = **faina** *[fajna]* |
+| *fiŝo* | **fisho** *[fiŝo]* |
+| *jaro* | **yaro** *[jaro]* |
+| *ŝajni* | **shĩni** = **shaini** *[ŝajni]* |
+| *ŝlimo* | **ŝlĩmo** *[ŝlajmo]* |
 | *ŝnuro* | **ŝnuro** *[ŝnuro]* |
 | *ŝpruci* | **ŝpruţi** = **ŝpruçi** *[ŝprusi]* |
 | *ŝtalo* | **ŝtalo** *[ŝtalo]* |
 | *ŝtato* | **ŝtato** *[ŝtato]* |
+| *ŝuo* | **shuo** *[ŝuo]* |
 | *trinki* | **trinki** *[trinki]* |
 | *varma* | **warma** *[varma]* |
 | *vorto* | **worto** *[vorto]* |
+
+##### Anglaj Vortoj
+
+| | |
+|-|-|
+| *drinki* | **drinki** *[drinki]* |
+| *jes* | **yes** *[jes]* |
+| *ŝipo* | **shippo** *[ŝipo]* |
+| *ŝtono* | **stono** *[stono]* |
 
 #### Slavaj Vortoj
 
@@ -259,32 +261,12 @@ Fremdaj vortoj povas eniri Lingvoon laŭ la origina ortografio.
 |-|-|-|
 | *akcepti* | **accepti** *[akĉepti]* | *[aĉeti]* |
 | *punkto* | **puncto** *[punkto]* | *[punto]* |
-
-##### Itala
-
-| | | itale |
-|-|-|-|
+| | | |
 | *difini* | **defini** *[defini]* | *[difini]* |
 | *ripeti* | **repeti** *[repeti]* | *ripeti]* |
-
-##### Hispana
-
-| | | hispane |
-|-|-|-|
+| | | |
 | *esperi* | **speri** *[speri]* | *[esperi]* |
-
-## Maltriviala Vortaro Esperanto-Lingvo
-
-| Esperanto | Lingvo |
-|-|-|
-| *akĉento* | **accentumo** *[akĉentumo]* |
-| *demokratio* | **democratio** *[demokrasio]* |
-| *garantio* | **garantio** *[garansio]* |
-| *justa* | **justuma** *[ĥustuma]* |
-| *pregi* | **prægi** = **praigŭi** *[prajgi]* |
-| *preĝi* | **pregŭi** *[pregi]* |
-| *senco* | **senso** *[senso]* |
-| *senso* | **sentumo** *[sentumo]* |
+| *esti* | **sti** *[sti]* | *[esti]* |
 
 ## Gramatiko
 
@@ -301,3 +283,16 @@ Prepoziciaĵoj finiĝas je **-ał** *[aŭ]*.
 | | |
 |-|-|
 | *ĉirkaŭ* | **circał** *[ĉirkaŭ]* |
+
+## Vortaro
+
+| Esperanto | Lingvo |
+|-|-|
+| *akĉento* | **accentumo** *[akĉentumo]* |
+| *demokratio* | **democratio** *[demokrasio]* |
+| *garantio* | **garantio** *[garansio]* |
+| *justa* | **justuma** *[ĥustuma]* |
+| *pregi* | **prægi** = **praigŭi** *[prajgi]* |
+| *preĝi* | **pregŭi** *[pregi]* |
+| *senco* | **senso** *[senso]* |
+| *senso* | **sentumo** *[sentumo]* |
