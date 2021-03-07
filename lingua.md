@@ -150,7 +150,7 @@ Adjektivo antaŭ substantivo havas subjektivan konotacion, dum adjektivo post la
 
 | | |
 |-|-|
-| *rapidaj aŭtoj* | **rapĭdas aŭtos**, **aŭtos rapĭdas** |
+| *rapidaj aŭtoj* | **rapĭdas autos**, **autos rapĭdas** |
 
 ### Adverboj
 
@@ -162,7 +162,7 @@ Adjektivoj estas adverbigeblaj pere de la ŝajnfinaĵo **-mente**.
 | | |
 | *facile* | **facilmente** |
 
-Uziĝas la ŝajnfinaĵo **-o** anstataŭ **-amente**.
+Uzeblas la ŝajnfinaĵo **-o** anstataŭ **-amente**.
 
 | | |
 |-|-|

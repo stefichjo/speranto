@@ -108,6 +108,7 @@ Fremdaj vortoj povas eniri Lingvoon laŭ la origina ortografio.
 |-|-|
 | *apogi* | **appodȷi** = **appogŭi** *[apogi]* |
 | *mensogi* | **menţonȷi** = **mensogi** *[mensogi]* |
+| *ŝtono* | **stono** *[stono]* |
 | *teamo* | **teamo** *[teamo]* |
 
 #### Francaj Vortoj
@@ -145,40 +146,49 @@ Fremdaj vortoj povas eniri Lingvoon laŭ la origina ortografio.
 
 | | |
 |-|-|
+| *anstataŭ* | **anstattĕ ał** *[anstataŭ]* |
+| *drinki* | **drinki** *[drinki]* |
 | *fiŝo* | **fisho** *[fiŝo]* |
 | *jaro* | **yaro** *[jaro]* |
 | *jes* | **yes** *[jes]* |
 | *ŝipo* | **shippo** *[ŝipo]* |
 | *ŝuo* | **shuo** *[ŝuo]* |
 | | |
-| *colo* | **ţollo** = **çollo** *[solo]* |
 | *ŝlimo* | **slimo** *[slimo]* |
 | | |
 | *fajna* | **fĩna** = **faina** *[fajna]* |
 | *ŝajni* | **shĩni** = **shaini** *[ŝajni]* |
+
+##### Germanaj Vortoj
+
+| | |
+|-|-|
+| *ajn* | **æn** = **ain** *[ajn]* |
+| *colo* | **ţollo** = **çollo** *[solo]* |
+| *ŝnuro* | **ŝnuro** *[ŝnuro]* |
+| *ŝpruci* | **ŝpruţi** = **ŝpruçi** *[ŝprusi]* |
+| *ŝtalo* | **ŝtalo** *[ŝtalo]* |
+| *ŝtato* | **ŝtato** *[ŝtato]* |
+| *trinki* | **trinki** *[trinki]* |
+| *varma* | **warma** *[varma]* |
+| *vorto* | **worto** *[vorto]* |
 
 #### Slavaj Vortoj
 
 | | |
 |-|-|
 | *caro* | **çaro** *[saro]* |
-
-----
-| |
-|-|
-| **ĉiu** *[=]* → **ĉhiu** |
-| **ĉu** *[=]* → **ĉhu** |
-| **ekrano** *[=]* |
-| **prava** *[=]* |
-| **nepre** *[=]* |
-| **kaĉo** *[=]* → **kaŝo** *[=]* |
-| **kolbaso** *[=]* |
-| **koŝmaro** *[=]* |
-| **krom** *[=]* |
-| **na** *[=]* |
-| **pri** *[=]* |
-| **çaro** = **ċaro** → **tsaro** *[caro]* |
-----
+| *ĉu* | **chu** *[ĉu]* |
+| *ĉiu* | **chiu** *[ĉiu]* |
+| *ekrano* | **ekrano** *[ekrano]* |
+| *kolbaso* | **kolbaso** *[kolbaso]* |
+| *koŝmaro* | **koŝmaro** *[koŝmaro]* |
+| *krom* | **krom** *[krom]* |
+| *nepre* | **nepre** *[nepre]* |
+| *prava* | **prava** *[prava]* |
+| *pri* | **pri** *[pri]* |
+| | |
+| *kaĉo* | **kaŝo** *[kaŝo]* |
 
 ## Akĉentoj
 
@@ -186,13 +196,19 @@ Fremdaj vortoj povas eniri Lingvoon laŭ la origina ortografio.
 
 | | | pole-germane |
 |-|-|-|
+| *caro* | **çaro** *[saro]* | *[caro]* |
 | *colo* | **çollo** *[solo]* | *[colo]* |
 | *-eco* | **-esso** *[eso]* | *[eco]* |
 | *generacio* | **generatio** *[ĝenerasio]* | *[generacio]* |
 | *jam* | **jam** *[ĥam]* | *[jam]* |
+| *kaĉo* | **kaŝo** *[kaŝo]* | *[kaĉo]* |
 | *koncerto* | **concerto** *[konĉerto]* | *[koncerto]* |
 | *paco* | **paĉo** *[paĉo]*  | *[paco]* |
 | *ŝanco* | **çhanço** *[ŝanso]* | *[ŝanco]* |
+| | |
+| *ŝlimo* | **slimo** *[slimo]* | *[ŝlimo]* |
+| *ŝpruci* | **ŝpruçi** *[ŝprusi]* | *[ŝpruci]* |
+| *ŝtono* | **stono** *[stono]* | *[ŝtono]* |
 | | |
 | *eĥo* | **echo** *[eko]* | *[eĥo]* |
 | *kemio* | **chemio** *[kemio]* | *[ĥemio]* |
@@ -201,31 +217,6 @@ Fremdaj vortoj povas eniri Lingvoon laŭ la origina ortografio.
 | *precipe* | **prençipe** *[prensipe]* | *[prencipe]* |
 | *saŭco* | **sałso** *[saŭso]* | *[saŭco]* |
 | *senco* | **senso** *[senso]* | *[senco]* |
-
-#### Germana
-
-----
-| |
-|-|
-| **æn** → **aĭn** *[ajn]* |
-| **slimo** → **ŝlimo** *[=]* |
-| **snuro** → **ŝnuro** *[=]* |
-| **spruti** → **ŝpruci** *[=]* |
-| **stalo** → **ŝtalo** *[=]* |
-| **staŧo** → **ŝtato** *[=]* |
-| **drinki** → **trinki** *[=]* |
-| |
-| **warma** *[varma]* → *[ŭarma]* |
-| |
-| **anştad' ał** *[anstataŭ]* → **anŝtattaŭ** *[anŝtataŭ]* |
-| **wordo** *[vorto]* → **worto** *[ŭorto]* |
-
-***Ĝermanaj*** vortoj foje prononciĝas laŭ ilia nacia literumado.
-s
-| |
-|-|
-| **stono** → **ŝtono** *[ŝtono]* |
-----
 
 ### Angla
 
