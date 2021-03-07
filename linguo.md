@@ -120,6 +120,7 @@ Fremdaj vortoj povas eniri Lingvoon laŭ la origina ortografio.
 | *ĉe* | **çhä** = **çhe** *[ŝe]* |
 | *ĉemizo* | **çhämisĭo** = **çhemiso** *[ŝemizo]* |
 | *-eco* | **-etĭo** = **-esso** *[eso]* |
+| *Marso* | **Marţo** = **Marso** *[marso]* |
 | *maŝino* | **maçhino** *[maŝino]* |
 | *mesaĝo* | **mïssaĵo** = **messaĵo** *[mesaĵo]* |
 | *neĝo* | **nïvĭo** = **neĵo** *[neĵo]* |
@@ -130,12 +131,18 @@ Fremdaj vortoj povas eniri Lingvoon laŭ la origina ortografio.
 | *serĉi* | **çïrçhi** = **çerçhi** *[serŝi]* |
 | *ŝanco* | **çhadĕntĭo** = **çhanço** *[ŝanso]* |
 | *ŝanĝo* | **çhambĭo** = **çhanĵo** *[ŝanĵo]* |
+| *semajno* | **semæno** = **semaino** *[semajno]* |
 | *sonĝo* | **somnĭo** = **sonĵo** *[sonĵo]* |
 | *tuŝi* | **tǒçci** = **tuçci** *[tuŝi]* |
-| | |
 | *ĉielo* | **çẽlo** = **çielo** *[sielo]* |
 | *tuta* | **tǒta** = **tuta** *[tuta]* |
 | *vojo* | **vĩo** = **voyo** *[vojo]* |
+| | |
+| *lundo* | **lunĕdıo** = **lundo** *[lundo]* |
+| *mardo* | **martĕdıo** = **mardo** *[mardo]* |
+| *merkredo* | **merkŭredıo** = **merkredo** *[merkredo]* |
+| *ĵaŭdo* | **ĵůvedıo** = **ĵovedo** *[ĵuvedo]* |
+| *vendredo* | **venĕredıo** = **vendredo** *[vendredo]* |
 
 #### Italaj Vortoj
 
@@ -193,7 +200,9 @@ Fremdaj vortoj povas eniri Lingvoon laŭ la origina ortografio.
 
 ## Akĉentoj
 
-### Pola-Germana
+### Ĝermana
+
+#### Pola-Germana
 
 | | | pole-germane |
 |-|-|-|
@@ -219,7 +228,7 @@ Fremdaj vortoj povas eniri Lingvoon laŭ la origina ortografio.
 | *saŭco* | **sałso** *[saŭso]* | *[saŭco]* |
 | *senco* | **senso** *[senso]* | *[senco]* |
 
-### Angla
+#### Angla
 
 | | | angle |
 |-|-|-|
@@ -230,177 +239,54 @@ Fremdaj vortoj povas eniri Lingvoon laŭ la origina ortografio.
 | *riĉa* | **riçha** *[riŝa]* | *[riĉa]* |
 | *ŝanĝo* | **çhanĵo** *[ŝanĵo]* | *[ĉanĝo]* |
 
-### Franca-Portugala
+### Latinida
+
+| | | latinide |
+|-|-|-|
+| *oro* | *auro* *[aŭro]* | *[oro]* |
+
+#### Franca-Portugala
 
 | | | france-portugale |
 |-|-|-|
 | *ĵus* | *jus* *[ĥus]* | *[ĵus]* |
 
-### Itala-Hispana
+#### Itala-Hispana
 
 | | | itale-hispane |
 |-|-|-|
 | *akcepti* | **accepti** *[akĉepti]* | *[aĉeti]* |
 | *punkto* | **puncto** *[punkto]* | *[punto]* |
 
+##### Itala
+
+| | | itale |
+|-|-|-|
+| *difini* | **defini** *[defini]* | *[difini]* |
+| *ripeti* | **repeti** *[repeti]* | *ripeti]* |
+
+##### Hispana
+
+| | | hispane |
+|-|-|-|
+| *esperi* | **speri** *[speri]* | *[esperi]* |
+
 ## Maltriviala Vortaro Esperanto-Lingvo
 
 | Esperanto | Lingvo |
 |-|-|
 | *akĉento* | **accentumo** *[akĉentumo]* |
+| *demokratio* | **democratio** *[demokrasio]* |
+| *garantio* | **garantio** *[garansio]* |
 | *justa* | **justuma** *[ĥustuma]* |
 | *pregi* | **prægi** = **praigŭi** *[prajgi]* |
 | *preĝi* | **pregŭi** *[pregi]* |
+| *senco* | **senso** *[senso]* |
+| *senso* | **sentumo** *[sentumo]* |
 
 ----
 
 ## Akĉentoj
-
-En ***akĉenta Lingvoo***, latinidaj vortoj ĉie prononciĝas kun *[c]*, *[ĉ]*, *[ĝ]* anstataŭ *[s]*, *[ŝ]*, *[ĵ]*.
-
-| |
-|-|
-| **domaĉo** *[=]* → **domaçho** *[domaŝo]* → *[domaĉo]* |
-
-En ***akĉenta Lingvoo***, **ct** *[kt]* prononciĝas *[t]*.
-
-| |
-|-|
-| **perfecta** *[perfekta]* → *[perfeta]* |
-
-En ***akĉenta Lingvoo***, **i** kaj **u** inter konsonanto kaj vokalo prononciĝas *[j]* kaj *[ŭ]*.
-
-| |
-|-|
-| **ĉȧelo** *[ĉielo]* → **cielo** *[sielo]* → *[sjelo]* |
-| **fiera** *[fiera]* → *[fjera]* |
-| **piedo** *[piedo]* → *[pjedo]* |
-| |
-| **qualito** *[kvalito]* → *[kŭalito]* |
-
-En ***akĉenta Lingvoo***, **aŭ** kaj **eŭ** prononciĝas *[o]* kaj *[u]*, dum **aĭ** kaj **eĭ** prononciĝas *[e]*. Simile, **ĩ** *[oj]* prononciĝas *[i]*.
-
-| |
-|-|
-| **åŭro** *[oro]* → **aŭro** *[=]* → *[oro]* |
-| **aŭsculti** *[aŭskulti]* → *[osculti]* |
-| **caŭsi** *[kaŭzi]* → *[kozi]* |
-| **paŭso** *[paŭzo]* → *[pozo]* |
-| |
-| **Eŭropo** *[eŭropo]* → *[uropo]* |
-| |
-| **semaĭno** *[semajno]* → *[semeno]* |
-| **traĭno** *[trajno]* → *[treno]* |
-| |
-| **päĕsajo** → **peĭsajo** *[pejzaĝo]* → *[pezaĵo]* |
-| |
-| **rĩo** *[rojo]* → **rio** *[rio]* |
-| **vĩo** *[vojo]* → **vio** *[vio]* |
-| **vĩajo** *[vojaĝo]* → **viajo** *[viaĝo]* → *[vjaĝo]* |
-| **fīo** *[fojo]* → **vizo** *[vico]* |
-| **viċo** *[vico]* → **vizo** *[vico]* |
-| **viċo** *[vico]* → **vizaro** *[vicaro]* |
-
-En ***akĉenta Lingvoo***, la **i** de pronomoj prononciĝas *[oj]*. **tī** *[ci]* prononciĝas *[toj]*.
-
-| |
-|-|
-| **li** *[li]* → *[loj]* |
-| **mia** *[mia]* → *[moja]* |
-| **tīa** *[cia]* → *[toja]* |
-| **ni** *[ni]* → *[noj]* |
-| **vi** *[vi]* → *[voj]* |
-
-En ***akĉenta Lingvoo***, la tabelvorta ŝajnprefikso **ne-** estas ellasebla.
-
-| |
-|-|
-| **nenio** *[nenio]* ← **ne 'n io** → **nio** *[=]* |
-
-En ***akĉenta Lingvoo***, **mr** kaj **nr** prononciĝas *[mbr]* kaj *[ndr]*.
-
-| |
-|-|
-| **ĉhamĕro** *[ĉambro]* → **çhamro** *[ŝamro]* → *[ĉambro]* |
-| **venĕredıo** *[vendredo]* → **venredo** *[=]* → *[vendredo]* |
-
-### Itala
-
-En ***ital-akĉenta Lingvoo***, la ŝajnprefiksoj **de-** kaj **re-** prononciĝas *[di]* kaj *[ri]*.
-
-| |
-|-|
-| **dėfecto** *[di-]* → **defecto** *[de-]* → *[difeto]* |
-| **dėfini** *[di-]* → **defini** *[de-]* → *[difini]* |
-| **dependi** *[de-]* → *[dipendi]* |
-| |
-| **rėpari** *[ri-]* → **repari** *[re-]* → *[ripari]* |
-| **rėlato** *[ri-]* → **relato** *[re-]* → *[rilato]* |
-| **rėpeti** *[ri-]* → **repeti** *[re-]* → *[ripeti]* |
-| **respondi** *[re-]* → *[rispondi]* |
-
-En ***ital-akĉenta Lingvoo***, la *[e]* antaŭ **s̈** mutas.
-
-| |
-|-|
-| **S̈peranto** *[esperanto]* → **Esperanto** *[=]* → *[speranto]* |
-| **s̈ti** → **esti** *[esti]* → *[sti]* |
-
-En ***ital-akĉenta Lingvoo***, **x** *[ks]*/*[gz]* prononciĝas *[s]*/*[z]*. Simile, **ps** *[ps]* prononciĝas *[s]*.
-
-| |
-|-|
-| **texto** *[teksto]* → *[testo]* |
-| **exemplo** *[egzemplo]* → *[ezemplo]* |
-| |
-| **psalmo** *[=]* → *[salmo]* |
-
-Duobla konsonanto prononciĝas duoble.
-
-| |
-|-|
-| **terro** *[tero]* → *[terro]* |
-
-### Franca
-
-En ***franc-akĉenta Lingvoo***, latinidaj vortoj ĉie prononciĝas kun *[s]*, *[ŝ]*, *[ĵ]* anstataŭ *[c]*, *[ĉ]*, *[ĝ]*.
-
-| |
-|-|
-| **ĉhaţi** *[ĉasi]* → **çhaci** *[ŝaci]* → *[ŝasi]* |
-| **farço** *[farso]* → **farzo** *[farco]* → *[farso]* |
-| |
-| **caŝi** *[kaŝi]* → **caçhi** *[kaĉi]* → *[kaŝi]* |
-| **tuŝi** *[tuŝi]* → **tuçhi** *[tuĉi]* → *[tuŝi]* |
-| |
-| **corsaĵo** *[korsaĵo]* → **corsajo** *[korsaĝo]* → *[korsaĵo]* |
-
-En ***franc-akĉenta Lingvoo***, la ŝajnsufikso **-in** prononciĝas *[en]*.
-
-| |
-|-|
-| **camïno** *[kameno]* → **camino** *[kamino]* → *[kameno]* |
-| **ĝardïno** *[ĝardeno]* → **jardino** *[ĵardino]* → *[ĵardeno]* |
-
-### Hispana
-
-En ***hispan-akĉenta Lingvoo***, prononciĝas *[ĥ]* anstataŭ *[ĵ]*/*[ĝ]*, dum *[θ]* prononciĝas anstataŭ *[s]*/*[c]*.
-
-| |
-|-|
-| **generatīo** *[generacio]* → *[ĵenerasio]* → *[ĥeneraθio]* |
-
-***TODO*** nomo de sono ("ce") kaj nomo de litero ("ko")
-
-***TODO*** al/ad -> a? (ofte io nomata? persono?)
-
-***TODO*** na (ludo, sistemo, suprajho) (ofte io nomata? objekto?)
-
-***TODO*** nomoi ne besonas accusativon
-
-***TODO***
-
-***TODO***
 
 *Lingvaismo:* La *cela* finaĵo **-en** mallongiĝas al **-n** kaj fariĝas finaĵo por *akuzativo*. *Tra bruo*, uziĝas anstataŭe la (neologisma) *akuzativa* prepozicio **a**.
 
@@ -421,39 +307,5 @@ En ***hispan-akĉenta Lingvoo***, prononciĝas *[ĥ]* anstataŭ *[ĵ]*/*[ĝ]*, d
 | | Lingvoo |
 |:-|:-|
 | *Mi vidas vin.* | **Mi vidas a vi.** ← **Mi vidas na vi.** |
-
-### Konjunkcioj
-
-***TODO***
-
-| Dio | Planedo | Tago |
-|-|-|-|
-| **Ĭupitero** *[jupitero]* → **Jupitero** *[ĵupitero]* | **=** → **Jovo** *[ĵovo]* | **ĵaŭdıo** *[ĵaŭdo]* → **jovedo** *[ĵovedo]* |
-| **Luno** *[=]* | **=** | **lunĕdıo** *[lundo]* → **lunedo** *[=]* |
-| **Marso** *[=]* | **=** → **Marto** *[=]* | **martĕdıo** *[mardo]* → **martedo** *[=]* |
-| **Mercuro** *[merkuro]* | **=** → **Mercro** *[merkro]* | ***mercŭredıo*** *[merkredo]* → **mercredo** *[merkredo]* |
-| **Venusso** *[venuso]* | **=** → **Venro** *[=]* | **venĕredıo** *[vendredo]* → **venredo** *[=]* |
-
-***TODO*** qŭ- [kv] -> [ku] -> qŭi [ki]
-
-***TODO*** estas aparta temo, kiel skribi tiajn vortojn en Esperanto (simile kiel la h-sistemo)
-
----
-
-En ***Lingvoo***, radikofina **ţ** *[s]* skribiĝas **z**/**c** respective **s**. **tī** *[ci]* prononciĝas *[si]*.
-
-| |
-|-|
-| **marto** *[marto]* → **marzo** *[marco]* |
-| |
-| **Marţo** → **Marso** *[marso]* |
-| **senţo** *[senso]* → **sentumo** *[sentumo]* |
-| |
-| **democratio** *[demokratio]* → **democratīo** *[demokrasio]* |
-| **evolutīo** *[evolucio]* → *[evolusio]* |
-| **garantio** *[=]* → **garantīo** *[garancio]* |
-| **natīo** *[nacio]* → *[nasio]* |
-| **patīentĭo** *[pacienco]* → **patīenzo** *[pasienco]* |
-| **sentĭo** *[senco]* → **senso** *[senso]* |
 
 
