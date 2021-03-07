@@ -1,5 +1,10 @@
 # Linguo
 
+> Se ni ech supposos, qŭe la fina linguo de la stontai generatioi stas ne Speranto, in chia occaso la vio ad tiu elaborota linguo nepre devas conduqŭi tra Speranto.
+> [Se ni eĉ supozos, ke la fina lingvo de la stontaj ĝenerasioj stas ne Speranto, in ĉia okazo la vio ad tiu elaborota lingvo nepre devas konduki tra Speranto.]
+> ---
+> L. L. Zamenhof
+
 ***Lingvoo*** pruntas el [***Lingveo***](lingue.md) kaj el [***Lingvao***](lingua.md), [***Sprako***](sprak.md) kaj [***Jaziko***](jazyk.md). ***Lingvoo*** havas trajtojn de [***Esperanto***](https://eo.wikipedia.org/wiki/Esperanto).
 
 ## Prononco
