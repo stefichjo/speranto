@@ -115,6 +115,7 @@ Fremdaj vortoj povas eniri Lingvoon laŭ la origina ortografio.
 
 | | |
 |-|-|
+| *aĉeti* | **açcĕpti** = **açhti** *[aŝti]* |
 | *ĉambro* | **çhamĕro** = **çhambro** *[ŝambro]* |
 | *ĉe* | **çhä** = **çhe** *[ŝe]* |
 | *ĉemizo* | **çhämisĭo** = **çhemiso** *[ŝemizo]* |
@@ -235,6 +236,13 @@ Fremdaj vortoj povas eniri Lingvoon laŭ la origina ortografio.
 |-|-|-|
 | *ĵus* | *jus* *[ĥus]* | *[ĵus]* |
 
+### Itala-Hispana
+
+| | | itale-hispane |
+|-|-|-|
+| *akcepti* | **accepti** *[akĉepti]* | *[aĉeti]* |
+| *punkto* | **puncto** *[punkto]* | *[punto]* |
+
 ## Maltriviala Vortaro Esperanto-Lingvo
 
 | Esperanto | Lingvo |
@@ -259,7 +267,6 @@ En ***akĉenta Lingvoo***, **ct** *[kt]* prononciĝas *[t]*.
 | |
 |-|
 | **perfecta** *[perfekta]* → *[perfeta]* |
-| **puncto** *[punkto]* → *[punto]* |
 
 En ***akĉenta Lingvoo***, **i** kaj **u** inter konsonanto kaj vokalo prononciĝas *[j]* kaj *[ŭ]*.
 
