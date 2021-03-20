@@ -1,7 +1,7 @@
 # Linguo
 
-> Se ni ech supposos, qŭe la fina linguo de la stontai generatioi stas ne Speranto, in chia occaso la vio ad tiu elaborota linguo nepre devas conduqŭi tra Speranto.
-> [Se ni eĉ supozos, ke la fina lingvo de la stontaj ĝenerasioj stas ne Speranto, in ĉia okazo la vio ad tiu elaborota lingvo nepre devas konduki tra Speranto.]
+> Se ni ech supposos, qŭe la fina linguo de la essontai generatioi essas ne Speranto, en chia occaso la vĩo al tiu elaborota linguo nepre devas conduqŭi tra Speranto.
+> [Se ni eĉ supozos, ke la fina lingŭo de la esontaj ĝenerasioj esas ne Speranto, en ĉia okazo la vojo al tiu elaborota lingŭo nepre devas konduki tra Speranto.]
 > ---
 > L. L. Zamenhof
 
@@ -32,38 +32,49 @@ La Lingvaa ŝajnsufikso **-atĭc-** fariĝas **aĵ** *[aĵ]*.
 
 | | |
 |-|-|
-| *fromaĝo* | **formatĭco** = **formaĵo** *[formaĵo]* |
-| *mesaĝo* | **missatĭco** = **missaĵo** *[misaĵo]* |
-| *vojaĝo* | **viatĭco** = **viaĵo** *[viaĵo]* |
+| *avantaĝo* | **avantatĭco** = **avantaĵo** *[avantaĵo]* |
 
 ### c, g
 
-**c** kaj **g** estas prononcataj *[ĉ]* kaj *[ĝ]* antaŭ **-e** kaj **-i** (kaj **-y**).
+**c** kaj **g** estas prononcataj *[ĉ]* kaj *[ĝ]* antaŭ **-e** kaj **-i**. Kiam **c** kaj **g** estas prononcataj *[k]* kaj *[g]* antaŭ **-e** kaj **-i**, ili skribiĝas **qŭ** kaj **gŭ**.
+
 
 | | |
 |-|-|
 | *ĉesi* | **cessi** *[ĉesi]* |
-| *voĉo* | **voĉo** *[voĉo]* |
+| *ĝenerala* | **generala** *[ĝenerala]* |
 | | |
 | *leĝo* | **leĝo**  *[leĝo]* |
+| *voĉo* | **voĉo** *[voĉo]* |
 | | |
-| *biciklo* | **bicyclo** *[biĉiklo]* |
-
-Kiam **c** kaj **g** estas prononcataj *[k]* kaj *[g]* antaŭ **-e** kaj **-i**, ili skribiĝas **qŭ** kaj **gŭ**.
-
-| | |
-|-|-|
-| *amike* | **amiqŭe** *[amike]* |
-| *longe* | **longŭe** *[longe]* |
+| *legi* | **legŭi** *[legi]* |
+| *voki* | **voqŭi** *[voki]* |
 
 ### i, u
 
-Neakcentata radikofina **-i** eliziiĝas post konsonanto.
+Post konsonanto, neakcentata radikofina **-i** eliziiĝas.
 
 | | |
 |-|-|
+| *propra* | **proprĭa** *[propra]* |
+| | |
 | *majo* | **maio** *[majo]* |
-| *filo* | **filĭo** *[filo]* |
+
+La prononco de **lĭ** *[ḷ]* (*[ʎ]*) kaj **nĭ** *[ṇ]* (*[ɲ]*) povas varii inter *[lj]* kaj *[jl]* respektive inter *[nj]* kaj *[jn]*.
+
+| | |
+|-|-|
+| *filo* | **filĭo** *[fiḷo]* |
+| *bano* | **banĭo** *[baṇo]* |
+
+Voĉaj konsonantoj kun **ĭ** prononciĝas *[ĵ]*.
+
+| | |
+|-|-|
+| *kaĝo* | **cavĭo** = **caĵo** *[kaĵo]* |
+| *neĝo* | **nïvĭo** = **neĵo** *[neĵo]* |
+| *ruĝa* | **ruvĭa** = **ruĵa** *[ruĵa]* |
+| *seĝo* | **sedĭo** = **seĵo** *[seĵo]* |
 
 **j** prononciĝas *[ĥ]*.
 
@@ -72,15 +83,15 @@ Neakcentata radikofina **-i** eliziiĝas post konsonanto.
 | *jam* | **jam** *[ĥam]* |
 | *objekto* | **objecto** *[obĥekto]* |
 
-En diftongoj, **u** prononciĝas *[ŭ]*. Post konsonanto kaj komence de radiko, **u** prononciĝas *[v]*.
+**u** prononciĝas kiel en Lingveo.
 
 | | |
 |-|-|
 | *aŭto* | **auto** *[aŭto]* |
-| *akvo* | **aquo** *[akvo]* |
-| *kvanto* | **quanto** *[kvante]* |
+| *akvo* | **aquo** *[akŭo]* |
+| *kvanto* | **quanto** *[kŭanto]* |
 | | |
-| *ŭaŭ* | **wau** *[vaŭ]* |
+| *ŭaŭ* | **wau** *[ŭaŭ]* |
 
 Kiam **u** estas akcentata en antaŭlasta pozicio, ĝi portas makronon.
 
@@ -100,47 +111,62 @@ Anstataŭ *[sĉ]*, prononciĝas *[ŝ]*.
 
 | | |
 |-|-|
+| *ascendi* | **ascendi** *[aŝendi]* |
 | *scienco* | **scientĭo** *[ŝienso]* |
 
-### Fremdaj Vortoj
+### ex̂-, dė-, rė-
 
-Fremdaj vortoj povas eniri Lingvoon laŭ la origina ortografio.
+La ŝajnpreksoj **ex̂-**, **dė-** kaj **rė-** pronciĝas *[es]*, *[di]* kaj *[ri]*.
 
 | | |
 |-|-|
-| *apogi* | **appodȷi** = **appogŭi** *[apogi]* |
-| *mensogi* | **menţonȷi** = **mensogŭi** *[mensogi]* |
-| *stranga* | **stranȷa** = **stranga** *[stranga]* |
+| *escepto* | **ex̂cepto** = **escepto** *[esĉepto]* |
+| *esplori* | **ex̂plori** = **esplori** *[esplori]* |
+| | |
+| *rigardi* | **rėgardi** = **rigardi** *[rigardi]* |
+| *rilato* | **rėlato** = **rilato** *[rilato]* |
+| | |
+| *difini* | **dėfini** = **difini** *[difini]* |
+| *difekto* | **dėfekto** = **difekto** *[difekto]* |
+
+### Fremdaj Vortoj
+
+Fremdaj vortoj povas eniri Lingvoon laŭ ilia origina ortografio.
+
+| | |
+|-|-|
+| *biero* | **biero** *[biero]* |
+| *boato* | **boato** *[boato]* |
 | *teamo* | **teamo** *[teamo]* |
 
 #### Latinidaj Vortoj
 
-##### Francaj Vortoj
-
 | | |
 |-|-|
-| *aĉeti* | **açcĕpti** = **açhti** *[aŝti]* |
+| *averaĝo* | **aväratĭco** = **averaĵo** *[averaĵo]* |
+| *bieno* | **bẽno** = **bieno** *[bieno]* |
 | *ĉambro* | **çhamĕro** = **çhambro** *[ŝambro]* |
 | *ĉe* | **çhä** = **çhe** *[ŝe]* |
 | *ĉemizo* | **çhämisĭo** = **çhemiso** *[ŝemizo]* |
 | *-eco* | **-etĭo** = **-esso** *[eso]* |
+| *etaĝo* | **s̈tatĭco** = **etaĵo** *[etaĵo]* |
+| *fromaĝo* | **fromatĭco** = **fromaĵo** *[fromaĵo]* |
+| *hieraŭ* | **hẽre** = **hiere** *[hiere]*
+| *kanzono* | **canţono** = **cansono** *[kansono]* |
 | *Marso* | **Marţo** = **Marso** *[marso]* |
 | *maŝino* | **maçhino** *[maŝino]* |
 | *mesaĝo* | **mïssaĵo** = **messaĵo** *[mesaĵo]* |
-| *neĝo* | **nïvĭo** = **neĵo** *[neĵo]* |
-| *ruĝa* | **ruvĭa** = **ruĵa** *[ruĵa]* |
-| *savi* | **sałvi** = **sauvi** *[saŭvi]* |
-| *seĝo* | **sedĭo** = **seĵo** *[seĵo]* |
-| *serĉi* | **çïrçhi** = **çerçhi** *[serŝi]* |
+| *rojo* | **rĩo** = **royo** *[rojo]* |
+| *sojlo* | **solĭo** *[soḷo]* |
 | *ŝanco* | **çhadĕntĭo** = **çhanço** *[ŝanso]* |
 | *ŝanĝo* | **çhambĭo** = **çhanĵo** *[ŝanĵo]* |
 | *semajno* | **semæno** = **semaino** *[semajno]* |
 | *sonĝo* | **somnĭo** = **sonĵo** *[sonĵo]* |
+| *tranĉi* | **trançi** *[tranŝi]* |
 | *tuŝi* | **tǒçci** = **tuçci** *[tuŝi]* |
 | *ĉielo* | **çẽlo** = **çielo** *[sielo]* |
 | *tuta* | **tǒta** = **tuta** *[tuta]* |
 | *vojo* | **vĩo** = **voyo** *[vojo]* |
-| *vojaĝo* | **vĩaĵo** = **voyaĵo** *[vojaĵo]* |
 | | |
 | *lundo* | **lunĕdıo** = **lundo** *[lundo]* |
 | *mardo* | **martĕdıo** = **mardo** *[mardo]* |
@@ -159,14 +185,18 @@ Fremdaj vortoj povas eniri Lingvoon laŭ la origina ortografio.
 | *colo* | **ţollo** = **tsollo** *[colo]* |
 | *fajna* | **fĩna** = **faina** *[fajna]* |
 | *fiŝo* | **fisho** *[fiŝo]* |
+| *fraŭlo* | **frũlo** *[fraŭlo]* |
 | *jaro* | **yaro** *[jaro]* |
+| *lando* | **lando** *[lando]* |
 | *ŝajni* | **shĩni** = **shaini** *[ŝajni]* |
 | *ŝlimo* | **ŝlĩmo** = **ŝlaimo** *[ŝlajmo]* |
 | *ŝnuro* | **ŝnuro** *[ŝnuro]* |
-| *ŝpruci* | **ŝpruţi** = **ŝpruçi** *[ŝprusi]* |
+| *ŝpruci* | **ŝpruţi** *[ŝpruci]* |
+| *ŝraŭbo* | **shraubo** *[ŝraŭbo]* |
 | *ŝtalo* | **ŝtalo** *[ŝtalo]* |
 | *ŝtato* | **ŝtato** *[ŝtato]* |
 | *ŝuo* | **shuo** *[ŝuo]* |
+| *tago* | **tago** *[tago]* |
 | *trinki* | **trinki** *[trinki]* |
 | *varma* | **warma** *[varma]* |
 | *vorto* | **worto** *[vorto]* |
@@ -176,9 +206,12 @@ Fremdaj vortoj povas eniri Lingvoon laŭ la origina ortografio.
 | | |
 |-|-|
 | *drinki* | **drinki** *[drinki]* |
+| *hobio* | **hobbyo** = **hobbio** *[hobio]* |
 | *jes* | **yes** *[jes]* |
+| *kajto* | **kĩto** = **kaito** *[kajto]* |
 | *ŝipo* | **shippo** *[ŝipo]* |
-| *ŝtono* | **stono** *[stono]* |
+| *tajdo* | **tĩdo** = **taido** *[tajdo]* |
+| *partio* | **partyo** = **partio** *[partio]* |
 
 #### Slavaj Vortoj
 
@@ -197,32 +230,39 @@ Fremdaj vortoj povas eniri Lingvoon laŭ la origina ortografio.
 
 ## Akĉentoj
 
-### Ĝermana
-
-#### Pola-Germana
-
-| | | pole-germane |
+| | | |
 |-|-|-|
+| *oro* | *auro* *[aŭro]* | *[oro]* |
+
+### Slava-Ĝermana
+
+| | | pole |
+|-|-|-|
+| *biciklo* | **bicyclo** *[biĉiklo]* | *[biciklo]* |
 | *-eco* | **-esso** *[eso]* | *[eco]* |
 | *generacio* | **generatio** *[ĝenerasio]* | *[generacio]* |
+| *indico* | **indiĉo** *[indiĉo]* | *[indico]* |
 | *jam* | **jam** *[ĥam]* | *[jam]* |
 | *koncerto* | **concerto** *[konĉerto]* | *[koncerto]* |
 | *paco* | **paĉo** *[paĉo]*  | *[paco]* |
 | *ŝanco* | **çhanço** *[ŝanso]* | *[ŝanco]* |
-| | |
-| *ŝlimo* | **slimo** *[slimo]* | *[ŝlimo]* |
-| *ŝpruci* | **ŝpruçi** *[ŝprusi]* | *[ŝpruci]* |
-| *ŝtono* | **stono** *[stono]* | *[ŝtono]* |
-| | |
+| | | |
 | *eĥo* | **echo** *[eko]* | *[eĥo]* |
 | *kemio* | **chemio** *[kemio]* | *[ĥemio]* |
 | *mekaniko* | **mechanico** *[mekaniko]* | *[meĥaniko]* |
-| | |
-| *hodiaŭ* | **hodie** *[hodie]* | *[hodiaŭ]* |
-| | |
-| *precipe* | **prençipe** *[prensipe]* | *[prencipe]* |
-| *saŭco* | **sałso** *[saŭso]* | *[saŭco]* |
-| *senco* | **senso** *[senso]* | *[senco]* |
+| | | |
+| *baldaŭ* | **balde** *[balde]* | *[baldaŭ]* |
+| | | |
+| *diurno* | **dĭurno** *[ĵurno]* | *[diurno]* |
+| *hodiaŭ* | **hodĭe** *[hoĵe]* | *[hodiaŭ]* |
+| | | |
+| *eksperto* | **ex̂perto** *[esperto]* | *[eksperto]* |
+| *dependi* | **dėpendi** *[dipendi]* | *[dependi]* |
+| *reflekso* | **rėflexo** *[riflekso]* | *[reflekso]* |
+| | | |
+| *akvo* | **aquo** *[akŭo]* | *[akvo]* |
+| *kvar* | **quar** *[kŭar]* | *[kvar]* |
+| *lingvo* | **linguo** *[lingŭo]* | *[lingvo]* |
 
 #### Angla
 
@@ -231,34 +271,34 @@ Fremdaj vortoj povas eniri Lingvoon laŭ la origina ortografio.
 | *ĉambro* | **çhambro** *[ŝambro]* | *[ĉambro]* |
 | *ĉarma* | **çharma** *[ŝarma]* | *[ĉarma]* |
 | *ĝusta* | **justa** *[ĥusta]* | *[ĝusta]* |
-| *mesaĝo* | **messaĵo** *[mesaĵo]* | *[mesaĝo]* |
+| *mesaĝo* | **mïssaĵo** *[mesaĵo]* | *[mesaĝo]* |
 | *riĉa* | **riçha** *[riŝa]* | *[riĉa]* |
-| *ŝanĝo* | **çhanĵo** *[ŝanĵo]* | *[ĉanĝo]* |
+| *serĉi* | **çïrçhi** *[serŝi]* | *[serĉi]* |
 
 ### Latinida
 
-| | | latinide |
-|-|-|-|
-| *oro* | *auro* *[aŭro]* | *[oro]* |
+#### Itala
 
-#### Franca-Portugala
-
-| | | france-portugale |
-|-|-|-|
-| *ĵus* | *jus* *[ĥus]* | *[ĵus]* |
-
-#### Itala-Hispana
-
-| | | itale-hispane |
+| | | itale |
 |-|-|-|
 | *akcepti* | **accepti** *[akĉepti]* | *[aĉeti]* |
 | *punkto* | **puncto** *[punkto]* | *[punto]* |
 | | | |
 | *difini* | **defini** *[defini]* | *[difini]* |
 | *ripeti* | **repeti** *[repeti]* | *ripeti]* |
-| | | |
-| *esperi* | **speri** *[speri]* | *[esperi]* |
-| *esti* | **sti** *[sti]* | *[esti]* |
+
+#### Hispana
+
+| | | hispane |
+|-|-|-|
+| *filo* | **filĭo** *[fiḷo]* | *[hiĥo]* |
+| *folio* | **folĭo** *[foḷo]* | *[hoĥo]* |
+
+#### Franca
+
+| | | france-portugale |
+|-|-|-|
+| *ĵus* | *jus* *[ĥus]* | *[ĵus]* |
 
 ## Gramatiko
 
@@ -268,7 +308,7 @@ La gramatiko de Lingvoo estas sama al tiu de Esperanto.
 
 | | |
 |-|-|
-| *hodiaŭ* | **hodie** *[hodie]* |
+| *preskaŭ* | **presqŭe** *[preske]* |
 
 Prepoziciaĵoj finiĝas je **-ał** *[aŭ]*.
 
@@ -278,20 +318,51 @@ Prepoziciaĵoj finiĝas je **-ał** *[aŭ]*.
 
 ## Vortaro
 
-| Esperanto | Lingvo |
+| Esperanto | Linguo |
 |-|-|
+| *aĉeti* | **açcĕpti** = **açhti** *[aŝti]* |
+| *aĝo* | **eṯatĭco** *[edaĵo]* |
+| *ajlo* | **alĭo** *[aḷo]* |
 | *akĉento* | **accentumo** *[akĉentumo]* |
-| *apogi* | **appodĭi** = **appodi** *[apodi]* |
+| *alia* | **altra** *[altra]* |
+| *apogi* | **appodĭi** = **appoĵi** *[apoĵi]* |
+| *demandi* | **dėmandi** *[dimandi]* |
 | *demokratio* | **democratio** *[demokrasio]* |
+| *diri* | **diqŭi** *[diki]* |
 | *dolĉa* | **dulĉa** *[dulĉa]* |
+| *esperi* | **speri** *[speri]* |
+| *eksplodi* | **ex̂plodi** *[esplodi]* |
+| *esti* | **etĭi** *[esi]* |
+| *familio* | **familĭo** *[famiḷo]* |
+| *fari* | **faci** *[faĉi]* |
+| *fojo* | **foio** *[fojo]* |
+| *fojno* | **fẽno** *[fieno]* |
+| *folio* | **folĭo** *[foḷo]* |
 | *garantio* | **garantio** *[garansio]* |
-| *hodiaŭ* | **hodie** *[hodie]* |
+| *hajlo* | **haglo** *[haglo]* |
+| *hejmo* | **haimo** *[hajmo]* |
+| *implici* | **implicumi** *[implikumi]* |
+| *iri* | **vadi** *[vadi]* |
 | *justa* | **justuma** *[ĥustuma]* |
 | *kaĉo* | **kaŝo** *[kaŝo]* |
-| *mensogi* | **menţonĭi** = **mensoni** *[mensoni]* |
+| *kojno* | **cunĭo** *[kuṇo]* |
+| *leciono* | **lectiero**/**lectiono** *[leksiero]*/*[leksiono]* |
+| *mencii* | **mentii** *[mensii]* |
+| *mensogi* | **menţonĭi** *[mensonĵi]* |
+| *najlo* | **naglo** *[naglo]* |
+| *pejzaĝo* | **paesatĭco** *[paezaĵo]* |
+| *precipe* | **prïnçipe** *[prensipe]* |
 | *pregi* | **prægi** = **praigŭi** *[prajgi]* |
 | *preĝi* | **pregŭi** *[pregi]* |
+| *saŭco* | **salso** *[salso]* |
+| *savi* | **salvi** *[salvi]* |
+| *scii* | **savi** *[savi]* |
 | *senco* | **senso** *[senso]* |
 | *senso* | **sentumo** *[sentumo]* |
 | *skribi* | **scrivi** *[skrivi]* |
-| *stranga* | **stranĭa** = **strana** *[strana]* |
+| *stari* | **sti** *[sti]* |
+| *stranga* | **ex̂tranĭa** *[estraṇa]* |
+| *ŝanĝo* | **çhanĵo** *[ŝanĵo]* |
+| *ŝlimo* | **ŝlaimo** *[ŝlajmo]* |
+| *ŝtono* | **ŝtaino** *[ŝtajno]* |
+| *vojaĝo* | **viatĭco** *[viaĵo]* |

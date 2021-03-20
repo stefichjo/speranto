@@ -263,6 +263,8 @@ La korelativo **la** kaj la numeralo **un** uziĝas kiel artikoloj. **En poezio*
 | *sia* | **sūa** = **sua** |
 | *sin* | **si** |
 
+@te, se (trovarte, trovarse)
+
 ### Verboj
 
 #### Infinitivo

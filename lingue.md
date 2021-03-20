@@ -63,6 +63,8 @@ Kiam **c** kaj **g** estas prononcataj *[k]* kaj *[g]* antaŭ **-e** kaj **-i**,
 |-|-|
 | *amiko* | **amic̄e** *[amike]* |
 | *fungo* | **funḡe** *[funge]* |
+| | |
+| *plaĉa* | **plaça** *[placa]* |
 
 ### i, u
 
@@ -81,7 +83,7 @@ En diftongoj, **u** prononciĝas *[ŭ]*. Komence de radiko, ĝi skribiĝas **w**
 | | |
 |-|-|
 | *aŭto* | **aute** *[aŭte]* |
-| *akvo* | **aque** *[akve]* |
+| *akvo* | **aque** *[akŭe]* |
 | *kvanto* | **quante** *[kŭante]* |
 | | |
 | *ŭaŭ* | **wau** *[ŭaŭ]* |
@@ -153,12 +155,17 @@ Adjektivoj finiĝas je **-a**.
 
 ### Adverboj
 
-Adverboj finiĝas je **-e**.
+Adverboj finiĝas je **-o**.
 
 | | |
 |-|-|
-| *multe* | **multe** *[multe]* |
-| *hodiaŭ* | **hodīe** *[hodie]* |
+| *multe* | **multo** *[multo]* |
+
+Originaj adverboj finiĝas je **-ô** *[aŭ]*.
+
+| | |
+|-|-|
+| *hodiaŭ* | **hodiô** *[hodjaŭ]* |
 
 Celaj adverboj finiĝas je **-en**.
 
@@ -178,7 +185,7 @@ Korelativaj radikoj kombineblas kun sufiksoj.
 | | |
 |-|-|
 | *kiu* | **qui** *[ki]* = **quule** *[kŭule]* |
-| *kio* | **que** *[ke]* = **quaje** *[kŭaĵe]* |
+| *kio* | **que** *[ke]* = **quaĵe** *[kŭaðje]* |
 | *kia*, *kiu* | **qua** *[kŭa]* = **quessa** *[kŭesa]*, **quula** *[kŭula]* |
 | *kie* | **quo** *[kŭo]* = **queio** *[kŭejo]* |
 | *kien* | **quu** *[kŭu]* |
@@ -254,6 +261,14 @@ La volitiva kaj kondicionala vokaloj estas **e** kaj **u**.
 | *vidu!* | **viden!** |
 | *ke vi vidu* | **qŭe vi viden** |
 | *se vi vidus* | **se vi vidun** |
+
+La radiko de (latin(id)a) verbo estas tiu de la unua persono en ununombro.
+
+| | |
+|-|-|
+| *mi legas* | **mi legan** |
+| *mi kondukas* | **mi conducan** |
+| *mi plaĉas* | **mi plaçan** |
 
 ### Prepozicioj
 
