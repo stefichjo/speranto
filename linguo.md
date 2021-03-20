@@ -152,8 +152,10 @@ Fremdaj vortoj povas eniri Lingvoon laŭ ilia origina ortografio.
 | *-eco* | **-etĭo** = **-esso** *[eso]* |
 | *etaĝo* | **s̈tatĭco** = **etaĵo** *[etaĵo]* |
 | *fromaĝo* | **fromatĭco** = **fromaĵo** *[fromaĵo]* |
+| *ĝojo* | **ĝoio** *[ĝojo]* |
 | *hieraŭ* | **hẽre** = **hiere** *[hiere]*
 | *kanzono* | **canţono** = **cansono** *[kansono]* |
+| *kaŝi* | **cŏactĭi** = **caçhi** *[kaŝi]* |
 | *Marso* | **Marţo** = **Marso** *[marso]* |
 | *maŝino* | **maçhino** *[maŝino]* |
 | *mesaĝo* | **mïssaĵo** = **messaĵo** *[mesaĵo]* |
@@ -335,6 +337,7 @@ Prepoziciaĵoj finiĝas je **-ał** *[aŭ]*.
 | *akĉento* | **accentumo** *[akĉentumo]* |
 | *alia* | **altra** *[altra]* |
 | *apogi* | **appodĭi** = **appoĵi** *[apoĵi]* |
+| *ĉasi* | **çhaptĭi** = **çhassi** *[ŝasi]* |
 | *demandi* | **dėmandi** *[dimandi]* |
 | *demokratio* | **democratio** *[demokrasio]* |
 | *diri* | **diqŭi** *[diki]* |
@@ -343,7 +346,6 @@ Prepoziciaĵoj finiĝas je **-ał** *[aŭ]*.
 | *eksplodi* | **ex̂plodi** *[esplodi]* |
 | *esti* | **etĭi** *[esi]* |
 | *familio* | **familĭo** *[famiḷo]* |
-| *fari* | **faci** *[faĉi]* |
 | *fojno* | **fẽno** *[fieno]* |
 | *folio* | **folĭo** *[foḷo]* |
 | *garantio* | **garantio** *[garansio]* |
@@ -369,7 +371,6 @@ Prepoziciaĵoj finiĝas je **-ał** *[aŭ]*.
 | *senco* | **senso** *[senso]* |
 | *senso* | **sentumo** *[sentumo]* |
 | *skribi* | **scrivi** *[skrivi]* |
-| *stari* | **sti** *[sti]* |
 | *stranga* | **ex̂tranĭa** *[estraṇa]* |
 | *ŝanĝo* | **çhanĵo** *[ŝanĵo]* |
 | *ŝlimo* | **ŝlaimo** *[ŝlajmo]* |
@@ -377,6 +378,11 @@ Prepoziciaĵoj finiĝas je **-ał** *[aŭ]*.
 | *-uj-* | **-ĩ-** *[oj]* |
 | *vojaĝo* | **viatĭco** *[viaĵo]* |
 
-@kaŝi
-@povi
-@doni
+| Esperanto | Linguo |
+|-|-|
+| *doni* | **di** *[di]* |
+| *fari* | **faci** *[faĉi]* |
+| *stari* | **sti** *[sti]* |
+
+@povi podi poti possi
+
