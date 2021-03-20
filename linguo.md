@@ -105,7 +105,7 @@ En prepoziciaĵoj, **al** fariĝas **-ał** *[aŭ]*.
 
 | | |
 |-|-|
-| *vice al* | **viĉał** *[viĉaŭ]* |
+| *vice al* | **viĉał** = **viĉau** *[viĉaŭ]* |
 
 Anstataŭ *[sĉ]*, prononciĝas *[ŝ]*.
 
@@ -137,13 +137,14 @@ Fremdaj vortoj povas eniri Lingvoon laŭ ilia origina ortografio.
 |-|-|
 | *biero* | **biero** *[biero]* |
 | *boato* | **boato** *[boato]* |
+| *fojo* | **foio** *[fojo]* |
 | *teamo* | **teamo** *[teamo]* |
 
 #### Latinidaj Vortoj
 
 | | |
 |-|-|
-| *averaĝo* | **aväratĭco** = **averaĵo** *[averaĵo]* |
+| *averaĝo* | **aväratĭco** *[averaĵo]* |
 | *bieno* | **bẽno** = **bieno** *[bieno]* |
 | *ĉambro* | **çhamĕro** = **çhambro** *[ŝambro]* |
 | *ĉe* | **çhä** = **çhe** *[ŝe]* |
@@ -162,6 +163,7 @@ Fremdaj vortoj povas eniri Lingvoon laŭ ilia origina ortografio.
 | *ŝanĝo* | **çhambĭo** = **çhanĵo** *[ŝanĵo]* |
 | *semajno* | **semæno** = **semaino** *[semajno]* |
 | *sonĝo* | **somnĭo** = **sonĵo** *[sonĵo]* |
+| *trajno* | **træno** = **traino** *[trajno]* |
 | *tranĉi* | **trançi** *[tranŝi]* |
 | *tuŝi* | **tǒçci** = **tuçci** *[tuŝi]* |
 | *ĉielo* | **çẽlo** = **çielo** *[sielo]* |
@@ -335,7 +337,6 @@ Prepoziciaĵoj finiĝas je **-ał** *[aŭ]*.
 | *esti* | **etĭi** *[esi]* |
 | *familio* | **familĭo** *[famiḷo]* |
 | *fari* | **faci** *[faĉi]* |
-| *fojo* | **foio** *[fojo]* |
 | *fojno* | **fẽno** *[fieno]* |
 | *folio* | **folĭo** *[foḷo]* |
 | *garantio* | **garantio** *[garansio]* |
@@ -365,4 +366,9 @@ Prepoziciaĵoj finiĝas je **-ał** *[aŭ]*.
 | *ŝanĝo* | **çhanĵo** *[ŝanĵo]* |
 | *ŝlimo* | **ŝlaimo** *[ŝlajmo]* |
 | *ŝtono* | **ŝtaino** *[ŝtajno]* |
+| *-uj-* | **-ĩ-** *[oj]* |
 | *vojaĝo* | **viatĭco** *[viaĵo]* |
+
+@kaŝi
+@povi
+@doni
