@@ -281,7 +281,7 @@ Prepoziciaĵoj finiĝas je **-ał** *[aŭ]*.
 | Esperanto | Lingvo |
 |-|-|
 | *akĉento* | **accentumo** *[akĉentumo]* |
-| *apogi* | **appodĭi** *[apodi]* |
+| *apogi* | **appodĭi** = **appodi** *[apodi]* |
 | *demokratio* | **democratio** *[demokrasio]* |
 | *dolĉa* | **dulĉa** *[dulĉa]* |
 | *garantio* | **garantio** *[garansio]* |
