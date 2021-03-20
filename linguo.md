@@ -236,7 +236,8 @@ Fremdaj vortoj povas eniri Lingvoon laŭ ilia origina ortografio.
 
 ## Akĉentoj
 
-### Slava-Ĝermana
+### Slav-Ĝermana
+*(Esperanto)*
 
 | | | slave-ĝermane |
 |-|-|-|
@@ -329,10 +330,13 @@ Prepoziciaĵoj finiĝas je **-ał** *[aŭ]*.
 
 ## Vortaro
 
+| | Linguo | Esperanto |
+|-|-|-|
+| *aĉeti* | **açcĕpti** = **açhti** *[aŝti]* | **açceti** *[aĉeti]* |
+| *aĝo* | **eṯatĭco** *[edaĵo]* | **atĭco** *[aĝo]* |
+
 | Esperanto | Linguo |
 |-|-|
-| *aĉeti* | **açcĕpti** = **açhti** *[aŝti]* |
-| *aĝo* | **eṯatĭco** *[edaĵo]* |
 | *ajlo* | **alĭo** *[aḷo]* |
 | *aero* | **æro** = **airo** *[ajro]* |
 | *akĉento* | **accentumo** *[akĉentumo]* |
@@ -349,6 +353,7 @@ Prepoziciaĵoj finiĝas je **-ał** *[aŭ]*.
 | *familio* | **familĭo** *[famiḷo]* |
 | *fojno* | **fẽno** *[fieno]* |
 | *folio* | **folĭo** *[foḷo]* |
+| *forgesi* | **forgŭetti**/**fergŭessi** *[forgeti]*/*[fergesi]* |
 | *garantio* | **garantio** *[garansio]* |
 | *hajlo* | **haglo** *[haglo]* |
 | *hejmo* | **haimo** *[hajmo]* |
@@ -357,12 +362,14 @@ Prepoziciaĵoj finiĝas je **-ał** *[aŭ]*.
 | *justa* | **justuma** *[ĥustuma]* |
 | *kaĉo* | **kaŝo** *[kaŝo]* |
 | *kojno* | **cunĭo** *[kuṇo]* |
+| *labori* | **lavori** *[lavori]* |
 | *leciono* | **lectiero**/**lectiono** *[leksiero]*/*[leksiono]* |
 | *mencii* | **mentii** *[mensii]* |
 | *mensogi* | **menţonĭi** *[mensonĵi]* |
 | *najlo* | **naglo** *[naglo]* |
 | *oro* | **aŭro** *[aŭro]* |
 | *pejzaĝo* | **pæsatĭco** = **paisaĵo** *[pajzaĵo]* |
+| *pesi* | **pesumi** *[pezumi]* |
 | *povi* | **possi** *[posi]* |
 | *precipe* | **prïnçipe** *[prensipe]* |
 | *pregi* | **prægi** = **praigŭi** *[prajgi]* |
@@ -375,6 +382,8 @@ Prepoziciaĵoj finiĝas je **-ał** *[aŭ]*.
 | *skribi* | **scrivi** *[skrivi]* |
 | *stranga* | **ex̂tranĭa** *[estraṇa]* |
 | *ŝanĝo* | **çhanĵo** *[ŝanĵo]* |
+| *ŝargi* | **çharĭcumi** *[ŝargumi]* |
+| *ŝarĝi* | **çharĭcumi** *[ŝargi]* |
 | *ŝlimo* | **ŝlaimo** *[ŝlajmo]* |
 | *ŝtono* | **ŝtaino** *[ŝtajno]* |
 | *-uj-* | **-ĩ-** *[oj]* |
@@ -385,3 +394,4 @@ Prepoziciaĵoj finiĝas je **-ał** *[aŭ]*.
 | *diri* | **diqŭi** *[diki]* |
 | *fari* | **faci** *[faĉi]* |
 | *stari* | **sti** *[sti]* |
+
