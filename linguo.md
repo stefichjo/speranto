@@ -60,7 +60,7 @@ Post konsonanto, neakcentata radikofina **-i** eliziiĝas.
 | | |
 | *majo* | **maio** *[majo]* |
 
-La prononco de **lĭ** *[ḷ]* (*[ʎ]*) kaj **nĭ** *[ṇ]* (*[ɲ]*) povas varii inter *[lj]* kaj *[jl]* respektive inter *[nj]* kaj *[jn]*.
+La prononco de **lĭ** *[ḷ]* (= *[ʎ]*) kaj **nĭ** *[ṇ]* (= *[ɲ]*) povas varii inter *[lj]* kaj *[jl]* respektive inter *[nj]* kaj *[jn]*.
 
 | | |
 |-|-|
@@ -233,14 +233,9 @@ Fremdaj vortoj povas eniri Lingvoon laŭ ilia origina ortografio.
 
 ## Akĉentoj
 
-| | | |
-|-|-|-|
-| *hodiaŭ* | **hodĭô** *[hoĵaŭ]* | *[hoĵe]* |
-| *oro* | *auro* *[aŭro]* | *[oro]* |
-
 ### Slava-Ĝermana
 
-| | | pole |
+| | | slave-ĝermane |
 |-|-|-|
 | *biciklo* | **bicyclo** *[biĉiklo]* | *[biciklo]* |
 | *-eco* | **-esso** *[eso]* | *[eco]* |
@@ -279,6 +274,12 @@ Fremdaj vortoj povas eniri Lingvoon laŭ ilia origina ortografio.
 
 ### Latinida
 
+| | | latinide |
+|-|-|-|
+| *oro* | **auro** *[aŭro]* | *[oro]* |
+| | | |
+| *hodiaŭ* | **hodĭô** *[hoĵaŭ]* | *[hoĵe]* |
+
 #### Itala
 
 | | | itale |
@@ -294,11 +295,10 @@ Fremdaj vortoj povas eniri Lingvoon laŭ ilia origina ortografio.
 | | | hispane |
 |-|-|-|
 | *filo* | **filĭo** *[fiḷo]* | *[hiĥo]* |
-| *folio* | **folĭo** *[foḷo]* | *[hoĥo]* |
 
 #### Franca
 
-| | | france-portugale |
+| | | france |
 |-|-|-|
 | *ĵus* | *jus* *[ĥus]* | *[ĵus]* |
 
@@ -312,9 +312,11 @@ La gramatiko de Lingvoo estas sama al tiu de Esperanto.
 |-|-|
 | *preskaŭ* | **presqŭe** *[preske]* |
 
-@Originaj adverbo
-| *baldaŭ* | **balde** *[balde]* | *[baldaŭ]* |
-| | | |
+Originaj adverboj finiĝas je **-ô** *[aŭ]*.
+
+| | |
+|-|-|
+| *baldaŭ* | **baldô** *[baldaŭ]* |
 
 Prepoziciaĵoj finiĝas je **-ał** *[aŭ]*.
 
@@ -329,6 +331,7 @@ Prepoziciaĵoj finiĝas je **-ał** *[aŭ]*.
 | *aĉeti* | **açcĕpti** = **açhti** *[aŝti]* |
 | *aĝo* | **eṯatĭco** *[edaĵo]* |
 | *ajlo* | **alĭo** *[aḷo]* |
+| *aero* | **æro** = **airo** *[ajro]* |
 | *akĉento* | **accentumo** *[akĉentumo]* |
 | *alia* | **altra** *[altra]* |
 | *apogi* | **appodĭi** = **appoĵi** *[apoĵi]* |
@@ -356,7 +359,7 @@ Prepoziciaĵoj finiĝas je **-ał** *[aŭ]*.
 | *mensogi* | **menţonĭi** *[mensonĵi]* |
 | *najlo* | **naglo** *[naglo]* |
 | *oro* | **aŭro** *[aŭro]* |
-| *pejzaĝo* | **paesatĭco** *[paezaĵo]* |
+| *pejzaĝo* | **pæsatĭco** = **paisaĵo** *[pajzaĵo]* |
 | *precipe* | **prïnçipe** *[prensipe]* |
 | *pregi* | **prægi** = **praigŭi** *[prajgi]* |
 | *preĝi* | **pregŭi** *[pregi]* |
@@ -377,6 +380,3 @@ Prepoziciaĵoj finiĝas je **-ał** *[aŭ]*.
 @kaŝi
 @povi
 @doni
-
-@aero/ajro
-@paesaĵo/paisaĵo
