@@ -151,7 +151,7 @@ Adjektivoj finiĝas je **-a**.
 | | |
 |-|-|
 | *bona* | **bona** *[bona]* |
-| *bonaj* | **bonai** *[bonaj]* |
+| *bonaj* | **bonas** *[bonas]* |
 
 ### Adverboj
 
@@ -160,6 +160,7 @@ Adverboj finiĝas je **-o**.
 | | |
 |-|-|
 | *multe* | **multo** *[multo]* |
+| *nur* | **solo** *[solo]* |
 
 Originaj adverboj finiĝas je **-ô** *[aŭ]*.
 
@@ -167,7 +168,7 @@ Originaj adverboj finiĝas je **-ô** *[aŭ]*.
 |-|-|
 | *hodiaŭ* | **hodiô** *[hodjaŭ]* |
 
-Celaj adverboj finiĝas je **-en**.
+@Celaj adverboj finiĝas je **-en**.
 
 | | |
 |-|-|

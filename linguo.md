@@ -186,6 +186,7 @@ Fremdaj vortoj povas eniri Lingvoon laŭ ilia origina ortografio.
 | *anstataŭ* | **anŝtattał** *[anŝtataŭ]* |
 | *colo* | **ţollo** = **tsollo** *[colo]* |
 | *fajna* | **fĩna** = **faina** *[fajna]* |
+| *fajro* | **fỹro** = **fairo** *[fajro]* |
 | *fiŝo* | **fisho** *[fiŝo]* |
 | *fraŭlo* | **frũlo** *[fraŭlo]* |
 | *jaro* | **yaro** *[jaro]* |
@@ -234,6 +235,7 @@ Fremdaj vortoj povas eniri Lingvoon laŭ ilia origina ortografio.
 
 | | | |
 |-|-|-|
+| *hodiaŭ* | **hodĭô** *[hoĵaŭ]* | *[hoĵe]* |
 | *oro* | *auro* *[aŭro]* | *[oro]* |
 
 ### Slava-Ĝermana
@@ -253,10 +255,8 @@ Fremdaj vortoj povas eniri Lingvoon laŭ ilia origina ortografio.
 | *kemio* | **chemio** *[kemio]* | *[ĥemio]* |
 | *mekaniko* | **mechanico** *[mekaniko]* | *[meĥaniko]* |
 | | | |
-| *baldaŭ* | **balde** *[balde]* | *[baldaŭ]* |
-| | | |
 | *diurno* | **dĭurno** *[ĵurno]* | *[diurno]* |
-| *hodiaŭ* | **hodĭe** *[hoĵe]* | *[hodiaŭ]* |
+| *hodiaŭ* | **hodĭô** *[hoĵaŭ]* | *[hodiaŭ]* |
 | | | |
 | *eksperto* | **ex̂perto** *[esperto]* | *[eksperto]* |
 | *dependi* | **dėpendi** *[dipendi]* | *[dependi]* |
@@ -312,6 +312,10 @@ La gramatiko de Lingvoo estas sama al tiu de Esperanto.
 |-|-|
 | *preskaŭ* | **presqŭe** *[preske]* |
 
+@Originaj adverbo
+| *baldaŭ* | **balde** *[balde]* | *[baldaŭ]* |
+| | | |
+
 Prepoziciaĵoj finiĝas je **-ał** *[aŭ]*.
 
 | | |
@@ -351,6 +355,7 @@ Prepoziciaĵoj finiĝas je **-ał** *[aŭ]*.
 | *mencii* | **mentii** *[mensii]* |
 | *mensogi* | **menţonĭi** *[mensonĵi]* |
 | *najlo* | **naglo** *[naglo]* |
+| *oro* | **aŭro** *[aŭro]* |
 | *pejzaĝo* | **paesatĭco** *[paezaĵo]* |
 | *precipe* | **prïnçipe** *[prensipe]* |
 | *pregi* | **prægi** = **praigŭi** *[prajgi]* |
@@ -372,3 +377,6 @@ Prepoziciaĵoj finiĝas je **-ał** *[aŭ]*.
 @kaŝi
 @povi
 @doni
+
+@aero/ajro
+@paesaĵo/paisaĵo
