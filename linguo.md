@@ -153,12 +153,13 @@ Fremdaj vortoj povas eniri Lingvoon laŭ ilia origina ortografio.
 | *etaĝo* | **s̈tatĭco** = **etaĵo** *[etaĵo]* |
 | *fromaĝo* | **fromatĭco** = **fromaĵo** *[fromaĵo]* |
 | *ĝojo* | **ĝoio** *[ĝojo]* |
-| *hieraŭ* | **hẽre** = **hiere** *[hiere]*
+| *hieraŭ* | **hẽrô** = **hierau** *[hieraŭ]*
 | *kanzono* | **canţono** = **cansono** *[kansono]* |
 | *kaŝi* | **cŏactĭi** = **caçhi** *[kaŝi]* |
 | *Marso* | **Marţo** = **Marso** *[marso]* |
 | *maŝino* | **maçhino** *[maŝino]* |
 | *mesaĝo* | **mïssaĵo** = **messaĵo** *[mesaĵo]* |
+| *piedo* | **pẽdo** = **piedo** *[piedo]* |
 | *rojo* | **rĩo** = **royo** *[rojo]* |
 | *sojlo* | **solĭo** *[soḷo]* |
 | *ŝanco* | **çhadĕntĭo** = **çhanço** *[ŝanso]* |
@@ -340,8 +341,8 @@ Prepoziciaĵoj finiĝas je **-ał** *[aŭ]*.
 | *ĉasi* | **çhaptĭi** = **çhassi** *[ŝasi]* |
 | *demandi* | **dėmandi** *[dimandi]* |
 | *demokratio* | **democratio** *[demokrasio]* |
-| *diri* | **diqŭi** *[diki]* |
 | *dolĉa* | **dulĉa** *[dulĉa]* |
+| *donaco* | **donatio** *[donasio]* |
 | *esperi* | **speri** *[speri]* |
 | *eksplodi* | **ex̂plodi** *[esplodi]* |
 | *esti* | **etĭi** *[esi]* |
@@ -381,6 +382,6 @@ Prepoziciaĵoj finiĝas je **-ał** *[aŭ]*.
 
 | Esperanto | Linguo |
 |-|-|
-| *doni* | **di** *[di]* |
+| *diri* | **diqŭi** *[diki]* |
 | *fari* | **faci** *[faĉi]* |
 | *stari* | **sti** *[sti]* |
