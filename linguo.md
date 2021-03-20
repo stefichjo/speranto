@@ -362,6 +362,7 @@ Prepoziciaĵoj finiĝas je **-ał** *[aŭ]*.
 | *najlo* | **naglo** *[naglo]* |
 | *oro* | **aŭro** *[aŭro]* |
 | *pejzaĝo* | **pæsatĭco** = **paisaĵo** *[pajzaĵo]* |
+| *povi* | **possi** *[posi]* |
 | *precipe* | **prïnçipe** *[prensipe]* |
 | *pregi* | **prægi** = **praigŭi** *[prajgi]* |
 | *preĝi* | **pregŭi** *[pregi]* |
@@ -383,6 +384,3 @@ Prepoziciaĵoj finiĝas je **-ał** *[aŭ]*.
 | *doni* | **di** *[di]* |
 | *fari* | **faci** *[faĉi]* |
 | *stari* | **sti** *[sti]* |
-
-@povi podi poti possi
-
