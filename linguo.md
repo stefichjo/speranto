@@ -1,11 +1,6 @@
 # Linguo
 
-> Se ni ech supposos, qŭe la fina linguo de la essontai generatioi essas ne Speranto, en chia occaso la vĩo al tiu elaborota linguo nepre devas conduqŭi tra Speranto.
-> [Se ni eĉ supozos, ke la fina lingŭo de la esontaj ĝenerasioj esas ne Speranto, en ĉia okazo la vojo al tiu elaborota lingŭo nepre devas konduki tra Speranto.]
-> ---
-> L. L. Zamenhof
-
-***Lingvoo*** estas dialekto de [***Lingveo***](lingue.md) kaj pruntas el [***Sprako***](sprak.md) kaj [***Jaziko***](jazyk.md). ***Lingvoo*** havas trajtojn de [***Esperanto***](https://eo.wikipedia.org/wiki/Esperanto).
+***Lingvoo*** estas dialekto de [***Lingveo***](lingue.md) kaj pruntas el [***Sprako***](sprak.md) kaj [***Jaziko***](jazyk.md). **Lingvoo** havas diversajn akĉentojn. ***Esperanto*** estas dialekto de ***Speranto***, t.e. la Slav-Ĝermana akĉento de ***Lingvoo***.
 
 ## Prononco
 
@@ -238,12 +233,12 @@ Fremdaj vortoj povas eniri Lingvoon laŭ ilia origina ortografio.
 ## Akĉentoj
 
 ### Slav-Ĝermana
-*(Esperanto)*
+*(Speranto)*
 
 | | | slave-ĝermane |
 |-|-|-|
 | *biciklo* | **bicyclo** *[biĉiklo]* | *[biciklo]* |
-| *-eco* | **-esso** *[eso]* | *[eco]* |
+| *-eco* | **-etĭo** = **-esso** *[eso]* | *[eco]* |
 | *generacio* | **generatio** *[ĝenerasio]* | *[generacio]* |
 | *indico* | **indiĉo** *[indiĉo]* | *[indico]* |
 | *jam* | **jam** *[ĥam]* | *[jam]* |
