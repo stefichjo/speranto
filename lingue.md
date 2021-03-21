@@ -1,6 +1,6 @@
 # Lingue
 
-***Lingveo*** pruntas el [***Lingvao***](lingua.md) kaj havas trajtojn de [***Okcidentalo***](https://eo.wikipedia.org/wiki/Okcidentalo), [***Adjuvilo***](https://eo.wikipedia.org/wiki/Adjuvilo) kaj [***Ido***](https://eo.wikipedia.org/wiki/Ido_(lingvo)). El ***Lingveo*** pruntas [***Lingvoo***](lingvoo.md).
+***Lingveo*** estas dialekto de [***Lingvao***](lingua.md). Dialekto de ***Lingveo*** estas [***Lingvoo***](lingvoo.md).
 
 ## Prononco
 

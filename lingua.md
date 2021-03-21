@@ -1,6 +1,6 @@
 # Lingua
 
-***Lingvao*** baziĝas sur la ***Latina***. ***Lingvao*** havas trajtojn de [***Interlingvao***](https://eo.wikipedia.org/wiki/Interlingvao) kaj [***Gloso***](https://eo.wikipedia.org/wiki/Gloso_(planlingvo)). El ***Lingvao*** pruntas [***Lingveo***](lingue.md).
+***Lingvao*** baziĝas sur la ***Latina***. El ***Lingvao*** pruntas [***Lingveo***](lingue.md).
 
 ## Prononco
 

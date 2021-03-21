@@ -5,7 +5,7 @@
 > ---
 > L. L. Zamenhof
 
-***Lingvoo*** pruntas el [***Lingveo***](lingue.md) kaj el [***Lingvao***](lingua.md), [***Sprako***](sprak.md) kaj [***Jaziko***](jazyk.md). ***Lingvoo*** havas trajtojn de [***Esperanto***](https://eo.wikipedia.org/wiki/Esperanto).
+***Lingvoo*** estas dialekto de [***Lingveo***](lingue.md) kaj pruntas el [***Sprako***](sprak.md) kaj [***Jaziko***](jazyk.md). ***Lingvoo*** havas trajtojn de [***Esperanto***](https://eo.wikipedia.org/wiki/Esperanto).
 
 ## Prononco
 
