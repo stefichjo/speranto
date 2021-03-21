@@ -162,18 +162,18 @@ Adverboj finiĝas je **-o**.
 | *multe* | **multo** *[multo]* |
 | *nur* | **solo** *[solo]* |
 
+Celaj adverboj finiĝas je **-u**.
+
+| | |
+|-|-|
+| *hejme* | **domo** |
+| *hejmen* | **domu** |
+
 Originaj adverboj finiĝas je **-ô** *[aŭ]*.
 
 | | |
 |-|-|
 | *hodiaŭ* | **hodiô** *[hodjaŭ]* |
-
-@Celaj adverboj finiĝas je **-en**.
-
-| | |
-|-|-|
-| *hejme* | **heime** |
-| *hejmen* | **heimen** |
 
 ### Numeraloj
 
@@ -187,7 +187,7 @@ Korelativaj radikoj kombineblas kun sufiksoj.
 |-|-|
 | *kiu* | **qui** *[ki]* = **quule** *[kŭule]* |
 | *kio* | **que** *[ke]* = **quaĵe** *[kŭaðje]* |
-| *kia*, *kiu* | **qua** *[kŭa]* = **quessa** *[kŭesa]*, **quula** *[kŭula]* |
+| *kia*, *kiu* | **qua** *[kŭa]* = **quetia** *[kŭeθja]*, **quula** *[kŭula]* |
 | *kie* | **quo** *[kŭo]* = **queio** *[kŭejo]* |
 | *kien* | **quu** *[kŭu]* |
 | | |
@@ -195,14 +195,14 @@ Korelativaj radikoj kombineblas kun sufiksoj.
 | | |
 | *kiel* | **quol** *[kŭol]* |
 | *kial* | **qual** *[kŭal]* |
-| *kiam* | **quam** *[kŭam]* = **quado** *[kŭado]* |
-| *kiom* | **quem** *[kŭem]* |
+| *kiam* | **quam** *[kŭam]* = **quado** *[kŭado]* → **quando** *[kŭando]* |
+| *kiom* | **quem** *[kŭem]* = **quento** *[kŭento]* → **quanto** *[kŭanto]* |
 
-----
+La negaj korelativoj havas la ŝajnprefikson **non-**.
 
-@l-, ...
-
-----
+| | |
+|-|-|
+| *nenio* | **noni** *[noni]* |
 
 ### Artikoloj
 
@@ -222,8 +222,8 @@ La difina artikolo estas **la**. **En poezio**, ĝi mallongiĝas al **l'-** anta
 
 | | |
 |-|-|
-| *li(n)*, *ŝi(n)*, *ĝi(n)*, *ri(n)*, *ili(n)* | **oli**, **ali**, **uli**, **eli**, **ili** |
-| *lia*, *ŝia*, *ĝia*, *ria*, *ilia* | **olia**, **alia**, **ulia**, **elia**, **ilia** |
+| *li(n)*, *ŝi(n)*, *ĝi(n)*, *ri(n)*, *ili(n)* | **olli**, **alli**, **elli**, **ulli**, **illi** |
+| *lia*, *ŝia*, *ĝia*, *ria*, *ilia* | **ollia**, **allia**, **ullia**, **ellia**, **illia** |
 | | |
 | *oni(n)* | **uni** |
 | *onia* | **unia** |

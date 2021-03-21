@@ -247,9 +247,9 @@ La korelativo **la** kaj la numeralo **un** uziĝas kiel artikoloj. **En poezio*
 
 | | |
 |-|-|
-| *li*, *ŝi*, *ĝi*, *ri*, *ili* | **ole**, **ale**, **ule**, **ele**, **ile** |
-| *lia*, *ŝia*, *ĝia*, *ria*, *ilia* | **ola**, **ala**, **ula**, **ela**, **ila** |
-| *lin/ŝin/rin/ĝin*, *ilin* | **le**, **les** |
+| *li*, *ŝi*, *ĝi*, *ri*, *ili* | **olle**, **alle**, **elle**, **ulle**, **ille** |
+| *lia*, *ŝia*, *ĝia*, *ria*, *ilia* | **olla**, **alla**, **ella**, **ulla**, **illa** |
+| *lin*, *ŝin*, *ĝin*, *rin*, *ilin* | **olli**, **alli**, **elli**, **ulli**, **illi** |
 | | |
 | *oni* | **uni** |
 | *onia* | **una** |
@@ -261,15 +261,12 @@ La korelativo **la** kaj la numeralo **un** uziĝas kiel artikoloj. **En poezio*
 | *mia*, *via* | **mea**, **tūa** = **tua** |
 | *min*, *vin* | **mi**, **ti** |
 | | |
-| *ni*, *vi* | **nos**, **vos** |
+| *ni(n)*, *vi(n)* | **nos**, **vos** |
 | *nia*, *via* | **nossa**, **vossa** |
-| *nin*, *vin* | **ni**, **vi** |
 | | |
 | *si* | **su** |
 | *sia* | **sūa** = **sua** |
 | *sin* | **si** |
-
-@te, se (trovarte, trovarse)
 
 ### Verboj
 
@@ -281,11 +278,13 @@ Infinitivoj finiĝas je -**re**.
 |-|-|
 | *havi* | **habere** |
 
-***En poezio***, la infinitivo kaj persona pronomo en akuzativo fariĝas kvazaŭ unu vorto.
+***En poezio***, la infinitivo kaj persona pronomo en akuzativo fariĝas kvazaŭ unu vorto. Tiam uziĝas **-les** por multenombro kaj **-li** por ununombro.
 
 | | | poezie |
 |-|-|-|
 | *sin movi*, *moviĝi* | **si movĕre** | **movĕrsi** |
+| | | |
+| *mi povas vidi ilin* | **me pote videre illi** | **potem viderles** |
 
 ***En poezio***, la infinitiva formo **essere** mallongiĝas al **esse**.
 
@@ -312,7 +311,7 @@ En la prezenco, la infinitiva finiĝo -**re** forestas.
 | | | |
 | *ni havas* | **nos habe** | **habemus** |
 | *vi havas* | **vos habe** | **habetis** |
-| *ili havas* | **ile habe** | **haben** |
+| *ili havas* | **ile habe** | **habent** |
 
 ***En poezio***, la infinitva formo **essere** mallongiĝas al **esse**.
 
@@ -324,7 +323,7 @@ En la prezenco, la infinitiva finiĝo -**re** forestas.
 | | | |
 | *ni estas* | **nos esse** | **essemus** → **sumus** |
 | *vi estas* | **vos esse** | **essetis** → **estis** |
-| *ili estas* | **ile esse** | **essen** → **sun** |
+| *ili estas* | **ile esse** | **essent** → **sunt** |
 
 #### Preterito
 
@@ -376,7 +375,7 @@ Por la imperativo, uziĝas la prezenca formo.
 
 | | | poezie |
 |-|-|-|
-| *vidita/vidata domo* | **domo vista** |
+| *vidita/vidata domo* | **domo videta** | **domo vista** |
 | *la domo estas vidita de amiko* | **la domo veni videta de amico** | **la domo venit vista de amico** |
 | *la domo estas vidata de amiko* | **la domo esse videta de amico** | **la domo est vista de amico** |
 
@@ -394,7 +393,7 @@ Por alativo, lokativo, ablativo uziĝas la prepozicioj **de**, **in**, **ad**.
 
 | | | poezie |
 |-|-|-|
-| *mi legas libron de amiko* | **me lege libro di de amico** | **legem libro di amico** |
+| *mi legas libron de amiko* | **me lege libro de amico** | **legem libro di amico** |
 | *mi venas per biciklo* | **me veni in bicyclo** | **venim en bicyclo** |
 | *mi parolas al amiko* | **me parola ad amico** | **parolam al amico** |
 | | | |

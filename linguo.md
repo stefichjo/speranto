@@ -65,7 +65,7 @@ La prononco de **lĭ** *[ḷ]* (= *[ʎ]*) kaj **nĭ** *[ṇ]* (= *[ɲ]*) povas v
 | | |
 |-|-|
 | *filo* | **filĭo** *[fiḷo]* |
-| *bano* | **banĭo** *[baṇo]* |
+| *bani* | **banĭi** *[baṇi]* |
 
 Voĉaj konsonantoj kun **ĭ** prononciĝas *[ĵ]*.
 
@@ -194,6 +194,7 @@ Fremdaj vortoj povas eniri Lingvoon laŭ ilia origina ortografio.
 | *fraŭlo* | **frũlo** *[fraŭlo]* |
 | *jaro* | **yaro** *[jaro]* |
 | *lando* | **lando** *[lando]* |
+| *lasi* | **lassi** *[lasi]* |
 | *ŝajni* | **shĩni** = **shaini** *[ŝajni]* |
 | *ŝlimo* | **ŝlĩmo** = **ŝlaimo** *[ŝlajmo]* |
 | *ŝnuro* | **ŝnuro** *[ŝnuro]* |
@@ -257,6 +258,9 @@ Fremdaj vortoj povas eniri Lingvoon laŭ ilia origina ortografio.
 | *diurno* | **dĭurno** *[ĵurno]* | *[diurno]* |
 | *hodiaŭ* | **hodĭô** *[hoĵaŭ]* | *[hodiaŭ]* |
 | | | |
+| *filo* | **filĭo** *[fiḷo]* | *[filo]* |
+| *bani* | **banĭi** *[baṇi]* | *[bani]* |
+| | | |
 | *eksperto* | **ex̂perto** *[esperto]* | *[eksperto]* |
 | *dependi* | **dėpendi** *[dipendi]* | *[dependi]* |
 | *reflekso* | **rėflexo** *[riflekso]* | *[reflekso]* |
@@ -281,6 +285,7 @@ Fremdaj vortoj povas eniri Lingvoon laŭ ilia origina ortografio.
 | | | latinide |
 |-|-|-|
 | *oro* | **auro** *[aŭro]* | *[oro]* |
+| *povra* | **pauvra** *[paŭvra]* | *[povra]* |
 | | | |
 | *hodiaŭ* | **hodĭô** *[hoĵaŭ]* | *[hoĵe]* |
 
@@ -330,13 +335,10 @@ Prepoziciaĵoj finiĝas je **-ał** *[aŭ]*.
 
 ## Vortaro
 
-| | Linguo | Esperanto |
-|-|-|-|
-| *aĉeti* | **açcĕpti** = **açhti** *[aŝti]* | **açceti** *[aĉeti]* |
-| *aĝo* | **eṯatĭco** *[edaĵo]* | **atĭco** *[aĝo]* |
-
-| Esperanto | Linguo |
+| | Linguo |
 |-|-|
+| *aĉeti* | **açcĕpti** = **açhti** *[aŝti]* |
+| *aĝo* | **eṯatĭco** *[edaĵo]* |
 | *ajlo* | **alĭo** *[aḷo]* |
 | *aero* | **æro** = **airo** *[ajro]* |
 | *akĉento* | **accentumo** *[akĉentumo]* |
@@ -358,6 +360,7 @@ Prepoziciaĵoj finiĝas je **-ał** *[aŭ]*.
 | *hajlo* | **haglo** *[haglo]* |
 | *hejmo* | **haimo** *[hajmo]* |
 | *implici* | **implicumi** *[implikumi]* |
+| *intenco* | **intentio** *[intensio]* |
 | *iri* | **vadi** *[vadi]* |
 | *justa* | **justuma** *[ĥustuma]* |
 | *kaĉo* | **kaŝo** *[kaŝo]* |
@@ -370,6 +373,7 @@ Prepoziciaĵoj finiĝas je **-ał** *[aŭ]*.
 | *oro* | **aŭro** *[aŭro]* |
 | *pejzaĝo* | **pæsatĭco** = **paisaĵo** *[pajzaĵo]* |
 | *pesi* | **pesumi** *[pezumi]* |
+| *pordo* | **porṯo** = **pordo** *[pordo]* |
 | *povi* | **possi** *[posi]* |
 | *precipe* | **prïnçipe** *[prensipe]* |
 | *pregi* | **prægi** = **praigŭi** *[prajgi]* |
@@ -389,9 +393,12 @@ Prepoziciaĵoj finiĝas je **-ał** *[aŭ]*.
 | *-uj-* | **-ĩ-** *[oj]* |
 | *vojaĝo* | **viatĭco** *[viaĵo]* |
 
-| Esperanto | Linguo |
+| | Linguo |
 |-|-|
 | *diri* | **diqŭi** *[diki]* |
 | *fari* | **faci** *[faĉi]* |
 | *stari* | **sti** *[sti]* |
 
+@laca (lass) [las]
+
+@nenio      n' æn io
