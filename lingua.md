@@ -408,6 +408,9 @@ Por alativo, lokativo, ablativo uziĝas la prepozicioj **de**, **in**, **ad**.
 
 ### Konjunkcioj
 
-| | |
-|-|-|
-| *ke* | **ce** *[ke]* |
+| | | (poezie) |
+|-|-|-|
+| *ke* | **ce** *[ke]* | - |
+| | | |
+| *mi scias, ke mia amiko laboras* | **me sape, ce mea amico labora** | **sapem mea amico laborare** |
+
