@@ -410,7 +410,9 @@ Por alativo, lokativo, ablativo uziĝas la prepozicioj **de**, **in**, **ad**.
 
 | | | (poezie) |
 |-|-|-|
-| *ke* | **ce** *[ke]* | - |
+| *kaj* | **et** | -**qŭĕ** *[-ku-e] |
+| *multaj kaj severaj* | **multas et graves** | **multas gravesque** *[multas graves-ku-e]* |
 | | | |
+| *ke* | **ce** *[ke]* | - |
 | *mi scias, ke mia amiko laboras* | **me sape, ce mea amico labora** | **sapem mea amico laborare** |
 
