@@ -146,6 +146,15 @@ Substantivo estas adjektivigebla pere de la ŝajnfinaĵo **-ale**. Se la ŝajnra
 | *velo* | **velo** |
 | *velara* | **velare** |
 
+***En poezio***, la fina **-e** de la adjektivaj sufiksoj **-ile**, **-ale** kaj **-are** eliziiĝas.
+
+| | | (poezie) |
+|-|-|-|
+| *bestiala* | **bestiale** | **bestial'** |
+| | |
+| *stela* | **stellare** | **stellar'** |
+
+
 Adjektivo antaŭ substantivo havas subjektivan konotacion, dum adjektivo post la substantivo havas objektivan konotacion.
 
 | | |
@@ -179,7 +188,7 @@ Original adverboj konservas sian ŝajnfinaĵon.
 
 ### Numeraloj
 
-La ŝajnsufikso por ordinaloj estas **-essĭma** *[esi-ma]*. ***En Poezio***, ordinaloj havas apartajn formojn.
+La ŝajnsufikso por ordinaloj estas **-essĭma** *[esi-ma]*. ***En poezio***, ordinaloj havas apartajn formojn.
 
 | | numeralo | ordinalo | ordinalo (poezie) |
 |-|-|-|-|
@@ -221,7 +230,7 @@ Krom la korelativaj ŝajnprefiksoj **qu-** kaj **l-** estas ankaŭ **omn-**, **u
 | *ĉie*, *ĉiel*, *ĉial*, *ĉiam*, *ĉiom* | **omno** | | *ie*, *iel*, *ial*, *iam*, *iom* | **uno** | | *nenie*, *neniel*, *nenial*, *neniam*, *neniom* | **no** |
 | *ĉien* | **omnu** | | *ien* | **unu** | | *nenien* | **nu** |
 
-**En poezio**, la korelativoj **qua** kaj **quo** povas havi pli specifajn formojn.
+***En poezio***, la korelativoj **qua** kaj **quo** povas havi pli specifajn formojn.
 
 | | | poezie |
 |-|-|-|
@@ -236,7 +245,7 @@ Krom la korelativaj ŝajnprefiksoj **qu-** kaj **l-** estas ankaŭ **omn-**, **u
 
 ### Artikoloj
 
-La korelativo **la** kaj la numeralo **un** uziĝas kiel artikoloj. **En poezio**, ili povas mallongiĝi al **l'** kaj **un'**.
+La korelativo **la** kaj la numeralo **un** uziĝas kiel artikoloj. ***En poezio***, ili povas mallongiĝi al **l'** kaj **un'**.
 
 | | | poezie |
 |-|-|-|
@@ -415,4 +424,3 @@ Por alativo, lokativo, ablativo uziĝas la prepozicioj **de**, **in**, **ad**.
 | | | |
 | *ke* | **ce** *[ke]* | - |
 | *mi scias, ke mia amiko laboras* | **me sape, ce mea amico labora** | **sapem mea amico laborare** |
-
