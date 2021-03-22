@@ -12,7 +12,7 @@ En tiu ĉi fikcia akĉenta, dialekta kaj lingva kontinuo, L. L. Zamenhof bazis *
 | | |
 |-|-|
 | ***Lingvao*** | [***Interlingvao***](https://eo.wikipedia.org/wiki/Interlingvao), [***Gloso***](https://eo.wikipedia.org/wiki/Gloso_(planlingvo)) |
-| ***Lingveo*** | [***Okcidentalo***](https://eo.wikipedia.org/wiki/Okcidentalo), [***Adjuvilo***](https://eo.wikipedia.org/wiki/Adjuvilo) [***Ido***](https://eo.wikipedia.org/wiki/Ido_(lingvo)) |
+| ***Lingveo*** | [***Okcidentalo***](https://eo.wikipedia.org/wiki/Okcidentalo), [***Adjuvilo***](https://eo.wikipedia.org/wiki/Adjuvilo), [***Ido***](https://eo.wikipedia.org/wiki/Ido_(lingvo)) |
 | ***Lingvoo*** | [***Esperanto***](https://eo.wikipedia.org/wiki/Esperanto) |
 
 | ***Esperanto*** |
@@ -37,10 +37,10 @@ En tiu ĉi fikcia akĉenta, dialekta kaj lingva kontinuo, L. L. Zamenhof bazis *
 
 | ***Lingvao*** |
 |-|
-| **Sï nos et suppone, qŭe la lingua finale de las futuras generationes essan no Sperante, in omna occasione la via ad li elaborota lingua infalliblemente debe conducĕre tra Sperante.** |
-| *[Se nos et suppone, ke la lingu-a finale de las futuras generationes essan no Sperante, in omna okkasione la via ad li elaborota lingu-a infalliblemente debe konduke-re tra Sperante.]* |
+| **Si nos et suppone, ce la lingua finale de las futuras generationes esse no Sperante, in omna occasione la via ad li elaborenda lingua infallibilemente debe conducĕre tra Sperante.** |
+| *[Si nos et suppone, ke la lingu-a finale de las futuras generationes esse no Sperante, in omna okkasione la via ad li elaborenda lingu-a infallibilemente debe konduke-re tra Sperante.]* |
 
 | ***Lingvao (poezie)*** |
 |-|
-| **Sï nos et suppone, qŭe la lingua finale de las futuras generationes essan no Sperante, in omna occasione la via ad li elaborota lingua infalliblemente debe conducĕre tra Sperante.** |
-| *[Se nos et suppone, ke la lingu-a finale de las futuras generationes essan no Sperante, in omna okkasione la via ad li elaborota lingu-a infalliblemente debe konduke-re tra Sperante.]* |
+| **Si et supponemus, ce la lingua finale de las futuras generationes est no Sperante, in omna occasione la via ad li elaborenda lingua infallibilemente debet conducĕre tra Sperante.** |
+| *[Si et supponemus, ke la lingu-a finale de las futuras generationes est no Sperante, in omna okkasione la via ad li elaborenda lingu-a infallibilemente debet konduke-re tra Sperante.]* |

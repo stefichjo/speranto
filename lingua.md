@@ -410,4 +410,4 @@ Por alativo, lokativo, ablativo uziĝas la prepozicioj **de**, **in**, **ad**.
 
 | | |
 |-|-|
-| *ke* | **qŭe** *[ke]* |
+| *ke* | **ce** *[ke]* |
