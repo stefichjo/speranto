@@ -260,7 +260,7 @@ La volitiva kaj kondicionala vokaloj estas **e** kaj **u**.
 | | |
 |-|-|
 | *vidu!* | **viden!** |
-| *ke vi vidu* | **qŭe vi viden** |
+| *ke vi vidu* | **que vi viden** |
 | *se vi vidus* | **se vi vidun** |
 
 La radiko de (latin(id)a) verbo estas tiu de la unua persono en ununombro.
