@@ -137,12 +137,11 @@ Radikofina Lingvaa **-b** kaj **-p** ofte fariĝas **-v** *[v]*.
 
 ### Substantivoj
 
-Substantivoj finiĝas je **-e**. ***En poezio***, la substantiva finaĵo estas ellasebla. Anstataŭ la multenombra finaĵo **-s** tiam uziĝas **-i**.
+Substantivoj finiĝas je **-e**. ***En poezio***, la substantiva finaĵo ellasiĝas.
 
 | | | poezie |
 |-|-|-|
-| *domo* | **dome** | **dom'** |
-| *domoj* | **domes** | **domi** |
+| *domo* | **dome** | **domĕ** *[dom]* |
 
 ### Adjektivoj
 
@@ -185,8 +184,8 @@ Korelativaj radikoj kombineblas kun sufiksoj.
 
 | | |
 |-|-|
-| *kiu* | **qui** *[ki]* = **quule** *[kŭule]* |
-| *kio* | **que** *[ke]* = **quaĵe** *[kŭaðje]* |
+| *kiu* | **qui** *[kŭi]* = **quule** *[kŭule]* |
+| *kio* | **que** *[kŭe]* = **quaĵe** *[kŭaðje]* |
 | *kia*, *kiu* | **qua** *[kŭa]* = **quetia** *[kŭeθja]*, **quula** *[kŭula]* |
 | *kie* | **quo** *[kŭo]* = **queio** *[kŭejo]* |
 | *kien* | **quu** *[kŭu]* |
@@ -259,9 +258,9 @@ La volitiva kaj kondicionala vokaloj estas **e** kaj **u**.
  
 | | |
 |-|-|
-| *vidu!* | **viden!** |
-| *ke vi vidu* | **que vi viden** |
-| *se vi vidus* | **se vi vidun** |
+| *vidu!* | **viden!** *[viden]* |
+| *ke vi vidu* | **que vi viden** *[ke vi viden]* |
+| *se vi vidus* | **sï vi vidun** *[se vi vidun]* |
 
 La radiko de (latin(id)a) verbo estas tiu de la unua persono en ununombro.
 
@@ -273,7 +272,7 @@ La radiko de (latin(id)a) verbo estas tiu de la unua persono en ununombro.
 
 ### Prepozicioj
 
-Prepoziciaĵoj finiĝas je **-aŭ**.
+Prepoziciaĵoj estas poezia formo de substantivo en unu-nombro kun la prepozicio **al**.
 
 | | |
 |-|-|
@@ -286,5 +285,11 @@ La akuzativa prepozicio **a** uziĝas ***tra bruo*** (kaj antaŭ nomoj kaj kiam 
 | | (tra bruo) |
 |-|-|
 | *mi vidas Karlan* | **mi vidan a Carla** |
+| | |
 | *vin mi vidas* | **a tī mi vidan** |
 
+### Konjunkcioj
+
+| | |
+|-|-|
+| *ke* | **qŭe** = **ke** *[ke]* |
