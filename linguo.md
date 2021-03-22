@@ -15,6 +15,9 @@
 | | |
 | *nacio* | **natio** *[nasio]* |
 
+@grasjo spasjo
+@Speranto
+
 Kiam radikofina **-ti** estas prononcata *[ti]*, ĝi skribiĝas **ty**. (Radikofinaa **-stĭ** ĉiam prononciĝas *[st]*.)
 
 | | |
@@ -344,6 +347,7 @@ Prepoziciaĵoj finiĝas je **-ał** *[aŭ]*.
 | *demokratio* | **democratio** *[demokrasio]* |
 | *dolĉa* | **dulĉa** *[dulĉa]* |
 | *donaco* | **donatio** *[donasio]* |
+| *eĉ* | **et** *[et]* |
 | *esperi* | **speri** *[speri]* |
 | *eksplodi* | **ex̂plodi** *[esplodi]* |
 | *esti* | **etĭi** *[esi]* |
