@@ -251,9 +251,9 @@ La korelativo **la** kaj la numeralo **un** uziĝas kiel artikoloj. **En poezio*
 | *lia*, *ŝia*, *ĝia*, *ria*, *ilia* | **olla**, **alla**, **ella**, **ulla**, **illa** |
 | *lin*, *ŝin*, *ĝin*, *rin*, *ilin* | **olli**, **alli**, **elli**, **ulli**, **illi** |
 | | |
-| *oni* | **uni** |
+| *oni* | **une** |
 | *onia* | **una** |
-| *onin* | **une** |
+| *onin* | **uni** |
 
 | | |
 |-|-|
@@ -410,4 +410,4 @@ Por alativo, lokativo, ablativo uziĝas la prepozicioj **de**, **in**, **ad**.
 
 | | |
 |-|-|
-| *ke* | **qŭe** *[kue']* |
+| *ke* | **qŭe** *[ke]* |

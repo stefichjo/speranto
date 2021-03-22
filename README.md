@@ -32,5 +32,15 @@ En tiu ĉi fikcia akĉenta, dialekta kaj lingva kontinuo, L. L. Zamenhof bazis *
 
 | ***Lingveo*** |
 |-|
-| **Sï ni et supposon, qŭe la fina lingue de la essontas generaties essan no Sperante, ïn omna occase la vie al li ellavorota lingue infalliblo devan conducu tra Sperante.** |
-| *[Se ni et supozon, ke la fina lingŭe de la esontas dzeneraθjes esan no Sperante, en omna okaze la vie al li ellavorota lingŭe infaliblo devan konduku tra Sperante.]* |
+| **Sï ni et supposon, qŭe la fina lingue de las essontas generaties essan no Sperante, ïn omna occase la vie al ti ellavorota lingue infallivlo devan conducu tra Sperante.** |
+| *[Se ni et supozon, ke la fina lingŭe de las esontas dzeneraθjes esan no Sperante, en omna okaze la vie al ti ellavorota lingŭe infalivlo devan konduku tra Sperante.]* |
+
+| ***Lingvao*** |
+|-|
+| **Sï nos et suppone, qŭe la lingua finale de las futuras generationes essan no Sperante, in omna occasione la via ad li elaborota lingua infalliblemente debe conducĕre tra Sperante.** |
+| *[Se nos et suppone, ke la lingu-a finale de las futuras generationes essan no Sperante, in omna okkasione la via ad li elaborota lingu-a infalliblemente debe konduke-re tra Sperante.]* |
+
+| ***Lingvao (poezie)*** |
+|-|
+| **Sï nos et suppone, qŭe la lingua finale de las futuras generationes essan no Sperante, in omna occasione la via ad li elaborota lingua infalliblemente debe conducĕre tra Sperante.** |
+| *[Se nos et suppone, ke la lingu-a finale de las futuras generationes essan no Sperante, in omna okkasione la via ad li elaborota lingu-a infalliblemente debe konduke-re tra Sperante.]* |
