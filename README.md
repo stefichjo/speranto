@@ -22,11 +22,12 @@ En tiu ĉi fikcia akĉenta, dialekta kaj lingva kontinuo, L. L. Zamenhof bazis *
 
 | ***Speranto*** |
 |-|
+| **Sï ni et supposos, qŭe la fina linguo de la essontai generatioi essas ne Speranto, ïn chia occaso la vĩo al tiu ellavorota linguo nepre devas conduqŭi tra Speranto.** |
 | *[Se ni et supozos, ke la fina lingvo de la esontaj generacioj esas ne Speranto, en ĉia okazo la vojo al tiu ellavorota lingvo nepre devas konduki tra Speranto.]* |
 
 | ***Lingvoo*** |
 |-|
-| **Sï ni et supposos, qŭe la fina linguo de la essontai generatioi essas ne Speranto, ïn chia occaso la vĩo al tiu ellavorota linguo nepre devas conduqŭi tra Speranto.** |
+| = |
 | *[Se ni et supozos, ke la fina lingŭo de la esontaj ĝenerasioj esas ne Speranto, en ĉia okazo la vojo al tiu ellavorota lingŭo nepre devas konduki tra Speranto.]* |
 
 | ***Lingveo*** |
