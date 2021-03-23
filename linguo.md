@@ -144,7 +144,7 @@ Fremdaj vortoj povas eniri Lingvoon laŭ ilia origina ortografio.
 | *ĉambro* | **çhamĕro** = **çhambro** *[ŝambro]* |
 | *ĉe* | **çhä** = **çhe** *[ŝe]* |
 | *ĉemizo* | **çhämisĭo** = **çhemiso** *[ŝemizo]* |
-| *-eco* | **-etĭo** = **-esso** *[eso]* |
+| *-eco* | **-etĭo** = **-esjo** *[esjo]* |
 | *etaĝo* | **s̈tatĭco** = **etaĵo** *[etaĵo]* |
 | *fromaĝo* | **fromatĭco** = **fromaĵo** *[fromaĵo]* |
 | *ĝojo* | **ĝoio** *[ĝojo]* |
@@ -239,7 +239,6 @@ Fremdaj vortoj povas eniri Lingvoon laŭ ilia origina ortografio.
 | | | slave-ĝermane |
 |-|-|-|
 | *biciklo* | **bicyclo** *[biĉiklo]* | *[biciklo]* |
-| *-eco* | **-etĭo** = **-esso** *[eso]* | *[eco]* |
 | *indico* | **indiĉo** *[indiĉo]* | *[indico]* |
 | *jam* | **jam** *[ĥam]* | *[jam]* |
 | *koncerto* | **concerto** *[konĉerto]* | *[koncerto]* |
@@ -259,23 +258,24 @@ Post konsonanto, ne-akcentata radikofina **-i** *[j]* eliziiĝas.
 | | | slave-ĝermane |
 |-|-|-|
 | *besto* | **bestio** *[bestjo]* | *[besto]* |
+| *-eco* | **-etĭo** *[esjo]* | *[eco]* |
 | *spaco* | **spatio** *[spasjo]* | *[spaco]* |
 
-Analogie, **ĭ** ne asimiliĝas.
+Analogie, **ĭ** ne asimiliĝas, sed **di** *[ĵ]* prononciĝas *[di]*.
 
 | | | slave-ĝermane |
 |-|-|-|
 | *bani* | **banĭi** *[baṇi]* | *[bani]* |
 | *filo* | **filĭo** *[fiḷo]* | *[filo]* |
-| *hodiaŭ* | **hodĭô** *[hoĵaŭ]* | *[hodiaŭ]* |
 | *propra* | **proprĭa** *[propja]* | *[propra]* |
 | | | |
+| *hodiaŭ* | **hodĭô** *[hoĵaŭ]* | *[hodiaŭ]* |
 | *diurno* | **dĭurno** *[ĵurno]* | *[diurno]* |
 
 Greka **ch** *[k]* pronciĝas *[ĥ]*.
 
 | | | slave-ĝermane |
-| | | |
+|-|-|-|
 | *eĥo* | **echo** *[eko]* | *[eĥo]* |
 | *kemio* | **chemio** *[kemio]* | *[ĥemio]* |
 | *mekaniko* | **mechanico** *[mekaniko]* | *[meĥaniko]* |
@@ -374,11 +374,12 @@ Prepoziciaĵoj finiĝas je **-ał** *[aŭ]*.
 | *demokratio* | **democratio** *[demokrasio]* |
 | *dolĉa* | **dulĉa** *[dulĉa]* |
 | *donaco* | **donatio** *[donasio]* |
+| *-ec-* | **-etĭ-** *[esj]* |
 | *eĉ* | **et** *[et]* |
 | *esperi* | **speri** *[speri]* |
 | *-ej-* | **-erĭ-** *[ej]* |
 | *eksplodi* | **ex̂plodi** *[esplodi]* |
-| *esti* | **etĭi** *[esi]* |
+| *esti* | **essi** *[esi]* |
 | *familio* | **familĭo** *[famiḷo]* |
 | *fojno* | **fẽno** *[fieno]* |
 | *folio* | **folĭo** *[foḷo]* |
@@ -433,13 +434,27 @@ Prepoziciaĵoj finiĝas je **-ał** *[aŭ]*.
 @farti=stati/esti
 
 @sti = stadi/stati (farti)
-@
 
 esse/sta
 
-Lingua: Tu sta bono. (stati/farti+stari)
+Lingua: Tu sta bono.
+Lingua: La tabŭla sta in la camĕra.
+Lingua: Mea urbe esse grande.
 
-Lingue: Tī stan bono. (stati/farti+stari)
+Lingue: Tī stan bono.
+Lingue: La tavle stan en la camĕre.
+Lingue: Mia urbe essan granda.
 
-Linguo: Vi stas bone. (farti)
-Linguo: La tavlo estas en la çhamĕro. (stari)
+Linguo: Vi (e)stas bone.
+Linguo: La tavlo estas en la çhamĕro.
+Linguo: Mia urbo essas granda.
+
+----
+
+Lingua -> Lingue -> Linguo
+
+esse  -> essu  -> esti, essi
+      -> statu -> esti, farti
+      -> stadu -> esti, ekzisti
+stare -> staru -> esti, stari
+

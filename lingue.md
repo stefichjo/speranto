@@ -196,11 +196,15 @@ Korelativaj radikoj kombineblas kun sufiksoj.
 | *kiam* | **quam** *[kŭam]* = **quado** *[kŭado]* → **quando** *[kŭando]* |
 | *kiom* | **quem** *[kŭem]* = **quento** *[kŭento]* → **quanto** *[kŭanto]* |
 
-La negaj korelativoj havas la ŝajnprefikson **non-**.
+La negaj korelativoj havas la ŝajnprefikson **non-**. La indikaj korelativoj havas la ŝajnprefikson **t-**.
 
 | | |
 |-|-|
-| *nenio* | **noni** *[noni]* |
+| *neniu* | **noni** *[noni]* |
+| *tiu* | **ti** *[ti]* |
+| | |
+| *ĉiu* | **omni** *[omni]* |
+| *iu* | **uni** *[uni]* |
 
 ### Artikoloj
 
