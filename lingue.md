@@ -277,9 +277,9 @@ La radiko de (latin(id)a) verbo estas tiu de la unua persono en ununombro.
 
 | | | (poezie) |
 |-|-|-|
-| *(ĉe-)estas* | **stadan** *[stadan]* | **stan** *[stan]* |
-| *statas* | **statan** *[statan]* | **stan** *[stan]* |
-| *staras* | **staran** *[staran]* | **stan** *[stan]* |
+| *(ĉe-)estas* | **stadan** | **stan** |
+| *statas* | **statan** | **stan** |
+| *staras* | **staran** | **stan** |
 
 ### Prepozicioj
 
