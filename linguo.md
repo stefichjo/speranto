@@ -351,12 +351,15 @@ Prepoziciaĵoj finiĝas je **-ał** *[aŭ]*.
 
 ## Vortaro
 
+### Latina Vortaro
+
 | | Linguo |
 |-|-|
 | *akĉento* | **accentumo** *[akĉentumo]* |
 | *alia* | **altra** *[altra]* |
 | *demandi* | **dėmandi** *[dimandi]* |
 | *demokratio* | **democratio** *[demokrasio]* |
+| *dependi* | **dėpendi** *[dipendi]* |
 | *dika* | **grossa** *[grosa]* |
 | *diri* | **diqŭi** *[diki]* |
 | *dolĉa* | **dulĉa** *[dulĉa]* |
@@ -393,7 +396,7 @@ Prepoziciaĵoj finiĝas je **-ał** *[aŭ]*.
 | *tabulo* | **tavulo** *[tavulo]* |
 | *vojaĝo* | **viatĭco** *[viaĵo]* |
 
-### Fremdaj Vortoj
+### Latinida Vortaro
 
 | | Linguo |
 |-|-|
@@ -401,24 +404,28 @@ Prepoziciaĵoj finiĝas je **-ał** *[aŭ]*.
 | *aero* | **æro** = **airo** *[ajro]* |
 | *aĝo* | **eṯatĭco** *[edaĵo]* |
 | *ajlo* | **alĭo** *[aḷo]* |
-| *anstataŭ* | **anŝtattał** *[anŝtataŭ]* |
 | *apogi* | **appodĭi** = **appoĵi** *[apoĵi]* |
-| *-ar-* | **-aṛ-** = **-ai-** *[aj]* |
 | *ĉasi* | **çhaptĭi** = **çhassi** *[ŝasi]* |
 | *-ec-* | **-etĭ-** *[esj]* |
-| *-ej-* | **-erĭ-** *[ej]* |
 | *familio* | **familĭo** *[famiḷo]* |
 | *fojno* | **fẽno** *[fieno]* |
 | *folio* | **folĭo** *[foḷo]* |
+| *kojno* | **cunĭo** *[kuṇo]* |
+| *mensogi* | **menţonĭi** *[mensonĵi]* |
+| *pejzaĝo* | **pæsatĭco** = **paisaĵo** *[pajzaĵo]* |
+| *precipe* | **prïnçipe** *[prensipe]* |
+| *ŝlimo* | **ŝlaimo** *[ŝlajmo]* |
+| *ŝtono* | **ŝtaino** *[ŝtajno]* |
+
+### Ĝermana Vortaro
+
+| | Linguo |
+|-|-|
+| *anstataŭ* | **anŝtattał** *[anŝtataŭ]* |
 | *forgesi* | **forgŭetti**/**fergŭessi** *[forgeti]*/*[fergesi]* |
 | *hajlo* | **haglo** *[haglo]* |
 | *hejmo* | **haimo** *[hajmo]* |
-| *kaĉo* | **kaŝo** *[kaŝo]* |
-| *kojno* | **cunĭo** *[kuṇo]* |
-| *mensogi* | **menţonĭi** *[mensonĵi]* |
 | *najlo* | **naglo** *[naglo]* |
-| *pejzaĝo* | **pæsatĭco** = **paisaĵo** *[pajzaĵo]* |
-| *precipe* | **prïnçipe** *[prensipe]* |
 | *pregi* | **prægi** = **praigŭi** *[prajgi]* |
 | *radio* *(energio)* | **radĭo** = **raĵo** *[raĵo]* |
 | *stadio* *(fazo)* | **stadĭo** *[staĵo]* |
@@ -426,7 +433,11 @@ Prepoziciaĵoj finiĝas je **-ał** *[aŭ]*.
 | *ŝanĝo* | **çhanĵo** *[ŝanĵo]* |
 | *ŝargi* | **çharĭcumi** *[ŝargumi]* |
 | *ŝarĝi* | **çharĭcumi** *[ŝargi]* |
-| *ŝlimo* | **ŝlaimo** *[ŝlajmo]* |
-| *ŝtono* | **ŝtaino** *[ŝtajno]* |
 | *tablo* | **tavlo** *[tavlo]* |
-| *-uj-* | **-urĭ-** *[uj]* |
+
+### Slava Vortaro
+
+| | Linguo |
+|-|-|
+| *-ar-* | **-aṛ-** = **-ai-** *[aj]* |
+| *kaĉo* | **kaŝo** *[kaŝo]* |
