@@ -31,7 +31,7 @@ En tiu ĉi fikcia akĉenta, dialekta kaj lingva kontinuo, L. L. Zamenhof bazis *
 
 | ***Lingveo*** |
 |-|
-| **Sï ni et supposon, qŭe la fina lingue de las essontas generaties essan no Sperante, ïn omna occase la vie al ti ellavorota lingue infallivlo devan conducu tra Sperante.** |
+| **Sï ni et supposon, c̄e la fina lingue de las essontas generaties essan no Sperante, ïn omna occase la vie al ti ellavorota lingue infallivlo devan conducu tra Sperante.** |
 | *[Se ni et supozon, ke la fina lingŭe de las esontas dzeneraθjes esan no Sperante, en omna okaze la vie al ti ellavorota lingŭe infalivlo devan konduku tra Sperante.]* |
 
 | ***Lingvao*** |

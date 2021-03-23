@@ -295,4 +295,4 @@ La akuzativa prepozicio **a** uziĝas ***tra bruo*** (kaj antaŭ nomoj kaj kiam 
 
 | | |
 |-|-|
-| *ke* | **qŭe** = **ke** *[ke]* |
+| *ke* | **c̄e** = **ke** *[ke]* |

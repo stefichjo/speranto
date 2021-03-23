@@ -341,7 +341,7 @@ Originaj adverboj finiĝas je **-ô** *[aŭ]*.
 
 ***En poezio***, la **i** en korelativaj ŝajnradikoj prononciĝas *[j]*.
 
-| | | |
+| | | (poezie) |
 |-|-|-|
 | *kiel* | **kiel** *[kiel]* | *[kjel]* |
 
@@ -350,6 +350,15 @@ Por eviti konfuzon kun la pronomo **si** *[si]*, uziĝas la pronomo **vi** *[vi]
 | | |
 |-|-|
 | *vi* | **vi** *[vi]* |
+
+***En poezio***, la verboj **stadi**, **stati** kaj **stari** mallongiĝas al **sti** *[sti]*.
+
+| | | (poezie) |
+|-|-|-|
+| *(ĉe-)esti* | **stadi** *[stadi]* | **sti** *[sti]* |
+| *stati* | **stati** *[stati]* | **sti** *[sti]* |
+| *stari* | **stari** *[stari]* | **sti** *[sti]* |
+
 
 Prepoziciaĵoj finiĝas je **-ał** *[aŭ]*.
 
@@ -376,11 +385,13 @@ Prepoziciaĵoj finiĝas je **-ał** *[aŭ]*.
 | *donaco* | **donatio** *[donasio]* |
 | *-ec-* | **-etĭ-** *[esj]* |
 | *eĉ* | **et** *[et]* |
-| *esperi* | **speri** *[speri]* |
 | *-ej-* | **-erĭ-** *[ej]* |
 | *eksplodi* | **ex̂plodi** *[esplodi]* |
-| *esti* | **essi** *[esi]* |
+| *esperi* | **speri** *[speri]* |
+| *esti* *(ekzisti)* | **essi** *[esi]* |
+| *esti* *(ĉe-)* | **stadi** *[stadi]* |
 | *familio* | **familĭo** *[famiḷo]* |
+| *farti* | **stati** *[stati]* |
 | *fojno* | **fẽno** *[fieno]* |
 | *folio* | **folĭo** *[foḷo]* |
 | *forgesi* | **forgŭetti**/**fergŭessi** *[forgeti]*/*[fergesi]* |
@@ -406,12 +417,15 @@ Prepoziciaĵoj finiĝas je **-ał** *[aŭ]*.
 | *precipe* | **prïnçipe** *[prensipe]* |
 | *pregi* | **prægi** = **praigŭi** *[prajgi]* |
 | *preĝi* | **pregŭi** *[pregi]* |
+| *radio* | **radio** *[radjo]* |
 | *saŭco* | **salso** *[salso]* |
 | *savi* | **salvi** *[salvi]* |
 | *scii* | **savi** *[savi]* |
 | *senco* | **senso** *[senso]* |
 | *senso* | **sentumo** *[sentumo]* |
 | *skribi* | **scrivi** *[skrivi]* |
+| *stadio* *(fazo)* | **stadĭo** *[staĵo]* |
+| *stadio* *(mezurunuo)* | **stadio** *[stadjo]* |
 | *stranga* | **ex̂tranĭa** *[estraṇa]* |
 | *ŝanĝo* | **çhanĵo** *[ŝanĵo]* |
 | *ŝargi* | **çharĭcumi** *[ŝargumi]* |
@@ -426,35 +440,9 @@ Prepoziciaĵoj finiĝas je **-ał** *[aŭ]*.
 |-|-|
 | *diri* | **diqŭi** *[diki]* |
 | *fari* | **faci** *[faĉi]* |
-| *stari* | **sti** *[sti]* |
 
 ----
-
 @speri esperi
-@farti=stati/esti
-
-@sti = stadi/stati (farti)
-
-esse/sta
-
-Lingua: Tu sta bono.
-Lingua: La tabŭla sta in la camĕra.
-Lingua: Mea urbe esse grande.
-
-Lingue: Tī stan bono.
-Lingue: La tavle stan en la camĕre.
-Lingue: Mia urbe essan granda.
-
-Linguo: Vi (e)stas bone.
-Linguo: La tavlo estas en la çhamĕro.
-Linguo: Mia urbo essas granda.
-
 ----
-
-Lingua -> Lingue -> Linguo
-
-esse  -> essu  -> esti, essi
-      -> statu -> esti, farti
-      -> stadu -> esti, ekzisti
-stare -> staru -> esti, stari
-
+@apri/abri/avri/ovri
+----
