@@ -359,7 +359,6 @@ Por eviti konfuzon kun la pronomo **si** *[si]*, uziĝas la pronomo **vi** *[vi]
 | *stati* | **stati** *[stati]* | **sti** *[sti]* |
 | *stari* | **stari** *[stari]* | **sti** *[sti]* |
 
-
 Prepoziciaĵoj finiĝas je **-ał** *[aŭ]*.
 
 | | |
@@ -381,6 +380,8 @@ Prepoziciaĵoj finiĝas je **-ał** *[aŭ]*.
 | *ĉasi* | **çhaptĭi** = **çhassi** *[ŝasi]* |
 | *demandi* | **dėmandi** *[dimandi]* |
 | *demokratio* | **democratio** *[demokrasio]* |
+| *dika* | **grossa** *[grosa]* |
+| *diri* | **diqŭi** *[diki]* |
 | *dolĉa* | **dulĉa** *[dulĉa]* |
 | *donaco* | **donatio** *[donasio]* |
 | *-ec-* | **-etĭ-** *[esj]* |
@@ -391,7 +392,9 @@ Prepoziciaĵoj finiĝas je **-ał** *[aŭ]*.
 | *esti* *(ekzisti)* | **essi** *[esi]* |
 | *esti* *(ĉe-)* | **stadi** *[stadi]* |
 | *familio* | **familĭo** *[famiḷo]* |
+| *fari* | **faci** *[faĉi]* |
 | *farti* | **stati** *[stati]* |
+| *fermi* | **malavri** *[malavri]* |
 | *fojno* | **fẽno** *[fieno]* |
 | *folio* | **folĭo** *[foḷo]* |
 | *forgesi* | **forgŭetti**/**fergŭessi** *[forgeti]*/*[fergesi]* |
@@ -435,14 +438,3 @@ Prepoziciaĵoj finiĝas je **-ał** *[aŭ]*.
 | *tablo* | **tavlo** *[tavlo]* |
 | *-uj-* | **-urĭ-** *[uj]* |
 | *vojaĝo* | **viatĭco** *[viaĵo]* |
-
-| | Linguo |
-|-|-|
-| *diri* | **diqŭi** *[diki]* |
-| *fari* | **faci** *[faĉi]* |
-
-----
-@speri esperi
-----
-@apri/abri/avri/ovri
-----
