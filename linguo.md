@@ -369,66 +369,74 @@ Prepoziciaĵoj finiĝas je **-ał** *[aŭ]*.
 
 | | Linguo |
 |-|-|
-| *aĉeti* | **açcĕpti** = **açhti** *[aŝti]* |
-| *aĝo* | **eṯatĭco** *[edaĵo]* |
-| *ajlo* | **alĭo** *[aḷo]* |
-| *aero* | **æro** = **airo** *[ajro]* |
 | *akĉento* | **accentumo** *[akĉentumo]* |
 | *alia* | **altra** *[altra]* |
-| *apogi* | **appodĭi** = **appoĵi** *[apoĵi]* |
-| *-ar-* | **-aṛ-** = **-ai-** *[aj]* |
-| *ĉasi* | **çhaptĭi** = **çhassi** *[ŝasi]* |
 | *demandi* | **dėmandi** *[dimandi]* |
 | *demokratio* | **democratio** *[demokrasio]* |
 | *dika* | **grossa** *[grosa]* |
 | *diri* | **diqŭi** *[diki]* |
 | *dolĉa* | **dulĉa** *[dulĉa]* |
 | *donaco* | **donatio** *[donasio]* |
-| *-ec-* | **-etĭ-** *[esj]* |
 | *eĉ* | **et** *[et]* |
-| *-ej-* | **-erĭ-** *[ej]* |
 | *eksplodi* | **ex̂plodi** *[esplodi]* |
 | *esperi* | **speri** *[speri]* |
 | *esti* *(ekzisti)* | **essi** *[esi]* |
 | *esti* *(ĉe-)* | **stadi** *[stadi]* |
-| *familio* | **familĭo** *[famiḷo]* |
 | *fari* | **faci** *[faĉi]* |
 | *farti* | **stati** *[stati]* |
 | *fermi* | **malavri** *[malavri]* |
-| *fojno* | **fẽno** *[fieno]* |
-| *folio* | **folĭo** *[foḷo]* |
-| *forgesi* | **forgŭetti**/**fergŭessi** *[forgeti]*/*[fergesi]* |
 | *garantio* | **garantio** *[garansio]* |
-| *hajlo* | **haglo** *[haglo]* |
-| *hejmo* | **haimo** *[hajmo]* |
 | *implici* | **implicumi** *[implikumi]* |
 | *intenco* | **intentio** *[intensio]* |
 | *iri* | **vadi** *[vadi]* |
 | *justa* | **justuma** *[ĥustuma]* |
-| *kaĉo* | **kaŝo** *[kaŝo]* |
-| *kojno* | **cunĭo** *[kuṇo]* |
 | *labori* | **lavori** *[lavori]* |
 | *leciono* | **lectiero**/**lectiono** *[leksiero]*/*[leksiono]* |
 | *mencii* | **mentīi** *[mensii]* |
-| *mensogi* | **menţonĭi** *[mensonĵi]* |
-| *najlo* | **naglo** *[naglo]* |
 | *oro* | **aŭro** *[aŭro]* |
-| *pejzaĝo* | **pæsatĭco** = **paisaĵo** *[pajzaĵo]* |
 | *pesi* | **pesumi** *[pezumi]* |
 | *pordo* | **porṯo** = **pordo** *[pordo]* |
 | *povi* | **possi** *[posi]* |
-| *precipe* | **prïnçipe** *[prensipe]* |
-| *pregi* | **prægi** = **praigŭi** *[prajgi]* |
 | *preĝi* | **pregŭi** *[pregi]* |
-| *radio* | **radio** *[radjo]* |
+| *radio* *(signalo)* | **radio** *[radjo]* |
 | *saŭco* | **salso** *[salso]* |
 | *savi* | **salvi** *[salvi]* |
 | *scii* | **savi** *[savi]* |
 | *senco* | **senso** *[senso]* |
 | *senso* | **sentumo** *[sentumo]* |
 | *skribi* | **scrivi** *[skrivi]* |
-| *stadio* *(fazo)* | **stadĭo** *[staĵo]* |
 | *stadio* *(mezurunuo)* | **stadio** *[stadjo]* |
+| *tabulo* | **tavulo** *[tavulo]* |
+| *vojaĝo* | **viatĭco** *[viaĵo]* |
+
+### Fremdaj Vortoj
+
+| | Linguo |
+|-|-|
+| *aĉeti* | **açcĕpti** = **açhti** *[aŝti]* |
+| *aĝo* | **eṯatĭco** *[edaĵo]* |
+| *ajlo* | **alĭo** *[aḷo]* |
+| *aero* | **æro** = **airo** *[ajro]* |
+| *apogi* | **appodĭi** = **appoĵi** *[apoĵi]* |
+| *-ar-* | **-aṛ-** = **-ai-** *[aj]* |
+| *ĉasi* | **çhaptĭi** = **çhassi** *[ŝasi]* |
+| *-ec-* | **-etĭ-** *[esj]* |
+| *-ej-* | **-erĭ-** *[ej]* |
+| *familio* | **familĭo** *[famiḷo]* |
+| *fojno* | **fẽno** *[fieno]* |
+| *folio* | **folĭo** *[foḷo]* |
+| *forgesi* | **forgŭetti**/**fergŭessi** *[forgeti]*/*[fergesi]* |
+| *hajlo* | **haglo** *[haglo]* |
+| *hejmo* | **haimo** *[hajmo]* |
+| *kaĉo* | **kaŝo** *[kaŝo]* |
+| *kojno* | **cunĭo** *[kuṇo]* |
+| *mensogi* | **menţonĭi** *[mensonĵi]* |
+| *najlo* | **naglo** *[naglo]* |
+| *pejzaĝo* | **pæsatĭco** = **paisaĵo** *[pajzaĵo]* |
+| *precipe* | **prïnçipe** *[prensipe]* |
+| *pregi* | **prægi** = **praigŭi** *[prajgi]* |
+| *radio* *(energio)* | **radĭo** = **raĵo** *[raĵo]* |
+| *stadio* *(fazo)* | **stadĭo** *[staĵo]* |
 | *stranga* | **ex̂tranĭa** *[estraṇa]* |
 | *ŝanĝo* | **çhanĵo** *[ŝanĵo]* |
 | *ŝargi* | **çharĭcumi** *[ŝargumi]* |
@@ -437,4 +445,3 @@ Prepoziciaĵoj finiĝas je **-ał** *[aŭ]*.
 | *ŝtono* | **ŝtaino** *[ŝtajno]* |
 | *tablo* | **tavlo** *[tavlo]* |
 | *-uj-* | **-urĭ-** *[uj]* |
-| *vojaĝo* | **viatĭco** *[viaĵo]* |
