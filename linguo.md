@@ -20,7 +20,7 @@ Tamen, la ŝajnsufikso **-ī-** (t.e. la mallongiĝinta ***Lingvaa*** ŝajnfina�
 |-|-|
 | *nacio* | **natīo** *[nasio]* |
 
-La Lingvaa ŝajnsufikso **-atĭc-** fariĝas **aĵ** *[aĵ]*.
+La ***Lingvaa*** ŝajnsufikso **-atĭc-** fariĝas **aĵ** *[aĵ]*.
 
 | | |
 |-|-|
@@ -176,22 +176,25 @@ Fremdaj vortoj povas eniri Lingvoon laŭ ilia origina ortografio.
 
 #### Ĝermanaj Vortoj
 
-##### Germanaj Vortoj
-
 | | |
 |-|-|
 | *ajn* | **æn** = **ain** *[ajn]* |
-| *anstataŭ* | **anŝtattał** *[anŝtataŭ]* |
 | *colo* | **ţollo** = **tsollo** *[colo]* |
+| *drinki* | **drinki** *[drinki]* |
 | *fajna* | **fĩna** = **faina** *[fajna]* |
 | *fajro* | **fỹro** = **fairo** *[fajro]* |
 | *fiŝo* | **fisho** *[fiŝo]* |
 | *fraŭlo* | **frũlo** *[fraŭlo]* |
+| *hobio* | **hobbyo** *[hobio]* |
 | *jaro* | **yaro** *[jaro]* |
+| *jes* | **yes** *[jes]* |
+| *kajto* | **kĩto** = **kaito** *[kajto]* |
 | *lando* | **lando** *[lando]* |
 | *lasi* | **lassi** *[lasi]* |
+| *partio* | **partyo** *[partio]* |
 | *ŝajni* | **shĩni** = **shaini** *[ŝajni]* |
-| *ŝlimo* | **ŝlĩmo** = **ŝlaimo** *[ŝlajmo]* |
+| *ŝati* | **shatti** *[ŝati]* |
+| *ŝipo* | **shippo** *[ŝipo]* |
 | *ŝnuro* | **ŝnuro** *[ŝnuro]* |
 | *ŝpruci* | **ŝpruţi** *[ŝpruci]* |
 | *ŝraŭbo* | **shraubo** *[ŝraŭbo]* |
@@ -199,21 +202,10 @@ Fremdaj vortoj povas eniri Lingvoon laŭ ilia origina ortografio.
 | *ŝtato* | **ŝtato** *[ŝtato]* |
 | *ŝuo* | **shuo** *[ŝuo]* |
 | *tago* | **tago** *[tago]* |
-| *trinki* | **trinki** *[trinki]* |
-| *varma* | **warma** *[varma]* |
-| *vorto* | **worto** *[vorto]* |
-
-##### Anglaj Vortoj
-
-| | |
-|-|-|
-| *drinki* | **drinki** *[drinki]* |
-| *hobio* | **hobbyo** *[hobio]* |
-| *jes* | **yes** *[jes]* |
-| *kajto* | **kĩto** = **kaito** *[kajto]* |
-| *ŝipo* | **shippo** *[ŝipo]* |
 | *tajdo* | **tĩdo** = **taido** *[tajdo]* |
-| *partio* | **partyo** *[partio]* |
+| *trinki* | **trinki** *[trinki]* |
+| *varma* | **warma** *[ŭarma]* |
+| *vorto* | **worto** *[ŭorto]* |
 
 #### Slavaj Vortoj
 
@@ -224,7 +216,7 @@ Fremdaj vortoj povas eniri Lingvoon laŭ ilia origina ortografio.
 | *ĉu* | **chu** *[ĉu]* |
 | *ĉiu* | **chiu** *[ĉiu]* |
 | *ekrano* | **ekrano** *[ekrano]* |
-| *kolbaso* | **kolbaso** *[kolbaso]* |
+| *kolbaso* | **kolbas̄o** *[kolbaso]* |
 | *koŝmaro* | **koŝmaro** *[koŝmaro]* |
 | *krom* | **krom** *[krom]* |
 | *nepre* | **nepre** *[nepre]* |
@@ -351,14 +343,6 @@ Por eviti konfuzon kun la pronomo **si** *[si]*, uziĝas la pronomo **vi** *[vi]
 |-|-|
 | *vi* | **vi** *[vi]* |
 
-***En poezio***, la verboj **stadi**, **stati** kaj **stari** mallongiĝas al **sti** *[sti]*.
-
-| | | (poezie) |
-|-|-|-|
-| *(ĉe-)esti* | **stadi** *[stadi]* | **sti** *[sti]* |
-| *stati* | **stati** *[stati]* | **sti** *[sti]* |
-| *stari* | **stari** *[stari]* | **sti** *[sti]* |
-
 Prepoziciaĵoj finiĝas je **-ał** *[aŭ]*.
 
 | | |
@@ -414,9 +398,10 @@ Prepoziciaĵoj finiĝas je **-ał** *[aŭ]*.
 | | Linguo |
 |-|-|
 | *aĉeti* | **açcĕpti** = **açhti** *[aŝti]* |
+| *aero* | **æro** = **airo** *[ajro]* |
 | *aĝo* | **eṯatĭco** *[edaĵo]* |
 | *ajlo* | **alĭo** *[aḷo]* |
-| *aero* | **æro** = **airo** *[ajro]* |
+| *anstataŭ* | **anŝtattał** *[anŝtataŭ]* |
 | *apogi* | **appodĭi** = **appoĵi** *[apoĵi]* |
 | *-ar-* | **-aṛ-** = **-ai-** *[aj]* |
 | *ĉasi* | **çhaptĭi** = **çhassi** *[ŝasi]* |

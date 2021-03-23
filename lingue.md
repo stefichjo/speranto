@@ -273,6 +273,14 @@ La radiko de (latin(id)a) verbo estas tiu de la unua persono en ununombro.
 | *mi kondukas* | **mi conducan** |
 | *mi plaĉas* | **mi plaçan** |
 
+***En poezio***, la verboj **stadu**, **statu** kaj **staru** perdas siajn ŝajnfinaĵojn **-ad-**, **-at-** kaj **-ra-**.
+
+| | | (poezie) |
+|-|-|-|
+| *(ĉe-)estas* | **stadan** *[stadan]* | **stan** *[stan]* |
+| *statas* | **statan** *[statan]* | **stan** *[stan]* |
+| *staras* | **staran** *[staran]* | **stan** *[stan]* |
+
 ### Prepozicioj
 
 Prepoziciaĵoj estas poezia formo de substantivo en unu-nombro kun la prepozicio **al**.
