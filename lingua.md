@@ -1,6 +1,6 @@
 # Lingua
 
-***Lingvao*** baziĝas sur la ***Latina***. El ***Lingvao*** pruntas [***Lingveo***](lingue.md).
+***Lingvao*** baziĝas sur la ***Latina***. Dialekto de ***Lingvao*** estas [***Lingveo***](lingue.md).
 
 ## Prononco
 
@@ -61,7 +61,6 @@ En diftongoj, **i** kaj **u** ne estas akcentataj.
 
 | | |
 |-|-|
-| *trajno* | **traĭno** = **traino** *[trai-no]* |
 | *majo* | **maĭo** = **maio** *[mai-o]* |
 | | |
 | *familio* | **familĭa** = **familia** *[famili-a]* |

@@ -1,6 +1,6 @@
 # Lingue
 
-***Lingveo*** estas dialekto de [***Lingvao***](lingua.md). Dialekto de ***Lingveo*** estas [***Lingvoo***](lingvoo.md).
+***Lingveo*** estas dialekto de [***Lingvao***](lingua.md). Dialekto de ***Lingveo*** estas [***Lingvoo***](linguo.md).
 
 ## Prononco
 
@@ -23,8 +23,7 @@ La Lingvaaj ŝajnsufiksoj **-ĭn-** kaj **-ĭt** eliziiĝas.
 
 ### t, d
 
-**t** estas prononcata *[θ]* antaŭ radikofina **-i**. La Lingvaa ŝajnfinaĵo **-ione** *[ione]* mallongiĝas al **-ie** *[je]*.
-
+**t** estas prononcata *[θ]* antaŭ radikofina **-i**. La Lingvaa ŝajnfinaĵo **-ione** *[ione]* mallongiĝas al la ŝajnsufikso **-i** *[j]*.
 | | |
 |-|-|
 | *graco* | **gratie** *[graθje]* |

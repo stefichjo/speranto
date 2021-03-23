@@ -6,25 +6,19 @@
 
 ### t, d
 
-**t** estas prononcata *[s]* antaŭ radikofina **-i**. Kiam radikofina **-ti** ne estas akcentata, la **i** eliziiĝas. La Lingvaa ŝajnfinaĵo **-ione** *[ione]* mallongiĝas al **-io** *[io]*.
+**t** estas prononcata *[s]* antaŭ radikofina **-i** *[j]*. En radikofina **-sti** *[stj]*, la -**t**- restas prononcata *[t]*. 
 
 | | |
 |-|-|
-| *graco* | **gratĭo** *[graso]* |
-| *spaco* | **spatĭo** *[spaso]* |
+| *spaco* | **spatio** *[spasjo]* |
 | | |
-| *nacio* | **natio** *[nasio]* |
+| *besto* | **bestio** *[bestjo]* |
 
-@grasjo spasjo
-@Speranto
-
-Kiam radikofina **-ti** estas prononcata *[ti]*, ĝi skribiĝas **ty**. (Radikofinaa **-stĭ** ĉiam prononciĝas *[st]*.)
+Tamen, la ŝajnsufikso **-ī-** (t.e. la mallongiĝinta ***Lingvaa*** ŝajnfinaĵo **-ione**) prononciĝas *[i]* kaj eĉ portas la akcenton.
 
 | | |
 |-|-|
-| *partio* | **partyo** *[partio]* |
-| | |
-| *besto* | **bestĭo** *[besto]* |
+| *nacio* | **natīo** *[nasio]* |
 
 La Lingvaa ŝajnsufikso **-atĭc-** fariĝas **aĵ** *[aĵ]*.
 
@@ -35,7 +29,6 @@ La Lingvaa ŝajnsufikso **-atĭc-** fariĝas **aĵ** *[aĵ]*.
 ### c, g
 
 **c** kaj **g** estas prononcataj *[ĉ]* kaj *[ĝ]* antaŭ **-e** kaj **-i**. Kiam **c** kaj **g** estas prononcataj *[k]* kaj *[g]* antaŭ **-e** kaj **-i**, ili skribiĝas **qŭ** kaj **gŭ**.
-
 
 | | |
 |-|-|
@@ -50,20 +43,24 @@ La Lingvaa ŝajnsufikso **-atĭc-** fariĝas **aĵ** *[aĵ]*.
 
 ### i, u
 
-Post konsonanto, neakcentata radikofina **-i** eliziiĝas.
+Inter vokaloj, **i** prononciĝas *[j]*, same kiel en ***Lingveo***.
 
 | | |
 |-|-|
-| *propra* | **proprĭa** *[propra]* |
-| | |
 | *majo* | **maio** *[majo]* |
 
 La prononco de **lĭ** *[ḷ]* (= *[ʎ]*) kaj **nĭ** *[ṇ]* (= *[ɲ]*) povas varii inter *[lj]* kaj *[jl]* respektive inter *[nj]* kaj *[jn]*.
 
 | | |
 |-|-|
-| *filo* | **filĭo** *[fiḷo]* |
-| *bani* | **banĭi** *[baṇi]* |
+| *bani* | **banĭi** *[bajni]* ⟷ *[baṇi]* ⟷ *[banji]* |
+| *filo* | **filĭo** *[fijlo]* ⟷ *[fiḷo]* ⟷ *[filjo]* |
+
+Simile, la prononco de **rĭ** *[j]* povas varii al *[rj]*.
+
+| | |
+|-|-|
+| *propra* | **proprĭa** *[propja]* ⟷ *[proprja]* |
 
 Voĉaj konsonantoj kun **ĭ** prononciĝas *[ĵ]*.
 
@@ -110,7 +107,7 @@ Anstataŭ *[sĉ]*, prononciĝas *[ŝ]*.
 | | |
 |-|-|
 | *ascendi* | **ascendi** *[aŝendi]* |
-| *scienco* | **scientĭo** *[ŝienso]* |
+| *scienco* | **scientio** *[ŝiensjo]* |
 
 ### ex̂-, dė-, rė-
 
@@ -211,17 +208,18 @@ Fremdaj vortoj povas eniri Lingvoon laŭ ilia origina ortografio.
 | | |
 |-|-|
 | *drinki* | **drinki** *[drinki]* |
-| *hobio* | **hobbyo** = **hobbio** *[hobio]* |
+| *hobio* | **hobbyo** *[hobio]* |
 | *jes* | **yes** *[jes]* |
 | *kajto* | **kĩto** = **kaito** *[kajto]* |
 | *ŝipo* | **shippo** *[ŝipo]* |
 | *tajdo* | **tĩdo** = **taido** *[tajdo]* |
-| *partio* | **partyo** = **partio** *[partio]* |
+| *partio* | **partyo** *[partio]* |
 
 #### Slavaj Vortoj
 
 | | |
 |-|-|
+| *-ar-* | **ar** |
 | *caro* | **ţaro** = **tsaro** *[caro]* |
 | *ĉu* | **chu** *[ĉu]* |
 | *ĉiu* | **chiu** *[ĉiu]* |
@@ -242,22 +240,11 @@ Fremdaj vortoj povas eniri Lingvoon laŭ ilia origina ortografio.
 |-|-|-|
 | *biciklo* | **bicyclo** *[biĉiklo]* | *[biciklo]* |
 | *-eco* | **-etĭo** = **-esso** *[eso]* | *[eco]* |
-| *generacio* | **generatio** *[ĝenerasio]* | *[generacio]* |
 | *indico* | **indiĉo** *[indiĉo]* | *[indico]* |
 | *jam* | **jam** *[ĥam]* | *[jam]* |
 | *koncerto* | **concerto** *[konĉerto]* | *[koncerto]* |
 | *paco* | **paĉo** *[paĉo]*  | *[paco]* |
 | *ŝanco* | **çhanço** *[ŝanso]* | *[ŝanco]* |
-| | | |
-| *eĥo* | **echo** *[eko]* | *[eĥo]* |
-| *kemio* | **chemio** *[kemio]* | *[ĥemio]* |
-| *mekaniko* | **mechanico** *[mekaniko]* | *[meĥaniko]* |
-| | | |
-| *diurno* | **dĭurno** *[ĵurno]* | *[diurno]* |
-| *hodiaŭ* | **hodĭô** *[hoĵaŭ]* | *[hodiaŭ]* |
-| | | |
-| *filo* | **filĭo** *[fiḷo]* | *[filo]* |
-| *bani* | **banĭi** *[baṇi]* | *[bani]* |
 | | | |
 | *eksperto* | **ex̂perto** *[esperto]* | *[eksperto]* |
 | *dependi* | **dėpendi** *[dipendi]* | *[dependi]* |
@@ -267,6 +254,32 @@ Fremdaj vortoj povas eniri Lingvoon laŭ ilia origina ortografio.
 | *kvar* | **quar** *[kŭar]* | *[kvar]* |
 | *lingvo* | **linguo** *[lingŭo]* | *[lingvo]* |
 
+Post konsonanto, ne-akcentata radikofina **-i** *[j]* eliziiĝas.
+
+| | | slave-ĝermane |
+|-|-|-|
+| *besto* | **bestio** *[bestjo]* | *[besto]* |
+| *spaco* | **spatio** *[spasjo]* | *[spaco]* |
+
+Analogie, **ĭ** ne asimiliĝas.
+
+| | | slave-ĝermane |
+|-|-|-|
+| *bani* | **banĭi** *[baṇi]* | *[bani]* |
+| *filo* | **filĭo** *[fiḷo]* | *[filo]* |
+| *hodiaŭ* | **hodĭô** *[hoĵaŭ]* | *[hodiaŭ]* |
+| *propra* | **proprĭa** *[propja]* | *[propra]* |
+| | | |
+| *diurno* | **dĭurno** *[ĵurno]* | *[diurno]* |
+
+Greka **ch** *[k]* pronciĝas *[ĥ]*.
+
+| | | slave-ĝermane |
+| | | |
+| *eĥo* | **echo** *[eko]* | *[eĥo]* |
+| *kemio* | **chemio** *[kemio]* | *[ĥemio]* |
+| *mekaniko* | **mechanico** *[mekaniko]* | *[meĥaniko]* |
+
 #### Angla
 
 | | | angle |
@@ -275,6 +288,7 @@ Fremdaj vortoj povas eniri Lingvoon laŭ ilia origina ortografio.
 | *ĉarma* | **çharma** *[ŝarma]* | *[ĉarma]* |
 | *ĝusta* | **justa** *[ĥusta]* | *[ĝusta]* |
 | *mesaĝo* | **mïssaĵo** *[mesaĵo]* | *[mesaĝo]* |
+| *nacio* | **natio** *[nasjo]* | *[naŝo]* |
 | *riĉa* | **riçha** *[riŝa]* | *[riĉa]* |
 | *serĉi* | **çïrçhi** *[serŝi]* | *[serĉi]* |
 
@@ -325,6 +339,18 @@ Originaj adverboj finiĝas je **-ô** *[aŭ]*.
 |-|-|
 | *baldaŭ* | **baldô** *[baldaŭ]* |
 
+***En poezio***, la **i** en korelativaj ŝajnradikoj prononciĝas *[j]*.
+
+| | | |
+|-|-|-|
+| *kiel* | **kiel** *[kiel]* | *[kjel]* |
+
+Por eviti konfuzon kun la pronomo **si** *[si]*, uziĝas la pronomo **vi** *[vi]* anstataŭ **tī** *[si]*.
+
+| | |
+|-|-|
+| *vi* | **vi** *[vi]* |
+
 Prepoziciaĵoj finiĝas je **-ał** *[aŭ]*.
 
 | | |
@@ -342,6 +368,7 @@ Prepoziciaĵoj finiĝas je **-ał** *[aŭ]*.
 | *akĉento* | **accentumo** *[akĉentumo]* |
 | *alia* | **altra** *[altra]* |
 | *apogi* | **appodĭi** = **appoĵi** *[apoĵi]* |
+| *-ar-* | **-aṛ-** = **-ai-** *[aj]* |
 | *ĉasi* | **çhaptĭi** = **çhassi** *[ŝasi]* |
 | *demandi* | **dėmandi** *[dimandi]* |
 | *demokratio* | **democratio** *[demokrasio]* |
@@ -349,6 +376,7 @@ Prepoziciaĵoj finiĝas je **-ał** *[aŭ]*.
 | *donaco* | **donatio** *[donasio]* |
 | *eĉ* | **et** *[et]* |
 | *esperi* | **speri** *[speri]* |
+| *-ej-* | **-erĭ-** *[ej]* |
 | *eksplodi* | **ex̂plodi** *[esplodi]* |
 | *esti* | **etĭi** *[esi]* |
 | *familio* | **familĭo** *[famiḷo]* |
@@ -366,7 +394,7 @@ Prepoziciaĵoj finiĝas je **-ał** *[aŭ]*.
 | *kojno* | **cunĭo** *[kuṇo]* |
 | *labori* | **lavori** *[lavori]* |
 | *leciono* | **lectiero**/**lectiono** *[leksiero]*/*[leksiono]* |
-| *mencii* | **mentii** *[mensii]* |
+| *mencii* | **mentīi** *[mensii]* |
 | *mensogi* | **menţonĭi** *[mensonĵi]* |
 | *najlo* | **naglo** *[naglo]* |
 | *oro* | **aŭro** *[aŭro]* |
@@ -389,7 +417,8 @@ Prepoziciaĵoj finiĝas je **-ał** *[aŭ]*.
 | *ŝarĝi* | **çharĭcumi** *[ŝargi]* |
 | *ŝlimo* | **ŝlaimo** *[ŝlajmo]* |
 | *ŝtono* | **ŝtaino** *[ŝtajno]* |
-| *-uj-* | **-ĩ-** *[oj]* |
+| *tablo* | **tavlo** *[tavlo]* |
+| *-uj-* | **-urĭ-** *[uj]* |
 | *vojaĝo* | **viatĭco** *[viaĵo]* |
 
 | | Linguo |
@@ -398,6 +427,19 @@ Prepoziciaĵoj finiĝas je **-ał** *[aŭ]*.
 | *fari* | **faci** *[faĉi]* |
 | *stari* | **sti** *[sti]* |
 
-@laca (lass) [las]
+----
 
-@nenio      n' æn io
+@speri esperi
+@farti=stati/esti
+
+@sti = stadi/stati (farti)
+@
+
+esse/sta
+
+Lingua: Tu sta bono. (stati/farti+stari)
+
+Lingue: Tī stan bono. (stati/farti+stari)
+
+Linguo: Vi stas bone. (farti)
+Linguo: La tavlo estas en la çhamĕro. (stari)

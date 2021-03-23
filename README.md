@@ -41,5 +41,5 @@ En tiu ĉi fikcia akĉenta, dialekta kaj lingva kontinuo, L. L. Zamenhof bazis *
 
 | ***Lingvao (poezie)*** |
 |-|
-| **Si et supponemus la lingua finale de las futuras generationes esse no Sperante, in omna occasione la via ad li elaborenda lingua infallibilmente debet conducĕre tra Sperante.** |
+| **Si et supponeremus la lingua finale de las futuras generationes esse no Sperante, in omna occasione la via ad li elaborenda lingua infallibilmente debet conducĕre tra Sperante.** |
 | *[Si et supponemus la lingu-a finale de las futuras generationes esse no Sperante, in omna okkasione la via ad li elaborenda lingu-a infallibilmente debet konduke-re tra Sperante.]* |
