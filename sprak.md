@@ -1,6 +1,6 @@
 # Sprak
 
-***Sprak*** baziĝas sur la ***Praĝermana*** kaj la [***Internaciaj Ortografioj***](ghermanaj/README.md) de ***Ĝermanaj Lingvoj***. El ***Sprak*** pruntas [***Piĝino***](pighino.md). Sen tiu ĉi kunteksto, ***Sprak*** estas (propono de) ***Folksprak***.
+***Sprak*** baziĝas sur la ***Praĝermana*** kaj la [***Internaciaj Ortografioj***](ghermanaj/README.md) de ***Ĝermanaj Lingvoj***. El ***Sprak*** pruntas [***Lingvoo***](linguo.md). Sen tiu ĉi kunteksto, ***Sprak*** estas (propono de) ***Folksprak***.
 
 ## Alfabeto
 
@@ -9,7 +9,7 @@
 Estas longaj kaj mallongaj vokaloj. **æ** [ɛ:] estas ĉiam longa. (Konserviĝas longaj, monoftongaj, malhelaj vokaloj.)
 
 | | |
-|:-|:-|
+|-|-|
 | **a** | [a] / [a:] |
 | **e** | [ɛ] / [e:] |
 | **i** | [ɪ] / [i:] |
@@ -22,7 +22,7 @@ Estas longaj kaj mallongaj vokaloj. **æ** [ɛ:] estas ĉiam longa. (Konserviĝa
 Antaŭ pluraj konsonantoj, la vokalo estas mallonga. La vokalo antaŭ **v** estas ĉiam mallonga.
 
 | | Sprak |
-|:-|:-|
+|-|-|
 | *sonĝo* | **drom** [dro:m] |
 | *sep* | **seven** ['sɛvən] |
 | *spirito* | **gæst** [gɛ:st] |
@@ -30,14 +30,14 @@ Antaŭ pluraj konsonantoj, la vokalo estas mallonga. La vokalo antaŭ **v** esta
 Kiam la radika vokalo de ne-radikaj vortoj aŭ prepozicio estas mallonga, ĝia fina konsonanto ne duobliĝas.
 
 | | Sprak |
-|:-|:-|
+|-|-|
 | *viro* | **mann** [man] |
 | *oni* | **man** [man] |
 
 *Ursprak/Nysprak:* ***Praĝermana*** **ai** [aɪ̯] fariĝas **æ** [ɛ:] en ***Sprak*** respektive **ō** [o:] en ***Nysprak***. Tra bruo, **æ** [ɛ:] restas **ai** [aɪ̯] *(jes)* el ***Ursprak***, dum **næ** [nɛ:] fariĝas **nō** *(ne)* el ***Nysprak***. Simile, **æn** [ɛ:n] restas **ain** [aɪ̯n] *(unu)* el ***Ursprak***, dum **twæ** [twɛ:] fariĝas **twō** [two:] *(du)* el ***Nysprak***.
 
 | | Ursprak | Sprak | Nysprak |
-|:-|:-|:-|:-|
+|-|-|-|-|
 | *iras* | **gai** [gaɪ̯] | **gæ** [gɛ:] | **gō** [go:] |
 | *jes* | **ai** [aɪ̯] | **æ** [ɛ:] | **ō** [o:] |
 | *ne* | **nai** [naɪ̯] | **næ** [nɛ:] | **nō** [no:] |
@@ -49,14 +49,14 @@ Kiam la radika vokalo de ne-radikaj vortoj aŭ prepozicio estas mallonga, ĝia f
 *Ursprak/Nysprak:* La formoj **maier** ['maɪ̯ər] kaj **maiest** ['maɪ̯əst] havis ŝvaon.
 
 | | Ursprak | Sprak | Nysprak |
-|:-|:-|:-|:-|
+|-|-|-|-|
 | *pli multe* | **maier** ['maɪ̯ər] | **mær** [mɛ:r] | **mōr** [mo:r] |
 | *plej multe* | **maiest** ['maɪ̯əst] | **mæst** [mɛ:st] | **mōst** [mo:st] |
 
 *Nysprak*: Aldona ŝvao eliziiĝas (krom inter samaj konsonantoj).
 
 | | Sprak | Nysprak |
-|:-|:-|:-|
+|-|-|-|
 | *fratoj* | **broderen** ['bro:dərən] | **brodern** ['bro:dərn] |
 
 ### Konsonantoj
@@ -64,13 +64,13 @@ Kiam la radika vokalo de ne-radikaj vortoj aŭ prepozicio estas mallonga, ĝia f
 La prononco de **c** kiel [ts] estas ***trabrua***. Kutime, la pronco [s] sufiĉas.
 
 | | Sprak | (tra bruo) |
-|:-|:-|:-|
+|-|-|-|
 | *centro* | **centrum** ['sɛntrʊm] | ['tsɛntrʊm] |
 
 *Ursprak:* ***Praĝermana*** **sk** fariĝas **sh** [ʃ] en ***Sprak***. Radikofine, ***praĝermana*** **b** fariĝas **v** en ***Sprak***. ***Praĝermana*** **th** fariĝas **d** [d] (voĉa) respektive **t** [t] (senvoĉa) en ***Sprak***.
 
 | | Ursprak | Sprak |
-|:-|:-|:-|
+|-|-|-|
 | *ŝipo* | **skipp** [skɪp] | **shipp** [ʃɪp] |
 | *havas* | **hab** [ha:b] | **hav** [hav] |
 | *vi* | **đu** [ðu:] | **du** [du:] |
@@ -79,7 +79,7 @@ La prononco de **c** kiel [ts] estas ***trabrua***. Kutime, la pronco [s] sufiĉ
 *Ursprak/Nysprak:* Komence de la radiko, ***praĝermana*** **khw** fariĝis **hw** [hw] en ***Ursprak*** kaj **w** [w] en ***Sprak***. Fine de la radiko, ĝi fariĝis **j** [ɪ̯] respektive **w** [ʊ̯] jam en ***Ursprak***, sed ĝi eliziiĝas post **ai**. ***Praĝermana*** **kht** [xt] fariĝas **ght** en ***Sprak*** kaj **t** [t] en ***Nysprak***. Post **a**, **o** kaj **u**, **ght** prononciĝas [ɪ̯t], alikaze [çt].
 
 | | Ursprak | Sprak | Nysprak |
-|:-|:-|:-|:-|
+|-|-|-|-|
 | *kio* | **hwat** [hwat] | **wat** [wat] | |
 | *piedfingro* | **tai** [taɪ̯] | **tæ** [tɛ:] | **tō** [to:] |
 | *nokto* | **nakht** [naxt] | **naght** [naɪ̯t] | **natt** [nat] |
@@ -91,7 +91,7 @@ La prononco de **c** kiel [ts] estas ***trabrua***. Kutime, la pronco [s] sufiĉ
 ### Numeraloj
 
 | | |
-|:-|:-|
+|-|-|
 | *unu* | **æn** [ɛ:n] |
 | *du* | **twæ** [tɛ:] |
 | *tri* | **tri** [tri:] |
@@ -108,7 +108,7 @@ La prononco de **c** kiel [ts] estas ***trabrua***. Kutime, la pronco [s] sufiĉ
 La adverboj **æ** [ɛ:] *(jes)* kaj **næ** [nɛ:] *(ne)* uziĝas prefiksece kiel **i-** [i:] kaj **ni-** [ni:] kun korelativoj je **w-** por signifi **i-** respektive **neni-**.
 
 | | *ĉi ti-* | *ti-* | *ki-* | *i-* | *neni-* |
-|:-|:-|:-|:-|:-|:-|
+|-|-|-|-|-|-|
 | *(afero)*/*(elekto)* *-o*/*-u* | **het** [hɛt] | **dit** [dɪt] | **wat** [wat] | **iwat** ['i:wat] | **niwat** ['ni:wat] |
 | *(loko)* *-e* | **hir** [hi:r] | **dar** [da:r] | **wer** [we:r] | **iwer** ['i:we:r] | **niwer** ['ni:we:r] |
 | *(tempo)* *-am* | **hin** [hɪn] | **dan** [dan] | **wen** [wɛn] | **iwen** ['i:wɛn] | **niwen** ['ni:wɛn] |
@@ -131,20 +131,20 @@ La korelativoj **het** [hɛt] *(ĉi tiu/tio)* kaj **dit** [dɪt] *(tiu/tio)* pov
 *Ursprak:* Uziĝis nur la korelativo **đit** [ðɪt] *(tiu/tio)* por signifi **ĝi**.
 
 | | Ursprak | Sprak |
-|:-|:-|:-|
+|-|-|-|
 | *ĝi* | **đit** [ðɪt] | **het** [hɛt] / **dit** [dɪt] |
 
 Por *maniero* kaj *kaŭzo* uziĝas la korelativoj **so** [so:] *((ĉi) tiel, (ĉi) tial)* kaj **wæ** [wɛ:] *(kial, kiel)*. Formoj kun la ŝajnsufikso **-lk** (el **-lik** [lɪk]) estas pri *speco*.
 
 | | *(ĉi) ti-* | *ki-* |
-|:-|:-|:-|
+|-|-|-|
 | *(maniero)*/*(kaŭzo)* *-el*/*-al* | **so** [so:] | **wæ** [wɛ:] |
 | *(speco)* *-a* | **solk** [sɔlk] | **welk** [wɛlk] |
 
 *Nysprak:* Anstataŭ **het**/**dit** (kaj **wat**) uziĝas **solk** (kaj **welk**) por *elektoj*.
 
 | | Sprak | Nysprak |
-|:-|:-|:-|
+|-|-|-|
 | *(ĉi) tiu domo* | **het**/**dit** hus | **solk** hus |
 | *kiu domo* | **wat** hus | **welk** hus |
 
@@ -155,7 +155,7 @@ La korelativoj **hi** [hi:] *(ri)*, **dë** [de:] *(ili)* kaj **we** [we:] *(kiu
 * **Wes** brod ik et, **des** sang ik sing. *(Kies panon mi manĝas, ties kanton mi kantas.)*
 
 | | *ri* | *ili* | *kiu* |
-|:-|:-|:-|:-|
+|-|-|-|-|
 | *(nominativo)* | **hi** [hi:] | **dë** [de:] | **we** [we:] |
 | *(akuz-/dativo)* | **him** [hɪm] | **dem** [dɛm] | **wem** [wɛm] |
 | *(genitivo)* | **his** [hɪs] | **des** [dɛs] | **wes** [wɛs] |
@@ -168,7 +168,7 @@ La korelativo **hi** [hi:] *(ri)* uziĝas *ununombre* kutime nur por *persono*. 
 *Ursprak:* La prefikso **hi-** [hi:] *(ĉi)* uziĝis kun korelativoj je **hw-** [hw].
 
 | | Ursprak | Sprak |
-|:-|:-|:-|
+|-|-|-|
 | *ĉi tiu* | **hi-hwai** | **hi** |
 | *ĉi tiu/tio* | **hi-hwat** | **het** |
 | *ĉi tie* | **hi-hwer** | **hir** |
@@ -184,7 +184,7 @@ La korelativo **dë** [de:] *(ili)* uziĝas *multenombre* kaj por *personoj* kaj
 Personaj pronomoj havas apartajn kazajn finaĵojn respektive formojn.
 
 | | *mi* | *vi* | *ŝi* | *li* | *ni* | *vi* |
-|:-|:-|:-|:-|:-|:-|:-|
+|-|-|-|-|-|-|-|
 | *(nominativo)* | **ik** [ɪk] | **du** [du:] | **hun** [hʊn] | **han** [han] | **wi** [wi:] | **ji** [ji:] |
 | *(akuz-/dativo)* | **mi** [mi:] | **di** [di:] | **hum** [hʊm] | **ham** [ham] | **ons** [ɔns] | **ju** [ju:] |
 | *(genitivo)* | **min** [mi:n] | **din** [di:n] | **huns** [hʊns] | **hans** [hans] | **onser** ['ɔnsər] | **jur** [ju:r] |
@@ -205,7 +205,7 @@ La difina artikolo kaj por ununombro kaj por multenombro estas **de** [də]. La 
 *Nysprak:* Anstataŭ la difina artikolo **de** uziĝas la korelativoj **het**/**dit** por *aferoj*.
 
 | | Sprak | Nysprak |
-|:-|:-|:-|
+|-|-|-|
 | *la domo* | **de** hus | **het**/**dit** hus |
 
 ### Radikaj Vortoj
@@ -231,7 +231,7 @@ La *komparativo* kaj la *superlativo* esprimiĝas per la adverboj **mær** [mɛ:
 *Ursprak:* La *komparativo* kaj la *superlativo* esprimiĝis per la sufiksoj **-er** [ər] respektive **-est** [əst].
 
 | | Ursprak | Sprak |
-|:-|:-|:-|
+|-|-|-|
 | *(pozitivo)* | **grot** | **grot** |
 | *(komparativo)* | **groter** | **mær grot** |
 | *(superlativo)* | **grotest** | **mæst grot** |
@@ -250,7 +250,7 @@ En demandoj, la verbo estas en la unua pozicio post la demanda vorto. En ĉu-dem
 *Ursprak:* Verboj staris en la dua pozicio ene de frazo kaj en la fina pozicio ene de subfrazo.
 
 | | Ursprak | Sprak |
-|:-|:-|:-|
+|-|-|-|
 | *Hodiaŭ mi laboras.* | Hidag **werk** ik. | Hidag, ik **werk**. |
 | *ke mi laboras hodiaŭ* | đat ik hidag **werk** | dat ik **werk** hidag |
 
@@ -259,13 +259,13 @@ En demandoj, la verbo estas en la unua pozicio post la demanda vorto. En ĉu-dem
 *Ursprak:* La malregula verbo **wese** havis la malregulan tria-personan formon **is** [ɪs].
 
 | | Ursprak | Sprak |
-|:-|:-|:-|
+|-|-|-|
 | *Tio estas bona.* | Đit **is** god. | Dit **er** god. |
 
 *Ursprak:* Ekzistis aparta tria-persona formo je **-t**. Ĝi uziĝas por formi substantivojn pri *kapablo*.
 
 | | Ursprak | Sprak |
-|:-|:-|:-|
+|-|-|-|
 | *La viro vidas la domon.* | Đe mann **sikht** đe hus. | De mann **sej** de hus. |
 | *vido, vidpovo* | **sikht** | **sight** |
 
@@ -279,7 +279,7 @@ La finaĵo **-ed** [əd] uziĝas por *preterito* kaj *pasivo*.
 *Ursprak:* Ekzistis apartaj formoj por *preterito* kaj *pasivo* sen la finaĵo **-ed** [əd], sed kun vokalŝanĝo respektive la finaĵo **-en** [ən].
 
 | | Ursprak | Sprak |
-|:-|:-|:-|
+|-|-|-|
 | *Mi vidis.* | Ik **saw**. | Ik **sejed**. |
 | *Mi parolis.* | Ik **sprak**. | Ik **spreked**. |
 | *Mi estas vidinta.* | Ik **hab sejen**. | Ik **hav sejed**. |
@@ -288,7 +288,7 @@ La finaĵo **-ed** [əd] uziĝas por *preterito* kaj *pasivo*.
 *Nysprak:* La apartaj *preteritaj* kaj *pasivaj* verbaj formoj uziĝis por formi substantivojn pri *daŭraj agoj* respektive *fojaj agoj*, sed ili ne plu uziĝas en ***Nysprak***.
 
 | | Sprak | Nysprak |
-|:-|:-|:-|
+|-|-|-|
 | *parolado, lingvo* | **sprak** | **spreking** |
 | *parolo, diraĵo* | **sprok** | **sprek** |
 
@@ -311,14 +311,14 @@ Infinitivoj finiĝas je **-e** [ə]. Kiel *substantivo*, ĝi signifas *manieron*
 *Ursprak:* La infinitiva finaĵo estis **-en** [ən].
 
 | | Ursprak | Sprak |
-|:-|:-|:-|
+|-|-|-|
 | *labori* | **werken** | **werke** |
 | *diri* | **sagen** | **sage** |
 
 *Ursprak:* Ekzistis konjunktivo. Ĝia finaĵo estis **-e** [ə].
 
 | | Ursprak | Sprak |
-|:-|:-|:-|
+|-|-|-|
 | *Vi diras, ke mi laboras.* | Đu sag, đat ik **werke**. | Du sag, dat ik **werk**. |
 
 ##### Helpaj Verboj
@@ -331,13 +331,13 @@ La radiko de helpaj verboj havas specialan vokalon.
 *Ursprak:* La infinitivo estis en la lasta pozicio ene de frazo.
 
 | | Ursprak | Sprak |
-|:-|:-|:-|
+|-|-|-|
 | *Mi scios ĝin.* | Ik skall đit **witen**. | Ik shall **wite** het. |
 
 *Nysprak:* La infinitiva radiko de helpaj verboj egalas al la *prezenca* formo.
 
 | | Sprak | Nysprak |
-|:-|:-|:-|
+|-|-|-|
 | *povi* | **kønne**, **kann**, **konned** | **kanne** |
 | *koni* | **kynne**, **konn**, **kunned** | **konne** 
 | *kapabli* | **møge**, **mag**, **moged** | **mage** |
@@ -384,7 +384,7 @@ La prepozicioj **to** [to:], **bi** [bi:] kaj **av** [av] uziĝas por *alativo*,
 * Ik gæ **to** min frend. *(Mi iras al mia amiko)*
 
 | | |
-|:-|:-|
+|-|-|
 | *(alativo, dativo)* *al* | **to** [to:] |
 | *(lokativo, instrumentalo)* *en* | **bi** [bi:] |
 | *(ablativo, genitivo)* *de* | **av** [av] |
@@ -392,20 +392,20 @@ La prepozicioj **to** [to:], **bi** [bi:] kaj **av** [av] uziĝas por *alativo*,
 *Ursprak:* Uziĝis la *genitiva* finaĵo **-s** [(ə)s] anstataŭ la prepozicio **av**.
 
 | | Ursprak | Sprak |
-|:-|:-|:-|
+|-|-|-|
 | *la fenestroj de la domoj* | đe **husens** windogen [ðə 'hu:səns 'wɪndo:gən] | de windogen **av** de husen [də 'wɪndo:gən a:v də 'hu:sən] |
 | *iliaj fenestroj* | **đes** windogen [ðɛs 'wɪndo:gən] | **des** windogen [dɛs 'wɪndo:gən] |
 
 *Ursprak:* Uziĝis la *dativa* finaĵo **-e** anstataŭe la prepozicio **to**.
 
 | | Ursprak | Sprak |
-|:-|:-|:-|
+|-|-|-|
 | *Mi donas libron al mia amiko.* | Ik geb **min frende** en bok. | Ik gev en bok **to min frend**. |
 
 *Tra bruo*, oni povas distingi per la prepozicioj **bi** and **to**/**av** inter *loka* kaj *direkta* signifoj de prepozicioj. La distingata prepozicio fariĝas adverbo.
 
 | | | (tra bruo) |
-|:-|:-|:-|
+|-|-|-|
 | *Mi staras en la domo.* | Ik stæ **in** de hus. [ɪn] | Ik stæ **in bi** de hus. [i:n] |
 | *Mi iras en la domon.* | Ik gæ **in** de hus. [ɪn] | Ik gæ **in to** de hus. [i:n] |
 | *Mi staras ekster la domo.* | Ik stæ **ut** de hus. [ʊt] | Ik stæ **ut bi** de hus. [u:t] |
@@ -414,7 +414,7 @@ La prepozicioj **to** [to:], **bi** [bi:] kaj **av** [av] uziĝas por *alativo*,
 *Ursprak:* Sen *argumento* de *prepozicio*, uziĝis formo je **-en** [ən].
 
 | | Ursprak | Sprak |
-|:-|:-|:-|
+|-|-|-|
 | *Vi estas ene.* | Đu er **innen**. ['ɪnən] | Du er **in**. [i:n] |
 | *Vi estas antaŭe.* | Đu er **forren**. ['fɔrən] | Du er **for**. [fo:r] |
 
@@ -423,7 +423,7 @@ La prepozicioj **to** [to:], **bi** [bi:] kaj **av** [av] uziĝas por *alativo*,
 * Ik stai đe manne **for**. [fo:r] *(Mi estras la viron.)*
 
 | | Ursprak | Sprak |
-|:-|:-|:-|
+|-|-|-|
 | *Mi estras.* | Ik **stai** **for**. [fo:r] | (↓) |
 | *Mi staras antaŭe.* | Ik **stai** **forren**. ['fɔrən] | Ik **stæ** **for** [fo:r] |
 | *Mi komprenas.* | Ik **forstai**. [fɔr'] | Ik **ferstæ**. [fər'] |
