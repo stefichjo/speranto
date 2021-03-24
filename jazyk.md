@@ -1,6 +1,6 @@
 # Jaziko
 
-***Jaziko*** baziĝas sur la ***Slavaj Lingvoj*** kaj [ties ***Internaciaj Ortografioj***](slavaj/README.md). El ***Jaziko*** pruntas [***Lingvoo***](linguo.md).
+***Jaziko*** baziĝas sur la ***Slavaj Lingvoj*** kaj [ties ***Internaciaj Ortografioj***](slavaj/README.md). El ***Jaziko*** pruntas [***Lingvoo***](linguo.md). Sen tiu ĉi kunteksto, ***Äzyk*** estas (propono por) ***Slovio***.
 
 ## Alfabeto
 
