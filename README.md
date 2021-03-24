@@ -19,7 +19,7 @@ En tiu ĉi fikcia akĉenta, dialekta kaj lingva kontinuo, L. L. Zamenhof bazis *
 |-|
 | **Se ni eĉ supozos, ke la fina lingvo de la estontaj generacioj estas ne Esperanto, en ĉia okazo la vojo al tiu ellaborota lingvo nepre devas konduki tra Esperanto.** |
 
-| ***Speranto*** |
+| ***Speranto*** - ***Lingvoo (Slav-Ĝermane)*** |
 |-|
 | **Sï ni et supposos, qŭe la fina linguo de la essontai generatioi essas ne Speranto, ïn chia occaso la vĩo al tiu ellavorota linguo nepre devas conduqŭi tra Speranto.** |
 | *[Se ni et supozos, ke la fina lingvo de la esontaj generacioj esas ne Speranto, en ĉia okazo la vojo al tiu ellavorota lingvo nepre devas konduki tra Speranto.]* |

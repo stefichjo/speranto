@@ -229,7 +229,7 @@ Fremdaj vortoj povas eniri Lingvoon laŭ ilia origina ortografio.
 ### Slav-Ĝermana
 *(Speranto)*
 
-Kaj **c** *[ĉ]* kaj **t** *[s]* prononciiĝas *[c]*.
+Palataligitaj **c** *[ĉ]* kaj **t** *[s]* prononciiĝas *[c]*.
 
 | | | slave-ĝermane |
 |-|-|-|
@@ -239,7 +239,7 @@ Kaj **c** *[ĉ]* kaj **t** *[s]* prononciiĝas *[c]*.
 | *ŝanco* | **çhanço** *[ŝanso]* | *[ŝanco]* |
 | *paco* | **paĉo** *[paĉo]*  | *[paco]* |
 
-**g** *[ĝ]* prononciĝas *[g]*, kaj **j** *[ĥ]* prononciĝas *[j]*.
+Palataligita **g** *[ĝ]* prononciĝas *[g]*, kaj **j** *[ĥ]* prononciĝas *[j]*.
 
 | | | slave-ĝermane |
 |-|-|-|
@@ -255,13 +255,15 @@ La ŝajnprefiksoj **ex̂-**, **dė-** kaj **rė-** pronciĝas *[eks]*, *[de]* ka
 | *dependi* | **dėpendi** *[dipendi]* | *[dependi]* |
 | *reflekso* | **rėflexo** *[riflekso]* | *[reflekso]* |
 
-Post konsonanto, ne-akcentata **-u** *[ŭ]* prononciĝas *[v]*.
+Post konsonanto kaj komence de radiko, ne-akcentata **-u** *[ŭ]* prononciĝas *[v]*.
 
 | | | slave-ĝermane |
 |-|-|-|
 | *akvo* | **aquo** *[akŭo]* | *[akvo]* |
 | *kvar* | **quar** *[kŭar]* | *[kvar]* |
 | *lingvo* | **linguo** *[lingŭo]* | *[lingvo]* |
+| | | |
+| *ŭaŭ* | **wau** *[ŭaŭ]* | *[vaŭ]* |
 
 Post konsonanto, ne-akcentata radikofina **-i** *[j]* eliziiĝas.
 
