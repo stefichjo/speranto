@@ -7,7 +7,9 @@
     * [***Sprak***](sprak.md) ← [***Ĝermanaj Lingvoj***](ghermanaj/README.md)
     * [***Äzyk***](jazyk.md) ← [***Slavaj Lingvoj***](slavaj/README.md)
 
-En tiu ĉi fikcia akĉenta, dialekta kaj lingva kontinuo, L. L. Zamenhof bazis ***Esperanton*** sur ***Speranto***, t.e. miksaĵo el akĉentoj de ***Lingvoo*** (**Linguo** *[lingŭo]*).
+En tiu ĉi fikcia akĉenta, dialekta kaj lingva kontinuo, L.L. Zamenhof bazis sian lingvon ***Esperanton*** sur [***Speranto***](linguo.md#slav-ĝermana), t.e. estonteca internacia planlingvo. Tie ĉi priskribiĝas la originoj de ***Speranto***:
+
+***Speranto*** estas ***Slav-Ĝermana*** akĉento de ***Lingvoo***, t.e. dialekto de ***Lingveo***, kiu estas siaflanke dialekto de ***Lingvao***. ***Lingvao***, ***Sprako*** kaj ***Jaziko*** estas pontolingvoj, kiuj evoluis el internaciaj ortografioj por ***Latinidaj***, ***Ĝermanaj*** kaj ***Slavaj*** lingvoj.
 
 | | |
 |-|-|

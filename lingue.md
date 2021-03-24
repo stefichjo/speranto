@@ -12,7 +12,7 @@ La antaŭlasta silabo estas akcentata.
 |-|-|
 | *bona* | **bona** |
 
-La Lingvaaj ŝajnsufiksoj **-ĭn-** kaj **-ĭt** eliziiĝas.
+La ***Lingvaaj*** ŝajnsufiksoj **-ĭn-** kaj **-ĭt** eliziiĝas.
 
 | | |
 |-|-|
@@ -23,7 +23,7 @@ La Lingvaaj ŝajnsufiksoj **-ĭn-** kaj **-ĭt** eliziiĝas.
 
 ### t, d
 
-**t** estas prononcata *[θ]* antaŭ radikofina **-i**. La Lingvaa ŝajnfinaĵo **-ione** *[ione]* mallongiĝas al la ŝajnsufikso **-i** *[j]*.
+**t** estas prononcata *[θ]* antaŭ radikofina **-i**. La ***Lingvaa*** ŝajnfinaĵo **-ione** *[ione]* mallongiĝas al la ŝajnsufikso **-i** *[j]*.
 | | |
 |-|-|
 | *graco* | **gratie** *[graθje]* |
@@ -37,7 +37,7 @@ Kiam **t** estas prononcata *[t]* antaŭ radikofina **-i**, ĝi portas makronon.
 |-|-|
 | *besto* | **best̄ie** = **bestie** *[bestje]* |
 
-La Lingvaa ŝajnsufikso **-atĭc-** prononciĝas *[aðj]*.
+La ***Lingvaa*** ŝajnsufikso **-atĭc-** prononciĝas *[aðj]*.
 
 | | |
 |-|-|
@@ -67,7 +67,7 @@ Kiam **c** kaj **g** estas prononcataj *[k]* kaj *[g]* antaŭ **-e** kaj **-i**,
 
 ### i, u
 
-En diftongoj, Lingvaa **i** prononciĝas *[j]*. Komence de radiko, ĝi skribiĝas **j**.
+En diftongoj, ***Lingvaa*** **i** prononciĝas *[j]*. Komence de radiko, ĝi skribiĝas **j**.
 
 | | |
 |-|-|
@@ -96,7 +96,7 @@ Kiam **i** kaj **u** estas akcentataj en antaŭlasta pozicio, ili portas makrono
 
 ### v
 
-Radikofina Lingvaa **-b** kaj **-p** ofte fariĝas **-v** *[v]*.
+Radikofina ***Lingvaa*** **-b** kaj **-p** ofte fariĝas **-v** *[v]*.
 
 | | |
 |-|-|

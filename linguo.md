@@ -78,7 +78,7 @@ Voĉaj konsonantoj kun **ĭ** prononciĝas *[ĵ]*.
 | *jam* | **jam** *[ĥam]* |
 | *objekto* | **objecto** *[obĥekto]* |
 
-**u** prononciĝas kiel en Lingveo.
+**u** prononciĝas kiel en ***Lingveo***.
 
 | | |
 |-|-|
@@ -126,7 +126,7 @@ La ŝajnprefiksoj **ex̂-**, **dė-** kaj **rė-** pronciĝas *[es]*, *[di]* kaj
 
 ### Fremdaj Vortoj
 
-Fremdaj vortoj povas eniri Lingvoon laŭ ilia origina ortografio.
+Fremdaj vortoj povas eniri ***Lingvoon*** laŭ ilia origina ortografio.
 
 | | |
 |-|-|
@@ -338,7 +338,7 @@ Greka **ch** *[k]* pronciĝas *[ĥ]*.
 
 ## Gramatiko
 
-La gramatiko de Lingvoo estas sama al tiu de Esperanto.
+La gramatiko de ***Lingvoo*** estas sama al tiu de Esperanto.
 
 Ĉiuj adverboj finiĝas je **-e**.
 

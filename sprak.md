@@ -1,6 +1,6 @@
-# Sprak
+# Sprako
 
-***Sprak*** baziĝas sur la ***Praĝermana*** kaj la [***Internaciaj Ortografioj***](ghermanaj/README.md) de ***Ĝermanaj Lingvoj***. El ***Sprak*** pruntas [***Lingvoo***](linguo.md). Sen tiu ĉi kunteksto, ***Sprak*** estas (propono por) ***Folksprak***.
+***Sprako*** baziĝas sur la ***Praĝermana*** kaj la [***Internaciaj Ortografioj***](ghermanaj/README.md) de ***Ĝermanaj Lingvoj***. El ***Sprako*** pruntas [***Lingvoo***](linguo.md). Sen tiu ĉi kunteksto, ***Sprako*** (t.e. **Sprak** *[Sprak]*) estas (propono por) ***Folksprako***.
 
 ## Alfabeto
 
