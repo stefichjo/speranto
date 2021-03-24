@@ -111,18 +111,18 @@ Anstataŭ *[sĉ]*, prononciĝas *[ŝ]*.
 
 ### ex̂-, dė-, rė-
 
-La ŝajnpreksoj **ex̂-**, **dė-** kaj **rė-** pronciĝas *[es]*, *[di]* kaj *[ri]*.
+La ŝajnprefiksoj **ex̂-**, **dė-** kaj **rė-** pronciĝas *[es]*, *[di]* kaj *[ri]*.
 
 | | |
 |-|-|
 | *escepto* | **ex̂cepto** = **escepto** *[esĉepto]* |
 | *esplori* | **ex̂plori** = **esplori** *[esplori]* |
 | | |
-| *rigardi* | **rėgardi** = **rigardi** *[rigardi]* |
-| *rilato* | **rėlato** = **rilato** *[rilato]* |
-| | |
 | *difini* | **dėfini** = **difini** *[difini]* |
 | *difekto* | **dėfekto** = **difekto** *[difekto]* |
+| | |
+| *rigardi* | **rėgardi** = **rigardi** *[rigardi]* |
+| *rilato* | **rėlato** = **rilato** *[rilato]* |
 
 ### Fremdaj Vortoj
 
@@ -144,6 +144,7 @@ Fremdaj vortoj povas eniri Lingvoon laŭ ilia origina ortografio.
 | *ĉambro* | **çhamĕro** = **çhambro** *[ŝambro]* |
 | *ĉe* | **çhä** = **çhe** *[ŝe]* |
 | *ĉemizo* | **çhämisĭo** = **çhemiso** *[ŝemizo]* |
+| *egala* | **eq̄ŭala** = **egala** *[egala]* |
 | *-eco* | **-etĭo** = **-esjo** *[esjo]* |
 | *etaĝo* | **s̈tatĭco** = **etaĵo** *[etaĵo]* |
 | *fromaĝo* | **fromatĭco** = **fromaĵo** *[fromaĵo]* |
@@ -228,19 +229,36 @@ Fremdaj vortoj povas eniri Lingvoon laŭ ilia origina ortografio.
 ### Slav-Ĝermana
 *(Speranto)*
 
+Kaj **c** *[ĉ]* kaj **t** *[s]* prononciiĝas *[c]*.
+
 | | | slave-ĝermane |
 |-|-|-|
 | *biciklo* | **bicyclo** *[biĉiklo]* | *[biciklo]* |
 | *indico* | **indiĉo** *[indiĉo]* | *[indico]* |
-| *jam* | **jam** *[ĥam]* | *[jam]* |
 | *koncerto* | **concerto** *[konĉerto]* | *[koncerto]* |
-| *paco* | **paĉo** *[paĉo]*  | *[paco]* |
 | *ŝanco* | **çhanço** *[ŝanso]* | *[ŝanco]* |
+| *paco* | **paĉo** *[paĉo]*  | *[paco]* |
+
+**g** *[ĝ]* prononciĝas *[g]*, kaj **j** *[ĥ]* prononciĝas *[j]*.
+
+| | | slave-ĝermane |
+|-|-|-|
+| *generi* | **generi** *[ĝeneri]* | *[generi]* |
 | | | |
+| *jam* | **jam** *[ĥam]* | *[jam]* |
+
+La ŝajnprefiksoj **ex̂-**, **dė-** kaj **rė-** pronciĝas *[eks]*, *[de]* kaj *[re]*.
+
+| | | slave-ĝermane |
+|-|-|-|
 | *eksperto* | **ex̂perto** *[esperto]* | *[eksperto]* |
 | *dependi* | **dėpendi** *[dipendi]* | *[dependi]* |
 | *reflekso* | **rėflexo** *[riflekso]* | *[reflekso]* |
-| | | |
+
+Post konsonanto, ne-akcentata **-u** *[ŭ]* prononciĝas *[v]*.
+
+| | | slave-ĝermane |
+|-|-|-|
 | *akvo* | **aquo** *[akŭo]* | *[akvo]* |
 | *kvar* | **quar** *[kŭar]* | *[kvar]* |
 | *lingvo* | **linguo** *[lingŭo]* | *[lingvo]* |
