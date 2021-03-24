@@ -294,6 +294,7 @@ Greka **ch** *[k]* pronciĝas *[ĥ]*.
 
 #### Angla
 
+
 | | | angle |
 |-|-|-|
 | *ĉambro* | **çhambro** *[ŝambro]* | *[ĉambro]* |
