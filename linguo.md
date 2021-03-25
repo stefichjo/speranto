@@ -14,11 +14,13 @@
 | | |
 | *besto* | **bestio** *[bestjo]* |
 
-Tamen, la ŝajnsufikso **-ī-** (t.e. la mallongiĝinta ***Lingvaa*** ŝajnfinaĵo **-ione**) prononciĝas *[i]* kaj eĉ portas la akcenton.
+Radikofina akcentata **-ī**, ekzemple la ŝajnsufikso **-ī-** (t.e. la mallongiĝinta ***Lingvaa*** ŝajnfinaĵo **-ione**), prononciĝas *[i]*. Radikofina *[ti]* skribiĝas kun **ȳ**.
 
 | | |
 |-|-|
 | *nacio* | **natīo** *[nasio]* |
+| | |
+| *simpatio* | **sympathȳo** *[simpatio]* |
 
 La ***Lingvaa*** ŝajnsufikso **-atĭc-** fariĝas **aĵ** *[aĵ]*.
 
@@ -49,28 +51,6 @@ Inter vokaloj, **i** prononciĝas *[j]*, same kiel en ***Lingveo***.
 |-|-|
 | *majo* | **maio** *[majo]* |
 
-La prononco de **lĭ** *[ḷ]* (= *[ʎ]*) kaj **nĭ** *[ṇ]* (= *[ɲ]*) povas varii inter *[lj]* kaj *[jl]* respektive inter *[nj]* kaj *[jn]*.
-
-| | |
-|-|-|
-| *bani* | **banĭi** *[bajni]* ⟷ *[baṇi]* ⟷ *[banji]* |
-| *filo* | **filĭo** *[fijlo]* ⟷ *[fiḷo]* ⟷ *[filjo]* |
-
-Simile, la prononco de **rĭ** *[j]* povas varii al *[rj]*.
-
-| | |
-|-|-|
-| *propra* | **proprĭa** *[propja]* ⟷ *[proprja]* |
-
-Voĉaj konsonantoj kun **ĭ** prononciĝas *[ĵ]*.
-
-| | |
-|-|-|
-| *kaĝo* | **cavĭo** = **caĵo** *[kaĵo]* |
-| *neĝo* | **nïvĭo** = **neĵo** *[neĵo]* |
-| *ruĝa* | **ruvĭa** = **ruĵa** *[ruĵa]* |
-| *seĝo* | **sedĭo** = **seĵo** *[seĵo]* |
-
 **j** prononciĝas *[ĥ]*.
 
 | | |
@@ -88,11 +68,36 @@ Voĉaj konsonantoj kun **ĭ** prononciĝas *[ĵ]*.
 | | |
 | *ŭaŭ* | **wau** *[ŭaŭ]* |
 
-Kiam **u** estas akcentata en antaŭlasta pozicio, ĝi portas makronon.
+Kiam **i** aŭ **u** estas akcentataj en antaŭlasta pozicio, ili portas makronon.
 
 | | |
 |-|-|
+| *poezio* | **poesīo** *[poezio]* |
 | *situi* | **sitūi** *[situi]* |
+
+#### Latinida ĭ
+
+**rĭ** en ***Latinidaj*** vortoj prononciĝas *[j]*.
+
+| | |
+|-|-|
+| *propra* | **proprĭa** *[propja]* |
+
+La prononco de **lĭ** *[ḷ]* (= *[ʎ]*) kaj **nĭ** *[ṇ]* (= *[ɲ]*) en ***Latinidaj*** vortoj povas varii inter *[lj]* kaj *[jl]* respektive inter *[nj]* kaj *[jn]*.
+
+| | |
+|-|-|
+| *bani* | **banĭi** *[bajni]* ⟷ *[baṇi]* ⟷ *[banji]* |
+| *filo* | **filĭo** *[fijlo]* ⟷ *[fiḷo]* ⟷ *[filjo]* |
+
+Voĉaj konsonantoj kun **ĭ** en ***Latinidaj*** vortoj prononciĝas *[ĵ]*.
+
+| | |
+|-|-|
+| *kaĝo* | **cavĭo** = **caĵo** *[kaĵo]* |
+| *neĝo* | **nïvĭo** = **neĵo** *[neĵo]* |
+| *ruĝa* | **ruvĭa** = **ruĵa** *[ruĵa]* |
+| *seĝo* | **sedĭo** = **seĵo** *[seĵo]* |
 
 ### ł, sc
 
@@ -143,9 +148,9 @@ Fremdaj vortoj povas eniri ***Lingvoon*** laŭ ilia origina ortografio.
 | *bieno* | **bẽno** = **bieno** *[bieno]* |
 | *ĉambro* | **çhamĕro** = **çhambro** *[ŝambro]* |
 | *ĉe* | **çhä** = **çhe** *[ŝe]* |
-| *ĉemizo* | **çhämisĭo** = **çhemiso** *[ŝemizo]* |
+| *ĉemizo* | **çhämisĭo** = **çhemişo** *[ŝemiĵo]* |
 | *egala* | **eq̄ŭala** = **egala** *[egala]* |
-| *-eco* | **-etĭo** = **-esjo** *[esjo]* |
+| *-eco* | **-etĭo** = **-eso** *[eso]* |
 | *etaĝo* | **s̈tatĭco** = **etaĵo** *[etaĵo]* |
 | *fromaĝo* | **fromatĭco** = **fromaĵo** *[fromaĵo]* |
 | *ĝojo* | **ĝoio** *[ĝojo]* |
@@ -157,11 +162,11 @@ Fremdaj vortoj povas eniri ***Lingvoon*** laŭ ilia origina ortografio.
 | *mesaĝo* | **mïssaĵo** = **messaĵo** *[mesaĵo]* |
 | *piedo* | **pẽdo** = **piedo** *[piedo]* |
 | *rojo* | **rĩo** = **royo** *[rojo]* |
+| *semajno* | **semæno** = **semaino** *[semajno]* |
 | *sojlo* | **solĭo** *[soḷo]* |
+| *sonĝo* | **somnĭo** = **sonĵo** *[sonĵo]* |
 | *ŝanco* | **çhadĕntĭo** = **çhanço** *[ŝanso]* |
 | *ŝanĝo* | **çhambĭo** = **çhanĵo** *[ŝanĵo]* |
-| *semajno* | **semæno** = **semaino** *[semajno]* |
-| *sonĝo* | **somnĭo** = **sonĵo** *[sonĵo]* |
 | *trajno* | **træno** = **traino** *[trajno]* |
 | *tranĉi* | **trançi** *[tranŝi]* |
 | *tuŝi* | **tǒçci** = **tuçci** *[tuŝi]* |
@@ -186,18 +191,16 @@ Fremdaj vortoj povas eniri ***Lingvoon*** laŭ ilia origina ortografio.
 | *fajro* | **fỹro** = **fairo** *[fajro]* |
 | *fiŝo* | **fisho** *[fiŝo]* |
 | *fraŭlo* | **frũlo** *[fraŭlo]* |
-| *hobio* | **hobbyo** *[hobio]* |
+| *hobio* | **hobbȳo** *[hobio]* |
 | *jaro* | **yaro** *[jaro]* |
 | *jes* | **yes** *[jes]* |
 | *kajto* | **kĩto** = **kaito** *[kajto]* |
 | *lando* | **lando** *[lando]* |
 | *lasi* | **lassi** *[lasi]* |
-| *partio* | **partyo** *[partio]* |
+| *partio* | **partȳo** *[partio]* |
 | *ŝajni* | **shĩni** = **shaini** *[ŝajni]* |
-| *ŝati* | **shatti** *[ŝati]* |
 | *ŝipo* | **shippo** *[ŝipo]* |
 | *ŝnuro* | **ŝnuro** *[ŝnuro]* |
-| *ŝpruci* | **ŝpruţi** *[ŝpruci]* |
 | *ŝraŭbo* | **shraubo** *[ŝraŭbo]* |
 | *ŝtalo* | **ŝtalo** *[ŝtalo]* |
 | *ŝtato* | **ŝtato** *[ŝtato]* |
@@ -220,6 +223,7 @@ Fremdaj vortoj povas eniri ***Lingvoon*** laŭ ilia origina ortografio.
 | *kolbaso* | **kolbas̄o** *[kolbaso]* |
 | *koŝmaro* | **koŝmaro** *[koŝmaro]* |
 | *krom* | **krom** *[krom]* |
+| *mal-* | **mal-** *[mal]* |
 | *nepre* | **nepre** *[nepre]* |
 | *prava* | **prava** *[prava]* |
 | *pri* | **pri** *[pri]* |
@@ -231,7 +235,7 @@ Fremdaj vortoj povas eniri ***Lingvoon*** laŭ ilia origina ortografio.
 
 Palataligitaj **c** *[ĉ]* kaj **t** *[s]* prononciiĝas *[c]*.
 
-| | | slave-ĝermane |
+| | | slav-ĝermane |
 |-|-|-|
 | *biciklo* | **bicyclo** *[biĉiklo]* | *[biciklo]* |
 | *indico* | **indiĉo** *[indiĉo]* | *[indico]* |
@@ -241,7 +245,7 @@ Palataligitaj **c** *[ĉ]* kaj **t** *[s]* prononciiĝas *[c]*.
 
 Palataligita **g** *[ĝ]* prononciĝas *[g]*, kaj **j** *[ĥ]* prononciĝas *[j]*.
 
-| | | slave-ĝermane |
+| | | slav-ĝermane |
 |-|-|-|
 | *generi* | **generi** *[ĝeneri]* | *[generi]* |
 | | | |
@@ -249,7 +253,7 @@ Palataligita **g** *[ĝ]* prononciĝas *[g]*, kaj **j** *[ĥ]* prononciĝas *[j]
 
 La ŝajnprefiksoj **ex̂-**, **dė-** kaj **rė-** pronciĝas *[eks]*, *[de]* kaj *[re]*.
 
-| | | slave-ĝermane |
+| | | slav-ĝermane |
 |-|-|-|
 | *eksperto* | **ex̂perto** *[esperto]* | *[eksperto]* |
 | *dependi* | **dėpendi** *[dipendi]* | *[dependi]* |
@@ -257,7 +261,7 @@ La ŝajnprefiksoj **ex̂-**, **dė-** kaj **rė-** pronciĝas *[eks]*, *[de]* ka
 
 Post konsonanto kaj komence de radiko, ne-akcentata **-u** *[ŭ]* prononciĝas *[v]*.
 
-| | | slave-ĝermane |
+| | | slav-ĝermane |
 |-|-|-|
 | *akvo* | **aquo** *[akŭo]* | *[akvo]* |
 | *kvar* | **quar** *[kŭar]* | *[kvar]* |
@@ -267,26 +271,24 @@ Post konsonanto kaj komence de radiko, ne-akcentata **-u** *[ŭ]* prononciĝas *
 
 Post konsonanto, ne-akcentata radikofina **-i** *[j]* eliziiĝas.
 
-| | | slave-ĝermane |
+| | | slav-ĝermane |
 |-|-|-|
 | *besto* | **bestio** *[bestjo]* | *[besto]* |
-| *-eco* | **-etĭo** *[esjo]* | *[eco]* |
 | *spaco* | **spatio** *[spasjo]* | *[spaco]* |
 
 Analogie, **ĭ** ne asimiliĝas, sed **di** *[ĵ]* prononciĝas *[di]*.
 
-| | | slave-ĝermane |
+| | | slav-ĝermane |
 |-|-|-|
 | *bani* | **banĭi** *[baṇi]* | *[bani]* |
 | *filo* | **filĭo** *[fiḷo]* | *[filo]* |
 | *propra* | **proprĭa** *[propja]* | *[propra]* |
 | | | |
 | *hodiaŭ* | **hodĭô** *[hoĵaŭ]* | *[hodiaŭ]* |
-| *diurno* | **dĭurno** *[ĵurno]* | *[diurno]* |
 
 Greka **ch** *[k]* pronciĝas *[ĥ]*.
 
-| | | slave-ĝermane |
+| | | slav-ĝermane |
 |-|-|-|
 | *eĥo* | **echo** *[eko]* | *[eĥo]* |
 | *kemio* | **chemio** *[kemio]* | *[ĥemio]* |
@@ -435,8 +437,15 @@ Prepoziciaĵoj finiĝas je **-ał** *[aŭ]*.
 | *mensogi* | **menţonĭi** *[mensonĵi]* |
 | *pejzaĝo* | **pæsatĭco** = **paisaĵo** *[pajzaĵo]* |
 | *precipe* | **prïnçipe** *[prensipe]* |
+| *radio* *(energio)* | **radĭo** = **raĵo** *[raĵo]* |
+| *stadio* *(fazo)* | **stadĭo** *[staĵo]* |
+| *stranga* | **ex̂tranĭa** *[estraṇa]* |
+| *ŝanĝo* | **çhanĵo** *[ŝanĵo]* |
+| *ŝargi* | **çharĭcumi** *[ŝargumi]* |
+| *ŝarĝi* | **çharĭcumi** *[ŝargi]* |
 | *ŝlimo* | **ŝlaimo** *[ŝlajmo]* |
 | *ŝtono* | **ŝtaino** *[ŝtajno]* |
+| *tablo* | **tavlo** *[tavlo]* |
 
 ### Ĝermana Vortaro
 
@@ -448,13 +457,8 @@ Prepoziciaĵoj finiĝas je **-ał** *[aŭ]*.
 | *hejmo* | **haimo** *[hajmo]* |
 | *najlo* | **naglo** *[naglo]* |
 | *pregi* | **prægi** = **praigŭi** *[prajgi]* |
-| *radio* *(energio)* | **radĭo** = **raĵo** *[raĵo]* |
-| *stadio* *(fazo)* | **stadĭo** *[staĵo]* |
-| *stranga* | **ex̂tranĭa** *[estraṇa]* |
-| *ŝanĝo* | **çhanĵo** *[ŝanĵo]* |
-| *ŝargi* | **çharĭcumi** *[ŝargumi]* |
-| *ŝarĝi* | **çharĭcumi** *[ŝargi]* |
-| *tablo* | **tavlo** *[tavlo]* |
+| *ŝati* | **shatţi** = **shatsi** *[ŝaci]* |
+| *ŝpruci* | **ŝpritţi** = **ŝpritsi** *[ŝprici]* |
 
 ### Slava Vortaro
 
