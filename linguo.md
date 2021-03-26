@@ -144,6 +144,7 @@ Fremdaj vortoj povas eniri ***Lingvoon*** laŭ ilia origina ortografio.
 
 | | |
 |-|-|
+| *akiri* | **aqŭiri** *[akiri]* |
 | *averaĝo* | **aväratĭco** *[averaĵo]* |
 | *bieno* | **bẽno** = **bieno** *[bieno]* |
 | *ĉambro* | **çhamĕro** = **çhambro** *[ŝambro]* |
@@ -162,12 +163,12 @@ Fremdaj vortoj povas eniri ***Lingvoon*** laŭ ilia origina ortografio.
 | *mesaĝo* | **mïssaĵo** = **messaĵo** *[mesaĵo]* |
 | *piedo* | **pẽdo** = **piedo** *[piedo]* |
 | *rojo* | **rĩo** = **royo** *[rojo]* |
-| *semajno* | **semæno** = **semaino** *[semajno]* |
+| *semajno* | **semêno** = **semaino** *[semajno]* |
 | *sojlo* | **solĭo** *[soḷo]* |
 | *sonĝo* | **somnĭo** = **sonĵo** *[sonĵo]* |
 | *ŝanco* | **çhadĕntĭo** = **çhanço** *[ŝanso]* |
 | *ŝanĝo* | **çhambĭo** = **çhanĵo** *[ŝanĵo]* |
-| *trajno* | **træno** = **traino** *[trajno]* |
+| *trajno* | **trêno** = **traino** *[trajno]* |
 | *tranĉi* | **trançi** *[tranŝi]* |
 | *tuŝi* | **tǒçci** = **tuçci** *[tuŝi]* |
 | *ĉielo* | **çẽlo** = **çielo** *[sielo]* |
@@ -424,7 +425,7 @@ Prepoziciaĵoj finiĝas je **-ał** *[aŭ]*.
 | | Linguo |
 |-|-|
 | *aĉeti* | **açcĕpti** = **açhti** *[aŝti]* |
-| *aero* | **æro** = **airo** *[ajro]* |
+| *aero* | **êro** = **airo** *[ajro]* |
 | *aĝo* | **eṯatĭco** *[edaĵo]* |
 | *ajlo* | **alĭo** *[aḷo]* |
 | *apogi* | **appodĭi** = **appoĵi** *[apoĵi]* |
@@ -435,7 +436,7 @@ Prepoziciaĵoj finiĝas je **-ał** *[aŭ]*.
 | *folio* | **folĭo** *[foḷo]* |
 | *kojno* | **cunĭo** *[kuṇo]* |
 | *mensogi* | **menţonĭi** *[mensonĵi]* |
-| *pejzaĝo* | **pæsatĭco** = **paisaĵo** *[pajzaĵo]* |
+| *pejzaĝo* | **pêsatĭco** = **paisaĵo** *[pajzaĵo]* |
 | *precipe* | **prïnçipe** *[prensipe]* |
 | *radio* *(energio)* | **radĭo** = **raĵo** *[raĵo]* |
 | *stadio* *(fazo)* | **stadĭo** *[staĵo]* |
@@ -456,7 +457,7 @@ Prepoziciaĵoj finiĝas je **-ał** *[aŭ]*.
 | *hajlo* | **haglo** *[haglo]* |
 | *hejmo* | **haimo** *[hajmo]* |
 | *najlo* | **naglo** *[naglo]* |
-| *pregi* | **prægi** = **praigŭi** *[prajgi]* |
+| *pregi* | **prêgi** = **praigŭi** *[prajgi]* |
 | *ŝati* | **shatţi** = **shatsi** *[ŝaci]* |
 | *ŝpruci* | **ŝpritţi** = **ŝpritsi** *[ŝprici]* |
 
