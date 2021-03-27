@@ -229,6 +229,12 @@ Krom la korelativaj ŝajnprefiksoj **qu-** kaj **l-** estas ankaŭ **omn-**, **u
 | *ĉie*, *ĉiel*, *ĉial*, *ĉiam*, *ĉiom* | **omno** | | *ie*, *iel*, *ial*, *iam*, *iom* | **uno** | | *nenie*, *neniel*, *nenial*, *neniam*, *neniom* | **no** |
 | *ĉien* | **omnu** | | *ien* | **unu** | | *nenien* | **nu** |
 
+La ŝajnprefikso **ali-** *[ali]* signifas *ajn*.
+
+| | |
+|-|-|
+| *kiu ajn*, *iu ajn* | **aliqui** *[ali-kui']* |
+
 ***En poezio***, la korelativoj **qua** kaj **quo** povas havi pli specifajn formojn.
 
 | | | poezie |
