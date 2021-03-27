@@ -211,8 +211,8 @@ La ŝajnsufikso por ordinaloj estas **-essĭma** *[esi-ma]*. ***En poezio***, or
 
 Estas kvin serioj da korelativoj kun la finaĵoj **-i**, **-e**, **-a**, **-o** kaj **-u**.
 
-| | | | | |
-|-|-|-|-|-|
+| | | | | | | | |
+|-|-|-|-|-|-|-|-|
 | *kiu* | **qui** *[kui']* | | *tiu* | **li** | | *ĉi tiu* | **hi** |
 | *kio* | **que** *[kue']* | | *tio* | **le** | | *ĉi tio* | **he** |
 | *kia*, *kiu*, *kies* | **qua** *[kua']* | | *tia*, *tiu*, *ties* | **la** | | *ĉi tia*, *ĉi tiu*, *ĉi ties* | **ha** |
