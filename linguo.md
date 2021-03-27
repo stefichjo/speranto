@@ -6,7 +6,7 @@
 
 ### t, d
 
-**t** estas prononcata *[s]* antaŭ radikofina **-i** *[j]*. En radikofina **-sti** *[stj]*, la -**t**- restas prononcata *[t]*. 
+**t** estas prononcata *[s]* antaŭ radikofina **-i** *[j]*. En radikofina **-sti** *[stj]*, la **-t-** restas prononcata *[t]*. 
 
 | | |
 |-|-|
@@ -14,13 +14,11 @@
 | | |
 | *besto* | **bestio** *[bestjo]* |
 
-Radikofina akcentata **-ī**, ekzemple la ŝajnsufikso **-ī-** (t.e. la mallongiĝinta ***Lingvaa*** ŝajnfinaĵo **-ione**), prononciĝas *[i]*. Radikofina *[ti]* skribiĝas kun **ȳ**.
+Radikofina akcentata **-ī**, ekzemple la ŝajnsufikso **-ī-** (t.e. la mallongiĝinta ***Lingvaa*** ŝajnfinaĵo **-ione**), prononciĝas *[i]*. (Vd. [Ĝermanaj Vortoj](#ĝermanaj-vortoj).)
 
 | | |
 |-|-|
 | *nacio* | **natīo** *[nasio]* |
-| | |
-| *simpatio* | **sympathȳo** *[simpatio]* |
 
 La ***Lingvaa*** ŝajnsufikso **-atĭc-** fariĝas **aĵ** *[aĵ]*.
 
@@ -183,6 +181,8 @@ Fremdaj vortoj povas eniri ***Lingvoon*** laŭ ilia origina ortografio.
 
 #### Ĝermanaj Vortoj
 
+Radikofina *[ti]* skribiĝas **-tȳ**.
+
 | | |
 |-|-|
 | *ajn* | **æn** = **ain** *[ajn]* |
@@ -192,12 +192,14 @@ Fremdaj vortoj povas eniri ***Lingvoon*** laŭ ilia origina ortografio.
 | *fajro* | **fỹro** = **fairo** *[fajro]* |
 | *fiŝo* | **fisho** *[fiŝo]* |
 | *fraŭlo* | **frũlo** *[fraŭlo]* |
+| *hajlo* | **haġlo** *[hajlo]* |
 | *hobio* | **hobbȳo** *[hobio]* |
 | *jaro* | **yaro** *[jaro]* |
 | *jes* | **yes** *[jes]* |
 | *kajto* | **kĩto** = **kaito** *[kajto]* |
 | *lando* | **lando** *[lando]* |
 | *lasi* | **lassi** *[lasi]* |
+| *najlo* | **naġlo** *[najlo]* |
 | *partio* | **partȳo** *[partio]* |
 | *ŝajni* | **shĩni** = **shaini** *[ŝajni]* |
 | *ŝipo* | **shippo** *[ŝipo]* |
@@ -323,9 +325,6 @@ Greka **ch** *[k]* pronciĝas *[ĥ]*.
 |-|-|-|
 | *akcepti* | **accepti** *[akĉepti]* | *[aĉeti]* |
 | *punkto* | **puncto** *[punkto]* | *[punto]* |
-| | | |
-| *difini* | **defini** *[defini]* | *[difini]* |
-| *ripeti* | **repeti** *[repeti]* | *ripeti]* |
 
 #### Hispana
 
@@ -387,7 +386,7 @@ Prepoziciaĵoj finiĝas je **-ał** *[aŭ]*.
 | *dika* | **grossa** *[grosa]* |
 | *diri* | **diqŭi** *[diki]* |
 | *dolĉa* | **dulĉa** *[dulĉa]* |
-| *donaco* | **donatio** *[donasio]* |
+| *donaco* | **donatīo** *[donasio]* |
 | *eĉ* | **et** *[et]* |
 | *eksplodi* | **ex̂plodi** *[esplodi]* |
 | *esperi* | **speri** *[speri]* |
@@ -454,9 +453,7 @@ Prepoziciaĵoj finiĝas je **-ał** *[aŭ]*.
 |-|-|
 | *anstataŭ* | **anŝtattał** *[anŝtataŭ]* |
 | *forgesi* | **forgŭetti**/**fergŭessi** *[forgeti]*/*[fergesi]* |
-| *hajlo* | **haglo** *[haglo]* |
 | *hejmo* | **haimo** *[hajmo]* |
-| *najlo* | **naglo** *[naglo]* |
 | *pregi* | **prêgi** = **praigŭi** *[prajgi]* |
 | *ŝati* | **shatţi** = **shatsi** *[ŝaci]* |
 | *ŝpruci* | **ŝpritţi** = **ŝpritsi** *[ŝprici]* |
