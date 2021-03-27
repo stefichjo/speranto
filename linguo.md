@@ -360,6 +360,13 @@ Originaj adverboj finiĝas je **-ô** *[aŭ]*.
 |-|-|-|
 | *kiel* | **kiel** *[kiel]* | *[kjel]* |
 
+Kaj la unu-nombra kaj la multe-nombra formo de la difina artikolo estas **la**.
+
+| | |
+|-|-|
+| *la domo* | **la domo** *[la domo]* |
+| *la domoj* | **la domoi** *[la domoj]* |
+
 Por eviti konfuzon kun la pronomo **si** *[si]*, uziĝas la pronomo **vi** *[vi]* anstataŭ **tī** *[si]*.
 
 | | |
