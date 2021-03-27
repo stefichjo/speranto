@@ -19,16 +19,17 @@ En tiu ĉi fikcia akĉenta, dialekta kaj lingva kontinuo, ***Esperanton*** bazi�
 
 | ***Esperanto*** |
 |-|
-| **Se ni eĉ supozos, ke la fina lingvo de la estontaj generacioj estas ne Esperanto, en ĉia okazo la vojo al tiu ellaborota lingvo nepre devas konduki tra Esperanto.** |
+| **Sï ni eĉ supposos, qŭe la fina linguo de la s̈tontai generatīoi s̈tas ne S̈peranto, ïn chia occaso la vĩo al tiu ellav̄orota linguo nepre devas conduqŭi tra S̈peranto.** |
+| *[Se ni eĉ supozos, ke la fina lingvo de la estontaj generacioj estas ne Esperanto, en ĉia okazo la vojo al tiu ellaborota lingvo nepre devas konduki tra Esperanto.]* |
 
 | ***Speranto*** / ***Lingvoo (Slav-Ĝermane)*** |
 |-|
-| **Sï ni et supposos, qŭe la fina linguo de la essontai generatioi essas ne Speranto, ïn chia occaso la vĩo al tiu ellavorota linguo nepre devas conduqŭi tra Speranto.** |
+| **Sï ni et supposos, qŭe la fina linguo de la essontai generatīoi essas ne Speranto, ïn chia occaso la vĩo al tiu ellavorota linguo nepre devas conduqŭi tra Speranto.** |
 | *[Se ni et supozos, ke la fina lingvo de la esontaj generacioj esas ne Speranto, en ĉia okazo la vojo al tiu ellavorota lingvo nepre devas konduki tra Speranto.]* |
 
 | ***Lingvoo*** |
 |-|
-| **Sï ni et supposos, qŭe la fina linguo de la essontai generatioi essas ne Speranto, ïn chia occaso la vĩo al tiu ellavorota linguo nepre devas conduqŭi tra Speranto.** |
+| **Sï ni et supposos, qŭe la fina linguo de la essontai generatīoi essas ne Speranto, ïn chia occaso la vĩo al tiu ellavorota linguo nepre devas conduqŭi tra Speranto.** |
 | *[Se ni et supozos, ke la fina lingŭo de la esontaj ĝenerasioj esas ne Speranto, en ĉia okazo la vojo al tiu ellavorota lingŭo nepre devas konduki tra Speranto.]* |
 
 | ***Lingveo*** |
