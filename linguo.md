@@ -171,6 +171,7 @@ Fremdaj vortoj povas eniri ***Lingvoon*** laŭ ilia origina ortografio.
 | *tuŝi* | **tǒçci** = **tuçci** *[tuŝi]* |
 | *ĉielo* | **çẽlo** = **çielo** *[sielo]* |
 | *tuta* | **tǒta** = **tuta** *[tuta]* |
+| *venĝi* | **vïndĭci** *[venĵi]* |
 | *vojo* | **vĩo** = **voyo** *[vojo]* |
 | | |
 | *lundo* | **lunĕdıo** = **lundo** *[lundo]* |
@@ -445,6 +446,7 @@ Prepoziciaĵoj finiĝas je **-ał** *[aŭ]*.
 | *pejzaĝo* | **pêsatĭco** = **paisaĵo** *[pajzaĵo]* |
 | *precipe* | **prïnçipe** *[prensipe]* |
 | *radio* *(energio)* | **radĭo** = **raĵo** *[raĵo]* |
+| *sango* | **sanguo** *[sangŭo]* |
 | *stadio* *(fazo)* | **stadĭo** *[staĵo]* |
 | *stranga* | **ex̂tranĭa** *[estraṇa]* |
 | *ŝanĝo* | **çhanĵo** *[ŝanĵo]* |
