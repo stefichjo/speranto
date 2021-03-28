@@ -24,7 +24,7 @@ La ***Lingvaa*** ŝajnsufikso **-atĭc-** fariĝas **aĵ** *[aĵ]*.
 
 | | |
 |-|-|
-| *avantaĝo* | **avantatĭco** = **avantaĵo** *[avantaĵo]* |
+| *avantaĝo* | **avantatĭco** *[avantaĵo]* |
 
 ### c, g
 
@@ -92,10 +92,11 @@ Voĉaj konsonantoj kun **ĭ** en ***Latinidaj*** vortoj prononciĝas *[ĵ]*.
 
 | | |
 |-|-|
-| *kaĝo* | **cavĭo** = **caĵo** *[kaĵo]* |
-| *neĝo* | **nïvĭo** = **neĵo** *[neĵo]* |
-| *ruĝa* | **ruvĭa** = **ruĵa** *[ruĵa]* |
-| *seĝo* | **sedĭo** = **seĵo** *[seĵo]* |
+| *kaĝo* | **cavĭo** *[kaĵo]* |
+| *neĝo* | **nïvĭo** *[neĵo]* |
+| *plaĝo* | **plagĭo** *[plaĵo]* |
+| *ruĝa* | **ruvĭa** *[ruĵa]* |
+| *seĝo* | **sedĭo** *[seĵo]* |
 
 ### ł, sc
 
@@ -103,14 +104,16 @@ En prepoziciaĵoj, **al** fariĝas **-ał** *[aŭ]*.
 
 | | |
 |-|-|
-| *vice al* | **viĉał** = **viĉau** *[viĉaŭ]* |
+| *vice al* | **viĉał** *[viĉaŭ]* |
 
-Anstataŭ *[sĉ]*, prononciĝas *[ŝ]*.
+Komence de la (ŝajn-)radiko, prononciĝas *[ŝ]* anstataŭ *[sĉ]*.
 
 | | |
 |-|-|
 | *ascendi* | **ascendi** *[aŝendi]* |
 | *scienco* | **scientio** *[ŝiensjo]* |
+| | |
+| *escepto* | **ex̂cepto** *[esĉepto]* |
 
 ### ex̂-, dė-, rė-
 
@@ -118,14 +121,14 @@ La ŝajnprefiksoj **ex̂-**, **dė-** kaj **rė-** pronciĝas *[es]*, *[di]* kaj
 
 | | |
 |-|-|
-| *escepto* | **ex̂cepto** = **escepto** *[esĉepto]* |
-| *esplori* | **ex̂plori** = **esplori** *[esplori]* |
+| *eskapi* | **ex̂capi** *[eskapi]* |
+| *esplori* | **ex̂plori** *[esplori]* |
 | | |
-| *difini* | **dėfini** = **difini** *[difini]* |
-| *difekto* | **dėfekto** = **difekto** *[difekto]* |
+| *difini* | **dėfini** *[difini]* |
+| *difekto* | **dėfekto** *[difekto]* |
 | | |
-| *rigardi* | **rėgardi** = **rigardi** *[rigardi]* |
-| *rilato* | **rėlato** = **rilato** *[rilato]* |
+| *rigardi* | **rėgardi** *[rigardi]* |
+| *rilato* | **rėlato** *[rilato]* |
 
 ### Fremdaj Vortoj
 
@@ -144,41 +147,41 @@ Fremdaj vortoj povas eniri ***Lingvoon*** laŭ ilia origina ortografio.
 |-|-|
 | *akiri* | **aqŭiri** *[akiri]* |
 | *averaĝo* | **aväratĭco** *[averaĵo]* |
-| *bieno* | **bẽno** = **bieno** *[bieno]* |
+| *bieno* | **bẽno** *[bieno]* |
 | *ĉambro* | **çhamĕro** = **çhambro** *[ŝambro]* |
 | *ĉe* | **çhä** = **çhe** *[ŝe]* |
 | *ĉemizo* | **çhämisĭo** = **çhemişo** *[ŝemiĵo]* |
-| *egala* | **eq̄ŭala** = **egala** *[egala]* |
-| *-eco* | **-etĭo** = **-eso** *[eso]* |
-| *etaĝo* | **s̈tatĭco** = **etaĵo** *[etaĵo]* |
-| *fromaĝo* | **fromatĭco** = **fromaĵo** *[fromaĵo]* |
+| *egala* | **eq̄ŭala** *[egala]* |
+| *-eco* | **-etĭo** *[eso]* |
+| *etaĝo* | **s̈tatĭco** *[etaĵo]* |
+| *fromaĝo* | **fromatĭco** *[fromaĵo]* |
 | *ĝojo* | **ĝoio** *[ĝojo]* |
-| *hieraŭ* | **hẽrô** = **hierau** *[hieraŭ]*
-| *kanzono* | **canţono** = **cansono** *[kansono]* |
+| *hieraŭ* | **hẽrô** *[hieraŭ]*
+| *kanzono* | **canţono** *[kansono]* |
 | *kaŝi* | **cŏactĭi** = **caçhi** *[kaŝi]* |
-| *Marso* | **Marţo** = **Marso** *[marso]* |
+| *Marso* | **Marţo** *[marso]* |
 | *maŝino* | **maçhino** *[maŝino]* |
-| *mesaĝo* | **mïssaĵo** = **messaĵo** *[mesaĵo]* |
-| *piedo* | **pẽdo** = **piedo** *[piedo]* |
+| *mesaĝo* | **mïssaĵo** *[mesaĵo]* |
+| *piedo* | **pẽdo** *[piedo]* |
 | *rojo* | **rĩo** = **royo** *[rojo]* |
-| *semajno* | **semêno** = **semaino** *[semajno]* |
+| *semajno* | **semêno** *[semajno]* |
 | *sojlo* | **solĭo** *[soḷo]* |
-| *sonĝo* | **somnĭo** = **sonĵo** *[sonĵo]* |
+| *sonĝo* | **somnĭo** *[sonĵo]* |
 | *ŝanco* | **çhadĕntĭo** = **çhanço** *[ŝanso]* |
 | *ŝanĝo* | **çhambĭo** = **çhanĵo** *[ŝanĵo]* |
 | *trajno* | **trêno** = **traino** *[trajno]* |
 | *tranĉi* | **trançi** *[tranŝi]* |
 | *tuŝi* | **tǒçci** = **tuçci** *[tuŝi]* |
 | *ĉielo* | **çẽlo** = **çielo** *[sielo]* |
-| *tuta* | **tǒta** = **tuta** *[tuta]* |
+| *tuta* | **tǒta** *[tuta]* |
 | *venĝi* | **vïndĭci** *[venĵi]* |
 | *vojo* | **vĩo** = **voyo** *[vojo]* |
 | | |
-| *lundo* | **lunĕdıo** = **lundo** *[lundo]* |
-| *mardo* | **martĕdıo** = **mardo** *[mardo]* |
-| *merkredo* | **merkŭredıo** = **merkredo** *[merkredo]* |
-| *ĵaŭdo* | **ĵũvĕdıo** = **ĵaudo** *[ĵaŭdo]* |
-| *vendredo* | **venĕredıo** = **vendredo** *[vendredo]* |
+| *lundo* | **lunĕdıo** *[lundo]* |
+| *mardo* | **martĕdıo** *[mardo]* |
+| *merkredo* | **merkŭredıo** *[merkredo]* |
+| *ĵaŭdo* | **ĵũvĕdıo** *[ĵaŭdo]* |
+| *vendredo* | **venĕredıo** *[vendredo]* |
 
 #### Ĝermanaj Vortoj
 
@@ -188,21 +191,22 @@ Radikofina *[ti]* skribiĝas **-tȳ**.
 |-|-|
 | *ajn* | **æn** = **ain** *[ajn]* |
 | *colo* | **ţollo** = **tsollo** *[colo]* |
+| *danki* | **danki** *[danki]* |
 | *drinki* | **drinki** *[drinki]* |
-| *fajna* | **fĩna** = **faina** *[fajna]* |
-| *fajro* | **fỹro** = **fairo** *[fajro]* |
+| *fajna* | **fĩna** *[fajna]* |
+| *fajro* | **fỹro** *[fajro]* |
 | *fiŝo* | **fisho** *[fiŝo]* |
 | *fraŭlo* | **frũlo** *[fraŭlo]* |
 | *hajlo* | **haġlo** *[hajlo]* |
 | *hobio* | **hobbȳo** *[hobio]* |
 | *jaro* | **yaro** *[jaro]* |
 | *jes* | **yes** *[jes]* |
-| *kajto* | **kĩto** = **kaito** *[kajto]* |
+| *kajto* | **kĩto** *[kajto]* |
 | *lando* | **lando** *[lando]* |
 | *lasi* | **lassi** *[lasi]* |
 | *najlo* | **naġlo** *[najlo]* |
 | *partio* | **partȳo** *[partio]* |
-| *ŝajni* | **shĩni** = **shaini** *[ŝajni]* |
+| *ŝajni* | **shĩni** *[ŝajni]* |
 | *ŝipo* | **shippo** *[ŝipo]* |
 | *ŝnuro* | **ŝnuro** *[ŝnuro]* |
 | *ŝraŭbo* | **shraubo** *[ŝraŭbo]* |
@@ -210,7 +214,7 @@ Radikofina *[ti]* skribiĝas **-tȳ**.
 | *ŝtato* | **ŝtato** *[ŝtato]* |
 | *ŝuo* | **shuo** *[ŝuo]* |
 | *tago* | **tago** *[tago]* |
-| *tajdo* | **tĩdo** = **taido** *[tajdo]* |
+| *tajdo* | **tĩdo** *[tajdo]* |
 | *trinki* | **trinki** *[trinki]* |
 | *varma* | **warma** *[ŭarma]* |
 | *vorto* | **worto** *[ŭorto]* |
@@ -320,6 +324,15 @@ Greka **ch** *[k]* pronciĝas *[ĥ]*.
 | | | |
 | *hodiaŭ* | **hodĭô** *[hoĵaŭ]* | *[hoĵe]* |
 
+| | ital-rumane | franc-portugale | hispane |
+|-|-|-|-|
+| *centro* | *[ĉentro]* | *[sentro]* | *[θentro]* |
+| *prononco* | *[pronunĉjo]* | *[pronunsjo]* | *[pronunθjo]* |
+| | | | |
+| *ĝentila* | *[ĝentila]* | *[ĵentila* | *[ĥentila]* |
+| *mesaĵo* | *[mesaĝo]* | *[mesaĵo]* | *[mesaĥo]* |
+| *ĵus* | *[ĝus]* | *[ĵus]* | *[ĥus]* |
+
 #### Itala
 
 | | | itale |
@@ -332,12 +345,6 @@ Greka **ch** *[k]* pronciĝas *[ĥ]*.
 | | | hispane |
 |-|-|-|
 | *filo* | **filĭo** *[fiḷo]* | *[hiĥo]* |
-
-#### Franca
-
-| | | france |
-|-|-|-|
-| *ĵus* | *jus* *[ĥus]* | *[ĵus]* |
 
 ## Gramatiko
 
@@ -416,6 +423,7 @@ Prepoziciaĵoj finiĝas je **-ał** *[aŭ]*.
 | *pordo* | **porṯo** = **pordo** *[pordo]* |
 | *povi* | **possi** *[posi]* |
 | *preĝi* | **pregŭi** *[pregi]* |
+| *prononci* | **pronuntii** *[pronunsji]* |
 | *radio* *(signalo)* | **radio** *[radjo]* |
 | *saŭco* | **salso** *[salso]* |
 | *savi* | **salvi** *[salvi]* |
@@ -435,7 +443,7 @@ Prepoziciaĵoj finiĝas je **-ał** *[aŭ]*.
 | *aero* | **êro** = **airo** *[ajro]* |
 | *aĝo* | **eṯatĭco** *[edaĵo]* |
 | *ajlo* | **alĭo** *[aḷo]* |
-| *apogi* | **appodĭi** = **appoĵi** *[apoĵi]* |
+| *apogi* | **appodĭi** *[apoĵi]* |
 | *ĉasi* | **çhaptĭi** = **çhassi** *[ŝasi]* |
 | *-ec-* | **-etĭ-** *[esj]* |
 | *familio* | **familĭo** *[famiḷo]* |
@@ -443,9 +451,9 @@ Prepoziciaĵoj finiĝas je **-ał** *[aŭ]*.
 | *folio* | **folĭo** *[foḷo]* |
 | *kojno* | **cunĭo** *[kuṇo]* |
 | *mensogi* | **menţonĭi** *[mensonĵi]* |
-| *pejzaĝo* | **pêsatĭco** = **paisaĵo** *[pajzaĵo]* |
+| *pejzaĝo* | **pêsatĭco** *[pajzaĵo]* |
 | *precipe* | **prïnçipe** *[prensipe]* |
-| *radio* *(energio)* | **radĭo** = **raĵo** *[raĵo]* |
+| *radio* *(energio)* | **radĭo** *[raĵo]* |
 | *sango* | **sanguo** *[sangŭo]* |
 | *stadio* *(fazo)* | **stadĭo** *[staĵo]* |
 | *stranga* | **ex̂tranĭa** *[estraṇa]* |
@@ -463,7 +471,7 @@ Prepoziciaĵoj finiĝas je **-ał** *[aŭ]*.
 | *anstataŭ* | **anŝtattał** *[anŝtataŭ]* |
 | *forgesi* | **forgŭetti**/**fergŭessi** *[forgeti]*/*[fergesi]* |
 | *hejmo* | **haimo** *[hajmo]* |
-| *pregi* | **prêgi** = **praigŭi** *[prajgi]* |
+| *pregi* | **prêgŭi** = **praigŭi** *[prajgi]* |
 | *ŝati* | **shatţi** = **shatsi** *[ŝaci]* |
 | *ŝpruci* | **ŝpritţi** = **ŝpritsi** *[ŝprici]* |
 

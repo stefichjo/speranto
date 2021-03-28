@@ -122,7 +122,7 @@ Nomoj kaj terminoj konservas sian specifan *nominativan* formon. Por personaj no
 | *datumoj* | **data** |
 | *dato* | **datum** |
 | *statuso* | **status** |
-|-|-|
+| | |
 | *Juliuso* | **Ĭulĭo** = **Iulio** *[iuli-o]* |
 | *Julia* | **Ĭulĭa** = **Iulia** *[iuli-a]* |
 
