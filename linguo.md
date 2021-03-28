@@ -322,15 +322,15 @@ Greka **ch** *[k]* pronciĝas *[ĥ]*.
 | *oro* | **auro** *[aŭro]* | *[oro]* |
 | *povra* | **pauvra** *[paŭvra]* | *[povra]* |
 | | | |
-| *hodiaŭ* | **hodĭô** *[hoĵaŭ]* | *[hoĵe]* |
+| *hodiaŭ* | **hodĭô** *[hoĵaŭ]* | *[oĵe]* |
 
 | | ital-rumane | franc-portugale | hispane |
 |-|-|-|-|
 | *centro* | *[ĉentro]* | *[sentro]* | *[θentro]* |
 | *prononco* | *[pronunĉjo]* | *[pronunsjo]* | *[pronunθjo]* |
 | | | | |
-| *ĝentila* | *[ĝentila]* | *[ĵentila* | *[ĥentila]* |
-| *mesaĵo* | *[mesaĝo]* | *[mesaĵo]* | *[mesaĥo]* |
+| *ĝentila* | *[ĝentila]* | *[ĵentila]* | *[ĥentila]* |
+| *mesaĝo* | *[mesaĝo]* | *[mesaĵo]* | *[mesaĥo]* |
 | *ĵus* | *[ĝus]* | *[ĵus]* | *[ĥus]* |
 
 #### Itala
@@ -344,7 +344,7 @@ Greka **ch** *[k]* pronciĝas *[ĥ]*.
 
 | | | hispane |
 |-|-|-|
-| *filo* | **filĭo** *[fiḷo]* | *[hiĥo]* |
+| *ajlo* | **alĭo** *[aḷo]* | *[aĥo]* |
 
 ## Gramatiko
 
