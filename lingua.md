@@ -369,7 +369,28 @@ Por la imperativo, uziĝas la prezenca formo.
 
 | | |
 |-|-|
-| **vidu!** | **vide!** |
+| *parolu!* | **parla!** |
+| *vidu!* | **vide!** |
+| *aŭdu!* | **audi!** |
+
+#### Volitivo
+
+| | |
+|-|-|
+| *vi parolu* | **tu parle** |
+| *vi vidu* | **tu vida** |
+| *vi aŭdu* | **tu auda** |
+
+* venire: venim, venis, venit; veniam, venias, veniat
+* facïre: facim, facis, facit; faciam, facias, faciat
+* videre: videm, vides, videt; videam, videas, videat
+* habere: habem, habes, habet; habeam, habeas, habeat
+* docere: docem, doces, docet; doceam, doceas, doceat
+* dicĕre: dicem, dices, dicet; dicam, dicas, dicat
+* amare: amam, amas, amat; amem, ames, amet
+
+* supponĕre: supponem, suppones, supponet; supponam, supponas, supponat
+  * supponïre: supponim, supponis, supponit; supponiam, supponias, supponiat
 
 #### Aspektoj
 

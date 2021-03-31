@@ -39,10 +39,10 @@ En tiu ĉi fikcia akĉenta, dialekta kaj lingva kontinuo, ***Esperanton*** bazi�
 
 | ***Lingvao*** |
 |-|
-| **Si nos et suppone, ce la lingua finale de las futuras generationes esse no Sperante, in omna occasione la via ad li elaborenda lingua infallibilemente debe conducĕre tra Sperante.** |
-| *[Si nos et suppone, ke la lingu-a finale de las futuras generationes esse no Sperante, in omna okkasione la via ad li elaborenda lingu-a infallibilemente debe konduke-re tra Sperante.]* |
+| **Si nos et supponerē, ce la lingua finale de las futuras generationes esse no Sperante, in omna occasione la via ad li elaborenda lingua infallibilemente debe conducĕre tra Sperante.** |
+| *[Si nos et supponere', ke la lingu-a finale de las futuras generationes esse no Sperante, in omna okkasione la via ad li elaborenda lingu-a infallibilemente debe konduke-re tra Sperante.]* |
 
 | ***Lingvao (poezie)*** |
 |-|
-| **Si et supponeremus la lingua finale de las futuras generationes esse no Sperante, in omna occasione la via ad li elaborenda lingua infallibilmente debet conducĕre tra Sperante.** |
-| *[Si et supponemus la lingu-a finale de las futuras generationes esse no Sperante, in omna okkasione la via ad li elaborenda lingu-a infallibilmente debet konduke-re tra Sperante.]* |
+| **Si et supponerēmus la lingua finale de las futuras generationes esse no Sperante, in omna occasione la via ad li elaborenda lingua infallibilmente debet conducĕre tra Sperante.** |
+| *[Si et supponeremus la lingu-a finale de las futuras generationes esse no Sperante, in omna okkasione la via ad li elaborenda lingu-a infallibilmente debet konduke-re tra Sperante.]* |

@@ -311,7 +311,7 @@ Greka **ch** *[k]* pronciĝas *[ĥ]*.
 | *ĉarma* | **çharma** *[ŝarma]* | *[ĉarma]* |
 | *ĝusta* | **justa** *[ĥusta]* | *[ĝusta]* |
 | *mesaĝo* | **mïssaĵo** *[mesaĵo]* | *[mesaĝo]* |
-| *nacio* | **natio** *[nasjo]* | *[naŝo]* |
+| *nacio* | **natīo** *[nasio]* | *[naŝio]* |
 | *riĉa* | **riçha** *[riŝa]* | *[riĉa]* |
 | *serĉi* | **çïrçhi** *[serŝi]* | *[serĉi]* |
 
@@ -469,7 +469,7 @@ Prepoziciaĵoj finiĝas je **-ał** *[aŭ]*.
 | | Linguo |
 |-|-|
 | *anstataŭ* | **anŝtattał** *[anŝtataŭ]* |
-| *forgesi* | **forgŭetti**/**fergŭessi** *[forgeti]*/*[fergesi]* |
+| *forgesi* | **fergŭessi** *[fergesi]* |
 | *hejmo* | **haimo** *[hajmo]* |
 | *pregi* | **prêgŭi** = **praigŭi** *[prajgi]* |
 | *ŝati* | **shatţi** = **shatsi** *[ŝaci]* |
