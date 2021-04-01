@@ -361,36 +361,38 @@ En la kondicionalo (por ĉiuj tempoj) aldoniĝas la sufikso -**a** al la infinit
 
 | | | poezie |
 |-|-|-|
-| *mi havus* | **me haberea** | **habeream** |
+| *mi havus* | **me haberē** | **haberēm** |
 
-#### Imperativo
+#### Volitivo
 
-Por la imperativo, uziĝas la prezenca formo.
+La volitivo de verboj, kies radiko havas la ŝajnfinaĵon **-i** aŭ **-e** (akcentatan en la infinitivo), formiĝas kun la (aldona) ŝajnfinaĵo **-a**. (La akcento ne ŝanĝiĝas.)
 
 | | |
 |-|-|
-| *parolu!* | **parla!** |
-| *vidu!* | **vide!** |
-| *aŭdu!* | **audi!** |
+| *vi aŭdu* | **tu audia** |
+| *vi vidu* | **tu videa** |
 
-#### Volitivo
+La volitivo de verboj, kies radiko finiĝas je neakcentebla **-ĕ** povas konduti kiel verboj je **-i**. Tiam skribiĝas **ï** anstataŭ **ĕ** (ekzemple **facïre**). Ordinaraj verboj je neakcentebla **-ĕ** perdas sian ŝajnfinaĵon **-e** en la volitivo.
 
 | | |
 |-|-|
 | *vi parolu* | **tu parle** |
-| *vi vidu* | **tu vida** |
-| *vi aŭdu* | **tu auda** |
+| | |
+| *vi faru* | **tu facia** |
+| *vi diru* | **tu dica** |
 
-* venire: venim, venis, venit; veniam, venias, veniat
-* facïre: facim, facis, facit; faciam, facias, faciat
-* videre: videm, vides, videt; videam, videas, videat
-* habere: habem, habes, habet; habeam, habeas, habeat
-* docere: docem, doces, docet; doceam, doceas, doceat
-* dicĕre: dicem, dices, dicet; dicam, dicas, dicat
-* amare: amam, amas, amat; amem, ames, amet
+#### Imperativo
 
-* supponĕre: supponem, suppones, supponet; supponam, supponas, supponat
-  * supponïre: supponim, supponis, supponit; supponiam, supponias, supponiat
+Por la imperativo, uziĝas la prezenca formo. ***En poezio***, uziĝas la volitiva formo.
+
+| | | poezie |
+|-|-|-|
+| *amu!* | **ama!** | **ame!** |
+| *aŭdu!* | **audi!** | **audia!** |
+| *parolu!* | **parla!** | **parle!** |
+| *tenu!* | **tene!** | **tenea!** |
+| *vidu!* | **vide!** | **videa!** |
+| *venu!* | **veni!** | **venia!** |
 
 #### Aspektoj
 
