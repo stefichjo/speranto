@@ -372,14 +372,18 @@ La volitivo de verboj, kies radiko havas la ŝajnfinaĵon **-i** aŭ **-e** (akc
 | *vi aŭdu* | **tu audia** |
 | *vi vidu* | **tu videa** |
 
-La volitivo de verboj, kies radiko finiĝas je neakcentebla **-ĕ** povas konduti kiel verboj je **-i**. Tiam skribiĝas **ï** anstataŭ **ĕ** (ekzemple **facïre**). Ordinaraj verboj je neakcentebla **-ĕ** perdas sian ŝajnfinaĵon **-e** en la volitivo.
+La volitivo de verboj, kies radiko finiĝas je neakcentebla **-ĕ** povas konduti kiel verboj je **-i**. Tiam skribiĝas **ï** anstataŭ **ĕ** (ekzemple **facïre**). Ordinaraj verboj je neakcentebla **-ĕ** perdas sian ŝajnfinaĵon **-e** en la volitivo. Do, anstataŭ je **-e**, ili finiĝas je **-a** en la volitivo.
+
+| | |
+|-|-|
+| *vi faru* | **tu facia** |
+| *vi diru* | **tu dica** |
+
+La volitivo de verboj je **-a** finiĝas je **-e**.
 
 | | |
 |-|-|
 | *vi parolu* | **tu parle** |
-| | |
-| *vi faru* | **tu facia** |
-| *vi diru* | **tu dica** |
 
 #### Imperativo
 
@@ -387,12 +391,13 @@ Por la imperativo, uziĝas la prezenca formo. ***En poezio***, uziĝas la voliti
 
 | | | poezie |
 |-|-|-|
-| *amu!* | **ama!** | **ame!** |
 | *aŭdu!* | **audi!** | **audia!** |
-| *parolu!* | **parla!** | **parle!** |
-| *tenu!* | **tene!** | **tenea!** |
 | *vidu!* | **vide!** | **videa!** |
-| *venu!* | **veni!** | **venia!** |
+| | |
+| *faru!* | **face!** | **facia!** |
+| *diru!* | **dice!** | **dica!** |
+| | |
+| *parolu!* | **parla!** | **parle!** |
 
 #### Aspektoj
 
