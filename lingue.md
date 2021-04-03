@@ -20,6 +20,7 @@ La ŝajnsufiksoj **-ĭn-** kaj **-ĭt** eliziiĝas.
 | *nomo* | **nomĭne** = **nome** |
 | *limo* | **limĭte** = **lime** |
 | *lumo* | **lumĭne** = **lume** |
+| *sango* | **sanguĭne** = **sange** |
 
 ### t, d
 

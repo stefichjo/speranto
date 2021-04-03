@@ -4,10 +4,18 @@
 
 | | Linguo | Lingue | Lingua |
 |-|-|-|-|
-| *akiri* | **acqŭiri** = **aqŭiri** | **acquiru** | **acquirere** |
+| *aĉeti* | **açcĕpti** = **açhti** | **compru** | **comprare** |
+| *aero* | **êro** = **airo** | **aere** | **aere** |
+| *aĝo* | **eṯatĭco** = **edaĵo** | **etatĭce** | **etatĭco** |
+| *ajlo* | **alĭo** | **alie** | **alio** |
+| *akĉento* | **accentumo** | **accente** | **accento** |
+| *akiri* | **acqŭiri** | **acquiru** | **acquirere** |
+| *al* | **al** | **al** | **ad** |
+| *apogi* | **appodĭi** = **appoĵi** | **appodiu** | **appodiare** |
 | *averaĝo* | **aväratĭco** = **averaĵo** | **avaratĭce** | **avaratĭco** |
 | *bieno* | **bẽno** = **bieno** | | |
 | *ĉambro* | **çhamĕro** = **çhambro** | **camĕre** = **camre** | **camĕra** |
+| *ĉasi* | **çhaptĭi** = **çhassi** | **captiu** | **captiare** |
 | *ĉe* | **çhä** = **çhe** | **apud** | **apud** |
 | *ĉemizo* | **çhämisĭo** = **çhemişo** | **camisie** | **camisia** |
 | *ĉielo* | **çẽlo** = **çielo** | **cele** | **celo** |
@@ -15,6 +23,8 @@
 | *-ec-* | **-etĭ-** = **-ess-** | **-eti-** | **-eti-** |
 | *etaĝo* | **s̈tatĭco** = **etaĵo** | **statĭce** | **statĭco** |
 | *egala* | **eq̄ŭala** | **equala** | **equala** |
+| *en* | **ïn** = **en** | **ïn** = **en** | **in** |
+| *fari* | **faci** | **faĉu** | **facĕre** |
 | *fromaĝo* | **fromatĭco** | **formatĭce** | **formatĭco** |
 | *ĝojo* | **ĝoyo** | **gaudie** | **gaudia** |
 | *hieraŭ* | **hẽrô** = **hierau** | **herô** = **herau** | **heri** |
@@ -23,13 +33,25 @@
 | *kaŝi* | **cŏactĭi** = **caçhi** | **occultu** | **occultare** |
 | *Marso* | **Marţo** = **Março** | **Marte** | **Marte** |
 | *mesaĝo* | **mïssatĭco** = **messaĵo** | **missatĭce** | **missatĭco** |
+| *pejzaĝo* | **pağėn̆satĭco** = **paisaĵo** | **pağen̆satĭce** = **paesatĭce** | **pagensatĭco** |
 | *piedo* | **pẽdo** | **pede** | **pede** |
+| *precipe* | **prïnçipe** = **prensipe** | **principo** | **principalemente** |
+| *radio* *(energio)* | **radĭo** = **raĵo** | **radie** | **radio** |
 | *reĝo* | **reĝo** | **rege** | **rege** |
 | *rojo* | **rĩv̆o** = **royo** | **rive** | **rivo** |
+| *sango* | **sanguo** | **sanguĭne** = **sangue** | **sanguĭne** |
 | *semajno* | **septĭmano** = **semano** | **septimane** | **septimana** |
+| *skribi* | **scrivi** | **scrivu** | **scribĕre** |
 | *sojlo* | **solĭo** | **solie** | **solia** |
 | *sonĝi* | **somnĭi** = **sonĵi** | **somniu** | **somniare** |
+| *stranga* | **ex̂tranĭa** | **extrania** | **extrania** |
 | *ŝanĝi* | **çhambĭi** = **çhanĵi** | **cambiu** | **cambiare** |
+| *ŝargi* | **çharĭcumi** = **çharĵumi** | **carĭcu** = **cargu** | **caricare** |
+| *ŝarĝi* | **çharĭci** = **çharĵi** | **carĭcu** = **cargu** | **caricare** |
+| *stadio* *(fazo)* | **stadĭo** = **staĵo** | **stadie** | **stadio** |
+| *stadio* *(mezurunuo)* | **stadio** | **stadie** | **stadio** |
+| *tablo* | **tavlo** | **tavŭle** = **tavle** | **tabŭla** |
+| *tabulo* | **tavulo** | **tavŭle** = **tavle** | **tabŭla** |
 | *trajno* | **trağino** = **traino** | **trağine** = **traine** | **tragĭno** |
 | *tranĉi* | **trançi** | | |
 | *tuŝi* | **tǒçci** = **tuçci** | **toccu** | **tangĕre** |
@@ -42,7 +64,7 @@
 
 | | Linguo | Lingue | Lingua |
 |-|-|-|-|
-| *maŝino* | **maçhino** | **machine** | **machina** |
+| *maŝino* | **maçhino** | **machine** | **machĭna** |
 
 ## Slav-Ĝermana
 
@@ -50,12 +72,18 @@
 |-|-|-|-|-|
 | *anstataŭ* | **anŝtattał** | **viĉał** | **vicĕ al** | **vic' ad** |
 | *-ar-* | **-aṛ-** = **-ai-** | | |
+| *celo* | **ţillo** = **tsilo** | **scopo** | **scope** | **scopo** |
 | *fali* | **falli** | **cadi** | **cadu** | **cadere** |
+| *familio* | **familĭo** | **familie** | **familia** |
+| *fojno* | **fẽno** = **fieno** | **fene** | **feno** |
+| *folio* | **folĭo** | **folie** | **folia** |
 | *forgesi* | **fergŭessi** | | | |
 | *hejmo* | **hêmo** = **haimo** | **(sia) domo** | **(sia) dome** | **(sua) domo** |
 | *kaĉo* | **kaŝo** | | |
 | *kisi* | **kyssi** = **kissi** | **basĭi** | **basiu** | **basiare** |
+| *kojno* | **cunĭo** | **cunie** | **cunio** |
 | *lando* | **lando** | **pağėn̆so** = **paīso** | **pağen̆se** = **paese** | **pagense** |
+| *mensogo* | **menţonĭo** = **mençonĵo** | **mentiumnie** | **mentiumnia** |
 | *pregi* | **prêgŭi** = **praigŭi** | | | |
 | *sendi* | **sendi** | **mitti** | **mittu** | **mittĕre** |
 | *ŝati* | **shatţi** = **shatsi**| **qŭẽri** = **kieri** | **queru** | **querere** |
@@ -67,7 +95,6 @@
 
 | | Linguo |
 |-|-|
-| *akĉento* | **accentumo** *[akĉentumo]* |
 | *alia* | **altra** *[altra]* |
 | *demandi* | **dėmandi** *[dimandi]* |
 | *demokratio* | **democratīo** *[demokrasio]* |
@@ -81,7 +108,6 @@
 | *esperi* | **speri** *[speri]* |
 | *esti* *(ekzisti)* | **essi** *[esi]* |
 | *esti* *(ĉe-)* | **stadi** *[stadi]* |
-| *fari* | **faci** *[faĉi]* |
 | *farti* | **stati** *[stati]* |
 | *fermi* | **malavri** *[malavri]* |
 | *garantio* | **garantio** *[garansio]* |
@@ -104,35 +130,7 @@
 | *scii* | **savi** *[savi]* |
 | *senco* | **senso** *[senso]* |
 | *senso* | **sentumo** *[sentumo]* |
-| *skribi* | **scrivi** *[skrivi]* |
-| *stadio* *(mezurunuo)* | **stadio** *[stadjo]* |
-| *tabulo* | **tavulo** *[tavulo]* |
 | *vojaĝo* | **viatĭco** *[viaĵo]* |
-
-| | Linguo |
-|-|-|
-| *aĉeti* | **açcĕpti** = **açhti** *[aŝti]* |
-| *aero* | **êro** = **airo** *[ajro]* |
-| *aĝo* | **eṯatĭco** *[edaĵo]* |
-| *ajlo* | **alĭo** *[aḷo]* |
-| *apogi* | **appodĭi** *[apoĵi]* |
-| *ĉasi* | **çhaptĭi** = **çhassi** *[ŝasi]* |
-| *-ec-* | **-etĭ-** *[esj]* |
-| *familio* | **familĭo** *[famiḷo]* |
-| *fojno* | **fẽno** *[fieno]* |
-| *folio* | **folĭo** *[foḷo]* |
-| *kojno* | **cunĭo** *[kuṇo]* |
-| *mensogi* | **menţonĭi** *[mensonĵi]* |
-| *pejzaĝo* | **pêsatĭco** *[pajzaĵo]* |
-| *precipe* | **prïnçipe** *[prensipe]* |
-| *radio* *(energio)* | **radĭo** *[raĵo]* |
-| *sango* | **sanguo** *[sangŭo]* |
-| *stadio* *(fazo)* | **stadĭo** *[staĵo]* |
-| *stranga* | **ex̂tranĭa** *[estraṇa]* |
-| *ŝanĝo* | **çhanĵo** *[ŝanĵo]* |
-| *ŝargi* | **çharĭcumi** *[ŝargumi]* |
-| *ŝarĝi* | **çharĭcumi** *[ŝargi]* |
-| *tablo* | **tavlo** *[tavlo]* |
 
 -----
 
@@ -143,4 +141,3 @@
 | *merkredo* | **merkŭredıo** *[merkredo]* |
 | *ĵaŭdo* | **ĵũvĕdıo** *[ĵaŭdo]* |
 | *vendredo* | **venĕredıo** *[vendredo]* |
-
