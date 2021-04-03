@@ -11,6 +11,7 @@
 | *akĉento* | **accentumo** | **accente** | **accento** |
 | *akiri* | **acqŭiri** | **acquiru** | **acquirere** |
 | *al* | **al** | **al** | **ad** |
+| *alia* | **altra** | **altra** | **altra** |
 | *apogi* | **appodĭi** = **appoĵi** | **appodiu** | **appodiare** |
 | *averaĝo* | **aväratĭco** = **averaĵo** | **avaratĭce** | **avaratĭco** |
 | *bieno* | **bẽno** = **bieno** | | |
@@ -19,28 +20,62 @@
 | *ĉe* | **çhä** = **çhe** | **apud** | **apud** |
 | *ĉemizo* | **çhämisĭo** = **çhemişo** | **camisie** | **camisia** |
 | *ĉielo* | **çẽlo** = **çielo** | **cele** | **celo** |
-| *demandi* | **dėmandi** = **dimandi** | **demandu** | 
+| *demandi* | **dėmandi** = **dimandi** | **demandu** | **demandare** |
+| *demokratio* | **democratīo** | **democratīe** | **democratīa** |
+| *dependi* | **dėpendi** = **dipendi** | **dependu** | **dependĕre** |
+| *dika* | **grossa** | **grossa** | **grossa** |
+| *diri* | **diqŭi** | **dicu** | **dicĕre** |
+| *dolĉa* | **dulĉa** | **dulĉa** | **dulce** |
+| *donaco* | **donatīo** | **donatie** | **donatione** |
 | *-ec-* | **-etĭ-** = **-ess-** | **-eti-** | **-eti-** |
+| *eĉ* | **et** | **et** | **et** |
+| *eksplodi* | **ex̂plodi** = **esplodi** | **explodu** | **explodĕre** |
+| *esperi* | **speri** | **speru** | **sperare** |
+| *esti* *(ekzisti)* | **essi** | **essu** | **essĕre** |
+| *esti* *(ĉe-)* | **stadi** | **stadu** | **stare** |
 | *etaĝo* | **s̈tatĭco** = **etaĵo** | **statĭce** | **statĭco** |
 | *egala* | **eq̄ŭala** | **equala** | **equala** |
 | *en* | **ïn** = **en** | **ïn** = **en** | **in** |
 | *fari* | **faci** | **faĉu** | **facĕre** |
+| *farti* | **stati** | **statu** | **stare** |
+| *fermi* | **cludi** | **cludu** | **cludĕre** |
 | *fromaĝo* | **fromatĭco** | **formatĭce** | **formatĭco** |
+| *garantio* | **garantīo** | **garantīe** | **garantīa** |
 | *ĝojo* | **ĝoyo** | **gaudie** | **gaudia** |
 | *hieraŭ* | **hẽrô** = **hierau** | **herô** = **herau** | **heri** |
+| *implici* | **implicumi** | **implicu** | **implicare** |
+| *intenco* | **intentīo** | **intentie** | **intentione** |
+| *iri* | **vadi** | **vadu** | **vadĕre** |
+| *justa* | **justuma** | **justa** | **iusta** |
 | *kadenco* / *ŝanco* | **cadentio** / **çhadĕntĭo** = **çhanço** | **cadentie** | **cadentia** |
 | *kanzono* | **canţono** = **cançono** | **cantie** | **cantione** |
 | *kaŝi* | **cŏactĭi** = **caçhi** | **occultu** | **occultare** |
+| *labori* | **lavori** | **lavoru** | **laborare** |
+| *leciono* | **lectĭono** = **leçono** | **lectie** | **lectione** |
+| *maŝino* | **maçhino** | **machine** | **machĭna** |
 | *Marso* | **Marţo** = **Março** | **Marte** | **Marte** |
+| *mencii* | **mentīi** | **mentiu** | **mentionare** |
 | *mesaĝo* | **mïssatĭco** = **messaĵo** | **missatĭce** | **missatĭco** |
+| *oro* | **auro** | **aure** | **auro** |
 | *pejzaĝo* | **pağėn̆satĭco** = **paisaĵo** | **pağen̆satĭce** = **paesatĭce** | **pagensatĭco** |
+| *pesi* | **pesumi** | **pesu** | **pesare** |
 | *piedo* | **pẽdo** | **pede** | **pede** |
+| *pordo* | **porṯo** = **pordo** | **porte** | **porta** |
+| *povi* | **possi** | **possu** | **potere** |
 | *precipe* | **prïnçipe** = **prensipe** | **principo** | **principalemente** |
+| *preĝi* | **preqŭi** | **precu** | **precare** |
+| *prononci* | **pronuntii** | **pronuntiu** | **pronuntiare** |
 | *radio* *(energio)* | **radĭo** = **raĵo** | **radie** | **radio** |
+| *radio* *(signalo)* | **radio** | **radio** | **radio** |
 | *reĝo* | **reĝo** | **rege** | **rege** |
 | *rojo* | **rĩv̆o** = **royo** | **rive** | **rivo** |
 | *sango* | **sanguo** | **sanguĭne** = **sangue** | **sanguĭne** |
+| *saŭco* | **salso** | **salse** | **salsa** |
+| *savi* | **salvi** |  **salvu** | **salvare** |
+| *scii* | **savi** | **savu** | **sapere** |
 | *semajno* | **septĭmano** = **semano** | **septimane** | **septimana** |
+| *senco* | **senso** | **sense** | **senso** |
+| *senso* | **sentumo** | **sense** | **senso** |
 | *skribi* | **scrivi** | **scrivu** | **scribĕre** |
 | *sojlo* | **solĭo** | **solie** | **solia** |
 | *sonĝi* | **somnĭi** = **sonĵi** | **somniu** | **somniare** |
@@ -57,14 +92,9 @@
 | *tuŝi* | **tǒçci** = **tuçci** | **toccu** | **tangĕre** |
 | *tuta* | **tǒta** = **tuta** | **tota** | **tota** |
 | *venĝi* | **vïndĭci** = **venĵi** | **vindicu** | **vindicare** |
-| *vojo* | **vĩo** = **voyo** | **vie** | **via** |
 | *voĉo* | **voĉo** | **voce** | **voce** |
-
-## Greka
-
-| | Linguo | Lingue | Lingua |
-|-|-|-|-|
-| *maŝino* | **maçhino** | **machine** | **machĭna** |
+| *vojo* | **vĩo** = **voyo** | **vie** | **via** |
+| *vojaĝo* | **viatĭco** = **viaĵo** | **viatĭce** | **viatĭco** |
 
 ## Slav-Ĝermana
 
@@ -90,49 +120,6 @@
 | *ŝlimo* | **ŝlĩmo** = **ŝlaimo** | | | |
 | *ŝpruci* | **ŝprutţi** = **ŝprutsi** | | | |
 | *ŝtono* | **ŝtêno** = **ŝtaino** | **pẽtro** = **pietro** | **petre** | **petra** |
-
-#### Latinidaj Vortoj
-
-| | Linguo |
-|-|-|
-| *alia* | **altra** *[altra]* |
-| *demandi* | **dėmandi** *[dimandi]* |
-| *demokratio* | **democratīo** *[demokrasio]* |
-| *dependi* | **dėpendi** *[dipendi]* |
-| *dika* | **grossa** *[grosa]* |
-| *diri* | **diqŭi** *[diki]* |
-| *dolĉa* | **dulĉa** *[dulĉa]* |
-| *donaco* | **donatīo** *[donasio]* |
-| *eĉ* | **et** *[et]* |
-| *eksplodi* | **ex̂plodi** *[esplodi]* |
-| *esperi* | **speri** *[speri]* |
-| *esti* *(ekzisti)* | **essi** *[esi]* |
-| *esti* *(ĉe-)* | **stadi** *[stadi]* |
-| *farti* | **stati** *[stati]* |
-| *fermi* | **malavri** *[malavri]* |
-| *garantio* | **garantio** *[garansio]* |
-| *implici* | **implicumi** *[implikumi]* |
-| *intenco* | **intentio** *[intensio]* |
-| *iri* | **vadi** *[vadi]* |
-| *justa* | **justuma** *[ĥustuma]* |
-| *labori* | **lavori** *[lavori]* |
-| *leciono* | **lectiero**/**lectiono** *[leksiero]*/*[leksiono]* |
-| *mencii* | **mentīi** *[mensii]* |
-| *oro* | **aŭro** *[aŭro]* |
-| *pesi* | **pesumi** *[pezumi]* |
-| *pordo* | **porṯo** = **pordo** *[pordo]* |
-| *povi* | **possi** *[posi]* |
-| *preĝi* | **pregŭi** *[pregi]* |
-| *prononci* | **pronuntii** *[pronunsji]* |
-| *radio* *(signalo)* | **radio** *[radjo]* |
-| *saŭco* | **salso** *[salso]* |
-| *savi* | **salvi** *[salvi]* |
-| *scii* | **savi** *[savi]* |
-| *senco* | **senso** *[senso]* |
-| *senso* | **sentumo** *[sentumo]* |
-| *vojaĝo* | **viatĭco** *[viaĵo]* |
-
------
 
 | | |
 |-|-|
