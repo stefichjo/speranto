@@ -37,9 +37,12 @@
 | *etaĝo* | **s̈tatĭco** = **etaĵo** | **statĭce** | **statĭco** |
 | *egala* | **eq̄ŭala** | **equala** | **equala** |
 | *en* | **ïn** = **en** | **ïn** = **en** | **in** |
+| *familio* | **familĭo** | **familie** | **familia** |
 | *fari* | **faci** | **faĉu** | **facĕre** |
 | *farti* | **stati** | **statu** | **stare** |
 | *fermi* | **cludi** | **cludu** | **cludĕre** |
+| *fojno* | **fẽno** = **fieno** | **fene** | **feno** |
+| *folio* | **folĭo** | **folie** | **folia** |
 | *fromaĝo* | **fromatĭco** | **formatĭce** | **formatĭco** |
 | *garantio* | **garantīo** | **garantīe** | **garantīa** |
 | *ĝojo* | **ĝoyo** | **gaudie** | **gaudia** |
@@ -53,6 +56,7 @@
 | *kadenco* / *ŝanco* | **cadentio** / **çhadĕntĭo** = **çhanço** | **cadentie** | **cadentia** |
 | *kanzono* | **canţono** = **cançono** | **cantie** | **cantione** |
 | *kaŝi* | **cŏactĭi** = **caçhi** | **occultu** | **occultare** |
+| *kojno* | **cunĭo** | **cunie** | **cunio** |
 | *labori* | **lavori** | **lavoru** | **laborare** |
 | *leciono* | **lectĭono** = **leçono** | **lectie** | **lectione** |
 | *luno* | **luno** | **lune** | **luna** |
@@ -62,6 +66,7 @@
 | *Marto* | **Martĭo** = **Março** | **Martie** | **Martio** |
 | *maŝino* | **maçhino** | **machine** | **machĭna** |
 | *mencii* | **mentīi** | **mentiu** | **mentionare** |
+| *mensogo* | **menţonĭo** = **mençonĵo** | **mentiumnie** | **mentiumnia** |
 | *merkredo* | **mercuriedīo** | **mercuriedīe** | **mercuriedīe** |
 | *Merkuro* | **Mercurio** | **Mercurie** | **Mercurio** |
 | *mesaĝo* | **mïssatĭco** = **messaĵo** | **missatĭce** | **missatĭco** |
@@ -112,20 +117,16 @@
 
 | | Speranto | Linguo | Lingue | Lingua |
 |-|-|-|-|-|
+| *ajn* | **ên** = **ain** | **ali-** | **ali-** | **ali-** |
 | *anstataŭ* | **anŝtattał** | **viĉał** | **vicĕ al** | **vic' ad** |
 | *-ar-* | **-aṛ-** = **-ai-** | | |
 | *celo* | **ţillo** = **tsilo** | **scopo** | **scope** | **scopo** |
 | *fali* | **falli** | **cadi** | **cadu** | **cadere** |
-| *familio* | **familĭo** | **familie** | **familia** |
-| *fojno* | **fẽno** = **fieno** | **fene** | **feno** |
-| *folio* | **folĭo** | **folie** | **folia** |
 | *forgesi* | **fergŭessi** | | | |
 | *hejmo* | **hêmo** = **haimo** | **(sia) domo** | **(sia) dome** | **(sua) domo** |
 | *kaĉo* | **kaŝo** | | |
 | *kisi* | **kyssi** = **kissi** | **basĭi** | **basiu** | **basiare** |
-| *kojno* | **cunĭo** | **cunie** | **cunio** |
 | *lando* | **lando** | **pağėn̆so** = **paīso** | **pağen̆se** = **paese** | **pagense** |
-| *mensogo* | **menţonĭo** = **mençonĵo** | **mentiumnie** | **mentiumnia** |
 | *pregi* | **prêgŭi** = **praigŭi** | | | |
 | *sendi* | **sendi** | **mitti** | **mittu** | **mittĕre** |
 | *ŝati* | **shatţi** = **shatsi**| **qŭẽri** = **qŭieri** | **queru** | **querere** |
@@ -135,10 +136,9 @@
 | *tago* | **tago** | **dīo** | **dīe** | **dīe** |
 | *tago* *(de la semajno)* | **-edīo** | **-edīe** | **-edīe** |
 
-| | |
-|-|-|
-| *ajn* | **ên** = **ain** *[ajn]* |
-| *colo* | **ţollo** = **tsollo** *[colo]* |
+| | | | | |
+|-|-|-|-|-|
+| *colo* | **ţollo** = **tsollo** |
 | *danki* | **danki** *[danki]* |
 | *drinki* | **drinki** *[drinki]* |
 | *fajna* | **fĩna** *[fajna]* |

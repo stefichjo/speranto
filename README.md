@@ -46,3 +46,5 @@ En tiu ĉi fikcia akĉenta, dialekta kaj lingva kontinuo, ***Esperanto*** baziĝ
 |-|
 | **Si et supponerēmus la lingua finale de las futuras generationes esse no Sperante, in omna occasione la via ad li elaborenda lingua infallibilmente debet conducĕre tra Sperante.** |
 | *[Si et supponeremus la lingu-a finale de las futuras generationes esse no Sperante, in omna okkasione la via ad li elaborenda lingu-a infallibilmente debet konduke-re tra Sperante.]* |
+
+[L. Zamenhof](https://tekstaro.com/t?nomo=reformoj-esperanto)
