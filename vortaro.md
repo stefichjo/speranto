@@ -46,7 +46,7 @@
 | *fromaĝo* | **fromatĭco** | **formatĭce** | **formatĭco** |
 | *garantio* | **garantīo** | **garantīe** | **garantīa** |
 | *ĝojo* | **ĝoyo** | **gaudie** | **gaudia** |
-| *hieraŭ* | **hẽrô** = **hierau** | **herô** = **herau** | **heri** |
+| *hieraŭ* | **hẽrô** = **hierau** | **herǒ** = **heru** | **heri** |
 | *implici* | **implicumi** | **implicu** | **implicare** |
 | *intenco* | **intentīo** | **intentie** | **intentione** |
 | *iri* | **vadi** | **vadu** | **vadĕre** |

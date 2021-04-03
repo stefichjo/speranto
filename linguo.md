@@ -263,11 +263,11 @@ Adverboj finiĝas je **-e**.
 |-|-|
 | *bone* | **bone** *[bone]* |
 
-Originaj adverboj finiĝas je **-ô** *[aŭ]*.
+Originaj adverboj finiĝas je **-ô** *[aŭ]*. ***En poezio***, ili povas finiĝi je **-ö** *[e]*.
 
-| | |
-|-|-|
-| *baldaŭ* | **baldô** *[baldaŭ]* |
+| | | (poezie) |
+|-|-|-|
+| *baldaŭ* | **baldô** *[baldaŭ]* | **baldö** *[balde]* |
 
 ***En poezio***, la **i** en korelativaj ŝajnradikoj prononciĝas *[j]*.
 

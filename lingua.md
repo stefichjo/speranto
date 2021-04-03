@@ -177,7 +177,7 @@ Uzeblas la ŝajnfinaĵo **-o** anstataŭ **-amente**.
 | *tre* | **multamente** → **multo** |
 | *nur* | **solamente** → **solo** |
 
-Original adverboj konservas sian ŝajnfinaĵon.
+Originaj adverboj konservas sian ŝajnfinaĵon.
 
 | | |
 |-|-|

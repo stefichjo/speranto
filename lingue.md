@@ -169,11 +169,11 @@ Celaj adverboj finiĝas je **-u**.
 | *hejme* | **domo** |
 | *hejmen* | **domu** |
 
-Originaj adverboj finiĝas je **-ǒ** *[u]*.
+Originaj adverboj finiĝas je **-ǒ** *[u]*. ***En poezio***, ili povas finiĝi je **-o**.
 
-| | |
-|-|-|
-| *hodiaŭ* | **hodiô** = **hodiu** *[hodju]* |
+| | | (*poezie*) |
+|-|-|-|
+| *hodiaŭ* | **hodiǒ** = **hodiu** *[hodju]* | **hodio** *[hodjo]* |
 
 ### Numeraloj
 
