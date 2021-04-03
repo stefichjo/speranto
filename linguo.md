@@ -257,11 +257,11 @@ Greka **ch** *[k]* pronciĝas *[ĥ]*.
 
 La gramatiko de ***Lingvoo*** estas sama al tiu de Esperanto.
 
-Ĉiuj adverboj finiĝas je **-e**.
+Adverboj finiĝas je **-e**.
 
 | | |
 |-|-|
-| *preskaŭ* | **presqŭe** *[preske]* |
+| *bone* | **bone** *[bone]* |
 
 Originaj adverboj finiĝas je **-ô** *[aŭ]*.
 
