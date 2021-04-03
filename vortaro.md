@@ -24,6 +24,7 @@
 | *demokratio* | **democratīo** | **democratīe** | **democratīa** |
 | *dependi* | **dėpendi** = **dipendi** | **dependu** | **dependĕre** |
 | *dika* | **grossa** | **grossa** | **grossa** |
+| *dio* | **deo** | **dee** | **deo** |
 | *diri* | **diqŭi** | **dicu** | **dicĕre** |
 | *dolĉa* | **dulĉa** | **dulĉa** | **dulce** |
 | *donaco* | **donatīo** | **donatie** | **donatione** |
@@ -46,15 +47,23 @@
 | *implici* | **implicumi** | **implicu** | **implicare** |
 | *intenco* | **intentīo** | **intentie** | **intentione** |
 | *iri* | **vadi** | **vadu** | **vadĕre** |
+| *Jupitero* | **Jůvo** = **Jovo** | **Juve** | **Iupitere** |
 | *justa* | **justuma** | **justa** | **iusta** |
+| *ĵaŭdo* | **jůvedīo** = **jovedīo** | **juvedīe** | **iupiteredīe** |
 | *kadenco* / *ŝanco* | **cadentio** / **çhadĕntĭo** = **çhanço** | **cadentie** | **cadentia** |
 | *kanzono* | **canţono** = **cançono** | **cantie** | **cantione** |
 | *kaŝi* | **cŏactĭi** = **caçhi** | **occultu** | **occultare** |
 | *labori* | **lavori** | **lavoru** | **laborare** |
 | *leciono* | **lectĭono** = **leçono** | **lectie** | **lectione** |
+| *luno* | **luno** | **lune** | **luna** |
+| *lundo* | **lunedīo** | **lunedīe** | **lunedīe** |
+| *mardo* | **martedīo** | **martedīe** | **martedīe** |
+| *Marso* | **Marto** | **Marte** | **Marte** |
+| *Marto* | **Martĭo** = **Março** | **Martie** | **Martio** |
 | *maŝino* | **maçhino** | **machine** | **machĭna** |
-| *Marso* | **Marţo** = **Março** | **Marte** | **Marte** |
 | *mencii* | **mentīi** | **mentiu** | **mentionare** |
+| *merkredo* | **mercuriedīo** | **mercuriedīe** | **mercuriedīe** |
+| *Merkuro* | **Mercurio** | **Mercurie** | **Mercurio** |
 | *mesaĝo* | **mïssatĭco** = **messaĵo** | **missatĭce** | **missatĭco** |
 | *oro* | **auro** | **aure** | **auro** |
 | *pejzaĝo* | **pağėn̆satĭco** = **paisaĵo** | **pağen̆satĭce** = **paesatĭce** | **pagensatĭco** |
@@ -76,6 +85,7 @@
 | *semajno* | **septĭmano** = **semano** | **septimane** | **septimana** |
 | *senco* | **senso** | **sense** | **senso** |
 | *senso* | **sentumo** | **sense** | **senso** |
+| *serio* | **serio** | **serie** | **seria** |
 | *skribi* | **scrivi** | **scrivu** | **scribĕre** |
 | *sojlo* | **solĭo** | **solie** | **solia** |
 | *sonĝi* | **somnĭi** = **sonĵi** | **somniu** | **somniare** |
@@ -92,6 +102,8 @@
 | *tuŝi* | **tǒçci** = **tuçci** | **toccu** | **tangĕre** |
 | *tuta* | **tǒta** = **tuta** | **tota** | **tota** |
 | *venĝi* | **vïndĭci** = **venĵi** | **vindicu** | **vindicare** |
+| *Venuso* | **Venĕro** = **Vendro** | **Venĕre** = **Venre** | **Venĕre** |
+| *vendredo* | **venĕredīo** = **vendredīo** | **venĕrdīe** = **venredīe** | **venĕredīe** |
 | *voĉo* | **voĉo** | **voce** | **voce** |
 | *vojo* | **vĩo** = **voyo** | **vie** | **via** |
 | *vojaĝo* | **viatĭco** = **viaĵo** | **viatĭce** | **viatĭco** |
@@ -120,11 +132,5 @@
 | *ŝlimo* | **ŝlĩmo** = **ŝlaimo** | | | |
 | *ŝpruci* | **ŝprutţi** = **ŝprutsi** | | | |
 | *ŝtono* | **ŝtêno** = **ŝtaino** | **pẽtro** = **pietro** | **petre** | **petra** |
-
-| | |
-|-|-|
-| *lundo* | **lunĕdıo** *[lundo]* |
-| *mardo* | **martĕdıo** *[mardo]* |
-| *merkredo* | **merkŭredıo** *[merkredo]* |
-| *ĵaŭdo* | **ĵũvĕdıo** *[ĵaŭdo]* |
-| *vendredo* | **venĕredıo** *[vendredo]* |
+| *tago* | **tago** | **dīo** | **dīe** | **dīe** |
+| *tago* *(de la semajno)* | **edīo** | **-edīe** | **-edīe** |
