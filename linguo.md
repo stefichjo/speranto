@@ -141,48 +141,6 @@ Fremdaj vortoj povas eniri ***Lingvoon*** laŭ ilia origina ortografio.
 | *fojo* | **foio** *[fojo]* |
 | *teamo* | **teamo** *[teamo]* |
 
-#### Latinidaj Vortoj
-
-| | |
-|-|-|
-| *akiri* | **aqŭiri** *[akiri]* |
-| *averaĝo* | **aväratĭco** *[averaĵo]* |
-| *bieno* | **bẽno** *[bieno]* |
-| *ĉambro* | **çhamĕro** = **çhambro** *[ŝambro]* |
-| *ĉe* | **çhä** = **çhe** *[ŝe]* |
-| *ĉemizo* | **çhämisĭo** = **çhemişo** *[ŝemiĵo]* |
-| *egala* | **eq̄ŭala** *[egala]* |
-| *-eco* | **-etĭo** *[eso]* |
-| *etaĝo* | **s̈tatĭco** *[etaĵo]* |
-| *fromaĝo* | **fromatĭco** *[fromaĵo]* |
-| *ĝojo* | **ĝoio** *[ĝojo]* |
-| *hieraŭ* | **hẽrô** *[hieraŭ]*
-| *kanzono* | **canţono** *[kansono]* |
-| *kaŝi* | **cŏactĭi** = **caçhi** *[kaŝi]* |
-| *Marso* | **Marţo** *[marso]* |
-| *maŝino* | **maçhino** *[maŝino]* |
-| *mesaĝo* | **mïssaĵo** *[mesaĵo]* |
-| *piedo* | **pẽdo** *[piedo]* |
-| *rojo* | **rĩo** = **royo** *[rojo]* |
-| *semajno* | **semêno** *[semajno]* |
-| *sojlo* | **solĭo** *[soḷo]* |
-| *sonĝo* | **somnĭo** *[sonĵo]* |
-| *ŝanco* | **çhadĕntĭo** = **çhanço** *[ŝanso]* |
-| *ŝanĝo* | **çhambĭo** = **çhanĵo** *[ŝanĵo]* |
-| *trajno* | **trêno** = **traino** *[trajno]* |
-| *tranĉi* | **trançi** *[tranŝi]* |
-| *tuŝi* | **tǒçci** = **tuçci** *[tuŝi]* |
-| *ĉielo* | **çẽlo** = **çielo** *[sielo]* |
-| *tuta* | **tǒta** *[tuta]* |
-| *venĝi* | **vïndĭci** *[venĵi]* |
-| *vojo* | **vĩo** = **voyo** *[vojo]* |
-| | |
-| *lundo* | **lunĕdıo** *[lundo]* |
-| *mardo* | **martĕdıo** *[mardo]* |
-| *merkredo* | **merkŭredıo** *[merkredo]* |
-| *ĵaŭdo* | **ĵũvĕdıo** *[ĵaŭdo]* |
-| *vendredo* | **venĕredıo** *[vendredo]* |
-
 #### Ĝermanaj Vortoj
 
 Radikofina *[ti]* skribiĝas **-tȳ**.
@@ -238,7 +196,7 @@ Radikofina *[ti]* skribiĝas **-tȳ**.
 
 ## Akĉentoj
 
-### Slav-Ĝermana
+### Slav-Ĝermane
 *(Speranto)*
 
 Palataligitaj **c** *[ĉ]* kaj **t** *[s]* prononciiĝas *[c]*.
@@ -250,6 +208,7 @@ Palataligitaj **c** *[ĉ]* kaj **t** *[s]* prononciiĝas *[c]*.
 | *koncerto* | **concerto** *[konĉerto]* | *[koncerto]* |
 | *ŝanco* | **çhanço** *[ŝanso]* | *[ŝanco]* |
 | *paco* | **paĉo** *[paĉo]*  | *[paco]* |
+| *placo* | **plaço** *[plaso]*  | *[placo]* |
 
 Palataligita **g** *[ĝ]* prononciĝas *[g]*, kaj **j** *[ĥ]* prononciĝas *[j]*.
 
@@ -302,8 +261,7 @@ Greka **ch** *[k]* pronciĝas *[ĥ]*.
 | *kemio* | **chemio** *[kemio]* | *[ĥemio]* |
 | *mekaniko* | **mechanico** *[mekaniko]* | *[meĥaniko]* |
 
-#### Angla
-
+#### Angle
 
 | | | angle |
 |-|-|-|
@@ -315,7 +273,7 @@ Greka **ch** *[k]* pronciĝas *[ĥ]*.
 | *riĉa* | **riçha** *[riŝa]* | *[riĉa]* |
 | *serĉi* | **çïrçhi** *[serŝi]* | *[serĉi]* |
 
-### Latinida
+### Latinide
 
 | | | latinide |
 |-|-|-|
@@ -333,14 +291,14 @@ Greka **ch** *[k]* pronciĝas *[ĥ]*.
 | *mesaĝo* | *[mesaĝo]* | *[mesaĵo]* | *[mesaĥo]* |
 | *ĵus* | *[ĝus]* | *[ĵus]* | *[ĥus]* |
 
-#### Itala
+#### Itale
 
 | | | itale |
 |-|-|-|
 | *akcepti* | **accepti** *[akĉepti]* | *[aĉeti]* |
 | *punkto* | **puncto** *[punkto]* | *[punto]* |
 
-#### Hispana
+#### Hispane
 
 | | | hispane |
 |-|-|-|
@@ -386,98 +344,3 @@ Prepoziciaĵoj finiĝas je **-ał** *[aŭ]*.
 | | |
 |-|-|
 | *ĉirkaŭ* | **circał** *[ĉirkaŭ]* |
-
-## Vortaro
-
-### Latina Vortaro
-
-| | Linguo |
-|-|-|
-| *akĉento* | **accentumo** *[akĉentumo]* |
-| *alia* | **altra** *[altra]* |
-| *demandi* | **dėmandi** *[dimandi]* |
-| *demokratio* | **democratio** *[demokrasio]* |
-| *dependi* | **dėpendi** *[dipendi]* |
-| *dika* | **grossa** *[grosa]* |
-| *diri* | **diqŭi** *[diki]* |
-| *dolĉa* | **dulĉa** *[dulĉa]* |
-| *donaco* | **donatīo** *[donasio]* |
-| *eĉ* | **et** *[et]* |
-| *eksplodi* | **ex̂plodi** *[esplodi]* |
-| *esperi* | **speri** *[speri]* |
-| *esti* *(ekzisti)* | **essi** *[esi]* |
-| *esti* *(ĉe-)* | **stadi** *[stadi]* |
-| *fari* | **faci** *[faĉi]* |
-| *farti* | **stati** *[stati]* |
-| *fermi* | **malavri** *[malavri]* |
-| *garantio* | **garantio** *[garansio]* |
-| *implici* | **implicumi** *[implikumi]* |
-| *intenco* | **intentio** *[intensio]* |
-| *iri* | **vadi** *[vadi]* |
-| *justa* | **justuma** *[ĥustuma]* |
-| *labori* | **lavori** *[lavori]* |
-| *leciono* | **lectiero**/**lectiono** *[leksiero]*/*[leksiono]* |
-| *mencii* | **mentīi** *[mensii]* |
-| *oro* | **aŭro** *[aŭro]* |
-| *pesi* | **pesumi** *[pezumi]* |
-| *pordo* | **porṯo** = **pordo** *[pordo]* |
-| *povi* | **possi** *[posi]* |
-| *preĝi* | **pregŭi** *[pregi]* |
-| *prononci* | **pronuntii** *[pronunsji]* |
-| *radio* *(signalo)* | **radio** *[radjo]* |
-| *saŭco* | **salso** *[salso]* |
-| *savi* | **salvi** *[salvi]* |
-| *scii* | **savi** *[savi]* |
-| *senco* | **senso** *[senso]* |
-| *senso* | **sentumo** *[sentumo]* |
-| *skribi* | **scrivi** *[skrivi]* |
-| *stadio* *(mezurunuo)* | **stadio** *[stadjo]* |
-| *tabulo* | **tavulo** *[tavulo]* |
-| *vojaĝo* | **viatĭco** *[viaĵo]* |
-
-### Latinida Vortaro
-
-| | Linguo |
-|-|-|
-| *aĉeti* | **açcĕpti** = **açhti** *[aŝti]* |
-| *aero* | **êro** = **airo** *[ajro]* |
-| *aĝo* | **eṯatĭco** *[edaĵo]* |
-| *ajlo* | **alĭo** *[aḷo]* |
-| *apogi* | **appodĭi** *[apoĵi]* |
-| *ĉasi* | **çhaptĭi** = **çhassi** *[ŝasi]* |
-| *-ec-* | **-etĭ-** *[esj]* |
-| *familio* | **familĭo** *[famiḷo]* |
-| *fojno* | **fẽno** *[fieno]* |
-| *folio* | **folĭo** *[foḷo]* |
-| *kojno* | **cunĭo** *[kuṇo]* |
-| *mensogi* | **menţonĭi** *[mensonĵi]* |
-| *pejzaĝo* | **pêsatĭco** *[pajzaĵo]* |
-| *precipe* | **prïnçipe** *[prensipe]* |
-| *radio* *(energio)* | **radĭo** *[raĵo]* |
-| *sango* | **sanguo** *[sangŭo]* |
-| *stadio* *(fazo)* | **stadĭo** *[staĵo]* |
-| *stranga* | **ex̂tranĭa** *[estraṇa]* |
-| *ŝanĝo* | **çhanĵo** *[ŝanĵo]* |
-| *ŝargi* | **çharĭcumi** *[ŝargumi]* |
-| *ŝarĝi* | **çharĭcumi** *[ŝargi]* |
-| *ŝlimo* | **ŝlaimo** *[ŝlajmo]* |
-| *ŝtono* | **ŝtaino** *[ŝtajno]* |
-| *tablo* | **tavlo** *[tavlo]* |
-
-### Ĝermana Vortaro
-
-| | Linguo |
-|-|-|
-| *anstataŭ* | **anŝtattał** *[anŝtataŭ]* |
-| *forgesi* | **fergŭessi** *[fergesi]* |
-| *hejmo* | **haimo** *[hajmo]* |
-| *pregi* | **prêgŭi** = **praigŭi** *[prajgi]* |
-| *ŝati* | **shatţi** = **shatsi** *[ŝaci]* |
-| *ŝpruci* | **ŝpritţi** = **ŝpritsi** *[ŝprici]* |
-
-### Slava Vortaro
-
-| | Linguo |
-|-|-|
-| *-ar-* | **-aṛ-** = **-ai-** *[aj]* |
-| *kaĉo* | **kaŝo** *[kaŝo]* |

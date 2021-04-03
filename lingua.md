@@ -166,9 +166,7 @@ Adjektivoj estas adverbigeblaj pere de la ŝajnfinaĵo **-mente**.
 
 | | |
 |-|-|
-| *klare* | **claramente** |
-| | |
-| *facile* | **facilmente** |
+| *facile* | **facilemente** |
 
 Uzeblas la ŝajnfinaĵo **-o** anstataŭ **-amente**.
 
@@ -261,9 +259,9 @@ La korelativo **la** kaj la numeralo **un** uziĝas kiel artikoloj. ***En poezio
 
 | | |
 |-|-|
-| *li*, *ŝi*, *ĝi*, *ri*, *ili* | **olle**, **alle**, **elle**, **ulle**, **ille** |
-| *lia*, *ŝia*, *ĝia*, *ria*, *ilia* | **olla**, **alla**, **ella**, **ulla**, **illa** |
-| *lin*, *ŝin*, *ĝin*, *rin*, *ilin* | **olli**, **alli**, **elli**, **ulli**, **illi** |
+| *li*, *ŝi*, *ri*, *ĝi*, *ili* | **olle**, **alle**, **elle**, **ulle**, **ille** |
+| *lia*, *ŝia*, *ria*, *ĝia*, *ilia* | **olla**, **alla**, **ella**, **ulla**, **illa** |
+| *lin*, *ŝin*, *rin*, *ĝin*, *ilin* | **olli**, **alli**, **elli**, **ulli**, **illi** |
 | | |
 | *oni* | **une** |
 | *onia* | **una** |

@@ -12,7 +12,7 @@ La antaŭlasta silabo estas akcentata.
 |-|-|
 | *bona* | **bona** |
 
-La ***Lingvaaj*** ŝajnsufiksoj **-ĭn-** kaj **-ĭt** eliziiĝas.
+La ŝajnsufiksoj **-ĭn-** kaj **-ĭt** eliziiĝas.
 
 | | |
 |-|-|
@@ -37,7 +37,7 @@ Kiam **t** estas prononcata *[t]* antaŭ radikofina **-i**, ĝi portas makronon.
 |-|-|
 | *besto* | **best̄ie** = **bestie** *[bestje]* |
 
-La ***Lingvaa*** ŝajnsufikso **-atĭc-** prononciĝas *[aðj]*.
+La ŝajnsufikso **-atĭc-** prononciĝas *[aðj]*.
 
 | | |
 |-|-|
@@ -63,7 +63,8 @@ Kiam **c** kaj **g** estas prononcataj *[k]* kaj *[g]* antaŭ **-e** kaj **-i**,
 | *amiko* | **amic̄e** *[amike]* |
 | *fungo* | **funḡe** *[funge]* |
 | | |
-| *plaĉa* | **plaça** *[placa]* |
+| *paca* | **paĉa** *[paca]* |
+| *leĝa* | **leĝa** *[ledza]* |
 
 ### i, u
 
@@ -148,8 +149,8 @@ Adjektivoj finiĝas je **-a**.
 
 | | |
 |-|-|
-| *bona* | **bona** *[bona]* |
-| *bonaj* | **bonas** *[bonas]* |
+| *bona* | **bona** |
+| *bonaj* | **bonas** |
 
 ### Adverboj
 
@@ -157,8 +158,8 @@ Adverboj finiĝas je **-o**.
 
 | | |
 |-|-|
-| *multe* | **multo** *[multo]* |
-| *nur* | **solo** *[solo]* |
+| *multe* | **multo** |
+| *nur* | **solo** |
 
 Celaj adverboj finiĝas je **-u**.
 
@@ -171,7 +172,7 @@ Originaj adverboj finiĝas je **-ô** *[aŭ]*.
 
 | | |
 |-|-|
-| *hodiaŭ* | **hodiô** *[hodjaŭ]* |
+| *hodiaŭ* | **hodiô** = **hodiau** *[hodjaŭ]* |
 
 ### Numeraloj
 
@@ -184,7 +185,7 @@ Korelativaj radikoj kombineblas kun sufiksoj.
 | | |
 |-|-|
 | *kiu* | **qui** *[kŭi]* = **quule** *[kŭule]* |
-| *kio* | **que** *[kŭe]* = **quaĵe** *[kŭaðje]* |
+| *kio* | **que** *[kŭe]* = **quatĭce** *[kŭaðje]* |
 | *kia*, *kiu* | **qua** *[kŭa]* = **quetia** *[kŭeθja]*, **quula** *[kŭula]* |
 | *kie* | **quo** *[kŭo]* = **queio** *[kŭejo]* |
 | *kien* | **quu** *[kŭu]* |
@@ -200,11 +201,11 @@ La negaj korelativoj havas la ŝajnprefikson **non-**. La indikaj korelativoj ha
 
 | | |
 |-|-|
-| *neniu* | **noni** *[noni]* |
-| *tiu* | **ti** *[ti]* |
+| *neniu* | **noni** |
+| *tiu* | **ti** |
 | | |
-| *ĉiu* | **omni** *[omni]* |
-| *iu* | **uni** *[uni]* |
+| *ĉiu* | **omni** |
+| *iu* | **uni** |
 
 ### Artikoloj
 
@@ -226,16 +227,16 @@ Ne estas ne-difina artikolo.
 
 | | |
 |-|-|
-| *li(n)*, *ŝi(n)*, *ĝi(n)*, *ri(n)*, *ili(n)* | **olli**, **alli**, **elli**, **ulli**, **illi** |
-| *lia*, *ŝia*, *ĝia*, *ria*, *ilia* | **ollia**, **allia**, **ullia**, **ellia**, **illia** |
+| *li(n)*, *ŝi(n)*, *ri(n)*, *ĝi(n)*, *ili(n)* | **olli**, **alli**, **elli**, **ulli**, **illi** |
+| *lia*, *ŝia*, *ria*, *ĝia*, *ilia* | **ollia**, **allia**, **ullia**, **ellia**, **illia** |
 | | |
 | *oni(n)* | **uni** |
 | *onia* | **unia** |
 
 | | |
 |-|-|
-| *mi(n)*, *vi(n)* | **mi**, **tī** *[ci]* |
-| *mia*, *via* | **mia**, **tīa** *[cia]* |
+| *mi(n)*, *vi(n)* | **mi**, **tī** *[θi]* |
+| *mia*, *via* | **mia**, **tīa** *[θia]* |
 | | |
 | *ni(n)*, *vi(n)* | **ni**, **vi** |
 | *nia*, *via* | **nia**, **via** |
@@ -249,7 +250,7 @@ Infinitivoj finiĝas je **-u**.
 
 | | |
 |-|-|
-| *vidi* | **vidu** *[vidu]* |
+| *vidi* | **vidu** |
 
 Verboj finiĝas je **-n** kaj havas tempan vokalismon.
 
@@ -263,17 +264,18 @@ La volitiva kaj kondicionala vokaloj estas **e** kaj **u**.
  
 | | |
 |-|-|
-| *vidu!* | **viden!** *[viden]* |
-| *ke vi vidu* | **que vi viden** *[ke vi viden]* |
-| *se vi vidus* | **sï vi vidun** *[se vi vidun]* |
+| *vidu!* | **viden!** |
+| *ke vi vidu* | **c̄e vi viden** |
+| *se vi vidus* | **sï vi vidun** |
 
 La radiko de (latin(id)a) verbo estas tiu de la unua persono en ununombro.
 
 | | |
 |-|-|
-| *mi legas* | **mi legan** |
 | *mi kondukas* | **mi conducan** |
-| *mi plaĉas* | **mi plaçan** |
+| *mi legas* | **mi legan** |
+| *mi plaĉas* | **mi plaĉan** *[mi placan]* |
+| *mi povas* | **mi possan** |
 
 ***En poezio***, la verboj **stadu**, **statu** kaj **staru** perdas siajn ŝajnfinaĵojn **-ad-**, **-at-** kaj **-ra-**.
 
