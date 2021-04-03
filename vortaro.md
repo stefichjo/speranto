@@ -128,9 +128,54 @@
 | *mensogo* | **menţonĭo** = **mençonĵo** | **mentiumnie** | **mentiumnia** |
 | *pregi* | **prêgŭi** = **praigŭi** | | | |
 | *sendi* | **sendi** | **mitti** | **mittu** | **mittĕre** |
-| *ŝati* | **shatţi** = **shatsi**| **qŭẽri** = **kieri** | **queru** | **querere** |
+| *ŝati* | **shatţi** = **shatsi**| **qŭẽri** = **qŭieri** | **queru** | **querere** |
 | *ŝlimo* | **ŝlĩmo** = **ŝlaimo** | | | |
 | *ŝpruci* | **ŝprutţi** = **ŝprutsi** | | | |
 | *ŝtono* | **ŝtêno** = **ŝtaino** | **pẽtro** = **pietro** | **petre** | **petra** |
 | *tago* | **tago** | **dīo** | **dīe** | **dīe** |
-| *tago* *(de la semajno)* | **edīo** | **-edīe** | **-edīe** |
+| *tago* *(de la semajno)* | **-edīo** | **-edīe** | **-edīe** |
+
+| | |
+|-|-|
+| *ajn* | **ên** = **ain** *[ajn]* |
+| *colo* | **ţollo** = **tsollo** *[colo]* |
+| *danki* | **danki** *[danki]* |
+| *drinki* | **drinki** *[drinki]* |
+| *fajna* | **fĩna** *[fajna]* |
+| *fajro* | **fỹro** *[fajro]* |
+| *fiŝo* | **fisho** *[fiŝo]* |
+| *fraŭlo* | **frũlo** *[fraŭlo]* |
+| *hajlo* | **haġlo** *[hajlo]* |
+| *hobio* | **hobbȳo** *[hobio]* |
+| *jaro* | **yaro** *[jaro]* |
+| *jes* | **yes** *[jes]* |
+| *kajto* | **kĩto** *[kajto]* |
+| *lando* | **lando** *[lando]* |
+| *lasi* | **lassi** *[lasi]* |
+| *najlo* | **naġlo** *[najlo]* |
+| *ŝajni* | **shĩni** *[ŝajni]* |
+| *ŝipo* | **shippo** *[ŝipo]* |
+| *ŝnuro* | **ŝnuro** *[ŝnuro]* |
+| *ŝraŭbo* | **shraubo** *[ŝraŭbo]* |
+| *ŝtalo* | **ŝtalo** *[ŝtalo]* |
+| *ŝtato* | **ŝtato** *[ŝtato]* |
+| *ŝuo* | **shuo** *[ŝuo]* |
+| *tago* | **tago** *[tago]* |
+| *tajdo* | **tĩdo** *[tajdo]* |
+| *trinki* | **trinki** *[trinki]* |
+| *varma* | **warma** *[ŭarma]* |
+| *vorto* | **worto** *[ŭorto]* |
+| | |
+| *-ar-* | **ar** |
+| *caro* | **ţaro** = **tsaro** *[caro]* |
+| *ĉu* | **chu** *[ĉu]* |
+| *ĉiu* | **chiu** *[ĉiu]* |
+| *ekrano* | **ekrano** *[ekrano]* |
+| *kolbaso* | **kolbas̄o** *[kolbaso]* |
+| *koŝmaro* | **koŝmaro** *[koŝmaro]* |
+| *krom* | **krom** *[krom]* |
+| *mal-* | **mal-** *[mal]* |
+| *nepre* | **nepre** *[nepre]* |
+| *prava* | **prava** *[prava]* |
+| *pri* | **pri** *[pri]* |
+
