@@ -132,7 +132,7 @@ La ŝajnprefiksoj **ex̂-**, **dė-** kaj **rė-** pronciĝas *[es]*, *[di]* kaj
 
 ### Fremdaj Vortoj
 
-Fremdaj vortoj povas eniri ***Lingvoon*** laŭ ilia origina ortografio.
+Fremdaj vortoj povas eniri ***Lingvoon*** laŭ ilia origina ortografio. Radikofina *[ti]* skribiĝas **-tȳ**.
 
 | | |
 |-|-|
@@ -140,59 +140,8 @@ Fremdaj vortoj povas eniri ***Lingvoon*** laŭ ilia origina ortografio.
 | *boato* | **boato** *[boato]* |
 | *fojo* | **foio** *[fojo]* |
 | *teamo* | **teamo** *[teamo]* |
-
-#### Ĝermanaj Vortoj
-
-Radikofina *[ti]* skribiĝas **-tȳ**.
-
 | | |
-|-|-|
-| *ajn* | **æn** = **ain** *[ajn]* |
-| *colo* | **ţollo** = **tsollo** *[colo]* |
-| *danki* | **danki** *[danki]* |
-| *drinki* | **drinki** *[drinki]* |
-| *fajna* | **fĩna** *[fajna]* |
-| *fajro* | **fỹro** *[fajro]* |
-| *fiŝo* | **fisho** *[fiŝo]* |
-| *fraŭlo* | **frũlo** *[fraŭlo]* |
-| *hajlo* | **haġlo** *[hajlo]* |
-| *hobio* | **hobbȳo** *[hobio]* |
-| *jaro* | **yaro** *[jaro]* |
-| *jes* | **yes** *[jes]* |
-| *kajto* | **kĩto** *[kajto]* |
-| *lando* | **lando** *[lando]* |
-| *lasi* | **lassi** *[lasi]* |
-| *najlo* | **naġlo** *[najlo]* |
 | *partio* | **partȳo** *[partio]* |
-| *ŝajni* | **shĩni** *[ŝajni]* |
-| *ŝipo* | **shippo** *[ŝipo]* |
-| *ŝnuro* | **ŝnuro** *[ŝnuro]* |
-| *ŝraŭbo* | **shraubo** *[ŝraŭbo]* |
-| *ŝtalo* | **ŝtalo** *[ŝtalo]* |
-| *ŝtato* | **ŝtato** *[ŝtato]* |
-| *ŝuo* | **shuo** *[ŝuo]* |
-| *tago* | **tago** *[tago]* |
-| *tajdo* | **tĩdo** *[tajdo]* |
-| *trinki* | **trinki** *[trinki]* |
-| *varma* | **warma** *[ŭarma]* |
-| *vorto* | **worto** *[ŭorto]* |
-
-#### Slavaj Vortoj
-
-| | |
-|-|-|
-| *-ar-* | **ar** |
-| *caro* | **ţaro** = **tsaro** *[caro]* |
-| *ĉu* | **chu** *[ĉu]* |
-| *ĉiu* | **chiu** *[ĉiu]* |
-| *ekrano* | **ekrano** *[ekrano]* |
-| *kolbaso* | **kolbas̄o** *[kolbaso]* |
-| *koŝmaro* | **koŝmaro** *[koŝmaro]* |
-| *krom* | **krom** *[krom]* |
-| *mal-* | **mal-** *[mal]* |
-| *nepre* | **nepre** *[nepre]* |
-| *prava* | **prava** *[prava]* |
-| *pri* | **pri** *[pri]* |
 
 ## Akĉentoj
 

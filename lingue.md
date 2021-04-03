@@ -169,11 +169,11 @@ Celaj adverboj finiĝas je **-u**.
 | *hejme* | **domo** |
 | *hejmen* | **domu** |
 
-Originaj adverboj finiĝas je **-ô** *[aŭ]*.
+Originaj adverboj finiĝas je **-ǒ** *[u]*.
 
 | | |
 |-|-|
-| *hodiaŭ* | **hodiô** = **hodiau** *[hodjaŭ]* |
+| *hodiaŭ* | **hodiô** = **hodiu** *[hodju]* |
 
 ### Numeraloj
 
