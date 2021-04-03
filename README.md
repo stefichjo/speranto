@@ -29,8 +29,8 @@ En tiu ĉi fikcia akĉenta, dialekta kaj lingva kontinuo, ***Esperanto*** baziĝ
 
 | ***Lingvoo*** |
 |-|
-| **Sï ni et supposos, qŭe la fina linguo de la essontai generatīoi essas ne Speranto, ïn chia occaso la vĩo al tiu ellavorota linguo nepre devas conduqŭi tra Speranto.** |
-| *[Se ni et supozos, ke la fina lingŭo de la esontaj ĝenerasioj esas ne Speranto, en ĉia okazo la vojo al tiu ellavorota lingŭo nepre devas konduki tra Speranto.]* |
+| **Sï ni et supposos, qŭe la fina linguo de la essontai generatīoi essas ne Speranto, ïn chia occaso la vĩo al tiu ellavorota linguo infallivle devas conduqŭi tra Speranto.** |
+| *[Se ni et supozos, ke la fina lingŭo de la esontaj ĝenerasioj esas ne Speranto, en ĉia okazo la vojo al tiu ellavorota lingŭo infalivle devas konduki tra Speranto.]* |
 
 | ***Lingveo*** |
 |-|
