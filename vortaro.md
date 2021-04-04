@@ -1,6 +1,6 @@
 # Vortaro
 
-| | Speranto | Linguo | Lingue | Lingua | [Z](https://tekstaro.com/t?nomo=reformoj-esperanto) |
+| | Speranto | Linguo | Lingue | Lingua | [Z](#Z) |
 |-|-|-|-|-|-|
 | *abelo* | | | | | **apo** |
 | *abio* | | | | | **abieto** |
@@ -181,7 +181,7 @@
 | *vojaĝo* | | **viatĭco** = **viaĵo** | **viatĭce** | **viatĭco** | **vojago** |
 | *vorto* | **worto** | | | | **vokablo** |
 
-***[Z](https://tekstaro.com/t?nomo=reformoj-esperanto)***
+## [Z](https://tekstaro.com/t?nomo=reformoj-esperanto)
 * **z** fariĝas **s** (ekzemple: **akuzativo** fariĝas **akusativo** *[akusativo]*)
 * **c** skribiĝas **z** *[c]* (ekzemple: **intenco** skribiĝas **intenzo** *[intenco]*)
 * **ĉ** fariĝas **c** *[ŝ]* (ekzemple: **voĉo** fariĝas **voco** *[voŝo]*)
