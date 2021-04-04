@@ -15,14 +15,14 @@
 | *-aĵ-* | | **-atĭc-** = **-aĵ-** | **-atĭc-** *[ađj]* | **-atĭc-** | **-e-** |
 | *ajlo* | | **alĭo** | **alie** | **alio** | **ailo** |
 | *ajn* | **ên** = **ain** | **ali-** | **ali-** | **ali-** | **kunku** |
-| *akceli* | | | | | **akcelera** |
-| *akra* | | | | | **akute** |
+| *akceli* | | **acceleri** | **acceleru** | **accelerare** | **akcelera** |
+| *akra* | | **acra** | **acra** | **acre** | **akute** |
 | *akuŝi* | | | | | **obstetra** |
-| *akuzativo* | | | | | |
+| *akuzativo* | | **accusativo** | **accusative** | **accusativo** | |
 | *alaŭdi* | | | | | **alavda** |
-| *almenaŭ* | | | | | = **almenu** |
-| *almozo* | | | | | |
-| *ambaŭ* | | | | | **ambi** |
+| *almenaŭ* | | **almïnô** = **almenau** | **alminǒ** = **alminu** | **almino** | |
+| *almozo* | **almoso** | **almono** | **alemosy̆ne** = **alemose** | **alemosy̆na** | |
+| *ambaŭ* | | **ambô** = **ambau** | **ambǒ** = **ambu** | **ambi** | **ambi** |
 | *amboso* | | | | | **inkudo** |
 | *anstataŭ* | **anŝtattał** | **viĉał** | **vicĕ al** | **vic' ad** | **inloku** |
 | *akĉento* | | **accentumo** | **accente** | **accento** | - |
@@ -182,11 +182,15 @@
 | *vorto* | **worto** | | | | **vokablo** |
 
 ## [Z](https://tekstaro.com/t?nomo=reformoj-esperanto)
-* **z** fariĝas **s** (ekzemple: **akuzativo** fariĝas **akusativo** *[akusativo]*)
-* **c** skribiĝas **z** *[c]* (ekzemple: **intenco** skribiĝas **intenzo** *[intenco]*)
-* **ĉ** fariĝas **c** *[ŝ]* (ekzemple: **voĉo** fariĝas **voco** *[voŝo]*)
-* **ŝ** skribiĝas **c** *[ŝ]* (ekzemple: **ŝargi** skribiĝas **carga** *[ŝarga]*)
-* **ĝ** fariĝas **g** *[g]* (ekzmple: **fromaĝo** fariĝas **fromago** *[fromago]*)
-* **-a** fariĝas **-e** *[e]* (ekzemple: **bona** fariĝas **bone**)
-* **-i** fariĝas **-a** *[a]* (ekzemple: **kanti** fariĝas **kanta**)
-* **-aŭ** fariĝas **-u** *[u]* (ekzemple: **hieraŭ** fariĝas **hieru** *[hieru]*)
+
+| | |
+|-|-|
+| **z** → **s** *[s]* | **akusativo** *[akusativo]* |
+| **c** → **z** *[c]* | **intenzo** *[intenco]* |
+| **ĉ** → **c** *[ŝ]* | **voco** *[voŝo]* |
+| **ŝ** → **c** *[ŝ]* | **carga** *[ŝarga]* |
+| **ĝ** → **g** *[g]* | **fromago** *[fromago]* |
+| | |
+| **-a** → **-e** | **bone** |
+| **-i** → **-a** | **kanta** |
+| **-aŭ** → **-u** | **hieru** |
