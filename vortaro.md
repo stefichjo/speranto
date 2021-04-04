@@ -2,17 +2,17 @@
 
 | | Speranto | Linguo | Lingue | Lingua | [Z](#Z) |
 |-|-|-|-|-|-|
-| *abelo* | | | | | **apo** |
-| *abio* | | | | | **abieto** |
-| *abomeni* | | | | | **abomina** |
+| *abelo* | | **apo** | **ape** | **ape** | **apo** |
+| *abio* | | **abieto** | **abiete** | **abiete** | **abieto** |
+| *abomeni* | | **abomini** | **abominu** | **abominare** | **abomina** |
 | *aĉeti* | | **açcĕpti** = **açhti** | **compru** | **comprare** | **kompra** |
-| *adiaŭ* | | | | | **adiu** |
-| *adulti* | | | | | **adultera** |
-| *aero* | | **êro** = **airo** | **aere** | **aere** | **aero** |
-| *aerumi* | | | | | **aera** |
+| *adiaŭ* | | **addeô** = **addeaŭ** | **addeǒ** = **addeu** | **addeo** | |
+| *adulti* | | **adulteri** | **adulteru** | **adulterare** | **adultera** |
+| *aero* | | **êro** = **airo** | **aere** | **aere** | |
+| *aerumi* | | **êrumi** = **airumu** | **aeru** | **aerare** | **aera** |
 | *aĝo* | | **eṯatĭco** = **edaĵo** | **etatĭce** | **etatĭco** | **etado** |
-| *agordi* | | | | | **akorda** |
-| *-aĵ-* | | | | | **-e-** |
+| *agordi* | | **accordi** | **accordu** | **accordare** | **akorda** |
+| *-aĵ-* | | **-atĭc-** = **-aĵ-** | **-atĭc-** *[ađj]* | **-atĭc-** | **-e-** |
 | *ajlo* | | **alĭo** | **alie** | **alio** | **ailo** |
 | *ajn* | **ên** = **ain** | **ali-** | **ali-** | **ali-** | **kunku** |
 | *akceli* | | | | | **akcelera** |
@@ -20,7 +20,7 @@
 | *akuŝi* | | | | | **obstetra** |
 | *akuzativo* | | | | | |
 | *alaŭdi* | | | | | **alavda** |
-| *almenaŭ* | | | | | **almenu** |
+| *almenaŭ* | | | | | = **almenu** |
 | *almozo* | | | | | |
 | *ambaŭ* | | | | | **ambi** |
 | *amboso* | | | | | **inkudo** |
@@ -186,5 +186,7 @@
 * **c** skribiĝas **z** *[c]* (ekzemple: **intenco** skribiĝas **intenzo** *[intenco]*)
 * **ĉ** fariĝas **c** *[ŝ]* (ekzemple: **voĉo** fariĝas **voco** *[voŝo]*)
 * **ŝ** skribiĝas **c** *[ŝ]* (ekzemple: **ŝargi** skribiĝas **carga** *[ŝarga]*)
-* **-aŭ** fariĝas **-u** *[u]* (ekzemple: **hieraŭ** fariĝas **hieru** *[hieru]*)
 * **ĝ** fariĝas **g** *[g]* (ekzmple: **fromaĝo** fariĝas **fromago** *[fromago]*)
+* **-a** fariĝas **-e** *[e]* (ekzemple: **bona** fariĝas **bone**)
+* **-i** fariĝas **-a** *[a]* (ekzemple: **kanti** fariĝas **kanta**)
+* **-aŭ** fariĝas **-u** *[u]* (ekzemple: **hieraŭ** fariĝas **hieru** *[hieru]*)

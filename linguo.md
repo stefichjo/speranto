@@ -233,8 +233,8 @@ Greka **ch** *[k]* pronciĝas *[ĥ]*.
 
 | | ital-rumane | franc-portugale | hispane |
 |-|-|-|-|
-| *centro* | *[ĉentro]* | *[sentro]* | *[θentro]* |
-| *prononco* | *[pronunĉjo]* | *[pronunsjo]* | *[pronunθjo]* |
+| *centro* | *[ĉentro]* | *[sentro]* | *[ŧentro]* |
+| *prononco* | *[pronunĉjo]* | *[pronunsjo]* | *[pronunŧjo]* |
 | | | | |
 | *ĝentila* | *[ĝentila]* | *[ĵentila]* | *[ĥentila]* |
 | *mesaĝo* | *[mesaĝo]* | *[mesaĵo]* | *[mesaĥo]* |

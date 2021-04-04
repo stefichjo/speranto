@@ -24,13 +24,13 @@ La ŝajnsufiksoj **-ĭn-** kaj **-ĭt** eliziiĝas.
 
 ### t, d
 
-**t** estas prononcata *[θ]* antaŭ radikofina **-i**. La ***Lingvaa*** ŝajnfinaĵo **-ione** *[ione]* mallongiĝas al la ŝajnsufikso **-i** *[j]*.
+**t** estas prononcata *[ŧ]* (= *[θ]*) antaŭ radikofina **-i**. La ***Lingvaa*** ŝajnfinaĵo **-ione** *[ione]* mallongiĝas al la ŝajnsufikso **-i** *[j]*.
 | | |
 |-|-|
-| *graco* | **gratie** *[graθje]* |
-| *spaco* | **spatie** *[spaθje]* |
+| *graco* | **gratie** *[graŧje]* |
+| *spaco* | **spatie** *[spaŧje]* |
 | | |
-| *nacio* | **natie** *[naθje]* |
+| *nacio* | **natie** *[naŧje]* |
 
 Kiam **t** estas prononcata *[t]* antaŭ radikofina **-i**, ĝi portas makronon. (**st** ĉiam prononciĝas *[st]*.)
 
@@ -38,13 +38,13 @@ Kiam **t** estas prononcata *[t]* antaŭ radikofina **-i**, ĝi portas makronon.
 |-|-|
 | *besto* | **best̄ie** = **bestie** *[bestje]* |
 
-La ŝajnsufikso **-atĭc-** prononciĝas *[aðj]*.
+La ŝajnsufikso **-atĭc-** prononciĝas *[ađj]* (= *[aðj]*).
 
 | | |
 |-|-|
-| *fromaĝo* | **formatĭco** *[formaðjo]* |
-| *mesaĝo* | **missatĭco** *[misaðjo]* |
-| *vojaĝo* | **viatĭco** *[viaðjo]* |
+| *fromaĝo* | **formatĭco** *[formađjo]* |
+| *mesaĝo* | **missatĭco** *[misađjo]* |
+| *vojaĝo* | **viatĭco** *[viađjo]* |
  
 ### c, g
 
@@ -186,8 +186,8 @@ Korelativaj radikoj kombineblas kun sufiksoj.
 | | |
 |-|-|
 | *kiu* | **qui** *[kŭi]* = **quule** *[kŭule]* |
-| *kio* | **que** *[kŭe]* = **quatĭce** *[kŭaðje]* |
-| *kia*, *kiu* | **qua** *[kŭa]* = **quetia** *[kŭeθja]*, **quula** *[kŭula]* |
+| *kio* | **que** *[kŭe]* = **quatĭce** *[kŭađje]* |
+| *kia*, *kiu* | **qua** *[kŭa]* = **quetia** *[kŭeŧja]*, **quula** *[kŭula]* |
 | *kie* | **quo** *[kŭo]* = **queio** *[kŭejo]* |
 | *kien* | **quu** *[kŭu]* |
 | | |
@@ -236,8 +236,8 @@ Ne estas ne-difina artikolo.
 
 | | |
 |-|-|
-| *mi(n)*, *vi(n)* | **mi**, **tī** *[θi]* |
-| *mia*, *via* | **mia**, **tīa** *[θia]* |
+| *mi(n)*, *vi(n)* | **mi**, **tī** *[ŧi]* |
+| *mia*, *via* | **mia**, **tīa** *[ŧia]* |
 | | |
 | *ni(n)*, *vi(n)* | **ni**, **vi** |
 | *nia*, *via* | **nia**, **via** |
@@ -293,7 +293,7 @@ Prepoziciaĵoj estas poezia formo de substantivo en unu-nombro kun la prepozicio
 | | |
 |-|-|
 | *ĉirkaŭ* | **circ̄ĕ al** *[cirkal]* |
-| *dank' al* | **gratiĕ al** *[graθjal]* |
+| *dank' al* | **gratiĕ al** *[graŧjal]* |
 | *anstataŭ* | **vicĕ al** *[vical]* |
 
 La akuzativa prepozicio **a** uziĝas ***tra bruo*** (kaj antaŭ nomoj kaj kiam la akuzativa frazparto antaŭas la nominativan frazparton).
