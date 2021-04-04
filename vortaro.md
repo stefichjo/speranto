@@ -17,12 +17,15 @@
 | *averaĝo* | | **aväratĭco** = **averaĵo** | **avaratĭce** | **avaratĭco** | - |
 | *bieno* | | **bẽno** = **bieno** | | | = |
 | *ĉambro* | | **çhamĕro** = **çhambro** | **camĕre** = **camre** | **camĕra** | **cambro** |
+| *caro* | **ţaro** = **tsaro** | | | | - |
 | *ĉasi* | | **çhaptĭi** = **çhassi** | **captiu** | **captiare** | **venatra** |
 | *ĉe* | | **çhä** = **çhe** | **apud** | **apud** | **ce** |
 | *celo* | **ţillo** = **tsillo** | **scopo** | **scope** | **scopo** | **skopo** |
 | *ĉemizo* | | **çhämisĭo** = **çhemişo** | **camisie** | **camisia** | **kamiso** |
 | *ĉielo* | | **çẽlo** = **çielo** | **cele** | **celo** | **cielo** |
-| *colo* | **ţollo** = **tsollo** | **polliĉo** | **pollice** | **pollĭce** | - |
+| *ĉiu* | **chiu** | | | | **omnu** |
+| *colo* | **ţollo** = **tsollo** | **polliĉo** | **pollice** | **pollĭce** | **dito** |
+| *ĉu* | **chu** | | | | **num** |
 | *danki* | **danki** | **gratii** | **gratiu** | **gratiare** | **gratia** |
 | *demandi* | | **dėmandi** = **dimandi** | **demandu** | **demandare** | = |
 | *demokratio* | | **democratīo** | **democratīe** | **democratīa** | - |
@@ -34,6 +37,7 @@
 | *donaco* | | **donatīo** | **donatie** | **donatione** | **dono** |
 | *-ec-* | | **-etĭ-** = **-ess-** | **-eti-** | **-eti-** | **-it-** |
 | *eĉ* | | **et** | **et** | **et** | **mem** |
+| *ekrano* | **ekrano** | | | | - |
 | *eksplodi* | | **ex̂plodi** = **esplodi** | **explodu** | **explodĕre** | - |
 | *esperi* | | **speri** | **speru** | **sperare** | = |
 | *esti* *(ekzisti)* | | **essi** | **essu** | **essĕre** | - |
@@ -64,23 +68,27 @@
 | *intenco* | | **intentīo** | **intentie** | **intentione** | **intenzo** |
 | *iri* | | **vadi** | **vadu** | **vadĕre** | = |
 | *jaro* | **yaro** | | | | **anuo** |
+| *ĵaŭdo* | | **jůvedīo** = **jovedīo** | **juvedīe** | **iupiteredīe** | **jovedo** |
 | *jes* | **yes** | | | | **si** |
 | *Jupitero* | | **Jůvo** = **Jovo** | **Juve** | **Iupitere** | - |
 | *justa* | | **justuma** | **justa** | **iusta** | = |
-| *ĵaŭdo* | | **jůvedīo** = **jovedīo** | **juvedīe** | **iupiteredīe** | **jovedo** |
 | *kaĉo* | **kaŝo** | | | | **grieo** |
 | *kadenco* / *ŝanco* | | **cadentio** / **çhadĕntĭo** = **çhanço** | **cadentie** | **cadentia** | - |
 | *kajto* | **kĩto** | | | | - |
 | *kanzono* | | **canţono** = **cançono** | **cantie** | **cantione** | - |
 | *kaŝi* | | **cŏactĭi** = **caçhi** | **occultu** | **occultare** | **okulta** |
 | *kisi* | **kyssi** = **kissi** | **basĭi** | **basiu** | **basiare** | **bacia** |
+| *kolbaso* | **kolbas̄o** | | | | **salsico** |
+| *koŝmaro* | **koŝmaro** | | | | - |
 | *kojno* | | **cunĭo** | **cunie** | **cunio** | **koino** |
+| *krom* | **krom** | | | | **hors** |
 | *labori* | | **lavori** | **lavoru** | **laborare** | = |
 | *lando* | **lando** | **pağėn̆so** = **paīso** | **pağen̆se** = **paese** | **pagense** | **paeso** |
 | *lasi* | **lassi** | | | | = |
 | *leciono* | | **lectĭono** = **leçono** | **lectie** | **lectione** | **leziono** |
 | *luno* | | **luno** | **lune** | **luna** | = |
 | *lundo* | | **lunedīo** | **lunedīe** | **lunedīe** | = |
+| *mal-* | **mal-** | | | | = |
 | *mardo* | | **martedīo** | **martedīe** | **martedīe** | = |
 | *Marso* | | **Marto** | **Marte** | **Marte** | - |
 | *Marto* | | **Martĭo** = **Março** | **Martie** | **Martio** | = |
@@ -91,15 +99,18 @@
 | *Merkuro* | | **Mercurio** | **Mercurie** | **Mercurio** | - |
 | *mesaĝo* | | **mïssatĭco** = **messaĵo** | **missatĭce** | **missatĭco** | - |
 | *najlo* | **naġlo** | | | | **klodo** |
+| *nepre* | **nepre** | | | | **apsolte** / **nealie** |
 | *oro* | | **auro** | **aure** | **auro** | **auro** |
 | *pejzaĝo* | | **pağėn̆satĭco** = **paisaĵo** | **pağen̆satĭce** = **paesatĭce** | **pagensatĭco** | **paesago** |
 | *pesi* | | **pesumi** | **pesu** | **pesare** | = |
 | *piedo* | | **pẽdo** | **pede** | **pede** | **pedo** |
 | *pordo* | | **porṯo** = **pordo** | **porte** | **porta** | = |
 | *povi* | | **possi** | **possu** | **potere** | = |
+| *prava* | **prava** | | | | **razione** |
 | *precipe* | | **prïnçipe** = **prensipe** | **principo** | **principalemente** | = |
 | *pregi* | **prêgŭi** = **praigŭi** | | | | - |
 | *preĝi* | | **preqŭi** | **precu** | **precare** | **preka** |
+| *pri* | **pri** | | | | **de** |
 | *prononci* | | **pronuntii** | **pronuntiu** | **pronuntiare** | - |
 | *radio* *(energio)* | | **radĭo** = **raĵo** | **radie** | **radio** | = |
 | *radio* *(signalo)* | | **radio** | **radio** | **radio** | = |
@@ -152,19 +163,3 @@
 | *vojo* | | **vĩo** = **voyo** | **vie** | **via** | **vio** |
 | *vojaĝo* | | **viatĭco** = **viaĵo** | **viatĭce** | **viatĭco** | **vojago** |
 | *vorto* | **worto** | | | | **vokablo** |
-
-| | | | | |
-|-|-|-|-|-|
-| *-ar-* | **ar** |
-| *caro* | **ţaro** = **tsaro** *[caro]* |
-| *ĉu* | **chu** *[ĉu]* |
-| *ĉiu* | **chiu** *[ĉiu]* |
-| *ekrano* | **ekrano** *[ekrano]* |
-| *kolbaso* | **kolbas̄o** *[kolbaso]* |
-| *koŝmaro* | **koŝmaro** *[koŝmaro]* |
-| *krom* | **krom** *[krom]* |
-| *mal-* | **mal-** *[mal]* |
-| *nepre* | **nepre** *[nepre]* |
-| *prava* | **prava** *[prava]* |
-| *pri* | **pri** *[pri]* |
-
