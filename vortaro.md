@@ -120,10 +120,12 @@
 | *ajn* | **ên** = **ain** | **ali-** | **ali-** | **ali-** |
 | *anstataŭ* | **anŝtattał** | **viĉał** | **vicĕ al** | **vic' ad** |
 | *-ar-* | **-aṛ-** = **-ai-** | | |
-| *celo* | **ţillo** = **tsilo** | **scopo** | **scope** | **scopo** |
+| *celo* | **ţillo** = **tsillo** | **scopo** | **scope** | **scopo** |
+| *colo* | **ţollo** = **tsollo** | **polliĉo** | **pollice** | **pollĭce** |
+| *danki* | **danki** | **gratii** | **gratiu** | **gratiare** |
 | *fali* | **falli** | **cadi** | **cadu** | **cadere** |
 | *forgesi* | **fergŭessi** | | | |
-| *hejmo* | **hêmo** = **haimo** | **(sia) domo** | **(sia) dome** | **(sua) domo** |
+| *hejmo* | **hêmo** = **haimo** | **domo** | **dome** | **domo** |
 | *kaĉo* | **kaŝo** | | |
 | *kisi* | **kyssi** = **kissi** | **basĭi** | **basiu** | **basiare** |
 | *lando* | **lando** | **pağėn̆so** = **paīso** | **pağen̆se** = **paese** | **pagense** |
@@ -135,12 +137,10 @@
 | *ŝtono* | **ŝtêno** = **ŝtaino** | **pẽtro** = **pietro** | **petre** | **petra** |
 | *tago* | **tago** | **dīo** | **dīe** | **dīe** |
 | *tago* *(de la semajno)* | **-edīo** | **-edīe** | **-edīe** |
+| *trinki* | **trinki** | **bïvi** = **bevi** | **bivu** | **bibĕre** |
 
 | | | | | |
 |-|-|-|-|-|
-| *colo* | **ţollo** = **tsollo** |
-| *danki* | **danki** *[danki]* |
-| *drinki* | **drinki** *[drinki]* |
 | *fajna* | **fĩna** *[fajna]* |
 | *fajro* | **fỹro** *[fajro]* |
 | *fiŝo* | **fisho** *[fiŝo]* |
@@ -150,7 +150,6 @@
 | *jaro* | **yaro** *[jaro]* |
 | *jes* | **yes** *[jes]* |
 | *kajto* | **kĩto** *[kajto]* |
-| *lando* | **lando** *[lando]* |
 | *lasi* | **lassi** *[lasi]* |
 | *najlo* | **naġlo** *[najlo]* |
 | *ŝajni* | **shĩni** *[ŝajni]* |
