@@ -2,27 +2,44 @@
 
 | | Speranto | Linguo | Lingue | Lingua | [Z](https://tekstaro.com/t?nomo=reformoj-esperanto) |
 |-|-|-|-|-|-|
+| *abelo* | | | | | **apo** |
+| *abio* | | | | | **abieto** |
+| *abomeni* | | | | | **abomina** |
 | *aĉeti* | | **açcĕpti** = **açhti** | **compru** | **comprare** | **kompra** |
+| *adiaŭ* | | | | | **adiu** |
+| *adulti* | | | | | **adultera** |
 | *aero* | | **êro** = **airo** | **aere** | **aere** | **aero** |
+| *aerumi* | | | | | **aera** |
 | *aĝo* | | **eṯatĭco** = **edaĵo** | **etatĭce** | **etatĭco** | **etado** |
+| *agordi* | | | | | **akorda** |
+| *-aĵ-* | | | | | **-e-** |
 | *ajlo* | | **alĭo** | **alie** | **alio** | **ailo** |
 | *ajn* | **ên** = **ain** | **ali-** | **ali-** | **ali-** | **kunku** |
+| *akceli* | | | | | **akcelera** |
+| *akra* | | | | | **akute** |
+| *akuŝi* | | | | | **obstetra** |
+| *akuzativo* | | | | | = |
+| *alaŭdi* | | | | | **alavda** |
+| *almenaŭ* | | | | | **almenu** |
+| *almozo* | | | | | = |
+| *ambaŭ* | | | | | **ambi** |
+| *amboso* | | | | | **inkudo** |
 | *anstataŭ* | **anŝtattał** | **viĉał** | **vicĕ al** | **vic' ad** | **inloku** |
 | *akĉento* | | **accentumo** | **accente** | **accento** | - |
 | *akiri* | | **acqŭiri** | **acquiru** | **acquirere** | = |
 | *al* | | **al** | **al** | **ad** | = |
-| *alia* | | **altra** | **altra** | **altra** | **alie** |
+| *alia* | | **altra** | **altra** | **altra** | = |
 | *apogi* | | **appodĭi** = **appoĵi** | **appodiu** | **appodiare** | = |
-| *-ar-* | **-aṛ-** = **-ai-** | | | | **-ar-** |
+| *-ar-* | **-aṛ-** = **-ai-** | | | | = |
 | *averaĝo* | | **aväratĭco** = **averaĵo** | **avaratĭce** | **avaratĭco** | - |
 | *bieno* | | **bẽno** = **bieno** | | | = |
-| *ĉambro* | | **çhamĕro** = **çhambro** | **camĕre** = **camre** | **camĕra** | **cambro** |
+| *ĉambro* | | **çhamĕro** = **çhambro** | **camĕre** = **camre** | **camĕra** | = |
 | *caro* | **ţaro** = **tsaro** | | | | - |
 | *ĉasi* | | **çhaptĭi** = **çhassi** | **captiu** | **captiare** | **venatra** |
-| *ĉe* | | **çhä** = **çhe** | **apud** | **apud** | **ce** |
+| *ĉe* | | **çhä** = **çhe** | **apud** | **apud** | = |
 | *celo* | **ţillo** = **tsillo** | **scopo** | **scope** | **scopo** | **skopo** |
 | *ĉemizo* | | **çhämisĭo** = **çhemişo** | **camisie** | **camisia** | **kamiso** |
-| *ĉielo* | | **çẽlo** = **çielo** | **cele** | **celo** | **cielo** |
+| *ĉielo* | | **çẽlo** = **çielo** | **cele** | **celo** | = |
 | *ĉiu* | **chiu** | | | | **omnu** |
 | *colo* | **ţollo** = **tsollo** | **polliĉo** | **pollice** | **pollĭce** | **dito** |
 | *ĉu* | **chu** | | | | **num** |
@@ -33,7 +50,7 @@
 | *dika* | | **grossa** | **grossa** | **grossa** | **grose** |
 | *dio* | | **deo** | **dee** | **deo** | **deo** |
 | *diri* | | **diqŭi** | **dicu** | **dicĕre** | = |
-| *dolĉa* | | **dulĉa** | **dulĉa** | **dulce** | **dolce** |
+| *dolĉa* | | **dulĉa** | **dulĉa** | **dulce** | = |
 | *donaco* | | **donatīo** | **donatie** | **donatione** | **dono** |
 | *-ec-* | | **-etĭ-** = **-ess-** | **-eti-** | **-eti-** | **-it-** |
 | *eĉ* | | **et** | **et** | **et** | **mem** |
@@ -48,7 +65,7 @@
 | *fajna* | **fĩna** | | | | - |
 | *fajro* | **fỹro** | **fõco** = **fuoco** | **foc̄e** | **foco** | **fuoko** |
 | *fali* | **falli** | **cadi** | **cadu** | **cadere** | **kada** |
-| *familio* | | **familĭo** | **familie** | **familia** | **familio** |
+| *familio* | | **familĭo** | **familie** | **familia** | = |
 | *fari* | | **faci** | **faĉu** | **facĕre** | = |
 | *farti* | | **stati** | **statu** | **stare** | **(kvale esten vue stato)** |
 | *fermi* | | **cludi** | **cludu** | **cludĕre** | = |
@@ -65,7 +82,7 @@
 | *hieraŭ* | | **hẽrô** = **hierau** | **herǒ** = **heru** | **heri** | **hieru** |
 | *hobio* | **hobbȳo** | | | | - |
 | *implici* | | **implicumi** | **implicu** | **implicare** | - |
-| *intenco* | | **intentīo** | **intentie** | **intentione** | **intenzo** |
+| *intenco* | | **intentīo** | **intentie** | **intentione** | = |
 | *iri* | | **vadi** | **vadu** | **vadĕre** | = |
 | *jaro* | **yaro** | | | | **anuo** |
 | *ĵaŭdo* | | **jůvedīo** = **jovedīo** | **juvedīe** | **iupiteredīe** | **jovedo** |
@@ -85,14 +102,14 @@
 | *labori* | | **lavori** | **lavoru** | **laborare** | = |
 | *lando* | **lando** | **pağėn̆so** = **paīso** | **pağen̆se** = **paese** | **pagense** | **paeso** |
 | *lasi* | **lassi** | | | | = |
-| *leciono* | | **lectĭono** = **leçono** | **lectie** | **lectione** | **leziono** |
+| *leciono* | | **lectĭono** = **leçono** | **lectie** | **lectione** | = |
 | *luno* | | **luno** | **lune** | **luna** | = |
 | *lundo* | | **lunedīo** | **lunedīe** | **lunedīe** | = |
 | *mal-* | **mal-** | | | | = |
 | *mardo* | | **martedīo** | **martedīe** | **martedīe** | = |
 | *Marso* | | **Marto** | **Marte** | **Marte** | - |
 | *Marto* | | **Martĭo** = **Março** | **Martie** | **Martio** | = |
-| *maŝino* | | **maçhino** | **machine** | **machĭna** | **macino** |
+| *maŝino* | | **maçhino** | **machine** | **machĭna** | = |
 | *mencii* | | **mentīi** | **mentiu** | **mentionare** | - |
 | *mensogo* | | **menţonĭo** = **mençonĵo** | **mentiumnie** | **mentiumnia** | - |
 | *merkredo* | | **mercuriedīo** | **mercuriedīe** | **mercuriedīe** | = |
@@ -124,7 +141,7 @@
 | *ŝati* | **shatţi** = **shatsi**| **qŭẽri** = **qŭieri** | **queru** | **querere** | **alte tenaa** → **alte tena** |
 | *saŭco* | | **salso** | **salse** | **salsa** | **sauco** |
 | *savi* | | **salvi** |  **salvu** | **salvare** | **salva** |
-| *scii* | | **savi** | **savu** | **sapere** | **szia** |
+| *scii* | | **savi** | **savu** | **sapere** | = |
 | *semajno* | | **septĭmano** = **semano** | **septimane** | **septimana** | **setimano** |
 | *senco* | | **senso** | **sense** | **senso** | **senso** |
 | *sendi* | **sendi** | **mitti** | **mittu** | **mittĕre** | **invia** |
@@ -135,7 +152,7 @@
 | *ŝlimo* | **ŝlĩmo** = **ŝlaimo** | | | | **slimo** |
 | *ŝnuro* | **ŝnuro** | | | | **funo** |
 | *sojlo* | | **solĭo** | **solie** | **solia** | **solio** |
-| *sonĝi* | | **somnĭi** = **sonĵi** | **somniu** | **somniare** | **songa** |
+| *sonĝi* | | **somnĭi** = **sonĵi** | **somniu** | **somniare** | = |
 | *ŝpruci* | **ŝprutţi** = **ŝprutsi** | | | | **sperga** |
 | *ŝraŭbo* | **shraubo** | | | | **viso** |
 | *ŝtalo* | **ŝtalo** | | | | **aciero** |
@@ -156,10 +173,18 @@
 | *tuŝi* | | **tǒçci** = **tuçci** | **toccu** | **tangĕre** | - |
 | *tuta* | | **tǒta** = **tuta** | **tota** | **tota** | = |
 | *varma* | **warma** | | | | **kalore** |
-| *venĝi* | | **vïndĭci** = **venĵi** | **vindicu** | **vindicare** | **venga** |
+| *venĝi* | | **vïndĭci** = **venĵi** | **vindicu** | **vindicare** | = |
 | *Venuso* | | **Venĕro** = **Vendro** | **Venĕre** = **Venre** | **Venĕre** | - |
 | *vendredo* | | **venĕredīo** = **vendredīo** | **venĕrdīe** = **venredīe** | **venĕredīe** | = |
 | *voĉo* | | **voĉo** | **voce** | **voce** | **voco** |
 | *vojo* | | **vĩo** = **voyo** | **vie** | **via** | **vio** |
 | *vojaĝo* | | **viatĭco** = **viaĵo** | **viatĭce** | **viatĭco** | **vojago** |
 | *vorto* | **worto** | | | | **vokablo** |
+
+***[Z](https://tekstaro.com/t?nomo=reformoj-esperanto)***
+* **z** fariĝas **s** (ekzemple: **akuzativo** fariĝas **akusativo** *[akusativo]*)
+* **c** skribiĝas **z** *[c]* (ekzemple: **intenco** skribiĝas **intenzo** *[intenco]*)
+* **ĉ** fariĝas **c** *[ŝ]* (ekzemple: **voĉo** fariĝas **voco** *[voŝo]*)
+* **ŝ** skribiĝas **c** *[ŝ]* (ekzemple: **ŝargi** skribiĝas **carga** *[ŝarga]*)
+* **-aŭ** fariĝas **-u** *[u]* (ekzemple: **hieraŭ** fariĝas **hieru** *[hieru]*)
+* **ĝ** fariĝas **g** *[g]* (ekzmple: **fromaĝo** fariĝas **fromago** *[fromago]*)
