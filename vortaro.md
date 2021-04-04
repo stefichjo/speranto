@@ -115,29 +115,29 @@
 
 ## Slav-Ĝermana
 
-| | Speranto | Linguo | Lingue | Lingua |
-|-|-|-|-|-|
-| *ajn* | **ên** = **ain** | **ali-** | **ali-** | **ali-** |
-| *anstataŭ* | **anŝtattał** | **viĉał** | **vicĕ al** | **vic' ad** |
-| *-ar-* | **-aṛ-** = **-ai-** | | |
-| *celo* | **ţillo** = **tsillo** | **scopo** | **scope** | **scopo** |
-| *colo* | **ţollo** = **tsollo** | **polliĉo** | **pollice** | **pollĭce** |
-| *danki* | **danki** | **gratii** | **gratiu** | **gratiare** |
-| *fali* | **falli** | **cadi** | **cadu** | **cadere** |
-| *forgesi* | **fergŭessi** | | | |
-| *hejmo* | **hêmo** = **haimo** | **domo** | **dome** | **domo** |
-| *kaĉo* | **kaŝo** | | |
-| *kisi* | **kyssi** = **kissi** | **basĭi** | **basiu** | **basiare** |
-| *lando* | **lando** | **pağėn̆so** = **paīso** | **pağen̆se** = **paese** | **pagense** |
-| *pregi* | **prêgŭi** = **praigŭi** | | | |
-| *sendi* | **sendi** | **mitti** | **mittu** | **mittĕre** |
-| *ŝati* | **shatţi** = **shatsi**| **qŭẽri** = **qŭieri** | **queru** | **querere** |
-| *ŝlimo* | **ŝlĩmo** = **ŝlaimo** | | | |
-| *ŝpruci* | **ŝprutţi** = **ŝprutsi** | | | |
-| *ŝtono* | **ŝtêno** = **ŝtaino** | **pẽtro** = **pietro** | **petre** | **petra** |
-| *tago* | **tago** | **dīo** | **dīe** | **dīe** |
-| *tago* *(de la semajno)* | **-edīo** | **-edīe** | **-edīe** |
-| *trinki* | **trinki** | **bïvi** = **bevi** | **bivu** | **bibĕre** |
+| | Speranto | Linguo | Lingue | Lingua | [Z](https://tekstaro.com/t?nomo=reformoj-esperanto) |
+|-|-|-|-|-|-|
+| *ajn* | **ên** = **ain** | **ali-** | **ali-** | **ali-** | **kunku** |
+| *anstataŭ* | **anŝtattał** | **viĉał** | **vicĕ al** | **vic' ad** | **inloku** |
+| *-ar-* | **-aṛ-** = **-ai-** | | | | **-ar-** |
+| *celo* | **ţillo** = **tsillo** | **scopo** | **scope** | **scopo** | **skopo** |
+| *colo* | **ţollo** = **tsollo** | **polliĉo** | **pollice** | **pollĭce** | - |
+| *danki* | **danki** | **gratii** | **gratiu** | **gratiare** | **gratia** |
+| *fali* | **falli** | **cadi** | **cadu** | **cadere** | **kada** |
+| *forgesi* | **fergŭessi** | | | | **obliva** |
+| *hejmo* | **hêmo** = **haimo** | **domo** | **dome** | **domo** | **(sue) domo** |
+| *kaĉo* | **kaŝo** | | | | **grieo** |
+| *kisi* | **kyssi** = **kissi** | **basĭi** | **basiu** | **basiare** | **bacia** |
+| *lando* | **lando** | **pağėn̆so** = **paīso** | **pağen̆se** = **paese** | **pagense** | **paeso** |
+| *pregi* | **prêgŭi** = **praigŭi** | | | | - |
+| *sendi* | **sendi** | **mitti** | **mittu** | **mittĕre** | **invia** |
+| *ŝati* | **shatţi** = **shatsi**| **qŭẽri** = **qŭieri** | **queru** | **querere** | **alte tenaa** → **alte tena** |
+| *ŝlimo* | **ŝlĩmo** = **ŝlaimo** | | | | **slimo** |
+| *ŝpruci* | **ŝprutţi** = **ŝprutsi** | | | | **sperga** |
+| *ŝtono* | **ŝtêno** = **ŝtaino** | **pẽtro** = **pietro** | **petre** | **petra** | **pietro** |
+| *tago* | **tago** | **dīo** | **dīe** | **dīe** | **dio** |
+| *tago* *(de la semajno)* | **-edīo** | **-edīe** | **-edīe** | - |
+| *trinki* | **trinki** | **bïvi** = **bevi** | **bivu** | **bibĕre** | **biba** |
 
 | | | | | |
 |-|-|-|-|-|
