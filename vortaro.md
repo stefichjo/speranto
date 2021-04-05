@@ -29,7 +29,13 @@
 | *akiri* | | **acqŭiri** | **acquiru** | **acquirere** | |
 | *al* | | **al** | **al** | **ad** | |
 | *alia* | | **altra** | **altra** | **altra** | |
+| *amelo* | | **amylo** = **amilo** | **amyle** | **amylo** | |
+| *aminduma* | | **aminduma** | **corten̆sa** = **cortesa** | **cortense** | **cortese** | 
+| *anaso* | | **anatro** | **anatre** | **anatra** | **anatro** |
 | *apogi* | | **appodĭi** = **appoĵi** | **appodiu** | **appodiare** | |
+| *ankaŭ* | | **ancô** = **ancau** | **ancǒ** = **ancu** | **ance** | |
+| *ankoraŭ* | | **ancorô** = **ancorau** | **ancorǒ** = **ancoru** | **ancora** | |
+| *antaŭ* | | **antał** = **antau** | **antĕ al** = **antal** | **ant' ad** / **ante** | |
 | *-ar-* | **-aṛ-** = **-ai-** | | | | |
 | *averaĝo* | | **aväratĭco** = **averaĵo** | **avaratĭce** | **avaratĭco** | - |
 | *bieno* | | **bẽno** = **bieno** | | | |
@@ -186,12 +192,14 @@
 
 | | |
 |-|-|
-| **z** → **s** *[s]* | **akusativo** *[akusativo]* |
-| **c** → **z** *[c]* | **intenzo** *[intenco]* |
-| **ĉ** → **c** *[ŝ]* | **voco** *[voŝo]* |
-| **ŝ** → **c** *[ŝ]* | **carga** *[ŝarga]* |
-| **ĝ** → **g** *[g]* | **fromago** *[fromago]* |
+| **z** → **s** *[s]* | **accusativo** = **akusativo** *[akusativo]* |
+| **c** → **z** *[c]* | **intentio** = **intenzo** *[intenco]* |
+| **ĉ** → **c** *[ŝ]* | **voĉo** = **voco** *[voŝo]* |
+| **ŝ** → **c** *[ŝ]* | **ĉarga** = **carga** *[ŝarga]* |
+| **ĝ** → **g** *[g]* | **angelo** *[angelo]* |
 | | |
-| **-a** → **-e** | **bone** |
-| **-i** → **-a** | **kanta** |
-| **-aŭ** → **-u** | **hieru** |
+| **-a** → **-e** | **bone** *[bone]* |
+| **-i** → **-a** | **canta** = **kanta** *[kanta]* |
+| **-aŭ** → **-u** | **hieru** *[hieru]* |
+| | |
+| **-ant-** → **-ent-** | **studento** *[studento]* |
