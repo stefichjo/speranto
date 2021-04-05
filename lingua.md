@@ -48,12 +48,12 @@ Duobla konsonanto estas prononcata duoble.
 
 #### -re
 
-La ŝajnfinaĵo -**e** de la finaĵoj -**are**, -**ere**, -**ire** kaj -**ore** povas eliziiĝi. La akcento ne ŝanĝiĝas.
+***En poezio***, la ŝajnfinaĵo -**e** de la finaĵoj -**are**, -**ere**, -**ire** kaj -**ore** povas eliziiĝi. La akcento ne ŝanĝiĝas.
 
-| | |
-|-|-|
-| *ami* | **amare** → **amar'** *[amar']* |
-| *doktoro* | **doctore** → **doctor'** *[doktor']* |
+| | | poezie |
+|-|-|-|
+| *ami* | **amare** | **amar'** *[amar']* |
+| *doktoro* | **doctore** | **doctor'** *[doktor']* |
 
 #### i-, u-
 
@@ -114,6 +114,14 @@ En sia *multenombra* formo, substantivoj ricevas la finaĵon **-s**.
 |-|-|-|
 | *amiko(j)* | **amico** | **amicos** |
 | *amikino(j)* | **amica** | **amicas** |
+
+En la *vokativa* formo, substantivo ricevas la finaĵon **-i** anstataŭ **-s**. ***En poezio***, mallongiĝas **-ai**, **-ei** kaj **-oi** al **-e**, **-i** kaj **-i**.
+
+| | | poezie |
+|-|-|-|
+| *amikinoj!* | **amicaĭ!** = **amicai!** | **amice!** |
+| *amikoj!* | **amicoĭ!** = **amicoi!** | **amici!** |
+| *reĝoj!* | **regeĭ!** = **regei!** | **regi!** |
 
 Nomoj kaj terminoj konservas sian specifan *nominativan* formon. Por personaj nomoj, uziĝas **-o** anstataŭ **-us**.
 

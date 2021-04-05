@@ -145,6 +145,7 @@
 | *semajno* | | **septĭmano** = **semano** | **septimane** | **septimana** | **setimano** |
 | *senco* | | **senso** | **sense** | **senso** | **senso** |
 | *sendi* | **sendi** | **mitti** | **mittu** | **mittĕre** | **invia** |
+| *sinjoro* | | **sėnĭoro** | **seniore** | **seniore** | |
 | *senso* | | **sentumo** | **sense** | **senso** | - |
 | *serio* | | **serio** | **serie** | **seria** | |
 | *ŝipo* | **shippo** | | | | **navo** |
