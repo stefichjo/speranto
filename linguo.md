@@ -265,13 +265,13 @@ Adverboj finiĝas je **-e**.
 
 Originaj adverboj finiĝas je **-ô** *[aŭ]*. ***En poezio***, ili povas finiĝi je **-ö** *[e]*.
 
-| | | (poezie) |
+| | | poezie |
 |-|-|-|
 | *baldaŭ* | **baldô** *[baldaŭ]* | **baldö** *[balde]* |
 
 ***En poezio***, la **i** en korelativaj ŝajnradikoj prononciĝas *[j]*.
 
-| | | (poezie) |
+| | | poezie |
 |-|-|-|
 | *kiel* | **kiel** *[kiel]* | *[kjel]* |
 

@@ -148,7 +148,7 @@ Substantivoj finiĝas je **-e**. ***En poezio***, la substantiva finaĵo ellasi�
 
 Adjektivoj finiĝas je **-a**. ***En poezio***, ili ne ricevas la multenombran finaĵon **-s**.
 
-| | | (poezie) |
+| | | poezie |
 |-|-|-|
 | *bona* | **bona** | |
 | *bonaj* | **bonas** | **bona** |
@@ -280,7 +280,7 @@ La radiko de (latin(id)a) verbo estas tiu de la unua persono en ununombro.
 
 ***En poezio***, la verboj **stadu**, **statu** kaj **staru** perdas siajn ŝajnfinaĵojn **-ad-**, **-at-** kaj **-ra-**.
 
-| | | (poezie) |
+| | | poezie |
 |-|-|-|
 | *(ĉe-)estas* | **stadu** | **stu** |
 | *statas* | **statu** | **stu** |

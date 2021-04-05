@@ -147,7 +147,7 @@ Substantivo estas adjektivigebla pere de la ŝajnfinaĵo **-ale**. Se la ŝajnra
 
 ***En poezio***, la fina **-e** de la adjektivaj sufiksoj **-ile**, **-ale** kaj **-are** eliziiĝas.
 
-| | | (poezie) |
+| | | poezie |
 |-|-|-|
 | *bestiala* | **bestiale** | **bestial'** |
 | | |
@@ -187,7 +187,7 @@ Originaj adverboj konservas sian ŝajnfinaĵon.
 
 La ŝajnsufikso por ordinaloj estas **-essĭma** *[esi-ma]*. ***En poezio***, ordinaloj havas apartajn formojn.
 
-| | numeralo | ordinalo | ordinalo (poezie) |
+| | numeralo | ordinalo | ordinalo poezie |
 |-|-|-|-|
 | *1* | **un** | **unessĭma** | **prima** |
 | *2* | **du** | **duessĭma** | **secunda** |
@@ -455,7 +455,7 @@ Por alativo, lokativo, ablativo uziĝas la prepozicioj **de**, **in**, **ad**.
 
 ### Konjunkcioj
 
-| | | (poezie) |
+| | | poezie |
 |-|-|-|
 | *kaj* | **et** | -**qŭĕ** *[-ku-e]* |
 | *multaj kaj severaj* | **multas et graves** | **multas gravesque** *[multas graves-ku-e]* |
