@@ -82,7 +82,7 @@ En la diftongoj **iu** kaj **ui**, la diftongokomencaj **i-** kaj **u-** ne esta
 
 | | |
 |-|-|
-| *fazo* | **phase** *[ɸase]* |
+| *fazo* | **phase** *[fase]* |
 | *temo* | **thema** *[θema]* |
 | *karaktero* | **charactĕre** *[ĥarakte-re]* |
 | *sistemo* | **systema** *[systema]* |
@@ -92,10 +92,10 @@ La grek-devenaj ŝajnfinaĵoj **-i**, **-īa**, **-a**, **-e** havas signifojn s
 
 | | |
 |-|-|
-| *"lumskribado"*, *fotografado* | **photographi** *[ɸotograɸi]* |
-| *"lumskribmaniero"*, *fotografio* | **photographīa** *[ɸotograɸia]* |
-| *"lumskribanto"*, *fotografisto* | **photographa** *[ɸotograɸa]* |
-| *"lumskribaĵo"*, *fotografaĵo* | **photographe** *[ɸotograɸe]* |
+| *"lumskribado"*, *fotografado* | **photographi** *[fotografi]* |
+| *"lumskribmaniero"*, *fotografio* | **photographīa** *[fotografia]* |
+| *"lumskribanto"*, *fotografisto* | **photographa** *[fotografa]* |
+| *"lumskribaĵo"*, *fotografaĵo* | **photographe** *[fotografe]* |
 
 ## Gramatiko
 
@@ -259,9 +259,9 @@ La korelativo **la** kaj la numeralo **un** uziĝas kiel artikoloj. ***En poezio
 
 | | |
 |-|-|
-| *li*, *ŝi*, *ri*, *ĝi*, *ili* | **olle**, **alle**, **elle**, **ulle**, **ille** |
-| *lia*, *ŝia*, *ria*, *ĝia*, *ilia* | **olla**, **alla**, **ella**, **ulla**, **illa** |
-| *lin*, *ŝin*, *rin*, *ĝin*, *ilin* | **olli**, **alli**, **elli**, **ulli**, **illi** |
+| *li*, *ŝi*, *ri*, *ĝi*, *ili* | **ulle**, **alle**, **elle**, **olle**, **ille** |
+| *lia*, *ŝia*, *ria*, *ĝia*, *ilia* | **ulla**, **alla**, **ella**, **olla**, **illa** |
+| *lin*, *ŝin*, *rin*, *ĝin*, *ilin* | **ulli**, **alli**, **elli**, **olli**, **illi** |
 | | |
 | *oni* | **une** |
 | *onia* | **una** |
@@ -319,11 +319,11 @@ En la prezenco, la infinitiva finiĝo -**re** forestas.
 |-|-|-|
 | *mi havas* | **me habe** | **habem** |
 | *vi havas* | **tu habe** | **habes** |
-| *li havas* | **ole habe** | **habet** |
+| *li havas* | **ulle habe** | **habet** |
 | | | |
 | *ni havas* | **nos habe** | **habemus** |
 | *vi havas* | **vos habe** | **habetis** |
-| *ili havas* | **ile habe** | **habent** |
+| *ili havas* | **ille habe** | **habent** |
 
 ***En poezio***, la infinitva formo **essere** mallongiĝas al **esse**.
 
@@ -331,11 +331,11 @@ En la prezenco, la infinitiva finiĝo -**re** forestas.
 |-|-|-|
 | *mi estas* | **me esse** | **essem** → **sum** |
 | *vi estas* | **tu esse** | **esses** → **es** |
-| *li estas* | **ole esse** | **esset** → **est** |
+| *li estas* | **ulle esse** | **esset** → **est** |
 | | | |
 | *ni estas* | **nos esse** | **essemus** → **sumus** |
 | *vi estas* | **vos esse** | **essetis** → **estis** |
-| *ili estas* | **ile esse** | **essent** → **sunt** |
+| *ili estas* | **ille esse** | **essent** → **sunt** |
 
 #### Preterito
 
@@ -367,10 +367,17 @@ La volitivo de verboj, kies radiko havas la ŝajnfinaĵon **-i** aŭ **-e** (akc
 
 | | |
 |-|-|
-| *vi aŭdu* | **tu audia** |
-| *vi vidu* | **tu videa** |
+| *vi venu* | **tu venĭa** = **tu venia** |
+| *vi vidu* | **tu vidĕa** |
 
-La volitivo de verboj, kies radiko finiĝas je neakcentebla **-ĕ** povas konduti kiel verboj je **-i**. Tiam skribiĝas **ï** anstataŭ **ĕ** (ekzemple **facïre**). Ordinaraj verboj je neakcentebla **-ĕ** perdas sian ŝajnfinaĵon **-e** en la volitivo. Do, anstataŭ je **-e**, ili finiĝas je **-a** en la volitivo.
+La volitivo de verboj, kies radiko finiĝas je neakcentebla **-ĕ** povas konduti kiel verboj je **-i**. Tiam skribiĝas **ï** anstataŭ **ĕ**.
+
+| | |
+|-|-|
+| *fari* | **facïre** |
+| *diri* | **dicĕre** |
+
+Ordinaraj verboj je neakcentebla **-ĕ** perdas sian ŝajnfinaĵon **-e** en la volitivo. Do, anstataŭ je **-e**, ili finiĝas je **-a** en la volitivo.
 
 | | |
 |-|-|
@@ -389,11 +396,11 @@ Por la imperativo, uziĝas la prezenca formo. ***En poezio***, uziĝas la voliti
 
 | | | poezie |
 |-|-|-|
-| *aŭdu!* | **audi!** | **audia!** |
-| *vidu!* | **vide!** | **videa!** |
+| *venu!* | **veni!** | **venĭa!** = **audia!** |
+| *vidu!* | **vide!** | **vidĕa!** |
 | | |
-| *faru!* | **face!** | **facia!** |
-| *diru!* | **dice!** | **dica!** |
+| *faru!* | **face!** | **facĭa!** = **facia!** |
+| *diru!* | **vade!** | **vada!** |
 | | |
 | *parolu!* | **parla!** | **parle!** |
 
@@ -450,7 +457,7 @@ Por alativo, lokativo, ablativo uziĝas la prepozicioj **de**, **in**, **ad**.
 
 | | | (poezie) |
 |-|-|-|
-| *kaj* | **et** | -**qŭĕ** *[-ku-e] |
+| *kaj* | **et** | -**qŭĕ** *[-ku-e]* |
 | *multaj kaj severaj* | **multas et graves** | **multas gravesque** *[multas graves-ku-e]* |
 | | | |
 | *ke* | **ce** *[ke]* | - |

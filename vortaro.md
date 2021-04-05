@@ -23,7 +23,7 @@
 | *almenaŭ* | | **almïnô** = **almenau** | **alminǒ** = **alminu** | **almino** | |
 | *almozo* | **almoso** | **almono** | **alemosy̆ne** = **alemose** | **alemosy̆na** | |
 | *ambaŭ* | | **ambô** = **ambau** | **ambǒ** = **ambu** | **ambi** | **ambi** |
-| *amboso* | | | | | **inkudo** |
+| *amboso* | **ambosso** | **incudo** | **incude** | **incude** | **inkudo** |
 | *anstataŭ* | **anŝtattał** | **viĉał** | **vicĕ al** | **vic' ad** | **inloku** |
 | *akĉento* | | **accentumo** | **accente** | **accento** | - |
 | *akiri* | | **acqŭiri** | **acquiru** | **acquirere** | |

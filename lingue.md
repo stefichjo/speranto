@@ -20,11 +20,11 @@ La ŝajnsufiksoj **-ĭn-** kaj **-ĭt** eliziiĝas.
 | *nomo* | **nomĭne** = **nome** |
 | *limo* | **limĭte** = **lime** |
 | *lumo* | **lumĭne** = **lume** |
-| *sango* | **sanguĭne** = **sange** |
+| *sango* | **sanguĭne** = **sangue** |
 
 ### t, d
 
-**t** estas prononcata *[ŧ]* (= *[θ]*) antaŭ radikofina **-i**. La ***Lingvaa*** ŝajnfinaĵo **-ione** *[ione]* mallongiĝas al la ŝajnsufikso **-i** *[j]*.
+**t** estas prononcata *[ŧ]* (= *[θ]*) antaŭ radikofina **-i**. La ŝajnfinaĵo **-ione** *[ione]* mallongiĝas al la ŝajnsufikso **-i** *[j]*.
 | | |
 |-|-|
 | *graco* | **gratie** *[graŧje]* |
@@ -57,7 +57,7 @@ La ŝajnsufikso **-atĭc-** prononciĝas *[ađj]* (= *[aðj]*).
 | | |
 | *biciklo* | **bicycle** *[bicikle]* |
 
-Kiam **c** kaj **g** estas prononcataj *[k]* kaj *[g]* antaŭ **-e** kaj **-i**, ili portas makronon.
+Kiam **c** kaj **g** estas prononcataj *[k]* kaj *[g]* antaŭ **e** kaj **i**, ili portas makronon. Kiam ili estas prononcataj *[c]* kaj *[dz]* antaŭ **a**, **o** kaj **u**, ili portas cirkumflekson.
 
 | | |
 |-|-|
@@ -69,7 +69,7 @@ Kiam **c** kaj **g** estas prononcataj *[k]* kaj *[g]* antaŭ **-e** kaj **-i**,
 
 ### i, u
 
-En diftongoj, ***Lingvaa*** **i** prononciĝas *[j]*. Komence de radiko, ĝi skribiĝas **j**.
+En diftongoj, **i** prononciĝas *[j]*. Komence de radiko, skribiĝas **j** anstataŭ **i**.
 
 | | |
 |-|-|
@@ -98,7 +98,7 @@ Kiam **i** kaj **u** estas akcentataj en antaŭlasta pozicio, ili portas makrono
 
 ### v
 
-Radikofina ***Lingvaa*** **-b** kaj **-p** ofte fariĝas **-v** *[v]*.
+Postvokala **-b** kaj **-p** ofte fariĝas **-v** *[v]*.
 
 | | |
 |-|-|
@@ -146,12 +146,12 @@ Substantivoj finiĝas je **-e**. ***En poezio***, la substantiva finaĵo ellasi�
 
 ### Adjektivoj
 
-Adjektivoj finiĝas je **-a**.
+Adjektivoj finiĝas je **-a**. ***En poezio***, ili ne ricevas la multenombran finaĵon **-s**.
 
-| | |
-|-|-|
-| *bona* | **bona** |
-| *bonaj* | **bonas** |
+| | | (poezie) |
+|-|-|-|
+| *bona* | **bona** | |
+| *bonaj* | **bonas** | **bona** |
 
 ### Adverboj
 
@@ -228,8 +228,8 @@ Ne estas ne-difina artikolo.
 
 | | |
 |-|-|
-| *li(n)*, *ŝi(n)*, *ri(n)*, *ĝi(n)*, *ili(n)* | **olli**, **alli**, **elli**, **ulli**, **illi** |
-| *lia*, *ŝia*, *ria*, *ĝia*, *ilia* | **ollia**, **allia**, **ullia**, **ellia**, **illia** |
+| *li(n)*, *ŝi(n)*, *ri(n)*, *ĝi(n)*, *ili(n)* | **ulli**, **alli**, **elli**, **olli**, **illi** |
+| *lia*, *ŝia*, *ria*, *ĝia*, *ilia* | **ullia**, **allia**, **ollia**, **ellia**, **illia** |
 | | |
 | *oni(n)* | **uni** |
 | *onia* | **unia** |
@@ -282,9 +282,9 @@ La radiko de (latin(id)a) verbo estas tiu de la unua persono en ununombro.
 
 | | | (poezie) |
 |-|-|-|
-| *(ĉe-)estas* | **stadan** | **stan** |
-| *statas* | **statan** | **stan** |
-| *staras* | **staran** | **stan** |
+| *(ĉe-)estas* | **stadu** | **stu** |
+| *statas* | **statu** | **stu** |
+| *staras* | **staru** | **stu** |
 
 ### Prepozicioj
 
@@ -296,13 +296,13 @@ Prepoziciaĵoj estas poezia formo de substantivo en unu-nombro kun la prepozicio
 | *dank' al* | **gratiĕ al** *[graŧjal]* |
 | *anstataŭ* | **vicĕ al** *[vical]* |
 
-La akuzativa prepozicio **a** uziĝas ***tra bruo*** (kaj antaŭ nomoj kaj kiam la akuzativa frazparto antaŭas la nominativan frazparton).
+La akuzativa prepozicio **a** uziĝas ***tra bruo*** (specife antaŭ nomoj aŭ kiam la akuzativa frazparto antaŭas la nominativan frazparton).
 
 | | (tra bruo) |
 |-|-|
 | *mi vidas Karlan* | **mi vidan a Carla** |
 | | |
-| *vin mi vidas* | **a tī mi vidan** |
+| *ŝin mi vidas* | **a alli mi vidan** |
 
 ### Konjunkcioj
 

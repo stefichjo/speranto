@@ -14,17 +14,17 @@
 | | |
 | *besto* | **bestio** *[bestjo]* |
 
-Radikofina akcentata **-ī**, ekzemple la ŝajnsufikso **-ī-** (t.e. la mallongiĝinta ***Lingvaa*** ŝajnfinaĵo **-ione**), prononciĝas *[i]*. (Vd. [Ĝermanaj Vortoj](#ĝermanaj-vortoj).)
+Radikofina akcentata **-ī**, ekzemple la ŝajnsufikso **-ī-** (t.e. la mallongiĝinta ŝajnfinaĵo **-ione**), prononciĝas *[i]*. (Vd. [Ĝermanaj Vortoj](#ĝermanaj-vortoj).)
 
 | | |
 |-|-|
 | *nacio* | **natīo** *[nasio]* |
 
-La ***Lingvaa*** ŝajnsufikso **-atĭc-** fariĝas **aĵ** *[aĵ]*.
+La ŝajnsufikso **-atĭc-** prononciĝas *[aĵ]*.
 
 | | |
 |-|-|
-| *avantaĝo* | **avantatĭco** *[avantaĵo]* |
+| *avantaĝo* | **avantatĭco** = **avantaĵo** *[avantaĵo]* |
 
 ### c, g
 
