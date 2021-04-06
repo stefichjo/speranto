@@ -16,28 +16,50 @@
 | *ajlo* | | **alĭo** | **alie** | **alio** | **ailo** |
 | *ajn* | **ên** = **ain** | **ali-** | **ali-** | **ali-** | **kunku** |
 | *akceli* | | **acceleri** | **acceleru** | **accelerare** | **akcelera** |
+| *akĉento* | | **accentumo** | **accente** | **accento** | - |
+| *akiri* | | **acqŭiri** | **acquiru** | **acquirere** | |
 | *akra* | | **acra** | **acra** | **acre** | **akute** |
 | *akuŝi* | | | | | **obstetra** |
 | *akuzativo* | | **accusativo** | **accusative** | **accusativo** | |
+| *al* | | **al** | **al** | **ad** | |
 | *alaŭdi* | | | | | **alavda** |
+| *alia* | | **altra** | **altra** | **altra** | |
 | *almenaŭ* | | **almïnô** = **almenau** | **alminǒ** = **alminu** | **almino** | |
 | *almozo* | **almoso** | **almono** | **alemosy̆ne** = **alemose** | **alemosy̆na** | |
 | *ambaŭ* | | **ambô** = **ambau** | **ambǒ** = **ambu** | **ambi** | **ambi** |
 | *amboso* | **ambosso** | **incudo** | **incude** | **incude** | **inkudo** |
-| *anstataŭ* | **anŝtattał** | **viĉał** | **vicĕ al** | **vic' ad** | **inloku** |
-| *akĉento* | | **accentumo** | **accente** | **accento** | - |
-| *akiri* | | **acqŭiri** | **acquiru** | **acquirere** | |
-| *al* | | **al** | **al** | **ad** | |
-| *alia* | | **altra** | **altra** | **altra** | |
 | *amelo* | | **amylo** = **amilo** | **amyle** | **amylo** | |
 | *aminduma* | | **aminduma** | **corten̆sa** = **cortesa** | **cortense** | **cortese** | 
 | *anaso* | | **anatro** | **anatre** | **anatra** | **anatro** |
-| *apogi* | | **appodĭi** = **appoĵi** | **appodiu** | **appodiare** | |
 | *ankaŭ* | | **ancô** = **ancau** | **ancǒ** = **ancu** | **ance** | |
 | *ankoraŭ* | | **ancorô** = **ancorau** | **ancorǒ** = **ancoru** | **ancora** | |
+| *anonci* | | **annuntii** | **annuntiu** | **annuntiare** | - |
+| *anstataŭ* | **anŝtattał** | **viĉał** | **vicĕ al** | **vic' ad** | **inloku** |
 | *antaŭ* | | **antał** = **antau** | **antĕ al** = **antal** | **ant' ad** / **ante** | |
-| *-ar-* | **-aṛ-** = **-ai-** | | | | |
+| *Anunciacio* | | **Annuntiatīo** | **Annuntiatie** | **Annuntiatione** | |
+| *apenaŭ* | | **appenô** = **appenau** | **appenǒ** = **appenu** | **appena** | |
+| *aplaŭdi* | | **applaudi** | **applaudu** | **applaudĕre** | **aploda** |
+| *apogi* | | **appodĭi** = **appoĵi** | **appodiu** | **appodiare** | |
+| *-ar-* | **-aṛ-** = **-ai-** @ | | | | |
+| *araneo* | | | | | **arakno** |
+| *aranĝi* | | | | | **aranga** |
+| *arĉo* | | | | | **arketo** |
+| *ardeo* | | | | | **herono** |
+| *ardezo* | | | | | **ardaeo** |
+| *arĝento* | | | | | |
+| *arĥitekturo* | | | | | |
+| *artiko* | | | | | **junkturo** |
+| *artiklo* | | | | | **artikolo** |
+| *artiŝoko* | | | | | |
+| *atenco* | | | | | **atendado** |
+| *aŭ* | | | | | **u** |
+| *aŭdi* | | | | | **entenda** |
+| *Aŭgusto* | | | | | **Avgusto** |
+| *aŭskulti* | | | | | **askulta** |
+| *aŭtuno* | | | | | **atuno** |
 | *averaĝo* | | **aväratĭco** = **averaĵo** | **avaratĭce** | **avaratĭco** | - |
+| *avizo* | | | | | |
+| *azeno* | | | | | |
 | *bieno* | | **bẽno** = **bieno** | | | |
 | *ĉambro* | | **çhamĕro** = **çhambro** | **camĕre** = **camre** | **camĕra** | |
 | *caro* | **ţaro** = **tsaro** | | | | - |
@@ -131,7 +153,7 @@
 | *povi* | | **possi** | **possu** | **potere** | |
 | *prava* | **prava** | | | | **razione** |
 | *precipe* | | **prïnçipe** = **prensipe** | **principo** | **principalemente** | |
-| *pregi* | **prêgŭi** = **praigŭi** | | | | - |
+| *pregi* | **pregi** | | | | - |
 | *preĝi* | | **preqŭi** | **precu** | **precare** | **preka** |
 | *pri* | **pri** | | | | **de** |
 | *prononci* | | **pronuntii** | **pronuntiu** | **pronuntiare** | - |
@@ -197,6 +219,8 @@
 | **ĉ** → **c** *[ŝ]* | **voĉo** = **voco** *[voŝo]* |
 | **ŝ** → **c** *[ŝ]* | **ĉarga** = **carga** *[ŝarga]* |
 | **ĝ** → **g** *[g]* | **angelo** *[angelo]* |
+| **ĵ** → **j** *[j]* | **jeti** *[jeti]* |
+| **ĥ** → **k** *[k]* | **eĥo** = **eko** *[eko]* |
 | | |
 | **-a** → **-e** | **bone** *[bone]* |
 | **-i** → **-a** | **canta** = **kanta** *[kanta]* |
