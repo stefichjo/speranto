@@ -195,7 +195,7 @@ Originaj adverboj konservas sian ŝajnfinaĵon.
 
 La ŝajnsufikso por ordinaloj estas **-essĭma** *[esi-ma]*. ***En poezio***, ordinaloj havas apartajn formojn.
 
-| | numeralo | ordinalo | ordinalo poezie |
+| | numeralo | ordinalo | poezie |
 |-|-|-|-|
 | *1* | **un** | **unessĭma** | **prima** |
 | *2* | **du** | **duessĭma** | **secunda** |
@@ -267,9 +267,9 @@ La korelativo **la** kaj la numeralo **un** uziĝas kiel artikoloj. ***En poezio
 
 | | |
 |-|-|
-| *li*, *ŝi*, *ri*, *ĝi*, *ili* | **ulle**, **alle**, **elle**, **olle**, **ille** |
-| *lia*, *ŝia*, *ria*, *ĝia*, *ilia* | **ulla**, **alla**, **ella**, **olla**, **illa** |
-| *lin*, *ŝin*, *rin*, *ĝin*, *ilin* | **ulli**, **alli**, **elli**, **olli**, **illi** |
+| *li*, *ŝi*, *ri*, *ĝi*, *ili* | **olle**, **alle**, **elle**, **ulle**, **ille** |
+| *lia*, *ŝia*, *ria*, *ĝia*, *ilia* | **olla**, **alla**, **ella**, **ulla**, **illa** |
+| *lin*, *ŝin*, *rin*, *ĝin*, *ilin* | **olli**, **alli**, **elli**, **ulli**, **illi** |
 | | |
 | *oni* | **une** |
 | *onia* | **una** |
@@ -327,7 +327,7 @@ En la prezenco, la infinitiva finiĝo -**re** forestas.
 |-|-|-|
 | *mi havas* | **me habe** | **habem** |
 | *vi havas* | **tu habe** | **habes** |
-| *li havas* | **ulle habe** | **habet** |
+| *li havas* | **olle habe** | **habet** |
 | | | |
 | *ni havas* | **nos habe** | **habemus** |
 | *vi havas* | **vos habe** | **habetis** |
@@ -339,7 +339,7 @@ En la prezenco, la infinitiva finiĝo -**re** forestas.
 |-|-|-|
 | *mi estas* | **me esse** | **essem** → **sum** |
 | *vi estas* | **tu esse** | **esses** → **es** |
-| *li estas* | **ulle esse** | **esset** → **est** |
+| *li estas* | **olle esse** | **esset** → **est** |
 | | | |
 | *ni estas* | **nos esse** | **essemus** → **sumus** |
 | *vi estas* | **vos esse** | **essetis** → **estis** |

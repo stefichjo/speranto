@@ -1,28 +1,28 @@
 # Vortaro
 
-| | Speranto | Linguo | Lingue | Lingua | [Z](#Z) |
-|-|-|-|-|-|-|
-| *abelo* | | **apo** | **ape** | **ape** | **apo** |
-| *abio* | | **abieto** | **abiete** | **abiete** | **abieto** |
-| *abomeni* | | **abomini** | **abominu** | **abominare** | **abomina** |
-| *aĉeti* | | **açcĕpti** = **açhti** | **compru** | **comprare** | **kompra** |
-| *adiaŭ* | | **addeô** = **addeaŭ** | **addeǒ** = **addeu** | **addeo** | |
-| *adulti* | | **adulteri** | **adulteru** | **adulterare** | **adultera** |
-| *aero* | | **êro** = **airo** | **aere** | **aere** | |
-| *aerumi* | | **êrumi** = **airumu** | **aeru** | **aerare** | **aera** |
-| *aĝo* | | **eṯatĭco** = **edaĵo** | **etatĭce** | **etatĭco** | **etado** |
-| *agordi* | | **accordi** | **accordu** | **accordare** | **akorda** |
-| *-aĵ-* | | **-atĭc-** = **-aĵ-** | **-atĭc-** *[ađj]* | **-atĭc-** | **-e-** |
-| *ajlo* | | **alĭo** | **alie** | **alio** | **ailo** |
-| *ajn* | **ên** = **ain** | **ali-** | **ali-** | **ali-** | **kunku** |
-| *akceli* | | **acceleri** | **acceleru** | **accelerare** | **akcelera** |
-| *akĉento* | | **accentumo** | **accente** | **accento** | - |
-| *akiri* | | **acqŭiri** | **acquiru** | **acquirere** | |
-| *akra* | | **acra** | **acra** | **acre** | **akute** |
-| *akuŝi* | | | | | **obstetra** |
-| *akuzativo* | | **accusativo** | **accusative** | **accusativo** | |
-| *al* | | **al** | **al** | **ad** | |
-| *alaŭdi* | | | | | **alavda** |
+| | Speranto | Linguo | Lingue | Lingua | [Z](#Z) | Ido |
+|-|-|-|-|-|-|-|
+| *abelo* | | **apo** | **ape** | **ape** | **apo** | **abelo** |
+| *abio* | | **abieto** | **abiete** | **abiete** | **abieto** | |
+| *abomeni* | | **abomini** | **abominu** | **abominare** | **abomina** | |
+| *aĉeti* | | **açcĕpti** = **açhti** | **compru** | **comprare** | **kompra** | |
+| *adiaŭ* | | **addeô** = **addeaŭ** | **addeǒ** = **addeu** | **addeo** | @ | @ **adiawi** |
+| *adulti* | | **adulteri** | **adulteru** | **adulterare** | **adultera** | = |
+| *aero* | | **êro** = **airo** | **aere** | **aere** | | |
+| *aerumi* | | **êrumi** = **airumu** | **aeru** | **aerare** | **aera** | **aerizar** |
+| *aĝo* | | **eṯatĭco** = **edaĵo** | **etatĭce** | **etatĭco** | **etado** | @ |
+| *agordi* | | **accordi** | **accordu** | **accordare** | **akorda** | @ |
+| *-aĵ-* | | **-atĭc-** = **-aĵ-** | **-atĭc-** *[ađj]* | **-atĭc-** | **-e-** | **-aj-** |
+| *ajlo* | | **alĭo** | **alie** | **alio** | **ailo** | **alio** |
+| *ajn* | **ên** = **ain** | **ali-** | **ali-** | **ali-** | **kunku** | **irga** |
+| *akceli* | | **acceleri** | **acceleru** | **accelerare** | **akcelera** | **acelerar** |
+| *akĉento* | | **accentumo** | **accente** | **accento** | - | @ |
+| *akiri* | | **acqŭiri** | **acquiru** | **acquirere** | | **aquirar** |
+| *akra* | | **acra** | **acra** | **acre** | **akute** | **akra** |
+| *akuŝi* | | | | | **obstetra** | **akushar** |
+| *akuzativo* | | **accusativo** | **accusative** | | **akuzativo** |
+| *al* | | **al** | **al** | **ad** | **a(d)** |
+| *alaŭdi* | | | | | **alavda** | **alaudar** |
 | *alia* | | **altra** | **altra** | **altra** | |
 | *almenaŭ* | | **almïnô** = **almenau** | **alminǒ** = **alminu** | **almino** | |
 | *almozo* | **almoso** | **almono** | **alemosy̆ne** = **alemose** | **alemosy̆na** | |

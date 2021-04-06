@@ -228,8 +228,8 @@ Ne estas ne-difina artikolo.
 
 | | |
 |-|-|
-| *li(n)*, *ŝi(n)*, *ri(n)*, *ĝi(n)*, *ili(n)* | **ulli**, **alli**, **elli**, **olli**, **illi** |
-| *lia*, *ŝia*, *ria*, *ĝia*, *ilia* | **ullia**, **allia**, **ollia**, **ellia**, **illia** |
+| *li(n)*, *ŝi(n)*, *ri(n)*, *ĝi(n)*, *ili(n)* | **olli**, **alli**, **elli**, **ulli**, **illi** |
+| *lia*, *ŝia*, *ria*, *ĝia*, *ilia* | **ollia**, **allia**, **ellia**, **ullia**, **illia** |
 | | |
 | *oni(n)* | **uni** |
 | *onia* | **unia** |
@@ -302,7 +302,7 @@ La akuzativa prepozicio **a** uziĝas ***tra bruo*** (specife antaŭ nomoj aŭ k
 |-|-|
 | *mi vidas Karlan* | **mi vidan a Carla** |
 | | |
-| *ŝin mi vidas* | **a alli mi vidan** |
+| *rin mi vidas* | **a elli mi vidan** |
 
 ### Konjunkcioj
 
