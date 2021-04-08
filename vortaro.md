@@ -1,7 +1,7 @@
 # Vortaro
 
-| | Speranto | Linguo | Lingue | Lingua | [Z](#Z) | Ido |
-|-|-|-|-|-|-|-|
+| | Speranto | Linguo | Lingue | Lingua | [Z](#Z) |
+|-|-|-|-|-|-|
 | *abelo* | | **apo** | **ape** | **ape** | **apo** | **abelo** |
 | *abio* | | **abieto** | **abiete** | **abiete** | **abieto** | |
 | *abomeni* | | **abomini** | **abominu** | **abominare** | **abomina** | |
@@ -23,7 +23,7 @@
 | *akuzativo* | | **accusativo** | **accusative** | | **akuzativo** |
 | *al* | | **al** | **al** | **ad** | **a(d)** |
 | *alaŭdi* | | | | | **alavda** | **alaudar** |
-| *alia* | | **altra** | **altra** | **altra** | |
+| *alia* | | **altra** | **altra** | **altra** | | </ido>
 | *almenaŭ* | | **almïnô** = **almenau** | **alminǒ** = **alminu** | **almino** | |
 | *almozo* | **almoso** | **almono** | **alemosy̆ne** = **alemose** | **alemosy̆na** | |
 | *ambaŭ* | | **ambô** = **ambau** | **ambǒ** = **ambu** | **ambi** | **ambi** |
@@ -46,21 +46,20 @@
 | *arĉo* | | | | | **arketo** |
 | *ardeo* | | | | | **herono** |
 | *ardezo* | | | | | **ardaeo** |
-| *arĝento* | | | | | |
-| *arĥitekturo* | | | | | |
 | *artiko* | | | | | **junkturo** |
 | *artiklo* | | | | | **artikolo** |
 | *artiŝoko* | | | | | |
 | *atenco* | | | | | **atendado** |
 | *aŭ* | | | | | **u** |
 | *aŭdi* | | | | | **entenda** |
-| *Aŭgusto* | | | | | **Avgusto** |
 | *aŭskulti* | | | | | **askulta** |
 | *aŭtuno* | | | | | **atuno** |
 | *averaĝo* | | **aväratĭco** = **averaĵo** | **avaratĭce** | **avaratĭco** | - |
-| *avizo* | | | | | |
-| *azeno* | | | | | |
-| *bieno* | | **bẽno** = **bieno** | | | |
+| | | | | | |
+| *baldakeno* | | **baldaqŭino** | **baldaquine** | **baldaquino** |
+| *baki* | **backi** | | | | **inforna** |
+| *beni* | | **benediqŭi** | **benedicu** | **benedicĕre** | **benedika** | |
+| *bieno* | | **bẽno** = **bieno** | **bene** | **beno** | |
 | *ĉambro* | | **çhamĕro** = **çhambro** | **camĕre** = **camre** | **camĕra** | |
 | *caro* | **ţaro** = **tsaro** | | | | - |
 | *ĉasi* | | **çhaptĭi** = **çhassi** | **captiu** | **captiare** | **venatra** |
