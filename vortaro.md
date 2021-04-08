@@ -12,7 +12,7 @@
 | *aerumi* | | **êrumi** = **airumu** | **aeru** | **aerare** | **aera** | **aerizar** |
 | *aĝo* | | **eṯatĭco** = **edaĵo** | **etatĭce** | **etatĭco** | **etado** | @ |
 | *agordi* | | **accordi** | **accordu** | **accordare** | **akorda** | @ |
-| *-aĵ-* | | **-atĭc-** = **-aĵ-** | **-atĭc-** *[ađj]* | **-atĭc-** | **-e-** | **-aj-** |
+| *-aĵ-* | | **-atĭc-** = **-aĵ-** | **-atĭc-** | **-atĭc-** | **-e-** | **-aj-** |
 | *ajlo* | | **alĭo** | **alie** | **alio** | **ailo** | **alio** |
 | *ajn* | **ên** = **ain** | **ali-** | **ali-** | **ali-** | **kunku** | **irga** |
 | *akceli* | | **acceleri** | **acceleru** | **accelerare** | **akcelera** | **acelerar** |
@@ -29,7 +29,7 @@
 | *ambaŭ* | | **ambô** = **ambau** | **ambǒ** = **ambu** | **ambi** | **ambi** |
 | *amboso* | **ambosso** | **incudo** | **incude** | **incude** | **inkudo** |
 | *amelo* | | **amylo** = **amilo** | **amyle** | **amylo** | |
-| *aminduma* | | **aminduma** | **corten̆sa** = **cortesa** | **cortense** | **cortese** | 
+| *aminduma* | | **aminduma** | **corten̆sa** = **cortesa** | **cortense** | **kortese** | 
 | *anaso* | | **anatro** | **anatre** | **anatra** | **anatro** |
 | *ankaŭ* | | **ancô** = **ancau** | **ancǒ** = **ancu** | **ance** | |
 | *ankoraŭ* | | **ancorô** = **ancorau** | **ancorǒ** = **ancoru** | **ancora** | |
@@ -58,8 +58,49 @@
 | | | | | | |
 | *baldakeno* | | **baldaqŭino** | **baldaquine** | **baldaquino** |
 | *baki* | **backi** | | | | **inforna** |
-| *beni* | | **benediqŭi** | **benedicu** | **benedicĕre** | **benedika** | |
+| *baldaŭ* | **baldô** = **baldau** | | | | **prestu** |
+| *bani* | | **banĭi** | **baniu** | **baniare** | **bagna** |
+| *banto* | | | | | **nodo** |
+| *barakti* | | | | | **springi** |
+| *barbiro* | | | | | **barbiero** |
+| *bedaŭri* | **bedũri** = **bedauri** | | | | **regreta** |
+| *beni* | | **benediqŭi** | **benedicu** | **benedicĕre** | **benedika** |
+| *bero* | | | | | **bako** |
+| *besto* | | | | | **animalo** |
+| *betulo* | | | | | **betlo** |
 | *bieno* | | **bẽno** = **bieno** | **bene** | **beno** | |
+| *bindi* | | | | | **interliga** |
+| *birdo* | | | | | **ukcelo** |
+| *bleki* | | | | | **kria**/**krieta** |
+| *blovi* | | | | | **sofla** |
+| *bobeno* | | | | | **bobino** |
+| *boji* | | | | | **aboja** |
+| *bombono* | | | | | **bonbono** |
+| *for* | | | | | **bor** |
+| *bordo* | | | | | **rivo** @ |
+| *bordero* | | | | | **bordo** |
+| *bramo* | | | | **bremo** |
+| *branĉo* | | | | | **ramo** |
+| *brando* | | | | | **akvavito** |
+| *breto* | **bretto** | | | | **tavlo** |
+| *brogi* | | | | | **skalda** |
+| *bruo* | | | | | **rumoro** |
+| *bruli* | | | | | **arda** |
+| *brusto* | | | | | **pekto** |
+| *bubalo* | | | | | **bufalo** |
+| *bufo* | | | | | **bufono** @ |
+| *bufedo* | | | | | **bufeto** |
+| *buko* | | | | | **boklo** |
+| *bukedo* | | | | | **buketo** |
+| *bulko* | | | | | **blanke pano** |
+| *burdo* | | | | | **burdono** |
+| *burĝo* | | | | | **burgeso** |
+| *burĝono* | | | | | **botono** |
+| *buŝo* | | | | | **boko** |
+| *buŝelo* | | | | | **buselo** |
+| *butero* | **buttero** | | | | **butro** |
+| *butonumi* | | | | | **butona** |
+| | | | | | |
 | *ĉambro* | | **çhamĕro** = **çhambro** | **camĕre** = **camre** | **camĕra** | |
 | *caro* | **ţaro** = **tsaro** | | | | - |
 | *ĉasi* | | **çhaptĭi** = **çhassi** | **captiu** | **captiare** | **venatra** |
@@ -70,6 +111,7 @@
 | *ĉiu* | **chiu** | | | | **omnu** |
 | *colo* | **ţollo** = **tsollo** | **polliĉo** | **pollice** | **pollĭce** | **dito** |
 | *ĉu* | **chu** | | | | **num** |
+| | | | | | |
 | *danki* | **danki** | **gratii** | **gratiu** | **gratiare** | **gratia** |
 | *demandi* | | **dėmandi** = **dimandi** | **demandu** | **demandare** | |
 | *demokratio* | | **democratīo** | **democratīe** | **democratīa** | - |
@@ -213,16 +255,16 @@
 
 | | |
 |-|-|
-| **z** → **s** *[s]* | **accusativo** = **akusativo** *[akusativo]* |
-| **c** → **z** *[c]* | **intentio** = **intenzo** *[intenco]* |
-| **ĉ** → **c** *[ŝ]* | **voĉo** = **voco** *[voŝo]* |
-| **ŝ** → **c** *[ŝ]* | **ĉarga** = **carga** *[ŝarga]* |
+| **z** → **s** *[s]* | **akusativo** *[akusativo]* |
+| **c** → **z** *[c]* | **intenzo** *[intenco]* |
+| **ĉ** → **c** *[ŝ]* | **voco** *[voŝo]* |
+| **ŝ** → **c** *[ŝ]* | **carga** *[ŝarga]* |
 | **ĝ** → **g** *[g]* | **angelo** *[angelo]* |
 | **ĵ** → **j** *[j]* | **jeti** *[jeti]* |
-| **ĥ** → **k** *[k]* | **eĥo** = **eko** *[eko]* |
+| **ĥ** → **k** *[k]* | **eko** *[eko]* |
 | | |
 | **-a** → **-e** | **bone** *[bone]* |
-| **-i** → **-a** | **canta** = **kanta** *[kanta]* |
+| **-i** → **-a** | **kanta** *[kanta]* |
 | **-aŭ** → **-u** | **hieru** *[hieru]* |
 | | |
 | **-ant-** → **-ent-** | **studento** *[studento]* |
