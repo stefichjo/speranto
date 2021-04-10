@@ -102,6 +102,7 @@
 | | | | *butonumi* | **butona** |
 
 | | | | | | |
+|-|-|-|-|-|-|
 | *ĉamo* | | | | | **kamoso** |
 | *ĉambelano* | | | | | |
 | *ĉambro* | | **çhamĕro** = **çhambro** | **camĕre** = **camre** | **camĕra** | |
