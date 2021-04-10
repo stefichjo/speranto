@@ -22,7 +22,7 @@
 | | | | *akuŝi* | **obstetra** |
 | **accusativo** | | | *akuzativo* | |
 | **ad** | **al** | | *al* | |
-| | | | *alaŭdi* | **alavda** |
+| | | | *alaŭdi* | |
 | **altra** | **altra** | | *alia* | |
 | **almino** | **almïnô** = **almenau** | | *almenaŭ* | |
 | **alemosy̆na** | **almono** | **almoso** | *almozo* | |
@@ -100,42 +100,43 @@
 | | | | *buŝelo* | **buselo** |
 | | | **buttero** | *butero* | **butro** |
 | | | | *butonumi* | **butona** |
+| | | | | |
+| | | | *ĉamo* | **kamoso** |
+| | | | *ĉambelano* | |
+| **camĕra** | **çhamĕro** = **çhambro** | | *ĉambro* | |
+| | | | *ĉampano* | |
+| | | | *ĉano* | **kaneto** |
+| | | | *ĉapo* | |
+| | | | *ĉapelo* | |
+| | | | *ĉapitro* | |
+| | | | *ĉar* | **nam** |
+| | | **ţaro** = **tsaro** | *caro* | - |
+| | | | *ĉarlatano* | |
+| | | | *ĉarmo* | |
+| | | | *ĉarniro* | **carniero** |
+| | | | *ĉarpenti* | |
+| | | | *ĉarpio* | |
+| **captiare** | **çhaptĭi** = **çhassi** | | *ĉasi* | **venatra** |
+| | | | *ĉasta* | |
+| **apud** | **çhä** = **çhe** | | *ĉe* | |
+| | | | *ĉefo* | |
+| | | | *cejano* | **ciano** |
+| **scopo** | **scopo** | **ţillo** = **tsillo** | *celo* | **skopo** |
+| **camisia** | **çhämisĭo** = **çhemiĵo** | | *ĉemizo* | **kamiso** |
+| **catena** | **çhätĕno** = **çheno** | | *ĉeno* | **kateno** |
+| | | | *cerbo* | **cerebro** |
+| | | | *ĉerizo* | **ceraso** |
+| | | | *ĉerko* | **cerkelo** |
+| | | | *ĉerpi* | |
+| | | | *ĉesi* | |
+| | | | *ĉevalo* | **kavalo** |
+| **celo** | **çẽlo** = **çielo** | | *ĉielo* | **celo** | |
+| **chiu** | | | *ĉiu* | **omnu** |
+| **pollĭce** | **polliĉo** | **ţollo** = **tsollo** | *colo* | **dito** |
+| **num** | **num** | **chǐ** = **chu** | *ĉu* | **num** |
 
 | | | | | | |
 |-|-|-|-|-|-|
-| *ĉamo* | | | | | **kamoso** |
-| *ĉambelano* | | | | | |
-| *ĉambro* | | **çhamĕro** = **çhambro** | **camĕre** = **camre** | **camĕra** | |
-| *ĉampano* | | | | | |
-| *ĉano* | | | | | **kaneto** |
-| *ĉapo* | | | | | |
-| *ĉapelo* | | | | | |
-| *ĉapitro* | | | | | |
-| *ĉar* | | | | | **nam** |
-| *caro* | **ţaro** = **tsaro** | | | | - |
-| *ĉarlatano* | | | | | |
-| *ĉarmo* | | | | | |
-| *ĉarniro* | | | | | **carniero** |
-| *ĉarpenti* | | | | | |
-| *ĉarpio* | | | | | |
-| *ĉasi* | | **çhaptĭi** = **çhassi** | **captiu** | **captiare** | **venatra** |
-| *ĉasta* | | | | | |
-| *ĉe* | | **çhä** = **çhe** | **apud** | **apud** | |
-| *ĉefo* | | | | | |
-| *cejano* | | | | | **ciano** |
-| *celo* | **ţillo** = **tsillo** | **scopo** | **scope** | **scopo** | **skopo** |
-| *ĉemizo* | | **çhämisĭo** = **çhemişo** | **camisie** | **camisia** | **kamiso** |
-| *ĉeno* | | **çhätĕno** = **çheno** | **catene** | **catena** | **kateno** |
-| *cerbo* | | | | | **cerebro** |
-| *ĉerizo* | | | | | **ceraso** |
-| *ĉerko* | | | | | **cerkelo** |
-| *ĉerpi* | | | | | |
-| *ĉesi* | | | | | |
-| *ĉevalo* | | | | | **kavalo** |
-| *ĉielo* | | **çẽlo** = **çielo** | **cele** | **celo** | |
-| *ĉiu* | **chiu** | | | | **omnu** |
-| *colo* | **ţollo** = **tsollo** | **polliĉo** | **pollice** | **pollĭce** | **dito** |
-| *ĉu* | **chu** | | | | **num** |
 | | | | | | |
 | *danki* | **danki** | **gratii** | **gratiu** | **gratiare** | **gratia** |
 | *demandi* | | **dėmandi** = **dimandi** | **demandu** | **demandare** | |
@@ -188,7 +189,7 @@
 | *kajto* | **kĩto** | | | | - |
 | *kanzono* | | **canţono** = **cançono** | **cantie** | **cantione** | - |
 | *kaŝi* | | **cŏactĭi** = **caçhi** | **occultu** | **occultare** | **okulta** |
-| *kisi* | **kyssi** = **kissi** | **basĭi** | **basiu** | **basiare** | **bacia** |
+| *kisi* | **kyssi** = **kissi** | **basĭi** = **baĵi** | **basiu** | **basiare** | **bacia** |
 | *kolbaso* | **kolbas̄o** | | | | **salsico** |
 | *koŝmaro* | **koŝmaro** | | | | - |
 | *kojno* | | **cunĭo** | **cunie** | **cunio** | **koino** |
