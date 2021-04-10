@@ -55,53 +55,52 @@
 | | | | *aŭskulti* | **askulta** |
 | | | | *aŭtuno* | **atuno** |
 | **avaratĭco** | **aväratĭco** = **averaĵo** | | *averaĝo* | - |
+| | | | | |
+| **baldaquino** | **baldaqŭino** | | *baldakeno* | **baldaquino** |
+| | | **backi** | *baki* | **inforna** |
+| | | **baldô** = **baldau** | *baldaŭ* | **prestu** |
+| **baniare** | **banĭi** | | *bani* | **bagna** |
+| | | | *banto* | **nodo** |
+| | | | *barakti* | **springi** |
+| | | | *barbiro* | **barbiero** |
+| | | **bedũri** = **bedauri** | *bedaŭri* | **regreta** |
+| **benedicĕre** | **benediqŭi** | | *beni* | **benedika** |
+| | | | *bero* | **bako** |
+| | | | *besto* | **animalo** |
+| | | | *betulo* | **betlo** |
+| **beno** | **bẽno** = **bieno** | | *bieno* | |
+| | | | *bindi* | **interliga** |
+| | | | *birdo* | **ukcelo** |
+| | | | *bleki* | **kria**/**krieta** |
+| | | | *blovi* | **sofla** |
+| | | | *bobeno* | **bobino** |
+| | | | *boji* | **aboja** |
+| | | | *bombono* | **bonbono** |
+| | | | *bori* | **fora** |
+| | | | *bordo* | **rivo** @ |
+| | | | *bordero* | **bordo** |
+| | | | *bramo* | **bremo** |
+| | | | *branĉo* | **ramo** |
+| | | | *brando* | **akvavito** |
+| | | **bretto** | *breto* | **tavlo** |
+| | | | *brogi* | **skalda** |
+| | | | *bruo* | **rumoro** |
+| | | | *bruli* | **arda** |
+| | | | *brusto* | **pekto** |
+| | | | *bubalo* | **bufalo** |
+| | | | *bufo* | **bufono** @ |
+| | | | *bufedo* | **bufeto** |
+| | | | *buko* | **boklo** |
+| | | | *bukedo* | **buketo** |
+| | | | *bulko* | **blanke pano** |
+| | | | *burdo* | **burdono** |
+| | | | *burĝo* | **burgeso** |
+| | | | *burĝono* | **botono** |
+| | | | *buŝo* | **boko** |
+| | | | *buŝelo* | **buselo** |
+| | | **buttero** | *butero* | **butro** |
+| | | | *butonumi* | **butona** |
 
-| | | | | | |
-|-|-|-|-|-|-|
-| *baldakeno* | | **baldaqŭino** | **baldaquine** | **baldaquino** |
-| *baki* | **backi** | | | | **inforna** |
-| *baldaŭ* | **baldô** = **baldau** | | | | **prestu** |
-| *bani* | | **banĭi** | **baniu** | **baniare** | **bagna** |
-| *banto* | | | | | **nodo** |
-| *barakti* | | | | | **springi** |
-| *barbiro* | | | | | **barbiero** |
-| *bedaŭri* | **bedũri** = **bedauri** | | | | **regreta** |
-| *beni* | | **benediqŭi** | **benedicu** | **benedicĕre** | **benedika** |
-| *bero* | | | | | **bako** |
-| *besto* | | | | | **animalo** |
-| *betulo* | | | | | **betlo** |
-| *bieno* | | **bẽno** = **bieno** | **bene** | **beno** | |
-| *bindi* | | | | | **interliga** |
-| *birdo* | | | | | **ukcelo** |
-| *bleki* | | | | | **kria**/**krieta** |
-| *blovi* | | | | | **sofla** |
-| *bobeno* | | | | | **bobino** |
-| *boji* | | | | | **aboja** |
-| *bombono* | | | | | **bonbono** |
-| *for* | | | | | **bor** |
-| *bordo* | | | | | **rivo** @ |
-| *bordero* | | | | | **bordo** |
-| *bramo* | | | | **bremo** |
-| *branĉo* | | | | | **ramo** |
-| *brando* | | | | | **akvavito** |
-| *breto* | **bretto** | | | | **tavlo** |
-| *brogi* | | | | | **skalda** |
-| *bruo* | | | | | **rumoro** |
-| *bruli* | | | | | **arda** |
-| *brusto* | | | | | **pekto** |
-| *bubalo* | | | | | **bufalo** |
-| *bufo* | | | | | **bufono** @ |
-| *bufedo* | | | | | **bufeto** |
-| *buko* | | | | | **boklo** |
-| *bukedo* | | | | | **buketo** |
-| *bulko* | | | | | **blanke pano** |
-| *burdo* | | | | | **burdono** |
-| *burĝo* | | | | | **burgeso** |
-| *burĝono* | | | | | **botono** |
-| *buŝo* | | | | | **boko** |
-| *buŝelo* | | | | | **buselo** |
-| *butero* | **buttero** | | | | **butro** |
-| *butonumi* | | | | | **butona** |
 | | | | | | |
 | *ĉamo* | | | | | **kamoso** |
 | *ĉambelano* | | | | | |
