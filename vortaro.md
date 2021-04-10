@@ -134,19 +134,21 @@
 | **chiu** | | | *ĉiu* | **omnu** |
 | **pollĭce** | **polliĉo** | **ţollo** = **tsollo** | *colo* | **dito** |
 | **num** | **num** | **chǐ** = **chu** | *ĉu* | **num** |
+| | | | | |
+| **gratiare** | **gratii** | **danki** | *danki* | **gratia** |
+ **demandare** | **dėmandi** = **dimandi** | | *demandi* | |
+| **democratīa** | **democratīo** | | *demokratio* | - |
+| **dependĕre** | **dėpendi** = **dipendi** | | *dependi* | - |
+| **grossa** | **grossa** | **dicka** | *dika* | **grose** |
+| **deo** | **deo** | | *dio* | **deo** |
+| **diqŭi** | **dicĕre** | | *diri* | |
+| **dulce** | **dulĉa** | | *dolĉa* | |
+| **donatione** | **donatīo** | | *donaco* | **dono** |
+
 
 | | | | | | |
 |-|-|-|-|-|-|
 | | | | | | |
-| *danki* | **danki** | **gratii** | **gratiu** | **gratiare** | **gratia** |
-| *demandi* | | **dėmandi** = **dimandi** | **demandu** | **demandare** | |
-| *demokratio* | | **democratīo** | **democratīe** | **democratīa** | - |
-| *dependi* | | **dėpendi** = **dipendi** | **dependu** | **dependĕre** | - |
-| *dika* | | **grossa** | **grossa** | **grossa** | **grose** |
-| *dio* | | **deo** | **dee** | **deo** | **deo** |
-| *diri* | | **diqŭi** | **dicu** | **dicĕre** | |
-| *dolĉa* | | **dulĉa** | **dulĉa** | **dulce** | |
-| *donaco* | | **donatīo** | **donatie** | **donatione** | **dono** |
 | *-ec-* | | **-etĭ-** = **-ess-** | **-eti-** | **-eti-** | **-it-** |
 | *eĉ* | | **et** | **et** | **et** | **mem** |
 | *ekrano* | **ekrano** | | | | - |
