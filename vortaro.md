@@ -101,12 +101,35 @@
 | *butero* | **buttero** | | | | **butro** |
 | *butonumi* | | | | | **butona** |
 | | | | | | |
+| *ĉamo* | | | | | **kamoso** |
+| *ĉambelano* | | | | | |
 | *ĉambro* | | **çhamĕro** = **çhambro** | **camĕre** = **camre** | **camĕra** | |
+| *ĉampano* | | | | | |
+| *ĉano* | | | | | **kaneto** |
+| *ĉapo* | | | | | |
+| *ĉapelo* | | | | | |
+| *ĉapitro* | | | | | |
+| *ĉar* | | | | | **nam** |
 | *caro* | **ţaro** = **tsaro** | | | | - |
+| *ĉarlatano* | | | | | |
+| *ĉarmo* | | | | | |
+| *ĉarniro* | | | | | **carniero** |
+| *ĉarpenti* | | | | | |
+| *ĉarpio* | | | | | |
 | *ĉasi* | | **çhaptĭi** = **çhassi** | **captiu** | **captiare** | **venatra** |
+| *ĉasta* | | | | | |
 | *ĉe* | | **çhä** = **çhe** | **apud** | **apud** | |
+| *ĉefo* | | | | | |
+| *cejano* | | | | | **ciano** |
 | *celo* | **ţillo** = **tsillo** | **scopo** | **scope** | **scopo** | **skopo** |
 | *ĉemizo* | | **çhämisĭo** = **çhemişo** | **camisie** | **camisia** | **kamiso** |
+| *ĉeno* | | **çhätĕno** = **çheno** | **catene** | **catena** | **kateno** |
+| *cerbo* | | | | | **cerebro** |
+| *ĉerizo* | | | | | **ceraso** |
+| *ĉerko* | | | | | **cerkelo** |
+| *ĉerpi* | | | | | |
+| *ĉesi* | | | | | |
+| *ĉevalo* | | | | | **kavalo** |
 | *ĉielo* | | **çẽlo** = **çielo** | **cele** | **celo** | |
 | *ĉiu* | **chiu** | | | | **omnu** |
 | *colo* | **ţollo** = **tsollo** | **polliĉo** | **pollice** | **pollĭce** | **dito** |
