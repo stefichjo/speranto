@@ -24,41 +24,40 @@
 | **ad** | **al** | | *al* | |
 | | | | *alaŭdi* | **alavda** |
 | **altra** | **altra** | | *alia* | |
+| **almino** | **almïnô** = **almenau** | | *almenaŭ* | |
+| **alemosy̆na** | **almono** | **almoso** | *almozo* | |
+| **ambi** | **ambô** = **ambau** | | *ambaŭ* | **ambi** |
+| **incude** | **incudo** | **ambosso** | *amboso* | **inkudo** |
+| **amylo** | **amylo** = **amilo** | | *amelo* | |
+| **cortensiare** | **corten̆sĭi** = **corteĵi** / **amindumi** | | *amindumi* | **kortesa** |
+| **anătra** | **anatro** | | *anaso* | **anatro** |
+| **ance** | **ancô** = **ancau** | | *ankaŭ* | |
+| **ancora** | **ancorô** = **ancorau** | | *ankoraŭ* | |
+| **annuntiare** | **annuntii** | | *anonci* | - |
+| **vic' ad** | **viĉał** | **anŝtattał** | *anstataŭ* | **inloku** |
+| **ant' ad** / **ante** | **antał** = **antau** | | *antaŭ* | |
+| **Annuntiatione** | **Annuntiatīo** | | *Anunciacio* | |
+| **appena** | **appenô** = **appenau** | | *apenaŭ* | |
+| **applaudĕre** | **applaudi** | | *aplaŭdi* | **aploda** |
+| **appodiare** | **appodĭi** = **appoĵi** | | *apogi* | |
+| | | **-aṛ-** = **-ai-** @ | *-ar-* | |
+| | | | *araneo* | **arakno** |
+| | | | *aranĝi* | **aranga** |
+| | | | *arĉo* | **arketo** |
+| | | | *ardeo* | **herono** |
+| | | | *ardezo* | **ardaeo** |
+| | | | *artiko* | **junkturo** |
+| | | | *artiklo* | **artikolo** |
+| | | | *artiŝoko* | |
+| | | | *atenco* | **atendado** |
+| | | | *aŭ* | **u** |
+| | | | *aŭdi* | **entenda** |
+| | | | *aŭskulti* | **askulta** |
+| | | | *aŭtuno* | **atuno** |
+| **avaratĭco** | **aväratĭco** = **averaĵo** | | *averaĝo* | - |
 
-| | Speranto | Linguo | Lingue | Lingua | [Z](#Z) |
-|-|-|-|-|-|-|
-| *almenaŭ* | | **almïnô** = **almenau** | **alminǒ** = **alminu** | **almino** | |
-| *almozo* | **almoso** | **almono** | **alemosy̆ne** = **alemose** | **alemosy̆na** | |
-| *ambaŭ* | | **ambô** = **ambau** | **ambǒ** = **ambu** | **ambi** | **ambi** |
-| *amboso* | **ambosso** | **incudo** | **incude** | **incude** | **inkudo** |
-| *amelo* | | **amylo** = **amilo** | **amyle** | **amylo** | |
-| *aminduma* | | **aminduma** | **corten̆sa** = **cortesa** | **cortense** | **kortese** | 
-| *anaso* | | **anatro** | **anatre** | **anatra** | **anatro** |
-| *ankaŭ* | | **ancô** = **ancau** | **ancǒ** = **ancu** | **ance** | |
-| *ankoraŭ* | | **ancorô** = **ancorau** | **ancorǒ** = **ancoru** | **ancora** | |
-| *anonci* | | **annuntii** | **annuntiu** | **annuntiare** | - |
-| *anstataŭ* | **anŝtattał** | **viĉał** | **vicĕ al** | **vic' ad** | **inloku** |
-| *antaŭ* | | **antał** = **antau** | **antĕ al** = **antal** | **ant' ad** / **ante** | |
-| *Anunciacio* | | **Annuntiatīo** | **Annuntiatie** | **Annuntiatione** | |
-| *apenaŭ* | | **appenô** = **appenau** | **appenǒ** = **appenu** | **appena** | |
-| *aplaŭdi* | | **applaudi** | **applaudu** | **applaudĕre** | **aploda** |
-| *apogi* | | **appodĭi** = **appoĵi** | **appodiu** | **appodiare** | |
-| *-ar-* | **-aṛ-** = **-ai-** @ | | | | |
-| *araneo* | | | | | **arakno** |
-| *aranĝi* | | | | | **aranga** |
-| *arĉo* | | | | | **arketo** |
-| *ardeo* | | | | | **herono** |
-| *ardezo* | | | | | **ardaeo** |
-| *artiko* | | | | | **junkturo** |
-| *artiklo* | | | | | **artikolo** |
-| *artiŝoko* | | | | | |
-| *atenco* | | | | | **atendado** |
-| *aŭ* | | | | | **u** |
-| *aŭdi* | | | | | **entenda** |
-| *aŭskulti* | | | | | **askulta** |
-| *aŭtuno* | | | | | **atuno** |
-| *averaĝo* | | **aväratĭco** = **averaĵo** | **avaratĭce** | **avaratĭco** | - |
 | | | | | | |
+|-|-|-|-|-|-|
 | *baldakeno* | | **baldaqŭino** | **baldaquine** | **baldaquino** |
 | *baki* | **backi** | | | | **inforna** |
 | *baldaŭ* | **baldô** = **baldau** | | | | **prestu** |
