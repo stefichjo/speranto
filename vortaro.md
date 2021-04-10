@@ -12,21 +12,21 @@
 | **aerare** | **êrumi** = **airumu**| | *aerumi* | **aera** |
 | **etatĭco** | **eṯatĭco** = **edaĵo** | | *aĝo* | **etado** |
 | **accordare** | | | *agordi* | **akorda** |
+| **-atĭc-** | **-atĭc-** = **-aĵ-** | | *-aĵ-* | **-e-** |
+| **alio** | **alĭo** | | *ajlo* | **ailo** @aj -> ai |
+| **ali-** | **ali-** | **ên** = **ain** | *ajn* | **kunku** |
+| **accelerare** | | | *akceli* | **akcelera** |
+| **accento** | **accentumo** | | *akĉento* | - |
+| **acquirere** | **acqŭiri** | | *akiri* | |
+| **acre** | **acra** | | *akra* | **akute** |
+| | | | *akuŝi* | **obstetra** |
+| **accusativo** | | | *akuzativo* | |
+| **ad** | **al** | | *al* | |
+| | | | *alaŭdi* | **alavda** |
+| **altra** | **altra** | | *alia* | |
 
 | | Speranto | Linguo | Lingue | Lingua | [Z](#Z) |
 |-|-|-|-|-|-|
-| *-aĵ-* | | **-atĭc-** = **-aĵ-** | **-atĭc-** | **-atĭc-** | **-e-** | **-aj-** |
-| *ajlo* | | **alĭo** | **alie** | **alio** | **ailo** | **alio** |
-| *ajn* | **ên** = **ain** | **ali-** | **ali-** | **ali-** | **kunku** | **irga** |
-| *akceli* | | **acceleri** | **acceleru** | **accelerare** | **akcelera** | **acelerar** |
-| *akĉento* | | **accentumo** | **accente** | **accento** | - | @ |
-| *akiri* | | **acqŭiri** | **acquiru** | **acquirere** | | **aquirar** |
-| *akra* | | **acra** | **acra** | **acre** | **akute** | **akra** |
-| *akuŝi* | | | | | **obstetra** | **akushar** |
-| *akuzativo* | | **accusativo** | **accusative** | | **akuzativo** |
-| *al* | | **al** | **al** | **ad** | **a(d)** |
-| *alaŭdi* | | | | | **alavda** | **alaudar** |
-| *alia* | | **altra** | **altra** | **altra** | | </ido>
 | *almenaŭ* | | **almïnô** = **almenau** | **alminǒ** = **alminu** | **almino** | |
 | *almozo* | **almoso** | **almono** | **alemosy̆ne** = **alemose** | **alemosy̆na** | |
 | *ambaŭ* | | **ambô** = **ambau** | **ambǒ** = **ambu** | **ambi** | **ambi** |
