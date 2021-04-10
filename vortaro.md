@@ -1,17 +1,20 @@
 # Vortaro
 
+| Lingua | Linguo | Speranto | Esperanto | [Z](#Z) |
+|-|-|-|-|-|
+| **ape** | | | *abelo* | **apo** |
+| **abiete** | | | *abio* | **abieto** |
+| **abominare** | | | *abomeni* | **abomina** |
+| **comprare** |  **açcĕpti** = **açhti** | | *aĉeti* | **kompra** |
+| **addeo** | **addeô** = **addeaŭ** | | *adiaŭ* | |
+| **adulterare** | | | *adulti* | **adultera** |
+| **aere** | **êro** = **airo** | | *aero* | |
+| **aerare** | **êrumi** = **airumu**| | *aerumi* | **aera** |
+| **etatĭco** | **eṯatĭco** = **edaĵo** | | *aĝo* | **etado** |
+| **accordare** | | | *agordi* | **akorda** |
+
 | | Speranto | Linguo | Lingue | Lingua | [Z](#Z) |
 |-|-|-|-|-|-|
-| *abelo* | | **apo** | **ape** | **ape** | **apo** | **abelo** |
-| *abio* | | **abieto** | **abiete** | **abiete** | **abieto** | |
-| *abomeni* | | **abomini** | **abominu** | **abominare** | **abomina** | |
-| *aĉeti* | | **açcĕpti** = **açhti** | **compru** | **comprare** | **kompra** | |
-| *adiaŭ* | | **addeô** = **addeaŭ** | **addeǒ** = **addeu** | **addeo** | @ | @ **adiawi** |
-| *adulti* | | **adulteri** | **adulteru** | **adulterare** | **adultera** | = |
-| *aero* | | **êro** = **airo** | **aere** | **aere** | | |
-| *aerumi* | | **êrumi** = **airumu** | **aeru** | **aerare** | **aera** | **aerizar** |
-| *aĝo* | | **eṯatĭco** = **edaĵo** | **etatĭce** | **etatĭco** | **etado** | @ |
-| *agordi* | | **accordi** | **accordu** | **accordare** | **akorda** | @ |
 | *-aĵ-* | | **-atĭc-** = **-aĵ-** | **-atĭc-** | **-atĭc-** | **-e-** | **-aj-** |
 | *ajlo* | | **alĭo** | **alie** | **alio** | **ailo** | **alio** |
 | *ajn* | **ên** = **ain** | **ali-** | **ali-** | **ali-** | **kunku** | **irga** |
