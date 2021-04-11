@@ -155,23 +155,26 @@
 | **statĭco** | **s̈tatĭco** = **etaĵo** | | *etaĝo* | |
 | **equala** | **eq̄ŭala** | | *egala* | |
 | **in** | **ïn** = **en** | | *en* | **in** |
+| | | | | |
+| **fine** | **fina** | **fĩna** = **faina** | *fajna* | - |
+| **foco** | **fõco** = **fuoco** | **fỹro** = **fairo** | *fajro* | **fuoko** |
+| **cadere** | **cadi** | **falli** | *fali* | **kada** |
+| **familia** | **familĭo** | | *familio* | |
+| **facĕre** | **faci** | | *fari* | |
+| **stare** | **stati** | | *farti* | **(kvale esten vue stato)** |
 
-| | | | | | |
-|-|-|-|-|-|-|
-| | | | | | |
-| *fajna* | **fĩna** | | | | - |
-| *fajro* | **fỹro** | **fõco** = **fuoco** | **foc̄e** | **foco** | **fuoko** |
-| *fali* | **falli** | **cadi** | **cadu** | **cadere** | **kada** |
-| *familio* | | **familĭo** | **familie** | **familia** | |
-| *fari* | | **faci** | **faĉu** | **facĕre** | |
-| *farti* | | **stati** | **statu** | **stare** | **(kvale esten vue stato)** |
-| *fermi* | | **cludi** | **cludu** | **cludĕre** | |
+| *fermi* | | **cludi** | **cludĕre** | |
 | *fiŝo* | **fisho** | **pisco** | **pisc̄e** | **pisce** | **pisko** |
 | *fojno* | | **fẽno** = **fieno** | **fene** | **feno** | **fieno** |
 | *folio* | | **folĭo** | **folie** | **folia** | |
 | *forgesi* | **fergŭessi** | | | | **obliva** |
 | *fraŭlo* | **frũlo** | | | | **fralo** |
 | *fromaĝo* | | **fromatĭco** | **formatĭce** | **formatĭco** | **fromago** |
+
+
+| | | | | | |
+|-|-|-|-|-|-|
+| | | | | | |
 | *garantio* | | **garantīo** | **garantīe** | **garantīa** | |
 | *ĝojo* | | **ĝoyo** | **gaudie** | **gaudia** | **jovo** |
 | *hajlo* | **haġlo** | | | | **grelo** |
