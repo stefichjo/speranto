@@ -179,12 +179,15 @@
 | **heri** | **hẽrô** = **hierau** | | *hieraŭ* | |
 | | | **hobbȳo** | *hobio* | - |
 
+| Lingua | Linguo | Speranto | Esperanto | [Z](#Z) |
+|-|-|-|-|-|
+| **implicare** | **implicumi** | | *implici* | - |
+| **intentione** | **intentīo** | | *intenco* | |
+| **vadĕre** | **vadi** | | *iri* | |
+
 | | | | | | |
 |-|-|-|-|-|-|
 | | | | | | |
-| *implici* | | **implicumi** | **implicu** | **implicare** | - |
-| *intenco* | | **intentīo** | **intentie** | **intentione** | |
-| *iri* | | **vadi** | **vadu** | **vadĕre** | |
 | *jaro* | **yaro** | | | | **anuo** |
 | *ĵaŭdo* | | **jůvedīo** = **jovedīo** | **juvedīe** | **iupiteredīe** | **jovedo** |
 | *jes* | **yes** | | | | **si** |
