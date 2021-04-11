@@ -271,6 +271,18 @@
 | **stadio** | **stadĭo** = **staĵo** | | *stadio* *(fazo)* | - |
 | **stadio** | **stadio** | | *stadio* *(mezurunuo)* | - |
 | | | **shuo** | *ŝuo* | **suliero** |
+| | | | | |
+| **tabŭla** | **tavŭlo** = **tavlo** | | *tablo* | |
+| **tabŭla** | **tavulo** | | *tabulo* | |
+| **dīe** | | **tago** | *tago* | **dio** |
+| **-edīe** | **-edīo** | | *tago* *(de la semajno)* | - |
+| | | **tĩdo** = **taido** | *tajdo* | - |
+| **tragĭno** | **trağino** = **traino** | | *trajno* | - |
+| | **trançi** | | *tranĉi* | - |
+| **bibĕre** | **bïvi** = **bevi** | **trinki** | *trinki* | **biba** |
+| **tangĕre** | **tǒçci** = **tuçci** | | *tuŝi* | - |
+| **tota** | **tǒta** = **tuta** | | *tuta* | |
+| | | | | |
 
 | Lingua | Linguo | Speranto | Esperanto | [Z](#Z) |
 |-|-|-|-|-|
@@ -279,16 +291,6 @@
 | | | | | | |
 |-|-|-|-|-|-|
 | | | | | | |
-| *tablo* | | **tavlo** | **tavŭle** = **tavle** | **tabŭla** | |
-| *tabulo* | | **tavulo** | **tavŭle** = **tavle** | **tabŭla** | |
-| *tago* | **tago** | **dīo** | **dīe** | **dīe** | **dio** |
-| *tago* *(de la semajno)* | | **-edīo** | **-edīe** | **-edīe** | - |
-| *tajdo* | **tĩdo** = **taido** | | | | - |
-| *trajno* | | **trağino** = **traino** | **trağine** = **traine** | **tragĭno** | - → **vagonaro** |
-| *tranĉi* | | **trançi** | | | - |
-| *trinki* | **trinki** | **bïvi** = **bevi** | **bivu** | **bibĕre** | **biba** |
-| *tuŝi* | | **tǒçci** = **tuçci** | **toccu** | **tangĕre** | - |
-| *tuta* | | **tǒta** = **tuta** | **tota** | **tota** | |
 | *varma* | **warma** | | | | **kalore** |
 | *venĝi* | | **vïndĭci** = **venĵi** | **vindicu** | **vindicare** | |
 | *Venuso* | | **Venĕro** = **Vendro** | **Venĕre** = **Venre** | **Venĕre** | - |
