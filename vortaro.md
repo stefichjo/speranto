@@ -169,12 +169,13 @@
 | | | **fergŭessi** | *forgesi* | **obliva** |
 | | | **frũlo** = **fraulo** | *fraŭlo* | **fralo** |
 | **formatĭco** | **fromatĭco** = **fromaĵo** | | *fromaĝo* | |
+| | | | | |
+| **garantīa** | **garantīo** | | *garantio* | |
+| **gaudia** | **ĝoyo** | | *ĝojo* | **jovo** |
 
 | | | | | | |
 |-|-|-|-|-|-|
 | | | | | | |
-| *garantio* | | **garantīo** | **garantīe** | **garantīa** | |
-| *ĝojo* | | **ĝoyo** | **gaudie** | **gaudia** | **jovo** |
 | *hajlo* | **haġlo** | | | | **grelo** |
 | *hejmo* | **hêmo** = **haimo** | **domo** | **dome** | **domo** | **(sue) domo** |
 | *hieraŭ* | | **hẽrô** = **hierau** | **herǒ** = **heru** | **heri** | **hieru** |
