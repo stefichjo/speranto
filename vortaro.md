@@ -14,31 +14,31 @@
 | **accordare** | | | *agordi* | **akorda** |
 | **-atĭc-** | **-atĭc-** = **-aĵ-** | | *-aĵ-* | **-e-** |
 | **alio** | **alĭo** | | *ajlo* | **ailo** @aj -> ai |
-| **ali-** | **ali-** | **ên** = **ain** | *ajn* | **kunku** |
+| **ali-** | | **ên** = **ain** | *ajn* | **kunku** |
 | **accelerare** | | | *akceli* | **akcelera** |
 | **accento** | **accentumo** | | *akĉento* | - |
 | **acquirere** | **acqŭiri** | | *akiri* | |
-| **acre** | **acra** | | *akra* | **akute** |
+| **acre** | | | *akra* | **akute** |
 | | | | *akuŝi* | **obstetra** |
 | **accusativo** | | | *akuzativo* | |
 | **ad** | **al** | | *al* | |
 | | | | *alaŭdi* | |
-| **altra** | **altra** | | *alia* | |
+| **altra** | | | *alia* | |
 | **almino** | **almïnô** = **almenau** | | *almenaŭ* | |
 | **alemosy̆na** | **almono** | **almoso** | *almozo* | |
 | **ambi** | **ambô** = **ambau** | | *ambaŭ* | **ambi** |
-| **incude** | **incudo** | **ambosso** | *amboso* | **inkudo** |
+| **incude** | | **ambosso** | *amboso* | **inkudo** |
 | **amylo** | **amylo** = **amilo** | | *amelo* | |
 | **cortensiare** | **corten̆sĭi** = **corteĵi** / **amindumi** | | *amindumi* | **kortesa** |
 | **anătra** | **anatro** | | *anaso* | **anatro** |
 | **ance** | **ancô** = **ancau** | | *ankaŭ* | |
 | **ancora** | **ancorô** = **ancorau** | | *ankoraŭ* | |
-| **annuntiare** | **annuntii** | | *anonci* | - |
+| **annuntiare** | | | *anonci* | - |
 | **vic' ad** | **viĉał** | **anŝtattał** | *anstataŭ* | **inloku** |
 | **ant' ad** / **ante** | **antał** = **antau** | | *antaŭ* | |
-| **Annuntiatione** | **Annuntiatīo** | | *Anunciacio* | |
+| **Annuntiatione** | | | *Anunciacio* | |
 | **appena** | **appenô** = **appenau** | | *apenaŭ* | |
-| **applaudĕre** | **applaudi** | | *aplaŭdi* | **aploda** |
+| **applaudĕre** | | | *aplaŭdi* | **aploda** |
 | **appodiare** | **appodĭi** = **appoĵi** | | *apogi* | |
 | | | **-aṛ-** = **-ai-** @ | *-ar-* | |
 | | | | *araneo* | **arakno** |
@@ -64,7 +64,7 @@
 | | | | *barakti* | **springi** |
 | | | | *barbiro* | **barbiero** |
 | | | **bedũri** = **bedauri** | *bedaŭri* | **regreta** |
-| **benedicĕre** | **benediqŭi** | | *beni* | **benedika** |
+| **benedicĕre** | | | *beni* | **benedika** |
 | | | | *bero* | **bako** |
 | | | | *besto* | **animalo** |
 | | | | *betulo* | **betlo** |
@@ -121,7 +121,7 @@
 | **apud** | **çhä** = **çhe** | | *ĉe* | |
 | | | | *ĉefo* | |
 | | | | *cejano* | **ciano** |
-| **scopo** | **scopo** | **ţillo** = **tsillo** | *celo* | **skopo** |
+| **scopo** | | **ţillo** = **tsillo** | *celo* | **skopo** |
 | **camisia** | **çhämisĭo** = **çhemiĵo** | | *ĉemizo* | **kamiso** |
 | **catena** | **çhätĕno** = **çheno** | | *ĉeno* | **kateno** |
 | | | | *cerbo* | **cerebro** |
@@ -132,16 +132,17 @@
 | | | | *ĉevalo* | **kavalo** |
 | **celo** | **çẽlo** = **çielo** | | *ĉielo* | **celo** | |
 | **chiu** | | | *ĉiu* | **omnu** |
-| **pollĭce** | **polliĉo** | **ţollo** = **tsollo** | *colo* | **dito** |
-| **num** | **num** | **chǐ** = **chu** | *ĉu* | **num** |
+| **pollĭce** | | **ţollo** = **tsollo** | *colo* | **dito** |
+| **num** | | **chǐ** = **chu** | *ĉu* | **num** |
 | | | | | |
-| **gratiare** | **gratii** | **danki** | *danki* | **gratia** |
+| **gratiare** | | **danki** | *danki* | **gratia** |
  **demandare** | **dėmandi** = **dimandi** | | *demandi* | |
-| **democratīa** | **democratīo** | | *demokratio* | - |
+| **democratīa** | | | *demokratio* | - |
 | **dependĕre** | **dėpendi** = **dipendi** | | *dependi* | - |
-| **grossa** | **grossa** | **dicka** | *dika* | **grose** |
-| **deo** | **deo** | | *dio* | **deo** |
-| **diqŭi** | **dicĕre** | | *diri* | |
+| **grossa** | | **dicka** | *dika* | **grose** |
+| **deo** | | | *dio* | **deo** |
+| **definire** | **dėfini** = **difini** | | *difini* | |
+| **dicĕre** | | | *diri* | |
 | **dulce** | **dulĉa** | | *dolĉa* | |
 | **donatione** | **donatīo** | | *donaco* | **dono** |
 | | | | | |
@@ -156,9 +157,9 @@
 | **equala** | **eq̄ŭala** | | *egala* | |
 | **in** | **ïn** = **en** | | *en* | **in** |
 | | | | | |
-| **fine** | **fina** | **fĩna** = **faina** | *fajna* | - |
+| **fino** | | **fĩna** = **faina** | *fajna* | - |
 | **foco** | **fõco** = **fuoco** | **fỹro** = **fairo** | *fajro* | **fuoko** |
-| **cadere** | **cadi** | **falli** | *fali* | **kada** |
+| **cadere** | | **falli** | *fali* | **kada** |
 | **familia** | **familĭo** | | *familio* | |
 | **facĕre** | **faci** | | *fari* | |
 | **stare** | **stati** | | *farti* | **(kvale esten vue stato)** |
@@ -172,14 +173,15 @@
 | | | | | |
 | **garantīa** | **garantīo** | | *garantio* | |
 | **gaudia** | **ĝoyo** | | *ĝojo* | **jovo** |
+| | | | | |
+| | | **haġlo** = **hailo** | *hajlo* | **grelo** |
+| **domo** | | **hêmo** = **haimo** | *hejmo* | **(sue) domo** |
+| **heri** | **hẽrô** = **hierau** | | *hieraŭ* | |
+| | | **hobbȳo** | *hobio* | - |
 
 | | | | | | |
 |-|-|-|-|-|-|
 | | | | | | |
-| *hajlo* | **haġlo** | | | | **grelo** |
-| *hejmo* | **hêmo** = **haimo** | **domo** | **dome** | **domo** | **(sue) domo** |
-| *hieraŭ* | | **hẽrô** = **hierau** | **herǒ** = **heru** | **heri** | **hieru** |
-| *hobio* | **hobbȳo** | | | | - |
 | *implici* | | **implicumi** | **implicu** | **implicare** | - |
 | *intenco* | | **intentīo** | **intentie** | **intentione** | |
 | *iri* | | **vadi** | **vadu** | **vadĕre** | |
