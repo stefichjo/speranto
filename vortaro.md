@@ -144,21 +144,21 @@
 | **diqŭi** | **dicĕre** | | *diri* | |
 | **dulce** | **dulĉa** | | *dolĉa* | |
 | **donatione** | **donatīo** | | *donaco* | **dono** |
-
+| | | | | |
+| **-eti-** | **-etĭ-** = **-ess-** | | *-ec-* | **-it-** |
+| **et** | **et** | | *eĉ* | **mem** |
+| | | **ekrano** | *ekrano* | - |
+| **explodĕre** | **ex̂plodi** = **esplodi** | | *eksplodi* | - |
+| **sperare** | **speri** | | *esperi* | |
+| **essïre** | **essi** | | *esti* *(ekzisti)* | - |
+| **stare** | **stadi** | | *esti* *(ĉe-)* | |
+| **statĭco** | **s̈tatĭco** = **etaĵo** | | *etaĝo* | |
+| **equala** | **eq̄ŭala** | | *egala* | |
+| **in** | **ïn** = **en** | | *en* | **in** |
 
 | | | | | | |
 |-|-|-|-|-|-|
 | | | | | | |
-| *-ec-* | | **-etĭ-** = **-ess-** | **-eti-** | **-eti-** | **-it-** |
-| *eĉ* | | **et** | **et** | **et** | **mem** |
-| *ekrano* | **ekrano** | | | | - |
-| *eksplodi* | | **ex̂plodi** = **esplodi** | **explodu** | **explodĕre** | - |
-| *esperi* | | **speri** | **speru** | **sperare** | |
-| *esti* *(ekzisti)* | | **essi** | **essu** | **essĕre** | - |
-| *esti* *(ĉe-)* | | **stadi** | **stadu** | **stare** | |
-| *etaĝo* | | **s̈tatĭco** = **etaĵo** | **statĭce** | **statĭco** | **etago** |
-| *egala* | | **eq̄ŭala** | **equala** | **equala** | |
-| *en* | | **ïn** = **en** | **ïn** = **en** | **in** | **in** |
 | *fajna* | **fĩna** | | | | - |
 | *fajro* | **fỹro** | **fõco** = **fuoco** | **foc̄e** | **foco** | **fuoko** |
 | *fali* | **falli** | **cadi** | **cadu** | **cadere** | **kada** |

@@ -333,7 +333,7 @@ En la prezenco, la infinitiva finiĝo -**re** forestas. La ŝajnfinaĵoj **-ĕ**
 | *vi havas* | **vos habe** | **habetis** |
 | *ili havas* | **ille habe** | **habent** |
 
-***En poezio***, la prezencaj formoj de **essïre** povas mallongiĝi al malregulaj formoj.
+***En poezio***, la prezencaj formoj de **essïre** (respektive de **essï**) povas mallongiĝi al malregulaj formoj.
 
 | | | poezie |
 |-|-|-|
