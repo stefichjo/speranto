@@ -222,15 +222,17 @@
 | | | **naġlo** = **nailo** | *najlo* | **klodo** |
 | | | **nepre** | *nepre* | **apsolte** / **nealie** |
 | | | | | |
+| **auro** | | | *oro* | **auro** |
+| | | | | |
 
 
 | Lingua | Linguo | Speranto | Esperanto | [Z](#Z) |
 |-|-|-|-|-|
+| | | | | |
 
 | | | | | | |
 |-|-|-|-|-|-|
 | | | | | | |
-| *oro* | | **auro** | **aure** | **auro** | **auro** |
 | *pejzaĝo* | | **pağėn̆satĭco** = **paisaĵo** | **pağen̆satĭce** = **paesatĭce** | **pagensatĭco** | **paesago** |
 | *pesi* | | **pesumi** | **pesu** | **pesare** | |
 | *piedo* | | **pẽdo** | **pede** | **pede** | **pedo** |
