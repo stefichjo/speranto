@@ -178,21 +178,23 @@
 | **domo** | | **hêmo** = **haimo** | *hejmo* | **(sue) domo** |
 | **heri** | **hẽrô** = **hierau** | | *hieraŭ* | |
 | | | **hobbȳo** | *hobio* | - |
-
-| Lingua | Linguo | Speranto | Esperanto | [Z](#Z) |
-|-|-|-|-|-|
+| | | | | |
 | **implicare** | **implicumi** | | *implici* | - |
 | **intentione** | **intentīo** | | *intenco* | |
 | **vadĕre** | **vadi** | | *iri* | |
+| | | | | |
+| | | **yaro** | *jaro* | **anuo** |
+| **iupiteredīe** | **jůvedīo** = **jovedīo** | | *ĵaŭdo* | **jovedo** |
+| | | **yes** | *jes* | **si** |
+| **Iupitere** | **Jůvo** = **Jovo** | | *Jupitero* | - |
+| **iusta** | **justuma** | | *justa* | |
+
+| Lingua | Linguo | Speranto | Esperanto | [Z](#Z) |
+|-|-|-|-|-|
 
 | | | | | | |
 |-|-|-|-|-|-|
 | | | | | | |
-| *jaro* | **yaro** | | | | **anuo** |
-| *ĵaŭdo* | | **jůvedīo** = **jovedīo** | **juvedīe** | **iupiteredīe** | **jovedo** |
-| *jes* | **yes** | | | | **si** |
-| *Jupitero* | | **Jůvo** = **Jovo** | **Juve** | **Iupitere** | - |
-| *justa* | | **justuma** | **justa** | **iusta** | |
 | *kaĉo* | **kaŝo** | | | | **grieo** |
 | *kadenco* / *ŝanco* | | **cadentio** / **çhadĕntĭo** = **çhanço** | **cadentie** | **cadentia** | - |
 | *kajto* | **kĩto** | | | | - |
