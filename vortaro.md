@@ -201,29 +201,32 @@
 | **cunio** | **cunĭo** | | *kojno* | **koino** |
 | | | **krom** | *krom* | **hors** |
 | | | | | |
-
-| Lingua | Linguo | Speranto | Esperanto | [Z](#Z) |
-|-|-|-|-|-|
 | **laborare** | **lavori** | | *labori* | |
 | **pagense** | **pağėn̆so** = **paīso** | **lando** | *lando* | **paeso** |
 | | | **lassi** | *lasi* | |
 | **lectione** | **lectĭono** = **leçono** | | *leciono* | |
 | **luna** | | | *luno* | |
 | **lunedīe** | **lunedīo** | | *lundo* | |
+| | | | | |
+| | | **mal-** | *mal-* | |
+| **martedīe** | **martedīo** | | *mardo* | |
+| **Marte** | **Marto** | | *Marso* | - |
+| **Martio** | **Martĭo** = **Março** | | *Marto* | |
+| **machĭna** | **maçhino** | | *maŝino* | |
+| **mentionare** | | | *mencii* | - |
+| **mentiumnia** | **menţonĭo** = **mençonĵo** | | *mensogo* | - |
+| **mercuriedīe** | **mercuriedīo** | | *merkredo* | |
+| **Mercurio** | **Mercurio** | | *Merkuro* | - |
+| **missatĭco** | **mïssatĭco** = **messaĵo** | | *mesaĝo* | - |
+| | | | | |
+
+
+| Lingua | Linguo | Speranto | Esperanto | [Z](#Z) |
+|-|-|-|-|-|
 
 | | | | | | |
 |-|-|-|-|-|-|
 | | | | | | |
-| *mal-* | **mal-** | | | | |
-| *mardo* | | **martedīo** | **martedīe** | **martedīe** | |
-| *Marso* | | **Marto** | **Marte** | **Marte** | - |
-| *Marto* | | **Martĭo** = **Março** | **Martie** | **Martio** | |
-| *maŝino* | | **maçhino** | **machine** | **machĭna** | |
-| *mencii* | | **mentīi** | **mentiu** | **mentionare** | - |
-| *mensogo* | | **menţonĭo** = **mençonĵo** | **mentiumnie** | **mentiumnia** | - |
-| *merkredo* | | **mercuriedīo** | **mercuriedīe** | **mercuriedīe** | |
-| *Merkuro* | | **Mercurio** | **Mercurie** | **Mercurio** | - |
-| *mesaĝo* | | **mïssatĭco** = **messaĵo** | **missatĭce** | **missatĭco** | - |
 | *najlo* | **naġlo** | | | | **klodo** |
 | *nepre* | **nepre** | | | | **apsolte** / **nealie** |
 | *oro* | | **auro** | **aure** | **auro** | **auro** |
