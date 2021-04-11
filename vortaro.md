@@ -191,20 +191,21 @@
 
 | Lingua | Linguo | Speranto | Esperanto | [Z](#Z) |
 |-|-|-|-|-|
+| | | **kaŝo** | *kaĉo* | **grieo** |
+| **cadentia** | **cadentio** | | *kadenco* | - |
+| @ **cadentia** | **çhadĕntĭo** = **çhanço** | | *ŝanco* | - |
+| | | **kĩto** = **kaito** | *kajto* | - |
+| **cantione** | **canţono** = **cançono** | | *kanzono* | - |
+| **occultare** | **cŏactĭi** = **caçhi** | | *kaŝi* | **okulta** |
+| **basiare** | **basĭi** = **baĵi** | **kyssi** = **kissi** | *kisi* | **bacia** |
+| | | **kolbas̄o** | *kolbaso* | **salsico** |
+| | | **koŝmaro** | *koŝmaro* | - |
+| **cunio** | **cunĭo** | | *kojno* | **koino** |
+| | | **krom** | *krom* | **hors** |
 
 | | | | | | |
 |-|-|-|-|-|-|
 | | | | | | |
-| *kaĉo* | **kaŝo** | | | | **grieo** |
-| *kadenco* / *ŝanco* | | **cadentio** / **çhadĕntĭo** = **çhanço** | **cadentie** | **cadentia** | - |
-| *kajto* | **kĩto** | | | | - |
-| *kanzono* | | **canţono** = **cançono** | **cantie** | **cantione** | - |
-| *kaŝi* | | **cŏactĭi** = **caçhi** | **occultu** | **occultare** | **okulta** |
-| *kisi* | **kyssi** = **kissi** | **basĭi** = **baĵi** | **basiu** | **basiare** | **bacia** |
-| *kolbaso* | **kolbas̄o** | | | | **salsico** |
-| *koŝmaro* | **koŝmaro** | | | | - |
-| *kojno* | | **cunĭo** | **cunie** | **cunio** | **koino** |
-| *krom* | **krom** | | | | **hors** |
 | *labori* | | **lavori** | **lavoru** | **laborare** | |
 | *lando* | **lando** | **pağėn̆so** = **paīso** | **pağen̆se** = **paese** | **pagense** | **paeso** |
 | *lasi* | **lassi** | | | | |
