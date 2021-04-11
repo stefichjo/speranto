@@ -162,15 +162,13 @@
 | **familia** | **familĭo** | | *familio* | |
 | **facĕre** | **faci** | | *fari* | |
 | **stare** | **stati** | | *farti* | **(kvale esten vue stato)** |
-
-| *fermi* | | **cludi** | **cludĕre** | |
-| *fiŝo* | **fisho** | **pisco** | **pisc̄e** | **pisce** | **pisko** |
-| *fojno* | | **fẽno** = **fieno** | **fene** | **feno** | **fieno** |
-| *folio* | | **folĭo** | **folie** | **folia** | |
-| *forgesi* | **fergŭessi** | | | | **obliva** |
-| *fraŭlo* | **frũlo** | | | | **fralo** |
-| *fromaĝo* | | **fromatĭco** | **formatĭce** | **formatĭco** | **fromago** |
-
+| **cludĕre** | **cludi** | | *fermi* | |
+| **pisce** | **pisco** | **fisho** | *fiŝo* | **pisko** |
+| **feno** | **fẽno** = **fieno** | | *fojno* | **fieno** |
+| **folia** | **folĭo** | | *folio* | |
+| | | **fergŭessi** | *forgesi* | **obliva** |
+| | | **frũlo** = **fraulo** | *fraŭlo* | **fralo** |
+| **formatĭco** | **fromatĭco** = **fromaĵo** | | *fromaĝo* | |
 
 | | | | | | |
 |-|-|-|-|-|-|
