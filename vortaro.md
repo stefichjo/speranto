@@ -224,26 +224,26 @@
 | | | | | |
 | **auro** | | | *oro* | **auro** |
 | | | | | |
+| **pagensatĭco** | **pağėn̆satĭco** = **paisaĵo** | | *pejzaĝo* | **paesago** |
+| **pesare** | **pesumi** | | *pesi* | |
+| **pede** | **pẽdo** = **piedo** | | *piedo* | **pedo** |
+| **porta** | **porṯo** = **pordo** | | *pordo* | |
+| **potere** | **possi** | | *povi* | |
+| | | **prava** | *prava* | **razione** |
+| **principalemente** | **prïnçipe** = **prençipe** | | *precipe* | |
+| | | **pregi** | *pregi* | - |
+| **precare** | **preqŭi** | | *preĝi* | **preka** |
+| | | **pri** | *pri* | **de** |
+| **pronuntiare** | **pronuntii** | | *prononci* | - |
+| | | | | |
 
 
 | Lingua | Linguo | Speranto | Esperanto | [Z](#Z) |
 |-|-|-|-|-|
-| | | | | |
 
 | | | | | | |
 |-|-|-|-|-|-|
 | | | | | | |
-| *pejzaĝo* | | **pağėn̆satĭco** = **paisaĵo** | **pağen̆satĭce** = **paesatĭce** | **pagensatĭco** | **paesago** |
-| *pesi* | | **pesumi** | **pesu** | **pesare** | |
-| *piedo* | | **pẽdo** | **pede** | **pede** | **pedo** |
-| *pordo* | | **porṯo** = **pordo** | **porte** | **porta** | |
-| *povi* | | **possi** | **possu** | **potere** | |
-| *prava* | **prava** | | | | **razione** |
-| *precipe* | | **prïnçipe** = **prensipe** | **principo** | **principalemente** | |
-| *pregi* | **pregi** | | | | - |
-| *preĝi* | | **preqŭi** | **precu** | **precare** | **preka** |
-| *pri* | **pri** | | | | **de** |
-| *prononci* | | **pronuntii** | **pronuntiu** | **pronuntiare** | - |
 | *radio* *(energio)* | | **radĭo** = **raĵo** | **radie** | **radio** | |
 | *radio* *(signalo)* | | **radio** | **radio** | **radio** | |
 | *reĝo* | | **reĝo** | **rege** | **rege** | **rekso** |
