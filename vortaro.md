@@ -188,11 +188,9 @@
 | | | **yes** | *jes* | **si** |
 | **Iupitere** | **Jůvo** = **Jovo** | | *Jupitero* | - |
 | **iusta** | **justuma** | | *justa* | |
-
-| Lingua | Linguo | Speranto | Esperanto | [Z](#Z) |
-|-|-|-|-|-|
+| | | | | |
 | | | **kaŝo** | *kaĉo* | **grieo** |
-| **cadentia** | **cadentio** | | *kadenco* | - |
+| **cadentia** | | | *kadenco* | - |
 | @ **cadentia** | **çhadĕntĭo** = **çhanço** | | *ŝanco* | - |
 | | | **kĩto** = **kaito** | *kajto* | - |
 | **cantione** | **canţono** = **cançono** | | *kanzono* | - |
@@ -202,16 +200,20 @@
 | | | **koŝmaro** | *koŝmaro* | - |
 | **cunio** | **cunĭo** | | *kojno* | **koino** |
 | | | **krom** | *krom* | **hors** |
+| | | | | |
+
+| Lingua | Linguo | Speranto | Esperanto | [Z](#Z) |
+|-|-|-|-|-|
+| **laborare** | **lavori** | | *labori* | |
+| **pagense** | **pağėn̆so** = **paīso** | **lando** | *lando* | **paeso** |
+| | | **lassi** | *lasi* | |
+| **lectione** | **lectĭono** = **leçono** | | *leciono* | |
+| **luna** | | | *luno* | |
+| **lunedīe** | **lunedīo** | | *lundo* | |
 
 | | | | | | |
 |-|-|-|-|-|-|
 | | | | | | |
-| *labori* | | **lavori** | **lavoru** | **laborare** | |
-| *lando* | **lando** | **pağėn̆so** = **paīso** | **pağen̆se** = **paese** | **pagense** | **paeso** |
-| *lasi* | **lassi** | | | | |
-| *leciono* | | **lectĭono** = **leçono** | **lectie** | **lectione** | |
-| *luno* | | **luno** | **lune** | **luna** | |
-| *lundo* | | **lunedīo** | **lunedīe** | **lunedīe** | |
 | *mal-* | **mal-** | | | | |
 | *mardo* | | **martedīo** | **martedīe** | **martedīe** | |
 | *Marso* | | **Marto** | **Marte** | **Marte** | - |
