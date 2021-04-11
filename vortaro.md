@@ -236,18 +236,19 @@
 | | | **pri** | *pri* | **de** |
 | **pronuntiare** | **pronuntii** | | *prononci* | - |
 | | | | | |
+| **radio** | **radĭo** = **raĵo** | | *radio* *(energio)* | |
+| **radio** | | | *radio* *(signalo)* | |
+| **rege** | **reĝo** | | *reĝo* | **rekso** |
+| **rivo** | **rĩv̆o** = **royo** | | *rojo* | - |
 
 
 | Lingua | Linguo | Speranto | Esperanto | [Z](#Z) |
 |-|-|-|-|-|
+| | | | | |
 
 | | | | | | |
 |-|-|-|-|-|-|
 | | | | | | |
-| *radio* *(energio)* | | **radĭo** = **raĵo** | **radie** | **radio** | |
-| *radio* *(signalo)* | | **radio** | **radio** | **radio** | |
-| *reĝo* | | **reĝo** | **rege** | **rege** | **rekso** |
-| *rojo* | | **rĩv̆o** = **royo** | **rive** | **rivo** | - |
 | *ŝajni* | **shĩni** | | | | **sembla** |
 | *sango* | | **sanguo** | **sanguĭne** = **sangue** | **sanguĭne** | |
 | *ŝanĝi* | | **çhambĭi** = **çhanĵi** | **cambiu** | **cambiare** | **aliiga** |
