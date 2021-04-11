@@ -302,19 +302,19 @@ Infinitivoj finiĝas je -**re**.
 
 | | | poezie |
 |-|-|-|
-| *sin movi*, *moviĝi* | **si movĕre** | **movĕrsi** |
+| *sin movi*, *moviĝi* | **si movere** | **moversi** |
 | | | |
 | *mi povas vidi ilin* | **me pote videre illi** | **potem viderles** |
 
-***En poezio***, la infinitiva formo **essere** mallongiĝas al **esse**.
+***En poezio***, la infinitiva formo **essïre** mallongiĝas al **essï**.
 
 | | | poezie |
 |-|-|-|
-| *esti* | **essere** | **esse** |
+| *esti* | **essïre** | **essï** |
 
 #### Prezenco
 
-En la prezenco, la infinitiva finiĝo -**re** forestas.
+En la prezenco, la infinitiva finiĝo -**re** forestas. La ŝajnfinaĵoj **-ĕ** kaj **-ï** de la infinitiva radiko skribiĝas **-e**.
 
 | | |
 |-|-|
@@ -327,19 +327,19 @@ En la prezenco, la infinitiva finiĝo -**re** forestas.
 |-|-|-|
 | *mi havas* | **me habe** | **habem** |
 | *vi havas* | **tu habe** | **habes** |
-| *li havas* | **olle habe** | **habet** |
+| *ĝi havas* | **ulle habe** | **habet** |
 | | | |
 | *ni havas* | **nos habe** | **habemus** |
 | *vi havas* | **vos habe** | **habetis** |
 | *ili havas* | **ille habe** | **habent** |
 
-***En poezio***, la infinitva formo **essere** mallongiĝas al **esse**.
+***En poezio***, la prezencaj formoj de **essïre** povas mallongiĝi al malregulaj formoj.
 
 | | | poezie |
 |-|-|-|
 | *mi estas* | **me esse** | **essem** → **sum** |
 | *vi estas* | **tu esse** | **esses** → **es** |
-| *li estas* | **olle esse** | **esset** → **est** |
+| *ĝi estas* | **ulle esse** | **esset** → **est** |
 | | | |
 | *ni estas* | **nos esse** | **essemus** → **sumus** |
 | *vi estas* | **vos esse** | **essetis** → **estis** |
@@ -389,8 +389,22 @@ Ordinaraj verboj je neakcentebla **-ĕ** perdas sian ŝajnfinaĵon **-e** en la 
 
 | | |
 |-|-|
-| *vi faru* | **tu facia** |
+| *vi faru* | **tu facĭa** = **tu facia** |
 | *vi diru* | **tu dica** |
+| | |
+| *vi estu* | **tu essĭa** = **tu essia** |
+
+***En poezio***, la volitivaj formoj de **essïre** (respektive de **essï**) povas esti mallongigitaj al malregulaj formoj.
+
+| | | poezie |
+|-|-|-|
+| *mi estu* | **me essĭa** | **essĭam** → **siam** → **sim** |
+| *vi estu* | **tu essĭa** | **essĭas** → **sias** → **sis** |
+| *ĝi estu* | **ulle essĭa** | **essĭat** → **siat** → **sit** |
+| | | |
+| *ni estu* | **nos essĭa** | **essiamus** → **siamus** → **simus** |
+| *vi estu* | **vos essĭa** | **essiatis** → **siatis** → **sitis** |
+| *ili estu* | **ille essĭa** | **essĭant** → **siant** → **sint** |
 
 La volitivo de verboj je **-a** finiĝas je **-e**.
 
@@ -400,17 +414,19 @@ La volitivo de verboj je **-a** finiĝas je **-e**.
 
 #### Imperativo
 
-Por la imperativo, uziĝas la prezenca formo. ***En poezio***, uziĝas la volitiva formo.
+Por la imperativo, uziĝas la infinitiva formo sen **-re**, kun la ŝajnfinaĵo **-te** por multenombro. ***En poezio***, uziĝas la volitiva formo, kun la ŝajnfinaĵo **-n** por multenombro.
 
 | | | poezie |
 |-|-|-|
-| *venu!* | **veni!** | **venĭa!** = **audia!** |
-| *vidu!* | **vide!** | **vidĕa!** |
-| | |
-| *faru!* | **face!** | **facĭa!** = **facia!** |
-| *diru!* | **vade!** | **vada!** |
-| | |
-| *parolu!* | **parla!** | **parle!** |
+| *venu!* | **veni(te)!** | **venĭa(n)!** |
+| *vidu!* | **vide(te)!** | **vidĕa(n)!** |
+| | | |
+| *faru!* | **facï(te)!** | **facĭa(n)!** |
+| *iru!* | **vadĕ(te)!** | **vada(n)!** |
+| | | |
+| *estu!* | **essï(te)!** | **essĭa(n)!** |
+| | | |
+| *kantu!* | **canta(te)!** | **cante(n)!** |
 
 #### Aspektoj
 
