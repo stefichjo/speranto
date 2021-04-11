@@ -283,22 +283,14 @@
 | **tangĕre** | **tǒçci** = **tuçci** | | *tuŝi* | - |
 | **tota** | **tǒta** = **tuta** | | *tuta* | |
 | | | | | |
-
-| Lingua | Linguo | Speranto | Esperanto | [Z](#Z) |
-|-|-|-|-|-|
-| | | | | |
-
-| | | | | | |
-|-|-|-|-|-|-|
-| | | | | | |
-| *varma* | **warma** | | | | **kalore** |
-| *venĝi* | | **vïndĭci** = **venĵi** | **vindicu** | **vindicare** | |
-| *Venuso* | | **Venĕro** = **Vendro** | **Venĕre** = **Venre** | **Venĕre** | - |
-| *vendredo* | | **venĕredīo** = **vendredīo** | **venĕrdīe** = **venredīe** | **venĕredīe** | |
-| *voĉo* | | **voĉo** | **voce** | **voce** | **voco** |
-| *vojo* | | **vĩo** = **voyo** | **vie** | **via** | **vio** |
-| *vojaĝo* | | **viatĭco** = **viaĵo** | **viatĭce** | **viatĭco** | **vojago** |
-| *vorto* | **worto** | | | | **vokablo** |
+| | | **warma** | *varma* | **kalore** |
+| **vindicare** | **vïndĭci** = **venĵi** | | *venĝi* | |
+| **Venĕre** | **Venĕro** = **Vendro** | | *Venuso* | - |
+| **venĕredīe** | **venĕredīo** = **vendredīo** | | *vendredo* | |
+| **voce** | | | *voĉo* | |
+| **via** | **vĩo** = **voyo** | | *vojo* | **vio** |
+| **viatĭco** | **viatĭco** = **viaĵo** | | *vojaĝo* | |
+| | | **worto** | *vorto* | **vokablo** |
 
 ## [Z](https://tekstaro.com/t?nomo=reformoj-esperanto)
 
