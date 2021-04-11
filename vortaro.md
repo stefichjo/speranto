@@ -240,7 +240,37 @@
 | **radio** | | | *radio* *(signalo)* | |
 | **rege** | **reĝo** | | *reĝo* | **rekso** |
 | **rivo** | **rĩv̆o** = **royo** | | *rojo* | - |
-
+| | | | | |
+| | | **shĩni** | *ŝajni* | **sembla** |
+| **sanguĭne** | **sanguo** | | *sango* || |
+| **cambiare** | **çhambĭi** = **çhanĵi** | | *ŝanĝi* | **aliiga** |
+| **caricare** | **çharĭcumi** = **çharĵumi** | | *ŝargi* | |
+| **caricare** | **çharĭci** = **çharĵi** | | *ŝarĝi* | |
+| **querere** | **qŭẽri** = **qŭieri** | **shatţi** = **shatsi** | *ŝati* | **alte tenaa** → **alte tena** |
+| **salsa** | **salso** | | *saŭco* | **sauco** |
+| **salvare** | **salvi** | | *savi* | **salva** |
+| **sapere** | **savi** | | *scii* | **szia** |
+| **septimana** | **septĭmano** = **semano** | | *semajno* | **setimano** |
+| **senso** | **senso** | | *senco* | **senso** |
+| **inviare** | | **sendi** | *sendi* | **invia** |
+| **senso** | **sentumo** | | *senso* | - |
+| **seria** | **serio** | | *serio* | |
+| **seniore** | **sėnĭoro** = **sinĭoro** | | *sinjoro* | |
+| **nave** | | **shippo** | *ŝipo* | **navo** |
+| **scribĕre** | **scrivi** | | *skribi* | |
+| | | **ŝlĩmo** = **ŝlaimo** | *ŝlimo* | **slimo** |
+| | | **ŝnuro** | *ŝnuro* | **funo** |
+| **solia** | **solĭo** | | *sojlo* | **solio** |
+| **somniare** | **somnĭi** = **sonĵi** | | *sonĝi* | |
+| | | **ŝprutţi** = **ŝprutsi** | *ŝpruci* | **sperga** |
+| | | **shraubo** | *ŝraŭbo* | **viso** |
+| | | **ŝtalo** | *ŝtalo* | **aciero** |
+| | | **ŝtato** | *ŝtato* | **stado** |
+| **petra** | **pẽtro** = **pietro** | **ŝtêno** = **ŝtaino** | *ŝtono* | **pietro** |
+| **extrania** | **ex̂tranĭa** | | *stranga* | |
+| **stadio** | **stadĭo** = **staĵo** | | *stadio* *(fazo)* | - |
+| **stadio** | **stadio** | | *stadio* *(mezurunuo)* | - |
+| | | **shuo** | *ŝuo* | **suliero** |
 
 | Lingua | Linguo | Speranto | Esperanto | [Z](#Z) |
 |-|-|-|-|-|
@@ -249,36 +279,6 @@
 | | | | | | |
 |-|-|-|-|-|-|
 | | | | | | |
-| *ŝajni* | **shĩni** | | | | **sembla** |
-| *sango* | | **sanguo** | **sanguĭne** = **sangue** | **sanguĭne** | |
-| *ŝanĝi* | | **çhambĭi** = **çhanĵi** | **cambiu** | **cambiare** | **aliiga** |
-| *ŝargi* | | **çharĭcumi** = **çharĵumi** | **carĭcu** = **cargu** | **caricare** | |
-| *ŝarĝi* | | **çharĭci** = **çharĵi** | **carĭcu** = **cargu** | **caricare** | **carga** |
-| *ŝati* | **shatţi** = **shatsi**| **qŭẽri** = **qŭieri** | **queru** | **querere** | **alte tenaa** → **alte tena** |
-| *saŭco* | | **salso** | **salse** | **salsa** | **sauco** |
-| *savi* | | **salvi** |  **salvu** | **salvare** | **salva** |
-| *scii* | | **savi** | **savu** | **sapere** | |
-| *semajno* | | **septĭmano** = **semano** | **septimane** | **septimana** | **setimano** |
-| *senco* | | **senso** | **sense** | **senso** | **senso** |
-| *sendi* | **sendi** | **mitti** | **mittu** | **mittĕre** | **invia** |
-| *sinjoro* | | **sėnĭoro** | **seniore** | **seniore** | |
-| *senso* | | **sentumo** | **sense** | **senso** | - |
-| *serio* | | **serio** | **serie** | **seria** | |
-| *ŝipo* | **shippo** | | | | **navo** |
-| *skribi* | | **scrivi** | **scrivu** | **scribĕre** | |
-| *ŝlimo* | **ŝlĩmo** = **ŝlaimo** | | | | **slimo** |
-| *ŝnuro* | **ŝnuro** | | | | **funo** |
-| *sojlo* | | **solĭo** | **solie** | **solia** | **solio** |
-| *sonĝi* | | **somnĭi** = **sonĵi** | **somniu** | **somniare** | |
-| *ŝpruci* | **ŝprutţi** = **ŝprutsi** | | | | **sperga** |
-| *ŝraŭbo* | **shraubo** | | | | **viso** |
-| *ŝtalo* | **ŝtalo** | | | | **aciero** |
-| *ŝtato* | **ŝtato** | | | | **stado** |
-| *ŝtono* | **ŝtêno** = **ŝtaino** | **pẽtro** = **pietro** | **petre** | **petra** | **pietro** |
-| *stranga* | | **ex̂tranĭa** | **extrania** | **extrania** | |
-| *stadio* *(fazo)* | | **stadĭo** = **staĵo** | **stadie** | **stadio** | - |
-| *stadio* *(mezurunuo)* | | **stadio** | **stadie** | **stadio** | - |
-| *ŝuo* | **shuo** | | | | **suliero** |
 | *tablo* | | **tavlo** | **tavŭle** = **tavle** | **tabŭla** | |
 | *tabulo* | | **tavulo** | **tavŭle** = **tavle** | **tabŭla** | |
 | *tago* | **tago** | **dīo** | **dīe** | **dīe** | **dio** |
