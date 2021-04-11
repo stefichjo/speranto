@@ -40,7 +40,7 @@
 | **appena** | **appenô** = **appenau** | | *apenaŭ* | |
 | **applaudĕre** | | | *aplaŭdi* | **aploda** |
 | **appodiare** | **appodĭi** = **appoĵi** | | *apogi* | |
-| | | **-aṛ-** = **-ai-** @ | *-ar-* | |
+| | | | *-ar-* | |
 | | | | *araneo* | **arakno** |
 | | | | *aranĝi* | **aranga** |
 | | | | *arĉo* | **arketo** |
@@ -77,7 +77,7 @@
 | | | | *boji* | **aboja** |
 | | | | *bombono* | **bonbono** |
 | | | | *bori* | **fora** |
-| | | | *bordo* | **rivo** @ |
+| | | | *bordo* | **rivo** |
 | | | | *bordero* | **bordo** |
 | | | | *bramo* | **bremo** |
 | | | | *branĉo* | **ramo** |
@@ -88,7 +88,7 @@
 | | | | *bruli* | **arda** |
 | | | | *brusto* | **pekto** |
 | | | | *bubalo* | **bufalo** |
-| | | | *bufo* | **bufono** @ |
+| | | | *bufo* | **bufono** |
 | | | | *bufedo* | **bufeto** |
 | | | | *buko* | **boklo** |
 | | | | *bukedo* | **buketo** |
@@ -221,7 +221,6 @@
 | | | | | |
 | | | **kaŝo** | *kaĉo* | **grieo** |
 | **cadentia** | | | *kadenco* | - |
-| @ **cadentia** | **çhadĕntĭo** = **çhanço** | | *ŝanco* | - |
 | | | **kĩto** = **kaito** | *kajto* | - |
 | **cantione** | **canţono** = **cançono** | | *kanzono* | - |
 | **occultare** | **cŏactĭi** = **caçhi** | | *kaŝi* | **okulta** |
@@ -272,6 +271,7 @@
 | **rivo** | **rĩv̆o** = **royo** | | *rojo* | - |
 | | | | | |
 | | | **shĩni** | *ŝajni* | **sembla** |
+| **cadentia** | **çhadĕntĭo** = **çhanço** | | *ŝanco* | - |
 | **sanguĭne** | **sanguo** | | *sango* || |
 | **cambiare** | **çhambĭi** = **çhanĵi** | | *ŝanĝi* | **aliiga** |
 | **caricare** | **çharĭcumi** = **çharĵumi** | | *ŝargi* | |
