@@ -219,6 +219,9 @@
 | **Mercurio** | **Mercurio** | | *Merkuro* | - |
 | **missatĭco** | **mïssatĭco** = **messaĵo** | | *mesaĝo* | - |
 | | | | | |
+| | | **naġlo** = **nailo** | *najlo* | **klodo** |
+| | | **nepre** | *nepre* | **apsolte** / **nealie** |
+| | | | | |
 
 
 | Lingua | Linguo | Speranto | Esperanto | [Z](#Z) |
@@ -227,8 +230,6 @@
 | | | | | | |
 |-|-|-|-|-|-|
 | | | | | | |
-| *najlo* | **naġlo** | | | | **klodo** |
-| *nepre* | **nepre** | | | | **apsolte** / **nealie** |
 | *oro* | | **auro** | **aure** | **auro** | **auro** |
 | *pejzaĝo* | | **pağėn̆satĭco** = **paisaĵo** | **pağen̆satĭce** = **paesatĭce** | **pagensatĭco** | **paesago** |
 | *pesi* | | **pesumi** | **pesu** | **pesare** | |
