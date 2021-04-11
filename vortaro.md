@@ -13,7 +13,7 @@
 | **etatĭco** | **eṯatĭco** = **edaĵo** | | *aĝo* | **etado** |
 | **accordare** | | | *agordi* | **akorda** |
 | **-atĭc-** | **-atĭc-** = **-aĵ-** | | *-aĵ-* | **-e-** |
-| **alio** | **alĭo** | | *ajlo* | **ailo** @aj -> ai |
+| **alio** | **alĭo** | | *ajlo* | |
 | **ali-** | | **ên** = **ain** | *ajn* | **kunku** |
 | **accelerare** | | | *akceli* | **akcelera** |
 | **accento** | **accentumo** | | *akĉento* | - |
@@ -135,16 +135,46 @@
 | **pollĭce** | | **ţollo** = **tsollo** | *colo* | **dito** |
 | **num** | | **chǐ** = **chu** | *ĉu* | **num** |
 | | | | | |
+| **de** | | | *da* | "-" |
+| | | | *danci* | |
+| | | | *danĝero* | **periklo** |
 | **gratiare** | | **danki** | *danki* | **gratia** |
- **demandare** | **dėmandi** = **dimandi** | | *demandi* | |
+| **durare** | | **dũri** = **dauri** | *daŭri* | **dura** |
+| | | | *deĉifri* | |
+| **dedicare** | | | *dediĉi* | **dedika** |
+| | | | *defendi* | **defensa** |
+| | | | *deĵori* | **servogarda** |
+| | | | *deklinacio* | **deklino** |
+| **demandare** | **dėmandi** = **dimandi** | | *demandi* | |
 | **democratīa** | | | *demokratio* | - |
+| | | | *denunco* | |
 | **dependĕre** | **dėpendi** = **dipendi** | | *dependi* | - |
-| **grossa** | | **dicka** | *dika* | **grose** |
+| | | | *des* | **tantu** |
+| | | | *detrui* | **distrua** |
+| | | | *devizo* | |
+| | | | *dezerto* | |
+| | | | *deziri* | |
 | **deo** | | | *dio* | **deo** |
+| | | | *diboĉi* | **deboca** |
+| **defecta** | **dėfecta** = **difecta** | | *difekti* | **defekta** |
+| | | | *diferenco* | |
+| **grossa** | | **dicka** | *dika* | **grose** |
 | **definire** | **dėfini** = **difini** | | *difini* | |
+| | | | *dimanĉo* | **dominko** |
 | **dicĕre** | | | *diri* | |
+| | | | *distri* | **distrakta** |
+| | | | *do* | **donku** |
 | **dulce** | **dulĉa** | | *dolĉa* | |
+| | | | *domaĝo* | |
+| | | | *domeno* | **domino** |
+| | | | *doni* | **dara** |
 | **donatione** | **donatīo** | | *donaco* | **dono** |
+| | | | *dorno* | **spino** |
+| | | | *drapiri* | **drapera** |
+| | | | *draŝi* | **drasa** |
+| | | | *drinki* | **biba** |
+| | | | *drinkejo* | **taverno** |
+| | | | *dungi* | **mercena** |
 | | | | | |
 | **-eti-** | **-etĭ-** = **-ess-** | | *-ec-* | **-it-** |
 | **et** | **et** | | *eĉ* | **mem** |
@@ -278,7 +308,7 @@
 | **-edīe** | **-edīo** | | *tago* *(de la semajno)* | - |
 | | | **tĩdo** = **taido** | *tajdo* | - |
 | **tragĭno** | **trağino** = **traino** | | *trajno* | - |
-| | **trançi** | | *tranĉi* | - |
+| **truncare** | **trançi** | | *tranĉi* | - |
 | **bibĕre** | **bïvi** = **bevi** | **trinki** | *trinki* | **biba** |
 | **tangĕre** | **tǒçci** = **tuçci** | | *tuŝi* | - |
 | **tota** | **tǒta** = **tuta** | | *tuta* | |
@@ -304,8 +334,13 @@
 | **ĵ** → **j** *[j]* | **jeti** *[jeti]* |
 | **ĥ** → **k** *[k]* | **eko** *[eko]* |
 | | |
+| **aj** → **ai** *[ai]* | **ailo** *[ailo]* |
+| **aŭ** → **av** *[av]* | **lavda** *[lavda]* |
+| | |
 | **-a** → **-e** | **bone** *[bone]* |
 | **-i** → **-a** | **kanta** *[kanta]* |
 | **-aŭ** → **-u** | **hieru** *[hieru]* |
 | | |
 | **-ant-** → **-ent-** | **studento** *[studento]* |
+
+* https://en.wikipedia.org/wiki/Esperanto_etymology#Slavic_and_Lithuanian
