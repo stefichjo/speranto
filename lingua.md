@@ -61,22 +61,22 @@ En diftongoj, **i** kaj **u** ne estas akcentataj.
 
 | | |
 |-|-|
-| *majo* | **maĭo** = **maio** *[mai-o]* |
+| *majo* | **maĭo** *[mai-o]* |
 | | |
-| *familio* | **familĭa** = **familia** *[famili-a]* |
-| *jam* | **ĭam** = **iam** *[i-am = iam']* |
+| *familio* | **familĭa** *[famili-a]* |
+| *jam* | **ĭam** *[iam']* |
 | | |
-| *oro* | **aŭro** = **auro** *[au-ro]* |
+| *oro* | **aŭro** *[au-ro]* |
 | | |
-| *akvo* | **aqŭa** = **aqua** *[aku-a]* |
-| *lingvo* | **lingŭa** = **lingua** *[lingu-a]* |
+| *akvo* | **aqŭa** *[aku-a]* |
+| *lingvo* | **lingŭa** *[lingu-a]* |
 
 En la diftongoj **iu** kaj **ui**, la diftongokomencaj **i-** kaj **u-** ne estas akcentataj.
 
 | | |
 |-|-|
-| *justa*, *ĝusta* | **ĭusta** = **iusta** *[iusta]* |
-| *kiu* | **qŭi** = **qui** *[kui']* |
+| *justa*, *ĝusta* | **ĭusta** *[iusta]* |
+| *kiu* | **qŭi** *[kui']* |
 
 ### Grekaj Vortoj
 
@@ -119,9 +119,9 @@ En la *vokativa* formo, substantivo ricevas la finaĵon **-i** anstataŭ **-s**.
 
 | | | poezie |
 |-|-|-|
-| *amikinoj!* | **amicaĭ!** = **amicai!** | **amice!** |
-| *amikoj!* | **amicoĭ!** = **amicoi!** | **amici!** |
-| *reĝoj!* | **regeĭ!** = **regei!** | **regi!** |
+| *amikinoj!* | **amicaĭ!** | **amice!** |
+| *amikoj!* | **amicoĭ!** | **amici!** |
+| *reĝoj!* | **regeĭ!** | **regi!** |
 
 Nomoj kaj terminoj konservas sian specifan *nominativan* formon. Por personaj nomoj, uziĝas **-o** anstataŭ **-us**.
 
@@ -131,8 +131,8 @@ Nomoj kaj terminoj konservas sian specifan *nominativan* formon. Por personaj no
 | *dato* | **datum** |
 | *statuso* | **status** |
 | | |
-| *Juliuso* | **Ĭulĭo** = **Iulio** *[iuli-o]* |
-| *Julia* | **Ĭulĭa** = **Iulia** *[iuli-a]* |
+| *Juliuso* | **Ĭulĭo** *[iuli-o]* |
+| *Julia* | **Ĭulĭa** *[iuli-a]* |
 
 ### Adjektivoj
 
@@ -278,25 +278,29 @@ La korelativo **la** kaj la numeralo **un** uziĝas kiel artikoloj. ***En poezio
 | | |
 |-|-|
 | *mi*, *vi* | **me**, **tu** |
-| *mia*, *via* | **mea**, **tūa** = **tua** |
+| *mia*, *via* | **mea**, **tūa** |
 | *min*, *vin* | **mi**, **ti** |
 | | |
 | *ni(n)*, *vi(n)* | **nos**, **vos** |
 | *nia*, *via* | **nossa**, **vossa** |
 | | |
 | *si* | **su** |
-| *sia* | **sūa** = **sua** |
+| *sia* | **sūa** |
 | *sin* | **si** |
 
 ### Verboj
 
 #### Infinitivo
 
-Infinitivoj finiĝas je -**re**.
+Infinitivoj finiĝas je -**re**. Kelkaj verboj, kies radiko finiĝas je **-ĕ** kondutas kvazaŭ ili finiĝus je **-ĭ**.
 
 | | |
 |-|-|
-| *havi* | **habere** |
+| *veni* | **venire** |
+| *vidi* | **videre** |
+| *venki* | **vincĕre** |
+| *fari* | **facĭre** → **facĕre** |
+| *ami* | **amare** |
 
 ***En poezio***, la infinitivo kaj persona pronomo en akuzativo fariĝas kvazaŭ unu vorto. Tiam uziĝas **-les** por multenombro kaj **-li** por ununombro.
 
@@ -306,20 +310,23 @@ Infinitivoj finiĝas je -**re**.
 | | | |
 | *mi povas vidi ilin* | **me pote videre illi** | **potem viderles** |
 
-***En poezio***, la infinitiva formo **essïre** mallongiĝas al **essï**.
+***En poezio***, la infinitiva formo **essĭre** → **essĕre**  mallongiĝas al **esse**.
 
 | | | poezie |
 |-|-|-|
-| *esti* | **essïre** | **essï** |
+| *esti* | **essĭre** → **essĕre** | **esse** |
 
 #### Prezenco
 
-En la prezenco, la infinitiva finiĝo -**re** forestas. La ŝajnfinaĵoj **-ĕ** kaj **-ï** de la infinitiva radiko skribiĝas **-e**.
+En la prezenco, la infinitiva finiĝo -**re** forestas.
 
 | | |
 |-|-|
-| *mi havas* | **me habe** |
-| *mi estas* | **me esse** |
+| *mi venas* | **me veni** |
+| *mi vidas* | **me vide** |
+| *mi venkas* | **me vince** |
+| *mi faras* | **me face** |
+| *mi amas* | **me ama** |
 
 ***En Poezio***, uziĝas personaj ŝajnfinaĵoj anstataŭ pronomoj.
 
@@ -333,7 +340,7 @@ En la prezenco, la infinitiva finiĝo -**re** forestas. La ŝajnfinaĵoj **-ĕ**
 | *vi havas* | **vos habe** | **habetis** |
 | *ili havas* | **ille habe** | **habent** |
 
-***En poezio***, la prezencaj formoj de **essïre** (respektive de **essï**) povas mallongiĝi al malregulaj formoj.
+***En poezio***, la prezencaj formoj de **essĭre** → **essĕre** (respektive de **esse**) povas mallongiĝi al malregulaj formoj.
 
 | | | poezie |
 |-|-|-|
@@ -345,6 +352,45 @@ En la prezenco, la infinitiva finiĝo -**re** forestas. La ŝajnfinaĵoj **-ĕ**
 | *vi estas* | **vos esse** | **essetis** → **estis** |
 | *ili estas* | **ille esse** | **essent** → **sunt** |
 
+##### Volitivo
+
+La volitivo de verboj je **-i** aŭ **-e** finiĝas je **-ĭa** respektive **-ĕa**. La volitivo de verboj je **-ĕ** finiĝas je **-a**. La volitivo de verboj je **-ĭ** finiĝas je **-ĭa**. La volitivo de verboj je **-a** finiĝas je **-e**.
+
+| | infinitivo | volitivo |
+|-|-|-|
+| *vi venu* | **venire** | **tu venĭa** |
+| *vi vidu* | **videre** | **tu vidĕa** |
+| | | |
+| *vi venku* | **vincĕre** | **tu vinca** |
+| | | |
+| *vi faru* | **facĭre** → **facĕre** | **tu facĭa** |
+| | | |
+| *vi amu* | **amare** | **tu ame** |
+
+***En poezio***, la volitivaj formoj de **essĭre** → **essĕre** (respektive de **esse**) povas esti mallongigitaj al malregulaj formoj.
+
+| | | poezie |
+|-|-|-|
+| *mi estu* | **me essĭa** | **essĭam** → **sīam** → **sim** |
+| *vi estu* | **tu essĭa** | **essĭas** → **sīas** → **sis** |
+| *ĝi estu* | **ulle essĭa** | **essĭat** → **sīat** → **sit** |
+| | | |
+| *ni estu* | **nos essĭa** | **essiamus** → **siamus** → **simus** |
+| *vi estu* | **vos essĭa** | **essiatis** → **siatis** → **sitis** |
+| *ili estu* | **ille essĭa** | **essĭant** → **sīant** → **sint** |
+
+##### Imperativo
+
+Por la imperativo, uziĝas la infinitiva formo sen **-re**, kun la ŝajnfinaĵo **-te** por multenombro. ***En poezio***, uziĝas la volitiva formo, kun la ŝajnfinaĵo **-n** por multenombro.
+
+| | | poezie |
+|-|-|-|
+| *venu!* | **veni(te)!** | **venĭa(n)!** |
+| *vidu!* | **vide(te)!** | **vidĕa(n)!** |
+| *venku!* | **vincĕ(te)!** | **vinca(n)!** |
+| *faru!* | **facĭ(te)!** → **facĕ(te)!** | **facĭa(n)!** |
+| *amu!* | **ama(te)!** | **ame(n)!** |
+
 #### Preterito
 
 En la preterito, aldoniĝas la sufikso -**ba** al la prezenca formo.
@@ -352,6 +398,12 @@ En la preterito, aldoniĝas la sufikso -**ba** al la prezenca formo.
 | | | poezie |
 |-|-|-|
 | *mi havis* | **me habeba** | **habebam** |
+
+##### Konjunktivo
+
+| | | poezie |
+|-|-|-|
+| *(se) mi havus* | **me habesse** | **habessem** |
 
 #### Futuro
 
@@ -361,72 +413,13 @@ En la futuro, aldoniĝas la akcentata sufikso -**ā** al la infinitiva formo sen
 |-|-|-|
 | *mi havos* | **me haberā** | **haberām** |
 
-#### Kondicionalo
+##### Kondicionalo
 
-En la kondicionalo (por ĉiuj tempoj) aldoniĝas la sufikso -**a** al la infinitiva formo.
-
-| | | poezie |
-|-|-|-|
-| *mi havus* | **me haberē** | **haberēm** |
-
-#### Volitivo
-
-La volitivo de verboj, kies radiko havas la ŝajnfinaĵon **-i** aŭ **-e** (akcentatan en la infinitivo), formiĝas kun la (aldona) ŝajnfinaĵo **-a**. (La akcento ne ŝanĝiĝas.)
-
-| | |
-|-|-|
-| *vi venu* | **tu venĭa** = **tu venia** |
-| *vi vidu* | **tu vidĕa** |
-
-La volitivo de verboj, kies radiko finiĝas je neakcentebla **-ĕ** povas konduti kiel verboj je **-i**. Tiam skribiĝas **ï** anstataŭ **ĕ**.
-
-| | |
-|-|-|
-| *fari* | **facïre** |
-| *diri* | **dicĕre** |
-
-Ordinaraj verboj je neakcentebla **-ĕ** perdas sian ŝajnfinaĵon **-e** en la volitivo. Do, anstataŭ je **-e**, ili finiĝas je **-a** en la volitivo.
-
-| | |
-|-|-|
-| *vi faru* | **tu facĭa** = **tu facia** |
-| *vi diru* | **tu dica** |
-| | |
-| *vi estu* | **tu essĭa** = **tu essia** |
-
-***En poezio***, la volitivaj formoj de **essïre** (respektive de **essï**) povas esti mallongigitaj al malregulaj formoj.
+En la kondicionalo aldoniĝas la sufikso -**ē** al la infinitiva formo.
 
 | | | poezie |
 |-|-|-|
-| *mi estu* | **me essĭa** | **essĭam** → **siam** → **sim** |
-| *vi estu* | **tu essĭa** | **essĭas** → **sias** → **sis** |
-| *ĝi estu* | **ulle essĭa** | **essĭat** → **siat** → **sit** |
-| | | |
-| *ni estu* | **nos essĭa** | **essiamus** → **siamus** → **simus** |
-| *vi estu* | **vos essĭa** | **essiatis** → **siatis** → **sitis** |
-| *ili estu* | **ille essĭa** | **essĭant** → **siant** → **sint** |
-
-La volitivo de verboj je **-a** finiĝas je **-e**.
-
-| | |
-|-|-|
-| *vi parolu* | **tu parle** |
-
-#### Imperativo
-
-Por la imperativo, uziĝas la infinitiva formo sen **-re**, kun la ŝajnfinaĵo **-te** por multenombro. ***En poezio***, uziĝas la volitiva formo, kun la ŝajnfinaĵo **-n** por multenombro.
-
-| | | poezie |
-|-|-|-|
-| *venu!* | **veni(te)!** | **venĭa(n)!** |
-| *vidu!* | **vide(te)!** | **vidĕa(n)!** |
-| | | |
-| *faru!* | **facï(te)!** | **facĭa(n)!** |
-| *iru!* | **vadĕ(te)!** | **vada(n)!** |
-| | | |
-| *estu!* | **essï(te)!** | **essĭa(n)!** |
-| | | |
-| *kantu!* | **canta(te)!** | **cante(n)!** |
+| *(do) mi havus* | **me haberē** | **haberēm** |
 
 #### Aspektoj
 

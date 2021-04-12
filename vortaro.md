@@ -176,16 +176,36 @@
 | | | | *drinkejo* | **taverno** |
 | | | | *dungi* | **mercena** |
 | | | | | |
+| | | | *ebena* | **ekvale** |
+| | | | *ebono* | **ebeno** |
 | **-eti-** | **-etĭ-** = **-ess-** | | *-ec-* | **-it-** |
 | **et** | **et** | | *eĉ* | **mem** |
+| | | | *edifi* | **edifika** |
+| | | | *edzo* | **sposo** |
+| | | | *efiki* | **efekta** |
+| **equala** | **eq̄ŭala** | | *egala* | |
+| | | | *eĥo* | |
 | | | **ekrano** | *ekrano* | - |
+| | | | *ekscelenco* | |
 | **explodĕre** | **ex̂plodi** = **esplodi** | | *eksplodi* | - |
 | **sperare** | **speri** | | *esperi* | |
-| **essïre** | **essi** | | *esti* *(ekzisti)* | - |
+| | | | *ekspozicio* | |
+| | | | *ekzameno* | |
+| | | | *ekzekuti* | |
+| | | | *ekzemplo* | |
+| | | | *ekzemplero* | |
+| | | | *ekzerci* | **ekserca** ?@ **ekserza** |
+| | | | *ekzilo* | **eksilo** |
+| | | | *ekzisti* | |
+| | | | *emajlo* | **emalo** |
+| **in** | **ïn** = **en** | | *en* | **in** |
+| | | | *entuziasmo* | |
+| | | | *eŝafodo* | |
+| | | | *esenco* | |
+| | | | *ezoko* | |
+| **essĭre** | **essi** | | *esti* *(ekzisti)* | - |
 | **stare** | **stadi** | | *esti* *(ĉe-)* | |
 | **statĭco** | **s̈tatĭco** = **etaĵo** | | *etaĝo* | |
-| **equala** | **eq̄ŭala** | | *egala* | |
-| **in** | **ïn** = **en** | | *en* | **in** |
 | | | | | |
 | **fino** | | **fĩna** = **faina** | *fajna* | - |
 | **foco** | **fõco** = **fuoco** | **fỹro** = **fairo** | *fajro* | **fuoko** |
