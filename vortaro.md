@@ -176,7 +176,7 @@
 | | | | *drinkejo* | **taverno** |
 | | | | *dungi* | **mercena** |
 | | | | | |
-| | | | *ebena* | **ekvale** |
+| | | **ebena** | *ebena* | **ekvale** |
 | | | | *ebono* | **ebeno** |
 | **-eti-** | **-etĭ-** = **-ess-** | | *-ec-* | **-it-** |
 | **et** | **et** | | *eĉ* | **mem** |
@@ -207,19 +207,72 @@
 | **stare** | **stadi** | | *esti* *(ĉe-)* | |
 | **statĭco** | **s̈tatĭco** = **etaĵo** | | *etaĝo* | |
 | | | | | |
+| | | | *fabelo* | **narato** |
+| | | | *fadeno* | **filuo** |
+| | | | *fajenco* | |
+| | | | *fajli* | **lama** |
 | **fino** | | **fĩna** = **faina** | *fajna* | - |
+| | | **fĩfi** = **faifi** | *fajfi* | **fifa** |
 | **foco** | **fõco** = **fuoco** | **fỹro** = **fairo** | *fajro* | **fuoko** |
+| | | | *fako* | **partimento** |
 | **cadere** | | **falli** | *fali* | **kada** |
+| | | | *falĉi* | |
+| | | | *faldi* | **plika** |
 | **familia** | **familĭo** | | *familio* | |
-| **facĕre** | **faci** | | *fari* | |
+| | | | *fandi* | **fonda** |
+| **facĭre** | **faci** | | *fari* | |
+| | | | *faruno* | **farino** |
 | **stare** | **stati** | | *farti* | **(kvale esten vue stato)** |
+| | | | *fasti* | **jeguna** |
+| | | | *fazano* | |
+| | | | *feĉo* | |
+| | | | *felo* | **kuto** |
+| | | | *feliĉa* | |
+| | | | *femuro* | **femoro** |
+| | | | *fenkolo* | **feniklo** |
+| | | | *ferdeko* | **dego** |
 | **cludĕre** | **cludi** | | *fermi* | |
+| | | | *festeno* | **festino** |
+| | | | *fianĉo* | **fianzo** |
+| | | | *figuri* | **figuriga** |
+| | | | *fingro* | **digito** |
 | **pisce** | **pisco** | **fisho** | *fiŝo* | **pisko** |
+| | | | *flari* | **olfakta** |
+| | | | *fliki* | **repeza** |
+| | | | *flirti* | **voleta** |
+| | | | *flugi* | **vola** |
+| | | | *fojo* | **volto** |
 | **feno** | **fẽno** = **fieno** | | *fojno* | **fieno** |
 | **folia** | **folĭo** | | *folio* | |
+| | | | *fondi* | **funda** |
+| | | | *for* | **ab** |
+| | | | *forĝi* | |
 | | | **fergŭessi** | *forgesi* | **obliva** |
+| | | | *fortika* | **solide** |
+| | | | *frajo* | **frego** |
+| | | | *frakseno* | **fraksino** |
+| | | | *framasono* | **franmasono** |
+| | | | *frandi* @ | **frinuda** @ |
+| | | | *franĝo* | |
+| | | | *frangolo* | **franglo** |
 | | | **frũlo** = **fraulo** | *fraŭlo* | **fralo** |
+| | | | *fremda* | **aliena** |
+| | | | *freneza* | |
+| | | | *freŝa* | **freske** |
+| | | | *frizi* | |
 | **formatĭco** | **fromatĭco** = **fromaĵo** | | *fromaĝo* | |
+| | | | *frosto* | **gelo** |
+| | | | *froti* | **frigi** |
+| | | | *frua* | **prekoce** |
+| | | | *frunto* | **fronto** |
+| | | | *ftizo* | |
+| | | | *fulgo* | **fuligo** |
+| | | | *fulmo* | **fulmino** |
+| | | | *furaĝo* | |
+| | | | *furioza* | |
+| | | | *furunko* | **funuklo** |
+| | | | *fuŝi* | |
+| | | | *futo* | **pedo** |
 | | | | | |
 | **garantīa** | **garantīo** | | *garantio* | |
 | **gaudia** | **ĝoyo** | | *ĝojo* | **jovo** |
