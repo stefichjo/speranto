@@ -115,7 +115,7 @@ En sia *multenombra* formo, substantivoj ricevas la finaĵon **-s**.
 | *amiko(j)* | **amico** | **amicos** |
 | *amikino(j)* | **amica** | **amicas** |
 
-En la *vokativa* formo, substantivo ricevas la finaĵon **-i** anstataŭ **-s**. ***En poezio***, mallongiĝas **-ai**, **-ei** kaj **-oi** al **-e**, **-i** kaj **-i**.
+En la *vokativa* formo, substantivo ricevas la finaĵon **-ĭ** anstataŭ **-s**. ***En poezio***, mallongiĝas **-aĭ**, **-eĭ** kaj **-oĭ** al **-e**, **-i** kaj **-i**.
 
 | | | poezie |
 |-|-|-|
@@ -172,9 +172,9 @@ Adjektivo antaŭ substantivo havas subjektivan konotacion, dum adjektivo post la
 
 Adjektivoj estas adverbigeblaj pere de la ŝajnfinaĵo **-mente**.
 
-| | |
-|-|-|
-| *facile* | **facilemente** |
+| | | poezie |
+|-|-|-|
+| *facile* | **facilemente** | **facilmente** |
 
 Uzeblas la ŝajnfinaĵo **-o** anstataŭ **-amente**.
 
@@ -265,28 +265,26 @@ La korelativo **la** kaj la numeralo **un** uziĝas kiel artikoloj. ***En poezio
 
 ### Pronomoj
 
-| | |
-|-|-|
-| *li*, *ŝi*, *ri*, *ĝi*, *ili* | **olle**, **alle**, **elle**, **ulle**, **ille** |
-| *lia*, *ŝia*, *ria*, *ĝia*, *ilia* | **olla**, **alla**, **ella**, **ulla**, **illa** |
-| *lin*, *ŝin*, *rin*, *ĝin*, *ilin* | **olli**, **alli**, **elli**, **ulli**, **illi** |
-| | |
-| *oni* | **une** |
-| *onia* | **una** |
-| *onin* | **uni** |
+| | | | | | | | | | | | | | |
+|-|-|-|-|-|-|-|-|-|-|-|-|-|-|
+| *li* | **olle** | | *ŝi* | **alle** | | *ri* | **elle** | | *ĝi* | **ulle** | | *ili* | **ille** |
+| *lia* | **olla** | | *ŝia* | **alla** | | *ria* | **ella** | | *ĝia* | **ulla** | | *ilia* | **illa** |
+| *lin* | **olli** | | *ŝin* | **alli** | | *rin* | **elli** | | *ĝin* | **ulli** | | *ilin* | **illi** |
 
-| | |
-|-|-|
-| *mi*, *vi* | **me**, **tu** |
-| *mia*, *via* | **mea**, **tūa** |
-| *min*, *vin* | **mi**, **ti** |
-| | |
-| *ni(n)*, *vi(n)* | **nos**, **vos** |
-| *nia*, *via* | **nossa**, **vossa** |
-| | |
-| *si* | **su** |
-| *sia* | **sūa** |
-| *sin* | **si** |
+| | | | | |
+|-|-|-|-|-|
+| *oni* | **une** | | *si* | **su** |
+| *onia* | **una** | | *sia* | **sūa** |
+| *onin* | **uni** | | *sin* | **si** |
+
+| | | | | |
+|-|-|-|-|-|
+| *mi* | **me** | | *vi* | **tu** |
+| *mia* | **mea** | | *via* | **tūa** |
+| *min* | **mi** | | *vin* | **ti** |
+| | | | | |
+| *ni(n)* | **nos** | | *vi(n)* | **vos** |
+| *nia* | **nossa** | | *via* | **vossa** |
 
 ### Verboj
 

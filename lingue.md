@@ -226,24 +226,23 @@ Ne estas ne-difina artikolo.
 
 ### Pronomoj
 
-| | |
-|-|-|
-| *li(n)*, *ŝi(n)*, *ri(n)*, *ĝi(n)*, *ili(n)* | **olli**, **alli**, **elli**, **ulli**, **illi** |
-| *lia*, *ŝia*, *ria*, *ĝia*, *ilia* | **ollia**, **allia**, **ellia**, **ullia**, **illia** |
-| | |
-| *oni(n)* | **uni** |
-| *onia* | **unia** |
+| | | | | | | | | | | | | | |
+|-|-|-|-|-|-|-|-|-|-|-|-|-|-|
+| *li(n)* | **olli** | | *ŝi(n)* | **alli** | | *ri(n)* | **elli** | | *ĝi(n)* | **ulli** | | *ili(n)* | **illi** |
+| *lia* | **ollia** | | *ŝia* | **allia** | | *ria* | **ellia** | | *ĝia* | **ullia** | | *ilia* | **illia** |
 
-| | |
-|-|-|
-| *mi(n)*, *vi(n)* | **mi**, **tī** *[ŧi]* |
-| *mia*, *via* | **mia**, **tīa** *[ŧia]* |
-| | |
-| *ni(n)*, *vi(n)* | **ni**, **vi** |
-| *nia*, *via* | **nia**, **via** |
-| | |
-| *si(n)* | **si** |
-| *sia* | **sia** |
+| | | | | |
+|-|-|-|-|-|
+| *oni(n)* | **uni** | | *si(n)* | **si** |
+| *onia* | **unia** | | *sia* | **sia** |
+
+| | | | | |
+|-|-|-|-|-|
+| *mi(n)* | **mi** | | *vi(n)* | **tī** *[ŧi]* |
+| *mia* | **mia** | | *via* | **tīa** *[ŧia]* |
+| | | | | |
+| *ni(n)* | **ni** | | *vi(n)* | **vi** |
+| *nia* | **nia** | | *via* | **via** |
 
 ### Verboj
 
