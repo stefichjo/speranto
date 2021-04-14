@@ -10,7 +10,7 @@
 | **adulterare** | | | *adulti* | **adultera** |
 | **aere** | **êro** = **airo** | | *aero* | |
 | **aerare** | **êrumi** = **airumu**| | *aerumi* | **aera** |
-| **etatĭco** | **eṯatĭco** = **edaĵo** | | *aĝo* | **etado** |
+| **etatĭco** | **et̯atĭco** = **edaĵo** | | *aĝo* | **etado** |
 | **accordare** | | | *agordi* | **akorda** |
 | **-atĭc-** | **-atĭc-** = **-aĵ-** | | *-aĵ-* | **-e-** |
 | **alio** | **alĭo** | | *ajlo* | |
@@ -329,7 +329,7 @@
 | **pagensatĭco** | **pağėn̆satĭco** = **paisaĵo** | | *pejzaĝo* | **paesago** |
 | **pesare** | **pesumi** | | *pesi* | |
 | **pede** | **pẽdo** = **piedo** | | *piedo* | **pedo** |
-| **porta** | **porṯo** = **pordo** | | *pordo* | |
+| **porta** | **port̯o** = **pordo** | | *pordo* | |
 | **potere** | **possi** | | *povi* | |
 | | | **prava** | *prava* | **razione** |
 | **principalemente** | **prïnçipe** = **prençipe** | | *precipe* | |
