@@ -1,15 +1,104 @@
 # Português
 
-pons.de:
-quando [Port ˈkwɐ̃du, Brasˈkwɜ̃ŋdu]
 
-## Voc̆ales
+## Voc̆ałes
+
+### Voc̆ałes cađidas
+
+| | | |
+|-|-|-|
+| *calor* | **calorĕ** | [kaˈlor] |
+
+### Voc̆ałes fechadas
+
+| | | |
+|-|-|-|
+| *nome* | **nomė** = **nome** | |
+| | | |
+| *porto* | **portǒ** = **porto** | |
+
+### Voc̆ałes nasałes
+
+| | | |
+|-|-|-|
+| *tanto* | **tąnto** = **tanto** | [ˈtɜ̃ŋtu] |
+| *bem* | **bęn̆ĕ** = **benĕ** | |
+
+| | | |
+|-|-|-|
+| *rã* | **rąn̆a** = **rana** | |
+
+| | | |
+|-|-|-|
+| *pão* | **pãnĕ** |
+
+| | | |
+|-|-|-|
+| *união* | **uniõnĕ** | |
+| *uniões* | **union̆es** | |
+
+## Conson̆antes
+
+### c, g
+
+| | | |
+|-|-|-|
+| *cela* | **cella** | |
+| | | |
+| *gesto* | **gesto** | |
+
+### t, d
+
+| | | |
+|-|-|-|
+| *tio* | **tio** | |
+| | | |
+| *de* | **dė** = **de** | |
+
+| | | |
+|-|-|-|
+| *pé* | **peđĕ** | |
+| | | |
+| *roda* | **roṯa** | |
+
+| | | |
+|-|-|-|
+| *coração* | **coratıõnĕ** | [koraˈsɜ̃w] |
+| *corações* | **coratıon̆es** |[koraˈsõjs] |
+
+### Conson̆antes duplas
+
+#### mm, nn
+
+| | | |
+|-|-|-|
+| *soma* | **sůmma** | |
+
+#### rr, ss
+
+| | | |
+|-|-|-|
+| *terra* | **terra** | |
+| *rara* | **rara** | |
+| | | |
+| *casa* | **casa** | [ˈkaza] |
+| *rosa* | **rosa** | |
+
+---
+
+* **gÿpso** [gesso]
+* **ruğa** [rua]
+* **camĕra** [cama]
+
+---
+
+
+## Voc̆ałes [vogais]
 
 ### a
 
 #### a → ao
 
-* **pãnĕ** [pão]
 
 * **canes** [cães]
 * **cãnĕ** [cão]
