@@ -228,9 +228,13 @@
 
 | | | |
 |-|-|-|
+| *advogado* | **advoc̆at̯o** | |
+| *lido* | **lėct̯o** | |
 | *mudar* | **mut̯arĕ** | |
 | *roda* | **rot̯a** | |
 | *toda* | **tot̯a** | |
+| *universidade* | **universit̯at̯e** = **universit̯ade** | |
+
 | | | |
 | *juiz* | **juđicĕ** | |
 | *pé* | **peđĕ** | |
@@ -423,10 +427,6 @@
 * *têm* **tenĕnt**
 
 * *estação* **s̈tatıõnĕ**
-
-* *advogado* **advoc̆at̯o**
-* *universidade* **universit̯at̯e** = **universit̯ade**
-* *lido* **lėct̯o**
 
 * *vinho* **viño**
 
