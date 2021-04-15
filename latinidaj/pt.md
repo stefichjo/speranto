@@ -273,6 +273,8 @@
 | | | |
 | *banho* | **banĭo** | |
 | *manhã* | **manĭană** | |
+| | | |
+| *vinho* | **viño** | |
 
 | | | |
 |-|-|-|
@@ -395,9 +397,6 @@
 
 * **hyæna** [hiena]
 
-* oa pessoa
-* ana humana
-
 * *começo* **commen̆tıo**
   * *mensal* **mensalĕ**
 
@@ -428,13 +427,10 @@
 
 * *estação* **s̈tatıõnĕ**
 
-* *vinho* **viño**
-
 * *pessoa* **peřson̆a**
 
 * *irmã* **ğėrmană**
 * *irmão* **ğėrmano**
 * *raina* **rȇğina**
-* *eu* **eğo**
 * *gesso* **gÿpso**
 * *cama* **camĕra**
