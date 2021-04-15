@@ -1,15 +1,15 @@
 # Português
 
-## Voc̆ałes
+## Voc̆ales
 
-### Voc̆ałes cađidas
+### Voc̆ales cađidas
 
 | | | |
 |-|-|-|
 | *calor* | **calorĕ** | [kaˈlor] |
 | *mar* | **marĕ** | |
 
-### Voc̆ałes fechadas
+### Voc̆ales mut̯at̯as
 
 | | | |
 |-|-|-|
@@ -25,39 +25,26 @@
 | *touro* | **tåuro** | |
 | *ouro* | **åuro** | |
 
-### Voc̆ałes nasałes
+| | | |
+|-|-|-|
+| *pelo* | **pïlo** | |
+| | | |
+| *ele* | **ïlle** | |
+| *ela* | **ïlla** | |
+| *este* | **ïste** | |
+
+### Voc̆ales nasales
 
 | | | |
 |-|-|-|
+| *tanto* | **tanto** | [ˈtɜ̃ŋtu] |
+| | | |
+| *bem* | **benĕ** | |
 | *com* | **con** | |
+| *em* | **ïn** | |
 | *fim* | **finĕ** | |
-| *não* | **nõn** | |
-
+| *sem* | **sïnĕ** | |
 | | | |
-|-|-|-|
-| *tanto* | **tąnto** = **tanto** | [ˈtɜ̃ŋtu] |
-| *bem* | **bęnĕ** = **benĕ** | |
-
-| | | |
-|-|-|-|
-| *semana* | **seman̄a** | |
-
-| | | |
-|-|-|-|
-| *lua* | **lun̆a** | |
-| *mesa* | **men̆sa** | |
-| *soar* | **son̆arĕ** | |
-
-| | | |
-|-|-|-|
-| *lã* | **lană** | |
-| *rã* | **rană** | |
-| | | |
-| *sã* | **sană** | |
-| *são* | **sano** | |
-
-| | | |
-|-|-|-|
 | *mão* | **mano** | |
 | *mãos* | **manos** | |
 | | | |
@@ -66,22 +53,25 @@
 
 | | | |
 |-|-|-|
-| *pão* | **pane̊** = **pãnĕ** @ | |
+| *capitã* | **capitană** |
+| *capitãs* | **capitanăs** |
+| | | |
+| *lã* | **lană** | |
+| *rã* | **rană** | |
+| | | |
+| *sã* | **sană** | |
+| *são* | **sano** | |
+
+| | | |
+|-|-|-|
+| *capitão* | **capitano** | |
+| *capitães* | **capitanös** | |
+| | | |
+| *pão* | **pane̊** | |
 | *pães* | **panes** | |
 | | | |
 | *vulcão* | **vulcano** | |
 | *vulcões* | **vulcånös** | |
-| | | |
-| *capitão* | **capitano** | |
-| *capitãs* | **capitanŏs** | |
-| | | |
-| *limão* | **limõnĕ** | |
-| *limões* | **limones** | |
-
-| | | |
-|-|-|-|
-| *união* | **uniõnĕ** | |
-| *uniões* | **uniones** | |
 
 | | | |
 |-|-|-|
@@ -91,9 +81,79 @@
 | | | |
 |-|-|-|
 | *um* | **un** | |
-| *uma* | **uña** = **uma** | |
+| *uma* | @ **uña** = **uma** | |
+
+| | | |
+|-|-|-|
+| *pena* | **pen̄a** | |
+| *semana* | **seman̄a** | |
+
+| | | |
+|-|-|-|
+| *lua* | **lun̆a** | |
+| *mesa* | **men̆sa** | |
+| *soar* | **son̆arĕ** | |
+
+### Diphthongos
+
+| | | |
+|-|-|-|
+| *tesouro* | **tesõro** | |
+| *doutor* | **dõctorĕ** | |
+| *outubro* | **õctǒbro** | |
+
+| | | |
+|-|-|-|
+| *dois* | **dõs** | |
+
+| | | |
+|-|-|-|
+| *não* | **nõn** | |
+| | | |
+| *união* | **uniõnĕ** | |
+| *uniões* | **uniones** | |
+| | | |
+| *limão* | **limõnĕ** | |
+| *limões* | **limones** | |
 
 ## Conson̆antes
+
+### ct, pt
+
+| | | |
+|-|-|-|
+| *ato* | **acto** | |
+| *fruto* | **fructo** | |
+| *junta* | **juncta** | |
+| *noturno* | **nocturno** | |
+| *ponto* | **půncto** | |
+| *tato* | **tacto** | |
+| *teto* | **tecto** | |
+| *trato* | **tracto** | |
+| | | |
+| *exata* | **exacta** | |
+| *vitima* | **victima** | |
+
+| | | |
+|-|-|-|
+| *leitora* | **leċtora** | |
+| *noite* | **noċte** | |
+| *oito* | **oċto** | |
+| *perfeita* | **perfeċta** | |
+| *seita* | **seċta** | |
+
+| | | |
+|-|-|-|
+| *facto* | **fac̄to** | |
+| *pacto* | **pac̄to** | |
+
+| | | |
+|-|-|-|
+| *ótima* | **optima** |
+
+### qu
+
+@
 
 ### c, g
 
@@ -106,6 +166,7 @@
 | | | |
 |-|-|-|
 | *paz* | **pacĕ** | |
+| *arquitetura* | **architectura** | |
 
 | | | |
 |-|-|-|
@@ -115,13 +176,6 @@
 | | | |
 | *mais* | **mağis** | |
 | *rua* | **ruğa** | |
-
-| | | |
-|-|-|-|
-| *leite* | **läċte** | |
-| *leitora* | **leċtora** | |
-| *perfeita* | **perfeċta** | |
-| *seita* | **seċta** | |
 
 ### t, d
 
@@ -151,7 +205,14 @@
 | *coração* | **coratıõnĕ** | [koraˈsɜ̃w] |
 | *corações* | **coratıones** |[koraˈsõjs] |
 
-#### l, n, r
+### p, b
+
+| | | |
+|-|-|-|
+| *aberta* | **ap̆erta** | |
+| *abrir* | **ap̆rirĕ** | |
+
+### l, n, r
 
 | | | |
 |-|-|-|
@@ -188,7 +249,7 @@
 
 | | | |
 |-|-|-|
-| *cheio* | **płẽn̆o** | |
+| *cheio* | **pḷẽn̆o** | |
 | *chumbo* | **pḷumbo** | |
 | *chover* | **pḷůverĕ** | |
 | | | |
@@ -217,19 +278,9 @@
 | | | |
 | *doce* | **důłce** = **důlce** | |
 
-#### ct
+### x
 
-| | | |
-|-|-|-|
-| *ato* | **acto** | |
-| *exato* | **exacto** | |
-| *fruto* | **fructo** | |
-| *junto* | **juncto** | |
-| *noturno* | **nocturno** | |
-| *tato* | **tacto** | |
-| *teto* | **tecto** | |
-| *trato* | **tracto** | |
-| *vitima* | **victima** | |
+* *seis* **sĩx** @
 
 ### Conson̆antes duplas
 
@@ -259,6 +310,7 @@
 | | | |
 | *casa* | **casa** | [ˈkaza] |
 | *rosa* | **rosa** | |
+| *massa* | **massa** | |
 
 | | | |
 |-|-|-|
@@ -266,7 +318,7 @@
 
 ---
 
-## Voc̆ałes [vogais]
+## Voc̆ales [vogais]
 
 * **museo** [museu]
 * **meo** [meu]
@@ -282,10 +334,6 @@
 * oa pessoa
 * ana humana
 
-* **ïn** [em]
-* **sïnĕ** [sem]
-
-* **pœn̄a** [pena]
 * **mïn̄ůs** [menos]
 * **scen̄a** [cena]
 * **sïn̄o** [seno]
@@ -308,11 +356,7 @@
 * paz [pas]
 * gás [gas]
 
-* *mais* **mãs**
-
 * *ei* **ä**
-
-* *seis* **sĩx**
 
 * *criar* **crearĕ**
 
@@ -329,36 +373,13 @@
 
 * *beijo* **bäsĭo**
 
-* *pelo* **pïlo**
-* *ele* **ïlle**
-* *ela* **ïlla**
-* *este* **ïste**
-
 * *pulso* **pulso**
 * *mundo* **mundo**
 
 * *meu* **meo**
 
-* *outubro* **ôctǒbro** **oc̥tǒbro**
-
-* *tesouro* **tesôro**
-
-* *doutor* **dôctorĕ**
-
-* *dois* **dõs**
-
-* *oito* **õcto**
-* *noite* **nõcte**
-
 * *gosto* **gůsto**
 * *torre* **tůrre**
-
-* *arquitetura* **architectura**
-* *ponto* **půncto**
-
-* *facto* **fac̄to**
-* *pacto* **pac̄to**
-* *lactose* **lac̄tose**
 
 * *vou* **våđo**
 * *vai* **vađet**
@@ -373,8 +394,6 @@
 
 * *tem* **tenĕt**
 * *têm* **tenĕnt**
-
-* *aberto* **ap̆erto**
 
 * *dobro* **důp̆l̯o**
 * *Abril* **Ap̆rilĕ**
