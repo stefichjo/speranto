@@ -21,9 +21,10 @@
 |-|-|-|
 | *fome* | **fåme** | |
 | | | |
+| *ou* | **åut** | |
+| *ouro* | **åuro** | |
 | *pouca* | **påuco** | |
 | *touro* | **tåuro** | |
-| *ouro* | **åuro** | |
 
 | | | |
 |-|-|-|
@@ -75,26 +76,37 @@
 
 | | | |
 |-|-|-|
-| *bom* | **bonŏ** | |
-| *boa* | **bon̆a** | |
-
-| | | |
-|-|-|-|
 | *um* | **un** | |
 | *uma* | @ **uña** = **uma** | |
 
 | | | |
 |-|-|-|
+| *menos* | **mïn̄ůs** | |
 | *pena* | **pen̄a** | |
 | *semana* | **seman̄a** | |
+| *seno* | **sïn̄o** | |
 
 | | | |
 |-|-|-|
 | *lua* | **lun̆a** | |
+| *mês* | **men̆sĕ** | |
 | *mesa* | **men̆sa** | |
 | *soar* | **son̆arĕ** | |
+| | | |
+| *bom* | **bonŏ** | |
+| *boa* | **bon̆a** | |
+
 
 ### Diphthongos
+
+| | | |
+|-|-|-|
+| *ceia* | **cẽn̆a** | |
+| *veia* | **vẽn̆a** | |
+
+| | | |
+|-|-|-|
+| *seio* | **sĩn̆o** | |
 
 | | | |
 |-|-|-|
@@ -149,11 +161,18 @@
 
 | | | |
 |-|-|-|
-| *ótima* | **optima** |
+| *ótima* | **optima** | |
 
 ### qu
 
+| | | |
+|-|-|-|
+| *água* | **aq̆ua** | |
+| *seguir* | **seq̆ŭirĕ** | |
+
 @
+* *que* **que** = **qŭe**
+| *arquitetura* | **architectura** | |
 
 ### c, g
 
@@ -166,7 +185,6 @@
 | | | |
 |-|-|-|
 | *paz* | **pacĕ** | |
-| *arquitetura* | **architectura** | |
 
 | | | |
 |-|-|-|
@@ -209,8 +227,9 @@
 
 | | | |
 |-|-|-|
-| *aberta* | **ap̆erta** | |
+| *Abril* | **Ap̆rilĕ** | |
 | *abrir* | **ap̆rirĕ** | |
+| *pobre* | **påŭp̆ĕre** | |
 
 ### l, n, r
 
@@ -260,10 +279,11 @@
 | | | |
 |-|-|-|
 | *branco* | **bl̯anco** | |
+| *dobro* | **důp̆l̯o** | |
+| *lugar* | **lǒc̆al̯** | |
 | *prato* | **pl̯ato** | |
 | | | |
 | *bolsa* | **bor̆sa** | |
-| *lugar* | **lǒc̆al̯** | |
 
 | | | |
 |-|-|-|
@@ -278,9 +298,24 @@
 | | | |
 | *doce* | **důłce** = **důlce** | |
 
+### sc
+
+| | | |
+|-|-|-|
+| *cena* | **scen̄a** | |
+| | | |
+| *peixe* | **pĩsce** | |
+
+| | | |
+|-|-|-|
+| *crescer* | **cresc̄erĕ** | |
+
 ### x
 
-* *seis* **sĩx** @
+| | | |
+|-|-|-|
+| *luxo* | **luxo** | |
+| *seis* | **sĩx** | |
 
 ### Conson̆antes duplas
 
@@ -334,18 +369,8 @@
 * oa pessoa
 * ana humana
 
-* **mïn̄ůs** [menos]
-* **scen̄a** [cena]
-* **sïn̄o** [seno]
-
-* **vẽn̆a** [veia]
-* **cẽn̆a** [ceia]
-
-* *ou* **åut**
-* *mês* **men̆sĕ**
 * *começo* **commen̆tıo**
   * *mensal* **mensalĕ**
-* *seio* **sĩn̆o**
 
 * *prisão* **pren̆sıõnĕ**
 * *milhões* **millĭon̆es**
@@ -395,15 +420,6 @@
 * *tem* **tenĕt**
 * *têm* **tenĕnt**
 
-* *dobro* **důp̆l̯o**
-* *Abril* **Ap̆rilĕ**
-* *pobre* **påŭp̆ĕre**
-
-* *que* **que** = **qŭe**
-* *água* **aq̆ua**
-* *seguir* **seq̆uirĕ** = **seq̆ŭirĕ**
-
-* *peixe* **pĩsce**
 * *estação* **s̈tatıõnĕ**
 
 * *advogado* **advoc̆at̯o**
