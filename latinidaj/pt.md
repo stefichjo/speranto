@@ -30,6 +30,7 @@
 | | | |
 |-|-|-|
 | *com* | **con** | |
+| *fim* | **finĕ** | |
 | *não* | **nõn** | |
 
 | | | |
@@ -43,42 +44,54 @@
 
 | | | |
 |-|-|-|
-| *lua* | **lūn̆a** = **lun̆a** | |
-| *soar* | **sōn̆arĕ** = **son̆arĕ** | |
+| *lua* | **lun̆a** | |
+| *mesa* | **men̆sa** | |
+| *soar* | **son̆arĕ** | |
 
 | | | |
 |-|-|-|
-| *lã* | **ląn̆a** = **lana** | |
-| *rã* | **rąn̆a** = **rana** | |
-| *sã* | **sąn̆a** = **sana** | |
+| *lã* | **lană** | |
+| *rã* | **rană** | |
+| | | |
+| *sã* | **sană** | |
+| *são* | **sano** | |
 
 | | | |
 |-|-|-|
-| *pão* | **pãnĕ** | |
-| *pães* | **pąn̆es** = **panes** @ | |
-| | | |
-| *mão* | **mãnŏ** | |
-| *mãos* | **mãnŏs** | |
+| *mão* | **mano** | |
+| *mãos* | **manos** | |
 | | | |
 | *som* | **sonŏ** | |
 | *sons* | **sonŏs** | |
 
 | | | |
 |-|-|-|
+| *pão* | **pane̊** = **pãnĕ** @ | |
+| *pães* | **panes** | |
+| | | |
+| *vulcão* | **vulcano** | |
+| *vulcões* | **vulcånös** | |
+| | | |
+| *capitão* | **capitano** | |
+| *capitãs* | **capitanŏs** | |
+| | | |
+| *limão* | **limõnĕ** | |
+| *limões* | **limones** | |
+
+| | | |
+|-|-|-|
 | *união* | **uniõnĕ** | |
-| *uniões* | **union̆es** = **uniones** @ | |
+| *uniões* | **uniones** | |
 
 | | | |
 |-|-|-|
 | *bom* | **bonŏ** | |
 | *boa* | **bon̆a** | |
 
-* **vulcano** [vulcão] @
-* **vulcanos** [vulcões] @
-* **limõnĕ** [limão]
-* **limones** [limões]
-* **un** [um]
-* **uña** [uma]
+| | | |
+|-|-|-|
+| *um* | **un** | |
+| *uma* | **uña** = **uma** | |
 
 ## Conson̆antes
 
@@ -102,6 +115,13 @@
 | | | |
 | *mais* | **mağis** | |
 | *rua* | **ruğa** | |
+
+| | | |
+|-|-|-|
+| *leite* | **läċte** | |
+| *leitora* | **leċtora** | |
+| *perfeita* | **perfeċta** | |
+| *seita* | **seċta** | |
 
 ### t, d
 
@@ -129,7 +149,7 @@
 | *espaço* | **s̈patıo** | |
 | | | |
 | *coração* | **coratıõnĕ** | [koraˈsɜ̃w] |
-| *corações* | **coratıon̆es** |[koraˈsõjs] |
+| *corações* | **coratıones** |[koraˈsõjs] |
 
 #### l, n, r
 
@@ -145,11 +165,15 @@
 | *mulher* | **mulĭerĕ** | |
 | | | |
 | *banho* | **banĭo** | |
+| *manhã* | **manĭană** | |
 
 | | | |
 |-|-|-|
+| *final* | **finałĕ** = **finalĕ** | |
+| *finais* | **finałės** = **finales** | |
+| | | |
 | *tal* | **tałĕ** = **talĕ** | |
-| *tais* | **tałes** = **tales** | |
+| *tais* | **tałės** = **tales** | |
 
 | | | |
 |-|-|-|
@@ -158,32 +182,73 @@
 | | | |
 | *pelo* | **per̆-ło** | |
 
-* *cheio* []: **płẽn̆o**
-* *chover* []: **płůverĕ**
-* **cłave** [chave]
-* **fłamma** [chama]
-* **pluma** [=]
-* **płumbo** [chumbo]
-* **alto** [=]
-* **åltro** [outro]
-* **finalĕ** [final]
-* **finalĕs** [finais]
-* *lugar* [] **lǒc̆al̯**
-* *branco* []: **bl̯anco**
-* *prato* []: **pl̯ato**
-* *céu* []: **ceło**
-* *doce* []: **dołce**
-* *voo* []: **voło**
-* *bolsa* []: **bor̆sa**
-* *muito* []: **muḷto**
+| | | |
+|-|-|-|
+| *muito* | **muḷto** | |
+
+| | | |
+|-|-|-|
+| *cheio* | **płẽn̆o** | |
+| *chumbo* | **pḷumbo** | |
+| *chover* | **pḷůverĕ** | |
+| | | |
+| *chama* | **fḷamma** | |
+| | | |
+| *chave* | **cḷave** | |
+
+| | | |
+|-|-|-|
+| *branco* | **bl̯anco** | |
+| *prato* | **pl̯ato** | |
+| | | |
+| *bolsa* | **bor̆sa** | |
+| *lugar* | **lǒc̆al̯** | |
+
+| | | |
+|-|-|-|
+| *alta* | **ałta** = **alta** | |
+| *outro* | **åłtro** = **åltro** | |
+| | | |
+| *céu* | **cełŏ** = **celŏ** | |
+| | | |
+| *fácil* | **facilĕ** | |
+| | | |
+| *voar* | **vołarĕ** = **volarĕ** | |
+| | | |
+| *doce* | **důłce** = **důlce** | |
+
+#### ct
+
+| | | |
+|-|-|-|
+| *ato* | **acto** | |
+| *exato* | **exacto** | |
+| *fruto* | **fructo** | |
+| *junto* | **juncto** | |
+| *noturno* | **nocturno** | |
+| *tato* | **tacto** | |
+| *teto* | **tecto** | |
+| *trato* | **tracto** | |
+| *vitima* | **victima** | |
 
 ### Conson̆antes duplas
+
+#### ll
+
+| | | |
+|-|-|-|
+| *bela* | **bella** | |
+| *colo* | **collo** | |
 
 #### mm, nn
 
 | | | |
 |-|-|-|
+| *ano* | **anno** | |
 | *soma* | **sůmma** | |
+| | | |
+| *dom* | **domĭnŏ** | |
+| *dona* | **domĭna** | |
 
 #### rr, ss
 
@@ -199,15 +264,9 @@
 |-|-|-|
 | *camisa* | **camisıa** @ **camisĭa** | |
 
+---
+
 ## Voc̆ałes [vogais]
-
-* **salĕ** [sal]
-* **solĕ** [sol]
-
-* **sano** [são]
-* **capitano** [capitão]
-
-* **domĭnŏ** [dom]
 
 * **museo** [museu]
 * **meo** [meu]
@@ -225,152 +284,124 @@
 
 * **ïn** [em]
 * **sïnĕ** [sem]
-* **finĕ** [fim]
 
-* **pœna** [pena]
-* **mïnůs** [menos]
-* **scena** [cena]
-* **sïno** [seno]
+* **pœn̄a** [pena]
+* **mïn̄ůs** [menos]
+* **scen̄a** [cena]
+* **sïn̄o** [seno]
 
-* **ceṅa** [ceia]
-* **veṅa** [veia]
+* **vẽn̆a** [veia]
+* **cẽn̆a** [ceia]
 
-* **men̆sa** [mesa]
+* *ou* **åut**
+* *mês* **men̆sĕ**
+* *começo* **commen̆tıo**
+  * *mensal* **mensalĕ**
+* *seio* **sĩn̆o**
 
-* **åut** [ou]
-
-* *começo* []: **commen̆tıo**
-* *mês* []: **men̆sĕ**
-  * *mensal* []: **mensalĕ**
-* *seio* []: **sĩn̆o**
-
-* *prisão* []: **pren̆sıõnĕ**
-* *milhões* []: **millĭon̆es**
+* *prisão* **pren̆sıõnĕ**
+* *milhões* **millĭon̆es**
 
 * país [pais]
-
 
 * faz [fas] → faiz [faş = fajŝ]
 * paz [pas]
 * gás [gas]
 
-* *mais* []: **mãs**
+* *mais* **mãs**
 
-* *ei* []: **ä**
+* *ei* **ä**
 
-* *criar* []: **crearĕ**
+* *seis* **sĩx**
 
-* *flor* []: **florĕ**
-* *luz* []: **lucĕ**
+* *criar* **crearĕ**
 
-* *vez* []: **vïcĕ**
+* *flor* **florĕ**
+* *luz* **lucĕ**
 
-* *perfeito* []: **perfẽcto**
-* *seita* []: **sẽcta**
-* *leitora* []: **lẽctora**
-* *leito* []: **lẽcto**
-* *leite* []: **läcte**
+* *vez* **vïcĕ**
 
+* *por* **pe̊r**
 
-* *por* []: **pe̊r**
+* *cidade* **civĭt̯at̯e** = **civĭt̯ade**
 
-* *seis* []: **sĩx**
+* *hoje* **hodĭe**
 
-* *dona* []: **domĭna**
+* *beijo* **bäsĭo**
 
-* *cidade* []: **civĭt̯at̯e** = **civĭt̯ade**
+* *pelo* **pïlo**
+* *ele* **ïlle**
+* *ela* **ïlla**
+* *este* **ïste**
 
-* *hoje* []: **hodĭe**
+* *pulso* **pulso**
+* *mundo* **mundo**
 
-* *beijo* []: **bäsĭo**
+* *meu* **meo**
 
-* *pelo* []: **pïlo**
-* *ele* []: **ïlle**
-* *ela* []: **ïlla**
-* *este* []: **ïste**
+* *outubro* **ôctǒbro** **oc̥tǒbro**
 
-* *pulso* []: **pulso**
-* *mundo* []: **mundo**
+* *tesouro* **tesôro**
 
-* *meu* []: **meo**
+* *doutor* **dôctorĕ**
 
-* *outubro* []: **ôctǒbro**
+* *dois* **dõs**
 
-* *tesouro* []: **tesôro**
+* *oito* **õcto**
+* *noite* **nõcte**
 
-* *doutor* []: **dôctorĕ**
+* *gosto* **gůsto**
+* *torre* **tůrre**
 
-* *dois* []: **dõs**
+* *arquitetura* **architectura**
+* *ponto* **půncto**
 
-* *oito* []: **õcto**
-* *noite* []: **nõcte**
+* *facto* **fac̄to**
+* *pacto* **pac̄to**
+* *lactose* **lac̄tose**
 
-* *gosto* []: **gůsto**
-* *torre* []: **tůrre**
+* *vou* **våđo**
+* *vai* **vađet**
+* *caem* **cađent**
 
-* *vitima* []: **victima**
-* *exato* []: **exacto**
-* *tato* []: **tacto**
-* *ato* []: **acto**
-* *trato* []: **tracto**
-* *fruto* []: **fructo**
-* *teto* []: **tecto**
-* *noturno* []: **nocturno**
-* *junto* []: **juncto**
+* *vela* **vela**
 
-* *arquitetura* []: **architectura**
-* *ponto* []: **půncto**
+* *ano* **anno**
 
-* *facto* []: **fac̄to**
-* *pacto* []: **pac̄to**
-* *lactose* []: **lac̄tose**
+* *precisam* **precisant**
+* *cem* **cent**
 
-* *vou* []: **våđo**
-* *vai* []: **vađet**
-* *caem* []: **cađent**
+* *tem* **tenĕt**
+* *têm* **tenĕnt**
 
-* *colo* []: **collo**
-* *vela* []: **vela**
+* *aberto* **ap̆erto**
 
-* *ano* []: **anno**
+* *dobro* **důp̆l̯o**
+* *Abril* **Ap̆rilĕ**
+* *pobre* **påŭp̆ĕre**
 
-* *precisam* []: **precisant**
-* *cem* []: **cent**
+* *que* **que** = **qŭe**
+* *água* **aq̆ua**
+* *seguir* **seq̆uirĕ** = **seq̆ŭirĕ**
 
-* *tem* []: **tenĕt**
-* *têm* []: **tenĕnt**
+* *peixe* **pĩsce**
+* *estação* **s̈tatıõnĕ**
 
-* *aberto* []: **ap̆erto**
+* *advogado* **advoc̆at̯o**
+* *universidade* **universit̯at̯e** = **universit̯ade**
+* *lido* **lėct̯o**
 
-* *dobro* []: **důp̆l̯o**
-* *Abril* []: **Ap̆rilĕ**
-* *pobre* []: **påŭp̆ĕre**
+* *luxo* **luxo**
+* *tóxico* **toxico**
+* *máximo* **maximo**
 
-* *que* []: **que** = **qŭe**
+* *vinho* **viño**
 
-* *água* []: **aq̆ua**
+* *pessoa* **peřson̆a**
 
-* *seguir* []: **seq̆uirĕ** = **seq̆ŭirĕ**
-
-* *peixe* []: **pĩsce**
-* *estação* []: **s̈tatıõnĕ**
-
-* *advogado* []: **advoc̆at̯o**
-* *universidade* []: **universit̯at̯e** = **universit̯ade**
-* *lido* []: **lėct̯o**
-
-* *luxo* []: **luxo**
-* *tóxico* []: **toxico**
-* *máximo* []: **maximo**
-
-* *vinho* []: **viño**
-
-* **peřson̆a** [pessoa]
-
-* **ğėrmană** [irmã]
-* **ğėrmano** [irmão]
-* *raina* []: **rȇğina**
-* **eğo** [eu]
-
-* **gÿpso** [gesso]
-* **camĕra** [cama]
+* *irmã* **ğėrmană**
+* *irmão* **ğėrmano**
+* *raina* **rȇğina**
+* *eu* **eğo**
+* *gesso* **gÿpso**
+* *cama* **camĕra**
