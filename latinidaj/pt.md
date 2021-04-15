@@ -1,6 +1,15 @@
 # Português
 
+| | | |
+|-|-|-|
+| *pulso* | **pulso** | |
+| *mundo* | **mundo** | |
+
 ## Voc̆ales
+
+| | | |
+|-|-|-|
+| *flor* | **florĕ** | |
 
 ### Voc̆ales cađidas
 
@@ -13,9 +22,17 @@
 
 | | | |
 |-|-|-|
-| *nome* | **nomė** = **nome** | |
+| *pelo* | **pïlo** | |
+| *vez* | **vïcĕ** | |
 | | | |
-| *porto* | **portǒ** = **porto** | |
+| *ele* | **ïlle** | |
+| *ela* | **ïlla** | |
+| *este* | **ïste** | |
+
+| | | |
+|-|-|-|
+| *criar* | **crėarĕ** | |
+| *nome* | **nomė** = **nome** | |
 
 | | | |
 |-|-|-|
@@ -25,14 +42,18 @@
 | *ouro* | **åuro** | |
 | *pouca* | **påuco** | |
 | *touro* | **tåuro** | |
+| | | |
+| *por* | **pe̊r** | | |
+| | | |
+| *gosto* | **gůsto** | |
+| *torre* | **tůrre** | |
 
 | | | |
 |-|-|-|
-| *pelo* | **pïlo** | |
-| | | |
-| *ele* | **ïlle** | |
-| *ela* | **ïlla** | |
-| *este* | **ïste** | |
+| *eu* | **eğǒ** | |
+| *meu* | **meǒ** | |
+| *museu* | **museǒ** | |
+| *porto* | **portǒ** = **porto** | |
 
 ### Voc̆ales nasales
 
@@ -77,10 +98,11 @@
 | | | |
 |-|-|-|
 | *um* | **un** | |
-| *uma* | @ **uña** = **uma** | |
+| *uma* | **una** = **uma** | |
 
 | | | |
 |-|-|-|
+| *fortuna* | **fortun̄a** | [furˈtuna] |
 | *menos* | **mïn̄ůs** | |
 | *pena* | **pen̄a** | |
 | *semana* | **seman̄a** | |
@@ -143,7 +165,6 @@
 | *teto* | **tecto** | |
 | *trato* | **tracto** | |
 | | | |
-| *exata* | **exacta** | |
 | *vitima* | **victima** | |
 
 | | | |
@@ -184,15 +205,17 @@
 
 | | | |
 |-|-|-|
+| *luz* | **lucĕ** | |
 | *paz* | **pacĕ** | |
 
 | | | |
 |-|-|-|
 | *amigo* | **amic̆o** | |
-| *segundo* | **sec̆undo** | |
 | *fogo* | **foc̆o** | |
+| *segundo* | **sec̆undo** | |
 | | | |
 | *mais* | **mağis** | |
+| *país* | **pağėn̆sĕ** | |
 | *rua* | **ruğa** | |
 
 ### t, d
@@ -201,7 +224,7 @@
 |-|-|-|
 | *tio* | **tio** | |
 | | | |
-| *de* | **dė** = **de** | |
+| *dia* | **dia** | [ˈʤia] |
 
 | | | |
 |-|-|-|
@@ -315,7 +338,13 @@
 | | | |
 |-|-|-|
 | *luxo* | **luxo** | |
+| *exata* | **exacta** | |
+| *máxima* | **maxima** | [ˈmasima] |
 | *seis* | **sĩx** | |
+
+| | | |
+|-|-|-|
+| *tóxica* | **tox̄ica** | |
 
 ### Conson̆antes duplas
 
@@ -355,9 +384,6 @@
 
 ## Voc̆ales [vogais]
 
-* **museo** [museu]
-* **meo** [meu]
-
 * **potente** [=]
 * **potentĭa** [potência]
 
@@ -365,7 +391,6 @@
 
 * **hyæna** [hiena]
 
-* una fortuna
 * oa pessoa
 * ana humana
 
@@ -375,44 +400,21 @@
 * *prisão* **pren̆sıõnĕ**
 * *milhões* **millĭon̆es**
 
-* país [pais]
-
 * faz [fas] → faiz [faş = fajŝ]
 * paz [pas]
 * gás [gas]
-
-* *ei* **ä**
-
-* *criar* **crearĕ**
-
-* *flor* **florĕ**
-* *luz* **lucĕ**
-
-* *vez* **vïcĕ**
-
-* *por* **pe̊r**
 
 * *cidade* **civĭt̯at̯e** = **civĭt̯ade**
 
 * *hoje* **hodĭe**
 
-* *beijo* **bäsĭo**
-
-* *pulso* **pulso**
-* *mundo* **mundo**
-
-* *meu* **meo**
-
-* *gosto* **gůsto**
-* *torre* **tůrre**
+* *beijo* **bäsĭo** **bäṡĭo** @
 
 * *vou* **våđo**
 * *vai* **vađet**
 * *caem* **cađent**
 
 * *vela* **vela**
-
-* *ano* **anno**
 
 * *precisam* **precisant**
 * *cem* **cent**
@@ -425,10 +427,6 @@
 * *advogado* **advoc̆at̯o**
 * *universidade* **universit̯at̯e** = **universit̯ade**
 * *lido* **lėct̯o**
-
-* *luxo* **luxo**
-* *tóxico* **toxico**
-* *máximo* **maximo**
 
 * *vinho* **viño**
 
