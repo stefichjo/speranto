@@ -37,11 +37,6 @@
 |-|-|
 | *fome* | **fåme** |
 | | |
-| *ou* | **åut** |
-| *ouro* | **åuro** |
-| *pouca* | **påuco** |
-| *touro* | **tåuro** |
-| | |
 | *por* | **pe̊r** | |
 | | |
 | *gosto* | **gůsto** |
@@ -129,24 +124,36 @@
 |-|-|
 | *seio* | **sĩn̆o** |
 
+* **õ** (**ou**)
+
 | | |
 |-|-|
 | *tesouro* | **tesõro** |
 | *doutor* | **dõctorĕ** |
 | *outubro* | **õctǒbro** |
+| | |
+| *ou* | **åut** = **õ** |
+| *ouro* | **åuro** = **õro** |
+| *pouca* | **påuca** = **põca** |
+| *touro* | **tåuro** = **tõro** |
+
+* **õs** (**ois**)
 
 | | |
 |-|-|
-| *dois* | **dõs** |
+| *coisa* | **cåu̇sa** = **cõsa** (**coisa**) |
+| *dois* | **dõs** (**dois**) |
+
+* **õn** (**aun**)
 
 | | |
 |-|-|
-| *não* | **nõn** |
+| *não* | **nõn** (**naun**) |
 | | |
-| *união* | **uniõnĕ** |
+| *união* | **uniõnĕ** (**uniaun**) |
 | *uniões* | **uniones** |
 | | |
-| *limão* | **limõnĕ** |
+| *limão* | **limõnĕ** (**limaun**) |
 | *limões* | **limones** |
 
 ## Conson̆antes
@@ -433,3 +440,4 @@
 * *raina* **rȇğina**
 * *gesso* **gÿpso**
 * *cama* **camĕra**
+
