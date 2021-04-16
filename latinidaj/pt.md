@@ -4,21 +4,20 @@
 |-|-|-|
 | *pulso* | **pulso** | |
 | *mundo* | **mundo** | |
+| | | |
+| *e* | **et** | |
 
 ## Voc̆ales
-
-| | | |
-|-|-|-|
-| *flor* | **florĕ** | |
 
 ### Voc̆ales cađidas
 
 | | | |
 |-|-|-|
 | *calor* | **calorĕ** | [kaˈlor] |
+| *flor* | **florĕ** | |
 | *mar* | **marĕ** | |
 
-### Voc̆ales mut̯at̯as
+### Voc̆ales mut̯adas
 
 | | | |
 |-|-|-|
@@ -228,7 +227,7 @@
 
 | | | |
 |-|-|-|
-| *advogado* | **advoc̆at̯o** | |
+| *advogado* | **advoc̆at̯o** = **advoc̆ado** | |
 | *lido* | **lėct̯o** | |
 | *mudar* | **mut̯arĕ** | |
 | *roda* | **rot̯a** | |
@@ -333,24 +332,24 @@
 |-|-|-|
 | *cena* | **scen̄a** | |
 | | | |
-| *peixe* | **pĩsce** | |
+| *peixe* | **pĩsce** | [ˈpeʃi] |
 
 | | | |
 |-|-|-|
-| *crescer* | **cresc̄erĕ** | |
+| *crescer* | **cresc̄erĕ** | [s] |
 
 ### x
 
 | | | |
 |-|-|-|
-| *luxo* | **luxo** | |
-| *exata* | **exacta** | |
+| *luxo* | **luxo** | [s] |
+| *exata* | **exacta** | [z] |
 | *máxima* | **maxima** | [ˈmasima] |
-| *seis* | **sĩx** | |
+| *seis* | **sĩx** | [s] |
 
 | | | |
 |-|-|-|
-| *tóxica* | **tox̄ica** | |
+| *tóxica* | **tox̄ica** | [ks] |
 
 ### Conson̆antes duplas
 
@@ -391,20 +390,19 @@
 ## Voc̆ales [vogais]
 
 * **potente** [=]
-* **potentĭa** [potência]
+* **potentia** [potência]
 
-* **certeza** [certeza]
+* **certïtĭa** = **certeza** [certeza]
 
 * **hyæna** [hiena]
 
-* *começo* **commen̆tıo**
-  * *mensal* **mensalĕ**
+* *começo* **comïn̆ĭtĭo**
+* *mensal* **mensalĕ**
 
-* *prisão* **pren̆sıõnĕ**
+* *prisão* **prėn̆sıõnĕ**
 * *milhões* **millĭon̆es**
 
 * faz [fas] → faiz [faş = fajŝ]
-* paz [pas]
 * gás [gas]
 
 * *cidade* **civĭt̯at̯e** = **civĭt̯ade**
