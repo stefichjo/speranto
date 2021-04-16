@@ -2,10 +2,9 @@
 
 | | |
 |-|-|
-| *pulso* | **pulso** |
 | *mundo* | **mundo** |
-| | |
-| *e* | **et** |
+| *pulso* | **pulso** |
+| *vela* | **vela** |
 
 ## Voc̆ales
 
@@ -44,10 +43,11 @@
 
 | | |
 |-|-|
-| *eu* | **eğǒ** |
-| *meu* | **meǒ** |
-| *museu* | **museǒ** |
 | *porto* | **portǒ** = **porto** |
+| | |
+| *eu* | **eğǒ** (**eo**) |
+| *meu* | **meǒ** (**meo**) |
+| *museu* | **museǒ** (**museo**) |
 
 ### Voc̆ales nasales
 
@@ -98,32 +98,17 @@
 | | |
 |-|-|
 | *fortuna* | **fortun̄a** [furˈtuna] |
+| *lunar* | **lun̄arĕ** |
 | *menos* | **mïn̄ůs** |
 | *pena* | **pen̄a** |
 | *semana* | **seman̄a** |
 | *seno* | **sïn̄o** |
 
-| | |
-|-|-|
-| *lua* | **lun̆a** |
-| *mês* | **men̆sĕ** |
-| *mesa* | **men̆sa** |
-| *soar* | **son̆arĕ** |
-| | |
-| *bom* | **bonŏ** |
-| *boa* | **bon̆a** |
-
-
 ### Diphthongos
 
 | | |
 |-|-|
-| *ceia* | **cẽn̆a** |
-| *veia* | **vẽn̆a** |
-
-| | |
-|-|-|
-| *seio* | **sĩn̆o** |
+| *aceitar* | **acẽptarĕ** |
 
 * **õ** (**ou**)
 
@@ -133,7 +118,6 @@
 | *doutor* | **dõctorĕ** |
 | *outubro* | **õctǒbro** |
 | | |
-| *ou* | **åut** = **õ** |
 | *ouro* | **åuro** = **õro** |
 | *ousar* | **åusarĕ** = **õsarĕ** |
 | *pouca* | **påuca** = **põca** |
@@ -163,7 +147,52 @@
 
 ## Conson̆antes
 
-### ct, pt
+### Conson̆antes cađidas
+
+| | |
+|-|-|
+| *cem* | **cent** |
+| *e* | **et** |
+| *ou* | **åut** = **õt** |
+
+| | |
+|-|-|
+| *irmão* | **ğėrmano** = **irmaon** |
+| *mais* | **mağis** |
+| *país* | **pağėn̆sĕ** |
+| *rua* | **ruğa** |
+
+| | |
+|-|-|
+| *juiz* | **juđicĕ** |
+| *pé* | **peđĕ** |
+| *raiz* | **rađicĕ** |
+| *raio* | **rađio** |
+
+| | |
+|-|-|
+| *a* | **ła** |
+| *o* | **ło** |
+| | |
+| *céu* | **cełǒ** (**ceo**) |
+| *doce* | **důłce** |
+| *só* | **sołŏ** |
+| *voar* | **vołarĕ** |
+
+| | |
+|-|-|
+| *ceia* | **cẽn̆a** |
+| *lua* | **lun̆a** |
+| *mês* | **men̆sĕ** |
+| *mesa* | **men̆sa** |
+| *seio* | **sĩn̆o** |
+| *soar* | **son̆arĕ** |
+| *veia* | **vẽn̆a** |
+| | |
+| *bom* | **bonŏ** |
+| *boa* | **bon̆a** |
+
+#### ct, pt
 
 | | |
 |-|-|
@@ -224,11 +253,6 @@
 | *amigo* | **amic̆o** |
 | *fogo* | **foc̆o** |
 | *segundo* | **sec̆undo** |
-| | |
-| *irmão* | **ğėrmano** |
-| *mais* | **mağis** |
-| *país* | **pağėn̆sĕ** |
-| *rua* | **ruğa** |
 
 ### t, d
 
@@ -249,13 +273,6 @@
 
 | | |
 |-|-|
-| *juiz* | **juđicĕ** |
-| *pé* | **peđĕ** |
-| *raiz* | **rađicĕ** |
-| *raio* | **rađio** |
-
-| | |
-|-|-|
 | *canção* | **cantıõnĕ** |
 | *peça* | **petıa** |
 | *espaço* | **s̈patıo** |
@@ -271,13 +288,7 @@
 | *abrir* | **ap̆rirĕ** |
 | *pobre* | **påŭp̆ĕre** |
 
-### l, n, r
-
-| | |
-|-|-|
-| *sal* | **sałĕ** = **salĕ** |
-| *só* | **sołŏ** |
-| *sol* | **solĕ** |
+### lĭ, nĭ
 
 | | |
 |-|-|
@@ -289,24 +300,29 @@
 | | |
 | *vinho* | **viño** |
 
-| | |
-|-|-|
-| *final* | **finałĕ** = **finalĕ** |
-| *finais* | **finałės** = **finales** |
-| | |
-| *tal* | **tałĕ** = **talĕ** |
-| *tais* | **tałės** = **tales** |
+### l̥, ḷ
 
 | | |
 |-|-|
-| *a* | **ła** |
-| *o* | **ło** |
-| | |
-| *pelo* | **per̆-ło** |
+| *alta* | **al̥ta** = **alta** |
+| *fácil* | **facil̥ĕ** = **facilĕ** |
+| *outro* | **ål̥tro** = **åltro** |
+| *sal* | **sal̥ĕ** = **salĕ** |
+| *sol* | **sol̥** = **solĕ** |
 
 | | |
 |-|-|
 | *muito* | **muḷto** |
+
+** -**al̥ės** = -**ałės**
+
+| | |
+|-|-|
+| *final* | **final̥ĕ** = **finalĕ** (**finau**) |
+| *finais* | **final̥ės** = **finałės** = **finales** (**finaes**) |
+| | |
+| *tal* | **tal̥ĕ** = **talĕ** (**tau**) |
+| *tais* | **tal̥ės** = **tałės** = **tales** (**taes**) |
 
 | | |
 |-|-|
@@ -318,6 +334,8 @@
 | | |
 | *chave* | **cḷave** |
 
+### r, l
+
 | | |
 |-|-|
 | *branco* | **bl̯anco** |
@@ -326,19 +344,8 @@
 | *prato* | **pl̯ato** |
 | | |
 | *bolsa* | **bor̆sa** |
-
 | | |
-|-|-|
-| *alta* | **ałta** = **alta** |
-| *outro* | **åłtro** = **åltro** |
-| | |
-| *céu* | **cełŏ** = **celŏ** |
-| | |
-| *fácil* | **facilĕ** |
-| | |
-| *voar* | **vołarĕ** = **volarĕ** |
-| | |
-| *doce* | **důłce** = **důlce** |
+| *pelo* | **per̆-ło** @ **pe'-lo** |
 
 ### sc
 
@@ -405,12 +412,12 @@
 
 ## Voc̆ales [vogais]
 
-* **potente** [=]
-* **potentia** [potência]
+* *potente* **potente**
+* *potência* **potentia**
 
-* **certïtĭa** = **certeza** [certeza]
+* *certeza* **certïtĭa** = **certeza**
 
-* **hyæna** [hiena]
+* *hiena* **hyæna**
 
 * *começo* **comïn̆ĭtĭo**
 * *mensal* **mensalĕ**
@@ -429,12 +436,7 @@
 * *vou* **våđo**
 * *vai* **vađet**
 * *caem* **cađent**
-
-* *vela* **vela**
-
 * *precisam* **precisant**
-* *cem* **cent**
-
 * *tem* **tenĕt**
 * *têm* **tenĕnt**
 
