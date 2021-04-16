@@ -61,11 +61,15 @@
 | *fim* | **finĕ** |
 | *sem* | **sïnĕ** |
 | | |
-| *mão* | **mano** |
-| *mãos* | **manos** |
-| | |
 | *som* | **sonŏ** |
 | *sons* | **sonŏs** |
+
+* **no** = **on**
+
+| | |
+|-|-|
+| *mão* | **mano** (**maon**) |
+| *mãos* | **manos** (**maons**) |
 
 | | |
 |-|-|
@@ -80,13 +84,10 @@
 
 | | |
 |-|-|
-| *capitão* | **capitano** |
+| *capitão* | **capitano** (**capitaon**) |
 | *capitães* | **capitanös** |
 | | |
-| *pão* | **pane̊** |
-| *pães* | **panes** |
-| | |
-| *vulcão* | **vulcano** |
+| *vulcão* | **vulcano** (**vulcaon**) |
 | *vulcões* | **vulcånös** |
 
 | | |
@@ -134,15 +135,16 @@
 | | |
 | *ou* | **åut** = **õ** |
 | *ouro* | **åuro** = **õro** |
+| *ousar* | **åusarĕ** = **õsarĕ** |
 | *pouca* | **påuca** = **põca** |
 | *touro* | **tåuro** = **tõro** |
 
-* **õs** (**ois**)
+* **õṡ** (**ois**)
 
 | | |
 |-|-|
-| *coisa* | **cåu̇sa** = **cõsa** (**coisa**) |
-| *dois* | **dõs** (**dois**) |
+| *coisa* | **cåu̇sa** = **cõṡa** (**coisa**) |
+| *dois* | **dõṡ** (**dois**) |
 
 * **õn** (**aun**)
 
@@ -155,6 +157,9 @@
 | | |
 | *limão* | **limõnĕ** (**limaun**) |
 | *limões* | **limones** |
+| | |
+| *pão* | **pane̊** (**paon**) = **põnĕ** (**paun**) |
+| *pães* | **panes** |
 
 ## Conson̆antes
 
