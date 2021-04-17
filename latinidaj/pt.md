@@ -276,20 +276,30 @@
 | *toda* | **tot̯a** |
 | *universidade* | **universit̯at̯e** = **universit̯ade** |
 
+#### tĭ, dĭ
+
+| | |
+|-|-|
+| *pronúncia* | **pronuntĭa** |
+| | |
+| *hoje* | **hodĭe** |
+
 | | |
 |-|-|
 | *canção* | **cantıõnĕ** |
-| *peça* | **petıa** |
+| *começo* | **comïn̆ĭtıo** |
 | *espaço* | **s̈patıo** |
-| | |
-| *coração* | **coratıõnĕ** [koraˈsɜ̃w] |
-| *corações* | **coratıones** |[koraˈsõjs] |
-
-#### t, d
+| *peça* | **petıa** |
 
 | | |
 |-|-|
-| *hoje* | **hodĭe** |
+| *certeza* | **certït̯ıa** = **certeza** |
+
+| | |
+|-|-|
+| | |
+| *coração* | **coratıõnĕ** [koraˈsɜ̃w] |
+| *corações* | **coratıones** |[koraˈsõjs] |
 
 ### p, b
 
@@ -423,26 +433,17 @@
 
 ## Voc̆ales [vogais]
 
-* *potente* **potente**
-* *potência* **potentia**
-
-* *certeza* **certïtĭa** = **certeza**
-
 * *hiena* **hyæna**
 
-* *começo* **comïn̆ĭtĭo**
 * *mensal* **mensalĕ**
 
 * *prisão* **prėn̆sıõnĕ**
+* *beijo* **bäsĭo** **bäṡĭo** @
 
 * faz [fas] → faiz [faş = fajŝ]
 * gás [gas]
 
 * *cidade* **civĭt̯at̯e** = **civĭt̯ade**
-
-* *beijo* **bäsĭo** **bäṡĭo** @
-
-* *estação* **s̈tatıõnĕ**
 
 * *pessoa* **peřson̆a**
 
