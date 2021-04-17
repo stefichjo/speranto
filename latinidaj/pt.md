@@ -426,9 +426,18 @@
 | *rosa* | **rosa** |
 | *massa* | **massa** |
 
+##### sĭ
+
 | | |
 |-|-|
-| *camisa* | **camisıa** @ **camisĭa** |
+| *beijo* | **bäṡĭo** (**beisĭo**) |
+
+##### sı
+
+| | |
+|-|-|
+| *camisa* | **camisıa** |
+| *prisão* | **prėn̆sıõnĕ** (**prisaon**) |
 
 ### ch, ph, th, x, y
 
@@ -445,10 +454,6 @@
 ---
 
 ## Voc̆ales [vogais]
-
-
-* *prisão* **prėn̆sıõnĕ**
-* *beijo* **bäsĭo** **bäṡĭo** @
 
 * *cidade* **civĭt̯at̯e** = **civĭt̯ade**
 
