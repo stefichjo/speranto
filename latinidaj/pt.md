@@ -229,17 +229,6 @@
 |-|-|
 | *ótima* | **optima** |
 
-### qu
-
-| | |
-|-|-|
-| *água* | **aq̆ua** |
-| *seguir* | **seq̆ŭirĕ** |
-
-@
-* *que* **que** = **qŭe**
-| *arquitetura* | **architectura** |
-
 ### c, g
 
 | | |
@@ -258,6 +247,17 @@
 | *amigo* | **amic̆o** |
 | *fogo* | **foc̆o** |
 | *segundo* | **sec̆undo** |
+
+#### qu, gu
+
+| | |
+|-|-|
+| *que* | **qŭe** = **que** |
+| | |
+| *guerra* | **gŭerra** = **guerra** |
+| | |
+| *água* | **aq̆ua** |
+| *seguir* | **seq̆ŭirĕ** |
 
 ### t, d
 
@@ -394,10 +394,6 @@
 | *máxima* | **maxima** [ˈmasima] |
 | *seis* | **sĩx** [s] |
 
-| | |
-|-|-|
-| *tóxica* | **tox̄ica** [ks] |
-
 ### Conson̆antes duplas
 
 #### ll
@@ -434,11 +430,22 @@
 |-|-|
 | *camisa* | **camisıa** @ **camisĭa** |
 
+### ch, ph, th, x, y
+
+| | |
+|-|-|
+| *arquitetura* | **architectura** |
+| | |
+| *tóxica* | **tox̄ica** [ks] |
+| | |
+| *ditongo* | **diphthongo** |
+| | |
+| *hiena* | **hyæna** |
+
 ---
 
 ## Voc̆ales [vogais]
 
-* *hiena* **hyæna**
 
 * *prisão* **prėn̆sıõnĕ**
 * *beijo* **bäsĭo** **bäṡĭo** @
@@ -450,4 +457,3 @@
 * *raina* **rȇğina**
 * *gesso* **gÿpso**
 * *cama* **camĕra**
-
