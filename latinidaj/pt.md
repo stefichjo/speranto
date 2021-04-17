@@ -15,6 +15,8 @@
 | *calor* | **calorĕ** [kaˈlor] |
 | *flor* | **florĕ** |
 | *mar* | **marĕ** |
+| | |
+| *cama* | **camĕra** |
 
 ### Voc̆ales mut̯adas
 
@@ -197,6 +199,10 @@
 | *bom* | **bonŏ** |
 | *boa* | **bon̆a** |
 
+| | |
+|-|-|
+| *pessoa* | **peɍson̆a** |
+
 #### ct, pt
 
 | | |
@@ -338,6 +344,7 @@
 | *banho* | **banĭo** |
 | *manhã* | **manĭană** |
 | | |
+| *rainha* | **rȇğiña** |
 | *vinho* | **viño** |
 
 #### l̥, ḷ
@@ -453,14 +460,5 @@
 | | |
 | *ditongo* | **diphthongo** |
 | | |
+| *gesso* | **gÿpso** |
 | *hiena* | **hyæna** |
-
----
-
-## Voc̆ales [vogais]
-
-* *pessoa* **peřson̆a**
-
-* *raina* **rȇğina**
-* *gesso* **gÿpso**
-* *cama* **camĕra**
