@@ -63,6 +63,9 @@
 | | |
 | *som* | **sonŏ** |
 | *sons* | **sonŏs** |
+| | |
+| *tem* | **tenĕt** |
+| *têm* | **tenĕnt** |
 
 * **no** = **on**
 
@@ -164,10 +167,12 @@
 
 | | |
 |-|-|
+| *cair* | **cađėrė** |
 | *juiz* | **juđicĕ** |
 | *pé* | **peđĕ** |
 | *raiz* | **rađicĕ** |
 | *raio* | **rađio** |
+| *vou* | **våđǒ** (**voo**) |
 
 | | |
 |-|-|
@@ -280,6 +285,12 @@
 | *coração* | **coratıõnĕ** [koraˈsɜ̃w] |
 | *corações* | **coratıones** |[koraˈsõjs] |
 
+#### t, d
+
+| | |
+|-|-|
+| *hoje* | **hodĭe** |
+
 ### p, b
 
 | | |
@@ -288,7 +299,20 @@
 | *abrir* | **ap̆rirĕ** |
 | *pobre* | **påŭp̆ĕre** |
 
-### lĭ, nĭ
+### n, l, r
+
+| | |
+|-|-|
+| *branco* | **bl̯anco** |
+| *dobro* | **důp̆l̯o** |
+| *lugar* | **lǒc̆al̯** |
+| *prato* | **pl̯ato** |
+| | |
+| *bolsa* | **bor̆sa** |
+| | |
+| *pelo* | **per̆-ło** @ **pe'-lo** |
+
+#### lĭ, nĭ
 
 | | |
 |-|-|
@@ -300,7 +324,7 @@
 | | |
 | *vinho* | **viño** |
 
-### l̥, ḷ
+#### l̥, ḷ
 
 | | |
 |-|-|
@@ -333,19 +357,6 @@
 | *chama* | **fḷamma** |
 | | |
 | *chave* | **cḷave** |
-
-### r, l
-
-| | |
-|-|-|
-| *branco* | **bl̯anco** |
-| *dobro* | **důp̆l̯o** |
-| *lugar* | **lǒc̆al̯** |
-| *prato* | **pl̯ato** |
-| | |
-| *bolsa* | **bor̆sa** |
-| | |
-| *pelo* | **per̆-ło** @ **pe'-lo** |
 
 ### sc
 
@@ -429,16 +440,7 @@
 
 * *cidade* **civĭt̯at̯e** = **civĭt̯ade**
 
-* *hoje* **hodĭe**
-
 * *beijo* **bäsĭo** **bäṡĭo** @
-
-* *vou* **våđo**
-* *vai* **vađet**
-* *caem* **cađent**
-* *precisam* **precisant**
-* *tem* **tenĕt**
-* *têm* **tenĕnt**
 
 * *estação* **s̈tatıõnĕ**
 
