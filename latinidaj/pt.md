@@ -332,7 +332,7 @@
 | | |
 | *bolsa* | **bor̆sa** |
 | | |
-| *pelo* | **per̆-ło** @ **pe'-lo** |
+| *pelo* | **peɍ-lo** |
 
 #### lĭ, nĭ
 
