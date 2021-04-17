@@ -284,6 +284,8 @@
 | | |
 | *hoje* | **hodĭe** |
 
+#### tı
+
 | | |
 |-|-|
 | *canção* | **cantıõnĕ** |
@@ -354,6 +356,9 @@
 |-|-|
 | *final* | **final̥ĕ** = **finalĕ** (**finau**) |
 | *finais* | **final̥ės** = **finałės** = **finales** (**finaes**) |
+| | |
+| *mensal* | **mensal̥ĕ** = **mensalĕ** (**mensau**) |
+| *mensais* | **mensal̥ės** = **mensałės** = **mensales** (**mensaes**) |
 | | |
 | *tal* | **tal̥ĕ** = **talĕ** (**tau**) |
 | *tais* | **tal̥ės** = **tałės** = **tales** (**taes**) |
@@ -435,13 +440,8 @@
 
 * *hiena* **hyæna**
 
-* *mensal* **mensalĕ**
-
 * *prisão* **prėn̆sıõnĕ**
 * *beijo* **bäsĭo** **bäṡĭo** @
-
-* faz [fas] → faiz [faş = fajŝ]
-* gás [gas]
 
 * *cidade* **civĭt̯at̯e** = **civĭt̯ade**
 
