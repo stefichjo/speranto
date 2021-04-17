@@ -309,7 +309,6 @@
 
 | | |
 |-|-|
-| | |
 | *coração* | **coratıõnĕ** [koraˈsɜ̃w] |
 | *corações* | **coratıones** |[koraˈsõjs] |
 
@@ -361,7 +360,7 @@
 |-|-|
 | *muito* | **muḷto** |
 
-** -**al̥ės** = -**ałės**
+* -**al̥ės** = -**ałės**
 
 | | |
 |-|-|
@@ -456,6 +455,7 @@
 |-|-|
 | *arquitetura* | **architectura** |
 | | |
+| *táxi* | **tax̄i** [ks] |
 | *tóxica* | **tox̄ica** [ks] |
 | | |
 | *ditongo* | **diphthongo** |
