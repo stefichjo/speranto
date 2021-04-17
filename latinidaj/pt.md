@@ -88,10 +88,10 @@
 | | |
 |-|-|
 | *capitão* | **capitano** (**capitaon**) |
-| *capitães* | **capitanös** |
+| *capitães* | **capitanös** (**capitaens**) |
 | | |
 | *vulcão* | **vulcano** (**vulcaon**) |
-| *vulcões* | **vulcånös** |
+| *vulcões* | **vulcånös** (**vulcoens**) |
 
 | | |
 |-|-|
@@ -269,11 +269,15 @@
 
 | | |
 |-|-|
-| *advogado* | **advoc̆at̯o** = **advoc̆ado** |
 | *lido* | **lėct̯o** |
 | *mudar* | **mut̯arĕ** |
 | *roda* | **rot̯a** |
 | *toda* | **tot̯a** |
+
+| | |
+|-|-|
+| *advogado* | **advoc̆at̯o** = **advoc̆ado** |
+| *cidade* | **civĭt̯at̯e** = **civĭt̯ade** |
 | *universidade* | **universit̯at̯e** = **universit̯ade** |
 
 #### tĭ, dĭ
@@ -454,8 +458,6 @@
 ---
 
 ## Voc̆ales [vogais]
-
-* *cidade* **civĭt̯at̯e** = **civĭt̯ade**
 
 * *pessoa* **peřson̆a**
 
