@@ -467,27 +467,26 @@
 
 * -**mus** = -**mos**
 * -**nt** = -**m**
-* -**t** = -
-
 * -**đis** = -**is**
 * -**m** = -
+* -**t** = -
 * -**åvĭt** = -**ou**
 * -**stïs** = -**stes**
 * -**äđis** = -**eis**
 
 | | | | | | | |
 |-|-|-|-|-|-|-|
-| **amo** | **amei** | **amem** | | **amamus** | **amamus** | **amemus** |
-| **amavam** | **amaram** | **amassem** | | **amávamus** | **amáramus** | **amássemus** |
-| **amarei** | **amariam** | **amarĕm** | | **amaremus** | **amaríamus** | **amarmus** |
+| **amo** | **amem** | **amäŭi** | | **amamus** | **amemus** | **amamus** |
+| **amavam** | **amassem** | **amaram** | | **amávamus** | **amássemus** | **amáramus** |
+| **amarei** | **amarĕm** | **amariam** | | **amaremus** | **amarĕmus** |  **amaríamus** |
 | | | | | | | |
-| **amas** | **amaste** | **ames** | | **amađis** | **amastïs** | **ameđis** |
-| **amavas** | **amaras** | **amasses** | | **amáväđis** | **amáräđis** | **amásseđis** |
-| **amarás** | **amarias** | **amares** | | **amareis** | **amaríeis** | **amardes** |
+| **amas** | **ames** | **amaste** | | **amađis** | **ameđis** | **amastïs** |
+| **amavas** | **amasses** | **amaras** | | **amáväđis** | **amásseđis** | **amáräđis** |
+| **amarás** | **amares** | **amarias** | | **amareis** | **amarĕdes** | **amaríeis** |
 | | | | | | | |
-| **amat** | **amåvĭt** | **amet** | | **amant** | **amarant** | **ament** |
-| **amavat** | **amarat** | **amasset** | | **amavant** | **amarant** | **amassent** |
-| **amarát** | **amariat** | **amarĕt** | | **amarão** | **amariant** | **amarent** |
+| **amat** | **amet** | **amåuĭt** | | **amant** | **ament** | **amarant** |
+| **amavat** | **amasset** | **amarat** | | **amavant** | **amassent** | **amarant** |
+| **amarát** | **amarĕt** | **amariat** | | **amarão** | **amarent** | **amariant** |
 ---
 
 * Latino
