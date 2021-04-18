@@ -462,3 +462,49 @@
 | | |
 | *gesso* | **gÿpso** |
 | *hiena* | **hyæna** |
+
+## Conjugatıõnĕ
+
+* -**mus** = -**mos**
+* -**nt** = -**m**
+* -**t** = -
+
+* -**đis** = -**is**
+* -**m** = -
+* -**åvĭt** = -**ou**
+* -**stïs** = -**stes**
+* -**äđis** = -**eis**
+
+| | | | | | | |
+|-|-|-|-|-|-|-|
+| **amo** | **amei** | **amem** | | **amamus** | **amamus** | **amemus** |
+| **amavam** | **amaram** | **amassem** | | **amávamus** | **amáramus** | **amássemus** |
+| **amarei** | **amariam** | **amarĕm** | | **amaremus** | **amaríamus** | **amarmus** |
+| | | | | | | |
+| **amas** | **amaste** | **ames** | | **amađis** | **amastïs** | **ameđis** |
+| **amavas** | **amaras** | **amasses** | | **amáväđis** | **amáräđis** | **amásseđis** |
+| **amarás** | **amarias** | **amares** | | **amareis** | **amaríeis** | **amardes** |
+| | | | | | | |
+| **amat** | **amåvĭt** | **amet** | | **amant** | **amarant** | **ament** |
+| **amavat** | **amarat** | **amasset** | | **amavant** | **amarant** | **amassent** |
+| **amarát** | **amariat** | **amarĕt** | | **amarão** | **amariant** | **amarent** |
+---
+
+* Latino
+
+| | Imperfekt | Perfekt |
+|-|-|-|
+| **(Präsens)** | |
+| **Indikativ** | amō → amo | amāvī → amei |
+| **Konjunktiv** | amem → ame | amāverim |
+| | | |
+| **(Präteritum)** | | |
+| **Indikativ** | amābam → amava | amāveram → amara |
+| **Konjunktiv** | amārem | amāvissem → amasse |
+| | | |
+| **(Futur)** | | |
+| **Indikativ** | amābō | amāverō → amarei + amaria |
+| **Konjunktiv** | → amar | |
+
+* PT
+
