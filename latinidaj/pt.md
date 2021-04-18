@@ -470,40 +470,48 @@
 * -**đis** = -**is**
 * -**m** = -
 * -**t** = -
-* -**åvĭt** = -**ou**
+* -**äŭi** = -**ei**
+* -**åuĭt** = -**ou**
+* -**stï** = -**ste**
 * -**stïs** = -**stes**
 * -**äđis** = -**eis**
 
-| | | | | | | |
-|-|-|-|-|-|-|-|
-| **amo** | **amem** | **amäŭi** | | **amamus** | **amemus** | **amamus** |
-| **amavam** | **amassem** | **amaram** | | **amávamus** | **amássemus** | **amáramus** |
-| **amarei** | **amarĕm** | **amariam** | | **amaremus** | **amarĕmus** |  **amaríamus** |
-| | | | | | | |
-| **amas** | **ames** | **amaste** | | **amađis** | **ameđis** | **amastïs** |
-| **amavas** | **amasses** | **amaras** | | **amáväđis** | **amásseđis** | **amáräđis** |
-| **amarás** | **amares** | **amarias** | | **amareis** | **amarĕdes** | **amaríeis** |
-| | | | | | | |
-| **amat** | **amet** | **amåuĭt** | | **amant** | **ament** | **amarant** |
-| **amavat** | **amasset** | **amarat** | | **amavant** | **amassent** | **amarant** |
-| **amarát** | **amarĕt** | **amariat** | | **amarão** | **amarent** | **amariant** |
----
+| | imperfeito | subjunctivo | perfeito |
+|-|-|-|-|
+| presente | | |
+| pretérito | | | |
+| futuro | | | |
 
-* Latino
+### -arĕ
 
-| | Imperfekt | Perfekt |
-|-|-|-|
-| **(Präsens)** | |
-| **Indikativ** | amō → amo | amāvī → amei |
-| **Konjunktiv** | amem → ame | amāverim |
-| | | |
-| **(Präteritum)** | | |
-| **Indikativ** | amābam → amava | amāveram → amara |
-| **Konjunktiv** | amārem | amāvissem → amasse |
-| | | |
-| **(Futur)** | | |
-| **Indikativ** | amābō | amāverō → amarei + amaria |
-| **Konjunktiv** | → amar | |
+| | singular | | | | plural | | |
+|-|-|-|-|-|-|-|-|
+| 1. | | | | | | | |
+| | **amo** | **amem** | **amäŭi** | | **amamus** | **amemus** | **amamus** |
+| | **amavam** | **amassem** | **amaram** | | **amávamus** | **amássemus** | **amáramus** |
+| | **amarei** | **amarĕm** | **amariam** | | **amaremus** | **amarĕmus** |  **amaríamus** |
+| 2. | | | | | | | |
+| | **amas** | **ames** | **amastï** | | **amađis** | **ameđis** | **amastïs** |
+| | **amavas** | **amasses** | **amaras** | | **amáväđis** | **amásseđis** | **amáräđis** |
+| | **amarás** | **amares** | **amarias** | | **amaređis** | **amarĕdes** | **amaríäđis** |
+| 3. | | | | | | | |
+| | **amat** | **amet** | **amåuĭt** | | **amant** | **ament** | **amarant** |
+| | **amavat** | **amasset** | **amarat** | | **amavant** | **amassent** | **amarant** |
+| | **amarát** | **amarĕt** | **amariat** | | **amarão** | **amarent** | **amariant** |
 
-* PT
+### -irĕ
 
+| | singular | | | | plural | | |
+|-|-|-|-|-|-|-|-|
+| 1. | | | | | | | |
+| | **venĭo** | **venĭam** | **vėnĭ** | | **vĕn̆imus** | **venĭamus** | **vėn̆ïmus** |
+| | **vėnĭam** | **vėn̆ïssem** | **vėn̆eram** | | **vėnĭamus** | **vėn̆ïssemus** | **vėn̆eramus** |
+| | **vĕn̆irei** | **vėn̆ïrĕm** | **vĕn̆iriam** | | **vĕn̆iremus** | **vėn̆ïrĕmus** | **vĕn̆iríamus** |
+| 2. | | | | | | | |
+| | **venĭs** | **venĭas** | **vėn̆ïstï** | | **vėnĭdïs** | **venĭađis** | **vėn̆ïstïs** |
+| | **vėnĭas** | **vėn̆ïsses** | **vėn̆eras** | | **vėnĭäđis** | **vėn̆ïsseđis** | **vėn̆eräđis** |
+| | **vĕn̆irás** | **vėn̆ïres** | **vĕn̆irias** | | **vĕn̆iređis** | **vėn̆ïrĕdes** | **vĕn̆iríäđis** |
+| 3. | | | | | | | |
+| | **venĭt** | **venĭat** | **ven̆iṱ** | | **venĭnt** @ | **venĭant** | **vėn̆ïrant** |
+| | **vėnĭat** | **vėn̆ïsset** | **vėn̆erat** | | **vėnĭant** | **vėn̆ïssent** | **vėn̆erant** |
+| | **vĕn̆irát** | **vėn̆ïrĕt** | **vĕn̆iriat** | | **vĕn̆irão** | **vėn̆ïrent** | **vĕn̆iríant** |
