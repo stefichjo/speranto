@@ -490,15 +490,15 @@
 |-|-|-|-|-|-|-|-|
 | 1. | | | | | | | |
 | | **amo** | **amem** | **amäŭi** | | **amamus** | **amemus** | **amaŭĭmus** |
-| | **amavam** | **amav̆ĭssem** | **amaram** | | **amávamus** | **amáv̆ĭssemus** | **amáramus** |
+| | **amavam** | **amav̆ĭssem** | **amav̆ĕram** | | **amávamus** | **amáv̆ĭssemus** | **amáv̆ĕramus** |
 | | **amarei** | **amarĕm** | **amariam** | | **amaremus** | **amarĕmus** |  **amaríamus** |
 | 2. | | | | | | | |
 | | **amas** | **ames** | **amaŭĭstï** | | **amađis** | **ameđis** | **amaŭĭstïs** |
-| | **amavas** | **amav̆ĭsses** | **amaras** | | **amáväđis** | **amáv̆ĭsseđis** | **amáräđis** |
+| | **amavas** | **amav̆ĭsses** | **amav̆ĕras** | | **amáväđis** | **amáv̆ĭsseđis** | **amáv̆ĕräđis** |
 | | **amarás** | **amares** | **amarias** | | **amaređis** | **amarĕdïs** | **amaríäđis** |
 | 3. | | | | | | | |
 | | **amat** | **amet** | **amåuĭt** | | **amant** | **ament** | **amaŭĭrant** |
-| | **amavat** | **amav̆ĭsset** | **amarat** | | **amavant** | **amav̆ĭssent** | **amarant** |
+| | **amavat** | **amav̆ĭsset** | **amav̆ĕrat** | | **amavant** | **amav̆ĭssent** | **amav̆ĕrant** |
 | | **amarát** | **amarĕt** | **amariat** | | **amarão** | **amarent** | **amariant** |
 
 ### -irĕ
@@ -507,28 +507,28 @@
 |-|-|-|-|-|-|-|-|
 | 1. | | | | | | | |
 | | **parto** | **partam** | **partiŭĭ** | | **partimus** | **partamus** | **partiŭĭmus** |
-| | **partiv̆am** | **partissem** | | | **partív̆amus** | **partíssemus** | |
+| | **partiv̆am** | **partissem** | **partiv̆ĕram** | | **partív̆amus** | **partíssemus** | **partív̆ĕramus** |
 | | **partirei** | **partirĕm** | | | **partiremus** | **partirĕmus** | |
 | 2. | | | | | | | |
 | | **partïs** | **partas** | **partiŭĭstï** | | **partiđis** | **partađis** | **partiŭĭstïs** |
-| | **partiv̆as** | **partisses** | | | **partív̆äđis** | **partísseđis** | |
+| | **partiv̆as** | **partisses** | **partiv̆ĕras** | | **partív̆äđis** | **partísseđis** | **partív̆ĕräđis** |
 | | **partirás** | **partires** | | | **partiređis** | **partirĕdïs** | |
 | 3. | | | | | | | |
 | | **partït** | **partat** | **partiuĭt** | | **partïnt** @ | **partant** | **partiŭĭrant** |
-| | **partiv̆at** | **partisset** | | | **partiv̆ant** | **partissent** | |
+| | **partiv̆at** | **partisset** | **partiv̆ĕrat** | | **partiv̆ant** | **partissent** | **partiv̆ĕrant** |
 | | **partirát** | **partirĕt** | | | **partirão** | **partirent** | |
 
 | | singular | | | | plural | | |
 |-|-|-|-|-|-|-|-|
 | 1. | | | | | | | |
 | | **venĭo** | **venĭam** | **vėnĭŭĭ** | | **vĕn̆imus** | **venĭamus** | **vėn̆ïŭĭmus** |
-| | **vėnĭv̆am** | **vėn̆ïssem** | **vėn̆eram** | | **vėnĭv̆amus** | **vėn̆ïssemus** | **vėn̆eramus** |
+| | **vėnĭv̆am** | **vėn̆ïssem** | **vėn̆ĭv̆eram** | | **vėnĭv̆amus** | **vėn̆ïssemus** | **vėn̆ĭv̆eramus** |
 | | **vĕn̆irei** | **vėn̆ïrĕm** | **vĕn̆iriam** | | **vĕn̆iremus** | **vėn̆ïrĕmus** | **vĕn̆iríamus** |
 | 2. | | | | | | | |
 | | **venĭs** | **venĭas** | **vėn̆ïŭĭstï** | | **vėnĭdïs** | **venĭađis** | **vėn̆ïŭĭstïs** |
-| | **vėnĭv̆as** | **vėn̆ïsses** | **vėn̆eras** | | **vėnĭv̆äđis** | **vėn̆ïsseđis** | **vėn̆eräđis** |
+| | **vėnĭv̆as** | **vėn̆ïsses** | **vėn̆ĭv̆eras** | | **vėnĭv̆äđis** | **vėn̆ïsseđis** | **vėn̆ĭv̆eräđis** |
 | | **vĕn̆irás** | **vėn̆ïres** | **vĕn̆irias** | | **vĕn̆iređis** | **vėn̆ïrĕdïs** | **vĕn̆iríäđis** |
 | 3. | | | | | | | |
 | | **venĭt** | **venĭat** | **ven̆iůĭt** | | **venĭnt** @ | **venĭant** | **vėn̆ïŭĕrant** |
-| | **vėnĭv̆at** | **vėn̆ïsset** | **vėn̆erat** | | **vėnĭv̆ant** | **vėn̆ïssent** | **vėn̆erant** |
+| | **vėnĭv̆at** | **vėn̆ïsset** | **vėn̆ĭv̆erat** | | **vėnĭv̆ant** | **vėn̆ïssent** | **vėn̆ĭv̆erant** |
 | | **vĕn̆irát** | **vėn̆ïrĕt** | **vĕn̆iriat** | | **vĕn̆irão** | **vėn̆ïrent** | **vĕn̆iríant** |
