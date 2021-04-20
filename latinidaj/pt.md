@@ -501,6 +501,14 @@
 | | **amavat** | **amav̆ĭsset** | **amav̆ĕrat** | | **amavant** | **amav̆ĭssent** | **amav̆ĕrant** |
 | | **amarát** | **amarĕt** | **amariat** | | **amarão** | **amarent** | **amariant** |
 
+* amō amem amāvī amāverim
+* amābam amārem amāveram amāvissem
+* amābō   amāverō
+
+* Konjunktiv Imperfekt → Subjuntivo do Futuro
+* Konjunktiv Plusquamperfekt → Subjuntivo do Pretérito Imperfeito
+* ? → Condicional = Futuro do Pretérito
+
 ### -irĕ
 
 | | singular | | | | plural | | |
@@ -516,7 +524,7 @@
 | 3. | | | | | | | |
 | | **partït** | **partat** | **partiuĭt** | | **partïnt** @ | **partant** | **partiŭĭrant** |
 | | **partiv̆at** | **partisset** | **partiv̆ĕrat** | | **partiv̆ant** | **partissent** | **partiv̆ĕrant** |
-| | **partirát** | **partirĕt** | | | **partirão** | **partirent** | |
+| | **partirát** | **partirĕt** | | | **partirão** | **partirent** | @ |
 
 | | singular | | | | plural | | |
 |-|-|-|-|-|-|-|-|
