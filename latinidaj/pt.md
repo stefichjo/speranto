@@ -489,31 +489,41 @@
 | | singular | | | | plural | | |
 |-|-|-|-|-|-|-|-|
 | 1. | | | | | | | |
-| | **amo**    | **amäŭi**    | **amem**      | | **amamus**   | **amaŭĭmus**   | **amemus** |
-| | **amavam** | **amav̆ĕram** | **amav̆ĭssem** | | **amávamus** | **amáv̆ĕramus** | **amáv̆ĭssemus** |
-| | **amarei** | **amariam**  | **amarĕm**    | | **amaremus** |  **amaríamus** | **amarĕmus** |
+| | **amo**    | **amäŭi**    | **amem**      | | **amamus**   | **amaŭĭmus**    | **amemus**      |
+| | **amavam** | **amav̆ĕram** | **amav̆ĭssem** | | **amávamus** | **amáv̆ĕramus**  | **amáv̆ĭssemus** |
+| | **amarei** | **amariƀam** | **amarĕm**    | | **amaremus** |  **amaríƀamus** | **amarĕmus**    |
 | 2. | | | | | | | |
-| | **amas**   | **amaŭĭstï** | **ames**      | | **amađis**   | **amaŭĭstïs**  | **ameđis** |
-| | **amavas** | **amav̆ĕras** | **amav̆ĭsses** | | **amáväđis** | **amáv̆ĕräđis** | **amáv̆ĭsseđis** |
-| | **amarás** | **amarias**  | **amares**    | | **amaređis** | **amaríäđis**  | **amarĕdïs** |
+| | **amas**   | **amaŭĭstï** | **ames**      | | **amađis**   | **amaŭĭstïs**   | **ameđis**      |
+| | **amavas** | **amav̆ĕras** | **amav̆ĭsses** | | **amáväđis** | **amáv̆ĕräđis**  | **amáv̆ĭsseđis** |
+| | **amarás** | **amariƀas** | **amares**    | | **amaređis** | **amaríƀäđis**  | **amarĕdïs**    |
 | 3. | | | | | | | |
-| | **amat**   | **amåuĭt**   | **amet**      | | **amant**    | **amaŭĭrant**  | **ament** |
-| | **amavat** | **amav̆ĕrat** | **amav̆ĭsset** | | **amavant**  | **amav̆ĕrant**  | **amav̆ĭssent** |
-| | **amarát** | **amariat**  | **amarĕt**    | | **amarão**   | **amariant**   | **amarent** |
+| | **amat**   | **amåuĭt**   | **amet**      | | **amant**    | **amaŭĭrant**  | **ament**       |
+| | **amavat** | **amav̆ĕrat** | **amav̆ĭsset** | | **amavant**  | **amav̆ĕrant**  | **amav̆ĭssent**  |
+| | **amarát** | **amariƀat** | **amarĕt**    | | **amarão**   | **amariƀant**  | **amarent**     |
 
 | | singularis | | | | | | pluralis | | |
 |-|-|-|-|-|-|-|-|-|-|
 | 1. | | | | | | | | | |
-| | **amō**    | **amāvī**    | **amem**   | **amāverim**  | | **amāmus** | **amāvimus** | | |
-| | **amābam** | **amāveram** | **amārem** | **amāvissem** | | | | | |
-| | **amābō**  | **amāverō**  |            |               | | | | | |
+| | **amō**    | **amāvī**    | **amem**   | **amāverim**  | | **amāmus**   | **amāvimus**   | **amēmus**   | **amāverimus**  |
+| | **amābam** | **amāveram** | **amārem** | **amāvissem** | | **amābāmus** | **amāverāmus** | **amārēmus** | **amāvissēmus** |
+| | **amābō**  | **amāverō**  |            |               | | **amābimus** | **amāverimus** |              |                 |
 | 2. | | | | | | | | | |
-| | **amās**   | **amāvistī** |            |               | | **amātis** | **amāvistis** | | |
+| | **amās**   | **amāvistī** | **amēs**   | **amāveris**  | | **amātis**   | **amāvistis**  | **amētis**   | **amāveritis**  |
+| | **amābās** | **amāverās** | **amārēs** | **amāvissēs** | | **amābātis** | **amāverātis** | **amārētis** | **amāvissētis** |
+| | **amābis** | **amāveris** |            |               | | **amābitis** | **amāveritis** |              |                 |
 | 3. | | | | | | | | | |
-| | **amat**   | **amāvit**   |            |               | | **amant**  | **amāvïrunt** | | |
+| | **amat**   | **amāvit**   | **amet**   | **amāverit**  | | **amant**    | **amāvïrunt**  | **ament**    | **amāverint**   |
+| | **amābat** | **amāverat** | **amāret** | **amāvisset** | | **amābant**  | **amāverant**  | **amārent**  | **amāvissent**  |
+| | **amābit** | **amāverit** |            |               | | **amābunt**  | **amāverint**  |              |                 |
+
 * Konjunktiv Imperfekt → Subjuntivo do Futuro
 * Konjunktiv Plusquamperfekt → Subjuntivo do Pretérito Imperfeito
 * ? → Condicional = Futuro do Pretérito
+
+* Futuro do Presente = Infinitivo + Presente di "haver"
+* Futuro do Pretérito = Infinitivo + Pretérito Imperfeito de "ir"
+* Futuro = Infinito + Presente di "avere" (sentir-ho, sentir-hai, sentir-ha, sentir-(av)-emo, sentir-(av)-ete, sentir-hanno)
+* Condizionale = Infinito + Passato Remoto di "avere" (sentir-e(bb)i, sentir-(av)esti, sentir-ebbe, sentir-(av)emmo, sentir-(av)este, sentir-ebbero)
 
 ### -irĕ
 
