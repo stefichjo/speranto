@@ -501,7 +501,7 @@
 | | **amavat** | **amaŭĕrat** | **amaŭĭsset** | | **amavant**  | **amaŭĕrant**  | **amaŭĭssent**  |
 | | **amarát** | **amariƀat** | **amarĕt**    | | **amarão**   | **amariƀant**  | **amarent**     |
 
-| | singularis | | | | | | pluralis | | |
+| | singularis | | | | | pluralis | | | |
 |-|-|-|-|-|-|-|-|-|-|
 | 1. | | | | | | | | | |
 | | **amō**    | **amāvī**    | **amem**   | **amāverim**  | | **amāmus**   | **amāvimus**   | **amēmus**   | **amāverimus**  |
@@ -536,7 +536,7 @@
 | 3. | | | | | | | |
 | | | | | | | | |
 
-| | singularis | | | | | | pluralis | | |
+| | singularis | | | | | pluralis | | | |
 |-|-|-|-|-|-|-|-|-|-|
 | 1. | | | | | | | | | |
 | | **habeō** | **habuī**    | **habeam** | | | | | | |
