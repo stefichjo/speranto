@@ -277,7 +277,7 @@ La radiko de (latin(id)a) verbo estas tiu de la unua persono en ununombro.
 | *mi plaĉas* | **mi plaĉan** |
 | *mi povas* | **mi possan** |
 
-***En poezio***, la verboj **stadu**, **statu** kaj **staru** perdas siajn ŝajnfinaĵojn **-ad-**, **-at-** kaj **-ra-**.
+***En poezio***, la verboj **stadu**, **statu** kaj **staru** perdas siajn ŝajnfinaĵojn **-ad-**, **-at-** kaj **-ar-**.
 
 | | | poezie |
 |-|-|-|
