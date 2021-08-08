@@ -1,6 +1,6 @@
 # Lingua
 
-***Lingvao*** baziĝas sur la ***Latina***. Dialekto de ***Lingvao*** estas [***Lingveo***](lingue.md).
+***Lingvao*** baziĝas sur la ***Latina***. Dialekto de ***Lingvao*** estas [***Lingveo***](lingue.md). Planlingvoj similaj al ***Lingvao*** estas [***Interlingvao***](https://eo.wikipedia.org/wiki/Interlingvao) kaj [***Gloso***](https://eo.wikipedia.org/wiki/Gloso_(planlingvo)).
 
 ## Prononco
 
