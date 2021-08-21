@@ -1,6 +1,6 @@
 # Nïderlandĭsh Spelling
 
-## a
+## a = a/aa
 
 * **mann** [man]
 * **hand** [hand]
@@ -10,108 +10,168 @@
 * **har** [haar]
 * **dar** [daar]
 
-### ã
+### ă
+
+* **dăg** [dag]
+* **dagen** [dagen]
+* **lăs** [las]
+* **lasen** [lazen]
+
+## ã = aai
 
 * **mãen** [maaien]
 
-## e
+## e = e/ee
 
 * **best** [best]
+* **gēst** [geest]
 * **sten** [steen]
 * **ben** [been]
+* **bĕn** [ben]
 
-### ẽ
+### ĕ
+
+* **staĕn** [staan]
+
+## ẽ = ei
 
 * **klẽn** [klein]
+* **ẽ** [ei]
 
-## i
+## i = i/ie
 
 * **wind** [wind]
 * **fir** [vier]
 * **hir** [hier]
 
-### ĩ
+## ĩ = ij
 
 * **mĩn** [mijn]
 * **frĩ** [vrij]
 
-## o
+## o = o/oo
 
 * **post** [post]
 * **brod** [brood]
 * **horen** [horen]
+* **lopen** [lopen]
+* **nōrd** [noord]
 
-### ø
+## ø = eu
 
 * **dør** [deur]
 
-### ø̃
+## ø̃ = eeuw
 
 * **lø̃** [leeuw]
+* **ø̃** [eeuw]
 
-### ǒ
+## ǒ = u = oe
 
-* **fǒlen** [voelen]
-* **bǒk** [boek]
-* **sǒken** [zoeken]
-* **grǒn** [groen]
-* **fǒt** [voet]
+* **fǒlen** = **fullen** [voelen]
+* **bǒk** = **bukk** [boek]
+* **sǒken** = **sukken** [zoeken]
+* **grǒn** = **grunn** [groen]
+* **fǒt** = **futt** [voet]
 
-## u
+## ũ = õ = ouw
 
-* **nu** [nou]
-* **fru** [vrouw]
+* **nũ** = **nõ** [nou]
+* **frũ** = **frõ** [vrouw]
+* **trũ** = **trõ** [trouw]
+* **bũen** = **bõen** [bouwen]
 
-### y
+* **pau** [pauw]
+* **pause** [pauze]
+
+## y = u
 
 * **kyst** [kust]
 * **dyr** [duur]
 
-#### ỹ
+## ỹ = ieuw
 
 * **nỹ** [nieuw]
 
-### ů
+## ů = o/oo
 
 * **sůnn** [zon]
 * **můnd** [mond]
 * **růnd** [rond]
 * **fůgel** [vogel]
 
-### ũ
+## ũ = ui
 
 * **hũs** [huis]
 * **mũs** [muis]
 * **frũt** [fruit]
 
-## f
+## c
+
+* **cũcr** [suiker]
+
+## de
+
+* **horde** [hoorde]
+
+### đ
+
+* **sollđ** [zou]
+* **sollden** [zouden]
+* **wollđ** [wou]
+* **wollden** [wouden]
+
+## f = v
 
 * **fallen** [vallen]
 * **fǒlen** [voelen]
+* **film** [film]
+
+### ft = cht
+
+* **graft** [gracht]
+* **koft** [kocht]
+* **kraft** [kracht]
+* **luft** [lucht]
+
+* **drift** [drift]
+* **gift** [gift]
+* **stift** [stift]
+
+## ġ
+
+* **seġđ** [zei]
 
 ## l
 
-* **ald** = **ał** [oud]
+* **ald** = **ałd** [oud]
 * **salt** = **sałt** [zout]
 * **holt** = **hołt** [hout]
 * **shulder** = **shułder** [shouder]
 
-## s
+## s = s/z
 
 * **sand** [zand]
 * **esel** [ezel]
 * **ros** [roos]
+* **sůmm** [som]
 
-## sh
+## sch = s/sch
 
-* **fish** [vis]
-* **washen** [wassen]
-* **nederlandĭsh** [nederlands]
+* **bůsch** [bos]
+* **fisch** [vis]
+* **waschen** [wassen]
+* **Nederlandĭsch** [Nederlands]
+* **Belgisch** [Belgisch]
 
-## v
+## v = f/v
 
-* **halv** [half]
-  * **halve** [halve]
+* **selv** [zelf]
+* **selve** [zelve]
+* **gev** [geef]
+* **geven** [geven]
+* **găv** [gaf]
+* **gaven** [gaven]
 
 ## wh
 
@@ -123,3 +183,8 @@
 * **wax** [was]
 * **waxen** [wassen]
 
+----
+
+Hĩ fertellde me dat hĩ in het hũs fan sĩn alders was blĩven wonen.
+
+Als je erfan hild, dan hadd je er en ring om mǒten dǒĕn.
