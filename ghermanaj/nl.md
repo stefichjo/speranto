@@ -156,13 +156,14 @@
 * **ros** [roos]
 * **sůmm** [som]
 
-## sch = s/sch
+## sh = s/sh
 
-* **bůsch** [bos]
-* **fisch** [vis]
-* **waschen** [wassen]
-* **Nederlandĭsch** [Nederlands]
-* **Belgisch** [Belgisch]
+* **bůsh** [bos]
+* **fish** [vis]
+* **shol** [school]
+* **washen** [wassen]
+* **Nederlandĭsh** [Nederlands]
+* **Belgish** [Belgisch]
 
 ## v = f/v
 
