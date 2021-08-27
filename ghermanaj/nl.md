@@ -192,26 +192,28 @@
 
 ### a
 
-| ē/ĭ | ă, ā | ē |
+| ē | ă, ā | ē |
 |-|-|-|
 | eten | ăt, aten | *gegeten* |
 | fergeten | fergăt, fergaten | fergeten |
 | geven | găv, gaven | gegeven |
 | lesen | lăs, lasen | gelesen |
-| liggen | lăg, lagen | gelegen |
-| sitten | săt, saten | geseten |
 | weten | *wist* | geweten |
 
-| ē/ĭ | ă, ā | ō |
+| ē | ă, ā | ō |
 |-|-|-|
 | breken | brăk, braken | gebroken |
 | nemen | năm, namen | genomen |
 | spreken | sprăk, spraken | gesproken |
 
+| ĭ | ă, ā | ē |
+|-|-|-|
+| liggen | lăg, lagen | gelegen |
+| sitten | săt, saten | geseten |
+
 | i | ă, ā | i |
 |-|-|-|
 | *sin* | săgh, saghen | *gesien* |
-| sitten | săt, saten | geseten |
 
 | ō | ă, ā | ō |
 |-|-|-|
@@ -247,6 +249,7 @@
 | slapen | slip | geslapen |
 
 | a | ī | a |
+|-|-|-|
 | fallen | fīll = fiell | gefallen |
 | halden | hīld = hield | gehalden |
 
