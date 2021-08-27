@@ -190,47 +190,12 @@
 
 ## ge- + -en
 
-| a | i/ī | a |
-|-|-|-|
-| fallen | fīll = fiell | gefallen |
-| fangen | fing | gefangen |
-| halden | hīld = hield | gehalden |
-| hangen | hing | gehangen |
-| laten | lit | gelaten |
-| raden | rid | geraden |
-| slapen | slip | geslapen |
-
 | a | ... | a |
 |-|-|-|
 | dragen | drǒg | gedragen |
 | *gan* | *ging* | *gegan* |
 | *stan* | *stånd* | *gestan* |
 | *slaan* | slǒg | geslagen |
-
-| ē/ĭ | ŏ | ŏ |
-|-|-|-|
-| beginnen | begånn | gegůnnen |
-| drinken | drånk | gedrůnken |
-| ferslinden | ferslånd | ferslůnden |
-| finden | fånd | gefůnden |
-| singen | sång | gesůngen |
-| sinken | sånk | gesůnken |
-| *swemmen* | swåmm | geswůmmen |
-
-| ĕ/ī | o | o |
-|-|-|-|
-| feghten | foght | gefoghten |
-| ferliren | ferlor | ferloren |
-| fligen | flog | geflogen |
-| frisen | *fror* | *gefroren* |
-| giten | got | gegoten |
-| kisen | kos | gekosen |
-| ligen | log | gelogen |
-| *sheren* | shor | geshoren |
-| shiten | shot | geshoten |
-| *slũten* | slot | gesloten |
-| *wegen* | wog | gewogen |
-| winnen | wonn | gewonnen |
 
 | ĩ | ē | ē |
 |-|-|-|
@@ -276,7 +241,47 @@
 |-|-|-|
 | komen | *kwăm*, *kwamen* | gekomen |
 
+### i/ī
 
+| a | i/ī | a |
+|-|-|-|
+| fallen | fīll = fiell | gefallen |
+| fangen | fing | gefangen |
+| halden | hīld = hield | gehalden |
+| hangen | hing | gehangen |
+| laten | lit | gelaten |
+| raden | rid | geraden |
+| slapen | slip | geslapen |
+
+### o
+
+| ĕ | o | o |
+|-|-|-|
+| feghten | foght | gefoghten |
+
+| ī | o | o |
+|-|-|-|
+| ferliren | ferlor | ferloren |
+| fligen | flog | geflogen |
+| frisen | *fror* | *gefroren* |
+| giten | got | gegoten |
+| kisen | kos | gekosen |
+| ligen | log | gelogen |
+| *sheren* | shor | geshoren |
+| shiten | shot | geshoten |
+| *slũten* | slot | gesloten |
+| *wegen* | wog | gewogen |
+| winnen | wonn | gewonnen |
+
+| ĭ | å | ů |
+|-|-|-|
+| beginnen | begånn | gegůnnen |
+| drinken | drånk | gedrůnken |
+| ferslinden | ferslånd | ferslůnden |
+| finden | fånd | gefůnden |
+| singen | sång | gesůngen |
+| sinken | sånk | gesůnken |
+| *swemmen* | swåmm | geswůmmen |
 
 ## ge- + -t
 
