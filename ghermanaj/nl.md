@@ -255,12 +255,9 @@
 
 ### o
 
-| ĕ | o | o |
-|-|-|-|
-| feghten | foght | gefoghten |
-
 | ī | o | o |
 |-|-|-|
+| *feghten* | foght | gefoghten |
 | ferliren | ferlor | ferloren |
 | fligen | flog | geflogen |
 | frisen | *fror* | *gefroren* |
