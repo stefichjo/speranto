@@ -190,31 +190,7 @@
 
 ## ge- + -en
 
-| a | ... | a |
-|-|-|-|
-| dragen | drǒg | gedragen |
-| *gan* | *ging* | *gegan* |
-| *stan* | *stånd* | *gestan* |
-| *slaan* | slǒg | geslagen |
-
-| ĩ | ē | ē |
-|-|-|-|
-| bĩten | bet | gebeten |
-| blĩven | blev | gebleven |
-| drĩven | drev | gedreven |
-| kĩken | kek | gekeken |
-| krĩgen | kreg | gekregen |
-| rĩden | red | gereden |
-| rĩten | ret | gereten |
-| rĩsen | res | geresen |
-| shĩnen | shen | geshenen |
-| shrĩden | shred | geshreden |
-| shrĩven | shrev | geshreven |
-| snĩden | sned | gesneden |
-| strĩden | stred | gestreden |
-| wĩsen | wes | gewesen |
-
-### ă, ā
+### a
 
 | ē/ĭ | ă, ā | ē |
 |-|-|-|
@@ -241,17 +217,38 @@
 |-|-|-|
 | komen | *kwăm*, *kwamen* | gekomen |
 
-### i/ī
+### e
 
-| a | i/ī | a |
+| ĩ | ē | ē |
 |-|-|-|
-| fallen | fīll = fiell | gefallen |
+| bĩten | bet | gebeten |
+| blĩven | blev | gebleven |
+| drĩven | drev | gedreven |
+| kĩken | kek | gekeken |
+| krĩgen | kreg | gekregen |
+| rĩden | red | gereden |
+| rĩten | ret | gereten |
+| rĩsen | res | geresen |
+| shĩnen | shen | geshenen |
+| shrĩden | shred | geshreden |
+| shrĩven | shrev | geshreven |
+| snĩden | sned | gesneden |
+| strĩden | stred | gestreden |
+| wĩsen | wes | gewesen |
+
+### i
+
+| a | i | a |
+|-|-|-|
 | fangen | fing | gefangen |
-| halden | hīld = hield | gehalden |
 | hangen | hing | gehangen |
 | laten | lit | gelaten |
 | raden | rid | geraden |
 | slapen | slip | geslapen |
+
+| a | ī | a |
+| fallen | fīll = fiell | gefallen |
+| halden | hīld = hield | gehalden |
 
 ### o
 
@@ -268,7 +265,6 @@
 | shiten | shot | geshoten |
 | *slũten* | slot | gesloten |
 | *wegen* | wog | gewogen |
-| winnen | wonn | gewonnen |
 
 | ĭ | å | ů |
 |-|-|-|
@@ -279,6 +275,21 @@
 | singen | sång | gesůngen |
 | sinken | sånk | gesůnken |
 | *swemmen* | swåmm | geswůmmen |
+| winnen | wånn | gewůnnen |
+
+### ǒ
+
+| a | ǒ | a |
+|-|-|-|
+| dragen | drǒg | gedragen |
+| *slaan* | slǒg | geslagen |
+
+### *
+
+| a | * | a |
+|-|-|-|
+| *gan* | *ging* | *gegan* |
+| *stan* | *stånd* | *gestan* |
 
 ## ge- + -t
 
