@@ -76,10 +76,10 @@
 
 ## ũ = õ = ouw
 
-* **nũ** = **nõ** [nou]
-* **frũ** = **frõ** [vrouw]
-* **trũ** = **trõ** [trouw]
-* **bũen** = **bõen** [bouwen]
+* **nũ** [nou]
+* **frũ** [vrouw]
+* **trũ** [trouw]
+* **bũen** [bouwen]
 
 * **pau** [pauw]
 * **pause** [pauze]
@@ -130,7 +130,7 @@
 ### ft = cht
 
 * **graft** [gracht]
-* **koft** [kocht]
+* **koft** = **kopht** [kocht]
 * **kraft** [kracht]
 * **luft** [lucht]
 
@@ -148,6 +148,8 @@
 * **salt** = **sałt** [zout]
 * **holt** = **hołt** [hout]
 * **shulder** = **shułder** [shouder]
+* **hīld** [hield]
+* **halđ** = **hałđ** [hou]
 
 ## s = s/z
 
@@ -184,8 +186,112 @@
 * **wax** [was]
 * **waxen** [wassen]
 
-----
+# Werkwōrden
 
-Hĩ fertellde me dat hĩ in het hũs fan sĩn alders was blĩven wonen.
+## ge- + -en
 
-Als je erfan hild, dan hadd je er en ring om mǒten dǒĕn.
+| a | i/ī | a |
+|-|-|-|
+| fallen | fīll = fiell | gefallen |
+| fangen | fing | gefangen |
+| halden | hīld = hield | gehalden |
+| hangen | hing | gehangen |
+| laten | lit | gelaten |
+| raden | rid | geraden |
+| slapen | slip | geslapen |
+
+| a | ... | a |
+|-|-|-|
+| dragen | drǒg | gedragen |
+| *gan* | *ging* | *gegan* |
+| *stan* | *stånd* | *gestan* |
+| *slaan* | slǒg | geslagen |
+
+| ē/ĭ | ŏ | ŏ |
+|-|-|-|
+| beginnen | begånn | gegůnnen |
+| drinken | drånk | gedrůnken |
+| ferslinden | ferslånd | ferslůnden |
+| finden | fånd | gefůnden |
+| singen | sång | gesůngen |
+| sinken | sånk | gesůnken |
+| *swemmen* | swåmm | geswůmmen |
+
+| ĕ/ī | o | o |
+|-|-|-|
+| feghten | foght | gefoghten |
+| ferliren | ferlor | ferloren |
+| fligen | flog | geflogen |
+| frisen | *fror* | *gefroren* |
+| giten | got | gegoten |
+| kisen | kos | gekosen |
+| ligen | log | gelogen |
+| *sheren* | shor | geshoren |
+| shiten | shot | geshoten |
+| *slũten* | slot | gesloten |
+| *wegen* | wog | gewogen |
+| winnen | wonn | gewonnen |
+
+| ĩ | ē | ē |
+|-|-|-|
+| bĩten | bet | gebeten |
+| blĩven | blev | gebleven |
+| drĩven | drev | gedreven |
+| kĩken | kek | gekeken |
+| krĩgen | kreg | gekregen |
+| rĩden | red | gereden |
+| rĩten | ret | gereten |
+| rĩsen | res | geresen |
+| shĩnen | shen | geshenen |
+| shrĩden | shred | geshreden |
+| shrĩven | shrev | geshreven |
+| snĩden | sned | gesneden |
+| strĩden | stred | gestreden |
+| wĩsen | wes | gewesen |
+
+### ă, ā
+
+| ē/ĭ | ă, ā | ē |
+|-|-|-|
+| eten | ăt, aten | *gegeten* |
+| fergeten | fergăt, fergaten | fergeten |
+| geven | găv, gaven | gegeven |
+| lesen | lăs, lasen | gelesen |
+| liggen | lăg, lagen | gelegen |
+| sitten | săt, saten | geseten |
+| weten | *wist* | geweten |
+
+| ē/ĭ | ă, ā | ō |
+|-|-|-|
+| breken | brăk, braken | gebroken |
+| nemen | năm, namen | genomen |
+| spreken | sprăk, spraken | gesproken |
+
+| i | ă, ā | i |
+|-|-|-|
+| *sin* | săgh, saghen | *gesien* |
+| sitten | săt, saten | geseten |
+
+| ō | ă, ā | ō |
+|-|-|-|
+| komen | *kwăm*, *kwamen* | gekomen |
+
+
+
+## ge- + -t
+
+| | | |
+|-|-|-|
+| seggen | seġ/seggde | geseggd |
+| sǒken | soghte | gesoght |
+
+| en/in | *ă | *ă |
+|-|-|-|
+| brengen | braght | gebraght |
+| denken | daght | gedaght |
+| | | |
+| kopen | kopht | gekopht |
+
+* **koft** = **kopht** [kocht]
+* **seggde** = **segg-de** [zegde]
+* **geseggd** = **gesegg-d** [gezegd]
