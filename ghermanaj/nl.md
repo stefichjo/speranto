@@ -54,7 +54,6 @@
 * **post** [post]
 * **brod** [brood]
 * **horen** [horen]
-* **lopen** [lopen]
 * **nōrd** [noord]
 
 ## ø = eu
@@ -205,15 +204,13 @@
 | breken | brăk, braken | gebroken |
 | nemen | năm, namen | genomen |
 | spreken | sprăk, spraken | gesproken |
+| steken | stăk, staken | gestoken |
 
 | ĭ | ă, ā | ē |
 |-|-|-|
 | liggen | lăg, lagen | gelegen |
 | sitten | săt, saten | geseten |
-
-| i | ă, ā | i |
-|-|-|-|
-| *sin* | săgh, saghen | *gesien* |
+| *sin* | săgh, saghen | *gesin* |
 
 | ō | ă, ā | ō |
 |-|-|-|
@@ -253,7 +250,23 @@
 | fallen | fīll = fiell | gefallen |
 | halden | hīld = hield | gehalden |
 
+| o | ī | o |
+|-|-|-|
+| lopen | lip | gelopen |
+
 ### o
+
+| ĭ | å | ů |
+|-|-|-|
+| beginnen | begånn | gegůnnen |
+| drinken | drånk | gedrůnken |
+| ferslinden | ferslånd | ferslůnden |
+| finden | fånd | gefůnden |
+| singen | sång | gesůngen |
+| sinken | sånk | gesůnken |
+| *swemmen* | swåmm | geswůmmen |
+| *treffen* | tråff | getrůffen |
+| winnen | wånn | gewůnnen |
 
 | ī | o | o |
 |-|-|-|
@@ -266,19 +279,13 @@
 | ligen | log | gelogen |
 | *sheren* | shor | geshoren |
 | shiten | shot | geshoten |
-| *slũten* | slot | gesloten |
 | *wegen* | wog | gewogen |
 
-| ĭ | å | ů |
+| ũ | o | o |
 |-|-|-|
-| beginnen | begånn | gegůnnen |
-| drinken | drånk | gedrůnken |
-| ferslinden | ferslånd | ferslůnden |
-| finden | fånd | gefůnden |
-| singen | sång | gesůngen |
-| sinken | sånk | gesůnken |
-| *swemmen* | swåmm | geswůmmen |
-| winnen | wånn | gewůnnen |
+| bũgen | bog | gebogen |
+| slũten | slot | gesloten |
+| sũpen | sop | gesopen |
 
 ### ǒ
 
@@ -307,6 +314,15 @@
 | denken | daght | gedaght |
 | | | |
 | kopen | kopht | gekopht |
+
+| ? | ? | ? |
+|-|-|-|
+| mogen, măg | moght | gemoght |
+| mǒten | mǒst | gemǒten |
+| kunnen, kann | konn | gekunnd |
+| sullen, sall | sollđ, sollden | gesulld |
+| durven | dorst/durvde | gedurvd |
+| worden | werd | geworden |
 
 * **koft** = **kopht** [kocht]
 * **seggde** = **segg-de** [zegde]
