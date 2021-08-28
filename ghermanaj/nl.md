@@ -95,6 +95,14 @@
 * **mĩn** [mijn]
 * **frĩ** [vrij]
 
+## õ = ouw
+
+* **frõ** [vrouw]
+* **trõ** [trouw]
+
+* **pau** [pauw]
+* **pause** [pauze]
+
 ## ø̃ = eeuw
 
 * **lø̃** [leeuw]
@@ -103,12 +111,7 @@
 ## ũ = ouw
 
 * **nũ** [nou]
-* **frũ** [vrouw]
-* **trũ** [trouw]
 * **bũen** [bouwen]
-
-* **pau** [pauw]
-* **pause** [pauze]
 
 ## ũ = ui
 
