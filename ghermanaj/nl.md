@@ -5,12 +5,7 @@
 ### a = a/aa
 
 * **mann** [man]
-* **hand** [hand]
-* **arm** [arm]
-* **klar** [klaar]
-* **jar** [jaar]
-* **har** [haar]
-* **dar** [daar]
+* **man** [maan]
 
 #### ă
 
@@ -22,7 +17,6 @@
 * **best** [best]
 * **gēst** [geest]
 * **sten** [steen]
-* **ben** [been]
 
 #### ĕ
 
@@ -30,23 +24,23 @@
 
 ### i = i/ie
 
-* **wind** [wind]
 * **fir** [vier]
 * **hir** [hier]
+* **wind** [wind]
 
 ### o = o/oo
 
-* **post** [post]
 * **brod** [brood]
 * **horen** [horen]
 * **nōrd** [noord]
+* **post** [post]
 
 #### ǒ = u = oe
 
 * **bǒk** [boek]
-* **fǒlen** = **fø̆len** [voelen]
+* **fǒlen** [voelen]
 * **fǒt** [voet]
-* **grǒn** = **grø̆n** [groen]
+* **grǒn** [groen]
 * **mǒder** [moeder]
 * **sǒken** [zoeken]
 
@@ -58,8 +52,8 @@
 ### u
 
 * **buĕr** [boer]
-* **tour** [toer]
-* **parcour** = **parkur** [parcour]
+* **tur** = **tour** [toer]
+* **parkur** = **parcour** [parcour]
 
 #### ů = o/oo
 
@@ -75,7 +69,7 @@
 * **kyltur** = **cultur** [kultuur]
 * **kynst** [kunst]
 * **kyst** = **cust** [kust]
-* **myr** [muur]
+* **myr** = **mur** [muur]
 * **rysten** [rusten]
 * **syr** [zuur]
 
