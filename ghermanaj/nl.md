@@ -1,6 +1,8 @@
 # Nïderlandĭsh Spelling
 
-## a = a/aa
+## Klinkers
+
+### a = a/aa
 
 * **mann** [man]
 * **hand** [hand]
@@ -10,69 +12,95 @@
 * **har** [haar]
 * **dar** [daar]
 
-### ă
+#### ă
 
 * **dăg** [dag]
 * **dagen** [dagen]
-* **lăs** [las]
-* **lasen** [lazen]
 
-## ã = aai
-
-* **mãen** [maaien]
-
-## e = e/ee
+### e = e/ee
 
 * **best** [best]
 * **gēst** [geest]
 * **sten** [steen]
 * **ben** [been]
 
-### ĕ
+#### ĕ
 
 * **staĕn** [staan]
 
-## ẽ = ei
-
-* **klẽn** [klein]
-* **ẽ** [ei]
-
-## i = i/ie
+### i = i/ie
 
 * **wind** [wind]
 * **fir** [vier]
 * **hir** [hier]
 
-## ĩ = ij
-
-* **mĩn** [mijn]
-* **frĩ** [vrij]
-
-## o = o/oo
+### o = o/oo
 
 * **post** [post]
 * **brod** [brood]
 * **horen** [horen]
 * **nōrd** [noord]
 
-## ø = eu
+#### ǒ = u = oe
+
+* **bǒk** [boek]
+* **fǒlen** = **fø̆len** [voelen]
+* **fǒt** [voet]
+* **grǒn** = **grø̆n** [groen]
+* **mǒder** [moeder]
+* **sǒken** [zoeken]
+
+### ø = eu
 
 * **dør** [deur]
+* **løk** [leuk]
+
+### u
+
+* **buĕr** [boer]
+* **tour** [toer]
+* **parcour** = **parkur** [parcour]
+
+#### ů = o/oo
+
+* **sůnn** [zon]
+* **můnd** [mond]
+* **růnd** [rond]
+* **fůgel** [vogel]
+
+## y = u
+
+* **dyr** [duur]
+* **fyr** [vuur]
+* **kyltur** = **cultur** [kultuur]
+* **kynst** [kunst]
+* **kyst** = **cust** [kust]
+* **myr** [muur]
+* **rysten** [rusten]
+* **syr** [zuur]
+
+### Twïklanken
+
+## ã = aai
+
+* **mãen** [maaien]
+
+## ẽ = ei
+
+* **klẽn** [klein]
+* **ẽ** [ei]
+
+## ĩ = ij
+
+* **mĩn** [mijn]
+* **frĩ** [vrij]
 
 ## ø̃ = eeuw
 
 * **lø̃** [leeuw]
 * **ø̃** [eeuw]
 
-## ǒ = u = oe
-
-* **fǒlen** = **fullen** [voelen]
-* **bǒk** = **bukk** [boek]
-* **sǒken** = **sukken** [zoeken]
-* **grǒn** = **grunn** [groen]
-* **fǒt** = **futt** [voet]
-
-## ũ = õ = ouw
+## ũ = ouw
 
 * **nũ** [nou]
 * **frũ** [vrouw]
@@ -82,49 +110,39 @@
 * **pau** [pauw]
 * **pause** [pauze]
 
-## y = u
-
-* **kyst** [kust]
-* **dyr** [duur]
-
-## ỹ = ieuw
-
-* **nỹ** [nieuw]
-
-## ů = o/oo
-
-* **sůnn** [zon]
-* **můnd** [mond]
-* **růnd** [rond]
-* **fůgel** [vogel]
-
 ## ũ = ui
 
 * **hũs** [huis]
 * **mũs** [muis]
 * **frũt** [fruit]
 
-## c
+## ỹ = ieuw
+
+* **nỹ** [nieuw]
+
+## Medeklinkers
+
+### c
 
 * **cũcr** [suiker]
 
-## de
+### d
 
 * **horde** [hoorde]
 
-### đ
+#### đ
 
 * **sollđ** [zou]
 * **sollden** [zouden]
 * **wollđ** [wou]
 * **wollden** [wouden]
 
-## f = v
+### f = v
 
 * **fǒlen** [voelen]
 * **film** [film]
 
-### ft = cht
+#### ft = cht
 
 * **graft** [gracht]
 * **koft** = **kopht** [kocht]
@@ -135,25 +153,25 @@
 * **gift** [gift]
 * **stift** [stift]
 
-## ġ
+### ġ
 
 * **seġđ** [zei]
 
-## l
+### l
 
 * **ald** = **ałd** [oud]
 * **salt** = **sałt** [zout]
 * **holt** = **hołt** [hout]
 * **shůlder** = **shůłder** [shouder]
 
-## s = s/z
+### s = s/z
 
 * **sand** [zand]
 * **esel** [ezel]
 * **ros** [roos]
 * **sůmm** [som]
 
-## sh = s/sh
+#### sh = s/sh
 
 * **bůsh** [bos]
 * **fish** [vis]
@@ -161,16 +179,16 @@
 * **Nederlandĭsh** [Nederlands]
 * **Belgish** [Belgisch]
 
-## v = f/v
+### v = f/v
 
 * **selv** [zelf]
 * **selve** [zelve]
 
-## wh
+### wh
 
 * **whar** [waar]
 
-## x
+### x
 
 * **fůx** [vos]
 * **wax** [was]
@@ -297,14 +315,14 @@
 | a | ǒ | a |
 |-|-|-|
 | dragen | drǒg | gedragen |
-| *slaan* | slǒg | geslagen |
+| *slaĕn* | slǒg | geslagen |
 
 ### *
 
 | a | * | a |
 |-|-|-|
-| *gan* | *ging* | *gegan* |
-| *stan* | *stånd* | *gestan* |
+| *gaĕn* | *ging* | *gegaĕn* |
+| *staĕn* | *stånd* | *gestaĕn* |
 
 ## ge- + -t
 
@@ -324,12 +342,12 @@
 |-|-|-|
 | mogen, măg | moght | gemoght |
 | mǒten | mǒst | gemǒten |
-| kunnen, kann | konn | gekunnd |
-| sullen, sall | sollđ, sollden | gesulld |
-| durven | dorst/durvde | gedurvd |
+| kynnen, kann | konn | gekynnd |
+| syllen, sall | sollđ, sollden | gesylld |
+| dyrven | dorst/dyrvde | gedyrvd |
 | worden | werd | geworden |
 | hebben | hadd | gehadd |
-| zijn, benn | wăs, waren | gewest |
+| zĩn, benn | wăs, waren | gewest |
 | washen | washte | gewashen |
 | fragen | frǒg | gefragd |
 | laden | ladde | geladen |
