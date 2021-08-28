@@ -27,7 +27,6 @@
 * **gēst** [geest]
 * **sten** [steen]
 * **ben** [been]
-* **bĕn** [ben]
 
 ### ĕ
 
@@ -122,7 +121,6 @@
 
 ## f = v
 
-* **fallen** [vallen]
 * **fǒlen** [voelen]
 * **film** [film]
 
@@ -146,9 +144,7 @@
 * **ald** = **ałd** [oud]
 * **salt** = **sałt** [zout]
 * **holt** = **hołt** [hout]
-* **shulder** = **shułder** [shouder]
-* **hīld** [hield]
-* **halđ** = **hałđ** [hou]
+* **shůlder** = **shůłder** [shouder]
 
 ## s = s/z
 
@@ -162,7 +158,6 @@
 * **bůsh** [bos]
 * **fish** [vis]
 * **shol** [school]
-* **washen** [wassen]
 * **Nederlandĭsh** [Nederlands]
 * **Belgish** [Belgisch]
 
@@ -170,10 +165,6 @@
 
 * **selv** [zelf]
 * **selve** [zelve]
-* **gev** [geef]
-* **geven** [geven]
-* **găv** [gaf]
-* **gaven** [gaven]
 
 ## wh
 
@@ -183,7 +174,6 @@
 
 * **fůx** [vos]
 * **wax** [was]
-* **waxen** [wassen]
 
 # Werkwōrden
 
@@ -193,28 +183,29 @@
 
 | ē | ă, ā | ē |
 |-|-|-|
-| eten | ăt, aten | *gegeten* |
-| fergeten | fergăt, fergaten | fergeten |
-| geven | găv, gaven | gegeven |
-| lesen | lăs, lasen | gelesen |
+| eten | ăt | *gegeten* |
+| fergeten | fergăt | fergeten |
+| geven | găv | gegeven |
+| lesen | lăs | gelesen |
 | weten | *wist* | geweten |
 
 | ē | ă, ā | ō |
 |-|-|-|
-| breken | brăk, braken | gebroken |
-| nemen | năm, namen | genomen |
-| spreken | sprăk, spraken | gesproken |
-| steken | stăk, staken | gestoken |
+| breken | brăk | gebroken |
+| nemen | năm | genomen |
+| spreken | sprăk | gesproken |
+| steken | stăk | gestoken |
 
 | ĭ | ă, ā | ē |
 |-|-|-|
-| liggen | lăg, lagen | gelegen |
-| sitten | săt, saten | geseten |
-| *sin* | săgh, saghen | *gesin* |
+| bidden | băd | gebeden |
+| liggen | lăg | gelegen |
+| sitten | săt | geseten |
+| *sin* | săgh | *gesin* |
 
 | ō | ă, ā | ō |
 |-|-|-|
-| komen | *kwăm*, *kwamen* | gekomen |
+| komen | *kwăm* | gekomen |
 
 ### e
 
@@ -223,8 +214,12 @@
 | bĩten | bet | gebeten |
 | blĩven | blev | gebleven |
 | drĩven | drev | gedreven |
+| glĩden | gled | gegleden |
+| grĩpen | grep | gegrepen |
 | kĩken | kek | gekeken |
 | krĩgen | kreg | gekregen |
+| lĩden | led | geleden |
+| lĩken | lek | geleken |
 | rĩden | red | gereden |
 | rĩten | ret | gereten |
 | rĩsen | res | geresen |
@@ -233,6 +228,7 @@
 | shrĩven | shrev | geshreven |
 | snĩden | sned | gesneden |
 | strĩden | stred | gestreden |
+| strĩken | strek | gestreken |
 | wĩsen | wes | gewesen |
 
 ### i
@@ -249,6 +245,12 @@
 |-|-|-|
 | fallen | fīll = fiell | gefallen |
 | halden | hīld = hield | gehalden |
+| sterven | stīrv = stierv | gestorven |
+| waxen | wīx | gewaxen |
+
+| e | ī | o |
+|-|-|-|
+| helpen | hīlp = hielp | geholpen |
 
 | o | ī | o |
 |-|-|-|
@@ -259,9 +261,11 @@
 | ĭ | å | ů |
 |-|-|-|
 | beginnen | begånn | gegůnnen |
+| binden | bånd | gebůnden |
 | drinken | drånk | gedrůnken |
 | ferslinden | ferslånd | ferslůnden |
 | finden | fånd | gefůnden |
+| klinken | klånk | geklůnken |
 | singen | sång | gesůngen |
 | sinken | sånk | gesůnken |
 | *swemmen* | swåmm | geswůmmen |
@@ -270,6 +274,7 @@
 
 | ī | o | o |
 |-|-|-|
+| biden | bod | geboden |
 | *feghten* | foght | gefoghten |
 | ferliren | ferlor | ferloren |
 | fligen | flog | geflogen |
@@ -323,6 +328,11 @@
 | sullen, sall | sollđ, sollden | gesulld |
 | durven | dorst/durvde | gedurvd |
 | worden | werd | geworden |
+| hebben | hadd | gehadd |
+| zijn, benn | wăs, waren | gewest |
+| washen | washte | gewashen |
+| fragen | frǒg | gefragd |
+| laden | ladde | geladen |
 
 * **koft** = **kopht** [kocht]
 * **seggde** = **segg-de** [zegde]
