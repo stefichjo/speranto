@@ -37,6 +37,7 @@
 
 #### ǒ = u = oe
 
+* **bǒĕr** = **buĕr** [boer]
 * **bǒk** [boek]
 * **fǒlen** [voelen]
 * **fǒt** [voet]
@@ -51,7 +52,6 @@
 
 ### u
 
-* **buĕr** [boer]
 * **tur** = **tour** [toer]
 * **parkur** = **parcour** [parcour]
 
@@ -66,14 +66,15 @@
 
 * **dyr** [duur]
 * **fyr** [vuur]
-* **kyltur** = **cultur** [kultuur]
+* **kyltyr** = **cultur** [kultuur]
 * **kynst** [kunst]
 * **kyst** = **cust** [kust]
 * **myr** = **mur** [muur]
 * **rysten** [rusten]
+* **styren** [sturen]
 * **syr** [zuur]
 
-### Twïklanken
+### Tweklanken
 
 ## ã = aai
 
@@ -91,7 +92,9 @@
 
 ## õ = ouw
 
+* **bõen** = **bũen** [bouwen]
 * **frõ** [vrouw]
+* **nõ** = **nũ** [nou]
 * **trõ** [trouw]
 
 * **pau** [pauw]
@@ -102,16 +105,12 @@
 * **lø̃** [leeuw]
 * **ø̃** [eeuw]
 
-## ũ = ouw
-
-* **nũ** [nou]
-* **bũen** [bouwen]
-
 ## ũ = ui
 
+* **drũv** [druif]
+* **frũt** [fruit]
 * **hũs** [huis]
 * **mũs** [muis]
-* **frũt** [fruit]
 
 ## ỹ = ieuw
 
@@ -166,6 +165,7 @@
 * **sand** [zand]
 * **esel** [ezel]
 * **ros** [roos]
+
 * **sůmm** [som]
 
 #### sh = s/sh
@@ -189,6 +189,9 @@
 
 * **fůx** [vos]
 * **wax** [was]
+
+* **tax̄i** [taxi]
+* **tex̄t** [tekst]
 
 # Werkwōrden
 
@@ -352,3 +355,17 @@
 * **koft** = **kopht** [kocht]
 * **seggde** = **segg-de** [zegde]
 * **geseggd** = **gesegg-d** [gezegd]
+
+# Getallen
+
+| 1-9 | 11-19 | 10-90 |
+|-|-|-|
+| ēns | elf | tin |
+| twe | twālf | twinntig |
+| dri | derrtin | derrtig |
+| vir | vertin | vertig |
+| fĩv | fĩvtin | fĩvtig |
+| sex | sextin | sextig |
+| seven | seventin | seventig |
+| aght | aghttin | *tachtig* |
+| negen | negentin | negentig |
