@@ -91,13 +91,18 @@
 ## ẽ = ei
 
 * **ẽ** [ei]
-* -**hẽd** [-heid]
+* **hẽd** [-heid]
 * **klẽn** [klein]
 
 ## ĩ = ij
 
 * **mĩn** [mijn]
 * **frĩ** [vrij]
+
+### i = ij
+
+* **bisonder** [bijzonder]
+* **mǒilik** [moeilijk]
 
 ## õ = ouw
 
@@ -386,3 +391,43 @@
 # Universele Ferklaring fan de Reghten fan de Mensh
 
 Alle menshen worden frĩ en' gelijk in wārdighẽd en' reghten geboren. Sĩ sĩn begiftigd met ferstand en' geweten, en' behoren sigh jegens elkander in en gēst fan brǒdershap te gedragen.
+
+# Sprakkynst
+
+## Selvstandig Namwōrd
+
+* **het hũs, de hũsen** [het huis, de huizen]
+* **de strat** [de straat, de straten]
+
+## Bĩfǒglik Namwōrd
+
+* **lange straten** [lange straten]
+* **en lange strat** [een lange straat]
+
+* **grote hũsen** [grote huizen]
+* **en grot hũs** [een groot huis]
+
+## Sinnen
+
+### V2
+
+* **Sĭ et nits t' hũs.** [Ze eet niets thuis.]
+* **t' Hũs et sĭ nits.** [Thuis eet ze niets.]
+* **Nits et sĭ t' hũs.** [Niets eet ze thuis.]
+
+* **Wat et sĭ t' hũs?** [Wat eet ze thuis?]
+* **Et sĭ t' hũs?** [Eet ze thuis?]
+
+### Ůnbepalde Wĩs
+
+* **Sĭ sall t' hũs eten.** [Ze sal thuis eten.]
+
+### Ferleden Delwōrd
+
+* **Sĭ heft t' hũs gegeten.** [Ze heeft thuis gegeten.]
+
+### Bĩsinn
+
+* **Ik wet wat sĭ t' hũs et.** [Ik weet wat ze thuis eet.]
+* **Ik wet wat sĭ t' hũs sall eten.** [Ik weet wat ze thuis zal eten.]
+* **Ik wet wat sĭ t' hũs heft gegeten.** [Ik weet wat ze thuis heeft gegeten.]
