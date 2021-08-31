@@ -365,7 +365,7 @@
 | dyrven | dorst/dyrvde | gedyrvd |
 | worden | werd | geworden |
 | hebben | hadd | gehadd |
-| zĩn, benn | wăs, waren | gewest |
+| zĩn, ben | wăs, waren | gewest |
 | washen | washte | gewashen |
 | fragen | frǒg | gefragd |
 | laden | ladde | geladen |
@@ -407,6 +407,18 @@ Alle menshen worden frĩ en' gelijk in wārdighẽd en' reghten geboren. Sĩ sĩ
 * **grote hũsen** [grote huizen]
 * **en grot hũs** [een groot huis]
 
+## Forfǒgsel
+
+* **ferr** [fer]
+* **fergeven** [fergeven]
+
+## Personlik Fornamwōrd
+
+| | |
+|-|-|
+| mĩ | mĭ |
+| jĩ | jĭ |
+
 ## Sinnen
 
 ### V2
@@ -431,3 +443,17 @@ Alle menshen worden frĩ en' gelijk in wārdighẽd en' reghten geboren. Sĩ sĩ
 * **Ik wet wat sĭ t' hũs et.** [Ik weet wat ze thuis eet.]
 * **Ik wet wat sĭ t' hũs sall eten.** [Ik weet wat ze thuis zal eten.]
 * **Ik wet wat sĭ t' hũs heft gegeten.** [Ik weet wat ze thuis heeft gegeten.]
+
+### Hylpwerkwōrd
+
+* **Ik sall har mǒten siĕn.** [Ik zal haar moeten zien.]
+* **Ik hebb har mǒten siĕn.** [Ik heb haar moeten zien.]
+
+* **Ik si har eten.** [Ik zie haar eten.]
+
+* **Ik sall har siĕn eten.** [Ik zal haar zien eten.]
+* **Ik hebb har siĕn eten.** [Ik heb haar zien eten.]
+
+* **Ik sall har mǒten siĕn eten.** [Ik zal haar zien eten.]
+* **Ik hebb har mǒten siĕn eten.** [Ik heb haar moeten zien eten.]
+
