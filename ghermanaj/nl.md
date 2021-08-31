@@ -28,6 +28,10 @@
 * **hir** [hier]
 * **wind** [wind]
 
+### i = y
+
+* **mite** = **mythe** [mythe]
+
 ### o = o/oo
 
 * **brod** [brood]
@@ -65,6 +69,7 @@
 ## y = u
 
 * **dyr** [duur]
+* **fyllen** [vullen]
 * **fyr** [vuur]
 * **kyltyr** = **cultur** [kultuur]
 * **kynst** [kunst]
@@ -73,17 +78,21 @@
 * **rysten** [rusten]
 * **styren** [sturen]
 * **syr** [zuur]
+* **y** [u]
+* **yw** [uw]
 
 ### Tweklanken
 
 ## ã = aai
 
+* **drãien** [draaien]
 * **mãen** [maaien]
 
 ## ẽ = ei
 
-* **klẽn** [klein]
 * **ẽ** [ei]
+* -**hẽd** [-heid]
+* **klẽn** [klein]
 
 ## ĩ = ij
 
@@ -223,7 +232,7 @@
 
 | ō | ă, ā | ō |
 |-|-|-|
-| komen | *kwăm* | gekomen |
+| komen, *komm* | *kwăm* | gekomen |
 
 ### e
 
@@ -265,6 +274,10 @@
 | halden | hīld = hield | gehalden |
 | sterven | stīrv = stierv | gestorven |
 | waxen | wīx | gewaxen |
+
+| e | ī | e |
+|-|-|-|
+| *heffen* | hīv = hiev | geheven |
 
 | e | ī | o |
 |-|-|-|
@@ -369,3 +382,7 @@
 | seven | seventin | seventig |
 | aght | aghttin | *tachtig* |
 | negen | negentin | negentig |
+
+# Universele Ferklaring fan de Reghten fan de Mensh
+
+Alle menshen worden frĩ en' gelijk in wārdighẽd en' reghten geboren. Sĩ sĩn begiftigd met ferstand en' geweten, en' behoren sigh jegens elkander in en gēst fan brǒdershap te gedragen.
