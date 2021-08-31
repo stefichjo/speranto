@@ -85,7 +85,7 @@
 
 ## ã = aai
 
-* **drãien** [draaien]
+* **drãen** [draaien]
 * **mãen** [maaien]
 
 ## ẽ = ei
@@ -119,12 +119,12 @@
 * **lø̃** [leeuw]
 * **ø̃** [eeuw]
 
-## ũ = ui
+## ỹ = ui
 
-* **drũv** [druif]
-* **frũt** [fruit]
-* **hũs** [huis]
-* **mũs** [muis]
+* **drỹv** [druif]
+* **frỹt** [fruit]
+* **hỹs** [huis]
+* **mỹs** [muis]
 
 ## ỹ = ieuw
 
@@ -322,11 +322,11 @@
 | shiten | shot | geshoten |
 | *wegen* | wog | gewogen |
 
-| ũ | o | o |
+| ỹ | o | o |
 |-|-|-|
-| bũgen | bog | gebogen |
-| slũten | slot | gesloten |
-| sũpen | sop | gesopen |
+| bỹgen | bog | gebogen |
+| slỹten | slot | gesloten |
+| sỹpen | sop | gesopen |
 
 ### ǒ
 
@@ -396,7 +396,7 @@ Alle menshen worden frĩ en' gelijk in wārdighẽd en' reghten geboren. Sĩ sĩ
 
 ## Selvstandig Namwōrd
 
-* **het hũs, de hũsen** [het huis, de huizen]
+* **het hỹs, de hỹsen** [het huis, de huizen]
 * **de strat** [de straat, de straten]
 
 ## Bĩfǒglik Namwōrd
@@ -404,8 +404,8 @@ Alle menshen worden frĩ en' gelijk in wārdighẽd en' reghten geboren. Sĩ sĩ
 * **lange straten** [lange straten]
 * **en lange strat** [een lange straat]
 
-* **grote hũsen** [grote huizen]
-* **en grot hũs** [een groot huis]
+* **grote hỹsen** [grote huizen]
+* **en grot hỹs** [een groot huis]
 
 ## Forfǒgsel
 
@@ -423,26 +423,26 @@ Alle menshen worden frĩ en' gelijk in wārdighẽd en' reghten geboren. Sĩ sĩ
 
 ### V2
 
-* **Sĭ et nits t' hũs.** [Ze eet niets thuis.]
-* **t' Hũs et sĭ nits.** [Thuis eet ze niets.]
-* **Nits et sĭ t' hũs.** [Niets eet ze thuis.]
+* **Sĭ et nits t' hỹs.** [Ze eet niets thuis.]
+* **t' Hỹs et sĭ nits.** [Thuis eet ze niets.]
+* **Nits et sĭ t' hỹs.** [Niets eet ze thuis.]
 
-* **Wat et sĭ t' hũs?** [Wat eet ze thuis?]
-* **Et sĭ t' hũs?** [Eet ze thuis?]
+* **Wat et sĭ t' hỹs?** [Wat eet ze thuis?]
+* **Et sĭ t' hỹs?** [Eet ze thuis?]
 
 ### Ůnbepalde Wĩs
 
-* **Sĭ sall t' hũs eten.** [Ze sal thuis eten.]
+* **Sĭ sall t' hỹs eten.** [Ze sal thuis eten.]
 
 ### Ferleden Delwōrd
 
-* **Sĭ heft t' hũs gegeten.** [Ze heeft thuis gegeten.]
+* **Sĭ heft t' hỹs gegeten.** [Ze heeft thuis gegeten.]
 
 ### Bĩsinn
 
-* **Ik wet wat sĭ t' hũs et.** [Ik weet wat ze thuis eet.]
-* **Ik wet wat sĭ t' hũs sall eten.** [Ik weet wat ze thuis zal eten.]
-* **Ik wet wat sĭ t' hũs heft gegeten.** [Ik weet wat ze thuis heeft gegeten.]
+* **Ik wet wat sĭ t' hỹs et.** [Ik weet wat ze thuis eet.]
+* **Ik wet wat sĭ t' hỹs sall eten.** [Ik weet wat ze thuis zal eten.]
+* **Ik wet wat sĭ t' hỹs heft gegeten.** [Ik weet wat ze thuis heeft gegeten.]
 
 ### Hylpwerkwōrd
 
