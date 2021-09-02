@@ -47,12 +47,15 @@
 * **fǒt** [voet]
 * **grǒn** [groen]
 * **mǒder** [moeder]
+* **mǒilik** [moeilijk]
 * **sǒken** [zoeken]
 
 ### ø = eu
 
 * **dør** [deur]
 * **løk** [leuk]
+
+* **trøi** [trui]
 
 ### u
 
@@ -90,6 +93,7 @@
 
 ## ẽ = ei
 
+* **ārdbẽ** [aardbei]
 * **ẽ** [ei]
 * **hẽd** [-heid]
 * **klẽn** [klein]
@@ -102,7 +106,7 @@
 ### i = ij
 
 * **bisonder** [bijzonder]
-* **mǒilik** [moeilijk]
+* **dỹdelik** [duidelijk]
 
 ## õ = ouw
 
@@ -122,12 +126,13 @@
 ## ỹ = ui
 
 * **drỹv** [druif]
-* **frỹt** [fruit]
+* **frỹt** = **frũt** [fruit]
 * **hỹs** [huis]
 * **mỹs** [muis]
 
 ## ỹ = ieuw
 
+* **kỹ** [kieuw]
 * **nỹ** [nieuw]
 
 ## Medeklinkers
@@ -223,6 +228,7 @@
 
 | ē | ă, ā | ō |
 |-|-|-|
+| bĭfelen | bĭfăl | bĭfolen |
 | breken | brăk | gebroken |
 | nemen | năm | genomen |
 | spreken | sprăk | gesproken |
@@ -287,6 +293,7 @@
 | e | ī | o |
 |-|-|-|
 | helpen | hīlp = hielp | geholpen |
+| werpen | wīrp = wierp | geworpen |
 
 | o | ī | o |
 |-|-|-|
@@ -411,6 +418,9 @@ Alle menshen worden frĩ en' gelijk in wārdighẽd en' reghten geboren. Sĩ sĩ
 
 * **ferr** [fer]
 * **fergeven** [fergeven]
+
+* **bĩ** [bij]
+* **bĭleggen** [beleggen]
 
 ## Personlik Fornamwōrd
 
