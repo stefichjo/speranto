@@ -224,6 +224,7 @@
 | fergeten | fergăt | fergeten |
 | geven | găv | gegeven |
 | lesen | lăs | gelesen |
+| treden | trăd | getreden |
 | weten | *wist* | geweten |
 
 | ē | ă, ā | ō |
@@ -239,7 +240,7 @@
 | bidden | băd | gebeden |
 | liggen | lăg | gelegen |
 | sitten | săt | geseten |
-| *sin* | săgh | *gesin* |
+| *siĕn* | săgh | *gesiĕn* |
 
 | ō | ă, ā | ō |
 |-|-|-|
@@ -303,8 +304,9 @@
 
 | ĭ | å | ů |
 |-|-|-|
-| beginnen | begånn | gegůnnen |
+| bĭginnen | bĭgånn | bĭgůnnen |
 | binden | bånd | gebůnden |
+| dringen | drång | gedrůngen |
 | drinken | drånk | gedrůnken |
 | ferslinden | ferslånd | ferslůnden |
 | finden | fånd | gefůnden |
@@ -320,6 +322,7 @@
 | biden | bod | geboden |
 | *feghten* | foght | gefoghten |
 | ferliren | ferlor | ferloren |
+| *fleghten* | floght | gefloghten |
 | fligen | flog | geflogen |
 | frisen | *fror* | *gefroren* |
 | giten | got | gegoten |
@@ -376,6 +379,7 @@
 | washen | washte | gewashen |
 | fragen | frǒg | gefragd |
 | laden | ladde | geladen |
+| dǒĕn | ded | gedaĕn |
 
 * **koft** = **kopht** [kocht]
 * **seggde** = **segg-de** [zegde]
@@ -397,7 +401,7 @@
 
 # Universele Ferklaring fan de Reghten fan de Mensh
 
-Alle menshen worden frĩ en' gelijk in wārdighẽd en' reghten geboren. Sĩ sĩn begiftigd met ferstand en' geweten, en' behoren sigh jegens elkander in en gēst fan brǒdershap te gedragen.
+Alle menshen worden frĩ en' gelijk in wārdighẽd en' reghten geboren. Sĩ sĩn bĭgiftigd met ferstand en' geweten, en' bĭhoren sigh jegens elkander in en gēst fan brǒdershap tŏ gedragen.
 
 # Sprakkynst
 
@@ -440,7 +444,7 @@ Alle menshen worden frĩ en' gelijk in wārdighẽd en' reghten geboren. Sĩ sĩ
 * **Wat et sĭ t' hỹs?** [Wat eet ze thuis?]
 * **Et sĭ t' hỹs?** [Eet ze thuis?]
 
-### Ůnbepalde Wĩs
+### Ůnbĭpalde Wĩs
 
 * **Sĭ sall t' hỹs eten.** [Ze sal thuis eten.]
 
