@@ -12,11 +12,15 @@
 * **dăg** [dag]
 * **dagen** [dagen]
 
+* **fandag** [vandaag]
+
 ### e = e/ee
 
 * **best** [best]
 * **gēst** [geest]
 * **sten** [steen]
+
+* **städen** [steden]
 
 #### ĕ
 
@@ -211,6 +215,20 @@
 
 * **tax̄i** [taxi]
 * **tex̄t** [tekst]
+
+# Afterfǒgsel
+
+* -~~enn~~ → -**en** [-en]
+
+# Personlike Fornamwōrden
+
+* ~~ikk~~ → **ik** [ik]
+
+# Sĩn
+
+* ~~benn~~ → **ben** [ben]
+* ~~iss~~ → **is** [is]
+* ~~wass~~ → **was** [was]
 
 # Werkwōrden
 
