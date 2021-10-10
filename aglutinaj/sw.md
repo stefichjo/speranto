@@ -38,31 +38,42 @@
 | **kĭa**  | **vĭa**  | | **ŭa**  | **wăa**  |
 | **kina** | **vina** | | **ȗna** | **wana** |
 
-| | |
+| `(nĭ)/(nĭ) + i/zi` | |
 |-|-|
-| *La granda domo de la amiko havas nomon.* | **Nyumba kubwa ĭa rafiki ina jina.** |
-| *La grandaj domoj de la amiko havas nomon.* | **Nyumba kubwa za rafiki zina jina.** |
-| | |
+| *La granda domo de la amiko havas nomon.* | **Nyumba n̆ĭ.kubwa ĭa rafiki ina jina.** |
+| *La grandaj domoj de la amiko havas nomon.* | **Nyumba n̆ĭ.kubwa za rafiki zina jina.** |
+
+| `/ma + li/ya` | |
+|-|-|
 | *La granda aŭto de la amiko havas nomon.* | **Gari kubwa la rafiki lina jina.** |
 | *La grandaj aŭtoj de la amiko havas nomon.* | **Ma.gari ma.kubwa ya rafiki yana jina.** |
-| | |
+
+| `kĭ/vĭ + kĭ/vĭ` | |
+|-|-|
 | *La granda libro de la amiko havas nomon.* | **Ki.tabu ki.kubwa kĭa rafiki kina jina.** |
 | *La grandaj libroj de la amiko havas nomon.* | **Vi.tabu vi.kubwa vĭa rafiki vina jina.** |
-| | |
-| | |
+
+| `(m)ŭ/ñi + u/zi` | |
+|-|-|
 | *La granda kanto de la amiko havas nomon.* | **M̆ŭ.imbo mŭ.kubwa ŭa rafiki una jina.** |
 | *La grandaj kantoj de la amiko havas nomon.* | **Nĭ.imbo n̆ĭ.kubwa za rafiki zina jina.** |
-| | |
+
+| `mŭ/mi + u/i` | |
+|-|-|
 | *La granda arbo de la amiko havas nomon.* | **Mŭ.ti mŭ.kubwa ŭa rafiki una jina.** |
 | *La grandaj arboj de la amiko havas nomon.* | **Mi.ti mi.kubwa ĭa rafiki ina jina.** |
-| | |
+
+| `mŭ/wa + u/wa` | |
+|-|-|
 | *La granda persono de la amiko havas nomon.* | **Mŭ.tu mŭ.kubwa ŭa rafiki ȗna jina.** |
 | *La grandaj personoj de la amiko havas nomon.* | **Wa.tu mi.kubwa wăa rafiki wana jina.** |
 
+| `mŭ/wa + u/wa` ← `/ma li/ya` | |
+|-|-|
+| *La granda doktoro de la amiko havas nomon.* | **Daktari mŭ.kubwa ŭa rafiki ȗna jina.** |
+| *La grandaj doktoroj de la amiko havas nomon.* | **Ma.daktari wa.kubwa wăa rafiki wana jina.** |
+
 <!-- N̆ n̆ M̆ m̆ -->
-
-daktari
-
 
 * `i/zi` ajali ardhi bahari bahati bandari barabara barafu barua bustani chaki chumvi chupa dakika dawa furaha hatari hewanuru karatasi kazi mboga mvinyo mvua nafasi nazi nchi ndizi ndege ndoto ngoma nguo ngurumo nguvu ng'ombe nija njaa njugu nyama nyoka nyota nyuki nyumba nzige panga pasi pombe saa sababu sabuna sahani shida shunghuli siagi simu suruali taa takataka zwadi
   * baridi rafiki
