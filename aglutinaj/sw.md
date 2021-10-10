@@ -48,7 +48,7 @@
 | *La granda aŭto de la amiko havas nomon.* | **Gari kubwa la rafiki lina jina.** |
 | *La grandaj aŭtoj de la amiko havas nomon.* | **Ma.gari ma.kubwa ya rafiki yana jina.** |
 
-| `kĭ/vĭ + kĭ/vĭ` | |
+| `kĭ/vĭ + ki/vi` | |
 |-|-|
 | *La granda libro de la amiko havas nomon.* | **Ki.tabu ki.kubwa kĭa rafiki kina jina.** |
 | *La grandaj libroj de la amiko havas nomon.* | **Vi.tabu vi.kubwa vĭa rafiki vina jina.** |
@@ -68,7 +68,7 @@
 | *La granda persono de la amiko havas nomon.* | **Mŭ.tu mŭ.kubwa ŭa rafiki ȗna jina.** |
 | *La grandaj personoj de la amiko havas nomon.* | **Wa.tu mi.kubwa wăa rafiki wana jina.** |
 
-| `mŭ/wa + u/wa` ← `/ma li/ya` | |
+| `mŭ/wa + u/wa` ← `/ma + li/ya` | |
 |-|-|
 | *La granda doktoro de la amiko havas nomon.* | **Daktari mŭ.kubwa ŭa rafiki ȗna jina.** |
 | *La grandaj doktoroj de la amiko havas nomon.* | **Ma.daktari wa.kubwa wăa rafiki wana jina.** |
