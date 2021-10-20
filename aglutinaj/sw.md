@@ -45,80 +45,74 @@
 
 | `/ma + li/ya` | |
 |-|-|
-| *La granda aŭto de la amiko havas nomon.* | **Gari kubwa la rafiki lina jina.** |
+| *La granda aŭto de la amiko havas nomon.*   | **Gari kubwa la rafiki lina jina.** |
 | *La grandaj aŭtoj de la amiko havas nomon.* | **Ma.gari ma.kubwa ya rafiki yana jina.** |
 
 | `kĭ/vĭ + ki/vi` | |
 |-|-|
-| *La granda libro de la amiko havas nomon.* | **Ki.tabu ki.kubwa kĭa rafiki kina jina.** |
+| *La granda libro de la amiko havas nomon.*   | **Ki.tabu ki.kubwa kĭa rafiki kina jina.** |
 | *La grandaj libroj de la amiko havas nomon.* | **Vi.tabu vi.kubwa vĭa rafiki vina jina.** |
 
 | `(m)ŭ/ñi + u/zi` | |
 |-|-|
-| *La granda kanto de la amiko havas nomon.* | **M̆ŭ.imbo mŭ.kubwa ŭa rafiki una jina.** |
+| *La granda kanto de la amiko havas nomon.*   | **M̆ŭ.imbo mŭ.kubwa ŭa rafiki una jina.** |
 | *La grandaj kantoj de la amiko havas nomon.* | **Nĭ.imbo n̆ĭ.kubwa za rafiki zina jina.** |
 
 | `mŭ/mi + u/i` | |
 |-|-|
-| *La granda arbo de la amiko havas nomon.* | **Mŭ.ti mŭ.kubwa ŭa rafiki una jina.** |
+| *La granda arbo de la amiko havas nomon.*   | **Mŭ.ti mŭ.kubwa ŭa rafiki una jina.** |
 | *La grandaj arboj de la amiko havas nomon.* | **Mi.ti mi.kubwa ĭa rafiki ina jina.** |
 
 | `mŭ/wa + u/wa` | |
 |-|-|
-| *La granda persono de la amiko havas nomon.* | **Mŭ.tu mŭ.kubwa ŭa rafiki ȗna jina.** |
+| *La granda persono de la amiko havas nomon.*   | **Mŭ.tu mŭ.kubwa ŭa rafiki ȗna jina.** |
 | *La grandaj personoj de la amiko havas nomon.* | **Wa.tu mi.kubwa wăa rafiki wana jina.** |
 
 | `mŭ/wa + u/wa` ← `/ma + li/ya` | |
 |-|-|
-| *La granda doktoro de la amiko havas nomon.* | **Daktari mŭ.kubwa ŭa rafiki ȗna jina.** |
+| *La granda doktoro de la amiko havas nomon.*   | **Daktari mŭ.kubwa ŭa rafiki ȗna jina.** |
 | *La grandaj doktoroj de la amiko havas nomon.* | **Ma.daktari wa.kubwa wăa rafiki wana jina.** |
 
-<!-- N̆ n̆ M̆ m̆ -->
 
-* `i/zi` ajali ardhi bahari bahati bandari barabara barafu barua bustani chaki chumvi chupa dakika dawa furaha hatari hewanuru karatasi kazi mboga mvinyo mvua nafasi nazi nchi ndizi ndege ndoto ngoma nguo ngurumo nguvu ng'ombe nija njaa njugu nyama nyoka nyota nyuki nyumba nzige panga pasi pombe saa sababu sabuna sahani shida shunghuli siagi simu suruali taa takataka zwadi
-  * baridi rafiki
-  * chai
-  * bia bei familia glasi kahawa kalamu kamera kompyuta meza ofisi pesa picha shule sukari
-
-* `li/ya` cho (ji./mä.)no
-  * `ma.`
-    * ji futa hindi jivu tope ziwa
-  * `/ma`
-    * bonde daraja duka jiko jimbo kanisa shamba taifa zingira
-    * blanketi gari gazeti godoro jembe pipa shoka we yai
-    * chungwa embe jani nanasi papai ua
-    * dereva fundi rafiki tajiri
-    * badiliko endeleo jibu jina shauri swali zungumzo
-
-* `ki/vi`
-  * ātu **chwa** **dole** tabu tambaa tanda ti
-  * **akula** andarua jiko kombe ombo ōo su **umba**
-  * jiji sima siwa oo uo
-
-* `mŭ/mi` avuli che chezo choro chuzi embe fano fuko guu kasi kate keka kuki ili lango mea nyororo oshi oto oyo pira shahara sumari ti tumbwi zigo zizi
-  * aka
-  * fereji ji paka sikiti situ to
-  * kutano radi tihani
-
-* `mŭ/wa` alimu ana+ke anaume geni handisi hudumu izi kulima ongo pishi safiri sichana toto tu ūguzi vulana zazi
-  * dudu
-
----
-
-
-
-* bangili (kubwa, n.zuri) blauzi gauni (l.angu, zuri) koti (kubwa) shati (zuri) sketi (y.ake, n.zuri) soksi (za, nyepesi) suti tai (y.ake)
-* chupi (z.ao) fulana (y.angu, kĭ.afu) hereni (z.angu) kaptura kofia (tatu, m.baya) pete (n.zuri y.ake) saa (y.angu) shanga (z.etu) suruali (n.zuri, y.angu)
-
-* `ki/vi` koi (ki.kubwa) lemba (ki.zuri, kĭ.a) tenge (kĭ.angu)
-* `-/- y/z`
-  * kanga (y.ake, z.a)
-  * kanzu (safi, y.ake)
-
-<!-- Anscheinend: m.baya ist assimiliertes n.baya (oder n.zuri ist assimiliertes m.zuri?) -- ñ.baya -->
-
-<!-- wa.teja wă.ïngine -->
-<!-- gari jï.usi -->
-
-<!-- daktari madaktari -->
-
+| | | | | |
+|-|-|-|-|-|
+| *naskas* | **.za-a** | | *naskatas* | **.za.liwa** |
+| *sidas* `?` | **.ka-a** | | *sursidatas* | **.ka.liwa** |
+| *elektas* | **.chagu-a** | *elektatas* | **.chagu.liwa** |
+| *lavas (aĵojn)* | **.fu-a** | | *lavatas (kiel aĵo)* | **.fu.liwa** |
+| | | | | |
+| *geedzigas* | **.o-a** | | *geedzigatas* | **.o.lïwa** |
+| *kolektas* | **.zo-a** | | *kolektatas* | **.zo.lïwa** |
+| *ofertas* | **.to-a**  | | *ofertatas* | **.to.lïwa** |
+| *akceptas* | **.poke-a** | | *akceptatas* | **.poke.lïwa** |
+| *forigas* | **.ondo-a** `?` | | *forigatas* | **.ondo.lïwa** |
+| | | | | |
+| | | | | |
+| *forgesas* | **.saha-u** | | *forgesatas* | **.saha-u.liwa** |
+| *malestimas* | **.dhara-u** | | *malestimatas* | **.dhara-u.liwa** |
+| | | | | |
+| | | | | |
+| *spektas* | **.angali-a** | | *spektatas* | **.angali.wa** |
+| *helpas* | **.saidi-a** | | *helpatas* | **.saidi.wa** |
+| | | | | |
+| | | | | |
+| *skribas* | **.andik-a** | | *skribatas* | **.andik.wa** |
+| *ekzamenas* | **.pim-a** | | *ekzamenatas* | **.pim.wa** |
+| *injektas* | **.chom-a** | | *injektatas* | **.chom.wa** |
+| *rigardas* | **.pik-a** | | *rigardatas* | **.pik.wa** |
+| *ridas* `?` | **.chek-a** | | *priridatas* | **.chek.wa** |
+| *batas* | **.pig-a** | | *batatas* | **.pig.wa** |
+| | | | | |
+| | | | | |
+| *bezonas* | **.hitaj-i** | | *bezonatas* | **.hitaj-i.wa** |
+| *kredas* | **.amin-i** | | *kredatas* | **.amin-i.wa** |
+| *laŭdas* | **.sif-u** | | *laŭdatas* | **.sif-u̇.wa** |
+| *manĝas* | **.ku.l-a** | | *manĝatas* | **.ku.l-ȧ.wa** |
+| *mortas* | **.ku.f-a** | | *funebratas* | **.ku.f-ȧ.wa** |
+| *pardonas* | **.sameh-e** | | *pardonatas* | **.sameh-e.wa** |
+| *trinkas* | **.ku.nyw-a** | | *trinkatas* | **.ku.nyw-ä.wa** |
+| *donas* | **.ku.p-a** | | *donatas* | **.ku.p-ä.wa** |
+| *mortigas* | **.u-a** | | *mortigatas* | **.u-ā.wa** |
+| | | | | |
+| | | | | |
+| *malkonstruas* | `?` | | *malkontruatas* | **.bomo.lïwa** |
