@@ -7,7 +7,57 @@ revealOptions:
   transition: 'fade'
 ---
 
-## Lingua*
+## Äzyk
+
+---
+
+## Sprak
+
+---
+
+## Lingua
+
+### Formato
+
+| |
+|-|
+| *IT* 🇮🇹 |
+| *FR* 🇫🇷 |
+| *ES* 🇪🇸 |
+| |
+| *Lingua* |
+
+---
+
+## Lingua
+
+### Duoblaj Konsonantoj
+
+| | | | | |
+|-|-|-|-|-|
+| 🇮🇹 terra | **terra** | | massa | **massa** |
+| 🇫🇷 terre | **terră** | | masse | **massă** |
+| 🇪🇸 tierra | **tẽrra** | | masa | **massa** |
+| | | | | | |
+| | **terra** | | | **massa** |
+
+---
+
+## Lingua
+
+### i: li, ti
+
+| | | | | |
+|-|-|-|-|-|
+| 🇮🇹 foglia | **folĭa** | | spazio | **spatĭo** |
+| 🇫🇷 feuille | **følĭă** | | espace | **s̈patĭŏ** |
+| 🇪🇸 hoja | **ꞙolĭa** | | espacio | **s̈patĭo** |
+| | | | | | |
+| | **folĭa** | | | **spatĭo** |
+
+---
+
+## Speranto
 
 ### Formato
 
@@ -21,7 +71,7 @@ revealOptions:
 
 ---
 
-## Lingua*
+## Speranto
 
 ### Duoblaj Konsonantoj
 
@@ -35,7 +85,7 @@ revealOptions:
 
 ---
 
-## Lingua*
+## Speranto
 
 ### c / g
 
@@ -49,21 +99,7 @@ revealOptions:
 
 ---
 
-## Lingua*
-
-### -i- / -u-
-
-| | | | | |
-|-|-|-|-|-|
-| **familĭa** | [famili-a] | | **aŭro** | [aur-o] |
-| **familie** | [familje] | | **aure** | [aŭre] |
-| **familĭo** | [famiḷo] | | **auro** | [aŭro] |
-| | | | | |
-| | [**familio**] | | | [**oro**] |
-
----
-
-## Lingua*
+## Speranto
 
 ### qu / gu
 
@@ -77,7 +113,7 @@ revealOptions:
 
 ---
 
-## Lingua*
+## Speranto
 
 ### e / i ⟷ o / u
 
@@ -91,7 +127,35 @@ revealOptions:
 
 ---
 
-## Lingua*
+## Speranto
+
+### i: li
+
+| | | | | |
+|-|-|-|-|-|
+| **familĭa** | [famili-a] | | **filĭo** | [fili-o] |
+| **familie** | [familje] | | **filie** | [filje] |
+| **familĭo** | [famiḷo] | | **filĭo** | [fiḷo] |
+| | | | | |
+| | [**familio**] | | | [**filo**] |
+
+---
+
+## Speranto
+
+### i: ti
+
+| | | | | |
+|-|-|-|-|-|
+| **natione** | [natione] | | **spatĭo** | [spati-o] |
+| **natie** | [naŧje] | | **spatie** | [spaŧje] |
+| **natīo** | [nasio] | | **spatio** | [spasjo] |
+| | | | | |
+| | [**nacio**] | | | [**spaco**] |
+
+---
+
+## Speranto
 
 ### Personaj Pronomoj
 
@@ -105,7 +169,7 @@ revealOptions:
 
 ---
 
-## Lingua*
+## Speranto
 
 ### n ⟷ s
 
@@ -119,7 +183,7 @@ revealOptions:
 
 ---
 
-## Lingua*
+## Speranto
 
 ### l → ł
 
@@ -133,7 +197,7 @@ revealOptions:
 
 ---
 
-## Lingua*
+## Speranto
 
 ### Akĉentoj
 
@@ -147,12 +211,42 @@ revealOptions:
 
 ---
 
-## Lingua*
+## Speranto
 
 ### Pruntvortoj
 
 | | |
 |-|-|
+| - | |
+| - | |
 | **partȳo** | [partio] |
 | | |
 | | [**partio**] |
+
+---
+
+## Esperanto
+
+### Formato
+
+| |
+|-|
+| *Lingua* |
+| *Lingue* |
+| *Linguo* |
+| |
+| *Esperanto* 🌍 |
+
+---
+
+## Esperanto
+
+### s → es
+
+| | | | | |
+|-|-|-|-|-|
+| **spera** | [spera] | | **sta** | [sta] |
+| **speran** | [speran] | | **stan** | [stan] |
+| **speras** | [speras] | | **stas** | [stas] |
+| | | | | |
+| **s̈peras** | [**esperas**] | | **s̈tas** | [**estas**] |
