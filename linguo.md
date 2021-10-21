@@ -273,7 +273,7 @@ Originaj adverboj finiĝas je **-ô** *[aŭ]*. ***En poezio***, ili povas finiĝ
 
 | | | poezie |
 |-|-|-|
-| *kiel* | **kiel** *[kiel]* | *[kjel]* |
+| *kiel* | **qŭiel** *[kiel]* | *[kjel]* |
 
 Kaj la unu-nombra kaj la multe-nombra formo de la difina artikolo estas **la**.
 

@@ -26,7 +26,7 @@ La antaŭlasta vokalo estas akcentata. Kiam la antaŭlasta vokalo ne estas akcen
 
 | | |
 |-|-|
-| *bona* | **bona** |
+| *bona* | **bona** | *[bona]* |
 | *amiko* | **amico** *[amiko]* |
 | | |
 | *libera* | **libĕra** *[libe-ra]* |
@@ -66,7 +66,7 @@ En diftongoj, **i** kaj **u** ne estas akcentataj.
 | *familio* | **familĭa** *[famili-a]* |
 | *jam* | **ĭam** *[iam']* |
 | | |
-| *oro* | **aŭro** *[au-ro]* |
+| *oro* | **aŭro** *[aur-o]* |
 | | |
 | *akvo* | **aqŭa** *[aku-a]* |
 | *lingvo* | **lingŭa** *[lingu-a]* |
