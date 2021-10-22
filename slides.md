@@ -7,7 +7,9 @@ revealOptions:
   transition: 'fade'
 ---
 
-## Äzyk / Sprak / Lingua
+<!-- reveal-md slides.md -w -->
+
+## Äzyk + Sprak + Lingua
 
 | | | | | |
 |-|-|-|-|-|
@@ -42,6 +44,20 @@ revealOptions:
 | 🇨🇿 den | **den** | | šest | **ŝest** |
 |
 | | **den** | | | **ŝest** |
+
+---
+
+## Äzyk
+
+### Vokaloj
+
+| | | | | |
+|-|-|-|-|-|
+| 🇷🇺 золото | **zoloto** | | заяц | **zaäç** |
+| 🇵🇱 złoto | **zŏloto** | | zając | **zaą̈ç** |
+| 🇨🇿 zlato | **zŏlȏto** | | zajíc | **zaȧç** |
+|
+| | **zoloto** | | | **zaaç** |
 
 <!--s-->
 
@@ -137,13 +153,13 @@ revealOptions:
 
 ## Speranto
 
-| | | |
-|-|-|-|
-| *Äzyk* | *Sprak* | *Lingua* |
-| | | *Lingue* |
-| ↪ | ↪ | *Linguo* |
+| | | | | |
+|-|-|-|-|-|
+| *Äzyk* | | *Sprak* | | *Lingua* 🅰 |
+| | | | | *Lingue* 🅴 |
+| | | | | *Linguo* 🅾 |
 |
-| | | *Speranto* |
+| ↪ | | ↪ | | *Speranto* |
 
 <!--v-->
 
@@ -321,6 +337,8 @@ revealOptions:
 | *Lingue* 🅴 |
 | *Linguo* 🅾 |
 |
+| *Speranto* |
+|
 | *Esperanto* 🌍 |
 
 <!--v-->
@@ -335,4 +353,25 @@ revealOptions:
 | 🅴 | **speran** | [speran] | | **stan** | [stan] |
 | 🅾 | **speras** | [speras] | | **stas** | [stas] |
 |
-| 🌍 | **s̈peras** | [**esperas**] | | **s̈tas** | [**estas**] |
+| | | [**speras**] | | | [**stas**] |
+|
+| 🌍 | | [**esperas**] | | | [**estas**] |
+
+<!--s-->
+
+## Äzyk + Sprak + Lingua → Esperanto
+
+| | | | | |
+|-|-|-|-|-|
+| *RU* 🇷🇺 | | *DE* 🇩🇪 | | *IT* 🇮🇹 |
+| *PL* 🇵🇱 | | *EN* 🇬🇧 | | *FR* 🇫🇷 |
+| *CZ* 🇨🇿 | | *DA* 🇩🇰 | | *ES* 🇪🇸 |
+|
+| *Äzyk* | | *Sprak* | | *Lingua* 🅰 |
+| | | | | *Lingue* 🅴 |
+| | | | | *Linguo* 🅾 |
+|
+| ↪ | ↪ | | | *Speranto* |
+|
+| | | | | *Esperanto* |
+
