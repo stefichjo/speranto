@@ -123,9 +123,9 @@ revealOptions:
 
 | |
 |-|
-| *Lingua* |
-| *Lingue* |
-| *Linguo* |
+| *Lingua* 🅰 |
+| *Lingue* 🅴 |
+| *Linguo* 🅾 |
 | |
 | *Speranto* |
 
@@ -135,13 +135,13 @@ revealOptions:
 
 ### Duoblaj Konsonantoj
 
-| | | | | |
-|-|-|-|-|-|
-| **terra** | [terra] | | **massa** | [massa] |
-| **terre** | [terre] | | **masse** | [masse] |
-| **terro** | [tero] | | **masso** | [maso] |
-| | | | | |
-| | [**tero**] | | | [**maso**] |
+| | | | | | |
+|-|-|-|-|-|-|
+| 🅰 | **terra** | [terra] | | **massa** | [massa] |
+| 🅴 | **terre** | [terre] | | **masse** | [masse] |
+| 🅾 | **terro** | [tero] | | **masso** | [maso] |
+|
+| | | [**tero**] | | | [**maso**] |
 
 ---
 
@@ -149,13 +149,13 @@ revealOptions:
 
 ### c / g
 
-| | | | | |
-|-|-|-|-|-|
-| **accento** | [akkento] | | **lege** | [lege] |
-| **accente** | [akcente] | | **lege** | [ledze] |
-| **centro** | [akĉento] | | **leĝo** | [leĝo] |
-| | | | | |
-| | [**akĉento**] | | | [**leĝo**] |
+| | | | | | |
+|-|-|-|-|-|-|
+| 🅰 | **accento** | [akkento] | | **lege** | [lege] |
+| 🅴 | **accente** | [akcente] | | **lege** | [ledze] |
+| 🅾 | **accento** | [akĉento] | | **leĝo** | [leĝo] |
+|
+| | | [**akĉento**] | | | [**leĝo**] |
 
 ---
 
@@ -163,13 +163,13 @@ revealOptions:
 
 ### qu / gu
 
-| | | | | |
-|-|-|-|-|-|
-| **aqua** | [aku-a] | | **lingua** | [lingu-a] |
-| **aque** | [akŭe] | | **lingue** | [lingŭe] |
-| **aquo** | [akvo] | | **linguo** | [lingvo] |
-| | | | | |
-| | [**akvo**] | | | [**lingvo**] |
+| | | | | | |
+|-|-|-|-|-|-|
+| 🅰 | **aqua** | [aku-a] | | **lingua** | [lingu-a] |
+| 🅴 | **aque** | [akŭe] | | **lingue** | [lingŭe] |
+| 🅾 | **aquo** | [akvo] | | **linguo** | [lingvo] |
+|
+| | | [**akvo**] | | | [**lingvo**] |
 
 ---
 
@@ -177,13 +177,13 @@ revealOptions:
 
 ### e / i ⟷ o / u
 
-| | | | | |
-|-|-|-|-|-|
-| **que** | [kue'] | | **no** | [no] |
-| **que** | [kŭe] | | **no** | [no] |
-| **qŭio** | [kio] | | **ne** | [ne] |
-| | | | | |
-| | [**kio**] | | | [**ne**] |
+| | | | | | |
+|-|-|-|-|-|-|
+| 🅰 | **que** | [kue'] | | **no** | [no] |
+| 🅴 | **que** | [kŭe] | | **no** | [no] |
+| 🅾 | **qŭio** | [kio] | | **ne** | [ne] |
+|
+| | | [**kio**] | | | [**ne**] |
 
 ---
 
@@ -191,13 +191,13 @@ revealOptions:
 
 ### i: li
 
-| | | | | |
-|-|-|-|-|-|
-| **familĭa** | [famili-a] | | **filĭo** | [fili-o] |
-| **familie** | [familje] | | **filie** | [filje] |
-| **familĭo** | [famiḷo] | | **filĭo** | [fiḷo] |
-| | | | | |
-| | [**familio**] | | | [**filo**] |
+| | | | | | |
+|-|-|-|-|-|-|
+| 🅰 | **familĭa** | [famili-a] | | **filĭo** | [fili-o] |
+| 🅴 | **familie** | [familje] | | **filie** | [filje] |
+| 🅾 | **familĭo** | [famiḷo] | | **filĭo** | [fiḷo] |
+|
+| | | [**familio**] | | | [**filo**] |
 
 ---
 
@@ -205,13 +205,13 @@ revealOptions:
 
 ### i: ti
 
-| | | | | |
-|-|-|-|-|-|
-| **natione** | [natione] | | **spatĭo** | [spati-o] |
-| **natie** | [naŧje] | | **spatie** | [spaŧje] |
-| **natīo** | [nasio] | | **spatio** | [spasjo] |
-| | | | | |
-| | [**nacio**] | | | [**spaco**] |
+| | | | | | |
+|-|-|-|-|-|-|
+| 🅰 | **natione** | [natione] | | **spatĭo** | [spati-o] |
+| 🅴 | **natie** | [naŧje] | | **spatie** | [spaŧje] |
+| 🅾 | **natīo** | [nasio] | | **spatio** | [spasjo] |
+|
+| | | [**nacio**] | | | [**spaco**] |
 
 ---
 
@@ -219,13 +219,13 @@ revealOptions:
 
 ### Personaj Pronomoj
 
-| | | | | | | | |
-|-|-|-|-|-|-|-|-|
-| **me**/**mi** | | **tu**/**ti** | [tu/ti] | | **su**/**si** | | **vos** |
-| **mi** | | **tī** | [ŧi] | | **si** | | **vi** |
-| **mi(n)** | | ~**tī(n)**~ | [si(n)] | | **si(n)** | | **vi(n)** |
-| | | | | | | | |
-| | | | [**ci(n)**] | | | | |
+| | | | | | | | | |
+|-|-|-|-|-|-|-|-|-|
+| 🅰 | **me**/**mi** | | **tu**/**ti** | [tu/ti] | | **su**/**si** | | **vos** |
+| 🅴 | **mi** | | **tī** | [ŧi] | | **si** | | **vi** |
+| 🅾 | **mi(n)** | | ~**tī(n)**~ | [si(n)] | | **si(n)** | | **vi(n)** |
+|
+| | | | | [**ci(n)**] | | | | |
 
 ---
 
@@ -233,13 +233,13 @@ revealOptions:
 
 ### n ⟷ s
 
-| | | | |
-|-|-|-|-|
-| **me videba** | | **domos** | [domos] |
-| **mi vidin** | | **domes** | [domes] |
-| **mi vidis** | | **domoi(n)** | [domoj(n)] |
-| | | | |
-| | | | [**domoj(n)**] |
+| | | | | |
+|-|-|-|-|-|
+| 🅰 | **me videba** | | **domos** | [domos] |
+| 🅴 | **mi vidin** | | **domes** | [domes] |
+| 🅾 | **mi vidis** | | **domoi(n)** | [domoj(n)] |
+|
+| | | | | [**domoj(n)**] |
 
 ---
 
@@ -247,13 +247,13 @@ revealOptions:
 
 ### l → ł
 
-| | |
-|-|-|
-| **circ' ad/al** | [kirk ad/al] |
-| **circ̄ĕ al** | [cirkal] |
-| **circał** | [ĉirkaŭ] |
-| | |
-| | [**ĉirkaŭ**] |
+| | | |
+|-|-|-|
+| 🅰 | **circ' ad/al** | [kirk ad/al] |
+| 🅴 | **circ̄ĕ al** | [cirkal] |
+| 🅾 | **circał** | [ĉirkaŭ] |
+|
+| | | [**ĉirkaŭ**] |
 
 ---
 
@@ -261,13 +261,13 @@ revealOptions:
 
 ### Akĉentoj
 
-| | | | | |
-|-|-|-|-|-|
-| **cadentĭa** | [kadenti-a] | | | |
-| **cadentie** | [kadenŧje] | | | |
-| **cadentio** | [kadensjo] | | **çhanço** | [ŝanso] |
-| | | | | |
-| | [**kadenco**] | | | [**ŝanco**] |
+| | | | | | |
+|-|-|-|-|-|-|
+| 🅰 | **cadentĭa** | [kadenti-a] | | | |
+| 🅴 | **cadentie** | [kadenŧje] | | | |
+| 🅾 | **cadentio** | [kadensjo] | | **çhanço** | [ŝanso] |
+|
+| | | [**kadenco**] | | | [**ŝanco**] |
 
 ---
 
@@ -275,13 +275,13 @@ revealOptions:
 
 ### Pruntvortoj
 
-| | | | | |
-|-|-|-|-|-|
-| - | | | | |
-| - | | | | |
-| **partȳo** | [partio] | | **ẽn** | [ajn] |
-| | | | | |
-| | [**partio**] | | | [**ajn**] |
+| | | | | | |
+|-|-|-|-|-|-|
+| - | | | | | | |
+| - | | | | | | |
+| 🅾 | **partȳo** | [partio] | | **ẽn** | [ajn] |
+|
+| | | [**partio**] | | | [**ajn**] |
 
 ---
 
@@ -291,9 +291,9 @@ revealOptions:
 
 | |
 |-|
-| *Lingua* |
-| *Lingue* |
-| *Linguo* |
+| *Lingua* 🅰 |
+| *Lingue* 🅴 |
+| *Linguo* 🅾 |
 | |
 | *Esperanto* 🌍 |
 
@@ -303,10 +303,10 @@ revealOptions:
 
 ### s → es
 
-| | | | | |
-|-|-|-|-|-|
-| **spera** | [spera] | | **sta** | [sta] |
-| **speran** | [speran] | | **stan** | [stan] |
-| **speras** | [speras] | | **stas** | [stas] |
-| | | | | |
-| **s̈peras** | [**esperas**] | | **s̈tas** | [**estas**] |
+| | | | | | |
+|-|-|-|-|-|-|
+| 🅰 | **spera** | [spera] | | **sta** | [sta] |
+| 🅴 | **speran** | [speran] | | **stan** | [stan] |
+| 🅾 | **speras** | [speras] | | **stas** | [stas] |
+| | | | | | | |
+| 🌍 | **s̈peras** | [**esperas**] | | **s̈tas** | [**estas**] |
