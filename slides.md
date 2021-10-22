@@ -157,7 +157,7 @@ revealOptions:
 |-|-|-|-|-|
 | *Äzyk* | | *Sprak* | | *Lingua* 🅰 |
 | | | | | *Lingue* 🅴 |
-| | | | | *Linguo* 🅾 |
+| ↪ | | ↪ | | *Linguo* 🅾 |
 |
 | ↪ | | ↪ | | *Speranto* |
 
@@ -359,8 +359,6 @@ revealOptions:
 
 <!--s-->
 
-## Äzyk + Sprak + Lingua → Esperanto
-
 | | | | | |
 |-|-|-|-|-|
 | *RU* 🇷🇺 | | *DE* 🇩🇪 | | *IT* 🇮🇹 |
@@ -369,9 +367,9 @@ revealOptions:
 |
 | *Äzyk* | | *Sprak* | | *Lingua* 🅰 |
 | | | | | *Lingue* 🅴 |
-| | | | | *Linguo* 🅾 |
+| ↪ | | ↪ | | *Linguo* 🅾 |
 |
-| ↪ | ↪ | | | *Speranto* |
+| ↪ | | ↪ | | *Speranto* |
 |
 | | | | | *Esperanto* |
 
