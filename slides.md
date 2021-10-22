@@ -7,18 +7,29 @@ revealOptions:
   transition: 'fade'
 ---
 
-## Äzyk
+## Äzyk / Sprak / Lingua
 
-### Formato
+| | | | | |
+|-|-|-|-|-|
+| *RU* 🇷🇺 | | *DE* 🇩🇪 | | *IT* 🇮🇹 |
+| *PL* 🇵🇱 | | *EN* 🇬🇧 | | *FR* 🇫🇷 |
+| *CZ* 🇨🇿 | | *DA* 🇩🇰 | | *ES* 🇪🇸 |
+|
+| *Äzyk* | | *Sprak* | | *Lingua* |
+
+<!--s-->
+
+## Äzyk
 
 | |
 |-|
 | *RU* 🇷🇺 |
-| *EN* 🇵🇱 |
-| |
+| *PL* 🇵🇱 |
+| *CZ* 🇨🇿 |
+|
 | *Äzyk* |
 
----
+<!--v-->
 
 ## Äzyk
 
@@ -26,26 +37,25 @@ revealOptions:
 
 | | | | | |
 |-|-|-|-|-|
-| 🇷🇺 шесть | **ŝesṭ** | | день | **dėṇ** |
-| 🇵🇱 sześć | **ŝesṭ** | | dzień | **dėṇ** |
-| | | | | |
-| | **ŝesṭ** | | | **dėṇ** |
+| 🇷🇺 день | **dėṇ** | | шесть | **ŝesṭ** |
+| 🇵🇱 dzień | **dėṇ** | | sześć | **ŝesṭ** |
+| 🇨🇿 den | **den** | | šest | **ŝest** |
+|
+| | **den** | | | **ŝest** |
 
----
+<!--s-->
 
 ## Sprak
-
-### Formato
 
 | |
 |-|
 | *DE* 🇩🇪 |
 | *EN* 🇬🇧 |
 | *DA* 🇩🇰 |
-| |
+|
 | *Sprak* |
 
----
+<!--v-->
 
 ## Sprak
 
@@ -56,7 +66,7 @@ revealOptions:
 | 🇩🇪 schein | **shĩn** | | laut | **lûd** |
 | 🇬🇧 shine | **shĩn** | | loud | **lûd** |
 | 🇩🇰 skin | **skin** | | lyd | **lyd** |
-| | | | | |
+|
 | | **shin** | | | **lud** |
 
 ---
@@ -70,24 +80,22 @@ revealOptions:
 | 🇩🇪 ein | **ẽn** | | heim | **hẽm** | | stein | **stẽn** |
 | 🇬🇧 one | **ên** | | home | **hẽm** | | stone | **stẽn** |
 | 🇩🇰 en | **en** | | hjem | **hẽm** | | sten | **sten** |
-| | | | | | | | |
+|
 | | **æn** | | | **hæm** | | | **stæn** |
 
----
+<!--s-->
 
 ## Lingua
-
-### Formato
 
 | |
 |-|
 | *IT* 🇮🇹 |
 | *FR* 🇫🇷 |
 | *ES* 🇪🇸 |
-| |
+|
 | *Lingua* |
 
----
+<!--v-->
 
 ## Lingua
 
@@ -98,7 +106,7 @@ revealOptions:
 | 🇮🇹 terra | **terra** | | massa | **massa** |
 | 🇫🇷 terre | **terră** | | masse | **massă** |
 | 🇪🇸 tierra | **tẽrra** | | masa | **massa** |
-| | | | | | |
+|
 | | **terra** | | | **massa** |
 
 ---
@@ -112,24 +120,44 @@ revealOptions:
 | 🇮🇹 foglia | **folĭa** | | spazio | **spatĭo** |
 | 🇫🇷 feuille | **følĭă** | | espace | **s̈patĭŏ** |
 | 🇪🇸 hoja | **ꞙolĭa** | | espacio | **s̈patĭo** |
-| | | | | | |
+|
 | | **folĭa** | | | **spatĭo** |
 
----
+<!--s-->
 
 ## Speranto
 
-### Formato
+| | | |
+|-|-|-|
+| *Äzyk* | *Sprak* | *Lingua* |
+|
+| | | *Speranto* |
+
+<!--v-->
+
+## Speranto
+
+| | | |
+|-|-|-|
+| *Äzyk* | *Sprak* | *Lingua* |
+| | | *Lingue* |
+| ↪ | ↪ | *Linguo* |
+|
+| | | *Speranto* |
+
+<!--v-->
+
+## Speranto
 
 | |
 |-|
 | *Lingua* 🅰 |
 | *Lingue* 🅴 |
 | *Linguo* 🅾 |
-| |
+|
 | *Speranto* |
 
----
+<!--v-->
 
 ## Speranto
 
@@ -283,21 +311,19 @@ revealOptions:
 |
 | | | [**partio**] | | | [**ajn**] |
 
----
+<!--s-->
 
 ## Esperanto
-
-### Formato
 
 | |
 |-|
 | *Lingua* 🅰 |
 | *Lingue* 🅴 |
 | *Linguo* 🅾 |
-| |
+|
 | *Esperanto* 🌍 |
 
----
+<!--v-->
 
 ## Esperanto
 
@@ -308,5 +334,5 @@ revealOptions:
 | 🅰 | **spera** | [spera] | | **sta** | [sta] |
 | 🅴 | **speran** | [speran] | | **stan** | [stan] |
 | 🅾 | **speras** | [speras] | | **stas** | [stas] |
-| | | | | | | |
+|
 | 🌍 | **s̈peras** | [**esperas**] | | **s̈tas** | [**estas**] |
