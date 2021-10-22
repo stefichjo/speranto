@@ -211,7 +211,7 @@ revealOptions:
 |-|-|-|-|-|-|
 | 🅰 | **aqua** | [aku-a] | | **lingua** | [lingu-a] |
 | 🅴 | **aque** | [akŭe] | | **lingue** | [lingŭe] |
-| 🅾 | **aquo** | [akvo] | | **linguo** | [lingvo] |
+| 🅾 | **aquo** | [akŭo] | | **linguo** | [lingŭo] |
 |
 | | | [**akvo**] | | | [**lingvo**] |
 
