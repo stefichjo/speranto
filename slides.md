@@ -7,7 +7,37 @@ revealOptions:
   transition: 'fade'
 ---
 
-<!-- reveal-md slides.md -w -->
+<!-- reveal-md slides.md #-w -->
+
+## Motivigoj
+
+### Babela Turo?
+
+### Dialektoj?
+
+<!--v-->
+
+### Babela Turo?
+
+| | | | | |
+|-|-|-|-|-|
+| 🇵🇱 jeszcze | | 🇩🇰 dyb | | 🇫🇷 jour |
+| 🇷🇺 ещё | | 🇩🇪 tief | | 🇮🇹 giorno |
+
+<!--v-->
+
+### Dialektoj?
+
+| | | |
+|-|-|-|
+| *Interlingua* | | lingua international |
+| *Okcidentalo* | | lingue international |
+| *Adjuvilo* | | linguo internacionala |
+| *Ido* | | linguo internaciona |
+| | | |
+| *Esperanto* | | lingvo internacia |
+
+<!--s-->
 
 ## Äzyk + Sprak + Lingua
 
@@ -79,8 +109,8 @@ revealOptions:
 
 | | | | | |
 |-|-|-|-|-|
-| 🇩🇪 schein | **shĩn** | | laut | **lûd** |
-| 🇬🇧 shine | **shĩn** | | loud | **lûd** |
+| 🇩🇪 schein | **shĩn** | | laut | **lũd** |
+| 🇬🇧 shine | **shĩn** | | loud | **lũd** |
 | 🇩🇰 skin | **skin** | | lyd | **lyd** |
 |
 | | **shin** | | | **lud** |
@@ -373,3 +403,6 @@ revealOptions:
 |
 | | | | | *Esperanto* |
 
+<!--
+* Bonuso: Komentoj de Zamĉjo
+-->
