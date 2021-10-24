@@ -14,6 +14,10 @@ revealOptions:
 * Stephan "Stefo" Schneider
 * Esperanto Fajnigita (2010)
 
+![alt text][sts]
+
+[sts]: https://avatars.githubusercontent.com/u/3962100?s=200&u=75f4a5908cf465c276f4dde5426d3cf724a09aae&v=4 "Stefo"
+
 <!--s-->
 
 ## Motivigoj
@@ -234,11 +238,11 @@ revealOptions:
 
 | | | | | | |
 |-|-|-|-|-|-|
-| 🅰 | **accento** | [akkento] | | **lege** | [lege] |
-| 🅴 | **accente** | [akcente] | | **lege** | [ledze] |
-| 🅾 | **accento** | [akĉento] | | **leĝo** | [leĝo] |
+| 🅰 | **accento** | [akkento] | | **generale** | [generale] |
+| 🅴 | **accente** | [akcente] | | **generale** | [dzenerale] |
+| 🅾 | **accento** | [akĉento] | | **generalo** | [ĝeneralo] |
 |
-| | | [**akĉento**] | | | [**leĝo**] |
+| | | [**akcento**] | | | [**generalo**] |
 
 ---
 
@@ -250,7 +254,7 @@ revealOptions:
 |-|-|-|-|-|-|
 | 🅰 | **aqua** | [aku-a] | | **lingua** | [lingu-a] |
 | 🅴 | **aque** | [akŭe] | | **lingue** | [lingŭe] |
-| 🅾 | **aquo** | [akŭo] | | **linguo** | [lingŭo] |
+| 🅾 | **aquo** | [akŭo] | | **linguo** | [liŋgŭo] |
 |
 | | | [**akvo**] | | | [**lingvo**] |
 
@@ -372,21 +376,53 @@ revealOptions:
 
 ### s → es
 
-| | | | | | |
-|-|-|-|-|-|-|
-| 🅰 | **spera** | [spera] | | **sta** | [sta] |
-| 🅴 | **speran** | [speran] | | **stan** | [stan] |
-| 🅾 | **speras** | [speras] | | **stas** | [stas] |
+| | | |
+|-|-|-|
+| 🅰 | **spera** | [spera] |
+| 🅴 | **speran** | [speran] |
+| 🅾 | **speras** | [speras] |
 |
-| | | [**speras**] | | | [**stas**] |
+| | | [**speras**] |
 |
-| 🌍 | | [**esperas**] | | | [**estas**] |
+| 🌍 | | [**esperas**] |
 
 ---
 
 ## Esperanto
 
-### Personaj Pronomoj
+### esti + stari
+
+| | | | | | |
+|-|-|-|-|-|-|
+| 🅰 | **esse** | [ese] | | **sta** | [sta] |
+| 🅴 | **essan** | [esan] | | **stan** | [stan] |
+| 🅾 | **essas** | [esas] | | **stas** | [stas] |
+|
+| | | [**esas**] | | | [**stas**] |
+|
+| 🌍 | | [**estas**] | | | [**staras**] |
+
+---
+
+## Esperanto
+
+### Dialektoj
+
+| | | | | | |
+|-|-|-|-|-|-|
+| 🅰 | **acceptare** | [akkepta] | | **ĭusta** | [iusta] |
+| 🅴 | **acceptu** | [akceptu] | | **justa** | [justa] |
+| 🅾 | **accepti** | [akĉepti] | | **justa** | [ĥusta] |
+|
+| | | [**akcepti**] | | | [**justa**] |
+|
+| 🌍 | | + [**aĉeti**] | | | + [**ĝusta**] |
+
+---
+
+## Esperanto
+
+### Pronomoj
 
 | | | | | | | | | |
 |-|-|-|-|-|-|-|-|-|
