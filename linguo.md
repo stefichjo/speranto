@@ -211,7 +211,6 @@ Greka **ch** *[k]* pronciĝas *[ĥ]*.
 | *mekaniko* | **mechanico** *[mekaniko]* | *[meĥaniko]* |
 
 #### Angle
-*(Esperanto)*
 
 | | | angle |
 |-|-|-|
@@ -301,7 +300,7 @@ Prepoziciaĵoj finiĝas je **-ał** *[aŭ]*.
 
 | | | | | | | | | | | | | | |
 |-|-|-|-|-|-|-|-|-|-|-|-|-|-|
-| *li* | **ollu** | | *ŝi* | **allu** | | *ri* | **ellu** | | *ĝi* | **ullu** | | *ili* | **illi** |
+| *li* | **ollu** | | *ŝi* | **allu** | | *ri* | **ellu** | | *ĝi* | **ullu** | | *ili* | **illu** |
 | *lia* | **ollua** | | *ŝia* | **allua** | | *ria* | **ellua** | | *ĝia* | **ullua** | | *ilia* | **illua** |
 
 | | | | | |
