@@ -226,23 +226,30 @@ Ne estas ne-difina artikolo.
 
 ### Pronomoj
 
+| | | | | |
+|-|-|-|-|-|
+| *mi(n)* | **mi** | | *ci(n)* | **tī** *[ŧi]* |
+| *mia* | **mia** | | *cia* | **tīa** *[ŧia]* |
+| | | | | |
+| *ni(n)* | **ni** | | *vi(n)* | **vi** |
+| *nia* | **nia** | | *via* | **via** |
+
 | | | | | | | | | | | | | | |
 |-|-|-|-|-|-|-|-|-|-|-|-|-|-|
 | *li(n)* | **olli** | | *ŝi(n)* | **alli** | | *ri(n)* | **elli** | | *ĝi(n)* | **ulli** | | *ili(n)* | **illi** |
 | *lia* | **ollia** | | *ŝia* | **allia** | | *ria* | **ellia** | | *ĝia* | **ullia** | | *ilia* | **illia** |
 
-| | | | | |
-|-|-|-|-|-|
-| *oni(n)* | **uni** | | *si(n)* | **si** |
-| *onia* | **unia** | | *sia* | **sia** |
+La personaj pronomoj **olli**, **alli**, **elli** kaj **ulli** estas mallongigeblaj al **li**, kiam la kunteksto estas klara.
+
+| | |
+|-|-|
+| *li(n)*, *ŝi(n)*, *ri(n)*, *ĝi(n)* | **li** |
+| *lia*, *ŝia*, *ria*, *ĝia* | **lia** |
 
 | | | | | |
 |-|-|-|-|-|
-| *mi(n)* | **mi** | | *vi(n)* | **tī** *[ŧi]* |
-| *mia* | **mia** | | *via* | **tīa** *[ŧia]* |
-| | | | | |
-| *ni(n)* | **ni** | | *vi(n)* | **vi** |
-| *nia* | **nia** | | *via* | **via** |
+| *oni(n)* | **oni** | | *si(n)* | **si** |
+| *onia* | **onia** | | *sia* | **sia** |
 
 ### Verboj
 

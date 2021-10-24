@@ -181,7 +181,7 @@ Post konsonanto kaj komence de radiko, ne-akcentata **-u** *[ŭ]* prononciĝas *
 |-|-|-|
 | *akvo* | **aquo** *[akŭo]* | *[akvo]* |
 | *kvar* | **quar** *[kŭar]* | *[kvar]* |
-| *lingvo* | **linguo** *[lingŭo]* | *[lingvo]* |
+| *lingvo* | **linguo** *[liŋgŭo]* | *[lingvo]* |
 | | | |
 | *ŭaŭ* | **wau** *[ŭaŭ]* | *[vaŭ]* |
 
@@ -211,6 +211,7 @@ Greka **ch** *[k]* pronciĝas *[ĥ]*.
 | *mekaniko* | **mechanico** *[mekaniko]* | *[meĥaniko]* |
 
 #### Angle
+*(Esperanto)*
 
 | | | angle |
 |-|-|-|
@@ -245,7 +246,7 @@ Greka **ch** *[k]* pronciĝas *[ĥ]*.
 | | | itale |
 |-|-|-|
 | *akcepti* | **accepti** *[akĉepti]* | *[aĉeti]* |
-| *punkto* | **puncto** *[punkto]* | *[punto]* |
+| *punkto* | **puncto** *[puŋkto]* | *[punto]* |
 
 #### Hispane
 
@@ -255,7 +256,7 @@ Greka **ch** *[k]* pronciĝas *[ĥ]*.
 
 ## Gramatiko
 
-La gramatiko de ***Lingvoo*** estas sama al tiu de Esperanto.
+La gramatiko de ***Lingvoo*** estas proksimume identa al tiu de Esperanto.
 
 Adverboj finiĝas je **-e**.
 
@@ -282,14 +283,30 @@ Kaj la unu-nombra kaj la multe-nombra formo de la difina artikolo estas **la**.
 | *la domo* | **la domo** *[la domo]* |
 | *la domoj* | **la domoi** *[la domoj]* |
 
-Por eviti konfuzon kun la pronomo **si** *[si]*, uziĝas la pronomo **vi** *[vi]* anstataŭ **tī** *[si]*.
-
-| | |
-|-|-|
-| *vi* | **vi** *[vi]* |
-
 Prepoziciaĵoj finiĝas je **-ał** *[aŭ]*.
 
 | | |
 |-|-|
 | *ĉirkaŭ* | **circał** *[ĉirkaŭ]* |
+
+### Pronomoj
+
+| | | | | |
+|-|-|-|-|-|
+| *mi* | **mu** | | *ci* | **tu** |
+| *mia* | **mia** | | *cia* | **tua** |
+| | | | | |
+| *ni* | **nu** | | *vi* | **vu** |
+| *nia* | **nua** | | *via* | **vua** |
+
+| | | | | | | | | | | | | | |
+|-|-|-|-|-|-|-|-|-|-|-|-|-|-|
+| *li* | **ollu** | | *ŝi* | **allu** | | *ri* | **ellu** | | *ĝi* | **ullu** | | *ili* | **illi** |
+| *lia* | **ollua** | | *ŝia* | **allua** | | *ria* | **ellua** | | *ĝia* | **ullua** | | *ilia* | **illua** |
+
+| | | | | |
+|-|-|-|-|-|
+| *oni* | **onu** | | *si* | **su** |
+| *onia* | **onua** | | *sia* | **sua** |
+
+<!-- la vorto "vio" subite liberas! -->

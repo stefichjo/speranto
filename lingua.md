@@ -265,6 +265,15 @@ La korelativo **la** kaj la numeralo **un** uziĝas kiel artikoloj. ***En poezio
 
 ### Pronomoj
 
+| | | | | |
+|-|-|-|-|-|
+| *mi* | **me** | | *ci* | **tu** |
+| *mia* | **mea** | | *cia* | **tūa** |
+| *min* | **mi** | | *cin* | **ti** |
+| | | | | |
+| *ni(n)* | **nos** | | *vi(n)* | **vos** |
+| *nia* | **nossa** | | *via* | **vossa** |
+
 | | | | | | | | | | | | | | |
 |-|-|-|-|-|-|-|-|-|-|-|-|-|-|
 | *li* | **olle** | | *ŝi* | **alle** | | *ri* | **elle** | | *ĝi* | **ulle** | | *ili* | **ille** |
@@ -273,18 +282,9 @@ La korelativo **la** kaj la numeralo **un** uziĝas kiel artikoloj. ***En poezio
 
 | | | | | |
 |-|-|-|-|-|
-| *oni* | **une** | | *si* | **su** |
-| *onia* | **una** | | *sia* | **sūa** |
-| *onin* | **uni** | | *sin* | **si** |
-
-| | | | | |
-|-|-|-|-|-|
-| *mi* | **me** | | *vi* | **tu** |
-| *mia* | **mea** | | *via* | **tūa** |
-| *min* | **mi** | | *vin* | **ti** |
-| | | | | |
-| *ni(n)* | **nos** | | *vi(n)* | **vos** |
-| *nia* | **nossa** | | *via* | **vossa** |
+| *oni* | **one** | | *si* | **su** |
+| *onia* | **ona** | | *sia* | **sūa** |
+| *onin* | **oni** | | *sin* | **si** |
 
 ### Verboj
 

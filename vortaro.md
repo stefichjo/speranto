@@ -391,11 +391,12 @@
 | **Venĕre** | **Venĕro** = **Vendro** | | *Venuso* | - |
 | **venĕredīe** | **venĕredīo** = **vendredīo** | | *vendredo* | |
 | **voce** | | | *voĉo* | |
-| **via** | **vĩo** = **voyo** | | *vojo* | **vio** |
+| **via** | **vio** | | *vojo* | **vio** |
 | **viatĭco** | **viatĭco** = **viaĵo** | | *vojaĝo* | |
 | | | **worto** | *vorto* | **vokablo** |
 
 ## [Z](https://tekstaro.com/t?nomo=reformoj-esperanto)
+*(≈ 1894)*
 
 | | |
 |-|-|

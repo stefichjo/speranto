@@ -9,11 +9,18 @@ revealOptions:
 
 <!-- reveal-md slides.md #-w -->
 
+## Sinprezento
+
+* Stephan "Stefo" Schneider
+* Esperanto Fajnigita (2010)
+
+<!--s-->
+
 ## Motivigoj
 
 ### Babela Turo?
 
-### Dialektoj?
+### Dialektaro?
 
 <!--v-->
 
@@ -26,7 +33,7 @@ revealOptions:
 
 <!--v-->
 
-### Dialektoj?
+### Dialektaro?
 
 | | | |
 |-|-|-|
@@ -34,8 +41,10 @@ revealOptions:
 | *Okcidentalo* | | lingue international |
 | *Adjuvilo* | | linguo internacionala |
 | *Ido* | | linguo internaciona |
-| | | |
+|
 | *Esperanto* | | lingvo internacia |
+|
+| *Z (1894)* | | lingvo internazie |
 
 <!--s-->
 
@@ -291,27 +300,13 @@ revealOptions:
 
 ## Speranto
 
-### Personaj Pronomoj
-
-| | | | | | | | | |
-|-|-|-|-|-|-|-|-|-|
-| 🅰 | **me**/**mi** | | **tu**/**ti** | [tu/ti] | | **su**/**si** | | **vos** |
-| 🅴 | **mi** | | **tī** | [ŧi] | | **si** | | **vi** |
-| 🅾 | **mi(n)** | | ~**tī(n)**~ | [si(n)] | | **si(n)** | | **vi(n)** |
-|
-| | | | | [**ci(n)**] | | | | |
-
----
-
-## Speranto
-
 ### n ⟷ s
 
 | | | | | |
 |-|-|-|-|-|
-| 🅰 | **me videba** | | **domos** | [domos] |
-| 🅴 | **mi vidin** | | **domes** | [domes] |
-| 🅾 | **mi vidis** | | **domoi(n)** | [domoj(n)] |
+| 🅰 | **me vide** | | **domos** | [domos] |
+| 🅴 | **mi vidan** | | **domes** | [domes] |
+| 🅾 | **mi vidas** | | **domoi(n)** | [domoj(n)] |
 |
 | | | | | [**domoj(n)**] |
 
@@ -387,7 +382,23 @@ revealOptions:
 |
 | 🌍 | | [**esperas**] | | | [**estas**] |
 
-<!--s-->
+---
+
+## Esperanto
+
+### Personaj Pronomoj
+
+| | | | | | | | | |
+|-|-|-|-|-|-|-|-|-|
+| 🅰 | **me**/**mi** | | **tu**/**ti** | [tu/ti] | | **su**/**si** | | **vos** |
+| 🅴 | **mi** | | **tī** | [ŧi] | | **si** | | **vi** |
+| 🅾 | **mu(n)** | | **tu(n)** | [tu(n)] | | **su(n)** | | **vu(n)** |
+|
+| | | | | [**tu(n)**] | | | | |
+|
+| 🌍 | | | | [**ci(n)**] | | | | |
+
+---
 
 | | | | | |
 |-|-|-|-|-|
@@ -402,7 +413,3 @@ revealOptions:
 | ↪ | | ↪ | | *Speranto* |
 |
 | | | | | *Esperanto* |
-
-<!--
-* Bonuso: Komentoj de Zamĉjo
--->
