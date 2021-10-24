@@ -332,15 +332,15 @@ revealOptions:
 
 ## Speranto
 
-### Akĉentoj
+### Pruntvortoj
 
 | | | | | | |
 |-|-|-|-|-|-|
-| 🅰 | **cadentĭa** | [kadenti-a] | | | |
-| 🅴 | **cadentie** | [kadenŧje] | | | |
-| 🅾 | **cadentio** | [kadensjo] | | **çhanço** | [ŝanso] |
+| - | | | | | | |
+| - | | | | | | |
+| 🅾 | **kolbaso** | [kolbaso] | | **partȳo** | [partio] |
 |
-| | | [**kadenco**] | | | [**ŝanco**] |
+| | | [**kolbaso**] | | | [**partio**] |
 
 ---
 
@@ -350,11 +350,25 @@ revealOptions:
 
 | | | | | | |
 |-|-|-|-|-|-|
-| - | | | | | | |
-| - | | | | | | |
-| 🅾 | **partȳo** | [partio] | | **ẽn** | [ajn] |
+| 🅰 | **ĭusta** | [iusta] | | | |
+| 🅴 | **justa** | [justa] | | | |
+| 🅾 | **justa** | [ĥusta] | | **ĵusta** | [ĵusta] |
 |
-| | | [**partio**] | | | [**ajn**] |
+| | | [**justa**] | | | [**ĵusta**] |
+
+---
+
+## Speranto
+
+### Pruntvortoj
+
+| | | | | | |
+|-|-|-|-|-|-|
+| 🅰 | **cadentĭa** | [kadenti-a] | | | |
+| 🅴 | **cadentie** | [kadenŧje] | | | |
+| 🅾 | **cadentio** | [kadensjo] | | **çhanço** | [ŝanso] |
+|
+| | | [**kadenco**] | | | [**ŝanco**] |
 
 <!--s-->
 
@@ -401,22 +415,6 @@ revealOptions:
 | | | [**esas**] | | | [**stas**] |
 |
 | 🌍 | | [**estas**] | | | [**staras**] |
-
----
-
-## Esperanto
-
-### Dialektoj
-
-| | | | | | |
-|-|-|-|-|-|-|
-| 🅰 | **acceptare** | [akkepta] | | **ĭusta** | [iusta] |
-| 🅴 | **acceptu** | [akceptu] | | **justa** | [justa] |
-| 🅾 | **accepti** | [akĉepti] | | **justa** | [ĥusta] |
-|
-| | | [**akcepti**] | | | [**justa**] |
-|
-| 🌍 | | + [**aĉeti**] | | | + [**ĝusta**] |
 
 ---
 
