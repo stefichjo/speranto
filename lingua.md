@@ -189,7 +189,7 @@ Originaj adverboj konservas sian ŝajnfinaĵon.
 
 | | |
 |-|-|
-| *hodiaŭ* | **hodie** |
+| *hodiaŭ* | **hodĭe** |
 
 ### Numeraloj
 
@@ -332,7 +332,7 @@ En la prezenco, la infinitiva finiĝo -**re** forestas.
 |-|-|-|
 | *mi havas* | **me habe** | **habem** |
 | *vi havas* | **tu habe** | **habes** |
-| *ĝi havas* | **ulle habe** | **habet** |
+| *li/ŝi havas* | **ulle habe** | **habet** |
 | | | |
 | *ni havas* | **nos habe** | **habemus** |
 | *vi havas* | **vos habe** | **habetis** |
@@ -451,7 +451,7 @@ Por alativo, lokativo, ablativo uziĝas la prepozicioj **de**, **in**, **ad**.
 | *mi estas ĉe/en la domo* | **me esse in la domo** |
 | *mi iras al/ĝis la domo* | **me vade ad la domo** |
 
-***En poezio***, uziĝas la prepozicioj **di**, **en**, **al** por dativo, instrumentalo kaj genitivo. Pere de la prepozicio **al** formiĝas prepoziciaĵoj.
+***En poezio***, uziĝas la prepozicioj **di**, **en**, **al** por genitivo, instrumentalo kaj dativo. Pere de la prepozicio **al** formiĝas prepoziciaĵoj.
 
 | | | poezie |
 |-|-|-|
@@ -466,7 +466,7 @@ Por alativo, lokativo, ablativo uziĝas la prepozicioj **de**, **in**, **ad**.
 | | (tra bruo) |
 |-|-|
 | *mi vidas Karlan* | **me vide a Carla** |
-| *vin mi vidas* | **a ti me vide** |
+| *vin mi vidas* | **a tu me vide** |
 
 ### Konjunkcioj
 

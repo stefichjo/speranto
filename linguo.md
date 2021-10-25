@@ -206,7 +206,7 @@ Analogie, **ĭ** ne asimiliĝas, sed **di** *[ĵ]* prononciĝas *[di]*.
 | *filo* | **filĭo** *[fiḷo]* | *[filo]* |
 | *propra* | **proprĭa** *[propja]* | *[propra]* |
 | | | |
-| *hodiaŭ* | **hodĭô** *[hoĵaŭ]* | *[hodiaŭ]* |
+| *hodiaŭ* | **hodĭõ** *[hoĵaŭ]* | *[hodiaŭ]* |
 
 Greka **ch** *[k]* pronciĝas *[ĥ]*.
 
@@ -234,8 +234,6 @@ Greka **ch** *[k]* pronciĝas *[ĥ]*.
 |-|-|-|
 | *oro* | **auro** *[aŭro]* | *[oro]* |
 | *povra* | **pauvra** *[paŭvra]* | *[povra]* |
-| | | |
-| *hodiaŭ* | **hodĭô** *[hoĵaŭ]* | *[oĵe]* |
 
 | | ital-rumane | franc-portugale | hispane |
 |-|-|-|-|
@@ -269,11 +267,11 @@ Adverboj finiĝas je **-e**.
 |-|-|
 | *bone* | **bone** *[bone]* |
 
-Originaj adverboj finiĝas je **-ô** *[aŭ]*. ***En poezio***, ili povas finiĝi je **-ö** *[e]*.
+Originaj adverboj finiĝas je **-õ** *[aŭ]*. ***En poezio***, ili povas finiĝi je **-ø** *[e]*.
 
 | | | poezie |
 |-|-|-|
-| *baldaŭ* | **baldô** *[baldaŭ]* | **baldö** *[balde]* |
+| *baldaŭ* | **baldõ** *[baldaŭ]* | **baldø** *[balde]* |
 
 ***En poezio***, la **i** en korelativaj ŝajnradikoj prononciĝas *[j]*.
 

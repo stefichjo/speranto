@@ -6,7 +6,7 @@
 | **abiete** | | | *abio* | **abieto** |
 | **abominare** | | | *abomeni* | **abomina** |
 | **comprare** |  **açcĕpti** = **açhti** | | *aĉeti* | **kompra** |
-| **addeo** | **addeô** = **addeaŭ** | | *adiaŭ* | |
+| **addeo** | **addeõ** = **addeaŭ** | | *adiaŭ* | |
 | **adulterare** | | | *adulti* | **adultera** |
 | **aere** | **êro** = **airo** | | *aero* | |
 | **aerare** | **êrumi** = **airumu**| | *aerumi* | **aera** |
@@ -24,20 +24,20 @@
 | **ad** | **al** | | *al* | |
 | | | | *alaŭdi* | |
 | **altra** | | | *alia* | |
-| **almino** | **almïnô** = **almenau** | | *almenaŭ* | |
+| **almino** | **almïnõ** = **almenau** | | *almenaŭ* | |
 | **alemosy̆na** | **almono** | **almoso** | *almozo* | |
-| **ambi** | **ambô** = **ambau** | | *ambaŭ* | **ambi** |
+| **ambi** | **ambõ** = **ambau** | | *ambaŭ* | **ambi** |
 | **incude** | | **ambosso** | *amboso* | **inkudo** |
 | **amylo** | **amylo** = **amilo** | | *amelo* | |
 | **cortensiare** | **corten̆sĭi** = **corteĵi** / **amindumi** | | *amindumi* | **kortesa** |
 | **anătra** | **anatro** | | *anaso* | **anatro** |
-| **ance** | **ancô** = **ancau** | | *ankaŭ* | |
-| **ancora** | **ancorô** = **ancorau** | | *ankoraŭ* | |
+| **ance** | **ancõ** = **ancau** | | *ankaŭ* | |
+| **ancora** | **ancorõ** = **ancorau** | | *ankoraŭ* | |
 | **annuntiare** | | | *anonci* | - |
 | **vic' ad** | **viĉał** | **anŝtattał** | *anstataŭ* | **inloku** |
 | **ant' ad** / **ante** | **antał** = **antau** | | *antaŭ* | |
 | **Annuntiatione** | | | *Anunciacio* | |
-| **appena** | **appenô** = **appenau** | | *apenaŭ* | |
+| **appena** | **appenõ** = **appenau** | | *apenaŭ* | |
 | **applaudĕre** | | | *aplaŭdi* | **aploda** |
 | **appodiare** | **appodĭi** = **appoĵi** | | *apogi* | |
 | | | | *-ar-* | |
@@ -58,7 +58,7 @@
 | | | | | |
 | **baldaquino** | **baldaqŭino** | | *baldakeno* | **baldaquino** |
 | | | **backi** | *baki* | **inforna** |
-| | | **baldô** = **baldau** | *baldaŭ* | **prestu** |
+| | | **baldõ** = **baldau** | *baldaŭ* | **prestu** |
 | **baniare** | **banĭi** | | *bani* | **bagna** |
 | | | | *banto* | **nodo** |
 | | | | *barakti* | **springi** |
@@ -279,7 +279,7 @@
 | | | | | |
 | | | **haġlo** = **hailo** | *hajlo* | **grelo** |
 | **domo** | | **hêmo** = **haimo** | *hejmo* | **(sue) domo** |
-| **heri** | **hẽrô** = **hierau** | | *hieraŭ* | |
+| **heri** | **hẽrõ** = **hierau** | | *hieraŭ* | |
 | | | **hobbȳo** | *hobio* | - |
 | | | | | |
 | **implicare** | **implicumi** | | *implici* | - |

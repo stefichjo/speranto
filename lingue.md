@@ -169,12 +169,6 @@ Celaj adverboj finiĝas je **-u**.
 | *hejme* | **domo** |
 | *hejmen* | **domu** |
 
-Originaj adverboj finiĝas je **-ǒ** *[u]*. ***En poezio***, ili povas finiĝi je **-o**.
-
-| | | (*poezie*) |
-|-|-|-|
-| *hodiaŭ* | **hodiǒ** = **hodiu** *[hodju]* | **hodio** *[hodjo]* |
-
 ### Numeraloj
 
 Vd. [numeraloj en ***Lingvao***](lingua.md#numeraloj).
@@ -283,14 +277,6 @@ La radiko de (latin(id)a) verbo estas tiu de la unua persono en ununombro.
 | *mi legas* | **mi legan** |
 | *mi plaĉas* | **mi plaĉan** |
 | *mi povas* | **mi possan** |
-
-***En poezio***, la verboj **stadu**, **statu** kaj **staru** perdas siajn ŝajnfinaĵojn **-ad-**, **-at-** kaj **-ar-**.
-
-| | | poezie |
-|-|-|-|
-| *(ĉe-)estas* | **stadu** | **stu** |
-| *statas* | **statu** | **stu** |
-| *staras* | **staru** | **stu** |
 
 ### Prepozicioj
 

@@ -318,15 +318,15 @@ revealOptions:
 
 ## Speranto
 
-### l → ł
+### -al, -o → -aŭ
 
-| | | |
-|-|-|-|
-| 🅰 | **circ' ad/al** | [kirk ad/al] |
-| 🅴 | **circ̄ĕ al** | [cirkal] |
-| 🅾 | **circał** | [ĉirkaŭ] |
+| | | | | | |
+|-|-|-|-|-|-|
+| 🅰 | **circ' ad** | [kirk ad] | | **hodĭe** | [hodi-e] |
+| 🅴 | **circ̄ĕ al** | [cirkal] | | **hodio** | [hodjo] |
+| 🅾 | **circał** | [ĉirkaŭ] | | **hodĭõ** | [hoĵaŭ] |
 |
-| | | [**cirkaŭ**] |
+| | | [**cirkaŭ**] | | | [**hodiaŭ**] |
 
 <!--v-->
 
@@ -498,14 +498,54 @@ revealOptions:
 
 | | | |
 |-|-|-|
-| **asdf** | ↪ | **qwer** |
+| **me habe** | → | **habem** |
+| **tu habe** | → | **habes** |
+| **ullu habe** | → | **habet** |
+|
+| **nos habe** | → | **habemus** |
+| **vos habe** | → | **habetis** |
+| **illu habe** | → | **habent** |
 
+<!--v-->
 
+## Lingua
 
-<!--
+### Poezio
 
-montrindaĵoj:
-* habemus
-* en/in
-* laboro lavoro
--->
+| | | | | |
+|-|-|-|-|-|
+| **me esse** | → | **essem** | → | **sum** |
+| **tu esse** | → | **esses** | → | **es** |
+| **ullu esse** | → | **esset** | → | **est** |
+|
+| **nos esse** | → | **essemus** | → | **sumus** |
+| **vos esse** | → | **essetis** | → | **estis** |
+| **illu esse** | → | **essent** | → | **sunt** |
+
+<!--v-->
+
+## Lingua
+
+### Poezio
+
+| | | | | | | |
+|-|-|-|-|-|-|-|
+| **de** | | → | | **de** | **+** | **di** |
+| **in** | | → | | **in** | **+** | **en** |
+| **ad** | | → | | **ad** | **+** | **al** |
+
+<!--s-->
+
+## Linguo
+
+### Poezio
+
+<!--v-->
+
+## Linguo
+
+### Poezio
+
+| | | | | |
+|-|-|-|-|-|
+| **hodĭõ** | [hoĵaŭ] | → | **hodĭø** | [hoĵe] |
