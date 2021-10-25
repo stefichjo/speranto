@@ -302,7 +302,7 @@ La akuzativa prepozicio **a** uziĝas ***tra bruo*** (specife antaŭ nomoj aŭ k
 |-|-|
 | *mi vidas Karlan* | **mi vidan a Carla** |
 | | |
-| *rin mi vidas* | **a elli mi vidan** |
+| *rin mi vidas* | **a ulli mi vidan** |
 
 ### Konjunkcioj
 
