@@ -198,9 +198,9 @@ revealOptions:
 
 | | | | | |
 |-|-|-|-|-|
-| *Äzyk* | | *Sprak* | | *Lingua* 🅰 |
-| | | | | *Lingue* 🅴 |
-| ↪ | | ↪ | | *Linguo* 🅾 |
+| *Äzyk* | | *Sprak* | | *Lingua* |
+| | | | | *Lingue*  |
+| ↪ | | ↪ | | *Linguo* |
 |
 | ↪ | | ↪ | | *Speranto* |
 
@@ -208,13 +208,13 @@ revealOptions:
 
 ## Speranto
 
-| |
-|-|
-| *Lingua* 🅰 |
-| *Lingue* 🅴 |
-| *Linguo* 🅾 |
+| | |
+|-|-|
+| *Lingua* | 🅰 |
+| *Lingue* | 🅴 |
+| *Linguo* | 🅾 |
 |
-| *Speranto* |
+| *Speranto* | |
 
 <!--v-->
 
@@ -402,15 +402,15 @@ revealOptions:
 
 ## Esperanto
 
-| |
-|-|
-| *Lingua* 🅰 |
-| *Lingue* 🅴 |
-| *Linguo* 🅾 |
+| | |
+|-|-|
+| *Lingua* | 🅰 |
+| *Lingue* | 🅴 |
+| *Linguo* | 🅾 |
 |
-| *Speranto* |
+| *Speranto* | |
 |
-| *Esperanto* 🌍 |
+| *Esperanto* | 🌍 |
 
 <!--v-->
 
@@ -486,15 +486,19 @@ revealOptions:
 
 <!--s-->
 
-## Lingua
+## Poezio
 
-### Poezio
+### Lingu🅰
+
+### Lingu🅴
+
+### Lingu🅾
 
 <!--v-->
 
-## Lingua
+## Poezio
 
-### Poezio
+### Lingu🅰
 
 | | | |
 |-|-|-|
@@ -508,43 +512,21 @@ revealOptions:
 
 <!--v-->
 
-## Lingua
+## Poezio
 
-### Poezio
-
-| | | | | |
-|-|-|-|-|-|
-| **me esse** | → | **essem** | → | **sum** |
-| **tu esse** | → | **esses** | → | **es** |
-| **ullu esse** | → | **esset** | → | **est** |
-|
-| **nos esse** | → | **essemus** | → | **sumus** |
-| **vos esse** | → | **essetis** | → | **estis** |
-| **illu esse** | → | **essent** | → | **sunt** |
-
-<!--v-->
-
-## Lingua
-
-### Poezio
+### Lingu🅴
 
 | | | | | | | |
 |-|-|-|-|-|-|-|
-| **de** | | → | | **de** | **+** | **di** |
-| **in** | | → | | **in** | **+** | **en** |
-| **ad** | | → | | **ad** | **+** | **al** |
-
-<!--s-->
-
-## Linguo
-
-### Poezio
+| **de** | | → | | **de** | **≠** | **di** |
+| **in** | | → | | **in** | **≠** | **en** |
+| **ad** | | → | | **ad** | **≠** | **al** |
 
 <!--v-->
 
-## Linguo
+## Poezio
 
-### Poezio
+### Lingu🅾
 
 | | | | | |
 |-|-|-|-|-|

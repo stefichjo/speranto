@@ -451,16 +451,6 @@ Por alativo, lokativo, ablativo uziĝas la prepozicioj **de**, **in**, **ad**.
 | *mi estas ĉe/en la domo* | **me esse in la domo** |
 | *mi iras al/ĝis la domo* | **me vade ad la domo** |
 
-***En poezio***, uziĝas la prepozicioj **di**, **en**, **al** por genitivo, instrumentalo kaj dativo. Pere de la prepozicio **al** formiĝas prepoziciaĵoj.
-
-| | | poezie |
-|-|-|-|
-| *mi legas libron de amiko* | **me lege libro de amico** | **legem libro di amico** |
-| *mi venas per biciklo* | **me veni in bicyclo** | **venim en bicyclo** |
-| *mi parolas al amiko* | **me parola ad amico** | **parolam al amico** |
-| | | |
-| *mi iras ĉirkaŭ la domo* | **me vade circ' ad la domo** | **vadem circ' al la domo** |
-
 ***Tra bruo*** (kaj antaŭ nomo), la prepozicio **a** uziĝas por akuzativo.
 
 | | (tra bruo) |
