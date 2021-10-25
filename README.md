@@ -32,8 +32,8 @@ Pli detale, ***Linguo*** evoluis el ***Lingue***, kaj ***Lingue*** siaflanke evo
 
 | ***Speranto*** / ***Lingvoo (Slav-Ĝermane)*** |
 |-|
-| **Sï nu et supposos, qŭe la fina linguo de la essontai generatīoi essas ne Speranto, ïn chia occaso la vio al tiu ellavorota linguo nepre devas conduqŭi tra Speranto.** |
-| *[Se nu et supozos, ke la fina lingvo de la esontaj generacioj esas ne Speranto, en ĉia okazo la vio al tiu ellavorota lingvo nepre devas konduki tra Speranto.]* |
+| **Sï nu et supposos, qŭe la fina linguo de la essontai generatīoi essas ne Speranto, ïn chia occaso la vio al tiu ellav̄orota linguo nepre devas conduqŭi tra Speranto.** |
+| *[Se nu et supozos, ke la fina lingvo de la esontaj generacioj esas ne Speranto, en ĉia okazo la vio al tiu ellaborota lingvo nepre devas konduki tra Speranto.]* |
 
 | ***Lingvoo*** |
 |-|
@@ -43,7 +43,7 @@ Pli detale, ***Linguo*** evoluis el ***Lingue***, kaj ***Lingue*** siaflanke evo
 | ***Lingveo*** |
 |-|
 | **Sï ni et supposon, c̄e la fina lingue de las essontas generaties essan no Sperante, ïn omna occase la vie al ti ellavorota lingue infallivlo devan conducu tra Sperante.** |
-| *[Se ni et supozon, ke la fina lingŭe de las esontas dzeneraθjes esan no Sperante, en omna okaze la vie al ti ellavorota lingŭe infalivlo devan konduku tra Sperante.]* |
+| *[Se ni et supozon, ke la fina lingŭe de las esontas dzeneraŧjes esan no Sperante, en omna okaze la vie al ti ellavorota lingŭe infalivlo devan konduku tra Sperante.]* |
 
 | ***Lingvao*** |
 |-|

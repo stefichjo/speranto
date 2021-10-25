@@ -276,9 +276,9 @@ La korelativo **la** kaj la numeralo **un** uziĝas kiel artikoloj. ***En poezio
 
 | | | | | | | | | | | | | | |
 |-|-|-|-|-|-|-|-|-|-|-|-|-|-|
-| *li* | **olle** | | *ŝi* | **alle** | | *ri* | **elle** | | *ĝi* | **ulle** | | *ili* | **ille** |
-| *lia* | **olla** | | *ŝia* | **alla** | | *ria* | **ella** | | *ĝia* | **ulla** | | *ilia* | **illa** |
-| *lin* | **olli** | | *ŝin* | **alli** | | *rin* | **elli** | | *ĝin* | **ulli** | | *ilin* | **illi** |
+| *li* | **olle** | | *ŝi* | **alle** | | *ri* | **ulle** | | *ĝi* | **elle** | | *ili* | **ille** |
+| *lia* | **olla** | | *ŝia* | **alla** | | *ria* | **ulla** | | *ĝia* | **ella** | | *ilia* | **illa** |
+| *lin* | **olli** | | *ŝin* | **alli** | | *rin* | **ulli** | | *ĝin* | **elli** | | *ilin* | **illi** |
 
 | | | | | |
 |-|-|-|-|-|

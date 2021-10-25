@@ -26,6 +26,12 @@ La ŝajnsufikso **-atĭc-** prononciĝas *[aĵ]*.
 |-|-|
 | *avantaĝo* | **avantatĭco** = **avantaĵo** *[avantaĵo]* |
 
+La sufikso **-etĭ-** prononciĝas *[es]*.
+
+| | |
+|-|-|
+| *beleco* | **belletĭo** = **bellesso** *[beleso]* |
+
 ### c, g
 
 **c** kaj **g** estas prononcataj *[ĉ]* kaj *[ĝ]* antaŭ **-e** kaj **-i**. Kiam **c** kaj **g** estas prononcataj *[k]* kaj *[g]* antaŭ **-e** kaj **-i**, ili skribiĝas **qŭ** kaj **gŭ**.
@@ -300,8 +306,8 @@ Prepoziciaĵoj finiĝas je **-ał** *[aŭ]*.
 
 | | | | | | | | | | | | | | |
 |-|-|-|-|-|-|-|-|-|-|-|-|-|-|
-| *li* | **ollu** | | *ŝi* | **allu** | | *ri* | **ellu** | | *ĝi* | **ullu** | | *ili* | **illu** |
-| *lia* | **ollua** | | *ŝia* | **allua** | | *ria* | **ellua** | | *ĝia* | **ullua** | | *ilia* | **illua** |
+| *li* | **ollu** | | *ŝi* | **allu** | | *ri* | **ullu** | | *ĝi* | **ellu** | | *ili* | **illu** |
+| *lia* | **ollua** | | *ŝia* | **allua** | | *ria* | **ullua** | | *ĝia* | **ellua** | | *ilia* | **illua** |
 
 | | | | | |
 |-|-|-|-|-|

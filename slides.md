@@ -88,7 +88,7 @@ revealOptions:
 |
 | | **den** | | | **ŝest** |
 
----
+<!--v-->
 
 ## Äzyk
 
@@ -128,7 +128,7 @@ revealOptions:
 |
 | | **shin** | | | **lud** |
 
----
+<!--v-->
 
 ## Sprak
 
@@ -168,7 +168,7 @@ revealOptions:
 |
 | | **terra** | | | **massa** |
 
----
+<!--v-->
 
 ## Lingua
 
@@ -178,7 +178,7 @@ revealOptions:
 |-|-|-|-|-|
 | 🇮🇹 foglia | **folĭa** | | spazio | **spatĭo** |
 | 🇫🇷 feuille | **følĭă** | | espace | **s̈patĭŏ** |
-| 🇪🇸 hoja | **ꞙolĭa** | | espacio | **s̈patĭo** |
+| 🇪🇸 hoja | **~f~olĭa** | | espacio | **s̈patĭo** |
 |
 | | **folĭa** | | | **spatĭo** |
 
@@ -230,7 +230,7 @@ revealOptions:
 |
 | | | [**tero**] | | | [**maso**] |
 
----
+<!--v-->
 
 ## Speranto
 
@@ -244,7 +244,7 @@ revealOptions:
 |
 | | | [**akcento**] | | | [**generalo**] |
 
----
+<!--v-->
 
 ## Speranto
 
@@ -258,7 +258,7 @@ revealOptions:
 |
 | | | [**akvo**] | | | [**lingvo**] |
 
----
+<!--v-->
 
 ## Speranto
 
@@ -272,7 +272,7 @@ revealOptions:
 |
 | | | [**kio**] | | | [**ne**] |
 
----
+<!--v-->
 
 ## Speranto
 
@@ -286,7 +286,7 @@ revealOptions:
 |
 | | | [**familio**] | | | [**filo**] |
 
----
+<!--v-->
 
 ## Speranto
 
@@ -300,7 +300,7 @@ revealOptions:
 |
 | | | [**nacio**] | | | [**spaco**] |
 
----
+<!--v-->
 
 ## Speranto
 
@@ -314,7 +314,7 @@ revealOptions:
 |
 | | | | | [**domoj(n)**] |
 
----
+<!--v-->
 
 ## Speranto
 
@@ -326,9 +326,23 @@ revealOptions:
 | 🅴 | **circ̄ĕ al** | [cirkal] |
 | 🅾 | **circał** | [ĉirkaŭ] |
 |
-| | | [**ĉirkaŭ**] |
+| | | [**cirkaŭ**] |
 
----
+<!--v-->
+
+## Speranto
+
+### b → v
+
+| | | |
+|-|-|-|
+| 🅰 | **scribe** | [skribe] | | **habe** | [habe] |
+| 🅴 | **scrivan** | [skrivan] | | **havan** | [havan] |
+| 🅾 | **scrivas** | [skrivas] | | **havas** | [havas] |
+|
+| | | [**skribas**] | | | [**habas**] |
+
+<!--v-->
 
 ## Speranto
 
@@ -342,7 +356,7 @@ revealOptions:
 |
 | | | [**kolbaso**] | | | [**partio**] |
 
----
+<!--v-->
 
 ## Speranto
 
@@ -356,7 +370,7 @@ revealOptions:
 |
 | | | [**justa**] | | | [**ĵusta**] |
 
----
+<!--v-->
 
 ## Speranto
 
@@ -369,6 +383,20 @@ revealOptions:
 | 🅾 | **cadentio** | [kadensjo] | | **çhanço** | [ŝanso] |
 |
 | | | [**kadenco**] | | | [**ŝanco**] |
+
+<!--v-->
+
+## Speranto
+
+### Pruntvortoj
+
+| | | | | | |
+|-|-|-|-|-|-|
+| 🅰 | **-etĭa** | [eti-a] | | | |
+| 🅴 | **-etie** | [eŧje] | | | |
+| 🅾 | **-etio** | [esjo] | | **-eço** | [eso] |
+|
+| | | [**-eco**] | | | [**-eco**] |
 
 <!--s-->
 
@@ -396,11 +424,9 @@ revealOptions:
 | 🅴 | **speran** | [speran] |
 | 🅾 | **speras** | [speras] |
 |
-| | | [**speras**] |
-|
 | 🌍 | | [**esperas**] |
 
----
+<!--v-->
 
 ## Esperanto
 
@@ -412,11 +438,23 @@ revealOptions:
 | 🅴 | **essan** | [esan] | | **stan** | [stan] |
 | 🅾 | **essas** | [esas] | | **stas** | [stas] |
 |
-| | | [**esas**] | | | [**stas**] |
-|
 | 🌍 | | [**estas**] | | | [**staras**] |
 
----
+<!--v-->
+
+## Esperanto
+
+### diri + fari
+
+| | | | | | |
+|-|-|-|-|-|-|
+| 🅰 | **dice** | [dike] | | **face** | [fake] |
+| 🅴 | **diĉan** | [dican] | | **faĉan** | [facan] |
+| 🅾 | **diĉas** | [diĉas] | | **faĉas** | [faĉas] |
+|
+| 🌍 | | [**diras**] | | | [**faras**] |
+
+<!--v-->
 
 ## Esperanto
 
@@ -424,15 +462,13 @@ revealOptions:
 
 | | | | | | | | | |
 |-|-|-|-|-|-|-|-|-|
-| 🅰 | **me**/**mi** | | **tu**/**ti** | [tu/ti] | | **su**/**si** | | **vos** |
-| 🅴 | **mi** | | **tī** | [ŧi] | | **si** | | **vi** |
-| 🅾 | **mu(n)** | | **tu(n)** | [tu(n)] | | **su(n)** | | **vu(n)** |
+| 🅰 | **me**/**mi** | | **tu**/**ti** | [tu/ti] | | **vos** |
+| 🅴 | **mi** | | **tī** | [ŧi] | | **vi** |
+| 🅾 | **mu(n)** | | **tu(n)** | [tu(n)] | | **vu(n)** |
 |
-| | | | | [**tu(n)**] | | | | |
-|
-| 🌍 | | | | [**ci(n)**] | | | | |
+| 🌍 | | | | [**ci(n)**] | | |
 
----
+<!--v-->
 
 | | | | | |
 |-|-|-|-|-|
@@ -447,3 +483,29 @@ revealOptions:
 | ↪ | | ↪ | | *Speranto* |
 |
 | | | | | *Esperanto* |
+
+<!--s-->
+
+## Lingua
+
+### Poezio
+
+<!--v-->
+
+## Lingua
+
+### Poezio
+
+| | | |
+|-|-|-|
+| **asdf** | ↪ | **qwer** |
+
+
+
+<!--
+
+montrindaĵoj:
+* habemus
+* en/in
+* laboro lavoro
+-->

@@ -236,10 +236,10 @@ Ne estas ne-difina artikolo.
 
 | | | | | | | | | | | | | | |
 |-|-|-|-|-|-|-|-|-|-|-|-|-|-|
-| *li(n)* | **olli** | | *ŝi(n)* | **alli** | | *ri(n)* | **elli** | | *ĝi(n)* | **ulli** | | *ili(n)* | **illi** |
-| *lia* | **ollia** | | *ŝia* | **allia** | | *ria* | **ellia** | | *ĝia* | **ullia** | | *ilia* | **illia** |
+| *li(n)* | **olli** | | *ŝi(n)* | **alli** | | *ri(n)* | **ulli** | | *ĝi(n)* | **elli** | | *ili(n)* | **illi** |
+| *lia* | **ollia** | | *ŝia* | **allia** | | *ria* | **ullia** | | *ĝia* | **ellia** | | *ilia* | **illia** |
 
-La personaj pronomoj **olli**, **alli**, **elli** kaj **ulli** estas mallongigeblaj al **li**, kiam la kunteksto estas klara.
+La personaj pronomoj **olli**, **alli**, **ulli** kaj **elli** estas mallongigeblaj al **li**, kiam la kunteksto estas klara.
 
 | | |
 |-|-|
