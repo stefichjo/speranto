@@ -484,6 +484,67 @@ revealOptions:
 
 <!--s-->
 
+## Bonuso
+
+### 🅰🅴🅾
+
+<!--s-->
+
+## Verboj
+
+### Lingu🅰
+
+### Lingu🅴
+
+### Lingu🅾
+
+<!--v-->
+
+## Verboj
+
+### Lingu🅰
+
+| |
+|-|
+| **nos vide** |
+| **nos videba** |
+| **nos viderā** |
+|
+| **ce nos vida** |
+| **vide(te)!** |
+
+<!--v-->
+
+## Verboj
+
+### Lingu🅴
+
+| |
+|-|
+| **ni vidan** |
+| **ni vidin** |
+| **ni vidon** |
+|
+| **c̄e ni viden** |
+| **viden!** |
+
+<!--v-->
+
+## Verboj
+
+### Lingu🅾
+
+| |
+|-|
+| **nu vidas** |
+| **nu vidis** |
+| **nu vidos** |
+|
+| **qŭe nu vidu** |
+| **vidu!** |
+
+<!--s-->
+
 ## Akuzativo
 
 ### Lingu🅰
@@ -564,3 +625,16 @@ revealOptions:
 |-|-|-|-|-|
 | **hodĭõ** | [hoĵaŭ] | → | **hodĭø** | [hoĵe] |
 
+<!--
+videta ≠ vista ?
+poezie ?
+(videta = vidata, vista = vidita)
+
+diceta = dirata
+dicta = dirita
+
+scribeta = skribata
+scripta = skribita
+
+(ĭam, anc'hora(?))
+-->
