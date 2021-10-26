@@ -442,20 +442,6 @@ revealOptions:
 
 ## Esperanto
 
-### diri + fari
-
-| | | | | | |
-|-|-|-|-|-|-|
-| 🅰 | **dice** | [dike] | | **face** | [fake] |
-| 🅴 | **diĉan** | [dican] | | **faĉan** | [facan] |
-| 🅾 | **diĉas** | [diĉas] | | **faĉas** | [faĉas] |
-|
-| 🌍 | | [**diras**] | | | [**faras**] |
-
-<!--v-->
-
-## Esperanto
-
 ### Pronomoj
 
 | | | | | | | | | |
@@ -510,6 +496,7 @@ revealOptions:
 | **nos videba** |
 | **nos viderā** |
 |
+| **si nos videsse** |
 | **ce nos vida** |
 | **vide(te)!** |
 
@@ -525,6 +512,7 @@ revealOptions:
 | **ni vidin** |
 | **ni vidon** |
 |
+| **sï ni vidun** |
 | **c̄e ni viden** |
 | **viden!** |
 
@@ -540,6 +528,7 @@ revealOptions:
 | **nu vidis** |
 | **nu vidos** |
 |
+| **sï nu vidus** |
 | **qŭe nu vidu** |
 | **vidu!** |
 
@@ -597,11 +586,23 @@ revealOptions:
 |-|-|-|
 | **me habe** | → | **habem** |
 | **tu habe** | → | **habes** |
-| **ullu habe** | → | **habet** |
+| **ulle habe** | → | **habet** |
 |
 | **nos habe** | → | **habemus** |
 | **vos habe** | → | **habetis** |
-| **illu habe** | → | **habent** |
+| **ille habe** | → | **habent** |
+
+<!--v-->
+
+## Poezio
+
+### Lingu🅰
+
+| |
+|-|
+| **videta → videta ≠ visa** |
+|
+| **nos veni de videre → habemus viso** |
 
 <!--v-->
 
@@ -624,17 +625,3 @@ revealOptions:
 | | | | | |
 |-|-|-|-|-|
 | **hodĭõ** | [hoĵaŭ] | → | **hodĭø** | [hoĵe] |
-
-<!--
-videta ≠ vista ?
-poezie ?
-(videta = vidata, vista = vidita)
-
-diceta = dirata
-dicta = dirita
-
-scribeta = skribata
-scripta = skribita
-
-(ĭam, anc'hora(?))
--->

@@ -429,17 +429,17 @@ En la kondicionalo aldoniĝas la sufikso -**ē** al la infinitiva formo.
 
 | | | poezie |
 |-|-|-|
-| *mi estas vidinta* | **me veni de videre** | **habem visto** 
-| *mi estis vidinta* | **me veniba de videre** | **habebam visto** |
-| *mi estos vidinta* | **me venirā de videre** | **haberām visto** |
+| *mi estas vidinta* | **me veni de videre** | **habem viso** 
+| *mi estis vidinta* | **me veniba de videre** | **habebam viso** |
+| *mi estos vidinta* | **me venirā de videre** | **haberām viso** |
 
 #### Pasivo
 
 | | | poezie |
 |-|-|-|
-| *vidita/vidata domo* | **domo videta** | **domo vista** |
-| *la domo estas vidita de amiko* | **la domo veni videta de amico** | **la domo venit vista de amico** |
-| *la domo estas vidata de amiko* | **la domo esse videta de amico** | **la domo est vista de amico** |
+| *vidita/vidata domo* | **domo videta** | **domo visa** |
+| *la domo estas vidita de amiko* | **la domo veni videta de amico** | **la domo venit visa de amico** |
+| *la domo estas vidata de amiko* | **la domo esse videta de amico** | **la domo est visa de amico** |
 
 ### Prepozicioj
 
