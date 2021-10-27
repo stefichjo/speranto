@@ -534,40 +534,6 @@ revealOptions:
 
 <!--s-->
 
-## Akuzativo
-
-### Lingu🅰
-
-### Lingu🅴
-
-### Lingu🅾
-
-<!--v-->
-
-## Akuzativo
-
-### Lingu🅰
-
-**vos nos vide** → **a vos nos vide**
-
-<!--v-->
-
-## Akuzativo
-
-### Lingu🅴
-
-**vi ni vidan** → **a vi ni vidan**
-
-<!--v-->
-
-## Akuzativo
-
-### Lingu🅾
-
-**vun nu vidas** → **a vu nu vidas**
-
-<!--s-->
-
 ## Poezio
 
 ### Lingu🅰
