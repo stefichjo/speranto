@@ -30,10 +30,30 @@ revealOptions:
 
 ### Babela Turo?
 
+| | | |
+|-|-|-|
+| щ | → | szcz |
+| j | → | gi |
+| d | → | t |
+
+<!--v-->
+
+### Babela Turo?
+
 | | | | | |
 |-|-|-|-|-|
-| 🇵🇱 jeszcze | | 🇩🇰 dyb | | 🇫🇷 jour |
-| 🇷🇺 ещё | | 🇩🇪 tief | | 🇮🇹 giorno |
+| 🇷🇺 ещё | | 🇩🇰 dyb | | 🇫🇷 jour |
+| 🇵🇱 jeszcze | | 🇩🇪 tief | | 🇮🇹 giorno |
+
+<!--v-->
+
+### Dialektaro?
+
+| | | |
+|-|-|-|
+| lingua | → | lingu**e** |
+| lingu**e** | → | lingu**o** |
+| **linguo** [lingvo] | → | **lingvo** |
 
 <!--v-->
 
@@ -566,17 +586,7 @@ revealOptions:
 
 | | | | | | | |
 |-|-|-|-|-|-|-|
-| **scribĕre** | → | **scribĕta** | ≠ | **scripta** |
-
-<!--v-->
-
-## Poezio
-
-### Lingu🅰
-
-| | | | | |
-|-|-|-|-|-|
-| **venire de scribĕre** | → | **habere scripto** |
+| **scribeta** | | → | | **scribĕta** | ≠ | **scripta** |
 
 <!--v-->
 
