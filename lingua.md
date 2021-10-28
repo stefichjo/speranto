@@ -297,7 +297,7 @@ Infinitivoj finiĝas je -**re**. Kelkaj verboj, kies radiko finiĝas je **-ĕ** 
 | *veni* | **venire** |
 | *vidi* | **videre** |
 | *venki* | **vincĕre** |
-| *fari* | **facĭre** → **facĕre** |
+| *fari* | **facĕre** (← **facĭre**) |
 | *ami* | **amare** |
 
 ***En poezio***, la infinitivo kaj persona pronomo en akuzativo fariĝas kvazaŭ unu vorto. Tiam uziĝas **-les** por multenombro kaj **-li** por ununombro.
@@ -308,11 +308,11 @@ Infinitivoj finiĝas je -**re**. Kelkaj verboj, kies radiko finiĝas je **-ĕ** 
 | | | |
 | *mi povas vidi ilin* | **me pote videre illi** | **potem viderles** |
 
-***En poezio***, la infinitiva formo **essĭre** → **essĕre**  mallongiĝas al **esse**.
+***En poezio***, la infinitiva formo **essĕre** (← **essĭre**) mallongiĝas al **esse**.
 
 | | | poezie |
 |-|-|-|
-| *esti* | **essĭre** → **essĕre** | **esse** |
+| *esti* | **essĕre** (← **essĭre**) | **esse** |
 
 #### Prezenco
 
@@ -338,7 +338,7 @@ En la prezenco, la infinitiva finiĝo -**re** forestas.
 | *vi havas* | **vos habe** | **habetis** |
 | *ili havas* | **ille habe** | **habent** |
 
-***En poezio***, la prezencaj formoj de **essĭre** → **essĕre** (respektive de **esse**) povas mallongiĝi al malregulaj formoj.
+***En poezio***, la prezencaj formoj de **essĕre** (← **essĭre**) (respektive de **esse**) povas mallongiĝi al malregulaj formoj.
 
 | | | poezie |
 |-|-|-|
@@ -352,20 +352,27 @@ En la prezenco, la infinitiva finiĝo -**re** forestas.
 
 ##### Volitivo
 
-La volitivo de verboj je **-i** aŭ **-e** finiĝas je **-ĭa** respektive **-ĕa**. La volitivo de verboj je **-ĕ** finiĝas je **-a**. La volitivo de verboj je **-ĭ** finiĝas je **-ĭa**. La volitivo de verboj je **-a** finiĝas je **-e**.
+La volitivo de verboj je **-are** finiĝas je **-e**.
+
+| | infinitivo | volitivo |
+|-|-|-|
+| *vi amu* | **amare** | **tu ame** |
+
+La volitivo de verboj je **-ere** kaj **-ire** finiĝas je **-ĕa** respektive **-ĭa**.
 
 | | infinitivo | volitivo |
 |-|-|-|
 | *vi venu* | **venire** | **tu venĭa** |
 | *vi vidu* | **videre** | **tu vidĕa** |
-| | | |
-| *vi venku* | **vincĕre** | **tu vinca** |
-| | | |
-| *vi faru* | **facĭre** → **facĕre** | **tu facĭa** |
-| | | |
-| *vi amu* | **amare** | **tu ame** |
 
-***En poezio***, la volitivaj formoj de **essĭre** → **essĕre** (respektive de **esse**) povas esti mallongigitaj al malregulaj formoj.
+La volitivo de verboj je **-ĕre** kaj **-ĕre** (← **-ĭre**) finiĝas je **-a** respektive **-ĭa**.
+
+| | infinitivo | volitivo |
+|-|-|-|
+| *vi venku* | **vincĕre** | **tu vinca** |
+| *vi faru* | **facĕre** (← **facĭre**) | **tu facĭa** |
+
+***En poezio***, la volitivaj formoj de **essĕre** (← **essĭre**) (respektive de **esse**) povas esti mallongigitaj al malregulaj formoj.
 
 | | | poezie |
 |-|-|-|

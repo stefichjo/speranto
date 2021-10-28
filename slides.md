@@ -564,11 +564,19 @@ revealOptions:
 
 ### Lingu🅰
 
-| |
-|-|
-| **videta → videta ≠ visa** |
-|
-| **nos veni de videre → habemus viso** |
+| | | | | | | |
+|-|-|-|-|-|-|-|
+| **scribĕre** | → | **scribĕta** | ≠ | **scripta** |
+
+<!--v-->
+
+## Poezio
+
+### Lingu🅰
+
+| | | | | |
+|-|-|-|-|-|
+| **venire de scribĕre** | → | **habere scripto** |
 
 <!--v-->
 
@@ -578,9 +586,9 @@ revealOptions:
 
 | | | | | | | |
 |-|-|-|-|-|-|-|
-| **de** | | → | | **de** | **≠** | **di** |
-| **en** | | → | | **in** | **≠** | **en** |
-| **al** | | → | | **ad** | **≠** | **al** |
+| **de** | | → | | **de** | ≠ | **di** |
+| **en** | | → | | **in** | ≠ | **en** |
+| **al** | | → | | **ad** | ≠ | **al** |
 
 <!--v-->
 
