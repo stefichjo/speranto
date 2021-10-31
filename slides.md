@@ -448,6 +448,20 @@ revealOptions:
 
 ## Esperanto
 
+### i → oj
+
+| | | | | | |
+|-|-|-|-|-|-|
+| 🅰 | **via** | [via] | | **viatĭco** | [viatik-o] |
+| 🅴 | **vie** | [vie] | | **viatĭc̄e** | [viađje] |
+| 🅾 | **vio** | [vio] | | **viatĭco** | [viaĵo] |
+|
+| 🌍 | | [**vojo**] | | | [**vojaĝo**] |
+
+<!--v-->
+
+## Esperanto
+
 ### esti + stari
 
 | | | | | | |

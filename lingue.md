@@ -42,9 +42,9 @@ La ŝajnsufikso **-atĭc-** prononciĝas *[ađj]* (= *[aðj]*).
 
 | | |
 |-|-|
-| *fromaĝo* | **formatĭco** *[formađjo]* |
-| *mesaĝo* | **missatĭco** *[misađjo]* |
-| *vojaĝo* | **viatĭco** *[viađjo]* |
+| *fromaĝo* | **formatĭc̄e** *[formađjo]* |
+| *mesaĝo* | **missatĭc̄e** *[misađje]* |
+| *vojaĝo* | **viatĭc̄e** *[viađje]* |
  
 ### c, g
 
