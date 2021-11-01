@@ -317,6 +317,7 @@ revealOptions:
 | 🅰 | **natione** | [natione] | | **spatĭo** | [spati-o] |
 | 🅴 | **natie** | [naŧje] | | **spatie** | [spaŧje] |
 | 🅾 | **natīo** | [nasio] | | **spatio** | [spasjo] |
+| | | | | **spaçio** | |
 |
 | | | [**nacio**] | | | [**spaco**] |
 
@@ -345,6 +346,7 @@ revealOptions:
 | 🅰 | **circ' ad** | [kirk ad] | | **hodĭe** | [hodi-e] |
 | 🅴 | **circ̄ĕ al** | [cirkal] | | **hodio** | [hodjo] |
 | 🅾 | **circał** | [ĉirkaŭ] | | **hodĭõ** | [hoĵaŭ] |
+| | | | | **hojõ** | |
 |
 | | | [**cirkaŭ**] | | | [**hodiaŭ**] |
 
@@ -455,6 +457,7 @@ revealOptions:
 | 🅰 | **via** | [via] | | **viatĭco** | [viatik-o] |
 | 🅴 | **vie** | [vie] | | **viatĭc̄e** | [viađje] |
 | 🅾 | **vio** | [vio] | | **viatĭco** | [viaĵo] |
+| | | | | **viajo** | |
 |
 | 🌍 | | [**vojo**] | | | [**vojaĝo**] |
 
@@ -623,3 +626,4 @@ revealOptions:
 | | | | | |
 |-|-|-|-|-|
 | **hodĭõ** | [hoĵaŭ] | → | **hodĭø** | [hoĵe] |
+| **hojõ** | | | **hojø** | |
