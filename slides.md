@@ -122,6 +122,12 @@ revealOptions:
 | | | | | |
 | | **zoloto** | | | **zaaç** |
 
+<!--v-->
+
+## Äzyk
+
+> __Dobry den!__
+
 <!--s-->
 
 ## Sprak
@@ -162,6 +168,12 @@ revealOptions:
 | | | | | | | | |
 | | **æn** | | | **hæm** | | | **stæn** |
 
+<!--v-->
+
+## Sprak
+
+> __God dag!__
+
 <!--s-->
 
 ## Lingua
@@ -201,6 +213,12 @@ revealOptions:
 | 🇪🇸 hoja | **~f~olĭa** | | espacio | **s̈patĭo** |
 | | | | | |
 | | **folĭa** | | | **spatĭo** |
+
+<!--v-->
+
+## Lingua
+
+> __Bona die!__
 
 <!--s-->
 
@@ -419,6 +437,12 @@ revealOptions:
 | 🅾 | **-etio** | [esjo] | | **-eço** | [eso] |
 | | | | | | |
 | | | [**-eco**] | | | [**-eco**] |
+
+<!--v-->
+
+## Speranto
+
+> __Bonan tagon!__
 
 <!--s-->
 
