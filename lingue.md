@@ -288,12 +288,12 @@ Prepoziciaĵoj estas poezia formo de substantivo en unu-nombro kun la prepozicio
 | *dank' al* | **gratiĕ al** *[graŧjal]* |
 | *anstataŭ* | **vicĕ al** *[vical]* |
 
-***En poezio***, uziĝas la prepozicioj **di**, **in**, **ad** por genitivo, lokativo kaj alativo.
+***En poezio***, uziĝas la prepozicioj **dė**, **in**, **ad** por genitivo, lokativo kaj alativo.
 
 | | | poezie |
 |-|-|-|
-| *libro de amiko* | **libro de amico** | **libro di amico** |
-| *en la nokto* | **en la nocto** | **in la nocto** |
+| *libro de amiko* | **libro de amico** | **libro dė amico** |
+| *en la nokto* | **ïn la nocto** | **in la nocto** |
 | *al la domo* | **al la domo** | **ad la domo** |
 
 La akuzativa prepozicio **a** uziĝas ***tra bruo*** (specife antaŭ nomoj aŭ kiam la akuzativa frazparto antaŭas la nominativan frazparton).

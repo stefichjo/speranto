@@ -12,7 +12,10 @@ revealOptions:
 ## Sinprezento
 
 * Stephan "Stefo" Schneider
-* Esperanto Fajnigita (2010)
+* Berlinano
+* Esperantisto
+  * aŭtoro de "Esperanto Fajnigita"
+* Komputikisto
 
 ![alt text][sts]
 
@@ -22,23 +25,15 @@ revealOptions:
 
 ## Motivigoj
 
-### Babela Turo?
+### Babela Turo / Dialektaro
 
-### Dialektaro?
+![alt text][babela-turo]
 
-<!--v-->
-
-### Babela Turo?
-
-| | | |
-|-|-|-|
-| щ | → | szcz |
-| j | → | gi |
-| d | → | t |
+[babela-turo]: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Pieter_Bruegel_the_Elder_-_The_Tower_of_Babel_%28Vienna%29_-_Google_Art_Project_-_edited.jpg/300px-Pieter_Bruegel_the_Elder_-_The_Tower_of_Babel_%28Vienna%29_-_Google_Art_Project_-_edited.jpg "Babela Turo"
 
 <!--v-->
 
-### Babela Turo?
+### Babela Turo / Dialektaro
 
 | | | | | |
 |-|-|-|-|-|
@@ -47,17 +42,7 @@ revealOptions:
 
 <!--v-->
 
-### Dialektaro?
-
-| | | |
-|-|-|-|
-| lingua | → | lingu**e** |
-| lingu**e** | → | lingu**o** |
-| **linguo** [lingvo] | → | **lingvo** |
-
-<!--v-->
-
-### Dialektaro?
+### Babela Turo / Dialektaro
 
 | | | |
 |-|-|-|
@@ -292,7 +277,7 @@ revealOptions:
 |-|-|-|-|-|-|
 | 🅰 | **aqua** | [aku-a] | | **lingua** | [lingu-a] |
 | 🅴 | **aque** | [akŭe] | | **lingue** | [lingŭe] |
-| 🅾 | **aquo** | [akŭo] | | **linguo** | [liŋgŭo] |
+| 🅾 | **aquo** | [akŭo] | | **linguo** | [lingŭo] |
 | | | | | | |
 | | | [**akvo**] | | | [**lingvo**] |
 
@@ -597,17 +582,17 @@ revealOptions:
 
 ## Poezio
 
-### Lingu🅰
+### Lingu🅰*
 
-### Lingu🅴
+### Lingu🅴*
 
-### Lingu🅾
+### Lingu🅾*
 
 <!--v-->
 
 ## Poezio
 
-### Lingu🅰
+### Lingu🅰*
 
 | | | |
 |-|-|-|
@@ -623,17 +608,7 @@ revealOptions:
 
 ## Poezio
 
-### Lingu🅰
-
-| | | | | | | |
-|-|-|-|-|-|-|-|
-| **scribeta** | | → | | **scribĕta** | ≠ | **scripta** |
-
-<!--v-->
-
-## Poezio
-
-### Lingu🅴
+### Lingu🅴*
 
 | | | | | | | |
 |-|-|-|-|-|-|-|
@@ -645,9 +620,66 @@ revealOptions:
 
 ## Poezio
 
-### Lingu🅾
+### Lingu🅾*
 
 | | | | | |
 |-|-|-|-|-|
 | **hodĭõ** | [hoĵaŭ] | → | **hodĭø** | [hoĵe] |
 | **hojõ** | | | **hojø** | |
+
+<!--s-->
+
+### Esperanto
+### Esperanto*
+### Speranto*
+### Lingu🅾*
+### Lingu🅴*
+### Lingu🅰*
+
+<!--v-->
+
+## Esperanto
+
+> Sï ni eĉ supposos, qŭe la fina linguo de la s̈tontai gŭeneratīoi estas ne S̈peranto, ïn ĉia occaso la vĩo al tiu ellav̄orota linguo nepre devas conduqŭi tra S̈peranto.
+
+[Se ni eĉ supozos, ke la fina lingvo de la estontaj generacioj estas ne Esperanto, en ĉia okazo la vojo al tiu ellaborota lingvo nepre devas konduki tra Esperanto.]
+
+<!--v-->
+
+## Esperanto*
+
+> Sï eĉ supposeramus la finan linguon dė la s̈tontai gŭeneratīoi ne S̈peranto, in ĉia occaso la vĩo ad tiu ellav̄orota linguo nepre devat conduqŭi tra S̈peranto.
+
+[Se eĉ supozeramus la finan lingvon di la estontaj generacioj ne Esperanto, in ĉia okazo la vojo ad tiu ellaborota lingvo nepre devat konduki tra Esperanto.]
+
+<!--v-->
+
+## Speranto*
+
+> Sï eĉ supposeramus la finan linguon de la essontai gŭeneratīoi ne Speranto, in ĉia occaso la vio ad tiu ellav̄orota linguo nepre devat conduqŭi tra Speranto.
+
+[Se eĉ supozeramus la finan lingvon de la esontaj generacioj ne Speranto, in ĉia okazo la vio ad tiu ellaborota lingvo nepre devat konduki tra Speranto.]
+
+<!--v-->
+
+## Lingu🅾*
+
+> Sï et supposeramus la finan linguon dė la essontai generatīoi ne Speranto, in ĉia occaso la vio ad tiu ellavorota linguo nepre devat conduqŭi tra Speranto.
+
+[Se eĉ supozeramus la finan lingŭon di la esontaj ĝeneracioj ne Speranto, in ĉia okazo la vio ad tiu ellavorota lingŭo nepre devat konduki tra Speranto.]
+
+<!--v-->
+
+## Lingu🅴*
+
+> Sï et supponeramus la fina lingue dė las essontas generaties no Sperante, in omna occasie la vie ad ti ellavorota lingue infallivlo devat conducu tra Sperante.
+
+[Se et suponeramus la fina lingŭe di las esontas dzeneraŧjes no Sperante, in omna okazje la vie ad ti ellavorota lingŭe infalivlo devat konduku tra Sperante.
+
+<!--v-->
+
+## Lingu🅰*
+
+> Si et supponeramus la lingua finale de las futuras generationes esse no Sperante, in omna occasione la via ad li elaborenda lingua infallibilmente debet conducĕre tra Sperante.
+
+[Si et suponeramus la lingu-a finale de las futuras generationes ese no Sperante, in omna okkasione la via ad li elaborenda lingu-a infallibilmente debet konduker-e tra Sperante.]
