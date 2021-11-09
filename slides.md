@@ -65,9 +65,9 @@ revealOptions:
 | *Okcidentalo* | | lingue international |
 | *Adjuvilo* | | linguo internacionala |
 | *Ido* | | linguo internaciona |
-|
+| | | |
 | *Esperanto* | | lingvo internacia |
-|
+| | | |
 | *Z (1894)* | | lingvo internazie |
 
 <!--s-->
@@ -79,7 +79,7 @@ revealOptions:
 | *RU* 🇷🇺 | | *DE* 🇩🇪 | | *IT* 🇮🇹 |
 | *PL* 🇵🇱 | | *EN* 🇬🇧 | | *FR* 🇫🇷 |
 | *CZ* 🇨🇿 | | *DA* 🇩🇰 | | *ES* 🇪🇸 |
-|
+| | | | | |
 | *Äzyk* | | *Sprak* | | *Lingua* |
 
 <!--s-->
@@ -91,7 +91,7 @@ revealOptions:
 | *RU* 🇷🇺 |
 | *PL* 🇵🇱 |
 | *CZ* 🇨🇿 |
-|
+| |
 | *Äzyk* |
 
 <!--v-->
@@ -105,7 +105,7 @@ revealOptions:
 | 🇷🇺 день | **dėṇ** | | шесть | **ŝesṭ** |
 | 🇵🇱 dzień | **dėṇ** | | sześć | **ŝesṭ** |
 | 🇨🇿 den | **den** | | šest | **ŝest** |
-|
+| | | | | |
 | | **den** | | | **ŝest** |
 
 <!--v-->
@@ -119,7 +119,7 @@ revealOptions:
 | 🇷🇺 золото | **zoloto** | | заяц | **zaäç** |
 | 🇵🇱 złoto | **zŏloto** | | zając | **zaą̈ç** |
 | 🇨🇿 zlato | **zŏlȏto** | | zajíc | **zaȧç** |
-|
+| | | | | |
 | | **zoloto** | | | **zaaç** |
 
 <!--s-->
@@ -131,7 +131,7 @@ revealOptions:
 | *DE* 🇩🇪 |
 | *EN* 🇬🇧 |
 | *DA* 🇩🇰 |
-|
+| |
 | *Sprak* |
 
 <!--v-->
@@ -145,7 +145,7 @@ revealOptions:
 | 🇩🇪 schein | **shĩn** | | laut | **lũd** |
 | 🇬🇧 shine | **shĩn** | | loud | **lũd** |
 | 🇩🇰 skin | **skin** | | lyd | **lyd** |
-|
+| | | | | |
 | | **shin** | | | **lud** |
 
 <!--v-->
@@ -159,7 +159,7 @@ revealOptions:
 | 🇩🇪 ein | **ẽn** | | heim | **hẽm** | | stein | **stẽn** |
 | 🇬🇧 one | **ên** | | home | **hẽm** | | stone | **stẽn** |
 | 🇩🇰 en | **en** | | hjem | **hẽm** | | sten | **sten** |
-|
+| | | | | | | | |
 | | **æn** | | | **hæm** | | | **stæn** |
 
 <!--s-->
@@ -171,7 +171,7 @@ revealOptions:
 | *IT* 🇮🇹 |
 | *FR* 🇫🇷 |
 | *ES* 🇪🇸 |
-|
+| |
 | *Lingua* |
 
 <!--v-->
@@ -185,7 +185,7 @@ revealOptions:
 | 🇮🇹 terra | **terra** | | massa | **massa** |
 | 🇫🇷 terre | **terră** | | masse | **massă** |
 | 🇪🇸 tierra | **tẽrra** | | masa | **massa** |
-|
+| | | | | |
 | | **terra** | | | **massa** |
 
 <!--v-->
@@ -199,7 +199,7 @@ revealOptions:
 | 🇮🇹 foglia | **folĭa** | | spazio | **spatĭo** |
 | 🇫🇷 feuille | **følĭă** | | espace | **s̈patĭŏ** |
 | 🇪🇸 hoja | **~f~olĭa** | | espacio | **s̈patĭo** |
-|
+| | | | | |
 | | **folĭa** | | | **spatĭo** |
 
 <!--s-->
@@ -209,7 +209,7 @@ revealOptions:
 | | | |
 |-|-|-|
 | *Äzyk* | *Sprak* | *Lingua* |
-|
+| | | |
 | | | *Speranto* |
 
 <!--v-->
@@ -221,7 +221,7 @@ revealOptions:
 | *Äzyk* | | *Sprak* | | *Lingua* |
 | | | | | *Lingue*  |
 | ↪ | | ↪ | | *Linguo* |
-|
+| | | | | |
 | ↪ | | ↪ | | *Speranto* |
 
 <!--v-->
@@ -233,7 +233,7 @@ revealOptions:
 | *Lingua* | 🅰 |
 | *Lingue* | 🅴 |
 | *Linguo* | 🅾 |
-|
+| | |
 | *Speranto* | |
 
 <!--v-->
@@ -247,7 +247,7 @@ revealOptions:
 | 🅰 | **terra** | [terra] | | **massa** | [massa] |
 | 🅴 | **terre** | [terre] | | **masse** | [masse] |
 | 🅾 | **terro** | [tero] | | **masso** | [maso] |
-|
+| | | | | | |
 | | | [**tero**] | | | [**maso**] |
 
 <!--v-->
@@ -261,7 +261,7 @@ revealOptions:
 | 🅰 | **accento** | [akkento] | | **generale** | [generale] |
 | 🅴 | **accente** | [akcente] | | **generale** | [dzenerale] |
 | 🅾 | **accento** | [akĉento] | | **generalo** | [ĝeneralo] |
-|
+| | | | | | |
 | | | [**akcento**] | | | [**generalo**] |
 
 <!--v-->
@@ -275,7 +275,7 @@ revealOptions:
 | 🅰 | **aqua** | [aku-a] | | **lingua** | [lingu-a] |
 | 🅴 | **aque** | [akŭe] | | **lingue** | [lingŭe] |
 | 🅾 | **aquo** | [akŭo] | | **linguo** | [liŋgŭo] |
-|
+| | | | | | |
 | | | [**akvo**] | | | [**lingvo**] |
 
 <!--v-->
@@ -289,7 +289,7 @@ revealOptions:
 | 🅰 | **que** | [kue'] | | **no** | [no] |
 | 🅴 | **que** | [kŭe] | | **no** | [no] |
 | 🅾 | **qŭio** | [kio] | | **ne** | [ne] |
-|
+| | | | | | |
 | | | [**kio**] | | | [**ne**] |
 
 <!--v-->
@@ -303,7 +303,7 @@ revealOptions:
 | 🅰 | **familĭa** | [famili-a] | | **filĭo** | [fili-o] |
 | 🅴 | **familie** | [familje] | | **filie** | [filje] |
 | 🅾 | **familĭo** | [famiḷo] | | **filĭo** | [fiḷo] |
-|
+| | | | | | |
 | | | [**familio**] | | | [**filo**] |
 
 <!--v-->
@@ -318,7 +318,7 @@ revealOptions:
 | 🅴 | **natie** | [naŧje] | | **spatie** | [spaŧje] |
 | 🅾 | **natīo** | [nasio] | | **spatio** | [spasjo] |
 | | | | | **spaçio** | |
-|
+| | | | | | |
 | | | [**nacio**] | | | [**spaco**] |
 
 <!--v-->
@@ -332,7 +332,7 @@ revealOptions:
 | 🅰 | **me vide** | | **domos** | [domos] |
 | 🅴 | **mi vidan** | | **domes** | [domes] |
 | 🅾 | **mi vidas** | | **domoi(n)** | [domoj(n)] |
-|
+| | | | | |
 | | | | | [**domoj(n)**] |
 
 <!--v-->
@@ -347,7 +347,7 @@ revealOptions:
 | 🅴 | **circ̄ĕ al** | [cirkal] | | **hodio** | [hodjo] |
 | 🅾 | **circał** | [ĉirkaŭ] | | **hodĭõ** | [hoĵaŭ] |
 | | | | | **hojõ** | |
-|
+| | | | | | |
 | | | [**cirkaŭ**] | | | [**hodiaŭ**] |
 
 <!--v-->
@@ -361,7 +361,7 @@ revealOptions:
 | 🅰 | **scribe** | [skribe] | | **habe** | [habe] |
 | 🅴 | **scrivan** | [skrivan] | | **havan** | [havan] |
 | 🅾 | **scrivas** | [skrivas] | | **havas** | [havas] |
-|
+| | | |
 | | | [**skribas**] | | | [**habas**] |
 
 <!--v-->
@@ -375,7 +375,7 @@ revealOptions:
 | - | | | | | | |
 | - | | | | | | |
 | 🅾 | **kolbaso** | [kolbaso] | | **partȳo** | [partio] |
-|
+| | | | | | |
 | | | [**kolbaso**] | | | [**partio**] |
 
 <!--v-->
@@ -389,7 +389,7 @@ revealOptions:
 | 🅰 | **ĭusta** | [iusta] | | | |
 | 🅴 | **justa** | [justa] | | | |
 | 🅾 | **justa** | [ĥusta] | | **ĵusta** | [ĵusta] |
-|
+| | | | | | |
 | | | [**justa**] | | | [**ĵusta**] |
 
 <!--v-->
@@ -403,7 +403,7 @@ revealOptions:
 | 🅰 | **cadentĭa** | [kadenti-a] | | | |
 | 🅴 | **cadentie** | [kadenŧje] | | | |
 | 🅾 | **cadentio** | [kadensjo] | | **çhanço** | [ŝanso] |
-|
+| | | | | | |
 | | | [**kadenco**] | | | [**ŝanco**] |
 
 <!--v-->
@@ -417,7 +417,7 @@ revealOptions:
 | 🅰 | **-etĭa** | [eti-a] | | | |
 | 🅴 | **-etie** | [eŧje] | | | |
 | 🅾 | **-etio** | [esjo] | | **-eço** | [eso] |
-|
+| | | | | | |
 | | | [**-eco**] | | | [**-eco**] |
 
 <!--s-->
@@ -429,7 +429,7 @@ revealOptions:
 | *Lingua* | 🅰 |
 | *Lingue* | 🅴 |
 | *Linguo* | 🅾 |
-|
+| | |
 | *Esperanto* | 🌍 |
 
 <!--v-->
@@ -443,7 +443,7 @@ revealOptions:
 | 🅰 | **spera** | [spera] |
 | 🅴 | **speran** | [speran] |
 | 🅾 | **speras** | [speras] |
-|
+| | | |
 | 🌍 | | [**esperas**] |
 
 <!--v-->
@@ -458,7 +458,7 @@ revealOptions:
 | 🅴 | **vie** | [vie] | | **viatĭc̄e** | [viađje] |
 | 🅾 | **vio** | [vio] | | **viatĭco** | [viaĵo] |
 | | | | | **viajo** | |
-|
+| | | | | | |
 | 🌍 | | [**vojo**] | | | [**vojaĝo**] |
 
 <!--v-->
@@ -472,7 +472,7 @@ revealOptions:
 | 🅰 | **esse** | [ese] | | **sta** | [sta] |
 | 🅴 | **essan** | [esan] | | **stan** | [stan] |
 | 🅾 | **essas** | [esas] | | **stas** | [stas] |
-|
+| | | | | | |
 | 🌍 | | [**estas**] | | | [**staras**] |
 
 <!--v-->
@@ -486,7 +486,7 @@ revealOptions:
 | 🅰 | **me**/**mi** | | **tu**/**ti** | [tu/ti] | | **vos** |
 | 🅴 | **mi** | | **tī** | [ŧi] | | **vi** |
 | 🅾 | **mu(n)** | | **tu(n)** | [tu(n)] | | **vu(n)** |
-|
+| | | | | | | | | |
 | 🌍 | | | | [**ci(n)**] | | |
 
 <!--v-->
@@ -496,13 +496,13 @@ revealOptions:
 | *RU* 🇷🇺 | | *DE* 🇩🇪 | | *IT* 🇮🇹 |
 | *PL* 🇵🇱 | | *EN* 🇬🇧 | | *FR* 🇫🇷 |
 | *CZ* 🇨🇿 | | *DA* 🇩🇰 | | *ES* 🇪🇸 |
-|
+| | | | | |
 | *Äzyk* | | *Sprak* | | *Lingua* 🅰 |
 | | | | | *Lingue* 🅴 |
 | ↪ | | ↪ | | *Linguo* 🅾 |
-|
+| | | | | |
 | ↪ | | ↪ | | *Speranto* |
-|
+| | | | | |
 | | | | | *Esperanto* |
 
 <!--s-->
@@ -532,7 +532,7 @@ revealOptions:
 | **nos vide** |
 | **nos videba** |
 | **nos viderā** |
-|
+| |
 | **si nos videsse** |
 | **ce nos vida** |
 | **vide(te)!** |
@@ -548,7 +548,7 @@ revealOptions:
 | **ni vidan** |
 | **ni vidin** |
 | **ni vidon** |
-|
+| |
 | **sï ni vidun** |
 | **c̄e ni viden** |
 | **viden!** |
@@ -564,7 +564,7 @@ revealOptions:
 | **nu vidas** |
 | **nu vidis** |
 | **nu vidos** |
-|
+| |
 | **sï nu vidus** |
 | **qŭe nu vidu** |
 | **vidu!** |
@@ -590,7 +590,7 @@ revealOptions:
 | **me habe** | → | **habem** |
 | **tu habe** | → | **habes** |
 | **ulle habe** | → | **habet** |
-|
+| | | |
 | **nos habe** | → | **habemus** |
 | **vos habe** | → | **habetis** |
 | **ille habe** | → | **habent** |
