@@ -217,13 +217,65 @@ revealOptions:
 
 > __Bonan dion!__
 
-<!--v-->
-
-## Speranto
-
-> __Bonan tagon!__
+<!--s-->
 
 <!--s-->
+
+## Verboj
+
+### Lingua
+
+### Lingue
+
+### Linguo
+
+<!--v-->
+
+## Verboj
+
+### Lingua
+
+| |
+|-|
+| **nos vide** |
+| **nos videba** |
+| **nos viderā** |
+| |
+| **si nos videsse** |
+| **ce nos vida** |
+| **vide(te)!** |
+
+<!--v-->
+
+## Verboj
+
+### Lingue
+
+| |
+|-|
+| **ni vidan** |
+| **ni vidin** |
+| **ni vidon** |
+| |
+| **se ni vidun** |
+| **c̄e ni viden** |
+| **viden!** |
+
+<!--v-->
+
+## Verboj
+
+### Linguo
+
+| |
+|-|
+| **nu vidas** |
+| **nu vidis** |
+| **nu vidos** |
+| |
+| **se nu vidus** |
+| **qŭe nu vidu** |
+| **vidu!** |
 
 ## Speranto
 
@@ -261,7 +313,7 @@ revealOptions:
 
 ## Speranto
 
-### Duoblaj Konsonantoj
+### Linguo: Duoblaj Konsonantoj
 
 | | | | | | |
 |-|-|-|-|-|-|
@@ -270,6 +322,34 @@ revealOptions:
 | 🅾 | **terro** | [tero] | | **masso** | [maso] |
 | | | | | | |
 | | | [**tero**] | | | [**maso**] |
+
+<!--v-->
+
+## Speranto
+
+### Linguo: e ⟷ o / i ⟷ u
+
+| | | | | | |
+|-|-|-|-|-|-|
+| 🅰 | **que** | [kue'] | | **no** | [no] |
+| 🅴 | **que** | [kŭe] | | **no** | [no] |
+| 🅾 | **qŭio** | [kio] | | **ne** | [ne] |
+| | | | | | |
+| | | [**kio**] | | | [**ne**] |
+
+<!--v-->
+
+## Speranto
+
+### Linguo: n ⟷ s
+
+| | | | |
+|-|-|-|-|
+| 🅰 | **me vide** | | **domos** |
+| 🅴 | **mi vidan** | | **domes** |
+| 🅾 | **mu vidas** | | **domoi(n)** |
+| | | | |
+| | [**mi vidas**] | | [**domoj(n)**] |
 
 <!--v-->
 
@@ -303,20 +383,6 @@ revealOptions:
 
 ## Speranto
 
-### e / i ⟷ o / u
-
-| | | | | | |
-|-|-|-|-|-|-|
-| 🅰 | **que** | [kue'] | | **no** | [no] |
-| 🅴 | **que** | [kŭe] | | **no** | [no] |
-| 🅾 | **qŭio** | [kio] | | **ne** | [ne] |
-| | | | | | |
-| | | [**kio**] | | | [**ne**] |
-
-<!--v-->
-
-## Speranto
-
 ### i: li
 
 | | | | | | |
@@ -341,20 +407,6 @@ revealOptions:
 | | | | | (**spaçio**) | |
 | | | | | | |
 | | | [**nacio**] | | | [**spaco**] |
-
-<!--v-->
-
-## Speranto
-
-### n ⟷ s
-
-| | | | |
-|-|-|-|-|
-| 🅰 | **me vide** | | **domos** |
-| 🅴 | **mi vidan** | | **domes** |
-| 🅾 | **mu vidas** | | **domoi(n)** |
-| | | | |
-| | [**mi vidas**] | | [**domoj(n)**] |
 
 <!--v-->
 
@@ -548,83 +600,19 @@ revealOptions:
 
 <!--s-->
 
-## Bonuso
-
-### 🅰🅴🅾
-
-<!--s-->
-
-## Verboj
-
-### Lingu🅰
-
-### Lingu🅴
-
-### Lingu🅾
-
-<!--v-->
-
-## Verboj
-
-### Lingu🅰
-
-| |
-|-|
-| **nos vide** |
-| **nos videba** |
-| **nos viderā** |
-| |
-| **si nos videsse** |
-| **ce nos vida** |
-| **vide(te)!** |
-
-<!--v-->
-
-## Verboj
-
-### Lingu🅴
-
-| |
-|-|
-| **ni vidan** |
-| **ni vidin** |
-| **ni vidon** |
-| |
-| **se ni vidun** |
-| **c̄e ni viden** |
-| **viden!** |
-
-<!--v-->
-
-## Verboj
-
-### Lingu🅾
-
-| |
-|-|
-| **nu vidas** |
-| **nu vidis** |
-| **nu vidos** |
-| |
-| **se nu vidus** |
-| **qŭe nu vidu** |
-| **vidu!** |
-
-<!--s-->
-
 ## Poezio
 
-### Lingu🅰*
+### Lingua*
 
-### Lingu🅴*
+### Lingue*
 
-### Lingu🅾*
+### Linguo*
 
 <!--v-->
 
 ## Poezio
 
-### Lingu🅰*
+### Lingua*
 
 | | | |
 |-|-|-|
@@ -640,7 +628,7 @@ revealOptions:
 
 ## Poezio
 
-### Lingu🅴*
+### Lingue*
 
 | | | | | | | |
 |-|-|-|-|-|-|-|
@@ -652,7 +640,7 @@ revealOptions:
 
 ## Poezio
 
-### Lingu🅾*
+### Linguo*
 
 | | | | | |
 |-|-|-|-|-|
@@ -661,15 +649,15 @@ revealOptions:
 
 <!--s-->
 
-## Lingu🅰(*)
-## Lingu🅴(*)
-## Lingu🅾(*)
+## Lingua(*)
+## Lingue(*)
+## Linguo(*)
 ## Speranto(*)
 ## Esperanto(*)
 
 <!--v-->
 
-## Lingu🅰
+## Lingua
 
 [Si nos et supponera', ke la lingu-a finale de las<br> futuras generationes ese no Sperante, in omna<br> okkasione la via ad li elaborenda lingu-a<br> infallibilemente debe konduker-e trans Sperante.]
 
@@ -677,7 +665,7 @@ revealOptions:
 
 <!--v-->
 
-## Lingu🅰*
+## Lingua*
 
 [Si et suponeramus la lingu-a finale de las<br> futuras generationes ese no Sperante, in omna okkasione la via ad li elaborenda lingu-a<br> infallibilmente debet konduker-e trans Sperante.]
 
@@ -685,7 +673,7 @@ revealOptions:
 
 <!--v-->
 
-## Lingu🅴*
+## Lingue*
 
 [Se et supponeramus la fina lingŭe di las<br> esontas dzeneraŧjes no Sperante, in omna<br> okazje la vie ad ti ellavorota lingŭe<br> infallivlo devat konduku tra Sperante.]
 
@@ -693,7 +681,7 @@ revealOptions:
 
 <!--v-->
 
-## Lingu🅴
+## Lingue
 
 [Se ni eĉ supponon, ke la fina lingŭe de las<br> esontas dzeneraŧjes essan no Sperante, en omna<br> okazje la vie al tiu ellavorota lingŭe<br> infallivlo devan konduku tra Sperante.]
 
@@ -701,7 +689,7 @@ revealOptions:
 
 <!--v-->
 
-## Lingu🅾
+## Linguo
 
 [Se nu eĉ supozos, ke la fina lingvo de la<br> esontaj ĝenerasioj esas ne Speranto, en ĉia<br> okazjo la vio al tiu ellavorota lingvo<br> infalivle devas konduki tra Speranto.]
 
@@ -709,7 +697,7 @@ revealOptions:
 
 <!--v-->
 
-## Lingu🅾*
+## Linguo*
 
 [Se eĉ supozeramus la finan lingŭon di la<br> esontaj ĝenerasioj ne Speranto, in ĉia<br> okazjo la vio ad tiu ellavorota lingŭo<br> infalivle devat konduki tra Speranto.]
 
