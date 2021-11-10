@@ -520,7 +520,7 @@ revealOptions:
 | | | | | |
 | *Äzyk* | | *Sprak* | | *Lingua* 🅰 |
 | | | | | *Lingue* 🅴 |
-| ↪ | | ↪ | | *Linguo* 🅾 |
+| | | | | *Linguo* 🅾 |
 | | | | | |
 | ↪ | | ↪ | | *Speranto* |
 | | | | | |
@@ -641,21 +641,19 @@ revealOptions:
 
 <!--s-->
 
-## Poezio
-
-### Lingu🅰(*)
-### Lingu🅴(*)
-### Lingu🅾(*)
-### Speranto(*)
-### Esperanto(*)
+## Lingu🅰(*)
+## Lingu🅴(*)
+## Lingu🅾(*)
+## Speranto(*)
+## Esperanto(*)
 
 <!--v-->
 
 ## Lingu🅰
 
-[Si nos et suppone, ke la lingu-a finale de las<br> futuras generationes ese no Sperante, in omna<br> okkasione la via ad li elaborenda lingu-a<br> infallibilemente debe konduker-e tra Sperante.]
+[Si nos et supponera', ke la lingu-a finale de las<br> futuras generationes ese no Sperante, in omna<br> okkasione la via ad li elaborenda lingu-a<br> infallibilemente debe konduker-e tra Sperante.]
 
-> Si nos et suppone, ce la lingua finale<br> de las futuras generationes esse no<br> Sperante, in omna occasione la via ad<br> li elaborenda lingua infallibilemente<br> debe conducĕre tra Sperante.
+> Si nos et supponerā, ce la lingua finale<br> de las futuras generationes esse no<br> Sperante, in omna occasione la via ad<br> li elaborenda lingua infallibilemente<br> debe conducĕre tra Sperante.
 
 <!--v-->
 
@@ -677,7 +675,7 @@ revealOptions:
 
 ## Lingu🅴
 
-[Se ni eĉ suponon, ke la fina lingŭe de las<br> esontas dzeneraŧjes esan no Sperante, en omna<br> okazje la vie al tiu ellavorota lingve<br> infalivlo devan konduku tra Sperante.]
+[Se ni eĉ suponon, ke la fina lingŭe de las<br> esontas dzeneraŧjes esan no Sperante, en omna<br> okazje la vie al tiu ellavorota lingŭe<br> infalivlo devan konduku tra Sperante.]
 
 > Se ni et supponon, c̄e la fina lingue<br> de las essontas generaties essan no<br> Sperante, en omna occasie la vie al<br> tiu ellavorota lingue infallivlo<br> devan conducu tra Sperante.
 
