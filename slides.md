@@ -235,7 +235,7 @@ revealOptions:
 |-|-|-|-|-|
 | *Äzyk* | | *Sprak* | | *Lingua* |
 | | | | | *Lingue*  |
-| ↪ | | ↪ | | *Linguo* |
+| | | | | *Linguo* |
 | | | | | |
 | ↪ | | ↪ | | *Speranto* |
 
