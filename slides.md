@@ -659,38 +659,6 @@ revealOptions:
 
 <!--v-->
 
-## Lingu🅴
-
-[Se ni eĉ suponon, ke la fina lingŭe de las<br> esontas dzeneraŧjes esan no Sperante, en omna<br> okazje la vie al tiu ellavorota lingve<br> infalivlo devan konduku tra Sperante.]
-
-> Se ni et supponon, c̄e la fina lingue<br> de las essontas generaties essan no<br> Sperante, en omna occasie la vie al<br> tiu ellavorota lingue infallivlo<br> devan conducu tra Sperante.
-
-<!--v-->
-
-## Lingu🅾
-
-[Se nu eĉ supozos, ke la fina lingvo de la<br> esontaj ĝenerasioj esas ne Speranto, en ĉia<br> okazjo la vio al tiu ellavorota lingvo<br> infalivle devas konduki tra Speranto.]
-
-> Se nu eĉ supposos, qŭe la fina linguo<br> de la essontai generatīoi essas ne<br> Speranto, en ĉia occasio la vio al<br> tiu ellavorota linguo infallivle<br> devas conduqŭi tra Speranto.
-
-<!--v-->
-
-## Speranto
-
-[Se ni eĉ supozos, ke la fina lingvo de la<br> esontaj generacioj esas ne Speranto, en ĉia<br> okazo la vio al tiu ellaborota lingvo<br> nepre devas konduki tra Speranto.]
-
-> Se ni eĉ supposos, qŭe la fina linguo<br> de la essontai gŭeneratīoi essas ne<br> Speranto, en ĉia occaso la vio al<br> tiu ellaborota linguo nepre<br> devas conduqŭi tra Speranto.
-
-<!--v-->
-
-## Esperanto
-
-[Se ni eĉ supozos, ke la fina lingvo de la<br> estontaj generacioj estas ne Esperanto, en ĉia<br> okazo la vojo al tiu ellaborota lingvo<br> nepre devas konduki tra Esperanto.]
-
-> Se ni eĉ supposos, qŭe la fina linguo<br> de la s̈tontai gŭeneratīoi estas ne<br> S̈peranto, en ĉia occaso la vĩo al<br> tiu ellaborota linguo nepre<br> devas conduqŭi tra S̈peranto.
-
-<!--s-->
-
 ## Lingu🅰*
 
 [Si et suponeramus la lingu-a finale de las<br> futuras generationes ese no Sperante, in omna okkasione la via ad li elaborenda lingu-a<br> infallibilmente debet konduker-e tra Sperante.]
@@ -707,6 +675,22 @@ revealOptions:
 
 <!--v-->
 
+## Lingu🅴
+
+[Se ni eĉ suponon, ke la fina lingŭe de las<br> esontas dzeneraŧjes esan no Sperante, en omna<br> okazje la vie al tiu ellavorota lingve<br> infalivlo devan konduku tra Sperante.]
+
+> Se ni et supponon, c̄e la fina lingue<br> de las essontas generaties essan no<br> Sperante, en omna occasie la vie al<br> tiu ellavorota lingue infallivlo<br> devan conducu tra Sperante.
+
+<!--v-->
+
+## Lingu🅾
+
+[Se nu eĉ supozos, ke la fina lingvo de la<br> esontaj ĝenerasioj esas ne Speranto, en ĉia<br> okazjo la vio al tiu ellavorota lingvo<br> infalivle devas konduki tra Speranto.]
+
+> Se nu eĉ supposos, qŭe la fina linguo<br> de la essontai generatīoi essas ne<br> Speranto, en ĉia occasio la vio al<br> tiu ellavorota linguo infallivle<br> devas conduqŭi tra Speranto.
+
+<!--v-->
+
 ## Lingu🅾*
 
 [Se eĉ supozeramus la finan lingŭon di la<br> esontaj ĝenerasioj ne Speranto, in ĉia<br> okazjo la vio ad tiu ellavorota lingŭo<br> infalivle devat konduki tra Speranto.]
@@ -720,6 +704,22 @@ revealOptions:
 [Se eĉ supozeramus la finan lingvon di la<br> esontaj generacioj ne Speranto, in ĉia<br> okazo la vio ad tiu ellaborota lingvo<br> nepre devat konduki tra Speranto.]
 
 > Se eĉ supposeramus la finan linguon<br> di la essontai gŭeneratīoi ne<br> Speranto, in ĉia occaso la vio ad<br> tiu ellaborota linguo nepre<br> devat conduqŭi tra Speranto.
+
+<!--v-->
+
+## Speranto
+
+[Se ni eĉ supozos, ke la fina lingvo de la<br> esontaj generacioj esas ne Speranto, en ĉia<br> okazo la vio al tiu ellaborota lingvo<br> nepre devas konduki tra Speranto.]
+
+> Se ni eĉ supposos, qŭe la fina linguo<br> de la essontai gŭeneratīoi essas ne<br> Speranto, en ĉia occaso la vio al<br> tiu ellaborota linguo nepre<br> devas conduqŭi tra Speranto.
+
+<!--v-->
+
+## Esperanto
+
+[Se ni eĉ supozos, ke la fina lingvo de la<br> estontaj generacioj estas ne Esperanto, en ĉia<br> okazo la vojo al tiu ellaborota lingvo<br> nepre devas konduki tra Esperanto.]
+
+> Se ni eĉ supposos, qŭe la fina linguo<br> de la s̈tontai gŭeneratīoi estas ne<br> S̈peranto, en ĉia occaso la vĩo al<br> tiu ellaborota linguo nepre<br> devas conduqŭi tra S̈peranto.
 
 <!--v-->
 
