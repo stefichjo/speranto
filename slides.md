@@ -217,6 +217,12 @@ revealOptions:
 
 > __Bonan dion!__
 
+<!--v-->
+
+## Speranto
+
+> __Bonan tagon!__
+
 <!--s-->
 
 ## Speranto
@@ -237,7 +243,7 @@ revealOptions:
 | | | | | *Lingue*  |
 | | | | | *Linguo* |
 | | | | | |
-| ↪ | | ↪ | | *Speranto* |
+| | ↪ | | | *Speranto* |
 
 <!--v-->
 
@@ -332,7 +338,7 @@ revealOptions:
 | 🅰 | **natione** | [natione] | | **spatĭo** | [spati-o] |
 | 🅴 | **natie** | [naŧje] | | **spatie** | [spaŧje] |
 | 🅾 | **natīo** | [nasio] | | **spatio** | [spasjo] |
-| | | | | **spaçio** | |
+| | | | | (**spaçio**) | |
 | | | | | | |
 | | | [**nacio**] | | | [**spaco**] |
 
@@ -342,13 +348,13 @@ revealOptions:
 
 ### n ⟷ s
 
-| | | | | |
-|-|-|-|-|-|
-| 🅰 | **me vide** | | **domos** | [domos] |
-| 🅴 | **mi vidan** | | **domes** | [domes] |
-| 🅾 | **mu vidas** | | **domoi(n)** | [domoj(n)] |
-| | | | | |
-| | | | | [**domoj(n)**] |
+| | | | |
+|-|-|-|-|
+| 🅰 | **me vide** | | **domos** |
+| 🅴 | **mi vidan** | | **domes** |
+| 🅾 | **mu vidas** | | **domoi(n)** |
+| | | | |
+| | [**mi vidas**] | | [**domoj(n)**] |
 
 <!--v-->
 
@@ -361,7 +367,7 @@ revealOptions:
 | 🅰 | **circ' ad** | [kirk ad] | | **hodĭe** | [hodi-e] |
 | 🅴 | **circ̄ĕ al** | [cirkal] | | **hodio** | [hodjo] |
 | 🅾 | **circał** | [ĉirkaŭ] | | **hodĭõ** | [hoĵaŭ] |
-| | | | | **hojõ** | |
+| | | | | (**hojõ**) | |
 | | | | | | |
 | | | [**cirkaŭ**] | | | [**hodiaŭ**] |
 
@@ -373,17 +379,17 @@ revealOptions:
 
 | | | |
 |-|-|-|
-| 🅰 | **scribe** | [skribe] | | **habe** | [habe] |
-| 🅴 | **scrivan** | [skrivan] | | **havan** | [havan] |
-| 🅾 | **scrivas** | [skrivas] | | **havas** | [havas] |
+| 🅰 | **habe** | [habe] |
+| 🅴 | **havan** | [havan] |
+| 🅾 | **havas** | [havas] |
 | | | |
-| | | [**skribas**] | | | [**habas**] |
+| | | [**havas**] |
 
 <!--v-->
 
 ## Speranto
 
-### Pruntvortoj
+### Slavismo
 
 | | | | | | |
 |-|-|-|-|-|-|
@@ -397,7 +403,7 @@ revealOptions:
 
 ## Speranto
 
-### Pruntvortoj
+### Ĝermanismo
 
 | | | | | | |
 |-|-|-|-|-|-|
@@ -405,7 +411,21 @@ revealOptions:
 | 🅴 | **justa** | [justa] | | | |
 | 🅾 | **justa** | [ĥusta] | | **ĵusta** | [ĵusta] |
 | | | | | | |
-| | | [**justa**] | | | [**ĵusta**] |
+| | | [**justa**] | | | [**ĝusta**] |
+
+<!--v-->
+
+## Speranto
+
+### Latinismo
+
+| | | |
+|-|-|-|
+| 🅰 | **scribe** | [skribe] |
+| 🅴 | **scrivan** | [skrivan] |
+| 🅾 | **scrivas** | [skrivas] |
+| | | |
+| | | [**skribas**] |
 
 <!--v-->
 
@@ -522,7 +542,7 @@ revealOptions:
 | | | | | *Lingue* 🅴 |
 | | | | | *Linguo* 🅾 |
 | | | | | |
-| ↪ | | ↪ | | *Speranto* |
+| | ↪ | | | *Speranto* |
 | | | | | |
 | | | | | *Esperanto* |
 
@@ -667,7 +687,7 @@ revealOptions:
 
 ## Lingu🅴*
 
-[Se et suponeramus la fina lingŭe di las<br> esontas dzeneraŧjes no Sperante, in omna<br> okazje la vie ad ti ellavorota lingŭe<br> infalivlo devat konduku tra Sperante.]
+[Se et supponeramus la fina lingŭe di las<br> esontas dzeneraŧjes no Sperante, in omna<br> okazje la vie ad ti ellavorota lingŭe<br> infallivlo devat konduku tra Sperante.]
 
 > Se et supponeramus la fina lingue<br> di las essontas generaties<br> no Sperante, in omna occasie<br> la vie ad ti ellavorota lingue<br> infallivlo devat conducu<br> tra Sperante.
 
@@ -675,7 +695,7 @@ revealOptions:
 
 ## Lingu🅴
 
-[Se ni eĉ suponon, ke la fina lingŭe de las<br> esontas dzeneraŧjes esan no Sperante, en omna<br> okazje la vie al tiu ellavorota lingŭe<br> infalivlo devan konduku tra Sperante.]
+[Se ni eĉ supponon, ke la fina lingŭe de las<br> esontas dzeneraŧjes essan no Sperante, en omna<br> okazje la vie al tiu ellavorota lingŭe<br> infallivlo devan konduku tra Sperante.]
 
 > Se ni et supponon, c̄e la fina lingue<br> de las essontas generaties<br> essan no Sperante, en omna occasie<br> la vie al tiu ellavorota lingue<br> infallivlo devan conducu<br> tra Sperante.
 
