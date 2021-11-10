@@ -649,7 +649,7 @@ revealOptions:
 ### Speranto(*)
 ### Esperanto(*)
 
-<!--s-->
+<!--v-->
 
 ## Lingu🅰
 
