@@ -297,7 +297,7 @@ Prepoziciaĵoj finiĝas je **-ał** *[aŭ]*.
 | | | | | |
 |-|-|-|-|-|
 | *mi* | **mu** | | *ci* | **tu** |
-| *mia* | **mia** | | *cia* | **tua** |
+| *mia* | **mua** | | *cia* | **tua** |
 | | | | | |
 | *ni* | **nu** | | *vi* | **vu** |
 | *nia* | **nua** | | *via* | **vua** |
