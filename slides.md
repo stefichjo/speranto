@@ -833,3 +833,19 @@ revealOptions:
 
 > Si nos et supponerā, ce la lingua<br> finale de las futuras generationes<br> esse no Sperante, in omna occasione<br> la via ad li elaborenda lingua<br> infallibilemente debe conducĕre<br> trans Sperante.
 
+<!--v-->
+
+| | | | | |
+|-|-|-|-|-|
+| *RU* 🇷🇺 | | *DE* 🇩🇪 | | *IT* 🇮🇹 |
+| *PL* 🇵🇱 | | *EN* 🇬🇧 | | *FR* 🇫🇷 |
+| *CZ* 🇨🇿 | | *DA* 🇩🇰 | | *ES* 🇪🇸 |
+| | | | | |
+| *Äzyk* | | *Sprak* | | _Lingua(*)_ |
+| | | | | _Lingue(*)_ |
+| | | | | _Linguo(*)_ |
+| | | | | |
+| | ↪ | | | ___Speranto(*)___ |
+| | | | | |
+| | | | | ___Esperanto(*)___ |
+
