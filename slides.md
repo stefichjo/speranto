@@ -20,6 +20,12 @@ revealOptions:
 
 [sts]: https://avatars.githubusercontent.com/u/3962100?s=200&u=75f4a5908cf465c276f4dde5426d3cf724a09aae&v=4 "Stefo"
 
+<!--v-->
+
+# Dankon!
+
+<small>github.com/stefichjo/speranto</small>
+
 <!--s-->
 
 ## Motivigoj
