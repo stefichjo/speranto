@@ -14,7 +14,7 @@ revealOptions:
 * Stephan "Stefo" Schneider
 * Berlinano
 * Esperantisto
-  * aŭtoro de "Esperanto Fajnigita"
+  * "Esperanto Fajnigita"
 * Komputikisto
 
 ![alt text][sts]
@@ -235,7 +235,7 @@ revealOptions:
 ### i ⟷ u
 ### cc → c
 ### -n → -s → -j
-### Ismoj
+### Francismoj
 
 <!--v-->
 
@@ -248,8 +248,6 @@ revealOptions:
 | 🅰 | **que** | [kue'] | | **no** | [no] |
 | 🅴 | **que** | [kŭe] | | **no** | [no] |
 | 🅾 | **qŭio** | [kio] | | **ne** | [ne] |
-| | | | | | |
-| | | [**kio**] | | | [**ne**] |
 
 <!--v-->
 
@@ -262,8 +260,6 @@ revealOptions:
 | 🅰 | **terra** | [terra] | | **massa** | [massa] |
 | 🅴 | **terre** | [terre] | | **masse** | [masse] |
 | 🅾 | **terro** | [tero] | | **masso** | [maso] |
-| | | | | | |
-| | | [**tero**] | | | [**maso**] |
 
 <!--v-->
 
@@ -345,7 +341,7 @@ revealOptions:
 
 <!--v-->
 
-## Speranto
+## Lingue + Linguo
 
 ### Francismoj
 
@@ -359,35 +355,13 @@ revealOptions:
 
 ## Speranto
 
-| | | |
-|-|-|-|
-| *Äzyk* | *Sprak* | *Lingua* |
-| | | |
-| | | *Speranto* |
-
-<!--v-->
-
-## Speranto
-
 | | | | | |
 |-|-|-|-|-|
-| *Äzyk* | | *Sprak* | | *Lingua* |
-| | | | | *Lingue*  |
-| | | | | *Linguo* |
+| *Äzyk* | | *Sprak* | | *Lingua* 🅰 |
+| | | | | *Lingue* 🅴 |
+| | | | | *Linguo* 🅾 |
 | | | | | |
 | | ↪ | | | *Speranto* |
-
-<!--v-->
-
-## Speranto
-
-| | |
-|-|-|
-| *Lingua* | 🅰 |
-| *Lingue* | 🅴 |
-| *Linguo* | 🅾 |
-| | |
-| *Speranto* | |
 
 <!--v-->
 
@@ -397,11 +371,11 @@ revealOptions:
 
 | | | | | | |
 |-|-|-|-|-|-|
-| 🅰 | **accento** | [akkento] | | **generale** | [generale] |
-| 🅴 | **accente** | [akcente] | | **generale** | [dzenerale] |
-| 🅾 | **accento** | [akĉento] | | **generalo** | [ĝeneralo] |
+| 🅰 | **centro** | [kentro] | | **geographīa** | [geografia] |
+| 🅴 | **centre** | [centre] | | **geographie** | [dzeografje] |
+| 🅾 | **centro** | [ĉentro] | | **geographio** | [ĝeografio] |
 | | | | | | |
-| | | [**akcento**] | | | [**generalo**] |
+| | | [**centro**] | | | [**geografio**] |
 
 <!--v-->
 
@@ -647,7 +621,7 @@ revealOptions:
 | | | | | |
 |-|-|-|-|-|
 | **hodĭõ** | [hoĵaŭ] | → | **hodĭø** | [hoĵe] |
-| **hojõ** | | | **hojø** | |
+| (**hojõ**) | | | (**hojø**) | |
 
 <!--s-->
 
@@ -717,9 +691,9 @@ revealOptions:
 
 ## Speranto
 
-[Se ni eĉ supozos, ke la fina lingvo de la<br> esontaj generacioj esas ne Speranto, en ĉia<br> okazo la vio al tiu ellaborota lingvo<br> nepre devas konduki tra Speranto.]
+[Se nu eĉ supozos, ke la fina lingvo de la<br> esontaj generacioj esas ne Speranto, en ĉia<br> okazo la vio al tiu ellaborota lingvo<br> nepre devas konduki tra Speranto.]
 
-> Se ni eĉ supposos, qŭe la fina linguo<br> de la essontai gŭeneratīoi<br> essas ne Speranto, en ĉia occaso<br> la vio al tiu ellaborota linguo<br> nepre devas conduqŭi<br> tra Speranto.
+> Se nu eĉ supposos, qŭe la fina linguo<br> de la essontai gŭeneratīoi<br> essas ne Speranto, en ĉia occaso<br> la vio al tiu ellaborota linguo<br> nepre devas conduqŭi<br> tra Speranto.
 
 <!--v-->
 
