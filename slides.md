@@ -235,6 +235,7 @@ revealOptions:
 ### i ⟷ u
 ### cc → c
 ### -n → -s → -j
+### Ismoj
 
 <!--v-->
 
@@ -270,7 +271,7 @@ revealOptions:
 
 ### -n → -s → -j
 
-#### Lingua
+#### 🅰
 
 | | | |
 |-|-|-|
@@ -288,7 +289,7 @@ revealOptions:
 
 ### -n → -s → -j
 
-#### Lingue
+#### 🅴
 
 | | | |
 |-|-|-|
@@ -306,7 +307,7 @@ revealOptions:
 
 ### -n → -s → -j
 
-#### Linguo
+#### 🅾
 
 | | | |
 |-|-|-|
@@ -317,6 +318,42 @@ revealOptions:
 | |
 |-|
 | **domoi(n)** |
+
+<!--v-->
+
+## Lingue + Linguo
+
+### Francismoj
+
+| | | | | | |
+|-|-|-|-|-|-|
+| 🅰 | **ĭusta** | [iusta] | | | |
+| 🅴 | **justa** | [justa] | | | |
+| 🅾 | **justa** | [ĥusta] | | **ĵusta** | [ĵusta] |
+
+<!--v-->
+
+## Lingue + Linguo
+
+### Francismoj
+
+| | | | | | |
+|-|-|-|-|-|-|
+| 🅰 | **cadentĭa** | [kadenti-a] | | | |
+| 🅴 | **cadentie** | [kadenŧje] | | | |
+| 🅾 | **cadentio** | [kadensjo] | | **çhanço** | [ŝanso] |
+
+<!--v-->
+
+## Speranto
+
+### Francismoj
+
+| | | | | | |
+|-|-|-|-|-|-|
+| 🅰 | **-etĭa** | [eti-a] | | | |
+| 🅴 | **-etie** | [eŧje] | | | |
+| 🅾 | **-etio** | [esjo] | | **-eço** | [eso] |
 
 <!--s-->
 
@@ -442,34 +479,6 @@ revealOptions:
 
 ## Speranto
 
-### Slavismo
-
-| | | | | | |
-|-|-|-|-|-|-|
-| - | | | | | | |
-| - | | | | | | |
-| 🅾 | **kolbaso** | [kolbaso] | | **partȳo** | [partio] |
-| | | | | | |
-| | | [**kolbaso**] | | | [**partio**] |
-
-<!--v-->
-
-## Speranto
-
-### Ĝermanismo
-
-| | | | | | |
-|-|-|-|-|-|-|
-| 🅰 | **ĭusta** | [iusta] | | | |
-| 🅴 | **justa** | [justa] | | | |
-| 🅾 | **justa** | [ĥusta] | | **ĵusta** | [ĵusta] |
-| | | | | | |
-| | | [**justa**] | | | [**ĝusta**] |
-
-<!--v-->
-
-## Speranto
-
 ### Latinismo
 
 | | | |
@@ -484,29 +493,21 @@ revealOptions:
 
 ## Speranto
 
-### Pruntvortoj
+### Slavismo
 
-| | | | | | |
-|-|-|-|-|-|-|
-| 🅰 | **cadentĭa** | [kadenti-a] | | | |
-| 🅴 | **cadentie** | [kadenŧje] | | | |
-| 🅾 | **cadentio** | [kadensjo] | | **çhanço** | [ŝanso] |
-| | | | | | |
-| | | [**kadenco**] | | | [**ŝanco**] |
+| |
+|-|
+| [**kolbaso**] |
 
 <!--v-->
 
 ## Speranto
 
-### Pruntvortoj
+### Ĝermanismo
 
-| | | | | | |
-|-|-|-|-|-|-|
-| 🅰 | **-etĭa** | [eti-a] | | | |
-| 🅴 | **-etie** | [eŧje] | | | |
-| 🅾 | **-etio** | [esjo] | | **-eço** | [eso] |
-| | | | | | |
-| | | [**-eco**] | | | [**-eco**] |
+| |
+|-|
+| [**hobio**] |
 
 <!--v-->
 
@@ -551,7 +552,7 @@ revealOptions:
 | 🅰 | **via** | [via] | | **viatĭco** | [viatik-o] |
 | 🅴 | **vie** | [vie] | | **viatĭc̄e** | [viađje] |
 | 🅾 | **vio** | [vio] | | **viatĭco** | [viaĵo] |
-| | | | | **viajo** | |
+| | | | | (**viajo**) | |
 | | | | | | |
 | 🌍 | | [**vojo**] | | | [**vojaĝo**] |
 
