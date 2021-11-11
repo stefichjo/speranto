@@ -221,6 +221,16 @@ revealOptions:
 
 ## Lingue + Linguo
 
+| | |
+|-|-|
+| *Lingua* | 🅰 |
+| *Lingue* | 🅴 |
+| *Linguo* | 🅾 |
+
+<!--v-->
+
+## Lingue + Linguo
+
 ### e ⟷ o
 ### i ⟷ u
 ### cc → c
