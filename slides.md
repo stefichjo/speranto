@@ -415,7 +415,7 @@ revealOptions:
 | *PL* 🇵🇱 | | *EN* 🇬🇧 | | *FR* 🇫🇷 |
 | *CZ* 🇨🇿 | | *DA* 🇩🇰 | | *ES* 🇪🇸 |
 | | | | | |
-| *Äzyk* | | *Sprak* | | ___Lingua___ |
+| *Äzyk* | | *Sprak* | | *Lingua* |
 | | | | | ___Lingue___ |
 | | | | | ___Linguo___ |
 | | | | | |
@@ -427,25 +427,25 @@ revealOptions:
 
 ## Speranto
 
-| | | | | |
-|-|-|-|-|-|
-| *Äzyk* | | *Sprak* | | *Lingua* 🅰 |
-| | | | | *Lingue* 🅴 |
-| | | | | *Linguo* 🅾 |
-| | | | | |
-| | ↪ | | | *Speranto* |
+| | | | | | |
+|-|-|-|-|-|-|
+| *Äzyk* | | *Sprak* | | *Lingua* | 🅰 |
+| | | | | *Lingue* | 🅴 |
+| | | | | *Linguo* | 🅾 |
+| | | | | | |
+| | ↪ | | | *Speranto* | |
 
 <!--v-->
 
 ## Speranto
 
-| |
-|-|
-| *Lingua* 🅰 |
-| *Lingue* 🅴 |
-| *Linguo* 🅾 |
-| |
-| *Speranto* |
+| | |
+|-|-|
+| *Lingua* | 🅰 |
+| *Lingue* | 🅴 |
+| *Linguo* | 🅾 |
+| | |
+| *Speranto* | |
 
 <!--v-->
 
@@ -581,9 +581,9 @@ revealOptions:
 | *PL* 🇵🇱 | | *EN* 🇬🇧 | | *FR* 🇫🇷 |
 | *CZ* 🇨🇿 | | *DA* 🇩🇰 | | *ES* 🇪🇸 |
 | | | | | |
-| *Äzyk* | | *Sprak* | | ___Lingua___ |
-| | | | | ___Lingue___ |
-| | | | | ___Linguo___ |
+| *Äzyk* | | *Sprak* | | *Lingua* |
+| | | | | *Lingue* |
+| | | | | *Linguo* |
 | | | | | |
 | | ↪ | | | ___Speranto___ |
 | | | | | |
@@ -593,15 +593,15 @@ revealOptions:
 
 ## Esperanto
 
-| | |
-|-|-|
-| *Lingua* | 🅰 |
-| *Lingue* | 🅴 |
-| *Linguo* | 🅾 |
-| | |
-| *Speranto* | |
-| | |
-| *Esperanto* | 🌍 |
+| | | | | | |
+|-|-|-|-|-|-|
+| *Äzyk* | | *Sprak* | | *Lingua* | 🅰 |
+| | | | | *Lingue* | 🅴 |
+| | | | | *Linguo* | 🅾 |
+| | | | | | |
+| | ↪ | | | *Speranto* | |
+| | | | | | |
+| | | | | *Esperanto* | 🌍 |
 
 <!--v-->
 
@@ -680,9 +680,9 @@ revealOptions:
 | *PL* 🇵🇱 | | *EN* 🇬🇧 | | *FR* 🇫🇷 |
 | *CZ* 🇨🇿 | | *DA* 🇩🇰 | | *ES* 🇪🇸 |
 | | | | | |
-| *Äzyk* | | *Sprak* | | ___Lingua___ |
-| | | | | ___Lingue___ |
-| | | | | ___Linguo___ |
+| *Äzyk* | | *Sprak* | | *Lingua* |
+| | | | | *Lingue* |
+| | | | | *Linguo* |
 | | | | | |
 | | ↪ | | | *Speranto* |
 | | | | | |
@@ -749,9 +749,9 @@ revealOptions:
 | | | | | ___Lingue(*)___ |
 | | | | | ___Linguo(*)___ |
 | | | | | |
-| | ↪ | | | ___Speranto(*)___ |
+| | ↪ | | | *Speranto* |
 | | | | | |
-| | | | | ___Esperanto(*)___ |
+| | | | | *Esperanto* |
 
 <!--s-->
 
