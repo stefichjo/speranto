@@ -219,63 +219,96 @@ revealOptions:
 
 <!--s-->
 
+## Lingue + Linguo
+
+### e ⟷ o
+### i ⟷ u
+### cc → c
+### -n → -s → -j
+
+<!--v-->
+
+## Lingue + Linguo
+
+### e ⟷ o / i ⟷ u
+
+| | | | | | |
+|-|-|-|-|-|-|
+| 🅰 | **que** | [kue'] | | **no** | [no] |
+| 🅴 | **que** | [kŭe] | | **no** | [no] |
+| 🅾 | **qŭio** | [kio] | | **ne** | [ne] |
+| | | | | | |
+| | | [**kio**] | | | [**ne**] |
+
+<!--v-->
+
+## Lingue + Linguo
+
+### cc → c
+
+| | | | | | |
+|-|-|-|-|-|-|
+| 🅰 | **terra** | [terra] | | **massa** | [massa] |
+| 🅴 | **terre** | [terre] | | **masse** | [masse] |
+| 🅾 | **terro** | [tero] | | **masso** | [maso] |
+| | | | | | |
+| | | [**tero**] | | | [**maso**] |
+
+<!--v-->
+
+## Lingue + Linguo
+
+### -n → -s → -j
+
+#### Lingua
+
+| | | |
+|-|-|-|
+| **vos vide** | | **si vos videsse** |
+| **vos videba** | | **ce vos vida** |
+| **vos viderā** | | **vide(te)!** |
+
+| |
+|-|
+| **domos** |
+
+<!--v-->
+
+## Lingue + Linguo
+
+### -n → -s → -j
+
+#### Lingue
+
+| | | |
+|-|-|-|
+| **vi vidan** | | **se vi vidun** |
+| **vi vidin** | | **c̄e vi viden** |
+| **vi vidon** | | **viden!** |
+
+| |
+|-|
+| **domes** |
+
+<!--v-->
+
+## Lingue + Linguo
+
+### -n → -s → -j
+
+#### Linguo
+
+| | | |
+|-|-|-|
+| **vu vidas** | | **se vu vidus** |
+| **vu vidis** | | **qŭe vu vidu** |
+| **vu vidos** | | **vidu!** |
+
+| |
+|-|
+| **domoi(n)** |
+
 <!--s-->
-
-## Verboj
-
-### Lingua
-
-### Lingue
-
-### Linguo
-
-<!--v-->
-
-## Verboj
-
-### Lingua
-
-| |
-|-|
-| **nos vide** |
-| **nos videba** |
-| **nos viderā** |
-| |
-| **si nos videsse** |
-| **ce nos vida** |
-| **vide(te)!** |
-
-<!--v-->
-
-## Verboj
-
-### Lingue
-
-| |
-|-|
-| **ni vidan** |
-| **ni vidin** |
-| **ni vidon** |
-| |
-| **se ni vidun** |
-| **c̄e ni viden** |
-| **viden!** |
-
-<!--v-->
-
-## Verboj
-
-### Linguo
-
-| |
-|-|
-| **nu vidas** |
-| **nu vidis** |
-| **nu vidos** |
-| |
-| **se nu vidus** |
-| **qŭe nu vidu** |
-| **vidu!** |
 
 ## Speranto
 
@@ -308,48 +341,6 @@ revealOptions:
 | *Linguo* | 🅾 |
 | | |
 | *Speranto* | |
-
-<!--v-->
-
-## Speranto
-
-### Linguo: Duoblaj Konsonantoj
-
-| | | | | | |
-|-|-|-|-|-|-|
-| 🅰 | **terra** | [terra] | | **massa** | [massa] |
-| 🅴 | **terre** | [terre] | | **masse** | [masse] |
-| 🅾 | **terro** | [tero] | | **masso** | [maso] |
-| | | | | | |
-| | | [**tero**] | | | [**maso**] |
-
-<!--v-->
-
-## Speranto
-
-### Linguo: e ⟷ o / i ⟷ u
-
-| | | | | | |
-|-|-|-|-|-|-|
-| 🅰 | **que** | [kue'] | | **no** | [no] |
-| 🅴 | **que** | [kŭe] | | **no** | [no] |
-| 🅾 | **qŭio** | [kio] | | **ne** | [ne] |
-| | | | | | |
-| | | [**kio**] | | | [**ne**] |
-
-<!--v-->
-
-## Speranto
-
-### Linguo: n ⟷ s
-
-| | | | |
-|-|-|-|-|
-| 🅰 | **me vide** | | **domos** |
-| 🅴 | **mi vidan** | | **domes** |
-| 🅾 | **mu vidas** | | **domoi(n)** |
-| | | | |
-| | [**mi vidas**] | | [**domoj(n)**] |
 
 <!--v-->
 
