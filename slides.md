@@ -9,14 +9,13 @@ revealOptions:
 
 <!-- reveal-md slides.md #-w -->
 
-## Sinprezento
+## Esperanto Kiel Dialektaro
 
 * Stephan "Stefo" Schneider
-* Berlinano
-* Esperantisto
-  * "Esperanto Fajnigita"
-* Komputikisto
-
+  * Berlinano
+  * Esperantisto
+    * "Esperanto Fajnigita"
+  
 ![alt text][sts]
 
 [sts]: https://avatars.githubusercontent.com/u/3962100?s=200&u=75f4a5908cf465c276f4dde5426d3cf724a09aae&v=4 "Stefo"
@@ -64,7 +63,7 @@ revealOptions:
 | | | |
 | *Z (1894)* | | lingvo internazie |
 
-<!--s-->
+<!--v-->
 
 | | | | | |
 |-|-|-|-|-|
@@ -80,7 +79,7 @@ revealOptions:
 | | | | | |
 | | | | | *Esperanto* |
 
-<!--v-->
+<!--s-->
 
 ## Äzyk
 
@@ -130,11 +129,11 @@ revealOptions:
 
 | | | | | |
 |-|-|-|-|-|
-| *RU* 🇷🇺 | | *DE* 🇩🇪 | | *IT* 🇮🇹 |
-| *PL* 🇵🇱 | | *EN* 🇬🇧 | | *FR* 🇫🇷 |
-| *CZ* 🇨🇿 | | *DA* 🇩🇰 | | *ES* 🇪🇸 |
+| ___RU___ 🇷🇺 | | *DE* 🇩🇪 | | *IT* 🇮🇹 |
+| ___PL___ 🇵🇱 | | *EN* 🇬🇧 | | *FR* 🇫🇷 |
+| ___CZ___ 🇨🇿 | | *DA* 🇩🇰 | | *ES* 🇪🇸 |
 | | | | | |
-| *Äzyk* | | *Sprak* | | *Lingua* |
+| ___Äzyk___ | | *Sprak* | | *Lingua* |
 | | | | | *Lingue* |
 | | | | | *Linguo* |
 | | | | | |
@@ -192,11 +191,11 @@ revealOptions:
 
 | | | | | |
 |-|-|-|-|-|
-| *RU* 🇷🇺 | | *DE* 🇩🇪 | | *IT* 🇮🇹 |
-| *PL* 🇵🇱 | | *EN* 🇬🇧 | | *FR* 🇫🇷 |
-| *CZ* 🇨🇿 | | *DA* 🇩🇰 | | *ES* 🇪🇸 |
+| *RU* 🇷🇺 | | ___DE___ 🇩🇪 | | *IT* 🇮🇹 |
+| *PL* 🇵🇱 | | ___EN___ 🇬🇧 | | *FR* 🇫🇷 |
+| *CZ* 🇨🇿 | | ___DA___ 🇩🇰 | | *ES* 🇪🇸 |
 | | | | | |
-| *Äzyk* | | *Sprak* | | *Lingua* |
+| *Äzyk* | | ___Sprak___ | | *Lingua* |
 | | | | | *Lingue* |
 | | | | | *Linguo* |
 | | | | | |
@@ -254,11 +253,11 @@ revealOptions:
 
 | | | | | |
 |-|-|-|-|-|
-| *RU* 🇷🇺 | | *DE* 🇩🇪 | | *IT* 🇮🇹 |
-| *PL* 🇵🇱 | | *EN* 🇬🇧 | | *FR* 🇫🇷 |
-| *CZ* 🇨🇿 | | *DA* 🇩🇰 | | *ES* 🇪🇸 |
+| *RU* 🇷🇺 | | *DE* 🇩🇪 | | ___IT___ 🇮🇹 |
+| *PL* 🇵🇱 | | *EN* 🇬🇧 | | ___FR___ 🇫🇷 |
+| *CZ* 🇨🇿 | | *DA* 🇩🇰 | | ___ES___ 🇪🇸 |
 | | | | | |
-| *Äzyk* | | *Sprak* | | *Lingua* |
+| *Äzyk* | | *Sprak* | | ___Lingua___ |
 | | | | | *Lingue* |
 | | | | | *Linguo* |
 | | | | | |
@@ -275,16 +274,6 @@ revealOptions:
 | *Lingua* | 🅰 |
 | *Lingue* | 🅴 |
 | *Linguo* | 🅾 |
-
-<!--v-->
-
-## Lingue + Linguo
-
-### e ⟷ o
-### i ⟷ u
-### cc → c
-### -n → -s → -j
-### Francismoj
 
 <!--v-->
 
@@ -420,9 +409,9 @@ revealOptions:
 | *PL* 🇵🇱 | | *EN* 🇬🇧 | | *FR* 🇫🇷 |
 | *CZ* 🇨🇿 | | *DA* 🇩🇰 | | *ES* 🇪🇸 |
 | | | | | |
-| *Äzyk* | | *Sprak* | | *Lingua* |
-| | | | | *Lingue* |
-| | | | | *Linguo* |
+| *Äzyk* | | *Sprak* | | ___Lingua___ |
+| | | | | ___Lingue___ |
+| | | | | ___Linguo___ |
 | | | | | |
 | | ↪ | | | *Speranto* |
 | | | | | |
@@ -439,6 +428,18 @@ revealOptions:
 | | | | | *Linguo* 🅾 |
 | | | | | |
 | | ↪ | | | *Speranto* |
+
+<!--v-->
+
+## Speranto
+
+| |
+|-|
+| *Lingua* 🅰 |
+| *Lingue* 🅴 |
+| *Linguo* 🅾 |
+| |
+| *Speranto* |
 
 <!--v-->
 
@@ -574,11 +575,11 @@ revealOptions:
 | *PL* 🇵🇱 | | *EN* 🇬🇧 | | *FR* 🇫🇷 |
 | *CZ* 🇨🇿 | | *DA* 🇩🇰 | | *ES* 🇪🇸 |
 | | | | | |
-| *Äzyk* | | *Sprak* | | *Lingua* |
-| | | | | *Lingue* |
-| | | | | *Linguo* |
+| *Äzyk* | | *Sprak* | | ___Lingua___ |
+| | | | | ___Lingue___ |
+| | | | | ___Linguo___ |
 | | | | | |
-| | ↪ | | | *Speranto* |
+| | ↪ | | | ___Speranto___ |
 | | | | | |
 | | | | | *Esperanto* |
 
@@ -673,13 +674,13 @@ revealOptions:
 | *PL* 🇵🇱 | | *EN* 🇬🇧 | | *FR* 🇫🇷 |
 | *CZ* 🇨🇿 | | *DA* 🇩🇰 | | *ES* 🇪🇸 |
 | | | | | |
-| *Äzyk* | | *Sprak* | | *Lingua* |
-| | | | | *Lingue* |
-| | | | | *Linguo* |
+| *Äzyk* | | *Sprak* | | ___Lingua___ |
+| | | | | ___Lingue___ |
+| | | | | ___Linguo___ |
 | | | | | |
 | | ↪ | | | *Speranto* |
 | | | | | |
-| | | | | *Esperanto* |
+| | | | | ___Esperanto___ |
 
 <!--s-->
 
@@ -730,15 +731,23 @@ revealOptions:
 | **hodĭõ** | [hoĵaŭ] | → | **hodĭø** | [hoĵe] |
 | (**hojõ**) | | | (**hojø**) | |
 
-<!--s-->
-
-## Esperanto(*)
-## Speranto(*)
-## Linguo(*)
-## Lingue(*)
-## Lingua(*)
-
 <!--v-->
+
+| | | | | |
+|-|-|-|-|-|
+| *RU* 🇷🇺 | | *DE* 🇩🇪 | | *IT* 🇮🇹 |
+| *PL* 🇵🇱 | | *EN* 🇬🇧 | | *FR* 🇫🇷 |
+| *CZ* 🇨🇿 | | *DA* 🇩🇰 | | *ES* 🇪🇸 |
+| | | | | |
+| *Äzyk* | | *Sprak* | | ___Lingua(*)___ |
+| | | | | ___Lingue(*)___ |
+| | | | | ___Linguo(*)___ |
+| | | | | |
+| | ↪ | | | ___Speranto(*)___ |
+| | | | | |
+| | | | | ___Esperanto(*)___ |
+
+<!--s-->
 
 ## Esperanto*
 
@@ -806,7 +815,7 @@ revealOptions:
 
 ## Lingua*
 
-[Si et suponeramus la lingu-a finale de las<br> futuras generationes ese no Sperante, in omna okkasione la via ad li elaborenda lingu-a<br> infallibilmente debet konduker-e trans Sperante.]
+[Si et suponeramus la lingu-a finale de las<br> futuras generationes esse no Sperante, in omna okkasione la via ad li elaborenda lingu-a<br> infallibilmente debet konduker-e trans Sperante.]
 
 > Si et supponeramus la lingua<br> finale de las futuras generationes<br> esse no Sperante, in omna occasione<br> la via ad li elaborenda lingua<br> infallibilmente debet conducĕre <br>trans Sperante.
 
@@ -814,7 +823,7 @@ revealOptions:
 
 ## Lingua
 
-[Si nos et supponera', ke la lingu-a finale de las<br> futuras generationes ese no Sperante, in omna<br> okkasione la via ad li elaborenda lingu-a<br> infallibilemente debe konduker-e trans Sperante.]
+[Si nos et supponera', ke la lingu-a finale de las<br> futuras generationes esse no Sperante, in omna<br> okkasione la via ad li elaborenda lingu-a<br> infallibilemente debe konduker-e trans Sperante.]
 
 > Si nos et supponerā, ce la lingua<br> finale de las futuras generationes<br> esse no Sperante, in omna occasione<br> la via ad li elaborenda lingua<br> infallibilemente debe conducĕre<br> trans Sperante.
 
