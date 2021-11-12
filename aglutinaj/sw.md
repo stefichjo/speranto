@@ -1,18 +1,18 @@
 # Swahili
 
+| | | 1 | >1 | | 1 | >1 |
+|-|-|-|-|-|-|-|
+| *(verboj)* | | **i**  | **zi** | | **u** | **zi** |
+| *(partikuloj)* | | **ĭa**   | **za**   | | **ŭa**  | **za**   |
+| *(a- kaj o-vortoj)* | | **.**    | **.**    | | **mu** | **ni**  |
+| | | | | | | |
+| *(verboj)* | | **li** | **ya** | | **u** | **i**  |
+| *(partikuloj)* | | **la**   | **ya**   | | **ŭa**  | **ĭa**   |
+| *(a- kaj o-vortoj)* | | **.**    | **ma**  | | **mu** | **mi**  |
 | | | | | |
-|-|-|-|-|-|
-| *mi* | **mimi** | | *mia* | **.angu** |
-| *vi* | **wewe** | | *via* | **.ako** |
-| *li* | **yeye** | | *lia* | **.ake** |
-| *ni* | **sisi** | | *nia* | **.etu** |
-| *ivi* | **nyinyi** | | *ivia* | **.enu** |
-| *ili* | **wao** | | *ilia* | **.ao** |
-
-| | |
-|-|-|
-| *de* | **.a** |
-| *kaj* | **na** |
+| *(verboj)* | | **ki** | **vi** | | **ȗ** | **wa** |
+| *(partikuloj)* | | **kĭa**  | **vĭa**  | | **ŭa**  | **wăa**  |
+| *(a- kaj o-vortoj)* | | **ki**  | **vi**  | | **mu** | **wa**  |
 
 | | | | | |
 |-|-|-|-|-|
@@ -23,20 +23,20 @@
 | *ni havas* | **tu.na** | | *ni ne havas* | **ha.tu.na** |
 | *ivi havas* | **m.na** | | *ivi ne havas* | **ha.m.na** |
 | *ili havas* | **wa.na** | | *ili ne havas* | **ha.wa.na** |
-
 | | | | | |
 |-|-|-|-|-|
-| **.**    | **.**    | | **mu.** | **ni.**  |
-| **ĭa**   | **za**   | | **ŭa**  | **za**   |
-| **ina**  | **zina** | | **una** | **zina** |
-| | | | | |
-| **.**    | **ma.**  | | **mu.** | **mi.**  |
-| **la**   | **ya**   | | **ŭa**  | **ĭa**   |
-| **lina** | **yana** | | **una** | **ina**  |
-| | | | | |
-| **ki.**  | **vi.**  | | **mu.** | **wa.**  |
-| **kĭa**  | **vĭa**  | | **ŭa**  | **wăa**  |
-| **kina** | **vina** | | **ȗna** | **wana** |
+| *mi* | **mimi** | | *mia* | **.ngu** |
+| *vi* | **wewe** | | *via* | **.ko** |
+| *li* | **yeye** | | *lia* | **.ke** |
+| *ni* | **sisi** | | *nia* | **(ä).tu** |
+| *ivi* | **nyinyi** | | *ivia* | **(ä).nu** |
+| *ili* | **wao** | | *ilia* | **.o** |
+
+| | |
+|-|-|
+| *de* | **.a** |
+| *kaj* | **na** |
+
 
 | `(nĭ)/(nĭ) + i/zi` | |
 |-|-|
@@ -73,7 +73,7 @@
 | *La granda doktoro de la amiko havas nomon.*   | **Daktari mŭ.kubwa ŭa rafiki ȗna jina.** |
 | *La grandaj doktoroj de la amiko havas nomon.* | **Ma.daktari wa.kubwa wăa rafiki wana jina.** |
 
-
+<!--
 | | | | | |
 |-|-|-|-|-|
 | *naskas* | **.za-a** | | *naskatas* | **.za.liwa** |
@@ -116,3 +116,4 @@
 | | | | | |
 | | | | | |
 | *malkonstruas* | `?` | | *malkontruatas* | **.bomo.lïwa** |
+-->

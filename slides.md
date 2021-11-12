@@ -30,7 +30,7 @@ revealOptions:
 
 ## Motivigoj
 
-### Babela Turo / Dialektaro
+### Dialektaroj
 
 ![alt text][babela-turo]
 
@@ -38,7 +38,7 @@ revealOptions:
 
 <!--v-->
 
-### Babela Turo / Dialektaro
+### Dialektaroj
 
 | | | | | |
 |-|-|-|-|-|
@@ -47,7 +47,7 @@ revealOptions:
 
 <!--v-->
 
-### Babela Turo / Dialektaro
+### Dialektaroj
 
 | | | | | |
 |-|-|-|-|-|
@@ -56,7 +56,7 @@ revealOptions:
 
 <!--v-->
 
-### Babela Turo / Dialektaro
+### Dialektaroj
 
 | | | |
 |-|-|-|
