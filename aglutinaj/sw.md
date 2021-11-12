@@ -4,21 +4,21 @@
 |-|-|-|-|-|-|-|
 | *(verboj)* | | **i**  | **zi** | | **u** | **zi** |
 | *(partikuloj)* | | **ĭa**   | **za**   | | **ŭa**  | **za**   |
-| *(a- kaj o-vortoj)* | | **.**    | **.**    | | **mu** | **ni**  |
+| *(a- kaj o-vortoj)* | | **n̆ĭ**    | **n̆ĭ**    | | **mu** | **ni**  |
 | | | | | | | |
 | *(verboj)* | | **li** | **ya** | | **u** | **i**  |
 | *(partikuloj)* | | **la**   | **ya**   | | **ŭa**  | **ĭa**   |
-| *(a- kaj o-vortoj)* | | **.**    | **ma**  | | **mu** | **mi**  |
+| *(a- kaj o-vortoj)* | | **(ji)**    | **ma**  | | **mu** | **mi**  |
 | | | | | |
 | *(verboj)* | | **ki** | **vi** | | **ȗ** | **wa** |
-| *(partikuloj)* | | **kĭa**  | **vĭa**  | | **ŭa**  | **wăa**  |
+| *(partikuloj)* | | **kĭa**  | **vĭa**  | | **ŭa**  | **wa**  |
 | *(a- kaj o-vortoj)* | | **ki**  | **vi**  | | **mu** | **wa**  |
 
 | | | | | |
 |-|-|-|-|-|
 | *mi havas* | **ni.na** | | *mi ne havas* | **si.na** |
-| *vi havas* | **u.na** | | *vi ne havas* | **hu.na** |
-| *li havas* | **ȗ.na** | | *li ne havas* | **hȗ.na** |
+| *vi havas* | **u.na** | | *vi ne havas* | **hǎ.na** |
+| *li havas* | **ȗ.na** | | *li ne havas* | **ha.na** |
 | | | | | |
 | *ni havas* | **tu.na** | | *ni ne havas* | **ha.tu.na** |
 | *ivi havas* | **m.na** | | *ivi ne havas* | **ha.m.na** |
@@ -39,38 +39,43 @@
 
 | `i zi` | |
 |-|-|
-| *La granda domo de la amiko havas nomon.* | **Nyumba n̆ĭ.kubwa ĭa rafiki i.na jina.** |
-| *La grandaj domoj de la amiko havas nomon.* | **Nyumba n̆ĭ.kubwa za rafiki zi.na jina.** |
+| *La bona domo de la amiko havas nomon.* | **Nyumba n̆ĭ.zuri ĭa rafiki i.na jina.** |
+| *La bonaj domoj de la amiko havas nomon.* | **Nyumba n̆ĭ.zuri za rafiki zi.na jina.** |
 
 | `u zi` | |
 |-|-|
-| *La granda kanto de la amiko havas nomon.*   | **M̆ŭ.imbo mŭ.kubwa ŭa rafiki u.na jina.** |
-| *La grandaj kantoj de la amiko havas nomon.* | **Nĭ.imbo n̆ĭ.kubwa za rafiki zi.na jina.** |
+| *La bona kanto de la amiko havas nomon.*   | **M̆ŭ.imbo mŭ.zuri ŭa rafiki u.na jina.** |
+| *La bonaj kantoj de la amiko havas nomon.* | **Nĭ.imbo n̆ĭ.zuri za rafiki zi.na jina.** |
 
 | `li ya` | |
 |-|-|
-| *La granda aŭto de la amiko havas nomon.*   | **Gari kubwa la rafiki li.na jina.** |
-| *La grandaj aŭtoj de la amiko havas nomon.* | **Ma.gari ma.kubwa ya rafiki ya.na jina.** |
+| *La bona aŭto de la amiko havas nomon.*   | **Gari zuri la rafiki li.na jina.** |
+| *La bonaj aŭtoj de la amiko havas nomon.* | **Ma.gari ma.zuri ya rafiki ya.na jina.** |
 
 | `u i` | |
 |-|-|
-| *La granda arbo de la amiko havas nomon.*   | **Mŭ.ti mŭ.kubwa ŭa rafiki u.na jina.** |
-| *La grandaj arboj de la amiko havas nomon.* | **Mi.ti mi.kubwa ĭa rafiki i.na jina.** |
+| *La bona arbo de la amiko havas nomon.*   | **Mŭ.ti mŭ.zuri ŭa rafiki u.na jina.** |
+| *La bonaj arboj de la amiko havas nomon.* | **Mi.ti mi.zuri ĭa rafiki i.na jina.** |
 
 | `ki vi` | |
 |-|-|
-| *La granda libro de la amiko havas nomon.*   | **Ki.tabu ki.kubwa kĭa rafiki ki.na jina.** |
-| *La grandaj libroj de la amiko havas nomon.* | **Vi.tabu vi.kubwa vĭa rafiki vi.na jina.** |
+| *La bona libro de la amiko havas nomon.*   | **Ki.tabu ki.zuri kĭa rafiki ki.na jina.** |
+| *La bonaj libroj de la amiko havas nomon.* | **Vi.tabu vi.zuri vĭa rafiki vi.na jina.** |
 
 | `u wa` | |
 |-|-|
-| *La granda persono de la amiko havas nomon.*   | **Mŭ.tu mŭ.kubwa ŭa rafiki ȗ.na jina.** |
-| *La grandaj personoj de la amiko havas nomon.* | **Wa.tu mi.kubwa wăa rafiki wa.na jina.** |
+| *La bona persono de la amiko havas nomon.*   | **Mŭ.tu mŭ.zuri ŭa rafiki ȗ.na jina.** |
+| *La bonaj personoj de la amiko havas nomon.* | **Wa.tu mi.zuri wa rafiki wa.na jina.** |
 
 | `u wa` ← `li ya` | |
 |-|-|
-| *La granda doktoro de la amiko havas nomon.*   | **Daktari mŭ.kubwa ŭa rafiki ȗ.na jina.** |
-| *La grandaj doktoroj de la amiko havas nomon.* | **Ma.daktari wa.kubwa wăa rafiki wa.na jina.** |
+| *La bona amiko de la amiko havas nomon.*   | **Rafiki mŭ.zuri ŭa rafiki ȗ.na jina.** |
+| *La bonaj amikoj de la amiko havas nomon.* | **Ma.rafiki wa.zuri wa rafiki wa.na jina.** |
+
+| `u wa` ← `li ya` | |
+|-|-|
+| *La bona amiko de la amiko havas nomon.*   | **Rafiki mŭ.zuri ŭa rafiki ȗ.na jina.** |
+| *La bonaj amikoj de la amiko havas nomon.* | **Ma.rafiki wa.zuri wa rafiki wa.na jina.** |
 
 > karibu-ni, asante-ni, shikamoo-ni, kwa heri-ni `?`
 
@@ -80,20 +85,7 @@
 
 | | |
 |-|-|
-| *mi ne* | **si** |
-| *vi ne* | **hu** |
-| *li ne* | **ha** |
-| | |
-| *ni ne* | **ha.tu** |
-| *ivi ne* | **ha.m** |
-| *ili ne* | **ha.wa** |
-
-| | |
-|-|-|
 | *ne -s* | **-i** |
-
-| | |
-|-|-|
 
 <!--
 | | | | | |
