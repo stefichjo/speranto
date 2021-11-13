@@ -1,5 +1,5 @@
 ---
-title: Speranto
+title: Esperanto Kiel Dialektaro
 separator: <!--s-->
 verticalSeparator: <!--v-->
 theme: sky
@@ -9,22 +9,21 @@ revealOptions:
 
 <!-- reveal-md slides.md #-w -->
 
-## Esperanto Kiel Dialektaro
+# Bonvenon!
 
 * Stephan "Stefo" Schneider
   * Berlinano
   * Esperantisto
-    * "Esperanto Fajnigita"
+    * *Sprak* + *Esperanto Fajnigita*
+    * ***Speranto***
   
 ![alt text][sts]
 
 [sts]: https://avatars.githubusercontent.com/u/3962100?s=200&u=75f4a5908cf465c276f4dde5426d3cf724a09aae&v=4 "Stefo"
 
-<!--v-->
-
-# Dankon!
-
-<small>github.com/stefichjo/speranto</small>
+Note:
+* 1980; 2006; 2010
+* Esperanto-Vortrag auf Deutsch
 
 <!--s-->
 
@@ -38,12 +37,16 @@ revealOptions:
 
 <!--v-->
 
+## Motivigoj
+
 ### Dialektaroj
 
-| | | | | |
-|-|-|-|-|-|
-| 🇷🇺 ещё | | 🇩🇰 dyb | | 🇫🇷 jour |
-| 🇵🇱 jeszcze | | 🇩🇪 tief | | 🇮🇹 giorno |
+> Eine Sprache ist ein Dialekt mit einer Armee und einer Marine.
+>
+> -- <quote>Max Weinreich</quote>
+
+Note:
+* Unverständlichkeiten der Sprachen untereinander sind künstlicher Natur.
 
 <!--v-->
 
@@ -51,8 +54,27 @@ revealOptions:
 
 | | | | | |
 |-|-|-|-|-|
-| 🇷🇺 ëŝĉo | | 🇩🇰 dyp | | 🇫🇷 dĭurnŏ |
-| 🇵🇱 ëŝĉø | | 🇩🇪 dẏph | | 🇮🇹 dĭůrno |
+| 🇷🇺 ещё | | 🇩🇪 tief | | 🇮🇹 giorno |
+| 🇵🇱 jeszcze | | 🇩🇰 dyb | | 🇫🇷 jour |
+
+Note:
+* Russisch-deutsche Eltern
+* Italienische Ehefrau (Esperanto)
+
+<!--v-->
+
+### Dialektaroj
+
+| | | | | |
+|-|-|-|-|-|
+| 🇷🇺 ëŝĉo | | 🇩🇪 dẏph | | 🇮🇹 dĭůrno |
+| 🇵🇱 ëŝĉø | | 🇩🇰 dyp | | 🇫🇷 dĭurnŏ |
+
+Note:
+* Sprachspezifische Konventionen
+  * **ø** [e]
+  * **d** [t], **p** [b]
+  * **dĭ** [ĵ], **nŏ** []
 
 <!--v-->
 
@@ -68,6 +90,9 @@ revealOptions:
 | *Esperanto* | | lingvo internacia |
 | | | |
 | *Z (1894)* | | lingvo internazie |
+
+Note:
+* sehr unterschiedliche Esperantiden
 
 <!--v-->
 
@@ -85,6 +110,9 @@ revealOptions:
 | | | | | |
 | | | | | *Esperanto* |
 
+Note:
+* Äzyk, Sprak und Lingua sind sowohl Brückensprachen als auch Brückenrechtschreibungen
+
 <!--s-->
 
 ## Äzyk
@@ -101,8 +129,6 @@ revealOptions:
 
 ## Äzyk
 
-### Palataleco
-
 | | | | | |
 |-|-|-|-|-|
 | 🇷🇺 день | **dėṇ** | | шесть | **ŝesṭ** |
@@ -115,21 +141,10 @@ revealOptions:
 
 ## Äzyk
 
-### Vokaloj
-
-| | | | | |
-|-|-|-|-|-|
-| 🇷🇺 золото | **zoloto** | | заяц | **zaäç** |
-| 🇵🇱 złoto | **zŏloto** | | zając | **zaą̈ç** |
-| 🇨🇿 zlato | **zŏlȏto** | | zajíc | **zaȧç** |
-| | | | | |
-| | **zoloto** | | | **zaaç** |
-
-<!--v-->
-
-## Äzyk
-
 > __Dobry den!__
+
+Note:
+* Äzyk ist bisher nur eine Brückenrechtschreibung, im Gegensatz zu Sprak und Lingua.
 
 <!--v-->
 
@@ -163,29 +178,13 @@ revealOptions:
 
 ## Sprak
 
-### i / u
-
 | | | | | |
 |-|-|-|-|-|
-| 🇩🇪 schein | **shĩn** | | laut | **lũd** |
-| 🇬🇧 shine | **shĩn** | | loud | **lũd** |
-| 🇩🇰 skin | **skin** | | lyd | **lyd** |
+| 🇩🇪 mein | **mĩn** | | laut | **lũd** |
+| 🇬🇧 mine | **mĩn** | | loud | **lũd** |
+| 🇩🇰 min | **min** | | lyd | **lyd** |
 | | | | | |
-| | **shin** | | | **lud** |
-
-<!--v-->
-
-## Sprak
-
-### *ai
-
-| | | | | | | | |
-|-|-|-|-|-|-|-|-|
-| 🇩🇪 ein | **ẽn** | | heim | **hẽm** | | stein | **stẽn** |
-| 🇬🇧 one | **ên** | | home | **hẽm** | | stone | **stẽn** |
-| 🇩🇰 en | **en** | | hjem | **hẽm** | | sten | **sten** |
-| | | | | | | | |
-| | **æn** | | | **hæm** | | | **stæn** |
+| | **min** | | | **lud** |
 
 <!--v-->
 
@@ -235,6 +234,8 @@ revealOptions:
 | | | | | |
 | | **terra** | | | **massa** |
 
+* Doppelte Konsonanten bleiben in Lingua erhalten, auch wenn sie, vor allem im Französischen, als einfache Konsonanten ausgesprochen werden.
+
 <!--v-->
 
 ## Lingua
@@ -248,6 +249,9 @@ revealOptions:
 | 🇪🇸 hoja | **~f~olĭa** | | espacio | **s̈patĭo** |
 | | | | | |
 | | **folĭa** | | | **spatĭo** |
+
+Note:
+* Wie man sieht, hat Lingua im Gegensatz zu Lingue und Linguo (und Esperanto) keine eigene Wortendung für Substantive.
 
 <!--v-->
 
@@ -281,17 +285,24 @@ revealOptions:
 | *Lingue* | 🅴 |
 | *Linguo* | 🅾 |
 
+Note:
+* 🅰, 🅴, 🅾 stehen für Lingua, Lingue und Linguo.
+* Wie man ahnen kann, hat Lingue und Linguo (wie Esperanto) eine eigene Wortendung für Substantive.
+
 <!--v-->
 
 ## Lingue + Linguo
 
-### e ⟷ o / i ⟷ u
+### -e ⟷ -o / -i ⟷ -u
 
 | | | | | | |
 |-|-|-|-|-|-|
 | 🅰 | **que** | [kue'] | | **no** | [no] |
 | 🅴 | **que** | [kŭe] | | **no** | [no] |
 | 🅾 | **qŭio** | [kio] | | **ne** | [ne] |
+
+Note:
+* Korrelative (Tabellenwörter/tabelvortoj) haben schon in Lingua ein (Schein-)endungssystem: -e für "Substantive" wie "was" und "-o" für "Adverben" wie "nicht"/"auf keine Weise".
 
 <!--v-->
 
@@ -304,6 +315,9 @@ revealOptions:
 | 🅰 | **terra** | [terra] | | **massa** | [massa] |
 | 🅴 | **terre** | [terre] | | **masse** | [masse] |
 | 🅾 | **terro** | [tero] | | **masso** | [maso] |
+
+Note:
+* In Linguo werden doppelte Konsonanten als einfache Konsonanten ausgesprochen.
 
 <!--v-->
 
@@ -322,6 +336,10 @@ revealOptions:
 | |
 |-|
 | **domos** |
+
+Notes:
+* Im Gegensatz zu Lingue und Linguo (und Esperanto) gibt es in Lingua keine regelmäßigen Verbendungen.
+* Die Pluralendung "-s" hingegen ist regelmäßig. Sie wird beim Übergang von Lingue zu Linguo durch "-j" ersetzt.
 
 <!--v-->
 
@@ -367,33 +385,9 @@ revealOptions:
 
 | | | | | | |
 |-|-|-|-|-|-|
-| 🅰 | **ĭusta** | [iusta] | | | |
-| 🅴 | **justa** | [justa] | | | |
-| 🅾 | **justa** | [ĥusta] | | **ĵusta** | [ĵusta] |
-
-<!--v-->
-
-## Lingue + Linguo
-
-### Francismoj
-
-| | | | | | |
-|-|-|-|-|-|-|
 | 🅰 | **cadentĭa** | [kadenti-a] | | | |
 | 🅴 | **cadentie** | [kadenŧje] | | | |
 | 🅾 | **cadentio** | [kadensjo] | | **çhanço** | [ŝanso] |
-
-<!--v-->
-
-## Lingue + Linguo
-
-### Francismoj
-
-| | | | | | |
-|-|-|-|-|-|-|
-| 🅰 | **-etĭa** | [eti-a] | | | |
-| 🅴 | **-etie** | [eŧje] | | | |
-| 🅾 | **-etio** | [esjo] | | **-eço** | [eso] |
 
 <!--v-->
 
@@ -517,7 +511,10 @@ revealOptions:
 | 🅾 | **circał** | [ĉirkaŭ] | | **hodĭõ** | [hoĵaŭ] |
 | | | | | (**hojõ**) | |
 | | | | | | |
-| | | [**cirkaŭ**] | | | [**hodiaŭ**] |
+| | | [**ĉirkaŭ**] | | | [**hodiaŭ**] |
+
+Note:
+* Speranto hat auch "alte" Aussprachen: "ĉirkaŭ" statt "cirkaŭ".
 
 <!--v-->
 
@@ -546,6 +543,9 @@ revealOptions:
 | 🅾 | **scrivas** | [skrivas] |
 | | | |
 | | | [**skribas**] |
+
+Note:
+* Alte Aussprache: "skribas" statt "skrivas"
 
 <!--v-->
 
@@ -698,6 +698,9 @@ revealOptions:
 
 ### Linguo*
 
+Note:
+* Esperanto hat "de l' amik'" statt "de la amiko" im poetischen Stil.
+
 <!--v-->
 
 ## Poezio
@@ -736,6 +739,9 @@ revealOptions:
 |-|-|-|-|-|
 | **hodĭõ** | [hoĵaŭ] | → | **hodĭø** | [hoĵe] |
 | (**hojõ**) | | | (**hojø**) | |
+
+Note:
+* analog zur Wortendung "-e" für Adverben
 
 <!--v-->
 
@@ -849,3 +855,8 @@ revealOptions:
 | | | | | |
 | | | | | ___Esperanto(*)___ |
 
+<!--s-->
+
+# Dankon!
+
+<small>github.com/stefichjo/speranto</small>

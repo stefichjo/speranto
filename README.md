@@ -1,5 +1,5 @@
 # Speranto
-*(Esperanto por Tempovojaĝantoj)*
+*(Esperanto kiel dialektaro)*
 
 En tiu ĉi fikcia kontinuo da lingvoj, dialektoj kaj akĉentoj, ***Esperanto*** baziĝas sur [***Speranto***](linguo.md#slav-ĝermana), t.e. estonteca internacia planlingvo. ***Speranto*** radikas en [***Latinidaj***](latinidaj/README.md), [***Ĝermanaj***](ghermanaj/README.md) kaj [***Slavaj***](slavaj/README.md) lingvoj.
 
