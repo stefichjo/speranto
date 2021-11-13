@@ -72,11 +72,6 @@
 | *La bona amiko de la amiko havas nomon.*   | **Rafiki mŭ.zuri ŭa rafiki ȗ.na jina.** |
 | *La bonaj amikoj de la amiko havas nomon.* | **Ma.rafiki wa.zuri wa rafiki wa.na jina.** |
 
-| `u wa` ← `li ya` | |
-|-|-|
-| *La bona amiko de la amiko havas nomon.*   | **Rafiki mŭ.zuri ŭa rafiki ȗ.na jina.** |
-| *La bonaj amikoj de la amiko havas nomon.* | **Ma.rafiki wa.zuri wa rafiki wa.na jina.** |
-
 > karibu-ni, asante-ni, shikamoo-ni, kwa heri-ni `?`
 
 | | |
