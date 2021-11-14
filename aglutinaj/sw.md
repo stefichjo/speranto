@@ -14,6 +14,11 @@
 | *(partikuloj)* | | **kĭa**  | **vĭa**  | | **ŭa**  | **wa**  |
 | *(a- kaj o-vortoj)* | | **ki**  | **vi**  | | **mu** | **wa**  |
 
+* **mŭ.funguo** → **m̆u.funguo**
+* **ni.funguo** → **n̆ĭ.funguo**
+
+* **n̆ĭ.Laya ni nĭ.zuri.** → **m̆u.Laya ni nĭ.zuri.**
+
 | | | | | |
 |-|-|-|-|-|
 | *mi havas* | **ni.na** | | *mi ne havas* | **si.na** |
@@ -31,6 +36,7 @@
 | *ni* | **sisi** | | *nia* | **(ä).tu** |
 | *ivi* | **nyinyi** | | *ivia* | **(ä).nu** |
 | *ili* | **wao** | | *ilia* | **.o** |
+
 
 | | |
 |-|-|
@@ -71,6 +77,7 @@
 |-|-|
 | *La bona amiko de la amiko havas nomon.*   | **Rafiki mŭ.zuri ŭa rafiki ȗ.na jina.** |
 | *La bonaj amikoj de la amiko havas nomon.* | **Ma.rafiki wa.zuri wa rafiki wa.na jina.** |
+
 
 > karibu-ni, asante-ni, shikamoo-ni, kwa heri-ni `?`
 

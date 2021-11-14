@@ -58,8 +58,8 @@ Note:
 | 🇵🇱 jeszcze | | 🇩🇰 dyb | | 🇫🇷 jour |
 
 Note:
-* Russisch-deutsche Eltern
-* Italienische Ehefrau (Esperanto)
+* Muttersprachen der Eltern
+* Muttersprache der Ehefrau (+ Esperanto)
 
 <!--v-->
 
@@ -71,7 +71,7 @@ Note:
 | 🇵🇱 ëŝĉø | | 🇩🇰 dyp | | 🇫🇷 dĭurnŏ |
 
 Note:
-* Sprachspezifische Konventionen
+* Sprachspezifische Konventionen, nur diesmal mit etwas Internationalität
   * **ø** [e]
   * **d** [t], **p** [b]
   * **dĭ** [ĵ], **nŏ** []
@@ -860,3 +860,6 @@ Note:
 # Dankon!
 
 <small>github.com/stefichjo/speranto</small>
+
+Note:
+* Weiteres Material
