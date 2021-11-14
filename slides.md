@@ -88,11 +88,10 @@ Note:
 | *Ido* | | linguo internaciona |
 | | | |
 | *Esperanto* | | lingvo internacia |
-| | | |
-| *Z (1894)* | | lingvo internazie |
 
 Note:
 * sehr unterschiedliche Esperantiden
+* Z vor und nach 1887
 
 <!--v-->
 
@@ -234,6 +233,7 @@ Note:
 | | | | | |
 | | **terra** | | | **massa** |
 
+Note:
 * Doppelte Konsonanten bleiben in Lingua erhalten, auch wenn sie, vor allem im Französischen, als einfache Konsonanten ausgesprochen werden.
 
 <!--v-->
