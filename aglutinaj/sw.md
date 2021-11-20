@@ -113,20 +113,55 @@
 | *-os* | **ta** | | *ne -os* | **ta** |
 |-|-|-|-|-|
 | *Mi legos.* | **Ni.ta.som-a.** | | *Mi ne legos.* | **Si.ta.som-a.** |
-| *Mi manĝos.* | **Ni.ta.qu.l-a.** | | *Mi ne manĝos.* | **Si.ta.qu.la.** |
+| *Mi manĝos.* | **Ni.ta.qu.l-a.** | | *Mi ne manĝos.* | **Si.ta.qu.l-a.** |
+| *Mi estos.* | **Ni.ta.qu.w-a.** | | *Mi ne estos.* | **Si.ta.qu.w-a.** |
 
 | *estas -inta* | **me** | | *ne estas -inta* | **ja** |
 |-|-|-|-|-|
 | *Mi estas leginta.* | **Ni.me.som-a.** | | *Mi ne estas leginta.* | **Si.ja.som-a.** |
 | *Mi estas manĝinta.* | **Ni.me.qu.l-a.** | | *Mi ne estas manĝinta.* | **Si.ja.l-a.** |
 
-| *estas -ta* | **-w-**, **-ik-**, **-liw-** |
+| *-ta* | **-w-a**, **(i)-w-a**, **(a/u)-liw-a**, **(o)-lïw-a** |
 |-|-|
 | *La manĝo estas kuirata.* | **Kĭa.qu.la ki.na.pik-w-a.** |
-| *Ĝi estas rompita.* | **Li.me.vunj-ik-a.** |
+| *skrib-ta* | **.andik-w-a** |
+| *ekzamen-ta* | **.pim-w-a** |
+| *injekt-ta* | **.chom-w-a** |
+| *pririd-ta* | **.chek-w-a** |
+| *bat-ta* | **.pig-w-a** |
+| | |
+| *rigard-ta* | **.angali-w-a** |
+| *help-ta* | **.saidi-w-a** |
+| | |
+| *trink-ta* | **.nyw-ïw-a** |
+| *don-ta* | **.p-ïw-a** |
+| *manĝ-ta* | **.l-iw-a** |
+| *mort-ta* | **.f-iw-a** |
+| | |
 | *La infano estas naskita.* | **Mŭ.toto ȗ.me.za-liw-a.** |
+| *lav-ta* | **.fu-liw-a** |
+| | |
 | *La gasto estas forigita.* | **Mŭ.geni ȗ.me.ondo-lïw-a.** |
+| *geedzig-ta* | **.o-lïw-a** |
+| *kolekt-ta* | **.zo-lïw-a** |
+| *ofert-ta* | **.to-lïw-a** |
+
+| *-ta* | **(i)w-a**, **(au)liw-a**, **(ŭ)łiw-a**, **-ik-a** |
+|-|-|
+| *bezon-ta* | **.hitaji-wa** |
+| *fid-ta* | **.amini-wa** |
+| | |
 | *La nomo estas forgesita.* | **Jina li.me.sahau-liw-a.** |
+| *malaprec-ta* | **.dharau-liw-a** |
+| *mortig-ta* | **.ua-w-a** |
+| *pardon-ta* | **.samehe-w-a** |
+| | |
+| *laŭd-ta* | **.sifŭ-łiw-a** = **.sifu̇-wa** |
+| *salut-ta* | **.salimŭ-łiw-a** = **.salimu̇-wa** |
+
+| *-ta* | **-ik-a** |
+|-|-|
+| *Ĝi estas rompita.* | **Li.me.vunj-ik-a.** |
 
 | *en* / *ĉe* | **-ni** |
 |-|-|
