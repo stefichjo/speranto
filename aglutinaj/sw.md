@@ -122,7 +122,7 @@
 | *Mi estas manĝinta.* | **Ni.me.qu.l-a.** | | *Mi ne estas manĝinta.* | **Si.ja.l-a.** |
 
 | *-ta* | **-w-a**, **(i)-w-a**, **(a/u)-liw-a**, **(o)-lïw-a** |
-|-|-|
+|-|-| <!-- (e/i)-w-a ? -->
 | *La manĝo estas kuirata.* | **Kĭa.qu.la ki.na.pik-w-a.** |
 | *skrib-ta* | **.andik-w-a** |
 | *ekzamen-ta* | **.pim-w-a** |
@@ -146,15 +146,15 @@
 | *kolekt-ta* | **.zo-lïw-a** |
 | *ofert-ta* | **.to-lïw-a** |
 
-| *-ta* | **(i)w-a**, **(au)liw-a**, **(ŭ)łiw-a**, **-ik-a** |
+| *-ta* | **(e/i)w-a**, **(au)liw-a**, **(ŭ)łiw-a** |
 |-|-|
+| *pardon-ta* | **.samehe-w-a** |
 | *bezon-ta* | **.hitaji-wa** |
 | *fid-ta* | **.amini-wa** |
 | | |
 | *La nomo estas forgesita.* | **Jina li.me.sahau-liw-a.** |
 | *malaprec-ta* | **.dharau-liw-a** |
 | *mortig-ta* | **.ua-w-a** |
-| *pardon-ta* | **.samehe-w-a** |
 | | |
 | *laŭd-ta* | **.sifŭ-łiw-a** = **.sifu̇-wa** |
 | *salut-ta* | **.salimŭ-łiw-a** = **.salimu̇-wa** |
@@ -167,11 +167,19 @@
 |-|-|
 | *en la oficejo* | **ofisi-ni** |
 
-| | |
-|-|-|
-| *(tie) estas* | **ku.na** |
-| *(ĉi tie) estas* | **pa.na** |
-| *(ĉi-ene) estas* | **mŭ.na** |
+| | | | | |
+|-|-|-|-|-|
+| *tie ĉi* | **hu.ku** | | | |
+| *ĝuste tie ĉi* | **hȗ.pa** | | | |
+| *ene de tie ĉi* | **hu.mu** | | | |
+| | | | | |
+| *tie* | **hu.ků** | | *li estas tie en* | **ũ.ků** |
+| *ĝuste tie* | **hȗ.på** | | *li estas ĝuste tie en* | **ũ.på** |
+| *ene de tie* | **hu.mů** | | *li estas ene de tie en* | **ũ.mů** |
+| | | | | |
+| *tie for* | **ku.le** | | *(tie) estas* | **ku.na** |
+| *ĝuste tie for* | **pa.le** | | *(ĝuste tie) estas* | **pa.na** |
+| *ene de tie for* | **mŭ.le** | | *(ene de tie) estas* | **mŭ.na** |
 
 | *-e* | **ki**, **vi** |
 |-|-|
