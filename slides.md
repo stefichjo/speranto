@@ -92,6 +92,7 @@ Note:
 Note:
 * sehr unterschiedliche Esperantiden
 * Z vor und nach 1887
+* Diese Plansprachen gibt es "wirklich", während Lingua, Lingue und Linguo (und Speranto) nur im Speranto-Dialektkontinuum existieren. Die Kausalitäten sind daher umgekehrt: Interlingua etc. entstand *nach* Esperanto, während Esperanto im fiktiven Speranto-Dialektkontinuum aus Lingua hervorgeht.
 
 <!--v-->
 
@@ -644,6 +645,9 @@ Note:
 | | | | | | |
 | 🌍 | | [**vojo**] | | | [**vojaĝo**] |
 
+Note:
+* Hyperkorrektes Linguo: **amikoj** ← **amiki**
+
 <!--v-->
 
 ## Esperanto
@@ -657,6 +661,9 @@ Note:
 | 🅾 | **essas** | [esas] | | **stas** | [stas] |
 | | | | | | |
 | 🌍 | | [**estas**] | | | [**staras**] |
+
+Note:
+* **stas** ist inspiriert durch **'stas** in Esperanto (in kontraŭfundamenta poetischem Stil), obwohl eigtl. von *PL* **jestem**, **jesteś**, **jest** ... bzw. *LA* **est**.
 
 <!--v-->
 
