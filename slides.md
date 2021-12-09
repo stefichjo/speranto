@@ -41,7 +41,7 @@ Note:
 
 ### Dialektaroj
 
-> Eine Sprache ist ein Dialekt mit einer Armee und einer Marine.
+> Lingvo estas dialekto kun armeo kaj floto.
 >
 > -- <quote>Max Weinreich</quote>
 
@@ -91,7 +91,6 @@ Note:
 
 Note:
 * sehr unterschiedliche Esperantiden
-* Z vor und nach 1887
 * Diese Plansprachen gibt es "wirklich", während Lingua, Lingue und Linguo (und Speranto) nur im Speranto-Dialektkontinuum existieren. Die Kausalitäten sind daher umgekehrt: Interlingua etc. entstand *nach* Esperanto, während Esperanto im fiktiven Speranto-Dialektkontinuum aus Lingua hervorgeht.
 
 <!--v-->
@@ -111,7 +110,7 @@ Note:
 | | | | | *Esperanto* |
 
 Note:
-* Äzyk, Sprak und Lingua sind sowohl Brückensprachen als auch Brückenrechtschreibungen
+* Äzyk, Sprak und Lingua sind sowohl Brückensprachen als auch Brückenrechtschreibungen.
 
 <!--s-->
 
@@ -144,7 +143,7 @@ Note:
 > __Dobry den!__
 
 Note:
-* Äzyk ist bisher nur eine Brückenrechtschreibung, im Gegensatz zu Sprak und Lingua.
+* Äzyk als Brückensprache existiert (noch) nicht.
 
 <!--v-->
 
@@ -224,25 +223,6 @@ Note:
 
 ## Lingua
 
-### Duoblaj Konsonantoj
-
-| | | | | |
-|-|-|-|-|-|
-| 🇮🇹 terra | **terra** | | massa | **massa** |
-| 🇫🇷 terre | **terră** | | masse | **massă** |
-| 🇪🇸 tierra | **tẽrra** | | masa | **massa** |
-| | | | | |
-| | **terra** | | | **massa** |
-
-Note:
-* Doppelte Konsonanten bleiben in Lingua erhalten, auch wenn sie, vor allem im Französischen, als einfache Konsonanten ausgesprochen werden.
-
-<!--v-->
-
-## Lingua
-
-### i: li, ti
-
 | | | | | |
 |-|-|-|-|-|
 | 🇮🇹 foglia | **folĭa** | | spazio | **spatĭo** |
@@ -252,7 +232,83 @@ Note:
 | | **folĭa** | | | **spatĭo** |
 
 Note:
-* Wie man sieht, hat Lingua im Gegensatz zu Lingue und Linguo (und Esperanto) keine eigene Wortendung für Substantive.
+* Wie man sieht, hat Lingua im Gegensatz zu Lingue und Linguo (und Esperanto) keine wortartspezifischen Endungen.
+
+<!--v-->
+
+## Lingua
+
+### Tabelvortoj
+
+| | | | | |
+|-|-|-|-|-|
+| *kiu*  | **qui** | | *tiu*  | **li** |
+| *kio*  | **que** | | *tio*  | **le** |
+| *kia*  | **qua** | | *tia*  | **la** |
+| *kie*  | **quo** | | *tie*  | **lo** |
+| *kien* | **quu** | | *tien* | **lu** |
+
+Notes:
+* **qua** ne nur signifas *kia*, sed ankaŭ (adjektiveca) *kiu* kaj *kies*.
+* **quo** ne nur signifas *kie*, sed ankaŭ *kiam*, *kiom*, *kial* kaj *kiel*.
+
+<!--v-->
+
+## Lingua
+
+### Tabelvortoj
+
+| | | | | |
+|-|-|-|-|-|
+| *(k)iu ajn*  | **aliqui** | | *ĉi tiu*  | **hi** |
+| *(k)io ajn*  | **alique** | | *ĉi tio*  | **he** |
+| *(k)ia ajn*  | **aliqua** | | *ĉi tia*  | **ha** |
+| *(k)ie ajn*  | **aliquo** | | *ĉi tie*  | **ho** |
+| *(k)ien ajn* | **aliquu** | | *ĉi tien* | **hu** |
+
+Notes:
+* La akcento restas sur la lasta silabo.
+
+<!--v-->
+
+## Lingua
+
+### Tabelvortoj
+
+| | | | | | | | |
+|-|-|-|-|-|-|-|-|
+| *ĉiu*  | **omni** | | *iu*  | **uni** | | *neniu*  | **ni** |
+| *ĉio*  | **omne** | | *io*  | **une** | | *nenio*  | **ne** |
+| *ĉia*  | **omna** | | *ia*  | **una** | | *nenia*  | **na** |
+| *ĉie*  | **omno** | | *ie*  | **uno** | | *nenie*  | **no** |
+| *ĉien* | **omnu** | | *ien* | **unu** | | *nenien* | **nu** |
+
+<!--v-->
+
+## Lingua
+
+### Verboj
+
+| | | |
+|-|-|-|
+| *vi vidas* | **vos vide** |
+| *vi vidis* | **vos videba** |
+| *vi vidos* | **vos viderā** |
+
+Notes:
+* Im Gegensatz zu Lingue und Linguo (und Esperanto) gibt es in Lingua keine völlig systematischen Verbendungen.
+
+<!--v-->
+
+## Lingua
+
+### Verboj
+
+| | |
+|-|-|
+| *se vi vidus* | **si vos videsse** |
+| *ke vi vidu*  | **ce vos vida** |
+| *vidu!*       | **vide(te)!** |
 
 <!--v-->
 
@@ -288,95 +344,97 @@ Note:
 
 Note:
 * 🅰, 🅴, 🅾 stehen für Lingua, Lingue und Linguo.
-* Wie man ahnen kann, hat Lingue und Linguo (wie Esperanto) eine eigene Wortendung für Substantive.
+* Wie man ahnen kann, hat Lingue und Linguo (wie Esperanto) eine eigene Wortendung für Substantive. Diese entstammen den Korrelativa aus Lingua.
 
 <!--v-->
 
 ## Lingue + Linguo
 
-### -e ⟷ -o / -i ⟷ -u
+### -e ⟷ -o
 
-| | | | | | |
-|-|-|-|-|-|-|
-| 🅰 | **que** | [kue'] | | **no** | [no] |
-| 🅴 | **que** | [kŭe] | | **no** | [no] |
-| 🅾 | **qŭio** | [kio] | | **ne** | [ne] |
-
-Note:
-* Korrelative (Tabellenwörter/tabelvortoj) haben schon in Lingua ein (Schein-)endungssystem: -e für "Substantive" wie "was" und "-o" für "Adverben" wie "nicht"/"auf keine Weise".
+| | |
+|-|-|
+| 🅰 | **no** |
+| 🅴 | **no** |
+| 🅾 | **ne** |
 
 <!--v-->
 
 ## Lingue + Linguo
 
-### cc → c
-
-| | | | | | |
-|-|-|-|-|-|-|
-| 🅰 | **terra** | [terra] | | **massa** | [massa] |
-| 🅴 | **terre** | [terre] | | **masse** | [masse] |
-| 🅾 | **terro** | [tero] | | **masso** | [maso] |
-
-Note:
-* In Linguo werden doppelte Konsonanten als einfache Konsonanten ausgesprochen.
-
-<!--v-->
-
-## Lingue + Linguo
-
-### -n → -s → -j
-
-#### 🅰
+### -i ⟷ -u
 
 | | | |
 |-|-|-|
-| **vos vide** | | **si vos videsse** |
-| **vos videba** | | **ce vos vida** |
-| **vos viderā** | | **vide(te)!** |
-
-| |
-|-|
-| **domos** |
-
-Notes:
-* Im Gegensatz zu Lingue und Linguo (und Esperanto) gibt es in Lingua keine regelmäßigen Verbendungen.
-* Die Pluralendung "-s" hingegen ist regelmäßig. Sie wird beim Übergang von Lingue zu Linguo durch "-j" ersetzt.
+| 🅰 | **que** | [kue'] |
+| 🅴 | **que** | [kŭe] |
+| 🅾 | **qŭio** | [kio] |
 
 <!--v-->
 
 ## Lingue + Linguo
 
-### -n → -s → -j
+### Tabelvortoj
 
-#### 🅴
-
-| | | |
-|-|-|-|
-| **vi vidan** | | **se vi vidun** |
-| **vi vidin** | | **c̄e vi viden** |
-| **vi vidon** | | **viden!** |
-
-| |
-|-|
-| **domes** |
+| | | | |
+|-|-|-|-|
+| 🅰 | **li** | | **ni** |
+| 🅴 | **ti** | | **noni** |
+| 🅾 | **tiu** | | **neniu** |
 
 <!--v-->
 
 ## Lingue + Linguo
 
-### -n → -s → -j
-
-#### 🅾
+### Pronomoj
 
 | | | |
 |-|-|-|
-| **vu vidas** | | **se vu vidus** |
-| **vu vidis** | | **qŭe vu vidu** |
-| **vu vidos** | | **vidu!** |
+| 🅰 | **nos** |
+| 🅴 | **ni** |
+| 🅾 | **nu** |
 
-| |
-|-|
-| **domoi(n)** |
+<!--v-->
+
+## Lingue + Linguo
+
+### -n → -s
+
+| | | | |
+|-|-|-|-|
+| 🅴 | **vi vidan** | | **se vi vidun** |
+| 🅾 | **vu vidas** | | **se vu vidus** |
+| | | | |
+| 🅴 | **vi vidin** | | **c̄e vi viden** |
+| 🅾 | **vu vidis** | | **qŭe vu vidu** |
+| | | | |
+| 🅴 | **vi vidon** | | **viden!** |
+| 🅾 | **vu vidos** | | **vidu!** |
+
+<!--v-->
+
+## Lingue + Linguo
+
+### -s → -i
+
+| | |
+|-|-|
+| 🅴 | **domes** |
+| 🅾 | **domoi** |
+
+<!--v-->
+
+## Lingue + Linguo
+
+### Novlatinida Ortografio
+
+| | | |
+|-|-|-|
+| 🅴 | **spatie** | [spaŧje] |
+| 🅾 | **spatio** = **spaçio** | [spasjo] |
+| | | |
+| 🅴 | **villatĭc̄e** | [villađje] |
+| 🅾 | **villatĭco** = **villajo** | [vilaĵo] |
 
 <!--v-->
 
@@ -386,7 +444,6 @@ Notes:
 
 | | | | | | |
 |-|-|-|-|-|-|
-| 🅰 | **cadentĭa** | [kadenti-a] | | | |
 | 🅴 | **cadentie** | [kadenŧje] | | | |
 | 🅾 | **cadentio** | [kadensjo] | | **çhanço** | [ŝanso] |
 
@@ -495,7 +552,6 @@ Notes:
 | 🅰 | **natione** | [natione] | | **spatĭo** | [spati-o] |
 | 🅴 | **natie** | [naŧje] | | **spatie** | [spaŧje] |
 | 🅾 | **natīo** | [nasio] | | **spatio** | [spasjo] |
-| | | | | (**spaçio**) | |
 | | | | | | |
 | | | [**nacio**] | | | [**spaco**] |
 
@@ -508,14 +564,13 @@ Notes:
 | | | | | | |
 |-|-|-|-|-|-|
 | 🅰 | **circ' ad** | [kirk ad] | | **hodĭe** | [hodi-e] |
-| 🅴 | **circ̄ĕ al** | [cirkal] | | **hodio** | [hodjo] |
+| 🅴 | **circ̄ĕ al** | [cirkal] | | **hodio** | [hođjo] |
 | 🅾 | **circał** | [ĉirkaŭ] | | **hodĭõ** | [hoĵaŭ] |
-| | | | | (**hojõ**) | |
 | | | | | | |
 | | | [**ĉirkaŭ**] | | | [**hodiaŭ**] |
 
 Note:
-* Speranto hat auch "alte" Aussprachen: "ĉirkaŭ" statt "cirkaŭ".
+* Speranto hat auch "neue" Aussprachen: "ĉirkaŭ" statt "cirkaŭ".
 
 <!--v-->
 
@@ -641,7 +696,6 @@ Note:
 | 🅰 | **via** | [via] | | **viatĭco** | [viatik-o] |
 | 🅴 | **vie** | [vie] | | **viatĭc̄e** | [viađje] |
 | 🅾 | **vio** | [vio] | | **viatĭco** | [viaĵo] |
-| | | | | (**viajo**) | |
 | | | | | | |
 | 🌍 | | [**vojo**] | | | [**vojaĝo**] |
 
@@ -710,9 +764,34 @@ Note:
 
 <!--v-->
 
-## Poezio
+### Lingua*
+
+#### Tabelvortoj
+
+| | | | | |
+|-|-|-|-|-|
+| **qua** | | → | *kia*, *kies* | **qua**   |
+| | |           | *kiu ...*     | **quale** |
+
+<!--v-->
 
 ### Lingua*
+
+#### Tabelvortoj
+
+| | | | | |
+|-|-|-|-|-|
+| **quo** | | → | *kie*  | **quo** |
+| | |           | *kial* | **quare** |
+| | |           | *kiam* | **quando** |
+| | |           | *kiom* | **quanto** |
+| | |           | *kiel* | **quomo** |
+
+<!--v-->
+
+### Lingua*
+
+#### Verboj
 
 | | | |
 |-|-|-|
@@ -726,9 +805,9 @@ Note:
 
 <!--v-->
 
-## Poezio
-
 ### Lingue*
+
+#### Prepozicioj
 
 | | | | | | | |
 |-|-|-|-|-|-|-|
@@ -738,14 +817,13 @@ Note:
 
 <!--v-->
 
-## Poezio
+### Lingue*
 
-### Linguo*
+#### Adverboj
 
 | | | | | |
 |-|-|-|-|-|
 | **hodĭõ** | [hoĵaŭ] | → | **hodĭø** | [hoĵe] |
-| (**hojõ**) | | | (**hojø**) | |
 
 Note:
 * analog zur Wortendung "-e" für Adverben
@@ -818,9 +896,9 @@ Note:
 
 ## Lingue
 
-[Se ni eĉ supponon, ke la fina lingŭe de las<br> essontas dzeneraŧjes essan no Sperante, en omna<br> okkazje la vie al tiu ellavorota lingŭe<br> infallivlo devan konduku tra Sperante.]
+[Se ni eĉ supponon, ke la fina lingŭe de la<br> essontas dzeneraŧjes essan no Sperante, en omna<br> okkazje la vie al tiu ellavorota lingŭe<br> infallivlo devan konduku tra Sperante.]
 
-> Se ni et supponon, c̄e la fina lingue<br> de las essontas generaties<br> essan no Sperante, en omna occasie<br> la vie al tiu ellavorota lingue<br> infallivlo devan conducu<br> tra Sperante.
+> Se ni et supponon, c̄e la fina lingue<br> de la essontas generaties<br> essan no Sperante, en omna occasie<br> la vie al tiu ellavorota lingue<br> infallivlo devan conducu<br> tra Sperante.
 
 <!--v-->
 

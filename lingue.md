@@ -204,11 +204,11 @@ La negaj korelativoj havas la ŝajnprefikson **non-**. La indikaj korelativoj ha
 
 ### Artikoloj
 
-La difina artikolo estas **la**. La multenombra formo de **la** estas **las**.
+La difina artikolo estas **la**. **En poezio**, la multenombra formo de **la** estas **las**.
 
-| | |
-|-|-|
-| *la altaj domoj* | **las altas domes** |
+| | | poezie |
+|-|-|-|
+| *la altaj domoj* | **la altas domes** | **las altas domes** |
 
 **En poezio**, **la** mallongiĝas al **l'-** antaŭ vokalokomenca vorto respektive al **-l** post vokalofina prepozicio.
 
