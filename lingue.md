@@ -173,35 +173,6 @@ Celaj adverboj finiĝas je **-u**.
 
 Vd. [numeraloj en ***Lingvao***](lingua.md#numeraloj).
 
-### Korelativoj
-
-Korelativaj radikoj kombineblas kun sufiksoj.
-
-| | |
-|-|-|
-| *kiu* | **qui** *[kŭi]* = **quule** *[kŭule]* |
-| *kio* | **que** *[kŭe]* = **quatĭce** *[kŭađje]* |
-| *kia*, *kiu* | **qua** *[kŭa]* = **quetia** *[kŭeŧja]*, **quula** *[kŭula]* |
-| *kie* | **quo** *[kŭo]* = **queio** *[kŭejo]* |
-| *kien* | **quu** *[kŭu]* |
-| | |
-| *kies* | **quos** *[kŭos]* |
-| | |
-| *kiel* | **quol** *[kŭol]* |
-| *kial* | **qual** *[kŭal]* |
-| *kiam* | **quam** *[kŭam]* = **quado** *[kŭado]* → **quando** *[kŭando]* |
-| *kiom* | **quem** *[kŭem]* = **quento** *[kŭento]* → **quanto** *[kŭanto]* |
-
-La negaj korelativoj havas la ŝajnprefikson **non-**. La indikaj korelativoj havas la ŝajnprefikson **t-**.
-
-| | |
-|-|-|
-| *neniu* | **noni** |
-| *tiu* | **ti** |
-| | |
-| *ĉiu* | **omni** |
-| *iu* | **uni** |
-
 ### Artikoloj
 
 La difina artikolo estas **la**. **En poezio**, la multenombra formo de **la** estas **las**.
@@ -220,14 +191,6 @@ Ne estas ne-difina artikolo.
 
 ### Pronomoj
 
-| | | | | |
-|-|-|-|-|-|
-| *mi(n)* | **mi** | | *ci(n)* | **tī** *[ŧi]* |
-| *mia* | **mia** | | *cia* | **tīa** *[ŧia]* |
-| | | | | |
-| *ni(n)* | **ni** | | *vi(n)* | **vi** |
-| *nia* | **nia** | | *via* | **via** |
-
 | | | | | | | | | | | | | | |
 |-|-|-|-|-|-|-|-|-|-|-|-|-|-|
 | *li(n)* | **olli** | | *ŝi(n)* | **alli** | | *ri(n)* | **ulli** | | *ĝi(n)* | **elli** | | *ili(n)* | **illi** |
@@ -239,11 +202,6 @@ La personaj pronomoj **olli**, **alli**, **ulli** kaj **elli** estas mallongigeb
 |-|-|
 | *li(n)*, *ŝi(n)*, *ri(n)*, *ĝi(n)* | **li** |
 | *lia*, *ŝia*, *ria*, *ĝia* | **lia** |
-
-| | | | | |
-|-|-|-|-|-|
-| *oni(n)* | **oni** | | *si(n)* | **si** |
-| *onia* | **onia** | | *sia* | **sia** |
 
 ### Verboj
 

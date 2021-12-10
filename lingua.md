@@ -213,47 +213,6 @@ La ŝajnsufikso por ordinaloj estas **-essĭma** *[esi-ma]*. ***En poezio***, or
 | *100* | **cent** | **centessĭma** |
 | *1000* | **mill** | **millessĭma** |
 
-### Korelativoj
-
-Estas kvin serioj da korelativoj kun la finaĵoj **-i**, **-e**, **-a**, **-o** kaj **-u**.
-
-| | | | | | | | |
-|-|-|-|-|-|-|-|-|
-| *kiu* | **qui** *[kui']* | | *tiu* | **li** | | *ĉi tiu* | **hi** |
-| *kio* | **que** *[kue']* | | *tio* | **le** | | *ĉi tio* | **he** |
-| *kia*, *kiu*, *kies* | **qua** *[kua']* | | *tia*, *tiu*, *ties* | **la** | | *ĉi tia*, *ĉi tiu*, *ĉi ties* | **ha** |
-| *kie*, *kiel*, *kial*, *kiam*, *kiom* | **quo** *[kuo']* | | *tie*, *tiel*, *tial*, *tiam*, *tiom* | **lo** | | *ĉi tie*, *ĉi tiel*, *ĉi tial*, *ĉi tiam*, *ĉi tiom* | **ho** |
-| *kien* | **quu** *[kuu']* | | *tien* | **lu** | | *ĉi tien* | **hu** |
-
-Krom la korelativaj ŝajnprefiksoj **qu-** kaj **l-** estas ankaŭ **omn-**, **un-** kaj **n-**.
- 
-| | | | | | | | |
-|-|-|-|-|-|-|-|-|
-| *ĉiu* | **omni** | | *iu* | **uni** | | *neniu* | **ni** |
-| *ĉio* | **omne** | | *io* | **une** | | *nenio* | **ne** |
-| *ĉia*, *ĉiu*, *ĉies* | **omna** | | *ia*, *iu*, *ies* | **una** | | *nenia*, *neniu*, *nenies* | **na** |
-| *ĉie*, *ĉiel*, *ĉial*, *ĉiam*, *ĉiom* | **omno** | | *ie*, *iel*, *ial*, *iam*, *iom* | **uno** | | *nenie*, *neniel*, *nenial*, *neniam*, *neniom* | **no** |
-| *ĉien* | **omnu** | | *ien* | **unu** | | *nenien* | **nu** |
-
-La ŝajnprefikso **ali-** *[ali]* signifas *ajn*.
-
-| | |
-|-|-|
-| *kiu ajn*, *iu ajn* | **aliqui** *[ali-kui']* |
-
-***En poezio***, la korelativoj **qua** kaj **quo** povas havi pli specifajn formojn.
-
-| | | poezie |
-|-|-|-|
-| *kia*, *kies* | **qua** | |
-| *kiu* | **qua** | **quale** |
-| | | |
-| *kie* | **quo** | |
-| *kial* | **quo** | **quare** |
-| *kiam* | **quo** | **quando** |
-| *kiom* | **quo** | **quanto** |
-| *kiel* | **quo** | **quomo** |
-
 ### Artikoloj
 
 La korelativo **la** kaj la numeralo **un** uziĝas kiel artikoloj. ***En poezio***, ili povas mallongiĝi al **l'** kaj **un'**.
@@ -262,29 +221,6 @@ La korelativo **la** kaj la numeralo **un** uziĝas kiel artikoloj. ***En poezio
 |-|-|-|
 | *tiu amiko*, *la amiko* | **la amico** | **l'amico** |
 | *unu amiko*, *amiko* | **una amico** | **un'amico** |
-
-### Pronomoj
-
-| | | | | |
-|-|-|-|-|-|
-| *mi* | **me** | | *ci* | **tu** |
-| *mia* | **mea** | | *cia* | **tūa** |
-| *min* | **mi** | | *cin* | **ti** |
-| | | | | |
-| *ni(n)* | **nos** | | *vi(n)* | **vos** |
-| *nia* | **nossa** | | *via* | **vossa** |
-
-| | | | | | | | | | | | | | |
-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|
-| *li* | **olle** | | *ŝi* | **alle** | | *ri* | **ulle** | | *ĝi* | **elle** | | *ili* | **ille** |
-| *lia* | **olla** | | *ŝia* | **alla** | | *ria* | **ulla** | | *ĝia* | **ella** | | *ilia* | **illa** |
-| *lin* | **olli** | | *ŝin* | **alli** | | *rin* | **ulli** | | *ĝin* | **elli** | | *ilin* | **illi** |
-
-| | | | | |
-|-|-|-|-|-|
-| *oni* | **one** | | *si* | **su** |
-| *onia* | **ona** | | *sia* | **sūa** |
-| *onin* | **oni** | | *sin* | **si** |
 
 ### Verboj
 

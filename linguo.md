@@ -294,22 +294,8 @@ Prepoziciaĵoj finiĝas je **-ał** *[aŭ]*.
 
 ### Pronomoj
 
-| | | | | |
-|-|-|-|-|-|
-| *mi* | **mu** | | *ci* | **tu** |
-| *mia* | **mua** | | *cia* | **tua** |
-| | | | | |
-| *ni* | **nu** | | *vi* | **vu** |
-| *nia* | **nua** | | *via* | **vua** |
-
 | | | | | | | | | | | | | | |
 |-|-|-|-|-|-|-|-|-|-|-|-|-|-|
 | *li* | **ollu** | | *ŝi* | **allu** | | *ri* | **ullu** | | *ĝi* | **ellu** | | *ili* | **illu** |
 | *lia* | **ollua** | | *ŝia* | **allua** | | *ria* | **ullua** | | *ĝia* | **ellua** | | *ilia* | **illua** |
 
-| | | | | |
-|-|-|-|-|-|
-| *oni* | **onu** | | *si* | **su** |
-| *onia* | **onua** | | *sia* | **sua** |
-
-<!-- la vorto "vio" subite liberas! -->

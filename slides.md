@@ -58,8 +58,8 @@ Note:
 | 🇵🇱 jeszcze | | 🇩🇰 dyb | | 🇫🇷 jour |
 
 Note:
-* Muttersprachen der Eltern
-* Muttersprache der Ehefrau (+ Esperanto)
+* denaskaj lingvoj de la gepatroj (🇷🇺 + 🇩🇪)
+* denaska lingvo de la edzino (🇮🇹 + Esperanto)
 
 <!--v-->
 
@@ -225,11 +225,11 @@ Note:
 
 | | | | | |
 |-|-|-|-|-|
-| 🇮🇹 foglia | **folĭa** | | spazio | **spatĭo** |
-| 🇫🇷 feuille | **følĭă** | | espace | **s̈patĭŏ** |
-| 🇪🇸 hoja | **~f~olĭa** | | espacio | **s̈patĭo** |
+| 🇮🇹 foglia  | **folĭa**   | | spazio  | **spatĭo** |
+| 🇫🇷 feuille | **følĭă**   | | espace  | **s̈patĭŏ** |
+| 🇪🇸 hoja    | **~f~olĭa** | | espacio | **s̈patĭo** |
 | | | | | |
-| | **folĭa** | | | **spatĭo** |
+|            | **folĭa**   | |         | **spatĭo** |
 
 Note:
 * Wie man sieht, hat Lingua im Gegensatz zu Lingue und Linguo (und Esperanto) keine wortartspezifischen Endungen.
@@ -248,10 +248,6 @@ Note:
 | *kie*  | **quo** | | *tie*  | **lo** |
 | *kien* | **quu** | | *tien* | **lu** |
 
-Notes:
-* **qua** ne nur signifas *kia*, sed ankaŭ (adjektiveca) *kiu* kaj *kies*.
-* **quo** ne nur signifas *kie*, sed ankaŭ *kiam*, *kiom*, *kial* kaj *kiel*.
-
 <!--v-->
 
 ## Lingua
@@ -266,8 +262,8 @@ Notes:
 | *(k)ie ajn*  | **aliquo** | | *ĉi tie*  | **ho** |
 | *(k)ien ajn* | **aliquu** | | *ĉi tien* | **hu** |
 
-Notes:
-* La akcento restas sur la lasta silabo.
+Note:
+* La akcento restas sur la lasta silabo. [alikui']
 
 <!--v-->
 
@@ -287,6 +283,22 @@ Notes:
 
 ## Lingua
 
+### Tabelvortoj
+
+| | |
+|-|-|
+| *kiam* | **quando** |
+| *kiom* | **quanto** |
+| | |
+| *kial* | **quare**  |
+| *kiel* | **quomo**  |
+| | |
+| *kies* | **quius**  |
+
+<!--v-->
+
+## Lingua
+
 ### Verboj
 
 | | | |
@@ -295,7 +307,7 @@ Notes:
 | *vi vidis* | **vos videba** |
 | *vi vidos* | **vos viderā** |
 
-Notes:
+Note:
 * Im Gegensatz zu Lingue und Linguo (und Esperanto) gibt es in Lingua keine völlig systematischen Verbendungen.
 
 <!--v-->
@@ -366,9 +378,9 @@ Note:
 
 | | | |
 |-|-|-|
-| 🅰 | **que** | [kue'] |
-| 🅴 | **que** | [kŭe] |
-| 🅾 | **qŭio** | [kio] |
+| 🅰 | **qui**  | [kui'] |
+| 🅴 | **qui**  | [kŭi]  |
+| 🅾 | **qŭiu** | [kiu]  |
 
 <!--v-->
 
@@ -376,11 +388,23 @@ Note:
 
 ### Tabelvortoj
 
-| | | | |
-|-|-|-|-|
-| 🅰 | **li** | | **ni** |
-| 🅴 | **ti** | | **noni** |
-| 🅾 | **tiu** | | **neniu** |
+| | *tiu* | | *ĉiu* | | *iu* | | *neniu* |
+|-|-|-|-|-|-|-|-|
+| 🅰 | **li**  | | **omni** | | **uni** | | **ni**    |
+| 🅴 | **ti**  | | **omni** | | **uni** | | **noni**  |
+| 🅾 | **tiu** | | **ĉiu**  | | **iu**  | | **neniu** |
+
+<!--v-->
+
+## Lingue + Linguo
+
+### Tabelvortoj
+
+| | *kiam* | | *kiom* | | *kial* | | *kiel* |
+|-|-|-|-|-|-|-|-|
+| 🅰 | **quando** | | **quanto** | | **quare** | | **quomo** |
+| 🅴 | **quam**   | | **quäm**   | | **qual**  | | **quol**  |
+| 🅾 | **qŭiam**  | | **qŭiåm**  | | **qŭial** | | **qŭiel** |
 
 <!--v-->
 
@@ -388,11 +412,48 @@ Note:
 
 ### Pronomoj
 
-| | | |
-|-|-|-|
-| 🅰 | **nos** |
-| 🅴 | **ni** |
-| 🅾 | **nu** |
+| | *mi* | | *vi* | | | *ni* | | *vi(j)* |
+|-|-|-|-|-|-|-|-|-|
+| 🅰 | **me**/**i** | | **tu**/**i** | | | **nos** | | **vos** |
+| 🅴 | **mi**    | | **tī**    | | | **ni**  | | **vi**  |
+| 🅾 | **mu**    | | **tu**    | | | **nu**  | | **vu**  |
+
+Note:
+* **mea**, **tūa** + **mia**, **tīa** [ŧia] + **mua**, **tua**
+* **nossa**, **vossa** + **nia**, **via** + **nua** + **vua**
+
+<!--v-->
+
+## Lingue + Linguo
+
+### Pronomoj
+
+| | *li* | | *ŝi* | | *ri* | | *ĝi* | | | *ili* |
+|-|-|-|-|-|-|-|-|-|-|-|
+| 🅰 | **olle**/**i** | | **alle**/**i** | | **ulle**/**i** | | **elle**/**i** | | | **ille**/**i** |
+| 🅴 | **olli** | | **alli** | | **ulli** | | **elli** | | | **illi** |
+| 🅾 | **ollu** | | **allu** | | **ullu** | | **ellu** | | | **illu** |
+
+Note:
+* 🅴 **olli**, **alli**, **ulli**, **elli** → **li**
+* 🅰 **ollea**, **allea**, **ullea**, **ellea** + **illea**
+* 🅴 **ollia**, **allia**, **ullia**, **ellia** + **illia**
+* 🅾 **ollua**, **allua**, **ullua**, **ellua** + **illua**
+
+<!--v-->
+
+## Lingue + Linguo
+
+### Pronomoj
+
+| | *oni* | | *si* |
+|-|-|-|-|
+| 🅰 | **one**/**i** | | **su**/**i** |
+| 🅴 | **oni** | | **si** |
+| 🅾 | **onu** | | **su** |
+
+Note:
+* **onea**, **sūa** + **onia**, **sia** + **onua**, **sua**
 
 <!--v-->
 
@@ -417,7 +478,7 @@ Note:
 
 ### -s → -i
 
-| | |
+| | *domoj* |
 |-|-|
 | 🅴 | **domes** |
 | 🅾 | **domoi** |
@@ -430,10 +491,10 @@ Note:
 
 | | | |
 |-|-|-|
-| 🅴 | **spatie** | [spaŧje] |
-| 🅾 | **spatio** = **spaçio** | [spasjo] |
+| 🅴 | **spatie**                  | [spaŧje] |
+| 🅾 | **spatio** = **spaçio**     | [spasjo] |
 | | | |
-| 🅴 | **villatĭc̄e** | [villađje] |
+| 🅴 | **villatĭc̄e**               | [villađje] |
 | 🅾 | **villatĭco** = **villajo** | [vilaĵo] |
 
 <!--v-->
@@ -511,7 +572,7 @@ Note:
 | 🅴 | **centre** | [centre] | | **geographie** | [dzeografje] |
 | 🅾 | **centro** | [ĉentro] | | **geographio** | [ĝeografio] |
 | | | | | | |
-| | | [**centro**] | | | [**geografio**] |
+| | | **[centro]** | | | **[geografio]** |
 
 <!--v-->
 
@@ -521,11 +582,11 @@ Note:
 
 | | | | | | |
 |-|-|-|-|-|-|
-| 🅰 | **aqua** | [aku-a] | | **lingua** | [lingu-a] |
-| 🅴 | **aque** | [akŭe] | | **lingue** | [lingŭe] |
-| 🅾 | **aquo** | [akŭo] | | **linguo** | [lingŭo] |
+| 🅰 | **aqua** | [aku-a]    | | **lingua** | [lingu-a] |
+| 🅴 | **aque** | [akŭe]     | | **lingue** | [lingŭe] |
+| 🅾 | **aquo** | [akŭo]     | | **linguo** | [lingŭo] |
 | | | | | | |
-| | | [**akvo**] | | | [**lingvo**] |
+| |             | **[akvo]** | |            | **[lingvo]** |
 
 <!--v-->
 
@@ -535,11 +596,11 @@ Note:
 
 | | | | | | |
 |-|-|-|-|-|-|
-| 🅰 | **familĭa** | [famili-a] | | **filĭo** | [fili-o] |
-| 🅴 | **familie** | [familje] | | **filie** | [filje] |
-| 🅾 | **familĭo** | [famiḷo] | | **filĭo** | [fiḷo] |
+| 🅰 | **familĭa** | [famili-a]    | | **filĭo** | [fili-o] |
+| 🅴 | **familie** | [familje]     | | **filie** | [filje] |
+| 🅾 | **familĭo** | [famiḷo]      | | **filĭo** | [fiḷo] |
 | | | | | | |
-| | | [**familio**] | | | [**filo**] |
+| |                | **[familio]** | |           | **[filo]** |
 
 <!--v-->
 
@@ -549,11 +610,11 @@ Note:
 
 | | | | | | |
 |-|-|-|-|-|-|
-| 🅰 | **natione** | [natione] | | **spatĭo** | [spati-o] |
-| 🅴 | **natie** | [naŧje] | | **spatie** | [spaŧje] |
-| 🅾 | **natīo** | [nasio] | | **spatio** | [spasjo] |
+| 🅰 | **natione** | [natione]   | | **spatĭo** | [spati-o] |
+| 🅴 | **natie**   | [naŧje]     | | **spatie** | [spaŧje] |
+| 🅾 | **natīo**   | [nasio]     | | **spatio** | [spasjo] |
 | | | | | | |
-| | | [**nacio**] | | | [**spaco**] |
+| |                | **[nacio]** | |            | **[spaco]** |
 
 <!--v-->
 
@@ -563,14 +624,14 @@ Note:
 
 | | | | | | |
 |-|-|-|-|-|-|
-| 🅰 | **circ' ad** | [kirk ad] | | **hodĭe** | [hodi-e] |
-| 🅴 | **circ̄ĕ al** | [cirkal] | | **hodio** | [hođjo] |
-| 🅾 | **circał** | [ĉirkaŭ] | | **hodĭõ** | [hoĵaŭ] |
+| 🅰 | **circ' ad** | [kirk ad] | | **hodĭe** | [hodi-e]     |
+| 🅴 | **circ̄ĕ al** | [cirkal]  | | **hodio** | [hođjo]      |
+| 🅾 | **circał**   | [ĉirkaŭ]  | | **hodĭõ** | [hoĵaŭ]      |
 | | | | | | |
-| | | [**ĉirkaŭ**] | | | [**hodiaŭ**] |
+| |                 | **[ĉirkaŭ]** | |        | **[hodiaŭ]** |
 
 Note:
-* Speranto hat auch "neue" Aussprachen: "ĉirkaŭ" statt "cirkaŭ".
+* nova prononco: "ĉirkaŭ" anstataŭ "cirkaŭ".
 
 <!--v-->
 
@@ -580,11 +641,25 @@ Note:
 
 | | | |
 |-|-|-|
-| 🅰 | **habe** | [habe] |
-| 🅴 | **havan** | [havan] |
-| 🅾 | **havas** | [havas] |
+| 🅰 | **habe**  | [habe]      |
+| 🅴 | **havan** | [havan]     |
+| 🅾 | **havas** | [havas]     |
 | | | |
-| | | [**havas**] |
+| |              | **[havas]** |
+
+<!--v-->
+
+## Speranto
+
+### Tabelvortoj
+
+| | | | | | |
+|-|-|-|-|-|-|
+| 🅰 | **quius**  | [kuius]    | | **quu**  | [kuu']     |
+| 🅴 | **quius**  | [kŭius]    | | **quu**  | [kŭu]      |
+| 🅾 | **qŭiŭis** | [kiŭis]    | | **qŭii** | [kii]      |
+| | | | | | |
+| |               | **[kies]** | |          | **[kien]** |
 
 <!--v-->
 
@@ -594,14 +669,14 @@ Note:
 
 | | | |
 |-|-|-|
-| 🅰 | **scribe** | [skribe] |
-| 🅴 | **scrivan** | [skrivan] |
-| 🅾 | **scrivas** | [skrivas] |
+| 🅰 | **scribe**  | [skribe]      |
+| 🅴 | **scrivan** | [skrivan]     |
+| 🅾 | **scrivas** | [skrivas]     |
 | | | |
-| | | [**skribas**] |
+| |                | **[skribas]** |
 
 Note:
-* Alte Aussprache: "skribas" statt "skrivas"
+* malnova prononco: "skribas" anstataŭ "skrivas".
 
 <!--v-->
 
@@ -609,9 +684,9 @@ Note:
 
 ### Slavismo
 
-| |
-|-|
-| [**kolbaso**] |
+| | |
+|-|-|
+| **kolbaso** | [kolbaso] |
 
 <!--v-->
 
@@ -619,9 +694,9 @@ Note:
 
 ### Ĝermanismo
 
-| |
-|-|
-| [**hobio**] |
+| | |
+|-|-|
+| **hobbyo** | [hobio] |
 
 <!--v-->
 
@@ -679,11 +754,11 @@ Note:
 
 | | | |
 |-|-|-|
-| 🅰 | **spera** | [spera] |
+| 🅰 | **spera**  | [spera]  |
 | 🅴 | **speran** | [speran] |
 | 🅾 | **speras** | [speras] |
 | | | |
-| 🌍 | | [**esperas**] |
+| 🌍 | | **[esperas]** |
 
 <!--v-->
 
@@ -691,13 +766,13 @@ Note:
 
 ### i → oj
 
-| | | | | | |
-|-|-|-|-|-|-|
-| 🅰 | **via** | [via] | | **viatĭco** | [viatik-o] |
-| 🅴 | **vie** | [vie] | | **viatĭc̄e** | [viađje] |
-| 🅾 | **vio** | [vio] | | **viatĭco** | [viaĵo] |
-| | | | | | |
-| 🌍 | | [**vojo**] | | | [**vojaĝo**] |
+| | | |
+|-|-|-|
+| 🅰 | **via** | [via]      |
+| 🅴 | **vie** | [vie]      |
+| 🅾 | **vio** | [vio]      |
+| | | |
+| 🌍 |         | **[vojo]** |
 
 Note:
 * Hyperkorrektes Linguo: **amikoj** ← **amiki**
@@ -710,28 +785,14 @@ Note:
 
 | | | | | | |
 |-|-|-|-|-|-|
-| 🅰 | **esse** | [ese] | | **sta** | [sta] |
-| 🅴 | **essan** | [esan] | | **stan** | [stan] |
-| 🅾 | **essas** | [esas] | | **stas** | [stas] |
+| 🅰 | **esse**  | [ese]       | | **sta**  | [sta]       |
+| 🅴 | **essan** | [esan]      | | **stan** | [stan]      |
+| 🅾 | **essas** | [esas]      | | **stas** | [stas]      |
 | | | | | | |
-| 🌍 | | [**estas**] | | | [**staras**] |
+| 🌍 |           | **[estas]** | |         | **[staras]** |
 
 Note:
 * **stas** ist inspiriert durch **'stas** in Esperanto (in kontraŭfundamenta poetischem Stil), obwohl eigtl. von *PL* **jestem**, **jesteś**, **jest** ... bzw. *LA* **est**.
-
-<!--v-->
-
-## Esperanto
-
-### Pronomoj
-
-| | | | | | | | | |
-|-|-|-|-|-|-|-|-|-|
-| 🅰 | **me**/**mi** | | **tu**/**ti** | [tu/ti] | | **vos** |
-| 🅴 | **mi** | | **tī** | [ŧi] | | **vi** |
-| 🅾 | **mu(n)** | | **tu(n)** | [tu(n)] | | **vu(n)** |
-| | | | | | | | | |
-| 🌍 | | | | [**ci(n)**] | | |
 
 <!--v-->
 
@@ -766,42 +827,17 @@ Note:
 
 ### Lingua*
 
-#### Tabelvortoj
-
-| | | | | |
-|-|-|-|-|-|
-| **qua** | | → | *kia*, *kies* | **qua**   |
-| | |           | *kiu ...*     | **quale** |
-
-<!--v-->
-
-### Lingua*
-
-#### Tabelvortoj
-
-| | | | | |
-|-|-|-|-|-|
-| **quo** | | → | *kie*  | **quo** |
-| | |           | *kial* | **quare** |
-| | |           | *kiam* | **quando** |
-| | |           | *kiom* | **quanto** |
-| | |           | *kiel* | **quomo** |
-
-<!--v-->
-
-### Lingua*
-
 #### Verboj
 
 | | | |
 |-|-|-|
-| **me habe** | → | **habem** |
-| **tu habe** | → | **habes** |
-| **ulle habe** | → | **habet** |
+| **me habe**   | → | **habem**   |
+| **tu habe**   | → | **habes**   |
+| **ulle habe** | → | **habet**   |
 | | | |
-| **nos habe** | → | **habemus** |
-| **vos habe** | → | **habetis** |
-| **ille habe** | → | **habent** |
+| **nos habe**  | → | **habemus** |
+| **vos habe**  | → | **habetis** |
+| **ille habe** | → | **habent**  |
 
 <!--v-->
 
@@ -817,7 +853,7 @@ Note:
 
 <!--v-->
 
-### Lingue*
+### Linguo*
 
 #### Adverboj
 
