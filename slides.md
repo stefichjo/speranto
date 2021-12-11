@@ -364,7 +364,7 @@ Note:
 
 ### -e ⟷ -o
 
-| | |
+| | *ne* |
 |-|-|
 | 🅰 | **no** |
 | 🅴 | **no** |
@@ -376,11 +376,11 @@ Note:
 
 ### -i ⟷ -u
 
-| | | |
-|-|-|-|
-| 🅰 | **qui**  | [kui'] |
-| 🅴 | **qui**  | [kŭi]  |
-| 🅾 | **qŭiu** | [kiu]  |
+| | *kiu* |
+|-|-|
+| 🅰 | **qui**  |
+| 🅴 | **qui**  |
+| 🅾 | **qŭiu** |
 
 <!--v-->
 
@@ -412,7 +412,7 @@ Note:
 
 ### Pronomoj
 
-| | *mi* | | *vi* | | | *ni* | | *vi(j)* |
+| | *mi* | | *ci* | | | *ni* | | *vi* |
 |-|-|-|-|-|-|-|-|-|
 | 🅰 | **me**/**i** | | **tu**/**i** | | | **nos** | | **vos** |
 | 🅴 | **mi**    | | **tī**    | | | **ni**  | | **vi**  |
@@ -665,7 +665,7 @@ Note:
 
 ## Speranto
 
-### Latinismo
+### Latinismoj
 
 | | | |
 |-|-|-|
@@ -682,21 +682,21 @@ Note:
 
 ## Speranto
 
-### Slavismo
+### Slavismoj
 
-| | |
-|-|-|
-| **kolbaso** | [kolbaso] |
+| | | | | |
+|-|-|-|-|-|
+| **kolbaso** | [kolbaso] | | **pri** | [pri] |
 
 <!--v-->
 
 ## Speranto
 
-### Ĝermanismo
+### Ĝermanismoj
 
-| | |
-|-|-|
-| **hobbyo** | [hobio] |
+| | | | | |
+|-|-|-|-|-|
+| **hobbyo** | [hobio] | | **shuo** | [ŝuo] |
 
 <!--v-->
 
@@ -932,9 +932,9 @@ Note:
 
 ## Lingue
 
-[Se ni eĉ supponon, ke la fina lingŭe de la<br> essontas dzeneraŧjes essan no Sperante, en omna<br> okkazje la vie al tiu ellavorota lingŭe<br> infallivlo devan konduku tra Sperante.]
+[Se ni eĉ supponon, ke la fina lingŭe de la<br> essontas dzeneraŧjes essan no Sperante, en omna<br> okkazje la vie al ti ellavorota lingŭe<br> infallivlo devan konduku tra Sperante.]
 
-> Se ni et supponon, c̄e la fina lingue<br> de la essontas generaties<br> essan no Sperante, en omna occasie<br> la vie al tiu ellavorota lingue<br> infallivlo devan conducu<br> tra Sperante.
+> Se ni et supponon, c̄e la fina lingue<br> de la essontas generaties<br> essan no Sperante, en omna occasie<br> la vie al ti ellavorota lingue<br> infallivlo devan conducu<br> tra Sperante.
 
 <!--v-->
 
