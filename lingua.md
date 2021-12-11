@@ -46,15 +46,6 @@ Duobla konsonanto estas prononcata duoble.
 | *tero* | **terra** *[ter-ra]* |
 | *maso* | **massa** *[mas-sa]* |
 
-#### -re
-
-***En poezio***, la ŝajnfinaĵo -**e** de la finaĵoj -**are**, -**ere**, -**ire** kaj -**ore** povas eliziiĝi. La akcento ne ŝanĝiĝas.
-
-| | | poezie |
-|-|-|-|
-| *ami* | **amare** | **amar'** *[amar']* |
-| *doktoro* | **doctore** | **doctor'** *[doktor']* |
-
 #### i-, u-
 
 En diftongoj, **i** kaj **u** ne estas akcentataj.
@@ -161,7 +152,6 @@ Substantivo estas adjektivigebla pere de la ŝajnfinaĵo **-ale**. Se la ŝajnra
 | | |
 | *stela* | **stellare** | **stellar'** |
 
-
 Adjektivo antaŭ substantivo havas subjektivan konotacion, dum adjektivo post la substantivo havas objektivan konotacion.
 
 | | |
@@ -262,18 +252,6 @@ En la prezenco, la infinitiva finiĝo -**re** forestas.
 | *mi faras* | **me face** |
 | *mi amas* | **me ama** |
 
-***En Poezio***, uziĝas personaj ŝajnfinaĵoj anstataŭ pronomoj.
-
-| | | poezie |
-|-|-|-|
-| *mi havas* | **me habe** | **habem** |
-| *vi havas* | **tu habe** | **habes** |
-| *li/ŝi havas* | **ulle habe** | **habet** |
-| | | |
-| *ni havas* | **nos habe** | **habemus** |
-| *vi havas* | **vos habe** | **habetis** |
-| *ili havas* | **ille habe** | **habent** |
-
 ***En poezio***, la prezencaj formoj de **essĕre** (← **essĭre**) (respektive de **esse**) povas mallongiĝi al malregulaj formoj.
 
 | | | poezie |
@@ -331,28 +309,6 @@ Por la imperativo, uziĝas la infinitiva formo sen **-re**, kun la ŝajnfinaĵo 
 | *venku!* | **vincĕ(te)!** | **vinca(n)!** |
 | *faru!* | **facĭ(te)!** → **facĕ(te)!** | **facĭa(n)!** |
 | *amu!* | **ama(te)!** | **ame(n)!** |
-
-#### Preterito
-
-En la preterito, aldoniĝas la sufikso -**ba** al la prezenca formo.
-
-| | | poezie |
-|-|-|-|
-| *mi havis* | **me habeba** | **habebam** |
-
-##### Konjunktivo
-
-| | | poezie |
-|-|-|-|
-| *(se) mi havus* | **me habesse** | **habessem** |
-
-#### Futuro
-
-En la futuro, aldoniĝas la akcentata sufikso -**ā** al la infinitiva formo sen **-e**.
-
-| | | poezie |
-|-|-|-|
-| *mi havos* | **me haberā** | **haberām** |
 
 ##### Kondicionalo
 

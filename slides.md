@@ -355,7 +355,7 @@ Note:
 | *Linguo* | 🅾 |
 
 Note:
-* 🅰, 🅴, 🅾 stehen für Lingua, Lingue und Linguo.
+* 🅰, 🅴, 🅾 signifas je *Lingua*, *Lingue* kaj *Linguo*.
 * Wie man ahnen kann, hat Lingue und Linguo (wie Esperanto) eine eigene Wortendung für Substantive. Diese entstammen den Korrelativa aus Lingua.
 
 <!--v-->
@@ -831,6 +831,8 @@ Note:
 
 | | | |
 |-|-|-|
+| **habere**    | → | **haber'**  |
+| | | |
 | **me habe**   | → | **habem**   |
 | **tu habe**   | → | **habes**   |
 | **ulle habe** | → | **habet**   |
@@ -838,6 +840,10 @@ Note:
 | **nos habe**  | → | **habemus** |
 | **vos habe**  | → | **habetis** |
 | **ille habe** | → | **habent**  |
+
+Note:
+* **amare ti** → **amarti**
+* Ankaŭ substantivoj je **-re** povas mallongiĝi en poezio: **doctor'**, **senior'**.
 
 <!--v-->
 
@@ -866,6 +872,19 @@ Note:
 
 <!--v-->
 
+### Linguo*
+
+#### Tabelvortoj
+
+| | | | |
+|-|-|-|-|
+| **iam** | [iam] | → | [jam] |
+
+Note:
+* **jam** [ĵam]
+
+<!--v-->
+
 | | | | | |
 |-|-|-|-|-|
 | *RU* 🇷🇺 | | *DE* 🇩🇪 | | *IT* 🇮🇹 |
@@ -884,7 +903,7 @@ Note:
 
 ## Esperanto*
 
-[Se eĉ supozeramus la finan lingvon di la<br> estontaj generacioj ne Esperanto, in ĉia<br> okazo la vojo ad tiu ellaborota lingvo<br> nepre devat konduki tra Esperanto.]
+[Se eĉ supozeramus la finan lingvon di la<br> estontaj generacioj ne Esperanto, in ĉja<br> okazo la vojo ad tju ellaborota lingvo<br> nepre devat konduki tra Esperanto.]
 
 > Se eĉ supposeramus la finan linguon<br> di la s̈tontai gŭeneratīoi<br> ne S̈peranto, in ĉia occaso<br> la vĩo ad tiu ellaborota linguo<br> nepre devat conduqŭi<br> tra S̈peranto.
 
@@ -908,7 +927,7 @@ Note:
 
 ## Speranto*
 
-[Se eĉ supozeramus la finan lingvon di la<br> esontaj generacioj ne Speranto, in ĉia<br> okazo la vio ad tiu ellaborota lingvo<br> nepre devat konduki tra Speranto.]
+[Se eĉ supozeramus la finan lingvon di la<br> esontaj generacioj ne Speranto, in ĉja<br> okazo la vio ad tju ellaborota lingvo<br> nepre devat konduki tra Speranto.]
 
 > Se eĉ supposeramus la finan linguon<br> di la essontai gŭeneratīoi<br> ne Speranto, in ĉia occaso<br> la vio ad tiu ellaborota linguo<br> nepre devat conduqŭi<br> tra Speranto.
 
@@ -916,7 +935,7 @@ Note:
 
 ## Linguo*
 
-[Se eĉ supozeramus la finan lingŭon di la<br> esontaj ĝenerasioj ne Speranto, in ĉia<br> okazjo la vio ad tiu ellavorota lingŭo<br> infalivle devat konduki tra Speranto.]
+[Se eĉ supozeramus la finan lingŭon di la<br> esontaj ĝenerasioj ne Speranto, in ĉja<br> okazjo la vio ad tju ellavorota lingŭo<br> infalivle devat konduki tra Speranto.]
 
 > Se eĉ supposeramus la finan linguon<br> di la essontai generatīoi<br> ne Speranto, in ĉia occasio<br> la vio ad tiu ellavorota linguo<br> infallivle devat conduqŭi<br> tra Speranto.
 

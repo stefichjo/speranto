@@ -273,29 +273,8 @@ Originaj adverboj finiĝas je **-õ** *[aŭ]*. ***En poezio***, ili povas finiĝ
 |-|-|-|
 | *baldaŭ* | **baldõ** *[baldaŭ]* | **baldø** *[balde]* |
 
-***En poezio***, la **i** en korelativaj ŝajnradikoj prononciĝas *[j]*.
-
-| | | poezie |
-|-|-|-|
-| *kiel* | **qŭiel** *[kiel]* | *[kjel]* |
-
-Kaj la unu-nombra kaj la multe-nombra formo de la difina artikolo estas **la**.
-
-| | |
-|-|-|
-| *la domo* | **la domo** *[la domo]* |
-| *la domoj* | **la domoi** *[la domoj]* |
-
 Prepoziciaĵoj finiĝas je **-ał** *[aŭ]*.
 
 | | |
 |-|-|
 | *ĉirkaŭ* | **circał** *[ĉirkaŭ]* |
-
-### Pronomoj
-
-| | | | | | | | | | | | | | |
-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|
-| *li* | **ollu** | | *ŝi* | **allu** | | *ri* | **ullu** | | *ĝi* | **ellu** | | *ili* | **illu** |
-| *lia* | **ollua** | | *ŝia* | **allua** | | *ria* | **ullua** | | *ĝia* | **ellua** | | *ilia* | **illua** |
-

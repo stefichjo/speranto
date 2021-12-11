@@ -191,11 +191,6 @@ Ne estas ne-difina artikolo.
 
 ### Pronomoj
 
-| | | | | | | | | | | | | | |
-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|
-| *li(n)* | **olli** | | *ŝi(n)* | **alli** | | *ri(n)* | **ulli** | | *ĝi(n)* | **elli** | | *ili(n)* | **illi** |
-| *lia* | **ollia** | | *ŝia* | **allia** | | *ria* | **ullia** | | *ĝia* | **ellia** | | *ilia* | **illia** |
-
 La personaj pronomoj **olli**, **alli**, **ulli** kaj **elli** estas mallongigeblaj al **li**, kiam la kunteksto estas klara.
 
 | | |
@@ -245,14 +240,6 @@ Prepoziciaĵoj estas poezia formo de substantivo en unu-nombro kun la prepozicio
 | *ĉirkaŭ* | **circ̄ĕ al** *[cirkal]* |
 | *dank' al* | **gratiĕ al** *[graŧjal]* |
 | *anstataŭ* | **vicĕ al** *[vical]* |
-
-***En poezio***, uziĝas la prepozicioj **dė**, **in**, **ad** por genitivo, lokativo kaj alativo.
-
-| | | poezie |
-|-|-|-|
-| *libro de amiko* | **libro de amico** | **libro dė amico** |
-| *en la nokto* | **ïn la nocto** | **in la nocto** |
-| *al la domo* | **al la domo** | **ad la domo** |
 
 La akuzativa prepozicio **a** uziĝas ***tra bruo*** (specife antaŭ nomoj aŭ kiam la akuzativa frazparto antaŭas la nominativan frazparton).
 
