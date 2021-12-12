@@ -533,17 +533,6 @@ Note:
 
 ## Lingue + Linguo
 
-### Akuzativo
-
-| | | |
-|-|-|-|
-| 🅴 | **A Carla mi vidan.** | **Mi vidan Carla.**  |
-| 🅾 | **Carlan mu vidas.**  | **Mu vidas Carlan.** |
-
-<!--v-->
-
-## Lingue + Linguo
-
 ### -n → -s
 
 | | | | |
@@ -567,6 +556,17 @@ Note:
 |-|-|
 | 🅴 | **domes altas** |
 | 🅾 | **domoi altai** |
+
+<!--v-->
+
+## Lingue + Linguo
+
+### Akuzativo
+
+| | | |
+|-|-|-|
+| 🅴 | **A Carla mi vidan.** | **Mi vidan Carla.**  |
+| 🅾 | **Carlan mu vidas.**  | **Mu vidas Carlan.** |
 
 <!--v-->
 

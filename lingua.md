@@ -241,23 +241,6 @@ Por la imperativo, uziĝas la infinitiva formo sen **-re**, kun la ŝajnfinaĵo 
 | *la domo estas vidita de amiko* | **la domo veni videta de amico** | **la domo venit visa de amico** |
 | *la domo estas vidata de amiko* | **la domo esse videta de amico** | **la domo est visa de amico** |
 
-### Prepozicioj
-
-Por alativo, lokativo, ablativo uziĝas la prepozicioj **de**, **in**, **ad**.
-
-| | |
-|-|-|
-| *mi venas de la domo* | **me veni de la domo** |
-| *mi estas ĉe/en la domo* | **me esse in la domo** |
-| *mi iras al/ĝis la domo* | **me vade ad la domo** |
-
-***Tra bruo*** (kaj antaŭ nomo), la prepozicio **a** uziĝas por akuzativo.
-
-| | (tra bruo) |
-|-|-|
-| *mi vidas Karlan* | **me vide a Carla** |
-| *vin mi vidas* | **a tu me vide** |
-
 ### Konjunkcioj
 
 | | | poezie |
