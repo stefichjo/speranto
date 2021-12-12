@@ -146,8 +146,3 @@ La akuzativa prepozicio **a** uziĝas ***tra bruo*** (specife antaŭ nomoj aŭ k
 | | |
 | *rin mi vidas* | **a ulli mi vidan** |
 
-### Konjunkcioj
-
-| | |
-|-|-|
-| *ke* | **c̄e** = **ke** *[ke]* |

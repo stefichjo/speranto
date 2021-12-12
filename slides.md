@@ -493,7 +493,6 @@ Note:
 | 🅾 | **ollu**/**un** | | **allu**/**un** | | **ullu**/**un** | | **ellu**/**un** |
 
 Note:
-* 🅴 **olli**, **alli**, **ulli**, **elli** → **li**
 * 🅰 **ollea**, **allea**, **ullea**, **ellea**
 * 🅴 **ollia**, **allia**, **ullia**, **ellia**
 * 🅾 **ollua**, **allua**, **ullua**, **ellua**
@@ -903,17 +902,18 @@ Note:
 | **seniore**  | → | **senior'**  |
 
 Note:
-* **amare ti** → **amarti**
+* **amare ti** → **amar-ti**
+* **amare illi** → **amar-lis**
 
 <!--v-->
 
-### Lingue*
+### Lingua*
 
 #### Substantivoj
 
 | | | |
 |-|-|-|
-| **dome** | → | **dom'** |
+| **domo** | → | **dom'** |
 
 <!--v-->
 
@@ -945,6 +945,17 @@ Note:
 | **nos habe**  | → | **habemus** |
 | **vos habe**  | → | **habetis** |
 | **ille habe** | → | **habent**  |
+
+<!--v-->
+
+### Lingue*
+
+#### Pronomoj
+
+| | | |
+|-|-|-|
+| **olli**, **alli**, **ulli**, **elli** | → | **li**  |
+| **illi**                               | → | **lis** |
 
 <!--v-->
 
@@ -1081,6 +1092,9 @@ Note:
 [Si et suponeramus la lingu-a finale de las<br> generationes futuras esse no Sperante, in omna okkasione la via ad li lingu-a elaborenda<br> infallibilmente debet konduker-e trans Sperante.]
 
 > Si et supponeramus la lingua<br> finale de las generationes futuras<br> esse no Sperante, in omna occasione<br> la via ad li lingua elaborenda<br> infallibilmente debet conducĕre <br>trans Sperante.
+
+<!-- Jam en Lingua oni povas diri "li" aŭ "lis" anstataŭ la personaj pronomoj. -->
+<!-- Ĉu ĉiam diri "Esperanto"? -->
 
 <!--v-->
 
