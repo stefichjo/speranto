@@ -533,6 +533,17 @@ Note:
 
 ## Lingue + Linguo
 
+### Akuzativo
+
+| | | |
+|-|-|-|
+| 🅴 | **A Carla mi vidan.** | **Mi vidan Carla.**  |
+| 🅾 | **Carlan mu vidas.**  | **Mu vidas Carlan.** |
+
+<!--v-->
+
+## Lingue + Linguo
+
 ### -n → -s
 
 | | | | |

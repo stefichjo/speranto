@@ -133,16 +133,3 @@ Postvokala **-b** kaj **-p** ofte fariĝas **-v** *[v]*.
 | *karaktero* | **charactere** *[karaktere]* |
 | *sistemo* | **systeme** *[sisteme]* |
 | *zono* | **zone** *[zone]* |
-
-## Gramatiko
-
-### Prepozicioj
-
-La akuzativa prepozicio **a** uziĝas ***tra bruo*** (specife antaŭ nomoj aŭ kiam la akuzativa frazparto antaŭas la nominativan frazparton).
-
-| | (tra bruo) |
-|-|-|
-| *mi vidas Karlan* | **mi vidan a Carla** |
-| | |
-| *rin mi vidas* | **a ulli mi vidan** |
-
