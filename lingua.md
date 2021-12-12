@@ -134,53 +134,6 @@ Adjektivoj pruntas la in-genran ablativan formon de la ***Latina***. Adjektivoj 
 | *bona amiko* | **amico bona** |
 | *bonaj amikoj* | **amicos bonas** |
 
-Substantivo estas adjektivigebla pere de la ŝajnfinaĵo **-ale**. Se la ŝajnradiko finiĝas je **-l**, **-ale** ŝanĝas sian formon al **-are**.
-
-| | |
-|-|-|
-| *universo* | **universo** |
-| *universala* | **universale** |
-| | |
-| *velo* | **velo** |
-| *velara* | **velare** |
-
-***En poezio***, la fina **-e** de la adjektivaj sufiksoj **-ile**, **-ale** kaj **-are** eliziiĝas.
-
-| | | poezie |
-|-|-|-|
-| *bestiala* | **bestiale** | **bestial'** |
-| | |
-| *stela* | **stellare** | **stellar'** |
-
-Adjektivo antaŭ substantivo havas subjektivan konotacion, dum adjektivo post la substantivo havas objektivan konotacion.
-
-| | |
-|-|-|
-| *rapidaj aŭtoj* | **rapĭdas autos**, **autos rapĭdas** |
-
-### Adverboj
-
-Adjektivoj estas adverbigeblaj pere de la ŝajnfinaĵo **-mente**.
-
-| | | poezie |
-|-|-|-|
-| *facile* | **facilemente** | **facilmente** |
-
-Uzeblas la ŝajnfinaĵo **-o** anstataŭ **-amente**.
-
-| | |
-|-|-|
-| *bone* | **bonamente** → **bono** |
-| *klare* | **claramente** → **claro** |
-| *tre* | **multamente** → **multo** |
-| *nur* | **solamente** → **solo** |
-
-Originaj adverboj konservas sian ŝajnfinaĵon.
-
-| | |
-|-|-|
-| *hodiaŭ* | **hodĭe** |
-
 ### Numeraloj
 
 La ŝajnsufikso por ordinaloj estas **-essĭma** *[esi-ma]*. ***En poezio***, ordinaloj havas apartajn formojn.
@@ -309,14 +262,6 @@ Por la imperativo, uziĝas la infinitiva formo sen **-re**, kun la ŝajnfinaĵo 
 | *venku!* | **vincĕ(te)!** | **vinca(n)!** |
 | *faru!* | **facĭ(te)!** → **facĕ(te)!** | **facĭa(n)!** |
 | *amu!* | **ama(te)!** | **ame(n)!** |
-
-##### Kondicionalo
-
-En la kondicionalo aldoniĝas la sufikso -**ē** al la infinitiva formo.
-
-| | | poezie |
-|-|-|-|
-| *(do) mi havus* | **me haberē** | **haberēm** |
 
 #### Aspektoj
 

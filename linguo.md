@@ -256,25 +256,3 @@ Greka **ch** *[k]* pronciĝas *[ĥ]*.
 | | | hispane |
 |-|-|-|
 | *ajlo* | **alĭo** *[aḷo]* | *[aĥo]* |
-
-## Gramatiko
-
-La gramatiko de ***Lingvoo*** estas proksimume identa al tiu de Esperanto.
-
-Adverboj finiĝas je **-e**.
-
-| | |
-|-|-|
-| *bone* | **bone** *[bone]* |
-
-Originaj adverboj finiĝas je **-õ** *[aŭ]*. ***En poezio***, ili povas finiĝi je **-ø** *[e]*.
-
-| | | poezie |
-|-|-|-|
-| *baldaŭ* | **baldõ** *[baldaŭ]* | **baldø** *[balde]* |
-
-Prepoziciaĵoj finiĝas je **-ał** *[aŭ]*.
-
-| | |
-|-|-|
-| *ĉirkaŭ* | **circał** *[ĉirkaŭ]* |
