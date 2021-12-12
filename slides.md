@@ -452,33 +452,14 @@ Note:
 
 ### Pronomoj
 
-| | | | | | | | | |
-|-|-|-|-|-|-|-|-|-|
-| 🅰 | **me**/**i** | | **tu**/**i** | | | **nos**      | | **vos**      |
-| 🅴 | **mi**       | | **tī**       | | | **ni**       | | **vi**       |
-| 🅾 | **mu**/**n** | | **tu**/**n** | | | **nu**/**n** | | **vu**/**n** |
+| | | | |
+|-|-|-|-|
+| 🅰 | **me**/**i** | | **tu**/**i** |
+| 🅴 | **mi**       | | **tī**       |
+| 🅾 | **mu**/**n** | | **tu**/**n** |
 
 Note:
 * **mea**, **tūa** + **mia**, **tīa** [ŧia] + **mua**, **tua**
-* **nossa**, **vossa** + **nia**, **via** + **nua** + **vua**
-
-<!--v-->
-
-## Lingue + Linguo
-
-### Pronomoj
-
-| | | | | | | | | | | |
-|-|-|-|-|-|-|-|-|-|-|-|
-| 🅰 | **olle**/**i** | | **alle**/**i** | | **ulle**/**i** | | **elle**/**i** | | | **ille**/**i** |
-| 🅴 | **olli**       | | **alli**       | | **ulli**       | | **elli**       | | | **illi**       |
-| 🅾 | **ollu**/**n** | | **allu**/**n** | | **ullu**/**n** | | **ellu**/**n** | | | **illu**/**n** |
-
-Note:
-* 🅴 **olli**, **alli**, **ulli**, **elli** → **li**
-* 🅰 **ollea**, **allea**, **ullea**, **ellea** + **illea**
-* 🅴 **ollia**, **allia**, **ullia**, **ellia** + **illia**
-* 🅾 **ollua**, **allua**, **ullua**, **ellua** + **illua**
 
 <!--v-->
 
@@ -488,9 +469,59 @@ Note:
 
 | | | | |
 |-|-|-|-|
-| 🅰 | **one**/**i** | | **su**/**i** |
-| 🅴 | **oni**       | | **si**       |
-| 🅾 | **onu**/**n** | | **su**/**n** |
+| 🅰 | **nos**      | | **vos**      |
+| 🅴 | **ni**       | | **vi**       |
+| 🅾 | **nu**/**n** | | **vu**/**n** |
+
+Note:
+* **nossa**, **vossa** + **nia**, **via** + **nua** + **vua**
+
+<!--v-->
+
+## Lingue + Linguo
+
+### Pronomoj
+
+| | | | | | | | |
+|-|-|-|-|-|-|-|-|
+| 🅰 | **olle**/**i**  | | **alle**/**i**  | | **ulle**/**i**  | | **elle**/**i**  |
+| 🅴 | **olli**        | | **alli**        | | **ulli**        | | **elli**        |
+| 🅾 | **ollu**/**un** | | **allu**/**un** | | **ullu**/**un** | | **ellu**/**un** |
+
+Note:
+* 🅴 **olli**, **alli**, **ulli**, **elli** → **li**
+* 🅰 **ollea**, **allea**, **ullea**, **ellea**
+* 🅴 **ollia**, **allia**, **ullia**, **ellia**
+* 🅾 **ollua**, **allua**, **ullua**, **ellua**
+
+<!--v-->
+
+## Lingue + Linguo
+
+### Pronomoj
+
+| | |
+|-|-|
+| 🅰 | **ille**/**i**  |
+| 🅴 | **illi**        |
+| 🅾 | **illu**/**un** |
+
+Note:
+* 🅰 **illea**
+* 🅴 **illia**
+* 🅾 **illua**
+
+<!--v-->
+
+## Lingue + Linguo
+
+### Pronomoj
+
+| | | | |
+|-|-|-|-|
+| 🅰 | **one**/**i**  | | **su**/**i**  |
+| 🅴 | **oni**        | | **si**        |
+| 🅾 | **onu**/**un** | | **su**/**un** |
 
 Note:
 * **onea**, **sūa** + **onia**, **sia** + **onua**, **sua**
@@ -518,7 +549,7 @@ Note:
 
 ### -s → -i
 
-| | *domoj* |
+| | |
 |-|-|
 | 🅴 | **domes altas** |
 | 🅾 | **domoi altai** |
