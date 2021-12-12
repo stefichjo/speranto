@@ -90,50 +90,6 @@ La grek-devenaj ŝajnfinaĵoj **-i**, **-īa**, **-a**, **-e** havas signifojn s
 
 ## Gramatiko
 
-### Substantivoj
-
-Substantivoj pruntas la vir-genran ablativan formon de la ***Latina***. La ŝajnfinaĵoj **-i** kaj **-u** fariĝas **-e** kaj **-o**.
-
-| | Latina | Lingua |
-|-|-|-|
-| *maro* | **mari** | **mare** |
-| *mano* | **manu** | **mano** |
-
-En sia *multenombra* formo, substantivoj ricevas la finaĵon **-s**.
-
-| | | multenombro |
-|-|-|-|
-| *amiko(j)* | **amico** | **amicos** |
-| *amikino(j)* | **amica** | **amicas** |
-
-En la *vokativa* formo, substantivo ricevas la finaĵon **-ĭ** anstataŭ **-s**. ***En poezio***, mallongiĝas **-aĭ**, **-eĭ** kaj **-oĭ** al **-e**, **-i** kaj **-i**.
-
-| | | poezie |
-|-|-|-|
-| *amikinoj!* | **amicaĭ!** | **amice!** |
-| *amikoj!* | **amicoĭ!** | **amici!** |
-| *reĝoj!* | **regeĭ!** | **regi!** |
-
-Nomoj kaj terminoj konservas sian specifan *nominativan* formon. Por personaj nomoj, uziĝas **-o** anstataŭ **-us**.
-
-| | |
-|-|-|
-| *datumoj* | **data** |
-| *dato* | **datum** |
-| *statuso* | **status** |
-| | |
-| *Juliuso* | **Ĭulĭo** *[iuli-o]* |
-| *Julia* | **Ĭulĭa** *[iuli-a]* |
-
-### Adjektivoj
-
-Adjektivoj pruntas la in-genran ablativan formon de la ***Latina***. Adjektivoj ricevas la finaĵon **-s** por multenombro.
-
-| | |
-|-|-|
-| *bona amiko* | **amico bona** |
-| *bonaj amikoj* | **amicos bonas** |
-
 ### Numeraloj
 
 La ŝajnsufikso por ordinaloj estas **-essĭma** *[esi-ma]*. ***En poezio***, ordinaloj havas apartajn formojn.

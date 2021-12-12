@@ -234,7 +234,9 @@ Note:
 |            | **folĭa**   | |         | **spatĭo** |
 
 Note:
-* Wie man sieht, hat Lingua im Gegensatz zu Lingue und Linguo (und Esperanto) keine wortartspezifischen Endungen.
+* Substantivo estas la sama kiel la vir-genra formo de la ablativo en la Latina. Sed: **-u** → **-o** (**manu** → **mano**) kaj **-i** → **-e** (**mari** → **mare**).
+* Terminoj povas esti pruntataj el la Latina en sia nominativa formo: **datum**, **data**.
+* En la multenombro, substantivoj havas la finaĵon **-s**.
 
 <!--v-->
 
@@ -251,7 +253,9 @@ Note:
 |          | **bona** | |        | **grande** |
 
 Note:
+* Adjektivo estas la sama kiel la in-genra formo en la Latina.
 * Adjektivo *antaŭ* substantivo estas subjektiva, t.e. laŭ la perspektivo de la parolanto / unua persono. Adjektivo *malantaŭ* substantivo estas objektiva, t.e. laŭ la perspektivo de la aŭskultanto / dua persono.
+* En la multenombro, adjektivoj havas la finaĵon **-s**.
 
 <!--v-->
 
@@ -396,7 +400,7 @@ Note:
 
 Note:
 * 🅰, 🅴, 🅾 signifas je *Lingua*, *Lingue* kaj *Linguo*.
-* Wie man ahnen kann, hat Lingue und Linguo (wie Esperanto) eine eigene Wortendung für Substantive. Diese entstammen den Korrelativa aus Lingua.
+* *Lingue* havas uzas la vortfinaĵojn **-i**, **-e**, **-a**, **-o** kaj **-u** por *personoj*, *aferoj*, *kvalitoj*, *lokoj* kaj *direktoj*/*infinitivoj*.
 
 <!--v-->
 
@@ -454,9 +458,9 @@ Note:
 
 | | | | |
 |-|-|-|-|
-| 🅰 | **me**/**i** | | **tu**/**i** |
-| 🅴 | **mi**       | | **tī**       |
-| 🅾 | **mu**/**n** | | **tu**/**n** |
+| 🅰 | **me**/**i**  | | **tu**/**i**  |
+| 🅴 | **mi**        | | **tī**        |
+| 🅾 | **mu**/**un** | | **tu**/**un** |
 
 Note:
 * **mea**, **tūa** + **mia**, **tīa** [ŧia] + **mua**, **tua**
@@ -469,9 +473,9 @@ Note:
 
 | | | | |
 |-|-|-|-|
-| 🅰 | **nos**      | | **vos**      |
-| 🅴 | **ni**       | | **vi**       |
-| 🅾 | **nu**/**n** | | **vu**/**n** |
+| 🅰 | **nos**        | | **vos**        |
+| 🅴 | **ni**         | | **vi**         |
+| 🅾 | **nu**/**nun** | | **vu**/**vun** |
 
 Note:
 * **nossa**, **vossa** + **nia**, **via** + **nua** + **vua**
@@ -519,9 +523,9 @@ Note:
 
 | | | | |
 |-|-|-|-|
-| 🅰 | **one**/**i**  | | **su**/**i**  |
-| 🅴 | **oni**        | | **si**        |
-| 🅾 | **onu**/**un** | | **su**/**un** |
+| 🅰 | **one**/**oni**  | | **su**/**i**   |
+| 🅴 | **oni**          | | **si**         |
+| 🅾 | **onu**/**onun** | | **su**/**sun** |
 
 Note:
 * **onea**, **sūa** + **onia**, **sia** + **onua**, **sua**
@@ -562,11 +566,11 @@ Note:
 
 | | | |
 |-|-|-|
-| 🅴 | **spatie**                  | [spaŧje] |
-| 🅾 | **spatio** = **spaçio**     | [spasjo] |
+| 🅴 | **spatie**                  | [spaŧje]   |
+| 🅾 | **spatio** = **spaçio**     | [spasjo]   |
 | | | |
 | 🅴 | **villatĭc̄e**               | [villađje] |
-| 🅾 | **villatĭco** = **villajo** | [vilaĵo] |
+| 🅾 | **villatĭco** = **villajo** | [vilaĵo]   |
 
 <!--v-->
 
@@ -903,6 +907,16 @@ Note:
 
 <!--v-->
 
+### Lingue*
+
+#### Substantivoj
+
+| | | |
+|-|-|-|
+| **dome** | → | **dom'** |
+
+<!--v-->
+
 ### Lingua*
 
 #### Adverboj
@@ -943,6 +957,16 @@ Note:
 | **de** | | → | | **de** | ≠ | **di** |
 | **en** | | → | | **in** | ≠ | **en** |
 | **al** | | → | | **ad** | ≠ | **al** |
+
+<!--v-->
+
+### Lingue*
+
+#### Artikoloj
+
+| | | |
+|-|-|-|
+| **de la** | → | **del** |
 
 <!--v-->
 
@@ -990,9 +1014,9 @@ Note:
 
 ## Esperanto*
 
-[Se eĉ supozeramus la finan lingvon di la<br> estontaj generacioj ne Esperanto, in ĉja<br> okazo la vojo ad tju ellaborota lingvo<br> nepre devat konduki tra Esperanto.]
+[Se eĉ supozeramus la finan lingvon di l'<br> estontaj generacioj ne Esperanto, in ĉja<br> okazo la vojo ad tju ellaborota lingvo<br> nepre devat konduki tra Esperanto.]
 
-> Se eĉ supposeramus la finan linguon<br> di la s̈tontai gŭeneratīoi<br> ne S̈peranto, in ĉia occaso<br> la vĩo ad tiu ellaborota linguo<br> nepre devat conduqŭi<br> tra S̈peranto.
+> Se eĉ supposeramus la finan linguon<br> di l' s̈tontai gŭeneratīoi<br> ne S̈peranto, in ĉia occaso<br> la vĩo ad tiu ellaborota linguo<br> nepre devat conduqŭi<br> tra S̈peranto.
 
 <!--v-->
 
@@ -1014,17 +1038,17 @@ Note:
 
 ## Speranto*
 
-[Se eĉ supozeramus la finan lingvon di la<br> esontaj generacioj ne Speranto, in ĉja<br> okazo la vio ad tju ellaborota lingvo<br> nepre devat konduki tra Speranto.]
+[Se eĉ supozeramus la finan lingvon di l'<br> esontaj generacioj ne Speranto, in ĉja<br> okazo la vio ad tju ellaborota lingvo<br> nepre devat konduki tra Speranto.]
 
-> Se eĉ supposeramus la finan linguon<br> di la essontai gŭeneratīoi<br> ne Speranto, in ĉia occaso<br> la vio ad tiu ellaborota linguo<br> nepre devat conduqŭi<br> tra Speranto.
+> Se eĉ supposeramus la finan linguon<br> di l' essontai gŭeneratīoi<br> ne Speranto, in ĉia occaso<br> la vio ad tiu ellaborota linguo<br> nepre devat conduqŭi<br> tra Speranto.
 
 <!--v-->
 
 ## Linguo*
 
-[Se eĉ supozeramus la lingŭon finan di la<br> ĝenerasioj esontaj ne Speranto, in ĉja<br> okazjo la vio ad tju lingŭo ellavorota<br> infalivle devat konduki tra Speranto.]
+[Se eĉ supozeramus la lingŭon finan dil<br> ĝenerasioj esontaj ne Speranto, in ĉja<br> okazjo la vio ad tju lingŭo ellavorota<br> infalivle devat konduki tra Speranto.]
 
-> Se eĉ supposeramus la linguon finan<br> di la generatīoi essontai<br> ne Speranto, in ĉia occasio<br> la vio ad tiu linguo ellavorota<br> infallivle devat conduqŭi<br> tra Speranto.
+> Se eĉ supposeramus la linguon finan<br> dil generatīoi essontai<br> ne Speranto, in ĉia occasio<br> la vio ad tiu linguo ellavorota<br> infallivle devat conduqŭi<br> tra Speranto.
 
 <!--v-->
 
@@ -1046,9 +1070,9 @@ Note:
 
 ## Lingue*
 
-[Se et supponeramus la lingŭe fina di las<br> dzeneraŧjes essontas no Sperante, in omna<br> okkazje la vie ad ti lingŭe ellavorota<br> infallivlo devat konduku tra Sperante.]
+[Se et supponeramus la lingŭe fina dil<br> dzeneraŧjes essontas no Sperante, in omna<br> okkazje la vie ad ti lingŭe ellavorota<br> infallivlo devat konduku tra Sperante.]
 
-> Se et supponeramus la lingue fina<br> di las generaties essontas<br> no Sperante, in omna occasie<br> la vie ad ti lingue ellavorota<br> infallivlo devat conducu<br> tra Sperante.
+> Se et supponeramus la lingue fina<br> dil generaties essontas<br> no Sperante, in omna occasie<br> la vie ad ti lingue ellavorota<br> infallivlo devat conducu<br> tra Sperante.
 
 <!--v-->
 
