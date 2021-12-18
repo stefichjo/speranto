@@ -399,10 +399,41 @@
 
 | | |
 |-|-|
-| *luxo* | **luxo** [s] |
-| *exata* | **exacta** [z] |
+| *exata*  | **exacta** [z]       |
 | *máxima* | **maxima** [ˈmasima] |
-| *seis* | **sĩx** [s] |
+| *seis*   | **sĩx**    [s]       |
+| *táxi*   | **taxi**   [ks]      |
+
+x = s
+exemplo
+excelente
+êxito
+
+x = ss
+auxiliar
+máximo
+próximo
+
+x = ch < *sc
+mexer
+peixe
+
+x = ch < *ps
+caixa
+
+x = ch < *ss
+baixo
+
+x = ch
+mexico
+luxo
+
+x = cs
+táxi
+fixo
+tóxico
+oxigênio
+complexo
 
 ### Conson̆antes duplas
 

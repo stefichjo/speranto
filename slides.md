@@ -857,6 +857,19 @@ Note:
 
 ## Esperanto
 
+### aŭ → uj
+
+| | | | | | |
+|-|-|-|-|-|-|
+| 🅰 + 🅴 | **ambo** | [ambo]      | | **ambis** | [ambis]     |
+| 🅾      | **ambõ** | [ambaŭ]     | | **ambui** | [ambuj]     |
+| | | | | | |
+| 🌍     |          | **[ambaŭ]** | |           | **[ambaŭ]** |
+
+<!--v-->
+
+## Esperanto
+
 ### esti + stari
 
 | | | | | | |
@@ -916,6 +929,7 @@ Note:
 
 Note:
 * **amare ti** → **amar-ti**
+* **amare ulli** → **amar-li**
 * **amare illi** → **amar-lis**
 
 <!--v-->
