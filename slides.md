@@ -1,5 +1,5 @@
 ---
-title: Esperanto Kiel Dialektaro
+title: Speranto - Esperanto Kiel Dialektaro
 separator: <!--s-->
 verticalSeparator: <!--v-->
 theme: sky
@@ -7,7 +7,7 @@ revealOptions:
   transition: 'fade'
 ---
 
-<!-- reveal-md slides.md #-w -->
+<!-- reveal-md slides.md -w -->
 
 # Bonvenon!
 
@@ -46,7 +46,7 @@ Note:
 > -- <quote>Max Weinreich</quote>
 
 Note:
-* Unverständlichkeiten der Sprachen untereinander sind künstlicher Natur.
+* Manko de interkomprenebleco inter lingvoj estas artefarita.
 
 <!--v-->
 
@@ -71,7 +71,7 @@ Note:
 | 🇵🇱 ëŝĉø | | 🇩🇰 dyp | | 🇫🇷 dĭurnŏ |
 
 Note:
-* Sprachspezifische Konventionen, nur diesmal mit etwas Internationalität
+* Pontaj ortografioj estas specifaj je la respektiva lingvo. Ekzemple, [ø] en la Pola estas prononcata kiel **e**.
   * 🇵🇱 **ø** [e]
   * 🇩🇪 **d** [t], 🇩🇰 **p** [b]
   * 🇫🇷 **dĭ** [ĵ], **nŏ** []
@@ -90,8 +90,7 @@ Note:
 | *Esperanto* | | lingvo internacia |
 
 Note:
-* sehr unterschiedliche Esperantiden
-* Diese Plansprachen gibt es "wirklich", während Lingua, Lingue und Linguo (und Speranto) nur im Speranto-Dialektkontinuum existieren. Die Kausalitäten sind daher umgekehrt: Interlingua etc. entstand *nach* Esperanto, während Esperanto im fiktiven Speranto-Dialektkontinuum aus Lingua hervorgeht.
+* Ĉi tiuj esperantidoj estas tre diversaj. Notindas, ke ili vere ekzistas, dum *Lingua*, *Lingue* kaj *Linguo* (kaj *Speranto*) ekzistas nur ene de tiu ĉi fikcia dialekta kontinuo. Do, dum *Interlingua* ktp kreiĝis post *Esperanto* en la realo, *Esperanto* kreiĝis post *Lingua* en la fickio.
 
 <!--v-->
 
@@ -110,7 +109,7 @@ Note:
 | | | | | *Esperanto* |
 
 Note:
-* Äzyk, Sprak und Lingua sind sowohl Brückensprachen als auch Brückenrechtschreibungen.
+* *Äzyk*, *Sprak* kaj *Lingua* estas kaj pontaj ortografioj kaj pontaj lingvoj.
 
 <!--s-->
 
@@ -143,7 +142,7 @@ Note:
 > __Dobry den!__
 
 Note:
-* Äzyk als Brückensprache existiert (noch) nicht.
+* *Äzyk* kiel pontolingvo (ankoraŭ) ne ekzistas.
 
 <!--v-->
 
@@ -851,7 +850,7 @@ Note:
 | 🌍 |         | **[vojo]** |
 
 Note:
-* Hyperkorrektes Linguo: **amikoj** ← **amiki**
+* Trokorektema *Linguo*: **amiqŭi** [amiki] anstataŭ **amicoi** [amikoj]
 
 <!--v-->
 
@@ -881,7 +880,7 @@ Note:
 | 🌍 |           | **[estas]** | |         | **[staras]** |
 
 Note:
-* **stas** ist inspiriert durch **'stas** in Esperanto (in kontraŭfundamenta poetischem Stil), obwohl eigtl. von *PL* **jestem**, **jesteś**, **jest** ... bzw. *LA* **est**.
+* Fakte, **estas** venas de la pola **jestem** (**jesteś**, **jest** ...) respektive la latina **est**.
 
 <!--v-->
 
@@ -1028,9 +1027,6 @@ Note:
 | | | | | |
 |-|-|-|-|-|
 | **hodĭõ** | [hoĵaŭ] | → | **hodĭø** | [hoĵe] |
-
-Note:
-* analog zur Wortendung "-e" für Adverben
 
 <!--v-->
 
