@@ -8,86 +8,98 @@
 
 #### t → d
 
-| | | |
-|-|-|-|
-| *mudadas* | **mut̯at̯as** = **mut̯adas** | [-d-] |
+| | [d] |
+|-|-|
+| *roda* | **rot̯a** |
+| *toda* | **tot̯a** |
+| | |
+| *mudadas* | **mut̯at̯as** = **mut̯adas** |
+| *lido* | **lėct̯o** |
 
 #### l → r
 
-| | | |
-|-|-|-|
-| *branco* | **bl̯anco** | [-r-] |
-| *prato* | **pl̯ato** | [-r-] |
+| | [r] |
+|-|-|
+| *branco* | **bl̯anco** |
+| *prato* | **pl̯ato** |
 
 #### r → l
 
-| | | |
-|-|-|-|
-| *bolsa* | **bor̆sa** | [-l-] |
-| | | |
-| *pelo* | **per̆-lo** | [-l-] |
+| | [l] |
+|-|-|
+| *bolsa* | **bor̆sa** |
+| | |
+| *pelo* | **per̆-lo** |
 
 ### [i]
 
 #### ḷ
 
-| | | |
-|-|-|-|
-| *muito* | **muḷto** | [-i-] |
+| | [i] |
+|-|-|
+| *muito* | **muḷto** |
 
 ##### pḷ-, fḷ-, cḷ-
 
-| | | |
-|-|-|-|
-| *chumbo* | **pḷumbo** | |
-| | | |
-| *chama* | **fḷamma** | |
-| | | |
-| *chave* | **cḷave** | |
+| | [ŝ] |
+|-|-|
+| *chumbo* | **pḷumbo** |
+| | |
+| *chama* | **fḷamma** |
+| | |
+| *chave* | **cḷave** |
 
 ### Cađidas
 
-| | | |
-|-|-|-|
-| *caidas* | **cađidas** | |
+| | [] |
+|-|-|
+| *caidas* | **cađidas** |
 
 ## Voc̆ales
 
 ### Nasales
 
-| | | |
-|-|-|-|
-| *com* | **cům** = **con** | [kõ] |
+| | [õ] |
+|-|-|
+| *com* | **cům** = **con** |
 
 ### Átonas
 
 #### Finales
 
-| | | |
-|-|-|-|
-| *nome* | **nomė** = **nome** | [-i] |
-| | | |
-| *como* | **comǒ** = **como** | [-u] |
-| *porto* | **portǒ** = **porto** | [-u] |
-| | | |
-| *meu* | **meǒ** = **meo** | [-u] |
-| *museu* | **museǒ** = **museo** | [-u] |
+| | [i] |
+|-|-|
+| *nome* | **nomė** = **nome** |
+
+| | [u] |
+|-|-|
+| *como* | **comǒ** = **como** |
+| *porto* | **portǒ** = **porto** |
+| | |
+| *meu* | **meǒ** = **meo** |
+| *museu* | **museǒ** = **museo** |
 
 ### Mut̯adas
 
-| | | |
-|-|-|-|
-| *pelo* | **pïlo** | [-e-] |
-| | | |
-| *criar* | **crėare** | [-i-] |
-| | | |
-| *fome* | **fåme** | [-o-] |
-| *por* | **pe̊r** | [-o-] |
-| *gosto* | **gůsto** | [-o-] |
-| *dobro* | **důp̆l̯o** | [-o-] |
-| *chover* | **pḷůvere** | [-o-] |
-| | | |
-| *lugar* | **lǒc̆al̯e** | [-u-] |
+| | [e] |
+|-|-|
+| *pelo* | **pïlo** |
+
+| | [i] |
+|-|-|
+| *criar* | **crėare** |
+
+| | [o] |
+|-|-|
+| *fome* | **fåme** |
+| *por* | **pe̊r** |
+| *gosto* | **gůsto** |
+| *dobro* | **důp̆l̯o** |
+| *chover* | **pḷůvere** |
+
+| | [u] |
+|-|-|
+| *lugar* | **lǒc̆al̯e** |
 
 ### Cađidas
 
@@ -101,35 +113,34 @@
 
 ### -ne, -no
 
-| | | |
-|-|-|-|
-| *bem* | **benĕ** = **bene** | [bẽ] |
-| *bom* | **bonŏ** = **bono** | [bõ] |
-| | | |
-| *fim* | **finĕ** = **fine** | [fĩ] |
-| *fins* | **finĕs** = **fines** | [fĩs] |
-| | | |
-| *som* | **sonŏ** = **sono** | [sõ] |
-| *sons* | **sonŏs** = **sonos** | [sõs] |
+| | [~] |
+|-|-|
+| *bem* | **benĕ** = **bene** |
+| *bom* | **bonŏ** = **bono** |
+| | |
+| *fim* | **finĕ** = **fine** |
+| *fins* | **finĕs** = **fines** |
+| | |
+| *som* | **sonŏ** = **sono** |
+| *sons* | **sonŏs** = **sonos** |
 
 ### -l-
 
-| | | |
-|-|-|-|
-| *alta* | **ałta** = **alta** | ['aŭta] |
+| | [ŭ] |
+|-|-|
+| *alta* | **ałta** = **alta** |
 
 ### -le, -re
 
-| | | |
-|-|-|-|
-| *sal* | **sałĕ** = **sale** | [-ŭ] |
-| *sol* | **sołĕ** = **sole** | [-ŭ] |
-| | | |
-| *legal* | **legałĕ** = **legale** | [-ŭ] |
-| *legais* | **legałės** = **legales** | [-is] |
-| | | |
-| *flor* | **florĕ** = **flore** | [-r] |
-| *flores* | **florės** = **flores** | [-ris] |
+| | [ŭ]/[is] |
+|-|-|
+| *legal* | **legałĕ** = **legale** |
+| *legais* | **legałės** = **legales** |
+
+| | [r]/[ris] |
+|-|-|
+| *flor* | **florĕ** = **flore** |
+| *flores* | **florės** = **flores** |
 
 #### lĭ, nĭ
 
@@ -373,12 +384,6 @@
 | *tio* | **tio** |
 | | |
 | *dia* | **dia** [ˈʤia] |
-
-| | |
-|-|-|
-| *lido* | **lėct̯o** |
-| *roda* | **rot̯a** |
-| *toda* | **tot̯a** |
 
 | | |
 |-|-|
