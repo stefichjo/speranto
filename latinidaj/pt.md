@@ -54,6 +54,16 @@
 | | [] |
 |-|-|
 | *caidas* | **cađidas** |
+| | |
+| *rua* | **ruğa** |
+
+#### -pt-, -ct-
+
+| | [t] |
+|-|-|
+| *cética* | **sceptica** |
+| | |
+| *junta* | **juncta** |
 
 ## Voc̆ales
 
@@ -107,7 +117,20 @@
 
 ### Diphthongadas
 
-| *cheio* | **pḷẽn̆o** | |
+| | [oŭ] |
+|-|-|
+| *tesouro* | **tesõro** |
+| *doutor* | **dõctore** |
+| *outubro* | **õctǒbro** |
+| | |
+| *ouro* | **åuro** = **õro** |
+| *ousar* | **åusarĕ** = **õsarĕ** |
+| *pouca* | **påuca** = **põca** |
+| *touro* | **tåuro** = **tõro** |
+
+| | [eĭ] |
+|-|-|
+| *aceitar* | **accẽptare** |
 
 ## Conson̆antes + Voc̆ales
 
@@ -123,6 +146,18 @@
 | | |
 | *som* | **sonŏ** = **sono** |
 | *sons* | **sonŏs** = **sonos** |
+
+#### -õne
+
+| | [ãũ]/[õĩs] |
+|-|-|
+| *não* | **nõn** |
+| | |
+| *união* | **uniõnĕ** = **uniõne** |
+| *uniões* | **unionės** = **uniones** | <!-- ? -->
+| | |
+| *limão* | **limõnĕ** = **limõne** |
+| *limões* | **limonės** = **limones** | <!-- ? -->
 
 ### -l-
 
@@ -155,8 +190,6 @@
 |-|-|-|
 | *rainha* | **rȇğiṇa** | [-ṇ-] |
 | *vinho* | **viṇo** | [-ṇ-] |
-
------
 
 ### Voc̆ales mut̯adas
 
@@ -218,48 +251,7 @@
 | *semana* | **seman̄a** |
 | *seno* | **sïn̄o** |
 
-### Diphthongos
-
-| | |
-|-|-|
-| *aceitar* | **acẽptarĕ** |
-
-* **õ** (**ou**)
-
-| | |
-|-|-|
-| *tesouro* | **tesõro** |
-| *doutor* | **dõctorĕ** |
-| *outubro* | **õctǒbro** |
-| | |
-| *ouro* | **åuro** = **õro** |
-| *ousar* | **åusarĕ** = **õsarĕ** |
-| *pouca* | **påuca** = **põca** |
-| *touro* | **tåuro** = **tõro** |
-
-* **õṡ** (**ois**)
-
-| | |
-|-|-|
-| *coisa* | **cåu̇sa** = **cõṡa** (**coisa**) |
-| *dois* | **dõṡ** (**dois**) |
-
-* **õn** (**aun**)
-
-| | |
-|-|-|
-| *não* | **nõn** (**naun**) |
-| | |
-| *união* | **uniõnĕ** (**uniaun**) |
-| *uniões* | **uniones** |
-| | |
-| *limão* | **limõnĕ** (**limaun**) |
-| *limões* | **limones** |
-| | |
-| *pão* | **pane̊** (**paon**) = **põnĕ** (**paun**) |
-| *pães* | **panes** |
-
-## Conson̆antes
+## ?Conson̆antes
 
 ### Conson̆antes cađidas
 
@@ -274,7 +266,6 @@
 | *irmão* | **ğėrmano** = **irmaon** |
 | *mais* | **mağis** |
 | *país* | **pağėn̆sĕ** |
-| *rua* | **ruğa** |
 
 | | |
 |-|-|
@@ -304,7 +295,6 @@
 | *soar* | **son̆arĕ** |
 | *veia* | **vẽn̆a** |
 | | |
-| *bom* | **bonŏ** |
 | *boa* | **bon̆a** |
 
 | | |
@@ -317,7 +307,6 @@
 |-|-|
 | *ato* | **acto** |
 | *fruto* | **fructo** |
-| *junta* | **juncta** |
 | *noturno* | **nocturno** |
 | *ponto* | **půncto** |
 | *tato* | **tacto** |
@@ -536,7 +525,7 @@ complexo
 | *gesso* | **gÿpso** |
 | *hiena* | **hyæna** |
 
-## Conjugatıõnĕ
+## ?Conjugatıõnĕ
 
 * -**mus** = -**mos**
 * -**nt** = -**m**
@@ -660,3 +649,17 @@ complexo
 | | | |
 |-|-|-|
 | *manhã* | **manĭană** | [-ṇ] |
+
+<!--
+| | |
+| *pão* | **pane̊** (**paon**) = **põnĕ** (**paun**) |
+| *pães* | **panes** |
+-->
+
+| | |
+|-|-|
+| *coisa* | **cåu̇sa** = **cõṡa** (**coisa**) |
+| *dois* | **dõṡ** (**dois**) |
+
+| *cheio* | **pḷẽn̆o** | |
+
