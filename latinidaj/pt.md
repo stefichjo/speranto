@@ -1,70 +1,168 @@
 # Português
 
-| | |
-|-|-|
-| *mundo* | **mundo** |
-| *pulso* | **pulso** |
-| *vela* | **vela** |
+## Conson̆antes
+
+### Mut̯adas
+
+#### p → b
+
+#### t → d
+
+| | | |
+|-|-|-|
+| *mudadas* | **mut̯at̯as** = **mut̯adas** | [-d-] |
+
+#### l → r
+
+| | | |
+|-|-|-|
+| *branco* | **bl̯anco** | [-r-] |
+| *prato* | **pl̯ato** | [-r-] |
+
+#### r → l
+
+| | | |
+|-|-|-|
+| *bolsa* | **bor̆sa** | [-l-] |
+| | | |
+| *pelo* | **per̆-lo** | [-l-] |
+
+### [i]
+
+#### ḷ
+
+| | | |
+|-|-|-|
+| *muito* | **muḷto** | [-i-] |
+
+##### pḷ-, fḷ-, cḷ-
+
+| | | |
+|-|-|-|
+| *chumbo* | **pḷumbo** | |
+| | | |
+| *chama* | **fḷamma** | |
+| | | |
+| *chave* | **cḷave** | |
+
+### Cađidas
+
+| | | |
+|-|-|-|
+| *caidas* | **cađidas** | |
 
 ## Voc̆ales
 
-### Voc̆ales cađidas
+### Nasales
 
-| | |
-|-|-|
-| *calor* | **calorĕ** [kaˈlor] |
-| *flor* | **florĕ** |
-| *mar* | **marĕ** |
-| | |
-| *cama* | **camĕra** |
+| | | |
+|-|-|-|
+| *com* | **cům** = **con** | [kõ] |
+
+### Átonas
+
+#### Finales
+
+| | | |
+|-|-|-|
+| *nome* | **nomė** = **nome** | [-i] |
+| | | |
+| *como* | **comǒ** = **como** | [-u] |
+| *porto* | **portǒ** = **porto** | [-u] |
+| | | |
+| *meu* | **meǒ** = **meo** | [-u] |
+| *museu* | **museǒ** = **museo** | [-u] |
+
+### Mut̯adas
+
+| | | |
+|-|-|-|
+| *pelo* | **pïlo** | [-e-] |
+| | | |
+| *criar* | **crėare** | [-i-] |
+| | | |
+| *fome* | **fåme** | [-o-] |
+| *por* | **pe̊r** | [-o-] |
+| *gosto* | **gůsto** | [-o-] |
+| *dobro* | **důp̆l̯o** | [-o-] |
+| *chover* | **pḷůvere** | [-o-] |
+| | | |
+| *lugar* | **lǒc̆al̯e** | [-u-] |
+
+### Cađidas
+
+<!-- -->
+
+### Diphthongadas
+
+| *cheio* | **pḷẽn̆o** | |
+
+## Conson̆antes + Voc̆ales
+
+### -ne, -no
+
+| | | |
+|-|-|-|
+| *bem* | **benĕ** = **bene** | [bẽ] |
+| *bom* | **bonŏ** = **bono** | [bõ] |
+| | | |
+| *fim* | **finĕ** = **fine** | [fĩ] |
+| *fins* | **finĕs** = **fines** | [fĩs] |
+| | | |
+| *som* | **sonŏ** = **sono** | [sõ] |
+| *sons* | **sonŏs** = **sonos** | [sõs] |
+
+### -l-
+
+| | | |
+|-|-|-|
+| *alta* | **ałta** = **alta** | ['aŭta] |
+
+### -le, -re
+
+| | | |
+|-|-|-|
+| *sal* | **sałĕ** = **sale** | [-ŭ] |
+| *sol* | **sołĕ** = **sole** | [-ŭ] |
+| | | |
+| *legal* | **legałĕ** = **legale** | [-ŭ] |
+| *legais* | **legałės** = **legales** | [-is] |
+| | | |
+| *flor* | **florĕ** = **flore** | [-r] |
+| *flores* | **florės** = **flores** | [-ris] |
+
+#### lĭ, nĭ
+
+| | | |
+|-|-|-|
+| *filho* | **filĭo** | [-ḷ-] |
+| *mulher* | **mulĭere** | [-ḷ-] |
+| | | |
+| *banho* | **banĭo** | [-ṇ-] |
+
+| | | |
+|-|-|-|
+| *rainha* | **rȇğiṇa** | [-ṇ-] |
+| *vinho* | **viṇo** | [-ṇ-] |
+
+-----
 
 ### Voc̆ales mut̯adas
 
 | | |
 |-|-|
-| *pelo* | **pïlo** |
-| *vez* | **vïcĕ** |
+| *vez* | **vïcĕ** | <!-- c mudada -> z -->
+| *vezes* | **vïcės** |
 | | |
 | *ele* | **ïlle** |
 | *ela* | **ïlla** |
 | *este* | **ïste** |
-
-| | |
-|-|-|
-| *criar* | **crėarĕ** |
-| *nome* | **nomė** = **nome** |
-
-| | |
-|-|-|
-| *fome* | **fåme** |
-| | |
-| *por* | **pe̊r** | |
-| | |
-| *gosto* | **gůsto** |
-| *torre* | **tůrre** |
-
-| | |
-|-|-|
-| *porto* | **portǒ** = **porto** |
-| | |
-| *eu* | **eğǒ** (**eo**) |
-| *meu* | **meǒ** (**meo**) |
-| *museu* | **museǒ** (**museo**) |
 
 ### Voc̆ales nasales
 
 | | |
 |-|-|
 | *tanto* | **tanto** [ˈtɜ̃ŋtu] |
-| | |
-| *bem* | **benĕ** |
-| *com* | **con** |
-| *em* | **ïn** |
-| *fim* | **finĕ** |
-| *sem* | **sïnĕ** |
-| | |
-| *som* | **sonŏ** |
-| *sons* | **sonŏs** |
 | | |
 | *tem* | **tenĕt** |
 | *têm* | **tenĕnt** |
@@ -98,7 +196,7 @@
 | | |
 |-|-|
 | *um* | **un** |
-| *uma* | **una** = **uma** |
+| *uma* | **una** = **uma** | <!-- ñ = m -->
 
 | | |
 |-|-|
@@ -169,7 +267,6 @@
 
 | | |
 |-|-|
-| *cair* | **cađėrė** |
 | *juiz* | **juđicĕ** |
 | *pé* | **peđĕ** |
 | *raiz* | **rađicĕ** |
@@ -254,6 +351,10 @@
 | *fogo* | **foc̆o** |
 | *segundo* | **sec̆undo** |
 
+| | | |
+|-|-|-|
+| *eu* | **eğǒ** = **eo** | [-u] |
+
 #### qu, gu
 
 | | |
@@ -276,7 +377,6 @@
 | | |
 |-|-|
 | *lido* | **lėct̯o** |
-| *mudar* | **mut̯arĕ** |
 | *roda* | **rot̯a** |
 | *toda* | **tot̯a** |
 
@@ -319,69 +419,6 @@
 | *Abril* | **Ap̆rilĕ** |
 | *abrir* | **ap̆rirĕ** |
 | *pobre* | **påŭp̆ĕre** |
-
-### n, l, r
-
-| | |
-|-|-|
-| *branco* | **bl̯anco** |
-| *dobro* | **důp̆l̯o** |
-| *lugar* | **lǒc̆al̯** |
-| *prato* | **pl̯ato** |
-| | |
-| *bolsa* | **bor̆sa** |
-| | |
-| *pelo* | **peɍ-lo** |
-
-#### lĭ, nĭ
-
-| | |
-|-|-|
-| *filho* | **filĭo** |
-| *mulher* | **mulĭerĕ** |
-| | |
-| *banho* | **banĭo** |
-| *manhã* | **manĭană** |
-| | |
-| *rainha* | **rȇğiña** |
-| *vinho* | **viño** |
-
-#### l̥, ḷ
-
-| | |
-|-|-|
-| *alta* | **al̥ta** = **alta** |
-| *fácil* | **facil̥ĕ** = **facilĕ** |
-| *outro* | **ål̥tro** = **åltro** |
-| *sal* | **sal̥ĕ** = **salĕ** |
-| *sol* | **sol̥** = **solĕ** |
-
-| | |
-|-|-|
-| *muito* | **muḷto** |
-
-* -**al̥ės** = -**ałės**
-
-| | |
-|-|-|
-| *final* | **final̥ĕ** = **finalĕ** (**finau**) |
-| *finais* | **final̥ės** = **finałės** = **finales** (**finaes**) |
-| | |
-| *mensal* | **mensal̥ĕ** = **mensalĕ** (**mensau**) |
-| *mensais* | **mensal̥ės** = **mensałės** = **mensales** (**mensaes**) |
-| | |
-| *tal* | **tal̥ĕ** = **talĕ** (**tau**) |
-| *tais* | **tal̥ės** = **tałės** = **tales** (**taes**) |
-
-| | |
-|-|-|
-| *cheio* | **pḷẽn̆o** |
-| *chumbo* | **pḷumbo** |
-| *chover* | **pḷůverĕ** |
-| | |
-| *chama* | **fḷamma** |
-| | |
-| *chave* | **cḷave** |
 
 ### sc
 
@@ -607,3 +644,14 @@ complexo
 | | **venĭt**   | **ven̆iůĭt**   | **venĭat**     | | **venĭnt** @  | **vėn̆ïŭĕrant**  | **venĭant**      |
 | | **vėnĭƀat** | **vėn̆ĭŭerat** | **vėn̆ïŭĭsset** | | **vėnĭƀant**  | **vėn̆ĭŭerant**  | **vėn̆ïŭĭssent**  |
 | | **vĕn̆irát** | **vĕn̆iriat**  | **vėn̆ïrĕt**    | | **vĕn̆irão**   | **vĕn̆iríant**   | **vėn̆ïrent**     |
+
+
+-----
+
+| | |
+|-|-|
+| *cama* | **camĕra** |
+
+| | | |
+|-|-|-|
+| *manhã* | **manĭană** | [-ṇ] |
