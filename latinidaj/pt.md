@@ -2,6 +2,44 @@
 
 ## Conson̆antes
 
+### Duplas
+
+#### ll
+
+| | |
+|-|-|
+| *bela* | **bella** |
+| *colo* | **collo** |
+
+#### mm
+
+| | |
+|-|-|
+| *programa* | **programma** |
+
+#### nn
+
+| | |
+|-|-|
+| *ano* | **anno** |
+
+#### rr
+
+| | |
+|-|-|
+| *terra* | **terra** |
+| | |
+| *rara* | **rara** |
+
+#### ss
+
+| | |
+|-|-|
+| *massa* | **massa** |
+| | |
+| *casa* | **casa** |
+| *rosa* | **rosa** |
+
 ### Finais
 
 #### -t
@@ -70,6 +108,7 @@
 | *caida* | **cađida** |
 | *raio* | **rađio** |
 | | |
+| *mais* | **mağis** |
 | *rua* | **ruğa** |
 
 #### pt, ct
@@ -131,6 +170,9 @@
 | | [e] |
 |-|-|
 | *pelo* | **pïlo** |
+| | |
+| *ela* | **ïlla** |
+| *ele* | **ïlle** |
 
 | | [i] |
 |-|-|
@@ -171,7 +213,14 @@
 | *pouca* | **påuca** = **põca** |
 | *touro* | **tåuro** = **tõro** |
 
-## Conson̆antes + Voc̆ales
+## Conson̆antes con Voc̆ales
+
+### -ce
+
+| | [s]/[zis] |
+|-|-|
+| *luz* | **luc̆ĕ** = **luce** |
+| *luzes* | **luc̆ės** = **luces** |
 
 ### -ne, -no
 
@@ -186,12 +235,26 @@
 | *som* | **sonŏ** = **sono** |
 | *sons* | **sonŏs** = **sonos** |
 
-#### -ãn
+#### -ąn̆ă/-ąn̆o
+
+| | [ã] |
+|-|-|
+| *lã* | **ląn̆ă** = **lană** = **lana** |
+| *rã* | **rąn̆ă** = **rană** = **rana** |
 
 | | [ãũ] |
 |-|-|
-| *mão* | **mãnŏ** = **mãno** |
-| *mãos* | **mãnŏs** = **mãnos** |
+| | |
+| *mão* | **mąn̆o** = **mano** |
+| *vulcão* | **vulcąn̆o** = **vulcano** | <!-- vulcões (wie nação/nações) statt vulcãos -->
+
+| | [ã]/[ãũ] |
+|-|-|
+| *capitã* | **capitąn̆ă** = **capitana** |
+| *capitão* | **capitąn̆o** = **capitano** | <!-- capitães (wie ?!) statt capitãos/capitões -->
+| | |
+| *sã* | **sąn̆ă** = **sana** |
+| *são* | **sąn̆o** = **sano** |
 
 #### -õn
 
@@ -237,44 +300,16 @@
 | *rainha* | **rȇğiṇa** | [-ṇ-] |
 | *vinho* | **viṇo** | [-ṇ-] |
 
-### Voc̆ales mut̯adas
 
-| | |
-|-|-|
-| *vez* | **vïcĕ** | <!-- c mudada -> z -->
-| *vezes* | **vïcės** |
-| | |
-| *ele* | **ïlle** |
-| *ela* | **ïlla** |
-| *este* | **ïste** |
 
-### Voc̆ales nasales
 
-| | |
-|-|-|
-| *tanto* | **tanto** [ˈtɜ̃ŋtu] |
-| | |
-| *tem* | **tenĕt** |
-| *têm* | **tenĕnt** |
 
-| | |
-|-|-|
-| *capitã* | **capitană** |
-| *capitãs* | **capitanăs** |
-| | |
-| *lã* | **lană** |
-| *rã* | **rană** |
-| | |
-| *sã* | **sană** |
-| *são* | **sano** |
 
-| | |
-|-|-|
-| *capitão* | **capitano** (**capitaon**) |
-| *capitães* | **capitanös** (**capitaens**) |
-| | |
-| *vulcão* | **vulcano** (**vulcaon**) |
-| *vulcões* | **vulcånös** (**vulcoens**) |
+-----
+
+# ?
+
+### ?Voc̆ales nasales
 
 | | |
 |-|-|
@@ -292,12 +327,11 @@
 
 ## ?Conson̆antes
 
-### Conson̆antes cađidas
+### ?Conson̆antes cađidas
 
 | | |
 |-|-|
 | *irmão* | **ğėrmano** = **irmaon** |
-| *mais* | **mağis** |
 | *país* | **pağėn̆sĕ** |
 
 | | |
@@ -467,38 +501,6 @@ tóxico
 oxigênio
 complexo
 
-### Conson̆antes duplas
-
-#### ll
-
-| | |
-|-|-|
-| *bela* | **bella** |
-| *colo* | **collo** |
-| | |
-| *milhão* | **millĭõn** |
-
-#### mm, nn
-
-| | |
-|-|-|
-| *ano* | **anno** |
-| *soma* | **sůmma** |
-| | |
-| *dom* | **domĭnŏ** |
-| *dona* | **domĭna** |
-
-#### rr, ss
-
-| | |
-|-|-|
-| *terra* | **terra** |
-| *rara* | **rara** |
-| | |
-| *casa* | **casa** [ˈkaza] |
-| *rosa* | **rosa** |
-| *massa* | **massa** |
-
 ##### sĭ
 
 | | |
@@ -663,4 +665,19 @@ complexo
 | *dois* | **dõṡ** (**dois**) |
 
 | *cheio* | **pḷẽn̆o** | |
+
+| | |
+| *milhão* | **millĭõn** |
+
+| *soma* | **sůmma** |
+
+
+| | |
+| *dom* | **domĭnŏ** |
+| *dona* | **domĭna** |
+
+| | |
+|-|-|
+| *tem* | **tenĕt** |
+| *têm* | **tenĕnt** |
 
