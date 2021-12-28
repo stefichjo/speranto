@@ -246,12 +246,15 @@
 |-|-|
 | | |
 | *mão* | **mąn̆o** = **mano** |
-| *vulcão* | **vulcąn̆o** = **vulcano** | <!-- vulcões (wie nação/nações) statt vulcãos -->
+| *vulcão* | **vulcąn̆o** = **vulcano** | <!-- vulcões (kiel nação/nações) anstataŭ vulcãos -->
 
 | | [ã]/[ãũ] |
 |-|-|
+| *irmã* | **ğėrmąn̆ă** = **ğėrmana** |
+| *irmão* | **ğėrmąn̆o** = **ğėrmano** |
+| | |
 | *capitã* | **capitąn̆ă** = **capitana** |
-| *capitão* | **capitąn̆o** = **capitano** | <!-- capitães (wie ?!) statt capitãos/capitões -->
+| *capitão* | **capitąn̆o** = **capitano** | <!-- capitães (kiel ?!) anstataŭ capitãos/capitões -->
 | | |
 | *sã* | **sąn̆ă** = **sana** |
 | *são* | **sąn̆o** = **sano** |
@@ -313,12 +316,7 @@
 
 | | |
 |-|-|
-| *um* | **un** |
-| *uma* | **una** = **uma** | <!-- ñ = m -->
-
-| | |
-|-|-|
-| *fortuna* | **fortun̄a** [furˈtuna] |
+| *fortuna* | **fortun̄a** |
 | *lunar* | **lun̄arĕ** |
 | *menos* | **mïn̄ůs** |
 | *pena* | **pen̄a** |
@@ -331,7 +329,6 @@
 
 | | |
 |-|-|
-| *irmão* | **ğėrmano** = **irmaon** |
 | *país* | **pağėn̆sĕ** |
 
 | | |
@@ -680,4 +677,9 @@ complexo
 |-|-|
 | *tem* | **tenĕt** |
 | *têm* | **tenĕnt** |
+
+| | |
+|-|-|
+| *um* | **un** |
+| *uma* | **una** = **uma** | <!-- ñ = m -->
 
