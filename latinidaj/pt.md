@@ -2,6 +2,14 @@
 
 ## Conson̆antes
 
+### Finais
+
+#### -t
+
+| | |
+|-|-|
+| *e* | **et** |
+
 ### Mut̯adas
 
 #### p → b
@@ -13,7 +21,7 @@
 | *roda* | **rot̯a** |
 | *toda* | **tot̯a** |
 | | |
-| *mudadas* | **mut̯at̯as** = **mut̯adas** |
+| *mudada* | **mut̯at̯a** = **mut̯ada** |
 | *lido* | **lėct̯o** |
 
 #### l → r
@@ -33,11 +41,17 @@
 
 ### [i]
 
+#### ċ
+
+| | [i] |
+|-|-|
+| *perfeita* | **perfeċta** = **perfẽcta** | <!-- ? -->
+
 #### ḷ
 
 | | [i] |
 |-|-|
-| *muito* | **muḷto** |
+| *muito* | **muḷto** = **mũłto** | <!-- ? -->
 
 ##### pḷ-, fḷ-, cḷ-
 
@@ -53,17 +67,38 @@
 
 | | [] |
 |-|-|
-| *caidas* | **cađidas** |
+| *caida* | **cađida** |
+| *raio* | **rađio** |
 | | |
 | *rua* | **ruğa** |
 
-#### -pt-, -ct-
+#### pt, ct
 
 | | [t] |
 |-|-|
 | *cética* | **sceptica** |
+| *ótima* | **optima** |
 | | |
-| *junta* | **juncta** |
+| *ato* | **acto** |
+| *fruto* | **fructo** |
+| *noturno* | **nocturno** |
+| *tato* | **tacto** |
+| *teto* | **tecto** |
+| *trato* | **tracto** |
+| *vitima* | **victima** |
+
+| | |
+|-|-|
+| *leitora* | **leċtora** = **lẽctora** |
+| *noite* | **noċte** |
+| *oito* | **oċto** |
+| *seita* | **seċta** = **sẽcta** |
+
+| | |
+|-|-|
+| *facto* | **fac̄to** |
+| *pacto* | **pac̄to** |
+
 
 ## Voc̆ales
 
@@ -71,7 +106,9 @@
 
 | | [õ] |
 |-|-|
-| *com* | **cům** = **con** |
+| *com* | **con** |
+| *junta* | **juncta** |
+| *cem* | **cent** |
 
 ### Átonas
 
@@ -106,6 +143,7 @@
 | *gosto* | **gůsto** |
 | *dobro* | **důp̆l̯o** |
 | *chover* | **pḷůvere** |
+| *ponto* | **půncto** |
 
 | | [u] |
 |-|-|
@@ -117,20 +155,21 @@
 
 ### Diphthongadas
 
+| | [eĭ] |
+|-|-|
+| *aceitar* | **accẽptare** |
+
 | | [oŭ] |
 |-|-|
 | *tesouro* | **tesõro** |
 | *doutor* | **dõctore** |
 | *outubro* | **õctǒbro** |
 | | |
+| *ou* | **åut** = **õt** |
 | *ouro* | **åuro** = **õro** |
 | *ousar* | **åusarĕ** = **õsarĕ** |
 | *pouca* | **påuca** = **põca** |
 | *touro* | **tåuro** = **tõro** |
-
-| | [eĭ] |
-|-|-|
-| *aceitar* | **accẽptare** |
 
 ## Conson̆antes + Voc̆ales
 
@@ -147,7 +186,14 @@
 | *som* | **sonŏ** = **sono** |
 | *sons* | **sonŏs** = **sonos** |
 
-#### -õne
+#### -ãn
+
+| | [ãũ] |
+|-|-|
+| *mão* | **mãnŏ** = **mãno** |
+| *mãos* | **mãnŏs** = **mãnos** |
+
+#### -õn
 
 | | [ãũ]/[õĩs] |
 |-|-|
@@ -211,13 +257,6 @@
 | *tem* | **tenĕt** |
 | *têm* | **tenĕnt** |
 
-* **no** = **on**
-
-| | |
-|-|-|
-| *mão* | **mano** (**maon**) |
-| *mãos* | **manos** (**maons**) |
-
 | | |
 |-|-|
 | *capitã* | **capitană** |
@@ -257,12 +296,6 @@
 
 | | |
 |-|-|
-| *cem* | **cent** |
-| *e* | **et** |
-| *ou* | **åut** = **õt** |
-
-| | |
-|-|-|
 | *irmão* | **ğėrmano** = **irmaon** |
 | *mais* | **mağis** |
 | *país* | **pağėn̆sĕ** |
@@ -272,7 +305,6 @@
 | *juiz* | **juđicĕ** |
 | *pé* | **peđĕ** |
 | *raiz* | **rađicĕ** |
-| *raio* | **rađio** |
 | *vou* | **våđǒ** (**voo**) |
 
 | | |
@@ -300,37 +332,6 @@
 | | |
 |-|-|
 | *pessoa* | **peɍson̆a** |
-
-#### ct, pt
-
-| | |
-|-|-|
-| *ato* | **acto** |
-| *fruto* | **fructo** |
-| *noturno* | **nocturno** |
-| *ponto* | **půncto** |
-| *tato* | **tacto** |
-| *teto* | **tecto** |
-| *trato* | **tracto** |
-| | |
-| *vitima* | **victima** |
-
-| | |
-|-|-|
-| *leitora* | **leċtora** |
-| *noite* | **noċte** |
-| *oito* | **oċto** |
-| *perfeita* | **perfeċta** |
-| *seita* | **seċta** |
-
-| | |
-|-|-|
-| *facto* | **fac̄to** |
-| *pacto* | **pac̄to** |
-
-| | |
-|-|-|
-| *ótima* | **optima** |
 
 ### c, g
 
