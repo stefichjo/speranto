@@ -42,11 +42,33 @@
 
 ### Finais
 
-#### -t
-
 | | |
 |-|-|
 | *e* | **et** |
+
+### [i]
+
+#### ċ
+
+| | [i] |
+|-|-|
+| *perfeita* | **perfeċta** = **perfẽcta** | <!-- ? -->
+
+#### ḷ
+
+| | [i] |
+|-|-|
+| *muito* | **muḷto** = **mũłto** | <!-- ? -->
+
+##### pḷ-, fḷ-, cḷ-
+
+| | [ŝ] |
+|-|-|
+| *chumbo* | **pḷumbo** |
+| | |
+| *chama* | **fḷamma** |
+| | |
+| *chave* | **cḷave** |
 
 ### Mut̯adas
 
@@ -77,30 +99,6 @@
 | | |
 | *pelo* | **per̆-lo** |
 
-### [i]
-
-#### ċ
-
-| | [i] |
-|-|-|
-| *perfeita* | **perfeċta** = **perfẽcta** | <!-- ? -->
-
-#### ḷ
-
-| | [i] |
-|-|-|
-| *muito* | **muḷto** = **mũłto** | <!-- ? -->
-
-##### pḷ-, fḷ-, cḷ-
-
-| | [ŝ] |
-|-|-|
-| *chumbo* | **pḷumbo** |
-| | |
-| *chama* | **fḷamma** |
-| | |
-| *chave* | **cḷave** |
-
 ### Cađidas
 
 | | [] |
@@ -110,6 +108,12 @@
 | | |
 | *mais* | **mağis** |
 | *rua* | **ruğa** |
+| | |
+| *boa* | **bon̆a** |
+| *lua* | **lun̆a** |
+| *mesa* | **men̆sa** |
+| | |
+| *pessoa* | **peɍson̆a** |
 
 #### pt, ct
 
@@ -143,15 +147,13 @@
 
 ### Nasales
 
-| | [õ] |
+| | [~] |
 |-|-|
 | *com* | **con** |
 | *junta* | **juncta** |
 | *cem* | **cent** |
 
-### Átonas
-
-#### Finales
+### Finales
 
 | | [i] |
 |-|-|
@@ -170,6 +172,7 @@
 | | [e] |
 |-|-|
 | *pelo* | **pïlo** |
+| *seno* | **sïno** |
 | | |
 | *ela* | **ïlla** |
 | *ele* | **ïlle** |
@@ -180,12 +183,13 @@
 
 | | [o] |
 |-|-|
-| *fome* | **fåme** |
-| *por* | **pe̊r** |
-| *gosto* | **gůsto** |
-| *dobro* | **důp̆l̯o** |
 | *chover* | **pḷůvere** |
+| *dobro* | **důp̆l̯o** |
+| *fome* | **fåme** |
+| *gosto* | **gůsto** |
+| *menos* | **mïnůs** |
 | *ponto* | **půncto** |
+| *por* | **pe̊r** |
 
 | | [u] |
 |-|-|
@@ -193,13 +197,17 @@
 
 ### Cađidas
 
-<!-- -->
-
 ### Diphthongadas
 
 | | [eĭ] |
 |-|-|
 | *aceitar* | **accẽptare** |
+| *ceia* | **cẽn̆a** |
+| *veia* | **vẽn̆a** |
+
+| | [eĭ] |
+|-|-|
+| *seio* | **sĩn̆o** |
 
 | | [oŭ] |
 |-|-|
@@ -221,6 +229,9 @@
 |-|-|
 | *luz* | **luc̆ĕ** = **luce** |
 | *luzes* | **luc̆ės** = **luces** |
+| | |
+| *mês* | **men̆sĕ** = **men̆se** |
+| *mêses* | **men̆sės** = **men̆ses** |
 
 ### -ne, -no
 
@@ -241,6 +252,8 @@
 |-|-|
 | *lã* | **ląn̆ă** = **lană** = **lana** |
 | *rã* | **rąn̆ă** = **rană** = **rana** |
+| | |
+| *semana* | **seman̄ā** = **semanā** = **seman̄a** | <!-- ? -->
 
 | | [ãũ] |
 |-|-|
@@ -259,7 +272,7 @@
 | *sã* | **sąn̆ă** = **sana** |
 | *são* | **sąn̆o** = **sano** |
 
-#### -õn
+#### -õne
 
 | | [ãũ]/[õĩs] |
 |-|-|
@@ -288,6 +301,8 @@
 |-|-|
 | *flor* | **florĕ** = **flore** |
 | *flores* | **florės** = **flores** |
+| | |
+| *soar* | **son̆arĕ** |
 
 #### lĭ, nĭ
 
@@ -303,25 +318,9 @@
 | *rainha* | **rȇğiṇa** | [-ṇ-] |
 | *vinho* | **viṇo** | [-ṇ-] |
 
-
-
-
-
-
 -----
 
 # ?
-
-### ?Voc̆ales nasales
-
-| | |
-|-|-|
-| *fortuna* | **fortun̄a** |
-| *lunar* | **lun̄arĕ** |
-| *menos* | **mïn̄ůs** |
-| *pena* | **pen̄a** |
-| *semana* | **seman̄a** |
-| *seno* | **sïn̄o** |
 
 ## ?Conson̆antes
 
@@ -347,22 +346,6 @@
 | *doce* | **důłce** |
 | *só* | **sołŏ** |
 | *voar* | **vołarĕ** |
-
-| | |
-|-|-|
-| *ceia* | **cẽn̆a** |
-| *lua* | **lun̆a** |
-| *mês* | **men̆sĕ** |
-| *mesa* | **men̆sa** |
-| *seio* | **sĩn̆o** |
-| *soar* | **son̆arĕ** |
-| *veia* | **vẽn̆a** |
-| | |
-| *boa* | **bon̆a** |
-
-| | |
-|-|-|
-| *pessoa* | **peɍson̆a** |
 
 ### c, g
 
