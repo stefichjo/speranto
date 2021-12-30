@@ -46,21 +46,29 @@
 |-|-|
 | *e* | **et** |
 
-### [i]
+### Vocalizadas
 
-#### ċ
+#### [ĭ]
 
-| | [i] |
+##### ċ
+
+| | [ĭ] |
 |-|-|
-| *perfeita* | **perfeċta** = **perfẽcta** | <!-- ? -->
+| *perfeita* | **perfeċta** |
+| *leitora* | **leċtora** |
+| *noite* | **noċte** |
+| *oito* | **oċto** |
+| *seita* | **seċta** |
+| | |
+| *reino* | **reġno** |
 
-#### ḷ
+##### ḷ
 
-| | [i] |
+| | [ĭ] |
 |-|-|
-| *muito* | **muḷto** = **mũłto** | <!-- ? -->
+| *muito* | **muḷto** |
 
-##### pḷ-, fḷ-, cḷ-
+###### pḷ-, fḷ-, cḷ-
 
 | | [ŝ] |
 |-|-|
@@ -69,6 +77,21 @@
 | *chama* | **fḷamma** |
 | | |
 | *chave* | **cḷave** |
+
+#### [ŭ]
+
+##### ¢ <!-- c with ring above? -->
+
+| | [ŭ] |
+|-|-|
+| *doutor* | **do¢tore** |
+| *outubro* | **o¢tǒbro** | <!-- ǒ -->
+
+##### ł
+
+| | [ŭ] |
+|-|-|
+| *outra* | **åłtra** |
 
 ### Mut̯adas
 
@@ -129,13 +152,6 @@
 | *teto* | **tecto** |
 | *trato* | **tracto** |
 | *vitima* | **victima** |
-
-| | |
-|-|-|
-| *leitora* | **leċtora** = **lẽctora** |
-| *noite* | **noċte** |
-| *oito* | **oċto** |
-| *seita* | **seċta** = **sẽcta** |
 
 | | |
 |-|-|
@@ -212,8 +228,6 @@
 | | [oŭ] |
 |-|-|
 | *tesouro* | **tesõro** |
-| *doutor* | **dõctore** |
-| *outubro* | **õctǒbro** |
 | | |
 | *ou* | **åut** = **õt** |
 | *ouro* | **åuro** = **õro** |
@@ -258,6 +272,7 @@
 | | [ãũ] |
 |-|-|
 | | |
+| *chão* | **pḷąn̆o** = **pḷano** |
 | *mão* | **mąn̆o** = **mano** |
 | *vulcão* | **vulcąn̆o** = **vulcano** | <!-- vulcões (kiel nação/nações) anstataŭ vulcãos -->
 
