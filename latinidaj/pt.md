@@ -2,6 +2,16 @@
 
 ## Conson̆antes
 
+### c/qu, g/gu
+
+| | [k] |
+|-|-|
+| *que* | **qŭe** = **que** |
+
+| | [g] |
+|-|-|
+| *guerra* | **gŭerra** = **guerra** |
+
 ### Duplas
 
 #### ll
@@ -377,21 +387,7 @@
 
 -----
 
-# ?
-
-## ?Conson̆antes
-
-### ?Conson̆antes cađidas
-
-#### qu, gu
-
-| | |
-|-|-|
-| *que* | **qŭe** = **que** |
-| | |
-| *guerra* | **gŭerra** = **guerra** |
-
-### t, d
+# t, d
 
 | | |
 |-|-|
@@ -405,7 +401,7 @@
 | *cidade* | **civĭt̯at̯e** = **civĭt̯ade** |
 | *universidade* | **universit̯at̯e** = **universit̯ade** |
 
-#### tĭ, dĭ
+## tĭ, dĭ
 
 | | |
 |-|-|
@@ -413,7 +409,7 @@
 | | |
 | *hoje* | **hodĭe** |
 
-#### tı
+### tı
 
 | | |
 |-|-|
@@ -431,7 +427,7 @@
 | *coração* | **coratıõnĕ** [koraˈsɜ̃w] |
 | *corações* | **coratıones** |[koraˈsõjs] |
 
-### sc
+## sc
 
 | | |
 |-|-|
@@ -443,7 +439,7 @@
 |-|-|
 | *crescer* | **cresc̄erĕ** [s] |
 
-### x
+## x
 
 | | |
 |-|-|
@@ -483,20 +479,20 @@ tóxico
 oxigênio
 complexo
 
-##### sĭ
+## sĭ
 
 | | |
 |-|-|
 | *beijo* | **bäṡĭo** (**beisĭo**) |
 
-##### sı
+### sı
 
 | | |
 |-|-|
 | *camisa* | **camisıa** |
 | *prisão* | **prėn̆sıõnĕ** (**prisaon**) |
 
-### ch, ph, th, x, y
+## ch, ph, th, x, y
 
 | | |
 |-|-|
