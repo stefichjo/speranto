@@ -51,10 +51,6 @@
 | *casa* | **casa** |
 | *rosa* | **rosa** |
 
-
-
-
-
 ### Assimiladas
 
 #### pt → t
@@ -87,6 +83,28 @@
 |-|-|
 | *cena* | **scena** |
 
+
+#### x → ss
+
+| | [s] |
+|-|-|
+| *máxima* | **maxima** |
+| *próxima* | **proxima** |
+
+| | [ks] |
+|-|-|
+| *complexa* | **complex̄a** |
+| *fixa* | **fix̄a** |
+| *oxigênio* | **ox̄igenio** | <!-- oxigénio PT -->
+| *táxi* | **tax̄i** |
+| *tóxica* | **tox̄ica** |
+
+| | [ŝ] |
+|-|-|
+| *luxo* | **lux̂o** |
+| *mexer* | **mex̂erĕ** = **mex̂ere** | <!-- mïscŭḷäre -->
+| *México* | **Mex̂ico** |
+
 #### lĭ, nĭ
 
 | | [ḷ] |
@@ -115,11 +133,11 @@
 
 ##### ti, di
 
-| | [tŝ] |
+| | [tŝi] |
 |-|-|
 | *tio* | **t̂io** = **tio** |
 
-| | [dĵ] |
+| | [dĵi] |
 |-|-|
 | *dia* | **d̂ia** = **dia** |
 
@@ -162,10 +180,18 @@
 | *ceia* | **ceṅa** |
 | *veia* | **veṅa** |
 
+
+##### ṗ
+
+| | [ĭŝ] |
+|-|-|
+| *caixa* | **caṗsa** | <!-- x -->
+
 ##### ṡ
 
 | | [ĭŝ] |
 |-|-|
+| *baixa* | **baṡsa** |
 | *peixe* | **peṡce** | <!-- x -->
 
 #### [ŭ]
@@ -185,7 +211,7 @@
 | | |
 | *outra* | **åłtra** | <!-- å --> <!-- 🇧🇷 åltra -->
 
-### Mut̯adas
+### Mut̯adas <!-- voĉigitaj/lenigitaj -->
 
 #### p → b
 
@@ -208,10 +234,17 @@
 |-|-|
 | *água* | **aq̆ua** |
 | *advogado* | **advoc̆at̯o** = **advoc̆ado** |
-| | |
 | *segunda* | **sec̆unda** |
 
-#### l / r
+#### x → z
+
+| | [z] |
+|-|-|
+| *exata* | **ex̆acta** |
+| *exemplo* | **ex̆emplo** |
+| *êxito* | **ex̆ito** |
+
+#### l / r <!-- tio ĉi estas io alia -->
 
 | | [l] |
 |-|-|
@@ -283,6 +316,7 @@
 | | [e] |
 |-|-|
 | *pelo* | **pïlo** |
+| *seis*   | **sïẋ** |
 | *seno* | **sïno** |
 | *vez* | **vïc̆ĕ** = **vïce** | <!-- c̆ĕ -->
 | | |
@@ -436,55 +470,25 @@
 | *flores* | **florės** = **flores** |
 | | |
 | *abrir* | **ap̆rirĕ** = **ap̆rire** |
+| *auxiliar* | **auxiliarĕ** = **auxiliare** |
+| *chamar* | **cḷamarĕ** = **cḷamare** |
 | *crescer* | **crescerĕ** = **crescere** |
 | *mulher* | **mulĭerĕ** = **mulĭere** |
 | *seguir* | **seq̆ŭirĕ** = **seq̆uire** |
 | *soar* | **son̆arĕ** = **son̆are** |
 | *voar* | **vołarĕ** = **vołare** |
 
------
+### -te, -de
+
+| | [tŝi] |
+|-|-|
+| *excelente* | **excelent̂ė** = **excelente** |
+
+| | [dĵi] |
+|-|-|
+| *de* | **d̂ė** = **de** |
 
 # ?
-
-## x
-
-| | |
-|-|-|
-| *exata*  | **exacta** [z]       |
-| *máxima* | **maxima** [ˈmasima] |
-| *seis*   | **sĩx**    [s]       |
-| *táxi*   | **taxi**   [ks]      |
-
-x = s
-exemplo
-excelente
-êxito
-
-x = ss
-auxiliar
-máximo
-próximo
-
-x = ch < *sc
-mexer
-peixe
-
-x = ch < *ps
-caixa
-
-x = ch < *ss
-baixo
-
-x = ch
-mexico
-luxo
-
-x = cs
-táxi
-fixo
-tóxico
-oxigênio
-complexo
 
 ## sĭ
 
@@ -504,9 +508,6 @@ complexo
 | | |
 |-|-|
 | *arquitetura* | **architectura** |
-| | |
-| *táxi* | **tax̄i** [ks] |
-| *tóxica* | **tox̄ica** [ks] |
 | | |
 | *ditongo* | **diphthongo** |
 | | |
