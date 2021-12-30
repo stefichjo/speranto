@@ -586,7 +586,7 @@
 |-|-|
 | *amar* | **amare** |
 | | |
-| *vender* | **vendere** |
+| *prender* | **prendere** |
 | | |
 | *partir* | **partire** |
 
@@ -595,6 +595,7 @@
 <!-- -mus/-můs ? -->
 <!-- -đis/-đės ? -->
 <!-- -ent/-ünt ? -->
+<!-- -ïs = -es -->
 
 | | | | | |
 |-|-|-|-|-|
@@ -602,9 +603,9 @@
 | *amas* | **amas** | | *amais*  | **amađis** |
 | *ama*  | **amat** | | *amam*   | **amant**  |
 | | | | | |
-| *vendo*  | **vendo**  | | *vendemos* | **vendemus** |
-| *vendes* | **vendes** | | *vendeis*  | **vendeđis** |
-| *vende*  | **vendet** | | *vendem*   | **vendent**  |
+| *prendo*  | **prendo**  | | *prendemos* | **prendemus** |
+| *prendes* | **prendes** | | *prendeis*  | **prendeđis** |
+| *prende*  | **prendet** | | *prendem*   | **prendent**  |
 | | | | | |
 | *parto*  | **parto**  | | *partimos* | **partimus** |
 | *partes* | **partes** | | *partis*   | **partiđis** | <!-- ís ? -->
@@ -620,9 +621,9 @@
 | *amavas* | **amavas** | | *amáveis*  | **amaväđis** |
 | *amava*  | **amavat** | | *amavam*   | **amavant**  |
 | | | | | |
-| *vendia*  | **vendiam** | | *vendíamos* | **vendiamus** |
-| *vendias* | **vendias** | | *vendíeis*  | **vendiäđis** |
-| *vendia*  | **vendiat** | | *vendiam*   | **vendiant**  |
+| *prendia*  | **prendiam** | | *prendíamos* | **prendiamus** |
+| *prendias* | **prendias** | | *prendíeis*  | **prendiäđis** |
+| *prendia*  | **prendiat** | | *prendiam*   | **prendiant**  |
 | | | | | |
 | *partia*  | **partiam** | | *partíamos* | **partiamus** |
 | *partias* | **partias** | | *partíeis*  | **partiäđis** |
@@ -630,22 +631,38 @@
 
 ## {-intas}
 
-<!-- ŭĭ → - -->
+<!-- ŭĭ, ŭĕ → - -->
 <!-- -stis/-stïs ? -->
 
 | | | | | |
 |-|-|-|-|-|
 | *amei*   | **amäŭi**  | | *amamos*  | **amamus**  |
-| *amasti* | **amasti** | | *amastes* | **amastis** |
+| *amaste* | **amasti** | | *amastes* | **amastis** |
 | *amou*   | **amåuĭt** | | *amaram*  | **amarant** |
 | | | | | |
-| *vendi*    | **???** | | *vendemos*  | **???** |
-| *vendesti* | **???** | | *vendestes* | **???** |
-| *vendeu*   | **???** | | *venderam*  | **???** |
+| *prendi*    | **prendĕŭi**  | | *prendemos*  | **prendemus**  |
+| *prendeste* | **prendesti** | | *prendestes* | **prendestis** |
+| *prendeu*   | **prendeuĭt** | | *prenderam*  | **prenderant** |
 | | | | | |
-| *parti*    | **???** | | *partimos*  | **???** |
-| *partiste* | **???** | | *partistes* | **???** |
-| *partiu*   | **???** | | *partiram*  | **???** |
+| *parti*    | **partĭŭi**  | | *partimos*  | **partimus** |
+| *partiste* | **partisti** | | *partistes* | **partistis** |
+| *partiu*   | **partiuĭt** | | *partiram*  | **partirant** |
+
+## {-intis}
+
+| | | | | |
+|-|-|-|-|-|
+| *amara*  | **amaram** | | *amáramos* | **amaramus** |
+| *amaras* | **amaras** | | *amáreis*  | **amaräđis** |
+| *amara*  | **amarat** | | *amaram*   | **amarant**  |
+| | | | | |
+| *prendera*  | **prenderam** | | *prendêramos* | **prenderamus** |
+| *prenderas* | **prenderas** | | *prendêreis*  | **prenderäđis** |
+| *prendera*  | **prenderat** | | *prenderam*   | **prenderant**  |
+| | | | | |
+| *partira*  | **partiram** | | *partíramos* | **partiramus** |
+| *partiras* | **partiras** | | *partíreis*  | **partiräđis** |
+| *partira*  | **partirat** | | *partiram*   | **partirant**  |
 
 # ?
 
