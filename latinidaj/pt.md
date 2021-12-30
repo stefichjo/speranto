@@ -180,6 +180,7 @@
 |-|-|
 | *escrever* | **s̈crïvere** |
 | *esfera* | **s̈phæra** |
+| *espaço* | **s̈patıo** |
 | *estação* | **s̈tatıõne** |
 
 #### → i
@@ -217,8 +218,8 @@
 
 | | [ĭ] |
 | *ceia* | **ceṅa** |
+| *cheia* | **pḷeṅa** |
 | *veia* | **veṅa** |
-
 
 ##### ṗ
 
@@ -227,6 +228,13 @@
 | *caixa* | **caṗsa** | <!-- x -->
 
 ##### ṡ
+
+| | |
+|-|-|
+| *coisa* | **cåu̇sa** = **coṡa** |
+| *dois* | **doṡ** |
+
+###### ṡs
 
 | | [ĭŝ] |
 |-|-|
@@ -322,7 +330,7 @@
 | | |
 |-|-|
 | *hiena* | **hyæna** |
-| *física* | **physica** |
+| *física* | **physica** | <!-- get a section -->
 
 ### Nasales
 
@@ -359,9 +367,11 @@
 
 | | [e] |
 |-|-|
+| *certeza* | **certït̯ıa** = **certeza** |
 | *pelo* | **pïlo** |
 | *seis*   | **sïẋ** |
-| *seno* | **sïno** |
+| *seio* | **sïṅo** | <!-- sino -->
+| *seno* | **sïno** | <!-- sinuso -->
 | *vez* | **vïc̆ĕ** = **vïce** | <!-- c̆ĕ -->
 | | |
 | *ela* | **ïlla** |
@@ -381,6 +391,7 @@
 | *menos* | **mïnůs** |
 | *ponto* | **půncto** |
 | *por* | **pe̊r** |
+| *soma* | **sůmma** |
 
 | | [u] |
 |-|-|
@@ -390,11 +401,15 @@
 
 | | |
 |-|-|
+| *cama* | **camĕra** |
 | *cidade* | **civĭt̯at̯e** = **civĭt̯ade** |
 | *começo* | **comïn̆ĭtıo** |
 | *pé* | **peđĕ** |
 | *pobre* | **påŭp̆ĕre** |
 | *só* | **sołŏ** |
+| | |
+| *dom* | **domĭnŏ** |
+| *dona* | **domĭna** |
 
 ### Diphthongadas
 
@@ -455,7 +470,7 @@
 | *som* | **sonŏ** = **sono** |
 | *sons* | **sonŏs** = **sonos** |
 
-#### -ąn̆ă/-ąn̆o
+### -ąn̆ă/-ąn̆o
 
 | | [ã] |
 |-|-|
@@ -467,9 +482,11 @@
 | | [ãũ] |
 |-|-|
 | | |
-| *chão* | **pḷąn̆o** = **pḷano** |
 | *mão* | **mąn̆o** = **mano** |
 | *vulcão* | **vulcąn̆o** = **vulcano** | <!-- vulcões (kiel nação/nações) anstataŭ vulcãos -->
+| | |
+| *cão* | **cane̊** | <!-- cães = canes -->
+| *pão* | **pane̊** | <!-- pães = panes -->
 
 | | [ã]/[ãũ] |
 |-|-|
@@ -481,8 +498,15 @@
 | | |
 | *sã* | **sąn̆ă** = **sana** |
 | *são* | **sąn̆o** = **sano** |
+| | |
+| *chã* | **pḷąn̆ă** = **pḷana** |
+| *chão* | **pḷąn̆o** = **pḷano** |
+| | |
+| *manhã* | **manĭąn̆ă** = **manĭana** |
 
-#### -õne/-ones
+<!-- rim = rïnĕ = rïne -->
+
+### -õne/-ones
 
 | | [ãũ]/[õĩs] |
 |-|-|
@@ -499,6 +523,9 @@
 | | |
 | *coração* | **coratıõnĕ** = **coratıõne** |
 | *corações* | **coratıonės** = **coratıones** |
+| | |
+| *milhão* | **millĭõnĕ** = **millĭõne** |
+| *milhões* | **millĭonės** = **millĭones** |
 
 ### -le, -re
 
@@ -654,35 +681,6 @@
 
 | | |
 |-|-|
-| *cama* | **camĕra** |
-
-| | | |
-|-|-|-|
-| *manhã* | **manĭană** | [-ṇ] |
-
-<!--
-| | |
-| *pão* | **pane̊** (**paon**) = **põnĕ** (**paun**) |
-| *pães* | **panes** |
--->
-
-| | |
-|-|-|
-| *coisa* | **cåu̇sa** = **cõṡa** (**coisa**) |
-| *dois* | **dõṡ** (**dois**) |
-
-| | |
-| *milhão* | **millĭõn** |
-
-| *soma* | **sůmma** |
-
-
-| | |
-| *dom* | **domĭnŏ** |
-| *dona* | **domĭna** |
-
-| | |
-|-|-|
 | *tem* | **tenĕt** |
 | *têm* | **tenĕnt** |
 
@@ -690,15 +688,3 @@
 |-|-|
 | *um* | **un** |
 | *uma* | **una** = **uma** | <!-- ñ = m -->
-
-| *espaço* | **s̈patıo** |
-
-| | |
-|-|-|
-| *certeza* | **certït̯ıa** = **certeza** |
-
-| | [eĭ] |
-|-|-|
-| *cheio* | **pḷeṅo** |
-| *seio* | **sïṅo** |
-
