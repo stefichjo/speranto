@@ -599,6 +599,14 @@
 | *amarei* | **amarẽ**  | | *amaremos* | **amaremus** |
 | *amarás* | **amaras** | | *amareis*  | **amaređis** |
 | *amará*  | **amarat** | | *amarão*   | **amarano**  |
+| | | | | |
+| *prenderei* | **prederẽ**  | | *prenderemos* | **prederemus** |
+| *prenderás* | **prederas** | | *prendereis*  | **predeređis** |
+| *prenderá*  | **prederat** | | *prenderão*   | **prederano**  |
+| | | | | |
+| *partirei* | **partirẽ**  | | *partiremos* | **partiremus** |
+| *partirás* | **partiras** | | *partireis*  | **partiređis** |
+| *partirá*  | **partirat** | | *partirão*   | **partirano**  |
 
 <!-- TODO -> verbos irregulares -->
 <!-- hăŭ → h -->
@@ -629,8 +637,27 @@
 | *partirias* | **partirias** | | *partiríeis*  | **partiriäđis** |
 | *partiria*  | **partiriat** | | *partiriam*   | **partiriant**  |
 
+### {do -us}
+
+<!-- infinitivo/ŭĕ + ... ??? -->
+
+| | | | | |
+|-|-|-|-|-|
+| *amar*   | **???** | | *amarmos* | **???** |
+| *amares* | **???** | | *amardes*  | **???** |
+| *amar*   | **???** | | *amarem*   | **???**  |
+| | | | | |
+| *prender*  | **???** | | *prendermos* | **???** |
+| *prenderes* | **???** | | *prenderdes*  | **???** |
+| *prender*  | **???** | | *prenderem*   | **???**  |
+| | | | | |
+| *partir*  | **???** | | *partirmos* | **???** |
+| *partires* | **???** | | *partirdes*  | **???** |
+| *partir*  | **???** | | *partirem*   | **???**  |
+
 ## {-as}
 
+<!-- Indikativ Präsens (Imperfekt) -->
 <!-- -mus/-můs ? -->
 <!-- -đis/-đės ? -->
 <!-- -ent/-ünt ? -->
@@ -652,6 +679,7 @@
 
 ### {-intas}
 
+<!-- Indikativ (Präsens) Perfekt -->
 <!-- ŭĭ, ŭĕ → - -->
 <!-- -stis/-stïs ? -->
 
@@ -669,8 +697,27 @@
 | *partiste* | **partisti** | | *partistes* | **partistis** |
 | *partiu*   | **partiuĭt** | | *partiram*  | **partirant** |
 
+### {ke -u}
+
+<!-- Konjunktiv Präsens (Imperfekt) -->
+
+| | | | | |
+|-|-|-|-|-|
+| *ame*  | **amem** | | *amemos* | **amemus** |
+| *ames* | **ames** | | *ameis*  | **ameđis** |
+| *ame*  | **amet** | | *amem*   | **ament**  |
+| | | | | |
+| *prenda*  | **prendam**  | | *prendamos* | **prendamus** |
+| *prendas* | **prendas** | | *prendais*  | **prendađis** |
+| *prenda*  | **prendat** | | *prendam*   | **prendant**  |
+| | | | | |
+| *parta*  | **partam**  | | *partamos* | **partamus** |
+| *partas* | **partas** | | *partais*   | **partađis** |
+| *parta*  | **partat** | | *partam*   | **partant**  |
+
 ## {-is}
 
+<!-- Indikativ (Präteritum) Imperfekt -->
 <!-- ƀ → - -->
 
 | | | | | |
@@ -689,6 +736,7 @@
 
 ### {-intis}
 
+<!-- Indikativ Plusquamperfekt (= Indikativ Präteritum Perfekt) -->
 <!-- ŭĕ → - -->
 
 | | | | | |
@@ -705,3 +753,21 @@
 | *partiras* | **partiras** | | *partíreis*  | **partiräđis** |
 | *partira*  | **partirat** | | *partiram*   | **partirant**  |
 
+### {se -us}
+
+<!-- Konjunktiv Plusquamperfekt (= Konjunktiv Präteritum Perfekt) -->
+<!-- ŭĭ, ŭĕ → - -->
+
+| | | | | |
+|-|-|-|-|-|
+| *amasse*  | **amassem** | | *amássemos* | **amassemus** |
+| *amasses* | **amasses** | | *amásseis*  | **amasseđis** |
+| *amasse*  | **amasset** | | *amassem*   | **amassent**  |
+| | | | | |
+| *prendia*  | **prendiam** | | *prendíamos* | **prendiamus** |
+| *prendias* | **prendias** | | *prendíeis*  | **prendiäđis** |
+| *prendia*  | **prendiat** | | *prendiam*   | **prendiant**  |
+| | | | | |
+| *partia*  | **partiam** | | *partíamos* | **partiamus** |
+| *partias* | **partias** | | *partíeis*  | **partiäđis** |
+| *partia*  | **partiat** | | *partiam*   | **partiant**  |
