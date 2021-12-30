@@ -441,6 +441,12 @@
 
 ## Conson̆antes Finales
 
+### -m
+
+| | |
+|-|-|
+| *já* | **jam** |
+
 ### -t
 
 | | |
@@ -574,9 +580,21 @@
 
 # Conjugatıõne
 
+## {-i}
+
+| | |
+|-|-|
+| *amar* | **amare** |
+| | |
+| *vender* | **vendere** |
+| | |
+| *partir* | **partire** |
+
 ## {-as}
 
 <!-- -mus/-můs ? -->
+<!-- -đis/-đės ? -->
+<!-- -ent/-ünt ? -->
 
 | | | | | |
 |-|-|-|-|-|
@@ -592,23 +610,46 @@
 | *partes* | **partes** | | *partis*   | **partiđis** | <!-- ís ? -->
 | *parte*  | **partet** | | *partem*   | **partent**  |
 
+## {-is}
+
+<!-- ƀ → - -->
+
+| | | | | |
+|-|-|-|-|-|
+| *amava*  | **amavam** | | *amávamos* | **amamus** |
+| *amavas* | **amavas** | | *amáveis*  | **amaväđis** |
+| *amava*  | **amavat** | | *amavam*   | **amavant**  |
+| | | | | |
+| *vendia*  | **vendiam** | | *vendíamos* | **vendiamus** |
+| *vendias* | **vendias** | | *vendíeis*  | **vendiäđis** |
+| *vendia*  | **vendiat** | | *vendiam*   | **vendiant**  |
+| | | | | |
+| *partia*  | **partiam** | | *partíamos* | **partiamus** |
+| *partias* | **partias** | | *partíeis*  | **partiäđis** |
+| *partia*  | **partiat** | | *partiam*   | **partiant**  |
+
+## {-intas}
+
+<!-- ŭĭ → - -->
+<!-- -stis/-stïs ? -->
+
+| | | | | |
+|-|-|-|-|-|
+| *amei*   | **amäŭi**  | | *amamos*  | **amamus**  |
+| *amasti* | **amasti** | | *amastes* | **amastis** |
+| *amou*   | **amåuĭt** | | *amaram*  | **amarant** |
+| | | | | |
+| *vendi*    | **???** | | *vendemos*  | **???** |
+| *vendesti* | **???** | | *vendestes* | **???** |
+| *vendeu*   | **???** | | *venderam*  | **???** |
+| | | | | |
+| *parti*    | **???** | | *partimos*  | **???** |
+| *partiste* | **???** | | *partistes* | **???** |
+| *partiu*   | **???** | | *partiram*  | **???** |
+
 # ?
 
 ## ?Conjugatıõnĕ
-
-* -**äŭi** = -**ei**
-* -**åuĭt** = -**ou**
-* -**stï** = -**ste**
-* -**stïs** = -**stes**
-* -**äđis** = -**eis**
-* -**iđis** = -**is**
-* -**dïs** = -**des**
-
-| | imperfeito | perfeito | subjunctivo |
-|-|-|-|-|
-| presente | | |
-| pretérito | | | |
-| futuro | | | |
 
 ### -arĕ
 
