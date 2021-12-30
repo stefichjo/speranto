@@ -70,7 +70,6 @@
 
 | | [t] |
 |-|-|
-| *cética* | **sceptica** |
 | *ótima* | **optima** |
 
 ##### ct → t
@@ -97,10 +96,12 @@
 | | [s] |
 |-|-|
 | *cena* | **scena** |
+| *cética* | **sceptica** |
 
 ##### ps → ss
 
 | | [s] |
+|-|-|
 | *gesso* | **gÿpso** |
 
 ##### x → ss
@@ -131,6 +132,7 @@
 | *filho* | **filĭo** |
 
 | | [ṇ] |
+|-|-|
 | *banho* | **banĭo** |
 | | |
 | *vinho* | **viṇo** |
@@ -217,6 +219,7 @@
 ##### ṅ
 
 | | [ĭ] |
+|-|-|
 | *ceia* | **ceṅa** |
 | *cheia* | **pḷeṅa** |
 | *veia* | **veṅa** |
@@ -398,6 +401,7 @@
 | *menos* | **mïnůs** |
 | *ponto* | **půncto** |
 | *por* | **pe̊r** |
+| *roxa* | **růŝsa** |
 | *soma* | **sůmma** |
 
 | | [u] |
@@ -474,6 +478,9 @@
 | *fim* | **finĕ** = **fine** |
 | *fins* | **finĕs** = **fines** |
 | | |
+| *rim* | **rėnĕ** = **rėne** |
+| *rins* | **rėnĕs** = **rėnes** |
+| | |
 | *som* | **sonŏ** = **sono** |
 | *sons* | **sonŏs** = **sonos** |
 
@@ -510,8 +517,6 @@
 | *chão* | **pḷąn̆o** = **pḷano** |
 | | |
 | *manhã* | **manĭąn̆ă** = **manĭana** |
-
-<!-- rim = rïnĕ = rïne -->
 
 ### -õne/-ones
 
