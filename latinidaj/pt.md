@@ -572,15 +572,30 @@
 |-|-|
 | *de* | **d̂ė** = **de** |
 
+# Conjugatıõne
+
+## {-as}
+
+<!-- -mus/-můs ? -->
+
+| | | | | |
+|-|-|-|-|-|
+| *amo*  | **amo**  | | *amamos* | **amamus** |
+| *amas* | **amas** | | *amais*  | **amađis** |
+| *ama*  | **amat** | | *amam*   | **amant**  |
+| | | | | |
+| *vendo*  | **vendo**  | | *vendemos* | **vendemus** |
+| *vendes* | **vendes** | | *vendeis*  | **vendeđis** |
+| *vende*  | **vendet** | | *vendem*   | **vendent**  |
+| | | | | |
+| *parto*  | **parto**  | | *partimos* | **partimus** |
+| *partes* | **partes** | | *partis*   | **partiđis** | <!-- ís ? -->
+| *parte*  | **partet** | | *partem*   | **partent**  |
+
 # ?
 
 ## ?Conjugatıõnĕ
 
-* -**mus** = -**mos**
-* -**nt** = -**m**
-* -**đis** = -**is**
-* -**m** = -
-* -**t** = -
 * -**äŭi** = -**ei**
 * -**åuĭt** = -**ou**
 * -**stï** = -**ste**
