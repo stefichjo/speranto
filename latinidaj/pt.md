@@ -9,6 +9,7 @@
 | | |
 |-|-|
 | *bela* | **bella** |
+| *cela* | **cella** |
 | *colo* | **collo** |
 
 #### mm
@@ -40,11 +41,29 @@
 | *casa* | **casa** |
 | *rosa* | **rosa** |
 
-### Finais
+
+
+
+
+### Assimiladas
+
+| | [t] |
+|-|-|
+| *cética* | **sceptica** |
+| *ótima* | **optima** |
+| | |
+| *ato* | **acto** |
+| *fruto* | **fructo** |
+| *noturno* | **nocturno** |
+| *tato* | **tacto** |
+| *teto* | **tecto** |
+| *trato* | **tracto** |
+| *vitima* | **victima** |
 
 | | |
 |-|-|
-| *e* | **et** |
+| *facto* | **fac̄to** |
+| *pacto* | **pac̄to** |
 
 ### Vocalizadas
 
@@ -91,7 +110,9 @@
 
 | | [ŭ] |
 |-|-|
-| *outra* | **åłtra** |
+| *alta* | **ałta** = **alta** |
+| | |
+| *outra* | **åłtra** | <!-- å --> <!-- 🇧🇷 åltra -->
 
 ### Mut̯adas
 
@@ -107,20 +128,26 @@
 | *mudada* | **mut̯at̯a** = **mut̯ada** |
 | *lido* | **lėct̯o** |
 
-#### l → r
+#### c → g
 
-| | [r] |
+| | [g] |
 |-|-|
-| *branco* | **bl̯anco** |
-| *prato* | **pl̯ato** |
+| *amigo* | **amic̆o** |
+| *fogo* | **foc̆o** |
+| *segundo* | **sec̆undo** |
 
-#### r → l
+#### l / r
 
 | | [l] |
 |-|-|
 | *bolsa* | **bor̆sa** |
 | | |
 | *pelo* | **per̆-lo** |
+
+| | [r] |
+|-|-|
+| *branco* | **bl̯anco** |
+| *prato* | **pl̯ato** |
 
 ### Cađidas
 
@@ -138,27 +165,6 @@
 | | |
 | *pessoa* | **peɍson̆a** |
 
-#### pt, ct
-
-| | [t] |
-|-|-|
-| *cética* | **sceptica** |
-| *ótima* | **optima** |
-| | |
-| *ato* | **acto** |
-| *fruto* | **fructo** |
-| *noturno* | **nocturno** |
-| *tato* | **tacto** |
-| *teto* | **tecto** |
-| *trato* | **tracto** |
-| *vitima* | **victima** |
-
-| | |
-|-|-|
-| *facto* | **fac̄to** |
-| *pacto* | **pac̄to** |
-
-
 ## Voc̆ales
 
 ### Nasales
@@ -174,14 +180,17 @@
 | | [i] |
 |-|-|
 | *nome* | **nomė** = **nome** |
+| *vai* | **vađė** = **vađe** |
 
 | | [u] |
 |-|-|
 | *como* | **comǒ** = **como** |
 | *porto* | **portǒ** = **porto** |
 | | |
+| *eu* | **eğǒ** = **eo** |
 | *meu* | **meǒ** = **meo** |
 | *museu* | **museǒ** = **museo** |
+| *vou* | **våđǒ** = **våđo** |
 
 ### Mut̯adas
 
@@ -189,6 +198,7 @@
 |-|-|
 | *pelo* | **pïlo** |
 | *seno* | **sïno** |
+| *vez* | **vïc̆ĕ** = **vïce** | <!-- c̆ĕ -->
 | | |
 | *ela* | **ïlla** |
 | *ele* | **ïlle** |
@@ -213,6 +223,10 @@
 
 ### Cađidas
 
+| | |
+|-|-|
+| *pé* | **peđĕ** |
+
 ### Diphthongadas
 
 | | [eĭ] |
@@ -235,9 +249,15 @@
 | *pouca* | **påuca** = **põca** |
 | *touro* | **tåuro** = **tõro** |
 
-## Conson̆antes con Voc̆ales
+## Conson̆antes Finales <!-- precipe -->
 
-### -ce
+### -t
+
+| | |
+|-|-|
+| *e* | **et** |
+
+### -ce, -se
 
 | | [s]/[zis] |
 |-|-|
@@ -246,6 +266,12 @@
 | | |
 | *mês* | **men̆sĕ** = **men̆se** |
 | *mêses* | **men̆sės** = **men̆ses** |
+| | |
+| *raiz* | **rađic̆ĕ** = **rađice** |
+| *raízes* | **rađic̆ės** = **rađices** |
+| | |
+| *país* | **pağėn̆sĕ** = **pağėn̆se** |
+| *países* | **pağėn̆sės** = **pağėn̆ses** |
 
 ### -ne, -no
 
@@ -299,12 +325,6 @@
 | *limão* | **limõnĕ** = **limõne** |
 | *limões* | **limonės** = **limones** | <!-- ? -->
 
-### -l-
-
-| | [ŭ] |
-|-|-|
-| *alta* | **ałta** = **alta** |
-
 ### -le, -re
 
 | | [ŭ]/[is] |
@@ -319,7 +339,7 @@
 | | |
 | *soar* | **son̆arĕ** |
 
-#### lĭ, nĭ
+### lĭ, nĭ <!-- formovenda -->
 
 | | | |
 |-|-|-|
@@ -343,17 +363,6 @@
 
 | | |
 |-|-|
-| *país* | **pağėn̆sĕ** |
-
-| | |
-|-|-|
-| *juiz* | **juđicĕ** |
-| *pé* | **peđĕ** |
-| *raiz* | **rađicĕ** |
-| *vou* | **våđǒ** (**voo**) |
-
-| | |
-|-|-|
 | *a* | **ła** |
 | *o* | **ło** |
 | | |
@@ -361,29 +370,6 @@
 | *doce* | **důłce** |
 | *só* | **sołŏ** |
 | *voar* | **vołarĕ** |
-
-### c, g
-
-| | |
-|-|-|
-| *cela* | **cella** |
-| | |
-| *gesto* | **gesto** |
-
-| | |
-|-|-|
-| *luz* | **lucĕ** |
-| *paz* | **pacĕ** |
-
-| | |
-|-|-|
-| *amigo* | **amic̆o** |
-| *fogo* | **foc̆o** |
-| *segundo* | **sec̆undo** |
-
-| | | |
-|-|-|-|
-| *eu* | **eğǒ** = **eo** | [-u] |
 
 #### qu, gu
 
