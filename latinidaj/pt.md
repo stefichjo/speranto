@@ -12,6 +12,17 @@
 |-|-|
 | *guerra* | **gŭerra** = **guerra** |
 
+
+### Græc̆as
+
+| | |
+|-|-|
+| *eco* | **echo** |
+| | |
+| *foto* | **photo** |
+| | |
+| *tema* | **thema** |
+
 ### Duplas
 
 #### ll
@@ -53,14 +64,16 @@
 
 ### Assimiladas
 
-#### pt → t
+#### → t
+
+##### pt → t
 
 | | [t] |
 |-|-|
 | *cética* | **sceptica** |
 | *ótima* | **optima** |
 
-#### ct → t
+##### ct → t
 
 | | [t] |
 |-|-|
@@ -77,14 +90,20 @@
 | *facto* | **fac̄to** |
 | *pacto* | **pac̄to** |
 
-#### sc → ss
+#### → s
+
+##### sc → ss
 
 | | [s] |
 |-|-|
 | *cena* | **scena** |
 
+##### ps → ss
 
-#### x → ss
+| | [s] |
+| *gesso* | **gÿpso** |
+
+##### x → ss
 
 | | [s] |
 |-|-|
@@ -141,9 +160,29 @@
 |-|-|
 | *dia* | **d̂ia** = **dia** |
 
+#### sĭ
+
+| | |
+|-|-|
+| *beijo* | **bäṡĭo** | <!-- ä -->
+
+##### sı
+
+| | |
+|-|-|
+| *camisa* | **camisıa** |
+
 ### Vocalizadas
 
-#### [ĭ]
+#### → e
+
+| | [es] |
+|-|-|
+| *escrever* | **s̈crïvere** |
+| *esfera* | **s̈phæra** |
+| *estação* | **s̈tatıõne** |
+
+#### → i
 
 ##### ċ
 
@@ -194,7 +233,7 @@
 | *baixa* | **baṡsa** |
 | *peixe* | **peṡce** | <!-- x -->
 
-#### [ŭ]
+#### → u
 
 ##### ¢ <!-- c with ring above? -->
 
@@ -280,6 +319,11 @@
 
 ## Voc̆ales
 
+| | |
+|-|-|
+| *hiena* | **hyæna** |
+| *física* | **physica** |
+
 ### Nasales
 
 | | [~] |
@@ -326,6 +370,7 @@
 | | [i] |
 |-|-|
 | *criar* | **crėare** |
+| *prisão* | **prėn̆sıõnĕ** = **prėn̆sıõne** |
 
 | | [o] |
 |-|-|
@@ -489,30 +534,6 @@
 | *de* | **d̂ė** = **de** |
 
 # ?
-
-## sĭ
-
-| | |
-|-|-|
-| *beijo* | **bäṡĭo** (**beisĭo**) |
-
-### sı
-
-| | |
-|-|-|
-| *camisa* | **camisıa** |
-| *prisão* | **prėn̆sıõnĕ** (**prisaon**) |
-
-## ch, ph, th, x, y
-
-| | |
-|-|-|
-| *arquitetura* | **architectura** |
-| | |
-| *ditongo* | **diphthongo** |
-| | |
-| *gesso* | **gÿpso** |
-| *hiena* | **hyæna** |
 
 ## ?Conjugatıõnĕ
 
