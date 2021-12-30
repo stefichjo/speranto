@@ -304,6 +304,13 @@
 | *branco* | **bl̯anco** |
 | *prato* | **pl̯ato** |
 
+### Nasales
+
+| | |
+|-|-|
+| *um* | **unŏ** = **un** |
+| *uma* | **uña** = **uma** |
+
 ### Cađidas
 
 | | [] |
@@ -684,7 +691,3 @@
 | *tem* | **tenĕt** |
 | *têm* | **tenĕnt** |
 
-| | |
-|-|-|
-| *um* | **un** |
-| *uma* | **una** = **uma** | <!-- ñ = m -->
