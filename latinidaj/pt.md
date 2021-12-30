@@ -350,7 +350,7 @@
 | *legal* | **legałĕ** = **legale** |
 | *legais* | **legałės** = **legales** |
 | | |
-| *Abril* | **Ap̆rilĕ** = **Ap̆rile** |
+| *Abril* | **Ap̆riłĕ** = **Ap̆rile** |
 
 | | [r]/[ris] |
 |-|-|
@@ -364,17 +364,16 @@
 
 ### lĭ, nĭ <!-- formovenda -->
 
-| | | |
-|-|-|-|
-| *filho* | **filĭo** | [-ḷ-] |
-| *mulher* | **mulĭere** | [-ḷ-] |
-| | | |
-| *banho* | **banĭo** | [-ṇ-] |
+| | [ḷ] |
+|-|-|
+| *filho* | **filĭo** |
+| *mulher* | **mulĭere** |
 
-| | | |
-|-|-|-|
-| *rainha* | **rȇğiṇa** | [-ṇ-] |
-| *vinho* | **viṇo** | [-ṇ-] |
+| | [ṇ] |
+| *banho* | **banĭo** |
+| | |
+| *rainha* | **rȇğiṇa** |
+| *vinho* | **viṇo** |
 
 -----
 
@@ -396,9 +395,9 @@
 
 | | |
 |-|-|
-| *tio* | **tio** [ˈʧiu] |
+| *tio* | **t̂io** = **tio** [ˈʧiu] |
 | | |
-| *dia* | **dia** [ˈʤia] |
+| *dia* | **d̂ia** = **dia** [ˈʤia] | 
 
 | | |
 |-|-|
