@@ -12,17 +12,6 @@
 |-|-|
 | *guerra* | **gŭerra** = **guerra** |
 
-### lĭ, nĭ
-
-| | [ḷ] |
-|-|-|
-| *filho* | **filĭo** |
-
-| | [ṇ] |
-| *banho* | **banĭo** |
-| | |
-| *vinho* | **viṇo** |
-
 ### Duplas
 
 #### ll
@@ -68,11 +57,17 @@
 
 ### Assimiladas
 
+#### pt → t
+
 | | [t] |
 |-|-|
 | *cética* | **sceptica** |
 | *ótima* | **optima** |
-| | |
+
+#### ct → t
+
+| | [t] |
+|-|-|
 | *ato* | **acto** |
 | *fruto* | **fructo** |
 | *noturno* | **nocturno** |
@@ -81,10 +76,52 @@
 | *trato* | **tracto** |
 | *vitima* | **victima** |
 
-| | |
+| | [kt] |
 |-|-|
 | *facto* | **fac̄to** |
 | *pacto* | **pac̄to** |
+
+#### sc → ss
+
+| | [s] |
+|-|-|
+| *cena* | **scena** |
+
+#### lĭ, nĭ
+
+| | [ḷ] |
+|-|-|
+| *filho* | **filĭo** |
+
+| | [ṇ] |
+| *banho* | **banĭo** |
+| | |
+| *vinho* | **viṇo** |
+
+#### tĭ, dĭ
+
+| | |
+|-|-|
+| *pronúncia* | **pronuntĭa** |
+| | |
+| *hoje* | **hodĭe** |
+
+##### tı, dı <!-- dı godıar=gozar ? -->
+
+| | |
+|-|-|
+| *ciência* | **scientĭa** | <!-- ê ? -->
+| *peça* | **petıa** |
+
+##### ti, di
+
+| | [tŝ] |
+|-|-|
+| *tio* | **t̂io** = **tio** |
+
+| | [dĵ] |
+|-|-|
+| *dia* | **d̂ia** = **dia** |
 
 ### Vocalizadas
 
@@ -118,6 +155,19 @@
 | | |
 | *chave* | **cḷave** |
 
+
+##### ṅ
+
+| | [ĭ] |
+| *ceia* | **ceṅa** |
+| *veia* | **veṅa** |
+
+##### ṡ
+
+| | [ĭŝ] |
+|-|-|
+| *peixe* | **peṡce** | <!-- x -->
+
 #### [ŭ]
 
 ##### ¢ <!-- c with ring above? -->
@@ -148,14 +198,16 @@
 | *roda* | **rot̯a** |
 | *toda* | **tot̯a** |
 | | |
-| *mudada* | **mut̯at̯a** = **mut̯ada** |
 | *lido* | **lėct̯o** |
+| *mudada* | **mut̯at̯a** = **mut̯ada** |
+| *universidade* | **universit̯at̯e** = **universit̯ade** |
 
 #### c/q → g
 
 | | [g] |
 |-|-|
 | *água* | **aq̆ua** |
+| *advogado* | **advoc̆at̯o** = **advoc̆ado** |
 | | |
 | *segunda* | **sec̆unda** |
 
@@ -259,6 +311,8 @@
 
 | | |
 |-|-|
+| *cidade* | **civĭt̯at̯e** = **civĭt̯ade** |
+| *começo* | **comïn̆ĭtıo** |
 | *pé* | **peđĕ** |
 | *pobre* | **påŭp̆ĕre** |
 | *só* | **sołŏ** |
@@ -268,24 +322,17 @@
 | | [eĭ] |
 |-|-|
 | *aceitar* | **accẽptare** |
-| | | <!-- ceṅa pḷeṅo veṅa ? -->
-| *ceia* | **cẽn̆a** |
-| *cheio* | **pḷẽn̆o** |
-| *veia* | **vẽn̆a** |
-
-| | [eĭ] |
-|-|-|
-| *seio* | **sĩn̆o** | <!-- sïṅo -->
+| *ideia* | **idẽa** |
 
 | | [oŭ] |
 |-|-|
 | *tesouro* | **tesõro** |
 | | |
 | *ou* | **åut** = **õt** |
-| *ouro* | **åuro** = **õro** |
-| *ousar* | **åusarĕ** = **õsarĕ** |
+| *ouro* | **åurǒ** = **õro** |
+| *ousar* | **åusarĕ** = **õsare** |
 | *pouca* | **påuca** = **põca** |
-| *touro* | **tåuro** = **tõro** |
+| *touro* | **tåurǒ** = **tõro** |
 
 ## Conson̆antes Finales
 
@@ -356,17 +403,23 @@
 | *sã* | **sąn̆ă** = **sana** |
 | *são* | **sąn̆o** = **sano** |
 
-#### -õne
+#### -õne/-ones
 
 | | [ãũ]/[õĩs] |
 |-|-|
 | *não* | **nõn** |
 | | |
 | *união* | **uniõnĕ** = **uniõne** |
-| *uniões* | **unionės** = **uniones** | <!-- ? -->
+| *uniões* | **unionės** = **uniones** |
 | | |
 | *limão* | **limõnĕ** = **limõne** |
-| *limões* | **limonės** = **limones** | <!-- ? -->
+| *limões* | **limonės** = **limones** |
+| | |
+| *canção* | **cantıõnĕ** = **cantıõne** |
+| *canções* | **cantıonės** = **cantıones** |
+| | |
+| *coração* | **coratıõnĕ** = **coratıõne** |
+| *corações* | **coratıonės** = **coratıones** |
 
 ### -le, -re
 
@@ -383,6 +436,7 @@
 | *flores* | **florės** = **flores** |
 | | |
 | *abrir* | **ap̆rirĕ** = **ap̆rire** |
+| *crescer* | **crescerĕ** = **crescere** |
 | *mulher* | **mulĭerĕ** = **mulĭere** |
 | *seguir* | **seq̆ŭirĕ** = **seq̆uire** |
 | *soar* | **son̆arĕ** = **son̆are** |
@@ -390,57 +444,7 @@
 
 -----
 
-# t, d
-
-| | |
-|-|-|
-| *tio* | **t̂io** = **tio** [ˈʧiu] |
-| | |
-| *dia* | **d̂ia** = **dia** [ˈʤia] | 
-
-| | |
-|-|-|
-| *advogado* | **advoc̆at̯o** = **advoc̆ado** |
-| *cidade* | **civĭt̯at̯e** = **civĭt̯ade** |
-| *universidade* | **universit̯at̯e** = **universit̯ade** |
-
-## tĭ, dĭ
-
-| | |
-|-|-|
-| *pronúncia* | **pronuntĭa** |
-| | |
-| *hoje* | **hodĭe** |
-
-### tı
-
-| | |
-|-|-|
-| *canção* | **cantıõnĕ** |
-| *começo* | **comïn̆ĭtıo** |
-| *espaço* | **s̈patıo** |
-| *peça* | **petıa** |
-
-| | |
-|-|-|
-| *certeza* | **certït̯ıa** = **certeza** |
-
-| | |
-|-|-|
-| *coração* | **coratıõnĕ** [koraˈsɜ̃w] |
-| *corações* | **coratıones** |[koraˈsõjs] |
-
-## sc
-
-| | |
-|-|-|
-| *cena* | **scena** |
-| | |
-| *peixe* | **pĩsce** [ˈpeʃi] | <!-- pïṡce/pïsċe/pïṡċe ? -->
-
-| | |
-|-|-|
-| *crescer* | **cresc̄erĕ** [s] |
+# ?
 
 ## x
 
@@ -664,4 +668,15 @@ complexo
 |-|-|
 | *um* | **un** |
 | *uma* | **una** = **uma** | <!-- ñ = m -->
+
+| *espaço* | **s̈patıo** |
+
+| | |
+|-|-|
+| *certeza* | **certït̯ıa** = **certeza** |
+
+| | [eĭ] |
+|-|-|
+| *cheio* | **pḷeṅo** |
+| *seio* | **sïṅo** |
 
