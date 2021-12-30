@@ -2,7 +2,7 @@
 
 ## Conson̆antes
 
-### c/qu, g/gu
+### qu, gu
 
 | | [k] |
 |-|-|
@@ -11,6 +11,17 @@
 | | [g] |
 |-|-|
 | *guerra* | **gŭerra** = **guerra** |
+
+### lĭ, nĭ
+
+| | [ḷ] |
+|-|-|
+| *filho* | **filĭo** |
+
+| | [ṇ] |
+| *banho* | **banĭo** |
+| | |
+| *vinho* | **viṇo** |
 
 ### Duplas
 
@@ -213,6 +224,10 @@
 
 ### Mut̯adas
 
+| | [a] |
+|-|-|
+| *rainha* | **rȇğiṇa** |
+
 | | [e] |
 |-|-|
 | *pelo* | **pïlo** |
@@ -272,7 +287,7 @@
 | *pouca* | **påuca** = **põca** |
 | *touro* | **tåuro** = **tõro** |
 
-## Conson̆antes Finales <!-- precipe -->
+## Conson̆antes Finales
 
 ### -t
 
@@ -368,22 +383,10 @@
 | *flores* | **florės** = **flores** |
 | | |
 | *abrir* | **ap̆rirĕ** = **ap̆rire** |
+| *mulher* | **mulĭerĕ** = **mulĭere** |
 | *seguir* | **seq̆ŭirĕ** = **seq̆uire** |
 | *soar* | **son̆arĕ** = **son̆are** |
 | *voar* | **vołarĕ** = **vołare** |
-
-### lĭ, nĭ <!-- formovenda -->
-
-| | [ḷ] |
-|-|-|
-| *filho* | **filĭo** |
-| *mulher* | **mulĭere** |
-
-| | [ṇ] |
-| *banho* | **banĭo** |
-| | |
-| *rainha* | **rȇğiṇa** |
-| *vinho* | **viṇo** |
 
 -----
 
