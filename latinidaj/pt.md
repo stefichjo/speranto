@@ -118,6 +118,8 @@
 
 #### p → b
 
+<!-- p̆ -->
+
 #### t → d
 
 | | [d] |
@@ -128,13 +130,13 @@
 | *mudada* | **mut̯at̯a** = **mut̯ada** |
 | *lido* | **lėct̯o** |
 
-#### c → g
+#### c/q → g
 
 | | [g] |
 |-|-|
-| *amigo* | **amic̆o** |
-| *fogo* | **foc̆o** |
-| *segundo* | **sec̆undo** |
+| *água* | **aq̆ua** |
+| | |
+| *segunda* | **sec̆unda** |
 
 #### l / r
 
@@ -158,6 +160,11 @@
 | | |
 | *mais* | **mağis** |
 | *rua* | **ruğa** |
+| | |
+| *a* | **ła** = **la** | <!-- illa, illo -->
+| *o* | **łǒ** = **lo** |
+| | |
+| *céu* | **cełǒ** = **ceło** | <!-- ǒ -->
 | | |
 | *boa* | **bon̆a** |
 | *lua* | **lun̆a** |
@@ -184,7 +191,9 @@
 
 | | [u] |
 |-|-|
+| *amigo* | **amic̆ǒ** = **amic̆o** |
 | *como* | **comǒ** = **como** |
+| *fogo* | **foc̆ǒ** = **foc̆o** |
 | *porto* | **portǒ** = **porto** |
 | | |
 | *eu* | **eğǒ** = **eo** |
@@ -226,18 +235,22 @@
 | | |
 |-|-|
 | *pé* | **peđĕ** |
+| *pobre* | **påŭp̆ĕre** |
+| *só* | **sołŏ** |
 
 ### Diphthongadas
 
 | | [eĭ] |
 |-|-|
 | *aceitar* | **accẽptare** |
+| | | <!-- ceṅa pḷeṅo veṅa ? -->
 | *ceia* | **cẽn̆a** |
+| *cheio* | **pḷẽn̆o** |
 | *veia* | **vẽn̆a** |
 
 | | [eĭ] |
 |-|-|
-| *seio* | **sĩn̆o** |
+| *seio* | **sĩn̆o** | <!-- sïṅo -->
 
 | | [oŭ] |
 |-|-|
@@ -272,6 +285,11 @@
 | | |
 | *país* | **pağėn̆sĕ** = **pağėn̆se** |
 | *países* | **pağėn̆sės** = **pağėn̆ses** |
+
+| | [si]/[sis] |
+|-|-|
+| *doce* | **důłcė** = **důłce** |
+| *doces* | **důłcės** = **důłces** |
 
 ### -ne, -no
 
@@ -331,13 +349,18 @@
 |-|-|
 | *legal* | **legałĕ** = **legale** |
 | *legais* | **legałės** = **legales** |
+| | |
+| *Abril* | **Ap̆rilĕ** = **Ap̆rile** |
 
 | | [r]/[ris] |
 |-|-|
 | *flor* | **florĕ** = **flore** |
 | *flores* | **florės** = **flores** |
 | | |
-| *soar* | **son̆arĕ** |
+| *abrir* | **ap̆rirĕ** = **ap̆rire** |
+| *seguir* | **seq̆ŭirĕ** = **seq̆uire** |
+| *soar* | **son̆arĕ** = **son̆are** |
+| *voar* | **vołarĕ** = **vołare** |
 
 ### lĭ, nĭ <!-- formovenda -->
 
@@ -361,16 +384,6 @@
 
 ### ?Conson̆antes cađidas
 
-| | |
-|-|-|
-| *a* | **ła** |
-| *o* | **ło** |
-| | |
-| *céu* | **cełǒ** (**ceo**) |
-| *doce* | **důłce** |
-| *só* | **sołŏ** |
-| *voar* | **vołarĕ** |
-
 #### qu, gu
 
 | | |
@@ -378,15 +391,12 @@
 | *que* | **qŭe** = **que** |
 | | |
 | *guerra* | **gŭerra** = **guerra** |
-| | |
-| *água* | **aq̆ua** |
-| *seguir* | **seq̆ŭirĕ** |
 
 ### t, d
 
 | | |
 |-|-|
-| *tio* | **tio** |
+| *tio* | **tio** [ˈʧiu] |
 | | |
 | *dia* | **dia** [ˈʤia] |
 
@@ -422,21 +432,13 @@
 | *coração* | **coratıõnĕ** [koraˈsɜ̃w] |
 | *corações* | **coratıones** |[koraˈsõjs] |
 
-### p, b
-
-| | |
-|-|-|
-| *Abril* | **Ap̆rilĕ** |
-| *abrir* | **ap̆rirĕ** |
-| *pobre* | **påŭp̆ĕre** |
-
 ### sc
 
 | | |
 |-|-|
-| *cena* | **scen̄a** |
+| *cena* | **scena** |
 | | |
-| *peixe* | **pĩsce** [ˈpeʃi] |
+| *peixe* | **pĩsce** [ˈpeʃi] | <!-- pïṡce/pïsċe/pïṡċe ? -->
 
 | | |
 |-|-|
@@ -644,8 +646,6 @@ complexo
 |-|-|
 | *coisa* | **cåu̇sa** = **cõṡa** (**coisa**) |
 | *dois* | **dõṡ** (**dois**) |
-
-| *cheio* | **pḷẽn̆o** | |
 
 | | |
 | *milhão* | **millĭõn** |
