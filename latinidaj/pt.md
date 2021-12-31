@@ -13,7 +13,7 @@
 | *guerra* | **gŭerra** = **guerra** |
 
 
-### Græc̆as
+### ph th ch
 
 | | |
 |-|-|
@@ -261,7 +261,7 @@
 | | |
 | *outra* | **åłtra** | <!-- å --> <!-- 🇧🇷 åltra -->
 
-### Mut̯adas <!-- voĉigitaj/lenigitaj -->
+### Lenidas
 
 #### p → b
 
@@ -294,7 +294,9 @@
 | *exemplo* | **ex̆emplo** |
 | *êxito* | **ex̆ito** |
 
-#### l / r <!-- tio ĉi estas io alia -->
+### Mut̯adas
+
+#### l / r
 
 | | [l] |
 |-|-|
@@ -335,12 +337,14 @@
 | | |
 | *pessoa* | **peɍson̆a** |
 
-## Voc̆ales <!-- have a section -->
+## Voc̆ales
 
+### æ ø y
 | | |
 |-|-|
 | *hiena* | **hyæna** |
 | *física* | **physica** |
+| *federação* | **fœderatıõne** |
 
 ### Nasales
 
