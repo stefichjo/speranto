@@ -790,12 +790,13 @@
 | *partias* | **partias** | | *partíeis*  | **partiäđis** |
 | *partia*  | **partiat** | | *partiam*   | **partiant**  |
 
-# dic̆ĕre
+# dic̆ere - dic̆o - dixï - dicto
+
+* *dizendo* **dic̆endo**
+* *diz(ei)* **dic̆e(đe)**
 
 | | | | | | | | | | | | |
 |-|-|-|-|-|-|-|-|-|-|-|-|
-| *dir*        | **dic̆ĕre**    | | *diz(ei)*     | **dic̆e(đe)**   | <!-- *dize(i)* **dic̆ē(đe)** -->
-| | | | | | | | | | | | |
 | *direi*      | **dic̆ĕrẽ**    | | *diria*       | **dic̆ĕriam**   |
 | *dirás*      | **dic̆ĕras**   | | *dirias*      | **dic̆ĕrias**   |
 | *dirá*       | **dic̆ĕra**    | | *diria*       | **dic̆ĕriat**   |
@@ -816,10 +817,3 @@
 | *dizíamos*   | **dic̆iamus**  | |               |                | | | *disséramos* | **dixeramus** | | *disséssemos* | **dixïssïmus** |
 | *dizíeis*    | **dic̆iäđis**  | |               |                | | | *disséreis*  | **dixeräđis** | | *dissésseis*  | **dixïsseđis** |
 | *diziam*     | **dic̆iant**   | |               |                | | | *disseram*   | **dixerant**  | | *dissessem*   | **dixïssent**  |
-
-
-
-
-
-
-
