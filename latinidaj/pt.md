@@ -580,7 +580,7 @@
 
 # Conjugatıõne
 
-## Infinitiv
+## Infinitivo `-i`
 
 | | |
 |-|-|
@@ -590,7 +590,7 @@
 | | |
 | *partir* | **partire** |
 
-### Imperativ
+### Imperativo `-u`
 
 | | | | | |
 |-|-|-|-|-|
@@ -600,7 +600,7 @@
 | | | | | |
 | *parte* | **parti** | | *parti* | **partiđe** |
 
-## Futur {-os}
+## Futuro `-os`
 
 <!-- infinitivo + desinentĭas dĕ-lo verbo "havere" -->
 
@@ -629,7 +629,7 @@
 | *hás* | **has** | | *haveis*  | **haveđis** |
 | *há*  | **hat** | | *hão*     | **hano**    |
 
-### Konjunktiv {do -åntus}
+### Subjunctivo {do -us}
 *(Futuro do pretérito do indicativo = Condicional)*
 
 <!-- infinitivo + desinentĭas dĕ-lo passado dĕ-lo verbo "ire" -->
@@ -648,7 +648,7 @@
 | *partirias* | **partirias** | | *partiríeis*  | **partiriäđis** |
 | *partiria*  | **partiriat** | | *partiriam*   | **partiriant**  |
 
-## Präsens {-as}
+## Presente `-as`
 
 <!-- Indikativ Präsens (Imperfekt) -->
 <!-- -mus/-můs ? -->
@@ -670,7 +670,7 @@
 | *partes* | **partes** | | *partis*   | **partiđis** | <!-- ís ? -->
 | *parte*  | **partet** | | *partem*   | **partent**  |
 
-### Konjunktiv {ke -u}
+### Subjunctivo `ke -u`
 
 <!-- Konjunktiv Präsens (Imperfekt) -->
 
@@ -688,7 +688,8 @@
 | *partas* | **partas** | | *partais*   | **partađis** |
 | *parta*  | **partat** | | *partam*   | **partant**  |
 
-## Präsens Perfekt {-intas}
+## Presente Perfeċto `-intas`
+*(Pretérito Perfeito do Indicativo)*
 
 <!-- Indikativ (Präsens) Perfekt -->
 <!-- ŭĭ, ŭĕ → - -->
@@ -708,8 +709,8 @@
 | *partiste* | **partisti** | | *partistes* | **partistis** |
 | *partiu*   | **partiuĭt** | | *partiram*  | **partirant** |
 
-### Konjunktiv {kiam -intus}
-*(Futuro do subjunctivo)*
+### Subjunctivo `kiam -intus`
+*(Futuro do Subjunctivo)*
 
 <!-- Konjunktiv (Präsens) Perfekt -->
 <!-- ŭĭ, ŭĕ → - -->
@@ -728,7 +729,8 @@
 | *partires* | **partiris** | | *partirdes* | **partirĭdis** |
 | *partir*   | **partirit** | | *partirem*  | **partirint**  |
 
-## Präteritum {-is}
+## Præterito `-is`
+*(Pretérito Imperfeito do Indicativo)*
 
 <!-- Indikativ (Präteritum) Imperfekt -->
 <!-- ƀ → - -->
@@ -747,7 +749,10 @@
 | *partias* | **partias** | | *partíeis*  | **partiäđis** |
 | *partia*  | **partiat** | | *partiam*   | **partiant**  |
 
-## Präteritum Perfekt {-intis}
+<!-- ### Subjunctivo -->
+
+## Præterito Perfeċto `-intis`
+*(Pretérito Mais-que-perfeito do Indicativo)*
 
 <!-- Indikativ Plusquamperfekt (= Indikativ Präteritum Perfekt) -->
 <!-- ŭĕ → - -->
@@ -766,7 +771,8 @@
 | *partiras* | **partiras** | | *partíreis*  | **partiräđis** |
 | *partira*  | **partirat** | | *partiram*   | **partirant**  |
 
-### Konjunktiv {se -us}
+### Subjunctivo `se -us`
+*(Pretérito Imperfeito do Subjuntivo)*
 
 <!-- Konjunktiv Plusquamperfekt (= Konjunktiv Präteritum Perfekt) -->
 <!-- ŭĭ, ŭĕ → - -->
