@@ -821,3 +821,28 @@
 | *dizíamos*   | **dic̆iamus**  | |               |                | | | *disséramos* | **dixeramus** | | *disséssemos* | **dixïssïmus** |
 | *dizíeis*    | **dic̆iäđis**  | |               |                | | | *disséreis*  | **dixeräđis** | | *dissésseis*  | **dixïsseđis** |
 | *diziam*     | **dic̆iant**   | |               |                | | | *disseram*   | **dixerant**  | | *dissessem*   | **dixïssent**  |
+
+# fac̆ere - faço - fėc̆ï - fäċto
+
+| | | | | | | | | | | | |
+|-|-|-|-|-|-|-|-|-|-|-|-|
+| *farei*      | **fac̆ĕrẽ**    | | *faria*       | **fac̆ĕriam**   |
+| *farás*      | **fac̆ĕras**   | | *farias*      | **fac̆ĕrias**   |
+| *fará*       | **fac̆ĕrat**   | | *faria*       | **fac̆ĕriat**   |
+| *faremos*    | **fac̆ĕremus** | | *faríamos*    | **fac̆ĕriamus** |
+| *fareis*     | **fac̆ĕređis** | | *faríeis*     | **fac̆ĕriäđis** |
+| *farão*      | **fac̆ĕrano**  | | *fariam*      | **fac̆ĕriant**  |
+| | | | | | | | | | | | |
+| *faço*       | **facıo**     | | *faça*        | **facıam**     | | | *fiz*       | **fėc̆ï**      | | *fizer*      | **fėc̆erim**    |
+| *fazes*      | **fac̆es**     | | *faças*       | **facıas**     | | | *fizeste*   | **fėc̆ïsti**   | | *fizeres*    | **fėc̆eris**    |
+| *faz*        | **fac̆et**     | | *faça*        | **facıat**     | | | *fez*       | **fec̆it**     | | *fizer*      | **fėc̆erit**    |
+| *fazemos*    | **fac̆emus**   | | *façamos*     | **facıamus**   | | | *fizemos*   | **fėc̆ïmus**   | | *fizermos*   | **fėc̆erĭrmus** |
+| *fazeis*     | **fac̆eđis**   | | *façais*      | **facıađis**   | | | *fizestes*  | **fėc̆ïstis**  | | *fizerdes*   | **fėc̆erĭdis**  |
+| *fazem*      | **fac̆ent**    | | *façam*       | **facıant**    | | | *fizeram*   | **fėc̆erant**  | | *fizerem*    | **fėc̆erint**   |
+| | | | | | | | | | | | |
+| *fazia*      | **fac̆iam**    | |               |                | | | *fizera*    | **fėc̆eram**   | | *fizesse*    | **fėc̆ïssem**   |
+| *fazias*     | **fac̆ias**    | |               |                | | | *fizeras*   | **fėc̆eras**   | | *fizesses*   | **fėc̆ïsses**   |
+| *fazia*      | **fac̆iat**    | |               |                | | | *fizera*    | **fėc̆erat**   | | *fizesse*    | **fėc̆ïsset**   |
+| *fazíamos*   | **fac̆iamus**  | |               |                | | | *fizéramos* | **fėc̆eramus** | | *fizéssemos* | **fėc̆ïssïmus** |
+| *fazíeis*    | **fac̆iäđis**  | |               |                | | | *fizéreis*  | **fėc̆eräđis** | | *fizésseis*  | **fėc̆ïsseđis** |
+| *faziam*     | **fac̆iant**   | |               |                | | | *fizeram*   | **fėc̆erant**  | | *fizessem*   | **fėc̆ïssent**  |
