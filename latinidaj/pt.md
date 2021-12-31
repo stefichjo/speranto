@@ -629,7 +629,7 @@
 | *hás* | **has** | | *haveis*  | **haveđis** |
 | *há*  | **hat** | | *hão*     | **hano**    |
 
-### Subjunctivo {do -us}
+### Subjunctivo `do -us`
 *(Futuro do pretérito do indicativo = Condicional)*
 
 <!-- infinitivo + desinentĭas dĕ-lo passado dĕ-lo verbo "ire" -->
@@ -710,7 +710,7 @@
 | *partiu*   | **partiuĭt** | | *partiram*  | **partirant** |
 
 ### Subjunctivo `kiam -intus`
-*(Futuro do Subjunctivo)*
+*(Futuro do Subjuntivo)*
 
 <!-- Konjunktiv (Präsens) Perfekt -->
 <!-- ŭĭ, ŭĕ → - -->
@@ -748,8 +748,6 @@
 | *partia*  | **partiam** | | *partíamos* | **partiamus** |
 | *partias* | **partias** | | *partíeis*  | **partiäđis** |
 | *partia*  | **partiat** | | *partiam*   | **partiant**  |
-
-<!-- ### Subjunctivo -->
 
 ## Præterito Perfeċto `-intis`
 *(Pretérito Mais-que-perfeito do Indicativo)*
