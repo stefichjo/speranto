@@ -799,7 +799,7 @@
 |-|-|-|-|-|-|-|-|-|-|-|-|
 | *direi*      | **dic̆ĕrẽ**    | | *diria*       | **dic̆ĕriam**   |
 | *dirás*      | **dic̆ĕras**   | | *dirias*      | **dic̆ĕrias**   |
-| *dirá*       | **dic̆ĕra**    | | *diria*       | **dic̆ĕriat**   |
+| *dirá*       | **dic̆ĕrat**   | | *diria*       | **dic̆ĕriat**   |
 | *diremos*    | **dic̆ĕremus** | | *diríamos*    | **dic̆ĕriamus** |
 | *direis*     | **dic̆ĕređis** | | *diríeis*     | **dic̆ĕriäđis** |
 | *dirão*      | **dic̆ĕrano**  | | *diriam*      | **dic̆ĕriant**  |
