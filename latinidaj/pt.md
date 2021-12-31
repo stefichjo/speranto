@@ -806,7 +806,7 @@
 | | | | | | | | | | | | |
 | *digo*       | **dic̆o**      | | *diga*        | **dic̆am**      | | | *disse*      | **dixï**      | | *disser*      | **dixerim**    |
 | *dizes*      | **dic̆es**     | | *digas*       | **dic̆as**      | | | *disseste*   | **dixïsti**   | | *disseres*    | **dixeris**    |
-| *diz*        | **dic̆e**      | | *diga*        | **dic̆at**      | | | *disse*      | **dixit**     | | *disser*      | **dixerit**    |
+| *diz*        | **dic̆et**     | | *diga*        | **dic̆at**      | | | *disse*      | **dixit**     | | *disser*      | **dixerit**    |
 | *dizemos*    | **dic̆emus**   | | *digamos*     | **dic̆amus**    | | | *dissemos*   | **dixïmus**   | | *dissermos*   | **dixerĭrmus** |
 | *dizeis*     | **dic̆eđis**   | | *digais*      | **dic̆ađis**    | | | *dissestes*  | **dixïstis**  | | *disserdes*   | **dixerĭdis**  |
 | *dizem*      | **dic̆ent**    | | *digam*       | **dic̆ant**     | | | *disseram*   | **dixerant**  | | *disserem*    | **dixerint**   |
