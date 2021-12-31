@@ -335,12 +335,12 @@
 | | |
 | *pessoa* | **peɍson̆a** |
 
-## Voc̆ales
+## Voc̆ales <!-- have a section -->
 
 | | |
 |-|-|
 | *hiena* | **hyæna** |
-| *física* | **physica** | <!-- get a section -->
+| *física* | **physica** |
 
 ### Nasales
 
@@ -701,15 +701,15 @@
 | *amaste* | **amasti** | | *amastes* | **amastis** |
 | *amou*   | **amåuĭt** | | *amaram*  | **amarant** |
 | | | | | |
-| *prendi*    | **prendĕŭi**  | | *prendemos*  | **prendemus**  |
-| *prendeste* | **prendesti** | | *prendestes* | **prendestis** |
+| *prendi*    | **prendĕŭi**  | | *prendemos*  | **prendïmus**  | <!-- -ev- etc. checken -->
+| *prendeste* | **prendïsti** | | *prendestes* | **prendïstis** |
 | *prendeu*   | **prendeuĭt** | | *prenderam*  | **prenderant** |
 | | | | | |
 | *parti*    | **partĭŭi**  | | *partimos*  | **partimus** |
 | *partiste* | **partisti** | | *partistes* | **partistis** |
 | *partiu*   | **partiuĭt** | | *partiram*  | **partirant** |
 
-### Subjunctivo `kiam -intus`
+### Subjunctivo `kiam -us`
 *(Futuro do Subjuntivo)*
 
 <!-- Konjunktiv (Präsens) Perfekt -->
@@ -789,3 +789,44 @@
 | *partia*  | **partiam** | | *partíamos* | **partiamus** |
 | *partias* | **partias** | | *partíeis*  | **partiäđis** |
 | *partia*  | **partiat** | | *partiam*   | **partiant**  |
+
+# dic̆ĕre
+
+| | | | | |
+|-|-|-|-|-|
+| *dir*        | **dic̆ĕre**    | | *diz(ei)*     | **dic̆e(đe)**   | <!-- *dize(i)* **dic̆ē(đe)** -->
+| | | | | |
+| *direi*      | **dic̆ĕrẽ**    | | *diria*       | **dic̆ĕriam**   |
+| *dirás*      | **dic̆ĕras**   | | *dirias*      | **dic̆ĕrias**   |
+| *dirá*       | **dic̆ĕra**    | | *diria*       | **dic̆ĕriat**   |
+| *diremos*    | **dic̆ĕremus** | | *diríamos*    | **dic̆ĕriamus** |
+| *direis*     | **dic̆ĕređis** | | *diríeis*     | **dic̆ĕriäđis** |
+| *dirão*      | **dic̆ĕrano**  | | *diriam*      | **dic̆ĕriant**  |
+| | | | | |
+| *digo*       | **dic̆o**      | | *diga*        | **dic̆am**      |
+| *dizes*      | **dic̆es**     | | *digas*       | **dic̆as**      |
+| *diz*        | **dic̆e**      | | *diga*        | **dic̆at**      |
+| *dizemos*    | **dic̆emus**   | | *digamos*     | **dic̆amus**    |
+| *dizeis*     | **dic̆eđis**   | | *digais*      | **dic̆ađis**    |
+| *dizem*      | **dic̆ent**    | | *digam*       | **dic̆ant**     |
+| | | | | |
+| *disse*      | **dixï**      | | *disser*      | **dixerim**    |
+| *disseste*   | **dixïsti**   | | *disseres*    | **dixeris**    |
+| *disse*      | **dixit**     | | *disser*      | **dixerit**    |
+| *dissemos*   | **dixïmus**   | | *dissermos*   | **dixerĭrmus** |
+| *dissestes*  | **dixïsđis**  | | *disserdes*   | **dixerĭđis**  |
+| *disseram*   | **dixerant**  | | *disserem*    | **dixerint**   |
+| | | | | |
+| *dizia*      | **dic̆iam**    | |               |                |
+| *dizias*     | **dic̆ias**    | |               |                |
+| *dizia*      | **dic̆iat**    | |               |                |
+| *dizíamos*   | **dic̆iamus**  | |               |                |
+| *dizíeis*    | **dic̆iäđis**  | |               |                |
+| *diziam*     | **dic̆iant**   | |               |                |
+| | | | | |
+| *dissera*    | **dixeram**   | | *dissesse*    | **dixïssem**   |
+| *disseras*   | **dixeras**   | | *dissesses*   | **dixïsses**   |
+| *dissera*    | **dixerat**   | | *dissesse*    | **dixïsset**   |
+| *disséramos* | **dixeramus** | | *disséssemos* | **dixïssïmus** |
+| *disséreis*  | **dixeräđis** | | *dissésseis*  | **dixïsseđis** |
+| *disseram*   | **dixerant**  | | *dissessem*   | **dixïssent**  |
