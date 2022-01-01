@@ -948,6 +948,8 @@
 
 # s̈tare - s̈tõ - s̈tivï - s̈tado
 
+<!-- e → eĭa -->
+
 | | | | | | | | | | | | |
 |-|-|-|-|-|-|-|-|-|-|-|-|
 | *estarei*   | **s̈tarẽŏ**   | | *estaria*    | **s̈tariam**   |
@@ -957,10 +959,16 @@
 | *estareis*  | **s̈taređis** | | *estaríeis*  | **s̈tariäđis** |
 | *estarão*   | **s̈tarano**  | | *estariam*   | **s̈tariant**  |
 | | | | | | | | | | | | |
-| *estou*     | **s̈tõ**     | | *tenha*    | **tenĭam**     | | | *tive*      | **tivï**      | | *tiver*      | **tiverïm**    |
-| *estás*     | **s̈tas**     | | *tenhas*   | **tenĭas**     | | | *tiveste*   | **tivïsti**   | | *tiveres*    | **tiverïs**    |
-| *está*      | **s̈tat**     | | *tenha*    | **tenĭat**     | | | *teve*      | **tïvït**     | | *tiver*      | **tiverït**    |
-| *estamos*   | **s̈tamus**   | | *tenhamos* | **tenĭamus**   | | | *tivemos*   | **tivïmus**   | | *tivermos*   | **tiverĭrmus** |
-| *estais*    | **s̈tađis**   | | *tenhais*  | **tenĭađis**   | | | *tivestes*  | **tivïstis**  | | *tiverdes*   | **tiverĭdis**  |
-| *estão*     | **s̈tano**    | | *tenham*   | **tenĭant**    | | | *tiveram*   | **tiverȗnt**  | | *tiverem*    | **tiverïnt**   |
-
+| *estou*     | **s̈tõ**      | | *esteja*     | **s̈teĭam**    | | | *estive*      | **s̈tivï**      | | *estiver*      | **s̈tiverïm**    |
+| *estás*     | **s̈tas**     | | *estejas*    | **s̈teĭas**    | | | *estiveste*   | **s̈tivïsti**   | | *estiveres*    | **s̈tiverïs**    |
+| *está*      | **s̈tat**     | | *esteja*     | **s̈teĭat**    | | | *esteve*      | **s̈tïvït**     | | *estiver*      | **s̈tiverït**    |
+| *estamos*   | **s̈tamus**   | | *estejamos*  | **s̈teĭamus**  | | | *estivemos*   | **s̈tivïmus**   | | *estivermos*   | **s̈tiverĭrmus** |
+| *estais*    | **s̈tađis**   | | *estejais*   | **s̈teĭađis**  | | | *estivestes*  | **s̈tivïstis**  | | *estiverdes*   | **s̈tiverĭdis**  |
+| *estão*     | **s̈tano**    | | *estejam*    | **s̈teĭant**   | | | *estiveram*   | **s̈tiverȗnt**  | | *estiverem*    | **s̈tiverïnt**   |
+| | | | | | | | | | | | |
+| *estava*    | **s̈tavam**   | |              |               | | | *estivera*    | **s̈tiveram**   | | *estivesse*    | **s̈tivïssem**   |
+| *estavas*   | **s̈tavas**   | |              |               | | | *estiveras*   | **s̈tiveras**   | | *estivesses*   | **s̈tivïsses**   |
+| *estava*    | **s̈tavat**   | |              |               | | | *estivera*    | **s̈tiverat**   | | *estivesse*    | **s̈tivïsset**   |
+| *estávamos* | **s̈tavamus** | |              |               | | | *estivéramos* | **s̈tiveramus** | | *estivéssemos* | **s̈tivïssemus** |
+| *estáveis*  | **s̈taväđis** | |              |               | | | *estivéreis*  | **s̈tiveräđis** | | *estivésseis*  | **s̈tivïsseđis** |
+| *estavam*   | **s̈tavant**  | |              |               | | | *estiveram*   | **s̈tiverant**  | | *estivessem*   | **s̈tivïssent**  |
