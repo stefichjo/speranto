@@ -246,7 +246,7 @@
 
 #### → u
 
-##### ¢ <!-- c with ring above? -->
+##### ¢
 
 | | [ŭ] |
 |-|-|
@@ -837,7 +837,7 @@
 | *faziam*     | **fac̆iant**   | |               |                | | | *fizeram*   | **fėc̆erant**  | | *fizessem*   | **fėc̆ïssent**  |
 
 
-# havere - hẽŏ
+# havere - hẽŏ - houvï - havido
 
 <!-- hăŭ → h -->
 <!-- habēnt → hăŭent → hano -->
@@ -869,3 +869,36 @@
 | *havíamos*  | **haviamus**  | |              |                | | | *houvéramos* | **houveramus** | | *houvéssemos* | **houvïssïmus** |
 | *havíeis*   | **haviäđis**  | |              |                | | | *houvéreis*  | **houveräđis** | | *houvésseis*  | **houvïsseđis** |
 | *haviam*    | **haviant**   | |              |                | | | *houveram*   | **houverant**  | | *houvessem*   | **houvïssent**  |
+
+# ĕssere - sõm
+
+<!-- essere  → esse/ser -->
+
+<!-- essem   → sum/sem     → sõm -->
+<!-- esses   → es          → es -->
+<!-- esset   → est         → e' -->
+<!-- essemus → sumus/semus → somus >
+<!-- essetis → estis/setis → sođis -->
+<!-- essunt  → sunt        → sõno -->
+
+<!-- i → eĭa -->
+
+<!-- essam/essim     → sim   → seĭam -->
+<!-- essas/essis     → sis   → seĭas -->
+<!-- essat/essit     → sit   → seĭat -->
+<!-- essamus/essimus → simus → seĭamus -->
+<!-- essatis/essitis → sitis → seĭađis -->
+<!-- essant/essint   → sint  → seĭant -->
+
+<!-- ůĭ/ůĕ → ů -->
+
+| | | | | | | | | | | | |
+|-|-|-|-|-|-|-|-|-|-|-|-|
+| | | | | | | | | | | | |
+| *sou*     | **sõm**   | | *seja*    | **seĭam**     | | | *fui*     | **fuï**     | | *for*    | **forim**    |
+| *és*      | **es**    | | *sejas*   | **seĭas**     | | | *foste*   | **fosti**   | | *fores*  | **foris**    |
+| *é*       | **e'**    | | *seja*    | **seĭat**     | | | *foi*     | **fůït**    | | *for*    | **forit**    |
+| *somos*   | **somus** | | *sejamos* | **seĭamus**   | | | *fomos*   | **fomus**   | | *formos* | **forĭrmus** |
+| *sois*    | **sođis** | | *sejais*  | **seĭađis**   | | | *fostes*  | **fostis**  | | *fordes* | **forĭdis**  |
+| *são*     | **sõno**  | | *sejam*   | **seĭant**    | | | *foram*   | **forant**  | | *forem*  | **forint**   |
+
