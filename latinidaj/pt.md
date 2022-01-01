@@ -870,9 +870,10 @@
 | *havíeis*   | **haviäđis**  | |              |                | | | *houvéreis*  | **houveräđis** | | *houvésseis*  | **houvïsseđis** |
 | *haviam*    | **haviant**   | |              |                | | | *houveram*   | **houverant**  | | *houvessem*   | **houvïssent**  |
 
-# ĕssere - sõm
+# ĕssere - sõm - fuï
 
 <!-- essere  → esse/ser -->
+<!-- ĕss → s -->
 
 <!-- essem   → sum/sem     → sõm -->
 <!-- esses   → es          → es -->
@@ -894,11 +895,24 @@
 
 | | | | | | | | | | | | |
 |-|-|-|-|-|-|-|-|-|-|-|-|
+| *serei*   | **serẽŏ**   | | *seria*    | **seriam**   |
+| *serás*   | **seras**   | | *serias*   | **serias**   |
+| *será*    | **serat**   | | *seria*    | **seriat**   |
+| *seremos* | **seremus** | | *seríamos* | **seriamus** |
+| *sereis*  | **seređis** | | *seríeis*  | **seriäđis** |
+| *serão*   | **serano**  | | *seriam*   | **seriant**  |
 | | | | | | | | | | | | |
-| *sou*     | **sõm**   | | *seja*    | **seĭam**     | | | *fui*     | **fuï**     | | *for*    | **forim**    |
-| *és*      | **es**    | | *sejas*   | **seĭas**     | | | *foste*   | **fosti**   | | *fores*  | **foris**    |
-| *é*       | **e'**    | | *seja*    | **seĭat**     | | | *foi*     | **fůït**    | | *for*    | **forit**    |
-| *somos*   | **somus** | | *sejamos* | **seĭamus**   | | | *fomos*   | **fomus**   | | *formos* | **forĭrmus** |
-| *sois*    | **sođis** | | *sejais*  | **seĭađis**   | | | *fostes*  | **fostis**  | | *fordes* | **forĭdis**  |
-| *são*     | **sõno**  | | *sejam*   | **seĭant**    | | | *foram*   | **forant**  | | *forem*  | **forint**   |
+| *sou*     | **sõm**     | | *seja*     | **seĭam**    | | | *fui*     | **fuï**     | | *for*    | **forim**      |
+| *és*      | **es**      | | *sejas*    | **seĭas**    | | | *foste*   | **fosti**   | | *fores*  | **foris**      |
+| *é*       | **e'**      | | *seja*     | **seĭat**    | | | *foi*     | **fůït**    | | *for*    | **forit**      |
+| *somos*   | **somus**   | | *sejamos*  | **seĭamus**  | | | *fomos*   | **fomus**   | | *formos* | **forĭrmus**   |
+| *sois*    | **sođis**   | | *sejais*   | **seĭađis**  | | | *fostes*  | **fostis**  | | *fordes* | **forĭdis**    |
+| *são*     | **sõno**    | | *sejam*    | **seĭant**   | | | *foram*   | **forant**  | | *forem*  | **forint**     |
+| | | | | | | | | | | | |
+| *era*     | **eram**    | |            |              | | | *fora*    | **foram**   | | *fosse*    | **fossem**   |
+| *eras*    | **eras**    | |            |              | | | *foras*   | **foras**   | | *fosses*   | **fosses**   |
+| *era*     | **erat**    | |            |              | | | *fora*    | **forat**   | | *fosse*    | **fosset**   |
+| *éramos*  | **eramus**  | |            |              | | | *fôramos* | **foramus** | | *fôssemos* | **fossïmus** |
+| *éreis*   | **eräđis**  | |            |              | | | *fôreis*  | **foräđis** | | *fôsseis*  | **fosseđis** |
+| *eram*    | **erant**   | |            |              | | | *foram*   | **forant**  | | *fossem*   | **fossent**  |
 
