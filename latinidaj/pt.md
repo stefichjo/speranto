@@ -971,9 +971,9 @@
 
 # dare - dõ - dĩ - dado
 
-<!-- TODO x- -->
 <!-- de dï  → dei dïŭĭ -->
 <!-- de dït → deu dïŭĭt -->
+<!-- TODO deem = dent ? -->
 
 | | | | | | | | | | | | |
 |-|-|-|-|-|-|-|-|-|-|-|-|
@@ -984,12 +984,12 @@
 | *dareis*  | **daređis** | | *daríeis*  | **dariäđis** |
 | *darão*   | **darano**  | | *dariam*   | **dariant**  |
 | | | | | | | | | | | | |
-| *dou*     | **dõ**      | | *dê*       | **dem**      | | | *dei*     | **dïŭĭ**    | | *estiver*      | **s̈tiverïm**    |
-| *dás*     | **das**     | | *dês*      | **des**      | | | *deste*   | **dïsti**   | | *estiveres*    | **s̈tiverïs**    |
-| *dá*      | **dat**     | | *dê*       | **det**      | | | *deu*     | **dïŭĭt**   | | *estiver*      | **s̈tiverït**    |
-| *damos*   | **damus**   | | *demos*    | **demus**    | | | *demos*   | **dïmus**   | | *estivermos*   | **s̈tiverĭrmus** |
-| *dais*    | **dađis**   | | *deis*     | **deđis**    | | | *destes*  | **dïstis**  | | *estiverdes*   | **s̈tiverĭdis**  |
-| *dão*     | **dano**    | | *deem*     | **dent**     | | | *deram*   | **derȗnt**  | | *estiverem*    | **s̈tiverïnt**   | <!-- deem = dent ? -->
+| *dou*     | **dõ**      | | *dê*       | **dem**      | | | *dei*     | **dïŭĭ**    | | *der*      | **derïm**    |
+| *dás*     | **das**     | | *dês*      | **des**      | | | *deste*   | **dïsti**   | | *deres*    | **derïs**    |
+| *dá*      | **dat**     | | *dê*       | **det**      | | | *deu*     | **dïŭĭt**   | | *der*      | **derït**    |
+| *damos*   | **damus**   | | *demos*    | **demus**    | | | *demos*   | **dïmus**   | | *dermos*   | **derĭrmus** |
+| *dais*    | **dađis**   | | *deis*     | **deđis**    | | | *destes*  | **dïstis**  | | *derdes*   | **derĭdis**  |
+| *dão*     | **dano**    | | *deem*     | **dent**     | | | *deram*   | **derȗnt**  | | *derem*    | **derïnt**   |
 | | | | | | | | | | | | |
 | *dava*    | **davam**   | |            |              | | | *dera*    | **deram**   | | *desse*    | **dïssem**   |
 | *davas*   | **davas**   | |            |              | | | *deras*   | **deras**   | | *desses*   | **dïsses**   |
@@ -998,6 +998,23 @@
 | *dáveis*  | **daväđis** | |            |              | | | *déreis*  | **deräđis** | | *désseis*  | **dïsseđis** |
 | *davam*   | **davant**  | |            |              | | | *deram*   | **derant**  | | *dessem*   | **dïssent**  |
 
+# ire
+*vadere*
 
-<!-- ir -->
+| | | | | | | | | | | | |
+|-|-|-|-|-|-|-|-|-|-|-|-|
+| *irei*   | **irẽŏ**   | | *daria*    | **dariam**   |
+| *irás*   | **iras**   | | *darias*   | **darias**   |
+| *irá*    | **irat**   | | *daria*    | **dariat**   |
+| *iremos* | **iremus** | | *daríamos* | **dariamus** |
+| *ireis*  | **iređis** | | *daríeis*  | **dariäđis** |
+| *irão*   | **irano**  | | *dariam*   | **dariant**  |
+| | | | | | | | | | | | |
+| *vou*     | **våđo**    | | *dê*       | **dem**      | | | *dei*     | **dïŭĭ**    | | *der*      | **derïm**    |
+| *vais*    | **vađes**   | | *dês*      | **des**      | | | *deste*   | **dïsti**   | | *deres*    | **derïs**    |
+| *vai*     | **vađe**    | | *dê*       | **det**      | | | *deu*     | **dïŭĭt**   | | *der*      | **derït**    |
+| *vamos*   | **vađĕmus** | | *demos*    | **demus**    | | | *demos*   | **dïmus**   | | *dermos*   | **derĭrmus** |
+| *ides*    | **idis**    | | *deis*     | **deđis**    | | | *destes*  | **dïstis**  | | *derdes*   | **derĭdis**  |
+| *vão*     | **vađăno**  | | *deem*     | **dent**     | | | *deram*   | **derȗnt**  | | *derem*    | **derïnt**   |
 
+<!-- TODO ... -->
