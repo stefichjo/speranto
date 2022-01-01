@@ -941,9 +941,6 @@
 | *tínheis*  | **tėnĭäđis**  | |            |                | | | *tivéreis*  | **tiveräđis** | | *tivésseis*  | **tivïsseđis** |
 | *tinham*   | **tėnĭant**   | |            |                | | | *tiveram*   | **tiverant**  | | *tivessem*   | **tivïssent**  |
 
-<!-- ir -->
-<!-- dar -->
-
 # s̈tare - s̈tõ - s̈tivï - s̈tado
 
 <!-- e → eĭa -->
@@ -971,3 +968,34 @@
 | *estávamos* | **s̈tavamus** | |              |               | | | *estivéramos* | **s̈tiveramus** | | *estivéssemos* | **s̈tivïssemus** |
 | *estáveis*  | **s̈taväđis** | |              |               | | | *estivéreis*  | **s̈tiveräđis** | | *estivésseis*  | **s̈tivïsseđis** |
 | *estavam*   | **s̈tavant**  | |              |               | | | *estiveram*   | **s̈tiverant**  | | *estivessem*   | **s̈tivïssent**  |
+
+# dare - dõ - ... - dado
+
+<!-- TODO x- -->
+
+| | | | | | | | | | | | |
+|-|-|-|-|-|-|-|-|-|-|-|-|
+| *darei*   | **darẽŏ**   | | *daria*    | **dariam**   |
+| *darás*   | **daras**   | | *darias*   | **darias**   |
+| *dará*    | **darat**   | | *daria*    | **dariat**   |
+| *daremos* | **daremus** | | *daríamos* | **dariamus** |
+| *dareis*  | **daređis** | | *daríeis*  | **dariäđis** |
+| *darão*   | **darano**  | | *dariam*   | **dariant**  |
+| | | | | | | | | | | | |
+| *dou*     | **dõ**      | | *dê*       | **dem**      | | | *dei*     | **x-ï**     | | *estiver*      | **s̈tiverïm**    |
+| *dás*     | **das**     | | *dês*      | **des**      | | | *deste*   | **dïsti**   | | *estiveres*    | **s̈tiverïs**    |
+| *dá*      | **dat**     | | *dê*       | **det**      | | | *deu*     | **x-ït**    | | *estiver*      | **s̈tiverït**    |
+| *damos*   | **damus**   | | *demos*    | **demus**    | | | *demos*   | **dïmus**   | | *estivermos*   | **s̈tiverĭrmus** |
+| *dais*    | **dađis**   | | *deis*     | **deđis**    | | | *destes*  | **dïstis**  | | *estiverdes*   | **s̈tiverĭdis**  |
+| *dão*     | **dano**    | | *deem*     | **dent**     | | | *deram*   | **derȗnt**  | | *estiverem*    | **s̈tiverïnt**   | <!-- deem = dent ? -->
+| | | | | | | | | | | | |
+| *dava*    | **davam**   | |            |              | | | *dera*    | **deram**   | | *desse*    | **dïssem**   |
+| *davas*   | **davas**   | |            |              | | | *deras*   | **deras**   | | *desses*   | **dïsses**   |
+| *dava*    | **davat**   | |            |              | | | *dera*    | **derat**   | | *desse*    | **dïsset**   |
+| *dávamos* | **davamus** | |            |              | | | *déramos* | **deramus** | | *déssemos* | **dïssemus** |
+| *dáveis*  | **daväđis** | |            |              | | | *déreis*  | **deräđis** | | *désseis*  | **dïsseđis** |
+| *davam*   | **davant**  | |            |              | | | *deram*   | **derant**  | | *dessem*   | **dïssent**  |
+
+
+<!-- ir -->
+
