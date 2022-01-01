@@ -584,7 +584,7 @@
 
 # Conjugatıõne
 
-## Infinitivo `-i`
+## Infinitivo
 
 | | |
 |-|-|
@@ -594,7 +594,7 @@
 | | |
 | *partir* | **partire** |
 
-### Imperativo `-u`
+### Imperativo
 
 | | | | | |
 |-|-|-|-|-|
@@ -604,36 +604,25 @@
 | | | | | |
 | *parte* | **parti** | | *parti* | **partiđe** |
 
-## Futuro `-os`
+## Futuro
 
 <!-- infinitivo + desinentĭas dĕ-lo verbo "havere" -->
 
 | | | | | |
 |-|-|-|-|-|
-| *amarei* | **amarẽ**  | | *amaremos* | **amaremus** |
+| *amarei* | **amarẽŏ** | | *amaremos* | **amaremus** |
 | *amarás* | **amaras** | | *amareis*  | **amaređis** |
 | *amará*  | **amarat** | | *amarão*   | **amarano**  |
 | | | | | |
-| *prenderei* | **prederẽ**  | | *prenderemos* | **prederemus** |
+| *prenderei* | **prederẽŏ** | | *prenderemos* | **prederemus** |
 | *prenderás* | **prederas** | | *prendereis*  | **predeređis** |
 | *prenderá*  | **prederat** | | *prenderão*   | **prederano**  |
 | | | | | |
-| *partirei* | **partirẽ**  | | *partiremos* | **partiremus** |
+| *partirei* | **partirẽŏ** | | *partiremos* | **partiremus** |
 | *partirás* | **partiras** | | *partireis*  | **partiređis** |
 | *partirá*  | **partirat** | | *partirão*   | **partirano**  |
 
-<!-- TODO -> verbos irregulares -->
-<!-- hăŭ → h -->
-<!-- hẽŏ = hẽ -->
-<!-- habēnt → hăŭent → hano -->
-
-| | | | | |
-|-|-|-|-|-|
-| *hei* | **hẽ**  | | *havemos* | **havemus** |
-| *hás* | **has** | | *haveis*  | **haveđis** |
-| *há*  | **hat** | | *hão*     | **hano**    |
-
-### Subjunctivo `do -us`
+### Futuro dĕ-lo Subjunctivo
 *(Futuro do pretérito do indicativo = Condicional)*
 
 <!-- infinitivo + desinentĭas dĕ-lo passado dĕ-lo verbo "ire" -->
@@ -652,7 +641,7 @@
 | *partirias* | **partirias** | | *partiríeis*  | **partiriäđis** |
 | *partiria*  | **partiriat** | | *partiriam*   | **partiriant**  |
 
-## Presente `-as`
+## Presente
 
 <!-- Indikativ Präsens (Imperfekt) -->
 <!-- -mus/-můs ? -->
@@ -674,7 +663,7 @@
 | *partes* | **partes** | | *partis*   | **partiđis** | <!-- ís ? -->
 | *parte*  | **partet** | | *partem*   | **partent**  |
 
-### Subjunctivo `ke -u`
+### Presente dĕ-lo Subjunctivo
 
 <!-- Konjunktiv Präsens (Imperfekt) -->
 
@@ -692,7 +681,7 @@
 | *partas* | **partas** | | *partais*   | **partađis** |
 | *parta*  | **partat** | | *partam*   | **partant**  |
 
-## Presente Perfeċto `-intas`
+## Presente Perfeċto
 *(Pretérito Perfeito do Indicativo)*
 
 <!-- Indikativ (Präsens) Perfekt -->
@@ -713,7 +702,7 @@
 | *partiste* | **partisti** | | *partistes* | **partistis** |
 | *partiu*   | **partiuĭt** | | *partiram*  | **partirant** |
 
-### Subjunctivo `kiam -us`
+### Presente Perfeċto dĕ-lo Subjunctivo
 *(Futuro do Subjuntivo)*
 
 <!-- Konjunktiv (Präsens) Perfekt -->
@@ -733,7 +722,7 @@
 | *partires* | **partiris** | | *partirdes* | **partirĭdis** |
 | *partir*   | **partirit** | | *partirem*  | **partirint**  |
 
-## Præterito `-is`
+## Præterito
 *(Pretérito Imperfeito do Indicativo)*
 
 <!-- Indikativ (Präteritum) Imperfekt -->
@@ -753,7 +742,7 @@
 | *partias* | **partias** | | *partíeis*  | **partiäđis** |
 | *partia*  | **partiat** | | *partiam*   | **partiant**  |
 
-## Præterito Perfeċto `-intis`
+## Præterito Perfeċto
 *(Pretérito Mais-que-perfeito do Indicativo)*
 
 <!-- Indikativ Plusquamperfekt (= Indikativ Präteritum Perfekt) -->
@@ -773,7 +762,7 @@
 | *partiras* | **partiras** | | *partíreis*  | **partiräđis** |
 | *partira*  | **partirat** | | *partiram*   | **partirant**  |
 
-### Subjunctivo `se -us`
+### Præterito Perfeċto dĕ-lo Subjunctivo
 *(Pretérito Imperfeito do Subjuntivo)*
 
 <!-- Konjunktiv Plusquamperfekt (= Konjunktiv Präteritum Perfekt) -->
@@ -801,7 +790,7 @@
 
 | | | | | | | | | | | | |
 |-|-|-|-|-|-|-|-|-|-|-|-|
-| *direi*      | **dic̆ĕrẽ**    | | *diria*       | **dic̆ĕriam**   |
+| *direi*      | **dic̆ĕrẽŏ**   | | *diria*       | **dic̆ĕriam**   |
 | *dirás*      | **dic̆ĕras**   | | *dirias*      | **dic̆ĕrias**   |
 | *dirá*       | **dic̆ĕrat**   | | *diria*       | **dic̆ĕriat**   |
 | *diremos*    | **dic̆ĕremus** | | *diríamos*    | **dic̆ĕriamus** |
@@ -810,7 +799,7 @@
 | | | | | | | | | | | | |
 | *digo*       | **dic̆o**      | | *diga*        | **dic̆am**      | | | *disse*      | **dixï**      | | *disser*      | **dixerim**    |
 | *dizes*      | **dic̆es**     | | *digas*       | **dic̆as**      | | | *disseste*   | **dixïsti**   | | *disseres*    | **dixeris**    |
-| *diz*        | **dic̆et**     | | *diga*        | **dic̆at**      | | | *disse*      | **dixit**     | | *disser*      | **dixerit**    |
+| *diz*        | **dic̆et**     | | *diga*        | **dic̆at**      | | | *disse*      | **dixït**     | | *disser*      | **dixerit**    |
 | *dizemos*    | **dic̆emus**   | | *digamos*     | **dic̆amus**    | | | *dissemos*   | **dixïmus**   | | *dissermos*   | **dixerĭrmus** |
 | *dizeis*     | **dic̆eđis**   | | *digais*      | **dic̆ađis**    | | | *dissestes*  | **dixïstis**  | | *disserdes*   | **dixerĭdis**  |
 | *dizem*      | **dic̆ent**    | | *digam*       | **dic̆ant**     | | | *disseram*   | **dixerant**  | | *disserem*    | **dixerint**   |
@@ -826,7 +815,7 @@
 
 | | | | | | | | | | | | |
 |-|-|-|-|-|-|-|-|-|-|-|-|
-| *farei*      | **fac̆ĕrẽ**    | | *faria*       | **fac̆ĕriam**   |
+| *farei*      | **fac̆ĕrẽŏ**   | | *faria*       | **fac̆ĕriam**   |
 | *farás*      | **fac̆ĕras**   | | *farias*      | **fac̆ĕrias**   |
 | *fará*       | **fac̆ĕrat**   | | *faria*       | **fac̆ĕriat**   |
 | *faremos*    | **fac̆ĕremus** | | *faríamos*    | **fac̆ĕriamus** |
@@ -835,7 +824,7 @@
 | | | | | | | | | | | | |
 | *faço*       | **facıo**     | | *faça*        | **facıam**     | | | *fiz*       | **fėc̆ï**      | | *fizer*      | **fėc̆erim**    |
 | *fazes*      | **fac̆es**     | | *faças*       | **facıas**     | | | *fizeste*   | **fėc̆ïsti**   | | *fizeres*    | **fėc̆eris**    |
-| *faz*        | **fac̆et**     | | *faça*        | **facıat**     | | | *fez*       | **fec̆it**     | | *fizer*      | **fėc̆erit**    |
+| *faz*        | **fac̆et**     | | *faça*        | **facıat**     | | | *fez*       | **fec̆ït**     | | *fizer*      | **fėc̆erit**    |
 | *fazemos*    | **fac̆emus**   | | *façamos*     | **facıamus**   | | | *fizemos*   | **fėc̆ïmus**   | | *fizermos*   | **fėc̆erĭrmus** |
 | *fazeis*     | **fac̆eđis**   | | *façais*      | **facıađis**   | | | *fizestes*  | **fėc̆ïstis**  | | *fizerdes*   | **fėc̆erĭdis**  |
 | *fazem*      | **fac̆ent**    | | *façam*       | **facıant**    | | | *fizeram*   | **fėc̆erant**  | | *fizerem*    | **fėc̆erint**   |
@@ -846,3 +835,37 @@
 | *fazíamos*   | **fac̆iamus**  | |               |                | | | *fizéramos* | **fėc̆eramus** | | *fizéssemos* | **fėc̆ïssïmus** |
 | *fazíeis*    | **fac̆iäđis**  | |               |                | | | *fizéreis*  | **fėc̆eräđis** | | *fizésseis*  | **fėc̆ïsseđis** |
 | *faziam*     | **fac̆iant**   | |               |                | | | *fizeram*   | **fėc̆erant**  | | *fizessem*   | **fėc̆ïssent**  |
+
+
+# havere - hẽŏ
+
+<!-- hăŭ → h -->
+<!-- habēnt → hăŭent → hano -->
+<!-- habu → houv >
+
+<!-- TODO vĭ = j -->
+
+<!-- TODO houverim → houverïm etc. -->
+
+| | | | | | | | | | | | |
+|-|-|-|-|-|-|-|-|-|-|-|-|
+| *haverei*   | **haverẽŏ**   | | *haveria*    | **haveriam**   |
+| *haverás*   | **haveras**   | | *haverias*   | **haverias**   |
+| *haverá*    | **haverat**   | | *haveria*    | **haveriat**   |
+| *haveremos* | **haveremus** | | *haveríamos* | **haveriamus** |
+| *havereis*  | **haveređis** | | *haveríeis*  | **haveriäđis** |
+| *haverão*   | **haverano**  | | *haveriam*   | **haveriant**  |
+| | | | | | | | | | | | |
+| *hei*       | **hẽ**        | | *haja*       | **havĭam**     | | | *houve*      | **houvï**      | | *houver*      | **houverim**    |
+| *hás*       | **has**       | | *hajas*      | **havĭas**     | | | *houveste*   | **houvïsti**   | | *houveres*    | **houveris**    |
+| *há*        | **hat**       | | *haja*       | **havĭat**     | | | *houve*      | **houvït**     | | *houver*      | **houverit**    |
+| *havemos*   | **havemus**   | | *hajamos*    | **havĭamus**   | | | *houvemos*   | **houvïmus**   | | *houvermos*   | **houverĭrmus** |
+| *haveis*    | **haveđis**   | | *hajais*     | **havĭađis**   | | | *houvestes*  | **houvïstis**  | | *houverdes*   | **houverĭdis**  |
+| *hão*       | **hano**      | | *hajam*      | **havĭant**    | | | *houveram*   | **houverant**  | | *houverem*    | **houverint**   |
+| | | | | | | | | | | | |
+| *havia*     | **haviam**    | |              |                | | | *houvera*    | **houveram**   | | *houvesse*    | **houvïssem**   |
+| *havias*    | **havias**    | |              |                | | | *houveras*   | **houveras**   | | *houvesses*   | **houvïsses**   |
+| *havia*     | **haviat**    | |              |                | | | *houvera*    | **houverat**   | | *houvesse*    | **houvïsset**   |
+| *havíamos*  | **haviamus**  | |              |                | | | *houvéramos* | **houveramus** | | *houvéssemos* | **houvïssïmus** |
+| *havíeis*   | **haviäđis**  | |              |                | | | *houvéreis*  | **houveräđis** | | *houvésseis*  | **houvïsseđis** |
+| *haviam*    | **haviant**   | |              |                | | | *houveram*   | **houverant**  | | *houvessem*   | **houvïssent**  |
