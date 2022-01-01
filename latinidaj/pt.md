@@ -846,8 +846,6 @@
 
 <!-- TODO vĭ = j -->
 
-<!-- TODO houverim → houverïm etc. -->
-
 | | | | | | | | | | | | |
 |-|-|-|-|-|-|-|-|-|-|-|-|
 | *haverei*   | **haverẽŏ**   | | *haveria*    | **haveriam**   |
@@ -881,8 +879,7 @@
 <!-- esset   → est         → e' -->
 <!-- essemus → sumus/semus → somus >
 <!-- essetis → estis/setis → sođis -->
-<!-- essunt  → sunt        → sõno -->
-<!-- TODO -õno = -ano ? -->
+<!-- essunt  → sunt        → sano -->
 
 <!-- i → eĭa -->
 
@@ -909,7 +906,7 @@
 | *é*       | **e'**      | | *seja*     | **seĭat**    | | | *foi*     | **fůït**    | | *for*      | **forït**    |
 | *somos*   | **somus**   | | *sejamos*  | **seĭamus**  | | | *fomos*   | **fomus**   | | *formos*   | **forĭrmus** |
 | *sois*    | **sođis**   | | *sejais*   | **seĭađis**  | | | *fostes*  | **fostis**  | | *fordes*   | **forĭdis**  |
-| *são*     | **sõno**    | | *sejam*    | **seĭant**   | | | *foram*   | **forȗnt**  | | *forem*    | **forïnt**   |
+| *são*     | **sano**    | | *sejam*    | **seĭant**   | | | *foram*   | **forȗnt**  | | *forem*    | **forïnt**   |
 | | | | | | | | | | | | |
 | *era*     | **eram**    | |            |              | | | *fora*    | **foram**   | | *fosse*    | **fossem**   |
 | *eras*    | **eras**    | |            |              | | | *foras*   | **foras**   | | *fosses*   | **fosses**   |
@@ -953,10 +950,17 @@
 
 | | | | | | | | | | | | |
 |-|-|-|-|-|-|-|-|-|-|-|-|
-| *estarei*    | **s̈tarẽŏ**   | | *estaria*    | **s̈tariam**   |
-| *estarás*    | **s̈taras**   | | *estarias*   | **s̈tarias**   |
-| *estará*     | **s̈tarat**   | | *estaria*    | **s̈tariat**   |
-| *estaremos*  | **s̈taremus** | | *estaríamos* | **s̈tariamus** |
-| *estareis*   | **s̈taređis** | | *estaríeis*  | **s̈tariäđis** |
-| *estarão*    | **s̈tarano**  | | *estariam*   | **s̈tariant**  |
+| *estarei*   | **s̈tarẽŏ**   | | *estaria*    | **s̈tariam**   |
+| *estarás*   | **s̈taras**   | | *estarias*   | **s̈tarias**   |
+| *estará*    | **s̈tarat**   | | *estaria*    | **s̈tariat**   |
+| *estaremos* | **s̈taremus** | | *estaríamos* | **s̈tariamus** |
+| *estareis*  | **s̈taređis** | | *estaríeis*  | **s̈tariäđis** |
+| *estarão*   | **s̈tarano**  | | *estariam*   | **s̈tariant**  |
+| | | | | | | | | | | | |
+| *estou*     | **s̈tõ**     | | *tenha*    | **tenĭam**     | | | *tive*      | **tivï**      | | *tiver*      | **tiverïm**    |
+| *estás*     | **s̈tas**     | | *tenhas*   | **tenĭas**     | | | *tiveste*   | **tivïsti**   | | *tiveres*    | **tiverïs**    |
+| *está*      | **s̈tat**     | | *tenha*    | **tenĭat**     | | | *teve*      | **tïvït**     | | *tiver*      | **tiverït**    |
+| *estamos*   | **s̈tamus**   | | *tenhamos* | **tenĭamus**   | | | *tivemos*   | **tivïmus**   | | *tivermos*   | **tiverĭrmus** |
+| *estais*    | **s̈tađis**   | | *tenhais*  | **tenĭađis**   | | | *tivestes*  | **tivïstis**  | | *tiverdes*   | **tiverĭdis**  |
+| *estão*     | **s̈tano**    | | *tenham*   | **tenĭant**    | | | *tiveram*   | **tiverȗnt**  | | *tiverem*    | **tiverïnt**   |
 
