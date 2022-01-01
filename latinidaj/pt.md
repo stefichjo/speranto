@@ -692,7 +692,7 @@
 |-|-|-|-|-|
 | *amei*   | **amäŭi**  | | *amamos*  | **amamus**  |
 | *amaste* | **amasti** | | *amastes* | **amastis** |
-| *amou*   | **amåuĭt** | | *amaram*  | **amarant** |
+| *amou*   | **amåuĭt** | | *amaram*  | **amarȗnt** |
 | | | | | |
 | *prendi*    | **prendĕŭi**  | | *prendemos*  | **prendïmus**  | <!-- -ev- etc. checken -->
 | *prendeste* | **prendïsti** | | *prendestes* | **prendïstis** |
@@ -748,7 +748,6 @@
 <!-- Indikativ Plusquamperfekt (= Indikativ Präteritum Perfekt) -->
 <!-- Perfektstamm + Präteritum von "esse"-->
 <!-- ŭĕ → - -->
-<!-- TODO tenuerunt = tiverant → tiverȗnt ≠ tenuerant = tiverant -->
 
 | | | | | |
 |-|-|-|-|-|
@@ -758,11 +757,11 @@
 | | | | | |
 | *prendera*  | **prenderam** | | *prendêramos* | **prenderamus** |
 | *prenderas* | **prenderas** | | *prendêreis*  | **prenderäđis** |
-| *prendera*  | **prenderat** | | *prenderam*   | **prenderȗnt**  |
+| *prendera*  | **prenderat** | | *prenderam*   | **prenderant**  |
 | | | | | |
 | *partira*  | **partiram** | | *partíramos* | **partiramus** |
 | *partiras* | **partiras** | | *partíreis*  | **partiräđis** |
-| *partira*  | **partirat** | | *partiram*   | **partirȗnt**  |
+| *partira*  | **partirat** | | *partiram*   | **partirant**  |
 
 ### Præterito Perfeċto dĕ-lo Subjunctivo
 *(Pretérito Imperfeito do Subjuntivo)*
@@ -943,12 +942,12 @@
 | *tinham*   | **tėnĭant**   | |            |                | | | *tiveram*   | **tiverant**  | | *tivessem*   | **tivïssent**  |
 
 <!-- ir -->
-<!-- estar -->
 <!-- dar -->
 
 # s̈tare - s̈tõ - s̈tivï - s̈tado
 
 <!-- e → eĭa -->
+<!-- stet → s̈tiv -->
 
 | | | | | | | | | | | | |
 |-|-|-|-|-|-|-|-|-|-|-|-|
