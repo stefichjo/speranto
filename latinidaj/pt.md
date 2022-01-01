@@ -234,7 +234,7 @@
 
 | | |
 |-|-|
-| *coisa* | **cåu̇sa** = **coṡa** |
+| *coisa* | **coṡa** |
 | *dois* | **doṡ** |
 
 ###### ṡs
@@ -371,7 +371,6 @@
 | *eu* | **eğǒ** = **eo** |
 | *meu* | **meǒ** = **meo** |
 | *museu* | **museǒ** = **museo** |
-| *vou* | **våđǒ** = **våđo** |
 
 ### Mut̯adas
 
@@ -840,6 +839,7 @@
 # havere - hẽŏ - houvï - havido
 
 <!-- hăŭ → h -->
+<!-- TODO haver -> har: ho has hat ... -->
 <!-- habēnt → hăŭent → hano -->
 <!-- habu → houv >
 
@@ -998,23 +998,37 @@
 | *dáveis*  | **daväđis** | |            |              | | | *déreis*  | **deräđis** | | *désseis*  | **dïsseđis** |
 | *davam*   | **davant**  | |            |              | | | *deram*   | **derant**  | | *dessem*   | **dïssent**  |
 
-# ire
-*vadere*
+# ire - våđo - fuï - ido
+
+<!-- văđ → v -->
+<!-- vat vá (va) → vaṫ vai -->
+<!-- vađĕdis → idis -->
+<!-- aa → a -->
+<!-- vađĕno/vano -->
+<!-- ii → fui ... -->
+<!-- eo → vado → våđo -->
+<!-- TODO vađe! iđe! -->
 
 | | | | | | | | | | | | |
 |-|-|-|-|-|-|-|-|-|-|-|-|
-| *irei*   | **irẽŏ**   | | *daria*    | **dariam**   |
-| *irás*   | **iras**   | | *darias*   | **darias**   |
-| *irá*    | **irat**   | | *daria*    | **dariat**   |
-| *iremos* | **iremus** | | *daríamos* | **dariamus** |
-| *ireis*  | **iređis** | | *daríeis*  | **dariäđis** |
-| *irão*   | **irano**  | | *dariam*   | **dariant**  |
+| *irei*   | **irẽŏ**    | | *iria*    | **iriam**   |
+| *irás*   | **iras**    | | *irias*   | **irias**   |
+| *irá*    | **irat**    | | *iria*    | **iriat**   |
+| *iremos* | **iremus**  | | *iríamos* | **iriamus** |
+| *ireis*  | **iređis**  | | *iríeis*  | **iriäđis** |
+| *irão*   | **irano**   | | *iriam*   | **iriant**  |
 | | | | | | | | | | | | |
-| *vou*     | **våđo**    | | *dê*       | **dem**      | | | *dei*     | **dïŭĭ**    | | *der*      | **derïm**    |
-| *vais*    | **vađes**   | | *dês*      | **des**      | | | *deste*   | **dïsti**   | | *deres*    | **derïs**    |
-| *vai*     | **vađe**    | | *dê*       | **det**      | | | *deu*     | **dïŭĭt**   | | *der*      | **derït**    |
-| *vamos*   | **vađĕmus** | | *demos*    | **demus**    | | | *demos*   | **dïmus**   | | *dermos*   | **derĭrmus** |
-| *ides*    | **idis**    | | *deis*     | **deđis**    | | | *destes*  | **dïstis**  | | *derdes*   | **derĭdis**  |
-| *vão*     | **vađăno**  | | *deem*     | **dent**     | | | *deram*   | **derȗnt**  | | *derem*    | **derïnt**   |
+| *vou*    | **våđo**    | | *vá*      | **vađa**    | | | | | | | |
+| *vais*   | **vađes**   | | *vás*     | **vađas**   | | | | | | | |
+| *vai*    | **vađet**   | | *vá*      | **vađat**   | | | | | | | |
+| *vamos*  | **vađĕmus** | | *vamos*   | **vađamus** | | | | | | | |
+| *ides*   | **idis**    | | *vades*   | **vađadis** | | | | | | | |
+| *vão*    | **vano**    | | *vão*     | **vađano**  | | | | | | | |
+| | | | | | | | | | | | |
+| *ia*    | **iam**      | |           |             | | | | | | | |
+| *ias*   | **ias**      | |           |             | | | | | | | |
+| *ia*    | **iat**      | |           |             | | | | | | | |
+| *íamos* | **iamus**    | |           |             | | | | | | | |
+| *íeis*  | **iäđis**    | |           |             | | | | | | | |
+| *iam*   | **iant**     | |           |             | | | | | | | |
 
-<!-- TODO ... -->
