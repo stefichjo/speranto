@@ -969,9 +969,11 @@
 | *estáveis*  | **s̈taväđis** | |              |               | | | *estivéreis*  | **s̈tiveräđis** | | *estivésseis*  | **s̈tivïsseđis** |
 | *estavam*   | **s̈tavant**  | |              |               | | | *estiveram*   | **s̈tiverant**  | | *estivessem*   | **s̈tivïssent**  |
 
-# dare - dõ - ... - dado
+# dare - dõ - dĩ - dado
 
 <!-- TODO x- -->
+<!-- de dï  → dei dïŭĭ -->
+<!-- de dït → deu dïŭĭt -->
 
 | | | | | | | | | | | | |
 |-|-|-|-|-|-|-|-|-|-|-|-|
@@ -982,9 +984,9 @@
 | *dareis*  | **daređis** | | *daríeis*  | **dariäđis** |
 | *darão*   | **darano**  | | *dariam*   | **dariant**  |
 | | | | | | | | | | | | |
-| *dou*     | **dõ**      | | *dê*       | **dem**      | | | *dei*     | **x-ï**     | | *estiver*      | **s̈tiverïm**    |
+| *dou*     | **dõ**      | | *dê*       | **dem**      | | | *dei*     | **dïŭĭ**    | | *estiver*      | **s̈tiverïm**    |
 | *dás*     | **das**     | | *dês*      | **des**      | | | *deste*   | **dïsti**   | | *estiveres*    | **s̈tiverïs**    |
-| *dá*      | **dat**     | | *dê*       | **det**      | | | *deu*     | **x-ït**    | | *estiver*      | **s̈tiverït**    |
+| *dá*      | **dat**     | | *dê*       | **det**      | | | *deu*     | **dïŭĭt**   | | *estiver*      | **s̈tiverït**    |
 | *damos*   | **damus**   | | *demos*    | **demus**    | | | *demos*   | **dïmus**   | | *estivermos*   | **s̈tiverĭrmus** |
 | *dais*    | **dađis**   | | *deis*     | **deđis**    | | | *destes*  | **dïstis**  | | *estiverdes*   | **s̈tiverĭdis**  |
 | *dão*     | **dano**    | | *deem*     | **dent**     | | | *deram*   | **derȗnt**  | | *estiverem*    | **s̈tiverïnt**   | <!-- deem = dent ? -->
