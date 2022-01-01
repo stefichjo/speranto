@@ -807,7 +807,7 @@
 | *dizia*      | **dic̆iam**    | |               |                | | | *dissera*    | **dixeram**   | | *dissesse*    | **dixïssem**   |
 | *dizias*     | **dic̆ias**    | |               |                | | | *disseras*   | **dixeras**   | | *dissesses*   | **dixïsses**   |
 | *dizia*      | **dic̆iat**    | |               |                | | | *dissera*    | **dixerat**   | | *dissesse*    | **dixïsset**   |
-| *dizíamos*   | **dic̆iamus**  | |               |                | | | *disséramos* | **dixeramus** | | *disséssemos* | **dixïssïmus** |
+| *dizíamos*   | **dic̆iamus**  | |               |                | | | *disséramos* | **dixeramus** | | *disséssemos* | **dixïssemus** |
 | *dizíeis*    | **dic̆iäđis**  | |               |                | | | *disséreis*  | **dixeräđis** | | *dissésseis*  | **dixïsseđis** |
 | *diziam*     | **dic̆iant**   | |               |                | | | *disseram*   | **dixerant**  | | *dissessem*   | **dixïssent**  |
 
@@ -832,7 +832,7 @@
 | *fazia*      | **fac̆iam**    | |               |                | | | *fizera*    | **fėc̆eram**   | | *fizesse*    | **fėc̆ïssem**   |
 | *fazias*     | **fac̆ias**    | |               |                | | | *fizeras*   | **fėc̆eras**   | | *fizesses*   | **fėc̆ïsses**   |
 | *fazia*      | **fac̆iat**    | |               |                | | | *fizera*    | **fėc̆erat**   | | *fizesse*    | **fėc̆ïsset**   |
-| *fazíamos*   | **fac̆iamus**  | |               |                | | | *fizéramos* | **fėc̆eramus** | | *fizéssemos* | **fėc̆ïssïmus** |
+| *fazíamos*   | **fac̆iamus**  | |               |                | | | *fizéramos* | **fėc̆eramus** | | *fizéssemos* | **fėc̆ïssemus** |
 | *fazíeis*    | **fac̆iäđis**  | |               |                | | | *fizéreis*  | **fėc̆eräđis** | | *fizésseis*  | **fėc̆ïsseđis** |
 | *faziam*     | **fac̆iant**   | |               |                | | | *fizeram*   | **fėc̆erant**  | | *fizessem*   | **fėc̆ïssent**  |
 
@@ -866,7 +866,7 @@
 | *havia*     | **haviam**    | |              |                | | | *houvera*    | **houveram**   | | *houvesse*    | **houvïssem**   |
 | *havias*    | **havias**    | |              |                | | | *houveras*   | **houveras**   | | *houvesses*   | **houvïsses**   |
 | *havia*     | **haviat**    | |              |                | | | *houvera*    | **houverat**   | | *houvesse*    | **houvïsset**   |
-| *havíamos*  | **haviamus**  | |              |                | | | *houvéramos* | **houveramus** | | *houvéssemos* | **houvïssïmus** |
+| *havíamos*  | **haviamus**  | |              |                | | | *houvéramos* | **houveramus** | | *houvéssemos* | **houvïssemus** |
 | *havíeis*   | **haviäđis**  | |              |                | | | *houvéreis*  | **houveräđis** | | *houvésseis*  | **houvïsseđis** |
 | *haviam*    | **haviant**   | |              |                | | | *houveram*   | **houverant**  | | *houvessem*   | **houvïssent**  |
 
@@ -912,7 +912,7 @@
 | *era*     | **eram**    | |            |              | | | *fora*    | **foram**   | | *fosse*    | **fossem**   |
 | *eras*    | **eras**    | |            |              | | | *foras*   | **foras**   | | *fosses*   | **fosses**   |
 | *era*     | **erat**    | |            |              | | | *fora*    | **forat**   | | *fosse*    | **fosset**   |
-| *éramos*  | **eramus**  | |            |              | | | *fôramos* | **foramus** | | *fôssemos* | **fossïmus** |
+| *éramos*  | **eramus**  | |            |              | | | *fôramos* | **foramus** | | *fôssemos* | **fossemus** |
 | *éreis*   | **eräđis**  | |            |              | | | *fôreis*  | **foräđis** | | *fôsseis*  | **fosseđis** |
 | *eram*    | **erant**   | |            |              | | | *foram*   | **forant**  | | *fossem*   | **fossent**  |
 
