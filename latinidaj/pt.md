@@ -633,6 +633,31 @@
 | *amáveis*  | **amaväđis** | | *amardes*   | **amarĕdis**  | | *amáreis*  | **amaräđis** | | *amásseis*  | **amasseđis** |
 | *amavam*   | **amavant**  | | *amarem*    | **amarent**   | | *amaram*   | **amarant**  | | *amassem*   | **amassent**  |
 
+| ___Ind.___ | | | ___Sub.___ | | | ___Ind.___ | | | ___Sub.___ | |
+|-|-|-|-|-|-|-|-|-|-|-|
+| ___Imperfeito___ | | | | | | ___Perfeito___ | | | | |
+| ___Futuro___ | | | | | | | | | | | |
+| *-arei*   | **-arẽ**    | | *-aria*    | **-ariam**   |
+| *-arás*   | **-aras**   | | *-arias*   | **-arias**   |
+| *-ará*    | **-arat**   | | *-aria*    | **-ariat**   |
+| *-aremos* | **-aremus** | | *-aríamos* | **-ariamus** |
+| *-areis*  | **-aređis** | | *-aríeis*  | **-ariäđis** |
+| *-arão*   | **-arano**  | | *-ariam*   | **-ariant**  |
+| ___Presente___ | | | | | | | | | | | |
+| *-o*      | **-o**      | | *-e*       | **amem**      | | *-ei*     | **-äŭi**    | | *-ar*      | **-arïm**    |
+| *-as*     | **-as**     | | *-es*      | **ames**      | | *-aste*   | **-asti**   | | *-ares*    | **-arïs**    |
+| *-a*      | **-at**     | | *-e*       | **amet**      | | *-ou*     | **-åuĭt**   | | *-ar*      | **-arït**    |
+| *-amos*   | **-amus**   | | *-emos*    | **amemus**    | | *-amos*   | **-amus**   | | *-armos*   | **-arĭmus**  |
+| *-ais*    | **-ađis**   | | *-eis*     | **ameđis**    | | *-astes*  | **-astis**  | | *-ardes*   | **-arĭdis**  |
+| *-am*     | **-ant**    | | *-em*      | **ament**     | | *-aram*   | **-arȗnt**  | | *-arem*    | **-arïnt**   |
+| ___Pretérito___ | | | | | | | | | | | |
+| *-ava*    | **-avam**   | | *-ar*      | **-arem**    | | *-ara*    | **-aram**   | | *-asse*    | **-assem**   |
+| *-avas*   | **-avas**   | | *-ares*    | **-ares**    | | *-aras*   | **-aras**   | | *-asses*   | **-asses**   |
+| *-ava*    | **-avat**   | | *-ar*      | **-aret**    | | *-ara*    | **-arat**   | | *-asse*    | **-asset**   |
+| *-ávamos* | **-amus**   | | *-armos*   | **-arĕmus**  | | *-áramos* | **-aramus** | | *-ássemos* | **-assemus** |
+| *-áveis*  | **-aväđis** | | *-ardes*   | **-arĕdis**  | | *-áreis*  | **-aräđis** | | *-ásseis*  | **-asseđis** |
+| *-avam*   | **-avant**  | | *-arem*    | **-arent**   | | *-aram*   | **-arant**  | | *-assem*   | **-assent**  |
+
 
 
 
