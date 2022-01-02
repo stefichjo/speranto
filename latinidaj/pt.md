@@ -611,6 +611,7 @@
 | ___Ind.___ | | | ___Sub.___ | | | ___Ind.___ | | | ___Sub.___ | |
 |-|-|-|-|-|-|-|-|-|-|-|
 | ___Imperfeito___ | | | | | | ___Perfeito___ | | | | |
+| | | | | | | | | | | |
 | ___Futuro___ | | | | | | | | | | | |
 | *amarei*   | **amarẽ**    | | *amaria*    | **amariam**   |
 | *amarás*   | **amaras**   | | *amarias*   | **amarias**   |
@@ -633,32 +634,52 @@
 | *amáveis*  | **amaväđis** | | *amardes*   | **amarĕdis**  | | *amáreis*  | **amaräđis** | | *amásseis*  | **amasseđis** |
 | *amavam*   | **amavant**  | | *amarem*    | **amarent**   | | *amaram*   | **amarant**  | | *amassem*   | **amassent**  |
 
+
+
 | ___Ind.___ | | | ___Sub.___ | | | ___Ind.___ | | | ___Sub.___ | |
 |-|-|-|-|-|-|-|-|-|-|-|
 | ___Imperfeito___ | | | | | | ___Perfeito___ | | | | |
+| | | | | | | | | | | |
 | ___Futuro___ | | | | | | | | | | | |
-| *-arei*   | **-arẽ**    | | *-aria*    | **-ariam**   |
-| *-arás*   | **-aras**   | | *-arias*   | **-arias**   |
-| *-ará*    | **-arat**   | | *-aria*    | **-ariat**   |
-| *-aremos* | **-aremus** | | *-aríamos* | **-ariamus** |
-| *-areis*  | **-aređis** | | *-aríeis*  | **-ariäđis** |
-| *-arão*   | **-arano**  | | *-ariam*   | **-ariant**  |
+| *-ei*     | **-ẽ**      | | *-ia*      | **-iam**    |
+| *-ás*     | **-as**     | | *-ias*     | **-ias**    |
+| *-á*      | **-at**     | | *-ia*      | **-iat**    |
+| *-emos*   | **-emus**   | | *-íamos*   | **-iamus**  |
+| *-eis*    | **-eđis**   | | *-íeis*    | **-iäđis**  |
+| *-ão*     | **-ano**    | | *-iam*     | **-iant**   |
 | ___Presente___ | | | | | | | | | | | |
-| *-o*      | **-o**      | | *-e*       | **-em**      | | *-ei*     | **-äŭi**    | | *-ar*      | **-arïm**    |
-| *-as*     | **-as**     | | *-es*      | **-es**      | | *-aste*   | **-asti**   | | *-ares*    | **-arïs**    |
-| *-a*      | **-at**     | | *-e*       | **-et**      | | *-ou*     | **-åuĭt**   | | *-ar*      | **-arït**    |
-| *-amos*   | **-amus**   | | *-emos*    | **-emus**    | | *-amos*   | **-amus**   | | *-armos*   | **-arĭmus**  |
-| *-ais*    | **-ađis**   | | *-eis*     | **-eđis**    | | *-astes*  | **-astis**  | | *-ardes*   | **-arĭdis**  |
-| *-am*     | **-ant**    | | *-em*      | **-ent**     | | *-aram*   | **-arȗnt**  | | *-arem*    | **-arïnt**   |
+| *-o*      | **-o**      | | *-e*       | **-em**     | | *-ei*     | **-äŭi**    | | *-ar*      | **-arïm**    |
+| *-as*     | **-as**     | | *-es*      | **-es**     | | *-aste*   | **-asti**   | | *-ares*    | **-arïs**    |
+| *-a*      | **-at**     | | *-e*       | **-et**     | | *-ou*     | **-åuĭt**   | | *-ar*      | **-arït**    |
+| *-amos*   | **-amus**   | | *-emos*    | **-emus**   | | *-amos*   | **-amus**   | | *-armos*   | **-arĭmus**  |
+| *-ais*    | **-ađis**   | | *-eis*     | **-eđis**   | | *-astes*  | **-astis**  | | *-ardes*   | **-arĭdis**  |
+| *-am*     | **-ant**    | | *-em*      | **-ent**    | | *-aram*   | **-arȗnt**  | | *-arem*    | **-arïnt**   |
 | ___Pretérito___ | | | | | | | | | | | |
-| *-ava*    | **-avam**   | | *-ar*      | **-arem**    | | *-ara*    | **-aram**   | | *-asse*    | **-assem**   |
-| *-avas*   | **-avas**   | | *-ares*    | **-ares**    | | *-aras*   | **-aras**   | | *-asses*   | **-asses**   |
-| *-ava*    | **-avat**   | | *-ar*      | **-aret**    | | *-ara*    | **-arat**   | | *-asse*    | **-asset**   |
-| *-ávamos* | **-amus**   | | *-armos*   | **-arĕmus**  | | *-áramos* | **-aramus** | | *-ássemos* | **-assemus** |
-| *-áveis*  | **-aväđis** | | *-ardes*   | **-arĕdis**  | | *-áreis*  | **-aräđis** | | *-ásseis*  | **-asseđis** |
-| *-avam*   | **-avant**  | | *-arem*    | **-arent**   | | *-aram*   | **-arant**  | | *-assem*   | **-assent**  |
+| *-ava*    | **-avam**   | | *-ar*      | **-arem**   | | *-ara*    | **-aram**   | | *-asse*    | **-assem**   |
+| *-avas*   | **-avas**   | | *-ares*    | **-ares**   | | *-aras*   | **-aras**   | | *-asses*   | **-asses**   |
+| *-ava*    | **-avat**   | | *-ar*      | **-aret**   | | *-ara*    | **-arat**   | | *-asse*    | **-asset**   |
+| *-ávamos* | **-avamus** | | *-armos*   | **-arĕmus** | | *-áramos* | **-aramus** | | *-ássemos* | **-assemus** |
+| *-áveis*  | **-aväđis** | | *-ardes*   | **-arĕdis** | | *-áreis*  | **-aräđis** | | *-ásseis*  | **-asseđis** |
+| *-avam*   | **-avant**  | | *-arem*    | **-arent**  | | *-aram*   | **-arant**  | | *-assem*   | **-assent**  |
 
+| ___Ind.___ | | ___Sub.___ | | ___Ind.___ | | ___Sub.___ |
+|-|-|-|-|-|-|-|
+| ___Imperfeito___ | | | | ___Perfeito___ | | |
+| | | | | | | |
+| ___Futuro___ | | | | | | |
+| `=`   | | `=` |
+| ___Presente___ | | | | | | |
+| `+/-` | | `+` | | `~` | | `~` |
+| ___Pretérito___ | | | | | | |
+| `-`   | | `-` | | `~` | | `~` |
 
+| | |
+|-|-|
+| `-` | **fac̆**ere |
+| `=` | **fac̆ĕr**~ |
+| `+` | **facı**o  |
+| `~` | **fic̆**ï   |
+| `*` | **fäct**o  |
 
 
 # ?Conjugatıõne <!-- TODO: -unt → -ent/-int/-ant/-ano -->
