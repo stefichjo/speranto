@@ -609,50 +609,32 @@
 | **amarẽ** | | **amo**  | | **amäŭi** | | **amado**  |
 
 
-| Futuro | | | | |
-|-|-|-|-|-|
-| *amarei*   | **amarẽ**    | | *amaria*    | **amariam**   |
-| *amarás*   | **amaras**   | | *amarias*   | **amarias**   |
-| *amará*    | **amarat**   | | *amaria*    | **amariat**   |
-| *amaremos* | **amaremus** | | *amaríamos* | **amariamus** |
-| *amareis*  | **amaređis** | | *amaríeis*  | **amariäđis** |
-| *amarão*   | **amarano**  | | *amariam*   | **amariant**  |
 
-| Presente | | | | |
-|-|-|-|-|-|
-| *amo*      | **amo**      | | *ame*       | **amem**      |
-| *amas*     | **amas**     | | *ames*      | **ames**      |
-| *ama*      | **amat**     | | *ame*       | **amet**      |
-| *amamos*   | **amamus**   | | *amemos*    | **amemus**    |
-| *amais*    | **amađis**   | | *ameis*     | **ameđis**    |
-| *amam*     | **amant**    | | *amem*      | **ament**     |
+| | __Imperfeito__ | | | | | | | __Perfeito__ | | | | |
+|-|-|-|-|-|-|-|-|-|-|-|-|-|
+| | __Ind.__ | | | __Sub.__ | | | | __Ind.__ | | | __Sub.__ | |
+| __Futuro__ | | | | | | | | | | | | |
+| | *amarei*   | **amarẽ**    | | *amaria*    | **amariam**   |
+| | *amarás*   | **amaras**   | | *amarias*   | **amarias**   |
+| | *amará*    | **amarat**   | | *amaria*    | **amariat**   |
+| | *amaremos* | **amaremus** | | *amaríamos* | **amariamus** |
+| | *amareis*  | **amaređis** | | *amaríeis*  | **amariäđis** |
+| | *amarão*   | **amarano**  | | *amariam*   | **amariant**  |
+| __Presente__ | | | | | | | | | | | | |
+| | *amo*      | **amo**      | | *ame*       | **amem**      | | | *amei*     | **amäŭi**    | | *amar*      | **amarïm**    |
+| | *amas*     | **amas**     | | *ames*      | **ames**      | | | *amaste*   | **amasti**   | | *amares*    | **amarïs**    |
+| | *ama*      | **amat**     | | *ame*       | **amet**      | | | *amou*     | **amåuĭt**   | | *amar*      | **amarït**    |
+| | *amamos*   | **amamus**   | | *amemos*    | **amemus**    | | | *amamos*   | **amamus**   | | *amarmos*   | **amarĭmus**  |
+| | *amais*    | **amađis**   | | *ameis*     | **ameđis**    | | | *amastes*  | **amastis**  | | *amardes*   | **amarĭdis**  |
+| | *amam*     | **amant**    | | *amem*      | **ament**     | | | *amaram*   | **amarȗnt**  | | *amarem*    | **amarïnt**   |
+| __Pretérito__ | | | | | | | | | | | | |
+| | *amava*    | **amavam**   | | *amar*      | **amarem**    | | | *amara*    | **amaram**   | | *amasse*    | **amassem**   |
+| | *amavas*   | **amavas**   | | *amares*    | **amares**    | | | *amaras*   | **amaras**   | | *amasses*   | **amasses**   |
+| | *amava*    | **amavat**   | | *amar*      | **amaret**    | | | *amara*    | **amarat**   | | *amasse*    | **amasset**   |
+| | *amávamos* | **amamus**   | | *amarmos*   | **amarĕmus**  | | | *amáramos* | **amaramus** | | *amássemos* | **amassemus** |
+| | *amáveis*  | **amaväđis** | | *amardes*   | **amarĕdis**  | | | *amáreis*  | **amaräđis** | | *amásseis*  | **amasseđis** |
+| | *amavam*   | **amavant**  | | *amarem*    | **amarent**   | | | *amaram*   | **amarant**  | | *amassem*   | **amassent**  |
 
-| Pretérito | | | | |
-|-|-|-|-|-|
-| *amava*    | **amavam**   | | *amar*      | **amarem**    |
-| *amavas*   | **amavas**   | | *amares*    | **amares**    |
-| *amava*    | **amavat**   | | *amar*      | **amaret**    |
-| *amávamos* | **amamus**   | | *amarmos*   | **amarĕmus**  |
-| *amáveis*  | **amaväđis** | | *amardes*   | **amarĕdis**  |
-| *amavam*   | **amavant**  | | *amarem*    | **amarent**   |
-
-| Perfeito | | | | |
-|-|-|-|-|-|
-| *amei*     | **amäŭi**    | | *amar*      | **amarïm**    |
-| *amaste*   | **amasti**   | | *amares*    | **amarïs**    |
-| *amou*     | **amåuĭt**   | | *amar*      | **amarït**    |
-| *amamos*   | **amamus**   | | *amarmos*   | **amarĭmus**  |
-| *amastes*  | **amastis**  | | *amardes*   | **amarĭdis**  |
-| *amaram*   | **amarȗnt**  | | *amarem*    | **amarïnt**   |
-
-| +Perfeito | | | | |
-|-|-|-|-|-|
-| *amara*    | **amaram**   | | *amasse*    | **amassem**   |
-| *amaras*   | **amaras**   | | *amasses*   | **amasses**   |
-| *amara*    | **amarat**   | | *amasse*    | **amasset**   |
-| *amáramos* | **amaramus** | | *amássemos* | **amassemus** |
-| *amáreis*  | **amaräđis** | | *amásseis*  | **amasseđis** |
-| *amaram*   | **amarant**  | | *amassem*   | **amassent**  |
 
 
 
