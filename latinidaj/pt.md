@@ -588,18 +588,73 @@
 
 <!-- Nomenclatura -->
 
-| | |
-|-|-|
-| *Futuro do Presente*                              | ___Futuro___                             |
-| *Futuro do Pretérito/Condicional (do Indicativo)* | ___Futuro (do Subjuntivo)___             |
-| *Presente*                                        | ___Presente___                           |
-| *Presente (do Subjuntivo)/Imperativo*             | ___Presente (do Subjuntivo)___           |
-| *Pretérito Imperfeito*                            | ___Pretérito___                          |
-| *Infinitivo Pessoal*                              | ___Pretérito (do Subjuntivo)___          |
-| *Pretérito Perfeito*                              | ___Presente Perfeito___                  |
-| *Futuro (do Subjuntivo)*                          | ___Presente Perfeito (do Subjuntivo)___  |
-| *Pretérito Mais-que-perfeito*                     | ___Pretérito Perfeito___                 |
-| *Pretérito Imperfeito (do Subjuntivo)*            | ___Pretérito Perfeito (do Subjuntivo)___ |
+| | | |
+|-|-|-|
+| *Futuro do Presente*                              | ___Futuro___                             | |
+| *Futuro do Pretérito/Condicional (do Indicativo)* | ___Futuro (do Subjuntivo)___             | |
+| *Presente*                                        | ___Presente___                           | |
+| *Presente (do Subjuntivo)/Imperativo*             | ___Presente (do Subjuntivo)___           | |
+| *Pretérito Imperfeito*                            | ___Pretérito___                          | |
+| *Infinitivo Pessoal*                              | ___Pretérito (do Subjuntivo)___          | |
+| *Pretérito Perfeito*                              | ___Presente Perfeito___                  | ___Perfeito___                          |
+| *Futuro (do Subjuntivo)*                          | ___Presente Perfeito (do Subjuntivo)___  | ___Perfeito (do Subjuntivo)___          |
+| *Pretérito Mais-que-Perfeito*                     | ___Pretérito Perfeito___                 | ___Mais-que-Perfeito___                 |
+| *Pretérito Imperfeito (do Subjuntivo)*            | ___Pretérito Perfeito (do Subjuntivo)___ | ___Mais-que-Perfeito (do Subjuntivo)___ |
+
+## -are
+
+| Futuro    | | Presente | | Perfeito  | | Participio |
+|-|-|-|-|-|-|-|
+| *amarei*  | | *amo*    | | *amei*    | | *amado*    |
+| **amarẽ** | | **amo**  | | **amäŭi** | | **amado**  |
+
+
+| Futuro | | | | |
+|-|-|-|-|-|
+| *amarei*   | **amarẽ**    | | *amaria*    | **amariam**   |
+| *amarás*   | **amaras**   | | *amarias*   | **amarias**   |
+| *amará*    | **amarat**   | | *amaria*    | **amariat**   |
+| *amaremos* | **amaremus** | | *amaríamos* | **amariamus** |
+| *amareis*  | **amaređis** | | *amaríeis*  | **amariäđis** |
+| *amarão*   | **amarano**  | | *amariam*   | **amariant**  |
+
+| Presente | | | | |
+|-|-|-|-|-|
+| *amo*      | **amo**      | | *ame*       | **amem**      |
+| *amas*     | **amas**     | | *ames*      | **ames**      |
+| *ama*      | **amat**     | | *ame*       | **amet**      |
+| *amamos*   | **amamus**   | | *amemos*    | **amemus**    |
+| *amais*    | **amađis**   | | *ameis*     | **ameđis**    |
+| *amam*     | **amant**    | | *amem*      | **ament**     |
+
+| Pretérito | | | | |
+|-|-|-|-|-|
+| *amava*    | **amavam**   | | *amar*      | **amarem**    |
+| *amavas*   | **amavas**   | | *amares*    | **amares**    |
+| *amava*    | **amavat**   | | *amar*      | **amaret**    |
+| *amávamos* | **amamus**   | | *amarmos*   | **amarĕmus**  |
+| *amáveis*  | **amaväđis** | | *amardes*   | **amarĕdis**  |
+| *amavam*   | **amavant**  | | *amarem*    | **amarent**   |
+
+| Perfeito | | | | |
+|-|-|-|-|-|
+| *amei*     | **amäŭi**    | | *amar*      | **amarïm**    |
+| *amaste*   | **amasti**   | | *amares*    | **amarïs**    |
+| *amou*     | **amåuĭt**   | | *amar*      | **amarït**    |
+| *amamos*   | **amamus**   | | *amarmos*   | **amarĭmus**  |
+| *amastes*  | **amastis**  | | *amardes*   | **amarĭdis**  |
+| *amaram*   | **amarȗnt**  | | *amarem*    | **amarïnt**   |
+
+| +Perfeito | | | | |
+|-|-|-|-|-|
+| *amara*    | **amaram**   | | *amasse*    | **amassem**   |
+| *amaras*   | **amaras**   | | *amasses*   | **amasses**   |
+| *amara*    | **amarat**   | | *amasse*    | **amasset**   |
+| *amáramos* | **amaramus** | | *amássemos* | **amassemus** |
+| *amáreis*  | **amaräđis** | | *amásseis*  | **amasseđis** |
+| *amaram*   | **amarant**  | | *amassem*   | **amassent**  |
+
+
 
 # ?Conjugatıõne <!-- TODO: -unt → -ent/-int/-ant/-ano -->
 
@@ -629,10 +684,6 @@
 
 | | | | | |
 |-|-|-|-|-|
-| *amarei* | **amarẽ**  | | *amaremos* | **amaremus** |
-| *amarás* | **amaras** | | *amareis*  | **amaređis** |
-| *amará*  | **amarat** | | *amarão*   | **amarano**  |
-| | | | | |
 | *prenderei* | **prederẽ**  | | *prenderemos* | **prederemus** |
 | *prenderás* | **prederas** | | *prendereis*  | **predeređis** |
 | *prenderá*  | **prederat** | | *prenderão*   | **prederano**  |
@@ -648,10 +699,6 @@
 
 | | | | | |
 |-|-|-|-|-|
-| *amaria*  | **amariam** | | *amaríamos* | **amariamus** |
-| *amarias* | **amarias** | | *amaríeis*  | **amariäđis** |
-| *amaria*  | **amariat** | | *amariam*   | **amariant**  |
-| | | | | |
 | *prenderia*  | **prenderiam** | | *prenderíamos* | **prenderiamus** |
 | *prenderias* | **prenderias** | | *prenderíeis*  | **prenderiäđis** |
 | *prenderia*  | **prenderiat** | | *prenderiam*   | **prenderiant**  |
@@ -670,10 +717,6 @@
 
 | | | | | |
 |-|-|-|-|-|
-| *amo*  | **amo**  | | *amamos* | **amamus** |
-| *amas* | **amas** | | *amais*  | **amađis** |
-| *ama*  | **amat** | | *amam*   | **amant**  |
-| | | | | |
 | *prendo*  | **prendo**  | | *prendemos* | **prendemus** |
 | *prendes* | **prendes** | | *prendeis*  | **prendeđis** |
 | *prende*  | **prendet** | | *prendem*   | **prendent**  |
@@ -688,10 +731,6 @@
 
 | | | | | |
 |-|-|-|-|-|
-| *ame*  | **amem** | | *amemos* | **amemus** |
-| *ames* | **ames** | | *ameis*  | **ameđis** |
-| *ame*  | **amet** | | *amem*   | **ament**  |
-| | | | | |
 | *prenda*  | **prendam**  | | *prendamos* | **prendamus** |
 | *prendas* | **prendas** | | *prendais*  | **prendađis** |
 | *prenda*  | **prendat** | | *prendam*   | **prendant**  |
@@ -709,10 +748,6 @@
 
 | | | | | |
 |-|-|-|-|-|
-| *amei*   | **amäŭi**  | | *amamos*  | **amamus**  |
-| *amaste* | **amasti** | | *amastes* | **amastis** |
-| *amou*   | **amåuĭt** | | *amaram*  | **amarȗnt** |
-| | | | | |
 | *prendi*    | **prendĕŭi**  | | *prendemos*  | **prendïmus**  | <!-- -ev- etc. checken -->
 | *prendeste* | **prendïsti** | | *prendestes* | **prendïstis** |
 | *prendeu*   | **prendeuĭt** | | *prenderam*  | **prenderȗnt** |
@@ -729,10 +764,6 @@
 
 | | | | | |
 |-|-|-|-|-|
-| *amar*   | **amarïm** | | *amarmos* | **amarĭmus** |
-| *amares* | **amarïs** | | *amardes* | **amarĭdis** |
-| *amar*   | **amarït** | | *amarem*  | **amarïnt**  |
-| | | | | |
 | *prender*   | **prenderïm** | | *prendermos* | **prenderĭmus** |
 | *prenderes* | **prenderïs** | | *prenderdes* | **prenderĭdis** |
 | *prender*   | **prenderït** | | *prenderem*  | **prenderïnt**  |
@@ -749,10 +780,6 @@
 
 | | | | | |
 |-|-|-|-|-|
-| *amava*  | **amavam** | | *amávamos* | **amamus** |
-| *amavas* | **amavas** | | *amáveis*  | **amaväđis** |
-| *amava*  | **amavat** | | *amavam*   | **amavant**  |
-| | | | | |
 | *prendia*  | **prendiam** | | *prendíamos* | **prendiamus** |
 | *prendias* | **prendias** | | *prendíeis*  | **prendiäđis** |
 | *prendia*  | **prendiat** | | *prendiam*   | **prendiant**  |
@@ -770,10 +797,6 @@
 
 | | | | | |
 |-|-|-|-|-|
-| *amara*  | **amaram** | | *amáramos* | **amaramus** |
-| *amaras* | **amaras** | | *amáreis*  | **amaräđis** |
-| *amara*  | **amarat** | | *amaram*   | **amarant**  |
-| | | | | |
 | *prendera*  | **prenderam** | | *prendêramos* | **prenderamus** |
 | *prenderas* | **prenderas** | | *prendêreis*  | **prenderäđis** |
 | *prendera*  | **prenderat** | | *prenderam*   | **prenderant**  |
@@ -791,10 +814,6 @@
 
 | | | | | |
 |-|-|-|-|-|
-| *amasse*  | **amassem** | | *amássemos* | **amassemus** |
-| *amasses* | **amasses** | | *amásseis*  | **amasseđis** |
-| *amasse*  | **amasset** | | *amassem*   | **amassent**  |
-| | | | | |
 | *prendia*  | **prendiam** | | *prendíamos* | **prendiamus** |
 | *prendias* | **prendias** | | *prendíeis*  | **prendiäđis** |
 | *prendia*  | **prendiat** | | *prendiam*   | **prendiant**  |
