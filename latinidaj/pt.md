@@ -586,6 +586,21 @@
 
 # Conjugatıõne
 
+<!-- Nomenclatura -->
+
+| | |
+|-|-|
+| *Futuro do Presente*                              | ___Futuro___                             |
+| *Futuro do Pretérito/Condicional (do Indicativo)* | ___Futuro (do Subjuntivo)___             |
+| *Presente*                                        | ___Presente___                           |
+| *Presente (do Subjuntivo)/Imperativo*             | ___Presente (do Subjuntivo)___           |
+| *Pretérito Imperfeito*                            | ___Pretérito___                          |
+| *Infinitivo Pessoal*                              | ___Pretérito (do Subjuntivo)___          |
+| *Pretérito Perfeito*                              | ___Presente Perfeito___                  |
+| *Futuro (do Subjuntivo)*                          | ___Presente Perfeito (do Subjuntivo)___  |
+| *Pretérito Mais-que-perfeito*                     | ___Pretérito Perfeito___                 |
+| *Pretérito Imperfeito (do Subjuntivo)*            | ___Pretérito Perfeito (do Subjuntivo)___ |
+
 # ?Conjugatıõne <!-- TODO: -unt → -ent/-int/-ant/-ano -->
 
 ## Infinitivo
