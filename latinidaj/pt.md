@@ -608,9 +608,9 @@
 | *amarei*  | | *amo*    | | *amei*    | | *amado*    |
 | **amarẽ** | | **amo**  | | **amäŭi** | | **amado**  |
 
-| ___Imperfeito___ | | | | | | ___Perfeito___ | | | | |
-|-|-|-|-|-|-|-|-|-|-|-|
 | ___Ind.___ | | | ___Sub.___ | | | ___Ind.___ | | | ___Sub.___ | |
+|-|-|-|-|-|-|-|-|-|-|-|
+| ___Imperfeito___ | | | | | | ___Perfeito___ | | | | |
 | ___Futuro___ | | | | | | | | | | | |
 | *amarei*   | **amarẽ**    | | *amaria*    | **amariam**   |
 | *amarás*   | **amaras**   | | *amarias*   | **amarias**   |
