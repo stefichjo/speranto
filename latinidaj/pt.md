@@ -608,24 +608,24 @@
 | *amarei*  | | *amo*    | | *amei*    | | *amado*    |
 | **amarẽ** | | **amo**  | | **amäŭi** | | **amado**  |
 
-| __Imperfeito__ | | | | | | __Perfeito__ | | | | |
+| ___Imperfeito___ | | | | | | ___Perfeito___ | | | | |
 |-|-|-|-|-|-|-|-|-|-|-|
-| __Ind.__ | | | __Sub.__ | | | __Ind.__ | | | __Sub.__ | |
-| __Futuro__ | | | | | | | | | | | |
+| ___Ind.___ | | | ___Sub.___ | | | ___Ind.___ | | | ___Sub.___ | |
+| ___Futuro___ | | | | | | | | | | | |
 | *amarei*   | **amarẽ**    | | *amaria*    | **amariam**   |
 | *amarás*   | **amaras**   | | *amarias*   | **amarias**   |
 | *amará*    | **amarat**   | | *amaria*    | **amariat**   |
 | *amaremos* | **amaremus** | | *amaríamos* | **amariamus** |
 | *amareis*  | **amaređis** | | *amaríeis*  | **amariäđis** |
 | *amarão*   | **amarano**  | | *amariam*   | **amariant**  |
-| __Presente__ | | | | | | | | | | | |
+| ___Presente___ | | | | | | | | | | | |
 | *amo*      | **amo**      | | *ame*       | **amem**      | | *amei*     | **amäŭi**    | | *amar*      | **amarïm**    |
 | *amas*     | **amas**     | | *ames*      | **ames**      | | *amaste*   | **amasti**   | | *amares*    | **amarïs**    |
 | *ama*      | **amat**     | | *ame*       | **amet**      | | *amou*     | **amåuĭt**   | | *amar*      | **amarït**    |
 | *amamos*   | **amamus**   | | *amemos*    | **amemus**    | | *amamos*   | **amamus**   | | *amarmos*   | **amarĭmus**  |
 | *amais*    | **amađis**   | | *ameis*     | **ameđis**    | | *amastes*  | **amastis**  | | *amardes*   | **amarĭdis**  |
 | *amam*     | **amant**    | | *amem*      | **ament**     | | *amaram*   | **amarȗnt**  | | *amarem*    | **amarïnt**   |
-| __Pretérito__ | | | | | | | | | | | |
+| ___Pretérito___ | | | | | | | | | | | |
 | *amava*    | **amavam**   | | *amar*      | **amarem**    | | *amara*    | **amaram**   | | *amasse*    | **amassem**   |
 | *amavas*   | **amavas**   | | *amares*    | **amares**    | | *amaras*   | **amaras**   | | *amasses*   | **amasses**   |
 | *amava*    | **amavat**   | | *amar*      | **amaret**    | | *amara*    | **amarat**   | | *amasse*    | **amasset**   |
