@@ -662,6 +662,15 @@
 | *-áveis*  | **-aväđis** | | *-ardes*   | **-arĕdis** | | *-áreis*  | **-aräđis** | | *-ásseis*  | **-asseđis** |
 | *-avam*   | **-avant**  | | *-arem*    | **-arent**  | | *-aram*   | **-arant**  | | *-assem*   | **-assent**  |
 
+|     | a          | | e            | | i            | | e*         |
+|-|-|-|-|-|-|-|-|
+| `-` | **am**are  | | **volv**ere  | | **part**ire  | | **fac̆**ere |
+| `=` | **amar**ẽ  | | **volver**ẽ  | | **partir**ẽ  | | **fac̆ĕr**ẽ |
+| `+` | **am**o    | | **volv**o    | | **parto**    | | **facı**o  |
+| `~` | **am**äŭi  | | **volv**ėŭi  | | **part**iŭi  | | **fic̆**ï   |
+| `*` | **am**ado  | | **volv**ido  | | **part**ido  | | **fäct**o  |
+
+
 | ___Ind.___ | | ___Sub.___ | | ___Ind.___ | | ___Sub.___ |
 |-|-|-|-|-|-|-|
 | ___Imperfeito___ | | | | ___Perfeito___ | | |
@@ -673,13 +682,7 @@
 | ___Pretérito___ | | | | | | |
 | `-`   | | `-` | | `~` | | `~` |
 
-| | |
-|-|-|
-| `-` | **fac̆**ere |
-| `=` | **fac̆ĕr**~ |
-| `+` | **facı**o  |
-| `~` | **fic̆**ï   |
-| `*` | **fäct**o  |
+
 
 
 # ?Conjugatıõne <!-- TODO: -unt → -ent/-int/-ant/-ano -->
