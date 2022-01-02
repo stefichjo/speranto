@@ -644,12 +644,12 @@
 | *-areis*  | **-aređis** | | *-aríeis*  | **-ariäđis** |
 | *-arão*   | **-arano**  | | *-ariam*   | **-ariant**  |
 | ___Presente___ | | | | | | | | | | | |
-| *-o*      | **-o**      | | *-e*       | **amem**      | | *-ei*     | **-äŭi**    | | *-ar*      | **-arïm**    |
-| *-as*     | **-as**     | | *-es*      | **ames**      | | *-aste*   | **-asti**   | | *-ares*    | **-arïs**    |
-| *-a*      | **-at**     | | *-e*       | **amet**      | | *-ou*     | **-åuĭt**   | | *-ar*      | **-arït**    |
-| *-amos*   | **-amus**   | | *-emos*    | **amemus**    | | *-amos*   | **-amus**   | | *-armos*   | **-arĭmus**  |
-| *-ais*    | **-ađis**   | | *-eis*     | **ameđis**    | | *-astes*  | **-astis**  | | *-ardes*   | **-arĭdis**  |
-| *-am*     | **-ant**    | | *-em*      | **ament**     | | *-aram*   | **-arȗnt**  | | *-arem*    | **-arïnt**   |
+| *-o*      | **-o**      | | *-e*       | **-em**      | | *-ei*     | **-äŭi**    | | *-ar*      | **-arïm**    |
+| *-as*     | **-as**     | | *-es*      | **-es**      | | *-aste*   | **-asti**   | | *-ares*    | **-arïs**    |
+| *-a*      | **-at**     | | *-e*       | **-et**      | | *-ou*     | **-åuĭt**   | | *-ar*      | **-arït**    |
+| *-amos*   | **-amus**   | | *-emos*    | **-emus**    | | *-amos*   | **-amus**   | | *-armos*   | **-arĭmus**  |
+| *-ais*    | **-ađis**   | | *-eis*     | **-eđis**    | | *-astes*  | **-astis**  | | *-ardes*   | **-arĭdis**  |
+| *-am*     | **-ant**    | | *-em*      | **-ent**     | | *-aram*   | **-arȗnt**  | | *-arem*    | **-arïnt**   |
 | ___Pretérito___ | | | | | | | | | | | |
 | *-ava*    | **-avam**   | | *-ar*      | **-arem**    | | *-ara*    | **-aram**   | | *-asse*    | **-assem**   |
 | *-avas*   | **-avas**   | | *-ares*    | **-ares**    | | *-aras*   | **-aras**   | | *-asses*   | **-asses**   |
