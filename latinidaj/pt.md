@@ -586,12 +586,6 @@
 
 # Conjugatıõne
 
-| | | | | | | | |
-|-|-|-|-|-|-|-|-|
-| *amar*   | **amare** | |       |         | | *amado* | **amado** |
-| | | | | | | | |
-| *amarei* | **amarẽ** | | *amo* | **amo** | | *amei*  | **amäŭi** |
-
 # ?Conjugatıõne <!-- TODO: -unt → -ent/-int/-ant/-ano -->
 
 ## Infinitivo
