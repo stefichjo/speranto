@@ -628,21 +628,21 @@
 | __Imperfeito__ | | | | | | | __Perfeito__ | | | | |
 |-|-|-|-|-|-|-|-|-|-|-|-|
 | __Ind.__ | | | __Sub.__ | | | | __Ind.__ | | | __Sub.__ | |
-| __Fut.__ | | | | | | | | | | | | |
+| __Futuro__ | | | | | | | | | | | | |
 | *amarei*   | **amarẽ**    | | *amaria*    | **amariam**   |
 | *amarás*   | **amaras**   | | *amarias*   | **amarias**   |
 | *amará*    | **amarat**   | | *amaria*    | **amariat**   |
 | *amaremos* | **amaremus** | | *amaríamos* | **amariamus** |
 | *amareis*  | **amaređis** | | *amaríeis*  | **amariäđis** |
 | *amarão*   | **amarano**  | | *amariam*   | **amariant**  |
-| __Pres.__ | | | | | | | | | | | | |
+| __Presente__ | | | | | | | | | | | | |
 | *amo*      | **amo**      | | *ame*       | **amem**      | | | *amei*     | **amäŭi**    | | *amar*      | **amarïm**    |
 | *amas*     | **amas**     | | *ames*      | **ames**      | | | *amaste*   | **amasti**   | | *amares*    | **amarïs**    |
 | *ama*      | **amat**     | | *ame*       | **amet**      | | | *amou*     | **amåuĭt**   | | *amar*      | **amarït**    |
 | *amamos*   | **amamus**   | | *amemos*    | **amemus**    | | | *amamos*   | **amamus**   | | *amarmos*   | **amarĭmus**  |
 | *amais*    | **amađis**   | | *ameis*     | **ameđis**    | | | *amastes*  | **amastis**  | | *amardes*   | **amarĭdis**  |
 | *amam*     | **amant**    | | *amem*      | **ament**     | | | *amaram*   | **amarȗnt**  | | *amarem*    | **amarïnt**   |
-| __Pret.__ | | | | | | | | | | | | |
+| __Pretérito__ | | | | | | | | | | | | |
 | *amava*    | **amavam**   | | *amar*      | **amarem**    | | | *amara*    | **amaram**   | | *amasse*    | **amassem**   |
 | *amavas*   | **amavas**   | | *amares*    | **amares**    | | | *amaras*   | **amaras**   | | *amasses*   | **amasses**   |
 | *amava*    | **amavat**   | | *amar*      | **amaret**    | | | *amara*    | **amarat**   | | *amasse*    | **amasset**   |
