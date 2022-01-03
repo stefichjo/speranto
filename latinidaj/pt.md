@@ -808,59 +808,42 @@ La int-is-indikativaj finaĵoj similas al la int-as-konjunktivaj finaĵoj (do la
 | *-íreis*  | **-iräđis**     | | *-ísseis*  | **-isseđis** |
 | *-iram*   | **-irant**      | | *-issem*   | **-issent**  |
 
-| `-` | **fac̆**ere |
+# Verbos
+
+| `-` | **fac̆ere** |
 |-|-|
-| `=` | **fac̆ĕr**ẽ |
-| `+` | **facı**o  |
-| `~` | **fic̆**ï   |
-| `*` | **fäct**o  |
+| `=` | **fac̆ĕrẽ** |
+| `+` | **facıo**  |
+| `~` | **fic̆i**   |
+| `*` | **fäcto**  |
 
-# havere - haverẽ - hẽ - houvï - havido
+| `-` | **havere** |
+|-|-|
+| `=` | **haverẽ** |
+| `+` | **hẽ**     |
+| `~` | **houvi**  |
+| `*` | **havido** |
+| | |
+| `+` | **has**    |
+| `+` | **hat**    |
+| `+` | **hano**   |
+| `+` | **havĭam** |
 
-<!-- hăŭ → h -->
-<!-- TODO haver -> har: ho has hat ... -->
-<!-- habēnt → hăŭent → hano -->
-<!-- habu → houv >
-
-<!-- TODO vĭ = j -->
-
-<!-- TODO ï ? -->
-
-| | | | | | | | | | | | |
-|-|-|-|-|-|-|-|-|-|-|-|-|
-| *haverei*   | **haverẽ**    | | *haveria*    | **haveriam**   |
-| *haverás*   | **haveras**   | | *haverias*   | **haverias**   |
-| *haverá*    | **haverat**   | | *haveria*    | **haveriat**   |
-| *haveremos* | **haveremus** | | *haveríamos* | **haveriamus** |
-| *havereis*  | **haveređis** | | *haveríeis*  | **haveriäđis** |
-| *haverão*   | **haverano**  | | *haveriam*   | **haveriant**  |
-| | | | | | | | | | | | |
-| *hei*       | **hẽ**        | | *haja*       | **havĭam**     | | | *houve*      | **houvï**      | | *houver*      | **houverïm**    |
-| *hás*       | **has**       | | *hajas*      | **havĭas**     | | | *houveste*   | **houvïsti**   | | *houveres*    | **houverïs**    |
-| *há*        | **hat**       | | *haja*       | **havĭat**     | | | *houve*      | **houvït**     | | *houver*      | **houverït**    |
-| *havemos*   | **havemus**   | | *hajamos*    | **havĭamus**   | | | *houvemos*   | **houvïmus**   | | *houvermos*   | **houverĭmus**  |
-| *haveis*    | **haveđis**   | | *hajais*     | **havĭađis**   | | | *houvestes*  | **houvïstis**  | | *houverdes*   | **houverĭdis**  |
-| *hão*       | **hano**      | | *hajam*      | **havĭant**    | | | *houveram*   | **houverȗnt**  | | *houverem*    | **houverïnt**   |
-| | | | | | | | | | | | |
-| *havia*     | **haviam**    | |              |                | | | *houvera*    | **houveram**   | | *houvesse*    | **houvïssem**   |
-| *havias*    | **havias**    | |              |                | | | *houveras*   | **houveras**   | | *houvesses*   | **houvïsses**   |
-| *havia*     | **haviat**    | |              |                | | | *houvera*    | **houverat**   | | *houvesse*    | **houvïsset**   |
-| *havíamos*  | **haviamus**  | |              |                | | | *houvéramos* | **houveramus** | | *houvéssemos* | **houvïssemus** |
-| *havíeis*   | **haviäđis**  | |              |                | | | *houvéreis*  | **houveräđis** | | *houvésseis*  | **houvïsseđis** |
-| *haviam*    | **haviant**   | |              |                | | | *houveram*   | **houverant**  | | *houvessem*   | **houvïssent**  |
-
-# ĕssere - sõm - fuï - sido
+| `-` | **ĕssere** |
+|-|-|
+| `=` | **ĕsserẽ** |
+| `+` | **sõm**    |
+| `~` | **fui**    |
+| `*` | **sido**   |
+| | |
+| `+` | **es** |
+| `+` | **e'** |
+| `+` | **somus** |
+| `+` | **sođis** |
+| `+` | **sano** |
 
 <!-- essere  → esse/ser -->
 <!-- ĕss → s -->
-
-<!-- essem   → sum/sem     → sõm -->
-<!-- esses   → es          → es -->
-<!-- esset   → est         → e' -->
-<!-- essemus → sumus/semus → somus >
-<!-- essetis → estis/setis → sođis -->
-<!-- essunt  → sunt        → sano -->
-
 <!-- i → eĭa -->
 
 <!-- essam/essim     → sim   → seĭam -->
@@ -869,8 +852,6 @@ La int-is-indikativaj finaĵoj similas al la int-as-konjunktivaj finaĵoj (do la
 <!-- essamus/essimus → simus → seĭamus -->
 <!-- essatis/essitis → sitis → seĭađis -->
 <!-- essant/essint   → sint  → seĭant -->
-
-<!-- ůĭ/ůĕ → ů -->
 
 | | | | | | | | | | | | |
 |-|-|-|-|-|-|-|-|-|-|-|-|
