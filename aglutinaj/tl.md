@@ -4,61 +4,61 @@
 | **2.** | `kasapire` | `sohtlih`    | `dulinili`       |
 | **3.** | `viviwidi` | `dadabobo`   | `ghah'ohchahbih` |
 
-# 1.
+# 1. `jihmah`
 
 |      | jIH     | |      | maH     |
 |-|-|-|-|-|
 | *mi* | **jI-** | | *ni* | **ma-** |
 
-# 1. → 2. kasapire
+# 1. → 2. `kasapire`
 
 | *mi cin/vin* | *ni cin/vin* |
 |-|-|
 | **qa-**      | **pI-**      |
 | **Sa-**      | **re-**      |
 
-# 1. → 3. viviwidi
+# 1. → 3. `viviwidi`
 
 | *mi lin/ilin* | *ni lin/ilin* |
 |-|-|
 | **vI-**       | **wI-**       |
 | **vI-**       | **DI-**       |
 
-# 2. → 1. chojutuche
+# 2. → 1. `chojutuche`
 
 | *ci min/nin* | *vi min/nin* |
 |-|-|
 | **cho-**     | **tu-**      |
 | **ju-**      | **che-**     |
 
-# 2.
+# 2. `sohtlih`
 
 |      | SoH     | |      | tlhIH   |
 |-|-|-|-|-|
 | *ci* | **bI-** | | *vi* | **Su-** |
 
-# 2. → 3. dadabobo
+# 2. → 3. `dadabobo`
 
 | *ci lin/ilin* | *vi lin/ilin* |
 |-|-|
 | **Da-**       | **bo-**       |
 | **Da-**       | **bo-**       |
 
-# 3. → 1. munumunu
+# 3. → 1. `munumunu`
 
 | *li min/nin* | *ili min/nin* |
 |-|-|
 | **mu-**      | **mu-**       |
 | **nu-**      | **nu-**       |
 
-# 3. → 2. dulinili
+# 3. → 2. `dulinili`
 
 | *li cin/vin* | *ili cin/vin* |
 |-|-|
 | **Du-**      | **nI-**       |
 | **lI-**      | **lI-**       |
 
-# 3.
+# 3. `ghah'ohchahbih`
 
 |      | ghaH/'oH | |       | chaH/bIH |
 |-|-|-|-|-|
