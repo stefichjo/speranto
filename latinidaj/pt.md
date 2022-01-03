@@ -715,17 +715,44 @@ La is-konjunktivaj finaĵoj similas al la as-konjunktivaj finaĵoj de a-verboj. 
 | *-íeis*    | **-iŭäđis**   | | *-irdes*    | **-irĕdis**  |
 | *-iam*     | **-iŭant**    | | *-irem*     | **-irent**   |
 
-## -are
+## Perfeito
 
-|     | a          |
-|-|-|
-| `-` | **am**are  |
-| `=` | **amar**ẽ  |
-| `+` | **am**åm   |
-| `~` | **am**äŭi  |
-| `*` | **am**ado  |
+**Indikativo:**
+Kelkaj int-as-indikativaj formoj enhavas restaĵojn de **-av-**, **-ev-** kaj **-iv-**. Krom ĉe la mi-formo kaj li-formo, ankaŭ la sekva vokalo eliziiĝis, sed por simpleco, la rezultanta sinsekvo de eliziaĵoj **-ŭĕ-** kaj **-ŭĭ-** ne plu transskribiĝas.
 
-Eliziitaj **-ŭĕ-** kaj **-ŭĭ-** (ĉe plenumitecaj formoj) ne skribiĝas.
+**Konjunktivo:**
+La int-as-konjunktivaj formoj similas al la is-konjunktivaj formoj. Tamen, malgraŭ la simetrio, ŝajnas etimologie pli ĝuste (aŭ pli "latine") transskribi **-ėr-** anstataŭ **-ir-**.
+
+| ___Ind.___ | | | ___Sub.___ | |
+|-|-|-|-|-|
+| | | | | |
+| ***-ar*** | | | | |
+| *-ei*     | **-äŭ-i**  | | *-ar*     | **-arim**   |
+| *-aste*   | **-asti**  | | *-ares*   | **-aris**   |
+| *-ou*     | **-åu-ĭt** | | *-ar*     | **-arit**   |
+| *-amos*   | **-amus**  | | *-armos*  | **-arĭmus** |
+| *-astes*  | **-astis** | | *-ardes*  | **-arĭdis** |
+| *-aram*   | **-arȗnt** | | *-arem*   | **-arint**  |
+| | | | | |
+| ***-er*** | | | | |
+| *-i*      | **-ėŭ-i**  | | *-er*     | **-erim**   |
+| *-este*   | **-esti**  | | *-eres*   | **-eris**   |
+| *-eu*     | **-eu-ĭt** | | *-er*     | **-erit**   |
+| *-emus*   | **-emus**  | | *-ermos*  | **-erĭmus** |
+| *-estes*  | **-estis** | | *-erdes*  | **-erĭdis** |
+| *-eram*   | **-erȗnt** | | *-erem*   | **-erint**  |
+| | | | | |
+| ***-ir*** | | | | |
+| *-i*      | **-iŭ-i**  | | *-ir*     | **-irim**   |
+| *-iste*   | **-isti**  | | *-ires*   | **-iris**   |
+| *-iu*     | **-iu-ĭt** | | *-ir*     | **-irit**   |
+| *-imos*   | **-imus**  | | *-irmos*  | **-irĭmus** |
+| *-istes*  | **-istis** | | *-irdes*  | **-irĭdis** |
+| *-iram*   | **-irȗnt** | | *-irem*   | **-irint**  |
+
+<!-- fazer, dizer -->
+
+## Mais-que-Perfeito
 
 |             | -ŭĕ-/-ŭĭ-     |             |
 |-|-|-|
@@ -745,31 +772,13 @@ Eliziitaj **-ŭĕ-** kaj **-ŭĭ-** (ĉe plenumitecaj formoj) ne skribiĝas.
 | *amasse*    | **amaŭĭssem** | **amassem** |
 | *...*       | **...**       | **...**     |
 
-| ___Ind.___ | | | ___Sub.___ | | | ___Ind.___ | | | ___Sub.___ | |
-|-|-|-|-|-|-|-|-|-|-|-|
-| ___Imperfeito___ | | | | | | ___Perfeito___ | | | | |
-| | | | | | | | | | | |
-| ___Futuro___ | | | | | | | | | | | |
-| *-ei*     | **-ẽ**      | | *-ia*      | **-iam**    |
-| *-ás*     | **-as**     | | *-ias*     | **-ias**    |
-| *-á*      | **-at**     | | *-ia*      | **-iat**    |
-| *-emos*   | **-emus**   | | *-íamos*   | **-iamus**  |
-| *-eis*    | **-eđis**   | | *-íeis*    | **-iäđis**  |
-| *-ão*     | **-ano**    | | *-iam*     | **-iant**   |
-| ___Presente___ | | | | | | | | | | | |
-| *-o*      | **-o**      | | *-e*       | **-em**     | | *-ei*     | **-äŭ-i**     | | *-ar*      | **-arim**    |
-| *-as*     | **-as**     | | *-es*      | **-es**     | | *-aste*   | **-asti**     | | *-ares*    | **-aris**    |
-| *-a*      | **-at**     | | *-e*       | **-et**     | | *-ou*     | **-åu-ĭt**    | | *-ar*      | **-arit**    |
-| *-amos*   | **-amus**   | | *-emos*    | **-emus**   | | *-amos*   | **-amus**     | | *-armos*   | **-arĭmus**  |
-| *-ais*    | **-ađis**   | | *-eis*     | **-eđis**   | | *-astes*  | **-astis**    | | *-ardes*   | **-arĭdis**  |
-| *-am*     | **-ant**    | | *-em*      | **-ent**    | | *-aram*   | **-arȗnt**    | | *-arem*    | **-arint**   |
-| ___Pretérito___ | | | | | | | | | | | |
-| *-ava*    | **-avam**   | | *-ar*      | **-arem**   | | *-ara*    | **-aram**     | | *-asse*    | **-assem**   |
-| *-avas*   | **-avas**   | | *-ares*    | **-ares**   | | *-aras*   | **-aras**     | | *-asses*   | **-asses**   |
-| *-ava*    | **-avat**   | | *-ar*      | **-aret**   | | *-ara*    | **-arat**     | | *-asse*    | **-asset**   |
-| *-ávamos* | **-avamus** | | *-armos*   | **-arĕmus** | | *-áramos* | **-aramus**   | | *-ássemos* | **-assemus** |
-| *-áveis*  | **-aväđis** | | *-ardes*   | **-arĕdis** | | *-áreis*  | **-aräđis**   | | *-ásseis*  | **-asseđis** |
-| *-avam*   | **-avant**  | | *-arem*    | **-arent**  | | *-aram*   | **-arant**    | | *-assem*   | **-assent**  |
+|     | a          |
+|-|-|
+| `-` | **am**are  |
+| `=` | **amar**ẽ  |
+| `+` | **am**åm   |
+| `~` | **am**äŭi  |
+| `*` | **am**ado  |
 
 |     | e            | | i            | | e*         |
 |-|-|-|-|-|-|
@@ -778,32 +787,6 @@ Eliziitaj **-ŭĕ-** kaj **-ŭĭ-** (ĉe plenumitecaj formoj) ne skribiĝas.
 | `+` | **volv**o    | | **parto**    | | **facı**o  |
 | `~` | **volv**ėŭi  | | **part**iŭi  | | **fic̆**ï   |
 | `*` | **volv**ido  | | **part**ido  | | **fäct**o  |
-
-| ___Ind.___ | | | ___Sub.___ | | | ___Ind.___ | | | ___Sub.___ | |
-|-|-|-|-|-|-|-|-|-|-|-|
-| ___Imperfeito___ | | | | | | ___Perfeito___ | | | | |
-| | | | | | | | | | | |
-| ___Futuro___ | | | | | | | | | | | |
-| *volverei*   | **volverẽ**    | | *volveria*    | **volveriam**   |
-| *volverás*   | **volveras**   | | *volverias*   | **volverias**   |
-| *volverá*    | **volverat**   | | *volveria*    | **volveriat**   |
-| *volveremos* | **volveremus** | | *volveríamos* | **volveriamus** |
-| *volvereis*  | **volveređis** | | *volveríeis*  | **volveriäđis** |
-| *volverão*   | **volverano**  | | *volveriam*   | **volveriant**  |
-| ___Presente___ | | | | | | | | | | | |
-| *volvo*      | **volvo**      | | *volva*       | **volvam**      | | *volvi*      | **volv-ėŭ-i**  | | *volver*      | **volverïm**    |
-| *volves*     | **volves**     | | *volvas*      | **volvas**      | | *volveste*   | **volvesti**   | | *volveres*    | **volverïs**    |
-| *volve*      | **volvet**     | | *volva*       | **volvat**      | | *volveu*     | **volv-eu-ĭt** | | *volver*      | **volverït**    |
-| *volvemos*   | **volvemus**   | | *volvamos*    | **volvamus**    | | *volvemos*   | **volvemus**   | | *volvermos*   | **volverĭmus**  |
-| *volveis*    | **volveđis**   | | *volvais*     | **volvađis**    | | *volvestes*  | **volvestis**  | | *volverdes*   | **volverĭdis**  |
-| *volvem*     | **volvent**    | | *volvam*      | **volvant**     | | *volveram*   | **volverȗnt**  | | *volverem*    | **volverïnt**   |
-| ___Pretérito___ | | | | | | | | | | | |
-| *volvia*     | **volviam**    | | *volver*      | **volverem**    | | *volvera*    | **volveram**   | | *volvesse*    | **volvessem**   |
-| *volvias*    | **volvias**    | | *volveres*    | **volveres**    | | *volveras*   | **volveras**   | | *volvesses*   | **volvesses**   |
-| *volvia*     | **volviat**    | | *volver*      | **volveret**    | | *volvera*    | **volverat**   | | *volvesse*    | **volvesset**   |
-| *volvíamos*  | **volviamus**  | | *volvermos*   | **volverĕmus**  | | *volvêramos* | **volveramus** | | *volvêssemos* | **volvessemus** |
-| *volvíeis*   | **volviäđis**  | | *volverdes*   | **volverĕdis**  | | *volvêreis*  | **volveräđis** | | *volvêsseis*  | **volvesseđis** |
-| *volviam*    | **volviant**   | | *volverem*    | **volverent**   | | *volveram*   | **volverant**  | | *volvessem*   | **volvessent**  |
 
 | ___Ind.___ | | ___Sub.___ | | ___Ind.___ | | ___Sub.___ |
 |-|-|-|-|-|-|-|
@@ -824,6 +807,8 @@ Eliziitaj **-ŭĕ-** kaj **-ŭĭ-** (ĉe plenumitecaj formoj) ne skribiĝas.
 <!-- habu → houv >
 
 <!-- TODO vĭ = j -->
+
+<!-- TODO ï ? -->
 
 | | | | | | | | | | | | |
 |-|-|-|-|-|-|-|-|-|-|-|-|
