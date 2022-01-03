@@ -600,6 +600,17 @@
 | *Pretérito Mais-que-Perfeito*                     | ___Pretérito Perfeito___                 | ___Mais-que-Perfeito___                 |
 | *Pretérito Imperfeito (do Subjuntivo)*            | ___Pretérito Perfeito (do Subjuntivo)___ | ___Mais-que-Perfeito (do Subjuntivo)___ |
 
+| ___Ind.___ | | ___Sub.___ | | ___Ind.___ | | ___Sub.___ |
+|-|-|-|-|-|-|-|
+| ___Imperfeito___ | | | | ___Perfeito___ | | |
+| | | | | | | |
+| ___Futuro___ | | | | | | |
+| `=`   | | `=` |
+| ___Presente___ | | | | | | |
+| `+/-` | | `+` | | `~` | | `~` |
+| ___Pretérito___ | | | | | | |
+| `-`   | | `-` | | `~` | | `~` |
+
 ## Futuro
 
 **Indikativo:**
@@ -671,6 +682,7 @@ Simetrie, la as-konjunktivaj finaĵoj de e-verboj (kaj i-verboj) similas al la a
 
 La verbo **havere** estas aparte speciala, ĉar kaj la mi-formo kaj la ili-formo estas diversaj.
 
+<!-- ankaŭ konjunktivon -->
 | ***haver*** | |
 |-|-|
 | *hei*      | **hẽ**      |
@@ -721,18 +733,18 @@ La is-konjunktivaj finaĵoj similas al la as-konjunktivaj finaĵoj de a-verboj. 
 Kelkaj int-as-indikativaj formoj entenas restaĵojn de **-av-**, **-ev-** kaj **-iv-**. Krom ĉe la mi-formo kaj li-formo, ankaŭ la sekva vokalo eliziiĝis, sed por simpleco, la rezultanta sinsekvo de eliziaĵoj **-ŭĕ-** kaj **-ŭĭ-** ne plu transskribiĝas.
 
 **Konjunktivo:**
-La int-as-konjunktivaj formoj similas al la is-konjunktivaj formoj. Tamen, malgraŭ la simetrio, ŝajnas etimologie pli ĝuste (aŭ pli "latine") transskribi **-ėr-** anstataŭ **-ir-**.
+La int-as-konjunktivaj finaĵoj similas al la is-konjunktivaj finaĵoj. Tamen, malgraŭ la simetrio, ŝajnas etimologie pli ĝuste (aŭ pli "latine") transskribi **-ėr-** anstataŭ **-ir-**.
 
 | ___Ind.___ | | | ___Sub.___ | |
 |-|-|-|-|-|
 | | | | | |
 | ***-ar*** | | | | |
-| *-ei*     | **-äŭ-i**  | | *-ar*     | **-arim**   |
-| *-aste*   | **-asti**  | | *-ares*   | **-aris**   |
-| *-ou*     | **-åu-ĭt** | | *-ar*     | **-arit**   |
-| *-amos*   | **-amus**  | | *-armos*  | **-arĭmus** |
-| *-astes*  | **-astis** | | *-ardes*  | **-arĭdis** |
-| *-aram*   | **-arȗnt** | | *-arem*   | **-arint**  |
+| *-ei*     | **-äŭ-i**            | | *-ar*     | **-arim**   |
+| *-aste*   | **-asti**            | | *-ares*   | **-aris**   |
+| *-ou*     | **-åu-ĭt**           | | *-ar*     | **-arit**   |
+| *-amos*   | **-amus**            | | *-armos*  | **-arĭmus** |
+| *-astes*  | **-astis**           | | *-ardes*  | **-arĭdis** |
+| *-aram*   | **-arȗnt**           | | *-arem*   | **-arint**  |
 | | | | | |
 | ***-er*** | | | | |
 | *-i*      | **-ėŭ-i** / **-i**   | | *-er*     | **-erim**   |
@@ -743,70 +755,65 @@ La int-as-konjunktivaj formoj similas al la is-konjunktivaj formoj. Tamen, malgr
 | *-eram*   | **-erȗnt**           | | *-erem*   | **-erint**  |
 | | | | | |
 | ***-ir*** | | | | |
-| *-i*      | **-iŭ-i**  | | *-ir*     | **-irim**   |
-| *-iste*   | **-isti**  | | *-ires*   | **-iris**   |
-| *-iu*     | **-iu-ĭt** | | *-ir*     | **-irit**   |
-| *-imos*   | **-imus**  | | *-irmos*  | **-irĭmus** |
-| *-istes*  | **-istis** | | *-irdes*  | **-irĭdis** |
-| *-iram*   | **-irȗnt** | | *-irem*   | **-irint**  |
+| *-i*      | **-iŭ-i**            | | *-ir*     | **-irim**   |
+| *-iste*   | **-isti**            | | *-ires*   | **-iris**   |
+| *-iu*     | **-iu-ĭt**           | | *-ir*     | **-irit**   |
+| *-imos*   | **-imus**            | | *-irmos*  | **-irĭmus** |
+| *-istes*  | **-istis**           | | *-irdes*  | **-irĭdis** |
+| *-iram*   | **-irȗnt**           | | *-irem*   | **-irint**  |
 
-Ĉe malregulaj e-verboj, la int-as-indikativaj formoj ne entenas **-eŭ-**. La finaĵoj por la mi- kaj li-formoj tiam estas **-i** kaj **-it**. Estus etimologie pli ĝuste transskribi **-ï-** anstataŭ **-e-**.
+Ĉe malregulaj e-verboj, la int-as-indikativaj formoj ne entenas **-eŭ-**. La finaĵoj por la mi- kaj li-formoj tiam estas **-i** kaj **-it**. (Estus etimologie pli ĝuste transskribi **-ï-** anstataŭ **-e-**.)
 
-| ***dizer*** | |
-|-|-|
-| *disse*      | **dixi**      |
-| *disseste*   | **dixesti**   |
-| *disse*      | **dixit**     |
-| *dissemos*   | **dixemus**   |
-| *dissestes*  | **dixestis**  |
-| *disseram*   | **dixerȗnt**  |
+| ***dizer*** | | | | |
+|-|-|-|-|-|
+| *disse*      | **dixi**      | | *disserem*   | **dixerim**   |
+| *disseste*   | **dixesti**   | | *disseres*   | **dixeris**   |
+| *disse*      | **dixit**     | | *disseret*   | **dixerit**   |
+| *dissemos*   | **dixemus**   | | *disséramus* | **dixerĭmus** |
+| *dissestes*  | **dixestis**  | | *disséräđis* | **dixerĭdis** |
+| *disseram*   | **dixerȗnt**  | | *disserem*   | **dixerint**  |
 
 ## Mais-que-Perfeito
 
-|             | -ŭĕ-/-ŭĭ-     |             |
-|-|-|-|
-| *amei*      |               | **amäŭi**   |
-| *amaste*    | **amaŭĭsti**  | **amasti**  |
-| *amou*      |               | **amåuĭt**  |
-| *amamos*    | **amaŭĭmus**  | **amamus**  |
-| *amastes*   | **amaŭĭstis** | **amastis** |
-| *amaram*    | **amaŭĕrȗnt** | **amarȗnt** |
-| | | |
-| *amar*      | **amaŭĕrim**  | **amarim**  |
-| *...*       | **...**       | **...**     |
-| | | |
-| *amara*     | **amaŭĕram**  | **amaram**  |
-| *...*       | **...**       | **...**     |
-| | | |
-| *amasse*    | **amaŭĭssem** | **amassem** |
-| *...*       | **...**       | **...**     |
+**Indikativo:**
+La int-is-indikativaj finaĵoj similas al la int-as-konjunktivaj finaĵoj (do la is-konjunktivaj finaĵoj). (Transskribante la eliziĝintan **-ŭĕ-**, evidentiĝas, ke la int-is-indikativa formo entenas la is-indikativan formon de **ĕssere**.)
 
-|     | a          |
+**Konjunktivo:**
+(Ĉe malregulaj e-verboj estus etimologie pli ĝuste transskribi **-ï-** anstataŭ **-e-**.)
+
+| ___Ind.___ | | | ___Sub.___ | |
+|-|-|-|-|-|
+| | | | | |
+| ***-ar*** | | | | |
+| *-ara*    | **-aram**       | | *-asse*    | **-assem**   |
+| *-aras*   | **-aras**       | | *-asses*   | **-asses**   |
+| *-ara*    | **-arat**       | | *-asse*    | **-asset**   |
+| *-áramus* | **-aramus**     | | *-ássemos* | **-assemus** |
+| *-áreis*  | **-aräđis**     | | *-ásseis*  | **-asseđis** |
+| *-aram*   | **-arant**      | | *-assem*   | **-assent**  |
+| | | | | |
+| ***-er*** | | | | |
+| *-era*    | **-eram**       | | *-esse*    | **-essem**   |
+| *-eras*   | **-eras**       | | *-esses*   | **-esses**   |
+| *-era*    | **-erat**       | | *-esse*    | **-esset**   |
+| *-éramus* | **-eramus**     | | *-êssemos* | **-essemus** |
+| *-éreis*  | **-eräđis**     | | *-êsseis*  | **-esseđis** |
+| *-eram*   | **-erant**      | | *-essem*   | **-essent**  |
+| | | | | |
+| ***-ir*** | | | | |
+| *-ira*    | **-iram**       | | *-isse*    | **-issem**   |
+| *-iras*   | **-iras**       | | *-isses*   | **-isses**   |
+| *-ira*    | **-irat**       | | *-isse*    | **-isset**   |
+| *-íramus* | **-iramus**     | | *-íssemos* | **-issemus** |
+| *-íreis*  | **-iräđis**     | | *-ísseis*  | **-isseđis** |
+| *-iram*   | **-irant**      | | *-issem*   | **-issent**  |
+
+| `-` | **fac̆**ere |
 |-|-|
-| `-` | **am**are  |
-| `=` | **amar**ẽ  |
-| `+` | **am**åm   |
-| `~` | **am**äŭi  |
-| `*` | **am**ado  |
-
-|     | e            | | i            | | e*         |
-|-|-|-|-|-|-|
-| `-` | **volv**ere  | | **part**ire  | | **fac̆**ere |
-| `=` | **volver**ẽ  | | **partir**ẽ  | | **fac̆ĕr**ẽ |
-| `+` | **volv**o    | | **parto**    | | **facı**o  |
-| `~` | **volv**ėŭi  | | **part**iŭi  | | **fic̆**ï   |
-| `*` | **volv**ido  | | **part**ido  | | **fäct**o  |
-
-| ___Ind.___ | | ___Sub.___ | | ___Ind.___ | | ___Sub.___ |
-|-|-|-|-|-|-|-|
-| ___Imperfeito___ | | | | ___Perfeito___ | | |
-| | | | | | | |
-| ___Futuro___ | | | | | | |
-| `=`   | | `=` |
-| ___Presente___ | | | | | | |
-| `+/-` | | `+` | | `~` | | `~` |
-| ___Pretérito___ | | | | | | |
-| `-`   | | `-` | | `~` | | `~` |
+| `=` | **fac̆ĕr**ẽ |
+| `+` | **facı**o  |
+| `~` | **fic̆**ï   |
+| `*` | **fäct**o  |
 
 # havere - haverẽ - hẽ - houvï - havido
 
