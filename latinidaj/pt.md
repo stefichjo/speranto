@@ -583,7 +583,6 @@
 |-|-|
 | *de* | **d̂ė** = **de** |
 
-
 # Conjugatıõne
 
 <!-- Nomenclatura -->
@@ -601,40 +600,144 @@
 | *Pretérito Mais-que-Perfeito*                     | ___Pretérito Perfeito___                 | ___Mais-que-Perfeito___                 |
 | *Pretérito Imperfeito (do Subjuntivo)*            | ___Pretérito Perfeito (do Subjuntivo)___ | ___Mais-que-Perfeito (do Subjuntivo)___ |
 
+## Futuro
+
+**Indikativo:**
+La os-indikativaj finaĵoj estas la samaj kiel la as-indikativaj finaĵoj de **havere**.
+
+**Konjunktivo:**
+La os-konjunktivaj finaĵoj estas la samaj kiel la is-indikativaj finaĵoj de **ire**.
+
+| ___Ind.___ | | | ___Sub.___ | |
+|-|-|-|-|-|
+| *-ei*     | **-ẽ**      | | *-ia*      | **-iŭam**    |
+| *-ás*     | **-as**     | | *-ias*     | **-iŭas**    |
+| *-á*      | **-at**     | | *-ia*      | **-iŭat**    |
+| *-emos*   | **-emus**   | | *-íamos*   | **-iŭamus**  |
+| *-eis*    | **-eđis**   | | *-íeis*    | **-iŭäđis**  |
+| *-ão*     | **-ano**    | | *-iam*     | **-iŭant**   |
+
+<!-- iam = iŭam ? -->
+
+<!-- haver -->
+<!-- ir -->
+
+Ne estas esceptoj.
+
+<!-- parenceco kun infinitivo `=` -->
+
+## Presente
+
+**Indikativo:**
+La as-konjunktivaj finaĵoj de a-verboj similas al la as-indikativaj finaĵoj de e-verboj.
+
+**Konjunktivo:** 
+Simetrie, la as-konjunktivaj finaĵoj de e-verboj (kaj i-verboj) similas al la as-indikativaj finaĵoj de a-verboj.
+
+| ___Ind.___ | | | ___Sub.___ | |
+|-|-|-|-|-|
+| | | | | |
+| ***-ar*** | | | | |
+| *-o*      | **-åm**     | | *-e*      | **-em**    |
+| *-as*     | **-as**     | | *-es*     | **-es**    |
+| *-a*      | **-at**     | | *-e*      | **-et**    |
+| *-amos*   | **-amus**   | | *-emos*   | **-emus**  |
+| *-ais*    | **-ađis**   | | *-eis*    | **-eđis**  |
+| *-am*     | **-ant**    | | *-em*     | **-ent**   |
+| | | | | |
+| ***-er*** | | | | |
+| *-o*      | **-e̊m**     | | *-a*      | **-am**    |
+| *-es*     | **-es**     | | *-as*     | **-as**    |
+| *-e*      | **-et**     | | *-a*      | **-at**    |
+| *-emos*   | **-emus**   | | *-amos*   | **-amus**  |
+| *-eis*    | **-eđis**   | | *-ais*    | **-ađis**  |
+| *-em*     | **-ent**    | | *-am*     | **-ant**   |
+| | | | | |
+| ***-ir*** | | | | |
+| *-o*      | **-i̊m**     | | *-a*      | **-am**    |
+| *-es*     | **-is**     | | *-as*     | **-as**    |
+| *-e*      | **-it**     | | *-a*      | **-at**    |
+| *-imos*   | **-imus**   | | *-amos*   | **-amus**  |
+| *-is*     | **-iđis**   | | *-ais*    | **-ađis**  |
+| *-em*     | **-int**    | | *-am*     | **-ant**   |
+
+Ĉe multaj e-verboj, la as-indikativa mi-formo estas speciala. Tiam la as-konjunktivaj formoj ankaŭ estas tiaj.
+
+| ___Ind.___ | | | ___Sub.___ | |
+|-|-|-|-|-|
+| | | | | |
+| ***fazer*** | | | | |
+| *faço*      | **facıe̊m**    | | *faça*      | **facıam**    |
+| *fazes*     | **fac̆es**     | | *faças*     | **facıas**    |
+| *faz*       | **fac̆et**     | | *faça*      | **facıat**    |
+| *fazemos*   | **fac̆emus**   | | *façamos*   | **facıamus**  |
+| *fazeis*    | **fac̆eđis**   | | *façais*    | **facıađis**  |
+| *fazem*     | **fac̆ent**    | | *façam*     | **facıant**   |
+
+## Pretérito
+
+**Indikativo:**
+La is-indikativaj finaĵoj similas al la as-konjunktivaj finaĵoj de e-verboj (kaj i-verboj). a-verboj enhavas **-av-**, dum e-verboj kaj i-verboj enhavas **-ėŭ-**/**-iŭ-** (*-i-*).
+
+**Konjunktivo:**
+La is-konjunktivaj finaĵoj similas al la as-konjunktivaj finaĵoj de a-verboj. a-verboj enhavas **-ar-**, e-verboj enhavas **-er-**, kaj i-verboj enhavas **-ir-**. Tiuj formoj estas la bazo de la infinitivo.
+
+| ___Ind.___ | | | ___Sub.___ | |
+|-|-|-|-|-|
+| | | | | |
+| ***-ar*** | | | | |
+| *-ava*     | **-avam**     | | *-ar*       | **-arem**    |
+| *-avas*    | **-avas**     | | *-ares*     | **-ares**    |
+| *-ava*     | **-avat**     | | *-ar*       | **-aret**    |
+| *-ávamos*  | **-avamus**   | | *-armos*    | **-arĕmus**  |
+| *-áveis*   | **-aväđis**   | | *-ardes*    | **-arĕdis**  |
+| *-avam*    | **-avant**    | | *-arem*     | **-arent**   |
+| | | | | |
+| ***-er*** | | | | |
+| *-ia*      | **-ėŭam**     | | *-er*       | **-erem**    |
+| *-ias*     | **-ėŭas**     | | *-eres*     | **-eres**    |
+| *-ia*      | **-ėŭat**     | | *-er*       | **-eret**    |
+| *-íamos*   | **-ėŭamus**   | | *-ermos*    | **-erĕmus**  |
+| *-íeis*    | **-ėŭäđis**   | | *-erdes*    | **-erĕdis**  |
+| *-iam*     | **-ėŭant**    | | *-erem*     | **-erent**   |
+| | | | | |
+| ***-ir*** | | | | |
+| *-ia*      | **-i̊ŭam**     | | *-ir*       | **-irem**    |
+| *-ias*     | **-iŭas**     | | *-ires*     | **-ires**    |
+| *-ia*      | **-iŭat**     | | *-ir*       | **-iret**    |
+| *-íamos*   | **-iŭamus**   | | *-irmos*    | **-irĕmus**  |
+| *-íeis*    | **-iŭäđis**   | | *-irdes*    | **-irĕdis**  |
+| *-iam*     | **-iŭant**    | | *-irem*     | **-irent**   |
+
 ## -are
 
-| Futuro    | | Presente | | Perfeito  | | Participio |
-|-|-|-|-|-|-|-|
-| *amarei*  | | *amo*    | | *amei*    | | *amado*    |
-| **amarẽ** | | **amo**  | | **amäŭi** | | **amado**  |
+|     | a          |
+|-|-|
+| `-` | **am**are  |
+| `=` | **amar**ẽ  |
+| `+` | **am**åm   |
+| `~` | **am**äŭi  |
+| `*` | **am**ado  |
 
-| ___Ind.___ | | | ___Sub.___ | | | ___Ind.___ | | | ___Sub.___ | |
-|-|-|-|-|-|-|-|-|-|-|-|
-| ___Imperfeito___ | | | | | | ___Perfeito___ | | | | |
-| | | | | | | | | | | |
-| ___Futuro___ | | | | | | | | | | | |
-| *amarei*   | **amarẽ**    | | *amaria*    | **amariam**   |
-| *amarás*   | **amaras**   | | *amarias*   | **amarias**   |
-| *amará*    | **amarat**   | | *amaria*    | **amariat**   |
-| *amaremos* | **amaremus** | | *amaríamos* | **amariamus** |
-| *amareis*  | **amaređis** | | *amaríeis*  | **amariäđis** |
-| *amarão*   | **amarano**  | | *amariam*   | **amariant**  |
-| ___Presente___ | | | | | | | | | | | |
-| *amo*      | **amo**      | | *ame*       | **amem**      | | *amei*     | **amäŭi**    | | *amar*      | **amarïm**    |
-| *amas*     | **amas**     | | *ames*      | **ames**      | | *amaste*   | **amasti**   | | *amares*    | **amarïs**    |
-| *ama*      | **amat**     | | *ame*       | **amet**      | | *amou*     | **amåuĭt**   | | *amar*      | **amarït**    |
-| *amamos*   | **amamus**   | | *amemos*    | **amemus**    | | *amamos*   | **amamus**   | | *amarmos*   | **amarĭmus**  |
-| *amais*    | **amađis**   | | *ameis*     | **ameđis**    | | *amastes*  | **amastis**  | | *amardes*   | **amarĭdis**  |
-| *amam*     | **amant**    | | *amem*      | **ament**     | | *amaram*   | **amarȗnt**  | | *amarem*    | **amarïnt**   |
-| ___Pretérito___ | | | | | | | | | | | |
-| *amava*    | **amavam**   | | *amar*      | **amarem**    | | *amara*    | **amaram**   | | *amasse*    | **amassem**   |
-| *amavas*   | **amavas**   | | *amares*    | **amares**    | | *amaras*   | **amaras**   | | *amasses*   | **amasses**   |
-| *amava*    | **amavat**   | | *amar*      | **amaret**    | | *amara*    | **amarat**   | | *amasse*    | **amasset**   |
-| *amávamos* | **amamus**   | | *amarmos*   | **amarĕmus**  | | *amáramos* | **amaramus** | | *amássemos* | **amassemus** |
-| *amáveis*  | **amaväđis** | | *amardes*   | **amarĕdis**  | | *amáreis*  | **amaräđis** | | *amásseis*  | **amasseđis** |
-| *amavam*   | **amavant**  | | *amarem*    | **amarent**   | | *amaram*   | **amarant**  | | *amassem*   | **amassent**  |
+Eliziitaj **-ŭĕ-** kaj **-ŭĭ-** (ĉe plenumitecaj formoj) ne skribiĝas.
 
-
+|             | -ŭĕ-/-ŭĭ-     |             |
+|-|-|-|
+| *amei*      |               | **amäŭi**   |
+| *amaste*    | **amaŭĭsti**  | **amasti**  |
+| *amou*      |               | **amåuĭt**  |
+| *amamos*    | **amaŭĭmus**  | **amamus**  |
+| *amastes*   | **amaŭĭstis** | **amastis** |
+| *amaram*    | **amaŭĕrȗnt** | **amarȗnt** |
+| | | |
+| *amar*      | **amaŭĕrim**  | **amarim**  |
+| *...*       | **...**       | **...**     |
+| | | |
+| *amara*     | **amaŭĕram**  | **amaram**  |
+| *...*       | **...**       | **...**     |
+| | | |
+| *amasse*    | **amaŭĭssem** | **amassem** |
+| *...*       | **...**       | **...**     |
 
 | ___Ind.___ | | | ___Sub.___ | | | ___Ind.___ | | | ___Sub.___ | |
 |-|-|-|-|-|-|-|-|-|-|-|
@@ -648,28 +751,53 @@
 | *-eis*    | **-eđis**   | | *-íeis*    | **-iäđis**  |
 | *-ão*     | **-ano**    | | *-iam*     | **-iant**   |
 | ___Presente___ | | | | | | | | | | | |
-| *-o*      | **-o**      | | *-e*       | **-em**     | | *-ei*     | **-äŭi**    | | *-ar*      | **-arïm**    |
-| *-as*     | **-as**     | | *-es*      | **-es**     | | *-aste*   | **-asti**   | | *-ares*    | **-arïs**    |
-| *-a*      | **-at**     | | *-e*       | **-et**     | | *-ou*     | **-åuĭt**   | | *-ar*      | **-arït**    |
-| *-amos*   | **-amus**   | | *-emos*    | **-emus**   | | *-amos*   | **-amus**   | | *-armos*   | **-arĭmus**  |
-| *-ais*    | **-ađis**   | | *-eis*     | **-eđis**   | | *-astes*  | **-astis**  | | *-ardes*   | **-arĭdis**  |
-| *-am*     | **-ant**    | | *-em*      | **-ent**    | | *-aram*   | **-arȗnt**  | | *-arem*    | **-arïnt**   |
+| *-o*      | **-o**      | | *-e*       | **-em**     | | *-ei*     | **-äŭ-i**     | | *-ar*      | **-arim**    |
+| *-as*     | **-as**     | | *-es*      | **-es**     | | *-aste*   | **-asti**     | | *-ares*    | **-aris**    |
+| *-a*      | **-at**     | | *-e*       | **-et**     | | *-ou*     | **-åu-ĭt**    | | *-ar*      | **-arit**    |
+| *-amos*   | **-amus**   | | *-emos*    | **-emus**   | | *-amos*   | **-amus**     | | *-armos*   | **-arĭmus**  |
+| *-ais*    | **-ađis**   | | *-eis*     | **-eđis**   | | *-astes*  | **-astis**    | | *-ardes*   | **-arĭdis**  |
+| *-am*     | **-ant**    | | *-em*      | **-ent**    | | *-aram*   | **-arȗnt**    | | *-arem*    | **-arint**   |
 | ___Pretérito___ | | | | | | | | | | | |
-| *-ava*    | **-avam**   | | *-ar*      | **-arem**   | | *-ara*    | **-aram**   | | *-asse*    | **-assem**   |
-| *-avas*   | **-avas**   | | *-ares*    | **-ares**   | | *-aras*   | **-aras**   | | *-asses*   | **-asses**   |
-| *-ava*    | **-avat**   | | *-ar*      | **-aret**   | | *-ara*    | **-arat**   | | *-asse*    | **-asset**   |
-| *-ávamos* | **-avamus** | | *-armos*   | **-arĕmus** | | *-áramos* | **-aramus** | | *-ássemos* | **-assemus** |
-| *-áveis*  | **-aväđis** | | *-ardes*   | **-arĕdis** | | *-áreis*  | **-aräđis** | | *-ásseis*  | **-asseđis** |
-| *-avam*   | **-avant**  | | *-arem*    | **-arent**  | | *-aram*   | **-arant**  | | *-assem*   | **-assent**  |
+| *-ava*    | **-avam**   | | *-ar*      | **-arem**   | | *-ara*    | **-aram**     | | *-asse*    | **-assem**   |
+| *-avas*   | **-avas**   | | *-ares*    | **-ares**   | | *-aras*   | **-aras**     | | *-asses*   | **-asses**   |
+| *-ava*    | **-avat**   | | *-ar*      | **-aret**   | | *-ara*    | **-arat**     | | *-asse*    | **-asset**   |
+| *-ávamos* | **-avamus** | | *-armos*   | **-arĕmus** | | *-áramos* | **-aramus**   | | *-ássemos* | **-assemus** |
+| *-áveis*  | **-aväđis** | | *-ardes*   | **-arĕdis** | | *-áreis*  | **-aräđis**   | | *-ásseis*  | **-asseđis** |
+| *-avam*   | **-avant**  | | *-arem*    | **-arent**  | | *-aram*   | **-arant**    | | *-assem*   | **-assent**  |
 
-|     | a          | | e            | | i            | | e*         |
-|-|-|-|-|-|-|-|-|
-| `-` | **am**are  | | **volv**ere  | | **part**ire  | | **fac̆**ere |
-| `=` | **amar**ẽ  | | **volver**ẽ  | | **partir**ẽ  | | **fac̆ĕr**ẽ |
-| `+` | **am**o    | | **volv**o    | | **parto**    | | **facı**o  |
-| `~` | **am**äŭi  | | **volv**ėŭi  | | **part**iŭi  | | **fic̆**ï   |
-| `*` | **am**ado  | | **volv**ido  | | **part**ido  | | **fäct**o  |
+|     | e            | | i            | | e*         |
+|-|-|-|-|-|-|
+| `-` | **volv**ere  | | **part**ire  | | **fac̆**ere |
+| `=` | **volver**ẽ  | | **partir**ẽ  | | **fac̆ĕr**ẽ |
+| `+` | **volv**o    | | **parto**    | | **facı**o  |
+| `~` | **volv**ėŭi  | | **part**iŭi  | | **fic̆**ï   |
+| `*` | **volv**ido  | | **part**ido  | | **fäct**o  |
 
+| ___Ind.___ | | | ___Sub.___ | | | ___Ind.___ | | | ___Sub.___ | |
+|-|-|-|-|-|-|-|-|-|-|-|
+| ___Imperfeito___ | | | | | | ___Perfeito___ | | | | |
+| | | | | | | | | | | |
+| ___Futuro___ | | | | | | | | | | | |
+| *volverei*   | **volverẽ**    | | *volveria*    | **volveriam**   |
+| *volverás*   | **volveras**   | | *volverias*   | **volverias**   |
+| *volverá*    | **volverat**   | | *volveria*    | **volveriat**   |
+| *volveremos* | **volveremus** | | *volveríamos* | **volveriamus** |
+| *volvereis*  | **volveređis** | | *volveríeis*  | **volveriäđis** |
+| *volverão*   | **volverano**  | | *volveriam*   | **volveriant**  |
+| ___Presente___ | | | | | | | | | | | |
+| *volvo*      | **volvo**      | | *volva*       | **volvam**      | | *volvi*      | **volv-ėŭ-i**  | | *volver*      | **volverïm**    |
+| *volves*     | **volves**     | | *volvas*      | **volvas**      | | *volveste*   | **volvesti**   | | *volveres*    | **volverïs**    |
+| *volve*      | **volvet**     | | *volva*       | **volvat**      | | *volveu*     | **volv-eu-ĭt** | | *volver*      | **volverït**    |
+| *volvemos*   | **volvemus**   | | *volvamos*    | **volvamus**    | | *volvemos*   | **volvemus**   | | *volvermos*   | **volverĭmus**  |
+| *volveis*    | **volveđis**   | | *volvais*     | **volvađis**    | | *volvestes*  | **volvestis**  | | *volverdes*   | **volverĭdis**  |
+| *volvem*     | **volvent**    | | *volvam*      | **volvant**     | | *volveram*   | **volverȗnt**  | | *volverem*    | **volverïnt**   |
+| ___Pretérito___ | | | | | | | | | | | |
+| *volvia*     | **volviam**    | | *volver*      | **volverem**    | | *volvera*    | **volveram**   | | *volvesse*    | **volvessem**   |
+| *volvias*    | **volvias**    | | *volveres*    | **volveres**    | | *volveras*   | **volveras**   | | *volvesses*   | **volvesses**   |
+| *volvia*     | **volviat**    | | *volver*      | **volveret**    | | *volvera*    | **volverat**   | | *volvesse*    | **volvesset**   |
+| *volvíamos*  | **volviamus**  | | *volvermos*   | **volverĕmus**  | | *volvêramos* | **volveramus** | | *volvêssemos* | **volvessemus** |
+| *volvíeis*   | **volviäđis**  | | *volverdes*   | **volverĕdis**  | | *volvêreis*  | **volveräđis** | | *volvêsseis*  | **volvesseđis** |
+| *volviam*    | **volviant**   | | *volverem*    | **volverent**   | | *volveram*   | **volverant**  | | *volvessem*   | **volvessent**  |
 
 | ___Ind.___ | | ___Sub.___ | | ___Ind.___ | | ___Sub.___ |
 |-|-|-|-|-|-|-|
@@ -681,175 +809,6 @@
 | `+/-` | | `+` | | `~` | | `~` |
 | ___Pretérito___ | | | | | | |
 | `-`   | | `-` | | `~` | | `~` |
-
-
-
-
-# ?Conjugatıõne <!-- TODO: -unt → -ent/-int/-ant/-ano -->
-
-## Infinitivo
-
-| | |
-|-|-|
-| *amar* | **amare** |
-| | |
-| *prender* | **prendere** |
-| | |
-| *partir* | **partire** |
-
-### Imperativo
-
-| | | | | |
-|-|-|-|-|-|
-| *ama* | **ama** | | *amai* | **amađe** |
-| | | | | |
-| *prende* | **prende** | | *prendei* | **prendeđe** |
-| | | | | |
-| *parte* | **parti** | | *parti* | **partiđe** |
-
-## Futuro
-
-<!-- infinitivo + desinentĭas dĕ-lo verbo "havere" -->
-
-| | | | | |
-|-|-|-|-|-|
-| *prenderei* | **prederẽ**  | | *prenderemos* | **prederemus** |
-| *prenderás* | **prederas** | | *prendereis*  | **predeređis** |
-| *prenderá*  | **prederat** | | *prenderão*   | **prederano**  |
-| | | | | |
-| *partirei* | **partirẽ**  | | *partiremos* | **partiremus** |
-| *partirás* | **partiras** | | *partireis*  | **partiređis** |
-| *partirá*  | **partirat** | | *partirão*   | **partirano**  |
-
-### Futuro dĕ-lo Subjunctivo
-*(Futuro do pretérito do indicativo = Condicional)*
-
-<!-- infinitivo + desinentĭas dĕ-lo passado dĕ-lo verbo "ire" -->
-
-| | | | | |
-|-|-|-|-|-|
-| *prenderia*  | **prenderiam** | | *prenderíamos* | **prenderiamus** |
-| *prenderias* | **prenderias** | | *prenderíeis*  | **prenderiäđis** |
-| *prenderia*  | **prenderiat** | | *prenderiam*   | **prenderiant**  |
-| | | | | |
-| *partiria*  | **partiriam** | | *partiríamos* | **partiriamus** |
-| *partirias* | **partirias** | | *partiríeis*  | **partiriäđis** |
-| *partiria*  | **partiriat** | | *partiriam*   | **partiriant**  |
-
-## Presente
-
-<!-- Indikativ Präsens (Imperfekt) -->
-<!-- -mus/-můs ? -->
-<!-- -đis/-đės ? -->
-<!-- -ent/-ünt ? -->
-<!-- -ïs = -es -->
-
-| | | | | |
-|-|-|-|-|-|
-| *prendo*  | **prendo**  | | *prendemos* | **prendemus** |
-| *prendes* | **prendes** | | *prendeis*  | **prendeđis** |
-| *prende*  | **prendet** | | *prendem*   | **prendent**  |
-| | | | | |
-| *parto*  | **parto**  | | *partimos* | **partimus** |
-| *partes* | **partïs** | | *partis*   | **partiđis** | <!-- ís ? -->
-| *parte*  | **partït** | | *partem*   | **partïnt**  |
-
-### Presente dĕ-lo Subjunctivo
-
-<!-- Konjunktiv Präsens (Imperfekt) -->
-
-| | | | | |
-|-|-|-|-|-|
-| *prenda*  | **prendam**  | | *prendamos* | **prendamus** |
-| *prendas* | **prendas** | | *prendais*  | **prendađis** |
-| *prenda*  | **prendat** | | *prendam*   | **prendant**  |
-| | | | | |
-| *parta*  | **partam**  | | *partamos* | **partamus** |
-| *partas* | **partas** | | *partais*   | **partađis** |
-| *parta*  | **partat** | | *partam*   | **partant**  |
-
-## Presente Perfeċto
-*(Pretérito Perfeito do Indicativo)*
-
-<!-- Indikativ (Präsens) Perfekt -->
-<!-- ŭĭ, ŭĕ → - -->
-<!-- -stis/-stïs ? -->
-
-| | | | | |
-|-|-|-|-|-|
-| *prendi*    | **prendĕŭi**  | | *prendemos*  | **prendïmus**  | <!-- -ev- etc. checken -->
-| *prendeste* | **prendïsti** | | *prendestes* | **prendïstis** |
-| *prendeu*   | **prendeuĭt** | | *prenderam*  | **prenderȗnt** |
-| | | | | |
-| *parti*    | **partĭŭi**  | | *partimos*  | **partimus** |
-| *partiste* | **partisti** | | *partistes* | **partistis** |
-| *partiu*   | **partiuĭt** | | *partiram*  | **partirȗnt** |
-
-### Presente Perfeċto dĕ-lo Subjunctivo
-*(Futuro do Subjuntivo)*
-
-<!-- Konjunktiv (Präsens) Perfekt -->
-<!-- ŭĭ, ŭĕ → - -->
-
-| | | | | |
-|-|-|-|-|-|
-| *prender*   | **prenderïm** | | *prendermos* | **prenderĭmus** |
-| *prenderes* | **prenderïs** | | *prenderdes* | **prenderĭdis** |
-| *prender*   | **prenderït** | | *prenderem*  | **prenderïnt**  |
-| | | | | |
-| *partir*   | **partirïm** | | *partirmos* | **partirĭmus** |
-| *partires* | **partirïs** | | *partirdes* | **partirĭdis** |
-| *partir*   | **partirït** | | *partirem*  | **partirïnt**  |
-
-## Præterito
-*(Pretérito Imperfeito do Indicativo)*
-
-<!-- Indikativ (Präteritum) Imperfekt -->
-<!-- ƀ → - -->
-
-| | | | | |
-|-|-|-|-|-|
-| *prendia*  | **prendiam** | | *prendíamos* | **prendiamus** |
-| *prendias* | **prendias** | | *prendíeis*  | **prendiäđis** |
-| *prendia*  | **prendiat** | | *prendiam*   | **prendiant**  |
-| | | | | |
-| *partia*  | **partiam** | | *partíamos* | **partiamus** |
-| *partias* | **partias** | | *partíeis*  | **partiäđis** |
-| *partia*  | **partiat** | | *partiam*   | **partiant**  |
-
-## Præterito Perfeċto
-*(Pretérito Mais-que-perfeito do Indicativo)*
-
-<!-- Indikativ Plusquamperfekt (= Indikativ Präteritum Perfekt) -->
-<!-- Perfektstamm + Präteritum von "esse"-->
-<!-- ŭĕ → - -->
-
-| | | | | |
-|-|-|-|-|-|
-| *prendera*  | **prenderam** | | *prendêramos* | **prenderamus** |
-| *prenderas* | **prenderas** | | *prendêreis*  | **prenderäđis** |
-| *prendera*  | **prenderat** | | *prenderam*   | **prenderant**  |
-| | | | | |
-| *partira*  | **partiram** | | *partíramos* | **partiramus** |
-| *partiras* | **partiras** | | *partíreis*  | **partiräđis** |
-| *partira*  | **partirat** | | *partiram*   | **partirant**  |
-
-### Præterito Perfeċto dĕ-lo Subjunctivo
-*(Pretérito Imperfeito do Subjuntivo)*
-
-<!-- Konjunktiv Plusquamperfekt (= Konjunktiv Präteritum Perfekt) -->
-<!-- ŭĭ, ŭĕ → - -->
-<!-- quer → quis -->
-
-| | | | | |
-|-|-|-|-|-|
-| *prendia*  | **prendiam** | | *prendíamos* | **prendiamus** |
-| *prendias* | **prendias** | | *prendíeis*  | **prendiäđis** |
-| *prendia*  | **prendiat** | | *prendiam*   | **prendiant**  |
-| | | | | |
-| *partia*  | **partiam** | | *partíamos* | **partiamus** |
-| *partias* | **partias** | | *partíeis*  | **partiäđis** |
-| *partia*  | **partiat** | | *partiam*   | **partiant**  |
 
 # havere - haverẽ - hẽ - houvï - havido
 
