@@ -606,7 +606,7 @@
 La os-indikativaj finaĵoj estas la samaj kiel la as-indikativaj finaĵoj de **havere**.
 
 **Konjunktivo:**
-La os-konjunktivaj finaĵoj estas la samaj kiel la is-indikativaj finaĵoj de **ire**.
+La os-konjunktivaj finaĵoj estas la samaj kiel la is-indikativaj finaĵoj de i-verboj.
 
 | ___Ind.___ | | | ___Sub.___ | |
 |-|-|-|-|-|
@@ -618,9 +618,6 @@ La os-konjunktivaj finaĵoj estas la samaj kiel la is-indikativaj finaĵoj de **
 | *-ão*     | **-ano**    | | *-iam*     | **-iŭant**   |
 
 <!-- iam = iŭam ? -->
-
-<!-- haver -->
-<!-- ir -->
 
 Ne estas esceptoj.
 
@@ -663,16 +660,25 @@ Simetrie, la as-konjunktivaj finaĵoj de e-verboj (kaj i-verboj) similas al la a
 
 Ĉe multaj e-verboj, la as-indikativa mi-formo estas speciala. Tiam la as-konjunktivaj formoj ankaŭ estas tiaj.
 
-| ___Ind.___ | | | ___Sub.___ | |
-|-|-|-|-|-|
-| | | | | |
 | ***fazer*** | | | | |
+|-|-|-|-|-|
 | *faço*      | **facıe̊m**    | | *faça*      | **facıam**    |
 | *fazes*     | **fac̆es**     | | *faças*     | **facıas**    |
 | *faz*       | **fac̆et**     | | *faça*      | **facıat**    |
 | *fazemos*   | **fac̆emus**   | | *façamos*   | **facıamus**  |
 | *fazeis*    | **fac̆eđis**   | | *façais*    | **facıađis**  |
 | *fazem*     | **fac̆ent**    | | *façam*     | **facıant**   |
+
+La verbo **havere** estas aparte speciala, ĉar kaj la mi-formo kaj la ili-formo estas diversaj.
+
+| ***haver*** | |
+|-|-|
+| *hei*      | **hẽ**      |
+| *hás*      | **has**     |
+| *há*       | **hat**     |
+| *havemos*  | **havemus** |
+| *haveis*   | **haveđis** |
+| *hão*      | **hano**    |
 
 ## Pretérito
 
@@ -702,7 +708,7 @@ La is-konjunktivaj finaĵoj similas al la as-konjunktivaj finaĵoj de a-verboj. 
 | *-iam*     | **-ėŭant**    | | *-erem*     | **-erent**   |
 | | | | | |
 | ***-ir*** | | | | |
-| *-ia*      | **-i̊ŭam**     | | *-ir*       | **-irem**    |
+| *-ia*      | **-iŭam**     | | *-ir*       | **-irem**    |
 | *-ias*     | **-iŭas**     | | *-ires*     | **-ires**    |
 | *-ia*      | **-iŭat**     | | *-ir*       | **-iret**    |
 | *-íamos*   | **-iŭamus**   | | *-irmos*    | **-irĕmus**  |
