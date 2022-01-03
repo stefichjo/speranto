@@ -658,7 +658,7 @@ Simetrie, la as-konjunktivaj finaĵoj de e-verboj (kaj i-verboj) similas al la a
 | *-is*     | **-iđis**   | | *-ais*    | **-ađis**  |
 | *-em*     | **-int**    | | *-am*     | **-ant**   |
 
-Ĉe multaj e-verboj, la as-indikativa mi-formo estas speciala. Tiam la as-konjunktivaj formoj ankaŭ estas tiaj.
+Ĉe malregulaj e-verboj, la as-indikativa mi-formo estas speciala. Tiam la as-konjunktivaj formoj ankaŭ estas tiaj.
 
 | ***fazer*** | | | | |
 |-|-|-|-|-|
@@ -683,10 +683,10 @@ La verbo **havere** estas aparte speciala, ĉar kaj la mi-formo kaj la ili-formo
 ## Pretérito
 
 **Indikativo:**
-La is-indikativaj finaĵoj similas al la as-konjunktivaj finaĵoj de e-verboj (kaj i-verboj). a-verboj enhavas **-av-**, dum e-verboj kaj i-verboj enhavas **-ėŭ-**/**-iŭ-** (*-i-*).
+La is-indikativaj finaĵoj similas al la as-konjunktivaj finaĵoj de e-verboj (kaj i-verboj). a-verboj entenas **-av-**, dum e-verboj kaj i-verboj entenas **-ėŭ-**/**-iŭ-** (*-i-*).
 
 **Konjunktivo:**
-La is-konjunktivaj finaĵoj similas al la as-konjunktivaj finaĵoj de a-verboj. a-verboj enhavas **-ar-**, e-verboj enhavas **-er-**, kaj i-verboj enhavas **-ir-**. Tiuj formoj estas la bazo de la infinitivo.
+La is-konjunktivaj finaĵoj similas al la as-konjunktivaj finaĵoj de a-verboj. a-verboj entenas **-ar-**, e-verboj entenas **-er-**, kaj i-verboj entenas **-ir-**. Tiuj formoj estas la bazo de la infinitivo.
 
 | ___Ind.___ | | | ___Sub.___ | |
 |-|-|-|-|-|
@@ -718,7 +718,7 @@ La is-konjunktivaj finaĵoj similas al la as-konjunktivaj finaĵoj de a-verboj. 
 ## Perfeito
 
 **Indikativo:**
-Kelkaj int-as-indikativaj formoj enhavas restaĵojn de **-av-**, **-ev-** kaj **-iv-**. Krom ĉe la mi-formo kaj li-formo, ankaŭ la sekva vokalo eliziiĝis, sed por simpleco, la rezultanta sinsekvo de eliziaĵoj **-ŭĕ-** kaj **-ŭĭ-** ne plu transskribiĝas.
+Kelkaj int-as-indikativaj formoj entenas restaĵojn de **-av-**, **-ev-** kaj **-iv-**. Krom ĉe la mi-formo kaj li-formo, ankaŭ la sekva vokalo eliziiĝis, sed por simpleco, la rezultanta sinsekvo de eliziaĵoj **-ŭĕ-** kaj **-ŭĭ-** ne plu transskribiĝas.
 
 **Konjunktivo:**
 La int-as-konjunktivaj formoj similas al la is-konjunktivaj formoj. Tamen, malgraŭ la simetrio, ŝajnas etimologie pli ĝuste (aŭ pli "latine") transskribi **-ėr-** anstataŭ **-ir-**.
@@ -735,12 +735,12 @@ La int-as-konjunktivaj formoj similas al la is-konjunktivaj formoj. Tamen, malgr
 | *-aram*   | **-arȗnt** | | *-arem*   | **-arint**  |
 | | | | | |
 | ***-er*** | | | | |
-| *-i*      | **-ėŭ-i**  | | *-er*     | **-erim**   |
-| *-este*   | **-esti**  | | *-eres*   | **-eris**   |
-| *-eu*     | **-eu-ĭt** | | *-er*     | **-erit**   |
-| *-emus*   | **-emus**  | | *-ermos*  | **-erĭmus** |
-| *-estes*  | **-estis** | | *-erdes*  | **-erĭdis** |
-| *-eram*   | **-erȗnt** | | *-erem*   | **-erint**  |
+| *-i*      | **-ėŭ-i** / **-i**   | | *-er*     | **-erim**   |
+| *-este*   | **-esti**            | | *-eres*   | **-eris**   |
+| *-eu*     | **-eu-ĭt** / **-it** | | *-er*     | **-erit**   |
+| *-emus*   | **-emus**            | | *-ermos*  | **-erĭmus** |
+| *-estes*  | **-estis**           | | *-erdes*  | **-erĭdis** |
+| *-eram*   | **-erȗnt**           | | *-erem*   | **-erint**  |
 | | | | | |
 | ***-ir*** | | | | |
 | *-i*      | **-iŭ-i**  | | *-ir*     | **-irim**   |
@@ -750,7 +750,16 @@ La int-as-konjunktivaj formoj similas al la is-konjunktivaj formoj. Tamen, malgr
 | *-istes*  | **-istis** | | *-irdes*  | **-irĭdis** |
 | *-iram*   | **-irȗnt** | | *-irem*   | **-irint**  |
 
-<!-- fazer, dizer -->
+Ĉe malregulaj e-verboj, la int-as-indikativaj formoj ne entenas **-eŭ-**. La finaĵoj por la mi- kaj li-formoj tiam estas **-i** kaj **-it**. Estus etimologie pli ĝuste transskribi **-ï-** anstataŭ **-e-**.
+
+| ***dizer*** | |
+|-|-|
+| *disse*      | **dixi**      |
+| *disseste*   | **dixesti**   |
+| *disse*      | **dixit**     |
+| *dissemos*   | **dixemus**   |
+| *dissestes*  | **dixestis**  |
+| *disseram*   | **dixerȗnt**  |
 
 ## Mais-que-Perfeito
 
