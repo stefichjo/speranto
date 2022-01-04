@@ -46,18 +46,8 @@ gh h q qh
 tlhingan hol
 reh masuvrup 'ej not maheghvip.
 
-Q:
-qeylis (QeyliS)
-qho'nos (Qo'noS)
-
-qH ⇒ Q:
-paqhom (paqHom ⇒ paQom)
-
-ngH:
-manghom (mangHom)
-tungha' (tungHa')
-
-ngh ⇒ ngH:
+qheylis (QeyliS ⇒ qHeyliS)
+qho'nos (Qo'noS ⇒ qHo'noS)
 nenghep (nenghep ⇒ nengHep)
 
 ## Verboj
