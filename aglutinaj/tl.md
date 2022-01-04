@@ -1,6 +1,6 @@
-|        | 1.                  | 2.                    | 3.                    |
+| | 1.                  | 2.                    | 3.                    |
 |:-:|:-:|:-:|:-:|
-| **1.** | `jIH / maH`         | `SoH / tlhIH`         | `ghaH/'oH / chaH/bIH` |
+| | `jIH / maH`         | `SoH / tlhIH`         | `ghaH/'oH / chaH/bIH` |
 
 |        | 1.                  | 2.                    | 3.                    |
 |:-:|:-:|:-:|:-:|
