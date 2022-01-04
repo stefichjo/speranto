@@ -334,6 +334,7 @@
 | *céu* | **cełǒ** = **ceło** | <!-- ǒ -->
 | | |
 | *boa* | **bon̆a** |
+| *leoa* | **leon̆a** |
 | *lua* | **lun̆a** |
 | *mesa* | **men̆sa** |
 | | |
@@ -549,6 +550,9 @@
 | | |
 | *milhão* | **millĭõnĕ** = **millĭõne** |
 | *milhões* | **millĭonės** = **millĭones** |
+| | |
+| *leão* | **leõnĕ** = **leõne** |
+| *leões* | **leonės** = **leones** |
 
 ### -le, -re
 
@@ -997,3 +1001,12 @@ La int-is-indikativaj finaĵoj similas al la int-as-konjunktivaj finaĵoj (do la
 | `+` | **facıo**  |
 | `~` | **fic̆ï**   |
 | `*` | **fäċto**  |
+
+| `-` | **pot̯ere** |
+|-|-|
+| `=` | **pot̯erẽ** |
+| `+` | **posso**   |
+| `~` | **pudi**    |
+| `*` | **pot̯ido** |
+| | |
+| `~` | **půdit**   | <!-- pôde -->
