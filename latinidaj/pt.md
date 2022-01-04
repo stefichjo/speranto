@@ -762,7 +762,7 @@ La int-as-konjunktivaj finaĵoj similas al la is-konjunktivaj finaĵoj. Tamen, m
 | *-istes*  | **-istis** | | *-irdes*  | **-irĭdis** |
 | *-iram*   | **-irȗnt** | | *-irem*   | **-irint**  |
 
-__*__: Ĉe malregulaj e-verboj, la int-as-indikativaj formoj ne entenas **-eŭ-**. La finaĵoj por la mi- kaj li-formoj tiam estas **-i** kaj **-it**. (Estus etimologie pli ĝuste transskribi **-ï-** anstataŭ **-e-**.)
+__*__: Ĉe malregulaj e-verboj, la int-as-indikativaj formoj ne entenas **-eŭ-**. La finaĵoj por la mi- kaj li-formoj tiam estas **-i** kaj **-it**. (Estus tiam etimologie pli ĝuste transskribi **-ï-** anstataŭ **-e-**.)
 
 | ***dizer*** | | | | |
 |-|-|-|-|-|
@@ -836,11 +836,11 @@ La int-is-indikativaj finaĵoj similas al la int-as-konjunktivaj finaĵoj (do la
 | `~` | **fui**    |
 | `*` | **sido**   |
 | | |
-| `+` | **es** |
-| `+` | **e'** |
-| `+` | **somus** |
-| `+` | **sođis** |
-| `+` | **sano** |
+| `+` | **es**     |
+| `+` | **e'**     |
+| `+` | **somus**  |
+| `+` | **sođis**  |
+| `+` | **sano**   |
 
 <!-- essere  → esse/ser -->
 <!-- ĕss → s -->
@@ -977,13 +977,23 @@ La int-is-indikativaj finaĵoj similas al la int-as-konjunktivaj finaĵoj (do la
 | *íeis*  | **iäđis**    | |           |             | | | | | | | |
 | *iam*   | **iant**     | |           |             | | | | | | | |
 
-# sap̆ere - säi - soubï - sap̆ido
+| `-` | **sap̆ere** |
+|-|-|
+| `=` | **dic̆ĕrẽ** |
+| `+` | **säi**    |
+| `~` | **soup̆i**  |
+| `*` | **sap̆ido** |
 
-<!-- säp̆ĭŏ = säi sei !!! -->
+| `-` | **dic̆ere** |
+|-|-|
+| `=` | **dic̆ĕrẽ** |
+| `+` | **dic̆o**   |
+| `~` | **dixi**   |
+| `*` | **dic̆to**  |
 
-# dic̆ere - dic̆o - dixï - dic̆to
-
-<!-- *diz(ei)* **dic̆e(đe)** -->
-
-# fac̆ere - fac̆ĕrẽ - facıo - fic̆ï - fäċto
-
+| `-` | **fac̆ere** |
+|-|-|
+| `=` | **fac̆ĕrẽ** |
+| `+` | **facıo**  |
+| `~` | **fic̆ï**   |
+| `*` | **fäċto**  |
