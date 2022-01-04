@@ -383,11 +383,11 @@
 | | [e] |
 |-|-|
 | *certeza* | **certït̯ıa** = **certeza** |
-| *pelo* | **pïlo** |
-| *seis*   | **sïẋ** |
-| *seio* | **sïṅo** | <!-- sino -->
-| *seno* | **sïno** | <!-- sinuso -->
-| *vez* | **vïc̆ĕ** = **vïce** | <!-- c̆ĕ -->
+| *pelo*    | **pïlo** |
+| *seis*    | **sïẋ**  |
+| *seio*    | **sïṅo** | <!-- sino -->
+| *seno*    | **sïno** | <!-- sinuso -->
+| *vez*     | **vïc̆ĕ** = **vïce** | <!-- c̆ĕ -->
 | | |
 | *ela* | **ïlla** |
 | *ele* | **ïlle** |
