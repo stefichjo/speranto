@@ -739,28 +739,28 @@ La int-as-konjunktivaj finaĵoj similas al la is-konjunktivaj finaĵoj. Tamen, m
 |-|-|-|-|-|
 | | | | | |
 | ***-ar*** | | | | |
-| *-ei*     | **-äŭ-i**      | | *-ar*     | **-arim**   |
-| *-aste*   | **-asti**      | | *-ares*   | **-aris**   |
-| *-ou*     | **-åu-ĭt**     | | *-ar*     | **-arit**   |
-| *-amos*   | **-amus**      | | *-armos*  | **-arĭmus** |
-| *-astes*  | **-astis**     | | *-ardes*  | **-arĭdis** |
-| *-aram*   | **-arȗnt**     | | *-arem*   | **-arint**  |
+| *-ei*     | **-äŭ-i**  | | *-ar*     | **-arim**   |
+| *-aste*   | **-asti**  | | *-ares*   | **-aris**   |
+| *-ou*     | **-åu-ĭt** | | *-ar*     | **-arit**   |
+| *-amos*   | **-amus**  | | *-armos*  | **-arĭmus** |
+| *-astes*  | **-astis** | | *-ardes*  | **-arĭdis** |
+| *-aram*   | **-arȗnt** | | *-arem*   | **-arint**  |
 | | | | | |
 | ***-er*** | | | | |
-| *-i*      | **-ėŭ-i** (*)  | | *-er*     | **-erim**   |
-| *-este*   | **-esti**      | | *-eres*   | **-eris**   |
-| *-eu*     | **-eu-ĭt** (*) | | *-er*     | **-erit**   |
-| *-emus*   | **-emus**      | | *-ermos*  | **-erĭmus** |
-| *-estes*  | **-estis**     | | *-erdes*  | **-erĭdis** |
-| *-eram*   | **-erȗnt**     | | *-erem*   | **-erint**  |
+| *-i* (*)  | **-ėŭ-i**  | | *-er*     | **-erim**   |
+| *-este*   | **-esti**  | | *-eres*   | **-eris**   |
+| *-eu* (*) | **-eu-ĭt** | | *-er*     | **-erit**   |
+| *-emus*   | **-emus**  | | *-ermos*  | **-erĭmus** |
+| *-estes*  | **-estis** | | *-erdes*  | **-erĭdis** |
+| *-eram*   | **-erȗnt** | | *-erem*   | **-erint**  |
 | | | | | |
 | ***-ir*** | | | | |
-| *-i*      | **-iŭ-i**      | | *-ir*     | **-irim**   |
-| *-iste*   | **-isti**      | | *-ires*   | **-iris**   |
-| *-iu*     | **-iu-ĭt**     | | *-ir*     | **-irit**   |
-| *-imos*   | **-imus**      | | *-irmos*  | **-irĭmus** |
-| *-istes*  | **-istis**     | | *-irdes*  | **-irĭdis** |
-| *-iram*   | **-irȗnt**     | | *-irem*   | **-irint**  |
+| *-i*      | **-iŭ-i**  | | *-ir*     | **-irim**   |
+| *-iste*   | **-isti**  | | *-ires*   | **-iris**   |
+| *-iu*     | **-iu-ĭt** | | *-ir*     | **-irit**   |
+| *-imos*   | **-imus**  | | *-irmos*  | **-irĭmus** |
+| *-istes*  | **-istis** | | *-irdes*  | **-irĭdis** |
+| *-iram*   | **-irȗnt** | | *-irem*   | **-irint**  |
 
 __*__: Ĉe malregulaj e-verboj, la int-as-indikativaj formoj ne entenas **-eŭ-**. La finaĵoj por la mi- kaj li-formoj tiam estas **-i** kaj **-it**. (Estus etimologie pli ĝuste transskribi **-ï-** anstataŭ **-e-**.)
 
