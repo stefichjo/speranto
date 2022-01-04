@@ -1,64 +1,64 @@
-|        | 1.         | 2.           | 3.               |
-|-|-|-|-|
-| **1.** | `jihmah`   | `chojutuche` | `munumunu`       |
-| **2.** | `kasapire` | `sohtlih`    | `dulinili`       |
-| **3.** | `viviwidi` | `dadabobo`   | `ghah'ohchahbih` |
+|        | 1.                  | 2.                    | 3.                  |
+|:-:|:-:|:-:|:-:|
+| **1.** | `jI- / ma-`         | `cho- ju- / tu- che-` | `mu- nu- / mu- nu-` |
+| **2.** | `qa- Sa- / pI- re-` | `bI- / Su-`           | `Du- lI- / nI- lI-` |
+| **3.** | `vI- vI- / wI- DI-` | `Da- Da- / bo- bo-`   | `- / -`             |
 
-# 1. `jihmah`
+# 1. `jI- / ma-`
 
 |      | jIH     | |      | maH     |
 |-|-|-|-|-|
 | *mi* | **jI-** | | *ni* | **ma-** |
 
-# 1. → 2. `kasapire`
+# 1. → 2. `qa- Sa- / pI- re-`
 
 | *mi cin/vin* | *ni cin/vin* |
 |-|-|
 | **qa-**      | **pI-**      |
 | **Sa-**      | **re-**      |
 
-# 1. → 3. `viviwidi`
+# 1. → 3. `vI- vI- / wI- DI-`
 
 | *mi lin/ilin* | *ni lin/ilin* |
 |-|-|
 | **vI-**       | **wI-**       |
 | **vI-**       | **DI-**       |
 
-# 2. → 1. `chojutuche`
+# 2. → 1. `cho- ju- / tu- che-`
 
 | *ci min/nin* | *vi min/nin* |
 |-|-|
 | **cho-**     | **tu-**      |
 | **ju-**      | **che-**     |
 
-# 2. `sohtlih`
+# 2. `bI- / Su-`
 
 |      | SoH     | |      | tlhIH   |
 |-|-|-|-|-|
 | *ci* | **bI-** | | *vi* | **Su-** |
 
-# 2. → 3. `dadabobo`
+# 2. → 3. `Da- Da- / bo- bo-`
 
 | *ci lin/ilin* | *vi lin/ilin* |
 |-|-|
 | **Da-**       | **bo-**       |
 | **Da-**       | **bo-**       |
 
-# 3. → 1. `munumunu`
+# 3. → 1. `mu- nu-/ mu- nu-`
 
 | *li min/nin* | *ili min/nin* |
 |-|-|
 | **mu-**      | **mu-**       |
 | **nu-**      | **nu-**       |
 
-# 3. → 2. `dulinili`
+# 3. → 2. `Du- lI- / nI- lI-`
 
 | *li cin/vin* | *ili cin/vin* |
 |-|-|
 | **Du-**      | **nI-**       |
 | **lI-**      | **lI-**       |
 
-# 3. `ghah'ohchahbih`
+# 3. `- / -`
 
 |      | ghaH/'oH | |       | chaH/bIH |
 |-|-|-|-|-|
