@@ -43,25 +43,27 @@ ng
 gh h q qh
 '
 
-I ⇒ i
-D ⇒ d
-S ⇒ s
-H ⇒ h
-Q ⇒ gH ⇒ qh
-ngh ⇒ ngH ⇒ ngh
+I = i
+D = d
+S = s
+H = ĥ = h
+Q = q̂ ⇒ qH ⇒ qh
+gh = ĝ; nĝ ⇒ ngĥ = ngh
 
-'a ⇒ á
-a' ⇒ à
-'a' ⇒ â
+'a = á
+a' = à
+'a' = â
+w' = ẁ
+y' = ỳ
 
 tlhingan hol
-reh masuvrup éj not maheghvip.
+reh masuvrup éj not maheĝvip.
 janvam vilòlahbè.
-óh lòchugh vaỳ, chaq jor.
+óh lòchuĝ vaỳ, chaq jor.
 
-nenghep (nenghep ⇒ nengHep)
-qaqhah  (qaQaH ⇒ qaqHaH)
-qhònos (Qo'noS ⇒ qHo'noS)
+nenĝep (nenghep ⇒ nengHep)
+qaq̂ah  (qaQaH ⇒ qaqHaH)
+q̂ònos (Qo'noS ⇒ qHo'noS)
 
 ## Verboj
 
@@ -177,6 +179,7 @@ qhònos (Qo'noS ⇒ qHo'noS)
 | *afraid* (*whipped*) | `vIp` |
 | *to live* (*yin*) | `yIn` |
 | *fish* (*ghoti*) | `ghotI` |
+| *animal* | `Ha'DIbaH` |
 | | |
 | *to save* (*from death*) | `toD` |
 | *to stop* (*moving*) | `mev` |
