@@ -55,11 +55,13 @@ a' ⇒ à
 'a' ⇒ â
 
 tlhingan hol
-reh masuvrup 'ej not maheghvip.
+reh masuvrup éj not maheghvip.
+janvam vilòlahbè.
+óh lòchugh vaỳ, chaq jor.
 
 nenghep (nenghep ⇒ nengHep)
 qaqhah  (qaQaH ⇒ qaqHaH)
-qho'nos (Qo'noS ⇒ qHo'noS)
+qhònos (Qo'noS ⇒ qHo'noS)
 
 ## Verboj
 
