@@ -43,12 +43,23 @@ ng
 gh h q qh
 '
 
+I ⇒ i
+D ⇒ d
+S ⇒ s
+H ⇒ h
+Q ⇒ gH ⇒ qh
+ngh ⇒ ngH ⇒ ngh
+
+'a ⇒ á
+a' ⇒ à
+'a' ⇒ â
+
 tlhingan hol
 reh masuvrup 'ej not maheghvip.
 
-qheylis (QeyliS ⇒ qHeyliS)
-qho'nos (Qo'noS ⇒ qHo'noS)
 nenghep (nenghep ⇒ nengHep)
+qaqhah  (qaQaH ⇒ qaqHaH)
+qho'nos (Qo'noS ⇒ qHo'noS)
 
 ## Verboj
 
@@ -213,7 +224,3 @@ pe- vi
 
 -->
 
-<!--
-j = ĝ/DS/dS ?
-ch = ĉ/TS/tS ?
--->
