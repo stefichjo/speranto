@@ -50,6 +50,10 @@ H = ĥ = h
 Q = q̂ ⇒ qH ⇒ qh
 gh = ĝ; nĝ ⇒ ngĥ = ngh
 
+nenĝep = nenghep (nenghep ⇒ nengHep)
+qaq̂ah  = qaqhah  (qaQaH ⇒ qaqHaH)
+q̂ònos  = qhònos  (Qo'noS ⇒ qHo'noS)
+
 'a = á
 a' = à
 'a' = â
@@ -61,9 +65,6 @@ reh masuvrup éj not maheĝvip.
 janvam vilòlahbè.
 óh lòchuĝ vaỳ, chaq jor.
 
-nenĝep (nenghep ⇒ nengHep)
-qaq̂ah  (qaQaH ⇒ qaqHaH)
-q̂ònos (Qo'noS ⇒ qHo'noS)
 
 ## Verboj
 
