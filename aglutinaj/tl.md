@@ -176,6 +176,7 @@ qhònos (Qo'noS ⇒ qHo'noS)
 | *never* (*not*) | `not` |
 | *afraid* (*whipped*) | `vIp` |
 | *to live* (*yin*) | `yIn` |
+| *fish* (*ghoti*) | `ghotI` |
 | | |
 | *to save* (*from death*) | `toD` |
 | *to stop* (*moving*) | `mev` |
@@ -221,8 +222,11 @@ pe- vi
 <!--
 
 -wIj mia
+-lIj cia
 -Daj lia
--ra' via
+-maj nia
+-raj via
+-chaj ilia
 
 -->
 
