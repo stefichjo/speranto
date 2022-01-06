@@ -147,27 +147,30 @@ sub ghah martaq-qhangê.
 | | | |
 | *Acidentally, ...*      | `bong ...`  | `bong, ...` |
 
-### Lowercase
+### Cursive
+
+#### Lowercase
 
 | | | |
 |-|-|-|
-| *man*    | `loD`  | **lod**  |
+| *man*    | `loD`  | ***lod***  |
 | | | |
-| *fight*  | `Suv`  | **suv**  |
+| *fight*  | `Suv`  | ***suv***  |
 | | | |
-| *Kirk*   | `qIrq` | **qirq** |
+| *Kirk*   | `qIrq` | ***qirq*** |
 | | | |
-| *kill*   | `HoH`  | **hoh**  |
+| *kill*   | `HoH`  | ***hoh***  |
 | | | |
-| *power*  | `woQ`  | **woq̂**  |
+| *power*  | `woQ`  | ***woqh*** |
 
-In order not to read `nenghep` (*Age of Ascension*) as *`nengHep`, `gh` is written as **ĝ**.
+In order not to read `nenghep` (*Age of Ascension*) as *`nengHep`, it can be written ***nenĝep*** instead of ***nenghep***. In order not to read `qaQaH` (*I help you*) as *`qaqHaH`, it can be written ***qaq̂ah*** instead of ***qaqhah***.
 
 | | | |
 |-|-|-|
-| *Age of Ascension* | `nenghep`  | **nenĝep** |
+| *Age of Ascension* | `nenghep` | ***nenĝep***  |
+| *I help you.*       | `qaQaH.` | ***qaq̂ah.*** |
 
-### Diacritics
+#### Diacritics
 
 | | | |
 |-|-|-|
@@ -181,11 +184,3 @@ In order not to read `nenghep` (*Age of Ascension*) as *`nengHep`, `gh` is writt
 | | | |
 | *somebody,*<br>*something* | `vay'`   | **vaỳ**   |
 
-## Cursive
-
-`Q` is written ***qh***, and `gh` is written ***gh***.
-
-| | | |
-|-|-|-|
-| *no*      | `ghobe'` | ***ghobè***  |
-| *Kronos*  | `Qo'noS` | ***qhònos*** |
