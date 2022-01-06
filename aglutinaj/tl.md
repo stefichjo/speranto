@@ -124,6 +124,11 @@ sub ghah martaq-qhangê.
 
 ## Orthography
 
+| | `qajunpaQHeylIjmo' batlh DuSuvqang charghwI' 'It.` |
+|-|-|
+| [Markup](#markup): | `qajunpaQ.Hey.lIj.mo', batlh, Du:Suv.qang chargh.wI'='It.` |
+| [Cursive](#cursive): | ***qajunpaqhheylijmò, batlh, dusuvqang charghwì ít.*** |
+
 ### Markup
 
 | | | |
@@ -178,20 +183,9 @@ In order not to read `nenghep` (*Age of Ascension*) as *`nengHep`, `gh` is writt
 
 ## Cursive
 
+`Q` is written ***qh***, and `gh` is written ***gh***.
+
 | | | |
 |-|-|-|
 | *no*      | `ghobe'` | ***ghobè***  |
 | *Kronos*  | `Qo'noS` | ***qhònos*** |
-
-# Examples
-
-| | `qajunpaQHeylIjmo' batlh DuSuvqang charghwI' 'It.` |
-|-|-|
-| Markup: | `qajunpaQ.Hey.lIj.mo', batlh, Du:Suv.qang chargh.wI'='It.` |
-| Cursive: | ***qajunpaqhheylijmò, batlh, dusuvqang charghwì ít.*** |
-
-## Alfabeto
-
-nenĝep = nenghep (nenghep ⇒ nengHep)
-qaq̂ah  = qaqhah  (qaQaH ⇒ qaqHaH)
-q̂ònos  = qhònos  (Qo'noS ⇒ qHo'noS)
