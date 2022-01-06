@@ -167,8 +167,8 @@ In order not to read `nenghep` (*Age of Ascension*) as *`nengHep`, it can be wri
 
 | | | |
 |-|-|-|
-| *Age of Ascension* | `nenghep` | ***nenĝep***  |
-| *I help you.*       | `qaQaH.` | ***qaq̂ah.*** |
+| *Age of Ascension* | `nenghep` | ***nenghep*** = ***nenĝep***  |
+| *I help you.*      | `qaQaH.`  | ***qaqhah.*** = ***qaq̂ah.*** |
 
 #### Diacritics
 
