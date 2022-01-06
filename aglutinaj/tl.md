@@ -1,76 +1,6 @@
 # tlhIngan Hol
 
-## Alfabeto
-
----- <!-- Ocrand -->
-a e I o u w y
-b m p v
-ch j l n r t tlh
-D S
-ng
-gh H q Q
-'
----- <!-- "Esperanto" -->
-a e ı o u ŭ ĭ
-b m p v
-ĉ ĵ l n r̂ t tł
-đ ŝ
-ng
-ĝ ĥ q q̂
-'
----- <!-- English w + y + ch + j -->
-a e ı o u w y
-b m p v
-ch j l n r t tł
-đ ŝ
-ng
-ĝ ĥ q q̂
-'
----- <!-- uppercase -->
-a e I o u w y
-b m p v
-ch j l n r t TL
-D S
-ng
-G H q Q
-'
----- <!-- lowercase (+ h) -->
-a e i o u w y
-b m p v
-ch j l n r t tlh
-d s
-ng
-gh h q qh
-'
-
-I = i
-D = d
-S = s
-H = ĥ = h
-Q = q̂ ⇒ qH ⇒ qh
-gh = ĝ; nĝ ⇒ ngĥ = ngh
-
-nenĝep = nenghep (nenghep ⇒ nengHep)
-qaq̂ah  = qaqhah  (qaQaH ⇒ qaqHaH)
-q̂ònos  = qhònos  (Qo'noS ⇒ qHo'noS)
-
-'a = á
-a' = à
-'a' = â
-w' = ẁ
-y' = ỳ
-
-tlhingan hol
-reh masuvrup éj not maheĝvip.
-janvam vilòlahbè.
-óh lòchuĝ vaỳ, chaq jor.
-
-
-## Verboj
-
-| | 1.          | 2.            | 3.                    |
-|:-:|:-:|:-:|:-:|
-| | `jIH / maH` | `SoH / tlhIH` | `ghaH/'oH / chaH/bIH` |
+## Verb Prefixes
 
 |        | 1.                  | 2.                    | 3.                    |
 |:-:|:-:|:-:|:-:|
@@ -143,74 +73,11 @@ janvam vilòlahbè.
 | `-`           | `lu-`          |
 | `-`           | `-`            |
 
-# Lokoj
-
-* `bIng`
-* `Dung`
-
-* `joj`
-* `retlh`
-
-* `tlhop`
-* `'em`
-
-* `Hur`
-
-# ...
-
-| | |
-|-|-|
-| *Viro legas.* | `laD loD.` |
-| *Ili dizertas.* | `cheH chaH.` |
-| *La roboto spionas.* | `ghoq qoq.` | <!-- fidi voq -->
-| *infan-libro* | `puq paq` |
-| *Li registras historion.* | `qun qon.` |
-| *Li manĝas manĝaĵon.* | `Soj Sop` |
-| *lia ŝipo* | `DujDaj` |
-
-| | |
-|-|-|
-| *to lose* | `luj` |
-| *to disturb* (*to suck*) | `Suj` |
-| *book* | `paq` |
-| *to rest* | `leS` |
-| *to cut* (*to hack*) | `Haq` |
-| *need* | `nIS` |
-| *never* (*not*) | `not` |
-| *afraid* (*whipped*) | `vIp` |
-| *to live* (*yin*) | `yIn` |
-| *fish* (*ghoti*) | `ghotI` |
-| *animal* | `Ha'DIbaH` |
-| | |
-| *to save* (*from death*) | `toD` |
-| *to stop* (*moving*) | `mev` |
-| *to eat* (*soup*) | `Sop` |
-
-| | (-wI) |
-|-|-|
-| *doktoro* | `Qel` | <!-- ankaŭ (ne) "to kill" -->
-| *paciento* | `SID` |
-| *timulo* | `nuch` |
-| *tranĉilo* | `taj` |
-| *trikordo* | `Hoqra'` |
-| *soldato* | `mang` |
-
-| | |
-|-|-|
-| *torpedo* (*bang*) | `peng` |
-| *admiri* (*oh*) | `Ho'` |
-| *respekti* (*wow*) | `vuv` |
-
-| | |
-|-|-|
-| *tomorrow* (*after resting*) | `wa'leS` |
-| *skalpelo* (*tranĉ-tranĉilo*) | `Haqtaj` |
-| *kosma stacio* (*??? ili*) | `tengchaH` |
-| *vivsigno* (*vivo ???*) | `yinroH` |
-
 <!-- vem wake up; mev stop-->
 <!-- HoH to kill; Hegh to die -->
 <!-- tlhutlh to drink; tlhuH to breathe -->
+<!-- tlhIb tlhIH. -->
+<!-- Sop chop -->
 
 <!--
 yI- ci/vi lin
@@ -234,3 +101,97 @@ pe- vi
 
 -->
 
+<!--
+yas pò ĝah soĝê.
+yas pò ghah soghê.
+yaS po' ghaH Sogh'e'.
+-->
+
+<!--
+not qamagh.
+ràwìdaj maĝ yas qur.
+yas pò ĝah soĝê.
+ràwìwì ĝah tlhàa hodê.
+
+sub ghah martaq-qhangê.
+-->
+
+<!-- biyohbè. vaj nuch soh. -->
+
+<!-- batlh, tlhingan-hol :jatlh. -->
+
+<!-- Qam qam -->
+
+## Orthography
+
+### Markup
+
+| | | |
+|-|-|-|
+| *secret of the weapon*  | `nuH pegh`  | `nuH-pegh`  |
+| *enemy's planet*        | `jagh yuQ`  | `jagh-yuQ`  |
+| | | |
+| *tired child*           | `puq Doy'`  | `puq=Doy'`  |
+| *big ship*              | `Duj tIn`   | `Duj=tIn`   |
+| | | |
+| *I sleep*               | `jIQong`    | `jI:Qong`   |
+| *he sleeps*             | `Qong`      | `:Qong`     |
+| | | |
+| *in the room*           | `pa'Daq`    | `pa'.Daq`   |
+| *due to the wind*       | `SuSmo'`    | `SuS.mo'`   |
+| | | |
+| *Acidentally, ...*      | `bong ...`  | `bong, ...` |
+
+### Lowercase
+
+| | | |
+|-|-|-|
+| *man*    | `loD`  | **lod**  |
+| | | |
+| *fight*  | `Suv`  | **suv**  |
+| | | |
+| *Kirk*   | `qIrq` | **qirq** |
+| | | |
+| *kill*   | `HoH`  | **hoh**  |
+| | | |
+| *power*  | `woQ`  | **woq̂**  |
+
+In order not to read `nenghep` (*Age of Ascension*) as *`nengHep`, `gh` is written as **ĝ**.
+
+| | | |
+|-|-|-|
+| *Age of Ascension* | `nenghep`  | **nenĝep** |
+
+### Diacritics
+
+| | | |
+|-|-|-|
+| *one*      | `wa'`    | **wà**    |
+| | | |
+| *but*      | `'ech`   | **éch**   |
+| | | |
+| *universe* | `'u'`    | **û**     |
+| | | |
+| *crazy*    | `maw'`   | **maẁ**   |
+| | | |
+| *somebody,*<br>*something* | `vay'`   | **vaỳ**   |
+
+## Cursive
+
+| | | |
+|-|-|-|
+| *no*      | `ghobe'` | ***ghobè***  |
+| *Kronos*  | `Qo'noS` | ***qhònos*** |
+
+# Examples
+
+| | `qajunpaQHeylIjmo' batlh DuSuvqang charghwI' 'It.` |
+|-|-|
+| Markup: | `qajunpaQ.Hey.lIj.mo', batlh, Du:Suv.qang chargh.wI'='It.` |
+| Cursive: | ***qajunpaqhheylijmò, batlh, dusuvqang charghwì ít.*** |
+
+## Alfabeto
+
+nenĝep = nenghep (nenghep ⇒ nengHep)
+qaq̂ah  = qaqhah  (qaQaH ⇒ qaqHaH)
+q̂ònos  = qhònos  (Qo'noS ⇒ qHo'noS)
