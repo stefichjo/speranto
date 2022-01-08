@@ -342,25 +342,47 @@ La ___Present Perfect Indicative___ perdas la finaĵon **-m**.
 | *mi venkintas* | **me vincĕvi** | ~~vincĕvim~~ → ~~vincim~~ → **vici**   |
 | *mi amintas*   | **me amavi**   | ~~amavim~~                → **amavi**  |
 
+##### ire & vadĕre
+
+| **i**      → **vadĕ**    |
+|-|
+| ~~io~~     → **vado**    |
+| ~~is~~     → **vadĕs**   |
+| ~~it~~     → **vadĕt**   |
+| ~~imus~~   → **vadĕmus** |
+| ~~itis~~   → **vadĕtis** |
+| ~~int~~    → **vadĕnt**  |
+
+| **ib**     → **ī**       |
+|-|
+| ~~ibam~~   → **īam**     |
+| ~~ibas~~   → **īas**     |
+| ~~ibat~~   → **īat**     |
+| ~~ibamus~~ → **īamus**   |
+| ~~ibatis~~ → **īatis**   |
+| ~~ibant~~  → **īant**    |
+
+En la ___Perfect___, uziĝas la radiko de **essĕre**.
+
 ##### habere & essĕre
 
 | **habe**    → **-h(a(be))-**   |
 |-|
-| **habem**   → **ho**   |
-| **habes**   → **has**   |
-| **habet**   → **hat**   |
-| **habemus** → **hemus** |
-| **habetis**             |
-| **habent**  → **hant**  |
+| ~~habeo~~   → **ho**   |
+| ~~habes~~   → **has**   |
+| ~~habet~~   → **hat**   |
+| ~~habemus~~ → **hemus** |
+| ~~habetis~~             |
+| ~~habent~~  → **hant**  |
 
 | **essĕ**    → **-s-**   |
 |-|
-| **essĕm**   → **sem**   |
-| **essĕs**   → **es**    |
-| **essĕt**   → **est**   |
-| **essĕmus** → **semus** |
-| **essĕtis** → **estis** |
-| **essĕnt**  → **sent**  |
+| ~~essĕm~~   → **sem**   |
+| ~~essĕs~~   → **es**    |
+| ~~essĕt~~   → **est**   |
+| ~~essĕmus~~ → **semus** |
+| ~~essĕtis~~ → **estis** |
+| ~~essĕnt~~  → **sent**  |
 
 |               | | ___Ind.___                | ___Subj.___                | | ___Ind.___               | ___Subj.___               |
 |-|-|-|-|-|-|-|
@@ -370,5 +392,5 @@ La ___Present Perfect Indicative___ perdas la finaĵon **-m**.
 | | | | | | | |
 | ___Past___    | | **essĕba**   → **era**    | **essĕre**   → **esse**    | | **essuera** → **fuera**  | **essuisse** → **fuisse** |
 | | | | | | | |
-| ___Future___  | | **essĕrabe** → **sero'**  | **essĕriba** → **seriba**  | | | |
+| ___Future___  | | **essĕrabe** → **serō**   | **essĕriba** → **serīa**   | | | |
 
