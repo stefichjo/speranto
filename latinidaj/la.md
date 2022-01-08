@@ -1,31 +1,47 @@
 # Lingua Latina
 
-**ĩ** = **īe**
-**ẽ** = **ie**
+| | | | | |
+|-|-|-|-|-|
+| **-**   | **-a**  | | **-vi**   | **-veri**  |
+| **-ba** | **-re** | | **-vera** | **-visse** |
+
+| | |
+|-|-|
+| **-m**   | **-i**    |
+| **-s**   | **-sti**  |
+| **-t**   | **-t**    |
+| **-mus** | **-mus**  |
+| **-tis** | **-stis** |
+| **-unt** | **-unt**  |
+
+* partīunt; capiunt
+* legiunt → legunt
+* (ā)t → (a)t; (ā)unt → (a)nt:         amāt → amat; amāunt → amant
+* amāviunt → amāvērunt
+* (iē)t → (ie)t; (iē)unt → (ie)nt:     capiēt → capiet; capiēunt → capient
 
 | | | | | |
 |-|-|-|-|-|
 | **partī**   | **partīa**  | | **partīvi**   | **partīveri**  |
 | **partĩba** | **partīre** | | **partīvera** | **partīvisse** |
-| **partīe**  |             | | **partīveri** |                |
+| **partĩ**   |             | | **partīveri** |                |
+| | | | | |
+| **capi**    | **capia**   | | **cēpi**      | **cēperi**     |
+| **capĩba**  | **capĭre**  | | **cēpera**    | **cēpisse**    |
+| **capĩ**    |             | | **cēperi**    |                |
 | | | | | |
 | **tenē**    | **tenēa**   | | **tenui**     | **tenueri**    |
 | **tenēba**  | **tenēre**  | | **tenuera**   | **tenuisse**   |
 | **tenēbi**  |             | | **tenueri**   |                |
 | | | | | |
-| **legė**    | **lega**    | | **lēgi**      | **lēgeri**     |
-| **legeba**  | **legere**  | | **lēgera**    | **lēgisse**    |
-| **lege**    |             | | **lēgeri**    |                |
-| | | | | |
-| **capė**    | **capėa**   | | **cēpi**      | **cēperi**     |
-| **capēba**  | **capere**  | | **cēpera**    | **cēpisse**    |
-| **capẽ**    |             | | **cēperi**    |                |
-| | | | | |
-| **vincė**   | **vinca**   | | **vīci**      | **vīceri**     |
+| **vince**   | **vinca**   | | **vīci**      | **vīceri**     |
 | **vincēba** | **vincere** | | **vīcera**    | **vīcisse**    |
-| **vince**   |             | | **vīceri**    |                |
+| **vincē**   |             | | **vīceri**    |                |
 | | | | | |
-| **ama**     | **ame**     | | **amāvi**     | **amāveri**    |
+| **amā**     | **ame**     | | **amāvi**     | **amāveri**    |
 | **amāba**   | **amāre**   | | **amāvera**   | **amāvisse**   |
 | **amābi**   |             | | **amāveri**   |                |
 
+ï    = ē
+ĭ    = e
+ĕ    = i
