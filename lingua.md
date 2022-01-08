@@ -263,16 +263,95 @@ Por la imperativo, uziĝas la infinitiva formo sen **-re**, kun la ŝajnfinaĵo 
 | | | | | | | |
 | ___Future___  | | **-rabe**    | **-riba**   | | | |
 
-* "Simple Future Subjunctive" = "Conditional"
-* **(a)-a** → **-e**: **ut ille cante** = **ut cantet**
-* **(i/e/a)-u-** → **(i/e/a)-v-**: **ille amaui** → **ille amavi**
-  * **-evi+...** → **ui+...**: **ille habevi** = **habevit** → **habuit**
-* **(ĕ)-u** → **-(ĕ)-v**: **ille scribĕui** → **ille scribĕvi**
-  * **-ĕvi+...** → **-i+...**: **ille legĕvi** = **legĕvit** → **legit**
-    * **ille scribĕvi** = **scribit** → **scripsit**
-    * **ille dicĕvi*** = **dicit** → **dixit**
+Inter vokaloj, **u** skribiĝas **v**.
 
-##### essĕre
+| | |
+|-|-|
+| *amintas* | **amaui** ⇒ **amavi** |
+
+La ___Simple Present Subjunctive___ de a-verboj finiĝas je **-e**.
+
+| | |
+|-|-|
+| *mi amu* | ~~me amaa~~ → **me ame** |
+
+Anstataŭ ___Simple Future Subjunctive___, oni diras ___Conditional___.
+
+| | ___Conditional___ |
+|-|-|
+| *mi amus* | **me amariba** |
+
+#### Poezio
+
+| | poezie |
+|-|-|
+| *mi*      | **-m**   |
+| *ci*      | **-s**   |
+| *ri*/*ĝi* | **-t**   |
+| *ni*      | **-mus** |
+| *ili*     | **-nt**  |
+
+| | | poezie |
+|-|-|-|
+| *ni venas*  | **nos veni**  | **venimus**  |
+| *ni vidas*  | **nos vide**  | **videmus**  |
+| *ni venkas* | **nos vincĕ** | **vincĕmus** |
+| *ni amas*   | **nos ama**   | **amamus**   |
+
+##### Simple Present Subjunctive
+
+La **ĕ** de ĕ-verboj eliziiĝas.
+
+| | | poezie |
+|-|-|-|
+| *ni venku* | **nos vincĕa** | ~~vincĕamus~~ → **vincamus**  |
+
+##### Perfect
+
+La **e** de e-verboj kaj la **ĕv** de ĕ-verboj eliziiĝas.
+
+| | | poezie |
+|-|-|-|
+| *ni havintas*  | **nos hebevi**  | ~~habevimus~~ → **habuimus** |
+| *ni legintas*  | **nos legĕvi**  | ~~legĕvimus~~ → **legimus**  |
+
+Multaj e- kaj ĕ-verboj havas malregulajn formojn.
+
+| | | poezie |
+|-|-|-|
+| *ni vidintas*  | **nos videvi**  | ~~videvimus~~  → ~~viduimus~~ → **vidimus** |
+| *ni venkintas* | **nos vincĕvi** | ~~vincĕvimus~~ → ~~vincimus~~ → **vicimus** |
+
+##### mi
+
+La ___Simple Present Indicative___ similas al la ___Simple Present Subjunctive___, sed anstataŭ **-am** respektive **-em** uziĝas **-o**.
+
+| | | poezie |
+|-|-|-|
+| *mi venas*  | **me veni**  | ~~venim~~  → **venio** |
+| *mi vidas*  | **me vide**  | ~~videm~~  → **video** |
+| *mi venkas* | **mi vincĕ** | ~~vincĕm~~ → **vinco** |
+| *mi amas*   | **me ama**   | ~~amam~~   → **amo**   |
+
+La ___Present Perfect Indicative___ perdas la finaĵon **-m**.
+
+| | | poezie |
+|-|-|-|
+| *mi venintas*  | **me venivi**  | ~~venivim~~               → **venivi** |
+| *mi vidintas*  | **me videvi**  | ~~videvim~~  → ~~viduim~~ → **vidi**   |
+| *mi venkintas* | **me vincĕvi** | ~~vincĕvim~~ → ~~vincim~~ → **vici**   |
+| *mi amintas*   | **me amavi**   | ~~amavim~~                → **amavi**  |
+
+##### habere & essĕre
+
+| **habe**    → **-h(a(be))-**   |
+|-|
+| **habem**   → **ho**   |
+| **habes**   → **has**   |
+| **habet**   → **hat**   |
+| **habemus** → **hemus** |
+| **habetis**             |
+| **habent**  → **hant**  |
 
 | **essĕ**    → **-s-**   |
 |-|
@@ -287,8 +366,9 @@ Por la imperativo, uziĝas la infinitiva formo sen **-re**, kun la ŝajnfinaĵo 
 |-|-|-|-|-|-|-|
 |               | | ___Simple___              |                            | | ___Perfect___            |                           |
 | | | | | | | |
-| ___Present___ | | **essĕ** → **-s-**        | **essĕa** → **sea**        | | **essui** → **fui**      | **essueri** → **fueri**   |
+| ___Present___ | | **essĕ**     → **-s-**    | **essĕa**    → **sea**     | | **essui**   → **fui**    | **essueri**  → **fueri**  |
 | | | | | | | |
-| ___Past___    | | **essĕba** → **era**      | **essĕre** → **esse**      | | **essuera** → **fuera**  | **essuisse** → **fuisse** |
+| ___Past___    | | **essĕba**   → **era**    | **essĕre**   → **esse**    | | **essuera** → **fuera**  | **essuisse** → **fuisse** |
 | | | | | | | |
-| ___Future___  | | **essĕrabe** → **serabe** | **essĕriba** → **seriba**  | | | |
+| ___Future___  | | **essĕrabe** → **sero'**  | **essĕriba** → **seriba**  | | | |
+
