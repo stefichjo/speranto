@@ -336,6 +336,7 @@ Multaj e- kaj ĕ-verboj havas malregulan pasivan participon.
 
 |-|-|-|
 | | | |
+| *mi estas vidintaj*   | **vidi**    | **me habe viso**    |
 | *mi estas skribintaj* | **scripsi** | **me habe scripto** |
 
 ##### mi
