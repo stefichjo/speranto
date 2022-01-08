@@ -312,15 +312,31 @@ La **e** de e-verboj kaj la **ĕv** de ĕ-verboj eliziiĝas.
 
 | | | poezie |
 |-|-|-|
-| *ni havintas*  | **nos hebevi**  | ~~habevimus~~ → **habuimus** |
-| *ni legintas*  | **nos legĕvi**  | ~~legĕvimus~~ → **legimus**  |
+| *mi tenintas*  | **me tenevi**  | ~~tenevi~~ → **tenui** |
+| *mi legintas*  | **me legĕvi**  | ~~legĕvi~~ → **legi**  |
 
 Multaj e- kaj ĕ-verboj havas malregulajn formojn.
 
 | | | poezie |
 |-|-|-|
-| *ni vidintas*  | **nos videvi**  | ~~videvimus~~  → ~~viduimus~~ → **vidimus** |
-| *ni venkintas* | **nos vincĕvi** | ~~vincĕvimus~~ → ~~vincimus~~ → **vicimus** |
+| *ni vidintas*   | **nos videvi**   | ~~videvimus~~   → ~~viduimus~~  → **vidimus**    |
+| *ni venkintas*  | **nos vincĕvi**  | ~~vincĕvimus~~  → ~~vincimus~~  → **vicimus**    |
+| *ni skribintas* | **nos scribĕvi** | ~~scribĕvimus~~ → ~~scribimus~~ → **scripsimus** |
+
+Alternative, oni povas esprimi ___Perfect___ pere de la verbo **habere** kaj la pasiva participo.
+
+|-|-|-|
+| | | |
+| *mi estas sentintaj* | **sentivi** | **me habe sentito** |
+| *mi estas tenintaj*  | **tenui**   | **me habe tenuto**  |
+| *mi estas farintaj*  | **feci**    | **me habe facto**   |
+| *mi estas kantintaj* | **cantavi** | **me habe cantato** |
+
+Multaj e- kaj ĕ-verboj havas malregulan pasivan participon.
+
+|-|-|-|
+| | | |
+| *mi estas skribintaj* | **scripsi** | **me habe scripto** |
 
 ##### mi
 
