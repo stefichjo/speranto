@@ -366,14 +366,14 @@ En la ___Perfect___, uziĝas la radiko de **essĕre**.
 
 ##### habere & essĕre
 
-| **habe**    → **-h(a(be))-**   |
+| **habe**    → **-h-**    |
 |-|
-| ~~habeo~~   → **ho**   |
-| ~~habes~~   → **has**   |
-| ~~habet~~   → **hat**   |
-| ~~habemus~~ → **hemus** |
-| ~~habetis~~             |
-| ~~habent~~  → **hant**  |
+| ~~habeo~~   → **ho**     |
+| ~~habes~~   → **has**    |
+| ~~habet~~   → **hat**    |
+| ~~habemus~~ → **hemus**  |
+| ~~habetis~~ → **habeis** |
+| ~~habent~~  → **hant**   |
 
 | **essĕ**    → **-s-**   |
 |-|
