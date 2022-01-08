@@ -165,13 +165,13 @@ En la prezenco, la infinitiva finiĝo -**re** forestas.
 
 | | | poezie |
 |-|-|-|
-| *mi estas* | **me esse** | **essem** → **sum** |
+| *mi estas* | **me esse** | **essem** → **sem** |
 | *vi estas* | **tu esse** | **esses** → **es** |
 | *ĝi estas* | **ulle esse** | **esset** → **est** |
 | | | |
-| *ni estas* | **nos esse** | **essemus** → **sumus** |
+| *ni estas* | **nos esse** | **essemus** → **semus** |
 | *vi estas* | **vos esse** | **essetis** → **estis** |
-| *ili estas* | **ille esse** | **essent** → **sunt** |
+| *ili estas* | **ille esse** | **essent** → **sent** |
 
 ##### Volitivo
 
@@ -250,3 +250,45 @@ Por la imperativo, uziĝas la infinitiva formo sen **-re**, kun la ŝajnfinaĵo 
 | | | |
 | *ke* | **ce** *[ke]* | - |
 | *mi scias, ke mia amiko laboras* | **me sape, ce mea amico labora** | **sapem mea amico laborare** |
+
+### Konjugacio
+
+|               | | ___Ind.___   | ___Subj.___ | | ___Ind.___ | ___Subj.___ |
+|-|-|-|-|-|-|-|
+| | | ___Simple___ | | | ___Perfect___ | |
+| | | | | | | |
+| ___Present___ | | **-**        | **-a**      | | **-ui**    | **-ueri**   |
+| | | | | | | |
+| ___Past___    | | **-ba**      | **-re**     | | **-uera**  | **-uisse**  |
+| | | | | | | |
+| ___Future___  | | **-rabe**    | **-riba**   | | | |
+
+* "Simple Future Subjunctive" = "Conditional"
+* **(a)-a** → **-e**: **ut ille cante** = **ut cantet**
+* **(i/e/a)-u-** → **(i/e/a)-v-**: **ille amaui** → **ille amavi**
+  * **-evi+...** → **ui+...**: **ille habevi** = **habevit** → **habuit**
+* **(ĕ)-u** → **-(ĕ)-v**: **ille scribĕui** → **ille scribĕvi**
+  * **-ĕvi+...** → **-i+...**: **ille legĕvi** = **legĕvit** → **legit**
+    * **ille scribĕvi** = **scribit** → **scripsit**
+    * **ille dicĕvi*** = **dicit** → **dixit**
+
+##### essĕre
+
+| **essĕ**    → **-s-**   |
+|-|
+| **essĕm**   → **sem**   |
+| **essĕs**   → **es**    |
+| **essĕt**   → **est**   |
+| **essĕmus** → **semus** |
+| **essĕtis** → **estis** |
+| **essĕnt**  → **sent**  |
+
+|               | | ___Ind.___                | ___Subj.___                | | ___Ind.___               | ___Subj.___               |
+|-|-|-|-|-|-|-|
+|               | | ___Simple___              |                            | | ___Perfect___            |                           |
+| | | | | | | |
+| ___Present___ | | **essĕ** → **-s-**        | **essĕa** → **sea**        | | **essui** → **fui**      | **essueri** → **fueri**   |
+| | | | | | | |
+| ___Past___    | | **essĕba** → **era**      | **essĕre** → **esse**      | | **essuera** → **fuera**  | **essuisse** → **fuisse** |
+| | | | | | | |
+| ___Future___  | | **essĕrabe** → **serabe** | **essĕriba** → **seriba**  | | | |

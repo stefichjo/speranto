@@ -593,8 +593,6 @@
 
 | | | |
 |-|-|-|
-| *Futuro do Presente*                              | ___Futuro___                             | |
-| *Futuro do Pretérito/Condicional (do Indicativo)* | ___Futuro (do Subjuntivo)___             | |
 | *Presente*                                        | ___Presente___                           | |
 | *Presente (do Subjuntivo)/Imperativo*             | ___Presente (do Subjuntivo)___           | |
 | *Pretérito Imperfeito*                            | ___Pretérito___                          | |
@@ -603,40 +601,19 @@
 | *Futuro (do Subjuntivo)*                          | ___Presente Perfeito (do Subjuntivo)___  | ___Perfeito (do Subjuntivo)___          |
 | *Pretérito Mais-que-Perfeito*                     | ___Pretérito Perfeito___                 | ___Mais-que-Perfeito___                 |
 | *Pretérito Imperfeito (do Subjuntivo)*            | ___Pretérito Perfeito (do Subjuntivo)___ | ___Mais-que-Perfeito (do Subjuntivo)___ |
+| *Futuro do Presente*                              | ___Futuro___                             | |
+| *Futuro do Pretérito/Condicional (do Indicativo)* | ___Futuro (do Subjuntivo)___             | |
 
 | ___Ind.___ | | ___Sub.___ | | ___Ind.___ | | ___Sub.___ |
 |-|-|-|-|-|-|-|
 | ___Imperfeito___ | | | | ___Perfeito___ | | |
 | | | | | | | |
-| ___Futuro___ | | | | | | |
-| `=`   | | `=` |
 | ___Presente___ | | | | | | |
 | `+/-` | | `+` | | `~` | | `~` |
 | ___Pretérito___ | | | | | | |
 | `-`   | | `-` | | `~` | | `~` |
-
-## Futuro
-
-**Indikativo:**
-La os-indikativaj finaĵoj estas la samaj kiel la as-indikativaj finaĵoj de **havere**.
-
-**Konjunktivo:**
-La os-konjunktivaj finaĵoj estas la samaj kiel la is-indikativaj finaĵoj de i-verboj.
-
-| ___Ind.___ | | | ___Sub.___ | |
-|-|-|-|-|-|
-| *-ei*     | **-ẽ**      | | *-ia*      | **-iŭam**    |
-| *-ás*     | **-as**     | | *-ias*     | **-iŭas**    |
-| *-á*      | **-at**     | | *-ia*      | **-iŭat**    |
-| *-emos*   | **-emus**   | | *-íamos*   | **-iŭamus**  |
-| *-eis*    | **-eđis**   | | *-íeis*    | **-iŭäđis**  |
-| *-ão*     | **-ano**    | | *-iam*     | **-iŭant**   |
-
-<!-- iam = iŭam ? -->
-
-Ne estas esceptoj.
-
-<!-- parenceco kun infinitivo `=` -->
+| ___Futuro___ | | | | | | |
+| `=`   | | `=` |
 
 ## Presente
 
@@ -812,21 +789,44 @@ La int-is-indikativaj finaĵoj similas al la int-as-konjunktivaj finaĵoj (do la
 | *-íreis*  | **-iräđis**     | | *-ísseis*  | **-isseđis** |
 | *-iram*   | **-irant**      | | *-issem*   | **-issent**  |
 
+## Futuro
+
+**Indikativo:**
+La os-indikativaj finaĵoj estas la samaj kiel la as-indikativaj finaĵoj de **havere**.
+
+**Konjunktivo:**
+La os-konjunktivaj finaĵoj estas la samaj kiel la is-indikativaj finaĵoj de i-verboj.
+
+| ___Ind.___ | | | ___Sub.___ | |
+|-|-|-|-|-|
+| *-ei*     | **-ẽ**      | | *-ia*      | **-iŭam**    |
+| *-ás*     | **-as**     | | *-ias*     | **-iŭas**    |
+| *-á*      | **-at**     | | *-ia*      | **-iŭat**    |
+| *-emos*   | **-emus**   | | *-íamos*   | **-iŭamus**  |
+| *-eis*    | **-eđis**   | | *-íeis*    | **-iŭäđis**  |
+| *-ão*     | **-ano**    | | *-iam*     | **-iŭant**   |
+
+<!-- iam = iŭam ? -->
+
+Ne estas esceptoj.
+
+<!-- parenceco kun infinitivo `=` -->
+
 # Verbos
 
 | `-` | **fac̆ere** |
 |-|-|
-| `=` | **fac̆ĕrẽ** |
 | `+` | **facıo**  |
 | `~` | **fic̆i**   |
 | `*` | **fäcto**  |
+| `=` | **fac̆ĕrẽ** |
 
 | `-` | **havere** |
 |-|-|
-| `=` | **haverẽ** |
 | `+` | **hẽ**     |
 | `~` | **houvi**  |
 | `*` | **havido** |
+| `=` | **haverẽ** |
 | | |
 | `+` | **has**    |
 | `+` | **hat**    |
@@ -835,10 +835,10 @@ La int-is-indikativaj finaĵoj similas al la int-as-konjunktivaj finaĵoj (do la
 
 | `-` | **ĕssere** |
 |-|-|
-| `=` | **ĕsserẽ** |
 | `+` | **sõm**    |
 | `~` | **fui**    |
 | `*` | **sido**   |
+| `=` | **ĕsserẽ** |
 | | |
 | `+` | **es**     |
 | `+` | **e'**     |
@@ -859,13 +859,6 @@ La int-is-indikativaj finaĵoj similas al la int-as-konjunktivaj finaĵoj (do la
 
 | | | | | | | | | | | | |
 |-|-|-|-|-|-|-|-|-|-|-|-|
-| *serei*   | **serẽ**    | | *seria*    | **seriam**   |
-| *serás*   | **seras**   | | *serias*   | **serias**   |
-| *será*    | **serat**   | | *seria*    | **seriat**   |
-| *seremos* | **seremus** | | *seríamos* | **seriamus** |
-| *sereis*  | **seređis** | | *seríeis*  | **seriäđis** |
-| *serão*   | **serano**  | | *seriam*   | **seriant**  |
-| | | | | | | | | | | | |
 | *sou*     | **sõm**     | | *seja*     | **seĭam**    | | | *fui*     | **fuï**     | | *for*      | **forïm**    |
 | *és*      | **es**      | | *sejas*    | **seĭas**    | | | *foste*   | **fosti**   | | *fores*    | **forïs**    |
 | *é*       | **e'**      | | *seja*     | **seĭat**    | | | *foi*     | **fůït**    | | *for*      | **forït**    |
@@ -879,6 +872,13 @@ La int-is-indikativaj finaĵoj similas al la int-as-konjunktivaj finaĵoj (do la
 | *éramos*  | **eramus**  | |            |              | | | *fôramos* | **foramus** | | *fôssemos* | **fossemus** |
 | *éreis*   | **eräđis**  | |            |              | | | *fôreis*  | **foräđis** | | *fôsseis*  | **fosseđis** |
 | *eram*    | **erant**   | |            |              | | | *foram*   | **forant**  | | *fossem*   | **fossent**  |
+| | | | | | | | | | | | |
+| *serei*   | **serẽ**    | | *seria*    | **seriam**   |
+| *serás*   | **seras**   | | *serias*   | **serias**   |
+| *será*    | **serat**   | | *seria*    | **seriat**   |
+| *seremos* | **seremus** | | *seríamos* | **seriamus** |
+| *sereis*  | **seređis** | | *seríeis*  | **seriäđis** |
+| *serão*   | **serano**  | | *seriam*   | **seriant**  |
 
 # ten̆ĕre - tenĭo - tivï - tido
 
@@ -886,13 +886,6 @@ La int-is-indikativaj finaĵoj similas al la int-as-konjunktivaj finaĵoj (do la
 
 | | | | | | | | | | | | |
 |-|-|-|-|-|-|-|-|-|-|-|-|
-| *terei*    | **ten̆ĕrẽ**    | | *teria*    | **ten̆ĕriam**   |
-| *terás*    | **ten̆ĕras**   | | *terias*   | **ten̆ĕrias**   |
-| *terá*     | **ten̆ĕrat**   | | *teria*    | **ten̆ĕriat**   |
-| *teremos*  | **ten̆ĕremus** | | *teríamos* | **ten̆ĕriamus** |
-| *tereis*   | **ten̆ĕređis** | | *teríeis*  | **ten̆ĕriäđis** |
-| *terão*    | **ten̆ĕrano**  | | *teriam*   | **ten̆ĕriant**  |
-| | | | | | | | | | | | |
 | *tenho*    | **tenĭo**     | | *tenha*    | **tenĭam**     | | | *tive*      | **tivï**      | | *tiver*      | **tiverïm**    |
 | *tens*     | **tenes**     | | *tenhas*   | **tenĭas**     | | | *tiveste*   | **tivïsti**   | | *tiveres*    | **tiverïs**    |
 | *tem*      | **tenet**     | | *tenha*    | **tenĭat**     | | | *teve*      | **tïvït**     | | *tiver*      | **tiverït**    |
@@ -906,6 +899,13 @@ La int-is-indikativaj finaĵoj similas al la int-as-konjunktivaj finaĵoj (do la
 | *tínhamos* | **tėnĭamus**  | |            |                | | | *tivéramos* | **tiveramus** | | *tivéssemos* | **tivïssemus** |
 | *tínheis*  | **tėnĭäđis**  | |            |                | | | *tivéreis*  | **tiveräđis** | | *tivésseis*  | **tivïsseđis** |
 | *tinham*   | **tėnĭant**   | |            |                | | | *tiveram*   | **tiverant**  | | *tivessem*   | **tivïssent**  |
+| | | | | | | | | | | | |
+| *terei*    | **ten̆ĕrẽ**    | | *teria*    | **ten̆ĕriam**   |
+| *terás*    | **ten̆ĕras**   | | *terias*   | **ten̆ĕrias**   |
+| *terá*     | **ten̆ĕrat**   | | *teria*    | **ten̆ĕriat**   |
+| *teremos*  | **ten̆ĕremus** | | *teríamos* | **ten̆ĕriamus** |
+| *tereis*   | **ten̆ĕređis** | | *teríeis*  | **ten̆ĕriäđis** |
+| *terão*    | **ten̆ĕrano**  | | *teriam*   | **ten̆ĕriant**  |
 
 # s̈tare - s̈tõ - s̈tivï - s̈tado
 
@@ -914,13 +914,6 @@ La int-is-indikativaj finaĵoj similas al la int-as-konjunktivaj finaĵoj (do la
 
 | | | | | | | | | | | | |
 |-|-|-|-|-|-|-|-|-|-|-|-|
-| *estarei*   | **s̈tarẽ**    | | *estaria*    | **s̈tariam**   |
-| *estarás*   | **s̈taras**   | | *estarias*   | **s̈tarias**   |
-| *estará*    | **s̈tarat**   | | *estaria*    | **s̈tariat**   |
-| *estaremos* | **s̈taremus** | | *estaríamos* | **s̈tariamus** |
-| *estareis*  | **s̈taređis** | | *estaríeis*  | **s̈tariäđis** |
-| *estarão*   | **s̈tarano**  | | *estariam*   | **s̈tariant**  |
-| | | | | | | | | | | | |
 | *estou*     | **s̈tõ**      | | *esteja*     | **s̈teĭam**    | | | *estive*      | **s̈tivï**      | | *estiver*      | **s̈tiverïm**    |
 | *estás*     | **s̈tas**     | | *estejas*    | **s̈teĭas**    | | | *estiveste*   | **s̈tivïsti**   | | *estiveres*    | **s̈tiverïs**    |
 | *está*      | **s̈tat**     | | *esteja*     | **s̈teĭat**    | | | *esteve*      | **s̈tïvït**     | | *estiver*      | **s̈tiverït**    |
@@ -934,6 +927,13 @@ La int-is-indikativaj finaĵoj similas al la int-as-konjunktivaj finaĵoj (do la
 | *estávamos* | **s̈tavamus** | |              |               | | | *estivéramos* | **s̈tiveramus** | | *estivéssemos* | **s̈tivïssemus** |
 | *estáveis*  | **s̈taväđis** | |              |               | | | *estivéreis*  | **s̈tiveräđis** | | *estivésseis*  | **s̈tivïsseđis** |
 | *estavam*   | **s̈tavant**  | |              |               | | | *estiveram*   | **s̈tiverant**  | | *estivessem*   | **s̈tivïssent**  |
+| | | | | | | | | | | | |
+| *estarei*   | **s̈tarẽ**    | | *estaria*    | **s̈tariam**   |
+| *estarás*   | **s̈taras**   | | *estarias*   | **s̈tarias**   |
+| *estará*    | **s̈tarat**   | | *estaria*    | **s̈tariat**   |
+| *estaremos* | **s̈taremus** | | *estaríamos* | **s̈tariamus** |
+| *estareis*  | **s̈taređis** | | *estaríeis*  | **s̈tariäđis** |
+| *estarão*   | **s̈tarano**  | | *estariam*   | **s̈tariant**  |
 
 # dare - dõ - deŭi - dado
 
@@ -960,13 +960,6 @@ La int-is-indikativaj finaĵoj similas al la int-as-konjunktivaj finaĵoj (do la
 
 | | | | | | | | | | | | |
 |-|-|-|-|-|-|-|-|-|-|-|-|
-| *irei*   | **irẽ**     | | *iria*    | **iriam**   |
-| *irás*   | **iras**    | | *irias*   | **irias**   |
-| *irá*    | **irat**    | | *iria*    | **iriat**   |
-| *iremos* | **iremus**  | | *iríamos* | **iriamus** |
-| *ireis*  | **iređis**  | | *iríeis*  | **iriäđis** |
-| *irão*   | **irano**   | | *iriam*   | **iriant**  |
-| | | | | | | | | | | | |
 | *vou*    | **våđo**    | | *vá*      | **vađa**    | | | | | | | |
 | *vais*   | **vađes**   | | *vás*     | **vađas**   | | | | | | | |
 | *vai*    | **vađet**   | | *vá*      | **vađat**   | | | | | | | |
@@ -980,33 +973,40 @@ La int-is-indikativaj finaĵoj similas al la int-as-konjunktivaj finaĵoj (do la
 | *íamos* | **iamus**    | |           |             | | | | | | | |
 | *íeis*  | **iäđis**    | |           |             | | | | | | | |
 | *iam*   | **iant**     | |           |             | | | | | | | |
+| | | | | | | | | | | | |
+| *irei*   | **irẽ**     | | *iria*    | **iriam**   |
+| *irás*   | **iras**    | | *irias*   | **irias**   |
+| *irá*    | **irat**    | | *iria*    | **iriat**   |
+| *iremos* | **iremus**  | | *iríamos* | **iriamus** |
+| *ireis*  | **iređis**  | | *iríeis*  | **iriäđis** |
+| *irão*   | **irano**   | | *iriam*   | **iriant**  |
 
 | `-` | **sap̆ere** |
 |-|-|
-| `=` | **dic̆ĕrẽ** |
 | `+` | **säi**    |
 | `~` | **soup̆i**  |
 | `*` | **sap̆ido** |
+| `=` | **dic̆ĕrẽ** |
 
 | `-` | **dic̆ere** |
 |-|-|
-| `=` | **dic̆ĕrẽ** |
 | `+` | **dic̆o**   |
 | `~` | **dixi**   |
 | `*` | **dic̆to**  |
+| `=` | **dic̆ĕrẽ** |
 
 | `-` | **fac̆ere** |
 |-|-|
-| `=` | **fac̆ĕrẽ** |
 | `+` | **facıo**  |
 | `~` | **fic̆ï**   |
 | `*` | **fäċto**  |
+| `=` | **fac̆ĕrẽ** |
 
 | `-` | **pot̯ere** |
 |-|-|
-| `=` | **pot̯erẽ** |
 | `+` | **posso**   |
 | `~` | **pudi**    |
 | `*` | **pot̯ido** |
+| `=` | **pot̯erẽ** |
 | | |
 | `~` | **půdit**   | <!-- pôde -->

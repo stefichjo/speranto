@@ -73,12 +73,6 @@
 | `-`           | `lu-`          |
 | `-`           | `-`            |
 
-<!-- vem wake up; mev stop-->
-<!-- HoH to kill; Hegh to die -->
-<!-- tlhutlh to drink; tlhuH to breathe -->
-<!-- tlhIb tlhIH. -->
-<!-- Sop chop -->
-
 <!--
 yI- ci/vi lin
 tI- ci/vi ilin
@@ -101,26 +95,6 @@ pe- vi
 
 -->
 
-<!--
-yas pò ĝah soĝê.
-yas pò ghah soghê.
-yaS po' ghaH Sogh'e'.
--->
-
-<!--
-not qamagh.
-ràwìdaj maĝ yas qur.
-yas pò ĝah soĝê.
-ràwìwì ĝah tlhàa hodê.
-
-sub ghah martaq-qhangê.
--->
-
-<!-- biyohbè. vaj nuch soh. -->
-
-<!-- batlh, tlhingan-hol :jatlh. -->
-
-<!-- Qam qam -->
 
 ## Orthography
 
@@ -182,5 +156,4 @@ In order not to read `nenghep` (*Age of Ascension*) as *`nengHep`, it can be wri
 | | | |
 | *crazy*    | `maw'`   | **maẁ**   |
 | | | |
-| *somebody,*<br>*something* | `vay'`   | **vaỳ**   |
-
+| *somebody,*<br>*something* | `vay'` | **vaỳ**   |
