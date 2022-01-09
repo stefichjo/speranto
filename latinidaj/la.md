@@ -1,9 +1,12 @@
 # Lingua Latina
 
+## Coniugatio
+
 | | | | | |
 |-|-|-|-|-|
-| **-**   | **-a**  | | **-vi**   | **-veri**  |
-| **-ba** | **-re** | | **-vera** | **-visse** |
+| **-**   | **-ā**  | | **-vi**   | **-veri**  |
+| **-bā** | **-re** | | **-verā** | **-vissē** |
+| **-īe** |         | | **-veri** |            |
 
 | | |
 |-|-|
@@ -13,6 +16,13 @@
 | **-mus** | **-mus**  |
 | **-tis** | **-stis** |
 | **-unt** | **-unt**  |
+
+### -
+
+
+
+
+
 
 * partīunt; capiunt
 * legiunt → legunt
@@ -45,3 +55,69 @@
 ï    = ē
 ĭ    = e
 ĕ    = i
+
+
+<!-- 
+audi: audivi audito
+dormi: dormivi dormito
+*
+aperi: aperivi→aperui aperito→aperto
+sali:  salivi→salui   salito→salto
+senti: sentivi→sensi  sentito→senso
+veni:  venivi→veni    venito→vento
+-->
+
+<!--
+habe: habui habĭto
+mone: monui monĭto
+appare: apparui apparĭto
+debe: debui debĭto
+*
+tene: tenui tenĭto→tento
+vide: vidui→vidi vidĭto→viso
+-->
+
+<!--
+fugĭ: fugi fugĭto
+*
+capĭ: cepi capĭto→capto
+facĭ: feci facĭto→facto
+*
+(gradĭ): gredi→gradi gradĭto→gresso
+-->
+
+<!--
+=
+legĕ: legi lecto
+volvĕ: volvi voluto
+prendĕ: prendi prenso
+pandĕ: pandi panso/passo
+defendĕ: defendi defenso
+vertĕ: verti verso
+*
+vincĕ: vinci→vici victo
+linquĕ: linqui→liqui (licto)
+*
+agĕ: agi→egi acto
+
+2x
+cadĕ: cecidi caso
+*
+tangĕ: tetingi→tetigi tacto
+vendĕ: vendidi venso→vendĭto
+credĕ: credidi creso→credĭto
+
+-s-
+stringĕ: strinxi stricto
+mittĕ: misi misso
+ducĕ: duxi ducto
+pingĕ: pinxi picto
+scribĕ: scripsi scripto
+tegĕ: texi tecto
+tingĕ: tinxi tincto
+distinguĕ: distinxi distincto
+fluĕ: fluxi fluxo
+trahĕ: traxi tracto
+*
+ponĕ: posui posto→posĭto
+-->

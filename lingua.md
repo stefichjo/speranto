@@ -263,23 +263,41 @@ Por la imperativo, uziĝas la infinitiva formo sen **-re**, kun la ŝajnfinaĵo 
 | | | | | | | |
 | ___Future___  | | **-rabe**    | **-riba**   | | | |
 
-Inter vokaloj, **u** skribiĝas **v**.
+**ĭ-Verboj:**
+ĭ-verboj kondutas kiel ĕ-verboj, krom en ___Simple Present Subjunctive___.
 
 | | |
 |-|-|
-| *amintas* | **amaui** ⇒ **amavi** |
+| *mi faras* | **me facĕ** |
 
-La ___Simple Present Subjunctive___ de a-verboj finiĝas je **-e**.
+___Simple Present Subjunctive___**:**
+ĭ-verboj kondutas kiel i-verboj, dum ĕ-verboj perdas sian **e**. a-verboj perdas sian **a** kaj finiĝas je **-e** anstataŭe.
 
 | | |
 |-|-|
-| *mi amu* | ~~me amaa~~ → **me ame** |
+| *mi faru* | ~~me facĕa~~ → **me facia** |
+| | |
+| *mi agu*  | ~~me agĕa~~  → **me aga**   |
+| | |
+| *mi amu*  | ~~me amaa~~  → **me ame**   |
 
-Anstataŭ ___Simple Future Subjunctive___, oni diras ___Conditional___.
+___Perfect___**:**
+La **-u-** en la finaĵoj por la ___Perfect___ skribiĝas **-v-** ĉe a- kaj i-verboj, ĉar **u** skribiĝas **v** inter vokaloj. Kontraste, e-verboj perdas sian **e** en la ___Perfect___. Tial **u** restas **u**. Simile, ĭ- kaj ĕ-verboj perdas sian **e**, sed aldone ankaŭ la **u** eliziiĝas.
 
-| | ___Conditional___ |
-|-|-|
-| *mi amus* | **me amariba** |
+**Pasiva participo:**
+Anstataŭ la finaĵoj por la ___Perfect___, oni povas uzi la verbon **habe** kun pasiva participo (je **-to**). La **e** de e-verboj tiam fariĝas **ĭ**. ĭ- kaj ĕ-verboj perdas sian **e**, kaj la formo de la participo ŝanĝiĝas.
+
+| | | |
+|-|-|-|
+| *mi estas kantinta* | **me cantavi**                | **me habe cantato**                     |
+| | | |
+| *mi estas dorminta* | **me dormivi**                | **me habe dormito**                     |
+| | | |
+| *mi estas devinta*  | ~~me debevi~~  → **me debui** | ~~me habe debeto~~ → **me habe debĭto** |
+| | | |
+| *mi estas farinta*  | ~~me facĕvi~~  → **me faci**  | ~~me habe facĕto~~ → **me habe facto**  |
+| | | |
+| *mi estas leginta*  | ~~me legĕvi~~  → **me legi**  | ~~me habe legĕto~~ → **me habe lecto**  |
 
 #### Poezio
 
@@ -289,55 +307,29 @@ Anstataŭ ___Simple Future Subjunctive___, oni diras ___Conditional___.
 | *ci*      | **-s**   |
 | *ri*/*ĝi* | **-t**   |
 | *ni*      | **-mus** |
+| *vi*      | **-tis** |
 | *ili*     | **-nt**  |
 
 | | | poezie |
 |-|-|-|
 | *ni venas*  | **nos veni**  | **venimus**  |
+| *ni faras*  | **nos facĭ**  | **facĭmus**  |
 | *ni vidas*  | **nos vide**  | **videmus**  |
 | *ni venkas* | **nos vincĕ** | **vincĕmus** |
 | *ni amas*   | **nos ama**   | **amamus**   |
 
 ##### Simple Present Subjunctive
 
-La **ĕ** de ĕ-verboj eliziiĝas.
+La **ĕ** de ĕ-verboj eliziiĝas, dum la **ĭ** de ĭ-verboj restas.
 
 | | | poezie |
 |-|-|-|
+| *ni faru*  | **nos facĭa**  |                 **facĭamus**  |
 | *ni venku* | **nos vincĕa** | ~~vincĕamus~~ → **vincamus**  |
 
 ##### Perfect
 
-La **e** de e-verboj kaj la **ĕv** de ĕ-verboj eliziiĝas.
-
-| | | poezie |
-|-|-|-|
-| *mi tenintas*  | **me tenevi**  | ~~tenevi~~ → **tenui** |
-| *mi legintas*  | **me legĕvi**  | ~~legĕvi~~ → **legi**  |
-
-Multaj e- kaj ĕ-verboj havas malregulajn formojn.
-
-| | | poezie |
-|-|-|-|
-| *ni vidintas*   | **nos videvi**   | ~~videvimus~~   → ~~viduimus~~  → **vidimus**    |
-| *ni venkintas*  | **nos vincĕvi**  | ~~vincĕvimus~~  → ~~vincimus~~  → **vicimus**    |
-| *ni skribintas* | **nos scribĕvi** | ~~scribĕvimus~~ → ~~scribimus~~ → **scripsimus** |
-
-Alternative, oni povas esprimi ___Perfect___ pere de la verbo **habere** kaj la pasiva participo.
-
-|-|-|-|
-| | | |
-| *mi estas sentintaj* | **sentivi** | **me habe sentito** |
-| *mi estas tenintaj*  | **tenui**   | **me habe tenuto**  |
-| *mi estas farintaj*  | **feci**    | **me habe facto**   |
-| *mi estas kantintaj* | **cantavi** | **me habe cantato** |
-
-Multaj e- kaj ĕ-verboj havas malregulan pasivan participon.
-
-|-|-|-|
-| | | |
-| *mi estas vidintaj*   | **vidi**    | **me habe viso**    |
-| *mi estas skribintaj* | **scripsi** | **me habe scripto** |
+<!-- finaĵoj -->
 
 ##### mi
 
@@ -348,16 +340,14 @@ La ___Simple Present Indicative___ similas al la ___Simple Present Subjunctive__
 | *mi venas*  | **me veni**  | ~~venim~~  → **venio** |
 | *mi vidas*  | **me vide**  | ~~videm~~  → **video** |
 | *mi venkas* | **mi vincĕ** | ~~vincĕm~~ → **vinco** |
+| *mi faras*  | **mi facĭ**  | ~~facĭm~~  → **facĭo** |
 | *mi amas*   | **me ama**   | ~~amam~~   → **amo**   |
 
 La ___Present Perfect Indicative___ perdas la finaĵon **-m**.
 
 | | | poezie |
 |-|-|-|
-| *mi venintas*  | **me venivi**  | ~~venivim~~               → **venivi** |
-| *mi vidintas*  | **me videvi**  | ~~videvim~~  → ~~viduim~~ → **vidi**   |
 | *mi venkintas* | **me vincĕvi** | ~~vincĕvim~~ → ~~vincim~~ → **vici**   |
-| *mi amintas*   | **me amavi**   | ~~amavim~~                → **amavi**  |
 
 ##### ire & vadĕre
 
