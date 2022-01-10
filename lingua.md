@@ -397,6 +397,7 @@ e-verboj kaj ĕ-verboj perdas sian **e**/**ĕ** en la ___Perfect___. Ĉe ĕ-verb
 | |
 |-|
 | **bibĭto** | <!-- scribĭto scripto -->
+| **arguĭto** |
 
 | < dare |
 |-|
@@ -421,7 +422,7 @@ e-verboj kaj ĕ-verboj perdas sian **e**/**ĕ** en la ___Perfect___. Ĉe ĕ-verb
 | **legĭto**   | **lecto**   |
 | **regĭto**   | **recto**   |
 | **tegĭto**   | **tecto**   |
-| |
+| | |
 | ***-h-*** | |
 | **trahĭto**  | **tracto**   |
 | **vehĭto**   | **vecto**    |
@@ -432,7 +433,7 @@ e-verboj kaj ĕ-verboj perdas sian **e**/**ĕ** en la ___Perfect___. Ĉe ĕ-verb
 | ***-p-*** | |
 | **capĭto**  | **capto**  |
 | **rapĭto**  | **rapto**  |
-
+aperire
 <!-- ponĭto posĭto -->
 <!-- gignĭto genĭto -->
 <!-- tremĭto ??? -->
@@ -503,6 +504,7 @@ e-verboj kaj ĕ-verboj perdas sian **e**/**ĕ** en la ___Perfect___. Ĉe ĕ-verb
 | | |
 | ***-t-*** | |
 | **-cutĭto** | **-cusso** |
+| **patĭto**  | **passo**  |
 | | |
 | ***-ct-*** | |
 | **flectĭto** | **flexo** |
@@ -514,8 +516,16 @@ e-verboj kaj ĕ-verboj perdas sian **e**/**ĕ** en la ___Perfect___. Ĉe ĕ-verb
 | ***-tt-*** | |
 | **mittĭto**  | **misso** |
 | | |
-| **-u-** | |
+| | |
+| ***-u-*** | |
 | **fluĭto**   | **fluxo** |
+| |
+| **-gu-** | |
+| **-stinguĭto** | **-stincto** |
+| | |
+| ***-v-*** | |
+| **solvĭto** | **soluto** |
+| **volvĭto** | **voluto** |
 
 ##### ire & vadĕre
 
