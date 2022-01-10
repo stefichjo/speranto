@@ -261,7 +261,9 @@ Por la imperativo, uziĝas la infinitiva formo sen **-re**, kun la ŝajnfinaĵo 
 | | | | | | | |
 | ___Past___    | | **-ba**      | **-re**     | | **-uera**  | **-uisse**  |
 | | | | | | | |
-| ___Future___  | | **-rabe**    | **-riba**   | | | |
+| ___Future___  | | **-rá**      | **-ría**    | | | |
+
+Tra bruo, **-rá** fariĝas **-rabe**, kaj **-ría** fariĝas **-riba**.
 
 **ĭ-/ĕ-Verboj:**
 ĭ-verboj kondutas kaj skribiĝas kiel ĕ-verboj, krom en ___Simple Present Subjunctive___.
@@ -328,6 +330,48 @@ La ___Simple Present Indicative___ similas al la ___Simple Present Subjunctive__
 | *mi faras*  | **mi facĕ**  | ~~facĕm~~  → **facio** |
 | *mi venkas* | **mi vincĕ** | ~~vincĕm~~ → **vinco** |
 
+##### ire & vadĕre
+
+| **i**      → **vadĕ**    |
+|-|
+| ~~io~~     → **vado**    |
+| ~~is~~     → **vadĕs**   |
+| ~~it~~     → **vadĕt**   |
+| ~~imus~~   → **vadĕmus** |
+| ~~itis~~   → **vadĕtis** |
+| ~~int~~    → **vadĕnt**  |
+
+En la ___Perfect___, uziĝas la radiko de **essĕre**.
+
+##### habere & essĕre
+
+| **habe**    → **-h-**    |
+|-|
+| ~~habeo~~   → **ho**     |
+| ~~habes~~   → **has**    |
+| ~~habet~~   → **hat**    |
+| ~~habemus~~ → **hemus**  |
+| ~~habetis~~ → **habeis** |
+| ~~habent~~  → **hant**   |
+
+| **essĕ**    → **-s-**   |
+|-|
+| ~~essĕm~~   → **sem**   |
+| ~~essĕs~~   → **es**    |
+| ~~essĕt~~   → **est**   |
+| ~~essĕmus~~ → **semus** |
+| ~~essĕtis~~ → **estis** |
+| ~~essĕnt~~  → **sent**  |
+
+|               | | ___Ind.___                      | ___Subj.___                | | ___Ind.___               | ___Subj.___               |
+|-|-|-|-|-|-|-|
+|               | | ___Simple___                    |                            | | ___Perfect___            |                           |
+| | | | | | | |
+| ___Present___ | | **essĕ**     → **-s-**          | **essia**    → **sia**     | | **essui**   → **fui**    | **essueri**  → **fueri**  |
+| | | | | | | |
+| ___Past___    | | **essĕba**   → **era**          | **essĕre**   → **esse**    | | **essuera** → **fuera**  | **essuisse** → **fuisse** |
+| | | | | | | |
+| ___Future___  | | **essĕrá**  → **ser** + **-h-** | **essĕría**  → **sería**   | | | |
 ##### Perfect
 
 | | poezie |
@@ -527,54 +571,3 @@ aperire
 | **solvĭto** | **soluto** |
 | **volvĭto** | **voluto** |
 
-##### ire & vadĕre
-
-| **i**      → **vadĕ**    |
-|-|
-| ~~io~~     → **vado**    |
-| ~~is~~     → **vadĕs**   |
-| ~~it~~     → **vadĕt**   |
-| ~~imus~~   → **vadĕmus** |
-| ~~itis~~   → **vadĕtis** |
-| ~~int~~    → **vadĕnt**  |
-
-| **ib**     → **ī**       |
-|-|
-| ~~ibam~~   → **īam**     |
-| ~~ibas~~   → **īas**     |
-| ~~ibat~~   → **īat**     |
-| ~~ibamus~~ → **īamus**   |
-| ~~ibatis~~ → **īatis**   |
-| ~~ibant~~  → **īant**    |
-
-En la ___Perfect___, uziĝas la radiko de **essĕre**.
-
-##### habere & essĕre
-
-| **habe**    → **-h-**    |
-|-|
-| ~~habeo~~   → **ho**     |
-| ~~habes~~   → **has**    |
-| ~~habet~~   → **hat**    |
-| ~~habemus~~ → **hemus**  |
-| ~~habetis~~ → **habeis** |
-| ~~habent~~  → **hant**   |
-
-| **essĕ**    → **-s-**   |
-|-|
-| ~~essĕm~~   → **sem**   |
-| ~~essĕs~~   → **es**    |
-| ~~essĕt~~   → **est**   |
-| ~~essĕmus~~ → **semus** |
-| ~~essĕtis~~ → **estis** |
-| ~~essĕnt~~  → **sent**  |
-
-|               | | ___Ind.___                | ___Subj.___                | | ___Ind.___               | ___Subj.___               |
-|-|-|-|-|-|-|-|
-|               | | ___Simple___              |                            | | ___Perfect___            |                           |
-| | | | | | | |
-| ___Present___ | | **essĕ**     → **-s-**    | **essia**    → **sia**     | | **essui**   → **fui**    | **essueri**  → **fueri**  |
-| | | | | | | |
-| ___Past___    | | **essĕba**   → **era**    | **essĕre**   → **esse**    | | **essuera** → **fuera**  | **essuisse** → **fuisse** |
-| | | | | | | |
-| ___Future___  | | **essĕrabe** → **serō**   | **essĕriba** → **serīa**   | | | |
