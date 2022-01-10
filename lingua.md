@@ -257,47 +257,45 @@ Por la imperativo, uziĝas la infinitiva formo sen **-re**, kun la ŝajnfinaĵo 
 |-|-|-|-|-|-|-|
 | | | ___Simple___ | | | ___Perfect___ | |
 | | | | | | | |
-| ___Present___ | | **-**        | **-a**      | | **-ui**    | **-ueri**   |
+| ___Present___ | | **-**        | **-a**      | | **-vi**    | **-veri**   |
 | | | | | | | |
-| ___Past___    | | **-ba**      | **-re**     | | **-uera**  | **-uisse**  |
+| ___Past___    | | **-ba**      | **-re**     | | **-vera**  | **-visse**  |
 | | | | | | | |
 | ___Future___  | | **-rabe**    | **-riba**   | | | |
 
-**ĭ-Verboj:**
-ĭ-verboj kondutas kiel ĕ-verboj, krom en ___Simple Present Subjunctive___.
+**ĭ-/ĕ-Verboj:**
+ĭ-verboj kondutas kaj skribiĝas kiel ĕ-verboj, krom en ___Simple Present Subjunctive___.
 
 | | |
 |-|-|
-| *mi faras* | **me facĕ** |
+| *mi faras* | ~~me facĭ~~ → **me facĕ** |
+| *mi agas*  |               **me agĕ**  |
 
 ___Simple Present Subjunctive___**:**
 ĭ-verboj kondutas kiel i-verboj, dum ĕ-verboj perdas sian **e**. a-verboj perdas sian **a** kaj finiĝas je **-e** anstataŭe.
 
 | | |
 |-|-|
-| *mi faru* | ~~me facĕa~~ → **me facia** |
+| *mi faru* | ~~me facĭa~~ → **me facia** | <!-- TODO do multaj ĭ-oj estu i-oj en la ortografio de Lingua -->
 | | |
 | *mi agu*  | ~~me agĕa~~  → **me aga**   |
 | | |
 | *mi amu*  | ~~me amaa~~  → **me ame**   |
 
-___Perfect___**:**
-La **-u-** en la finaĵoj por la ___Perfect___ skribiĝas **-v-** ĉe a- kaj i-verboj, ĉar **u** skribiĝas **v** inter vokaloj. Kontraste, e-verboj perdas sian **e** en la ___Perfect___. Tial **u** restas **u**. Simile, ĭ- kaj ĕ-verboj perdas sian **e**, sed aldone ankaŭ la **u** eliziiĝas.
-
 **Pasiva participo:**
-Anstataŭ la finaĵoj por la ___Perfect___, oni povas uzi la verbon **habe** kun pasiva participo (je **-to**). La **e** de e-verboj tiam fariĝas **ĭ**. ĭ- kaj ĕ-verboj perdas sian **e**, kaj la formo de la participo ŝanĝiĝas.
+Anstataŭ la finaĵoj por la ___Perfect___, oni povas uzi la verbon **habe** kun pasiva participo (je **-to**).
 
 | | | |
 |-|-|-|
-| *mi estas kantinta* | **me cantavi**                | **me habe cantato**                     |
+| *mi estas kantinta* | **me cantavi** | **me habe cantato** |
 | | | |
-| *mi estas dorminta* | **me dormivi**                | **me habe dormito**                     |
+| *mi estas dorminta* | **me dormivi** | **me habe dormito** |
 | | | |
-| *mi estas devinta*  | ~~me debevi~~  → **me debui** | ~~me habe debeto~~ → **me habe debĭto** |
+| *mi estas devinta*  | **me debevi**  | **me habe debeto**  |
 | | | |
-| *mi estas farinta*  | ~~me facĕvi~~  → **me faci**  | ~~me habe facĕto~~ → **me habe facto**  |
+| *mi estas farinta*  | **me facĕvi**  | **me habe facĕto**  |
 | | | |
-| *mi estas leginta*  | ~~me legĕvi~~  → **me legi**  | ~~me habe legĕto~~ → **me habe lecto**  |
+| *mi estas gvidinta* | **me ducĕvi**  | **me habe ducĕto**  |
 
 #### Poezio
 
@@ -310,26 +308,54 @@ Anstataŭ la finaĵoj por la ___Perfect___, oni povas uzi la verbon **habe** kun
 | *vi*      | **-tis** |
 | *ili*     | **-nt**  |
 
+**-ĕ** fariĝas **-ĭ**.
+
 | | | poezie |
 |-|-|-|
-| *ni venas*  | **nos veni**  | **venimus**  |
-| *ni faras*  | **nos facĭ**  | **facĭmus**  |
-| *ni vidas*  | **nos vide**  | **videmus**  |
-| *ni venkas* | **nos vincĕ** | **vincĕmus** |
 | *ni amas*   | **nos ama**   | **amamus**   |
-
-##### Simple Present Subjunctive
-
-La **ĕ** de ĕ-verboj eliziiĝas, dum la **ĭ** de ĭ-verboj restas.
-
-| | | poezie |
-|-|-|-|
-| *ni faru*  | **nos facĭa**  |                 **facĭamus**  |
-| *ni venku* | **nos vincĕa** | ~~vincĕamus~~ → **vincamus**  |
+| *ni venas*  | **nos veni**  | **venimus**  |
+| *ni vidas*  | **nos tene**  | **tenemus**  |
+| *ni faras*  | **nos facĕ**  | **facĭmus**  |
+| *ni legas*  | **nos legĕ**  | **legĭmus**  |
 
 ##### Perfect
 
-<!-- finaĵoj -->
+| | poezie |
+|-|-|
+| *mi*      | **-**     |
+| *ci*      | **-sti**  |
+| *ri*/*ĝi* | **-t**    |
+| *ni*      | **-mus**  |
+| *vi*      | **-stis** |
+| *ili*     | **-nt**   |
+
+e-verboj kaj ĕ-verboj perdas sian **e**/**ĕ** en la ___Perfect___. La **i** en **vi** fariĝas **e**. Ĉe ĕ-verboj eliziiĝas la **v**.
+
+| | | poezie | | | poezie |
+|-|-|-|-|-|-|
+| *mi amintas*   | **me amavi**   | **amave**  | | **habe amato**   | **ho amato**  |
+| *mi venintas*  | **me venivi**  | **venive** | | **habe venito**  | **ho venito** | <!-- dormivĕmus -->
+| *mi tenintas*  | **me tenevi**  | **tenue**  | | **habe teneto**  | **ho tenĭto** |
+| *mi farintas*  | **me facĕvi**  | **face**   | | **habe facĕto**  | **ho facto**  |
+| *mi venkintas* | **me vincĕvi** | **vince**  | | **habe vincĕto** | **ho vincto** |
+
+<!-- 
+| | | | |
+|-|-|-|-|
+| *venkita   | | **vincĕ**  | **vincto**  |
+| | | | |
+| *pentrita* | | **pingĕ**  | **pincto**  |
+| *legita*   | | **legĕ**   | **lecto**   |
+| *agita*    | | **agĕ**    | **acto**    |
+| | | | |
+| *skribita* | | **scribě** | **scripto** |
+| | | | |
+| *turni*    | | **vertĕ**  | **verso**   |
+| | | | |
+| *mergita*  | | **mergĕ**  | **merso**   |
+| | | | |
+| *perdita*  | | **perdĕ**  | **perso**   |
+ -->
 
 ##### mi
 
@@ -337,28 +363,22 @@ La ___Simple Present Indicative___ similas al la ___Simple Present Subjunctive__
 
 | | | poezie |
 |-|-|-|
+| *mi amas*   | **me ama**   | ~~amam~~   → **amo**   |
 | *mi venas*  | **me veni**  | ~~venim~~  → **venio** |
 | *mi vidas*  | **me vide**  | ~~videm~~  → **video** |
-| *mi venkas* | **mi vincĕ** | ~~vincĕm~~ → **vinco** |
-| *mi faras*  | **mi facĭ**  | ~~facĭm~~  → **facĭo** |
-| *mi amas*   | **me ama**   | ~~amam~~   → **amo**   |
-
-La ___Present Perfect Indicative___ perdas la finaĵon **-m**.
-
-| | | poezie |
-|-|-|-|
-| *mi venkintas* | **me vincĕvi** | ~~vincĕvim~~ → ~~vincim~~ → **vici**   |
+| *mi faras*  | **mi facĕ**  | ~~facĭm~~  → **facio** |
+| *mi venkas* | **mi vincĕ** | ~~vincĭm~~ → **vinco** |
 
 ##### ire & vadĕre
 
 | **i**      → **vadĕ**    |
 |-|
 | ~~io~~     → **vado**    |
-| ~~is~~     → **vadĕs**   |
-| ~~it~~     → **vadĕt**   |
-| ~~imus~~   → **vadĕmus** |
-| ~~itis~~   → **vadĕtis** |
-| ~~int~~    → **vadĕnt**  |
+| ~~is~~     → **vadĭs**   |
+| ~~it~~     → **vadĭt**   |
+| ~~imus~~   → **vadĭmus** |
+| ~~itis~~   → **vadĭtis** |
+| ~~int~~    → **vadĭnt**  |
 
 | **ib**     → **ī**       |
 |-|
@@ -395,7 +415,7 @@ En la ___Perfect___, uziĝas la radiko de **essĕre**.
 |-|-|-|-|-|-|-|
 |               | | ___Simple___              |                            | | ___Perfect___            |                           |
 | | | | | | | |
-| ___Present___ | | **essĕ**     → **-s-**    | **essĕa**    → **sea**     | | **essui**   → **fui**    | **essueri**  → **fueri**  |
+| ___Present___ | | **essĕ**     → **-s-**    | **essia**    → **sia**     | | **essui**   → **fui**    | **essueri**  → **fueri**  |
 | | | | | | | |
 | ___Past___    | | **essĕba**   → **era**    | **essĕre**   → **esse**    | | **essuera** → **fuera**  | **essuisse** → **fuisse** |
 | | | | | | | |
