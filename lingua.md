@@ -257,9 +257,9 @@ Por la imperativo, uziĝas la infinitiva formo sen **-re**, kun la ŝajnfinaĵo 
 |-|-|-|-|-|-|-|
 | | | ___Simple___ | | | ___Perfect___ | |
 | | | | | | | |
-| ___Present___ | | **-**        | **-a**      | | **-vi**    | **-veri**   |
+| ___Present___ | | **-**        | **-a**      | | **-u**     | **-ueri**   |
 | | | | | | | |
-| ___Past___    | | **-ba**      | **-re**     | | **-vera**  | **-visse**  |
+| ___Past___    | | **-ba**      | **-re**     | | **-uera**  | **-uisse**  |
 | | | | | | | |
 | ___Future___  | | **-rabe**    | **-riba**   | | | |
 
@@ -287,15 +287,15 @@ Anstataŭ la finaĵoj por la ___Perfect___, oni povas uzi la verbon **habe** kun
 
 | | | |
 |-|-|-|
-| *mi estas kantinta* | **me cantavi** | **me habe cantato** |
+| *mi estas kantinta* | **me cantau** | **me habe cantato** |
 | | | |
-| *mi estas dorminta* | **me dormivi** | **me habe dormito** |
+| *mi estas dorminta* | **me dormiu** | **me habe dormito** |
 | | | |
-| *mi estas devinta*  | **me debevi**  | **me habe debeto**  |
+| *mi estas devinta*  | **me debeu**  | **me habe debeto**  |
 | | | |
-| *mi estas farinta*  | **me facĕvi**  | **me habe facĕto**  |
+| *mi estas farinta*  | **me facĕu**  | **me habe facĕto**  |
 | | | |
-| *mi estas gvidinta* | **me ducĕvi**  | **me habe ducĕto**  |
+| *mi estas gvidinta* | **me ducĕu**  | **me habe ducĕto**  |
 
 #### Poezio
 
@@ -308,56 +308,15 @@ Anstataŭ la finaĵoj por la ___Perfect___, oni povas uzi la verbon **habe** kun
 | *vi*      | **-tis** |
 | *ili*     | **-nt**  |
 
-**-ĕ** fariĝas **-ĭ**.
-
 | | | poezie |
 |-|-|-|
 | *ni amas*   | **nos ama**   | **amamus**   |
 | *ni venas*  | **nos veni**  | **venimus**  |
 | *ni vidas*  | **nos tene**  | **tenemus**  |
-| *ni faras*  | **nos facĕ**  | **facĭmus**  |
-| *ni legas*  | **nos legĕ**  | **legĭmus**  |
+| *ni faras*  | **nos facĕ**  | **facĕmus**  |
+| *ni legas*  | **nos legĕ**  | **legĕmus**  |
 
-##### Perfect
-
-| | poezie |
-|-|-|
-| *mi*      | **-**     |
-| *ci*      | **-sti**  |
-| *ri*/*ĝi* | **-t**    |
-| *ni*      | **-mus**  |
-| *vi*      | **-stis** |
-| *ili*     | **-nt**   |
-
-e-verboj kaj ĕ-verboj perdas sian **e**/**ĕ** en la ___Perfect___. La **i** en **vi** fariĝas **e**. Ĉe ĕ-verboj eliziiĝas la **v**.
-
-| | | poezie | | | poezie |
-|-|-|-|-|-|-|
-| *mi amintas*   | **me amavi**   | **amave**  | | **habe amato**   | **ho amato**  |
-| *mi venintas*  | **me venivi**  | **venive** | | **habe venito**  | **ho venito** | <!-- dormivĕmus -->
-| *mi tenintas*  | **me tenevi**  | **tenue**  | | **habe teneto**  | **ho tenĭto** |
-| *mi farintas*  | **me facĕvi**  | **face**   | | **habe facĕto**  | **ho facto**  |
-| *mi venkintas* | **me vincĕvi** | **vince**  | | **habe vincĕto** | **ho vincto** |
-
-<!-- 
-| | | | |
-|-|-|-|-|
-| *venkita   | | **vincĕ**  | **vincto**  |
-| | | | |
-| *pentrita* | | **pingĕ**  | **pincto**  |
-| *legita*   | | **legĕ**   | **lecto**   |
-| *agita*    | | **agĕ**    | **acto**    |
-| | | | |
-| *skribita* | | **scribě** | **scripto** |
-| | | | |
-| *turni*    | | **vertĕ**  | **verso**   |
-| | | | |
-| *mergita*  | | **mergĕ**  | **merso**   |
-| | | | |
-| *perdita*  | | **perdĕ**  | **perso**   |
- -->
-
-##### mi
+##### Simple Present Subjunctive
 
 La ___Simple Present Indicative___ similas al la ___Simple Present Subjunctive___, sed anstataŭ **-am** respektive **-em** uziĝas **-o**.
 
@@ -366,19 +325,208 @@ La ___Simple Present Indicative___ similas al la ___Simple Present Subjunctive__
 | *mi amas*   | **me ama**   | ~~amam~~   → **amo**   |
 | *mi venas*  | **me veni**  | ~~venim~~  → **venio** |
 | *mi vidas*  | **me vide**  | ~~videm~~  → **video** |
-| *mi faras*  | **mi facĕ**  | ~~facĭm~~  → **facio** |
-| *mi venkas* | **mi vincĕ** | ~~vincĭm~~ → **vinco** |
+| *mi faras*  | **mi facĕ**  | ~~facĕm~~  → **facio** |
+| *mi venkas* | **mi vincĕ** | ~~vincĕm~~ → **vinco** |
+
+##### Perfect
+
+| | poezie |
+|-|-|
+| *mi*      | **-i**     |
+| *ci*      | **-isti**  |
+| *ri*/*ĝi* | **-it**    |
+| *ni*      | **-ĭmus**  |
+| *vi*      | **-istis** |
+| *ili*     | **-ĕrunt** |
+
+e-verboj kaj ĕ-verboj perdas sian **e**/**ĕ** en la ___Perfect___. Ĉe ĕ-verboj eliziiĝas ankaŭ la **u**.
+
+| | | poezie |
+|-|-|-|
+| *mi amintas*   | **me amau**   | **amavi**  |
+| *mi venintas*  | **me veniu**  | **venivi** |
+| *mi tenintas*  | **me teneu**  | **tenui**  |
+| *mi farintas*  | **me facĕu**  | **faci**   |
+| *mi venkintas* | **me vincĕu** | **vinci**  |
+
+##### Pasiva Participo
+
+**a-Verboj:**
+
+| | cf. |<!-- aldona signifo/neologismo -->
+|-|-|
+| **secato** | **secto**  |
+
+| | cf. |
+|-|-|
+| **halato**  | **halĭto**  |
+| **spirato** | **spirĭto** |
+
+**i-Verboj:**
+
+| | cf. |
+|-|-|
+| **sancito**  | **sancto**  |
+| **sepelito** | **sepulto** |
+| **salito**   | **salto**   |
+| **sentito**  | **senso**   |
+
+**e-Verboj:**
+
+| |
+|-|
+| **debĭto**  |
+| **habĭto**  |
+| **licĭto**  |
+| **valĭto**  |
+| **placĭto** |
+| **iacĭto**  | <!-- iacitūrum -->
+
+| | |
+|-|-|
+| **tergĭto**  | **terso**  |
+| **tenĭto**   | **tento**  |
+| **sedĭto**   | **sesso**  |
+| **tergēre**  | **terso**  |
+| **spondĭto** | **sponso** |
+| **vidĭto**   | **viso**   |
+| **torquĭto** | **torso**  | <!-- / torto -->
+
+**ĭ-Verboj kaj ĕ-Verboj:**
+
+| |
+|-|
+| **bibĭto** | <!-- scribĭto scripto -->
+
+| < dare |
+|-|
+| **credĭto** |
+| **vendĭto** |
+| **perdĭto** |
+| **reddĭto** |
+| **condĭto** |
+
+| | |
+|-|-|
+| ***-c-*** | |
+| **dicĭto**  | **dicto**  |
+| **ducĭto**  | **ducto**  |
+| **facĭto**  | **facto**  |
+| **iacĭto**  | **iacto**  |
+| **spicĭto** | **spïcto** | <!-- ï -->
+| | |
+| ***-g-*** | |
+| **agĭto**    | **acto**    |
+| **-fligĭto** | **-flicto** |
+| **legĭto**   | **lecto**   |
+| **regĭto**   | **recto**   |
+| **tegĭto**   | **tecto**   |
+| |
+| ***-h-*** | |
+| **trahĭto**  | **tracto**   |
+| **vehĭto**   | **vecto**    |
+| | |
+| ***-n-*** | |
+| **canĭto**  | **canto**  | <!-- supinum "cantum", poet. "canus", cantātum ... :/ -->
+| | |
+| ***-p-*** | |
+| **capĭto**  | **capto**  |
+| **rapĭto**  | **rapto**  |
+
+<!-- ponĭto posĭto -->
+<!-- gignĭto genĭto -->
+<!-- tremĭto ??? -->
+<!-- petĭto petito -->
+<!-- sc: cognoĭto cognĭto -->
+<!-- sc: creto OK -->
+
+| | |
+|-|-|
+| ***-nc-*** | |
+| **vincĭto**  | **victo**  |
+| | |
+| | |
+| ***-d-*** | | <!-- mallonga vokalo + ss / longa vokalo + s -->
+| **cadĭto**   | **caso**   |
+| **cedĭto**   | **cesso**  |
+| **gradĭto**  | **grässo** | <!-- ä -->
+| **laedĭto**  | **laeso**  |
+| **plaudĭto** | **plauso** |
+| **-vadĭto**  | **-vaso**  |
+| | |
+| ***-nd-*** | |
+| **scandĭto**  | **scanso**   |
+| **pandĭto**   | **panso**    | <!-- / passo -->
+| **pendĭto**   | **penso**    |
+| **prendĭto**  | **prenso**   |
+| **fendĭto**   | **fenso**    |
+| **-cändĭto**  | **-cänso**   | <!-- ä -->
+| | |
+| ***-ng-*** | |
+| **pingĭto**  | **picto**   |
+| **fingĭto**  | **ficto**   |
+| **frangĭto** | **fracto**  |
+| **tangĭto**  | **tacto**   |
+| | |
+| ***-ung-*** | |
+| **ungĭto**  | **uncto**    |
+| **pungĭto** | **puncto**   |
+| **fungĭto** | **functo**   |
+| | |
+| ***-rg-*** | |
+| **mergĭto**  | **merso**   |
+| **-pergĭto** | **-perso**  | <!-- perrēctum -->
+| | |
+| | |
+| ***-l-*** | |
+| **colĭto**  | **cǒlto**   | <!-- ǒ -->
+| | |
+| ***-ll-*** | |<!-- pellere pulso -->
+| **fallĭto** | **falso** |
+| | |
+| | |
+| ***-m-*** | |
+| **premĭto** | **presso** |
+| | |
+| | |
+| ***-qu-*** | |
+| **sequĭto** | **secuto** |
+| | |
+| | |
+| ***-rr-*** | |
+| **currĭto** | **curso** |
+| | |
+| | |
+| ***-s-*** | |
+| **pinsĭto** | **pisto**  | <!-- / pinsĭto / pinso / piso -->
+| | |
+| | |
+| ***-t-*** | |
+| **-cutĭto** | **-cusso** |
+| | |
+| ***-ct-*** | |
+| **flectĭto** | **flexo** |
+| **nectĭto**  | **nexo**  |
+| | |
+| ***-rt-*** | |
+| **vertĭto**  | **verso** |
+| | |
+| ***-tt-*** | |
+| **mittĭto**  | **misso** |
+| | |
+| **-u-** | |
+| **fluĭto**   | **fluxo** |
 
 ##### ire & vadĕre
 
 | **i**      → **vadĕ**    |
 |-|
 | ~~io~~     → **vado**    |
-| ~~is~~     → **vadĭs**   |
-| ~~it~~     → **vadĭt**   |
-| ~~imus~~   → **vadĭmus** |
-| ~~itis~~   → **vadĭtis** |
-| ~~int~~    → **vadĭnt**  |
+| ~~is~~     → **vadĕs**   |
+| ~~it~~     → **vadĕt**   |
+| ~~imus~~   → **vadĕmus** |
+| ~~itis~~   → **vadĕtis** |
+| ~~int~~    → **vadĕnt**  |
 
 | **ib**     → **ī**       |
 |-|
@@ -420,4 +568,3 @@ En la ___Perfect___, uziĝas la radiko de **essĕre**.
 | ___Past___    | | **essĕba**   → **era**    | **essĕre**   → **esse**    | | **essuera** → **fuera**  | **essuisse** → **fuisse** |
 | | | | | | | |
 | ___Future___  | | **essĕrabe** → **serō**   | **essĕriba** → **serīa**   | | | |
-
