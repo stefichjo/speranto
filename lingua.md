@@ -257,7 +257,7 @@ Por la imperativo, uziĝas la infinitiva formo sen **-re**, kun la ŝajnfinaĵo 
 |-|-|-|-|-|-|-|
 | | | ___Simple___ | | | ___Perfect___ | |
 | | | | | | | |
-| ___Present___ | | **-**        | **-a**      | | **-u**     | **-ueri**   |
+| ___Present___ | | **-**        | **-a**      | | **-ú**     | **-ueri**   |
 | | | | | | | |
 | ___Past___    | | **-ba**      | **-re**     | | **-uera**  | **-uisse**  |
 | | | | | | | |
@@ -265,13 +265,13 @@ Por la imperativo, uziĝas la infinitiva formo sen **-re**, kun la ŝajnfinaĵo 
 
 ## Imperfekto <!-- ? -->
 
-|                 | | ___Ind.___   | ___Subj.___ |
+|                 | | ***Ind.***   | ***Subj.*** |
 |-|-|-|-|
-| ___Prezenco___  | | **-**        | **-a**      |
+| ***Prezenco***  | | **-**        | **-a**      |
 | | | | |
-| ___Preterito___ | | **-ba**      | **-re**     |
+| ***Preterito*** | | **-ba**      | **-re**     |
 | | | | |
-| ___Futuro___    | | **-rá**      | **-ría**    |
+| ***Futuro***    | | **-rá**      | **-ría**    |
 
 ### Prezenco
 
@@ -383,6 +383,53 @@ La gerundio finiĝas je **-ndo** kaj kondutas kiel la participo.
 | *estas faranta*  | **sta faciendo** |
 | *estas amanta*   | **sta amando**   |
 
+## Perfekto <!-- ? -->
+
+### Prezenco
+
+**Indikativo:**
+
+| | |
+|-|-|
+| *mi vidintas*  | **me videú** | <!--ú → u? -->
+| *mi aŭdintas*  | **me audiú** |
+| *mi legintas*  | **me legĕú** |
+| *mi farintas*  | **me facĕú** |
+| *mi amintas*   | **me amaú**  |
+
+**Subjunktivo:**
+
+<!-- ve 3x -->
+
+| | | |
+|-|-|-|
+| *(ke) mi vidintas*  | **me videveri** | **vidérim** |
+| *(ke) mi aŭdintas*  | **me audiveri** | **audírim** |
+| *(ke) mi legintas*  | **me legĕveri** | **legérim** |
+| *(ke) mi farintas*  | **me facĕveri** | **facérim** |
+| *(ke) mi amintas*   | **me amaveri**  | **amárim**  |
+
+### Preterito
+
+**Indikativo:**
+
+| | | |
+|-|-|-|
+| *mi vidintis*  | **me videvera** | **vidéram** |
+| *mi aŭdintis*  | **me audivera** | **audíram** |
+| *mi legintis*  | **me legĕvera** | **legéram** |
+| *mi farintis*  | **me facĕvera** | **facéram** |
+| *mi amintis*   | **me amavera**  | **amáram**  |
+
+**Subjunktivo:**
+
+| | | |
+|-|-|-|
+| *(ke) mi vidintis*  | **me videvisse** | **vidéssem** |
+| *(ke) mi aŭdintis*  | **me audivisse** | **audíssem** |
+| *(ke) mi legintis*  | **me legĕvisse** | **legéssem** |
+| *(ke) mi farintis*  | **me facĕvisse** | **facéssem** |
+| *(ke) mi amintis*   | **me amavisse**  | **amássem**  |
 
 -----
 
@@ -509,9 +556,9 @@ En la ___Perfect___, uziĝas la radiko de **essĕre**.
 |-|-|-|-|-|-|-|
 |               | | ___Simple___          |                            | | ___Perfect___            |                            |
 | | | | | | | |
-| ___Present___ | | ~~essĕ~~   → **es**   | ~~essia~~    → **sia**     | | ~~essĕu~~    → **fu**    | ~~essĕueri~~  → **fueri**  |
+| ___Present___ | | ~~essĕ~~   → **es**   | ~~essia~~    → **sia**     | | ~~essĕú~~    → **fú**    | ~~essĕveri~~  → **fueri**  |
 | | | | | | | |
-| ___Past___    | | ~~essĕba~~ → **era**  | ~~essĕre~~   → **esse**    | | ~~essĕuera~~ → **fuera** | ~~essĕuisse~~ → **fuisse** |
+| ___Past___    | | ~~essĕba~~ → **éra**  | ~~essĕre~~   → **esse**    | | ~~essĕvera~~ → **fuera** | ~~essĕvisse~~ → **fuisse** |
 | | | | | | | |
 | ___Future___  | | ~~essĕrá~~ → **será** | ~~essĕría~~  → **sería**   | | | |
 
