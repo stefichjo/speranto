@@ -257,7 +257,7 @@ Por la imperativo, uziĝas la infinitiva formo sen **-re**, kun la ŝajnfinaĵo 
 |-|-|-|-|-|-|-|
 | | | ___Simple___ | | | ___Perfect___ | |
 | | | | | | | |
-| ___Present___ | | **-**        | **-a**      | | **-ú**     | **-ueri**   |
+| ___Present___ | | **-**        | **-a**      | | **-u**     | **-ueri**   |
 | | | | | | | |
 | ___Past___    | | **-ba**      | **-re**     | | **-uera**  | **-uisse**  |
 | | | | | | | |
@@ -391,11 +391,11 @@ La gerundio finiĝas je **-ndo** kaj kondutas kiel la participo.
 
 | | |
 |-|-|
-| *mi vidintas*  | **me videú** | <!--ú → u? -->
-| *mi aŭdintas*  | **me audiú** |
-| *mi legintas*  | **me legĕú** |
-| *mi farintas*  | **me facĕú** |
-| *mi amintas*   | **me amaú**  |
+| *mi vidintas*  | **me videu** | <!--u → u? -->
+| *mi aŭdintas*  | **me audiu** |
+| *mi legintas*  | **me legĕu** |
+| *mi farintas*  | **me facĕu** |
+| *mi amintas*   | **me amau**  |
 
 **Subjunktivo:**
 
@@ -556,7 +556,7 @@ En la ___Perfect___, uziĝas la radiko de **essĕre**.
 |-|-|-|-|-|-|-|
 |               | | ___Simple___          |                            | | ___Perfect___            |                            |
 | | | | | | | |
-| ___Present___ | | ~~essĕ~~   → **es**   | ~~essia~~    → **sia**     | | ~~essĕú~~    → **fú**    | ~~essĕveri~~  → **fueri**  |
+| ___Present___ | | ~~essĕ~~   → **es**   | ~~essia~~    → **sia**     | | ~~essĕu~~    → **fú**    | ~~essĕveri~~  → **fueri**  |
 | | | | | | | |
 | ___Past___    | | ~~essĕba~~ → **éra**  | ~~essĕre~~   → **esse**    | | ~~essĕvera~~ → **fuera** | ~~essĕvisse~~ → **fuisse** |
 | | | | | | | |
