@@ -251,7 +251,7 @@ Por la imperativo, uziĝas la infinitiva formo sen **-re**, kun la ŝajnfinaĵo 
 | *ke* | **ce** *[ke]* | - |
 | *mi scias, ke mia amiko laboras* | **me sape, ce mea amico labora** | **sapem mea amico laborare** |
 
-### Konjugacio
+# Konjugacio
 
 |               | | ___Ind.___   | ___Subj.___ | | ___Ind.___ | ___Subj.___ |
 |-|-|-|-|-|-|-|
@@ -263,7 +263,117 @@ Por la imperativo, uziĝas la infinitiva formo sen **-re**, kun la ŝajnfinaĵo 
 | | | | | | | |
 | ___Future___  | | **-rá**      | **-ría**    | | | |
 
-Tra bruo, **-rá** fariĝas **-rabe**, kaj **-ría** fariĝas **-riba**.
+## Imperfekto <!-- ? -->
+
+|                 | | ___Ind.___   | ___Subj.___ |
+|-|-|-|-|
+| ___Prezenco___  | | **-**        | **-a**      |
+| | | | |
+| ___Preterito___ | | **-ba**      | **-re**     |
+| | | | |
+| ___Futuro___    | | **-rá**      | **-ría**    |
+
+### Prezenco
+
+**Indikativo:**
+ĭ-verboj kondutas kiel ĕ-verboj.
+
+| | |
+|-|-|
+| *mi vidas* | **me vide**  |
+| *mi aŭdas* | **me audi**  |
+| *mi legas* | **me legĕ**  |
+| *mi faras* | **me facĕ**  |
+| *mi amas*  | **me ama**   |
+
+**Subjunktivo:**
+ĭ-verboj kondutas kiel i-verboj. La radikofina vokalo de ĕ- kaj a-verboj eliziĝas. Anstataŭ **-a**, a-verbo akceptas la finaĵon **-e**.
+
+| | |
+|-|-|
+| *(ke) mi vidas*  | **me videa** |
+| *(ke) mi aŭdas*  | **me audia** |
+| *(ke) mi legas*  | **me lega**  |
+| *(ke) mi faras*  | **me facia** |
+| *(ke) mi amas*   | **me ame**   |
+
+### Preterito
+
+**Indikativo:**
+ĕ- kaj ĭ-verboj kondutas kiel e-verboj.
+
+| | |
+|-|-|
+| *mi vidis*  | **me videba** |
+| *mi aŭdis*  | **me audiba** |
+| *mi legis*  | **me legeba** |
+| *mi faris*  | **me faceba** |
+| *mi amis*   | **me amaba**  |
+
+**Subjunktivo:**
+ĭ-verboj kondutas kiel ĕ-verboj.
+
+| | |
+|-|-|
+| *(ke) mi vidis*  | **me videre** |
+| *(ke) mi aŭdis*  | **me audire** |
+| *(ke) mi legis*  | **me legĕre** |
+| *(ke) mi faris*  | **me facĕre** |
+| *(ke) mi amis*   | **me amare**  |
+
+La formo de la subjunktiva preterito estas egala al la infinitivo.
+
+### Futuro
+
+**Indikativo:**
+La indikativa futuro estas la infinitivo kun **-á**, t.e. la fina parto de la verbo **há**.
+
+| | |
+|-|-|
+| *mi vidos*  | **me viderá** |
+| *mi aŭdos*  | **me audirá** |
+| *mi legos*  | **me legĕrá** |
+| *mi faros*  | **me facĕrá** |
+| *mi amos*   | **me amará**  |
+
+**Subjunktivo:**
+La subjunktiva futuro estas la infinitivo kun **-ía**, t.e. la indikativa preterito de **ire**.
+
+| | |
+|-|-|
+| *mi vidus*  | **me videría** |
+| *mi aŭdus*  | **me audiría** |
+| *mi legus*  | **me legĕría** |
+| *mi farus*  | **me facĕría** |
+| *mi amus*   | **me amaría**  |
+
+La subjunktiva futuro ankaŭ nomiĝas kondicionalo.
+
+### Participo kaj Gerundio
+
+La participo finiĝas je **-nte** respektive **-ndo**. ĕ-verboj kondutas kiel e-verboj, kaj ĭ-verboj kondutas kiel i-verboj.
+
+| | |
+|-|-|
+| *vidanta*  | **vidente**  |
+| *aŭdanta*  | **audiente** |
+| *leganta*  | **legente**  |
+| *faranta*  | **faciente** |
+| *amanta*   | **amante**   |
+
+La gerundio finiĝas je **-ndo** kaj kondutas kiel la participo.
+
+| | |
+|-|-|
+| *estas vidanta*  | **sta videndo**  |
+| *estas aŭdanta*  | **sta audiendo** |
+| *estas leganta*  | **sta legendo**  |
+| *estas faranta*  | **sta faciendo** |
+| *estas amanta*   | **sta amando**   |
+
+
+-----
+
 
 **ĭ-/ĕ-Verboj:**
 ĭ-verboj kondutas kaj skribiĝas kiel ĕ-verboj, krom en ___Simple Present Subjunctive___.
@@ -330,9 +440,9 @@ La ___Simple Present Indicative___ similas al la ___Simple Present Subjunctive__
 | *mi faras*  | **mi facĕ**  | ~~facĕm~~  → **facio** |
 | *mi venkas* | **mi vincĕ** | ~~vincĕm~~ → **vinco** |
 
-##### íre
+##### ire
 
-| | **íre** |
+| | **ire** |
 |-|-|
 | *iras*      | ~~í~~    → **vá**    |
 | | |
@@ -347,7 +457,7 @@ La ___Simple Present Indicative___ similas al la ___Simple Present Subjunctive__
 
 Tra bruo, **vó** fariĝas **vado**, kaj **vá** fariĝas **vadĕ**.
 
-| | **íre** |
+| | **ire** |
 |-|-|
 | *(ke) iru*      | ~~ia~~      → **vada**     |
 | | |
@@ -358,7 +468,7 @@ Tra bruo, **vó** fariĝas **vado**, kaj **vá** fariĝas **vadĕ**.
 | *(ke) vi iru*   | ~~iatis~~   → **vadatis**  |
 | *(ke) ili iru*  | ~~iant~~    → **vadant**   |
 
-| | **íre** |
+| | **ire** |
 |-|-|
 | *iris*      | ~~iba~~    → **ía**    |
 | | |
