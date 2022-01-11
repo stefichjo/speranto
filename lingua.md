@@ -285,19 +285,19 @@ ___Simple Present Subjunctive___**:**
 | *mi amu*  | ~~me amaa~~  → **me ame**   |
 
 **Pasiva participo:**
-Anstataŭ la finaĵoj por la ___Perfect___, oni povas uzi la verbon **habe** kun pasiva participo (je **-to**).
+Anstataŭ la finaĵoj por la ___Perfect___, oni povas uzi la verbon **há** kun pasiva participo (je **-to**). <!-- habe -->
 
 | | | |
 |-|-|-|
-| *mi estas kantinta* | **me cantau** | **me habe cantato** |
+| *mi estas kantinta* | **me cantau** | **me há cantato** |
 | | | |
-| *mi estas dorminta* | **me dormiu** | **me habe dormito** |
+| *mi estas dorminta* | **me dormiu** | **me há dormito** |
 | | | |
-| *mi estas devinta*  | **me debeu**  | **me habe debeto**  |
+| *mi estas devinta*  | **me debeu**  | **me há debeto**  |
 | | | |
-| *mi estas farinta*  | **me facĕu**  | **me habe facĕto**  |
+| *mi estas farinta*  | **me facĕu**  | **me há facĕto**  |
 | | | |
-| *mi estas gvidinta* | **me ducĕu**  | **me habe ducĕto**  |
+| *mi estas gvidinta* | **me ducĕu**  | **me há ducĕto**  |
 
 #### Poezio
 
@@ -330,48 +330,89 @@ La ___Simple Present Indicative___ similas al la ___Simple Present Subjunctive__
 | *mi faras*  | **mi facĕ**  | ~~facĕm~~  → **facio** |
 | *mi venkas* | **mi vincĕ** | ~~vincĕm~~ → **vinco** |
 
-##### ire & vadĕre
+##### íre
 
-| **i**      → **vadĕ**    |
-|-|
-| ~~io~~     → **vado**    |
-| ~~is~~     → **vadĕs**   |
-| ~~it~~     → **vadĕt**   |
-| ~~imus~~   → **vadĕmus** |
-| ~~itis~~   → **vadĕtis** |
-| ~~int~~    → **vadĕnt**  |
+| | **íre** |
+|-|-|
+| *iras*      | ~~í~~    → **vá**    |
+| | |
+| *mi iras*   | ~~io~~   → **vó**    |
+| *ci iras*   | ~~ís~~   → **vás**   |
+| *li iras*   | ~~ít~~   → **vát**   |
+| *ni iras*   | ~~ímus~~ → **vámus** |
+| *vi iras*   | ~~ítis~~ → **vátis** |
+| *ili iras*  | ~~ínt~~  → **vánt**  |
+
+<!-- por esprimi la estontecon: me vá íre ad la schola. -->
+
+Tra bruo, **vó** fariĝas **vado**, kaj **vá** fariĝas **vadĕ**.
+
+| | **íre** |
+|-|-|
+| *(ke) iru*      | ~~ia~~      → **vada**     |
+| | |
+| *(ke) mi iru*   | ~~iam~~     → **vadam**    |
+| *(ke) ci iru*   | ~~ias~~     → **vadas**    |
+| *(ke) li iru*   | ~~iat~~     → **vadat**    |
+| *(ke) ni iru*   | ~~iamus~~   → **vadamus**  |
+| *(ke) vi iru*   | ~~iatis~~   → **vadatis**  |
+| *(ke) ili iru*  | ~~iant~~    → **vadant**   |
+
+| | **íre** |
+|-|-|
+| *iris*      | ~~iba~~    → **ía**    |
+| | |
+| *mi iris*   | ~~ibam~~   → **íam**   |
+| *ci iris*   | ~~ibas~~   → **ías**   |
+| *li iris*   | ~~ibat~~   → **íat**   |
+| *ni iris*   | ~~ibamus~~ → **íamus** |
+| *vi iris*   | ~~ibatis~~ → **íatis** |
+| *ili iris*  | ~~ibant~~  → **íant**  |
+
+Tra bruo, **í** fariĝas **ib**. (Tiam la **a** en **ibamus** kaj **ibatis** estas akcentata.)
 
 En la ___Perfect___, uziĝas la radiko de **essĕre**.
 
-##### habere & essĕre
+##### habere
 
-| **habe**    → **-h-**    |
-|-|
-| ~~habeo~~   → **ho**     |
-| ~~habes~~   → **has**    |
-| ~~habet~~   → **hat**    |
-| ~~habemus~~ → **hemus**  |
-| ~~habetis~~ → **habeis** |
-| ~~habent~~  → **hant**   |
+| | **habere** |
+|-|-|
+| *havas*      | ~~habe~~    → **há**     |
+| | |
+| *mi havas*   | ~~habeo~~   → **hó**     |
+| *ci havas*   | ~~habes~~   → **hás**    |
+| *li havas*   | ~~habet~~   → **hát**    |
+| *ni havas*   | ~~habemus~~ → **hémus**  |
+| *vi havas*   | ~~habetis~~ → **héis**   |
+| *ili havas*  | ~~habent~~  → **hánt**   |
 
-| **essĕ**    → **-s-**   |
-|-|
-| ~~essĕm~~   → **sem**   |
-| ~~essĕs~~   → **es**    |
-| ~~essĕt~~   → **est**   |
-| ~~essĕmus~~ → **semus** |
-| ~~essĕtis~~ → **estis** |
-| ~~essĕnt~~  → **sent**  |
+| | |
+|-|-|
+| *havas*      | ~~habe~~    → **há**     |
 
-|               | | ___Ind.___                      | ___Subj.___                | | ___Ind.___               | ___Subj.___               |
+##### essĕre
+
+| | **essĕre** |
+|-|-|
+| *estas*     | ~~essĕ~~    → **es**    |
+| | |
+| *mi estas*  | ~~essĕm~~   → **sem**   | <!-- sio → sem -->
+| *ci estas*  | ~~essĕs~~   → **es**    |
+| *li estas*  | ~~essĕt~~   → **est**   |
+| *ni estas*  | ~~essĕmus~~ → **semus** |
+| *vi estas*  | ~~essĕtis~~ → **estis** |
+| *ili estas* | ~~essĕnt~~  → **sent**  |
+
+|               | | ___Ind.___            | ___Subj.___                | | ___Ind.___               | ___Subj.___                |
 |-|-|-|-|-|-|-|
-|               | | ___Simple___                    |                            | | ___Perfect___            |                           |
+|               | | ___Simple___          |                            | | ___Perfect___            |                            |
 | | | | | | | |
-| ___Present___ | | **essĕ**     → **-s-**          | **essia**    → **sia**     | | **essui**   → **fui**    | **essueri**  → **fueri**  |
+| ___Present___ | | ~~essĕ~~   → **es**   | ~~essia~~    → **sia**     | | ~~essĕu~~    → **fu**    | ~~essĕueri~~  → **fueri**  |
 | | | | | | | |
-| ___Past___    | | **essĕba**   → **era**          | **essĕre**   → **esse**    | | **essuera** → **fuera**  | **essuisse** → **fuisse** |
+| ___Past___    | | ~~essĕba~~ → **era**  | ~~essĕre~~   → **esse**    | | ~~essĕuera~~ → **fuera** | ~~essĕuisse~~ → **fuisse** |
 | | | | | | | |
-| ___Future___  | | **essĕrá**  → **ser** + **-h-** | **essĕría**  → **sería**   | | | |
+| ___Future___  | | ~~essĕrá~~ → **será** | ~~essĕría~~  → **sería**   | | | |
+
 ##### Perfect
 
 | | poezie |
@@ -414,6 +455,8 @@ e-verboj kaj ĕ-verboj perdas sian **e**/**ĕ** en la ___Perfect___. Ĉe ĕ-verb
 | **sepelito** | **sepulto** |
 | **salito**   | **salto**   |
 | **sentito**  | **senso**   |
+| **aperito**  | **aperto**  |
+| **coperito** | **coperto** |
 
 **e-Verboj:**
 
@@ -477,7 +520,7 @@ e-verboj kaj ĕ-verboj perdas sian **e**/**ĕ** en la ___Perfect___. Ĉe ĕ-verb
 | ***-p-*** | |
 | **capĭto**  | **capto**  |
 | **rapĭto**  | **rapto**  |
-aperire
+
 <!-- ponĭto posĭto -->
 <!-- gignĭto genĭto -->
 <!-- tremĭto ??? -->
