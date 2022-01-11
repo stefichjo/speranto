@@ -349,7 +349,19 @@ La subjunktiva futuro estas la infinitivo kun **-ía**, t.e. la indikativa prete
 
 La subjunktiva futuro ankaŭ nomiĝas kondicionalo.
 
-### Participo kaj Gerundio
+### Imperativo
+
+La imperativo egalas al la indikativa prezenco.
+
+| | |
+|-|-|
+| *vidu*  | **vide** |
+| *aŭdu*  | **audi** |
+| *legu*  | **legĕ** |
+| *faru*  | **facĕ** |
+| *amu*   | **ama**  |
+
+### Participo kaj Gerundio <!-- ĩ -->
 
 La participo finiĝas je **-nte** respektive **-ndo**. ĕ-verboj kondutas kiel e-verboj, kaj ĭ-verboj kondutas kiel i-verboj.
 
@@ -373,26 +385,6 @@ La gerundio finiĝas je **-ndo** kaj kondutas kiel la participo.
 
 
 -----
-
-
-**ĭ-/ĕ-Verboj:**
-ĭ-verboj kondutas kaj skribiĝas kiel ĕ-verboj, krom en ___Simple Present Subjunctive___.
-
-| | |
-|-|-|
-| *mi faras* | ~~me facĭ~~ → **me facĕ** |
-| *mi agas*  |               **me agĕ**  |
-
-___Simple Present Subjunctive___**:**
-ĭ-verboj kondutas kiel i-verboj, dum ĕ-verboj perdas sian **e**. a-verboj perdas sian **a** kaj finiĝas je **-e** anstataŭe.
-
-| | |
-|-|-|
-| *mi faru* | ~~me facĭa~~ → **me facia** | <!-- TODO do multaj ĭ-oj estu i-oj en la ortografio de Lingua -->
-| | |
-| *mi agu*  | ~~me agĕa~~  → **me aga**   |
-| | |
-| *mi amu*  | ~~me amaa~~  → **me ame**   |
 
 **Pasiva participo:**
 Anstataŭ la finaĵoj por la ___Perfect___, oni povas uzi la verbon **há** kun pasiva participo (je **-to**). <!-- habe -->
@@ -724,3 +716,4 @@ e-verboj kaj ĕ-verboj perdas sian **e**/**ĕ** en la ___Perfect___. Ĉe ĕ-verb
 | **solvĭto** | **soluto** |
 | **volvĭto** | **voluto** |
 
+<!-- TODO do multaj ĭ-oj estu i-oj en la ortografio de Lingua -->
