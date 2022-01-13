@@ -519,26 +519,45 @@ La participo finiĝas je **-to**. e- kaj ĕ-verboj kondutas kiel ĭ-verboj, t.e.
 
 # Malregulaj Verboj
 
+## essĕre
+
+La la prezenco, la verbo **essĕ** fariĝas **es**. Antaŭ konjugacia finaĵo, ĝi ŝanĝiĝas.
+
+| | | |
+|-|-|-|
+| *mi estas*       | ~~me essĕ~~     → **me es**     | ~~essio~~    → **so**     |
+| *ci estas*       | ~~te essĕ~~     → **te es**     | ~~essĕs~~    → **es**     |
+| *li estas*       | ~~ille essĕ~~   → **ille es**   | ~~essĕt~~    → **est**    |
+| *ni estas*       | ~~nos essĕ~~    → **nos es**    | ~~essĕmus~~  → **semus**  |
+| *vi estas*       | ~~vos essĕ~~    → **vos es**    | ~~essĕtis~~  → **estis**  |
+| *ili estas*      | ~~illes essĕ~~  → **illes es**  | ~~essĕnt~~   → **sent**   |
+| | | |
+| *(ke) mi estas*  | ~~me essia~~    → **me sia**    | ~~essiam~~   → **siam**   |
+| *(ke) ci estas*  | ~~te essia~~    → **te sia**    | ~~essias~~   → **sias**   |
+| *(ke) li estas*  | ~~ille essia~~  → **ille sia**  | ~~essiat~~   → **siat**   |
+| *(ke) ni estas*  | ~~nos essia~~   → **nos sia**   | ~~essiamus~~ → **siamus** |
+| *(ke) vi estas*  | ~~vos essia~~   → **vos sia**   | ~~essiatis~~ → **siatis** |
+| *(ke) ili estas* | ~~illes essia~~ → **illes sia** | ~~essiant~~  → **siant**  |
+
 ## ire
 
 En la prezenco, la verbo **i** anstataŭiĝas per **vadĕ**. En la indikativa prezenco, **vadĕ** fariĝas **vá**.
 
 | | | | |
 |-|-|-|-|
+| *mi iras*       | ~~io~~    | ~~me vadĕ~~    → **me vá**       | ~~vado~~    → **vó**      |
+| *ci iras*       | ~~is~~    | ~~te vadĕ~~    → **te vá**       | ~~vadĕs~~   → **vás**     |
+| *li iras*       | ~~it~~    | ~~ille vadĕ~~  → **ille vá**     | ~~vadĕt~~   → **vát**     |
+| *ni iras*       | ~~imus~~  | ~~nos vadĕ~~   → **nos vá**      | ~~vadĕmus~~ → **vámus**   |
+| *vi iras*       | ~~itis~~  | ~~vos vadĕ~~   → **vos vá**      | ~~vadĕtis~~ → **vátis**   |
+| *ili iras*      | ~~ient~~  | ~~illes vadĕ~~ → **illes vá**    | ~~vadĕnt~~  → **vánt**    |
 | | | | |
-| *mi iras*        | ~~io~~    | ~~me vadĕ~~    → **me vá**       | ~~vado~~    → **vó**      |
-| *ci iras*        | ~~is~~    | ~~te vadĕ~~    → **te vá**       | ~~vadĕs~~   → **vás**     |
-| *li iras*        | ~~it~~    | ~~ille vadĕ~~  → **ille vá**     | ~~vadĕt~~   → **vát**     |
-| *ni iras*        | ~~imus~~  | ~~nos vadĕ~~   → **nos vá**      | ~~vadĕmus~~ → **vámus**   |
-| *vi iras*        | ~~itis~~  | ~~vos vadĕ~~   → **vos vá**      | ~~vadĕtis~~ → **vátis**   |
-| *ili iras*       | ~~ient~~  | ~~illes vadĕ~~ → **illes vá**    | ~~vadĕnt~~  → **vánt**    |
-| | | | |
-| *(ke) mi iras*   | ~~iam~~   |                  **me vada**     |               **vadam**   |
-| *(ke) ci iras*   | ~~ias~~   |                  **te vada**     |               **vadas**   |
-| *(ke) li iras*   | ~~iat~~   |                  **ille vada**   |               **vadat**   |
-| *(ke) ni iras*   | ~~iamus~~ |                  **nos vada**    |               **vadamus** |
-| *(ke) vi iras*   | ~~iatis~~ |                  **vos vada**    |               **vadatis** |
-| *(ke) ili iras*  | ~~iant~~  |                  **illes vada**  |               **vadant**  |
+| *(ke) mi iras*  | ~~iam~~   |                  **me vada**     |               **vadam**   |
+| *(ke) ci iras*  | ~~ias~~   |                  **te vada**     |               **vadas**   |
+| *(ke) li iras*  | ~~iat~~   |                  **ille vada**   |               **vadat**   |
+| *(ke) ni iras*  | ~~iamus~~ |                  **nos vada**    |               **vadamus** |
+| *(ke) vi iras*  | ~~iatis~~ |                  **vos vada**    |               **vadatis** |
+| *(ke) ili iras* | ~~iant~~  |                  **illes vada**  |               **vadant**  |
 
 En la preterito, la finaĵo **-ba** mallongiĝas al **-a**.
 
@@ -585,16 +604,6 @@ En la perfekto, uziĝas **essĕ**.
 
 ##### essĕre
 
-| | **essĕre** |
-|-|-|
-| *estas*     | ~~essĕ~~    → **es**    |
-| | |
-| *mi estas*  | ~~essĕm~~   → **sem**   | <!-- sio → sem -->
-| *ci estas*  | ~~essĕs~~   → **es**    |
-| *li estas*  | ~~essĕt~~   → **est**   |
-| *ni estas*  | ~~essĕmus~~ → **semus** |
-| *vi estas*  | ~~essĕtis~~ → **estis** |
-| *ili estas* | ~~essĕnt~~  → **sent**  |
 
 |               | | ___Ind.___            | ___Subj.___                | | ___Ind.___               | ___Subj.___                |
 |-|-|-|-|-|-|-|
