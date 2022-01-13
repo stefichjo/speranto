@@ -275,16 +275,39 @@ Por la imperativo, uziĝas la infinitiva formo sen **-re**, kun la ŝajnfinaĵo 
 
 ### Prezenco
 
+| | |
+|-|-|
+| *mi*      | **-m**   |
+| *ci*      | **-s**   |
+| *ri*/*ĝi* | **-t**   |
+| *ni*      | **-mus** |
+| *vi*      | **-tis** |
+| *ili*     | **-nt**  |
+
 **Indikativo:**
-ĭ-verboj kondutas kiel ĕ-verboj. <!-- -o -->
+ĭ-verboj kondutas kiel ĕ-verboj.
 
 | | |
 |-|-|
-| *ni vidas* | **nos vide**  | **videmus**  |
-| *ni aŭdas* | **nos audi**  | **audimus**  |
-| *ni legas* | **nos legĕ**  | **legĕmus**  |
-| *ni faras* | **nos facĕ**  | **facĕmus**  |
-| *ni amas*  | **nos ama**   | **amamus**   |
+| *ni vidas* | **nos vide** | **videmus** |
+| *ni aŭdas* | **nos audi** | **audimus** |
+| *ni legas* | **nos legĕ** | **legĕmus** |
+| *ni faras* | **nos facĕ** | **facĕmus** |
+| *ni amas*  | **nos ama**  | **amamus**  |
+
+La mi-formo similas al la indikativa prezenco en la subjunktivo kun la finaĵo **-o**.
+
+| | |
+|-|-|
+| *mi vidas* | **me vide** | **video** |
+| *mi aŭdas* | **me audi** | **audio** |
+| *mi faras* | **me facĕ** | **facio** |
+
+La ili-formo de i-verboj havas **ie** anstataŭ **i**.
+
+| | |
+|-|-|
+| *ili aŭdas* | **illes audi** | **audient** |
 
 **Subjunktivo:**
 ĭ-verboj kondutas kiel i-verboj. La radikofina vokalo de ĕ- kaj a-verboj eliziĝas. Anstataŭ **-a**, a-verbo akceptas la finaĵon **-e**.
@@ -349,11 +372,11 @@ La subjunktiva futuro estas la infinitivo kun **-ía**, t.e. la indikativa prete
 
 | | | |
 |-|-|-|
-| *ni vidus*  | ~~nos videriba~~ → **nos videría** | ~~videribam~~ → **videríam** |
-| *ni aŭdus*  | ~~nos audiriba~~ → **nos audiría** | ~~audiribam~~ → **audiríam** |
-| *ni legus*  | ~~nos legĕriba~~ → **nos legĕría** | ~~legĕribam~~ → **legĕríam** |
-| *ni farus*  | ~~nos facĕriba~~ → **nos facĕría** | ~~facĕribam~~ → **facĕríam** |
-| *ni amus*   | ~~nos amariba~~  → **nos amaría**  | ~~amaribam~~  → **amaríam**  |
+| *ni vidus*  | ~~nos videriba~~ → **nos videría** | ~~videribamus~~ → **videríamus** |
+| *ni aŭdus*  | ~~nos audiriba~~ → **nos audiría** | ~~audiribamus~~ → **audiríamus** |
+| *ni legus*  | ~~nos legĕriba~~ → **nos legĕría** | ~~legĕribamus~~ → **legĕríamus** |
+| *ni farus*  | ~~nos facĕriba~~ → **nos facĕría** | ~~facĕribamus~~ → **facĕríamus** |
+| *ni amus*   | ~~nos amariba~~  → **nos amaría**  | ~~amaribamus~~  → **amaríamus**  |
 
 La subjunktiva futuro kutime nomiĝas kondicionalo.
 
@@ -494,98 +517,44 @@ La participo finiĝas je **-to**. e- kaj ĕ-verboj kondutas kiel ĭ-verboj, t.e.
 | *ni farintas*  | ~~nos habe facĭto~~ → **nos há facĭto** | ~~habemus facto~~  → **hémus facto**  |
 | *ni legintas*  | ~~nos habe legĭto~~ → **nos há legĭto** | ~~habemus lecto~~  → **hémus lecto**  |
 
-<!-- ... -->
+# Malregulaj Verboj
+
+## ire
+
+En la prezenco, la verbo **i** anstataŭiĝas per **vadĕ**. En la indikativa prezenco, **vadĕ** fariĝas **vá**.
+
+| | | | |
+|-|-|-|-|
+| | | | |
+| *mi iras*        | ~~io~~    | ~~me vadĕ~~    → **me vá**       | ~~vado~~    → **vó**      |
+| *ci iras*        | ~~is~~    | ~~te vadĕ~~    → **te vá**       | ~~vadĕs~~   → **vás**     |
+| *li iras*        | ~~it~~    | ~~ille vadĕ~~  → **ille vá**     | ~~vadĕt~~   → **vát**     |
+| *ni iras*        | ~~imus~~  | ~~nos vadĕ~~   → **nos vá**      | ~~vadĕmus~~ → **vámus**   |
+| *vi iras*        | ~~itis~~  | ~~vos vadĕ~~   → **vos vá**      | ~~vadĕtis~~ → **vátis**   |
+| *ili iras*       | ~~ient~~  | ~~illes vadĕ~~ → **illes vá**    | ~~vadĕnt~~  → **vánt**    |
+| | | | |
+| *(ke) mi iras*   | ~~iam~~   |                  **me vada**     |               **vadam**   |
+| *(ke) ci iras*   | ~~ias~~   |                  **te vada**     |               **vadas**   |
+| *(ke) li iras*   | ~~iat~~   |                  **ille vada**   |               **vadat**   |
+| *(ke) ni iras*   | ~~iamus~~ |                  **nos vada**    |               **vadamus** |
+| *(ke) vi iras*   | ~~iatis~~ |                  **vos vada**    |               **vadatis** |
+| *(ke) ili iras*  | ~~iant~~  |                  **illes vada**  |               **vadant**  |
+
+En la preterito, la finaĵo **-ba** mallongiĝas al **-a**.
+
+| | |
+|-|-|
+| *mi iris*   | ~~me iba~~     → **me ía**     | ~~ibam~~   → **íam**   |
+| *ci iris*   | ~~te iba~~     → **te ía**     | ~~ibas~~   → **ías**   |
+| *li iris*   | ~~ille iba~~   → **ille ía**   | ~~ibat~~   → **íat**   |
+| *ni iris*   | ~~nos iba~~    → **nos ía**    | ~~ibamus~~ → **íamus** |
+| *vi iris*   | ~~vos iba~~    → **vos ía**    | ~~ibatis~~ → **íatis** |
+| *ili iris*  | ~~illes iba~~  → **illes ía**  | ~~ibant~~  → **íant**  |
+
+En la perfektaj tempoj, uziĝas **essĕ**.
 
 -----
 
-**Pasiva participo:**
-Anstataŭ la finaĵoj por la ___Perfect___, oni povas uzi la verbon **há** kun pasiva participo (je **-to**). <!-- habe -->
-
-| | | |
-|-|-|-|
-| *mi estas kantinta* | **me cantáu** | **me há cantato** |
-| | | |
-| *mi estas dorminta* | **me dormíu** | **me há dormito** |
-| | | |
-| *mi estas devinta*  | **me debéu**  | **me há debĭto**  |
-| | | |
-| *mi estas farinta*  | **me facéu**  | **me há facĭto**  |
-| | | |
-| *mi estas gvidinta* | **me ducéu**  | **me há ducĭto**  |
-
-#### Poezio
-
-| | poezie |
-|-|-|
-| *mi*      | **-m**   |
-| *ci*      | **-s**   |
-| *ri*/*ĝi* | **-t**   |
-| *ni*      | **-mus** |
-| *vi*      | **-tis** |
-| *ili*     | **-nt**  |
-
-| | | poezie |
-|-|-|-|
-| *ni amas*   | **nos ama**   | **amamus**   |
-| *ni venas*  | **nos veni**  | **venimus**  |
-| *ni vidas*  | **nos tene**  | **tenemus**  |
-| *ni faras*  | **nos facĕ**  | **facĕmus**  |
-| *ni legas*  | **nos legĕ**  | **legĕmus**  |
-
-##### Simple Present Subjunctive
-
-La ___Simple Present Indicative___ similas al la ___Simple Present Subjunctive___, sed anstataŭ **-am** respektive **-em** uziĝas **-o**.
-
-| | | poezie |
-|-|-|-|
-| *mi amas*   | **me ama**   | ~~amam~~   → **amo**   |
-| *mi venas*  | **me veni**  | ~~venim~~  → **venio** |
-| *mi vidas*  | **me vide**  | ~~videm~~  → **video** |
-| *mi faras*  | **mi facĕ**  | ~~facĕm~~  → **facio** |
-| *mi venkas* | **mi vincĕ** | ~~vincĕm~~ → **vinco** |
-
-##### ire
-
-| | **ire** |
-|-|-|
-| *iras*      | ~~í~~    → **vá**    |
-| | |
-| *mi iras*   | ~~io~~   → **vó**    |
-| *ci iras*   | ~~ís~~   → **vás**   |
-| *li iras*   | ~~ít~~   → **vát**   |
-| *ni iras*   | ~~ímus~~ → **vámus** |
-| *vi iras*   | ~~ítis~~ → **vátis** |
-| *ili iras*  | ~~ínt~~  → **vánt**  |
-
-<!-- por esprimi la estontecon: me vá íre ad la schola. -->
-
-Tra bruo, **vó** fariĝas **vado**, kaj **vá** fariĝas **vadĕ**.
-
-| | **ire** |
-|-|-|
-| *(ke) iru*      | ~~ia~~      → **vada**     |
-| | |
-| *(ke) mi iru*   | ~~iam~~     → **vadam**    |
-| *(ke) ci iru*   | ~~ias~~     → **vadas**    |
-| *(ke) li iru*   | ~~iat~~     → **vadat**    |
-| *(ke) ni iru*   | ~~iamus~~   → **vadamus**  |
-| *(ke) vi iru*   | ~~iatis~~   → **vadatis**  |
-| *(ke) ili iru*  | ~~iant~~    → **vadant**   |
-
-| | **ire** |
-|-|-|
-| *iris*      | ~~iba~~    → **ía**    |
-| | |
-| *mi iris*   | ~~ibam~~   → **íam**   |
-| *ci iris*   | ~~ibas~~   → **ías**   |
-| *li iris*   | ~~ibat~~   → **íat**   |
-| *ni iris*   | ~~ibamus~~ → **íamus** |
-| *vi iris*   | ~~ibatis~~ → **íatis** |
-| *ili iris*  | ~~ibant~~  → **íant**  |
-
-Tra bruo, **í** fariĝas **ib**. (Tiam la **a** en **ibamus** kaj **ibatis** estas akcentata.)
-
-En la ___Perfect___, uziĝas la radiko de **essĕre**.
 
 ##### habere
 
