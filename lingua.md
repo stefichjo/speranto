@@ -668,11 +668,7 @@ En la perfekto, uziĝas **essĕ**.
 | | | | | | | |
 | ***Futuro***    | | **irá**    | **iría**    | | | |
 
------
-
-
-
-##### Pasiva Participo
+## Pasivaj Participoj
 
 **a-Verboj:**
 
@@ -778,6 +774,8 @@ En la perfekto, uziĝas **essĕ**.
 | **gradĭto**  | **grässo** | <!-- ä -->
 | **laedĭto**  | **laeso**  |
 | **plaudĭto** | **plauso** |
+| **plodĭto**  | **ploso**  |
+| **radĭto**   | **raso**   |
 | **-vadĭto**  | **-vaso**  |
 | | |
 | ***-nd-*** | |
@@ -851,8 +849,5 @@ En la perfekto, uziĝas **essĕ**.
 | ***-v-*** | |
 | **solvĭto** | **soluto** |
 | **volvĭto** | **voluto** |
-
-<!-- plodere -->
-<!-- radere -->
 
 <!-- TODO do multaj ĭ-oj estu i-oj en la ortografio de Lingua -->
