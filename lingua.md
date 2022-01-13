@@ -554,19 +554,53 @@ En la futuro, **essĕrá**/**essĕría** fariĝas **será**/**sería**.
 
 | | | |
 |-|-|-|
-| *mi estos*  | ~~me essĕrabe~~    → **me será**     | ~~essĕrabeo~~    → **seró**    |
-| *ci estos*  | ~~te essĕrabe~~    → **te será**     | ~~essĕrabes~~    → **serás**   |
-| *li estos*  | ~~ille essĕrabe~~  → **ille será**   | ~~essĕrabet~~    → **serát**   |
-| *ni estos*  | ~~nos essĕrabe~~   → **nos será**    | ~~essĕrabemus~~  → **serámus** |
-| *vi estos*  | ~~vos essĕrabe~~   → **vos será**    | ~~essĕrabetis~~  → **serátis** |
-| *ili estos* | ~~illes essĕrabe~~ → **illes será**  | ~~essĕrabent~~   → **seránt**  |
+| *mi estos*  | ~~me essĕrabe~~    → **me será**     | ~~essĕrabeo~~    → **seró**     |
+| *ci estos*  | ~~te essĕrabe~~    → **te será**     | ~~essĕrabes~~    → **serás**    |
+| *li estos*  | ~~ille essĕrabe~~  → **ille será**   | ~~essĕrabet~~    → **serát**    |
+| *ni estos*  | ~~nos essĕrabe~~   → **nos será**    | ~~essĕrabemus~~  → **serámus**  |
+| *vi estos*  | ~~vos essĕrabe~~   → **vos será**    | ~~essĕrabetis~~  → **serátis**  |
+| *ili estos* | ~~illes essĕrabe~~ → **illes será**  | ~~essĕrabent~~   → **seránt**   |
 | | | |
-| *mi estus*  | ~~me essĕriba~~    → **me sería**    | ~~essĕribam~~    → **seríam**    |
+| *mi estus*  | ~~me essĕriba~~    → **me sería**    | ~~essĕribam~~    → **seríam**   |
 | *ci estus*  | ~~te essĕriba~~    → **te sería**    | ~~essĕribas~~    → **serías**   |
 | *li estus*  | ~~ille essĕriba~~  → **ille sería**  | ~~essĕribat~~    → **seríat**   |
 | *ni estus*  | ~~nos essĕriba~~   → **nos sería**   | ~~essĕribamus~~  → **seríamus** |
 | *vi estus*  | ~~vos essĕriba~~   → **vos sería**   | ~~essĕribatis~~  → **seríatis** |
 | *ili estus* | ~~illes essĕriba~~ → **illes sería** | ~~essĕribant~~   → **seríant**  |
+
+<!-- fu -->
+
+En la perfekto, **esséu** fariĝas **fu**.
+
+| | | |
+|-|-|-|
+| *mi estintas*       | ~~me esséu~~        → **me fu**        | ~~essii~~        → **fuii**      |
+| *ci estintas*       | ~~te esséu~~        → **te fu**        | ~~essisti~~      → **fuisti**    |
+| *li estintas*       | ~~ille esséu~~      → **ille fu**      | ~~essit~~        → **fuit**      |
+| *ni estintas*       | ~~nos esséu~~       → **nos fu**       | ~~essĭmus~~      → **fuĭmus**    |
+| *vi estintas*       | ~~vos esséu~~       → **vos fu**       | ~~essistis~~     → **fuistis**   |
+| *ili estintas*      | ~~illes esséu~~     → **illes fu**     | ~~esserunt~~     → **fuerunt**   |
+| | | |
+| *(ke) mi estintas*  | ~~me essĕverĭ~~     → **me fuerĭ**     | ~~essĕverĭm~~    → **fuerĭm**    |
+| *(ke) ci estintas*  | ~~te essĕverĭ~~     → **te fuerĭ**     | ~~essĕverĭs~~    → **fuerĭs**    |
+| *(ke) li estintas*  | ~~ille essĕverĭ~~   → **ille fuerĭ**   | ~~essĕverĭt~~    → **fuerĭt**    |
+| *(ke) ni estintas*  | ~~nos essĕverĭ~~    → **nos fuerĭ**    | ~~essĕverĭmus~~  → **fuerĭmus**  |
+| *(ke) vi estintas*  | ~~vos essĕverĭ~~    → **vos fuerĭ**    | ~~essĕverĭtis~~  → **fuerĭtis**  |
+| *(ke) ili estintas* | ~~illes essĕverĭ~~  → **illes fuerĭ**  | ~~essĕverĭnt~~   → **fuerĭnt**   |
+| | | |
+| *mi estintis*       | ~~me essĕvera~~     → **me fuera**     | ~~essĕveram~~    → **fueram**    |
+| *ci estintis*       | ~~te essĕvera~~     → **te fuera**     | ~~essĕveras~~    → **fueras**    |
+| *li estintis*       | ~~ille essĕvera~~   → **ille fuera**   | ~~essĕverat~~    → **fuerat**    |
+| *ni estintis*       | ~~nos essĕvera~~    → **nos fuera**    | ~~essĕveramus~~  → **fueramus**  |
+| *vi estintis*       | ~~vos essĕvera~~    → **vos fuera**    | ~~essĕveratis~~  → **fueratis**  |
+| *ili estintis*      | ~~illes essĕvera~~  → **illes fuera**  | ~~essĕverant~~   → **fuerant**   |
+| | | |
+| *(ke) mi estintis*  | ~~me essĕvisse~~    → **me fuisse**    | ~~essĕvissem~~   → **fuissem**   |
+| *(ke) ci estintis*  | ~~te essĕvisse~~    → **te fuisse**    | ~~essĕvisses~~   → **fuisses**   |
+| *(ke) li estintis*  | ~~ille essĕvisse~~  → **ille fuisse**  | ~~essĕvisset~~   → **fuisset**   |
+| *(ke) ni estintis*  | ~~nos essĕvisse~~   → **nos fuisse**   | ~~essĕvissemus~~ → **fuissemus** |
+| *(ke) vi estintis*  | ~~vos essĕvisse~~   → **vos fuisse**   | ~~essĕvissetis~~ → **fuissetis** |
+| *(ke) ili estintis* | ~~illes essĕvisse~~ → **illes fuisse** | ~~essĕvissent~~  → **fuissent**  |
 
 |                 | | ***Ind.*** | ***Subj.*** | | ***Ind.*** | ***Subj.*** |
 |-|-|-|-|-|-|-|
