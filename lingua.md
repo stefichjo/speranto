@@ -253,15 +253,15 @@ Por la imperativo, uziĝas la infinitiva formo sen **-re**, kun la ŝajnfinaĵo 
 
 # Konjugacio
 
-|                 | | ***Ind.***   | ***Subj.*** | | ***Ind.*** | ***Subj.*** |
+|                 | | ***Ind.*** | ***Subj.*** | | ***Ind.*** | ***Subj.*** |
 |-|-|-|-|-|-|-|
-| | | ***Imperfekto*** | | | ***Perfekto*** | |
+|                 | | ***Imperfekto*** |       | | ***Perfekto*** |         |
 | | | | | | | |
-| ***Prezenco***  | | **-**        | **-a**      | | **-u**     | **-uerĭ**   |
+| ***Prezenco***  | | **-**      | **-a**      | | **-u**     | **-rĭ**     |
 | | | | | | | |
-| ***Preterito*** | | **-ba**      | **-re**     | | **-uera**  | **-uisse**  |
+| ***Preterito*** | | **-ba**    | **-re**     | | **-ra**    | **-sse**    |
 | | | | | | | |
-| ***Futuro***    | | **-rá**      | **-ría**    | | | |
+| ***Futuro***    | | **-rá**    | **-ría**    | | | |
 
 ## Imperfekto <!-- ? -->
 
@@ -321,12 +321,15 @@ Por la imperativo, uziĝas la infinitiva formo sen **-re**, kun la ŝajnfinaĵo 
 | *(ke) ni faris*  | **nos facĕre** | **facĕremus** |
 | *(ke) ni amis*   | **nos amare**  | **amaremus**  |
 
-La formo de la subjunktiva preterito estas egala al la infinitivo.
+La formo de la subjunktiva preterito estas egala al la infinitivo. Pere de la verbo **vadĕ** kaj la infinitivo oni povas esprimi futuron.
 
-<!-- Kontraŭfakta aserto: -->
-<!-- Si haberem tempo, scribĕrem libro. -->
-<!-- Si habeba tempo, scribĕría libro. -->
-<!-- Se mi havus tempon, mi skribus libron. -->
+| | | |
+|-|-|-|
+| *ni vidos*  | ~~nos vadĕ videre~~ → **nos vá videre** | ~~vadĕmus videre~~ → **vámus videre** |
+| *ni aŭdos*  | ~~nos vadĕ audire~~ → **nos vá audire** | ~~vadĕmus audire~~ → **vámus audire** |
+| *ni legos*  | ~~nos vadĕ legĕre~~ → **nos vá legĕre** | ~~vadĕmus legĕre~~ → **vámus legĕre** |
+| *ni faros*  | ~~nos vadĕ facĕre~~ → **nos vá facĕre** | ~~vadĕmus facĕre~~ → **vámus facĕre** |
+| *ni amos*   | ~~nos vadĕ amare~~  → **nos vá amare**  | ~~vadĕmus amare~~  → **vámus amare**  |
 
 ### Futuro
 
@@ -335,24 +338,24 @@ La indikativa futuro estas la infinitivo kun **-á**, t.e. la indikativa prezenc
 
 | | | |
 |-|-|-|
-| *mi vidos*  | **me viderá** | **viderám** |
-| *mi aŭdos*  | **me audirá** | **audirám** |
-| *mi legos*  | **me legĕrá** | **legĕrám** |
-| *mi faros*  | **me facĕrá** | **facĕrám** |
-| *mi amos*   | **me amará**  | **amarám**  |
+| *ni vidos*  | ~~nos viderabe~~ → **nos viderá** | ~~viderabemus~~ → **viderémus** |
+| *ni aŭdos*  | ~~nos audirabe~~ → **nos audirá** | ~~audirabemus~~ → **audirémus** |
+| *ni legos*  | ~~nos legĕrabe~~ → **nos legĕrá** | ~~legĕrabemus~~ → **legĕrémus** |
+| *ni faros*  | ~~nos facĕrabe~~ → **nos facĕrá** | ~~facĕrabemus~~ → **facĕrémus** |
+| *ni amos*   | ~~nos amarabe~~  → **nos amará**  | ~~amarabemus~~  → **amarémus**  |
 
 **Subjunktivo:**
 La subjunktiva futuro estas la infinitivo kun **-ía**, t.e. la indikativa preterito de verbo **ire**.
 
 | | | |
 |-|-|-|
-| *mi vidus*  | **me videría** | **videríam** |
-| *mi aŭdus*  | **me audiría** | **audiríam** |
-| *mi legus*  | **me legĕría** | **legĕríam** |
-| *mi farus*  | **me facĕría** | **facĕríam** |
-| *mi amus*   | **me amaría**  | **amaríam**  |
+| *ni vidus*  | ~~nos videriba~~ → **nos videría** | ~~videribam~~ → **videríam** |
+| *ni aŭdus*  | ~~nos audiriba~~ → **nos audiría** | ~~audiribam~~ → **audiríam** |
+| *ni legus*  | ~~nos legĕriba~~ → **nos legĕría** | ~~legĕribam~~ → **legĕríam** |
+| *ni farus*  | ~~nos facĕriba~~ → **nos facĕría** | ~~facĕribam~~ → **facĕríam** |
+| *ni amus*   | ~~nos amariba~~  → **nos amaría**  | ~~amaribam~~  → **amaríam**  |
 
-La subjunktiva futuro ankaŭ nomiĝas kondicionalo.
+La subjunktiva futuro kutime nomiĝas kondicionalo.
 
 ### Imperativo
 
@@ -393,14 +396,15 @@ La gerundio finiĝas je **-ndo** kaj kondutas kiel la participo.
 |                 | ***Ind.*** | ***Subj.*** |
 |-|-|-|
 | | | |
-| ***Prezenco***  | **-u**     | **-uerĭ**   |
+| ***Prezenco***  | **-u**     | **-rĭ**     |
 | | | |
-| ***Preterito*** | **-uera**  | **-uisse**  |
+| ***Preterito*** | **-ra**    | **-sse**    |
+
+La radikofina vokalo antaŭ la perfektaj finaĵoj akcentiĝas.
 
 ### Prezenco
 
 **Indikativo:**
-La radikofina vokalo antaŭ la finaĵo **-u** akcentiĝas.
 
 | | |
 |-|-|
@@ -422,31 +426,31 @@ La konjugacia finaĵo **-it** uziĝas nur kiam la perfekta radiko estas diversa 
 | *ŝi kantintas* | **alle cantáu**  | **cantáu** |
 | *ĝi estintas*  | **elle esséu**   | **fuit**   |
 
-Kun konjunkcia finaĵo, la akcento sur la radikofina vokalo malaperas. Antaŭ la konjunkcia finaĵo, **éu** respektive **ev**/**ĕv** malaperas.
+Antaŭ konjunkcia finaĵo, **év** malaperas.
 
 | | | |
 |-|-|-|
-| *ni vidintas*  | **nos vidéu** | ~~videvĭmus~~ → **vidĭmus**  |
-| *ni farintas*  | **nos facéu** | ~~facĕvĭmus~~ → **facĭmus**  |
-| *ni legintas*  | **nos legéu** | ~~legĕvĭmus~~ → **legĭmus**  |
+| *ni vidintas*  | **nos vidéu** | ~~vidévĭmus~~ → **vidĭmus**  |
+| *ni farintas*  | **nos facéu** | ~~facévĭmus~~ → **facĭmus**  |
+| *ni legintas*  | **nos legéu** | ~~legévĭmus~~ → **legĭmus**  |
 
-Post **á** kaj **í** eliziiĝas **u** respektive **v** kune kun la vokala komenco de la konjunkcia finaĵo.
+**vi**/**ve** malaperas.
 
 | | | |
 |-|-|-|
-| *ni amintas*   | **nos amáu**  | ~~amavĭmus~~  → ~~amáĭmus~~ → **amámus**   |
-| *ni aŭdintas*  | **nos audíu** | ~~audivĭmus~~ → ~~audíĭmus~~ → **audímus**  |
+| *ni amintas*   | **nos amáu**  | ~~amávĭmus~~  → **amámus**   |
+| *ni aŭdintas*  | **nos audíu** | ~~audívĭmus~~ → **audímus**  |
 
 **Subjunktivo:**
-**ue** respektive **ve** malaperas antaŭ konjugacia finaĵo.
+**ve** malaperas antaŭ konjugacia finaĵo.
 
 | | | |
 |-|-|-|
-| *(ke) ni amintas*   | **nos amaverĭ**  | ~~amaverĭmus~~  → **amárĭmus**  |
-| *(ke) ni aŭdintas*  | **nos audiverĭ** | ~~audiverĭmus~~ → **audírĭmus** |
-| *(ke) ni vidintas*  | **nos videverĭ** | ~~videverĭmus~~ → **vidérĭmus** |
-| *(ke) ni farintas*  | **nos facĕverĭ** | ~~facĕverĭmus~~ → **facérĭmus** |
-| *(ke) ni legintas*  | **nos legĕverĭ** | ~~legĕverĭmus~~ → **legérĭmus** |
+| *(ke) ni amintas*   | ~~nos amaverĭ~~  → **nos amárĭ**  | ~~amaverĭmus~~  → **amárĭmus**  |
+| *(ke) ni aŭdintas*  | ~~nos audiverĭ~~ → **nos audírĭ** | ~~audiverĭmus~~ → **audírĭmus** |
+| *(ke) ni vidintas*  | ~~nos videverĭ~~ → **nos vidérĭ** | ~~videverĭmus~~ → **vidérĭmus** |
+| *(ke) ni farintas*  | ~~nos facĕverĭ~~ → **nos facérĭ** | ~~facĕverĭmus~~ → **facérĭmus** |
+| *(ke) ni legintas*  | ~~nos legĕverĭ~~ → **nos legérĭ** | ~~legĕverĭmus~~ → **legérĭmus** |
 
 ### Preterito
 
@@ -454,26 +458,21 @@ Post **á** kaj **í** eliziiĝas **u** respektive **v** kune kun la vokala kome
 
 | | | |
 |-|-|-|
-| *ni amintis*   | **nos amavera**  | ~~amaveramus~~  → **amáramus**  |
-| *ni aŭdintis*  | **nos audivera** | ~~audiveramus~~ → **audíramus** |
-| *ni vidintis*  | **nos videvera** | ~~videveramus~~ → **vidéramus** |
-| *ni farintis*  | **nos facĕvera** | ~~facĕveramus~~ → **facéramus** |
-| *ni legintis*  | **nos legĕvera** | ~~legĕveramus~~ → **legéramus** |
+| *ni amintis*   | ~~nos amavera~~  → **nos amára**  | ~~amaveramus~~  → **amáramus**  |
+| *ni aŭdintis*  | ~~nos audivera~~ → **nos audíra** | ~~audiveramus~~ → **audíramus** |
+| *ni vidintis*  | ~~nos videvera~~ → **nos vidéra** | ~~videveramus~~ → **vidéramus** |
+| *ni farintis*  | ~~nos facĕvera~~ → **nos facéra** | ~~facĕveramus~~ → **facéramus** |
+| *ni legintis*  | ~~nos legĕvera~~ → **nos legéra** | ~~legĕveramus~~ → **legéramus** |
 
 **Subjunktivo:**
 
 | | | |
 |-|-|-|
-| *(ke) ni amintis*   | **nos amavisse**  | **amássemus**  |
-| *(ke) ni aŭdintis*  | **nos audivisse** | **audíssemus** |
-| *(ke) ni vidintis*  | **nos videvisse** | **vidéssemus** |
-| *(ke) ni farintis*  | **nos facĕvisse** | **facéssemus** |
-| *(ke) ni legintis*  | **nos legĕvisse** | **legéssemus** |
-
-<!-- Kontraŭfakta aserto: -->
-<!-- Si habéssem tempo, scribéssem libro. -->
-<!-- Si habebam habĭto tempo, habería scripto libro. -->
-<!-- Se mi hav-int-us tempon, mi skrib-int-us libron. -->
+| *(ke) ni amintis*   | ~~nos amavisse~~  → **nos amásse**  | ~~amavissemus~~  → **amássemus**  |
+| *(ke) ni aŭdintis*  | ~~nos audivisse~~ → **nos audísse** | ~~audivissemus~~ → **audíssemus** |
+| *(ke) ni vidintis*  | ~~nos videvisse~~ → **nos vidésse** | ~~videvissemus~~ → **vidéssemus** |
+| *(ke) ni farintis*  | ~~nos facĕvisse~~ → **nos facésse** | ~~facĕvissemus~~ → **facéssemus** |
+| *(ke) ni legintis*  | ~~nos legĕvisse~~ → **nos legésse** | ~~legĕvissemus~~ → **legéssemus** |
 
 ### Participo
 
@@ -487,9 +486,13 @@ La participo finiĝas je **-to**. e- kaj ĕ-verboj kondutas kiel ĭ-verboj, t.e.
 | *farita*  | **facĭto** | **facto**  |
 | *legita*  | **legĭto** | **lecto**  |
 
-<!-- plodere -->
-<!-- radere -->
-
+| | | |
+|-|-|-|
+| *ni amintas*   | ~~nos habe amato~~  → **nos há amato**  | ~~habemus amato~~  → **hémus amato**  |
+| *ni aŭdintas*  | ~~nos habe audito~~ → **nos há audito** | ~~habemus audito~~ → **hémus audito** |
+| *ni vidintas*  | ~~nos habe vidĭto~~ → **nos há vidĭto** | ~~habemus viso~~   → **hémus viso**   |
+| *ni farintas*  | ~~nos habe facĭto~~ → **nos há facĭto** | ~~habemus facto~~  → **hémus facto**  |
+| *ni legintas*  | ~~nos habe legĭto~~ → **nos há legĭto** | ~~habemus lecto~~  → **hémus lecto**  |
 
 <!-- ... -->
 
@@ -500,15 +503,15 @@ Anstataŭ la finaĵoj por la ___Perfect___, oni povas uzi la verbon **há** kun 
 
 | | | |
 |-|-|-|
-| *mi estas kantinta* | **me cantau** | **me há cantato** |
+| *mi estas kantinta* | **me cantáu** | **me há cantato** |
 | | | |
-| *mi estas dorminta* | **me dormiu** | **me há dormito** |
+| *mi estas dorminta* | **me dormíu** | **me há dormito** |
 | | | |
-| *mi estas devinta*  | **me debeu**  | **me há debeto**  |
+| *mi estas devinta*  | **me debéu**  | **me há debĭto**  |
 | | | |
-| *mi estas farinta*  | **me facĕu**  | **me há facĕto**  |
+| *mi estas farinta*  | **me facéu**  | **me há facĭto**  |
 | | | |
-| *mi estas gvidinta* | **me ducĕu**  | **me há ducĕto**  |
+| *mi estas gvidinta* | **me ducéu**  | **me há ducĭto**  |
 
 #### Poezio
 
@@ -624,26 +627,6 @@ En la ___Perfect___, uziĝas la radiko de **essĕre**.
 | | | | | | | |
 | ___Future___  | | ~~essĕrá~~ → **será** | ~~essĕría~~  → **sería**   | | | |
 
-##### Perfect
-
-| | poezie |
-|-|-|
-| *mi*      | **-ĭ**     |
-| *ci*      | **-ĭsti**  |
-| *ri*/*ĝi* | **-ĭt**    |
-| *ni*      | **-ĭmus**  |
-| *vi*      | **-ĭstis** |
-| *ili*     | **-ĕrunt** |
-
-e-verboj kaj ĕ-verboj perdas sian **e**/**ĕ** en la ___Perfect___. Ĉe ĕ-verboj eliziiĝas ankaŭ la **u**.
-
-| | | poezie |
-|-|-|-|
-| *mi amintas*   | **me amau**   | **amavĭ**  |
-| *mi venintas*  | **me veniu**  | **venivĭ** |
-| *mi tenintas*  | **me teneu**  | **tenĭ**  |
-| *mi farintas*  | **me facĕu**  | **facĭ**   |
-| *mi venkintas* | **me vincĕu** | **vincĭ**  |
 
 ##### Pasiva Participo
 
@@ -824,5 +807,8 @@ e-verboj kaj ĕ-verboj perdas sian **e**/**ĕ** en la ___Perfect___. Ĉe ĕ-verb
 | ***-v-*** | |
 | **solvĭto** | **soluto** |
 | **volvĭto** | **voluto** |
+
+<!-- plodere -->
+<!-- radere -->
 
 <!-- TODO do multaj ĭ-oj estu i-oj en la ortografio de Lingua -->

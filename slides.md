@@ -454,7 +454,10 @@ Note:
 ## Lingue + Linguo
 
 ### Pronomoj
-
+<!-- ne-nominativo post prepozicio -->
+<!-- me=io? mea? tea? io me mi tu te ti mea tea mia tia -->
+<!-- me=io -->
+<!-- mea=mia tua=tia -->
 | | | | |
 |-|-|-|-|
 | 🅰 | **me**/**mi**  | | **tu**/**ti**  |
