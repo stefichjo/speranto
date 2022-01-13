@@ -263,7 +263,7 @@ Por la imperativo, uziĝas la infinitiva formo sen **-re**, kun la ŝajnfinaĵo 
 | | | | | | | |
 | ***Futuro***    | | **-rá**    | **-ría**    | | | |
 
-## Imperfekto <!-- ? -->
+## Imperfekto
 
 |                 | | ***Ind.***   | ***Subj.*** |
 |-|-|-|-|
@@ -307,7 +307,7 @@ La ili-formo de i-verboj havas **ie** anstataŭ **i**.
 
 | | |
 |-|-|
-| *ili aŭdas* | **illes audi** | **audient** |
+| *ili aŭdas* | **les audi** | **audient** |
 
 **Subjunktivo:**
 ĭ-verboj kondutas kiel i-verboj. La radikofina vokalo de ĕ- kaj a-verboj eliziĝas. Anstataŭ **-a**, a-verbo akceptas la finaĵon **-e**.
@@ -392,9 +392,9 @@ La imperativo egalas al la indikativa prezenco.
 | *faru*  | **facĕ** |
 | *amu*   | **ama**  |
 
-### Participo kaj Gerundio <!-- ĩ -->
+### Participo kaj Gerundio
 
-La participo finiĝas je **-nte**. ĕ-verboj kondutas kiel e-verboj, kaj ĭ-verboj kondutas kiel i-verboj.
+La participo finiĝas je **-nte**. Ili kondutas kiel la ili-formo je **-nt** de la indikativa prezenco. ĕ-verboj kondutas kiel e-verboj, kaj ĭ-verboj kondutas kiel i-verboj.
 
 | | |
 |-|-|
@@ -414,7 +414,7 @@ La gerundio finiĝas je **-ndo** kaj kondutas kiel la participo.
 | *estas faranta*  | **sta faciendo** |
 | *estas amanta*   | **sta amando**   |
 
-## Perfekto <!-- ? -->
+## Perfekto
 
 |                 | ***Ind.*** | ***Subj.*** |
 |-|-|-|
@@ -519,88 +519,101 @@ La participo finiĝas je **-to**. e- kaj ĕ-verboj kondutas kiel ĭ-verboj, t.e.
 
 # Malregulaj Verboj
 
+## habere
+
+| | | |
+| *mi havas*   | ~~me habe~~ → **me há**     | ~~habeo~~   → **hó**     |
+| *ci havas*   | ~~habes~~   → **te há**    | ~~habes~~   → **hás**    |
+| *li havas*   | ~~habet~~   → **le há**    | ~~habet~~   → **hát**    |
+| *ni havas*   | ~~habemus~~ → **nos há**  | ~~habemus~~ → **hémus**  |
+| *vi havas*   | ~~habetis~~ → **vos há**   | ~~habetis~~ → **héis**   |
+| *ili havas*  | ~~habent~~  → **les há**   | ~~habent~~  → **hánt**   |
+
+| | |
+|-|-|
+| *havas*      | ~~habe~~    → **há**     |
+
+
 ## essĕre
 
 En la prezenco, **essĕ** fariĝas **es** en la indikativo kaj **sia** en la subjunktivo. Antaŭ konjugacia finaĵo, **es** ŝanĝiĝas.
 
 | | | |
 |-|-|-|
-| *mi estas*       | ~~me essĕ~~     → **me es**     | ~~essio~~    → **so**     |
-| *ci estas*       | ~~te essĕ~~     → **te es**     | ~~essĕs~~    → **es**     |
-| *li estas*       | ~~ille essĕ~~   → **ille es**   | ~~essĕt~~    → **est**    |
-| *ni estas*       | ~~nos essĕ~~    → **nos es**    | ~~essĕmus~~  → **semus**  |
-| *vi estas*       | ~~vos essĕ~~    → **vos es**    | ~~essĕtis~~  → **estis**  |
-| *ili estas*      | ~~illes essĕ~~  → **illes es**  | ~~essĕnt~~   → **sent**   |
+| *mi estas*       | ~~me essĕ~~   → **me es**   | ~~essio~~    → **so**     |
+| *ci estas*       | ~~te essĕ~~   → **te es**   | ~~essĕs~~    → **es**     |
+| *li estas*       | ~~le essĕ~~   → **le es**   | ~~essĕt~~    → **est**    |
+| *ni estas*       | ~~nos essĕ~~  → **nos es**  | ~~essĕmus~~  → **semus**  |
+| *vi estas*       | ~~vos essĕ~~  → **vos es**  | ~~essĕtis~~  → **estis**  |
+| *ili estas*      | ~~les essĕ~~  → **les es**  | ~~essĕnt~~   → **sent**   |
 | | | |
-| *(ke) mi estas*  | ~~me essia~~    → **me sia**    | ~~essiam~~   → **siam**   |
-| *(ke) ci estas*  | ~~te essia~~    → **te sia**    | ~~essias~~   → **sias**   |
-| *(ke) li estas*  | ~~ille essia~~  → **ille sia**  | ~~essiat~~   → **siat**   |
-| *(ke) ni estas*  | ~~nos essia~~   → **nos sia**   | ~~essiamus~~ → **siamus** |
-| *(ke) vi estas*  | ~~vos essia~~   → **vos sia**   | ~~essiatis~~ → **siatis** |
-| *(ke) ili estas* | ~~illes essia~~ → **illes sia** | ~~essiant~~  → **siant**  |
+| *(ke) mi estas*  | ~~me essia~~  → **me sia**  | ~~essiam~~   → **siam**   |
+| *(ke) ci estas*  | ~~te essia~~  → **te sia**  | ~~essias~~   → **sias**   |
+| *(ke) li estas*  | ~~le essia~~  → **le sia**  | ~~essiat~~   → **siat**   |
+| *(ke) ni estas*  | ~~nos essia~~ → **nos sia** | ~~essiamus~~ → **siamus** |
+| *(ke) vi estas*  | ~~vos essia~~ → **vos sia** | ~~essiatis~~ → **siatis** |
+| *(ke) ili estas* | ~~les essia~~ → **les sia** | ~~essiant~~  → **siant**  |
 
 En la preterito, **esseba** fariĝas **era**. Antaŭ konjugacia finaĵo, **era** fariĝas **éra**.
 
 | | | |
 |-|-|-|
-| *mi estis*   | ~~me esseba~~     → **me era**    | ~~essebam~~   → **éram**   |
-| *ci estis*   | ~~te esseba~~     → **te era**    | ~~essebas~~   → **éras**   |
-| *li estis*   | ~~ille esseba~~   → **ille era**  | ~~essebat~~   → **érat**   |
-| *ni estis*   | ~~nos esseba~~    → **nos era**   | ~~essebamus~~ → **éramus** |
-| *vi estis*   | ~~vos esseba~~    → **vos era**   | ~~essebatis~~ → **ératis** |
-| *ili estis*  | ~~illes esseba~~  → **illes era** | ~~essebant~~  → **érant**  |
+| *mi estis*  | ~~me esseba~~   → **me era**  | ~~essebam~~   → **éram**   |
+| *ci estis*  | ~~te esseba~~   → **te era**  | ~~essebas~~   → **éras**   |
+| *li estis*  | ~~le esseba~~   → **le era**  | ~~essebat~~   → **érat**   |
+| *ni estis*  | ~~nos esseba~~  → **nos era** | ~~essebamus~~ → **éramus** |
+| *vi estis*  | ~~vos esseba~~  → **vos era** | ~~essebatis~~ → **ératis** |
+| *ili estis* | ~~les esseba~~  → **les era** | ~~essebant~~  → **érant**  |
 
 En la futuro, **essĕrá**/**essĕría** fariĝas **será**/**sería**.
 
 | | | |
 |-|-|-|
-| *mi estos*  | ~~me essĕrabe~~    → **me será**     | ~~essĕrabeo~~    → **seró**     |
-| *ci estos*  | ~~te essĕrabe~~    → **te será**     | ~~essĕrabes~~    → **serás**    |
-| *li estos*  | ~~ille essĕrabe~~  → **ille será**   | ~~essĕrabet~~    → **serát**    |
-| *ni estos*  | ~~nos essĕrabe~~   → **nos será**    | ~~essĕrabemus~~  → **serámus**  |
-| *vi estos*  | ~~vos essĕrabe~~   → **vos será**    | ~~essĕrabetis~~  → **serátis**  |
-| *ili estos* | ~~illes essĕrabe~~ → **illes será**  | ~~essĕrabent~~   → **seránt**   |
+| *mi estos*  | ~~me essĕrabe~~  → **me será**   | ~~essĕrabeo~~    → **seró**     |
+| *ci estos*  | ~~te essĕrabe~~  → **te será**   | ~~essĕrabes~~    → **serás**    |
+| *li estos*  | ~~le essĕrabe~~  → **le será**   | ~~essĕrabet~~    → **serát**    |
+| *ni estos*  | ~~nos essĕrabe~~ → **nos será**  | ~~essĕrabemus~~  → **serámus**  |
+| *vi estos*  | ~~vos essĕrabe~~ → **vos será**  | ~~essĕrabetis~~  → **serátis**  |
+| *ili estos* | ~~les essĕrabe~~ → **les será**  | ~~essĕrabent~~   → **seránt**   |
 | | | |
-| *mi estus*  | ~~me essĕriba~~    → **me sería**    | ~~essĕribam~~    → **seríam**   |
-| *ci estus*  | ~~te essĕriba~~    → **te sería**    | ~~essĕribas~~    → **serías**   |
-| *li estus*  | ~~ille essĕriba~~  → **ille sería**  | ~~essĕribat~~    → **seríat**   |
-| *ni estus*  | ~~nos essĕriba~~   → **nos sería**   | ~~essĕribamus~~  → **seríamus** |
-| *vi estus*  | ~~vos essĕriba~~   → **vos sería**   | ~~essĕribatis~~  → **seríatis** |
-| *ili estus* | ~~illes essĕriba~~ → **illes sería** | ~~essĕribant~~   → **seríant**  |
-
-<!-- fu -->
+| *mi estus*  | ~~me essĕriba~~  → **me sería**  | ~~essĕribam~~    → **seríam**   |
+| *ci estus*  | ~~te essĕriba~~  → **te sería**  | ~~essĕribas~~    → **serías**   |
+| *li estus*  | ~~le essĕriba~~  → **le sería**  | ~~essĕribat~~    → **seríat**   |
+| *ni estus*  | ~~nos essĕriba~~ → **nos sería** | ~~essĕribamus~~  → **seríamus** |
+| *vi estus*  | ~~vos essĕriba~~ → **vos sería** | ~~essĕribatis~~  → **seríatis** |
+| *ili estus* | ~~les essĕriba~~ → **les sería** | ~~essĕribant~~   → **seríant**  |
 
 En la perfekto, **esséu** fariĝas **fu**.
 
 | | | |
 |-|-|-|
-| *mi estintas*       | ~~me esséu~~        → **me fu**        | ~~essii~~        → **fuii**      |
-| *ci estintas*       | ~~te esséu~~        → **te fu**        | ~~essisti~~      → **fuisti**    |
-| *li estintas*       | ~~ille esséu~~      → **ille fu**      | ~~essit~~        → **fuit**      |
-| *ni estintas*       | ~~nos esséu~~       → **nos fu**       | ~~essĭmus~~      → **fuĭmus**    |
-| *vi estintas*       | ~~vos esséu~~       → **vos fu**       | ~~essistis~~     → **fuistis**   |
-| *ili estintas*      | ~~illes esséu~~     → **illes fu**     | ~~esserunt~~     → **fuerunt**   |
+| *mi estintas*       | ~~me esséu~~      → **me fu**      | ~~essii~~        → **fuii**      |
+| *ci estintas*       | ~~te esséu~~      → **te fu**      | ~~essisti~~      → **fuisti**    |
+| *li estintas*       | ~~le esséu~~      → **le fu**      | ~~essit~~        → **fuit**      |
+| *ni estintas*       | ~~nos esséu~~     → **nos fu**     | ~~essĭmus~~      → **fuĭmus**    |
+| *vi estintas*       | ~~vos esséu~~     → **vos fu**     | ~~essistis~~     → **fuistis**   |
+| *ili estintas*      | ~~les esséu~~     → **les fu**     | ~~esserunt~~     → **fuerunt**   |
 | | | |
-| *(ke) mi estintas*  | ~~me essĕverĭ~~     → **me fuerĭ**     | ~~essĕverĭm~~    → **fuerĭm**    |
-| *(ke) ci estintas*  | ~~te essĕverĭ~~     → **te fuerĭ**     | ~~essĕverĭs~~    → **fuerĭs**    |
-| *(ke) li estintas*  | ~~ille essĕverĭ~~   → **ille fuerĭ**   | ~~essĕverĭt~~    → **fuerĭt**    |
-| *(ke) ni estintas*  | ~~nos essĕverĭ~~    → **nos fuerĭ**    | ~~essĕverĭmus~~  → **fuerĭmus**  |
-| *(ke) vi estintas*  | ~~vos essĕverĭ~~    → **vos fuerĭ**    | ~~essĕverĭtis~~  → **fuerĭtis**  |
-| *(ke) ili estintas* | ~~illes essĕverĭ~~  → **illes fuerĭ**  | ~~essĕverĭnt~~   → **fuerĭnt**   |
+| *(ke) mi estintas*  | ~~me essĕverĭ~~   → **me fuerĭ**   | ~~essĕverĭm~~    → **fuerĭm**    |
+| *(ke) ci estintas*  | ~~te essĕverĭ~~   → **te fuerĭ**   | ~~essĕverĭs~~    → **fuerĭs**    |
+| *(ke) li estintas*  | ~~le essĕverĭ~~   → **le fuerĭ**   | ~~essĕverĭt~~    → **fuerĭt**    |
+| *(ke) ni estintas*  | ~~nos essĕverĭ~~  → **nos fuerĭ**  | ~~essĕverĭmus~~  → **fuerĭmus**  |
+| *(ke) vi estintas*  | ~~vos essĕverĭ~~  → **vos fuerĭ**  | ~~essĕverĭtis~~  → **fuerĭtis**  |
+| *(ke) ili estintas* | ~~les essĕverĭ~~  → **les fuerĭ**  | ~~essĕverĭnt~~   → **fuerĭnt**   |
 | | | |
-| *mi estintis*       | ~~me essĕvera~~     → **me fuera**     | ~~essĕveram~~    → **fueram**    |
-| *ci estintis*       | ~~te essĕvera~~     → **te fuera**     | ~~essĕveras~~    → **fueras**    |
-| *li estintis*       | ~~ille essĕvera~~   → **ille fuera**   | ~~essĕverat~~    → **fuerat**    |
-| *ni estintis*       | ~~nos essĕvera~~    → **nos fuera**    | ~~essĕveramus~~  → **fueramus**  |
-| *vi estintis*       | ~~vos essĕvera~~    → **vos fuera**    | ~~essĕveratis~~  → **fueratis**  |
-| *ili estintis*      | ~~illes essĕvera~~  → **illes fuera**  | ~~essĕverant~~   → **fuerant**   |
+| *mi estintis*       | ~~me essĕvera~~   → **me fuera**   | ~~essĕveram~~    → **fueram**    |
+| *ci estintis*       | ~~te essĕvera~~   → **te fuera**   | ~~essĕveras~~    → **fueras**    |
+| *li estintis*       | ~~le essĕvera~~   → **le fuera**   | ~~essĕverat~~    → **fuerat**    |
+| *ni estintis*       | ~~nos essĕvera~~  → **nos fuera**  | ~~essĕveramus~~  → **fueramus**  |
+| *vi estintis*       | ~~vos essĕvera~~  → **vos fuera**  | ~~essĕveratis~~  → **fueratis**  |
+| *ili estintis*      | ~~les essĕvera~~  → **les fuera**  | ~~essĕverant~~   → **fuerant**   |
 | | | |
-| *(ke) mi estintis*  | ~~me essĕvisse~~    → **me fuisse**    | ~~essĕvissem~~   → **fuissem**   |
-| *(ke) ci estintis*  | ~~te essĕvisse~~    → **te fuisse**    | ~~essĕvisses~~   → **fuisses**   |
-| *(ke) li estintis*  | ~~ille essĕvisse~~  → **ille fuisse**  | ~~essĕvisset~~   → **fuisset**   |
-| *(ke) ni estintis*  | ~~nos essĕvisse~~   → **nos fuisse**   | ~~essĕvissemus~~ → **fuissemus** |
-| *(ke) vi estintis*  | ~~vos essĕvisse~~   → **vos fuisse**   | ~~essĕvissetis~~ → **fuissetis** |
-| *(ke) ili estintis* | ~~illes essĕvisse~~ → **illes fuisse** | ~~essĕvissent~~  → **fuissent**  |
+| *(ke) mi estintis*  | ~~me essĕvisse~~  → **me fuisse**  | ~~essĕvissem~~   → **fuissem**   |
+| *(ke) ci estintis*  | ~~te essĕvisse~~  → **te fuisse**  | ~~essĕvisses~~   → **fuisses**   |
+| *(ke) li estintis*  | ~~le essĕvisse~~  → **le fuisse**  | ~~essĕvisset~~   → **fuisset**   |
+| *(ke) ni estintis*  | ~~nos essĕvisse~~ → **nos fuisse** | ~~essĕvissemus~~ → **fuissemus** |
+| *(ke) vi estintis*  | ~~vos essĕvisse~~ → **vos fuisse** | ~~essĕvissetis~~ → **fuissetis** |
+| *(ke) ili estintis* | ~~les essĕvisse~~ → **les fuisse** | ~~essĕvissent~~  → **fuissent**  |
 
 |                 | | ***Ind.*** | ***Subj.*** | | ***Ind.*** | ***Subj.*** |
 |-|-|-|-|-|-|-|
@@ -618,30 +631,30 @@ En la prezenco, la verbo **i** anstataŭiĝas per **vadĕ**. En la indikativa pr
 
 | | | | |
 |-|-|-|-|
-| *mi iras*       | ~~io~~    | ~~me vadĕ~~    → **me vá**       | ~~vado~~    → **vó**      |
-| *ci iras*       | ~~is~~    | ~~te vadĕ~~    → **te vá**       | ~~vadĕs~~   → **vás**     |
-| *li iras*       | ~~it~~    | ~~ille vadĕ~~  → **ille vá**     | ~~vadĕt~~   → **vát**     |
-| *ni iras*       | ~~imus~~  | ~~nos vadĕ~~   → **nos vá**      | ~~vadĕmus~~ → **vámus**   |
-| *vi iras*       | ~~itis~~  | ~~vos vadĕ~~   → **vos vá**      | ~~vadĕtis~~ → **vátis**   |
-| *ili iras*      | ~~ient~~  | ~~illes vadĕ~~ → **illes vá**    | ~~vadĕnt~~  → **vánt**    |
+| *mi iras*       | ~~io~~    | ~~me vadĕ~~  → **me vá**     | ~~vado~~    → **vó**      |
+| *ci iras*       | ~~is~~    | ~~te vadĕ~~  → **te vá**     | ~~vadĕs~~   → **vás**     |
+| *li iras*       | ~~it~~    | ~~le vadĕ~~  → **le vá**     | ~~vadĕt~~   → **vát**     |
+| *ni iras*       | ~~imus~~  | ~~nos vadĕ~~ → **nos vá**    | ~~vadĕmus~~ → **vámus**   |
+| *vi iras*       | ~~itis~~  | ~~vos vadĕ~~ → **vos vá**    | ~~vadĕtis~~ → **vátis**   |
+| *ili iras*      | ~~ient~~  | ~~les vadĕ~~ → **les vá**    | ~~vadĕnt~~  → **vánt**    |
 | | | | |
-| *(ke) mi iras*  | ~~iam~~   |                  **me vada**     |               **vadam**   |
-| *(ke) ci iras*  | ~~ias~~   |                  **te vada**     |               **vadas**   |
-| *(ke) li iras*  | ~~iat~~   |                  **ille vada**   |               **vadat**   |
-| *(ke) ni iras*  | ~~iamus~~ |                  **nos vada**    |               **vadamus** |
-| *(ke) vi iras*  | ~~iatis~~ |                  **vos vada**    |               **vadatis** |
-| *(ke) ili iras* | ~~iant~~  |                  **illes vada**  |               **vadant**  |
+| *(ke) mi iras*  | ~~iam~~   |                **me vada**   |               **vadam**   |
+| *(ke) ci iras*  | ~~ias~~   |                **te vada**   |               **vadas**   |
+| *(ke) li iras*  | ~~iat~~   |                **le vada**   |               **vadat**   |
+| *(ke) ni iras*  | ~~iamus~~ |                **nos vada**  |               **vadamus** |
+| *(ke) vi iras*  | ~~iatis~~ |                **vos vada**  |               **vadatis** |
+| *(ke) ili iras* | ~~iant~~  |                **les vada**  |               **vadant**  |
 
 En la preterito, la finaĵo **-ba** mallongiĝas al **-a**.
 
 | | |
 |-|-|
-| *mi iris*   | ~~me iba~~     → **me ía**    | ~~ibam~~   → **íam**   |
-| *ci iris*   | ~~te iba~~     → **te ía**    | ~~ibas~~   → **ías**   |
-| *li iris*   | ~~ille iba~~   → **ille ía**  | ~~ibat~~   → **íat**   |
-| *ni iris*   | ~~nos iba~~    → **nos ía**   | ~~ibamus~~ → **íamus** |
-| *vi iris*   | ~~vos iba~~    → **vos ía**   | ~~ibatis~~ → **íatis** |
-| *ili iris*  | ~~illes iba~~  → **illes ía** | ~~ibant~~  → **íant**  |
+| *mi iris*   | ~~me iba~~   → **me ía**  | ~~ibam~~   → **íam**   |
+| *ci iris*   | ~~te iba~~   → **te ía**  | ~~ibas~~   → **ías**   |
+| *li iris*   | ~~le iba~~   → **le ía**  | ~~ibat~~   → **íat**   |
+| *ni iris*   | ~~nos iba~~  → **nos ía** | ~~ibamus~~ → **íamus** |
+| *vi iris*   | ~~vos iba~~  → **vos ía** | ~~ibatis~~ → **íatis** |
+| *ili iris*  | ~~les iba~~  → **les ía** | ~~ibant~~  → **íant**  |
 
 En la perfekto, uziĝas **essĕ**.
 
@@ -657,36 +670,6 @@ En la perfekto, uziĝas **essĕ**.
 
 -----
 
-
-##### habere
-
-| | **habere** |
-|-|-|
-| *havas*      | ~~habe~~    → **há**     |
-| | |
-| *mi havas*   | ~~habeo~~   → **hó**     |
-| *ci havas*   | ~~habes~~   → **hás**    |
-| *li havas*   | ~~habet~~   → **hát**    |
-| *ni havas*   | ~~habemus~~ → **hémus**  |
-| *vi havas*   | ~~habetis~~ → **héis**   |
-| *ili havas*  | ~~habent~~  → **hánt**   |
-
-| | |
-|-|-|
-| *havas*      | ~~habe~~    → **há**     |
-
-##### essĕre
-
-
-|               | | ___Ind.___            | ___Subj.___                | | ___Ind.___               | ___Subj.___                |
-|-|-|-|-|-|-|-|
-|               | | ___Simple___          |                            | | ___Perfect___            |                            |
-| | | | | | | |
-| ___Present___ | | ~~essĕ~~   → **es**   | ~~essia~~    → **sia**     | | ~~essĕu~~    → **fu**    | ~~essĕverĭ~~  → **fuerĭ**  |
-| | | | | | | |
-| ___Past___    | | ~~essĕba~~ → **éra**  | ~~essĕre~~   → **esse**    | | ~~essĕvera~~ → **fuera** | ~~essĕvisse~~ → **fuisse** |
-| | | | | | | |
-| ___Future___  | | ~~essĕrá~~ → **será** | ~~essĕría~~  → **sería**   | | | |
 
 
 ##### Pasiva Participo
