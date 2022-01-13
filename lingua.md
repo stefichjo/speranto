@@ -521,7 +521,7 @@ La participo finiĝas je **-to**. e- kaj ĕ-verboj kondutas kiel ĭ-verboj, t.e.
 
 ## essĕre
 
-La la prezenco, la verbo **essĕ** fariĝas **es**. Antaŭ konjugacia finaĵo, ĝi ŝanĝiĝas.
+En la prezenco, **essĕ** fariĝas **es** en la indikativo kaj **sia** en la subjunktivo. Antaŭ konjugacia finaĵo, **es** ŝanĝiĝas.
 
 | | | |
 |-|-|-|
@@ -538,6 +538,17 @@ La la prezenco, la verbo **essĕ** fariĝas **es**. Antaŭ konjugacia finaĵo, �
 | *(ke) ni estas*  | ~~nos essia~~   → **nos sia**   | ~~essiamus~~ → **siamus** |
 | *(ke) vi estas*  | ~~vos essia~~   → **vos sia**   | ~~essiatis~~ → **siatis** |
 | *(ke) ili estas* | ~~illes essia~~ → **illes sia** | ~~essiant~~  → **siant**  |
+
+En la preterito, **essĕ** fariĝas **era** anstataŭ **esseba**. Antaŭ konjugacia finaĵo, **era** fariĝas **éra**.
+
+| | |
+|-|-|
+| *mi estis*   | ~~me esseba~~     → **me era**    | ~~essebam~~   → **éram**   |
+| *ci estis*   | ~~te esseba~~     → **te era**    | ~~essebas~~   → **éras**   |
+| *li estis*   | ~~ille esseba~~   → **ille era**  | ~~essebat~~   → **érat**   |
+| *ni estis*   | ~~nos esseba~~    → **nos era**   | ~~essebamus~~ → **éramus** |
+| *vi estis*   | ~~vos esseba~~    → **vos era**   | ~~essebatis~~ → **ératis** |
+| *ili estis*  | ~~illes esseba~~  → **illes era** | ~~essebant~~  → **érant**  |
 
 ## ire
 
