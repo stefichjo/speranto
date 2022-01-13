@@ -539,16 +539,44 @@ En la prezenco, **essĕ** fariĝas **es** en la indikativo kaj **sia** en la sub
 | *(ke) vi estas*  | ~~vos essia~~   → **vos sia**   | ~~essiatis~~ → **siatis** |
 | *(ke) ili estas* | ~~illes essia~~ → **illes sia** | ~~essiant~~  → **siant**  |
 
-En la preterito, **essĕ** fariĝas **era** anstataŭ **esseba**. Antaŭ konjugacia finaĵo, **era** fariĝas **éra**.
+En la preterito, **esseba** fariĝas **era**. Antaŭ konjugacia finaĵo, **era** fariĝas **éra**.
 
-| | |
-|-|-|
+| | | |
+|-|-|-|
 | *mi estis*   | ~~me esseba~~     → **me era**    | ~~essebam~~   → **éram**   |
 | *ci estis*   | ~~te esseba~~     → **te era**    | ~~essebas~~   → **éras**   |
 | *li estis*   | ~~ille esseba~~   → **ille era**  | ~~essebat~~   → **érat**   |
 | *ni estis*   | ~~nos esseba~~    → **nos era**   | ~~essebamus~~ → **éramus** |
 | *vi estis*   | ~~vos esseba~~    → **vos era**   | ~~essebatis~~ → **ératis** |
 | *ili estis*  | ~~illes esseba~~  → **illes era** | ~~essebant~~  → **érant**  |
+
+En la futuro, **essĕrá**/**essĕría** fariĝas **será**/**sería**.
+
+| | | |
+|-|-|-|
+| *mi estos*  | ~~me essĕrabe~~    → **me será**     | ~~essĕrabeo~~    → **seró**    |
+| *ci estos*  | ~~te essĕrabe~~    → **te será**     | ~~essĕrabes~~    → **serás**   |
+| *li estos*  | ~~ille essĕrabe~~  → **ille será**   | ~~essĕrabet~~    → **serát**   |
+| *ni estos*  | ~~nos essĕrabe~~   → **nos será**    | ~~essĕrabemus~~  → **serámus** |
+| *vi estos*  | ~~vos essĕrabe~~   → **vos será**    | ~~essĕrabetis~~  → **serátis** |
+| *ili estos* | ~~illes essĕrabe~~ → **illes será**  | ~~essĕrabent~~   → **seránt**  |
+| | | |
+| *mi estus*  | ~~me essĕriba~~    → **me sería**    | ~~essĕribam~~    → **seríam**    |
+| *ci estus*  | ~~te essĕriba~~    → **te sería**    | ~~essĕribas~~    → **serías**   |
+| *li estus*  | ~~ille essĕriba~~  → **ille sería**  | ~~essĕribat~~    → **seríat**   |
+| *ni estus*  | ~~nos essĕriba~~   → **nos sería**   | ~~essĕribamus~~  → **seríamus** |
+| *vi estus*  | ~~vos essĕriba~~   → **vos sería**   | ~~essĕribatis~~  → **seríatis** |
+| *ili estus* | ~~illes essĕriba~~ → **illes sería** | ~~essĕribant~~   → **seríant**  |
+
+|                 | | ***Ind.*** | ***Subj.*** | | ***Ind.*** | ***Subj.*** |
+|-|-|-|-|-|-|-|
+|                 | | ***Imperfekto*** |       | | ***Perfekto*** |         |
+| | | | | | | |
+| ***Prezenco***  | | **es**     | **sia**     | | **fu**     | **fuerĭ**   |
+| | | | | | | |
+| ***Preterito*** | | **era**    | **essĕre**  | | **fuera**  | **fuisse**  |
+| | | | | | | |
+| ***Futuro***    | | **será**   | **sería**   | | | |
 
 ## ire
 
