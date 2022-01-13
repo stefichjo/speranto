@@ -544,14 +544,24 @@ En la preterito, la finaĵo **-ba** mallongiĝas al **-a**.
 
 | | |
 |-|-|
-| *mi iris*   | ~~me iba~~     → **me ía**     | ~~ibam~~   → **íam**   |
-| *ci iris*   | ~~te iba~~     → **te ía**     | ~~ibas~~   → **ías**   |
-| *li iris*   | ~~ille iba~~   → **ille ía**   | ~~ibat~~   → **íat**   |
-| *ni iris*   | ~~nos iba~~    → **nos ía**    | ~~ibamus~~ → **íamus** |
-| *vi iris*   | ~~vos iba~~    → **vos ía**    | ~~ibatis~~ → **íatis** |
-| *ili iris*  | ~~illes iba~~  → **illes ía**  | ~~ibant~~  → **íant**  |
+| *mi iris*   | ~~me iba~~     → **me ía**    | ~~ibam~~   → **íam**   |
+| *ci iris*   | ~~te iba~~     → **te ía**    | ~~ibas~~   → **ías**   |
+| *li iris*   | ~~ille iba~~   → **ille ía**  | ~~ibat~~   → **íat**   |
+| *ni iris*   | ~~nos iba~~    → **nos ía**   | ~~ibamus~~ → **íamus** |
+| *vi iris*   | ~~vos iba~~    → **vos ía**   | ~~ibatis~~ → **íatis** |
+| *ili iris*  | ~~illes iba~~  → **illes ía** | ~~ibant~~  → **íant**  |
 
-En la perfektaj tempoj, uziĝas **essĕ**.
+En la perfekto, uziĝas **essĕ**.
+
+|                 | | ***Ind.*** | ***Subj.*** | | ***Ind.*** | ***Subj.*** |
+|-|-|-|-|-|-|-|
+|                 | | ***Imperfekto*** |       | | ***Perfekto*** |         |
+| | | | | | | |
+| ***Prezenco***  | | **vadĕ**   | **vada**    | | **fu**     | **fuerĭ**   |
+| | | | | | | |
+| ***Preterito*** | | **ía**     | **ire**     | | **fuera**  | **fuisse**  |
+| | | | | | | |
+| ***Futuro***    | | **irá**    | **iría**    | | | |
 
 -----
 
@@ -590,7 +600,7 @@ En la perfektaj tempoj, uziĝas **essĕ**.
 |-|-|-|-|-|-|-|
 |               | | ___Simple___          |                            | | ___Perfect___            |                            |
 | | | | | | | |
-| ___Present___ | | ~~essĕ~~   → **es**   | ~~essia~~    → **sia**     | | ~~essĕu~~    → **fu**    | ~~essĕveri~~  → **fueri**  |
+| ___Present___ | | ~~essĕ~~   → **es**   | ~~essia~~    → **sia**     | | ~~essĕu~~    → **fu**    | ~~essĕverĭ~~  → **fuerĭ**  |
 | | | | | | | |
 | ___Past___    | | ~~essĕba~~ → **éra**  | ~~essĕre~~   → **esse**    | | ~~essĕvera~~ → **fuera** | ~~essĕvisse~~ → **fuisse** |
 | | | | | | | |
