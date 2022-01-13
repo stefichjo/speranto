@@ -253,6 +253,8 @@ Por la imperativo, uziĝas la infinitiva formo sen **-re**, kun la ŝajnfinaĵo 
 
 # Konjugacio
 
+## Laŭ Tempo
+
 |                 | | ***Ind.*** | ***Subj.*** | | ***Ind.*** | ***Subj.*** |
 |-|-|-|-|-|-|-|
 |                 | | ***Imperfekto*** |       | | ***Perfekto*** |         |
@@ -263,7 +265,9 @@ Por la imperativo, uziĝas la infinitiva formo sen **-re**, kun la ŝajnfinaĵo 
 | | | | | | | |
 | ***Futuro***    | | **-rá**    | **-ría**    | | | |
 
-## Imperfekto
+## Laŭ Persono
+
+### Imperfekto
 
 |                 | | ***Ind.***   | ***Subj.*** |
 |-|-|-|-|
@@ -273,7 +277,7 @@ Por la imperativo, uziĝas la infinitiva formo sen **-re**, kun la ŝajnfinaĵo 
 | | | | |
 | ***Futuro***    | | **-rá**      | **-ría**    |
 
-### Prezenco
+#### Prezenco
 
 | | |
 |-|-|
@@ -320,7 +324,7 @@ La ili-formo de i-verboj havas **ie** anstataŭ **i**.
 | *(ke) ni faras*  | **nos facia** | **faciamus** |
 | *(ke) ni amas*   | **nos ame**   | **amemus**   |
 
-### Preterito
+#### Preterito
 
 **Indikativo:**
 ĕ- kaj ĭ-verboj kondutas kiel e-verboj.
@@ -354,7 +358,7 @@ La formo de la subjunktiva preterito estas egala al la infinitivo. Pere de la ve
 | *ni faros*  | ~~nos vadĕ facĕre~~ → **nos vá facĕre** | ~~vadĕmus facĕre~~ → **vámus facĕre** |
 | *ni amos*   | ~~nos vadĕ amare~~  → **nos vá amare**  | ~~vadĕmus amare~~  → **vámus amare**  |
 
-### Futuro
+#### Futuro
 
 **Indikativo:**
 La indikativa futuro estas la infinitivo kun **-á**, t.e. la indikativa prezenco de la verbo **há** sen **h-**.
@@ -380,7 +384,7 @@ La subjunktiva futuro estas la infinitivo kun **-ía**, t.e. la indikativa prete
 
 La subjunktiva futuro kutime nomiĝas kondicionalo.
 
-### Imperativo
+#### Imperativo
 
 La imperativo egalas al la indikativa prezenco.
 
@@ -392,7 +396,7 @@ La imperativo egalas al la indikativa prezenco.
 | *faru*  | **facĕ** |
 | *amu*   | **ama**  |
 
-### Participo kaj Gerundio
+#### Participo kaj Gerundio
 
 La participo finiĝas je **-nte**. Ili kondutas kiel la ili-formo je **-nt** de la indikativa prezenco. ĕ-verboj kondutas kiel e-verboj, kaj ĭ-verboj kondutas kiel i-verboj.
 
@@ -414,7 +418,7 @@ La gerundio finiĝas je **-ndo** kaj kondutas kiel la participo.
 | *estas faranta*  | **sta faciendo** |
 | *estas amanta*   | **sta amando**   |
 
-## Perfekto
+### Perfekto
 
 |                 | ***Ind.*** | ***Subj.*** |
 |-|-|-|
@@ -425,7 +429,7 @@ La gerundio finiĝas je **-ndo** kaj kondutas kiel la participo.
 
 La radikofina vokalo antaŭ la perfektaj finaĵoj akcentiĝas.
 
-### Prezenco
+#### Prezenco
 
 **Indikativo:**
 
@@ -475,7 +479,7 @@ Antaŭ konjunkcia finaĵo, **év** malaperas.
 | *(ke) ni farintas*  | ~~nos facĕverĭ~~ → **nos facérĭ** | ~~facĕverĭmus~~ → **facérĭmus** |
 | *(ke) ni legintas*  | ~~nos legĕverĭ~~ → **nos legérĭ** | ~~legĕverĭmus~~ → **legérĭmus** |
 
-### Preterito
+#### Preterito
 
 **Indikativo:**
 
@@ -497,7 +501,7 @@ Antaŭ konjunkcia finaĵo, **év** malaperas.
 | *(ke) ni farintis*  | ~~nos facĕvisse~~ → **nos facésse** | ~~facĕvissemus~~ → **facéssemus** |
 | *(ke) ni legintis*  | ~~nos legĕvisse~~ → **nos legésse** | ~~legĕvissemus~~ → **legéssemus** |
 
-### Participo
+#### Participo
 
 La participo finiĝas je **-to**. e- kaj ĕ-verboj kondutas kiel ĭ-verboj, t.e. la **ĭ** eliziiĝas.
 
@@ -517,22 +521,28 @@ La participo finiĝas je **-to**. e- kaj ĕ-verboj kondutas kiel ĭ-verboj, t.e.
 | *ni farintas*  | ~~nos habe facĭto~~ → **nos há facĭto** | ~~habemus facto~~  → **hémus facto**  |
 | *ni legintas*  | ~~nos habe legĭto~~ → **nos há legĭto** | ~~habemus lecto~~  → **hémus lecto**  |
 
+## Pronomoj
+
+Poezie, **me** kaj **te** fariĝas **io** kaj **tu** kiam ili ne estas la rekta objekto de transitiva verbo kaj kiam ili ne estas la argumento de prepozicio.
+
+| | |
+|-|-|
+| *ci amas min* | **(tu) me amas** |
+| *mi amas cin* | **(io) te amo**  |
+| *kun mi* | **con me**  |
+| *kun ci* | **con te**  |
+
 # Malregulaj Verboj
 
 ## habere
 
 | | | |
-| *mi havas*   | ~~me habe~~ → **me há**     | ~~habeo~~   → **hó**     |
+| *mi havas*   | ~~me habe~~ → **me há**    | ~~habeo~~   → **hó**     |
 | *ci havas*   | ~~habes~~   → **te há**    | ~~habes~~   → **hás**    |
 | *li havas*   | ~~habet~~   → **le há**    | ~~habet~~   → **hát**    |
-| *ni havas*   | ~~habemus~~ → **nos há**  | ~~habemus~~ → **hémus**  |
+| *ni havas*   | ~~habemus~~ → **nos há**   | ~~habemus~~ → **hémus**  |
 | *vi havas*   | ~~habetis~~ → **vos há**   | ~~habetis~~ → **héis**   |
 | *ili havas*  | ~~habent~~  → **les há**   | ~~habent~~  → **hánt**   |
-
-| | |
-|-|-|
-| *havas*      | ~~habe~~    → **há**     |
-
 
 ## essĕre
 
