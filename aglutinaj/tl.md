@@ -101,7 +101,7 @@ pe- vi
 | | `qajunpaQHeylIjmo' batlh DuSuvqang charghwI' 'It.` |
 |-|-|
 | [Markup](#markup): | `qajunpaQ.Hey.lIj.mo', batlh, Du:Suv.qang chargh.wI'='It.` |
-| [Cursive](#cursive): | ***qajunpaqhheylijmò, batlh, dusuvqang charghwì ít.*** |
+| [Cursive](#cursive): | ***qajunpaqhheylijmó, batlh, dusuvqang charghwí ìt.*** |
 
 ### Markup
 
@@ -123,7 +123,7 @@ pe- vi
 
 ### Cursive
 
-#### Lowercase
+**Lowercase:**
 
 | | | |
 |-|-|-|
@@ -144,16 +144,16 @@ In order not to read `nenghep` (*Age of Ascension*) as *`nengHep`, it can be wri
 | *Age of Ascension* | `nenghep` | ***nenghep*** = ***nenĝep***  |
 | *I help you.*      | `qaQaH.`  | ***qaqhah.*** = ***qaq̂ah.*** |
 
-#### Diacritics
+**Diacritics:**
 
 | | | |
 |-|-|-|
-| *one*      | `wa'`    | **wà**    |
+| *one*      | `wa'`    | **wá**    |
 | | | |
-| *but*      | `'ech`   | **éch**   |
+| *but*      | `'ech`   | **èch**   |
 | | | |
-| *universe* | `'u'`    | **û**     |
+| *universe* | `'u'`    | **ǔ**     |
 | | | |
-| *crazy*    | `maw'`   | **maẁ**   |
+| *crazy*    | `maw'`   | **maẃ**   |
 | | | |
-| *somebody,*<br>*something* | `vay'` | **vaỳ**   |
+| *somebody,*<br>*something* | `vay'` | **vaý**   |

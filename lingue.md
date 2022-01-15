@@ -117,6 +117,14 @@ Postvokala **-b** kaj **-p** ofte fariĝas **-v** *[v]*.
 | *maso* | **masse** *[mase]* |
 | *rozo* | **rose** *[roze]* |
 
+**r** *[r]* prononciĝas *[ĥ]*...
+
+| | |
+|-|-|
+| *tero*  | **terre** *[teĥe]*  |
+| *por*   | **por**   *[poĥ]*   |
+| *reala* | **reale** *[ĥeale]* |
+
 **x** *[ks]* prononciĝas *[gz]* inter vokaloj.
 
 | | |
@@ -133,3 +141,95 @@ Postvokala **-b** kaj **-p** ofte fariĝas **-v** *[v]*.
 | *karaktero* | **charactere** *[karaktere]* |
 | *sistemo* | **systeme** *[sisteme]* |
 | *zono* | **zone** *[zone]* |
+
+# Konjugacio
+
+|                 | | ***Ind.***   | ***Subj.*** |
+|-|-|-|-|
+| ***Prezenco***  | | -            | -a          |
+| | | | |
+| ***Preterito*** | | -va          | -r'         |
+| | | | |
+| ***Futuro***    | | -rá          | -ría        |
+
+| | | |
+|-|-|-|
+| *mi*      | | *-*    |
+| *ci*      | | *-s*   |
+| *ri*/*ĝi* | | *-*    |
+| *ni*      | | *-mus* |
+| *vi*      | | *'is*  |
+| *ili*     | | *-n*   |
+
+Kiam la radikofina konsonanto de i- kaj e-verboj ne ŝanĝiĝis, la radikofina vokalo eliziiĝas en la subjunktiva prezenco kaj en la mi-formo de la indikativa prezenco.
+<!-- Sekve, la prononco de "tenĭo" ne estas [tenjo] sed [teṅo]. -->
+<!-- have / hó ? -->
+<!-- façan = fazan ? -->
+<!-- vĭ [j]/[bj] ? -->
+<!-- íis → ís ? -->
+
+<!--
+-are = -ar' = -ár → -á ? mi vole cantá
+lectione -> lectie/lectión?
+original' -> originál
+-->
+
+| | | | | |
+|-|-|-|-|-|
+| *mi kantas* | | **mi cantan** | mi canta | *canto* |
+| *mi vidas*  | | **mi vidan**  | mi vide  | *vido*  |
+| *mi tenas*  | | **mi tenan**  | mi tene  | *tenĭo* |
+| *mi havas*  | | **mi hán**    | mi há    | *hó*    |
+| *mi havas*  | | **mi havas**  | mi have  | *havĭo* |
+| *mi faras*  | | **mi façan**  | mi face  | *facĭo* |
+| *mi sentas* | | **mi sentan** | mi senti | *sento* |
+| *mi venas*  | | **mi venan**  | mi veni  | *venĭo* |
+
+<!-- i-verboj kondutas kiel e-verboj krom en la ni- kaj vi-formoj. -->
+
+| | | | | | | | | |
+|-|-|-|-|-|-|-|-|-|
+| *amo*    | | *venĭo*   | *sento*     | | *facĭo*    | *capo*    | | *tenĭo*   | *vido*     | | *lego*     |
+| *amas*   | | *venes*   | *sentes*    | | *faces*    | *capes*   | | *tenes*   | *vides*    | | *leges*    |
+| *ama*    | | *vene*    | *sente*     | | *face*     | *cape*    | | *tene*    | *vide*     | | *lege*     |
+| *amamus* | | *venimus* | *sentimus*  | | *facemus*  | *capemus* | | *tenemus* | *videmus*  | | *legemus*  |
+| *amáis*  | | *venís*   | *sentís*    | | *facéis*   | *capéis*  | | *tenéis*  | *vidéis*   | | *legéis*   |
+| *aman*   | | *venen*   | *senten*    | | *facen*    | *capen*   | | *tenen*   | *viden*    | | *legen*    |
+
+<!-- Certe estas pli bona ekzemplo ol "caper'"? -->
+
+La imperativo estas egala al la indikativa prezenco.
+
+| | | |
+|-|-|-|
+| *kantu!* | **canta!** |
+
+La subjunktiva prezenco uziĝas nur kiel volitivo.
+
+| | | |
+|-|-|-|
+| *mi volas, ke vi kantu* | **mi vole, qŭe tī cante.** |
+
+La subjunktiva preterito uziĝas nur kiel infinitivo.
+
+| | | |
+|-|-|-|
+| *mi volas kanti* | | **mi vole cantar'** |
+
+La subjunktiva futuro uziĝas nur kiel kondicionalo.
+
+| | | |
+|-|-|-|
+| *mi kantus* | | **mi cantaría** |
+
+Anstataŭ la perfektaj formoj, uziĝas la verbo **have** kun pasiva participo.
+
+| | | |
+|-|-|-|
+| *ni amintas*   | | **ni have amato**  |
+| *ni aŭdintas*  | | **ni have audito** |
+| *ni vidintas*  | | **ni have vidito** |
+| *ni farintas*  | | **ni have facito** |
+| *ni legintas*  | | **ni have legito** |
+
+

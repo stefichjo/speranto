@@ -121,13 +121,17 @@ La korelativo **la** kaj la numeralo **un** uziĝas kiel artikoloj. ***En poezio
 | *tiu amiko*, *la amiko* | **la amico** | **l'amico** |
 | *unu amiko*, *amiko* | **una amico** | **un'amico** |
 
+<!-- la un || l' u' ? -->
+<!-- una = ia; unas = iaj; une = io -->
+<!-- la domo; las domos -->
+<!-- de le -> dele; de les -> deles -->
+<!-- de la -> del; ad la -> al -->
+<!-- ulle = ri; olle = li; alle = ŝi; elle = ĝi; ille = x -> le -->
+
 ### Verboj
 
 <!-- -le -les -->
 <!-- -se -->
-<!-- ama! aman! :/ -->
-
-<!-- sta in videre, veni de videre, vade ad videre anta/inta/onta -->
 
 ### Konjunkcioj
 
@@ -141,21 +145,7 @@ La korelativo **la** kaj la numeralo **un** uziĝas kiel artikoloj. ***En poezio
 
 # Konjugacio
 
-## Laŭ Tempo
-
-|                 | | ***Ind.*** | ***Subj.*** | | ***Ind.*** | ***Subj.*** |
-|-|-|-|-|-|-|-|
-|                 | | ***Imperfekto*** |       | | ***Perfekto*** |         |
-| | | | | | | |
-| ***Prezenco***  | | -          | -a          | | -u         | -rĭ         |
-| | | | | | | |
-| ***Preterito*** | | -ba        | -re         | | -ra        | -sse        |
-| | | | | | | |
-| ***Futuro***    | | -rá        | -ría        | | | |
-
-## Laŭ Persono
-
-### Imperfekto
+## Imperfekto
 
 |                 | | ***Ind.***   | ***Subj.*** |
 |-|-|-|-|
@@ -165,7 +155,7 @@ La korelativo **la** kaj la numeralo **un** uziĝas kiel artikoloj. ***En poezio
 | | | | |
 | ***Futuro***    | | -rá          | -ría        |
 
-#### Prezenco
+### Prezenco
 
 | | | |
 |-|-|-|
@@ -187,7 +177,7 @@ La korelativo **la** kaj la numeralo **un** uziĝas kiel artikoloj. ***En poezio
 | *ni faras* | | nos facĕ | *facĕmus* |
 | *ni amas*  | | nos ama  | *amamus*  |
 
-Antaŭ konjugacia finaĵo, la mi-formo similas al la indikativa prezenco en la subjunktivo kun la finaĵo *-o*.
+Antaŭ konjugacia finaĵo, la mi-formo similas al la subjunktiva prezenco kun la finaĵo *-o* anstataŭ **-a**. <!-- -å, -åm ? -->
 
 | | | | |
 |-|-|-|-|
@@ -212,7 +202,7 @@ La ili-formo de i-verboj havas ie anstataŭ i.
 | *(ke) ni faras*  | | nos facia | *faciamus* |
 | *(ke) ni amas*   | | nos ame   | *amemus*   |
 
-#### Preterito
+### Preterito
 
 **Indikativo:**
 ĕ- kaj ĭ-verboj kondutas kiel e-verboj.
@@ -236,17 +226,7 @@ La ili-formo de i-verboj havas ie anstataŭ i.
 | *(ke) ni faris*  | | nos facĕre | *facĕremus* |
 | *(ke) ni amis*   | | nos amare  | *amaremus*  |
 
-La formo de la subjunktiva preterito estas egala al la infinitivo. Pere de la verbo **vadĕ** kaj la infinitivo oni povas esprimi futuron (anstataŭ la finaĵo -á).
-
-| | | | | | | |
-|-|-|-|-|-|-|-|
-| *ni vidos*  | | **nos vadĕ videre** | nos vá videre | *vámus videre* | | ***vadĕmus videre*** |
-| *ni aŭdos*  | | **nos vadĕ audire** | nos vá audire | *vámus audire* | | ***vadĕmus audire*** |
-| *ni legos*  | | **nos vadĕ legĕre** | nos vá legĕre | *vámus legĕre* | | ***vadĕmus legĕre*** |
-| *ni faros*  | | **nos vadĕ facĕre** | nos vá facĕre | *vámus facĕre* | | ***vadĕmus facĕre*** |
-| *ni amos*   | | **nos vadĕ amare**  | nos vá amare  | *vámus amare*  | | ***vadĕmus amare***  |
-
-#### Futuro
+### Futuro
 
 **Indikativo:**
 La indikativa futuro estas la infinitivo kun -á, t.e. la indikativa prezenco de la verbo **habe** sen **h-**.
@@ -270,9 +250,7 @@ La subjunktiva futuro estas la infinitivo kun -ía, t.e. la indikativa preterito
 | *ni farus*  | | **nos facĕriba** | nos facĕría | *facĕríamus* | | ***facĕribamus*** |
 | *ni amus*   | | **nos amariba**  | nos amaría  | *amaríamus*  | | ***amaribamus***  |
 
-La subjunktiva futuro kutime nomiĝas kondicionalo.
-
-#### Imperativo
+### Imperativo
 
 La imperativo egalas al la indikativa prezenco.
 
@@ -284,7 +262,7 @@ La imperativo egalas al la indikativa prezenco.
 | *faru*  | | facĕ |
 | *amu*   | | ama  |
 
-#### Participo kaj Gerundio
+### Participo kaj Gerundio
 
 La participo finiĝas je -nte. Ili kondutas kiel la ili-formo je -nt de la indikativa prezenco. ĕ-verboj kondutas kiel e-verboj, kaj ĭ-verboj kondutas kiel i-verboj.
 
@@ -306,7 +284,22 @@ La gerundio finiĝas je -ndo kaj kondutas kiel la participo.
 | *estas faranta*  | | sta faciendo |
 | *estas amanta*   | | sta amando   |
 
-### Perfekto
+
+### Infinitivo
+
+La infinitivo estas egala al la subjunktiva preterito sen konjugacia finaĵo. Pere de la verbo **i** kaj infinitivo, oni povas esprimi venontecan aspekton.
+
+| | | |
+|-|-|-|
+| *mi estas legonta.* | | me vá legĕre. |
+
+## Perfekto
+
+La perfekto estas alternative formebla pere de la verbo **habe** kaj la pasiva participo.
+
+| | | | | | | |
+|-|-|-|-|-|-|-|
+| *mi estas dorminta* | | **me habe dormito** | me há dormito | *hó dormito* | | ***habeo dormito*** |
 
 |                 | ***Ind.*** | ***Subj.*** |
 |-|-|-|
@@ -315,9 +308,9 @@ La gerundio finiĝas je -ndo kaj kondutas kiel la participo.
 | | | |
 | ***Preterito*** | -ra        | -sse        |
 
-La radikofina vokalo antaŭ la perfektaj finaĵoj akcentiĝas.
+La radikofina vokalo antaŭ la perfektaj finaĵoj akcentiĝas. Tra bruo, **-vi-** kaj **-ve-** reaperas.
 
-#### Prezenco
+### Prezenco
 
 **Indikativo:**
 
@@ -357,7 +350,6 @@ vi/ve malaperas.
 | *ni aŭdintas*  | | nos audíu | *audímus*  | | ***audívĭmus*** |
 
 **Subjunktivo:**
-**ve** malaperas antaŭ konjugacia finaĵo.
 
 | | | | | | | |
 |-|-|-|-|-|-|-|
@@ -367,7 +359,7 @@ vi/ve malaperas.
 | *(ke) ni farintas*  | | **nos facĕverĭ** | nos facérĭ | *facérĭmus* | | ***facĕverĭmus*** |
 | *(ke) ni legintas*  | | **nos legĕverĭ** | nos legérĭ | *legérĭmus* | | ***legĕverĭmus*** |
 
-#### Preterito
+### Preterito
 
 **Indikativo:**
 
@@ -389,36 +381,48 @@ vi/ve malaperas.
 | *(ke) ni farintis*  | | **nos facĕvisse** | nos facésse | *facéssemus* | | ***facĕvissemus*** |
 | *(ke) ni legintis*  | | **nos legĕvisse** | nos legésse | *legéssemus* | | ***legĕvissemus*** |
 
-#### Participo
+### Participo
 
-La participo finiĝas je **-to**. e- kaj ĕ-verboj kondutas kiel ĭ-verboj, t.e. la **ĭ** eliziiĝas.
+Kiam la radikofina vokalo eliziiĝas antaŭ la participa finaĵo -ta, la participo fariĝas plenum-aspekta.
 
-| | | | |
-|-|-|-|-|
-| *amita*   | | amato  |         |
-| *aŭdita*  | | audito |         |
-| *vidita*  | | vidĭto | *viso*  |
-| *farita*  | | facĭto | *facto* |
-| *legita*  | | legĭto | *lecto* |
+| | | |
+|-|-|-|
+| *legata* | | legĭta |
+| *legita* | | lecta  |
 
-Pere de la verbo **habe** kaj la pasiva participo, oni povas esprimi la indikativan prezencon en perfekto (anstataŭ la finaĵo -u).
+***Pasivo:***
 
-| | | | | | | |
-|-|-|-|-|-|-|-|
-| *ni amintas*   | | **nos habe amato**  | nos há amato  | *hémus amato*  | | ***habemus amato***  |
-| *ni aŭdintas*  | | **nos habe audito** | nos há audito | *hémus audito* | | ***habemus audito*** |
-| *ni vidintas*  | | **nos habe vidĭto** | nos há vidĭto | *hémus viso*   | | ***habemus viso***   |
-| *ni farintas*  | | **nos habe facĭto** | nos há facĭto | *hémus facto*  | | ***habemus facto***  |
-| *ni legintas*  | | **nos habe legĭto** | nos há legĭto | *hémus lecto*  | | ***habemus lecto***  |
+| | | |
+|-|-|-|
+| *estas legata* | | es legĭta  |
+| | | |
+| *estas legita* | | sta lecta  |
+| *estas legata* | | veni lecta |
+| *estas legota* | | vá lecta   |
 
 ## Pronomoj
 
-Poezie, **me** kaj **te** fariĝas io kaj tu kiam ili ne estas la rekta objekto de transitiva verbo kaj kiam ili ne estas la argumento de prepozicio.
+Poezie, la pronomoj la unua kaj dua personoj estas *io*, *tu*, *noi* <!-- nu --> kaj *voi* <!-- vu --> kiam ili ne estas la rekta objekto de transitiva verbo kaj kiam ili ne estas la argumento de prepozicio.
 
 | | | | |
 |-|-|-|-|
 | *ci amas min* | | te me ama | *(tu) me amas* |
 | *mi amas cin* | | me te ama | *(io) te amo*  |
+| | | | |
+| *vi amas nin* | | vos nos ama | *(voi) nos amatis* |
+| *ni amas vin* | | nos vos ama | *(noi) vos amamus* |
+
+<!-- ego -->
+
+<!-- 
+nos nossa
+vos vossa
+
+me mea
+te tea
+
+ille wie que
+alle olle ulle elle? -->
 
 # Malregulaj Verboj
 
@@ -571,7 +575,8 @@ En la perfekto, uziĝas **essĕ**. (Aliaj verboj baziĝantaj sur **i** estas reg
 
 **a-Verboj:**
 
-<!-- aldona signifo/neologismo -->
+<!-- -at- → -it- / aldona signifo/neologismo -->
+
 | | cf. |
 |-|-|
 | **secato** | **secto**  |
