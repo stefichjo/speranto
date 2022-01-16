@@ -22,7 +22,7 @@
 
 ### Akcento
 
-La antaŭlasta vokalo estas akcentata. Kiam la antaŭlasta vokalo ne estas akcentata, ĝi portas hoketon. Kiam la lasta vokalo estas akcentata, ĝi portas dekstran kornon.
+La antaŭlasta vokalo estas akcentata. Kiam la antaŭlasta vokalo ne estas akcentata, ĝi portas hoketon. Kiam la lasta silabo akceptas la akcenton (pro elizio), ĝi portas dekstran kornon.
 
 | | |
 |-|-|
@@ -455,7 +455,7 @@ alle olle ulle elle? -->
 
 ## essĕre
 
-En la prezenco, **essĕ** fariĝas es en la indikativo kaj sia en la subjunktivo. Antaŭ konjugacia finaĵo, es ŝanĝiĝas.
+En la prezenco, **essĕ** fariĝas es en la indikativo kaj sia en la subjunktivo. Antaŭ konjugacia finaĵo, es ŝanĝiĝas. (Tiuj formoj ne portas dekstrajn kornojn, malgraŭ la elizioj: ~~só~~ → *so* - ***essio***.)
 
 | | | | | | | |
 |-|-|-|-|-|-|-|
