@@ -304,9 +304,9 @@ La perfekto estas alternative formebla pere de la verbo **habe** kaj la pasiva p
 |                 | ***Ind.*** | ***Subj.*** |
 |-|-|-|
 | | | |
-| ***Prezenco***  | -u         | -rĭ         |
+| ***Prezenco***  | 'u         | 'rĭ         |
 | | | |
-| ***Preterito*** | -ra        | -sse        |
+| ***Preterito*** | 'ra        | 'sse        |
 
 La radikofina vokalo antaŭ la perfektaj finaĵoj akcentiĝas. Tra bruo, **-vi-** kaj **-ve-** reaperas.
 
@@ -331,23 +331,35 @@ La konjugacia finaĵo *-it* uziĝas nur kiam la perfekta radiko estas diversa ol
 
 | | | | | | | |
 |-|-|-|-|-|-|-|
-| *li kantintas* | |              | le cantáu  | *cantáu* | | ***cantávit*** |
+| *li kantintas* | |              | le cantáu  | *cantáu* | | ***cantavit*** |
 | *li estintas*  | | **le esséu** | le fu      | *fuit*   | |                |
 
-Antaŭ konjunkcia finaĵo, év malaperas.
+Antaŭ konjunkcia finaĵo, *ev* malaperas.
 
 | | | | | | |
 |-|-|-|-|-|-|
-| *ni vidintas*  | | nos vidéu | *vidĭmus*  | | ***vidévĭmus*** |
-| *ni farintas*  | | nos facéu | *facĭmus*  | | ***facévĭmus*** |
-| *ni legintas*  | | nos legéu | *legĭmus*  | | ***legévĭmus*** |
+| *ni vidintas*  | | nos vidéu | *vidĭmus*  | | ***videvĭmus*** |
+| *ni farintas*  | | nos facéu | *facĭmus*  | | ***facevĭmus*** |
+| *ni legintas*  | | nos legéu | *legĭmus*  | | ***legevĭmus*** |
 
 vi/ve malaperas.
 
 | | | | | | |
 |-|-|-|-|-|-|
-| *ni amintas*   | | nos amáu  | *amámus*   | | ***amávĭmus***  |
-| *ni aŭdintas*  | | nos audíu | *audímus*  | | ***audívĭmus*** |
+| *ni amintas*   | | nos amáu  | *amámus*   | | ***amavĭmus***  |
+| *ni aŭdintas*  | | nos audíu | *audímus*  | | ***audivĭmus*** |
+
+*ii*/*íi* regule fariĝas *i*/*í*.
+
+| | | | | | |
+|-|-|-|-|-|-|
+| *mi amintas*  | | me amáu  |             *amái* | | ***amavii***  |
+| *mi aŭdintas* | | me audíu | ~~audíi~~ → *audí* | | ***audivii*** |
+| *mi vidintas* | | me vidéu | ~~vidii~~ → *vidi* | | ***videvii*** |
+| *mi farintas* | | me facéu | ~~facii~~ → *faci* | | ***facevii*** |
+| *mi legintas* | | me legéu | ~~legii~~ → *legi* | | ***legevii*** |
+
+<!-- Do direblas: veni, vidi, vinci. :) Close enough! -->
 
 **Subjunktivo:**
 
@@ -402,7 +414,7 @@ Kiam la radikofina vokalo eliziiĝas antaŭ la participa finaĵo -ta, la partici
 
 ## Pronomoj
 
-Poezie, la pronomoj la unua kaj dua personoj estas *io*, *tu*, *noi* <!-- nu --> kaj *voi* <!-- vu --> kiam ili ne estas la rekta objekto de transitiva verbo kaj kiam ili ne estas la argumento de prepozicio.
+Poezie, la pronomoj la unua kaj dua personoj estas *io*, *tu*, *noi* kaj *voi* kiam ili ne estas la rekta objekto de transitiva verbo kaj kiam ili ne estas la argumento de prepozicio.
 
 | | | | |
 |-|-|-|-|
@@ -411,6 +423,10 @@ Poezie, la pronomoj la unua kaj dua personoj estas *io*, *tu*, *noi* <!-- nu -->
 | | | | |
 | *vi amas nin* | | vos nos ama | *(voi) nos amatis* |
 | *ni amas vin* | | nos vos ama | *(noi) vos amamus* |
+
+<!-- (fá: fó fás fát fámus fátis fánt) -->
+
+<!-- h -->
 
 <!-- ego -->
 
@@ -490,7 +506,7 @@ En la perfekto, **esséu** fariĝas fu.
 
 | | | | | | | |
 |-|-|-|-|-|-|-|
-| *mi estintas*       | | **me esséu**      | me fu      | *fuii*      | | ***essii***        |
+| *mi estintas*       | | **me esséu**      | me fu      | *fui*       | | ***essii***        |
 | *ci estintas*       | | **te esséu**      | te fu      | *fuisti*    | | ***essisti***      |
 | *li estintas*       | | **le esséu**      | le fu      | *fuit*      | | ***essit***        |
 | *ni estintas*       | | **nos esséu**     | nos fu     | *fuĭmus*    | | ***essĭmus***      |
@@ -559,7 +575,7 @@ En la preterito, la finaĵo **-ba** mallongiĝas al **-a**. (Aliaj verboj baziĝ
 | *vi iris*   | | **vos iba**  | vos ía | *íatis* | | ***ibatis*** |
 | *ili iris*  | | **les iba**  | les ía | *íant*  | | ***ibant***  |
 
-En la perfekto, uziĝas **essĕ**. (Aliaj verboj baziĝantaj sur **i** estas regulaj: me exíu - *exíi* - ***exívii***.)
+En la perfekto, uziĝas **essĕ**. (Aliaj verboj baziĝantaj sur **i** estas regulaj: me exíu - *exí* - ***exívii***.)
 
 |                 | | ***Ind.*** | ***Subj.*** | | ***Ind.*** | ***Subj.*** |
 |-|-|-|-|-|-|-|
@@ -575,7 +591,7 @@ En la perfekto, uziĝas **essĕ**. (Aliaj verboj baziĝantaj sur **i** estas reg
 
 **a-Verboj:**
 
-<!-- -at- → -it- / aldona signifo/neologismo -->
+<!-- -at- → -it- / aldona signifo (kiel substantivo)/neologismo -->
 
 | | cf. |
 |-|-|
@@ -613,7 +629,7 @@ En la perfekto, uziĝas **essĕ**. (Aliaj verboj baziĝantaj sur **i** estas reg
 | **tergĭto**  | **terso**  |
 | **tenĭto**   | **tento**  |
 | **sedĭto**   | **sesso**  |
-| **tergēre**  | **terso**  |
+| **tergĭto**  | **terso**  |
 | **spondĭto** | **sponso** |
 | **vidĭto**   | **viso**   |
 | **torquĭto** | **torso**  | <!-- / torto -->

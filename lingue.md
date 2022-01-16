@@ -42,7 +42,7 @@ La ŝajnsufikso **-atĭc-** prononciĝas *[ađj]* (= *[aðj]*).
 
 | | |
 |-|-|
-| *fromaĝo* | **formatĭc̄e** *[formađjo]* |
+| *fromaĝo* | **formatĭc̄e** *[formađje]* |
 | *mesaĝo* | **missatĭc̄e** *[misađje]* |
 | *vojaĝo* | **viatĭc̄e** *[viađje]* |
  
@@ -102,11 +102,22 @@ Postvokala **-b** kaj **-p** ofte fariĝas **-v** *[v]*.
 
 | | |
 |-|-|
-| *havi* | **havu** *[havu]* |
+| *havi* | **havu** *[avu]* |
 | *skribi* | **scrivu** *[skrivu]* |
 | | |
 | *povra* | **pauvĕra** *[paŭvra]* |
 | *scii* | **savu** *[savu]* |
+
+### r
+
+**r** *[r]* prononciĝas *[ĥ]* <!-- ... -->
+
+| | |
+|-|-|
+| *tero*    | **terre** *[teĥe]*  |
+| *por*     | **por**   *[poĥ]*   |
+| *reala*   | **reale** *[ĥeale]* |
+| *malofta* | **rara**  *[ĥara]*  |
 
 ### s, x
 
@@ -116,14 +127,6 @@ Postvokala **-b** kaj **-p** ofte fariĝas **-v** *[v]*.
 |-|-|
 | *maso* | **masse** *[mase]* |
 | *rozo* | **rose** *[roze]* |
-
-**r** *[r]* prononciĝas *[ĥ]*...
-
-| | |
-|-|-|
-| *tero*  | **terre** *[teĥe]*  |
-| *por*   | **por**   *[poĥ]*   |
-| *reala* | **reale** *[ĥeale]* |
 
 **x** *[ks]* prononciĝas *[gz]* inter vokaloj.
 
@@ -161,10 +164,17 @@ Postvokala **-b** kaj **-p** ofte fariĝas **-v** *[v]*.
 | *vi*      | | *'is*  |
 | *ili*     | | *-n*   |
 
+*íi* regule fariĝas *í*.
+
+| | | |
+|-|-|-|
+| *vi dormas* | | ~~dormíis~~ → *dormís* |
+
+
 Kiam la radikofina konsonanto de i- kaj e-verboj ne ŝanĝiĝis, la radikofina vokalo eliziiĝas en la subjunktiva prezenco kaj en la mi-formo de la indikativa prezenco.
+
 <!-- Sekve, la prononco de "tenĭo" ne estas [tenjo] sed [teṅo]. -->
 <!-- have / hó ? -->
-<!-- façan = fazan ? -->
 <!-- vĭ [j]/[bj] ? -->
 <!-- íis → ís ? -->
 
@@ -174,14 +184,15 @@ lectione -> lectie/lectión?
 original' -> originál
 -->
 
+<!-- ago ages age agemus agéis agen; aga agas ... -->
+
 | | | | | |
 |-|-|-|-|-|
 | *mi kantas* | | **mi cantan** | mi canta | *canto* |
 | *mi vidas*  | | **mi vidan**  | mi vide  | *vido*  |
 | *mi tenas*  | | **mi tenan**  | mi tene  | *tenĭo* |
-| *mi havas*  | | **mi hán**    | mi há    | *hó*    |
 | *mi havas*  | | **mi havas**  | mi have  | *havĭo* |
-| *mi faras*  | | **mi façan**  | mi face  | *facĭo* |
+| *mi faras*  | | **mi faĉan**  | mi face  | *facĭo* |
 | *mi sentas* | | **mi sentan** | mi senti | *sento* |
 | *mi venas*  | | **mi venan**  | mi veni  | *venĭo* |
 
@@ -200,36 +211,37 @@ original' -> originál
 
 La imperativo estas egala al la indikativa prezenco.
 
-| | | |
-|-|-|-|
-| *kantu!* | **canta!** |
+| | | | |
+|-|-|-|-|
+| *kantu!* | | **canten!** | canta! |
 
 La subjunktiva prezenco uziĝas nur kiel volitivo.
 
-| | | |
-|-|-|-|
-| *mi volas, ke vi kantu* | **mi vole, qŭe tī cante.** |
+| | | | |
+|-|-|-|-|
+| *mi volas, ke vi kantu* | | **mi volan, qŭe tī canten.** | mi vole, qŭe tī cante. |
 
 La subjunktiva preterito uziĝas nur kiel infinitivo.
 
-| | | |
-|-|-|-|
-| *mi volas kanti* | | **mi vole cantar'** |
+| | | | |
+|-|-|-|-|
+| *mi volas kanti* | | **mi volen cantu** | mi vole cantár |
 
 La subjunktiva futuro uziĝas nur kiel kondicionalo.
 
-| | | |
-|-|-|-|
-| *mi kantus* | | **mi cantaría** |
+| | | | |
+|-|-|-|-|
+| *mi kantus* | | **mi cantun** | mi cantaría |
 
 Anstataŭ la perfektaj formoj, uziĝas la verbo **have** kun pasiva participo.
 
-| | | |
-|-|-|-|
-| *ni amintas*   | | **ni have amato**  |
-| *ni aŭdintas*  | | **ni have audito** |
-| *ni vidintas*  | | **ni have vidito** |
-| *ni farintas*  | | **ni have facito** |
-| *ni legintas*  | | **ni have legito** |
+<!-- ... -->
+| | | | |
+|-|-|-|-|
+| *ni amintas*   | | **ni** | **ni have amato**  |
+| *ni aŭdintas*  | | **ni** | **ni have audito** |
+| *ni vidintas*  | | **ni** | **ni have vidito** |
+| *ni farintas*  | | **ni** | **ni have facito** |
+| *ni legintas*  | | **ni** | **ni have legito** |
 
 
