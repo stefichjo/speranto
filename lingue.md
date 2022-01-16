@@ -52,8 +52,8 @@ La ŝajnsufikso **-atĭc-** prononciĝas *[ađj]* (= *[aðj]*).
 
 | | |
 |-|-|
-| *centro* | **centre** *[centre]* |
-| *leĝo* | **lege**  *[ledze]* |
+| *centro*  | **centre**  *[centre]*  |
+| *leĝo*    | **lege**    *[ledze]*   |
 | | |
 | *biciklo* | **bicycle** *[bicikle]* |
 
@@ -64,8 +64,8 @@ Kiam **c** kaj **g** estas prononcataj *[k]* kaj *[g]* antaŭ **e** kaj **i**, i
 | *amiko* | **amic̄e** *[amike]* |
 | *fungo* | **funḡe** *[funge]* |
 | | |
-| *paca* | **paĉa** *[paca]* |
-| *leĝa* | **leĝa** *[ledza]* |
+| *paca*  | **paĉa**  *[paca]*  |
+| *leĝa*  | **leĝa**  *[ledza]* |
 
 ### i, u
 
@@ -73,28 +73,28 @@ En diftongoj, **i** prononciĝas *[j]*. Komence de radiko, skribiĝas **j** anst
 
 | | |
 |-|-|
-| *majo* | **maie** *[maje]* |
-| *familio* | **familie** *[familje]* |
+| *majo*     | **maie**     *[maje]*     |
+| *familio*  | **familie**  *[familje]*  |
 | | |
-| *jam* | **jam** *[jam]* |
+| *jam*      | **jam**      *[jam]* |
 | *projekto* | **projecte** *[projekte]* |
 
 En diftongoj, **u** prononciĝas *[ŭ]*. Komence de radiko, ĝi skribiĝas **w**.
 
 | | |
 |-|-|
-| *aŭto* | **aute** *[aŭte]* |
-| *akvo* | **aque** *[akŭe]* |
+| *aŭto*   | **aute**   *[aŭte]*   |
+| *akvo*   | **aque**   *[akŭe]*   |
 | *kvanto* | **quante** *[kŭante]* |
 | | |
-| *ŭaŭ* | **wau** *[ŭaŭ]* |
+| *ŭaŭ*    | **wau**    *[ŭaŭ]*    |
 
 Kiam **i** kaj **u** estas akcentataj en antaŭlasta pozicio, ili portas makronon.
 
 | | |
 |-|-|
 | *poezio* | **poesīe** *[poezie]* |
-| *tatuo* | **tatūe** *[tatue]* |
+| *tatuo*  | **tatūe**  *[tatue]*  |
 
 ### v
 
@@ -102,11 +102,11 @@ Postvokala **-b** kaj **-p** ofte fariĝas **-v** *[v]*.
 
 | | |
 |-|-|
-| *havi* | **havu** *[avu]* |
-| *skribi* | **scrivu** *[skrivu]* |
+| *havi*   | **havu**    *[avu]*    |
+| *skribi* | **scrivu**  *[skrivu]* |
 | | |
-| *povra* | **pauvĕra** *[paŭvra]* |
-| *scii* | **savu** *[savu]* |
+| *povra*  | **pauvĕra** *[paŭvra]* |
+| *scii*   | **savu**    *[savu]*   |
 
 ### r
 
@@ -126,24 +126,24 @@ Postvokala **-b** kaj **-p** ofte fariĝas **-v** *[v]*.
 | | |
 |-|-|
 | *maso* | **masse** *[mase]* |
-| *rozo* | **rose** *[roze]* |
+| *rozo* | **rose**  *[roze]* |
 
 **x** *[ks]* prononciĝas *[gz]* inter vokaloj.
 
 | | |
 |-|-|
 | *ekzemplo* | **exemple** *[egzemple]* |
-| *fiksi* | **fixu** *[fiksu]* |
+| *fiksi*    | **fixu**    *[fiksu]*    |
 
 ### Grekaj Vortoj
 
 | | |
 |-|-|
-| *fazo* | **phase** *[faze]* |
-| *temo* | **theme** *[teme]* |
+| *fazo*      | **phase**      *[faze]*      |
+| *temo*      | **theme**      *[teme]*      |
 | *karaktero* | **charactere** *[karaktere]* |
-| *sistemo* | **systeme** *[sisteme]* |
-| *zono* | **zone** *[zone]* |
+| *sistemo*   | **systeme**    *[sisteme]*   |
+| *zono*      | **zone**       *[zone]*      |
 
 # Konjugacio
 
@@ -174,9 +174,10 @@ Postvokala **-b** kaj **-p** ofte fariĝas **-v** *[v]*.
 Kiam la radikofina konsonanto de i- kaj e-verboj ne ŝanĝiĝis, la radikofina vokalo eliziiĝas en la subjunktiva prezenco kaj en la mi-formo de la indikativa prezenco.
 
 <!-- Sekve, la prononco de "tenĭo" ne estas [tenjo] sed [teṅo]. -->
-<!-- have / hó ? -->
+<!-- La konsonanta radikofino de la mi-formo/subjunktivo difinas la formon en Lingue -->
+<!-- facĭo [faco] faĉ, lego [lego] leg, venĭo [veṅo] ven ! -->
+<!-- havĭa [havja] hav -->
 <!-- vĭ [j]/[bj] ? -->
-<!-- íis → ís ? -->
 
 <!--
 -are = -ar' = -ár → -á ? mi vole cantá
@@ -184,19 +185,16 @@ lectione -> lectie/lectión?
 original' -> originál
 -->
 
-<!-- ago ages age agemus agéis agen; aga agas ... -->
 
 | | | | | |
 |-|-|-|-|-|
 | *mi kantas* | | **mi cantan** | mi canta | *canto* |
 | *mi vidas*  | | **mi vidan**  | mi vide  | *vido*  |
 | *mi tenas*  | | **mi tenan**  | mi tene  | *tenĭo* |
-| *mi havas*  | | **mi havas**  | mi have  | *havĭo* |
+| *mi havas*  | | **mi havan**  | mi há    | *hó*    |
 | *mi faras*  | | **mi faĉan**  | mi face  | *facĭo* |
 | *mi sentas* | | **mi sentan** | mi senti | *sento* |
 | *mi venas*  | | **mi venan**  | mi veni  | *venĭo* |
-
-<!-- i-verboj kondutas kiel e-verboj krom en la ni- kaj vi-formoj. -->
 
 | | | | | | | | | |
 |-|-|-|-|-|-|-|-|-|
@@ -206,8 +204,6 @@ original' -> originál
 | *amamus* | | *venimus* | *sentimus*  | | *facemus*  | *capemus* | | *tenemus* | *videmus*  | | *legemus*  |
 | *amáis*  | | *venís*   | *sentís*    | | *facéis*   | *capéis*  | | *tenéis*  | *vidéis*   | | *legéis*   |
 | *aman*   | | *venen*   | *senten*    | | *facen*    | *capen*   | | *tenen*   | *viden*    | | *legen*    |
-
-<!-- Certe estas pli bona ekzemplo ol "caper'"? -->
 
 La imperativo estas egala al la indikativa prezenco.
 
@@ -235,13 +231,10 @@ La subjunktiva futuro uziĝas nur kiel kondicionalo.
 
 Anstataŭ la perfektaj formoj, uziĝas la verbo **have** kun pasiva participo.
 
-<!-- ... -->
-| | | | |
-|-|-|-|-|
-| *ni amintas*   | | **ni** | **ni have amato**  |
-| *ni aŭdintas*  | | **ni** | **ni have audito** |
-| *ni vidintas*  | | **ni** | **ni have vidito** |
-| *ni farintas*  | | **ni** | **ni have facito** |
-| *ni legintas*  | | **ni** | **ni have legito** |
-
-
+| | | | | |
+|-|-|-|-|-|
+| *ni amintas*   | | **ni have amito**  | ni há amito  | *hémus amito*  |
+| *ni aŭdintas*  | | **ni have audito** | ni há audito | *hémus audito* |
+| *ni vidintas*  | | **ni have vidito** | ni há vidito | *hémus vidito* |
+| *ni farintas*  | | **ni have facito** | ni há facito | *hémus facito* |
+| *ni legintas*  | | **ni have leḡito** | ni há leḡito | *hémus leḡito* |
