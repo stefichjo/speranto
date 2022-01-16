@@ -89,44 +89,10 @@ La grek-devenaj ŝajnfinaĵoj **-i**, **-ía**, **-a**, **-e** havas signifojn s
 | *"lumskribaĵo"*, *fotografaĵo*    | **photographe**  *[fotografe]*  |
 
 ## Gramatiko
-
-### Numeraloj
-
-La ŝajnsufikso por ordinaloj estas **-essĭma** *[esi-ma]*. ***En poezio***, ordinaloj havas apartajn formojn.
-
-|     | numeralo | ordinalo       | poezie      |
-|-|-|-|-|
-| *1* | **un**   | **unessĭma**   | **prima**   |
-| *2* | **du**   | **duessĭma**   | **secunda** |
-| *3* | **tri**  | **triessĭma**  | **tertia**  |
-| *4* | **quar** | **quaressĭma** | **quarta**  |
-| *5* | **quin** | **quinessĭma** | **quinta**  |
-| *6* | **ses**  | **sessessĭma** | **sesta**   |
-| *7* | **sep**  | **sepessĭma**  | **septa**   |
-| *8* | **octo** | **octoessĭma** | **octava**  |
-| *9* | **nove** | **noveessĭma** | **nona**    |
-
-|        | numeralo | ordinalo       |
-|-|-|-|
-| *10*   | **dec**  | **decessĭma**  |
-| *100*  | **cent** | **centessĭma** |
-| *1000* | **mill** | **millessĭma** |
-
+<!-- TODO forigendas la gramatika parto, char ghi jam enestas la slajdaron -->
 ### Artikoloj
 
-La korelativo **la** kaj la numeralo **un** uziĝas kiel artikoloj. ***En poezio***, ili povas mallongiĝi al **l'** kaj **un'**.
-
-| | | poezie |
-|-|-|-|
-| *tiu amiko*, *la amiko* | **la amico** | **l'amico** |
-| *unu amiko*, *amiko* | **una amico** | **un'amico** |
-
-<!-- la un || l' u' ? -->
-<!-- una = ia; unas = iaj; une = io -->
-<!-- la domo; las domos -->
-<!-- de le -> dele; de les -> deles -->
 <!-- de la -> del; ad la -> al -->
-<!-- ulle = ri; olle = li; alle = ŝi; elle = ĝi; ille = x -> le -->
 
 ### Verboj
 

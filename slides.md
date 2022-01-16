@@ -281,7 +281,25 @@ Note:
 | *alta* | **alta** |
 | *alte* | **altamente** |
 
-<!-- in alto -->
+<!--v-->
+
+## Lingua
+
+### Numeraloj kaj Ordinaloj
+
+| | | | | |
+|-|-|-|-|-|
+| *unu*  | **un**   | | *unua*  | **unta**      |
+| *du*   | **du**   | | *dua*   | **duta**      |
+| *tri*  | **tri**  | | *tria*  | **trita**     |
+| | | | | |
+| *dek*  | **dec**  | | *deka*  | **decesĭma**  |
+| *cent* | **cent** | | *centa* | **centesĭma** |
+| *mil*  | **mil**  | | *mila*  | **millesĭma** |
+
+Note:
+* Nedifina artikolo: **una**, **unas**
+* Poezie: **prima**, **secunda**, **tertia**, ..., **nona**
 
 <!--v-->
 
@@ -350,22 +368,35 @@ Note:
 | *tien* | **illu** | | *ĉi tien* | **eccu-illu** | | *nenien* | **nillu** |
 
 Note:
-* Poezie: **eccu-illo** = **nunc**, **hoc**, **sic**
+* **illi** ne uziĝas adjektivece. Anstataŭe, uziĝas **illa**: *tiu domo* = **illa domo**
+* Difina artikolo: **la**, **las**
+* Poezie: **de la** / **de las** = **dél**; **ad la** / **ad las** = **ál**
+* Poezie: **eccu-illo** = **hoc**, **nunc**, **sic**
+* Poezie: **eccu-illu** = **huc**
+* Poezie: **eccu-illi**, **eccu-ille**, **eccu-illa** = **quilli**, **quille**, **quilla**
 * Poezie: **nille** = **níl**
 
 <!--v-->
 
 ## Lingua
 
-### Tabelvortoj
+### Pronomoj
 
 | | | | | | | | |
 |-|-|-|-|-|-|-|-|
-| *ĉiu*  | **omni** |
-| *ĉio*  | **omne** |
-| *ĉia*  | **omna** |
-| *ĉie*  | **omno** |
-| *ĉien* | **omnu** |
+| *ŝi*  | **elle**  | | *li*  | **olle**  | | *ri*  | **ulle**  |
+| *ŝia* | **ellea** | | *lia* | **ollea** | | *ria* | **ullea** |
+
+| | | | | |
+|-|-|-|-|-|
+| *ŝi, li, ri, ĝi*     | **le**  | | *ili*  | **les**   |
+| *ŝia, lia, ria, ĝia* | **lea** | | *ilia* | **lessa** |
+
+Note:
+* *ĝi* = **alle** / **ille**
+* *si* = **se**
+* **lea** = **dele**, **lessa** = **deles**
+* Poezie: **(ille) dormit**, **(illes) dormient**
 
 <!--v-->
 
@@ -377,6 +408,10 @@ Note:
 |-|-|-|
 | *vidi*       | **videre**    |
 | *vidu!*      | **vide(te)!** |
+| | | |
+| *vidanta*    | **vidente**   |
+| *vidata*     | **vidĭta**    |
+| *vidita*     | **visa**      |
 
 <!--v-->
 
@@ -438,7 +473,8 @@ Note:
 | 🅴 | **qui**  | **que**  | **qua**  | **quo**  | **quu**  |
 | 🅾 | **qŭiu** | **qŭio** | **qŭia** | **qŭie** | **qŭii** |
 
-<!-- TODO ĉu "kii" ĝustas en Linguo ? -->
+Note:
+* **qŭii** signifas *kien*.
 
 <!--v-->
 
@@ -460,9 +496,12 @@ Note:
 
 | | | | | | | | |
 |-|-|-|-|-|-|-|-|
-| 🅰 | **illi**  | | **nilli** | | **ali-qui** | | **qui-quĕ** |
+| 🅰 | **illi**  | | **nilli** | | **alĭ-qui** | | **qui-quĕ** |
 | 🅴 | **ti**    | | **noni**  | | **uni**     | | **omni**    |
 | 🅾 | **tiu**   | | **neniu** | | **iu**      | | **ĉiu**     |
+
+Note: 🅰 **la gente**, 🅴 **oni**, 🅾 **onu** signifas *oni*.
+Note: 🅾 **la unu(i)** signifas *la unu(j)*, dum *unu* estas 🅾 **un**.
 
 <!--v-->
 
@@ -478,7 +517,8 @@ Note:
 
 Note:
 * **mea**, **tea** + **mia**, **tīa** [ŧia] + **mua**, **tua**
-* Poezie: **io**, **tu**, **noi**, **voi** (subjekto ĉe konjugacio)
+* **se** signifas *si*
+* Poezie: **io**, **tu** (subjekto ĉe konjugacio)
 
 <!--v-->
 
@@ -494,57 +534,7 @@ Note:
 
 Note:
 * **nossa**, **vossa** + **nia**, **via** + **nua** + **vua**
-
-<!--v-->
-
-## Lingue + Linguo
-
-### Pronomoj
-
-<!-- TODO update! -->
-
-| | | | | | | | |
-|-|-|-|-|-|-|-|-|
-| 🅰 | **olle**/**-i** | | **alle**/**-i** | | **ulle**/**-i** | | **elle**/**-i** |
-| 🅴 | **olli**        | | **alli**        | | **ulli**        | | **elli**        |
-| 🅾 | **ollu**/**-n** | | **allu**/**-n** | | **ullu**/**-n** | | **ellu**/**-n** |
-
-Note:
-* 🅰 **ollea**, **allea**, **ullea**, **ellea**
-* 🅴 **ollia**, **allia**, **ullia**, **ellia**
-* 🅾 **ollua**, **allua**, **ullua**, **ellua**
-
-<!--v-->
-
-## Lingue + Linguo
-
-### Pronomoj
-
-| | |
-|-|-|
-| 🅰 | **ille**/**-i** |
-| 🅴 | **illi**        |
-| 🅾 | **illu**/**-n** |
-
-Note:
-* 🅰 **illea**
-* 🅴 **illia**
-* 🅾 **illua**
-
-<!--v-->
-
-## Lingue + Linguo
-
-### Pronomoj
-
-| | | | |
-|-|-|-|-|
-| 🅰 | **one**/**oni**  | | **su**/**i**   |
-| 🅴 | **oni**          | | **si**         |
-| 🅾 | **onu**/**onun** | | **su**/**sun** |
-
-Note:
-* **onea**, **sūa** + **onia**, **sia** + **onua**, **sua**
+* Poezie: **noi**, **voi** (subjekto ĉe konjugacio)
 
 <!--v-->
 
@@ -554,7 +544,7 @@ Note:
 
 | | | | |
 |-|-|-|-|
-| 🅴 | **vi vidan** | | **se vi vidun** |
+| 🅴 | **vi vidan** | | **si vi vidun** |
 | 🅾 | **vu vidas** | | **se vu vidus** |
 | | | | |
 | 🅴 | **vi vidin** | | **c̄e vi viden** |
@@ -934,20 +924,20 @@ Note:
 
 | | | |
 |-|-|-|
-| **facile**   | → | **facil'**   |
+| **facĭle**   | → | **fácĭl**   |
 | | | |
-| **stellare** | → | **stellar'** |
+| **stellare** | → | **stellár** |
 | | | |
-| **amare**    | → | **amar'**    |
+| **amare**    | → | **amár**    |
 | | | |
-| **seniore**  | → | **senior'**  |
+| **seniore**  | → | **seniór**  |
 | | | |
-| **versione**  | → | **version'**  |
+| **versione**  | → | **versión**  |
 
 Note:
-* **amare ti** → **amar-ti**
-* **amare ulli** → **amar-li**
-* **amare illi** → **amar-lis**
+* **te amare** → **amar-te**
+* **le amare** → **amar-le**
+* **les amare** → **amar-les**
 
 <!--v-->
 
@@ -957,18 +947,21 @@ Note:
 
 | | | |
 |-|-|-|
-| **facilemente** | → | **facilmente** |
+| **facĭlemente** | → | **facĭlmente** |
 | | | |
 | **solamente**   | → | **solo**       |
 
 Note:
 * **bono**, **claro**, **multo**
+<!-- TODO in alto; in altamente? -->
 
 <!--v-->
 
 ### Lingua*
 
 #### Verboj
+
+<!-- UPDATE Konjugacio -->
 
 | | | |
 |-|-|-|
@@ -988,7 +981,8 @@ Note:
 
 | | | | |
 |-|-|-|-|
-| *kiu ...* | **qui** | → | **quale** |
+| *kiu ...* | **qua**  | → | **quale** |
+| *tiu ...* | **illa** | → | **tale**  | 
 
 Note:
 * 🅴 **quał** [kŭaŭ], 🅾 **qŭiał** [kjaŭ]
@@ -1008,6 +1002,8 @@ Note:
 ### Lingue*
 
 #### Pronomoj
+
+<!-- TODO update -->
 
 | | | |
 |-|-|-|
@@ -1079,9 +1075,9 @@ Note:
 
 ## Esperanto*
 
-[Se eĉ supozeramus la finan lingvon di l'<br> estontaj generacioj ne Esperanto, in ĉja<br> okazo la voj' ad tjaŭ ellaborota lingvo<br> nepre devat konduki tra Esperanto.]
+[Se eĉ supozeramus la finan lingvon di l'<br> estontaj generacioj ne Esperanto, in ĉja<br> okazo la voj' ad tju ellaborota lingvo<br> nepre devat konduki tra Esperanto.]
 
-> Se eĉ supposeramus la finan linguon<br> di l' s̈tontai gŭeneratīoi<br> ne S̈peranto, in ĉia occaso<br> la vĩ' ad tiał ellaborota linguo<br> nepre devat conduqŭi<br> tra S̈peranto.
+> Sï eĉ supposeramus la finan linguon<br> di l' s̈tontai gŭeneratīoi<br> ne S̈peranto, in ĉia occaso<br> la vĩ' ad tiu ellaborota linguo<br> nepre devat conduqŭi<br> tra S̈peranto.
 
 <!--v-->
 
@@ -1089,7 +1085,7 @@ Note:
 
 [Se ni eĉ supozos, ke la fina lingvo de la<br> estontaj generacioj estas ne Esperanto, en ĉia<br> okazo la vojo al tiu ellaborota lingvo<br> nepre devas konduki tra Esperanto.]
 
-> Se ni eĉ supposos, qŭe la fina linguo<br> de la s̈tontai gŭeneratīoi<br> estas ne S̈peranto, en ĉia occaso<br> la vĩo al tiu ellaborota linguo<br> nepre devas conduqŭi<br> tra S̈peranto.
+> Sï ni eĉ supposos, qŭe la fina linguo<br> de la s̈tontai gŭeneratīoi<br> estas ne S̈peranto, en ĉia occaso<br> la vĩo al tiu ellaborota linguo<br> nepre devas conduqŭi<br> tra S̈peranto.
 
 <!--v-->
 
@@ -1097,23 +1093,23 @@ Note:
 
 [Se nu eĉ supozos, ke la fina lingvo de la<br> esontaj generacioj esas ne Speranto, en ĉia<br> okazo la vio al tiu ellaborota lingvo<br> nepre devas konduki tra Speranto.]
 
-> Se nu eĉ supposos, qŭe la fina linguo<br> de la essontai gŭeneratīoi<br> essas ne Speranto, en ĉia occaso<br> la vio al tiu ellaborota linguo<br> nepre devas conduqŭi<br> tra Speranto.
+> Sï nu eĉ supposos, qŭe la fina linguo<br> de la essontai gŭeneratīoi<br> essas ne Speranto, en ĉia occaso<br> la vio al tiu ellaborota linguo<br> nepre devas conduqŭi<br> tra Speranto.
 
 <!--v-->
 
 ## Speranto*
 
-[Se eĉ supozeramus la finan lingvon di l'<br> esontaj generacioj ne Speranto, in ĉja<br> okazo la vi' ad tjaŭ ellaborota lingvo<br> nepre devat konduki tra Speranto.]
+[Se eĉ supozeramus la finan lingvon di l'<br> esontaj generacioj ne Speranto, in ĉja<br> okazo la vi' ad tju ellaborota lingvo<br> nepre devat konduki tra Speranto.]
 
-> Se eĉ supposeramus la finan linguon<br> di l' essontai gŭeneratīoi<br> ne Speranto, in ĉia occaso<br> la vi' ad tiał ellaborota linguo<br> nepre devat conduqŭi<br> tra Speranto.
+> Sï eĉ supposeramus la finan linguon<br> di l' essontai gŭeneratīoi<br> ne Speranto, in ĉia occaso<br> la vi' ad tiu ellaborota linguo<br> nepre devat conduqŭi<br> tra Speranto.
 
 <!--v-->
 
 ## Linguo*
 
-[Se eĉ supozeramus la lingŭon finan dil<br> ĝenerasioj esontaj ne Speranto, in ĉja<br> okazjo la vi' ad tjaŭ lingŭo ellavorota<br> infalivle devat konduki tra Speranto.]
+[Se eĉ supozeramus la lingŭon finan dil<br> ĝenerasioj esontaj ne Speranto, in ĉja<br> okazjo la vi' ad tju lingŭo ellavorota<br> infalivle devat konduki tra Speranto.]
 
-> Se eĉ supposeramus la linguon finan<br> dil generatīoi essontai<br> ne Speranto, in ĉia occasio<br> la vi' ad tiał linguo ellavorota<br> infallivle devat conduqŭi<br> tra Speranto.
+> Sï eĉ supposeramus la linguon finan<br> dil generatīoi essontai<br> ne Speranto, in ĉia occasio<br> la vi' ad tiu linguo ellavorota<br> infallivle devat conduqŭi<br> tra Speranto.
 
 <!--v-->
 
@@ -1121,7 +1117,7 @@ Note:
 
 [Se nu eĉ supozos, ke la lingvo fina de la<br> ĝenerasioj esontaj esas ne Speranto, en ĉia<br> okazjo la vio al tiu lingvo ellavorota<br> infalivle devas konduki tra Speranto.]
 
-> Se nu eĉ supposos, qŭe la linguo fina<br> de la generatīoi essontai<br> essas ne Speranto, en ĉia occasio<br> la vio al tiu linguo ellavorota<br> infallivle devas conduqŭi<br> tra Speranto.
+> Sï nu eĉ supposos, qŭe la linguo fina<br> de la generatīoi essontai<br> essas ne Speranto, en ĉia occasio<br> la vio al tiu linguo ellavorota<br> infallivle devas conduqŭi<br> tra Speranto.
 
 <!--v-->
 
@@ -1129,31 +1125,31 @@ Note:
 
 [Se ni eĉ supponon, ke la lingŭe fina de la<br> dzeneraŧjes essontas essan no Sperante, en omna<br> okkazje la vie al ti lingŭe ellavorota<br> infallivlo devan konduku tra Sperante.]
 
-> Se ni et supponon, c̄e la lingue fina<br> de la generaties essontas<br> essan no Sperante, en omna occasie<br> la vie al ti lingue ellavorota<br> infallivlo devan conducu<br> tra Sperante.
+> Sï ni et supponon, c̄e la lingue fina<br> de la generaties essontas<br> essan no Sperante, en omna occasie<br> la vie al ti lingue ellavorota<br> infallivlo devan conducu<br> tra Sperante.
 
 <!--v-->
 
 ## Lingue*
 
-[Se et supponeramus la lingŭe fina dil<br> dzeneraŧjes essontas no Sperante, in omna<br> okkazje la vi' ad taŭ lingŭe ellavorota<br> infallivlo devat konduku tra Sperante.]
+[Se et supponeremus la lingŭe fina dil<br> dzeneraŧjes essontas no Sperante, in omna<br> okkazje la vi' ad ti lingŭe ellavorota<br> infallivlo devat konduker' tra Sperante.]
 
-> Se et supponeramus la lingue fina<br> dil generaties essontas<br> no Sperante, in omna occasie<br> la vi' ad tał lingue ellavorota<br> infallivlo devat conducu<br> tra Sperante.
+> Sï et supponeremus la lingue fina<br> díl generaties essontas<br> no Sperante, in omna occasie<br> la vi' ad ti lingue ellavorota<br> infallivlo devat conduqŭér<br> tra Sperante.
 
 <!--v-->
 
 ## Lingua*
 
-[Si et suponeramus la lingu-a final' de las<br> generationes futuras esse no Sperante, in omna okkasion' la via ad lal' lingu-a elaborenda<br> infallibilmente debet konduker trans Sperante.]
+[Si et suponeremus la lingu-a final' del<br> generationes futuras esser-e no Sperante, in omni-a okkasion' la via ad illa lingu-a elaboranda<br> infallibilmente debet konduker per Sperante.]
 
-> Si et supponeramus la lingua<br> final' de las generationes futuras<br> esse no Sperante, in omna occasion'<br> la via ad lal' lingua elaborenda<br> infallibilmente debet conducĕr' <br>trans Sperante.
+> Si et supponerémus la lingua<br> finál dél generationes futuras<br> essĕre no Sperante, in omnia occasión<br> la via ad illa lingua elaboranda<br> infallibilmente debet condúcĕr <br>per Sperante.
 
 <!--v-->
 
 ## Lingua
 
-[Si nos et supponera', ke la lingu-a finale de las<br> generationes futuras esse no Sperante, in omna<br> okkasione la via ad li lingu-a elaborenda<br> infallibilemente debe konduker-e trans Sperante.]
+[Si nos et supponera', ke la lingu-a finale de las<br> generationes futuras essi-a no Sperante, in omni-a<br> okkasione la via ad illa lingu-a elaboranda<br> infallibilemente debe konduker-e per Sperante.]
 
-> Si nos et supponerá, ce la lingua<br> finale de las generationes futuras<br> esse no Sperante, in omna occasione<br> la via ad li lingua elaborenda<br> infallibilemente debe conducĕre<br> trans Sperante.
+> Si nos et supponĕrá, ce la lingua<br> finale de las generationes futuras<br> essia no Sperante, in omnia occasione<br> la via ad illa lingua elaboranda<br> infallibilemente debe conducĕre<br> per Sperante.
 
 <!--v-->
 
