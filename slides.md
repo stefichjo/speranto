@@ -281,6 +281,10 @@ Note:
 | *alta* | **alta** |
 | *alte* | **altamente** |
 
+
+Note:
+* **in alto**, **per bono**, **per multo**
+
 <!--v-->
 
 ## Lingua
@@ -370,10 +374,11 @@ Note:
 Note:
 * **illi** ne uziĝas adjektivece. Anstataŭe, uziĝas **illa**: *tiu domo* = **illa domo**
 * Difina artikolo: **la**, **las**
-* Poezie: **de la** / **de las** = **dél**; **ad la** / **ad las** = **ál**
-* Poezie: **eccu-illo** = **hoc**, **nunc**, **sic**
-* Poezie: **eccu-illu** = **huc**
-* Poezie: **eccu-illi**, **eccu-ille**, **eccu-illa** = **quilli**, **quille**, **quilla**
+* Poezie: **de la** = **dél**; **ad la** = **ál**
+* Poezie: **eccu-illa** / **tale** = **tál**
+* Poezie: **eccu-illo** / **hoc**, **nunc**, **sic**, **tanto**
+* Poezie: **eccu-illu** / **huc**
+* Poezie: **eccu-illi**, **eccu-ille**, **eccu-illa** / **quilli**, **quille**, **quilla**
 * Poezie: **nille** = **níl**
 
 <!--v-->
@@ -950,10 +955,7 @@ Note:
 | **facĭlemente** | → | **facĭlmente** |
 | | | |
 | **solamente**   | → | **solo**       |
-
-Note:
-* **bono**, **claro**, **multo**
-<!-- TODO in alto; in altamente? -->
+| **claramente**  | → | **claro**      |
 
 <!--v-->
 
@@ -961,17 +963,15 @@ Note:
 
 #### Verboj
 
-<!-- UPDATE Konjugacio -->
-
 | | | |
 |-|-|-|
-| **me habe**   | → | **habem**   |
-| **tu habe**   | → | **habes**   |
-| **ulle habe** | → | **habet**   |
-| | | |
-| **nos habe**  | → | **habemus** |
-| **vos habe**  | → | **habetis** |
-| **ille habe** | → | **habent**  |
+| **me habe**   | → | **habeo**   | → | **hó**    |
+| **te habe**   | → | **habes**   | → | **hás**   |
+| **le habe**   | → | **habet**   | → | **hát**   |
+| | | | | |
+| **nos habe**  | → | **habemus** | → | **hémus** |
+| **vos habe**  | → | **habetis** | → | **hétis** |
+| **les habe**  | → | **habent**  | → | **hánt**  |
 
 <!--v-->
 
@@ -981,8 +981,8 @@ Note:
 
 | | | | |
 |-|-|-|-|
-| *kiu ...* | **qua**  | → | **quale** |
-| *tiu ...* | **illa** | → | **tale**  | 
+| *kia* | **qua**  | → | **quale** |
+| *tia* | **illa** | → | **tale**  | 
 
 Note:
 * 🅴 **quał** [kŭaŭ], 🅾 **qŭiał** [kjaŭ]
@@ -995,20 +995,7 @@ Note:
 
 | | | |
 |-|-|-|
-| **dome** | → | **dom'** |
-
-<!--v-->
-
-### Lingue*
-
-#### Pronomoj
-
-<!-- TODO update -->
-
-| | | |
-|-|-|-|
-| **olli**, **alli**, **ulli**, **elli** | → | **li**  |
-| **illi**                               | → | **lis** |
+| **dome** | → | **dóm** |
 
 <!--v-->
 
@@ -1123,25 +1110,25 @@ Note:
 
 ## Lingue
 
-[Se ni eĉ supponon, ke la lingŭe fina de la<br> dzeneraŧjes essontas essan no Sperante, en omna<br> okkazje la vie al ti lingŭe ellavorota<br> infallivlo devan konduku tra Sperante.]
+[Se ni eĉ supponon, ke la lingŭe fina de las<br> dzeneraŧjes essontas essan no Sperante, en omna<br> okkazje la vie al ti lingŭe ellavorota<br> infallivlo devan konduku tra Sperante.]
 
-> Sï ni et supponon, c̄e la lingue fina<br> de la generaties essontas<br> essan no Sperante, en omna occasie<br> la vie al ti lingue ellavorota<br> infallivlo devan conducu<br> tra Sperante.
+> Sï ni et supponon, c̄e la lingue fina<br> de las generaties essontas<br> essan no Sperante, en omna occasie<br> la vie al ti lingue ellavorota<br> infallivlo devan conducu<br> tra Sperante.
 
 <!--v-->
 
 ## Lingue*
 
-[Se et supponeremus la lingŭe fina dil<br> dzeneraŧjes essontas no Sperante, in omna<br> okkazje la vi' ad ti lingŭe ellavorota<br> infallivlo devat konduker' tra Sperante.]
+[Se et supponeremus la lingŭe fina di las<br> dzeneraŧjes essontas no Sperante, in omna<br> okkazje la vi' ad ti lingŭe ellavorota<br> infallivlo devat konduker' tra Sperante.]
 
-> Sï et supponeremus la lingue fina<br> díl generaties essontas<br> no Sperante, in omna occasie<br> la vi' ad ti lingue ellavorota<br> infallivlo devat conduqŭér<br> tra Sperante.
+> Sï et supponeremus la lingue fina<br> dí las generaties essontas<br> no Sperante, in omna occasie<br> la vi' ad ti lingue ellavorota<br> infallivlo devat conduqŭér<br> tra Sperante.
 
 <!--v-->
 
 ## Lingua*
 
-[Si et suponeremus la lingu-a final' del<br> generationes futuras esser-e no Sperante, in omni-a okkasion' la via ad illa lingu-a elaboranda<br> infallibilmente debet konduker per Sperante.]
+[Si et suponeremus la lingu-a final' de las<br> generationes futuras esser-e no Sperante, in omni-a okkasion' la via ad illa lingu-a elaboranda<br> infallibilmente debet konduker per Sperante.]
 
-> Si et supponerémus la lingua<br> finál dél generationes futuras<br> essĕre no Sperante, in omnia occasión<br> la via ad illa lingua elaboranda<br> infallibilmente debet condúcĕr <br>per Sperante.
+> Si et supponerémus la lingua<br> finál de las generationes futuras<br> essĕre no Sperante, in omnia occasión<br> la via ad illa lingua elaboranda<br> infallibilmente debet condúcĕr <br>per Sperante.
 
 <!--v-->
 
