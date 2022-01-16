@@ -94,22 +94,22 @@ La grek-devenaj ŝajnfinaĵoj **-i**, **-ía**, **-a**, **-e** havas signifojn s
 
 La ŝajnsufikso por ordinaloj estas **-essĭma** *[esi-ma]*. ***En poezio***, ordinaloj havas apartajn formojn.
 
-| | numeralo | ordinalo | poezie |
+|     | numeralo | ordinalo       | poezie      |
 |-|-|-|-|
-| *1* | **un** | **unessĭma** | **prima** |
-| *2* | **du** | **duessĭma** | **secunda** |
-| *3* | **tri** | **triessĭma** | **tertia** |
-| *4* | **quar** | **quaressĭma** | **quarta** |
-| *5* | **quin** | **quinessĭma** | **quinta** |
-| *6* | **ses** | **sessessĭma** | **sesta** |
-| *7* | **sep** | **sepessĭma** | **septa** |
-| *8* | **octo** | **octoessĭma** | **octava** |
-| *9* | **nove** | **noveessĭma** | **nona** |
+| *1* | **un**   | **unessĭma**   | **prima**   |
+| *2* | **du**   | **duessĭma**   | **secunda** |
+| *3* | **tri**  | **triessĭma**  | **tertia**  |
+| *4* | **quar** | **quaressĭma** | **quarta**  |
+| *5* | **quin** | **quinessĭma** | **quinta**  |
+| *6* | **ses**  | **sessessĭma** | **sesta**   |
+| *7* | **sep**  | **sepessĭma**  | **septa**   |
+| *8* | **octo** | **octoessĭma** | **octava**  |
+| *9* | **nove** | **noveessĭma** | **nona**    |
 
-| | numeralo | ordinalo |
+|        | numeralo | ordinalo       |
 |-|-|-|
-| *10* | **dec** | **decessĭma** |
-| *100* | **cent** | **centessĭma** |
+| *10*   | **dec**  | **decessĭma**  |
+| *100*  | **cent** | **centessĭma** |
 | *1000* | **mill** | **millessĭma** |
 
 ### Artikoloj
@@ -418,17 +418,35 @@ Poezie, la pronomoj la unua kaj dua personoj estas *io*, *tu*, *noi* kaj *voi* k
 
 | | | | |
 |-|-|-|-|
-| *ci amas min* | | te me ama | *(tu) me amas* |
-| *mi amas cin* | | me te ama | *(io) te amo*  |
+| *mi dormas* | | me dormi  | *(io) dormo*     |
+| *ci dormas* | | te dormi  | *(tu) dormis*    |
 | | | | |
-| *vi amas nin* | | vos nos ama | *(voi) nos amatis* |
-| *ni amas vin* | | nos vos ama | *(noi) vos amamus* |
+| *ni dormas* | | nos dormi | *(noi) dormimus* |
+| *vi dormas* | | vos dormi | *(voi) dormitis* |
+
+
+<!-- 
+xi  = ille = le
+ili = illes = les
+
+ŝi = elle
+ri = ulle
+li = olle
+ĝi = (alle → ille: alle → ille pluvat → pluvat)
+
+iste
+ipse
+
+"nel" ne funkcias tiam, ĉar la "e" eliziiĝus post prepozicio.
+
+tamen, "ille" ŝajnas uzinda (anstataŭ "le") ankaŭ en aliaj pozicioj, por klareco.
+necesas do modifi tiun ĉi klarigon.
+Eble sufiĉas diri, ke kiel superflua subjekto me, te, nos, vos, le, les ne uziĝas. Punktofino. Alternative, oni uzu io, tu, noi, voi, ille, illes. Necesas tiam klarigi diferenceton inter le kaj ille respektive inter les kaj illes. (Kaj inter la(s) kaj illa(s).)
+-->
 
 <!-- (fá: fó fás fát fámus fátis fánt) -->
 
 <!-- h -->
-
-<!-- ego -->
 
 <!-- 
 nos nossa

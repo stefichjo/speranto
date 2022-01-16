@@ -281,19 +281,7 @@ Note:
 | *alta* | **alta** |
 | *alte* | **altamente** |
 
-<!--v-->
-
-## Lingua
-
-### Tabelvortoj
-
-| | | | | |
-|-|-|-|-|-|
-| *kiu*  | **qui** | | *tiu*  | **li** |
-| *kio*  | **que** | | *tio*  | **le** |
-| *kia*  | **qua** | | *tia*  | **la** |
-| *kie*  | **quo** | | *tie*  | **lo** |
-| *kien* | **quu** | | *tien* | **lu** |
+<!-- in alto -->
 
 <!--v-->
 
@@ -303,28 +291,30 @@ Note:
 
 | | | | | |
 |-|-|-|-|-|
-| *(k)iu ajn*  | **aliqui** | | *ĉi tiu*  | **hi** |
-| *(k)io ajn*  | **alique** | | *ĉi tio*  | **he** |
-| *(k)ia ajn*  | **aliqua** | | *ĉi tia*  | **ha** |
-| *(k)ie ajn*  | **aliquo** | | *ĉi tie*  | **ho** |
-| *(k)ien ajn* | **aliquu** | | *ĉi tien* | **hu** |
+| *kiu*  | **qui** | | *iu*  | **alĭ-qui** |
+| *kio*  | **que** | | *io*  | **alĭ-que** |
+| *kia*  | **qua** | | *ia*  | **alĭ-qua** |
+| *kie*  | **quo** | | *ie*  | **alĭ-quo** |
+| *kien* | **quu** | | *ien* | **alĭ-quu** |
+
+* Poezie: **quo** = **ubi**
+
+<!--v-->
+
+## Lingua
+
+### Tabelvortoj
+
+| | | | | |
+|-|-|-|-|-|
+| *kiu ajn*  | **un-qui** | | *ĉiu*  | **qui-quĕ** |
+| *kio ajn*  | **un-que** | | *ĉio*  | **que-quĕ** |
+| *kia ajn*  | **un-qua** | | *ĉia*  | **qua-quĕ** |
+| *kie ajn*  | **un-quo** | | *ĉie*  | **quo-quĕ** |
+| *kien ajn* | **un-quu** | | *ĉien* | **quu-quĕ** |
 
 Note:
-* La akcento restas sur la lasta silabo. [alikui']
-
-<!--v-->
-
-## Lingua
-
-### Tabelvortoj
-
-| | | | | | | | |
-|-|-|-|-|-|-|-|-|
-| *ĉiu*  | **omni** | | *iu*  | **uni** | | *neniu*  | **ni** |
-| *ĉio*  | **omne** | | *io*  | **une** | | *nenio*  | **ne** |
-| *ĉia*  | **omna** | | *ia*  | **una** | | *nenia*  | **na** |
-| *ĉie*  | **omno** | | *ie*  | **uno** | | *nenie*  | **no** |
-| *ĉien* | **omnu** | | *ien* | **unu** | | *nenien* | **nu** |
+* Poezie: **qua-quĕ** = **omnia**
 
 <!--v-->
 
@@ -336,11 +326,46 @@ Note:
 |-|-|
 | *kiam* | **quando** |
 | *kiom* | **quanto** |
-| | |
+| | | | | |
 | *kial* | **quare**  |
 | *kiel* | **quomo**  |
-| | |
+| | | | | |
 | *kies* | **quius**  |
+
+Note:
+* Poezie: **quando-quĕ** = **semper**
+
+<!--v-->
+
+## Lingua
+
+### Tabelvortoj
+
+| | | | | | | | |
+|-|-|-|-|-|-|-|-|
+| *tiu*  | **illi** | | *ĉi tiu*  | **eccu-illi** | | *neniu*  | **nilli** |
+| *tio*  | **ille** | | *ĉi tio*  | **eccu-ille** | | *nenio*  | **nille** |
+| *tia*  | **illa** | | *ĉi tia*  | **eccu-illa** | | *nenia*  | **nilla** |
+| *tie*  | **illo** | | *ĉi tie*  | **eccu-illo** | | *nenie*  | **nillo** |
+| *tien* | **illu** | | *ĉi tien* | **eccu-illu** | | *nenien* | **nillu** |
+
+Note:
+* Poezie: **eccu-illo** = **nunc**, **hoc**, **sic**
+* Poezie: **nille** = **níl**
+
+<!--v-->
+
+## Lingua
+
+### Tabelvortoj
+
+| | | | | | | | |
+|-|-|-|-|-|-|-|-|
+| *ĉiu*  | **omni** |
+| *ĉio*  | **omne** |
+| *ĉia*  | **omna** |
+| *ĉie*  | **omno** |
+| *ĉien* | **omnu** |
 
 <!--v-->
 
@@ -362,8 +387,8 @@ Note:
 | | | | | | |
 |-|-|-|-|-|-|
 | *vidas*      | **vide**      | | *(ke) vidu*  | **vida**      |
-| *vidis*      | **videba**    | | *(se) vidus* | **videsse**   |
-| *vidos*      | **viderā**    | | *(do) vidus* | **viderē**    |
+| *vidis*      | **videba**    | | *(se) vidus* | **vidésse**   |
+| *vidos*      | **viderá**    | | *(do) vidus* | **videría**   |
 
 <!--v-->
 
@@ -405,37 +430,15 @@ Note:
 
 ## Lingue + Linguo
 
-### -e ⟷ -o
+### -i ⟷ -u, -e ⟷ -o
 
 | | |
 |-|-|
-| 🅰 | **no** |
-| 🅴 | **no** |
-| 🅾 | **ne** |
+| 🅰 | ...      | ...      | ...      | ...      | ...      |
+| 🅴 | **qui**  | **que**  | **qua**  | **quo**  | **quu**  |
+| 🅾 | **qŭiu** | **qŭio** | **qŭia** | **qŭie** | **qŭii** |
 
-<!--v-->
-
-## Lingue + Linguo
-
-### -i ⟷ -u
-
-| | |
-|-|-|
-| 🅰 | **qui**  |
-| 🅴 | **qui**  |
-| 🅾 | **qŭiu** |
-
-<!--v-->
-
-## Lingue + Linguo
-
-### Tabelvortoj
-
-| | | | | | | | |
-|-|-|-|-|-|-|-|-|
-| 🅰 | **li**  | | **omni** | | **uni** | | **ni**    |
-| 🅴 | **ti**  | | **omni** | | **uni** | | **noni**  |
-| 🅾 | **tiu** | | **ĉiu**  | | **iu**  | | **neniu** |
+<!-- TODO ĉu "kii" ĝustas en Linguo ? -->
 
 <!--v-->
 
@@ -453,19 +456,13 @@ Note:
 
 ## Lingue + Linguo
 
-### Pronomoj
-<!-- ne-nominativo post prepozicio -->
-<!-- me=io? mea? tea? io me mi tu te ti mea tea mia tia -->
-<!-- me=io -->
-<!-- mea=mia tua=tia -->
-| | | | |
-|-|-|-|-|
-| 🅰 | **me**/**mi**  | | **tu**/**ti**  |
-| 🅴 | **mi**         | | **tī**         |
-| 🅾 | **mu**/**mun** | | **tu**/**tun** |
+### Tabelvortoj
 
-Note:
-* **mea**, **tūa** + **mia**, **tīa** [ŧia] + **mua**, **tua**
+| | | | | | | | |
+|-|-|-|-|-|-|-|-|
+| 🅰 | **illi**  | | **nilli** | | **ali-qui** | | **qui-quĕ** |
+| 🅴 | **ti**    | | **noni**  | | **uni**     | | **omni**    |
+| 🅾 | **tiu**   | | **neniu** | | **iu**      | | **ĉiu**     |
 
 <!--v-->
 
@@ -475,9 +472,25 @@ Note:
 
 | | | | |
 |-|-|-|-|
-| 🅰 | **nos**        | | **vos**        |
-| 🅴 | **ni**         | | **vi**         |
-| 🅾 | **nu**/**nun** | | **vu**/**vun** |
+| 🅰 | **me** | | **te** |
+| 🅴 | **mi** | | **tī** |
+| 🅾 | **mu** | | **tu** |
+
+Note:
+* **mea**, **tea** + **mia**, **tīa** [ŧia] + **mua**, **tua**
+* Poezie: **io**, **tu**, **noi**, **voi** (subjekto ĉe konjugacio)
+
+<!--v-->
+
+## Lingue + Linguo
+
+### Pronomoj
+
+| | | | |
+|-|-|-|-|
+| 🅰 | **nos** | | **vos** |
+| 🅴 | **ni**  | | **vi**  |
+| 🅾 | **nu**  | | **vu**  |
 
 Note:
 * **nossa**, **vossa** + **nia**, **via** + **nua** + **vua**
@@ -487,6 +500,8 @@ Note:
 ## Lingue + Linguo
 
 ### Pronomoj
+
+<!-- TODO update! -->
 
 | | | | | | | | |
 |-|-|-|-|-|-|-|-|
@@ -1138,7 +1153,7 @@ Note:
 
 [Si nos et supponera', ke la lingu-a finale de las<br> generationes futuras esse no Sperante, in omna<br> okkasione la via ad li lingu-a elaborenda<br> infallibilemente debe konduker-e trans Sperante.]
 
-> Si nos et supponerā, ce la lingua<br> finale de las generationes futuras<br> esse no Sperante, in omna occasione<br> la via ad li lingua elaborenda<br> infallibilemente debe conducĕre<br> trans Sperante.
+> Si nos et supponerá, ce la lingua<br> finale de las generationes futuras<br> esse no Sperante, in omna occasione<br> la via ad li lingua elaborenda<br> infallibilemente debe conducĕre<br> trans Sperante.
 
 <!--v-->
 
