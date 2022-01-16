@@ -256,3 +256,29 @@ Greka **ch** *[k]* pronciĝas *[ĥ]*.
 | | | hispane |
 |-|-|-|
 | *ajlo* | **alĭo** *[aḷo]* | *[aĥo]* |
+
+# Konjugacio
+
+<!-- renkonten = renkonti ? -->
+<!-- mi/mu ... -->
+<!-- a/e ? -->
+
+<!-- 
+| *canti*      | | **canti**       | *cantér*    |
+
+| *mi kantas*  | | **mi cantas**   | *canto*     |
+| *ci kantas*  | | **tī cantas**   | *cantas*    |
+| *li kantas*  | | **li cantas**   | *canta*     |
+| *ni kantas*  | | **ni cantas**   | *cantamus*  |
+| *vi kantas*  | | **vi cantas**   | *cantáis*   |
+| *ili kantas* | | **ili cantas**  | *cantan*    |
+
+| *mi kantu*   | | **mi cantu**    | *cante*     |
+| *ci kantu*   | | **tī cantu**    | *cantes*    |
+| *li kantu*   | | **li cantu**    | *cante*     |
+| *ni kantu*   | | **ni cantu**    | *cantemus*  |
+| *vi kantu*   | | **vi cantu**    | *cantéis*   |
+| *ili kantu*  | | **ili cantu**   | *canten*    |
+
+-->
+
