@@ -166,9 +166,9 @@ Postvokala **-b** kaj **-p** ofte fariĝas **-v** *[v]*.
 
 *íi* regule fariĝas *í*.
 
-| | | |
-|-|-|-|
-| *vi dormas* | | ~~dormíis~~ → *dormís* |
+| | | | | |
+|-|-|-|-|-|
+| *vi dormas* | | **vi dorman** | vi dormi | ~~dormíis~~ → *dormís* |
 
 
 Kiam la radikofina konsonanto de i- kaj e-verboj ne ŝanĝiĝis, la radikofina vokalo eliziiĝas en la subjunktiva prezenco kaj en la mi-formo de la indikativa prezenco.
@@ -211,23 +211,25 @@ La imperativo estas egala al la indikativa prezenco.
 |-|-|-|-|
 | *kantu!* | | **canten!** | canta! |
 
+<!-- Kaj multenombra imperativo? -->
+
 La subjunktiva prezenco uziĝas nur kiel volitivo.
 
-| | | | |
-|-|-|-|-|
-| *mi volas, ke vi kantu* | | **mi volan, qŭe tī canten.** | mi vole, qŭe tī cante. |
+| | | | | |
+|-|-|-|-|-|
+| *mi volas, ke vi kantu* | | **mi volan, qŭe tī canten.** | mi vole, qŭe tī cante. | *volĭo, qŭe cantes* |
 
 La subjunktiva preterito uziĝas nur kiel infinitivo.
 
-| | | | |
-|-|-|-|-|
-| *mi volas kanti* | | **mi volen cantu** | mi vole cantár |
+| | | | | |
+|-|-|-|-|-|
+| *mi volas kanti* | | **mi volen cantu** | mi vole cantár | *volĭo cantár* |
 
 La subjunktiva futuro uziĝas nur kiel kondicionalo.
 
-| | | | |
-|-|-|-|-|
-| *mi kantus* | | **mi cantun** | mi cantaría |
+| | | | | |
+|-|-|-|-|-|
+| *mi kantus* | | **mi cantun** | mi cantaría | *cantaría* |
 
 Anstataŭ la perfektaj formoj, uziĝas la verbo **have** kun pasiva participo.
 
