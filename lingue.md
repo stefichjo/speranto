@@ -240,3 +240,11 @@ Anstataŭ la perfektaj formoj, uziĝas la verbo **have** kun pasiva participo.
 | *ni vidintas*  | | **ni have vidito** | ni há vidito | *hémus vidito* |
 | *ni farintas*  | | **ni have facito** | ni há facito | *hémus facito* |
 | *ni legintas*  | | **ni have leḡito** | ni há leḡito | *hémus leḡito* |
+
+| | | | | |
+|-|-|-|-|-|
+| *ni amintas*   | | **ni esse amintas**  | ni es amintas  | *semus amintas*  |
+| *ni aŭdintas*  | | **ni esse audintas** | ni es audintas | *semus audintas* |
+| *ni vidintas*  | | **ni esse vidintas** | ni es vidintas | *semus vidintas* |
+| *ni farintas*  | | **ni esse facintas** | ni es facintas | *semus facintas* |
+| *ni legintas*  | | **ni esse leḡintas** | ni es leḡintas | *semus leḡintas* |

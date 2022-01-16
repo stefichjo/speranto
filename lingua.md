@@ -9,35 +9,35 @@
 | | |
 |-|-|
 | *centro* | **centro** *[kentro]* |
-| *homoj* | **gente** *[gente]* |
+| *homoj*  | **gente**  *[gente]*  |
 
 **t** estas ĉiam prononcata *[t]*.
 
 | | |
 |-|-|
-| *"starado"*, *stacio* | **statione** |
-| *"starmaniero"*, *staro* | **stato** |
-| *"staranto"*, *statoro* | **statore** |
-| *"staraĵo"*, *staturo* | **statura** |
+| *"starado"*, *stacio*    | **statione** |
+| *"starmaniero"*, *staro* | **stato**    |
+| *"staranto"*, *statoro*  | **statore**  |
+| *"staraĵo"*, *staturo*   | **statura**  |
 
 ### Akcento
 
-La antaŭlasta vokalo estas akcentata. Kiam la antaŭlasta vokalo ne estas akcentata, ĝi portas hoketon. Kiam la lasta vokalo estas akcentata, ĝi portas makronon.
+La antaŭlasta vokalo estas akcentata. Kiam la antaŭlasta vokalo ne estas akcentata, ĝi portas hoketon. Kiam la lasta vokalo estas akcentata, ĝi portas dekstran kornon.
 
 | | |
 |-|-|
-| *bona* | **bona** | *[bona]* |
-| *amiko* | **amico** *[amiko]* |
+| *bona*   | **bona**    *[bona]*     |
+| *amiko*  | **amico**   *[amiko]*    |
 | | |
-| *libera* | **libĕra** *[libe-ra]* |
-| *limo* | **limĭte** *[limi-te]* |
-| *nomo* | **nomĭne** *[nomi-ne]* |
-| *rapida* | **rapĭda** *[rapi-da]* |
-| *regulo* | **regŭla** *[regu-la]* |
-| *simila* | **simĭle** *[simi-le]* |
+| *libera* | **libĕra**  *[libe-ra]*  |
+| *limo*   | **limĭte**  *[limi-te]*  |
+| *nomo*   | **nomĭne**  *[nomi-ne]*  |
+| *rapida* | **rapĭda**  *[rapi-da]*  |
+| *regulo* | **regŭla**  *[regu-la]*  |
+| *simila* | **simĭle**  *[simi-le]*  |
 | *vojaĝo* | **viatĭco** *[viati-ko]* |
 | | |
-| *vidos* | **viderā** *[videra']* |
+| *vidos*  | **viderá**  *[videra']*  |
 
 Duobla konsonanto estas prononcata duoble.
 
@@ -67,26 +67,26 @@ En la diftongoj **iu** kaj **ui**, la diftongokomencaj **i-** kaj **u-** ne esta
 | | |
 |-|-|
 | *justa*, *ĝusta* | **ĭusta** *[iusta]* |
-| *kiu* | **qŭi** *[kui']* |
+| *kiu*            | **qŭi**   *[kui']*  |
 
 ### Grekaj Vortoj
 
 | | |
 |-|-|
-| *fazo* | **phase** *[fase]* |
-| *temo* | **thema** *[θema]* |
+| *fazo*      | **phase**      *[fase]*       |
+| *temo*      | **thema**      *[θema]*       |
 | *karaktero* | **charactĕre** *[ĥarakte-re]* |
-| *sistemo* | **systema** *[systema]* |
-| *zono* | **zona** *[dzona]* |
+| *sistemo*   | **systema**    *[systema]*    |
+| *zono*      | **zona**       *[dzona]*      |
 
-La grek-devenaj ŝajnfinaĵoj **-i**, **-īa**, **-a**, **-e** havas signifojn similajn al la ŝajnfinaĵoj **-ione**, **-o**, **-ore**, **-ura**.
+La grek-devenaj ŝajnfinaĵoj **-i**, **-ía**, **-a**, **-e** havas signifojn similajn al la ŝajnfinaĵoj **-ione**, **-o**, **-ore**, **-ura**.
 
 | | |
 |-|-|
-| *"lumskribado"*, *fotografado* | **photographi** *[fotografi]* |
-| *"lumskribmaniero"*, *fotografio* | **photographīa** *[fotografia]* |
-| *"lumskribanto"*, *fotografisto* | **photographa** *[fotografa]* |
-| *"lumskribaĵo"*, *fotografaĵo* | **photographe** *[fotografe]* |
+| *"lumskribado"*, *fotografado*    | **photographi**  *[fotografi]*  |
+| *"lumskribmaniero"*, *fotografio* | **photographía** *[fotografia]* |
+| *"lumskribanto"*, *fotografisto*  | **photographa**  *[fotografa]*  |
+| *"lumskribaĵo"*, *fotografaĵo*    | **photographe**  *[fotografe]*  |
 
 ## Gramatiko
 
