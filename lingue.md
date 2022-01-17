@@ -76,8 +76,8 @@ En diftongoj, **i** prononciĝas *[j]*. Komence de radiko, skribiĝas **j** anst
 | *majo*     | **maie**     *[maje]*     |
 | *familio*  | **familie**  *[familje]*  |
 | | |
-| *jam*      | **jam**      *[jam]* |
-| *projekto* | **projecte** *[projekte]* |
+| *jam*      | **jam**      *[ĵam]* |
+| *projekto* | **projecte** *[proĵekte]* |
 
 En diftongoj, **u** prononciĝas *[ŭ]*. Komence de radiko, ĝi skribiĝas **w**.
 
@@ -125,8 +125,8 @@ Postvokala **-b** kaj **-p** ofte fariĝas **-v** *[v]*.
 
 | | |
 |-|-|
-| *maso* | **masse** *[mase]* |
-| *rozo* | **rose**  *[roze]* |
+| *maso* | **masse** *[masse]* |
+| *rozo* | **rose**  *[roze]*  |
 
 **x** *[ks]* prononciĝas *[gz]* inter vokaloj.
 

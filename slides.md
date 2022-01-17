@@ -633,13 +633,58 @@ Note:
 
 ## Speranto
 
+### h
+
+| | | |
+|-|-|-|
+| 🅰 | **hora** | [hora]     |
+| 🅴 | **hore** | [hore]     |
+| 🅾 | **horo** | [oro]      |
+| | | |
+| |             | **[horo]** |
+
+<!--v-->
+
+## Speranto
+
+### rr / r
+
+| | | | | | |
+|-|-|-|-|-|-|
+| 🅰 | **terra** | [terra]    | | **rara** | [rara]     |
+| 🅴 | **terre** | [terre]    | | **rara** | [rara]     |
+| 🅾 | **terro** | [teĥo]     | | **rara** | [ĥara]     |
+| | | | | | |
+| |              | **[tero]** | |          | **[rara]** |
+
+Note:
+* Poezie: 🅰 **amare**, 🅴 **amár** [amar'], 🅾 **amá** [ama']
+
+<!--v-->
+
+## Speranto
+
+### ss / s
+
+| | | | | | |
+|-|-|-|-|-|-|
+| 🅰 | **massa** | [massa]    | | **naso** | [naso]     |
+| 🅴 | **masse** | [masse]    | | **nase** | [naze]     |
+| 🅾 | **masso** | [maso]     | | **naso** | [nazo]     |
+| | | | | | |
+| |              | **[maso]** | |          | **[nazo]** |
+
+<!--v-->
+
+## Speranto
+
 ### c / g
 
 | | | | | | |
 |-|-|-|-|-|-|
 | 🅰 | **centro** | [kentro]     | | **geographīa** | [geografia]     |
-| 🅴 | **centre** | [centre]     | | **geographie** | [dzeografje]    |
-| 🅾 | **centro** | [ĉentro]     | | **geographio** | [ĝeografio]     |
+| 🅴 | **centre** | [ŧentre]     | | **geographie** | [đeografje]     |
+| 🅾 | **centro** | [sentro]     | | **geographio** | [ĵeografio]     |
 | | | | | | |
 | |               | **[centro]** | |                | **[geografio]** |
 
@@ -660,6 +705,20 @@ Note:
 <!--v-->
 
 ## Speranto
+<!-- TODO ligno, signo, regno, magno, pugno, cygno ? -->
+### i: j
+
+| | | | | | |
+|-|-|-|-|-|-|
+| 🅰 | **maio** | [mai-o]    | | **ĭam** | [iam']     |
+| 🅴 | **maio** | [majo]     | | **jam** | [ĵam]      |
+| 🅾 | **maio** | [majo]     | | **jam** | [ĵam]      |
+| | | |
+| |             | **[majo]** | |        | **[jam]**   |
+
+<!--v-->
+
+## Speranto
 
 ### i: li
 
@@ -675,6 +734,20 @@ Note:
 
 ## Speranto
 
+### i: ni
+
+| | | |
+|-|-|-|
+| 🅰 | **balneo** | [balne-o]    |
+| 🅴 | **balnėe** | [balnje]     |
+| 🅾 | **balnĕo** | [balṅo]      |
+| | | |
+| |               | **[bano]**   |
+
+<!--v-->
+
+## Speranto
+
 ### i: ti
 
 | | | | | | |
@@ -684,6 +757,9 @@ Note:
 | 🅾 | **natīo**   | [nasio]     | | **spatio** | [spasjo]    |
 | | | | | | |
 | |                | **[nacio]** | |            | **[spaco]** |
+
+Note:
+* Poezie (nur ununombro): 🅴 **natión** [naŧjon'], 🅾 **natiõ** [nasjõ']
 
 <!--v-->
 
@@ -695,12 +771,13 @@ Note:
 |-|-|-|-|-|-|
 | 🅰 | **circ' ad** | [kirk ad]    | | **hodie** | [hodi-e]     |
 | 🅴 | **circ̄ĕ al** | [cirkal]     | | **hodio** | [hođjo]      |
-| 🅾 | **circał**   | [ĉiĥkaŭ]     | | **hodĭõ** | [oĵaŭ]      |
+| 🅾 | **circał**   | [ĉiĥkaŭ]     | | **hodĭõ** | [oĵaŭ]       |
 | | | | | | |
 | |                 | **[ĉirkaŭ]** | |           | **[hodiaŭ]** |
 
 Note:
 * nova prononco: "ĉirkaŭ" anstataŭ "cirkaŭ".
+* Poezie (nur ununombro): 🅴 **internationál** [internaŧjonal'], 🅾 **internationáł** [inteĥnasjonaŭ']
 
 <!--v-->
 
@@ -715,6 +792,9 @@ Note:
 | 🅾 | **havas** | [avas]     |
 | | | |
 | |              | **[havas]** |
+
+Note:
+* Alternative, **havas** venas el la Angla.
 
 <!--v-->
 
@@ -867,8 +947,8 @@ Note:
 
 | | | | | | |
 |-|-|-|-|-|-|
-| 🅰 | **esse**  | [ese]       | | **sta**  | [sta]       |
-| 🅴 | **essan** | [esan]      | | **stan** | [stan]      |
+| 🅰 | **essĕ**  | [esse]      | | **sta**  | [sta]       |
+| 🅴 | **essan** | [essan]     | | **stan** | [stan]      |
 | 🅾 | **essas** | [esas]      | | **stas** | [stas]      |
 | | | | | | |
 | 🌍 |           | **[estas]** | |         | **[staras]** |
