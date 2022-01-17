@@ -299,7 +299,6 @@ Note:
 
 Note:
 * Nedifina artikolo: **una**, **unas**
-* Poezie: **prima**, **secunda**, **tertia**, ..., **nona**
 
 <!--v-->
 
@@ -315,9 +314,6 @@ Note:
 | *kie*  | **quo** | | *ie*  | **alĭ-quo** |
 | *kien* | **quu** | | *ien* | **alĭ-quu** |
 
-Note:
-* Poezie: **quo** = **ubi**
-
 <!--v-->
 
 ## Lingua
@@ -331,9 +327,6 @@ Note:
 | *kia ajn*  | **un-qua** | | *ĉia*  | **qua-quĕ** |
 | *kie ajn*  | **un-quo** | | *ĉie*  | **quo-quĕ** |
 | *kien ajn* | **un-quu** | | *ĉien* | **quu-quĕ** |
-
-Note:
-* Poezie: **qua-quĕ** = **omnia**
 
 <!--v-->
 
@@ -350,9 +343,6 @@ Note:
 | *kiel* | **quomo**  |
 | | | | | |
 | *kies* | **quius**  |
-
-Note:
-* Poezie: **quando-quĕ** = **semper**
 
 <!--v-->
 
@@ -371,12 +361,6 @@ Note:
 Note:
 * **illi** ne uziĝas adjektivece. Anstataŭe, uziĝas **illa**: *tiu domo* = **illa domo**
 * Difina artikolo: **la**, **las**
-* Poezie: **de la** = **dél**; **ad la** = **ál**
-* Poezie: **eccu-illa** / **tale** = **tál**
-* Poezie: **eccu-illo** / **hoc**, **nunc**, **sic**, **tanto**
-* Poezie: **eccu-illu** / **huc**
-* Poezie: **eccu-illi**, **eccu-ille**, **eccu-illa** / **quilli**, **quille**, **quilla**
-* Poezie: **nille** = **níl**
 
 <!--v-->
 
@@ -398,7 +382,6 @@ Note:
 * *ĝi* = **alle** / **ille**
 * *si* = **se**
 * **lea** = **dele**, **lessa** = **deles**
-* Poezie: **(ille) dormit**, **(illes) dormient**
 
 <!--v-->
 
@@ -479,6 +462,16 @@ Note:
 
 <!--v-->
 
+### Linguo
+
+#### Adverboj
+
+| | | | | | |
+|-|-|-|-|-|-|
+| 🅾 | **hodĭõ** | [oĵaŭ] | → | **hodĭø** | [oĵe] |
+
+<!--v-->
+
 ## Lingue + Linguo
 
 ### Tabelvortoj
@@ -504,6 +497,7 @@ Note:
 Note:
 * 🅰 **la gente**, 🅴 **oni**, 🅾 **onu** signifas *oni*.
 * 🅾 **la unu(i)** signifas *la unu(j)*, dum *unu* estas 🅾 **un**.
+* 🅾 **iam** [iam] / [jam]
 
 <!--v-->
 
@@ -511,16 +505,14 @@ Note:
 
 ### Pronomoj
 
-| | | | | | |
-|-|-|-|-|-|-|
-| 🅰 | **me** | **te** | | **nos** | **vos** |
-| 🅴 | **mi** | **tī** | | **ni**  | **vi**  |
-| 🅾 | **mu** | **tu** | | **nu**  | **vu**  |
+| | | | | | | | |
+|-|-|-|-|-|-|-|-|
+| 🅰 | **me** | **te** | | **nos** | **vos** | | **se** |
+| 🅴 | **mi** | **tī** | | **ni**  | **vi**  | | **si** |
+| 🅾 | **mu** | **tu** | | **nu**  | **vu**  | | **su** |
 
 Note:
-* Poezie: 🅰 **io**, **tu**, **noi**, **voi** (subjekto ĉe konjugacio)
 * Posesivo kun **-a**: 🅰 **nossa**, **vossa**; 🅴 **tīa** [ŧia]
-* 🅰 **se**, 🅴 **si**, 🅾 **su** signifas *si*.
 
 <!--v-->
 
@@ -657,9 +649,6 @@ Note:
 | | | | | | |
 | |              | **[tero]** | |          | **[rara]** |
 
-Note:
-* Poezie: 🅰 **amare**, 🅴 **amár** [amar'], 🅾 **amá** [ama']
-
 <!--v-->
 
 ## Speranto
@@ -758,9 +747,6 @@ Note:
 | | | | | | |
 | |                | **[nacio]** | |            | **[spaco]** |
 
-Note:
-* Poezie (nur ununombro): 🅴 **natión** [naŧjon'], 🅾 **natiõ** [nasjõ']
-
 <!--v-->
 
 ## Speranto
@@ -777,7 +763,6 @@ Note:
 
 Note:
 * nova prononco: "ĉirkaŭ" anstataŭ "cirkaŭ".
-* Poezie (nur ununombro): 🅴 **internationál** [internaŧjonal'], 🅾 **internationáł** [inteĥnasjonaŭ']
 
 <!--v-->
 
@@ -976,34 +961,16 @@ Note:
 
 ## Poezio
 
+<!-- TODO Malaglutina/fanda stilo -->
+
 ### Lingua*
 
 ### Lingue*
 
 ### Linguo*
 
-<!--v-->
-
-### Lingua*
-
-#### -re, -le, -ione
-
-| | | |
-|-|-|-|
-| **facĭle**   | → | **fácĭl**   |
-| | | |
-| **stellare** | → | **stellár** |
-| | | |
-| **amare**    | → | **amár**    |
-| | | |
-| **seniore**  | → | **seniór**  |
-| | | |
-| **versione**  | → | **versión**  |
-
 Note:
-* **te amare** → **amar-te**
-* **le amare** → **amar-le**
-* **les amare** → **amar-les**
+* La prononcoj de Lingua, Lingue kaj Linguo rolas nur kiel ekzemploj por ilustri tri diversajn fazojn de Lingua. Al ĉiu fazo eblas atribui ajnan laŭplaĉan prononcmanieron.
 
 <!--v-->
 
@@ -1022,10 +989,80 @@ Note:
 
 ### Lingua*
 
+#### Numeraloj
+
+| | | | |
+|-|-|-|-|
+| *unua* | **unta**   | → | **prima**   |
+| *dua* | **duta**    | → | **secunda** |
+| *dua* | **trita**   | → | **tertia**  |
+| | | | |
+| *naŭa* | **novta**  | → | **nona**    |
+
+<!--v-->
+
+### Lingua*
+
+#### Tabelvortoj
+
+| | | | |
+|-|-|-|-|
+| *kia* | **qua**  | → | **quale** |
+| *tia* | **illa** | → | **tale**  | 
+| | | | |
+| *kie* | **quo**  | → | **ubi**   | 
+| *tie* | **hoc**  | → | **ibi**   | 
+
+<!--v-->
+
+### Lingua*
+
+#### Tabelvortoj
+
+| | | | |
+|-|-|-|-|
+| *ĉiu*  | **qua-quĕ**     | → | **omnia**  |
+| | | | |
+| *ĉiam* | **quando-quĕ**  | → | **semper** | 
+
+<!--v-->
+
+### Lingua*
+
+#### Tabelvortoj
+
+| | | | |
+|-|-|-|-|
+| *ĉi tiu* | **eccu-illi**  | → | **quilli** |
+| *ĉi tio* | **eccu-ille**  | → | **quille** |
+| *ĉi tia* | **eccu-illa**  | → | **quilla** |
+
+Note:
+* *ĉi tia, ĉi tiu*
+
+<!--v-->
+
+### Lingua*
+
+#### Tabelvortoj
+
+| | | | |
+|-|-|-|-|
+| *ĉi tie*  | **eccu-illo**  | → | **hoc**   |
+| *ĉi tien* | **eccu-illu**  | → | **huc**   |
+| | | | |
+| *ĉi tiel* | **eccu-illo**  | → | **sic**   |
+| *ĉi tiam* | **eccu-illo**  | → | **nunc**  |
+| *ĉi tiom* | **eccu-illo**  | → | **tanto** |
+
+<!--v-->
+
+### Lingua*
+
 #### Verboj
 
-| | | |
-|-|-|-|
+| | | | | |
+|-|-|-|-|-|
 | **me habe**   | → | **habeo**   | → | **hó**    |
 | **te habe**   | → | **habes**   | → | **hás**   |
 | **le habe**   | → | **habet**   | → | **hát**   |
@@ -1038,25 +1075,78 @@ Note:
 
 ### Lingua*
 
-#### Tabelvortoj
+#### Verboj
 
-| | | | |
-|-|-|-|-|
-| *kia* | **qua**  | → | **quale** |
-| *tia* | **illa** | → | **tale**  | 
+| | | |
+|-|-|-|
+| **hó cantato** | → | **hó cantado** |
+
+<!--v-->
+
+### Lingua*
+
+#### Redundaj Pronomoj
+
+| | | | | |
+|-|-|-|-|-|
+| *mi*             | **io**   | | *ni*  | **noi**   |
+| *ci*             | **tu**   | | *vi*  | **voi**   |
+| | | | | |
+| *ŝi, li, ri, ĝi* | **ille** | | *ili* | **illes** |
 
 Note:
-* 🅴 **quał** [kŭaŭ], 🅾 **qŭiał** [kjaŭ]
+* Ekzemple: **tu et io semus amicos** - *ci kaj mi estas amikoj*
 
 <!--v-->
 
 ### Lingue*
 
-#### Substantivoj
+#### -ne
 
 | | | |
 |-|-|-|
-| **dome** | → | **dóm** |
+| **versione**  | → | **versión**  |
+| | | |
+| **pane**      | → | **pán**      |
+
+<!--v-->
+
+### Lingue*
+
+#### -le
+
+| | | |
+|-|-|-|
+| **facĭle**    | → | **fácĭl**    |
+| **legale**    | → | **legál**    |
+
+<!--v-->
+
+### Lingue*
+
+#### -re
+
+| | | |
+|-|-|-|
+| **stellare**  | → | **stellár**  |
+| | | |
+| **amare**     | → | **amár**     |
+| **te amare**  | → | **amár-te**  |
+| | | |
+| **seniore**   | → | **seniór**   |
+| **core**      | → | **cór**      |
+
+<!--v-->
+
+### Lingue*
+
+#### Tabelvortoj
+
+| | | | |
+|-|-|-|-|
+| *tia*     | **tale**   | → | **tál**  |
+| *nenio*   | **nille**  | → | **níl**  |
+| *kiu ...* | **qua**    | → | **quał** |
 
 <!--v-->
 
@@ -1068,40 +1158,44 @@ Note:
 |-|-|-|-|-|-|-|
 | **de** | | → | | **de** | ≠ | **di** |
 | **en** | | → | | **in** | ≠ | **en** |
-| **al** | | → | | **ad** | ≠ | **al** |
+| **al** | | → | | **ad** | ≠ | **a**  |
 
 <!--v-->
 
 ### Lingue*
 
-#### Artikoloj
+#### Prepozicioj
 
 | | | |
 |-|-|-|
-| **de la** | → | **del** |
+| **de la** | → | **dél** |
+| **en la** | → | **nél** |
+| **a la**  | → | **ál**  |
+
+Note:
+* **en ella**
 
 <!--v-->
 
 ### Linguo*
 
-#### Adverboj
-
-| | | | | |
-|-|-|-|-|-|
-| **hodĭõ** | [oĵaŭ] | → | **hodĭø** | [oĵe] |
-
-<!--v-->
-
-### Linguo*
-
-#### Tabelvortoj
+#### Substantivoj
 
 | | | | |
 |-|-|-|-|
-| **iam** | [iam] | → | [jam] |
+| *nacio* | **natión**   | → | **natiõ**    [nasjõ']    |
+| *nacia* | **nationál** | → | **nationał** [nasjonaŭ'] |
 
-Note:
-* **jam** [ĥam]
+<!--v-->
+
+### Linguo*
+
+#### Verboj
+
+| | | | |
+|-|-|-|-|
+| *ami*     | **amár**   | → | **amé**  |
+| *amata*   | **amada**  | → | **amé**  |
 
 <!--v-->
 
@@ -1224,3 +1318,11 @@ Note:
 Note:
 * pli da klarigoj pri la prononco
 * aliaj Lingvoj
+
+<!-- TODO
+
+La formo "manu" estas verŝajne pli utila en la konjugacia stilo. ("poezia stilo")
+
+Por ne konfuzi la leganton, la konjugaciaj stilo de Lingua estu montrataj post Lingue kaj Linguo. Por la konjugaciaj stiloj de Lingua, Lingue kaj Linguo estas nur ekzemploj de alternativaj prononcoj. Estas probable sufiĉe realismaj ekzemploj, sed ili ne estas devigaj. Mi same bone povas prononci "natión" [nasjon'] anstataŭ [nathjon'] (aŭ "natiõ" [nathjõ] anstataŭ [nasjõ]). Mi probable foje preferus prononci "facér" jam [faseĥ'] anstataŭ ankoraŭ [father']. Eblas do "fûntión" [funsjon'], ekzemple.
+
+-->
