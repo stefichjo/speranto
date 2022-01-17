@@ -279,17 +279,13 @@ Note:
 | | |
 |-|-|
 | *alta* | **alta** |
-| *alte* | **altamente** |
-
-
-Note:
-* **in alto**, **per bono**, **per multo**
+| *alte* | **altamente** / **alto** |
 
 <!--v-->
 
 ## Lingua
 
-### Numeraloj kaj Ordinaloj
+### Numeraloj
 
 | | | | | |
 |-|-|-|-|-|
@@ -319,6 +315,7 @@ Note:
 | *kie*  | **quo** | | *ie*  | **alĭ-quo** |
 | *kien* | **quu** | | *ien* | **alĭ-quu** |
 
+Note:
 * Poezie: **quo** = **ubi**
 
 <!--v-->
@@ -472,14 +469,13 @@ Note:
 
 ### -i ⟷ -u, -e ⟷ -o
 
-| | |
-|-|-|
-| 🅰 | ...      | ...      | ...      | ...      | ...      |
+| | | | | | |
+|-|-|-|-|-|-|
 | 🅴 | **qui**  | **que**  | **qua**  | **quo**  | **quu**  |
 | 🅾 | **qŭiu** | **qŭio** | **qŭia** | **qŭie** | **qŭii** |
 
 Note:
-* **qŭii** signifas *kien*.
+* 🅴 **quu**, 🅾 **qŭii** signifas *kien*.
 
 <!--v-->
 
@@ -505,8 +501,9 @@ Note:
 | 🅴 | **ti**    | | **noni**  | | **uni**     | | **omni**    |
 | 🅾 | **tiu**   | | **neniu** | | **iu**      | | **ĉiu**     |
 
-Note: 🅰 **la gente**, 🅴 **oni**, 🅾 **onu** signifas *oni*.
-Note: 🅾 **la unu(i)** signifas *la unu(j)*, dum *unu* estas 🅾 **un**.
+Note:
+* 🅰 **la gente**, 🅴 **oni**, 🅾 **onu** signifas *oni*.
+* 🅾 **la unu(i)** signifas *la unu(j)*, dum *unu* estas 🅾 **un**.
 
 <!--v-->
 
@@ -514,32 +511,16 @@ Note: 🅾 **la unu(i)** signifas *la unu(j)*, dum *unu* estas 🅾 **un**.
 
 ### Pronomoj
 
-| | | | |
-|-|-|-|-|
-| 🅰 | **me** | | **te** |
-| 🅴 | **mi** | | **tī** |
-| 🅾 | **mu** | | **tu** |
+| | | | | | |
+|-|-|-|-|-|-|
+| 🅰 | **me** | **te** | | **nos** | **vos** |
+| 🅴 | **mi** | **tī** | | **ni**  | **vi**  |
+| 🅾 | **mu** | **tu** | | **nu**  | **vu**  |
 
 Note:
-* **mea**, **tea** + **mia**, **tīa** [ŧia] + **mua**, **tua**
-* **se** signifas *si*
-* Poezie: **io**, **tu** (subjekto ĉe konjugacio)
-
-<!--v-->
-
-## Lingue + Linguo
-
-### Pronomoj
-
-| | | | |
-|-|-|-|-|
-| 🅰 | **nos** | | **vos** |
-| 🅴 | **ni**  | | **vi**  |
-| 🅾 | **nu**  | | **vu**  |
-
-Note:
-* **nossa**, **vossa** + **nia**, **via** + **nua** + **vua**
-* Poezie: **noi**, **voi** (subjekto ĉe konjugacio)
+* Poezie: 🅰 **io**, **tu**, **noi**, **voi** (subjekto ĉe konjugacio)
+* Posesivo kun **-a**: 🅰 **nossa**, **vossa**; 🅴 **tīa** [ŧia]
+* 🅰 **se**, 🅴 **si**, 🅾 **su** signifas *si*.
 
 <!--v-->
 
@@ -684,7 +665,7 @@ Note:
 
 | | | | | | |
 |-|-|-|-|-|-|
-| 🅰 | **familĭa** | [famili-a]    | | **filĭo** | [fili-o]   |
+| 🅰 | **familia** | [famili-a]    | | **filio** | [fili-o]   |
 | 🅴 | **familie** | [familje]     | | **filie** | [filje]    |
 | 🅾 | **familĭo** | [famiḷo]      | | **filĭo** | [fiḷo]     |
 | | | | | | |
@@ -698,7 +679,7 @@ Note:
 
 | | | | | | |
 |-|-|-|-|-|-|
-| 🅰 | **natione** | [natione]   | | **spatĭo** | [spati-o]   |
+| 🅰 | **natione** | [natione]   | | **spatio** | [spati-o]   |
 | 🅴 | **natie**   | [naŧje]     | | **spatie** | [spaŧje]    |
 | 🅾 | **natīo**   | [nasio]     | | **spatio** | [spasjo]    |
 | | | | | | |
@@ -712,7 +693,7 @@ Note:
 
 | | | | | | |
 |-|-|-|-|-|-|
-| 🅰 | **circ' ad** | [kirk ad]    | | **hodĭe** | [hodi-e]     |
+| 🅰 | **circ' ad** | [kirk ad]    | | **hodie** | [hodi-e]     |
 | 🅴 | **circ̄ĕ al** | [cirkal]     | | **hodio** | [hođjo]      |
 | 🅾 | **circał**   | [ĉirkaŭ]     | | **hodĭõ** | [hoĵaŭ]      |
 | | | | | | |
