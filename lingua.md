@@ -439,16 +439,16 @@ alle olle ulle elle? -->
 
 ## essĕre
 
-En la prezenco, **essĕ** fariĝas es en la indikativo kaj sia en la subjunktivo. Antaŭ konjugacia finaĵo, es ŝanĝiĝas. (Tiuj formoj ne portas dekstrajn kornojn, malgraŭ la elizioj: ~~só~~ → *so* - ***essio***.)
+En la prezenco, **essĕ** fariĝas es en la indikativo kaj sia en la subjunktivo. Antaŭ konjugacia finaĵo, es ŝanĝiĝas. (Tiuj formoj ne portas dekstrajn kornojn, malgraŭ la elizioj: ~~só~~ → *so* - ***essio***. En *somos* kaj *sont* estas anstataŭ *semus* kaj *sent*.)
 
 | | | | | | | |
 |-|-|-|-|-|-|-|
 | *mi estas*       | | **me essĕ**   | me es   | *so*     | | ***essio***    |
 | *ci estas*       | | **te essĕ**   | te es   | *es*     | | ***essĕs***    |
 | *li estas*       | | **le essĕ**   | le es   | *est*    | | ***essĕt***    |
-| *ni estas*       | | **nos essĕ**  | nos es  | *semus*  | | ***essĕmus***  |
+| *ni estas*       | | **nos essĕ**  | nos es  | *somus*  | | ***essĕmus***  |
 | *vi estas*       | | **vos essĕ**  | vos es  | *estis*  | | ***essĕtis***  |
-| *ili estas*      | | **les essĕ**  | les es  | *sent*   | | ***essĕnt***   |
+| *ili estas*      | | **les essĕ**  | les es  | *sont*   | | ***essĕnt***   |
 | | | | | | | |
 | *(ke) mi estas*  | | **me essia**  | me sia  | *siam*   | | ***essiam***   |
 | *(ke) ci estas*  | | **te essia**  | te sia  | *sias*   | | ***essias***   |
@@ -576,6 +576,23 @@ En la perfekto, uziĝas **essĕ**. (Aliaj verboj baziĝantaj sur **i** estas reg
 **a-Verboj:**
 
 <!-- -at- → -it- / aldona signifo (kiel substantivo)/neologismo -->
+
+<!--
+Kiel adjektivo, pasiva participo finiĝas je -a.
+la porta aperta
+
+Por formi la perfekton, ĝi uziĝas kun -o.
+hó aperto la porta
+
+Por krei substantivon, kiu esprimas "tio, kio estas -ita", uziĝas la finaĵo -o.
+tecto
+
+Por krei substantivon, kiu esprimas la agon, uziĝas la finaĵo -u.
+casu, sensu, gradu, passu (casuale)
+
+Ankău aliaj substantivoj fakte finiĝas je -u. Eble nur en la "poezia stilo".
+manu (manuale)
+-->
 
 | | cf. |
 |-|-|

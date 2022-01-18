@@ -170,6 +170,14 @@ Postvokala **-b** kaj **-p** ofte fariĝas **-v** *[v]*.
 |-|-|-|-|-|
 | *vi dormas* | | **vi dorman** | vi dormi | ~~dormíis~~ → *dormís* |
 
+| | | | |
+|-|-|-|-|
+| *mi estas*  | | mi essan  | *so*    |
+| *ci estas*  | | ti essan  | *es*    |
+| *li estas*  | | li essan  | *é*     |
+| *ni estas*  | | ni essan  | *somus* |
+| *vi estas*  | | vi essan  | *séis*  |
+| *ili estas* | | ili essan | *son*   |
 
 Kiam la radikofina konsonanto de i- kaj e-verboj ne ŝanĝiĝis, la radikofina vokalo eliziiĝas en la subjunktiva prezenco kaj en la mi-formo de la indikativa prezenco.
 
@@ -179,22 +187,15 @@ Kiam la radikofina konsonanto de i- kaj e-verboj ne ŝanĝiĝis, la radikofina v
 <!-- havĭa [havja] hav -->
 <!-- vĭ [j]/[bj] ? -->
 
-<!--
--are = -ar' = -ár → -á ? mi vole cantá
-lectione -> lectie/lectión?
-original' -> originál
--->
-
-
-| | | | | |
-|-|-|-|-|-|
-| *mi kantas* | | **mi cantan** | mi canta | *canto* |
-| *mi vidas*  | | **mi vidan**  | mi vide  | *vido*  |
-| *mi tenas*  | | **mi tenan**  | mi tene  | *tenĭo* |
-| *mi havas*  | | **mi havan**  | mi há    | *hó*    |
-| *mi faras*  | | **mi faĉan**  | mi face  | *facĭo* |
-| *mi sentas* | | **mi sentan** | mi senti | *sento* |
-| *mi venas*  | | **mi venan**  | mi veni  | *venĭo* |
+| | | | |
+|-|-|-|-|
+| *mi kantas* | | mi cantan | *canto* |
+| *mi vidas*  | | mi vidan  | *vido*  |
+| *mi tenas*  | | mi tenan  | *tenĭo* |
+| *mi havas*  | | mi havan  | *hó*    |
+| *mi faras*  | | mi faĉan  | *facĭo* |
+| *mi sentas* | | mi sentan | *sento* |
+| *mi venas*  | | mi venan  | *venĭo* |
 
 | | | | | | | | | |
 |-|-|-|-|-|-|-|-|-|
@@ -209,42 +210,33 @@ La imperativo estas egala al la indikativa prezenco.
 
 | | | | |
 |-|-|-|-|
-| *kantu!* | | **canten!** | canta! |
-
-<!-- Kaj multenombra imperativo? -->
+| *kantu!* | | canten! | *canta(te)!* |
 
 La subjunktiva prezenco uziĝas nur kiel volitivo.
 
-| | | | | |
-|-|-|-|-|-|
-| *mi volas, ke vi kantu* | | **mi volan, qŭe tī canten.** | mi vole, qŭe tī cante. | *volĭo, qŭe cantes* |
+| | | | |
+|-|-|-|-|
+| *mi volas, ke vi kantu* | | mi volan, qŭe tī canten. | *volĭo, qŭe cantes* |
 
 La subjunktiva preterito uziĝas nur kiel infinitivo.
 
-| | | | | |
-|-|-|-|-|-|
-| *mi volas kanti* | | **mi volen cantu** | mi vole cantár | *volĭo cantár* |
+| | | | |
+|-|-|-|-|
+| *mi volas kanti* | | mi volen cantu | *volĭo cantár* |
 
 La subjunktiva futuro uziĝas nur kiel kondicionalo.
 
-| | | | | |
-|-|-|-|-|-|
-| *mi kantus* | | **mi cantun** | mi cantaría | *cantaría* |
+| | | | |
+|-|-|-|-|
+| *mi kantus* | | mi cantun | *cantaría* |
 
-Anstataŭ la perfektaj formoj, uziĝas la verbo **have** kun pasiva participo.
+Anstataŭ la perfektaj formoj, uziĝas la verbo have kun pasiva participo.
 
-| | | | | |
-|-|-|-|-|-|
-| *ni amintas*   | | **ni have amito**  | ni há amito  | *hémus amito*  |
-| *ni aŭdintas*  | | **ni have audito** | ni há audito | *hémus audito* |
-| *ni vidintas*  | | **ni have vidito** | ni há vidito | *hémus vidito* |
-| *ni farintas*  | | **ni have facito** | ni há facito | *hémus facito* |
-| *ni legintas*  | | **ni have leḡito** | ni há leḡito | *hémus leḡito* |
+| | | | |
+|-|-|-|-|
+| *ni amintas*   | | ni essan amintas  | *hémus amito*  |
+| *ni aŭdintas*  | | ni essan audintas | *hémus audito* |
+| *ni vidintas*  | | ni essan vidintas | *hémus vidito* |
+| *ni farintas*  | | ni essan facintas | *hémus facito* |
+| *ni legintas*  | | ni essan leḡintas | *hémus leḡito* |
 
-| | | | | |
-|-|-|-|-|-|
-| *ni amintas*   | | **ni esse amintas**  | ni es amintas  | *semus amintas*  |
-| *ni aŭdintas*  | | **ni esse audintas** | ni es audintas | *semus audintas* |
-| *ni vidintas*  | | **ni esse vidintas** | ni es vidintas | *semus vidintas* |
-| *ni farintas*  | | **ni esse facintas** | ni es facintas | *semus facintas* |
-| *ni legintas*  | | **ni esse leḡintas** | ni es leḡintas | *semus leḡintas* |

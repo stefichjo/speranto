@@ -260,6 +260,17 @@ Note:
 
 ## Lingua
 
+### Substantivoj
+
+| | |
+|-|-|
+| *viro* | **home** |
+| *homo* | **homo** |
+
+<!--v-->
+
+## Lingua
+
 ### Adjektivoj
 
 | | |
@@ -391,12 +402,11 @@ Note:
 
 | | | |
 |-|-|-|
-| *vidi*       | **videre**    |
+| *vidi*       | **vidé**      |
 | *vidu!*      | **vide(te)!** |
 | | | |
 | *vidanta*    | **vidente**   |
-| *vidata*     | **vidĭta**    |
-| *vidita*     | **visa**      |
+| *vidata*     | **videta**    |
 
 <!--v-->
 
@@ -406,9 +416,9 @@ Note:
 
 | | | | | | |
 |-|-|-|-|-|-|
-| *vidas*      | **vide**      | | *(ke) vidu*  | **vida**      |
-| *vidis*      | **videba**    | | *(se) vidus* | **vidésse**   |
-| *vidos*      | **viderá**    | | *(do) vidus* | **videría**   |
+| *vidas*      | **vide**      | | *(ke) vidu*  | **videa**   |
+| *vidis*      | **videba**    | | *(se) vidus* | **videba**  |
+| *vidos*      | **viderá**    | | *(do) vidus* | **videría** |
 
 <!--v-->
 
@@ -785,6 +795,23 @@ Note:
 
 ## Speranto
 
+### Asimiloj
+
+<!-- TODO kun kohera regularo, "ĭam" ne bezonas hoketon, ĉu? -->
+<!-- frîti, pûnto -->
+
+| | | |
+|-|-|-|
+| 🅰 | **frigĭda** | [frigid-a]  | | **iuncta** | [iunkta]    |
+| 🅴 | **frigĭda** | [friđid-a]  | | **juncta** | [ĵunkta]    |
+| 🅾 | **frîda**   | [frida]     | | **jûnta**  | [ĵunta]     |
+| | | | | | |
+| |                | **[frida]** | |            | **[junto]** |
+
+<!--v-->
+
+## Speranto
+
 ### Tabelvortoj
 
 | | | | | | |
@@ -976,6 +1003,16 @@ Note:
 
 ### Lingua*
 
+#### Adjektivoj
+
+| | | |
+|-|-|-|
+| **amico bona** | → | **amico bonå** |
+
+<!--v-->
+
+### Lingua*
+
 #### Adverboj
 
 | | | |
@@ -989,15 +1026,28 @@ Note:
 
 ### Lingua*
 
+#### Adverboj
+
+| | | |
+|-|-|-|
+| **mano**   | → | **manu**   |
+
+Note:
+* **manuale**
+
+<!--v-->
+
+### Lingua*
+
 #### Numeraloj
 
 | | | | |
 |-|-|-|-|
 | *unua* | **unta**   | → | **prima**   |
-| *dua* | **duta**    | → | **secunda** |
-| *dua* | **trita**   | → | **tertia**  |
-| | | | |
-| *naŭa* | **novta**  | → | **nona**    |
+| *dua*  | **duta**   | → | **secunda** |
+| *tria* | **trita**  | → | **tertia**  |
+| | | |  |
+| *naŭa* | **nouta**  | → | **nona**    |
 
 <!--v-->
 
@@ -1094,12 +1144,19 @@ Note:
 | | | | | |
 | *ŝi, li, ri, ĝi* | **ille** | | *ili* | **illes** |
 
+<!-- TODO ĉu "ille(s)" estus uzebla ankaŭ memstare / en aliaj situacioj? -->
 Note:
-* Ekzemple: **tu et io semus amicos** - *ci kaj mi estas amikoj*
+* **tu et io somus amicos** - *ci kaj mi estas amikoj*
 
 <!--v-->
 
 ### Lingue*
+
+#### -de
+
+| | | |
+|-|-|-|
+| **universitate**  | → | **universidád**  |
 
 #### -ne
 
@@ -1118,6 +1175,8 @@ Note:
 | | | |
 |-|-|-|
 | **facĭle**    | → | **fácĭl**    |
+| **gentile**   | → | **gentíl**   |
+| | | |
 | **legale**    | → | **legál**    |
 
 <!--v-->
@@ -1135,6 +1194,22 @@ Note:
 | | | |
 | **seniore**   | → | **seniór**   |
 | **core**      | → | **cór**      |
+
+<!--v-->
+
+### Lingue*
+
+#### -ense
+
+| | | |
+|-|-|-|
+| **francense**  | → | **francês**   |
+| **francenses** | → | **francêses** |
+
+Note:
+* Elizioj (kaj asimiloj) okazas nur en certaj vort(er)oj
+  * konjunkcioj: **et** → **î**, **aut** → **ô**
+  * **magis** → **mâis**
 
 <!--v-->
 
@@ -1179,12 +1254,57 @@ Note:
 
 ### Linguo*
 
-#### Substantivoj
+#### -ione
 
 | | | | |
 |-|-|-|-|
-| *nacio* | **natión**   | → | **natiõ**    [nasjõ']    |
-| *nacia* | **nationál** | → | **nationał** [nasjonaŭ'] |
+| *nacio*  | **natión**   | → | **natiõ**    [nasjõ']   |
+| *nacioj* | **nationes** | → | **nationes** [nasjones] |
+
+<!--v-->
+
+### Linguo*
+
+#### -ale
+
+| | | | |
+|-|-|-|-|
+| *nacia*  | **nationál**   | → | **nationał**   [nasjonaŭ']  |
+| *naciaj* | **nationales** | → | **nationales** [nasjonales] |
+
+<!--v-->
+
+### Linguo*
+
+#### -c-
+
+| | | | |
+|-|-|-|-|
+| *nokto*   | **nocte**  | → | **nôte**  |
+| | | | |
+| *punkto*  | **puncto** | → | **pûnto** |
+
+<!--v-->
+
+### Linguo*
+
+#### -g-
+
+| | | | |
+|-|-|-|-|
+| *majstro*  | **magistro**   | → | **maîstro** |
+| *trajno*   | **tragĭno**    | → | **trâino**  |
+| *pejzaĝo*  | **pagêsatĭco** | → | **pâêsajo** |
+
+<!--v-->
+
+### Linguo*
+
+#### -p-
+
+| | | | |
+|-|-|-|-|
+| *optimuma* | **optĭma** | → | **ôtĭma** |
 
 <!--v-->
 
