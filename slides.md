@@ -575,7 +575,7 @@ Note:
 | 🅾 | **spatio** = **spaçio**     | [spasjo]   |
 | | | |
 | 🅴 | **villatĭc̄e**               | [villađje] |
-| 🅾 | **villatĭco** = **villajo** | [vilaĵo]   |
+| 🅾 | **villatĭco** = **villâjo** | [vilaĵo]   |
 
 <!--v-->
 
@@ -795,18 +795,70 @@ Note:
 
 ## Speranto
 
-### Asimiloj
-
-<!-- TODO kun kohera regularo, "ĭam" ne bezonas hoketon, ĉu? -->
-<!-- frîti, pûnto -->
+### Elizio de c
 
 | | | |
 |-|-|-|
-| 🅰 | **frigĭda** | [frigid-a]  | | **iuncta** | [iunkta]    |
-| 🅴 | **frigĭda** | [friđid-a]  | | **juncta** | [ĵunkta]    |
-| 🅾 | **frîda**   | [frida]     | | **jûnta**  | [ĵunta]     |
+| 🅰 | **lecto** | [lekto]    |
+| 🅴 | **lecte** | [lekte]    |
+| 🅾 | **lêto**  | [leto]     |
+| | | |
+|   |            | **[leto]** |
+
+Note:
+* *lito*
+* Ankaŭ: **fînti** - *finti*, **obĵêti** - *obĵeti*, **pîtoresca** - *pitoreska*, **pûnto** - *punto*/*pinto*
+
+<!--v-->
+
+## Speranto
+
+### Elizio de c
+
+| | | |
+|-|-|-|
+| 🅰 | **iuncta** | [iunkta]    |
+| 🅴 | **juncte** | [ĵunkte]    |
+| 🅾 | **jûnto**  | [ĵunto]     |
+| | | |
+|   |             | **[junto]** |
+
+<!--v-->
+
+## Speranto
+
+### Elizio de g
+
+| | | |
+|-|-|-|
+| 🅰 | **frigĭda** | [frigid-a]  |
+| 🅴 | **frigĭda** | [friđid-a]  |
+| 🅾 | **frîda**   | [frida]     |
+| | | |
+| |                | **[frida]** |
+
+Note:
+* **magistro** → **maîstro**
+* **tragĭno** → **trâino**
+* **pagêsatĭco** → **pâêsâjo**
+
+<!--v-->
+
+## Speranto
+
+### Elizio de ŭ
+
 | | | | | | |
-| |                | **[frida]** | |            | **[junto]** |
+|-|-|-|-|-|-|
+| 🅰 | **articŭlo** | [artikul-o]       | | **articŭlatione** | [artikulatione]   |
+| 🅴 | **artícle**  | [artikle]         | | **articŭlatie**   | [artikulaŧje]     |
+| 🅾 | **artíclo**  | [artiklo]         | | **articŭlatio**   | [artikulasio]     |
+| | | | | | |
+|   |                | **[artik(o)lo]** | |                   | **[artikulacio]** |
+
+Note:
+* ĭ <!-- TODO -->
+* **met-ipsĭma** → **medipsĭma** → **medîssĭma** → **mêsma** → **mêm**
 
 <!--v-->
 
@@ -1152,19 +1204,21 @@ Note:
 
 ### Lingue*
 
-#### -de
+#### -de: -ate, -itate
 
 | | | |
 |-|-|-|
 | **universitate**  | → | **universidád**  |
+| **veritate**      | → | **veridád**      |
 
-#### -ne
+#### -ne: -ione
 
 | | | |
 |-|-|-|
 | **versione**  | → | **versión**  |
-| | | |
-| **pane**      | → | **pán**      |
+
+Note:
+* ankaŭ prepozicio **sine** → **sín**
 
 <!--v-->
 
@@ -1271,30 +1325,6 @@ Note:
 |-|-|-|-|
 | *nacia*  | **nationál**   | → | **nationał**   [nasjonaŭ']  |
 | *naciaj* | **nationales** | → | **nationales** [nasjonales] |
-
-<!--v-->
-
-### Linguo*
-
-#### -c-
-
-| | | | |
-|-|-|-|-|
-| *nokto*   | **nocte**  | → | **nôte**  |
-| | | | |
-| *punkto*  | **puncto** | → | **pûnto** |
-
-<!--v-->
-
-### Linguo*
-
-#### -g-
-
-| | | | |
-|-|-|-|-|
-| *majstro*  | **magistro**   | → | **maîstro** |
-| *trajno*   | **tragĭno**    | → | **trâino**  |
-| *pejzaĝo*  | **pagêsatĭco** | → | **pâêsajo** |
 
 <!--v-->
 
