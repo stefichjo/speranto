@@ -48,24 +48,24 @@ La ŝajnsufikso **-atĭc-** prononciĝas *[ađj]* (= *[aðj]*).
  
 ### c, g
 
-**c** kaj **g** estas prononcataj *[c]* kaj *[dz]* antaŭ **-e** kaj **-i** (kaj **-y**).
+**c** kaj **g** estas prononcataj *[ŧ]* kaj *[đ]* antaŭ **-e** kaj **-i** (kaj **-y**).
 
 | | |
 |-|-|
-| *centro*  | **centre**  *[centre]*  |
-| *leĝo*    | **lege**    *[ledze]*   |
+| *centro*  | **centre**  *[ŧentre]*  |
+| *leĝo*    | **lege**    *[leđe]*   |
 | | |
-| *biciklo* | **bicycle** *[bicikle]* |
+| *biciklo* | **bicycle** *[biŧikle]* |
 
-Kiam **c** kaj **g** estas prononcataj *[k]* kaj *[g]* antaŭ **e** kaj **i**, ili portas makronon. Kiam ili estas prononcataj *[c]* kaj *[dz]* antaŭ **a**, **o** kaj **u**, ili portas cirkumflekson.
+Kiam **c** kaj **g** estas prononcataj *[k]* kaj *[g]* antaŭ **e** kaj **i**, ili portas makronon. Kiam ili estas prononcataj *[ŧ]* kaj *[đ]* antaŭ **a**, **o** kaj **u**, ili portas cirkumflekson.
 
 | | |
 |-|-|
 | *amiko* | **amic̄e** *[amike]* |
 | *fungo* | **funḡe** *[funge]* |
 | | |
-| *paca*  | **paĉa**  *[paca]*  |
-| *leĝa*  | **leĝa**  *[ledza]* |
+| *paca*  | **paĉa**  *[paŧa]*  |
+| *leĝa*  | **leĝa**  *[leđa]* |
 
 ### i, u
 
@@ -114,9 +114,9 @@ Postvokala **-b** kaj **-p** ofte fariĝas **-v** *[v]*.
 
 | | |
 |-|-|
-| *tero*    | **terre** *[teĥe]*  |
+| *tero*    | **terre** *[teĥĥe]* |
 | *por*     | **por**   *[poĥ]*   |
-| *reala*   | **reale** *[ĥeale]* |
+| *reala*   | **reál**  *[ĥeal']* |
 | *malofta* | **rara**  *[ĥara]*  |
 
 ### s, x
@@ -128,12 +128,14 @@ Postvokala **-b** kaj **-p** ofte fariĝas **-v** *[v]*.
 | *maso* | **masse** *[masse]* |
 | *rozo* | **rose**  *[roze]*  |
 
-**x** *[ks]* prononciĝas *[gz]* inter vokaloj.
+**x** *[ks]* prononciĝas (ofte) *[gz]* inter vokaloj de la sama radiko.
+
+<!-- maksimumo: maxĭma -->
 
 | | |
 |-|-|
-| *ekzemplo* | **exemple** *[egzemple]* |
-| *fiksi*    | **fixu**    *[fiksu]*    |
+| *ekzemplo*  | **exemple** *[egzemple]* |
+| *fiksi*     | **fixu**    *[fiksu]*    |
 
 ### Grekaj Vortoj
 
@@ -178,6 +180,15 @@ Postvokala **-b** kaj **-p** ofte fariĝas **-v** *[v]*.
 | *ni estas*  | | ni essan  | *somus* |
 | *vi estas*  | | vi essan  | *séis*  |
 | *ili estas* | | ili essan | *son*   |
+
+| | | | |
+|-|-|-|-|
+| *mi faras*  | | mi faĉan  | *fó*    |
+| *ci faras*  | | ti faĉan  | *fás*   |
+| *li faras*  | | li faĉan  | *fá*    |
+| *ni faras*  | | ni faĉan  | *fámus* |
+| *vi faras*  | | vi faĉan  | *fáis*  |
+| *ili faras* | | ili faĉan | *fán*   |
 
 Kiam la radikofina konsonanto de i- kaj e-verboj ne ŝanĝiĝis, la radikofina vokalo eliziiĝas en la subjunktiva prezenco kaj en la mi-formo de la indikativa prezenco.
 

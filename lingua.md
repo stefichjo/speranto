@@ -380,7 +380,7 @@ Kiam la radikofina vokalo eliziiĝas antaŭ la participa finaĵo -ta, la partici
 
 ## Pronomoj
 
-Poezie, la pronomoj la unua kaj dua personoj estas *io*, *tu*, *noi* kaj *voi* kiam ili ne estas la rekta objekto de transitiva verbo kaj kiam ili ne estas la argumento de prepozicio.
+Fleksie, la pronomoj de la unua kaj dua personoj estas *io*, *tu*, *noi* kaj *voi* kiam ili ne estas objekto (t.e. nek rekta objekto de transitiva verbo nek argumento de prepozicio).
 
 | | | | |
 |-|-|-|-|
@@ -576,23 +576,6 @@ En la perfekto, uziĝas **essĕ**. (Aliaj verboj baziĝantaj sur **i** estas reg
 **a-Verboj:**
 
 <!-- -at- → -it- / aldona signifo (kiel substantivo)/neologismo -->
-
-<!--
-Kiel adjektivo, pasiva participo finiĝas je -a.
-la porta aperta
-
-Por formi la perfekton, ĝi uziĝas kun -o.
-hó aperto la porta
-
-Por krei substantivon, kiu esprimas "tio, kio estas -ita", uziĝas la finaĵo -o.
-tecto
-
-Por krei substantivon, kiu esprimas la agon, uziĝas la finaĵo -u.
-casu, sensu, gradu, passu (casuale)
-
-Ankău aliaj substantivoj fakte finiĝas je -u. Eble nur en la "poezia stilo".
-manu (manuale)
--->
 
 | | cf. |
 |-|-|

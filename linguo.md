@@ -47,37 +47,24 @@ La sufikso **-etĭ-** prononciĝas *[es]*.
 | *legi* | **legŭi** *[legi]* |
 | *voki* | **voqŭi** *[voki]* |
 
-### i, u
-
-Inter vokaloj, **i** prononciĝas *[j]*, same kiel en ***Lingveo***.
-
-| | |
-|-|-|
-| *majo* | **maio** *[majo]* |
-
-**j** prononciĝas *[ĥ]*.
-
-| | |
-|-|-|
-| *jam* | **jam** *[ĥam]* |
-| *objekto* | **objecto** *[obĥekto]* |
+### u
 
 **u** prononciĝas kiel en ***Lingveo***.
 
 | | |
 |-|-|
-| *aŭto* | **auto** *[aŭto]* |
-| *akvo* | **aquo** *[akŭo]* |
+| *aŭto*   | **auto**   *[aŭto]*   |
+| *akvo*   | **aquo**   *[akŭo]*   |
 | *kvanto* | **quanto** *[kŭanto]* |
 | | |
-| *ŭaŭ* | **wau** *[ŭaŭ]* |
+| *ŭaŭ*    | **wau**    *[ŭaŭ]*    |
 
 Kiam **i** aŭ **u** estas akcentataj en antaŭlasta pozicio, ili portas makronon.
 
 | | |
 |-|-|
 | *poezio* | **poesīo** *[poezio]* |
-| *situi* | **sitūi** *[situi]* |
+| *situi*  | **sitūi**  *[situi]*  |
 
 #### Latinida ĭ
 
