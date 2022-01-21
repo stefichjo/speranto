@@ -493,8 +493,11 @@ Note:
 | | | | | | | | |
 |-|-|-|-|-|-|-|-|
 | 🅰 | **quando** | | **quanto** | | **quare** | | **quomo** |
-| 🅴 | **quam**   | | **quäm**   | | **qual**  | | **quol**  |
-| 🅾 | **qŭiam**  | | **qŭiåm**  | | **qŭial** | | **qŭiel** |
+| 🅴 | **quam**   | | **quäm**   | | **quår**  | | **quom**  |
+| 🅾 | **qŭiam**  | | **qŭiåm**  | | **qŭiär** | | **qŭiem** |
+
+Note:
+* 🅾 **qŭiäri** - *demandi pri*, *peti*
 
 <!--v-->
 
@@ -915,44 +918,6 @@ Note:
 
 ## Speranto
 
-### Elizio de ĕ
-
-| | | |
-|-|-|-|
-| 🅰 | **camĕra**  | [kamer-a]                               |
-| 🅴 | **cámra**   | [kamre]                                 |
-| 🅾 | **camro**   | [kamro]                                 |
-| | | |
-| |                | **[kamero]**/**[kamerao]**/**[ĉambro]** |
-
-Note:
-* francismo
-* 🅰 **camĕrato**, 🅴 **camĕrade**, 🅾 **camĕrado** - *kamarado* <!-- ĉu licas? -->
-
-<!-- TODO ? rr ĥĥ ĥ -->
-
-<!--v-->
-
-## Speranto
-
-### Elizio de ĭ
-
-| | | | | | |
-|-|-|-|-|-|-|
-| 🅰 | **mobĭle** | [mobil-e]   | | **stabĭle** | [stabil-e]    |
-| 🅴 | **móble**  | [moble]     | | **stábla**  | [stabla]      |
-| 🅾 | **móvlo**  | [movlo]     | | **stávla**  | [stavla]      |
-| | | | | | |
-| |               | **[meblo]** | |             | **[stabila]** |
-
-Note:
-* ĭ <!-- TODO centesĭma → centésma -->
-* **met-ipsĭma** → **mêdipsĭma** → **mêdîssĭma** → **mêsma** → **mêma**
-
-<!--v-->
-
-## Speranto
-
 ### Francismoj
 
 | | | | | | |
@@ -965,6 +930,29 @@ Note:
 
 Note:
 * 🅰 **hospĭtello**, 🅴 **hôtelle**, 🅾 **hôtéł** [oteŭ']
+
+<!--v-->
+
+## Speranto
+
+### Francismoj
+
+| | | |
+|-|-|-|
+| 🅰 | **camĕra**  | [kamer-a]                               |
+| 🅴 | **camĕre**  | [kamer-e]                               |
+| 🅾 | **camĕro**  | [kamer-o]                               |
+| | | |
+| |                | **[kamero]**/**[kamerao]**/**[ĉambro]** |
+
+Note:
+* 🅰 **camĕrato**, 🅴 **camĕrade**, 🅾 **camĕré** - *kamarado*
+
+<!-- * 🅰 **mobĭle**, 🅴 **móvĭl** - *meblo* -->
+<!-- stábla stávla -->
+<!-- TODO ? rr ĥĥ ĥ -->
+<!-- TODO centesĭma → centésma -->
+<!-- * **met-ipsĭma** → **mêdipsĭma** → **mêdîssĭma** → **mêsma** → **mêma** -->
 
 <!--v-->
 
@@ -1366,7 +1354,11 @@ Note:
 |-|-|-|-|
 | *tia*     | **tale**   | → | **tál**  |
 | *nenio*   | **nille**  | → | **níl**  |
+| | | | |
 | *kiu ...* | **qua**    | → | **quał** |
+
+Note:
+* En O*, **quál** kaj **quał** unuiĝas al **quáł**.
 
 <!--v-->
 
@@ -1386,11 +1378,11 @@ Note:
 
 #### Prepozicioj
 
-| | | |
-|-|-|-|
-| **de la** | → | **dél** |
-| **en la** | → | **nél** |
-| **a la**  | → | **ál**  |
+| | | | | | | |
+|-|-|-|-|-|-|-|
+| **de la** | → | **dél** | | **di la** | → | **díl** |
+| **in la** | → | **níl** | | **en la** | → | **nêl** |
+| **ad la** | → | **âl**  | | **a la**  | → | **ál**  |
 
 Note:
 * **en ella**
@@ -1414,24 +1406,29 @@ Note:
 
 | | | | |
 |-|-|-|-|
-| *nacia*  | **nationál**   | → | **nationał**  [nasjonaŭ']  |
-| *naciaj* | **nationales** | → | **nationałs** [nasjonaŭs'] |
+| *nacia*    | **nationál**   | → | **nationał**  [nasjonaŭ']  |
+| *naciaj*   | **nationales** | → | **nationałs** [nasjonaŭs'] |
 | | | | |
-| *senila*  | **seníl**      | → | **seníł**  [seniŭ']       |
-| *senilaj* | **seniles**    | → | **seníłs** [seniŭs']      |
+| *gentila*  | **gentíl**     | → | **gentíł**  [ĵentiŭ']       |
+
+| *gentilaj* | **gentiles**   | → | **gentíłs** [ĵentiŭs']      |
+
 <!--v-->
 
 ### Linguo*
 
-#### -(b)ĭle
+#### -(i)bĭle
 
 | | | | |
 |-|-|-|-|
 | *agrabla*  | **aggratáble**  | → | **aggratávĭł**  [agrataviŭ]  |
 | *agrablaj* | **aggratábles** | → | **aggratávĭls** [agrataviŭs] |
 | | | | |
-| *facila*   | **fáĉle**       | → | **fácĭł**  [fasiŭ]           |
-| *facilaj*  | **fáĉles**      | → | **fácĭłs** [fasiŭs]          |
+| *facila*   | **fácĭl**       | → | **fácĭł**  [fasiŭ]           |
+| *facilaj*  | **facĭles**     | → | **fácĭłs** [fasiŭs]          |
+
+Note:
+* **mobĭle**, **móvil**, **móvĭł**
 
 <!--v-->
 
@@ -1577,16 +1574,9 @@ Note:
 * aliaj Lingvoj
 
 <!--
-ke th ts: terracea
-te th ts: platea plaza
-
-di dhj ĵ: radĭo ? tiel estus analogie al "viatĭco viajo", sed mankas ekzemplo
-
 ni nj n.: balneo extranea venĭo
 gn nj n.: pugno [ŋn]
 
-
-<!-- 
 eccu-ille = id, hic ? (id-ius? hic-ius?)
 eccu-ille = nunc, ad-hora ?
 
@@ -1603,18 +1593,10 @@ clamant
 es clamata
 (veni clamĭta)
 
- -->
+-phŏno: telephŏno (-telefno?)
 
-<!-- telephono, anglophona
-
-La latin(id)aj akcentreguloj (antepenul, penult, ultima) malfacile tradukiĝas ĉi tie. Necesas diri, ke la "o" en "phono" ne estas akcentebla/mallonga/malpeza.
-
--phŏno: telephŏno, anglophŏna
--->
-
-<!-- 
 (kambiare kambjár kânĵá)
 psalmo psalmo salmo
- -->
 
 charactĕre
+-->
