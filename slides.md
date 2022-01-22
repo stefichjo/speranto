@@ -482,7 +482,7 @@ Note:
 
 | | | | | | |
 |-|-|-|-|-|-|
-| 🅾 | **hodĭõ** | [oĵaŭ] | → | **hodĭø** | [oĵe] |
+| 🅾 | **hojõ** | [oĵaŭ] | → | **hojø** | [oĵe] |
 
 <!--v-->
 
@@ -813,7 +813,7 @@ Note:
 |-|-|-|-|-|-|
 | 🅰 | **familia** | [famili-a]    | | **filio** | [fili-o]   |
 | 🅴 | **familie** | [familje]     | | **filie** | [filje]    |
-| 🅾 | **familĭo** | [famiḷo]      | | **filĭo** | [fiḷo]     |
+| 🅾 | **familio** | [famiḷo]      | | **filio** | [fiḷo]     |
 | | | | | | |
 | |                | **[familio]** | |           | **[filo]** |
 
@@ -823,15 +823,16 @@ Note:
 
 ### i: ni
 
-| | | |
-|-|-|-|
-| 🅰 | **balneo** | [balne-o]    |
-| 🅴 | **balnie** | [balnje]     |
-| 🅾 | **balnio** | [balṅo]      |
-| | | |
-| |               | **[bano]**   |
+| | | | | | |
+|-|-|-|-|-|-|
+| 🅰 | **linea** | [line-a]    | | **extranea** | [ekstrane-a]  |
+| 🅴 | **linie** | [linje]     | | **extrania** | [ekstranja]   |
+| 🅾 | **linio** | [liṅo]      | | **extrania** | [estraṅa]     |
+| | | | | | |
+| |              | **[linio]** | |              | **[stranga]** |
 
-<!-- TODO ni/nĭ ? -->
+Note:
+* 🅰 **balneo**, 🅴 **balnie**, 🅾 **balnio** - *bano*
 
 <!--v-->
 
@@ -878,11 +879,9 @@ Note:
 |-|-|-|-|-|-|
 | 🅰 | **circ' ad** | [kirk ad]    | | **hodie** | [hodi-e]     |
 | 🅴 | **circ̄ĕ al** | [cirkal]     | | **hodio** | [hođjo]      |
-| 🅾 | **circał**   | [ĉiĥkaŭ]     | | **hodĭõ** | [oĵaŭ]       |
+| 🅾 | **circał**   | [ĉiĥkaŭ]     | | **hojõ**  | [oĵaŭ]       |
 | | | | | | |
 | |                 | **[ĉirkaŭ]** | |           | **[hodiaŭ]** |
-
-<!-- TODO ĉu 🅾 dĭ aŭ di ? -->
 
 <!--v-->
 
@@ -1671,8 +1670,11 @@ Note:
 * aliaj Lingvoj
 
 <!--
-ni nj n.: balneo extranea venĭo
 gn nj n.: pugno [ŋn]
+
+siŋno
+sinjo
+siṅo
 
 eccu-ille = id, hic ? (id-ius? hic-ius?)
 eccu-ille = nunc, ad-hora ?
