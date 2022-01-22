@@ -255,9 +255,9 @@ La gerundio finiĝas je -ndo kaj kondutas kiel la participo.
 
 La infinitivo estas egala al la subjunktiva preterito sen konjugacia finaĵo. Pere de la verbo **i** kaj infinitivo, oni povas esprimi venontecan aspekton.
 
-| | | |
-|-|-|-|
-| *mi estas legonta.* | | me vá legĕre. |
+| | | | | |
+|-|-|-|-|-|
+| *mi estas legonta* | | **me vade legé** | me vá legĕre | *vó legĕre* |
 
 ## Perfekto
 
@@ -363,10 +363,10 @@ vi/ve malaperas.
 
 Kiam la radikofina vokalo eliziiĝas antaŭ la participa finaĵo -ta, la participo fariĝas plenum-aspekta.
 
-| | | |
-|-|-|-|
-| *legata* | | legĭta |
-| *legita* | | lecta  |
+| | | | |
+|-|-|-|-|
+| *legata* | | **legeta** | legĭta |
+| *legita* | |            | lecta  |
 
 ***Pasivo:***
 

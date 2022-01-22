@@ -1061,7 +1061,7 @@ Note:
 
 Note:
 * 🅰 **camĕrato**, 🅴 **camĕrade**, 🅾 **camĕré** - *kamarado*
-* 🅰 **paupĕra**, 🅴 **paupĕra**, 🅾 **pópĕra** - *povra*
+* 🅰 **paupĕra**, 🅴 **pópĕra**, 🅾 **pópĕra** - *povra*
 
 <!-- TODO p → b → v -->
 <!-- TODO * **met-ipsĭma** → **mêdipsĭma** → **mêdîssĭma** → **mêsma** → **mêma** -->
@@ -1604,7 +1604,7 @@ Note:
 
 ## Speranto*
 
-[Se eĉ supozeremus la finan lingvon dil<br> esontaj generacioj ne Speranto, in ĉia<br> okazo la vio ad tiu ellaborota lingvo<br> nepre deve konduse' tra Speranto.]
+[Se eĉ supozeremus la finan lingvon di las<br> esontaj generacioj ne Speranto, in ĉia<br> okazo la vio ad tiu ellaborota lingvo<br> nepre deve konduse' tra Speranto.]
 
 > Sï eĉ supposerémus la finan linguon<br> díl essontai gŭeneratīoi<br> ne Speranto, in ĉia occaso<br> la vio ad tiu ellaborota linguo<br> nepre deve conducé<br> tra Speranto.
 
@@ -1612,7 +1612,7 @@ Note:
 
 ## Linguo*
 
-[Se eĉ supozeremus la lingŭon finan dil<br> ĵenerasioj esontaj ne Speranto, in ĉia<br> okazio la vio ad tiu lingŭo ellavorota<br> infaliviŭmente deve konduse' tra Speranto.]
+[Se eĉ supozeremus la lingŭon finan di las<br> ĵenerasioj esontaj ne Speranto, in ĉia<br> okazio la vio ad tiu lingŭo ellavorota<br> infaliviŭmente deve konduse' tra Speranto.]
 
 > Sï eĉ supposerémus la linguon finan<br> dil generatīoi essontai<br> ne Speranto, in ĉia occasīo<br> la vio ad tiu linguo ellavorota<br> infallívĭłmente deve conducé<br> tra Speranto.
 
