@@ -1078,9 +1078,6 @@ Note:
 * 🅰 **camĕrato**, 🅴 **camĕrade**, 🅾 **camĕré** - *kamarado*
 * 🅰 **paupĕra**, 🅴 **pópĕra**, 🅾 **pópĕra** - *povra*
 
-<!-- TODO p → b → v -->
-<!-- TODO * **met-ipsĭma** → **mêdipsĭma** → **mêdîssĭma** → **mêsma** → **mêma** -->
-
 <!--v-->
 
 ## Speranto
@@ -1399,7 +1396,6 @@ Note:
 | | | | | |
 | *ŝi, li, ri, ĝi* | **ille** | | *ili* | **illes** |
 
-<!-- TODO ĉu "ille(s)" estus uzebla ankaŭ memstare / en aliaj situacioj? -->
 Note:
 * **tu et io somus amicos** - *ci kaj mi estas amikoj*
 
@@ -1595,9 +1591,9 @@ Note:
 
 ## Esperanto*
 
-[Se eĉ supozeremus la finan lingvon di l'<br> estontaj generacioj ne Esperanto, in ĉia<br> okazo la vojo ad tiu ellaborota lingvo<br> nepre deve konduse' tra Esperanto.]
+[Se eĉ supozeremus la lingva finale di l'<br> generacios futuras ne Esperanto, in ĉia<br> okazo la vojo ad tiu lingvo ellaborota<br> nepre deve konduse' tra Esperanto.]
 
-> Sï eĉ supposerémus la finan linguon<br> di l' s̈tontai gŭeneratīoi<br> ne S̈peranto, in ĉia occaso<br> la vĩo ad tiu ellaborota linguo<br> nepre deve conducé<br> tra S̈peranto.
+> Sï eĉ supposerémus la finan linguon<br> di l' gŭeneratīos futuras<br> ne S̈peranto, in ĉia occaso<br> la vĩo ad tiu linguo ellaborota<br> nepre deve conducé<br> tra S̈peranto.
 
 <!--v-->
 
@@ -1619,19 +1615,17 @@ Note:
 
 ## Speranto*
 
-[Se eĉ supozeremus la finan lingvon di las<br> esontaj generacioj ne Speranto, in ĉia<br> okazo la vio ad tiu ellaborota lingvo<br> nepre deve konduse' tra Speranto.]
+[Se eĉ supozeremus la lingva finale di las<br> generacios futuras ne Speranto, in ĉia<br> okazo la vio ad tiu lingva ellaborota<br> nepre deve konduse' tra Speranto.]
 
-> Sï eĉ supposerémus la finan linguon<br> díl essontai gŭeneratīoi<br> ne Speranto, in ĉia occaso<br> la vio ad tiu ellaborota linguo<br> nepre deve conducé<br> tra Speranto.
+> Sï eĉ supposerémus la lingua finale<br> díl gŭeneratīos futuras<br> ne Speranto, in ĉia occaso<br> la vio ad tiu lingua ellaborota<br> nepre deve conducé<br> tra Speranto.
 
 <!--v-->
 
 ## Linguo*
 
-[Se eĉ supozeremus la lingŭon finan di las<br> ĵenerasioj esontaj ne Speranto, in ĉia<br> okazio la vio ad tiu lingŭo ellavorota<br> infaliviŭmente deve konduse' tra Speranto.]
+[Si eĉ supozeremus la lingŭa finale di las<br> ĵenerasios futuras ne Speranto, in ĉia<br> okazio la vio ad tiu lingŭo ellavorota<br> infaliviŭmente deve konduse' tra Speranto.]
 
-> Sï eĉ supposerémus la linguon finan<br> dil generatīoi essontai<br> ne Speranto, in ĉia occasīo<br> la vio ad tiu linguo ellavorota<br> infallívĭłmente deve conducé<br> tra Speranto.
-
-<!-- TODO i -> s -->
+> Si eĉ supposerémus la lingua finale<br> di las generatīos futuras<br> ne Speranto, in ĉia occasīo<br> la vio ad tiu linguo ellavorota<br> infallívĭłmente deve conducé<br> tra Speranto.
 
 <!--v-->
 

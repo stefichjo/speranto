@@ -410,29 +410,17 @@ Fleksie, la pronomoj de la unua kaj dua personoj estas *io*, *tu*, *noi* kaj *vo
 | *ni dormas* | | nos dormi | *(noi) dormimus* |
 | *vi dormas* | | vos dormi | *(voi) dormitis* |
 
+<!-- TODO ille, illes
 
-<!-- 
-xi  = ille = le
-ili = illes = les
+(io) vivo con le
+(ille) vivĕ con me
 
-ŝi = elle
-ri = ulle
-li = olle
-ĝi = (alle → ille: alle → ille pluvat → pluvat)
+(noi) vivĕmus con les
+(illes) vivĕnt con nos
 
-iste
-ipse
-
-"nel" ne funkcias tiam, ĉar la "e" eliziiĝus post prepozicio.
-
-tamen, "ille" ŝajnas uzinda (anstataŭ "le") ankaŭ en aliaj pozicioj, por klareco.
-necesas do modifi tiun ĉi klarigon.
-Eble sufiĉas diri, ke kiel superflua subjekto me, te, nos, vos, le, les ne uziĝas. Punktofino. Alternative, oni uzu io, tu, noi, voi, ille, illes. Necesas tiam klarigi diferenceton inter le kaj ille respektive inter les kaj illes. (Kaj inter la(s) kaj illa(s).)
 -->
 
 <!-- (fá: fó fás fát fámus fátis fánt) -->
-
-<!-- h -->
 
 <!-- 
 nos nossa
@@ -590,6 +578,20 @@ En la perfekto, uziĝas **essĕ**. (Aliaj verboj baziĝantaj sur **i** estas reg
 | ***Preterito*** | | ía         | ire         | | fuera      | fuisse      |
 | | | | | | | |
 | ***Futuro***    | | irá        | iría        | | | |
+
+## facĕre
+
+| | | | | | | |
+|-|-|-|-|-|-|-|
+| *mi faras*  | | **me face**  | me fá  | *fó*    | | ***facio***   |
+| *ci faras*  | | **te face**  | te fá  | *fás*   | | ***facĕs***   |
+| *li faras*  | | **le face**  | le fá  | *fát*   | | ***facĕt***   |
+| *ni faras*  | | **nos face** | nos fá | *fámus* | | ***facĕmus*** |
+| *vi faras*  | | **vos face** | vos fá | *fátis* | | ***facĕtis*** |
+| *ili faras* | | **les face** | les fá | *fánt*  | | ***facĕnt***  |
+
+<!-- TODO facio estas ofte uzata en tiu ĉi dokumento -->
+<!-- vátis fátis, sed ... estis kaj héis -->
 
 ## Pasivaj Participoj
 
