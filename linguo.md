@@ -85,11 +85,11 @@ Voĉaj konsonantoj kun **ĭ** en ***Latinidaj*** vortoj prononciĝas *[ĵ]*.
 
 | | |
 |-|-|
-| *kaĝo* | **cavĭo** *[kaĵo]* |
-| *neĝo* | **nïvĭo** *[neĵo]* |
+| *kaĝo*  | **cavĭo** *[kaĵo]*   |
+| *neĝo*  | **nïvĭo** *[neĵo]*   |
 | *plaĝo* | **plagĭo** *[plaĵo]* |
-| *ruĝa* | **ruvĭa** *[ruĵa]* |
-| *seĝo* | **sedĭo** *[seĵo]* |
+| *ruĝa*  | **ruvĭa** *[ruĵa]*   |
+| *seĝo*  | **sedĭo** *[seĵo]*   |
 
 ### ł, sc
 
@@ -162,28 +162,28 @@ Palataligita **g** *[ĝ]* prononciĝas *[g]*, kaj **j** *[ĥ]* prononciĝas *[j]
 
 La ŝajnprefiksoj **ex̂-**, **dė-** kaj **rė-** pronciĝas *[eks]*, *[de]* kaj *[re]*.
 
-| | | slav-ĝermane |
+|            |                          | slav-ĝermane |
 |-|-|-|
-| *eksperto* | **ex̂perto** *[esperto]* | *[eksperto]* |
-| *dependi* | **dėpendi** *[dipendi]* | *[dependi]* |
+| *eksperto* | **ex̂perto** *[esperto]*  | *[eksperto]* |
+| *dependi*  | **dėpendi** *[dipendi]*  | *[dependi]*  |
 | *reflekso* | **rėflexo** *[riflekso]* | *[reflekso]* |
 
 Post konsonanto kaj komence de radiko, ne-akcentata **-u** *[ŭ]* prononciĝas *[v]*.
 
-| | | slav-ĝermane |
+|          |                       | slav-ĝermane |
 |-|-|-|
-| *akvo* | **aquo** *[akŭo]* | *[akvo]* |
-| *kvar* | **quar** *[kŭar]* | *[kvar]* |
-| *lingvo* | **linguo** *[liŋgŭo]* | *[lingvo]* |
+| *akvo*   | **aquo** *[akŭo]*     | *[akvo]*     |
+| *kvar*   | **quar** *[kŭar]*     | *[kvar]*     |
+| *lingvo* | **linguo** *[liŋgŭo]* | *[lingvo]*   |
 | | | |
-| *ŭaŭ* | **wau** *[ŭaŭ]* | *[vaŭ]* |
+| *ŭaŭ*    | **wau** *[ŭaŭ]*       | *[vaŭ]*      |
 
-Post konsonanto, ne-akcentata radikofina **-i** *[j]* eliziiĝas.
+Post konsonanto, ne-akcentata ne-asimilita radikofina **-i** *[j]* eliziiĝas.
 
 | | | slav-ĝermane |
 |-|-|-|
 | *besto* | **bestio** *[bestjo]* | *[besto]* |
-| *spaco* | **spatio** *[spasjo]* | *[spaco]* |
+| *spaco* | **spatio** *[spaso]*  | *[spaco]* |
 
 Analogie, **ĭ** ne asimiliĝas, sed **di** *[ĵ]* prononciĝas *[di]*.
 

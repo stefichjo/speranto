@@ -661,7 +661,7 @@ Note:
 | | | | | | |
 |-|-|-|-|-|-|
 | 🅰 | **terra** | [terra]    | | **rara** | [rara]     |
-| 🅴 | **terre** | [terre]    | | **rara** | [rara]     |
+| 🅴 | **terre** | [teĥĥe]    | | **rara** | [ĥara]     |
 | 🅾 | **terro** | [teĥo]     | | **rara** | [ĥara]     |
 | | | | | | |
 | |              | **[tero]** | |          | **[rara]** |
@@ -693,11 +693,15 @@ exame, examinare [ks] [gz] [z]
 
 | | | | | | |
 |-|-|-|-|-|-|
-| 🅰 | **centro** | [kentro]     | | **geographīa** | [geografia]     |
-| 🅴 | **centre** | [ŧentre]     | | **geographie** | [đeografje]     |
-| 🅾 | **centro** | [sentro]     | | **geographio** | [ĵeografio]     |
+| 🅰 | **centro** | [kentro]     | | **gentile** | [gentile]     |
+| 🅴 | **centre** | [ŧentre]     | | **gentila** | [đentila]     |
+| 🅾 | **centro** | [sentro]     | | **gentiła** | [ĵentiŭa]     |
 | | | | | | |
-| |               | **[centro]** | |                | **[geografio]** |
+| |               | **[centro]** | |             | **[ĝentila]** |
+
+Note:
+* Tra bruo, 🅴 **centre** prononciĝas [ĉentre], kaj 🅾 **centro** prononciĝas [centro].
+* Tra bruo, 🅴 **gentila** prononciĝas [ĝentila], kaj 🅾 **gentiła** prononciĝas [dzentila].
 
 <!--v-->
 
@@ -727,6 +731,9 @@ exame, examinare [ks] [gz] [z]
 | | | |
 | |             | **[majo]** | |        | **[jam]**   |
 
+Note:
+* Tra bruo, 🅴/🅾 **jam** prononciĝas [jam].
+
 <!--v-->
 
 ## Speranto
@@ -750,10 +757,29 @@ exame, examinare [ks] [gz] [z]
 | | | |
 |-|-|-|
 | 🅰 | **balneo** | [balne-o]    |
-| 🅴 | **balnėe** | [balnje]     |
-| 🅾 | **balnĕo** | [balṅo]      |
+| 🅴 | **balnie** | [balnje]     |
+| 🅾 | **balnio** | [balṅo]      |
 | | | |
 | |               | **[bano]**   |
+
+<!-- TODO ni/nĭ ? -->
+
+<!--v-->
+
+## Speranto
+
+### i: ci
+
+| | | |
+|-|-|-|
+| 🅰 | **terracĕa** | [balne-o]    |
+| 🅴 | **terracie** | [teĥĥaŧje]   |
+| 🅾 | **terraço**  | [teĥaso]     |
+| | | |
+| |                 | **[bano]**   |
+
+Note:
+* Tra bruo, 🅾 **terraço** = **terracio** prononciĝas [teĥasjo].
 
 <!--v-->
 
@@ -765,9 +791,27 @@ exame, examinare [ks] [gz] [z]
 |-|-|-|-|-|-|
 | 🅰 | **natione** | [natione]   | | **spatio** | [spati-o]   |
 | 🅴 | **natie**   | [naŧje]     | | **spatie** | [spaŧje]    |
-| 🅾 | **natīo**   | [nasio]     | | **spatio** | [spasjo]    |
+| 🅾 | **natīo**   | [nasio]     | | **spatio** | [spaso]     |
 | | | | | | |
 | |                | **[nacio]** | |            | **[spaco]** |
+
+Note:
+* Tra bruo, 🅾 **spaço** = **spatio** prononciĝas [spasjo].
+* 🅰 **platĕa** [plate-a], 🅴 **platie** [plaŧje], 🅾 **plaço** = **platio** [plaso]
+
+<!--v-->
+
+## Speranto
+
+### i: di
+
+| | | |
+|-|-|-|
+| 🅰 | **sedio** | [sedi-o]   |
+| 🅴 | **sedie** | [seđje]    |
+| 🅾 | **sedio** | [seĵo]     |
+| | | |
+| |              | **[seĝo]** |
 
 <!--v-->
 
@@ -782,6 +826,8 @@ exame, examinare [ks] [gz] [z]
 | 🅾 | **circał**   | [ĉiĥkaŭ]     | | **hodĭõ** | [oĵaŭ]       |
 | | | | | | |
 | |                 | **[ĉirkaŭ]** | |           | **[hodiaŭ]** |
+
+<!-- ĉu 🅾 dĭ aŭ di ? -->
 
 <!--v-->
 
@@ -843,7 +889,6 @@ Note:
 * **obĵêti** - *obĵeti*, **pîtoresca** - *pitoreska*
 * Internaciismo: 🅰 **auctore**, 🅴 **autór** <!-- TODO actrice -->
 
-
 <!--v-->
 
 ## Speranto
@@ -876,9 +921,9 @@ Note:
 | |                | **[frida]** |
 
 Note:
-* **magistro** → **maîstro**
-* **tragĭno** → **trâino**
-* **pagêsatĭco** → **pâêsâjo**
+* 🅰 **magistro**, 🅴 **maîstro**
+* 🅰 **tragĭno**, 🅴 **trâino**
+* 🅰 **pagêsatĭco**, 🅴 **pâêsâjo**
 
 <!--v-->
 
@@ -890,7 +935,7 @@ Note:
 |-|-|-|-|-|-|
 | 🅰 | **articŭlo**  | [artikul-o]       | | **articŭlatione** | [artikulatione]   |
 | 🅴 | **artícle**   | [artikle]         | | **articŭlatie**   | [artikulaŧje]     |
-| 🅾 | **artíqŭio**  | [artikjo]         | | **articŭlatīo**   | [artikulasio]     |
+| 🅾 | **artíclo**   | [artiklo]         | | **articŭlatīo**   | [artikulasio]     |
 | | | | | | |
 |   |                | **[artik(o)lo]**  | |                   | **[artikulacio]** |
 
@@ -930,6 +975,7 @@ Note:
 
 Note:
 * 🅰 **hospĭtello**, 🅴 **hôtelle**, 🅾 **hôtéł** [oteŭ']
+* *tipe* francismoj
 
 <!--v-->
 
@@ -950,7 +996,6 @@ Note:
 
 <!-- * 🅰 **mobĭle**, 🅴 **móvĭl** - *meblo* -->
 <!-- stábla stávla -->
-<!-- TODO ? rr ĥĥ ĥ -->
 <!-- TODO centesĭma → centésma -->
 <!-- * **met-ipsĭma** → **mêdipsĭma** → **mêdîssĭma** → **mêsma** → **mêma** -->
 
@@ -1302,8 +1347,6 @@ Note:
 
 #### -le
 
-<!-- TODO fácĭl = fáĉle ? -->
-
 | | | |
 |-|-|-|
 | **facĭle**    | → | **fácĭl**    |
@@ -1352,13 +1395,10 @@ Note:
 
 | | | | |
 |-|-|-|-|
+| *kia*     | **quale**  | → | **quál** |
 | *tia*     | **tale**   | → | **tál**  |
-| *nenio*   | **nille**  | → | **níl**  |
 | | | | |
-| *kiu ...* | **qua**    | → | **quał** |
-
-Note:
-* En O*, **quál** kaj **quał** unuiĝas al **quáł**.
+| *nenio*   | **nille**  | → | **níl**  |
 
 <!--v-->
 
@@ -1381,7 +1421,7 @@ Note:
 | | | | | | | |
 |-|-|-|-|-|-|-|
 | **de la** | → | **dél** | | **di la** | → | **díl** |
-| **in la** | → | **níl** | | **en la** | → | **nêl** |
+| **in la** | → | **nîl** | | **en la** | → | **nêl** |
 | **ad la** | → | **âl**  | | **a la**  | → | **ál**  |
 
 Note:
