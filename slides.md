@@ -680,10 +680,22 @@ Note:
 | | | | | | |
 | |              | **[maso]** | |          | **[nazo]** |
 
-<!-- TODO
-maxĭma [ks] [ss] [ss]
-exame, examinare [ks] [gz] [z]
--->
+<!--v-->
+
+## Speranto
+
+### ks / kz
+
+| | | | | | |
+|-|-|-|-|-|-|
+| 🅰 | **exemplo** | [eksemplo]     | | **maxĭmo** | [maksim-o]      |
+| 🅴 | **exemple** | [egzemple]     | | **maxĭmo** | [massim-e]      |
+| 🅾 | **exemplo** | [ezemplo]      | | **maxĭmo** | [masim-o]       |
+| | | | | | |
+| |                | **[ekzemplo]** | |            | **[maksimumo]** |
+
+Note:
+* Regulo neklara.
 
 <!--v-->
 
@@ -739,7 +751,7 @@ Note:
 
 | | | | | | |
 |-|-|-|-|-|-|
-| 🅰 | **maio** | [mai-o]    | | **ĭam** | [iam']     |
+| 🅰 | **maio** | [mai-o]    | | **iam** | [iam']     |
 | 🅴 | **maio** | [majo]     | | **jam** | [ĵam]      |
 | 🅾 | **maio** | [majo]     | | **jam** | [ĵam]      |
 | | | |
@@ -747,8 +759,6 @@ Note:
 
 Note:
 * Tra bruo, 🅴/🅾 **jam** prononciĝas [jam].
-
-<!-- TODO ĉu ĭam/iam? [iam'] die, diurno, pia -->
 
 <!--v-->
 

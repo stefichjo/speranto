@@ -68,12 +68,6 @@ Kiam **i** aŭ **u** estas akcentataj en antaŭlasta pozicio, ili portas makrono
 
 #### Latinida ĭ
 
-**rĭ** en ***Latinidaj*** vortoj prononciĝas *[j]*.
-
-| | |
-|-|-|
-| *propra* | **proprĭa** *[propja]* |
-
 La prononco de **lĭ** *[ḷ]* (= *[ʎ]*) kaj **nĭ** *[ṇ]* (= *[ɲ]*) en ***Latinidaj*** vortoj povas varii inter *[lj]* kaj *[jl]* respektive inter *[nj]* kaj *[jn]*.
 
 | | |
@@ -191,7 +185,7 @@ Analogie, **ĭ** ne asimiliĝas, sed **di** *[ĵ]* prononciĝas *[di]*.
 |-|-|-|
 | *bani* | **banĭi** *[baṇi]* | *[bani]* |
 | *filo* | **filĭo** *[fiḷo]* | *[filo]* |
-| *propra* | **proprĭa** *[propja]* | *[propra]* |
+| *propra* | **proprĭa** *[proprja]* | *[propra]* |
 | | | |
 | *hodiaŭ* | **hodĭõ** *[hoĵaŭ]* | *[hodiaŭ]* |
 
