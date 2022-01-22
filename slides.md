@@ -579,7 +579,7 @@ Note:
 | | | |
 |-|-|-|
 | 🅴 | **spatie**                  | [spaŧje]   |
-| 🅾 | **spatio** = **spaçio**     | [spasjo]   |
+| 🅾 | **spatio** = **spaço**      | [spaso]    |
 | | | |
 | 🅴 | **villatĭc̄e**               | [villađje] |
 | 🅾 | **villatĭco** = **villâjo** | [vilaĵo]   |
@@ -593,7 +593,7 @@ Note:
 | | | | | | |
 |-|-|-|-|-|-|
 | 🅴 | **cadentie** | [kadenŧje] | | | |
-| 🅾 | **cadentio** | [kadensjo] | | **çhanço** | [ŝanso] |
+| 🅾 | **cadenço**  | [kadenso]  | | **çhânço** | [ŝanso] |
 
 <!--v-->
 
@@ -721,6 +721,14 @@ Note:
 
 ## Speranto
 <!-- TODO ligno, signo, regno, magno, pugno, cygno ? -->
+<!-- 
+gn nj n.: pugno [ŋn]
+
+siŋno
+sinjo
+siṅo
+-->
+
 ### i: j
 
 | | | | | | |
@@ -733,6 +741,8 @@ Note:
 
 Note:
 * Tra bruo, 🅴/🅾 **jam** prononciĝas [jam].
+
+<!-- TODO ĉu ĭam/iam? [iam'] die, diurno, pia -->
 
 <!--v-->
 
@@ -836,10 +846,23 @@ Note:
 
 <!--v-->
 
-<!-- TODO i: si ?
-basio [basi-o], basie [basje], baso [baso] (→ basio [basjo])
-camisia [kamisi-a], camisie [kamisje], camiso [kamiso] (→ camisio [kamisjo])
- -->
+## Speranto
+
+### i: si
+
+| | | |
+|-|-|-|
+| 🅰 | **camisia** | [kamisi-a]   |
+| 🅴 | **camisie** | [kamizje]    |
+| 🅾 | **camiso**  | [kamizo]     |
+| | | |
+| |                | **[ĉemizo]** |
+
+Note:
+* Tra bruo, 🅾 **camiso** = **camisio** prononciĝas [kamiĵo].
+* 🅰 **occasione**, 🅴 **occasie**, 🅾 **occasīo** [okazio] - *okazo*
+
+<!--v-->
 
 ## Speranto
 
@@ -908,29 +931,13 @@ Note:
 
 ### b → v
 
-| | | |
-|-|-|-|
-| 🅰 | **scribe**  | [skribe]      |
-| 🅴 | **scrivan** | [skrivan]     |
-| 🅾 | **scrivas** | [skrivas]     |
-| | | |
-| |                | **[skribas]** |
-
-<!--v-->
-
-## Speranto
-
-### p → b → v
-
-| | | |
-|-|-|-|
-| 🅰 | **paupĕra**  | [paup-er-a] |
-| 🅴 | **póbra**    | [pobra]     |
-| 🅾 | **póvra**    | [povra]     |
-| | | |
-| |                | **[povra]** |
-
-<!-- TODO elizio de ĕr ? -->
+| | | | | | |
+|-|-|-|-|-|-|
+| 🅰 | **scribe**  | [skribe]      | | **libro** | [libro]     |
+| 🅴 | **scrivan** | [skrivan]     | | **libre** | [libre]     |
+| 🅾 | **scrivas** | [skrivas]     | | **livro** | [livro]     |
+| | | | | | |
+| |                | **[skribas]** | |           | **[libro]**
 
 <!--v-->
 
@@ -948,7 +955,7 @@ Note:
 
 Note:
 * **obĵêti** - *obĵeti*, **pîtoresca** - *pitoreska*
-* Internaciismo: 🅰 **auctore**, 🅴 **autór** <!-- TODO actrice -->
+* Internaciismo: 🅰 **auctore**, 🅴 **autór**
 
 <!--v-->
 
@@ -1054,11 +1061,10 @@ Note:
 
 Note:
 * 🅰 **camĕrato**, 🅴 **camĕrade**, 🅾 **camĕré** - *kamarado*
+* 🅰 **paupĕra**, 🅴 **paupĕra**, 🅾 **pópĕra** - *povra*
 
-<!-- * 🅰 **mobĭle**, 🅴 **móvĭl** - *meblo* -->
-<!-- stábla stávla -->
-<!-- TODO centesĭma → centésma -->
-<!-- * **met-ipsĭma** → **mêdipsĭma** → **mêdîssĭma** → **mêsma** → **mêma** -->
+<!-- TODO p → b → v -->
+<!-- TODO * **met-ipsĭma** → **mêdipsĭma** → **mêdîssĭma** → **mêsma** → **mêma** -->
 
 <!--v-->
 
@@ -1529,7 +1535,8 @@ Note:
 | *facilaj*  | **facĭles**     | → | **fácĭłs** [fasiŭs]          |
 
 Note:
-* **mobĭle**, **móvil**, **móvĭł**
+* 🅰 **mobĭle**, 🅴 **móvĭl**, 🅾 **móvĭł** [moviŭ]
+* 🅰 **stabĭle**, 🅴 **stáble**, 🅾 **stávĭł** [staviŭ]
 
 <!--v-->
 
@@ -1573,9 +1580,9 @@ Note:
 
 ## Esperanto*
 
-[Se eĉ supozeramus la finan lingvon di l'<br> estontaj generacioj ne Esperanto, in ĉia<br> okazo la vojo ad tiu ellaborota lingvo<br> nepre devat konduki tra Esperanto.]
+[Se eĉ supozeremus la finan lingvon di l'<br> estontaj generacioj ne Esperanto, in ĉia<br> okazo la vojo ad tiu ellaborota lingvo<br> nepre deve konduse' tra Esperanto.]
 
-> Sï eĉ supposeramus la finan linguon<br> di l' s̈tontai gŭeneratīoi<br> ne S̈peranto, in ĉia occaso<br> la vĩo ad tiu ellaborota linguo<br> nepre devat conduqŭi<br> tra S̈peranto.
+> Sï eĉ supposerémus la finan linguon<br> di l' s̈tontai gŭeneratīoi<br> ne S̈peranto, in ĉia occaso<br> la vĩo ad tiu ellaborota linguo<br> nepre deve conducé<br> tra S̈peranto.
 
 <!--v-->
 
@@ -1597,57 +1604,59 @@ Note:
 
 ## Speranto*
 
-[Se eĉ supozeramus la finan lingvon dil<br> esontaj generacioj ne Speranto, in ĉia<br> okazo la vio ad tiu ellaborota lingvo<br> nepre devat konduki tra Speranto.]
+[Se eĉ supozeremus la finan lingvon dil<br> esontaj generacioj ne Speranto, in ĉia<br> okazo la vio ad tiu ellaborota lingvo<br> nepre deve konduse' tra Speranto.]
 
-> Sï eĉ supposeramus la finan linguon<br> díl essontai gŭeneratīoi<br> ne Speranto, in ĉia occaso<br> la vio ad tiu ellaborota linguo<br> nepre devat conduqŭi<br> tra Speranto.
+> Sï eĉ supposerémus la finan linguon<br> díl essontai gŭeneratīoi<br> ne Speranto, in ĉia occaso<br> la vio ad tiu ellaborota linguo<br> nepre deve conducé<br> tra Speranto.
 
 <!--v-->
 
 ## Linguo*
 
-[Se eĉ supozeramus la lingŭon finan dil<br> ĵenerasioj esontaj ne Speranto, in ĉia<br> okazjo la vio ad tiu lingŭo ellavorota<br> infalivle devat konduki tra Speranto.]
+[Se eĉ supozeremus la lingŭon finan dil<br> ĵenerasioj esontaj ne Speranto, in ĉia<br> okazio la vio ad tiu lingŭo ellavorota<br> infaliviŭmente deve konduse' tra Speranto.]
 
-> Sï eĉ supposeramus la linguon finan<br> dil generatīoi essontai<br> ne Speranto, in ĉia occasio<br> la vio ad tiu linguo ellavorota<br> infallivle devat conduqŭi<br> tra Speranto.
+> Sï eĉ supposerémus la linguon finan<br> dil generatīoi essontai<br> ne Speranto, in ĉia occasīo<br> la vio ad tiu linguo ellavorota<br> infallívĭłmente deve conducé<br> tra Speranto.
+
+<!-- TODO i -> s -->
 
 <!--v-->
 
 ## Linguo
 
-[Se nu eĉ supozos, ke la lingŭo fina de la<br> ĵenerasioj esontaj esas ne Speranto, en ĉia<br> okazjo la vio al tiu lingvo ellavorota<br> infalivle devas konduki tra Speranto.]
+[Se nu eĉ supozos, ke la lingŭo fina de la<br> ĵenerasioj esontaj esas ne Speranto, en ĉia<br> okazio la vio al tiu lingvo ellavorota<br> infaliviŭ-e devas konduki tra Speranto.]
 
-> Sï nu eĉ supposos, qŭe la linguo fina<br> de la generatīoi essontai<br> essas ne Speranto, en ĉia occasio<br> la vio al tiu linguo ellavorota<br> infallivle devas conduqŭi<br> tra Speranto.
+> Sï nu eĉ supposos, qŭe la linguo fina<br> de la generatīoi essontai<br> essas ne Speranto, en ĉia occasīo<br> la vio al tiu linguo ellavorota<br> infallívĭłe devas conduqŭi<br> tra Speranto.
 
 <!--v-->
 
 ## Lingue
 
-[Se ni eĉ supponon, ke la lingŭe fina de las<br> đeneraŧjes essontas essan non Sperante, en omna<br> okkazje la vie al ti lingŭe ellavorota<br> infallivlo devan konduku tra Sperante.]
+[Se ni eĉ supponon, ke la lingŭe fina de las<br> đeneraŧjes essontas essan non Sperante, en omna<br> okkazje la vie al ti lingŭe ellavorota<br> infallivil-o devan konduku tra Sperante.]
 
-> Sï ni et supponon, c̄e la lingue fina<br> de las generaties essontas<br> essan nón Sperante, en omna occasie<br> la vie al ti lingue ellavorota<br> infallivlo devan conducu<br> tra Sperante.
+> Sï ni et supponon, c̄e la lingue fina<br> de las generaties essontas<br> essan nón Sperante, en omna occasie<br> la vie al ti lingue ellavorota<br> infallívĭlo devan conducu<br> tra Sperante.
 
 <!--v-->
 
 ## Lingue*
 
-[Si et supponeremus la lingŭa final' di las<br> đeneraŧjones essontas non Sperante, in omna<br> okkazjon' la via ad illa lingŭa ellavorota<br> infallibilmente devat konduker' tra Sperante.]
+[Si et supponeremus la lingŭa final' di las<br> đeneraŧjones essontas non Sperante, in omna<br> okkazjon' la via ad illa lingŭa ellavorota<br> infallibilmente deve konduŧer' tra Sperante.]
 
-> Si et supponeremus la lingua finál<br> di las generationes essontas<br> nón Sperante, in omna occasión<br> la via ad illa lingua ellavorota<br> infallíbilmente devat conduqŭér<br> tra Sperante.
+> Si et supponerémus la lingua finál<br> di las generationes essontas<br> nón Sperante, in omna occasión<br> la via ad illa lingua ellavorota<br> infallíbĭlmente deve conducér<br> tra Sperante.
 
 <!--v-->
 
 ## Lingua*
 
-[Si et suponeremus la lingu-a final' de las<br> generationes futuras esser-e non Sperante, in omni-a okkasione la via ad illa lingu-a elaboranda<br> infallibilmente debet konduker-e per Sperante.]
+[Si et supponeremus la lingu-a final' de las<br> generationes futuras esser-e non Sperante, in omni-a okkasione la via ad illa lingu-a elaboranda<br> infallibilmente debet konduker-e per Sperante.]
 
-> Si et supponerémus la lingua<br> finál de las generationes futuras<br> essĕre nón Sperante, in omnia occasione<br> la via ad illa lingua elaboranda<br> infallibilmente debet conducĕre <br>per Sperante.
+> Si et supponerémus la lingua<br> finál de las generationes futuras<br> essĕre nón Sperante, in omnia occasione<br> la via ad illa lingua elaboranda<br> infallíbĭlmente debet conducĕre <br>per Sperante.
 
 <!--v-->
 
 ## Lingua
 
-[Si nos et supponera', ke la lingu-a finale de las<br> generationes futuras essi-a non Sperante, in omni-a<br> okkasione la via ad illa lingu-a elaboranda<br> infallibilemente debe konduker-e per Sperante.]
+[Si nos et supponera', ke la lingu-a finale de las<br> generationes futuras essi-a non Sperante, in omni-a<br> okkasione la via ad illa lingu-a elaboranda<br> infallibilemente debe konduke' per Sperante.]
 
-> Si nos et supponĕrá, ce la lingua<br> finale de las generationes futuras<br> essia nón Sperante, in omnia occasione<br> la via ad illa lingua elaboranda<br> infallibilemente debe conducĕre<br> per Sperante.
+> Si nos et supponĕrá, ce la lingua<br> finale de las generationes futuras<br> essia nón Sperante, in omnia occasione<br> la via ad illa lingua elaboranda<br> infallibĭlemente debe conducé<br> per Sperante.
 
 <!--v-->
 
@@ -1676,12 +1685,6 @@ Note:
 * aliaj Lingvoj
 
 <!-- TODO
-gn nj n.: pugno [ŋn]
-
-siŋno
-sinjo
-siṅo
-
 eccu-ille = id, hic ? (id-ius? hic-ius?)
 eccu-ille = nunc, ad-hora ?
 
@@ -1732,5 +1735,6 @@ legĕre legĭta/lecta
 
 scribé scribeta
 scribĕre scribĭta/scripta
- -->
+
+-->
 
