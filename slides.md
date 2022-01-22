@@ -738,6 +738,75 @@ Note:
 
 ## Speranto
 
+### i: bi
+
+| | | |
+|-|-|-|
+| 🅰 | **rubea** | [rube-a]   |
+| 🅴 | **rubia** | [ĥubja]    |
+| 🅾 | **ruja**  | [ĥuĵa]     |
+| | | |
+| |              | **[ruĝa]** |
+
+Note:
+* 🅾 **ruja** = **ruvia**
+<!-- TODO Ĉu ekzistas "skribo tra bruo"? -->
+
+<!--v-->
+
+## Speranto
+
+### i: ci
+
+| | | |
+|-|-|-|
+| 🅰 | **terracĕa** | [terrake-a]    |
+| 🅴 | **terracie** | [teĥĥaŧje]   |
+| 🅾 | **terraço**  | [teĥaso]     |
+| | | |
+| |                 | **[bano]**   |
+
+Note:
+* Tra bruo, 🅴 **terracie** prononciĝas [teĥĥaĉje], kaj 🅾 **terraço** = **terracio** prononciĝas [teĥasjo].
+
+<!--v-->
+
+## Speranto
+
+### i: di
+
+| | | |
+|-|-|-|
+| 🅰 | **sedio** | [sedi-o]   |
+| 🅴 | **sedie** | [seđje]    |
+| 🅾 | **sejo**  | [seĵo]     |
+| | | |
+| |              | **[seĝo]** |
+
+Note:
+* 🅾 **sejo** = **sedio**
+
+<!--v-->
+
+## Speranto
+
+### i: gi
+
+| | | |
+|-|-|-|
+| 🅰 | **plagia** | [plagi-a]   |
+| 🅴 | **plagie** | [plađje]    |
+| 🅾 | **plajo**  | [plaĵo]     |
+| | | |
+| |               | **[plaĝo]** |
+
+Note:
+* Tra bruo, 🅴 **plagie** prononciĝas [plaĝje], kaj 🅾 **plajo** = **pagio** prononiĝas [pladzo].
+
+<!--v-->
+
+## Speranto
+
 ### i: li
 
 | | | | | | |
@@ -768,30 +837,13 @@ Note:
 
 ## Speranto
 
-### i: ci
-
-| | | |
-|-|-|-|
-| 🅰 | **terracĕa** | [balne-o]    |
-| 🅴 | **terracie** | [teĥĥaŧje]   |
-| 🅾 | **terraço**  | [teĥaso]     |
-| | | |
-| |                 | **[bano]**   |
-
-Note:
-* Tra bruo, 🅾 **terraço** = **terracio** prononciĝas [teĥasjo].
-
-<!--v-->
-
-## Speranto
-
 ### i: ti
 
 | | | | | | |
 |-|-|-|-|-|-|
 | 🅰 | **natione** | [natione]   | | **spatio** | [spati-o]   |
 | 🅴 | **natie**   | [naŧje]     | | **spatie** | [spaŧje]    |
-| 🅾 | **natīo**   | [nasio]     | | **spatio** | [spaso]     |
+| 🅾 | **natīo**   | [nasio]     | | **spaço**  | [spaso]     |
 | | | | | | |
 | |                | **[nacio]** | |            | **[spaco]** |
 
@@ -803,15 +855,18 @@ Note:
 
 ## Speranto
 
-### i: di
+### i: vi
 
 | | | |
 |-|-|-|
-| 🅰 | **sedio** | [sedi-o]   |
-| 🅴 | **sedie** | [seđje]    |
-| 🅾 | **sedio** | [seĵo]     |
+| 🅰 | **cavea** | [kave-a]   |
+| 🅴 | **cavie** | [kavje]    |
+| 🅾 | **cajo**  | [kaĵo]     |
 | | | |
-| |              | **[seĝo]** |
+| |              | **[kaĝo]** |
+
+Note:
+* 🅾 **cajo** = **cavio**
 
 <!--v-->
 
@@ -827,7 +882,7 @@ Note:
 | | | | | | |
 | |                 | **[ĉirkaŭ]** | |           | **[hodiaŭ]** |
 
-<!-- ĉu 🅾 dĭ aŭ di ? -->
+<!-- TODO ĉu 🅾 dĭ aŭ di ? -->
 
 <!--v-->
 
@@ -870,6 +925,8 @@ Note:
 | 🅾 | **póvra**    | [povra]     |
 | | | |
 | |                | **[povra]** |
+
+<!-- TODO elizio de ĕr ? -->
 
 <!--v-->
 
