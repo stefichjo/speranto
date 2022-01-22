@@ -836,6 +836,11 @@ Note:
 
 <!--v-->
 
+<!-- TODO i: si ?
+basio [basi-o], basie [basje], baso [baso] (→ basio [basjo])
+camisia [kamisi-a], camisie [kamisje], camiso [kamiso] (→ camisio [kamisjo])
+ -->
+
 ## Speranto
 
 ### i: ti
@@ -1546,6 +1551,7 @@ Note:
 |-|-|-|-|
 | *ami*     | **amár**   | → | **amé**  |
 | *amata*   | **amada**  | → | **amé**  |
+| *amataj*  | **amadas** | → | **amés** |
 
 <!--v-->
 
@@ -1669,7 +1675,7 @@ Note:
 * pli da klarigoj pri la prononco
 * aliaj Lingvoj
 
-<!--
+<!-- TODO
 gn nj n.: pugno [ŋn]
 
 siŋno
@@ -1692,6 +1698,9 @@ clamant
 es clamata
 (veni clamĭta)
 
+legé
+legeta legĭta lecta
+
 -phŏno: telephŏno (-telefno?)
 
 (kambiare kambjár kânĵá)
@@ -1699,3 +1708,29 @@ psalmo psalmo salmo
 
 charactĕre
 -->
+
+<!-- TODO
+
+kiŭilidzare
+kivilidzar'
+kiviliza' [dz]
+
+ch ph th
+y
+x
+
+zona
+z- [ts] → [dz] → [z]
+-iz-
+
+-->
+
+<!-- 
+
+legé legeta
+legĕre legĭta/lecta
+
+scribé scribeta
+scribĕre scribĭta/scripta
+ -->
+
