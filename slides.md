@@ -720,14 +720,20 @@ Note:
 <!--v-->
 
 ## Speranto
-<!-- TODO ligno, signo, regno, magno, pugno, cygno ? -->
-<!-- 
-gn nj n.: pugno [ŋn]
 
-siŋno
-sinjo
-siṅo
--->
+### gn
+
+| | | |
+|-|-|-|
+| 🅰 | **regno** | [reŋno]     |
+| 🅴 | **regne** | [renje]     |
+| 🅾 | **regno** | [reṅo]      |
+| | | |
+| |              | **[regno]** |
+
+<!--v-->
+
+## Speranto
 
 ### i: j
 
@@ -760,7 +766,6 @@ Note:
 
 Note:
 * 🅾 **ruja** = **ruvia**
-<!-- TODO Ĉu ekzistas "skribo tra bruo"? -->
 
 <!--v-->
 
@@ -1688,31 +1693,12 @@ Note:
 eccu-ille = id, hic ? (id-ius? hic-ius?)
 eccu-ille = nunc, ad-hora ?
 
--r
--ris
--tur
--mur
--mĭni
--ntur
-
-clamatur
-se clamat
-clamant
-es clamata
-(veni clamĭta)
-
-legé
-legeta legĭta lecta
-
 -phŏno: telephŏno (-telefno?)
 
 (kambiare kambjár kânĵá)
 psalmo psalmo salmo
 
 charactĕre
--->
-
-<!-- TODO
 
 kiŭilidzare
 kivilidzar'
@@ -1725,16 +1711,5 @@ x
 zona
 z- [ts] → [dz] → [z]
 -iz-
-
--->
-
-<!-- 
-
-legé legeta
-legĕre legĭta/lecta
-
-scribé scribeta
-scribĕre scribĭta/scripta
-
 -->
 

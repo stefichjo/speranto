@@ -253,7 +253,7 @@ La gerundio finiĝas je -ndo kaj kondutas kiel la participo.
 
 ### Infinitivo
 
-La infinitivo estas egala al la subjunktiva preterito sen konjugacia finaĵo. Pere de la verbo **i** kaj infinitivo, oni povas esprimi venontecan aspekton.
+La infinitivo estas egala al la subjunktiva preterito sen konjugacia finaĵo. Pere de la verbo **i** kaj infinitivo, oni povas esprimi venontecan aspekton. <!-- TODO klarigi "legé" -->
 
 | | | | | |
 |-|-|-|-|-|
@@ -377,6 +377,26 @@ Kiam la radikofina vokalo eliziiĝas antaŭ la participa finaĵo -ta, la partici
 | *estas legita* | | sta lecta  |
 | *estas legata* | | veni lecta |
 | *estas legota* | | vá lecta   |
+
+<!-- TODO
+-r
+-ris
+-tur
+-mur
+-mĭni
+-ntur
+
+clamatur
+se clamat
+clamant
+es clamata
+(veni clamĭta)
+
+legé
+legeta legĭta lecta
+
+
+-->
 
 ## Pronomoj
 
