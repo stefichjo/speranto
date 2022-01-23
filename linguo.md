@@ -68,22 +68,12 @@ Kiam **i** aŭ **u** estas akcentataj en antaŭlasta pozicio, ili portas makrono
 
 #### Latinida ĭ
 
-La prononco de **lĭ** *[ḷ]* (= *[ʎ]*) kaj **nĭ** *[ṇ]* (= *[ɲ]*) en ***Latinidaj*** vortoj povas varii inter *[lj]* kaj *[jl]* respektive inter *[nj]* kaj *[jn]*.
+La prononco de **li** *[ḷ]* (= *[ʎ]*) kaj **ni** *[ṇ]* (= *[ɲ]*) en ***Latinidaj*** vortoj povas varii inter *[lj]* kaj *[jl]* respektive inter *[nj]* kaj *[jn]*.
 
 | | |
 |-|-|
-| *bani* | **banĭi** *[bajni]* ⟷ *[baṇi]* ⟷ *[banji]* |
-| *filo* | **filĭo** *[fijlo]* ⟷ *[fiḷo]* ⟷ *[filjo]* |
-
-Voĉaj konsonantoj kun **ĭ** en ***Latinidaj*** vortoj prononciĝas *[ĵ]*.
-
-| | |
-|-|-|
-| *kaĝo*  | **cavĭo** *[kaĵo]*   |
-| *neĝo*  | **nïvĭo** *[neĵo]*   |
-| *plaĝo* | **plagĭo** *[plaĵo]* |
-| *ruĝa*  | **ruvĭa** *[ruĵa]*   |
-| *seĝo*  | **sedĭo** *[seĵo]*   |
+| *bani* | **bânii** *[bajni]* ⟷ *[baṇi]* ⟷ *[banji]* |
+| *filo* | **filio** *[fijlo]* ⟷ *[fiḷo]* ⟷ *[filjo]* |
 
 ### ł, sc
 
