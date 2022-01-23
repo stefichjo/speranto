@@ -104,16 +104,14 @@
 -raj via
 -chaj ilia
 
+baţ
+bał batļ
+batlh
+
 -->
 
 
 ## Orthography
-
-| | `qajunpaQHeylIjmo' batlh DuSuvqang charghwI' 'It.` |
-|-|-|
-| [Markup](#markup):                 | `qajunpaQ.Hey.lIj.mo', batlh, Du:Suv.qang chargh.wI'='It.` |
-| [Cursive](#cursive):               | *qajunpaqhheylijmó, batlh, dusuvqang charghwí ìt.*         |
-| [Cursive Markup](#cursive-markup): | ***qajunpaq̂.hey.lij.mó, batł, du:suv.qang ĉarĝ.wí=ìt.***  |
 
 ### Markup
 
@@ -165,9 +163,27 @@
 
 ### Cursive Markup
 
-In order not to read `nenghep` (*Age of Ascension*) as *`nengHep`, it can be written ***nenĝep*** instead of *nenghep*. In order not to read `qaQaH` (*I help you*) as *`qaqHaH`, it can be written ***qaq̂ah*** instead of *qaqhah*.
+In order not to read `nenghep` (*Age of Ascension*) as *`nengHep`, it can be written ***nenĝep*** (≠ ***neŋhep***) instead of *nenghep*. In order not to read `qaQaH` (*I help you*) as *`qaqHaH`, it can be written ***qa:q̂ah*** (≠ ***qa:qhah***) instead of *qaqhah*.
 
 | | | | |
 |-|-|-|-|
-| *Age of Ascension* | `nenghep` | *nenghep* | ***nenĝep***  |
-| *I help you.*      | `qaQaH.`  | *qaqhah.* | ***qaq̂ah.*** |
+| *Age of Ascension* | `nenghep` | *nenghep* | ***nenĝep***   |
+| *I help you.*      | `qaQaH.`  | *qaqhah.* | ***qa:q̂ah.*** |
+
+#### Examples
+
+| `qajunpaQHeylIjmo' batlh DuSuvqang charghwI' 'It.`         |
+|-|
+| ***qajunpaq̂.hey.lij.mó, bał, du:suv.qaŋ ĉarĝ.wí=ìt.***  |
+
+| `ghoqipQo'!` |
+|-|
+| ***ĝo:qip.q̂ó!*** |
+
+| `batlhHa' pevangQo'!` |
+|-|
+| ***bał.há, pe:vaŋ.q̂ó!*** |
+
+| `batlhHa' Suv SuvwI'vetlh.` |
+|-|
+| ***bał.há, :suv suv.wí.veł.*** |
