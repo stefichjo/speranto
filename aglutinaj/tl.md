@@ -4,23 +4,34 @@
 
 | | | | | |
 |:-:|:-:|:-:|:-:|:-:|
-| *mi / ni*       | *ci / vi*         | *li / ili*        |
+| *mi / ni*         | *ci / vi*           | *li / ili*          |
 | | | | | |
-| `jI / ma`       | `bI / Su`         | `- / -`           | | |
+| `jI / ma`         | `bI / Su`           | `- / -`             | | |
 | | | | | |
-| `×`             | `cho ju / tu che` | `mu nu / mu nu`   | | *min / nin*  |
-| `qa Sa / pI re` | `×`               | `Du lI / nI lI`   | | *cin / vin*  |
-| `vI vI / wI DI` | `Da Da / bo bo`   | `- - / lu -`      | | *lin / ilin* |
+| `×`               | `cho, ju / tu, che` | `mu, nu / mu, nu`   | | *min, nin*  |
+| `qa, Sa / pI, re` | `×`                 | `Du, lI / nI, lI`   | | *cin, vin*  |
+| `vI, vI / wI, DI` | `Da, Da / bo, bo`   | `-, - / lu, -`      | | *lin, ilin* |
 
 Kiam la subjekto aŭ objekto estas *(i)li(n)*, ofte ne gravas ties nombro:
-* ***`mu / mu`*** — (i)li min
-* ***`nu / nu`*** — (i)li nin
-* `Du / nI` — (i)li cin
-* ***`lI / lI`*** — (i)li vin
-* ***`vI vI`*** — mi (i)lin
-* `wI DI` — ni (i)lin
-* ***`Da Da`*** — ci (i)lin
-* ***`bo bo`*** — vi (i)lin
+
+| | | | | |
+|-|-|-|-|-|
+| *mi (i)lin* | ***`vI`*** | | *(i)li min* | ***`mu`*** |
+| *ci (i)lin* | ***`Da`*** | | *(i)li cin* | `Du (nI)`  |
+| *ni (i)lin* | `wI (DI)`  | | *(i)li nin* | ***`nu`*** |
+| *vi (i)lin* | ***`bo`*** | | *(i)li vin* | ***`lI`*** |
+
+| | |
+|-|-|
+| *li (i)lin*  | ***`-`*** |
+| *ili (i)lin* | `lu (-)`  |
+
+Alikaze, la nombro ĉiam distingiĝas.
+
+| | | | | |
+|-|-|-|-|-|
+| *mi cin, vin* | `qa, Sa` | | *ci min, nin* | `cho, ju` |
+| *ni cin, vin* | `pI, re` | | *vi min, nin* | `tu, che` |
 
 ### *mi / ni — cin / vin*
 
