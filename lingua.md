@@ -127,19 +127,19 @@ La grek-devenaj ŝajnfinaĵoj **-i**, **-ía**, **-a**, **-e** havas signifojn s
 
 | | | | |
 |-|-|-|-|
-| *ni vidas* | | nos vide | *videmus* |
-| *ni aŭdas* | | nos audi | *audimus* |
-| *ni legas* | | nos legĕ | *legĕmus* |
-| *ni faras* | | nos facĕ | *facĕmus* |
-| *ni amas*  | | nos ama  | *amamus*  |
+| *ni vidas*  | | nos vide | *videmus* |
+| *ni aŭdas*  | | nos audi | *audimus* |
+| *ni legas*  | | nos lege | *legĕmus* |
+| *ni kaptas* | | nos cape | *capĕmus* |
+| *ni amas*   | | nos ama  | *amamus*  |
 
 Antaŭ konjugacia finaĵo, la mi-formo similas al la konjunktiva prezenco kun la finaĵo *-o* anstataŭ **-a**. <!-- -å, -åm ? -->
 
 | | | | |
 |-|-|-|-|
-| *mi vidas* | | me vide | *video* |
-| *mi aŭdas* | | me audi | *audio* |
-| *mi faras* | | me facĕ | *facio* |
+| *mi vidas*  | | me vide | *video* |
+| *mi aŭdas*  | | me audi | *audio* |
+| *mi kaptas* | | me cape | *capio* |
 
 La ili-formo de i-verboj havas ie anstataŭ i.
 
@@ -154,9 +154,9 @@ La ili-formo de i-verboj havas ie anstataŭ i.
 |-|-|-|-|
 | *(ke) ni vidas*  | | nos videa | *videamus* |
 | *(ke) ni aŭdas*  | | nos audia | *audiamus* |
-| *(ke) ni legas*  | | nos lega  | *legamus*  |
-| *(ke) ni faras*  | | nos facia | *faciamus* |
-| *(ke) ni amas*   | | nos ame   | *amemus*   |
+| *(ke) ni legas*  | | nos legea | *legamus*  |
+| *(ke) ni kaptas* | | nos capea | *capiamus* |
+| *(ke) ni amas*   | | nos amaa  | *amemus*   |
 
 ### Preterito
 
@@ -168,7 +168,7 @@ La ili-formo de i-verboj havas ie anstataŭ i.
 | *ni vidis*  | | nos videba | *videbamus* |
 | *ni aŭdis*  | | nos audiba | *audibamus* |
 | *ni legis*  | | nos legeba | *legebamus* |
-| *ni faris*  | | nos faceba | *facebamus* |
+| *ni kaptis* | | nos capeba | *capebamus* |
 | *ni amis*   | | nos amaba  | *amabamus*  |
 
 **Konjunktivo:**
@@ -176,11 +176,11 @@ La ili-formo de i-verboj havas ie anstataŭ i.
 
 | | | | |
 |-|-|-|-|
-| *(ke) ni vidis*  | | nos videre | *videremus* |
-| *(ke) ni aŭdis*  | | nos audire | *audiremus* |
-| *(ke) ni legis*  | | nos legĕre | *legĕremus* |
-| *(ke) ni faris*  | | nos facĕre | *facĕremus* |
-| *(ke) ni amis*   | | nos amare  | *amaremus*  |
+| *(ke) ni vidis*  | | nos vidé | *videremus* |
+| *(ke) ni aŭdis*  | | nos audí | *audiremus* |
+| *(ke) ni legis*  | | nos legé | *legĕremus* |
+| *(ke) ni kaptis* | | nos capé | *capĕremus* |
+| *(ke) ni amis*   | | nos amá  | *amaremus*  |
 
 ### Futuro
 
@@ -191,8 +191,8 @@ La indikativa futuro estas la infinitivo kun -á, t.e. la indikativa prezenco de
 |-|-|-|-|-|-|-|
 | *ni vidos*  | | **nos viderabe** | nos viderá | *viderémus* | | ***viderabemus*** |
 | *ni aŭdos*  | | **nos audirabe** | nos audirá | *audirémus* | | ***audirabemus*** |
-| *ni legos*  | | **nos legĕrabe** | nos legĕrá | *legĕrémus* | | ***legĕrabemus*** |
-| *ni faros*  | | **nos facĕrabe** | nos facĕrá | *facĕrémus* | | ***facĕrabemus*** |
+| *ni legos*  | | **nos legerabe** | nos legerá | *legĕrémus* | | ***legĕrabemus*** |
+| *ni kaptos* | | **nos caperabe** | nos caperá | *capĕrémus* | | ***capĕrabemus*** |
 | *ni amos*   | | **nos amarabe**  | nos amará  | *amarémus*  | | ***amarabemus***  |
 
 **Konjunktivo:**
@@ -202,8 +202,8 @@ La konjunktiva futuro estas la infinitivo kun -ía, t.e. la indikativa preterito
 |-|-|-|-|-|-|-|
 | *ni vidus*  | | **nos videriba** | nos videría | *videríamus* | | ***videribamus*** |
 | *ni aŭdus*  | | **nos audiriba** | nos audiría | *audiríamus* | | ***audiribamus*** |
-| *ni legus*  | | **nos legĕriba** | nos legĕría | *legĕríamus* | | ***legĕribamus*** |
-| *ni farus*  | | **nos facĕriba** | nos facĕría | *facĕríamus* | | ***facĕribamus*** |
+| *ni legus*  | | **nos legeriba** | nos legería | *legĕríamus* | | ***legĕribamus*** |
+| *ni kaptus* | | **nos caperiba** | nos capería | *capĕríamus* | | ***capĕribamus*** |
 | *ni amus*   | | **nos amariba**  | nos amaría  | *amaríamus*  | | ***amaribamus***  |
 
 ### Imperativo
@@ -212,42 +212,47 @@ La imperativo egalas al la indikativa prezenco.
 
 | | | |
 |-|-|-|
-| *vidu*  | | vide |
-| *aŭdu*  | | audi |
-| *legu*  | | legĕ |
-| *faru*  | | facĕ |
-| *amu*   | | ama  |
+| *vidu*  | | vide(te) |
+| *aŭdu*  | | audi(te) |
+| *legu*  | | lege(te) |
+| *kaptu* | | cape(te) |
+| *amu*   | | ama(te)  |
 
 ### Participo kaj Gerundio
 
 La participo finiĝas je -nte. Ili kondutas kiel la ili-formo je -nt de la indikativa prezenco. ĕ-verboj kondutas kiel e-verboj, kaj ĭ-verboj kondutas kiel i-verboj.
 
-| | | |
-|-|-|-|
-| *vidanta*  | | vidente  |
-| *aŭdanta*  | | audiente |
-| *leganta*  | | legente  |
-| *faranta*  | | faciente |
-| *amanta*   | | amante   |
+| | | | |
+|-|-|-|-|
+| *vidanta*  | | vidente  | *vidente*  |
+| *aŭdanta*  | | audinte  | *audiente* |
+| *leganta*  | | legente  | *legente*  |
+| *kaptanta* | | capente  | *capiente* |
+| *amanta*   | | amante   | *amante*   |
 
 La gerundio finiĝas je -ndo kaj kondutas kiel la participo.
 
-| | | |
-|-|-|-|
-| *estas vidanta*  | | sta videndo  |
-| *estas aŭdanta*  | | sta audiendo |
-| *estas leganta*  | | sta legendo  |
-| *estas faranta*  | | sta faciendo |
-| *estas amanta*   | | sta amando   |
-
+| | | | |
+|-|-|-|-|
+| *mi estas vidanta*  | | me sta videndo | *sto videndo*  |
+| *mi estas aŭdanta*  | | me sta audindo | *sto audiendo* |
+| *mi estas leganta*  | | me sta legendo | *sto legendo*  |
+| *mi estas kaptanta* | | me sta capendo | *sto capiendo* |
+| *mi estas amanta*   | | me sta amando  | *sto amando*   |
 
 ### Infinitivo
 
-La infinitivo estas egala al la konjunktiva preterito sen konjugacia finaĵo. Pere de la verbo **i** kaj infinitivo, oni povas esprimi venontecan aspekton. <!-- TODO klarigi "legé" -->
+La infinitivo estas egala al la konjunktiva preterito sen konjugacia finaĵo.
+
+| | | | |
+|-|-|-|-|
+| *legi* | | legé | *legĕre* |
+
+Pere de la verbo **i** kaj infinitivo, oni povas esprimi venontecan aspekton.
 
 | | | | | |
 |-|-|-|-|-|
-| *mi estas legonta* | | **me vade legé** | me vá legĕre | *vó legĕre* |
+| *mi estas legonta* | | **me vade legé** | me vá legé | *vó legĕre* |
 
 ## Perfekto
 
@@ -295,7 +300,7 @@ Antaŭ konjunkcia finaĵo, *ev* malaperas.
 | | | | | | |
 |-|-|-|-|-|-|
 | *ni vidintas*  | | nos vidéu | *vidĭmus*  | | ***videvĭmus*** |
-| *ni farintas*  | | nos facéu | *facĭmus*  | | ***facevĭmus*** |
+| *ni kaptintas* | | nos capéu | *capĭmus*  | | ***capevĭmus*** |
 | *ni legintas*  | | nos legéu | *legĭmus*  | | ***legevĭmus*** |
 
 vi/ve malaperas.
@@ -309,11 +314,11 @@ vi/ve malaperas.
 
 | | | | | | |
 |-|-|-|-|-|-|
-| *mi amintas*  | | me amáu  |             *amái* | | ***amavii***  |
-| *mi aŭdintas* | | me audíu | ~~audíi~~ → *audí* | | ***audivii*** |
-| *mi vidintas* | | me vidéu | ~~vidii~~ → *vidi* | | ***videvii*** |
-| *mi farintas* | | me facéu | ~~facii~~ → *faci* | | ***facevii*** |
-| *mi legintas* | | me legéu | ~~legii~~ → *legi* | | ***legevii*** |
+| *mi amintas*   | | me amáu  |             *amái* | | ***amavii***  |
+| *mi aŭdintas*  | | me audíu | ~~audíi~~ → *audí* | | ***audivii*** |
+| *mi vidintas*  | | me vidéu | ~~vidii~~ → *vidi* | | ***videvii*** |
+| *mi kaptintas* | | me capéu | ~~capii~~ → *capi* | | ***capevii*** |
+| *mi legintas*  | | me legéu | ~~legii~~ → *legi* | | ***legevii*** |
 
 **Konjunktivo:**
 
@@ -322,8 +327,8 @@ vi/ve malaperas.
 | *(ke) ni amintas*   | | **nos amaverĭ**  | nos amárĭ  | *amárĭmus*  | | ***amaverĭmus***  |
 | *(ke) ni aŭdintas*  | | **nos audiverĭ** | nos audírĭ | *audírĭmus* | | ***audiverĭmus*** |
 | *(ke) ni vidintas*  | | **nos videverĭ** | nos vidérĭ | *vidérĭmus* | | ***videverĭmus*** |
-| *(ke) ni farintas*  | | **nos facĕverĭ** | nos facérĭ | *facérĭmus* | | ***facĕverĭmus*** |
-| *(ke) ni legintas*  | | **nos legĕverĭ** | nos legérĭ | *legérĭmus* | | ***legĕverĭmus*** |
+| *(ke) ni kaptintas* | | **nos capeverĭ** | nos capérĭ | *capérĭmus* | | ***capĕverĭmus*** |
+| *(ke) ni legintas*  | | **nos legeverĭ** | nos legérĭ | *legérĭmus* | | ***legĕverĭmus*** |
 
 ### Preterito
 
@@ -334,8 +339,8 @@ vi/ve malaperas.
 | *ni amintis*   | | **nos amavera**  | nos amára  | *amáramus*  | | ***amaveramus***  |
 | *ni aŭdintis*  | | **nos audivera** | nos audíra | *audíramus* | | ***audiveramus*** |
 | *ni vidintis*  | | **nos videvera** | nos vidéra | *vidéramus* | | ***videveramus*** |
-| *ni farintis*  | | **nos facĕvera** | nos facéra | *facéramus* | | ***facĕveramus*** |
-| *ni legintis*  | | **nos legĕvera** | nos legéra | *legéramus* | | ***legĕveramus*** |
+| *ni kaptintis* | | **nos capevera** | nos capéra | *capéramus* | | ***capĕveramus*** |
+| *ni legintis*  | | **nos legevera** | nos legéra | *legéramus* | | ***legĕveramus*** |
 
 **Konjunktivo:**
 
@@ -344,8 +349,8 @@ vi/ve malaperas.
 | *(ke) ni amintis*   | | **nos amavisse**  | nos amásse  | *amássemus*  | | ***amavissemus***  |
 | *(ke) ni aŭdintis*  | | **nos audivisse** | nos audísse | *audíssemus* | | ***audivissemus*** |
 | *(ke) ni vidintis*  | | **nos videvisse** | nos vidésse | *vidéssemus* | | ***videvissemus*** |
-| *(ke) ni farintis*  | | **nos facĕvisse** | nos facésse | *facéssemus* | | ***facĕvissemus*** |
-| *(ke) ni legintis*  | | **nos legĕvisse** | nos legésse | *legéssemus* | | ***legĕvissemus*** |
+| *(ke) ni kaptintis* | | **nos capevisse** | nos capésse | *capéssemus* | | ***capĕvissemus*** |
+| *(ke) ni legintis*  | | **nos legevisse** | nos legésse | *legéssemus* | | ***legĕvissemus*** |
 
 ### Participo
 
@@ -377,8 +382,6 @@ Kiam la radikofina vokalo eliziiĝas antaŭ la participa finaĵo -ta, la partici
 
 ## Pronomoj
 
-<!-- TODO (fá: fó fás fát fámus fátis fánt) -->
-
 <!-- 
 nos nossa
 vos vossa
@@ -404,24 +407,23 @@ alle olle ulle elle? -->
 
 ## essĕre
 
-En la prezenco, **essĕ** fariĝas es en la indikativo kaj sia en la konjunktivo. Antaŭ konjugacia finaĵo, es ŝanĝiĝas. (Tiuj formoj ne portas dekstrajn kornojn, malgraŭ la elizioj: ~~só~~ → *so* - ***essio***. En *somos* kaj *sont* estas anstataŭ *semus* kaj *sent*.)
+En la prezenco, **esse** fariĝas es en la indikativo kaj sia en la konjunktivo. Antaŭ konjugacia finaĵo, es ŝanĝiĝas. (Tiuj formoj ne portas dekstrajn kornojn, malgraŭ la elizioj: ~~só~~ → *so* - ***essio***. En *somos* kaj *sont* estas anstataŭ *semus* kaj *sent*.)
 
 | | | | | | | |
 |-|-|-|-|-|-|-|
-| *mi estas*       | | **me essĕ**   | me es   | *so*     | | ***essio***    |
-| *ci estas*       | | **te essĕ**   | te es   | *es*     | | ***essĕs***    |
-| *li estas*       | | **le essĕ**   | le es   | *est*    | | ***essĕt***    |
-| *ni estas*       | | **nos essĕ**  | nos es  | *somus*  | | ***essĕmus***  |
-| *vi estas*       | | **vos essĕ**  | vos es  | *estis*  | | ***essĕtis***  |
-| *ili estas*      | | **les essĕ**  | les es  | *sont*   | | ***essĕnt***   |
+| *mi estas*       | | **me esse**   | me es   | *so*     | | ***essio***    |
+| *ci estas*       | | **te esse**   | te es   | *es*     | | ***essĕs***    |
+| *li estas*       | | **le esse**   | le es   | *est*    | | ***essĕt***    |
+| *ni estas*       | | **nos esse**  | nos es  | *somus*  | | ***essĕmus***  |
+| *vi estas*       | | **vos esse**  | vos es  | *estis*  | | ***essĕtis***  |
+| *ili estas*      | | **les esse**  | les es  | *sont*   | | ***essĕnt***   |
 | | | | | | | |
-| *(ke) mi estas*  | | **me essia**  | me sia  | *siam*   | | ***essiam***   |
-| *(ke) ci estas*  | | **te essia**  | te sia  | *sias*   | | ***essias***   |
-| *(ke) li estas*  | | **le essia**  | le sia  | *siat*   | | ***essiat***   |
-| *(ke) ni estas*  | | **nos essia** | nos sia | *siamus* | | ***essiamus*** |
-| *(ke) vi estas*  | | **vos essia** | vos sia | *siatis* | | ***essiatis*** |
-| *(ke) ili estas* | | **les essia** | les sia | *siant*  | | ***essiant***  |
-<!-- TODO ĉu **esse** kaj **essea**, kaj lasi la fajnecon al ***essĕt*** kaj ***essiat***?-->
+| *(ke) mi estas*  | | **me essea**  | me sia  | *siam*   | | ***essiam***   |
+| *(ke) ci estas*  | | **te essea**  | te sia  | *sias*   | | ***essias***   |
+| *(ke) li estas*  | | **le essea**  | le sia  | *siat*   | | ***essiat***   |
+| *(ke) ni estas*  | | **nos essea** | nos sia | *siamus* | | ***essiamus*** |
+| *(ke) vi estas*  | | **vos essea** | vos sia | *siatis* | | ***essiatis*** |
+| *(ke) ili estas* | | **les essea** | les sia | *siant*  | | ***essiant***  |
 
 En la preterito, **esseba** fariĝas **era**. Antaŭ konjugacia finaĵo, **era** fariĝas **éra**.
 
@@ -434,23 +436,23 @@ En la preterito, **esseba** fariĝas **era**. Antaŭ konjugacia finaĵo, **era**
 | *vi estis*  | | **vos esseba** | vos era | *ératis* | | ***essebatis*** |
 | *ili estis* | | **les esseba** | les era | *érant*  | | ***essebant***  |
 
-En la futuro, **essĕrá**/**essĕría** fariĝas será/sería.
+En la futuro, **esserá**/**essería** fariĝas será/sería.
 
 | | | | | | | |
 |-|-|-|-|-|-|-|
-| *mi estos*  | | **me essĕrabe**  | me será   | ***seró***     | | ***essĕrabeo***   |
-| *ci estos*  | | **te essĕrabe**  | te será   | ***serás***    | | ***essĕrabes***   |
-| *li estos*  | | **le essĕrabe**  | le será   | ***serát***    | | ***essĕrabet***   |
-| *ni estos*  | | **nos essĕrabe** | nos será  | ***serámus***  | | ***essĕrabemus*** |
-| *vi estos*  | | **vos essĕrabe** | vos será  | ***serátis***  | | ***essĕrabetis*** |
-| *ili estos* | | **les essĕrabe** | les será  | ***seránt***   | | ***essĕrabent***  |
+| *mi estos*  | | **me esserabe**  | me será   | ***seró***     | | ***essĕrabeo***   |
+| *ci estos*  | | **te esserabe**  | te será   | ***serás***    | | ***essĕrabes***   |
+| *li estos*  | | **le esserabe**  | le será   | ***serát***    | | ***essĕrabet***   |
+| *ni estos*  | | **nos esserabe** | nos será  | ***serámus***  | | ***essĕrabemus*** |
+| *vi estos*  | | **vos esserabe** | vos será  | ***serátis***  | | ***essĕrabetis*** |
+| *ili estos* | | **les esserabe** | les será  | ***seránt***   | | ***essĕrabent***  |
 | | | | | | | |
-| *mi estus*  | | **me essĕriba**  | me sería  | ***seríam***   | | ***essĕribam***   |
-| *ci estus*  | | **te essĕriba**  | te sería  | ***serías***   | | ***essĕribas***   |
-| *li estus*  | | **le essĕriba**  | le sería  | ***seríat***   | | ***essĕribat***   |
-| *ni estus*  | | **nos essĕriba** | nos sería | ***seríamus*** | | ***essĕribamus*** |
-| *vi estus*  | | **vos essĕriba** | vos sería | ***seríatis*** | | ***essĕribatis*** |
-| *ili estus* | | **les essĕriba** | les sería | ***seríant***  | | ***essĕribant***  |
+| *mi estus*  | | **me esseriba**  | me sería  | ***seríam***   | | ***essĕribam***   |
+| *ci estus*  | | **te esseriba**  | te sería  | ***serías***   | | ***essĕribas***   |
+| *li estus*  | | **le esseriba**  | le sería  | ***seríat***   | | ***essĕribat***   |
+| *ni estus*  | | **nos esseriba** | nos sería | ***seríamus*** | | ***essĕribamus*** |
+| *vi estus*  | | **vos esseriba** | vos sería | ***seríatis*** | | ***essĕribatis*** |
+| *ili estus* | | **les esseriba** | les sería | ***seríant***  | | ***essĕribant***  |
 
 En la perfekto, **esséu** fariĝas fu.
 
@@ -463,26 +465,26 @@ En la perfekto, **esséu** fariĝas fu.
 | *vi estintas*       | | **vos esséu**     | vos fu     | *fuistis*   | | ***essistis***     |
 | *ili estintas*      | | **les esséu**     | les fu     | *fuerunt*   | | ***esserunt***     |
 | | | | | | | |
-| *(ke) mi estintas*  | | **me essĕverĭ**   | me fuerĭ   | *fuerĭm*    | | ***essĕverĭm***    |
-| *(ke) ci estintas*  | | **te essĕverĭ**   | te fuerĭ   | *fuerĭs*    | | ***essĕverĭs***    |
-| *(ke) li estintas*  | | **le essĕverĭ**   | le fuerĭ   | *fuerĭt*    | | ***essĕverĭt***    |
-| *(ke) ni estintas*  | | **nos essĕverĭ**  | nos fuerĭ  | *fuerĭmus*  | | ***essĕverĭmus***  |
-| *(ke) vi estintas*  | | **vos essĕverĭ**  | vos fuerĭ  | *fuerĭtis*  | | ***essĕverĭtis***  |
-| *(ke) ili estintas* | | **les essĕverĭ**  | les fuerĭ  | *fuerĭnt*   | | ***essĕverĭnt***   |
+| *(ke) mi estintas*  | | **me esseverĭ**   | me fuerĭ   | *fuerĭm*    | | ***essĕverĭm***    |
+| *(ke) ci estintas*  | | **te esseverĭ**   | te fuerĭ   | *fuerĭs*    | | ***essĕverĭs***    |
+| *(ke) li estintas*  | | **le esseverĭ**   | le fuerĭ   | *fuerĭt*    | | ***essĕverĭt***    |
+| *(ke) ni estintas*  | | **nos esseverĭ**  | nos fuerĭ  | *fuerĭmus*  | | ***essĕverĭmus***  |
+| *(ke) vi estintas*  | | **vos esseverĭ**  | vos fuerĭ  | *fuerĭtis*  | | ***essĕverĭtis***  |
+| *(ke) ili estintas* | | **les esseverĭ**  | les fuerĭ  | *fuerĭnt*   | | ***essĕverĭnt***   |
 | | | | | | | |
-| *mi estintis*       | | **me essĕvera**   | me fuera   | *fueram*    | | ***essĕveram***    |
-| *ci estintis*       | | **te essĕvera**   | te fuera   | *fueras*    | | ***essĕveras***    |
-| *li estintis*       | | **le essĕvera**   | le fuera   | *fuerat*    | | ***essĕverat***    |
-| *ni estintis*       | | **nos essĕvera**  | nos fuera  | *fueramus*  | | ***essĕveramus***  |
-| *vi estintis*       | | **vos essĕvera**  | vos fuera  | *fueratis*  | | ***essĕveratis***  |
-| *ili estintis*      | | **les essĕvera**  | les fuera  | *fuerant*   | | ***essĕverant***   |
+| *mi estintis*       | | **me essevera**   | me fuera   | *fueram*    | | ***essĕveram***    |
+| *ci estintis*       | | **te essevera**   | te fuera   | *fueras*    | | ***essĕveras***    |
+| *li estintis*       | | **le essevera**   | le fuera   | *fuerat*    | | ***essĕverat***    |
+| *ni estintis*       | | **nos essevera**  | nos fuera  | *fueramus*  | | ***essĕveramus***  |
+| *vi estintis*       | | **vos essevera**  | vos fuera  | *fueratis*  | | ***essĕveratis***  |
+| *ili estintis*      | | **les essevera**  | les fuera  | *fuerant*   | | ***essĕverant***   |
 | | | | | | | |
-| *(ke) mi estintis*  | | **me essĕvisse**  | me fuisse  | *fuissem*   | | ***essĕvissem***   |
-| *(ke) ci estintis*  | | **te essĕvisse**  | te fuisse  | *fuisses*   | | ***essĕvisses***   |
-| *(ke) li estintis*  | | **le essĕvisse**  | le fuisse  | *fuisset*   | | ***essĕvisset***   |
-| *(ke) ni estintis*  | | **nos essĕvisse** | nos fuisse | *fuissemus* | | ***essĕvissemus*** |
-| *(ke) vi estintis*  | | **vos essĕvisse** | vos fuisse | *fuissetis* | | ***essĕvissetis*** |
-| *(ke) ili estintis* | | **les essĕvisse** | les fuisse | *fuissent*  | | ***essĕvissent***  |
+| *(ke) mi estintis*  | | **me essevisse**  | me fuisse  | *fuissem*   | | ***essĕvissem***   |
+| *(ke) ci estintis*  | | **te essevisse**  | te fuisse  | *fuisses*   | | ***essĕvisses***   |
+| *(ke) li estintis*  | | **le essevisse**  | le fuisse  | *fuisset*   | | ***essĕvisset***   |
+| *(ke) ni estintis*  | | **nos essevisse** | nos fuisse | *fuissemus* | | ***essĕvissemus*** |
+| *(ke) vi estintis*  | | **vos essevisse** | vos fuisse | *fuissetis* | | ***essĕvissetis*** |
+| *(ke) ili estintis* | | **les essevisse** | les fuisse | *fuissent*  | | ***essĕvissent***  |
 
 |                 | | ***Ind.*** | ***Konj.*** | | ***Ind.*** | ***Konj.*** |
 |-|-|-|-|-|-|-|
@@ -496,16 +498,16 @@ En la perfekto, **esséu** fariĝas fu.
 
 ## ire
 
-En la prezenco, la verbo **i** anstataŭiĝas per **vadĕ**. En la indikativa prezenco, **vadĕ** fariĝas vá. (Aliaj verboj baziĝantaj sur **i** aŭ **vadĕ** estas regulaj: me exi - *exio*, me invadĕ - *invado*.)
+En la prezenco, la verbo **i** anstataŭiĝas per **vade**. En la indikativa prezenco, **vade** fariĝas vá. (Aliaj verboj baziĝantaj sur **i** aŭ **vade** estas regulaj: me exi - *exio*, me invade - *invado*.)
 
 | | | | | | | |
 |-|-|-|-|-|-|-|
-| *mi iras*       | | ~~me i~~  → **me vadĕ**  | me vá      | *vó*      | | ~~io~~   → ***vado***    |
-| *ci iras*       | | ~~te i~~  → **te vadĕ**  | te vá      | *vás*     | | ~~is~~   → ***vadĕs***   |
-| *li iras*       | | ~~le i~~  → **le vadĕ**  | le vá      | *vát*     | | ~~it~~   → ***vadĕt***   |
-| *ni iras*       | | ~~nos i~~ → **nos vadĕ** | nos vá     | *vámus*   | | ~~imus~~ → ***vadĕmus*** |
-| *vi iras*       | | ~~vos i~~ → **vos vadĕ** | vos vá     | *vátis*   | | ~~itis~~ → ***vadĕtis*** |
-| *ili iras*      | | ~~les i~~ → **les vadĕ** | les vá     | *vánt*    | | ~~ient~~ → ***vadĕnt***  |
+| *mi iras*       | | ~~me i~~  → **me vade**  | me vá      | *vó*      | | ~~io~~   → ***vado***    |
+| *ci iras*       | | ~~te i~~  → **te vade**  | te vá      | *vás*     | | ~~is~~   → ***vadĕs***   |
+| *li iras*       | | ~~le i~~  → **le vade**  | le vá      | *vát*     | | ~~it~~   → ***vadĕt***   |
+| *ni iras*       | | ~~nos i~~ → **nos vade** | nos vá     | *vámus*   | | ~~imus~~ → ***vadĕmus*** |
+| *vi iras*       | | ~~vos i~~ → **vos vade** | vos vá     | *vátis*   | | ~~itis~~ → ***vadĕtis*** |
+| *ili iras*      | | ~~les i~~ → **les vade** | les vá     | *vánt*    | | ~~ient~~ → ***vadĕnt***  |
 | | | | | | | |
 | *(ke) mi iras*  | | ~~me ia~~                | me vada    | *vadam*   | | ~~iam~~                  |
 | *(ke) ci iras*  | | ~~te ia~~                | te vada    | *vadas*   | | ~~ias~~                  |
@@ -525,7 +527,7 @@ En la preterito, la finaĵo **-ba** mallongiĝas al **-a**. (Aliaj verboj baziĝ
 | *vi iris*   | | **vos iba**  | vos ía | *íatis* | | ***ibatis*** |
 | *ili iris*  | | **les iba**  | les ía | *íant*  | | ***ibant***  |
 
-En la perfekto, uziĝas **essĕ**. (Aliaj verboj baziĝantaj sur **i** estas regulaj: me exíu - *exí* - ***exívii***.)
+En la perfekto, uziĝas **esse**. (Aliaj verboj baziĝantaj sur **i** estas regulaj: me exíu - *exí* - ***exívii***.)
 
 |                 | | ***Ind.*** | ***Konj.*** | | ***Ind.*** | ***Konj.*** |
 |-|-|-|-|-|-|-|
@@ -548,14 +550,9 @@ En la perfekto, uziĝas **essĕ**. (Aliaj verboj baziĝantaj sur **i** estas reg
 | *vi faras*  | | **vos face** | vos fá | *fátis* | | ***facĕtis*** |
 | *ili faras* | | **les face** | les fá | *fánt*  | | ***facĕnt***  |
 
-<!-- TODO facio estas ofte uzata en tiu ĉi dokumento -->
-<!-- vátis fátis, sed ... estis kaj héis -->
-
 ## Pasivaj Participoj
 
 **a-Verboj:**
-
-<!-- -at- → -it- / aldona signifo (kiel substantivo)/neologismo -->
 
 | | cf. |
 |-|-|
@@ -734,5 +731,3 @@ En la perfekto, uziĝas **essĕ**. (Aliaj verboj baziĝantaj sur **i** estas reg
 | ***-v-*** | |
 | **solvĭto** | **soluto** |
 | **volvĭto** | **voluto** |
-
-<!-- TODO do multaj ĭ-oj estu i-oj en la ortografio de Lingua -->
