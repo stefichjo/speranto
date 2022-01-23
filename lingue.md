@@ -46,27 +46,6 @@ La ŝajnsufikso **-atĭc-** prononciĝas *[ađj]* (= *[aðj]*).
 | *mesaĝo* | **missatĭc̄e** *[misađje]* |
 | *vojaĝo* | **viatĭc̄e** *[viađje]* |
  
-### c, g
-
-**c** kaj **g** estas prononcataj *[ŧ]* kaj *[đ]* antaŭ **-e** kaj **-i** (kaj **-y**).
-
-| | |
-|-|-|
-| *centro*  | **centre**  *[ŧentre]*  |
-| *leĝo*    | **lege**    *[leđe]*   |
-| | |
-| *biciklo* | **bicycle** *[biŧikle]* |
-
-Kiam **c** kaj **g** estas prononcataj *[k]* kaj *[g]* antaŭ **e** kaj **i**, ili portas makronon. Kiam ili estas prononcataj *[ŧ]* kaj *[đ]* antaŭ **a**, **o** kaj **u**, ili portas cirkumflekson.
-
-| | |
-|-|-|
-| *amiko* | **amic̄e** *[amike]* |
-| *fungo* | **funḡe** *[funge]* |
-| | |
-| *paca*  | **paĉa**  *[paŧa]*  |
-| *leĝa*  | **leĝa**  *[leđa]* |
-
 ### i, u
 
 En diftongoj, **i** prononciĝas *[j]*. Komence de radiko, skribiĝas **j** anstataŭ **i**.
@@ -95,36 +74,6 @@ Kiam **i** kaj **u** estas akcentataj en antaŭlasta pozicio, ili portas makrono
 |-|-|
 | *poezio* | **poesīe** *[poezie]* |
 | *tatuo*  | **tatūe**  *[tatue]*  |
-
-### r
-
-**r** prononciĝas *[r]* inter vokaloj aŭ malantaŭ konsonanto. En aliaj okazoj, **r** prononciĝas *[ĥ]*.
-
-| | |
-|-|-|
-| *tero*    | **terre**  *[teĥĥe]*  |
-| *por*     | **por**    *[poĥ]*    |
-| *reala*   | **reál**   *[ĥeal']*  |
-| *malofta* | **rara**   *[ĥara]*   |
-| *trajno*  | **trâine** *[trajne]* |
-
-### s, x
-
-**s** *[s]* prononciĝas *[z]* inter vokaloj.
-
-| | |
-|-|-|
-| *maso* | **masse** *[masse]* |
-| *rozo* | **rose**  *[roze]*  |
-
-**x** *[ks]* prononciĝas (ofte) *[gz]* inter vokaloj de la sama radiko.
-
-<!-- maksimumo: maxĭma -->
-
-| | |
-|-|-|
-| *ekzemplo*  | **exemple** *[egzemple]* |
-| *fiksi*     | **fixu**    *[fiksu]*    |
 
 ### Grekaj Vortoj
 
@@ -179,27 +128,22 @@ Kiam **i** kaj **u** estas akcentataj en antaŭlasta pozicio, ili portas makrono
 | *vi faras*  | | vi faĉan  | *fáis*  |
 | *ili faras* | | ili faĉan | *fán*   |
 
-Kiam la radikofina konsonanto de i- kaj e-verboj ne ŝanĝiĝis, la radikofina vokalo eliziiĝas en la konjunktiva prezenco kaj en la mi-formo de la indikativa prezenco.
-
-<!-- TODO Sekve, la prononco de "tenĭo" ne estas [tenjo] sed [teṅo]. -->
-<!-- La konsonanta radikofino de la mi-formo/konjunktivo difinas la formon en Lingue -->
-<!-- facĭo [faco] faĉ, lego [lego] leg, venĭo [veṅo] ven ! -->
-<!-- havĭa [havja] hav -->
-<!-- vĭ [j]/[bj] ? -->
+La radikofina vokalo de i- kaj e-verboj restas malantaŭ la labialoj p, b, v, malantaŭ la dentaloj l, n, kaj malantaŭ la velaroj c, g.
 
 | | | | |
 |-|-|-|-|
 | *mi kantas* | | mi cantan | *canto* |
 | *mi vidas*  | | mi vidan  | *vido*  |
-| *mi tenas*  | | mi tenan  | *tenĭo* |
+| *mi tenas*  | | mi tenan  | *tenio* |
 | *mi havas*  | | mi havan  | *hó*    |
-| *mi faras*  | | mi faĉan  | *facĭo* |
+| *mi faras*  | | mi faĉan  | *facio* |
 | *mi sentas* | | mi sentan | *sento* |
-| *mi venas*  | | mi venan  | *venĭo* |
+| *mi venas*  | | mi venan  | *venio* |
+| *mi scias*  | | mi saban  | *sabio* |
 
 | | | | | | | | | |
 |-|-|-|-|-|-|-|-|-|
-| *amo*    | | *venĭo*   | *sento*     | | *facĭo*    | *capo*    | | *tenĭo*   | *vido*     | | *lego*     |
+| *amo*    | | *venio*   | *sento*     | | *facio*    | *capo*    | | *tenio*   | *vido*     | | *lego*     |
 | *amas*   | | *venes*   | *sentes*    | | *faces*    | *capes*   | | *tenes*   | *vides*    | | *leges*    |
 | *ama*    | | *vene*    | *sente*     | | *face*     | *cape*    | | *tene*    | *vide*     | | *lege*     |
 | *amamus* | | *venimus* | *sentimus*  | | *facemus*  | *capemus* | | *tenemus* | *videmus*  | | *legemus*  |
@@ -216,13 +160,13 @@ La konjunktiva prezenco uziĝas nur kiel volitivo.
 
 | | | | |
 |-|-|-|-|
-| *mi volas, ke vi kantu* | | mi volan, qŭe tī canten. | *volĭo, qŭe cantes* |
+| *mi volas, ke vi kantu* | | mi volan, qŭe tī canten. | *volio, qŭe cantes* |
 
 La konjunktiva preterito uziĝas nur kiel infinitivo.
 
 | | | | |
 |-|-|-|-|
-| *mi volas kanti* | | mi volen cantu | *volĭo cantár* |
+| *mi volas kanti* | | mi volen cantu | *volio cantár* |
 
 La konjunktiva futuro uziĝas nur kiel kondicionalo.
 

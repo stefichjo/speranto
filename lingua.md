@@ -4,13 +4,6 @@
 
 ## Prononco
 
-**c** kaj **g** estas ĉiam prononcataj *[k]* kaj *[g]*.
-
-| | |
-|-|-|
-| *centro* | **centro** *[kentro]* |
-| *homoj*  | **gente**  *[gente]*  |
-
 **t** estas ĉiam prononcata *[t]*.
 
 | | |
@@ -52,21 +45,21 @@ En diftongoj, **i** kaj **u** ne estas akcentataj.
 
 | | |
 |-|-|
-| *majo* | **maĭo** *[mai-o]* |
+| *majo* | **maio** *[mai-o]* |
 | | |
-| *familio* | **familĭa** *[famili-a]* |
-| *jam* | **ĭam** *[iam']* |
+| *familio* | **familia** *[famili-a]* |
+| *jam* | **iam** *[iam']* |
 | | |
 | *oro* | **aŭro** *[aur-o]* |
 | | |
 | *akvo* | **aqŭa** *[aku-a]* |
 | *lingvo* | **lingŭa** *[lingu-a]* |
 
-En la diftongoj **iu** kaj **ui**, la diftongokomencaj **i-** kaj **u-** ne estas akcentataj.
+En la diftongoj **iu** kaj **ui**, la diftongokomencaj **i-** kaj **u-** ne estas akcentataj. <!-- TODO -->
 
 | | |
 |-|-|
-| *justa*, *ĝusta* | **ĭusta** *[iusta]* |
+| *justa*, *ĝusta* | **iusta** *[iusta]* |
 | *kiu*            | **qŭi**   *[kui']*  |
 
 ### Grekaj Vortoj
@@ -89,11 +82,8 @@ La grek-devenaj ŝajnfinaĵoj **-i**, **-ía**, **-a**, **-e** havas signifojn s
 | *"lumskribaĵo"*, *fotografaĵo*    | **photographe**  *[fotografe]*  |
 
 ## Gramatiko
+
 <!-- TODO forigendas la gramatika parto, char ghi jam enestas la slajdaron -->
-### Artikoloj
-
-<!-- de la -> del; ad la -> al -->
-
 ### Verboj
 
 <!-- -le -les -->
@@ -325,8 +315,6 @@ vi/ve malaperas.
 | *mi farintas* | | me facéu | ~~facii~~ → *faci* | | ***facevii*** |
 | *mi legintas* | | me legéu | ~~legii~~ → *legi* | | ***legevii*** |
 
-<!-- Do direblas: veni, vidi, vinci. :) Close enough! -->
-
 **Konjunktivo:**
 
 | | | | | | | |
@@ -365,60 +353,29 @@ Kiam la radikofina vokalo eliziiĝas antaŭ la participa finaĵo -ta, la partici
 
 | | | | |
 |-|-|-|-|
-| *legata* | | **legeta** | legĭta |
-| *legita* | |            | lecta  |
+| *vidata* | | **videta** | vidĭta |
+| *vidita* | |            | visa   |
 
 ***Pasivo:***
 
 | | | |
 |-|-|-|
-| *estas legata* | | es legĭta  |
+| *estas vidata* | | es vidĭta |
 | | | |
-| *estas legita* | | sta lecta  |
-| *estas legata* | | veni lecta |
-| *estas legota* | | vá lecta   |
+| *estas vidita* | | sta visa  |
+| *estas vidata* | | veni visa |
+| *estas vidota* | | vá visa   |
 
-<!-- TODO
--r
--ris
--tur
--mur
--mĭni
--ntur
-
-clamatur
-se clamat
-clamant
-es clamata
-(veni clamĭta)
-
-legé
-legeta legĭta lecta
-
-
--->
+| | | | | | | |
+|-|-|-|-|-|-|-|
+| *mi estas vidata*   | | **me esse videta**   | me esse vidĭta   | *so     vidĭta*  | | ***videor***   |
+| *ci estas vidata*   | | **te esse videta**   | te esse vidĭta   | *es     vidĭta*  | | ***videris***  |
+| *li estas vidata*   | | **le esse videta**   | le esse vidĭta   | *est    vidĭta*  | | ***videtur***  |
+| *ni estas vidataj*  | | **nos esse videtas** | nos esse vidĭtas | *somus  vidĭtas* | | ***videmur***  |
+| *vi estas vidataj*  | | **vos esse videtas** | vos esse vidĭtas | *estis  vidĭtas* | | ***videmĭni*** |
+| *ili estas vidataj* | | **les esse videtas** | les esse vidĭtas | *sont   vidĭtas* | | ***videntur*** |
 
 ## Pronomoj
-
-Fleksie, la pronomoj de la unua kaj dua personoj estas *io*, *tu*, *noi* kaj *voi* kiam ili ne estas objekto (t.e. nek rekta objekto de transitiva verbo nek argumento de prepozicio).
-
-| | | | |
-|-|-|-|-|
-| *mi dormas* | | me dormi  | *(io) dormo*     |
-| *ci dormas* | | te dormi  | *(tu) dormis*    |
-| | | | |
-| *ni dormas* | | nos dormi | *(noi) dormimus* |
-| *vi dormas* | | vos dormi | *(voi) dormitis* |
-
-<!-- TODO ille, illes
-
-(io) vivo con le
-(ille) vivĕ con me
-
-(noi) vivĕmus con les
-(illes) vivĕnt con nos
-
--->
 
 <!-- TODO (fá: fó fás fát fámus fátis fánt) -->
 
@@ -464,6 +421,7 @@ En la prezenco, **essĕ** fariĝas es en la indikativo kaj sia en la konjunktivo
 | *(ke) ni estas*  | | **nos essia** | nos sia | *siamus* | | ***essiamus*** |
 | *(ke) vi estas*  | | **vos essia** | vos sia | *siatis* | | ***essiatis*** |
 | *(ke) ili estas* | | **les essia** | les sia | *siant*  | | ***essiant***  |
+<!-- TODO ĉu **esse** kaj **essea**, kaj lasi la fajnecon al ***essĕt*** kaj ***essiat***?-->
 
 En la preterito, **esseba** fariĝas **era**. Antaŭ konjugacia finaĵo, **era** fariĝas **éra**.
 

@@ -666,6 +666,8 @@ Note:
 | | | | | | |
 | |              | **[tero]** | |          | **[rara]** |
 
+Note:
+* **r** prononciĝas *[r]* inter vokaloj aŭ malantaŭ konsonanto. En aliaj okazoj, **r** prononciĝas *[ĥ]*.
 <!--v-->
 
 ## Speranto
@@ -714,6 +716,8 @@ Note:
 Note:
 * Tra bruo, 🅴 **centre** [ŧentre] prononciĝas [ĉentre], kaj 🅾 **centro** [sentro] prononciĝas [centro].
 * Tra bruo, 🅴 **gentila** [đentila] prononciĝas [ĝentila], kaj 🅾 **gentiła** [ĵentiŭa] prononciĝas [dzentila].
+* 🅴 **amic̄e** *[amike]*; 🅴 **funḡe** *[funge]*
+* 🅴 **paĉa**  *[paŧa]*; 🅴 **leĝa**  *[leđa]*
 
 <!--v-->
 
@@ -1402,7 +1406,8 @@ Note:
 | *ŝi, li, ri, ĝi* | **ille** | | *ili* | **illes** |
 
 Note:
-* **tu et io somus amicos** - *ci kaj mi estas amikoj*
+* Fleksie, redundaj pronomoj estas nek rekta objekto de transitiva verbo nek argumento de prepozicio.
+  * **tu et io, noi somus amicos** - *ci kaj mi, ni estas amikoj*
 
 <!--v-->
 
@@ -1733,5 +1738,6 @@ sensibilidiare
 bullizzare
 galvanizzare
 
+Konjugacio en Linguo
 -->
 
