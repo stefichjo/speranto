@@ -2,98 +2,101 @@
 
 ## Verb Prefixes
 
-|        | 1.                  | 2.                    | 3.                    |
-|:-:|:-:|:-:|:-:|
-| **1.** | `jI- / ma-`         | `cho- ju- / tu- che-` | `mu- nu- / mu- nu-`   |
-| **2.** | `qa- Sa- / pI- re-` | `bI- / Su-`           | `Du- lI- / nI- lI-`   |
-| **3.** | `vI- vI- / wI- DI-` | `Da- Da- / bo- bo-`   | `- / -`               |
+| | | | | |
+|:-:|:-:|:-:|:-:|:-:|
+| *mi / ni*       | *ci / vi*         | *li / ili*        |
+| | | | | |
+| `jI / ma`       | `bI / Su`         | `- / -`           | | |
+| | | | | |
+| `×`             | `cho ju / tu che` | `mu nu / mu nu`   | | *min / nin*  |
+| `qa Sa / pI re` | `×`               | `Du lI / nI lI`   | | *cin / vin*  |
+| `vI vI / wI DI` | `Da Da / bo bo`   | `- - / lu -`      | | *lin / ilin* |
 
-### 1.       `jI- / ma-`
+### *mi / ni — cin / vin*
 
-| *mi*  | *ni*  |
-|-|-|
-| `jI-` | `ma-` |
+| | | | |
+|-|-|-|-|
+| *mi* | *ni* | | |
+| | | | |
+| `qa` | `pI` | | *cin* |
+| `Sa` | `re` | | *vin* |
 
-### 1. → 2.  `qa- Sa- / pI- re-`
+### *mi / ni — lin / ilin*
 
-| *mi cin/vin* | *ni cin/vin* |
-|-|-|
-| `qa-`        | `pI-`        |
-| `Sa-`        | `re-`        |
+| | | | |
+|-|-|-|-|
+| *mi* | *ni* | | |
+| | | | |
+| `vI` | `wI` | | *lin*  |
+| `vI` | `DI` | | *ilin* |
 
-### 1. → 3.  `vI- vI- / wI- DI-`
+### *ci / vi — min / nin*
 
-| *mi lin/ilin* | *ni lin/ilin* |
-|-|-|
-| `vI-`         | `wI-`         |
-| `vI-`         | `DI-`         |
+| | | | |
+|-|-|-|-|
+| *ci*   | *vi* | | |
+| | | | |
+| `cho` | `tu`  | | *min* |
+| `ju`  | `che` | | *nin* |
 
-### 2. → 1.  `cho- ju- / tu- che-`
+### *ci / vi — lin / ilin*
 
-| *ci min/nin* | *vi min/nin* |
-|-|-|
-| `cho-`       | `tu-`        |
-| `ju-`        | `che-`       |
+| | | | |
+|-|-|-|-|
+| *ci* | *vi* |
+| | | | |
+| `Da` | `bo` | | *lin*  |
+| `Da` | `bo` | | *ilin* |
 
-### 2.       `bI- / Su-`
+### *li / ilin — min / nin*
 
-| *ci*  | *vi*  |
-|-|-|
-| `bI-` | `Su-` |
+| | | | |
+|-|-|-|-|
+| *li* | *ili* |
+| | | | |
+| `mu` | `mu`  | | *min* |
+| `nu` | `nu`  | | *nin* |
 
-### 2. → 3.  `Da- Da- / bo- bo-`
+### *li / ili — cin / vin*
 
-| *ci lin/ilin* | *vi lin/ilin* |
-|-|-|
-| `Da-`         | `bo-`         |
-| `Da-`         | `bo-`         |
+| | | | |
+|-|-|-|-|
+| *li* | *ili* |
+| | | | |
+| `Du` | `nI`  | | *cin* |
+| `lI` | `lI`  | | *vin* |
 
-### 3. → 1.  `mu- nu- / mu- nu-`
+### *li / ili — lin / ilin*
 
-| *li min/nin* | *ili min/nin* |
-|-|-|
-| `mu-`        | `mu-`         |
-| `nu-`        | `nu-`         |
+| | | | |
+|-|-|-|-|
+| *li* | *ili* |
+| | | | |
+| `-`  | `lu`  | | *lin*  |
+| `-`  | `-`   | | *ilin* |
 
-### 3. → 2.  `Du- lI- / nI- lI-`
-
-| *li cin/vin* | *ili cin/vin* |
-|-|-|
-| `Du-`        | `nI-`         |
-| `lI-`        | `lI-`         |
-
-### 3.       `- / -`
-
-| *li*  | *ili* |
-|-|-|
-| `-`   | `-`   |
-
-| *li lin/ilin* | *ili lin/ilin* |
-|-|-|
-| `-`           | `lu-`          |
-| `-`           | `-`            |
 
 ## Imperative Verb Prefixes
 
-### 2. → 1.  `HI- hgo- / HI- gho-`
+### 2. → 1.  `HI hgo / HI gho`
 
 | *ci min/nin!* | *vi min/nin!* |
 |-|-|
-| `HI-`         | `HI-`         |
-| `gho-`        | `gho-`        |
+| `HI`         | `HI`         |
+| `gho`        | `gho`        |
 
-### 2.       `yI- / pe-`
+### 2.       `yI / pe`
 
 | *ci!* | *vi!* |
 |-|-|
-| `yI-` | `pe-` |
+| `yI` | `pe` |
 
-### 2. → 3.  `yI- tI- / yI- tI-`
+### 2. → 3.  `yI tI / yI tI`
 
 | *ci lin/ilin!* | *vi lin/ilin!* |
 |-|-|
-| `yI-`          | `yI-`          |
-| `tI-`          | `tI-`          |
+| `yI`          | `yI`          |
+| `tI`          | `tI`          |
 
 <!--
 
@@ -103,10 +106,6 @@
 -maj nia
 -raj via
 -chaj ilia
-
-baţ
-bał batļ
-batlh
 
 -->
 
