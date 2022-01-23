@@ -791,10 +791,10 @@ Note:
 | | | |
 |-|-|-|
 | 🅰 | **terracĕa** | [terrake-a]    |
-| 🅴 | **terracie** | [teĥĥaŧje]   |
-| 🅾 | **terraço**  | [teĥaso]     |
+| 🅴 | **terracie** | [teĥĥaŧje]     |
+| 🅾 | **terraço**  | [teĥaso]       |
 | | | |
-| |                 | **[bano]**   |
+| |                 | **[teraso]**   |
 
 Note:
 * Tra bruo, 🅴 **terracie** prononciĝas [teĥĥaĉje], kaj 🅾 **terraço** = **terracio** prononciĝas [teĥasjo].
@@ -860,9 +860,6 @@ Note:
 | 🅾 | **linio** | [liṅo]      | | **extrania** | [estraṅa]     |
 | | | | | | |
 | |              | **[linio]** | |              | **[stranga]** |
-
-Note:
-* 🅰 **balneo**, 🅴 **balnie**, 🅾 **balnio** - *bano*
 
 <!--v-->
 
@@ -961,9 +958,14 @@ Note:
 
 Note:
 * 🅰 **tabŭla**, 🅴 **tábla**, 🅾 **távla**
-* verba radiko finiĝanta je **-p**: 🅰 **sape**, 🅴 **saban**, 🅾 **savan**.
-  * tamen ne: 🅰 **face**, 🅴 ~~faĝan~~
+* 🅰 **sape**, 🅴 **saban**, 🅾 **savas** - *scias*
+* 🅰 **sape**, 🅴 **sapan**, 🅾 **sapas** - *gustas*
 
+<!-- 
+TODO
+baln/bán
+létra
+ -->
 <!--v-->
 
 ## Speranto
@@ -1067,7 +1069,8 @@ Note:
 |   |              | **[konto]**  | |            | **[kosti]** |
 
 Note:
-* 🅰 **hospĭtello**, 🅴 **hôtelle**, 🅾 **hôtéł** [oteŭ']
+* 🅰 **hospĭtello**, 🅴 **hôtelle**, 🅾 **hôtéł** [oteŭ'] - *hotelo*
+* 🅰 **balneo**, 🅴 **bânie**, 🅾 **bânio** [baṅo] - *bano*
 * *tipe* francismoj
 
 <!--v-->
