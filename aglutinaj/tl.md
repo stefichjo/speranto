@@ -8,7 +8,7 @@
 | **2.** | `qa- Sa- / pI- re-` | `bI- / Su-`           | `Du- lI- / nI- lI-`   |
 | **3.** | `vI- vI- / wI- DI-` | `Da- Da- / bo- bo-`   | `- / -`               |
 
-### 1.           `jI- / ma-`
+### 1.       `jI- / ma-`
 
 | *mi*  | *ni*  |
 |-|-|
@@ -28,14 +28,14 @@
 | `vI-`         | `wI-`         |
 | `vI-`         | `DI-`         |
 
-### 2. → 1. `cho- ju- / tu- che-`
+### 2. → 1.  `cho- ju- / tu- che-`
 
 | *ci min/nin* | *vi min/nin* |
 |-|-|
 | `cho-`       | `tu-`        |
 | `ju-`        | `che-`       |
 
-### 2.           `bI- / Su-`
+### 2.       `bI- / Su-`
 
 | *ci*  | *vi*  |
 |-|-|
@@ -62,7 +62,7 @@
 | `Du-`        | `nI-`         |
 | `lI-`        | `lI-`         |
 
-### 3.             `- / -`
+### 3.       `- / -`
 
 | *li*  | *ili* |
 |-|-|
@@ -73,17 +73,28 @@
 | `-`           | `lu-`          |
 | `-`           | `-`            |
 
-<!--
-yI- ci/vi lin
-tI- ci/vi ilin
+## Imperative Verb Prefixes
 
-HI- ci/vi min
-gho- ci/vi nin
+### 2. → 1.  `HI- hgo- / HI- gho-`
 
-yI- ci
-pe- vi
+| *ci min/nin!* | *vi min/nin!* |
+|-|-|
+| `HI-`         | `HI-`         |
+| `gho-`        | `gho-`        |
 
--->
+### 2.       `yI- / pe-`
+
+| *ci!* | *vi!* |
+|-|-|
+| `yI-` | `pe-` |
+
+### 2. → 3.  `yI- tI- / yI- tI-`
+
+| *ci lin/ilin!* | *vi lin/ilin!* |
+|-|-|
+| `yI-`          | `yI-`          |
+| `tI-`          | `tI-`          |
+
 <!--
 
 -wIj mia
@@ -100,8 +111,9 @@ pe- vi
 
 | | `qajunpaQHeylIjmo' batlh DuSuvqang charghwI' 'It.` |
 |-|-|
-| [Markup](#markup): | `qajunpaQ.Hey.lIj.mo', batlh, Du:Suv.qang chargh.wI'='It.` |
-| [Cursive](#cursive): | ***qajunpaqhheylijmó, batlh, dusuvqang charghwí ìt.*** |
+| [Markup](#markup):                 | `qajunpaQ.Hey.lIj.mo', batlh, Du:Suv.qang chargh.wI'='It.` |
+| [Cursive](#cursive):               | *qajunpaqhheylijmó, batlh, dusuvqang charghwí ìt.*         |
+| [Cursive Markup](#cursive-markup): | ***qajunpaq̂.hey.lij.mó, batł, du:suv.qang ĉarĝ.wí=ìt.***  |
 
 ### Markup
 
@@ -119,7 +131,7 @@ pe- vi
 | *in the room*           | `pa'Daq`    | `pa'.Daq`   |
 | *due to the wind*       | `SuSmo'`    | `SuS.mo'`   |
 | | | |
-| *Acidentally, ...*      | `bong ...`  | `bong, ...` |
+| *Accidentally, ...*     | `bong ...`  | `bong, ...` |
 
 ### Cursive
 
@@ -127,33 +139,35 @@ pe- vi
 
 | | | |
 |-|-|-|
-| *man*    | `loD`  | ***lod***  |
+| *man*    | `loD`  | *lod*  |
 | | | |
-| *fight*  | `Suv`  | ***suv***  |
+| *fight*  | `Suv`  | *suv*  |
 | | | |
-| *Kirk*   | `qIrq` | ***qirq*** |
+| *Kirk*   | `qIrq` | *qirq* |
 | | | |
-| *kill*   | `HoH`  | ***hoh***  |
+| *kill*   | `HoH`  | *hoh*  |
 | | | |
-| *power*  | `woQ`  | ***woqh*** |
-
-In order not to read `nenghep` (*Age of Ascension*) as *`nengHep`, it can be written ***nenĝep*** instead of ***nenghep***. In order not to read `qaQaH` (*I help you*) as *`qaqHaH`, it can be written ***qaq̂ah*** instead of ***qaqhah***.
-
-| | | |
-|-|-|-|
-| *Age of Ascension* | `nenghep` | ***nenghep*** = ***nenĝep***  |
-| *I help you.*      | `qaQaH.`  | ***qaqhah.*** = ***qaq̂ah.*** |
+| *power*  | `woQ`  | *woqh* |
 
 **Diacritics:**
 
 | | | |
 |-|-|-|
-| *one*      | `wa'`    | **wá**    |
+| *one*                      | `wa'`  | *wá*    |
 | | | |
-| *but*      | `'ech`   | **èch**   |
+| *but*                      | `'ech` | *èch*   |
 | | | |
-| *universe* | `'u'`    | **ǔ**     |
+| *universe*                 | `'u'`  | *ǔ*     |
 | | | |
-| *crazy*    | `maw'`   | **maẃ**   |
+| *crazy*                    | `maw'` | *maẃ*   |
 | | | |
-| *somebody,*<br>*something* | `vay'` | **vaý**   |
+| *somebody,*<br>*something* | `vay'` | *vaý*   |
+
+### Cursive Markup
+
+In order not to read `nenghep` (*Age of Ascension*) as *`nengHep`, it can be written ***nenĝep*** instead of *nenghep*. In order not to read `qaQaH` (*I help you*) as *`qaqHaH`, it can be written ***qaq̂ah*** instead of *qaqhah*.
+
+| | | | |
+|-|-|-|-|
+| *Age of Ascension* | `nenghep` | *nenghep* | ***nenĝep***  |
+| *I help you.*      | `qaQaH.`  | *qaqhah.* | ***qaq̂ah.*** |

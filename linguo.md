@@ -92,6 +92,8 @@ Komence de la (ŝajn-)radiko, prononciĝas *[ŝ]* anstataŭ *[sĉ]*.
 | | |
 | *escepto* | **ex̂cepto** *[esĉepto]* |
 
+<!-- TODO tiuj ĉi prononcoj jam estas eksiĝintaj -->
+
 ### ex̂-, dė-, rė-
 
 La ŝajnprefiksoj **ex̂-**, **dė-** kaj **rė-** pronciĝas *[es]*, *[di]* kaj *[ri]*.
@@ -230,6 +232,7 @@ Greka **ch** *[k]* pronciĝas *[ĥ]*.
 
 # Konjugacio
 
+<!-- TODO -->
 <!-- renkonten = renkonti ? -->
 <!-- mi/mu ... -->
 <!-- a/e ? -->
