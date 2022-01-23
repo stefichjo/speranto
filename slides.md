@@ -1071,7 +1071,8 @@ Note:
 Note:
 * 🅰 **hospĭtello**, 🅴 **hôtelle**, 🅾 **hôtéł** [oteŭ'] - *hotelo*
 * 🅰 **balneo**, 🅴 **bânie**, 🅾 **bânio** [baṅo] - *bano*
-* *tipe* francismoj
+* 🅰 **paupĕra**, 🅴 **póbra**, 🅾 **póvra** [povra] - *povra*
+* 🅰 **littĕra**, 🅴 **létre** [letre] - *letero*
 
 <!--v-->
 
@@ -1089,7 +1090,6 @@ Note:
 
 Note:
 * 🅰 **camĕrato**, 🅴 **camĕrade**, 🅾 **camĕré** - *kamarado*
-* 🅰 **paupĕra**, 🅴 **pópĕra**, 🅾 **pópĕra** - *povra*
 
 <!--v-->
 
@@ -1718,8 +1718,3 @@ ch ph th y x
 z: [ts] [dz] [z]
 zona -iz- (polverizare), -aliz- (legalizare)
 -->
-
-<!-- TODO
-Konjugacio en Linguo
--->
-
