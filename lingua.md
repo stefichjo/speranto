@@ -55,7 +55,7 @@ En diftongoj, **i** kaj **u** ne estas akcentataj.
 | *akvo* | **aqŭa** *[aku-a]* |
 | *lingvo* | **lingŭa** *[lingu-a]* |
 
-En la diftongoj **iu** kaj **ui**, la diftongokomencaj **i-** kaj **u-** ne estas akcentataj. <!-- TODO -->
+En la diftongoj **iu** kaj **ui**, la diftongokomencaj **i-** kaj **u-** ne estas akcentataj. <!-- TODO Ĉu 'stas tjel? -->
 
 | | |
 |-|-|
@@ -82,12 +82,6 @@ La grek-devenaj ŝajnfinaĵoj **-i**, **-ía**, **-a**, **-e** havas signifojn s
 | *"lumskribaĵo"*, *fotografaĵo*    | **photographe**  *[fotografe]*  |
 
 ## Gramatiko
-
-<!-- TODO forigendas la gramatika parto, char ghi jam enestas la slajdaron -->
-### Verboj
-
-<!-- -le -les -->
-<!-- -se -->
 
 ### Konjunkcioj
 

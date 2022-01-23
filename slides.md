@@ -780,6 +780,7 @@ Note:
 
 Note:
 * 🅾 **ruja** = **ruvia**
+* francismo: 🅰 **cambiá**, 🅴 **cambiu**, 🅾 **canji** - *ŝanĝi*
 
 <!--v-->
 
@@ -1704,40 +1705,18 @@ Note:
 * aliaj Lingvoj
 
 <!-- TODO
-eccu-ille = id, hic ? (id-ius? hic-ius?)
-eccu-ille = nunc, ad-hora ?
+Klarigo: Je la limo de mia sistemo:
+* telephŏno
+* telephonĭco
+-->
 
--phŏno: telephŏno (-telefno?)
-
-(kambiare kambjár kânĵá)
-psalmo psalmo salmo
-
-charactĕre
-
-kiŭilidzare
-kivilidzar'
-kiviliza' [dz]
-
+<!-- TODO
 ch ph th y x
+z: [ts] [dz] [z]
+zona -iz- (polverizare), -aliz- (legalizare)
+-->
 
-zona
-z- [ts] → [dz] → [z]
--iz-
-legalizare
-
-https://www.treccani.it/enciclopedia/izzare_%28La-grammatica-italiana%29/
--idiare
--izzare
-
-memoridiare memoriđjar' memoriĵa'
-polveridiare
-civilidiare
-stabilidiare <> stabilitsare stabilidzar' stabiliza'
-sensibilidiare
-
-bullizzare
-galvanizzare
-
+<!-- TODO
 Konjugacio en Linguo
 -->
 
