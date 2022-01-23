@@ -113,7 +113,7 @@ La grek-devenaj ŝajnfinaĵoj **-i**, **-ía**, **-a**, **-e** havas signifojn s
 
 ## Imperfekto
 
-|                 | | ***Ind.***   | ***Subj.*** |
+|                 | | ***Ind.***   | ***Konj.*** |
 |-|-|-|-|
 | ***Prezenco***  | | -            | -a          |
 | | | | |
@@ -143,7 +143,7 @@ La grek-devenaj ŝajnfinaĵoj **-i**, **-ía**, **-a**, **-e** havas signifojn s
 | *ni faras* | | nos facĕ | *facĕmus* |
 | *ni amas*  | | nos ama  | *amamus*  |
 
-Antaŭ konjugacia finaĵo, la mi-formo similas al la subjunktiva prezenco kun la finaĵo *-o* anstataŭ **-a**. <!-- -å, -åm ? -->
+Antaŭ konjugacia finaĵo, la mi-formo similas al la konjunktiva prezenco kun la finaĵo *-o* anstataŭ **-a**. <!-- -å, -åm ? -->
 
 | | | | |
 |-|-|-|-|
@@ -157,7 +157,7 @@ La ili-formo de i-verboj havas ie anstataŭ i.
 |-|-|-|-|
 | *ili aŭdas* | | les audi | *audient* |
 
-**Subjunktivo:**
+**Konjunktivo:**
 ĭ-verboj kondutas kiel i-verboj. La radikofina vokalo de ĕ- kaj a-verboj eliziĝas. Anstataŭ -a, a-verbo akceptas la finaĵon -e.
 
 | | | | |
@@ -181,7 +181,7 @@ La ili-formo de i-verboj havas ie anstataŭ i.
 | *ni faris*  | | nos faceba | *facebamus* |
 | *ni amis*   | | nos amaba  | *amabamus*  |
 
-**Subjunktivo:**
+**Konjunktivo:**
 ĭ-verboj kondutas kiel ĕ-verboj.
 
 | | | | |
@@ -205,8 +205,8 @@ La indikativa futuro estas la infinitivo kun -á, t.e. la indikativa prezenco de
 | *ni faros*  | | **nos facĕrabe** | nos facĕrá | *facĕrémus* | | ***facĕrabemus*** |
 | *ni amos*   | | **nos amarabe**  | nos amará  | *amarémus*  | | ***amarabemus***  |
 
-**Subjunktivo:**
-La subjunktiva futuro estas la infinitivo kun -ía, t.e. la indikativa preterito de verbo **i**.
+**Konjunktivo:**
+La konjunktiva futuro estas la infinitivo kun -ía, t.e. la indikativa preterito de verbo **i**.
 
 | | | | | | | |
 |-|-|-|-|-|-|-|
@@ -253,7 +253,7 @@ La gerundio finiĝas je -ndo kaj kondutas kiel la participo.
 
 ### Infinitivo
 
-La infinitivo estas egala al la subjunktiva preterito sen konjugacia finaĵo. Pere de la verbo **i** kaj infinitivo, oni povas esprimi venontecan aspekton. <!-- TODO klarigi "legé" -->
+La infinitivo estas egala al la konjunktiva preterito sen konjugacia finaĵo. Pere de la verbo **i** kaj infinitivo, oni povas esprimi venontecan aspekton. <!-- TODO klarigi "legé" -->
 
 | | | | | |
 |-|-|-|-|-|
@@ -267,7 +267,7 @@ La perfekto estas alternative formebla pere de la verbo **habe** kaj la pasiva p
 |-|-|-|-|-|-|-|
 | *mi estas dorminta* | | **me habe dormito** | me há dormito | *hó dormito* | | ***habeo dormito*** |
 
-|                 | ***Ind.*** | ***Subj.*** |
+|                 | ***Ind.*** | ***Konj.*** |
 |-|-|-|
 | | | |
 | ***Prezenco***  | 'u         | 'rĭ         |
@@ -327,7 +327,7 @@ vi/ve malaperas.
 
 <!-- Do direblas: veni, vidi, vinci. :) Close enough! -->
 
-**Subjunktivo:**
+**Konjunktivo:**
 
 | | | | | | | |
 |-|-|-|-|-|-|-|
@@ -349,7 +349,7 @@ vi/ve malaperas.
 | *ni farintis*  | | **nos facĕvera** | nos facéra | *facéramus* | | ***facĕveramus*** |
 | *ni legintis*  | | **nos legĕvera** | nos legéra | *legéramus* | | ***legĕveramus*** |
 
-**Subjunktivo:**
+**Konjunktivo:**
 
 | | | | | | | |
 |-|-|-|-|-|-|-|
@@ -420,7 +420,7 @@ Fleksie, la pronomoj de la unua kaj dua personoj estas *io*, *tu*, *noi* kaj *vo
 
 -->
 
-<!-- (fá: fó fás fát fámus fátis fánt) -->
+<!-- TODO (fá: fó fás fát fámus fátis fánt) -->
 
 <!-- 
 nos nossa
@@ -447,7 +447,7 @@ alle olle ulle elle? -->
 
 ## essĕre
 
-En la prezenco, **essĕ** fariĝas es en la indikativo kaj sia en la subjunktivo. Antaŭ konjugacia finaĵo, es ŝanĝiĝas. (Tiuj formoj ne portas dekstrajn kornojn, malgraŭ la elizioj: ~~só~~ → *so* - ***essio***. En *somos* kaj *sont* estas anstataŭ *semus* kaj *sent*.)
+En la prezenco, **essĕ** fariĝas es en la indikativo kaj sia en la konjunktivo. Antaŭ konjugacia finaĵo, es ŝanĝiĝas. (Tiuj formoj ne portas dekstrajn kornojn, malgraŭ la elizioj: ~~só~~ → *so* - ***essio***. En *somos* kaj *sont* estas anstataŭ *semus* kaj *sent*.)
 
 | | | | | | | |
 |-|-|-|-|-|-|-|
@@ -526,7 +526,7 @@ En la perfekto, **esséu** fariĝas fu.
 | *(ke) vi estintis*  | | **vos essĕvisse** | vos fuisse | *fuissetis* | | ***essĕvissetis*** |
 | *(ke) ili estintis* | | **les essĕvisse** | les fuisse | *fuissent*  | | ***essĕvissent***  |
 
-|                 | | ***Ind.*** | ***Subj.*** | | ***Ind.*** | ***Subj.*** |
+|                 | | ***Ind.*** | ***Konj.*** | | ***Ind.*** | ***Konj.*** |
 |-|-|-|-|-|-|-|
 |                 | | ***Imperfekto*** |       | | ***Perfekto*** |         |
 | | | | | | | |
@@ -569,7 +569,7 @@ En la preterito, la finaĵo **-ba** mallongiĝas al **-a**. (Aliaj verboj baziĝ
 
 En la perfekto, uziĝas **essĕ**. (Aliaj verboj baziĝantaj sur **i** estas regulaj: me exíu - *exí* - ***exívii***.)
 
-|                 | | ***Ind.*** | ***Subj.*** | | ***Ind.*** | ***Subj.*** |
+|                 | | ***Ind.*** | ***Konj.*** | | ***Ind.*** | ***Konj.*** |
 |-|-|-|-|-|-|-|
 |                 | | ***Imperfekto*** |       | | ***Perfekto*** |         |
 | | | | | | | |

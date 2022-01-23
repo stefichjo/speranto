@@ -149,7 +149,7 @@ Postvokala **-b** kaj **-p** ofte fariĝas **-v** *[v]*.
 
 # Konjugacio
 
-|                 | | ***Ind.***   | ***Subj.*** |
+|                 | | ***Ind.***   | ***Konj.*** |
 |-|-|-|-|
 | ***Prezenco***  | | -            | -a          |
 | | | | |
@@ -190,10 +190,10 @@ Postvokala **-b** kaj **-p** ofte fariĝas **-v** *[v]*.
 | *vi faras*  | | vi faĉan  | *fáis*  |
 | *ili faras* | | ili faĉan | *fán*   |
 
-Kiam la radikofina konsonanto de i- kaj e-verboj ne ŝanĝiĝis, la radikofina vokalo eliziiĝas en la subjunktiva prezenco kaj en la mi-formo de la indikativa prezenco.
+Kiam la radikofina konsonanto de i- kaj e-verboj ne ŝanĝiĝis, la radikofina vokalo eliziiĝas en la konjunktiva prezenco kaj en la mi-formo de la indikativa prezenco.
 
 <!-- Sekve, la prononco de "tenĭo" ne estas [tenjo] sed [teṅo]. -->
-<!-- La konsonanta radikofino de la mi-formo/subjunktivo difinas la formon en Lingue -->
+<!-- La konsonanta radikofino de la mi-formo/konjunktivo difinas la formon en Lingue -->
 <!-- facĭo [faco] faĉ, lego [lego] leg, venĭo [veṅo] ven ! -->
 <!-- havĭa [havja] hav -->
 <!-- vĭ [j]/[bj] ? -->
@@ -223,19 +223,19 @@ La imperativo estas egala al la indikativa prezenco.
 |-|-|-|-|
 | *kantu!* | | canten! | *canta(te)!* |
 
-La subjunktiva prezenco uziĝas nur kiel volitivo.
+La konjunktiva prezenco uziĝas nur kiel volitivo.
 
 | | | | |
 |-|-|-|-|
 | *mi volas, ke vi kantu* | | mi volan, qŭe tī canten. | *volĭo, qŭe cantes* |
 
-La subjunktiva preterito uziĝas nur kiel infinitivo.
+La konjunktiva preterito uziĝas nur kiel infinitivo.
 
 | | | | |
 |-|-|-|-|
 | *mi volas kanti* | | mi volen cantu | *volĭo cantár* |
 
-La subjunktiva futuro uziĝas nur kiel kondicionalo.
+La konjunktiva futuro uziĝas nur kiel kondicionalo.
 
 | | | | |
 |-|-|-|-|
