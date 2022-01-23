@@ -12,6 +12,16 @@
 | `qa Sa / pI re` | `×`               | `Du lI / nI lI`   | | *cin / vin*  |
 | `vI vI / wI DI` | `Da Da / bo bo`   | `- - / lu -`      | | *lin / ilin* |
 
+Kiam la subjekto aŭ objekto estas *(i)li(n)*, ofte ne gravas ties nombro:
+* ***`mu / mu`*** — (i)li min
+* ***`nu / nu`*** — (i)li nin
+* `Du / nI` — (i)li cin
+* ***`lI / lI`*** — (i)li vin
+* ***`vI vI`*** — mi (i)lin
+* `wI DI` — ni (i)lin
+* ***`Da Da`*** — ci (i)lin
+* ***`bo bo`*** — vi (i)lin
+
 ### *mi / ni — cin / vin*
 
 | | | | |
