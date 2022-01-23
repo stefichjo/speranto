@@ -96,28 +96,17 @@ Kiam **i** kaj **u** estas akcentataj en antaŭlasta pozicio, ili portas makrono
 | *poezio* | **poesīe** *[poezie]* |
 | *tatuo*  | **tatūe**  *[tatue]*  |
 
-### v
-
-Postvokala **-b** kaj **-p** ofte fariĝas **-v** *[v]*.
-
-| | |
-|-|-|
-| *havi*   | **havu**    *[avu]*    |
-| *skribi* | **scrivu**  *[skrivu]* |
-| | |
-| *povra*  | **pauvĕra** *[paŭvra]* |
-| *scii*   | **savu**    *[savu]*   |
-
 ### r
 
-**r** *[r]* prononciĝas *[ĥ]* <!-- ... -->
+**r** prononciĝas *[r]* inter vokaloj aŭ malantaŭ konsonanto. En aliaj okazoj, **r** prononciĝas *[ĥ]*.
 
 | | |
 |-|-|
-| *tero*    | **terre** *[teĥĥe]* |
-| *por*     | **por**   *[poĥ]*   |
-| *reala*   | **reál**  *[ĥeal']* |
-| *malofta* | **rara**  *[ĥara]*  |
+| *tero*    | **terre**  *[teĥĥe]*  |
+| *por*     | **por**    *[poĥ]*    |
+| *reala*   | **reál**   *[ĥeal']*  |
+| *malofta* | **rara**   *[ĥara]*   |
+| *trajno*  | **trâine** *[trajne]* |
 
 ### s, x
 
@@ -192,7 +181,7 @@ Postvokala **-b** kaj **-p** ofte fariĝas **-v** *[v]*.
 
 Kiam la radikofina konsonanto de i- kaj e-verboj ne ŝanĝiĝis, la radikofina vokalo eliziiĝas en la konjunktiva prezenco kaj en la mi-formo de la indikativa prezenco.
 
-<!-- Sekve, la prononco de "tenĭo" ne estas [tenjo] sed [teṅo]. -->
+<!-- TODO Sekve, la prononco de "tenĭo" ne estas [tenjo] sed [teṅo]. -->
 <!-- La konsonanta radikofino de la mi-formo/konjunktivo difinas la formon en Lingue -->
 <!-- facĭo [faco] faĉ, lego [lego] leg, venĭo [veṅo] ven ! -->
 <!-- havĭa [havja] hav -->

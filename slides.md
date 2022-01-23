@@ -712,8 +712,8 @@ Note:
 | |               | **[centro]** | |             | **[ĝentila]** |
 
 Note:
-* Tra bruo, 🅴 **centre** prononciĝas [ĉentre], kaj 🅾 **centro** prononciĝas [centro].
-* Tra bruo, 🅴 **gentila** prononciĝas [ĝentila], kaj 🅾 **gentiła** prononciĝas [dzentila].
+* Tra bruo, 🅴 **centre** [ŧentre] prononciĝas [ĉentre], kaj 🅾 **centro** [sentro] prononciĝas [centro].
+* Tra bruo, 🅴 **gentila** [đentila] prononciĝas [ĝentila], kaj 🅾 **gentiła** [ĵentiŭa] prononciĝas [dzentila].
 
 <!--v-->
 
@@ -952,7 +952,12 @@ Note:
 | 🅴 | **scrivan** | [skrivan]     | | **libre** | [libre]     |
 | 🅾 | **scrivas** | [skrivas]     | | **livro** | [livro]     |
 | | | | | | |
-| |                | **[skribas]** | |           | **[libro]**
+| |                | **[skribas]** | |           | **[libro]** |
+
+Note:
+* 🅰 **tabŭla**, 🅴 **tábla**, 🅾 **távla**
+* verba radiko finiĝanta je **-p**: 🅰 **sape**, 🅴 **saban**, 🅾 **savan**.
+  * tamen ne: 🅰 **face**, 🅴 ~~faĝan~~
 
 <!--v-->
 
@@ -1708,12 +1713,25 @@ kiŭilidzare
 kivilidzar'
 kiviliza' [dz]
 
-ch ph th
-y
-x
+ch ph th y x
 
 zona
 z- [ts] → [dz] → [z]
 -iz-
+legalizare
+
+https://www.treccani.it/enciclopedia/izzare_%28La-grammatica-italiana%29/
+-idiare
+-izzare
+
+memoridiare memoriđjar' memoriĵa'
+polveridiare
+civilidiare
+stabilidiare <> stabilitsare stabilidzar' stabiliza'
+sensibilidiare
+
+bullizzare
+galvanizzare
+
 -->
 
