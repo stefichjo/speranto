@@ -39,7 +39,7 @@ chaH/bIH
 | `cho`        | `tu`    | *me*   | | `Da`        | `bo`   | *him/her/it* |
 | `ju`         | `che`   | *us*   | | `Da`        | `bo`   | *them*       |
 | | | | | | | |
-| *he/she/it*  | *ili*   |        | | *he/she/it* | *ili*  |              |
+| *he/she/it*  | *they*  |        | | *he/she/it* | *they* |              |
 | `mu`         | `mu`    | *me*   | | `Du`        | `nI`   | *you₁*       |
 | `nu`         | `nu`    | *us*   | | `lI`        | `lI`   | *you₂*       |
 
@@ -47,15 +47,15 @@ chaH/bIH
 
 | | | | | | | |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-| *I* ‹ *we*          | | `qa` « `Sa` ‹ `pI` « `re`   | *you₁* « *you₂*  | | **`vI`** ‹ `wI` « `DI`   | *him/her/it* « *them* |
-| *you₁* ‹ *you₂*     | | `cho` « `ju` ‹ `tu` « `che` | *me* « *us*      | | **`Da`** ‹ **`bo`**      | *him/her/it* « *them* |
-| *he/she/it* ‹ *ili* | | **`mu`** « **`nu`**         | *me* « *us*      | | (`Du` ‹ `nI`) « **`lI`** | *you₁* « *you₂*       |
+| *I* ‹ *we*           | | `qa` « `Sa` ‹ `pI` « `re`   | *you₁* « *you₂*  | | **`vI`** ‹ `wI` « `DI`   | *him/her/it* « *them* |
+| *you₁* ‹ *you₂*      | | `cho` « `ju` ‹ `tu` « `che` | *me* « *us*      | | **`Da`** ‹ **`bo`**      | *him/her/it* « *them* |
+| *he/she/it* ‹ *they* | | **`mu`** « **`nu`**         | *me* « *us*      | | (`Du` ‹ `nI`) « **`lI`** | *you₁* « *you₂*       |
 
-#### *ili him/her/it*
+#### *they him/her/it*
 
 | | | |
 |-|-|-|
-| *ili* | `lu` | *him/her/it* |
+| *they* | `lu` | *him/her/it* |
 
 ## Imperative Verb Prefixes
 
