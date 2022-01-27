@@ -1,135 +1,72 @@
 # tlhIngan Hol
 
-## Verb Prefixes
-
-| | | | | |
-|:-:|:-:|:-:|:-:|:-:|
-| *mi / ni*         | *ci / vi*           | *li / ili*          |
-| | | | | |
-| `jI / ma`         | `bI / Su`           | `- / -`             | | |
-| | | | | |
-| `×`               | `cho, ju / tu, che` | `mu, nu / mu, nu`   | | *min, nin*  |
-| `qa, Sa / pI, re` | `×`                 | `Du, lI / nI, lI`   | | *cin, vin*  |
-| `vI, vI / wI, DI` | `Da, Da / bo, bo`   | `-, - / lu, -`      | | *lin, ilin* |
-
-Kiam la subjekto aŭ objekto estas *(i)li(n)*, ofte ne gravas ties nombro:
-
-| | | | | |
-|-|-|-|-|-|
-| *mi (i)lin* | ***`vI`*** | | *(i)li min* | ***`mu`*** |
-| *ci (i)lin* | ***`Da`*** | | *(i)li cin* | `Du (nI)`  |
-| *ni (i)lin* | `wI (DI)`  | | *(i)li nin* | ***`nu`*** |
-| *vi (i)lin* | ***`bo`*** | | *(i)li vin* | ***`lI`*** |
-
-| | |
-|-|-|
-| *li (i)lin*  | ***`-`*** |
-| *ili (i)lin* | `lu (-)`  |
-
-Alikaze, la nombro ĉiam distingiĝas.
-
-| | | | | |
-|-|-|-|-|-|
-| *mi cin, vin* | `qa, Sa` | | *ci min, nin* | `cho, ju` |
-| *ni cin, vin* | `pI, re` | | *vi min, nin* | `tu, che` |
-
-### *mi / ni — cin / vin*
-
-| | | | |
-|-|-|-|-|
-| *mi* | *ni* | | |
-| | | | |
-| `qa` | `pI` | | *cin* |
-| `Sa` | `re` | | *vin* |
-
-### *mi / ni — lin / ilin*
-
-| | | | |
-|-|-|-|-|
-| *mi* | *ni* | | |
-| | | | |
-| `vI` | `wI` | | *lin*  |
-| `vI` | `DI` | | *ilin* |
-
-### *ci / vi — min / nin*
-
-| | | | |
-|-|-|-|-|
-| *ci*   | *vi* | | |
-| | | | |
-| `cho` | `tu`  | | *min* |
-| `ju`  | `che` | | *nin* |
-
-### *ci / vi — lin / ilin*
-
-| | | | |
-|-|-|-|-|
-| *ci* | *vi* |
-| | | | |
-| `Da` | `bo` | | *lin*  |
-| `Da` | `bo` | | *ilin* |
-
-### *li / ilin — min / nin*
-
-| | | | |
-|-|-|-|-|
-| *li* | *ili* |
-| | | | |
-| `mu` | `mu`  | | *min* |
-| `nu` | `nu`  | | *nin* |
-
-### *li / ili — cin / vin*
-
-| | | | |
-|-|-|-|-|
-| *li* | *ili* |
-| | | | |
-| `Du` | `nI`  | | *cin* |
-| `lI` | `lI`  | | *vin* |
-
-### *li / ili — lin / ilin*
-
-| | | | |
-|-|-|-|-|
-| *li* | *ili* |
-| | | | |
-| `-`  | `lu`  | | *lin*  |
-| `-`  | `-`   | | *ilin* |
-
-
-## Imperative Verb Prefixes
-
-### 2. → 1.  `HI hgo / HI gho`
-
-| *ci min/nin!* | *vi min/nin!* |
-|-|-|
-| `HI`         | `HI`         |
-| `gho`        | `gho`        |
-
-### 2.       `yI / pe`
-
-| *ci!* | *vi!* |
-|-|-|
-| `yI` | `pe` |
-
-### 2. → 3.  `yI tI / yI tI`
-
-| *ci lin/ilin!* | *vi lin/ilin!* |
-|-|-|
-| `yI`          | `yI`          |
-| `tI`          | `tI`          |
+## Personal Pronouns
 
 <!--
 
--wIj mia
--lIj cia
--Daj lia
--maj nia
--raj via
--chaj ilia
+ghaH/'oH
+chaH/bIH
+
+-Daj
+-chaj
 
 -->
 
+| | | | | |
+|-|-|-|-|-|
+| *I*    | `jIH` → `ji`   | | *my*    | `wIj` / `wI'` |
+| *we*   | `maH` → `ma`   | | *our*   | `maj` / `ma'` |
+| | | | | |
+| *you₁* | `SoH` → `bI`   | | *your₁* | `lIj` / `lI'` |
+| *you₂* | `tlhIH` → `Su` | | *your₂* | `raj` / `ra'` |
+
+***Summary:***
+
+| | | | | |
+|:-:|:-:|:-:|:-:|:-:|
+| *I* ‹ *we*      | `jIH` ‹ `maH` → `ji` ‹ `ma`   | | *my* ‹ *our*      | `wIj` ‹ `maj` / `wI'` ‹ `ma'` |
+| *you₁* ‹ *you₂* | `SoH` ‹ `tlhIH` → `bI` ‹ `Su` | | *your₁* ‹ *your₂* | `lIj` ‹ `raj` / `lI'` ‹ `ra'` |
+
+## Indicative Verb Prefixes
+
+| | | | | | | |
+|-|-|-|-|-|-|-|
+| *I*          | *we*    |        | | *I*         | *we*   |              |
+| `qa`         | `pI`    | *you₁* | | `vI`        | `wI`   | *him/her/it* |
+| `Sa`         | `re`    | *you₂* | | `vI`        | `DI`   | *them*       |
+| | | | | | | |
+| *you₁*       | *you₂*  |        | | *you₁*      | *you₂* |              |
+| `cho`        | `tu`    | *me*   | | `Da`        | `bo`   | *him/her/it* |
+| `ju`         | `che`   | *us*   | | `Da`        | `bo`   | *them*       |
+| | | | | | | |
+| *he/she/it*  | *ili*   |        | | *he/she/it* | *ili*  |              |
+| `mu`         | `mu`    | *me*   | | `Du`        | `nI`   | *you₁*       |
+| `nu`         | `nu`    | *us*   | | `lI`        | `lI`   | *you₂*       |
+
+***Summary:***
+
+| | | | | | | |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+| *I* ‹ *we*          | | `qa` « `Sa` ‹ `pI` « `re`   | *you₁* « *you₂*  | | **`vI`** ‹ `wI` « `DI`   | *him/her/it* « *them* |
+| *you₁* ‹ *you₂*     | | `cho` « `ju` ‹ `tu` « `che` | *me* « *us*      | | **`Da`** ‹ **`bo`**      | *him/her/it* « *them* |
+| *he/she/it* ‹ *ili* | | **`mu`** « **`nu`**         | *me* « *us*      | | (`Du` ‹ `nI`) « **`lI`** | *you₁* « *you₂*       |
+
+#### *ili him/her/it*
+
+| | | |
+|-|-|-|
+| *ili* | `lu` | *him/her/it* |
+
+## Imperative Verb Prefixes
+
+| | | |
+|:-:|:-:|:-:|
+| *ci!* ‹ *vi!*        | | |
+| | | |
+| `yI` ‹ `pe`          | | |
+| | | |
+| **`HI`** « **`gho`** | | *me* « *us*           |
+| **`yI`** « **`tI`**  | | *him/her/it* « *them* |
 
 ## Orthography
 
@@ -196,14 +133,89 @@ In order not to read `nenghep` (*Age of Ascension*) as *`nengHep`, it can be wri
 |-|
 | ***qajunpaq̂.hey.lij.mó, bał, du:suv.qaŋ ĉarĝ.wí=ìt.***  |
 
-| `ghoqipQo'!` |
-|-|
-| ***ĝo:qip.q̂ó!*** |
+## Noun Suffixes
 
-| `batlhHa' pevangQo'!` |
-|-|
-| ***bał.há, pe:vaŋ.q̂ó!*** |
+### Context Suffixes
+*Type 5 (locative, ...)*
 
-| `batlhHa' Suv SuvwI'vetlh.` |
+| |
 |-|
-| ***bał.há, :suv suv.wí.veł.*** |
+| ***.daq*** |
+| ***.ě***   |
+| ***.mó***  |
+| ***.vad*** |
+| ***.vó***  |
+
+### Identity Suffixes
+*Type 4 (specification, possession)*
+
+| |
+|-|
+| ***vam*** |
+| ***veł*** |
+
+### Qualification Suffixes
+*Type 3 (qualification)*
+
+| |
+|-|
+| ***hey*** |
+| ***ná***  |
+| ***qoq*** |
+
+### Shape Suffixes
+*Type 2 (plural)*
+
+| |
+|-|
+| ***dú***  |
+| ***mey*** |
+| ***pú***  |
+
+### Size Suffixes
+*Type 1 (diminuitive, augmentative, ...)*
+
+| |
+|-|
+| ***ǎ*** |
+| ***hom***  |
+| ***oy*** |
+
+## Verb Suffixes
+
+### Context Suffixes
+*Type 9 (subordinate clause marker)*
+
+| |
+|-|
+| ***.ĉuĝ*** |
+| ***.dí***  |
+| ***.pá***  |
+| ***.vis*** |
+| ***.mó***  |
+
+### Nominalizer Suffixes
+
+wí
+...
+
+### Aspect Suffixes
+*Type 7 (aspect)*
+
+| |
+|-|
+| ***lí***  |
+| ***pú***  |
+| ***tah*** |
+| ***tá***  |
+
+### Qualification Suffixes
+*Type 6 (qualification)*
+
+| |
+|-|
+| ***bá***  |
+| ***bej*** |
+| ***chú*** |
+| ***laẃ*** |
+
