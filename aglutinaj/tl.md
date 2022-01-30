@@ -169,7 +169,7 @@ In order not to read `nenghep` (*Age of Ascension*) as *`nengHep`, it can be wri
 
 | `qajunpaQHeylIjmo' batlh DuSuvqang charghwI' 'It.`         |
 |-|
-| ***qajunpaq̌.hey.lij.mó, bał, du:suv.qaŋ čarǧ.wí=ìt.***  |
+| ***qajunpaq̌heylij.mó, bał, du:suvqaŋ čarǧwí=ìt.***  |
 
 ## Noun Suffixes
 
