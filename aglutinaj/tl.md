@@ -114,19 +114,22 @@ See also: [Rechtschreibreform](http://klingon.wiki/De/Rechtschreibreform)
 
 | | | |
 |-|-|-|
-| *secret of the weapon*  | `nuH pegh`  | `nuH-pegh`  |
-| *enemy's planet*        | `jagh yuQ`  | `jagh-yuQ`  |
+| *secret of the weapon*  | `nuH pegh`      | `nuH-pegh`         |
+| *enemy's planet*        | `jagh yuQ`      | `jagh-yuQ`         |
 | | | |
-| *tired child*           | `puq Doy'`  | `puq=Doy'`  |
-| *big ship*              | `Duj tIn`   | `Duj=tIn`   |
+| *tired child*           | `puq Doy'`      | `puq=Doy'`         |
+| *big ship*              | `Duj tIn`       | `Duj=tIn`          |
 | | | |
-| *I sleep*               | `jIQong`    | `jI:Qong`   |
-| *he sleeps*             | `Qong`      | `:Qong`     |
+| *I sleep*               | `jIQong`        | `jI:Qong`          |
+| *he sleeps*             | `Qong`          | `:Qong`            |
 | | | |
-| *in the room*           | `pa'Daq`    | `pa'.Daq`   |
-| *due to the wind*       | `SuSmo'`    | `SuS.mo'`   |
+| *in the room*           | `pa'Daq`        | `pa'.Daq`          |
+| *due to the wind*       | `SuSmo'`        | `SuS.mo'`          |
 | | | |
-| *Accidentally, ...*     | `bong ...`  | `bong, ...` |
+| *before you eat, ...*   | `bISoppa ...'`  | `bI:Sop.pa', ...`  |
+| *... before you eat*    | `... bISoppa'`  | `... - bI:Sop.pa'` |
+| | | |
+| *eighteen*              | `wa'maH chorgh` | `wa'maH·chorgh`    |
 
 ### Cursive
 
