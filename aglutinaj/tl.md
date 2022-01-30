@@ -27,6 +27,12 @@ chaH/bIH
 | *I* ‹ *we*      | `jIH` ‹ `maH` → `ji` ‹ `ma`   | | *my* ‹ *our*      | `wIj` ‹ `maj` / `wI'` ‹ `ma'` |
 | *you₁* ‹ *you₂* | `SoH` ‹ `tlhIH` → `bI` ‹ `Su` | | *your₁* ‹ *your₂* | `lIj` ‹ `raj` / `lI'` ‹ `ra'` |
 
+| |
+|-|
+| *I rotate*         | `jIjIr`   |
+| *you₁ are cold*    | `bIbIr`   |
+| *we are crazy*     | `mamaw`   |
+
 ## Indicative Verb Prefixes
 
 | | | | | | | |
@@ -51,11 +57,35 @@ chaH/bIH
 | *you₁* ‹ *you₂*      | | `cho` « `ju` ‹ `tu` « `che` | *me* « *us*      | | **`Da`** ‹ **`bo`**      | *him/her/it* « *them* |
 | *he/she/it* ‹ *they* | | **`mu`** « **`nu`**         | *me* « *us*      | | (`Du` ‹ `nI`) « **`lI`** | *you₁* « *you₂*       |
 
+| | |
+|-|-|
+| *I challenge you₁*                      | `qaqaD`   |
+| *I care for you₂*                       | `SaSaD`   |
+| *we expect you₁*                        | `pIpIH`   |
+| | |
+| *I rip him/her/it/them up*              | `vIvIrgh` |
+| *we choose him/her/it*                  | `wIwIv`   |
+| *we pay for him/her/it*                 | `dIdIl`   |
+| | |
+| *you₁ approach me*                      | `chochol` |
+| *you₁ overtake us*                      | `jujuS`   |
+| *you₂ find me*                          | `tutu'`   |
+| | |
+| *you₁/you₂ evesdrop on him/her/it/them* | `DaDaq`   |
+| *you₁/you₂ hinder him/her/it/them*      | `bobot`   |
+| | |
+| *he/she/it/they hate(s) me*             | `mumuS`   |
+| *he/she/it/they execute(s) me*          | `mumuH`   | <!-- -->
+
 #### *they him/her/it*
 
 | | | |
 |-|-|-|
 | *they* | `lu` | *him/her/it* |
+
+| | |
+|-|-|
+| *they yank him/her/it* | `luluH` |
 
 ## Imperative Verb Prefixes
 
@@ -67,6 +97,14 @@ chaH/bIH
 | | | |
 | **`HI`** « **`gho`** | | *me* « *us*           |
 | **`yI`** « **`tI`**  | | *him/her/it* « *them* |
+
+| | |
+|-|-|
+| *(you₁) live!* | `yIyIn!`   |
+| *(you₁) walk!* | `yIyIt!`   | <!-- -->
+| *attack me!*   | `HIHIv!`   |
+| *meet us!*     | `ghoghom!` |
+| *repair them!* | `tItI'!`   |
 
 ## Orthography
 
@@ -120,18 +158,18 @@ chaH/bIH
 
 ### Cursive Markup
 
-In order not to read `nenghep` (*Age of Ascension*) as *`nengHep`, it can be written ***nenĝep*** (≠ ***neŋhep***) instead of *nenghep*. In order not to read `qaQaH` (*I help you*) as *`qaqHaH`, it can be written ***qa:q̂ah*** (≠ ***qa:qhah***) instead of *qaqhah*.
+In order not to read `nenghep` (*Age of Ascension*) as *`nengHep`, it can be written ***nenǧep*** (≠ ***neŋhep***) instead of *nenghep*. In order not to read `qaQaH` (*I help you*) as *`qaqHaH`, it can be written ***qa:q̌ah*** (≠ ***qa:qhah***) instead of *qaqhah*.
 
 | | | | |
 |-|-|-|-|
-| *Age of Ascension* | `nenghep` | *nenghep* | ***nenĝep***   |
-| *I help you.*      | `qaQaH.`  | *qaqhah.* | ***qa:q̂ah.*** |
+| *Age of Ascension* | `nenghep` | *nenghep* | ***nenǧep***   |
+| *I help you.*      | `qaQaH.`  | *qaqhah.* | ***qa:q̌ah.*** |
 
 #### Examples
 
 | `qajunpaQHeylIjmo' batlh DuSuvqang charghwI' 'It.`         |
 |-|
-| ***qajunpaq̂.hey.lij.mó, bał, du:suv.qaŋ ĉarĝ.wí=ìt.***  |
+| ***qajunpaq̌.hey.lij.mó, bał, du:suv.qaŋ čarǧ.wí=ìt.***  |
 
 ## Noun Suffixes
 
@@ -184,30 +222,54 @@ In order not to read `nenghep` (*Age of Ascension*) as *`nengHep`, it can be wri
 ## Verb Suffixes
 
 ### Context Suffixes
-*Type 9 (subordinate clause marker)*
+*Type 9 (subordinate, relative, purpose clause marker)*
 
 | |
 |-|
-| ***.ĉuĝ*** |
+| ***.čuǧ*** |
 | ***.dí***  |
 | ***.pá***  |
 | ***.vis*** |
 | ***.mó***  |
 
-### Nominalizer Suffixes
+| |
+|-|
+| ***.boǧ*** |
 
-wí
-...
+| |
+|-|
+| ***.meh*** |
+
+### Nominalizer Suffixes
+*Type 9 (nominalizer)*
+
+| |
+|-|
+| ***.ǧač*** |
+| ***.wí*** |
+
+### ... Suffixes
+*Type 9*
+
+| |
+|-|
+| ***.jaj*** |
+| ***.ǎ*** |
+
+### ... Suffixes
+*Type 8 (honorific)*
+
+| |
+|-|
+| ***.nes*** |
 
 ### Aspect Suffixes
 *Type 7 (aspect)*
 
 | |
 |-|
-| ***lí***  |
-| ***pú***  |
-| ***tah*** |
-| ***tá***  |
+| ***pú***, ***tá***  |
+| ***tah***, ***lí*** |
 
 ### Qualification Suffixes
 *Type 6 (qualification)*
@@ -219,3 +281,32 @@ wí
 | ***chú*** |
 | ***laẃ*** |
 
+### ... Suffixes
+*Type 5 (indefinite subject)*
+
+| |
+|-|
+| ***.lú*** |
+
+### Auxiliary Suffixes
+*Type 2 (volitive, predisposition)*
+
+| |
+|-|
+| ***.nis*** |
+| ***.qang*** |
+
+| |
+|-|
+| ***.beh*** |
+| ***.rup*** |
+
+| |
+|-|
+| ***.vip*** |
+
+<!-- 
+po morning
+q̌i bridge
+
+ -->
