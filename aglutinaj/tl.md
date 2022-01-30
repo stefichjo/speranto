@@ -108,6 +108,8 @@ chaH/bIH
 
 ## Orthography
 
+See also: [Rechtschreibreform](http://klingon.wiki/De/Rechtschreibreform)
+
 ### Markup
 
 | | | |
