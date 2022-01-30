@@ -133,7 +133,7 @@ See also: [Rechtschreibreform](http://klingon.wiki/De/Rechtschreibreform)
 
 ### Cursive
 
-**Lowercase:**
+**Uppercase:**
 
 | | | |
 |-|-|-|
@@ -147,7 +147,7 @@ See also: [Rechtschreibreform](http://klingon.wiki/De/Rechtschreibreform)
 | | | |
 | *power*  | `woQ`  | *woqh* |
 
-**Diacritics:**
+**Glottal Stop:**
 
 | | | |
 |-|-|-|
@@ -163,12 +163,17 @@ See also: [Rechtschreibreform](http://klingon.wiki/De/Rechtschreibreform)
 
 ### Cursive Markup
 
-In order not to read `nenghep` (*Age of Ascension*) as *`nengHep`, it can be written ***nenǧep*** (≠ ***neŋhep***) instead of *nenghep*. In order not to read `qaQaH` (*I help you*) as *`qaqHaH`, it can be written ***qa:q̌ah*** (≠ ***qa:qhah***) instead of *qaqhah*.
+**Three Digraphs and One Trigraph:**
 
-| | | | |
-|-|-|-|-|
-| *Age of Ascension* | `nenghep` | *nenghep* | ***nenǧep***   |
-| *I help you.*      | `qaQaH.`  | *qaqhah.* | ***qa:q̌ah.*** |
+| | | |
+|-|-|-|
+| *building*   | `qach`  | *qach* / *qač*         |
+| | | |
+| *five*       | `vagh`  | *vagh* / *vaǧ*         |
+| | | |
+| *torpedo*    | `peng`  | *peng* / *peŋ*         |
+| | | |
+| *honor*      | `batlh` | *bakl* / *bak* / *bał* |
 
 #### Examples
 
