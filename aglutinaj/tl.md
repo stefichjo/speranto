@@ -165,15 +165,15 @@ See also: [Rechtschreibreform](http://klingon.wiki/De/Rechtschreibreform)
 
 **Three Digraphs and One Trigraph:**
 
-| | | |
-|-|-|-|
-| *building*   | `qach`  | *qach* / *qač*         |
-| | | |
-| *five*       | `vagh`  | *vagh* / *vaǧ*         |
-| | | |
-| *torpedo*    | `peng`  | *peng* / *peŋ*         |
-| | | |
-| *honor*      | `batlh` | *bakl* / *bak* / *bał* |
+| | | | |
+|-|-|-|-|
+| *building*   | `qach`  | *qach* | *qač* |
+| | | | |
+| *five*       | `vagh`  | *vagh* | *vaǧ* |
+| | | | |
+| *torpedo*    | `peng`  | *peng* | *peŋ* |
+| | | | |
+| *honor*      | `batlh` | *bakl* | *bał* |
 
 #### Examples
 
