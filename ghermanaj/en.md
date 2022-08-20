@@ -2,24 +2,6 @@
 
 # Võc̆als
 
-## +l
-
-Except for lẽnwørds, short **a** befor **l** is pronũnced lik **au**. đē **l** in **lk** is mut.
-
-* *păl* [pæl]: **păl**
-* *ball* [bɔ:l]: **ball**
-* *talk* [tɔ:k]: **talk** = **tałk**
-* *salt* [sɔ:lt]: **salt**
-
-Befor **l**, short **o** is pronũnced lik lång **o**.
-
-* *rōle* [rəʊ̯l]: **rol**
-* *rŏll* [rəʊ̯l]: **roll** = **rōll**
-
-Befor **ld**, **a** is pronũnced lik **o**.
-
-* *ŏld* [əʊ̯ld]: **ald** = **åld**
-
 ## +r
 
 ### Lång Võc̆als and Diphthongs
@@ -118,12 +100,12 @@ Instead of *kk*, *ck* is used.
 
 In many words the pronunciation of the short *a* is [a] instead of [æ].
 
-| | |
-|-|-|
-| *ȃsk*    | [ask] |
-| *bȃth*   | [baθ] |
-| *chȃnce* | [tʃans] |
-| *dȃnce*  | [dans] |
+| | | |
+|-|-|-|
+| *ask*    | *ȃsk*    | [ask] |
+| *bath*   | *bȃth*   | [baθ] |
+| *chance* | *chȃnce* | [tʃans] |
+| *dance*  | *dȃnce*  | [dans] |
 
 #### e
 
@@ -231,6 +213,7 @@ In many cases, a long *e* [i:] comes from a Germanic *au*, *o*, *ai*, *i* or *y*
 | *bleach*  | *blǣch*   | [bli:tʃ] |
 | *bleed*   | *blød*    | [bli:d] |
 | *breach*  | *brȳch*   | [bri:tʃ] |
+| *deal*    | *dæl*     | [di:l] |
 | *dear*    | *dyr*     | [dɪə̯] |
 | *dream*   | *drøm*    | [dri:m] |
 | *free*    | *frī*     | [fri:] |
@@ -298,6 +281,7 @@ In many cases, a diphthong *o* [oʊ̯] comes from a Germanic *ai* ur *u*.
 | *blow*  | *blæ̃*   | [bloʊ̯] |
 | *boat*  | *bæ̃t*   | [boʊ̯t] |
 | *bone*  | *bæ̃n*   | [boʊ̯n] |
+| *dole*  | *dæ̃l*   | [doʊ̯l] |
 | *go*    | *gæ̃*    | [goʊ̯] |
 | *goat*  | *gæ̃t*   | [goʊ̯t] |
 | *home*  | *hæ̃m*   | [hoʊ̯m] |
@@ -335,15 +319,20 @@ The diphthong *u* [ɑʊ̯] is often written *ou* without a "magic -e-".
 
 | | | |
 |-|-|-|
-| *foul*  | *fũl*   | [fɑʊ̯l] |
-| *house* | *hũs*   | [hɑʊ̯s] |
-| *loud*  | *lũd*   | [lɑʊ̯d] |
-| *mouse* | *mũs*   | [mɑʊ̯s] |
-| *mouth* | *mũnth* | [mɑʊ̯θ] | <!-- nth -->
-| *now*   | *nũ*    | [nɑʊ̯] |
-| *out*   | *ũt*    | [ɑʊ̯t] |
-| *sound* | *sũnd*  | [sɑʊ̯nd] |
-| *south* | *sũnth* | [sɑʊ̯θ] | <!-- nth -->
+| *foul*   | *fũl*   | [fɑʊ̯l] |
+| *found*  | *fũnd*  | [fɑʊ̯nd] |
+| *ground* | *grũnd* | [grɑʊ̯nd] |
+| *house*  | *hũs*   | [hɑʊ̯s] |
+| *loud*   | *lũd*   | [lɑʊ̯d] |
+| *mouse*  | *mũs*   | [mɑʊ̯s] |
+| *mouth*  | *mũnth* | [mɑʊ̯θ] | <!-- nth month -->
+| *now*    | *nũ*    | [nɑʊ̯] |
+| *out*    | *ũt*    | [ɑʊ̯t] |
+| *owl*    | *ũl*    | [ɑʊ̯l] |
+| *round*  | *rũnd*  | [rɑʊ̯nd] |
+| *sound*  | *sũnd*  | [sɑʊ̯nd] |
+| *south*  | *sũnth* | [sɑʊ̯θ] | <!-- nth -->
+| *town*   | *tũn*   | [tɑʊ̯n] |
 
 ### Magic -w-
 
@@ -365,6 +354,72 @@ A "magic -w-" with an *a* is pronounced [ɔ:], instead of [eɪ̯].
 | *gnaw* | [nɔ:] |
 | *hawk* | [hɔ:k] |
 | *raw*  | [rɔ:] |
+
+### Magic -l-
+
+Short *a* before *l* is pronounced [ɔ:] in Germanic words.
+
+| | |
+|-|-|
+| *all*  | [ɔ:l] |
+| *ball* | [bɔ:l] |
+| *call* | [kɔ:l] |
+| *fall* | [fɔ:l] |
+| *hall* | [hɔ:l] |
+| *mall* | [mɔ:l] |
+| *tall* | [tɔ:l] |
+| *wall* | [wɔ:l] |
+| | |
+| *halt* | [hɔ:lt] |
+| *salt* | [sɔ:lt] |
+| *Walt* | [wɔ:lt] |
+
+| | | |
+|-|-|-|
+| *assault* | *assalt* | [əˈsɔ:lt] |
+| *fault*   | *falt*   | [fɔ:lt] |
+| *vault*   | *vȏlt*   | [vɔ:lt] |
+
+| | | |
+|-|-|-|
+| *ballet* | *băllẽt* | [ˈbæleɪ̯] |
+| *pal*    | *păl*    | [pæl] |
+| *valley* | *vălley* | [ˈvælɪ] |
+
+The *l* in *alk* and *alm* is mute.
+
+| | |
+|-|-|-|
+| *chalk* | [tʃɔ:k] |
+| *talk*  | [tɔ:k] |
+| *walk*  | [wɔ:k] |
+| | |
+| *ālmond* | [ˈɑ:mənd] |
+| *cālm*   | [kɑ:m] |
+| *pālm*   | [pɑ:m] |
+| *psālm*  | [sɑ:m] |
+
+Short *o* before *l* is pronounced [oʊ̯] in Germanic words.
+
+| | |
+|-|-|-|
+| *bolt* | [boʊ̯lt] |
+
+| | | |
+|-|-|-|
+| *bold* | *båld* | [boʊ̯ld] |
+| *cold* | *kåld* | [koʊ̯ld] |
+| *fold* | *fåld* | [foʊ̯ld] |
+| *old*  | *åld*  | [oʊ̯ld] |
+| *sold* | *såld* | [soʊ̯ld] |
+| | | |
+| *colt* | *kůlt* | [koʊ̯lt] |
+
+| | | |
+|-|-|-|
+| *doll*   | *dŏll*   | [dɒl] |
+
+<!-- whilch -->
 
 #### Magic -gh-
 
@@ -471,7 +526,7 @@ Instead of a "magic -gh-" with *e*, an -ai-/-ay- is often used. Note that a "mag
 |-|-|-|
 | *arrow*    | *argh*    | [æroʊ̯] |
 | *follow*   | *folgh*   | [ˈfɒloʊ̯] |
-| *sorrow*   | *sorgh*   | [ˈsɒloʊ̯] |
+| *sorrow*   | *sorgh*   | [ˈsɒroʊ̯] |
 | *tomorrow* | *tomorgh* | [təˈmɒroʊ̯] |
 
 ##### -gh- [ʊ̯]
@@ -485,14 +540,18 @@ Germanic *gh* is sometimes equivalent to *w* and written as *ugh*. *aught* and *
 | *flaw*      | *flaǧh*    | [flɔ:] |
 | *saw*       | *saǧh*     | [sɔ:] |
 | | | |
-| *aught*     | *aǧht*     | [ɔ:t] |
-| *brought*   | *braǧht*   | [brɔ:t] |
 | *caught*    | *caǧht*    | [brɔ:t] |
-| *daughter*  | *daǧhter*  | [dɔ:tə] |
-| *fought*    | *faǧht*    | [fɔ:t] |
 | *fraught*   | *fraǧht*   | [frɔ:t] |
+| *naught*    | *naǧht*    | [nɔ:t] |
 | *slaughter* | *slaǧhter* | [slɔ:tə] |
-| *thought*   | *thaǧht*   | [θɔ:t] |
+| | | | <!-- Explanation for oǧh is needed. -->
+| *fought*    | *foǧht*    | [fɔ:t] |
+| *sought*    | *soǧht*    | [slɔ:tə] |
+| *thought*   | *thoǧht*   | [θɔ:t] |
+| | | |
+| *brought*   | *braǧht*   | [brɔ:t] |
+| *daughter*  | *doǧhter*  | [dɔ:tə] |
+| *ought*     | *aǧht*     | [ɔ:t] |
 
 ##### -gh- [f]
 
@@ -582,7 +641,6 @@ The long *e* [i:] can be spelled as *ea* in Germanic words.
 
 The long vowels
 
-<!-- cåll  kɔ:l -->
 <!-- cāłm  kɑ:m -->
 
 <!-- TODO African American Vernacular English, AE, Good Speech, BE (RP), Cockney -->
@@ -590,8 +648,6 @@ The long vowels
 <!-- ˈkeri ˈkærɪ ˈkæri -->
 
 <!-- * *strēet* [stri:t]: **stræt** -->
-
-<!-- å (long, olde) ist intergermanisch interessant, aber innerhalb des Englischen schwer vermittelbar/motivierbar, es sei denn, man erhebt "Old English" als wichtigen Meilenstein, der in die Rechtschreibung integriert werden soll. -->
 
 <!-- why whĩ -->
 <!-- how whũ -->
@@ -633,3 +689,9 @@ allæ̃n
 -->
 
 <!-- * *côme* [kʌm]: **kômm** -->
+
+<!-- 
+hæ̃l (whole)
+hælth (health)
+-->
+
