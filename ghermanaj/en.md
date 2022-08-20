@@ -2,142 +2,6 @@
 
 # Võc̆als
 
-Võc̆als befor twǒ consonants or mẽer ar short. Befor ên consonant or løss đȇ ar lång.
-
-* *lĭck* [lɪk]: **likk**
-* *līke* [laɪ̯k]: **lik**
-
-All võc̆als ar normallïg diphthongized whæn đȇ ar lång, except for [i:] **e**.
-
-* *ēat* [i:t]: **et**
-* *tēa* [ti:]: **tee**
-
-Nōt đat lång **e** at đē end åv ȇ wørd is written **ee**.
-
-* *thĕ* [ðə]: **đe**
-* *thē* [ði:]: **đē**
-
-Even ȇ lång [ju:] **u** is slightlïg diphthongized except âg̊hter **l** or **r**.
-
-* *yoū* [ju:]: **u**
-* *glūe* [glu:]: **glu**
-* *trūe* [tru:]: **tru**
-* *rǒom* [ru:m]: **rum**
-
-Lång [əʊ̯] **o** is pronũnced [oʊ̯] in American.
-
-* *sō* [səʊ̯] → [soʊ̯]: **so**
-
-## æ, ø, y
-
-**æ** and **ø** ar pronũnced lik **e** [e]/[i:], wharas short and lång **y** ar pronũnced lik [ɪ]/[aɪ̯̯] **i**. Diphthongized **ø̃** and **ỹ** ar pronũnced lik diphthongized **ĩ**.
-
-* *strēet* [stri:t]: **stræt**
-* *mĕn* [men]: **mænn**
-* *fēel* [fi:l]: **føl**
-* *blēed* [bli:d]: **blød**
-* *swēet* [swi:t]: **swøt**
-* *brĕad* [bred]: **brødd**
-* *dēar* [di:r]: **dyr**
-* *sĭn* [sɪn]: **synn**
-* *līght* [laɪ̯t]: **lỹght**
-* *eȳe* [aɪ̯]: **ø̃g**
-
-## â, ô, û
-
-Whæn **a** is pronũnced [ʌ]/[ɑ:], it is written **â**.
-
-* *sôme* [sʌm]: **sâmm**
-* *fâther* [ˈfɑ:ðəʳ]: **fâđer**
-
-Lång **â** is often pronũnced lik short **a** in American.
-
-* *bâth* [bɑ:θ] → [bæθ]: **bâđ**
-
-Whæn short **o** is pronũnced [ʌ], it is written **ô**.
-
-* *môther* [ˈmʌðəʳ]: **môđer**
-* *bloôd* [blʌd]: **blôdd**
-
-Short **o** is pronũnced lik lång **â** in American.
-
-* *dŏg* [dɒg] → [dɑ:g]: **dogg**
-
-Short **u** is normallïg pronũnced [ʌ]. Whæn it is pronũnced [ʊ], it is written **ǔ**.
-
-* *sûn* [sʌn]: **sunn** = **sûnn**
-* *pǔt* [pʊt]: **pǔtt**
-
-## å, ȏ
-
-Whæn **a** is pronũnced lik **o**, it is written **å**.
-
-* *ŏn* [ɒn]: **ån**
-* *ŏf* [ɒv]: **åv**
-* *lŏng* [lɒŋ]: **lång**
-* *sŏng* [sɒŋ]: **sång**
-* *wrŏng* [rɒŋ]: **wrång**
-
-Âg̊hter **w** and **qu**, short **a** is allweġs pronũnced like **o**.
-
-* *wånt* [wɒnt]: **want** = **wånt**
-* *quåntity* [ˈkwɒntəti]: **quantitä** = **quåntitä**
-* *wås* [wɒz]: **was** = **wåss**
-* *wĕre* [wɜ:ʳ]: **wer** = **werr**
-* *wăr* [wɔ:ʳ]: **warr** = **wårr**
-* *wāre* [weəʳ]: **wār**
-
-Whæn **o** is pronũnced lik **a**, it is written **ȏ**.
-
-* *greāt* [greɪ̯t]: **grȏt**
-
-## ǒ, ů
-
-Whæn **o** is pronũnced lik **u**, it is written **ǒ**. (Nōt đat lång **ǒ** isn't diphthongized at all.)
-
-* *bǒok* [bʊk]: **bǒkk**
-* *tǒ* [tu:]: **tǒ**
-
-Whæn **u** is pronũnced lik **o**, it is written **ů**.
-
-* *gŏd* [gɒd]: **gůd**
-
-## ė, ï
-
-Whæn **e** is pronũnced lik **i**, it is written **ė**.
-
-* *sĭster* [ˈsɪstəʳ]: **sw̌ėster**
-
-Whæn **i** is pronũnced lik **e**, it is written **ï**.
-
-* *mē* [mi:]: **mï**
-* *wēek* [wi:k]: **wïk**
-* *frēe* [fri:]: **frï**
-* *shiēld* [ʃi:ld]: **shïld**
-
-## ẽ, õ
-
-Protogermanic "ai" [aɪ̯] is pronũnced lik lång **ō**. It is written **ẽ**.
-
-* *hōme* [həʊ̯m]: **hẽm**
-* *stōne* [stəʊ̯n]: **stẽn**
-* *gō* [gəʊ̯]: **gẽ**
-
-Whæn protogermanic "ai" [aɪ̯] is pronũnced [wʌ], it is written **ê**.
-
-* *ône* [wʌn]: **ên**
-* *ōnly* [ˈəʊ̯nli]: **ẽnlïg** = **ẽnlïk̆**
-
-Protogermanic "au" [aʊ̯] is pronũnced lik diphthongized **ũ**. It is written **õ**.
-
-* *sõund* [saʊ̯nd]: **sõnd**
-
-## +u
-
-Đe diphthong **au** is monophthongized tǒ [ɔ:]. Normallïg, it is pronũnced lik lång **â** in American.
-
-* *pause* [pɔ:z] → [pɑ:z]: **paus**
-
 ## +l
 
 Except for lẽnwørds, short **a** befor **l** is pronũnced lik **au**. đē **l** in **lk** is mut.
@@ -202,8 +66,6 @@ In American đōgh, short **a** and **u** befor **r** ar allweġs pronũnced [e]
 Đe **e** in endings disappärs.
 
 * *hĕard* [hɜ:d]: **hørred** = **hørrĕd** = **hørr'd** = **hørd**
-* *bōrn* [bɔ:n]: **boren** = **borĕn** = **bor'n** = **born**
-* *sēen* [si:n]: **sehen** = **sehĕn** = **seh'n** = **sehn**
 * *sōul* [səʊ̯l]: **sẽel** = **sẽĕl** = **sẽ'l** = **sẽl**
 * *mōre* [mɔ:ʳ]: **mẽer** = **mẽĕr** = **mẽ'r** = **mẽr**
 * *mōst* [məʊ̯st]: **mẽest** = **mẽĕst** = **mẽ'st** = **mẽst**
@@ -226,34 +88,7 @@ In American đōgh, short **a** and **u** befor **r** ar allweġs pronũnced [e]
 * *thȇre* [ðeəʳ]: **đar**
 * *thĭng* [θɪŋ]: **thing**
 
-...
-
-* *bāthe* [beɪ̯ð]: **bāđ**
-* *bâth* [bɑ:θ]: **bâđ**
-* *lōath* [ləʊ̯θ]: **lẽđ**
-* *wråth* [rɒθ]: **wråđ**
-* *lĕather* [ˈleðəʳ]: **leđer**
-
-...
-
 * *mărch* [mɑ:tʃ]: **marẑ**
-
-## g
-
-Âg̊hter lång võc̆als, **g** is mut.
-
-* *dāy* [deɪ̯]: **dag** = **dāğ**
-* *nāil* [neɪ̯l]: **nagel** = **nāğel**
-* *ōwn* [əʊ̯n]: **ẽgen** = **ẽğen**
-* *fõwl* [faʊ̯l]: **fũgel** = **fũğel**
-* *bōw* [bəʊ̯]: **bog** = **bōğ**
-* *bõw* [baʊ̯]: **bõg** = **bõğ**
-* *dōuğh* [dəʊ̯]: **dẽg** = **dẽğ**
-* *window* [ˈwɪndəʊ̯]: **windog** = **windōğ**
-* *līe* [laɪ̯]: **lỹg** = **lỹğ**
-  * *līar* [ˈlaɪ̯əʳ]: **lỹger** = **lỹğer**
-* *lȳe* [laɪ̯]: **lø̃g** = **lø̃ğ**
-* *rȳe* [raɪ̯]: **rỹg** = **rỹğ**
 
 ### ğ
 
@@ -268,118 +103,7 @@ Whæn **g** is mut in ôđer positions, it is written **ğ**.
 
 ### ġ
 
-Âg̊hter short **e**, **g** is pronũnced [ɪ̯] and written **ġ**.
-
-* *wāy* [weɪ̯]: **weġ** = **wegg**
-* *sāil* [seɪ̯l]: **seġel** = **seggel**
-* *rāin* [reɪ̯n]: **reġen** = **reggen**
-* *līe* [laɪ̯]: **lig**
-  * *lāy* [leɪ̯]: **lag**
-  * *lāin* [leɪ̯n]: **leġen**
-* *lāy* [leɪ̯]: **leġ**
-  * *lāid* [leɪ̯]: **leġed**
-  * *lāyer* [ˈleɪ̯əʳ]: **leġer**
-* *sāy* [seɪ̯]: **seġ**
-  * *säid* [sed]: **seğğed**
-* *prāy* [preɪ̯]: **preġ**
-
-Whæn **g** is pronũnced [j], it is written **ġ**.
-
-* *yĕsterdāy* [ˈjestədeɪ̯]: **ġesterdag**
-
-### g̊
-
-Âg̊hter **l** and **r**, **g** is pronũnced [əʊ̯] and written **g̊**.
-
-* *fŏllōw* [ˈfɒləʊ̯]: **folg̊**
-* *sŏrrōw* [ˈsɒrəʊ̯]: **sorg̊**
-* *tǒmŏrrōw* [təˈmɒrəʊ̯]: **tǒmorg̊**
-
----
-**Tim fligs lik ȇn arg̊.**
-
----
-
-### ĝ
-
-* *brĭdge* [brɪʤ]: **bryĝ** = **bryĝg**
-* *rĭdge* [rɪʤ]: **ryĝ** = **ryĝg**
-* *mĭdge* [mɪʤ]: **myĝ** = **myĝg**
-* *ĕdge* [eʤ] **eĝ** = **eĝg**
-* *hĕdge* [heʤ]: **heĝ** = **heĝg**
-* *slĕdge* [sleʤ]: **sleĝ** = **sleĝg**
-
-### ḡ
-
-* *bĕg* [beg]: **beḡg**
-* *lĕg* [beg]: **læḡg**
-
-## h
-
-Whæn protogermanic "h"* is mut, it is written **h**.
-
-* *thōuğh* [ðəʊ̯]: **đōh** = **đōğh**
-  
-**a** befor **h** is pronũnced lik **au**.
-
-* *sēe* [si:]: **seh**
-  * *saw* [sɔ:]: **sah**
-  * *sēen* [si:n]: **sehen**
-
-## gh
-
-Whæn protogermanic "g" or "h"* is pronũnced [f], it is written **gh**.
-
-* *ēnôugh* [ɪˈnʌf]: **ğēnôgh**
-* *rôugh* [rʌf]: **rugh**
-* *tôugh* [tʌf]: **tugh**
-
-**gh** befor **t** is allweġs mut. **i** befor **ght** is allweġs lång.
-
-* *nīğht* [naɪ̯t]: **night** = **nĩğht**
-* *sēe* [si:]: **seh**
-  * *sīğht* [saɪ̯t]: **sight** = **sĩğht**
-* *līğht* [laɪ̯t]: **lỹght**
-  * *lĭğht* [lɪt]: **lĭght** = **litt**
-
-**a** befor **ght** is pronũnced lik **au**.
-
-* *ōwe* [əʊ̯]: **åg**
-  * *ȏuğht* [ɔ:t]: **aght**
-* *brĭng* [brɪŋ]: **bring**
-  * *brȏuğht* [brɔ:t]: **braght** = **brağht**
-* *thĭnk* [θɪŋk]: **think**
-  * *thȏuğht* [θɔ:t]: **thaght** = **thağht**
-* *tēach* [ti:tʃ]: **tēꝁ**
-  * *tauğht* [tɔ:t]: **taght** = **tağht**
-* *nauğht* [nɔ:t]: **naght**
-  * *nŏt* [nɒt]: **någht** = **nåt** = **nott**
-
-...
-
-* *līğht* [laɪ̯t]: **light**
-* *brīğht* [braɪ̯t]: **bright**
-* *fīğht* [faɪ̯t]: **fight**
-* *plīğht* [plaɪ̯t]: **plight**
-* *rīğht* [raɪ̯t]: **right**
-* *mīğht* [maɪ̯t]: **might**
-* *slīğht* [slaɪ̯t]: **slight**
-* *fēar* [fɪəʳ]: **fyr**
-  * *frīğht* [fraɪ̯t]: **frỹght**
-* *slāy* [sleɪ̯]: **slag**
-  * *sleŵ* [slu:]: **slug**
-  * *slāin* [sleɪ̯n]: **slagen**
-  * *slauğhter* [ˈslɔ:təʳ]: **slaghter**
-* *flȳ* [flaɪ̯]: **flig**
-  * *fleŵ* [flu:]: **flug**
-  * *flōwn* [fləʊ̯n]: **flogen**
-  * *flīght* [flaɪ̯t]: **flight**
-
-### g̊h
-
-Whæn **gh** in **ght** is pronũnced [f], it is written **g̊h**.
-
-* *âg̊hter* [ˈɑ:ftəʳ]: **âg̊hter**
+<!-- yesterday ġesterdagh -->
 
 ## j
 
@@ -402,21 +126,6 @@ Whæn **gh** in **ght** is pronũnced [f], it is written **g̊h**.
 * *māke* [meɪ̯k]: **mak**
 * *côme* [kʌm]: **kômm**
 
-### k̆
-
-* *knīght* [naɪ̯t]: **knight** = **k̆nĩğht**
-
-...
-
-* *cŏugh* [kɒf]: **kok̆h** = **kogh**
-* *lâugh* [lɑ:f]: **lâk̆h** = **lâgh**
-  * *lâugh* [ˈlɑ:ftəʳ]: **lâk̆hter** = **lâghter** = **lâg̊hter**
-
-...
-
-* *Ī* [aɪ̯]: **ig** = **ik̆**
-* *-ly* [li]: **-lïg** = **-lïk̆**
-
 ### ꝁ
 
 * *ĉheŵ* [tʃu:]: **ꝁu** = **khu**
@@ -432,15 +141,6 @@ Whæn **gh** in **ght** is pronũnced [f], it is written **g̊h**.
   * *dâñce* [dɑ:nts]: **dâñs**
 * *ĉhânce* [tʃɑ:ns]: **ĉâns**
   * *ĉhâñce* [tʃɑ:nts]: **ĉâñs**
-
-...
-
-* *mǒon* [mu:n]: **mǒnđ** = **mǒn**
-* *sõuth* [saʊ̯θ]: **sũñđ** = **sũth**
-* *mõuth* [maʊ̯θ]: **mũñđ** = **mũth**
-* *tōoth* [tu:θ]: **tǎñđ** = **tǎth**
-
-...
 
 * *fīve* [faɪ̯v]: **fīñf** = **fīm̃f**
 
@@ -487,12 +187,519 @@ Whæn **gh** in **ght** is pronũnced [f], it is written **g̊h**.
 |      | | | | | | | | | |
 |      | | [ə] | [ɜ:] | |       |       | | [ɔɪ̯] |       |
 
-<!-- ȃsk   ask  -->
-<!-- lȏve  lʌv  -->
-<!-- fȗn   fʌn  -->
+### Consonant Clusters: Short Vowels
+
+After more than one consonant, a vowel is short.
+
+| | |
+|-|-|
+| *mass* | [mæs] |
+| *tell* | [tel] |
+| *wind* | [wɪnd] |
+| *lock* | [lɒk] |
+| *push* | [pʊʃ] |
+
+Double consonants except *ff*, *ll*, *ss*, *zz* are written only once at the end of a word. (Cf. *man* and *manned*, *web* and *webbed*, *rim* and *rimmed*, *log* and *logged*, *put* and *putting*.)
+
+| | |
+|-|-|
+| *man* | [mæn] |
+| *web* | [web] |
+| *rim* | [rɪm] |
+| *log* | [lɒg] |
+| *put* | [pʊt] |
+
+Instead of *kk*, *ck* is used.
+
+| | |
+|-|-|
+| *kick* | [kɪk]  |
+
+| | | |
+|-|-|-|
+| *trek* | *treck* | [trek] |
+
+#### a
+
+In many words the pronunciation of the short *a* is [a] instead of [æ].
+
+| | |
+|-|-|
+| *ȃsk*  | [ask] |
+| *bȃth* | [baθ] |
+
+#### e
+
+Some short *e* [e] come from Germanic *au*.
+
+| | | |
+|-|-|-|
+| *bread*  | *bröd*    | [bred] |
+| *red*    | *röd*     | [red] |
+| | |
+| *dreamt* | *drømmed* | [dremt] |
+
+<!-- äny, mäny ain -->
+<!-- * *ône* [wʌn]: **ên** -->
+<!-- * *ōnly* [ˈəʊ̯nli]: **ẽnlïg** = **ẽnlïk̆** -->
+
+#### i
+
+Some short *i* [ɪ] comes from Germanic *y*.
+
+| | | |
+|-|-|-|
+| *kin*  | *kyn* | [kɪn] |
+| *sin*  | *syn* | [sɪn] |
+
+#### o
+
+Some short *o* [ɒ] comes from Germanic *a*.
+
+| | | |
+|-|-|-|
+| *long* | *lång* | [lɒŋ] |
+| *song* | *sång* | [sɒŋ] |
+
+After *qu* and *w*, short *a* is pronounced like short *o* [ɒ].
+
+| | |
+|-|-|
+| *want* | [wɒnt] |
+| *was*  | [wɒz] |
+
+<!-- 
+* *quåntity* [ˈkwɒntəti]: **quantitä** = **quåntitä**
+* *wĕre* [wɜ:ʳ]: **wer** = **werr**
+* *wăr* [wɔ:ʳ]: **warr** = **wårr**
+* *wāre* [weəʳ]: **wār**
+ -->
+
+#### u
+
+Some short *u* [ʊ] comes from Germanic *o*.
+
+| | | |
+|-|-|-|
+| *book*  | *bǒk*   | [bʊk] |
+| *foot*  | *fǒt*   | [fʊt] |
+| *look*  | *lǒk*   | [lʊk] |
+| *shook* | *shǒk*  | [ʃʊk] |
+| *took*  | *tǒk*   | [tʊk] |
+
+Short *o* and *u* are often pronounced [ʌ] instead of [ʊ].
+
+| | |
+|-|-|
+| *sôn* | [sʌn] |
+| *sûn* | [sʌn] |
+
+| | |
+|-|-|
+| *blood* | *blôd* | [blʌd] |
+
+### Magic -e-: Long Vowels and Diphthongs
+
+The "magic -e-" at the end of a word turns the short vowels *ă* [æ], *ĕ* [e], *ĭ* [ɪ], *ŏ* [ɒ], *ŭ* [ʊ] into their long/diphthong counterparts *ã* [eɪ̯], *ē* [i:], *ĩ* [aɪ̯], *õ* [oʊ̯], ū [ju:]. (These are the names of the letters *a*, *e*, *i*, *o*, *u*.)
+
+| | | | | | | | |
+|-|-|-|-|-|-|-|-|
+| *Kate* | [keɪ̯t]  | | *Mae* | [meɪ̯]  | | *?* | [?] |
+| *Pete* | [pi:t]  | | *bee* | [bi:]  | | *be* | [bi:] |
+| *Mike* | [maɪ̯k]  | | *lie* | [laɪ̯]  | | *by* | [baɪ̯] |
+| *note* | [noʊ̯t]  | | *Joe* | [ʤoʊ̯]  | | *no* | [noʊ̯] |
+| *tune* | [tju:n] | | *due* | [dju:] | | *?* | [?] |
+
+<!-- seed seed/sede/sēd / sæd? -->
+
+#### a
+
+| | |
+|-|-|
+| *bathe* | [beɪ̯ð] |
+
+| | | |
+|-|-|-|
+| *great* | *grȏte* | [greɪ̯t] |
+
+#### e
+
+In many cases, a long *e* [i:] comes from a Germanic *au*, *o*, *i* or *y*.
+
+| | | |
+|-|-|-|
+| *bleed* | *blød* | [bli:d] |
+| *dear*  | *dyr*  | [dɪə̯] |
+| *dream* | *drøm* | [dri:m] |
+| *free*  | *frī*  | [fri:] |
+| *greet* | *grøt* | [gri:t] |
+| *hear*  | *hør*  | [hɪə̯] |
+| *me*    | *mī*   | [mi:] |
+| *need*  | *nød*  | [ni:d] |
+| *feel*  | *føl*  | [fi:t] |
+| *feet*  | *føt*  | [fi:t] |
+| *sweet* | *swøt* | [swi:t] |
+| *week*  | *wīk*  | [wi:k] |
+
+<!-- aght daghs a wīk -->
+<!-- neghst negst next -->
+<!-- frighdagh ån mĩ mynde -->
+
+#### i
+
+Words ending in -ld or -nd don't have a magic -e-.
+
+| | | |
+|-|-|-|
+| *child* | *childe* | [waɪ̯ld] |
+| *mild*  | *milde*  | [maɪ̯ld] |
+| *wild*  | *wilde*  | [waɪ̯ld] |
+| | | |
+| *bind*  | *binde*  | [baɪ̯nd] |
+| *blind* | *blinde* | [blaɪ̯nd] |
+| *find*  | *finde*  | [faɪ̯nd] |
+| *kind*  | *kynde*  | [kaɪ̯nd] |
+| *lice*  | *lyse*   | [laɪ̯s] |
+| *mind*  | *mynde*  | [maɪ̯nd] |
+| *mice*  | *myse*   | [maɪ̯s] |
+
+In some words, the "magic -e-" with -i can denote a long -i [:i].
+
+| | | |
+|-|-|-|
+| *machine* | *maçhīne* | [məˈʃi:n] |
+
+The "magic -e-" with -e and -i can be used in closed syllables.
+
+| | | |
+|-|-|-|
+| *field*  | *fēld*  | [fi:ld] |
+| *need*   | *nød*   | [ni:d] |
+| *shield* | *shēld* | [ʃi:ld] |
+| *yield*  | *yēld*  | [ji:ld] |
+
+<!-- bēn -->
+<!-- lead læd -->
+
+#### o
+
+In many cases, a diphthong *o* [oʊ̯] comes from a Germanic *ai* ur *u*.
+
+| | | |
+|-|-|-|
+| *blow*  | *blæ̃*   | [bloʊ̯] |
+| *loath* | *læ̃th*  | [loʊ̯θ] |
+| *go*    | *gæ̃*    | [goʊ̯] |
+| *home*  | *hæ̃m*   | [hoʊ̯m] |
+| *stone* | *stæ̃n*  | [stoʊ̯n] |
+| | | |
+| *own*   | *æ̃ghen* | [oʊ̯n] |
+| | | |
+| *bold* | *bålde*   | [boʊ̯ld] |
+| *cold* | *kålde*   | [koʊ̯ld] |
+| *fold* | *fålde*   | [foʊ̯ld] |
+| *hold* | *hålde*   | [hoʊ̯ld] |
+| *old*  | *ålde*    | [oʊ̯ld] |
+| | | |
+| *gold* | *gůlde*   | [goʊ̯ld] |
+
+<!-- 
+allæ̃n
+ône
+-->
+
+In some words, the "magic -e-" can denote a long -o [:u].
+
+| | |
+|-|-|
+| *move* | [mu:v] |
+
+Long *o* [:u] is usually spelled *oo*.
+
+| | | |
+|-|-|-|
+| *tooth* | *tōnth* | [tu:θ] | <!-- an→oo? --><!-- nth -->
+
+#### u
+
+The diphthong *u* [ɑʊ̯] is often written *ou* without a "magic -e-".
+
+| | | |
+|-|-|-|
+| *foul*  | *fũl*   | [fɑʊ̯l] |
+| *house* | *hũs*   | [hɑʊ̯s] |
+| *loud*  | *lũd*   | [lɑʊ̯d] |
+| *mouse* | *mũs*   | [mɑʊ̯s] |
+| *mouth* | *mũnth* | [mɑʊ̯θ] | <!-- nth -->
+| *now*   | *nũ*    | [nɑʊ̯] |
+| *out*   | *ũt*    | [ɑʊ̯t] |
+| *sound* | *sũnd*  | [sɑʊ̯nd] |
+| *south* | *sũnth* | [sɑʊ̯θ] | <!-- nth -->
+
+### Magic -w-
+
+Instead of a "magic -e-", *w* can be used with *a* and *o*.
+
+| | |
+|-|-|
+| *flow* | [floʊ̯] |
+| *grow* | [groʊ̯] |
+
+| | | |
+|-|-|-|
+| *soul* | *sæwel* | [soʊ̯l] |
+
+A "magic -w-" with an *a* is pronounced [ɔ:], instead of [eɪ̯].
+
+| | |
+|-|-|
+| *gnaw* | [nɔ:] |
+| *hawk* | [hɔ:k] |
+| *raw*  | [rɔ:] |
+
+#### Magic -gh-
+
+Instead of a "magic -e-", *gh* can be used in Germanic words with assimilated *g*, *h* or *kh*.
+
+| | |
+|-|-|
+| *sigh*   | [saɪ̯] |
+| | |
+| *bright* | [braɪ̯t] |
+| *fight*  | [faɪ̯t] |
+| *knight* | [naɪ̯t] |
+| *light*  | [laɪ̯t] |
+| *night*  | [naɪ̯t] |
+| *plight* | [plaɪ̯t] |
+| *right*  | [raɪ̯t] |
+| *sight*  | [saɪ̯t] |
+| *slight* | [slaɪ̯t] |
+| *tight*  | [taɪ̯t] |
+
+| | | |
+|-|-|-|
+| *eye*    | *øgh*    | [aɪ̯] |
+| *high*   | *høgh*   | [haɪ̯] |
+| *I*      | *igh*    | [aɪ̯] |
+| *nigh*   | *nėgh*   | [naɪ̯] |
+| *lie*    | *lėgh*   | [laɪ̯] |
+| *lie*    | *lygh*   | [laɪ̯] |
+| *might*  | *møght*  | [maɪ̯t] |
+| | |
+| *rye*    | *rygh*   | [raɪ̯] |
+| *flight* | *flyght* | [flaɪ̯t] |
+| *fly*    | *flygh*  | [flaɪ̯] |
+| *fright* | *fryght* | [fraɪ̯t] |
+| *light*  | *lyght*  | [laɪ̯t] |
+
+Instead of a "magic -gh-", an -i-/-y- is used after *a*.
+
+| | | |
+|-|-|-|
+| *day*     | *dagh*    | [deɪ̯] |
+| *lay*     | *lagh*    | [leɪ̯] |
+| *may*     | *magh*    | [meɪ̯] |
+| *slay*    | *slagh*   | [sleɪ̯] |
+| | | |
+| *eight*   | *aght*    | [eɪ̯t] |
+| *freight* | *fraght*  | [freɪ̯t] |
+| | | |
+| *main*    | *maghen*  | [meɪ̯n] |
+| *slain*   | *slaghen* | [sleɪ̯] |
+| | | |
+| *nail*    | *naghel*  | [neɪ̯l] |
+
+Instead of a "magic -gh-" with *e*, an -ai-/-ay- is often used. Note that a "magic -gh-" with *e* is diphthong *e* [eɪ̯], whereas a "magic -e-" with *e* is a long *e* [i:].
+
+| | | |
+|-|-|-|
+| *lay*    | *legh*    | [leɪ̯] |
+| *play*   | *plegh*   | [pleɪ̯] |
+| *say*    | *segh*    | [seɪ̯] |
+| *way*    | *wegh*    | [weɪ̯] |
+| | | |
+| *weight* | *wïght*   | [weɪ̯t] |
+| | | |
+| *laid*   | *leghed*  | [leɪ̯d] |
+| | | |
+| *brain*  | *breghen* | [breɪ̯n] |
+| *lain*   | *leghen*  | [leɪ̯n] |
+| *rain*   | *reghen*  | [reɪ̯n] |
+| | | |
+| *sail*   | *seghel*  | [seɪ̯l] |
+| | | |
+| *near*   | *nēgher*  | [nɪə̯] |
+| *see*    | *sēgh*    | [si:] |
+| *seen*   | *sēghen*  | [si:n] |
+
+| | | |
+|-|-|-|
+| *bow*    | *bůgh*    | [boʊ̯] |
+| *dough*  | *dægh*    | [doʊ̯] |
+| *flown*  | *floghen* | [floʊ̯n] |
+| *low*    | *lågh*    | [loʊ̯] |
+| *owe*    | *ægh*     | [oʊ̯] |
+| *own*    | *æghen*   | [oʊ̯n] |
+| *though* | *thogh*   | [ðoʊ̯] |
+| *window* | *windogh* | [ˈwɪndoʊ̯] |
+
+| | | |
+|-|-|-|
+| *flew*    | *flugh*  | [flu:] |
+| *shoe*    | *shugh*  | [ʃu:] |
+| *slew*    | *slugh*  | [slu:] |
+| *through* | *thrugh* | [θru:] |
+
+| | | |
+|-|-|-|
+| *bow*     | *bũgh*   | [bɑʊ̯] |
+| *fowl*    | *fũghel* | [fɑʊ̯l] |
+
+##### -gh- [oʊ̯]
+
+| | | |
+|-|-|-|
+| *arrow*    | *argh*    | [æroʊ̯] |
+| *follow*   | *folgh*   | [ˈfɒloʊ̯] |
+| *sorrow*   | *sorgh*   | [ˈsɒloʊ̯] |
+| *tomorrow* | *tomorgh* | [təˈmɒroʊ̯] |
+
+##### -gh- [ʊ̯]
+
+Germanic *gh* is sometimes equivalent to *w* and written as *ugh*. *aught* and *ought* are both pronounced [ɔ:t].
+
+| | | |
+|-|-|-|
+| *law*       | *laǧh*     | [lɔ:] |
+| *flaw*      | *flaǧh*    | [flɔ:] |
+| *saw*       | *saǧh*     | [sɔ:] |
+| | | |
+| *aught*     | *aǧht*     | [ɔ:t] |
+| *brought*   | *braǧht*   | [brɔ:t] |
+| *caught*    | *caǧht*    | [brɔ:t] |
+| *daughter*  | *daǧhter*  | [dɔ:tə] |
+| *fought*    | *faǧht*    | [fɔ:t] |
+| *fraught*   | *fraǧht*   | [frɔ:t] |
+| *slaughter* | *slaǧhter* | [slɔ:tə] |
+| *thought*   | *thaǧht*   | [θɔ:t] |
+
+<!-- ȏ -->
+
+##### -gh- [f]
+
+After *ȃ* [a], *ô* [ʌ] and *û* [ʌ] Germanic *gh* is pronounced [f].
+
+| | | |
+|-|-|-|
+| *after* | *ȃghter* | [aftə] |
+| *laugh* | *lȃgh*   | [laf] |
+| | | |
+| *cough* | *kôgh*   | [rʌf] |
+| *rough* | *rûgh*   | [rʌf] |
+| *tough* | *tôgh*   | [tʌf] |
+
+##### -gh- [k]
+
+Germanic *ghs* is pronounced [ks] and doesn't contain a "magic -gh-".
+
+| | | |
+|-|-|-|
+| *next*  | *neḡhst* | [nekst] |
+
+##### -gh- [ʤ]
+
+| | | |
+|-|-|-|
+| *badge*   | *baĝh*  | [bæʤ] |
+| *bridge*  | *bryĝh* | [brɪʤ] |
+| *edge*    | *eĝh*   | [eʤ] |
+| *hedge*   | *heĝh*  | [heʤ] |
+| *midge*   | *myĝh*  | [mɪʤ] |
+| *ridge*   | *ryĝh*  | [rɪʤ] |
+| *sledge*  | *sleĝh* | [sleʤ] |
+
+<!-- dodge -->
+
+### Other Diphthongs und Long Vowels
+
+The diphthong *e* [eɪ̯] can be spelled as *ẽa*.
+
+| | |
+|-|-|
+| *brẽak* | [breɪ̯k] |
+
+<!-- brẽk -->
+
+The long *o* [u:] is usually spelled *oo*.
+
+| | |
+|-|-|
+| *food* | [fu:d] |
+
+<!-- who → whoo = whō -->
+<!-- whose → whoos = whōs -->
+<!-- whom → whome → whoom = whōm -->
+<!-- to → toe → too = tō -->
+<!-- two → twoe → twoo = twō -->
+<!-- groove → groov = grōv -->
+<!-- moov = mōv -->
+<!-- lose → loos = lōs -->
+<!-- loose → loos = lōs -->
+<!-- goose, geese → gōs, gøs -->
+
+### Alternative Spellings
+
+The diphthong *a* [eɪ̯] can be spelled as *ai* in French loan-words or in Germanic words with assmilated -g-.
+
+| | |
+|-|-|
+| *plain* | [pleɪ̯n] |
+| *plane* | [pleɪ̯n] |
+| | |
+| *pay*   | [peɪ̯] |
+
+The long *e* [i:] can be spelled as *ēa*.
+
+| | |
+|-|-|
+| *bēan* | [bi:n] |
+
+<!-- speak → spēk -->
+<!-- bean → bø̄n -->
+<!-- breach → brȳch  -->
+<!-- bleach → "blæich" blǣch -->
+<!-- bone → "bain" bæ̃n -->
+<!-- bane → bãn -->
+
+The diphthong *o* [oʊ̯] can be spelled as *õa*.
+
+<!-- boat → bæt -->
+<!-- goat → gæt -->
+<!-- load → læd -->
+
+<!-- church → chirch -->
+
+The long *e* [i:] can be spelled as *ea* in Germanic words.
+
+| | |
+|-|-|
+| *plain* | [pleɪ̯n] |
+
+<!-- tea → tee -->
+
+
+#### Long Vowels
+
+The long vowels
+
 <!-- cåll  kɔ:l -->
 <!-- cāłm  kɑ:m -->
 
 <!-- TODO African American Vernacular English, AE, Good Speech, BE (RP), Cockney -->
 
 <!-- ˈkeri ˈkærɪ ˈkæri -->
+
+<!-- * *strēet* [stri:t]: **stræt** -->
+
+<!-- å (long, olde) ist intergermanisch interessant, aber innerhalb des Englischen schwer vermittelbar/motivierbar, es sei denn, man erhebt "Old English" als wichtigen Meilenstein, der in die Rechtschreibung integriert werden soll. -->
+
