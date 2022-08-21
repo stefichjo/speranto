@@ -43,14 +43,38 @@ In American đōgh, short **a** and **u** befor **r** ar allweġs pronũnced [e]
 * *Hărry* [hæri] → [heri]: **Harrï**
 * *hŭrry* [hʌri] → [hɜ:ri]: **hurrï**
 
-# Consonants
+## Consonants
 
-## c
+### c, k, ck
 
-* *cĕntre* [ˈsentəʳ]: **centr** = **center**
-* *cāre* [keəʳ]: **car**
+| | |
+|-|-|
+| *knight* | [naɪ̯t] |
 
------
+| | |
+|-|-|
+| *thick* | [θɪk] |
+| *think* | [θɪŋk] |
+
+| | | |
+|-|-|-|
+| *celt*   | *kelt*   | [kelt] |
+| | | |
+| *kin*    | *kyn*    | [kɪn] |
+| *kind*   | *kynde*  | [kaɪ̯nd] |
+| *king*   | *kyng*   | [kɪŋ] |
+| *kiss*   | *kyss*   | [kɪs] |
+| *kettle* | *kettle* | [ketəl] | <!-- l̩ ? -->
+| *keep*   | *køpe*   | [ki:p] |
+| | | |
+| *cat*    | *cat*    | [kæt] |
+| *coast*  | *coste*  | [koʊ̯st] |
+| *come*   | *côm*    | [kʌm] |
+| *copper* | *cůpper* | [kɒpə] |
+| *cut*    | *cut*    | [kʌt] |
+| | | |
+| *club*   | *clûb*   | [klʌb] |
+| *creek*  | *crȳk*   | [kri:k] |
 
 ## Vowels
 
@@ -128,7 +152,6 @@ Some short *i* [ɪ] comes from Germanic *y*.
 
 | | | |
 |-|-|-|
-| *kin*  | *kyn* | [kɪn] |
 | *sin*  | *syn* | [sɪn] |
 
 #### o
@@ -225,6 +248,7 @@ In many cases, a long *e* [i:] comes from a Germanic *au*, *o*, *ai*, *i* or *y*
 | *feel*    | *føl*     | [fi:t] |
 | *feet*    | *føt*     | [fi:t] |
 | *seek*    | *søk*     | [si:k] |
+| *sheep*   | *shæp*    | [ʃi:p] |
 | *speak*   | *speke*   | [swi:t] |
 | *speech*  | *spǣch*   | [spi:tʃ] |
 | *sweet*   | *swøt*    | [swi:t] |
@@ -244,7 +268,6 @@ Words ending in -ld or -nd don't have a magic -e-.
 | *bind*  | *binde*  | [baɪ̯nd] |
 | *blind* | *blinde* | [blaɪ̯nd] |
 | *find*  | *finde*  | [faɪ̯nd] |
-| *kind*  | *kynde*  | [kaɪ̯nd] |
 | *lice*  | *lyse*   | [laɪ̯s] |
 | *mind*  | *mynde*  | [maɪ̯nd] |
 | *mice*  | *myse*   | [maɪ̯s] |
@@ -272,7 +295,7 @@ Some diphthong *o* [oʊ̯] is spelled *oa*.
 
 | | | |
 |-|-|-|
-| *coal* | *kole* | [koʊ̯l] |
+| *coal* | *cole* | [koʊ̯l] |
 
 In many cases, a diphthong *o* [oʊ̯] comes from a Germanic *ai* ur *u*.
 
@@ -294,7 +317,7 @@ In many cases, a diphthong *o* [oʊ̯] comes from a Germanic *ai* ur *u*.
 | *own*   | *æ̃ghen* | [oʊ̯n] |
 | | | |
 | *bold* | *bålde*   | [boʊ̯ld] |
-| *cold* | *kålde*   | [koʊ̯ld] |
+| *cold* | *cålde*   | [koʊ̯ld] |
 | *fold* | *fålde*   | [foʊ̯ld] |
 | *hold* | *hålde*   | [hoʊ̯ld] |
 | *old*  | *ålde*    | [oʊ̯ld] |
@@ -408,12 +431,12 @@ Short *o* before *l* is pronounced [oʊ̯] in Germanic words.
 | | | |
 |-|-|-|
 | *bold* | *båld* | [boʊ̯ld] |
-| *cold* | *kåld* | [koʊ̯ld] |
+| *cold* | *cåld* | [koʊ̯ld] |
 | *fold* | *fåld* | [foʊ̯ld] |
 | *old*  | *åld*  | [oʊ̯ld] |
 | *sold* | *såld* | [soʊ̯ld] |
 | | | |
-| *colt* | *kůlt* | [koʊ̯lt] |
+| *colt* | *cůlt* | [koʊ̯lt] |
 
 | | | |
 |-|-|-|
@@ -562,7 +585,7 @@ After *ȃ* [a], *ô* [ʌ] and *û* [ʌ] Germanic *gh* is pronounced [f].
 | *after* | *ȃghter* | [aftə] |
 | *laugh* | *lȃgh*   | [laf] |
 | | | |
-| *cough* | *kôgh*   | [rʌf] |
+| *cough* | *côgh*   | [rʌf] |
 | *rough* | *rûgh*   | [rʌf] |
 | *tough* | *tôgh*   | [tʌf] |
 
@@ -616,8 +639,6 @@ The long *o* [u:] is usually spelled *oo*.
 <!-- loose → loos = lōs -->
 <!-- goose, geese → gōs, gøs -->
 
-### Alternative Spellings
-
 The diphthong *a* [eɪ̯] can be spelled as *ai* in French loan-words or in Germanic words with assmilated -g-.
 
 | | |
@@ -636,12 +657,6 @@ The long *e* [i:] can be spelled as *ea* in Germanic words.
 | *plain* | [pleɪ̯n] |
 
 <!-- tea → tee -->
-
-#### Long Vowels
-
-The long vowels
-
-<!-- cāłm  kɑ:m -->
 
 <!-- TODO African American Vernacular English, AE, Good Speech, BE (RP), Cockney -->
 
@@ -695,3 +710,8 @@ hæ̃l (whole)
 hælth (health)
 -->
 
+<!-- 
+modern: kinde
+etymological: kynde
+international: kỹnd
+ -->
