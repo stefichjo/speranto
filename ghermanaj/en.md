@@ -1,48 +1,5 @@
 # Ȧngelish Orthographï
 
-# Võc̆als
-
-## +r
-
-### Lång Võc̆als and Diphthongs
-
-Âg̊hter [aɪ̯] **ĩ** and [aʊ̯] **ũ**, **r** is pronũnced [əʳ]. It is pronũnced [ɚ] in American.
-
-* *tīre* [taɪ̯əʳ] → [taɪ̯ɚ]: **tir**
-* *sõur* [saʊ̯əʳ] → [saʊ̯ɚ]: **sũr**
-
-Âg̊hter [i:] **ē** and [ju:] **ū**, **r** is pronũnced [əʳ], except in American. Đe pronunciation of **ē** and **ū** is shortened tǒ [ɪ] and [jʊ].
-
-* *bēer* [bɪəʳ] → [bɪr]: **bïr**
-* *pūre* [pjʊəʳ] → [pjʊr]: **pur**
-
-Âg̊hter [eɪ̯] **ā**, **r** is pronũnced [əʳ], except in American. Đe pronunciation of **ā** is shortened tǒ [e].
-
-* *fāre* [feəʳ] → [fer]: **far**
-
-Âg̊hter [əʊ̯] **ō**, **r** is pronũnced [ʳ], except in American. **ō** pronũnced lik [ɔ:] **au**.
-
-* *fōr* [fɔ:ʳ] → [fɔ:r]: **for**
-
-### Short Võc̆als
-
-Âg̊hter short võc̆al, **r** is pronũnced [ʳ] at đē end of ȇ wørd and mut befor consonant, except in Amerian. Short **e**, **i** and **u** ar pronũnced [ɜ:]. Short **o** befor **r** is pronũnced lik lång **o** befor **r**. Short **a** befor **r** is pronũnced like lång [ɑ:] **â**.
-
-* *lĕarn* [lɜ:n] → [lɜ:rn]: **lern**
-* *shŏrt* [ʃɔ:t] → [ʃɔ:rt]: **short**
-* *ărm* [ɑ:m] → [ɑ:rm]: **arm**
-
-Befor ȇnôđer võc̆al, [r] **r** is conserved, ałs wøll ałs đe pronunciation of đe short võc̆al.
-
-* *wĕre* [wɜ:ʳ]: **wær** = **wærr**
-* *bĕrrie* [beri]: **berrë**
-* *sŏrry* [sɒri]: **sorrig**
-
-In American đōgh, short **a** and **u** befor **r** ar allweġs pronũnced [e] and [ɜ:].
-
-* *Hărry* [hæri] → [heri]: **Harrï**
-* *hŭrry* [hʌri] → [hɜ:ri]: **hurrï**
-
 ## Consonants
 
 ### c, k, ck
@@ -137,8 +94,8 @@ Some short *e* [e] come from Germanic *au*.
 
 | | | |
 |-|-|-|
-| *bread*  | *bröd*    | [bred] |
-| *red*    | *röd*     | [red] |
+| *bread*  | *brød*    | [bred] |
+| *red*    | *rød*     | [red] |
 | | |
 | *dreamt* | *drømmed* | [dremt] |
 
@@ -214,6 +171,7 @@ The "magic -e-" at the end of a word turns the short vowels *ă* [æ], *ĕ* [e],
 | *tune* | [tju:n] | | *due* | [dju:] | | *?* | [?] |
 
 <!-- seed seed/sede/sēd / sæd? -->
+<!-- beat eat -->
 
 #### a
 
@@ -231,27 +189,27 @@ In many cases, a long *e* [i:] comes from a Germanic *au*, *o*, *ai*, *i* or *y*
 
 | | | |
 |-|-|-|
-| *bean*    | *bøn*     | [bi:n] |
+| *bean*    | *bø̄n*    | [bi:n] |
 | *beseech* | *besø̄ch* | [bɪˈsi:tʃ] |
 | *bleach*  | *blǣch*   | [bli:tʃ] |
-| *bleed*   | *blød*    | [bli:d] |
+| *bleak*   | *blǣk*    | [bli:k] |
+| *bleed*   | *blø̄d*   | [bli:d] |
 | *breach*  | *brȳch*   | [bri:tʃ] |
-| *deal*    | *dæl*     | [di:l] |
-| *dear*    | *dyr*     | [dɪə̯] |
-| *dream*   | *drøm*    | [dri:m] |
-| *free*    | *frī*     | [fri:] |
-| *greet*   | *grøt*    | [gri:t] |
+| *deal*    | *dǣl*     | [di:l] |
+| *dear*    | *dȳr*     | [dɪə̯] |
+| *dream*   | *drø̄m*   | [dri:m] |
+| *greet*   | *grø̄t*   | [gri:t] |
 | *hear*    | *hør*     | [hɪə̯] |
 | *lead*    | *læd*     | [li:d] |
-| *me*      | *mī*      | [mi:] | <!-- ? -->
-| *need*    | *nød*     | [ni:d] |
-| *feel*    | *føl*     | [fi:t] |
-| *feet*    | *føt*     | [fi:t] |
-| *seek*    | *søk*     | [si:k] |
+| *need*    | *nø̄d*    | [ni:d] |
+| *feed*    | *fø̄d*    | [fi:d] |
+| *feel*    | *fø̄l*    | [fi:t] |
+| *feet*    | *fø̄t*    | [fi:t] |
+| *seek*    | *sø̄k*    | [si:k] |
 | *sheep*   | *shæp*    | [ʃi:p] |
 | *speak*   | *speke*   | [swi:t] |
 | *speech*  | *spǣch*   | [spi:tʃ] |
-| *sweet*   | *swøt*    | [swi:t] |
+| *sweet*   | *swø̄t*   | [swi:t] |
 | *week*    | *wīk*     | [wi:k] |
 | *year*    | *yere*    | [jɪə̯] | <!-- yær ? -->
 
@@ -281,13 +239,20 @@ In some words, the "magic -e-" with -i can denote a long -i [:i].
 |-|-|-|
 | *machine* | *maçhīne* | [məˈʃi:n] |
 
+In Germanic words, long *i* [i:] is spelled as long *e*.
+
+| | | |
+|-|-|-|
+| *free*    | *frī*     | [fri:] |
+| *me*      | *mī*      | [mi:] |
+
 The "magic -e-" with -e and -i can be used in closed syllables.
 
 | | | |
 |-|-|-|
 | *field*  | *fēld*  | [fi:ld] |
 | *shield* | *shēld* | [ʃi:ld] |
-| *yield*  | *yēld*  | [ji:ld] |
+| *yield*  | *ġēld*  | [ji:ld] |
 
 #### o
 
@@ -378,6 +343,12 @@ A "magic -w-" with an *a* is pronounced [ɔ:], instead of [eɪ̯].
 | *hawk* | [hɔ:k] |
 | *raw*  | [rɔ:] |
 
+After *l* and *r*, *w* is pronounced like long *o* [oʊ̯].
+
+| | | |
+|-|-|-|
+| *yellow* | *ġelw* | [ˈjeloʊ̯] |
+
 ### Magic -l-
 
 Short *a* before *l* is pronounced [ɔ:] in Germanic words.
@@ -409,10 +380,13 @@ Short *a* before *l* is pronounced [ɔ:] in Germanic words.
 | *pal*    | *păl*    | [pæl] |
 | *valley* | *vălley* | [ˈvælɪ] |
 
-The *l* in *alk* and *alm* is mute.
+The *l* in *alf*, *alk* and *alm* is mute.
 
 | | |
 |-|-|-|
+| *cālf*  | [kɑ:f] |
+| *hālf*  | [hɑ:f] |
+| | |
 | *chalk* | [tʃɔ:k] |
 | *talk*  | [tɔ:k] |
 | *walk*  | [wɔ:k] |
@@ -543,15 +517,6 @@ Instead of a "magic -gh-" with *e*, an -ai-/-ay- is often used. Note that a "mag
 | *bow*     | *bũgh*   | [bɑʊ̯] |
 | *fowl*    | *fũghel* | [fɑʊ̯l] |
 
-##### -gh- [oʊ̯]
-
-| | | |
-|-|-|-|
-| *arrow*    | *argh*    | [æroʊ̯] |
-| *follow*   | *folgh*   | [ˈfɒloʊ̯] |
-| *sorrow*   | *sorgh*   | [ˈsɒroʊ̯] |
-| *tomorrow* | *tomorgh* | [təˈmɒroʊ̯] |
-
 ##### -gh- [ʊ̯]
 
 Germanic *gh* is sometimes equivalent to *w* and written as *ugh*. *aught* and *ought* are both pronounced [ɔ:t].
@@ -575,6 +540,11 @@ Germanic *gh* is sometimes equivalent to *w* and written as *ugh*. *aught* and *
 | *brought*   | *braǧht*   | [brɔ:t] |
 | *daughter*  | *doǧhter*  | [dɔ:tə] |
 | *ought*     | *aǧht*     | [ɔ:t] |
+| | | |
+| *arrow*     | *arǧh*     | [æroʊ̯] |
+| *follow*    | *folǧh*    | [ˈfɒloʊ̯] |
+| *sorrow*    | *sorǧh*    | [ˈsɒroʊ̯] |
+| *tomorrow*  | *tomorǧh*  | [təˈmɒroʊ̯] |
 
 ##### -gh- [f]
 
@@ -662,8 +632,6 @@ The long *e* [i:] can be spelled as *ea* in Germanic words.
 
 <!-- ˈkeri ˈkærɪ ˈkæri -->
 
-<!-- * *strēet* [stri:t]: **stræt** -->
-
 <!-- why whĩ -->
 <!-- how whũ -->
 <!-- who whǎ - not long enough -->
@@ -706,8 +674,14 @@ allæ̃n
 <!-- * *côme* [kʌm]: **kômm** -->
 
 <!-- 
-hæ̃l (whole)
+hæ̃l (whole hole)
 hælth (health)
+hæle (heal)
+
+deep dyyp
+depth dÿpth
+
+hole hole
 -->
 
 <!-- 
@@ -715,3 +689,55 @@ modern: kinde
 etymological: kynde
 international: kỹnd
  -->
+
+
+
+
+"e"/"ē"/"õ" street = stræte; home = hæ̃m
+"e"/"ē"/"ĩ" keep = køpe    ; eye = øgh
+"i"/"ī"?/"ĩ" kin = kyn      ; kind = kynde
+
+<!-- yellow -->
+
+# Legacy
+
+## +r
+
+### Lång Võc̆als and Diphthongs
+
+Âg̊hter [aɪ̯] **ĩ** and [aʊ̯] **ũ**, **r** is pronũnced [əʳ]. It is pronũnced [ɚ] in American.
+
+* *tīre* [taɪ̯əʳ] → [taɪ̯ɚ]: **tir**
+* *sõur* [saʊ̯əʳ] → [saʊ̯ɚ]: **sũr**
+
+Âg̊hter [i:] **ē** and [ju:] **ū**, **r** is pronũnced [əʳ], except in American. Đe pronunciation of **ē** and **ū** is shortened tǒ [ɪ] and [jʊ].
+
+* *bēer* [bɪəʳ] → [bɪr]: **bïr**
+* *pūre* [pjʊəʳ] → [pjʊr]: **pur**
+
+Âg̊hter [eɪ̯] **ā**, **r** is pronũnced [əʳ], except in American. Đe pronunciation of **ā** is shortened tǒ [e].
+
+* *fāre* [feəʳ] → [fer]: **far**
+
+Âg̊hter [əʊ̯] **ō**, **r** is pronũnced [ʳ], except in American. **ō** pronũnced lik [ɔ:] **au**.
+
+* *fōr* [fɔ:ʳ] → [fɔ:r]: **for**
+
+### Short Võc̆als
+
+Âg̊hter short võc̆al, **r** is pronũnced [ʳ] at đē end of ȇ wørd and mut befor consonant, except in Amerian. Short **e**, **i** and **u** ar pronũnced [ɜ:]. Short **o** befor **r** is pronũnced lik lång **o** befor **r**. Short **a** befor **r** is pronũnced like lång [ɑ:] **â**.
+
+* *lĕarn* [lɜ:n] → [lɜ:rn]: **lern**
+* *shŏrt* [ʃɔ:t] → [ʃɔ:rt]: **short**
+* *ărm* [ɑ:m] → [ɑ:rm]: **arm**
+
+Befor ȇnôđer võc̆al, [r] **r** is conserved, ałs wøll ałs đe pronunciation of đe short võc̆al.
+
+* *wĕre* [wɜ:ʳ]: **wær** = **wærr**
+* *bĕrrie* [beri]: **berrë**
+* *sŏrry* [sɒri]: **sorrig**
+
+In American đōgh, short **a** and **u** befor **r** ar allweġs pronũnced [e] and [ɜ:].
+
+* *Hărry* [hæri] → [heri]: **Harrï**
+* *hŭrry* [hʌri] → [hɜ:ri]: **hurrï**
