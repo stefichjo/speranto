@@ -2,7 +2,7 @@
 
 ## Consonants
 
-### c, k, ck
+### c, k, ck, ch
 
 | | |
 |-|-|
@@ -15,23 +15,27 @@
 
 | | | |
 |-|-|-|
-| *celt*   | *kelt*   | [kelt] |
+| *celt*    | *kelt*    | [kelt] |
 | | | |
-| *kin*    | *kyn*    | [kɪn] |
-| *kind*   | *kynde*  | [kaɪ̯nd] |
-| *king*   | *kyng*   | [kɪŋ] |
-| *kiss*   | *kyss*   | [kɪs] |
-| *kettle* | *kettle* | [ketəl] | <!-- l̩ ? -->
-| *keep*   | *køpe*   | [ki:p] |
+| *kin*     | *kyn*     | [kɪn] |
+| *kind*    | *kynde*   | [kaɪ̯nd] |
+| *king*    | *kyng*    | [kɪŋ] |
+| *kiss*    | *kyss*    | [kɪs] |
+| *kettle*  | *kettle*  | [ketəl] | <!-- l̩ ? -->
+| *keep*    | *køpe*    | [ki:p] |
 | | | |
-| *cat*    | *cat*    | [kæt] |
-| *coast*  | *coste*  | [koʊ̯st] |
-| *come*   | *côm*    | [kʌm] |
-| *copper* | *cůpper* | [kɒpə] |
-| *cut*    | *cut*    | [kʌt] |
+| *cat*     | *cat*     | [kæt] |
+| *coast*   | *coste*   | [koʊ̯st] |
+| *come*    | *côm*     | [kʌm] |
+| *copper*  | *cůpper*  | [kɒpə] |
+| *cut*     | *cut*     | [kʌt] |
 | | | |
-| *club*   | *clûb*   | [klʌb] |
-| *creek*  | *crȳk*   | [kri:k] |
+| *club*    | *clûb*    | [klʌb] |
+| *creek*   | *crȳk*    | [kri:k] |
+| | | |
+| *chicken* | *chyckin* | [ˈtʃɪkɪn] 
+| *chest*   | *chïst*   | [tʃest] |
+| *church*  | *chirch*  | [tʃɜ:tʃ] |
 
 ## Vowels
 
@@ -90,14 +94,21 @@ In many words the pronunciation of the short *a* is [a] instead of [æ].
 
 #### e
 
-Some short *e* [e] come from Germanic *au*.
+Many short *e* [e] come from Germanic *æ*, *ai* or *au*.
 
 | | | |
 |-|-|-|
-| *bread*  | *brød*    | [bred] |
-| *red*    | *rød*     | [red] |
+| *drench*  | *drænch*  | [drentʃ] |
+| *men*     | *mæn*     | [men] |
 | | |
-| *dreamt* | *drømmed* | [dremt] |
+| *health*  | *hælth*   | [helθ] |
+| *stealth* | *stælth*  | [stelθ] |
+| | |
+| *bread*   | *brød*    | [bred] |
+| *dreamt*  | *drømmed* | [dremt] |
+| *red*     | *rød*     | [red] |
+| | |
+| *depth*   | *dÿpth*   | [deptθ] |
 
 <!-- äny, mäny ain -->
 <!-- * *ône* [wʌn]: **ên** -->
@@ -171,7 +182,21 @@ The "magic -e-" at the end of a word turns the short vowels *ă* [æ], *ĕ* [e],
 | *tune* | [tju:n] | | *due* | [dju:] | | *?* | [?] |
 
 <!-- seed seed/sede/sēd / sæd? -->
-<!-- beat eat -->
+
+*v* is always written with a "magic -e-", even after short vowels.
+
+| | | |
+|-|-|-|
+| *behave* | *behãve* | [bɪˈheɪ̯v] |
+| *drive*  | *drĩve*  | [draɪ̯v] |
+| *gave*   | *gãve*   | [geɪ̯v] |
+| *lives*  | *lĩves*  | [laɪ̯vz] |
+| *grove*  | *grōve*  | [gru:v] |
+| | | |
+| *give*   | *give*   | [gɪv] |
+| *live*   | *live*   | [lɪv] |
+| *love*   | *lûve*   | [lʌv] |
+| *wolves* | *wulves* | [wʊlvz] |
 
 #### a
 
@@ -189,29 +214,55 @@ In many cases, a long *e* [i:] comes from a Germanic *au*, *o*, *ai*, *i* or *y*
 
 | | | |
 |-|-|-|
-| *bean*    | *bø̄n*    | [bi:n] |
-| *beseech* | *besø̄ch* | [bɪˈsi:tʃ] |
-| *bleach*  | *blǣch*   | [bli:tʃ] |
-| *bleak*   | *blǣk*    | [bli:k] |
-| *bleed*   | *blø̄d*   | [bli:d] |
-| *breach*  | *brȳch*   | [bri:tʃ] |
-| *deal*    | *dǣl*     | [di:l] |
-| *dear*    | *dȳr*     | [dɪə̯] |
-| *dream*   | *drø̄m*   | [dri:m] |
-| *greet*   | *grø̄t*   | [gri:t] |
-| *hear*    | *hør*     | [hɪə̯] |
-| *lead*    | *læd*     | [li:d] |
-| *need*    | *nø̄d*    | [ni:d] |
-| *feed*    | *fø̄d*    | [fi:d] |
-| *feel*    | *fø̄l*    | [fi:t] |
-| *feet*    | *fø̄t*    | [fi:t] |
-| *seek*    | *sø̄k*    | [si:k] |
-| *sheep*   | *shæp*    | [ʃi:p] |
+| *eat*     | *ete*     | [i:t] |
 | *speak*   | *speke*   | [swi:t] |
-| *speech*  | *spǣch*   | [spi:tʃ] |
-| *sweet*   | *swø̄t*   | [swi:t] |
-| *week*    | *wīk*     | [wi:k] |
+| *steel*   | *stele*   | [sti:l] |
 | *year*    | *yere*    | [jɪə̯] | <!-- yær ? -->
+| | | |
+| *sieve*   | *sīve*    | [si:v] |
+| *week*    | *wik*     | [wi:k] |
+| | | |
+| *steal*   | *stǣl*    | [sti:l] |
+| *bleach*  | *blǣch*   | [bli:tʃ] |
+| *bleak*   | *blæk*    | [bli:k] |
+| *deal*    | *dæl*     | [di:l] |
+| *heal*    | *hæl*     | [hi:l] |
+| *lead*    | *lǣd*     | [li:d] |
+| *mean*    | *mǣn*     | [mi:n] |
+| *seat*    | *sǣt*     | [si:t] |
+| *sheep*   | *shæp*    | [ʃi:p] |
+| *speech*  | *spǣch*   | [spi:tʃ] |
+| | | |
+| *bean*    | *bø̄n*    | [bi:n] |
+| *beat*    | *bø̄t*    | [bi:t] |
+| *believe* | *belø̄ve* | [bɪˈli:v] |
+| *beseech* | *besø̄ch* | [bɪˈsi:tʃ] |
+| *bleed*   | *blø̄d*   | [bli:d] |
+| *dream*   | *drø̄m*   | [dri:m] |
+| *feed*    | *fø̄d*    | [fi:d] |
+| *feel*    | *føl*     | [fi:t] |
+| *feet*    | *fø̄t*    | [fi:t] |
+| *greet*   | *grø̄t*   | [gri:t] |
+| *hear*    | *hø̄r*    | [hɪə̯] |
+| *leaf*    | *løf*     | [li:f] |
+| *leave*   | *lø̄ve*   | [li:v] |
+| *meet*    | *mø̄t*    | [mi:t] |
+| *need*    | *nø̄d*    | [ni:d] |
+| *seek*    | *søk*     | [si:k] |
+| *sweet*   | *swø̄t*   | [swi:t] |
+| | | |
+| *breach*  | *brȳch*   | [bri:tʃ] |
+| *deep*    | *dȳp*     | [di:p] |
+| *dear*    | *dȳr*     | [dɪə̯] |
+
+The diphthong *e* [eɪ̯] can be spelled as *ẽa*.
+
+| | |
+|-|-|
+| *brẽak* | [breɪ̯k] |
+
+<!-- brẽk -->
+stæ~k
 
 #### i
 
@@ -246,6 +297,9 @@ In Germanic words, long *i* [i:] is spelled as long *e*.
 | *free*    | *frī*     | [fri:] |
 | *me*      | *mī*      | [mi:] |
 
+<!-- bỹ, mỹ, my- -->
+<!-- free fry- -->
+
 The "magic -e-" with -e and -i can be used in closed syllables.
 
 | | | |
@@ -275,9 +329,11 @@ In many cases, a diphthong *o* [oʊ̯] comes from a Germanic *ai* ur *u*.
 | *home*  | *hæ̃m*   | [hoʊ̯m] |
 | *load*  | *læ̃d*   | [loʊ̯d] |
 | *loath* | *læ̃th*  | [loʊ̯θ] |
-| *more*  | *mæ̃r*   | [mɔə̯] | <!-- mæ̃er wäre auch OK -->
+| *more*  | *mæ̃r*   | [mɔə̯] |
 | *most*  | *mæ̃st*  | [moʊ̯st] |
+| *stole* | *stæ̃l*  | [stoʊ̯l] |
 | *stone* | *stæ̃n*  | [stoʊ̯n] |
+| *whole* | *hæ̃l*   | [hoʊ̯l] |
 | | | |
 | *own*   | *æ̃ghen* | [oʊ̯n] |
 | | | |
@@ -291,15 +347,18 @@ In many cases, a diphthong *o* [oʊ̯] comes from a Germanic *ai* ur *u*.
 
 In some words, the "magic -e-" can denote a long -o [:u].
 
-| | |
-|-|-|
-| *move* | [mu:v] |
+| | | |
+|-|-|-|
+| *move* | *mōve* | [mu:v] |
 
 Long *o* [:u] is usually spelled *oo*.
 
 | | | |
 |-|-|-|
-| *tooth* | *tōnth* | [tu:θ] | <!-- an→oo? --><!-- nth -->
+| *cool*  | *cōl*   | [ku:l] |
+| *pool*  | *pōl*   | [pu:l] |
+| *stool* | *stōl*  | [stu:l] |
+| *tooth* | *tōnth* | [tu:θ] | <!-- nth -->
 
 #### u
 
@@ -313,7 +372,7 @@ The diphthong *u* [ɑʊ̯] is often written *ou* without a "magic -e-".
 | *house*  | *hũs*   | [hɑʊ̯s] |
 | *loud*   | *lũd*   | [lɑʊ̯d] |
 | *mouse*  | *mũs*   | [mɑʊ̯s] |
-| *mouth*  | *mũnth* | [mɑʊ̯θ] | <!-- nth month -->
+| *mouth*  | *mũnth* | [mɑʊ̯θ] | <!-- nth -->
 | *now*    | *nũ*    | [nɑʊ̯] |
 | *out*    | *ũt*    | [ɑʊ̯t] |
 | *owl*    | *ũl*    | [ɑʊ̯l] |
@@ -416,8 +475,6 @@ Short *o* before *l* is pronounced [oʊ̯] in Germanic words.
 |-|-|-|
 | *doll*   | *dŏll*   | [dɒl] |
 
-<!-- whilch -->
-
 #### Magic -gh-
 
 Instead of a "magic -e-", *gh* can be used in Germanic words with assimilated *g*, *h* or *kh*.
@@ -443,7 +500,7 @@ Instead of a "magic -e-", *gh* can be used in Germanic words with assimilated *g
 | *high*   | *høgh*   | [haɪ̯] |
 | *I*      | *igh*    | [aɪ̯] |
 | *nigh*   | *nėgh*   | [naɪ̯] |
-| *lie*    | *lėgh*   | [laɪ̯] |
+| *lie*    | *ligh*   | [laɪ̯] |
 | *lie*    | *lygh*   | [laɪ̯] |
 | *might*  | *møght*  | [maɪ̯t] |
 | | |
@@ -489,7 +546,7 @@ Instead of a "magic -gh-" with *e*, an -ai-/-ay- is often used. Note that a "mag
 | | | |
 | *sail*   | *seghel*  | [seɪ̯l] |
 | | | |
-| *near*   | *nēghr*   | [nɪə̯] | <!-- nēgher wäre auch OK -->
+| *near*   | *nēghr*   | [nɪə̯] |
 | *see*    | *sēgh*    | [si:] |
 | *seen*   | *sēghen*  | [si:n] |
 
@@ -532,7 +589,7 @@ Germanic *gh* is sometimes equivalent to *w* and written as *ugh*. *aught* and *
 | *fraught*   | *fraǧht*   | [frɔ:t] |
 | *naught*    | *naǧht*    | [nɔ:t] |
 | *slaughter* | *slaǧhter* | [slɔ:tə] |
-| | | | <!-- Explanation for oǧh is needed. -->
+| | | |
 | *fought*    | *foǧht*    | [fɔ:t] |
 | *sought*    | *soǧht*    | [slɔ:tə] |
 | *thought*   | *thoǧht*   | [θɔ:t] |
@@ -580,17 +637,7 @@ Germanic *ghs* is pronounced [ks] and doesn't contain a "magic -gh-".
 | *ridge*   | *ryĝh*  | [rɪʤ] |
 | *sledge*  | *sleĝh* | [sleʤ] |
 
-<!-- dodge -->
-
 ### Other Diphthongs und Long Vowels
-
-The diphthong *e* [eɪ̯] can be spelled as *ẽa*.
-
-| | |
-|-|-|
-| *brẽak* | [breɪ̯k] |
-
-<!-- brẽk -->
 
 The long *o* [u:] is usually spelled *oo*.
 
@@ -617,8 +664,6 @@ The diphthong *a* [eɪ̯] can be spelled as *ai* in French loan-words or in Germ
 | *plane* | [pleɪ̯n] |
 | | |
 | *pay*   | [peɪ̯] |
-
-<!-- church → chirch -->
 
 The long *e* [i:] can be spelled as *ea* in Germanic words.
 
@@ -672,26 +717,12 @@ allæ̃n
 -->
 
 <!-- * *côme* [kʌm]: **kômm** -->
-
-<!-- 
-hæ̃l (whole hole)
-hælth (health)
-hæle (heal)
-
-deep dyyp
-depth dÿpth
-
-hole hole
--->
-
+chin
 <!-- 
 modern: kinde
 etymological: kynde
 international: kỹnd
  -->
-
-
-
 
 "e"/"ē"/"õ" street = stræte; home = hæ̃m
 "e"/"ē"/"ĩ" keep = køpe    ; eye = øgh
@@ -741,3 +772,25 @@ In American đōgh, short **a** and **u** befor **r** ar allweġs pronũnced [e]
 
 * *Hărry* [hæri] → [heri]: **Harrï**
 * *hŭrry* [hʌri] → [hɜ:ri]: **hurrï**
+
+<!-- 
+many mænny mæ˘ny
+any ænny æ˘ny
+one æ̂n [wʌn]
+once æ̂ns [wʌns]
+alone ăllæne [əˈloʊn]
+an an [æn]
+a a [eɪ̯]
+
+although allthogh
+albeit allbeit
+ -->
+
+<!-- holm "home" -->
+
+<!-- loaf -->
+
+<!-- here hīr -->
+
+<!-- whilch -->
+
