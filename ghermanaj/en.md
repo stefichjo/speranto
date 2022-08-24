@@ -1,4 +1,5 @@
-# Ȧngelish Orthographï
+# Ėnglish Orthography
+<!-- Ȧnglish? Ėnglish? Inglish? -->
 
 ## Vowels
 
@@ -9,8 +10,8 @@
 |            | | [ɪ] |  [i:] |  [ɪə̯] | | [aɪ̯] | + [ə̯] |
 | [ɔ:], [ɔɪ̯] | | [ɒ] |  [u:] |  [ʊə̯] | | [oʊ̯] |  [ɔə̯] |
 | [ʌ]        | | [ʊ] | [ju:] | [jʊə̯] | | [ɑʊ̯] | + [ə̯] |
-|            | | | | | | | | |
-|            | | [ə] |  [ɜ:] |       |       | |      |
+| | | | | | | | |
+|            | | [ə] |  [ɜ:] |       | |      |       |
 
 ### Short Vowels
 
@@ -47,7 +48,7 @@ In many words the pronunciation of the short *a* is [a] instead of [æ].
 
 #### Short e
 
-Many short *e* [e] come from Germanic *æ*, *ai* or *au*.
+Many short *e* [e] come from Germanic *æ*, *ai* or *au*, and even *eu*.
 
 | | | |
 |-|-|-|
@@ -62,8 +63,8 @@ Many short *e* [e] come from Germanic *æ*, *ai* or *au*.
 | *bread*   | *brød*    | [bred] |
 | *red*     | *rød*     | [red] |
 | | |
-| *depth*   | *dypth*   | [deptθ] |
-| *theft*   | *thyft*   | [θeft] |
+| *depth*   | *dÿpth*   | [deptθ] |
+| *theft*   | *thÿft*   | [θeft] |
 
 #### Short i
 
@@ -119,13 +120,15 @@ The "magic -e-" at the end of a word turns the short vowels *ă* [æ], *ĕ* [e],
 
 | | |
 |-|-|
-| *ae* | [eɪ̯] |
-| *ee* | [i:] |
-| *ie* | [aɪ̯] |
-| *oe* | [oʊ̯] |
-| *ue* | [ju:] |
+| *ae* |  [eɪ̯] | | *Mae* |
+| *ee* |  [i:] | | *Lee* |
+| *ie* |  [aɪ̯] | | *Lie* |
+| *oe* |  [oʊ̯] | | *Joe* |
+| *ue* | [ju:] | | *Sue* |
 
 <!-- seed seed/sede/sēd / sæd? -->
+<!-- sigh -->
+<!-- frighdagh -->
 
 *v* is always written with a "magic -e-", even after short vowels.
 
@@ -151,7 +154,7 @@ The "magic -e-" at the end of a word turns the short vowels *ă* [æ], *ĕ* [e],
 
 #### Longish a
 
-<!-- loan words-->
+Long *a* [ɑ:] as in *father* [ˈfɑ:ðə] is used in loan words.
 
 | | | |
 |-|-|-|
@@ -166,6 +169,7 @@ Diphthong *a* [eɪ̯] is written with a silent *e*.
 | | |
 |-|-|
 | *bathe* | [beɪ̯ð] |
+| *shake* | [ʃeɪ̯k] |
 
 <!-- inverted breve -->
 
@@ -173,7 +177,37 @@ Diphthong *a* [eɪ̯] is written with a silent *e*.
 |-|-|-|
 | *great* | *grȏte* | [greɪ̯t] |
 
-Many diphthong *a* [eɪ̯] come from French and are spellt *ai*.
+Many diphthong *a* [eɪ̯] come from *agh* or *egh* and are spelt *ai*.
+
+| | | |
+|-|-|-|
+| *day*     | *dagh*    | [deɪ̯] |
+| *eight*   | *aght*    | [eɪ̯t] |
+| *freight* | *fraght*  | [freɪ̯t] |
+| *lay*     | *lagh*    | [leɪ̯] |
+| *main*    | *maghen*  | [meɪ̯n] |
+| *may*     | *magh*    | [meɪ̯] |
+| *nail*    | *naghel*  | [neɪ̯l] |
+| *slain*   | *slaghen* | [sleɪ̯] |
+| *slay*    | *slagh*   | [sleɪ̯] |
+| | | |
+| *brain*   | *breghen* | [breɪ̯n] |
+| *laid*    | *leghed*  | [leɪ̯d] |
+| *lain*    | *leghen*  | [leɪ̯n] |
+| *lay*     | *legh*    | [leɪ̯] |
+| *play*    | *plegh*   | [pleɪ̯] |
+| *rain*    | *reghen*  | [reɪ̯n] |
+| *sail*    | *seghel*  | [seɪ̯l] |
+| *say*     | *segh*    | [seɪ̯] |
+| *way*     | *wegh*    | [weɪ̯] |
+| *weigh*   | *wegh*    | [weɪ̯] |
+| *weight*  | *wïght*   | [weɪ̯t] |
+| | | |
+| *near*    | *nēghr*   | [nɪə̯] |
+| *see*     | *sēgh*    | [si:] |
+| *seen*    | *sēghen*  | [si:n] |
+
+Many diphthong *a* [eɪ̯] come from French and are spelt *ai*.
 
 | | |
 |-|-|
@@ -184,24 +218,31 @@ Many diphthong *a* [eɪ̯] come from French and are spellt *ai*.
 
 #### Longish e
 
-The long *e* [i:] can be spelled as *ea* in Germanic words.
-
-| | | |
-|-|-|-|
-| *tea*     | *tee*     | [ti:] |
-
-In many cases, a long *e* [i:] comes from a Germanic *au*, *o*, *ai*, *i* or *y*. Some long *e* [i:] is spelled *ea*.
+Long *e* [i:] is spelt *ea* or with silent *e* as *ee*.
 
 | | | |
 |-|-|-|
 | *eat*     | *ete*     | [i:t] |
 | *speak*   | *speke*   | [spi:k] |
-| *steel*   | *stele*   | [sti:l] |
+| *tea*     | *tee*     | [ti:] |
 | *year*    | *yere*    | [jɪə̯] | <!-- yær yære ? -->
 | | | |
-| *sieve*   | *sīve*    | [si:v] |
-| *week*    | *wik*     | [wi:k] |
+| *steel*   | *stele*   | [sti:l] |
+
+<!-- ie (thief) -->
+
+Long *e* [i:] with silent *e* is the preferred spelling in loan words.
+
+| | |
+|-|-|
+| *concrete* | [ˈkɒŋkri:t] |
+| | |
+| *mete*     | [mi:t] |
+
+In many cases, a long *e* [i:] comes from a Germanic *au*, *o*, as well as *ai*, *i* or *y*.
+
 | | | |
+|-|-|-|
 | *bleach*  | *blǣch*   | [bli:tʃ] |
 | *bleak*   | *blæk*    | [bli:k] |
 | *breathe* | *brǣth*   | [bri:θ] ]
@@ -213,7 +254,7 @@ In many cases, a long *e* [i:] comes from a Germanic *au*, *o*, *ai*, *i* or *y*
 | *seat*    | *sǣt*     | [si:t] |
 | *sheep*   | *shæp*    | [ʃi:p] |
 | *speech*  | *spǣch*   | [spi:tʃ] |
-| *steal*   | *stǣl*    | [sti:l] |
+| *steal*   | *stæl*    | [sti:l] |
 | *street*  | *strǣt*   | [stri:t] |
 | | | |
 | *bean*    | *bø̄n*    | [bi:n] |
@@ -246,7 +287,15 @@ The diphthong *e* [eɪ̯] can be spelled as *ea*.
 | | | |
 |-|-|-|
 | *break* | *brek* | [breɪ̯k] |
-| *steak* | *stek* | [breɪ̯k] |
+| *steak* | *stek* | [steɪ̯k] |
+
+Before *r*, long *e* is pronounced [ɪə̯], whereas diphthong *e* is pronounced [ɛə̯].
+
+| | | |
+|-|-|-|
+| *fear*  | *fere* | [fɪə̯] |
+| | | |
+| *swear* | *swẽr* | [swɛə̯] |
 
 #### Longish i
 
@@ -281,6 +330,10 @@ In Germanic words, long *i* [i:] is spelled as long *e*.
 
 | | | |
 |-|-|-|
+| *beetle*  | *bitel*   | [ˈbi:tl̩] |
+| *sieve*   | *sīve*    | [si:v] |
+| *week*    | *wik*     | [wi:k] |
+| | | |
 | *free*    | *frī*     | [fri:] |
 | *me*      | *mī*      | [mi:] |
 | | | |
@@ -486,46 +539,6 @@ Instead of a "magic -e-", *gh* can be used in Germanic words with assimilated *g
 | *fly*    | *flygh*  | [flaɪ̯] |
 | *fright* | *fryght* | [fraɪ̯t] |
 | *light*  | *lyght*  | [laɪ̯t] |
-
-Instead of a "magic -gh-", an -i-/-y- is used after *a*.
-
-| | | |
-|-|-|-|
-| *day*     | *dagh*    | [deɪ̯] |
-| *lay*     | *lagh*    | [leɪ̯] |
-| *may*     | *magh*    | [meɪ̯] |
-| *slay*    | *slagh*   | [sleɪ̯] |
-| | | |
-| *eight*   | *aght*    | [eɪ̯t] |
-| *freight* | *fraght*  | [freɪ̯t] |
-| | | |
-| *main*    | *maghen*  | [meɪ̯n] |
-| *slain*   | *slaghen* | [sleɪ̯] |
-| | | |
-| *nail*    | *naghel*  | [neɪ̯l] |
-
-Instead of a "magic -gh-" with *e*, an -ai-/-ay- is often used. Note that a "magic -gh-" with *e* is diphthong *e* [eɪ̯], whereas a "magic -e-" with *e* is a long *e* [i:].
-
-| | | |
-|-|-|-|
-| *lay*    | *legh*    | [leɪ̯] |
-| *play*   | *plegh*   | [pleɪ̯] |
-| *say*    | *segh*    | [seɪ̯] |
-| *way*    | *wegh*    | [weɪ̯] |
-| | | |
-| *weight* | *wïght*   | [weɪ̯t] |
-| | | |
-| *laid*   | *leghed*  | [leɪ̯d] |
-| | | |
-| *brain*  | *breghen* | [breɪ̯n] |
-| *lain*   | *leghen*  | [leɪ̯n] |
-| *rain*   | *reghen*  | [reɪ̯n] |
-| | | |
-| *sail*   | *seghel*  | [seɪ̯l] |
-| | | |
-| *near*   | *nēghr*   | [nɪə̯] |
-| *see*    | *sēgh*    | [si:] |
-| *seen*   | *sēghen*  | [si:n] |
 
 | | | |
 |-|-|-|
@@ -797,20 +810,14 @@ Germanic *ghs* is pronounced [ks] and doesn't contain a "magic -gh-".
 
 ### t
 
-<!-- It seems like *y* before consonant cluster *always* behaves like *e* = *ÿ*. crypt, knylt, dypth, thyft. -->
-<!-- Or, this is specific to -th or -t. -->
-<!-- Except "ng": kyng -->
-<!-- crypt [krɪpt] :/ -->
-<!-- bẏldt = byldt -->
-
 | | | |
 |-|-|-|
-| *built*   | *bildt*   | [bɪld] | <!-- bẏldt -->
-| *crept*   | *crypt*   | [krept] |
+| *built*   | *byldt*   | [bɪld] |
+| *crept*   | *crÿpt*   | [krept] |
 | *dreamt*  | *drømt*   | [dremt] |
 | *felt*    | *følt*    | [felt] |
 | *kept*    | *køpt*    | [kept] |
-| *knelt*   | *knylt*   | [nelt] |
+| *knelt*   | *knÿlt*   | [nelt] |
 | *learnt*  | *lernt*   | [lɜ:nt] |
 | *leapt*   | *løpt*    | [lept] |
 | *left*    | *læft*    | [left] |
@@ -890,11 +897,7 @@ In American đōgh, short **a** and **u** befor **r** ar allweġs pronũnced [e]
 
 <!-- holm "home" -->
 
-<!-- english ėnglish inglish -->
-
 <!-- frønd -->
-
-<!-- swear swore sworn -->
 
 <!-- * *wăr* [wɔ:ʳ]: **warr** = **wårr** -->
 <!-- * *wāre* [weəʳ]: **wār** -->
