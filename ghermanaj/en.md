@@ -113,7 +113,7 @@ Short *o* and *u* are often pronounced [ʌ] instead of [ʊ].
 | *blood* | *blôd* | [blʌd] |
 | *young* | *yûng* | [jʌŋ]  |
 
-### Long Vowels
+### Longish Vowels
 
 The "magic -e-" at the end of a word turns the short vowels *ă* [æ], *ĕ* [e], *ĭ* [ɪ], *ŏ* [ɒ], *ŭ* [ʊ] into their long/diphthong counterparts *ã* [eɪ̯], *ē* [i:], *ĩ* [aɪ̯], *õ* [oʊ̯], ū [ju:]. (These are the names of the letters *a* [eɪ̯], *e* [i:], *i* [aɪ̯], *o* [oʊ̯], *u* [ju:]. Note that even though these vowels are long-ish, *a* [eɪ̯], *i* [aɪ̯] and *o* [oʊ̯] are diphthongs.)
 
@@ -149,7 +149,7 @@ The "magic -e-" at the end of a word turns the short vowels *ă* [æ], *ĕ* [e],
 | *shove*  | *shûve*  | [ʃʌv] |
 | *wolves* | *wŭlves* | [wʊlvz] |
 
-#### Long a
+#### Longish a
 
 <!-- loan words-->
 
@@ -182,7 +182,7 @@ Many diphthong *a* [eɪ̯] come from French and are spellt *ai*.
 | | |
 | *pay*   | [peɪ̯] |
 
-#### Long e
+#### Longish e
 
 The long *e* [i:] can be spelled as *ea* in Germanic words.
 
@@ -248,7 +248,7 @@ The diphthong *e* [eɪ̯] can be spelled as *ea*.
 | *break* | *brek* | [breɪ̯k] |
 | *steak* | *stek* | [breɪ̯k] |
 
-#### i
+#### Longish i
 
 Words ending in -ld or -nd don't have a magic -e-.
 
@@ -294,7 +294,7 @@ The "magic -e-" with -e and -i can be used in closed syllables.
 | *shield* | *shēld* | [ʃi:ld] |
 | *yield*  | *ġēld*  | [ji:ld] |
 
-#### o
+#### Longish o
 
 Some diphthong *o* [oʊ̯] is spelled *oa*.
 
@@ -343,7 +343,7 @@ Long *o* [:u] is usually spelled *oo*.
 | *pool*  | *pōl*   | [pu:l] |
 | *stool* | *stōl*  | [stu:l] |
 
-#### u
+#### Longish u
 
 The diphthong *u* [ɑʊ̯] is often written *ou* without a "magic -e-".
 
@@ -362,7 +362,7 @@ The diphthong *u* [ɑʊ̯] is often written *ou* without a "magic -e-".
 | *sound*  | *sũnd*  | [sɑʊ̯nd] |
 | *town*   | *tũn*   | [tɑʊ̯n] |
 
-### Magic -w-
+### Silent -w-
 
 Instead of a "magic -e-", *w* can be used with *a* and *o*.
 
@@ -385,7 +385,7 @@ After *l* and *r*, *w* is pronounced like long *o* [oʊ̯].
 |-|-|-|
 | *yellow* | *ġelw* | [ˈjeloʊ̯] |
 
-### Magic -l-
+### Silent -l-
 
 Short *a* before *l* is pronounced [ɔ:] in Germanic words.
 
@@ -452,7 +452,7 @@ Short *o* before *l* is pronounced [oʊ̯] in Germanic words.
 |-|-|-|
 | *doll*   | *dŏll*   | [dɒl] |
 
-#### Magic -gh-
+#### Silent -gh-
 
 Instead of a "magic -e-", *gh* can be used in Germanic words with assimilated *g*, *h* or *kh*.
 
@@ -579,41 +579,6 @@ Germanic *gh* is sometimes equivalent to *w* and written as *ugh*. *aught* and *
 | *follow*    | *folǧh*    | [ˈfɒloʊ̯] |
 | *sorrow*    | *sorǧh*    | [ˈsɒroʊ̯] |
 | *tomorrow*  | *tomorǧh*  | [təˈmɒroʊ̯] |
-
-##### -gh- [f]
-
-After *ȃ* [a], *ô* [ʌ] and *û* [ʌ] Germanic *gh* is pronounced [f].
-
-| | | |
-|-|-|-|
-| *after*  | *ȃghter* | [aftə] |
-| *laugh*  | *lȃgh*   | [laf] |
-| | | |
-| *cough*  | *côgh*   | [rʌf] |
-| *enough* | *ğenôgh* | [ɪˈnʌf] |
-| *rough*  | *rûgh*   | [rʌf] |
-| *tough*  | *tôgh*   | [tʌf] |
-
-##### -gh- [k]
-
-Germanic *ghs* is pronounced [ks] and doesn't contain a "magic -gh-".
-
-| | | |
-|-|-|-|
-| *fox*   | *fůḡhs*  | [fɒks] |
-| *next*  | *neḡhst* | [nekst] |
-
-##### -gh- [ʤ]
-
-| | | |
-|-|-|-|
-| *badge*   | *baĝh*  | [bæʤ] |
-| *bridge*  | *bryĝh* | [brɪʤ] |
-| *edge*    | *eĝh*   | [eʤ] |
-| *hedge*   | *heĝh*  | [heʤ] |
-| *midge*   | *myĝh*  | [mɪʤ] |
-| *ridge*   | *ryĝh*  | [rɪʤ] |
-| *sledge*  | *sleĝh* | [sleʤ] |
 
 #### Silent -n-
 
@@ -748,7 +713,7 @@ his
 
 ## Consonants
 
-### c, k, ck, ch
+### c, ch
 
 | | |
 |-|-|
@@ -783,7 +748,7 @@ his
 | | | |
 | *stretch* | *strech*  | [stretʃ] |
 
-### g
+### g, gh
 
 | | | |
 |-|-|-|
@@ -792,6 +757,35 @@ his
 | | | |
 |-|-|-|
 | *egg* | *eı* | [eg] |
+
+After *ȃ* [a], *ô* [ʌ] and *û* [ʌ] Germanic *gh* is pronounced [f].
+
+| | | |
+|-|-|-|
+| *after*  | *ȃghter* | [aftə] |
+| *laugh*  | *lȃgh*   | [laf] |
+| | | |
+| *cough*  | *côgh*   | [rʌf] |
+| *enough* | *ğenôgh* | [ɪˈnʌf] |
+| *rough*  | *rûgh*   | [rʌf] |
+| *tough*  | *tôgh*   | [tʌf] |
+
+Germanic *ghs* is pronounced [ks] and doesn't contain a "magic -gh-".
+
+| | | |
+|-|-|-|
+| *fox*   | *fůḡhs*  | [fɒks] |
+| *next*  | *neḡhst* | [nekst] |
+
+| | | |
+|-|-|-|
+| *badge*   | *baĝh*  | [bæʤ] |
+| *bridge*  | *bryĝh* | [brɪʤ] |
+| *edge*    | *eĝh*   | [eʤ] |
+| *hedge*   | *heĝh*  | [heʤ] |
+| *midge*   | *myĝh*  | [mɪʤ] |
+| *ridge*   | *ryĝh*  | [rɪʤ] |
+| *sledge*  | *sleĝh* | [sleʤ] |
 
 ### w
 
@@ -807,6 +801,7 @@ his
 <!-- Or, this is specific to -th or -t. -->
 <!-- Except "ng": kyng -->
 <!-- crypt [krɪpt] :/ -->
+<!-- bẏldt = byldt -->
 
 | | | |
 |-|-|-|
