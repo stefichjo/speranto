@@ -68,6 +68,12 @@ Many short *e* [e] come from Germanic *æ*, *ai* or *au*, and even *eu*.
 | *depth*   | *dÿpth*   | [deptθ] |
 | *theft*   | *thÿft*   | [θeft] |
 
+Short *er* [ɜ:] <!-- -->
+
+| | |
+|-|-|
+| *herd* | [hɜ:d] |
+
 Short *er* [ɜ:] is often written like short *ur* [ɜ:].
 
 | | | |
@@ -133,6 +139,8 @@ Short *o* and *u* are often pronounced [ʌ] instead of [ʊ].
 |-|-|
 | *blood* | *blôd* | [blʌd] |
 | *young* | *yûng* | [jʌŋ]  |
+
+<!-- other -->
 
 Short *ur* [ɜ:] <!-- ... -->
 
@@ -664,15 +672,17 @@ Germanic *gh* is sometimes equivalent to *w* and written as *ugh*. *aught* and *
 
 | | | | |
 |-|-|-|-|
-| *goose*   | *gōs*   | *gån̆s*  | [gu:s] |
-| *geese*   | *gø̄s*  | *gæn̆s*  | [gi:s] |
-| *tooth*   | *tōth*  | *tån̆th* | [tu:θ] |
-| *teeth*   | *tø̄th* | *tæn̆th* | [ti:θ] |
+| *goose*   | *gōs*   | *gån̆s*   | [gu:s] |
+| *geese*   | *gø̄s*  | *gæn̆s*   | [gi:s] |
+| *tooth*   | *tōth*  | *tån̆th*  | [tu:θ] |
+| *teeth*   | *tø̄th* | *tæn̆th*  | [ti:θ] |
 | | | | |
-| *mouth*   | *mũth*  | *mun̆th* | [mɑʊ̯θ] |
-| *south*   | *sũth*  | *sun̆th* | [sɑʊ̯θ] |
+| *mouth*   | *mũth*  | *mun̆th*  | [mɑʊ̯θ] |
+| *south*   | *sũth*  | *sun̆th*  | [sɑʊ̯θ] |
 | | | | |
-| *my*      | *mie*   | *min̆e*  | [maɪ̯] |
+| *my*      | *mie*   | *min̆e*   | [maɪ̯] |
+| | | | |
+| *other*   | *âther* | *ân̆ther* | [ˈʌðə] |
 
 ##### an-
 
@@ -900,79 +910,26 @@ Germanic *ghs* is pronounced [ks] and doesn't contain a "magic -gh-".
 | | | |
 | *read*    | *red*     | [red] |
 
-
 <!-- lean lent lent -->
 <!-- lend lendt lendt -->
-
-<!-- ### Other Diphthongs und Long Vowels
-
-The long *o* [u:] is usually spelled *oo*.
-
-| | |
-|-|-|
-| *food* | [fu:d] | -->
-
 <!-- to → toe → too = tō -->
 <!-- lose → loos = lōs -->
 <!-- loose → loos = lōs -->
-
-<!--
-<!-- TODO African American Vernacular English, AE, Good Speech, BE (RP), Cockney -->
-
-<!-- ˈkeri ˈkærɪ ˈkæri -->
-
-<!-- * *mărch* [mɑ:tʃ]: **marẑ** -->
-
-<!-- 
+<!-- choose -->
+<!-- ˈkeri ˈkærɪ ˈkæri
+* *mărch* [mɑ:tʃ]: **marẑ**
 * *ĉheŵ* [tʃu:]: **ꝁu** = **khu**
 * *thătĉh* [θætʃ]: **thaꝁ** = **thakh**
--->
-
-<!-- # Legacy
-
-## +r
-
-### Lång Võc̆als and Diphthongs
-
-Âg̊hter [aɪ̯] **ĩ** and [aʊ̯] **ũ**, **r** is pronũnced [əʳ]. It is pronũnced [ɚ] in American.
-
-* *tīre* [taɪ̯əʳ] → [taɪ̯ɚ]: **tir**
-* *sõur* [saʊ̯əʳ] → [saʊ̯ɚ]: **sũr**
-
-Âg̊hter [i:] **ē** and [ju:] **ū**, **r** is pronũnced [əʳ], except in American. Đe pronunciation of **ē** and **ū** is shortened tǒ [ɪ] and [jʊ].
-
-* *bēer* [bɪəʳ] → [bɪr]: **bïr**
-* *pūre* [pjʊəʳ] → [pjʊr]: **pur**
-
-Âg̊hter [eɪ̯] **ā**, **r** is pronũnced [əʳ], except in American. Đe pronunciation of **ā** is shortened tǒ [e].
-
-* *fāre* [feəʳ] → [fer]: **far**
-
-Âg̊hter [əʊ̯] **ō**, **r** is pronũnced [ʳ], except in American. **ō** pronũnced lik [ɔ:] **au**.
-
-* *fōr* [fɔ:ʳ] → [fɔ:r]: **for**
-
-### Short Võc̆als
-
-Âg̊hter short võc̆al, **r** is pronũnced [ʳ] at đē end of ȇ wørd and mut befor consonant, except in Amerian. Short **e**, **i** and **u** ar pronũnced [ɜ:]. Short **o** befor **r** is pronũnced lik lång **o** befor **r**. Short **a** befor **r** is pronũnced like lång [ɑ:] **â**.
-
-* *shŏrt* [ʃɔ:t] → [ʃɔ:rt]: **short**
-* *ărm* [ɑ:m] → [ɑ:rm]: **arm**
-
-Befor ȇnôđer võc̆al, [r] **r** is conserved, ałs wøll ałs đe pronunciation of đe short võc̆al.
-
 * *bĕrrie* [beri]: **berrë**
 * *sŏrry* [sɒri]: **sorrig**
-
-In American đōgh, short **a** and **u** befor **r** ar allweġs pronũnced [e] and [ɜ:].
-
 * *Hărry* [hæri] → [heri]: **Harrï**
-* *hŭrry* [hʌri] → [hɜ:ri]: **hurrï** -->
-
+* *hŭrry* [hʌri] → [hɜ:ri]: **hurrï**
+-->
 <!-- holm "home" -->
-
 <!-- frønd -->
-
 <!-- * *wăr* [wɔ:ʳ]: **warr** = **wårr** -->
-
 <!-- solve [sɒlv] -->
+<!-- Herde -->
+
+
+
