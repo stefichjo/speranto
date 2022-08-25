@@ -46,6 +46,8 @@ In many words the pronunciation of the short *a* is [a] instead of [æ].
 | *chance* | *chȃnce* | [tʃans] |
 | *dance*  | *dȃnce*  | [dans] |
 
+There is no short *a* before *r* [ɜ:]. Instead, [long *a*](#lengthened-a) before *r* [ɑə̯] is pronounced.
+
 #### Short e
 
 Many short *e* [e] come from Germanic *æ*, *ai* or *au*, and even *eu*.
@@ -54,10 +56,10 @@ Many short *e* [e] come from Germanic *æ*, *ai* or *au*, and even *eu*.
 |-|-|-|
 | *breath*  | *bræth*   | [breθ] |
 | *drench*  | *drænch*  | [drentʃ] |
-| *led*     | *læd*     | [led] |
-| *men*     | *mæn*     | [men] |
-| | |
 | *health*  | *hælth*   | [helθ] |
+| *led*     | *læd*     | [led] |
+| *length*  | *længth*  | [leŋθ] |
+| *men*     | *mæn*     | [men] |
 | *stealth* | *stælth*  | [stelθ] |
 | | |
 | *bread*   | *brød*    | [bred] |
@@ -114,7 +116,7 @@ Short *o* and *u* are often pronounced [ʌ] instead of [ʊ].
 | *blood* | *blôd* | [blʌd] |
 | *young* | *yûng* | [jʌŋ]  |
 
-### Longish Vowels
+### Lengthened Vowels
 
 The "magic -e-" at the end of a word turns the short vowels *ă* [æ], *ĕ* [e], *ĭ* [ɪ], *ŏ* [ɒ], *ŭ* [ʊ] into their long/diphthong counterparts *ã* [eɪ̯], *ē* [i:], *ĩ* [aɪ̯], *õ* [oʊ̯], ū [ju:]. (These are the names of the letters *a* [eɪ̯], *e* [i:], *i* [aɪ̯], *o* [oʊ̯], *u* [ju:]. Note that even though these vowels are long-ish, *a* [eɪ̯], *i* [aɪ̯] and *o* [oʊ̯] are diphthongs.)
 
@@ -127,8 +129,6 @@ The "magic -e-" at the end of a word turns the short vowels *ă* [æ], *ĕ* [e],
 | *ue* | [ju:] | | *Sue* |
 
 <!-- seed seed/sede/sēd / sæd? -->
-<!-- sigh -->
-<!-- frighdagh -->
 
 *v* is always written with a "magic -e-", even after short vowels.
 
@@ -152,7 +152,7 @@ The "magic -e-" at the end of a word turns the short vowels *ă* [æ], *ĕ* [e],
 | *shove*  | *shûve*  | [ʃʌv] |
 | *wolves* | *wŭlves* | [wʊlvz] |
 
-#### Longish a
+#### Lengthened a
 
 Long *a* [ɑ:] as in *father* [ˈfɑ:ðə] is used in loan words.
 
@@ -177,35 +177,32 @@ Diphthong *a* [eɪ̯] is written with a silent *e*.
 |-|-|-|
 | *great* | *grȏte* | [greɪ̯t] |
 
-Many diphthong *a* [eɪ̯] come from *agh* or *egh* and are spelt *ai*.
+Many diphthong *a* [eɪ̯] come from *agh* or *egh* and are spelt *ai* or *eigh*.
 
 | | | |
 |-|-|-|
-| *day*     | *dagh*    | [deɪ̯] |
-| *eight*   | *aght*    | [eɪ̯t] |
-| *freight* | *fraght*  | [freɪ̯t] |
-| *lay*     | *lagh*    | [leɪ̯] |
-| *main*    | *maghen*  | [meɪ̯n] |
-| *may*     | *magh*    | [meɪ̯] |
-| *nail*    | *naghel*  | [neɪ̯l] |
-| *slain*   | *slaghen* | [sleɪ̯] |
-| *slay*    | *slagh*   | [sleɪ̯] |
+| *day*     | *dagh*      | [deɪ̯] |
+| *eight*   | *aght*      | [eɪ̯t] |
+| *freight* | *fraght*    | [freɪ̯t] |
+| *friday*  | *frighdagh* | [ˈfraɪ̯deɪ̯] |
+| *lay*     | *lagh*      | [leɪ̯] | <!-- ligh lagh leghen  -->
+| *main*    | *maghen*    | [meɪ̯n] |
+| *may*     | *magh*      | [meɪ̯] |
+| *nail*    | *naghel*    | [neɪ̯l] |
+| *slain*   | *slaghen*   | [sleɪ̯] |
+| *slay*    | *slagh*     | [sleɪ̯] |
 | | | |
-| *brain*   | *breghen* | [breɪ̯n] |
-| *laid*    | *leghed*  | [leɪ̯d] |
-| *lain*    | *leghen*  | [leɪ̯n] |
-| *lay*     | *legh*    | [leɪ̯] |
-| *play*    | *plegh*   | [pleɪ̯] |
-| *rain*    | *reghen*  | [reɪ̯n] |
-| *sail*    | *seghel*  | [seɪ̯l] |
-| *say*     | *segh*    | [seɪ̯] |
-| *way*     | *wegh*    | [weɪ̯] |
-| *weigh*   | *wegh*    | [weɪ̯] |
-| *weight*  | *wïght*   | [weɪ̯t] |
-| | | |
-| *near*    | *nēghr*   | [nɪə̯] |
-| *see*     | *sēgh*    | [si:] |
-| *seen*    | *sēghen*  | [si:n] |
+| *brain*   | *breghen*   | [breɪ̯n] |
+| *laid*    | *leghed*    | [leɪ̯d] |
+| *lain*    | *leghen*    | [leɪ̯n] |
+| *lay*     | *legh*      | [leɪ̯] | <!-- legh leghed leghed -->
+| *play*    | *plegh*     | [pleɪ̯] |
+| *rain*    | *reghen*    | [reɪ̯n] |
+| *sail*    | *seghel*    | [seɪ̯l] |
+| *say*     | *segh*      | [seɪ̯] |
+| *way*     | *wegh*      | [weɪ̯] |
+| *weigh*   | *wegh*      | [weɪ̯] |
+| *weight*  | *wïght*     | [weɪ̯t] |
 
 Many diphthong *a* [eɪ̯] come from French and are spelt *ai*.
 
@@ -216,9 +213,24 @@ Many diphthong *a* [eɪ̯] come from French and are spelt *ai*.
 | | |
 | *pay*   | [peɪ̯] |
 
-#### Longish e
+Before *r*, long *a* is pronounced [ɑə̯], whereas diphthong *a* is pronounced [ɛə̯].
 
-Long *e* [i:] is spelt *ea* or with silent *e* as *ee*.
+| | | |
+|-|-|-|
+| *car*  | [kɑə̯] |
+| | | |
+| *care* | [kɛə̯] |
+
+Long *a* before *r* is always spelt as a short *a*.
+
+| | |
+|-|-|
+| *star*   | [stɑə̯] |
+| *starry* | [ˈstɑə̯rɪ] |
+
+#### Lengthened e
+
+Long *e* [i:] is spelt *ea* or with silent *e* as *ee*. Before *ld*, long *e* [i:] is spelt *ie*. <!-- Is there a more general rule behind that? "thief" ? -->
 
 | | | |
 |-|-|-|
@@ -228,8 +240,10 @@ Long *e* [i:] is spelt *ea* or with silent *e* as *ee*.
 | *year*    | *yere*    | [jɪə̯] | <!-- yær yære ? -->
 | | | |
 | *steel*   | *stele*   | [sti:l] |
-
-<!-- ie (thief) -->
+| | | |
+| *field*  | *felde*  | [fi:ld] |
+| *shield* | *shelde* | [ʃi:ld] |
+| *yield*  | *ġelde*  | [ji:ld] |
 
 Long *e* [i:] with silent *e* is the preferred spelling in loan words.
 
@@ -282,6 +296,14 @@ In many cases, a long *e* [i:] comes from a Germanic *au*, *o*, as well as *ai*,
 | *meek*    | *myk*     | [mi:k] |
 | *thief*   | *thyf*    | [θi:f] |
 
+After long *e* [i:], *gh* is mute.
+
+| | | |
+|-|-|-|
+| *near*    | *nēghr*   | [nɪə̯] |
+| *see*     | *sēgh*    | [si:] |
+| *seen*    | *sēghen*  | [si:n] |
+
 The diphthong *e* [eɪ̯] can be spelled as *ea*.
 
 | | | |
@@ -297,9 +319,33 @@ Before *r*, long *e* is pronounced [ɪə̯], whereas diphthong *e* is pronounced
 | | | |
 | *swear* | *swẽr* | [swɛə̯] |
 
-#### Longish i
+#### Lengthened i
 
-Words ending in -ld or -nd don't have a magic -e-.
+Long *i* [i:] is spelt like long *e*.
+
+| | | |
+|-|-|-|
+| *beetle*  | *bitel*   | [ˈbi:tl̩] |
+| *free*    | *frī*     | [fri:] |
+| *me*      | *mī*      | [mi:] |
+| *tree*    | *trȳ*     | [tri:] |
+| *week*    | *wik*     | [wi:k] |
+| | | |
+| *sieve*   | *sīve*    | [si:v] |
+
+In some loan words, long -i [:i] is spelt with silent *e*.
+
+| | | |
+|-|-|-|
+| *machine* | *maçhīne* | [məˈʃi:n] |
+
+Diphthong *i* [aɪ̯] is spelt with silent *e*.
+
+| | |
+|-|-|
+| *side* | [saɪ̯d] |
+
+Words ending in -ld or -nd lack a silent -e-.
 
 | | | |
 |-|-|-|
@@ -310,44 +356,48 @@ Words ending in -ld or -nd don't have a magic -e-.
 | *bind*  | *binde*  | [baɪ̯nd] |
 | *blind* | *blinde* | [blaɪ̯nd] |
 | *find*  | *finde*  | [faɪ̯nd] |
-| *mind*  | *mynde*  | [maɪ̯nd] |
-
-<!-- 
 | *lice*  | *lyse*   | [laɪ̯s] |
+| *mind*  | *mynde*  | [maɪ̯nd] |
 | *mice*  | *myse*   | [maɪ̯s] |
- -->
+
 <!-- * *fīve* [faɪ̯v]: **fīñf** = **fīm̃f** -->
 <!-- fĩnv finve -nv- ? -->
 <!-- try trĩ -->
 
-In some words, the "magic -e-" with -i can denote a long -i [:i].
+Many diphthong *i* [aɪ̯] come from *igh*.
+
+| | |
+|-|-|
+| *sigh*   | [saɪ̯] |
+| | |
+| *bright* | [braɪ̯t] |
+| *fight*  | [faɪ̯t] |
+| *knight* | [naɪ̯t] |
+| *light*  | [laɪ̯t] |
+| *night*  | [naɪ̯t] |
+| *plight* | [plaɪ̯t] |
+| *right*  | [raɪ̯t] |
+| *sight*  | [saɪ̯t] |
+| *slight* | [slaɪ̯t] |
+| *tight*  | [taɪ̯t] |
 
 | | | |
 |-|-|-|
-| *machine* | *maçhīne* | [məˈʃi:n] |
+| *eye*    | *øgh*    | [aɪ̯] |
+| *high*   | *høgh*   | [haɪ̯] |
+| *I*      | *igh*    | [aɪ̯] |
+| *nigh*   | *nėgh*   | [naɪ̯] |
+| *lie*    | *ligh*   | [laɪ̯] |
+| *lie*    | *lygh*   | [laɪ̯] |
+| *might*  | *møght*  | [maɪ̯t] |
+| | |
+| *flight* | *flyght* | [flaɪ̯t] |
+| *fly*    | *flygh*  | [flaɪ̯] |
+| *fright* | *fryght* | [fraɪ̯t] |
+| *light*  | *lyght*  | [laɪ̯t] |
+| *rye*    | *rygh*   | [raɪ̯] |
 
-In Germanic words, long *i* [i:] is spelled as long *e*.
-
-| | | |
-|-|-|-|
-| *beetle*  | *bitel*   | [ˈbi:tl̩] |
-| *sieve*   | *sīve*    | [si:v] |
-| *week*    | *wik*     | [wi:k] |
-| | | |
-| *free*    | *frī*     | [fri:] |
-| *me*      | *mī*      | [mi:] |
-| | | |
-| *tree*    | *trȳ*     | [tri:] | <!-- TODO -->
-
-The "magic -e-" with -e and -i can be used in closed syllables.
-
-| | | |
-|-|-|-|
-| *field*  | *fēld*  | [fi:ld] |
-| *shield* | *shēld* | [ʃi:ld] |
-| *yield*  | *ġēld*  | [ji:ld] |
-
-#### Longish o
+#### Lengthened o
 
 Some diphthong *o* [oʊ̯] is spelled *oa*.
 
@@ -380,13 +430,13 @@ In many cases, a diphthong *o* [oʊ̯] comes from a Germanic *ai* ur *u*.
 | | | |
 | *own*    | *æ̃ghen* | [oʊ̯n] |
 | | | |
-| *bold*   | *bålde*   | [boʊ̯ld] |
-| *cold*   | *cålde*   | [koʊ̯ld] |
-| *fold*   | *fålde*   | [foʊ̯ld] |
-| *hold*   | *hålde*   | [hoʊ̯ld] |
-| *old*    | *ålde*    | [oʊ̯ld] |
+| *bold*   | *bålde*  | [boʊ̯ld] |
+| *cold*   | *cålde*  | [koʊ̯ld] |
+| *fold*   | *fålde*  | [foʊ̯ld] |
+| *hold*   | *hålde*  | [hoʊ̯ld] |
+| *old*    | *ålde*   | [oʊ̯ld] |
 | | | |
-| *gold*   | *gůlde*   | [goʊ̯ld] |
+| *gold*   | *gůlde*  | [goʊ̯ld] |
 
 Long *o* [:u] is usually spelled *oo*.
 
@@ -396,7 +446,7 @@ Long *o* [:u] is usually spelled *oo*.
 | *pool*  | *pōl*   | [pu:l] |
 | *stool* | *stōl*  | [stu:l] |
 
-#### Longish u
+#### Lengthened u
 
 The diphthong *u* [ɑʊ̯] is often written *ou* without a "magic -e-".
 
@@ -506,39 +556,6 @@ Short *o* before *l* is pronounced [oʊ̯] in Germanic words.
 | *doll*   | *dŏll*   | [dɒl] |
 
 #### Silent -gh-
-
-Instead of a "magic -e-", *gh* can be used in Germanic words with assimilated *g*, *h* or *kh*.
-
-| | |
-|-|-|
-| *sigh*   | [saɪ̯] |
-| | |
-| *bright* | [braɪ̯t] |
-| *fight*  | [faɪ̯t] |
-| *knight* | [naɪ̯t] |
-| *light*  | [laɪ̯t] |
-| *night*  | [naɪ̯t] |
-| *plight* | [plaɪ̯t] |
-| *right*  | [raɪ̯t] |
-| *sight*  | [saɪ̯t] |
-| *slight* | [slaɪ̯t] |
-| *tight*  | [taɪ̯t] |
-
-| | | |
-|-|-|-|
-| *eye*    | *øgh*    | [aɪ̯] |
-| *high*   | *høgh*   | [haɪ̯] |
-| *I*      | *igh*    | [aɪ̯] |
-| *nigh*   | *nėgh*   | [naɪ̯] |
-| *lie*    | *ligh*   | [laɪ̯] |
-| *lie*    | *lygh*   | [laɪ̯] |
-| *might*  | *møght*  | [maɪ̯t] |
-| | |
-| *rye*    | *rygh*   | [raɪ̯] |
-| *flight* | *flyght* | [flaɪ̯t] |
-| *fly*    | *flygh*  | [flaɪ̯] |
-| *fright* | *fryght* | [fraɪ̯t] |
-| *light*  | *lyght*  | [laɪ̯t] |
 
 | | | |
 |-|-|-|
@@ -657,7 +674,11 @@ Germanic *gh* is sometimes equivalent to *w* and written as *ugh*. *aught* and *
 | *although* | *althogh* | [ɔ:lˈðoʊ̯] |
 
 <!-- altogether -->
-
+<!-- 
+bear bore born - bẽr bære boren
+tear tore torn - tẽr tære toren
+wear wore worn - wẽr wære woren
+ -->
 #### one
 
 | | | |
@@ -695,7 +716,7 @@ Germanic *gh* is sometimes equivalent to *w* and written as *ugh*. *aught* and *
 | *whos*   | *w̌hōs*  | [hu:s] |
 | | | |
 | *where*  | *whare*  | [hwɛə̯] |
-| *there*  | *thare*  | [ðɛə̯] |<!-- thẽr -->
+| *there*  | *thare*  | [ðɛə̯] |<!-- actually thẽr -->
 | *here*   | *hīr*    | [hɪə̯] |
 | | | |
 | *when*   | *whæn*   | [hwen] |
@@ -765,6 +786,7 @@ his
 
 | | | |
 |-|-|-|
+| *aware*     | *ğeware*     | [əˈwɛə̯] |
 | *yesterday* | *ġesterdagh* | [ˈjestədeɪ̯] |
 
 | | | |
@@ -825,7 +847,10 @@ Germanic *ghs* is pronounced [ks] and doesn't contain a "magic -gh-".
 | *swept*   | *swæpt*   | [swept] |
 | *wept*    | *wøpt*    | [wept] |
 | | | |
+| *heard*   | *hørd*    | [hɜ:d] |
+| | | |
 | *read*    | *red*     | [red] |
+
 
 <!-- lean lent lent -->
 <!-- lend lendt lendt -->
@@ -900,6 +925,5 @@ In American đōgh, short **a** and **u** befor **r** ar allweġs pronũnced [e]
 <!-- frønd -->
 
 <!-- * *wăr* [wɔ:ʳ]: **warr** = **wårr** -->
-<!-- * *wāre* [weəʳ]: **wār** -->
 
 <!-- solve [sɒlv] -->
