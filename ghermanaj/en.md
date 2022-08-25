@@ -68,6 +68,12 @@ Many short *e* [e] come from Germanic *æ*, *ai* or *au*, and even *eu*.
 | *depth*   | *dÿpth*   | [deptθ] |
 | *theft*   | *thÿft*   | [θeft] |
 
+Short *er* [ɜ:] is often written like short *ur* [ɜ:].
+
+| | | |
+|-|-|-|
+| *burn*  | *bern* | [bɜ:n] |
+
 #### Short i
 
 Some short *i* [ɪ] comes from Germanic *y*.
@@ -75,6 +81,12 @@ Some short *i* [ɪ] comes from Germanic *y*.
 | | | |
 |-|-|-|
 | *sin*  | *syn* | [sɪn] |
+
+Short *ir* [ɜ:] is often written like short *ur* [ɜ:].
+
+| | | |
+|-|-|-|
+| *church* | *chirch* | [tʃɜ:tʃ] |
 
 #### Short o
 
@@ -91,6 +103,12 @@ After *qu* and *w*, short *a* is pronounced like short *o* [ɒ].
 |-|-|
 | *quantity* | [ˈkwɒntəti] |
 | *want*     | [wɒnt] |
+
+Short *or* [ɜ:] <!-- ... -->
+
+| | |
+|-|-|
+| *word* | [wɜ:d] |
 
 #### Short u
 
@@ -115,6 +133,12 @@ Short *o* and *u* are often pronounced [ʌ] instead of [ʊ].
 |-|-|
 | *blood* | *blôd* | [blʌd] |
 | *young* | *yûng* | [jʌŋ]  |
+
+Short *ur* [ɜ:] <!-- ... -->
+
+| | |
+|-|-|
+| *worm* | *wurm* | [wɜ:m] |
 
 ### Lengthened Vowels
 
@@ -213,7 +237,7 @@ Many diphthong *a* [eɪ̯] come from French and are spelt *ai*.
 | | |
 | *pay*   | [peɪ̯] |
 
-Before *r*, long *a* is pronounced [ɑə̯], whereas diphthong *a* is pronounced [ɛə̯].
+Long *ar* is pronounced [ɑə̯], whereas diphthong *ar* is pronounced [ɛə̯].
 
 | | | |
 |-|-|-|
@@ -221,7 +245,7 @@ Before *r*, long *a* is pronounced [ɑə̯], whereas diphthong *a* is pronounced
 | | | |
 | *care* | [kɛə̯] |
 
-Long *a* before *r* is always spelt as a short *a*.
+Long *ar* is always spelt as a short *a*.
 
 | | |
 |-|-|
@@ -303,6 +327,8 @@ After long *e* [i:], *gh* is mute.
 | *near*    | *nēghr*   | [nɪə̯] |
 | *see*     | *sēgh*    | [si:] |
 | *seen*    | *sēghen*  | [si:n] |
+| | | |
+| *tear*    | *tǣghr*   | [ti:r] |
 
 The diphthong *e* [eɪ̯] can be spelled as *ea*.
 
@@ -311,7 +337,7 @@ The diphthong *e* [eɪ̯] can be spelled as *ea*.
 | *break* | *brek* | [breɪ̯k] |
 | *steak* | *stek* | [steɪ̯k] |
 
-Before *r*, long *e* is pronounced [ɪə̯], whereas diphthong *e* is pronounced [ɛə̯].
+Long *er* is pronounced [ɪə̯], whereas diphthong *er* is pronounced [ɛə̯].
 
 | | | |
 |-|-|-|
@@ -397,6 +423,14 @@ Many diphthong *i* [aɪ̯] come from *igh*.
 | *light*  | *lyght*  | [laɪ̯t] |
 | *rye*    | *rygh*   | [raɪ̯] |
 
+Long *ir* is pronounced [ɪə̯], whereas diphthong *ir* is pronounced [aɪ̯ə̯].
+
+| | | |
+|-|-|-|
+| *here*  | *hīr*  | [hɪə̯] |
+| | | |
+| *hire*  | *hyre* | [haɪ̯ə̯] |
+
 #### Lengthened o
 
 Some diphthong *o* [oʊ̯] is spelled *oa*.
@@ -446,6 +480,14 @@ Long *o* [:u] is usually spelled *oo*.
 | *pool*  | *pōl*   | [pu:l] |
 | *stool* | *stōl*  | [stu:l] |
 
+Long *or* is pronounced [ʊə̯], whereas diphthong *or* is pronounced [ɔə̯].
+
+| | | |
+|-|-|-|
+| *poor*  | *pōr*  | [pʊə̯] |
+| | | |
+| *pore*  | *pore* | [pɔə̯] |
+
 #### Lengthened u
 
 The diphthong *u* [ɑʊ̯] is often written *ou* without a "magic -e-".
@@ -464,6 +506,14 @@ The diphthong *u* [ɑʊ̯] is often written *ou* without a "magic -e-".
 | *round*  | *rũnd*  | [rɑʊ̯nd] |
 | *sound*  | *sũnd*  | [sɑʊ̯nd] |
 | *town*   | *tũn*   | [tɑʊ̯n] |
+
+Long *ur* is pronounced [jʊə̯], whereas diphthong *ur* is pronounced [ɑʊ̯ə̯].
+
+| | | |
+|-|-|-|
+| *pure* | *pure* | [pjʊə̯] |
+| | | |
+| *sour* | *sũr*  | [ˈsɑʊ̯ə̯] |
 
 ### Silent -w-
 
@@ -778,7 +828,6 @@ his
 | *cheek*   | *chøk*    | [tʃi:k] |
 | *chest*   | *chïst*   | [tʃest] |
 | *chicken* | *chyckin* | [ˈtʃɪkɪn] |
-| *church*  | *chirch*  | [tʃɜ:tʃ] |
 | | | |
 | *stretch* | *strech*  | [stretʃ] |
 
