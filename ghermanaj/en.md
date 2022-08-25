@@ -88,6 +88,16 @@ Some short *i* [ɪ] comes from Germanic *y*.
 |-|-|-|
 | *sin*  | *syn* | [sɪn] |
 
+Short *ir* [ɜ:] <!-- ... -->
+
+| | |
+|-|-|
+| *sir* | [sɜ:] |
+
+| | | |
+|-|-|-|
+| *stir* | *styr* | [stɜ:] |
+
 Short *ir* [ɜ:] is often written like short *ur* [ɜ:].
 
 | | | |
@@ -137,10 +147,10 @@ Short *o* and *u* are often pronounced [ʌ] instead of [ʊ].
 
 | | |
 |-|-|
-| *blood* | *blôd* | [blʌd] |
-| *young* | *yûng* | [jʌŋ]  |
-
-<!-- other -->
+| *blood*   | *blôd*    | [blʌd] |
+| *brother* | *brôther* | [ˈbrʌðə] |
+| *mother*  | *môther*  | [ˈmʌðə] |
+| *young*   | *yûng*    | [jʌŋ]  |
 
 Short *ur* [ɜ:] <!-- ... -->
 
@@ -178,6 +188,7 @@ The "magic -e-" at the end of a word turns the short vowels *ă* [æ], *ĕ* [e],
 | *dove*   | *dûve*   | [dʌv] |
 | *driven* | *drĭven* | [drɪven] |
 | *give*   | *gĭve*   | [gɪv] |
+| *glove*  | *gĕlôve* | [glʌv] |
 | *have*   | *hăve*   | [hæv] |
 | *live*   | *lĭve*   | [lɪv] |
 | *love*   | *lûve*   | [lʌv] |
@@ -242,6 +253,9 @@ Many diphthong *a* [eɪ̯] come from French and are spelt *ai*.
 |-|-|
 | *plain* | [pleɪ̯n] |
 | *plane* | [pleɪ̯n] |
+| | |
+| *pair*  | [pɛə̯] |
+| *pare*  | [pɛə̯] |
 | | |
 | *pay*   | [peɪ̯] |
 
@@ -394,8 +408,6 @@ Words ending in -ld or -nd lack a silent -e-.
 | *mind*  | *mynde*  | [maɪ̯nd] |
 | *mice*  | *myse*   | [maɪ̯s] |
 
-<!-- * *fīve* [faɪ̯v]: **fīñf** = **fīm̃f** -->
-<!-- fĩnv finve -nv- ? -->
 <!-- try trĩ -->
 
 Many diphthong *i* [aɪ̯] come from *igh*.
@@ -418,17 +430,18 @@ Many diphthong *i* [aɪ̯] come from *igh*.
 | | | |
 |-|-|-|
 | *eye*    | *øgh*    | [aɪ̯] |
+| *fly*    | *flygh*  | [flaɪ̯] |
 | *high*   | *høgh*   | [haɪ̯] |
 | *I*      | *igh*    | [aɪ̯] |
 | *nigh*   | *nėgh*   | [naɪ̯] |
 | *lie*    | *ligh*   | [laɪ̯] |
 | *lie*    | *lygh*   | [laɪ̯] |
-| *might*  | *møght*  | [maɪ̯t] |
+| *thigh*  | *thygh*  | [θaɪ̯] |
 | | |
 | *flight* | *flyght* | [flaɪ̯t] |
-| *fly*    | *flygh*  | [flaɪ̯] |
 | *fright* | *fryght* | [fraɪ̯t] |
 | *light*  | *lyght*  | [laɪ̯t] |
+| *might*  | *møght*  | [maɪ̯t] |
 | *rye*    | *rygh*   | [raɪ̯] |
 
 Long *ir* is pronounced [ɪə̯], whereas diphthong *ir* is pronounced [aɪ̯ə̯].
@@ -625,6 +638,7 @@ Short *o* before *l* is pronounced [oʊ̯] in Germanic words.
 | *owe*    | *ægh*     | [oʊ̯] |
 | *own*    | *æghen*   | [oʊ̯n] |
 | *though* | *thogh*   | [ðoʊ̯] |
+| *toe*    | *tægh*    | [toʊ̯] |
 | *window* | *windogh* | [ˈwɪndoʊ̯] |
 
 | | | |
@@ -680,6 +694,7 @@ Germanic *gh* is sometimes equivalent to *w* and written as *ugh*. *aught* and *
 | *mouth*   | *mũth*  | *mun̆th*  | [mɑʊ̯θ] |
 | *south*   | *sũth*  | *sun̆th*  | [sɑʊ̯θ] |
 | | | | |
+| *five*    | *five*  | *fin̆ve*  | [faɪ̯v] |
 | *my*      | *mie*   | *min̆e*   | [maɪ̯] |
 | | | | |
 | *other*   | *âther* | *ân̆ther* | [ˈʌðə] |
@@ -711,6 +726,8 @@ Germanic *gh* is sometimes equivalent to *w* and written as *ugh*. *aught* and *
 | *aside*   | *on̆side*   | [əˈsaɪ̯d] |
 | *away*    | *on̆wegh*   | [əˈweɪ̯] |
 
+<!-- awhirl -->
+
 #### be
 
 <!-- am is -->
@@ -726,19 +743,21 @@ Germanic *gh* is sometimes equivalent to *w* and written as *ugh*. *aught* and *
 
 | | | |
 |-|-|-|
-| *almost*   | *almæ̃st* | [ˈɔ:lmoʊ̯st] |
-| *also*     | *alsõ*    | [ˈɔ:lsoʊ̯] |
-| *always*   | *alweghs* | [ˈɔ:lweɪ̯z] |
+| *almost*     | *almæ̃st*    | [ˈɔ:lmoʊ̯st] |
+| *also*       | *alsõ*       | [ˈɔ:lsoʊ̯] |
+| *always*     | *alweghs*    | [ˈɔ:lweɪ̯z] |
 | | | |
-| *already*  | *alrædy*  | [ɔ:lˈredɪ] |
-| *although* | *althogh* | [ɔ:lˈðoʊ̯] |
+| *already*    | *alrædy*     | [ɔ:lˈredɪ] |
+| *although*   | *althogh*    | [ɔ:lˈðoʊ̯] |
+| | | |
+| *altogether* | *altōgæther* | [ɔ:lˈðoʊ̯] |
 
-<!-- altogether -->
 <!-- 
 bear bore born - bẽr bære boren
 tear tore torn - tẽr tære toren
 wear wore worn - wẽr wære woren
  -->
+
 #### one
 
 | | | |
@@ -912,7 +931,6 @@ Germanic *ghs* is pronounced [ks] and doesn't contain a "magic -gh-".
 
 <!-- lean lent lent -->
 <!-- lend lendt lendt -->
-<!-- to → toe → too = tō -->
 <!-- lose → loos = lōs -->
 <!-- loose → loos = lōs -->
 <!-- choose -->
