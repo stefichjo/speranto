@@ -1,5 +1,4 @@
-# Ėnglish Orthography
-<!-- Ȧnglish? Ėnglish? Inglish? -->
+# Inglish Orthography
 
 ## Vowels
 
@@ -52,7 +51,17 @@ In many words the pronunciation of the short *a* is [a] instead of [æ].
 | *chance* | *chȃnce* | [tʃans] |
 | *dance*  | *dȃnce*  | [dans] |
 
-There is no short *a* before *r* [ɜ:]. Instead, [long *a*](#lengthened-a) before *r* [ɑə̯] is pronounced.
+Short vowels before *r* are pronounced [ɜ:], unless the *r* is followed by another vowel.
+
+| | | |
+|-|-|-|
+| *berry* | *berry* | [ˈkerɪ] |
+| *carry* | *carry* | [ˈkærɪ] | <!-- unexpectedly, AE cãrry ˈkeri -->
+| *hurry* | *hûrry* | [ˈhʌrɪ] | <!-- etymo? -->
+| *sorry* | *sorry* | [ˈsɒrɪ] |
+| *worry* | *wôrry* | [ˈwʌrɪ] | <!-- unexpectedly, AE worr-y 'wɜ:ri -->
+
+There is no short *ar* [ɜ:]. Instead, [long *ar*](#lengthened-a) [ɑə̯] is pronounced.
 
 #### Short e
 
@@ -81,11 +90,14 @@ Short *er* is pronounced [ɜ:].
 |-|-|
 | *herd* | [hɜ:d] |
 
-Short *er* [ɜ:] is often written like short *ur* [ɜ:].
+Short *er* [ɜ:] is often written like short *or* [ɜ:] or *ur* [ɜ:].
 
 | | | |
 |-|-|-|
-| *burn*  | *bern* | [bɜ:n] |
+| *world* | *werld* | [wɜ:ld] <!-- imagine wẽrald [ˈwɛə̯rəld] -->
+| *worth* | *werth* | [wɜ:θ]
+| | | |
+| *burn*  | *bern*  | [bɜ:n] |
 
 #### Short i
 
@@ -95,6 +107,18 @@ Some short *i* [ɪ] comes from *y*.
 |-|-|-|
 | *little* | *lyttel* | [ˈlɪtl̩] |
 | *sin*    | *syn*    | [sɪn] |
+
+Some short *i* [ɪ] comes from *a*, *o* or *u*.
+
+| | | |
+|-|-|-|
+| *mister*  | *mister*  | [ˈmɪstə] | <!-- actually mȧster >
+| *english* | *inglish* | [ˈmɪstə] | <!-- actually ȧnglish -->
+| | | |
+| *women*   | *wȯmėn*   | [ˈwɪmɪn] | <!-- or the other way around: wimėn, woman ˈwʊmən -->
+| | | |
+| *minute*  | *minu̇te* | [ˈmɪnɪt] |
+
 
 Short *ir* is pronounced [ɜ:].
 
@@ -182,19 +206,13 @@ The silent *e* at the end of a word turns the short vowels *ă* [æ], *ĕ* [e], 
 | | | |
 |-|-|-|
 | *behave* | *behave* | [bɪˈheɪ̯v] |
-| *drive*  | *drive*  | [draɪ̯v] |
-| *drove*  | *drove*  | [droʊ̯v] |
-| *gave*   | *gave*   | [geɪ̯v] |
 | *lives*  | *lives*  | [laɪ̯vz] |
 | | | |
 | *groove* | *grōve*  | [gru:v] |
 | *move*   | *mōve*   | [mu:v] |
 | | | |
 | *dove*   | *dûve*   | [dʌv] |
-| *driven* | *drĭven* | [drɪven] |
-| *give*   | *gĭve*   | [gɪv] |
 | *glove*  | *gĕlôve* | [glʌv] |
-| *have*   | *hăve*   | [hæv] |
 | *live*   | *lĭve*   | [lɪv] |
 | *love*   | *lûve*   | [lʌv] |
 | *shove*  | *shûve*  | [ʃʌv] |
@@ -218,11 +236,11 @@ Diphthong *a* [eɪ̯] is written with a silent *e*.
 |-|-|
 | *bathe* | [beɪ̯ð] |
 
-<!-- inverted breve -->
+<!-- inverted breve; is it worth it? -->
 
 | | | |
 |-|-|-|
-| *great* | *grȏte* | [greɪ̯t] |
+| *great* | *grȏte* | [greɪ̯t] | <!-- grate ? -->
 | *war*   | *wȇr*   | [wɔə̯] |
 | *warp*  | *wȇrp*  | [wɔ:p] |
 
@@ -265,6 +283,7 @@ Long *ar* is pronounced [ɑə̯], whereas diphthong *ar* is pronounced [ɛə̯].
 | *car*  | [kɑə̯] |
 | | | |
 | *care* | [kɛə̯] |
+| *hare* | [hɛə̯] |
 
 Long *ar* is always spelt as a short *a*.
 
@@ -291,7 +310,7 @@ Long *e* [i:] with silent *e* is the preferred spelling in loan words.
 | | |
 |-|-|
 | *concrete* | [ˈkɒŋkri:t] |
-| | |# 
+| | |
 | *mete*     | [mi:t] |
 
 In many cases, a long *e* [i:] comes from a Germanic *au*, *o*, as well as *ai*, *i* or *y*.
@@ -347,11 +366,11 @@ Long *er* is pronounced [ɪə̯], whereas diphthong *er* is pronounced [ɛə̯].
 
 | | | |
 |-|-|-|
-| *fear*  | *fere* | [fɪə̯] |
-
+| *ear*      | *ør*      | [ɪə̯] |
+| *fear*     | *fere*    | [fɪə̯] |
 | | | |
-|-|-|-|
-| *ear*   | *ør*  | [ ɪə̯] |
+| *hair*     | *hẽr*     | [hɛə̯] |
+| *werewolf* | *wẽrwulf* | [ˈwɛə̯wʊlf] |
 
 #### Lengthened i
 
@@ -659,7 +678,6 @@ Germanic *gh* is sometimes equivalent to *w* and written as *ugh*. *aught* and *
 | *naught*    | *naǧht*    | [nɔ:t] |
 | *slaughter* | *slaǧhter* | [slɔ:tə] |
 | | | |
-| *brought*   | *braǧht*   | [brɔ:t] |
 | *daughter*  | *doǧhter*  | [dɔ:tə] |
 | *ought*     | *aǧht*     | [ɔ:t] |
 | | | |
@@ -861,9 +879,9 @@ Germanic *ghs* is pronounced [ks] and doesn't contain a silent *gh*.
 | *those*  | *thæse*  | [ðoʊz] | <!-- actually thåse -->
 | *these*  | *thǣs*   | [ði:z] |
 | | | |
-| *who*    | *w̌hō*   | [hu:] |
-| *whom*   | *w̌hōm*  | [hu:m] |
-| *whos*   | *w̌hōs*  | [hu:s] |
+| *who*    | *whō*    | [hu:] | <!-- actually w̌hō -->
+| *whom*   | *whōm*   | [hu:m] | <!-- actually w̌hōm -->
+| *whos*   | *whōs*   | [hu:s] | <!-- actually w̌hōs -->
 | | | |
 | *where*  | *whare*  | [hwɛə̯] |
 | *there*  | *thare*  | [ðɛə̯] | <!-- actually thẽr -->
@@ -873,7 +891,7 @@ Germanic *ghs* is pronounced [ks] and doesn't contain a silent *gh*.
 | *then*   | *thæn*   | [ðen] |
 | *than*   | *than*   | [ðæn] |
 | | | |
-| *how*    | *w̌hũ*   | [hɑʊ̯] |
+| *how*    | *whũ*    | [hɑʊ̯] | <!-- actually w̌hũ -->
 | *why*    | *whĩ*    | [hwaɪ̯] |
 | *so*     | *sõ*     | [soʊ̯] |
 | *as*     | *ałs*    | [æz] |
@@ -904,7 +922,12 @@ Germanic *ghs* is pronounced [ks] and doesn't contain a silent *gh*.
 | *you*  | *yū* /*ū* /*ue* /*ugh* /*eu* /*eugh*  | [ju:] | <!-- is ū default? --><!-- TODO -->
 | *your* | *yūr*/*ūr*/*uer*/*ughr*/*eur*/*eughr* | [jʊə̯] |
 
+<!-- I and U as alternatives to igh and ugh. -->
+<!-- I lûv U. -->
+
 ##### Irregular Verbs
+
+Instead of *-dt*, *-t* is written, e.g. *sent* instead of *sendt*.
 
 | | | |
 |-|-|-|
@@ -917,7 +940,7 @@ Germanic *ghs* is pronounced [ks] and doesn't contain a silent *gh*.
 | *beaten*  | *bø̄ten*  | [ˈbi:tən] |
 |           |           | |
 | *bend*    | *bend*    | [bend] |
-| *bent*    | *bendt*   | [bent] |
+| *bent*    | *bent*    | [bent] |
 |           |           | |
 | *bind*    | *binde*   | [baɪ̯nd] |
 | *bound*   | *bũnd*    | [bɑʊ̯nd] |
@@ -936,8 +959,11 @@ Germanic *ghs* is pronounced [ks] and doesn't contain a silent *gh*.
 | *breed*   | *brø̄d*   | [bri:d] |
 | *bred*    | *brød*    | [bred] |
 |           |           | |
+| *bring*   | *bring*   | [brɪŋ] |
+| *brought* | *braǧht*  | [brɔ:t] |
+|           |           | |
 | *build*   | *byld*    | [bɪld] |
-| *built*   | *byldt*   | [bɪlt] |
+| *built*   | *bylt*    | [bɪlt] |
 |           |           | |
 | *catch*   | *cach*    | [kætʃ] |
 | *caught*  | *caǧht*   | [kɔ:t] |
@@ -955,6 +981,10 @@ Germanic *ghs* is pronounced [ks] and doesn't contain a silent *gh*.
 |           |           | |
 | *dream*   | *drø̄m*   | [dri:m] |
 | *dreamt*  | *drømt*   | [dremt] |
+|           |           | |
+| *drive*   | *drive*   | [draɪ̯v] |
+| *drove*   | *drove*   | [droʊ̯v] |
+| *driven*  | *drĭven*  | [ˈdrɪvən] |
 |           |           | |
 | *eat*     | *ete*     | [i:t] |
 | *ate*     | *ate*     | [eɪ̯t] |
@@ -980,13 +1010,20 @@ Germanic *ghs* is pronounced [ks] and doesn't contain a silent *gh*.
 | *flew*    | *flugh*   | [flu:] |
 | *flown*   | *floghen* | [floʊ̯n] |
 |           |           | |
+| *gave*    | *gave*    | [geɪ̯v] |
+| *give*    | *gĭve*    | [gɪv] |
+| *give*    | *gĭven*   | [ˈgɪvən] |
+|           |           | |
 | *go*      | *gæ̃*     | [goʊ̯] |
-| *went*    | *wendt*   | [went] | <!-- -dt = -t ? -->
+| *went*    | *went*    | [went] |
 | *gone*    | *gån*     | [gɒn] |
 |           |           | |
-| *grow*    | *grõ*     | [groʊ̯] | <!-- cf. blow, grow, know, throw-->
+| *grow*    | *grõ*     | [groʊ̯] | <!-- cf. blow, grow, know, throw -->
 | *grew*    | *grū*     | [gru:] |
 | *grown*   | *grõen*   | [groʊ̯n] |
+|           |           | |
+| *have*    | *hăve*    | [hæv] |
+| *had*     | *had*     | [hæd] |
 |           |           | |
 | *hear*    | *hø̄r*    | [hɪə̯] |
 | *heard*   | *hørd*    | [hɜ:d] |
@@ -1011,7 +1048,7 @@ Germanic *ghs* is pronounced [ks] and doesn't contain a silent *gh*.
 | *learnt*  | *lernt*   | [lɜ:nt] |
 |           |           | |
 | *lend*    | *lend*    | [lend] |
-| *lent*    | *lendt*   | [lent] |
+| *lent*    | *lent*    | [lent] |
 |           |           | |
 | *lie*     | *ligh*    | [laɪ̯] |
 | *lay*     | *lagh*    | [leɪ̯] |
@@ -1046,7 +1083,7 @@ Germanic *ghs* is pronounced [ks] and doesn't contain a silent *gh*.
 | *sought*  | *soǧht*   | [sɔ:t] |
 |           |           | |
 | *send*    | *send*    | [send] |
-| *sent*    | *sendt*   | [sent] |
+| *sent*    | *sent*    | [sent] |
 |           |           | |
 | *shake*   | *shake*   | [ʃeɪ̯k] |
 | *shook*   | *shǒk*    | [ʃʊk] |
@@ -1061,7 +1098,7 @@ Germanic *ghs* is pronounced [ks] and doesn't contain a silent *gh*.
 | *spoken*  | *spoken*  | [ˈspoʊ̯kən] |
 |           |           | |
 | *spend*   | *spend*   | [spend] |
-| *spent*   | *spendt*  | [spent] |
+| *spent*   | *spent*   | [spent] |
 |           |           | |
 | *steel*   | *stele*   | [sti:l] |
 | *stole*   | *stæle*   | [stoʊ̯l] |
@@ -1079,7 +1116,7 @@ Germanic *ghs* is pronounced [ks] and doesn't contain a silent *gh*.
 | *taken*   | *taken*   | [ˈteɪ̯kən] |
 |           |           | |
 | *teach*   | *tǣch*    | [ti:tʃ] |
-| *taught*  | *taǧht*   | [ti:tʃ] | <!-- actually tæǧht -->
+| *taught*  | *taǧht*   | [tɔ:t] | <!-- actually tæǧht -->
 |           |           | |
 | *tear*    | *tẽr*     | [tɛə̯] |
 | *tore*    | *tore*    | [tɔə̯] | <!-- actually tære -->
@@ -1099,14 +1136,6 @@ Germanic *ghs* is pronounced [ks] and doesn't contain a silent *gh*.
 | *weep*    | *wø̄p*    | [wi:p] |
 | *wept*    | *wøpt*    | [wept] |
 
-<!--
-ˈkeri ˈkærɪ ˈkæri
-* *bĕrrie* [beri]: **berrë**
-* *sŏrry* [sɒri]: **sorrig**
-* *Hărry* [hæri] → [heri]: **Harrï**
-* *hŭrry* [hʌri] → [hɜ:ri]: **hurrï**
--->
-
 <!-- frolic -->
 
 <!-- toy -->
@@ -1118,7 +1147,3 @@ Germanic *ghs* is pronounced [ks] and doesn't contain a silent *gh*.
 | *off*    | *off*    | [ɒf] |
  -->
 
-<!-- 
-world werald werld wɜ:ld
-werewolf ˈweəwʊlf
- -->
