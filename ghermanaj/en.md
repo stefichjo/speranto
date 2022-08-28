@@ -40,6 +40,16 @@ In unstressed syllables, vowels tend to be pronounced [ə].
 |-|-|
 | *helpless* | [ˈhelpləs] |
 
+Short vowels before *r* are pronounced [ɜ:], unless the *r* is followed by another vowel.
+
+| | | |
+|-|-|-|
+| *berry* | *berry* | [ˈberɪ] |
+| *carry* | *carry* | [ˈkærɪ] |
+| *hurry* | *hûrry* | [ˈhʌrɪ] |
+| *sorry* | *sorry* | [ˈsɒrɪ] |
+| *worry* | *wûrry* | [ˈwʌrɪ] | <!-- actually wûrġh -->
+
 #### Short a
 
 In many words the pronunciation of the short *a* is [a] instead of [æ].
@@ -50,16 +60,6 @@ In many words the pronunciation of the short *a* is [a] instead of [æ].
 | *bath*   | *bȃth*   | [baθ] |
 | *chance* | *chȃnce* | [tʃans] |
 | *dance*  | *dȃnce*  | [dans] |
-
-Short vowels before *r* are pronounced [ɜ:], unless the *r* is followed by another vowel.
-
-| | | |
-|-|-|-|
-| *berry* | *berry* | [ˈberɪ] |
-| *carry* | *carry* | [ˈkærɪ] |
-| *hurry* | *hûrry* | [ˈhʌrɪ] | <!-- etymo? -->
-| *sorry* | *sorry* | [ˈsɒrɪ] |
-| *worry* | *wôrry* | [ˈwʌrɪ] |
 
 There is no short *ar* [ɜ:]. Instead, [long *ar*](#lengthened-a) [ɑə̯] is pronounced.
 
@@ -101,12 +101,15 @@ Short *er* [ɜ:] is often written like short *or* [ɜ:] or *ur* [ɜ:].
 
 #### Short i
 
-Some short *i* [ɪ] comes from *y*.
+Some short *i* [ɪ] comes from *e* or *y*.
 
 | | | |
 |-|-|-|
-| *little* | *lyttel* | [ˈlɪtl̩] |
-| *sin*    | *syn*    | [sɪn] |
+| *perfect* | *perfėct* | [ˈpɜ:fɪkt] |
+| *women*   | *wimmėn*  | [ˈwɪmɪn] |
+| | | |
+| *little*  | *lyttel*  | [ˈlɪtl̩] |
+| *sin*     | *syn*     | [sɪn] |
 
 Some short *i* [ɪ] comes from *a*, *o* or *u*.
 
@@ -114,8 +117,6 @@ Some short *i* [ɪ] comes from *a*, *o* or *u*.
 |-|-|-|
 | *mister*  | *mister*  | [ˈmɪstə] | <!-- actually mȧster >
 | *english* | *inglish* | [ˈmɪstə] | <!-- actually ȧnglish -->
-| | | |
-| *women*   | *wȯmėn*   | [ˈwɪmɪn] | <!-- or the other way around: wimėn, woman ˈwʊmən -->
 | | | |
 | *minute*  | *minu̇te* | [ˈmɪnɪt] |
 
@@ -144,6 +145,8 @@ Some short *o* [ɒ] comes from Germanic *a*.
 |-|-|-|
 | *long* | *lång* | [lɒŋ] |
 | *song* | *sång* | [sɒŋ] |
+| *of*   | *åve*  | [ɒv] |
+| *off*  | *åff*  | [ɒf] |
 
 After *qu* and *w*, short *a* is pronounced like short *o* [ɒ].
 
@@ -182,6 +185,12 @@ Short *o* and *u* are often pronounced [ʌ] instead of [ʊ].
 | *brother* | *brôther* | [ˈbrʌðə] |
 | *mother*  | *môther*  | [ˈmʌðə] |
 | *young*   | *yûng*    | [jʌŋ]  |
+
+When a short *u* [ʊ] comes from a short *i*, this is not reflected in the spelling.
+
+| | | |
+|-|-|-|
+| *woman* | *wumman* | [ˈwʊmən] | <!-- actually wǐmman -->
 
 Short *ur* is pronounced [ɜ:].
 
@@ -236,13 +245,11 @@ Diphthong *a* [eɪ̯] is written with a silent *e*.
 |-|-|
 | *bathe* | [beɪ̯ð] |
 
-<!-- inverted breve; is it worth it? -->
+When a diphthong *a* [eɪ̯] comes from a diphthong *o*, this is not reflected in the spelling.
 
 | | | |
 |-|-|-|
-| *great* | *grȏte* | [greɪ̯t] | <!-- grate ? -->
-| *war*   | *wȇr*   | [wɔə̯] |
-| *warp*  | *wȇrp*  | [wɔ:p] |
+| *great* | *grate* | [greɪ̯t] | <!-- actually grȏte -->
 
 Many diphthong *a* [eɪ̯] come from *agh* or *egh* and are spelt *ai* or *eigh*.
 
@@ -285,7 +292,7 @@ Long *ar* is pronounced [ɑə̯], whereas diphthong *ar* is pronounced [ɛə̯].
 | *care* | [kɛə̯] |
 | *hare* | [hɛə̯] |
 
-Long *ar* is always spelt as a short *a*.
+Long *ar* [ɑə̯] is always spelt as a short *a*.
 
 | | |
 |-|-|
@@ -294,12 +301,13 @@ Long *ar* is always spelt as a short *a*.
 
 #### Lengthened e
 
-Long *e* [i:] is spelt *ea* or with silent *e* as *ee*. Before *ld*, long *e* [i:] is spelt *ie*. <!-- Is there a more general rule behind that? "thief" ? -->
+Long *e* [i:] is spelt *ea* or with silent *e* as *ee*.
 
 | | | |
 |-|-|-|
+| *seed*    | *sede*    | [si:d] |
 | *tea*     | *tee*     | [ti:] |
-| *year*    | *yere*    | [jɪə̯] | <!-- yær yære ? -->
+| *year*    | *yere*    | [jɪə̯] |
 | | | |
 | *field*  | *felde*  | [fi:ld] |
 | *shield* | *shelde* | [ʃi:ld] |
@@ -315,6 +323,7 @@ Long *e* [i:] with silent *e* is the preferred spelling in loan words.
 
 In many cases, a long *e* [i:] comes from a Germanic *au*, *o*, as well as *ai*, *i* or *y*.
 
+<!-- TODO -->
 | | | |
 |-|-|-|
 | *bleach*  | *blǣch*   | [bli:tʃ] |
@@ -323,7 +332,6 @@ In many cases, a long *e* [i:] comes from a Germanic *au*, *o*, as well as *ai*,
 | *deal*    | *dæl*     | [di:l] |
 | *heal*    | *hæl*     | [hi:l] |
 | *mean*    | *mǣn*     | [mi:n] |
-| *seed*    | *sǣd*     | [si:d] | <!-- actually sede -->
 | *seat*    | *sǣt*     | [si:t] |
 | *sheep*   | *shæp*    | [ʃi:p] |
 | *speech*  | *spǣch*   | [spi:tʃ] |
@@ -494,8 +502,8 @@ In many cases, a diphthong *o* [oʊ̯] comes from a Germanic *ai*, *ou* or *u*.
 | *load*   | *læde*   | [loʊ̯d] |
 | *loaf*   | *læfe*   | [loʊ̯f] |
 | *loath*  | *læthe*  | [loʊ̯θ] |
-| *more*   | *mæ̃r*   | [mɔə̯] | <!-- also mære? -->
-| *most*   | *mæ̃st*  | [moʊ̯st] | <!-- also mæste? -->
+| *more*   | *mæ̃r*   | [mɔə̯] | <!-- also mære/mæer? -->
+| *most*   | *mæ̃st*  | [moʊ̯st] | <!-- also mæste/mæest? -->
 | *sow*    | *sæ̃*    | [soʊ̯] | <!-- sæ? actually se̊~ -->
 | *soul*   | *sæle*   | [soʊ̯l] | <!-- actually sæwel -->
 | *stone*  | *stæne*  | [stoʊ̯n] |
@@ -519,6 +527,13 @@ Long *or* is pronounced [ʊə̯], whereas diphthong *or* is pronounced [ɔə̯].
 | *poor*  | *pōr*  | [pʊə̯] |
 | | | |
 | *pore*  | *pore* | [pɔə̯] |
+
+When a long *or* [ɔə̯] comes from a short *er*, this is not reflected in the spelling.
+
+| | |
+|-|-|
+| *war*   | [wɔə̯] | <!-- actually wȇr -->
+| *warp*  | [wɔ:p] | <!-- actually wȇrp -->
 
 #### Lengthened u
 
@@ -919,7 +934,7 @@ Germanic *ghs* is pronounced [ks] and doesn't contain a silent *gh*.
 
 | | | |
 |-|-|-|
-| *you*  | *yū* /*ū* /*ue* /*ugh* /*eu* /*eugh*  | [ju:] | <!-- is ū default? --><!-- TODO -->
+| *you*  | *yū* /*ū* /*ue* /*ugh* /*eu* /*eugh*  | [ju:] | <!-- is ū default? --><!-- choose one -->
 | *your* | *yūr*/*ūr*/*uer*/*ughr*/*eur*/*eughr* | [jʊə̯] |
 
 <!-- I and U as alternatives to igh and ugh. -->
@@ -1191,6 +1206,9 @@ In American English, *ô* and *û* [ʌ] before *r* plus vowel are pronounced lik
 <!-- Fræncĭsh, Dŷtĭsh, Scôttĭsh, Wælĭsh,  -->
 
 <!-- 
-| *of*     | *ove*    | [ɒv] |
-| *off*    | *off*    | [ɒf] |
+ã = a
+bē = be
+Ĩ (igh) = I
+sõ = so
+Ũ (ugh/...) = U
  -->
