@@ -970,9 +970,9 @@ Unrelated:
 | *you*  | *ū*  | [ju:] |
 | *your* | *ūr* | [jʊə̯] |
 
-##### Irregular Verbs
+## Irregular Verbs
 
-###### -d/-t
+### -d/-t
 
 Instead of *-dt*, *-t* is written, e.g. *sent* instead of *sendt*.
 
@@ -1002,7 +1002,7 @@ Instead of *-dt*, *-t* is written, e.g. *sent* instead of *sendt*.
 | *keep*    | *kø̄p*     | [ki:p] |
 | *kept*    | *køpt*     | [kept] |
 |           |            | |
-| *kneel*   | *knȳl*     | [ni:l] |
+| *kneel*   | *knyl*     | [ni:l] |
 | *knelt*   | *knÿlt*    | [nelt] |
 |           |            | |
 | *leap*    | *lø̄p*     | [li:p] |
@@ -1104,8 +1104,7 @@ Instead of *-dt*, *-t* is written, e.g. *sent* instead of *sendt*.
 | *would*   | *wułd*     | [wʊd] | <!-- actually wǒłd -->
 |           |            | |
 
-
-###### -en
+### -en
 
 ####### ABB
 
@@ -1121,7 +1120,7 @@ Instead of *-dt*, *-t* is written, e.g. *sent* instead of *sendt*.
 |           |            | |
 | *bite*    | *bite*     | [baɪ̯t] |
 | *bit*     | *bit*      | [bɪt] | <!-- actually bȧt -->
-| *bitten*  | *bitten*   | [ˈbɪtn̩] |
+| *bitten*  | *bitten*   | [ˈbɪtən] |
 |           |            | |
 | *break*   | *brek*     | [breɪ̯k] |
 | *broke*   | *broke*    | [broʊ̯k] |
@@ -1156,7 +1155,7 @@ Instead of *-dt*, *-t* is written, e.g. *sent* instead of *sendt*.
 | *worn*    | *woren*    | [wɔə̯n] |
 |           |            | |
 
-####### ABA
+#### ABA
 
 | | | |
 |-|-|-|
@@ -1178,7 +1177,7 @@ Instead of *-dt*, *-t* is written, e.g. *sent* instead of *sendt*.
 |           |            | |
 | *fall*    | *fall*     | [fɔ:l] |
 | *fell*    | *fell*     | [fel] |
-| *fallen*  | *fallen*   | [ˈfɔ:læn] |
+| *fallen*  | *fallen*   | [ˈfɔ:lən] |
 |           |            | |
 | *give*    | *gĭve*     | [gɪv] |
 | *gave*    | *gave*     | [geɪ̯v] |
@@ -1217,7 +1216,7 @@ Instead of *-dt*, *-t* is written, e.g. *sent* instead of *sendt*.
 | *written* | *written*  | [ˈrɪtən] |
 |           |            | |
 
-####### ABC
+#### ABC
 
 | | | |
 |-|-|-|
@@ -1230,7 +1229,7 @@ Instead of *-dt*, *-t* is written, e.g. *sent* instead of *sendt*.
 | *lain*    | *leghen*   | [leɪ̯n] |
 |           |            | |
 
-###### -
+### -
 
 | | | |
 |-|-|-|
@@ -1247,7 +1246,7 @@ Instead of *-dt*, *-t* is written, e.g. *sent* instead of *sendt*.
 | *sunk*    | *sûnk*     | [sʌŋk] |
 |           |            | |
 
-###### The real irregular verbs
+### The real irregular verbs
 
 | | | |
 |-|-|-|
