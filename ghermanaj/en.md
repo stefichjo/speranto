@@ -61,6 +61,12 @@ In many words the pronunciation of the short *a* is [a] instead of [æ].
 | *chance* | *chȃnce* | [tʃans] |
 | *dance*  | *dȃnce*  | [dans] |
 
+When a short *a* [æ] comes from a short *e*, this is not reflected in the spelling.
+
+| | | |
+|-|-|-|
+| *heart* | *hart* | [hɑə̯t] | <!-- actually hȇrt -->
+
 There is no short *ar* [ɜ:]. Instead, [long *ar*](#lengthened-a) [ɑə̯] is pronounced.
 
 #### Short e
@@ -75,6 +81,7 @@ Many short *e* [e] come from Germanic *æ*, *ai* or *au*, and even *eu*.
 | *length*  | *længth*  | [leŋθ] |
 | *less*    | *læss*    | [les] |
 | *men*     | *mæn*     | [men] |
+| *mesh*    | *mæsh*    | [meʃ] |
 | *stealth* | *stælth*  | [stelθ] |
 | | |
 | *bread*   | *brød*    | [bred] |
@@ -83,6 +90,12 @@ Many short *e* [e] come from Germanic *æ*, *ai* or *au*, and even *eu*.
 | *depth*   | *dÿpth*   | [deptθ] |
 | *friend*  | *frÿnd*   | [frend] |
 | *theft*   | *thÿft*   | [θeft] |
+
+When a short *e* [e] comes from a short *i*, this is not reflected in the spelling.
+
+| | |
+|-|-|
+| *fresh* | [freʃ] | <!-- actually frïsh -->
 
 Short *er* is pronounced [ɜ:].
 
@@ -111,15 +124,18 @@ Some short *i* [ɪ] comes from *e* or *y*.
 | *little*  | *lyttel*  | [ˈlɪtl̩] |
 | *sin*     | *syn*     | [sɪn] |
 
-Some short *i* [ɪ] comes from *a*, *o* or *u*.
+Some short *i* [ɪ] comes from *u*.
+
+| | | |
+|-|-|-|
+| *minute*  | *minu̇te* | [ˈmɪnɪt] |
+
+When a short *i* [ɪ] comes from a short *a*, this is not reflected in the spelling.
 
 | | | |
 |-|-|-|
 | *mister*  | *mister*  | [ˈmɪstə] | <!-- actually mȧster >
 | *english* | *inglish* | [ˈmɪstə] | <!-- actually ȧnglish -->
-| | | |
-| *minute*  | *minu̇te* | [ˈmɪnɪt] |
-
 
 Short *ir* is pronounced [ɜ:].
 
@@ -269,7 +285,7 @@ Many diphthong *a* [eɪ̯] come from *agh* or *egh* and are spelt *ai* or *eigh*
 | *sail*    | *seghel*    | [seɪ̯l] |
 | *way*     | *wegh*      | [weɪ̯] |
 | *weigh*   | *wegh*      | [weɪ̯] |
-| *weight*  | *wïght*     | [weɪ̯t] |
+| *weight*  | *weght*     | [weɪ̯t] | <!-- actually wïght -->
 
 Many diphthong *a* [eɪ̯] come from French and are spelt *ai*.
 
@@ -323,7 +339,6 @@ Long *e* [i:] with silent *e* is the preferred spelling in loan words.
 
 In many cases, a long *e* [i:] comes from a Germanic *au*, *o*, as well as *ai*, *i* or *y*.
 
-<!-- TODO -->
 | | | |
 |-|-|-|
 | *bleach*  | *blǣch*   | [bli:tʃ] |
@@ -333,7 +348,7 @@ In many cases, a long *e* [i:] comes from a Germanic *au*, *o*, as well as *ai*,
 | *heal*    | *hæl*     | [hi:l] |
 | *mean*    | *mǣn*     | [mi:n] |
 | *seat*    | *sǣt*     | [si:t] |
-| *sheep*   | *shæp*    | [ʃi:p] |
+| *sheep*   | *shǣp*    | [ʃi:p] |
 | *speech*  | *spǣch*   | [spi:tʃ] |
 | *steal*   | *stæl*    | [sti:l] |
 | *street*  | *strǣt*   | [stri:t] |
@@ -354,7 +369,7 @@ In many cases, a long *e* [i:] comes from a Germanic *au*, *o*, as well as *ai*,
 | *meek*    | *myk*     | [mi:k] |
 | *thief*   | *thyf*    | [θi:f] |
 
-After long *e* [i:], *gh* is mute.
+After long *e* [i:], *gh* is silent.
 
 | | | |
 |-|-|-|
@@ -409,7 +424,7 @@ Diphthong *i* [aɪ̯] is spelt with silent *e*.
 
 | | | |
 |-|-|-|
-| *try* | *tri* | [traɪ̯] | <!-- is -ĩ default at the end of a word? What about (the ending) -y? -->
+| *try* | *tri* | [traɪ̯] |
 
 Words ending in -ld or -nd lack a silent *e*.
 
@@ -502,9 +517,8 @@ In many cases, a diphthong *o* [oʊ̯] comes from a Germanic *ai*, *ou* or *u*.
 | *load*   | *læde*   | [loʊ̯d] |
 | *loaf*   | *læfe*   | [loʊ̯f] |
 | *loath*  | *læthe*  | [loʊ̯θ] |
-| *more*   | *mæ̃r*   | [mɔə̯] | <!-- also mære/mæer? -->
-| *most*   | *mæ̃st*  | [moʊ̯st] | <!-- also mæste/mæest? -->
-| *sow*    | *sæ̃*    | [soʊ̯] | <!-- sæ? actually se̊~ -->
+| *more*   | *mæ̃r*   | [mɔə̯] |
+| *most*   | *mæ̃st*  | [moʊ̯st]
 | *soul*   | *sæle*   | [soʊ̯l] | <!-- actually sæwel -->
 | *stone*  | *stæne*  | [stoʊ̯n] |
 | *whole*  | *hæle*   | [hoʊ̯l] |
@@ -519,6 +533,12 @@ In many cases, a diphthong *o* [oʊ̯] comes from a Germanic *ai*, *ou* or *u*.
 | *gold*   | *gůlde*  | [goʊ̯ld] |
 | | | |
 | *grow*   | *grõ*    | [groʊ̯] |
+
+After *l* and *r*, *w* is pronounced like long *o* [oʊ̯].
+
+| | | |
+|-|-|-|
+| *yellow* | *ġelw* | [ˈjeloʊ̯] |
 
 Long *or* is pronounced [ʊə̯], whereas diphthong *or* is pronounced [ɔə̯].
 
@@ -565,9 +585,9 @@ Long *ur* is pronounced [jʊə̯], whereas diphthong *ur* is pronounced [ɑʊ̯�
 
 Instead of a silent *e*, *w* can be used with *a* and *o*.
 
-| | |
-|-|-|
-| *flow* | [floʊ̯] |
+| | | |
+|-|-|-|
+| *flow* | *flõ* | [floʊ̯] |
 
 A silent *w* with an *a* is pronounced [ɔ:], instead of [eɪ̯].
 
@@ -576,12 +596,6 @@ A silent *w* with an *a* is pronounced [ɔ:], instead of [eɪ̯].
 | *gnaw* | [nɔ:] |
 | *hawk* | [hɔ:k] |
 | *raw*  | [rɔ:] |
-
-After *l* and *r*, *w* is pronounced like long *o* [oʊ̯].
-
-| | | |
-|-|-|-|
-| *yellow* | *ġelw* | [ˈjeloʊ̯] |
 
 ### Silent l
 
@@ -605,7 +619,7 @@ Short *a* before *l* is pronounced [ɔ:] in Germanic words.
 |-|-|-|
 | *assault* | *assalt* | [əˈsɔ:lt] |
 | *fault*   | *falt*   | [fɔ:lt] |
-| *vault*   | *vȏlt*   | [vɔ:lt] |
+| *vault*   | *valt*   | [vɔ:lt] | <!-- actually vȏlt -->
 
 | | | |
 |-|-|-|
@@ -613,7 +627,7 @@ Short *a* before *l* is pronounced [ɔ:] in Germanic words.
 | *pal*    | *păl*    | [pæl] |
 | *valley* | *vălley* | [ˈvælɪ] |
 
-The *l* in *alf*, *alk* and *alm* is mute.
+The *l* in *alf*, *alk* and *alm* is silent.
 
 | | | |
 |-|-|-|
@@ -629,7 +643,8 @@ The *l* in *alf*, *alk* and *alm* is mute.
 | *pālm*   | [pɑ:m] |
 | *psālm*  | [sɑ:m] |
 
-Short *o* before *l* is pronounced [oʊ̯] in Germanic words. <!-- this is not "mute" -->
+<!-- TODO -->
+Short *o* before *l* is pronounced [oʊ̯] in Germanic words. <!-- this is not "silent" -->
 
 | | | |
 |-|-|-|
@@ -747,7 +762,7 @@ Germanic *gh* is sometimes equivalent to *w* and written as *ugh*. *aught* and *
 | *creek*   | *cryk*    | [kri:k] |
 | | | |
 | *cheek*   | *chøk*    | [tʃi:k] |
-| *chest*   | *chïst*   | [tʃest] |
+| *chest*   | *chest*   | [tʃest] | <!-- actually chïst -->
 | *chicken* | *chyckin* | [ˈtʃɪkɪn] |
 | | | |
 | *stench*  | *stench*  | [stentʃ] |
@@ -793,6 +808,17 @@ Germanic *ghs* is pronounced [ks] and doesn't contain a silent *gh*.
 | *ridge*   | *ryĝh*  | [rɪʤ] |
 | *sledge*  | *sleĝh* | [sleʤ] |
 
+### sh
+
+| | | |
+|-|-|-|
+| *Welsh*   | *Wælĭsh*   | [welʃ] |
+| | | |
+| *Dutch*   | *Dŷtĭsh*   | [dʌtʃ] |
+| *Scotch*  | *Scôttĭsh* | [skɒtʃ] |
+| | | |
+| *French*  | *Fræncĭsh* | [frentʃ] |
+
 ### w
 
 | | | |
@@ -820,7 +846,7 @@ Germanic *ghs* is pronounced [ks] and doesn't contain a silent *gh*.
 | *aback*   | *ån̆back*   | [əˈbæk] |
 | *above*   | *ån̆bôve*   | [əˈbʌv] |
 | *afore*   | *ån̆fore*   | [əˈfɔə̯] |
-| *afresh*  | *ån̆frïsh*  | [əˈfreʃ] |
+| *afresh*  | *ån̆fresh*  | [əˈfreʃ] | <!-- actually ån̆frïsh -->
 | *again*   | *ån̆gen*    | [əˈgen] | <!-- also: *on̆geghen* [əˈgeɪ̯n] -->
 | *alike*   | *ån̆like*   | [əˈlaɪ̯k] |
 | *alive*   | *ån̆live*   | [əˈlaɪ̯v] |
@@ -860,7 +886,7 @@ Germanic *ghs* is pronounced [ks] and doesn't contain a silent *gh*.
 | *already*    | *alræddy*    | [ɔ:lˈredɪ] |
 | *although*   | *althogh*    | [ɔ:lˈðoʊ̯] |
 | | | |
-| *altogether* | *altōgæther* | [ˌɔ:ltəˈgeθə] | <!-- ō/o? -->
+| *altogether* | *altōgæther* | [ˌɔ:ltəˈgeθə] |
 
 ### one
 
@@ -874,15 +900,17 @@ Germanic *ghs* is pronounced [ks] and doesn't contain a silent *gh*.
 | *lonely* | *lænely* | [ˈloʊnlɪ] |
 | *only*   | *ænely*  | [oʊnlɪ] |
 | | | |
-| *a*      | *a*      | [eɪ̯] |
+| *a*      | *a*      | [eɪ̯] | <!-- also an̆? -->
 | | | |
 | *an*     | *an*     | [æn] |
 | | | |
 | *any*    | *æ̆ny*   | [ˈenɪ] |
 
+Unrelated:
+
 | | | |
 |-|-|-|
-| *many* | *mæ̆ny* | [ˈmenɪ] | <!-- unrelated, though -->
+| *many* | *mæ̆ny* | [ˈmenɪ] | <!-- actually menny -->
 
 #### wh-, th-, h-, s-
 
@@ -918,7 +946,7 @@ Germanic *ghs* is pronounced [ks] and doesn't contain a silent *gh*.
 
 | | | |
 |-|-|-|
-| *the*   | *thē*   | [ði:] | <!-- is ē default? -->
+| *the*   | *the*   | [ði:] |
 | | | |
 | *their* | *their* | [ðɛə̯] | <!-- actually thair -->
 | *them*  | *them*  | [ðem] |
@@ -934,44 +962,21 @@ Germanic *ghs* is pronounced [ks] and doesn't contain a silent *gh*.
 
 | | | |
 |-|-|-|
-| *you*  | *yū* /*ū* /*ue* /*ugh* /*eu* /*eugh*  | [ju:] | <!-- is ū default? --><!-- choose one -->
-| *your* | *yūr*/*ūr*/*uer*/*ughr*/*eur*/*eughr* | [jʊə̯] |
-
-<!-- I and U as alternatives to igh and ugh. -->
-<!-- I lûv U. -->
-<!-- I C U. -->
+| *you*  | *ū*  | [ju:] |
+| *your* | *ūr* | [jʊə̯] |
 
 ##### Irregular Verbs
 <!-- incomplete -->
+
+| | | |
+|-|-|-|
+
+###### -d/-t
 
 Instead of *-dt*, *-t* is written, e.g. *sent* instead of *sendt*.
 
 | | | |
 |-|-|-|
-| *arise*   | *ån̆rise*  | [əˈraɪ̯z] |
-| *arose*   | *ån̆rose*  | [əˈroʊ̯z] | <!-- actually ån̆ri̊se >
-| *arisen*  | *ån̆rise*  | [əˈrɪzən] |
-|           |            | |
-| *awake*   | *ån̆wake*  | [əˈraɪ̯z] |
-| *awoke*   | *ån̆woke*  | [əˈroʊ̯z] | <!-- actually ån̆ri̊se >
-| *awoken*  | *ån̆woken* | [əˈrɪzən] |
-|           |            | |
-| *bear*    | *bẽr*      | [bɛə̯] |
-| *bore*    | *bore*     | [bɔə̯] | <!-- actually bære -->
-| *born*    | *boren*    | [bɔə̯n] |
-|           |            | |
-| *beat*    | *bø̄t*     | [bi:t] |
-| *beat*    | *bø̄t*     | [bi:t] |
-| *beaten*  | *bø̄ten*   | [ˈbi:tən] |
-|           |            | |
-| *become*  | *bicûm*    | [kʌm] |
-| *became*  | *bicame*   | [keɪ̯m] |
-| *become*  | *bicûm*    | [kʌm] |
-|           |            | |
-| *begin*   | *bigin*    | [bɪˈgɪn] |
-| *began*   | *bigan*    | [bɪˈgæn] |
-| *begun*   | *bigûn*    | [bɪˈgʌn] |
-|           |            | |
 | *bend*    | *bend*     | [bend] |
 | *bent*    | *bent*     | [bent] |
 |           |            | |
@@ -980,14 +985,6 @@ Instead of *-dt*, *-t* is written, e.g. *sent* instead of *sendt*.
 |           |            | |
 | *bleed*   | *blø̄d*    | [bli:d] |
 | *bled*    | *blød*     | [bled] |
-|           |            | |
-| *blow*    | *blõ*      | [bloʊ̯] | <!-- Is õ default? blo? -->
-| *blew*    | *blū*      | [blu:] |
-| *blown*   | *blõen*    | [bloʊ̯n] |
-|           |            | |
-| *break*   | *brek*     | [breɪ̯k] |
-| *broke*   | *broke*    | [broʊ̯k] |
-| *broken*  | *broken*   | [ˈbroʊ̯kən] |
 |           |            | |
 | *breed*   | *brø̄d*    | [bri:d] |
 | *bred*    | *brød*     | [bred] |
@@ -1001,31 +998,11 @@ Instead of *-dt*, *-t* is written, e.g. *sent* instead of *sendt*.
 | *catch*   | *cach*     | [kætʃ] |
 | *caught*  | *caǧht*    | [kɔ:t] |
 |           |            | |
-| *choose*  | *chos*     | [tʃu:z] |
-| *chose*   | *chose*    | [tʃoʊ̯z] |
-| *chosen*  | *chosen*   | [tʃoʊ̯z] |
-|           |            | |
-| *come*    | *cûm*      | [kʌm] |
-| *came*    | *came*     | [keɪ̯m] |
-| *come*    | *cûm*      | [kʌm] |
-|           |            | |
 | *creep*   | *crȳp*     | [kri:p] |
 | *crept*   | *crÿpt*    | [krept] |
 |           |            | |
 | *dream*   | *drø̄m*    | [dri:m] |
 | *dreamt*  | *drømt*    | [dremt] |
-|           |            | |
-| *drive*   | *drive*    | [draɪ̯v] |
-| *drove*   | *drove*    | [droʊ̯v] |
-| *driven*  | *drĭven*   | [ˈdrɪvən] |
-|           |            | |
-| *eat*     | *ete*      | [i:t] |
-| *ate*     | *ate*      | [eɪ̯t] |
-| *eaten*   | *eten*     | [ˈi:tən] |
-|           |            | |
-| *fall*    | *fall*     | [fɔ:l] |
-| *fell*    | *fell*     | [fel] |
-| *fallen*  | *fallen*   | [ˈfɔ:læn] |
 |           |            | |
 | *feed*    | *fø̄d*     | [fi:d] |
 | *fed*     | *fød*      | [fed] |
@@ -1039,31 +1016,8 @@ Instead of *-dt*, *-t* is written, e.g. *sent* instead of *sendt*.
 | *find*    | *finde*    | [faɪ̯nd] |
 | *found*   | *fũnd*     | [fɑʊ̯nd] |
 |           |            | |
-| *fly*     | *flygh*    | [flaɪ̯] |
-| *flew*    | *flugh*    | [flu:] |
-| *flown*   | *floghen*  | [floʊ̯n] |
-|           |            | |
-| *gave*    | *gave*     | [geɪ̯v] |
-| *give*    | *gĭve*     | [gɪv] |
-| *give*    | *gĭven*    | [ˈgɪvən] |
-|           |            | |
-| *go*      | *gæ̃*      | [goʊ̯] |
-| *went*    | *went*     | [went] |
-| *gone*    | *gån*      | [gɒn] |
-|           |            | |
-| *grow*    | *grõ*      | [groʊ̯] | <!-- cf. blow, grow, know, throw -->
-| *grew*    | *grū*      | [gru:] |
-| *grown*   | *grõen*    | [groʊ̯n] |
-|           |            | |
-| *have*    | *hăve*     | [hæv] |
-| *had*     | *had*      | [hæd] |
-|           |            | |
 | *hear*    | *hø̄r*     | [hɪə̯] |
 | *heard*   | *hørd*     | [hɜ:d] |
-|           |            | |
-| *hide*    | *hyde*     | [haɪ̯d] |
-| *hid*     | *hyd*      | [hɪd] |
-| *hidden*  | *hydden*   | [ˈhɪdən] |
 |           |            | |
 | *hold*    | *hålde*    | [hoʊ̯ld] |
 | *held*    | *hæld*     | [held] |
@@ -1074,10 +1028,6 @@ Instead of *-dt*, *-t* is written, e.g. *sent* instead of *sendt*.
 | *kneel*   | *knȳl*     | [ni:l] |
 | *knelt*   | *knÿlt*    | [nelt] |
 |           |            | |
-| *know*    | *knõ*      | [noʊ̯] |
-| *knew*    | *knū*      | [nju:] |
-| *known*   | *knõen*    | [noʊ̯n] |
-|           |            | |
 | *leap*    | *lø̄p*     | [li:p] |
 | *leapt*   | *løpt*     | [lept] |
 |           |            | |
@@ -1086,10 +1036,6 @@ Instead of *-dt*, *-t* is written, e.g. *sent* instead of *sendt*.
 |           |            | |
 | *lend*    | *lend*     | [lend] |
 | *lent*    | *lent*     | [lent] |
-|           |            | |
-| *lie*     | *ligh*     | [laɪ̯] |
-| *lay*     | *lagh*     | [leɪ̯] |
-| *lain*    | *leghen*   | [leɪ̯n] |
 |           |            | |
 | *lay*     | *legh*     | [leɪ̯] |
 | *laid*    | *leghed*   | [leɪ̯d] |
@@ -1112,38 +1058,53 @@ Instead of *-dt*, *-t* is written, e.g. *sent* instead of *sendt*.
 | *say*     | *segh*     | [seɪ̯] | <!-- sĕghs sais -->
 | *said*    | *sĕghed*   | [sed] |
 |           |            | |
-| *see*     | *sēgh*     | [si:] |
-| *saw*     | *saǧh*     | [sɔ:] |
-| *seen*    | *sēghen*   | [si:n] |
-|           |            | |
 | *seek*    | *søk*      | [si:k] |
 | *sought*  | *soǧht*    | [sɔ:t] |
 |           |            | |
 | *send*    | *send*     | [send] |
 | *sent*    | *sent*     | [sent] |
 |           |            | |
-| *shake*   | *shake*    | [ʃeɪ̯k] |
-| *shook*   | *shǒk*     | [ʃʊk] |
-| *shaken*  | *shaken*   | [ˈʃeɪ̯kən] | <!-- -en = syllabic n? ən? -->
+| *spend*   | *spend*    | [spend] |
+| *spent*   | *spent*    | [spent] |
 |           |            | |
-| *sing*    | *sing*     | [sɪŋ] |
-| *sang*    | *sang*     | [sæŋ] |
-| *sung*    | *sûng*     | [sʌŋ] |
+| *sweep*   | *swǣp*     | [swi:p] |
+| *swept*   | *swæpt*    | [swept] |
 |           |            | |
-| *sink*    | *sink*     | [sɪŋk] |
-| *sank*    | *sank*     | [sæŋk] |
-| *sunk*    | *sûnk*     | [sʌŋk] |
+| *teach*   | *tǣch*     | [ti:tʃ] |
+| *taught*  | *taǧht*    | [tɔ:t] | <!-- actually tæǧht -->
 |           |            | |
-| *slay*    | *slagh*    | [sleɪ̯] |
-| *slew*    | *slugh*    | [slu:] |
-| *slain*   | *slaghen*  | [sleɪ̯] |
+| *think*   | *think*    | [θɪŋk] |
+| *thought* | *thoǧht*   | [θɔ:t] |
+|           |            | |
+| *weep*    | *wø̄p*     | [wi:p] |
+| *wept*    | *wøpt*     | [wept] |
+|           |            | |
+
+###### -en
+
+####### ABB
+
+| | | |
+|-|-|-|
+| *awake*   | *ån̆wake*  | [əˈraɪ̯z] |
+| *awoke*   | *ån̆woke*  | [əˈroʊ̯z] |
+| *awoken*  | *ån̆woken* | [əˈrɪzən] |
+|           |            | |
+| *bear*    | *bẽr*      | [bɛə̯] | <!-- un-actually bare -->
+| *bore*    | *bore*     | [bɔə̯] | <!-- actually bære -->
+| *born*    | *boren*    | [bɔə̯n] |
+|           |            | |
+| *break*   | *brek*     | [breɪ̯k] |
+| *broke*   | *broke*    | [broʊ̯k] |
+| *broken*  | *broken*   | [ˈbroʊ̯kən] |
+|           |            | |
+| *choose*  | *chos*     | [tʃu:z] |
+| *chose*   | *chose*    | [tʃoʊ̯z] |
+| *chosen*  | *chosen*   | [tʃoʊ̯z] |
 |           |            | |
 | *speak*   | *speke*    | [spi:k] |
 | *spoke*   | *spoke*    | [spoʊ̯k] |
 | *spoken*  | *spoken*   | [ˈspoʊ̯kən] |
-|           |            | |
-| *spend*   | *spend*    | [spend] |
-| *spent*   | *spent*    | [spent] |
 |           |            | |
 | *steel*   | *stele*    | [sti:l] |
 | *stole*   | *stæle*    | [stoʊ̯l] |
@@ -1153,37 +1114,137 @@ Instead of *-dt*, *-t* is written, e.g. *sent* instead of *sendt*.
 | *swore*   | *swore*    | [swɔə̯] |
 | *sworn*   | *sworen*   | [swɔə̯n] |
 |           |            | |
-| *sweep*   | *swǣp*     | [swi:p] |
-| *swept*   | *swæpt*    | [swept] |
-|           |            | |
-| *take*    | *take*     | [teɪ̯k] |
-| *took*    | *tǒk*      | [tʊk] |
-| *taken*   | *taken*    | [ˈteɪ̯kən] |
-|           |            | |
-| *teach*   | *tǣch*     | [ti:tʃ] |
-| *taught*  | *taǧht*    | [tɔ:t] | <!-- actually tæǧht -->
-|           |            | |
 | *tear*    | *tẽr*      | [tɛə̯] |
 | *tore*    | *tore*     | [tɔə̯] | <!-- actually tære -->
 | *torn*    | *toren*    | [tɔə̯n] |
-|           |            | |
-| *think*   | *think*    | [θɪŋk] |
-| *thought* | *thoǧht*   | [θɔ:t] |
-|           |            | |
-| *throw*   | *thrõ*     | [θroʊ̯] |
-| *threw*   | *thrū*     | [θru:] |
-| *thrown*  | *thrõen*   | [θroʊ̯n] |
 |           |            | |
 | *wear*    | *wẽr*      | [wɛə̯] |
 | *wore*    | *wore*     | [wɔə̯] | <!-- actually wære -->
 | *worn*    | *woren*    | [wɔə̯n] |
 |           |            | |
-| *weep*    | *wø̄p*     | [wi:p] |
-| *wept*    | *wøpt*     | [wept] |
+
+####### ABA
+
+| | | |
+|-|-|-|
+| *arise*   | *ån̆rise*  | [əˈraɪ̯z] |
+| *arose*   | *ån̆rose*  | [əˈroʊ̯z] | <!-- actually ån̆ri̊se -->
+| *arisen*  | *ån̆rĭsen* | [əˈrɪzən] |
+|           |            | |
+| *blow*    | *blõ*      | [bloʊ̯] |
+| *blew*    | *blū*      | [blu:] |
+| *blown*   | *blõen*    | [bloʊ̯n] |
+|           |            | |
+| *drive*   | *drive*    | [draɪ̯v] |
+| *drove*   | *drove*    | [droʊ̯v] |
+| *driven*  | *drĭven*   | [ˈdrɪvən] |
+|           |            | |
+| *eat*     | *ete*      | [i:t] |
+| *ate*     | *ate*      | [eɪ̯t] |
+| *eaten*   | *eten*     | [ˈi:tən] |
+|           |            | |
+| *fall*    | *fall*     | [fɔ:l] |
+| *fell*    | *fell*     | [fel] |
+| *fallen*  | *fallen*   | [ˈfɔ:læn] |
+|           |            | |
+| *give*    | *gĭve*     | [gɪv] |
+| *gave*    | *gave*     | [geɪ̯v] |
+| *given*   | *gĭven*    | [ˈgɪvən] |
+|           |            | |
+| *grow*    | *grõ*      | [groʊ̯] | <!-- cf. blow, grow, know, throw -->
+| *grew*    | *grū*      | [gru:] |
+| *grown*   | *grõen*    | [groʊ̯n] |
+|           |            | |
+| *hide*    | *hyde*     | [haɪ̯d] |
+| *hid*     | *hyd*      | [hɪd] |
+| *hidden*  | *hydden*   | [ˈhɪdən] |
+|           |            | |
+| *know*    | *knõ*      | [noʊ̯] |
+| *knew*    | *knū*      | [nju:] |
+| *known*   | *knõen*    | [noʊ̯n] |
+|           |            | |
+| *see*     | *sēgh*     | [si:] |
+| *saw*     | *saǧh*     | [sɔ:] |
+| *seen*    | *sēghen*   | [si:n] |
+|           |            | |
+| *shake*   | *shake*    | [ʃeɪ̯k] |
+| *shook*   | *shǒk*     | [ʃʊk] |
+| *shaken*  | *shaken*   | [ˈʃeɪ̯kən] | <!-- -en = syllabic n? ən? -->
+|           |            | |
+| *slay*    | *slagh*    | [sleɪ̯] |
+| *slew*    | *slugh*    | [slu:] |
+| *slain*   | *slaghen*  | [sleɪ̯] |
+|           |            | |
+| *take*    | *take*     | [teɪ̯k] |
+| *took*    | *tǒk*      | [tʊk] |
+| *taken*   | *taken*    | [ˈteɪ̯kən] |
+|           |            | |
+| *throw*   | *thrõ*     | [θroʊ̯] |
+| *threw*   | *thrū*     | [θru:] |
+| *thrown*  | *thrõen*   | [θroʊ̯n] |
 |           |            | |
 | *write*   | *write*    | [raɪ̯t] |
 | *wrote*   | *wråte*    | [roʊt] |
 | *written* | *written*  | [ˈrɪtən] |
+|           |            | |
+
+####### ABC
+
+| | | |
+|-|-|-|
+| *fly*     | *flygh*    | [flaɪ̯] |
+| *flew*    | *flugh*    | [flu:] |
+| *flown*   | *floghen*  | [floʊ̯n] |
+|           |            | |
+| *lie*     | *ligh*     | [laɪ̯] |
+| *lay*     | *lagh*     | [leɪ̯] |
+| *lain*    | *leghen*   | [leɪ̯n] |
+|           |            | |
+
+###### -
+
+| | | |
+|-|-|-|
+| *begin*   | *bigin*    | [bɪˈgɪn] |
+| *began*   | *bigan*    | [bɪˈgæn] |
+| *begun*   | *bigûn*    | [bɪˈgʌn] |
+|           |            | |
+| *sing*    | *sing*     | [sɪŋ] |
+| *sang*    | *sang*     | [sæŋ] |
+| *sung*    | *sûng*     | [sʌŋ] |
+|           |            | |
+| *sink*    | *sink*     | [sɪŋk] |
+| *sank*    | *sank*     | [sæŋk] |
+| *sunk*    | *sûnk*     | [sʌŋk] |
+|           |            | |
+
+###### The real irregular verbs
+
+| | | |
+|-|-|-|
+| *beat*    | *bø̄t*     | [bi:t] |
+| *beat*    | *bø̄t*     | [bi:t] |
+| *beaten*  | *bø̄ten*   | [ˈbi:tən] |
+|           |            | |
+| *become*  | *bicûm*    | [kʌm] |
+| *became*  | *bicame*   | [keɪ̯m] |
+| *become*  | *bicûm*    | [kʌm] |
+|           |            | |
+| *come*    | *cûm*      | [kʌm] |
+| *came*    | *came*     | [keɪ̯m] |
+| *come*    | *cûm*      | [kʌm] |
+|           |            | |
+| *go*      | *gæ̃*      | [goʊ̯] |
+| *went*    | *went*     | [went] |
+| *gone*    | *gån*      | [gɒn] |
+|           |            | |
+| *have*    | *hăve*     | [hæv] |
+| *had*     | *had*      | [hæd] |
+|           |            | |
+| *sow*     | *sæw*      | [soʊ̯] | <!-- actually sæw, silent w -->
+| *sowed*   | *sæwed*    | [soʊ̯d] |
+| *sowen*   | *sæwen*    | [soʊ̯n] |
+|           |            | |
 
 ## American
 
@@ -1202,8 +1263,6 @@ In American English, *ô* and *û* [ʌ] before *r* plus vowel are pronounced lik
 <!-- frolic -->
 
 <!-- toy -->
-
-<!-- Fræncĭsh, Dŷtĭsh, Scôttĭsh, Wælĭsh,  -->
 
 <!-- 
 ã = a
