@@ -24,6 +24,10 @@ After more than one consonant, a vowel is short.
 | *lock* | [lɒk] |
 | *push* | [pʊʃ] |
 
+<!-- Is that a "pu" thing that "pu" is pronounced [pʊ] and not [pʌ]? -->
+<!-- pull put push puss -->
+<!-- puck pun -->
+
 Double consonants except *ff*, *ll*, *ss*, *zz* are written only once at the end of a word. (Cf. *man* and *manned*, *web* and *webbed*, *rim* and *rimmed*, *log* and *logged*, *put* and *putting*.)
 
 | | |
@@ -65,7 +69,8 @@ When a short *a* [æ] comes from a short *e*, this is not reflected in the spell
 
 | | | |
 |-|-|-|
-| *heart* | *hart* | [hɑə̯t] | <!-- actually hȇrt -->
+| *heart* | *hart*  | [hɑə̯t] | <!-- actually hȇrt -->
+| *shall* | *shall* | [ʃæl] | <!-- actually shȗll -->
 
 There is no short *ar* [ɜ:]. Instead, [long *ar*](#lengthened-a) [ɑə̯] is pronounced.
 
@@ -708,7 +713,7 @@ Germanic *gh* is sometimes equivalent to *w* and written as *ugh*. *aught* and *
 | *naught*    | *naǧht*    | [nɔ:t] |
 | *slaughter* | *slaǧhter* | [slɔ:tə] |
 | | | |
-| *daughter*  | *doǧhter*  | [dɔ:tə] |
+| *daughter*  | *daǧhter*  | [dɔ:tə] | <!-- actually doǧhter -->
 | *ought*     | *aǧht*     | [ɔ:t] |
 | | | |
 | *arrow*     | *arǧh*     | [æroʊ̯] |
@@ -966,10 +971,6 @@ Unrelated:
 | *your* | *ūr* | [jʊə̯] |
 
 ##### Irregular Verbs
-<!-- incomplete -->
-
-| | | |
-|-|-|-|
 
 ###### -d/-t
 
@@ -977,26 +978,11 @@ Instead of *-dt*, *-t* is written, e.g. *sent* instead of *sendt*.
 
 | | | |
 |-|-|-|
-| *bend*    | *bend*     | [bend] |
-| *bent*    | *bent*     | [bent] |
-|           |            | |
-| *bind*    | *binde*    | [baɪ̯nd] |
-| *bound*   | *bũnd*     | [bɑʊ̯nd] |
-|           |            | |
 | *bleed*   | *blø̄d*    | [bli:d] |
 | *bled*    | *blød*     | [bled] |
 |           |            | |
 | *breed*   | *brø̄d*    | [bri:d] |
 | *bred*    | *brød*     | [bred] |
-|           |            | |
-| *bring*   | *bring*    | [brɪŋ] |
-| *brought* | *braǧht*   | [brɔ:t] |
-|           |            | |
-| *build*   | *byld*     | [bɪld] |
-| *built*   | *bylt*     | [bɪlt] |
-|           |            | |
-| *catch*   | *cach*     | [kætʃ] |
-| *caught*  | *caǧht*    | [kɔ:t] |
 |           |            | |
 | *creep*   | *crȳp*     | [kri:p] |
 | *crept*   | *crÿpt*    | [krept] |
@@ -1010,17 +996,8 @@ Instead of *-dt*, *-t* is written, e.g. *sent* instead of *sendt*.
 | *feel*    | *føl*      | [fi:t] |
 | *felt*    | *følt*     | [felt] |
 |           |            | |
-| *fight*   | *fyght*    | [faɪ̯t] |
-| *fought*  | *foǧht*    | [fɔ:t] |
-|           |            | |
-| *find*    | *finde*    | [faɪ̯nd] |
-| *found*   | *fũnd*     | [fɑʊ̯nd] |
-|           |            | |
 | *hear*    | *hø̄r*     | [hɪə̯] |
 | *heard*   | *hørd*     | [hɜ:d] |
-|           |            | |
-| *hold*    | *hålde*    | [hoʊ̯ld] |
-| *held*    | *hæld*     | [held] |
 |           |            | |
 | *keep*    | *kø̄p*     | [ki:p] |
 | *kept*    | *køpt*     | [kept] |
@@ -1030,15 +1007,6 @@ Instead of *-dt*, *-t* is written, e.g. *sent* instead of *sendt*.
 |           |            | |
 | *leap*    | *lø̄p*     | [li:p] |
 | *leapt*   | *løpt*     | [lept] |
-|           |            | |
-| *learn*   | *lern*     | [lɜ:n] |
-| *learnt*  | *lernt*    | [lɜ:nt] |
-|           |            | |
-| *lend*    | *lend*     | [lend] |
-| *lent*    | *lent*     | [lent] |
-|           |            | |
-| *lay*     | *legh*     | [leɪ̯] |
-| *laid*    | *leghed*   | [leɪ̯d] |
 |           |            | |
 | *lead*    | *lǣd*      | [li:d] |
 | *led*     | *læd*      | [led] |
@@ -1055,11 +1023,67 @@ Instead of *-dt*, *-t* is written, e.g. *sent* instead of *sendt*.
 | *read*    | *rede*     | [ri:d] |
 | *read*    | *red*      | [red] |
 |           |            | |
-| *say*     | *segh*     | [seɪ̯] | <!-- sĕghs sais -->
-| *said*    | *sĕghed*   | [sed] |
+| *sweep*   | *swǣp*     | [swi:p] |
+| *swept*   | *swæpt*    | [swept] |
+|           |            | |
+| *weep*    | *wø̄p*     | [wi:p] |
+| *wept*    | *wøpt*     | [wept] |
+|           |            | |
+
+| | | |
+|-|-|-|
+| *bet*     | *bet*      | [bet] |
+|           |            | |
+
+| | | |
+|-|-|-|
+| *bring*   | *bring*    | [brɪŋ] |
+| *brought* | *braǧht*   | [brɔ:t] |
+|           |            | |
+| *catch*   | *cach*     | [kætʃ] |
+| *caught*  | *caǧht*    | [kɔ:t] |
+|           |            | |
+| *fight*   | *fyght*    | [faɪ̯t] |
+| *fought*  | *faǧht*    | [fɔ:t] | <!-- actually foǧht -->
 |           |            | |
 | *seek*    | *søk*      | [si:k] |
-| *sought*  | *soǧht*    | [sɔ:t] |
+| *sought*  | *saǧht*    | [sɔ:t] | <!-- actually soǧht -->
+|           |            | |
+| *teach*   | *tǣch*     | [ti:tʃ] |
+| *taught*  | *taǧht*    | [tɔ:t] | <!-- actually tæǧht -->
+|           |            | |
+| *think*   | *think*    | [θɪŋk] |
+| *thought* | *thaǧht*   | [θɔ:t] | <!-- actually thoǧht -->
+|           |            | |
+
+| | | |
+|-|-|-|
+| *bend*    | *bend*     | [bend] |
+| *bent*    | *bent*     | [bent] |
+|           |            | |
+| *bind*    | *binde*    | [baɪ̯nd] |
+| *bound*   | *bũnd*     | [bɑʊ̯nd] |
+|           |            | |
+| *build*   | *byld*     | [bɪld] |
+| *built*   | *bylt*     | [bɪlt] |
+|           |            | |
+| *find*    | *finde*    | [faɪ̯nd] |
+| *found*   | *fũnd*     | [fɑʊ̯nd] |
+|           |            | |
+| *hold*    | *hålde*    | [hoʊ̯ld] |
+| *held*    | *hæld*     | [held] |
+|           |            | |
+| *learn*   | *lern*     | [lɜ:n] |
+| *learnt*  | *lernt*    | [lɜ:nt] |
+|           |            | |
+| *lend*    | *lend*     | [lend] |
+| *lent*    | *lent*     | [lent] |
+|           |            | |
+| *lay*     | *legh*     | [leɪ̯] |
+| *laid*    | *leghed*   | [leɪ̯d] |
+|           |            | |
+| *say*     | *segh*     | [seɪ̯] | <!-- sĕghs sais -->
+| *said*    | *sĕghed*   | [sed] |
 |           |            | |
 | *send*    | *send*     | [send] |
 | *sent*    | *sent*     | [sent] |
@@ -1067,18 +1091,19 @@ Instead of *-dt*, *-t* is written, e.g. *sent* instead of *sendt*.
 | *spend*   | *spend*    | [spend] |
 | *spent*   | *spent*    | [spent] |
 |           |            | |
-| *sweep*   | *swǣp*     | [swi:p] |
-| *swept*   | *swæpt*    | [swept] |
+
+| | | |
+|-|-|-|
+| *can*     | *can*      | [kæn] | <!-- actually cȗn -->
+| *could*   | *cułd*     | [kʊd] | <!-- actually cun̆d -->
 |           |            | |
-| *teach*   | *tǣch*     | [ti:tʃ] |
-| *taught*  | *taǧht*    | [tɔ:t] | <!-- actually tæǧht -->
+| *shall*   | *shall*    | [ʃæl] | <!-- actually shȗll -->
+| *should*  | *shułd*    | [ʃʊd] |
 |           |            | |
-| *think*   | *think*    | [θɪŋk] |
-| *thought* | *thoǧht*   | [θɔ:t] |
+| *will*    | *will*     | [wɪl] |
+| *would*   | *wułd*     | [wʊd] | <!-- actually wǒłd -->
 |           |            | |
-| *weep*    | *wø̄p*     | [wi:p] |
-| *wept*    | *wøpt*     | [wept] |
-|           |            | |
+
 
 ###### -en
 
@@ -1094,6 +1119,10 @@ Instead of *-dt*, *-t* is written, e.g. *sent* instead of *sendt*.
 | *bore*    | *bore*     | [bɔə̯] | <!-- actually bære -->
 | *born*    | *boren*    | [bɔə̯n] |
 |           |            | |
+| *bite*    | *bite*     | [baɪ̯t] |
+| *bit*     | *bit*      | [bɪt] | <!-- actually bȧt -->
+| *bitten*  | *bitten*   | [ˈbɪtn̩] |
+|           |            | |
 | *break*   | *brek*     | [breɪ̯k] |
 | *broke*   | *broke*    | [broʊ̯k] |
 | *broken*  | *broken*   | [ˈbroʊ̯kən] |
@@ -1101,6 +1130,10 @@ Instead of *-dt*, *-t* is written, e.g. *sent* instead of *sendt*.
 | *choose*  | *chos*     | [tʃu:z] |
 | *chose*   | *chose*    | [tʃoʊ̯z] |
 | *chosen*  | *chosen*   | [tʃoʊ̯z] |
+|           |            | |
+| *hide*    | *hyde*     | [haɪ̯d] |
+| *hid*     | *hyd*      | [hɪd] |
+| *hidden*  | *hydden*   | [ˈhɪdən] |
 |           |            | |
 | *speak*   | *speke*    | [spi:k] |
 | *spoke*   | *spoke*    | [spoʊ̯k] |
@@ -1154,10 +1187,6 @@ Instead of *-dt*, *-t* is written, e.g. *sent* instead of *sendt*.
 | *grow*    | *grõ*      | [groʊ̯] | <!-- cf. blow, grow, know, throw -->
 | *grew*    | *grū*      | [gru:] |
 | *grown*   | *grõen*    | [groʊ̯n] |
-|           |            | |
-| *hide*    | *hyde*     | [haɪ̯d] |
-| *hid*     | *hyd*      | [hɪd] |
-| *hidden*  | *hydden*   | [ˈhɪdən] |
 |           |            | |
 | *know*    | *knõ*      | [noʊ̯] |
 | *knew*    | *knū*      | [nju:] |
@@ -1271,3 +1300,5 @@ bē = be
 sõ = so
 Ũ (ugh/...) = U
  -->
+
+<!-- cût, put → cut, pǔt -->
