@@ -811,6 +811,7 @@ Germanic *ghs* is pronounced [ks] and doesn't contain a silent *gh*.
 | *hedge*   | *heĝh*  | [heʤ] |
 | *midge*   | *myĝh*  | [mɪʤ] |
 | *ridge*   | *ryĝh*  | [rɪʤ] |
+| *pledge*  | *pleĝh* | [pleʤ] |
 | *sledge*  | *sleĝh* | [sleʤ] |
 
 ### sh
@@ -970,28 +971,41 @@ Unrelated:
 | *you*  | *ū*  | [ju:] |
 | *your* | *ūr* | [jʊə̯] |
 
-## Irregular Verbs
+## Verbs
+
+The suffix -ed ist pronounced [d], or [t], if the preceding consonant is voiceless.
+
+| | |
+|-|-|
+| *stay*    | [steɪ̯] |
+| *stayed*  | [steɪ̯d] |
+|           | |
+| *thank*   | [θæŋk] |
+| *thanked* | [θæŋkt] |
+|           | |
 
 ### -d/-t
 
-Instead of *-dt*, *-t* is written, e.g. *sent* instead of *sendt*.
+The following verbs are irregular, because their spelling reflects the assimilation of the ending *-ed*.
 
 | | | |
 |-|-|-|
-| *bleed*   | *blø̄d*    | [bli:d] |
-| *bled*    | *blød*     | [bled] |
+| *lay*     | *legh*     | [leɪ̯] |
+| *laid*    | *leghed*   | [leɪ̯d] |
 |           |            | |
-| *breed*   | *brø̄d*    | [bri:d] |
-| *bred*    | *brød*     | [bred] |
+| *pay*     | *pay*      | [peɪ̯] |
+| *paid*    | *payed*    | [peɪ̯d] |
 |           |            | |
+
+The following verbs are irregular, because their stem vowel is shortened, and a voiced stem ending becomes voiceless.
+
+| | | |
+|-|-|-|
 | *creep*   | *crȳp*     | [kri:p] |
 | *crept*   | *crÿpt*    | [krept] |
 |           |            | |
 | *dream*   | *drø̄m*    | [dri:m] |
 | *dreamt*  | *drømt*    | [dremt] |
-|           |            | |
-| *feed*    | *fø̄d*     | [fi:d] |
-| *fed*     | *fød*      | [fed] |
 |           |            | |
 | *feel*    | *føl*      | [fi:t] |
 | *felt*    | *følt*     | [felt] |
@@ -1008,20 +1022,11 @@ Instead of *-dt*, *-t* is written, e.g. *sent* instead of *sendt*.
 | *leap*    | *lø̄p*     | [li:p] |
 | *leapt*   | *løpt*     | [lept] |
 |           |            | |
-| *lead*    | *lǣd*      | [li:d] |
-| *led*     | *læd*      | [led] |
-|           |            | |
 | *leave*   | *lǣve*     | [li:v] |
 | *left*    | *læft*     | [left] |
 |           |            | |
 | *lose*    | *los*      | [lu:z] |
 | *lost*    | *lost*     | [lɒst] |
-|           |            | |
-| *meet*    | *mø̄t*     | [mi:t] |
-| *met*     | *møt*      | [met] |
-|           |            | |
-| *read*    | *rede*     | [ri:d] |
-| *read*    | *red*      | [red] |
 |           |            | |
 | *sweep*   | *swǣp*     | [swi:p] |
 | *swept*   | *swæpt*    | [swept] |
@@ -1030,9 +1035,72 @@ Instead of *-dt*, *-t* is written, e.g. *sent* instead of *sendt*.
 | *wept*    | *wøpt*     | [wept] |
 |           |            | |
 
+The stem ending *-nd* becomes *-nt*.
+
 | | | |
 |-|-|-|
-| *bet*     | *bet*      | [bet] |
+| *bend*    | *bend*     | [bend] |
+| *bent*    | *bent*     | [bent] |
+|           |            | |
+| *build*   | *byld*     | [bɪld] |
+| *built*   | *bylt*     | [bɪlt] |
+|           |            | |
+| *lend*    | *lend*     | [lend] |
+| *lent*    | *lent*     | [lent] |
+|           |            | |
+| *send*    | *send*     | [send] |
+| *sent*    | *sent*     | [sent] |
+|           |            | |
+| *spend*   | *spend*    | [spend] |
+| *spent*   | *spent*    | [spent] |
+|           |            | |
+
+Otherwise, the stem ending *-d* remains *-d*. Also, the stem ending *-t* remains *-t*.
+
+| | | |
+|-|-|-|
+| *bleed*   | *blø̄d*    | [bli:d] |
+| *bled*    | *blød*     | [bled] |
+|           |            | |
+| *breed*   | *brø̄d*    | [bri:d] |
+| *bred*    | *brød*     | [bred] |
+|           |            | |
+| *feed*    | *fø̄d*     | [fi:d] |
+| *fed*     | *fød*      | [fed] |
+|           |            | |
+| *lead*    | *lǣd*      | [li:d] |
+| *led*     | *læd*      | [led] |
+|           |            | |
+| *meet*    | *mø̄t*     | [mi:t] |
+| *met*     | *møt*      | [met] |
+|           |            | |
+| *read*    | *rede*     | [ri:d] |
+| *read*    | *red*      | [red] |
+|           |            | |
+
+Therefore, when the stem has a short vowel and ends in *-t*, the form of the verb doesn't change.
+
+| | |
+|-|-|
+| *bet*      | [bet] |
+|            | |
+| *cȃst*     | [kast] |
+|            | |
+| *fit*      | [fɪt] |
+|            | |
+| *let*      | [let] |
+|            | |
+| *set*      | [set] |
+|            | |
+
+
+
+
+
+| | | |
+|-|-|-|
+| *learn*   | *lern*     | [lɜ:n] |
+| *learnt*  | *lernt*    | [lɜ:nt] |
 |           |            | |
 
 | | | |
@@ -1058,38 +1126,14 @@ Instead of *-dt*, *-t* is written, e.g. *sent* instead of *sendt*.
 
 | | | |
 |-|-|-|
-| *bend*    | *bend*     | [bend] |
-| *bent*    | *bent*     | [bent] |
-|           |            | |
 | *bind*    | *binde*    | [baɪ̯nd] |
 | *bound*   | *bũnd*     | [bɑʊ̯nd] |
-|           |            | |
-| *build*   | *byld*     | [bɪld] |
-| *built*   | *bylt*     | [bɪlt] |
 |           |            | |
 | *find*    | *finde*    | [faɪ̯nd] |
 | *found*   | *fũnd*     | [fɑʊ̯nd] |
 |           |            | |
 | *hold*    | *hålde*    | [hoʊ̯ld] |
 | *held*    | *hæld*     | [held] |
-|           |            | |
-| *learn*   | *lern*     | [lɜ:n] |
-| *learnt*  | *lernt*    | [lɜ:nt] |
-|           |            | |
-| *lend*    | *lend*     | [lend] |
-| *lent*    | *lent*     | [lent] |
-|           |            | |
-| *lay*     | *legh*     | [leɪ̯] |
-| *laid*    | *leghed*   | [leɪ̯d] |
-|           |            | |
-| *say*     | *segh*     | [seɪ̯] | <!-- sĕghs sais -->
-| *said*    | *sĕghed*   | [sed] |
-|           |            | |
-| *send*    | *send*     | [send] |
-| *sent*    | *sent*     | [sent] |
-|           |            | |
-| *spend*   | *spend*    | [spend] |
-| *spent*   | *spent*    | [spent] |
 |           |            | |
 
 | | | |
@@ -1106,7 +1150,7 @@ Instead of *-dt*, *-t* is written, e.g. *sent* instead of *sendt*.
 
 ### -en
 
-####### ABB
+#### ABB
 
 | | | |
 |-|-|-|
@@ -1246,7 +1290,9 @@ Instead of *-dt*, *-t* is written, e.g. *sent* instead of *sendt*.
 | *sunk*    | *sûnk*     | [sʌŋk] |
 |           |            | |
 
-### The real irregular verbs
+### Irregular Verbs
+
+<!-- to be -->
 
 | | | |
 |-|-|-|
@@ -1268,6 +1314,12 @@ Instead of *-dt*, *-t* is written, e.g. *sent* instead of *sendt*.
 |           |            | |
 | *have*    | *hăve*     | [hæv] |
 | *had*     | *had*      | [hæd] |
+|           |            | |
+| *make*    | *make*     | [meɪ̯k] |
+| *made*    | *made*     | [meɪ̯d] | <!-- actually mãd -->
+|           |            | |
+| *say*     | *segh*     | [seɪ̯] | <!-- sĕghs sais -->
+| *said*    | *sĕghed*   | [sed] |
 |           |            | |
 | *sow*     | *sæw*      | [soʊ̯] | <!-- actually sæw, silent w -->
 | *sowed*   | *sæwed*    | [soʊ̯d] |
