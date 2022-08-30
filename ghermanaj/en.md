@@ -197,14 +197,14 @@ Short *o* and *u* are often pronounced [ʌ] instead of [ʊ].
 
 | | |
 |-|-|
-| *sôn* | [sʌn] |
+| *sôn* | [sʌn] | <!-- actually sun -->
 | *sun* | [sʌn] |
 
 | | |
 |-|-|
-| *blood*   | *blôd*    | [blʌd] |
-| *brother* | *brôther* | [ˈbrʌðə] |
-| *mother*  | *môther*  | [ˈmʌðə] |
+| *blood*   | *blôd*    | [blʌd] | <!-- un-actually blud -->
+| *brother* | *brôther* | [ˈbrʌðə] |  <!-- un-actually bruther -->
+| *mother*  | *môther*  | [ˈmʌðə] |  <!-- un-actually muther -->
 | *young*   | *yung*    | [jʌŋ]  |
 
 When a short *u* [ʊ] comes from a short *i*, this is not reflected in the spelling.
@@ -242,7 +242,7 @@ The silent *e* at the end of a word turns the short vowels *ă* [æ], *ĕ* [e], 
 | *move*   | *mōve*   | [mu:v] |
 | | | |
 | *dove*   | *duve*   | [dʌv] |
-| *glove*  | *gĕlôve* | [glʌv] |
+| *glove*  | *gĕlôve* | [glʌv] | <!-- un-actually gĕluve -->
 | *live*   | *lĭve*   | [lɪv] |
 | *love*   | *luve*   | [lʌv] |
 | *shove*  | *shuve*  | [ʃʌv] |
@@ -791,8 +791,8 @@ After *ȃ* [a], *ô* [ʌ] and *u* [ʌ] Germanic *gh* is pronounced [f].
 | *after*  | *ȃghter* | [aftə] |
 | *laugh*  | *lȃgh*   | [laf] |
 | | | |
-| *cough*  | *côgh*   | [rʌf] |
-| *enough* | *ğenôgh* | [ɪˈnʌf] |
+| *cough*  | *côgh*   | [rʌf] | <!-- un-actually cugh -->
+| *enough* | *ğenôgh* | [ɪˈnʌf] | <!-- un-actually ğenugh -->
 | *rough*  | *rugh*   | [rʌf] |
 
 Germanic *ghs* is pronounced [ks] and doesn't contain a silent *gh*.
@@ -820,7 +820,7 @@ Germanic *ghs* is pronounced [ks] and doesn't contain a silent *gh*.
 | *Welsh*   | *Wælĭsh*   | [welʃ] |
 | | | |
 | *Dutch*   | *Dŷtĭsh*   | [dʌtʃ] |
-| *Scotch*  | *Scôttĭsh* | [skɒtʃ] |
+| *Scotch*  | *Scottĭsh* | [skɒtʃ] |
 | | | |
 | *French*  | *Fræncĭsh* | [frentʃ] |
 
@@ -849,7 +849,7 @@ Germanic *ghs* is pronounced [ks] and doesn't contain a silent *gh*.
 | | | |
 |-|-|-|
 | *aback*   | *ån̆back*   | [əˈbæk] |
-| *above*   | *ån̆bôve*   | [əˈbʌv] |
+| *above*   | *ån̆buve*   | [əˈbʌv] |
 | *afore*   | *ån̆fore*   | [əˈfɔə̯] |
 | *afresh*  | *ån̆fresh*  | [əˈfreʃ] | <!-- actually ån̆frïsh -->
 | *again*   | *ån̆gen*    | [əˈgen] | <!-- also: *on̆geghen* [əˈgeɪ̯n] -->
@@ -857,7 +857,7 @@ Germanic *ghs* is pronounced [ks] and doesn't contain a silent *gh*.
 | *alive*   | *ån̆live*   | [əˈlaɪ̯v] |
 | *aloud*   | *ån̆lŭd*    | [əˈlɑʊ̯d] |
 | *amid*    | *ån̆mid*    | [əˈmɪd] |
-| *among*   | *ån̆mông*   | [əˈmʌŋ] |
+| *among*   | *ån̆mâng*   | [əˈmʌŋ] | <!-- â → u ? -->
 | *anew*    | *ån̆nỹ*     | [əˈnju:] |
 | *aside*   | *ån̆side*   | [əˈsaɪ̯d] |
 | *away*    | *ån̆wegh*   | [əˈweɪ̯] |
@@ -945,7 +945,7 @@ Unrelated:
 | *as*     | *ałs*    | [æz] |
 | | | |
 | *which*  | *whȯłch* | [hwɪtʃ] |
-| *such*   | *sôłch*  | [sʌtʃ] |
+| *such*   | *sôłch*  | [sʌtʃ] | <!-- un-actually sułch -->
 
 ##### Pronouns
 
