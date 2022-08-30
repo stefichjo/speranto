@@ -984,7 +984,7 @@ The suffix -ed ist pronounced [d], or [t], if the preceding consonant is voicele
 | *thanked* | [θæŋkt] |
 |           | |
 
-### -d/-t
+### Weak Verbs
 
 The following verbs are irregular, because their spelling reflects the assimilation of the ending *-ed*.
 
@@ -997,7 +997,7 @@ The following verbs are irregular, because their spelling reflects the assimilat
 | *paid*    | *payed*    | [peɪ̯d] |
 |           |            | |
 
-The following verbs are irregular, because their stem vowel is shortened, and a voiced stem ending becomes voiceless.
+The following verbs are irregular, because their stem vowel is shortened (typically to *e* [e]). ...
 
 | | | |
 |-|-|-|
@@ -1022,12 +1022,6 @@ The following verbs are irregular, because their stem vowel is shortened, and a 
 | *leap*    | *lø̄p*     | [li:p] |
 | *leapt*   | *løpt*     | [lept] |
 |           |            | |
-| *leave*   | *lǣve*     | [li:v] |
-| *left*    | *læft*     | [left] |
-|           |            | |
-| *lose*    | *los*      | [lu:z] |
-| *lost*    | *lost*     | [lɒst] |
-|           |            | |
 | *sweep*   | *swǣp*     | [swi:p] |
 | *swept*   | *swæpt*    | [swept] |
 |           |            | |
@@ -1035,7 +1029,77 @@ The following verbs are irregular, because their stem vowel is shortened, and a 
 | *wept*    | *wøpt*     | [wept] |
 |           |            | |
 
-The stem ending *-nd* becomes *-nt*.
+... A voiced stem ending becomes voiceless.
+
+| | | |
+|-|-|-|
+| *leave*   | *lǣve*     | [li:v] |
+| *left*    | *læft*     | [left] |
+|           |            | |
+| *lose*    | *los*      | [lu:z] |
+| *lost*    | *lost*     | [lɒst] |
+|           |            | |
+
+If the stem vowel is already short, it doesn't change further.
+
+| | | |
+|-|-|-|
+| *burn*    | *bern*     | [bɜ:n] |
+| *burnt*   | *bernt*    | [bɜ:nt] | <!-- also burned -->
+|           |            | |
+| *learn*   | *lern*     | [lɜ:n] |
+| *learnt*  | *lernt*    | [lɜ:nt] | <!-- also learned -->
+|           |            | |
+| *spell*   | *spell*    | [spel] |
+| *spelt*   | *spelt*    | [spelt] | <!-- also spelled -->
+|           |            | |
+
+If the stem ends in *-t*, no additional *t* is written.
+
+| | | |
+|-|-|-|
+| *meet*    | *mø̄t*     | [mi:t] |
+| *met*     | *møt*      | [met] |
+|           |            | |
+
+If the stem ends in *-t* and the stem vowel is short, the form of the verb doesn't change.
+
+| | |
+|-|-|
+| *bet*      | [bet] |
+|            | |
+| *burst*    | [bɜ:st] |
+|            | |
+| *cȃst*     | [kast] |
+|            | |
+| *fit*      | [fɪt] |
+|            | |
+| *let*      | [let] |
+|            | |
+| *set*      | [set] |
+|            | |
+
+If the stem ends in *-d*, it doesn't become voicess *-t*, ...
+
+| | | |
+|-|-|-|
+| *bleed*   | *blø̄d*    | [bli:d] |
+| *bled*    | *blød*     | [bled] |
+|           |            | |
+| *breed*   | *brø̄d*    | [bri:d] |
+| *bred*    | *brød*     | [bred] |
+|           |            | |
+| *feed*    | *fø̄d*     | [fi:d] |
+| *fed*     | *fød*      | [fed] |
+|           |            | |
+| *lead*    | *lǣd*      | [li:d] |
+| *led*     | *læd*      | [led] |
+|           |            | |
+| *read*    | *rede*     | [ri:d] |
+| *read*    | *red*      | [red] |
+|           |            | |
+
+... unless the stem vowel is short.
 
 | | | |
 |-|-|-|
@@ -1055,102 +1119,22 @@ The stem ending *-nd* becomes *-nt*.
 | *spent*   | *spent*    | [spent] |
 |           |            | |
 
-Otherwise, the stem ending *-d* remains *-d*. Also, the stem ending *-t* remains *-t*.
+### Strong Verbs
+
+The stem vowel of strong verbs changes. The past participle of strong verbs ends in *-en*.
 
 | | | |
 |-|-|-|
-| *bleed*   | *blø̄d*    | [bli:d] |
-| *bled*    | *blød*     | [bled] |
+| *fly*     | *flygh*    | [flaɪ̯] |
+| *flew*    | *flugh*    | [flu:] |
+| *flown*   | *floghen*  | [floʊ̯n] |
 |           |            | |
-| *breed*   | *brø̄d*    | [bri:d] |
-| *bred*    | *brød*     | [bred] |
-|           |            | |
-| *feed*    | *fø̄d*     | [fi:d] |
-| *fed*     | *fød*      | [fed] |
-|           |            | |
-| *lead*    | *lǣd*      | [li:d] |
-| *led*     | *læd*      | [led] |
-|           |            | |
-| *meet*    | *mø̄t*     | [mi:t] |
-| *met*     | *møt*      | [met] |
-|           |            | |
-| *read*    | *rede*     | [ri:d] |
-| *read*    | *red*      | [red] |
+| *lie*     | *ligh*     | [laɪ̯] |
+| *lay*     | *lagh*     | [leɪ̯] |
+| *lain*    | *leghen*   | [leɪ̯n] |
 |           |            | |
 
-Therefore, when the stem has a short vowel and ends in *-t*, the form of the verb doesn't change.
-
-| | |
-|-|-|
-| *bet*      | [bet] |
-|            | |
-| *cȃst*     | [kast] |
-|            | |
-| *fit*      | [fɪt] |
-|            | |
-| *let*      | [let] |
-|            | |
-| *set*      | [set] |
-|            | |
-
-
-
-
-
-| | | |
-|-|-|-|
-| *learn*   | *lern*     | [lɜ:n] |
-| *learnt*  | *lernt*    | [lɜ:nt] |
-|           |            | |
-
-| | | |
-|-|-|-|
-| *bring*   | *bring*    | [brɪŋ] |
-| *brought* | *braǧht*   | [brɔ:t] |
-|           |            | |
-| *catch*   | *cach*     | [kætʃ] |
-| *caught*  | *caǧht*    | [kɔ:t] |
-|           |            | |
-| *fight*   | *fyght*    | [faɪ̯t] |
-| *fought*  | *faǧht*    | [fɔ:t] | <!-- actually foǧht -->
-|           |            | |
-| *seek*    | *søk*      | [si:k] |
-| *sought*  | *saǧht*    | [sɔ:t] | <!-- actually soǧht -->
-|           |            | |
-| *teach*   | *tǣch*     | [ti:tʃ] |
-| *taught*  | *taǧht*    | [tɔ:t] | <!-- actually tæǧht -->
-|           |            | |
-| *think*   | *think*    | [θɪŋk] |
-| *thought* | *thaǧht*   | [θɔ:t] | <!-- actually thoǧht -->
-|           |            | |
-
-| | | |
-|-|-|-|
-| *bind*    | *binde*    | [baɪ̯nd] |
-| *bound*   | *bũnd*     | [bɑʊ̯nd] |
-|           |            | |
-| *find*    | *finde*    | [faɪ̯nd] |
-| *found*   | *fũnd*     | [fɑʊ̯nd] |
-|           |            | |
-| *hold*    | *hålde*    | [hoʊ̯ld] |
-| *held*    | *hæld*     | [held] |
-|           |            | |
-
-| | | |
-|-|-|-|
-| *can*     | *can*      | [kæn] | <!-- actually cȗn -->
-| *could*   | *cułd*     | [kʊd] | <!-- actually cun̆d -->
-|           |            | |
-| *shall*   | *shall*    | [ʃæl] | <!-- actually shȗll -->
-| *should*  | *shułd*    | [ʃʊd] |
-|           |            | |
-| *will*    | *will*     | [wɪl] |
-| *would*   | *wułd*     | [wʊd] | <!-- actually wǒłd -->
-|           |            | |
-
-### -en
-
-#### ABB
+#### Past Participle = Past
 
 | | | |
 |-|-|-|
@@ -1199,7 +1183,7 @@ Therefore, when the stem has a short vowel and ends in *-t*, the form of the ver
 | *worn*    | *woren*    | [wɔə̯n] |
 |           |            | |
 
-#### ABA
+#### Past Participle = Present
 
 | | | |
 |-|-|-|
@@ -1260,19 +1244,6 @@ Therefore, when the stem has a short vowel and ends in *-t*, the form of the ver
 | *written* | *written*  | [ˈrɪtən] |
 |           |            | |
 
-#### ABC
-
-| | | |
-|-|-|-|
-| *fly*     | *flygh*    | [flaɪ̯] |
-| *flew*    | *flugh*    | [flu:] |
-| *flown*   | *floghen*  | [floʊ̯n] |
-|           |            | |
-| *lie*     | *ligh*     | [laɪ̯] |
-| *lay*     | *lagh*     | [leɪ̯] |
-| *lain*    | *leghen*   | [leɪ̯n] |
-|           |            | |
-
 ### -
 
 | | | |
@@ -1290,7 +1261,24 @@ Therefore, when the stem has a short vowel and ends in *-t*, the form of the ver
 | *sunk*    | *sûnk*     | [sʌŋk] |
 |           |            | |
 
+<!-- nd, ld -->
+<!-- no -en -->
+
+| | | |
+|-|-|-|
+| *bind*    | *binde*    | [baɪ̯nd] |
+| *bound*   | *bũnd*     | [bɑʊ̯nd] |
+|           |            | |
+| *find*    | *finde*    | [faɪ̯nd] |
+| *found*   | *fũnd*     | [fɑʊ̯nd] |
+|           |            | |
+| *hold*    | *hålde*    | [hoʊ̯ld] |
+| *held*    | *hæld*     | [held] |
+|           |            | |
+
+
 ### Irregular Verbs
+
 
 <!-- to be -->
 
@@ -1324,6 +1312,50 @@ Therefore, when the stem has a short vowel and ends in *-t*, the form of the ver
 | *sow*     | *sæw*      | [soʊ̯] | <!-- actually sæw, silent w -->
 | *sowed*   | *sæwed*    | [soʊ̯d] |
 | *sowen*   | *sæwen*    | [soʊ̯n] |
+|           |            | |
+
+### Weak/Strong Verbs
+
+#### -gh-
+<!-- Vowel change -->
+
+| | | |
+|-|-|-|
+| *bring*   | *bring*    | [brɪŋ] |
+| *brought* | *braǧht*   | [brɔ:t] |
+|           |            | |
+| *buy*     | *bygh*     | [baɪ̯] |
+| *bought*  | *baǧht*    | [brɔ:t] | <!-- actually boǧht -->
+|           |            | |
+| *catch*   | *cach*     | [kætʃ] |
+| *caught*  | *caǧht*    | [kɔ:t] |
+|           |            | |
+| *fight*   | *fyght*    | [faɪ̯t] |
+| *fought*  | *faǧht*    | [fɔ:t] | <!-- actually foǧht -->
+|           |            | |
+| *seek*    | *søk*      | [si:k] |
+| *sought*  | *saǧht*    | [sɔ:t] | <!-- actually soǧht -->
+|           |            | |
+| *teach*   | *tǣch*     | [ti:tʃ] |
+| *taught*  | *taǧht*    | [tɔ:t] | <!-- actually tæǧht -->
+|           |            | |
+| *think*   | *think*    | [θɪŋk] |
+| *thought* | *thaǧht*   | [θɔ:t] | <!-- actually thoǧht -->
+|           |            | |
+
+#### Auxiliary/Modal Verbs
+<!-- Vowel change -->
+
+| | | |
+|-|-|-|
+| *can*     | *can*      | [kæn] | <!-- actually cȗn -->
+| *could*   | *cułd*     | [kʊd] | <!-- actually cun̆d -->
+|           |            | |
+| *shall*   | *shall*    | [ʃæl] | <!-- actually shȗll -->
+| *should*  | *shułd*    | [ʃʊd] |
+|           |            | |
+| *will*    | *will*     | [wɪl] |
+| *would*   | *wułd*     | [wʊd] | <!-- actually wǒłd -->
 |           |            | |
 
 ## American
