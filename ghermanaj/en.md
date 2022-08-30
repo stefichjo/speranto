@@ -22,7 +22,7 @@ After more than one consonant, a vowel is short.
 | *tell* | [tel] |
 | *wind* | [wɪnd] |
 | *lock* | [lɒk] |
-| *push* | [pʊʃ] |
+| *pǔsh* | [pʊʃ] |
 
 <!-- Is that a "pu" thing that "pu" is pronounced [pʊ] and not [pʌ]? -->
 <!-- pull put push puss -->
@@ -36,7 +36,7 @@ Double consonants except *ff*, *ll*, *ss*, *zz* are written only once at the end
 | *web* | [web] |
 | *rim* | [rɪm] |
 | *log* | [lɒg] |
-| *put* | [pʊt] |
+| *pǔt* | [pʊt] |
 
 In unstressed syllables, vowels tend to be pronounced [ə].
 
@@ -211,7 +211,7 @@ When a short *u* [ʊ] comes from a short *i*, this is not reflected in the spell
 
 | | | |
 |-|-|-|
-| *woman* | *wumman* | [ˈwʊmən] | <!-- actually wǐmman -->
+| *woman* | *wǔmman* | [ˈwʊmən] | <!-- actually wǐmman -->
 
 Short *ur* is pronounced [ɜ:].
 
@@ -246,7 +246,7 @@ The silent *e* at the end of a word turns the short vowels *ă* [æ], *ĕ* [e], 
 | *live*   | *lĭve*   | [lɪv] |
 | *love*   | *lûve*   | [lʌv] |
 | *shove*  | *shûve*  | [ʃʌv] |
-| *wolves* | *wŭlves* | [wʊlvz] |
+| *wolves* | *wǔlves* | [wʊlvz] |
 
 #### Lengthened a
 
@@ -349,7 +349,6 @@ In many cases, a long *e* [i:] comes from a Germanic *au*, *o*, as well as *ai*,
 | *bleach*  | *blǣch*   | [bli:tʃ] |
 | *bleak*   | *blæk*    | [bli:k] |
 | *breathe* | *brǣth*   | [bri:θ] ]
-| *deal*    | *dæl*     | [di:l] |
 | *heal*    | *hæl*     | [hi:l] |
 | *mean*    | *mǣn*     | [mi:n] |
 | *seat*    | *sǣt*     | [si:t] |
@@ -398,7 +397,7 @@ Long *er* is pronounced [ɪə̯], whereas diphthong *er* is pronounced [ɛə̯].
 | *fear*     | *fere*    | [fɪə̯] |
 | | | |
 | *hair*     | *hẽr*     | [hɛə̯] |
-| *werewolf* | *wẽrwulf* | [ˈwɛə̯wʊlf] |
+| *werewolf* | *wẽrwǔlf* | [ˈwɛə̯wʊlf] |
 
 #### Lengthened i
 
@@ -1004,6 +1003,9 @@ The following verbs are irregular, because their stem vowel is shortened (typica
 | *creep*   | *crȳp*     | [kri:p] |
 | *crept*   | *crÿpt*    | [krept] |
 |           |            | |
+| *deal*    | *dæl*      | [di:l] |
+| *dealt*   | *dælt*     | [delt] |
+|           |            | |
 | *dream*   | *drø̄m*    | [dri:m] |
 | *dreamt*  | *drømt*    | [dremt] |
 |           |            | |
@@ -1072,9 +1074,15 @@ If the stem ends in *-t* and the stem vowel is short, the form of the verb doesn
 |            | |
 | *cȃst*     | [kast] |
 |            | |
+| *cost*     | [kɒst] |
+|            | |
+| *cut*      | [kʌt] |
+|            | |
 | *fit*      | [fɪt] |
 |            | |
 | *let*      | [let] |
+|            | |
+| *pǔt*      | [pʊt] |
 |            | |
 | *set*      | [set] |
 |            | |
@@ -1121,7 +1129,7 @@ If the stem ends in *-d*, it doesn't become voicess *-t*, ...
 
 ### Strong Verbs
 
-The stem vowel of strong verbs changes. The past participle of strong verbs ends in *-en*.
+The stem vowel of strong verbs changes. The past participle of strong verbs ends in *-en* ...
 
 | | | |
 |-|-|-|
@@ -1134,7 +1142,26 @@ The stem vowel of strong verbs changes. The past participle of strong verbs ends
 | *lain*    | *leghen*   | [leɪ̯n] |
 |           |            | |
 
+... except when it doesn't.
+
+| | | |
+|-|-|-|
+| *begin*   | *bigin*    | [bɪˈgɪn] | <!-- originally -gin -gan -gunnen -->
+| *began*   | *bigan*    | [bɪˈgæn] |
+| *begun*   | *bigûn*    | [bɪˈgʌn] |
+|           |            | |
+| *sing*    | *sing*     | [sɪŋ] | <!-- originally sing sang sungen -->
+| *sang*    | *sang*     | [sæŋ] |
+| *sung*    | *sûng*     | [sʌŋ] |
+|           |            | |
+| *sink*    | *sink*     | [sɪŋk] | <!-- originally sink sank sunken -->
+| *sank*    | *sank*     | [sæŋk] |
+| *sunk*    | *sûnk*     | [sʌŋk] |
+|           |            | |
+
 #### Past Participle = Past
+
+In some verbs, the vowel of the past has merged to the vowel of the past participle.
 
 | | | |
 |-|-|-|
@@ -1143,11 +1170,11 @@ The stem vowel of strong verbs changes. The past participle of strong verbs ends
 | *awoken*  | *ån̆woken* | [əˈrɪzən] |
 |           |            | |
 | *bear*    | *bẽr*      | [bɛə̯] | <!-- un-actually bare -->
-| *bore*    | *bore*     | [bɔə̯] | <!-- actually bære -->
+| *bore*    | *bore*     | [bɔə̯] |
 | *born*    | *boren*    | [bɔə̯n] |
 |           |            | |
 | *bite*    | *bite*     | [baɪ̯t] |
-| *bit*     | *bit*      | [bɪt] | <!-- actually bȧt -->
+| *bit*     | *bit*      | [bɪt] |
 | *bitten*  | *bitten*   | [ˈbɪtən] |
 |           |            | |
 | *break*   | *brek*     | [breɪ̯k] |
@@ -1175,12 +1202,30 @@ The stem vowel of strong verbs changes. The past participle of strong verbs ends
 | *sworn*   | *sworen*   | [swɔə̯n] |
 |           |            | |
 | *tear*    | *tẽr*      | [tɛə̯] |
-| *tore*    | *tore*     | [tɔə̯] | <!-- actually tære -->
+| *tore*    | *tore*     | [tɔə̯] |
 | *torn*    | *toren*    | [tɔə̯n] |
 |           |            | |
 | *wear*    | *wẽr*      | [wɛə̯] |
-| *wore*    | *wore*     | [wɔə̯] | <!-- actually wære -->
+| *wore*    | *wore*     | [wɔə̯] |
 | *worn*    | *woren*    | [wɔə̯n] |
+|           |            | |
+
+| | | |
+|-|-|-|
+| *bind*    | *binde*    | [baɪ̯nd] | <!-- originally bind band bunden -->
+| *bound*   | *bũnd*     | [bɑʊ̯nd] |
+|           |            | |
+| *cling*   | *cling*    | [klɪŋ] | <!-- originally cling clang clungen -->
+| *clung*   | *clûng*    | [klʌŋ] |
+|           |            | |
+| *dig*     | *dig*      | [dɪg] |
+| *dug*     | *dûg*      | [dʌg] |
+|           |            | |
+| *find*    | *finde*    | [faɪ̯nd] | <!-- originally find fand funden -->
+| *found*   | *fũnd*     | [fɑʊ̯nd] |
+|           |            | |
+| *hold*    | *hålde*    | [hoʊ̯ld] | <!-- originally hald hold halden -->
+| *held*    | *hæld*     | [held] |
 |           |            | |
 
 #### Past Participle = Present
@@ -1244,76 +1289,6 @@ The stem vowel of strong verbs changes. The past participle of strong verbs ends
 | *written* | *written*  | [ˈrɪtən] |
 |           |            | |
 
-### -
-
-| | | |
-|-|-|-|
-| *begin*   | *bigin*    | [bɪˈgɪn] |
-| *began*   | *bigan*    | [bɪˈgæn] |
-| *begun*   | *bigûn*    | [bɪˈgʌn] |
-|           |            | |
-| *sing*    | *sing*     | [sɪŋ] |
-| *sang*    | *sang*     | [sæŋ] |
-| *sung*    | *sûng*     | [sʌŋ] |
-|           |            | |
-| *sink*    | *sink*     | [sɪŋk] |
-| *sank*    | *sank*     | [sæŋk] |
-| *sunk*    | *sûnk*     | [sʌŋk] |
-|           |            | |
-
-<!-- nd, ld -->
-<!-- no -en -->
-
-| | | |
-|-|-|-|
-| *bind*    | *binde*    | [baɪ̯nd] |
-| *bound*   | *bũnd*     | [bɑʊ̯nd] |
-|           |            | |
-| *find*    | *finde*    | [faɪ̯nd] |
-| *found*   | *fũnd*     | [fɑʊ̯nd] |
-|           |            | |
-| *hold*    | *hålde*    | [hoʊ̯ld] |
-| *held*    | *hæld*     | [held] |
-|           |            | |
-
-
-### Irregular Verbs
-
-
-<!-- to be -->
-
-| | | |
-|-|-|-|
-| *beat*    | *bø̄t*     | [bi:t] |
-| *beat*    | *bø̄t*     | [bi:t] |
-| *beaten*  | *bø̄ten*   | [ˈbi:tən] |
-|           |            | |
-| *become*  | *bicûm*    | [kʌm] |
-| *became*  | *bicame*   | [keɪ̯m] |
-| *become*  | *bicûm*    | [kʌm] |
-|           |            | |
-| *come*    | *cûm*      | [kʌm] |
-| *came*    | *came*     | [keɪ̯m] |
-| *come*    | *cûm*      | [kʌm] |
-|           |            | |
-| *go*      | *gæ̃*      | [goʊ̯] |
-| *went*    | *went*     | [went] |
-| *gone*    | *gån*      | [gɒn] |
-|           |            | |
-| *have*    | *hăve*     | [hæv] |
-| *had*     | *had*      | [hæd] |
-|           |            | |
-| *make*    | *make*     | [meɪ̯k] |
-| *made*    | *made*     | [meɪ̯d] | <!-- actually mãd -->
-|           |            | |
-| *say*     | *segh*     | [seɪ̯] | <!-- sĕghs sais -->
-| *said*    | *sĕghed*   | [sed] |
-|           |            | |
-| *sow*     | *sæw*      | [soʊ̯] | <!-- actually sæw, silent w -->
-| *sowed*   | *sæwed*    | [soʊ̯d] |
-| *sowen*   | *sæwen*    | [soʊ̯n] |
-|           |            | |
-
 ### Weak/Strong Verbs
 
 #### -gh-
@@ -1349,13 +1324,49 @@ The stem vowel of strong verbs changes. The past participle of strong verbs ends
 | | | |
 |-|-|-|
 | *can*     | *can*      | [kæn] | <!-- actually cȗn -->
-| *could*   | *cułd*     | [kʊd] | <!-- actually cun̆d -->
+| *could*   | *cǔłd*     | [kʊd] | <!-- actually cun̆d -->
 |           |            | |
 | *shall*   | *shall*    | [ʃæl] | <!-- actually shȗll -->
-| *should*  | *shułd*    | [ʃʊd] |
+| *should*  | *shǔłd*    | [ʃʊd] |
 |           |            | |
 | *will*    | *will*     | [wɪl] |
-| *would*   | *wułd*     | [wʊd] | <!-- actually wǒłd -->
+| *would*   | *wǔłd*     | [wʊd] | <!-- actually wǒłd -->
+|           |            | |
+
+### Irregular Verbs
+
+<!-- to be -->
+
+| | | |
+|-|-|-|
+| *beat*    | *bø̄t*     | [bi:t] |
+| *beat*    | *bø̄t*     | [bi:t] |
+| *beaten*  | *bø̄ten*   | [ˈbi:tən] |
+|           |            | |
+| *become*  | *bicûm*    | [kʌm] |
+| *became*  | *bicame*   | [keɪ̯m] |
+| *become*  | *bicûm*    | [kʌm] |
+|           |            | |
+| *come*    | *cûm*      | [kʌm] |
+| *came*    | *came*     | [keɪ̯m] |
+| *come*    | *cûm*      | [kʌm] |
+|           |            | |
+| *go*      | *gæ̃*      | [goʊ̯] |
+| *went*    | *went*     | [went] |
+| *gone*    | *gån*      | [gɒn] |
+|           |            | |
+| *have*    | *hăve*     | [hæv] |
+| *had*     | *had*      | [hæd] |
+|           |            | |
+| *make*    | *make*     | [meɪ̯k] |
+| *made*    | *made*     | [meɪ̯d] | <!-- actually mãd -->
+|           |            | |
+| *say*     | *segh*     | [seɪ̯] | <!-- sĕghs sais -->
+| *said*    | *sĕghed*   | [sed] |
+|           |            | |
+| *sow*     | *sæw*      | [soʊ̯] | <!-- actually sæw, silent w -->
+| *sowed*   | *sæwed*    | [soʊ̯d] |
+| *sowen*   | *sæwen*    | [soʊ̯n] |
 |           |            | |
 
 ## American
@@ -1383,5 +1394,3 @@ bē = be
 sõ = so
 Ũ (ugh/...) = U
  -->
-
-<!-- cût, put → cut, pǔt -->
