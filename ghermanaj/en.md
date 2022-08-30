@@ -50,9 +50,9 @@ Short vowels before *r* are pronounced [ɜ:], unless the *r* is followed by anot
 |-|-|-|
 | *berry* | *berry* | [ˈberɪ] |
 | *carry* | *carry* | [ˈkærɪ] |
-| *hurry* | *hûrry* | [ˈhʌrɪ] |
+| *hurry* | *hurry* | [ˈhʌrɪ] |
 | *sorry* | *sorry* | [ˈsɒrɪ] |
-| *worry* | *wûrry* | [ˈwʌrɪ] | <!-- actually wûrġh -->
+| *worry* | *wurry* | [ˈwʌrɪ] | <!-- actually wurġh -->
 
 #### Short a
 
@@ -198,14 +198,14 @@ Short *o* and *u* are often pronounced [ʌ] instead of [ʊ].
 | | |
 |-|-|
 | *sôn* | [sʌn] |
-| *sûn* | [sʌn] |
+| *sun* | [sʌn] |
 
 | | |
 |-|-|
 | *blood*   | *blôd*    | [blʌd] |
 | *brother* | *brôther* | [ˈbrʌðə] |
 | *mother*  | *môther*  | [ˈmʌðə] |
-| *young*   | *yûng*    | [jʌŋ]  |
+| *young*   | *yung*    | [jʌŋ]  |
 
 When a short *u* [ʊ] comes from a short *i*, this is not reflected in the spelling.
 
@@ -241,11 +241,11 @@ The silent *e* at the end of a word turns the short vowels *ă* [æ], *ĕ* [e], 
 | *groove* | *grōve*  | [gru:v] |
 | *move*   | *mōve*   | [mu:v] |
 | | | |
-| *dove*   | *dûve*   | [dʌv] |
+| *dove*   | *duve*   | [dʌv] |
 | *glove*  | *gĕlôve* | [glʌv] |
 | *live*   | *lĭve*   | [lɪv] |
-| *love*   | *lûve*   | [lʌv] |
-| *shove*  | *shûve*  | [ʃʌv] |
+| *love*   | *luve*   | [lʌv] |
+| *shove*  | *shuve*  | [ʃʌv] |
 | *wolves* | *wǔlves* | [wʊlvz] |
 
 #### Lengthened a
@@ -762,7 +762,7 @@ Germanic *gh* is sometimes equivalent to *w* and written as *ugh*. *aught* and *
 | | | |
 | *trek*    | *treck*   | [trek] |
 | | | |
-| *club*    | *clûb*    | [klʌb] |
+| *club*    | *club*    | [klʌb] |
 | *creek*   | *cryk*    | [kri:k] |
 | | | |
 | *cheek*   | *chøk*    | [tʃi:k] |
@@ -784,7 +784,7 @@ Germanic *gh* is sometimes equivalent to *w* and written as *ugh*. *aught* and *
 |-|-|-|
 | *egg* | *eı* | [eg] |
 
-After *ȃ* [a], *ô* [ʌ] and *û* [ʌ] Germanic *gh* is pronounced [f].
+After *ȃ* [a], *ô* [ʌ] and *u* [ʌ] Germanic *gh* is pronounced [f].
 
 | | | |
 |-|-|-|
@@ -793,7 +793,7 @@ After *ȃ* [a], *ô* [ʌ] and *û* [ʌ] Germanic *gh* is pronounced [f].
 | | | |
 | *cough*  | *côgh*   | [rʌf] |
 | *enough* | *ğenôgh* | [ɪˈnʌf] |
-| *rough*  | *rûgh*   | [rʌf] |
+| *rough*  | *rugh*   | [rʌf] |
 
 Germanic *ghs* is pronounced [ks] and doesn't contain a silent *gh*.
 
@@ -1148,15 +1148,15 @@ The stem vowel of strong verbs changes. The past participle of strong verbs ends
 |-|-|-|
 | *begin*   | *bigin*    | [bɪˈgɪn] | <!-- originally -gin -gan -gunnen -->
 | *began*   | *bigan*    | [bɪˈgæn] |
-| *begun*   | *bigûn*    | [bɪˈgʌn] |
+| *begun*   | *bigun*    | [bɪˈgʌn] |
 |           |            | |
 | *sing*    | *sing*     | [sɪŋ] | <!-- originally sing sang sungen -->
 | *sang*    | *sang*     | [sæŋ] |
-| *sung*    | *sûng*     | [sʌŋ] |
+| *sung*    | *sung*     | [sʌŋ] |
 |           |            | |
 | *sink*    | *sink*     | [sɪŋk] | <!-- originally sink sank sunken -->
 | *sank*    | *sank*     | [sæŋk] |
-| *sunk*    | *sûnk*     | [sʌŋk] |
+| *sunk*    | *sunk*     | [sʌŋk] |
 |           |            | |
 
 #### Past Participle = Past
@@ -1216,10 +1216,10 @@ In some verbs, the vowel of the past has merged to the vowel of the past partici
 | *bound*   | *bũnd*     | [bɑʊ̯nd] |
 |           |            | |
 | *cling*   | *cling*    | [klɪŋ] | <!-- originally cling clang clungen -->
-| *clung*   | *clûng*    | [klʌŋ] |
+| *clung*   | *clung*    | [klʌŋ] |
 |           |            | |
 | *dig*     | *dig*      | [dɪg] |
-| *dug*     | *dûg*      | [dʌg] |
+| *dug*     | *dug*      | [dʌg] |
 |           |            | |
 | *find*    | *finde*    | [faɪ̯nd] | <!-- originally find fand funden -->
 | *found*   | *fũnd*     | [fɑʊ̯nd] |
@@ -1343,13 +1343,13 @@ In some verbs, the vowel of the past has merged to the vowel of the past partici
 | *beat*    | *bø̄t*     | [bi:t] |
 | *beaten*  | *bø̄ten*   | [ˈbi:tən] |
 |           |            | |
-| *become*  | *bicûm*    | [kʌm] |
+| *become*  | *bicum*    | [kʌm] |
 | *became*  | *bicame*   | [keɪ̯m] |
-| *become*  | *bicûm*    | [kʌm] |
+| *become*  | *bicum*    | [kʌm] |
 |           |            | |
-| *come*    | *cûm*      | [kʌm] |
+| *come*    | *cum*      | [kʌm] |
 | *came*    | *came*     | [keɪ̯m] |
-| *come*    | *cûm*      | [kʌm] |
+| *come*    | *cum*      | [kʌm] |
 |           |            | |
 | *go*      | *gæ̃*      | [goʊ̯] |
 | *went*    | *went*     | [went] |
@@ -1377,11 +1377,11 @@ In American English, short *a* [æ] before *r* plus vowel is pronounced like dip
 |-|-|-|
 | *carry* | [ˈkærɪ] | [ˈkæri] → [ˈkeri] |
 
-In American English, *ô* and *û* [ʌ] before *r* plus vowel are pronounced like short vowel before *r* [ɜ:].
+In American English, *ô* and *u* [ʌ] before *r* plus vowel are pronounced like short vowel before *r* [ɜ:].
 
 | | | AE |
 |-|-|-|
-| *hûrry* | [ˈhʌrɪ] | [ˈhʌri] → [ˈhɜ:ri] |
+| *hurry* | [ˈhʌrɪ] | [ˈhʌri] → [ˈhɜ:ri] |
 
 <!-- frolic -->
 
