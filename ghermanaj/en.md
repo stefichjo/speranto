@@ -281,7 +281,6 @@ Many diphthong *a* [eɪ̯] come from *agh* or *egh* and are spelt *ai* or *eigh*
 | *freight* | *fraght*    | [freɪ̯t] |
 | *friday*  | *frighdagh* | [ˈfraɪ̯deɪ̯] |
 | *main*    | *maghen*    | [meɪ̯n] |
-| *may*     | *magh*      | [meɪ̯] |
 | *nail*    | *naghel*    | [neɪ̯l] |
 | | | |
 | *brain*   | *breghen*   | [breɪ̯n] |
@@ -350,7 +349,6 @@ In many cases, a long *e* [i:] comes from a Germanic *au*, *o*, as well as *ai*,
 | *bleak*   | *blæk*    | [bli:k] |
 | *breathe* | *brǣth*   | [bri:θ] ]
 | *heal*    | *hæl*     | [hi:l] |
-| *mean*    | *mǣn*     | [mi:n] |
 | *seat*    | *sǣt*     | [si:t] |
 | *sheep*   | *shǣp*    | [ʃi:p] |
 | *speech*  | *spǣch*   | [spi:tʃ] |
@@ -466,12 +464,11 @@ Many diphthong *i* [aɪ̯] come from *igh*.
 | *I*      | *igh*    | [aɪ̯] |
 | *nigh*   | *nėgh*   | [naɪ̯] |
 | *lie*    | *lygh*   | [laɪ̯] |
+| *lye*    | *løgh*   | [laɪ̯] |
 | *thigh*  | *thygh*  | [θaɪ̯] |
 | | |
 | *flight* | *flyght* | [flaɪ̯t] |
 | *fright* | *fryght* | [fraɪ̯t] |
-| *light*  | *lyght*  | [laɪ̯t] |
-| *might*  | *møght*  | [maɪ̯t] |
 | *rye*    | *rygh*   | [raɪ̯] |
 
 Long *ir* is pronounced [ɪə̯], whereas diphthong *ir* is pronounced [aɪ̯ə̯].
@@ -1021,11 +1018,17 @@ The following verbs are irregular, because their stem vowel is shortened (typica
 | *kneel*   | *knyl*     | [ni:l] |
 | *knelt*   | *knÿlt*    | [nelt] |
 |           |            | |
-| *lean*    | *lene*     | [li:n] | <!-- actually līn -->
+| *lean*    | *lene*     | [li:n] | <!-- actually līn --><!-- also leaned -->
 | *leant*   | *lent*     | [lent] | <!-- actually lïnt -->
 |           |            | |
 | *leap*    | *lø̄p*     | [li:p] |
 | *leapt*   | *løpt*     | [lept] |
+|           |            | |
+| *light*   | *lyght*    | [laɪ̯t] |
+| *lit*     | *lўght*    | [lɪt] |
+|           |            | |
+| *mean*    | *mǣn*      | [mi:n] |
+| *meant*   | *mænt*     | [ment] |
 |           |            | |
 | *sweep*   | *swǣp*     | [swi:p] |
 | *swept*   | *swæpt*    | [swept] |
@@ -1361,6 +1364,9 @@ dawn = daǧhen (daǧhung)
 | *can*     | *can*      | [kæn] | <!-- actually cȗn -->
 | *could*   | *cǔłd*     | [kʊd] | <!-- actually cun̆d -->
 |           |            | |
+| *may*     | *magh*     | [meɪ̯] |
+| *might*   | *møght*    | [maɪ̯t] |
+|           |            | |
 | *shall*   | *shall*    | [ʃæl] | <!-- actually shȗll -->
 | *should*  | *shǔłd*    | [ʃʊd] |
 |           |            | |
@@ -1433,3 +1439,4 @@ bē = be
 sõ = so
 Ũ (ugh/...) = U
  -->
+
