@@ -24,10 +24,6 @@ After more than one consonant, a vowel is short.
 | *lock* | [lɒk] |
 | *pǔsh* | [pʊʃ] |
 
-<!-- Is that a "pu" thing that "pu" is pronounced [pʊ] and not [pʌ]? -->
-<!-- pull put push puss -->
-<!-- puck pun -->
-
 Double consonants except *ff*, *ll*, *ss*, *zz* are written only once at the end of a word. (Cf. *man* and *manned*, *web* and *webbed*, *rim* and *rimmed*, *log* and *logged*, *put* and *putting*.)
 
 | | |
@@ -354,6 +350,7 @@ In many cases, a long *e* [i:] comes from a Germanic *au*, *o*, as well as *ai*,
 | *speech*  | *spǣch*   | [spi:tʃ] |
 | *steal*   | *stæl*    | [sti:l] |
 | *street*  | *strǣt*   | [stri:t] |
+| *weak*    | *wæk*     | [wi:k] |
 | | | |
 | *bean*    | *bø̄n*    | [bi:n] |
 | *believe* | *belø̄ve* | [bɪˈli:v] |
@@ -403,13 +400,13 @@ Long *i* [i:] is spelt like long *e*.
 
 | | | |
 |-|-|-|
-| *beetle*  | *bitel*   | [ˈbi:tl̩] |
-| *free*    | *frī*     | [fri:] |
-| *me*      | *mī*      | [mi:] |
+| *beetle*  | *betel*   | [ˈbi:tl̩] | <!-- actually bitel -->
+| *free*    | *frē*     | [fri:] | <!-- actually frī -->
+| *me*      | *mē*      | [mi:] | <!-- actually mī -->
 | *tree*    | *trȳ*     | [tri:] |
-| *week*    | *wik*     | [wi:k] |
+| *week*    | *wek*     | [wi:k] | <!-- actually wik -->
 | | | |
-| *sieve*   | *sīve*    | [si:v] |
+| *sieve*   | *seve*    | [si:v] | <!-- actually sīve -->
 
 In some loan words, long -i [:i] is spelt with silent *e*.
 
@@ -475,7 +472,7 @@ Long *ir* is pronounced [ɪə̯], whereas diphthong *ir* is pronounced [aɪ̯ə�
 
 | | | |
 |-|-|-|
-| *here*  | *hīr*  | [hɪə̯] |
+| *here*  | *here*  | [hɪə̯] | <!-- actually hīr -->
 | | | |
 | *fire*  | *fyre* | [faɪ̯ə̯] |
 | *hire*  | *hyre* | [haɪ̯ə̯] |
@@ -504,7 +501,6 @@ Some diphthong *o* [oʊ̯] is spelled *oa*.
 |-|-|-|
 | *coal*  | *cole*  | [koʊ̯l] |
 | *coast* | *coste* | [koʊ̯st] |
-| *float* | *flote* | [floʊ̯t] |
 
 In many cases, a diphthong *o* [oʊ̯] comes from a Germanic *ai*, *ou* or *u*.
 
@@ -843,22 +839,27 @@ Germanic *ghs* is pronounced [ks] and doesn't contain a silent *gh*.
 
 #### on-
 
+The unstressed prefix *on-* becomes *a-*. <!-- actually ån̆- -->
+
 | | | |
 |-|-|-|
-| *aback*   | *ån̆back*   | [əˈbæk] |
-| *above*   | *ån̆buve*   | [əˈbʌv] |
-| *afore*   | *ån̆fore*   | [əˈfɔə̯] |
-| *afresh*  | *ån̆fresh*  | [əˈfreʃ] | <!-- actually ån̆frïsh -->
-| *again*   | *ån̆gen*    | [əˈgen] | <!-- also: *on̆geghen* [əˈgeɪ̯n] -->
-| *alike*   | *ån̆like*   | [əˈlaɪ̯k] |
-| *alive*   | *ån̆live*   | [əˈlaɪ̯v] |
-| *aloud*   | *ån̆lŭd*    | [əˈlɑʊ̯d] |
-| *amid*    | *ån̆mid*    | [əˈmɪd] |
-| *among*   | *ån̆mâng*   | [əˈmʌŋ] | <!-- â → u ? -->
-| *anew*    | *ån̆nỹ*     | [əˈnju:] |
-| *aside*   | *ån̆side*   | [əˈsaɪ̯d] |
-| *away*    | *ån̆wegh*   | [əˈweɪ̯] |
-| *awhirl*  | *ån̆whirl*  | [əˈhwɜ:l] |
+| *aback*   | *aback*   | [əˈbæk] |
+| *aboard*  | *abord*   | [əˈbɔ:d] |
+| *above*   | *abuve*   | [əˈbʌv] |
+| *afloat*  | *aflote*  | [əˈfloʊ̯t] |
+| *afore*   | *afore*   | [əˈfɔə̯] |
+| *afresh*  | *afresh*  | [əˈfreʃ] | <!-- actually ån̆frïsh -->
+| *again*   | *agen*    | [əˈgen] | <!-- also: *on̆geghen* [əˈgeɪ̯n] -->
+| *alike*   | *alike*   | [əˈlaɪ̯k] |
+| *alive*   | *alive*   | [əˈlaɪ̯v] |
+| *aloud*   | *alŭd*    | [əˈlɑʊ̯d] |
+| *amid*    | *amid*    | [əˈmɪd] |
+| *among*   | *amâng*   | [əˈmʌŋ] | <!-- â → u ? -->
+| *anew*    | *anỹ*     | [əˈnju:] |
+| *ashore*  | *ashore*  | [əˈʃɔə̯] |
+| *aside*   | *aside*   | [əˈsaɪ̯d] |
+| *away*    | *awegh*   | [əˈweɪ̯] |
+| *awhirl*  | *awhirl*  | [əˈhwɜ:l] |
 
 ### be
 
@@ -872,9 +873,9 @@ Germanic *ghs* is pronounced [ks] and doesn't contain a silent *gh*.
 | | | |
 |-|-|-|
 | *are*  | *ar*   | [ɑə̯] |
-| *be*   | *bī*   | [bi:] |
-| *been* | *bīen* | [bi:n] |
-| *was*  | *was*  | [wɒz] | <!-- not "wass" -->
+| *be*   | *bē*   | [bi:] | <!-- actually bī -->
+| *been* | *bēen* | [bi:n] | <!-- actually bīen -->
+| *was*  | *was*  | [wɒz] | <!-- actually "wass" -->
 | *were* | *wær*  | [wɜ:] |
 
 ### all-
@@ -920,9 +921,9 @@ Unrelated:
 |-|-|-|
 | *what*   | *what*   | [hwɒt] |
 | *that*   | *that*   | [ðæt] |
-| *this*   | *this*   | [ðɪs] | <!-- not "thiss" -->
+| *this*   | *this*   | [ðɪs] | <!-- actually thiss -->
 | *those*  | *thæse*  | [ðoʊz] | <!-- actually thåse -->
-| *these*  | *thǣs*   | [ði:z] |
+| *these*  | *thæs*   | [ði:z] |
 | | | |
 | *who*    | *whō*    | [hu:] | <!-- actually w̌hō -->
 | *whom*   | *whōm*   | [hu:m] | <!-- actually w̌hōm -->
@@ -930,7 +931,7 @@ Unrelated:
 | | | |
 | *where*  | *whare*  | [hwɛə̯] |
 | *there*  | *thare*  | [ðɛə̯] | <!-- actually thẽr -->
-| *here*   | *hīr*    | [hɪə̯] |
+| *here*   | *here*   | [hɪə̯] | <!-- actually hīr -->
 | | | |
 | *when*   | *whæn*   | [hwen] |
 | *then*   | *thæn*   | [ðen] |
@@ -1018,7 +1019,7 @@ The following verbs are irregular, because their stem vowel is shortened (typica
 | *kneel*   | *knyl*     | [ni:l] |
 | *knelt*   | *knÿlt*    | [nelt] |
 |           |            | |
-| *lean*    | *lene*     | [li:n] | <!-- actually līn --><!-- also leaned -->
+| *lean*    | *lēn*      | [li:n] | <!-- actually līn --><!-- also leaned -->
 | *leant*   | *lent*     | [lent] | <!-- actually lïnt -->
 |           |            | |
 | *leap*    | *lø̄p*     | [li:p] |
@@ -1113,7 +1114,7 @@ If the stem ends in *-d*, it doesn't become voicess *-t*, ...
 | *lead*    | *lǣd*      | [li:d] |
 | *led*     | *læd*      | [led] |
 |           |            | |
-| *read*    | *rede*     | [ri:d] |
+| *read*    | *rēd*      | [ri:d] | <!-- actually rede -->
 | *read*    | *red*      | [red] |
 |           |            | |
 
@@ -1384,11 +1385,7 @@ dawn = daǧhen (daǧhung)
 | *beat*    | *bø̄t*     | [bi:t] |
 | *beaten*  | *bø̄ten*   | [ˈbi:tən] |
 |           |            | |
-| *become*  | *bicum*    | [kʌm] |
-| *became*  | *bicame*   | [keɪ̯m] |
-| *become*  | *bicum*    | [kʌm] |
-|           |            | |
-| *come*    | *cum*      | [kʌm] |
+| *come*    | *cum*      | [kʌm] | <!-- also be- -->
 | *came*    | *came*     | [keɪ̯m] |
 | *come*    | *cum*      | [kʌm] |
 |           |            | |
@@ -1440,3 +1437,5 @@ sõ = so
 Ũ (ugh/...) = U
  -->
 
+<!-- sĕven -->
+<!-- lĕvel -->
