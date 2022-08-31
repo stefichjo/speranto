@@ -19,7 +19,7 @@ After more than one consonant, a vowel is short.
 | | |
 |-|-|
 | *mass* | [mæs] |
-| *tell* | [tel] |
+| *well* | [wel] |
 | *wind* | [wɪnd] |
 | *lock* | [lɒk] |
 | *pǔsh* | [pʊʃ] |
@@ -1062,6 +1062,9 @@ If the stem vowel is already short, it doesn't change further.
 | *spell*   | *spell*    | [spel] |
 | *spelt*   | *spelt*    | [spelt] | <!-- also spelled -->
 |           |            | |
+| *spill*   | *spill*    | [spɪl] |
+| *spilt*   | *spilt*    | [spɪlt] | <!-- also spilled -->
+|           |            | |
 
 If the stem ends in *-t*, no additional *t* is written.
 
@@ -1089,13 +1092,15 @@ If the stem ends in *-t* and the stem vowel is short, the form of the verb doesn
 |            | |
 | *fit*      | [fɪt] |
 |            | |
-| *hurt*     | [hɜ:t] |
+| *hurt*     | [hɜ:t] |7
 |            | |
 | *let*      | [let] |
 |            | |
 | *pǔt*      | [pʊt] |
 |            | |
 | *set*      | [set] |
+|            | |
+| *spræd*    | [spred] |
 |            | |
 
 If the stem ends in *-d*, it doesn't become voicess *-t*, ...
@@ -1180,10 +1185,6 @@ In some verbs, the vowel of the past has merged to the vowel of the past partici
 
 | | | |
 |-|-|-|
-| *awake*   | *ån̆wake*  | [əˈraɪ̯z] |
-| *awoke*   | *ån̆woke*  | [əˈroʊ̯z] |
-| *awoken*  | *ån̆woken* | [əˈrɪzən] |
-|           |            | |
 | *bear*    | *bẽr*      | [bɛə̯] | <!-- un-actually bare -->
 | *bore*    | *bore*     | [bɔə̯] |
 | *born*    | *boren*    | [bɔə̯n] |
@@ -1228,6 +1229,10 @@ In some verbs, the vowel of the past has merged to the vowel of the past partici
 | *tore*    | *tore*     | [tɔə̯] |
 | *torn*    | *toren*    | [tɔə̯n] |
 |           |            | |
+| *wake*    | *wake*     | [raɪ̯z] | <!-- also a- -->
+| *woke*    | *woke*     | [roʊ̯z] |
+| *woken*   | *woken*    | [ˈrɪzən] |
+|           |            | |
 | *wear*    | *wẽr*      | [wɛə̯] |
 | *wore*    | *wore*     | [wɔə̯] |
 | *worn*    | *woren*    | [wɔə̯n] |
@@ -1255,6 +1260,9 @@ In some verbs, the vowel of the past has merged to the vowel of the past partici
 |           |            | |
 | *hold*    | *hålde*    | [hoʊ̯ld] | <!-- originally hald hold halden -->
 | *held*    | *hæld*     | [held] |
+|           |            | |
+| *spit*    | *spit*     | [spɪt] |
+| *spat*    | *spat*     | [spæt] |
 |           |            | |
 
 #### Past Participle = Present
@@ -1303,10 +1311,6 @@ dawn = daǧhen (daǧhung)
 | *knew*    | *knū*      | [nju:] |
 | *known*   | *knõen*    | [noʊ̯n] |
 |           |            | |
-| *see*     | *sēgh*     | [si:] |
-| *saw*     | *saǧh*     | [sɔ:] |
-| *seen*    | *sēghen*   | [si:n] |
-|           |            | |
 | *shake*   | *shake*    | [ʃeɪ̯k] |
 | *shook*   | *shǒk*     | [ʃʊk] |
 | *shaken*  | *shaken*   | [ˈʃeɪ̯kən] | <!-- -en = syllabic n? ən? -->
@@ -1326,6 +1330,13 @@ dawn = daǧhen (daǧhung)
 | *write*   | *write*    | [raɪ̯t] |
 | *wrote*   | *wråte*    | [roʊt] |
 | *written* | *written*  | [ˈrɪtən] |
+|           |            | |
+
+| | | |
+|-|-|-|
+| *come*    | *cum*      | [kʌm] | <!-- also bē- -->
+| *came*    | *came*     | [keɪ̯m] |
+| *come*    | *cum*      | [kʌm] |
 |           |            | |
 
 ### Weak/Strong Verbs
@@ -1357,6 +1368,23 @@ dawn = daǧhen (daǧhung)
 | *thought* | *thaǧht*   | [θɔ:t] | <!-- actually thoǧht -->
 |           |            | |
 
+#### -ed/-en
+
+| | | |
+|-|-|-|
+| *beat*    | *bø̄t*     | [bi:t] |
+| *beat*    | *bø̄t*     | [bi:t] | <!-- OK? -->
+| *beaten*  | *bø̄ten*   | [ˈbi:tən] |
+|           |            | |
+| *mow*     | *mõ*       | [moʊ̯] |
+| *mowed*   | *mõed*     | [moʊ̯d] |
+| *mown*    | *mõen*     | [moʊ̯n] | <!-- also mõed -->
+|           |            | |
+| *sow*     | *sõ*       | [soʊ̯] |
+| *sowed*   | *sõed*     | [soʊ̯d] |
+| *sowen*   | *sõen*     | [soʊ̯n] |
+|           |            | |
+
 #### Auxiliary/Modal Verbs
 <!-- Vowel change -->
 
@@ -1381,14 +1409,6 @@ dawn = daǧhen (daǧhung)
 
 | | | |
 |-|-|-|
-| *beat*    | *bø̄t*     | [bi:t] |
-| *beat*    | *bø̄t*     | [bi:t] |
-| *beaten*  | *bø̄ten*   | [ˈbi:tən] |
-|           |            | |
-| *come*    | *cum*      | [kʌm] | <!-- also be- -->
-| *came*    | *came*     | [keɪ̯m] |
-| *come*    | *cum*      | [kʌm] |
-|           |            | |
 | *do*      | *dō*       | [du:] | <!-- does [dʌz] dôs -->
 | *did*     | *dyd*      | [dɪd] |
 | *done*    | *dôn*      | [dʌn] | <!-- un-actually dun -->
@@ -1406,9 +1426,12 @@ dawn = daǧhen (daǧhung)
 | *say*     | *segh*     | [seɪ̯] | <!-- sĕghs sais -->
 | *said*    | *sĕghed*   | [sed] |
 |           |            | |
-| *sow*     | *sæw*      | [soʊ̯] | <!-- actually sæw, silent w -->
-| *sowed*   | *sæwed*    | [soʊ̯d] |
-| *sowen*   | *sæwen*    | [soʊ̯n] |
+| *see*     | *sēgh*     | [si:] |
+| *saw*     | *saǧh*     | [sɔ:] |
+| *seen*    | *sēghen*   | [si:n] |
+|           |            | |
+| *stand*   | *stand*    | [stænd] |
+| *stood*   | *stǒd*     | [stʊd] |
 |           |            | |
 
 ## American
@@ -1439,3 +1462,16 @@ sõ = so
 
 <!-- sĕven -->
 <!-- lĕvel -->
+
+<!-- 
+stick stuck stuck
+sting stung stung
+stink stank stunk
+strike struck struck
+swell swelled swollen/swelled
+swim swam swum
+tell told told
+win won won
+wind wound wound
+write wrote written
+ -->
