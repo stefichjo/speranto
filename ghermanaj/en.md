@@ -944,7 +944,7 @@ Unrelated:
 | *so*     | *sõ*     | [soʊ̯] |
 | *as*     | *ałs*    | [æz] |
 | | | |
-| *which*  | *whȯłch* | [hwɪtʃ] |
+| *which*  | *whiłch* | [hwɪtʃ] | <!-- actually whȯłch -->
 | *such*   | *sôłch*  | [sʌtʃ] | <!-- un-actually sułch -->
 
 ##### Pronouns
@@ -1070,6 +1070,8 @@ If the stem ends in *-t* and the stem vowel is short, the form of the verb doesn
 |-|-|
 | *bet*      | [bet] |
 |            | |
+| *bid*      | [bɪd] | <!-- also bid bade bidden -->
+|            | |
 | *burst*    | [bɜ:st] |
 |            | |
 | *cȃst*     | [kast] |
@@ -1142,13 +1144,17 @@ The stem vowel of strong verbs changes. The past participle of strong verbs ends
 | *lain*    | *leghen*   | [leɪ̯n] |
 |           |            | |
 
-... except when it doesn't.
+... except when it doesn't. <!-- -n? -->
 
 | | | |
 |-|-|-|
 | *begin*   | *bigin*    | [bɪˈgɪn] | <!-- originally -gin -gan -gunnen -->
 | *began*   | *bigan*    | [bɪˈgæn] |
 | *begun*   | *bigun*    | [bɪˈgʌn] |
+|           |            | |
+| *drink*   | *drink*    | [drɪŋk] | <!-- originally drink drank drunken -->
+| *drank*   | *drank*    | [dræŋk] |
+| *drunk*   | *drunk*    | [drʌŋk] |
 |           |            | |
 | *sing*    | *sing*     | [sɪŋ] | <!-- originally sing sang sungen -->
 | *sang*    | *sang*     | [sæŋ] |
@@ -1183,7 +1189,15 @@ In some verbs, the vowel of the past has merged to the vowel of the past partici
 |           |            | |
 | *choose*  | *chos*     | [tʃu:z] |
 | *chose*   | *chose*    | [tʃoʊ̯z] |
-| *chosen*  | *chosen*   | [tʃoʊ̯z] |
+| *chosen*  | *chosen*   | [ˈtʃoʊ̯zən] |
+|           |            | |
+| *freeze*  | *frys*     | [fri:s] |
+| *froze*   | *frose*    | [froʊ̯z] |
+| *frozen*  | *frosen*   | [froʊ̯zən] |
+|           |            | |
+| *get*     | *get*      | [get] | <!-- also beget, forget -->
+| *got*     | *got*      | [gɒt] |
+| *gotten*  | *gotten*   | [ˈgɒtən] | <!-- also got -->
 |           |            | |
 | *hide*    | *hyde*     | [haɪ̯d] |
 | *hid*     | *hyd*      | [hɪd] |
@@ -1229,16 +1243,26 @@ In some verbs, the vowel of the past has merged to the vowel of the past partici
 |           |            | |
 
 #### Past Participle = Present
-
+<!-- 
+dawn = daǧhen (daǧhung)
+ -->
 | | | |
 |-|-|-|
 | *arise*   | *ån̆rise*  | [əˈraɪ̯z] |
 | *arose*   | *ån̆rose*  | [əˈroʊ̯z] | <!-- actually ån̆ri̊se -->
 | *arisen*  | *ån̆rĭsen* | [əˈrɪzən] |
 |           |            | |
+| *bid*     | *bid*      | [fɔ:l] | <!-- also bid bid bid --><!-- also forbid -->
+| *bade*    | *bade*     | [fel] |
+| *bidden*  | *bidden*   | [ˈfɔ:lən] |
+|           |            | |
 | *blow*    | *blõ*      | [bloʊ̯] |
 | *blew*    | *blū*      | [blu:] |
 | *blown*   | *blõen*    | [bloʊ̯n] |
+|           |            | |
+| *draw*    | *draǧh*    | [drɔ:] |
+| *drew*    | *drøǧh*    | [dru:] |
+| *drawn*   | *draǧhen*  | [drɔ:n] |
 |           |            | |
 | *drive*   | *drive*    | [draɪ̯v] |
 | *drove*   | *drove*    | [droʊ̯v] |
@@ -1252,7 +1276,7 @@ In some verbs, the vowel of the past has merged to the vowel of the past partici
 | *fell*    | *fell*     | [fel] |
 | *fallen*  | *fallen*   | [ˈfɔ:lən] |
 |           |            | |
-| *give*    | *gĭve*     | [gɪv] |
+| *give*    | *gĭve*     | [gɪv] | <!-- also forgive -->
 | *gave*    | *gave*     | [geɪ̯v] |
 | *given*   | *gĭven*    | [ˈgɪvən] |
 |           |            | |
@@ -1350,6 +1374,10 @@ In some verbs, the vowel of the past has merged to the vowel of the past partici
 | *come*    | *cum*      | [kʌm] |
 | *came*    | *came*     | [keɪ̯m] |
 | *come*    | *cum*      | [kʌm] |
+|           |            | |
+| *do*      | *dō*       | [du:] | <!-- does [dʌz] dôs -->
+| *did*     | *dyd*      | [dɪd] |
+| *done*    | *dôn*      | [dʌn] | <!-- un-actually dun -->
 |           |            | |
 | *go*      | *gæ̃*      | [goʊ̯] |
 | *went*    | *went*     | [went] |
