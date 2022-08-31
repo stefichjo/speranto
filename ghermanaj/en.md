@@ -1021,6 +1021,9 @@ The following verbs are irregular, because their stem vowel is shortened (typica
 | *kneel*   | *knyl*     | [ni:l] |
 | *knelt*   | *knÿlt*    | [nelt] |
 |           |            | |
+| *lean*    | *lene*     | [li:n] | <!-- actually līn -->
+| *leant*   | *lent*     | [lent] | <!-- actually lïnt -->
+|           |            | |
 | *leap*    | *lø̄p*     | [li:p] |
 | *leapt*   | *løpt*     | [lept] |
 |           |            | |
@@ -1081,6 +1084,8 @@ If the stem ends in *-t* and the stem vowel is short, the form of the verb doesn
 | *cut*      | [kʌt] |
 |            | |
 | *fit*      | [fɪt] |
+|            | |
+| *hurt*     | [hɜ:t] |
 |            | |
 | *let*      | [let] |
 |            | |
@@ -1237,6 +1242,12 @@ In some verbs, the vowel of the past has merged to the vowel of the past partici
 |           |            | |
 | *find*    | *finde*    | [faɪ̯nd] | <!-- originally find fand funden -->
 | *found*   | *fũnd*     | [fɑʊ̯nd] |
+|           |            | |
+| *grind*   | *grinde*   | [graɪ̯nd] | <!-- originally grind grand grunden -->
+| *ground*  | *grũnd*    | [grɑʊ̯nd] |
+|           |            | |
+| *hang*    | *hang*     | [hæŋ] | <!-- originally hon/hang heng hangen -->
+| *hung*    | *hung*     | [hʌŋ] |
 |           |            | |
 | *hold*    | *hålde*    | [hoʊ̯ld] | <!-- originally hald hold halden -->
 | *held*    | *hæld*     | [held] |
