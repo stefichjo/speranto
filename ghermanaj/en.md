@@ -1141,7 +1141,7 @@ The stem vowel of strong verbs changes. The past participle of strong verbs ends
 | *lain*    | *leghen*   | [leɪ̯n] |
 |           |            | |
 
-After *-m*, *-n*, *-nd*, *-ld*, *-ng*, *-g*, *-nk*, and *-ck*, *-en* is omitted.
+*-en* is omitted after *-m*, *-n*, *-nd*, *-ld*, *-ng*, *-g*, *-nk*, and *-ck*.
 
 | | | |
 |-|-|-|
@@ -1231,7 +1231,7 @@ In some verbs, the vowel of the past has merged to the vowel of the past partici
 
 | | | |
 |-|-|-|
-| *bind*    | *binde*    | [baɪ̯nd] | <!-- originally bind band bunden -->
+| *bind*    | *bĩnd*     | [baɪ̯nd] | <!-- originally bind band bunden -->
 | *bound*   | *bũnd*     | [bɑʊ̯nd] |
 |           |            | |
 | *cling*   | *cling*    | [klɪŋ] | <!-- originally cling clang clungen -->
@@ -1240,20 +1240,20 @@ In some verbs, the vowel of the past has merged to the vowel of the past partici
 | *dig*     | *dig*      | [dɪg] |
 | *dug*     | *dug*      | [dʌg] |
 |           |            | |
-| *find*    | *finde*    | [faɪ̯nd] | <!-- originally find fand funden -->
+| *find*    | *fĩnd*     | [faɪ̯nd] | <!-- originally find fand funden -->
 | *found*   | *fũnd*     | [fɑʊ̯nd] |
 |           |            | |
 | *fling*   | *fling*    | [flwɪŋ] |
 | *flung*   | *flung*    | [flwʌŋ] |
 |           |            | |
-| *grind*   | *grinde*   | [graɪ̯nd] | <!-- originally grind grand grunden -->
+| *grind*   | *grĩnd*    | [graɪ̯nd] | <!-- originally grind grand grunden -->
 | *ground*  | *grũnd*    | [grɑʊ̯nd] |
 |           |            | |
 | *hang*    | *hang*     | [hæŋ] | <!-- originally hon/hang heng hangen -->
 | *hung*    | *hung*     | [hʌŋ] |
 |           |            | |
-| *hold*    | *hålde*    | [hoʊ̯ld] | <!-- originally hald hold halden -->
-| *held*    | *hæld*     | [held] |
+| *hold*    | *hõld*     | [hoʊ̯ld] | <!-- actually hålde --><!-- originally hald hold halden -->
+| *held*    | *høld*     | [held] | <!-- actually høld/hæld -->
 |           |            | |
 | *stick*   | *stick*    | [stɪk] |
 | *stuck*   | *stuck*    | [stʌk] |
@@ -1270,7 +1270,7 @@ In some verbs, the vowel of the past has merged to the vowel of the past partici
 | *win*     | *win*      | [wɪn] | <!-- sts: probably originally win wan wunnen -->
 | *won*     | *wun*      | [wʌn] |
 |           |            | |
-| *wind*    | *winde*    | [waɪ̯nd] | <!-- originally wind wand wunden -->
+| *wind*    | *wĩnd*     | [waɪ̯nd] | <!-- originally wind wand wunden -->
 | *wound*   | *wũnd*     | [wɑʊ̯nd] |
 |           |            | |
 
@@ -1278,10 +1278,6 @@ In some verbs, the vowel of the past has merged to the vowel of the past partici
 
 | | | |
 |-|-|-|
-| *arise*   | *ån̆rise*  | [əˈraɪ̯z] |
-| *arose*   | *ån̆rose*  | [əˈroʊ̯z] | <!-- actually ån̆ri̊se -->
-| *arisen*  | *ån̆rĭsen* | [əˈrɪzən] |
-|           |            | |
 | *bid*     | *bid*      | [fɔ:l] | <!-- also bid bid bid --><!-- also forbid -->
 | *bade*    | *bade*     | [fel] |
 | *bidden*  | *bidden*   | [ˈfɔ:lən] |
@@ -1293,10 +1289,6 @@ In some verbs, the vowel of the past has merged to the vowel of the past partici
 | *draw*    | *draǧh*    | [drɔ:] |
 | *drew*    | *drøǧh*    | [dru:] |
 | *drawn*   | *draǧhen*  | [drɔ:n] |
-|           |            | |
-| *drive*   | *drive*    | [draɪ̯v] |
-| *drove*   | *drove*    | [droʊ̯v] |
-| *driven*  | *drĭven*   | [ˈdrɪvən] |
 |           |            | |
 | *eat*     | *ete*      | [i:t] |
 | *ate*     | *ate*      | [eɪ̯t] |
@@ -1333,6 +1325,19 @@ In some verbs, the vowel of the past has merged to the vowel of the past partici
 | *throw*   | *thrõ*     | [θroʊ̯] |
 | *threw*   | *thrū*     | [θru:] |
 | *thrown*  | *thrõen*   | [θroʊ̯n] |
+|           |            | |
+
+Diphthong *i* [aɪ̯] becomes short *i* [ɪ].
+
+| | | |
+|-|-|-|
+| *drive*   | *drive*    | [draɪ̯v] |
+| *drove*   | *drove*    | [droʊ̯v] |
+| *driven*  | *drĭven*   | [ˈdrɪvən] |
+|           |            | |
+| *rise*    | *rise*     | [raɪ̯z] | <!-- also a- -->
+| *rose*    | *rose*     | [roʊ̯z] | <!-- actually ån̆ri̊se -->
+| *risen*   | *rĭsen*    | [ˈrɪzən] |
 |           |            | |
 | *write*   | *write*    | [raɪ̯t] |
 | *wrote*   | *wråte*    | [roʊt] |
@@ -1460,7 +1465,7 @@ In some verbs, the vowel of the past has merged to the vowel of the past partici
 | *stood*   | *stǒd*     | [stʊd] |
 |           |            | |
 | *tell*    | *tell*     | [tel] |
-| *told*    | *tålde*    | [toʊ̯ld] |
+| *told*    | *tõld*     | [toʊ̯ld] | <!-- actually tålde -->
 |           |            | |
 
 ## American
