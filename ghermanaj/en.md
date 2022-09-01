@@ -699,6 +699,7 @@ Germanic *gh* is sometimes equivalent to *w* and written as *ugh*. *aught* and *
 | | | |
 |-|-|-|
 | *awe*       | *aǧh*      | [ɔ:] |
+| *dawn*      | *daǧhen*   | [dɔ:n] |
 | *law*       | *laǧh*     | [lɔ:] |
 | *flaw*      | *flaǧh*    | [flɔ:] |
 | | | |
@@ -706,7 +707,7 @@ Germanic *gh* is sometimes equivalent to *w* and written as *ugh*. *aught* and *
 | *naught*    | *naǧht*    | [nɔ:t] |
 | *slaughter* | *slaǧhter* | [slɔ:tə] |
 | | | |
-| *daughter*  | *daǧhter*  | [dɔ:tə] | <!-- actually doǧhter -->
+| *daughter*  | *doǧhter*  | [dɔ:tə] |
 | *ought*     | *aǧht*     | [ɔ:t] |
 | | | |
 | *arrow*     | *arǧh*     | [æroʊ̯] |
@@ -964,7 +965,6 @@ The suffix -ed for the past and the past participle is pronounced [d], or [t], i
 |           | |
 | *thank*   | [θæŋk] |
 | *thanked* | [θæŋkt] |
-|           | |
 
 ### Weak Verbs
 
@@ -977,7 +977,6 @@ The following verbs are irregular, because their spelling reflects the assimilat
 |           |            | |
 | *pay*     | *pay*      | [peɪ̯] |
 | *paid*    | *payed*    | [peɪ̯d] |
-|           |            | |
 
 The following verbs are irregular, because their stem vowel is shortened (typically to *e* [e] or *er* [ɜ:]). ...
 
@@ -1021,7 +1020,6 @@ The following verbs are irregular, because their stem vowel is shortened (typica
 |           |            | |
 | *weep*    | *wø̄p*     | [wi:p] |
 | *wept*    | *wøpt*     | [wept] |
-|           |            | |
 
 ... A voiced stem ending becomes voiceless.
 
@@ -1032,7 +1030,6 @@ The following verbs are irregular, because their stem vowel is shortened (typica
 |           |            | |
 | *lose*    | *los*      | [lu:z] |
 | *lost*    | *lost*     | [lɒst] |
-|           |            | |
 
 If the stem vowel is already short, it doesn't change further. (The following irregular forms are more prominent in British English.)
 
@@ -1049,7 +1046,6 @@ If the stem vowel is already short, it doesn't change further. (The following ir
 |           |            | |
 | *spill*   | *spill*    | [spɪl] |
 | *spilt*   | *spilt*    | [spɪlt] |
-|           |            | |
 
 If the stem already ends in *-t*, no additional *t* is written.
 
@@ -1057,7 +1053,6 @@ If the stem already ends in *-t*, no additional *t* is written.
 |-|-|-|
 | *meet*    | *mø̄t*     | [mi:t] |
 | *met*     | *møt*      | [met] |
-|           |            | |
 
 Therefore, if the stem ends in *-t* and the stem vowel is short, the form of the verb doesn't change further.
 
@@ -1086,7 +1081,6 @@ Therefore, if the stem ends in *-t* and the stem vowel is short, the form of the
 | *set*      | [set] |
 |            | |
 | *spræd*    | [spred] |
-|            | |
 
 If the stem ends in *-d*, it doesn't become voicess *-t*, ...
 
@@ -1106,7 +1100,6 @@ If the stem ends in *-d*, it doesn't become voicess *-t*, ...
 |           |            | |
 | *read*    | *rēd*      | [ri:d] | <!-- actually rede -->
 | *read*    | *red*      | [red] |
-|           |            | |
 
 ... unless the stem vowel is short.
 
@@ -1126,7 +1119,6 @@ If the stem ends in *-d*, it doesn't become voicess *-t*, ...
 |           |            | |
 | *spend*   | *spend*    | [spend] |
 | *spent*   | *spent*    | [spent] |
-|           |            | |
 
 ### Strong Verbs
 
@@ -1141,7 +1133,6 @@ The stem vowel of strong verbs changes. The past participle of strong verbs ends
 | *lie*     | *ligh*     | [laɪ̯] |
 | *lay*     | *lagh*     | [leɪ̯] |
 | *lain*    | *leghen*   | [leɪ̯n] |
-|           |            | |
 
 *-en* is omitted after *-m*, *-n*, *-nd*, *-ld*, *-ng*, *-g*, *-nk*, and *-ck*.
 
@@ -1170,7 +1161,6 @@ The stem vowel of strong verbs changes. The past participle of strong verbs ends
 | *spin*    | *spin*     | [spɪn] |
 | *span*    | *span*     | [spæn] | <!-- also spun -->
 | *spun*    | *spun*     | [spʌn] |
-|           |            | |
 
 #### Past Participle = Past
 
@@ -1229,7 +1219,6 @@ In some verbs, the vowel of the past has merged to the vowel of the past partici
 | *wear*    | *ware*     | [wɛə̯] | <!-- actually wẽr -->
 | *wore*    | *wore*     | [wɔə̯] |
 | *worn*    | *woren*    | [wɔə̯n] |
-|           |            | |
 
 | | | |
 |-|-|-|
@@ -1274,7 +1263,6 @@ In some verbs, the vowel of the past has merged to the vowel of the past partici
 |           |            | |
 | *wind*    | *wĩnd*     | [waɪ̯nd] | <!-- originally wind wand wunden -->
 | *wound*   | *wũnd*     | [wɑʊ̯nd] |
-|           |            | |
 
 #### Past Participle = Present
 
@@ -1327,7 +1315,6 @@ In some verbs, the vowel of the past has merged to the vowel of the past partici
 | *throw*   | *thrõ*     | [θroʊ̯] |
 | *threw*   | *thrū*     | [θru:] |
 | *thrown*  | *thrõen*   | [θroʊ̯n] |
-|           |            | |
 
 Diphthong *i* [aɪ̯] becomes short *i* [ɪ].
 
@@ -1344,14 +1331,12 @@ Diphthong *i* [aɪ̯] becomes short *i* [ɪ].
 | *write*   | *write*    | [raɪ̯t] |
 | *wrote*   | *wråte*    | [roʊt] |
 | *written* | *written*  | [ˈrɪtən] |
-|           |            | |
 
 | | | |
 |-|-|-|
 | *come*    | *cum*      | [kʌm] | <!-- also bēcum -->
 | *came*    | *came*     | [keɪ̯m] |
 | *come*    | *cum*      | [kʌm] |
-|           |            | |
 
 ### Mixed Verbs
 
@@ -1363,23 +1348,22 @@ Diphthong *i* [aɪ̯] becomes short *i* [ɪ].
 | *brought* | *braǧht*   | [brɔ:t] |
 |           |            | |
 | *buy*     | *bygh*     | [baɪ̯] |
-| *bought*  | *baǧht*    | [brɔ:t] | <!-- actually boǧht -->
+| *bought*  | *boǧht*    | [brɔ:t] |
 |           |            | |
 | *catch*   | *cach*     | [kætʃ] |
 | *caught*  | *caǧht*    | [kɔ:t] |
 |           |            | |
 | *fight*   | *fyght*    | [faɪ̯t] |
-| *fought*  | *faǧht*    | [fɔ:t] | <!-- actually foǧht -->
+| *fought*  | *foǧht*    | [fɔ:t] |
 |           |            | |
 | *seek*    | *søk*      | [si:k] |
-| *sought*  | *saǧht*    | [sɔ:t] | <!-- actually soǧht -->
+| *sought*  | *soǧht*    | [sɔ:t] |
 |           |            | |
 | *teach*   | *tǣch*     | [ti:tʃ] |
-| *taught*  | *taǧht*    | [tɔ:t] | <!-- actually tæǧht -->
+| *taught*  | *tæǧht*    | [tɔ:t] |
 |           |            | |
 | *think*   | *think*    | [θɪŋk] |
-| *thought* | *thaǧht*   | [θɔ:t] | <!-- actually thoǧht -->
-|           |            | |
+| *thought* | *thaǧht*   | [θɔ:t] |
 
 #### -ed + -en
 
@@ -1400,7 +1384,6 @@ Diphthong *i* [aɪ̯] becomes short *i* [ɪ].
 | *swell*   | *swell*    | [swel] |
 | *swelled* | *swelled*  | [sweld] |
 | *swollen* | *swollen*  | [ˈswoʊ̯ən] | <!-- OK? --><!-- also swelled -->
-|           |            | |
 
 #### Without Past Participle
 <!-- Vowel change -->
@@ -1418,7 +1401,6 @@ Diphthong *i* [aɪ̯] becomes short *i* [ɪ].
 |           |            | |
 | *will*    | *will*     | [wɪl] |
 | *would*   | *wǔłd*     | [wʊd] | <!-- actually wǒłd -->
-|           |            | |
 
 ### Irregular Verbs
 
@@ -1468,7 +1450,6 @@ Diphthong *i* [aɪ̯] becomes short *i* [ɪ].
 |           |            | |
 | *tell*    | *tell*     | [tel] |
 | *told*    | *tõld*     | [toʊ̯ld] | <!-- actually tålde -->
-|           |            | |
 
 ## American
 
@@ -1497,6 +1478,3 @@ sõ = so
 <!-- sĕven -->
 <!-- lĕvel -->
 
-<!-- 
-dawn = daǧhen (daǧhung)
- -->
