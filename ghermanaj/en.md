@@ -1222,9 +1222,9 @@ In some verbs, the vowel of the past has merged to the vowel of the past partici
 | *tore*    | *tore*     | [tɔə̯] |
 | *torn*    | *toren*    | [tɔə̯n] |
 |           |            | |
-| *wake*    | *wake*     | [raɪ̯z] | <!-- also awake -->
-| *woke*    | *woke*     | [roʊ̯z] |
-| *woken*   | *woken*    | [ˈrɪzən] |
+| *wake*    | *wake*     | [weɪ̯k] | <!-- also awake -->
+| *woke*    | *woke*     | [woʊ̯k] |
+| *woken*   | *woken*    | [ˈwoʊ̯kən] |
 |           |            | |
 | *wear*    | *ware*     | [wɛə̯] | <!-- actually wẽr -->
 | *wore*    | *wore*     | [wɔə̯] |
