@@ -108,7 +108,7 @@ Short *er* [ɜ:] is often written like short *or* [ɜ:] or *ur* [ɜ:].
 
 | | | |
 |-|-|-|
-| *world* | *werld* | [wɜ:ld] <!-- imagine wẽrald [ˈwɛə̯rəld] -->
+| *world* | *werld* | [wɜ:ld]
 | *worth* | *werth* | [wɜ:θ]
 | | | |
 | *burn*  | *bern*  | [bɜ:n] |
@@ -388,11 +388,11 @@ Long *er* is pronounced [ɪə̯], whereas diphthong *er* is pronounced [ɛə̯].
 
 | | | |
 |-|-|-|
-| *ear*      | *ør*      | [ɪə̯] |
-| *fear*     | *fere*    | [fɪə̯] |
+| *ear*      | *ør*       | [ɪə̯] |
+| *fear*     | *fere*     | [fɪə̯] |
 | | | |
-| *hair*     | *hẽr*     | [hɛə̯] |
-| *werewolf* | *wẽrwǔlf* | [ˈwɛə̯wʊlf] |
+| *hair*     | *hare*     | [hɛə̯] | <!-- actually hẽr -->
+| *werewolf* | *wẽrwǔlf*  | [ˈwɛə̯wʊlf] |
 
 #### Lengthened i
 
@@ -412,7 +412,8 @@ In some loan words, long -i [:i] is spelt with silent *e*.
 
 | | | |
 |-|-|-|
-| *machine* | *maçhīne* | [məˈʃi:n] |
+| *machine*   | *maçhīne*   | [məˈʃi:n] |
+| *submarine* | *submarīne* | [ˌsʌbmərˈi:n] |
 
 Diphthong *i* [aɪ̯] is spelt with silent *e*.
 
@@ -771,6 +772,7 @@ Germanic *gh* is sometimes equivalent to *w* and written as *ugh*. *aught* and *
 | | | |
 |-|-|-|
 | *aware*     | *ğeware*     | [əˈwɛə̯] |
+| *frolic*    | *froğlik*    | [ˈfrɒlɪk] |
 | *yesterday* | *ġesterdagh* | [ˈjestədeɪ̯] |
 
 | | | |
@@ -849,7 +851,7 @@ The unstressed prefix *on-* becomes *a-*. <!-- actually ån̆- -->
 | *afloat*  | *aflote*  | [əˈfloʊ̯t] |
 | *afore*   | *afore*   | [əˈfɔə̯] |
 | *afresh*  | *afresh*  | [əˈfreʃ] | <!-- actually ån̆frïsh -->
-| *again*   | *agen*    | [əˈgen] | <!-- also: *on̆geghen* [əˈgeɪ̯n] -->
+| *again*   | *agen*    | [əˈgen] | <!-- also: *ån̆geghen* [əˈgeɪ̯n] -->
 | *alike*   | *alike*   | [əˈlaɪ̯k] |
 | *alive*   | *alive*   | [əˈlaɪ̯v] |
 | *aloud*   | *alŭd*    | [əˈlɑʊ̯d] |
@@ -977,7 +979,7 @@ The following verbs are irregular, because their spelling reflects the assimilat
 | *paid*    | *payed*    | [peɪ̯d] |
 |           |            | |
 
-The following verbs are irregular, because their stem vowel is shortened (typically to *e* [e]). ...
+The following verbs are irregular, because their stem vowel is shortened (typically to *e* [e] or *er* [ɜ:]). ...
 
 | | | |
 |-|-|-|
@@ -1032,24 +1034,24 @@ The following verbs are irregular, because their stem vowel is shortened (typica
 | *lost*    | *lost*     | [lɒst] |
 |           |            | |
 
-If the stem vowel is already short, it doesn't change further.
+If the stem vowel is already short, it doesn't change further. (The following irregular forms are more prominent in British English.)
 
 | | | |
 |-|-|-|
 | *burn*    | *bern*     | [bɜ:n] |
-| *burnt*   | *bernt*    | [bɜ:nt] | <!-- also burned -->
+| *burnt*   | *bernt*    | [bɜ:nt] |
 |           |            | |
 | *learn*   | *lern*     | [lɜ:n] |
-| *learnt*  | *lernt*    | [lɜ:nt] | <!-- also learned -->
+| *learnt*  | *lernt*    | [lɜ:nt] |
 |           |            | |
 | *spell*   | *spell*    | [spel] |
-| *spelt*   | *spelt*    | [spelt] | <!-- also spelled -->
+| *spelt*   | *spelt*    | [spelt] |
 |           |            | |
 | *spill*   | *spill*    | [spɪl] |
-| *spilt*   | *spilt*    | [spɪlt] | <!-- also spilled -->
+| *spilt*   | *spilt*    | [spɪlt] |
 |           |            | |
 
-If the stem ends in *-t*, no additional *t* is written.
+If the stem already ends in *-t*, no additional *t* is written.
 
 | | | |
 |-|-|-|
@@ -1057,7 +1059,7 @@ If the stem ends in *-t*, no additional *t* is written.
 | *met*     | *møt*      | [met] |
 |           |            | |
 
-If the stem ends in *-t* and the stem vowel is short, the form of the verb doesn't change.
+Therefore, if the stem ends in *-t* and the stem vowel is short, the form of the verb doesn't change further.
 
 | | |
 |-|-|
@@ -1145,27 +1147,27 @@ The stem vowel of strong verbs changes. The past participle of strong verbs ends
 
 | | | |
 |-|-|-|
-| *begin*   | *bigin*    | [bɪˈgɪn] | <!-- originally -gin -gan -gunnen -->
+| *begin*   | *bigin*    | [bɪˈgɪn] |
 | *began*   | *bigan*    | [bɪˈgæn] |
 | *begun*   | *bigun*    | [bɪˈgʌn] |
 |           |            | |
-| *drink*   | *drink*    | [drɪŋk] | <!-- originally drink drank drunken -->
+| *drink*   | *drink*    | [drɪŋk] |
 | *drank*   | *drank*    | [dræŋk] |
 | *drunk*   | *drunk*    | [drʌŋk] |
 |           |            | |
-| *sing*    | *sing*     | [sɪŋ] | <!-- originally sing sang sungen -->
+| *sing*    | *sing*     | [sɪŋ] |
 | *sang*    | *sang*     | [sæŋ] |
 | *sung*    | *sung*     | [sʌŋ] |
 |           |            | |
-| *sink*    | *sink*     | [sɪŋk] | <!-- originally sink sank sunken -->
+| *sink*    | *sink*     | [sɪŋk] |
 | *sank*    | *sank*     | [sæŋk] |
 | *sunk*    | *sunk*     | [sʌŋk] |
 |           |            | |
-| *swim*    | *swim*     | [swɪm] | <!-- originally swim swam swummen -->
+| *swim*    | *swim*     | [swɪm] |
 | *swam*    | *swam*     | [swæm] |
 | *swum*    | *swum*     | [swʌm] |
 |           |            | |
-| *spin*    | *spin*     | [spɪn] | <!-- originally spin span spunnen -->
+| *spin*    | *spin*     | [spɪn] |
 | *span*    | *span*     | [spæn] | <!-- also spun -->
 | *spun*    | *spun*     | [spʌn] |
 |           |            | |
@@ -1176,7 +1178,7 @@ In some verbs, the vowel of the past has merged to the vowel of the past partici
 
 | | | |
 |-|-|-|
-| *bear*    | *bẽr*      | [bɛə̯] | <!-- un-actually bare -->
+| *bear*    | *bare*     | [bɛə̯] | <!-- actually bẽr -->
 | *bore*    | *bore*     | [bɔə̯] |
 | *born*    | *boren*    | [bɔə̯n] |
 |           |            | |
@@ -1212,19 +1214,19 @@ In some verbs, the vowel of the past has merged to the vowel of the past partici
 | *stole*   | *stæle*    | [stoʊ̯l] |
 | *stolen*  | *stælen*   | [ˈstoʊ̯lən] |
 |           |            | |
-| *swear*   | *swẽr*     | [swɛə̯] |
+| *swear*   | *sware*    | [swɛə̯] | <!-- actually swẽr -->
 | *swore*   | *swore*    | [swɔə̯] |
 | *sworn*   | *sworen*   | [swɔə̯n] |
 |           |            | |
-| *tear*    | *tẽr*      | [tɛə̯] |
+| *tear*    | *tare*     | [tɛə̯] | <!-- actually tẽr -->
 | *tore*    | *tore*     | [tɔə̯] |
 | *torn*    | *toren*    | [tɔə̯n] |
 |           |            | |
-| *wake*    | *wake*     | [raɪ̯z] | <!-- also a- -->
+| *wake*    | *wake*     | [raɪ̯z] | <!-- also awake -->
 | *woke*    | *woke*     | [roʊ̯z] |
 | *woken*   | *woken*    | [ˈrɪzən] |
 |           |            | |
-| *wear*    | *wẽr*      | [wɛə̯] |
+| *wear*    | *ware*     | [wɛə̯] | <!-- actually wẽr -->
 | *wore*    | *wore*     | [wɔə̯] |
 | *worn*    | *woren*    | [wɔə̯n] |
 |           |            | |
@@ -1335,8 +1337,8 @@ Diphthong *i* [aɪ̯] becomes short *i* [ɪ].
 | *drove*   | *drove*    | [droʊ̯v] |
 | *driven*  | *drĭven*   | [ˈdrɪvən] |
 |           |            | |
-| *rise*    | *rise*     | [raɪ̯z] | <!-- also a- -->
-| *rose*    | *rose*     | [roʊ̯z] | <!-- actually ån̆ri̊se -->
+| *rise*    | *rise*     | [raɪ̯z] | <!-- also arise -->
+| *rose*    | *rose*     | [roʊ̯z] | <!-- actually ari̊se -->
 | *risen*   | *rĭsen*    | [ˈrɪzən] |
 |           |            | |
 | *write*   | *write*    | [raɪ̯t] |
@@ -1346,7 +1348,7 @@ Diphthong *i* [aɪ̯] becomes short *i* [ɪ].
 
 | | | |
 |-|-|-|
-| *come*    | *cum*      | [kʌm] | <!-- also bē- -->
+| *come*    | *cum*      | [kʌm] | <!-- also bēcum -->
 | *came*    | *came*     | [keɪ̯m] |
 | *come*    | *cum*      | [kʌm] |
 |           |            | |
@@ -1481,8 +1483,6 @@ In American English, *ô* and *u* [ʌ] before *r* plus vowel are pronounced like
 | | | AE |
 |-|-|-|
 | *hurry* | [ˈhʌrɪ] | [ˈhʌri] → [ˈhɜ:ri] |
-
-<!-- frolic -->
 
 <!-- toy -->
 
