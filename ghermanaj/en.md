@@ -14,7 +14,7 @@
 
 ### Short Vowels
 
-After more than one consonant, a vowel is short.
+Before more than one consonant, a vowel is short.
 
 | | |
 |-|-|
@@ -136,7 +136,7 @@ When a short *i* [ɪ] comes from a short *a*, this is not reflected in the spell
 | | | |
 |-|-|-|
 | *mister*  | *mister*  | [ˈmɪstə] | <!-- actually mȧster >
-| *english* | *inglish* | [ˈmɪstə] | <!-- actually ȧnglish -->
+| *english* | *inglish* | [ˈɪŋglɪʃ] | <!-- actually ȧnglish -->
 
 Short *ir* is pronounced [ɜ:].
 
@@ -169,9 +169,17 @@ After *qu* and *w*, short *a* is pronounced like short *o* [ɒ].
 
 | | |
 |-|-|
-| *quantity* | [ˈkwɒntəti] |
+| *quantity* | [ˈkwɒntətɪ] |
 | *want*     | [wɒnt] |
 | *swan*     | [swɒn] |
+
+Short *o* and short *i* become the diphthong *oi* [ɔɪ̯].
+
+| | | |
+|-|-|-|
+| *boy*  | *boi*  | [bɔɪ̯] |
+| *coin* | *coin* | [kɔɪ̯n] |
+| *toy*  | *toġ*  | [tɔɪ̯] |
 
 Short *or* is pronounced [ɜ:].
 
@@ -198,9 +206,9 @@ Short *o* and *u* are often pronounced [ʌ] instead of [ʊ].
 
 | | |
 |-|-|
-| *blood*   | *blôd*    | [blʌd] | <!-- un-actually blud -->
-| *brother* | *brôther* | [ˈbrʌðə] |  <!-- un-actually bruther -->
-| *mother*  | *môther*  | [ˈmʌðə] |  <!-- un-actually muther -->
+| *blood*   | *blud*    | [blʌd] | <!-- actually blôd -->
+| *brother* | *bruther* | [ˈbrʌðə] |  <!-- actually brôther -->
+| *mother*  | *muther*  | [ˈmʌðə] |  <!-- actually môther -->
 | *young*   | *yung*    | [jʌŋ]  |
 
 When a short *u* [ʊ] comes from a short *i*, this is not reflected in the spelling.
@@ -238,7 +246,7 @@ The silent *e* at the end of a word turns the short vowels *ă* [æ], *ĕ* [e], 
 | *move*   | *mōve*   | [mu:v] |
 | | | |
 | *dove*   | *duve*   | [dʌv] |
-| *glove*  | *gĕlôve* | [glʌv] | <!-- un-actually gĕluve -->
+| *glove*  | *gĕluve* | [glʌv] | <!-- actually gĕlôve -->
 | *live*   | *lĭve*   | [lɪv] |
 | *love*   | *luve*   | [lʌv] |
 | *shove*  | *shuve*  | [ʃʌv] |
@@ -255,6 +263,12 @@ Long *a* [ɑ:] as in *father* [ˈfɑ:ðə] is used in loan words.
 | *banana* | *banāna* | [bəˈnɑ:nə] |
 | *tomato* | *tomāto* | [təˈmɑ:toʊ] |
 | *samba*  | *sāmba*  | [ˈsɑ:mbə] |
+
+At the end of one-syllable words, *a* is pronounced as a long [ɑ:].
+
+| | |
+|-|-|
+| *ma* | [mɑ:] |
 
 Diphthong *a* [eɪ̯] is written with a silent *e*.
 
@@ -507,19 +521,20 @@ In many cases, a diphthong *o* [oʊ̯] comes from a Germanic *ai*, *ou* or *u*.
 
 | | | |
 |-|-|-|
+| *boar*   | *bære*   | [bɔə̯] |
 | *boat*   | *bæte*   | [boʊ̯t] |
-| *bone*   | *bæne*   | [boʊ̯n] |
-| *dole*   | *dæle*   | [doʊ̯l] |
+| *bone*   | *bæne*   | [boʊ̯n] | <!-- wannabe boan -->
+| *dole*   | *dæle*   | [doʊ̯l] | <!-- wannabe doal -->
 | *goat*   | *gæte*   | [goʊ̯t] |
-| *home*   | *hæme*   | [hoʊ̯m] |
+| *home*   | *hæme*   | [hoʊ̯m] | <!-- wannabe hoam -->
 | *load*   | *læde*   | [loʊ̯d] |
 | *loaf*   | *læfe*   | [loʊ̯f] |
 | *loath*  | *læthe*  | [loʊ̯θ] |
-| *more*   | *mæ̃r*   | [mɔə̯] |
-| *most*   | *mæ̃st*  | [moʊ̯st]
-| *soul*   | *sæle*   | [soʊ̯l] | <!-- actually sæwel -->
-| *stone*  | *stæne*  | [stoʊ̯n] |
-| *whole*  | *hæle*   | [hoʊ̯l] |
+| *more*   | *mæ̃r*   | [mɔə̯] | <!-- wannabe moar -->
+| *most*   | *mæ̃st*  | [moʊ̯st] <!-- wannabe moast -->
+| *soul*   | *sæle*   | [soʊ̯l] | <!-- actually sæwel --> <!-- wannabe soal -->
+| *stone*  | *stæne*  | [stoʊ̯n] | <!-- wannabe stoan -->
+| *whole*  | *hæle*   | [hoʊ̯l] | <!-- wannabe hoal -->
 | | | |
 | *own*    | *æghen*  | [oʊ̯n] |
 | | | |
@@ -531,6 +546,12 @@ In many cases, a diphthong *o* [oʊ̯] comes from a Germanic *ai*, *ou* or *u*.
 | *gold*   | *gůlde*  | [goʊ̯ld] |
 | | | |
 | *grow*   | *grõ*    | [groʊ̯] |
+
+At the end of one-syllable words, *o* is pronounced as a diphthong [oʊ̯].
+
+| | |
+|-|-|
+| *no* | [noʊ̯] |
 
 After *l* and *r*, *w* is pronounced like long *o* [oʊ̯].
 
@@ -730,8 +751,8 @@ Germanic *gh* is sometimes equivalent to *w* and written as *ugh*. *aught* and *
 | *five*    | *five*  | *fin̆ve*  | [faɪ̯v] |
 | *my*      | *mie*   | *min̆e*   | [maɪ̯] |
 | | | | |
-| *other*   | *âther* | *ân̆ther* | [ˈʌðə] |
-| *tough*   | *tâgh*  | *tân̆gh*  | [tʌf] |
+| *other*   | *uther* | *ân̆ther* | [ˈʌðə] |
+| *tough*   | *tugh*  | *tân̆gh*  | [tʌf] |
 
 ## Consonants
 
@@ -787,8 +808,8 @@ After *ȃ* [a], *ô* [ʌ] and *u* [ʌ] Germanic *gh* is pronounced [f].
 | *after*  | *ȃghter* | [aftə] |
 | *laugh*  | *lȃgh*   | [laf] |
 | | | |
-| *cough*  | *côgh*   | [rʌf] | <!-- un-actually cugh -->
-| *enough* | *ğenôgh* | [ɪˈnʌf] | <!-- un-actually ğenugh -->
+| *cough*  | *cugh*   | [rʌf] | <!-- actually côgh -->
+| *enough* | *ğenugh* | [ɪˈnʌf] | <!-- actually ğenôgh -->
 | *rough*  | *rugh*   | [rʌf] |
 
 Germanic *ghs* is pronounced [ks] and doesn't contain a silent *gh*.
@@ -837,8 +858,8 @@ Germanic *ghs* is pronounced [ks] and doesn't contain a silent *gh*.
 | *along*  | *an̆lång* | [əˈlɒŋ] |
 | *answer* | *ȃnsw̌er* | [ˈansə] |
 | | | |
-| *until*  | *ântill*  | [ʌnˈtɪl] |
-| *unto*   | *ântō*    | [ʌnˈtu:] |
+| *until*  | *untill*  | [ʌnˈtɪl] | <!-- actually ântill -->
+| *unto*   | *untō*    | [ʌnˈtu:] | <!-- actually ântō -->
 
 #### on-
 
@@ -855,9 +876,9 @@ The unstressed prefix *on-* becomes *a-*. <!-- actually ån̆- -->
 | *again*   | *agen*    | [əˈgen] | <!-- also: *ån̆geghen* [əˈgeɪ̯n] -->
 | *alike*   | *alike*   | [əˈlaɪ̯k] |
 | *alive*   | *alive*   | [əˈlaɪ̯v] |
-| *aloud*   | *alŭd*    | [əˈlɑʊ̯d] |
+| *aloud*   | *alũd*    | [əˈlɑʊ̯d] |
 | *amid*    | *amid*    | [əˈmɪd] |
-| *among*   | *amâng*   | [əˈmʌŋ] | <!-- â → u ? -->
+| *among*   | *amung*   | [əˈmʌŋ] | <!-- actually amâng -->
 | *anew*    | *anỹ*     | [əˈnju:] |
 | *ashore*  | *ashore*  | [əˈʃɔə̯] |
 | *aside*   | *aside*   | [əˈsaɪ̯d] |
@@ -869,7 +890,7 @@ The unstressed prefix *on-* becomes *a-*. <!-- actually ån̆- -->
 | | | |
 |-|-|-|
 | *almost*     | *almæ̃st*    | [ˈɔ:lmoʊ̯st] |
-| *also*       | *alsõ*       | [ˈɔ:lsoʊ̯] |
+| *also*       | *also*       | [ˈɔ:lsoʊ̯] |
 | *always*     | *alweghs*    | [ˈɔ:lweɪ̯z] |
 | | | |
 | *already*    | *alræddy*    | [ɔ:lˈredɪ] |
@@ -885,11 +906,11 @@ The unstressed prefix *on-* becomes *a-*. <!-- actually ån̆- -->
 | *once*   | *æ̂ns*   | [wʌns] |
 | | | |
 | *alone*  | *ălæne*  | [əˈloʊn] |
-| *lone*   | *læne*   | [ˈloʊn] |
+| *lone*   | *læne*   | [loʊn] |
 | *lonely* | *lænely* | [ˈloʊnlɪ] |
 | *only*   | *ænely*  | [oʊnlɪ] |
 | | | |
-| *a*      | *a*      | [eɪ̯] | <!-- also an̆? -->
+| *a*      | *ã*      | [eɪ̯] | <!-- actually an̆e -->
 | | | |
 | *an*     | *an*     | [æn] |
 | | | |
@@ -925,11 +946,11 @@ Unrelated:
 | | | |
 | *how*    | *whũ*    | [hɑʊ̯] | <!-- actually w̌hũ -->
 | *why*    | *whĩ*    | [hwaɪ̯] |
-| *so*     | *sõ*     | [soʊ̯] |
+| *so*     | *so*     | [soʊ̯] |
 | *as*     | *ałs*    | [æz] |
 | | | |
 | *which*  | *whiłch* | [hwɪtʃ] | <!-- actually whȯłch -->
-| *such*   | *sôłch*  | [sʌtʃ] | <!-- un-actually sułch -->
+| *such*   | *sułch*  | [sʌtʃ] | <!-- un-actually sôłch -->
 
 ##### Pronouns
 
@@ -945,7 +966,7 @@ Unrelated:
 |-|-|-|
 | *he*  | *hi*  | [hi:] |
 | *him* | *him* | [hɪm] |
-| *his* | *his* | [hɪz] |
+| *his* | *his* | [hɪz] | <!-- actually hizz -->
 | | | |
 | *her* | *hir* | [hɜ:] |
 
@@ -1079,6 +1100,8 @@ Therefore, if the stem ends in *-t* and the stem vowel is short, the form of the
 | *pǔt*      | [pʊt] |
 |            | |
 | *set*      | [set] |
+|            | |
+| *split*    | [splɪt] |
 |            | |
 | *spræd*    | [spred] |
 
@@ -1360,7 +1383,7 @@ Diphthong *i* [aɪ̯] becomes short *i* [ɪ].
 | *sought*  | *soǧht*    | [sɔ:t] |
 |           |            | |
 | *teach*   | *tǣch*     | [ti:tʃ] |
-| *taught*  | *tæǧht*    | [tɔ:t] |
+| *taught*  | *taǧht*    | [tɔ:t] |
 |           |            | |
 | *think*   | *think*    | [θɪŋk] |
 | *thought* | *thaǧht*   | [θɔ:t] |
@@ -1379,11 +1402,11 @@ Diphthong *i* [aɪ̯] becomes short *i* [ɪ].
 |           |            | |
 | *sow*     | *sõ*       | [soʊ̯] |
 | *sowed*   | *sõed*     | [soʊ̯d] |
-| *sowen*   | *sõen*     | [soʊ̯n] |
+| *sown*    | *sõen*     | [soʊ̯n] |
 |           |            | |
 | *swell*   | *swell*    | [swel] |
 | *swelled* | *swelled*  | [sweld] |
-| *swollen* | *swollen*  | [ˈswoʊ̯ən] | <!-- OK? --><!-- also swelled -->
+| *swollen* | *swollen*  | [ˈswoʊ̯lən] | <!-- OK? --><!-- also swelled -->
 
 #### Without Past Participle
 <!-- Vowel change -->
@@ -1421,9 +1444,9 @@ Diphthong *i* [aɪ̯] becomes short *i* [ɪ].
 
 | | | |
 |-|-|-|
-| *do*      | *dō*       | [du:] | <!-- does [dʌz] dôs -->
+| *do*      | *dō*       | [du:] | <!-- does [dʌz] dus, actually dôs -->
 | *did*     | *dyd*      | [dɪd] |
-| *done*    | *dôn*      | [dʌn] | <!-- un-actually dun -->
+| *done*    | *dun*      | [dʌn] | <!-- actually dôn -->
 |           |            | |
 | *go*      | *gæ̃*      | [goʊ̯] |
 | *went*    | *went*     | [went] |
@@ -1442,6 +1465,9 @@ Diphthong *i* [aɪ̯] becomes short *i* [ɪ].
 | *saw*     | *saǧh*     | [sɔ:] |
 | *seen*    | *sēghen*   | [si:n] |
 |           |            | |
+| *slide*   | *slide*    | [slaɪ̯d] | <!-- originally slide slad sliden -->
+| *slid*    | *slid*     | [slɪd] | <!-- irregular, because "slid" instead of "slidden"; (or: slide slit slitten) -->
+|           |            | |
 | *spit*    | *spit*     | [spɪt] | <!-- as well as "shit", even though not etymological -->
 | *spat*    | *spat*     | [spæt] | <!-- irregular, because "spat" instead of "spatten" -->
 |           |            | |
@@ -1459,22 +1485,17 @@ In American English, short *a* [æ] before *r* plus vowel is pronounced like dip
 |-|-|-|
 | *carry* | [ˈkærɪ] | [ˈkæri] → [ˈkeri] |
 
-In American English, *ô* and *u* [ʌ] before *r* plus vowel are pronounced like short vowel before *r* [ɜ:].
+In American English, *u* [ʌ] before *r* plus vowel is pronounced like short vowel before *r* [ɜ:].
 
 | | | AE |
 |-|-|-|
 | *hurry* | [ˈhʌrɪ] | [ˈhʌri] → [ˈhɜ:ri] |
 
-<!-- toy -->
-
 <!-- 
-ã = a
 bē = be
 Ĩ (igh) = I
-sõ = so
 Ũ (ugh/...) = U
  -->
 
 <!-- sĕven -->
 <!-- lĕvel -->
-
