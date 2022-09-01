@@ -953,7 +953,7 @@ Unrelated:
 
 ## Verbs
 
-The suffix -ed ist pronounced [d], or [t], if the preceding consonant is voiceless.
+The suffix -ed for the past and the past participle is pronounced [d], or [t], if the preceding consonant is voiceless. <!-- ə remains on some occasions, like after d and t, right? -->
 
 | | |
 |-|-|
@@ -1141,9 +1141,7 @@ The stem vowel of strong verbs changes. The past participle of strong verbs ends
 | *lain*    | *leghen*   | [leɪ̯n] |
 |           |            | |
 
-After *-m*, *-n*, *-ng* and *-nk*, *-en* is omitted.
-<!-- -d, -nd, -ld -->
-<!-- -g -->
+After *-m*, *-n*, *-nd*, *-ld*, *-ng*, *-g*, *-nk*, and *-ck*, *-en* is omitted.
 
 | | | |
 |-|-|-|
@@ -1256,9 +1254,6 @@ In some verbs, the vowel of the past has merged to the vowel of the past partici
 |           |            | |
 | *hold*    | *hålde*    | [hoʊ̯ld] | <!-- originally hald hold halden -->
 | *held*    | *hæld*     | [held] |
-|           |            | |
-| *spit*    | *spit*     | [spɪt] |
-| *spat*    | *spat*     | [spæt] |
 |           |            | |
 | *stick*   | *stick*    | [stɪk] |
 | *stuck*   | *stuck*    | [stʌk] |
@@ -1457,6 +1452,9 @@ In some verbs, the vowel of the past has merged to the vowel of the past partici
 | *see*     | *sēgh*     | [si:] |
 | *saw*     | *saǧh*     | [sɔ:] |
 | *seen*    | *sēghen*   | [si:n] |
+|           |            | |
+| *spit*    | *spit*     | [spɪt] | <!-- as well as "shit", even though not etymological -->
+| *spat*    | *spat*     | [spæt] | <!-- irregular, because "spat" instead of "spatten" -->
 |           |            | |
 | *stand*   | *stand*    | [stænd] |
 | *stood*   | *stǒd*     | [stʊd] |
