@@ -861,23 +861,6 @@ The unstressed prefix *on-* becomes *a-*. <!-- actually ån̆- -->
 | *away*    | *awegh*   | [əˈweɪ̯] |
 | *awhirl*  | *awhirl*  | [əˈhwɜ:l] |
 
-### be
-
-<!-- am is -->
-
-| | |
-|-|-|
-| *am* | [æm] |
-| *is* | [ɪz] | <!-- not "iss"/"izz" -->
-
-| | | |
-|-|-|-|
-| *are*  | *ar*   | [ɑə̯] |
-| *be*   | *bē*   | [bi:] | <!-- actually bī -->
-| *been* | *bēen* | [bi:n] | <!-- actually bīen -->
-| *was*  | *was*  | [wɒz] | <!-- actually "wass" -->
-| *were* | *wær*  | [wɜ:] |
-
 ### all-
 
 | | | |
@@ -1145,7 +1128,7 @@ If the stem ends in *-d*, it doesn't become voicess *-t*, ...
 
 ### Strong Verbs
 
-The stem vowel of strong verbs changes. The past participle of strong verbs ends in *-en* ...
+The stem vowel of strong verbs changes. The past participle of strong verbs ends in *-en*.
 
 | | | |
 |-|-|-|
@@ -1158,7 +1141,9 @@ The stem vowel of strong verbs changes. The past participle of strong verbs ends
 | *lain*    | *leghen*   | [leɪ̯n] |
 |           |            | |
 
-... except when it doesn't. <!-- -n? -->
+After *-m*, *-n*, *-ng* and *-nk*, *-en* is omitted.
+<!-- -d, -nd, -ld -->
+<!-- -g -->
 
 | | | |
 |-|-|-|
@@ -1177,6 +1162,14 @@ The stem vowel of strong verbs changes. The past participle of strong verbs ends
 | *sink*    | *sink*     | [sɪŋk] | <!-- originally sink sank sunken -->
 | *sank*    | *sank*     | [sæŋk] |
 | *sunk*    | *sunk*     | [sʌŋk] |
+|           |            | |
+| *swim*    | *swim*     | [swɪm] | <!-- originally swim swam swummen -->
+| *swam*    | *swam*     | [swæm] |
+| *swum*    | *swum*     | [swʌm] |
+|           |            | |
+| *spin*    | *spin*     | [spɪn] | <!-- originally spin span spunnen -->
+| *span*    | *span*     | [spæn] | <!-- also spun -->
+| *spun*    | *spun*     | [spʌn] |
 |           |            | |
 
 #### Past Participle = Past
@@ -1252,6 +1245,9 @@ In some verbs, the vowel of the past has merged to the vowel of the past partici
 | *find*    | *finde*    | [faɪ̯nd] | <!-- originally find fand funden -->
 | *found*   | *fũnd*     | [fɑʊ̯nd] |
 |           |            | |
+| *fling*   | *fling*    | [flwɪŋ] |
+| *flung*   | *flung*    | [flwʌŋ] |
+|           |            | |
 | *grind*   | *grinde*   | [graɪ̯nd] | <!-- originally grind grand grunden -->
 | *ground*  | *grũnd*    | [grɑʊ̯nd] |
 |           |            | |
@@ -1264,11 +1260,27 @@ In some verbs, the vowel of the past has merged to the vowel of the past partici
 | *spit*    | *spit*     | [spɪt] |
 | *spat*    | *spat*     | [spæt] |
 |           |            | |
+| *stick*   | *stick*    | [stɪk] |
+| *stuck*   | *stuck*    | [stʌk] |
+|           |            | |
+| *sting*   | *sting*    | [stɪŋ] |
+| *stung*   | *stung*    | [stʌŋ] |
+|           |            | |
+| *strick*  | *strick*   | [strɪk] | <!-- originally strick strack stricken -->
+| *struck*  | *struck*   | [strʌk] |
+|           |            | |
+| *swing*   | *swing*    | [swɪŋ] | <!-- originally swing swang swungen -->
+| *swung*   | *swung*    | [swʌŋ] |
+|           |            | |
+| *win*     | *win*      | [wɪn] | <!-- sts: probably originally win wan wunnen -->
+| *won*     | *wun*      | [wʌn] |
+|           |            | |
+| *wind*    | *winde*    | [waɪ̯nd] | <!-- originally wind wand wunden -->
+| *wound*   | *wũnd*     | [wɑʊ̯nd] |
+|           |            | |
 
 #### Past Participle = Present
-<!-- 
-dawn = daǧhen (daǧhung)
- -->
+
 | | | |
 |-|-|-|
 | *arise*   | *ån̆rise*  | [əˈraɪ̯z] |
@@ -1339,10 +1351,9 @@ dawn = daǧhen (daǧhung)
 | *come*    | *cum*      | [kʌm] |
 |           |            | |
 
-### Weak/Strong Verbs
+### Mixed Verbs
 
-#### -gh-
-<!-- Vowel change -->
+#### Vowel change + -t
 
 | | | |
 |-|-|-|
@@ -1368,7 +1379,7 @@ dawn = daǧhen (daǧhung)
 | *thought* | *thaǧht*   | [θɔ:t] | <!-- actually thoǧht -->
 |           |            | |
 
-#### -ed/-en
+#### -ed + -en
 
 | | | |
 |-|-|-|
@@ -1384,8 +1395,12 @@ dawn = daǧhen (daǧhung)
 | *sowed*   | *sõed*     | [soʊ̯d] |
 | *sowen*   | *sõen*     | [soʊ̯n] |
 |           |            | |
+| *swell*   | *swell*    | [swel] |
+| *swelled* | *swelled*  | [sweld] |
+| *swollen* | *swollen*  | [ˈswoʊ̯ən] | <!-- OK? --><!-- also swelled -->
+|           |            | |
 
-#### Auxiliary/Modal Verbs
+#### Without Past Participle
 <!-- Vowel change -->
 
 | | | |
@@ -1405,7 +1420,20 @@ dawn = daǧhen (daǧhung)
 
 ### Irregular Verbs
 
-<!-- to be -->
+<!-- am is -->
+
+| | |
+|-|-|
+| *am* | [æm] |
+| *is* | [ɪz] | <!-- not "iss"/"izz" -->
+
+| | | |
+|-|-|-|
+| *are*  | *ar*   | [ɑə̯] |
+| *be*   | *bē*   | [bi:] | <!-- actually bī -->
+| *been* | *bēen* | [bi:n] | <!-- actually bīen -->
+| *was*  | *was*  | [wɒz] | <!-- actually "wass" -->
+| *were* | *wær*  | [wɜ:] |
 
 | | | |
 |-|-|-|
@@ -1432,6 +1460,9 @@ dawn = daǧhen (daǧhung)
 |           |            | |
 | *stand*   | *stand*    | [stænd] |
 | *stood*   | *stǒd*     | [stʊd] |
+|           |            | |
+| *tell*    | *tell*     | [tel] |
+| *told*    | *tålde*    | [toʊ̯ld] |
 |           |            | |
 
 ## American
@@ -1464,14 +1495,5 @@ sõ = so
 <!-- lĕvel -->
 
 <!-- 
-stick stuck stuck
-sting stung stung
-stink stank stunk
-strike struck struck
-swell swelled swollen/swelled
-swim swam swum
-tell told told
-win won won
-wind wound wound
-write wrote written
+dawn = daǧhen (daǧhung)
  -->
