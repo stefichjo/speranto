@@ -810,6 +810,7 @@ Germanic *gh* is sometimes equivalent to *w* and written as *ugh*. *aught* and *
 | | | |
 |-|-|-|
 | *aware*     | *ğeware*     | [əˈwɛə̯] |
+| *finger*    | *finḡer*     | [ˈfɪŋgə] |
 | *frolic*    | *froğlik*    | [ˈfrɒlɪk] |
 | *yesterday* | *ġesterdagh* | [ˈjestədeɪ̯] |
 
@@ -817,7 +818,7 @@ Germanic *gh* is sometimes equivalent to *w* and written as *ugh*. *aught* and *
 |-|-|-|
 | *egg* | *eı* | [eg] |
 
-After *ȃ* [a], *ô* [ʌ] and *u* [ʌ] Germanic *gh* is pronounced [f].
+After *ȃ* [a] and *u* [ʌ] Germanic *gh* is pronounced [f].
 
 | | | |
 |-|-|-|
@@ -1521,8 +1522,11 @@ bē = be
 Ũ (ugh/...) = U
  -->
 
-<!-- climb
+<!--
+ƀ
 
+climb
 limb
-bomb -->
+bomb
+-->
 
