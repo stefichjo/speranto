@@ -104,12 +104,14 @@ Short *er* is pronounced [ɜ:].
 |-|-|
 | *herd* | [hɜ:d] |
 
-Short *er* [ɜ:] is often written like short *or* [ɜ:] or *ur* [ɜ:].
+Short *er* [ɜ:] is often written like [short *or*](#short-o) [ɜ:] or [short *ur*](#short-u) [ɜ:].
 
 | | | |
 |-|-|-|
-| *world* | *werld* | [wɜ:ld]
-| *worth* | *werth* | [wɜ:θ]
+| *word*  | *wørd*  | [wɜ:d] |
+| *world* | *werld* | [wɜ:ld] |
+| *work*  | *werk*  | [wɜ:k] | <!-- actually wørk -->
+| *worth* | *werth* | [wɜ:θ] |
 | | | |
 | *burn*  | *bern*  | [bɜ:n] |
 
@@ -171,6 +173,7 @@ After *qu* and *w*, short *a* is pronounced like short *o* [ɒ].
 |-|-|
 | *quantity* | [ˈkwɒntətɪ] |
 | *want*     | [wɒnt] |
+| *ward*     | [wɔə̯d] |
 | *swan*     | [swɒn] |
 
 Short *o* and short *i* become the diphthong *oi* [ɔɪ̯].
@@ -181,11 +184,7 @@ Short *o* and short *i* become the diphthong *oi* [ɔɪ̯].
 | *coin* | *coin* | [kɔɪ̯n] |
 | *toy*  | *toġ*  | [tɔɪ̯] |
 
-Short *or* is pronounced [ɜ:].
-
-| | |
-|-|-|
-| *word* | [wɜ:d] |
+There is no short *or* [ɜ:]. Instead, [diphthong *or*](#lengthened-o) [ɔə̯] is pronounced.
 
 #### Short u
 
@@ -438,7 +437,7 @@ Diphthong *i* [aɪ̯] is spelt with silent *e*.
 
 | | | |
 |-|-|-|
-| *try* | *tri* | [traɪ̯] |
+| *lice* | *lyse* | [laɪ̯s] |
 
 Words ending in -ld or -nd lack a silent *e*.
 
@@ -449,9 +448,14 @@ Words ending in -ld or -nd lack a silent *e*.
 | *wild*  | *wilde*  | [waɪ̯ld] |
 | | | |
 | *blind* | *blinde* | [blaɪ̯nd] |
-| *lice*  | *lyse*   | [laɪ̯s] |
 | *mind*  | *mynde*  | [maɪ̯nd] |
 | *mice*  | *myse*   | [maɪ̯s] |
+
+<!-- -i = -ĩ -->
+
+| | | |
+|-|-|-|
+| *try*  | *tri*  | [traɪ̯] |
 
 Many diphthong *i* [aɪ̯] come from *igh*.
 
@@ -537,15 +541,16 @@ In many cases, a diphthong *o* [oʊ̯] comes from a Germanic *ai*, *ou* or *u*.
 | *whole*  | *hæle*   | [hoʊ̯l] | <!-- wannabe hoal -->
 | | | |
 | *own*    | *æghen*  | [oʊ̯n] |
+
+Words ending in -ld lack a silent *e*.
+
 | | | |
+|-|-|-|
 | *bold*   | *bålde*  | [boʊ̯ld] |
 | *cold*   | *cålde*  | [koʊ̯ld] |
 | *fold*   | *fålde*  | [foʊ̯ld] |
-| *old*    | *ålde*   | [oʊ̯ld] |
-| | | |
 | *gold*   | *gůlde*  | [goʊ̯ld] |
-| | | |
-| *grow*   | *grõ*    | [groʊ̯] |
+| *old*    | *ålde*   | [oʊ̯ld] |
 
 At the end of one-syllable words, *o* is pronounced as a diphthong [oʊ̯].
 
@@ -572,7 +577,17 @@ When a long *or* [ɔə̯] comes from a short *er*, this is not reflected in the 
 | | |
 |-|-|
 | *war*   | [wɔə̯] | <!-- actually wȇr -->
-| *warp*  | [wɔ:p] | <!-- actually wȇrp -->
+| *warp*  | [wɔə̯p] | <!-- actually wȇrp -->
+
+Long *or* before consonant lacks a silent *e*, i.e. it is written like a [short *or*](#short-o).
+
+| | |
+|-|-|
+| *fork*  | [fɔə̯k] |
+| *lord*  | [lɔə̯d] |
+| *north* | [nɔə̯θ] |
+| *sort*  | [sɔə̯t] |
+| *short* | [ʃɔə̯t] |
 
 #### Lengthened u
 
@@ -642,7 +657,8 @@ Short *a* before *l* is pronounced [ɔ:] in Germanic words.
 
 | | | |
 |-|-|-|
-| *ballet* | *băllẽt* | [ˈbæleɪ̯] |
+| *ballet* | *băllẽt* | [ˈbæleɪ̯] | <!-- Once you know that the -e(t) is stressed, you don't need to mark the diphthongness. -->
+| *forte*  | *fortẽ*  | [ˈfɔ:teɪ̯] | <!-- forté ? --><!-- move to -e -->
 | *pal*    | *păl*    | [pæl] |
 | *valley* | *vălley* | [ˈvælɪ] |
 
@@ -1081,8 +1097,6 @@ Therefore, if the stem ends in *-t* and the stem vowel is short, the form of the
 |-|-|
 | *bet*      | [bet] |
 |            | |
-| *bid*      | [bɪd] | <!-- also bid bade bidden -->
-|            | |
 | *burst*    | [bɜ:st] |
 |            | |
 | *cȃst*     | [kast] |
@@ -1092,6 +1106,8 @@ Therefore, if the stem ends in *-t* and the stem vowel is short, the form of the
 | *cut*      | [kʌt] |
 |            | |
 | *fit*      | [fɪt] |
+|            | |
+| *hit*      | [hɪt] |
 |            | |
 | *hurt*     | [hɜ:t] |7
 |            | |
@@ -1444,7 +1460,7 @@ Diphthong *i* [aɪ̯] becomes short *i* [ɪ].
 
 | | | |
 |-|-|-|
-| *do*      | *dō*       | [du:] | <!-- does [dʌz] dus, actually dôs -->
+| *do*      | *dō*       | [du:] | <!-- does [dʌz] dus, actually dôs; dõn't -->
 | *did*     | *dyd*      | [dɪd] |
 | *done*    | *dun*      | [dʌn] | <!-- actually dôn -->
 |           |            | |
@@ -1499,3 +1515,5 @@ bē = be
 
 <!-- sĕven -->
 <!-- lĕvel -->
+
+<!-- byrth -->
