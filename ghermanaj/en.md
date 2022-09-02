@@ -866,9 +866,24 @@ Germanic *ghs* is pronounced [ks] and doesn't contain a silent *gh*.
 | *sword*  | *sw̌årde*  | [sɔ:d] |
 | *two*    | *tw̌ō*     | [tu:] |
 
-### Apendix
+### mb
 
-#### an-
+| | | |
+|-|-|-|
+| *bomb*  | *bomb*   | [bɒm] |
+| *climb* | *climbe* | [klaɪ̯m] |
+| *comb*  | *cåmbe*  | [koʊm] |
+| *dumb*  | *dumb*   | [dʌm] |
+| *lamb*  | *lamb*   | [læm] |
+| *tomb*  | *tōmb*   | [tu:m] |
+| | | |
+| *limb*  | *lim*    | [lɪm] |
+| *numb*  | *num*    | [nʌm] |
+| *thumb* | *thum*   | [θʌm] |
+
+## Apendix
+
+### an-
 
 | | | |
 |-|-|-|
@@ -878,7 +893,7 @@ Germanic *ghs* is pronounced [ks] and doesn't contain a silent *gh*.
 | *until*  | *untill*  | [ʌnˈtɪl] | <!-- actually ântill -->
 | *unto*   | *untō*    | [ʌnˈtu:] | <!-- actually ântō -->
 
-#### on-
+### on-
 
 The unstressed prefix *on-* becomes *a-*. <!-- actually ån̆- -->
 
@@ -944,7 +959,7 @@ Unrelated:
 |-|-|-|
 | *many* | *mæ̆ny* | [ˈmenɪ] | <!-- actually menny -->
 
-#### wh-, th-, h-, s-
+### wh-, th-, h-, s-
 
 | | | |
 |-|-|-|
@@ -974,7 +989,7 @@ Unrelated:
 | *which*  | *whiłch* | [hwɪtʃ] | <!-- actually whȯłch -->
 | *such*   | *sułch*  | [sʌtʃ] | <!-- un-actually sôłch -->
 
-##### Pronouns
+#### Pronouns
 
 | | | |
 |-|-|-|
@@ -1522,11 +1537,4 @@ bē = be
 Ũ (ugh/...) = U
  -->
 
-<!--
-ƀ
-
-climb
-limb
-bomb
--->
-
+<!-- number actually nômbre -->
