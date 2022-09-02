@@ -148,7 +148,8 @@ Short *ir* is pronounced [ɜ:].
 
 | | | |
 |-|-|-|
-| *stir* | *styr* | [stɜ:] |
+| *stir*  | *styr*  | [stɜ:] |
+| *birth* | *byrth* | [bɜ:θ]
 
 Short *ir* [ɜ:] is often written like short *ur* [ɜ:].
 
@@ -243,11 +244,12 @@ The silent *e* at the end of a word turns the short vowels *ă* [æ], *ĕ* [e], 
 | *groove* | *grōve*  | [gru:v] |
 | *move*   | *mōve*   | [mu:v] |
 | | | |
-| *dove*   | *duve*   | [dʌv] |
-| *glove*  | *gĕluve* | [glʌv] | <!-- actually gĕlôve -->
+| *dove*   | *dŭve*   | [dʌv] |
+| *glove*  | *gĕlŭve* | [glʌv] | <!-- actually gĕlôve -->
 | *live*   | *lĭve*   | [lɪv] |
-| *love*   | *luve*   | [lʌv] |
-| *shove*  | *shuve*  | [ʃʌv] |
+| *love*   | *lŭve*   | [lʌv] |
+| *seven*  | *sĕven*  | [ˈsevən] |
+| *shove*  | *shŭve*  | [ʃʌv] |
 | *wolves* | *wǔlves* | [wʊlvz] |
 
 #### Lengthened a
@@ -526,7 +528,7 @@ In many cases, a diphthong *o* [oʊ̯] comes from a Germanic *ai*, *ou* or *u*.
 
 | | | |
 |-|-|-|
-| *boar*   | *bære*   | [bɔə̯] |
+| *boar*   | *bær*    | [bɔə̯] |
 | *boat*   | *bæte*   | [boʊ̯t] |
 | *bone*   | *bæne*   | [boʊ̯n] | <!-- wannabe boan -->
 | *dole*   | *dæle*   | [doʊ̯l] | <!-- wannabe doal -->
@@ -535,7 +537,7 @@ In many cases, a diphthong *o* [oʊ̯] comes from a Germanic *ai*, *ou* or *u*.
 | *load*   | *læde*   | [loʊ̯d] |
 | *loaf*   | *læfe*   | [loʊ̯f] |
 | *loath*  | *læthe*  | [loʊ̯θ] |
-| *more*   | *mæ̃r*   | [mɔə̯] | <!-- wannabe moar -->
+| *more*   | *mær*    | [mɔə̯] | <!-- wannabe moar -->
 | *most*   | *mæ̃st*  | [moʊ̯st] <!-- wannabe moast -->
 | *soul*   | *sæle*   | [soʊ̯l] | <!-- actually sæwel --> <!-- wannabe soal -->
 | *stone*  | *stæne*  | [stoʊ̯n] | <!-- wannabe stoan -->
@@ -565,22 +567,13 @@ After *l* and *r*, *w* is pronounced like long *o* [oʊ̯].
 |-|-|-|
 | *yellow* | *ġelw* | [ˈjeloʊ̯] |
 
-Long *or* is pronounced [ʊə̯], whereas diphthong *or* is pronounced [ɔə̯].
+Long *or* is pronounced [ʊə̯], whereas diphthong *or* is pronounced [ɔə̯]. Diphthong *or* [ɔə̯] is written like a [short *or*](#short-o).
 
 | | | |
 |-|-|-|
 | *poor*  | *pōr*  | [pʊə̯] |
 | | | |
-| *pore*  | *pore* | [pɔə̯] |
-
-When a long *or* [ɔə̯] comes from a short *er*, this is not reflected in the spelling.
-
-| | |
-|-|-|
-| *war*   | [wɔə̯] | <!-- actually wȇr -->
-| *warp*  | [wɔə̯p] | <!-- actually wȇrp -->
-
-Long *or* before consonant lacks a silent *e*, i.e. it is written like a [short *or*](#short-o).
+| *pore*  | *por*  | [pɔə̯] |
 
 | | |
 |-|-|
@@ -588,6 +581,13 @@ Long *or* before consonant lacks a silent *e*, i.e. it is written like a [short 
 | *lord*  | [lɔə̯d] |
 | *north* | [nɔə̯θ] |
 | *short* | [ʃɔə̯t] |
+
+When a long *or* [ɔə̯] comes from a short *er*, this is not reflected in the spelling.
+
+| | |
+|-|-|
+| *war*   | [wɔə̯] | <!-- actually wȇr -->
+| *warp*  | [wɔə̯p] | <!-- actually wȇrp -->
 
 #### Lengthened u
 
@@ -888,18 +888,19 @@ The unstressed prefix *on-* becomes *a-*. <!-- actually ån̆- -->
 | *about*   | *abũt*    | [əˈbɑʊ̯t] |
 | *above*   | *abuve*   | [əˈbʌv] |
 | *afloat*  | *aflote*  | [əˈfloʊ̯t] |
-| *afore*   | *afore*   | [əˈfɔə̯] |
+| *afore*   | *afor*    | [əˈfɔə̯] |
 | *afoot*   | *afǒt*    | [əˈfʊt] |
 | *afresh*  | *afresh*  | [əˈfreʃ] | <!-- actually ån̆frïsh -->
 | *again*   | *agen*    | [əˈgen] | <!-- also: *ån̆geghen* [əˈgeɪ̯n] -->
 | *alike*   | *alike*   | [əˈlaɪ̯k] |
 | *alive*   | *alive*   | [əˈlaɪ̯v] |
 | *aloud*   | *alũd*    | [əˈlɑʊ̯d] |
+| *amain*   | *amaghen* | [əˈmeɪ̯n] |
 | *amid*    | *amid*    | [əˈmɪd] |
 | *among*   | *amung*   | [əˈmʌŋ] | <!-- actually amâng -->
 | *anew*    | *anỹ*     | [əˈnju:] |
 | *around*  | *arũnd*   | [əˈrɑʊ̯nd] |
-| *ashore*  | *ashore*  | [əˈʃɔə̯] |
+| *ashore*  | *ashor*   | [əˈʃɔə̯] |
 | *aside*   | *aside*   | [əˈsaɪ̯d] |
 | *asleep*  | *aslǣp*   | [əˈsli:p] |
 | *away*    | *awegh*   | [əˈweɪ̯] |
@@ -1215,7 +1216,7 @@ In some verbs, the vowel of the past has merged to the vowel of the past partici
 | | | |
 |-|-|-|
 | *bear*    | *bare*     | [bɛə̯] | <!-- actually bẽr -->
-| *bore*    | *bore*     | [bɔə̯] |
+| *bore*    | *bor*      | [bɔə̯] |
 | *born*    | *boren*    | [bɔə̯n] |
 |           |            | |
 | *bite*    | *bite*     | [baɪ̯t] |
@@ -1251,11 +1252,11 @@ In some verbs, the vowel of the past has merged to the vowel of the past partici
 | *stolen*  | *stælen*   | [ˈstoʊ̯lən] |
 |           |            | |
 | *swear*   | *sware*    | [swɛə̯] | <!-- actually swẽr -->
-| *swore*   | *swore*    | [swɔə̯] |
+| *swore*   | *swor*     | [swɔə̯] |
 | *sworn*   | *sworen*   | [swɔə̯n] |
 |           |            | |
 | *tear*    | *tare*     | [tɛə̯] | <!-- actually tẽr -->
-| *tore*    | *tore*     | [tɔə̯] |
+| *tore*    | *tor*      | [tɔə̯] |
 | *torn*    | *toren*    | [tɔə̯n] |
 |           |            | |
 | *wake*    | *wake*     | [weɪ̯k] | <!-- also awake -->
@@ -1263,7 +1264,7 @@ In some verbs, the vowel of the past has merged to the vowel of the past partici
 | *woken*   | *woken*    | [ˈwoʊ̯kən] |
 |           |            | |
 | *wear*    | *ware*     | [wɛə̯] | <!-- actually wẽr -->
-| *wore*    | *wore*     | [wɔə̯] |
+| *wore*    | *wor*      | [wɔə̯] |
 | *worn*    | *woren*    | [wɔə̯n] |
 
 | | | |
@@ -1520,7 +1521,8 @@ bē = be
 Ũ (ugh/...) = U
  -->
 
-<!-- sĕven -->
-<!-- lĕvel -->
+<!-- climb
 
-<!-- byrth -->
+limb
+bomb -->
+
