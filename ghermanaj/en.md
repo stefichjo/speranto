@@ -1,4 +1,4 @@
-# Inglish Orthography
+# Inḡlish Orthography
 
 ## Vowels
 
@@ -193,7 +193,6 @@ Some short *u* [ʊ] comes from [long *o*](#lengthened-o).
 | | | |
 |-|-|-|
 | *book*  | *bǒk*   | [bʊk] |
-| *foot*  | *fǒt*   | [fʊt] |
 | *look*  | *lǒk*   | [lʊk] |
 
 Short *o* and *u* are often pronounced [ʌ] instead of [ʊ].
@@ -365,6 +364,7 @@ In many cases, a long *e* [i:] comes from a Germanic *au*, *o*, as well as *ai*,
 | *street*  | *strǣt*   | [stri:t] |
 | *weak*    | *wæk*     | [wi:k] |
 | | | |
+| *beam*    | *bø̄m*    | [bi:m] |
 | *bean*    | *bø̄n*    | [bi:n] |
 | *believe* | *belø̄ve* | [bɪˈli:v] |
 | *beseech* | *besø̄ch* | [bɪˈsi:tʃ] |
@@ -373,6 +373,7 @@ In many cases, a long *e* [i:] comes from a Germanic *au*, *o*, as well as *ai*,
 | *leaf*    | *løf*     | [li:f] |
 | *need*    | *nø̄d*    | [ni:d] |
 | *sweet*   | *swø̄t*   | [swi:t] |
+| *team*    | *tø̄m*    | [ti:m] |
 | | | |
 | *breach*  | *brȳch*   | [bri:tʃ] |
 | *deep*    | *dȳp*     | [di:p] |
@@ -586,7 +587,6 @@ Long *or* before consonant lacks a silent *e*, i.e. it is written like a [short 
 | *fork*  | [fɔə̯k] |
 | *lord*  | [lɔə̯d] |
 | *north* | [nɔə̯θ] |
-| *sort*  | [sɔə̯t] |
 | *short* | [ʃɔə̯t] |
 
 #### Lengthened u
@@ -885,9 +885,11 @@ The unstressed prefix *on-* becomes *a-*. <!-- actually ån̆- -->
 |-|-|-|
 | *aback*   | *aback*   | [əˈbæk] |
 | *aboard*  | *abord*   | [əˈbɔ:d] |
+| *about*   | *abũt*    | [əˈbɑʊ̯t] |
 | *above*   | *abuve*   | [əˈbʌv] |
 | *afloat*  | *aflote*  | [əˈfloʊ̯t] |
 | *afore*   | *afore*   | [əˈfɔə̯] |
+| *afoot*   | *afǒt*    | [əˈfʊt] |
 | *afresh*  | *afresh*  | [əˈfreʃ] | <!-- actually ån̆frïsh -->
 | *again*   | *agen*    | [əˈgen] | <!-- also: *ån̆geghen* [əˈgeɪ̯n] -->
 | *alike*   | *alike*   | [əˈlaɪ̯k] |
@@ -896,8 +898,10 @@ The unstressed prefix *on-* becomes *a-*. <!-- actually ån̆- -->
 | *amid*    | *amid*    | [əˈmɪd] |
 | *among*   | *amung*   | [əˈmʌŋ] | <!-- actually amâng -->
 | *anew*    | *anỹ*     | [əˈnju:] |
+| *around*  | *arũnd*   | [əˈrɑʊ̯nd] |
 | *ashore*  | *ashore*  | [əˈʃɔə̯] |
 | *aside*   | *aside*   | [əˈsaɪ̯d] |
+| *asleep*  | *aslǣp*   | [əˈsli:p] |
 | *away*    | *awegh*   | [əˈweɪ̯] |
 | *awhirl*  | *awhirl*  | [əˈhwɜ:l] |
 
@@ -1055,6 +1059,9 @@ The following verbs are irregular, because their stem vowel is shortened (typica
 | *sweep*   | *swǣp*     | [swi:p] |
 | *swept*   | *swæpt*    | [swept] |
 |           |            | |
+| *sleep*   | *slǣp*     | [sli:p] |
+| *slept*   | *slæpt*    | [slept] |
+|           |            | |
 | *weep*    | *wø̄p*     | [wi:p] |
 | *wept*    | *wøpt*     | [wept] |
 
@@ -1119,7 +1126,7 @@ Therefore, if the stem ends in *-t* and the stem vowel is short, the form of the
 |            | |
 | *split*    | [splɪt] |
 |            | |
-| *spræd*    | [spred] |
+| *spræd*    | [spred] | <!-- irregular because of -d? (spræd, spræt, spræt) -->
 
 If the stem ends in *-d*, it doesn't become voicess *-t*, ...
 
