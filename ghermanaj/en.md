@@ -76,20 +76,22 @@ Many short *e* [e] come from Germanic *æ*, *ai* or *au*, and even *eu*.
 
 | | | |
 |-|-|-|
-| *breath*  | *bræth*   | [breθ] |
+| *breath*  | *bræth*   | [breθ] | <!-- wannabe breth -->
 | *drench*  | *drænch*  | [drentʃ] |
-| *health*  | *hælth*   | [helθ] |
+| *health*  | *hælth*   | [helθ] | <!-- wannabe helth -->
 | *length*  | *længth*  | [leŋθ] |
 | *less*    | *læss*    | [les] |
 | *men*     | *mæn*     | [men] |
 | *mesh*    | *mæsh*    | [meʃ] |
-| *stealth* | *stælth*  | [stelθ] |
+| *stealth* | *stælth*  | [stelθ] | <!-- wannabe stelth -->
+| *sweat*   | *swæt*    | [swet] | <!-- wannabe swet -->
 | | |
-| *bread*   | *brød*    | [bred] |
+| *bread*   | *brød*    | [bred] | <!-- wannabe bred -->
+| *deaf*    | *døf*     | [def] |
 | *red*     | *rød*     | [red] |
 | | |
 | *depth*   | *dÿpth*   | [deptθ] |
-| *friend*  | *frÿnd*   | [frend] |
+| *friend*  | *frÿnd*   | [frend] | <!-- wannabe frend -->
 | *theft*   | *thÿft*   | [θeft] |
 
 When a short *e* [e] comes from a short *i*, this is not reflected in the spelling.
@@ -108,7 +110,7 @@ Short *er* [ɜ:] is often written like [short *or*](#short-o) [ɜ:] or [short *u
 
 | | | |
 |-|-|-|
-| *word*  | *wørd*  | [wɜ:d] |
+| *word*  | *wørd*  | [wɜ:d] | <!-- wannabe werd -->
 | *world* | *werld* | [wɜ:ld] |
 | *work*  | *werk*  | [wɜ:k] | <!-- actually wørk -->
 | *worth* | *werth* | [wɜ:θ] |
@@ -138,7 +140,7 @@ When a short *i* [ɪ] comes from a short *a*, this is not reflected in the spell
 | | | |
 |-|-|-|
 | *mister*  | *mister*  | [ˈmɪstə] | <!-- actually mȧster >
-| *english* | *inglish* | [ˈɪŋglɪʃ] | <!-- actually ȧnglish -->
+| *english* | *inḡlish* | [ˈɪŋglɪʃ] | <!-- actually ȧnglish -->
 
 Short *ir* is pronounced [ɜ:].
 
@@ -269,6 +271,7 @@ At the end of one-syllable words, *a* is pronounced as a long [ɑ:].
 | | |
 |-|-|
 | *ma* | [mɑ:] |
+| *pa* | [pɑ:] |
 
 Diphthong *a* [eɪ̯] is written with a silent *e*.
 
@@ -360,29 +363,42 @@ In many cases, a long *e* [i:] comes from a Germanic *au*, *o*, as well as *ai*,
 | *breathe* | *brǣth*   | [bri:θ] ]
 | *heal*    | *hæl*     | [hi:l] |
 | *seat*    | *sǣt*     | [si:t] |
-| *sheep*   | *shǣp*    | [ʃi:p] |
-| *speech*  | *spǣch*   | [spi:tʃ] |
+| *sheep*   | *shǣp*    | [ʃi:p] | <!-- wannabe sheap -->
+| *speech*  | *spǣch*   | [spi:tʃ] | <!-- wannabe speach -->
 | *steal*   | *stæl*    | [sti:l] |
-| *street*  | *strǣt*   | [stri:t] |
+| *street*  | *strǣt*   | [stri:t] | <!-- wannabe streat -->
 | *weak*    | *wæk*     | [wi:k] |
 | | | |
 | *beam*    | *bø̄m*    | [bi:m] |
 | *bean*    | *bø̄n*    | [bi:n] |
-| *believe* | *belø̄ve* | [bɪˈli:v] |
-| *beseech* | *besø̄ch* | [bɪˈsi:tʃ] |
-| *feet*    | *fø̄t*    | [fi:t] |
-| *greet*   | *grø̄t*   | [gri:t] |
+| *believe* | *belø̄ve* | [bɪˈli:v] | <!-- wannabe beleave -->
+| *beseech* | *besø̄ch* | [bɪˈsi:tʃ] | <!-- wannabe beseach -->
+| *feet*    | *fø̄t*    | [fi:t] | <!-- wannabe feat -->
+| *flea*    | *flø̄*    | [fli:] |
+| *greet*   | *grø̄t*   | [gri:t] | <!-- wannabe great -->
 | *leaf*    | *løf*     | [li:f] |
-| *need*    | *nø̄d*    | [ni:d] |
-| *sweet*   | *swø̄t*   | [swi:t] |
+| *need*    | *nø̄d*    | [ni:d] | <!-- wannabe nead -->
+| *sweet*   | *swø̄t*   | [swi:t] | <!-- wannabe sweat -->
 | *team*    | *tø̄m*    | [ti:m] |
 | | | |
 | *breach*  | *brȳch*   | [bri:tʃ] |
-| *deep*    | *dȳp*     | [di:p] |
+| *deep*    | *dȳp*     | [di:p] | <!-- wannabe sweat -->
 | *dear*    | *dȳr*     | [dɪə̯] |
-| *fleet*   | *flȳt*    | [fli:t] |
-| *meek*    | *myk*     | [mi:k] |
-| *thief*   | *thyf*    | [θi:f] |
+| *fleet*   | *flȳt*    | [fli:t] | <!-- wannabe fleat -->
+| *meek*    | *myk*     | [mi:k] | <!-- wannabe meak -->
+| *thief*   | *thyf*    | [θi:f] | <!-- wannabe theaf -->
+
+At the end of one-syllable words, *e* is pronounced as a long [i:].
+
+| | |
+|-|-|
+| *me*  | [mi:] |
+| *the* | [ði:] |
+
+| | | |
+|-|-|-|
+| *bee*    | *bee*   | [bi:] | <!-- actually bī -->
+| *sea*    | *see*   | [si:] | <!-- actually sǣ -->
 
 After long *e* [i:], *gh* is silent.
 
@@ -418,7 +434,6 @@ Long *i* [i:] is spelt like long *e*.
 |-|-|-|
 | *beetle*  | *betel*   | [ˈbi:tl̩] | <!-- actually bitel -->
 | *free*    | *frē*     | [fri:] | <!-- actually frī -->
-| *me*      | *mē*      | [mi:] | <!-- actually mī -->
 | *tree*    | *trȳ*     | [tri:] |
 | *week*    | *wek*     | [wi:k] | <!-- actually wik -->
 | | | |
@@ -454,10 +469,11 @@ Words ending in -ld or -nd lack a silent *e*.
 | *mind*  | *mynde*  | [maɪ̯nd] |
 | *mice*  | *myse*   | [maɪ̯s] |
 
-<!-- -i = -ĩ -->
+At the end of one-syllable words, *i* is pronounced as a diphthong [aɪ̯].
 
 | | | |
 |-|-|-|
+| *by*   | *bi*   | [baɪ̯] |
 | *try*  | *tri*  | [traɪ̯] |
 
 Many diphthong *i* [aɪ̯] come from *igh*.
@@ -590,6 +606,12 @@ When a long *or* [ɔə̯] comes from a short *er*, this is not reflected in the 
 | *warp*  | [wɔə̯p] | <!-- actually wȇrp -->
 
 #### Lengthened u
+
+At the end of one-syllable words, *u* is pronounced as a diphthong [ju:].
+
+| | |
+|-|-|
+| *mu* | [mju:] |
 
 The diphthong *u* [ɑʊ̯] is often written *ou* without a silent *e*.
 
@@ -778,6 +800,10 @@ Germanic *gh* is sometimes equivalent to *w* and written as *ugh*. *aught* and *
 |-|-|
 | *knight* | [naɪ̯t] |
 
+| | | |
+|-|-|-|
+| *knee* | *knȳ* | [ni:] |
+
 | | |
 |-|-|
 | *thick* | [θɪk] |
@@ -899,28 +925,30 @@ The unstressed prefix *on-* becomes *a-*. <!-- actually ån̆- -->
 
 | | | |
 |-|-|-|
-| *aback*   | *aback*   | [əˈbæk] |
-| *aboard*  | *abord*   | [əˈbɔ:d] |
-| *about*   | *abũt*    | [əˈbɑʊ̯t] |
-| *above*   | *abuve*   | [əˈbʌv] |
-| *afloat*  | *aflote*  | [əˈfloʊ̯t] |
-| *afore*   | *afor*    | [əˈfɔə̯] |
-| *afoot*   | *afǒt*    | [əˈfʊt] |
-| *afresh*  | *afresh*  | [əˈfreʃ] | <!-- actually ån̆frïsh -->
-| *again*   | *agen*    | [əˈgen] | <!-- also: *ån̆geghen* [əˈgeɪ̯n] -->
-| *alike*   | *alike*   | [əˈlaɪ̯k] |
-| *alive*   | *alive*   | [əˈlaɪ̯v] |
-| *aloud*   | *alũd*    | [əˈlɑʊ̯d] |
-| *amain*   | *amaghen* | [əˈmeɪ̯n] |
-| *amid*    | *amid*    | [əˈmɪd] |
-| *among*   | *amung*   | [əˈmʌŋ] | <!-- actually amâng -->
-| *anew*    | *anỹ*     | [əˈnju:] |
-| *around*  | *arũnd*   | [əˈrɑʊ̯nd] |
-| *ashore*  | *ashor*   | [əˈʃɔə̯] |
-| *aside*   | *aside*   | [əˈsaɪ̯d] |
-| *asleep*  | *aslǣp*   | [əˈsli:p] |
-| *away*    | *awegh*   | [əˈweɪ̯] |
-| *awhirl*  | *awhirl*  | [əˈhwɜ:l] |
+| *aback*    | *aback*   | [əˈbæk] |
+| *aboard*   | *abord*   | [əˈbɔ:d] |
+| *about*    | *abũt*    | [əˈbɑʊ̯t] |
+| *above*    | *abuve*   | [əˈbʌv] |
+| *afloat*   | *aflote*  | [əˈfloʊ̯t] |
+| *afore*    | *afor*    | [əˈfɔə̯] |
+| *afoot*    | *afǒt*    | [əˈfʊt] |
+| *afresh*   | *afresh*  | [əˈfreʃ] | <!-- actually ån̆frïsh -->
+| *again*    | *agen*    | [əˈgen] | <!-- also: *ån̆geghen* [əˈgeɪ̯n] -->
+| *alee*     | *alȳ*     | [əˈli:] |
+| *alike*    | *alike*   | [əˈlaɪ̯k] |
+| *alive*    | *alive*   | [əˈlaɪ̯v] |
+| *aloud*    | *alũd*    | [əˈlɑʊ̯d] |
+| *amain*    | *amaghen* | [əˈmeɪ̯n] |
+| *amid*     | *amid*    | [əˈmɪd] |
+| *among*    | *amung*   | [əˈmʌŋ] | <!-- actually amâng -->
+| *anew*     | *anỹ*     | [əˈnju:] |
+| *around*   | *arũnd*   | [əˈrɑʊ̯nd] |
+| *ashore*   | *ashor*   | [əˈʃɔə̯] |
+| *aside*    | *aside*   | [əˈsaɪ̯d] |
+| *asleep*   | *aslǣp*   | [əˈsli:p] |
+| *away*     | *awegh*   | [əˈweɪ̯] |
+| *aweather* | *awether* | [əˈweðə] |
+| *awhirl*   | *awhirl*  | [əˈhwɜ:l] |
 
 ### all-
 
@@ -982,7 +1010,7 @@ Unrelated:
 | *than*   | *than*   | [ðæn] |
 | | | |
 | *how*    | *whũ*    | [hɑʊ̯] | <!-- actually w̌hũ -->
-| *why*    | *whĩ*    | [hwaɪ̯] |
+| *why*    | *whi*    | [hwaɪ̯] |
 | *so*     | *so*     | [soʊ̯] |
 | *as*     | *ałs*    | [æz] |
 | | | |
@@ -1049,8 +1077,11 @@ The following verbs are irregular, because their stem vowel is shortened (typica
 | *dream*   | *drø̄m*    | [dri:m] |
 | *dreamt*  | *drømt*    | [dremt] |
 |           |            | |
-| *feel*    | *føl*      | [fi:t] |
+| *feel*    | *føl*      | [fi:l] |
 | *felt*    | *følt*     | [felt] |
+|           |            | |
+| *flee*    | *flee*     | [fli:] |
+| *fled*    | *fled*     | [fled] |
 |           |            | |
 | *hear*    | *hø̄r*     | [hɪə̯] |
 | *heard*   | *hørd*     | [hɜ:d] |
@@ -1160,6 +1191,9 @@ If the stem ends in *-d*, it doesn't become voicess *-t*, ...
 |           |            | |
 | *lead*    | *lǣd*      | [li:d] |
 | *led*     | *læd*      | [led] |
+|           |            | |
+| *plead*   | *plēd*     | [pli:d] | <!-- actually plede -->
+| *pled*    | *pled*     | [pled] |
 |           |            | |
 | *read*    | *rēd*      | [ri:d] | <!-- actually rede -->
 | *read*    | *red*      | [red] |
@@ -1531,10 +1565,6 @@ In American English, *u* [ʌ] before *r* plus vowel is pronounced like short vow
 |-|-|-|
 | *hurry* | [ˈhʌrɪ] | [ˈhʌri] → [ˈhɜ:ri] |
 
-<!-- 
-bē = be
-Ĩ (igh) = I
-Ũ (ugh/...) = U
- -->
+<!-- number numbre actually nômbre -->
 
-<!-- number actually nômbre -->
+<!-- weak forms -->
