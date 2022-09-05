@@ -193,13 +193,34 @@ There is no short *or* [ɜ:]. Instead, [diphthong *or*](#lengthened-o) [ɔə̯] 
 
 Some short *u* [ʊ] comes from [long *o*](#lengthened-o).
 
+<!-- -d, -k -->
+
 | | | | |
 |-|-|-|-|
-| *book* | [bʊk] | *bǒk* | *bǒok* |
-| *cook* | [kʊk] | *cǒk* | *cǒok* |
-| *foot* | [fʊt] | *fǒt* | *fǒot* |
-| *good* | [gʊd] | *gǒd* | *gǒod* |
-| *look* | [lʊk] | *lǒk* | *lǒok* |
+| *good*  | [gʊd]   | *gǒd*  | *good* |
+| *hood*  | [hʊd]   | *hǒd*  | *hood* |
+| *wood*  | [wʊd]   | *wǔd*  | *wood* |
+| | | | |
+| *food*  | [fu:d]  | *fōd*  | *foode* |
+| *mood*  | [mu:d]  | *mōd*  | *moode* |
+| | | | |
+| *book*  | [bʊk]   | *bǒk*  | *book* |
+| *cook*  | [kʊk]   | *cǒk*  | *cook* |
+| *hook*  | [hʊk]   | *hǒk*  | *hook* |
+| *look*  | [lʊk]   | *lǒk*  | *look* |
+| *nook*  | [nʊk]   | *nǒk*  | *nook* |
+| *rook*  | [rʊk]   | *rǒk*  | *rook* |
+| | | | |
+| *spook* | [spu:k] | *spok* | *spooke* |
+
+| | | | |
+|-|-|-|-|
+| *wool*  | [wʊl]   | *wǔll* | *wull* |
+| | | | |
+| *foot*  | [fʊt]   | *fǒt*  | *fut* |
+| *soot*  | [sʊt]   | *sǒt*  | *sut* |
+
+<!-- wound [wu:nd] woond -->
 
 Short *o* and *u* are often pronounced [ʌ] instead of [ʊ].
 
@@ -1587,3 +1608,4 @@ In American English, *u* [ʌ] before *r* plus vowel is pronounced like short vow
 
 <!-- m̩n̩l̩ -->
 <!-- -le -->
+
