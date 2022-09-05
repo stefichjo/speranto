@@ -1430,23 +1430,27 @@ Diphthong *i* [aɪ̯] becomes short *i* [ɪ].
 
 | | | |
 |-|-|-|
-| *drive*   | *drive*    | [draɪ̯v]   |
-| *drove*   | *drove*    | [droʊ̯v]   |
-| *driven*  | *drĭven*   | [ˈdrɪvən] |
-|           |            | |
-| *rise*    | *rise*     | [raɪ̯z]    | <!-- also arise -->
-| *rose*    | *rose*     | [roʊ̯z]    | <!-- actually ari̊se -->
-| *risen*   | *rĭsen*    | [ˈrɪzən]  |
-|           |            | |
-| *write*   | *write*    | [raɪ̯t] |
-| *wrote*   | *wråte*    | [roʊt] |
-| *written* | *written*  | [ˈrɪtən] |
+| *drive*   | [draɪ̯v]   | *drive*    |
+| *drove*   | [droʊ̯v]   | *dråve*    |
+| *driven*  | [ˈdrɪvən] | *drĭven*   |
+|           |           |            |
+| *ride*    | [raɪ̯d]    | *ride*     |
+| *rode*    | [roʊ̯d]    | *råde*     |
+| *ridden*  | [ˈrɪdən]  | *ridden*   |
+|           |           |            |
+| *rise*    | [raɪ̯z]    | *rise*     | <!-- also arise -->
+| *rose*    | [roʊ̯z]    | *råse*     | <!-- actually ari̊se -->
+| *risen*   | [ˈrɪzən]  | *rĭsen*    |
+|           |           |            |
+| *write*   | [raɪ̯t]    | *write*    |
+| *wrote*   | [roʊt]    | *wråte*    |
+| *written* | [ˈrɪtən]  | *written*  |
 
 | | | |
 |-|-|-|
-| *come*    | *cum*      | [kʌm] | <!-- also bēcum -->
-| *came*    | *came*     | [keɪ̯m] |
-| *come*    | *cum*      | [kʌm] |
+| *come*    | [kʌm]  | *cum*      | <!-- also bēcum -->
+| *came*    | [keɪ̯m] | *came*     |
+| *come*    | [kʌm]  | *cum*      |
 
 ### Mixed Verbs
 
