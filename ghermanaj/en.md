@@ -79,6 +79,7 @@ Many short *e* [e] come from Germanic *æ*, *ai* or *au*, and even *eu*.
 | *breath*  | [breθ]   | *bræth*   | *breth* |
 | *drench*  | [drentʃ] | *drænch*  | |
 | *health*  | [helθ]   | *hælth*   | *helth* |
+| *head*    | [hed]    | *hæd*     | *hed* |
 | *length*  | [leŋθ]   | *længth*  | |
 | *less*    | [les]    | *læss*    | |
 | *men*     | [men]    | *mæn*     | |
@@ -191,43 +192,51 @@ There is no short *or* [ɜ:]. Instead, [diphthong *or*](#lengthened-o) [ɔə̯] 
 
 #### Short u
 
-Some short *u* [ʊ] comes from [long *o*](#lengthened-o).
+Most short *u* [ʊ] are pronounced [ʌ]. Words that retain a proper short *u* [ʊ] are the exception.
 
-<!-- -d, -k -->
+| | | |
+|-|-|-|
+| *pull* | [pʊl] | *pǔll* |
+| *push* | [pʊʃ] | *pǔsh* |
+| *put*  | [pʊt] | *pǔt*  |
 
-| | | | |
-|-|-|-|-|
-| *good*  | [gʊd]   | *gǒd*  | *good* |
-| *hood*  | [hʊd]   | *hǒd*  | *hood* |
-| *wood*  | [wʊd]   | *wǔd*  | *wood* |
-| | | | |
-| *food*  | [fu:d]  | *fōd*  | *foode* |
-| *mood*  | [mu:d]  | *mōd*  | *moode* |
-| | | | |
-| *book*  | [bʊk]   | *bǒk*  | *book* |
-| *cook*  | [kʊk]   | *cǒk*  | *cook* |
-| *hook*  | [hʊk]   | *hǒk*  | *hook* |
-| *look*  | [lʊk]   | *lǒk*  | *look* |
-| *nook*  | [nʊk]   | *nǒk*  | *nook* |
-| *rook*  | [rʊk]   | *rǒk*  | *rook* |
-| | | | |
-| *spook* | [spu:k] | *spok* | *spooke* |
+Some short *u* [ʊ] are written like [long *o*](#lengthened-o), most commonly those ending in *ood* and *ook*.
 
 | | | | |
 |-|-|-|-|
-| *wool*  | [wʊl]   | *wǔll* | *wull* |
+| *book*  | [bʊk]   | *bǒk*  | *buk* `?` |
+| *cook*  | [kʊk]   | *cǒk*  | *cuk* `?` |
+| *hook*  | [hʊk]   | *hǒk*  | *huk* `?` |
+| *look*  | [lʊk]   | *lǒk*  | *luk* `?` |
+| *nook*  | [nʊk]   | *nǒk*  | *nuk* `?` |
+| *rook*  | [rʊk]   | *rǒk*  | *ruk* `?` |
 | | | | |
-| *foot*  | [fʊt]   | *fǒt*  | *fut* |
-| *soot*  | [sʊt]   | *sǒt*  | *sut* |
+| *spook* | [spu:k] | *spok* | |
 
-<!-- wound [wu:nd] woond -->
+| | | | |
+|-|-|-|-|
+| *good*  | [gʊd]   | *gǒd*  | *gud*   |
+| *hood*  | [hʊd]   | *hǒd*  | *hud*   |
+| *wood*  | [wʊd]   | *wǔd*  | *wud*   |
+| | | | |
+| *food*  | [fu:d]  | *fōd*  | |
+| *mood*  | [mu:d]  | *mōd*  | |
+| | | | |
+| *wool*  | [wʊl]   | *wǔll* | *wull*  |
+| | | | |
+| *cool*  | [ku:l]  | *cōl*  | |
+| | | | |
+| *foot*  | [fʊt]   | *fǒt*  | *fut*   |
+| *soot*  | [sʊt]   | *sǒt*  | *sut*   |
+| | | | |
+| *boot*  | [bu:t]  | *bōt*  | |
 
-Short *o* and *u* are often pronounced [ʌ] instead of [ʊ].
+Short *o* and *u* are often pronounced [ʌ] instead of [ʊ]. (Many short *u* are written as *o*.)
 
-| | |
-|-|-|
-| *sôn* | [sʌn] | <!-- actually sun --><!-- sunn? :( -->
-| *sun* | [sʌn] |
+| | | |
+|-|-|-|
+| *son* | [sʌn] | *sôn* | <!-- actually sun -->
+| *sun* | [sʌn] | |
 
 | | | | |
 |-|-|-|-|
@@ -863,13 +872,13 @@ Germanic *gh* is sometimes equivalent to *w* and written as *ugh*. *aught* and *
 | *aware*     | [əˈwɛə̯]     | *ğeware*     |
 | *finger*    | [ˈfɪŋgə]    | *finḡer*     |
 | *frolic*    | [ˈfrɒlɪk]   | *froğlik*    |
-| *grey*      | [greɪ̯]      | *græġ*       |
+| *grey*      | [greɪ̯]      | *gregh*      |
 | *stirrup*   | [ˈstɪrəp]   | *stiğrop*    |
 | *yesterday* | [ˈjestədeɪ̯] | *ġesterdagh* |
 
-| | | |
-|-|-|-|
-| *egg* | [eg] | *eı* |
+| | | | |
+|-|-|-|-|
+| *egg* | [eg] | *eı* | *eg* |
 
 After *ȃ* [a] and *u* [ʌ] Germanic *gh* is pronounced [f].
 
