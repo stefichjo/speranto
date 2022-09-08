@@ -374,9 +374,6 @@ Long *ar* [ɑə̯] is always spelt as a short *a*.
 
 #### Lengthened e
 <!-- 
-ē: e + e
-ǣ: ea
-ø̄: ee
 ȳ: ie → e + e
 ī: ie → e + e
  -->
@@ -385,7 +382,6 @@ Long *e* [i:] with silent *e* is the preferred spelling in loan words.
 | | |
 |-|-|
 | *concrete* | [ˈkɒŋkri:t] |
-
 
 Long *e* [i:] is also spelt *ea* or *ee*, and sometimes *ie*.
 
@@ -414,24 +410,24 @@ In many cases, a long *e* [i:] comes from a Germanic *au*, *o*, as well as *ai*,
 | *street*  | [stri:t]   | *stræte*  | *streat* |
 | *weak*    | [wi:k]     | *wæke*    | |
 | | | | |
-| *beam*    | [bi:m]     | *bø̄m*    | |
-| *bean*    | [bi:n]     | *bø̄n*    | |
-| *believe* | [bɪˈli:v]  | *belø̄ve* | *beleave* |
-| *beseech* | [bɪˈsi:tʃ] | *besø̄ch* | *beseach* |
-| *feet*    | [fi:t]     | *fø̄t*    | *feat* |
-| *flea*    | [fli:]     | *flø̄*    | |
-| *greet*   | [gri:t]    | *grø̄t*   | *great* |
-| *leaf*    | [li:f]     | *løf*     | |
-| *need*    | [ni:d]     | *nø̄d*    | *nead* |
-| *sweet*   | [swi:t]    | *swø̄t*   | *sweat* |
-| *team*    | [ti:m]     | *tø̄m*    | |
+| *beam*    | [bi:m]     | *bøme*    | *beem* |
+| *bean*    | [bi:n]     | *bøne*    | *been* |
+| *believe* | [bɪˈli:v]  | *beløve*  | *beleeve* |
+| *beseech* | [bɪˈsi:tʃ] | *besøche* | |
+| *feet*    | [fi:t]     | *føte*    | |
+| *flea*    | [fli:]     | *fløe*    | *flee* |
+| *greet*   | [gri:t]    | *grøte*   | |
+| *leaf*    | [li:f]     | *løfe*    | *leef* |
+| *need*    | [ni:d]     | *nøde*    | |
+| *sweet*   | [swi:t]    | *swøte*   | |
+| *team*    | [ti:m]     | *tøme*    | *teem* |
 | | | | |
-| *breach*  | [bri:tʃ]   | *brȳch*   | |
-| *deep*    | [di:p]     | *dȳp*     | *deap* |
-| *dear*    | [dɪə̯]      | *dȳr*     | |
-| *fleet*   | [fli:t]    | *flȳt*    | *fleat* |
-| *meek*    | [mi:k]     | *myk*     | *meak* |
-| *thief*   | [θi:f]     | *thyf*    | *theaf* |
+| *breach*  | [bri:tʃ]   | *brȳch*   | *briech* |
+| *dear*    | [dɪə̯]      | *dȳr*     | *dier* |
+| *deep*    | [di:p]     | *dȳp*     | *diep* |
+| *fleet*   | [fli:t]    | *flȳt*    | *fliet* |
+| *meek*    | [mi:k]     | *myk*     | *miek* |
+| *thief*   | [θi:f]     | *thyf*    | |
 
 At the end of one-syllable words, *e* is pronounced as a long [i:].
 
@@ -463,7 +459,7 @@ Long *er* is pronounced [ɪə̯], whereas diphthong *er* is pronounced [ɛə̯].
 
 | | | | |
 |-|-|-|-|
-| *ear*      | [ɪə̯]       | *ør*       | |
+| *ear*      | [ɪə̯]       | *øre*      | |
 | *fear*     | [fɪə̯]      | *fere*     | |
 | | | | |
 | *hair*     | [hɛə̯]      | *hẽr*      | *hare*     |
@@ -477,7 +473,7 @@ Long *i* [i:] is spelt like long *e*.
 |-|-|-|-|
 | *beetle*  | [ˈbi:tl̩] | *bitel*   | *beetle* |
 | *free*    | [fri:]   | *frī*     | *free* |
-| *tree*    | [tri:]   | *trȳ*     | *tree* |
+| *tree*    | [tri:]   | *trȳ*     | *trie* |
 | *week*    | [wi:k]   | *wik*     | *week* |
 | | | | |
 | *sieve*   | [si:v]   | *sīve*    | *seeve* |
@@ -824,15 +820,15 @@ Germanic *gh* is sometimes equivalent to *w* and written as *ugh*. *aught* and *
 | | | | |
 |-|-|-|-|
 | *goose*   | [gu:s] | *gån̆s*   → *gōs*   | *goos* |
-| *geese*   | [gi:s] | *gæn̆s*   → *gø̄s*  | *geas* |
+| *geese*   | [gi:s] | *gæn̆s*   → *gøse*  | *geas* |
 | *tooth*   | [tu:θ] | *tån̆th*  → *tōth*  | |
-| *teeth*   | [ti:θ] | *tæn̆th*  → *tø̄th* | *teath* |
+| *teeth*   | [ti:θ] | *tæn̆th*  → *tøthe* | *teath* |
 | | | | |
 | *mouth*   | [mɑʊ̯θ] | *mun̆th*  → *mũth*  | |
 | *south*   | [sɑʊ̯θ] | *sun̆th*  → *sũth*  | |
 | | | | |
 | *five*    | [faɪ̯v] | *fin̆ve*  → *five*  | |
-| *my*      | [maɪ̯]  | *min̆e*   → *mie*   | |
+| *my*      | [maɪ̯]  | *min̆e*   → *mye*   | |
 | | | | |
 | *other*   | [ˈʌðə] | *ân̆ther* → *uther* | |
 | *tough*   | [tʌf]  | *tân̆gh*  → *tugh*  | |
@@ -846,9 +842,9 @@ Germanic *gh* is sometimes equivalent to *w* and written as *ugh*. *aught* and *
 | *knife*  | [naɪ̯f] |
 | *knight* | [naɪ̯t] |
 
-| | | |
-|-|-|-|
-| *knee* | [ni:] | *knȳ* |
+| | | | |
+|-|-|-|-|
+| *knee* | [ni:] | *knȳ* | *knie* |
 
 | | |
 |-|-|
@@ -869,7 +865,7 @@ Germanic *gh* is sometimes equivalent to *w* and written as *ugh*. *aught* and *
 | *club*    | [klʌb]    | *club*    | |
 | *creek*   | [kri:k]   | *cryk*    | |
 | | | | |
-| *cheek*   | [tʃi:k]   | *chøk*    | |
+| *cheek*   | [tʃi:k]   | *chøke*   | |
 | *chest*   | [tʃest]   | *chïst*   | *chest* |
 | *chicken* | [ˈtʃɪkɪn] | *chyckin* | |
 | | | | |
@@ -1129,19 +1125,19 @@ The following verbs are irregular, because their stem vowel is shortened (typica
 | *deal*    | [di:l]  | *dæl*      |
 | *dealt*   | [delt]  | *dælt*     |
 |           |         |            |
-| *dream*   | [dri:m] | *drø̄m*    |
+| *dream*   | [dri:m] | *drøme*    |
 | *dreamt*  | [dremt] | *drømt*    |
 |           |         |            |
-| *feel*    | [fi:l]  | *føl*      |
+| *feel*    | [fi:l]  | *føle*     |
 | *felt*    | [felt]  | *følt*     |
 |           |         |            |
 | *flee*    | [fli:]  | *flee*     |
 | *fled*    | [fled]  | *fled*     |
 |           |         |            |
-| *hear*    | [hɪə̯]   | *hø̄r*     |
+| *hear*    | [hɪə̯]   | *høre*     |
 | *heard*   | [hɜ:d]  | *hørd*     |
 |           |         |            |
-| *keep*    | [ki:p]  | *kø̄p*     |
+| *keep*    | [ki:p]  | *køpe*     |
 | *kept*    | [kept]  | *køpt*     |
 |           |         |            |
 | *kneel*   | [ni:l]  | *knyl*     |
@@ -1150,7 +1146,7 @@ The following verbs are irregular, because their stem vowel is shortened (typica
 | *lean*    | [li:n]  | *lēn*      | <!-- actually līn --><!-- also leaned -->
 | *leant*   | [lent]  | *lent*     | <!-- actually lïnt -->
 |           |         |            |
-| *leap*    | [li:p]  | *lø̄p*     |
+| *leap*    | [li:p]  | *løpe*     |
 | *leapt*   | [lept]  | *løpt*     |
 |           |         |            |
 | *light*   | [laɪ̯t]  | *lyght*    |
@@ -1165,7 +1161,7 @@ The following verbs are irregular, because their stem vowel is shortened (typica
 | *sleep*   | [sli:p] | *slæpe*    |
 | *slept*   | [slept] | *slæpt*    |
 |           |         |            |
-| *weep*    | [wi:p]  | *wø̄p*     |
+| *weep*    | [wi:p]  | *wøpe*     |
 | *wept*    | [wept]  | *wøpt*     |
 
 ... A voiced stem ending becomes voiceless.
@@ -1198,7 +1194,7 @@ If the stem already ends in *-t*, no additional *t* is written.
 
 | | | | |
 |-|-|-|-|
-| *meet*    | [mi:t] | *mø̄t*     | *meat* |
+| *meet*    | [mi:t] | *møte*     | *meat* |
 | *met*     | [met]  | *møt*      | |
 
 Therefore, if the stem ends in *-t* and the stem vowel is short, the form of the verb doesn't change further.
@@ -1235,22 +1231,22 @@ If the stem ends in *-d*, it doesn't become voicess *-t*, ...
 
 | | | |
 |-|-|-|
-| *bleed*   | [bli:d] | *blø̄d*    |
+| *bleed*   | [bli:d] | *bløde*    |
 | *bled*    | [bled]  | *blød*     |
 |           |         |            |
-| *breed*   | [bri:d] | *brø̄d*    |
+| *breed*   | [bri:d] | *brøde*    |
 | *bred*    | [bred]  | *brød*     |
 |           |         |            |
-| *feed*    | [fi:d]  | *fø̄d*     |
+| *feed*    | [fi:d]  | *føde*     |
 | *fed*     | [fed]   | *fød*      |
 |           |         |            |
 | *lead*    | [li:d]  | *læde*     |
 | *led*     | [led]   | *læd*      |
 |           |         |            |
-| *plead*   | [pli:d] | *plēd*     | <!-- actually plede -->
+| *plead*   | [pli:d] | *plede*    |
 | *pled*    | [pled]  | *pled*     |
 |           |         |            |
-| *read*    | [ri:d]  | *rēd*      | <!-- actually rede -->
+| *read*    | [ri:d]  | *rede*     |
 | *read*    | [red]   | *red*      |
 
 ... unless the stem vowel is short.
@@ -1512,7 +1508,7 @@ Diphthong *i* [aɪ̯] becomes short *i* [ɪ].
 | *fight*   | [faɪ̯t]  | *fyght*    |
 | *fought*  | [fɔ:t]  | *foǧht*    |
 |           |         |            |
-| *seek*    | [si:k]  | *søk*      |
+| *seek*    | [si:k]  | *søke*     |
 | *sought*  | [sɔ:t]  | *soǧht*    |
 |           |         |            |
 | *teach*   | [ti:tʃ] | *tæche*    |
@@ -1525,9 +1521,9 @@ Diphthong *i* [aɪ̯] becomes short *i* [ɪ].
 
 | | | |
 |-|-|-|
-| *beat*    | [bi:t]     | *bø̄t*     |
-| *beat*    | [bi:t]     | *bø̄t*     | <!-- OK? -->
-| *beaten*  | [ˈbi:tən]  | *bø̄ten*   |
+| *beat*    | [bi:t]     | *bøte*     |
+| *beat*    | [bi:t]     | *bøte*     | <!-- OK? -->
+| *beaten*  | [ˈbi:tən]  | *bøten*    |
 |           |            |            |
 | *mow*     | [moʊ̯]      | *mõ*       |
 | *mowed*   | [moʊ̯d]     | *mõed*     |
