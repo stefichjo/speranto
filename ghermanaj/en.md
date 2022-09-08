@@ -63,10 +63,10 @@ In many words the pronunciation of the short *a* is [a] instead of [æ].
 
 When a short *a* [æ] comes from a short *e*, this is not reflected in the spelling.
 
-| | | |
-|-|-|-|
-| *heart* | [hɑə̯t] | *hart*  | <!-- actually hȇrt -->
-| *shall* | [ʃæl]  | | <!-- actually shȗll -->
+| | | | |
+|-|-|-|-|
+| *heart* | [hɑə̯t] | *hȇrt*  | *hart*  |
+| *shall* | [ʃæl]  | *shȗll* | |
 
 There is no short *ar* [ɜ:]. Instead, [long *ar*](#lengthened-a) [ɑə̯] is pronounced.
 
@@ -97,9 +97,9 @@ Many short *e* [e] come from Germanic *æ*, *ai* or *au*, and even *eu*.
 
 When a short *e* [e] comes from a short *i*, this is not reflected in the spelling.
 
-| | |
-|-|-|
-| *fresh* | [freʃ] | <!-- actually frïsh -->
+| | | |
+|-|-|-|
+| *fresh* | [freʃ] | *frïsh* |
 
 Short *er* is pronounced [ɜ:].
 
@@ -113,7 +113,7 @@ Short *er* [ɜ:] is often written like [short *or*](#short-o) [ɜ:] or [short *u
 |-|-|-|-|
 | *word*  | [wɜ:d]  | *wørd*  | *werd* |
 | *world* | [wɜ:ld] | *werld* | |
-| *work*  | [wɜ:k]  | *werk*  | | <!-- actually wørk -->
+| *work*  | [wɜ:k]  | *wørk*  | *werk*  |
 | *worth* | [wɜ:θ]  | *werth* | |
 | | | |
 | *burn*  | [bɜ:n]  | *bern*  | |
@@ -138,10 +138,10 @@ Some short *i* [ɪ] comes from *u*.
 
 When a short *i* [ɪ] comes from a short *a*, this is not reflected in the spelling.
 
-| | | |
-|-|-|-|
-| *mister*  | [ˈmɪstə]  | | <!-- actually mȧster >
-| *english* | [ˈɪŋglɪʃ] | *inḡlish* | <!-- actually ȧnglish -->
+| | | | |
+|-|-|-|-|
+| *mister*  | [ˈmɪstə]  | *mȧster*  | |
+| *english* | [ˈɪŋglɪʃ] | *ȧnglish* | *inḡlish* |
 
 Short *ir* is pronounced [ɜ:].
 
@@ -202,16 +202,21 @@ Most short *u* [ʊ] are pronounced [ʌ]. Words that retain a proper short *u* [�
 
 Some short *u* [ʊ] are written like [long *o*](#lengthened-o), most commonly those ending in *ood* and *ook*.
 
-| | | | |
-|-|-|-|-|
-| *book*  | [bʊk]   | *bǒk*  | *buk* `?` |
-| *cook*  | [kʊk]   | *cǒk*  | *cuk* `?` |
-| *hook*  | [hʊk]   | *hǒk*  | *huk* `?` |
-| *look*  | [lʊk]   | *lǒk*  | *luk* `?` |
-| *nook*  | [nʊk]   | *nǒk*  | *nuk* `?` |
-| *rook*  | [rʊk]   | *rǒk*  | *ruk* `?` |
-| | | | |
-| *spook* | [spu:k] | *spok* | |
+booste
+coole - wool
+spooke
+
+
+| | | |
+|-|-|-|
+| *book*  | [bʊk]   | *bǒk*  |
+| *cook*  | [kʊk]   | *cǒk*  |
+| *hook*  | [hʊk]   | *hǒk*  |
+| *look*  | [lʊk]   | *lǒk*  |
+| *nook*  | [nʊk]   | *nǒk*  |
+| *rook*  | [rʊk]   | *rǒk*  |
+| | | |
+| *spook* | [spu:k] | *spok* |
 
 | | | | |
 |-|-|-|-|
@@ -233,10 +238,10 @@ Some short *u* [ʊ] are written like [long *o*](#lengthened-o), most commonly th
 
 Short *o* and *u* are often pronounced [ʌ] instead of [ʊ]. (Many short *u* are written as *o*.)
 
-| | | |
-|-|-|-|
-| *son* | [sʌn] | *sôn* | <!-- actually sun -->
-| *sun* | [sʌn] | |
+| | | | |
+|-|-|-|-|
+| *son* | [sʌn] | *sun* | *sôn* | <!-- actually sun -->
+| *sun* | [sʌn] |       | |
 
 | | | | |
 |-|-|-|-|
@@ -281,7 +286,7 @@ The silent *e* at the end of a word turns the short vowels *ă* [æ], *ĕ* [e], 
 | *move*   | [mu:v]    | *mōve*   | *moove* |
 | | | |
 | *dove*   | [dʌv]     | *dŭve*   | *duve* |
-| *glove*  | [glʌv]    | *gĕlŭve* | *gluve* | <!-- actually gĕlôve -->
+| *glove*  | [glʌv]    | *gĕlôve* | *gluve* |
 | *live*   | [lɪv]     | *lĭve*   | |
 | *love*   | [lʌv]     | *lŭve*   | *luve* |
 | *seven*  | [ˈsevən]  | *sĕven*  | |
@@ -297,6 +302,7 @@ Long *a* [ɑ:] as in *father* [ˈfɑ:ðə] is used in loan words.
 | *father* | [ˈfɑ:ðə]    | *fāther* |
 | | | |
 | *banana* | [bəˈnɑ:nə]  | *banāna* |
+| *drama*  | [drˈɑ:mə]   | *drāma*  |
 | *tomato* | [təˈmɑ:toʊ] | *tomāto* |
 | *samba*  | [ˈsɑ:mbə]   | *sāmba*  |
 
@@ -367,40 +373,46 @@ Long *ar* [ɑə̯] is always spelt as a short *a*.
 | *starry* | [ˈstɑə̯rɪ] |
 
 #### Lengthened e
-
-Long *e* [i:] is spelt *ea* or with silent *e* as *ee*.
-
-| | | | |
-|-|-|-|-|
-| *meat*    | [mi:t]  | *mete*    | *meet*   |
-| *seed*    | [si:d]  | *sede*    | *seed*   |
-| *tea*     | [ti:]   | *tee*     | |
-| *year*    | [jɪə̯]   | *yere*    | *yeer*   |
-| | | | |
-| *field*   | [fi:ld] | *felde*   | *feeld*  |
-| *shield*  | [ʃi:ld] | *shelde*  | *sheeld* |
-| *yield*   | [ji:ld] | *ġelde*   | *yeeld*  |
-
+<!-- 
+ē: e + e
+ǣ: ea
+ø̄: ee
+ȳ: ie → e + e
+ī: ie → e + e
+ -->
 Long *e* [i:] with silent *e* is the preferred spelling in loan words.
 
 | | |
 |-|-|
 | *concrete* | [ˈkɒŋkri:t] |
 
+
+Long *e* [i:] is also spelt *ea* or *ee*, and sometimes *ie*.
+
+| | | |
+|-|-|-|
+| *field*   | [fi:ld] | *felde*   |
+| *meat*    | [mi:t]  | *mete*    |
+| *seed*    | [si:d]  | *sede*    |
+| *shield*  | [ʃi:ld] | *shelde*  |
+| *tea*     | [ti:]   | *tee*     |
+| *year*    | [jɪə̯]   | *yere*    |
+| *yield*   | [ji:ld] | *ġelde*   |
+
 In many cases, a long *e* [i:] comes from a Germanic *au*, *o*, as well as *ai*, *i* or *y*.
 
 | | | | |
 |-|-|-|-|
-| *bleach*  | [bli:tʃ]   | *blǣch*   | |
-| *bleak*   | [bli:k]    | *blæk*    | |
-| *breathe* | [bri:θ]    | *brǣth*   | |
-| *heal*    | [hi:l]     | *hæl*     | |
-| *seat*    | [si:t]     | *sǣt*     | |
-| *sheep*   | [ʃi:p]     | *shǣp*    | *sheap* |
-| *speech*  | [spi:tʃ]   | *spǣch*   | *speach* |
-| *steal*   | [sti:l]    | *stæl*    | |
-| *street*  | [stri:t]   | *strǣt*   | *streat* |
-| *weak*    | [wi:k]     | *wæk*     | |
+| *bleach*  | [bli:tʃ]   | *blæche*  | |
+| *bleak*   | [bli:k]    | *blæke*   | |
+| *breathe* | [bri:θ]    | *bræthe*  | |
+| *heal*    | [hi:l]     | *hæle*    | |
+| *seat*    | [si:t]     | *sæte*    | |
+| *sheep*   | [ʃi:p]     | *shæpe*   | *sheap* |
+| *speech*  | [spi:tʃ]   | *spæche*  | *speach* |
+| *steal*   | [sti:l]    | *stæle*   | |
+| *street*  | [stri:t]   | *stræte*  | *streat* |
+| *weak*    | [wi:k]     | *wæke*    | |
 | | | | |
 | *beam*    | [bi:m]     | *bø̄m*    | |
 | *bean*    | [bi:n]     | *bø̄n*    | |
@@ -576,20 +588,20 @@ In many cases, a diphthong *o* [oʊ̯] comes from a Germanic *ai*, *ou* or *u*.
 
 | | | | |
 |-|-|-|-|
-| *boar*   | [bɔə̯]   | *bær*    | |
-| *boat*   | [boʊ̯t]  | *bæte*   | |
-| *bone*   | [boʊ̯n]  | *bæne*   | *boan* |
-| *dole*   | [doʊ̯l]  | *dæle*   | *doal* |
-| *goat*   | [goʊ̯t]  | *gæte*   | |
-| *home*   | [hoʊ̯m]  | *hæme*   | *hoam* |
-| *load*   | [loʊ̯d]  | *læde*   | |
-| *loaf*   | [loʊ̯f]  | *læfe*   | |
-| *loath*  | [loʊ̯θ]  | *læthe*  | |
-| *more*   | [mɔə̯]   | *mær*    | *moar* |
+| *boar*   | [bɔə̯]   | *bæ̃r*   | |
+| *boat*   | [boʊ̯t]  | *bæ̃t*   | |
+| *bone*   | [boʊ̯n]  | *bæ̃n*   | *boan* |
+| *dole*   | [doʊ̯l]  | *dæ̃l*   | *doal* |
+| *goat*   | [goʊ̯t]  | *gæ̃t*   | |
+| *home*   | [hoʊ̯m]  | *hæ̃m*   | *hoam* |
+| *load*   | [loʊ̯d]  | *læ̃d*   | |
+| *loaf*   | [loʊ̯f]  | *læ̃f*   | |
+| *loath*  | [loʊ̯θ]  | *læ̃th*  | |
+| *more*   | [mɔə̯]   | *mæ̃r*    | *moar* |
 | *most*   | [moʊ̯st] | *mæ̃st*  | *moast* |
-| *soul*   | [soʊ̯l]  | *sæle*   | *soal* | <!-- actually sæwel --> 
-| *stone*  | [stoʊ̯n] | *stæne*  | *stoan* |
-| *whole*  | [hoʊ̯l]  | *hæle*   | *hoal* |
+| *soul*   | [soʊ̯l]  | *sæ̃l*   | *soal* | <!-- actually sæwel --> 
+| *stone*  | [stoʊ̯n] | *stæ̃n*  | *stoan* |
+| *whole*  | [hoʊ̯l]  | *hæ̃l*   | *hoal* |
 | | | | |
 | *own*    | [oʊ̯n]   | *æghen*  | *oan* |
 
@@ -988,7 +1000,7 @@ The unstressed prefix *on-* becomes *a-*. <!-- actually ån̆- -->
 | *around*   | [əˈrɑʊ̯nd] | *arũnd*   |
 | *ashore*   | [əˈʃɔə̯]   | *ashor*   |
 | *aside*    | [əˈsaɪ̯d]  | *aside*   |
-| *asleep*   | [əˈsli:p] | *aslǣp*   |
+| *asleep*   | [əˈsli:p] | *aslæpe*  |
 | *away*     | [əˈweɪ̯]   | *awegh*   |
 | *aweather* | [əˈweðə]  | *awether* |
 | *awhirl*   | [əˈhwɜ:l] | *awhirl*  |
@@ -1144,13 +1156,13 @@ The following verbs are irregular, because their stem vowel is shortened (typica
 | *light*   | [laɪ̯t]  | *lyght*    |
 | *lit*     | [lɪt]   | *lўght*    |
 |           |         |            |
-| *mean*    | [mi:n]  | *mǣn*      |
+| *mean*    | [mi:n]  | *mæne*     |
 | *meant*   | [ment]  | *mænt*     |
 |           |         |            |
-| *sweep*   | [swi:p] | *swǣp*     |
+| *sweep*   | [swi:p] | *swæpe*    |
 | *swept*   | [swept] | *swæpt*    |
 |           |         |            |
-| *sleep*   | [sli:p] | *slǣp*     |
+| *sleep*   | [sli:p] | *slæpe*    |
 | *slept*   | [slept] | *slæpt*    |
 |           |         |            |
 | *weep*    | [wi:p]  | *wø̄p*     |
@@ -1160,7 +1172,7 @@ The following verbs are irregular, because their stem vowel is shortened (typica
 
 | | | |
 |-|-|-|
-| *leave*   | [li:v] | *lǣve*     |
+| *leave*   | [li:v] | *læve*     |
 | *left*    | [left] | *læft*     |
 |           |        |            |
 | *lose*    | [lu:z] | *los*      |
@@ -1232,7 +1244,7 @@ If the stem ends in *-d*, it doesn't become voicess *-t*, ...
 | *feed*    | [fi:d]  | *fø̄d*     |
 | *fed*     | [fed]   | *fød*      |
 |           |         |            |
-| *lead*    | [li:d]  | *lǣd*      |
+| *lead*    | [li:d]  | *læde*     |
 | *led*     | [led]   | *læd*      |
 |           |         |            |
 | *plead*   | [pli:d] | *plēd*     | <!-- actually plede -->
@@ -1340,9 +1352,9 @@ In some verbs, the vowel of the past has merged to the vowel of the past partici
 | *spoke*   | [spoʊ̯k]    | *spoke*    |
 | *spoken*  | [ˈspoʊ̯kən] | *spoken*   |
 |           |            |            |
-| *steel*   | [sti:l]    | *stele*    |
-| *stole*   | [stoʊ̯l]    | *stæle*    |
-| *stolen*  | [ˈstoʊ̯lən] | *stælen*   |
+| *steal*   | [sti:l]    | *stele*    |
+| *stole*   | [stoʊ̯l]    | *stæ̃l*    |
+| *stolen*  | [ˈstoʊ̯lən] | *stæ̃len*  |
 |           |            |            |
 | *swear*   | [swɛə̯]     | *sware*    | <!-- actually swẽr -->
 | *swore*   | [swɔə̯]     | *swor*     |
@@ -1503,7 +1515,7 @@ Diphthong *i* [aɪ̯] becomes short *i* [ɪ].
 | *seek*    | [si:k]  | *søk*      |
 | *sought*  | [sɔ:t]  | *soǧht*    |
 |           |         |            |
-| *teach*   | [ti:tʃ] | *tǣch*     |
+| *teach*   | [ti:tʃ] | *tæche*    |
 | *taught*  | [tɔ:t]  | *taǧht*    |
 |           |         |            |
 | *think*   | [θɪŋk]  | *think*    |
