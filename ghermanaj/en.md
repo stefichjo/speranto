@@ -240,7 +240,7 @@ Short *o* and *u* are often pronounced [ʌ] instead of [ʊ]. (Many short *u* are
 
 | | | | |
 |-|-|-|-|
-| *son* | [sʌn] | *sun* | *sôn* | <!-- actually sun -->
+| *son* | [sʌn] | *sun* | *sôn* |
 | *sun* | [sʌn] |       | |
 
 | | | | |
@@ -275,7 +275,18 @@ The silent *e* at the end of a word turns the short vowels *ă* [æ], *ĕ* [e], 
 | *oe* |  [oʊ̯] |
 | *ue* | [ju:] |
 
-*v* is always written with a silent *e*, even after short vowels.
+*s* is always written with a silent *e*.
+
+| | | |
+|-|-|-|
+| *house* | [hɑʊ̯s] | *hũse* |
+| *lice*  | [laɪ̯s] | *lyse* |
+| *louse* | [laʊ̯s] | *lũse* |
+| *mice*  | [maɪ̯s] | *myse* |
+| *mouse* | [mɑʊ̯s] | *mũse* |
+| *rice*  | [raɪ̯s] | *rise* |
+
+*v* is always written with a silent *e*.
 
 | | | |
 |-|-|-|
@@ -373,14 +384,12 @@ Long *ar* [ɑə̯] is always spelt as a short *a*.
 | *starry* | [ˈstɑə̯rɪ] |
 
 #### Lengthened e
-<!-- 
-ȳ: ie → e + e
-ī: ie → e + e
- -->
+
 Long *e* [i:] with silent *e* is the preferred spelling in loan words.
 
 | | |
 |-|-|
+| *complete* | [kəmˈpli:t] |
 | *concrete* | [ˈkɒŋkri:t] |
 
 Long *e* [i:] is also spelt *ea* or *ee*, and sometimes *ie*.
@@ -402,6 +411,9 @@ In many cases, a long *e* [i:] comes from a Germanic *au*, *o*, as well as *ai*,
 | *bleach*  | [bli:tʃ]   | *blæche*  | |
 | *bleak*   | [bli:k]    | *blæke*   | |
 | *breathe* | [bri:θ]    | *bræthe*  | |
+| *cheese*  | [tʃi:z]    | *chæse*   | *chease* |
+| *clean*   | [kli:n]    | *clæne*   | |
+| *clear*   | [klɪə̯]     | *clære*   | | <!-- from French/Latin -->
 | *heal*    | [hi:l]     | *hæle*    | |
 | *seat*    | [si:t]     | *sæte*    | |
 | *sheep*   | [ʃi:p]     | *shæpe*   | *sheap* |
@@ -471,12 +483,12 @@ Long *i* [i:] is spelt like long *e*.
 
 | | | | |
 |-|-|-|-|
-| *beetle*  | [ˈbi:tl̩] | *bitel*   | *beetle* |
-| *free*    | [fri:]   | *frī*     | *free* |
+| *beetle*  | [ˈbi:tl̩] | *bitel*   | *bietle* |
+| *free*    | [fri:]   | *frī*     | *frie* |
 | *tree*    | [tri:]   | *trȳ*     | *trie* |
-| *week*    | [wi:k]   | *wik*     | *week* |
+| *week*    | [wi:k]   | *wik*     | *wiek* |
 | | | | |
-| *sieve*   | [si:v]   | *sīve*    | *seeve* |
+| *sieve*   | [si:v]   | *sīve*    | |
 
 In loan words, long -i [:i] is spelt with silent *e*.
 
@@ -491,11 +503,6 @@ Diphthong *i* [aɪ̯] is spelt with silent *e*.
 |-|-|
 | *side* | [saɪ̯d] |
 | *tide* | [taɪ̯d] |
-
-| | | |
-|-|-|-|
-| *lice* | [laɪ̯s] | *lyse* |
-| *mice* | [maɪ̯s] | *myse* |
 
 Words ending in -ld or -nd lack a silent *e*.
 
@@ -547,13 +554,13 @@ Many diphthong *i* [aɪ̯] come from *igh*.
 
 Long *ir* is pronounced [ɪə̯], whereas diphthong *ir* is pronounced [aɪ̯ə̯].
 
-| | | |
-|-|-|-|
-| *here*  | [hɪə̯]  | *here* | <!-- actually hīr -->
-| | | |
-| *fire*  | [faɪ̯ə̯] | *fyre* |
-| *hire*  | [haɪ̯ə̯] | *hyre* |
-| *sire*  | [saɪ̯ə̯] | *sire* |
+| | | | |
+|-|-|-|-|
+| *here*  | [hɪə̯]  | *hīr*  | *hier* |
+| | | | |
+| *fire*  | [faɪ̯ə̯] | *fyre* | |
+| *hire*  | [haɪ̯ə̯] | *hyre* | |
+| *sire*  | [saɪ̯ə̯] | | |
 
 #### Lengthened o
 
@@ -675,9 +682,7 @@ The diphthong *u* [ɑʊ̯] is often written *ou* without a silent *e*.
 |-|-|-|
 | *foul*   | [fɑʊ̯l]   | *fũl*   |
 | *ground* | [grɑʊ̯nd] | *grũnd* |
-| *house*  | [hɑʊ̯s]   | *hũs*   |
 | *loud*   | [lɑʊ̯d]   | *lũd*   |
-| *mouse*  | [mɑʊ̯s]   | *mũs*   |
 | *now*    | [nɑʊ̯]    | *nũ*    |
 | *out*    | [ɑʊ̯t]    | *ũt*    |
 | *owl*    | [ɑʊ̯l]    | *ũl*    |
@@ -1018,13 +1023,13 @@ The unstressed prefix *on-* becomes *a-*. <!-- actually ån̆- -->
 
 | | | | |
 |-|-|-|-|
-| *one*    | [wʌn]     | *æ̂n*    | |
-| *once*   | [wʌns]    | *æ̂ns*   | |
+| *one*    | [wʌn]     | *æ̂n*    | *ǒan* `?` |
+| *once*   | [wʌns]    | *æ̂ns*   | *ǒans* `?` |
 | | | | |
-| *alone*  | [əˈloʊn]  | *ălæne*  | |
-| *lone*   | [loʊn]    | *læne*   | |
-| *lonely* | [ˈloʊnlɪ] | *lænely* | |
-| *only*   | [oʊnlɪ]   | *ænely*  | |
+| *alone*  | [əˈloʊn]  | *ălæ̃n*  | *aloan* |
+| *lone*   | [loʊn]    | *læ̃n*   | *loan* |
+| *lonely* | [ˈloʊnlɪ] | *læ̃nly* | *loanly* |
+| *only*   | [oʊnlɪ]   | *æ̃nly*  | *oanly* |
 | | | | |
 | *a*      | [eɪ̯]      | *an̆e*   | *ã* |
 | | | | |
@@ -1117,52 +1122,52 @@ The following verbs are irregular, because their spelling reflects the assimilat
 
 The following verbs are irregular, because their stem vowel is shortened (typically to *e* [e] or *er* [ɜ:]). ...
 
-| | | |
-|-|-|-|
-| *creep*   | [kri:p] | *crȳp*     |
-| *crept*   | [krept] | *crÿpt*    |
-|           |         |            |
-| *deal*    | [di:l]  | *dæl*      |
-| *dealt*   | [delt]  | *dælt*     |
-|           |         |            |
-| *dream*   | [dri:m] | *drøme*    |
-| *dreamt*  | [dremt] | *drømt*    |
-|           |         |            |
-| *feel*    | [fi:l]  | *føle*     |
-| *felt*    | [felt]  | *følt*     |
-|           |         |            |
-| *flee*    | [fli:]  | *flee*     |
-| *fled*    | [fled]  | *fled*     |
-|           |         |            |
-| *hear*    | [hɪə̯]   | *høre*     |
-| *heard*   | [hɜ:d]  | *hørd*     |
-|           |         |            |
-| *keep*    | [ki:p]  | *køpe*     |
-| *kept*    | [kept]  | *køpt*     |
-|           |         |            |
-| *kneel*   | [ni:l]  | *knyl*     |
-| *knelt*   | [nelt]  | *knÿlt*    |
-|           |         |            |
-| *lean*    | [li:n]  | *lēn*      | <!-- actually līn --><!-- also leaned -->
-| *leant*   | [lent]  | *lent*     | <!-- actually lïnt -->
-|           |         |            |
-| *leap*    | [li:p]  | *løpe*     |
-| *leapt*   | [lept]  | *løpt*     |
-|           |         |            |
-| *light*   | [laɪ̯t]  | *lyght*    |
-| *lit*     | [lɪt]   | *lўght*    |
-|           |         |            |
-| *mean*    | [mi:n]  | *mæne*     |
-| *meant*   | [ment]  | *mænt*     |
-|           |         |            |
-| *sweep*   | [swi:p] | *swæpe*    |
-| *swept*   | [swept] | *swæpt*    |
-|           |         |            |
-| *sleep*   | [sli:p] | *slæpe*    |
-| *slept*   | [slept] | *slæpt*    |
-|           |         |            |
-| *weep*    | [wi:p]  | *wøpe*     |
-| *wept*    | [wept]  | *wøpt*     |
+| | | | |
+|-|-|-|-|
+| *creep*   | [kri:p] | *crȳp*     | *criep* |
+| *crept*   | [krept] | *crÿpt*    | |
+|           |         |            | |
+| *deal*    | [di:l]  | *dæle*     | |
+| *dealt*   | [delt]  | *dælt*     | |
+|           |         |            | |
+| *dream*   | [dri:m] | *drøme*    | *dreem* |
+| *dreamt*  | [dremt] | *drømt*    | *dremt* |
+|           |         |            | |
+| *feel*    | [fi:l]  | *føle*     | |
+| *felt*    | [felt]  | *følt*     | |
+|           |         |            | |
+| *flee*    | [fli:]  | *flee*     | |
+| *fled*    | [fled]  | *fled*     | |
+|           |         |            | |
+| *hear*    | [hɪə̯]   | *høre*     | *heer* |
+| *heard*   | [hɜ:d]  | *hørd*     | *herd* |
+|           |         |            | |
+| *keep*    | [ki:p]  | *køpe*     | |
+| *kept*    | [kept]  | *køpt*     | |
+|           |         |            | |
+| *kneel*   | [ni:l]  | *knyl*     | *kniel* |
+| *knelt*   | [nelt]  | *knÿlt*    | |
+|           |         |            | |
+| *lean*    | [li:n]  | *līn*      | *lien* | <!-- also leaned -->
+| *leant*   | [lent]  | *lïnt*     | *lent* |
+|           |         |            | |
+| *leap*    | [li:p]  | *løpe*     | *leep* |
+| *leapt*   | [lept]  | *løpt*     | *lept* |
+|           |         |            | |
+| *light*   | [laɪ̯t]  | *lyght*    | |
+| *lit*     | [lɪt]   | *lўght*    | |
+|           |         |            | |
+| *mean*    | [mi:n]  | *mæne*     | |
+| *meant*   | [ment]  | *mænt*     | *ment* |
+|           |         |            | |
+| *sweep*   | [swi:p] | *swæpe*    | *sweap* |
+| *swept*   | [swept] | *swæpt*    | |
+|           |         |            | |
+| *sleep*   | [sli:p] | *slæpe*    | *sleap* |
+| *slept*   | [slept] | *slæpt*    | |
+|           |         |            | |
+| *weep*    | [wi:p]  | *wøpe*     | |
+| *wept*    | [wept]  | *wøpt*     | |
 
 ... A voiced stem ending becomes voiceless.
 
@@ -1563,13 +1568,13 @@ Diphthong *i* [aɪ̯] becomes short *i* [ɪ].
 | *am* | [æm] |
 | *is* | [ɪz] | <!-- not "iss"/"izz" -->
 
-| | | |
-|-|-|-|
-| *are*  | [ɑə̯]   | *ar*   |
-| *be*   | [bi:]  | *bē*   | <!-- actually bī -->
-| *been* | [bi:n] | *bēen* | <!-- actually bīen -->
-| *was*  | [wɒz]  | *was*  | <!-- actually "wass" -->
-| *were* | [wɜ:]  | *wær*  |
+| | | | |
+|-|-|-|-|
+| *are*  | [ɑə̯]   | *ar*   | |
+| *be*   | [bi:]  | *bī*   | *bē* | <!-- actually bī -->
+| *been* | [bi:n] | *bīen* | *bēen* | <!-- actually bīen -->
+| *was*  | [wɒz]  | *was*  | | <!-- actually "wass" -->
+| *were* | [wɜ:]  | *wær*  | |
 
 | | | |
 |-|-|-|
@@ -1622,7 +1627,12 @@ In American English, *u* [ʌ] before *r* plus vowel is pronounced like short vow
 | *hurry* | [ˈhʌrɪ] | [ˈhʌri] → [ˈhɜ:ri] |
 
 <!-- number numbre actually nômbre -->
+<!-- member membre -->
+<!-- chamber chambre -->
 
 <!-- m̩n̩l̩ -->
 <!-- -le -->
 
+<!-- aina-galīk each -->
+
+<!-- -s → -se (because of pural/adverb -s) -->
