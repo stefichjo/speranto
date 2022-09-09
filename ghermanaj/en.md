@@ -42,13 +42,13 @@ In unstressed syllables, vowels tend to be pronounced [ə].
 
 Short vowels before *r* are pronounced [ɜ:], unless the *r* is followed by another vowel.
 
-| | | |
-|-|-|-|
-| *berry* | [ˈberɪ] | |
-| *carry* | [ˈkærɪ] | |
-| *hurry* | [ˈhʌrɪ] | |
-| *sorry* | [ˈsɒrɪ] | |
-| *worry* | [ˈwʌrɪ] | *wurry* | <!-- actually wurġh -->
+| | | | |
+|-|-|-|-|
+| *berry* | [ˈberɪ] | | |
+| *carry* | [ˈkærɪ] | | |
+| *hurry* | [ˈhʌrɪ] | | |
+| *sorry* | [ˈsɒrɪ] | | |
+| *worry* | [ˈwʌrɪ] | *wurġh* | *wurry* |
 
 #### Short a
 
@@ -176,6 +176,7 @@ After *qu* and *w*, short *a* is pronounced like short *o* [ɒ].
 | | |
 |-|-|
 | *quantity* | [ˈkwɒntətɪ] |
+| *wander*   | [ˈwɒndə] |
 | *want*     | [wɒnt] |
 | *ward*     | [wɔə̯d] |
 | *swan*     | [swɒn] |
@@ -201,11 +202,6 @@ Most short *u* [ʊ] are pronounced [ʌ]. Words that retain a proper short *u* [�
 | *put*  | [pʊt] | *pǔt*  |
 
 Some short *u* [ʊ] are written like [long *o*](#lengthened-o), most commonly those ending in *ood* and *ook*.
-
-booste
-coole - wool
-spooke
-
 
 | | | |
 |-|-|-|
@@ -249,13 +245,14 @@ Short *o* and *u* are often pronounced [ʌ] instead of [ʊ]. (Many short *u* are
 | *brother* | [ˈbrʌðə] | *brôther* | *bruther* |
 | *flood*   | [flʌd]   | *flôd*    | *flud*    |
 | *mother*  | [ˈmʌðə]  | *môther*  | *muther*  |
+| *wonder*  | [ˈwʌndə] | *wunder*  | |
 | *young*   | [jʌŋ]    | *yung*    | |
 
 When a short *u* [ʊ] comes from a short *i*, this is not reflected in the spelling.
 
-| | | |
-|-|-|-|
-| *woman* | [ˈwʊmən] | *wǔmman* | <!-- actually wǐmman -->
+| | | | |
+|-|-|-|-|
+| *woman* | [ˈwʊmən] | *wǐmman* | *wǔmman* |
 
 Short *ur* is pronounced [ɜ:].
 
@@ -296,12 +293,13 @@ The silent *e* at the end of a word turns the short vowels *ă* [æ], *ĕ* [e], 
 | *groove* | [gru:v]   | *grōve*  | |
 | *move*   | [mu:v]    | *mōve*   | *moove* |
 | | | |
-| *dove*   | [dʌv]     | *dŭve*   | *duve* |
-| *glove*  | [glʌv]    | *gĕlôve* | *gluve* |
-| *live*   | [lɪv]     | *lĭve*   | |
-| *love*   | [lʌv]     | *lŭve*   | *luve* |
-| *seven*  | [ˈsevən]  | *sĕven*  | |
-| *shove*  | [ʃʌv]     | *shŭve*  | *shuve* |
+| *dove*   | [dʌv]     | *dŭve*   | *duw* |
+| *glove*  | [glʌv]    | *gĕlôve* | *gluw* |
+| *live*   | [lɪv]     | *lĭve*   | *liw* |
+| *love*   | [lʌv]     | *lŭve*   | *luw* |
+| *oven*   | [ˈʌvən]   | *ôven*   | *uwen* |
+| *seven*  | [ˈsevən]  | *sĕven*  | *sewen* |
+| *shove*  | [ʃʌv]     | *shŭve*  | *shuw* |
 | *wolves* | [wʊlvz]   | *wǔlves* | *wulves* |
 
 #### Lengthened a
@@ -612,27 +610,28 @@ Before *l*, [short *o*](#short-o) is pronounced as diphthong *o* [oʊ̯].
 
 | | | |
 |-|-|-|
-| *pole*   | [poʊ̯l]  | *påle*  |
-| *pole*   | [poʊ̯l]  | |
-| *role*   | [roʊ̯l]  | |
-| *sole*   | [soʊ̯l]  | |
+| *pole*     | [poʊ̯l]    | *påle*  |
+| *pole*     | [poʊ̯l]    | |
+| *role*     | [roʊ̯l]    | |
+| *sole*     | [soʊ̯l]    | |
 | | | |
-| *poll*   | [poʊ̯l]  | |
-| *roll*   | [roʊ̯l]  | |
-| *toll*   | [toʊ̯l]  | |
+| *poll*     | [poʊ̯l]    | |
+| *roll*     | [roʊ̯l]    | |
+| *toll*     | [toʊ̯l]    | |
 | | | |
-| *doll*   | [dɒl]   | *dŏll*  |
+| *doll*     | [dɒl]     | *dŏll*  |
 | | | |
-| *bold*   | [boʊ̯ld] | *båld*  |
-| *cold*   | [koʊ̯ld] | *cåld*  |
-| *fold*   | [foʊ̯ld] | *fåld*  |
-| *gold*   | [goʊ̯ld] | *gůld*  |
-| *old*    | [oʊ̯ld]  | *åld*   |
-| *sold*   | [soʊ̯ld] | *såld*  |
+| *bold*     | [boʊ̯ld]   | *båld*  |
+| *cold*     | [koʊ̯ld]   | *cåld*  |
+| *fold*     | [foʊ̯ld]   | *fåld*  |
+| *gold*     | [goʊ̯ld]   | *gůld*  |
+| *old*      | [oʊ̯ld]    | *åld*   |
+| *shoulder* | [ˈʃoʊ̯ldə] | *shůlder* |
+| *sold*     | [soʊ̯ld]   | *såld*  |
 | | | |
-| *folk*   | [foʊk]  | *cůlt*  |
+| *folk*     | [foʊk]    | *cůlt*  |
 | | | |
-| *colt*   | [koʊ̯lt] | *cůlt*  |
+| *colt*     | [koʊ̯lt]   | *cůlt*  |
 
 At the end of one-syllable words, *o* is pronounced as a diphthong [oʊ̯].
 
@@ -710,9 +709,9 @@ A silent *w* with an *a* is pronounced [ɔ:], instead of [eɪ̯].
 
 | | |
 |-|-|
-| *gnaw* | [nɔ:]  |
-| *hawk* | [hɔ:k] |
-| *raw*  | [rɔ:]  |
+| *gnaw* | [nɔ:]  | <!-- gnau -->
+| *hawk* | [hɔ:k] | <!-- hauk -->
+| *raw*  | [rɔ:]  | <!-- rau -->
 
 ### Silent l
 
@@ -970,41 +969,43 @@ Germanic *ghs* is pronounced [ks] and doesn't contain a silent *gh*.
 
 ### of-
 
-| | | |
-|-|-|-|
-| *abreast*  | [əˈbrest] | *abrÿst*  |
-| *afresh*   | [əˈfreʃ]  | *afresh*  | <!-- actually -frïsh -->
-| *akin*     | [əˈkɪn]   | *akyn*    |
-| *anew*     | [əˈnju:]  | *anỹ*     |
+| | | | |
+|-|-|-|-|
+| *abreast*  | [əˈbrest] | *abrÿst*  | *abrest* |
+| *afresh*   | [əˈfreʃ]  | *afrïsh*  | |
+| *akin*     | [əˈkɪn]   | *akyn*    | |
+| *anew*     | [əˈnju:]  | *anỹ*     | |
 
 ### on-
 
 The unstressed prefix *on-* becomes *a-*. <!-- actually ån̆- -->
 
-| | | |
-|-|-|-|
-| *aback*    | [əˈbæk]   | *aback*   |
-| *aboard*   | [əˈbɔ:d]  | *abord*   |
-| *about*    | [əˈbɑʊ̯t]  | *abũt*    |
-| *above*    | [əˈbʌv]   | *abuve*   |
-| *afloat*   | [əˈfloʊ̯t] | *aflote*  |
-| *afore*    | [əˈfɔə̯]   | *afor*    |
-| *afoot*    | [əˈfʊt]   | *afǒt*    |
-| *again*    | [əˈgen]   | *agen*    | <!-- also: *ån̆geghen* [əˈgeɪ̯n] -->
-| *alee*     | [əˈli:]   | *alȳ*     |
-| *alike*    | [əˈlaɪ̯k]  | *alike*   |
-| *alive*    | [əˈlaɪ̯v]  | *alive*   |
-| *aloud*    | [əˈlɑʊ̯d]  | *alũd*    |
-| *amain*    | [əˈmeɪ̯n]  | *amaghen* |
-| *amid*     | [əˈmɪd]   | *amid*    |
-| *among*    | [əˈmʌŋ]   | *amung*   | <!-- actually amâng -->
-| *around*   | [əˈrɑʊ̯nd] | *arũnd*   |
-| *ashore*   | [əˈʃɔə̯]   | *ashor*   |
-| *aside*    | [əˈsaɪ̯d]  | *aside*   |
-| *asleep*   | [əˈsli:p] | *aslæpe*  |
-| *away*     | [əˈweɪ̯]   | *awegh*   |
-| *aweather* | [əˈweðə]  | *awether* |
-| *awhirl*   | [əˈhwɜ:l] | *awhirl*  |
+| | | | |
+|-|-|-|-|
+| *aback*    | [əˈbæk]   |           | |
+| *aboard*   | [əˈbɔ:d]  | *abord*   | |
+| *about*    | [əˈbɑʊ̯t]  | *abũt*    | |
+| *above*    | [əˈbʌv]   | *abŭve*   | |
+| *across*   | [əˈkrɒs]  |           | |
+| *afloat*   | [əˈfloʊ̯t] | *aflote*  | |
+| *afore*    | [əˈfɔə̯]   | *afor*    | |
+| *afoot*    | [əˈfʊt]   | *afǒt*    | *afut* |
+| *again*    | [əˈgen]   | *agen*    | |
+| *again*    | [əˈgeɪ̯n]  | *ageghen* | |
+| *alee*     | [əˈli:]   | *alȳ*     | |
+| *alike*    | [əˈlaɪ̯k]  | *alike*   | |
+| *alive*    | [əˈlaɪ̯v]  | *alive*   | |
+| *aloud*    | [əˈlɑʊ̯d]  | *alũd*    | |
+| *amain*    | [əˈmeɪ̯n]  | *amaghen* | |
+| *amid*     | [əˈmɪd]   | *amid*    | |
+| *among*    | [əˈmʌŋ]   | *amâng*   | *amung* |
+| *around*   | [əˈrɑʊ̯nd] | *arũnd*   | |
+| *ashore*   | [əˈʃɔə̯]   | *ashor*   | |
+| *aside*    | [əˈsaɪ̯d]  | *aside*   | |
+| *asleep*   | [əˈsli:p] | *aslæpe*  | |
+| *away*     | [əˈweɪ̯]   | *awegh*   | |
+| *aweather* | [əˈweðə]  | *awether* | |
+| *awhirl*   | [əˈhwɜ:l] | *awhirl*  | |
 
 ### all-
 
@@ -1045,33 +1046,33 @@ Unrelated:
 
 ### wh-, th-, h-, s-
 
-| | | |
-|-|-|-|
-| *what*   | [hwɒt]  | *what*   |
-| *that*   | [ðæt]   | *that*   |
-| *this*   | [ðɪs]   | *this*   | <!-- actually thiss -->
-| *those*  | [ðoʊz]  | *thæse*  | <!-- actually thåse -->
-| *these*  | [ði:z]  | *thæs*   |
-| | | |
-| *who*    | [hu:]   | *whō*    | <!-- actually w̌hō -->
-| *whom*   | [hu:m]  | *whōm*   | <!-- actually w̌hōm -->
-| *whos*   | [hu:s]  | *whōs*   | <!-- actually w̌hōs -->
-| | | |
-| *where*  | [hwɛə̯]  | *whare*  |
-| *there*  | [ðɛə̯]   | *thare*  | <!-- actually thẽr -->
-| *here*   | [hɪə̯]   | *here*   | <!-- actually hīr -->
-| | | |
-| *when*   | [hwen]  | *whæn*   |
-| *then*   | [ðen]   | *thæn*   |
-| *than*   | [ðæn]   | *than*   |
-| | | |
-| *how*    | [hɑʊ̯]   | *whũ*    | <!-- actually w̌hũ -->
-| *why*    | [hwaɪ̯]  | *whi*    |
-| *so*     | [soʊ̯]   | *so*     |
-| *as*     | [æz]    | *ałs*    |
-| | | |
-| *which*  | [hwɪtʃ] | *whiłch* | <!-- actually whȯłch -->
-| *such*   | [sʌtʃ]  | *sułch*  | <!-- un-actually sôłch -->
+| | | | |
+|-|-|-|-|
+| *what*   | [hwɒt]  | *what*   | |
+| *that*   | [ðæt]   | *that*   | |
+| *this*   | [ðɪs]   | *thiss*  | *this* |
+| *those*  | [ðoʊz]  | *thåse*  | *thæse* |
+| *these*  | [ði:z]  | *thæs*   | |
+| | | | |
+| *who*    | [hu:]   | *w̌hō*   | *whō* |
+| *whom*   | [hu:m]  | *w̌hōm*  | *whōm* |
+| *whos*   | [hu:s]  | *w̌hōs*  | *whōs* |
+| | | | |
+| *where*  | [hwɛə̯]  | *whare*  | |
+| *there*  | [ðɛə̯]   | *thẽr*   | *thare* |
+| *here*   | [hɪə̯]   | *hīr*    | *hier* |
+| | | | |
+| *when*   | [hwen]  | *whæn*   | |
+| *then*   | [ðen]   | *thæn*   | |
+| *than*   | [ðæn]   | *than*   | |
+| | | | |
+| *how*    | [hɑʊ̯]   | *w̌hũ*   | *whũ* |
+| *why*    | [hwaɪ̯]  | *whi*    | |
+| *so*     | [soʊ̯]   | *so*     | |
+| *as*     | [æz]    | *ałs*    | |
+| | | | |
+| *which*  | [hwɪtʃ] | *whȯłch* | *whiłch* |
+| *such*   | [sʌtʃ]  | *sułch*  | | <!-- un-actually sôłch -->
 
 #### Pronouns
 
@@ -1197,10 +1198,10 @@ If the stem vowel is already short, it doesn't change further. (The following ir
 
 If the stem already ends in *-t*, no additional *t* is written.
 
-| | | | |
-|-|-|-|-|
-| *meet*    | [mi:t] | *møte*     | *meat* |
-| *met*     | [met]  | *møt*      | |
+| | | |
+|-|-|-|
+| *meet*    | [mi:t] | *møte*     |
+| *met*     | [met]  | *møt*      |
 
 Therefore, if the stem ends in *-t* and the stem vowel is short, the form of the verb doesn't change further.
 
@@ -1333,11 +1334,11 @@ In some verbs, the vowel of the past has merged to the vowel of the past partici
 | *broke*   | [broʊ̯k]    | *broke*    |
 | *broken*  | [ˈbroʊ̯kən] | *broken*   |
 |           |            |            |
-| *choose*  | [tʃu:z]    | *chos*     |
+| *choose*  | [tʃu:z]    | *chos*     | <!-- -s → -se ? -->
 | *chose*   | [tʃoʊ̯z]    | *chose*    |
 | *chosen*  | [ˈtʃoʊ̯zən] | *chosen*   |
 |           |            |            |
-| *freeze*  | [fri:z]    | *frys*     |
+| *freeze*  | [fri:z]    | *frys*     | <!-- fries -->
 | *froze*   | [froʊ̯z]    | *frose*    |
 | *frozen*  | [froʊ̯zən]  | *frosen*   |
 |           |            |            |
@@ -1354,8 +1355,8 @@ In some verbs, the vowel of the past has merged to the vowel of the past partici
 | *spoken*  | [ˈspoʊ̯kən] | *spoken*   |
 |           |            |            |
 | *steal*   | [sti:l]    | *stele*    |
-| *stole*   | [stoʊ̯l]    | *stæ̃l*    |
-| *stolen*  | [ˈstoʊ̯lən] | *stæ̃len*  |
+| *stole*   | [stoʊ̯l]    | *stole*    |
+| *stolen*  | [ˈstoʊ̯lən] | *stolen*   |
 |           |            |            |
 | *swear*   | [swɛə̯]     | *sware*    | <!-- actually swẽr -->
 | *swore*   | [swɔə̯]     | *swor*     |
@@ -1441,9 +1442,9 @@ In some verbs, the vowel of the past has merged to the vowel of the past partici
 | *fell*    | [fel]     | *fell*     |
 | *fallen*  | [ˈfɔ:lən] | *fallen*   |
 |           |           |            |
-| *give*    | [gɪv]     | *gĭve*     | <!-- also forgive -->
+| *give*    | [gɪv]     | *gĭve*     | <!-- giw --> <!-- also forgive -->
 | *gave*    | [geɪ̯v]    | *gave*     |
-| *given*   | [ˈgɪvən]  | *gĭven*    |
+| *given*   | [ˈgɪvən]  | *gĭven*    | <!-- giwen -->
 |           |           |            |
 | *grow*    | [groʊ̯]    | *grõ*      | <!-- cf. blow, grow, know, throw -->
 | *grew*    | [gru:]    | *grū*      |
@@ -1471,27 +1472,27 @@ In some verbs, the vowel of the past has merged to the vowel of the past partici
 
 Diphthong *i* [aɪ̯] becomes short *i* [ɪ].
 
-| | | |
-|-|-|-|
-| *drive*   | [draɪ̯v]   | *drive*    |
-| *drove*   | [droʊ̯v]   | *dråve*    |
-| *driven*  | [ˈdrɪvən] | *drĭven*   |
-|           |           |            |
-| *ride*    | [raɪ̯d]    | *ride*     |
-| *rode*    | [roʊ̯d]    | *råde*     |
-| *ridden*  | [ˈrɪdən]  | *ridden*   |
-|           |           |            |
-| *rise*    | [raɪ̯z]    | *rise*     | <!-- also arise -->
-| *rose*    | [roʊ̯z]    | *råse*     | <!-- actually ari̊se -->
-| *risen*   | [ˈrɪzən]  | *rĭsen*    |
-|           |           |            |
-| *write*   | [raɪ̯t]    | *write*    |
-| *wrote*   | [roʊt]    | *wråte*    |
-| *written* | [ˈrɪtən]  | *written*  |
+| | | | |
+|-|-|-|-|
+| *drive*   | [draɪ̯v]   | *drive*    | |
+| *drove*   | [droʊ̯v]   | *dråve*    | *drove* |
+| *driven*  | [ˈdrɪvən] | *drĭven*   | *driwen* |
+|           |           |            | |
+| *ride*    | [raɪ̯d]    | *ride*     | |
+| *rode*    | [roʊ̯d]    | *råde*     | *rode* |
+| *ridden*  | [ˈrɪdən]  | *ridden*   | |
+|           |           |            | |
+| *rise*    | [raɪ̯z]    | *rise*     | | <!-- also arise -->
+| *rose*    | [roʊ̯z]    | *ri̊se*    | *rose* |
+| *risen*   | [ˈrɪzən]  | *rĭsen*    | |
+|           |           |            | |
+| *write*   | [raɪ̯t]    | *write*    | |
+| *wrote*   | [roʊt]    | *wråte*    | *wrote* |
+| *written* | [ˈrɪtən]  | *written*  | |
 
 | | | |
 |-|-|-|
-| *come*    | [kʌm]  | *cum*      | <!-- also bēcum -->
+| *come*    | [kʌm]  | *cum*      | <!-- also bicum -->
 | *came*    | [keɪ̯m] | *came*     |
 | *come*    | [kʌm]  | *cum*      |
 
@@ -1586,7 +1587,7 @@ Diphthong *i* [aɪ̯] becomes short *i* [ɪ].
 | *went*    | [went]  | *went*     |
 | *gone*    | [gɒn]   | *gån*      |
 |           |         |            |
-| *have*    | [hæv]   | *hăve*     |
+| *have*    | [hæv]   | *hăve*     | <!-- haw -->
 | *had*     | [hæd]   | *had*      |
 |           |         |            |
 | *make*    | [meɪ̯k]  | *make*     |
