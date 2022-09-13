@@ -88,7 +88,9 @@ Many short *e* [e] come from Germanic *æ*, *ai* or *au*, and even *eu*.
 | *sweat*   | [swet]   | *swæt*    | *swet* |
 | | |
 | *bread*   | [bred]   | *brød*    | *bred* |
+| *dead*    | [ded]    | *død*     | *ded* |
 | *deaf*    | [def]    | *døff*    | *deff* |
+| *death*   | [deθ]    | *døth*    | *deth* |
 | *red*     | [red]    | *rød*     | |
 | | |
 | *depth*   | [deptθ]  | *dÿpth*   | |
@@ -285,14 +287,14 @@ The silent *e* at the end of a word turns the short vowels *ă* [æ], *ĕ* [e], 
 
 *v* is always written with a silent *e*.
 
-| | | |
-|-|-|-|
+| | | | |
+|-|-|-|-|
 | *behave* | [bɪˈheɪ̯v] | *bihave* | |
 | *lives*  | [laɪ̯vz]   | | |
-| | | |
+| | | | |
 | *groove* | [gru:v]   | *grōve*  | |
 | *move*   | [mu:v]    | *mōve*   | *moove* |
-| | | |
+| | | | |
 | *devil*  | [ˈdevəl]  | *dĕvel*  | *dewel* |
 | *dove*   | [dʌv]     | *dŭve*   | *duw* |
 | *ever*   | [ˈevə]    | *æver*   | *ewer* | <!-- æ with breve -->
@@ -444,9 +446,12 @@ In many cases, a long *e* [i:] comes from a Germanic *au*, *o*, as well as *ai*,
 
 At the end of one-syllable words, *e* is pronounced as a long [i:].
 
+<!-- TODO -->
+
 | | | | |
 |-|-|-|-|
 | *bee* | [bi:] | *bī* | *bee* |
+| *key* | [ki:] | *kǣ* | *key* |
 | *me*  | [mi:] | *mī* | |
 | *sea* | [si:] | *sǣ* | *see* |
 | *the* | [ði:] | | |
@@ -486,7 +491,7 @@ Long *i* [i:] is spelt like long *e*.
 |-|-|-|-|
 | *beetle*  | [ˈbi:tl̩] | *bitel*   | *bietle* |
 | *free*    | [fri:]   | *frī*     | *frie* |
-| *tree*    | [tri:]   | *trȳ*     | *trie* |
+| *tree*    | [tri:]   | *trȳ*     | *trye* |
 | *week*    | [wi:k]   | *wik*     | *wiek* |
 | | | | |
 | *sieve*   | [si:v]   | *sīve*    | |
@@ -519,10 +524,15 @@ Words ending in -ld or -nd lack a silent *e*.
 
 At the end of one-syllable words, *i* is pronounced as a diphthong [aɪ̯].
 
+<!-- TODO -->
+
 | | | |
 |-|-|-|
 | *by*   | [baɪ̯]  | *bi*   |
+| *cry*  | [kraɪ̯] | *cri*  |
 | *try*  | [traɪ̯] | *tri*  |
+| | | |
+| *die*  | [daɪ̯]  | *dø~*  | <!-- ø~ -->
 
 Many diphthong *i* [aɪ̯] come from *igh*.
 
@@ -852,7 +862,7 @@ Germanic *gh* is sometimes equivalent to *w* and written as *ugh*. *aught* and *
 
 | | | | |
 |-|-|-|-|
-| *knee* | [ni:] | *knȳ* | *knie* |
+| *knee* | [ni:] | *knȳ* | *knye* |
 
 | | |
 |-|-|
@@ -875,7 +885,9 @@ Germanic *gh* is sometimes equivalent to *w* and written as *ugh*. *aught* and *
 | *cheek*   | [tʃi:k]   | *chøke*   | |
 | *chest*   | [tʃest]   | *chïst*   | *chest* |
 | *chicken* | [ˈtʃɪkɪn] | *chyckin* | |
+| *chin*    | [tʃɪn]    | *chin*    | |
 | | | | |
+| *starch*  | [stɑə̯tʃ]  | | |
 | *stench*  | [stentʃ]  | *stench*  | |
 | *stretch* | [stretʃ]  | *strech*  | |
 | *thatch*  | [θætʃ]    | *thach*   | |
@@ -1234,6 +1246,8 @@ Therefore, if the stem ends in *-t* and the stem vowel is short, the form of the
 |            |         |         | |
 | *set*      | [set]   |         | |
 |            |         |         | |
+| *spit*     | [spɪt]  |         | | <!-- non-AE: spit spat spat = irregular, like "shit" -->
+|            |         |         | |
 | *split*    | [splɪt] |         | |
 |            |         |         | |
 | *spread*   | [spred] | *spræd* | *spred* | <!-- irregular because of -d? (spræd, spræt, spræt) -->
@@ -1438,7 +1452,7 @@ Often originally *i*-*a*-*u*, *i*-*a*-*i*, *a*-*e*-*a*, *a*-*o*-*a*.
 | *blown*   | [bloʊ̯n]   | *blõen*    | |
 |           |           |            | |
 | *draw*    | [drɔ:]    | *draǧh*    | |
-| *drew*    | [dru:]    | *drøǧh*    | |
+| *drew*    | [dru:]    | *drøǧh*    | *dreǧh* |
 | *drawn*   | [drɔ:n]   | *draǧhen*  | |
 |           |           |            | |
 | *eat*     | [i:t]     | *ete*      | |
@@ -1606,9 +1620,6 @@ Diphthong *i* [aɪ̯] becomes short *i* [ɪ].
 | *slide*   | [slaɪ̯d] | *slide*    | <!-- originally slide slad sliden -->
 | *slid*    | [slɪd]  | *slid*     | <!-- irregular, because "slid" instead of "slidden"; (or: slide slit slitten) -->
 |           |         |            |
-| *spit*    | [spɪt]  | *spit*     | <!-- as well as "shit", even though not etymological -->
-| *spat*    | [spæt]  | *spat*     | <!-- irregular, because "spat" instead of "spatten" -->
-|           |         |            |
 | *stand*   | [stænd] | *stand*    |
 | *stood*   | [stʊd]  | *stǒd*     |
 |           |         |            |
@@ -1638,3 +1649,13 @@ In American English, *u* [ʌ] before *r* plus vowel is pronounced like short vow
 <!-- -le -->
 
 <!-- aina-galīk each -->
+
+<!-- tower tũr -->
+<!-- cover -->
+
+free frie
+tree trye
+knee knye
+
+-ly -lij (?) -lĳ
+-y -ij (?) -ĳ
