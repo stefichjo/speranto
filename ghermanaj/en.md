@@ -143,7 +143,9 @@ When a short *i* [ɪ] comes from a short *a*, this is not reflected in the spell
 | | | | |
 |-|-|-|-|
 | *mister*  | [ˈmɪstə]  | *mȧster*  | |
-| *english* | [ˈɪŋglɪʃ] | *ȧnglish* | *inḡlish* |
+| *english* | [ˈɪŋglɪʃ] | *ȧnḡlish* | *inḡlish* |
+
+<!-- lettuce -->
 
 Short *ir* is pronounced [ɜ:].
 
@@ -853,7 +855,7 @@ Germanic *gh* is sometimes equivalent to *w* and written as *ugh*. *aught* and *
 
 ## Consonants
 
-### c, ch
+### c, ch, k
 
 | | |
 |-|-|
@@ -870,6 +872,7 @@ Germanic *gh* is sometimes equivalent to *w* and written as *ugh*. *aught* and *
 
 | | | | |
 |-|-|-|-|
+| *ache*    | [eɪ̯k]     | *ake*     | |
 | *celt*    | [kelt]    | *kelt*    | |
 | *kin*     | [kɪn]     | *kyn*     | |
 | *king*    | [kɪŋ]     | *kyng*    | |
@@ -911,12 +914,13 @@ After *ȃ* [a] and *u* [ʌ] Germanic *gh* is pronounced [f].
 
 | | | | |
 |-|-|-|-|
-| *after*  | [aftə]  | *ȃghter* | |
-| *laugh*  | [laf]   | *lȃgh*   | |
+| *after*   | [aftə]  | *ȃghter* | |
+| *draught* | [draft] | *drȃght* | |
+| *laugh*   | [laf]   | *lȃgh*   | |
 | | | | |
-| *cough*  | [rʌf]   | *côgh*   | *cugh* |
-| *enough* | [ɪˈnʌf] | *ğenôgh* | *ğenugh* |
-| *rough*  | [rʌf]   | *rugh*   | |
+| *cough*   | [rʌf]   | *côgh*   | *cugh* |
+| *enough*  | [ɪˈnʌf] | *ğenôgh* | *ğenugh* |
+| *rough*   | [rʌf]   | *rugh*   | |
 
 Germanic *ghs* is pronounced [ks] and doesn't contain a silent *gh*.
 
@@ -1653,9 +1657,16 @@ In American English, *u* [ʌ] before *r* plus vowel is pronounced like short vow
 <!-- tower tũr -->
 <!-- cover -->
 
+<!-- 
 free frie
 tree trye
 knee knye
 
 -ly -lij (?) -lĳ
 -y -ij (?) -ĳ
+ -->
+
+<!-- "-o" is overused (so = soe, to = too) -->
+<!-- "-u" is underused? -->
+
+<!-- https://www.youtube.com/watch?v=4c2CNOldp0Q&t=273s -->
