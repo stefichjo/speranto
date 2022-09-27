@@ -1004,8 +1004,9 @@ The unstressed prefix *on-* becomes *a-*. <!-- actually ån̆- -->
 | *aback*    | [əˈbæk]   |           | |
 | *aboard*   | [əˈbɔ:d]  | *abord*   | |
 | *about*    | [əˈbɑʊ̯t]  | *abũt*    | |
-| *above*    | [əˈbʌv]   | *abŭve*   | |
+| *above*    | [əˈbʌv]   | *abŭve*   | *abuw* |
 | *across*   | [əˈkrɒs]  |           | |
+| *adrift*   | [əˈdrɪft] |           | |
 | *afloat*   | [əˈfloʊ̯t] | *aflote*  | |
 | *afore*    | [əˈfɔə̯]   | *afor*    | |
 | *afoot*    | [əˈfʊt]   | *afǒt*    | *afut* |
