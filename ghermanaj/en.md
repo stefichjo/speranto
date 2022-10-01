@@ -904,6 +904,7 @@ Germanic *gh* is sometimes equivalent to *w* and written as *ugh*. *aught* and *
 | *frolic*    | [ˈfrɒlɪk]   | *froğlik*    |
 | *grey*      | [greɪ̯]      | *gregh*      |
 | *stirrup*   | [ˈstɪrəp]   | *stiğrop*    |
+| *yard*      | [jɑə̯d]      | *ġard*       |
 | *yesterday* | [ˈjestədeɪ̯] | *ġesterdagh* |
 
 | | | | |
