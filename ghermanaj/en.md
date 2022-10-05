@@ -78,6 +78,7 @@ Many short *e* [e] come from Germanic *æ*, *ai* or *au*, and even *eu*.
 |-|-|-|-|
 | *breath*  | [breθ]   | *bræth*   | *breth* |
 | *drench*  | [drentʃ] | *drænch*  | |
+| *elder*   | [ˈeldə]  | *ælder*   | |
 | *health*  | [helθ]   | *hælth*   | *helth* |
 | *head*    | [hed]    | *hæd*     | *hed* |
 | *length*  | [leŋθ]   | *længth*  | |
@@ -1672,3 +1673,5 @@ knee knye
 <!-- "-u" is underused? -->
 
 <!-- https://www.youtube.com/watch?v=4c2CNOldp0Q&t=273s -->
+
+<!-- http://www.cubedictionary.org/ -->
