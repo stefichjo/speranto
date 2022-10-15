@@ -44,12 +44,12 @@
 
 ***non-regional ⇒ mid-atlantic***
 
-| | "don't ask" |
+| | "don't ȃsk" |
 |-|-|
 | **ȃ**  | [a]                 |
 | **a**  | [a]   ⇒ [æ]         |
 
-| | "don't put" |
+| | "don't pǔt" |
 |-|-|
 | **ǔ**  | [ʊ]                 |
 | **u**  | [ʊ]   ⇒ [ə]  ⇒ [ʌ]  |
@@ -64,6 +64,18 @@
 | | |
 | **õr**  | [oʊ̯ə̯] ⇒ [ɔə̯]  |
 | **ẽr**  | [eɪ̯ə̯] ⇒ [ɛə̯]  |
+
+***mid-atlantic ⇒ British (RP)***
+
+...
+
+***British ⇒ SSB***
+
+...
+
+***mid-atlantic ⇒ American***
+
+...
 
 -----
 
