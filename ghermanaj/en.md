@@ -83,29 +83,35 @@
 ***Standard Southern Non-Regional English***
 *(Non-Distinct: Received Pronunciation; Distinct: Mid-Atlantic)*
 
-| | Standard ⇐ Non-Standard|
+| | Standard ⇐ Non-Standard |
 |-|-|
-| **ār**   | ɑə̯      ⇐ aə̯       |
-| **õ**    | əʊ̯ (oʊ̯) ⇐ oʊ̯       |
-| **ũ(r)** | ɑʊ̯(ə̯)   ⇐ aʊ̯(ə̯)    |
+| **ār**   | ɑə̯      ⇐ aə̯    |
+| **õ**    | əʊ̯ (oʊ̯) ⇐ oʊ̯    |
+| **ũ(r)** | ɑʊ̯(ə̯)   ⇐ aʊ̯(ə̯) |
 
-***Standard Southern British English***
+***Non-Standard Southern British English***
 *(Non-Distinct: SSB)*
 
-British ⇐ Non-Regional
+| British ⇐ Non-Regional |
+|-|
+| ɛ  ⇐ e  |
+| ɔ  ⇐ ɒ  |
+| ɵ  ⇐ ʊ  |
+| ə  ⇐ ɜ  |
+| ɪj ⇐ i: |
+| ʉw ⇐ u: |
+| o  ⇐ ɔ  |
+| ə  ⇐ o  |
+| j  ⇐ ɪ̯  |
+| w  ⇐ ʊ̯  |
 
-|       | | ˘      | +r      | | ¯         | +r        | | ˜       | +r        |
+|       | | ˘      | +r | | ¯   | +r        | | ˜  | +r       |
 |-|-|-|-|-|-|-|-|-|-|
-| **a** | | ɑ:     | ə: ⇐ ɜ: | |  ɑ:       |  ɑ:       | | ↑       | ↑         |
-| **e** | | ɛ ⇐ e  | ə: ⇐ ɜ: | |  ↑        |  ↑        | | ɛj ⇐ eɪ̯ | ɛ:        |
-| **i** | | ɪ      | ə: ⇐ ɜ: | |  ɪj ⇐  i: |  ɪ:       | | ɑj ⇐ aɪ̯ | ɑjə ⇐ aɪ̯ə̯ |
-| **o** | | ɔ ⇐ ɒ  | ə: ⇐ ɜ: | |  ʉw ⇐  u: |  o: ⇐  ɔ: | | əw ⇐ əʊ̯ | o:  ⇐ ɔ:  |
-| **u** | | ɵ ⇐ ʊ  | ə: ⇐ ɜ: | | jʉw ⇐ ɪ̯u: | jo: ⇐ ɪ̯ɔ: | | aw ⇐ ɑʊ̯ | awə ⇐ ɑʊ̯ə̯ |
-
-| | |
-|-|-|
-| **āu** | o: ⇐ ɔ: |
-| **oi** | oɪ̯ ⇐ ɔɪ̯ |
+| **a** | | ɑ: (a) | ə: | |  ɑ: |  ɑ:  (aə̯) | | ↑  | ↑        |
+| **e** | | ɛ      | ə: | |  ↑  |  ↑        | | ɛj |  ɛ: (ɛə̯) |
+| **i** | | ɪ      | ə: | |  ɪj |  ɪ:  (ɪə̯) | | aj | ajə      |
+| **o** | | ɔ      | ə: | |  ʉw |  o:  (ɵə̯) | | əw |  o: (oə̯) |
+| **u** | | ɵ      | ə: | | jʉw | jo: (ɪ̯ɵə̯) | | aw | awə      |
 
 ### Short Vowels
 
