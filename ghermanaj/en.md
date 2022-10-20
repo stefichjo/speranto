@@ -90,7 +90,6 @@
 | **ũ(r)** | ɑʊ̯(ə̯)   ⇐ aʊ̯(ə̯) |
 
 ***Non-Standard Southern British English***
-*(Non-Distinct: SSB)*
 
 | British ⇐ Non-Regional |
 |-|
@@ -112,6 +111,11 @@
 | **i** | | ɪ      | ə: | |  ɪj |  ɪ:  (ɪə̯) | | aj | ajə      |
 | **o** | | ɔ      | ə: | |  ʉw |  o:  (ɵə̯) | | əw |  o: (oə̯) |
 | **u** | | ɵ      | ə: | | jʉw | jo: (ɪ̯ɵə̯) | | aw | awə      |
+
+***Standard Southern British English***
+*(Non-Distinct: SSB)*
+
+Standard ⇐ Non-Standard
 
 ### Short Vowels
 
