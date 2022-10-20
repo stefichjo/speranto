@@ -115,7 +115,10 @@
 ***Standard Southern British English***
 *(Non-Distinct: SSB)*
 
-Standard ⇐ Non-Standard
+| | Standard ⇐ Non-Standard  |
+|-|-|
+| **ĩ(r)**   | ɑj(ə) ⇐ aj(ə) |
+| **ũ(r)**   | æw(ə) ⇐ aw(ə) |
 
 ### Short Vowels
 
