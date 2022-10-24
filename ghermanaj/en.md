@@ -10,9 +10,7 @@
 | **o** | **or** | | **ō** | **ōr** | | **õ** | **õr** |
 | **u** | **ur** | | **ū** | **ūr** | | **ũ** | **ũr** |
 
-<!-- Northern = rhotic; Southern = non-rhotic -->
-<!-- Standard = irregular; Non-Standard = regular -->
-<!-- Conservative = without linking r; Contemporar = with linking r -->
+Distinct/conservative pronunciations are written in parenthesis.
 
 ***Non-Standard Northern Non-Regional English***
 
@@ -133,13 +131,17 @@
 | **o** | | ɔ      | ə: | |  ʉw |  o:  (ɵə̯) | | əw |  o: (oə̯) |
 | **u** | | ɵ      | ə: | | jʉw | jo: (ɪ̯ɵə̯) | | æw | æwə      |
 
-| | linking "j" |
+| | endings |
 |-|-|
-| **I am** | ɑj æm |
+| **happy**  | ˈhæpɪj |
 
 | | linking "w" |
 |-|-|
 | **you are** | jʉw ɑ: |
+
+| | linking "y" |
+|-|-|
+| **I am** | ɑj æm |
 
 ### Short Vowels
 
