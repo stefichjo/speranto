@@ -61,6 +61,12 @@
 | **o** | | ɒ      | ɜ: (ɜə̯) | |  u: |  ɔ:  (ʊə̯) | | oʊ̯ |  ɔ: (ɔə̯) |
 | **u** | | ʊ      | ɜ: (ɜə̯) | | ɪ̯u: | ɪ̯ɔ: (ɪ̯ʊə̯) | | aʊ̯ | aʊ̯ə̯      |
 
+| | endings |
+|-|-|
+| **happy**  | ˈhepɪ |
+| **letter** | ˈletə |
+| **comma**  | ˈkɒmə |
+
 | | "ȃsk" |
 |-|-|
 | **ȃ**  |     ɑ: (a) |
@@ -73,14 +79,14 @@
 
 | | linking "r" |
 |-|-|
-| **sore a**   | sɔ:r ɪn (sɔ:r ɪn)   |
+| **sore in**  | sɔ:r ɪn (sɔə̯r ɪn)   |
 | **saw in**   | sɔ: rɪn (sɔ: ɪn)    |
 | | |
-| **spar is**  | spɑ:r ɪz (spɑ:r ɪz) |
+| **spar is**  | spɑ:r ɪz (spaə̯r ɪz) |
 | **spa is**   | spɑ: rɪz (spɑ: ɪz)  |
 | | |
-| **layer on** | lɛə̯r ɒn (lɛə̯r ɒn)   |
-| **Leia on**  | lɛə̯ rɒn (lɛə̯ ɒn)    |
+| **layer on** | leɪ̯ər ɒn            |
+| **Leia on**  | leɪ̯ə rɒn (leɪ̯ə ɒn)  |
 
 | | | | | | |
 |-|-|-|-|-|-|
@@ -90,18 +96,6 @@
 | ɑ: |   | i: |    | u: |    |
 | | | | | | |
 |    |   |    | ɔ: |    | ɜ: |
-
-Distinct: linking r
-
--a = -er
-
-happy
-letter
-comma
-
-layer Leia (payer peia?)
-spar spa (par pa)
-sore saw (pore paw)
 
 ***Standard Southern Non-Regional English***
 *(Contemporary: Received Pronunciation; Conservative: Mid-Atlantic)*
