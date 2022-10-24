@@ -41,10 +41,10 @@ Distinct/conservative pronunciations are written in parenthesis.
 
 | | Southern ⇐ Northern |
 |-|-|
-| **-r**  | ə̯   ⇐ r                |
-| **˘-r** | ɜ:  ⇐ ə:               |
-| **ẽr**  | ɛ: (ɛə̯)  ⇐ e:ər (eɪ̯ər) |
-| **õr**  | ɔ: (ɔə̯)  ⇐ o:ər (oʊ̯ər) |
+| **-r**  | ə̯        ⇐ r           |
+| **˘-r** | ɜ:       ⇐ ə:          |
+| **ẽr**  | ɛ: (ɛə̯)  ⇐ e:ər (eɪ̯ər) | <!-- layer/lair split -->
+| **õr**  | ɔ: (ɔə̯)  ⇐ o:ər (oʊ̯ər) | <!-- lower/lore split -->
 
 | | |
 |-|-|
@@ -61,7 +61,7 @@ Distinct/conservative pronunciations are written in parenthesis.
 
 | | endings |
 |-|-|
-| **happy**  | ˈhepɪ |
+| **happy**  | ˈhæpɪ |
 | **letter** | ˈletə |
 | **comma**  | ˈkɒmə |
 
