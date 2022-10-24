@@ -12,7 +12,7 @@
 
 <!-- Northern = rhotic; Southern = non-rhotic -->
 <!-- Standard = irregular; Non-Standard = regular -->
-<!-- Distinct = without linking r; Non-Distinct = with linking r -->
+<!-- Conservative = without linking r; Contemporar = with linking r -->
 
 ***Non-Standard Northern Non-Regional English***
 
@@ -53,23 +53,34 @@
 | **āu** | ɔ: ⇐ ɑ:ʊ̯ |
 | **oi** | ɔɪ̯ ⇐ oɪ̯  |
 
-|       | | ˘      | +r | | ¯   | +r        | | ˜  | +r       |
+|       | | ˘      | +r      | | ¯   | +r        | | ˜  | +r       |
 |-|-|-|-|-|-|-|-|-|-|
-| **a** | | ɑ: (a) | ɜ: | |  ɑ: |  ɑ:  (aə̯) | | ↑  | ↑        |
-| **e** | | e      | ɜ: | |  ↑  |  ↑        | | eɪ̯ |  ɛ: (ɛə̯) |
-| **i** | | ɪ      | ɜ: | |  i: |  ɪ:  (ɪə̯) | | aɪ̯ | aɪ̯ə̯      |
-| **o** | | ɒ      | ɜ: | |  u: |  ɔ:  (ʊə̯) | | oʊ̯ |  ɔ: (ɔə̯) |
-| **u** | | ʊ      | ɜ: | | ɪ̯u: | ɪ̯ɔ: (ɪ̯ʊə̯) | | aʊ̯ | aʊ̯ə̯      |
+| **a** | | ɑ: (a) | ɜ: (ɜə̯) | |  ɑ: |  ɑ:  (aə̯) | | ↑  | ↑        |
+| **e** | | e      | ɜ: (ɜə̯) | |  ↑  |  ↑        | | eɪ̯ |  ɛ: (ɛə̯) |
+| **i** | | ɪ      | ɜ: (ɜə̯) | |  i: |  ɪ:  (ɪə̯) | | aɪ̯ | aɪ̯ə̯      |
+| **o** | | ɒ      | ɜ: (ɜə̯) | |  u: |  ɔ:  (ʊə̯) | | oʊ̯ |  ɔ: (ɔə̯) |
+| **u** | | ʊ      | ɜ: (ɜə̯) | | ɪ̯u: | ɪ̯ɔ: (ɪ̯ʊə̯) | | aʊ̯ | aʊ̯ə̯      |
 
 | | "ȃsk" |
 |-|-|
-| **ȃ**  | a     |
-| **a**  | æ ⇐ a |
+| **ȃ**  |     ɑ: (a) |
+| **a**  | æ ⇐ ɑ: (a) |
 
 | | "pǔt" |
 |-|-|
-| **ǔ**  | ʊ                     |
+| **ǔ**  | ʊ         |
 | **u**  | ʌ ⇐ ə ⇐ ʊ |
+
+| | linking "r" |
+|-|-|
+| **sore a**   | sɔ:r ɪn (sɔ:r ɪn)   |
+| **saw in**   | sɔ: rɪn (sɔ: ɪn)    |
+| | |
+| **spar is**  | spɑ:r ɪz (spɑ:r ɪz) |
+| **spa is**   | spɑ: rɪz (spɑ: ɪz)  |
+| | |
+| **layer on** | lɛə̯r ɒn (lɛə̯r ɒn)   |
+| **Leia on**  | lɛə̯ rɒn (lɛə̯ ɒn)    |
 
 | | | | | | |
 |-|-|-|-|-|-|
@@ -80,8 +91,20 @@
 | | | | | | |
 |    |   |    | ɔ: |    | ɜ: |
 
+Distinct: linking r
+
+-a = -er
+
+happy
+letter
+comma
+
+layer Leia (payer peia?)
+spar spa (par pa)
+sore saw (pore paw)
+
 ***Standard Southern Non-Regional English***
-*(Non-Distinct: Received Pronunciation; Distinct: Mid-Atlantic)*
+*(Contemporary: Received Pronunciation; Conservative: Mid-Atlantic)*
 
 | | Standard ⇐ Non-Standard |
 |-|-|
