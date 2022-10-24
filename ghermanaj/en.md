@@ -77,6 +77,7 @@
 | **ǔ**  | ʊ         |
 | **u**  | ʌ ⇐ ə ⇐ ʊ |
 
+<!-- TODO: link to Geoff Lindsey -->
 | | linking "r" |
 |-|-|
 | **sore in**  | sɔ:r ɪn (sɔə̯r ɪn)   |
@@ -131,6 +132,14 @@
 | **i** | | ɪ      | ə: | |  ɪj |  ɪ:  (ɪə̯) | | ɑj | ɑjə      |
 | **o** | | ɔ      | ə: | |  ʉw |  o:  (ɵə̯) | | əw |  o: (oə̯) |
 | **u** | | ɵ      | ə: | | jʉw | jo: (ɪ̯ɵə̯) | | æw | æwə      |
+
+| | linking "j" |
+|-|-|
+| **I am** | ɑj æm |
+
+| | linking "w" |
+|-|-|
+| **you are** | jʉw ɑ: |
 
 ### Short Vowels
 
