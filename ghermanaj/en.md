@@ -1,6 +1,4 @@
-# Inḡlish Orthography
-
-## Vowels
+# Inḡlish Accents
 
 | | | | | | | | |
 |-|-|-|-|-|-|-|-|
@@ -12,7 +10,7 @@
 
 Distinct/conservative pronunciations are written in parenthesis.
 
-***Non-Standard Northern Non-Regional English***
+## Non-Standard Northern Non-Regional English
 
 |       | | ˘ | +r      | | ¯   | +r   | | ˜       | +r          |
 |-|-|-|-|-|-|-|-|-|-|
@@ -37,7 +35,7 @@ Distinct/conservative pronunciations are written in parenthesis.
 | a  | e  | ɪ  | o  | ʊ  | ə  |
 | ɑ: | e: | i: | o: | u: | ə: |
 
-***Non-Standard Southern Non-Regional English***
+## Non-Standard Southern Non-Regional English
 
 | | Southern ⇐ Northern |
 |-|-|
@@ -75,8 +73,7 @@ Distinct/conservative pronunciations are written in parenthesis.
 | **ǔ**  | ʊ         |
 | **u**  | ʌ ⇐ ə ⇐ ʊ |
 
-<!-- TODO: link to Geoff Lindsey -->
-| | linking "r" |
+| | [linking "r"](https://youtu.be/0SPArSawsGQ) |
 |-|-|
 | **sore in**  | sɔ:r ɪn (sɔə̯r ɪn)   |
 | **saw in**   | sɔ: rɪn (sɔ: ɪn)    |
@@ -96,7 +93,7 @@ Distinct/conservative pronunciations are written in parenthesis.
 | | | | | | |
 |    |   |    | ɔ: |    | ɜ: |
 
-***Standard Southern Non-Regional English***
+## Standard Southern Non-Regional English
 *(Contemporary: Received Pronunciation; Conservative: Mid-Atlantic)*
 
 | | Standard ⇐ Non-Standard |
@@ -105,7 +102,7 @@ Distinct/conservative pronunciations are written in parenthesis.
 | **õ**    | əʊ̯ (oʊ̯) ⇐ oʊ̯    |
 | **ũ(r)** | ɑʊ̯(ə̯)   ⇐ aʊ̯(ə̯) |
 
-***Non-Standard Southern British English***
+## Non-Standard Southern British English
 *(Standard Southern British English (SSB))*
 
 | British ⇐ Non-Regional |
@@ -142,6 +139,10 @@ Distinct/conservative pronunciations are written in parenthesis.
 | | linking "y" |
 |-|-|
 | **I am** | ɑj æm |
+
+# Inḡlish Orthography
+
+## Vowels
 
 ### Short Vowels
 
