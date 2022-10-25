@@ -131,10 +131,6 @@ Distinct/conservative pronunciations are written in parenthesis.
 | **o** | | ɔ      | ə: | |  ʉw |  o:  (ɵə̯) | | əw |  o: (oə̯) |
 | **u** | | ɵ      | ə: | | jʉw | jo: (ɪ̯ɵə̯) | | æw | æwə      |
 
-| | |
-|-|-|
-| **oi** | oj ⇐ ɔɪ̯  |
-
 | | endings |
 |-|-|
 | **happy**  | ˈhæpɪj |
