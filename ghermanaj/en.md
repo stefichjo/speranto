@@ -144,7 +144,7 @@ Distinct/conservative pronunciations are written in parenthesis.
 | **I am** | ɑj æm |
 
 | short vowels  | | long vowels    | | diphthongs (-j) | | diphthongs (-w) |
-|-|-|-|-|-|-|-|-|-|
+|-|-|-|-|-|-|-|
 | æ ɛ ɪ ɔ ɵ ʌ ə | | ɑ: ɛ: ɪ: o: ə: | | ɑj ɛj ɪj oj     | | æw əw ʉw        |
 
 # Inḡlish Orthography
