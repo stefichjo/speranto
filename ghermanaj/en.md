@@ -135,13 +135,9 @@ Distinct/conservative pronunciations are written in parenthesis.
 |-|-|
 | **happy**  | ˈhæpɪj |
 
-| | linking "w" |
-|-|-|
-| **you are** | jʉw ɑ: |
-
-| | linking "y" |
-|-|-|
-| **I am** | ɑj æm |
+|             | linking "w" | |          | linking "y" |
+|-|-|-|-|-|
+| **you are** | jʉw ɑ:      | | **I am** | ɑj æm       |
 
 | short vowels  | | long vowels    | | diphthongs (-j) | | diphthongs (-w) |
 |-|-|-|-|-|-|-|
