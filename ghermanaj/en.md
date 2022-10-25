@@ -73,16 +73,16 @@ Distinct/conservative pronunciations are written in parenthesis.
 | **ǔ**  | ʊ         |
 | **u**  | ʌ ⇐ ə ⇐ ʊ |
 
-| | [linking "r"](https://youtu.be/0SPArSawsGQ) |
-|-|-|
-| **sore in**  | sɔ:r ɪn (sɔə̯r ɪn)   |
-| **saw in**   | sɔ: rɪn (sɔ: ɪn)    |
-| | |
-| **spar is**  | spɑ:r ɪz (spaə̯r ɪz) |
-| **spa is**   | spɑ: rɪz (spɑ: ɪz)  |
-| | |
-| **layer on** | leɪ̯ər ɒn            |
-| **Leia on**  | leɪ̯ə rɒn (leɪ̯ə ɒn)  |
+| | | | | [linking "r"](https://youtu.be/0SPArSawsGQ) |
+|-|-|-|-|-|
+| **sore**  | sɔ: (sɔə̯)   | | **sore in**  | sɔ:r ɪn (sɔə̯r ɪn)   |
+| **saw**   | sɔ:         | | **saw in**   | sɔ: r ɪn (sɔ: ɪn)    |
+| | | | | |
+| **spar**  | spɑ: (spaə̯) | | **spar is**  | spɑ:r ɪz (spaə̯r ɪz) |
+| **spa**   | spɑ:        | | **spa is**   | spɑ: r ɪz (spɑ: ɪz)  |
+| | | | | |
+| **layer** | leɪ̯ə        | | **layer on** | leɪ̯ər ɒn            |
+| **Leia**  | leɪ̯ə        | | **Leia on**  | leɪ̯ə r ɒn (leɪ̯ə ɒn)  |
 
 | | | | | | |
 |-|-|-|-|-|-|
