@@ -110,15 +110,18 @@ Distinct/conservative pronunciations are written in parenthesis.
 | ɛ  ⇐ e  |
 | ɔ  ⇐ ɒ  |
 | ɵ  ⇐ ʊ  |
-| ə  ⇐ ɜ  |
+| |
+| o: ⇐ ɔ: |
+| ə: ⇐ ɜ: |
+| |
+| ɑj ⇐ aɪ̯ |
+| ɛj ⇐ eɪ̯ |
+| oj ⇐ ɔɪ̯ |
+| æw ⇐ aʊ̯ |
+| əw ⇐ oʊ̯ |
+| |
 | ɪj ⇐ i: |
 | ʉw ⇐ u: |
-| o  ⇐ ɔ  |
-| ə  ⇐ o  |
-| j  ⇐ ɪ̯  |
-| ɑj ⇐ aɪ̯ |
-| w  ⇐ ʊ̯  |
-| æw ⇐ aʊ̯ |
 
 |       | | ˘      | +r | | ¯   | +r        | | ˜  | +r       |
 |-|-|-|-|-|-|-|-|-|-|
@@ -127,6 +130,10 @@ Distinct/conservative pronunciations are written in parenthesis.
 | **i** | | ɪ      | ə: | |  ɪj |  ɪ:  (ɪə̯) | | ɑj | ɑjə      |
 | **o** | | ɔ      | ə: | |  ʉw |  o:  (ɵə̯) | | əw |  o: (oə̯) |
 | **u** | | ɵ      | ə: | | jʉw | jo: (ɪ̯ɵə̯) | | æw | æwə      |
+
+| | |
+|-|-|
+| **oi** | oj ⇐ ɔɪ̯  |
 
 | | endings |
 |-|-|
@@ -139,6 +146,10 @@ Distinct/conservative pronunciations are written in parenthesis.
 | | linking "y" |
 |-|-|
 | **I am** | ɑj æm |
+
+| short vowels  | | long vowels    | | diphthongs (-j) | | diphthongs (-w) |
+|-|-|-|-|-|
+| æ ɛ ɪ ɔ ɵ ʌ ə | | ɑ: ɛ: ɪ: o: ə: | | ɑj ɛj ɪj oj     | | æw əw ʉw        |
 
 # Inḡlish Orthography
 
