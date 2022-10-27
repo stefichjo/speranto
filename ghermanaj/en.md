@@ -16,9 +16,9 @@ Distinct/conservative pronunciations are written in parenthesis.
 |-|-|-|-|-|-|-|-|-|-|
 | **a** | | a | ə: (ər) | |  ɑ: |   ar | | ↑       | ↑           |
 | **e** | | e | ə: (ər) | |  ↑  |   ↑  | | e: (eɪ̯) | e:ər (eɪ̯ər) |
-| **i** | | ɪ | ə: (ər) | |  i: |   ɪr | | aɪ̯      | aɪ̯ər        |
+| **i** | | ɪ | ə: (ər) | |  i: |   ɪr | | aɪ̯      | + ər        |
 | **o** | | o | ə: (ər) | |  u: |   ʊr | | o: (oʊ̯) | o:ər (oʊ̯ər) |
-| **u** | | ʊ | ə: (ər) | | ɪ̯u: |  ɪ̯ʊr | | aʊ̯      | aʊ̯ər        |
+| **u** | | ʊ | ə: (ər) | | ɪ̯u: |  ɪ̯ʊr | | aʊ̯      | + ər        |
 
 | | |
 |-|-|
@@ -53,9 +53,9 @@ Distinct/conservative pronunciations are written in parenthesis.
 |-|-|-|-|-|-|-|-|-|-|
 | **a** | | ɑ: (a) | ɜ: (ɜə̯) | |  ɑ: |  ɑ:  (aə̯) | | ↑  | ↑        |
 | **e** | | e      | ɜ: (ɜə̯) | |  ↑  |  ↑        | | eɪ̯ |  ɛ: (ɛə̯) |
-| **i** | | ɪ      | ɜ: (ɜə̯) | |  i: |  ɪ:  (ɪə̯) | | aɪ̯ | aɪ̯ə̯      |
+| **i** | | ɪ      | ɜ: (ɜə̯) | |  i: |  ɪ:  (ɪə̯) | | aɪ̯ | + ə̯      |
 | **o** | | ɒ      | ɜ: (ɜə̯) | |  u: |  ɔ:  (ʊə̯) | | oʊ̯ |  ɔ: (ɔə̯) |
-| **u** | | ʊ      | ɜ: (ɜə̯) | | ɪ̯u: | ɪ̯ɔ: (ɪ̯ʊə̯) | | aʊ̯ | aʊ̯ə̯      |
+| **u** | | ʊ      | ɜ: (ɜə̯) | | ɪ̯u: | ɪ̯ɔ: (ɪ̯ʊə̯) | | aʊ̯ | + ə̯      |
 
 | | endings |
 |-|-|
@@ -76,13 +76,13 @@ Distinct/conservative pronunciations are written in parenthesis.
 | | | | | [linking "r"](https://youtu.be/0SPArSawsGQ) |
 |-|-|-|-|-|
 | **sore**  | sɔ: (sɔə̯)   | | **sore in**  | sɔ:r ɪn (sɔə̯r ɪn)   |
-| **saw**   | sɔ:         | | **saw in**   | sɔ: r ɪn (sɔ: ɪn)    |
+| **saw**   | sɔ:         | | **saw in**   | sɔ: r ɪn (sɔ: ɪn)   |
 | | | | | |
 | **spar**  | spɑ: (spaə̯) | | **spar is**  | spɑ:r ɪz (spaə̯r ɪz) |
-| **spa**   | spɑ:        | | **spa is**   | spɑ: r ɪz (spɑ: ɪz)  |
+| **spa**   | spɑ:        | | **spa is**   | spɑ: r ɪz (spɑ: ɪz) |
 | | | | | |
 | **layer** | leɪ̯ə        | | **layer on** | leɪ̯ər ɒn            |
-| **Leia**  | leɪ̯ə        | | **Leia on**  | leɪ̯ə r ɒn (leɪ̯ə ɒn)  |
+| **Leia**  | leɪ̯ə        | | **Leia on**  | leɪ̯ə r ɒn (leɪ̯ə ɒn) |
 
 | | | | | | |
 |-|-|-|-|-|-|
@@ -98,9 +98,9 @@ Distinct/conservative pronunciations are written in parenthesis.
 
 | | Standard ⇐ Non-Standard |
 |-|-|
-| **ār**   | ɑə̯      ⇐ aə̯    |
-| **õ**    | əʊ̯ (oʊ̯) ⇐ oʊ̯    |
-| **ũ(r)** | ɑʊ̯(ə̯)   ⇐ aʊ̯(ə̯) |
+| **ār**   | ɑə̯      ⇐ aə̯ |
+| **õ**    | əʊ̯ (oʊ̯) ⇐ oʊ̯ |
+| **ũ**    | ɑʊ̯      ⇐ aʊ̯ |
 
 ## Non-Standard Southern British English
 *(Standard Southern British English (SSB))*
@@ -127,9 +127,9 @@ Distinct/conservative pronunciations are written in parenthesis.
 |-|-|-|-|-|-|-|-|-|-|
 | **a** | | ɑ: (a) | ə: | |  ɑ: |  ɑ:  (aə̯) | | ↑  | ↑        |
 | **e** | | ɛ      | ə: | |  ↑  |  ↑        | | ɛj |  ɛ: (ɛə̯) |
-| **i** | | ɪ      | ə: | |  ɪj |  ɪ:  (ɪə̯) | | ɑj | ɑjə      |
+| **i** | | ɪ      | ə: | |  ɪj |  ɪ:  (ɪə̯) | | ɑj | + ə      |
 | **o** | | ɔ      | ə: | |  ʉw |  o:  (ɵə̯) | | əw |  o: (oə̯) |
-| **u** | | ɵ      | ə: | | jʉw | jo: (ɪ̯ɵə̯) | | æw | æwə      |
+| **u** | | ɵ      | ə: | | jʉw | jo: (ɪ̯ɵə̯) | | æw | + ə      |
 
 | | endings |
 |-|-|
@@ -142,6 +142,30 @@ Distinct/conservative pronunciations are written in parenthesis.
 | short vowels  | | long vowels    | | diphthongs (-j) | | diphthongs (-w) |
 |-|-|-|-|-|-|-|
 | æ ɛ ɪ ɔ ɵ ʌ ə | | ɑ: ɛ: ɪ: o: ə: | | ɑj ɛj ɪj oj     | | æw əw ʉw        |
+
+| British ⇐ Non-Regional |
+|-|
+| w ⇐ hw    |
+| |
+| t​ʃr ⇐ tr  |
+| dʒr ⇐ dr  |
+| ʃt​r ⇐ str |
+
+## Cockney
+
+<!-- https://www.uv.es/anglotic/accents_of_english/01/examples_of_cockney_english.html -->
+
+|       | | ˘  | +r | | ¯   | +r  | | ˜  | +r  |
+|-|-|-|-|-|-|-|-|-|-|
+| **a** | | ?ɑ:| ɜ: | | ? ɑ: | ? ɑ: | | ↑  | ↑   |
+| **e** | | e  | ɜ: | | ? ↑  | ? ↑  | | ʌɪ | ?ɛ: |
+| **i** | | ɪ  | ɜ: | | ? ɪj | ? ɪ: | | ʌ/ɑj | + ə |
+| **o** | | ɒ  | ɜ: | |  ʉ: |  ɔ: | | ?əw |  ɔ: |
+| **u** | | ʊ  | ɜ: | | jʉ: | jɔ: | | æʊ | + ə |
+
+| | "pǔt" |
+|-|-|
+| **u**  | æ̙ ⇐ ʌ |
 
 # Inḡlish Orthography
 
