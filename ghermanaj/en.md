@@ -121,7 +121,7 @@ Distinct/conservative pronunciations are written in parenthesis.
 | ɛj ⇐ eɪ̯ |
 | oj ⇐ ɔɪ̯ |
 | æw ⇐ aʊ̯ |
-| əw ⇐ ɵʊ̯ ⇐ oʊ̯ |
+| əw ⇐ ɵw ⇐ oʊ̯ |
 
 | British ⇐ Non-Regional: new diphthongs |
 |-|
