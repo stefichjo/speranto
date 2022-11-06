@@ -59,9 +59,11 @@ Distinct/conservative pronunciations are written in parenthesis.
 
 | | endings |
 |-|-|
-| **happy**  | ˈhæpɪ |
-| **letter** | ˈletə |
-| **comma**  | ˈkɒmə |
+| **happy**     | ˈhæpɪ |
+| **thank you** | 'θæŋkjʊ |
+| | |
+| **letter**    | ˈletə |
+| **comma**     | ˈkɒmə |
 
 | | "ȃsk" |
 |-|-|
@@ -105,13 +107,12 @@ Distinct/conservative pronunciations are written in parenthesis.
 | **ũr**   | (ɑ: (ɑə̯)) ⇐ aʊ̯ə̯     |
 
 ## Non-Standard Southern British English
-*(Standard Southern British English (SSB))*
 
-| British ⇐ Non-Regional |
+| British ⇐ Non-Regional: anti-clockwise vowel shift spiral |
 |-|
 | ɛ  ⇐ e  |
 | ɔ  ⇐ ɒ  |
-| ɵ  ⇐ ʊ  |
+| ʊ̈  ⇐ ʊ  |
 | |
 | o: ⇐ ɔ: |
 | ə: ⇐ ɜ: |
@@ -121,29 +122,38 @@ Distinct/conservative pronunciations are written in parenthesis.
 | oj ⇐ ɔɪ̯ |
 | æw ⇐ aʊ̯ |
 | əw ⇐ oʊ̯ |
-| |
+
+| British ⇐ Non-Regional: new diphthongs |
+|-|
 | ɪj ⇐ i: |
-| ʉw ⇐ u: |
+| ʊ̈w ⇐ u: |
 
 |       | | ˘      | +r | | ¯   | +r        | | ˜  | +r       |
 |-|-|-|-|-|-|-|-|-|-|
 | **a** | | ɑ: (a) | ə: | |  ɑ: |  ɑ:  (aə̯) | | ↑  | ↑        |
 | **e** | | ɛ      | ə: | |  ↑  |  ↑        | | ɛj |  ɛ: (ɛə̯) |
 | **i** | | ɪ      | ə: | |  ɪj |  ɪ:  (ɪə̯) | | ɑj | + ə      |
-| **o** | | ɔ      | ə: | |  ʉw |  o:  (ɵə̯) | | əw |  o: (oə̯) |
-| **u** | | ɵ      | ə: | | jʉw | jo: (ɪ̯ɵə̯) | | æw | + ə      |
+| **o** | | ɔ      | ə: | |  ʊ̈w |  o:  (ʊ̈ə̯) | | əw |  o: (oə̯) |
+| **u** | | ʊ̈      | ə: | | jʊ̈w | jo: (jʊ̈ə̯) | | æw | + ə      |
 
 | | endings |
 |-|-|
-| **happy**  | ˈhæpɪj |
+| **happy**     | ˈhæpɪj   |
+| **thank you** | 'θæŋkjʊ̈w |
 
 |             | linking "w" | |          | linking "y" |
 |-|-|-|-|-|
-| **you are** | jʉw ɑ:      | | **I am** | ɑj æm       |
+| **you are** | jʊ̈w ɑ:      | | **I am** | ɑj æm       |
 
 | short vowels  | | long vowels    | | diphthongs (-j) | | diphthongs (-w) |
 |-|-|-|-|-|-|-|
-| æ ɛ ɪ ɔ ɵ ʌ ə | | ɑ: ɛ: ɪ: o: ə: | | ɑj ɛj ɪj oj     | | æw əw ʉw        |
+| æ ɛ ɪ ɔ ʊ̈ ʌ ə | | ɑ: ɛ: ɪ: o: ə: | | ɑj ɛj ɪj oj     | | æw əw ʊ̈w        |
+
+## Standard Southern British English
+*(SSB / Cockney ...)*
+
+| ɵ  ⇐ ʊ  |
+| ʉw ⇐ u: |
 
 | British ⇐ Non-Regional |
 |-|
@@ -156,45 +166,67 @@ Distinct/conservative pronunciations are written in parenthesis.
 | dʒr ⇐ dr  |
 | ʃt​r ⇐ str |
 
-## Cockney
+### Cockney
 
 |       | | ˘      | +r      | | ¯   | +r        | | ˜  | +r       |
 |-|-|-|-|-|-|-|-|-|-|
-| **a** | | ɑ: (a) | ɜ: (ɜə̯) | |  ɑ:     |  ɑ:  (aə̯) | | ↑  | ↑             |
-| **e** | | ɛ      | ɜ: (ɜə̯) | |  ↑      |  ↑        | | aj |  ɛ: (ɛə̯, ɛjə) |
-| **i** | | ɪ      | ɜ: (ɜə̯) | |  ɪi     |  ɪ:  (iə) | | ɑj | + ə           |
-| **o** | | ɔ      | ɜ: (ɜə̯) | |  əʉ~ʉ:  |  o:  (ʊə̯) | | ɐw |  o: (oə̯, owə) |
-| **u** | | ʊ      | ɜ: (ɜə̯) | | ɪ̯əʉ~ɪ̯ʉ: | ɪ̯o: (ɪ̯ʊə̯) | | æw | + ə           |
+| **a** | | ɑ: | ɜ̟: | |  ɑ:     |  ɑ:  (aə̯) | | ↑  | ↑             |
+| **e** | | ɛ  | ɜ̟: | |  ↑      |  ↑        | | æj |  ɛ: (ɛə̯, ɛjə) |
+| **i** | | ɪ  | ɜ̟: | |  ɪi     |  ɪ:  (iə) | | ɑj | + ə           |
+| **o** | | ɔ  | ɜ̟: | |  əʉ~ʉ:  |  o:  (ɵə̯) | | ɐw |  o: (oə̯, owə) |
+| **u** | | ɵ  | ɜ̟: | | ɪ̯əʉ~ɪ̯ʉ: | ɪ̯o: (ɪ̯ɵə̯) | | æw | + ə           |
+
+* **a** æ <!-- ɛ/ɛɪ -->
+* **oi** oj <!-- ɔ̝ɪ~oɪ -->
+* **āu** ow <!-- oː (oʊ~ɔo) → õr -->
+* **comma** kɔmɐ̟
+
+<!-- a -->
 
 <!-- 
 https://en.wikipedia.org/wiki/Cockney
 
+e eə eɪ ɛɪ
+
+˘ ɐ̟ a
+
+ā ɑː (ɑ)
 ē/ī əi~ɐi
-ã/ẽ æɪ~aɪ
-ĩ ɑɪ
-oi ɔ̝ɪ~oɪ
-ō əʉ ʉː ɨː ʊː
-õ ʌʊ æ̈ʊ~ɐʊ ʌɤ̈ æ̈ɤ̈~ɐɤ̈ ʌɤ̝̈ æ̈ɤ̝̈~ɐɤ̝̈ æ̈ʊ ɐʊ aʊ ɐø~œ̈ø (æi.ə `æu.ə ?`)
-õl ɒʊ~ɔo aɤ (wholly [ˈhɒʊli] vs. holy [ˈhɐɤ̈li])
 ēr/īr ɪː (iə (ɪi.ə))
-ãr/ẽr ɛː (ɛ̝ə (ɛi.ə))
-õr ɔː (ɔə (ɔu.ə))
+ō əʉ ʉː ɨː ʊː
 ōr ʊː (ʊə) → õr
+
+ã/ẽ æɪ~aɪ
+ãr/ẽr ɛː (ɛ̝ə (ɛi.ə))
+ĩ ɑɪ
+õ ʌʊ æ̈ʊ~ɐʊ ʌɤ̈ æ̈ɤ̈~ɐɤ̈ ʌɤ̝̈ æ̈ɤ̝̈~ɐɤ̝̈ æ̈ʊ ɐʊ aʊ ɐø~œ̈ø (æi.ə `æu.ə ?`)
+    õl ɒʊ~ɔo aɤ (wholly [ˈhɒʊli] vs. holy [ˈhɐɤ̈li])
+õr ɔː (ɔə (ɔu.ə))
 ũ æʊ æə
 ũr æː~aː
-a ɛ/ɛɪ
-e eə eɪ ɛɪ
-o ɔ
-ā ɑː (ɑ)
-˘r ɜ̟ː œ̈ː
-˘ ɐ̟ a
-āu oː (oʊ~ɔo) → õr
-u ʉ
- -->
+
+-->
 
 | | |
 |-|-|
 | **oi** | oɪ̯ |
+
+| | Dark L (u, ʊ, o or ɤ) |
+|-|-|
+| **all** | o:  |
+| **ale** | æɤ |
+| **ill**, **eel** | ɪo, ɪɤ |
+| **ell** | ɛʊ |
+| **oll** | ɔʊː |
+| **ull**, **ool** | oʊ~ʊu, ɔo |
+| **ll** | ɔː |
+| **rl** | ɛʊ |
+
+
+
+| | |
+|-|-|
+| **r** | w ⇐ r  |
 
 # Inḡlish Orthography
 
