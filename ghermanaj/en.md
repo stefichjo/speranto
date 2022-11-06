@@ -168,6 +168,8 @@ Distinct/conservative pronunciations are written in parenthesis.
 | ɵ  ⇐ ʊ̈  |
 | ʉw ⇐ ʊ̈w |
 
+Geoff Lindsey writes /a/ instead of /æ/.
+
 ### Cockney
 
 |       | | ˘      | +r      | | ¯   | +r        | | ˜  | +r       |
