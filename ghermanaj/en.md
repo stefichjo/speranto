@@ -121,12 +121,12 @@ Distinct/conservative pronunciations are written in parenthesis.
 | ɛj ⇐ eɪ̯ |
 | oj ⇐ ɔɪ̯ |
 | æw ⇐ aʊ̯ |
-| əw ⇐ oʊ̯ |
+| əw ⇐ ɵʊ̯ ⇐ oʊ̯ |
 
 | British ⇐ Non-Regional: new diphthongs |
 |-|
 | ɪj ⇐ i: |
-| ʊ̈w ⇐ u: |
+| ʊ̈w ⇐ ʊw ⇐ u: |
 
 | British ⇐ Non-Regional: consonants |
 |-|
@@ -141,7 +141,7 @@ Distinct/conservative pronunciations are written in parenthesis.
 
 |       | | ˘      | +r | | ¯   | +r        | | ˜  | +r       |
 |-|-|-|-|-|-|-|-|-|-|
-| **a** | | ɑ: (a) | ə: | |  ɑ: |  ɑ:  (aə̯) | | ↑  | ↑        |
+| **a** | | ɑ: (ä) | ə: | |  ɑ: |  ɑ:  (äə̯) | | ↑  | ↑        |
 | **e** | | ɛ      | ə: | |  ↑  |  ↑        | | ɛj |  ɛ: (ɛə̯) |
 | **i** | | ɪ      | ə: | |  ɪj |  ɪ:  (ɪə̯) | | ɑj | + ə      |
 | **o** | | ɔ      | ə: | |  ʊ̈w |  o:  (ʊ̈ə̯) | | əw |  o: (oə̯) |
