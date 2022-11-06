@@ -128,34 +128,7 @@ Distinct/conservative pronunciations are written in parenthesis.
 | ɪj ⇐ i: |
 | ʊ̈w ⇐ u: |
 
-|       | | ˘      | +r | | ¯   | +r        | | ˜  | +r       |
-|-|-|-|-|-|-|-|-|-|-|
-| **a** | | ɑ: (a) | ə: | |  ɑ: |  ɑ:  (aə̯) | | ↑  | ↑        |
-| **e** | | ɛ      | ə: | |  ↑  |  ↑        | | ɛj |  ɛ: (ɛə̯) |
-| **i** | | ɪ      | ə: | |  ɪj |  ɪ:  (ɪə̯) | | ɑj | + ə      |
-| **o** | | ɔ      | ə: | |  ʊ̈w |  o:  (ʊ̈ə̯) | | əw |  o: (oə̯) |
-| **u** | | ʊ̈      | ə: | | jʊ̈w | jo: (jʊ̈ə̯) | | æw | + ə      |
-
-| | endings |
-|-|-|
-| **happy**     | ˈhæpɪj   |
-| **thank you** | 'θæŋkjʊ̈w |
-
-|             | linking "w" | |          | linking "y" |
-|-|-|-|-|-|
-| **you are** | jʊ̈w ɑ:      | | **I am** | ɑj æm       |
-
-| short vowels  | | long vowels    | | diphthongs (-j) | | diphthongs (-w) |
-|-|-|-|-|-|-|-|
-| æ ɛ ɪ ɔ ʊ̈ ʌ ə | | ɑ: ɛ: ɪ: o: ə: | | ɑj ɛj ɪj oj     | | æw əw ʊ̈w        |
-
-## Standard Southern British English
-*(SSB / Cockney ...)*
-
-| ɵ  ⇐ ʊ  |
-| ʉw ⇐ u: |
-
-| British ⇐ Non-Regional |
+| British ⇐ Non-Regional: consonants |
 |-|
 | w   ⇐ hw  |
 | |
@@ -165,6 +138,35 @@ Distinct/conservative pronunciations are written in parenthesis.
 | t​ʃr ⇐ tr  |
 | dʒr ⇐ dr  |
 | ʃt​r ⇐ str |
+
+|       | | ˘      | +r | | ¯   | +r        | | ˜  | +r       |
+|-|-|-|-|-|-|-|-|-|-|
+| **a** | | ɑ: (a) | ə: | |  ɑ: |  ɑ:  (aə̯) | | ↑  | ↑        |
+| **e** | | ɛ      | ə: | |  ↑  |  ↑        | | ɛj |  ɛ: (ɛə̯) |
+| **i** | | ɪ      | ə: | |  ɪj |  ɪ:  (ɪə̯) | | ɑj | + ə      |
+| **o** | | ɔ      | ə: | |  ʊ̈w |  o:  (ʊ̈ə̯) | | əw |  o: (oə̯) |
+| **u** | | ʊ̈      | ə: | | jʊ̈w | jo: (jʊ̈ə̯) | | æw | + ə      |
+
+|             | linking "w" | |          | linking "y" |
+|-|-|-|-|-|
+| **you are** | jʊ̈w ɑ:      | | **I am** | ɑj æm       |
+
+| | endings |
+|-|-|
+| **happy**     | ˈhæpɪj   |
+| **thank you** | 'θæŋkjʊ̈w |
+
+| short vowels  | | long vowels    | | diphthongs (-j) | | diphthongs (-w) |
+|-|-|-|-|-|-|-|
+| æ ɛ ɪ ɔ ʊ̈ ʌ ə | | ɑ: ɛ: ɪ: o: ə: | | ɑj ɛj ɪj oj     | | æw əw ʊ̈w        |
+
+## Standard Southern British English
+*(SSB / Cockney ...)*
+
+| Standard ⇐ Non-Standard  |
+|-|
+| ɵ  ⇐ ʊ̈  |
+| ʉw ⇐ ʊ̈w |
 
 ### Cockney
 
