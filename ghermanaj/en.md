@@ -16,9 +16,9 @@ Distinct/conservative pronunciations are written in parenthesis.
 |-|-|-|-|-|-|-|-|-|-|
 | **a** | | a | ə: (ər) | |  ɑ: |   ar | | ↑       | ↑           |
 | **e** | | e | ə: (ər) | |  ↑  |   ↑  | | e: (eɪ̯) | e:ər (eɪ̯ər) |
-| **i** | | ɪ | ə: (ər) | |  i: |   ɪr | | aɪ̯      | + ər        |
+| **i** | | ɪ | ə: (ər) | |  i: |   ɪr | | ɑ: (aɪ̯) | ɑ:ər (aɪ̯ər) |
 | **o** | | o | ə: (ər) | |  u: |   ʊr | | o: (oʊ̯) | o:ər (oʊ̯ər) |
-| **u** | | ʊ | ə: (ər) | | ɪ̯u: |  ɪ̯ʊr | | aʊ̯      | + ər        |
+| **u** | | ʊ | ə: (ər) | | ɪ̯u: |  ɪ̯ʊr | | ɑ: (aʊ̯) | ɑ:ər (aʊ̯ər) |
 
 | | |
 |-|-|
@@ -43,6 +43,7 @@ Distinct/conservative pronunciations are written in parenthesis.
 | **˘-r** | ɜ:       ⇐ ə:          |
 | **ẽr**  | ɛ: (ɛə̯)  ⇐ e:ər (eɪ̯ər) | <!-- layer/lair split -->
 | **õr**  | ɔ: (ɔə̯)  ⇐ o:ər (oʊ̯ər) | <!-- lower/lore split -->
+<!-- TODO ĩr, ũr splits (?) -->
 
 | | |
 |-|-|
@@ -103,8 +104,6 @@ Distinct/conservative pronunciations are written in parenthesis.
 | **õ**    |  əʊ̯ (oʊ̯)  ⇐ oʊ̯      |
 | **ũ**    |  ɑʊ̯       ⇐ aʊ̯      |
 | **ār**   |  ɑ: (ɑə̯)  ⇐ ɑ: (aə̯) |
-| **ĩr**   | (ɑ: (ɑə̯)) ⇐ aɪ̯ə̯     |
-| **ũr**   | (ɑ: (ɑə̯)) ⇐ aʊ̯ə̯     |
 
 ## Non-Standard Southern British English
 
@@ -130,6 +129,9 @@ Distinct/conservative pronunciations are written in parenthesis.
 
 | British ⇐ Non-Regional: consonants |
 |-|
+| əl  ⇐ l̩   |
+| ən  ⇐ n̩   |
+| |
 | w   ⇐ hw  |
 | |
 | t​ʃj ⇐ tj  |
@@ -161,7 +163,7 @@ Distinct/conservative pronunciations are written in parenthesis.
 | æ ɛ ɪ ɔ ʊ̈ ʌ ə | | ɑ: ɛ: ɪ: o: ə: | | ɑj ɛj ɪj oj     | | æw əw ʊ̈w        |
 
 ## Standard Southern British English
-*(SSB / Cockney ...)*
+*(SSB)*
 
 | Standard ⇐ Non-Standard  |
 |-|
@@ -170,7 +172,8 @@ Distinct/conservative pronunciations are written in parenthesis.
 
 Geoff Lindsey writes /a/ instead of /æ/.
 
-### Cockney
+## Standard Southern London English
+*(Cockney)*
 
 |       | | ˘      | +r      | | ¯   | +r        | | ˜  | +r       |
 |-|-|-|-|-|-|-|-|-|-|
@@ -870,7 +873,7 @@ Before *l*, [short *o*](#short-o) is pronounced as diphthong *o* [oʊ̯].
 | *shoulder* | [ˈʃoʊ̯ldə] | *shůlder* |
 | *sold*     | [soʊ̯ld]   | *såld*  |
 | | | |
-| *folk*     | [foʊk]    | *cůlt*  |
+| *folk*     | [foʊ̯k]    | *fůlk*  |
 | | | |
 | *colt*     | [koʊ̯lt]   | *cůlt*  |
 
