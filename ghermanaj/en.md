@@ -113,6 +113,8 @@ Distinct/conservative pronunciations are written in parenthesis.
 | **õ**    |  əʊ̯ (oʊ̯)  ⇐ oʊ̯      |
 | **ũ**    |  ɑʊ̯       ⇐ aʊ̯      |
 | **ār**   |  ɑ: (ɑə̯)  ⇐ ɑ: (aə̯) |
+| **ĩr**   |  aɪ̯ə̯      ⇐ ɑ: (aɪ̯ə̯) |
+| **ũr**   |  aʊ̯ə̯      ⇐ ɑ: (aʊ̯ə̯) |
 
 ## Non-Standard Southern British English
 
@@ -178,6 +180,8 @@ Distinct/conservative pronunciations are written in parenthesis.
 |-|
 | ɵ  ⇐ ʊ̈  |
 | ʉw ⇐ ʊ̈w |
+| |
+| prɪnts ⇐ prɪns |
 
 Geoff Lindsey writes /a/ instead of /æ/.
 
