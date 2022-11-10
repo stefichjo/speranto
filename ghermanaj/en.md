@@ -1,24 +1,40 @@
 # Inḡlish Accents
 
-| | | | | | | | |
-|-|-|-|-|-|-|-|-|
-| **a** | **ar** | | **ā** | **ār** | | **ã** | **ãr** |
-| **e** | **er** | | **ē** | **ēr** | | **ẽ** | **ẽr** |
-| **i** | **ir** | | **ī** | **īr** | | **ĩ** | **ĩr** |
-| **o** | **or** | | **ō** | **ōr** | | **õ** | **õr** |
-| **u** | **ur** | | **ū** | **ūr** | | **ũ** | **ũr** |
+| ˘ | ¯ | ˜ |
+|-|-|-|
+| **a** | **ā** | **ã** |
+| **e** | **ē** | **ẽ** |
+| **i** | **ī** | **ĩ** |
+| **o** | **ō** | **õ** |
+| **u** | **ū** | **ũ** |
+
+| ˘r | ¯r | ˜r |
+|-|-|-|
+| **ar** | **ār** | **ãr** |
+| **er** | **ēr** | **ẽr** |
+| **ir** | **īr** | **ĩr** |
+| **or** | **ōr** | **õr** |
+| **ur** | **ūr** | **ũr** |
 
 Distinct/conservative pronunciations are written in parenthesis.
 
 ## Non-Standard Northern Non-Regional English
 
-|       | | ˘ | +r      | | ¯   | +r   | | ˜       | +r          |
+|       | ˘ | ¯   | ˜       |
 |-|-|-|-|-|-|-|-|-|-|
-| **a** | | a | ə: (ər) | |  ɑ: |   ar | | ↑       | ↑           |
-| **e** | | e | ə: (ər) | |  ↑  |   ↑  | | e: (eɪ̯) | e:ər (eɪ̯ər) |
-| **i** | | ɪ | ə: (ər) | |  i: |   ɪr | | ɑ: (aɪ̯) | ɑ:ər (aɪ̯ər) |
-| **o** | | o | ə: (ər) | |  u: |   ʊr | | o: (oʊ̯) | o:ər (oʊ̯ər) |
-| **u** | | ʊ | ə: (ər) | | ɪ̯u: |  ɪ̯ʊr | | ɑ: (aʊ̯) | ɑ:ər (aʊ̯ər) |
+| **a** | a |  ɑ: | ↑       |
+| **e** | e |  ↑  | e: (eɪ̯) |
+| **i** | ɪ |  i: | ɑ: (aɪ̯) |
+| **o** | o |  u: | o: (oʊ̯) |
+| **u** | ʊ | ɪ̯u: | ɑ: (aʊ̯) |
+
+|       | ˘r      | ¯r   | ˜r          |
+|-|-|-|-|-|-|-|-|-|-|
+| **a** | ə: (ər) |   ar | ↑           |
+| **e** | ə: (ər) |   ↑  | e:ər (eɪ̯ər) |
+| **i** | ə: (ər) |   ɪr | ɑ:ər (aɪ̯ər) |
+| **o** | ə: (ər) |   ʊr | o:ər (oʊ̯ər) |
+| **u** | ə: (ər) |  ɪ̯ʊr | ɑ:ər (aʊ̯ər) |
 
 | | |
 |-|-|
@@ -74,6 +90,9 @@ Distinct/conservative pronunciations are written in parenthesis.
 | **-ness**     | nəs (nɪs) |
 | **-red**      | rəd (rɪd) |
 | **-ress**     | rəs (rɪs) |
+
+<!-- mandi / mandej
+arbitri / arbitreri -->
 
 | | "ȃsk" |
 |-|-|
@@ -133,6 +152,10 @@ Distinct/conservative pronunciations are written in parenthesis.
 | æw ⇐ aʊ̯ |
 | əw ⇐ ɵw ⇐ oʊ̯ |
 
+<!-- weak vowel merger
+particular
+arbitrary -->
+
 | British ⇐ Non-Regional: new diphthongs |
 |-|
 | ɪj ⇐ i: |
@@ -145,12 +168,33 @@ Distinct/conservative pronunciations are written in parenthesis.
 | |
 | w   ⇐ hw  |
 | |
-| t​ʃj ⇐ tj  |
-| dʒj ⇐ dj  |
+| t​ʃ ⇐ tj  |
+| dʒ ⇐ dj  |
+| ʃtʃ​ ⇐ stj |
 | |
-| t​ʃr ⇐ tr  |
-| dʒr ⇐ dr  |
-| ʃt​r ⇐ str |
+| t​ʃ ⇐ tr  |
+| dʒ ⇐ dr  |
+| ʃtʃ​ ⇐ str |
+
+<!-- su, pəsju -->
+
+<!-- lengkth -->
+<!-- somepthing -->
+
+<!-- litl litəl -->
+
+<!-- wa'er -->
+
+fium fiwm
+-l RP dark
+
+in'
+
+'ello
+
+fings wiv
+
+
 
 |       | | ˘      | +r | | ¯   | +r        | | ˜  | +r       |
 |-|-|-|-|-|-|-|-|-|-|
@@ -183,54 +227,36 @@ Distinct/conservative pronunciations are written in parenthesis.
 | |
 | prɪnts ⇐ prɪns |
 
-Geoff Lindsey writes /a/ instead of /æ/.
+Lindsey has /a/ instead of /æ/.
 
-## Standard Southern London English
-*(Popular London → Cockney)*
+## Non-Standard Southern London English
+<!-- *(Popular London → Cockney)* -->
+<!-- TODO pick one -->
 
-|       | | ˘  | +r | | ¯         | +r        | | ˜  | +r            |
+|       | | ˘  | +r | | ¯         | +r              | | ˜  | +r            |
 |-|-|-|-|-|-|-|-|-|-|
-| **a** | | ɑ: | ɜ̟: | |  ɑ:       |  ɑ:  (aə̯) | | ↑       | ↑             |
-| **e** | | e  | ɜ̟: | |  ↑        |  ↑        | | ʌɪ → aɪ |  ɛ: (ɛə̯, ɛjə) |
-| **i** | | ɪ  | ɜ̟: | |  ɪi →  əi |  ɪ:  (iə) | | ɑɪ → ɒɪ | + ə           |
-| **o** | | ɒ  | ɜ̟: | |  ʊʉ →  əʉ |  o:  (ɵə̯) | | ʌʊ → aʊ |  o: (oə̯, owə) |
-| **u** | | ʊ  | ɜ̟: | | ɪ̯ʊʉ → ɪ̯əʉ | ɪ̯o: (ɪ̯ɵə̯) | | æʊ → æ: | + ə           |
+| **a** | | ɑ: | ɜ̟: | |  ɑ:       |  ɑ:  (aə̯)       | | ↑       | ↑             |
+| **e** | | e  | ɜ̟: | |  ↑        |  ↑              | | ʌɪ → aɪ |  ɛ: (ɛə̯, ɛjə) |
+| **i** | | ɪ  | ɜ̟: | |  ɪi →  əi |  ɪ:  (iə)       | | ɑɪ → ɒɪ | + ə           |
+| **o** | | ɒ  | ɜ̟: | |  ʊʉ →  əʉ |  oʊ →  o: (ɔə̯)  | | ʌʊ → aʊ |  o: (oə̯, owə) |
+| **u** | | ʊ  | ɜ̟: | | jʊʉ → jəʉ | joʊ → jo: (jɔə̯) | | æʊ → æ: | + ə           |
 
 * **a** æ
 * **āu** o:
 * **oi** ɔɪ → oɪ
 
-<!-- a -->
-
-<!-- 
-https://en.wikipedia.org/wiki/Cockney
-
-e eə eɪ ɛɪ
-
-˘ ɐ̟ a
-
-ā ɑː (ɑ)
-ē/ī əi~ɐi
-ēr/īr ɪː (iə (ɪi.ə))
-ō əʉ ʉː ɨː ʊː
-ōr ʊː (ʊə) → õr
-
-ã/ẽ æɪ~aɪ
-ãr/ẽr ɛː (ɛ̝ə (ɛi.ə))
-ĩ ɑɪ
-õ ʌʊ æ̈ʊ~ɐʊ ʌɤ̈ æ̈ɤ̈~ɐɤ̈ ʌɤ̝̈ æ̈ɤ̝̈~ɐɤ̝̈ æ̈ʊ ɐʊ aʊ ɐø~œ̈ø (æi.ə `æu.ə ?`)
-    õl ɒʊ~ɔo aɤ (wholly [ˈhɒʊli] vs. holy [ˈhɐɤ̈li])
-õr ɔː (ɔə (ɔu.ə))
-ũ æʊ æə
-ũr æː~aː
-
--->
-
-| | |
+| | THOUGHT split () |
 |-|-|
-| **oi** | oɪ̯ |
+| **bored** | bɔə̯d |
+| **board** | boʊd → bo:d |
 
-| | Dark L (u, ʊ, o or ɤ) |
+| | GOAT split (ʌʊ, ɒʊ) |
+|-|-|
+| **whole**  | hɒʊl |
+| **wholly** | ˈhɒʊli |
+| **holy**   | ˈhʌʊli |
+
+<!-- | | Dark L (u, ʊ, o or ɤ) |
 |-|-|
 | **all** | o:  |
 | **ale** | æɤ |
@@ -239,13 +265,11 @@ e eə eɪ ɛɪ
 | **oll** | ɔʊː |
 | **ull**, **ool** | oʊ~ʊu, ɔo |
 | **ll** | ɔː |
-| **rl** | ɛʊ |
+| **rl** | ɛʊ | -->
 
-
-
-| | |
+<!-- | | |
 |-|-|
-| **r** | w ⇐ r  |
+| **r** | w ⇐ r  | -->
 
 # Inḡlish Orthography
 
@@ -877,13 +901,13 @@ Before *l*, [short *o*](#short-o) is pronounced as diphthong *o* [oʊ̯].
 | | | |
 | *doll*     | [dɒl]     | *dŏll*  |
 | | | |
-| *bold*     | [boʊ̯ld]   | *båld*  |
-| *cold*     | [koʊ̯ld]   | *cåld*  |
-| *fold*     | [foʊ̯ld]   | *fåld*  |
-| *gold*     | [goʊ̯ld]   | *gůld*  |
-| *old*      | [oʊ̯ld]    | *åld*   |
-| *shoulder* | [ˈʃoʊ̯ldə] | *shůlder* |
-| *sold*     | [soʊ̯ld]   | *såld*  |
+| *bold*     | [boʊ̯ld]   | *balde*  |
+| *cold*     | [koʊ̯ld]   | *calde*  |
+| *fold*     | [foʊ̯ld]   | *falde*  |
+| *gold*     | [goʊ̯ld]   | *gulde*  |
+| *old*      | [oʊ̯ld]    | *alde*   |
+| *shoulder* | [ˈʃoʊ̯ldə] | *shulder* |
+| *sold*     | [soʊ̯ld]   | *salde*  |
 | | | |
 | *folk*     | [foʊ̯k]    | *fůlk*  |
 | | | |
@@ -1664,8 +1688,8 @@ Often originally *i*-*a*-*u*, *i*-*a*-*i*, *a*-*e*-*a*, *a*-*o*-*a*.
 | *hang*    | [hæŋ]    | *hang*     | |
 | *hung*    | [hʌŋ]    | *hung*     | |
 |           |          |            | |
-| *hold*    | [hoʊ̯ld]  | *hålde*    | *holde* |
-| *held*    | [held]   | *hæld*     | *høld*  |
+| *hold*    | [hoʊ̯ld]  | *halde*    | |
+| *held*    | [held]   | *hæld*     | |
 |           |          |            | |
 | *stick*   | [stɪk]   | *stick*    | |
 | *stuck*   | [stʌk]   | *stuck*    | |
@@ -1869,8 +1893,8 @@ Diphthong *i* [aɪ̯] becomes short *i* [ɪ].
 | *stand*   | [stænd] | *stand*    |
 | *stood*   | [stʊd]  | *stǒd*     |
 |           |         |            |
-| *tell*    | [tel]   | *tell*     |
-| *told*    | [toʊ̯ld] | *tõld*     | <!-- actually tålde -->
+| *tell*    | [tel]   | *tæll*     |
+| *told*    | [toʊ̯ld] | *talde*    |
 
 ## American
 
