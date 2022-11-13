@@ -1,43 +1,29 @@
 # Inḡlish Accents
 
-<!-- I'm counting iu as a rendition of y rather than a diphthong. Same same. -->
-<!-- i, u and ə don't need a hook below. It's implicit in a diphthong. -->
-
-| ˘ | ¯ | ˜ |
-|-|-|-|
-| **a** | **ā** | **ã** |
-| **e** | **ē** | **ẽ** |
-| **i** | **ī** | **ĩ** |
-| **o** | **ō** | **õ** |
-| **u** | **ū** | **ũ** |
-
-| ˘r | ¯r | ˜r |
-|-|-|-|
-| **ar** | **ār** | **ãr** |
-| **er** | **ēr** | **ẽr** |
-| **ir** | **īr** | **ĩr** |
-| **or** | **ōr** | **õr** |
-| **ur** | **ūr** | **ũr** |
-
-Distinct/conservative pronunciations are written in parenthesis.
-
 ## Non-Standard Northern Non-Regional English
 
-|       | ˘ | ¯   | ˜       |
-|-|-|-|-|-|-|-|-|-|-|
-| **a** | a |  ɑ: | e: (eɪ) |
-| **e** | e |  ↑  | ↓       |
-| **i** | ɪ |  i: | ɑ: (aɪ) |
-| **o** | o |  u: | o: (oʊ) |
-| **u** | ʊ | ɪu: | ɑ: (aʊ) |
+|       | ˘ | ¯   | ˜  |
+|-|-|-|-|
+| **a** | a |  ɑ: | eɪ |
+| **e** | e |  ↑  | ↓  |
+| **i** | ɪ |  i: | aɪ |
+| **o** | o |  u: | oʊ |
+| **u** | ʊ | ɪu: | aʊ |
 
-|       | ˘r      | ¯r   | ˜r          |
-|-|-|-|-|-|-|-|-|-|-|
-| **a** | ə: (ər) |   ar | e:ər (eɪər) |
-| **e** | ə: (ər) |   ↑  | ↓           |
-| **i** | ə: (ər) |   ɪr | ɑ:ər (aɪər) |
-| **o** | ə: (ər) |   ʊr | o:ər (oʊər) |
-| **u** | ə: (ər) |  ɪʊr | ɑ:ər (aʊər) |
+<sub><sup>One can think of ɪu: as a rendition of y:.</sup></sub>
+
+|       | ˘r | ¯r  | ˜r         |
+|-|-|-|-|
+| **a** | ər |  ar | e:r (eɪər) |
+| **e** | ər |  ↑  | ↓          |
+| **i** | ər |  ɪr | ɑ:r (aɪər) |
+| **o** | ər |  ʊr | o:r (oʊər) |
+| **u** | ər | ɪʊr | ɑ:r (aʊər) |
+
+<!-- <sub><sup></sup></sub> -->
+<sub><sup>Smoothing: Distinct/conservative pronunciations are written in parenthesis.</sup></sub>
+
+<sub><sup>In diphtongs, ɪ, ʊ, and ə are non-syllabic, but they are written without a hook below. (In ɪʊ, only the ɪ is non-syllabic.)</sup></sub>
 
 | | |
 |-|-|
@@ -48,11 +34,6 @@ Distinct/conservative pronunciations are written in parenthesis.
 |-|-|
 | **a**   |  ə (eɪ)  |
 | **the** | ðə (ði:) |
-
-| | | | | | |
-|-|-|-|-|-|-|
-| a  | e  | ɪ  | o  | ʊ  | ə  |
-| ɑ: | e: | i: | o: | u: | ə: |
 
 ## Non-Standard Southern Non-Regional English
 
