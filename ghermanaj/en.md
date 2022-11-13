@@ -10,15 +10,16 @@
 | **o** | o |  u: | oʊ |
 | **u** | ʊ | ɪu: | aʊ |
 
-<sub><sup>One can think of ɪu: as a rendition of y:.</sup></sub>
+<sub><sup>e is actually e̞.</sup></sub>
+<sub><sup>One can think of ɪu: as a phonetic rendition of a phonemic y:.</sup></sub>
 
-|       | ˘r | ¯r  | ˜r         |
+|       | ˘r | ¯r  | ˜r        |
 |-|-|-|-|
-| **a** | ər |  ar | e:r (eɪər) |
-| **e** | ər |  ↑  | ↓          |
-| **i** | ər |  ɪr | ɑ:r (aɪər) |
-| **o** | ər |  ʊr | o:r (oʊər) |
-| **u** | ər | ɪʊr | ɑ:r (aʊər) |
+| **a** | ər |  ar | e:r (eɪr) |
+| **e** | ər |  ↑  | ↓         |
+| **i** | ər |  ɪr | ɑ:r (aɪr) |
+| **o** | ər |  ʊr | o:r (oʊr) |
+| **u** | ər | ɪʊr | ɑ:r (aʊr) |
 
 <!-- <sub><sup></sup></sub> -->
 <sub><sup>Smoothing: Distinct/conservative pronunciations are written in parenthesis.</sup></sub>
@@ -35,20 +36,34 @@
 | **a**   |  ə (eɪ)  |
 | **the** | ðə (ði:) |
 
-## Non-Standard Southern Non-Regional English
+## Non-Standard Mid Non-Regional English
 
-| | Southern ⇐ Northern |
+| | Mid ⇐ Northern |
 |-|-|
-| **-r**  | ə        ⇐ r           |
-| **˘-r** | ɜ:       ⇐ ə:          |
-| **ẽr**  | ɛ: (ɛə)  ⇐ e:ər (eɪər) | <!-- layer/lair split -->
-| **õr**  | ɔ: (ɔə)  ⇐ o:ər (oʊər) | <!-- lower/lore split -->
+| **a**   | æ        ⇐ a         |
+| **-r**  | ə        ⇐ r         |
+| **˘-r** | ɜ:       ⇐ ər        |
+| **ẽr**  | ɛ: (eə)  ⇐ e:r (eɪr) | <!-- layer/lair split -->
+| **õr**  | ɔ: (ɔə)  ⇐ o:r (oʊr) | <!-- lower/lore split -->
+| **āu**  | ɔ:       ⇐ ɑ:ʊ       |
+| **oi**  | ɔɪ       ⇐ oɪ        |
+
 <!-- TODO ĩr, ũr splits (?) -->
 
-| | |
+|       | ˘ | ¯   | ˜  |
+|-|-|-|-|
+| **a** | æ |  ɑ: | eɪ |
+| **e** | e |  ↑  | ↓  |
+| **i** | ɪ |  i: | aɪ |
+| **o** | o |  u: | oʊ |
+| **u** | ʊ | ɪu: | aʊ |
+
+| | "pǔt" |
 |-|-|
-| **āu** | ɔ: ⇐ ɑ:ʊ |
-| **oi** | ɔɪ ⇐ oɪ  |
+| **ǔ**  | ʊ         |
+| **u**  | ʌ ⇐ ə ⇐ ʊ |
+
+## Non-Standard Southern Non-Regional English
 
 |       | | ˘      | +r      | | ¯   | +r        | | ˜  | +r        |
 |-|-|-|-|-|-|-|-|-|-|
@@ -82,11 +97,6 @@ arbitri / arbitreri -->
 |-|-|
 | **ȃ**  |     ɑ: (a) |
 | **a**  | æ ⇐ ɑ: (a) |
-
-| | "pǔt" |
-|-|-|
-| **ǔ**  | ʊ         |
-| **u**  | ʌ ⇐ ə ⇐ ʊ |
 
 | | | | | [linking "r"](https://youtu.be/0SPArSawsGQ) |
 |-|-|-|-|-|
