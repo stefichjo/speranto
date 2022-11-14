@@ -128,11 +128,9 @@ american: arbitri / arbitreri -->
 | **ĩr**   |  a: (aɪə) ⇐ ɑ: (aɪə) |
 | **ũr**   |  ɑ: (ɑʊə) ⇐ ɑ: (aʊə) |
 
------
+### Southern British English
 
-## Non-Standard Southern British English
-
-| British ⇐ Non-Regional: anti-clockwise vowel shift spiral |
+| anti-clockwise vowel shift spiral |
 |-|
 | ɛ  ⇐ e  |
 | ɔ  ⇐ ɒ  |
@@ -189,8 +187,6 @@ in'
 
 fings wiv
 
-
-
 |       | | ˘      | +r | | ¯   | +r        | | ˜  | +r       |
 |-|-|-|-|-|-|-|-|-|-|
 | **a** | | ɑ: (ä) | ə: | |  ɑ: |  ɑ:  (äə) | | ↑  | ↑        |
@@ -212,8 +208,7 @@ fings wiv
 |-|-|-|-|-|-|-|
 | æ ɛ ɪ ɔ ʊ̈ ʌ ə | | ɑ: ɛ: ɪ: o: ə: | | ɑj ɛj ɪj oj     | | æw əw ʊ̈w        |
 
-## Standard Southern British English
-*(SSB)*
+#### Standard Southern British English
 
 | Standard ⇐ Non-Standard  |
 |-|
@@ -224,7 +219,8 @@ fings wiv
 
 Lindsey has /a/ instead of /æ/.
 
-## Non-Standard Southern London English
+#### London English
+
 <!-- *(Popular London → Cockney)* -->
 <!-- TODO pick one -->
 
