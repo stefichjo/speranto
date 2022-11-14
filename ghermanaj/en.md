@@ -27,6 +27,10 @@ In weak syllables, short **a**, **e**, **i**, **o**, **u** become weak **ă**, *
 
 <!-- TODO -->
 
+### General American English
+
+<!-- TODO -->
+
 ## Western English
 
 |       |       | ¯   | ˜   |
@@ -100,8 +104,8 @@ In weak syllables, short **a**, **e**, **i**, **o**, **u** become weak **ă**, *
 | **-red**      | rəd (rɪd) |
 | **-ress**     | rəs (rɪs) |
 
-<!-- mandi / mandej
-arbitri / arbitreri -->
+<!-- archaic: mandi / mandej
+american: arbitri / arbitreri -->
 
 | | | | | [linking "r"](https://youtu.be/0SPArSawsGQ) |
 |-|-|-|-|-|
