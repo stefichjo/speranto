@@ -1,23 +1,31 @@
 # Inḡlish Accents
 
-## Non-Standard Northern Non-Regional English
+## Northern Non-Regional English
 
-|       |   | ¯   | ˜  |
+|       |   | ¯   | ˜   |
 |-|-|-|-|
-| **a** | a |  ɑ: | e: |
-| **e** | ɛ |  ↑  | ↓  |
-| **i** | ɪ |  i: | aɪ |
-| **o** | ɒ |  u: | o: |
-| **u** | ʊ | ɪu: | aʊ |
+| **a** | a |  ɑ: | e:  |
+| **e** | ɛ | `↑` | `↓` |
+| **i** | ɪ |  i: | aɪ  |
+| **o** | ɒ |  u: | o:  |
+| **u** | ʊ | ɪu: | aʊ  |
 
-In weak syllables, short **a**, **e**, **i**, **o**, **u** become weak **ă**, **ĕ**, **ĭ**, **ŏ**, **ŭ**, i.e. ə (Schwa). When not followed by a vowel in the same morpheme, **r** weakens its preceding short vowel.
+<sub><sup>e is actually e̞. In diphthongs, ɪ and ʊ (and ə) are actually non-syllabic ɪ̯ and ʊ̯ (and ə̯).</sup></sub>
+
+In weak syllables, short **a**, **e**, **i**, **o**, **u** become weak **ă**, **ĕ**, **ĭ**, **ŏ**, **ŭ**, i.e. ə (Schwa).
 
 | | |
 |-|-|
 | **āu** | ɔ: |
 | **oi** | ɔɪ |
 
-<sub><sup>e is actually e̞. In diphthongs, ə, ɪ and ʊ are actually non-syllabic ɪ̯ and ʊ̯.</sup></sub>
+### Scottish English
+
+<!-- TODO -->
+
+### Irish English
+
+<!-- TODO -->
 
 -----
 
@@ -102,11 +110,6 @@ arbitri / arbitreri -->
 | ɑ: |   | i: |    | u: |    |
 | | | | | | |
 |    |   |    | ɔ: |    | ɜ: |
-
-## Standard Northern Non-Regional English
-<!-- *(Well, there's no such thing... but...)* -->
-
-o → ɒ
 
 ## Standard Southern Non-Regional English
 *(Contemporary: Received Pronunciation; Conservative: Mid-Atlantic)*
