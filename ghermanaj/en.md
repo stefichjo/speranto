@@ -2,39 +2,24 @@
 
 ## Non-Standard Northern Non-Regional English
 
-|       | ˘ | ¯   | ˜  |
+|       |   | ¯   | ˜  |
 |-|-|-|-|
-| **a** | a |  ɑ: | eɪ |
-| **e** | e |  ↑  | ↓  |
+| **a** | a |  ɑ: | e: |
+| **e** | ɛ |  ↑  | ↓  |
 | **i** | ɪ |  i: | aɪ |
-| **o** | o |  u: | oʊ |
+| **o** | ɒ |  u: | o: |
 | **u** | ʊ | ɪu: | aʊ |
 
-<sub><sup>e is actually e̞.</sup></sub>
-<sub><sup>One can think of ɪu: as a phonetic rendition of a phonemic y:.</sup></sub>
-
-|       | ˘r | ¯r  | ˜r        |
-|-|-|-|-|
-| **a** | ər |  ar | e:r (eɪr) |
-| **e** | ər |  ↑  | ↓         |
-| **i** | ər |  ɪr | ɑ:r (aɪr) |
-| **o** | ər |  ʊr | o:r (oʊr) |
-| **u** | ər | ɪʊr | ɑ:r (aʊr) |
-
-<!-- <sub><sup></sup></sub> -->
-<sub><sup>Smoothing: Distinct/conservative pronunciations are written in parenthesis.</sup></sub>
-
-<sub><sup>In diphtongs, ɪ, ʊ, and ə are non-syllabic, but they are written without a hook below. (In ɪʊ, only the ɪ is non-syllabic.)</sup></sub>
+In weak syllables, short **a**, **e**, **i**, **o**, **u** become weak **ă**, **ĕ**, **ĭ**, **ŏ**, **ŭ**, i.e. ə (Schwa). When not followed by a vowel in the same morpheme, **r** weakens its preceding short vowel.
 
 | | |
 |-|-|
-| **āu** | o: (ɑ:ʊ) |
-| **oi** | oɪ       |
+| **āu** | ɔ: |
+| **oi** | ɔɪ |
 
-| | Schwa |
-|-|-|
-| **a**   |  ə (eɪ)  |
-| **the** | ðə (ði:) |
+<sub><sup>e is actually e̞. In diphthongs, ə, ɪ and ʊ are actually non-syllabic ɪ̯ and ʊ̯.</sup></sub>
+
+-----
 
 ## Non-Standard Mid Non-Regional English
 
@@ -117,6 +102,11 @@ arbitri / arbitreri -->
 | ɑ: |   | i: |    | u: |    |
 | | | | | | |
 |    |   |    | ɔ: |    | ɜ: |
+
+## Standard Northern Non-Regional English
+<!-- *(Well, there's no such thing... but...)* -->
+
+o → ɒ
 
 ## Standard Southern Non-Regional English
 *(Contemporary: Received Pronunciation; Conservative: Mid-Atlantic)*
