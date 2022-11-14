@@ -42,7 +42,7 @@ In weak syllables, short **a**, **e**, **i**, **o**, **u** become weak **ă**, *
 | **ar** | ɛ: (eə)  |
 | **er** | `↓`      |
 | **ir** | ɑ: (aɪə) |
-| **or** | ɔ: (oə)  |
+| **or** | ɔ: (ɔə)  |
 | **ur** | ɑ: (aʊə) |
 
 | | |
@@ -60,17 +60,28 @@ In weak syllables, short **a**, **e**, **i**, **o**, **u** become weak **ă**, *
 
 <!-- TODO -->
 
------
+## Southern English
 
-## Non-Standard Southern Non-Regional English
+|       |        | ¯   | ˜   |
+|-|-|-|-|
+| **a** | æ (a) |  ɑ: | eɪ  |
+| **e** | e     | `↑` | `↓` |
+| **i** | ɪ     |  i: | aɪ  |
+| **o** | ɒ     |  u: | oʊ  |
+| **u** | ʌ (ʊ) | ɪu: | aʊ  |
 
-|       | | ˘      | +r      | | ¯   | +r        | | ˜  | +r        |
-|-|-|-|-|-|-|-|-|-|-|
-| **a** | | ɑ: (a) | ɜ: (ɜə) | |  ɑ: |  ɑ:  (aə) | | ↑  | ↑         |
-| **e** | | e      | ɜ: (ɜə) | |  ↑  |  ↑        | | eɪ |  ɛ: (eə)  |
-| **i** | | ɪ      | ɜ: (ɜə) | |  i: |  ɪ:  (ɪə) | | aɪ |  ɑ: (aɪə) |
-| **o** | | ɒ      | ɜ: (ɜə) | |  u: |  ɔ:  (ʊə) | | oʊ |  ɔ: (ɔə)  |
-| **u** | | ʊ      | ɜ: (ɜə) | | ɪu: | ɪɔ: (ɪʊə) | | aʊ |  ɑ: (aʊə) |
+|        | ¯         | ˜        |
+|-|-|-|
+| **ar** |  ɑ:  (aə) | ɛ: (eə)  |
+| **er** | `↑`       | `↓`      |
+| **ir** |  ɪ:  (ɪə) | ɑ: (aɪə) |
+| **or** |  ɔ:  (ʊə) | ɔ: (ɔə)  |
+| **ur** | ɪɔ: (ɪʊə) | ɑ: (aʊə) |
+
+| | "ȃsk" |
+|-|-|
+| **ȃ**  | ɑ: ⇐ a |
+| **a**  | æ      |
 
 | | endings |
 |-|-|
@@ -92,11 +103,6 @@ In weak syllables, short **a**, **e**, **i**, **o**, **u** become weak **ă**, *
 <!-- mandi / mandej
 arbitri / arbitreri -->
 
-| | "ȃsk" |
-|-|-|
-| **ȃ**  |     ɑ: (a) |
-| **a**  | æ ⇐ ɑ: (a) |
-
 | | | | | [linking "r"](https://youtu.be/0SPArSawsGQ) |
 |-|-|-|-|-|
 | **sore**  | sɔ: (sɔə)   | | **sore in**  | sɔ:r ɪn (sɔər ɪn)   |
@@ -108,14 +114,7 @@ arbitri / arbitreri -->
 | **layer** | leɪə        | | **layer on** | leɪər ɒn            |
 | **Leia**  | leɪə        | | **Leia on**  | leɪə r ɒn (leɪə ɒn) |
 
-| | | | | | |
-|-|-|-|-|-|-|
-| æ  | ɛ |    | ɒ  |    | ʌ  |
-| | | | | |
-| a  | e | ɪ  | o  | ʊ  | ə  |
-| ɑ: |   | i: |    | u: |    |
-| | | | | | |
-|    |   |    | ɔ: |    | ɜ: |
+-----
 
 ## Standard Southern Non-Regional English
 *(Contemporary: Received Pronunciation; Conservative: Mid-Atlantic)*
