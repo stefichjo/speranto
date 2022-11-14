@@ -1,6 +1,6 @@
 # Inḡlish Accents
 
-## Northern Non-Regional English
+## Northern English
 
 |       |   | ¯   | ˜   |
 |-|-|-|-|
@@ -10,14 +10,14 @@
 | **o** | ɒ |  u: | o:  |
 | **u** | ʊ | ɪu: | aʊ  |
 
-<sub><sup>e is actually e̞. In diphthongs, ɪ and ʊ (and ə) are actually non-syllabic ɪ̯ and ʊ̯ (and ə̯).</sup></sub>
-
-In weak syllables, short **a**, **e**, **i**, **o**, **u** become weak **ă**, **ĕ**, **ĭ**, **ŏ**, **ŭ**, i.e. ə (Schwa).
-
 | | |
 |-|-|
 | **āu** | ɔ: |
 | **oi** | ɔɪ |
+
+<sub><sup>e is actually e̞. In diphthongs, ɪ and ʊ (and ə) are actually non-syllabic ɪ̯ and ʊ̯ (and ə̯).</sup></sub>
+
+In weak syllables, short **a**, **e**, **i**, **o**, **u** become weak **ă**, **ĕ**, **ĭ**, **ŏ**, **ŭ**, i.e. ə (Schwa).
 
 ### Scottish English
 
@@ -27,34 +27,40 @@ In weak syllables, short **a**, **e**, **i**, **o**, **u** become weak **ă**, *
 
 <!-- TODO -->
 
------
+## Western English
 
-## Non-Standard Mid Non-Regional English
-
-| | Mid ⇐ Northern |
-|-|-|
-| **a**   | æ        ⇐ a         |
-| **-r**  | ə        ⇐ r         |
-| **˘-r** | ɜ:       ⇐ ər        |
-| **ẽr**  | ɛ: (eə)  ⇐ e:r (eɪr) | <!-- layer/lair split -->
-| **õr**  | ɔ: (ɔə)  ⇐ o:r (oʊr) | <!-- lower/lore split -->
-| **āu**  | ɔ:       ⇐ ɑ:ʊ       |
-| **oi**  | ɔɪ       ⇐ oɪ        |
-
-<!-- TODO ĩr, ũr splits (?) -->
-
-|       | ˘ | ¯   | ˜  |
+|       |       | ¯   | ˜   |
 |-|-|-|-|
-| **a** | æ |  ɑ: | eɪ |
-| **e** | e |  ↑  | ↓  |
-| **i** | ɪ |  i: | aɪ |
-| **o** | o |  u: | oʊ |
-| **u** | ʊ | ɪu: | aʊ |
+| **a** | æ (a) |  ɑ: | eɪ  |
+| **e** | ɛ     | `↑` | `↓` |
+| **i** | ɪ     |  i: | aɪ  |
+| **o** | ɒ     |  u: | oʊ  |
+| **u** | ə (ʊ) | ɪu: | aʊ  |
+
+|        | ˜        |
+|-|-|
+| **ar** | ɛ: (eə)  |
+| **er** | `↓`      |
+| **ir** | ɑ: (aɪə) |
+| **or** | ɔ: (oə)  |
+| **ur** | ɑ: (aʊə) |
+
+| | |
+|-|-|
+| **-r** | ɜ: |
+| **āu** | ɔ: |
+| **oi** | ɔɪ |
 
 | | "pǔt" |
 |-|-|
-| **ǔ**  | ʊ         |
-| **u**  | ʌ ⇐ ə ⇐ ʊ |
+| **ǔ**  | ʊ     |
+| **u**  | ə ⇐ ʊ |
+
+### Welsh English
+
+<!-- TODO -->
+
+-----
 
 ## Non-Standard Southern Non-Regional English
 
