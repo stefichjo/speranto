@@ -118,18 +118,17 @@ american: arbitri / arbitreri -->
 | **layer** | leɪə        | | **layer on** | leɪər ɒn            |
 | **Leia**  | leɪə        | | **Leia on**  | leɪə r ɒn (leɪə ɒn) |
 
------
+### Received Pronunciation (Mid-Atlantic)*
 
-## Standard Southern Non-Regional English
-*(Contemporary: Received Pronunciation; Conservative: Mid-Atlantic)*
-
-| | Standard ⇐ Non-Standard |
+| | |
 |-|-|
-| **õ**    |  əʊ (oʊ)  ⇐ oʊ      |
-| **ũ**    |  ɑʊ       ⇐ aʊ      |
-| **ār**   |  ɑ: (ɑə)  ⇐ ɑ: (aə) |
-| **ĩr**   |  aɪə      ⇐ ɑ: (aɪə) |
-| **ũr**   |  aʊə      ⇐ ɑ: (aʊə) |
+| **õ**    |  əʊ (oʊ)  ⇐ oʊ       |
+| **ũ**    |  ɑʊ       ⇐ aʊ       |
+| **ār**   |  ɑ: (ɑə)  ⇐ ɑ: (aə)  |
+| **ĩr**   |  a: (aɪə) ⇐ ɑ: (aɪə) |
+| **ũr**   |  ɑ: (ɑʊə) ⇐ ɑ: (aʊə) |
+
+-----
 
 ## Non-Standard Southern British English
 
