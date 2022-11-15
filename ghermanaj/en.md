@@ -27,10 +27,6 @@ In weak syllables, short **a**, **e**, **i**, **o**, **u** become weak **ă**, *
 
 <!-- TODO -->
 
-### General American English
-
-<!-- TODO -->
-
 ## Western English
 
 |       |       | ¯   | ˜   |
@@ -64,6 +60,10 @@ In weak syllables, short **a**, **e**, **i**, **o**, **u** become weak **ă**, *
 
 <!-- TODO -->
 
+### General American English
+
+<!-- TODO -->
+
 ## Southern English
 
 |       |       | ¯   | ˜  |
@@ -71,7 +71,7 @@ In weak syllables, short **a**, **e**, **i**, **o**, **u** become weak **ă**, *
 | **a** | æ (a) |  ɑ: | eɪ |
 | **e** | e     | `↑` | `↓`|
 | **i** | ɪ     |  i: | aɪ |
-| **o** | ɒ     |  u: | oʊ |
+| **o** | ɒ     |  u: | ɒʊ |
 | **u** | ʌ (ʊ) | ɪu: | aʊ |
 
 |        | ¯         | ˜        |
@@ -79,7 +79,7 @@ In weak syllables, short **a**, **e**, **i**, **o**, **u** become weak **ă**, *
 | **ar** |  ɑ:  (aə) | ɛ: (eə)  |
 | **er** | `↑`       | `↓`      |
 | **ir** |  ɪ:  (ɪə) | ɑ: (aɪə) |
-| **or** |  ɔ:  (ʊə) | ɔ: (oə)  |
+| **or** |  ɔ:  (ʊə) | ɔ: (ɒə)  |
 | **ur** | ɪɔ: (ɪʊə) | ɑ: (aʊə) |
 
 | | "ȃsk" |
@@ -109,7 +109,7 @@ american: arbitri / arbitreri -->
 
 | | | | | [linking "r"](https://youtu.be/0SPArSawsGQ) |
 |-|-|-|-|-|
-| **sore**  | sɔ: (soə)   | | **sore in**  | sɔ:r ɪn (soər ɪn)   |
+| **sore**  | sɔ: (sɒə)   | | **sore in**  | sɔ:r ɪn (sɒər ɪn)   |
 | **saw**   | sɔ:         | | **saw in**   | sɔ: r ɪn (sɔ: ɪn)   |
 | | | | | |
 | **spar**  | spɑ: (spaə) | | **spar is**  | spɑ:r ɪz (spaər ɪz) |
@@ -122,7 +122,7 @@ american: arbitri / arbitreri -->
 
 | | |
 |-|-|
-| **õ**    |  əʊ (oʊ)  ⇐ oʊ       |
+| **õ**    |  əʊ (oʊ)  ⇐ ɒʊ       |
 | **ũ**    |  ɑʊ       ⇐ aʊ       |
 | **ār**   |  ɑ: (ɑə)  ⇐ ɑ: (aə)  |
 | **ĩr**   |  a: (aɪə) ⇐ ɑ: (aɪə) |
@@ -143,31 +143,33 @@ american: arbitri / arbitreri -->
 | ɛj ⇐ eɪ |
 | oj ⇐ ɔɪ |
 | æw ⇐ aʊ |
-| əw ⇐ ɵw ⇐ oʊ |
+| əw ⇐ ɒʊ |
 
 <!-- weak vowel merger
 particular
 arbitrary -->
 
-| British ⇐ Non-Regional: new diphthongs |
+| new diphthongs |
 |-|
 | ɪj ⇐ i: |
 | ʊ̈w ⇐ ʊw ⇐ u: |
 
-| British ⇐ Non-Regional: consonants |
+| consonants |
 |-|
 | əl  ⇐ l̩   |
 | ən  ⇐ n̩   |
 | |
 | w   ⇐ hw  |
 | |
-| t​ʃ ⇐ tj  |
-| dʒ ⇐ dj  |
+| t​ʃ  ⇐ tj  |
+| dʒ  ⇐ dj  |
 | ʃtʃ​ ⇐ stj |
 | |
-| t​ʃ ⇐ tr  |
-| dʒ ⇐ dr  |
+| t​ʃ  ⇐ tr  |
+| dʒ  ⇐ dr  |
 | ʃtʃ​ ⇐ str |
+
+<!-- When/where did əl and ən became l̩ and n̩ in the first place? -->
 
 <!-- su, pəsju -->
 
@@ -178,14 +180,14 @@ arbitrary -->
 
 <!-- wa'er -->
 
-fium fiwm
--l RP dark
+<!-- fium fiwm -->
+<!-- -l RP dark -->
 
-in'
+<!-- in' -->
 
-'ello
+<!-- 'ello -->
 
-fings wiv
+<!-- fings wiv -->
 
 |       | | ˘      | +r | | ¯   | +r        | | ˜  | +r       |
 |-|-|-|-|-|-|-|-|-|-|
@@ -320,7 +322,7 @@ When a short *a* [æ] comes from a short *e*, this is not reflected in the spell
 | | | | |
 |-|-|-|-|
 | *heart* | [haət] | *hȇrt*  | *hart*  |
-| *shall* | [ʃæl]  | *shȗll* | |
+| *shall* | [ʃæl]  | *shȗll* | | <!-- TODO æ -->
 
 There is no short *ar* [ɜ:]. Instead, [long *ar*](#lengthened-a) [aə] is pronounced.
 
