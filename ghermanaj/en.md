@@ -12,12 +12,14 @@
 
 | | |
 |-|-|
+| **ă**, **ĕ**, **ĭ**, **ŏ**, **ŭ** | ə |
+
+| | |
+|-|-|
 | **āu** | ɔ: |
 | **oi** | ɔɪ |
 
 <sub><sup>e is actually e̞. In diphthongs, ɪ and ʊ (and ə) are actually non-syllabic ɪ̯ and ʊ̯ (and ə̯).</sup></sub>
-
-In weak syllables, short **a**, **e**, **i**, **o**, **u** become weak **ă**, **ĕ**, **ĭ**, **ŏ**, **ŭ**, i.e. ə (Schwa).
 
 ### Scottish English
 
