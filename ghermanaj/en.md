@@ -19,7 +19,7 @@
 | **āu** | ɔ: |
 | **oi** | ɔɪ |
 
-<sub><sup>e is actually e̞. In diphthongs, ɪ and ʊ (and ə) are actually non-syllabic ɪ̯ and ʊ̯ (and ə̯).</sup></sub>
+<sub><sup>In diphthongs, ɪ and ʊ (and ə) are actually non-syllabic ɪ̯ and ʊ̯ (and ə̯).</sup></sub>
 
 <sub><sup>The diphthong ɪu: can be thought of as a rendition of a long proto-vowel y:. The long vowel ɔ: can be thought of as a rendition of a proto-diphthong ɔʊ. The short vowel ɒ can be thought of as a rendition of a short proto-vowel ɔ.</sup></sub>
 
@@ -57,10 +57,6 @@
 |-|-|
 | **ǔ**  | ʊ         |
 | **u**  | ə (ʊ) ⇐ ʊ |
-
-| | |
-|-|-|
-| **oi** | ɔɪ ⇐ ɒɪ |
 
 <sub><sup>r is actually ɹ.</sup></sub>
 
@@ -127,6 +123,7 @@ american: arbitri / arbitreri -->
 | **ũ**  | ɑʊ       ⇐ aʊ       |
 | **ār** | ɑ: (ɑə)  ⇐ ɑ: (aə)  |
 | **ĩr** | a: (aɪə) ⇐ ɑ: (aɪə) |
+| **õr** | ɔ: (ɔə)  ⇐ ɔ: (oə)  |
 | **ũr** | ɑ: (ɑʊə) ⇐ ɑ: (aʊə) |
 
 ### Southern British English
@@ -1089,7 +1086,10 @@ Germanic *gh* is sometimes equivalent to *w* and written as *ugh*. *aught* and *
 | *ought*     | [ɔ:t]      | *aǧht*     |
 | | | |
 | *arrow*     | [æroʊ]     | *arǧh*     |
+| *borough*   | [ˈbʌroʊ]   | *burǧh*    |
+| *borrow*    | [ˈbɒroʊ]   | *bůrǧh*    |
 | *follow*    | [ˈfɒloʊ]   | *folǧh*    |
+| *gallows*   | [ˈgæloʊz]  | *galǧhs*   |
 | *sorrow*    | [ˈsɒroʊ]   | *sorǧh*    |
 | *tomorrow*  | [təˈmɒroʊ] | *tomorǧh*  |
 
