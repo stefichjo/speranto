@@ -87,6 +87,7 @@
 |-|-|
 | **happy**     | ˈhæpɪ |
 | **thank you** | 'θæŋkjʊ |
+| **into**      | 'ɪntʊ |
 | | |
 | **letter**    | ˈletə |
 | **comma**     | ˈkɒmə |
@@ -427,7 +428,7 @@ Some short *o* [ɒ] comes from Germanic *a*.
 |-|-|-|-|
 | *long* | [lɒŋ] | *lång* | |
 | *song* | [sɒŋ] | *sång* | |
-| *of*   | [ɒv]  | *åve*  | *ove* |
+| *of*   | [ɒv]  | *åve*  | *ove* | <!-- `?` -->
 | *off*  | [ɒf]  | *åff*  | |
 
 After *qu* and *w*, short *a* is pronounced like short *o* [ɒ].
@@ -1271,6 +1272,7 @@ The unstressed prefix *on-* becomes *a-*. <!-- actually ån̆- -->
 | *afoot*    | [əˈfʊt]   | *afǒt*    | *afut* |
 | *again*    | [əˈgen]   | *agen*    | |
 | *again*    | [əˈgeɪn]  | *ageghen* | |
+| *ahead*    | [əˈhed]   | *ahæd*    | *ahed* |
 | *alee*     | [əˈli:]   | *alȳ*     | |
 | *alike*    | [əˈlaɪk]  | *alike*   | |
 | *alive*    | [əˈlaɪv]  | *alive*   | |
