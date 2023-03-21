@@ -369,9 +369,9 @@ Short *er* [ɜ:] is often written like [short *or*](#short-o) [ɜ:] or [short *u
 
 | | | | |
 |-|-|-|-|
-| *word*  | [wɜ:d]  | *wørd*  | *werd* |
+| *word*  | [wɜ:d]  | *wørd*/*wurd*  | *werd* |
 | *world* | [wɜ:ld] | *werld* | |
-| *work*  | [wɜ:k]  | *wørk*  | *werk*  |
+| *work*  | [wɜ:k]  | *wørk*/*werk*  | *werk*  |
 | *worth* | [wɜ:θ]  | *werth* | |
 | | | |
 | *burn*  | [bɜ:n]  | *bern*  | |
@@ -726,10 +726,10 @@ The diphthong *e* [eɪ] can be spelled as *ea*.
 
 | | | | |
 |-|-|-|-|
-| *steak* | [steɪk] | *stek* | *stake* |
+| *steak*  | [steɪk]   | *stek*  | *stake* |
 | | | | |
-| *slegh* | [sleɪ]  | *slẽ*  | *slae* |
-| *forte* | [ˈfɔ:teɪ] | *fortẽ*  | |
+| *sleigh* | [sleɪ]    | *slẽ*   | *slae* |
+| *forte*  | [ˈfɔ:teɪ] | *fortẽ* | |
 
 Long *er* is pronounced [ɪə], whereas diphthong *er* is pronounced [ɛə].
 
@@ -1019,8 +1019,8 @@ The *l* in *alf*, *alk* and *alm* is silent.
 
 | | | |
 |-|-|-|
-| *cālf*   | [kɑ:f]     |
-| *hālf*   | [hɑ:f]     |
+| *cȃlf*   | [kɑ:f]     | <!-- does Edith Skinner agree? -->
+| *hȃlf*   | [hɑ:f]     |
 | | |
 | *chalk*  | [tʃɔ:k]    |
 | *talk*   | [tɔ:k]     |
@@ -1083,7 +1083,7 @@ Germanic *gh* is sometimes equivalent to *w* and written as *ugh*. *aught* and *
 | *naught*    | [nɔ:t]     | *naǧht*    |
 | *slaughter* | [slɔ:tə]   | *slaǧhter* |
 | | | |
-| *daughter*  | [dɔ:tə]    | *doǧhter*  |
+| *daughter*  | [dɔ:tə]    | *dȏǧhter* |
 | *ought*     | [ɔ:t]      | *aǧht*     |
 | | | |
 | *arrow*     | [æroʊ]     | *arǧh*     |
@@ -1178,9 +1178,11 @@ After *ȃ* [a] and *u* [ʌ] Germanic *gh* is pronounced [f].
 | *draught* | [draft] | *drȃght* | |
 | *laugh*   | [laf]   | *lȃgh*   | |
 | | | | |
-| *cough*   | [rʌf]   | *côgh*   | *cugh* |
-| *enough*  | [ɪˈnʌf] | *ğenôgh* | *ğenugh* |
-| *rough*   | [rʌf]   | *rugh*   | |
+| *cough*   | [kɒf]   | *co̊gh*   | |
+| *trough*  | [trɒf]  | *tro̊gh*   | |
+| | | | |
+| *enough*  | [ɪˈnʌf] | *ğenôgh* | *ğenûgh* |
+| *rough*   | [rʌf]   | *rûgh*   | |
 
 Germanic *ghs* is pronounced [ks] and doesn't contain a silent *gh*.
 
@@ -1718,7 +1720,7 @@ Often originally *i*-*a*-*u*, *i*-*a*-*i*, *a*-*e*-*a*, *a*-*o*-*a*.
 | *blown*   | [bloʊn]   | *blõen*    | |
 |           |           |            | |
 | *draw*    | [drɔ:]    | *draǧh*    | |
-| *drew*    | [dru:]    | *drøǧh*    | *dreǧh* |
+| *drew*    | [dru:]    | *drøǧh*    | *dreǧh* | `drugh`
 | *drawn*   | [drɔ:n]   | *draǧhen*  | |
 |           |           |            | |
 | *eat*     | [i:t]     | *ete*      | |
@@ -1793,16 +1795,16 @@ Diphthong *i* [aɪ] becomes short *i* [ɪ].
 | *brought* | [brɔ:t] | *braǧht*   |
 |           |         |            |
 | *buy*     | [baɪ]   | *bygh*     |
-| *bought*  | [brɔ:t] | *boǧht*    |
+| *bought*  | [brɔ:t] | *bȏǧht*    |
 |           |         |            |
 | *catch*   | [kætʃ]  | *cach*     |
 | *caught*  | [kɔ:t]  | *caǧht*    |
 |           |         |            |
 | *fight*   | [faɪt]  | *fyght*    |
-| *fought*  | [fɔ:t]  | *foǧht*    |
+| *fought*  | [fɔ:t]  | *fȏǧht*    |
 |           |         |            |
 | *seek*    | [si:k]  | *søke*     |
-| *sought*  | [sɔ:t]  | *soǧht*    |
+| *sought*  | [sɔ:t]  | *sȏǧht*    |
 |           |         |            |
 | *teach*   | [ti:tʃ] | *tæche*    |
 | *taught*  | [tɔ:t]  | *taǧht*    |
