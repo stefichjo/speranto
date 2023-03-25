@@ -9,357 +9,938 @@ revealOptions:
 
 <!-- reveal-md frendly-inglish.md -w -->
 
+<!-- .slide: data-background="./image2.png" -->
+
 <!--
-TODO
+ğġǧ
 
-(Lecacy Spelling)
-Friëndly Spelling
-Frendly Spelling
+a_i = æ  ≈  ai   = ạ
+      o  ≈  au   = ḁ
+o_i = ø  ≈  au_i = æ̥
+u_i = y  ≈  eu   = e̥
 
-Spelling Plus (weğ + weigh)
-Spelling Plus Plus (wegh)
-Spelling Plus Light (wey)
-
-Spelling Lite (way)
-
+a ȃäȧåǎ â
+e ȇëėe̊ě ê
+i ȋïĭi̊ǐ î
+o ȏöȯo̊ǒ ô
+u ȗüu̇ůǔ û
 -->
 
-<!-- TODO
-
-Is "aght" really a good etymological writing, or should I put something like "akht" first?
-
--->
-
-## Friëndly Spelling
+## Friendly Spelling
 *(Legacy Spelling with Diacritic Marks)*
 
 <!--v-->
 
-## Friëndly Spelling
+## Friendly Spelling
 
-### u
+### ǔ
 
 <!--v-->
 
+| &nbsp; |
+|-|
 | put |
-|-|
-| |
 
 <!--v-->
 
+| &nbsp; |
+|-|
 | pǔt |
-|-|
+
+<!--v-->
+
+## Friendly Spelling
+
+### ô
+
+<!--v-->
+
 | |
-
-<!--v-->
-
-## Friëndly Spelling
-
-### o
-
-<!--v-->
-
+|-|
 | wonder |
-|-|
-| |
 
 <!--v-->
 
+| |
+|-|
 | wônder |
-|-|
-| |
 
 <!--v-->
 
+## Friendly Spelling
+
+### ǒ
+
+<!--v-->
+
+| |
+|-|
 | wolf |
-|-|
-| |
 
 <!--v-->
 
+| |
+|-|
 | wǒlf |
-|-|
+
+<!--v-->
+
+## Friendly Spelling
+
+### ôo
+
+<!--v-->
+
 | |
-
-<!--v-->
-
-## Friëndly Spelling
-
-### oo
-
-<!--v-->
-
+|-|
 | flood |
-|-|
-| |
 
 <!--v-->
 
+| |
+|-|
 | flôod |
-|-|
-| |
 
 <!--v-->
 
+## Friendly Spelling
+
+### ǒo
+
+<!--v-->
+
+| |
+|-|
 | book |
-|-|
-| |
 
 <!--v-->
 
+| |
+|-|
 | bǒok |
-|-|
+
+<!--v-->
+
+## Friendly Spelling
+
+### ōu
+
+<!--v-->
+
 | |
-
-<!--v-->
-
-## Friëndly Spelling
-
-### ou, ow
-
-<!--v-->
-
+|-|
 | soup |
-|-|
-| |
 
 <!--v-->
 
+| |
+|-|
 | sōup |
-|-|
-| |
 
 <!--v-->
 
+## Friendly Spelling
+
+### õw
+
+<!--v-->
+
+| |
+|-|
 | know |
-|-|
-| |
 
 <!--v-->
 
+| |
+|-|
 | knõw |
-|-|
+
+<!--v-->
+
+## Friendly Spelling
+
+### ōugh
+
+<!--v-->
 | |
-
-<!--v-->
-
-## Friëndly Spelling
-
-### ough
-
-<!--v-->
+|-|
 | through |
-|-|
-| |
 
 <!--v-->
 
+| |
+|-|
 | thrōugh |
-|-|
-| |
 
 <!--v-->
 
+## Friendly Spelling
+
+### õugh
+
+<!--v-->
+
+| |
+|-|
 | though |
-|-|
-| |
 
 <!--v-->
 
+| |
+|-|
 | thõugh |
-|-|
-| |
 
 <!--v-->
 
+## Friendly Spelling
+
+### ôugh
+
+<!--v-->
+
+| |
+|-|
 | tough |
-|-|
-| |
 
 <!--v-->
 
+| |
+|-|
 | tôugh |
-|-|
-| |
+
+Notes:
+* enôugh rôugh
 
 <!--v-->
 
+## Friendly Spelling
+
+### o̊ugh
+
+<!--v-->
+
+| |
+|-|
 | trough |
-|-|
-| |
 
 <!--v-->
 
+| |
+|-|
 | tro̊ugh |
-|-|
+
+Notes:
+* co̊ugh
+
+<!--v-->
+
+## Friendly Spelling
+
+### ȃught = *ȃft*
+
+<!--v-->
+
 | |
-
-<!--v-->
-
-| thought |
 |-|
-| |
-
-<!--v-->
-
-| thȏught |
-|-|
-| |
-
-<!--v-->
-
-## Friëndly Spelling
-
-### augh
-
-<!--v-->
-
-| taught |
-|-|
-| |
-
-<!--v-->
-
-| (taught) |
-|-|
-| |
-
-<!--v-->
-
 | draught |
-|-|
-| |
 
 <!--v-->
 
-| drȃught |
-|-|
 | |
+|-|
+| drȃught |
+
+<!--v-->
+
+| |
+|-|
+| *drȃft* |
 
 <!--s-->
 
-## Frendly Spelling
-*(Legacy Spelling with **less** Diacritic Marks)*
+## *Friendly* Spelling
+*(**Simplified** Legacy Spelling)*
 
 <!--v-->
 
-## Frendly Spelling
+## *Friendly* Spelling
 
-### ië
+### ȏugh = *augh*
 
 <!--v-->
 
-| friend |
+| |
 |-|
-| &nbsp; |
-
-<!--v-->
-
-| friënd |
-|-|
-| &nbsp; |
-
-<!--v-->
-
-| friënd |
-|-|
-| frend |
-
-<!--v-->
-
-## Frendly Spelling
-
-### ė
-
-<!--v-->
-
-| English |
-|-|
-| &nbsp; |
-
-<!--v-->
-
-| Ėnglish |
-|-|
-| &nbsp; |
-
-<!--v-->
-
-| Ėnglish |
-|-|
-| Inglish |
-
-<!--v-->
-
-## Frendly Spelling
-
-### eĩ
-
-<!--v-->
-
-| height |
-|-|
-| &nbsp; |
-
-<!--v-->
-
-| heĩght |
-|-|
-| &nbsp; |
-
-<!--v-->
-
-| heĩght |
-|-|
-| hight |
-
-<!--v-->
-
-## Frendly Spelling
-
-### ȏu
-
-<!--v-->
-
 | thought |
-|-|
-| &nbsp; |
 
 <!--v-->
 
+| |
+|-|
 | thȏught |
+
+<!--v-->
+
+| |
 |-|
+| *thaught* |
+
+Notes:
+* brȏught sȏught
+* caught taught
+
+<!--v-->
+
+## *Friendly* Spelling
+
+### eĩgh = *igh*
+
+<!--v-->
+
 | &nbsp; |
-
-<!--v-->
-
-| thȏught |
 |-|
-| thaught |
+| height |
 
 <!--v-->
 
-## Frendly Spelling
-
-### äi
+| &nbsp; |
+|-|
+| heĩght |
 
 <!--v-->
 
+| &nbsp; |
+|-|
+| *hight* |
+
+Notes:
+* heĩst
+
+<!--v-->
+
+## *Friendly* Spelling
+
+### ȇ = *a*
+
+<!--v-->
+
+| &nbsp; |
+|-|
+| there |
+
+<!--v-->
+
+| &nbsp; |
+|-|
+| thȇre |
+
+<!--v-->
+
+| &nbsp; |
+|-|
+| *thare* |
+
+Notes:
+* wȇrewǒlf whȇre
+* hȇart
+
+<!--v-->
+
+## *Friendly* Spelling
+
+### ȇa = *a*
+
+<!--v-->
+
+| &nbsp; |
+|-|
+| heart |
+
+<!--v-->
+
+| &nbsp; |
+|-|
+| hȇart |
+
+<!--v-->
+
+| &nbsp; |
+|-|
+| *hart* |
+
+Notes:
+* wȇrewǒlf whȇre
+
+<!--v-->
+
+## *Friendly* Spelling
+
+### ië = *e*
+
+<!--v-->
+
+| &nbsp; |
+|-|
+| friend |
+
+<!--v-->
+
+| &nbsp; |
+|-|
+| friënd |
+
+<!--v-->
+
+| &nbsp; |
+|-|
+| *frend* |
+
+<!--v-->
+
+## *Friendly* Spelling
+
+### äi = *e*
+
+<!--v-->
+
+| &nbsp; |
+|-|
 | said |
-|-|
-| &nbsp; |
 
 <!--v-->
 
-| säid |
-|-|
 | &nbsp; |
+|-|
+| säid |
 
 <!--v-->
 
-| säid |
+| &nbsp; |
 |-|
-| sed |
+| *sed* |
+
+Notes:
+* agäin
+
+<!--v-->
+
+## *Friendly* Spelling
+
+### ëa = *e*
+
+<!--v-->
+
+| &nbsp; |
+|-|
+| bread |
+
+<!--v-->
+
+| &nbsp; |
+|-|
+| brëad |
+
+<!--v-->
+
+| &nbsp; |
+|-|
+| *bred* &nbsp; |
+
+Notes:
+* dëad dëath instëad lëad rëady sprëad
+* hëalth stëalth (stëelth) wëalth (wëelth)
+* ëarly ëarn ëarth pëarl yëarn
+* dëalt drëamt rëad
+* red
+
+<!--v-->
+
+## *Friendly* Spelling
+
+### ẽa = *ei*
+
+<!--v-->
+
+| &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+|-|
+| break |
+
+<!--v-->
+
+| &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+|-|
+| brẽak |
+
+<!--v-->
+
+| &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+|-|
+| *breik* |
+
+<!--v-->
+
+## *Friendly* Spelling
+
+### ė = *i*
+
+<!--v-->
+
+| &nbsp; |
+|-|
+| English |
+
+<!--v-->
+
+| &nbsp; |
+|-|
+| Ėnglish |
+
+<!--v-->
+
+| &nbsp; |
+|-|
+| *Inglish* |
+
+<!--v-->
+
+## *Friendly* Spelling
+
+### õo = *o_e*
+
+<!--v-->
+
+| &nbsp; |
+|-|
+| floor |
+
+<!--v-->
+
+| &nbsp; |
+|-|
+| flõor |
+
+<!--v-->
+
+| &nbsp; |
+|-|
+| *flore* |
+
+Notes:
+* dõor
+
+<!--v-->
+
+## *Friendly* Spelling
+
+### -ĕ
+
+<!--v-->
+
+| &nbsp; |
+|-|
+| were |
+
+<!--v-->
+
+| &nbsp; |
+|-|
+| werĕ |
+
+<!--v-->
+
+| &nbsp; |
+|-|
+| *wer* |
+
+Notes:
+* arĕ gonĕ
+
+<!--v-->
+
+## *Friendly* Spelling
+
+### -e
+
+<!--v-->
+
+| &nbsp; |
+|-|
+| wild &nbsp; |
+
+<!--v-->
+
+| &nbsp; |
+|-|
+| wĩld &nbsp; |
+
+<!--v-->
+
+| &nbsp; |
+|-|
+| wilde |
+
+Notes:
+* chĩld mĩld
+* bĩnd fĩnd kĩnd mĩnd wĩnd
+* *cf.* bŭild gŭild wind
+
+<!--s-->
+
+## Spelling Lite
+*(Phonemic Spelling)*
+
+<!--v-->
+
+## Spelling Lite
+
+### gh
+
+<!--v-->
+
+| &nbsp; |
+|-|
+| light |
+
+<!--v-->
+
+| &nbsp; |
+|-|
+| *lite* |
+
+<!--v-->
+
+| &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+|-|
+| though |
+
+<!--v-->
+
+| &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+|-|
+| thõugh |
+
+<!--v-->
+
+| &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+|-|
+| *tho* |
+
+<!--v-->
+
+| &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+|-|
+| through |
+
+<!--v-->
+
+| &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+|-|
+| thrōugh |
+
+<!--v-->
+
+| &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+|-|
+| *thru* |
+
+<!--v-->
+
+| &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+|-|
+| enough |
+
+<!--v-->
+
+| &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+|-|
+| enôugh |
+
+<!--v-->
+
+| &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+|-|
+| enôugh |
+
+<!--v-->
+
+| &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+|-|
+| *enuff* |
+
+<!--v-->
+
+| &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+|-|
+| laugh |
+
+<!--v-->
+
+| &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+|-|
+| lȃugh |
+
+<!--v-->
+
+| &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+|-|
+| *lȃff* |
+
+<!--v-->
+
+| &nbsp; |
+|-|
+| cough |
+
+<!--v-->
+
+| &nbsp; |
+|-|
+| co̊ugh |
+
+<!--v-->
+
+| &nbsp; |
+|-|
+| *coff* |
+
+<!--v-->
+
+## Spelling Lite
+
+### ô = *u*
+
+<!--v-->
+
+| &nbsp; |
+|-|
+| wônder |
+
+<!--v-->
+
+| &nbsp; |
+|-|
+| *wunder* |
+
+<!--v-->
+
+## Spelling Lite
+
+### ǒ = *ǔ*
+
+<!--v-->
+
+| &nbsp; |
+|-|
+| wǒlf |
+
+<!--v-->
+
+| &nbsp; |
+|-|
+| *wulf* |
+
+<!--v-->
+
+| &nbsp; |
+|-|
+| *wǔlf* |
+
+<!--v-->
+
+## Spelling Lite
+
+### ôo = *u*
+
+<!--v-->
+
+| &nbsp; |
+|-|
+| flood |
+
+<!--v-->
+
+| &nbsp; |
+|-|
+| flôod |
+
+<!--v-->
+
+| &nbsp; |
+|-|
+| *flud* |
+
+<!--v-->
+
+## Spelling Lite
+
+### ǒo = *ǔ*
+
+<!--v-->
+
+| &nbsp; |
+|-|
+| book |
+
+<!--v-->
+
+| &nbsp; |
+|-|
+| bǒok |
+
+<!--v-->
+
+| &nbsp; |
+|-|
+| *buck* |
+
+<!--v-->
+
+| &nbsp; |
+|-|
+| *bǔck* |
+
+<!--v-->
+
+## Spelling Lite
+
+### or = *oar*
+
+<!--v-->
+
+| &nbsp; |
+|-|
+| sort &nbsp; |
+
+<!--v-->
+
+| &nbsp; |
+|-|
+| sõrt &nbsp; |
+
+<!--v-->
+
+| &nbsp; |
+|-|
+| soart |
+
+<!--v-->
+
+## Spelling Lite
+
+### wa = *wo*
+
+<!--v-->
+
+| &nbsp; |
+|-|
+| wasp |
+
+<!--v-->
+
+| &nbsp; |
+|-|
+| wåsp |
+
+<!--v-->
+
+| &nbsp; |
+|-|
+| *wosp* |
+
+<!--v-->
+
+## Spelling Lite
+
+### al = *aw*
+
+<!--v-->
+
+| &nbsp; |
+|-|
+| talk &nbsp; |
+
+<!--v-->
+
+| &nbsp; |
+|-|
+| tałk &nbsp; |
+
+<!--v-->
+
+| &nbsp; |
+|-|
+| *tawk* |
+
+<!--v-->
+
+## Spelling Lite
+
+### al = *awl*
+
+<!--v-->
+
+| &nbsp; |
+|-|
+| salt &nbsp; |
+
+<!--v-->
+
+| &nbsp; |
+|-|
+| saɫt &nbsp; |
+
+<!--v-->
+
+| &nbsp; |
+|-|
+| *sawlt* |
+
+<!--v-->
+
+## Spelling Lite
+
+### ol = *ol_e*
+
+<!--v-->
+
+| &nbsp; |
+|-|
+| gold &nbsp; |
+
+<!--v-->
+
+| &nbsp; |
+|-|
+| goɫd &nbsp; |
+
+<!--v-->
+
+| &nbsp; |
+|-|
+| *golde* |
+
+<!--v-->
+
+## Spelling Lite
+
+### oa = *o_e*
+
+<!--v-->
+
+| &nbsp; |
+|-|
+| load |
+
+<!--v-->
+
+| &nbsp; |
+|-|
+| *lode* |
+
+Notes:
+* bone dole home stone whole
+* alone → one
+* boat goat loathe road
 
 <!--s-->
 
@@ -370,67 +951,7 @@ Is "aght" really a good etymological writing, or should I put something like "ak
 
 ## Spelling Plus
 
-### o(r)
-
-<!--v-->
-
-| &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
-|-|
-| wǒrth |
-
-<!--v-->
-
-| werth |
-|-|
-| wǒrth |
-
-<!--v-->
-
-| werth |
-|-|
-| ~~wǒrth~~ |
-
-<!--v-->
-
-| werth |
-|-|
-| werth |
-
-<!--v-->
-
-## Spelling Plus
-
-### u(r)
-
-<!--v-->
-
-| &nbsp; |
-|-|
-| church |
-
-<!--v-->
-
-| kirk |
-|-|
-| church |
-
-<!--v-->
-
-| kirk |
-|-|
-| ~~church~~ |
-
-<!--v-->
-
-| kirk |
-|-|
-| chirch &nbsp; |
-
-<!--v-->
-
-## Spelling Plus
-
-### ai
+### ai ≠ ei
 
 <!--v-->
 
@@ -454,496 +975,591 @@ Is "aght" really a good etymological writing, or should I put something like "ak
 
 | strekht |
 |-|
+| sträight |
+
+<!--v-->
+
+| strekht |
+|-|
 | streight |
+
+Notes:
+* ȇight
 
 <!--v-->
 
 ## Spelling Plus
 
-### ei
+### ie ≠ ee
+
+<!--v-->
+
+| &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+|-|
+| shield |
+
+<!--v-->
+
+| skeld &nbsp; |
+|-|
+| shield |
+
+<!--v-->
+
+| skeld &nbsp; |
+|-|
+| ~~shield~~ |
+
+<!--v-->
+
+| skeld &nbsp; |
+|-|
+| sheeld |
+
+<!--v-->
+
+## Spelling Plus
+
+### ea ≠ ee
 
 <!--v-->
 
 | &nbsp; |
 |-|
-| eight |
+| steal |
 
 <!--v-->
 
-| akht |
+| stel |
 |-|
-| eight |
+| steal |
 
 <!--v-->
 
-| akht |
+| stel |
 |-|
-| ~~eight~~ |
+| ~~steal~~ |
 
 <!--v-->
 
-| akht |
+| stel |
 |-|
-| aight |
+| steel |
+
+Notes:
+* reäd weäl
+
+<!--v-->
+
+## Spelling Plus
+
+### oa ≠ o_e
+
+<!--v-->
+
+| &nbsp; |
+|-|
+| soak |
+
+<!--v-->
+
+| suk |
+|-|
+| soak |
+
+<!--v-->
+
+| suk |
+|-|
+| ~~soak~~ |
+
+<!--v-->
+
+| suk |
+|-|
+| soke |
+
+<!--v-->
+
+## Spelling Plus
+
+### o ≠ õw
+
+<!--v-->
+
+| &nbsp; |
+|-|
+| grow |
+
+<!--v-->
+
+| &nbsp; |
+|-|
+| grõw |
+
+<!--v-->
+
+| gro |
+|-|
+| grõw |
+
+<!--v-->
+
+| gro |
+|-|
+| ~~grõw~~ |
+
+<!--v-->
+
+| gro |
+|-|
+| gro &nbsp; |
+
+<!--v-->
+
+## Spelling Plus
+
+### oo ≠ eu
+
+<!--v-->
+
+| &nbsp; |
+|-|
+| shoot |
+
+<!--v-->
+
+| skeut |
+|-|
+| shoot |
+
+<!--v-->
+
+| skeut |
+|-|
+| ~~shoot~~ |
+
+<!--v-->
+
+| skeut |
+|-|
+| sheut |
+
+Notes:
+* cheuse (choose)
+* trew (true)
+* Admittedly, it's very convenient to have "shoot shot shot".
+* cf. laus lose
+
+<!--v-->
+
+## Spelling Plus
+
+### er ≠ ir ≠ or ≠ ur
+
+<!--v-->
+
+| &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+|-|
+| wǒrth |
+
+<!--v-->
+
+| werth |
+|-|
+| wǒrth |
+
+<!--v-->
+
+| werth |
+|-|
+| ~~wǒrth~~ |
+
+<!--v-->
+
+| werth |
+|-|
+| wörth |
+
+<!--v-->
+
+| werth |
+|-|
+| werth |
+
+Notes:
+* wörld wörst
+* bürn bürst
+* chu̇rch
+
+<!--s-->
+
+## Spelling *Plus*
+*(**Simplified** Etymology-Based Spelling)*
+
+<!--v-->
+
+## Spelling *Plus*
+
+### aigh = *ay*
+
+<!--v-->
+
+| dag |
+|-|
+| &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+
+<!--v-->
+
+| dag |
+|-|
+| daigh |
+
+<!--v-->
+
+| dag |
+|-|
+| *day* &nbsp; &nbsp; |
+
+<!--v-->
+
+## Spelling *Plus*
+
+### augh = *aw*
+
+<!--v-->
+
+| dagen &nbsp; &nbsp; |
+|-|
+| &nbsp; |
+
+<!--v-->
+
+| dagen |
+|-|
+| daughen |
+
+<!--v-->
+
+| dagen |
+|-|
+| *dawn* &nbsp; &nbsp; &nbsp; |
+
+<!--v-->
+
+## Spelling *Plus*
+
+### eigh = *ey*
+
+<!--v-->
+
+| weg &nbsp; |
+|-|
+| &nbsp; |
+
+<!--v-->
+
+| weg |
+|-|
+| weigh |
+
+<!--v-->
+
+| weg |
+|-|
+| *wey* &nbsp; &nbsp; |
 
 <!--s-->
 
 ## Spelling Plus Plus
-*(**Prettified** Etymological Spelling)*
+*(Etymological Spelling)*
 
 <!--v-->
 
 ## Spelling Plus Plus
 
-### ch
+### å = *o*
+
+<!--v-->
+
+| hald |
+|-|
+| |
+
+<!--v-->
+
+| håld |
+|-|
+| |
+
+<!--v-->
+
+| *hold* |
+|-|
+| |
+
+<!--v-->
+
+## Spelling Plus Plus
+
+### ů = *o*
+
+<!--v-->
+
+| fulk |
+|-|
+| |
+
+<!--v-->
+
+| fůlk |
+|-|
+| |
+
+<!--v-->
+
+| *folk* |
+|-|
+| |
+
+<!--v-->
+
+## Spelling Plus Plus
+
+### k → c
+
+<!--v-->
+
+| kraft |
+|-|
+| |
+
+<!--v-->
+
+| *craft* |
+|-|
+| |
+
+<!--v-->
+
+## Spelling Plus Plus
+
+### k = ꝁ = *ch*
 
 <!--v-->
 
 | kirk &nbsp; &nbsp; |
 |-|
-| chirch |
+| |
 
 <!--v-->
 
 | ꝁirꝁ &nbsp; &nbsp; |
 |-|
-| chirch |
+| |
 
 <!--v-->
 
-| chirch |
+| *chirch* |
 |-|
-| chirch |
+| |
 
 <!--v-->
 
 ## Spelling Plus Plus
 
-### gh
+### sk = sꝁ = *sh*
 
 <!--v-->
 
-| dağ |
+| skip |
 |-|
-| daigh |
+| |
 
 <!--v-->
 
-| dagh |
+| sꝁip |
 |-|
-| daigh |
+| |
+
+<!--v-->
+
+| *ship* |
+|-|
+| |
+
+<!--v-->
+
+## Spelling Plus Plus
+
+### kht = *ght*
 
 <!--v-->
 
 | akht |
 |-|
-| aight |
+| |
 
 <!--v-->
 
-| aght |
+| *aght* |
 |-|
-| aight |
+| |
 
-<!--s-->
-
-## Spelling Plus Light
-*(**Relaxed** Etymology-Based Spelling)*
+Notes:
+* thaukh
 
 <!--v-->
 
-## Spelling Plus Light
+## Spelling Plus Plus
 
-### aigh
+### h = *gh*
 
 <!--v-->
 
-| dağ |
+## Spelling Plus Plus
+
+### g = ğ = *gh*
+
+<!--v-->
+
+| weg &nbsp; &nbsp; |
 |-|
-| &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
-| &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+| |
 
 <!--v-->
 
-| dağ |
+| weğ &nbsp; &nbsp; |
 |-|
-| daigh |
-| &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+| |
 
 <!--v-->
 
-| dağ |
+| *wegh* &nbsp; |
 |-|
-| daigh |
-| day &nbsp; &nbsp; |
+| |
 
 <!--v-->
 
-## Spelling Plus Light
+## Spelling Plus Plus
 
-### augh
+### th = đ = *d*
 
 <!--v-->
 
-| dağen &nbsp; &nbsp; |
+| milth |
 |-|
-| &nbsp; |
-| &nbsp; |
+| |
 
 <!--v-->
 
-| dağen |
+| mĩlđ |
 |-|
-| daughen |
-| &nbsp; |
+| |
 
 <!--v-->
 
-| dağen |
+| *milde* |
 |-|
-| daughen |
-| dawn |
+| |
+
+<!-- TODO Non-Germanic Spelling
+
+mouve
+succede
+cost
+tost
+creme
+
+pray → prey
+prey → prae (?) bird of prae
+source → sorce (soarce)
+
+ôu: sôuthern → suthern; dôuble tôuch trôuble; out, utter=ôuter
+-->
+
+<!-- TODO 1
+
+one = ǒan/ǒân
+only = oanly
+lonly = loanly
+alone = alloan
+any = äny
+an = än
+a = a
+-->
+
+<!-- TODO Fricatives / Plural / Verbs
+breth breathe
+wǔlf wulfes
+half halfe
+houce housing
+mouce mice
+ove?
+-->
+
+<!-- TODO Irregular Verbs
+sleep slëept slëept
+leap lëapt lëapt
+reed rëed rëed
+deal dëalt dëalt
+mean mëant mëant
+dream drëamt drëamt
+-->
+
+<!-- TODO
+
+ȯ: wimen; woman = wǐman
+o̊: do̊ll
+
+ôn: hunny dun; môney, sôn ;sôme côme
+ôth: bruther muther uther
+ôv: abuve luve uven
+ôo: dôon?
+õw: sõwl
+ōe: shue
+ou: fowl
+
+ou: plough
+
+-->
+
+<!-- TODO Plus: ai
+
+most(e) more → moast moar
+boath
+hoal
+
+-->
+
+<!-- TODO
+four → foar
+braud wauter
+could, should, would → cud shud wud
+
+* you
+* soul (sõwl, soal)
+* thou thow
+to, lose, do (tou loose dou) (how dou you dou?)
+
+"you" would remain as it is, if it weren't to be replaced by "ew" or "eugh".
+"bow" (/bau/) "now", "how" remain as they are.
+"no", "so", "go" remain as they are.
+"blo", "glo", "flo", "slo" + "kno", "sno" + "gro" become "blõw", "glõw", "flõw", "slõw" + "knõw", snõw" + "grõw" as we know and love them, when prettified. Idem: show.
+"fro" becomes "frõw", when prettified.
+"ro", "bo" (/bou/), "to" remain as they are. No "row", "bow", "toe". Idem: lo, fo, mo.
+
+sôm sôn (côm?) sômthing sumthing muther nature's sun cum together
+gon
+
+whole: hail hoal; hoaly
+gulth guth fulk
+hald ald
+
+trew
+trust?
+
+-->
 
-<!--v-->
-
-## Spelling Plus Light
-
-### eigh
-
-<!--v-->
-
-| weğ &nbsp; |
-|-|
-| &nbsp; |
-| &nbsp; |
-
-<!--v-->
-
-| weğ |
-|-|
-| weigh |
-| &nbsp; |
-
-<!--v-->
-
-| weğ |
-|-|
-| weigh |
-| wey |
-
-<!--s-->
-
-## Spelling Lite
-*(Phonemic Spelling)*
-
-<!--v-->
-
-## Spelling Lite
-
-### gh
-
-<!--v-->
-
-| light |
-|-|
-| &nbsp; |
-
-<!--v-->
-
-| light |
-|-|
-| lite |
-
-<!--v-->
-
-| though |
-|-|
-| &nbsp; |
-
-<!--v-->
-
-| thõugh |
-|-|
-| &nbsp; |
-
-<!--v-->
-
-| thõugh |
-|-|
-| tho |
-
-<!--v-->
-
-| through |
-|-|
-| &nbsp; |
-
-<!--v-->
-
-| thrōugh |
-|-|
-| &nbsp; |
-
-<!--v-->
-
-| thrōugh |
-|-|
-| thru |
-
-<!--v-->
-
-| enough |
-|-|
-| &nbsp; |
-
-<!--v-->
-
-| enôugh |
-|-|
-| &nbsp; |
-
-<!--v-->
-
-| enôugh |
-|-|
-| enuff |
-
-<!--v-->
-
-| draught |
-|-|
-| &nbsp; |
-
-<!--v-->
-
-| drȃught |
-|-|
-| &nbsp; |
-
-<!--v-->
-
-| drȃught |
-|-|
-| draft |
-
-<!--v-->
-
-| drȃught |
-|-|
-| drȃft |
-
-<!--v-->
-
-| laugh |
-|-|
-| &nbsp; |
-
-<!--v-->
-
-| lȃugh |
-|-|
-| &nbsp; |
-
-<!--v-->
-
-| lȃugh |
-|-|
-| laff |
-
-<!--v-->
-
-| lȃugh |
-|-|
-| lȃff |
-
-<!--v-->
-
-| cough |
-|-|
-| &nbsp; |
-
-<!--v-->
-
-| co̊ugh |
-|-|
-| &nbsp; |
-
-<!--v-->
-
-| co̊ugh |
-|-|
-| coff |
-
-<!--v-->
-
-## Spelling Lite
-
-### o
-
-<!--v-->
-
-| wônder |
-|-|
-| &nbsp; |
-
-<!--v-->
-
-| wônder |
-|-|
-| wunder |
-
-<!--v-->
-
-| wǒlf |
-|-|
-| &nbsp; |
-
-<!--v-->
-
-| wǒlf |
-|-|
-| wulf |
-
-<!--v-->
-
-| wǒlf |
-|-|
-| wǔlf |
-
-<!--v-->
-
-### oo
-
-<!--v-->
-
-| flood |
-|-|
-| &nbsp; |
-
-<!--v-->
-
-| flôod |
-|-|
-| &nbsp; |
-
-<!--v-->
-
-| flôod |
-|-|
-| flud |
-
-<!--v-->
-
-| book |
-|-|
-| &nbsp; |
-
-<!--v-->
-
-| bǒok |
-|-|
-| &nbsp; |
-
-<!--v-->
-
-| bǒok |
-|-|
-| buck |
-
-<!--v-->
-
-| bǒok |
-|-|
-| bǔck |
-
-<!--v-->
-
-## Spelling Lite
-
-### o(r)
-
-<!--v-->
-
-| sort &nbsp; |
-|-|
-| &nbsp; |
-
-<!--v-->
-
-| sort |
-|-|
-| soart |
-
-<!--v-->
-
-## Spelling Lite
-
-### (w)a, (u)a
-
-<!--v-->
-
-| wasp |
-|-|
-| &nbsp; |
-
-<!--v-->
-
-| wasp |
-|-|
-| wosp |
-
-<!--v-->
-
-| quality |
-|-|
-| &nbsp; |
-
-<!--v-->
-
-| quality |
-|-|
-| quolity |
-
-<!--v-->
-
-## Spelling Lite
-
-### a(l), o(l)
-
-<!--v-->
-
-| salt &nbsp; |
-|-|
-| &nbsp; |
-
-<!--v-->
-
-| saɫt &nbsp; |
-|-|
-| &nbsp; |
-
-<!--v-->
-
-| saɫt |
-|-|
-| sawlt |
-
-<!--v-->
-
-| gold &nbsp; |
-|-|
-| &nbsp; |
-
-<!--v-->
-
-| goɫd &nbsp; |
-|-|
-| &nbsp; |
-
-<!--v-->
-
-| goɫd &nbsp; |
-|-|
-| goald |
 
 
