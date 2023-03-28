@@ -26,12 +26,12 @@ o ȏöȯo̊ǒ ô
 u ȗüu̇ůǔ û
 -->
 
-## Friendly Spelling
-*(Legacy Spelling with Diacritic Marks)*
+## Legacy Spelling
+*(with Diacritic Marks)*
 
 <!--v-->
 
-## Friendly Spelling
+## Legacy Spelling
 
 ### ǔ
 
@@ -49,7 +49,7 @@ u ȗüu̇ůǔ û
 
 <!--v-->
 
-## Friendly Spelling
+## Legacy Spelling
 
 ### ô
 
@@ -65,9 +65,15 @@ u ȗüu̇ůǔ û
 |-|
 | wônder |
 
+<!-- TODO -->
+Notes:
+* hônny dun; môney, sôn ;sôme côme
+ôth: bruther muther uther
+ôv: abuve luve uven
+
 <!--v-->
 
-## Friendly Spelling
+## Legacy Spelling
 
 ### ǒ
 
@@ -85,7 +91,7 @@ u ȗüu̇ůǔ û
 
 <!--v-->
 
-## Friendly Spelling
+## Legacy Spelling
 
 ### ôo
 
@@ -103,7 +109,7 @@ u ȗüu̇ůǔ û
 
 <!--v-->
 
-## Friendly Spelling
+## Legacy Spelling
 
 ### ǒo
 
@@ -121,7 +127,7 @@ u ȗüu̇ůǔ û
 
 <!--v-->
 
-## Friendly Spelling
+## Legacy Spelling
 
 ### ōu
 
@@ -139,7 +145,7 @@ u ȗüu̇ůǔ û
 
 <!--v-->
 
-## Friendly Spelling
+## Legacy Spelling
 
 ### õw
 
@@ -157,7 +163,7 @@ u ȗüu̇ůǔ û
 
 <!--v-->
 
-## Friendly Spelling
+## Legacy Spelling
 
 ### ōugh
 
@@ -174,7 +180,7 @@ u ȗüu̇ůǔ û
 
 <!--v-->
 
-## Friendly Spelling
+## Legacy Spelling
 
 ### õugh
 
@@ -192,7 +198,7 @@ u ȗüu̇ůǔ û
 
 <!--v-->
 
-## Friendly Spelling
+## Legacy Spelling
 
 ### ôugh
 
@@ -213,7 +219,7 @@ Notes:
 
 <!--v-->
 
-## Friendly Spelling
+## Legacy Spelling
 
 ### o̊ugh
 
@@ -234,7 +240,7 @@ Notes:
 
 <!--v-->
 
-## Friendly Spelling
+## Legacy Spelling
 
 ### ȃught = *ȃft*
 
@@ -258,340 +264,12 @@ Notes:
 
 <!--s-->
 
-## *Friendly* Spelling
-*(**Simplified** Legacy Spelling)*
-
-<!--v-->
-
-## *Friendly* Spelling
-
-### ȏugh = *augh*
-
-<!--v-->
-
-| |
-|-|
-| thought |
-
-<!--v-->
-
-| |
-|-|
-| thȏught |
-
-<!--v-->
-
-| |
-|-|
-| *thaught* |
-
-Notes:
-* brȏught sȏught
-* caught taught
-
-<!--v-->
-
-## *Friendly* Spelling
-
-### eĩgh = *igh*
-
-<!--v-->
-
-| &nbsp; |
-|-|
-| height |
-
-<!--v-->
-
-| &nbsp; |
-|-|
-| heĩght |
-
-<!--v-->
-
-| &nbsp; |
-|-|
-| *hight* |
-
-Notes:
-* heĩst
-
-<!--v-->
-
-## *Friendly* Spelling
-
-### ȇ = *a*
-
-<!--v-->
-
-| &nbsp; |
-|-|
-| there |
-
-<!--v-->
-
-| &nbsp; |
-|-|
-| thȇre |
-
-<!--v-->
-
-| &nbsp; |
-|-|
-| *thare* |
-
-Notes:
-* wȇrewǒlf whȇre
-* hȇart
-
-<!--v-->
-
-## *Friendly* Spelling
-
-### ȇa = *a*
-
-<!--v-->
-
-| &nbsp; |
-|-|
-| heart |
-
-<!--v-->
-
-| &nbsp; |
-|-|
-| hȇart |
-
-<!--v-->
-
-| &nbsp; |
-|-|
-| *hart* |
-
-Notes:
-* wȇrewǒlf whȇre
-
-<!--v-->
-
-## *Friendly* Spelling
-
-### ië = *e*
-
-<!--v-->
-
-| &nbsp; |
-|-|
-| friend |
-
-<!--v-->
-
-| &nbsp; |
-|-|
-| friënd |
-
-<!--v-->
-
-| &nbsp; |
-|-|
-| *frend* |
-
-<!--v-->
-
-## *Friendly* Spelling
-
-### äi = *e*
-
-<!--v-->
-
-| &nbsp; |
-|-|
-| said |
-
-<!--v-->
-
-| &nbsp; |
-|-|
-| säid |
-
-<!--v-->
-
-| &nbsp; |
-|-|
-| *sed* |
-
-Notes:
-* agäin
-
-<!--v-->
-
-## *Friendly* Spelling
-
-### ëa = *e*
-
-<!--v-->
-
-| &nbsp; |
-|-|
-| bread |
-
-<!--v-->
-
-| &nbsp; |
-|-|
-| brëad |
-
-<!--v-->
-
-| &nbsp; |
-|-|
-| *bred* &nbsp; |
-
-Notes:
-* dëad dëath instëad lëad rëady sprëad
-* hëalth stëalth (stëelth) wëalth (wëelth)
-* ëarly ëarn ëarth pëarl yëarn
-* dëalt drëamt rëad
-* red
-
-<!--v-->
-
-## *Friendly* Spelling
-
-### ẽa = *ei*
-
-<!--v-->
-
-| &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
-|-|
-| break |
-
-<!--v-->
-
-| &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
-|-|
-| brẽak |
-
-<!--v-->
-
-| &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
-|-|
-| *breik* |
-
-<!--v-->
-
-## *Friendly* Spelling
-
-### ė = *i*
-
-<!--v-->
-
-| &nbsp; |
-|-|
-| English |
-
-<!--v-->
-
-| &nbsp; |
-|-|
-| Ėnglish |
-
-<!--v-->
-
-| &nbsp; |
-|-|
-| *Inglish* |
-
-<!--v-->
-
-## *Friendly* Spelling
-
-### õo = *o_e*
-
-<!--v-->
-
-| &nbsp; |
-|-|
-| floor |
-
-<!--v-->
-
-| &nbsp; |
-|-|
-| flõor |
-
-<!--v-->
-
-| &nbsp; |
-|-|
-| *flore* |
-
-Notes:
-* dõor
-
-<!--v-->
-
-## *Friendly* Spelling
-
-### -ĕ
-
-<!--v-->
-
-| &nbsp; |
-|-|
-| were |
-
-<!--v-->
-
-| &nbsp; |
-|-|
-| werĕ |
-
-<!--v-->
-
-| &nbsp; |
-|-|
-| *wer* |
-
-Notes:
-* arĕ gonĕ
-
-<!--v-->
-
-## *Friendly* Spelling
-
-### -e
-
-<!--v-->
-
-| &nbsp; |
-|-|
-| wild &nbsp; |
-
-<!--v-->
-
-| &nbsp; |
-|-|
-| wĩld &nbsp; |
-
-<!--v-->
-
-| &nbsp; |
-|-|
-| wilde |
-
-Notes:
-* chĩld mĩld
-* bĩnd fĩnd kĩnd mĩnd wĩnd
-* *cf.* bŭild gŭild wind
-
-<!--s-->
-
-## Spelling Lite
+## Legacy Spelling Light
 *(Phonemic Spelling)*
 
 <!--v-->
 
-## Spelling Lite
+## Legacy Spelling Light
 
 ### gh
 
@@ -624,6 +302,12 @@ Notes:
 | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
 |-|
 | *tho* |
+
+Notes:
+* no so go
+* fro
+* blo glo flo slo kno sno gro sho tho
+* bo fo lo mo ro to
 
 <!--v-->
 
@@ -705,7 +389,7 @@ Notes:
 
 <!--v-->
 
-## Spelling Lite
+## Legacy Spelling Light
 
 ### ô = *u*
 
@@ -723,7 +407,7 @@ Notes:
 
 <!--v-->
 
-## Spelling Lite
+## Legacy Spelling Light
 
 ### ǒ = *ǔ*
 
@@ -747,7 +431,7 @@ Notes:
 
 <!--v-->
 
-## Spelling Lite
+## Legacy Spelling Light
 
 ### ôo = *u*
 
@@ -771,7 +455,7 @@ Notes:
 
 <!--v-->
 
-## Spelling Lite
+## Legacy Spelling Light
 
 ### ǒo = *ǔ*
 
@@ -801,7 +485,7 @@ Notes:
 
 <!--v-->
 
-## Spelling Lite
+## Legacy Spelling Light
 
 ### or = *oar*
 
@@ -825,7 +509,7 @@ Notes:
 
 <!--v-->
 
-## Spelling Lite
+## Legacy Spelling Light
 
 ### wa = *wo*
 
@@ -849,7 +533,7 @@ Notes:
 
 <!--v-->
 
-## Spelling Lite
+## Legacy Spelling Light
 
 ### al = *aw*
 
@@ -873,7 +557,7 @@ Notes:
 
 <!--v-->
 
-## Spelling Lite
+## Legacy Spelling Light
 
 ### al = *awl*
 
@@ -897,7 +581,7 @@ Notes:
 
 <!--v-->
 
-## Spelling Lite
+## Legacy Spelling Light
 
 ### ol = *ol_e*
 
@@ -921,7 +605,7 @@ Notes:
 
 <!--v-->
 
-## Spelling Lite
+## Legacy Spelling Light
 
 ### oa = *o_e*
 
@@ -939,17 +623,345 @@ Notes:
 
 Notes:
 * bone dole home stone whole
-* alone → one
+* alone; one
 * boat goat loathe road
 
 <!--s-->
 
-## Spelling Plus
+## Friendly Spelling
+*(**Simplified** Legacy Spelling)*
+
+<!--v-->
+
+## Friendly Spelling
+
+### ȏugh = *augh*
+
+<!--v-->
+
+| |
+|-|
+| thought |
+
+<!--v-->
+
+| |
+|-|
+| thȏught |
+
+<!--v-->
+
+| |
+|-|
+| *thaught* |
+
+Notes:
+* brȏught sȏught
+* caught taught
+
+<!--v-->
+
+## Friendly Spelling
+
+### eĩgh = *igh*
+
+<!--v-->
+
+| &nbsp; |
+|-|
+| height |
+
+<!--v-->
+
+| &nbsp; |
+|-|
+| heĩght |
+
+<!--v-->
+
+| &nbsp; |
+|-|
+| *hight* |
+
+Notes:
+* heĩst
+
+<!--v-->
+
+## Friendly Spelling
+
+### ȇ = *a*
+
+<!--v-->
+
+| &nbsp; |
+|-|
+| there |
+
+<!--v-->
+
+| &nbsp; |
+|-|
+| thȇre |
+
+<!--v-->
+
+| &nbsp; |
+|-|
+| *thare* |
+
+Notes:
+* wȇrewǒlf whȇre
+* hȇart
+
+<!--v-->
+
+## Friendly Spelling
+
+### ȇa = *a*
+
+<!--v-->
+
+| &nbsp; |
+|-|
+| heart |
+
+<!--v-->
+
+| &nbsp; |
+|-|
+| hȇart |
+
+<!--v-->
+
+| &nbsp; |
+|-|
+| *hart* |
+
+Notes:
+* wȇrewǒlf whȇre
+
+<!--v-->
+
+## Friendly Spelling
+
+### ië = *e*
+
+<!--v-->
+
+| &nbsp; |
+|-|
+| friend |
+
+<!--v-->
+
+| &nbsp; |
+|-|
+| friënd |
+
+<!--v-->
+
+| &nbsp; |
+|-|
+| *frend* |
+
+<!--v-->
+
+## Friendly Spelling
+
+### äi = *e*
+
+<!--v-->
+
+| &nbsp; |
+|-|
+| said |
+
+<!--v-->
+
+| &nbsp; |
+|-|
+| säid |
+
+<!--v-->
+
+| &nbsp; |
+|-|
+| *sed* |
+
+Notes:
+* agäin
+
+<!--v-->
+
+## Friendly Spelling
+
+### ëa = *e*
+
+<!--v-->
+
+| &nbsp; |
+|-|
+| bread |
+
+<!--v-->
+
+| &nbsp; |
+|-|
+| brëad |
+
+<!--v-->
+
+| &nbsp; |
+|-|
+| *bred* &nbsp; |
+
+Notes:
+* dëad dëath instëad lëad rëady sprëad
+* hëalth stëalth (stëelth) wëalth (wëelth)
+* ëarly ëarn ëarth pëarl yëarn
+* dëalt drëamt rëad
+* red
+
+<!--v-->
+
+## Friendly Spelling
+
+### ẽa = *ei*
+
+<!--v-->
+
+| &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+|-|
+| break |
+
+<!--v-->
+
+| &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+|-|
+| brẽak |
+
+<!--v-->
+
+| &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+|-|
+| *breik* |
+
+<!--v-->
+
+## Friendly Spelling
+
+### ė = *i*
+
+<!--v-->
+
+| &nbsp; |
+|-|
+| English |
+
+<!--v-->
+
+| &nbsp; |
+|-|
+| Ėnglish |
+
+<!--v-->
+
+| &nbsp; |
+|-|
+| *Inglish* |
+
+<!--v-->
+
+## Friendly Spelling
+
+### õo = *o_e*
+
+<!--v-->
+
+| &nbsp; |
+|-|
+| floor |
+
+<!--v-->
+
+| &nbsp; |
+|-|
+| flõor |
+
+<!--v-->
+
+| &nbsp; |
+|-|
+| *flore* |
+
+Notes:
+* dõor
+
+<!--v-->
+
+## Friendly Spelling
+
+### -ĕ
+
+<!--v-->
+
+| &nbsp; |
+|-|
+| were |
+
+<!--v-->
+
+| &nbsp; |
+|-|
+| werĕ |
+
+<!--v-->
+
+| &nbsp; |
+|-|
+| *wer* |
+
+Notes:
+* arĕ gonĕ
+
+<!--v-->
+
+## Friendly Spelling
+
+### -e
+
+<!--v-->
+
+| &nbsp; |
+|-|
+| wild &nbsp; |
+
+<!--v-->
+
+| &nbsp; |
+|-|
+| wĩld &nbsp; |
+
+<!--v-->
+
+| &nbsp; |
+|-|
+| wilde |
+
+Notes:
+* chĩld mĩld
+* bĩnd fĩnd kĩnd mĩnd wĩnd
+* *cf.* bŭild gŭild wind
+
+<!--s-->
+
+## Friendly Spelling Plus
 *(Etymology-Based Spelling)*
 
 <!--v-->
 
-## Spelling Plus
+## Friendly Spelling Plus
 
 ### ai ≠ ei
 
@@ -988,7 +1000,7 @@ Notes:
 
 <!--v-->
 
-## Spelling Plus
+## Friendly Spelling Plus
 
 ### ie ≠ ee
 
@@ -1018,7 +1030,7 @@ Notes:
 
 <!--v-->
 
-## Spelling Plus
+## Friendly Spelling Plus
 
 ### ea ≠ ee
 
@@ -1051,7 +1063,7 @@ Notes:
 
 <!--v-->
 
-## Spelling Plus
+## Friendly Spelling Plus
 
 ### oa ≠ o_e
 
@@ -1059,29 +1071,32 @@ Notes:
 
 | &nbsp; |
 |-|
-| soak |
+| coat |
 
 <!--v-->
 
-| suk |
+| kott |
 |-|
-| soak |
+| coat |
 
 <!--v-->
 
-| suk |
+| kott |
 |-|
-| ~~soak~~ |
+| ~~coat~~ |
 
 <!--v-->
 
-| suk |
+| kott |
 |-|
-| soke |
+| cote |
+
+Notes:
+* soak
 
 <!--v-->
 
-## Spelling Plus
+## Friendly Spelling Plus
 
 ### o ≠ õw
 
@@ -1117,7 +1132,7 @@ Notes:
 
 <!--v-->
 
-## Spelling Plus
+## Friendly Spelling Plus
 
 ### oo ≠ eu
 
@@ -1153,7 +1168,7 @@ Notes:
 
 <!--v-->
 
-## Spelling Plus
+## Friendly Spelling Plus
 
 ### er ≠ ir ≠ or ≠ ur
 
@@ -1194,12 +1209,12 @@ Notes:
 
 <!--s-->
 
-## Spelling *Plus*
+## Friendly Spelling Plus Light
 *(**Simplified** Etymology-Based Spelling)*
 
 <!--v-->
 
-## Spelling *Plus*
+## Friendly Spelling Plus Light
 
 ### aigh = *ay*
 
@@ -1223,7 +1238,7 @@ Notes:
 
 <!--v-->
 
-## Spelling *Plus*
+## Friendly Spelling Plus Light
 
 ### augh = *aw*
 
@@ -1247,7 +1262,7 @@ Notes:
 
 <!--v-->
 
-## Spelling *Plus*
+## Friendly Spelling Plus Light
 
 ### eigh = *ey*
 
@@ -1269,14 +1284,214 @@ Notes:
 |-|
 | *wey* &nbsp; &nbsp; |
 
-<!--s-->
+<!--v-->
 
-## Spelling Plus Plus
-*(Etymological Spelling)*
+## Friendly Spelling Plus Light
+
+### õugh = *õw*
 
 <!--v-->
 
-## Spelling Plus Plus
+| thaukh |
+|-|
+| though |
+
+<!--v-->
+
+| thaukh |
+|-|
+| thõugh |
+
+<!--v-->
+
+| thaukh |
+|-|
+| *thõw* |
+
+Notes:
+* bõw (bug) lõw (leg)
+
+<!--v-->
+
+## Friendly Spelling Plus Light
+
+### *-õ*
+
+<!--v-->
+
+| faih | gai | naiw | raihw | taihw |
+|-|-|-|-|-|
+| &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
+
+| swa | mæ &nbsp; &nbsp; | ro &nbsp; &nbsp; |
+|-|-|-|
+| &nbsp; | &nbsp; | &nbsp; |
+
+<!--v-->
+
+| faih | gai | naiw | raihw | taihw |
+|-|-|-|-|-|
+| foe | go | no | row | toe |
+
+| swa | mæ &nbsp; &nbsp; | ro &nbsp; &nbsp; |
+|-|-|-|
+| so | mow | row |
+
+<!--v-->
+
+| faih | gai | naiw | raihw | taihw |
+|-|-|-|-|-|
+| foe | go | no | rõw | toe |
+
+| swa | mæ &nbsp; &nbsp; | ro &nbsp; &nbsp; |
+|-|-|-|
+| so | mõw | rõw |
+
+<!--v-->
+
+| faih | gai | naiw | raihw | taihw |
+|-|-|-|-|-|
+| ~~foe~~ | go | no | ~~rõw~~ | ~~toe~~ |
+
+| swa | mæ &nbsp; &nbsp; | ro &nbsp; &nbsp; |
+|-|-|-|
+| so | ~~mõw~~ | ~~rõw~~ |
+
+<!--v-->
+
+| faih | gai | naiw | raihw | taihw |
+|-|-|-|-|-|
+| *fo* | go | no | *ro* | *to* |
+
+| swa | mæ &nbsp; &nbsp; | ro &nbsp; &nbsp; |
+|-|-|-|
+| so | *mo* | *ro* |
+
+Notes:
+* tǒ/tō
+<!-- TODO really? -->
+
+<!--v-->
+
+## Friendly Spelling Plus Light
+
+### *-õw*
+
+<!--v-->
+
+| snaiw | blæ | slæw | skauw | thaukh |
+|-|-|-|-|-|
+| &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
+
+| fra &nbsp; | flo | glo | gro |
+|-|-|-|-|
+| &nbsp; | &nbsp; | &nbsp; | &nbsp; |
+
+<!--v-->
+
+| snaiw | blæ | slæw | skauw | thaukh |
+|-|-|-|-|-|
+| snow | blow | slow | show | though |
+
+| fra &nbsp; | flo | glo | gro |
+|-|-|-|-|
+| fro | flow | glow | grow |
+
+<!--v-->
+
+| snaiw | blæ | slæw | skauw | thaukh |
+|-|-|-|-|-|
+| snõw | blõw | slõw | shõw | thõugh |
+
+| fra &nbsp; | flo | glo | gro |
+|-|-|-|-|
+| fro | flõw | glõw | grõw |
+
+<!--v-->
+
+| snaiw | blæ | slæw | skauw | thaukh |
+|-|-|-|-|-|
+| snõw | blõw | slõw | shõw | ~~thõugh~~ |
+
+| fra &nbsp; | flo | glo | gro |
+|-|-|-|-|
+| ~~fro~~ | flõw | glõw | grõw |
+
+<!--v-->
+
+| snaiw | blæ | slæw | skauw | thaukh |
+|-|-|-|-|-|
+| snõw | blõw | slõw | shõw | *thõw* |
+
+| fra | flo | glo | gro |
+|-|-|-|-|
+| *frõw* | flõw | glõw | grõw |
+
+Notes:
+* knew
+
+<!--v-->
+
+## Friendly Spelling Plus Light
+
+### -õugh = *-õw*
+
+<!--v-->
+
+| tomorg &nbsp; &nbsp; &nbsp; &nbsp; |
+|-|
+| &nbsp; |
+
+<!--v-->
+
+| tomorg &nbsp; &nbsp; &nbsp; &nbsp; |
+|-|
+| tomorrough |
+
+<!--v-->
+
+| tomorg &nbsp; &nbsp; &nbsp; &nbsp; |
+|-|
+| tōmorrough |
+
+<!--v-->
+
+| tomorg &nbsp; &nbsp; &nbsp; &nbsp; |
+|-|
+| *tōmorrow* |
+
+<!--v-->
+
+## Friendly Spelling Plus Light
+
+### -igh = *-y*
+
+<!--v-->
+
+| happig |
+|-|
+| &nbsp; |
+
+<!--v-->
+
+| happig |
+|-|
+| happigh |
+
+<!--v-->
+
+| happig |
+|-|
+| *happy* |
+
+<!--s-->
+
+## Friendly Spelling Plus Plus Light
+*(**Simplified** Etymological Spelling)*
+
+<!--v-->
+
+## Friendly Spelling Plus Plus Light
 
 ### å = *o*
 
@@ -1300,7 +1515,7 @@ Notes:
 
 <!--v-->
 
-## Spelling Plus Plus
+## Friendly Spelling Plus Plus Light
 
 ### ů = *o*
 
@@ -1324,9 +1539,9 @@ Notes:
 
 <!--v-->
 
-## Spelling Plus Plus
+## Friendly Spelling Plus Plus Light
 
-### k → c
+### k = *c*
 
 <!--v-->
 
@@ -1342,7 +1557,7 @@ Notes:
 
 <!--v-->
 
-## Spelling Plus Plus
+## Friendly Spelling Plus Plus Light
 
 ### k = ꝁ = *ch*
 
@@ -1366,7 +1581,7 @@ Notes:
 
 <!--v-->
 
-## Spelling Plus Plus
+## Friendly Spelling Plus Plus Light
 
 ### sk = sꝁ = *sh*
 
@@ -1390,7 +1605,7 @@ Notes:
 
 <!--v-->
 
-## Spelling Plus Plus
+## Friendly Spelling Plus Plus Light
 
 ### kht = *ght*
 
@@ -1411,13 +1626,14 @@ Notes:
 
 <!--v-->
 
-## Spelling Plus Plus
+## Friendly Spelling Plus Plus Light
 
 ### h = *gh*
 
+<!-- TODO -->
 <!--v-->
 
-## Spelling Plus Plus
+## Friendly Spelling Plus Plus Light
 
 ### g = ğ = *gh*
 
@@ -1441,7 +1657,37 @@ Notes:
 
 <!--v-->
 
-## Spelling Plus Plus
+## Friendly Spelling Plus Plus Light
+
+### -lik = -liğ = *-ligh*
+
+<!--v-->
+
+| friandlik &nbsp; &nbsp; |
+|-|
+| |
+
+<!--v-->
+
+| frïăndlik &nbsp; &nbsp; |
+|-|
+| |
+
+<!--v-->
+
+| frïăndliğ &nbsp; &nbsp; |
+|-|
+| |
+
+<!--v-->
+
+| *frïndligh* &nbsp; &nbsp; |
+|-|
+| |
+
+<!--v-->
+
+## Friendly Spelling Plus Plus Light
 
 ### th = đ = *d*
 
@@ -1462,6 +1708,115 @@ Notes:
 | *milde* |
 |-|
 | |
+
+<!--s-->
+
+## Edge Cases
+
+<!--v-->
+
+## Edge Cases
+
+### soul
+
+<!--v-->
+
+| &nbsp; |
+|-|
+| soul |
+
+<!--v-->
+
+| &nbsp; |
+|-|
+| sõul |
+
+<!--v-->
+
+| sail |
+|-|
+| sõul |
+
+<!--v-->
+
+| sail |
+|-|
+| ~~sõul~~ |
+
+<!--v-->
+
+| sail |
+|-|
+| soal |
+
+<!--v-->
+
+## Edge Cases
+
+### whole
+
+<!--v-->
+
+| &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+|-|
+| whole |
+
+<!--v-->
+
+| hail &nbsp; &nbsp; |
+|-|
+| whole |
+
+<!--v-->
+
+| hail &nbsp; &nbsp; |
+|-|
+| ~~whole~~ |
+
+<!--v-->
+
+| hail &nbsp; &nbsp; |
+|-|
+| hoal |
+
+Notes:
+* hoaly heal health
+
+<!--v-->
+
+## Edge Cases
+
+### worry
+
+<!--v-->
+
+| &nbsp; |
+|-|
+| worry |
+
+<!--v-->
+
+| &nbsp; |
+|-|
+| wôrry |
+
+<!--v-->
+
+| wurg |
+|-|
+| wôrry |
+
+<!--v-->
+
+| wurġ |
+|-|
+| wôrry |
+
+<!--v-->
+
+| *wurrigh* |
+|-|
+| wôrry |
 
 <!-- TODO Non-Germanic Spelling
 
@@ -1512,11 +1867,7 @@ dream drëamt drëamt
 ȯ: wimen; woman = wǐman
 o̊: do̊ll
 
-ôn: hunny dun; môney, sôn ;sôme côme
-ôth: bruther muther uther
-ôv: abuve luve uven
 ôo: dôon?
-õw: sõwl
 ōe: shue
 ou: fowl
 
@@ -1528,36 +1879,32 @@ ou: plough
 
 most(e) more → moast moar
 boath
-hoal
 
 -->
 
 <!-- TODO
 four → foar
-braud wauter
+brawd wawter wāter?
 could, should, would → cud shud wud
 
 * you
-* soul (sõwl, soal)
 * thou thow
 to, lose, do (tou loose dou) (how dou you dou?)
 
-"you" would remain as it is, if it weren't to be replaced by "ew" or "eugh".
-"bow" (/bau/) "now", "how" remain as they are.
-"no", "so", "go" remain as they are.
-"blo", "glo", "flo", "slo" + "kno", "sno" + "gro" become "blõw", "glõw", "flõw", "slõw" + "knõw", snõw" + "grõw" as we know and love them, when prettified. Idem: show.
-"fro" becomes "frõw", when prettified.
-"ro", "bo" (/bou/), "to" remain as they are. No "row", "bow", "toe". Idem: lo, fo, mo.
-
-sôm sôn (côm?) sômthing sumthing muther nature's sun cum together
+sôm sôn (côm?) sômthing
 gon
-
-whole: hail hoal; hoaly
-gulth guth fulk
-hald ald
 
 trew
 trust?
+
+søk: søke
+leuğ leugh: lygh
+
+trust treûst
+
+* truw/trew thruw/threw
+
+Ausweichrechtschreibung: to = tõ → toe
 
 -->
 
