@@ -244,7 +244,7 @@ Notes:
 
 ## Legacy Spelling
 
-### ȃught = *ȃft*
+### ȃught ⇒ *ȃft*
 
 <!--v-->
 
@@ -393,7 +393,7 @@ Notes:
 
 ## Legacy Spelling Light
 
-### ô = *u*
+### ô ⇒ *u*
 
 <!--v-->
 
@@ -411,7 +411,7 @@ Notes:
 
 ## Legacy Spelling Light
 
-### ǒ = *ǔ*
+### ǒ ⇒ *ǔ*
 
 <!--v-->
 
@@ -435,7 +435,7 @@ Notes:
 
 ## Legacy Spelling Light
 
-### ôo = *u*
+### ôo ⇒ *u*
 
 <!--v-->
 
@@ -459,7 +459,7 @@ Notes:
 
 ## Legacy Spelling Light
 
-### ǒo = *ǔ*
+### ǒo ⇒ *ǔ*
 
 <!--v-->
 
@@ -489,7 +489,7 @@ Notes:
 
 ## Legacy Spelling Light
 
-### or = *oar*
+### or ⇒ *oar*
 
 <!--v-->
 
@@ -513,7 +513,7 @@ Notes:
 
 ## Legacy Spelling Light
 
-### wa = *wo*
+### wa ⇒ *wo*
 
 <!--v-->
 
@@ -537,7 +537,7 @@ Notes:
 
 ## Legacy Spelling Light
 
-### al = *aw*
+### al ⇒ *aw*
 
 <!--v-->
 
@@ -561,7 +561,7 @@ Notes:
 
 ## Legacy Spelling Light
 
-### al = *awl*
+### al ⇒ *awl*
 
 <!--v-->
 
@@ -585,7 +585,7 @@ Notes:
 
 ## Legacy Spelling Light
 
-### ol = *ol_e*
+### ol ⇒ *ol_e*
 
 <!--v-->
 
@@ -609,7 +609,7 @@ Notes:
 
 ## Legacy Spelling Light
 
-### oa = *o_e*
+### oa ⇒ *o_e*
 
 <!--v-->
 
@@ -637,7 +637,7 @@ Notes:
 
 ## Friendly Spelling
 
-### ȏugh = *augh*
+### ȏugh ⇒ *augh*
 
 <!--v-->
 
@@ -665,7 +665,7 @@ Notes:
 
 ## Friendly Spelling
 
-### eĩgh = *igh*
+### eĩgh ⇒ *igh*
 
 <!--v-->
 
@@ -692,7 +692,7 @@ Notes:
 
 ## Friendly Spelling
 
-### ȇ = *a*
+### ȇ ⇒ *a*
 
 <!--v-->
 
@@ -720,7 +720,7 @@ Notes:
 
 ## Friendly Spelling
 
-### ȇa = *a*
+### ȇa ⇒ *a*
 
 <!--v-->
 
@@ -747,7 +747,7 @@ Notes:
 
 ## Friendly Spelling
 
-### ië = *e*
+### ië ⇒ *e*
 
 <!--v-->
 
@@ -771,7 +771,7 @@ Notes:
 
 ## Friendly Spelling
 
-### äi = *e*
+### äi ⇒ *e*
 
 <!--v-->
 
@@ -798,7 +798,7 @@ Notes:
 
 ## Friendly Spelling
 
-### ëa = *e*
+### ëa ⇒ *e*
 
 <!--v-->
 
@@ -829,7 +829,7 @@ Notes:
 
 ## Friendly Spelling
 
-### ẽa = *ei*
+### ẽa ⇒ *ei*
 
 <!--v-->
 
@@ -853,7 +853,7 @@ Notes:
 
 ## Friendly Spelling
 
-### ė = *i*
+### ė ⇒ *i*
 
 <!--v-->
 
@@ -877,7 +877,7 @@ Notes:
 
 ## Friendly Spelling
 
-### õo = *o_e*
+### õo ⇒ *o_e*
 
 <!--v-->
 
@@ -1893,7 +1893,7 @@ Notes:
 
 <!--v-->
 
-## Friendly Spelling Plus Plus Light
+## I-Mutation
 
 ### ạ ⇒ æ  ≈  æ̥ ⇒ ø
 
@@ -1959,7 +1959,7 @@ Notes:
 
 <!--v-->
 
-## Friendly Spelling Plus Plus Light
+## I-Mutation
 
 ### y ⇒ i
 
@@ -2105,7 +2105,7 @@ Notes:
 
 <!--v-->
 
-## Friendly Spelling Plus Plus Light
+## I-Mutation
 
 ### e̥ ⇒ y
 
@@ -2135,7 +2135,7 @@ Notes:
 
 <!--v-->
 
-## Friendly Spelling Plus Plus Light
+## I-Mutation
 
 ### ạ ⇒ o
 
@@ -2196,7 +2196,7 @@ Notes:
 
 <!--v-->
 
-## Friendly Spelling Plus Plus Light
+## I-Mutation
 
 ### æ̥ ⇒ i  ≈  e̥ ⇒ i
 
@@ -2250,7 +2250,7 @@ Notes:
 
 <!--v-->
 
-## Friendly Spelling Plus Plus Light
+## I-Mutation
 
 ### e̥ ⇒ u
 
