@@ -959,7 +959,7 @@ Notes:
 <!--s-->
 
 ## Friendly Spelling Plus
-*(Etymology-Based Spelling)*
+*(**Corrected** Legacy Spelling Based on Etymology)*
 
 <!--v-->
 
@@ -1212,7 +1212,7 @@ Notes:
 <!--s-->
 
 ## Friendly Spelling Plus Light
-*(**Simplified** Etymology-Based Spelling)*
+*(**Simplified** Corrected Lecacy Spelling Based on Etymology)*
 
 <!--v-->
 
@@ -1559,6 +1559,12 @@ Notes:
 
 <!--v-->
 
+| bom |
+|-|
+| |
+
+<!--v-->
+
 | *boom* |
 |-|
 | |
@@ -1637,15 +1643,33 @@ Notes:
 
 <!--v-->
 
+| &nbsp; |
+|-|
+| eight |
+
+<!--v-->
+
 | akht |
 |-|
-| |
+| eight |
+
+<!--v-->
+
+| akht |
+|-|
+| ~eight~ |
+
+<!--v-->
+
+| akht |
+|-|
+| aight |
 
 <!--v-->
 
 | *aght* |
 |-|
-| |
+| aight |
 
 Notes:
 * thaukh
@@ -1656,7 +1680,38 @@ Notes:
 
 ### h ⇒ *gh*
 
-<!-- TODO -->
+<!-- TODO high -->
+<!-- TODO move to verbs -->
+<!--v-->
+
+| seh &nbsp; &nbsp; | sah | sehen |
+|-|-|-|
+| see | saw | seen |
+
+<!--v-->
+
+| *sēgh* &nbsp; &nbsp; | *sagh* | *sēghen* |
+|-|-|-|
+| see | saw | seen |
+
+<!--v-->
+
+| *sēgh* &nbsp; &nbsp; | *sagh* | *sēghen* |
+|-|-|-|
+| ~see~ | ~saw~ | ~seen~ |
+
+<!--v-->
+
+| *sēgh* &nbsp; &nbsp; | *sagh* | *sēghen* |
+|-|-|-|
+| seegh | saugh | seeghen |
+
+<!--v-->
+
+| *sēgh* &nbsp; &nbsp; | *sagh* | *sēghen* |
+|-|-|-|
+| *see* | *saw* | *seen* |
+
 <!--v-->
 
 ## Friendly Spelling Plus Plus Light
@@ -1738,8 +1793,13 @@ Notes:
 <!--s-->
 
 ## I-Mutation
+*(a_i, o_i, u_i, au_i + eu)*
 
-### æ ⇒ e  ≈  ø ⇒ e
+<!--v-->
+
+## I-Mutation
+
+### æ ≈ ø ≈ e
 
 <!--v-->
 
@@ -1961,7 +2021,7 @@ Notes:
 
 ## I-Mutation
 
-### y ⇒ i
+### y ≈ i
 
 <!--v-->
 
@@ -2137,7 +2197,7 @@ Notes:
 
 ## I-Mutation
 
-### ạ ⇒ o
+### ạ ≈ o
 
 <!--v-->
 
@@ -2159,10 +2219,12 @@ Notes:
 
 <!--v-->
 
-<!-- TODO æ~ -->
 | *gæt* | &nbsp; |
 |-|-|
 | goat | õwn &nbsp; &nbsp; &nbsp; |
+
+Notes:
+* gæ~t <!-- TODO æ~ -->
 
 <!--v-->
 
@@ -2283,6 +2345,61 @@ Notes:
 | neu | treu |
 |-|-|
 | new | trew &nbsp; |
+
+<!--s-->
+
+## Verbs
+
+<!--v-->
+
+## Verbs
+
+### Psudo-Irregular Verbs
+
+<!--v-->
+
+| &nbsp;  | &nbsp;  |
+|-|-|
+| lay &nbsp; &nbsp; | laid &nbsp; &nbsp;  |
+
+<!--v-->
+
+| leg | leged |
+|-|-|
+| lay &nbsp; &nbsp; | laid &nbsp; &nbsp; |
+
+<!--v-->
+
+| *legh* | *leghed* |
+|-|-|
+| lay &nbsp; &nbsp; | laid &nbsp; &nbsp; |
+
+<!--v-->
+
+| *legh* | *leghed* |
+|-|-|
+| ~lay~ | ~laid~ &nbsp; &nbsp; |
+
+<!--v-->
+
+| *legh* | *leghed* |
+|-|-|
+| leigh | leighed |
+
+<!--v-->
+
+| *legh* | *leghed* |
+|-|-|
+| *ley* | *leyed* |
+
+<!--v-->
+
+| *legh* | *leghed* |
+|-|-|
+| *ley* | *leid* |
+
+Notes:
+* payed, staid
 
 <!--s-->
 
@@ -2424,15 +2541,6 @@ half halfe
 houce housing
 mouce mice
 ove?
--->
-
-<!-- TODO
-legh leghed
-pay payed
--->
-
-<!-- TODO æ ø y
-ægh, øgh, ygh = ogh, igh, igh (æghen, høgh, lyght = õwn, high, light)
 -->
 
 <!-- TODO (weak verbs)
