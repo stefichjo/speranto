@@ -14,16 +14,18 @@ revealOptions:
 <!--
 ğġǧ
 
-a_i = æ  ≈  ai   = ạ
-      o  ≈  au   = ḁ
-o_i = ø  ≈  au_i = æ̥
-u_i = y  ≈  eu   = e̥
+ḁ      ⇒ o
+ạ  ≈ æ ⇒ e
+æ̥ ≈ ø ⇒ e
+e̥ ≈ y ⇒ i
 
-a ȃäȧåǎ â
-e ȇëėe̊ě ê
-i ȋïĭi̊ǐ î
-o ȏöȯo̊ǒ ô
-u ȗüu̇ůǔ û
+ȃȇȋȏȗ    ⇒ a
+äëïöü    ⇒ e
+ȧėiȯu̇   ⇒ i
+åe̊i̊o̊ů ⇒ o
+âêîôû    ⇒ u
+ǎěǐǒǔ    ⇒ ǔ
+
 -->
 
 ## Legacy Spelling
@@ -1163,7 +1165,7 @@ Notes:
 Notes:
 * cheuse (choose)
 * trew (true)
-* Admittedly, it's very convenient to have "shoot shot shot".
+* Admittedly, it's very convenient to have "shoot shot shot"; especially when "y" behaves like "ø"
 * cf. laus lose
 
 <!--v-->
@@ -1216,7 +1218,7 @@ Notes:
 
 ## Friendly Spelling Plus Light
 
-### aigh = *ay*
+### aigh ⇒ *ay*
 
 <!--v-->
 
@@ -1240,7 +1242,7 @@ Notes:
 
 ## Friendly Spelling Plus Light
 
-### augh = *aw*
+### augh ⇒ *aw*
 
 <!--v-->
 
@@ -1264,7 +1266,7 @@ Notes:
 
 ## Friendly Spelling Plus Light
 
-### eigh = *ey*
+### eigh ⇒ *ey*
 
 <!--v-->
 
@@ -1288,7 +1290,7 @@ Notes:
 
 ## Friendly Spelling Plus Light
 
-### õugh = *õw*
+### õugh ⇒ *õw*
 
 <!--v-->
 
@@ -1434,7 +1436,7 @@ Notes:
 
 ## Friendly Spelling Plus Light
 
-### -õugh = *-õw*
+### -õugh ⇒ *-õw*
 
 <!--v-->
 
@@ -1464,7 +1466,7 @@ Notes:
 
 ## Friendly Spelling Plus Light
 
-### -igh = *-y*
+### -igh ⇒ *-y*
 
 <!--v-->
 
@@ -1493,7 +1495,7 @@ Notes:
 
 ## Friendly Spelling Plus Plus Light
 
-### å = *o*
+### å ⇒ *o*
 
 <!--v-->
 
@@ -1517,7 +1519,7 @@ Notes:
 
 ## Friendly Spelling Plus Plus Light
 
-### ů = *o*
+### ů ⇒ *o*
 
 <!--v-->
 
@@ -1541,7 +1543,31 @@ Notes:
 
 ## Friendly Spelling Plus Plus Light
 
-### k = *c*
+### ḁ ⇒ *oo*
+
+<!--v-->
+
+| baum |
+|-|
+| |
+
+<!--v-->
+
+| bḁm |
+|-|
+| |
+
+<!--v-->
+
+| *boom* |
+|-|
+| |
+
+<!--v-->
+
+## Friendly Spelling Plus Plus Light
+
+### k ⇒ *c*
 
 <!--v-->
 
@@ -1559,7 +1585,7 @@ Notes:
 
 ## Friendly Spelling Plus Plus Light
 
-### k = ꝁ = *ch*
+### k ⇒ *ch*
 
 <!--v-->
 
@@ -1583,7 +1609,7 @@ Notes:
 
 ## Friendly Spelling Plus Plus Light
 
-### sk = sꝁ = *sh*
+### sk ⇒ *sh*
 
 <!--v-->
 
@@ -1607,7 +1633,7 @@ Notes:
 
 ## Friendly Spelling Plus Plus Light
 
-### kht = *ght*
+### kht ⇒ *ght*
 
 <!--v-->
 
@@ -1628,14 +1654,14 @@ Notes:
 
 ## Friendly Spelling Plus Plus Light
 
-### h = *gh*
+### h ⇒ *gh*
 
 <!-- TODO -->
 <!--v-->
 
 ## Friendly Spelling Plus Plus Light
 
-### g = ğ = *gh*
+### g ⇒ *gh*
 
 <!--v-->
 
@@ -1659,7 +1685,7 @@ Notes:
 
 ## Friendly Spelling Plus Plus Light
 
-### -lik = -liğ = *-ligh*
+### -lik ⇒ *-ligh*
 
 <!--v-->
 
@@ -1689,7 +1715,7 @@ Notes:
 
 ## Friendly Spelling Plus Plus Light
 
-### th = đ = *d*
+### th ⇒ *d*
 
 <!--v-->
 
@@ -1708,6 +1734,555 @@ Notes:
 | *milde* |
 |-|
 | |
+
+<!--s-->
+
+## I-Mutation
+
+### æ ⇒ e  ≈  ø ⇒ e
+
+<!--v-->
+
+| &nbsp; | &nbsp; |
+|-|-|
+| men &nbsp; &nbsp; &nbsp; | fed &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+
+| &nbsp; | &nbsp; |
+|-|-|
+| street &nbsp; | green &nbsp; |
+
+<!--v-->
+
+| mann_i | &nbsp; |
+|-|-|
+| men &nbsp; &nbsp; &nbsp; | fed &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+
+| &nbsp; | &nbsp; |
+|-|-|
+| street &nbsp; | green &nbsp; |
+
+<!--v-->
+
+| mænn | &nbsp; |
+|-|-|
+| men &nbsp; &nbsp; &nbsp; | fed &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+
+| &nbsp; | &nbsp; |
+|-|-|
+| street &nbsp; | green &nbsp; |
+
+<!--v-->
+
+| *mæn* | &nbsp; |
+|-|-|
+| men &nbsp; &nbsp; &nbsp; | fed &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+
+| &nbsp; | &nbsp; |
+|-|-|
+| street &nbsp; | green &nbsp; |
+
+<!--v-->
+
+| *mæn* | fod_i + ed |
+|-|-|
+| men &nbsp; &nbsp; &nbsp; | fed &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+
+| &nbsp; | &nbsp; |
+|-|-|
+| street &nbsp; | green &nbsp; |
+
+<!--v-->
+
+| *mæn* | fød + ed |
+|-|-|
+| men &nbsp; &nbsp; &nbsp; | fed &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+
+| &nbsp; | &nbsp; |
+|-|-|
+| street &nbsp; | green &nbsp; |
+
+<!--v-->
+
+| *mæn* | fødĕd |
+|-|-|
+| men &nbsp; &nbsp; &nbsp; | fed &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+
+| &nbsp; | &nbsp; |
+|-|-|
+| street &nbsp; | green &nbsp; |
+
+<!--v-->
+
+| *mæn* | fødd |
+|-|-|
+| men &nbsp; &nbsp; &nbsp; | fed &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+
+| &nbsp; | &nbsp; |
+|-|-|
+| street &nbsp; | green &nbsp; |
+
+<!--v-->
+
+| *mæn* | *fød* |
+|-|-|
+| men &nbsp; &nbsp; &nbsp; | fed &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+
+| &nbsp; | &nbsp; |
+|-|-|
+| street &nbsp; | green &nbsp; |
+
+<!--v-->
+
+| *mæn* | *fød* |
+|-|-|
+| men &nbsp; &nbsp; &nbsp; | fed &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+
+| strat_i | &nbsp; |
+|-|-|
+| street &nbsp; | green &nbsp; |
+
+<!--v-->
+
+| *mæn* | *fød* |
+|-|-|
+| men &nbsp; &nbsp; &nbsp; | fed &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+
+| stræt | &nbsp; |
+|-|-|
+| street &nbsp; | green &nbsp; |
+
+<!--v-->
+
+| *mæn* | *fød* |
+|-|-|
+| men &nbsp; &nbsp; &nbsp; | fed &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+
+| *stræte* | &nbsp; |
+|-|-|
+| street &nbsp; | green &nbsp; |
+
+<!--v-->
+
+| *mæn* | *fød* |
+|-|-|
+| men &nbsp; &nbsp; &nbsp; | fed &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+
+| *stræte* | gron_i |
+|-|-|
+| street &nbsp; | green &nbsp; |
+
+<!--v-->
+
+| *mæn* | *fød* |
+|-|-|
+| men &nbsp; &nbsp; &nbsp; | fed &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+
+| *stræte* | grøn |
+|-|-|
+| street &nbsp; | green &nbsp; |
+
+<!--v-->
+
+| *mæn* | *fød* |
+|-|-|
+| men &nbsp; &nbsp; &nbsp; | fed &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+
+| *stræte* | *grøne* |
+|-|-|
+| street &nbsp; | green &nbsp; |
+
+<!--v-->
+
+## Friendly Spelling Plus Plus Light
+
+### ạ ⇒ æ  ≈  æ̥ ⇒ ø
+
+<!--v-->
+
+| &nbsp; | &nbsp; |
+|-|-|
+| clean &nbsp; &nbsp; &nbsp; | dream &nbsp; &nbsp; |
+
+<!--v-->
+
+| klain | &nbsp; |
+|-|-|
+| clean &nbsp; &nbsp; &nbsp; | dream &nbsp; &nbsp; |
+
+<!--v-->
+
+| klạn | &nbsp; |
+|-|-|
+| clean &nbsp; &nbsp; &nbsp; | dream &nbsp; &nbsp; |
+
+<!--v-->
+
+| klæn | &nbsp; |
+|-|-|
+| clean &nbsp; &nbsp; &nbsp; | dream &nbsp; &nbsp; |
+
+<!--v-->
+
+| *clæne* | &nbsp; |
+|-|-|
+| clean &nbsp; &nbsp; &nbsp; | dream &nbsp; &nbsp; |
+
+<!--v-->
+
+| *clæne* | draum_i |
+|-|-|
+| clean &nbsp; &nbsp; &nbsp; | dream &nbsp; &nbsp; |
+
+<!--v-->
+
+| *clæne* | drḁm_i |
+|-|-|
+| clean &nbsp; &nbsp; &nbsp; | dream &nbsp; &nbsp; |
+
+<!--v-->
+
+| *clæne* | dræ̥m |
+|-|-|
+| clean &nbsp; &nbsp; &nbsp; | dream &nbsp; &nbsp; |
+
+<!--v-->
+
+| *clæne* | drøm |
+|-|-|
+| clean &nbsp; &nbsp; &nbsp; | dream &nbsp; &nbsp; |
+
+<!--v-->
+
+| *clæne* | *drøme* |
+|-|-|
+| clean &nbsp; &nbsp; &nbsp; | dream &nbsp; &nbsp; |
+
+<!--v-->
+
+## Friendly Spelling Plus Plus Light
+
+### y ⇒ i
+
+<!--v-->
+
+| &nbsp; |
+|-|
+| kin &nbsp; &nbsp; &nbsp; &nbsp; |
+
+| &nbsp; |
+|-|
+| keen &nbsp; |
+
+| &nbsp; |
+|-|
+| kind &nbsp; &nbsp; &nbsp; |
+
+<!--v-->
+
+| kunn_i |
+|-|
+| kin &nbsp; &nbsp; &nbsp; &nbsp; |
+
+| &nbsp; |
+|-|
+| keen &nbsp; |
+
+| &nbsp; |
+|-|
+| kind &nbsp; &nbsp; &nbsp; |
+
+<!--v-->
+
+| kynn |
+|-|
+| kin &nbsp; &nbsp; &nbsp; &nbsp; |
+
+| &nbsp; |
+|-|
+| keen &nbsp; |
+
+| &nbsp; |
+|-|
+| kind &nbsp; &nbsp; &nbsp; |
+
+<!--v-->
+
+| *kyn* |
+|-|
+| kin &nbsp; &nbsp; &nbsp; &nbsp; |
+
+| &nbsp; |
+|-|
+| keen &nbsp; |
+
+| &nbsp; |
+|-|
+| kind &nbsp; &nbsp; &nbsp; |
+
+<!--v-->
+
+| *kyn* |
+|-|
+| kin &nbsp; &nbsp; &nbsp; &nbsp; |
+
+| kun_i |
+|-|
+| keen &nbsp; |
+
+| &nbsp; |
+|-|
+| kind &nbsp; &nbsp; &nbsp; |
+
+<!--v-->
+
+| *kyn* |
+|-|
+| kin &nbsp; &nbsp; &nbsp; &nbsp; |
+
+| kyn |
+|-|
+| keen &nbsp; |
+
+| &nbsp; |
+|-|
+| kind &nbsp; &nbsp; &nbsp; |
+
+<!--v-->
+
+| *kyn* |
+|-|
+| kin &nbsp; &nbsp; &nbsp; &nbsp; |
+
+| *kȳn* |
+|-|
+| keen &nbsp; |
+
+| &nbsp; |
+|-|
+| kind &nbsp; &nbsp; &nbsp; |
+
+<!--v-->
+
+| *kyn* |
+|-|
+| kin &nbsp; &nbsp; &nbsp; &nbsp; |
+
+| *kȳn* |
+|-|
+| keen &nbsp; |
+
+| kund_i |
+|-|
+| kind &nbsp; &nbsp; &nbsp; |
+
+<!--v-->
+
+| *kyn* |
+|-|
+| kin &nbsp; &nbsp; &nbsp; &nbsp; |
+
+| *kȳn* |
+|-|
+| keen &nbsp; |
+
+| kỹnd |
+|-|
+| kind &nbsp; &nbsp; &nbsp; |
+
+<!--v-->
+
+| *kyn* |
+|-|
+| kin &nbsp; &nbsp; &nbsp; &nbsp; |
+
+| *kȳn* |
+|-|
+| keen &nbsp; |
+
+| *kynde* |
+|-|
+| kind &nbsp; &nbsp; &nbsp; |
+
+<!--v-->
+
+## Friendly Spelling Plus Plus Light
+
+### e̥ ⇒ y
+
+<!--v-->
+
+| &nbsp; |
+|-|
+| deep &nbsp; &nbsp; |
+
+<!--v-->
+
+| deup |
+|-|
+| deep &nbsp; &nbsp; |
+
+<!--v-->
+
+| de̥p |
+|-|
+| deep &nbsp; &nbsp; |
+
+<!--v-->
+
+| *dȳp* |
+|-|
+| deep &nbsp; &nbsp; |
+
+<!--v-->
+
+## Friendly Spelling Plus Plus Light
+
+### ạ ⇒ o
+
+<!--v-->
+
+| &nbsp; | &nbsp; |
+|-|-|
+| goat | õwn &nbsp; &nbsp; &nbsp; |
+
+<!--v-->
+
+| gait | &nbsp; |
+|-|-|
+| goat | õwn &nbsp; &nbsp; &nbsp; |
+
+<!--v-->
+
+| gạt | &nbsp; |
+|-|-|
+| goat | õwn &nbsp; &nbsp; &nbsp; |
+
+<!--v-->
+
+<!-- TODO æ~ -->
+| *gæt* | &nbsp; |
+|-|-|
+| goat | õwn &nbsp; &nbsp; &nbsp; |
+
+<!--v-->
+
+| *gæt* | aigen |
+|-|-|
+| goat | õwn &nbsp; &nbsp; &nbsp; |
+
+<!--v-->
+
+| *gæt* | ạgen |
+|-|-|
+| goat | õwn &nbsp; &nbsp; &nbsp; |
+
+<!--v-->
+
+| *gæt* | ạgen |
+|-|-|
+| goat | *õwn* &nbsp; &nbsp; &nbsp; |
+
+<!--v-->
+
+| *gæt* | ạgen |
+|-|-|
+| goat | õughen |
+
+<!--v-->
+
+| *gæt* | *æghen* |
+|-|-|
+| goat | õughen |
+
+<!--v-->
+
+## Friendly Spelling Plus Plus Light
+
+### æ̥ ⇒ i  ≈  e̥ ⇒ i
+
+<!--v-->
+
+| &nbsp; | &nbsp; |
+|-|-|
+| high &nbsp; &nbsp; &nbsp; | light &nbsp; &nbsp; &nbsp; |
+
+<!--v-->
+
+| hauh_i | &nbsp; |
+|-|-|
+| high &nbsp; &nbsp; &nbsp; | light &nbsp; &nbsp; &nbsp; |
+
+<!--v-->
+
+| hḁh_i | &nbsp; |
+|-|-|
+| high &nbsp; &nbsp; &nbsp; | light &nbsp; &nbsp; &nbsp; |
+
+<!--v-->
+
+| hæ̥h | &nbsp; |
+|-|-|
+| high &nbsp; &nbsp; &nbsp; | light &nbsp; &nbsp; &nbsp; |
+
+<!--v-->
+
+| *høgh* | &nbsp; |
+|-|-|
+| high &nbsp; &nbsp; &nbsp; | light &nbsp; &nbsp; &nbsp; |
+
+<!--v-->
+
+| *høgh* | leukht |
+|-|-|
+| high &nbsp; &nbsp; &nbsp; | light &nbsp; &nbsp; &nbsp; |
+
+<!--v-->
+
+| *høgh* | le̥kht |
+|-|-|
+| high &nbsp; &nbsp; &nbsp; | light &nbsp; &nbsp; &nbsp; |
+
+<!--v-->
+
+| *høgh* | *lyght* |
+|-|-|
+| high &nbsp; &nbsp; &nbsp; | light &nbsp; &nbsp; &nbsp; |
+
+<!--v-->
+
+## Friendly Spelling Plus Plus Light
+
+### e̥ ⇒ u
+
+<!--v-->
+
+| &nbsp; | &nbsp; |
+|-|-|
+| new | true &nbsp; |
+
+<!--v-->
+
+| neu | &nbsp; |
+|-|-|
+| new | true &nbsp; |
+
+<!--v-->
+
+| neu | treu |
+|-|-|
+| new | true &nbsp; |
+
+<!--v-->
+
+| neu | treu |
+|-|-|
+| new | ~true~ &nbsp; |
+
+<!--v-->
+
+| neu | treu |
+|-|-|
+| new | trew &nbsp; |
 
 <!--s-->
 
@@ -1819,7 +2394,6 @@ Notes:
 | wôrry |
 
 <!-- TODO Non-Germanic Spelling
-
 mouve
 succede
 cost
@@ -1834,7 +2408,6 @@ source → sorce (soarce)
 -->
 
 <!-- TODO 1
-
 one = ǒan/ǒân
 only = oanly
 lonly = loanly
@@ -1853,17 +2426,201 @@ mouce mice
 ove?
 -->
 
-<!-- TODO Irregular Verbs
-sleep slëept slëept
-leap lëapt lëapt
-reed rëed rëed
-deal dëalt dëalt
-mean mëant mëant
-dream drëamt drëamt
+<!-- TODO
+legh leghed
+pay payed
+-->
+
+<!-- TODO æ ø y
+ægh, øgh, ygh = ogh, igh, igh (æghen, høgh, lyght = õwn, high, light)
+-->
+
+<!-- TODO (weak verbs)
+love  loved   /lʌvd/
+stop  stopped /stɔpt/ ("stopt")
+beloved /-ˈlʌvɪd/
+-->
+
+<!-- TODO irregular weak verbs ending in -t
+bet     bet
+berst   berst -- burst
+kast    cȃst
+cost    cost
+cut
+fit
+hit
+hurt
+let
+put
+set
+spit (!)
+
+baut    bøte  -- non AE: beaten
+
+-->
+
+<!-- TODO irregular weak verbs ending in -d
+
+blod  bløde blød bleed blëed
+brod  brøde brød breed brëed
+fod   føde  fød  feed  fëed
+laid  læde  læd  lead  lëad
+plaid plæde plæd plead plëad
+red   rede  red  reed  rëed -- read rëad
+
+spreit spræd -- sprëad (!)
+
+bend  bend  bendt
+bulđ  byld  byldt -- buthl build
+laikhwn lænd lændt -- lend 
+senđ  send  sendt
+spend spend spendt
+
+-->
+
+<!-- TODO irregular weak verbs receiving -t with shortened vowel
+
+kreup   crype crÿpt  creep crëept
+dail    dæle  dælt   deal  dëalt
+draum   drøme drømt  dream drëamt
+fleuh   flȳgh flÿghd flee  flëed
+fol     føle  følt   feel  fëelt
+haus    høre  hørd   hear  hëard
+kop     køpe  køpt   keep  këept
+knewl   knyle knÿlt  kneel knëelt
+hlin    līn   lïnt   lien  liënt -- lean leant
+laup    løpe  løpt   leap  lëapt
+laib    læve  læft   leave lëaft
+leukht  lyght lẏght  light lit
+laus    lōse  lōst   loose lost
+main    mæne  mænt   mean  mëant
+mot     møte  møt    meet  mëet
+slep    slepe slept  sleep slëept
+swap(?) swæpe swæpt  sweep swëept
+wop     wøpe  wøpt   weep  wëept
+
+-->
+
+<!-- TODO irregular weak verbs receiving -t with short vowel (I avoid them)
+
+bern    bern  bernt → berned -- burn burnt
+lern    lern  lernt → lerned -- learn learnt
+spell   spell spelt → spelled
+spilđ(!)spill spilt → spilled
+
 -->
 
 <!-- TODO
 
+-->
+
+<!-- TODO strong verbs: -en
+
+fleug  flygh flugh floghen -- fly flew flõwn
+
+-->
+
+<!-- TODO strong verbs: -en = 2
+ber  → bar  bare  bore  boren -- bear bore borne
+beit → bit  bite  bit   bitten
+brek → brak brake broke broken -- break
+choose
+freeze
+get (!)
+hide
+lie (lay lain)
+speak
+steal
+swear
+tear
+wake
+wear
+-->
+
+<!-- TODO strong verbs: -en = 1
+
+begin
+drink
+sing
+sink
+swim
+spin
+
+bind
+cling
+dig
+find
+fling
+grind
+hang
+((sneak?))
+hold
+stick
+sting
+strick
+swing
+win
+wind
+
+bid (!)
+blow
+draw
+eat
+fall
+give
+grow
+know
+shake
+slay
+take
+throw
+
+drive
+ride
+rise
+write
+
+come
+-->
+
+<!-- TODO mixed verbs
+
+bring
+buy
+catch
+fight
+seek
+teach
+think
+
+mow (!)
+sow
+swell (!)
+-->
+
+<!-- TODO without past participle
+
+can
+may
+shall
+will
+
+-->
+
+<!-- TODO irregular verbs
+be
+do
+go
+have
+make
+say
+see
+slide
+stand
+tell
+-->
+
+<!-- TODO
 ȯ: wimen; woman = wǐman
 o̊: do̊ll
 
@@ -1906,6 +2663,14 @@ trust treûst
 
 Ausweichrechtschreibung: to = tõ → toe
 
+mati > meat → maet → meet
+mot_i > meet
+
+prȧtty prėtty pritty
+
+lëaped ~ lept
+
+meet met met møt
 -->
 
 
