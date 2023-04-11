@@ -1678,44 +1678,6 @@ Notes:
 
 ## Friendly Spelling Plus Plus Light
 
-### h ⇒ *gh*
-
-<!-- TODO high -->
-<!-- TODO move to verbs -->
-<!--v-->
-
-| seh &nbsp; &nbsp; | sah | sehen |
-|-|-|-|
-| see | saw | seen |
-
-<!--v-->
-
-| *sēgh* &nbsp; &nbsp; | *sagh* | *sēghen* |
-|-|-|-|
-| see | saw | seen |
-
-<!--v-->
-
-| *sēgh* &nbsp; &nbsp; | *sagh* | *sēghen* |
-|-|-|-|
-| ~see~ | ~saw~ | ~seen~ |
-
-<!--v-->
-
-| *sēgh* &nbsp; &nbsp; | *sagh* | *sēghen* |
-|-|-|-|
-| seegh | saugh | seeghen |
-
-<!--v-->
-
-| *sēgh* &nbsp; &nbsp; | *sagh* | *sēghen* |
-|-|-|-|
-| *see* | *saw* | *seen* |
-
-<!--v-->
-
-## Friendly Spelling Plus Plus Light
-
 ### g ⇒ *gh*
 
 <!--v-->
@@ -2354,7 +2316,195 @@ Notes:
 
 ## Verbs
 
-### Psudo-Irregular Verbs
+### Weak Verbs
+*(-ed)*
+
+<!--v-->
+
+## Verbs
+
+### Irregular Weak Verbs
+*(sleep, mean)*
+
+<!--v-->
+
+| &nbsp; | &nbsp; |
+|-|-|
+| sleep | slept |
+
+| &nbsp; | &nbsp; |
+|-|-|
+| mean | meant |
+
+<!--v-->
+
+| slep | slepĕd |
+|-|-|
+| sleep | slept |
+
+| &nbsp; | &nbsp; |
+|-|-|
+| mean | meant |
+
+<!--v-->
+
+| *sleep* | *slëept* |
+|-|-|
+| sleep | slept |
+
+| &nbsp; | &nbsp; |
+|-|-|
+| mean | meant |
+
+Notes:
+* æ: sweep
+* e: sleep
+* ø: feel keep meet weep
+* e̥: creep fleegh kneel
+
+<!--v-->
+
+| *sleep* | *slëept* |
+|-|-|
+| sleep | slept |
+
+| main | mainĕd |
+|-|-|
+| mean | meant |
+
+<!--v-->
+
+| *sleep* | *slëept* |
+|-|-|
+| sleep | slept |
+
+| mạn | mạnĕd |
+|-|-|
+| mean | meant |
+
+<!--v-->
+
+| *sleep* | *slëept* |
+|-|-|
+| sleep | slept |
+
+| *mæne* | *mænt* |
+|-|-|
+| mean | meant |
+
+<!--v-->
+
+| *sleep* | *slëept* |
+|-|-|
+| sleep | slept |
+
+| *mæne* | *mænt* |
+|-|-|
+| mean | mëant |
+
+Notes:
+* ai: deal
+* au: (dream) hear (leap) leave mean
+
+<!--v-->
+
+## Verbs
+
+### Strong Verbs
+*(-en)*
+
+<!--v-->
+
+## Verbs
+
+### Pseudo-Irregular Strong Verbs
+*(see)*
+
+<!--v-->
+
+| seh &nbsp; &nbsp; | sah | sehen |
+|-|-|-|
+| see | saw | seen |
+
+<!--v-->
+
+| *sēgh* &nbsp; &nbsp; | *saǧh* | *sēghen* |
+|-|-|-|
+| see | saw | seen |
+
+<!--v-->
+
+| *sēgh* &nbsp; &nbsp; | *saǧh* | *sēghen* |
+|-|-|-|
+| ~see~ | ~saw~ | ~seen~ |
+
+<!--v-->
+
+| *sēgh* &nbsp; &nbsp; | *saǧh* | *sēghen* |
+|-|-|-|
+| seegh | saugh | seeghen |
+
+<!--v-->
+
+| *sēgh* &nbsp; &nbsp; | *saǧh* | *sēghen* |
+|-|-|-|
+| *see* | *saw* | *seen* |
+
+<!--v-->
+
+## Verbs
+
+### Pseudo-Irregular Strong Verbs
+*(fly)*
+
+<!--v-->
+
+| &nbsp; | &nbsp; | &nbsp; |
+|-|-|-|
+| fly | flew | flõwn |
+
+<!--v-->
+
+| fleug | flug | flogen |
+|-|-|-|
+| fly | flew | flõwn |
+
+<!--v-->
+
+| fle̥g | flug | flogen |
+|-|-|-|
+| fly | flew | flõwn |
+
+<!--v-->
+
+| *flygh* | *flugh* | *floghen* |
+|-|-|-|
+| fly | flew | flõwn |
+
+<!--v-->
+
+| *flygh* | *flugh* | *floghen* |
+|-|-|-|
+| ~fly~ | ~flew~ | ~flõwn~ |
+
+<!--v-->
+
+| *flygh* | *flugh* | *floghen* |
+|-|-|-|
+| fligh | flugh | flõughen |
+
+<!--v-->
+
+| *flygh* | *flugh* | *floghen* |
+|-|-|-|
+| fligh | *flu* | *flõwn* |
+
+<!--v-->
+
+## Verbs
+
+### Pseudo-Irregular Weak Verbs
+*(lay)*
 
 <!--v-->
 
@@ -2588,43 +2738,19 @@ spend spend spendt
 
 <!-- TODO irregular weak verbs receiving -t with shortened vowel
 
-kreup   crype crÿpt  creep crëept
-dail    dæle  dælt   deal  dëalt
-draum   drøme drømt  dream drëamt
-fleuh   flȳgh flÿghd flee  flëed
-fol     føle  følt   feel  fëelt
-haus    høre  hørd   hear  hëard
-kop     køpe  køpt   keep  këept
-knewl   knyle knÿlt  kneel knëelt
 hlin    līn   lïnt   lien  liënt -- lean leant
-laup    løpe  løpt   leap  lëapt
-laib    læve  læft   leave lëaft
 leukht  lyght lẏght  light lit
-laus    lōse  lōst   loose lost
-main    mæne  mænt   mean  mëant
-mot     møte  møt    meet  mëet
-slep    slepe slept  sleep slëept
-swap(?) swæpe swæpt  sweep swëept
-wop     wøpe  wøpt   weep  wëept
+laus    lōse  lost   loose lost
+
 
 -->
 
-<!-- TODO irregular weak verbs receiving -t with short vowel (I avoid them)
+<!-- TODO irregular weak verbs receiving -t with short vowel (I'd avoid them; unless "er" is long.)
 
 bern    bern  bernt → berned -- burn burnt
 lern    lern  lernt → lerned -- learn learnt
 spell   spell spelt → spelled
 spilđ(!)spill spilt → spilled
-
--->
-
-<!-- TODO
-
--->
-
-<!-- TODO strong verbs: -en
-
-fleug  flygh flugh floghen -- fly flew flõwn
 
 -->
 
