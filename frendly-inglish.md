@@ -11,6 +11,8 @@ revealOptions:
 
 <!-- .slide: data-background="./image2.png" -->
 
+<!-- Cf. https://en.wikipedia.org/wiki/SR1?fbclid=IwAR0cAl-_p5aAqWAJvWXJLynb6Rl6p9sYPg7L-yo1UDTgFr0bs8hDS_WTPEw -->
+
 <!--
 ğġǧ
 
@@ -2310,6 +2312,57 @@ Notes:
 
 <!--s-->
 
+<!-- TODO
+
+weak verbs
+* -ed: lay! pay!
+* -d: flee hear say!säis
+* -t: creep feel keep kneel sleep sweep weep + deal dream! lean! leap leave! mean + lose
+* (-t:) burn learn spell spill
+* d-: bleed breed feed + lead plead + read! + slide
+* d-: bid! spread!
+  * ld-t: build
+  * nd-t: bend lend send spend
+* t-: light meet
+* t-: bet burst cast cost cut fit hit hurt let put set spit!
+
+strong verbs
+* except for -m, -n, -nd, -ld, -ng, -g, -nk, -ck
+
+* i-u-o: fly
+* i-a-e: lie!
+* i-a-u: begin drink! sing sink! spin! swim
+
+* i-a-a: spit! shit!
+* a-o-o: bear break wake wear
+* e-o-o: freeze get! speak steal swear tear
+* u-o-o: choose
+* a-u-u: hang
+* e-u-u: sneak!
+* i-u-u: bind cling dig find fling grind stick sting strick strike! swing win! wind
+
+* e-a-e: eat see
+* i-a-i: bid! give
+* u-a-u: come run
+* a-e-a: fall
+* i-i-i: bite hide
+* i-o-i: drive ride rise write
+* a-u-a: draw shake slay take
+* o-u-o: blow grow know throw
+
+mixed verbs
+* -ed: mowed!mown sowed!sown swelled!swollen
+* -ght: bring buy catch seek teach think + fight
+* ll-: sell tell
+
+auxiliary verbs (no participle)
+* can shall will
+* may
+
+irregular verbs
+* be do go have hold make stand
+-->
+
 ## Verbs
 
 <!--v-->
@@ -2324,7 +2377,44 @@ Notes:
 ## Verbs
 
 ### Irregular Weak Verbs
-*(sleep, mean)*
+*(-d)*
+
+<!--v-->
+
+| &nbsp; | &nbsp; |
+|-|-|
+| say | said |
+
+<!--v-->
+
+| seg | segĕd |
+|-|-|
+| say | said |
+
+<!--v-->
+
+| *segh* | *seghĕd* |
+|-|-|
+| say | said |
+
+<!--v-->
+
+| *segh* | *seghĕd* |
+|-|-|
+| seigh | sëighed |
+
+<!--v-->
+
+| *segh* | *seghĕd* |
+|-|-|
+| *sey* | *sëid* |
+
+<!--v-->
+
+## Verbs
+
+### Irregular Weak Verbs
+*(-t)*
 
 <!--v-->
 
@@ -2402,9 +2492,102 @@ Notes:
 |-|-|
 | mean | mëant |
 
+<!--v-->
+
+| *sleep* | *slëept* |
+|-|-|
+| sleep | slept |
+
+| *mæne* | *mænt* |
+|-|-|
+| mean | *ment* |
+
 Notes:
-* ai: deal
-* au: (dream) hear (leap) leave mean
+* ạ: deal
+* æ̥: (dream) hear (leap) leave mean
+
+<!--v-->
+
+## Verbs
+
+### Irregular Weak Verbs Ending in -t
+
+<!--v-->
+
+| putt | puttĕd |
+|-|-|
+| pǔt | pǔt |
+
+<!-- TODO irregular weak verbs ending in -t
+bet     bet
+berst   berst -- burst
+kast    cȃst
+cost    cost
+cut
+fit
+hit
+hurt
+let
+put
+set
+spit (!)
+
+baut    bøte  -- non AE: beaten
+
+-->
+
+
+<!--v-->
+
+## Verbs
+
+### Pseudo-Irregular Weak Verbs
+*(lay)*
+
+<!--v-->
+
+| &nbsp;  | &nbsp;  |
+|-|-|
+| lay &nbsp; &nbsp; | laid &nbsp; &nbsp;  |
+
+<!--v-->
+
+| leg | leged |
+|-|-|
+| lay &nbsp; &nbsp; | laid &nbsp; &nbsp; |
+
+<!--v-->
+
+| *legh* | *leghed* |
+|-|-|
+| lay &nbsp; &nbsp; | laid &nbsp; &nbsp; |
+
+<!--v-->
+
+| *legh* | *leghed* |
+|-|-|
+| ~lay~ | ~laid~ &nbsp; &nbsp; |
+
+<!--v-->
+
+| *legh* | *leghed* |
+|-|-|
+| leigh | leighed |
+
+<!--v-->
+
+| *legh* | *leghed* |
+|-|-|
+| *ley* | *leyed* |
+
+<!--v-->
+
+| *legh* | *leghed* |
+|-|-|
+| *ley* | *leid* |
+
+Notes:
+* payed, staid
 
 <!--v-->
 
@@ -2498,58 +2681,6 @@ Notes:
 | *flygh* | *flugh* | *floghen* |
 |-|-|-|
 | fligh | *flu* | *flõwn* |
-
-<!--v-->
-
-## Verbs
-
-### Pseudo-Irregular Weak Verbs
-*(lay)*
-
-<!--v-->
-
-| &nbsp;  | &nbsp;  |
-|-|-|
-| lay &nbsp; &nbsp; | laid &nbsp; &nbsp;  |
-
-<!--v-->
-
-| leg | leged |
-|-|-|
-| lay &nbsp; &nbsp; | laid &nbsp; &nbsp; |
-
-<!--v-->
-
-| *legh* | *leghed* |
-|-|-|
-| lay &nbsp; &nbsp; | laid &nbsp; &nbsp; |
-
-<!--v-->
-
-| *legh* | *leghed* |
-|-|-|
-| ~lay~ | ~laid~ &nbsp; &nbsp; |
-
-<!--v-->
-
-| *legh* | *leghed* |
-|-|-|
-| leigh | leighed |
-
-<!--v-->
-
-| *legh* | *leghed* |
-|-|-|
-| *ley* | *leyed* |
-
-<!--v-->
-
-| *legh* | *leghed* |
-|-|-|
-| *ley* | *leid* |
-
-Notes:
-* payed, staid
 
 <!--s-->
 
@@ -2691,167 +2822,6 @@ half halfe
 houce housing
 mouce mice
 ove?
--->
-
-<!-- TODO (weak verbs)
-love  loved   /lʌvd/
-stop  stopped /stɔpt/ ("stopt")
-beloved /-ˈlʌvɪd/
--->
-
-<!-- TODO irregular weak verbs ending in -t
-bet     bet
-berst   berst -- burst
-kast    cȃst
-cost    cost
-cut
-fit
-hit
-hurt
-let
-put
-set
-spit (!)
-
-baut    bøte  -- non AE: beaten
-
--->
-
-<!-- TODO irregular weak verbs ending in -d
-
-blod  bløde blød bleed blëed
-brod  brøde brød breed brëed
-fod   føde  fød  feed  fëed
-laid  læde  læd  lead  lëad
-plaid plæde plæd plead plëad
-red   rede  red  reed  rëed -- read rëad
-
-spreit spræd -- sprëad (!)
-
-bend  bend  bendt
-bulđ  byld  byldt -- buthl build
-laikhwn lænd lændt -- lend 
-senđ  send  sendt
-spend spend spendt
-
--->
-
-<!-- TODO irregular weak verbs receiving -t with shortened vowel
-
-hlin    līn   lïnt   lien  liënt -- lean leant
-leukht  lyght lẏght  light lit
-laus    lōse  lost   loose lost
-
-
--->
-
-<!-- TODO irregular weak verbs receiving -t with short vowel (I'd avoid them; unless "er" is long.)
-
-bern    bern  bernt → berned -- burn burnt
-lern    lern  lernt → lerned -- learn learnt
-spell   spell spelt → spelled
-spilđ(!)spill spilt → spilled
-
--->
-
-<!-- TODO strong verbs: -en = 2
-ber  → bar  bare  bore  boren -- bear bore borne
-beit → bit  bite  bit   bitten
-brek → brak brake broke broken -- break
-choose
-freeze
-get (!)
-hide
-lie (lay lain)
-speak
-steal
-swear
-tear
-wake
-wear
--->
-
-<!-- TODO strong verbs: -en = 1
-
-begin
-drink
-sing
-sink
-swim
-spin
-
-bind
-cling
-dig
-find
-fling
-grind
-hang
-((sneak?))
-hold
-stick
-sting
-strick
-swing
-win
-wind
-
-bid (!)
-blow
-draw
-eat
-fall
-give
-grow
-know
-shake
-slay
-take
-throw
-
-drive
-ride
-rise
-write
-
-come
--->
-
-<!-- TODO mixed verbs
-
-bring
-buy
-catch
-fight
-seek
-teach
-think
-
-mow (!)
-sow
-swell (!)
--->
-
-<!-- TODO without past participle
-
-can
-may
-shall
-will
-
--->
-
-<!-- TODO irregular verbs
-be
-do
-go
-have
-make
-say
-see
-slide
-stand
-tell
 -->
 
 <!-- TODO
