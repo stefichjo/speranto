@@ -20,6 +20,7 @@ ḁ      ⇒ o
 ạ  ≈ æ ⇒ e
 æ̥ ≈ ø ⇒ e
 e̥ ≈ y ⇒ i
+ẹ  ≈ æ ⇒ e
 
 ȃȇȋȏȗ    ⇒ a
 äëïöü    ⇒ e
@@ -611,6 +612,27 @@ Notes:
 
 ## Legacy Spelling Light
 
+### ai ⇒ *a_e*
+
+<!--v-->
+
+| &nbsp; |
+|-|
+| straight |
+
+<!--v-->
+
+| &nbsp; |
+|-|
+| *strate* |
+
+Notes:
+* made
+
+<!--v-->
+
+## Legacy Spelling Light
+
 ### oa ⇒ *o_e*
 
 <!--v-->
@@ -627,7 +649,7 @@ Notes:
 
 Notes:
 * bone dole home stone whole
-* alone; one
+* alone → aloan; one <!-- TODO "wan"? ≠ "won"? -->
 * boat goat loathe road
 
 <!--s-->
@@ -2312,60 +2334,320 @@ Notes:
 
 <!--s-->
 
-<!-- TODO
-
-weak verbs
-* -ed: lay! pay!
-* -d: flee hear say!säis
-* -t: creep feel keep kneel sleep sweep weep + deal dream! lean! leap leave! mean + lose
-* (-t:) burn learn spell spill
-* d-: bleed breed feed + lead plead + read! + slide
-* d-: bid! spread!
-  * ld-t: build
-  * nd-t: bend lend send spend
-* t-: light meet
-* t-: bet burst cast cost cut fit hit hurt let put set spit!
-
-strong verbs
-* except for -m, -n, -nd, -ld, -ng, -g, -nk, -ck
-
-* i-u-o: fly
-* i-a-e: lie!
-* i-a-u: begin drink! sing sink! spin! swim
-
-* i-a-a: spit! shit!
-* a-o-o: bear break wake wear
-* e-o-o: freeze get! speak steal swear tear
-* u-o-o: choose
-* a-u-u: hang
-* e-u-u: sneak!
-* i-u-u: bind cling dig find fling grind stick sting strick strike! swing win! wind
-
-* e-a-e: eat see
-* i-a-i: bid! give
-* u-a-u: come run
-* a-e-a: fall
-* i-i-i: bite hide
-* i-o-i: drive ride rise write
-* a-u-a: draw shake slay take
-* o-u-o: blow grow know throw
-
-mixed verbs
-* -ed: mowed!mown sowed!sown swelled!swollen
-* -ght: bring buy catch seek teach think + fight
-* ll-: sell tell
-
-auxiliary verbs (no participle)
-* can shall will
-* may
-
-irregular verbs
-* be do go have hold make stand
--->
-
 ## Verbs
 
 <!--v-->
+
+## Verbs
+
+### "Irregular" Weak Verbs
+*(that will end in -d after vowel, voiced consonant or -r)*
+
+<!--v-->
+
+| &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; |
+|-|-|
+| say | said |
+
+<!--v-->
+
+| &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; |
+|-|-|
+| say | säid |
+
+<!--v-->
+
+| &nbsp; | &nbsp; |
+|-|-|
+| &nbsp; | &nbsp; |
+
+<!--v-->
+
+| sag_i + ed |
+|-|
+| &nbsp; |
+
+<!--v-->
+
+| sæg + ed |
+|-|
+| &nbsp; |
+
+<!--v-->
+
+| sæğ + ed |
+|-|
+| &nbsp; |
+
+<!--v-->
+
+| *segh* + ed |
+|-|
+| &nbsp; |
+
+<!--v-->
+
+| *segh* + ed |
+|-|
+| seigh + ed |
+
+<!--v-->
+
+| *segh* + ed |
+|-|
+| *sey* + ed |
+
+<!--v-->
+
+| *seghĕd* |
+|-|
+| *sëyed* |
+
+<!--v-->
+
+| *seghĕd* |
+|-|
+| *sëid* |
+
+<!--v-->
+
+| *seghĕd* |
+|-|
+| *sed* |
+
+Notes:
+* flee
+* hear
+* say!
+<!-- TODO all examples -->
+
+<!--v-->
+
+## Verbs
+
+### "Irregular" Weak Verbs
+*(assimilation of -d after -d)*
+
+<!--v-->
+
+| fod_i + ed |
+|-|
+| &nbsp; |
+
+<!--v-->
+
+| fød + ed |
+|-|
+| &nbsp; |
+
+<!--v-->
+
+| fød + ed |
+|-|
+| feed + ed |
+
+<!--v-->
+
+| fødĕd |
+|-|
+| fëedĕd |
+
+<!--v-->
+
+| fødd |
+|-|
+| fëed |
+
+<!--v-->
+
+| *fød* |
+|-|
+| *fed* |
+
+Notes:
+* bleed breed feed
+* lead! plead read!
+* slide
+* bid! shed spread!
+
+<!-- TODO spreit → spread; laid_i → lead ⇒ æ? -->
+
+<!--v-->
+
+## Verbs
+
+### "Irregular" Weak Verbs
+*(that will end in -t after voiced consonant, nasal, s or -l)*
+
+<!--v-->
+
+| slep + ed |
+|-|
+| &nbsp; |
+
+<!--v-->
+
+| slep + ed |
+|-|
+| sleep + ed |
+
+<!--v-->
+
+| slepĕd |
+|-|
+| slëeped |
+
+<!--v-->
+
+| slepĕd |
+|-|
+| *slepped* |
+
+<!--v-->
+
+| slepĕd |
+|-|
+| *slept* |
+
+Notes:
+* creep keep sleep sweep weep + leap leave! + lose
+* dream/! lean/! mean
+* feel kneel + deal
+* burn/! learn/!
+* smell/! spell/! spill/!
+* build + bend lend send spend
+
+<!--v-->
+
+## Verbs
+
+### "Irregular" Weak Verbs
+*(assimilation of -t after -t)*
+
+<!--v-->
+
+| mot_i + ed |
+|-|
+| &nbsp; |
+
+<!--v-->
+
+| møt + ed |
+|-|
+| &nbsp; |
+
+<!--v-->
+
+| møt + ed |
+|-|
+| meet + ed |
+
+<!--v-->
+
+| møtĕd |
+|-|
+| mëetĕd |
+
+<!--v-->
+
+| møtt |
+|-|
+| *mettĕd* |
+
+<!--v-->
+
+| *møt* |
+|-|
+| *met* |
+
+Notes:
+* light!(alight!) meet shoot
+* bet burst cast(broadcast) cost cut fit hit hurt let put set shut spit!
+
+<!--v-->
+
+## Verbs
+
+### "Irregular" Strong Verbs
+*(that will end in -en)*
+
+<!--v-->
+<!-- TODO -->
+
+| &nbsp; |
+|-|
+| fall fell fallen |
+
+| &nbsp; |
+|-|
+| speak spoke spoken |
+
+| &nbsp; |
+|-|
+| fly flew flown |
+
+Notes:
+* a-e-a: fall
+* a-u-a: draw shake slay take(overtake)
+* e-a-e: eat see!
+  * i-a-e: lie!
+* i-a-i: bid!(forbid) give(forgive)
+  * i-o-i: drive ride rise(arise) write
+    * i-i-i: bite hide
+* o-u-o: blow grow know throw
+  * i-u-o: fly
+    * a-o-o: bear break wake(awake) wear
+    * e-o-o: freeze get!(forget) speak steal swear tear
+    * u-o-o: choose
+
+<!--v-->
+
+## Verbs
+
+### "Irregular" Strong Verbs
+*(assimilation of -en after -g, -ck or nasal)*
+
+<!--v-->
+
+<!-- TODO -->
+
+| &nbsp; |
+|-|
+| sing sang sung |
+
+<!--v-->
+
+Notes:
+* u-a-u: come!(become) run
+  * i-a-u: begin drink! shrink sing sink! spin! stink swim
+    * a-u-u: hang
+    * e-u-u: sneak!
+    * i-u-u: cling dig fling spin! stick sting strike! swing win!
+* (o-u-o)
+  * (i-u-o)
+    * i-o-o: shine!
+
+<!-- TODO
+mixed verbs 1/2
+* -ed: mowed!mown sawed!sawn sewed!sewn show sowed!sown swelled!swollen
+
+mixed verbs 2/2
+* -ght: bring buy catch seek teach think + fight
+* ll-: sell tell
+* nd-: (i-u-u) bound, found, ground, wound
+* get! hold
+* sit shit/! spit!
+
+auxiliary verbs (no participle)
+* can shall will
+* may must
+
+irregular verbs
+* do
+* be go stand(understand)
+* have make
+
+-->
 
 ## Verbs
 
@@ -2518,25 +2800,6 @@ Notes:
 |-|-|
 | pǔt | pǔt |
 
-<!-- TODO irregular weak verbs ending in -t
-bet     bet
-berst   berst -- burst
-kast    cȃst
-cost    cost
-cut
-fit
-hit
-hurt
-let
-put
-set
-spit (!)
-
-baut    bøte  -- non AE: beaten
-
--->
-
-
 <!--v-->
 
 ## Verbs
@@ -2685,6 +2948,88 @@ Notes:
 <!--s-->
 
 ## Edge Cases
+<!-- TODO edge cases? cry fry try -->
+
+<!--v-->
+
+## Edge Cases
+
+### laid
+
+<!--v-->
+
+| | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+|-|-|
+| lay | laid |
+
+<!--v-->
+
+| | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+|-|-|
+| lay | *laid* |
+
+<!--v-->
+
+| | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+|-|-|
+| lay | layed |
+
+Notes:
+* lay pay
+* play stay sway
+
+<!--v-->
+
+## Edge Cases
+
+### says
+
+
+| &nbsp; |
+|-|
+| says |
+
+<!--v-->
+
+| &nbsp; |
+|-|
+| säys |
+
+<!--v-->
+
+| &nbsp; |
+|-|
+| *ses* |
+
+<!--v-->
+
+| &nbsp; |
+|-|
+| &nbsp; |
+
+<!--v-->
+
+| *segh* + *es* |
+|-|
+| &nbsp; |
+
+<!--v-->
+
+| *seghĕs* |
+|-|
+| sëighs |
+
+<!--v-->
+
+| *seghĕs* |
+|-|
+| *sëys* |
+
+<!--v-->
+
+| *seghĕs* |
+|-|
+| *ses* |
 
 <!--v-->
 
