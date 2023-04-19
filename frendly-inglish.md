@@ -2340,7 +2340,7 @@ Notes:
 
 ## Verbs
 
-### "Irregular" Weak Verbs
+### Irregular Weak Verbs
 *(that will end in -d after vowel, voiced consonant or -r)*
 
 <!--v-->
@@ -2425,7 +2425,7 @@ Notes:
 
 ## Verbs
 
-### "Irregular" Weak Verbs
+### Irregular Weak Verbs
 *(assimilation of -d after -d)*
 
 <!--v-->
@@ -2476,7 +2476,7 @@ Notes:
 
 ## Verbs
 
-### "Irregular" Weak Verbs
+### Irregular Weak Verbs
 *(that will end in -t after voiced consonant, nasal, s or -l)*
 
 <!--v-->
@@ -2521,7 +2521,7 @@ Notes:
 
 ## Verbs
 
-### "Irregular" Weak Verbs
+### Irregular Weak Verbs
 *(assimilation of -t after -t)*
 
 <!--v-->
@@ -2568,11 +2568,11 @@ Notes:
 
 ## Verbs
 
-### "Irregular" Strong Verbs
-*(that will end in -en)*
+### Strong Verbs
+*(that will end in a/e/i/o + -en)*
 
 <!--v-->
-<!-- TODO -->
+<!-- TODO a/e/i/o -->
 
 | &nbsp; |
 |-|
@@ -2604,8 +2604,8 @@ Notes:
 
 ## Verbs
 
-### "Irregular" Strong Verbs
-*(assimilation of -en after -g, -ck or nasal)*
+### Strong Verbs
+*(assimilation of -en after u + -g, -ck or nasal)*
 
 <!--v-->
 
@@ -2627,27 +2627,69 @@ Notes:
   * (i-u-o)
     * i-o-o: shine!
 
-<!-- TODO
-mixed verbs 1/2
+<!--v-->
+
+## Verbs
+
+### Mixed Verbs
+*(that will end in -en)*
+
+<!-- TODO -->
+Notes:
 * -ed: mowed!mown sawed!sawn sewed!sewn show sowed!sown swelled!swollen
 
-mixed verbs 2/2
-* -ght: bring buy catch seek teach think + fight
-* ll-: sell tell
-* nd-: (i-u-u) bound, found, ground, wound
-* get! hold
-* sit shit/! spit!
+<!--v-->
 
-auxiliary verbs (no participle)
+## Verbs
+
+### Mixed Verbs
+*(that will end in -d)*
+
+<!-- TODO -->
+Notes:
+* ll-: sell tell
+* nd-: bound, found, ground, wound
+* hold
+
+<!--v-->
+
+## Verbs
+
+### Mixed Verbs
+*(that will end in -t)*
+
+<!-- TODO -->
+Notes:
+* bring buy catch seek teach think + fight
+* sit shit/! spit!
+* get!
+
+<!--v-->
+
+## Verbs
+
+### Auxiliary Verbs
+*(without third person -s and without past participle)*
+
+<!-- TODO -->
+Notes:
 * can shall will
 * may must
 
-irregular verbs
+<!--v-->
+
+## Verbs
+
+### Irregular Verbs
+*(like, really)*
+
+<!-- TODO -->
+Notes:
 * do
 * be go stand(understand)
 * have make
 
--->
+<!--v-->
 
 ## Verbs
 
