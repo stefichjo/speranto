@@ -2340,26 +2340,26 @@ Notes:
 
 ## Verbs
 
-### Irregular Weak Verbs
-*(that will end in -d after vowel, voiced consonant or -r)*
+### Weak Verbs
+*(with past tense and past participle ending in -ed)*
 
 <!--v-->
 
-| &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; |
-|-|-|
-| say | said |
+| &nbsp; |
+|-|
+| thank + ed |
 
 <!--v-->
 
-| &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; |
-|-|-|
-| say | säid |
+| &nbsp; |
+|-|
+| thanked |
 
 <!--v-->
 
-| &nbsp; | &nbsp; |
-|-|-|
-| &nbsp; | &nbsp; |
+## Verbs
+
+### Weak Verbs (Irr.)
 
 <!--v-->
 
@@ -2399,33 +2399,45 @@ Notes:
 
 <!--v-->
 
-| *seghĕd* |
-|-|
-| *sëyed* |
-
-<!--v-->
-
-| *seghĕd* |
-|-|
-| *sëid* |
-
-<!--v-->
-
-| *seghĕd* |
+| *seğhed* |
 |-|
 | *sed* |
+
+<!-- TODO have has! had -->
+<!-- TODO says -->
+
+Notes:
+* have make
+
+<!--v-->
+
+## Verbs
+
+### Weak-ish Verbs
+*(ending in -d after vowel, voiced consonant or -r)*
+
+<!--v-->
+
+| &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; |
+|-|-|
+| hear | heard |
+
+<!--v-->
+
+| &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; |
+|-|-|
+| hear | hëard |
 
 Notes:
 * flee
 * hear
-* say!
 <!-- TODO all examples -->
 
 <!--v-->
 
 ## Verbs
 
-### Irregular Weak Verbs
+### Weak-ish Verbs
 *(assimilation of -d after -d)*
 
 <!--v-->
@@ -2458,12 +2470,6 @@ Notes:
 |-|
 | fëed |
 
-<!--v-->
-
-| *fød* |
-|-|
-| *fed* |
-
 Notes:
 * bleed breed feed
 * lead! plead read!
@@ -2476,8 +2482,8 @@ Notes:
 
 ## Verbs
 
-### Irregular Weak Verbs
-*(that will end in -t after voiced consonant, nasal, s or -l)*
+### Weak-ish Verbs
+*(ending in -t after un-voiced consonant, nasal, s or -l)*
 
 <!--v-->
 
@@ -2493,21 +2499,9 @@ Notes:
 
 <!--v-->
 
-| slepĕd |
+| slepĕd &nbsp; &nbsp; &nbsp; |
 |-|
-| slëeped |
-
-<!--v-->
-
-| slepĕd |
-|-|
-| *slepped* |
-
-<!--v-->
-
-| slepĕd |
-|-|
-| *slept* |
+| slëept |
 
 Notes:
 * creep keep sleep sweep weep + leap leave! + lose
@@ -2521,44 +2515,32 @@ Notes:
 
 ## Verbs
 
-### Irregular Weak Verbs
+### Weak-ish Verbs
 *(assimilation of -t after -t)*
 
 <!--v-->
 
-| mot_i + ed |
+| mot_i + ed &nbsp; |
 |-|
 | &nbsp; |
 
 <!--v-->
 
-| møt + ed |
+| møt + ed &nbsp; &nbsp; |
 |-|
 | &nbsp; |
 
 <!--v-->
 
-| møt + ed |
+| møt + ed &nbsp; &nbsp; |
 |-|
 | meet + ed |
 
 <!--v-->
 
-| møtĕd |
+| møtĕd &nbsp; &nbsp; &nbsp; &nbsp; |
 |-|
-| mëetĕd |
-
-<!--v-->
-
-| møtt |
-|-|
-| *mettĕd* |
-
-<!--v-->
-
-| *møt* |
-|-|
-| *met* |
+| mëet |
 
 Notes:
 * light!(alight!) meet shoot
@@ -2568,23 +2550,124 @@ Notes:
 
 ## Verbs
 
-### Strong Verbs
-*(that will end in a/e/i/o + -en)*
+### Weak-ish Verbs (Irr.)
+*(with past tense and past participle ending in -d/-nd/-t/-ght)*
+
+<!-- TODO -->
+Notes:
+* e-o-o: sell tell
+  * o-e-e: hold
+* bind, find, grind, wind
+* stand(understand)
+* sit shit/! spit!
+  * get!
+* x-au-au/x-ou-ou: bring buy catch seek teach think
+  * fight
 
 <!--v-->
-<!-- TODO a/e/i/o -->
 
-| &nbsp; |
-|-|
-| fall fell fallen |
+## Verbs
 
-| &nbsp; |
-|-|
-| speak spoke spoken |
+### Strong Verbs
+*(ending in a/e/i/o in stem + -en)*
 
-| &nbsp; |
-|-|
-| fly flew flown |
+<!--v-->
+
+| &nbsp; | | |
+|-|-|-|
+| fall | &nbsp; | &nbsp; |
+
+| &nbsp; | | |
+|-|-|-|
+| speak | &nbsp; | &nbsp; |
+
+| &nbsp; | | |
+|-|-|-|
+| fly | &nbsp; | &nbsp; |
+
+<!--v-->
+
+| &nbsp; | | |
+|-|-|-|
+| fall | fell | &nbsp; |
+
+| &nbsp; | | |
+|-|-|-|
+| speak | &nbsp; | &nbsp; |
+
+| &nbsp; | | |
+|-|-|-|
+| fly | &nbsp; | &nbsp; |
+
+<!--v-->
+
+| &nbsp; | | |
+|-|-|-|
+| fall | fell | fallen |
+
+| &nbsp; | | |
+|-|-|-|
+| speak | &nbsp; | &nbsp; |
+
+| &nbsp; | | |
+|-|-|-|
+| fly | &nbsp; | &nbsp; |
+
+<!--v-->
+
+| &nbsp; | | |
+|-|-|-|
+| fall | fell | fallen |
+
+| &nbsp; | | |
+|-|-|-|
+| speak | spoke | &nbsp; |
+
+| &nbsp; | | |
+|-|-|-|
+| fly | &nbsp; | &nbsp; |
+
+<!--v-->
+
+| &nbsp; | | |
+|-|-|-|
+| fall | fell | fallen |
+
+| &nbsp; | | |
+|-|-|-|
+| speak | spoke | spoken |
+
+| &nbsp; | | |
+|-|-|-|
+| fly | &nbsp; | &nbsp; |
+
+<!--v-->
+
+| &nbsp; | | |
+|-|-|-|
+| fall | fell | fallen |
+
+| &nbsp; | | |
+|-|-|-|
+| speak | spoke | spoken |
+
+| &nbsp; | | |
+|-|-|-|
+| fly | flew | &nbsp; |
+
+<!--v-->
+
+| &nbsp; | | |
+|-|-|-|
+| fall | fell | fallen |
+
+| &nbsp; | | |
+|-|-|-|
+| speak | spoke | spoken |
+
+| &nbsp; | | |
+|-|-|-|
+| fly | flew | flõwn |
 
 Notes:
 * a-e-a: fall
@@ -2605,7 +2688,7 @@ Notes:
 ## Verbs
 
 ### Strong Verbs
-*(assimilation of -en after u + -g, -ck or nasal)*
+*(assimilation of -en after u in stem + -g, -ck or nasal)*
 
 <!--v-->
 
@@ -2614,8 +2697,6 @@ Notes:
 | &nbsp; |
 |-|
 | sing sang sung |
-
-<!--v-->
 
 Notes:
 * u-a-u: come!(become) run
@@ -2631,10 +2712,10 @@ Notes:
 
 ## Verbs
 
-### Mixed Verbs
-*(that will end in -en)*
+### Strong-ish Verbs
+*(with past tense ending in -ed and past participle ending in -en)*
 
-<!-- TODO -->
+<!-- TODO show -->
 Notes:
 * -ed: mowed!mown sawed!sawn sewed!sewn show sowed!sown swelled!swollen
 
@@ -2642,27 +2723,13 @@ Notes:
 
 ## Verbs
 
-### Mixed Verbs
-*(that will end in -d)*
+### Strong-ish Verbs (Irr.)
 
 <!-- TODO -->
+
 Notes:
-* ll-: sell tell
-* nd-: bound, found, ground, wound
-* hold
-
-<!--v-->
-
-## Verbs
-
-### Mixed Verbs
-*(that will end in -t)*
-
-<!-- TODO -->
-Notes:
-* bring buy catch seek teach think + fight
-* sit shit/! spit!
-* get!
+* do
+* be go
 
 <!--v-->
 
@@ -2678,169 +2745,13 @@ Notes:
 
 <!--v-->
 
-## Verbs
-
-### Irregular Verbs
-*(like, really)*
-
-<!-- TODO -->
-Notes:
-* do
-* be go stand(understand)
-* have make
-
-<!--v-->
-
-## Verbs
-
-### Weak Verbs
-*(-ed)*
-
-<!--v-->
-
-## Verbs
-
-### Irregular Weak Verbs
-*(-d)*
-
-<!--v-->
-
-| &nbsp; | &nbsp; |
-|-|-|
-| say | said |
-
-<!--v-->
-
-| seg | segĕd |
-|-|-|
-| say | said |
-
-<!--v-->
-
-| *segh* | *seghĕd* |
-|-|-|
-| say | said |
-
-<!--v-->
-
-| *segh* | *seghĕd* |
-|-|-|
-| seigh | sëighed |
-
-<!--v-->
-
-| *segh* | *seghĕd* |
-|-|-|
-| *sey* | *sëid* |
-
-<!--v-->
-
-## Verbs
-
-### Irregular Weak Verbs
-*(-t)*
-
-<!--v-->
-
-| &nbsp; | &nbsp; |
-|-|-|
-| sleep | slept |
-
-| &nbsp; | &nbsp; |
-|-|-|
-| mean | meant |
-
-<!--v-->
-
-| slep | slepĕd |
-|-|-|
-| sleep | slept |
-
-| &nbsp; | &nbsp; |
-|-|-|
-| mean | meant |
-
-<!--v-->
-
-| *sleep* | *slëept* |
-|-|-|
-| sleep | slept |
-
-| &nbsp; | &nbsp; |
-|-|-|
-| mean | meant |
-
 Notes:
 * æ: sweep
 * e: sleep
 * ø: feel keep meet weep
 * e̥: creep fleegh kneel
-
-<!--v-->
-
-| *sleep* | *slëept* |
-|-|-|
-| sleep | slept |
-
-| main | mainĕd |
-|-|-|
-| mean | meant |
-
-<!--v-->
-
-| *sleep* | *slëept* |
-|-|-|
-| sleep | slept |
-
-| mạn | mạnĕd |
-|-|-|
-| mean | meant |
-
-<!--v-->
-
-| *sleep* | *slëept* |
-|-|-|
-| sleep | slept |
-
-| *mæne* | *mænt* |
-|-|-|
-| mean | meant |
-
-<!--v-->
-
-| *sleep* | *slëept* |
-|-|-|
-| sleep | slept |
-
-| *mæne* | *mænt* |
-|-|-|
-| mean | mëant |
-
-<!--v-->
-
-| *sleep* | *slëept* |
-|-|-|
-| sleep | slept |
-
-| *mæne* | *mænt* |
-|-|-|
-| mean | *ment* |
-
-Notes:
 * ạ: deal
 * æ̥: (dream) hear (leap) leave mean
-
-<!--v-->
-
-## Verbs
-
-### Irregular Weak Verbs Ending in -t
-
-<!--v-->
-
-| putt | puttĕd |
-|-|-|
-| pǔt | pǔt |
 
 <!--v-->
 
@@ -2937,55 +2848,6 @@ Notes:
 | *sēgh* &nbsp; &nbsp; | *saǧh* | *sēghen* |
 |-|-|-|
 | *see* | *saw* | *seen* |
-
-<!--v-->
-
-## Verbs
-
-### Pseudo-Irregular Strong Verbs
-*(fly)*
-
-<!--v-->
-
-| &nbsp; | &nbsp; | &nbsp; |
-|-|-|-|
-| fly | flew | flõwn |
-
-<!--v-->
-
-| fleug | flug | flogen |
-|-|-|-|
-| fly | flew | flõwn |
-
-<!--v-->
-
-| fle̥g | flug | flogen |
-|-|-|-|
-| fly | flew | flõwn |
-
-<!--v-->
-
-| *flygh* | *flugh* | *floghen* |
-|-|-|-|
-| fly | flew | flõwn |
-
-<!--v-->
-
-| *flygh* | *flugh* | *floghen* |
-|-|-|-|
-| ~fly~ | ~flew~ | ~flõwn~ |
-
-<!--v-->
-
-| *flygh* | *flugh* | *floghen* |
-|-|-|-|
-| fligh | flugh | flõughen |
-
-<!--v-->
-
-| *flygh* | *flugh* | *floghen* |
-|-|-|-|
-| fligh | *flu* | *flõwn* |
 
 <!--s-->
 
