@@ -7,7 +7,7 @@ revealOptions:
   transition: 'fade'
 ---
 
-<!-- reveal-md frendly-inglish.md -w -->
+<!-- cd ~/Git/speranto; reveal-md frendly-inglish.md -w -->
 
 <!-- .slide: data-background="./image2.png" -->
 
@@ -2336,11 +2336,9 @@ Notes:
 
 ## Verbs
 
-<!--v-->
+<!--s-->
 
-## Verbs
-
-### Weak Verbs
+## Weak Verbs
 *(with past tense and past participle ending in -ed)*
 
 <!--v-->
@@ -2357,63 +2355,28 @@ Notes:
 
 <!--v-->
 
-## Verbs
-
-### Weak Verbs (Irr.)
+## Weak Verbs (Irr.)
+*(omitting the end of the stem)*
 
 <!--v-->
 
-| sag_i + ed |
-|-|
 | &nbsp; |
+|-|
+| have + ed |
 
 <!--v-->
 
-| sæg + ed |
-|-|
 | &nbsp; |
-
-<!--v-->
-
-| sæğ + ed |
 |-|
-| &nbsp; |
-
-<!--v-->
-
-| *segh* + ed |
-|-|
-| &nbsp; |
-
-<!--v-->
-
-| *segh* + ed |
-|-|
-| seigh + ed |
-
-<!--v-->
-
-| *segh* + ed |
-|-|
-| *sey* + ed |
-
-<!--v-->
-
-| *seğhed* |
-|-|
-| *sed* |
-
-<!-- TODO have has! had -->
-<!-- TODO says -->
+| had &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
 
 Notes:
-* have make
+* has
+* made
 
-<!--v-->
+<!--s-->
 
-## Verbs
-
-### Weak-ish Verbs
+## Weak-ish Verbs
 *(ending in -d after vowel, voiced consonant or -r)*
 
 <!--v-->
@@ -2431,13 +2394,10 @@ Notes:
 Notes:
 * flee
 * hear
-<!-- TODO all examples -->
 
 <!--v-->
 
-## Verbs
-
-### Weak-ish Verbs
+## Weak-ish Verbs
 *(assimilation of -d after -d)*
 
 <!--v-->
@@ -2448,25 +2408,25 @@ Notes:
 
 <!--v-->
 
-| fød + ed |
+| fød + ed &nbsp; |
 |-|
 | &nbsp; |
 
 <!--v-->
 
-| fød + ed |
+| fød + ed &nbsp; |
 |-|
 | feed + ed |
 
 <!--v-->
 
-| fødĕd |
+| fødĕd &nbsp; &nbsp; &nbsp; |
 |-|
 | fëedĕd |
 
 <!--v-->
 
-| fødd |
+| fødd &nbsp; &nbsp; &nbsp; &nbsp; |
 |-|
 | fëed |
 
@@ -2476,24 +2436,20 @@ Notes:
 * slide
 * bid! shed spread!
 
-<!-- TODO spreit → spread; laid_i → lead ⇒ æ? -->
-
 <!--v-->
 
-## Verbs
-
-### Weak-ish Verbs
+## Weak-ish Verbs
 *(ending in -t after un-voiced consonant, nasal, s or -l)*
 
 <!--v-->
 
-| slep + ed |
+| slep + ed &nbsp; |
 |-|
 | &nbsp; |
 
 <!--v-->
 
-| slep + ed |
+| slep + ed &nbsp; |
 |-|
 | sleep + ed |
 
@@ -2513,9 +2469,7 @@ Notes:
 
 <!--v-->
 
-## Verbs
-
-### Weak-ish Verbs
+## Weak-ish Verbs
 *(assimilation of -t after -t)*
 
 <!--v-->
@@ -2548,10 +2502,20 @@ Notes:
 
 <!--v-->
 
-## Verbs
-
-### Weak-ish Verbs (Irr.)
+## Weak-ish Verbs (Irr.)
 *(with past tense and past participle ending in -d/-nd/-t/-ght)*
+
+<!--v-->
+
+| &nbsp; |
+|-|
+| stand + ed |
+
+<!--v-->
+
+| &nbsp; |
+|-|
+| stǒod &nbsp; &nbsp; &nbsp; &nbsp; |
 
 <!-- TODO -->
 Notes:
@@ -2564,54 +2528,41 @@ Notes:
 * x-au-au/x-ou-ou: bring buy catch seek teach think
   * fight
 
-<!--v-->
+<!--s-->
 
-## Verbs
-
-### Strong Verbs
-*(ending in a/e/i/o in stem + -en)*
+## Strong Verbs
+*(ending in -en)*
 
 <!--v-->
 
 | &nbsp; | | |
 |-|-|-|
-| fall | &nbsp; | &nbsp; |
+| fall | &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
 
 | &nbsp; | | |
 |-|-|-|
-| speak | &nbsp; | &nbsp; |
+| speak | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
 
 | &nbsp; | | |
 |-|-|-|
-| fly | &nbsp; | &nbsp; |
+| fly | &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+
+Notes:
+* a/e/i/o in stem
 
 <!--v-->
 
 | &nbsp; | | |
 |-|-|-|
-| fall | fell | &nbsp; |
+| fall | fell | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
 
 | &nbsp; | | |
 |-|-|-|
-| speak | &nbsp; | &nbsp; |
+| speak | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
 
 | &nbsp; | | |
 |-|-|-|
-| fly | &nbsp; | &nbsp; |
-
-<!--v-->
-
-| &nbsp; | | |
-|-|-|-|
-| fall | fell | fallen |
-
-| &nbsp; | | |
-|-|-|-|
-| speak | &nbsp; | &nbsp; |
-
-| &nbsp; | | |
-|-|-|-|
-| fly | &nbsp; | &nbsp; |
+| fly | &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
 
 <!--v-->
 
@@ -2621,11 +2572,11 @@ Notes:
 
 | &nbsp; | | |
 |-|-|-|
-| speak | spoke | &nbsp; |
+| speak | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
 
 | &nbsp; | | |
 |-|-|-|
-| fly | &nbsp; | &nbsp; |
+| fly | &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
 
 <!--v-->
 
@@ -2635,11 +2586,11 @@ Notes:
 
 | &nbsp; | | |
 |-|-|-|
-| speak | spoke | spoken |
+| speak | spoke | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
 
 | &nbsp; | | |
 |-|-|-|
-| fly | &nbsp; | &nbsp; |
+| fly | &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
 
 <!--v-->
 
@@ -2653,7 +2604,21 @@ Notes:
 
 | &nbsp; | | |
 |-|-|-|
-| fly | flew | &nbsp; |
+| fly | &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+
+<!--v-->
+
+| &nbsp; | | |
+|-|-|-|
+| fall | fell | fallen |
+
+| &nbsp; | | |
+|-|-|-|
+| speak | spoke | spoken |
+
+| &nbsp; | | |
+|-|-|-|
+| fly | flew | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
 
 <!--v-->
 
@@ -2685,20 +2650,29 @@ Notes:
 
 <!--v-->
 
-## Verbs
-
-### Strong Verbs
-*(assimilation of -en after u in stem + -g, -ck or nasal)*
+## Strong Verbs
+*(ending in -g, -ck or nasal, without -en)*
 
 <!--v-->
 
-<!-- TODO -->
+| &nbsp; | &nbsp; | &nbsp; |
+|-|-|-|
+| sing | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
 
-| &nbsp; |
-|-|
-| sing sang sung |
+<!--v-->
+
+| &nbsp; | &nbsp; | &nbsp; |
+|-|-|-|
+| sing | sang | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+
+<!--v-->
+
+| &nbsp; | &nbsp; | &nbsp; |
+|-|-|-|
+| sing | sang | sung |
 
 Notes:
+* often with u in stem
 * u-a-u: come!(become) run
   * i-a-u: begin drink! shrink sing sink! spin! stink swim
     * a-u-u: hang
@@ -2708,35 +2682,69 @@ Notes:
   * (i-u-o)
     * i-o-o: shine!
 
+<!--s-->
+
+## Strong-ish Verbs
+*(with past tense ending in -ed)*
+
 <!--v-->
 
-## Verbs
+| &nbsp; | &nbsp; | &nbsp; |
+|-|-|-|
+| show | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
 
-### Strong-ish Verbs
-*(with past tense ending in -ed and past participle ending in -en)*
+<!--v-->
 
-<!-- TODO show -->
+| &nbsp; | &nbsp; | &nbsp; |
+|-|-|-|
+| show | showed | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+
+<!--v-->
+
+| &nbsp; | &nbsp; | &nbsp; |
+|-|-|-|
+| show | showed | shown |
+
 Notes:
 * -ed: mowed!mown sawed!sawn sewed!sewn show sowed!sown swelled!swollen
 
 <!--v-->
 
-## Verbs
+## Strong-ish Verbs (Irr.)
 
-### Strong-ish Verbs (Irr.)
+<!--v-->
 
-<!-- TODO -->
+| &nbsp; | &nbsp; | &nbsp; |
+|-|-|-|
+| dō | &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+
+<!--v-->
+
+| &nbsp; | &nbsp; | &nbsp; |
+|-|-|-|
+| dō | did | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+
+<!--v-->
+
+| &nbsp; | &nbsp; | &nbsp; |
+|-|-|-|
+| dō | did | dône |
+
 
 Notes:
 * do
 * be go
 
+<!--s-->
+
+## Auxiliary Verbs
+*(without third person -s and without past participle)*
+
 <!--v-->
 
-## Verbs
-
-### Auxiliary Verbs
-*(without third person -s and without past participle)*
+| &nbsp; | &nbsp; |
+|-|-|
+| will | would |
 
 <!-- TODO -->
 Notes:
@@ -2753,7 +2761,8 @@ Notes:
 * ạ: deal
 * æ̥: (dream) hear (leap) leave mean
 
-<!--v-->
+<!-- TODO consolidate -->
+<!--s-->
 
 ## Verbs
 
@@ -2852,6 +2861,51 @@ Notes:
 <!--s-->
 
 ## Edge Cases
+<!-- TODO edge case spreit → spread; laid_i → lead ⇒ spræd? -->
+
+<!--v-->
+
+| sag_i + ed |
+|-|
+| &nbsp; |
+
+<!--v-->
+
+| sæg + ed |
+|-|
+| &nbsp; |
+
+<!--v-->
+
+| sæğ + ed |
+|-|
+| &nbsp; |
+
+<!--v-->
+
+| *segh* + ed |
+|-|
+| &nbsp; |
+
+<!--v-->
+
+| *segh* + ed |
+|-|
+| seigh + ed |
+
+<!--v-->
+
+| *segh* + ed |
+|-|
+| *sey* + ed |
+
+<!--v-->
+
+| *seğhed* |
+|-|
+| *sed* |
+
+
 <!-- TODO edge cases? cry fry try -->
 
 <!--v-->
