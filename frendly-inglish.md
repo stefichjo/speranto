@@ -270,7 +270,7 @@ Notes:
 <!--s-->
 
 ## Simple Friendly Spelling
-*(**Simplified** Legacy Spelling)*
+*(**Simplified** Legacy Spelling, Removing Diacritic Marks)*
 
 <!--v-->
 
@@ -431,6 +431,7 @@ Notes:
 | *sed* |
 
 Notes:
+* In verbs, leaving the diacritic marks in a verb's past tense or past participle seems preferable to me, at least in "formal" writing.
 * agäin
 
 <!--v-->
@@ -598,7 +599,7 @@ Notes:
 <!--s-->
 
 ## Friendly Spelling Plus
-*(**Etymology-Based** Spelling)*
+*(**Corrected** Legacy Spelling, Based on Etymology)*
 
 <!--v-->
 
@@ -628,16 +629,10 @@ Notes:
 
 | strekht |
 |-|
-| sträight |
-
-<!--v-->
-
-| strekht |
-|-|
 | streight |
 
 Notes:
-* ȇight
+* eight
 
 <!--v-->
 
@@ -851,7 +846,7 @@ Notes:
 <!--s-->
 
 ## Simple Friendly Spelling Plus
-*(**Simplified** Corrected Lecacy Spelling Based on Etymology)*
+*(**Simplified** Corrected Lecacy Spelling, Based on Etymology)*
 
 <!--v-->
 
@@ -867,13 +862,13 @@ Notes:
 
 <!--v-->
 
-| dag |
+| dağ |
 |-|
 | daigh |
 
 <!--v-->
 
-| dag |
+| *dagh* |
 |-|
 | *day* &nbsp; &nbsp; |
 
@@ -897,7 +892,13 @@ Notes:
 
 <!--v-->
 
-| dagen |
+| daǧen |
+|-|
+| daughen |
+
+<!--v-->
+
+| *daǧhen* |
 |-|
 | *dawn* &nbsp; &nbsp; &nbsp; |
 
@@ -915,13 +916,13 @@ Notes:
 
 <!--v-->
 
-| weg |
+| weğ |
 |-|
 | weigh |
 
 <!--v-->
 
-| weg |
+| *wegh* |
 |-|
 | *wey* &nbsp; &nbsp; |
 
@@ -939,13 +940,13 @@ Notes:
 
 <!--v-->
 
-| thaukh |
+| thḁkh |
 |-|
 | thõugh |
 
 <!--v-->
 
-| thaukh |
+| *thogh* |
 |-|
 | *thõw* |
 
@@ -1079,25 +1080,31 @@ Notes:
 
 <!--v-->
 
-| tomorg &nbsp; &nbsp; &nbsp; &nbsp; |
+| &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
 |-|
-| &nbsp; |
+| tōmorrow |
 
 <!--v-->
 
 | tomorg &nbsp; &nbsp; &nbsp; &nbsp; |
 |-|
-| tomorrough |
+| tōmorrow |
 
 <!--v-->
 
 | tomorg &nbsp; &nbsp; &nbsp; &nbsp; |
+|-|
+| ~tōmorrow~ |
+
+<!--v-->
+
+| tomorg |
 |-|
 | tōmorrough |
 
 <!--v-->
 
-| tomorg &nbsp; &nbsp; &nbsp; &nbsp; |
+| *tomorgh* &nbsp; &nbsp; &nbsp; |
 |-|
 | *tōmorrow* |
 
@@ -1121,7 +1128,7 @@ Notes:
 
 <!--v-->
 
-| happig |
+| *happigh* |
 |-|
 | *happy* |
 
@@ -1469,9 +1476,19 @@ Notes:
 
 <!--v-->
 
-| *mæn* | fødd |
+| *mæn* | fødĕd |
 |-|-|
-| men &nbsp; &nbsp; &nbsp; | fed &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+| men &nbsp; &nbsp; &nbsp; | ~fed~ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+
+| &nbsp; | &nbsp; |
+|-|-|
+| street &nbsp; | green &nbsp; |
+
+<!--v-->
+
+| *mæn* | fødĕd |
+|-|-|
+| men &nbsp; &nbsp; &nbsp; | fëedĕd &nbsp; &nbsp; &nbsp; |
 
 | &nbsp; | &nbsp; |
 |-|-|
@@ -1481,7 +1498,7 @@ Notes:
 
 | *mæn* | *fød* |
 |-|-|
-| men &nbsp; &nbsp; &nbsp; | fed &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+| men &nbsp; &nbsp; &nbsp; | *fed* &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
 
 | &nbsp; | &nbsp; |
 |-|-|
@@ -1491,7 +1508,7 @@ Notes:
 
 | *mæn* | *fød* |
 |-|-|
-| men &nbsp; &nbsp; &nbsp; | fed &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+| men &nbsp; &nbsp; &nbsp; | *fed* &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
 
 | strat_i | &nbsp; |
 |-|-|
@@ -1501,7 +1518,7 @@ Notes:
 
 | *mæn* | *fød* |
 |-|-|
-| men &nbsp; &nbsp; &nbsp; | fed &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+| men &nbsp; &nbsp; &nbsp; | *fed* &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
 
 | stræt | &nbsp; |
 |-|-|
@@ -1511,7 +1528,7 @@ Notes:
 
 | *mæn* | *fød* |
 |-|-|
-| men &nbsp; &nbsp; &nbsp; | fed &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+| men &nbsp; &nbsp; &nbsp; | *fed* &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
 
 | *stræte* | &nbsp; |
 |-|-|
@@ -1521,7 +1538,7 @@ Notes:
 
 | *mæn* | *fød* |
 |-|-|
-| men &nbsp; &nbsp; &nbsp; | fed &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+| men &nbsp; &nbsp; &nbsp; | *fed* &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
 
 | *stræte* | gron_i |
 |-|-|
@@ -1531,7 +1548,7 @@ Notes:
 
 | *mæn* | *fød* |
 |-|-|
-| men &nbsp; &nbsp; &nbsp; | fed &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+| men &nbsp; &nbsp; &nbsp; | *fed* &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
 
 | *stræte* | grøn |
 |-|-|
@@ -1541,7 +1558,7 @@ Notes:
 
 | *mæn* | *fød* |
 |-|-|
-| men &nbsp; &nbsp; &nbsp; | fed &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+| men &nbsp; &nbsp; &nbsp; | *fed* &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
 
 | *stræte* | *grøne* |
 |-|-|
