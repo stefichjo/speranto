@@ -5,11 +5,13 @@ verticalSeparator: <!--v-->
 theme: sky
 revealOptions:
   transition: 'fade'
+  progress: false
+  controls: false
 ---
 
 <!-- cd ~/Git/speranto; reveal-md frendly-inglish.md -w -->
 
-<!-- .slide: data-background="./image2.png" -->
+<!-- https://www.bl.uk/british-accents-and-dialects/articles/regional-voices-the-north-south-divide -->
 
 <!-- Cf. https://en.wikipedia.org/wiki/SR1?fbclid=IwAR0cAl-_p5aAqWAJvWXJLynb6Rl6p9sYPg7L-yo1UDTgFr0bs8hDS_WTPEw -->
 
@@ -32,7 +34,43 @@ e̥ ≈ y ⇒ i
 -->
 
 ## Friendly Spelling
-*(Legacy Spelling with Diacritic Marks)*
+*(Diacritic Marks: ȏöȯo̊ôǒõōø)*
+
+<!--v-->
+
+## Friendly Spelling
+
+### ǒo
+
+<!--v-->
+
+| &nbsp; |
+|-|
+| book |
+
+<!--v-->
+
+| &nbsp; |
+|-|
+| bǒok |
+
+<!--v-->
+
+## Friendly Spelling
+
+### ǒ
+
+<!--v-->
+
+| &nbsp; |
+|-|
+| wolf |
+
+<!--v-->
+
+| &nbsp; |
+|-|
+| wǒlf |
 
 <!--v-->
 
@@ -56,59 +94,17 @@ e̥ ≈ y ⇒ i
 
 ## Friendly Spelling
 
-### ô
-
-<!--v-->
-
-| |
-|-|
-| wonder |
-
-<!--v-->
-
-| |
-|-|
-| wônder |
-
-<!-- TODO -->
-Notes:
-* hônny dun; môney, sôn ;sôme côme
-ôth: bruther muther uther
-ôv: abuve luve uven
-
-<!--v-->
-
-## Friendly Spelling
-
-### ǒ
-
-<!--v-->
-
-| |
-|-|
-| wolf |
-
-<!--v-->
-
-| |
-|-|
-| wǒlf |
-
-<!--v-->
-
-## Friendly Spelling
-
 ### ôo
 
 <!--v-->
 
-| |
+| &nbsp; |
 |-|
 | flood |
 
 <!--v-->
 
-| |
+| &nbsp; |
 |-|
 | flôod |
 
@@ -116,55 +112,27 @@ Notes:
 
 ## Friendly Spelling
 
-### ǒo
+### ô
 
 <!--v-->
 
-| |
+| &nbsp; |
 |-|
-| book |
+| done |
 
 <!--v-->
 
-| |
+| &nbsp; |
 |-|
-| bǒok |
+| dône |
 
-<!--v-->
-
-## Friendly Spelling
-
-### ōu
-
-<!--v-->
-
-| |
-|-|
-| soup |
-
-<!--v-->
-
-| |
-|-|
-| sōup |
-
-<!--v-->
-
-## Friendly Spelling
-
-### õw
-
-<!--v-->
-
-| |
-|-|
-| know |
-
-<!--v-->
-
-| |
-|-|
-| knõw |
+<!-- TODO -->
+Notes:
+* hônny dun; môney, sôn
+* sôme côme
+* wônder wôrry
+* brôther môther ôther
+* abôve lôve ôven
 
 <!--v-->
 
@@ -173,13 +141,14 @@ Notes:
 ### ōugh
 
 <!--v-->
-| |
+
+| &nbsp; |
 |-|
 | through |
 
 <!--v-->
 
-| |
+| &nbsp; |
 |-|
 | thrōugh |
 
@@ -191,13 +160,13 @@ Notes:
 
 <!--v-->
 
-| |
+| &nbsp; |
 |-|
 | though |
 
 <!--v-->
 
-| |
+| &nbsp; |
 |-|
 | thõugh |
 
@@ -205,72 +174,89 @@ Notes:
 
 ## Friendly Spelling
 
-### ôugh
+### õw
 
 <!--v-->
 
-| |
+| &nbsp; |
 |-|
-| tough |
+| throw |
 
 <!--v-->
 
-| |
+| &nbsp; |
 |-|
-| tôugh |
-
-Notes:
-* enôugh rôugh
-
-<!--v-->
-
-## Friendly Spelling
-
-### o̊ugh
-
-<!--v-->
-
-| |
-|-|
-| trough |
-
-<!--v-->
-
-| |
-|-|
-| tro̊ugh |
-
-Notes:
-* co̊ugh
-
-<!--v-->
-
-## Friendly Spelling
-
-### ȃught ⇒ *ȃft*
-
-<!--v-->
-
-| |
-|-|
-| draught |
-
-<!--v-->
-
-| |
-|-|
-| drȃught |
-
-<!--v-->
-
-| |
-|-|
-| *drȃft* |
+| thrõw |
 
 <!--s-->
 
 ## Simple Friendly Spelling
-*(**Simplified** Legacy Spelling, Removing Diacritic Marks)*
+*(Less Diacritic Marks: ff, augh, aei, -e)*
+
+<!--v-->
+
+## Simple Friendly Spelling
+
+### gh ⇒ *ff*
+
+<!--v-->
+
+| &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+|-|-|-|
+| tough | &nbsp; | &nbsp; |
+
+<!--v-->
+
+| &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+|-|-|-|
+| tôugh | &nbsp; | &nbsp; |
+
+<!--v-->
+
+| &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+|-|-|-|
+| *tuff* | &nbsp; | &nbsp; |
+
+<!--v-->
+
+| &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+|-|-|-|
+| *tuff* | trough | &nbsp; |
+
+<!--v-->
+
+| &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+|-|-|-|
+| *tuff* | tro̊ugh | &nbsp; |
+
+<!--v-->
+
+| &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+|-|-|-|
+| *tuff* | *troff* | &nbsp; |
+
+<!--v-->
+
+| &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+|-|-|-|
+| *tuff* | *troff* | laugh |
+
+<!--v-->
+
+| &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+|-|-|-|
+| *tuff* | *troff* | lȃugh |
+
+<!--v-->
+
+| &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+|-|-|-|
+| *tuff* | *troff* | *lȃff* |
+
+Notes:
+* enôugh rôugh
+* co̊ugh tro̊ugh
+* drȃught lȃugh
 
 <!--v-->
 
@@ -280,80 +266,33 @@ Notes:
 
 <!--v-->
 
-| |
-|-|
-| thought |
+| &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+|-|-|
+| thought | &nbsp; |
 
 <!--v-->
 
-| |
-|-|
-| thȏught |
+| &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+|-|-|
+| thȏught | &nbsp; |
 
 <!--v-->
 
-| |
-|-|
-| *thaught* |
+| &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+|-|-|
+| *thaught* | &nbsp; |
+
+<!--v-->
+
+| &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+|-|-|
+| *thaught* | taught |
 
 Notes:
+* thȏǔght
+* brȏǎd → braud/brawd
 * brȏught sȏught
 * caught taught
-
-<!--v-->
-
-## Simple Friendly Spelling
-
-### eĩgh ⇒ *igh*
-
-<!--v-->
-
-| &nbsp; |
-|-|
-| height |
-
-<!--v-->
-
-| &nbsp; |
-|-|
-| heĩght |
-
-<!--v-->
-
-| &nbsp; |
-|-|
-| *hight* |
-
-Notes:
-* heĩst
-
-<!--v-->
-
-## Simple Friendly Spelling
-
-### ȇ ⇒ *a*
-
-<!--v-->
-
-| &nbsp; |
-|-|
-| there |
-
-<!--v-->
-
-| &nbsp; |
-|-|
-| thȇre |
-
-<!--v-->
-
-| &nbsp; |
-|-|
-| *thare* |
-
-Notes:
-* wȇrewǒlf whȇre
-* hȇart
 
 <!--v-->
 
@@ -363,21 +302,27 @@ Notes:
 
 <!--v-->
 
-| &nbsp; |
-|-|
-| heart |
+| &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+|-|-|
+| heart | &nbsp; |
 
 <!--v-->
 
-| &nbsp; |
-|-|
-| hȇart |
+| &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+|-|-|
+| hȇart | &nbsp; |
 
 <!--v-->
 
-| &nbsp; |
-|-|
-| *hart* |
+| &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+|-|-|
+| *hart* &nbsp; | &nbsp; |
+
+<!--v-->
+
+| &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+|-|-|
+| *hart* &nbsp; | start |
 
 Notes:
 * wȇrewǒlf whȇre
@@ -386,108 +331,36 @@ Notes:
 
 ## Simple Friendly Spelling
 
-### ië ⇒ *e*
+### ïe ⇒ *e*
 
 <!--v-->
 
-| &nbsp; |
-|-|
-| friend |
+| &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; |
+|-|-|
+| friend | &nbsp; |
 
 <!--v-->
 
-| &nbsp; |
-|-|
-| friënd |
+| &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; |
+|-|-|
+| frïend | &nbsp; |
 
 <!--v-->
 
-| &nbsp; |
-|-|
-| *frend* |
+| &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; |
+|-|-|
+| *frend* &nbsp; | &nbsp; |
 
 <!--v-->
 
-## Simple Friendly Spelling
-
-### äi ⇒ *e*
-
-<!--v-->
-
-| &nbsp; |
-|-|
-| said |
-
-<!--v-->
-
-| &nbsp; |
-|-|
-| säid |
-
-<!--v-->
-
-| &nbsp; |
-|-|
-| *sed* |
-
-Notes:
-* In verbs, leaving the diacritic marks in a verb's past tense or past participle seems preferable to me, at least in "formal" writing.
-* agäin
-
-<!--v-->
-
-## Simple Friendly Spelling
-
-### ëa ⇒ *e*
-
-<!--v-->
-
-| &nbsp; |
-|-|
-| bread |
-
-<!--v-->
-
-| &nbsp; |
-|-|
-| brëad |
-
-<!--v-->
-
-| &nbsp; |
-|-|
-| *bred* &nbsp; |
+| &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; |
+|-|-|
+| *frend* &nbsp; | end |
 
 Notes:
 * dëad dëath instëad lëad rëady sprëad
 * hëalth stëalth (stëelth) wëalth (wëelth)
 * ëarly ëarn ëarth pëarl yëarn
-* dëalt drëamt rëad
-* red
-
-<!--v-->
-
-## Simple Friendly Spelling
-
-### ẽa ⇒ *ei*
-
-<!--v-->
-
-| &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
-|-|
-| break |
-
-<!--v-->
-
-| &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
-|-|
-| brẽak |
-
-<!--v-->
-
-| &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
-|-|
-| *breik* |
 
 <!--v-->
 
@@ -517,55 +390,34 @@ Notes:
 
 ## Simple Friendly Spelling
 
-### õo ⇒ *o_e*
-
-<!--v-->
-
-| &nbsp; |
-|-|
-| floor |
-
-<!--v-->
-
-| &nbsp; |
-|-|
-| flõor |
-
-<!--v-->
-
-| &nbsp; |
-|-|
-| *flore* |
-
-Notes:
-* dõor
-
-<!--v-->
-
-## Simple Friendly Spelling
-
 ### -ĕ
 
 <!--v-->
 
-| &nbsp; |
-|-|
-| were |
+| &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+|-|-|
+| are | &nbsp; |
 
 <!--v-->
 
-| &nbsp; |
-|-|
-| werĕ |
+| &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+|-|-|
+| arĕ | &nbsp; |
 
 <!--v-->
 
-| &nbsp; |
-|-|
-| *wer* |
+| &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+|-|-|
+| *ar* &nbsp; | &nbsp; |
+
+<!--v-->
+
+| &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+|-|-|
+| *ar* &nbsp; | ≠ square |
 
 Notes:
-* arĕ gonĕ
+* arĕ gonĕ werĕ
 
 <!--v-->
 
@@ -575,31 +427,38 @@ Notes:
 
 <!--v-->
 
-| &nbsp; |
-|-|
-| wild &nbsp; |
+| &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+|-|-|
+| find &nbsp; | &nbsp; |
 
 <!--v-->
 
-| &nbsp; |
-|-|
-| wĩld &nbsp; |
+| &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+|-|-|
+| fĩnd &nbsp; | &nbsp; |
 
 <!--v-->
 
-| &nbsp; |
-|-|
-| wilde |
+| &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+|-|-|
+| *finde* | &nbsp; |
+
+<!--v-->
+
+| &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+|-|-|
+| *finde* | ≠ wind |
 
 Notes:
-* chĩld mĩld
+* chĩld mĩld wĩld
 * bĩnd fĩnd kĩnd mĩnd wĩnd
 * *cf.* bŭild gŭild wind
+* dõor flõor ⇒ dore flore
 
 <!--s-->
 
 ## Friendly Spelling Plus
-*(**Corrected** Legacy Spelling, Based on Etymology)*
+*(Etymology)*
 
 <!--v-->
 
@@ -638,63 +497,59 @@ Notes:
 
 ## Friendly Spelling Plus
 
-### ie ≠ ee
+### ea, ie ≠ ee
 
 <!--v-->
 
-| &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
-|-|
-| shield |
+| &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+|-|-|
+| steal | &nbsp; |
 
 <!--v-->
 
-| skeld &nbsp; |
-|-|
-| shield |
+| stel | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+|-|-|
+| steal | &nbsp; |
 
 <!--v-->
 
-| skeld &nbsp; |
-|-|
-| ~~shield~~ |
+| stel | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+|-|-|
+| ~~steal~~ | &nbsp; |
 
 <!--v-->
 
-| skeld &nbsp; |
-|-|
-| sheeld |
+| stel | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+|-|-|
+| steel | &nbsp; |
 
 <!--v-->
 
-## Friendly Spelling Plus
-
-### ea ≠ ee
-
-<!--v-->
-
-| &nbsp; |
-|-|
-| steal |
+| stel | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+|-|-|
+| steel | field |
 
 <!--v-->
 
-| stel |
-|-|
-| steal |
+| stel | felth &nbsp; |
+|-|-|
+| steel | field |
 
 <!--v-->
 
-| stel |
-|-|
-| ~~steal~~ |
+| stel | felth &nbsp; |
+|-|-|
+| steel | ~~field~~ |
 
 <!--v-->
 
-| stel |
-|-|
-| steel |
+| stel | felth &nbsp; |
+|-|-|
+| steel | feeld |
 
 Notes:
+* feeld sheeld
+* wheel
 * reäd weäl
 
 <!--v-->
@@ -1393,14 +1248,9 @@ Notes:
 |-|
 | |
 
-<!--s-->
-
-## I-Mutation
-*(a_i, o_i, u_i, au_i + eu)*
-
 <!--v-->
 
-## I-Mutation
+## Simple Friendly Spelling Plus
 
 ### æ ≈ ø ≈ e
 
@@ -1416,141 +1266,51 @@ Notes:
 
 <!--v-->
 
-| mann_i | &nbsp; |
+| mann_i | fod_i + ed |
 |-|-|
 | men &nbsp; &nbsp; &nbsp; | fed &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
 
-| &nbsp; | &nbsp; |
+| strat_i | gron_i |
 |-|-|
 | street &nbsp; | green &nbsp; |
 
 <!--v-->
 
-| mænn | &nbsp; |
+| mænn | fød + ed |
 |-|-|
 | men &nbsp; &nbsp; &nbsp; | fed &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
 
-| &nbsp; | &nbsp; |
+| stræt | grøn |
 |-|-|
 | street &nbsp; | green &nbsp; |
 
 <!--v-->
 
-| *mæn* | &nbsp; |
+| mænn | fødĕd |
 |-|-|
 | men &nbsp; &nbsp; &nbsp; | fed &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
 
-| &nbsp; | &nbsp; |
+| stræt | grøn |
 |-|-|
 | street &nbsp; | green &nbsp; |
 
 <!--v-->
 
-| *mæn* | fod_i + ed |
-|-|-|
-| men &nbsp; &nbsp; &nbsp; | fed &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
-
-| &nbsp; | &nbsp; |
-|-|-|
-| street &nbsp; | green &nbsp; |
-
-<!--v-->
-
-| *mæn* | fød + ed |
-|-|-|
-| men &nbsp; &nbsp; &nbsp; | fed &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
-
-| &nbsp; | &nbsp; |
-|-|-|
-| street &nbsp; | green &nbsp; |
-
-<!--v-->
-
-| *mæn* | fødĕd |
-|-|-|
-| men &nbsp; &nbsp; &nbsp; | fed &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
-
-| &nbsp; | &nbsp; |
-|-|-|
-| street &nbsp; | green &nbsp; |
-
-<!--v-->
-
-| *mæn* | fødĕd |
+| mænn | fødĕd |
 |-|-|
 | men &nbsp; &nbsp; &nbsp; | ~fed~ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
 
-| &nbsp; | &nbsp; |
+| stræt | grøn |
 |-|-|
 | street &nbsp; | green &nbsp; |
 
 <!--v-->
 
-| *mæn* | fødĕd |
+| mænn | fødĕd |
 |-|-|
 | men &nbsp; &nbsp; &nbsp; | fëedĕd &nbsp; &nbsp; &nbsp; |
 
-| &nbsp; | &nbsp; |
-|-|-|
-| street &nbsp; | green &nbsp; |
-
-<!--v-->
-
-| *mæn* | *fød* |
-|-|-|
-| men &nbsp; &nbsp; &nbsp; | *fed* &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
-
-| &nbsp; | &nbsp; |
-|-|-|
-| street &nbsp; | green &nbsp; |
-
-<!--v-->
-
-| *mæn* | *fød* |
-|-|-|
-| men &nbsp; &nbsp; &nbsp; | *fed* &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
-
-| strat_i | &nbsp; |
-|-|-|
-| street &nbsp; | green &nbsp; |
-
-<!--v-->
-
-| *mæn* | *fød* |
-|-|-|
-| men &nbsp; &nbsp; &nbsp; | *fed* &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
-
-| stræt | &nbsp; |
-|-|-|
-| street &nbsp; | green &nbsp; |
-
-<!--v-->
-
-| *mæn* | *fød* |
-|-|-|
-| men &nbsp; &nbsp; &nbsp; | *fed* &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
-
-| *stræte* | &nbsp; |
-|-|-|
-| street &nbsp; | green &nbsp; |
-
-<!--v-->
-
-| *mæn* | *fød* |
-|-|-|
-| men &nbsp; &nbsp; &nbsp; | *fed* &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
-
-| *stræte* | gron_i |
-|-|-|
-| street &nbsp; | green &nbsp; |
-
-<!--v-->
-
-| *mæn* | *fød* |
-|-|-|
-| men &nbsp; &nbsp; &nbsp; | *fed* &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
-
-| *stræte* | grøn |
+| stræt | grøn |
 |-|-|
 | street &nbsp; | green &nbsp; |
 
@@ -1566,9 +1326,9 @@ Notes:
 
 <!--v-->
 
-## I-Mutation
+## Simple Friendly Spelling Plus
 
-### ạ ⇒ æ  ≈  æ̥ ⇒ ø
+### ạ ⇒ *æ*  ≈  æ̥ ⇒ *ø*
 
 <!--v-->
 
@@ -1578,49 +1338,19 @@ Notes:
 
 <!--v-->
 
-| klain | &nbsp; |
+| klain | draum_i |
 |-|-|
 | clean &nbsp; &nbsp; &nbsp; | dream &nbsp; &nbsp; |
 
 <!--v-->
 
-| klạn | &nbsp; |
+| klạn | drḁm_i |
 |-|-|
 | clean &nbsp; &nbsp; &nbsp; | dream &nbsp; &nbsp; |
 
 <!--v-->
 
-| klæn | &nbsp; |
-|-|-|
-| clean &nbsp; &nbsp; &nbsp; | dream &nbsp; &nbsp; |
-
-<!--v-->
-
-| *clæne* | &nbsp; |
-|-|-|
-| clean &nbsp; &nbsp; &nbsp; | dream &nbsp; &nbsp; |
-
-<!--v-->
-
-| *clæne* | draum_i |
-|-|-|
-| clean &nbsp; &nbsp; &nbsp; | dream &nbsp; &nbsp; |
-
-<!--v-->
-
-| *clæne* | drḁm_i |
-|-|-|
-| clean &nbsp; &nbsp; &nbsp; | dream &nbsp; &nbsp; |
-
-<!--v-->
-
-| *clæne* | dræ̥m |
-|-|-|
-| clean &nbsp; &nbsp; &nbsp; | dream &nbsp; &nbsp; |
-
-<!--v-->
-
-| *clæne* | drøm |
+| klạn | dræ̥m |
 |-|-|
 | clean &nbsp; &nbsp; &nbsp; | dream &nbsp; &nbsp; |
 
@@ -1820,46 +1550,31 @@ Notes:
 
 <!--v-->
 
-| gait | &nbsp; |
+| gait | aigen |
 |-|-|
 | goat | õwn &nbsp; &nbsp; &nbsp; |
 
 <!--v-->
 
-| gạt | &nbsp; |
+| gạt | ạgen |
 |-|-|
 | goat | õwn &nbsp; &nbsp; &nbsp; |
 
 <!--v-->
 
-| *gæt* | &nbsp; |
-|-|-|
-| goat | õwn &nbsp; &nbsp; &nbsp; |
-
-Notes:
-* gæ~t <!-- TODO æ~ -->
-
-<!--v-->
-
-| *gæt* | aigen |
+| *gæt* | *æghen* |
 |-|-|
 | goat | õwn &nbsp; &nbsp; &nbsp; |
 
 <!--v-->
 
-| *gæt* | ạgen |
+| *gæt* | *æghen* |
 |-|-|
-| goat | õwn &nbsp; &nbsp; &nbsp; |
+| goat | ~õwn~ &nbsp; &nbsp; &nbsp; |
 
 <!--v-->
 
-| *gæt* | ạgen |
-|-|-|
-| goat | *õwn* &nbsp; &nbsp; &nbsp; |
-
-<!--v-->
-
-| *gæt* | ạgen |
+| *gæt* | *æghen* |
 |-|-|
 | goat | õughen |
 
@@ -1867,7 +1582,10 @@ Notes:
 
 | *gæt* | *æghen* |
 |-|-|
-| goat | õughen |
+| goat | *õwn* &nbsp; &nbsp; &nbsp; |
+
+Notes:
+* gæ~t <!-- TODO æ~ -->
 
 <!--v-->
 
@@ -2382,6 +2100,64 @@ Notes:
 
 <!--s-->
 
+## Old French Spelling
+
+<!--v-->
+
+## Old French Spelling
+
+### -ĕ
+
+<!--v-->
+
+| &nbsp; |
+|-|
+| imagine |
+
+<!--v-->
+
+| &nbsp; |
+|-|
+| imaginĕ |
+
+<!--v-->
+
+## Old French Spelling
+
+### ōu
+
+<!--v-->
+
+| &nbsp; |
+|-|
+| soup |
+
+<!--v-->
+
+| &nbsp; |
+|-|
+| sōup |
+
+<!--v-->
+
+## Old French Spelling
+
+### ch
+
+<!--v-->
+
+| &nbsp; | &nbsp; |
+|-|-|
+| chair | cherry |
+
+<!--v-->
+
+| &nbsp; | &nbsp; |
+|-|-|
+| chair | çherry |
+
+<!--s-->
+
 ## Edge Cases
 <!-- TODO edge case spreit → spread; laid_i → lead ⇒ spræd? -->
 
@@ -2660,162 +2436,6 @@ Notes:
 
 <!--v-->
 
-| &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
-|-|
-| enough |
-
-<!--v-->
-
-| &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
-|-|
-| enôugh |
-
-<!--v-->
-
-| &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
-|-|
-| enôugh |
-
-<!--v-->
-
-| &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
-|-|
-| *enuff* |
-
-<!--v-->
-
-| &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
-|-|
-| laugh |
-
-<!--v-->
-
-| &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
-|-|
-| lȃugh |
-
-<!--v-->
-
-| &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
-|-|
-| *lȃff* |
-
-<!--v-->
-
-| &nbsp; |
-|-|
-| cough |
-
-<!--v-->
-
-| &nbsp; |
-|-|
-| co̊ugh |
-
-<!--v-->
-
-| &nbsp; |
-|-|
-| *coff* |
-
-<!--v-->
-
-## Legacy Spelling Light
-
-### ô ⇒ *u*
-
-<!--v-->
-
-| &nbsp; |
-|-|
-| wônder |
-
-<!--v-->
-
-| &nbsp; |
-|-|
-| *wunder* |
-
-<!--v-->
-
-## Legacy Spelling Light
-
-### ǒ ⇒ *ǔ*
-
-<!--v-->
-
-| &nbsp; |
-|-|
-| wǒlf |
-
-<!--v-->
-
-| &nbsp; |
-|-|
-| *wulf* |
-
-<!--v-->
-
-| &nbsp; |
-|-|
-| *wǔlf* |
-
-<!--v-->
-
-## Legacy Spelling Light
-
-### ôo ⇒ *u*
-
-<!--v-->
-
-| &nbsp; |
-|-|
-| flood |
-
-<!--v-->
-
-| &nbsp; |
-|-|
-| flôod |
-
-<!--v-->
-
-| &nbsp; |
-|-|
-| *flud* |
-
-<!--v-->
-
-## Legacy Spelling Light
-
-### ǒo ⇒ *ǔ*
-
-<!--v-->
-
-| &nbsp; |
-|-|
-| book |
-
-<!--v-->
-
-| &nbsp; |
-|-|
-| bǒok |
-
-<!--v-->
-
-| &nbsp; |
-|-|
-| *buck* |
-
-<!--v-->
-
-| &nbsp; |
-|-|
-| *bǔck* |
-
-<!--v-->
-
 ## Legacy Spelling Light
 
 ### or ⇒ *oar*
@@ -3001,6 +2621,10 @@ alone = alloan
 any = äny
 an = än
 a = a
+
+any, many, penny
+money, honey, funny
+very, berry, ferry
 -->
 
 <!-- TODO Fricatives / Plural / Verbs
@@ -3020,8 +2644,6 @@ o̊: do̊ll
 ōe: shue
 ou: fowl
 
-ou: plough
-
 -->
 
 <!-- TODO Plus: ai
@@ -3031,39 +2653,16 @@ boath
 
 -->
 
+
 <!-- TODO
-four → foar
-brawd wawter wāter?
-could, should, would → cud shud wud
+rhotic English         = Northern-ish
+non-rhotic English     = Southern-ish
+rhotic Mid-English     = similar to GenAm
+non-rhotic Mid-English = my accent, similar to Bealtes
 
-* you
-* thou thow
-to, lose, do (tou loose dou) (how dou you dou?)
+But the Beatles rhyme "sure" with "more". That's way too southern-ish for my accent. (I try to say "shua" and "moa".)
 
-sôm sôn (côm?) sômthing
-gon
-
-trew
-trust?
-
-søk: søke
-leuğ leugh: lygh
-
-trust treûst
-
-* truw/trew thruw/threw
-
-Ausweichrechtschreibung: to = tõ → toe
-
-mati > meat → maet → meet
-mot_i > meet
-
-prȧtty prėtty pritty
-
-lëaped ~ lept
-
-meet met met møt
+Plot-twist:
+"sho'" and "mo'" are colloquial/casual/spoken pronunciations. (Same: "a'" for "ire" and "our".)
+In Mid-English (actually not so different from Mid-Atlantic) these borrowings from the south are *less* prestigious(?), less distinct. It's strange, counterintuitive and problematic for a learner to view all the jazziness of southern English as more prestigious. That's why "RP" doesn't seem to work for me as a non-regional, neutral, distinct pronunciation.
 -->
-
-
-
