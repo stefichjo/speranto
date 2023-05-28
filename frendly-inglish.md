@@ -16,10 +16,10 @@ revealOptions:
 <!-- Cf. https://en.wikipedia.org/wiki/SR1?fbclid=IwAR0cAl-_p5aAqWAJvWXJLynb6Rl6p9sYPg7L-yo1UDTgFr0bs8hDS_WTPEw -->
 
 <!--
-ğġǧ
+ğġǧ n̆ w̆
 
 ḁ      ⇒ o
-ạ  ≈ æ ⇒ e
+ạ  ≈ æ ⇒ e ạ̃
 æ̥ ≈ ø ⇒ e
 e̥ ≈ y ⇒ i
 ẹ  ≈ æ ⇒ e
@@ -457,106 +457,200 @@ Notes:
 
 <!--s-->
 
-## Friendly Spelling Plus
+## Spelling Plus
 *(Etymology)*
 
 <!--v-->
 
-## Friendly Spelling Plus
+## Spelling Plus
 
-### ai ≠ ei
-
-<!--v-->
-
-| &nbsp; |
-|-|
-| straight |
+### æ, ø, y ⇒ e, e, i
 
 <!--v-->
 
-| strekht |
-|-|
-| straight |
+| &nbsp; | &nbsp; | &nbsp; |
+|-|-|-|
+| men &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
 
 <!--v-->
 
-| strekht |
-|-|
-| ~~straight~~ |
+| mann_i | &nbsp; | &nbsp; |
+|-|-|-|
+| men &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
 
 <!--v-->
 
-| strekht |
-|-|
-| streight |
-
-Notes:
-* eight
+| mænn | &nbsp; | &nbsp; |
+|-|-|-|
+| men &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
 
 <!--v-->
 
-## Friendly Spelling Plus
-
-### ea, ie ≠ ee
-
-<!--v-->
-
-| &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
-|-|-|
-| steal | &nbsp; |
+| mænn | &nbsp; | &nbsp; |
+|-|-|-|
+| men &nbsp; &nbsp; &nbsp; | fed &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
 
 <!--v-->
 
-| stel | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
-|-|-|
-| steal | &nbsp; |
+| mænn | fød + ed | &nbsp; |
+|-|-|-|
+| men &nbsp; &nbsp; &nbsp; | fed &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
 
 <!--v-->
 
-| stel | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
-|-|-|
-| ~~steal~~ | &nbsp; |
+| mænn | fødĕd | &nbsp; |
+|-|-|-|
+| men &nbsp; &nbsp; &nbsp; | fed &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
 
 <!--v-->
 
-| stel | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
-|-|-|
-| steel | &nbsp; |
+| mænn | fødĕd | &nbsp; |
+|-|-|-|
+| men &nbsp; &nbsp; &nbsp; | fed &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | kin &nbsp; &nbsp; |
 
 <!--v-->
 
-| stel | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
-|-|-|
-| steel | field |
+| mænn | fødĕd | kunj |
+|-|-|-|
+| men &nbsp; &nbsp; &nbsp; | fed &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | kin &nbsp; &nbsp; |
 
 <!--v-->
 
-| stel | felth &nbsp; |
-|-|-|
-| steel | field |
+| mænn | fødĕd | kynn |
+|-|-|-|
+| men &nbsp; &nbsp; &nbsp; | fed &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | kin |
 
 <!--v-->
 
-| stel | felth &nbsp; |
-|-|-|
-| steel | ~~field~~ |
+## Spelling Plus
+
+### ai, au_i, eu ⇒ ea, ea, ee
 
 <!--v-->
 
-| stel | felth &nbsp; |
-|-|-|
-| steel | feeld |
-
-Notes:
-* feeld sheeld
-* wheel
-* reäd weäl
+| &nbsp; | &nbsp; | &nbsp; |
+|-|-|-|
+| deal | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
 
 <!--v-->
 
-## Friendly Spelling Plus
+| dail | &nbsp; | &nbsp; |
+|-|-|-|
+| deal | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
 
-### oa ≠ o_e
+<!--v-->
+
+| dạl | &nbsp; | &nbsp; |
+|-|-|-|
+| deal | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+
+<!--v-->
+
+| dạl | &nbsp; | &nbsp; |
+|-|-|-|
+| deal | dream &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+
+<!--v-->
+
+| dạl | draum_i | &nbsp; |
+|-|-|-|
+| deal | dream &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+
+<!--v-->
+
+| dạl | drḁm_i | &nbsp; |
+|-|-|-|
+| deal | dream &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+
+<!--v-->
+
+| dạl | dræ̥m | &nbsp; |
+|-|-|-|
+| deal | dream &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+
+<!--v-->
+
+| dạl | dræ̥m | &nbsp; |
+|-|-|-|
+| deal | dream &nbsp; &nbsp; | deep &nbsp; |
+
+<!--v-->
+
+| dạl | dræ̥m | deup |
+|-|-|-|
+| deal | dream &nbsp; &nbsp; | deep &nbsp; |
+
+<!--v-->
+
+| dạl | dræ̥m | de̥p |
+|-|-|-|
+| deal | dream &nbsp; &nbsp; | deep &nbsp; |
+
+<!--v-->
+
+## Spelling Plus
+
+### ai, au_i, eu ⇒ oa, i, i
+
+<!--v-->
+
+| &nbsp; | &nbsp; | &nbsp; |
+|-|-|-|
+| boat | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+
+<!--v-->
+
+| bait | &nbsp; | &nbsp; |
+|-|-|-|
+| boat | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+
+<!--v-->
+
+| bạ̃t | &nbsp; | &nbsp; |
+|-|-|-|
+| boat | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+
+<!--v-->
+
+| bạ̃t | &nbsp; | &nbsp; |
+|-|-|-|
+| boat | high &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+
+<!--v-->
+
+| bạ̃t | hauh_i | &nbsp; |
+|-|-|-|
+| boat | high &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+
+<!--v-->
+
+| bạ̃t | hḁh_i | &nbsp; |
+|-|-|-|
+| boat | high &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+
+<!--v-->
+
+| bạ̃t | hæ̥h | &nbsp; |
+|-|-|-|
+| boat | high &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+
+<!--v-->
+
+| bạ̃t | hæ̥h | &nbsp; |
+|-|-|-|
+| boat | high &nbsp; &nbsp; &nbsp; | light &nbsp; &nbsp; &nbsp; |
+
+<!--v-->
+
+| bạ̃t | hæ̥h | leukht |
+|-|-|-|
+| boat | high &nbsp; &nbsp; &nbsp; | light &nbsp; &nbsp; &nbsp; |
+
+<!--v-->
+
+| bạ̃t | hæ̥h | le̥kht |
+|-|-|-|
+| boat | high &nbsp; &nbsp; &nbsp; | light &nbsp; &nbsp; &nbsp; |
 
 <!--v-->
 
@@ -587,47 +681,109 @@ Notes:
 
 <!--v-->
 
-## Friendly Spelling Plus
+## Spelling Plus
 
-### o ≠ õw
-
-<!--v-->
-
-| &nbsp; |
-|-|
-| grow |
+### -å/-o, -ạ/-æ ⇒ -o
 
 <!--v-->
 
-| &nbsp; |
-|-|
-| grõw |
+| &nbsp; | &nbsp; | &nbsp; | &nbsp; |
+|-|-|-|-|
+| so &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
 
 <!--v-->
 
-| gro |
-|-|
-| grõw |
+| swa | &nbsp; | &nbsp; | &nbsp; |
+|-|-|-|-|
+| so &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
 
 <!--v-->
 
-| gro |
-|-|
-| ~~grõw~~ |
+| sw̆å | &nbsp; | &nbsp; | &nbsp; |
+|-|-|-|-|
+| so &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
 
 <!--v-->
 
-| gro |
-|-|
-| gro &nbsp; |
+| sw̆å | &nbsp; | &nbsp; | &nbsp; |
+|-|-|-|-|
+| so &nbsp; &nbsp; | rõw | &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
 
 <!--v-->
 
-## Friendly Spelling Plus
+| sw̆å | ro | &nbsp; | &nbsp; |
+|-|-|-|-|
+| so &nbsp; &nbsp; | rõw | &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+
+<!--v-->
+
+| sw̆å | ro | &nbsp; | &nbsp; |
+|-|-|-|-|
+| so &nbsp; &nbsp; | ~rõw~ | &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+
+<!--v-->
+
+| sw̆å | ro | &nbsp; | &nbsp; |
+|-|-|-|-|
+| so &nbsp; &nbsp; | ro &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+
+<!--v-->
+
+| sw̆å | ro | &nbsp; | &nbsp; |
+|-|-|-|-|
+| so &nbsp; &nbsp; | ro &nbsp; | go &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+
+<!--v-->
+
+| sw̆å | ro | gai | &nbsp; |
+|-|-|-|-|
+| so &nbsp; &nbsp; | ro &nbsp; | go &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+
+<!--v-->
+
+| sw̆å | ro | gạ̃ | &nbsp; |
+|-|-|-|-|
+| so &nbsp; &nbsp; | ro &nbsp; | go &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+
+<!--v-->
+
+| sw̆å | ro | gạ̃ | &nbsp; |
+|-|-|-|-|
+| so &nbsp; &nbsp; | ro &nbsp; | go &nbsp; | mow |
+
+<!--v-->
+
+| sw̆å | ro | gạ̃ | mæ |
+|-|-|-|-|
+| so &nbsp; &nbsp; | ro &nbsp; | go &nbsp; | mow |
+
+<!--v-->
+
+| sw̆å | ro | gạ̃ | mæ~ |
+|-|-|-|-|
+| so &nbsp; &nbsp; | ro &nbsp; | go &nbsp; | mow |
+
+<!--v-->
+
+| sw̆å | ro | gạ̃ | mæ~ |
+|-|-|-|-|
+| so &nbsp; &nbsp; | ro &nbsp; | go &nbsp; | ~mow~ |
+
+<!--v-->
+
+| sw̆å | ro | gạ̃ | mæ~ |
+|-|-|-|-|
+| so &nbsp; &nbsp; | ro &nbsp; | go &nbsp; | mo |
+
+<!--v-->
+
+## Spelling Plus
 
 ### oo ≠ eu
 
 <!--v-->
+
+<!-- TODO new -->
 
 | &nbsp; |
 |-|
@@ -659,139 +815,929 @@ Notes:
 
 <!--v-->
 
-## Friendly Spelling Plus
+## Spelling Plus
 
-### er ≠ ir ≠ or ≠ ur
-
-<!--v-->
-
-| &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
-|-|
-| wǒrth |
+### ô ≠ u
 
 <!--v-->
 
-| werth |
+| sunth + ern |
 |-|
-| wǒrth |
+| sôuthern |
 
 <!--v-->
 
-| werth |
+| sun̆th + ern |
 |-|
-| ~~wǒrth~~ |
+| sôuthern |
 
 <!--v-->
 
-| werth |
+| sun̆thern &nbsp; &nbsp; |
 |-|
-| wörth |
+| sôuthern |
 
 <!--v-->
 
-| werth |
+| sun̆thern &nbsp; &nbsp; |
 |-|
-| werth |
+| ~sôuthern~ |
+
+<!--v-->
+
+| sun̆thern &nbsp; &nbsp; |
+|-|
+| suthern |
+
+<!--v-->
+
+## Spelling Plus
+
+### -ough
+
+<!--v-->
+
+| &nbsp; | &nbsp; |
+|-|-|
+| bôrough | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+
+<!--v-->
+
+| burg | &nbsp; |
+|-|-|
+| bôrough | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+
+<!--v-->
+
+| burğ | &nbsp; |
+|-|-|
+| bôrough | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+
+<!--v-->
+
+| burğ | &nbsp; |
+|-|-|
+| ~bôrough~ | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+
+<!--v-->
+
+| burğ | &nbsp; |
+|-|-|
+| burough | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+
+<!--v-->
+
+| burğ | &nbsp; |
+|-|-|
+| burough | thôrough |
+
+<!--v-->
+
+| burğ | thurh |
+|-|-|
+| burough | thôrough |
+
+<!--v-->
+
+| burğ | thurh |
+|-|-|
+| burough | ~thôrough~ |
+
+<!--v-->
+
+| burğ | thurh |
+|-|-|
+| burough | thurough |
 
 Notes:
-* wörld wörst
+* bʌroʊ BE bʌrə, AE bɜ:roʊ
+<!-- TODO Edge Case worry -->
+
+<!--v-->
+
+## Spelling Plus
+
+### -r
+
+<!--v-->
+
+| &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+|-|-|-|
+| word | &nbsp; | &nbsp; |
+
+<!--v-->
+
+| &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+|-|-|-|
+| wǒrd | &nbsp; | &nbsp; |
+
+<!--v-->
+
+| wurd | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+|-|-|-|
+| wǒrd | &nbsp; | &nbsp; |
+
+<!--v-->
+
+| wurd | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+|-|-|-|
+| wǒrd | world | &nbsp; |
+
+<!--v-->
+
+| wurd | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+|-|-|-|
+| wǒrd | wǒrld | &nbsp; |
+
+<!--v-->
+
+| wurd | werăld | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+|-|-|-|
+| wǒrd | wǒrld | &nbsp; |
+
+<!--v-->
+
+| wurd | werăld | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+|-|-|-|
+| wǒrd | ~~wǒrld~~ | &nbsp; |
+
+<!--v-->
+
+| wurd | werăld | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+|-|-|-|
+| wǒrd | werld | &nbsp; |
+
+<!--v-->
+
+| wurd | werăld | brenn |
+|-|-|-|
+| wǒrd | werld | burn |
+
+<!--v-->
+
+| wurd | werăld | brenn |
+|-|-|-|
+| wǒrd | werld | ~~burn~~ |
+
+<!--v-->
+
+| wurd | werăld | brenn |
+|-|-|-|
+| wǒrd | werld | bern |
+
+<!--v-->
+
+| &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+|-|-|
+| church | &nbsp; |
+
+<!--v-->
+
+| kirk | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+|-|-|
+| church | &nbsp; |
+
+<!--v-->
+
+| ꝁirꝁ | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+|-|-|
+| church | &nbsp; |
+
+<!--v-->
+
+| ꝁirꝁ | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+|-|-|
+| ~~church~~ | &nbsp; |
+
+<!--v-->
+
+| ꝁirꝁ | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+|-|-|
+| chirch | &nbsp; |
+
+<!--v-->
+
+| ꝁirꝁ | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+|-|-|
+| chirch | girl |
+
+<!--v-->
+
+| ꝁirꝁ | gurw + il |
+|-|-|
+| chirch | girl |
+
+<!--v-->
+
+| ꝁirꝁ | gyrwĭl &nbsp; &nbsp; |
+|-|-|
+| chirch | girl |
+
+Notes:
+* wörk wörld wörst wörth
 * bürn bürst
 * chu̇rch
+* gǐrl
 
 <!--s-->
 
-## Simple Friendly Spelling Plus
-*(**Simplified** Corrected Lecacy Spelling, Based on Etymology)*
+## Simple Spelling Plus
+*(Etymology`*`)*
 
 <!--v-->
 
-## Simple Friendly Spelling Plus
+## Simple Spelling Plus
 
-### aigh ⇒ *ay*
-
-<!--v-->
-
-| dag |
-|-|
-| &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+### -å/-o, -ạ/-æ ⇒ -õw
 
 <!--v-->
 
-| dağ |
-|-|
-| daigh |
+| &nbsp; | &nbsp; | &nbsp; | &nbsp; |
+|-|-|-|-|
+| shõw | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
 
 <!--v-->
 
-| *dagh* |
-|-|
-| *day* &nbsp; &nbsp; |
+| skau | &nbsp; | &nbsp; | &nbsp; |
+|-|-|-|-|
+| shõw | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
 
 <!--v-->
 
-## Simple Friendly Spelling Plus
-
-### augh ⇒ *aw*
+| sꝁḁ | &nbsp; | &nbsp; | &nbsp; |
+|-|-|-|-|
+| shõw | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
 
 <!--v-->
 
-| dagen &nbsp; &nbsp; |
-|-|
+| *sho* | &nbsp; | &nbsp; | &nbsp; |
+|-|-|-|-|
+| shõw | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+
+<!--v-->
+
+| *sho* | &nbsp; | &nbsp; | &nbsp; |
+|-|-|-|-|
+| sho &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+
+<!--v-->
+
+| *sho* | &nbsp; | &nbsp; | &nbsp; |
+|-|-|-|-|
+| *shõw* | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+
+<!--v-->
+
+| *sho* | &nbsp; | &nbsp; | &nbsp; |
+|-|-|-|-|
+| *shõw* | grõw | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+
+<!--v-->
+
+| *sho* | gro | &nbsp; | &nbsp; |
+|-|-|-|-|
+| *shõw* | grõw | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+
+<!--v-->
+
+| *sho* | *gro* | &nbsp; | &nbsp; |
+|-|-|-|-|
+| *shõw* | grõw | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+
+<!--v-->
+
+| *sho* | *gro* | &nbsp; | &nbsp; |
+|-|-|-|-|
+| *shõw* | gro &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+
+<!--v-->
+
+| *sho* | *gro* | &nbsp; | &nbsp; |
+|-|-|-|-|
+| *shõw* | *grõw* | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+
+<!--v-->
+
+| *sho* | *gro* | &nbsp; | &nbsp; |
+|-|-|-|-|
+| *shõw* | *grõw* | snõw | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+
+<!--v-->
+
+| *sho* | *gro* | snai | &nbsp; |
+|-|-|-|-|
+| *shõw* | *grõw* | snõw | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+
+<!--v-->
+
+| *sho* | *gro* | snạ | &nbsp; |
+|-|-|-|-|
+| *shõw* | *grõw* | snõw | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+
+<!--v-->
+
+| *sho* | *gro* | *snæ~* | &nbsp; |
+|-|-|-|-|
+| *shõw* | *grõw* | snõw | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+
+<!--v-->
+
+| *sho* | *gro* | *snõ* | &nbsp; |
+|-|-|-|-|
+| *shõw* | *grõw* | snõw | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+
+<!--v-->
+
+| *sho* | *gro* | *snõ* | &nbsp; |
+|-|-|-|-|
+| *shõw* | *grõw* | sno &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+
+<!--v-->
+
+| *sho* | *gro* | *snõ* | &nbsp; |
+|-|-|-|-|
+| *shõw* | *grõw* | *snõw* | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+
+<!--v-->
+
+| *sho* | *gro* | *snõ* | &nbsp; |
+|-|-|-|-|
+| *shõw* | *grõw* | *snõw* | slõw |
+
+<!--v-->
+
+| *sho* | *gro* | *snõ* | slæ |
+|-|-|-|-|
+| *shõw* | *grõw* | *snõw* | slõw |
+
+<!--v-->
+
+| *sho* | *gro* | *snõ* | *slæ~* |
+|-|-|-|-|
+| *shõw* | *grõw* | *snõw* | slõw |
+
+<!--v-->
+
+| *sho* | *gro* | *snõ* | *slõ* |
+|-|-|-|-|
+| *shõw* | *grõw* | *snõw* | slõw |
+
+<!--v-->
+
+| *sho* | *gro* | *snõ* | *slõ* |
+|-|-|-|-|
+| *shõw* | *grõw* | *snõw* | slo &nbsp; |
+
+<!--v-->
+
+| *sho* | *gro* | *snõ* | *slõ* |
+|-|-|-|-|
+| *shõw* | *grõw* | *snõw* | *slõw* |
+
+<!--v-->
+
+## Simple Spelling Plus
+
+### e_e ⇒ *ee*
+
+<!--v-->
+
+| &nbsp; | &nbsp; | &nbsp; |
+|-|-|-|
+| field &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+
+<!--v-->
+
+| felth | &nbsp; | &nbsp; |
+|-|-|-|
+| field &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+
+<!--v-->
+
+| *felde* | &nbsp; | &nbsp; |
+|-|-|-|
+| field &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+
+<!--v-->
+
+| *felde* | &nbsp; | &nbsp; |
+|-|-|-|
+| ~field~ &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+
+<!--v-->
+
+| *felde* | &nbsp; | &nbsp; |
+|-|-|-|
+| felde | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+
+<!--v-->
+
+| *felde* | &nbsp; | &nbsp; |
+|-|-|-|
+| *feeld* | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+
+<!--v-->
+
+| *felde* | &nbsp; | &nbsp; |
+|-|-|-|
+| *feeld* | street &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+
+<!--v-->
+
+| *felde* | strat_i | &nbsp; |
+|-|-|-|
+| *feeld* | street &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+
+<!--v-->
+
+| *felde* | stræt &nbsp; | &nbsp; |
+|-|-|-|
+| *feeld* | street &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+
+<!--v-->
+
+| *felde* | *stræte* | &nbsp; |
+|-|-|-|
+| *feeld* | street &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+
+<!--v-->
+
+| *felde* | *stræte* | &nbsp; |
+|-|-|-|
+| *feeld* | *street* &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+
+<!--v-->
+
+| *felde* | *stræte* | &nbsp; |
+|-|-|-|
+| *feeld* | *street* &nbsp; | green &nbsp; |
+
+<!--v-->
+
+| *felde* | *stræte* | gron_i |
+|-|-|-|
+| *feeld* | *street* &nbsp; | green &nbsp; |
+
+<!--v-->
+
+| *felde* | *stræte* | grøn |
+|-|-|-|
+| *feeld* | *street* &nbsp; | green &nbsp; |
+
+<!--v-->
+
+| *felde* | *stræte* | *grøne* |
+|-|-|-|
+| *feeld* | *street* &nbsp; | green &nbsp; |
+
+<!--v-->
+
+| *felde* | *stræte* | *grøne* |
+|-|-|-|
+| *feeld* | *street* &nbsp; | *green* &nbsp; |
+
+<!--v-->
+
+## Simple Spelling Plus
+
+### igh, õugh ⇒ *y*, *õw*
+
+<!--v-->
+
+| dağ | &nbsp; | &nbsp; |
+|-|-|-|
+| daigh | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+
+<!--v-->
+
+| *dagh* | &nbsp; | &nbsp; |
+|-|-|-|
+| daigh | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+
+<!--v-->
+
+| *dagh* | &nbsp; | &nbsp; |
+|-|-|-|
+| *day* &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+
+<!--v-->
+
+| *dagh* | nağel | &nbsp; |
+|-|-|-|
+| *day* &nbsp; &nbsp; | naighel | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+
+<!--v-->
+
+| *dagh* | *naghel* | &nbsp; |
+|-|-|-|
+| *day* &nbsp; &nbsp; | naighel | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+
+<!--v-->
+
+| *dagh* | *naghel* | &nbsp; |
+|-|-|-|
+| *day* &nbsp; &nbsp; | *nail* &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+
+<!--v-->
+
+| *dagh* | *naghel* | mağen |
+|-|-|-|
+| *day* &nbsp; &nbsp; | *nail* &nbsp; &nbsp; &nbsp; | maighen |
+
+<!--v-->
+
+| *dagh* | *naghel* | *maghen* |
+|-|-|-|
+| *day* &nbsp; &nbsp; | *nail* &nbsp; &nbsp; &nbsp; | maighen |
+
+<!--v-->
+
+| *dagh* | *naghel* | *maghen* |
+|-|-|-|
+| *day* &nbsp; &nbsp; | *nail* &nbsp; &nbsp; &nbsp; | *main* &nbsp; &nbsp; &nbsp; |
+
+<!--v-->
+
+| lag &nbsp; | &nbsp; | &nbsp; |
+|-|-|-|
+| lõugh | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+
+<!--v-->
+
+| låğ &nbsp; | &nbsp; | &nbsp; |
+|-|-|-|
+| lõugh | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+
+<!--v-->
+
+| *logh* | &nbsp; | &nbsp; |
+|-|-|-|
+| lõugh | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+
+<!--v-->
+
+| *logh* | &nbsp; | &nbsp; |
+|-|-|-|
+| *lõw* &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+
+<!--v-->
+
+| *logh* | fugl | &nbsp; |
+|-|-|-|
+| *lõw* &nbsp; &nbsp; | foughel | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+
+<!--v-->
+
+| *logh* | fũğl | &nbsp; |
+|-|-|-|
+| *lõw* &nbsp; &nbsp; | foughel | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+
+<!--v-->
+
+| *logh* | *fũghel* | &nbsp; |
+|-|-|-|
+| *lõw* &nbsp; &nbsp; | foughel | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+
+<!--v-->
+
+| *logh* | *fũghel* | &nbsp; |
+|-|-|-|
+| *lõw* &nbsp; &nbsp; | *fowl* &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+
+<!--v-->
+
+| *logh* | *fũghel* | dagen |
+|-|-|-|
+| *lõw* &nbsp; &nbsp; | *fowl* &nbsp; &nbsp; &nbsp; | daughen |
+
+<!--v-->
+
+| *logh* | *fũghel* | daǧen |
+|-|-|-|
+| *lõw* &nbsp; &nbsp; | *fowl* &nbsp; &nbsp; &nbsp; | daughen |
+
+<!--v-->
+
+| *logh* | *fũghel* | *daǧhen* |
+|-|-|-|
+| *lõw* &nbsp; &nbsp; | *fowl* &nbsp; &nbsp; &nbsp; | daughen |
+
+<!--v-->
+
+| *logh* | *fũghel* | *daǧhen* |
+|-|-|-|
+| *lõw* &nbsp; &nbsp; | *fowl* &nbsp; &nbsp; &nbsp; | *dawn* &nbsp; &nbsp; &nbsp; |
+
+<!--v-->
+
+| fleug | &nbsp; | &nbsp; |
+|-|-|-|
+| fligh | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+
+<!--v-->
+
+| fle̥ğ | &nbsp; | &nbsp; |
+|-|-|-|
+| fligh &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+
+<!--v-->
+
+| *flygh* | &nbsp; | &nbsp; |
+|-|-|-|
+| fligh &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+
+<!--v-->
+
+| *flygh* | &nbsp; | &nbsp; |
+|-|-|-|
+| *fly* &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+
+<!--v-->
+
+| *flygh* | fleug | &nbsp; |
+|-|-|-|
+| *fly* &nbsp; &nbsp; &nbsp; | fleugh | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+
+<!--v-->
+
+| *flygh* | fleuğ | &nbsp; |
+|-|-|-|
+| *fly* &nbsp; &nbsp; &nbsp; | fleugh | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+
+<!--v-->
+
+| *flygh* | *fleugh* | &nbsp; |
+|-|-|-|
+| *fly* &nbsp; &nbsp; &nbsp; | fleugh | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+
+<!--v-->
+
+| *flygh* | *fleugh* | &nbsp; |
+|-|-|-|
+| *fly* &nbsp; &nbsp; &nbsp; | *flew* &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+
+<!--v-->
+
+| *flygh* | *fleugh* | flogen |
+|-|-|-|
+| *fly* &nbsp; &nbsp; &nbsp; | *flew* &nbsp; &nbsp; | flõughen |
+
+<!--v-->
+
+| *flygh* | *fleugh* | floğen |
+|-|-|-|
+| *fly* &nbsp; &nbsp; &nbsp; | *flew* &nbsp; &nbsp; | flõughen |
+
+<!--v-->
+
+| *flygh* | *fleugh* | *floghen* |
+|-|-|-|
+| *fly* &nbsp; &nbsp; &nbsp; | *flew* &nbsp; &nbsp; | flõughen |
+
+<!--v-->
+
+| *flygh* | *fleugh* | *floghen* |
+|-|-|-|
+| *fly* &nbsp; &nbsp; &nbsp; | *flew* &nbsp; &nbsp; | *flõwn* &nbsp; &nbsp; &nbsp; |
+
+Notes:
+* õughen → õwn
+
+<!--v-->
+
+## Simple Spelling Plus
+
+### -igh, -õugh ⇒ *-y*, *-ow*
+
+<!--v-->
+
+| happiğ | &nbsp; |
+|-|-|
+| happigh | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+
+<!--v-->
+
+| *happigh* | &nbsp; |
+|-|-|
+| happigh | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+
+<!--v-->
+
+| *happigh* | &nbsp; |
+|-|-|
+| *happy* | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+
+<!--v-->
+
+| *happigh* | frendlikh |
+|-|-|
+| *happy* | frendligh |
+
+<!--v-->
+
+| *happigh* | *frendligh* |
+|-|-|
+| *happy* | frendligh |
+
+<!--v-->
+
+| *happigh* | *frendligh* |
+|-|-|
+| *happy* | *frendly* |
+
+<!--v-->
+
 | &nbsp; |
-
-<!--v-->
-
-| dagen |
 |-|
-| daughen |
+| borrow &nbsp; |
 
 <!--v-->
 
-| daǧen |
+| borg |
 |-|
-| daughen |
+| borrow &nbsp; |
 
 <!--v-->
 
-| *daǧhen* |
+| borğ |
 |-|
-| *dawn* &nbsp; &nbsp; &nbsp; |
+| borrow &nbsp; |
 
 <!--v-->
 
-## Simple Friendly Spelling Plus
-
-### eigh ⇒ *ey*
-
-<!--v-->
-
-| weg &nbsp; |
+| *borgh* |
 |-|
-| &nbsp; |
+| borrow &nbsp; |
 
 <!--v-->
 
-| weğ |
+| *borgh* |
 |-|
-| weigh |
+| borough |
 
 <!--v-->
 
-| *wegh* |
+| *borgh* |
 |-|
-| *wey* &nbsp; &nbsp; |
+| *borrow* &nbsp; |
+
+<!--s-->
+
+## Spelling Lite
+*(May Contain Traces of Etymology)*
 
 <!--v-->
 
-## Simple Friendly Spelling Plus
+## Spelling Lite
 
-### õugh ⇒ *õw*
+### aigh ⇒ *ai*
+
+<!--v-->
+
+| &nbsp; &nbsp; &nbsp; &nbsp; |
+|-|
+| wait &nbsp; &nbsp; |
+
+<!--v-->
+
+| waht |
+|-|
+| wait &nbsp; &nbsp; |
+
+<!--v-->
+
+| *waght* |
+|-|
+| wait &nbsp; &nbsp; |
+
+<!--v-->
+
+| *waght* |
+|-|
+| waight |
+
+<!--v-->
+
+| *waght* |
+|-|
+| *wait* |
+
+<!--v-->
+
+## Spelling Lite
+
+### eigh ⇒ *ei* ⇒ *ai*
+
+<!--v-->
+
+| *wegh* | &nbsp; | &nbsp; |
+|-|-|-|
+| weigh | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+
+<!--v-->
+
+| *wegh* | &nbsp; | &nbsp; |
+|-|-|-|
+| *wey* &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+
+<!--v-->
+
+| *wegh* | &nbsp; | &nbsp; |
+|-|-|-|
+| *way* &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+
+<!--v-->
+
+| *wegh* | *seghel* | &nbsp; |
+|-|-|-|
+| *way* &nbsp; &nbsp; | seighel | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+
+<!--v-->
+
+| *wegh* | *seghel* | &nbsp; |
+|-|-|-|
+| *way* &nbsp; &nbsp; | *seil* &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+
+<!--v-->
+
+| *wegh* | *seghel* | &nbsp; |
+|-|-|-|
+| *way* &nbsp; &nbsp; | *sail* &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+
+<!--v-->
+
+| *wegh* | *seghel* | *reghen* |
+|-|-|-|
+| *way* &nbsp; &nbsp; | *sail* &nbsp; &nbsp; &nbsp; | reighen |
+
+<!--v-->
+
+| *wegh* | *seghel* | *reghen* |
+|-|-|-|
+| *way* &nbsp; &nbsp; | *sail* &nbsp; &nbsp; &nbsp; | *rein* &nbsp; &nbsp; &nbsp; |
+
+<!--v-->
+
+| *wegh* | *seghel* | *reghen* |
+|-|-|-|
+| *way* &nbsp; &nbsp; | *sail* &nbsp; &nbsp; &nbsp; | *rain* &nbsp; &nbsp; &nbsp; |
+
+Notes:
+* gray
+
+<!--v-->
+
+## Spelling Lite
+
+### igh ⇒ *i*
+
+<!--v-->
+
+| lingkht |
+|-|
+| light &nbsp; &nbsp; &nbsp; |
+
+<!--v-->
+
+| lin̆ğkht |
+|-|
+| light &nbsp; &nbsp; &nbsp; |
+
+<!--v-->
+
+| *light* |
+|-|
+| light &nbsp; &nbsp; &nbsp; |
+
+<!--v-->
+
+| *light* |
+|-|
+| *lite* &nbsp; &nbsp; &nbsp; &nbsp; |
+
+<!--v-->
+
+| *høgh* |
+|-|
+| high |
+
+<!--v-->
+
+| *høgh* |
+|-|
+| *hi* |
+
+<!--v-->
+
+## Spelling Lite
+
+### -õugh ⇒ *-o*
 
 <!--v-->
 
 | thaukh |
 |-|
-| though |
+| thõugh |
 
 <!--v-->
 
@@ -803,193 +1749,94 @@ Notes:
 
 | *thogh* |
 |-|
-| *thõw* |
+| thõugh |
+
+<!--v-->
+
+| *thogh* |
+|-|
+| *tho* &nbsp; &nbsp; &nbsp; &nbsp; |
+
+<!--v-->
+
+## Spelling Lite
+
+### *-õw* ⇒ *-o*
+
+<!--v-->
+
+| *logh* |
+|-|
+| lõugh |
+
+<!--v-->
+
+| *logh* |
+|-|
+| *lõw* &nbsp; &nbsp; |
+
+<!--v-->
+
+| *logh* |
+|-|
+| *lo* &nbsp; &nbsp; &nbsp; |
+
+<!--v-->
+
+| *logh* | *slõ* | *fro* |
+|-|-|-|
+| *lo* &nbsp; &nbsp; &nbsp; | *slo* | *fo* |
+
+<!--v-->
+
+## Spelling Lite
+
+### oa ⇒ *o*
+
+<!--v-->
+
+| hạ̃m |
+|-|
+| hoam |
+
+<!--v-->
+
+| *hæm~* |
+|-|
+| hoam |
+
+<!--v-->
+
+| *hõm* |
+|-|
+| hoam |
+
+<!--v-->
+
+| *hõm* |
+|-|
+| *home* |
 
 Notes:
-* bõw (bug) lõw (leg)
+* hoam → home, stoan → stone
+* wait
+* lite, nite
+* hi, I
+* lo, tho, donut
+
+<!-- TODO -gh -->
+<!-- TODO æ=õ ø (y): do(nut) hi; go no so;  -->
+<!-- TODO æ=õ home -->
 
 <!--v-->
 
-## Simple Friendly Spelling Plus
+<!-- TODO k h kh → - -->
+<!-- TODO lite wait -->
+<!-- TODO high → hie/high? thie/thigh -->
 
-### *-õ*
+<!--s-->
 
-<!--v-->
-
-| faih | gai | naiw | raihw | taihw |
-|-|-|-|-|-|
-| &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
-
-| swa | mæ &nbsp; &nbsp; | ro &nbsp; &nbsp; |
-|-|-|-|
-| &nbsp; | &nbsp; | &nbsp; |
-
-<!--v-->
-
-| faih | gai | naiw | raihw | taihw |
-|-|-|-|-|-|
-| foe | go | no | row | toe |
-
-| swa | mæ &nbsp; &nbsp; | ro &nbsp; &nbsp; |
-|-|-|-|
-| so | mow | row |
-
-<!--v-->
-
-| faih | gai | naiw | raihw | taihw |
-|-|-|-|-|-|
-| foe | go | no | rõw | toe |
-
-| swa | mæ &nbsp; &nbsp; | ro &nbsp; &nbsp; |
-|-|-|-|
-| so | mõw | rõw |
-
-<!--v-->
-
-| faih | gai | naiw | raihw | taihw |
-|-|-|-|-|-|
-| ~~foe~~ | go | no | ~~rõw~~ | ~~toe~~ |
-
-| swa | mæ &nbsp; &nbsp; | ro &nbsp; &nbsp; |
-|-|-|-|
-| so | ~~mõw~~ | ~~rõw~~ |
-
-<!--v-->
-
-| faih | gai | naiw | raihw | taihw |
-|-|-|-|-|-|
-| *fo* | go | no | *ro* | *to* |
-
-| swa | mæ &nbsp; &nbsp; | ro &nbsp; &nbsp; |
-|-|-|-|
-| so | *mo* | *ro* |
-
-Notes:
-* tǒ/tō
-<!-- TODO really? -->
-
-<!--v-->
-
-## Simple Friendly Spelling Plus
-
-### *-õw*
-
-<!--v-->
-
-| snaiw | blæ | slæw | skauw | thaukh |
-|-|-|-|-|-|
-| &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
-
-| fra &nbsp; | flo | glo | gro |
-|-|-|-|-|
-| &nbsp; | &nbsp; | &nbsp; | &nbsp; |
-
-<!--v-->
-
-| snaiw | blæ | slæw | skauw | thaukh |
-|-|-|-|-|-|
-| snow | blow | slow | show | though |
-
-| fra &nbsp; | flo | glo | gro |
-|-|-|-|-|
-| fro | flow | glow | grow |
-
-<!--v-->
-
-| snaiw | blæ | slæw | skauw | thaukh |
-|-|-|-|-|-|
-| snõw | blõw | slõw | shõw | thõugh |
-
-| fra &nbsp; | flo | glo | gro |
-|-|-|-|-|
-| fro | flõw | glõw | grõw |
-
-<!--v-->
-
-| snaiw | blæ | slæw | skauw | thaukh |
-|-|-|-|-|-|
-| snõw | blõw | slõw | shõw | ~~thõugh~~ |
-
-| fra &nbsp; | flo | glo | gro |
-|-|-|-|-|
-| ~~fro~~ | flõw | glõw | grõw |
-
-<!--v-->
-
-| snaiw | blæ | slæw | skauw | thaukh |
-|-|-|-|-|-|
-| snõw | blõw | slõw | shõw | *thõw* |
-
-| fra | flo | glo | gro |
-|-|-|-|-|
-| *frõw* | flõw | glõw | grõw |
-
-Notes:
-* knew
-
-<!--v-->
-
-## Simple Friendly Spelling Plus
-
-### -õugh ⇒ *-õw*
-
-<!--v-->
-
-| &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
-|-|
-| tōmorrow |
-
-<!--v-->
-
-| tomorg &nbsp; &nbsp; &nbsp; &nbsp; |
-|-|
-| tōmorrow |
-
-<!--v-->
-
-| tomorg &nbsp; &nbsp; &nbsp; &nbsp; |
-|-|
-| ~tōmorrow~ |
-
-<!--v-->
-
-| tomorg |
-|-|
-| tōmorrough |
-
-<!--v-->
-
-| *tomorgh* &nbsp; &nbsp; &nbsp; |
-|-|
-| *tōmorrow* |
-
-<!--v-->
-
-## Simple Friendly Spelling Plus
-
-### -igh ⇒ *-y*
-
-<!--v-->
-
-| happig |
-|-|
-| &nbsp; |
-
-<!--v-->
-
-| happig |
-|-|
-| happigh |
-
-<!--v-->
-
-| *happigh* |
-|-|
-| *happy* |
-
-<!--v-->
-
-## Simple Friendly Spelling Plus
+## Simple Spelling Plus
 
 ### å ⇒ *o*
 
@@ -1013,7 +1860,7 @@ Notes:
 
 <!--v-->
 
-## Simple Friendly Spelling Plus
+## Simple Spelling Plus
 
 ### ů ⇒ *o*
 
@@ -1037,7 +1884,7 @@ Notes:
 
 <!--v-->
 
-## Simple Friendly Spelling Plus
+## Simple Spelling Plus
 
 ### ḁ ⇒ *oo*
 
@@ -1067,7 +1914,7 @@ Notes:
 
 <!--v-->
 
-## Simple Friendly Spelling Plus
+## Simple Spelling Plus
 
 ### k ⇒ *c*
 
@@ -1085,31 +1932,7 @@ Notes:
 
 <!--v-->
 
-## Simple Friendly Spelling Plus
-
-### k ⇒ *ch*
-
-<!--v-->
-
-| kirk &nbsp; &nbsp; |
-|-|
-| |
-
-<!--v-->
-
-| ꝁirꝁ &nbsp; &nbsp; |
-|-|
-| |
-
-<!--v-->
-
-| *chirch* |
-|-|
-| |
-
-<!--v-->
-
-## Simple Friendly Spelling Plus
+## Simple Spelling Plus
 
 ### sk ⇒ *sh*
 
@@ -1133,7 +1956,7 @@ Notes:
 
 <!--v-->
 
-## Simple Friendly Spelling Plus
+## Simple Spelling Plus
 
 ### kht ⇒ *ght*
 
@@ -1172,7 +1995,7 @@ Notes:
 
 <!--v-->
 
-## Simple Friendly Spelling Plus
+## Simple Spelling Plus
 
 ### g ⇒ *gh*
 
@@ -1196,7 +2019,7 @@ Notes:
 
 <!--v-->
 
-## Simple Friendly Spelling Plus
+## Simple Spelling Plus
 
 ### -lik ⇒ *-ligh*
 
@@ -1226,7 +2049,7 @@ Notes:
 
 <!--v-->
 
-## Simple Friendly Spelling Plus
+## Simple Spelling Plus
 
 ### th ⇒ *d*
 
@@ -1250,7 +2073,7 @@ Notes:
 
 <!--v-->
 
-## Simple Friendly Spelling Plus
+## Simple Spelling Plus
 
 ### æ ≈ ø ≈ e
 
@@ -1326,7 +2149,7 @@ Notes:
 
 <!--v-->
 
-## Simple Friendly Spelling Plus
+## Simple Spelling Plus
 
 ### ạ ⇒ *æ*  ≈  æ̥ ⇒ *ø*
 
@@ -2598,6 +3421,242 @@ Notes:
 * alone → aloan; one <!-- TODO "wan"? ≠ "won"? -->
 * boat goat loathe road
 
+<!--v-->
+
+## Spelling Plus
+
+### ea, ie ≠ ee
+
+<!--v-->
+
+| &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+|-|-|
+| steal | &nbsp; |
+
+<!--v-->
+
+| stel | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+|-|-|
+| steal | &nbsp; |
+
+<!--v-->
+
+| stel | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+|-|-|
+| ~~steal~~ | &nbsp; |
+
+<!--v-->
+
+| stel | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+|-|-|
+| steel | &nbsp; |
+
+<!--v-->
+
+| stel | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+|-|-|
+| steel | field |
+
+<!--v-->
+
+| stel | felth &nbsp; |
+|-|-|
+| steel | field |
+
+<!--v-->
+
+| stel | felth &nbsp; |
+|-|-|
+| steel | ~~field~~ |
+
+<!--v-->
+
+| stel | felth &nbsp; |
+|-|-|
+| steel | feeld |
+
+Notes:
+* feeld sheeld
+* wheel
+* rëad wëal
+
+<!--v-->
+
+| &nbsp; | &nbsp; |
+|-|-|
+| home | &nbsp; &nbsp; &nbsp; &nbsp; |
+
+<!--v-->
+
+| haim | &nbsp; |
+|-|-|
+| home | &nbsp; &nbsp; &nbsp; &nbsp; |
+
+<!--v-->
+
+| haim | &nbsp; |
+|-|-|
+| ~~home~~ | &nbsp; &nbsp; &nbsp; &nbsp; |
+
+<!--v-->
+
+| haim | &nbsp; |
+|-|-|
+| hoam | &nbsp; &nbsp; &nbsp; &nbsp; |
+
+<!--v-->
+
+| haim | &nbsp; |
+|-|-|
+| hoam | boat |
+
+<!--v-->
+
+| haim | bait |
+|-|-|
+| hoam | boat |
+
+<!--v-->
+
+| &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+|-|-|
+| bow | &nbsp; |
+
+<!--v-->
+
+| &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+|-|-|
+| bõw | &nbsp; |
+
+<!--v-->
+
+| bug &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+|-|-|
+| bõw | &nbsp; |
+
+<!--v-->
+
+| bůğ &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+|-|-|
+| bõw | &nbsp; |
+
+<!--v-->
+
+| bůğ &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+|-|-|
+| ~~bõw~~ | &nbsp; |
+
+<!--v-->
+
+| bůğ &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+|-|-|
+| bõugh | &nbsp; |
+
+<!--v-->
+
+| bůğ &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+|-|-|
+| bõugh | though |
+
+<!--v-->
+
+| bůğ &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+|-|-|
+| bõugh | thõugh |
+
+<!--v-->
+
+| bůğ &nbsp; &nbsp; &nbsp; | thaukh |
+|-|-|
+| bõugh | thõugh |
+
+<!--v-->
+
+| bůğ &nbsp; &nbsp; &nbsp; | thḁkh &nbsp; |
+|-|-|
+| bõugh | thõugh |
+
+<!--v-->
+
+| ek |
+|-|
+| I |
+
+<!--v-->
+
+| ėkh |
+|-|
+| I |
+
+<!--v-->
+
+| *igh* |
+|-|
+| I |
+
+<!--v-->
+
+| *igh* |
+|-|
+| igh |
+
+<!--v-->
+
+| *igh* |
+|-|
+| *I* |
+
+<!-- TODO edge case: straight -->
+
+<!--v-->
+
+## Spelling Plus
+
+### ai ≠ ei
+
+<!--v-->
+
+| &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+|-|
+| eight |
+
+<!--v-->
+
+| akht |
+|-|
+| eight |
+
+<!--v-->
+
+| akht |
+|-|
+| ~~eight~~ |
+
+<!--v-->
+
+| akht |
+|-|
+| aight |
+
+<!--v-->
+
+| *dæghnut* |
+|-|
+| dõughnut |
+
+<!--v-->
+
+| *dæghnut* |
+|-|
+| *dõwnut* &nbsp; &nbsp; |
+
+<!--v-->
+
+| *dæghnut* |
+|-|
+| *donut* &nbsp; &nbsp; &nbsp; |
+
+
 
 <!-- TODO Non-Germanic Spelling
 mouve
@@ -2666,3 +3725,7 @@ Plot-twist:
 "sho'" and "mo'" are colloquial/casual/spoken pronunciations. (Same: "a'" for "ire" and "our".)
 In Mid-English (actually not so different from Mid-Atlantic) these borrowings from the south are *less* prestigious(?), less distinct. It's strange, counterintuitive and problematic for a learner to view all the jazziness of southern English as more prestigious. That's why "RP" doesn't seem to work for me as a non-regional, neutral, distinct pronunciation.
 -->
+
+<!-- Edge Case: makhed maighed made (maid) -->
+
+<!-- Edge Case: taih toe tõugh≠tuff, faih foe fõugh, raih row rõugh≠ruff -->
