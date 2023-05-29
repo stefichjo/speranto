@@ -1907,12 +1907,113 @@ Notes:
 * hi, I
 * lo, tho, donut
 
-<!-- TODO -gh -->
-<!-- TODO æ=õ ø (y): do(nut) hi; go no so;  -->
-<!-- TODO æ=õ home -->
-<!-- TODO k h kh → - -->
-<!-- TODO lite wait -->
-<!-- TODO high → hie/high? thie/thigh -->
+<!--v-->
+
+## Spelling Lite
+
+### -ew ⇒ *-u*
+
+<!--v-->
+
+| &nbsp; | &nbsp; |
+|-|-|
+| new | &nbsp; &nbsp; &nbsp; &nbsp; |
+
+<!--v-->
+
+| neu | &nbsp; |
+|-|-|
+| new | &nbsp; &nbsp; &nbsp; &nbsp; |
+
+<!--v-->
+
+| neu | &nbsp; |
+|-|-|
+| *new* | &nbsp; &nbsp; &nbsp; &nbsp; |
+
+<!--v-->
+
+| neu | &nbsp; |
+|-|-|
+| *nu* | &nbsp; &nbsp; &nbsp; &nbsp; |
+
+<!--v-->
+
+| neu | &nbsp; |
+|-|-|
+| *nu* | true |
+
+<!--v-->
+
+| neu | treu |
+|-|-|
+| *nu* | true |
+
+<!--v-->
+
+| neu | treu |
+|-|-|
+| *nu* | ~true~ |
+
+<!--v-->
+
+| neu | treu |
+|-|-|
+| *nu* | trew |
+
+<!--v-->
+
+| neu | treu |
+|-|-|
+| *nu* | *trew* |
+
+<!--v-->
+
+| neu | treu |
+|-|-|
+| *nu* | *tru* |
+
+<!--v-->
+
+## Spelling Lite
+
+### -ōugh ⇒ *-u*
+
+<!--v-->
+
+| &nbsp; |
+|-|
+| thrōugh |
+
+<!--v-->
+
+| thurh |
+|-|
+| thrōugh |
+
+<!--v-->
+
+| thruh |
+|-|
+| thrōugh |
+
+<!--v-->
+
+| *thrugh* |
+|-|
+| thrōugh |
+
+<!--v-->
+
+| *thrugh* |
+|-|
+| *thrōugh* |
+
+<!--v-->
+
+| *thrugh* |
+|-|
+| *thru* &nbsp; &nbsp; &nbsp; |
 
 <!--s-->
 
@@ -2543,42 +2644,6 @@ Notes:
 | *høgh* | *lyght* |
 |-|-|
 | high &nbsp; &nbsp; &nbsp; | light &nbsp; &nbsp; &nbsp; |
-
-<!--v-->
-
-## I-Mutation
-
-### e̥ ⇒ u
-
-<!--v-->
-
-| &nbsp; | &nbsp; |
-|-|-|
-| new | true &nbsp; |
-
-<!--v-->
-
-| neu | &nbsp; |
-|-|-|
-| new | true &nbsp; |
-
-<!--v-->
-
-| neu | treu |
-|-|-|
-| new | true &nbsp; |
-
-<!--v-->
-
-| neu | treu |
-|-|-|
-| new | ~true~ &nbsp; |
-
-<!--v-->
-
-| neu | treu |
-|-|-|
-| new | trew &nbsp; |
 
 <!--s-->
 
