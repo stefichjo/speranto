@@ -510,15 +510,25 @@ Notes:
 
 <!--v-->
 
+| mænn | fødĕd | &nbsp; |
+|-|-|-|
+| men &nbsp; &nbsp; &nbsp; | *fed* &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | kin &nbsp; &nbsp; |
+
+Notes:
+* cf. Verbs + Simple Re-Spelling
+* Wødăn's dagh
+
+<!--v-->
+
 | mænn | fødĕd | kunj |
 |-|-|-|
-| men &nbsp; &nbsp; &nbsp; | fed &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | kin &nbsp; &nbsp; |
+| men &nbsp; &nbsp; &nbsp; | *fed* &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | kin &nbsp; &nbsp; |
 
 <!--v-->
 
 | mænn | fødĕd | kynn |
 |-|-|-|
-| men &nbsp; &nbsp; &nbsp; | fed &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | kin |
+| men &nbsp; &nbsp; &nbsp; | *fed* &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | kin |
 
 <!--v-->
 
@@ -555,61 +565,61 @@ Notes:
 
 | &nbsp; | &nbsp; | &nbsp; |
 |-|-|-|
-| deal | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+| heal | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
 
 <!--v-->
 
-| dail | &nbsp; | &nbsp; |
+| hail | &nbsp; | &nbsp; |
 |-|-|-|
-| deal | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+| heal | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
 
 <!--v-->
 
-| dạl | &nbsp; | &nbsp; |
+| hạl | &nbsp; | &nbsp; |
 |-|-|-|
-| deal | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+| heal | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
 
 <!--v-->
 
-| dạl | &nbsp; | &nbsp; |
+| hạl | &nbsp; | &nbsp; |
 |-|-|-|
-| deal | dream &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+| heal | dream &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
 
 <!--v-->
 
-| dạl | draum_i | &nbsp; |
+| hạl | draum_i | &nbsp; |
 |-|-|-|
-| deal | dream &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+| heal | dream &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
 
 <!--v-->
 
-| dạl | drḁm_i | &nbsp; |
+| hạl | drḁm_i | &nbsp; |
 |-|-|-|
-| deal | dream &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+| heal | dream &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
 
 <!--v-->
 
-| dạl | dræ̥m | &nbsp; |
+| hạl | dræ̥m | &nbsp; |
 |-|-|-|
-| deal | dream &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+| heal | dream &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
 
 <!--v-->
 
-| dạl | dræ̥m | &nbsp; |
+| hạl | dræ̥m | &nbsp; |
 |-|-|-|
-| deal | dream &nbsp; &nbsp; | deep &nbsp; |
+| heal | dream &nbsp; &nbsp; | deep &nbsp; |
 
 <!--v-->
 
-| dạl | dræ̥m | deup |
+| hạl | dræ̥m | deup |
 |-|-|-|
-| deal | dream &nbsp; &nbsp; | deep &nbsp; |
+| heal | dream &nbsp; &nbsp; | deep &nbsp; |
 
 <!--v-->
 
-| dạl | dræ̥m | de̥p |
+| hạl | dræ̥m | de̥p |
 |-|-|-|
-| deal | dream &nbsp; &nbsp; | deep &nbsp; |
+| heal | dream &nbsp; &nbsp; | deep &nbsp; |
 
 <!--v-->
 
@@ -1068,7 +1078,7 @@ Notes:
 
 ## Simple Re-Spelling
 
-### -å/-o, -ạ/-æ ⇒ -õw
+### -å/-o, -ạ/-æ ⇒ *-õw*
 
 <!--v-->
 
@@ -1329,6 +1339,126 @@ Notes:
 | *felde* | *stræte* | *grøne* |
 |-|-|-|
 | *feeld* | *street* &nbsp; | *green* &nbsp; |
+
+<!--v-->
+
+## Simple Re-Spelling
+
+### ëa, ëe ⇒ *e*
+
+<!--v-->
+
+| &nbsp; | &nbsp; | &nbsp; |
+|-|-|-|
+| hëalth &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+
+<!--v-->
+
+| hail + th | &nbsp; | &nbsp; |
+|-|-|-|
+| hëalth &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+
+<!--v-->
+
+| hạl + th | &nbsp; | &nbsp; |
+|-|-|-|
+| hëalth &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+
+<!--v-->
+
+| *hæle* + *th* | &nbsp; | &nbsp; |
+|-|-|-|
+| hëalth &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+
+<!--v-->
+
+| *hælth* | &nbsp; | &nbsp; |
+|-|-|-|
+| hëalth &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+
+<!--v-->
+
+| *hælth* | &nbsp; | &nbsp; |
+|-|-|-|
+| *helth* &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+
+<!--v-->
+
+| *hælth* | &nbsp; | &nbsp; |
+|-|-|-|
+| *helth* &nbsp; &nbsp; &nbsp; &nbsp; | brëad &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+
+<!--v-->
+
+| *hælth* | brauth_i | &nbsp; |
+|-|-|-|
+| *helth* &nbsp; &nbsp; &nbsp; &nbsp; | brëad &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+
+<!--v-->
+
+| *hælth* | brḁđ_i | &nbsp; |
+|-|-|-|
+| *helth* &nbsp; &nbsp; &nbsp; &nbsp; | brëad &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+
+<!--v-->
+
+| *hælth* | bræ̥đ | &nbsp; |
+|-|-|-|
+| *helth* &nbsp; &nbsp; &nbsp; &nbsp; | brëad &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+
+<!--v-->
+
+| *hælth* | *brød* | &nbsp; |
+|-|-|-|
+| *helth* &nbsp; &nbsp; &nbsp; &nbsp; | brëad &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+
+<!--v-->
+
+| *hælth* | *brød* | &nbsp; |
+|-|-|-|
+| *helth* &nbsp; &nbsp; &nbsp; &nbsp; | *bred* &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+
+<!--v-->
+
+| *hælth* | *brød* | &nbsp; |
+|-|-|-|
+| *helth* &nbsp; &nbsp; &nbsp; &nbsp; | *bred* &nbsp; &nbsp; &nbsp; &nbsp; | depth &nbsp; &nbsp; &nbsp; &nbsp; |
+
+<!--v-->
+
+| *hælth* | *brød* | deup + th |
+|-|-|-|
+| *helth* &nbsp; &nbsp; &nbsp; &nbsp; | *bred* &nbsp; &nbsp; &nbsp; &nbsp; | depth &nbsp; &nbsp; &nbsp; &nbsp; |
+
+<!--v-->
+
+| *hælth* | *brød* | de̥p + th |
+|-|-|-|
+| *helth* &nbsp; &nbsp; &nbsp; &nbsp; | *bred* &nbsp; &nbsp; &nbsp; &nbsp; | depth &nbsp; &nbsp; &nbsp; &nbsp; |
+
+<!--v-->
+
+| *hælth* | *brød* | *dȳp* + *th* |
+|-|-|-|
+| *helth* &nbsp; &nbsp; &nbsp; &nbsp; | *bred* &nbsp; &nbsp; &nbsp; &nbsp; | depth &nbsp; &nbsp; &nbsp; &nbsp; |
+
+<!--v-->
+
+| *hælth* | *brød* | *dÿpth* |
+|-|-|-|
+| *helth* &nbsp; &nbsp; &nbsp; &nbsp; | *bred* &nbsp; &nbsp; &nbsp; &nbsp; | depth &nbsp; &nbsp; &nbsp; &nbsp; |
+
+<!--v-->
+
+| *hælth* | *brød* | *dÿpth* |
+|-|-|-|
+| *helth* &nbsp; &nbsp; &nbsp; &nbsp; | *bred* &nbsp; &nbsp; &nbsp; &nbsp; | dëepth &nbsp; &nbsp; &nbsp; |
+
+<!--v-->
+
+| *hælth* | *brød* | *dÿpth* |
+|-|-|-|
+| *helth* &nbsp; &nbsp; &nbsp; &nbsp; | *bred* &nbsp; &nbsp; &nbsp; &nbsp; | *depth* &nbsp; &nbsp; &nbsp; &nbsp; |
 
 <!--v-->
 
