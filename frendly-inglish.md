@@ -457,12 +457,12 @@ Notes:
 
 <!--s-->
 
-## Spelling Plus
+## Re-Spelling
 *(Etymology)*
 
 <!--v-->
 
-## Spelling Plus
+## Re-Spelling
 
 ### æ, ø, y ⇒ e, e, i
 
@@ -522,7 +522,7 @@ Notes:
 
 <!--v-->
 
-## Spelling Plus
+## Re-Spelling
 
 ### ai, au_i, eu ⇒ ea, ea, ee
 
@@ -588,7 +588,7 @@ Notes:
 
 <!--v-->
 
-## Spelling Plus
+## Re-Spelling
 
 ### ai, au_i, eu ⇒ oa, i, i
 
@@ -681,7 +681,7 @@ Notes:
 
 <!--v-->
 
-## Spelling Plus
+## Re-Spelling
 
 ### -å/-o, -ạ/-æ ⇒ -o
 
@@ -749,35 +749,30 @@ Notes:
 
 | sw̆å | ro | gạ̃ | &nbsp; |
 |-|-|-|-|
-| so &nbsp; &nbsp; | ro &nbsp; | go &nbsp; | mow |
+| so &nbsp; &nbsp; | ro &nbsp; | go &nbsp; | mõw |
+
+<!--v-->
+
+<!-- TODO mæ~ -->
+| sw̆å | ro | gạ̃ | mæ |
+|-|-|-|-|
+| so &nbsp; &nbsp; | ro &nbsp; | go &nbsp; | mõw |
 
 <!--v-->
 
 | sw̆å | ro | gạ̃ | mæ |
 |-|-|-|-|
-| so &nbsp; &nbsp; | ro &nbsp; | go &nbsp; | mow |
+| so &nbsp; &nbsp; | ro &nbsp; | go &nbsp; | ~mõw~ |
 
 <!--v-->
 
-| sw̆å | ro | gạ̃ | mæ~ |
-|-|-|-|-|
-| so &nbsp; &nbsp; | ro &nbsp; | go &nbsp; | mow |
-
-<!--v-->
-
-| sw̆å | ro | gạ̃ | mæ~ |
-|-|-|-|-|
-| so &nbsp; &nbsp; | ro &nbsp; | go &nbsp; | ~mow~ |
-
-<!--v-->
-
-| sw̆å | ro | gạ̃ | mæ~ |
+| sw̆å | ro | gạ̃ | mæ |
 |-|-|-|-|
 | so &nbsp; &nbsp; | ro &nbsp; | go &nbsp; | mo |
 
 <!--v-->
 
-## Spelling Plus
+## Re-Spelling
 
 ### oo ≠ eu
 
@@ -815,7 +810,7 @@ Notes:
 
 <!--v-->
 
-## Spelling Plus
+## Re-Spelling
 
 ### ô ≠ u
 
@@ -851,7 +846,7 @@ Notes:
 
 <!--v-->
 
-## Spelling Plus
+## Re-Spelling
 
 ### -ough
 
@@ -915,7 +910,7 @@ Notes:
 
 <!--v-->
 
-## Spelling Plus
+## Re-Spelling
 
 ### -r
 
@@ -1041,12 +1036,12 @@ Notes:
 
 <!--s-->
 
-## Simple Spelling Plus
+## Simple Re-Spelling
 *(Etymology`*`)*
 
 <!--v-->
 
-## Simple Spelling Plus
+## Simple Re-Spelling
 
 ### -å/-o, -ạ/-æ ⇒ -õw
 
@@ -1136,7 +1131,8 @@ Notes:
 
 <!--v-->
 
-| *sho* | *gro* | *snæ~* | &nbsp; |
+<!-- TODO snæ~ -->
+| *sho* | *gro* | *snæ* | &nbsp; |
 |-|-|-|-|
 | *shõw* | *grõw* | snõw | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
 
@@ -1172,7 +1168,8 @@ Notes:
 
 <!--v-->
 
-| *sho* | *gro* | *snõ* | *slæ~* |
+<!-- TODO slæ~ -->
+| *sho* | *gro* | *snõ* | *slæ* |
 |-|-|-|-|
 | *shõw* | *grõw* | *snõw* | slõw |
 
@@ -1196,7 +1193,7 @@ Notes:
 
 <!--v-->
 
-## Simple Spelling Plus
+## Simple Re-Spelling
 
 ### e_e ⇒ *ee*
 
@@ -1264,6 +1261,12 @@ Notes:
 
 | *felde* | *stræte* | &nbsp; |
 |-|-|-|
+| *feeld* | strete &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+
+<!--v-->
+
+| *felde* | *stræte* | &nbsp; |
+|-|-|-|
 | *feeld* | *street* &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
 
 <!--v-->
@@ -1294,11 +1297,17 @@ Notes:
 
 | *felde* | *stræte* | *grøne* |
 |-|-|-|
+| *feeld* | *street* &nbsp; | grene &nbsp; |
+
+<!--v-->
+
+| *felde* | *stræte* | *grøne* |
+|-|-|-|
 | *feeld* | *street* &nbsp; | *green* &nbsp; |
 
 <!--v-->
 
-## Simple Spelling Plus
+## Simple Re-Spelling
 
 ### igh, õugh ⇒ *y*, *õw*
 
@@ -1358,75 +1367,75 @@ Notes:
 
 <!--v-->
 
-| lag &nbsp; | &nbsp; | &nbsp; |
+| bug &nbsp; | &nbsp; | &nbsp; |
 |-|-|-|
-| lõugh | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+| bõugh | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
 
 <!--v-->
 
-| låğ &nbsp; | &nbsp; | &nbsp; |
+| bůğ &nbsp; | &nbsp; | &nbsp; |
 |-|-|-|
-| lõugh | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+| bõugh | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
 
 <!--v-->
 
-| *logh* | &nbsp; | &nbsp; |
+| *bogh* | &nbsp; | &nbsp; |
 |-|-|-|
-| lõugh | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+| bõugh | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
 
 <!--v-->
 
-| *logh* | &nbsp; | &nbsp; |
+| *bogh* | &nbsp; | &nbsp; |
 |-|-|-|
-| *lõw* &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+| *bõw* &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
 
 <!--v-->
 
-| *logh* | fugl | &nbsp; |
+| *bogh* | fugl | &nbsp; |
 |-|-|-|
-| *lõw* &nbsp; &nbsp; | foughel | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+| *bõw* &nbsp; &nbsp; | foughel | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
 
 <!--v-->
 
-| *logh* | fũğl | &nbsp; |
+| *bogh* | fũğl | &nbsp; |
 |-|-|-|
-| *lõw* &nbsp; &nbsp; | foughel | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+| *bõw* &nbsp; &nbsp; | foughel | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
 
 <!--v-->
 
-| *logh* | *fũghel* | &nbsp; |
+| *bogh* | *fũghel* | &nbsp; |
 |-|-|-|
-| *lõw* &nbsp; &nbsp; | foughel | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+| *bõw* &nbsp; &nbsp; | foughel | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
 
 <!--v-->
 
-| *logh* | *fũghel* | &nbsp; |
+| *bogh* | *fũghel* | &nbsp; |
 |-|-|-|
-| *lõw* &nbsp; &nbsp; | *fowl* &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+| *bõw* &nbsp; &nbsp; | *fowl* &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
 
 <!--v-->
 
-| *logh* | *fũghel* | dagen |
+| *bogh* | *fũghel* | dagen |
 |-|-|-|
-| *lõw* &nbsp; &nbsp; | *fowl* &nbsp; &nbsp; &nbsp; | daughen |
+| *bõw* &nbsp; &nbsp; | *fowl* &nbsp; &nbsp; &nbsp; | daughen |
 
 <!--v-->
 
-| *logh* | *fũghel* | daǧen |
+| *bogh* | *fũghel* | daǧen |
 |-|-|-|
-| *lõw* &nbsp; &nbsp; | *fowl* &nbsp; &nbsp; &nbsp; | daughen |
+| *bõw* &nbsp; &nbsp; | *fowl* &nbsp; &nbsp; &nbsp; | daughen |
 
 <!--v-->
 
-| *logh* | *fũghel* | *daǧhen* |
+| *bogh* | *fũghel* | *daǧhen* |
 |-|-|-|
-| *lõw* &nbsp; &nbsp; | *fowl* &nbsp; &nbsp; &nbsp; | daughen |
+| *bõw* &nbsp; &nbsp; | *fowl* &nbsp; &nbsp; &nbsp; | daughen |
 
 <!--v-->
 
-| *logh* | *fũghel* | *daǧhen* |
+| *bogh* | *fũghel* | *daǧhen* |
 |-|-|-|
-| *lõw* &nbsp; &nbsp; | *fowl* &nbsp; &nbsp; &nbsp; | *dawn* &nbsp; &nbsp; &nbsp; |
+| *bõw* &nbsp; &nbsp; | *fowl* &nbsp; &nbsp; &nbsp; | *dawn* &nbsp; &nbsp; &nbsp; |
 
 <!--v-->
 
@@ -1505,7 +1514,7 @@ Notes:
 
 <!--v-->
 
-## Simple Spelling Plus
+## Simple Re-Spelling
 
 ### -igh, -õugh ⇒ *-y*, *-ow*
 
@@ -1755,7 +1764,13 @@ Notes:
 
 | *thogh* |
 |-|
-| *tho* &nbsp; &nbsp; &nbsp; &nbsp; |
+| *thõw* &nbsp; &nbsp; |
+
+<!--v-->
+
+| *thogh* |
+|-|
+| *tho* &nbsp; &nbsp; &nbsp; |
 
 <!--v-->
 
@@ -1765,27 +1780,94 @@ Notes:
 
 <!--v-->
 
-| *logh* |
-|-|
-| lõugh |
+| &nbsp; | &nbsp; | &nbsp; |
+|-|-|-|
+| *lõw* &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; |
 
 <!--v-->
 
-| *logh* |
-|-|
-| *lõw* &nbsp; &nbsp; |
+| lag | &nbsp; | &nbsp; |
+|-|-|-|
+| *lõw* &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; |
 
 <!--v-->
 
-| *logh* |
-|-|
-| *lo* &nbsp; &nbsp; &nbsp; |
+| låğ | &nbsp; | &nbsp; |
+|-|-|-|
+| *lõw* &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; |
+
+<!--v-->
+
+| *logh* | &nbsp; | &nbsp; |
+|-|-|-|
+| *lõw* &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; |
+
+<!--v-->
+
+| *logh* | &nbsp; | &nbsp; |
+|-|-|-|
+| *lo* &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; |
+
+<!--v-->
+
+| *logh* | &nbsp; | &nbsp; |
+|-|-|-|
+| *lo* &nbsp; &nbsp; &nbsp; | *slõw* | &nbsp; &nbsp; &nbsp; &nbsp; |
+
+<!--v-->
+
+<!-- TODO slæ~ -->
+| *logh* | slæ | &nbsp; |
+|-|-|-|
+| *lo* &nbsp; &nbsp; &nbsp; | *slõw* | &nbsp; &nbsp; &nbsp; &nbsp; |
+
+<!--v-->
+
+| *logh* | *slõ* | &nbsp; |
+|-|-|-|
+| *lo* &nbsp; &nbsp; &nbsp; | *slõw* | &nbsp; &nbsp; &nbsp; &nbsp; |
+
+<!--v-->
+
+| *logh* | *slõ* | &nbsp; |
+|-|-|-|
+| *lo* &nbsp; &nbsp; &nbsp; | *slo* &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; |
+
+<!--v-->
+
+| *logh* | *slõ* | fra |
+|-|-|-|
+| *lo* &nbsp; &nbsp; &nbsp; | *slo* &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; |
+
+<!--v-->
+
+| *logh* | *slõ* | fra |
+|-|-|-|
+| *lo* &nbsp; &nbsp; &nbsp; | *slo* &nbsp; | fro &nbsp; |
+
+<!--v-->
+
+| *logh* | *slõ* | frå |
+|-|-|-|
+| *lo* &nbsp; &nbsp; &nbsp; | *slo* &nbsp; | fro &nbsp; |
 
 <!--v-->
 
 | *logh* | *slõ* | *fro* |
 |-|-|-|
-| *lo* &nbsp; &nbsp; &nbsp; | *slo* | *fo* |
+| *lo* &nbsp; &nbsp; &nbsp; | *slo* &nbsp; | fro &nbsp; |
+
+<!--v-->
+
+| *logh* | *slõ* | *fro* |
+|-|-|-|
+| *lo* &nbsp; &nbsp; &nbsp; | *slo* &nbsp; | *frõw* |
+
+<!--v-->
+
+| *logh* | *slõ* | *fro* |
+|-|-|-|
+| *lo* &nbsp; &nbsp; &nbsp; | *slo* &nbsp; | *fro* &nbsp; |
 
 <!--v-->
 
@@ -1801,7 +1883,8 @@ Notes:
 
 <!--v-->
 
-| *hæm~* |
+<!-- TODO hæm~ -->
+| *hæm* |
 |-|
 | hoam |
 
@@ -1827,16 +1910,13 @@ Notes:
 <!-- TODO -gh -->
 <!-- TODO æ=õ ø (y): do(nut) hi; go no so;  -->
 <!-- TODO æ=õ home -->
-
-<!--v-->
-
 <!-- TODO k h kh → - -->
 <!-- TODO lite wait -->
 <!-- TODO high → hie/high? thie/thigh -->
 
 <!--s-->
 
-## Simple Spelling Plus
+## Simple Re-Spelling
 
 ### å ⇒ *o*
 
@@ -1860,7 +1940,7 @@ Notes:
 
 <!--v-->
 
-## Simple Spelling Plus
+## Simple Re-Spelling
 
 ### ů ⇒ *o*
 
@@ -1884,7 +1964,7 @@ Notes:
 
 <!--v-->
 
-## Simple Spelling Plus
+## Simple Re-Spelling
 
 ### ḁ ⇒ *oo*
 
@@ -1914,7 +1994,7 @@ Notes:
 
 <!--v-->
 
-## Simple Spelling Plus
+## Simple Re-Spelling
 
 ### k ⇒ *c*
 
@@ -1932,7 +2012,7 @@ Notes:
 
 <!--v-->
 
-## Simple Spelling Plus
+## Simple Re-Spelling
 
 ### sk ⇒ *sh*
 
@@ -1956,7 +2036,7 @@ Notes:
 
 <!--v-->
 
-## Simple Spelling Plus
+## Simple Re-Spelling
 
 ### kht ⇒ *ght*
 
@@ -1995,7 +2075,7 @@ Notes:
 
 <!--v-->
 
-## Simple Spelling Plus
+## Simple Re-Spelling
 
 ### g ⇒ *gh*
 
@@ -2019,7 +2099,7 @@ Notes:
 
 <!--v-->
 
-## Simple Spelling Plus
+## Simple Re-Spelling
 
 ### -lik ⇒ *-ligh*
 
@@ -2049,7 +2129,7 @@ Notes:
 
 <!--v-->
 
-## Simple Spelling Plus
+## Simple Re-Spelling
 
 ### th ⇒ *d*
 
@@ -2073,7 +2153,7 @@ Notes:
 
 <!--v-->
 
-## Simple Spelling Plus
+## Simple Re-Spelling
 
 ### æ ≈ ø ≈ e
 
@@ -2149,7 +2229,7 @@ Notes:
 
 <!--v-->
 
-## Simple Spelling Plus
+## Simple Re-Spelling
 
 ### ạ ⇒ *æ*  ≈  æ̥ ⇒ *ø*
 
@@ -2408,7 +2488,7 @@ Notes:
 | goat | *õwn* &nbsp; &nbsp; &nbsp; |
 
 Notes:
-* gæ~t <!-- TODO æ~ -->
+* gæt <!-- TODO gæ~t -->
 
 <!--v-->
 
@@ -3423,7 +3503,7 @@ Notes:
 
 <!--v-->
 
-## Spelling Plus
+## Re-Spelling
 
 ### ea, ie ≠ ee
 
@@ -3518,66 +3598,6 @@ Notes:
 
 <!--v-->
 
-| &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
-|-|-|
-| bow | &nbsp; |
-
-<!--v-->
-
-| &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
-|-|-|
-| bõw | &nbsp; |
-
-<!--v-->
-
-| bug &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
-|-|-|
-| bõw | &nbsp; |
-
-<!--v-->
-
-| bůğ &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
-|-|-|
-| bõw | &nbsp; |
-
-<!--v-->
-
-| bůğ &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
-|-|-|
-| ~~bõw~~ | &nbsp; |
-
-<!--v-->
-
-| bůğ &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
-|-|-|
-| bõugh | &nbsp; |
-
-<!--v-->
-
-| bůğ &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
-|-|-|
-| bõugh | though |
-
-<!--v-->
-
-| bůğ &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
-|-|-|
-| bõugh | thõugh |
-
-<!--v-->
-
-| bůğ &nbsp; &nbsp; &nbsp; | thaukh |
-|-|-|
-| bõugh | thõugh |
-
-<!--v-->
-
-| bůğ &nbsp; &nbsp; &nbsp; | thḁkh &nbsp; |
-|-|-|
-| bõugh | thõugh |
-
-<!--v-->
-
 | ek |
 |-|
 | I |
@@ -3610,7 +3630,7 @@ Notes:
 
 <!--v-->
 
-## Spelling Plus
+## Re-Spelling
 
 ### ai ≠ ei
 
