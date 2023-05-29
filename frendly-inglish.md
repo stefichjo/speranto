@@ -126,7 +126,6 @@ e̥ ≈ y ⇒ i
 |-|
 | dône |
 
-<!-- TODO -->
 Notes:
 * hônny dun; môney, sôn
 * sôme côme
@@ -468,51 +467,57 @@ Notes:
 
 <!--v-->
 
-| &nbsp; | &nbsp; | &nbsp; |
-|-|-|-|
+| &nbsp; | &nbsp; | &nbsp; | &nbsp; |
+|-|-|-|-|
 | men &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
 
 <!--v-->
 
-| mann_i | &nbsp; | &nbsp; |
-|-|-|-|
+| mann_i | &nbsp; | &nbsp; | &nbsp; |
+|-|-|-|-|
 | men &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
 
 <!--v-->
 
-| mænn | &nbsp; | &nbsp; |
-|-|-|-|
+| mænn | &nbsp; | &nbsp; | &nbsp; |
+|-|-|-|-|
 | men &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
 
 <!--v-->
 
-| mænn | &nbsp; | &nbsp; |
-|-|-|-|
-| men &nbsp; &nbsp; &nbsp; | fed &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+| mænn | &nbsp; | &nbsp; | &nbsp; |
+|-|-|-|-|
+| men &nbsp; &nbsp; &nbsp; | fed &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
 
 <!--v-->
 
-| mænn | fød + ed | &nbsp; |
-|-|-|-|
-| men &nbsp; &nbsp; &nbsp; | fed &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+| mænn | fød + ed | &nbsp; | &nbsp; |
+|-|-|-|-|
+| men &nbsp; &nbsp; &nbsp; | fed &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
 
 <!--v-->
 
-| mænn | fødĕd | &nbsp; |
-|-|-|-|
-| men &nbsp; &nbsp; &nbsp; | fed &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+| mænn | fødĕd | &nbsp; | &nbsp; |
+|-|-|-|-|
+| men &nbsp; &nbsp; &nbsp; | fed &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
 
 <!--v-->
 
-| mænn | fødĕd | &nbsp; |
-|-|-|-|
-| men &nbsp; &nbsp; &nbsp; | fed &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | kin &nbsp; &nbsp; |
+| mænn | fødĕd | &nbsp; | &nbsp; |
+|-|-|-|-|
+| men &nbsp; &nbsp; &nbsp; | fed &nbsp; &nbsp; &nbsp; | kin &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
 
 <!--v-->
 
-| mænn | fødĕd | &nbsp; |
-|-|-|-|
-| men &nbsp; &nbsp; &nbsp; | *fed* &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | kin &nbsp; &nbsp; |
+| mænn | fødĕd | &nbsp; | &nbsp; |
+|-|-|-|-|
+| men &nbsp; &nbsp; &nbsp; | fëedĕd | kin &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+
+<!--v-->
+
+| mænn | fødĕd | &nbsp; | &nbsp; |
+|-|-|-|-|
+| men &nbsp; &nbsp; &nbsp; | *fed* &nbsp; &nbsp; &nbsp; | kin &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
 
 Notes:
 * cf. Verbs + Simple Re-Spelling
@@ -520,40 +525,39 @@ Notes:
 
 <!--v-->
 
-| mænn | fødĕd | kunj |
-|-|-|-|
-| men &nbsp; &nbsp; &nbsp; | *fed* &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | kin &nbsp; &nbsp; |
+| mænn | fødĕd | kunn_i | &nbsp; |
+|-|-|-|-|
+| men &nbsp; &nbsp; &nbsp; | *fed* &nbsp; &nbsp; &nbsp; | kin &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
 
 <!--v-->
 
-| mænn | fødĕd | kynn |
-|-|-|-|
-| men &nbsp; &nbsp; &nbsp; | *fed* &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | kin |
+| mænn | fødĕd | kynn | &nbsp; |
+|-|-|-|-|
+| men &nbsp; &nbsp; &nbsp; | *fed* &nbsp; &nbsp; &nbsp; | kin &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
 
 <!--v-->
 
-<!-- TODO add to previous table: men, fed, kin -->
-| &nbsp; |
-|-|
-| kind &nbsp; &nbsp; &nbsp; |
+| mænn | fødĕd | kynn | &nbsp; |
+|-|-|-|-|
+| men &nbsp; &nbsp; &nbsp; | *fed* &nbsp; &nbsp; &nbsp; | kin &nbsp; &nbsp; &nbsp; &nbsp; | kĩnd &nbsp; &nbsp; |
 
 <!--v-->
 
-| kund_i |
-|-|
-| kind &nbsp; &nbsp; &nbsp; |
+| mænn | fødĕd | kynn | &nbsp; |
+|-|-|-|-|
+| men &nbsp; &nbsp; &nbsp; | *fed* &nbsp; &nbsp; &nbsp; | kin &nbsp; &nbsp; &nbsp; &nbsp; | kinde &nbsp; |
 
 <!--v-->
 
-| kỹnd |
-|-|
-| kind &nbsp; &nbsp; &nbsp; |
+| mænn | fødĕd | kynn | kund_i |
+|-|-|-|-|
+| men &nbsp; &nbsp; &nbsp; | *fed* &nbsp; &nbsp; &nbsp; | kin &nbsp; &nbsp; &nbsp; &nbsp; | kinde &nbsp; |
 
 <!--v-->
 
-| *kynde* |
-|-|
-| kind &nbsp; &nbsp; &nbsp; |
+| mænn | fødĕd | kynn | kỹnd &nbsp; |
+|-|-|-|-|
+| men &nbsp; &nbsp; &nbsp; | *fed* &nbsp; &nbsp; &nbsp; | kin &nbsp; &nbsp; &nbsp; &nbsp; | kinde &nbsp; |
 
 <!--v-->
 
@@ -813,8 +817,6 @@ Notes:
 
 <!--v-->
 
-<!-- TODO new -->
-
 | &nbsp; |
 |-|
 | shoot |
@@ -941,7 +943,6 @@ Notes:
 
 Notes:
 * bʌroʊ BE bʌrə, AE bɜ:roʊ
-<!-- TODO Edge Case worry -->
 
 <!--v-->
 
@@ -2357,7 +2358,7 @@ Notes:
 
 | &nbsp; |
 |-|
-| *fed* &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+| *fed* &nbsp; &nbsp; &nbsp; |
 
 Notes:
 * bleed breed feed
@@ -2687,10 +2688,6 @@ Notes:
 * e̥: creep fleegh kneel
 * ạ: deal
 * æ̥: (dream) hear (leap) leave mean
-
-<!--s-->
-
-## Strange Verbs
 
 <!--s-->
 
