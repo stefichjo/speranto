@@ -2212,6 +2212,103 @@ Notes:
 * has
 * made
 
+<!--v-->
+
+## Weak Verbs (Irr.*)
+*(regular weak verbs with irregular spelling)*
+
+<!--v-->
+
+| &nbsp;  | &nbsp;  |
+|-|-|
+| lay &nbsp; &nbsp; | laid &nbsp; &nbsp;  |
+
+<!--v-->
+
+| &nbsp;  | &nbsp;  |
+|-|-|
+| lay &nbsp; &nbsp; | *laid* &nbsp; &nbsp;  |
+
+<!--v-->
+
+| &nbsp;  | &nbsp;  |
+|-|-|
+| lay &nbsp; &nbsp; | layed |
+
+<!--v-->
+
+| leg | leged |
+|-|-|
+| lay &nbsp; &nbsp; | layed |
+
+<!--v-->
+
+| *legh* | *leghed* |
+|-|-|
+| lay &nbsp; &nbsp; | layed |
+
+<!--v-->
+
+| *legh* | *leghed* |
+|-|-|
+| ~lay~ &nbsp; &nbsp; | ~layed~ |
+
+<!--v-->
+
+| *legh* | *leghed* |
+|-|-|
+| leigh | leighed |
+
+<!--v-->
+
+| *legh* | *leghed* |
+|-|-|
+| *ley* | *leyed* |
+
+Notes:
+* stayed, paid
+
+<!--v-->
+
+## Weak Verbs (Irr.*)
+*(almost regular weak verbs with irregular spelling)*
+
+<!--v-->
+
+| &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+|-|
+| said |
+
+<!--v-->
+
+| *segh* + ed |
+|-|
+| said |
+
+<!--v-->
+
+| *seğhĕd* &nbsp; &nbsp; |
+|-|
+| said |
+
+<!--v-->
+
+| *seğhĕd* &nbsp; &nbsp; |
+|-|
+| ~~said~~ |
+
+<!--v-->
+
+| *seğhĕd* &nbsp; &nbsp; |
+|-|
+| sëighĕd |
+
+<!--v-->
+
+| *seğhĕd* &nbsp; &nbsp; |
+|-|
+| *sed* |
+
 <!--s-->
 
 ## Weak-ish Verbs
@@ -2593,11 +2690,16 @@ Notes:
 
 <!--s-->
 
-## Old French Spelling
+## Strange Verbs
+
+<!--s-->
+
+## French Spelling
+*(Old French, Actually)*
 
 <!--v-->
 
-## Old French Spelling
+## French Spelling
 
 ### -ĕ
 
@@ -2615,7 +2717,7 @@ Notes:
 
 <!--v-->
 
-## Old French Spelling
+## French Spelling
 
 ### ōu
 
@@ -2633,7 +2735,7 @@ Notes:
 
 <!--v-->
 
-## Old French Spelling
+## French Spelling
 
 ### ch
 
@@ -2653,107 +2755,6 @@ Notes:
 
 ## Edge Cases
 <!-- TODO edge case spreit → spread; laid_i → lead ⇒ spræd? -->
-
-<!--v-->
-
-## Edge Cases
-
-### Pseudo-Irregular Weak Verbs
-*("to lay" and "to pay" are actually regular weak verbs with irregular spelling.)*
-
-<!--v-->
-
-| &nbsp;  | &nbsp;  |
-|-|-|
-| lay &nbsp; &nbsp; | laid &nbsp; &nbsp;  |
-
-<!--v-->
-
-| &nbsp;  | &nbsp;  |
-|-|-|
-| lay &nbsp; &nbsp; | *laid* &nbsp; &nbsp;  |
-
-<!--v-->
-
-| &nbsp;  | &nbsp;  |
-|-|-|
-| lay &nbsp; &nbsp; | layed |
-
-<!--v-->
-
-| leg | leged |
-|-|-|
-| lay &nbsp; &nbsp; | layed |
-
-<!--v-->
-
-| *legh* | *leghed* |
-|-|-|
-| lay &nbsp; &nbsp; | layed |
-
-<!--v-->
-
-| *legh* | *leghed* |
-|-|-|
-| ~lay~ &nbsp; &nbsp; | ~layed~ |
-
-<!--v-->
-
-| *legh* | *leghed* |
-|-|-|
-| leigh | leighed |
-
-<!--v-->
-
-| *legh* | *leghed* |
-|-|-|
-| *ley* | *leyed* |
-
-Notes:
-* stayed, paid
-
-<!--v-->
-
-## Edge Cases
-
-### Irregular Weak Verbs
-*("to say" is actually a (almost) regular weak-ish verb with regular spelling.)*
-
-<!--v-->
-
-| &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
-|-|
-| said |
-
-<!--v-->
-
-| *segh* + ed |
-|-|
-| said |
-
-<!--v-->
-
-| *seğhĕd* &nbsp; &nbsp; |
-|-|
-| said |
-
-<!--v-->
-
-| *seğhĕd* &nbsp; &nbsp; |
-|-|
-| ~~said~~ |
-
-<!--v-->
-
-| *seğhĕd* &nbsp; &nbsp; |
-|-|
-| sëighĕd |
-
-<!--v-->
-
-| *seğhĕd* &nbsp; &nbsp; |
-|-|
-| *sed* |
 
 <!-- TODO edge cases? cry fry try -->
 
@@ -2863,95 +2864,6 @@ Notes:
 | wôrry |
 
 <!--s-->
-
-## Legacy Spelling Light
-*(Phonemic Spelling)*
-
-<!--v-->
-
-## Legacy Spelling Light
-
-### gh
-
-<!--v-->
-
-| &nbsp; |
-|-|
-| light |
-
-<!--v-->
-
-| &nbsp; |
-|-|
-| *lite* |
-
-<!--v-->
-
-| &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
-|-|
-| though |
-
-<!--v-->
-
-| &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
-|-|
-| thõugh |
-
-<!--v-->
-
-| &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
-|-|
-| *tho* |
-
-Notes:
-* no so go
-* fro
-* blo glo flo slo kno sno gro sho tho
-* bo fo lo mo ro to
-
-<!--v-->
-
-| &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
-|-|
-| through |
-
-<!--v-->
-
-| &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
-|-|
-| thrōugh |
-
-<!--v-->
-
-| &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
-|-|
-| *thru* |
-
-<!--v-->
-
-## Legacy Spelling Light
-
-### or ⇒ *oar*
-
-<!--v-->
-
-| &nbsp; |
-|-|
-| sort &nbsp; |
-
-<!--v-->
-
-| &nbsp; |
-|-|
-| sõrt &nbsp; |
-
-<!--v-->
-
-| &nbsp; |
-|-|
-| soart |
-
-<!--v-->
 
 ## Legacy Spelling Light
 
@@ -3152,42 +3064,6 @@ Notes:
 
 <!--v-->
 
-| &nbsp; | &nbsp; |
-|-|-|
-| home | &nbsp; &nbsp; &nbsp; &nbsp; |
-
-<!--v-->
-
-| haim | &nbsp; |
-|-|-|
-| home | &nbsp; &nbsp; &nbsp; &nbsp; |
-
-<!--v-->
-
-| haim | &nbsp; |
-|-|-|
-| ~~home~~ | &nbsp; &nbsp; &nbsp; &nbsp; |
-
-<!--v-->
-
-| haim | &nbsp; |
-|-|-|
-| hoam | &nbsp; &nbsp; &nbsp; &nbsp; |
-
-<!--v-->
-
-| haim | &nbsp; |
-|-|-|
-| hoam | boat |
-
-<!--v-->
-
-| haim | bait |
-|-|-|
-| hoam | boat |
-
-<!--v-->
-
 | ek |
 |-|
 | I |
@@ -3217,36 +3093,6 @@ Notes:
 | *I* |
 
 <!-- TODO edge case: straight -->
-
-<!--v-->
-
-## Re-Spelling
-
-### ai ≠ ei
-
-<!--v-->
-
-| &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
-|-|
-| eight |
-
-<!--v-->
-
-| akht |
-|-|
-| eight |
-
-<!--v-->
-
-| akht |
-|-|
-| ~~eight~~ |
-
-<!--v-->
-
-| akht |
-|-|
-| aight |
 
 <!--v-->
 
