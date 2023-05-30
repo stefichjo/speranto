@@ -469,55 +469,49 @@ Notes:
 
 | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
 |-|-|-|-|
-| men &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+| men &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
 
 <!--v-->
 
 | mann_i | &nbsp; | &nbsp; | &nbsp; |
 |-|-|-|-|
-| men &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+| men &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
 
 <!--v-->
 
 | mænn | &nbsp; | &nbsp; | &nbsp; |
 |-|-|-|-|
-| men &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+| men &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
 
 <!--v-->
 
 | mænn | &nbsp; | &nbsp; | &nbsp; |
 |-|-|-|-|
-| men &nbsp; &nbsp; &nbsp; | fed &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+| men &nbsp; &nbsp; &nbsp; | fed &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
 
 <!--v-->
 
 | mænn | fød + ed | &nbsp; | &nbsp; |
 |-|-|-|-|
-| men &nbsp; &nbsp; &nbsp; | fed &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+| men &nbsp; &nbsp; &nbsp; | fed &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
 
 <!--v-->
 
 | mænn | fødĕd | &nbsp; | &nbsp; |
 |-|-|-|-|
-| men &nbsp; &nbsp; &nbsp; | fed &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+| men &nbsp; &nbsp; &nbsp; | fed &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
 
 <!--v-->
 
 | mænn | fødĕd | &nbsp; | &nbsp; |
 |-|-|-|-|
-| men &nbsp; &nbsp; &nbsp; | fed &nbsp; &nbsp; &nbsp; | kin &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+| men &nbsp; &nbsp; &nbsp; | fëedĕd &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
 
 <!--v-->
 
 | mænn | fødĕd | &nbsp; | &nbsp; |
 |-|-|-|-|
-| men &nbsp; &nbsp; &nbsp; | fëedĕd | kin &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
-
-<!--v-->
-
-| mænn | fødĕd | &nbsp; | &nbsp; |
-|-|-|-|-|
-| men &nbsp; &nbsp; &nbsp; | *fed* &nbsp; &nbsp; &nbsp; | kin &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+| men &nbsp; &nbsp; &nbsp; | *fed* &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
 
 Notes:
 * cf. Verbs + Simple Re-Spelling
@@ -527,37 +521,41 @@ Notes:
 
 | mænn | fødĕd | kunn_i | &nbsp; |
 |-|-|-|-|
-| men &nbsp; &nbsp; &nbsp; | *fed* &nbsp; &nbsp; &nbsp; | kin &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+| men &nbsp; &nbsp; &nbsp; | *fed* &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
 
 <!--v-->
 
 | mænn | fødĕd | kynn | &nbsp; |
 |-|-|-|-|
-| men &nbsp; &nbsp; &nbsp; | *fed* &nbsp; &nbsp; &nbsp; | kin &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+| men &nbsp; &nbsp; &nbsp; | *fed* &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
 
 <!--v-->
 
 | mænn | fødĕd | kynn | &nbsp; |
 |-|-|-|-|
-| men &nbsp; &nbsp; &nbsp; | *fed* &nbsp; &nbsp; &nbsp; | kin &nbsp; &nbsp; &nbsp; &nbsp; | kĩnd &nbsp; &nbsp; |
+| men &nbsp; &nbsp; &nbsp; | *fed* &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | kin &nbsp; &nbsp; &nbsp; &nbsp; | kĩnd &nbsp; &nbsp; |
 
 <!--v-->
 
 | mænn | fødĕd | kynn | &nbsp; |
 |-|-|-|-|
-| men &nbsp; &nbsp; &nbsp; | *fed* &nbsp; &nbsp; &nbsp; | kin &nbsp; &nbsp; &nbsp; &nbsp; | kinde &nbsp; |
+| men &nbsp; &nbsp; &nbsp; | *fed* &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | kin &nbsp; &nbsp; &nbsp; &nbsp; | kinde &nbsp; |
 
 <!--v-->
 
 | mænn | fødĕd | kynn | kund_i |
 |-|-|-|-|
-| men &nbsp; &nbsp; &nbsp; | *fed* &nbsp; &nbsp; &nbsp; | kin &nbsp; &nbsp; &nbsp; &nbsp; | kinde &nbsp; |
+| men &nbsp; &nbsp; &nbsp; | *fed* &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | kin &nbsp; &nbsp; &nbsp; &nbsp; | kinde &nbsp; |
 
 <!--v-->
 
 | mænn | fødĕd | kynn | kỹnd &nbsp; |
 |-|-|-|-|
-| men &nbsp; &nbsp; &nbsp; | *fed* &nbsp; &nbsp; &nbsp; | kin &nbsp; &nbsp; &nbsp; &nbsp; | kinde &nbsp; |
+| men &nbsp; &nbsp; &nbsp; | *fed* &nbsp; &nbsp; &nbsp; &nbsp; | kin &nbsp; &nbsp; &nbsp; &nbsp; | kinde &nbsp; |
+
+
+
+
 
 <!--v-->
 
@@ -1749,7 +1747,7 @@ Notes:
 <!--s-->
 
 ## Spelling Lite
-*(May Contain Traces of Etymology)*
+*(Etymology?)*
 
 <!--v-->
 
@@ -2173,6 +2171,102 @@ Notes:
 
 <!--s-->
 
+## u, w, l
+
+### wa ⇒ *wo*
+
+<!--v-->
+
+| &nbsp; |
+|-|
+| wasp |
+
+<!--v-->
+
+| &nbsp; |
+|-|
+| wåsp |
+
+<!--v-->
+
+| &nbsp; |
+|-|
+| *wosp* |
+
+<!--v-->
+
+## Legacy Spelling Light
+
+### al ⇒ *aw*
+
+<!--v-->
+
+| &nbsp; |
+|-|
+| talk &nbsp; |
+
+<!--v-->
+
+| &nbsp; |
+|-|
+| tałk &nbsp; |
+
+<!--v-->
+
+| &nbsp; |
+|-|
+| *tawk* |
+
+<!--v-->
+
+## Legacy Spelling Light
+
+### al ⇒ *awl*
+
+<!--v-->
+
+| &nbsp; |
+|-|
+| salt &nbsp; |
+
+<!--v-->
+
+| &nbsp; |
+|-|
+| saɫt &nbsp; |
+
+<!--v-->
+
+| &nbsp; |
+|-|
+| *sawlt* |
+
+<!--v-->
+
+## Legacy Spelling Light
+
+### ol ⇒ *ol_e*
+
+<!--v-->
+
+| &nbsp; |
+|-|
+| gold &nbsp; |
+
+<!--v-->
+
+| &nbsp; |
+|-|
+| goɫd &nbsp; |
+
+<!--v-->
+
+| &nbsp; |
+|-|
+| *golde* |
+
+<!--s-->
+
 ## Verbs
 
 <!--s-->
@@ -2358,7 +2452,7 @@ Notes:
 
 | &nbsp; |
 |-|
-| *fed* &nbsp; &nbsp; &nbsp; |
+| *fed* &nbsp; &nbsp; &nbsp; &nbsp; |
 
 Notes:
 * bleed breed feed
@@ -2862,124 +2956,7 @@ Notes:
 
 <!--s-->
 
-## Legacy Spelling Light
-
-### wa ⇒ *wo*
-
-<!--v-->
-
-| &nbsp; |
-|-|
-| wasp |
-
-<!--v-->
-
-| &nbsp; |
-|-|
-| wåsp |
-
-<!--v-->
-
-| &nbsp; |
-|-|
-| *wosp* |
-
-<!--v-->
-
-## Legacy Spelling Light
-
-### al ⇒ *aw*
-
-<!--v-->
-
-| &nbsp; |
-|-|
-| talk &nbsp; |
-
-<!--v-->
-
-| &nbsp; |
-|-|
-| tałk &nbsp; |
-
-<!--v-->
-
-| &nbsp; |
-|-|
-| *tawk* |
-
-<!--v-->
-
-## Legacy Spelling Light
-
-### al ⇒ *awl*
-
-<!--v-->
-
-| &nbsp; |
-|-|
-| salt &nbsp; |
-
-<!--v-->
-
-| &nbsp; |
-|-|
-| saɫt &nbsp; |
-
-<!--v-->
-
-| &nbsp; |
-|-|
-| *sawlt* |
-
-<!--v-->
-
-## Legacy Spelling Light
-
-### ol ⇒ *ol_e*
-
-<!--v-->
-
-| &nbsp; |
-|-|
-| gold &nbsp; |
-
-<!--v-->
-
-| &nbsp; |
-|-|
-| goɫd &nbsp; |
-
-<!--v-->
-
-| &nbsp; |
-|-|
-| *golde* |
-
-<!--v-->
-
-## Legacy Spelling Light
-
-### ai ⇒ *a_e*
-
-<!--v-->
-
-| &nbsp; |
-|-|
-| straight |
-
-<!--v-->
-
-| &nbsp; |
-|-|
-| *strate* |
-
-Notes:
-* made
-
-<!--v-->
-
-## Legacy Spelling Light
+## More Edge Cases
 
 ### oa ⇒ *o_e*
 
@@ -3002,7 +2979,7 @@ Notes:
 
 <!--v-->
 
-## Re-Spelling
+## More Edge Cases
 
 ### ea, ie ≠ ee
 
@@ -3178,7 +3155,5 @@ Plot-twist:
 "sho'" and "mo'" are colloquial/casual/spoken pronunciations. (Same: "a'" for "ire" and "our".)
 In Mid-English (actually not so different from Mid-Atlantic) these borrowings from the south are *less* prestigious(?), less distinct. It's strange, counterintuitive and problematic for a learner to view all the jazziness of southern English as more prestigious. That's why "RP" doesn't seem to work for me as a non-regional, neutral, distinct pronunciation.
 -->
-
-<!-- Edge Case: makhed maighed made (maid) -->
 
 <!-- Edge Case: taih toe tõugh≠tuff, faih foe fõugh, raih row rõugh≠ruff -->
