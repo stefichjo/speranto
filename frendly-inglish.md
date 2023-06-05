@@ -1663,97 +1663,79 @@ Notes:
 
 ## Spelling Lite
 
-### aigh ⇒ *ai*
+### aigh, eigh ⇒ *ai*
 
 <!--v-->
 
-| &nbsp; &nbsp; &nbsp; &nbsp; |
-|-|
-| wait &nbsp; &nbsp; |
+| *waght* | &nbsp; | &nbsp; | &nbsp; |
+|-|-|-|-|
+| wait &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
 
 <!--v-->
 
-| waht |
-|-|
-| wait &nbsp; &nbsp; |
+| *waght* | &nbsp; | &nbsp; | &nbsp; |
+|-|-|-|-|
+| waight | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
 
 <!--v-->
 
-| *waght* |
-|-|
-| wait &nbsp; &nbsp; |
+| *waght* | &nbsp; | &nbsp; | &nbsp; |
+|-|-|-|-|
+| *wait* | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
 
 <!--v-->
 
-| *waght* |
-|-|
-| waight |
+| *waght* | *wegh* | &nbsp; | &nbsp; |
+|-|-|-|-|
+| *wait* | weigh | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
 
 <!--v-->
 
-| *waght* |
-|-|
-| *wait* |
+| *waght* | *wegh* | &nbsp; | &nbsp; |
+|-|-|-|-|
+| *wait* | *wey* &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
 
 <!--v-->
 
-## Spelling Lite
-
-### eigh ⇒ *ei* ⇒ *ai*
-
-<!--v-->
-
-| *wegh* | &nbsp; | &nbsp; |
-|-|-|-|
-| weigh | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+| *waght* | *wegh* | &nbsp; | &nbsp; |
+|-|-|-|-|
+| *wait* | *way* &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
 
 <!--v-->
 
-| *wegh* | &nbsp; | &nbsp; |
-|-|-|-|
-| *wey* &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+| *waght* | *wegh* | *seghel* | &nbsp; |
+|-|-|-|-|
+| *wait* | *way* &nbsp; &nbsp; | seighel | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
 
 <!--v-->
 
-| *wegh* | &nbsp; | &nbsp; |
-|-|-|-|
-| *way* &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+| *waght* | *wegh* | *seghel* | &nbsp; |
+|-|-|-|-|
+| *wait* | *way* &nbsp; &nbsp; | *seil* &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
 
 <!--v-->
 
-| *wegh* | *seghel* | &nbsp; |
-|-|-|-|
-| *way* &nbsp; &nbsp; | seighel | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+| *waght* | *wegh* | *seghel* | &nbsp; |
+|-|-|-|-|
+| *wait* | *way* &nbsp; &nbsp; | *sail* &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
 
 <!--v-->
 
-| *wegh* | *seghel* | &nbsp; |
-|-|-|-|
-| *way* &nbsp; &nbsp; | *seil* &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+| *waght* | *wegh* | *seghel* | *reghen* |
+|-|-|-|-|
+| *wait* | *way* &nbsp; &nbsp; | *sail* &nbsp; &nbsp; &nbsp; | reighen |
 
 <!--v-->
 
-| *wegh* | *seghel* | &nbsp; |
-|-|-|-|
-| *way* &nbsp; &nbsp; | *sail* &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+| *waght* | *wegh* | *seghel* | *reghen* |
+|-|-|-|-|
+| *wait* | *way* &nbsp; &nbsp; | *sail* &nbsp; &nbsp; &nbsp; | *rein* &nbsp; &nbsp; &nbsp; |
 
 <!--v-->
 
-| *wegh* | *seghel* | *reghen* |
-|-|-|-|
-| *way* &nbsp; &nbsp; | *sail* &nbsp; &nbsp; &nbsp; | reighen |
-
-<!--v-->
-
-| *wegh* | *seghel* | *reghen* |
-|-|-|-|
-| *way* &nbsp; &nbsp; | *sail* &nbsp; &nbsp; &nbsp; | *rein* &nbsp; &nbsp; &nbsp; |
-
-<!--v-->
-
-| *wegh* | *seghel* | *reghen* |
-|-|-|-|
-| *way* &nbsp; &nbsp; | *sail* &nbsp; &nbsp; &nbsp; | *rain* &nbsp; &nbsp; &nbsp; |
+| *waght* | *wegh* | *seghel* | *reghen* |
+|-|-|-|-|
+| *wait* | *way* &nbsp; &nbsp; | *sail* &nbsp; &nbsp; &nbsp; | *rain* &nbsp; &nbsp; &nbsp; |
 
 Notes:
 * gray
