@@ -32,77 +32,6 @@ e̥ ≈ y ⇒ i
 ǎěǐǒǔ    ⇒ ǔ
 -->
 
-<!-- TODO Non-Germanic Spelling
-mouve
-succede
-cost
-tost
-creme
-
-pray → prey
-prey → prae (?) bird of prae
-source → sorce (soarce)
-
-ôu: sôuthern → suthern; dôuble tôuch trôuble; out, utter=ôuter
--->
-
-<!-- TODO 1
-one = ǒan/ǒân
-only = oanly
-lonly = loanly
-alone = alloan
-any = äny
-an = än
-a = a
-
-any, many, penny
-money, honey, funny
-very, berry, ferry
-ready steady
--->
-
-<!-- TODO Fricatives / Plural / Verbs
-breth breathe
-wǔlf wulfes
-half halfe
-houce housing
-mouce mice
-ove?
--->
-
-<!-- TODO
-ȯ: wimen; woman = wǐman
-o̊: do̊ll
-
-ôo: dôon?
-ōe: shue
-ou: fowl
-
--->
-
-<!-- TODO Plus: ai
-
-most(e) more → moast moar
-boath
-
--->
-
-
-<!-- TODO
-rhotic English         = Northern-ish
-non-rhotic English     = Southern-ish
-rhotic Mid-English     = similar to GenAm
-non-rhotic Mid-English = my accent, similar to Bealtes
-
-But the Beatles rhyme "sure" with "more". That's way too southern-ish for my accent. (I try to say "shua" and "moa".)
-
-Plot-twist:
-"sho'" and "mo'" are colloquial/casual/spoken pronunciations. (Same: "a'" for "ire" and "our".)
-In Mid-English (actually not so different from Mid-Atlantic) these borrowings from the south are *less* prestigious(?), less distinct. It's strange, counterintuitive and problematic for a learner to view all the jazziness of southern English as more prestigious. That's why "RP" doesn't seem to work for me as a non-regional, neutral, distinct pronunciation.
--->
-
-<!-- Edge Case: taih toe tõugh≠tuff, faih foe fõugh, raih row rõugh≠ruff -->
-
 ## Friendly Spelling
 *(Diacritic Marks: ȏöȯo̊ôǒõōø)*
 
@@ -526,36 +455,60 @@ Notes:
 
 <!--s-->
 
-## Re-Spelling
+## Spelling Pro
 *(Etymology)*
 
 <!--v-->
 
-## Re-Spelling
+## Spelling Pro
 
-### eğ ⇒ eigh
-
-<!--v-->
-
-| &nbsp; |
-|-|
-| weigh |
+### ğ, h, kh ⇒ igh
 
 <!--v-->
 
-| weg |
-|-|
-| weigh |
+| &nbsp; | &nbsp; |
+|-|-|
+| weigh | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
 
 <!--v-->
 
-| weğ |
-|-|
-| weigh |
+| weg | &nbsp; |
+|-|-|
+| weigh | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
 
 <!--v-->
 
-## Re-Spelling
+| weğ | &nbsp; |
+|-|-|
+| weigh | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+
+<!--v-->
+
+| weğ | &nbsp; |
+|-|-|
+| weigh | straight |
+
+<!--v-->
+
+| weğ | streht |
+|-|-|
+| weigh | straight |
+
+<!--v-->
+
+| weğ | streht |
+|-|-|
+| weigh | ~straight~ |
+
+<!--v-->
+
+| weğ | streht |
+|-|-|
+| weigh | streight |
+
+<!--v-->
+
+## Spelling Pro
 
 ### æ, ø, y ⇒ e, e, i
 
@@ -608,7 +561,7 @@ Notes:
 | men &nbsp; &nbsp; &nbsp; | *fed* &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
 
 Notes:
-* cf. Verbs + Simple Re-Spelling
+* cf. Verbs + Simple Spelling Pro
 * Wødăn's dagh
 
 <!--v-->
@@ -655,7 +608,7 @@ Notes:
 
 <!--v-->
 
-## Re-Spelling
+## Spelling Pro
 
 ### ai, æu, eu ⇒ ea, ea, ee
 
@@ -721,7 +674,7 @@ Notes:
 
 <!--v-->
 
-## Re-Spelling
+## Spelling Pro
 
 ### ai, æu, eu ⇒ oa, i, i
 
@@ -787,7 +740,7 @@ Notes:
 
 <!--v-->
 
-## Re-Spelling
+## Spelling Pro
 
 ### a/o, ai/æ ⇒ -o
 
@@ -877,7 +830,7 @@ Notes:
 
 <!--v-->
 
-## Re-Spelling
+## Spelling Pro
 
 ### -ough
 
@@ -940,7 +893,7 @@ Notes:
 
 <!--v-->
 
-## Re-Spelling
+## Spelling Pro
 
 ### -r
 
@@ -1066,12 +1019,12 @@ Notes:
 
 <!--s-->
 
-## Simple Re-Spelling
+## Simple Spelling Pro
 *(Etymology`*`)*
 
 <!--v-->
 
-## Simple Re-Spelling
+## Simple Spelling Pro
 
 ### aigh ⇒ *ai*
 
@@ -1131,7 +1084,7 @@ Notes:
 
 <!--v-->
 
-## Simple Re-Spelling
+## Simple Spelling Pro
 
 ### -igh ⇒ *-y*
 
@@ -1155,7 +1108,7 @@ Notes:
 
 <!--v-->
 
-| *happigh* | frendlikh |
+| *happigh* | frïjŏndlikh |
 |-|-|
 | *happy* | frendligh |
 
@@ -1163,17 +1116,19 @@ Notes:
 
 | *happigh* | *frendligh* |
 |-|-|
-| *happy* | frendligh |
+| *happy* | frendligh &nbsp; &nbsp; |
 
 <!--v-->
 
 | *happigh* | *frendligh* |
 |-|-|
-| *happy* | *frendly* |
+| *happy* | *frendly* &nbsp; &nbsp; &nbsp; &nbsp; |
+
+<!-- TODO bo̊dy, rëdy, stæddigh=steddy -->
 
 <!--v-->
 
-## Simple Re-Spelling
+## Simple Spelling Pro
 
 ### e_e ⇒ *ee*
 
@@ -1287,7 +1242,7 @@ Notes:
 
 <!--v-->
 
-## Simple Re-Spelling
+## Simple Spelling Pro
 
 ### ëa, ëe ⇒ *e*
 
@@ -1405,9 +1360,13 @@ Notes:
 |-|-|-|
 | *helth* &nbsp; &nbsp; &nbsp; &nbsp; | *bred* &nbsp; &nbsp; &nbsp; &nbsp; | *depth* &nbsp; &nbsp; &nbsp; &nbsp; |
 
+Notes:
+* broad breadth
+* ready
+
 <!--v-->
 
-## Simple Re-Spelling
+## Simple Spelling Pro
 
 ### au/o, -ai/-æ ⇒ *-õw*
 
@@ -1533,7 +1492,7 @@ Notes:
 
 <!--v-->
 
-## Simple Re-Spelling
+## Simple Spelling Pro
 
 ### ough, augh ⇒ *ow*, *aw*
 
@@ -1614,7 +1573,7 @@ Notes:
 
 <!--v-->
 
-## Simple Re-Spelling
+## Simple Spelling Pro
 
 ### -ough ⇒ *-ow*
 
@@ -1687,6 +1646,12 @@ Notes:
 
 | *waght* | *wegh* | &nbsp; | &nbsp; |
 |-|-|-|-|
+| *wait* | way &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+
+<!--v-->
+
+| *waght* | *wegh* | &nbsp; | &nbsp; |
+|-|-|-|-|
 | *wait* | weigh | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
 
 <!--v-->
@@ -1705,6 +1670,12 @@ Notes:
 
 | *waght* | *wegh* | *seghel* | &nbsp; |
 |-|-|-|-|
+| *wait* | *way* &nbsp; &nbsp; | sail &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+
+<!--v-->
+
+| *waght* | *wegh* | *seghel* | &nbsp; |
+|-|-|-|-|
 | *wait* | *way* &nbsp; &nbsp; | seighel | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
 
 <!--v-->
@@ -1718,6 +1689,12 @@ Notes:
 | *waght* | *wegh* | *seghel* | &nbsp; |
 |-|-|-|-|
 | *wait* | *way* &nbsp; &nbsp; | *sail* &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+
+<!--v-->
+
+| *waght* | *wegh* | *seghel* | *reghen* |
+|-|-|-|-|
+| *wait* | *way* &nbsp; &nbsp; | *sail* &nbsp; &nbsp; &nbsp; | rain &nbsp; &nbsp; &nbsp; |
 
 <!--v-->
 
@@ -1744,7 +1721,7 @@ Notes:
 
 ## Spelling Lite
 
-### igh ⇒ *i*
+### *igh* ⇒ *i*
 
 <!--v-->
 
@@ -1774,164 +1751,98 @@ Notes:
 
 ## Spelling Lite
 
-### -õugh ⇒ *-o*
+### *õw*, *õugh*, *oa* ⇒ *o*
 
 <!--v-->
 
-| thaukh |
-|-|
-| thõugh |
+| *logh* | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
+|-|-|-|-|-|
+| lõw &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
 
 <!--v-->
 
-| thḁkh |
-|-|
-| thõugh |
+| *logh* | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
+|-|-|-|-|-|
+| lõugh | &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
 
 <!--v-->
 
-| *thogh* |
-|-|
-| thõugh |
+| *logh* | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
+|-|-|-|-|-|
+| *lõw* &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
 
 <!--v-->
 
-| *thogh* |
-|-|
-| *thõw* &nbsp; &nbsp; |
+| *logh* | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
+|-|-|-|-|-|
+| *lo* &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
 
 <!--v-->
 
-| *thogh* |
-|-|
-| *tho* &nbsp; &nbsp; &nbsp; |
+| *logh* | *slæ* | &nbsp; | &nbsp; | &nbsp; |
+|-|-|-|-|-|
+| *lo* &nbsp; &nbsp; &nbsp; | slõw | &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
 
 <!--v-->
 
-## Spelling Lite
-
-### *-õw* ⇒ *-o*
-
-<!--v-->
-
-| &nbsp; | &nbsp; | &nbsp; |
-|-|-|-|
-| *lõw* &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; |
+| *logh* | *slæ* | &nbsp; | &nbsp; | &nbsp; |
+|-|-|-|-|-|
+| *lo* &nbsp; &nbsp; &nbsp; | slo &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
 
 <!--v-->
 
-| lag | &nbsp; | &nbsp; |
-|-|-|-|
-| *lõw* &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; |
+| *logh* | *slæ* | &nbsp; | &nbsp; | &nbsp; |
+|-|-|-|-|-|
+| *lo* &nbsp; &nbsp; &nbsp; | *slõw* | &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
 
 <!--v-->
 
-| låğ | &nbsp; | &nbsp; |
-|-|-|-|
-| *lõw* &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; |
+| *logh* | *slæ* | &nbsp; | &nbsp; | &nbsp; |
+|-|-|-|-|-|
+| *lo* &nbsp; &nbsp; &nbsp; | *slo* &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
 
 <!--v-->
 
-| *logh* | &nbsp; | &nbsp; |
-|-|-|-|
-| *lõw* &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; |
+| *logh* | *slæ* | *fro* | &nbsp; | &nbsp; |
+|-|-|-|-|-|
+| *lo* &nbsp; &nbsp; &nbsp; | *slo* &nbsp; | fro &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
 
 <!--v-->
 
-| *logh* | &nbsp; | &nbsp; |
-|-|-|-|
-| *lo* &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; |
+| *logh* | *slæ* | *fro* | &nbsp; | &nbsp; |
+|-|-|-|-|-|
+| *lo* &nbsp; &nbsp; &nbsp; | *slo* &nbsp; | *frõw* | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
 
 <!--v-->
 
-| *logh* | &nbsp; | &nbsp; |
-|-|-|-|
-| *lo* &nbsp; &nbsp; &nbsp; | *slõw* | &nbsp; &nbsp; &nbsp; &nbsp; |
+| *logh* | *slæ* | *fro* | &nbsp; | &nbsp; |
+|-|-|-|-|-|
+| *lo* &nbsp; &nbsp; &nbsp; | *slo* &nbsp; | *fro* &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
 
 <!--v-->
 
-| *logh* | slæ | &nbsp; |
-|-|-|-|
-| *lo* &nbsp; &nbsp; &nbsp; | *slõw* | &nbsp; &nbsp; &nbsp; &nbsp; |
+| *logh* | *slæ* | *fro* | *thogh* | &nbsp; |
+|-|-|-|-|-|
+| *lo* &nbsp; &nbsp; &nbsp; | *slo* &nbsp; | *fro* &nbsp; | thõugh | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
 
 <!--v-->
 
-| *logh* | *slõ* | &nbsp; |
-|-|-|-|
-| *lo* &nbsp; &nbsp; &nbsp; | *slõw* | &nbsp; &nbsp; &nbsp; &nbsp; |
-
-<!--v-->
-
-| *logh* | *slõ* | &nbsp; |
-|-|-|-|
-| *lo* &nbsp; &nbsp; &nbsp; | *slo* &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; |
-
-<!--v-->
-
-| *logh* | *slõ* | fra |
-|-|-|-|
-| *lo* &nbsp; &nbsp; &nbsp; | *slo* &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; |
-
-<!--v-->
-
-| *logh* | *slõ* | fra |
-|-|-|-|
-| *lo* &nbsp; &nbsp; &nbsp; | *slo* &nbsp; | fro &nbsp; |
-
-<!--v-->
-
-| *logh* | *slõ* | frå |
-|-|-|-|
-| *lo* &nbsp; &nbsp; &nbsp; | *slo* &nbsp; | fro &nbsp; |
-
-<!--v-->
-
-| *logh* | *slõ* | *fro* |
-|-|-|-|
-| *lo* &nbsp; &nbsp; &nbsp; | *slo* &nbsp; | fro &nbsp; |
-
-<!--v-->
-
-| *logh* | *slõ* | *fro* |
-|-|-|-|
-| *lo* &nbsp; &nbsp; &nbsp; | *slo* &nbsp; | *frõw* |
-
-<!--v-->
-
-| *logh* | *slõ* | *fro* |
-|-|-|-|
-| *lo* &nbsp; &nbsp; &nbsp; | *slo* &nbsp; | *fro* &nbsp; |
-
-<!--v-->
-
-## Spelling Lite
-
-### oa ⇒ *o*
-
-<!--v-->
-
-| hạ̃m |
-|-|
-| hoam |
+| *logh* | *slæ* | *fro* | *thogh* | &nbsp; |
+|-|-|-|-|-|
+| *lo* &nbsp; &nbsp; &nbsp; | *slo* &nbsp; | *fro* &nbsp; | *tho* &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
 
 <!--v-->
 
 <!-- TODO hæ~m -->
-| *hæm* |
-|-|
-| hoam |
+| *logh* | *slæ* | *fro* | *thogh* | *hæm* |
+|-|-|-|-|-|
+| *lo* &nbsp; &nbsp; &nbsp; | *slo* &nbsp; | *fro* &nbsp; | *tho* &nbsp; &nbsp; &nbsp; | hoam |
 
 <!--v-->
 
-| *hõm* |
-|-|
-| hoam |
-
-<!--v-->
-
-| *hõm* |
-|-|
-| *home* |
+| *logh* | *slæ* | *fro* | *thogh* | *hæm* |
+|-|-|-|-|-|
+| *lo* &nbsp; &nbsp; &nbsp; | *slo* &nbsp; | *fro* &nbsp; | *tho* &nbsp; &nbsp; &nbsp; | *home* |
 
 Notes:
 * hoam → home, stoan → stone
@@ -1944,113 +1855,59 @@ Notes:
 
 ## Spelling Lite
 
-### -ew ⇒ *-u*
+### *ew*, *ōugh* ⇒ *-u*
 
 <!--v-->
 
-| &nbsp; | &nbsp; |
-|-|-|
-| new | &nbsp; &nbsp; &nbsp; &nbsp; |
+| *neu* | &nbsp; | &nbsp; |
+|-|-|-|
+| new | &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
 
 <!--v-->
 
-| neu | &nbsp; |
-|-|-|
-| new | &nbsp; &nbsp; &nbsp; &nbsp; |
+| *neu* | &nbsp; | &nbsp; |
+|-|-|-|
+| *nu* | &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
 
 <!--v-->
 
-| neu | &nbsp; |
-|-|-|
-| *new* | &nbsp; &nbsp; &nbsp; &nbsp; |
+| *neu* | *treu* | &nbsp; |
+|-|-|-|
+| *nu* | true | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
 
 <!--v-->
 
-| neu | &nbsp; |
-|-|-|
-| *nu* | &nbsp; &nbsp; &nbsp; &nbsp; |
+| *neu* | *treu* | &nbsp; |
+|-|-|-|
+| *nu* | ~true~ | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
 
 <!--v-->
 
-| neu | &nbsp; |
-|-|-|
-| *nu* | true |
+| *neu* | *treu* | &nbsp; |
+|-|-|-|
+| *nu* | trew | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
 
 <!--v-->
 
-| neu | treu |
-|-|-|
-| *nu* | true |
+| *neu* | *treu* | &nbsp; |
+|-|-|-|
+| *nu* | *tru* | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
 
 <!--v-->
 
-| neu | treu |
-|-|-|
-| *nu* | ~true~ |
+| *neu* | *treu* | *thrugh* |
+|-|-|-|
+| *nu* | *tru* | thrōugh |
 
 <!--v-->
 
-| neu | treu |
-|-|-|
-| *nu* | trew |
-
-<!--v-->
-
-| neu | treu |
-|-|-|
-| *nu* | *trew* |
-
-<!--v-->
-
-| neu | treu |
-|-|-|
-| *nu* | *tru* |
-
-<!--v-->
-
-## Spelling Lite
-
-### -ōugh ⇒ *-u*
-
-<!--v-->
-
-| &nbsp; |
-|-|
-| thrōugh |
-
-<!--v-->
-
-| thurh |
-|-|
-| thrōugh |
-
-<!--v-->
-
-| thruh |
-|-|
-| thrōugh |
-
-<!--v-->
-
-| *thrugh* |
-|-|
-| thrōugh |
-
-<!--v-->
-
-| *thrugh* |
-|-|
-| *thrōugh* |
-
-<!--v-->
-
-| *thrugh* |
-|-|
-| *thru* &nbsp; &nbsp; &nbsp; |
+| *neu* | *treu* | *thrugh* |
+|-|-|-|
+| *nu* | *tru* | *thru* &nbsp; &nbsp; &nbsp; |
 
 <!--s-->
 
-## u, w, l
+## Vocalisms and Vocalizations
 
 ### wa ⇒ *wo*
 
@@ -2074,7 +1931,7 @@ Notes:
 
 <!--v-->
 
-## Legacy Spelling Light
+## Vocalisms and Vocalizations
 
 ### al ⇒ *aw*
 
@@ -2098,7 +1955,7 @@ Notes:
 
 <!--v-->
 
-## Legacy Spelling Light
+## Vocalisms and Vocalizations
 
 ### al ⇒ *awl*
 
@@ -2122,7 +1979,7 @@ Notes:
 
 <!--v-->
 
-## Legacy Spelling Light
+## Vocalisms and Vocalizations
 
 ### ol ⇒ *ol_e*
 
@@ -2144,9 +2001,484 @@ Notes:
 |-|
 | *golde* |
 
+<!-- TODO
+ȯ: wimen; woman = wǐman
+o̊: do̊ll
+
+ôo: dôon?
+ōe: shue
+ou: fowl
+-->
+
 <!--s-->
 
-## Verbs
+## Consonants
+
+<!--v-->
+
+## Consonants
+
+### *ch*, *sh*
+
+<!--v-->
+
+| &nbsp; | &nbsp; |
+|-|-|
+| chest | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+
+<!--v-->
+
+| kist | &nbsp; |
+|-|-|
+| chest | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+
+<!--v-->
+
+| ꝁïst | &nbsp; |
+|-|-|
+| chest | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+
+<!--v-->
+
+| *chest* | &nbsp; |
+|-|-|
+| chest | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+
+<!--v-->
+
+| *chest* | &nbsp; |
+|-|-|
+| chest | shirt &nbsp; &nbsp; |
+
+<!--v-->
+
+| *chest* | skurt_i |
+|-|-|
+| chest | shirt &nbsp; &nbsp; |
+
+<!--v-->
+
+| *chest* | sꝁyrt |
+|-|-|
+| chest | shirt &nbsp; &nbsp; |
+
+<!--v-->
+
+| *chest* | *shyrt* |
+|-|-|
+| chest | shirt &nbsp; &nbsp; |
+
+<!--s-->
+
+## Consonants
+
+### *f* & *v*, *s* & *c*, *th*
+
+<!-- TODO Fricatives / Plural / Verbs
+breth breathe
+wǔlf wulfes
+half halfe
+houce housing
+mouce mice
+ove?
+-->
+
+<!--s-->
+
+## Consonants
+
+### *wh*
+
+Notes:
+* what, when, where, which, why
+* who, whom, whose, how
+* whole (hole, hollow), holy, ho̊liday, heal, hëalth
+
+<!--v-->
+
+| &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+|-|
+| whole |
+
+<!--v-->
+
+| hail &nbsp; &nbsp; |
+|-|
+| whole |
+
+<!--v-->
+
+| hail &nbsp; &nbsp; |
+|-|
+| ~~whole~~ |
+
+<!--v-->
+
+| hail &nbsp; &nbsp; |
+|-|
+| hoal |
+
+<!--s-->
+
+## French Spelling
+*(Old French, Actually)*
+
+<!-- TODO môney -->
+
+<!--v-->
+
+## French Spelling
+
+### -ĕ
+
+<!--v-->
+
+| &nbsp; |
+|-|
+| imagine |
+
+<!--v-->
+
+| &nbsp; |
+|-|
+| imaginĕ |
+
+<!--v-->
+
+## French Spelling
+
+### ōu
+
+<!--v-->
+
+| &nbsp; |
+|-|
+| soup |
+
+<!--v-->
+
+| &nbsp; |
+|-|
+| sōup |
+
+<!--v-->
+
+## French Spelling
+
+### ch
+
+<!--v-->
+
+| &nbsp; | &nbsp; |
+|-|-|
+| chair | cherry |
+
+<!--v-->
+
+| &nbsp; | &nbsp; |
+|-|-|
+| chair | çherry |
+
+Notes:
+* mouve
+* succede
+* cost, host, tost
+* creme
+* pray → prey
+* prey → prae (?) bird of prae
+* source → sorce
+* ôu: sôuthern → suthern; dôuble tôuch trôuble; out, utter=ôuter
+
+<!--s-->
+
+## Case Study
+
+### 1
+
+<!-- TODO 1
+one = ǒan/ǒân
+only = oanly
+lonly = loanly
+alone = alloan
+any = äny
+an = än
+a = a
+once
+
+any, many, penny
+money, honey, funny
+very, berry, ferry
+ready steady
+-->
+
+<!--s-->
+
+## Case Study
+
+### 2
+
+Notes:
+* tw̆ō twi- twice twain twin twenty twelve
+* twig, twist
+
+<!--s-->
+
+## Case Study
+
+### wu/un/uth
+
+Notes:
+* fun, gun, run, sun
+* uncle
+* muther, bruther, uther, suthern (?)
+
+<!--s-->
+
+## Case Study
+<!-- TODO spreit → spread; laid_i → lead ⇒ spræd? -->
+
+<!--s-->
+
+## Case Study
+
+### ạ̃
+
+<!--v-->
+
+| &nbsp; |
+|-|
+| sõul |
+
+<!--v-->
+
+| sail |
+|-|
+| sõul |
+
+<!--v-->
+
+| sạ̃l |
+|-|
+| sõul |
+
+<!--v-->
+
+<!-- TODO sæ~l -->
+| *sæl* |
+|-|
+| sõul |
+
+<!--v-->
+
+| *sæl* |
+|-|
+| ~sõul~ |
+
+<!--v-->
+
+| *sæl* |
+|-|
+| soal |
+
+<!--v-->
+
+| &nbsp; |
+|-|
+| coat |
+
+<!--v-->
+
+| kott |
+|-|
+| coat |
+
+<!--v-->
+
+| kott |
+|-|
+| ~~coat~~ |
+
+<!--v-->
+
+| kott |
+|-|
+| cote |
+
+Notes:
+* coat, soak
+* moast moar
+* boath
+
+<!-- TODO taih toe tõugh≠tuff, faih foe fõugh, raih row rõugh≠ruff -->
+
+<!--v-->
+
+## Case Study
+
+### worry
+
+<!--v-->
+
+| &nbsp; |
+|-|
+| worry |
+
+<!--v-->
+
+| &nbsp; |
+|-|
+| wôrry |
+
+<!--v-->
+
+| wurg |
+|-|
+| wôrry |
+
+<!--v-->
+
+| wurġ |
+|-|
+| wôrry |
+
+<!--v-->
+
+| *wurrigh* |
+|-|
+| wôrry |
+
+<!--v-->
+
+## Case Study
+
+### U & I
+
+<!--v-->
+
+| ek |
+|-|
+| I |
+
+<!--v-->
+
+| ėkh |
+|-|
+| I |
+
+<!--v-->
+
+| *igh* |
+|-|
+| I |
+
+<!--v-->
+
+| *igh* |
+|-|
+| igh |
+
+<!--v-->
+
+| *igh* |
+|-|
+| *I* |
+
+Notes:
+* eye, window
+
+<!--v-->
+
+| *dæghnut* |
+|-|
+| dõughnut |
+
+<!--v-->
+
+| *dæghnut* |
+|-|
+| *dõwnut* &nbsp; &nbsp; |
+
+<!--v-->
+
+| *dæghnut* |
+|-|
+| *donut* &nbsp; &nbsp; &nbsp; |
+
+<!--v-->
+
+## Spelling Pro
+
+### oo ≠ eu
+
+<!--v-->
+
+| &nbsp; |
+|-|
+| shoot |
+
+<!--v-->
+
+| skeut |
+|-|
+| shoot |
+
+<!--v-->
+
+| skeut |
+|-|
+| ~~shoot~~ |
+
+<!--v-->
+
+| skeut |
+|-|
+| sheut |
+
+Notes:
+* cheuse (choose)
+* trew (true)
+* Admittedly, it's very convenient to have "shoot shot shot"; especially when "y" behaves like "ø"
+* cf. laus lose
+
+<!--v-->
+
+## Spelling Pro
+
+### ô ≠ u
+
+<!--v-->
+
+| sunth + ern |
+|-|
+| sôuthern |
+
+<!--v-->
+
+| sun̆th + ern |
+|-|
+| sôuthern |
+
+<!--v-->
+
+| sun̆thern &nbsp; &nbsp; |
+|-|
+| sôuthern |
+
+<!--v-->
+
+| sun̆thern &nbsp; &nbsp; |
+|-|
+| ~sôuthern~ |
+
+<!--v-->
+
+| sun̆thern &nbsp; &nbsp; |
+|-|
+| suthern |
+
+<!--s-->
+
+## Case Study: Verbs
 
 <!--s-->
 
@@ -2661,369 +2993,5 @@ Notes:
 * e̥: creep fleegh kneel
 * ạ: deal
 * æ̥: (dream) hear (leap) leave mean
-
-<!--s-->
-
-## French Spelling
-*(Old French, Actually)*
-
-<!--v-->
-
-## French Spelling
-
-### -ĕ
-
-<!--v-->
-
-| &nbsp; |
-|-|
-| imagine |
-
-<!--v-->
-
-| &nbsp; |
-|-|
-| imaginĕ |
-
-<!--v-->
-
-## French Spelling
-
-### ōu
-
-<!--v-->
-
-| &nbsp; |
-|-|
-| soup |
-
-<!--v-->
-
-| &nbsp; |
-|-|
-| sōup |
-
-<!--v-->
-
-## French Spelling
-
-### ch
-
-<!--v-->
-
-| &nbsp; | &nbsp; |
-|-|-|
-| chair | cherry |
-
-<!--v-->
-
-| &nbsp; | &nbsp; |
-|-|-|
-| chair | çherry |
-
-<!--s-->
-
-## Case Study
-
-### *gh*
-
-Notes:
-* straight
-* I, U
-* eye, window
-* sorrow, worry
-* dough
-
-<!--s-->
-
-## Case Study
-
-### *sh*, *ch*
-
-Notes:
-* skip sꝁipp ship
-* kist ꝁïst chest
-
-<!--s-->
-
-## Case Study
-
-### *wh*
-
-Notes:
-* why, how
-* whole, holy
-
-<!--s-->
-
-## Case Study
-
-### wu/un/uth
-
-Notes:
-* fun, gun, run, sun
-* uncle
-* muther, bruther, uther, suthern (?)
-
-<!--s-->
-
-## Edge Cases
-<!-- TODO edge case spreit → spread; laid_i → lead ⇒ spræd? -->
-
-<!-- TODO edge cases? cry fry try -->
-
-<!--v-->
-
-## Edge Cases
-
-### soul
-
-<!--v-->
-
-| &nbsp; |
-|-|
-| soul |
-
-<!--v-->
-
-| &nbsp; |
-|-|
-| sõul |
-
-<!--v-->
-
-| sail |
-|-|
-| sõul |
-
-<!--v-->
-
-| sail |
-|-|
-| ~~sõul~~ |
-
-<!--v-->
-
-| sail |
-|-|
-| soal |
-
-<!--v-->
-
-## Edge Cases
-
-### whole
-
-<!--v-->
-
-| &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
-|-|
-| whole |
-
-<!--v-->
-
-| hail &nbsp; &nbsp; |
-|-|
-| whole |
-
-<!--v-->
-
-| hail &nbsp; &nbsp; |
-|-|
-| ~~whole~~ |
-
-<!--v-->
-
-| hail &nbsp; &nbsp; |
-|-|
-| hoal |
-
-Notes:
-* hoaly heal health
-
-<!--v-->
-
-## Edge Cases
-
-### worry
-
-<!--v-->
-
-| &nbsp; |
-|-|
-| worry |
-
-<!--v-->
-
-| &nbsp; |
-|-|
-| wôrry |
-
-<!--v-->
-
-| wurg |
-|-|
-| wôrry |
-
-<!--v-->
-
-| wurġ |
-|-|
-| wôrry |
-
-<!--v-->
-
-| *wurrigh* |
-|-|
-| wôrry |
-
-<!--v-->
-
-| ek |
-|-|
-| I |
-
-<!--v-->
-
-| ėkh |
-|-|
-| I |
-
-<!--v-->
-
-| *igh* |
-|-|
-| I |
-
-<!--v-->
-
-| *igh* |
-|-|
-| igh |
-
-<!--v-->
-
-| *igh* |
-|-|
-| *I* |
-
-<!-- TODO edge case: straight -->
-
-<!--v-->
-
-| *dæghnut* |
-|-|
-| dõughnut |
-
-<!--v-->
-
-| *dæghnut* |
-|-|
-| *dõwnut* &nbsp; &nbsp; |
-
-<!--v-->
-
-| *dæghnut* |
-|-|
-| *donut* &nbsp; &nbsp; &nbsp; |
-
-<!--v-->
-
-| &nbsp; |
-|-|
-| coat |
-
-<!--v-->
-
-| kott |
-|-|
-| coat |
-
-<!--v-->
-
-| kott |
-|-|
-| ~~coat~~ |
-
-<!--v-->
-
-| kott |
-|-|
-| cote |
-
-Notes:
-* coat, soak
-
-<!--v-->
-
-## Re-Spelling
-
-### oo ≠ eu
-
-<!--v-->
-
-| &nbsp; |
-|-|
-| shoot |
-
-<!--v-->
-
-| skeut |
-|-|
-| shoot |
-
-<!--v-->
-
-| skeut |
-|-|
-| ~~shoot~~ |
-
-<!--v-->
-
-| skeut |
-|-|
-| sheut |
-
-Notes:
-* cheuse (choose)
-* trew (true)
-* Admittedly, it's very convenient to have "shoot shot shot"; especially when "y" behaves like "ø"
-* cf. laus lose
-
-<!--v-->
-
-## Re-Spelling
-
-### ô ≠ u
-
-<!--v-->
-
-| sunth + ern |
-|-|
-| sôuthern |
-
-<!--v-->
-
-| sun̆th + ern |
-|-|
-| sôuthern |
-
-<!--v-->
-
-| sun̆thern &nbsp; &nbsp; |
-|-|
-| sôuthern |
-
-<!--v-->
-
-| sun̆thern &nbsp; &nbsp; |
-|-|
-| ~sôuthern~ |
-
-<!--v-->
-
-| sun̆thern &nbsp; &nbsp; |
-|-|
-| suthern |
 
 
