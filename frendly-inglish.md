@@ -1092,19 +1092,19 @@ Notes:
 
 | happiğ | &nbsp; |
 |-|-|
-| happigh | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+| happigh | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
 
 <!--v-->
 
 | *happigh* | &nbsp; |
 |-|-|
-| happigh | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+| happigh | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
 
 <!--v-->
 
 | *happigh* | &nbsp; |
 |-|-|
-| *happy* | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+| *happy* | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
 
 <!--v-->
 
@@ -1124,7 +1124,87 @@ Notes:
 |-|-|
 | *happy* | *frendly* &nbsp; &nbsp; &nbsp; &nbsp; |
 
-<!-- TODO bo̊dy, rëdy, stæddigh=steddy -->
+<!-- TODO bo̊dy, rëdy, stæddigh=steddy; eye/window?aug_i øgh windogh -->
+
+<!--v-->
+
+| &nbsp; | &nbsp; |
+|-|-|
+| bo̊dy &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+
+<!--v-->
+
+| bodig | &nbsp; |
+|-|-|
+| bo̊dy &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+
+<!--v-->
+
+| bo̊diğ | &nbsp; |
+|-|-|
+| bo̊dy &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+
+<!--v-->
+
+| *bo̊digh* | &nbsp; |
+|-|-|
+| bo̊dy &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+
+<!--v-->
+
+| *bo̊digh* | &nbsp; |
+|-|-|
+| ~bo̊dy~ &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+
+<!--v-->
+
+| *bo̊digh* | &nbsp; |
+|-|-|
+| bo̊digh | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+
+<!--v-->
+
+| *bo̊digh* | &nbsp; |
+|-|-|
+| *boddy* | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+
+<!--v-->
+
+| *bo̊digh* | raid + ig |
+|-|-|
+| *boddy* | rëady &nbsp; &nbsp; |
+
+<!--v-->
+
+<!-- TODO ạ" -->
+| *bo̊digh* | rạdiğ |
+|-|-|
+| *boddy* | rëady &nbsp; &nbsp; |
+
+<!--v-->
+
+<!-- TODO æ" -->
+| *bo̊digh* | *rædigh* |
+|-|-|
+| *boddy* | rëady &nbsp; &nbsp; |
+
+<!--v-->
+
+| *bo̊digh* | *rædigh* |
+|-|-|
+| *boddy* | ~rëady~ &nbsp; &nbsp; |
+
+<!--v-->
+
+| *bo̊digh* | *rædigh* |
+|-|-|
+| *boddy* | rëadigh |
+
+<!--v-->
+
+| *bo̊digh* | *rædigh* |
+|-|-|
+| *boddy* | *reddy* &nbsp; &nbsp; |
 
 <!--v-->
 
@@ -2068,7 +2148,7 @@ ou: fowl
 |-|-|
 | chest | shirt &nbsp; &nbsp; |
 
-<!--s-->
+<!--v-->
 
 ## Consonants
 
@@ -2083,7 +2163,7 @@ mouce mice
 ove?
 -->
 
-<!--s-->
+<!--v-->
 
 ## Consonants
 
@@ -2204,6 +2284,7 @@ any = äny
 an = än
 a = a
 once
+onşe
 
 any, many, penny
 money, honey, funny
@@ -2218,7 +2299,7 @@ ready steady
 ### 2
 
 Notes:
-* tw̆ō twi- twice twain twin twenty twelve
+* tw̆ō twi- twice (twişe) twain twin twenty twelve
 * twig, twist
 
 <!--s-->
