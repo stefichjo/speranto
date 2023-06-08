@@ -1086,7 +1086,7 @@ Notes:
 
 ## Simple Spelling Pro
 
-### -igh ⇒ *-y*
+### -igh, -ligh ⇒ *-y*, *-ly*
 
 <!--v-->
 
@@ -1124,7 +1124,11 @@ Notes:
 |-|-|
 | *happy* | *frendly* &nbsp; &nbsp; &nbsp; &nbsp; |
 
-<!-- TODO bo̊dy, rëdy, stæddigh=steddy; eye/window?aug_i øgh windogh -->
+<!--v-->
+
+## Simple Spelling Pro
+
+### -igh, -ligh ⇒ *-y*, *-ly*
 
 <!--v-->
 
