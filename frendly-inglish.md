@@ -357,7 +357,7 @@ Notes:
 
 Notes:
 * dëad dëath instëad lëad rëady sprëad
-* hëalth stëalth (stëelth) wëalth (wëelth)
+* hëalth stëalth (stelth) wëalth (welth)
 * ëarly ëarn ëarth pëarl yëarn
 
 <!--v-->
@@ -462,7 +462,7 @@ Notes:
 
 ## Spelling Pro
 
-### ğ, h, kh ⇒ igh
+### ğ, h, kh ⇒ gh
 
 <!--v-->
 
@@ -514,51 +514,57 @@ Notes:
 
 <!--v-->
 
-| &nbsp; | &nbsp; | &nbsp; | &nbsp; |
-|-|-|-|-|
-| men &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+| &nbsp; | &nbsp; | &nbsp; |
+|-|-|-|
+| men &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
 
 <!--v-->
 
-| mann_i | &nbsp; | &nbsp; | &nbsp; |
-|-|-|-|-|
-| men &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+| mann_i | &nbsp; | &nbsp; |
+|-|-|-|
+| men &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
 
 <!--v-->
 
-| mænn | &nbsp; | &nbsp; | &nbsp; |
-|-|-|-|-|
-| men &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+| mænn | &nbsp; | &nbsp; |
+|-|-|-|
+| men &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
 
 <!--v-->
 
-| mænn | &nbsp; | &nbsp; | &nbsp; |
-|-|-|-|-|
-| men &nbsp; &nbsp; &nbsp; | fed &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+| mænn | &nbsp; | &nbsp; |
+|-|-|-|
+| men &nbsp; &nbsp; &nbsp; | fed &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
 
 <!--v-->
 
-| mænn | fød + ed | &nbsp; | &nbsp; |
-|-|-|-|-|
-| men &nbsp; &nbsp; &nbsp; | fed &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+| mænn | fod_i + ed | &nbsp; |
+|-|-|-|
+| men &nbsp; &nbsp; &nbsp; | fed &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
 
 <!--v-->
 
-| mænn | fødĕd | &nbsp; | &nbsp; |
-|-|-|-|-|
-| men &nbsp; &nbsp; &nbsp; | fed &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+| mænn | fød + ed | &nbsp; |
+|-|-|-|
+| men &nbsp; &nbsp; &nbsp; | fed &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
 
 <!--v-->
 
-| mænn | fødĕd | &nbsp; | &nbsp; |
-|-|-|-|-|
-| men &nbsp; &nbsp; &nbsp; | fëedĕd &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+| mænn | fødĕd | &nbsp; |
+|-|-|-|
+| men &nbsp; &nbsp; &nbsp; | fed &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
 
 <!--v-->
 
-| mænn | fødĕd | &nbsp; | &nbsp; |
-|-|-|-|-|
-| men &nbsp; &nbsp; &nbsp; | *fed* &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+| mænn | fødĕd | &nbsp; |
+|-|-|-|
+| men &nbsp; &nbsp; &nbsp; | fedĕd &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+
+<!--v-->
+
+| mænn | *fødd* | &nbsp; |
+|-|-|-|
+| men &nbsp; &nbsp; &nbsp; | *fed* &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
 
 Notes:
 * cf. Verbs + Simple Spelling Pro
@@ -566,45 +572,21 @@ Notes:
 
 <!--v-->
 
-| mænn | fødĕd | &nbsp; | &nbsp; |
-|-|-|-|-|
-| men &nbsp; &nbsp; &nbsp; | *fed* &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | bridge &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+| mænn | *fødd* | &nbsp; |
+|-|-|-|
+| men &nbsp; &nbsp; &nbsp; | *fed* &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | bridge &nbsp; |
 
 <!--v-->
 
-| mænn | fødĕd | brug_i | &nbsp; |
-|-|-|-|-|
-| men &nbsp; &nbsp; &nbsp; | *fed* &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | bridge &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+| mænn | *fødd* | brug_i |
+|-|-|-|
+| men &nbsp; &nbsp; &nbsp; | *fed* &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | bridge &nbsp; |
 
 <!--v-->
 
-| mænn | fødĕd | bryĝ | &nbsp; |
-|-|-|-|-|
-| men &nbsp; &nbsp; &nbsp; | *fed* &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | bridge &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
-
-<!--v-->
-
-| mænn | fødĕd | bryĝ | &nbsp; |
-|-|-|-|-|
-| men &nbsp; &nbsp; &nbsp; | *fed* &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | bridge &nbsp; | kĩnd &nbsp; &nbsp; |
-
-<!--v-->
-
-| mænn | fødĕd | bryĝ | &nbsp; |
-|-|-|-|-|
-| men &nbsp; &nbsp; &nbsp; | *fed* &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | bridge &nbsp; | kinde &nbsp; |
-
-<!--v-->
-
-| mænn | fødĕd | bryĝ | kund_i |
-|-|-|-|-|
-| men &nbsp; &nbsp; &nbsp; | *fed* &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | bridge &nbsp; | kinde &nbsp; |
-
-<!--v-->
-
-| mænn | fødĕd | bryĝ | kỹnd |
-|-|-|-|-|
-| men &nbsp; &nbsp; &nbsp; | *fed* &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | bridge &nbsp; | kinde &nbsp; |
+| mænn | *fødd* | bryĝ |
+|-|-|-|
+| men &nbsp; &nbsp; &nbsp; | *fed* &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | bridge &nbsp; |
 
 <!--v-->
 
@@ -616,61 +598,61 @@ Notes:
 
 | &nbsp; | &nbsp; | &nbsp; |
 |-|-|-|
-| heal | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+| deal | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
 
 <!--v-->
 
-| hail | &nbsp; | &nbsp; |
+| dail | &nbsp; | &nbsp; |
 |-|-|-|
-| heal | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+| deal | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
 
 <!--v-->
 
-| hạl | &nbsp; | &nbsp; |
+| dạl | &nbsp; | &nbsp; |
 |-|-|-|
-| heal | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+| deal | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
 
 <!--v-->
 
-| hạl | &nbsp; | &nbsp; |
+| dạl | &nbsp; | &nbsp; |
 |-|-|-|
-| heal | dream &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+| deal | dream &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
 
 <!--v-->
 
-| hạl | draum_i | &nbsp; |
+| dạl | draum_i | &nbsp; |
 |-|-|-|
-| heal | dream &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+| deal | dream &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
 
 <!--v-->
 
-| hạl | dræum | &nbsp; |
+| dạl | dræum | &nbsp; |
 |-|-|-|
-| heal | dream &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+| deal | dream &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
 
 <!--v-->
 
-| hạl | dræ̥m | &nbsp; |
+| dạl | dræ̥m | &nbsp; |
 |-|-|-|
-| heal | dream &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+| deal | dream &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
 
 <!--v-->
 
-| hạl | dræ̥m | &nbsp; |
+| dạl | dræ̥m | &nbsp; |
 |-|-|-|
-| heal | dream &nbsp; &nbsp; | deep &nbsp; |
+| deal | dream &nbsp; &nbsp; | deep &nbsp; |
 
 <!--v-->
 
-| hạl | dræ̥m | deup |
+| dạl | dræ̥m | deup |
 |-|-|-|
-| heal | dream &nbsp; &nbsp; | deep &nbsp; |
+| deal | dream &nbsp; &nbsp; | deep &nbsp; |
 
 <!--v-->
 
-| hạl | dræ̥m | de̥p |
+| dạl | dræ̥m | de̥p |
 |-|-|-|
-| heal | dream &nbsp; &nbsp; | deep &nbsp; |
+| deal | dream &nbsp; &nbsp; | deep &nbsp; |
 
 <!--v-->
 
@@ -742,97 +724,97 @@ Notes:
 
 ## Spelling Pro
 
-### a/o, ai/æ ⇒ -o
+### -a, -æ, -ai ⇒ -o
 
 <!--v-->
 
 | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
 |-|-|-|-|
-| so &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+| so &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; |
 
 <!--v-->
 
 | swa | &nbsp; | &nbsp; | &nbsp; |
 |-|-|-|-|
-| so &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+| so &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; |
 
 <!--v-->
 
 | sw̆å | &nbsp; | &nbsp; | &nbsp; |
 |-|-|-|-|
-| so &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+| so &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; |
 
 <!--v-->
 
 | sw̆å | &nbsp; | &nbsp; | &nbsp; |
 |-|-|-|-|
-| so &nbsp; &nbsp; | rõw | &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+| so &nbsp; &nbsp; | mõw | &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; |
 
 <!--v-->
 
-| sw̆å | ro | &nbsp; | &nbsp; |
+| sw̆å | mæ | &nbsp; | &nbsp; |
 |-|-|-|-|
-| so &nbsp; &nbsp; | rõw | &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+| so &nbsp; &nbsp; | mõw | &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; |
 
 <!--v-->
 
-| sw̆å | ro | &nbsp; | &nbsp; |
+| sw̆å | mæ | &nbsp; | &nbsp; |
 |-|-|-|-|
-| so &nbsp; &nbsp; | ~rõw~ | &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+| so &nbsp; &nbsp; | ~mõw~ | &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; |
 
 <!--v-->
 
-| sw̆å | ro | &nbsp; | &nbsp; |
+| sw̆å | mæ | &nbsp; | &nbsp; |
 |-|-|-|-|
-| so &nbsp; &nbsp; | ro &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+| so &nbsp; &nbsp; | mo &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; |
 
 <!--v-->
 
-| sw̆å | ro | &nbsp; | &nbsp; |
+| sw̆å | mæ | &nbsp; | &nbsp; |
 |-|-|-|-|
-| so &nbsp; &nbsp; | ro &nbsp; | go &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+| so &nbsp; &nbsp; | mo &nbsp; | go &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; |
 
 <!--v-->
 
-| sw̆å | ro | gai | &nbsp; |
+| sw̆å | mæ | gai | &nbsp; |
 |-|-|-|-|
-| so &nbsp; &nbsp; | ro &nbsp; | go &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+| so &nbsp; &nbsp; | mo &nbsp; | go &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; |
 
 <!--v-->
 
-| sw̆å | ro | gạ | &nbsp; |
+| sw̆å | mæ | gạ | &nbsp; |
 |-|-|-|-|
-| so &nbsp; &nbsp; | ro &nbsp; | go &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+| so &nbsp; &nbsp; | mo &nbsp; | go &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; |
 
 <!--v-->
 
-| sw̆å | ro | gạ | &nbsp; |
+| sw̆å | mæ | gạ | &nbsp; |
 |-|-|-|-|
-| so &nbsp; &nbsp; | ro &nbsp; | go &nbsp; | mõw |
+| so &nbsp; &nbsp; | mo &nbsp; | go &nbsp; | rõw |
 
 <!--v-->
 
-| sw̆å | ro | gạ | mæ |
+| sw̆å | mæ | gạ | ro |
 |-|-|-|-|
-| so &nbsp; &nbsp; | ro &nbsp; | go &nbsp; | mõw |
+| so &nbsp; &nbsp; | mo &nbsp; | go &nbsp; | rõw |
 
 <!--v-->
 
-| sw̆å | ro | gạ | mæ |
+| sw̆å | mæ | gạ | ro |
 |-|-|-|-|
-| so &nbsp; &nbsp; | ro &nbsp; | go &nbsp; | ~mõw~ |
+| so &nbsp; &nbsp; | mo &nbsp; | go &nbsp; | ~rõw~ |
 
 <!--v-->
 
-| sw̆å | ro | gạ | mæ |
+| sw̆å | mæ | gạ | ro |
 |-|-|-|-|
-| so &nbsp; &nbsp; | ro &nbsp; | go &nbsp; | mo |
+| so &nbsp; &nbsp; | mo &nbsp; | go &nbsp; | ro &nbsp; |
 
 <!--v-->
 
 ## Spelling Pro
 
-### -ough
+### -ğ, -h, -kh ⇒ -ough
 
 <!--v-->
 
@@ -895,127 +877,90 @@ Notes:
 
 ## Spelling Pro
 
-### -r
+### irr, err, urr
 
 <!--v-->
 
-| &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+| &nbsp; | &nbsp; | &nbsp; |
 |-|-|-|
-| word | &nbsp; | &nbsp; |
+| church | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
 
 <!--v-->
 
-| &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+| kirk | &nbsp; | &nbsp; |
 |-|-|-|
-| wǒrd | &nbsp; | &nbsp; |
+| church | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
 
 <!--v-->
 
-| wurd | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+| ꝁirꝁ | &nbsp; | &nbsp; |
 |-|-|-|
-| wǒrd | &nbsp; | &nbsp; |
+| church | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
 
 <!--v-->
 
-| wurd | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+| ꝁirꝁ | &nbsp; | &nbsp; |
 |-|-|-|
-| wǒrd | world | &nbsp; |
+| ~church~ | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
 
 <!--v-->
 
-| wurd | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+| ꝁirꝁ | &nbsp; | &nbsp; |
 |-|-|-|
-| wǒrd | wǒrld | &nbsp; |
+| chirch &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
 
 <!--v-->
 
-| wurd | werăld | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+| ꝁirꝁ | &nbsp; | &nbsp; |
 |-|-|-|
-| wǒrd | wǒrld | &nbsp; |
+| chirch &nbsp; | world &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
 
 <!--v-->
 
-| wurd | werăld | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+| ꝁirꝁ | &nbsp; | &nbsp; |
 |-|-|-|
-| wǒrd | ~~wǒrld~~ | &nbsp; |
+| chirch &nbsp; | wǒrld &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
 
 <!--v-->
 
-| wurd | werăld | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+| ꝁirꝁ | werăld | &nbsp; |
 |-|-|-|
-| wǒrd | werld | &nbsp; |
+| chirch &nbsp; | wǒrld &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
 
 <!--v-->
 
-| wurd | werăld | brenn |
+| ꝁirꝁ | werăld | &nbsp; |
 |-|-|-|
-| wǒrd | werld | burn |
+| chirch &nbsp; | ~~wǒrld~~ &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
 
 <!--v-->
 
-| wurd | werăld | brenn |
+| ꝁirꝁ | werăld | &nbsp; |
 |-|-|-|
-| wǒrd | werld | ~~burn~~ |
+| chirch &nbsp; | werld &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
 
 <!--v-->
 
-| wurd | werăld | brenn |
+| ꝁirꝁ | werăld | &nbsp; |
 |-|-|-|
-| wǒrd | werld | bern |
+| chirch &nbsp; | werld &nbsp; &nbsp; | word |
 
 <!--v-->
 
-| &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
-|-|-|
-| church | &nbsp; |
+| ꝁirꝁ | werăld | &nbsp; |
+|-|-|-|
+| chirch &nbsp; | werld &nbsp; &nbsp; | wǒrd |
 
 <!--v-->
 
-| kirk | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
-|-|-|
-| church | &nbsp; |
-
-<!--v-->
-
-| ꝁirꝁ | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
-|-|-|
-| church | &nbsp; |
-
-<!--v-->
-
-| ꝁirꝁ | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
-|-|-|
-| ~~church~~ | &nbsp; |
-
-<!--v-->
-
-| ꝁirꝁ | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
-|-|-|
-| chirch | &nbsp; |
-
-<!--v-->
-
-| ꝁirꝁ | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
-|-|-|
-| chirch | girl |
-
-<!--v-->
-
-| ꝁirꝁ | gurw + il |
-|-|-|
-| chirch | girl |
-
-<!--v-->
-
-| ꝁirꝁ | gyrwĭl &nbsp; &nbsp; |
-|-|-|
-| chirch | girl |
+| ꝁirꝁ | werăld | wurd |
+|-|-|-|
+| chirch &nbsp; | werld &nbsp; &nbsp; | wǒrd |
 
 Notes:
 * wörk wörld wörst wörth
 * bürn bürst
 * chu̇rch
-* gǐrl
 
 <!--s-->
 
@@ -1026,7 +971,7 @@ Notes:
 
 ## Simple Spelling Pro
 
-### aigh ⇒ *ai*
+### -igh ⇒ -*i*/*y*
 
 <!--v-->
 
@@ -1086,7 +1031,7 @@ Notes:
 
 ## Simple Spelling Pro
 
-### -igh, -ligh ⇒ *-y*, *-ly*
+### -(l)igh ⇒ -(l)*y*
 
 <!--v-->
 
@@ -1128,201 +1073,115 @@ Notes:
 
 ## Simple Spelling Pro
 
-### -igh, -ligh ⇒ *-y*, *-ly*
-
-<!--v-->
-
-| &nbsp; | &nbsp; |
-|-|-|
-| bo̊dy &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
-
-<!--v-->
-
-| bodig | &nbsp; |
-|-|-|
-| bo̊dy &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
-
-<!--v-->
-
-| bo̊diğ | &nbsp; |
-|-|-|
-| bo̊dy &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
-
-<!--v-->
-
-| *bo̊digh* | &nbsp; |
-|-|-|
-| bo̊dy &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
-
-<!--v-->
-
-| *bo̊digh* | &nbsp; |
-|-|-|
-| ~bo̊dy~ &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
-
-<!--v-->
-
-| *bo̊digh* | &nbsp; |
-|-|-|
-| bo̊digh | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
-
-<!--v-->
-
-| *bo̊digh* | &nbsp; |
-|-|-|
-| *boddy* | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
-
-<!--v-->
-
-| *bo̊digh* | raid + ig |
-|-|-|
-| *boddy* | rëady &nbsp; &nbsp; |
-
-<!--v-->
-
-<!-- TODO ạ" -->
-| *bo̊digh* | rạdiğ |
-|-|-|
-| *boddy* | rëady &nbsp; &nbsp; |
-
-<!--v-->
-
-<!-- TODO æ" -->
-| *bo̊digh* | *rædigh* |
-|-|-|
-| *boddy* | rëady &nbsp; &nbsp; |
-
-<!--v-->
-
-| *bo̊digh* | *rædigh* |
-|-|-|
-| *boddy* | ~rëady~ &nbsp; &nbsp; |
-
-<!--v-->
-
-| *bo̊digh* | *rædigh* |
-|-|-|
-| *boddy* | rëadigh |
-
-<!--v-->
-
-| *bo̊digh* | *rædigh* |
-|-|-|
-| *boddy* | *reddy* &nbsp; &nbsp; |
-
-<!--v-->
-
-## Simple Spelling Pro
-
 ### e_e ⇒ *ee*
 
 <!--v-->
 
 | &nbsp; | &nbsp; | &nbsp; |
 |-|-|-|
-| field &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+| street &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
 
 <!--v-->
 
-| felth | &nbsp; | &nbsp; |
+| strat_i | &nbsp; | &nbsp; |
 |-|-|-|
-| field &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+| street &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
 
 <!--v-->
 
-| *felde* | &nbsp; | &nbsp; |
+| stræt &nbsp; | &nbsp; | &nbsp; |
 |-|-|-|
-| field &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+| street &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
 
 <!--v-->
 
-| *felde* | &nbsp; | &nbsp; |
+| *stræte* | &nbsp; | &nbsp; |
 |-|-|-|
-| ~field~ &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+| street &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
 
 <!--v-->
 
-| *felde* | &nbsp; | &nbsp; |
+| *stræte* | &nbsp; | &nbsp; |
 |-|-|-|
-| felde | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+| strete &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
 
 <!--v-->
 
-| *felde* | &nbsp; | &nbsp; |
+| *stræte* | &nbsp; | &nbsp; |
 |-|-|-|
-| *feeld* | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+| *street* &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
 
 <!--v-->
 
-| *felde* | &nbsp; | &nbsp; |
+| *stræte* | &nbsp; | &nbsp; |
 |-|-|-|
-| *feeld* | street &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+| *street* &nbsp; | green &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
 
 <!--v-->
 
-| *felde* | strat_i | &nbsp; |
+| *stræte* | gron_i | &nbsp; |
 |-|-|-|
-| *feeld* | street &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+| *street* &nbsp; | green &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
 
 <!--v-->
 
-| *felde* | stræt &nbsp; | &nbsp; |
+| *stræte* | grøn | &nbsp; |
 |-|-|-|
-| *feeld* | street &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+| *street* &nbsp; | green &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
 
 <!--v-->
 
-| *felde* | *stræte* | &nbsp; |
+| *stræte* | *grøne* | &nbsp; |
 |-|-|-|
-| *feeld* | street &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+| *street* &nbsp; | green &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
 
 <!--v-->
 
-| *felde* | *stræte* | &nbsp; |
+| *stræte* | *grøne* | &nbsp; |
 |-|-|-|
-| *feeld* | strete &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+| *street* &nbsp; | grene &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
 
 <!--v-->
 
-| *felde* | *stræte* | &nbsp; |
+| *stræte* | *grøne* | &nbsp; |
 |-|-|-|
-| *feeld* | *street* &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+| *street* &nbsp; | *green* &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
 
 <!--v-->
 
-| *felde* | *stræte* | &nbsp; |
+| *stræte* | *grøne* | &nbsp; |
 |-|-|-|
-| *feeld* | *street* &nbsp; | green &nbsp; |
+| *street* &nbsp; | *green* &nbsp; | field &nbsp; |
 
 <!--v-->
 
-| *felde* | *stræte* | gron_i |
+| *stræte* | *grøne* | felth |
 |-|-|-|
-| *feeld* | *street* &nbsp; | green &nbsp; |
+| *street* &nbsp; | *green* &nbsp; | field &nbsp; |
 
 <!--v-->
 
-| *felde* | *stræte* | grøn |
+| *stræte* | *grøne* | *felde* |
 |-|-|-|
-| *feeld* | *street* &nbsp; | green &nbsp; |
+| *street* &nbsp; | *green* &nbsp; | field &nbsp; |
 
 <!--v-->
 
-| *felde* | *stræte* | *grøne* |
+| *stræte* | *grøne* | *felde* |
 |-|-|-|
-| *feeld* | *street* &nbsp; | green &nbsp; |
+| *street* &nbsp; | *green* &nbsp; | ~field~ &nbsp; |
 
 <!--v-->
 
-| *felde* | *stræte* | *grøne* |
+| *stræte* | *grøne* | *felde* |
 |-|-|-|
-| *feeld* | *street* &nbsp; | grene &nbsp; |
+| *street* &nbsp; | *green* &nbsp; | felde |
 
 <!--v-->
 
-| *felde* | *stræte* | *grøne* |
+| *stræte* | *grøne* | *felde* |
 |-|-|-|
-| *feeld* | *street* &nbsp; | *green* &nbsp; |
+| *street* &nbsp; | *green* &nbsp; | *feeld* |
 
 <!--v-->
 
@@ -1452,7 +1311,7 @@ Notes:
 
 ## Simple Spelling Pro
 
-### au/o, -ai/-æ ⇒ *-õw*
+### -o ⇒ *-õw*
 
 <!--v-->
 
@@ -1494,91 +1353,91 @@ Notes:
 
 | *sho* | &nbsp; | &nbsp; | &nbsp; |
 |-|-|-|-|
-| *shõw* | grõw | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+| *shõw* | slõw | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
 
 <!--v-->
 
-| *sho* | gro | &nbsp; | &nbsp; |
+| *sho* | slæ | &nbsp; | &nbsp; |
 |-|-|-|-|
-| *shõw* | grõw | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+| *shõw* | slõw | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
 
 <!--v-->
 
-| *sho* | gro | &nbsp; | &nbsp; |
+| *sho* | slæ | &nbsp; | &nbsp; |
 |-|-|-|-|
-| *shõw* | gro &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+| *shõw* | slo &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
 
 <!--v-->
 
-| *sho* | gro | &nbsp; | &nbsp; |
+| *sho* | slæ | &nbsp; | &nbsp; |
 |-|-|-|-|
-| *shõw* | *grõw* | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+| *shõw* | *slõw* | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
 
 <!--v-->
 
-| *sho* | gro | &nbsp; | &nbsp; |
+| *sho* | slæ | &nbsp; | &nbsp; |
 |-|-|-|-|
-| *shõw* | *grõw* | snõw | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+| *shõw* | *slõw* | snõw | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
 
 <!--v-->
 
-| *sho* | gro | snai | &nbsp; |
+| *sho* | slæ | snai | &nbsp; |
 |-|-|-|-|
-| *shõw* | *grõw* | snõw | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+| *shõw* | *slõw* | snõw | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
 
 <!--v-->
 
-| *sho* | gro | snạ | &nbsp; |
+| *sho* | slæ | snạ | &nbsp; |
 |-|-|-|-|
-| *shõw* | *grõw* | snõw | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+| *shõw* | *slõw* | snõw | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
 
 <!--v-->
 
-| *sho* | gro | *snæ* | &nbsp; |
+| *sho* | slæ | *snæ* | &nbsp; |
 |-|-|-|-|
-| *shõw* | *grõw* | snõw | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+| *shõw* | *slõw* | snõw | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
 
 <!--v-->
 
-| *sho* | gro | *snæ* | &nbsp; |
+| *sho* | slæ | *snæ* | &nbsp; |
 |-|-|-|-|
-| *shõw* | *grõw* | sno &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+| *shõw* | *slõw* | sno &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
 
 <!--v-->
 
-| *sho* | gro | *snæ* | &nbsp; |
+| *sho* | slæ | *snæ* | &nbsp; |
 |-|-|-|-|
-| *shõw* | *grõw* | *snõw* | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+| *shõw* | *slõw* | *snõw* | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
 
 <!--v-->
 
-| *sho* | gro | *snæ* | &nbsp; |
+| *sho* | slæ | *snæ* | &nbsp; |
 |-|-|-|-|
-| *shõw* | *grõw* | *snõw* | slõw |
+| *shõw* | *slõw* | *snõw* | grõw |
 
 <!--v-->
 
-| *sho* | gro | *snæ* | slæ |
+| *sho* | slæ | *snæ* | gro |
 |-|-|-|-|
-| *shõw* | *grõw* | *snõw* | slõw |
+| *shõw* | *slõw* | *snõw* | grõw |
 
 <!--v-->
 
-| *sho* | gro | *snæ* | slæ |
+| *sho* | slæ | *snæ* | gro |
 |-|-|-|-|
-| *shõw* | *grõw* | *snõw* | slo &nbsp; |
+| *shõw* | *slõw* | *snõw* | gro &nbsp; |
 
 <!--v-->
 
-| *sho* | gro | *snæ* | slæ |
+| *sho* | slæ | *snæ* | gro |
 |-|-|-|-|
-| *shõw* | *grõw* | *snõw* | *slõw* |
+| *shõw* | *slõw* | *snõw* | *grõw* |
 
 <!--v-->
 
 ## Simple Spelling Pro
 
-### ough, augh ⇒ *ow*, *aw*
+### -ugh ⇒ -*w*
 
 <!--v-->
 
@@ -1659,43 +1518,85 @@ Notes:
 
 ## Simple Spelling Pro
 
-### -ough ⇒ *-ow*
+### -ough ⇒ -*ow*
 
 <!--v-->
 
-| &nbsp; |
-|-|
-| borrow &nbsp; |
+| &nbsp; | &nbsp; |
+|-|-|
+| borrow &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
 
 <!--v-->
 
-| borg |
-|-|
-| borrow &nbsp; |
+| borg | &nbsp; |
+|-|-|
+| borrow &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
 
 <!--v-->
 
-| borğ |
-|-|
-| borrow &nbsp; |
+| borğ | &nbsp; |
+|-|-|
+| borrow &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
 
 <!--v-->
 
-| *borgh* |
-|-|
-| borrow &nbsp; |
+| *borgh* | &nbsp; |
+|-|-|
+| borrow &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
 
 <!--v-->
 
-| *borgh* |
-|-|
-| borough |
+| *borgh* | &nbsp; |
+|-|-|
+| borough | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
 
 <!--v-->
 
-| *borgh* |
-|-|
-| *borrow* &nbsp; |
+| *borgh* | &nbsp; |
+|-|-|
+| *borrow* &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+
+<!--v-->
+
+| *borgh* | &nbsp; |
+|-|-|
+| *borrow* &nbsp; | window &nbsp; &nbsp; &nbsp; &nbsp; |
+
+<!--v-->
+
+| *borgh* | wind + aug |
+|-|-|
+| *borrow* &nbsp; | window &nbsp; &nbsp; &nbsp; &nbsp; |
+
+<!--v-->
+
+| *borgh* | windaug |
+|-|-|
+| *borrow* &nbsp; | window &nbsp; &nbsp; &nbsp; &nbsp; |
+
+<!--v-->
+
+| *borgh* | windḁğ |
+|-|-|
+| *borrow* &nbsp; | window &nbsp; &nbsp; &nbsp; &nbsp; |
+
+<!--v-->
+
+| *borgh* | *windogh* |
+|-|-|
+| *borrow* &nbsp; | window &nbsp; &nbsp; &nbsp; &nbsp; |
+
+<!--v-->
+
+| *borgh* | *windogh* |
+|-|-|
+| *borrow* &nbsp; | windough &nbsp; &nbsp; |
+
+<!--v-->
+
+| *borgh* | *windogh* |
+|-|-|
+| *borrow* &nbsp; | *window* &nbsp; &nbsp; &nbsp; &nbsp; |
 
 <!--s-->
 
@@ -1809,124 +1710,137 @@ Notes:
 
 <!--v-->
 
-| *light* | &nbsp; |
-|-|-|
-| light &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+| *light* | &nbsp; | &nbsp; |
+|-|-|-|
+| light &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; |
 
 <!--v-->
 
-| *light* | &nbsp; |
-|-|-|
-| *lite* &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+| *light* | &nbsp; | &nbsp; |
+|-|-|-|
+| *lite* &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; |
 
 <!--v-->
 
-| *light* | *høgh* |
-|-|-|
-| *lite* &nbsp; &nbsp; &nbsp; &nbsp; | high |
+| *light* | *høgh* | &nbsp; |
+|-|-|-|
+| *lite* &nbsp; &nbsp; &nbsp; &nbsp; | high | &nbsp; &nbsp; &nbsp; |
 
 <!--v-->
 
-| *light* | *høgh* |
-|-|-|
-| *lite* &nbsp; &nbsp; &nbsp; &nbsp; | *hi* |
+| *light* | *høgh* | &nbsp; |
+|-|-|-|
+| *lite* &nbsp; &nbsp; &nbsp; &nbsp; | *hi* | &nbsp; &nbsp; &nbsp; |
+
+<!--v-->
+
+| *light* | *høgh* | *igh* |
+|-|-|-|
+| *lite* &nbsp; &nbsp; &nbsp; &nbsp; | *hi* | I |
+
+<!--v-->
+
+| *light* | *høgh* | *igh* |
+|-|-|-|
+| *lite* &nbsp; &nbsp; &nbsp; &nbsp; | *hi* | igh |
+
+<!--v-->
+
+| *light* | *høgh* | *igh* |
+|-|-|-|
+| *lite* &nbsp; &nbsp; &nbsp; &nbsp; | *hi* | *I* |
 
 <!--v-->
 
 ## Spelling Lite
 
-### *õw*, *õugh*, *oa* ⇒ *o*
+### *õw*, *oa* ⇒ *o*
 
 <!--v-->
 
-| *logh* | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
-|-|-|-|-|-|
-| lõw &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+| *logh* | &nbsp; | &nbsp; | &nbsp; |
+|-|-|-|-|
+| lõw &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
 
 <!--v-->
 
-| *logh* | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
-|-|-|-|-|-|
-| lõugh | &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+| *logh* | &nbsp; | &nbsp; | &nbsp; |
+|-|-|-|-|
+| lõugh | &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
 
 <!--v-->
 
-| *logh* | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
-|-|-|-|-|-|
-| *lõw* &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+| *logh* | &nbsp; | &nbsp; | &nbsp; |
+|-|-|-|-|
+| *lõw* &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
 
 <!--v-->
 
-| *logh* | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
-|-|-|-|-|-|
-| *lo* &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+| *logh* | &nbsp; | &nbsp; | &nbsp; |
+|-|-|-|-|
+| *lo* &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
 
 <!--v-->
 
-| *logh* | *slæ* | &nbsp; | &nbsp; | &nbsp; |
-|-|-|-|-|-|
-| *lo* &nbsp; &nbsp; &nbsp; | slõw | &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+| *logh* | *slæ* | &nbsp; | &nbsp; |
+|-|-|-|-|
+| *lo* &nbsp; &nbsp; &nbsp; | slõw | &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
 
 <!--v-->
 
-| *logh* | *slæ* | &nbsp; | &nbsp; | &nbsp; |
-|-|-|-|-|-|
-| *lo* &nbsp; &nbsp; &nbsp; | slo &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+| *logh* | *slæ* | &nbsp; | &nbsp; |
+|-|-|-|-|
+| *lo* &nbsp; &nbsp; &nbsp; | slo &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
 
 <!--v-->
 
-| *logh* | *slæ* | &nbsp; | &nbsp; | &nbsp; |
-|-|-|-|-|-|
-| *lo* &nbsp; &nbsp; &nbsp; | *slõw* | &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+| *logh* | *slæ* | &nbsp; | &nbsp; |
+|-|-|-|-|
+| *lo* &nbsp; &nbsp; &nbsp; | *slõw* | &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
 
 <!--v-->
 
-| *logh* | *slæ* | &nbsp; | &nbsp; | &nbsp; |
-|-|-|-|-|-|
-| *lo* &nbsp; &nbsp; &nbsp; | *slo* &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+| *logh* | *slæ* | &nbsp; | &nbsp; |
+|-|-|-|-|
+| *lo* &nbsp; &nbsp; &nbsp; | *slo* &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
 
 <!--v-->
 
-| *logh* | *slæ* | *fro* | &nbsp; | &nbsp; |
-|-|-|-|-|-|
-| *lo* &nbsp; &nbsp; &nbsp; | *slo* &nbsp; | fro &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+| *logh* | *slæ* | *fro* | &nbsp; |
+|-|-|-|-|
+| *lo* &nbsp; &nbsp; &nbsp; | *slo* &nbsp; | fro &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
 
 <!--v-->
 
-| *logh* | *slæ* | *fro* | &nbsp; | &nbsp; |
-|-|-|-|-|-|
-| *lo* &nbsp; &nbsp; &nbsp; | *slo* &nbsp; | *frõw* | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+| *logh* | *slæ* | *fro* | &nbsp; |
+|-|-|-|-|
+| *lo* &nbsp; &nbsp; &nbsp; | *slo* &nbsp; | *frõw* | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
 
 <!--v-->
 
-| *logh* | *slæ* | *fro* | &nbsp; | &nbsp; |
-|-|-|-|-|-|
-| *lo* &nbsp; &nbsp; &nbsp; | *slo* &nbsp; | *fro* &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+| *logh* | *slæ* | *fro* | &nbsp; |
+|-|-|-|-|
+| *lo* &nbsp; &nbsp; &nbsp; | *slo* &nbsp; | *fro* &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
 
 <!--v-->
 
-| *logh* | *slæ* | *fro* | *thogh* | &nbsp; |
-|-|-|-|-|-|
-| *lo* &nbsp; &nbsp; &nbsp; | *slo* &nbsp; | *fro* &nbsp; | thõugh | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+<!-- .slide: data-background-image="tilde.png" -->
+<!-- .slide: data-background-size="1.5%" -->
+<!-- .slide: data-background-position="63.5% 43.4%" -->
+
+| *logh* | *slæ* | *fro* | *hæm* |
+|-|-|-|-|
+| *lo* &nbsp; &nbsp; &nbsp; | *slo* &nbsp; | *fro* &nbsp; | hoam |
 
 <!--v-->
 
-| *logh* | *slæ* | *fro* | *thogh* | &nbsp; |
-|-|-|-|-|-|
-| *lo* &nbsp; &nbsp; &nbsp; | *slo* &nbsp; | *fro* &nbsp; | *tho* &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+<!-- .slide: data-background-image="tilde.png" -->
+<!-- .slide: data-background-size="1.5%" -->
+<!-- .slide: data-background-position="63.8% 43.4%" -->
 
-<!--v-->
-
-<!-- TODO hæ~m -->
-| *logh* | *slæ* | *fro* | *thogh* | *hæm* |
-|-|-|-|-|-|
-| *lo* &nbsp; &nbsp; &nbsp; | *slo* &nbsp; | *fro* &nbsp; | *tho* &nbsp; &nbsp; &nbsp; | hoam |
-
-<!--v-->
-
-| *logh* | *slæ* | *fro* | *thogh* | *hæm* |
-|-|-|-|-|-|
-| *lo* &nbsp; &nbsp; &nbsp; | *slo* &nbsp; | *fro* &nbsp; | *tho* &nbsp; &nbsp; &nbsp; | *home* |
+| *logh* | *slæ* | *fro* | *hæm* |
+|-|-|-|-|
+| *lo* &nbsp; &nbsp; &nbsp; | *slo* &nbsp; | *fro* &nbsp; | *home* |
 
 Notes:
 * hoam → home, stoan → stone
@@ -1934,6 +1848,67 @@ Notes:
 * lite, nite
 * hi, I
 * lo, tho, donut
+
+<!-- TODO -t, -d, -th, -st
+boat coat oat
+load road toad
+loathe cloath boath oath
+coast, roast, toast, poast, moast, goast, hoast
+-->
+
+<!--v-->
+
+## Spelling Lite
+
+### *õugh* ⇒ *o*/*oe*
+
+<!--v-->
+
+| *thogh* | &nbsp; | &nbsp; |
+|-|-|-|
+| thõugh | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+
+<!--v-->
+
+| *thogh* | &nbsp; | &nbsp; |
+|-|-|-|
+| *tho* &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+
+<!--v-->
+
+| *thogh* | *fogh* | &nbsp; |
+|-|-|-|
+| *tho* &nbsp; &nbsp; &nbsp; | foe &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+
+<!--v-->
+
+| *thogh* | *fogh* | &nbsp; |
+|-|-|-|
+| *tho* &nbsp; &nbsp; &nbsp; | fõugh | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+
+<!--v-->
+
+| *thogh* | *fogh* | &nbsp; |
+|-|-|-|
+| *tho* &nbsp; &nbsp; &nbsp; | *foe* &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+
+<!--v-->
+
+| *thogh* | *fogh* | *togh* |
+|-|-|-|
+| *tho* &nbsp; &nbsp; &nbsp; | *foe* &nbsp; &nbsp; | toe &nbsp; &nbsp; |
+
+<!--v-->
+
+| *thogh* | *fogh* | *togh* |
+|-|-|-|
+| *tho* &nbsp; &nbsp; &nbsp; | *foe* &nbsp; &nbsp; | tõugh |
+
+<!--v-->
+
+| *thogh* | *fogh* | *togh* |
+|-|-|-|
+| *tho* &nbsp; &nbsp; &nbsp; | *foe* &nbsp; &nbsp; | *toe* &nbsp; &nbsp; |
 
 <!--v-->
 
@@ -1943,51 +1918,75 @@ Notes:
 
 <!--v-->
 
-| *neu* | &nbsp; | &nbsp; |
-|-|-|-|
-| new | &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+| *neu* | &nbsp; | &nbsp; | &nbsp; |
+|-|-|-|-|
+| new | &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; |
 
 <!--v-->
 
-| *neu* | &nbsp; | &nbsp; |
-|-|-|-|
-| *nu* | &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+| *neu* | &nbsp; | &nbsp; | &nbsp; |
+|-|-|-|-|
+| *nu* | &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; |
 
 <!--v-->
 
-| *neu* | *treu* | &nbsp; |
-|-|-|-|
-| *nu* | true | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+| *neu* | *treu* | &nbsp; | &nbsp; |
+|-|-|-|-|
+| *nu* | true | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; |
 
 <!--v-->
 
-| *neu* | *treu* | &nbsp; |
-|-|-|-|
-| *nu* | ~true~ | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+| *neu* | *treu* | &nbsp; | &nbsp; |
+|-|-|-|-|
+| *nu* | ~true~ | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; |
 
 <!--v-->
 
-| *neu* | *treu* | &nbsp; |
-|-|-|-|
-| *nu* | trew | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+| *neu* | *treu* | &nbsp; | &nbsp; |
+|-|-|-|-|
+| *nu* | trew | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; |
 
 <!--v-->
 
-| *neu* | *treu* | &nbsp; |
-|-|-|-|
-| *nu* | *tru* | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+| *neu* | *treu* | &nbsp; | &nbsp; |
+|-|-|-|-|
+| *nu* | *tru* | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; |
 
 <!--v-->
 
-| *neu* | *treu* | *thrugh* |
-|-|-|-|
-| *nu* | *tru* | thrōugh |
+| *neu* | *treu* | *thrugh* | &nbsp; |
+|-|-|-|-|
+| *nu* | *tru* | thrōugh | &nbsp; &nbsp; &nbsp; &nbsp; |
 
 <!--v-->
 
-| *neu* | *treu* | *thrugh* |
-|-|-|-|
-| *nu* | *tru* | *thru* &nbsp; &nbsp; &nbsp; |
+| *neu* | *treu* | *thrugh* | &nbsp; |
+|-|-|-|-|
+| *nu* | *tru* | *thru* &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; |
+
+<!--v-->
+
+| *neu* | *treu* | *thrugh* | *eu* |
+|-|-|-|-|
+| *nu* | *tru* | *thru* &nbsp; &nbsp; &nbsp; | you |
+
+<!--v-->
+
+| *neu* | *treu* | *thrugh* | *eu* |
+|-|-|-|-|
+| *nu* | *tru* | *thru* &nbsp; &nbsp; &nbsp; | ~you~ |
+
+<!--v-->
+
+| *neu* | *treu* | *thrugh* | *eu* |
+|-|-|-|-|
+| *nu* | *tru* | *thru* &nbsp; &nbsp; &nbsp; | ew &nbsp; |
+
+<!--v-->
+
+| *neu* | *treu* | *thrugh* | *eu* |
+|-|-|-|-|
+| *nu* | *tru* | *thru* &nbsp; &nbsp; &nbsp; | *U* &nbsp; &nbsp; |
 
 <!--s-->
 
@@ -2349,17 +2348,30 @@ Notes:
 <!--v-->
 
 <!-- TODO sæ~l -->
+
+<!-- .slide: data-background-image="tilde.png" -->
+<!-- .slide: data-background-size="1.5%" -->
+<!-- .slide: data-background-position="50% 43.4%" -->
+
 | *sæl* |
 |-|
 | sõul |
 
 <!--v-->
 
+<!-- .slide: data-background-image="tilde.png" -->
+<!-- .slide: data-background-size="1.5%" -->
+<!-- .slide: data-background-position="50% 43.4%" -->
+
 | *sæl* |
 |-|
 | ~sõul~ |
 
 <!--v-->
+
+<!-- .slide: data-background-image="tilde.png" -->
+<!-- .slide: data-background-size="1.5%" -->
+<!-- .slide: data-background-position="50.2% 43.4%" -->
 
 | *sæl* |
 |-|
@@ -2394,13 +2406,15 @@ Notes:
 * moast moar
 * boath
 
-<!-- TODO taih toe tõugh≠tuff, faih foe fõugh, raih row rõugh≠ruff -->
+<!-- TODO taih toe tõugh≠tuff, faih foe fõugh, raih/rai roe/ro rõugh≠ruff -->
 
 <!--v-->
 
 ## Case Study
 
 ### worry
+
+<!-- TODO berġ = bury -->
 
 <!--v-->
 
@@ -2434,45 +2448,6 @@ Notes:
 
 <!--v-->
 
-## Case Study
-
-### U & I
-
-<!--v-->
-
-| ek |
-|-|
-| I |
-
-<!--v-->
-
-| ėkh |
-|-|
-| I |
-
-<!--v-->
-
-| *igh* |
-|-|
-| I |
-
-<!--v-->
-
-| *igh* |
-|-|
-| igh |
-
-<!--v-->
-
-| *igh* |
-|-|
-| *I* |
-
-Notes:
-* eye, window
-
-<!--v-->
-
 | *dæghnut* |
 |-|
 | dõughnut |
@@ -2488,6 +2463,95 @@ Notes:
 | *dæghnut* |
 |-|
 | *donut* &nbsp; &nbsp; &nbsp; |
+
+<!--v-->
+
+## Simple Spelling Pro
+
+### -igh ⇒ *-y*
+
+<!--v-->
+
+| &nbsp; | &nbsp; |
+|-|-|
+| bo̊dy &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+
+<!--v-->
+
+| bodig | &nbsp; |
+|-|-|
+| bo̊dy &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+
+<!--v-->
+
+| bo̊diğ | &nbsp; |
+|-|-|
+| bo̊dy &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+
+<!--v-->
+
+| *bo̊digh* | &nbsp; |
+|-|-|
+| bo̊dy &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+
+<!--v-->
+
+| *bo̊digh* | &nbsp; |
+|-|-|
+| ~bo̊dy~ &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+
+<!--v-->
+
+| *bo̊digh* | &nbsp; |
+|-|-|
+| bo̊digh | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+
+<!--v-->
+
+| *bo̊digh* | &nbsp; |
+|-|-|
+| *boddy* | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+
+<!--v-->
+
+| *bo̊digh* | raid + ig |
+|-|-|
+| *boddy* | rëady &nbsp; &nbsp; |
+
+<!--v-->
+
+<!-- TODO ạ" -->
+| *bo̊digh* | rạdiğ |
+|-|-|
+| *boddy* | rëady &nbsp; &nbsp; |
+
+<!--v-->
+
+<!-- TODO æ" -->
+| *bo̊digh* | *rædigh* |
+|-|-|
+| *boddy* | rëady &nbsp; &nbsp; |
+
+<!--v-->
+
+| *bo̊digh* | *rædigh* |
+|-|-|
+| *boddy* | ~rëady~ &nbsp; &nbsp; |
+
+<!--v-->
+
+| *bo̊digh* | *rædigh* |
+|-|-|
+| *boddy* | rëadigh |
+
+<!--v-->
+
+| *bo̊digh* | *rædigh* |
+|-|-|
+| *boddy* | *reddy* &nbsp; &nbsp; |
+
+Notes:
+* FR very
 
 <!--v-->
 
@@ -2736,13 +2800,13 @@ Notes:
 
 | &nbsp; |
 |-|
-| feed + ed |
+| fede + ed |
 
 <!--v-->
 
 | &nbsp; |
 |-|
-| fëedĕd &nbsp; &nbsp; |
+| fedĕd &nbsp; &nbsp; |
 
 <!--v-->
 
@@ -2765,13 +2829,13 @@ Notes:
 
 | &nbsp; |
 |-|
-| sleep + ed |
+| slepe + ed |
 
 <!--v-->
 
 | &nbsp; |
 |-|
-| slëepĕd &nbsp; &nbsp; |
+| slepĕd &nbsp; &nbsp; |
 
 <!--v-->
 
@@ -2796,13 +2860,13 @@ Notes:
 
 | &nbsp; |
 |-|
-| meet + ed |
+| mete + ed |
 
 <!--v-->
 
 | &nbsp; |
 |-|
-| mëetĕd &nbsp; &nbsp; |
+| metĕd &nbsp; &nbsp; |
 
 <!--v-->
 

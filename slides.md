@@ -227,8 +227,8 @@ Note:
 | | | | | |
 |-|-|-|-|-|
 | 🇮🇹 foglia  | **folĭa**   | | spazio  | **spatĭo** |
-| 🇫🇷 feuille | **følĭă**   | | espace  | **s̈patĭŏ** |
-| 🇪🇸 hoja    | **~f~olĭa** | | espacio | **s̈patĭo** |
+| 🇫🇷 feuille | **følĭă**   | | espace  | **s̃patĭŏ** |
+| 🇪🇸 hoja    | **~f~olĭa** | | espacio | **s̃patĭo** |
 | | | | | |
 |            | **folĭa**   | |         | **spatĭo** |
 
@@ -1607,7 +1607,7 @@ Note:
 
 [Se eĉ supozeremus la lingva finale di l'<br> generacios futuras ne Esperanto, in ĉia<br> okazo la vojo ad tiu lingvo ellaborota<br> nepre deve konduse' tra Esperanto.]
 
-> Sï eĉ supposerémus la finan linguon<br> di l' gŭeneratīos futuras<br> ne S̈peranto, in ĉia occaso<br> la vĩo ad tiu linguo ellaborota<br> nepre deve conducé<br> tra S̈peranto.
+> Sï eĉ supposerémus la finan linguon<br> di l' gŭeneratīos futuras<br> ne S̃peranto, in ĉia occaso<br> la vĩo ad tiu linguo ellaborota<br> nepre deve conducé<br> tra S̃peranto.
 
 <!--v-->
 
@@ -1615,7 +1615,7 @@ Note:
 
 [Se ni eĉ supozos, ke la fina lingvo de la<br> estontaj generacioj estas ne Esperanto, en ĉia<br> okazo la vojo al tiu ellaborota lingvo<br> nepre devas konduki tra Esperanto.]
 
-> Sï ni eĉ supposos, qŭe la fina linguo<br> de la s̈tontai gŭeneratīoi<br> estas ne S̈peranto, en ĉia occaso<br> la vĩo al tiu ellaborota linguo<br> nepre devas conduqŭi<br> tra S̈peranto.
+> Sï ni eĉ supposos, qŭe la fina linguo<br> de la s̃tontai gŭeneratīoi<br> s̃tas ne S̃peranto, en ĉia occaso<br> la vĩo al tiu ellaborota linguo<br> nepre devas conduqŭi<br> tra S̃peranto.
 
 <!--v-->
 
@@ -1718,3 +1718,23 @@ ch ph th y x
 z: [ts] [dz] [z]
 zona -iz- (polverizare), -aliz- (legalizare)
 -->
+
+<!--
+s̃s̈
+S̃S̈
+-->
+
+<!-- TODO
+1920'
+Lingua (Occidentale)
+(Nordlik) Sprak
+(Vøshodni) Äzyk
+→ Speranto
+
+1887
+S̃peranto /esperanto/
+
+Symbol: S im Kreis (ca. Ⓢ, aber mit kleinerem Kreis)
+-->
+
+

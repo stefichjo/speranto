@@ -13,7 +13,7 @@ Pli detale, ***Speranto*** baziĝas sur ***Lingua***, ***Sprak*** kaj ***Äzyk**
 |-:|-|:-:|-|:-|
 | [***Latinidaj***](latinidaj/README.md)<br> [***Ĝermanaj***](ghermanaj/README.md)<br> [***Slavaj***](slavaj/README.md) | ⇨ | [***Lingua***](lingua.md)<br> [***Sprak***](sprak.md)<br> [***Äzyk***](jazyk.md) | ⇨ | [***Speranto***](linguo.md#slav-ĝermana) |
 
-Pli detale, ***Speranto*** estas Slav-Ĝermana akĉento de ***Linguo***, kiu evoluis el ***Lingua*** pruntante el ***Sprak*** kaj ***Äzyk***.
+Pli detale, ***Speranto*** estas Slav-Ĝermana dialekto de ***Linguo***, kiu evoluis el ***Lingua*** pruntante el ***Sprak*** kaj ***Äzyk***.
 
 | Fontolingvoj | | Pontolingvoj | | |
 |-:|-|:-:|-|:-|
