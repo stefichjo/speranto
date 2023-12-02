@@ -1613,12 +1613,6 @@ Notes:
 
 | *wegh* | &nbsp; | &nbsp; |
 |-|-|-|
-| way &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
-
-<!--v-->
-
-| *wegh* | &nbsp; | &nbsp; |
-|-|-|-|
 | weigh | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
 
 <!--v-->
@@ -1637,12 +1631,6 @@ Notes:
 
 | *wegh* | *seghel* | &nbsp; |
 |-|-|-|
-| *way* &nbsp; &nbsp; | sail &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
-
-<!--v-->
-
-| *wegh* | *seghel* | &nbsp; |
-|-|-|-|
 | *way* &nbsp; &nbsp; | seighel | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
 
 <!--v-->
@@ -1656,12 +1644,6 @@ Notes:
 | *wegh* | *seghel* | &nbsp; |
 |-|-|-|
 | *way* &nbsp; &nbsp; | *sail* &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
-
-<!--v-->
-
-| *wegh* | *seghel* | *reghen* |
-|-|-|-|
-| *way* &nbsp; &nbsp; | *sail* &nbsp; &nbsp; &nbsp; | rain &nbsp; &nbsp; &nbsp; |
 
 <!--v-->
 
@@ -2060,7 +2042,7 @@ Notes:
 
 ## Spelling Lite
 
-### õu(gh) ⇒ *o*/*oe*
+### õu(gh) ⇒ *oe*/*o*
 
 <!--v-->
 

@@ -802,3 +802,82 @@ Latĩnishe fremđwørder behalden ire latĩnishe reghtshrĩvung.
 #### -ĩ
 
 * *Polizei* [poliˈtsaɪ̯]: **politĩ**
+
+---
+
+---
+
+# Plural
+
+## der/die/das
+
+* Steine
+* ...
+* Hunde
+* Wale
+* Schuhe
+* ...
+* Bälle
+* Ställe
+* Füße
+* Bäuche
+
+* Farben
+* Katzen
+* Erden
+* Wellen
+* Stellen
+
+* Kinder
+* Schilder
+* Bücher
+* Tücher
+* Wörter
+* Räder
+* Täler
+* Lieder
+* Kleider
+
+### fehlendes -e
+
+* Welten
+* Zahlen
+
+## Körperteile
+
+* Augen (OK?)
+* Ohren (Ohre)
+* Münder (Munde)
+
+## -cht
+
+### die
+
+* Nächte
+* Mächte
+
+## -r
+
+### das
+
+* Haare
+* Paare
+* Rohre
+* Tiere
+* Meere
+
+## ???
+
+### das
+
+* Worte
+
+## Adjektivisch
+
+### der
+
+* Buchstaben
+* Jungen
+
+### das
+
