@@ -2,98 +2,88 @@
 
 ## Hochdeutsch
 
-`Hochdeutsch: (nicht-rhotisches) / (hyperkorrektes (Bühnen-)) Hochdeutsch`
+Beim Versuch, möglichst deutlich zu sprechen, werden Wörter manchmal *hyperkorrekt* ausgesprochen, beispielsweise wird *sehen* gerne aus Versehen [ˈze:hən] ausgesprochen, also mit [h], obwohl das Dehnungs-*h* stumm ist und somit nur eine Schreibung für "langes *e*" ist. Bei der alternativen Schreibung von "langem *e* als Doppel-*e*, wie in *See* tritt der umgekehrte Effekt ein: statt **Seeen* wird *Seen* geschrieben und somit [ze:n] statt [ˈze:ən] gesprochen. Die Aussprache *Seen* [ze:n] gilt jedoch als standardsprachlich. Im [Bühnendeutsch](https://archive.org/details/deutschebhnena00siebrich) wurden Schwundlaute nach Vokal ebenfalls gesprochen (wie auch nach Konsonanten). Da Hochdeutsch dazu neigt, Schwundlaute ausfallen zu lassen und darauf folgendes *n* silbisch zu sprechen ([n̩]), lassen sich diese Aussprachen als "Bühnenhochdeutsch" zusammenfassen.
 
-Hochdeutsch hat einige Merkmale aus dem [Bühnendeutsch](https://archive.org/details/deutschebhnena00siebrich) übernommen.
+| Bühnenhochdeutsch | (Hochdeutsch) | |
+|-|-|-|
+| [ˈze:ən] | [ˈze:n̩] | *sehen* |
+| [ze:n]   | [ˈze:n̩] | *Seen* |
+
+Im Hochdeutschen wird im Gegensatz zum Bühnendeutsch das *r* nicht mehr gerollt ([r]), sondern als Zäpfchen-*r* gesprochen ([ʁ]). In der Lautumschrift wird jedoch üblicherweise weiterhin "[r]" verwendet. Während das Bühnendeutsch noch rhotisch war, d.h. das *r* fiel nach Vokal nicht aus, fällt es im Hochdeutschen aus, bzw. wird durch ein vokalisiertes [ɐ̯] ersetzt, so auch in den Vorsilben *er-* [ɛɐ̯], *her-* [hɛɐ̯], *ver-* [fɛɐ̯], *zer-* [tsɛɐ̯], sowie in der Nachsilbe *-er* als silbisches [ɐ]. Nach kurzem Stammvokal wird das *r* jedoch weiterhin als Zäpfchen-*r* ([ʁ]) gesprochen, was sich ebenfalls als Bühnendeutsch einordnen lässt.
+
+| Bühnenhochdeutsch | (Hochdeutsch) | |
+|-|-|-|
+| [gɛrn] | [gɛɐ̯n] | *gern* |
 
 ## Umgangssprache
 
-`Umgangssprache: (kolloquial) / (Hoch-)Umgangssprache`
+In der Umgangssprache wird [a] wie [ɐ] gesprochen, und ebenso das nicht-silbische [ɐ̯]. Der Einfachheit halber können wir in der Umschrift für alle drei Fälle [a] schreiben. Statt [aa] und [a:a] schreiben wir [a:].
 
-
------
-
-<!-- Auch der unten stehende Ansatz ist etwas zu verworren. Im Prinzip richtig, aber es geht besser... -->
-
-
------
-
-
-# Aussprache
-
-Hochdeutsch ist eine unglückliche Mischung aus geziertem [Bühnendeutsch](https://archive.org/details/deutschebhnena00siebrich) und verschliffenem Alltagsdeutsch. Aus meiner Sicht beginnt alles mit dem inkonsequenten Ausfall des Schwundvokals: während das Schwa [ə] in *sehen* [ˈze:ən] erhalten bleibt, wird *Seen* als einsilbiges [ze:n] ausgesprochen.
-
-| Bühnendeutsch | Hochdeutsch | |
+| Hochdeutsch | Umgangssprache | |
 |-|-|-|
-| [ˈze:ən] | [ˈze:ən] | → [ˈze:n̩] |
-| [ze:n] | [ze:n] | → [ˈze:n̩] |
+| [ba:ɐ̯] | [ba:]  | *Bar* |
+| [baɐ̯t] | [ba:t] | *Bart* |
 
-Hier erbt das Hochdeutsche vom Bühnendeutsch die Scheu vor silbisch gesprochenen *r*, *l*, *m* und *n*. Es steht zu vermuten, dass diese Scheu (womöglich sogar im Bühnendeutsch selbst) beim einsilbigen *Seen* aufgrund der Schreibung "aus Versehen vergessen" wurde, letztlich da *Seeen* dem lesenden Auge nicht zuzumuten gewesen wäre. Das Hochdeutsche akzeptiert die silbische Sprechung des *n* in *Leben* [ˈle:bn̩], nicht aber des *m* in *Atem* [ˈa:təm]. Ebenso ist die silbische Sprechung des *l* in *Handel* [ˈhandl̩] kein Problem, wohl aber des *r* in *Mutter*, denn im Hochdeutschen wird das *r* nicht gerollt, sondern als Zäpfchen-*r* gesprochen. So wird das *r* in *Mutter* [ˈmʊtr] vokalisiert zu [ɐ]: [ˈmʊtɐ].
+`dar im Hochdeutschen`
 
-| Bühnendeutsch | Hochdeutsch | |
+Die Vereinigung von hochdeutschem [aɐ̯] und [a:ɐ̯] hin zum umgangssprachlichen [a:] lässt sich als Längung und Kürzung interpretieren und im Prinzip auf alle andere Vokale anwenden.
+
+| Hochdeutsch | Umgangssprache | |
 |-|-|-|
-| [ˈle:bən] | [ˈle:bn̩] | → [ˈle:bn̩] |
-| [ˈa:təm] | [ˈa:təm] | → [ˈa:tm̩] |
-| [ˈha:ndəl] | [ˈhandl̩] | → [ˈhandl̩] |
-| [ˈmʊtər] | [ˈmʊtɐ] | → [ˈmʊtɐ] |
-
-Auch nach langem Vokal wird *r* im Hochdeutschen ebenfalls vokalisiert, insofern keine Nachsilbe mit vokalischem Anlaut folgt.
-
-| Bühnendeutsch | Hochdeutsch |
-|-|-|
-| [me:r] | [me:ɐ̯] |
-| [ˈme:rə] | [ˈme:rə] |
-
-Der Unterschied zwischen *eher* [ˈe:r̩] und *er* [e:r] ist mit gerolltem *r* selbst bei Schwa-Ausfall noch auszumachen (ähnlich wie zwischen *Sehen(swürdigkeit)* [ˈze:n̩] und *Sehn(sucht)* [ze:n]). Nach Vokalisierung des *r* ist dies jedoch kaum noch der Fall. Somit werden *Seher* [ˈze:ɐ] und *sehr* [ze:ɐ̯] beinahe zu Homonymen.
-
-| Bühnendeutsch | Hochdeutsch |
-|-|-|
-|  [ze:r]  |  [ze:ɐ̯] |
-| [ˈze:ər] | [ˈze:ɐ] |
-
-Da das Hochdeutsche die Scheu vor einem Schwa-Ausfall nach Vokal vom Bühnendeutsch geerbt hat, wird *nähren* [ˈnɛ:rən] mit Zäpfchen-*r*, und nicht etwa [ˈnɛ:ɐ̯n] ausgesprochen. Es wird somit deutlich von *nähern* [ˈnɛ:ɐn] unterschieden. (Hingegen sind *nährt* [ˈnɛ:ɐ̯t] und *nähert* [ˈnɛ:ɐt] kaum noch zu unterscheiden.)
-
-| Bühnendeutsch | Hochdeutsch | Alltagssprache |
-|-|-|-|
-| [ˈnɛ:rən] | [ˈnɛ:rən] ([nɛ:ɐ̯n]) | [ˈnɛ:ɐn] |
-| [ˈnɛ:ərn] | [ˈnɛ:ɐn]            | [ˈnɛ:ɐn] |
+| [vɔɐ̯t]   | [vɔ:t]   | *Wort* |
+| [ˈvœɐ̯tɐ] | [ˈvœ:ta] | *Wörter* |
 | | | |
-|  [nɛ:rt]  |  [nɛ:ɐ̯t]            | [ˈnɛ:ɐt] |
-| [ˈnɛ:ərt] | [ˈnɛ:ɐt]            | [ˈnɛ:ɐt] |
+| [o:ɐ̯]   | [ˈɔa]   | *Ohr* |
+| [ø:ɐ̯]   | [ˈœa]   | *Öhr* |
 
-Auslaut-*r* wird also nach langem Vokal [ɐ̯] ausgesprochen und ist von silbischem [ɐ] kaum zu unterscheiden. In der Alltagssprache geschieht etwas ganz Analoges mit dem Auslaut-*l*, welches nach langem Vokal wie silbisches *-l* [l̩] ausgesprochen wird. Mir sind keine Minimalpaare bekannt; anscheinend wurde *-el* nach langem Vokal assimiliert, wie im Wort *Seele* (womöglich wäre auch hier *Seeele* dem Lesenden nicht zuzumuten gewesen). So wie in der Alltagssprache Schwa [ə] nach *r*-Auslaut ausfällt, so fällt es auch nach Auslaut-*l* aus. (In der Alltagssprache findet der Konjunktiv I kaum Verwendung. Wird er dennoch verwendet, bedient man sich quasi automatisch eines älteren Registers, wo das Schwa nicht ausfällt.)
+In der Umgangssprache verhält sich langes *ä* [ɛ:] wie langes *e* [e:], und ebenso verhält sich langes *ä* vor *r* wie langes *e* vor *r*. Kurzes *ä*/*e* [ɛ] vor *r* wird nicht zu [ɛ:] gelängt (denn diesen Laut gibt es nicht in der Umgangssprache), sondern verhält sich wie langes *ä*/*e* vor *r*.
 
-| Bühnendeutsch | Hochdeutsch | Alltagssprache |
+| Hochdeutsch | Umgangssprache | |
 |-|-|-|
-| [fy:lən] | [fy:lən] | [ˈfy:l̩n] |
+| [ˈtsɛ:nə] | [ˈtse:nə] | *Zähne* |
+| [tse:n]   | [tse:n]   | *zehn* |
 | | | |
-| [fy:lt]  | [fy:lt]  | [ˈfy:l̩t] |
+| [bɛ:ɐ̯]    | [ˈbɛa]    | *Bär* |
+| [be:ɐ̯]    | [ˈbɛa]    | *-beer* |
+| | | |
+| [bɛɐ̯t]    | [ˈbɛat]   | *Bert* |
 
------
+`erd, ert im Hochdeutschen + e(he)rst`
 
-`Vokalisierung des *r* auch nach kurzem Vokal.`
+Die geschlossenen langen Vokale *i* [i:], *ü* [y:] und *u* [u:] erfahren keine Verkürzung in der Umgangssprache. Der Auslaut *r* und die Endung *-er* sind hier also nicht zu unterscheiden.
 
-`Umgangssprache: Längung des kurzen, offenen Vokals: (e), i, o, ö, u, (ü)`
-`+ verkürzung und öffnung des langen, geschlossenen Vokals: o, ö`
+| Hochdeutsch | Umgangssprache | |
+|-|-|-|
+| [bɪɐ̯kt] | [bɪ:kt] | *birgt* |
+| [bʏɐ̯kt] | [bʏ:kt] | *bürgt* |
+| [bʊɐ̯k]  | [bʊ:k]  | *Burg* |
+| | | |
+| [ti:ɐ̯]  | [ˈti:a] | *Tier* |
+| [ty:ɐ̯]  | [ˈty:a] | *Tür* |
+| [tu:ɐ̯]  | [ˈtu:a] | *Tour* |
+| | | |
+| [ˈtu:ɐ] | [ˈtu:a] | *-tuer* |
+
+Nachdem in der Umgangssprache der Auslaut *r* nach langem Vokal silbisch ausgesprochen wird, wird auch der Auslaut *l* silbisch ausgesprochen. Dies hat zur Folge, dass ein Schwundlaut nach *r* und *l* ausfallen kann.
+
+| Hochdeutsch | Umgangssprache | |
+|-|-|-|
+| [ˈʃpy:rən] | [ˈʃpy:an] | *spüren* |
+| [ˈfy:lən]  | [ˈfy:l̩n]  | *fühlen* |
+| | | |
+| [ˈfʏlən]   | [fʏɫn]    | *füllen* |
+
+In der Umgangssprache wird nach Möglichkeit auch die Endung *-em* silbisch gesprochen ([m̩]).
+
+| Hochdeutsch | Umgangssprache | |
+|-|-|-|
+| [ˈaləm] | [ˈaɫm̩] | *allem* |
+| [alm]   | [aɫm]  | *Alm* |
+
 
 -----
 
 `anderen, and'ren, andern`
-
------
-
-Umgangssprache
-
-* [ze:ɐ]
-  * [ze:ɐ]
-  * [zɛɐ]
-
------
-
-Berlinerisch:
-
-*nähert* [ˈne:ɐt]
-*nährt* [ˈnɛɐt] (*"närrt"* [ˈnɛ:t] ???)
 
 -----
 
