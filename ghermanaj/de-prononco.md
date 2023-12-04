@@ -1,5 +1,26 @@
 # Aussprache
 
+## Hochdeutsch
+
+`Hochdeutsch: (nicht-rhotisches) / (hyperkorrektes (Bühnen-)) Hochdeutsch`
+
+Hochdeutsch hat einige Merkmale aus dem [Bühnendeutsch](https://archive.org/details/deutschebhnena00siebrich) übernommen.
+
+## Umgangssprache
+
+`Umgangssprache: (kolloquial) / (Hoch-)Umgangssprache`
+
+
+-----
+
+<!-- Auch der unten stehende Ansatz ist etwas zu verworren. Im Prinzip richtig, aber es geht besser... -->
+
+
+-----
+
+
+# Aussprache
+
 Hochdeutsch ist eine unglückliche Mischung aus geziertem [Bühnendeutsch](https://archive.org/details/deutschebhnena00siebrich) und verschliffenem Alltagsdeutsch. Aus meiner Sicht beginnt alles mit dem inkonsequenten Ausfall des Schwundvokals: während das Schwa [ə] in *sehen* [ˈze:ən] erhalten bleibt, wird *Seen* als einsilbiges [ze:n] ausgesprochen.
 
 | Bühnendeutsch | Hochdeutsch | |
@@ -23,11 +44,6 @@ Auch nach langem Vokal wird *r* im Hochdeutschen ebenfalls vokalisiert, insofern
 | [me:r] | [me:ɐ̯] |
 | [ˈme:rə] | [ˈme:rə] |
 
-| Bühnendeutsch | Hochdeutsch |
-|-|-|
-| [e:r] | [e:ɐ̯] |
-| [ˈme:rə] | [ˈme:rə] |
-
 Der Unterschied zwischen *eher* [ˈe:r̩] und *er* [e:r] ist mit gerolltem *r* selbst bei Schwa-Ausfall noch auszumachen (ähnlich wie zwischen *Sehen(swürdigkeit)* [ˈze:n̩] und *Sehn(sucht)* [ze:n]). Nach Vokalisierung des *r* ist dies jedoch kaum noch der Fall. Somit werden *Seher* [ˈze:ɐ] und *sehr* [ze:ɐ̯] beinahe zu Homonymen.
 
 | Bühnendeutsch | Hochdeutsch |
@@ -45,7 +61,7 @@ Da das Hochdeutsche die Scheu vor einem Schwa-Ausfall nach Vokal vom Bühnendeut
 |  [nɛ:rt]  |  [nɛ:ɐ̯t]            | [ˈnɛ:ɐt] |
 | [ˈnɛ:ərt] | [ˈnɛ:ɐt]            | [ˈnɛ:ɐt] |
 
-Auslaut-*r* wird also nach langem Vokal [ɐ̯] ausgesprochen und ist von silbischem [ɐ] kaum zu unterscheiden. In der Alltagssprache geschieht etwas ganz Analoges mit dem Auslaut-*l*, welches nach langem Vokal wie silbisches *-l* [l̩] ausgesprochen wird. Mir sind keine Minimalpaare bekannt; anscheinend wurde *-el* nach langem Vokal assimiliert, wie im Wort *Seele* (womöglich wäre auch hier *Seeele* dem Lesenden nicht zuzumuten gewesen). So wie in der Alltagssprache Schwa [ə] nach *r*-Auslaut ausfällt, so fällt es auch nach Auslaut-*l* aus.
+Auslaut-*r* wird also nach langem Vokal [ɐ̯] ausgesprochen und ist von silbischem [ɐ] kaum zu unterscheiden. In der Alltagssprache geschieht etwas ganz Analoges mit dem Auslaut-*l*, welches nach langem Vokal wie silbisches *-l* [l̩] ausgesprochen wird. Mir sind keine Minimalpaare bekannt; anscheinend wurde *-el* nach langem Vokal assimiliert, wie im Wort *Seele* (womöglich wäre auch hier *Seeele* dem Lesenden nicht zuzumuten gewesen). So wie in der Alltagssprache Schwa [ə] nach *r*-Auslaut ausfällt, so fällt es auch nach Auslaut-*l* aus. (In der Alltagssprache findet der Konjunktiv I kaum Verwendung. Wird er dennoch verwendet, bedient man sich quasi automatisch eines älteren Registers, wo das Schwa nicht ausfällt.)
 
 | Bühnendeutsch | Hochdeutsch | Alltagssprache |
 |-|-|-|
@@ -55,26 +71,33 @@ Auslaut-*r* wird also nach langem Vokal [ɐ̯] ausgesprochen und ist von silbisc
 
 -----
 
+`Vokalisierung des *r* auch nach kurzem Vokal.`
+
+`Umgangssprache: Längung des kurzen, offenen Vokals: (e), i, o, ö, u, (ü)`
+`+ verkürzung und öffnung des langen, geschlossenen Vokals: o, ö`
+
+-----
+
+`anderen, and'ren, andern`
+
+-----
+
+Umgangssprache
+
+* [ze:ɐ]
+  * [ze:ɐ]
+  * [zɛɐ]
+
+-----
+
 Berlinerisch:
 
 *nähert* [ˈne:ɐt]
-*nährt* [ˈnɛɐt] (*"närrt"*)
+*nährt* [ˈnɛɐt] (*"närrt"* [ˈnɛ:t] ???)
 
 -----
 
 <!-- Auch der folgende Ansatz hat nicht gefruchtet. -->
-
-Nach l kein Schwaausfall:
-
-* wollen [ˈvɔlən]
-
-
-rech(e)n berechenbar
-sich(e)r sicherlich
-bess(e)r besser
-wechs(e)l
-
------
 
 Fangen wir noch mal von vorn an. (Oder von weiter vorn, wenigstens.)
 
@@ -147,13 +170,6 @@ Nach Konsonant (außer nach Nasalen) wird *-en* bereits im Hochdeutschen als sil
 |-|-|-|
 | za:gən | za:gn̩ | za:gn̩ |
 | ˈzɪŋən | ˈzɪŋən | ˈzɪŋən |
-
-Umgekehrt sieht es nach *l* und *r* aus: hier wird das *-en* im Hochdeutschen noch voll als [ən] ausgesprochen. Ich würde sogar so weit gehen und behaupten, dass sich vor dem Auslaut *l* noch ein Schwa hineinschleicht, als würde *fühlen* zu *füheln* werden, und *spüren* zu *spüern*. (Ich würde mich jedoch dazu breitschlagen lassen, den Konjunktiv **mit** Schwa auszusprechen, mit dem impliziten Hinweis, dass dies ein Hochdeutsch-ismus sei.)
-
-| Bühnendeutsch | Hochdeutsch | Alltagsdeutsch |
-|-|-|-|
-| ˈfy:lən | ˈfy:lən | ˈfy:əln |
-| ˈʃpy:rən | ˈʃpy:rən | ˈʃpy:ɐn |
 
 Vielleicht nähern wir uns allmählig dem Kern des Phänomens: [ɐ̯] wird im Alltagsdeutsch wie [ɐ] ausgesprochen, so dass beispielsweise *sehr* [ze:ɐ̯] wie *Seher* [ze:ɐ] ausgesprochen wird, bzw. um diese Allophonie zu vermeiden, werden lange Vokale *r*-Auslaut kurz ausgesprochen, sodass *sehr* [ze:ɐ̯] sogar zu [zɛɐ] wird.
 
