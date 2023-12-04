@@ -17,14 +17,12 @@ Im Hochdeutschen wird im Gegensatz zum Bühnendeutsch das *r* nicht mehr gerollt
 
 ## Umgangssprache
 
-In der Umgangssprache wird [a] wie [ɐ] gesprochen, und ebenso das nicht-silbische [ɐ̯]. Der Einfachheit halber können wir in der Umschrift für alle drei Fälle [a] schreiben. Statt [aa] und [a:a] schreiben wir [a:].
+In der Umgangssprache wird [a] wie [ɐ] gesprochen, und ebenso das nicht-silbische [ɐ̯]. Der Einfachheit halber können wir in der Umschrift für alle drei Fälle [a] schreiben. Statt [aa] und [a:a] schreiben wir [a:]. (Somit werden *dar* und *da* gleich ausgesprochen. Tatsächlich ist *da* von *dar* abgeleitet und eigentlich dasselbe Wort.)
 
 | Hochdeutsch | Umgangssprache | |
 |-|-|-|
 | [ba:ɐ̯] | [ba:]  | *Bar* |
 | [baɐ̯t] | [ba:t] | *Bart* |
-
-`dar im Hochdeutschen`
 
 Die Vereinigung von hochdeutschem [aɐ̯] und [a:ɐ̯] hin zum umgangssprachlichen [a:] lässt sich als Längung und Kürzung interpretieren und im Prinzip auf alle andere Vokale anwenden.
 
@@ -48,7 +46,7 @@ In der Umgangssprache verhält sich langes *ä* [ɛ:] wie langes *e* [e:], und e
 | | | |
 | [bɛɐ̯t]    | [ˈbɛat]   | *Bert* |
 
-Die Vorsilben *er-*, *her-*, *ver-* und *zer-* werden wie die Nachsilbe *-er* mit [a] ausgesprochen.
+Die Vorsilben *er-*, *her-*, *ver-* und *zer-* werden in der Umgangssprache wie die Nachsilbe *-er* mit [a] ausgesprochen.
 
 | Hochdeutsch | Umgangssprache | |
 |-|-|-|
@@ -56,6 +54,12 @@ Die Vorsilben *er-*, *her-*, *ver-* und *zer-* werden wie die Nachsilbe *-er* mi
 | [hɛɐ̯]  | [ha]  | *her-* |
 | [fɛɐ̯]  | [fa]  | *ver-* |
 | [tsɛɐ̯] | [tsa] | *zer-* |
+
+In der Umgangssprache werden unbetonte Personalpronomen in ihrer schwachen Form verwendet.
+
+| Hochdeutsch | Umgangssprache | |
+|-|-|-|
+| [hat zi:]   | [hat zə] | *hat sie* |
 
 `erd, ert im Hochdeutschen + e(he)rst`
 
@@ -89,12 +93,20 @@ In der Umgangssprache wird nach Möglichkeit auch die Endung *-em* silbisch gesp
 | [ˈaləm] | [ˈaɫm̩] | *allem* |
 | [alm]   | [aɫm]  | *Alm* |
 
-Im Konjunktiv I fällt der Schwundlaut nicht aus.
+Im Konjunktiv I fällt der Schwundlaut nicht aus. In der Umgangssprache wird dieser jedoch praktisch nicht verwendet.
 
 | Hochdeutsch | Umgangssprache | |
 |-|-|-|
-| [ˈhø:rən] | [ˈhø:rən] | *(das wir) hören* |
+| [ˈhø:rən] | [ˈhø:rən] | *(dass wir) hören* → *(dass wir) hören würden* |
 | [ˈhø:rən] | [ˈhœan]   | *(wir) hören* |
+
+In der Umgangssprache kann die silbisch gesprochene Endung *-en* [n̩] zu [m̩] oder [ŋ̩] angeglichen werden. Im Berlinerischen fällt stimmhafter Plosiv-Auslaut dann aus.
+
+| Hochdeutsch | Umgangssprache | Berlinerisch | 
+|-|-|-|-|
+| [ˈha:bn̩] | [ˈha:bm̩] | [ˈha:m̩] | *haben* |
+| [ˈre:dn̩] | [ˈre:dn̩] | [ˈre:n̩] | *reden* |
+| [ˈza:gn̩] | [ˈza:gŋ̩] | [ˈza:ŋ̩] | *sagen* |
 
 -----
 
