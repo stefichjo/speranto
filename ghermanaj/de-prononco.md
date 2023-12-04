@@ -48,6 +48,15 @@ In der Umgangssprache verhält sich langes *ä* [ɛ:] wie langes *e* [e:], und e
 | | | |
 | [bɛɐ̯t]    | [ˈbɛat]   | *Bert* |
 
+Die Vorsilben *er-*, *her-*, *ver-* und *zer-* werden wie die Nachsilbe *-er* mit [a] ausgesprochen.
+
+| Hochdeutsch | Umgangssprache | |
+|-|-|-|
+| [ɛɐ̯]   | [a]   | *er-* |
+| [hɛɐ̯]  | [ha]  | *her-* |
+| [fɛɐ̯]  | [fa]  | *ver-* |
+| [tsɛɐ̯] | [tsa] | *zer-* |
+
 `erd, ert im Hochdeutschen + e(he)rst`
 
 Die geschlossenen langen Vokale *i* [i:], *ü* [y:] und *u* [u:] erfahren keine Verkürzung in der Umgangssprache. Der Auslaut *r* und die Endung *-er* sind hier also nicht zu unterscheiden.
@@ -80,6 +89,12 @@ In der Umgangssprache wird nach Möglichkeit auch die Endung *-em* silbisch gesp
 | [ˈaləm] | [ˈaɫm̩] | *allem* |
 | [alm]   | [aɫm]  | *Alm* |
 
+Im Konjunktiv I fällt der Schwundlaut nicht aus.
+
+| Hochdeutsch | Umgangssprache | |
+|-|-|-|
+| [ˈhø:rən] | [ˈhø:rən] | *(das wir) hören* |
+| [ˈhø:rən] | [ˈhœan]   | *(wir) hören* |
 
 -----
 
@@ -88,44 +103,6 @@ In der Umgangssprache wird nach Möglichkeit auch die Endung *-em* silbisch gesp
 -----
 
 <!-- Auch der folgende Ansatz hat nicht gefruchtet. -->
-
-Fangen wir noch mal von vorn an. (Oder von weiter vorn, wenigstens.)
-
-Im Indikativ ist das "e" ausgefallen.
-
-| | | |
-|-|-|-|
-| ich | sage   | sag   |
-| du  | sagest | sagst |
-| er  | saget  | sagt  |
-| wir | sagen  | sagen |
-| ihr | saget  | sagt  |
-| sie | sagen  | sagen |
-
-*(Anstelle von "er" ist "er/sie/es/man/frau" zu lesen.)*
-
-`tun tuen`
-
-`sein seien`
-
-Diese Aussage ist mit Vorsicht zu genießen. Zunächst einmal ist in "sagen" das "e" ebenfalls ausgefallen, sodass das "n" silbisch ausgesprochen wird.
-
-sagen [ˈza:gən] → [ˈza:gn̩]
-
-Sollte man also eigentlich "sagn" schreiben? Womöglich. Jedoch bleibt das "e" im Bühnendeutsch (1899) erhalten, und so singen wir auch (sagen [ˈza:gɛn]). Und nein, im Bühnendeutschen nicht "gesaget" gesprochen, sondern "gesagt". (Heinrich Heine sagte übrigens "geweinet" in "Ich hab im Traum geweinet". Dies ist offenbar ein noch älteres Deutsch.)
-
-Im inzwischen etwas angestaubten Konjunktiv I fällt das "e" nicht aus:
-
-| |
-|-|
-| dass ich sage  |
-| dass du sagest |
-| dass er sage   |
-| dass wir sagen |
-| dass ihr saget |
-| dass sie sagen |
-
-Es stellt sich einem die Frage, ob der Konjunktiv I "dass wir sagen" mit silbischem "-n" [n̩] ausgesprochen wird, oder doch mit voll ausgesprochenem "-en" [ən]. Und abgesehen davon mag einem auffallen, dass man oft an Stelle von "ich sag" "ich sage" sagt. (Und umverkehrt schreiben viele *ich sag'* statt *ich sag*.) Ich halte es für weniger irreführend zu sagen, dass oft für die 1. Person Einzahl anstelle der Indikativ-Form die Konjunktiv-I-Form verwendet wird.
 
 Spannender wird's bei Wörtern auf *-el*, *-er* und *-en*.
 
@@ -146,30 +123,3 @@ Für den Indikativ der 1. Person Einzahl könnte man die Form *ich ekel mich* [�
 Ebenso verhalten sich Adjektive auf *-er*: *bitter* [ˈbɪtɐ], *bittrer* [ˈbɪtrɐ], *am bittersten* [ˈbɪtɐstn̩]. Wer mag, kann auf Nummer sicher *bitterer* [ˈbɪtərɐ] sagen (aber bitte nicht [ˈbɪtɐrɐ]).
 
 In älteren Texten (oder in *ältren* Texten?) ist mit Formen wie *die bittern Tränen* zu rechnen. Und tatsächlich sagen wir auch heute noch *die andern* nebst *die andren* (und natürlich *die anderen*). Erhalten geblieben ist uns die Form *die ältern* als *die Eltern*, eigtl. *die ältren* oder *die älteren*. Die Endung *-ern* besteht ebenso in Adjektiven, die ein Material ausdrücken, wie in *bleiern* und *hölzern*.
-
-Während der Schwa-Ausfall in den Endungen *-el* und *-er* damit im Großen und Ganzen geklärt sein dürfte, wird *-en* weiterhin Fragen auf. Einerseits neigt das Schwa eindeutig auszufallen, zum Beispiel nach Vokal wie in *geschrien* [gəˈʃri:n] (wobei auch *geschrieen* [gəˈʃri:ən]) existiert. Hier kann ich aber nur vermuten, dass zum einen die Rechtschreibung vermeidet, *ie* mit *e* zu kombinieren, sodass "eigentlich" *geschrie-en* "gemeint" ist, wobei *en* [ən] einfach [n] ausgesprochen wird, woran sich in der Schreibung *geschrien* nicht stört. Als Bühnendeutsch Sprechender würde ich die volle Aussprache mit [ən] einfordern, ohne auf die kakographische Schreibung *geschrieen* zu bestehen. Ähnlich verhält es sich mit der Mehrzahl von *See* [ze:]: *Seen*, welches natürlich genau so ausgesprochen wird sie *sehen* [ze:(ə)n]. Auf ein kakographisches *Seeen* wird verzichtet.
-
-| Bühnendeutsch | Hochdeutsch | Alltagsdeutsch |
-|-|-|-|
-| gəˈʃri:ən | gəˈʃri:(ə)n | gəˈʃri:n |
-| ze:ən | ze:(ə)n | ze:n |
-
-Nach Konsonant (außer nach Nasalen) wird *-en* bereits im Hochdeutschen als silbisches *n* [n̩] ausgesprochen.
-
-| Bühnendeutsch | Hochdeutsch | Alltagsdeutsch |
-|-|-|-|
-| za:gən | za:gn̩ | za:gn̩ |
-| ˈzɪŋən | ˈzɪŋən | ˈzɪŋən |
-
-Vielleicht nähern wir uns allmählig dem Kern des Phänomens: [ɐ̯] wird im Alltagsdeutsch wie [ɐ] ausgesprochen, so dass beispielsweise *sehr* [ze:ɐ̯] wie *Seher* [ze:ɐ] ausgesprochen wird, bzw. um diese Allophonie zu vermeiden, werden lange Vokale *r*-Auslaut kurz ausgesprochen, sodass *sehr* [ze:ɐ̯] sogar zu [zɛɐ] wird.
-
-| Bühnendeutsch | Hochdeutsch | Alltagsdeutsch |
-|-|-|-|
-| ze:r | ze:ɐ̯ | ze:ɐ → zɛɐ |
-| ze:ər | ze:ɐ | ze:ɐ |
-
-`kurzer Vokal vor r: r = ɐ`
-`höher [ø:]` `hör [œ]`
-`wieher` `wir` `wirr`
-
-`Wichtigtuer` `Tour`
