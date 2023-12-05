@@ -9,6 +9,8 @@ Beim Versuch, möglichst deutlich zu sprechen, werden Wörter manchmal *hyperkor
 | [ˈze:ən] | [ˈze:n̩] | *sehen* |
 | [ze:n]   | [ˈze:n̩] | *Seen* |
 
+### Rhotizität
+
 Im Hochdeutschen wird im Gegensatz zum Bühnendeutsch das *r* nicht mehr gerollt ([r]), sondern als Zäpfchen-*r* gesprochen ([ʁ]). In der Lautumschrift wird jedoch üblicherweise weiterhin "[r]" verwendet. Während das Bühnendeutsch noch rhotisch war, d.h. das *r* fiel nach Vokal nicht aus, fällt es im Hochdeutschen aus, bzw. wird durch ein vokalisiertes [ɐ̯] ersetzt, so auch in den Vorsilben *er-* [ɛɐ̯], *her-* [hɛɐ̯], *ver-* [fɛɐ̯], *zer-* [tsɛɐ̯], sowie in der Nachsilbe *-er* als silbisches [ɐ]. Nach kurzem Stammvokal wird das *r* jedoch weiterhin als Zäpfchen-*r* ([ʁ]) gesprochen, was sich ebenfalls als Bühnendeutsch einordnen lässt.
 
 | Bühnenhochdeutsch | Hochdeutsch | |
@@ -24,9 +26,24 @@ Vor *d* oder *t* wird anscheinend kurzes *er* im Bühnenhochdeutschen lang gespr
 | | | |
 | [ˈe:ɐ̯st] | [ˈe:ɐ̯st] | *erst* |
 
+Die Endungen *-er* und *-en* verschmelzen zu *-ern*, außer bei Adjektiven auf *-er*. Eine Ausnahme ist das Adjektiv *ander*, welches neben dem unverschmolzenen *anderen* auch die Form *andern* kennt. (Ebenso ist *Eltern* eine veraltete Form von *älteren*.)
+
+| Bühnenhochdeutsch / Hochdeutsch | |
+|-|-|
+| [ˈbɛsɐn]   | *bessern* |
+| [ˈaizɐn]   | *eisern* |
+| [ˈɛltɐn]   | *Eltern* |
+| | |
+| [ˈvaitərə] | *weitere* |
+
 ### Diphthonge
 
-`au, äu/eu, ai`
+Im Bühnendeutsch werden die Diphthonge *au* und *äu/eu* jeweils [ao] und [ɔø] ausgesprochen. Im Hochdeutschen werden sie [au] und [ɔy] ausgesprochen. (In der Umgangssprache wird [ɔy] zu [ɔi].) 
+
+| Bühnenhochdeutsch | Hochdeutsch | |
+|-|-|-|
+| [baox]   | [baux]   | *Bauch* |
+| [ˈbɔøçə] | [ˈbɔyçə] | *Bäuche"* |
 
 ### Nicht-Produktive Endungen
 
@@ -45,40 +62,35 @@ Auch die Endungen *-el* und *-en* werden im Hochdeutschen wie *-er* nach Möglic
 
 Vor *-ig* wird *-er* immer [r] gesprochen.
 
-| Bühnenhochdeutsch | Hochdeutsch | |
-|-|-|-|
-| [ˈvasɐ]   | [ˈvasɐ]   | *Wasser* |
-| [ˈvɛsrɪç] | [ˈvɛsrɪç] | *wässrig* |
-
-<!-- In älteren Texten (oder in *ältren* Texten?) ist mit Formen wie *die bittern Tränen* zu rechnen. Und tatsächlich sagen wir auch heute noch *die andern* nebst *die anderen*. Erhalten geblieben ist uns die Form *die ältern* als *die Eltern*, eigtl. *die ältren* oder *die älteren*. Die Endung *-ern* besteht ebenso in Adjektiven, die ein Material ausdrücken, wie in *bleiern* und *hölzern*. -->
-
-`Eltern älteren`
-`andern anderen`
+| Bühnenhochdeutsch / Hochdeutsch | |
+|-|-|
+| [ˈvasɐ]   | *Wasser* |
+| [ˈvɛsrɪç] | *wässrig* |
 
 ### Verben
 
 Silbisches *-en* wird vom Verbstamm nach Möglichkeit assimiliert. Es heißt also nicht *zeich-n-en* [ˈtsaiçn̩ən], sondern *zeich-nen* [ˈtsaiçnən].
 
-| Bühnenhochdeutsch | Hochdeutsch | |
-|-|-|-|
-| [ˈtsaiçən] | [ˈtsaiçn̩]  | *Zeichen* |
-| [ˈtsaiçnɐ] | [ˈtsaiçnɐ] | *Zeichner* |
-| | | |
-| [ˈœfəntlɪç] | [ˈœfn̩tlɪç] | *öffentlich* |
-| [ˈœfnɐ]     | [ˈœfnɐ]    | *Öffner* |
+| Bühnenhochdeutsch / Hochdeutsch | |
+|-|-|
+| [ˈtsaiçn̩]  | *Zeichen* |
+| [ˈtsaiçnɐ] | *Zeichner* |
+| | |
+| [ˈœfn̩tlɪç] | *öffentlich* |
+| [ˈœfnɐ]    | *Öffner* |
 
 Bei Verben mit nicht-produktivem *-en* ist der Schwundlaut der Verbendungen *-e*, *-est*, *-et*, *-en*, *-et*, *-en* nicht ausgefallen. Die Verbendungen für den Indikativ ähneln daher denen des Konjunktiv I. Allgemein wird oft die Konjunktiv-I-Form an Stelle der Indikativ-Form für die 1. Person Singular verwendet. Verben mit nicht-produktivem *-el* assimlieren das *l* in der 1. Person Einzahl, die dann ebenfalls auf *-e* endet und daher dann so aussieht wie im Konjunktiv I. Die restlichen Verbendungen *-st*, *-t*, *-n*, *-t*, *-n* werden auch für den Konjunktiv I verwendet.
 
-| Bühnenhochdeutsch | Hochdeutsch | |
-|-|-|-|
-| [ˈtsaiçnə]   | [ˈtsaiçnə]   | *zeichne*   |
-| [ˈtsaiçnəst] | [ˈtsaiçnəst] | *zeichnest* |
-| | | |
-| [ˈvɛkslə]    | [ˈvɛkslə]    | *wechsle*   |
-| [ˈvɛksəlst]  | [ˈvɛksl̩st]   | *wechslst*  |
-| | | |
-| [ˈtsɪtərə]   | [ˈtsɪtərə]   | *zittere*   |
-| [ˈtsɪtɐst]   | [ˈtsɪtɐst]   | *zitterst*  |
+| Bühnenhochdeutsch / Hochdeutsch | |
+|-|-|
+| [ˈtsaiçnə]   | *zeichne*   |
+| [ˈtsaiçnəst] | *zeichnest* |
+| | |
+| [ˈvɛkslə]    | *wechsle*   |
+| [ˈvɛksl̩st]   | *wechslst*  |
+| | |
+| [ˈtsɪtərə]   | *zittere*   |
+| [ˈtsɪtɐst]   | *zitterst*  |
 
 ### Genitiv
 
@@ -231,7 +243,42 @@ Im Berlinerischen fällt stimmhafter Plosiv-Auslaut oder Nasal aus.
 | [ˈne:mən] | [ˈne:m̩] | *nehmen* |
 | [ˈre:dn̩]  | [ˈre:n̩] | *reden*  |
 
-`wird`
-`Tisch`
-`ch/g/j/'`
-`wen'ge` `ein'ge` `richt'ge`
+Die Endung *-es* für sächliche Adjektive ist *-et*.
+
+| Umgangssprache | Berlinerisch | |
+|-|-|-|
+| [ˈbaidəs] | [ˈbaidət] | *beides* → *beidet*  |
+| | | |
+| [dɪs] | [dɪt] | *dis* → *dit* |
+
+Das berlinerische *g* wird oft als *j* beschrieben. Tatsächlich handelt es sich um ein Phonem, das einem stimmhaften *ch* entspricht. So wie *ch* als [ç] oder [x] realisiert werden kann, kann das berlinerische *g* als [j] oder [ɣ] realisiert werden. Am Wortende oder vor stimmlosem Konsonanten wird berlinerisches *g* wie *ch* als [ç] oder [x] realisiert. *gl* und *gr* werden mit [g] gesprochen. (Die hochdeutsche Aussprache der Endung *-ig* als [ɪç] statt [ɪk] lässt sich als Berlinerisch interpretieren.)
+
+| Umgangssprache | Berlinerisch | |
+|-|-|-|
+| [ˈfra:gə] | [ˈfra:ɣə] | *Frage* = *Fraghe* |
+| [fra:kt]  | [fra:xt]  | *fragt* = *fracht* |
+| | | |
+| [ˈfli:gə] | [ˈfli:je] | *Fliege* = *Flieje* |
+| [fli:kt]  | [fli:çt]  | *fliegt* = *fliecht* |
+
+Der Ausfall des Vokals in *-er* und *-ig*, welcher im Hochdeutschen eher der Poesie vorenthalten ist, ist im Berlinerischen der Normalfall.
+
+| Umgangssprache | Berlinerisch | |
+|-|-|-|
+| [ˈandrə] | [ˈandrə] | *and're* → *andre* |
+| | | |
+| [ˈfɛatgə] | [ˈfɛatjə] | *fert'ge* → *fertge* = *fertje* |
+
+Vor allem in Wortverbindungen fällt *ch* / berlinerisches *g* am Wortende aus.
+
+| Umgangssprache | Berlinerisch | |
+|-|-|-|
+| [nɪç]     | [nɪ]     | *nich* → *ni'* |
+| [ˈrɪçtɪç] | [ˈrɪçtɪ] | *richtig* → *richti'* |
+
+In Längungen und vor manchen Konsonanten wie *sch* [ʃ] wird [ɪ] zu [ʏ].
+
+| Umgangssprache | Berlinerisch | |
+|-|-|-|
+| [vɪ:t] | [vʏ:t] | *wird* |
+| [tɪʃ]  | [tʏʃ]  | *Tisch* |
