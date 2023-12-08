@@ -2,77 +2,80 @@
 
 ## Hochdeutsch
 
-Beim Versuch, möglichst deutlich zu sprechen, werden Wörter manchmal *hyperkorrekt* ausgesprochen, beispielsweise wird *sehen* gerne aus Versehen [ˈze:hən] ausgesprochen, also mit [h], obwohl das Dehnungs-*h* stumm ist, bzw. *eh* nur eine Schreibung für "langes *e*" ist. Bei der alternativen Schreibung von "langem *e* als Doppel-*e*, wie in *See* tritt der umgekehrte Effekt ein: statt **Seeen* wird *Seen* geschrieben und somit [ze:n] statt [ˈze:ən] gesprochen. Die Aussprache *Seen* [ze:n] gilt jedoch als standardsprachlich. (Siehe auch [Lässige Umgangssprache](#lässige-umgangssprache).) Im [Bühnendeutsch](https://archive.org/details/deutschebhnena00siebrich) wurden Schwundlaute immer gesprochen. Da Hochdeutsch im allgemeinen dazu neigt, Schwundlaute ausfallen zu lassen und darauf folgendes *n* silbisch zu sprechen ([n̩]), lassen sich diese hyperkorrekten Aussprachen als "Bühnenhochdeutsch" interpretieren.
+Beim Versuch, möglichst deutlich zu sprechen, werden Wörter manchmal *hyperkorrekt* ausgesprochen, beispielsweise wird *sehen* gerne aus Versehen [ˈze:hən] ausgesprochen, also mit [h], obwohl das Dehnungs-*h* stumm ist, bzw. *eh* nur eine Schreibung für "langes *e*" ist. Bei der alternativen Schreibung von "langem *e* als Doppel-*e*, wie in *See* tritt der umgekehrte Effekt ein: statt **Seeen* wird *Seen* geschrieben und somit [ze:n] statt [ˈze:ən] gesprochen. Die Aussprache *Seen* [ze:n] gilt jedoch als standardsprachlich. Im [Bühnendeutsch](https://archive.org/details/deutschebhnena00siebrich) wurden Schwundlaute immer gesprochen. Da Hochdeutsch im allgemeinen dazu neigt, Schwundlaute ausfallen zu lassen und darauf folgendes *n* silbisch zu sprechen ([n̩]), lassen sich diese hyperkorrekten Aussprachen als "Bühnenhochdeutsch" oder "veraltetes Hochdeutsch" interpretieren. (Umgekehrt könnte man auf die Sichtweise bestehen, dass modernes Hochdeutsch eine "lässige" oder "umgangssprachlichere" Form des Hochdeutschen ist. Same same.)
 
-| Bühnenhochdeutsch | Hochdeutsch | |
-|-|-|-|
-| [ˈze:ən] | [ˈze:n̩] | *sehen* |
-| [ze:n]   | [ˈze:n̩] | *Seen* |
+| Hochdeutsch | |
+|-|-|
+| [ˈze:ən] → [ˈze:n̩] | *sehen* |
+| [ze:n] → [ˈze:n̩] | *Seen* |
 
 ### Rhotizität
-<!-- TODO "Lässiges Hochdeutsch" -->
 
-Im Hochdeutschen wird im Gegensatz zum Bühnendeutsch das *r* nicht mehr gerollt ([r]), sondern als Zäpfchen-*r* gesprochen ([ʁ]). In der Lautumschrift wird jedoch üblicherweise weiterhin "[r]" verwendet. Während das Bühnendeutsch noch rhotisch war, d.h. das *r* fiel nach Vokal nicht aus, fällt es im Hochdeutschen aus, bzw. wird durch ein vokalisiertes [ɐ̯] ersetzt, so auch in den Vorsilben *er-* [ɛɐ̯], *her-* [hɛɐ̯], *ver-* [fɛɐ̯], *zer-* [tsɛɐ̯], sowie in der Nachsilbe *-er* als silbisches [ɐ]. Nach kurzem Stammvokal wird das *r* jedoch weiterhin als Zäpfchen-*r* ([ʁ]) gesprochen, was sich ebenfalls als Bühnendeutsch einordnen lässt.
+Im Hochdeutschen wird das *r* als Zäpfchen-*r* ([ʁ]) gesprochen, aber in der Umschrift als "[r]" geschrieben, als wäre es ein gerollte *r* wie im Bühnendeutsch, das nach Vokal erhalten blieb (d.h. Bühnendeutsch war **rhotisch**). Im Hochdeutschen wird das Zäpfchen-*r* nach Vokal als nicht-silbisches [ɐ̯] vokalisiert (d.h. es wird ungefähr wie "a" gesprochen), sowohl nach kurzem Vokal in den Vorsilben *er-* [ɛɐ̯], *her-* [hɛɐ̯], *ver-* [fɛɐ̯], *zer-* [tsɛɐ̯], sowie nach langem Vokal wie in *mehr* [me:ɐ̯]. Nach kurzem Stammvokal kann das *r* weiterhin als Zäpfchen-*r* ([ʁ]) gesprochen werden, was sich als "Bühnenhochdeutsch" interpretieren lässt.
 
-| Bühnenhochdeutsch | Hochdeutsch | |
-|-|-|-|
-| [gɛrn] | [gɛɐ̯n] | *gern* |
+| Hochdeutsch | |
+|-|-|
+| [gɛrn] → [gɛɐ̯n] | *gern* |
 
-Vor *d* oder *t* wird anscheinend kurzes *er* im Bühnenhochdeutschen lang gesprochen, nicht aber kurzes *är*, sodass sich *werter* [ˈve:ɐ̯tɐ] und *Wärter* [ˈvɛrtɐ] nicht reimen. <!-- TODO Wie ist die Aussprache im Bühnendeutsch? --> Die Wörter *erst* und *Erz* werden mit langem *er* gesprochen, da sie von *eh* [e:] abgeleitet sind. (Siehe auch [Umgangssprache](#umgangssprache).)
+Die Endung *-er* wird als silbisches [ɐ] gesprochen.
 
-| Bühnenhochdeutsch | Hochdeutsch | |
-|-|-|-|
-| [ˈve:ɐ̯tɐ] | [ˈvɛɐ̯tɐ] | *werter* |
-| [ˈvɛrtɐ]  | [ˈvɛɐ̯tɐ] | *Wärter* |
-| | | |
-| [ˈe:ɐ̯st] | [ˈe:ɐ̯st] | *erst* |
+| Hochdeutsch | |
+|-|-|
+| [ˈvasɐ] | *Wasser* |
 
-Die Endungen *-er* und *-en* verschmelzen zu *-ern*, außer bei Adjektiven auf *-er*. Eine Ausnahme ist das Adjektiv *ander*, welches neben dem unverschmolzenen *anderen* auch die Form *andern* kennt. (Ebenso ist *Eltern* eine veraltete Form von *älteren*.)
+Vor *d* oder *t* kann kurzes *er* im Hochdeutschen lang gesprochen werden (nicht aber kurzes *är*), sodass sich *werter* [ˈve:ɐ̯tɐ] und *Wärter* [ˈvɛɐ̯tɐ] (bzw. [ˈvɛrtɐ]) dann nicht reimen. Die Wörter *erst* und *Erz* werden mit langem *er* gesprochen, da sie von *eh* [e:] abgeleitet sind.
 
-| Bühnenhochdeutsch / Hochdeutsch | |
+| Hochdeutsch | |
+|-|-|
+| [ˈve:ɐ̯tɐ] → [ˈvɛɐ̯tɐ] | *werter* |
+| [ˈvɛrtɐ] → [ˈvɛɐ̯tɐ] | *Wärter* |
+| | |
+| [ˈe:ɐ̯st] | *erst* |
+
+Die Endungen *-er* und *-en* verschmelzen zu *-ern*, außer bei Adjektiven auf *-er*. (Eine Ausnahme ist das Adjektiv *ander*, welches neben dem unverschmolzenen *anderen* auch die Form *andern* kennt. Ebenso ist *Eltern* eine veraltete Form von *älteren*.)
+
+| Hochdeutsch | |
 |-|-|
 | [ˈbɛsɐn]   | *bessern* |
 | [ˈaizɐn]   | *eisern* |
-| [ˈɛltɐn]   | *Eltern* |
 | | |
 | [ˈvaitərə] | *weitere* |
 
 ### Diphthonge
 
-Im Bühnendeutsch werden die Diphthonge *au* und *äu/eu* jeweils [ao] und [ɔø] ausgesprochen. Im Hochdeutschen werden sie [au] und [ɔy] ausgesprochen. (In der Umgangssprache wird [ɔy] zu [ɔi].) 
+Die Diphthonge *au* und *äu/eu* werden [au] und [ɔi] ausgesprochen. *äu/eu* kann aber auch [ɔy] ausgesprochen werden. (Im Bühnendeutsch wurden die Diphthonge *au* und *äu/eu* jeweils [ao] und [ɔø] ausgesprochen.)
 
-| Bühnenhochdeutsch | Hochdeutsch | |
-|-|-|-|
-| [baox]   | [baux]   | *Bauch* |
-| [ˈbɔøçə] | [ˈbɔyçə] | *Bäuche"* |
+| Hochdeutsch | |
+|-|-|
+| [baux] | *Bauch* |
+| [ˈbɔyçə] → [ˈbɔiçə] | *Bäuche* |
 
 ### Nicht-Produktive Endungen
 
-Auch die Endungen *-el* und *-en* werden im Hochdeutschen wie *-er* nach Möglichkeit silbisch gesprochen. Vor Vokal wird *-er* sogar [ər] ausgesprochen. Um eine Silbe einzusparen, bspw. in Gedichten, kann der Schwundlaut komplett ausfallen, d.h. *-el* und *-en* werden zu [l] und [n] assimiliert, und *-er* wird als [r] gesprochen. (Die Variante [ˈe:klɪç] *ek'lig* für *ekelig* gilt als standardsprachliche Alternative und wird *eklig* geschrieben.)
+Auch die Endungen *-el* und *-en* werden im Hochdeutschen wie *-er* nach Möglichkeit silbisch gesprochen. Vor Vokal werden sie sogar komplett mit Schwundvokal [ə] ausgesprochen. Um eine Silbe einzusparen, bspw. in Gedichten, kann der Schwundlaut aber komplett ausfallen, d.h. *-el* und *-en* werden als [l] und [n] assimiliert, und *-er* wird als [r] gesprochen. (Die Variante [ˈe:klɪç] *ek'lig* für *ekelig* gilt als standardsprachliche Alternative und wird daher ohne Apostroph *eklig* geschrieben.)
 
-| Bühnenhochdeutsch | Hochdeutsch | |
-|-|-|-|
-| [ˈe:kəl]   | [ˈe:kl̩]   | *Ekel* |
-| [ˈe:kəlɪç] | [ˈe:kl̩ɪç] → [ˈe:klɪç] | *ekelig* → *eklig* |
-| | | |
-| [ˈɔfən]   | [ˈɔfn̩]  | *offen* |
-| [ˈɔfənɐ]  | [ˈɔfn̩ɐ] → [ˈɔfnɐ] | *offener* → *off'ner* |
-| | | |
-| [ˈbɛsɐ] | [ˈbɛsɐ]  | *besser* |
-| [ˈbɛsərə] | [ˈbɛsərə] → [ˈbɛsrə]  | *bessere* → *bess're* |
+| Hochdeutsch | |
+|-|-|
+| [ˈe:kl̩]   | *Ekel* |
+| [ˈe:kəlɪç] → [ˈe:klɪç] | *ekelig* → *eklig* |
+| | |
+| [ˈɔfn̩]  | *offen* |
+| [ˈɔfənɐ] → [ˈɔfnɐ] | *offener* → *off'ner* |
+| | |
+| [ˈbɛsɐ]  | *besser* |
+| [ˈbɛsərə] → [ˈbɛsrə]  | *bessere* → *bess're* |
 
-Vor *-ig* wird *-er* immer [r] gesprochen.
+Vor *-ig* wird *-er* immer zu [r] assimiliert und ohne Apostroph geschrieben.
 
 | Bühnenhochdeutsch / Hochdeutsch | |
 |-|-|
-| [ˈvasɐ]   | *Wasser* |
 | [ˈvɛsrɪç] | *wässrig* |
 
 ### Verben
 
 Silbisches *-en* wird vom Verbstamm nach Möglichkeit assimiliert. Es heißt also nicht *zeich-n-en* [ˈtsaiçn̩ən], sondern *zeich-nen* [ˈtsaiçnən].
 
-| Bühnenhochdeutsch / Hochdeutsch | |
+| Hochdeutsch | |
 |-|-|
 | [ˈtsaiçn̩]  | *Zeichen* |
 | [ˈtsaiçnɐ] | *Zeichner* |
@@ -80,49 +83,100 @@ Silbisches *-en* wird vom Verbstamm nach Möglichkeit assimiliert. Es heißt als
 | [ˈœfn̩tlɪç] | *öffentlich* |
 | [ˈœfnɐ]    | *Öffner* |
 
-Bei Verben mit nicht-produktivem *-en* ist der Schwundlaut der Verbendungen *-e*, *-est*, *-et*, *-en*, *-et*, *-en* nicht ausgefallen. Die Verbendungen für den Indikativ ähneln daher denen des Konjunktiv I. Allgemein wird oft die Konjunktiv-I-Form an Stelle der Indikativ-Form für die 1. Person Singular verwendet. Verben mit nicht-produktivem *-el* assimlieren das *l* in der 1. Person Einzahl, die dann ebenfalls auf *-e* endet und daher dann so aussieht wie im Konjunktiv I. Die restlichen Verbendungen *-st*, *-t*, *-n*, *-t*, *-n* werden auch für den Konjunktiv I verwendet.
+Bei Verben mit nicht-produktivem *-en* ist der Schwundlaut der Verbendungen *-e*, *-est*, *-et*, *-en*, *-et*, *-en* nicht ausgefallen. Die Verbendungen für den Indikativ ähneln daher denen des Konjunktiv I. Allgemein wird oft die Konjunktiv-I-Form an Stelle der Indikativ-Form für die 1. Person Singular verwendet (*ich gehe* statt *ich geh*). Verben mit nicht-produktivem *-el* assimlieren das *l* in der 1. Person Einzahl, die dann auf *-e* endet und daher dann so aussieht wie im Konjunktiv I. Die restlichen Verbendungen *-st*, *-t*, *-n*, *-t*, *-n* werden auch für den Konjunktiv I verwendet.
 
-| Bühnenhochdeutsch / Hochdeutsch | |
+| Hochdeutsch | |
 |-|-|
 | [ˈtsaiçnə]   | *zeichne*   |
 | [ˈtsaiçnəst] | *zeichnest* |
 | | |
 | [ˈvɛkslə]    | *wechsle*   |
-| [ˈvɛksl̩st]   | *wechslst*  |
+| [ˈvɛksl̩st]   | *wechselst*  |
 | | |
 | [ˈtsɪtərə]   | *zittere*   |
 | [ˈtsɪtɐst]   | *zitterst*  |
 
 ## Umgangssprache
 
-In der Umgangssprache wird [a] wie [ɐ] gesprochen, und ebenso das nicht-silbische [ɐ̯]. Der Einfachheit halber können wir in der Umschrift für alle drei Fälle [a] schreiben. Statt [aa̯] und [a:a̯] schreiben wir [a:]. (Das vom hochdeutschen *dar* [da:ɐ̯] abgeleitete *da* [da:] lässt sich daher als verstandardsprachlichte Umgangssprache interpretieren.)
+### ä ≡ e
+
+In der Umgangssprache wird langes *ä* [ɛ:] wie langes *e* [e:] gesprochen.
 
 | Hochdeutsch | Umgangssprache | |
 |-|-|-|
-| [ba:ɐ̯] | [ba:]  | *Bar* |
-| [baɐ̯t] | [ba:t] | *Bart* |
+| [ʃpɛ:t] | [ʃpe:t] | *spät* |
 
-Die Vereinigung von hochdeutschem [aɐ̯] und [a:ɐ̯] hin zum umgangssprachlichen [a:] lässt sich als Längung ([aa̯] -> [a:]) und Kürzung ([a:a̯] → [a:] = [aa̯]) interpretieren und im Prinzip auf alle andere Vokale anwenden.
+### a ≡ ɐ
 
-| Hochdeutsch | Umgangssprache | |
-|-|-|-|
-| [vɔɐ̯t]   | [vɔ:t]   | *Wort* |
-| [ˈvœɐ̯tɐ] | [ˈvœ:ta] | *Wörter* |
-| | | |
-| [o:ɐ̯]   | [ˈɔa̯]   | *Ohr* |
-| [ø:ɐ̯]   | [ˈœa̯]   | *Öhr* |
-
-In der Umgangssprache verhält sich langes *ä* [ɛ:] wie langes *e* [e:], und ebenso verhält sich langes *ä* vor *r* wie langes *e* vor *r*. Kurzes *ä*/*e* [ɛ] vor *r* wird nicht zu [ɛ:] gelängt (denn diesen Laut gibt es nicht in der Umgangssprache), sondern verhält sich wie langes *ä*/*e* vor *r*.
+In der Umgangssprache wird [a] wie [ɐ] gesprochen, so dass *Lader* wie *Lada* ausgesprochen wird. In der Umschrift werde ich weiterhin [a] schreiben.
 
 | Hochdeutsch | Umgangssprache | |
 |-|-|-|
-| [ˈtsɛ:nə] | [ˈtse:nə] | *Zähne* |
-| [tse:n]   | [tse:n]   | *zehn* |
+| [ˈvasɐ] | [ˈvɐsɐ] ≡ [ˈvasa] | *Wasser* |
+
+### Diphthongisierung
+
+In der Umgangssprache werden lange Vokale (außer [a:]) vor Vokal diphthongisiert, d.h. sie erhalten ein [j] oder [w].
+
+| Hochdeutsch | Umgangssprache | |
+|-|-|-|
+| [ˈna:ə] | [ˈna:ə] | *nahe* |
+| [ˈnɛ:ə] | [ˈnejə] | *Nähe* |
+| [ˈtse:ə] | [ˈtsejə] | *Zehe* |
+| [ˈhø:ə] | [ˈhøjə] | *Höhe* |
+| [ˈho:ə] | [ˈhowə] | *hohe* |
+| [ˈtsi:ɐ] | [ˈtsija] | *Zieher* |
+| [ˈfry:ɐ] | [ˈfryja] | *früher* |
+| [ˈʃu:ə] | [ˈʃuwə] | *Schuhe* |
+
+### -l
+
+In der Umgangssprache wird Auslaut-*l* als eine Mischung aus [w] und [ə] gesprochen. Hier wird es als [ɫ] transkribiert.
+
+| Hochdeutsch | Umgangssprache | |
+|-|-|-|
+| [kalt] | [kaɫt] | *kalt* |
+
+In der Umgangssprache wird Auslaut-*l* nach langem Vokal silibisch gesprochen.
+
+| Hochdeutsch | Umgangssprache | |
+|-|-|-|
+| [fi:l] | [fi:l̩] | *viel* |
+| [ˈfi:lə] | [ˈfi:lə] | *viele* |
+| [ˈfi:lən] | [ˈfi:l̩n] | *vielen* |
+
+### -r
+
+In der Umgangssprache wird ein kurzer Vokal vor Auslaut-*r* gelängt, ohne die Vokalqualität zu verändern, sodass *fort* wie englisches *fought* [fɔ:t] ausgesprochen wird.
+
+| Hochdeutsch | Umgangssprache | |
+|-|-|-|
+| [ˈvaɐ̯tn̩] | [ˈva:tn̩] | *warten* |
 | | | |
-| [bɛ:ɐ̯]    | [bɛa̯]     | *Bär* |
-| [be:ɐ̯]    | [bɛa̯]     | *-beer* |
+| [ˈvœɐ̯tɐ] | [ˈvœ:tɐ] | *Wörter* |
+| [ˈvɔɐ̯tə] | [ˈvɔ:tə] | *Worte* |
 | | | |
-| [ˈbɛɐ̯tə]  | [ˈbɛa̯tə]  | *Bärte* |
+| [vɪɐ̯t] | [vɪ:t] | *wird* |
+| [ˈvʏɐ̯də] | [ˈvʏ:də] | *würde* |
+| [ˈvʊɐ̯də] | [ˈvʊ:də] | *wurde* |
+
+Kurzes *ä/e* vor Auslaut-*r* verhält sich wie langes *ä/e*. Lange Vokale werden vor Auslaut-*r* gekürzt. ([aa̯] wird zu [a:]. Während [e:] zu [ɛ], [ø:] zu [œ], und [o:] zu [ɔ] gekürzt werden, bleibt die Vokalqualität von [i:], [y:] und [u:] erhalten, wenn sie zu [i], [y] und [u] gekürzt werden.)
+
+| Hochdeutsch | Umgangssprache | |
+|-|-|-|
+| [va:ɐ̯] | [va:] | *wahr* |
+| | | |
+| [ˈvɛɐ̯tɐ] | [ˈvɛa̯ta] | *werter* |
+| [ˈvɛɐ̯tɐ] | [ˈvɛa̯ta] | *Wärter* |
+| | | |
+| [ve:ɐ̯] | [vɛa̯] | *wer* |
+| [vɛ:ɐ̯] | [vɛa̯] | *wär'* |
+| [ro:ɐ̯] | [rɔa̯] | *Rohr* |
+| [ˈrø:ɐ̯çən] | [ˈrœa̯çən] | *Röhrchen* |
+| | | |
+| [ti:ɐ̯] | [tia̯] | *Tier* |
+| [ty:ɐ̯] | [tya̯] | *Tür* |
+| [tu:ɐ̯] | [tua̯] | *Tour* |
 
 Die Vorsilben *er-*, *her-*, *ver-* und *zer-* werden in der Umgangssprache wie die Nachsilbe *-er* mit [a] ausgesprochen.
 
@@ -133,43 +187,14 @@ Die Vorsilben *er-*, *her-*, *ver-* und *zer-* werden in der Umgangssprache wie 
 | [fɛɐ̯]  | [fa]  | *ver-* |
 | [tsɛɐ̯] | [tsa] | *zer-* |
 
-Die geschlossenen langen Vokale *i* [i:], *ü* [y:] und *u* [u:] erfahren keine Verkürzung in der Umgangssprache. Der Auslaut *r* und die Endung *-er* sind hier also nicht zu unterscheiden.
-
-| Hochdeutsch | Umgangssprache | |
-|-|-|-|
-| [bɪɐ̯kt] | [bɪ:kt] | *birgt* |
-| [bʏɐ̯kt] | [bʏ:kt] | *bürgt* |
-| [bʊɐ̯k]  | [bʊ:k]  | *Burg* |
-| | | |
-| [ti:ɐ̯]  | [ˈti:a] | *Tier* |
-| [ty:ɐ̯]  | [ˈty:a] | *Tür* |
-| [tu:ɐ̯]  | [ˈtu:a] | *Tour* |
-| | | |
-| [ˈtu:ɐ] | [ˈtu:a] | *-tuer* |
+### -em
 
 In der Umgangssprache wird nach Möglichkeit auch die Endung *-em* silbisch gesprochen ([m̩]).
 
 | Hochdeutsch | Umgangssprache | |
 |-|-|-|
-| [ˈaləm] | [ˈalm̩] | *allem* |
-| [alm]   | [alm]  | *Alm* |
-
-### Auslaut *-l* und *-r*
-
-In der Umgangssprache kann der Schwundvokal auch nach *l* und *r* ausfallen. Nach kurzem Vokal wird das *r* assimiliert.
-
-| Hochdeutsch | Umgangssprache | |
-|-|-|-|
-| | | |
-| [ˈfʏlən]    | [fʏln̩]  | *füllen* |
-| [ˈknarən]   | [kna:n̩] | *knarren* |
-
-Nach langem Vokal werden die Auslaute *-l* und *-r* silbisch ausgesprochen. (Hierbei wird *r* vokalisiert zu [a].)
-
-| Hochdeutsch | Umgangssprache | |
-|-|-|-|
-| [ˈfy:lən]  | [ˈfy:l̩n]  | *fühlen* |
-| [ˈʃpy:rən] | [ˈʃpy:an] | *spüren* |
+| [ˈaləm] | [ˈaɫm̩] | *allem* |
+| [alm]   | [aɫm]  | *Alm* |
 
 ### Konjunktiv I
 
@@ -189,52 +214,27 @@ In der Umgangssprache kann an Stelle des Imperativs der Konjunktiv I der 1./3. P
 
 ### Lässige Umgangssprache
 
-Während die silibisch gesprochene Endung *-er* [a] in der Umgangssprache wenigstens noch **fast** wie der nicht-silbische Auslaut *-r* [a̯] klingt, wird dieser Unterschied in der lässigen Umgangssprache nicht mehr aufrechterhalten. Hier wird der Auslaut *-r* immer wie die Endung *-er* [a] gesprochen. (Die hochdeutsche Aussprache von *eherst* als [ˈe:ɐ̯st] statt [ˈe:ɐst] und die daraus resultierende Schreibung *erst* kann als lässige Umgangssprache interpretiert werden.)
-
-| Hochdeutsch | Umgangssprache | |
-|-|-|-|
-| [ro:ɐ] | [ro:a] | *roher* |
-| [ro:ɐ̯] | [rɔa̯] → [rɔa] | *Rohr* |
-| | | |
-| [ze:ɐ] | [ze:a] | *Seher* |
-| [ze:ɐ̯] | [zɛa̯] → [zɛa] | *sehr* |
-| | | |
-| [tsi:ɐ] | [tsi:a] | *Zieher* |
-| [tsi:ɐ̯] | [tsi:a̯] → [tsi:a] | *Zier* |
-
-In der lässigen Umgangssprache wird die silbisch gesprochene Endung *-en* [n̩] assimiliert oder zu [m̩] oder [ŋ̩] angeglichen. (Die Aussprache *Seen* [ze:n] kann also als "lässige Umgangssprache" interpretiert werden.)
-
-| Hochdeutsch | Umgangssprache | |
-|-|-|-|
-| [gəˈʃri:ən]  | [gəˈʃri:n̩]  | [gəˈʃri:n̩] → [gəˈʃri:n] | *geschrie(e)n* |
-| | | |
-| [ˈha:bn̩]  | [ˈha:bn̩] → [ˈha:bm̩]  | *haben*  |
-| [ˈza:gn̩]  | [ˈza:gn̩] → [ˈza:gŋ̩]  | *sagen*  |
-
-In der lässigen Umgangssprache wird *l* nach kurzem Vokal nur angedeutet und dann als [ɫ] gesprochen. <!-- TODO [ɫ] ist nicht wirklich korrekt. -->
-
-| Hochdeutsch | Umgangssprache | |
-|-|-|-|
-| | | |
-| [ˈfʏlən]   | [fʏln̩] → [fʏɫn] | *füllen* |
-
-In der lässigen Umgangssprache werden unbetonte Personalpronomen in ihrer schwachen Form verwendet.
-
-| Hochdeutsch | Umgangssprache | |
-|-|-|-|
-| [hat zi:]   | [hat zi:] → [hat‿zə] | *hat sie* → *hat-se* |
-
 In der lässigen Umgangssprache werden eigene Abkürzungen vorgenommen. (Auf Grammatik, Wortwahl, Ton, Stil und soziologische Aspekte wird hier nicht näher eingegangen.)
 
 | Hochdeutsch | Umgangssprache | |
 |-|-|-|
-| [nɪçt] | [nɪç] | *nicht* → *nich* |
+| [ˈgʊkn̩]  | [ˈkʊkn̩] | *gucken* |
+| [ɪst]    | [ɪs] | *ist* → *is* |
+| [jɛtst]  | [jɛts] | *jetzt* → *jetz* |
+| [nɪçt]   | [nɪç] | *nicht* → *nich* |
 | | | |
 | [ain]    | [n̩] | *ein* → *'n*   |
 | [ˈainə]  | [nə] | *eine* → *'ne*  |
 | [ˈainən] | [nən] → [n̩] | *einen* → *'nen* |
 | [ˈainəm] | [nəm] → [m̩] | *einem* → *'nem* |
 | [ˈainɐ]  | [na] | *einer* → *'ner* |
+
+In der lässigen Umgangssprache werden unbetonte Personalpronomen in ihrer schwachen Form verwendet.
+
+| Hochdeutsch | Umgangssprache | |
+|-|-|-|
+| [hat zi:]   | [hat zi:] → [ˈhatsə] | *hat sie* → *hat-se* |
+| [ɪst zi:]   | [ɪs zi:] → [ˈɪsə] | *ist sie* → *is-se* |
 
 ## Berlinerisch
 
@@ -281,14 +281,29 @@ In Längungen und vor manchen Konsonanten wie *sch* [ʃ] wird [ɪ] zu [ʏ].
 | [vɪ:t] | [vʏ:t] | *wird* |
 | [tɪʃ]  | [tʏʃ]  | *Tisch* |
 
-`...`
+Wie in der lässigen Umgangssprache werden auch im Berlinerischen unbetonte Personalpronomen verwendendet. Da die bestimmten Artikel als Demonstrativpronomen und Personalpronomen verwendet werden, haben auch  *der*, *die* und *das* schwache Formen. Bei der Verbindung von *an*, *in* und *von* wird das *d* assimiliert.
 
 | Umgangssprache | Berlinerisch | |
 |-|-|-|
-| [kaufn̩] | [ko:fn̩] | *kaufen* → *koofen* |
-| [klain] | [kle:n] | *klein* → *kleen* |
+| [an di:] | [ˈanə] | *an die* → *anne* |
+| [ɪn dɛa] | [ˈɪna] | *in der* → *inna* |
+| [fɔn dɛa] | [ˈfɔna] | *von der* → *vonna* |
 
-`doof, doov`
+An Stelle von [ər] und [ɛr] wird [ar] gesprochen.
+
+| Umgangssprache | Berlinerisch | |
+|-|-|-|
+| [batəˈri:] | [bataˈri:] | *Batterie* |
+| [hɛˈrain] | [haˈrain] | *herein* |
+
+### Monophtongierung
+
+Urgermanisches **ai* und **au* können im Berlinerischen zu *ee* und *oo* geworden sein.
+
+| Umgangssprache | Berlinerisch | |
+|-|-|-|
+| [klain] | [kle:n] | *klein* → *kleen* |
+| [laufn̩] | [lo:fn̩] | *laufen* → *loofen* |
 
 ### Lässiges Berlinerisch
 
@@ -296,9 +311,8 @@ In lässigem Berlinerisch werden silbisch gesprochene Endungen assimiliert.
 
 | Umgangssprache | Berlinerisch | |
 |-|-|-|
-| [ˈha:bm̩] | [ˈha:m̩] → [ha:m] | *haben*  |
-
-`verwenden`
+| [ˈha:bm̩] | [ˈha:m̩] → [ha:m] | *haben* |
+| [fɛɐ̯ˈvɛndn̩]  | [faˈvɛnn̩] → [faˈvɛn] | *verwenden* |
 
 In lässigem Berlinerisch fällt *ch* / berlinerisches *g* am Wortende aus.
 
@@ -311,17 +325,21 @@ In lässigem Berlinerisch wird schwaches *ick* zu *k* verkürzt.
 
 | Umgangssprache | Berlinerisch | |
 |-|-|-|
-| [vɛn‿ɪç] | [vɛŋk] | *wenn-ick* → *wenn'k* |
+| [ˈvɛnɪç] | [vɛŋk] | *wenn-ich* → *wenn'k* |
 
-`ha'ik`
+Im lässigen Berlinerisch kann ein Auslaut, der vor silbisch gesprochenen Endungen assimiliert werden kann, vor schwachem Personalpronomen ausfallen.
+
+| Umgangssprache | Berlinerisch | |
+|-|-|-|
+| [ˈha:bɪç] | [ˈha:bɪk] → [ˈha:ɪk] | *wenn-ich* → *wenn'k* |
 
 ### Vokabular
 
 | Umgangssprache | Berlinerisch | |
 |-|-|-|
+| [auf]       | [ʊf]         | *auf* → *uf* |
 | [dan]       | [dɛn]        | *dann* → *denn* |
 | [dɛn]       | [n̩]          | *denn* → *'n* |
-| [jɛtst]     | [jɛts]       | *jetzt* → *jetz* |
 | [ˈkʊkn̩]     | [ˈki:kŋ̩]     | *gucken* → *kieken* |
 | [ɪç]        | [ɪk]         | *ich* → *ick* |
 | [ta:k]      | [tax]        | *Tag* |
