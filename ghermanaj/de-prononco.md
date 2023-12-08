@@ -121,10 +121,12 @@ In der Umgangssprache werden lange Vokale (außer [a:]) vor Vokal diphthongisier
 | Hochdeutsch | Umgangssprache | |
 |-|-|-|
 | [ˈna:ə] | [ˈna:ə] | *nahe* |
+| | | |
 | [ˈnɛ:ə] | [ˈnejə] | *Nähe* |
 | [ˈtse:ə] | [ˈtsejə] | *Zehe* |
 | [ˈhø:ə] | [ˈhøjə] | *Höhe* |
 | [ˈho:ə] | [ˈhowə] | *hohe* |
+| | | |
 | [ˈtsi:ɐ] | [ˈtsija] | *Zieher* |
 | [ˈfry:ɐ] | [ˈfryja] | *früher* |
 | [ˈʃu:ə] | [ˈʃuwə] | *Schuhe* |
