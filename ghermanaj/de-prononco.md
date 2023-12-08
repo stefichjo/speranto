@@ -171,8 +171,8 @@ Kurzes *ä/e* vor Auslaut-*r* verhält sich wie langes *ä/e*. Lange Vokale werd
 | | | |
 | [ve:ɐ̯] | [vɛa̯] | *wer* |
 | [vɛ:ɐ̯] | [vɛa̯] | *wär'* |
-| [ro:ɐ̯] | [rɔa̯] | *Rohr* |
 | [ˈrø:ɐ̯çən] | [ˈrœa̯çən] | *Röhrchen* |
+| [ro:ɐ̯] | [rɔa̯] | *Rohr* |
 | | | |
 | [ti:ɐ̯] | [tia̯] | *Tier* |
 | [ty:ɐ̯] | [tya̯] | *Tür* |
@@ -331,7 +331,7 @@ Im lässigen Berlinerisch kann ein Auslaut, der vor silbisch gesprochenen Endung
 
 | Umgangssprache | Berlinerisch | |
 |-|-|-|
-| [ˈha:bɪç] | [ˈha:bɪk] → [ˈha:ɪk] | *wenn-ich* → *wenn'k* |
+| [ˈha:bɪç] | [ˈha:bɪk] → [ˈha:ɪk] | *hab-ich* → *ha'ik* |
 
 ### Vokabular
 
