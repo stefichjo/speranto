@@ -349,3 +349,23 @@ Im lässigen Berlinerisch kann ein Auslaut, der vor silbisch gesprochenen Endung
 | [ɪç]        | [ɪk]         | *ich* → *ick* |
 | [ta:k]      | [tax]        | *Tag* |
 | [vail]      | [val]        | *weil* → *wall* |
+
+-----
+
+**ho:xdɔytʃ**
+***ʊmgaŋgsʃpra:xə***
+*bɛali:nərɪʃ*
+
+<!-- XSampa to IPA -->
+<!-- a: = ā; unbetonte lange vokale werden gekürzt -->
+<!-- ā ē ī ō ū ø̄ ȳ ɛ̄ ɔ̄ œ̄ ʊ̄ ʏ̄ -->
+<!-- á é í ó ú ǿ ý ɛ́ ɔ́ œ́ ʊ́ ʏ́ -->
+<!-- hø:hə ist falsch, oder? -->
+<!-- ma' -->
+<!-- In der Standardumgangssprache würde ich noch kein "is" und "nich" erwarten. -->
+
+
+* ā ē ī ō ū ø̄ ȳ ɛ̄ ɔ̄ œ̄ ʊ̄ ʏ̄
+* á é í ó ú ǿ ý ɛ́ ɔ́ œ́ ʊ́ ʏ́
+* `ā ē ī ō ū ø̄ ȳ ɛ̄ ɔ̄ œ̄ ʊ̄ ʏ̄`
+* `á é í ó ú ǿ ý ɛ́ ɔ́ œ́ ʊ́ ʏ́`
