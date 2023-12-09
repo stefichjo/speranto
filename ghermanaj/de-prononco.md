@@ -71,6 +71,9 @@ Vor *-ig* wird *-er* immer zu [r] assimiliert und ohne Apostroph geschrieben.
 |-|-|
 | [ˈvɛsrɪç] | *wässrig* |
 
+<!-- Ist eklig wie wässrig der Normalfall? -->
+<!-- Dann lieber ein anderes Beispiel für -el + Vokal -->
+
 ### Verben
 
 Silbisches *-en* wird vom Verbstamm nach Möglichkeit assimiliert. Es heißt also nicht *zeich-n-en* [ˈtsaiçn̩ən], sondern *zeich-nen* [ˈtsaiçnən].
