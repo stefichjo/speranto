@@ -358,14 +358,8 @@ Im lässigen Berlinerisch kann ein Auslaut, der vor silbisch gesprochenen Endung
 
 <!-- XSampa to IPA -->
 <!-- a: = ā; unbetonte lange vokale werden gekürzt -->
-<!-- ā ē ī ō ū ø̄ ȳ ɛ̄ ɔ̄ œ̄ ʊ̄ ʏ̄ -->
-<!-- á é í ó ú ǿ ý ɛ́ ɔ́ œ́ ʊ́ ʏ́ -->
-<!-- hø:hə ist falsch, oder? -->
+<!-- ā ɛ̄ ē ī ɔ̄ ō œ̄ ø̄ ʊ̄ ū ʏ̄ ȳ -->
+<!-- á ɛ́ é í ó ǿ ú ý ɔ́ œ́ ʊ́ ʏ́ -->
 <!-- ma' -->
 <!-- In der Standardumgangssprache würde ich noch kein "is" und "nich" erwarten. -->
 
-
-* ā ē ī ō ū ø̄ ȳ ɛ̄ ɔ̄ œ̄ ʊ̄ ʏ̄
-* á é í ó ú ǿ ý ɛ́ ɔ́ œ́ ʊ́ ʏ́
-* `ā ē ī ō ū ø̄ ȳ ɛ̄ ɔ̄ œ̄ ʊ̄ ʏ̄`
-* `á é í ó ú ǿ ý ɛ́ ɔ́ œ́ ʊ́ ʏ́`
