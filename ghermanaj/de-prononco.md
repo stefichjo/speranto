@@ -352,10 +352,6 @@ Im lässigen Berlinerisch kann ein Auslaut, der vor silbisch gesprochenen Endung
 
 -----
 
-**ho:xdɔytʃ**
-***ʊmgaŋgsʃpra:xə***
-*bɛali:nərɪʃ*
-
 <!-- XSampa to IPA -->
 <!-- a: = ā; unbetonte lange vokale werden gekürzt -->
 <!-- ā ɛ̄ ē ī ɔ̄ ō œ̄ ø̄ ʊ̄ ū ʏ̄ ȳ -->
