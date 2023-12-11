@@ -7,7 +7,7 @@ Um die Aussprache des Deutschen greifbarer zu machen, werden im Folgenden vier S
 * [Umgangssprache](#umgangssprache)
 * [Mundart](#mundart)
 
-Es handelt sich bei dieser Unterteilung um eine sehr meinungsstarke Darstellung (vgl. [Nützliche Links](#nützliche-links)). Jede dieser Aussprachestufen kann **überdeutlich**, **konservativ** oder **progressiv** verwendet werden.
+Es handelt sich bei dieser Unterteilung um eine sehr meinungsstarke Darstellung (vgl. [Nützliche Links](#nützliche-links) für andere Sichtweisen). Jede dieser Aussprachestufen kann **überdeutlich**, **konservativ** oder **progressiv** verwendet werden.
 
 ## Bühnendeutsch
 
@@ -23,27 +23,12 @@ Das *r* wird im konservativen Bühnendeutsch als Zungenspitzen-*r* gerollt ([r])
 |-|-|-|
 | [ˈbɛsər] | [ˈbɛsəʀ] | *besser* |
 
-
+Überdeutliche Aussprachen sind an die Rechtschreibung angelehnt.
 
 | überdeutlich | konservativ | |
 |-|-|-|
 | [ˈhø:hə] | [ˈhø:ə] | *Höhe* |
-
-
-
-
-
-<!--
-https://en.wikipedia.org/wiki/B%C3%BChnendeutsch
-1898 Theodor Siebs
-After 1957, a uvular trill [ʀ] was also allowed.
-In loanwords from Latin and Ancient Greek, the word-final /ə/ is realized as a short, tense [e] so Psyche 'psyche' is pronounced [ˈpsyːçe] rather than the standard [ˈpsyːçə].[4]
--->
-
-<!--
-"überdeutlich" klingt vielleicht weniger wertend als "hyperkorrekt".
-ˈhøhə rɪçtɪk
--->
+| [ˈkø:nɪk] | [ˈkø:nɪç] | *König* |
 
 <!--
 https://www.google.de/books/edition/Duden_Das_Aussprachew%C3%B6rterbuch/ByrmEAAAQBAJ
@@ -53,10 +38,6 @@ Gebrrauchsstandard, Gebrauchsnorm
 aɪ̯ aʊ̯ ɔɪ̯
 mɪsi̯o:n
 !!! bar = ba: !!!
--->
-
-<!--
-progressiv/konservativ
 -->
 
 ## Hochdeutsch
