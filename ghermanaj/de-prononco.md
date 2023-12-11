@@ -1,13 +1,67 @@
 # Aussprache
 
-## Hochdeutsch
+Um die Aussprache des Deutschen greifbarer zu machen, werden im Folgenden vier Stufen skizziert:
 
-Beim Versuch, möglichst deutlich zu sprechen, werden Wörter manchmal *hyperkorrekt* ausgesprochen, beispielsweise wird *sehen* gerne aus Versehen [ˈze:hən] ausgesprochen, also mit [h], obwohl das Dehnungs-*h* stumm ist, bzw. *eh* nur eine Schreibung für "langes *e*" ist. Bei der alternativen Schreibung von "langem *e* als Doppel-*e*, wie in *See* tritt der umgekehrte Effekt ein: statt **Seeen* wird *Seen* geschrieben und somit [ze:n] statt [ˈze:ən] gesprochen. Die Aussprache *Seen* [ze:n] gilt jedoch als standardsprachlich. Im [Bühnendeutsch](https://archive.org/details/deutschebhnena00siebrich) wurden Schwundlaute immer gesprochen. Da Hochdeutsch im allgemeinen dazu neigt, Schwundlaute ausfallen zu lassen und darauf folgendes *n* silbisch zu sprechen ([n̩]), lassen sich diese hyperkorrekten Aussprachen als "Bühnenhochdeutsch" oder "veraltetes Hochdeutsch" interpretieren. (Umgekehrt könnte man auf die Sichtweise bestehen, dass modernes Hochdeutsch eine "lässige" oder "umgangssprachlichere" Form des Hochdeutschen ist. Same same.)
+* [Bühnendeutsch](#bühnendeutsch)
+* [Hochdeutsch](#hochdeutsch)
+* [Umgangssprache](#umgangssprache)
+* [Mundart](#mundart)
+
+Es handelt sich bei dieser Unterteilung um eine sehr meinungsstarke Darstellung (vgl. [Nützliche Links](#nützliche-links)). Jede dieser Aussprachestufen kann **überdeutlich**, **konservativ** oder **progressiv** verwendet werden.
+
+## Bühnendeutsch
+
+Im Bühnendeutsch werden Schwundlaute immer gesprochen.
 
 | Hochdeutsch | |
 |-|-|
-| [ˈze:ən] → [ˈze:n̩] | *sehen* |
-| [ze:n] → [ˈze:n̩] | *Seen* |
+| [ˈha:bən] | *haben* |
+
+Das *r* wird im konservativen Bühnendeutsch als Zungenspitzen-*r* gerollt ([r]) oder "getappt" ([ɾ]). Im progressiven Bühnendeutsch wird es als Zäpfchen-*r* (Vibrant: [ʀ]) gesprochen.
+
+| konservativ | progressiv | |
+|-|-|-|
+| [ˈbɛsər] | [ˈbɛsəʀ] | *besser* |
+
+
+
+| überdeutlich | konservativ | |
+|-|-|-|
+| [ˈhø:hə] | [ˈhø:ə] | *Höhe* |
+
+
+
+
+
+<!--
+https://en.wikipedia.org/wiki/B%C3%BChnendeutsch
+1898 Theodor Siebs
+After 1957, a uvular trill [ʀ] was also allowed.
+In loanwords from Latin and Ancient Greek, the word-final /ə/ is realized as a short, tense [e] so Psyche 'psyche' is pronounced [ˈpsyːçe] rather than the standard [ˈpsyːçə].[4]
+-->
+
+<!--
+"überdeutlich" klingt vielleicht weniger wertend als "hyperkorrekt".
+ˈhøhə rɪçtɪk
+-->
+
+<!--
+https://www.google.de/books/edition/Duden_Das_Aussprachew%C3%B6rterbuch/ByrmEAAAQBAJ
+Duden, das Aussprachewörterbuch 2023
+Gebrrauchsstandard, Gebrauchsnorm
+ˈkɔxm̩ ˈa:təm
+aɪ̯ aʊ̯ ɔɪ̯
+mɪsi̯o:n
+!!! bar = ba: !!!
+-->
+
+<!--
+progressiv/konservativ
+-->
+
+## Hochdeutsch
+
+Da Hochdeutsch im allgemeinen dazu neigt, Schwundlaute ausfallen zu lassen und darauf folgendes *n* silbisch zu sprechen ([n̩]), lassen sich diese hyperkorrekten Aussprachen als "Bühnenhochdeutsch" oder "veraltetes Hochdeutsch" interpretieren. (Umgekehrt könnte man auf die Sichtweise bestehen, dass modernes Hochdeutsch eine "lässige" oder "umgangssprachlichere" Form des Hochdeutschen ist. Same same.)
 
 ### Rhotizität
 
@@ -363,3 +417,8 @@ Im lässigen Berlinerisch kann ein Auslaut, der vor silbisch gesprochenen Endung
 <!-- ma' -->
 <!-- In der Standardumgangssprache würde ich noch kein "is" und "nich" erwarten. -->
 
+## Nützliche Links
+
+* [Bühnendeutsch, Theodor Siebs (1898)](https://archive.org/details/deutschebhnena00siebrich)
+* [Duden, das Aussprachewörterbuch (2023)](https://www.google.de/books/edition/Duden_Das_Aussprachew%C3%B6rterbuch/ByrmEAAAQBAJ)
+* [Deutsch mit Benjamin (YouTube-Kanal)](https://www.youtube.com/@DeutschMitBenjamin)
