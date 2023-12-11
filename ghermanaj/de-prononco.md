@@ -121,6 +121,10 @@ In der Umgangssprache wird [a] wie [ɐ] gesprochen, so dass *Lader* wie *Lada* a
 
 In der Umgangssprache werden lange Vokale (außer [a:]) vor Vokal diphthongisiert, d.h. sie erhalten ein [j] oder [w].
 
+<!-- TODO
+Neues Konzept: Die Umgangssprache (aber auch alle anderen "Levels") können "nach unten offen" sein (wenn man Bühnendeutsch als "oben" und eine Mundart als "unten" betrachtet; vielleicht klingt "nicht-regional" und "regional" weniger wertend? (I'm looking at you, "Hoch"-Deutsch!)). Die Diphtongisierung scheint mir ein Element aus der (Berliner) Mundart zu sein, die in die Umgangssprache zurück-geschwappt ist. Daher wirkt es wie ein fließender Übergang; die Kausalität/Etymologie ist jedoch eine andere. Also, [ˈnejə] kann zwar umgangssprachlich sein, ist aber nicht mehr oder weniger lässig als [ˈne:ə]. Aber letzteres schließt das Register "Berlinerisch" aus. Ebenso signalisiert die Aussprache des *r* nach kurzem Vokal, dass ein Registerwechsel hin zur Umgangssprache ausgeschlossen ist. Und ebenso signalisiert ein gerolltes *r* in der Bühnensprache, dass ein Registerwechsel ins Hochdeutsche nicht vorgesehen ist.
+-->
+
 | Hochdeutsch | Umgangssprache | |
 |-|-|-|
 | [ˈna:ə] | [ˈna:ə] | *nahe* |
