@@ -12,18 +12,25 @@ Um die Aussprache des Deutschen greifbarer zu machen, werden im Folgenden vier S
     - [Lange Vokale](#lange-vokale)
     - [-l](#-l)
     - [-r](#-r)
+    - [Grammatik](#grammatik)
   - [Mundart](#mundart)
     - [Vokabular](#vokabular)
+    - [Grammatik](#grammatik-1)
   - [Berlinerisch](#berlinerisch)
-    - [-s ≡ -t](#-s---t)
+    - [s ≡ t](#s--t)
     - [g ≡ g/j/ɣ/ç/x](#g--gjɣçx)
     - [ɪ ≡ ʏ](#ɪ--ʏ)
-    - [Monophtongierung](#monophtongierung)
-    - [Lässiges Berlinerisch](#lässiges-berlinerisch)
+    - [ə ≡ a](#ə--a)
+    - [Monophthonge](#monophthonge)
+      - [ai ≡ ee](#ai--ee)
+      - [i](#i)
+      - [au ≡ oo](#au--oo)
+      - [u](#u)
     - [Vokabular](#vokabular-1)
+    - [Grammatik](#grammatik-2)
   - [Nützliche Links](#nützliche-links)
 
-Es handelt sich bei dieser Unterteilung um eine sehr meinungsstarke Darstellung (vgl. [Nützliche Links](#nützliche-links) für andere Sichtweisen). Jede dieser Aussprachestufen kann **überdeutlich**, **konservativ** oder **progressiv** verwendet werden.
+Es handelt sich bei dieser Unterteilung um eine sehr meinungsstarke Darstellung (vgl. [Nützliche Links](#nützliche-links) für andere Sichtweisen). Jede dieser Aussprachestufen kann **überdeutlich**, **deutlich** oder **spontan** verwendet werden.
 
 ## Bühnendeutsch
 
@@ -41,15 +48,15 @@ Die Diphthonge *au* und *äu/eu* werden mit nicht-silbischem *o* [o̯] und *ö* 
 | [bao̯x] | *Bauch* |
 | [ˈbɔø̆çə] | *Bäuche* |
 
-Das *r* wird im konservativen Bühnendeutsch als Zungenspitzen-*r* gerollt ([r]) oder "getappt" ([ɾ]). Im progressiven Bühnendeutsch wird es als Zäpfchen-*r* (Vibrant: [ʀ]) gesprochen.
+Das *r* wird im deutlichen Bühnendeutsch als Zungenspitzen-*r* gerollt ([r]) oder "getappt" ([ɾ]). Im spontanen Bühnendeutsch wird es als Zäpfchen-*r* (Vibrant: [ʀ]) gesprochen.
 
-| konservativ | progressiv | |
+| deutlich | spontan | |
 |-|-|-|
 | [ˈbɛsər] | [ˈbɛsəʀ] | *besser* |
 
 Eine überdeutliche Aussprache dient lediglich der Veranschaulichung der Rechtschreibung eines Wortes.
 
-| überdeutlich | konservativ | |
+| überdeutlich | deutlich | |
 |-|-|-|
 | [ˈhø:hə] | [ˈhø:ə] | *Höhe* |
 | [ˈkø:nɪk] | [ˈkø:nɪç] | *König* |
@@ -62,9 +69,9 @@ Der Diphthong *au* wird mit nicht-silbischem [ʊ̯] gesprochen.
 |-|-|
 | [baʊ̯x] | *Bauch* |
 
-Im konservativen Hochdeutsch wird der Diphthong *äu/eu* mit nicht-silbischem [ʏ̯] gesprochen, im progressiven Hochdeutsch mit [ɪ̯].
+Im deutlichen Hochdeutsch wird der Diphthong *äu/eu* mit nicht-silbischem [ʏ̯] gesprochen, im spontanen Hochdeutsch mit [ɪ̯].
 
-| konservativ | progressiv | |
+| deutlich | spontan | |
 |-|-|-|
 | [ˈbɔʏ̯çə] | [ˈbɔɪ̯çə] | *Bäuche* |
 
@@ -76,7 +83,7 @@ Im Hochdeutschen wird das *r* als Zäpfchen-*r* (Frikativ: [ʁ]) gesprochen, abe
 |-|-|
 | [ro:t] | *rot* |
 
-Im Hochdeutschen fällt der Schwundlaut *e* [ə] in *-el*, *-er*, *-em*, *-en* nach Möglichkeit aus, und die Verbleibunden *-l*, *-r*, *-m*, *-n* werden silbisch ausgesprochen. Das *r* wird dann als Schwund-*a* [ɐ] vokalisiert.
+Im Hochdeutschen fällt der Schwundlaut *e* [ə] in *-el*, *-er*, *-em*, *-en* nach Möglichkeit aus, und die Verbleibunden *-l*, *-r*, *-m*, *-n* werden silbisch ausgesprochen.[^1] [^2] Das *r* wird dann als Schwund-*a* [ɐ] vokalisiert.
 
 | Hochdeutsch | |
 |-|-|
@@ -85,82 +92,24 @@ Im Hochdeutschen fällt der Schwundlaut *e* [ə] in *-el*, *-er*, *-em*, *-en* n
 | [ˈkɔxm̩] | *Cochem* |
 | [ˈre:dn̩] | *reden* |
 
-<!-- Ausnahmen aufzählen, wo der Schwundlaut nicht entfällt. ˈa:təm -->
+Nach Vokal wird *r* als nicht-silbisches Schwund-*a* [ɐ̯] vokalisiert. Dies gilt für lange Vokale sowie für die kurzen Vokale der Vorsilben *er-* [ɛɐ̯], *ver-* [fɛɐ̯], *zer-* [tsɛɐ̯]. Nach kurzen Stammvokalen jedoch wird das *r* nur im spontanen Hochdeutsch vokalisiert.
 
-<!-- ### Nicht-Produktive Endungen
-
-Auch die Endungen *-el* und *-en* werden im Hochdeutschen wie *-er* nach Möglichkeit silbisch gesprochen. Vor Vokal werden sie sogar komplett mit Schwundvokal [ə] ausgesprochen. Um eine Silbe einzusparen, bspw. in Gedichten, kann der Schwundlaut aber komplett ausfallen, d.h. *-el* und *-en* werden als [l] und [n] assimiliert, und *-er* wird als [r] gesprochen. (Die Variante [ˈe:klɪç] *ek'lig* für *ekelig* gilt als standardsprachliche Alternative und wird daher ohne Apostroph *eklig* geschrieben.)
-
-| Hochdeutsch | |
-|-|-|
-| [ˈe:kl̩]   | *Ekel* |
-| [ˈe:kəlɪç] → [ˈe:klɪç] | *ekelig* → *eklig* |
-| | |
-| [ˈɔfn̩]  | *offen* |
-| [ˈɔfənɐ] → [ˈɔfnɐ] | *offener* → *off'ner* |
-| | |
-| [ˈbɛsɐ]  | *besser* |
-| [ˈbɛsərə] → [ˈbɛsrə]  | *bessere* → *bess're* |
-
-Vor *-ig* wird *-er* immer zu [r] assimiliert und ohne Apostroph geschrieben.
-
-| Bühnenhochdeutsch / Hochdeutsch | |
-|-|-|
-| [ˈvɛsrɪç] | *wässrig* | -->
-
-<!-- Ist eklig wie wässrig der Normalfall? -->
-<!-- Dann lieber ein anderes Beispiel für -el + Vokal -->
-
-<!-- In der Umgangssprache wird nach Möglichkeit auch die Endung *-em* silbisch gesprochen ([m̩]).
-
-| Hochdeutsch | Umgangssprache | |
-|-|-|-|
-| [ˈaləm] | [ˈaɫm̩] | *allem* |
-| [alm]   | [aɫm]  | *Alm* | -->
-
-Nach Vokal wird *r* als nicht-silbisches Schwund-*a* [ɐ̯] vokalisiert. Dies gilt für lange Vokale sowie für die kurzen Vokale der Vorsilben *er-* [ɛɐ̯], *ver-* [fɛɐ̯], *zer-* [tsɛɐ̯]. Nach kurzen Stammvokalen jedoch wird das *r* nur im progressiven Hochdeutsch vokalisiert.
-
-| konservativ | progressiv |
+| deutlich | spontan | |
 |-|-|-|
 | [gɛrn] | [gɛɐ̯n] | *gern* |
 
-Im konservativen Hochdeutsch wird kurzes *er*, nicht aber kurzes *är* [ɛɐ̯], wie langes *er* [e:ɐ̯] gesprochen, sodass sich *werter* [ˈve:ɐ̯tɐ] und *Wärter* [ˈvɛrtɐ] nicht reimen.
+Im deutlichen Hochdeutsch wird *erd* und *ert*, nicht aber *ärd* und *ärt*, mit langem *er* [e:ɐ̯] gesprochen, sodass sich *werter* [ˈve:ɐ̯tɐ] und *Wärter* [ˈvɛrtɐ] nicht reimen.[^3]
 
-| konservativ | progressiv |
+| deutlich | spontan | |
 |-|-|-|
 | [ˈve:ɐ̯tɐ] | [ˈvɛɐ̯tɐ] | *werter* |
 | [ˈvɛrtɐ] | [ˈvɛɐ̯tɐ] | *Wärter* |
 
-Im progressiven Hochdeutsch fällt das nicht-silbische Schwund-*a* [ɐ̯] nach *a* aus, sodass *dar* (konservativ: [ˈda:ɐ̯]) wie *da* [da:] klingt.
+Im spontanen Hochdeutsch fällt das nicht-silbische Schwund-*a* [ɐ̯] nach *a* aus, sodass *dar* (deutlich: [ˈda:ɐ̯]) wie *da* [da:] klingt.
 
-| konservativ | progressiv | |
+| deutlich | spontan | |
 |-|-|-|
 | [ˈda:ɐ̯] | [da:] | *dar* |
-
-<!-- ### Verben
-
-Silbisches *-en* wird vom Verbstamm nach Möglichkeit assimiliert. Es heißt also nicht *zeich-n-en* [ˈtsaiçn̩ən], sondern *zeich-nen* [ˈtsaiçnən].
-
-| Hochdeutsch | |
-|-|-|
-| [ˈtsaiçn̩]  | *Zeichen* |
-| [ˈtsaiçnɐ] | *Zeichner* |
-| | |
-| [ˈœfn̩tlɪç] | *öffentlich* |
-| [ˈœfnɐ]    | *Öffner* |
-
-Bei Verben mit nicht-produktivem *-en* ist der Schwundlaut der Verbendungen *-e*, *-est*, *-et*, *-en*, *-et*, *-en* nicht ausgefallen. Die Verbendungen für den Indikativ ähneln daher denen des Konjunktiv I. Allgemein wird oft die Konjunktiv-I-Form an Stelle der Indikativ-Form für die 1. Person Singular verwendet (*ich gehe* statt *ich geh*). Verben mit nicht-produktivem *-el* assimlieren das *l* in der 1. Person Einzahl, die dann auf *-e* endet und daher dann so aussieht wie im Konjunktiv I. Die restlichen Verbendungen *-st*, *-t*, *-n*, *-t*, *-n* werden auch für den Konjunktiv I verwendet.
-
-| Hochdeutsch | |
-|-|-|
-| [ˈtsaiçnə]   | *zeichne*   |
-| [ˈtsaiçnəst] | *zeichnest* |
-| | |
-| [ˈvɛkslə]    | *wechsle*   |
-| [ˈvɛksl̩st]   | *wechselst*  |
-| | |
-| [ˈtsɪtərə]   | *zittere*   |
-| [ˈtsɪtɐst]   | *zitterst*  | -->
 
 ## Umgangssprache
 
@@ -182,15 +131,15 @@ In der Umgangssprache wird [a] wie [ɐ] gesprochen, so dass *Lader* wie *Lada* a
 
 ### Lange Vokale
 
-In der progressiven Umgangssprache wird *-en* nach langem Vokal assimiliert.
+In der spontanen Umgangssprache wird *-en* nach langem Vokal assimiliert.
 
-| konservativ | progressiv | |
+| deutlich | spontan | |
 |-|-|-|
 | [ˈz:ən̩] | [ze:n] | *Seen* |
 
-In der progressiven Umgangssprache werden lange Vokale (außer [a:]) vor Vokal diphthongisiert, d.h. sie werden mit nicht-silbischem [ɪ̯] bzw. [ʊ̯] gesprochen.
+In der spontanen Umgangssprache werden lange Vokale (außer [a:]) vor Vokal diphthongisiert, d.h. sie werden mit nicht-silbischem [ɪ̯] bzw. [ʊ̯] gesprochen.
 
-| konservativ | progressiv | |
+| deutlich | spontan | |
 |-|-|-|
 | [ˈna:ə] | [ˈna:ə] | *nahe* |
 | | | |
@@ -229,11 +178,11 @@ Durch die Vokalisierung bzw. silbische Sprechung von *l* als [ɫ] bzw. [l̩] fä
 
 In der Umgangssprache wird ein kurzer Vokal vor *r* gelängt, ohne die Vokalqualität zu verändern, sodass *fort* wie englisches *fought* [fɔ:t] ausgesprochen wird.
 
-| Hochdeutsch (progressiv) | Umgangssprache | |
+| Hochdeutsch (spontan) | Umgangssprache | |
 |-|-|-|
 | [ˈvaɐ̯tn̩] | [ˈva:tn̩] | *warten* |
 | | | |
-| [ˈvœɐ̯tɐ] | [ˈvœ:tɐ] | *Wörter* |
+| [ˈvœɐ̯tɐ] | [ˈvœ:ta] | *Wörter* |
 | [ˈvɔɐ̯tə] | [ˈvɔ:tə] | *Worte* |
 | | | |
 | [vɪɐ̯t] | [vɪ:t] | *wird* |
@@ -242,7 +191,7 @@ In der Umgangssprache wird ein kurzer Vokal vor *r* gelängt, ohne die Vokalqual
 
 Lange Vokale werden vor *r* gekürzt, wobei [e:], [o:] und [ø:] zu [ɛ], [ɔ] und [œ] werden.
 
-| Hochdeutsch (progressiv) | Umgangssprache | |
+| Hochdeutsch (spontan) | Umgangssprache | |
 |-|-|-|
 | [ve:ɐ̯] | [vɛa̯] | *wer* |
 | [vɛ:ɐ̯] | [vɛa̯] | *wär'* |
@@ -253,20 +202,26 @@ Lange Vokale werden vor *r* gekürzt, wobei [e:], [o:] und [ø:] zu [ɛ], [ɔ] u
 | [ty:ɐ̯] | [tya̯] | *Tür* |
 | [tu:ɐ̯] | [tua̯] | *Tour* |
 
-Kurzes *ä/e* vor *r* verhält sich wie langes *ä/e* [e:], das zu [ɛ] gekürzt wird. Somit klingen umgangssprachliche *werter*/*Wärter* [ˈvɛa̯ta] genau wie im progressiven Hochdeutsch.
+Kurzes *ä/e* vor *r* verhält sich wie langes *ä/e* [e:], das zu [ɛ] gekürzt wird. Somit klingen umgangssprachliche *werter*/*Wärter* [ˈvɛa̯ta] genau wie im spontanen Hochdeutsch.
 
-| Hochdeutsch (progressiv) | Umgangssprache | |
+| Hochdeutsch (spontan) | Umgangssprache | |
 |-|-|-|
 | [ˈvɛɐ̯tɐ] | [ˈvɛa̯ta] | *werter* |
 | [ˈvɛɐ̯tɐ] | [ˈvɛa̯ta] | *Wärter* |
 
-Sowohl kurzes *a* [a] wie auch zu kurzem *a* [a] gekürztes langes *a* [a:] verschmelzen mit nicht-silbischem [a̯] zu langem [a:]. Somit klingt umgangssprachliches *wahr* [va:] wie progressiven Hochdeutsch, dessen [a] jedoch offener und heller ist.
+Der Schwundlaut in *-em* und *-en* fällt nach Auslaut-*r* aus.[^4]
 
-| Hochdeutsch (progressiv) | Umgangssprache | |
+| Hochdeutsch | Umgangssprache | |
+|-|-|-|
+| [ˈhø:rən] | [ˈhœa̯n] | *hören* |
+
+Sowohl kurzes *a* [a] wie auch zu kurzem *a* [a] gekürztes langes *a* [a:] verschmelzen mit nicht-silbischem [a̯] zu langem [a:]. Somit klingt umgangssprachliches *wahr* [va:] wie spontanen Hochdeutsch, dessen [a] jedoch offener und heller ist.
+
+| Hochdeutsch (spontan) | Umgangssprache | |
 |-|-|-|
 | [va:] | [va:] | *wahr* |
 
-Die Vorsilben *er-*, *ver-* und *zer-* werden in der Umgangssprache wie die Nachsilbe *-er* mit [a] ausgesprochen. <!-- evtl. progressiv -->
+Die Vorsilben *er-*, *ver-* und *zer-* werden in der Umgangssprache wie die Nachsilbe *-er* mit [a] ausgesprochen.
 
 | Hochdeutsch | Umgangssprache | |
 |-|-|-|
@@ -274,55 +229,56 @@ Die Vorsilben *er-*, *ver-* und *zer-* werden in der Umgangssprache wie die Nach
 | [fɛɐ̯]  | [fa]  | *ver-* |
 | [tsɛɐ̯] | [tsa] | *zer-* |
 
-<!-- ### Konjunktiv I
+### Grammatik
 
-Im Konjunktiv I fällt der Schwundlaut nicht aus. In der Umgangssprache wird dieser jedoch praktisch nicht verwendet.
+In der spontanen Umgangssprache wird an Stelle des Imperativs der Konjunktiv I verwendet.
 
-| Hochdeutsch | Umgangssprache | |
+| deutlich | spontan | |
 |-|-|-|
-| [ˈhø:rən] | [ˈhø:rən] | *(dass wir) hören* → *(dass wir) hören würden* |
-| [ˈhø:rən] | [ˈhœa̯n]   | *(wir) hören* |
-
-In der Umgangssprache kann an Stelle des Imperativs der Konjunktiv I der 1./3. Person Einzahl verwendet werden.
-
-| Hochdeutsch | Umgangssprache |
-|-|-|
-| *Hilf!* | *Helfe!* |
-| *Hör!* | *Höre!* | -->
+| [hɪɫf] | [hɛɫfə]   | *hilf!* → *helfe!* |
 
 ## Mundart
 
-In der Mundart wird silbisch gesprochenes [n̩] angeglichen. In der progressiven Mundart fällt der vorhergehende stimmhafte Plosivlaut aus und das angeglichene [n̩] kann assimiliert werden.
+In der Mundart wird silbisch gesprochenes [n̩] angeglichen. In der spontanen Mundart fällt der vorhergehende stimmhafte Plosivlaut aus und das angeglichene [n̩] kann assimiliert werden.
 
-| konservativ | progressiv | |
-| | | |
+| deutlich | spontan | |
+|-|-|-|
 | [ˈha:bm̩] | [ˈha:m̩] → [ha:m] | *haben* |
 | [ˈre:dn̩] | [ˈre:n̩] → [re:n] | *reden* |
 | [ˈza:gŋ̩] | [ˈza:ŋ̩] → [za:ŋ] | *sagen* |
 
-In der Mundart fällt der Schwundlaut zwischen Nasalen aus, sodass *-en* als silbisches [n̩] gesprochen wird. In der progressiven Mundart wird das silbisch gesprochene [n̩] angeglichen und der vorhergehende Nasal fällt nach langem Vokal aus. Zusätzlich kann das angeglichene [n̩] assimiliert werden.
+In der Mundart fällt der Schwundlaut zwischen Nasalen aus, sodass *-en* als silbisches [n̩] gesprochen wird. In der spontanen Mundart wird das silbisch gesprochene [n̩] angeglichen und der vorhergehende Nasal fällt nach langem Vokal aus. Zusätzlich kann das angeglichene [n̩] assimiliert werden.
 
-| konservativ | progressiv | |
+| deutlich | spontan | |
 |-|-|-|
 | [ˈne:mn̩] | [ˈne:m̩] → [ne:m] | *nehmen* |
 | [ˈfɪndn̩] | [ˈfɪnn̩] → [fɪn] | *finden* |
 | [ˈfaŋn̩]  | [ˈfaŋŋ̩] → [faŋ] | *fangen* |
 
+In der Mundart fällt der Schwundlaut [ə] in *-el* und *-er* aus, auch wenn ein weiterer Vokal folgt.
+
+| Umgangssprache | Mundart | |
+|-|-|-|
+| [ˈandərə] | [ˈandrə] | *andere* → *andre* |
+| [ˈaɪ̯tələ] | [ˈaɪ̯tlə] | *eitele* → *eitle* |
+
 ### Vokabular
 
 In der Mundart werden eigene Abkürzungen vorgenommen.
 
-| Hochdeutsch | Umgangssprache | |
+| Umgangssprache | Mundart | |
 |-|-|-|
+| [das]    | [dɪs] | *das* → *dis* |
 | [ɪst]    | [ɪs] | *ist* → *is* |
 | [jɛtst]  | [jɛts] | *jetzt* → *jetz* |
+| [ma:l]   | [ma:] | *mal* → *ma* |
 | [nɪçt]   | [nɪç] | *nicht* → *nich* |
 | | | |
-| [ain]    | [n̩] | *ein* → *'n*   |
-| [ˈainə]  | [nə] | *eine* → *'ne*  |
-| [ˈainɐ]  | [na] | *einer* → *'ner* |
+| [aɪ̯n]    | [n̩] | *ein* → *'n*   |
+| [ˈaɪ̯nə]  | [nə] | *eine* → *'ne*  |
+| [ˈaɪ̯nɐ]  | [na] | *einer* → *'ner* |
 
-| konservativ | progressiv | |
+| deutlich | spontan | |
 |-|-|-|
 | [nən] | [n̩] | *'nen* → *'n* |
 | [nəm] | [m̩] | *'nem* → *'m* |
@@ -331,24 +287,33 @@ In der Mundart werden unbetonte Personalpronomen in ihrer schwachen Form verwend
 
 | Umgangssprache | Mundart | |
 |-|-|-|
-| [hat ɛa] | [ˈhata] | *hat er* → *hat-er* |
+| [hat ɛa̯] | [ˈhata] | *hat er* → *hat-er* |
 | [ɪst zi:] | [ˈɪsə] | *ist sie* → *is-se* |
+
+### Grammatik
+
+In der spontanen Mundart wird an Stelle der einfachen Vergangenheit die abgeschlossene Gegenwart verwendet.
+
+| deutlich | spontan | |
+|-|-|-|
+| [dɪs ˈza:ktə  ɛa̯] | [dɪs ˈhata gəˈza:kt] | *dis sagte er* → *dis hat er gesagt* |
+| [dɪs ˈhatə ɛa̯ gəˈza:kt] | [dɪs ˈhata gəˈza:kt gəˈha:pt] | *dis hatte er gesagt* → *dis hat er gesagt gehabt* |
 
 ## Berlinerisch
 
-### -s ≡ -t
+### s ≡ t
 
-Die Endung *-es* für sächliche Adjektive ist *-et*.
+Die Endung *-es* bzw. der Auslaut *-s* für sächliche Adjektive und Pronomen ist *-et* bzw. *-t*.
 
-| Umgangssprache | Berlinerisch | |
+| Mundart | Berlinerisch | |
 |-|-|-|
-| [ˈbaidəs] | [ˈbaidət] | *beides* → *beidet*  |
-| | | |
+| [ˈdi:zəs] | [ˈdi:zət] | *dieses* → *dieset*  |
 | [dɪs] | [dɪt] | *dis* → *dit* |
+| [ɛs] | [ɛt] | *es* → *et* |
 
 ### g ≡ g/j/ɣ/ç/x
 
-Das berlinerische *g* wird oft als *j* beschrieben. Tatsächlich handelt es sich um ein Phonem, das einem stimmhaften *ch* entspricht. So wie *ch* als [ç] oder [x] realisiert werden kann, kann das berlinerische *g* als [j] oder [ɣ] realisiert werden. (Die hochdeutsche Aussprache der Endung *-ig* als [ɪç] statt [ɪk] lässt sich als Berlinerisch interpretieren.) Am Wortende oder vor stimmlosem Konsonanten wird berlinerisches *g* wie *ch* als [ç] oder [x] realisiert. Am Wortanfang wird *g* vor Vokal als [j], vor Konsonant (in *gn*, *gl* und *gr*) jedoch als [g] gesprochen.
+Das Berlinerische *g* wird als [j] oder [ɣ] realisiert. Am Wortende oder vor stimmlosem Konsonanten wird Berlinerisches *g* wie *ch* als [ç] oder [x] realisiert. Am Wortanfang wird *g* vor Vokal als [j], vor Konsonant (in *gn*, *gl* und *gr*) jedoch als [g] gesprochen.
 
 | Umgangssprache | Berlinerisch | |
 |-|-|-|
@@ -358,13 +323,27 @@ Das berlinerische *g* wird oft als *j* beschrieben. Tatsächlich handelt es sich
 | [ˈfli:gə] | [ˈfli:je] | *Fliege* = *Flieje* |
 | [fli:kt]  | [fli:çt]  | *fliegt* = *fliecht* |
 
-Der Ausfall des Vokals in *-er* und *-ig*, welcher im Hochdeutschen eher der Poesie vorenthalten ist, ist im Berlinerischen der Normalfall.
+Im Berlinerischen fällt das *i* in *-ig* aus, wenn darauf ein weiterer Vokal folgt.
 
-| Umgangssprache | Berlinerisch | |
+| Mundart | Berlinerisch | |
 |-|-|-|
-| [ˈandrə] | [ˈandrə] | *and're* → *andre* |
 | | | |
-| [ˈfɛatgə] | [ˈfɛatjə] | *fert'ge* → *fertge* = *fertje* |
+| [ˈfɛa̯tgə] | [ˈfɛa̯tjə] | *fert'ge* → *fertge* = *fertje* |
+
+Berlinerisches *ag* am Wortende kann gekürzt werden, wenn kein weiterer Vokal folgt.
+
+| Mundart | Berlinerisch | |
+|-|-|-|
+| [za:k] | [zax] | *sag* |
+| [ta:k] | [tax] | *Tag* |
+
+Im Redefluss kann Berlinerisches *g* am Wortende ausfallen.
+
+| Mundart | Berlinerisch | |
+|-|-|-|
+| [nɪç]     | [nɪ]     | *nich* → *ni'* |
+| [ˈrɪçtɪç] | [ˈrɪçtɪ] | *richtig* → *richti'* |
+| [za:k ɪç] | [zaɪ̯k] | *sag ich* → *sa'ik* |
 
 ### ɪ ≡ ʏ
 
@@ -375,99 +354,111 @@ In Längungen und vor manchen Konsonanten wie *sch* [ʃ] wird [ɪ] zu [ʏ].
 | [vɪ:t] | [vʏ:t] | *wird* |
 | [tɪʃ]  | [tʏʃ]  | *Tisch* |
 
-Wie in der lässigen Umgangssprache werden auch im Berlinerischen unbetonte Personalpronomen verwendendet. Da die bestimmten Artikel als Demonstrativpronomen und Personalpronomen verwendet werden, haben auch  *der*, *die* und *das* schwache Formen. Bei der Verbindung von *an*, *in* und *von* wird das *d* assimiliert.
+### ə ≡ a
 
-| Umgangssprache | Berlinerisch | |
-|-|-|-|
-| [an di:] | [ˈanə] | *an die* → *anne* |
-| [ɪn dɛa] | [ˈɪna] | *in der* → *inna* |
-| [fɔn dɛa] | [ˈfɔna] | *von der* → *vonna* |
+An Stelle von [əˈr] und [ɛˈr] wird [ar] gesprochen.
 
-An Stelle von [ər] und [ɛr] wird [ar] gesprochen.
-
-| Umgangssprache | Berlinerisch | |
+| Mundart | Berlinerisch | |
 |-|-|-|
 | [batəˈri:] | [bataˈri:] | *Batterie* |
-| [hɛˈrain] | [haˈrain] | *herein* |
+| [hɛˈrʊm] | [haˈrʊm] | *herum* |
 
-### Monophtongierung
+### Monophthonge
 
-Urgermanisches **ai* und **au* können im Berlinerischen zu *ee* und *oo* geworden sein.
+#### ai ≡ ee
 
-| Umgangssprache | Berlinerisch | |
-|-|-|-|
-| [klain] | [kle:n] | *klein* → *kleen* |
-| [laufn̩] | [lo:fn̩] | *laufen* → *loofen* |
-
-### Lässiges Berlinerisch
-
-In lässigem Berlinerisch fällt *ch* / berlinerisches *g* am Wortende aus.
+Urgermanisches **ai* kann im Berlinerischen durch *ee* widergegeben werden.
 
 | Umgangssprache | Berlinerisch | |
 |-|-|-|
-| [nɪç]     | [nɪ]     | *nich* → *ni'* |
-| [ˈrɪçtɪç] | [ˈrɪçtɪ] | *richtig* → *richti'* |
+| [klaɪ̯n] | [kle:n] | *klein* → *kleen* |
 
-In lässigem Berlinerisch wird schwaches *ick* zu *k* verkürzt.
+Bedeutungsunterscheidend:
 
 | Umgangssprache | Berlinerisch | |
 |-|-|-|
-| [ˈvɛnɪç] | [vɛŋk] | *wenn-ich* → *wenn'k* |
+| [vaɪ̯s] | [ve:s] | *weiß* → *weeß* (wissen) |
+| [vaɪ̯s] | [vaɪ̯s] | *weiß* (Farbe) |
 
-Im lässigen Berlinerisch kann ein Auslaut, der vor silbisch gesprochenen Endungen assimiliert werden kann, vor schwachem Personalpronomen ausfallen.
+Im Falle von *meinen* ("eine Meinung haben") und *meinen* → *meenen* ("den von mir") ist die Etymologie "vertauscht": *meinen* hat ein urgermanisches *ai*, während *meenen* ein urgermanisches *i* hat.
+
+| Umgangssprache | Berlinerisch | |
+|-|-|-|
+| [maɪ̯n] | [me:n] | *mein* → *meen* (von mir) |
+| [maɪ̯n] | [maɪ̯n] | *mein* (habe die Meinung) |
+
+#### i
+
+In wenigen Fällen ist das urgermanische *i* erhalten geblieben.
+
+| Umgangssprache | Berlinerisch | |
+|-|-|-|
+| [raɪ̯n] | [rɪ̯n] | *rein* → *rin* (herein) |
+
+#### au ≡ oo
+
+Urgermanisches **au* kann im Berlinerischen durch *oo* widergegeben werden.
+
+| Umgangssprache | Berlinerisch | |
+|-|-|-|
+| [glaʊ̯bn̩] | [glo:m̩] | *glauben* → *glooben* |
+
+#### u
+
+In wenigen Fällen ist das urgermanische *u* erhalten geblieben.
+
+| Umgangssprache | Berlinerisch | |
+|-|-|-|
+| [ˈʃnaʊ̯tsə] | [ˈʃnu:tə] | *Schnauze* → *Schnute* |
+
+### Vokabular
+
+| Mundart | Berlinerisch | |
+|-|-|-|
+| [aʊ̯f]       | [ʊf]         | *auf* → *uf* |
+| [dan]       | [dɛn]        | *dann* → *denn* |
+| [dɛn]       | [n̩]          | *denn* → *'n* |
+| [ˈkʊkŋ̩]     | [ˈki:kŋ̩]     | *gucken* → *kieken* |
+| [ɪç]        | [ɪk]         | *ich* → *ick* |
+| [vaɪ̯l]      | [val]        | *weil* → *wall* |
+
+| Mundart | Berlinerisch | |
+|-|-|-|
+| [an di:] | [ˈanə] | *an die* → *anne* |
+| [ɪn dɛa̯] | [ˈɪna] | *in der* → *inna* |
+| [fɔn dɛa̯] | [ˈfɔna] | *von der* → *vonna* |
+
+Im Redefluss kann ein Auslaut vor schwachem Personalpronomen ausfallen.
 
 | Umgangssprache | Berlinerisch | |
 |-|-|-|
 | [ˈha:bɪç] | [ˈha:bɪk] → [ˈha:ɪk] | *hab-ich* → *ha'ik* |
 
-### Vokabular
+Im Redefluss wird schwaches *ick* zu *k* verkürzt.
 
 | Umgangssprache | Berlinerisch | |
 |-|-|-|
-| [auf]       | [ʊf]         | *auf* → *uf* |
-| [dan]       | [dɛn]        | *dann* → *denn* |
-| [dɛn]       | [n̩]          | *denn* → *'n* |
-| [ˈkʊkn̩]     | [ˈki:kŋ̩]     | *gucken* → *kieken* |
-| [ɪç]        | [ɪk]         | *ich* → *ick* |
-| [ta:k]      | [tax]        | *Tag* |
-| [vail]      | [val]        | *weil* → *wall* |
+| [ˈvɛnɪç] | [ˈvɛnɪk] → [vɛŋk] | *wenn-ich* → *wenn'k* |
 
+### Grammatik
 
------
+Im Redefluss können für die schwachen Personalpronomen die Dativ-Formen an Stelle der Akkusativ-Formen verwendet werden.
 
-<!-- XSampa to IPA -->
-<!-- a: = ā; unbetonte lange vokale werden gekürzt -->
-<!-- ā ɛ̄ ē ī ɔ̄ ō œ̄ ø̄ ʊ̄ ū ʏ̄ ȳ -->
-<!-- á ɛ́ é í ó ǿ ú ý ɔ́ œ́ ʊ́ ʏ́ -->
-<!-- ma' -->
-<!-- In der Standardumgangssprache würde ich noch kein "is" und "nich" erwarten. -->
+| Umgangssprache | Berlinerisch | |
+|-|-|-|
+| [faˈtsi: dɪç] | [faˈfatsdɪ] → [faˈfatsda] | *verzieh dich* → *verfatz-da* |
 
 ## Nützliche Links
 
 * [Bühnendeutsch, Theodor Siebs (1898)](https://archive.org/details/deutschebhnena00siebrich)
 * [Duden, das Aussprachewörterbuch (2023)](https://www.google.de/books/edition/Duden_Das_Aussprachew%C3%B6rterbuch/ByrmEAAAQBAJ)
 * [Deutsch mit Benjamin (YouTube-Kanal)](https://www.youtube.com/@DeutschMitBenjamin)
+* [Beispiele](de-ekzemploj.md)
 
-<!-- , *her-* [hɛɐ̯] -->
+[^1] Der Schwundlaut in *-el* und *-er* fällt vor weiterem Vokal nicht aus: *eitelen* [ˈaɪ̯tələn], *anderen* [ˈandərən] (standardsprachlich ist aber auch *andern* [ˈandərn]), außer vor *-ig*: *eklig* [ˈe:klɪç], *wässrig* [ˈvεsrɪç]. Die Verbendung *-en* wird nach *-el* und *-er* zu *-n*: *wechseln* [ˈvεksl̩n], *ändern* [ˈεndɐn].
 
-<!-- Die Wörter *erst* und *Erz* werden mit langem *er* gesprochen, da sie von *eh* [e:] abgeleitet sind.
+[^2] Der Schwundlaut in *-em* und *-en* fällt nach *l*, *r* und Vokal nicht aus: *fühlen* [ˈfy:lən], *spüren* [ˈʃpy:rən], *sehen* [ˈze:ən]. Der Schwundlaut in *-em* fällt auch nach *t* nicht aus: *Atem* [ˈa:təm]. Silbisches *-n* [n̩] wird vor Vokal an den Verbstamm assimiliert: *zeichnen* [ˈtsaiçnən].
 
-| | |
-| [ˈe:ɐ̯st] | *erst* |
- -->
+[^3]: Die Wörter *erst* und *Erz* werden mit langem *er* gesprochen, da sie von *eh* [e:] abgeleitet sind. Beispielsweise werden *bersten* und *Herz* wieder mit "normalem" [ɛ] gesprochen.
 
-<!-- Die Endungen *-er* und *-en* verschmelzen zu *-ern*, außer bei Adjektiven auf *-er*. (Eine Ausnahme ist das Adjektiv *ander*, welches neben dem unverschmolzenen *anderen* auch die Form *andern* kennt. Ebenso ist *Eltern* eine veraltete Form von *älteren*.)
-
-| Hochdeutsch | |
-|-|-|
-| [ˈbɛsɐn]   | *bessern* |
-| [ˈaizɐn]   | *eisern* |
-| | |
-| [ˈvaitərə] | *weitere* |
- -->
-
-<!--
-mɪsi̯o:n
--->
-
-<!-- | [hɛɐ̯]  | [ha]  | *her-* | -->
+[^4] Der Schwundlaut der Verbendungen des Konjunktiv I fallen nicht aus: *(dass wir) hören* [ˈhø:rən]. Der Konjunktiv I wird jedoch - abgesehen von einigen Floskeln und *hätte*, *wäre* und *würde* - praktisch nur im Hochdeutschen verwendet, bzw. in deutlicher Umgangssprache.
