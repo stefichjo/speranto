@@ -105,7 +105,7 @@ Im deutlichen Hochdeutsch wird *erd* und *ert*, nicht aber *ärd* und *ärt*, mi
 | [ˈve:ɐ̯tɐ] | [ˈvɛɐ̯tɐ] | *werter* |
 | [ˈvɛrtɐ] | [ˈvɛɐ̯tɐ] | *Wärter* |
 
-Im spontanen Hochdeutsch fällt das nicht-silbische Schwund-*a* [ɐ̯] nach *a* aus, sodass *dar* (deutlich: [ˈda:ɐ̯]) wie *da* [da:] klingt.
+Im spontanen Hochdeutsch fällt das nicht-silbische Schwund-*a* [ɐ̯] nach *a* aus, sodass *dar* (deutlich: [ˈda:ɐ̯]) wie *da* [da:] klingt.[^ersttt]
 
 | deutlich | spontan | |
 |-|-|-|
@@ -464,5 +464,7 @@ Im Redefluss können für die schwachen Personalpronomen die Dativ-Formen an Ste
 <!-- Der Schwundlaut in *-em* fällt auch nach *t* nicht aus: *Atem* [ˈa:təm]. Silbisches *-n* [n̩] wird vor Vokal an den Verbstamm assimiliert: *zeichnen* [ˈtsaiçnən]. -->
 
 [^erst]: Die Wörter *erst* und *Erz* werden mit langem *er* gesprochen, da sie von *eh* [e:] abgeleitet sind. Beispielsweise werden *bersten* und *Herz* wieder mit "normalem" [ɛ] gesprochen.
+
+[^ersttt]: Die Wörter *erst* und *Erz* werden mit langem *er* gesprochen, da sie von *eh* [e:] abgeleitet sind. Beispielsweise werden *bersten* und *Herz* wieder mit "normalem" [ɛ] gesprochen.
 
 [^4] Der Schwundlaut der Verbendungen des Konjunktiv I fallen nicht aus: *(dass wir) hören* [ˈhø:rən]. Der Konjunktiv I wird jedoch - abgesehen von einigen Floskeln und *hätte*, *wäre* und *würde* - praktisch nur im Hochdeutschen verwendet, bzw. in deutlicher Umgangssprache.
