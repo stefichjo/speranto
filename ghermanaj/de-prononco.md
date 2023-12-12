@@ -2,34 +2,6 @@
 
 Um die Aussprache des Deutschen greifbarer zu machen, werden im Folgenden fünf Register skizziert: Bühnendeutsch, Hochdeutsch, Umgangssprache, Mundart und Berlinerisch.
 
-- [Aussprache](#aussprache)
-  - [Bühnendeutsch](#bühnendeutsch)
-  - [Hochdeutsch](#hochdeutsch)
-    - [r ≡ ʁ/ɐ](#r--ʁɐ)
-  - [Umgangssprache](#umgangssprache)
-    - [ä ≡ e](#ä--e)
-    - [a ≡ ɐ](#a--ɐ)
-    - [Lange Vokale](#lange-vokale)
-    - [-l](#-l)
-    - [-r](#-r)
-    - [Grammatik](#grammatik)
-  - [Mundart](#mundart)
-    - [Vokabular](#vokabular)
-    - [Grammatik](#grammatik-1)
-  - [Berlinerisch](#berlinerisch)
-    - [s ≡ t](#s--t)
-    - [g ≡ g/j/ɣ/ç/x](#g--gjɣçx)
-    - [ɪ ≡ ʏ](#ɪ--ʏ)
-    - [ə ≡ a](#ə--a)
-    - [Monophthonge](#monophthonge)
-      - [ai ≡ ee](#ai--ee)
-      - [i](#i)
-      - [au ≡ oo](#au--oo)
-      - [u](#u)
-    - [Vokabular](#vokabular-1)
-    - [Grammatik](#grammatik-2)
-  - [Nützliche Links](#nützliche-links)
-
 Es handelt sich bei dieser Unterteilung um eine sehr meinungsstarke Darstellung (vgl. [Nützliche Links](#nützliche-links) für andere Sichtweisen). Jede dieser Ausspracheregister kann **überdeutlich**, **deutlich** oder **spontan** verwendet werden.
 
 ## Bühnendeutsch
