@@ -209,7 +209,7 @@ Kurzes *ä/e* vor *r* verhält sich wie langes *ä/e* [e:], das zu [ɛ] gekürzt
 | [ˈvɛɐ̯tɐ] | [ˈvɛa̯ta] | *werter* |
 | [ˈvɛɐ̯tɐ] | [ˈvɛa̯ta] | *Wärter* |
 
-Der Schwundlaut in *-em* und *-en* fällt nach Auslaut-*r* aus.[^4]
+Der Schwundlaut in *-em* und *-en* fällt nach Auslaut-*r* aus.[^konjunktiv]
 
 | Hochdeutsch | Umgangssprache | |
 |-|-|-|
@@ -455,7 +455,7 @@ Im Redefluss können für die schwachen Personalpronomen die Dativ-Formen an Ste
 * [Deutsch mit Benjamin (YouTube-Kanal)](https://www.youtube.com/@DeutschMitBenjamin)
 * [Beispiele](de-ekzemploj.md)
 
-[^el-er]: Der Schwundlaut in *-el* und *-er* fällt vor weiterem Vokal nicht aus: *eitelen* [ˈaɪ̯tələn], *anderen* [ˈandərən] (standardsprachlich ist aber auch *andern* [ˈandərn]), außer vor *-ig*: *eklig* [ˈe:klɪç], *wässrig* [ˈvεsrɪç]. Die Verbendung *-en* wird nach *-el* und *-er* zu *-n*: *wechseln* [ˈvεksl̩n], *ändern* [ˈεndɐn].
+[^el-er]: Der Schwundlaut in *-el* und *-er* fällt vor weiterem Vokal nicht aus: *eitelen* [ˈaɪ̯tələn], *anderen* [ˈandərən] (standardsprachlich ist aber auch *andern* [ˈandərn] möglich), außer vor *-ig*: *eklig* [ˈe:klɪç], *wässrig* [ˈvεsrɪç]. Die Verbendung *-en* wird nach *-el* und *-er* zu *-n*: *wechseln* [ˈvεksl̩n], *ändern* [ˈεndɐn].
 
 [^em-en]: Der Schwundlaut in *-em* und *-en* fällt nach *l*, *r* und Vokal nicht aus: *fühlen* [ˈfy:lən], *spüren* [ˈʃpy:rən], *sehen* [ˈze:ən].
 
@@ -463,4 +463,4 @@ Im Redefluss können für die schwachen Personalpronomen die Dativ-Formen an Ste
 
 [^erst]: Die Wörter *erst* und *Erz* werden mit langem *er* gesprochen, da sie von *eh* [e:] abgeleitet sind. Beispielsweise werden *bersten* und *Herz* wieder mit "normalem" [ɛ] gesprochen.
 
-[^4] Der Schwundlaut der Verbendungen des Konjunktiv I fallen nicht aus: *(dass wir) hören* [ˈhø:rən]. Der Konjunktiv I wird jedoch - abgesehen von einigen Floskeln und *hätte*, *wäre* und *würde* - praktisch nur im Hochdeutschen verwendet, bzw. in deutlicher Umgangssprache.
+[^konjunktiv] Der Schwundlaut der Verbendungen des Konjunktiv I fallen nicht aus: *(dass wir) hören* [ˈhø:rən]. Der Konjunktiv I wird jedoch - abgesehen von einigen Floskeln und *hätte*, *wäre* und *würde* - praktisch nur im Hochdeutschen verwendet, bzw. in deutlicher Umgangssprache.
