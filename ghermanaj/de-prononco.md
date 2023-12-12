@@ -98,7 +98,7 @@ Nach Vokal wird *r* als nicht-silbisches Schwund-*a* [ɐ̯] vokalisiert. Dies gi
 |-|-|-|
 | [gɛrn] | [gɛɐ̯n] | *gern* |
 
-Im deutlichen Hochdeutsch wird *erd* und *ert*, nicht aber *ärd* und *ärt*, mit langem *er* [e:ɐ̯] gesprochen, sodass sich *werter* [ˈve:ɐ̯tɐ] und *Wärter* [ˈvɛrtɐ] nicht reimen.[^3]
+Im deutlichen Hochdeutsch wird *erd* und *ert*, nicht aber *ärd* und *ärt*, mit langem *er* [e:ɐ̯] gesprochen, sodass sich *werter* [ˈve:ɐ̯tɐ] und *Wärter* [ˈvɛrtɐ] nicht reimen.[^erst]
 
 | deutlich | spontan | |
 |-|-|-|
@@ -459,6 +459,6 @@ Im Redefluss können für die schwachen Personalpronomen die Dativ-Formen an Ste
 
 [^2] Der Schwundlaut in *-em* und *-en* fällt nach *l*, *r* und Vokal nicht aus: *fühlen* [ˈfy:lən], *spüren* [ˈʃpy:rən], *sehen* [ˈze:ən]. Der Schwundlaut in *-em* fällt auch nach *t* nicht aus: *Atem* [ˈa:təm]. Silbisches *-n* [n̩] wird vor Vokal an den Verbstamm assimiliert: *zeichnen* [ˈtsaiçnən].
 
-[^3]: Die Wörter *erst* und *Erz* werden mit langem *er* gesprochen, da sie von *eh* [e:] abgeleitet sind. Beispielsweise werden *bersten* und *Herz* wieder mit "normalem" [ɛ] gesprochen.
+[^erst]: Die Wörter *erst* und *Erz* werden mit langem *er* gesprochen, da sie von *eh* [e:] abgeleitet sind. Beispielsweise werden *bersten* und *Herz* wieder mit "normalem" [ɛ] gesprochen.
 
 [^4] Der Schwundlaut der Verbendungen des Konjunktiv I fallen nicht aus: *(dass wir) hören* [ˈhø:rən]. Der Konjunktiv I wird jedoch - abgesehen von einigen Floskeln und *hätte*, *wäre* und *würde* - praktisch nur im Hochdeutschen verwendet, bzw. in deutlicher Umgangssprache.
