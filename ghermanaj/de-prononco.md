@@ -1,6 +1,6 @@
 # Aussprache
 
-Um die Aussprache des Deutschen greifbarer zu machen, werden im Folgenden vier Stufen skizziert:
+Um die Aussprache des Deutschen greifbarer zu machen, werden im Folgenden fünf Register skizziert:
 
 - [Aussprache](#aussprache)
   - [Bühnendeutsch](#bühnendeutsch)
@@ -30,7 +30,7 @@ Um die Aussprache des Deutschen greifbarer zu machen, werden im Folgenden vier S
     - [Grammatik](#grammatik-2)
   - [Nützliche Links](#nützliche-links)
 
-Es handelt sich bei dieser Unterteilung um eine sehr meinungsstarke Darstellung (vgl. [Nützliche Links](#nützliche-links) für andere Sichtweisen). Jede dieser Aussprachestufen kann **überdeutlich**, **deutlich** oder **spontan** verwendet werden.
+Es handelt sich bei dieser Unterteilung um eine sehr meinungsstarke Darstellung (vgl. [Nützliche Links](#nützliche-links) für andere Sichtweisen). Jede dieser Ausspracheregister kann **überdeutlich**, **deutlich** oder **spontan** verwendet werden.
 
 ## Bühnendeutsch
 
@@ -48,7 +48,7 @@ Die Diphthonge *au* und *äu/eu* werden mit nicht-silbischem *o* [o̯] und *ö* 
 | [bao̯x] | *Bauch* |
 | [ˈbɔø̆çə] | *Bäuche* |
 
-Das *r* wird im deutlichen Bühnendeutsch als Zungenspitzen-*r* gerollt ([r]) oder "getappt" ([ɾ]). Im spontanen Bühnendeutsch wird es als Zäpfchen-*r* (Vibrant: [ʀ]) gesprochen.
+Das *r* wird im deutlichen Bühnendeutsch als Zungenspitzen-*r* gerollt ([r]) oder "getappt" ([ɾ]). Im modernen Bühnendeutsch (quasi die "spontane" Form) wird es als Zäpfchen-*r* (Vibrant: [ʀ]) gesprochen.
 
 | deutlich | spontan | |
 |-|-|-|
