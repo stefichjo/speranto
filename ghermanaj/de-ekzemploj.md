@@ -14,32 +14,32 @@ Faust:
 vī nεnstəda?
 
 Mephistopheles:  
-dī frāɣə ʃaintma klēn
-fya ē-n, dεa dɪt vɔ̄t zō sεa fa-axtət,
-dεa, vait εntfεant fɔn aɫ-m ʃain,
+dī frāɣə ʃaintma klēn  
+fya ē-n, dεa dɪt vɔ̄t zō sεa fa-axtət,  
+dεa, vait εntfεant fɔn aɫ-m ʃain,  
 nua ɪna vēz-n tīfə traxtət.
 
 Faust:  
-bai ɔiç, ia hεan, ka-man dɪt vēz-n
-jəvønlɪç aus-m nā-m lēz-n,
-vō-ət zɪç aɫtsu dɔitɪç vaist,
-vε-man ɔiç flī-ŋjɔt, fadεaba, lȳŋna haist.
+bai ɔiç, ia hεan, ka-man dɪt vēz-n  
+jəvønlɪç aus-m nā-m lēz-n,  
+vō-ət zɪç aɫtsu dɔitɪç vaist,  
+vε-man ɔiç flī-ŋjɔt, fadεaba, lȳŋna haist.  
 nūn jūt, vεa bɪstə -n?
 
 Mephistopheles:  
--n tail fɔn jēna kraft,
+-n tail fɔn jēna kraft,  
 dī stēts dɪt bø̄zə vɪɫ ʊnt stēts dɪt jūtə ʃaft.
 
 Faust:  
 vat ɪs mɪt dīz-m rēts-lvɔ̄t jəmaint?
 
 Mephistopheles:  
-ɪk bɪn dεa jaist, dεa stēts fanaint!
-ʊnt dɪt mɪt rεçt; dεn alət, vat εntstēt,
-ɪs vεat, dasεt tsu grʊndə jēt;
-drʊm bεsa vεat, das nɪks εntʃtʏndε.
-zō ɪs dεn alət, vata sʏndə,
-tsaʃtø̄rʊŋ, kʊ̄ts, dɪt bø̄zə nεnt,
+ɪk bɪn dεa jaist, dεa stēts fanaint!  
+ʊnt dɪt mɪt rεçt; dεn alət, vat εntstēt,  
+ɪs vεat, dasεt tsu grʊndə jēt;  
+drʊm bεsa vεat, das nɪks εntʃtʏndε.  
+zō ɪs dεn alət, vata sʏndə,  
+tsaʃtø̄rʊŋ, kʊ̄ts, dɪt bø̄zə nεnt,  
 main ai-ŋtlɪçət eləmεnt.
 
 <!-- āɛ̄ēīɔ̄ōœ̄ø̄ʊ̄ūʏ̄ȳ -->
