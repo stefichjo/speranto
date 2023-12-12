@@ -1,6 +1,6 @@
 # Aussprache
 
-Um die Aussprache des Deutschen greifbarer zu machen, werden im Folgenden fünf Register skizziert:
+Um die Aussprache des Deutschen greifbarer zu machen, werden im Folgenden fünf Register skizziert: Bühnendeutsch, Hochdeutsch, Umgangssprache, Mundart und Berlinerisch.
 
 - [Aussprache](#aussprache)
   - [Bühnendeutsch](#bühnendeutsch)
@@ -83,7 +83,7 @@ Im Hochdeutschen wird das *r* als Zäpfchen-*r* (Frikativ: [ʁ]) gesprochen, abe
 |-|-|
 | [ro:t] | *rot* |
 
-Im Hochdeutschen fällt der Schwundlaut *e* [ə] in *-el*, *-er*, *-em*, *-en* nach Möglichkeit aus, und die Verbleibunden *-l*, *-r*, *-m*, *-n* werden silbisch ausgesprochen.[^1] [^2] Das *r* wird dann als Schwund-*a* [ɐ] vokalisiert.
+Im Hochdeutschen fällt der Schwundlaut *e* [ə] in *-el*, *-er*, *-em*, *-en* nach Möglichkeit aus, und die Verbleibunden *-l*, *-r*, *-m*, *-n* werden silbisch ausgesprochen. Das *r* wird dann als Schwund-*a* [ɐ] vokalisiert.[^1] [^2]
 
 | Hochdeutsch | |
 |-|-|
