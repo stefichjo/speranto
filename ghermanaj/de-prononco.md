@@ -465,6 +465,6 @@ Im Redefluss können für die schwachen Personalpronomen die Dativ-Formen an Ste
 
 [^erst]: Die Wörter *erst* und *Erz* werden mit langem *er* gesprochen, da sie von *eh* [e:] abgeleitet sind. Beispielsweise werden *bersten* und *Herz* wieder mit "normalem" [ɛ] gesprochen.
 
-[^ersttt]: Hello World! Die Wörter *erst* und *Erz* werden mit langem *er* gesprochen, da sie von *eh* [e:] abgeleitet sind. Beispielsweise werden *bersten* und *Herz* wieder mit "normalem" [ɛ] gesprochen.
+[^ersttt]: Test. Hello World! Die Wörter *erst* und *Erz* werden mit langem *er* gesprochen, da sie von *eh* [e:] abgeleitet sind. Beispielsweise werden *bersten* und *Herz* wieder mit "normalem" [ɛ] gesprochen.
 
 [^4] Der Schwundlaut der Verbendungen des Konjunktiv I fallen nicht aus: *(dass wir) hören* [ˈhø:rən]. Der Konjunktiv I wird jedoch - abgesehen von einigen Floskeln und *hätte*, *wäre* und *würde* - praktisch nur im Hochdeutschen verwendet, bzw. in deutlicher Umgangssprache.
