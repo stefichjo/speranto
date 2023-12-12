@@ -3,35 +3,35 @@
 ## Faust - Studierzimmer (Berlinerisch)
 
 Faust:  
-das aɫzo wā dɛs pūd-ls kɛan!  
-ain fā-nda skolast? dɛa kāzʊs maxt mɪç lax-ŋ.
+das aɫzo wā dɛs pūdl̩s kɛan!  
+ain fān̩da skolast? dɛa kāzʊs maxt mɪç laxŋ̩.
 
 Mephistopheles:  
-ɪç zalutia dεn gəlεat-n hεan!  
-ia hapt mɪç vaitlɪç ʃvɪts-n max-ŋ.
+ɪç zalutia dεn gəlεatn̩ hεan!  
+ia hapt mɪç vaitlɪç ʃvɪtsn̩ maxŋ̩.
 
 Faust:  
 vī nεnstəda?
 
 Mephistopheles:  
 dī frāɣə ʃaintma klēn  
-fya ē-n, dεa dɪt vɔ̄t zō sεa fa-axtət,  
-dεa, vait εntfεant fɔn aɫ-m ʃain,  
-nua ɪna vēz-n tīfə traxtət.
+fya ēn̩, dεa dɪt vɔ̄t zō sεa faaxtət,  
+dεa, vait εntfεant fɔn aɫm̩ ʃain,  
+nua ɪna vēzn̩ tīfə traxtət.
 
 Faust:  
-bai ɔiç, ia hεan, ka-man dɪt vēz-n  
-jəvønlɪç aus-m nā-m lēz-n,  
-vō-ət zɪç aɫtsu dɔitɪç vaist,  
-vε-man ɔiç flī-ŋjɔt, fadεaba, lȳŋna haist.  
-nūn jūt, vεa bɪstə -n?
+bai ɔiç, ia hεan, kam̩an dɪt vēzn̩  
+jəvønlɪç ausm̩ nām̩ lēzn̩,  
+vōət zɪç aɫtsu dɔitɪç vaist,  
+vεm̩an ɔiç flīŋ̩jɔt, fadεaba, lȳŋna haist.  
+nūn jūt, vεa bɪstə n̩?
 
 Mephistopheles:  
--n tail fɔn jēna kraft,  
+n̩ tail fɔn jēna kraft,  
 dī stēts dɪt bø̄zə vɪɫ ʊnt stēts dɪt jūtə ʃaft.
 
 Faust:  
-vat ɪs mɪt dīz-m rēts-lvɔ̄t jəmaint?
+vat ɪs mɪt dīzm̩ rētsl̩vɔ̄t jəmaint?
 
 Mephistopheles:  
 ɪk bɪn dεa jaist, dεa stēts fanaint!  
@@ -40,8 +40,7 @@ Mephistopheles:
 drʊm bεsa vεat, das nɪks εntʃtʏndε.  
 zō ɪs dεn alət, vata sʏndə,  
 tsaʃtø̄rʊŋ, kʊ̄ts, dɪt bø̄zə nεnt,  
-main ai-ŋtlɪçət eləmεnt.
+main aiŋ̩tlɪçət eləmεnt.
 
 <!-- āɛ̄ēīɔ̄ōœ̄ø̄ʊ̄ūʏ̄ȳ -->
 <!-- ɪ̯ʊ̯ m̩n̩ŋ̩ l̩ɫ ɣʃ -->
-<!-- → ιɪņn̩ļl̩łɫ -->

@@ -457,9 +457,7 @@ Im Redefluss können für die schwachen Personalpronomen die Dativ-Formen an Ste
 
 [^el-er]: Der Schwundlaut in *-el* und *-er* fällt vor weiterem Vokal nicht aus: *eitelen* [ˈaɪ̯tələn], *anderen* [ˈandərən] (standardsprachlich ist aber auch *andern* [ˈandərn] möglich), außer vor *-ig*: *eklig* [ˈe:klɪç], *wässrig* [ˈvεsrɪç]. Die Verbendung *-en* wird nach *-el* und *-er* zu *-n*: *wechseln* [ˈvεksl̩n], *ändern* [ˈεndɐn].
 
-[^em-en]: Der Schwundlaut in *-em* und *-en* fällt nach *l*, *r* und Vokal nicht aus: *fühlen* [ˈfy:lən], *spüren* [ˈʃpy:rən], *sehen* [ˈze:ən].
-
-<!-- Der Schwundlaut in *-em* fällt auch nach *t* nicht aus: *Atem* [ˈa:təm]. Silbisches *-n* [n̩] wird vor Vokal an den Verbstamm assimiliert: *zeichnen* [ˈtsaiçnən]. -->
+[^em-en]: Der Schwundlaut in *-em* und *-en* fällt nach *l*, *r* und Vokal nicht aus: *fühlen* [ˈfy:lən], *spüren* [ˈʃpy:rən], *sehen* [ˈze:ən]. Der Schwundlaut in *-em* fällt auch nach *t* nicht aus: *Atem* [ˈa:təm]. Silbisches *-n* [n̩] wird vor Vokal an den Verbstamm assimiliert: *zeichnen* [ˈtsaiçnən].
 
 [^erst]: Die Wörter *erst* und *Erz* werden mit langem *er* gesprochen, da sie von *eh* [e:] abgeleitet sind. Beispielsweise werden *bersten* und *Herz* wieder mit "normalem" [ɛ] gesprochen.
 
