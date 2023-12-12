@@ -10,30 +10,30 @@ Mephistopheles:
 ɪç zalutia dεn gəlεat-n hεan!  
 ia hapt mɪç vaitlɪç ʃvɪts-n max-ŋ.
 
-Faust:
+Faust:  
 vī nεnstəda?
 
-Mephistopheles:
+Mephistopheles:  
 dī frāɣə ʃaintma klēn
 fya ē-n, dεa dɪt vɔ̄t zō sεa fa-axtət,
 dεa, vait εntfεant fɔn aɫ-m ʃain,
 nua ɪna vēz-n tīfə traxtət.
 
-Faust:
+Faust:  
 bai ɔiç, ia hεan, ka-man dɪt vēz-n
 jəvønlɪç aus-m nā-m lēz-n,
 vō-ət zɪç aɫtsu dɔitɪç vaist,
 vε-man ɔiç flī-ŋjɔt, fadεaba, lȳŋna haist.
 nūn jūt, vεa bɪstə -n?
 
-Mephistopheles:
+Mephistopheles:  
 -n tail fɔn jēna kraft,
 dī stēts dɪt bø̄zə vɪɫ ʊnt stēts dɪt jūtə ʃaft.
 
-Faust:
+Faust:  
 vat ɪs mɪt dīz-m rēts-lvɔ̄t jəmaint?
 
-Mephistopheles:
+Mephistopheles:  
 ɪk bɪn dεa jaist, dεa stēts fanaint!
 ʊnt dɪt mɪt rεçt; dεn alət, vat εntstēt,
 ɪs vεat, dasεt tsu grʊndə jēt;
