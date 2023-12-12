@@ -296,8 +296,8 @@ In der spontanen Mundart wird an Stelle der einfachen Vergangenheit die abgeschl
 
 | deutlich | spontan | |
 |-|-|-|
-| [dɪs ˈza:ktə  ɛa̯] | [dɪs ˈhata gəˈza:kt] | *dis sagte er* → *dis hat er gesagt* |
-| [dɪs ˈhatə ɛa̯ gəˈza:kt] | [dɪs ˈhata gəˈza:kt gəˈha:pt] | *dis hatte er gesagt* → *dis hat er gesagt gehabt* |
+| [dɪs ˈza:ktə  ɛa̯] | [dɪs ˈhata gəˈza:kt] | *dis sagte er* → *dis hat-er gesagt* |
+| [dɪs ˈhatə ɛa̯ gəˈza:kt] | [dɪs ˈhata gəˈza:kt gəˈha:pt] | *dis hatte er gesagt* → *dis hat-er gesagt gehabt* |
 
 ## Berlinerisch
 
@@ -337,10 +337,12 @@ Berlinerisches *ag* am Wortende kann gekürzt werden, wenn kein weiterer Vokal f
 | [za:k] | [zax] | *sag* |
 | [ta:k] | [tax] | *Tag* |
 
-Im Redefluss kann Berlinerisches *g* am Wortende ausfallen.
+Spontan können *ch* und Berlinerisches *g* am Wortende ausfallen.
 
-| Mundart | Berlinerisch | |
+| deutlich | spontan | |
 |-|-|-|
+| [dɔx]     | [dɔ]     | *doch* → *do'* |
+| | | |
 | [nɪç]     | [nɪ]     | *nich* → *ni'* |
 | [ˈrɪçtɪç] | [ˈrɪçtɪ] | *richtig* → *richti'* |
 | [za:k ɪç] | [zaɪ̯k] | *sag ich* → *sa'ik* |
@@ -428,25 +430,25 @@ In wenigen Fällen ist das urgermanische *u* erhalten geblieben.
 | [ɪn dɛa̯] | [ˈɪna] | *in der* → *inna* |
 | [fɔn dɛa̯] | [ˈfɔna] | *von der* → *vonna* |
 
-Im Redefluss kann ein Auslaut vor schwachem Personalpronomen ausfallen.
+Spontan kann ein Auslaut vor schwachem Personalpronomen ausfallen.
 
-| Umgangssprache | Berlinerisch | |
+| deutlich | spontan | |
 |-|-|-|
-| [ˈha:bɪç] | [ˈha:bɪk] → [ˈha:ɪk] | *hab-ich* → *ha'ik* |
+| [ˈha:bɪk] | [ˈha:ɪk] | *hab-ik* → *ha'ik* |
 
-Im Redefluss wird schwaches *ick* zu *k* verkürzt.
+Spontan kann schwaches *ick* zu *k* verkürzt werden.
 
-| Umgangssprache | Berlinerisch | |
+| deutlich | spontan | |
 |-|-|-|
-| [ˈvɛnɪç] | [ˈvɛnɪk] → [vɛŋk] | *wenn-ich* → *wenn'k* |
+| [ˈvɛnɪk] | [vɛŋk] | *wenn-ik* → *wenn'k* |
 
 ### Grammatik
 
-Im Redefluss können für die schwachen Personalpronomen die Dativ-Formen an Stelle der Akkusativ-Formen verwendet werden.
+Spontan können für schwaches *mich* und *dich* die Dativ-Formen *ma* und *da* an Stelle der Akkusativ-Formen *mi'* und *di'* verwendet werden.
 
-| Umgangssprache | Berlinerisch | |
+| deutlich | spontan | |
 |-|-|-|
-| [faˈtsi: dɪç] | [faˈfatsdɪ] → [faˈfatsda] | *verzieh dich* → *verfatz-da* |
+| [faˈfatsdɪ] | [faˈfatsda] | *verfatz-di'* → *verfatz-da* |
 
 ## Nützliche Links
 
