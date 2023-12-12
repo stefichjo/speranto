@@ -1,6 +1,6 @@
 # Aussprache
 
-Um die Aussprache des Deutschen greifbarer zu machen, werden im Folgenden fünf Register skizziert: Bühnendeutsch, Hochdeutsch, Umgangssprache, Mundart und Berlinerisch.
+Um die Aussprache des Deutschen greifbarer zu machen, werden im Folgenden fünf Register skizziert: Bühnendeutsch, Hochdeutsch, Umgangssprache, Mundart und Berlinerisch.[^test]
 
 - [Aussprache](#aussprache)
   - [Bühnendeutsch](#bühnendeutsch)
@@ -454,6 +454,8 @@ Im Redefluss können für die schwachen Personalpronomen die Dativ-Formen an Ste
 * [Duden, das Aussprachewörterbuch (2023)](https://www.google.de/books/edition/Duden_Das_Aussprachew%C3%B6rterbuch/ByrmEAAAQBAJ)
 * [Deutsch mit Benjamin (YouTube-Kanal)](https://www.youtube.com/@DeutschMitBenjamin)
 * [Beispiele](de-ekzemploj.md)
+
+[^test] Test.
 
 [^1] Der Schwundlaut in *-el* und *-er* fällt vor weiterem Vokal nicht aus: *eitelen* [ˈaɪ̯tələn], *anderen* [ˈandərən] (standardsprachlich ist aber auch *andern* [ˈandərn]), außer vor *-ig*: *eklig* [ˈe:klɪç], *wässrig* [ˈvεsrɪç]. Die Verbendung *-en* wird nach *-el* und *-er* zu *-n*: *wechseln* [ˈvεksl̩n], *ändern* [ˈεndɐn].
 
