@@ -83,7 +83,7 @@ Im Hochdeutschen wird das *r* als Zäpfchen-*r* (Frikativ: [ʁ]) gesprochen, abe
 |-|-|
 | [ro:t] | *rot* |
 
-Im Hochdeutschen fällt der Schwundlaut *e* [ə] in *-el*, *-er*, *-em*, *-en* nach Möglichkeit aus, und die Verbleibunden *-l*, *-r*, *-m*, *-n* werden silbisch ausgesprochen. Das *r* wird dann als Schwund-*a* [ɐ] vokalisiert.[^1] [^2]
+Im Hochdeutschen fällt der Schwundlaut *e* [ə] in *-el*, *-er*, *-em*, *-en* nach Möglichkeit aus, und die Verbleibunden *-l*, *-r*, *-m*, *-n* werden silbisch ausgesprochen. Das *r* wird dann als Schwund-*a* [ɐ] vokalisiert.[^el-er] [^em-en]
 
 | Hochdeutsch | |
 |-|-|
@@ -455,9 +455,9 @@ Im Redefluss können für die schwachen Personalpronomen die Dativ-Formen an Ste
 * [Deutsch mit Benjamin (YouTube-Kanal)](https://www.youtube.com/@DeutschMitBenjamin)
 * [Beispiele](de-ekzemploj.md)
 
-[^1] Der Schwundlaut in *-el* und *-er* fällt vor weiterem Vokal nicht aus: *eitelen* [ˈaɪ̯tələn], *anderen* [ˈandərən] (standardsprachlich ist aber auch *andern* [ˈandərn]), außer vor *-ig*: *eklig* [ˈe:klɪç], *wässrig* [ˈvεsrɪç]. Die Verbendung *-en* wird nach *-el* und *-er* zu *-n*: *wechseln* [ˈvεksl̩n], *ändern* [ˈεndɐn].
+[^el-er]: Der Schwundlaut in *-el* und *-er* fällt vor weiterem Vokal nicht aus: *eitelen* [ˈaɪ̯tələn], *anderen* [ˈandərən] (standardsprachlich ist aber auch *andern* [ˈandərn]), außer vor *-ig*: *eklig* [ˈe:klɪç], *wässrig* [ˈvεsrɪç]. Die Verbendung *-en* wird nach *-el* und *-er* zu *-n*: *wechseln* [ˈvεksl̩n], *ändern* [ˈεndɐn].
 
-[^2] Der Schwundlaut in *-em* und *-en* fällt nach *l*, *r* und Vokal nicht aus: *fühlen* [ˈfy:lən], *spüren* [ˈʃpy:rən], *sehen* [ˈze:ən].
+[^em-en]: Der Schwundlaut in *-em* und *-en* fällt nach *l*, *r* und Vokal nicht aus: *fühlen* [ˈfy:lən], *spüren* [ˈʃpy:rən], *sehen* [ˈze:ən].
 
 <!-- Der Schwundlaut in *-em* fällt auch nach *t* nicht aus: *Atem* [ˈa:təm]. Silbisches *-n* [n̩] wird vor Vokal an den Verbstamm assimiliert: *zeichnen* [ˈtsaiçnən]. -->
 
