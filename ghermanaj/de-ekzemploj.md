@@ -7,15 +7,13 @@
 | | |
 |-|-|
 | Ick sitze da un' esse Klops     | ɪk zɪtsə dā ʊn εsə klɔps     |
-| Uf ee'ma klopp's                | ʊf ēma klɔps[^test]          |
+| Uf ee'ma klopp's                | ʊf ēma klɔps                 |
 | Ick kieke, staune, wundre mir   | ɪk kīkə, ʃtaʊnə, vʊndrə mia, |
 | Uf ee'ma jeht-se uf die Tür     | ʊf ēma jētzə ʊf dī tya.      |
 | Nanu, denk ick, ick denk: nanu  | nanū, dεŋk ɪk, ɪk dεŋk: nanū |
 | Jetz' is-se uf, erst war-se zu! | jεts ɪsə ʊf, εast vāze tsū!  |
 | Ick jehe raus un' kieke         | ɪk jeɪə raʊs ʊn kīkə         |
 | Un' wer steht draußen? Icke!    | ʊn vεa ʃtēt draʊsn̩? ɪkə!     |
-
-[^test]: Testchen. 1, 2, 3.
 
 ## Die Allerschürfste
 
@@ -39,11 +37,11 @@ dū dεŋkst, dū bɪst vɪ̄klɪ ʊnvīdaʃtēlɪç,
 bɪstə aba e:m̩ jərādə nɪç!
 
 [^ür]: *allerschürfste* wird mit überdeutlichem (umgangssprachlichem) *ür* [ʏa] statt [ʏ̄] gesungen.
-[^eil]: *geil* und *Gegenteil* werden hier mit überdeutlichem *-el* gesungen, als wären es *geiel* und *Gegenteiel*.
+[^eil]: *geil* und *Gegenteil* werden hier mit überdeutlichem *-el* gesungen (wie *geiel* und *Gegenteiel*).
 [^gegen]: *Gegenteil* wird hier überdeutlich mit [ˈje:jən] statt [je:ŋ̩] gesungen.
-[^rein]: Statt *rin* [rɪn] wird hier überdeutlicherweise *rein* mit überdeutlichem *-en* gesungen, als wäre es *reien*.
+[^rein]: Statt *rin* [rɪn] wird hier überdeutlicherweise *rein* mit überdeutlichem *-en* gesungen (wie *reien*).
 [^eine]: *eine* wird hier überdeutlich mit [aɪ̯] statt [e:] gesungen.
-[^auen]: *hauen* und *Zaun* werden hier mit überdeutlichem *-en* gesungen, als wären es *hau-en* und *Zauen*.
+[^auen]: *hauen* und *Zaun* werden hier mit überdeutlichem *-en* gesungen (wie *hau-en* und *Zauen*).
 [^find-da]: Beim ersten *ick find-da widerlich* wird *-da* überdeutlich gesungen: *ick find dir widerlich*.
 
 ## Faust - Studierzimmer (Berlinerisch)
