@@ -1,46 +1,89 @@
+<!-- āɛ̄ēɪ̄īɔ̄ōœ̄ø̄ʊ̄ūʏ̄ȳ ɪ̯ʊ̯ m̩n̩ŋ̩ l̩ɫ ɣʃ -->
+
 # Beispiele
+
+## Klopslied
+
+| | |
+|-|-|
+| Ick sitze da un' esse Klops     | ɪk zɪtsə dā ʊn εsə klɔps     |
+| Uf ee'ma klopp's                | ʊf ēma klɔps[^test]          |
+| Ick kieke, staune, wundre mir   | ɪk kīkə, ʃtaʊnə, vʊndrə mia, |
+| Uf ee'ma jeht-se uf die Tür     | ʊf ēma jētzə ʊf dī tya.      |
+| Nanu, denk ick, ick denk: nanu  | nanū, dεŋk ɪk, ɪk dεŋk: nanū |
+| Jetz' is-se uf, erst war-se zu! | jεts ɪsə ʊf, εast vāze tsū!  |
+| Ick jehe raus un' kieke         | ɪk jeɪə raʊs ʊn kīkə         |
+| Un' wer steht draußen? Icke!    | ʊn vεa ʃtēt draʊsn̩? ɪkə!     |
+
+[^test]: Testchen. 1, 2, 3.
+
+## Die Allerschürfste
+
+dū dεŋkst, dū bɪst dī alaʃʏ̄fstə[^ür] fya mɪç,  
+bɪstə aba nɪç. ɪk fɪnta[^find-da] vīdalɪç.  
+dū dεŋkst, dɪç findət vɪ̄klɪ jēda hia gaɪl,[^eil]  
+is aba nɪ zō, jans ɪm jēŋ̩taɪl.[^gegen]
+
+dū kɔmst hia rɪn[^rein] aɫs jəhœat dia dī wεɫt,  
+aɫs wεa jēda tɪʃ nua fya dia bəʃtεɫt.  
+dū glɔtst mia an, haʊ ap, dū maxst mia nɔx kraŋk.  
+dū vɪɫst aɫn̩ jəfaɫn̩. dū hast nɪç mεa alə tasn̩ ɪm ʃraŋk.
+
+dū nεafst, dū nεafst. ɪk vʏ̄t dia zō jεanə e:nə[^eine] haʊn̩.[^auen]  
+dū bɪst fœlɪ bəhεmat. dū hast nɪç mεa alə latn̩ am tsaʊn.  
+(ɪs dɔ vā ...)
+
+dū dεŋkst, dū bɪst dī alaʃʏ̄fstə fya mɪç,  
+bɪstə aba nɪç. ɪk fɪnta vīdalɪç.  
+dū dεŋkst, dū bɪst vɪ̄klɪ ʊnvīdaʃtēlɪç,  
+bɪstə aba e:m̩ jərādə nɪç!
+
+[^ür]: *allerschürfste* wird mit überdeutlichem (umgangssprachlichem) *ür* [ʏa] statt [ʏ̄] gesungen.
+[^eil]: *geil* und *Gegenteil* werden hier mit überdeutlichem *-el* gesungen, als wären es *geiel* und *Gegenteiel*.
+[^gegen]: *Gegenteil* wird hier überdeutlich mit [ˈje:jən] statt [je:ŋ̩] gesungen.
+[^rein]: Statt *rin* [rɪn] wird hier überdeutlicherweise *rein* mit überdeutlichem *-en* gesungen, als wäre es *reien*.
+[^eine]: *eine* wird hier überdeutlich mit [aɪ̯] statt [e:] gesungen.
+[^auen]: *hauen* und *Zaun* werden hier mit überdeutlichem *-en* gesungen, als wären es *hau-en* und *Zauen*.
+[^find-da]: Beim ersten *ick find-da widerlich* wird *-da* überdeutlich gesungen: *ick find dir widerlich*.
 
 ## Faust - Studierzimmer (Berlinerisch)
 
 Faust:  
 das aɫzo wā dɛs pūdl̩s kɛan!  
-ain fān̩da skolast? dɛa kāzʊs maxt mɪç laxŋ̩.
+aɪn fān̩da skolast? dɛa kāzʊs maxt mɪç laxŋ̩.
 
 Mephistopheles:  
-ɪç zalutia dεn gəlεatn̩ hεan!  
-ia hapt mɪç vaitlɪç ʃvɪtsn̩ maxŋ̩.
+ɪç zalutia dēn jəlεatn̩ hεan!  
+ia hapt mɪç vaɪtlɪç ʃvɪtsn̩ maxŋ̩.
 
 Faust:  
 vī nεnstəda?
 
 Mephistopheles:  
-dī frāɣə ʃaintma klēn  
+dī frāɣə ʃaɪntma klēn  
 fya ēn̩, dεa dɪt vɔ̄t zō sεa faaxtət,  
-dεa, vait εntfεant fɔn aɫm̩ ʃain,  
+dεa, vaɪt εntfεant fɔn aɫm̩ ʃaɪn,  
 nua ɪna vēzn̩ tīfə traxtət.
 
 Faust:  
-bai ɔiç, ia hεan, kam̩an dɪt vēzn̩  
-jəvønlɪç ausm̩ nām̩ lēzn̩,  
-vōət zɪç aɫtsu dɔitɪç vaist,  
-vεm̩an ɔiç flīŋ̩jɔt, fadεaba, lȳŋna haist.  
-nūn jūt, vεa bɪstə n̩?
+baɪ ɔɪç, ia hεan, kam̩an dɪt vēzn̩  
+jəvønlɪç aʊsm̩ nām̩ lēzn̩,  
+vōət zɪç aɫtsu dɔɪtɪç vaɪst,  
+vεm̩an ɔɪç flīŋ̩jɔt, fadεaba, lȳŋna haɪst.  
+nūn jūt, vεa bɪstən̩?
 
 Mephistopheles:  
-n̩ tail fɔn jēna kraft,  
-dī stēts dɪt bø̄zə vɪɫ ʊnt stēts dɪt jūtə ʃaft.
+n̩ taɪl fɔn jēna kraft,  
+dī stēts dɪt bø̄zə vɪɫ ʊn stēts dɪt jūtə ʃaft.
 
 Faust:  
-vat ɪs mɪt dīzm̩ rētsl̩vɔ̄t jəmaint?
+vat ɪs mɪt dīzm̩ rētsl̩vɔ̄t jəmaɪnt?
 
 Mephistopheles:  
-ɪk bɪn dεa jaist, dεa stēts fanaint!  
-ʊnt dɪt mɪt rεçt; dεn alət, vat εntstēt,  
+ɪk bɪn dεa jaɪst, dεa stēts fanaɪnt!  
+ʊn dɪt mɪt rεçt; dεn alət, vat εntstēt,  
 ɪs vεat, dasεt tsu grʊndə jēt;  
 drʊm bεsa vεat, das nɪks εntʃtʏndε.  
 zō ɪs dεn alət, vata sʏndə,  
 tsaʃtø̄rʊŋ, kʊ̄ts, dɪt bø̄zə nεnt,  
-main aiŋ̩tlɪçət eləmεnt.
-
-<!-- āɛ̄ēīɔ̄ōœ̄ø̄ʊ̄ūʏ̄ȳ -->
-<!-- ɪ̯ʊ̯ m̩n̩ŋ̩ l̩ɫ ɣʃ -->
+maɪn aɪŋ̩tlɪçət eləmεnt.
