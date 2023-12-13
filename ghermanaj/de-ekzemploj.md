@@ -4,23 +4,21 @@
 
 ## Klopslied
 
-| | |
-|-|-|
-| Ick sitze da un' esse Klops     | ɪk zɪtsə dā ʊn εsə klɔps     |
-| Uf ee'ma klopp's                | ʊf ēma klɔps                 |
-| Ick kieke, staune, wundre mir   | ɪk kīkə, ʃtaʊnə, vʊndrə mia, |
-| Uf ee'ma jeht-se uf die Tür     | ʊf ēma jētzə ʊf dī tya.      |
-| Nanu, denk ick, ick denk: nanu  | nanū, dεŋk ɪk, ɪk dεŋk: nanū |
-| Jetz' is-se uf, erst war-se zu! | jεts ɪsə ʊf, εast vāze tsū!  |
-| Ick jehe raus un' kieke         | ɪk jeɪə raʊs ʊn kīkə         |
-| Un' wer steht draußen? Icke!    | ʊn vεa ʃtēt draʊsn̩? ɪkə!     |
+ɪk zɪtsə dā ʊn εsə klɔps  
+ʊf ēma klɔps  
+ɪk kīkə, ʃtaʊnə, vʊndrə mia,  
+ʊf ēma jētzə ʊf dī tya.  
+nanū, dεŋk ɪk, ɪk dεŋk: nanū  
+jεts ɪsə ʊf, εast vāze tsū!  
+ɪk jeɪə raʊs ʊn kīkə  
+ʊn vεa ʃtēt draʊsn̩? ɪkə!
 
 ## Die Allerschürfste
 
 dū dεŋkst, dū bɪst dī alaʃʏ̄fstə[^ür] fya mɪç,  
 bɪstə aba nɪç. ɪk fɪnta[^find-da] vīdalɪç.  
-dū dεŋkst, dɪç findət vɪ̄klɪ jēda hia gaɪl,[^eil]  
-is aba nɪ zō, jans ɪm jēŋ̩taɪl.[^gegen]
+dū dεŋkst, dɪç findət vɪ̄klɪ jēda hia gaɪl̩,[^eil]  
+is aba nɪ zō, jans ɪm jēŋ̩taɪl̩.[^gegen]
 
 dū kɔmst hia rɪn[^rein] aɫs jəhœat dia dī wεɫt,  
 aɫs wεa jēda tɪʃ nua fya dia bəʃtεɫt.  
@@ -37,11 +35,11 @@ dū dεŋkst, dū bɪst vɪ̄klɪ ʊnvīdaʃtēlɪç,
 bɪstə aba e:m̩ jərādə nɪç!
 
 [^ür]: *allerschürfste* wird mit überdeutlichem (umgangssprachlichem) *ür* [ʏa] statt [ʏ̄] gesungen.
-[^eil]: *geil* und *Gegenteil* werden hier mit überdeutlichem *-el* gesungen (wie *geiel* und *Gegenteiel*).
-[^gegen]: *Gegenteil* wird hier überdeutlich mit [ˈje:jən] statt [je:ŋ̩] gesungen.
-[^rein]: Statt *rin* [rɪn] wird hier überdeutlicherweise *rein* mit überdeutlichem *-en* gesungen (wie *reien*).
-[^eine]: *eine* wird hier überdeutlich mit [aɪ̯] statt [e:] gesungen.
-[^auen]: *hauen* und *Zaun* werden hier mit überdeutlichem *-en* gesungen (wie *hau-en* und *Zauen*).
+[^eil]: *geil* und *Gegenteil* werden hier mit überdeutlichem *-el* [əl] gesungen (wie *geiel* und *Gegenteiel*).
+[^gegen]: *Gegenteil* wird hier überdeutlich mit [ˈje:jən] statt [ˈje:ŋ̩] gesungen.
+[^rein]: Statt *rin* [rɪn] wird hier überdeutlicherweise *rein* mit überdeutlichem *-en* [ən] gesungen (wie *reihen*).
+[^eine]: Statt *eene* [ˈe:nə] wird hier überdeutlicherweise *eine* [ˈaɪ̯nə] gesungen.
+[^auen]: *hauen* und *Zaun* werden hier mit überdeutlichem *-en* [ən] gesungen (wie *hauhen* und *Zauhen*).
 [^find-da]: Beim ersten *ick find-da widerlich* wird *-da* überdeutlich gesungen: *ick find dir widerlich*.
 
 ## Faust - Studierzimmer (Berlinerisch)
