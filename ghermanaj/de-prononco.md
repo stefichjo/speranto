@@ -363,7 +363,13 @@ Spontan können *ch* und Berlinerisches *g* am Wortende ausfallen.
 | | | |
 | [nɪç]     | [nɪ]     | *nich* → *ni'* |
 | [ˈrɪçtɪç] | [ˈrɪçtɪ] | *richtig* → *richti'* |
-| [za:k ɪç] | [zaɪ̯k] | *sag ich* → *sa'ik* |
+| [za:k ɪç] | [zaɪ̯k]   | *sag ich* → *sa'ik* |
+
+Spontan kann der Laut [ç] durch [ʃ] ersetzt werden.
+
+| deutlich | spontan | |
+|-|-|-|
+| [ˈrɪçtɪç] | [ˈrɪçtɪ] → [ˈrʏʃtɪ] | *richtig* → *rüschti'* |
 
 ### ɪ ≡ ʏ
 
@@ -371,8 +377,8 @@ In Längungen und vor manchen Konsonanten wie *sch* [ʃ] wird [ɪ] zu [ʏ].
 
 | Umgangssprache | Berlinerisch | |
 |-|-|-|
-| [vɪ:t] | [vʏ:t] | *wird* |
-| [tɪʃ]  | [tʏʃ]  | *Tisch* |
+| [vɪ:t] | [vʏ:t] | *wird* → *würd* |
+| [tɪʃ]  | [tʏʃ]  | *Tisch* → *Tüsch* |
 
 ### ə ≡ a
 
@@ -490,3 +496,4 @@ Spontan können für schwaches *mich* und *dich* die Dativ-Formen *ma* und *da* 
 * [Beispiele](de-ekzemploj.md)
 
 <!-- Möglichkeit: Wenn ich's wüsste, würde ich es dir sagen. → Unterscheidung zwischen wenn- und dann-Teil. -->
+<!-- war schön gewesen! -->

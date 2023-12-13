@@ -2,7 +2,51 @@
 
 # Beispiele
 
-## Klopslied
+## Faust - Studierzimmer (Umgangssprache)
+
+Faust:  
+das aɫzo wā dɛs pūdl̩s kɛan!  
+aɪn fān̩da skolast? dɛa kāzʊs maxt mɪç laxn̩.
+
+Mephistopheles:  
+ɪç zalutia dēn gəlεatn̩ hεan!  
+ia hapt mɪç vaɪtlɪç ʃvɪtsn̩ maxn̩.
+
+Faust:  
+vī nεnst dū dɪç?
+
+Mephistopheles:  
+dī frāgə ʃaɪnt mia klaɪn  
+fya aɪnən, dεa das vɔ̄t zō zεa faaxtət,  
+dεa, vaɪt εntfεant fɔn aɫm̩ ʃaɪn,  
+nua ɪn dεa vēzn̩ tīfə traxtət.
+
+Faust:  
+baɪ ɔɪç, ia hεan, kan man das vēzn̩  
+gəvønlɪç aʊsm̩ nāmən lēzn̩,  
+vō εs zɪç aɫtsu dɔɪtlɪç vaɪst,  
+vεn man ɔɪç flīgn̩gɔt, fadεaba, lȳgna haɪst.  
+nūn gūt, vεa bɪst dū dεn?
+
+Mephistopheles:  
+aɪn taɪl fɔn jēna kraft,  
+dī stēts das bø̄zə vɪɫ ʊnt stēts das gūtə ʃaft.
+
+Faust:  
+vas ɪst mɪt dīzm̩ rētsl̩vɔ̄t gəmaɪnt?
+
+Mephistopheles:  
+ɪç bɪn dεa gaɪst, dεa stēts fanaɪnt!  
+ʊnt das mɪt rεçt; dεn aləs, vas εntstēt,  
+ɪst vεat, das εs tsu grʊndə gēt;  
+drʊm bεsa vεas, das nɪçts εntʃtʏndə.  
+zō ɪst dεn aləs, vas ia sʏndə,  
+tsaʃtø̄rʊŋ, kʊ̄ts, das bø̄zə nεnt,  
+maɪn aɪgn̩tlɪçəs elemεnt.
+
+## Berlinerisch
+
+### Klopslied
 
 ɪk zɪtsə dā ʊn εsə klɔps  
 ʊf ēma klɔps  
@@ -13,7 +57,7 @@ jεts ɪsə ʊf, εast vāze tsū!
 ɪk jeɪə raʊs ʊn kīkə  
 ʊn vεa ʃtēt draʊsn̩? ɪkə!
 
-## Die Allerschürfste
+### Die Allerschürfste
 
 dū dεŋkst, dū bɪst dī alaʃʏ̄fstə[^ür] fya mɪç,  
 bɪstə aba nɪç. ɪk fɪnta[^find-da] vīdalɪç.  
@@ -42,44 +86,4 @@ bɪstə aba e:m̩ jərādə nɪç!
 [^auen]: *hauen* und *Zaun* werden hier mit überdeutlichem *-en* [ən] gesungen (wie *hauhen* und *Zauhen*).
 [^find-da]: Beim ersten *ick find-da widerlich* wird *-da* überdeutlich gesungen: *ick find dir widerlich*.
 
-## Faust - Studierzimmer (Berlinerisch)
-
-Faust:  
-das aɫzo wā dɛs pūdl̩s kɛan!  
-aɪn fān̩da skolast? dɛa kāzʊs maxt mɪç laxŋ̩.
-
-Mephistopheles:  
-ɪç zalutia dēn jəlεatn̩ hεan!  
-ia hapt mɪç vaɪtlɪç ʃvɪtsn̩ maxŋ̩.
-
-Faust:  
-vī nεnstəda?
-
-Mephistopheles:  
-dī frāɣə ʃaɪntma klēn  
-fya ēn̩, dεa dɪt vɔ̄t zō sεa faaxtət,  
-dεa, vaɪt εntfεant fɔn aɫm̩ ʃaɪn,  
-nua ɪna vēzn̩ tīfə traxtət.
-
-Faust:  
-baɪ ɔɪç, ia hεan, kam̩an dɪt vēzn̩  
-jəvønlɪç aʊsm̩ nām̩ lēzn̩,  
-vōət zɪç aɫtsu dɔɪtɪç vaɪst,  
-vεm̩an ɔɪç flīŋ̩jɔt, fadεaba, lȳŋna haɪst.  
-nūn jūt, vεa bɪstən̩?
-
-Mephistopheles:  
-n̩ taɪl fɔn jēna kraft,  
-dī stēts dɪt bø̄zə vɪɫ ʊn stēts dɪt jūtə ʃaft.
-
-Faust:  
-vat ɪs mɪt dīzm̩ rētsl̩vɔ̄t jəmaɪnt?
-
-Mephistopheles:  
-ɪk bɪn dεa jaɪst, dεa stēts fanaɪnt!  
-ʊn dɪt mɪt rεçt; dεn alət, vat εntstēt,  
-ɪs vεat, dasεt tsu grʊndə jēt;  
-drʊm bεsa vεat, das nɪks εntʃtʏndε.  
-zō ɪs dεn alət, vata sʏndə,  
-tsaʃtø̄rʊŋ, kʊ̄ts, dɪt bø̄zə nεnt,  
-maɪn aɪŋ̩tlɪçət eləmεnt.
+<!-- Hey Du! -->
