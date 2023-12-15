@@ -1,5 +1,3 @@
-<!-- āɛ̄ēɪ̄īɔ̄ōœ̄ø̄ʊ̄ūʏ̄ȳ ɪ̯ʊ̯ m̩n̩ŋ̩ l̩ɫ ɣʃ -->
-
 # Beispiele
 
 ## Faust - Studierzimmer (Umgangssprache)
@@ -46,44 +44,106 @@ maɪn aɪgn̩tlɪçəs elemεnt.
 
 ## Berlinerisch
 
+### ???
+
+ɪk bɪn kēn mεnʃ
+ɪk bɪn kēn tia
+ɪk bɪn nə rɔlə klōpapia
+
 ### Klopslied
 
-ɪk zɪtsə dā ʊn εsə klɔps  
+ɪk zɪtsə dā ʊnt εsə klɔps  
 ʊf ēma klɔps  
 ɪk kīkə, ʃtaʊnə, vʊndrə mia,  
 ʊf ēma jētzə ʊf dī tya.  
 nanū, dεŋk ɪk, ɪk dεŋk: nanū  
 jεts ɪsə ʊf, εast vāze tsū!  
 ɪk jeɪə raʊs ʊn kīkə  
-ʊn vεa ʃtēt draʊsn̩? ɪkə!
+ʊnt vεa ʃtēt draʊsn̩? ɪkə!
 
 ### Die Allerschürfste
 
 dū dεŋkst, dū bɪst dī alaʃʏ̄fstə[^ür] fya mɪç,  
-bɪstə aba nɪç. ɪk fɪnta[^find-da] vīdalɪç.  
+bɪstə āba nɪç. ɪk fɪnta[^find-da] vīdalɪç.  
 dū dεŋkst, dɪç findət vɪ̄klɪ jēda hia gaɪl̩,[^eil]  
-is aba nɪ zō, jans ɪm jēŋ̩taɪl̩.[^gegen]
+is āba nɪ zō, jans ɪm jēŋ̩taɪl̩.[^gegen]
 
 dū kɔmst hia rɪn[^rein] aɫs jəhœat dia dī wεɫt,  
 aɫs wεa jēda tɪʃ nua fya dia bəʃtεɫt.  
 dū glɔtst mia an, haʊ ap, dū maxst mia nɔx kraŋk.  
 dū vɪɫst aɫn̩ jəfaɫn̩. dū hast nɪç mεa alə tasn̩ ɪm ʃraŋk.
 
-dū nεafst, dū nεafst. ɪk vʏ̄t dia zō jεanə e:nə[^eine] haʊn̩.[^auen]  
+dū nεafst, dū nεafst. ɪk vʏ̄t dia zō jεanə e:nə[^eine] haʊn.[^auen]  
 dū bɪst fœlɪ bəhεmat. dū hast nɪç mεa alə latn̩ am tsaʊn.  
 (ɪs dɔ vā ...)
 
 dū dεŋkst, dū bɪst dī alaʃʏ̄fstə fya mɪç,  
-bɪstə aba nɪç. ɪk fɪnta vīdalɪç.  
+bɪstə āba nɪç. ɪk fɪnta vīdalɪç.  
 dū dεŋkst, dū bɪst vɪ̄klɪ ʊnvīdaʃtēlɪç,  
-bɪstə aba e:m̩ jərādə nɪç!
+bɪstə āba e:m̩ jərādə nɪç!
 
 [^ür]: *allerschürfste* wird mit überdeutlichem (umgangssprachlichem) *ür* [ʏa] statt [ʏ̄] gesungen.
 [^eil]: *geil* und *Gegenteil* werden hier mit überdeutlichem *-el* [əl] gesungen (wie *geiel* und *Gegenteiel*).
 [^gegen]: *Gegenteil* wird hier überdeutlich mit [ˈje:jən] statt [ˈje:ŋ̩] gesungen.
 [^rein]: Statt *rin* [rɪn] wird hier überdeutlicherweise *rein* mit überdeutlichem *-en* [ən] gesungen (wie *reihen*).
 [^eine]: Statt *eene* [ˈe:nə] wird hier überdeutlicherweise *eine* [ˈaɪ̯nə] gesungen.
-[^auen]: *hauen* und *Zaun* werden hier mit überdeutlichem *-en* [ən] gesungen (wie *hauhen* und *Zauhen*).
+[^auen]: *hau'n* und *Zaun* werden hier mit überdeutlichem *-en* [ən] gesungen (wie *hauhen* und *Zauhen*).
 [^find-da]: Beim ersten *ick find-da widerlich* wird *-da* überdeutlich gesungen: *ick find dir widerlich*.
 
-<!-- Hey Du! -->
+### Marias Lied (Hey Du)
+
+hεɪ dū, hεɪ dū,
+hœa mia mā, hœa mia ma tsū.
+ɪk vɪɫ dia mā vat atsēl̩n[^ä] fɔn mia.
+dɪt[^dit] hābɪk nɔx nī jəmaxt, aʊsa[^au] baɪ dia
+fīlaɪçt brɪŋtət dia vat, ɪk kεn dia jā nɪç.
+ɪk zē nua, vī traʊrɪç dū bɪst.
+
+āba daɪnə traʊa vɪ̄t[^ir] fɔabaɪjēn[^gehen]
+dɪt vēsɪk, dɪt kanɪk dia anzēn
+baɫt vɪ̄stə[^du] vīda ʃtɔɫts ʊnt glʏklɪç zaɪn,
+dεn dū bɪst ʃø̄n, zojā[^sogar] ʃø̄n vεn dū vaɪnst
+dū bɪst ʃø̄n, zō ʃø̄n aʊx vεn dū vaɪnst
+
+ɪk vā ʃōn ɪma zō n̩[^on] vātsn̩ʃvaɪn
+fɔɫ pɪkl̩, ʃvɪtsɪç, tsū fεt ʊnt tsū klaɪn[^klein]
+ēn trampl̩, haɫp blɪnt, fabīstat ʊnt baf
+ʊnt ɪk hāp jā ōx nɪç mā dī nɔɪntə jəʃaft
+mēnə mʊta, dī zɔɪft, ia grøstət[^gr] ʊnglʏk vā ɪk
+ɪk hasə dī zō vī dī mɪç
+
+āba daɪnə traʊa ...
+
+ɪk hāp kēnə ōma,[^om] dīt[^s] jūt mɪt mia maɪnt
+kēnə ratə, kēnn̩ hʊnt, kēnn̩ frɔɪnt
+mēnə tsūkʊnft ɪs n̩ ēklɪja, εntloza ʃaxt
+fɔɫ glɪba ʊnt mɔda ʊnt ʃvāts vī dī naxt
+
+vī jūt, dat mia mançmā zō n̩ εŋl̩ aʃaɪnt
+vī dū - ʊnt fya mɪç vaɪnt
+
+[^ä]: *erzählen* wird hier überdeutlich mit *ä* [ɛ̄] statt [ē] gesungen.
+
+[^dit]: Hier wird älteres *det* [dεt] statt *dit* [dɪt] gesungen.
+
+[^au]: Das *au* von *außer* (und *traurig*, *Trauer*, *auch*) wird hier bühnendeutsch [ao̯] gesungen.
+
+[^ir]: *wird* wird hier hochdeutsch [vɪɐ̯t] gesungen.
+
+[^gehen]: *gehen* [ˈje:n̩] bzw. *geh'n* [je:n] wird hier hochdeutsch *geh'n* [ge:n] gesungen.
+
+[^du]: *du* wird hier nicht in der schwachen Form gesungen: *wirst du* [vɪ̄st dū].
+
+[^sogar]: *sogar* wird hier hochdeutsch mit [g] gesungen.
+
+[^on]: Hier wird *so 'n* mit kurzem *o* und assimiliertem *'n* gesungen: [zɔn].
+
+[^klein]: Hier wird hochdeutsch *klein* statt *kleen* gesungen, was sich sonst nicht auf *Warzenschein* reimen würde. (*Schwein* ist auch im Berlinerischen *Schwein*, und nicht \**Schween*.)
+
+[^gr]: Hier wird *größtet* überdeutlich wie \**gerößtet* bzw. \**g'rößtet* [ˈjrøstət] gesungen.
+
+[^om]: Hier wird *Oma* mit kurzem *o* gesungen: [ˈɔma].
+
+[^s]: Hier wird überdeutlich *die's* [dīs] statt *die't* gesungen.
+
+<!-- āɛ̄ēɪ̄īɔ̄ōœ̄ø̄ʊ̄ūʏ̄ȳ ɪ̯ʊ̯ m̩n̩ŋ̩ l̩ɫ ɣʃ ˈ -->

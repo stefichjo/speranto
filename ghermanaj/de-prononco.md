@@ -253,7 +253,7 @@ In der Mundart fällt der Schwundlaut [ə] in *-el* und *-er* aus, auch wenn ein
 
 ### Vokabular
 
-In der Mundart werden eigene Abkürzungen vorgenommen.
+In der Mundart werden eigene Abkürzungen vorgenommen.[^das]
 
 | Umgangssprache | Mundart | |
 |-|-|-|
@@ -262,11 +262,12 @@ In der Mundart werden eigene Abkürzungen vorgenommen.
 | [jɛtst]  | [jɛts] | *jetzt* → *jetz'* |
 | [ma:l]   | [ma:] | *mal* → *ma'* |
 | [nɪçt]   | [nɪç] | *nicht* → *nich'* |
-| [ʊnt]    | [ʊn]  | *und* → *un'* |
 | | | |
 | [aɪ̯n]    | [n̩] | *ein* → *'n*   |
 | [ˈaɪ̯nə]  | [nə] | *eine* → *'ne*  |
 | [ˈaɪ̯nɐ]  | [na] | *einer* → *'ner* |
+
+[^das]: In der Mundart wird zwischen *dass* und *das* unterschieden, da *das* zu *dis* wird, während *dass* unverändert bleibt.
 
 | deutlich | spontan | |
 |-|-|-|
@@ -282,12 +283,14 @@ In der Mundart werden unbetonte Personalpronomen in ihrer schwachen Form verwend
 
 ### Grammatik
 
-In der spontanen Mundart wird an Stelle der einfachen Vergangenheit die abgeschlossene Gegenwart verwendet.
+In der spontanen Mundart wird an Stelle der einfachen Vergangenheit die abgeschlossene Gegenwart mit *haben* bzw. die abgeschlossene Vergangenheit mit *sein* verwendet.
 
-| deutlich | spontan | |
-|-|-|-|
-| [dɪs ˈza:ktə  ɛa̯] | [dɪs ˈhata gəˈza:kt] | *dis sagte er* → *dis hat-er gesagt* |
-| [dɪs ˈhatə ɛa̯ gəˈza:kt] | [dɪs ˈhata gəˈza:kt gəˈha:pt] | *dis hatte er gesagt* → *dis hat-er gesagt gehabt* |
+| deutlich | spontan |
+|-|-|
+| *dis sagte er* | *dis hat-er gesagt* |
+| *dis hatte er gesagt* | *dis hat-er gesagt gehabt* |
+| | |
+| *dis war schön* | *dis war schön gewesen* |
 
 ## Berlinerisch
 
@@ -313,13 +316,14 @@ Die Endung *-es* bzw. der Auslaut *-s* für sächliche Adjektive und Pronomen is
 |-|-|-|
 | [ˈdi:zəs] | [ˈdi:zət] | *dieses* → *dieset*  |
 | [dɪs] | [dɪt] | *dis* → *dit* |
+| [das] | [dat] | *dass* → *dat* |
 | [ɛs] | [ɛt] | *es* → *et* |
 
 ### ts ≡ s
 
 Nach Konsonant fällt [t] in [ts] im Berlinerischen aus.
 
-| Mundart | Berlinerisch | |
+| Umgangssprache | Berlinerisch | |
 |-|-|-|
 | [akˈtsεnt] | [akˈsεnt] | *Akzent*  |
 
@@ -331,7 +335,7 @@ Im spontanten Berlinerischen wird jedes [ts] zu [s] verkürzt.
 
 ### g ≡ g/j/ɣ/ç/x
 
-Das Berlinerische *g* wird als [j] oder [ɣ] realisiert. Am Wortende oder vor stimmlosem Konsonanten wird Berlinerisches *g* wie *ch* als [ç] oder [x] realisiert. Am Wortanfang wird *g* vor Vokal als [j], vor Konsonant (in *gn*, *gl* und *gr*) jedoch als [g] gesprochen.
+Das Berlinerische *g* wird als [j] oder [ɣ] realisiert. Am Wortende oder vor stimmlosem Konsonanten wird Berlinerisches *g* wie *ch* als [ç] oder [x] realisiert. Am Wortanfang wird *g* vor Vokal als [j] gesprochen.[^gn-gl-gr]
 
 | Umgangssprache | Berlinerisch | |
 |-|-|-|
@@ -341,35 +345,53 @@ Das Berlinerische *g* wird als [j] oder [ɣ] realisiert. Am Wortende oder vor st
 | [ˈfli:gə] | [ˈfli:je] | *Fliege* = *Flieje* |
 | [fli:kt]  | [fli:çt]  | *fliegt* = *fliecht* |
 
+[^gn-gl-gr]: Vor Konsonant wird der Anlaut *g* [g] gesprochen. Überdeutlich können *gn-*, *gl-* und *gr-* jedoch wie \**ge-n-*, \**ge-l-* und \**ge-r-* bzw. \**g'-n-*, \**g'-l-* und \**g'-r-* gesprochen werden: \**verg'nügen* [faˈjny:ŋ̩], \**g'lück* [jlʏk], \**g'rün* [jry:n].
+
 Im Berlinerischen fällt das *i* in *-ig* aus, wenn darauf ein weiterer Vokal folgt.
 
-| Mundart | Berlinerisch | |
+| Umgangssprache | Berlinerisch | |
 |-|-|-|
 | | | |
 | [ˈfɛa̯tgə] | [ˈfɛa̯tjə] | *fert'ge* → *fertge* = *fertje* |
 
 Berlinerisches *ag* am Wortende kann gekürzt werden, wenn kein weiterer Vokal folgt.
 
-| Mundart | Berlinerisch | |
+| Umgangssprache | Berlinerisch | |
 |-|-|-|
 | [za:k] | [zax] | *sag* |
 | [ta:k] | [tax] | *Tag* |
 
 Spontan können *ch* und Berlinerisches *g* am Wortende ausfallen.
 
-| deutlich | spontan | |
+| Umgangssprache | spontan | |
 |-|-|-|
 | [dɔx]     | [dɔ]     | *doch* → *do'* |
+| [nɔx]     | [nɔ]     | *noch* → *no'* |
+| [o:x]     | [o:]     | *ooch* → *oo'* |
 | | | |
 | [nɪç]     | [nɪ]     | *nich* → *ni'* |
 | [ˈrɪçtɪç] | [ˈrɪçtɪ] | *richtig* → *richti'* |
 | [za:k ɪç] | [zaɪ̯k]   | *sag ich* → *sa'ik* |
 
-Spontan kann der Laut [ç] durch [ʃ] ersetzt werden.
+Spontan kann der Laut [ç] durch [ʃ] ersetzt werden.[^sch]
 
 | deutlich | spontan | |
 |-|-|-|
 | [ˈrɪçtɪç] | [ˈrɪçtɪ] → [ˈrʏʃtɪ] | *richtig* → *rüschti'* |
+
+[^sch]: Die Aussprache des Berlinerischen *g* als [ʃ] überschneidet sich mit der sächsischen Aussprache.
+
+### pf ≡ f/pp
+
+*pf* wird zu *f* (vor Vokal) oder *pp* (nach Vokal).
+
+| Umgangssprache | Berlinerisch | |
+|-|-|-|
+| [ˈpfεfa] | [ˈfεfa] | *Pfeffer* → *Feffer* |
+| [ˈpfo:tə] | [ˈfo:tə] | *Pfote* → *Fote* |
+| | | |
+| [ˈapfl̩] | [ˈapl̩] | *Apfel* → *Appel* |
+| [kɔpf] | [kɔp] | *Kopf* → *Kopp* |
 
 ### ɪ ≡ ʏ
 
@@ -384,7 +406,7 @@ In Längungen und vor manchen Konsonanten wie *sch* [ʃ] wird [ɪ] zu [ʏ].
 
 An Stelle von [əˈr] und [ɛˈr] wird [ar] gesprochen.
 
-| Mundart | Berlinerisch | |
+| Umgangssprache | Berlinerisch | |
 |-|-|-|
 | [batəˈri:] | [bataˈri:] | *Batterie* |
 | [hɛˈrʊm] | [haˈrʊm] | *herum* |
@@ -439,7 +461,7 @@ In wenigen Fällen ist das urgermanische *u* erhalten geblieben.
 
 ### Vokabular
 
-| Mundart | Berlinerisch | |
+| Umgangssprache | Berlinerisch | |
 |-|-|-|
 | [aʊ̯f]       | [ʊf]         | *auf* → *uf* |
 | [dan]       | [dɛn]        | *dann* → *denn* |
@@ -460,17 +482,15 @@ Im spontanen Berlinerischen können die Demonstrativpronomen *der*, *die* und *d
 |-|-|-|
 | [εt ˈre:ŋnət] | [dɪt ˈre:ŋnət] | *et regnet* → *dit regnet* |
 
-Spontan kann ein Auslaut vor schwachem Personalpronomen ausfallen.
+Spontan kann ein Auslaut vor schwachem *ick* ausfallen. Nach kurzem Vokal kann schwaches *ick* zu *k* verkürzt werden.
 
 | deutlich | spontan | |
 |-|-|-|
 | [ˈha:bɪk] | [ˈha:ɪk] | *hab-ik* → *ha'ik* |
-
-Spontan kann schwaches *ick* zu *k* verkürzt werden.
-
-| deutlich | spontan | |
-|-|-|-|
-| [ˈvɛnɪk] | [vɛŋk] | *wenn-ik* → *wenn'k* |
+| [ˈvʏ:dɪk] | [ˈvʏ:ɪk] | *würd-ik* → *wür'ik* |
+| | | |
+| [ˈvɛnɪk]  | [vɛŋk] | *wenn-ik* → *wenn'k* |
+| [ˈfɪndɪk] | [fɪŋk] | *find-ik* → *fin'k* |
 
 Spontan kann schwaches *et* zu *t* und *s* verkürzt werden.
 
@@ -494,6 +514,3 @@ Spontan können für schwaches *mich* und *dich* die Dativ-Formen *ma* und *da* 
 * [Duden, das Aussprachewörterbuch (2023)](https://www.google.de/books/edition/Duden_Das_Aussprachew%C3%B6rterbuch/ByrmEAAAQBAJ)
 * [Deutsch mit Benjamin (YouTube-Kanal)](https://www.youtube.com/@DeutschMitBenjamin)
 * [Beispiele](de-ekzemploj.md)
-
-<!-- Möglichkeit: Wenn ich's wüsste, würde ich es dir sagen. → Unterscheidung zwischen wenn- und dann-Teil. -->
-<!-- war schön gewesen! -->
