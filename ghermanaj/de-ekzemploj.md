@@ -46,8 +46,8 @@ maɪn aɪgn̩tlɪçəs elemεnt.
 
 ### ???
 
-ɪk bɪn kēn mεnʃ
-ɪk bɪn kēn tia
+ɪk bɪn kēn mεnʃ  
+ɪk bɪn kēn tia  
 ɪk bɪn nə rɔlə klōpapia
 
 ### Klopslied
@@ -92,34 +92,34 @@ bɪstə āba e:m̩ jərādə nɪç!
 
 ### Marias Lied (Hey Du)
 
-hεɪ dū, hεɪ dū,
-hœa mia mā, hœa mia ma tsū.
-ɪk vɪɫ dia mā vat atsēl̩n[^ä] fɔn mia.
-dɪt[^dit] hābɪk nɔx nī jəmaxt, aʊsa[^au] baɪ dia
-fīlaɪçt brɪŋtət dia vat, ɪk kεn dia jā nɪç.
+hεɪ dū, hεɪ dū,  
+hœa mia mā, hœa mia ma tsū.  
+ɪk vɪɫ dia mā vat atsēl̩n[^ä] fɔn mia.  
+dɪt[^dit] hābɪk nɔx nī jəmaxt, aʊsa[^au] baɪ dia  
+fīlaɪçt brɪŋtət dia vat, ɪk kεn dia jā nɪç.  
 ɪk zē nua, vī traʊrɪç dū bɪst.
 
-āba daɪnə traʊa vɪ̄t[^ir] fɔabaɪjēn[^gehen]
-dɪt vēsɪk, dɪt kanɪk dia anzēn
-baɫt vɪ̄stə[^du] vīda ʃtɔɫts ʊnt glʏklɪç zaɪn,
-dεn dū bɪst ʃø̄n, zojā[^sogar] ʃø̄n vεn dū vaɪnst
+āba daɪnə traʊa vɪ̄t[^ir] fɔabaɪjēn[^gehen]  
+dɪt vēsɪk, dɪt kanɪk dia anzēn  
+baɫt vɪ̄stə[^du] vīda ʃtɔɫts ʊnt glʏklɪç zaɪn,  
+dεn dū bɪst ʃø̄n, zojā[^sogar] ʃø̄n vεn dū vaɪnst  
 dū bɪst ʃø̄n, zō ʃø̄n aʊx vεn dū vaɪnst
 
-ɪk vā ʃōn ɪma zō n̩[^on] vātsn̩ʃvaɪn
-fɔɫ pɪkl̩, ʃvɪtsɪç, tsū fεt ʊnt tsū klaɪn[^klein]
-ēn trampl̩, haɫp blɪnt, fabīstat ʊnt baf
-ʊnt ɪk hāp jā ōx nɪç mā dī nɔɪntə jəʃaft
-mēnə mʊta, dī zɔɪft, ia grøstət[^gr] ʊnglʏk vā ɪk
+ɪk vā ʃōn ɪma zō n̩[^on] vātsn̩ʃvaɪn  
+fɔɫ pɪkl̩, ʃvɪtsɪç, tsū fεt ʊnt tsū klaɪn[^klein]  
+ēn trampl̩, haɫp blɪnt, fabīstat ʊnt baf  
+ʊnt ɪk hāp jā ōx nɪç mā dī nɔɪntə jəʃaft  
+mēnə mʊta, dī zɔɪft, ia grøstət[^gr] ʊnglʏk vā ɪk  
 ɪk hasə dī zō vī dī mɪç
 
 āba daɪnə traʊa ...
 
-ɪk hāp kēnə ōma,[^om] dīt[^s] jūt mɪt mia maɪnt
-kēnə ratə, kēnn̩ hʊnt, kēnn̩ frɔɪnt
-mēnə tsūkʊnft ɪs n̩ ēklɪja, εntloza ʃaxt
+ɪk hāp kēnə ōma,[^om] dīt[^s] jūt mɪt mia maɪnt  
+kēnə ratə, kēnn̩ hʊnt, kēnn̩ frɔɪnt  
+mēnə tsūkʊnft ɪs n̩ ēklɪja, εntloza ʃaxt  
 fɔɫ glɪba ʊnt mɔda ʊnt ʃvāts vī dī naxt
 
-vī jūt, dat mia mançmā zō n̩ εŋl̩ aʃaɪnt
+vī jūt, dat mia mançmā zō n̩ εŋl̩ aʃaɪnt  
 vī dū - ʊnt fya mɪç vaɪnt
 
 [^ä]: *erzählen* wird hier überdeutlich mit *ä* [ɛ̄] statt [ē] gesungen.
