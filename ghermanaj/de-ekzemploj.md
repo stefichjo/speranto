@@ -132,8 +132,6 @@ vī dū - ʊnt fya mɪç vaɪnt
 
 [^wird-vorbeigehen]: Diese Zeile wird in spontanem Hochdeutsch gesungen: *wird vorbeigehen* [vɪɐ̯t vo:ɐ̯ˈbaɪ̯ge:n]
 
-*gehen* [ˈje:n̩] bzw. *geh'n* [je:n] wird hier hochdeutsch *geh'n* [ge:n] gesungen.
-
 [^du]: *du* wird hier nicht in der schwachen Form gesungen: *wirst du* [vɪ̄st dū].
 
 [^sogar]: *sogar* wird hier hochdeutsch mit [g] gesungen.
