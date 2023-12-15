@@ -302,13 +302,11 @@ Zur Betonung werden die in der spontanen Mundart assimlierten Endungen wieder au
 
 [^en]: Dies führt zu hyperkorrekten Aussprachen wie *nein* [ˈnaɪ̯ən], quasi \**neihen*.
 
-Zur Betonung kann die Endung *-e* verwendet werden.[^betonungs-e]
+Zur Betonung kann nach Konsonant die Endung *-e* verwendet werden.
 
 | Berlinerisch | |
 |-|-|
 | [ˈɪkə] | *eben ich* → *icke* |
-
-[^betonungs-e]: 
 
 ### s ≡ t
 
