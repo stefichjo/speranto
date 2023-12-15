@@ -302,7 +302,7 @@ Zur Betonung werden assimlierte Endungen wieder ausgesprochen.[^en]
 
 [^en]: Dies führt zu hyperkorrekten Aussprachen wie *nein* [ˈnaɪ̯ən], quasi \**neihen*.
 
-Zur Betonung kann nach Konsonant die Endung *-e* verwendet werden.
+Zur Hervorhebung kann nach Konsonant die Endung *-e* verwendet werden.
 
 | Berlinerisch | |
 |-|-|
@@ -492,11 +492,11 @@ Spontan kann ein Auslaut vor schwachem *ick* ausfallen. Nach kurzem Vokal kann s
 | [ˈvɛnɪk]  | [vɛŋk] | *wenn-ik* → *wenn'k* |
 | [ˈfɪndɪk] | [fɪŋk] | *find-ik* → *fin'k* |
 
-Spontan kann schwaches *et* zu *t* und *s* verkürzt werden.
+Spontan kann schwaches *et* zu *t* oder überdeutlich zu *s* verkürzt werden.
 
-| deutlich | spontan | |
-|-|-|-|
-| [ˈvɛnət] | [vɛnt] → [vɛns] | *wenn-et* → *wenn't* → *wenn's* |
+| deutlich | spontan | überdeutlich | |
+|-|-|-|-|
+| [ˈvɛnət] | [vɛnt] | [vɛns] | *wenn-et* → *wenn't* → *wenn's* |
 
 ### Grammatik
 
