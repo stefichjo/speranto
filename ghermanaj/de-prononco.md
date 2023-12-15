@@ -294,11 +294,13 @@ In der spontanen Mundart wird an Stelle der einfachen Vergangenheit die abgeschl
 
 ## Berlinerisch
 
-Zur Betonung werden die in der spontanen Mundart assimlierten Endungen überdeutlich ausgesprochen.
+Zur Betonung werden die in der spontanen Mundart assimlierten Endungen wieder ausgesprochen.[^en]
 
 | deutlich | überdeutlich | |
 |-|-|-|
-| [ze:ə] | [ˈzeɪ̯ə] | *sehe* |
+| [ˈne:m̩] | [ˈne:mən] | *nehmen* |
+
+[^en]: Dies führt zu hyperkorrekten Aussprachen wie *nein* [ˈnaɪ̯ən], quasi \**neihen*.
 
 Zur Betonung kann die Endung *-e* verwendet werden.[^betonungs-e]
 
