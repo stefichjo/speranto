@@ -96,16 +96,16 @@ hεɪ dū, hεɪ dū,
 hœa mia mā, hœa mia ma tsū.  
 ɪk vɪɫ dia mā vat atsēl̩n[^ä] fɔn mia.  
 dɪt[^dit] hābɪk nɔx nī jəmaxt, aʊsa[^au] baɪ dia  
-fīlaɪçt brɪŋtət dia vat, ɪk kεn dia jā nɪç.  
+fīlaɪçt brɪŋtət dia vat, ɪk kεnda[^kenn-dir] jā nɪç.  
 ɪk zē nua, vī traʊrɪç dū bɪst.
 
-āba daɪnə traʊa vɪ̄t[^ir] fɔabaɪjēn[^gehen]  
+āba daɪnə traʊa vɪ̄t fɔabaɪjēn[^wird-vorbeigehen]  
 dɪt vēsɪk, dɪt kanɪk dia anzēn  
 baɫt vɪ̄stə[^du] vīda ʃtɔɫts ʊnt glʏklɪç zaɪn,  
 dεn dū bɪst ʃø̄n, zojā[^sogar] ʃø̄n vεn dū vaɪnst  
 dū bɪst ʃø̄n, zō ʃø̄n aʊx vεn dū vaɪnst
 
-ɪk vā ʃōn ɪma zō n̩[^on] vātsn̩ʃvaɪn  
+ɪk vā ʃōn ɪma zō n̩[^so-n] vātsn̩ʃvaɪn  
 fɔɫ pɪkl̩, ʃvɪtsɪç, tsū fεt ʊnt tsū klaɪn[^klein]  
 ēn trampl̩, haɫp blɪnt, fabīstat ʊnt baf  
 ʊnt ɪk hāp jā ōx nɪç mā dī nɔɪntə jəʃaft  
@@ -128,15 +128,17 @@ vī dū - ʊnt fya mɪç vaɪnt
 
 [^au]: Das *au* von *außer* (und *traurig*, *Trauer*, *auch*) wird hier bühnendeutsch [ao̯] gesungen.
 
-[^ir]: *wird* wird hier hochdeutsch [vɪɐ̯t] gesungen.
+[^kenn-dir]: *kennda* wird hier überdeutlich *kenn dir* mit Akkudativ gesungen.
 
-[^gehen]: *gehen* [ˈje:n̩] bzw. *geh'n* [je:n] wird hier hochdeutsch *geh'n* [ge:n] gesungen.
+[^wird-vorbeigehen]: Diese Zeile wird in spontanem Hochdeutsch gesungen: *wird vorbeigehen* [vɪɐ̯t vo:ɐ̯ˈbaɪ̯ge:n]
+
+*gehen* [ˈje:n̩] bzw. *geh'n* [je:n] wird hier hochdeutsch *geh'n* [ge:n] gesungen.
 
 [^du]: *du* wird hier nicht in der schwachen Form gesungen: *wirst du* [vɪ̄st dū].
 
 [^sogar]: *sogar* wird hier hochdeutsch mit [g] gesungen.
 
-[^on]: Hier wird *so 'n* mit kurzem *o* und assimiliertem *'n* gesungen: [zɔn].
+[^so-n]: Hier wird *so 'n* mit kurzem *o* und assimiliertem *'n* gesungen: [zɔn].
 
 [^klein]: Hier wird hochdeutsch *klein* statt *kleen* gesungen, was sich sonst nicht auf *Warzenschein* reimen würde. (*Schwein* ist auch im Berlinerischen *Schwein*, und nicht \**Schween*.)
 
