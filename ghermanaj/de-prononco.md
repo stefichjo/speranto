@@ -515,3 +515,6 @@ Spontan können für schwaches *mich* und *dich* die Dativ-Formen *ma* und *da* 
 * [Duden, das Aussprachewörterbuch (2023)](https://www.google.de/books/edition/Duden_Das_Aussprachew%C3%B6rterbuch/ByrmEAAAQBAJ)
 * [Deutsch mit Benjamin (YouTube-Kanal)](https://www.youtube.com/@DeutschMitBenjamin)
 * [Beispiele](de-ekzemploj.md)
+
+<!-- spontan → schnell -->
+<!-- (über)deutlich → langsam -->

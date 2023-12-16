@@ -1,6 +1,8 @@
 # Beispiele
 
-## Faust - Studierzimmer (Umgangssprache)
+## Umgangssprache
+
+### Faust - Studierzimmer
 
 Faust:  
 das aɫzo wā dɛs pūdl̩s kɛan!  
@@ -44,7 +46,7 @@ maɪn aɪgn̩tlɪçəs elemεnt.
 
 ## Berlinerisch
 
-### ???
+### Ick Bin Keen Mensch
 
 ɪk bɪn kēn mεnʃ  
 ɪk bɪn kēn tia  
@@ -55,7 +57,7 @@ maɪn aɪgn̩tlɪçəs elemεnt.
 ɪk zɪtsə dā ʊnt εsə klɔps  
 ʊf ēma klɔps  
 ɪk kīkə, ʃtaʊnə, vʊndrə mia,  
-ʊf ēma jētzə ʊf dī tya.  
+ʊf ēma jētzə ʊf, dī tya.  
 nanū, dεŋk ɪk, ɪk dεŋk: nanū  
 jεts ɪsə ʊf, εast vāze tsū!  
 ɪk jeɪə raʊs ʊn kīkə  
@@ -99,10 +101,10 @@ dɪt[^dit] hābɪk nɔx nī jəmaxt, aʊsa[^au] baɪ dia
 fīlaɪçt brɪŋtət dia vat, ɪk kεnda[^kenn-dir] jā nɪç.  
 ɪk zē nua, vī traʊrɪç dū bɪst.
 
-āba daɪnə traʊa vɪ̄t fɔabaɪjēn[^wird-vorbeigehen]  
-dɪt vēsɪk, dɪt kanɪk dia anzēn  
-baɫt vɪ̄stə[^du] vīda ʃtɔɫts ʊnt glʏklɪç zaɪn,  
-dεn dū bɪst ʃø̄n, zojā[^sogar] ʃø̄n vεn dū vaɪnst  
+āba daɪnə traʊa vɪat fōabaɪgēn
+dɪt vēsɪk, dɪt kanɪk dia anzēn  [^berlinerisch]
+balt vɪast dū vīda ʃtɔlts ʊnt glʏklɪç zaɪn,  
+dεn dū bɪst ʃø̄n, zogāa ʃø̄n vεn dū vaɪnst  
 dū bɪst ʃø̄n, zō ʃø̄n aʊx vεn dū vaɪnst
 
 ɪk vā ʃōn ɪma zō n̩[^so-n] vātsn̩ʃvaɪn  
@@ -130,11 +132,7 @@ vī dū - ʊnt fya mɪç vaɪnt
 
 [^kenn-dir]: *kennda* wird hier überdeutlich *kenn dir* mit Akkudativ gesungen.
 
-[^wird-vorbeigehen]: Diese Zeile wird in spontanem Hochdeutsch gesungen: *wird vorbeigehen* [vɪɐ̯t vo:ɐ̯ˈbaɪ̯ge:n]
-
-[^du]: *du* wird hier nicht in der schwachen Form gesungen: *wirst du* [vɪ̄st dū].
-
-[^sogar]: *sogar* wird hier hochdeutsch mit [g] gesungen.
+[^berlinerisch]: Dies ist die einzige Berlinerische Zeile im Refrain. Der Rest wird auf Hochdeutsch gesungen.
 
 [^so-n]: Hier wird *so 'n* mit kurzem *o* und assimiliertem *'n* gesungen: [zɔn].
 
@@ -146,4 +144,45 @@ vī dū - ʊnt fya mɪç vaɪnt
 
 [^s]: Hier wird überdeutlich *die's* [dīs] statt *die't* gesungen.
 
-<!-- āɛ̄ēɪ̄īɔ̄ōœ̄ø̄ʊ̄ūʏ̄ȳ ɪ̯ʊ̯ m̩n̩ŋ̩ l̩ɫ ɣʃ ˈ -->
+### 100 Mal Berlin
+
+tjā, vat zɔlɪk īn̩ fɔn[^von] bɛalīn atsēɫn?
+via zɪnt alət jans nɔmālə farʏktə.
+hām̩ alə n̩ fōɣl̩[^vogel], n̩ hʊnt ōda n̩ kāta.
+ʊf ābaɪt klɔtsn̩va mɛçtɪ ran
+dī, dī tsu ʃpēt kɔmm̩,
+rɛnn̩ dī, dī fryja jēn̩ fast ȳban haʊfn̩.
+aʊsa mia hām̩ hia āba nɔ jans andrə ia jaɪstjət ʊnvēzn̩ jetrīm̩[^getrieben].
+dāfya hat manzə ɪn ʃtaɪn jəhaʊn̩
+ʊnt ʃtʏkçənvaɪzə ʊf brʏkn̩ ʊ̄nt fɛadə fataɪl̩t.
+āba nɪç nua antīkə ʃtatūtn̩[^statuen] hām̩va.
+nē, ōx haʊfn̩vaɪzə turɪstn̩
+fɔn ȳbam[^überm] grōsn̩ taɪ̄ç ʊnt hɪntam[^hinterm] mōnt
+dan hām̩va nɔ aɪnjəlēçtə mūmjən aʊs ejʏptn̩,
+mɪtl̩aɫtalɪç rɛstaʊriatə kɪ̄çen
+ʊnt andrə - rɛstoraŋs.
+alə sāŋ̩, ɪkə ʊnt via hām̩ nə grōsə ʃnaʊtsə.
+mɛnʃ, dī braʊxŋ̩va dɔ ōx,
+ʃlīslɪç trāŋ̩va ʊnza grōsət hɛats ʊfda[^auf-der] tsʊŋə.
+
+<!-- n̩m̩ŋ̩ l̩ɫ ɣʃ ˈ -->
+<!-- āɛ̄ɪ̄ɔ̄ʊ̄ œ̄ʏ̄ ø̄ȳ -->
+<!--  -->
+
+[^von]: *von* wird hier *vo'* [fɔ] ausgesprochen.
+
+[^vogel]: *Vogel* wird hier möglicherweise mundartlich [ˈfo:gl̩] statt [ˈfo:ɣl̩] ausgesprochen.
+
+[^getrieben]: *-trieben* wird hier möglicherweise mundartlich [ˈtri:bm̩] statt [ˈtri:m̩] ausgesprochen.
+
+[^statuen]: Gemeint sind natürlich *Statuen* [ˈʃta:tu̯ən].
+
+[^überm]: Gesprochen wird *übern* [ˈy:ban] im Akkudativ.
+
+[^hinterm]: Gesprochen wird *hintern* [ˈhɪntan] im Akkudativ.
+
+[^auf-der]: Gesprochen wird *uffde* [ˈʊfdə] im Akkudativ.
+
+
+
+<!-- mūmjə stātwə? -->
