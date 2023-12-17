@@ -61,7 +61,7 @@ maɪn aɪgn̩tlɪçəs elemεnt.
 nanū, dεŋk ɪk, ɪk dεŋk: nanū  
 jεts ɪsə ʊf, εast vāze tsū!  
 ɪk jeɪə raʊs ʊn kīkə  
-ʊnt vεa ʃtēt draʊsn̩? ɪkə!
+ʊn vεa ʃtēt draʊsn̩? ɪkə!
 
 ### Die Allerschürfste
 
@@ -144,9 +144,9 @@ vī dū - ʊnt fya mɪç vaɪnt
 
 [^s]: Hier wird überdeutlich *die's* [dīs] statt *die't* gesungen.
 
-### 100 Mal Berlin
+### 100 Mal Berlin[^er-ör-or]
 
-tjā, vat zɔlɪk īn̩ fɔn[^von] bɛalīn[^er-ör-or] atsēɫn?  
+tjā, vat zɔlɪk īn̩ fɔn[^von] bɛalīn atsēɫn?  
 via zɪnt alət jans nɔmālə farʏktə.  
 hām̩ alə n̩ fōɣl̩[^vogel], n̩ hʊnt ōda n̩ kāta.  
 ʊf ābaɪt klɔtsn̩va mɛçtɪ ran  
@@ -157,13 +157,13 @@ dāfya hat manzə ɪn ʃtaɪn jəhaʊn̩
 ʊnt ʃtʏkçənvaɪzə ʊf brʏkŋ̩ ʊ̄nt fɛadə fataɪl̩t.  
 āba nɪç nua antīkə ʃtatūtn̩[^statuen] hām̩va.  
 nē, ōx haʊfn̩vaɪzə turɪstn̩  
-fɔn ȳbam[^überm] grōsn̩ taɪ̄ç ʊnt hɪntam[^hinterm] mōnt  
+fɔn ȳbam[^überm] grōsn̩ taɪ̄ç ʊnt hɪntam mōnt  
 dan hām̩va nɔ aɪnjəlēçtə mūmjən aʊs ejʏptn̩,  
 mɪtl̩aɫtalɪç rɛstaʊriatə kɪ̄çen  
 ʊnt andrə - rɛstoraŋs.  
 alə sāŋ̩, ɪkə ʊnt via hām̩ nə grōsə ʃnaʊtsə.  
 mɛnʃ, dī braʊxŋ̩va dɔ ōx,  
-ʃlīslɪç trāŋ̩va ʊnza grōsət hɛats ʊfda[^auf-der] tsʊŋə.
+ʃlīslɪç trāŋ̩va ʊnza grōsət hɛats ʊfda tsʊŋə.
 
 hʊndat māl̩ hāp ɪk bɛalīn faflūxt,  
 hʊndat māl̩ vaɪt vɛk maɪn glʏk jəzūxt,  
@@ -186,37 +186,34 @@ vɪ klēnə[^kleine] ɛŋl̩çən sɪtsn̩zə bɪs zɛndəʃlʊs fɔada[^vor-der
 dɛa man, dɛa zō ēnə apkrɪçt kanzɪ gratulian.  
 vɛnzət rɪçtɪ jūt mɪt īm maɪnt,  
 lēptze aɪnfax[^einfach] lɛŋa aɫs vī ɛa.[^als-wie]  
-dan bəzūxtzə īn fɔamɪtaxs mɪta[^mit-der] jīskanə ʊfm̩ frīthōf  
+dan bəzūxtzə īn fɔamɪtaxs mɪta jīskanə ʊfm̩ frīthōf  
 ʊnt nāxmɪtaxs ʃraɪptzə ʊf haɪrātsanɔŋsn̩.  
 fɔn wēŋ̩ via bɛalīnərɪnn̩ zɪnt ʃnɪpɪʃ, pə!  
 via kœnn̩ alət fatrāŋ̩, blōs kēnə vīdavɔ̄tə.
 
 hʊndat māl̩ ...
 
+āba dɪt jəmȳtlɪçstə fOn bɛalīn ɪs dɛa fakɛa,  
+vaL jēda -n fābā-n Untazats hat.  
+aLzo bɪs Uf dī, dī kē-n hā-m,  
+Unt dī zɪnt ɪm bərūfsfakɛa Sōn ɪma nə StUndə frȳja tsū haUzə,  
+vaLzə dī aUtos laUf-nt ȳbahōL-n.  
+aUtofāra zɪnt ɪn-n ō-ŋ[^augen] fOn aUtofāran alət idiōt-n, kamēlə Unt hOanOks-n.  
+nUa fOn-n vaɪs-n mOɪz-n vɛa-nzə bʏ̄ja bətīt-lt.  
+nā, zō nə nɛtɪçkaɪt lɛst man zɪç Sōn mā -n tsēna kOst-n.  
+dī maɪsta fOm zɪnt Unzrə taksifāra.  
+dɛshaLp vɛa-nzə zɛLt-n avɪSt,  
+vēda fOn-n radāfaL-n nOx fOn-n fājɛst-n.  
+mançə bəhaUpt-n, bɛalīna tɛmpo ɪs hɛktɪS.  
+alət kvatS.  
+naxts Um draɪ ɪs bɛalīn dɛa raɪnstə kUaɔ̄t.
+
+hʊndat māl̩ ...
 
 <!-- n̩m̩ŋ̩l̩ɫ ɣʃ ˈ -->
 <!-- āɛ̄ɪ̄ɔ̄ʊ̄ œ̄ʏ̄ ø̄ȳ -->
 <!-- -->
 
-<!-- 1:20 2:49 4:21 -->
-
-<!--
-Aber dit jemütlichste von Berlin is der Verkehr
-Weil jeder n fahrbaren Untersatz hat
-Also bis uff die , die keen haben
-Und die sind im Berufsverkehr schon immer ne Stunde früher zu Hause
-Weil se die Autos laufend überholn
-Autofahrer sind inne Ojen von Autofahrer allet Idioten, Kamele und Hornochsen
-Nur vonne weißen Mäuse werde se Bürjer betitelt
-Na, sone Nettichkeit läßt man sich schon mal nen Zehner kosten
-Die Meister von Jaspedal sind unsre Taxifahrer
-Deshalb werden se selten erwischt
-Weder vonne Radarfallen
-Noch vonne Fahrjäste
-Manche behaupten, berliner Tempo is hektisch
-Allet quatsch.
-Nachts um 3 is Berlin der reinste Kurort.
--->
 
 [^er-ör-or]: Hahnemann verwendet in *er*, *ör*, *or* geschlossene Vokale und sagt *Berlin* [bea̯ˈli:n], *Gören* [jøa̯n], *vor* [foa̯] statt *Berlin* [bεa̯ˈli:n], *Gören* [jœa̯n], *vor* [fɔa̯].
 
@@ -228,21 +225,15 @@ Nachts um 3 is Berlin der reinste Kurort.
 
 [^statuen]: Gemeint sind natürlich *Statuen* [ˈʃta:tu̯ən].
 
-[^überm]: Gesprochen wird *übern* [ˈy:ban] im Akkudativ.
-
-[^hinterm]: Gesprochen wird *hintern* [ˈhɪntan] im Akkudativ.
-
-[^auf-der]: Gesprochen wird *uffde* [ˈʊfdə] im Akkudativ.
+[^überm]: Gesprochen wird *übern*, *hintern*, *uffde*, *vorde*, *mit die*, *inne Oogen von Autofahrer*, *vonne*, *von Jaspedal* im Akkudativ.
 
 [^unverständlich]: Unverständlich.
 
-[^erzogen]: Gesprochen wird überdeutliches *erzogen* [aˈtso:ɣən] statt [aˈtso:ŋ̩].
+[^erzogen]: Gesprochen wird überdeutliches *erzog-en* [aˈtso:ɣən] statt [aˈtso:ŋ̩].
 
 [^ey]: Gesprochen wird älteres *eh* [e:].
 
 [^kleine]: Gesprochen wird mundartliches *kleine* [ˈklaɪ̯nə] statt *kleene* [ˈkle:nə].
-
-[^vor-der]: Gesprochen wird *vorde* [ˈfɔadə] im Akkudativ.
 
 [^ins-bett]: Gesprochen wird *in Bett*.
 
@@ -250,4 +241,6 @@ Nachts um 3 is Berlin der reinste Kurort.
 
 [^als-wie]: Grammatisch korrekt - und durchaus möglich - ist natürlich einfach *länger als er*.
 
-[^mit-der]: Gesprochen wird *mit die* im Akkudativ.
+[^augen]: Gesprochen wird überdeutliches *Oog-en* [ˈo:ɣən] statt [ˈo:ŋ̩].
+
+
