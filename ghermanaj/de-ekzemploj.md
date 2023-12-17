@@ -154,7 +154,7 @@ dī, dī tsu ʃpēt kɔmm̩,
 rɛnn̩ dī, dī fryja jēn̩ fast ȳban haʊfn̩.  
 aʊsa mia hām̩ hia āba nɔ jans andrə ia jaɪstjət ʊnvēzn̩ jetrīm̩[^getrieben].  
 dāfya hat manzə ɪn ʃtaɪn jəhaʊn̩  
-ʊnt ʃtʏkçənvaɪzə ʊf brʏkn̩ ʊ̄nt fɛadə fataɪl̩t.  
+ʊnt ʃtʏkçənvaɪzə ʊf brʏkŋ̩ ʊ̄nt fɛadə fataɪl̩t.  
 āba nɪç nua antīkə ʃtatūtn̩[^statuen] hām̩va.  
 nē, ōx haʊfn̩vaɪzə turɪstn̩  
 fɔn ȳbam[^überm] grōsn̩ taɪ̄ç ʊnt hɪntam[^hinterm] mōnt  
@@ -167,7 +167,7 @@ mɛnʃ, dī braʊxŋ̩va dɔ ōx,
 
 hʊndat māl̩ hāp ɪk bɛalīn faflūxt,  
 hʊndat māl̩ vaɪt vɛk maɪn glʏk jəzūxt,  
-hʊndat māl̩ jəhɔɪɫt, dū maxst mɪç kraŋk,  
+hʊndat māl̩ jəhɔɪl̩t, dū maxst mɪç kraŋk,  
 hʊndat māl̩ jəbētət, jɔt zaɪ daŋk,  
 hʊndat māl̩ jəzāxt, mɪt dia ɪs ʃlʊs,  
 hʊndat māl̩ kām ɪk fɔn dia nɪç lōs  
@@ -187,7 +187,7 @@ dɛa man, dɛa zō ēnə apkrɪçt kanzɪ gratulian.
 vɛnzət rɪçtɪ jūt mɪt īm maɪnt,  
 lēptze aɪnfax[^einfach] lɛŋa aɫs vī ɛa.[^als-wie]  
 dan bəzūxtzə īn fɔamɪtaxs mɪta[^mit-der] jīskanə ʊfm̩ frīthōf  
-ʊnt nāxmɪtaxs ʃraɪptzə ʊf haɪrātsanɔŋsn̩  
+ʊnt nāxmɪtaxs ʃraɪptzə ʊf haɪrātsanɔŋsn̩.  
 fɔn wēŋ̩ via bɛalīnərɪnn̩ zɪnt ʃnɪpɪʃ, pə!  
 via kœnn̩ alət fatrāŋ̩, blōs kēnə vīdavɔ̄tə.
 
@@ -240,7 +240,7 @@ Nachts um 3 is Berlin der reinste Kurort.
 
 [^ey]: Gesprochen wird älteres *eh* [e:].
 
-[^kleine]: Gesprochen mundartliches *kleine* [ˈkle:nə].
+[^kleine]: Gesprochen wird mundartliches *kleine* [ˈklaɪ̯nə] statt *kleene* [ˈkle:nə].
 
 [^vor-der]: Gesprochen wird *vorde* [ˈfɔadə] im Akkudativ.
 
