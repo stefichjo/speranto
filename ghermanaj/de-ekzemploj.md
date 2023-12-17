@@ -146,7 +146,7 @@ vī dū - ʊnt fya mɪç vaɪnt
 
 ### 100 Mal Berlin
 
-tjā, vat zɔlɪk īn̩ fɔn[^von] bɛalīn atsēɫn?
+tjā, vat zɔlɪk īn̩ fɔn[^von] bɛalīn[^er-ör-or] atsēɫn?
 via zɪnt alət jans nɔmālə farʏktə.
 hām̩ alə n̩ fōɣl̩[^vogel], n̩ hʊnt ōda n̩ kāta.
 ʊf ābaɪt klɔtsn̩va mɛçtɪ ran
@@ -165,9 +165,60 @@ alə sāŋ̩, ɪkə ʊnt via hām̩ nə grōsə ʃnaʊtsə.
 mɛnʃ, dī braʊxŋ̩va dɔ ōx,
 ʃlīslɪç trāŋ̩va ʊnza grōsət hɛats ʊfda[^auf-der] tsʊŋə.
 
-<!-- n̩m̩ŋ̩ l̩ɫ ɣʃ ˈ -->
+hʊndat māl̩ hāp ɪk bɛalīn faflūxt,
+hʊndat māl̩ vaɪt vɛk maɪn glʏk jəzūxt,
+hʊndat māl̩ jəhɔɪɫt, dū maxst mɪç kraŋk,
+hʊndat māl̩ jəbētət, jɔt zaɪ daŋk,
+hʊndat māl̩ jəzāxt, mɪt dia ɪs ʃlʊs,
+hʊndat māl̩ kām ɪk fɔn dia nɪç lōs
+hʊndat bɪlən haʊn dā jē(k) nɪç hɪn[^unverständlich]
+dɪt sɪtst tsū tīf, dɪt sɪtst hia drin
+
+dɪt nīdlɪçstə fɔn bɛalīn zɪnt dī jœan,
+vaɫzə zō jūt atsōŋ̩[^erzogen] zɪnt.
+āba dī aɪntsjən, dī dɪt nɪç glōm̩ zɪnt dī náxbān.
+dī hām̩ jā ōx mɛa n̩ hɛats fya ian razn̩.
+vat haɪst hia, bɛalīna jœan zɪnt frɛç vī rɔts?
+alət ʃpɪnə, ɛɪ[^ey].
+vɪ klēnə[^kleine] ɛŋl̩çən sɪtsn̩zə bɪs zɛndəʃlʊs fɔada[^vor-der] rø̄rə
+ɔpvōɫ papa ʊnt mama ʃōn lɛŋst ɪns bɛtt[^ins-bett] jəjaŋŋ̩ zɪnt.
+āba dɪt ʃønstə fɔn bɛalīn zɪnt via fraʊn̩.
+dɛa man, dɛa zō ēnə apkrɪçt kanzɪ gratulian.
+vɛnzət rɪçtɪ jūt mɪt īm maɪnt,
+lēptze aɪnfax[^einfach] lɛŋa aɫs vī ɛa.[^als-wie]
+dan bəzūxtzə īn fɔamɪtaxs mɪta[^mit-der] jīskanə ʊfm̩ frīthōf
+ʊnt nāxmɪtaxs ʃraɪptzə ʊf haɪrātsanɔŋsn̩
+fɔn wēŋ̩ via bɛalīnərɪnn̩ zɪnt ʃnɪpɪʃ, pə!
+via kœnn̩ alət fatrāŋ̩, blōs kēnə vīdavɔ̄tə.
+
+hʊndat māl̩ ...
+
+
+<!-- n̩m̩ŋ̩l̩ɫ ɣʃ ˈ -->
 <!-- āɛ̄ɪ̄ɔ̄ʊ̄ œ̄ʏ̄ ø̄ȳ -->
-<!--  -->
+<!-- -->
+
+<!-- 1:20 2:49 4:21 -->
+
+<!--
+Aber dit jemütlichste von Berlin is der Verkehr
+Weil jeder n fahrbaren Untersatz hat
+Also bis uff die , die keen haben
+Und die sind im Berufsverkehr schon immer ne Stunde früher zu Hause
+Weil se die Autos laufend überholn
+Autofahrer sind inne Ojen von Autofahrer allet Idioten, Kamele und Hornochsen
+Nur vonne weißen Mäuse werde se Bürjer betitelt
+Na, sone Nettichkeit läßt man sich schon mal nen Zehner kosten
+Die Meister von Jaspedal sind unsre Taxifahrer
+Deshalb werden se selten erwischt
+Weder vonne Radarfallen
+Noch vonne Fahrjäste
+Manche behaupten, berliner Tempo is hektisch
+Allet quatsch.
+Nachts um 3 is Berlin der reinste Kurort.
+-->
+
+[^er-ör-or]: Hahnemann verwendet in *er*, *ör*, *or* geschlossene Vokale und sagt *Berlin* [bea̯ˈli:n], *Gören* [jøa̯n], *vor* [foa̯] statt *Berlin* [bεa̯ˈli:n], *Gören* [jœa̯n], *vor* [fɔa̯].
 
 [^von]: *von* wird hier *vo'* [fɔ] ausgesprochen.
 
@@ -183,6 +234,20 @@ mɛnʃ, dī braʊxŋ̩va dɔ ōx,
 
 [^auf-der]: Gesprochen wird *uffde* [ˈʊfdə] im Akkudativ.
 
+[^unverständlich]: Unverständlich.
 
+[^erzogen]: Gesprochen wird überdeutliches *erzogen* [aˈtso:ɣən] statt [aˈtso:ŋ̩].
 
-<!-- mūmjə stātwə? -->
+[^ey]: Gesprochen wird älteres *eh* [e:].
+
+[^kleine]: Gesprochen mundartliches *kleine* [ˈkle:nə].
+
+[^vor-der]: Gesprochen wird *vorde* [ˈfɔadə] im Akkudativ.
+
+[^ins-bett]: Gesprochen wird *in Bett*.
+
+[^einfach]: Interessanterweise scheint *eenfach* [ˈe:nfax] oder *eenfa'* [ˈe:nfa] nicht so stark im Berlinerischen verbreitet zu sein.
+
+[^als-wie]: Grammatisch korrekt - und durchaus möglich - ist natürlich einfach *länger als er*.
+
+[^mit-der]: Gesprochen wird *mit die* im Akkudativ.

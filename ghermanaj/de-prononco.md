@@ -469,7 +469,10 @@ In wenigen Fällen ist das urgermanische *u* erhalten geblieben.
 | [dɛn]       | [n̩]          | *denn* → *'n* |
 | [ˈkʊkŋ̩]     | [ˈki:kŋ̩]     | *gucken* → *kieken* |
 | [ɪç]        | [ɪk]         | *ich* → *ick* |
+| [vɛk]       | [vɛk]        | *weg* → *weck*[^weg] |
 | [vaɪ̯l]      | [val]        | *weil* → *wall* |
+
+[^weg]: Sonst wäre *weg* [vɛç] zu erwarten gewesen.
 
 | Mundart | Berlinerisch | |
 |-|-|-|
