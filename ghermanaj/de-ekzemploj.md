@@ -146,49 +146,49 @@ vī dū - ʊnt fya mɪç vaɪnt
 
 ### 100 Mal Berlin
 
-tjā, vat zɔlɪk īn̩ fɔn[^von] bɛalīn[^er-ör-or] atsēɫn?
-via zɪnt alət jans nɔmālə farʏktə.
-hām̩ alə n̩ fōɣl̩[^vogel], n̩ hʊnt ōda n̩ kāta.
-ʊf ābaɪt klɔtsn̩va mɛçtɪ ran
-dī, dī tsu ʃpēt kɔmm̩,
-rɛnn̩ dī, dī fryja jēn̩ fast ȳban haʊfn̩.
-aʊsa mia hām̩ hia āba nɔ jans andrə ia jaɪstjət ʊnvēzn̩ jetrīm̩[^getrieben].
-dāfya hat manzə ɪn ʃtaɪn jəhaʊn̩
-ʊnt ʃtʏkçənvaɪzə ʊf brʏkn̩ ʊ̄nt fɛadə fataɪl̩t.
-āba nɪç nua antīkə ʃtatūtn̩[^statuen] hām̩va.
-nē, ōx haʊfn̩vaɪzə turɪstn̩
-fɔn ȳbam[^überm] grōsn̩ taɪ̄ç ʊnt hɪntam[^hinterm] mōnt
-dan hām̩va nɔ aɪnjəlēçtə mūmjən aʊs ejʏptn̩,
-mɪtl̩aɫtalɪç rɛstaʊriatə kɪ̄çen
-ʊnt andrə - rɛstoraŋs.
-alə sāŋ̩, ɪkə ʊnt via hām̩ nə grōsə ʃnaʊtsə.
-mɛnʃ, dī braʊxŋ̩va dɔ ōx,
+tjā, vat zɔlɪk īn̩ fɔn[^von] bɛalīn[^er-ör-or] atsēɫn?  
+via zɪnt alət jans nɔmālə farʏktə.  
+hām̩ alə n̩ fōɣl̩[^vogel], n̩ hʊnt ōda n̩ kāta.  
+ʊf ābaɪt klɔtsn̩va mɛçtɪ ran  
+dī, dī tsu ʃpēt kɔmm̩,  
+rɛnn̩ dī, dī fryja jēn̩ fast ȳban haʊfn̩.  
+aʊsa mia hām̩ hia āba nɔ jans andrə ia jaɪstjət ʊnvēzn̩ jetrīm̩[^getrieben].  
+dāfya hat manzə ɪn ʃtaɪn jəhaʊn̩  
+ʊnt ʃtʏkçənvaɪzə ʊf brʏkn̩ ʊ̄nt fɛadə fataɪl̩t.  
+āba nɪç nua antīkə ʃtatūtn̩[^statuen] hām̩va.  
+nē, ōx haʊfn̩vaɪzə turɪstn̩  
+fɔn ȳbam[^überm] grōsn̩ taɪ̄ç ʊnt hɪntam[^hinterm] mōnt  
+dan hām̩va nɔ aɪnjəlēçtə mūmjən aʊs ejʏptn̩,  
+mɪtl̩aɫtalɪç rɛstaʊriatə kɪ̄çen  
+ʊnt andrə - rɛstoraŋs.  
+alə sāŋ̩, ɪkə ʊnt via hām̩ nə grōsə ʃnaʊtsə.  
+mɛnʃ, dī braʊxŋ̩va dɔ ōx,  
 ʃlīslɪç trāŋ̩va ʊnza grōsət hɛats ʊfda[^auf-der] tsʊŋə.
 
-hʊndat māl̩ hāp ɪk bɛalīn faflūxt,
-hʊndat māl̩ vaɪt vɛk maɪn glʏk jəzūxt,
-hʊndat māl̩ jəhɔɪɫt, dū maxst mɪç kraŋk,
-hʊndat māl̩ jəbētət, jɔt zaɪ daŋk,
-hʊndat māl̩ jəzāxt, mɪt dia ɪs ʃlʊs,
-hʊndat māl̩ kām ɪk fɔn dia nɪç lōs
-hʊndat bɪlən haʊn dā jē(k) nɪç hɪn[^unverständlich]
+hʊndat māl̩ hāp ɪk bɛalīn faflūxt,  
+hʊndat māl̩ vaɪt vɛk maɪn glʏk jəzūxt,  
+hʊndat māl̩ jəhɔɪɫt, dū maxst mɪç kraŋk,  
+hʊndat māl̩ jəbētət, jɔt zaɪ daŋk,  
+hʊndat māl̩ jəzāxt, mɪt dia ɪs ʃlʊs,  
+hʊndat māl̩ kām ɪk fɔn dia nɪç lōs  
+hʊndat bɪlən haʊn dā jē(k) nɪç hɪn[^unverständlich]  
 dɪt sɪtst tsū tīf, dɪt sɪtst hia drin
 
-dɪt nīdlɪçstə fɔn bɛalīn zɪnt dī jœan,
-vaɫzə zō jūt atsōŋ̩[^erzogen] zɪnt.
-āba dī aɪntsjən, dī dɪt nɪç glōm̩ zɪnt dī náxbān.
-dī hām̩ jā ōx mɛa n̩ hɛats fya ian razn̩.
-vat haɪst hia, bɛalīna jœan zɪnt frɛç vī rɔts?
-alət ʃpɪnə, ɛɪ[^ey].
-vɪ klēnə[^kleine] ɛŋl̩çən sɪtsn̩zə bɪs zɛndəʃlʊs fɔada[^vor-der] rø̄rə
-ɔpvōɫ papa ʊnt mama ʃōn lɛŋst ɪns bɛtt[^ins-bett] jəjaŋŋ̩ zɪnt.
-āba dɪt ʃønstə fɔn bɛalīn zɪnt via fraʊn̩.
-dɛa man, dɛa zō ēnə apkrɪçt kanzɪ gratulian.
-vɛnzət rɪçtɪ jūt mɪt īm maɪnt,
-lēptze aɪnfax[^einfach] lɛŋa aɫs vī ɛa.[^als-wie]
-dan bəzūxtzə īn fɔamɪtaxs mɪta[^mit-der] jīskanə ʊfm̩ frīthōf
-ʊnt nāxmɪtaxs ʃraɪptzə ʊf haɪrātsanɔŋsn̩
-fɔn wēŋ̩ via bɛalīnərɪnn̩ zɪnt ʃnɪpɪʃ, pə!
+dɪt nīdlɪçstə fɔn bɛalīn zɪnt dī jœan,  
+vaɫzə zō jūt atsōŋ̩[^erzogen] zɪnt.  
+āba dī aɪntsjən, dī dɪt nɪç glōm̩ zɪnt dī náxbān.  
+dī hām̩ jā ōx mɛa n̩ hɛats fya ian razn̩.  
+vat haɪst hia, bɛalīna jœan zɪnt frɛç vī rɔts?  
+alət ʃpɪnə, ɛɪ[^ey].  
+vɪ klēnə[^kleine] ɛŋl̩çən sɪtsn̩zə bɪs zɛndəʃlʊs fɔada[^vor-der] rø̄rə  
+ɔpvōɫ papa ʊnt mama ʃōn lɛŋst ɪns bɛtt[^ins-bett] jəjaŋŋ̩ zɪnt.  
+āba dɪt ʃønstə fɔn bɛalīn zɪnt via fraʊn̩.  
+dɛa man, dɛa zō ēnə apkrɪçt kanzɪ gratulian.  
+vɛnzət rɪçtɪ jūt mɪt īm maɪnt,  
+lēptze aɪnfax[^einfach] lɛŋa aɫs vī ɛa.[^als-wie]  
+dan bəzūxtzə īn fɔamɪtaxs mɪta[^mit-der] jīskanə ʊfm̩ frīthōf  
+ʊnt nāxmɪtaxs ʃraɪptzə ʊf haɪrātsanɔŋsn̩  
+fɔn wēŋ̩ via bɛalīnərɪnn̩ zɪnt ʃnɪpɪʃ, pə!  
 via kœnn̩ alət fatrāŋ̩, blōs kēnə vīdavɔ̄tə.
 
 hʊndat māl̩ ...
