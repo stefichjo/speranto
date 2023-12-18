@@ -4,7 +4,7 @@ Um die Aussprache des Deutschen greifbarer zu machen, werden im Folgenden drei R
 
 Es handelt sich bei dieser Unterteilung um eine sehr meinungsstarke Darstellung (vgl. [Nützliche Links](#nützliche-links) für andere Sichtweisen). Jede dieser Ausspracheregister kann **langsam**, **normal** oder **schnell** verwendet werden.[^register]
 
-[^register]: Schnelles Hochdeutsch und langsame Umgangssprache unterscheiden sich kaum, ebenso wie schnelle Umgangssprache und langsame Mundart.
+[^register]: Schnelles Hochdeutsch und langsame Umgangssprache unterscheiden sich kaum, ebenso wie schnelle Umgangssprache und langsame Mundart. Langsames Hochdeutsch ist vereinfacht gesagt **Bühnendeutsch**.
 
 ## Hochdeutsch
 
@@ -36,7 +36,9 @@ Im Hochdeutschen wird das *r* als Zäpfchen-*r* [ʁ] gesprochen, aber in der Ums
 |-|-|
 | [ro:t] | *rot* |
 
-[^bühnendeutsch]: Langsames Hochdeutsch mit Zungenspitzen-*r* [r]/[ɾ] ist **Bühnendeutsch**.
+[^bühnendeutsch]: Im Bühnendeutsch wird *r* als Zungenspitzen-*r* [r]/[ɾ] gesprochen.
+
+### Schwundlaut
 
 Im Hochdeutschen fällt der Schwundlaut *e* [ə] in *-el*, *-er*, *-em*, *-en* nach Möglichkeit aus und wird nur im langsamen Hochdeutsch gesprochen, und die verbleibunden *-l*, *-r*,[^el-er] *-m*, *-n*[^em-en] werden silbisch ausgesprochen. Silbisches *r* wird als Schwund-*a* [ɐ] realisiert.
 
@@ -49,7 +51,15 @@ Im Hochdeutschen fällt der Schwundlaut *e* [ə] in *-el*, *-er*, *-em*, *-en* n
 
 [^el-er]: Der Schwundlaut in *-el* und *-er* fällt vor weiterem Vokal nicht aus: *eitelen* [ˈaɪ̯tələn], *anderen* [ˈandərən] (standardsprachlich ist aber auch *andern* [ˈandərn] möglich), außer vor *-ig*: *eklig* [ˈe:klɪç] (standardsprachlich ist aber auch langsames *ekelig* [ˈe:kəlɪç] möglich), *wässrig* [ˈvεsrɪç]. Die Verbendung *-en* wird nach *-el* und *-er* zu *-n*: *wechseln* [ˈvεksl̩n], *ändern* [ˈεndɐn].
 
-[^em-en]: Der Schwundlaut in *-em* und *-en* fällt nach *l*, *r* und Vokal nicht aus: *fühlen* [ˈfy:lən], *spüren* [ˈʃpy:rən], *sehen* [ˈze:ən]. Der Schwundlaut in *-em* fällt auch nach *t* nicht aus: *Atem* [ˈa:təm]. Zwischen Nasalen fällt der Schwundlaut nicht aus: *kommen* [ˈkɔmən]. Silbisches *-n* [n̩] wird vor Vokal an den Verbstamm assimiliert: *zeichnen* [ˈtsaɪ̯çnən].
+Der Schwundlaut in *-em* und *-en* fällt nach langem Vokal erst im schnellen Hochdeutschen aus, ebenso der Schwundlaut in *-em* nach *t*.
+
+| Hochdeutsch | schnell | |
+|-|-|-|
+| [ˈze:ən]  | [ˈze:n̩]  | *sehen* |
+| | | |
+| [ˈa:təm]  | [ˈa:tm̩]  | *Atem* |
+
+[^em-en]: Der Schwundlaut in *-em* und *-en* fällt nach *l* und *r* nicht aus: *fühlen* [ˈfy:lən], *spüren* [ˈʃpy:rən]. Zwischen Nasalen fällt der Schwundlaut nicht aus: *kommen* [ˈkɔmən]. Silbisches *-n* [n̩] wird vor Vokal an den Verbstamm assimiliert: *zeichnen* [ˈtsaɪ̯çnən].
 
 Nach Vokal wird *r* als nicht-silbisches Schwund-*a* [ɐ̯] realisiert. Dies gilt für lange Vokale sowie für die kurzen Vokale der Vorsilben *er-* [ɛɐ̯], *ver-* [fɛɐ̯], *zer-* [tsɛɐ̯]. Nach kurzen Stammvokalen jedoch wird das *r* nur im schnellen Hochdeutsch vokalisiert.
 
@@ -85,6 +95,14 @@ In der Umgangssprache wird [a] wie [ɐ] gesprochen, so dass *Lader* wie *Lada* a
 |-|-|-|
 | [ˈvasɐ] | [ˈvɐsɐ] ≡ [ˈvasa] | *Wasser* |
 
+### Schwundlaut
+
+In der schnellen Umgangssprache fällt der Schwundlaut zwischen Nasalen aus.
+
+| Umgangssprache | schnell | |
+|-|-|-|
+| [ˈne:mən] | [ˈne:mn̩] | *nehmen* |
+
 ### Diphthongisierung
 
 In der Umgangssprache werden lange Vokale (außer [a:]) vor Vokal diphthongisiert, d.h. sie werden mit nicht-silbischem [ɪ̯] bzw. [ʊ̯] gesprochen.
@@ -102,17 +120,9 @@ In der Umgangssprache werden lange Vokale (außer [a:]) vor Vokal diphthongisier
 | [ˈfry:ɐ] | [ˈfryɪ̯a] | *früher* |
 | [ˈʃu:ə]  | [ˈʃuʊ̯ə]  | *Schuhe* |
 
-### -em, -en
-
-In der Umgangssprache werden *-em* und *-en* auch nach langem Vokal als silbische *-m* und *-n* gesprochen. In der schnellen Umgangssprache werden sie assimiliert.
-
-| Hochdeutsch | Umgangssprache | schnell | |
-|-|-|-|-|
-| [ˈze:ən] | [ze:n̩] | | [ze:n] | *Seen* |
-
 ### -l
 
-In der Umgangssprache wird Auslaut-*l* als eine Mischung aus [w] und [ə] gesprochen. Hier wird es als [ɫ] transkribiert.
+In der Umgangssprache wird Auslaut-*l* als eine Mischung aus [w] und [ə] gesprochen, als "*l*-Schwa. Hier wird es als [ɫ] transkribiert.
 
 | Hochdeutsch | Umgangssprache | |
 |-|-|-|
@@ -217,7 +227,7 @@ In der schnellen Umgangssprache wird an Stelle des Imperativs der Konjunktiv I v
 
 ## Mundart
 
-In der langsamen Mundart wird silbisch gesprochenes [n̩] angeglichen. In der normalen Mundart fällt der Stammauslaut dann nach langem Vokal aus, wenn der Stammauslaut ein stimmhafter Plosivlaut oder ein Nasal[^mundart-nasal] ist. In der schnellen Mundart wird das (evtl. angeglichene) [n̩] assimiliert.
+In der Mundart wird silbisch gesprochenes [n̩] angeglichen. In der normalen Mundart fällt der Stammauslaut nach langem Vokal aus, wenn der Stammauslaut ein stimmhafter Plosivlaut oder ein Nasal[^mundart-nasal] ist. In der schnellen Mundart wird das (evtl. angeglichene) [n̩] assimiliert.
 
 | Mundart | langsam | schnell | |
 |-|-|-|-|
@@ -225,9 +235,9 @@ In der langsamen Mundart wird silbisch gesprochenes [n̩] angeglichen. In der no
 | [ˈre:n̩] | [ˈre:dn̩] | [re:n] | *reden* |
 | [ˈza:ŋ̩] | [ˈza:gŋ̩] | [za:ŋ] | *sagen* |
 | | | | |
-| [ˈne:m̩] | [ˈne:mn̩] | [ne:m] | *nehmen* |
+| [ˈne:m̩] | [ˈne:mm̩] | [ne:m] | *nehmen* |
 
-[^mundart-nasal]: In der Mundart fällt der Schwundlaut auch zwischen Vokalen aus, sodass *nehmen* [ˈne:mən] zu langsam-mundartlichem *nehmen* [ˈne:mn̩] wird.
+[^mundart-nasal]: In der Mundart fällt der Schwundlaut auch zwischen Vokalen aus, sodass *nehmen* [ˈne:mən] zu langsam-mundartlichem *nehmen* [ˈne:mm̩] wird.
 
 Nach kurzem Vokal fällt der Nasal am Stammende nicht aus.
 
@@ -291,9 +301,9 @@ In der schnellen Mundart wird an Stelle der einfachen Vergangenheit die abgeschl
 
 Assimilierte *-em* und *-en* werden in übereutlicher Aussprache wie im langsamen Hochdeutsch mit Schwundlaut ausgesprochen.[^en]
 
-| Umgangssprache/Mundart (schnell) | Berlinerisch (überdeutlich) | |
+| Mundart (schnell) | Berlinerisch (überdeutlich) | |
 |-|-|-|
-| [ˈze:n] | [ˈzeɪ̯ən] | *sehen* |
+| [ˈze:n̩] | [ˈzeɪ̯ən] | *sehen* |
 
 [^en]: Dies führt zu hyperkorrekten Aussprachen wie *nein* [ˈnaɪ̯ən], quasi \**neihen*.
 
@@ -371,11 +381,11 @@ Im Sprechfluss können *ch* und Berlinerisches *g* am Wortende ausfallen.
 
 | Berlinerisch | |
 |-|-|
-| [dɔx] → [dɔ]     | *doch* → *do'* |
-| [nɔx] → [nɔ]     | *noch* → *no'* |
-| [o:x] → [o:]     | *ooch* → *oo'* |
+| [dɔx] → [dɔ] | *doch* → *do'* |
+| [nɔx] → [nɔ] | *noch* → *no'* |
+| [o:x] → [o:] | *ooch* → *oo'* |
 | | |
-| [nɪç] → [nɪ]     | *nich* → *ni'* |
+| [nɪç] → [nɪ]         | *nich* → *ni'* |
 | [ˈrɪçtɪç] → [ˈrɪçtɪ] | *richtig* → *richti'* |
 
 [^sch]: *richti'* [ˈrɪçtɪ] → *rüschti'* [ˈrʏʃtɪ] `Schlesisch? Sächsisch?` 
@@ -386,11 +396,11 @@ Im Sprechfluss können *ch* und Berlinerisches *g* am Wortende ausfallen.
 
 | Umgangssprache | Berlinerisch | |
 |-|-|-|
-| [ˈpfεfa] | [ˈfεfa] | *Pfeffer* → *Feffer* |
+| [ˈpfεfa]  | [ˈfεfa]  | *Pfeffer* → *Feffer* |
 | [ˈpfo:tə] | [ˈfo:tə] | *Pfote* → *Fote* |
 | | | |
 | [ˈapfl̩] | [ˈapl̩] | *Apfel* → *Appel* |
-| [kɔpf] | [kɔp] | *Kopf* → *Kopp* |
+| [kɔpf]  | [kɔp]  | *Kopf* → *Kopp* |
 
 ### ɪ ≡ ʏ
 
@@ -408,7 +418,7 @@ An Stelle von [əˈr] und [ɛˈr] wird [ar] gesprochen.
 | Umgangssprache | Berlinerisch | |
 |-|-|-|
 | [batəˈri:] | [bataˈri:] | *Batterie* |
-| [hɛˈrʊm] | [haˈrʊm] | *herum* |
+| [hɛˈrʊm]   | [haˈrʊm]   | *herum* |
 
 ### Monophthonge
 
@@ -519,13 +529,3 @@ Im Berlinerischen werden an Stelle von schwachen *mich* und *dich* die schwachen
 * [Duden, das Aussprachewörterbuch (2023)](https://www.google.de/books/edition/Duden_Das_Aussprachew%C3%B6rterbuch/ByrmEAAAQBAJ)
 * [Deutsch mit Benjamin (YouTube-Kanal)](https://www.youtube.com/@DeutschMitBenjamin)
 * [Beispiele](de-ekzemploj.md)
-
-## Übersichten
-
-| Hochdeutsch | Umgangssprache | Mundart | |
-|-|-|-|-|
-| [ˈha:bən] | | [ˈha:bm̩] | *langsam* |
-| [ˈha:bn̩]  | | [ˈha:m̩]  | *normal* |
-|           | | [ha:m]   | *schnell* |
-
-* ˈha:bən ˈha:bn̩ … … … … ˈha:bm̩ ˈha:m̩ ha:m
