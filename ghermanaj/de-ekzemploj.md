@@ -193,20 +193,20 @@ via kœnn̩ alət fatrāŋ̩, blōs kēnə vīdavɔ̄tə.
 
 hʊndat māl̩ ...
 
-āba dɪt jəmȳtlɪçstə fOn bɛalīn ɪs dɛa fakɛa,  
-vaL jēda -n fābā-n Untazats hat.  
-aLzo bɪs Uf dī, dī kē-n hā-m,  
-Unt dī zɪnt ɪm bərūfsfakɛa Sōn ɪma nə StUndə frȳja tsū haUzə,  
-vaLzə dī aUtos laUf-nt ȳbahōL-n.  
-aUtofāra zɪnt ɪn-n ō-ŋ[^augen] fOn aUtofāran alət idiōt-n, kamēlə Unt hOanOks-n.  
-nUa fOn-n vaɪs-n mOɪz-n vɛa-nzə bʏ̄ja bətīt-lt.  
-nā, zō nə nɛtɪçkaɪt lɛst man zɪç Sōn mā -n tsēna kOst-n.  
-dī maɪsta fOm zɪnt Unzrə taksifāra.  
-dɛshaLp vɛa-nzə zɛLt-n avɪSt,  
-vēda fOn-n radāfaL-n nOx fOn-n fājɛst-n.  
-mançə bəhaUpt-n, bɛalīna tɛmpo ɪs hɛktɪS.  
-alət kvatS.  
-naxts Um draɪ ɪs bɛalīn dɛa raɪnstə kUaɔ̄t.
+āba dɪt jəmȳtlɪçstə fɔn bɛalīn ɪs dɛa fakɛa,  
+vaL jēda n̩ fābān̩ ʊntazats hat.  
+aLzo bɪs ʊf dī, dī kēn̩ hām̩,  
+ʊnt dī zɪnt ɪm bərūfsfakɛa ʃōn ɪma nə ʃtʊndə frȳja tsū haʊzə,  
+vaLzə dī aʊtos laʊfn̩t ȳbahōLn̩.  
+aʊtofāra zɪnt ɪnn̩ ōŋ̩[^augen] fɔn aʊtofāran alət idiōtn̩, kamēlə ʊnt hɔanɔksn̩.  
+nʊa fɔnn̩ vaɪsn̩ mɔɪzn̩ vɛan̩zə bʏ̄ja bətītl̩t.  
+nā, zō nə nɛtɪçkaɪt lɛst man zɪç ʃōn mā n̩ tsēna kɔstn̩.  
+dī maɪsta fɔm zɪnt ʊnzrə taksifāra.  
+dɛshaLp vɛan̩zə zɛLtn̩ avɪʃt,  
+vēda fɔnn̩ radāfaLn̩ nɔx fɔnn̩ fājɛstn̩.  
+mançə bəhaʊptn̩, bɛalīna tɛmpo ɪs hɛktɪʃ.  
+alət kvatʃ.  
+naxts ʊm draɪ ɪs bɛalīn dɛa raɪnstə kʊaɔ̄t.
 
 hʊndat māl̩ ...
 
