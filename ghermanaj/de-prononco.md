@@ -379,9 +379,9 @@ Im Sprechfluss können *ch* und Berlinerisches *g* am Wortende ausfallen.
 | [o:x] → [o:] | *ooch* → *oo'* |
 | | |
 | [nɪç] → [nɪ]         | *nich* → *ni'* |
-| [ˈrɪçtɪç] → [ˈrɪçtɪ] | *richtig* → *richti'* |
+| [ˈrɪçtɪç] → [ˈrɪçtɪ] | *richtig* → *richti'*[^sächsisch] |
 
-[^sch]: *richti'* [ˈrɪçtɪ] → *rüschti'* [ˈrʏʃtɪ] `Schlesisch? Sächsisch?` 
+[^sächsisch]: Theoriefindung: Die Vermischung von [ç] und [ʃ] sowie von [ɪ] und [ʏ] kommt aus dem Sächsischen und erlaubt die extra entspannte Aussprache *rüschti'* [ˈrʏʃtɪ].
 
 ### pf → f/pp
 
@@ -397,12 +397,11 @@ Im Sprechfluss können *ch* und Berlinerisches *g* am Wortende ausfallen.
 
 ### ɪ ≡ ʏ
 
-In Längungen und vor manchen Konsonanten wie *sch* [ʃ] wird [ɪ] zu [ʏ].
+Das gelängte *i* [ɪ:] wird zu [ʏ:].
 
 | Umgangssprache | Berlinerisch | |
 |-|-|-|
 | [vɪ:t] | [vʏ:t] | *wird* ≡ *würd* |
-| [tɪʃ]  | [tʏʃ]  | *Tisch* ≡ *Tüsch* |
 
 ### ə ≡ a
 
@@ -535,7 +534,7 @@ Eine Haltestelle kann ohne Präposition erwähnt werden.[^lokativ]
 |-|-|
 | *Ick muss Alex raus.* |
 
-[^lokativ]: Dieser "Lokativ" ist eigentlich ein Akkusativ und kommt wahrscheinlich von Sätzen wie: *Ick muss nächste raus.* Hier kann *nächste (Haltestelle)* durch *Alex(anderplatz)* ersetzt werden. Auf ähnliche Weise würde man im Hochdeutschen sagen: *Ich muss nächste Woche arbeiten.*
+[^lokativ]: Dieser "Lokativ" ist eigentlich ein Akkusativ und kommt wahrscheinlich von Sätzen wie: *Ick muss nächste raus.* Hier kann *nächste (Haltestelle)* durch *Alex(anderplatz)* ersetzt werden. Auf ähnliche Weise würde man im Hochdeutschen sagen: *Ich muss nächste Woche arbeiten.* Dieser Akkusativ ersetzt den Dativ auch bei Präpositionen, die eigentlich eine Position angeben in Sätzen wie: *Ick sitze vorde Glotze.* Hier handelt es sich um eine handfeste Verwechslung von Dativ und Akkusativ, also um einen "Akkudativ".
 
 ## Deutlichkeit
 
@@ -607,7 +606,7 @@ Assimilierte *-em* und *-en* werden in überdeutlicher Aussprache mit Schwundlau
 |-|-|-|
 | [ˈze:n̩] | [ˈzeɪ̯ən] | *sehen* |
 
-[^en]: Dies führt zu hyperkorrekten Aussprachen wie *nein* [ˈnaɪ̯ən], quasi \**neihen*.
+[^en]: Diese Überdeutlichkeit kann zu hyperkorrekten Aussprachen wie *nein* [ˈnaɪ̯ən] führen, quasi \**neihen*.
 
 Im Berlinerischen werden an Stelle von schwachen *mich* und *dich* die schwachen Formen für *mir* und *dir* verwendet, nämlich *-ma* und *-da*. Im deutlichen Berlinerisch können die grammatikalisch korrekten Formen *-mi'* und *-di'* verwendet werden.[^akkudativ]
 
