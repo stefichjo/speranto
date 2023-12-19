@@ -194,26 +194,24 @@ via kœnn̩ alət fatrāŋ̩, blōs kēnə vīdavɔ̄tə.
 hʊndat māl̩ ...
 
 āba dɪt jəmȳtlɪçstə fɔn bɛalīn ɪs dɛa fakɛa,  
-vaL jēda n̩ fābān̩ ʊntazats hat.  
-aLzo bɪs ʊf dī, dī kēn̩ hām̩,  
+vaɫ jēda n̩ fābān̩ ʊntazats hat.  
+aɫzo bɪs ʊf dī, dī kēn̩ hām̩,  
 ʊnt dī zɪnt ɪm bərūfsfakɛa ʃōn ɪma nə ʃtʊndə frȳja tsū haʊzə,  
-vaLzə dī aʊtos laʊfn̩t ȳbahōLn̩.  
+vaɫzə dī aʊtos laʊfn̩t ȳbahōl̩n.  
 aʊtofāra zɪnt ɪnn̩ ōŋ̩[^augen] fɔn aʊtofāran alət idiōtn̩, kamēlə ʊnt hɔanɔksn̩.  
 nʊa fɔnn̩ vaɪsn̩ mɔɪzn̩ vɛan̩zə bʏ̄ja bətītl̩t.  
 nā, zō nə nɛtɪçkaɪt lɛst man zɪç ʃōn mā n̩ tsēna kɔstn̩.  
 dī maɪsta fɔm zɪnt ʊnzrə taksifāra.  
-dɛshaLp vɛan̩zə zɛLtn̩ avɪʃt,  
-vēda fɔnn̩ radāfaLn̩ nɔx fɔnn̩ fājɛstn̩.  
+dɛshaɫp vɛan̩zə zɛɫtn̩ avɪʃt,  
+vēda fɔnn̩ radāfaɫn̩ nɔx fɔnn̩ fājɛstn̩.  
 mançə bəhaʊptn̩, bɛalīna tɛmpo ɪs hɛktɪʃ.  
 alət kvatʃ.  
-naxts ʊm draɪ ɪs bɛalīn dɛa raɪnstə kʊaɔ̄t.
+naxts ʊm draɪ ɪs bɛalīn dɛa raɪnstə kuaɔ̄t.
 
 hʊndat māl̩ ...
 
 <!-- n̩m̩ŋ̩l̩ɫ ɣʃ ˈ -->
 <!-- āɛ̄ɪ̄ɔ̄ʊ̄ œ̄ʏ̄ ø̄ȳ -->
-<!-- -->
-
 
 [^er-ör-or]: Hahnemann verwendet in *er*, *ör*, *or* geschlossene Vokale und sagt *Berlin* [bea̯ˈli:n], *Gören* [jøa̯n], *vor* [foa̯] statt *Berlin* [bεa̯ˈli:n], *Gören* [jœa̯n], *vor* [fɔa̯].
 
@@ -243,4 +241,8 @@ hʊndat māl̩ ...
 
 [^augen]: Gesprochen wird überdeutliches *Oog-en* [ˈo:ɣən] statt [ˈo:ŋ̩].
 
+### Redensarten
+
+Kommen-Se rin, (da) können-Se rauskieken.  
+[kɔmm̩zə rɪn, (dā) kœnn̩zə raʊskīkŋ.]
 

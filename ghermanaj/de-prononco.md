@@ -2,54 +2,40 @@
 
 Um die Aussprache des Deutschen greifbarer zu machen, werden im Folgenden drei Register unterschieden: Hochdeutsch, Umgangssprache und Mundart.
 
-Es handelt sich bei dieser Unterteilung um eine sehr meinungsstarke Darstellung (vgl. [Nützliche Links](#nützliche-links) für andere Sichtweisen). Jede dieser Ausspracheregister kann **langsam**, **normal** oder **schnell** verwendet werden.[^register]
+Es handelt sich bei dieser Unterteilung um eine sehr meinungsstarke Darstellung (vgl. [Nützliche Links](#nützliche-links) für andere Sichtweisen). Jede dieser Ausspracheregister kann zusätzlich **schnell** oder **deutlich** verwendet werden.[^register]
 
-[^register]: Schnelles Hochdeutsch und langsame Umgangssprache unterscheiden sich kaum, ebenso wie schnelle Umgangssprache und langsame Mundart. Langsames Hochdeutsch ist vereinfacht gesagt **Bühnendeutsch**.
+[^register]: Schnelles Hochdeutsch und deutliche Umgangssprache unterscheiden sich kaum, ebenso wie schnelle Umgangssprache und deutliche Mundart.
 
 ## Hochdeutsch
 
-Die Endung *-e* in lateinisch-griechischen Wörtern wird im langsamen Hochdeutsch [e] gesprochen.
+### äu/eu
 
-| Hochdeutsch | langsam | |
+Der Diphthong *äu/eu* wird mit nicht-silbischem [ʏ̯] gesprochen. Im schnellen Hochdeutsch wird er mit [ɪ̯] gesprochen.
+
+| Hochdeutsch | schnell | |
 |-|-|-|
-| [ˈpsy:çə] | [ˈpsy:çe] | *Psyche* |
-
-### Diphthonge
-
-Der Diphthong *au* wird mit nicht-silbischem [ʊ̯] gesprochen. Im langsamen Hochdeutsch wird [o̯] gesprochen.
-
-| Hochdeutsch | langsam | |
-|-|-|-|
-| [baʊ̯x] | [bao̯x] | *Bauch* |
-
-Der Diphthong *äu/eu* wird mit nicht-silbischem [ʏ̯] gesprochen. Im langsamen Hochdeutsch wird [ø̆] gesprochen, im schnellen Hochdeutsch [ɪ̯].
-
-| Hochdeutsch | langsam | schnell | |
-|-|-|-|-|
-| [ˈbɔʏ̯çə] | [ˈbɔø̆çə] | [ˈbɔɪ̯çə] | *Bäuche* |
+| [ˈbɔʏ̯çə] | [ˈbɔɪ̯çə] | *Bäuche* |
 
 ### r ≡ ʁ/ɐ
 
-Im Hochdeutschen wird das *r* als Zäpfchen-*r* [ʁ] gesprochen, aber in der Umschrift als "[r]" geschrieben.[^bühnendeutsch]
+Im Hochdeutschen wird das *r* als Zäpfchen-*r* [ʁ] gesprochen, aber in der Umschrift als "[r]" geschrieben.
 
 | Hochdeutsch | |
 |-|-|
 | [ro:t] | *rot* |
 
-[^bühnendeutsch]: Im Bühnendeutsch wird *r* als Zungenspitzen-*r* [r]/[ɾ] gesprochen.
-
 ### Schwundlaut
 
-Im Hochdeutschen fällt der Schwundlaut *e* [ə] in *-el*, *-er*, *-em*, *-en* nach Möglichkeit aus und wird nur im langsamen Hochdeutsch gesprochen, und die verbleibunden *-l*, *-r*,[^el-er] *-m*, *-n*[^em-en] werden silbisch ausgesprochen. Silbisches *r* wird als Schwund-*a* [ɐ] realisiert.
+Im Hochdeutschen fällt der Schwundlaut *e* [ə] in *-el*, *-er*, *-em*, *-en* nach Möglichkeit aus, und die verbleibunden *-l*, *-r*,[^el-er] *-m*, *-n*[^em-en] werden silbisch ausgesprochen. Silbisches *r* wird als Schwund-*a* [ɐ] realisiert.
 
-| Hochdeutsch | langsam | |
-|-|-|-|
-| [ˈhɪml̩]  | [ˈhɪməl]  | *Himmel* |
-| [ˈbɛsɐ]  | [ˈbɛsəʁ]  | *besser* |
-| [ˈkɔxm̩]  | [ˈkɔxəm]  | *Cochem* |
-| [ˈre:dn̩] | [ˈre:dən] | *reden* |
+| Hochdeutsch | |
+|-|-|
+| [ˈhɪml̩]  | *Himmel* |
+| [ˈbɛsɐ]  | *besser* |
+| [ˈkɔxm̩]  | *Cochem* |
+| [ˈre:dn̩] | *reden* |
 
-[^el-er]: Der Schwundlaut in *-el* und *-er* fällt vor weiterem Vokal nicht aus: *eitelen* [ˈaɪ̯tələn], *anderen* [ˈandərən] (standardsprachlich ist aber auch *andern* [ˈandərn] möglich), außer vor *-ig*: *eklig* [ˈe:klɪç] (standardsprachlich ist aber auch langsames *ekelig* [ˈe:kəlɪç] möglich), *wässrig* [ˈvεsrɪç]. Die Verbendung *-en* wird nach *-el* und *-er* zu *-n*: *wechseln* [ˈvεksl̩n], *ändern* [ˈεndɐn].
+[^el-er]: Der Schwundlaut in *-el* und *-er* fällt vor weiterem Vokal nicht aus: *eitelen* [ˈaɪ̯tələn], *anderen* [ˈandərən] (standardsprachlich ist aber auch *andern* [ˈandərn] möglich), außer vor *-ig*: *eklig* [ˈe:klɪç] (standardsprachlich ist aber auch deutliches *ekelig* [ˈe:kəlɪç] möglich), *wässrig* [ˈvεsrɪç]. Die Verbendung *-en* wird nach *-el* und *-er* zu *-n*: *wechseln* [ˈvεksl̩n], *ändern* [ˈεndɐn].
 
 Der Schwundlaut in *-em* und *-en* fällt nach langem Vokal erst im schnellen Hochdeutschen aus, ebenso der Schwundlaut in *-em* nach *t*.
 
@@ -105,7 +91,7 @@ In der schnellen Umgangssprache fällt der Schwundlaut zwischen Nasalen aus.
 
 ### Diphthongisierung
 
-In der Umgangssprache werden lange Vokale (außer [a:]) vor Vokal diphthongisiert, d.h. sie werden mit nicht-silbischem [ɪ̯] bzw. [ʊ̯] gesprochen.
+In der Umgangssprache werden lange Vokale (außer [a:][^a-diphthong]) vor Vokal diphthongisiert, d.h. sie werden mit nicht-silbischem [ɪ̯] bzw. [ʊ̯] gesprochen.
 
 | Hochdeutsch | Umgangssprache | |
 |-|-|-|
@@ -120,9 +106,11 @@ In der Umgangssprache werden lange Vokale (außer [a:]) vor Vokal diphthongisier
 | [ˈfry:ɐ] | [ˈfryɪ̯a] | *früher* |
 | [ˈʃu:ə]  | [ˈʃuʊ̯ə]  | *Schuhe* |
 
+[^a-diphthong]: Die Diphthonge [aɪ̯] und [aʊ̯] gibt es ja bereits.
+
 ### -l
 
-In der Umgangssprache wird Auslaut-*l* als eine Mischung aus [w] und [ə] gesprochen, als "*l*-Schwa. Hier wird es als [ɫ] transkribiert.
+In der Umgangssprache wird Auslaut-*l* als eine Mischung aus [w] und [ə] gesprochen, als "*l*-Schwa". Hier wird es als [ɫ] transkribiert.
 
 | Hochdeutsch | Umgangssprache | |
 |-|-|-|
@@ -227,17 +215,17 @@ In der schnellen Umgangssprache wird an Stelle des Imperativs der Konjunktiv I v
 
 ## Mundart
 
-In der Mundart wird silbisch gesprochenes [n̩] angeglichen. In der normalen Mundart fällt der Stammauslaut nach langem Vokal aus, wenn der Stammauslaut ein stimmhafter Plosivlaut oder ein Nasal[^mundart-nasal] ist. In der schnellen Mundart wird das (evtl. angeglichene) [n̩] assimiliert.
+In der Mundart wird silbisch gesprochenes [n̩] (evtl.) angeglichen. Hierbei fällt der Stammauslaut nach langem Vokal aus, wenn der Stammauslaut ein stimmhafter Plosivlaut oder ein Nasal[^mundart-nasal] ist. In der schnellen Mundart wird das (evtl. angeglichene) [n̩] assimiliert.
 
-| Mundart | langsam | schnell | |
-|-|-|-|-|
-| [ˈha:m̩] | [ˈha:bm̩] | [ha:m] | *haben* |
-| [ˈre:n̩] | [ˈre:dn̩] | [re:n] | *reden* |
-| [ˈza:ŋ̩] | [ˈza:gŋ̩] | [za:ŋ] | *sagen* |
-| | | | |
-| [ˈne:m̩] | [ˈne:mm̩] | [ne:m] | *nehmen* |
+| Mundart | schnell | |
+|-|-|-|
+| [ˈha:m̩] | [ha:m] | *haben* |
+| [ˈre:n̩] | [re:n] | *reden* |
+| [ˈza:ŋ̩] | [za:ŋ] | *sagen* |
+| | | |
+| [ˈne:m̩] | [ne:m] | *nehmen* |
 
-[^mundart-nasal]: In der Mundart fällt der Schwundlaut auch zwischen Vokalen aus, sodass *nehmen* [ˈne:mən] zu langsam-mundartlichem *nehmen* [ˈne:mm̩] wird.
+[^mundart-nasal]: In der Mundart fällt der Schwundlaut auch zwischen Nasalen aus.
 
 Nach kurzem Vokal fällt der Nasal am Stammende nicht aus.
 
@@ -261,7 +249,6 @@ In der Mundart werden eigene Abkürzungen vorgenommen.[^das]
 | [das]    | [dɪs]  | *das* → *dis* |
 | [ɪst]    | [ɪs]   | *ist* → *is'* |
 | [jɛtst]  | [jɛts] | *jetzt* → *jetz'* |
-| [ma:l]   | [ma:]  | *mal* → *ma'* |
 | [nɪçt]   | [nɪç]  | *nicht* → *nich'* |
 | | | |
 | [aɪ̯n]    | [n̩]    | *ein* → *'n*   |
@@ -270,19 +257,14 @@ In der Mundart werden eigene Abkürzungen vorgenommen.[^das]
 
 [^das]: In der Mundart wird zwischen *dass* und *das* unterschieden, da *das* zu *dis* wird, während *dass* unverändert bleibt.
 
-| Mundart | langsam | |
-|-|-|-|
-| [n̩] | [nən] | *'n* → *'nen*[^nen] |
-| [m̩] | [nəm] | *'m* → *'nem* |
-
-[^nen]: Oft wird in der Mundart hyperkorrekt *'nen* statt *'n* oder *ein* gesagt.
-
-In der Mundart werden unbetonte Personalpronomen im Sprechfluss in ihrer schwachen Form verwendet.
+In der Mundart werden unbetonte Personalpronomen im Sprechfluss in ihrer schwachen Form verwendet. Ebenso wird *mal* zu *ma'* mit kurzem *a* [a].
 
 | Umgangssprache | Mundart | |
 |-|-|-|
 | [hat ɛa̯] | [ˈhata] | *hat er* → *hat-er* |
 | [ɪst zi:] | [ˈɪsə] | *ist sie* → *is-se* |
+| | | |
+| [hast du: ma:l] | [ˈhastəma] | *hast du mal* → *hast-de-ma* ≡ *haste ma'* |
 
 ### Grammatik
 
@@ -296,22 +278,6 @@ In der schnellen Mundart wird an Stelle der einfachen Vergangenheit die abgeschl
 | *dis war schön* | *dis war schön gewesen* |
 
 ## Berlinerisch
-
-### Überdeutlichkeit
-
-Assimilierte *-em* und *-en* werden in übereutlicher Aussprache wie im langsamen Hochdeutsch mit Schwundlaut ausgesprochen.[^en]
-
-| Mundart (schnell) | Berlinerisch (überdeutlich) | |
-|-|-|-|
-| [ˈze:n̩] | [ˈzeɪ̯ən] | *sehen* |
-
-[^en]: Dies führt zu hyperkorrekten Aussprachen wie *nein* [ˈnaɪ̯ən], quasi \**neihen*.
-
-Zur Hervorhebung kann nach Konsonant die Endung *-e* verwendet werden.
-
-| Berlinerisch | |
-|-|-|
-| [ˈɪkə] | *eben ich* → *icke* |
 
 ### s ≡ t
 
@@ -342,9 +308,17 @@ Im schnellen Berlinerischen wird jedes [ts] zu [s] verkürzt.
 
 Zwischen *n* und Konsonant fällt *d* aus.
 
-| Berlinerisch | langsam | schnell | |
-|-|-|-|-|
-| [ˈfɪnn̩] | [ˈfɪndn̩] | [fɪn] | *finden* |
+| Berlinerisch | schnell | |
+|-|-|-|
+| [ˈfɪnn̩] | [fɪn] | *finden* |
+
+### tm ≡ pm
+
+Auslaut-*t* und silbisches *m* wird als *pm* realisiert.
+
+| Berlinerisch | |
+|-|-|
+| [ˈmɪpm̩] | *mit dem* → *mittm* ≡ *mippm* |
 
 ### g ≡ g/j/ɣ/ç/x
 
@@ -402,6 +376,14 @@ Im Sprechfluss können *ch* und Berlinerisches *g* am Wortende ausfallen.
 | [ˈapfl̩] | [ˈapl̩] | *Apfel* → *Appel* |
 | [kɔpf]  | [kɔp]  | *Kopf* → *Kopp* |
 
+### nf ≡ mf
+
+*nf* wird zu *mf*.
+
+| Berlinerisch | |
+|-|-|
+| [fʏmf] | *fünf* ≡ *fümf* |
+
 ### ɪ ≡ ʏ
 
 In Längungen und vor manchen Konsonanten wie *sch* [ʃ] wird [ɪ] zu [ʏ].
@@ -441,8 +423,8 @@ Im Falle von *meinen* ("eine Meinung haben") und *meinen* → *meenen* ("den von
 
 | Umgangssprache | Berlinerisch | |
 |-|-|-|
-| [maɪ̯n] | [me:n] | *mein* → *meen* (von mir) |
-| [maɪ̯n] | [maɪ̯n] | *mein* (habe die Meinung) |
+| [ˈmaɪ̯nə] | [ˈme:nə] | *meine* → *meene* (von mir) |
+| [ˈmaɪ̯nə] | [ˈmaɪ̯nə] | *meine* (habe die Meinung) |
 
 #### i
 
@@ -478,8 +460,10 @@ In wenigen Fällen ist das urgermanische *u* erhalten geblieben.
 | [ˈkʊkŋ̩]     | [ˈki:kŋ̩]     | *gucken* → *kieken* |
 | [ɪç]        | [ɪk]         | *ich* → *ick* |
 | [ʊnt]       | [ʊn]         | *und* → *un'* |
+| [ˈfi:lə]    | [ˈfɪlə]      | *viele* → *ville* |
+| [fiˈlaiçt]  | [fɪˈlaiçt]   | *vielleicht* → *villeicht* |
 | [vɛk]       | [vɛk]        | *weg* → *weck*[^weg] |
-| [vaɪ̯l]      | [val]        | *weil* → *wall* |
+| [vaɪ̯l̩]      | [vaɫ]        | *weil* → *wall* |
 
 [^weg]: Sonst wäre *weg* [vɛç] zu erwarten gewesen.
 
@@ -515,13 +499,98 @@ Das hochdeutsche schwache *es* (*'s*) kann auch im schnellen Berlinerischen an S
 
 ### Grammatik
 
-Im Berlinerischen werden an Stelle von schwachen *mich* und *dich* die schwachen Formen für *mir* und *dir* verwendet, nämlich *-ma* und *-da*. Im langsamen Berlinerisch können die grammatikalisch korrekten Formen *-mi'* und *-di'* verwendet werden.[^akkudativ]
+Zur Hervorhebung kann nach Konsonant die Endung *-e* verwendet werden.
 
-| Berlinerisch | langsam | |
+| Berlinerisch | |
+|-|-|
+| [ˈɪkə]   | *eben ich* → *icke* |
+| [ˈjεtsə] | *genau jetzt* → *jetze* |
+
+Statt *solche* (Plural) wird *so 'ne* gesagt (quasi *so eine*).
+
+| Berlinerisch | |
+|-|-|
+| [zo: nə ˈzaxŋ̩] | *solche Sachen* → *so 'ne Sachen* |
+
+## Deutlichkeit
+
+### Deutliches Hochdeutsch[^bühnendeutsch]
+
+Die Endung *-e* in lateinisch-griechischen Wörtern wird im deutlichen Hochdeutsch [e] gesprochen.
+
+| Hochdeutsch | deutlich | |
+|-|-|-|
+| [ˈpsy:çə] | [ˈpsy:çe] | *Psyche* |
+
+[^bühnendeutsch]: Deutliches Hochdeutsch ist, vereinfacht gesagt, **Bühnendeutsch**. Im Bühnendeutsch wird das *r* als Zungenspitzen-*r* [r]/[ɾ] gesprochen.
+
+Im deutlichen Hochdeutsch wird *au* mit [o̯] gesprochen, und *äu/eu* mit [ø̆].
+
+| Hochdeutsch | deutlich | |
+|-|-|-|
+| [baʊ̯x]   | [bao̯x]   | *Bauch* |
+| [ˈbɔʏ̯çə] | [ˈbɔø̆çə] | *Bäuche* |
+
+Der Schwundlaut in *-el*, *-er*, *-em*, *-en* fällt im deutlichen Hochdeutsch nicht aus.
+
+| Hochdeutsch | deutlich | |
+|-|-|-|
+| [ˈhɪml̩]  | [ˈhɪməl]  | *Himmel* |
+| [ˈbɛsɐ]  | [ˈbɛsəʁ]  | *besser* |
+| [ˈkɔxm̩]  | [ˈkɔxəm]  | *Cochem* |
+| [ˈre:dn̩] | [ˈre:dən] | *reden* |
+
+### Deutliche Umgangssprache
+
+In der deutlichen Umgangssprache wird *l* stets [l] ausgesprochen, wie im Hochdeutschen. Dementsprechend fällt ein Schwundlaut nach *l*-Auslaut nicht aus.
+
+| Umgangssprache | deutlich | |
+|-|-|-|
+| [ˈkvɪ:l̩]  | [kvɪ:l]    | *Quirl* |
+| [ˈkvɪ:l̩n] | [ˈkvɪ:lən] | *quirlen* |
+
+### Deutliche Mundart
+
+In der deutlichen Mundart fällt der Stammauslaut vor *-em* und *-en* nicht aus.
+
+| Mundart | deutlich | |
+|-|-|-|
+| [ˈha:m̩] | [ˈha:bm̩] | *haben* |
+| [ˈre:n̩] | [ˈre:dn̩] | *reden* |
+| [ˈza:ŋ̩] | [ˈza:gŋ̩] | *sagen* |
+| | | |
+| [ˈne:m̩] | [ˈne:mm̩] | *nehmen* |
+
+Oft wird in der deutlichen Mundart hyperkorrekt *'nen* statt *'n* oder *ein* gesagt.
+
+| Mundart | deutlich | |
+|-|-|-|
+| [n̩] | [nən] | *'n* → *'nen*[^nen] |
+| [m̩] | [nəm] | *'m* → *'nem* |
+
+### Deutliches Berlinerisch
+
+Im deutlichen Berlinerisch fällt *d* zwischen Konsonanten nicht aus.
+
+| Berlinerisch | deutlich | |
+|-|-|-|
+| [ˈfɪnn̩] | [ˈfɪndn̩] | *finden* |
+
+Assimilierte *-em* und *-en* werden in überdeutlicher Aussprache mit Schwundlaut ausgesprochen.[^en]
+
+| Mundart (schnell) | Berlinerisch (überdeutlich) | |
+|-|-|-|
+| [ˈze:n̩] | [ˈzeɪ̯ən] | *sehen* |
+
+[^en]: Dies führt zu hyperkorrekten Aussprachen wie *nein* [ˈnaɪ̯ən], quasi \**neihen*.
+
+Im Berlinerischen werden an Stelle von schwachen *mich* und *dich* die schwachen Formen für *mir* und *dir* verwendet, nämlich *-ma* und *-da*. Im deutlichen Berlinerisch können die grammatikalisch korrekten Formen *-mi'* und *-di'* verwendet werden.[^akkudativ]
+
+| Berlinerisch | deutlich | |
 |-|-|-|
 | [faˈfatsda] | [faˈfatsdɪ] | *verfatz-da* → *verfatz-di'* |
 
-[^akkudativ]: Wird diese Vertauschung von Akkusativ und Dativ überdeutlich gemacht, entsteht der sogenannte "Akkudativ": *ick wundre mir*.
+[^akkudativ]: Oft wird aber hyperkorrekt *mir* und *dir* gesagt: *ick wundre mir*. Man spricht dann vom "Akkudativ".
 
 ## Nützliche Links
 
