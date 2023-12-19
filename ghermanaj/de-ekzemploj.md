@@ -171,7 +171,7 @@ hʊndat māl̩ jəhɔɪl̩t, dū maxst mɪç kraŋk,
 hʊndat māl̩ jəbētət, jɔt zaɪ daŋk,  
 hʊndat māl̩ jəzāxt, mɪt dia ɪs ʃlʊs,  
 hʊndat māl̩ kām ɪk fɔn dia nɪç lōs  
-hʊndat bɪlən haʊn dā jē(k) nɪç hɪn[^unverständlich]  
+hʊndat bɪlən haʊt aɪn jē nɪç hɪn[^unverständlich]  
 dɪt sɪtst tsū tīf, dɪt sɪtst hia drin
 
 dɪt nīdlɪçstə fɔn bɛalīn zɪnt dī jœan,  
@@ -201,7 +201,7 @@ vaɫzə dī aʊtos laʊfn̩t ȳbahōl̩n.
 aʊtofāra zɪnt ɪnn̩ ōŋ̩[^augen] fɔn aʊtofāran alət idiōtn̩, kamēlə ʊnt hɔanɔksn̩.  
 nʊa fɔnn̩ vaɪsn̩ mɔɪzn̩ vɛan̩zə bʏ̄ja bətītl̩t.  
 nā, zō nə nɛtɪçkaɪt lɛst man zɪç ʃōn mā n̩ tsēna kɔstn̩.  
-dī maɪsta fɔm zɪnt ʊnzrə taksifāra.  
+dī maɪsta fɔm jāspedāl̩ zɪnt ʊnzrə taksifāra.  
 dɛshaɫp vɛan̩zə zɛɫtn̩ avɪʃt,  
 vēda fɔnn̩ radāfaɫn̩ nɔx fɔnn̩ fājɛstn̩.  
 mançə bəhaʊptn̩, bɛalīna tɛmpo ɪs hɛktɪʃ.  
@@ -225,7 +225,7 @@ hʊndat māl̩ ...
 
 [^überm]: Gesprochen wird *übern*, *hintern*, *uffde*, *vorde*, *mit die*, *inne Oogen von Autofahrer*, *vonne*, *von Jaspedal* im Akkudativ.
 
-[^unverständlich]: Unverständlich.
+[^unverständlich]: "Hundert billen haut ein je nich hin" (?)
 
 [^erzogen]: Gesprochen wird überdeutliches *erzog-en* [aˈtso:ɣən] statt [aˈtso:ŋ̩].
 
