@@ -16,13 +16,13 @@ Der Diphthong *äu/eu* wird mit nicht-silbischem [ʏ̯] gesprochen. Im schnellen
 |-|-|-|
 | [ˈbɔʏ̯çə] | [ˈbɔɪ̯çə] | *Bäuche* |
 
-### r ≡ ʁ/ɐ
+### ʁ/ɐ ≡ r
 
 Im Hochdeutschen wird das *r* als Zäpfchen-*r* [ʁ] gesprochen, aber in der Umschrift als "[r]" geschrieben.
 
 | Hochdeutsch | |
 |-|-|
-| [ro:t] | *rot* |
+| [ʁo:t] ≡ [ro:t] | *rot* |
 
 ### Schwundlaut
 
@@ -71,7 +71,7 @@ In der Umgangssprache wird langes *ä* [ɛ:] wie langes *e* [e:] gesprochen.
 
 | Hochdeutsch | Umgangssprache | |
 |-|-|-|
-| [ʃpɛ:t] | [ʃpe:t] | *spät* |
+| [ʃpɛ:t] | [ʃpe:t] | *spät* ≡ *spet* |
 
 ### a ≡ ɐ
 
@@ -79,7 +79,7 @@ In der Umgangssprache wird [a] wie [ɐ] gesprochen, so dass *Lader* wie *Lada* a
 
 | Hochdeutsch | Umgangssprache | |
 |-|-|-|
-| [ˈvasɐ] | [ˈvɐsɐ] ≡ [ˈvasa] | *Wasser* |
+| [ˈvasɐ] | [ˈvɐsɐ] ≡ [ˈvasa] | *Wasser* ≡ *Wassa* |
 
 ### Schwundlaut
 
@@ -268,6 +268,12 @@ In der Mundart werden unbetonte Personalpronomen im Sprechfluss in ihrer schwach
 
 ### Grammatik
 
+In der Mundart wird *brauchen* als Hilfsverb verwendet. Dann wird *(er/sie/es) braucht* zu *brauch*.
+
+| Umgangssprache | Mundart |
+|-|-|
+| *das braucht sie nicht zu tun* | *das brauch sie nich' tun* |
+
 In der schnellen Mundart wird an Stelle der einfachen Vergangenheit die abgeschlossene Gegenwart mit *haben* bzw. die abgeschlossene Vergangenheit mit *sein* verwendet.
 
 | Mundart | schnell |
@@ -279,7 +285,7 @@ In der schnellen Mundart wird an Stelle der einfachen Vergangenheit die abgeschl
 
 ## Berlinerisch
 
-### s ≡ t
+### s → t
 
 Die Endung *-es* bzw. der Auslaut *-s* für sächliche Adjektive und Pronomen ist *-et* bzw. *-t*.
 
@@ -290,7 +296,7 @@ Die Endung *-es* bzw. der Auslaut *-s* für sächliche Adjektive und Pronomen is
 | [das] | [dat] | *dass* → *dat* |
 | [ɛs] | [ɛt] | *es* → *et* |
 
-### ts ≡ s
+### ts → s
 
 Nach Konsonant fällt [t] in [ts] im Berlinerischen aus.
 
@@ -304,7 +310,7 @@ Im schnellen Berlinerischen wird jedes [ts] zu [s] verkürzt.
 |-|-|-|
 | [tsu:] | [su:] | *zu*  |
 
-### nd ≡ n
+### nd → n
 
 Zwischen *n* und Konsonant fällt *d* aus.
 
@@ -312,7 +318,7 @@ Zwischen *n* und Konsonant fällt *d* aus.
 |-|-|-|
 | [ˈfɪnn̩] | [fɪn] | *finden* |
 
-### tm ≡ pm
+### tm → pm
 
 Auslaut-*t* und silbisches *m* wird als *pm* realisiert.
 
@@ -320,13 +326,13 @@ Auslaut-*t* und silbisches *m* wird als *pm* realisiert.
 |-|-|
 | [ˈmɪpm̩] | *mit dem* → *mittm* ≡ *mippm* |
 
-### g ≡ g/j/ɣ/ç/x
+### g → j/r/ch
 
 Das Berlinerische *g* wird als [j] oder [ɣ] realisiert. Am Wortende oder vor stimmlosem Konsonanten wird Berlinerisches *g* wie *ch* als [ç] oder [x] realisiert.[^j] Am Wortanfang wird *g* vor Vokal als [j] gesprochen.[^gn-gl-gr]
 
 | Berlinerisch | |
 |-|-|
-| [ˈfra:ɣə] | *Frage* ≡ *Fraghe* |
+| [ˈfra:ɣə] | *Frage* ≡ *Fraghe* ≡ *Frare* |
 | [fra:xt]  | *fragt* ≡ *fracht* |
 | | |
 | [ˈfli:je] | *Fliege* ≡ *Flieje* |
@@ -364,7 +370,7 @@ Im Sprechfluss können *ch* und Berlinerisches *g* am Wortende ausfallen.
 
 [^sch]: *richti'* [ˈrɪçtɪ] → *rüschti'* [ˈrʏʃtɪ] `Schlesisch? Sächsisch?` 
 
-### pf ≡ f/pp
+### pf → f/pp
 
 *pf* wird zu *f* (vor Vokal) oder *pp* (nach Vokal).
 
@@ -383,6 +389,7 @@ Im Sprechfluss können *ch* und Berlinerisches *g* am Wortende ausfallen.
 | Berlinerisch | |
 |-|-|
 | [fʏmf] | *fünf* ≡ *fümf* |
+| [ˈtsu:kumft] | *Zukunft* ≡ *Zukumft* |
 
 ### ɪ ≡ ʏ
 
@@ -390,8 +397,8 @@ In Längungen und vor manchen Konsonanten wie *sch* [ʃ] wird [ɪ] zu [ʏ].
 
 | Umgangssprache | Berlinerisch | |
 |-|-|-|
-| [vɪ:t] | [vʏ:t] | *wird* → *würd* |
-| [tɪʃ]  | [tʏʃ]  | *Tisch* → *Tüsch* |
+| [vɪ:t] | [vʏ:t] | *wird* ≡ *würd* |
+| [tɪʃ]  | [tʏʃ]  | *Tisch* ≡ *Tüsch* |
 
 ### ə ≡ a
 
@@ -399,12 +406,12 @@ An Stelle von [əˈr] und [ɛˈr] wird [ar] gesprochen.
 
 | Umgangssprache | Berlinerisch | |
 |-|-|-|
-| [batəˈri:] | [bataˈri:] | *Batterie* |
-| [hɛˈrʊm]   | [haˈrʊm]   | *herum* |
+| [batəˈri:] | [bataˈri:] | *Batterie* ≡ *Battarie* |
+| [hɛˈrʊm]   | [haˈrʊm]   | *herum* ≡ *harum* |
 
 ### Monophthonge
 
-#### ai ≡ ee
+#### ai → ee
 
 Urgermanisches **ai* kann im Berlinerischen durch *ee* widergegeben werden.
 
@@ -434,7 +441,7 @@ In wenigen Fällen ist das urgermanische *i* erhalten geblieben.
 |-|-|-|
 | [raɪ̯n] | [rɪ̯n] | *rein* → *rin* (herein) |
 
-#### au ≡ oo
+#### au → oo
 
 Urgermanisches **au* kann im Berlinerischen durch *oo* widergegeben werden.
 
@@ -511,6 +518,20 @@ Statt *solche* (Plural) wird *so 'ne* gesagt (quasi *so eine*).
 | Berlinerisch | |
 |-|-|
 | [zo: nə ˈzaxŋ̩] | *solche Sachen* → *so 'ne Sachen* |
+
+*haben* + *sitzen*/*stehen*/*liegen* wird im Berlinerischen mit *zu* gebildet.
+
+| Berlinerisch | |
+|-|-|
+| *Ick hab 'n Buch ufm Tisch zu liegen.* |
+
+Eine Haltestelle kann ohne Präposition erwähnt werden.[^lokativ]
+
+| Berlinerisch | |
+|-|-|
+| *Ick muss Alex raus.* |
+
+[^lokativ]: Dieser "Lokativ" ist eigentlich ein Akkusativ und kommt wahrscheinlich von: *Ick muss nächste (Haltestelle) raus.* Auf ähnliche Weise würde man im Hochdeutschen sagen: *Ich muss nächste Woche arbeiten.*
 
 ## Deutlichkeit
 
