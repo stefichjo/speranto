@@ -531,7 +531,7 @@ Eine Haltestelle kann ohne Präposition erwähnt werden.[^lokativ]
 |-|-|
 | *Ick muss Alex raus.* |
 
-[^lokativ]: Dieser "Lokativ" ist eigentlich ein Akkusativ und kommt wahrscheinlich von: *Ick muss nächste (Haltestelle) raus.* Auf ähnliche Weise würde man im Hochdeutschen sagen: *Ich muss nächste Woche arbeiten.*
+[^lokativ]: Dieser "Lokativ" ist eigentlich ein Akkusativ und kommt wahrscheinlich von Sätzen wie: *Ick muss nächste raus.* Hier kann *nächste (Haltestelle)* durch *Alex(anderplatz)* ersetzt werden. Auf ähnliche Weise würde man im Hochdeutschen sagen: *Ich muss nächste Woche arbeiten.*
 
 ## Deutlichkeit
 
