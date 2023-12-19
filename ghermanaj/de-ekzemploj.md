@@ -198,7 +198,7 @@ vaɫ jēda n̩ fābān̩ ʊntazats hat.
 aɫzo bɪs ʊf dī, dī kēn̩ hām̩,  
 ʊnt dī zɪnt ɪm bərūfsfakɛa ʃōn ɪma nə ʃtʊndə frȳja tsū haʊzə,  
 vaɫzə dī aʊtos laʊfn̩t ȳbahōl̩n.  
-aʊtofāra zɪnt ɪnn̩ ōŋ̩[^augen] fɔn aʊtofāran alət idiōtn̩, kamēlə ʊnt hɔanɔksn̩.  
+aʊtofāra zɪnt ɪnn̩ ōŋ̩[^augen] fɔn aʊtofāran alət idiōtn̩, kamēlə ʊnt hɔ̄nɔksn̩.  
 nʊa fɔnn̩ vaɪsn̩ mɔɪzn̩ vɛan̩zə bʏ̄ja bətītl̩t.  
 nā, zō nə nɛtɪçkaɪt lɛst man zɪç ʃōn mā n̩ tsēna kɔstn̩.  
 dī maɪsta fɔm jāspedāl̩ zɪnt ʊnzrə taksifāra.  

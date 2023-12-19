@@ -54,6 +54,12 @@ Nach Vokal wird *r* als nicht-silbisches Schwund-*a* [ɐ̯] realisiert. Dies gil
 | [gɛrn] | [gɛɐ̯n] | *gern* |
 | [vɪrt] | [vɪɐ̯t] | *wird* |
 
+Langer Vokal wird vor *r* im schnellen Hochdeutsch gekürzt.
+
+| Hochdeutsch | schnell | |
+|-|-|-|
+| [ze:ɐ̯] | [zeɐ̯] | *sehr* |
+
 Im Hochdeutschen werden *erd* und *ert*, nicht aber *ärd* und *ärt*, mit langem *er* [e:ɐ̯] gesprochen. Im schnellen Hochdeutsch wird in beiden Fällen [ɛɐ̯] gesprochen, sodass sich *werter* [ˈve:ɐ̯tɐ] und *Wärter* [ˈvɛrtɐ] reimen.[^erst]
 
 | Hochdeutsch | schnell | |
@@ -240,6 +246,13 @@ In der Mundart fällt der Schwundlaut [ə] in *-el* und *-er* aus, auch wenn ein
 | [ˈandərə] | [ˈandrə] | *andere* → *andre* |
 | [ˈaɪ̯tələ] | [ˈaɪ̯tlə] | *eitele* → *eitle* |
 
+*nf* wird zu *mf*.
+
+| Mundart | |
+|-|-|
+| [fʏmf]       | *fünf* ≡ *fümf* |
+| [ˈtsu:kumft] | *Zukunft* ≡ *Zukumft* |
+
 ### Vokabular
 
 In der Mundart werden eigene Abkürzungen vorgenommen.[^das]
@@ -381,15 +394,6 @@ Im Sprechfluss können *ch* und Berlinerisches *g* am Wortende ausfallen.
 | | | |
 | [ˈapfl̩] | [ˈapl̩] | *Apfel* → *Appel* |
 | [kɔpf]  | [kɔp]  | *Kopf* → *Kopp* |
-
-### nf ≡ mf
-
-*nf* wird zu *mf*.
-
-| Berlinerisch | |
-|-|-|
-| [fʏmf] | *fünf* ≡ *fümf* |
-| [ˈtsu:kumft] | *Zukunft* ≡ *Zukumft* |
 
 ### ɪ ≡ ʏ
 
