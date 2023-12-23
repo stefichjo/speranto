@@ -6,6 +6,25 @@ Es handelt sich bei dieser Unterteilung um eine sehr meinungsstarke Darstellung 
 
 [^register]: Schnelles Hochdeutsch und deutliche Umgangssprache unterscheiden sich kaum, ebenso wie schnelle Umgangssprache und deutliche Mundart.
 
+<!--
+Klammern [] // entfernen
+`` verwenden?
+-->
+
+<!--
+vielleicht doch umgangssprache und mundart mergen?
+-->
+
+<!--
+weeng die Hitze
+allgemeiner Akkudativ
+mit die Gießkanne
+Auch "das/der" ist interessant. Wie sieht's hier aus? vorn Fernseher
+vort Jereet?
+in Bett
+vonne - ist das auch akkudativ? was ist mit "in bett"? und männliche substantive/artikel+präposition?
+-->
+
 ## Hochdeutsch
 
 ### äu/eu
@@ -47,37 +66,40 @@ Der Schwundlaut in *-em* und *-en* fällt nach langem Vokal erst im schnellen Ho
 
 [^em-en]: Der Schwundlaut in *-em* und *-en* fällt nach *l* und *r* nicht aus: *fühlen* [ˈfy:lən], *spüren* [ˈʃpy:rən]. Zwischen Nasalen fällt der Schwundlaut nicht aus: *kommen* [ˈkɔmən]. Silbisches *-n* [n̩] wird vor Vokal an den Verbstamm assimiliert: *zeichnen* [ˈtsaɪ̯çnən].
 
-Nach Vokal wird *r* als nicht-silbisches Schwund-*a* [ɐ̯] realisiert. Dies gilt für lange Vokale sowie für die kurzen Vokale der Vorsilben *er-* [ɛɐ̯], *ver-* [fɛɐ̯], *zer-* [tsɛɐ̯]. Nach kurzen Stammvokalen jedoch wird das *r* nur im schnellen Hochdeutsch vokalisiert.
+### Rhotizität
+
+Nach Vokal wird *r* als nicht-silbisches Schwund-*a* [ɐ̯] realisiert. Dies gilt für lange Vokale sowie für die kurzen Vokale der Vorsilben *er-* [ɛɐ̯], *ver-* [fɛɐ̯], *zer-* [tsɛɐ̯]. Nach kurzen Stammvokalen jedoch wird das *r* als Zäpfchen-*r* gesprochen. Im schnellen Hochdeutsch jedoch wird es vokalisiert.
 
 | Hochdeutsch | schnell | |
 |-|-|-|
 | [gɛrn] | [gɛɐ̯n] | *gern* |
 | [vɪrt] | [vɪɐ̯t] | *wird* |
 
-Langer Vokal wird vor *r* im schnellen Hochdeutsch gekürzt.
+Im Hochdeutschen werden *erd* und *ert*, nicht aber *ärd* und *ärt*, mit langem *er* [e:ɐ̯] gesprochen, sodass sich *werter* [ˈve:ɐ̯tɐ] nicht auf *Wärter* [ˈvɛrtɐ] reimt.[^erst]
+
+| Hochdeutsch | |
+|-|-|
+| [ˈve:ɐ̯tɐ] | *werter* |
+| [ˈvɛrtɐ]  | *Wärter* |
+
+[^erst]: Die Wörter *erst* und *Erz* werden im Hochdeutschen mit langem *er* gesprochen, da sie von *eh* [e:] abgeleitet sind. Daher reimen sich *ersten* [e:ɐ̯stn̩] nicht auf *bersten* [bɛrstn̩].
+
+Im schnellen Hochdeutsch wird ein langer Vokal vor *r* gekürzt.
 
 | Hochdeutsch | schnell | |
 |-|-|-|
 | [ze:ɐ̯] | [zeɐ̯] | *sehr* |
-
-Im Hochdeutschen werden *erd* und *ert*, nicht aber *ärd* und *ärt*, mit langem *er* [e:ɐ̯] gesprochen. Im schnellen Hochdeutsch wird in beiden Fällen [ɛɐ̯] gesprochen, sodass sich *werter* [ˈve:ɐ̯tɐ] und *Wärter* [ˈvɛrtɐ] reimen.[^erst]
-
-| Hochdeutsch | schnell | |
-|-|-|-|
-| [ˈve:ɐ̯tɐ] | [ˈvɛɐ̯tɐ] | *werter* |
-| [ˈvɛrtɐ]  | [ˈvɛɐ̯tɐ] | *Wärter* |
-
-[^erst]: Die Wörter *erst* und *Erz* werden im Hochdeutschen mit langem *er* gesprochen, da sie von *eh* [e:] abgeleitet sind. Im schnellen Hochdeutsch wird [ɛɐ̯] gesprochen, sodass sich *ersten* und *bersten* reimen: [(b)ɛɐ̯stn̩].
+| [bɛ:ɐ̯] | [bɛɐ̯] | *Bär* |
 
 ## Umgangssprache
 
 ### ä ≡ e
 
-In der Umgangssprache wird langes *ä* [ɛ:] wie langes *e* [e:] gesprochen.
+Während bereits im Hochdeutschen kurzes *ä* [ɛ] wie kurzes *e* [ɛ] gesprochen wird, wird in der Umgangssprache auch langes *ä* wie langes *e* [e:] gesprochen.
 
 | Hochdeutsch | Umgangssprache | |
 |-|-|-|
-| [ʃpɛ:t] | [ʃpe:t] | *spät* ≡ *spet* |
+| [ʃpɛ:t] | [ʃpe:t] | *spät* ≡ *speet* |
 
 ### a ≡ ɐ
 
@@ -122,7 +144,7 @@ In der Umgangssprache wird Auslaut-*l* als eine Mischung aus [w] und [ə] gespro
 |-|-|-|
 | [kalt] | [kaɫt] | *kalt* |
 
-In der Umgangssprache wird Auslaut-*l* nach langem Vokal silibisch gesprochen.
+In der Umgangssprache wird Auslaut-*l* nach langem Vokal silbisch gesprochen.
 
 | Hochdeutsch | Umgangssprache | |
 |-|-|-|
@@ -136,7 +158,7 @@ Durch die Vokalisierung bzw. silbische Sprechung von *l* als [ɫ] bzw. [l̩] fä
 | [ˈfy:lən] | [ˈfy:l̩n] | *fühlen* |
 | [ˈfʏlən]  | [ˈfʏɫn̩]  | *füllen* |
 
-### -r
+### Rhotizität
 
 In der Umgangssprache wird ein kurzer Vokal vor *r* gelängt, ohne die Vokalqualität zu verändern, sodass *fort* wie englisches *fought* [fɔ:t] ausgesprochen wird.
 
@@ -151,39 +173,41 @@ In der Umgangssprache wird ein kurzer Vokal vor *r* gelängt, ohne die Vokalqual
 | [ˈvʏrdə] | [ˈvʏ:də] | *würde* |
 | [ˈvʊrdə] | [ˈvʊ:də] | *wurde* |
 
-Lange Vokale werden vor *r* gekürzt, wobei [e:], [o:] und [ø:] zu [ɛ], [ɔ] und [œ] werden.
+Nachdem lange Vokale vor *r* im Hochdeutschen gekürzt werden, werden [eɐ̯], [øɐ̯] und [oɐ̯] in der Umgangssprache zu [ɛa̯], [œa̯] und [ɔa̯] geöffnet.
+
+| Hochdeutsch | schnell | Umgangssprache | |
+|-|-|-|-|
+| [ve:ɐ̯]     | [veɐ̯]     | [vɛa̯]     | *wer* |
+| [vɛ:ɐ̯]     | [vɛɐ̯]     | [vɛa̯]     | *wär'* |
+| [ˈrø:ɐ̯çən] | [ˈrøɐ̯çən] | [ˈrœa̯çən] | *Röhrchen* |
+| [ro:ɐ̯]     | [roɐ̯]     | [rɔa̯]     | *Rohr* |
 
 | Hochdeutsch | Umgangssprache | |
 |-|-|-|
-| [ve:ɐ̯]     | [vɛa̯]     | *wer* |
-| [vɛ:ɐ̯]     | [vɛa̯]     | *wär'* |
-| [ˈrø:ɐ̯çən] | [ˈrœa̯çən] | *Röhrchen* |
-| [ro:ɐ̯]     | [rɔa̯]     | *Rohr* |
-| | | |
 | [ti:ɐ̯] | [tia̯] | *Tier* |
 | [ty:ɐ̯] | [tya̯] | *Tür* |
 | [tu:ɐ̯] | [tua̯] | *Tour* |
 
-Kurzes *ä/e* [ɛ] vor *r* wird nicht zu \*[ɛ:] gelängt, sondern verhält sich wie langes *ä/e* [e:] vor *r*, das wieder zu [ɛ] gekürzt wird. Mit anderen Worten, kurzes *ä/e* [ɛ] vor *r* klingt genau wie im schnellen Hochdeutsch.
+In der Umgangssprache verhält sich kurzes *är/er* wie langes *är/er*.
 
-| Hochdeutsch (schnell) | Umgangssprache | |
-|-|-|-|
-| [ˈvɛɐ̯tɐ] | [ˈvɛa̯ta] | *werter* |
-| [ˈvɛɐ̯tɐ] | [ˈvɛa̯ta] | *Wärter* |
+| Hochdeutsch | schnell | Umgangssprache | |
+|-|-|-|-|
+| [ˈve:ɐ̯tɐ] | [ˈveɐ̯ta] | [ˈvɛa̯ta] | *werter* |
+| [ˈvɛrtɐ]  | [ˈvɛɐ̯ta] | [ˈvɛa̯ta] | *Wärter* |
 
 Der Schwundlaut in *-em* und *-en* fällt nach Auslaut-*r* aus.[^konjunktiv]
 
 | Hochdeutsch | Umgangssprache | |
 |-|-|-|
-| [ˈhø:rən] | [ˈhœa̯n] | *hören* |
+| [ˈhø:rən] | [hœa̯n] | *hören* |
 
 [^konjunktiv]: Der Schwundlaut der Verbendungen des Konjunktiv I fallen nicht aus: *(dass wir) hören* [ˈhø:rən]. Der Konjunktiv I wird jedoch - abgesehen von einigen Floskeln und *hätte*, *wäre* und *würde* - praktisch nur im Hochdeutschen verwendet.
 
 Kurzes/gekürztes *a* [a] verschmilzt mit nicht-silbischem [a̯] zu langem [a:], sodass *dar* und *da* nicht mehr voneinander zu unterscheiden sind: [da:].[^dar]
 
-| Hochdeutsch | Umgangssprache | |
-|-|-|-|
-| [va:ɐ̯] | [va:] | *wahr* |
+| Hochdeutsch | schnell | Umgangssprache | |
+|-|-|-|-|
+| [va:ɐ̯] | [vaɐ̯] | [va:] | *wahr* |
 
 [^dar]: Tatsächlich handelt es sich bei *da* und *dar* um dasselbe Wort, was bei Zusammensetzungen wie *daraus* und *darin* (*da(r)* + *in* und *da(r)* + *aus*) noch erkennbar ist. Laut [Duden, das Aussprachewörterbuch (2023)](https://www.google.de/books/edition/Duden_Das_Aussprachew%C3%B6rterbuch/ByrmEAAAQBAJ) wird bereits (im Hochdeutschen) [a:] statt [a:ɐ̯] gesprochen.
 
@@ -566,12 +590,7 @@ Der Schwundlaut in *-el*, *-er*, *-em*, *-en* fällt im deutlichen Hochdeutsch n
 
 ### Deutliche Umgangssprache
 
-In der deutlichen Umgangssprache wird *l* stets [l] ausgesprochen, wie im Hochdeutschen. Dementsprechend fällt ein Schwundlaut nach *l*-Auslaut nicht aus.
-
-| Umgangssprache | deutlich | |
-|-|-|-|
-| [ˈkvɪ:l̩]  | [kvɪ:l]    | *Quirl* |
-| [ˈkvɪ:l̩n] | [ˈkvɪ:lən] | *quirlen* |
+Deutliche Umgangssprache ist identisch mit schnellem Hochdeutsch, bis auf die fehlende Unterscheidung von langem *ä* und langem *e*, sowie von *a* und *-er*.
 
 ### Deutliche Mundart
 
@@ -622,3 +641,25 @@ Im Berlinerischen werden an Stelle von schwachen *mich* und *dich* die schwachen
 * [Duden, das Aussprachewörterbuch (2023)](https://www.google.de/books/edition/Duden_Das_Aussprachew%C3%B6rterbuch/ByrmEAAAQBAJ)
 * [Deutsch mit Benjamin (YouTube-Kanal)](https://www.youtube.com/@DeutschMitBenjamin)
 * [Beispiele](de-ekzemploj.md)
+
+<!--
+i:R i:A iA    y:R y:A yA    u:R u:A uA
+ia            ya            ua
+
+IR  IR  IA    YR  YR  YA    UR  UR  UA
+Ia  I:        Ya  Y:        Ua  U:
+
+e:R e:A eA    ø:R ø:A øA    o:R o:A oA
+ea  Ea        øa  œa        oa  Oa
+
+ER  Er  EA    œR  œr  œA    OR  Or  OA
+              œa  œ:        Oa  O:
+
+E:R E:A EA
+
+a:R a:A aA
+a:
+
+aR  ar  aA
+a:
+-->
