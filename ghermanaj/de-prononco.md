@@ -245,6 +245,17 @@ In der schnellen Umgangssprache wird an Stelle des Imperativs der Konjunktiv I v
 
 ## Mundart
 
+<!--
+
+ha:bn ha:bm ha:m (berlinerisch: há:m (einsilbig))
+ne:mən ne:mm ne:m (berlinerisch: né:m (einsilbig))
+faŋən faŋŋ - (berlinerisch: faŋ)
+
+andere andre -
+
+fünf fümf -
+-->
+
 In der Mundart wird silbisch gesprochenes [n̩] (evtl.) angeglichen. Hierbei fällt der Stammauslaut nach langem Vokal aus, wenn der Stammauslaut ein stimmhafter Plosivlaut oder ein Nasal[^mundart-nasal] ist. In der schnellen Mundart wird das (evtl. angeglichene) [n̩] assimiliert.
 
 | Mundart | schnell | |
@@ -495,7 +506,7 @@ In wenigen Fällen ist das urgermanische *u* erhalten geblieben.
 | [ɪç]        | [ɪk]         | *ich* → *ick* |
 | [ʊnt]       | [ʊn]         | *und* → *un'* |
 | [ˈfi:lə]    | [ˈfɪlə]      | *viele* → *ville* |
-| [fiˈlaiçt]  | [fɪˈlaiçt]   | *vielleicht* → *villeicht* |
+| [fiˈlaɪ̯çt]  | [fɪˈlaɪ̯çt]   | *vielleicht* → *villeicht* |
 | [vɛk]       | [vɛk]        | *weg* → *weck*[^weg] |
 | [vaɪ̯l̩]      | [vaɫ]        | *weil* → *wall* |
 
@@ -590,7 +601,19 @@ Der Schwundlaut in *-el*, *-er*, *-em*, *-en* fällt im deutlichen Hochdeutsch n
 
 ### Deutliche Umgangssprache
 
-Deutliche Umgangssprache ist identisch mit schnellem Hochdeutsch, bis auf die fehlende Unterscheidung von langem *ä* und langem *e*, sowie von *a* und *-er*.
+Deutliche Umgangssprache ist identisch mit schnellem Hochdeutsch, bis auf die fehlende Unterscheidung von langem *ä* und langem *e* ...
+
+| Hochdeutsch (schnell) | Umgangssprache (deutlich) | |
+|-|-|-|
+| [veɐ̯] | [vea̯] | *wer* |
+| [vɛɐ̯] | [vea̯] | *wär'* |
+
+... sowie von *a* und vokalisiertem *r*. Letzteres hat zur Folge, dass kurzes (oder gekürztes) *ar* in der Umgangssprache kein Diphthong mehr ist, sondern ein langer Vokal. Diese Monophtongierung geschieht bei allen kurzen Vokale (außer *e*/*ä*) vor *r*.
+
+| Hochdeutsch (schnell) | Umgangssprache (deutlich) | |
+|-|-|-|
+| [klaɐ̯] | [kla:] | *klar* |
+| [klɪɐ̯] | [klɪ:] | *klirr* |
 
 ### Deutliche Mundart
 
@@ -647,13 +670,13 @@ i:R i:A iA    y:R y:A yA    u:R u:A uA
 ia            ya            ua
 
 IR  IR  IA    YR  YR  YA    UR  UR  UA
-Ia  I:        Ya  Y:        Ua  U:
+I:            Y:            U:
 
 e:R e:A eA    ø:R ø:A øA    o:R o:A oA
 ea  Ea        øa  œa        oa  Oa
 
 ER  Er  EA    œR  œr  œA    OR  Or  OA
-              œa  œ:        Oa  O:
+              œ:            O:
 
 E:R E:A EA
 
