@@ -2,11 +2,11 @@
 
 Um die Aussprache des Deutschen greifbarer zu machen, werden im Folgenden drei Register unterschieden: Hochdeutsch, Umgangssprache und Berlinerisch[^berlinerisch].
 
-[^berlinerisch]: Anstelle von Berlinerisch könnte man auch andere Mundarten nennen. Da Berlinerisch zusammen mit Hochdeutsch und Umgangssprche meine Muttersprache ist, ist die Mundart meiner Wahl Berlinerisch.
+[^berlinerisch]: Anstelle von Berlinerisch könnte man auch andere Mundarten nennen. Da ich Berlinerisch zusammen mit deutscher Umgangssprache und Hochdeutsch als Muttersprache betrachte, ist die Mundart meiner Wahl Berlinerisch.
 
 Es handelt sich bei dieser Unterteilung um eine sehr meinungsstarke Darstellung (vgl. [Nützliche Links](#nützliche-links) für andere Sichtweisen). Jede dieser Ausspracheregister kann zusätzlich **schnell** oder **deutlich** verwendet werden.[^register]
 
-[^register]: Schnelles Hochdeutsch und deutliche Umgangssprache unterscheiden sich kaum, ebenso wie schnelle Umgangssprache und deutliche Berlinerisch.
+[^register]: Schnelles Hochdeutsch und deutliche Umgangssprache unterscheiden sich kaum, ebenso wie schnelle Umgangssprache und deutliches Berlinerisch.
 
 <!--
 Klammern [] // entfernen
@@ -54,15 +54,7 @@ Im Hochdeutschen fällt der Schwundlaut *e* [ə] in *-el*, *-er*, *-em*, *-en* n
 
 [^el-er]: Der Schwundlaut in *-el* und *-er* fällt vor weiterem Vokal nicht aus: *eitelen* [ˈaɪ̯tələn], *anderen* [ˈandərən] (standardsprachlich ist aber auch *andern* [ˈandərn] möglich), außer vor *-ig*: *eklig* [ˈe:klɪç] (standardsprachlich ist aber auch deutliches *ekelig* [ˈe:kəlɪç] möglich), *wässrig* [ˈvεsrɪç]. Die Verbendung *-en* wird nach *-el* und *-er* zu *-n*: *wechseln* [ˈvεksl̩n], *ändern* [ˈεndɐn].
 
-Der Schwundlaut in *-em* und *-en* fällt nach langem Vokal erst im schnellen Hochdeutschen aus, ebenso der Schwundlaut in *-em* nach *t*.
-
-| Hochdeutsch | schnell | |
-|-|-|-|
-| [ˈze:ən]  | [ˈze:n̩]  | *sehen* |
-| | | |
-| [ˈa:təm]  | [ˈa:tm̩]  | *Atem* |
-
-[^em-en]: Der Schwundlaut in *-em* und *-en* fällt nach *l* und *r* nicht aus: *fühlen* [ˈfy:lən], *spüren* [ˈʃpy:rən]. Zwischen Nasalen fällt der Schwundlaut nicht aus: *kommen* [ˈkɔmən]. Silbisches *-n* [n̩] wird vor Vokal an den Verbstamm assimiliert: *zeichnen* [ˈtsaɪ̯çnən].
+[^em-en]: Der Schwundlaut in *-em* und *-en* fällt nach *l* und *r* nicht aus: *fühlen* [ˈfy:lən], *spüren* [ˈʃpy:rən]. Zwischen Nasalen fällt der Schwundlaut nicht aus: *kommen* [ˈkɔmən]. Nach *t* fällt der Schwundlaut in *-em* nicht aus: *Atem* [ˈa:təm]. Silbisches *-n* [n̩] wird vor Vokal an den Verbstamm assimiliert: *zeichnen* [ˈtsaɪ̯çnən].
 
 ### Rhotizität
 
@@ -126,13 +118,13 @@ In der Umgangssprache werden lange Vokale (außer [a:][^a-diphthong]) vor Vokal 
 
 ### Lamdatizität
 
-In der Umgangssprache wird Auslaut-*l* als eine Mischung aus [w] und [ə] gesprochen, als "*l*-Schwa". Hier wird es als [ɫ] transkribiert.
+In der Umgangssprache wird Auslaut-*l* als eine Mischung aus [w] und [ə] gesprochen, als "Schwund-*l*". Hier wird es als [ɫ] transkribiert.
 
 | Hochdeutsch | Umgangssprache | |
 |-|-|-|
 | [kalt] | [kaɫt] | *kalt* |
 
-In der Umgangssprache wird Auslaut-*l* nach langem Vokal silbisch gesprochen. In der schnellen Umgangssprache wird "*l*-Schwa* gesprochen.
+In der Umgangssprache wird Auslaut-*l* nach langem Vokal silbisch gesprochen. In der schnellen Umgangssprache wird "Schwund-*l*" gesprochen.
 
 | Hochdeutsch | Umgangssprache | schnell | |
 |-|-|-|-|
@@ -193,7 +185,7 @@ Die Vorsilben *er-*, *ver-* und *zer-* werden in der Umgangssprache wie die Nach
 
 ### Schwundlaut
 
-In der Umgangssprache fällt der Schwundlaut in *-em* und *-en* nach *l*-Auslaut und *r*-Auslaut aus.
+In der Umgangssprache fällt der Schwundlaut in *-em* und *-en* nach *l*-Auslaut und *r*-Auslaut aus.[^konjunktiv] [^atem]
 
 | Hochdeutsch | Umgangssprache | |
 |-|-|-|
@@ -204,6 +196,8 @@ In der Umgangssprache fällt der Schwundlaut in *-em* und *-en* nach *l*-Auslaut
 | [ˈi:rən] | [ia̯n] | *ihren* |
 
 [^konjunktiv]: Der Schwundlaut der Verbendungen des Konjunktiv I fallen nicht aus: *(dass wir) hören* [ˈhø:rən]. Der Konjunktiv I wird jedoch - abgesehen von Hilfsverben wie *hätte*, *wäre* und *würde* - praktisch nur im Hochdeutschen verwendet.
+
+[^atem]: Der Schwundlaut in *-em* fällt in der Umgangssprache nach *t* aus: *Atem* [ˈa:tm̩].
 
 In der schnellen Umgangssprache fällt der Schwundlaut [ə] in *-el* und *-er* aus, auch wenn ein weiterer Vokal folgt.
 
@@ -527,7 +521,7 @@ Zur Hervorhebung kann nach Konsonant die Endung *-e* verwendet werden.
 | [ˈɪkə]   | *eben ich* → *icke* |
 | [ˈjεtsə] | *genau jetzt* → *jetze* |
 
-Statt *solche* (Plural) wird *so 'ne* gesagt (quasi *so eine*).
+Statt *solche* (Plural) wird *so 'ne* gesagt (quasi \**so eine*).
 
 | Berlinerisch | |
 |-|-|
