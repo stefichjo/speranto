@@ -12,10 +12,6 @@ Klammern [] // entfernen
 -->
 
 <!--
-vielleicht doch umgangssprache und mundart mergen?
--->
-
-<!--
 weeng die Hitze
 allgemeiner Akkudativ
 mit die Gießkanne
@@ -109,22 +105,12 @@ In der Umgangssprache wird [a] wie [ɐ] gesprochen, so dass *Lader* wie *Lada* a
 |-|-|-|
 | [ˈvasɐ] | [ˈvɐsɐ] ≡ [ˈvasa] | *Wasser* ≡ *Wassa* |
 
-### Schwundlaut
-
-In der schnellen Umgangssprache fällt der Schwundlaut zwischen Nasalen aus.
-
-| Umgangssprache | schnell | |
-|-|-|-|
-| [ˈne:mən] | [ˈne:mn̩] | *nehmen* |
-
 ### Diphthongisierung
 
 In der Umgangssprache werden lange Vokale (außer [a:][^a-diphthong]) vor Vokal diphthongisiert, d.h. sie werden mit nicht-silbischem [ɪ̯] bzw. [ʊ̯] gesprochen.
 
 | Hochdeutsch | Umgangssprache | |
 |-|-|-|
-| [ˈna:ə]  | [ˈna:ə]  | *nahe* |
-| | | |
 | [ˈnɛ:ə]  | [ˈneɪ̯ə]  | *Nähe* |
 | [ˈtse:ə] | [ˈtseɪ̯ə] | *Zehe* |
 | [ˈhø:ə]  | [ˈhøɪ̯ə]  | *Höhe* |
@@ -136,7 +122,15 @@ In der Umgangssprache werden lange Vokale (außer [a:][^a-diphthong]) vor Vokal 
 
 [^a-diphthong]: Die Diphthonge [aɪ̯] und [aʊ̯] gibt es ja bereits.
 
-### -l
+### Schwundlaut
+
+In der Umgangssprache fällt der Schwundlaut in *-em* und *-en* nach Möglichkeit aus.
+
+<!--
+umgangssprache und mundart mergen
+-->
+
+### Lamdatizität
 
 In der Umgangssprache wird Auslaut-*l* als eine Mischung aus [w] und [ə] gesprochen, als "*l*-Schwa". Hier wird es als [ɫ] transkribiert.
 
@@ -155,8 +149,11 @@ Durch die Vokalisierung bzw. silbische Sprechung von *l* als [ɫ] bzw. [l̩] fä
 
 | Hochdeutsch | Umgangssprache | |
 |-|-|-|
-| [ˈfy:lən] | [ˈfy:l̩n] | *fühlen* |
-| [ˈfʏlən]  | [ˈfʏɫn̩]  | *füllen* |
+| [ˈfʏlən]  | [fʏɫn]  | *füllen* |
+
+| Hochdeutsch | Umgangssprache | schnell | |
+|-|-|-|-|
+| [ˈfy:lən] | [ˈfy:l̩n] | [fy:ɫn] | *fühlen* |
 
 ### Rhotizität
 
@@ -243,20 +240,24 @@ In der schnellen Umgangssprache wird an Stelle des Imperativs der Konjunktiv I v
 |-|-|-|
 | [hɪɫf] | [hɛɫfə]   | *hilf!* → *helfe!* |
 
-## Mundart
-
 <!--
-
-ha:bn ha:bm ha:m (berlinerisch: há:m (einsilbig))
-ne:mən ne:mm ne:m (berlinerisch: né:m (einsilbig))
-faŋən faŋŋ - (berlinerisch: faŋ)
-
 andere andre -
 
 fünf fümf -
 -->
 
-In der Mundart wird silbisch gesprochenes [n̩] (evtl.) angeglichen. Hierbei fällt der Stammauslaut nach langem Vokal aus, wenn der Stammauslaut ein stimmhafter Plosivlaut oder ein Nasal[^mundart-nasal] ist. In der schnellen Mundart wird das (evtl. angeglichene) [n̩] assimiliert.
+<!--
+a:bn̩ a:bm̩ a:m̩
+a:m
+
+a:mən a:mn̩ a:m̩
+a:m
+
+amən amn̩ amm̩
+am
+-->
+
+<!-- In der Mundart wird silbisch gesprochenes [n̩] (evtl.) angeglichen. Hierbei fällt der Stammauslaut nach langem Vokal aus, wenn der Stammauslaut ein stimmhafter Plosivlaut oder ein Nasal[^mundart-nasal] ist. In der schnellen Mundart wird das (evtl. angeglichene) [n̩] assimiliert.
 
 | Mundart | schnell | |
 |-|-|-|
@@ -272,7 +273,7 @@ Nach kurzem Vokal fällt der Nasal am Stammende nicht aus.
 
 | Mundart | schnell | |
 |-|-|-|
-| [ˈfaŋŋ̩] | [faŋ]  | *fangen* |
+| [ˈfaŋŋ̩] | [faŋ]  | *fangen* | -->
 
 In der Mundart fällt der Schwundlaut [ə] in *-el* und *-er* aus, auch wenn ein weiterer Vokal folgt.
 
@@ -686,3 +687,16 @@ a:
 aR  ar  aA
 a:
 -->
+
+<!-- lL ... -->
+
+<!--
+Gefühl fy:l fy:l̩ fy:ɫ
+Gespür ʃpy:r ʃpʏa̯
+Gehör hø:rə hœa̯
+
+fühlen fy:lən fy:l̩n fy:ɫn
+spüren ʃpy:rən ʃpʏa̯n
+hören hø:rən hœa̯n
+-->
+
