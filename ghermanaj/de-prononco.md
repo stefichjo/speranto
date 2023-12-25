@@ -1,10 +1,12 @@
 # Aussprache
 
-Um die Aussprache des Deutschen greifbarer zu machen, werden im Folgenden drei Register unterschieden: Hochdeutsch, Umgangssprache und Mundart.
+Um die Aussprache des Deutschen greifbarer zu machen, werden im Folgenden drei Register unterschieden: Hochdeutsch, Umgangssprache und Berlinerisch[^berlinerisch].
+
+[^berlinerisch]: Anstelle von Berlinerisch könnte man auch andere Mundarten nennen. Da Berlinerisch zusammen mit Hochdeutsch und Umgangssprche meine Muttersprache ist, ist die Mundart meiner Wahl Berlinerisch.
 
 Es handelt sich bei dieser Unterteilung um eine sehr meinungsstarke Darstellung (vgl. [Nützliche Links](#nützliche-links) für andere Sichtweisen). Jede dieser Ausspracheregister kann zusätzlich **schnell** oder **deutlich** verwendet werden.[^register]
 
-[^register]: Schnelles Hochdeutsch und deutliche Umgangssprache unterscheiden sich kaum, ebenso wie schnelle Umgangssprache und deutliche Mundart.
+[^register]: Schnelles Hochdeutsch und deutliche Umgangssprache unterscheiden sich kaum, ebenso wie schnelle Umgangssprache und deutliche Berlinerisch.
 
 <!--
 Klammern [] // entfernen
@@ -122,14 +124,6 @@ In der Umgangssprache werden lange Vokale (außer [a:][^a-diphthong]) vor Vokal 
 
 [^a-diphthong]: Die Diphthonge [aɪ̯] und [aʊ̯] gibt es ja bereits.
 
-### Schwundlaut
-
-In der Umgangssprache fällt der Schwundlaut in *-em* und *-en* nach Möglichkeit aus.
-
-<!--
-umgangssprache und mundart mergen
--->
-
 ### Lamdatizität
 
 In der Umgangssprache wird Auslaut-*l* als eine Mischung aus [w] und [ə] gesprochen, als "*l*-Schwa". Hier wird es als [ɫ] transkribiert.
@@ -138,22 +132,11 @@ In der Umgangssprache wird Auslaut-*l* als eine Mischung aus [w] und [ə] gespro
 |-|-|-|
 | [kalt] | [kaɫt] | *kalt* |
 
-In der Umgangssprache wird Auslaut-*l* nach langem Vokal silbisch gesprochen.
-
-| Hochdeutsch | Umgangssprache | |
-|-|-|-|
-| [fi:l]   | [fi:l̩]   | *viel* |
-| [ˈfi:lə] | [ˈfi:lə] | *viele* |
-
-Durch die Vokalisierung bzw. silbische Sprechung von *l* als [ɫ] bzw. [l̩] fällt der Schwundlaut in den Endungen *-em* und *-en* aus.
-
-| Hochdeutsch | Umgangssprache | |
-|-|-|-|
-| [ˈfʏlən]  | [fʏɫn]  | *füllen* |
+In der Umgangssprache wird Auslaut-*l* nach langem Vokal silbisch gesprochen. In der schnellen Umgangssprache wird "*l*-Schwa* gesprochen.
 
 | Hochdeutsch | Umgangssprache | schnell | |
 |-|-|-|-|
-| [ˈfy:lən] | [ˈfy:l̩n] | [fy:ɫn] | *fühlen* |
+| [fi:l] | [ˈfi:l̩] | [fi:ɫ] | *viel* |
 
 ### Rhotizität
 
@@ -192,14 +175,6 @@ In der Umgangssprache verhält sich kurzes *är/er* wie langes *är/er*.
 | [ˈve:ɐ̯tɐ] | [ˈveɐ̯ta] | [ˈvɛa̯ta] | *werter* |
 | [ˈvɛrtɐ]  | [ˈvɛɐ̯ta] | [ˈvɛa̯ta] | *Wärter* |
 
-Der Schwundlaut in *-em* und *-en* fällt nach Auslaut-*r* aus.[^konjunktiv]
-
-| Hochdeutsch | Umgangssprache | |
-|-|-|-|
-| [ˈhø:rən] | [hœa̯n] | *hören* |
-
-[^konjunktiv]: Der Schwundlaut der Verbendungen des Konjunktiv I fallen nicht aus: *(dass wir) hören* [ˈhø:rən]. Der Konjunktiv I wird jedoch - abgesehen von einigen Floskeln und *hätte*, *wäre* und *würde* - praktisch nur im Hochdeutschen verwendet.
-
 Kurzes/gekürztes *a* [a] verschmilzt mit nicht-silbischem [a̯] zu langem [a:], sodass *dar* und *da* nicht mehr voneinander zu unterscheiden sind: [da:].[^dar]
 
 | Hochdeutsch | schnell | Umgangssprache | |
@@ -216,15 +191,56 @@ Die Vorsilben *er-*, *ver-* und *zer-* werden in der Umgangssprache wie die Nach
 | [fɛɐ̯]  | [fa]  | *ver-* |
 | [tsɛɐ̯] | [tsa] | *zer-* |
 
-### chs
+### Schwundlaut
 
-In der schnellen Umgangssprache wird *chs* als [ks] ausgesprochen.[^nix]
+In der Umgangssprache fällt der Schwundlaut in *-em* und *-en* nach *l*-Auslaut und *r*-Auslaut aus.
+
+| Hochdeutsch | Umgangssprache | |
+|-|-|-|
+| [ˈfʏlən]  | [fʏɫn]   | *füllen* |
+| [ˈfy:lən] | [ˈfy:l̩n] | *fühlen* |
+| | | |
+| [ˈɪrən]  | [ɪ:n] | *irren* |
+| [ˈi:rən] | [ia̯n] | *ihren* |
+
+[^konjunktiv]: Der Schwundlaut der Verbendungen des Konjunktiv I fallen nicht aus: *(dass wir) hören* [ˈhø:rən]. Der Konjunktiv I wird jedoch - abgesehen von Hilfsverben wie *hätte*, *wäre* und *würde* - praktisch nur im Hochdeutschen verwendet.
+
+In der schnellen Umgangssprache fällt der Schwundlaut [ə] in *-el* und *-er* aus, auch wenn ein weiterer Vokal folgt.
 
 | Umgangssprache | schnell | |
 |-|-|-|
-| [ne:çst] | [ne:kst] | *nächst* |
+| [ˈandərə] | [ˈandrə] | *andere* → *andre* |
+| [ˈaɪ̯tələ] | [ˈaɪ̯tlə] | *eitele* → *eitle* |
 
-[^nix]: In der schnellen Umgangssprache fällt das *t* in *nichts* aus: *nichts* → *nix* [nɪks]. Vgl. hochdeutsches *sechzig* [ˈzɛçtsɪç] nebst *sechs* [zɛks].
+In der schnellen Umgangssprache fällt der Schwundlaut in *-em* und *-en* nach Vokal und nach Nasal-Auslaut aus.
+
+| Umgangssprache | schnell | |
+|-|-|-|
+| [ˈze:ən]   | [ze:n̩] | *sehen* |
+| | | |
+| [ˈbɪnən]  | [ˈbɪnn̩]  | *binnen* |
+| [ˈbi:nən] | [ˈbi:nn̩] | *Bienen* |
+
+### Assimilationen
+
+Silbisch gesprochenes *-en* wird in der schnellen Umgangssprache an den vorhergehenden Stammauslaut angeglichen.
+
+| Umgangssprache | schnell | |
+|-|-|-|
+| [ˈha:bn̩] | [ˈha:bm̩] | *haben* |
+| [ˈre:dn̩] | [ˈre:dn̩] | *reden* |
+| [ˈza:gn̩] | [ˈza:gŋ̩] | *sagen* |
+| | | |
+| [ˈne:mən] | [ˈne:mm̩] | *nehmen* |
+| [ˈfaŋən]  | [ˈfaŋŋ̩]  | *fangen* |
+
+*nf* wird in der schnellen Umgangssprache zu *mpf*.
+
+| Umgangssprache (schnell) | |
+|-|-|
+| [fʏmpf]       | *fünf* ≡ *fümpf* |
+| [zɛmpf]       | *Senf* ≡ *Sempf* |
+| [ˈtsu:kumpft] | *Zukunft* ≡ *Zukumpft* |
 
 ### Grammatik
 
@@ -234,66 +250,32 @@ In der schnellen Umgangssprache werden Zusammensetzungen mit *da-* getrennt, bzw
 |-|-|
 | *dazu kann ich nichts sagen* | *da kann ich nichts zu sagen* → *kann ich nichts zu sagen* |
 
-In der schnellen Umgangssprache wird an Stelle des Imperativs der Konjunktiv I verwendet.
+In der schnellen Umgangssprache wird *brauchen* als Hilfsverb verwendet. Dann wird *(er/sie/es) braucht* zu *brauch*.
+
+| Umgangssprache | schnell |
+|-|-|
+| *das braucht sie nicht zu tun* | *das brauch sie nich' tun* |
+
+In der schnellen Umgangssprache wird an Stelle der einfachen Vergangenheit die abgeschlossene Gegenwart mit *haben* bzw. die abgeschlossene Vergangenheit mit *sein* verwendet.
+
+| Umgangssprache | schnell |
+|-|-|
+| *das sagte er* | *dis hat-er gesagt* |
+| *das hatte er gesagt* | *dis hat-er gesagt gehabt* |
+| | |
+| *das war schön* | *dis war schön gewesen* |
+
+<!-- In der schnellen Umgangssprache wird an Stelle des Imperativs der Konjunktiv I verwendet.
 
 | Umgangssprache | schnell | |
 |-|-|-|
-| [hɪɫf] | [hɛɫfə]   | *hilf!* → *helfe!* |
-
-<!--
-andere andre -
-
-fünf fümf -
--->
-
-<!--
-a:bn̩ a:bm̩ a:m̩
-a:m
-
-a:mən a:mn̩ a:m̩
-a:m
-
-amən amn̩ amm̩
-am
--->
-
-<!-- In der Mundart wird silbisch gesprochenes [n̩] (evtl.) angeglichen. Hierbei fällt der Stammauslaut nach langem Vokal aus, wenn der Stammauslaut ein stimmhafter Plosivlaut oder ein Nasal[^mundart-nasal] ist. In der schnellen Mundart wird das (evtl. angeglichene) [n̩] assimiliert.
-
-| Mundart | schnell | |
-|-|-|-|
-| [ˈha:m̩] | [ha:m] | *haben* |
-| [ˈre:n̩] | [re:n] | *reden* |
-| [ˈza:ŋ̩] | [za:ŋ] | *sagen* |
-| | | |
-| [ˈne:m̩] | [ne:m] | *nehmen* |
-
-[^mundart-nasal]: In der Mundart fällt der Schwundlaut auch zwischen Nasalen aus.
-
-Nach kurzem Vokal fällt der Nasal am Stammende nicht aus.
-
-| Mundart | schnell | |
-|-|-|-|
-| [ˈfaŋŋ̩] | [faŋ]  | *fangen* | -->
-
-In der Mundart fällt der Schwundlaut [ə] in *-el* und *-er* aus, auch wenn ein weiterer Vokal folgt.
-
-| Umgangssprache | Mundart | |
-|-|-|-|
-| [ˈandərə] | [ˈandrə] | *andere* → *andre* |
-| [ˈaɪ̯tələ] | [ˈaɪ̯tlə] | *eitele* → *eitle* |
-
-*nf* wird zu *mf*.
-
-| Mundart | |
-|-|-|
-| [fʏmf]       | *fünf* ≡ *fümf* |
-| [ˈtsu:kumft] | *Zukunft* ≡ *Zukumft* |
+| [hɪɫf] | [hɛɫfə]   | *hilf!* → *helfe!* | -->
 
 ### Vokabular
 
-In der Mundart werden eigene Abkürzungen vorgenommen.[^das]
+In der schnellen Umgangssprache werden eigene Abkürzungen vorgenommen.[^das]
 
-| Umgangssprache | Mundart | |
+| Umgangssprache | schnell | |
 |-|-|-|
 | [das]    | [dɪs]  | *das* → *dis* |
 | [ɪst]    | [ɪs]   | *ist* → *is'* |
@@ -304,33 +286,26 @@ In der Mundart werden eigene Abkürzungen vorgenommen.[^das]
 | [ˈaɪ̯nə]  | [nə]   | *eine* → *'ne*  |
 | [ˈaɪ̯nɐ]  | [na]   | *einer* → *'ner* |
 
-[^das]: In der Mundart wird zwischen *dass* und *das* unterschieden, da *das* zu *dis* wird, während *dass* unverändert bleibt.
+[^das]: In der schnellen Umgangssprache wird zwischen *dass* und *das* unterschieden, da *das* zu *dis* wird, während *dass* unverändert bleibt.
 
-In der Mundart werden unbetonte Personalpronomen im Sprechfluss in ihrer schwachen Form verwendet. Ebenso wird *mal* zu *ma'* mit kurzem *a* [a].
+In der schnellen Umgangssprache werden unbetonte Personalpronomen im Sprechfluss in ihrer schwachen Form verwendet. Ebenso wird *mal* zu *ma'* mit kurzem *a* [a].
 
-| Umgangssprache | Mundart | |
+| Umgangssprache | schnell | |
 |-|-|-|
 | [hat ɛa̯] | [ˈhata] | *hat er* → *hat-er* |
 | [ɪst zi:] | [ˈɪsə] | *ist sie* → *is-se* |
 | | | |
 | [hast du: ma:l] | [ˈhastəma] | *hast du mal* → *hast-de-ma* ≡ *haste ma'* |
 
-### Grammatik
+<!-- ### chs
 
-In der Mundart wird *brauchen* als Hilfsverb verwendet. Dann wird *(er/sie/es) braucht* zu *brauch*.
+In der schnellen Umgangssprache wird *chs* als [ks] ausgesprochen.[^nix]
 
-| Umgangssprache | Mundart |
-|-|-|
-| *das braucht sie nicht zu tun* | *das brauch sie nich' tun* |
+| Umgangssprache | schnell | |
+|-|-|-|
+| [ne:çst] | [ne:kst] | *nächst* |
 
-In der schnellen Mundart wird an Stelle der einfachen Vergangenheit die abgeschlossene Gegenwart mit *haben* bzw. die abgeschlossene Vergangenheit mit *sein* verwendet.
-
-| Mundart | schnell |
-|-|-|
-| *dis sagte er* | *dis hat-er gesagt* |
-| *dis hatte er gesagt* | *dis hat-er gesagt gehabt* |
-| | |
-| *dis war schön* | *dis war schön gewesen* |
+[^nix]: In der schnellen Umgangssprache fällt das *t* in *nichts* aus: *nichts* → *nix* [nɪks]. Vgl. hochdeutsches *sechzig* [ˈzɛçtsɪç] nebst *sechs* [zɛks]. -->
 
 ## Berlinerisch
 
@@ -338,7 +313,7 @@ In der schnellen Mundart wird an Stelle der einfachen Vergangenheit die abgeschl
 
 Die Endung *-es* bzw. der Auslaut *-s* für sächliche Adjektive und Pronomen ist *-et* bzw. *-t*.
 
-| Mundart | Berlinerisch | |
+| Umgangssprache (schnell) | Berlinerisch | |
 |-|-|-|
 | [ˈdi:zəs] | [ˈdi:zət] | *dieses* → *dieset*  |
 | [dɪs] | [dɪt] | *dis* → *dit* |
@@ -513,7 +488,7 @@ In wenigen Fällen ist das urgermanische *u* erhalten geblieben.
 
 [^weg]: Sonst wäre *weg* [vɛç] zu erwarten gewesen.
 
-| Mundart | Berlinerisch | |
+| Umgangssprache | Berlinerisch | |
 |-|-|-|
 | [an di:]  | [ˈanə]  | *an die* → *anne* |
 | [ɪn dɛa̯]  | [ˈɪna]  | *in der* → *inna* |
@@ -602,12 +577,14 @@ Der Schwundlaut in *-el*, *-er*, *-em*, *-en* fällt im deutlichen Hochdeutsch n
 
 ### Deutliche Umgangssprache
 
-Deutliche Umgangssprache ist identisch mit schnellem Hochdeutsch, bis auf die fehlende Unterscheidung von langem *ä* und langem *e* ...
+Deutliche Umgangssprache ist identisch mit schnellem Hochdeutsch, bis auf die fehlende Unterscheidung von langem *ä* und langem *e*[^er-ver-zer] ...
 
 | Hochdeutsch (schnell) | Umgangssprache (deutlich) | |
 |-|-|-|
 | [veɐ̯] | [vea̯] | *wer* |
 | [vɛɐ̯] | [vea̯] | *wär'* |
+
+[^er-ver-zer]: Die Vorsilben *er-*, *ver-* und *zer-* werden jedoch mit [ɛa̯] ausgesprochen.
 
 ... sowie von *a* und vokalisiertem *r*. Letzteres hat zur Folge, dass kurzes (oder gekürztes) *ar* in der Umgangssprache kein Diphthong mehr ist, sondern ein langer Vokal. Diese Monophtongierung geschieht bei allen kurzen Vokale (außer *e*/*ä*) vor *r*.
 
@@ -616,36 +593,18 @@ Deutliche Umgangssprache ist identisch mit schnellem Hochdeutsch, bis auf die fe
 | [klaɐ̯] | [kla:] | *klar* |
 | [klɪɐ̯] | [klɪ:] | *klirr* |
 
-### Deutliche Mundart
+### Deutliches Berlinerisch
 
-In der deutlichen Mundart fällt der Stammauslaut vor *-em* und *-en* nicht aus.
+Oft wird im deutlichen Berlinerisch hyperkorrekt *'nen* statt *'n* oder *ein* gesagt.
 
-| Mundart | deutlich | |
-|-|-|-|
-| [ˈha:m̩] | [ˈha:bm̩] | *haben* |
-| [ˈre:n̩] | [ˈre:dn̩] | *reden* |
-| [ˈza:ŋ̩] | [ˈza:gŋ̩] | *sagen* |
-| | | |
-| [ˈne:m̩] | [ˈne:mm̩] | *nehmen* |
-
-Oft wird in der deutlichen Mundart hyperkorrekt *'nen* statt *'n* oder *ein* gesagt.
-
-| Mundart | deutlich | |
+| Berlinerisch | deutlich | |
 |-|-|-|
 | [n̩] | [nən] | *'n* → *'nen*[^nen] |
 | [m̩] | [nəm] | *'m* → *'nem* |
 
-### Deutliches Berlinerisch
-
-Im deutlichen Berlinerisch fällt *d* zwischen Konsonanten nicht aus.
-
-| Berlinerisch | deutlich | |
-|-|-|-|
-| [ˈfɪnn̩] | [ˈfɪndn̩] | *finden* |
-
 Assimilierte *-em* und *-en* werden in überdeutlicher Aussprache mit Schwundlaut ausgesprochen.[^en]
 
-| Mundart (schnell) | Berlinerisch (überdeutlich) | |
+| Umgangssprache (schnell) | Berlinerisch (überdeutlich) | |
 |-|-|-|
 | [ˈze:n̩] | [ˈzeɪ̯ən] | *sehen* |
 
