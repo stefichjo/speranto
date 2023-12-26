@@ -545,29 +545,29 @@ Eine Haltestelle kann ohne Präposition erwähnt werden.[^lokativ]
 
 ### Deutliches Hochdeutsch[^bühnendeutsch]
 
-Die Endung *-e* in lateinisch-griechischen Wörtern wird im deutlichen Hochdeutsch [e] gesprochen.
+Die Endung *-e* in lateinisch-griechischen Wörtern wird im deutlichen Hochdeutsch `[e]` gesprochen.
 
 | Hochdeutsch | deutlich | |
 |-|-|-|
-| [ˈpsy:çə] | [ˈpsy:çe] | *Psyche* |
+| `[ˈpsy:çə]` | `[ˈpsy:çe]` | *Psyche* |
 
-[^bühnendeutsch]: Deutliches Hochdeutsch ist, vereinfacht gesagt, **Bühnendeutsch**. Im Bühnendeutsch wird das *r* als Zungenspitzen-*r* [r]/[ɾ] gesprochen.
+[^bühnendeutsch]: Deutliches Hochdeutsch ist, vereinfacht gesagt, **Bühnendeutsch**. Im Bühnendeutsch wird das *r* als Zungenspitzen-*r* `[r]`/`[ɾ]` gesprochen.
 
-Im deutlichen Hochdeutsch wird *au* mit [o̯] gesprochen, und *äu/eu* mit [ø̆].
+Im deutlichen Hochdeutsch wird *au* mit `[o̯]` gesprochen, und *äu/eu* mit `[ø̆]`.
 
 | Hochdeutsch | deutlich | |
 |-|-|-|
-| [baʊ̯x]   | [bao̯x]   | *Bauch* |
-| [ˈbɔʏ̯çə] | [ˈbɔø̆çə] | *Bäuche* |
+| `[baʊ̯x]`   | `[bao̯x]`   | *Bauch* |
+| `[ˈbɔʏ̯çə]` | `[ˈbɔø̆çə]` | *Bäuche* |
 
 Der Schwundlaut in *-el*, *-er*, *-em*, *-en* fällt im deutlichen Hochdeutsch nicht aus.
 
 | Hochdeutsch | deutlich | |
 |-|-|-|
-| [ˈhɪml̩]  | [ˈhɪməl]  | *Himmel* |
-| [ˈbɛsɐ]  | [ˈbɛsəʁ]  | *besser* |
-| [ˈkɔxm̩]  | [ˈkɔxəm]  | *Cochem* |
-| [ˈre:dn̩] | [ˈre:dən] | *reden* |
+| `[ˈhɪml̩]`  | `[ˈhɪməl]`  | *Himmel* |
+| `[ˈbɛsɐ]`  | `[ˈbɛsəʁ]`  | *besser* |
+| `[ˈkɔxm̩]`  | `[ˈkɔxəm]`  | *Cochem* |
+| `[ˈre:dn̩]` | `[ˈre:dən]` | *reden* |
 
 ### Deutliche Umgangssprache
 
@@ -575,17 +575,17 @@ Deutliche Umgangssprache ist identisch mit schnellem Hochdeutsch, bis auf die fe
 
 | Hochdeutsch (schnell) | Umgangssprache (deutlich) | |
 |-|-|-|
-| [veɐ̯] | [vea̯] | *wer* |
-| [vɛɐ̯] | [vea̯] | *wär'* |
+| `[veɐ̯]` | `[vea̯]` | *wer* |
+| `[vɛɐ̯]` | `[vea̯]` | *wär'* |
 
-[^er-ver-zer]: Die Vorsilben *er-*, *ver-* und *zer-* werden jedoch mit [ɛa̯] ausgesprochen.
+[^er-ver-zer]: Die Vorsilben *er-*, *ver-* und *zer-* werden jedoch mit `[ɛa̯]` ausgesprochen.
 
 ... sowie von *a* und vokalisiertem *r*. Letzteres hat zur Folge, dass kurzes (oder gekürztes) *ar* in der Umgangssprache kein Diphthong mehr ist, sondern ein langer Vokal. Diese Monophtongierung geschieht bei allen kurzen Vokale (außer *e*/*ä*) vor *r*.
 
 | Hochdeutsch (schnell) | Umgangssprache (deutlich) | |
 |-|-|-|
-| [klaɐ̯] | [kla:] | *klar* |
-| [klɪɐ̯] | [klɪ:] | *klirr* |
+| `[klaɐ̯]` | `[kla:]` | *klar* |
+| `[klɪɐ̯]` | `[klɪ:]` | *klirr* |
 
 ### Deutliches Berlinerisch
 
@@ -593,22 +593,22 @@ Oft wird im deutlichen Berlinerisch hyperkorrekt *'nen* statt *'n* oder *ein* ge
 
 | Berlinerisch | deutlich | |
 |-|-|-|
-| [n̩] | [nən] | *'n* → *'nen*[^nen] |
-| [m̩] | [nəm] | *'m* → *'nem* |
+| `[n̩]` | `[nən]` | *'n* → *'nen*[^nen] |
+| `[m̩]` | `[nəm]` | *'m* → *'nem* |
 
 Assimilierte *-em* und *-en* werden in überdeutlicher Aussprache mit Schwundlaut ausgesprochen.[^en]
 
 | Umgangssprache (schnell) | Berlinerisch (überdeutlich) | |
 |-|-|-|
-| [ˈze:n̩] | [ˈzeɪ̯ən] | *sehen* |
+| `[ˈze:n̩]` | `[ˈzeɪ̯ən]` | *sehen* |
 
-[^en]: Diese Überdeutlichkeit kann zu hyperkorrekten Aussprachen wie *nein* [ˈnaɪ̯ən] führen, quasi \**neihen*.
+[^en]: Diese Überdeutlichkeit kann zu hyperkorrekten Aussprachen wie *nein* `[ˈnaɪ̯ən]` führen, quasi \**neihen*.
 
 Im Berlinerischen werden an Stelle von schwachen *mich* und *dich* die schwachen Formen für *mir* und *dir* verwendet, nämlich *-ma* und *-da*. Im deutlichen Berlinerisch können die grammatikalisch korrekten Formen *-mi'* und *-di'* verwendet werden.[^akkudativ]
 
 | Berlinerisch | deutlich | |
 |-|-|-|
-| [faˈfatsda] | [faˈfatsdɪ] | *verfatz-da* → *verfatz-di'* |
+| `[faˈfatsda]` | `[faˈfatsdɪ]` | *verfatz-da* → *verfatz-di'* |
 
 [^akkudativ]: Oft wird aber hyperkorrekt *mir* und *dir* gesagt: *ick wundre mir*. Man spricht dann vom "Akkudativ".
 
