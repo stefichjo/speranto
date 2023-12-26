@@ -27,108 +27,108 @@ vonne - ist das auch akkudativ? was ist mit "in bett"? und männliche substantiv
 
 ### äu/eu
 
-Der Diphthong *äu/eu* wird mit nicht-silbischem [ʏ̯] gesprochen. Im schnellen Hochdeutsch wird er mit [ɪ̯] gesprochen.
+Der Diphthong *äu/eu* wird mit nicht-silbischem `ʏ̯` gesprochen. Im schnellen Hochdeutsch wird er mit `ɪ̯` gesprochen.
 
 | Hochdeutsch | schnell | |
 |-|-|-|
-| [ˈbɔʏ̯çə] | [ˈbɔɪ̯çə] | *Bäuche* |
+| `ˈbɔʏ̯çə` | `ˈbɔɪ̯çə` | *Bäuche* |
 
 ### ʁ/ɐ ≡ r
 
-Im Hochdeutschen wird das *r* als Zäpfchen-*r* [ʁ] gesprochen, aber in der Umschrift als "[r]" geschrieben.
+Im Hochdeutschen wird das *r* als Zäpfchen-*r* `ʁ` gesprochen, aber in der IPA-Umschrift als `r` geschrieben.
 
 | Hochdeutsch | |
 |-|-|
-| [ʁo:t] ≡ [ro:t] | *rot* |
+| `ʁo:t` ≡ `ro:t` | *rot* |
 
 ### Schwundlaut
 
-Im Hochdeutschen fällt der Schwundlaut *e* [ə] in *-el*, *-er*, *-em*, *-en* nach Möglichkeit aus, und die verbleibunden *-l*, *-r*,[^el-er] *-m*, *-n*[^em-en] werden silbisch ausgesprochen. Silbisches *r* wird als Schwund-*a* [ɐ] realisiert.
+Im Hochdeutschen fällt der Schwundlaut *e* `ə` in *-el*, *-er*, *-em*, *-en* nach Möglichkeit aus, und die verbleibunden *-l*, *-r*,[^el-er] *-m*, *-n*[^em-en] werden silbisch ausgesprochen. Silbisches *r* wird als Schwund-*a* `ɐ` realisiert.
 
 | Hochdeutsch | |
 |-|-|
-| [ˈhɪml̩]  | *Himmel* |
-| [ˈbɛsɐ]  | *besser* |
-| [ˈkɔxm̩]  | *Cochem* |
-| [ˈre:dn̩] | *reden* |
+| `ˈhɪml̩`  | *Himmel* |
+| `ˈbɛsɐ`  | *besser* |
+| `ˈkɔxm̩`  | *Cochem* |
+| `ˈre:dn̩` | *reden* |
 
-[^el-er]: Der Schwundlaut in *-el* und *-er* fällt vor weiterem Vokal nicht aus: *eitelen* [ˈaɪ̯tələn], *anderen* [ˈandərən] (standardsprachlich ist aber auch *andern* [ˈandərn] möglich), außer vor *-ig*: *eklig* [ˈe:klɪç] (standardsprachlich ist aber auch deutliches *ekelig* [ˈe:kəlɪç] möglich), *wässrig* [ˈvεsrɪç]. Die Verbendung *-en* wird nach *-el* und *-er* zu *-n*: *wechseln* [ˈvεksl̩n], *ändern* [ˈεndɐn].
+[^el-er]: Der Schwundlaut in *-el* und *-er* fällt vor weiterem Vokal nicht aus: *eitelen* `ˈaɪ̯tələn`, *anderen* `ˈandərən` (standardsprachlich ist aber auch *andern* `ˈandərn` möglich), außer vor *-ig*: *eklig* `ˈe:klɪç` (standardsprachlich ist aber auch deutliches *ekelig* `ˈe:kəlɪç` möglich), *wässrig* `ˈvεsrɪç`. Die Verbendung *-en* wird nach *-el* und *-er* zu *-n*: *wechseln* `ˈvεksl̩n`, *ändern* `ˈεndɐn`.
 
-[^em-en]: Der Schwundlaut in *-em* und *-en* fällt nach *l* und *r* nicht aus: *fühlen* [ˈfy:lən], *spüren* [ˈʃpy:rən]. Zwischen Nasalen fällt der Schwundlaut nicht aus: *kommen* [ˈkɔmən]. Nach *t* fällt der Schwundlaut in *-em* nicht aus: *Atem* [ˈa:təm]. Silbisches *-n* [n̩] wird vor Vokal an den Verbstamm assimiliert: *zeichnen* [ˈtsaɪ̯çnən].
+[^em-en]: Der Schwundlaut in *-em* und *-en* fällt nach *l* und *r* nicht aus: *fühlen* `ˈfy:lən`, *spüren* `ˈʃpy:rən`. Zwischen Nasalen fällt der Schwundlaut nicht aus: *kommen* `ˈkɔmən`. Nach *t* fällt der Schwundlaut in *-em* nicht aus: *Atem* `ˈa:təm`. Silbisches *-n* `n̩` wird vor Vokal an den Verbstamm assimiliert: *zeichnen* `ˈtsaɪ̯çnən`.
 
 ### Rhotizität
 
-Nach Vokal wird *r* als nicht-silbisches Schwund-*a* [ɐ̯] realisiert. Dies gilt für lange Vokale sowie für die kurzen Vokale der Vorsilben *er-* [ɛɐ̯], *ver-* [fɛɐ̯], *zer-* [tsɛɐ̯]. Nach kurzen Stammvokalen jedoch wird das *r* als Zäpfchen-*r* gesprochen. Im schnellen Hochdeutsch jedoch wird es vokalisiert.
+Nach Vokal wird *r* als nicht-silbisches Schwund-*a* `ɐ̯` realisiert. Dies gilt für lange Vokale sowie für die kurzen Vokale der Vorsilben *er-* `ɛɐ̯`, *ver-* `fɛɐ̯`, *zer-* `tsɛɐ̯`. Nach kurzen Stammvokalen jedoch wird das *r* als Zäpfchen-*r* gesprochen. Im schnellen Hochdeutsch jedoch wird es vokalisiert.
 
 | Hochdeutsch | schnell | |
 |-|-|-|
-| [gɛrn] | [gɛɐ̯n] | *gern* |
-| [vɪrt] | [vɪɐ̯t] | *wird* |
+| `gɛrn` | `gɛɐ̯n` | *gern* |
+| `vɪrt` | `vɪɐ̯t` | *wird* |
 
-Im Hochdeutschen werden *erd* und *ert*, nicht aber *ärd* und *ärt*, mit langem *er* [e:ɐ̯] gesprochen, sodass sich *werter* [ˈve:ɐ̯tɐ] nicht auf *Wärter* [ˈvɛrtɐ] reimt.[^erst]
+Im Hochdeutschen werden *erd* und *ert*, nicht aber *ärd* und *ärt*, mit langem *er* `e:ɐ̯` gesprochen, sodass sich *werter* `[ˈve:ɐ̯tɐ]` nicht auf *Wärter* `[ˈvɛrtɐ]` reimt.[^erst]
 
 | Hochdeutsch | |
 |-|-|
-| [ˈve:ɐ̯tɐ] | *werter* |
-| [ˈvɛrtɐ]  | *Wärter* |
+| `[ˈve:ɐ̯tɐ]` | *werter* |
+| `[ˈvɛrtɐ]`  | *Wärter* |
 
-[^erst]: Die Wörter *erst* und *Erz* werden im Hochdeutschen mit langem *er* gesprochen, da sie von *eh* [e:] abgeleitet sind. Daher reimen sich *ersten* [e:ɐ̯stn̩] nicht auf *bersten* [bɛrstn̩].
+[^erst]: Die Wörter *erst* und *Erz* werden im Hochdeutschen mit langem *er* gesprochen, da sie von *eh* [e:] abgeleitet sind. Daher reimen sich *ersten* `[e:ɐ̯stn̩]` nicht auf *bersten* `[bɛrstn̩]`.
 
 Im schnellen Hochdeutsch wird ein langer Vokal vor *r* gekürzt.
 
 | Hochdeutsch | schnell | |
 |-|-|-|
-| [ze:ɐ̯] | [zeɐ̯] | *sehr* |
-| [bɛ:ɐ̯] | [bɛɐ̯] | *Bär* |
+| `[ze:ɐ̯]` | `[zeɐ̯]` | *sehr* |
+| `[bɛ:ɐ̯]` | `[bɛɐ̯]` | *Bär* |
 
 ## Umgangssprache
 
 ### ä ≡ e
 
-Während bereits im Hochdeutschen kurzes *ä* [ɛ] wie kurzes *e* [ɛ] gesprochen wird, wird in der Umgangssprache auch langes *ä* wie langes *e* [e:] gesprochen.
+Während bereits im Hochdeutschen kurzes *ä* `[ɛ]` wie kurzes *e* `[ɛ]` gesprochen wird, wird in der Umgangssprache auch langes *ä* wie langes *e* `[e:]` gesprochen.
 
 | Hochdeutsch | Umgangssprache | |
 |-|-|-|
-| [ʃpɛ:t] | [ʃpe:t] | *spät* ≡ *speet* |
+| `[ʃpɛ:t]` | `[ʃpe:t]` | *spät* ≡ *speet* |
 
 ### a ≡ ɐ
 
-In der Umgangssprache wird [a] wie [ɐ] gesprochen, so dass *Lader* wie *Lada* ausgesprochen wird. In der Umschrift werde ich jedoch [a] statt [ɐ] schreiben.
+In der Umgangssprache wird `[a]` wie `[ɐ]` gesprochen, so dass *Lader* wie *Lada* ausgesprochen wird. In der Umschrift werde ich jedoch `[a]` statt `[ɐ]` schreiben.
 
 | Hochdeutsch | Umgangssprache | |
 |-|-|-|
-| [ˈvasɐ] | [ˈvɐsɐ] ≡ [ˈvasa] | *Wasser* ≡ *Wassa* |
+| `[ˈvasɐ]` | `[ˈvɐsɐ]` ≡ `[ˈvasa]` | *Wasser* ≡ *Wassa* |
 
 ### Diphthongisierung
 
-In der Umgangssprache werden lange Vokale (außer [a:][^a-diphthong]) vor Vokal diphthongisiert, d.h. sie werden mit nicht-silbischem [ɪ̯] bzw. [ʊ̯] gesprochen.
+In der Umgangssprache werden lange Vokale (außer `[a:]`[^a-diphthong]) vor Vokal diphthongisiert, d.h. sie werden mit nicht-silbischem `[ɪ̯]` bzw. `[ʊ̯]` gesprochen.
 
 | Hochdeutsch | Umgangssprache | |
 |-|-|-|
-| [ˈnɛ:ə]  | [ˈneɪ̯ə]  | *Nähe* |
-| [ˈtse:ə] | [ˈtseɪ̯ə] | *Zehe* |
-| [ˈhø:ə]  | [ˈhøɪ̯ə]  | *Höhe* |
-| [ˈho:ə]  | [ˈhoʊ̯ə]  | *hohe* |
+| `[ˈnɛ:ə]`  | `[ˈneɪ̯ə]`  | *Nähe* |
+| `[ˈtse:ə]` | `[ˈtseɪ̯ə]` | *Zehe* |
+| `[ˈhø:ə]`  | `[ˈhøɪ̯ə]`  | *Höhe* |
+| `[ˈho:ə]`  | `[ˈhoʊ̯ə]`  | *hohe* |
 | | | |
-| [ˈtsi:ɐ] | [ˈtsiɪ̯a] | *Zieher* |
-| [ˈfry:ɐ] | [ˈfryɪ̯a] | *früher* |
-| [ˈʃu:ə]  | [ˈʃuʊ̯ə]  | *Schuhe* |
+| `[ˈtsi:ɐ]` | `[ˈtsiɪ̯a]` | *Zieher* |
+| `[ˈfry:ɐ]` | `[ˈfryɪ̯a]` | *früher* |
+| `[ˈʃu:ə]`  | `[ˈʃuʊ̯ə]`  | *Schuhe* |
 
-[^a-diphthong]: Die Diphthonge [aɪ̯] und [aʊ̯] gibt es ja bereits.
+[^a-diphthong]: Die Diphthonge `[aɪ̯]` und `[aʊ̯]` gibt es ja bereits.
 
 ### Lamdatizität
 
-In der Umgangssprache wird Auslaut-*l* als eine Mischung aus [w] und [ə] gesprochen, als "Schwund-*l*". Hier wird es als [ɫ] transkribiert.
+In der Umgangssprache wird Auslaut-*l* als eine Mischung aus `[w]` und `[ə]` gesprochen, als "Schwund-*l*". Hier wird es als `[ɫ]` transkribiert.
 
 | Hochdeutsch | Umgangssprache | |
 |-|-|-|
-| [kalt] | [kaɫt] | *kalt* |
+| `[kalt]` | `[kaɫt]` | *kalt* |
 
 In der Umgangssprache wird Auslaut-*l* nach langem Vokal silbisch gesprochen. In der schnellen Umgangssprache wird "Schwund-*l*" gesprochen.
 
 | Hochdeutsch | Umgangssprache | schnell | |
 |-|-|-|-|
-| [fi:l] | [ˈfi:l̩] | [fi:ɫ] | *viel* |
+| `[fi:l]` | `[ˈfi:l̩]` | `[fi:ɫ]` | *viel* |
 
 ### Rhotizität
 
@@ -136,52 +136,52 @@ In der Umgangssprache wird ein kurzer Vokal vor *r* gelängt, ohne die Vokalqual
 
 | Hochdeutsch | Umgangssprache | |
 |-|-|-|
-| [ˈvartn̩] | [ˈva:tn̩] | *warten* |
+| `[ˈvartn̩]` | `[ˈva:tn̩]` | *warten* |
 | | | |
-| [ˈvœrtɐ] | [ˈvœ:ta] | *Wörter* |
-| [ˈvɔrtə] | [ˈvɔ:tə] | *Worte* |
+| `[ˈvœrtɐ]` | `[ˈvœ:ta]` | *Wörter* |
+| `[ˈvɔrtə]` | `[ˈvɔ:tə]` | *Worte* |
 | | | |
-| [vɪrt]   | [vɪ:t]   | *wird* |
-| [ˈvʏrdə] | [ˈvʏ:də] | *würde* |
-| [ˈvʊrdə] | [ˈvʊ:də] | *wurde* |
+| `[vɪrt]`   | `[vɪ:t]`   | *wird* |
+| `[ˈvʏrdə]` | `[ˈvʏ:də]` | *würde* |
+| `[ˈvʊrdə]` | `[ˈvʊ:də]` | *wurde* |
 
-Nachdem lange Vokale vor *r* im Hochdeutschen gekürzt werden, werden [eɐ̯], [øɐ̯] und [oɐ̯] in der Umgangssprache zu [ɛa̯], [œa̯] und [ɔa̯] geöffnet.
+Nachdem lange Vokale vor *r* im Hochdeutschen gekürzt werden, werden `[eɐ̯]`, `[øɐ̯]` und `[oɐ̯]` in der Umgangssprache zu `[ɛa̯]`, `[œa̯]` und `[ɔa̯]` geöffnet.
 
 | Hochdeutsch | schnell | Umgangssprache | |
 |-|-|-|-|
-| [ve:ɐ̯]     | [veɐ̯]     | [vɛa̯]     | *wer* |
-| [vɛ:ɐ̯]     | [vɛɐ̯]     | [vɛa̯]     | *wär'* |
-| [ˈrø:ɐ̯çən] | [ˈrøɐ̯çən] | [ˈrœa̯çən] | *Röhrchen* |
-| [ro:ɐ̯]     | [roɐ̯]     | [rɔa̯]     | *Rohr* |
+| `[ve:ɐ̯]`     | `[veɐ̯]`     | `[vɛa̯]`     | *wer* |
+| `[vɛ:ɐ̯]`     | `[vɛɐ̯]`     | `[vɛa̯]`     | *wär'* |
+| `[ˈrø:ɐ̯çən]` | `[ˈrøɐ̯çən]` | `[ˈrœa̯çən]` | *Röhrchen* |
+| `[ro:ɐ̯]`     | `[roɐ̯]`     | `[rɔa̯]`     | *Rohr* |
 
 | Hochdeutsch | Umgangssprache | |
 |-|-|-|
-| [ti:ɐ̯] | [tia̯] | *Tier* |
-| [ty:ɐ̯] | [tya̯] | *Tür* |
-| [tu:ɐ̯] | [tua̯] | *Tour* |
+| `[ti:ɐ̯]` | `[tia̯]` | *Tier* |
+| `[ty:ɐ̯]` | `[tya̯]` | *Tür* |
+| `[tu:ɐ̯]` | `[tua̯]` | *Tour* |
 
 In der Umgangssprache verhält sich kurzes *är/er* wie langes *är/er*.
 
 | Hochdeutsch | schnell | Umgangssprache | |
 |-|-|-|-|
-| [ˈve:ɐ̯tɐ] | [ˈveɐ̯ta] | [ˈvɛa̯ta] | *werter* |
-| [ˈvɛrtɐ]  | [ˈvɛɐ̯ta] | [ˈvɛa̯ta] | *Wärter* |
+| `[ˈve:ɐ̯tɐ]` | `[ˈveɐ̯ta]` | `[ˈvɛa̯ta]` | *werter* |
+| `[ˈvɛrtɐ]`  | `[ˈvɛɐ̯ta]` | `[ˈvɛa̯ta]` | *Wärter* |
 
-Kurzes/gekürztes *a* [a] verschmilzt mit nicht-silbischem [a̯] zu langem [a:], sodass *dar* und *da* nicht mehr voneinander zu unterscheiden sind: [da:].[^dar]
+Kurzes/gekürztes *a* [a] verschmilzt mit nicht-silbischem `[a̯]` zu langem `[a:]`, sodass *dar* und *da* nicht mehr voneinander zu unterscheiden sind: `[da:]`.[^dar]
 
 | Hochdeutsch | schnell | Umgangssprache | |
 |-|-|-|-|
-| [va:ɐ̯] | [vaɐ̯] | [va:] | *wahr* |
+| `[va:ɐ̯]` | `[vaɐ̯]` | `[va:]` | *wahr* |
 
-[^dar]: Tatsächlich handelt es sich bei *da* und *dar* um dasselbe Wort, was bei Zusammensetzungen wie *daraus* und *darin* (*da(r)* + *in* und *da(r)* + *aus*) noch erkennbar ist. Laut [Duden, das Aussprachewörterbuch (2023)](https://www.google.de/books/edition/Duden_Das_Aussprachew%C3%B6rterbuch/ByrmEAAAQBAJ) wird bereits (im Hochdeutschen) [a:] statt [a:ɐ̯] gesprochen.
+[^dar]: Tatsächlich handelt es sich bei *da* und *dar* um dasselbe Wort, was bei Zusammensetzungen wie *daraus* und *darin* (*da(r)* + *in* und *da(r)* + *aus*) noch erkennbar ist. Laut [Duden, das Aussprachewörterbuch (2023)](https://www.google.de/books/edition/Duden_Das_Aussprachew%C3%B6rterbuch/ByrmEAAAQBAJ) wird bereits (im Hochdeutschen) `[a:]` statt `[a:ɐ̯]` gesprochen.
 
-Die Vorsilben *er-*, *ver-* und *zer-* werden in der Umgangssprache wie die Nachsilbe *-er* mit [a] ausgesprochen.
+Die Vorsilben *er-*, *ver-* und *zer-* werden in der Umgangssprache wie die Nachsilbe *-er* mit `[a]` ausgesprochen.
 
 | Hochdeutsch | Umgangssprache | |
 |-|-|-|
-| [ɛɐ̯]   | [a]   | *er-* |
-| [fɛɐ̯]  | [fa]  | *ver-* |
-| [tsɛɐ̯] | [tsa] | *zer-* |
+| `[ɛɐ̯]`   | `[a]`   | *er-* |
+| `[fɛɐ̯]`  | `[fa]`  | *ver-* |
+| `[tsɛɐ̯]` | `[tsa]` | *zer-* |
 
 ### Schwundlaut
 
@@ -189,31 +189,31 @@ In der Umgangssprache fällt der Schwundlaut in *-em* und *-en* nach *l*-Auslaut
 
 | Hochdeutsch | Umgangssprache | |
 |-|-|-|
-| [ˈfʏlən]  | [fʏɫn]   | *füllen* |
-| [ˈfy:lən] | [ˈfy:l̩n] | *fühlen* |
+| `[ˈfʏlən]`  | `[fʏɫn]`   | *füllen* |
+| `[ˈfy:lən]` | `[ˈfy:l̩n]` | *fühlen* |
 | | | |
-| [ˈɪrən]  | [ɪ:n] | *irren* |
-| [ˈi:rən] | [ia̯n] | *ihren* |
+| `[ˈɪrən]`  | `[ɪ:n]` | *irren* |
+| `[ˈi:rən]` | `[ia̯n]` | *ihren* |
 
-[^konjunktiv]: Der Schwundlaut der Verbendungen des Konjunktiv I fallen nicht aus: *(dass wir) hören* [ˈhø:rən]. Der Konjunktiv I wird jedoch - abgesehen von Hilfsverben wie *hätte*, *wäre* und *würde* - praktisch nur im Hochdeutschen verwendet.
+[^konjunktiv]: Der Schwundlaut der Verbendungen des Konjunktiv I fallen nicht aus: *(dass wir) hören* `[ˈhø:rən]`. Der Konjunktiv I wird jedoch - abgesehen von Hilfsverben wie *hätte*, *wäre* und *würde* - praktisch nur im Hochdeutschen verwendet.
 
-[^atem]: Der Schwundlaut in *-em* fällt in der Umgangssprache nach *t* aus: *Atem* [ˈa:tm̩].
+[^atem]: Der Schwundlaut in *-em* fällt in der Umgangssprache nach *t* aus: *Atem* `[ˈa:tm̩]`.
 
-In der schnellen Umgangssprache fällt der Schwundlaut [ə] in *-el* und *-er* aus, auch wenn ein weiterer Vokal folgt.
+In der schnellen Umgangssprache fällt der Schwundlaut `[ə]` in *-el* und *-er* aus, auch wenn ein weiterer Vokal folgt.
 
 | Umgangssprache | schnell | |
 |-|-|-|
-| [ˈandərə] | [ˈandrə] | *andere* → *andre* |
-| [ˈaɪ̯tələ] | [ˈaɪ̯tlə] | *eitele* → *eitle* |
+| `[ˈandərə]` | `[ˈandrə]` | *andere* → *andre* |
+| `[ˈaɪ̯tələ]` | `[ˈaɪ̯tlə]` | *eitele* → *eitle* |
 
 In der schnellen Umgangssprache fällt der Schwundlaut in *-em* und *-en* nach Vokal und nach Nasal-Auslaut aus.
 
 | Umgangssprache | schnell | |
 |-|-|-|
-| [ˈze:ən]   | [ze:n̩] | *sehen* |
+| `[ˈze:ən]`   | `[ze:n̩]` | *sehen* |
 | | | |
-| [ˈbɪnən]  | [ˈbɪnn̩]  | *binnen* |
-| [ˈbi:nən] | [ˈbi:nn̩] | *Bienen* |
+| `[ˈbɪnən]`  | `[ˈbɪnn̩]` | *binnen* |
+| `[ˈbi:nən]` | `[ˈbi:nn̩]` | *Bienen* |
 
 ### Assimilationen
 
@@ -221,20 +221,20 @@ Silbisch gesprochenes *-en* wird in der schnellen Umgangssprache an den vorherge
 
 | Umgangssprache | schnell | |
 |-|-|-|
-| [ˈha:bn̩] | [ˈha:bm̩] | *haben* |
-| [ˈre:dn̩] | [ˈre:dn̩] | *reden* |
-| [ˈza:gn̩] | [ˈza:gŋ̩] | *sagen* |
+| `[ˈha:bn̩]` | `[ˈha:bm̩]` | *haben* |
+| `[ˈre:dn̩]` | `[ˈre:dn̩]` | *reden* |
+| `[ˈza:gn̩]` | `[ˈza:gŋ̩]` | *sagen* |
 | | | |
-| [ˈne:mən] | [ˈne:mm̩] | *nehmen* |
-| [ˈfaŋən]  | [ˈfaŋŋ̩]  | *fangen* |
+| `[ˈne:mən]` | `[ˈne:mm̩]` | *nehmen* |
+| `[ˈfaŋən]`  | `[ˈfaŋŋ̩]`  | *fangen* |
 
 *nf* wird in der schnellen Umgangssprache zu *mpf*.
 
 | Umgangssprache (schnell) | |
 |-|-|
-| [fʏmpf]       | *fünf* ≡ *fümpf* |
-| [zɛmpf]       | *Senf* ≡ *Sempf* |
-| [ˈtsu:kumpft] | *Zukunft* ≡ *Zukumpft* |
+| `[fʏmpf]`       | *fünf* ≡ *fümpf* |
+| `[zɛmpf]`       | *Senf* ≡ *Sempf* |
+| `[ˈtsu:kumpft]` | *Zukunft* ≡ *Zukumpft* |
 
 ### Grammatik
 
@@ -271,25 +271,25 @@ In der schnellen Umgangssprache werden eigene Abkürzungen vorgenommen.[^das]
 
 | Umgangssprache | schnell | |
 |-|-|-|
-| [das]    | [dɪs]  | *das* → *dis* |
-| [ɪst]    | [ɪs]   | *ist* → *is'* |
-| [jɛtst]  | [jɛts] | *jetzt* → *jetz'* |
-| [nɪçt]   | [nɪç]  | *nicht* → *nich'* |
+| `[das]`    | `[dɪs]`  | *das* → *dis* |
+| `[ɪst]`    | `[ɪs]`   | *ist* → *is'* |
+| `[jɛtst]`  | `[jɛts]` | *jetzt* → *jetz'* |
+| `[nɪçt]`   | `[nɪç]`  | *nicht* → *nich'* |
 | | | |
-| [aɪ̯n]    | [n̩]    | *ein* → *'n*   |
-| [ˈaɪ̯nə]  | [nə]   | *eine* → *'ne*  |
-| [ˈaɪ̯nɐ]  | [na]   | *einer* → *'ner* |
+| `[aɪ̯n]`    | `[n̩]`    | *ein* → *'n*   |
+| `[ˈaɪ̯nə]`  | `[nə]`   | *eine* → *'ne*  |
+| `[ˈaɪ̯nɐ]`  | `[na]`   | *einer* → *'ner* |
 
 [^das]: In der schnellen Umgangssprache wird zwischen *dass* und *das* unterschieden, da *das* zu *dis* wird, während *dass* unverändert bleibt.
 
-In der schnellen Umgangssprache werden unbetonte Personalpronomen im Sprechfluss in ihrer schwachen Form verwendet. Ebenso wird *mal* zu *ma'* mit kurzem *a* [a].
+In der schnellen Umgangssprache werden unbetonte Personalpronomen im Sprechfluss in ihrer schwachen Form verwendet. Ebenso wird *mal* zu *ma'* mit kurzem *a* `[a]`.
 
 | Umgangssprache | schnell | |
 |-|-|-|
-| [hat ɛa̯] | [ˈhata] | *hat er* → *hat-er* |
-| [ɪst zi:] | [ˈɪsə] | *ist sie* → *is-se* |
+| `[hat ɛa̯]` | `[ˈhata]` | *hat er* → *hat-er* |
+| `[ɪst zi:]` | `[ˈɪsə]` | *ist sie* → *is-se* |
 | | | |
-| [hast du: ma:l] | [ˈhastəma] | *hast du mal* → *hast-de-ma* ≡ *haste ma'* |
+| `[hast du: ma:l]` | `[ˈhastəma]` | *hast du mal* → *hast-de-ma* ≡ *haste ma'* |
 
 <!-- ### chs
 
@@ -309,24 +309,24 @@ Die Endung *-es* bzw. der Auslaut *-s* für sächliche Adjektive und Pronomen is
 
 | Umgangssprache (schnell) | Berlinerisch | |
 |-|-|-|
-| [ˈdi:zəs] | [ˈdi:zət] | *dieses* → *dieset*  |
-| [dɪs] | [dɪt] | *dis* → *dit* |
-| [das] | [dat] | *dass* → *dat* |
-| [ɛs] | [ɛt] | *es* → *et* |
+| `[ˈdi:zəs]` | `[ˈdi:zət]` | *dieses* → *dieset*  |
+| `[dɪs]`     | `[dɪt]`     | *dis* → *dit* |
+| `[das]`     | `[dat]`     | *dass* → *dat* |
+| `[ɛs]`      | `[ɛt]`      | *es* → *et* |
 
 ### ts → s
 
-Nach Konsonant fällt [t] in [ts] im Berlinerischen aus.
+Nach Konsonant fällt `[t]` in `[ts]` im Berlinerischen aus.
 
 | Umgangssprache | Berlinerisch | |
 |-|-|-|
-| [akˈtsεnt] | [akˈsεnt] | *Akzent* |
+| `[akˈtsεnt]` | `[akˈsεnt]` | *Akzent* |
 
-Im schnellen Berlinerischen wird jedes [ts] zu [s] verkürzt.
+Im schnellen Berlinerischen wird jedes `[ts]` zu `[s]` verkürzt.
 
 | Berlinerisch | schnell | |
 |-|-|-|
-| [tsu:] | [su:] | *zu*  |
+| `[tsu:]` | `[su:]` | *zu*  |
 
 ### nd → n
 
@@ -334,7 +334,7 @@ Zwischen *n* und Konsonant fällt *d* aus.
 
 | Berlinerisch | schnell | |
 |-|-|-|
-| [ˈfɪnn̩] | [fɪn] | *finden* |
+| `[ˈfɪnn̩]` | `[fɪn]` | *finden* |
 
 ### tm → pm
 
@@ -342,80 +342,80 @@ Auslaut-*t* und silbisches *m* wird als *pm* realisiert.
 
 | Berlinerisch | |
 |-|-|
-| [ˈmɪpm̩] | *mit dem* → *mittm* ≡ *mippm* |
+| `[ˈmɪpm̩]` | *mit dem* → *mittm* ≡ *mippm* |
 
 ### g → j/r/ch
 
-Das Berlinerische *g* wird als [j] oder [ɣ] realisiert. Am Wortende oder vor stimmlosem Konsonanten wird Berlinerisches *g* wie *ch* als [ç] oder [x] realisiert.[^j] Am Wortanfang wird *g* vor Vokal als [j] gesprochen.[^gn-gl-gr]
+Das Berlinerische *g* wird als `[j]` oder `[ɣ]` realisiert. Am Wortende oder vor stimmlosem Konsonanten wird Berlinerisches *g* wie *ch* als `[ç]` oder `[x]` realisiert.[^j] Am Wortanfang wird *g* vor Vokal als `[j]` gesprochen.[^gn-gl-gr]
 
 | Berlinerisch | |
 |-|-|
-| [ˈfra:ɣə] | *Frage* ≡ *Fraghe* ≡ *Frare* |
-| [fra:xt]  | *fragt* ≡ *fracht* |
+| `[ˈfra:ɣə]` | *Frage* ≡ *Fraghe* ≡ *Frare* |
+| `[fra:xt]`  | *fragt* ≡ *fracht* |
 | | |
-| [ˈfli:je] | *Fliege* ≡ *Flieje* |
-| [fli:çt]  | *fliegt* ≡ *fliecht* |
+| `[ˈfli:je]` | *Fliege* ≡ *Flieje* |
+| `[fli:çt]`  | *fliegt* ≡ *fliecht* |
 
-[^j]: Überdeutlich kann *Fragen* [ˈfra:ŋ̩] als [ˈfra:ɣən] oder [ˈfra:jən] ausgesprochen werden. Analog kann *Frage* [ˈfra:ɣə] als [ˈfra:jə] ausgesprochen werden.
+[^j]: Überdeutlich kann *Fragen* `[ˈfra:ŋ̩]` als `[ˈfra:ɣən]` oder `[ˈfra:jən]` ausgesprochen werden. Analog kann *Frage* `[ˈfra:ɣə]` als `[ˈfra:jə]` ausgesprochen werden.
 
-[^gn-gl-gr]: Vor Konsonant wird der Anlaut *g* [g] gesprochen. Überdeutlich können *gn-*, *gl-* und *gr-* jedoch wie \**ge-n-*, \**ge-l-* und \**ge-r-* bzw. \**g'-n-*, \**g'-l-* und \**g'-r-* gesprochen werden: \**verg'nügen* [faˈjny:ŋ̩], \**g'lück* [jlʏk], \**g'rün* [jry:n].
+[^gn-gl-gr]: Vor Konsonant wird der Anlaut *g* `[g]` gesprochen. Überdeutlich können *gn-*, *gl-* und *gr-* jedoch wie \**ge-n-*, \**ge-l-* und \**ge-r-* bzw. \**g'-n-*, \**g'-l-* und \**g'-r-* gesprochen werden: \**verg'nügen* `[faˈjny:ŋ̩]`, \**g'lück* `[jlʏk]`, \**g'rün* `[jry:n]`.
 
 Im Berlinerischen fällt das *i* in *-ig* aus, wenn darauf ein weiterer Vokal folgt.
 
 | Umgangssprache | Berlinerisch | |
 |-|-|-|
 | | | |
-| [ˈfɛa̯tgə] | [ˈfɛa̯tjə] | *fert'ge* → *fertge* ≡ *fertje* |
-| [ɔa̯giˈna:l̩] | [ɔa̯jiˈna:l̩] | *Or'ginal* ≡ *Orjinal* |
+| `[ˈfɛa̯tgə]`   | `[ˈfɛa̯tjə]`   | *fert'ge* → *fertge* ≡ *fertje* |
+| `[ɔa̯giˈna:l̩]` | `[ɔa̯jiˈna:l̩]` | *Or'ginal* ≡ *Orjinal* |
 
 Berlinerisches *ag* am Wortende kann gekürzt werden, wenn kein weiterer Vokal folgt.
 
 | Umgangssprache | Berlinerisch | |
 |-|-|-|
-| [za:k] | [zax] | *sag* |
-| [ta:k] | [tax] | *Tag* |
+| `[za:k]` | `[zax]` | *sag* |
+| `[ta:k]` | `[tax]` | *Tag* |
 
 Im Sprechfluss können *ch* und Berlinerisches *g* am Wortende ausfallen.
 
 | Berlinerisch | |
 |-|-|
-| [dɔx] → [dɔ] | *doch* → *do'* |
-| [nɔx] → [nɔ] | *noch* → *no'* |
-| [o:x] → [o:] | *ooch* → *oo'* |
+| `[dɔx]` → `[dɔ]` | *doch* → *do'* |
+| `[nɔx]` → `[nɔ]` | *noch* → *no'* |
+| `[o:x]` → `[o:]` | *ooch* → *oo'* |
 | | |
-| [nɪç] → [nɪ]         | *nich* → *ni'* |
-| [ˈrɪçtɪç] → [ˈrɪçtɪ] | *richtig* → *richti'*[^sächsisch] |
+| `[nɪç]` → `[nɪ]`         | *nich* → *ni'* |
+| `[ˈrɪçtɪç]` → `[ˈrɪçtɪ]` | *richtig* → *richti'*[^sächsisch] |
 
-[^sächsisch]: Theoriefindung: Die Vermischung von [ç] und [ʃ] sowie von [ɪ] und [ʏ] kommt aus dem Sächsischen und erlaubt die extra entspannte Aussprache *rüschti'* [ˈrʏʃtɪ].
+[^sächsisch]: Theoriefindung: Die Vermischung von `[ç]` und `[ʃ]` sowie von `[ɪ]` und `[ʏ]` kommt aus dem Sächsischen und erlaubt die extra entspannte Aussprache *rüschti'* `[ˈrʏʃtɪ]`.
 
 ### pf → f/pp
 
-*pf* wird zu *f* (vor Vokal) oder *pp* (nach Vokal).
+*pf* wird zu *f* (als Anlaut) oder *pp* (als Auslaut).
 
 | Umgangssprache | Berlinerisch | |
 |-|-|-|
-| [ˈpfεfa]  | [ˈfεfa]  | *Pfeffer* → *Feffer* |
-| [ˈpfo:tə] | [ˈfo:tə] | *Pfote* → *Fote* |
+| `[ˈpfεfa]`  | `[ˈfεfa]`  | *Pfeffer* → *Feffer* |
+| `[ˈpfo:tə]` | `[ˈfo:tə]` | *Pfote* → *Fote* |
 | | | |
-| [ˈapfl̩] | [ˈapl̩] | *Apfel* → *Appel* |
-| [kɔpf]  | [kɔp]  | *Kopf* → *Kopp* |
+| `[ˈapfl̩]` | `[ˈapl̩]` | *Apfel* → *Appel* |
+| `[kɔpf]`  | `[kɔp]`  | *Kopf* → *Kopp* |
 
 ### ɪ ≡ ʏ
 
-Das gelängte *i* [ɪ:] wird zu [ʏ:].
+Das gelängte *i* `[ɪ:]` wird zu `[ʏ:]`.
 
 | Umgangssprache | Berlinerisch | |
 |-|-|-|
-| [vɪ:t] | [vʏ:t] | *wird* ≡ *würd* |
+| `[vɪ:t]` | `[vʏ:t]` | *wird* ≡ *würd* |
 
 ### ə ≡ a
 
-An Stelle von [əˈr] und [ɛˈr] wird [ar] gesprochen.
+An Stelle von `[əˈr]` und `[ɛˈr]` wird `[ar]` gesprochen.
 
 | Umgangssprache | Berlinerisch | |
 |-|-|-|
-| [batəˈri:] | [bataˈri:] | *Batterie* ≡ *Battarie* |
-| [hɛˈrʊm]   | [haˈrʊm]   | *herum* ≡ *harum* |
+| `[batəˈri:]` | `[bataˈri:]` | *Batterie* ≡ *Battarie* |
+| `[hɛˈrʊm]`   | `[haˈrʊm]`   | *herum* ≡ *harum* |
 
 ### Monophthonge
 
@@ -425,21 +425,21 @@ Urgermanisches **ai* kann im Berlinerischen durch *ee* widergegeben werden.
 
 | Umgangssprache | Berlinerisch | |
 |-|-|-|
-| [klaɪ̯n] | [kle:n] | *klein* → *kleen* |
+| `[klaɪ̯n]` | `[kle:n]` | *klein* → *kleen* |
 
 Bedeutungsunterscheidend:
 
 | Umgangssprache | Berlinerisch | |
 |-|-|-|
-| [vaɪ̯s] | [ve:s] | *weiß* → *weeß* (wissen) |
-| [vaɪ̯s] | [vaɪ̯s] | *weiß* (Farbe) |
+| `[vaɪ̯s]` | `[ve:s]` | *weiß* → *weeß* (wissen) |
+| `[vaɪ̯s]` | `[vaɪ̯s]` | *we`iß* (Farbe) |
 
 Im Falle von *meinen* ("eine Meinung haben") und *meinen* → *meenen* ("den von mir") ist die Etymologie "vertauscht": *meinen* hat ein urgermanisches *ai*, während *meenen* ein urgermanisches *i* hat.
 
 | Umgangssprache | Berlinerisch | |
 |-|-|-|
-| [ˈmaɪ̯nə] | [ˈme:nə] | *meine* → *meene* (von mir) |
-| [ˈmaɪ̯nə] | [ˈmaɪ̯nə] | *meine* (habe die Meinung) |
+| `[ˈmaɪ̯nə]` | `[ˈme:nə]` | *meine* → *meene* (von mir) |
+| `[ˈmaɪ̯nə]` | `[ˈmaɪ̯nə]` | *meine* (habe die Meinung) |
 
 #### i
 
@@ -447,7 +447,7 @@ In wenigen Fällen ist das urgermanische *i* erhalten geblieben.
 
 | Umgangssprache | Berlinerisch | |
 |-|-|-|
-| [raɪ̯n] | [rɪ̯n] | *rein* → *rin* (herein) |
+| `[raɪ̯n]` | `[rɪ̯n]` | *rein* → *rin* (herein) |
 
 #### au → oo
 
@@ -455,7 +455,7 @@ Urgermanisches **au* kann im Berlinerischen durch *oo* widergegeben werden.
 
 | Umgangssprache | Berlinerisch | |
 |-|-|-|
-| [glaʊ̯bn̩] | [glo:m̩] | *glauben* → *glooben* |
+| `[glaʊ̯bn̩]` | `[glo:m̩]` | *glauben* → *glooben* |
 
 #### u
 
@@ -463,30 +463,30 @@ In wenigen Fällen ist das urgermanische *u* erhalten geblieben.
 
 | Umgangssprache | Berlinerisch | |
 |-|-|-|
-| [ˈʃnaʊ̯tsə] | [ˈʃnu:tə] | *Schnauze* → *Schnute* |
+| `[ˈʃnaʊ̯tsə]` | `[ˈʃnu:tə]` | *Schnauze* → *Schnute* |
 
 ### Vokabular
 
 | Umgangssprache | Berlinerisch | |
 |-|-|-|
-| [aʊ̯f]       | [ʊf]         | *auf* → *uf* |
-| [dan]       | [dɛn]        | *dann* → *denn* |
-| [dɛn]       | [n̩]          | *denn* → *'n* |
-| [ˈkʊkŋ̩]     | [ˈki:kŋ̩]     | *gucken* → *kieken* |
-| [ɪç]        | [ɪk]         | *ich* → *ick* |
-| [ʊnt]       | [ʊn]         | *und* → *un'* |
-| [ˈfi:lə]    | [ˈfɪlə]      | *viele* → *ville* |
-| [fiˈlaɪ̯çt]  | [fɪˈlaɪ̯çt]   | *vielleicht* → *villeicht* |
-| [vɛk]       | [vɛk]        | *weg* → *weck*[^weg] |
-| [vaɪ̯l̩]      | [vaɫ]        | *weil* → *wall* |
+| `[aʊ̯f]`       | `[ʊf]`         | *auf* → *uf* |
+| `[dan]`       | `[dɛn]`        | *dann* → *denn* |
+| `[dɛn]`       | `[n̩]`          | *denn* → *'n* |
+| `[ˈkʊkŋ̩]`     | `[ˈki:kŋ̩]`     | *gucken* → *kieken* |
+| `[ɪç]`        | `[ɪk]`         | *ich* → *ick* |
+| `[ʊnt]`       | `[ʊn]`         | *und* → *un'* |
+| `[ˈfi:lə]`    | `[ˈfɪlə]`      | *viele* → *ville* |
+| `[fiˈlaɪ̯çt]`  | `[fɪˈlaɪ̯çt]`   | *vielleicht* → *villeicht* |
+| `[vɛk]`       | `[vɛk]`        | *weg* → *weck*[^weg] |
+| `[vaɪ̯l̩]`      | `[vaɫ]`        | *weil* → *wall* |
 
-[^weg]: Sonst wäre *weg* [vɛç] zu erwarten gewesen.
+[^weg]: Sonst wäre *weg* `[vɛç]` zu erwarten gewesen.
 
 | Umgangssprache | Berlinerisch | |
 |-|-|-|
-| [an di:]  | [ˈanə]  | *an die* → *anne* |
-| [ɪn dɛa̯]  | [ˈɪna]  | *in der* → *inna* |
-| [fɔn dɛa̯] | [ˈfɔna] | *von der* → *vonna* |
+| [an di:]  | `[ˈanə]`  | *an die* → *anne* |
+| [ɪn dɛa̯]  | `[ˈɪna]`  | *in der* → *inna* |
+| [fɔn dɛa̯] | `[ˈfɔna]` | *von der* → *vonna* |
 
 Im Berlinerischen können die Demonstrativpronomen *der*, *die* und *dit* an Stelle der Personalpronomen *er*, *sie* und *et* verwendet werden.
 
@@ -498,19 +498,19 @@ Im schnellen Berlinerischen kann ein Auslaut vor schwachem *ick* ausfallen. Nach
 
 | Berlinerisch | schnell | |
 |-|-|-|
-| [ˈha:bɪk] | [ˈha:ɪk] | *hab-ik* → *ha'ik* |
-| [ˈvʏ:dɪk] | [ˈvʏ:ɪk] | *würd-ik* → *wür'ik* |
-| [ˈza:ɣɪk] | [ˈza:ɪk] | *sag-ik* → *sa'ik* |
+| `[ˈha:bɪk]` | `[ˈha:ɪk]` | *hab-ik* → *ha'ik* |
+| `[ˈvʏ:dɪk]` | `[ˈvʏ:ɪk]` | *würd-ik* → *wür'ik* |
+| `[ˈza:ɣɪk]` | `[ˈza:ɪk]` | *sag-ik* → *sa'ik* |
 | | | |
-| [ˈvɛnɪk]  | [vɛŋk] | *wenn-ik* → *wenn'k* |
-| [ˈfɪndɪk] | [fɪŋk] | *find-ik* → *fin'k* |
+| `[ˈvɛnɪk]`  | `[vɛŋk]` | *wenn-ik* → *wenn'k* |
+| `[ˈfɪndɪk]` | `[fɪŋk]` | *find-ik* → *fin'k* |
 
 Das hochdeutsche schwache *es* (*'s*) kann auch im schnellen Berlinerischen an Stelle von schwachem *et* (*-t*) verwendet werden.
 
 | Berlinerisch | schnell | |
 |-|-|-|
-| [ˈvɛnət] | [vɛnt] | *wenn-et* → *wenn't* |
-| [vɛn εt] | [vɛns] | *wenn et* → *wenn's* |
+| `[ˈvɛnət]` | `[vɛnt]` | *wenn-et* → *wenn't* |
+| `[vɛn εt]` | `[vɛns]` | *wenn et* → *wenn's* |
 
 ### Grammatik
 
@@ -518,14 +518,14 @@ Zur Hervorhebung kann nach Konsonant die Endung *-e* verwendet werden.
 
 | Berlinerisch | |
 |-|-|
-| [ˈɪkə]   | *eben ich* → *icke* |
-| [ˈjεtsə] | *genau jetzt* → *jetze* |
+| `[ˈɪkə]`   | *eben ich* → *icke* |
+| `[ˈjεtsə]` | *genau jetzt* → *jetze* |
 
 Statt *solche* (Plural) wird *so 'ne* gesagt (quasi \**so eine*).
 
 | Berlinerisch | |
 |-|-|
-| [zo: nə ˈzaxŋ̩] | *solche Sachen* → *so 'ne Sachen* |
+| `[zo: nə ˈzaxŋ̩]` | *solche Sachen* → *so 'ne Sachen* |
 
 *haben* + *sitzen*/*stehen*/*liegen* wird im Berlinerischen mit *zu* gebildet.
 
