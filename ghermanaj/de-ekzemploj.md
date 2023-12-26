@@ -217,9 +217,9 @@ hʊndat māl̩ ...
 
 [^von]: *von* wird hier *vo'* `fɔ` ausgesprochen.
 
-[^vogel]: *Vogel* wird hier möglicherweise mundartlich `ˈfo:gl̩` statt `ˈfo:ɣl̩` ausgesprochen.
+[^vogel]: *Vogel* wird hier möglicherweise hochdeutsch `ˈfo:gl̩` statt `ˈfo:ɣl̩` ausgesprochen.
 
-[^getrieben]: *-trieben* wird hier möglicherweise mundartlich `ˈtri:bm̩` statt `ˈtri:m̩` ausgesprochen.
+[^getrieben]: *-trieben* wird hier möglicherweise deutlich `ˈtri:bm̩` statt `ˈtri:m̩` ausgesprochen.
 
 [^statuen]: Gemeint sind natürlich *Statuen* `ˈʃta:tu̯ən`.
 
@@ -239,7 +239,7 @@ hʊndat māl̩ ...
 
 [^als-wie]: Grammatisch korrekt - und durchaus möglich - ist natürlich einfach *länger als er*.
 
-[^augen]: Gesprochen wird überdeutliches *Oog-en* `ˈo:ɣən` statt `ˈo:ŋ̩`.
+[^augen]: Gesprochen wird überdeutliches *Oog-en* `ˈo:ɣən` statt `ˈo:ŋ̩F.
 
 ### Redensarten
 
