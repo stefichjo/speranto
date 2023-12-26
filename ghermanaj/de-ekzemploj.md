@@ -89,7 +89,7 @@ bɪstə āba e:m̩ jərādə nɪç!
 [^gegen]: *Gegenteil* wird hier überdeutlich mit `ˈje:jən` statt `ˈje:ŋ̩` gesungen.
 [^rein]: Statt *rin* `rɪn` wird hier überdeutlicherweise *rein* mit überdeutlichem *-en* `ən` gesungen (quasi \**reihen*).
 [^eine]: Statt *eene* `ˈe:nə` wird hier überdeutlicherweise *eine* `ˈaɪ̯nə` gesungen.
-[^auen]: *hau'n* und *Zaun* werden hier mit überdeutlichem *-en* `ən` gesungen (wie *hauhen* und *Zauhen*).
+[^auen]: *hau'n* und *Zaun* werden hier mit überdeutlichem *-en* `ən` gesungen (quasi \**hauhen* und *Zauhen*).
 [^find-da]: Beim ersten *ick find-da widerlich* wird *-da* überdeutlich gesungen: *ick find dir widerlich*.
 
 ### Marias Lied (Hey Du)
@@ -210,9 +210,6 @@ naxts ʊm draɪ ɪs bɛalīn dɛa raɪnstə kuaɔ̄t.
 
 hʊndat māl̩ ...
 
-<!-- n̩m̩ŋ̩l̩ɫ ɣʃ ˈ -->
-<!-- āɛ̄ɪ̄ɔ̄ʊ̄ œ̄ʏ̄ ø̄ȳ -->
-
 [^er-ör-or]: Hahnemann verwendet in *er*, *ör*, *or* deutlicherweise geschlossene Vokale und sagt *Berlin* `bea̯ˈli:n`, *Gören* `jøa̯n`, *vor* `foa̯` statt *Berlin* `bεa̯ˈli:n`, *Gören* `jœa̯n`, *vor* `fɔa̯`.
 
 [^von]: *von* wird hier *vo'* `fɔ` ausgesprochen.
@@ -239,10 +236,13 @@ hʊndat māl̩ ...
 
 [^als-wie]: Grammatisch korrekt - und durchaus möglich - ist natürlich einfach *länger als er*.
 
-[^augen]: Gesprochen wird überdeutliches *Oog-en* `ˈo:ɣən` statt `ˈo:ŋ̩F.
+[^augen]: Gesprochen wird überdeutliches *Oog-en* `ˈo:ɣən` statt `ˈo:ŋ̩`.
 
 ### Redensarten
 
 Kommen-Se rin, (da) können-Se rauskieken.  
 `kɔmm̩zə rɪn, (dā) kœnn̩zə raʊskīkŋ.`
+
+<!-- n̩m̩ŋ̩l̩ɫ ɣʃ ˈ -->
+<!-- āɛ̄ɪ̄ɔ̄ʊ̄ œ̄ʏ̄ ø̄ȳ -->
 

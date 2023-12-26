@@ -9,11 +9,6 @@ Es handelt sich bei dieser Unterteilung um eine sehr meinungsstarke Darstellung 
 [^register]: Schnelles Hochdeutsch und deutliche Umgangssprache unterscheiden sich kaum, ebenso wie schnelle Umgangssprache und deutliches Berlinerisch.
 
 <!--
-Klammern [] // entfernen
-`` verwenden?
--->
-
-<!--
 weeng die Hitze
 allgemeiner Akkudativ
 mit die Gießkanne
@@ -22,6 +17,22 @@ vort Jereet?
 in Bett
 vonne - ist das auch akkudativ? was ist mit "in bett"? und männliche substantive/artikel+präposition?
 -->
+
+<!-- In der schnellen Umgangssprache wird an Stelle des Imperativs der Konjunktiv I verwendet.
+
+| Umgangssprache | schnell | |
+|-|-|-|
+| [hɪɫf] | [hɛɫfə]   | *hilf!* → *helfe!* | -->
+
+<!-- ### chs
+
+In der schnellen Umgangssprache wird *chs* als [ks] ausgesprochen.[^nix]
+
+| Umgangssprache | schnell | |
+|-|-|-|
+| [ne:çst] | [ne:kst] | *nächst* |
+
+[^nix]: In der schnellen Umgangssprache fällt das *t* in *nichts* aus: *nichts* → *nix* [nɪks]. Vgl. hochdeutsches *sechzig* [ˈzɛçtsɪç] nebst *sechs* [zɛks]. -->
 
 ## Hochdeutsch
 
@@ -101,7 +112,7 @@ In der Umgangssprache wird `a` wie `ɐ` gesprochen, so dass *Lader* wie *Lada* a
 
 ### Diphthongisierung
 
-In der Umgangssprache werden lange Vokale (außer `a:`^a-diphthong]) vor Vokal diphthongisiert, d.h. sie werden mit nicht-silbischem `ɪ̯` bzw. `ʊ̯` gesprochen.
+In der Umgangssprache werden lange Vokale (außer `a:`[^a-diphthong]) vor Vokal diphthongisiert, d.h. sie werden mit nicht-silbischem `ɪ̯` bzw. `ʊ̯` gesprochen.
 
 | Hochdeutsch | Umgangssprache | |
 |-|-|-|
@@ -259,12 +270,6 @@ In der schnellen Umgangssprache wird an Stelle der einfachen Vergangenheit die a
 | | |
 | *das war schön* | *dis war schön gewesen* |
 
-<!-- In der schnellen Umgangssprache wird an Stelle des Imperativs der Konjunktiv I verwendet.
-
-| Umgangssprache | schnell | |
-|-|-|-|
-| [hɪɫf] | [hɛɫfə]   | *hilf!* → *helfe!* | -->
-
 ### Vokabular
 
 In der schnellen Umgangssprache werden eigene Abkürzungen vorgenommen.[^das]
@@ -290,16 +295,6 @@ In der schnellen Umgangssprache werden unbetonte Personalpronomen im Sprechfluss
 | `ɪst zi:` | `ˈɪsə` | *ist sie* → *is-se* |
 | | | |
 | `hast du: ma:l` | `ˈhastəma` | *hast du mal* → *hast-de-ma* ≡ *haste ma'* |
-
-<!-- ### chs
-
-In der schnellen Umgangssprache wird *chs* als [ks] ausgesprochen.[^nix]
-
-| Umgangssprache | schnell | |
-|-|-|-|
-| [ne:çst] | [ne:kst] | *nächst* |
-
-[^nix]: In der schnellen Umgangssprache fällt das *t* in *nichts* aus: *nichts* → *nix* [nɪks]. Vgl. hochdeutsches *sechzig* [ˈzɛçtsɪç] nebst *sechs* [zɛks]. -->
 
 ## Berlinerisch
 
@@ -598,7 +593,7 @@ Oft wird im deutlichen Berlinerisch hyperkorrekt *'nen* statt *'n* oder *ein* ge
 
 Assimilierte *-em* und *-en* werden in überdeutlicher Aussprache mit Schwundlaut ausgesprochen.[^en]
 
-| Umgangssprache (schnell) | Berlinerisch (überdeutlich) | |
+| Berlinerisch (deutlich) | Berlinerisch (überdeutlich) | |
 |-|-|-|
 | `ˈze:n̩` | `ˈzeɪ̯ən` | *sehen* |
 
@@ -612,34 +607,49 @@ Im Berlinerischen werden an Stelle von schwachen *mich* und *dich* die schwachen
 
 [^akkudativ]: Oft wird aber hyperkorrekt *mir* und *dir* gesagt: *ick wundre mir*. Man spricht dann vom "Akkudativ".
 
+## Zusammenfassung
+
+| *ir*, *ür*, *ur* | deutlich | normal | schnell |
+|-|-|-|-|
+| **Hochdeutsch**    | `i:r` `y:r` `u:r` | `i:ɐ̯` `y:ɐ̯` `u:ɐ̯` | `iɐ̯` `yɐ̯` `uɐ̯` |
+| **Umgangssprache** | `ia̯` `ya̯` `ua̯`    | `=` `=` `=`       | `=` `=` `=`    |
+
+| *irr*, *ürr*, *urr* | deutlich | normal | schnell |
+|-|-|-|-|
+| **Hochdeutsch**    | `ɪr` `ʏr` `ʊr` | `ɪr` `ʏr` `ʊr` | `ɪɐ̯` `ʏɐ̯` `ʊɐ̯` |
+| **Umgangssprache** | `ɪ:` `ʏ:` `ʊ:` | `=` `=` `=`    | `=` `=` `=`    |
+
+| *er*, *ör*, *or* | deutlich | normal | schnell |
+|-|-|-|-|
+| **Hochdeutsch**    | `e:r` `ø:r` `o:r` | `e:ɐ̯` `ø:ɐ̯` `o:ɐ̯` | `eɐ̯` `øɐ̯` `oɐ̯` |
+| **Umgangssprache** | `ea̯` `øa̯` `oa̯`    | `ɛa̯` `œa̯` `ɔa̯`    | `=` `=` `=`    |
+
+| *err*/*ärr*, *örr*, *orr* | deutlich | normal | schnell |
+|-|-|-|-|
+| **Hochdeutsch**    | `ɛr` `œr` `ɔr`   | `ɛr` `œr` `ɔr` | `ɛɐ̯` `œɐ̯` `ɔɐ̯` |
+| **Umgangssprache** | `(ea̯)` `œ:` `ɔ:` | `(ɛa̯)` `=` `=` | `(=)` `=` `=`  |
+
+| *är* | deutlich | normal | schnell |
+|-|-|-|-|
+| **Hochdeutsch**    | `ɛ:r`  | `ɛ:ɐ̯` | `ɛɐ̯`  |
+| **Umgangssprache** | `(ea̯)` | `(ɛa̯)`| `(=)` |
+
+| *ar* | deutlich | normal | schnell |
+|-|-|-|-|
+| **Hochdeutsch**    | `a:r` | `a:ɐ̯` | `aɐ̯`  |
+| **Umgangssprache** | `a:`  | `=`   | `=` |
+
+| *arr* | deutlich | normal | schnell |
+|-|-|-|-|
+| **Hochdeutsch**    | `ar`   | `ar`  | `(aɐ̯)` |
+| **Umgangssprache** | `(a:)` | `(=)` | `(=)`  |
+
 ## Nützliche Links
 
 * [Bühnendeutsch, Theodor Siebs (1898)](https://archive.org/details/deutschebhnena00siebrich)
 * [Duden, das Aussprachewörterbuch (2023)](https://www.google.de/books/edition/Duden_Das_Aussprachew%C3%B6rterbuch/ByrmEAAAQBAJ)
 * [Deutsch mit Benjamin (YouTube-Kanal)](https://www.youtube.com/@DeutschMitBenjamin)
 * [Beispiele](de-ekzemploj.md)
-
-<!--
-i:R i:A iA    y:R y:A yA    u:R u:A uA
-ia            ya            ua
-
-IR  IR  IA    YR  YR  YA    UR  UR  UA
-I:            Y:            U:
-
-e:R e:A eA    ø:R ø:A øA    o:R o:A oA
-ea  Ea        øa  œa        oa  Oa
-
-ER  Er  EA    œR  œr  œA    OR  Or  OA
-              œ:            O:
-
-E:R E:A EA
-
-a:R a:A aA
-a:
-
-aR  ar  aA
-a:
--->
 
 <!-- lL ... -->
 
