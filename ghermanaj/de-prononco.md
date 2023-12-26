@@ -72,7 +72,7 @@ Im Hochdeutschen werden *erd* und *ert*, nicht aber *ärd* und *ärt*, mit lange
 | `ˈve:ɐ̯tɐ` | *werter* |
 | `ˈvɛrtɐ`  | *Wärter* |
 
-[^erst]: Die Wörter *erst* und *Erz* werden im Hochdeutschen mit langem *er* gesprochen, da sie von *eh* [e:] abgeleitet sind. Daher reimen sich *ersten* `e:ɐ̯stn̩` nicht auf *bersten* `bɛrstn̩`.
+[^erst]: Die Wörter *erst* und *Erz* werden im Hochdeutschen mit langem *er* gesprochen, da sie von *eh* `e:` abgeleitet sind. Daher reimen sich *ersten* `e:ɐ̯stn̩` nicht auf *bersten* `bɛrstn̩`.
 
 Im schnellen Hochdeutsch wird ein langer Vokal vor *r* gekürzt.
 
@@ -132,7 +132,7 @@ In der Umgangssprache wird Auslaut-*l* nach langem Vokal silbisch gesprochen. In
 
 ### Rhotizität
 
-In der Umgangssprache wird ein kurzer Vokal vor *r* gelängt, ohne die Vokalqualität zu verändern, sodass *fort* wie englisches *fought* [fɔ:t] ausgesprochen wird.
+In der Umgangssprache wird ein kurzer Vokal vor *r* gelängt, ohne die Vokalqualität zu verändern, sodass *fort* wie englisches *fought* `fɔ:t` ausgesprochen wird.
 
 | Hochdeutsch | Umgangssprache | |
 |-|-|-|
@@ -167,7 +167,7 @@ In der Umgangssprache verhält sich kurzes *är/er* wie langes *är/er*.
 | `ˈve:ɐ̯tɐ` | `ˈveɐ̯ta` | `ˈvɛa̯ta` | *werter* |
 | `ˈvɛrtɐ`  | `ˈvɛɐ̯ta` | `ˈvɛa̯ta` | *Wärter* |
 
-Kurzes/gekürztes *a* [a] verschmilzt mit nicht-silbischem `a̯` zu langem `a:`, sodass *dar* und *da* nicht mehr voneinander zu unterscheiden sind: `da:`.[^dar]
+Kurzes/gekürztes *a* `a` verschmilzt mit nicht-silbischem `a̯` zu langem `a:`, sodass *dar* und *da* nicht mehr voneinander zu unterscheiden sind: `da:`.[^dar]
 
 | Hochdeutsch | schnell | Umgangssprache | |
 |-|-|-|-|
@@ -484,9 +484,9 @@ In wenigen Fällen ist das urgermanische *u* erhalten geblieben.
 
 | Umgangssprache | Berlinerisch | |
 |-|-|-|
-| [an di:]  | `ˈanə`  | *an die* → *anne* |
-| [ɪn dɛa̯]  | `ˈɪna`  | *in der* → *inna* |
-| [fɔn dɛa̯] | `ˈfɔna` | *von der* → *vonna* |
+| `an di:`  | `ˈanə`  | *an die* → *anne* |
+| `ɪn dɛa̯`  | `ˈɪna`  | *in der* → *inna* |
+| `fɔn dɛa̯` | `ˈfɔna` | *von der* → *vonna* |
 
 Im Berlinerischen können die Demonstrativpronomen *der*, *die* und *dit* an Stelle der Personalpronomen *er*, *sie* und *et* verwendet werden.
 
@@ -593,7 +593,7 @@ Oft wird im deutlichen Berlinerisch hyperkorrekt *'nen* statt *'n* oder *ein* ge
 
 | Berlinerisch | deutlich | |
 |-|-|-|
-| `n̩` | `nən` | *'n* → *'nen*[^nen] |
+| `n̩` | `nən` | *'n* → *'nen* |
 | `m̩` | `nəm` | *'m* → *'nem* |
 
 Assimilierte *-em* und *-en* werden in überdeutlicher Aussprache mit Schwundlaut ausgesprochen.[^en]

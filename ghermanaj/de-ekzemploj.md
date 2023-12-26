@@ -126,7 +126,7 @@ vī dū - ʊnt fya mɪç vaɪnt
 
 [^ä]: *erzählen* wird hier überdeutlich mit *ä* `ɛ̄` statt `ē` gesungen.
 
-[^dit]: Hier wird älteres *det* [dεt] statt *dit* `dɪt` gesungen.
+[^dit]: Hier wird älteres *det* `dεt` statt *dit* `dɪt` gesungen.
 
 [^au]: Das *au* von *außer* (und *traurig*, *Trauer*, *auch*) wird hier bühnendeutsch `ao̯` gesungen.
 
@@ -180,7 +180,7 @@ vaɫzə zō jūt atsōŋ̩[^erzogen] zɪnt.
 dī hām̩ jā ōx mɛa n̩ hɛats fya ian razn̩.  
 vat haɪst hia, bɛalīna jœan zɪnt frɛç vī rɔts?  
 alət ʃpɪnə, ɛɪ[^ey].  
-vɪ klēnə[^kleine] ɛŋl̩çən sɪtsn̩zə bɪs zɛndəʃlʊs fɔada[^vor-der] rø̄rə  
+vɪ klēnə[^kleine] ɛŋl̩çən sɪtsn̩zə bɪs zɛndəʃlʊs fɔada rø̄rə  
 ɔpvōɫ papa ʊnt mama ʃōn lɛŋst ɪns bɛtt[^ins-bett] jəjaŋŋ̩ zɪnt.  
 āba dɪt ʃønstə fɔn bɛalīn zɪnt via fraʊn̩.  
 dɛa man, dɛa zō ēnə apkrɪçt kanzɪ gratulian.  
@@ -244,5 +244,5 @@ hʊndat māl̩ ...
 ### Redensarten
 
 Kommen-Se rin, (da) können-Se rauskieken.  
-[kɔmm̩zə rɪn, (dā) kœnn̩zə raʊskīkŋ.]
+`kɔmm̩zə rɪn, (dā) kœnn̩zə raʊskīkŋ.`
 
