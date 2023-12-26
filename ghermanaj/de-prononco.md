@@ -18,12 +18,6 @@ in Bett
 vonne - ist das auch akkudativ? was ist mit "in bett"? und männliche substantive/artikel+präposition?
 -->
 
-<!-- In der schnellen Umgangssprache wird an Stelle des Imperativs der Konjunktiv I verwendet.
-
-| Umgangssprache | schnell | |
-|-|-|-|
-| [hɪɫf] | [hɛɫfə]   | *hilf!* → *helfe!* | -->
-
 ## Hochdeutsch
 
 ### äu/eu
@@ -260,6 +254,12 @@ In der schnellen Umgangssprache wird an Stelle der einfachen Vergangenheit die a
 | | |
 | *das war schön* | *dis war schön gewesen* |
 
+In der schnellen Umgangssprache kann an Stelle des Imperativs der Konjunktiv I verwendet werden.
+
+| Umgangssprache | schnell | |
+|-|-|-|
+| `hɪɫf` | `hɛɫfə` | *hilf!* → *helfe!* |
+
 ### Vokabular
 
 In der schnellen Umgangssprache werden eigene Abkürzungen vorgenommen.[^das]
@@ -270,12 +270,15 @@ In der schnellen Umgangssprache werden eigene Abkürzungen vorgenommen.[^das]
 | `ɪst`    | `ɪs`   | *ist* → *is'* |
 | `jɛtst`  | `jɛts` | *jetzt* → *jetz'* |
 | `nɪçt`   | `nɪç`  | *nicht* → *nich'* |
+| `nɪçts`  | `nɪks` | *nichts* → *nich's* ≡ *nix*[^nix] |
 | | | |
 | `aɪ̯n`    | `n̩`    | *ein* → *'n*   |
 | `ˈaɪ̯nə`  | `nə`   | *eine* → *'ne*  |
 | `ˈaɪ̯nɐ`  | `na`   | *einer* → *'ner* |
 
 [^das]: In der schnellen Umgangssprache wird zwischen *dass* und *das* unterschieden, da *das* zu *dis* wird, während *dass* unverändert bleibt.
+
+[^nix]: Vgl. hochdeutsches *sechzig* [ˈzɛçtsɪç] nebst *sechs* [zɛks].
 
 In der schnellen Umgangssprache werden unbetonte Personalpronomen im Sprechfluss in ihrer schwachen Form verwendet. Ebenso wird *mal* zu *ma'* mit kurzem *a* `a`.
 
@@ -464,15 +467,13 @@ In wenigen Fällen ist das urgermanische *u* erhalten geblieben.
 | `fiˈlaɪ̯çt`  | `fɪˈlaɪ̯çt`   | *vielleicht* → *villeicht* |
 | `vaɪ̯l̩`      | `vaɫ`        | *weil* → *wall* |
 
-Bei einigen Wörtern kann `k` statt `ç` gesprochen werden.[^nix]
+Bei einigen Wörtern kann `k` statt `ç` gesprochen werden.
 
 | Umgangssprache | Berlinerisch | |
 |-|-|-|
 | `ˈbɪsçən` | `ˈbɪsçən` → `ˈbɪskən` | *bisschen* |
 | `ne:çst`  | `ne:çst` → `ne:kst`   | *nächst* |
 | `vɛk`     | `vɛç` → `vɛk`         | *weg* |
-
-[^nix]: Wenn das *t* in *nichts* ausfällt, ist die Aussprache mit `k` obligatorisch: *nichts* → *nix* [nɪks]. (Vgl. hochdeutsches *sechzig* [ˈzɛçtsɪç] nebst *sechs* [zɛks].)
 
 | Umgangssprache | Berlinerisch | |
 |-|-|-|
