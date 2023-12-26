@@ -24,16 +24,6 @@ vonne - ist das auch akkudativ? was ist mit "in bett"? und männliche substantiv
 |-|-|-|
 | [hɪɫf] | [hɛɫfə]   | *hilf!* → *helfe!* | -->
 
-<!-- ### chs
-
-In der schnellen Umgangssprache wird *chs* als [ks] ausgesprochen.[^nix]
-
-| Umgangssprache | schnell | |
-|-|-|-|
-| [ne:çst] | [ne:kst] | *nächst* |
-
-[^nix]: In der schnellen Umgangssprache fällt das *t* in *nichts* aus: *nichts* → *nix* [nɪks]. Vgl. hochdeutsches *sechzig* [ˈzɛçtsɪç] nebst *sechs* [zɛks]. -->
-
 ## Hochdeutsch
 
 ### äu/eu
@@ -381,7 +371,7 @@ Im Sprechfluss können *ch* und Berlinerisches *g* am Wortende ausfallen.
 | `nɪç` → `nɪ`         | *nich* → *ni'* |
 | `ˈrɪçtɪç` → `ˈrɪçtɪ` | *richtig* → *richti'*[^sächsisch] |
 
-[^sächsisch]: Theoriefindung: Die Vermischung von `ç` und `ʃ` sowie von `ɪ` und `ʏ` kommt aus dem Sächsischen und erlaubt die extra entspannte Aussprache *rüschti'* `ˈrʏʃtɪ`.
+[^sächsisch]: Theoriefindung: Die Vermischung von `ç` und `ʃ` sowie von `ɪ` und `ʏ` kommt aus dem Sächsischen und erlaubt die extra entspannte Aussprache *rüschti'* `ˈrʏʃtɪ` sowie die Vokabel *nüscht* `nʏʃt` an Stelle von *nix* `nɪks`.
 
 ### pf → f/pp
 
@@ -472,10 +462,17 @@ In wenigen Fällen ist das urgermanische *u* erhalten geblieben.
 | `ʊnt`       | `ʊn`         | *und* → *un'* |
 | `ˈfi:lə`    | `ˈfɪlə`      | *viele* → *ville* |
 | `fiˈlaɪ̯çt`  | `fɪˈlaɪ̯çt`   | *vielleicht* → *villeicht* |
-| `vɛk`       | `vɛk`        | *weg* → *weck*[^weg] |
 | `vaɪ̯l̩`      | `vaɫ`        | *weil* → *wall* |
 
-[^weg]: Sonst wäre *weg* `vɛç` zu erwarten gewesen.
+Bei einigen Wörtern kann `k` statt `ç` gesprochen werden.[^nix]
+
+| Umgangssprache | Berlinerisch | |
+|-|-|-|
+| `ˈbɪsçən` | `ˈbɪsçən` → `ˈbɪskən` | *bisschen* |
+| `ne:çst`  | `ne:çst` → `ne:kst`   | *nächst* |
+| `vɛk`     | `vɛç` → `vɛk`         | *weg* |
+
+[^nix]: Wenn das *t* in *nichts* ausfällt, ist die Aussprache mit `k` obligatorisch: *nichts* → *nix* [nɪks]. (Vgl. hochdeutsches *sechzig* [ˈzɛçtsɪç] nebst *sechs* [zɛks].)
 
 | Umgangssprache | Berlinerisch | |
 |-|-|-|
@@ -650,16 +647,3 @@ Im Berlinerischen werden an Stelle von schwachen *mich* und *dich* die schwachen
 * [Duden, das Aussprachewörterbuch (2023)](https://www.google.de/books/edition/Duden_Das_Aussprachew%C3%B6rterbuch/ByrmEAAAQBAJ)
 * [Deutsch mit Benjamin (YouTube-Kanal)](https://www.youtube.com/@DeutschMitBenjamin)
 * [Beispiele](de-ekzemploj.md)
-
-<!-- lL ... -->
-
-<!--
-Gefühl fy:l fy:l̩ fy:ɫ
-Gespür ʃpy:r ʃpʏa̯
-Gehör hø:rə hœa̯
-
-fühlen fy:lən fy:l̩n fy:ɫn
-spüren ʃpy:rən ʃpʏa̯n
-hören hø:rən hœa̯n
--->
-
