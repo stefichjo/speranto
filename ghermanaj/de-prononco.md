@@ -185,7 +185,7 @@ Die Vorsilben *er-*, *ver-* und *zer-* werden in der Umgangssprache wie die Nach
 
 ### Schwundlaut
 
-In der Umgangssprache fällt der Schwundlaut in *-em* und *-en* nach *l*-Auslaut und *r*-Auslaut aus.[^konjunktiv] [^atem]
+In der Umgangssprache fällt der Schwundlaut in *-em* und *-en* nach *l*-Auslaut und *r*-Auslaut sowie nach Vokal aus.[^konjunktiv] [^atem]
 
 | Hochdeutsch | Umgangssprache | |
 |-|-|-|
@@ -194,6 +194,8 @@ In der Umgangssprache fällt der Schwundlaut in *-em* und *-en* nach *l*-Auslaut
 | | | |
 | `ˈɪrən`  | `ɪ:n` | *irren* |
 | `ˈi:rən` | `ia̯n` | *ihren* |
+| | | |
+| `ˈze:ən` | `ze:n̩` | *sehen* |
 
 [^konjunktiv]: Der Schwundlaut der Verbendungen des Konjunktiv I fallen nicht aus: *(dass wir) hören* `ˈhø:rən`. Der Konjunktiv I wird jedoch - abgesehen von Hilfsverben wie *hätte*, *wäre* und *würde* - praktisch nur im Hochdeutschen verwendet.
 
@@ -206,12 +208,10 @@ In der schnellen Umgangssprache fällt der Schwundlaut `ə` in *-el* und *-er* a
 | `ˈandərə` | `ˈandrə` | *andere* → *andre* |
 | `ˈaɪ̯tələ` | `ˈaɪ̯tlə` | *eitele* → *eitle* |
 
-In der schnellen Umgangssprache fällt der Schwundlaut in *-em* und *-en* nach Vokal und nach Nasal-Auslaut aus.
+In der schnellen Umgangssprache fällt der Schwundlaut in *-em* und *-en* nach Nasal-Auslaut aus.
 
 | Umgangssprache | schnell | |
 |-|-|-|
-| `ˈze:ən`   | `ze:n̩` | *sehen* |
-| | | |
 | `ˈbɪnən`  | `ˈbɪnn̩` | *binnen* |
 | `ˈbi:nən` | `ˈbi:nn̩` | *Bienen* |
 
