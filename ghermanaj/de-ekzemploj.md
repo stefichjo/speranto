@@ -84,12 +84,12 @@ bɪstə āba nɪç. ɪk fɪnta vīdalɪç.
 dū dεŋkst, dū bɪst vɪ̄klɪ ʊnvīdaʃtēlɪç,  
 bɪstə āba e:m̩ jərādə nɪç!
 
-[^ür]: *allerschürfste* wird mit überdeutlichem (umgangssprachlichem) *ür* [ʏa] statt [ʏ̄] gesungen.
-[^eil]: *geil* und *Gegenteil* werden hier mit überdeutlichem *-el* [əl] gesungen (wie *geiel* und *Gegenteiel*).
-[^gegen]: *Gegenteil* wird hier überdeutlich mit [ˈje:jən] statt [ˈje:ŋ̩] gesungen.
-[^rein]: Statt *rin* [rɪn] wird hier überdeutlicherweise *rein* mit überdeutlichem *-en* [ən] gesungen (wie *reihen*).
-[^eine]: Statt *eene* [ˈe:nə] wird hier überdeutlicherweise *eine* [ˈaɪ̯nə] gesungen.
-[^auen]: *hau'n* und *Zaun* werden hier mit überdeutlichem *-en* [ən] gesungen (wie *hauhen* und *Zauhen*).
+[^ür]: *allerschürfste* wird mit überdeutlichem (umgangssprachlichem) *ür* `ʏa` statt `ʏ̄` gesungen.
+[^eil]: *geil* und *Gegenteil* werden hier mit überdeutlichem *-el* `əl` gesungen (quasi \**geiel* und \**Gegenteiel*).
+[^gegen]: *Gegenteil* wird hier überdeutlich mit `ˈje:jən` statt `ˈje:ŋ̩` gesungen.
+[^rein]: Statt *rin* `rɪn` wird hier überdeutlicherweise *rein* mit überdeutlichem *-en* `ən` gesungen (quasi \**reihen*).
+[^eine]: Statt *eene* `ˈe:nə` wird hier überdeutlicherweise *eine* `ˈaɪ̯nə` gesungen.
+[^auen]: *hau'n* und *Zaun* werden hier mit überdeutlichem *-en* `ən` gesungen (wie *hauhen* und *Zauhen*).
 [^find-da]: Beim ersten *ick find-da widerlich* wird *-da* überdeutlich gesungen: *ick find dir widerlich*.
 
 ### Marias Lied (Hey Du)
@@ -124,25 +124,25 @@ fɔɫ glɪba ʊnt mɔda ʊnt ʃvāts vī dī naxt
 vī jūt, dat mia mançmā zō n̩ εŋl̩ aʃaɪnt  
 vī dū - ʊnt fya mɪç vaɪnt
 
-[^ä]: *erzählen* wird hier überdeutlich mit *ä* [ɛ̄] statt [ē] gesungen.
+[^ä]: *erzählen* wird hier überdeutlich mit *ä* `ɛ̄` statt `ē` gesungen.
 
-[^dit]: Hier wird älteres *det* [dεt] statt *dit* [dɪt] gesungen.
+[^dit]: Hier wird älteres *det* [dεt] statt *dit* `dɪt` gesungen.
 
-[^au]: Das *au* von *außer* (und *traurig*, *Trauer*, *auch*) wird hier bühnendeutsch [ao̯] gesungen.
+[^au]: Das *au* von *außer* (und *traurig*, *Trauer*, *auch*) wird hier bühnendeutsch `ao̯` gesungen.
 
 [^kenn-dir]: *kennda* wird hier überdeutlich *kenn dir* mit Akkudativ gesungen.
 
 [^berlinerisch]: Dies ist die einzige Berlinerische Zeile im Refrain. Der Rest wird auf Hochdeutsch gesungen.
 
-[^so-n]: Hier wird *so 'n* mit kurzem *o* und assimiliertem *'n* gesungen: [zɔn].
+[^so-n]: Hier wird *so 'n* mit kurzem *o* und assimiliertem *'n* gesungen: `zɔn`.
 
 [^klein]: Hier wird hochdeutsch *klein* statt *kleen* gesungen, was sich sonst nicht auf *Warzenschein* reimen würde. (*Schwein* ist auch im Berlinerischen *Schwein*, und nicht \**Schween*.)
 
-[^gr]: Hier wird *größtet* überdeutlich wie \**gerößtet* bzw. \**g'rößtet* [ˈjrøstət] gesungen.
+[^gr]: Hier wird *größtet* überdeutlich wie \**gerößtet* bzw. \**g'rößtet* `ˈjrøstət` gesungen.
 
-[^om]: Hier wird *Oma* mit kurzem *o* gesungen: [ˈɔma].
+[^om]: Hier wird *Oma* mit kurzem *o* gesungen: `ˈɔma`.
 
-[^s]: Hier wird überdeutlich *die's* [dīs] statt *die't* gesungen.
+[^s]: Hier wird überdeutlich *die's* `dīs` statt *die't* gesungen.
 
 ### 100 Mal Berlin[^er-ör-or]
 
@@ -213,33 +213,33 @@ hʊndat māl̩ ...
 <!-- n̩m̩ŋ̩l̩ɫ ɣʃ ˈ -->
 <!-- āɛ̄ɪ̄ɔ̄ʊ̄ œ̄ʏ̄ ø̄ȳ -->
 
-[^er-ör-or]: Hahnemann verwendet in *er*, *ör*, *or* geschlossene Vokale und sagt *Berlin* [bea̯ˈli:n], *Gören* [jøa̯n], *vor* [foa̯] statt *Berlin* [bεa̯ˈli:n], *Gören* [jœa̯n], *vor* [fɔa̯].
+[^er-ör-or]: Hahnemann verwendet in *er*, *ör*, *or* geschlossene Vokale und sagt *Berlin* `bea̯ˈli:n`, *Gören* `jøa̯n`, *vor* `foa̯` statt *Berlin* `bεa̯ˈli:n`, *Gören* `jœa̯n`, *vor* `fɔa̯`.
 
-[^von]: *von* wird hier *vo'* [fɔ] ausgesprochen.
+[^von]: *von* wird hier *vo'* `fɔ` ausgesprochen.
 
-[^vogel]: *Vogel* wird hier möglicherweise mundartlich [ˈfo:gl̩] statt [ˈfo:ɣl̩] ausgesprochen.
+[^vogel]: *Vogel* wird hier möglicherweise mundartlich `ˈfo:gl̩` statt `ˈfo:ɣl̩` ausgesprochen.
 
-[^getrieben]: *-trieben* wird hier möglicherweise mundartlich [ˈtri:bm̩] statt [ˈtri:m̩] ausgesprochen.
+[^getrieben]: *-trieben* wird hier möglicherweise mundartlich `ˈtri:bm̩` statt `ˈtri:m̩` ausgesprochen.
 
-[^statuen]: Gemeint sind natürlich *Statuen* [ˈʃta:tu̯ən].
+[^statuen]: Gemeint sind natürlich *Statuen* `ˈʃta:tu̯ən`.
 
 [^überm]: Gesprochen wird *übern*, *hintern*, *uffde*, *vorde*, *mit die*, *inne Oogen von Autofahrer*, *vonne*, *von Jaspedal* im Akkudativ.
 
 [^unverständlich]: "Hundert billen haut ein je nich hin" (?)
 
-[^erzogen]: Gesprochen wird überdeutliches *erzog-en* [aˈtso:ɣən] statt [aˈtso:ŋ̩].
+[^erzogen]: Gesprochen wird überdeutliches *erzog-en* `aˈtso:ɣən` statt `aˈtso:ŋ̩`.
 
-[^ey]: Gesprochen wird älteres *eh* [e:].
+[^ey]: Gesprochen wird älteres *eh* `e:`.
 
-[^kleine]: Gesprochen wird mundartliches *kleine* [ˈklaɪ̯nə] statt *kleene* [ˈkle:nə].
+[^kleine]: Gesprochen wird mundartliches *kleine* `ˈklaɪ̯nə` statt *kleene* `ˈkle:nə`.
 
 [^ins-bett]: Gesprochen wird *in Bett*.
 
-[^einfach]: Interessanterweise scheint *eenfach* [ˈe:nfax] oder *eenfa'* [ˈe:nfa] nicht so stark im Berlinerischen verbreitet zu sein.
+[^einfach]: Interessanterweise scheint *eenfach* `ˈe:nfax` oder *eenfa'* `ˈe:nfa` nicht so stark im Berlinerischen verbreitet zu sein.
 
 [^als-wie]: Grammatisch korrekt - und durchaus möglich - ist natürlich einfach *länger als er*.
 
-[^augen]: Gesprochen wird überdeutliches *Oog-en* [ˈo:ɣən] statt [ˈo:ŋ̩].
+[^augen]: Gesprochen wird überdeutliches *Oog-en* `ˈo:ɣən` statt `ˈo:ŋ̩`.
 
 ### Redensarten
 
