@@ -213,7 +213,7 @@ hʊndat māl̩ ...
 <!-- n̩m̩ŋ̩l̩ɫ ɣʃ ˈ -->
 <!-- āɛ̄ɪ̄ɔ̄ʊ̄ œ̄ʏ̄ ø̄ȳ -->
 
-[^er-ör-or]: Hahnemann verwendet in *er*, *ör*, *or* geschlossene Vokale und sagt *Berlin* `bea̯ˈli:n`, *Gören* `jøa̯n`, *vor* `foa̯` statt *Berlin* `bεa̯ˈli:n`, *Gören* `jœa̯n`, *vor* `fɔa̯`.
+[^er-ör-or]: Hahnemann verwendet in *er*, *ör*, *or* deutlicherweise geschlossene Vokale und sagt *Berlin* `bea̯ˈli:n`, *Gören* `jøa̯n`, *vor* `foa̯` statt *Berlin* `bεa̯ˈli:n`, *Gören* `jœa̯n`, *vor* `fɔa̯`.
 
 [^von]: *von* wird hier *vo'* `fɔ` ausgesprochen.
 
