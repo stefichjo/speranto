@@ -637,7 +637,7 @@ Im Berlinerischen werden an Stelle von schwachen *mich* und *dich* die schwachen
 
 [^akkudativ]: Oft wird aber hyperkorrekt *mir* und *dir* gesagt: *ick wundre mir*. Man spricht dann vom "Akkudativ".
 
-## Zusammenfassung
+## Zusammenfassung (Rhotizität und Lambdatizität)
 
 | *ir*, *ür*, *ur* | deutlich | normal | schnell |
 |-|-|-|-|
