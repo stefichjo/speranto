@@ -172,7 +172,7 @@ hʊndat māl̩ jəbētət, jɔt zaɪ daŋk,
 hʊndat māl̩ jəzāxt, mɪt dia ɪs ʃlʊs,  
 hʊndat māl̩ kām ɪk fɔn dia nɪç lōs  
 hʊndat bɪlən haʊt aɪn jē nɪç hɪn[^unverständlich]  
-dɪt sɪtst tsū tīf, dɪt sɪtst hia drin
+dɪt zɪtst tsū tīf, dɪt zɪtst hia drin
 
 dɪt nīdlɪçstə fɔn bɛalīn zɪnt dī jœan,  
 vaɫzə zō jūt atsōŋ̩[^erzogen] zɪnt.  

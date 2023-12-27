@@ -9,13 +9,45 @@ Es handelt sich bei dieser Unterteilung um eine sehr meinungsstarke Darstellung 
 [^register]: Schnelles Hochdeutsch und deutliche Umgangssprache unterscheiden sich kaum, ebenso wie schnelle Umgangssprache und deutliches Berlinerisch.
 
 <!--
-weeng die Hitze
-allgemeiner Akkudativ
-mit die Gießkanne
-Auch "das/der" ist interessant. Wie sieht's hier aus? vorn Fernseher
-vort Jereet?
-in Bett
-vonne - ist das auch akkudativ? was ist mit "in bett"? und männliche substantive/artikel+präposition?
+These/Theoriefindung: Zu den urberlinerischen schwachen Personalpronomen "ma" und "da" gibt es die einberlinerischten Formen "mi'" und "di'" für den korrekten Akkusativ ("mich" und "dich"). Ebenso gibt es die einberlinerischte Form "da" (für "der") und "n" (für "den"), während das urberlinerische "de" für alle weiblichen bestimmten Artikel sowie die bestimmten Mehrzahlartikel gilt.
+
+Das macht aber keiner. (Oder?)
+
+Ebensowenig würde man sagen:
+
+der Mann → de Mann ≠ da Mann
+
+Statt "der Mann" wird niemals "da Mann" gesagt. Mann, wär dit praktisch! (+ "de Mann")
+
+dit Kind
+(kein Geneitiv)
+dem Kind
+dit Kind
+
+Wat sollik jetz sagen=saang? Is mein normalet Berlinerisch "hyperkorrekt", wennik sage=saare "vonna Frau"? (Is dit jetz überhaupt "von einer Frau" oder "von der Frau", oder beides?) Da kannik mir ja erst ma' später no' 'ne Platte machen zu. Schwache Personalpronomen sind erst mal nicht wegzudiskutieren. Und deren Akkudativ auch nicht. Aber es ist auch nicht wegzudiskutieren, dass die "grammatisch richtigen" Formen "mi'" und "di'" existieren.
+
+keene Ahnung vonnet/vonnit Janze
+
+Es ist schon auffällig, dass die akkudativischen Formen vornehmlich im Zusammenhang mit Präpositionen auftreten. Sicherlich, man könnte sagen: Ick hab dit Kind jeholfen. Aber das passiert nur durch Hyperkorrektur. Ick mussma ooch fraang, ob "vonnit" nich so 'ne Art Wunschdenken is, und ob man nich eigentlich doch einfach hochdeutsch "vom" saang würde.
+
+Und gerade "mippm" ("mittm" = "mit dem") war mir doch Anlass für Beobachtungen gegeben, und jetzt soll es sich gerade bei "mippm" wiederum um eine Hyperkorrektur handeln?
+
+mitten mitte mittit
+-->
+
+<!--
+mir/mich = -ma → -ma/-mi'; dir/dich = -da → -da/di':
+wenndeda traust = wennde dir traust → wenndedi' traust = wennde dich traust
+
+der/den/die = -de → -de/-n/-da:
+mitte Freundin = mit die Freundin → mitta Freundin = mit der Freundin
+mitte Leute = mit die Leute → mitten Leuten = mit den Leuten
+
+weengde Hitze = wejen die Hitze
+
+
+
+
 -->
 
 ## Hochdeutsch
@@ -119,11 +151,11 @@ In der Umgangssprache wird Auslaut-*l* als eine Mischung aus `w` und `ə` gespro
 |-|-|-|
 | `kalt` | `kaɫt` | *kalt* |
 
-In der Umgangssprache wird Auslaut-*l* nach langem Vokal silbisch gesprochen. In der schnellen Umgangssprache wird "Schwund-*l*" gesprochen.
+In der Umgangssprache wird Auslaut-*l* nach langem Vokal silbisch gesprochen.
 
-| Hochdeutsch | Umgangssprache | schnell | |
-|-|-|-|-|
-| `fi:l` | `ˈfi:l̩` | `fi:ɫ` | *viel* |
+| Hochdeutsch | Umgangssprache | |
+|-|-|-|
+| `fi:l` | `ˈfi:l̩` | *viel* |
 
 ### Rhotizität
 
@@ -597,7 +629,7 @@ Assimilierte *-em* und *-en* werden in überdeutlicher Aussprache mit Schwundlau
 
 [^en]: Diese Überdeutlichkeit kann zu hyperkorrekten Aussprachen wie *nein* `ˈnaɪ̯ən` führen, quasi \**neihen*.
 
-Im Berlinerischen werden an Stelle von schwachen *mich* und *dich* die schwachen Formen für *mir* und *dir* verwendet, nämlich *-ma* und *-da*. Im deutlichen Berlinerisch können die grammatikalisch korrekten Formen *-mi'* und *-di'* verwendet werden.[^akkudativ]
+Im Berlinerischen werden an Stelle von schwachen *mich* und *dich* die schwachen Formen für *mir* und *dir* verwendet, nämlich *-ma* und *-da*. Im deutlichen Berlinerisch können die "einberlinerischten" Formen *-mi'* und *-di'* verwendet werden.[^akkudativ]
 
 | Berlinerisch | deutlich | |
 |-|-|-|
@@ -641,6 +673,11 @@ Im Berlinerischen werden an Stelle von schwachen *mich* und *dich* die schwachen
 |-|-|-|-|
 | **Hochdeutsch**    | `ar`   | `ar`  | `(aɐ̯)` |
 | **Umgangssprache** | `(a:)` | `(=)` | `(=)`  |
+
+| *-l*, *-ll* | deutlich | normal | schnell |
+|-|-|-|-|
+| **Hochdeutsch**    | `l` | `l`     | `l` |
+| **Umgangssprache** | `l` | `l̩` `ɫ` | `=` |
 
 ## Nützliche Links
 
