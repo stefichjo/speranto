@@ -352,9 +352,9 @@ Im schnellen Berlinerischen wird jedes `ts` zu `s` verkürzt.
 
 Zwischen *n* und Konsonant fällt *d* aus.
 
-| Berlinerisch | schnell | |
-|-|-|-|
-| `ˈfɪnn̩` | `fɪn` | *finden* |
+| Berlinerisch | |
+|-|-|
+| `ˈfɪnn̩` | *finden* |
 
 ### tm → pm
 
@@ -436,6 +436,16 @@ An Stelle von `əˈr` und `ɛˈr` wird `ar` gesprochen.
 |-|-|-|
 | `batəˈri:` | `bataˈri:` | *Batterie* ≡ *Battarie* |
 | `hɛˈrʊm`   | `haˈrʊm`   | *herum* ≡ *harum* |
+
+### Schwundlaut
+
+Stimmhafte Plosive (*b*, *d*, *g*) fallen vor (evtl. angeglichenem) *-en* aus. Im schnellen Berlinerischen wird (evtl. angeglichenes) *-en* sowie *-em* nach Möglichkeit assimiliert.
+
+| Umgangssprache | Berlinerisch | schnell | |
+|-|-|-|-|
+| `ˈfɪndn̩` | `ˈfɪnn̩` | `fɪn` | *finden* |
+| | | | |
+| `ha:bm̩` | `ha:m̩` | `ha:m` | *haben* |
 
 ### Monophthonge
 
