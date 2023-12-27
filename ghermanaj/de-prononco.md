@@ -8,48 +8,6 @@ Es handelt sich bei dieser Unterteilung um eine sehr meinungsstarke Darstellung 
 
 [^register]: Schnelles Hochdeutsch und deutliche Umgangssprache unterscheiden sich kaum, ebenso wie schnelle Umgangssprache und deutliches Berlinerisch.
 
-<!--
-These/Theoriefindung: Zu den urberlinerischen schwachen Personalpronomen "ma" und "da" gibt es die einberlinerischten Formen "mi'" und "di'" für den korrekten Akkusativ ("mich" und "dich"). Ebenso gibt es die einberlinerischte Form "da" (für "der") und "n" (für "den"), während das urberlinerische "de" für alle weiblichen bestimmten Artikel sowie die bestimmten Mehrzahlartikel gilt.
-
-Das macht aber keiner. (Oder?)
-
-Ebensowenig würde man sagen:
-
-der Mann → de Mann ≠ da Mann
-
-Statt "der Mann" wird niemals "da Mann" gesagt. Mann, wär dit praktisch! (+ "de Mann")
-
-dit Kind
-(kein Geneitiv)
-dem Kind
-dit Kind
-
-Wat sollik jetz sagen=saang? Is mein normalet Berlinerisch "hyperkorrekt", wennik sage=saare "vonna Frau"? (Is dit jetz überhaupt "von einer Frau" oder "von der Frau", oder beides?) Da kannik mir ja erst ma' später no' 'ne Platte machen zu. Schwache Personalpronomen sind erst mal nicht wegzudiskutieren. Und deren Akkudativ auch nicht. Aber es ist auch nicht wegzudiskutieren, dass die "grammatisch richtigen" Formen "mi'" und "di'" existieren.
-
-keene Ahnung vonnet/vonnit Janze
-
-Es ist schon auffällig, dass die akkudativischen Formen vornehmlich im Zusammenhang mit Präpositionen auftreten. Sicherlich, man könnte sagen: Ick hab dit Kind jeholfen. Aber das passiert nur durch Hyperkorrektur. Ick mussma ooch fraang, ob "vonnit" nich so 'ne Art Wunschdenken is, und ob man nich eigentlich doch einfach hochdeutsch "vom" saang würde.
-
-Und gerade "mippm" ("mittm" = "mit dem") war mir doch Anlass für Beobachtungen gegeben, und jetzt soll es sich gerade bei "mippm" wiederum um eine Hyperkorrektur handeln?
-
-mitten mitte mittit
--->
-
-<!--
-mir/mich = -ma → -ma/-mi'; dir/dich = -da → -da/di':
-wenndeda traust = wennde dir traust → wenndedi' traust = wennde dich traust
-
-der/den/die = -de → -de/-n/-da:
-mitte Freundin = mit die Freundin → mitta Freundin = mit der Freundin
-mitte Leute = mit die Leute → mitten Leuten = mit den Leuten
-
-weengde Hitze = wejen die Hitze
-
-
-
-
--->
-
 ## Hochdeutsch
 
 ### äu/eu
@@ -319,7 +277,7 @@ In der schnellen Umgangssprache werden unbetonte Personalpronomen im Sprechfluss
 | `hat ɛa̯` | `ˈhata` | *hat er* → *hat-er* |
 | `ɪst zi:` | `ˈɪsə` | *ist sie* → *is-se* |
 | | | |
-| `hast du: ma:l` | `ˈhastəma` | *hast du mal* → *hast-de-ma* ≡ *haste ma'* |
+| `hast du: ˈma:l̩` | `ˈhastəma` | *hast du mal* → *hast-de-ma* ≡ *haste ma'* |
 
 ## Berlinerisch
 
@@ -517,11 +475,20 @@ Bei einigen Wörtern kann `k` statt `ç` gesprochen werden.
 | `ne:çst`  | `ne:çst` → `ne:kst`   | *nächst* |
 | `vɛk`     | `vɛç` → `vɛk`         | *weg* |
 
+In Verbindung mit Präpositionen wird im Berlinerischen (evtl. assimiliertes) *de* an Stelle von *die* verwendet.
+
 | Umgangssprache | Berlinerisch | |
 |-|-|-|
 | `an di:`  | `ˈanə`  | *an die* → *anne* |
-| `ɪn dɛa̯`  | `ˈɪna`  | *in der* → *inna* |
-| `fɔn dɛa̯` | `ˈfɔna` | *von der* → *vonna* |
+
+Im schnellen Berlinerischen wird *de* auch an Stelle von *da* (*der*, Dativ von *die* (Einzahl)) und *'n* (*den*, Dativ von *die* (Mehrzahl)) verwendet.[^de-akkudativ]
+
+| Umgangssprache | Berlinerisch | schnell | |
+|-|-|-|-|
+| `ɪn dɛa̯`  | `ˈɪna`  | `ˈɪnə`  | *in der* → *inna* → *inne* |
+| `fɔn dɛa̯` | `ˈfɔnn̩` | `ˈfɔnə` | *von den* → *von'n* → *vonne* |
+
+[^de-akkudativ]: Wenn für schnelles *de* überdeutlich *die* statt wird *der* bzw. *den* gesprochen wird, wird statt des Dativs der Akkusativ verwendet, also ein "Akkudativ": *mitte Leute* → *mit die Leute*.
 
 Im Berlinerischen können die Demonstrativpronomen *der*, *die* und *dit* an Stelle der Personalpronomen *er*, *sie* und *et* verwendet werden.
 
