@@ -488,7 +488,7 @@ Im schnellen Berlinerischen wird *de* auch an Stelle von *da* (*der*, Dativ von 
 | `ɪn dɛa̯`  | `ˈɪna`  | `ˈɪnə`  | *in der* → *inna* → *inne* |
 | `fɔn dɛa̯` | `ˈfɔnn̩` | `ˈfɔnə` | *von den* → *von'n* → *vonne* |
 
-[^de-akkudativ]: Wenn für schnelles *de* überdeutlich *die* statt wird *der* bzw. *den* gesprochen wird, wird statt des Dativs der Akkusativ verwendet, also ein "Akkudativ": *mitte Leute* → *mit die Leute*.
+[^de-akkudativ]: Wenn für schnelles *de* überdeutlich *die* statt wird *der* bzw. *den* gesprochen wird, wird statt des Dativs der Akkusativ verwendet, also ein "Akkudativ": *wegen-de Hitze* `ˈve:ŋdə ˈhɪtsə` → *wejen die Hitze* `ˈve:jən di: ˈhɪtsə`.
 
 Im Berlinerischen können die Demonstrativpronomen *der*, *die* und *dit* an Stelle der Personalpronomen *er*, *sie* und *et* verwendet werden.
 
