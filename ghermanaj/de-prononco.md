@@ -219,7 +219,7 @@ Silbisch gesprochenes *-en* wird in der schnellen Umgangssprache an den vorherge
 |-|-|
 | `fʏmpf`       | *fünf* ≡ *fümpf* |
 | `zɛmpf`       | *Senf* ≡ *Sempf* |
-| `ˈtsu:kumpft` | *Zukunft* ≡ *Zukumpft* |
+| `ˈtsu:kʊmpft` | *Zukunft* ≡ *Zukumpft* |
 
 ### Grammatik
 
@@ -294,11 +294,14 @@ Die Endung *-es* bzw. der Auslaut *-s* für sächliche Adjektive und Pronomen is
 
 ### ts → s
 
-Nach Konsonant fällt `t` in `ts` im Berlinerischen aus.
+In Fremdwörtern fällt `t` in `ts` und `kt` in `kts` nach Konsonant im Berlinerischen aus.[^pinzette]
 
 | Umgangssprache | Berlinerisch | |
 |-|-|-|
-| `akˈtsεnt` | `akˈsεnt` | *Akzent* |
+| `akˈtsεnt`    | `akˈsεnt`   | *Akzent* |
+| `fʊŋkˈtsi̯o:n` | `fʊŋˈsi̯o:n` | *Funktion* |
+
+[^pinzette]: Das Wort *Pinzette* `pɪnˈtsεtə` wird `pɪŋˈsεtə` ausgesprochen, als ob nach dem *n* auch ein `k` ausgefallen wäre, quasi \**Pinkzette*.
 
 Im schnellen Berlinerischen wird jedes `ts` zu `s` verkürzt.
 
@@ -420,7 +423,7 @@ Bedeutungsunterscheidend:
 | Umgangssprache | Berlinerisch | |
 |-|-|-|
 | `vaɪ̯s` | `ve:s` | *weiß* → *weeß* (wissen) |
-| `vaɪ̯s` | `vaɪ̯s` | *we`iß* (Farbe) |
+| `vaɪ̯s` | `vaɪ̯s` | *weiß* (Farbe) |
 
 Im Falle von *meinen* ("eine Meinung haben") und *meinen* → *meenen* ("den von mir") ist die Etymologie "vertauscht": *meinen* hat ein urgermanisches *ai*, während *meenen* ein urgermanisches *i* hat.
 
@@ -488,7 +491,7 @@ Im schnellen Berlinerischen wird *de* auch an Stelle von *da* (*der*, Dativ von 
 | `ɪn dɛa̯`  | `ˈɪna`  | `ˈɪnə`  | *in der* → *inna* → *inne* |
 | `fɔn dɛa̯` | `ˈfɔnn̩` | `ˈfɔnə` | *von den* → *von'n* → *vonne* |
 
-[^de-akkudativ]: Wenn für schnelles *de* überdeutlich *die* statt wird *der* bzw. *den* gesprochen wird, wird statt des Dativs der Akkusativ verwendet, also ein "Akkudativ": *wegen-de Hitze* `ˈve:ŋdə ˈhɪtsə` → *wejen die Hitze* `ˈve:jən di: ˈhɪtsə`.
+[^de-akkudativ]: Wenn für schnelles *de* überdeutlich *die* statt *der* bzw. *den* gesprochen wird, wird statt des Dativs der Akkusativ verwendet, also ein "Akkudativ": *wegen-de Hitze* ≡ *weengde Hitze* `ˈve:ŋdə ˈhɪtsə` → *wejen die Hitze* `ˈve:jən di: ˈhɪtsə`.
 
 Im Berlinerischen können die Demonstrativpronomen *der*, *die* und *dit* an Stelle der Personalpronomen *er*, *sie* und *et* verwendet werden.
 
