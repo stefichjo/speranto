@@ -556,7 +556,7 @@ Die Endung *-e* in lateinisch-griechischen Wörtern wird im deutlichen Hochdeuts
 |-|-|-|
 | `ˈpsy:çə` | `ˈpsy:çe` | *Psyche* |
 
-[^bühnendeutsch]: Deutliches Hochdeutsch ist, vereinfacht gesagt, **Bühnendeutsch**. Im Bühnendeutsch wird das *r* als Zungenspitzen-*r* `r`/`ɾ` gesprochen.
+[^bühnendeutsch]: Deutliches Hochdeutsch ist, vereinfacht gesagt, **Bühnendeutsch**. Im Bühnendeutsch wird das *r* als Zungenspitzen-*r* `r`/`ɾ` gesprochen. Gesungen wird oft `ɛ` statt `ə`.
 
 Im deutlichen Hochdeutsch wird *au* mit `o̯` gesprochen, und *äu/eu* mit `ø̆`.
 
