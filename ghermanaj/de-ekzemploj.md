@@ -67,8 +67,8 @@ jεts ɪsə ʊf, εast vāze tsū!
 
 dū dεŋkst, dū bɪst dī alaʃʏ̄fstə[^ür] fya mɪç,  
 bɪstə āba nɪç. ɪk fɪnta[^find-da] vīdalɪç.  
-dū dεŋkst, dɪç findət vɪ̄klɪ jēda hia gaɪl̩,[^eil]  
-is āba nɪ zō, jans ɪm jēŋ̩taɪl̩.[^gegen]
+dū dεŋkst, dɪç findət vɪ̄klɪ jēda hia gaɪɫ,[^eil]  
+is āba nɪ zō, jans ɪm jēŋ̩taɪɫ.[^gegen]
 
 dū kɔmst hia rɪn[^rein] aɫs jəhœat dia dī wεɫt,  
 aɫs wεa jēda tɪʃ nua fya dia bəʃtεɫt.  
@@ -96,7 +96,7 @@ bɪstə āba e:m̩ jərādə nɪç!
 
 hεɪ dū, hεɪ dū,  
 hœa mia mā, hœa mia ma tsū.  
-ɪk vɪɫ dia mā vat atsēl̩n[^ä] fɔn mia.  
+ɪk vɪɫ dia mā vat atsēɫn[^ä] fɔn mia.  
 dɪt[^dit] hābɪk nɔx nī jəmaxt, aʊsa[^au] baɪ dia  
 fīlaɪçt brɪŋtət dia vat, ɪk kεnda[^kenn-dir] jā nɪç.  
 ɪk zē nua, vī traʊrɪç dū bɪst.
@@ -154,7 +154,7 @@ dī, dī tsu ʃpēt kɔmm̩,
 rɛnn̩ dī, dī fryja jēn̩ fast ȳban haʊfn̩.  
 aʊsa mia hām̩ hia āba nɔ jans andrə ia jaɪstjət ʊnvēzn̩ jetrīm̩[^getrieben].  
 dāfya hat manzə ɪn ʃtaɪn jəhaʊn̩  
-ʊnt ʃtʏkçənvaɪzə ʊf brʏkŋ̩ ʊ̄nt fɛadə fataɪl̩t.  
+ʊnt ʃtʏkçənvaɪzə ʊf brʏkŋ̩ ʊ̄nt fɛadə fataɪɫt.  
 āba nɪç nua antīkə ʃtatūtn̩[^statuen] hām̩va.  
 nē, ōx haʊfn̩vaɪzə turɪstn̩  
 fɔn ȳbam[^überm] grōsn̩ taɪ̄ç ʊnt hɪntam mōnt  
@@ -165,12 +165,12 @@ alə sāŋ̩, ɪkə ʊnt via hām̩ nə grōsə ʃnaʊtsə.
 mɛnʃ, dī braʊxŋ̩va dɔ ōx,  
 ʃlīslɪç trāŋ̩va ʊnza grōsət hɛats ʊfda tsʊŋə.
 
-hʊndat māl̩ hāp ɪk bɛalīn faflūxt,  
-hʊndat māl̩ vaɪt vɛk maɪn glʏk jəzūxt,  
-hʊndat māl̩ jəhɔɪl̩t, dū maxst mɪç kraŋk,  
-hʊndat māl̩ jəbētət, jɔt zaɪ daŋk,  
-hʊndat māl̩ jəzāxt, mɪt dia ɪs ʃlʊs,  
-hʊndat māl̩ kām ɪk fɔn dia nɪç lōs  
+hʊndat māɫ hāp ɪk bɛalīn faflūxt,  
+hʊndat māɫ vaɪt vɛk maɪn glʏk jəzūxt,  
+hʊndat māɫ jəhɔɪɫt, dū maxst mɪç kraŋk,  
+hʊndat māɫ jəbētət, jɔt zaɪ daŋk,  
+hʊndat māɫ jəzāxt, mɪt dia ɪs ʃlʊs,  
+hʊndat māɫ kām ɪk fɔn dia nɪç lōs  
 hʊndat bɪlən haʊt aɪn jē nɪç hɪn[^unverständlich]  
 dɪt zɪtst tsū tīf, dɪt zɪtst hia drin
 
@@ -191,24 +191,24 @@ dan bəzūxtzə īn fɔamɪtaxs mɪta jīskanə ʊfm̩ frīthōf
 fɔn wēŋ̩ via bɛalīnərɪnn̩ zɪnt ʃnɪpɪʃ, pə!  
 via kœnn̩ alət fatrāŋ̩, blōs kēnə vīdavɔ̄tə.
 
-hʊndat māl̩ ...
+hʊndat māɫ ...
 
 āba dɪt jəmȳtlɪçstə fɔn bɛalīn ɪs dɛa fakɛa,  
 vaɫ jēda n̩ fābān̩ ʊntazats hat.  
 aɫzo bɪs ʊf dī, dī kēn̩ hām̩,  
 ʊnt dī zɪnt ɪm bərūfsfakɛa ʃōn ɪma nə ʃtʊndə frȳja tsū haʊzə,  
-vaɫzə dī aʊtos laʊfn̩t ȳbahōl̩n.  
+vaɫzə dī aʊtos laʊfn̩t ȳbahōɫn.  
 aʊtofāra zɪnt ɪnn̩ ōŋ̩[^augen] fɔn aʊtofāran alət idiōtn̩, kamēlə ʊnt hɔ̄nɔksn̩.  
 nʊa fɔnn̩ vaɪsn̩ mɔɪzn̩ vɛan̩zə bʏ̄ja bətītl̩t.  
 nā, zō nə nɛtɪçkaɪt lɛst man zɪç ʃōn mā n̩ tsēna kɔstn̩.  
-dī maɪsta fɔm jāspedāl̩ zɪnt ʊnzrə taksifāra.  
+dī maɪsta fɔm jāspedāɫ zɪnt ʊnzrə taksifāra.  
 dɛshaɫp vɛan̩zə zɛɫtn̩ avɪʃt,  
 vēda fɔnn̩ radāfaɫn̩ nɔx fɔnn̩ fājɛstn̩.  
 mançə bəhaʊptn̩, bɛalīna tɛmpo ɪs hɛktɪʃ.  
 alət kvatʃ.  
 naxts ʊm draɪ ɪs bɛalīn dɛa raɪnstə kuaɔ̄t.
 
-hʊndat māl̩ ...
+hʊndat māɫ ...
 
 [^er-ör-or]: Hahnemann verwendet in *er*, *ör*, *or* deutlicherweise geschlossene Vokale und sagt *Berlin* `bea̯ˈli:n`, *Gören* `jøa̯n`, *vor* `foa̯` statt *Berlin* `bεa̯ˈli:n`, *Gören* `jœa̯n`, *vor* `fɔa̯`.
 
