@@ -17,11 +17,13 @@ Im Hochdeutschen wird das *r* als Zäpfchen-*r* `ʁ` gesprochen, aber in der IPA
 Im Hochdeutschen fällt der Schwundlaut in *-er* aus, sodass *r* silbisch gesprochen wird. Es wird dann als Schwund-*a* `ɐ` realisiert.
 
 | Hochdeutsch | deutlich | |
+|-|-|-|
 | `ˈbɛsr̩` ≡ `ˈbɛsɐ` | `ˈbɛsər` | *besser* |
 
 Im Hochdeutschen wird *r* am Wortende oder vor Konsonant als nicht-silbisches a-Schwa `ɐ̯` realisiert. Lange Vokale werden hierbei gekürzt.[^wörterbuchdeutsch-rhotizität] [^erd-ert] [^erst]
 
 | Hochdeutsch | deutlich | |
+|-|-|-|
 | `fɛɐ̯ˈkeɐ̯` | `fɛrˈke:r` | *Verkehr* |
 | `vɔɐ̯t`    | `vɔrt`     | *Wort* |
 
