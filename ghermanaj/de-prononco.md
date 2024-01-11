@@ -240,7 +240,7 @@ In der schnellen Umgangssprache wird an Stelle der einfachen Vergangenheit die a
 In der schnellen Umgangssprache kann an Stelle des Imperativs der Konjunktiv I verwendet werden.
 
 | Umgangssprache | schnell |
-|-|-|-|
+|-|-|
 | *hilf!* | *helfe!* |
 
 ### Vokabular
