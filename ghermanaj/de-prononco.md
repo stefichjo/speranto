@@ -8,16 +8,17 @@ Es handelt sich bei dieser Unterteilung um eine sehr meinungsstarke Darstellung 
 
 ### Rhotizität
 
-Im Hochdeutschen wird das *r* als Zäpfchen-*r* `ʁ` gesprochen, aber in der IPA-Umschrift als `r` geschrieben. Im Bühnendeutsch, d.h. deutlich gesprochen, wird *r* gerollt.
+Im Hochdeutschen wird das *r* typischerweise als Zäpfchen-*r* (`ʀ` oder `ʁ`) gesprochen, aber in der IPA-Umschrift als `r` geschrieben. Im Bühnendeutsch, d.h. deutlich gesprochen, wird *r* als Zungenspitzen-*r* (`r` oder `ɾ`) gesprochen.[^hochbühnendeutsch]
 
 | Hochdeutsch | deutlich | |
 |-|-|-|
-| `ʁo:t` ≡ `ro:t` | `ro:t` | *rot* |
+| `ʀo:t`/`ʁo:t` ≡ `ro:t` | `ro:t`/`ɾo:t` ≡ `ro:t` | *rot* |
+
+[^hochbühnendeutsch]: Die Aussprache des *r* als velarer Vibrant `ʀ` ist im Bühnendeutsch inzwischen auch erlaubt.
 
 Im Hochdeutschen fällt der Schwundlaut in *-er* aus, sodass *r* silbisch gesprochen wird. Es wird dann als Schwund-*a* `ɐ` realisiert.
 
 | Hochdeutsch | deutlich | |
-|-|-|-|
 | `ˈbɛsr̩` ≡ `ˈbɛsɐ` | `ˈbɛsər` | *besser* |
 
 Im Hochdeutschen wird *r* am Wortende oder vor Konsonant als nicht-silbisches a-Schwa `ɐ̯` realisiert. Lange Vokale werden hierbei gekürzt.[^wörterbuchdeutsch-rhotizität] [^erd-ert] [^erst]
@@ -91,31 +92,6 @@ In der schnellen Umgangssprache fällt der Schwundlaut `ə` in *-el* und *-er* a
 | `ˈandərə` | `ˈandrə` | *andere* → *andre* |
 | `ˈaɪ̯tələ` | `ˈaɪ̯tlə` | *eitele* → *eitle* |
 
-### Monophthonge
-
-In der Umgangssprache werden lange Vokale (außer `a:`[^a-diphthong]) vor Vokal diphthongisiert, d.h. sie werden mit nicht-silbischem `ɪ̯` bzw. `ʊ̯` gesprochen.
-
-| Hochdeutsch | Umgangssprache | |
-|-|-|-|
-| `ˈnɛ:ə`  | `ˈneɪ̯ə`  | *Nähe* |
-| `ˈtse:ə` | `ˈtseɪ̯ə` | *Zehe* |
-| `ˈhø:ə`  | `ˈhøɪ̯ə`  | *Höhe* |
-| `ˈho:ə`  | `ˈhoʊ̯ə`  | *hohe* |
-| | | |
-| `ˈtsi:ɐ` | `ˈtsiɪ̯a` | *Zieher* |
-| `ˈfry:ɐ` | `ˈfryɪ̯a` | *früher* |
-| `ˈʃu:ə`  | `ˈʃuʊ̯ə`  | *Schuhe* |
-
-[^a-diphthong]: Die Diphthonge `aɪ̯` und `aʊ̯` gibt es ja bereits.
-
-In der Umgangssprache fällt der Schwundlaut in *-en* und *-em* nach Vokal aus.[^zejen]
-
-| Hochdeutsch | Umgangssprache | schnell | |
-|-|-|-|-|
-| `ˈze:ən` | `ˈze:n̩` | `ze:n` | *sehen* |
-
-[^zejen]: In deutlicher Sprechung bleibt der Schwundlaut erhalten, aber der lange Vokal wird diphthongiert: `ˈzeɪ̯ən` *sehen*.
-
 ### Rhotizität (Fortsetzung)
 
 In der Umgangssprache wird ein kurzer Vokal vor *r* gelängt.
@@ -155,18 +131,16 @@ Die Vorsilben *er-*, *ver-* und *zer-* werden in der Umgangssprache wie die Nach
 | `fɛɐ̯`  | `fa`  | *ver-* |
 | `tsɛɐ̯` | `tsa` | *zer-* |
 
-In der Umgangssprache fällt der Schwundlaut in *-en* und *-em* nach *r*-Auslaut aus.[^konjunktiv] [^atem] Dies wirkt umgangssprachlicher als der Ausfall des Schwundlauts nach Vokal, siehe [Monophthonge](#monophthonge).[^rhotizität-fortsetzung]
+In der Umgangssprache fällt der Schwundlaut in *-en* und *-em* nach *r*-Auslaut aus.[^konjunktiv] [^atem]
 
-| Hochdeutsch | Umgangssprache | |
-|-|-|-|
-| `ˈi:rən` | `ia̯n` | *ihren* |
-| `ˈɪrən`  | `ɪ:n` | *irren* |
+| Hochdeutsch | Umgangssprache | schnell | |
+|-|-|-|-|
+| `ˈi:rən` | `ia̯n̩` | `ia̯n` | *ihren* |
+| `ˈɪrən`  | `ɪ:n̩` | `ɪ:n` | *irren* |
 
 [^konjunktiv]: Der Schwundlaut der Verbendungen des Konjunktiv I fallen nicht aus: *(dass wir) hören* `ˈhø:rən`. Der Konjunktiv I wird jedoch - abgesehen von Hilfsverben wie *hätte*, *wäre* und *würde* - praktisch nur im Hochdeutschen verwendet.
 
 [^atem]: Der Schwundlaut in *-em* fällt in der Umgangssprache nach *t* aus: *Atem* `ˈa:tm̩`.
-
-[^rhotizität-fortsetzung]: In deutlicher Sprechung wird das reduzierte *-en* nach *r*-Auslaut und kurzem Vokal silbisch gesprochen: `ˈɪ:n̩` *irren*.
 
 ### L-Rhotizität[^lambdatizität]
 
@@ -181,16 +155,50 @@ In der Umgangssprache wird *l*-Auslaut als eine Mischung aus `w` und `ə` gespro
 
 [^l-rhotizität]: In deutlicher Sprechung wird *l*-Auslaut nach langem Vokal silbisch gesprochen: `ˈʃa:l̩` *Schal*.
 
-In der Umgangssprache fällt der Schwundlaut in *-en* und *-em* nach *l*-Auslaut. Dies geht einher mit dem Ausfall des Schwundlauts nach *r*-Auslaut. Siehe [Rhotizität (Fortsetzung)](#rhotizität-fortsetzung).
+In der Umgangssprache fällt der Schwundlaut in *-en* und *-em* nach *l*-Auslaut.
+
+| Hochdeutsch | Umgangssprache | schnell | |
+|-|-|-|-|
+| `ˈfy:lən` | `fy:ɫn̩` | `fy:ɫn` | *fühlen* |
+| `ˈfʏlən`  | `fʏɫn̩`  | `fʏɫn`  | *füllen* |
+
+<!-- TODO
+l,r,vokal
+"ihren" versaut die Norm
+Will doch nur einsilbig ausgesprochen werden. Also ebenso irren, fühlen, füllen, sehen
+Oder vielleicht können wir die kurzen Vokale hier rausnehmen:
+irren und füllen zweisilbig, und erst in schneller Sprechung einsilbig
+ihren, fühlen und sehen einsilbig, in deutlicher Sprechung zweisilbig
+-->
+
+### Monophthonge
+
+In der Umgangssprache werden lange Vokale (außer `a:`[^a-diphthong]) vor Vokal diphthongisiert, d.h. sie werden mit nicht-silbischem `ɪ̯` bzw. `ʊ̯` gesprochen.
 
 | Hochdeutsch | Umgangssprache | |
 |-|-|-|
-| `ˈfy:lən` | `fy:ɫn` | *fühlen* |
-| `ˈfʏlən`  | `fʏɫn`  | *füllen* |
+| `ˈnɛ:ə`  | `ˈneɪ̯ə`  | *Nähe* |
+| `ˈtse:ə` | `ˈtseɪ̯ə` | *Zehe* |
+| `ˈhø:ə`  | `ˈhøɪ̯ə`  | *Höhe* |
+| `ˈho:ə`  | `ˈhoʊ̯ə`  | *hohe* |
+| | | |
+| `ˈtsi:ɐ` | `ˈtsiɪ̯a` | *Zieher* |
+| `ˈfry:ɐ` | `ˈfryɪ̯a` | *früher* |
+| `ˈʃu:ə`  | `ˈʃuʊ̯ə`  | *Schuhe* |
+
+[^a-diphthong]: Die Diphthonge `aɪ̯` und `aʊ̯` gibt es ja bereits.
+
+In der Umgangssprache fällt der Schwundlaut in *-en* und *-em* nach Vokal aus.[^zejen]
+
+| Hochdeutsch | Umgangssprache | schnell | |
+|-|-|-|-|
+| `ˈze:ən` | `ˈze:n̩` | `ze:n` | *sehen* |
+
+[^zejen]: In deutlicher Sprechung bleibt der Schwundlaut erhalten, aber der lange Vokal wird diphthongiert: `ˈzeɪ̯ən` *sehen*.
 
 ### Progressive Assimilation
 
-In der Umgangssprache fällt der Schwundlaut in *-en* und *-em* nach Nasal-Auslaut aus. Nach langem Vokal fällt der Nasal-Auslaut aus. Dies wirkt noch umgangssprachlicher als der Ausfall des Schwundlauts nach *r*-Auslaut und *l*-Auslaut. Siehe [Rhotizität (Fortsetzung)](#rhotizität-fortsetzung) und [L-Rhotizität](#l-rhotizitätlambdatizität). In der schnellen Umgangssprache wird *-en* und *-em* nicht-silbisch ausgesprochen.[^einen]
+In der Umgangssprache fällt der Schwundlaut in *-en* und *-em* nach Nasal-Auslaut aus. Nach langem Vokal fällt der Nasal-Auslaut aus. Dies wirkt noch umgangssprachlicher als die oben genannten Reduzierungen. In der schnellen Umgangssprache wird *-en* und *-em* nicht-silbisch ausgesprochen.[^einen]
 
 | Hochdeutsch | Umgangssprache | schnell | |
 |-|-|-|-|
@@ -240,7 +248,7 @@ In der schnellen Umgangssprache wird an Stelle der einfachen Vergangenheit die a
 In der schnellen Umgangssprache kann an Stelle des Imperativs der Konjunktiv I verwendet werden.
 
 | Umgangssprache | schnell |
-|-|-|
+|-|-|-|
 | *hilf!* | *helfe!* |
 
 ### Vokabular
@@ -554,7 +562,7 @@ Assimilierte *-em* und *-en* werden in überdeutlicher Aussprache mit Schwundlau
 |-|-|-|
 | `ˈze:n̩` | `ˈzeɪ̯ən` | *sehen* |
 
-[^en]: Diese Überdeutlichkeit kann zu hyperkorrekten Aussprachen wie *nein* `ˈnaɪ̯ən` führen, quasi \**neihen*.
+[^en]: Diese Überdeutlichkeit kann zu hyperkorrekten Aussprachen wie *nein* `ˈnaɪ̯n̩` ~ `ˈnaɪ̯ən` führen, quasi \**neihen*.
 
 Im Berlinerischen werden an Stelle von schwachen *mich* und *dich* die schwachen Formen für *mir* und *dir* verwendet, nämlich *-ma* und *-da*. Im deutlichen Berlinerisch können die "einberlinerischten" Formen *-mi'* und *-di'* verwendet werden.[^akkudativ]
 
@@ -570,3 +578,9 @@ Im Berlinerischen werden an Stelle von schwachen *mich* und *dich* die schwachen
 * [Duden, das Aussprachewörterbuch (2023)](https://www.google.de/books/edition/Duden_Das_Aussprachew%C3%B6rterbuch/ByrmEAAAQBAJ)
 * [Deutsch mit Benjamin (YouTube-Kanal)](https://www.youtube.com/@DeutschMitBenjamin)
 * [Beispiele](de-ekzemploj.md)
+
+<!--
+Die Verkürzung von
+* ha:m zu ham
+* ta:x zu tax
+-->
