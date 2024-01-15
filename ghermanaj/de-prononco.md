@@ -131,45 +131,37 @@ Die Vorsilben *er-*, *ver-* und *zer-* werden in der Umgangssprache wie die Nach
 | `fɛɐ̯`  | `fa`  | *ver-* |
 | `tsɛɐ̯` | `tsa` | *zer-* |
 
-In der Umgangssprache fällt der Schwundlaut in *-en* und *-em* nach *r*-Auslaut aus.[^konjunktiv] [^atem]
+In der Umgangssprache fällt der Schwundlaut in *-en* und *-em* nach *r*-Auslaut aus.[^konjunktiv] [^atem] [^irren]
 
-| Hochdeutsch | Umgangssprache | schnell | |
-|-|-|-|-|
-| `ˈi:rən` | `ia̯n̩` | `ia̯n` | *ihren* |
-| `ˈɪrən`  | `ɪ:n̩` | `ɪ:n` | *irren* |
+| Hochdeutsch | Umgangssprache | |
+|-|-|-|
+| `ˈvi:ɐ̯` | `via̯` | *wir* |
+| `ˈvɪr`  | `vɪ:` | *wirr* |
+| | | |
+| `ˈi:rən` | `ia̯n`  | *ihren* |
+| `ˈɪrən`  | `ˈɪ:n̩` | *irren* |
 
 [^konjunktiv]: Der Schwundlaut der Verbendungen des Konjunktiv I fallen nicht aus: *(dass wir) hören* `ˈhø:rən`. Der Konjunktiv I wird jedoch - abgesehen von Hilfsverben wie *hätte*, *wäre* und *würde* - praktisch nur im Hochdeutschen verwendet.
 
 [^atem]: Der Schwundlaut in *-em* fällt in der Umgangssprache nach *t* aus: *Atem* `ˈa:tm̩`.
 
+[^irren]: In der schnellen Umgangssprache werden *-en* und *-em* nach *r*-Auslaut nicht-silbisch gesprochen: *irren* `ɪ:n`.
+
 ### L-Rhotizität[^lambdatizität]
 
 [^lambdatizität]: Um nicht zu sagen: "Lambdatizität".
 
-In der Umgangssprache wird *l*-Auslaut als eine Mischung aus `w` und `ə` gesprochen, als "Schwund-*l*". Hier wird es als `ɫ` transkribiert.[^l-rhotizität]
+In der Umgangssprache wird ein *l*-Auslaut als "Schwund-*l*" `ɫ` gesprochen (eine Mischung aus `w` und `ə`), wenn kein Vokal folgt. Der Schwundlaut in *-en* und *-em* fällt nach *l*-Auslaut aus.[^füllen]
 
 | Hochdeutsch | Umgangssprache | |
 |-|-|-|
-| `ʃa:l` | `ʃa:ɫ` | *Schal* |
-| `ʃal`  | `ʃaɫ`  | *Schall* |
+| `ʃa:l` | `ˈʃa:l̩` | *Schal* |
+| `ʃal`  | `ʃaɫ`   | *Schall* |
+| | | |
+| `ˈfy:lən` | `ˈfy:l̩n` | *fühlen* |
+| `ˈfʏlən`  | `fʏɫn̩`   | *füllen* |
 
-[^l-rhotizität]: In deutlicher Sprechung wird *l*-Auslaut nach langem Vokal silbisch gesprochen: `ˈʃa:l̩` *Schal*.
-
-In der Umgangssprache fällt der Schwundlaut in *-en* und *-em* nach *l*-Auslaut.
-
-| Hochdeutsch | Umgangssprache | schnell | |
-|-|-|-|-|
-| `ˈfy:lən` | `fy:ɫn̩` | `fy:ɫn` | *fühlen* |
-| `ˈfʏlən`  | `fʏɫn̩`  | `fʏɫn`  | *füllen* |
-
-<!-- TODO
-l,r,vokal
-"ihren" versaut die Norm
-Will doch nur einsilbig ausgesprochen werden. Also ebenso irren, fühlen, füllen, sehen
-Oder vielleicht können wir die kurzen Vokale hier rausnehmen:
-irren und füllen zweisilbig, und erst in schneller Sprechung einsilbig
-ihren, fühlen und sehen einsilbig, in deutlicher Sprechung zweisilbig
--->
+[^füllen]: In der schnellen Umgangssprache werden *-en* und *-em* nach *l*-Auslaut nicht-silbisch gesprochen: *füllen* `fʏɫn`. Silbischer *l*-Auslaut wird nicht-silbisch gesprochen: *Schal* `ˈʃa:ɫ`, *fühlen* `fy:ɫn`.
 
 ### Monophthonge
 

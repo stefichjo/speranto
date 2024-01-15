@@ -96,7 +96,7 @@ bɪstə āba e:m̩ jərādə nɪç!
 
 hεɪ dū, hεɪ dū,  
 hœa mia mā, hœa mia ma tsū.  
-ɪk vɪɫ dia mā vat atsēɫn[^ä] fɔn mia.  
+ɪk vɪɫ dia mā vat atsēl̩n[^ä] fɔn mia.  
 dɪt[^dit] hābɪk nɔx nī jəmaxt, aʊsa[^au] baɪ dia  
 fīlaɪçt brɪŋtət dia vat, ɪk kεnda[^kenn-dir] jā nɪç.  
 ɪk zē nua, vī traʊrɪç dū bɪst.
@@ -146,7 +146,7 @@ vī dū - ʊnt fya mɪç vaɪnt
 
 ### 100 Mal Berlin[^er-ör-or]
 
-tjā, vat zɔlɪk īn̩ fɔn[^von] bɛalīn atsēɫn?  
+tjā, vat zɔlɪk īn̩ fɔn[^von] bɛalīn atsēl̩n?  
 via zɪnt alət jans nɔmālə farʏktə.  
 hām̩ alə n̩ fōɣl̩[^vogel], n̩ hʊnt ōda n̩ kāta.  
 ʊf ābaɪt klɔtsn̩va mɛçtɪ ran  
@@ -154,7 +154,7 @@ dī, dī tsu ʃpēt kɔmm̩,
 rɛnn̩ dī, dī fryja jēn̩ fast ȳban haʊfn̩.  
 aʊsa mia hām̩ hia āba nɔ jans andrə ia jaɪstjət ʊnvēzn̩ jetrīm̩[^getrieben].  
 dāfya hat manzə ɪn ʃtaɪn jəhaʊn̩  
-ʊnt ʃtʏkçənvaɪzə ʊf brʏkŋ̩ ʊ̄nt fɛadə fataɪɫt.  
+ʊnt ʃtʏkçənvaɪzə ʊf brʏkŋ̩ ʊ̄nt fɛadə fataɪl̩t.  
 āba nɪç nua antīkə ʃtatūtn̩[^statuen] hām̩va.  
 nē, ōx haʊfn̩vaɪzə turɪstn̩  
 fɔn ȳbam[^überm] grōsn̩ taɪ̄ç ʊnt hɪntam mōnt  
@@ -165,12 +165,12 @@ alə sāŋ̩, ɪkə ʊnt via hām̩ nə grōsə ʃnaʊtsə.
 mɛnʃ, dī braʊxŋ̩va dɔ ōx,  
 ʃlīslɪç trāŋ̩va ʊnza grōsət hɛats ʊfda tsʊŋə.
 
-hʊndat māɫ hāp ɪk bɛalīn faflūxt,  
-hʊndat māɫ vaɪt vɛk maɪn glʏk jəzūxt,  
-hʊndat māɫ jəhɔɪɫt, dū maxst mɪç kraŋk,  
-hʊndat māɫ jəbētət, jɔt zaɪ daŋk,  
-hʊndat māɫ jəzāxt, mɪt dia ɪs ʃlʊs,  
-hʊndat māɫ kām ɪk fɔn dia nɪç lōs  
+hʊndat māl̩ hāp ɪk bɛalīn faflūxt,  
+hʊndat māl̩ vaɪt vɛk maɪn glʏk jəzūxt,  
+hʊndat māl̩ jəhɔɪɫt, dū maxst mɪç kraŋk,  
+hʊndat māl̩ jəbētət, jɔt zaɪ daŋk,  
+hʊndat māl̩ jəzāxt, mɪt dia ɪs ʃlʊs,  
+hʊndat māl̩ kām ɪk fɔn dia nɪç lōs  
 hʊndat bɪlən haʊt aɪn jē nɪç hɪn[^unverständlich]  
 dɪt zɪtst tsū tīf, dɪt zɪtst hia drin
 
@@ -181,7 +181,7 @@ dī hām̩ jā ōx mɛa n̩ hɛats fya ian razn̩.
 vat haɪst hia, bɛalīna jœan zɪnt frɛç vī rɔts?  
 alət ʃpɪnə, ɛɪ[^ey].  
 vɪ klēnə[^kleine] ɛŋl̩çən sɪtsn̩zə bɪs zɛndəʃlʊs fɔada rø̄rə  
-ɔpvōɫ papa ʊnt mama ʃōn lɛŋst ɪns bɛtt[^ins-bett] jəjaŋŋ̩ zɪnt.  
+ɔpvōl̩ papa ʊnt mama ʃōn lɛŋst ɪns bɛtt[^ins-bett] jəjaŋŋ̩ zɪnt.  
 āba dɪt ʃønstə fɔn bɛalīn zɪnt via fraʊn̩.  
 dɛa man, dɛa zō ēnə apkrɪçt kanzɪ gratulian.  
 vɛnzət rɪçtɪ jūt mɪt īm maɪnt,  
@@ -191,24 +191,24 @@ dan bəzūxtzə īn fɔamɪtaxs mɪta jīskanə ʊfm̩ frīthōf
 fɔn wēŋ̩ via bɛalīnərɪnn̩ zɪnt ʃnɪpɪʃ, pə!  
 via kœnn̩ alət fatrāŋ̩, blōs kēnə vīdavɔ̄tə.
 
-hʊndat māɫ ...
+hʊndat māl̩ ...
 
 āba dɪt jəmȳtlɪçstə fɔn bɛalīn ɪs dɛa fakɛa,  
 vaɫ jēda n̩ fābān̩ ʊntazats hat.  
 aɫzo bɪs ʊf dī, dī kēn̩ hām̩,  
 ʊnt dī zɪnt ɪm bərūfsfakɛa ʃōn ɪma nə ʃtʊndə frȳja tsū haʊzə,  
-vaɫzə dī aʊtos laʊfn̩t ȳbahōɫn.  
+vaɫzə dī aʊtos laʊfn̩t ȳbahōl̩n.  
 aʊtofāra zɪnt ɪnn̩ ōŋ̩[^augen] fɔn aʊtofāran alət idiōtn̩, kamēlə ʊnt hɔ̄nɔksn̩.  
 nʊa fɔnn̩ vaɪsn̩ mɔɪzn̩ vɛan̩zə bʏ̄ja bətītl̩t.  
 nā, zō nə nɛtɪçkaɪt lɛst man zɪç ʃōn mā n̩ tsēna kɔstn̩.  
-dī maɪsta fɔm jāspedāɫ zɪnt ʊnzrə taksifāra.  
+dī maɪsta fɔm jāspedāl̩ zɪnt ʊnzrə taksifāra.  
 dɛshaɫp vɛan̩zə zɛɫtn̩ avɪʃt,  
 vēda fɔnn̩ radāfaɫn̩ nɔx fɔnn̩ fājɛstn̩.  
 mançə bəhaʊptn̩, bɛalīna tɛmpo ɪs hɛktɪʃ.  
 alət kvatʃ.  
 naxts ʊm draɪ ɪs bɛalīn dɛa raɪnstə kuaɔ̄t.
 
-hʊndat māɫ ...
+hʊndat māl̩ ...
 
 [^er-ör-or]: Hahnemann verwendet in *er*, *ör*, *or* deutlicherweise geschlossene Vokale und sagt *Berlin* `bea̯ˈli:n`, *Gören* `jøa̯n`, *vor* `foa̯` statt *Berlin* `bεa̯ˈli:n`, *Gören* `jœa̯n`, *vor* `fɔa̯`.
 
@@ -241,7 +241,7 @@ hʊndat māɫ ...
 ### Redensarten
 
 Kommen-Se rin, (da) können-Se rauskieken.  
-`kɔmm̩zə rɪn, (dā) kœnn̩zə raʊskīkŋ.`
+`kɔmzə rɪn, (dā) kœnzə raʊskīkŋ.`
 
 <!-- n̩m̩ŋ̩l̩ɫ ɣʃ ˈ -->
 <!-- āɛ̄ɪ̄ɔ̄ʊ̄ œ̄ʏ̄ ø̄ȳ -->
