@@ -1208,7 +1208,7 @@ Note:
 
 ## Esperanto
 
-### aŭ → uj
+### uj → aŭ
 
 | | | | | | |
 |-|-|-|-|-|-|
@@ -1737,4 +1737,82 @@ S̃peranto /esperanto/
 Symbol: S im Kreis (ca. Ⓢ, aber mit kleinerem Kreis)
 -->
 
+<!--s-->
+
+# Esperanto
+
+<!--s-->
+
+# Speranto
+
+<!--v-->
+
+Etimologia ortografio:
+
+* [*koncerto*] → **concerto** [*koncerto*]
+* [*lingvistiko*] → **linguistico** [*lingvistiko*]
+* [*hejmo*] → **hẽmo** [*hejmo*]
+* [*ŝajni*] → **shĩni** [*ŝajni*]
+
+<!--v-->
+
+Slav-ĝermana prononco:
+
+* [*ŝanco*] → **çhanço** [*ŝanso*]
+
+<!--v-->
+
+Ne evitiĝas homonimoj:
+
+* [*akĉento*] → **accento** [*akcento*] <!-- akcentumo? -->
+* [*dio*] → **deo** [=]
+* [*ĝenerala*] → **generala** [=] <!-- generalumo? -->
+* [*ĝermana*] → **germana** [=] <!-- germanika? -->
+* [*ĝusta*] → **justa** [=]
+* [*ŝtato*] → **stato** [=] <!-- statumo? -->
+* [*vojo*] → **vio** [=]
+
+<!--v-->
+
+Ne evitiĝas senvokalaj radikoj:
+
+* [*stari*] → **sti** [=]
+
+<!--v-->
+
+`...`
+
+* [*ambaŭ*] → **ambui** [*ambuj*] / **ambau** [*ambaŭ*]
+* [*unu*] → **unu** [=] / **un** [=]
+
+<!--v-->
+
+* [*diras*] → **dizas** [*dicas*]
+* [*faras*] → **fazas** [*facas*]
+* [*kondukas*] → **conduzas** [*konducas*]
+
+<!--v-->
+
+Unuformeco de ĝermanaj vortoj:
+
+* [*gliti*] → **glĩdi** [*glajdi*]
+* [*ŝtono*] → **stẽno** [*stejno*]
+* [*tago*] → **dago** [=]
+* [*vorto*] → **wordo** [*vordo*]
+
+<!--s-->
+
+# Linguo
+
+<!--v-->
+
+Foresto de ĝermanaj vortoj:
+
+* [*tago*] → **dago** [=] → **dio** [=]
+
+<!--v-->
+
+Foresto de grekaj vortoj:
+
+* [*kaj*] → **kai** [*kaj*] → **e** [=]
 
