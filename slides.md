@@ -1747,6 +1747,12 @@ Symbol: S im Kreis (ca. Ⓢ, aber mit kleinerem Kreis)
 
 <!--v-->
 
+Slav-ĝermana prononco:
+
+`...`
+
+<!--v-->
+
 Etimologia ortografio:
 
 * [*koncerto*] → **concerto** [*koncerto*]
@@ -1756,27 +1762,56 @@ Etimologia ortografio:
 
 <!--v-->
 
-Slav-ĝermana prononco:
+Evitiĝas naciaj trajtoj:
 
-* [*ŝanco*] → **çhanço** [*ŝanso*]
+* [*dio*] → **deo** [=]
+* [*pordo*] → **porto** [=]
 
 <!--v-->
 
-Ne evitiĝas homonimoj:
+Evitiĝas naciaj trajtoj (italaj):
 
 * [*akĉento*] → **accento** [*akcento*] <!-- akcentumo? -->
-* [*dio*] → **deo** [=]
+* [*dolĉa*] → **dulza** [*dulca*]
 * [*ĝenerala*] → **generala** [=] <!-- generalumo? -->
 * [*ĝermana*] → **germana** [=] <!-- germanika? -->
 * [*ĝusta*] → **justa** [=]
-* [*ŝtato*] → **stato** [=] <!-- statumo? -->
+* [*voĉo*] → **vozo** [*voco*]
+
+<!--v-->
+
+Evitiĝas naciaj trajtoj (italaj/francaj):
+
+* [*mondo*] → **mundo** [=]
+* [*tuta*] → **tota** [=]
+
+<!--v-->
+
+Evitiĝas naciaj trajtoj (francaj):
+
+* [*supozi*] → **supponi** [*suponi*]
 * [*vojo*] → **vio** [=]
+
+<!--v-->
+
+Evitiĝas naciaj trajtoj (ĝermanaj):
+
+* [*trinki*] → **drinki** [=]
+* [*gliti*] → **glĩdi** [*glajdi*]
+* [*ŝtato*] → **stato** [=] <!-- statumo? -->
+* [*ŝtono*] → **stẽno** [*stejno*]
+* [*tago*] → **dago** [=]
+* [*vorto*] → **wordo** [*vordo*]
 
 <!--v-->
 
 Ne evitiĝas senvokalaj radikoj:
 
 * [*stari*] → **sti** [=]
+
+`...`
+
+* [*esti*] → **essi** [*esi*]
 
 <!--v-->
 
@@ -1787,18 +1822,20 @@ Ne evitiĝas senvokalaj radikoj:
 
 <!--v-->
 
+`...`
+
 * [*diras*] → **dizas** [*dicas*]
 * [*faras*] → **fazas** [*facas*]
 * [*kondukas*] → **conduzas** [*konducas*]
 
 <!--v-->
 
-Unuformeco de ĝermanaj vortoj:
+Internaciismoj:
 
-* [*gliti*] → **glĩdi** [*glajdi*]
-* [*ŝtono*] → **stẽno** [*stejno*]
-* [*tago*] → **dago** [=]
-* [*vorto*] → **wordo** [*vordo*]
+* [*ĵurnalo*] → **ĵurnalo** [=]
+* [*ĝeni*] → **ĵeni** [=]
+* [*nuanco*] → **nuanço** [*nuanso*]
+* [*ŝanco*] → **çhanço** [*ŝanso*]
 
 <!--s-->
 
@@ -1816,3 +1853,9 @@ Foresto de grekaj vortoj:
 
 * [*kaj*] → **kai** [*kaj*] → **e** [=]
 
+
+ĵunglo < Hindi
+
+çhanĵo
+manĵi
+naĵi
