@@ -270,17 +270,17 @@ In der schnellen Umgangssprache werden unbetonte Personalpronomen im Sprechfluss
 | `hat ɛa̯` | `ˈhata` | *hat er* → *hat-er* |
 | `ɪst zi:` | `ˈɪsə` | *ist sie* → *is-se* |
 | | | |
-| `hast du: ma:ɫ` | `ˈhastəma` | *hast du mal* → *hast-de-ma* ≡ *haste ma'* |
+| `hast du: ma:ɫ` | `ˈhastə ma:` | *hast du mal* → *hast-de ma'* ≡ *haste ma'* |
 
 #### Assimilation
 
 *nf* wird in der schnellen Umgangssprache zu *mpf*.
 
-| Umgangssprache (schnell) | |
-|-|-|
-| `fʏmpf`       | *fünf* ≡ *fümpf* |
-| `zɛmpf`       | *Senf* ≡ *Sempf* |
-| `ˈtsu:kʊmpft` | *Zukunft* ≡ *Zukumpft* |
+| Umgangssprache | schnell | |
+|-|-|-|
+| `fʏnf`       | `fʏmpf`       | *fünf* ≡ *fümpf* |
+| `zɛnf`       | `zɛmpf`       | *Senf* ≡ *Sempf* |
+| `ˈtsu:kʊnft` | `ˈtsu:kʊmpft` | *Zukunft* ≡ *Zukumpft* |
 
 ## Berlinerisch
 
@@ -574,5 +574,4 @@ Im Berlinerischen werden an Stelle von schwachen *mich* und *dich* die schwachen
 <!--
 Die Verkürzung von
 * ha:m zu ham
-* ta:x zu tax
 -->
