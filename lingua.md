@@ -725,3 +725,10 @@ En la perfekto, uziĝas **esse**. (Aliaj verboj baziĝantaj sur **i** estas regu
 | ***-v-*** | |
 | **solvĭto** | **soluto** |
 | **volvĭto** | **voluto** |
+
+## Sudaj Akĉentoj
+*(Meridional)*
+
+* bene → ben
+* male → male
+* amare → amá

@@ -19,6 +19,7 @@ Im Hochdeutschen wird das *r* typischerweise als Zäpfchen-*r* (`ʀ` oder `ʁ`) 
 Im Hochdeutschen fällt der Schwundlaut in *-er* aus, sodass *r* silbisch gesprochen wird. Es wird dann als Schwund-*a* `ɐ` realisiert.
 
 | Hochdeutsch | deutlich | |
+|-|-|-|
 | `ˈbɛsr̩` ≡ `ˈbɛsɐ` | `ˈbɛsər` | *besser* |
 
 Im Hochdeutschen wird *r* am Wortende oder vor Konsonant als nicht-silbisches a-Schwa `ɐ̯` realisiert. Lange Vokale werden hierbei gekürzt.[^wörterbuchdeutsch-rhotizität] [^erd-ert] [^erst]
@@ -240,7 +241,7 @@ In der schnellen Umgangssprache wird an Stelle der einfachen Vergangenheit die a
 In der schnellen Umgangssprache kann an Stelle des Imperativs der Konjunktiv I verwendet werden.
 
 | Umgangssprache | schnell |
-|-|-|-|
+|-|-|
 | *hilf!* | *helfe!* |
 
 ### Vokabular

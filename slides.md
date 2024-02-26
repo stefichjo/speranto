@@ -1208,7 +1208,7 @@ Note:
 
 ## Esperanto
 
-### aŭ → uj
+### uj → aŭ
 
 | | | | | | |
 |-|-|-|-|-|-|
@@ -1737,4 +1737,125 @@ S̃peranto /esperanto/
 Symbol: S im Kreis (ca. Ⓢ, aber mit kleinerem Kreis)
 -->
 
+<!--s-->
 
+# Esperanto
+
+<!--s-->
+
+# Speranto
+
+<!--v-->
+
+Slav-ĝermana prononco:
+
+`...`
+
+<!--v-->
+
+Etimologia ortografio:
+
+* [*koncerto*] → **concerto** [*koncerto*]
+* [*lingvistiko*] → **linguistico** [*lingvistiko*]
+* [*hejmo*] → **hẽmo** [*hejmo*]
+* [*ŝajni*] → **shĩni** [*ŝajni*]
+
+<!--v-->
+
+Evitiĝas naciaj trajtoj:
+
+* [*dio*] → **deo** [=]
+* [*pordo*] → **porto** [=]
+
+<!--v-->
+
+Evitiĝas naciaj trajtoj (italaj):
+
+* [*akĉento*] → **accento** [*akcento*] <!-- akcentumo? -->
+* [*dolĉa*] → **dulza** [*dulca*]
+* [*ĝenerala*] → **generala** [=] <!-- generalumo? -->
+* [*ĝermana*] → **germana** [=] <!-- germanika? -->
+* [*ĝusta*] → **justa** [=]
+* [*voĉo*] → **vozo** [*voco*]
+
+<!--v-->
+
+Evitiĝas naciaj trajtoj (italaj/francaj):
+
+* [*mondo*] → **mundo** [=]
+* [*tuta*] → **tota** [=]
+
+<!--v-->
+
+Evitiĝas naciaj trajtoj (francaj):
+
+* [*supozi*] → **supponi** [*suponi*]
+* [*vojo*] → **vio** [=]
+
+<!--v-->
+
+Evitiĝas naciaj trajtoj (ĝermanaj):
+
+* [*trinki*] → **drinki** [=]
+* [*gliti*] → **glĩdi** [*glajdi*]
+* [*ŝtato*] → **stato** [=] <!-- statumo? -->
+* [*ŝtono*] → **stẽno** [*stejno*]
+* [*tago*] → **dago** [=]
+* [*vorto*] → **wordo** [*vordo*]
+
+<!--v-->
+
+Ne evitiĝas senvokalaj radikoj:
+
+* [*stari*] → **sti** [=]
+
+`...`
+
+* [*esti*] → **essi** [*esi*]
+
+<!--v-->
+
+`...`
+
+* [*ambaŭ*] → **ambui** [*ambuj*] / **ambau** [*ambaŭ*]
+* [*unu*] → **unu** [=] / **un** [=]
+
+<!--v-->
+
+`...`
+
+* [*diras*] → **dizas** [*dicas*]
+* [*faras*] → **fazas** [*facas*]
+* [*kondukas*] → **conduzas** [*konducas*]
+
+<!--v-->
+
+Internaciismoj:
+
+* [*ĵurnalo*] → **ĵurnalo** [=]
+* [*ĝeni*] → **ĵeni** [=]
+* [*nuanco*] → **nuanço** [*nuanso*]
+* [*ŝanco*] → **çhanço** [*ŝanso*]
+
+<!--s-->
+
+# Linguo
+
+<!--v-->
+
+Foresto de ĝermanaj vortoj:
+
+* [*tago*] → **dago** [=] → **dio** [=]
+
+<!--v-->
+
+Foresto de grekaj vortoj:
+
+* [*kaj*] → **kai** [*kaj*] → **e** [=]
+
+
+ĵunglo < Hindi
+
+çhanĵo
+manĵi
+naĵi
