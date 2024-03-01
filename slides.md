@@ -1739,7 +1739,77 @@ Symbol: S im Kreis (ca. Ⓢ, aber mit kleinerem Kreis)
 
 <!--s-->
 
+## Etimologia Ortografio
+
+<!--v-->
+
+| Esperanto | Speranto |
+|-:|:-|
+| **akvo**   | **aquo** [akvo] |
+| **lingvo** | **linguo** [lingvo] |
+
+<!--v-->
+
+| Esperanto | Speranto |
+|-:|:-|
+| **amiko**  | **amico** [amiko] |
+| **paco**   | **pazo** [paco] |
+
+<!--v-->
+
+| Esperanto | Speranto |
+|-:|:-|
+| **tero**   | **terro** [tero] |
+
+<!--v-->
+
+| Esperanto | Speranto |
+|-:|:-|
+| **rozo**   | **roso** [rozo] |
+| **maso**   | **masso** [maso] |
+
+<!--v-->
+
+| Esperanto | Speranto |
+|-:|:-|
+| **teksto**   | **texto** [teksto] |
+| **ekzemplo** | **exemplo** [ekzemplo] |
+
+<!--v-->
+
+| Esperanto | Speranto |
+|-:|:-|
+| **himno** | **hymno** [himno] |
+| **temo**  | **themo** [temo] |
+
+<!--v-->
+
+
+
 # Esperanto
+
+Esperanto baziĝas precipe sur latinidaj lingvoj en simpligita formo. Aldone, ĝi havas multege da nov-latinidismoj, nov-ĝermanismoj kaj kelke da nov-slavismoj, grekismoj kaj latinismoj. Esperanto uzas nur fonetikan alfabeton kun slav-ĝermana prononco.
+
+<!--v-->
+
+Nov-slavaj formoj:
+
+* **kolbaso**
+* **nepre**
+
+<!--v-->
+
+Grekismoj:
+
+* **kaj**
+* **krom**
+
+<!--v-->
+
+Latinismoj:
+
+* **apud**
+* **sed**
 
 <!--s-->
 
@@ -1747,95 +1817,151 @@ Symbol: S im Kreis (ca. Ⓢ, aber mit kleinerem Kreis)
 
 <!--v-->
 
-Slav-ĝermana prononco:
+Speranto havas etimologian ortografion kaj slav-ĝermanan prononcon:
 
-`...`
-
-<!--v-->
-
-Etimologia ortografio:
-
-* [*koncerto*] → **concerto** [*koncerto*]
-* [*lingvistiko*] → **linguistico** [*lingvistiko*]
-* [*hejmo*] → **hẽmo** [*hejmo*]
-* [*ŝajni*] → **shĩni** [*ŝajni*]
+* **amiko** → **amico** [*amiko*]
+* **ekzameno** → **exameno** [*ekzameno*]
+* **lingvo** → **linguo** [*lingvo*]
+* **ŝajni** → **shĩni** [*ŝajni*]
 
 <!--v-->
 
-Evitiĝas naciaj trajtoj:
+Speranto ne evitas homonimojn.
 
-* [*dio*] → **deo** [=]
-* [*pordo*] → **porto** [=]
-
-<!--v-->
-
-Evitiĝas naciaj trajtoj (italaj):
-
-* [*akĉento*] → **accento** [*akcento*] <!-- akcentumo? -->
-* [*dolĉa*] → **dulza** [*dulca*]
-* [*ĝenerala*] → **generala** [=] <!-- generalumo? -->
-* [*ĝermana*] → **germana** [=] <!-- germanika? -->
-* [*ĝusta*] → **justa** [=]
-* [*voĉo*] → **vozo** [*voco*]
+* **ĉambro** / **kamerao** → **camero** [*kamero*]
 
 <!--v-->
 
-Evitiĝas naciaj trajtoj (italaj/francaj):
-
-* [*mondo*] → **mundo** [=]
-* [*tuta*] → **tota** [=]
+Speranto evitas nov-naciismojn, t.e. ĝi evitas specife francajn, germanajn ktp. formojn, se samsignifaj internacie rekoneblaj latinidaj, (okcident-)ĝermanaj formoj ekzistas...
 
 <!--v-->
 
-Evitiĝas naciaj trajtoj (francaj):
-
-* [*supozi*] → **supponi** [*suponi*]
-* [*vojo*] → **vio** [=]
-
-<!--v-->
-
-Evitiĝas naciaj trajtoj (ĝermanaj):
-
-* [*trinki*] → **drinki** [=]
-* [*gliti*] → **glĩdi** [*glajdi*]
-* [*ŝtato*] → **stato** [=] <!-- statumo? -->
-* [*ŝtono*] → **stẽno** [*stejno*]
-* [*tago*] → **dago** [=]
-* [*vorto*] → **wordo** [*vordo*]
+| Esperanto | Speranto |
+|-|-|
+| **dio**    | **deo** [=]            |
+| **dolĉa**  | **dulza** [*dulca*]    |
+| **esperi** | **speri** [=]          |
+| **mondo**  | **mundo** [=]          |
+| **supozi** | **supponi** [*suponi*] |
+| **tuta**   | **tota** [=]           |
+| **voĉo**   | **vozo** [*voco*]      |
 
 <!--v-->
 
-Ne evitiĝas senvokalaj radikoj:
-
-* [*stari*] → **sti** [=]
-
-`...`
-
-* [*esti*] → **essi** [*esi*]
-
-<!--v-->
-
-`...`
-
-* [*ambaŭ*] → **ambui** [*ambuj*] / **ambau** [*ambaŭ*]
-* [*unu*] → **unu** [=] / **un** [=]
+* **birdo** → **fuglo** [=]
+* **gliti** → **glĩdi** [*glajdi*]
+* **ŝtono** → **stẽno** [*stejno*]
+* **tago** → **dago** [=]
+* **trinki** → **drinki** [=]
+* **vorto** → **wordo** [*vordo*]
 
 <!--v-->
 
-`...`
+...ankaŭ se tio povas kaŭzi homonimojn.
 
-* [*diras*] → **dizas** [*dicas*]
-* [*faras*] → **fazas** [*facas*]
-* [*kondukas*] → **conduzas** [*konducas*]
+* **ĝusta** → **justa** [=]
+* **ĵuri** → **juri** [=]
+* **pordo** → **porto** [=]
+* **vojo** → **vio** [=]
+
+<!-- TODO * **ĝenerala** → **generala** [=] generalumo? -->
 
 <!--v-->
 
-Internaciismoj:
+Anstataŭe, (ŝajn-)sufiksoj estas uzataj.
 
-* [*ĵurnalo*] → **ĵurnalo** [=]
-* [*ĝeni*] → **ĵeni** [=]
-* [*nuanco*] → **nuanço** [*nuanso*]
-* [*ŝanco*] → **çhanço** [*ŝanso*]
+* **akĉento** → **accentumo** [*akcentumo*]
+* **ĝermana** → **germanica** [*germanika*]
+* **ŝtato** → **statumo** [=]
+
+<!--v-->
+
+Speranto uzas nov-naciismojn nur, se samsignifa parenca latinidismo, ĝermanismo ktp. ne ekzistas.
+
+* **ĵurnalo** → = [=]
+
+<!--v-->
+
+Speranto evitas "-ar-" kaj "-ir-" en verbaj radikoj, se ili devenas de la infinitiva finaĵo de latina verbo...
+
+* **diri** → **dici** [=]
+* **iri** → **vadi** [=]
+
+<!--v-->
+
+...ankaŭ se tio kaŭzas senvokalan radikon.
+
+* **stari** → **sti** [=]
+<!-- TODO doni → di? mi das libron al vi -->
+
+<!--v-->
+
+Speranto ne uzas la radikon **est-**, sed **ess-** [*es*].
+
+* **esti** → **essi** [*esi*]
+
+<!--v-->
+
+Latinaj verboj (kies infinitivo finiĝas ja -ere aŭ -ire), kies radiko finiĝas je -c, finiĝas je **z**/**c** [*c*] en Speranto...
+
+* **konduki** → **conduci** [*konduci*]
+
+<!--v-->
+
+...dum **g** [*g*] restas senŝanĝa.
+
+* **legi** → = [=]
+* **regi** → = [=]
+
+<!--v-->
+
+Latinaj adjektivoj kaj substantivoj (kies ablativo finiĝas je -e aŭ -i), kies radiko finiĝas je -c aŭ -g, finiĝas je **z**/**c** [*c*] aŭ **ĝ** [*ĵ*] en Speranto.
+
+* **leĝo** → = [*leĵo*]
+* **reĝo** → = [*reĵo*]
+
+<!--v-->
+
+Dum en Esperanto, franc-devena **ç**/**çh** ofte prononciĝas [*c*]/[*ĉ*], ĝi prononciĝas [*s*]/[*ŝ*] en Speranto.
+
+* **ĉagreni** → **çhagreni** [*ŝagreni*]
+* **nuanco** → **nuanço** [*nuanso*]
+* **ŝanco** → **çhanço** [*ŝanso*]
+
+<!--v-->
+
+Dum en Esperanto, **ĝ** prononciĝas [*ĝ*], ĝi prononciĝas [*ĵ*] en Speranto. En etimologia skribo, uziĝas **ĝ** se la originala nacilingva ortografio same uzas **g**.
+
+* **genro** → **ĝenro** [*ĵenro*]
+* **ĝeni** → = [*ĵeni*]
+* **ĝiri** → = [*ĵiri*]
+* **manĝi** → = [*manĵi*]
+* **naĝi** → = [*naĵi*]
+* **ŝanĝi** → **çhanĝi** [*ŝanĵi*]
+
+<!-- TODO * **ĉemizo** → **çhemiso** [*ŝemizo*] camiso -->
+
+<!-- TODO ĵunglo < Hindi (jangal) -->
+
+<!-- TODO ligi legumo -->
+
+<!--v-->
+
+Speranto uzas la finaĵon **-u(j)** ankaŭ por **ambaŭ**. Anstataŭ la numeralo **unu** uziĝas **un**.
+
+* **ambaŭ** → **ambui** [*ambuj*] / **ambau** [*ambaŭ*]
+* **unu** → **unu** [=] / **un** [=]
+
+<!--v-->
+
+## Tabelvortoj
+
+| Esperanto | Speranto |
+|-|-|
+| **kio**  | **qŭio** = **kio** [*kio*]  |
+| **ĉio**  | **çhio** = **ĉio** [*ŝio*]  |
+
+<!-- TODO ŝi? -->
 
 <!--s-->
 
@@ -1845,17 +1971,87 @@ Internaciismoj:
 
 Foresto de ĝermanaj vortoj:
 
-* [*tago*] → **dago** [=] → **dio** [=]
+* **dago** [=] → **dio** [=]
 
 <!--v-->
 
-Foresto de grekaj vortoj:
+Foresto de klasikaj (latinaj/grekaj) vortoj:
 
-* [*kaj*] → **kai** [*kaj*] → **e** [=]
+* **kai** [*kaj*] → **e** [=]
+* **sed** [=] → **ma** [=] `???`
 
+<!--v-->
 
-ĵunglo < Hindi
+Personaj pronomoj finiĝas je **-u**.
 
-çhanĵo
-manĵi
-naĵi
+* **mi** [=] → **mu** [=]
+
+<!--v-->
+
+## Tabelvortoj
+
+<!-- kijes kiŭes quios -->
+
+| Speranto | Linguo |
+|-|-|
+| **kies** | **qŭiŭis** [*kiŭis*] |
+| **kien** | **qŭii** [*kii*] |
+
+<!--s-->
+
+# Lingue
+
+<!--v-->
+
+## *-e* ←→ *-o*
+
+* **certe** → **certo**
+* **luzo** → **luze**
+
+<!--v-->
+
+## *-i* ←→ *-u*
+
+* **mu** → **mi**
+* **vu** → **vi**
+
+<!--v-->
+
+## *-i* → *-s*
+
+* **domoi** → **domos**
+
+<!--v-->
+
+## *-s* → *-n*
+
+* **vidas** → **vidan**
+
+<!--v-->
+
+## *-n* → *a*
+
+* **Mu vidas Carlan.** → **Mi vidan (a) Carla.**
+* **Carlan mu vidas.** → **A Carla mi vidan.**
+
+<!--v-->
+
+## Tabelvortoj
+
+* ([*kies*] →) **qŭiŭis** [*kiŭis*] → **qŭius** [*kius*]
+* ([*kien*] →) **qŭii** [*kii*] → **qŭu** [*kŭu*]
+* ([*kiam*] →) **qŭiam** [*kiam*] → **quam** [*kŭam*]
+* ([*kiom*] →) **qŭiåm** [*kiom*] → **quäm** [*kŭem*]
+* ([*kial*] →) **qŭiär** [*kier*] → **quår** [*kŭor*]
+* ([*kiel*] →) **qŭiem** [*kiem*] → **quom** [*kŭom*]
+
+<!--s-->
+
+# Linguo
+
+<!-- TODO
+ĉu muss eigentlich ĉi sein.
+ĉi könnte "ĉu" sein.
+Dieses Thema sollte behandelt werden, wenn der i/u-Austausch (e/o-Austausch) passiert.
+-->
+
