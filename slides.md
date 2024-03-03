@@ -2055,3 +2055,303 @@ Personaj pronomoj finiĝas je **-u**.
 Dieses Thema sollte behandelt werden, wenn der i/u-Austausch (e/o-Austausch) passiert.
 -->
 
+<!--s-->
+
+# 2024-03
+
+<!--s-->
+
+# Speranto
+
+<!--v-->
+
+Esperanto havas pli-malpli rus-germanan prononcon. Ĝi havas naciismojn kaj por funkciaj vortoj (prepozicioj, konjunkcioj, sufiksoj) kaj por signifaj vortoj (o-vortoj, a-vortoj, verboj).
+
+Speranto havas pli neŭtralan slav-ĝermanan prononcon. Ĝi havas naciismojn nur por funkciaj vortoj.
+
+<!--v-->
+
+## Slav-Ĝermana Prononco
+
+<!--v-->
+
+### Slavaj Vortoj
+
+<!--v-->
+
+| Esperanto | Speranto |
+|-|-|
+| poŝto | poĉto |
+
+<!--v-->
+
+### Ĝermanaj Vortoj
+
+<!--v-->
+
+| Esperanto | Speranto |
+|-|-|
+| vorto | vordo |
+| gliti | glajdi |
+| ŝtato | stato |
+| ŝtono | stejno |
+
+<!--v-->
+
+### Latinidaj Vortoj
+
+<!--v-->
+
+#### -io → -jo
+
+<!--v-->
+
+| Esperanto | Speranto |
+|-|-|
+| linio | linjo |
+| familio | familjo |
+| nacio | nacjo |
+
+<!--v-->
+
+#### -o → -jo
+
+<!--v-->
+
+| Esperanto | Speranto |
+|-|-|
+| besto | bestjo |
+| ordinara | ordinarja |
+
+<!--v-->
+
+### Nov-Latinidaj Vortoj
+
+<!--v-->
+
+| Esperanto | Speranto |
+|-|-|
+| ŝanco | ŝanso |
+
+### i → e
+
+<!--v-->
+
+| Esperanto | Speranto |
+|-|-|
+| rilati | relati |
+
+<!--v-->
+
+### o → u
+
+<!--v-->
+
+| Esperanto | Speranto |
+|-|-|
+| prononci | pronunci |
+| mondo | mundo |
+
+<!--v-->
+
+### u/o/e/i → '
+
+Oni povas prononci "'" kiel /ə/ (ŝvaon). Ŝvao neniam portas la akcenton.
+
+<!--v-->
+
+#### u/o → '
+
+<!--v-->
+
+| Esperanto | Speranto |
+|-|-|
+| artikolo | artiklo = artik'lo |
+| partikulo | partiklo = partik'lo |
+
+<!--v-->
+
+#### e → '
+
+<!--v-->
+
+| Esperanto | Speranto |
+|-|-|
+| tenera | tenra = ten'ra |
+| genro | genro = gen'ro |
+| fingro | fingro = fing'ro |
+| butero | butro = but'ro |
+
+<!--v-->
+
+#### i → '
+
+<!--v-->
+
+| Esperanto | Speranto |
+|-|-|
+| nobla | nobla = nob'la |
+| kombreneble | kompreneble = kompreneb'le |
+
+<!--v-->
+
+### ĝ
+
+<!--v-->
+
+#### ĝ → g
+
+<!--v-->
+
+| Esperanto | Speranto |
+|-|-|
+| ĝenerala | generala |
+
+<!--v-->
+
+#### ĝ → ĵ
+
+<!--v-->
+
+| Esperanto | Speranto |
+|-|-|
+| ĝiri | ĵiri |
+| manĝi | manĵi |
+
+| Esperanto | Speranto |
+|-|-|
+| leĝo | leĵo `?` |
+| reĝo | reĵo `?` |
+
+<!--v-->
+
+#### ĝ-/ĵ- → j-
+
+<!--v-->
+
+| Esperanto | Speranto |
+|-|-|
+| ĝusta | ĵusta → justa |
+| ĵuri | juri |
+
+<!--v-->
+
+#### -ĝ → -bj/-vj
+
+<!--v-->
+
+| Esperanto | Speranto |
+|-|-|
+| neĝo | niĵo → nivja |
+| ruĝa | ruĵa → rubja |
+
+<!--v-->
+
+### es- → s-/eks-
+
+<!--v-->
+
+| Esperanto | Speranto |
+|-|-|
+| esperi | speri |
+| esplori | eksplori |
+
+<!--v-->
+
+### ĉ
+
+<!--v-->
+
+#### ĉ- → c-
+
+<!--v-->
+
+| Esperanto | Speranto |
+|-|-|
+| akĉento | akcento |
+
+<!--v-->
+
+#### ĉ-/ŝ- → k-
+
+<!--v-->
+
+| Esperanto | Speranto |
+|-|-|
+| ĉambro | ŝambro → kamro = kam'ro |
+| ĉeno | ŝeno → kateno |
+| ŝanĝo | ŝanĵo → kambjo |
+
+<!--v-->
+
+### -u → -v
+
+<!--v-->
+
+| Esperanto | Speranto |
+|-|-|
+| evolui | evolvi |
+
+<!--v-->
+
+### -v → -b
+
+<!--v-->
+
+| Esperanto | Speranto |
+|-|-|
+| havi | habi |
+
+<!--v-->
+
+### Evitismoj
+
+<!--v-->
+
+| Esperanto | Speranto |
+|-|-|
+| senco ≠ senso | senso |
+| pordo ≠ porto | porto |
+
+<!--v-->
+
+<!--s-->
+
+# Linguo
+
+Lingvoo havas precipe latinidaj vortojn.
+
+<!--v-->
+
+## Signifaj Vortoj
+
+<!--v-->
+
+| Esperanto | Linguo |
+|-|-|
+| flanko | lato |
+
+<!--v-->
+
+## Prepozicioj
+
+<!--v-->
+
+| Esperanto | Linguo |
+|-|-|
+| pri | de |
+| kun | kon |
+| krom | escepte de |
+| sur | super |
+| apud | al lato de |
+
+<!--v-->
+
+## Konjunkcioj
+
+<!--v-->
+
+| Esperanto | Linguo |
+|-|-|
+| sed | ma |
+| kaj | e |
