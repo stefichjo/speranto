@@ -2339,11 +2339,38 @@ Lingvoo havas precipe latinidaj vortojn.
 
 | Esperanto | Linguo |
 |-|-|
-| pri | de |
+| de | de / di |
+| al | ad / a |
+| en | in / en |
+| | |
+| de la | del |
+| al la | al |
+| en la | nel |
+
+<!--v-->
+
+| Esperanto | Linguo |
+|-|-|
 | kun | kon |
+
+<!--v-->
+
+| Esperanto | Linguo |
+|-|-|
+| pri | de |
+
+<!--v-->
+
+| Esperanto | Linguo |
+|-|-|
 | krom | escepte de |
-| sur | super |
 | apud | al lato de |
+
+<!--v-->
+
+| Esperanto | Linguo |
+|-|-|
+| sur ≠ super | super |
 
 <!--v-->
 
@@ -2355,3 +2382,50 @@ Lingvoo havas precipe latinidaj vortojn.
 |-|-|
 | sed | ma |
 | kaj | e |
+
+<!--v-->
+
+## Tabelvortoj
+
+<!--v-->
+
+| Esperanto | Linguo |
+|-|-|
+| kiu | kju |
+| kio | kjo |
+| kia | kja |
+| kie | kje |
+| kien | kjen / kji |
+
+<!--v-->
+
+| Esperanto | Linguo |
+|-|-|
+| kiam | kjam / ~~kjan~~ |
+| kiom | kjom / ~~kjam~~ |
+| kial | kjal |
+| kiel | kjel / kjem |
+| kies | kjes / kjus |
+
+<!--v-->
+
+| Esperanto | Linguo |
+|-|-|
+| tiu | tju |
+| neniu | nenju |
+| | |
+| iu | unju |
+| ĉiu | omnju |
+| | |
+| ĉi tiu | ce tju |
+| iu ajn | unkju |
+
+<!--v-->
+
+## Pronomoj
+
+<!--v-->
+
+| Esperanto | Linguo |
+|-|-|
+| ŝi | elu |
