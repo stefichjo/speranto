@@ -1739,53 +1739,6 @@ Symbol: S im Kreis (ca. Ⓢ, aber mit kleinerem Kreis)
 
 <!--s-->
 
-## Etimologia Ortografio
-
-<!--v-->
-
-| Esperanto | Speranto |
-|-:|:-|
-| **akvo**   | **aquo** [akvo] |
-| **lingvo** | **linguo** [lingvo] |
-
-<!--v-->
-
-| Esperanto | Speranto |
-|-:|:-|
-| **amiko**  | **amico** [amiko] |
-| **paco**   | **pazo** [paco] |
-
-<!--v-->
-
-| Esperanto | Speranto |
-|-:|:-|
-| **tero**   | **terro** [tero] |
-
-<!--v-->
-
-| Esperanto | Speranto |
-|-:|:-|
-| **rozo**   | **roso** [rozo] |
-| **maso**   | **masso** [maso] |
-
-<!--v-->
-
-| Esperanto | Speranto |
-|-:|:-|
-| **teksto**   | **texto** [teksto] |
-| **ekzemplo** | **exemplo** [ekzemplo] |
-
-<!--v-->
-
-| Esperanto | Speranto |
-|-:|:-|
-| **himno** | **hymno** [himno] |
-| **temo**  | **themo** [temo] |
-
-<!--v-->
-
-
-
 # Esperanto
 
 Esperanto baziĝas precipe sur latinidaj lingvoj en simpligita formo. Aldone, ĝi havas multege da nov-latinidismoj, nov-ĝermanismoj kaj kelke da nov-slavismoj, grekismoj kaj latinismoj. Esperanto uzas nur fonetikan alfabeton kun slav-ĝermana prononco.
@@ -1796,20 +1749,6 @@ Nov-slavaj formoj:
 
 * **kolbaso**
 * **nepre**
-
-<!--v-->
-
-Grekismoj:
-
-* **kaj**
-* **krom**
-
-<!--v-->
-
-Latinismoj:
-
-* **apud**
-* **sed**
 
 <!--s-->
 
@@ -1823,12 +1762,6 @@ Speranto havas etimologian ortografion kaj slav-ĝermanan prononcon:
 * **ekzameno** → **exameno** [*ekzameno*]
 * **lingvo** → **linguo** [*lingvo*]
 * **ŝajni** → **shĩni** [*ŝajni*]
-
-<!--v-->
-
-Speranto ne evitas homonimojn.
-
-* **ĉambro** / **kamerao** → **camero** [*kamero*]
 
 <!--v-->
 
@@ -1848,20 +1781,8 @@ Speranto evitas nov-naciismojn, t.e. ĝi evitas specife francajn, germanajn ktp.
 
 <!--v-->
 
-* **birdo** → **fuglo** [=]
-* **gliti** → **glĩdi** [*glajdi*]
-* **ŝtono** → **stẽno** [*stejno*]
-* **tago** → **dago** [=]
-* **trinki** → **drinki** [=]
-* **vorto** → **wordo** [*vordo*]
-
-<!--v-->
-
 ...ankaŭ se tio povas kaŭzi homonimojn.
 
-* **ĝusta** → **justa** [=]
-* **ĵuri** → **juri** [=]
-* **pordo** → **porto** [=]
 * **vojo** → **vio** [=]
 
 <!-- TODO * **ĝenerala** → **generala** [=] generalumo? -->
@@ -1908,42 +1829,7 @@ Latinaj verboj (kies infinitivo finiĝas ja -ere aŭ -ire), kies radiko finiĝas
 
 <!--v-->
 
-...dum **g** [*g*] restas senŝanĝa.
-
-* **legi** → = [=]
-* **regi** → = [=]
-
-<!--v-->
-
-Latinaj adjektivoj kaj substantivoj (kies ablativo finiĝas je -e aŭ -i), kies radiko finiĝas je -c aŭ -g, finiĝas je **z**/**c** [*c*] aŭ **ĝ** [*ĵ*] en Speranto.
-
-* **leĝo** → = [*leĵo*]
-* **reĝo** → = [*reĵo*]
-
-<!--v-->
-
-Dum en Esperanto, franc-devena **ç**/**çh** ofte prononciĝas [*c*]/[*ĉ*], ĝi prononciĝas [*s*]/[*ŝ*] en Speranto.
-
-* **ĉagreni** → **çhagreni** [*ŝagreni*]
-* **nuanco** → **nuanço** [*nuanso*]
-* **ŝanco** → **çhanço** [*ŝanso*]
-
-<!--v-->
-
-Dum en Esperanto, **ĝ** prononciĝas [*ĝ*], ĝi prononciĝas [*ĵ*] en Speranto. En etimologia skribo, uziĝas **ĝ** se la originala nacilingva ortografio same uzas **g**.
-
-* **genro** → **ĝenro** [*ĵenro*]
-* **ĝeni** → = [*ĵeni*]
-* **ĝiri** → = [*ĵiri*]
-* **manĝi** → = [*manĵi*]
-* **naĝi** → = [*naĵi*]
-* **ŝanĝi** → **çhanĝi** [*ŝanĵi*]
-
-<!-- TODO * **ĉemizo** → **çhemiso** [*ŝemizo*] camiso -->
-
 <!-- TODO ĵunglo < Hindi (jangal) -->
-
-<!-- TODO ligi legumo -->
 
 <!--v-->
 
@@ -1951,51 +1837,6 @@ Speranto uzas la finaĵon **-u(j)** ankaŭ por **ambaŭ**. Anstataŭ la numeralo
 
 * **ambaŭ** → **ambui** [*ambuj*] / **ambau** [*ambaŭ*]
 * **unu** → **unu** [=] / **un** [=]
-
-<!--v-->
-
-## Tabelvortoj
-
-| Esperanto | Speranto |
-|-|-|
-| **kio**  | **qŭio** = **kio** [*kio*]  |
-| **ĉio**  | **çhio** = **ĉio** [*ŝio*]  |
-
-<!-- TODO ŝi? -->
-
-<!--s-->
-
-# Linguo
-
-<!--v-->
-
-Foresto de ĝermanaj vortoj:
-
-* **dago** [=] → **dio** [=]
-
-<!--v-->
-
-Foresto de klasikaj (latinaj/grekaj) vortoj:
-
-* **kai** [*kaj*] → **e** [=]
-* **sed** [=] → **ma** [=] `???`
-
-<!--v-->
-
-Personaj pronomoj finiĝas je **-u**.
-
-* **mi** [=] → **mu** [=]
-
-<!--v-->
-
-## Tabelvortoj
-
-<!-- kijes kiŭes quios -->
-
-| Speranto | Linguo |
-|-|-|
-| **kies** | **qŭiŭis** [*kiŭis*] |
-| **kien** | **qŭii** [*kii*] |
 
 <!--s-->
 
@@ -2034,27 +1875,6 @@ Personaj pronomoj finiĝas je **-u**.
 * **Mu vidas Carlan.** → **Mi vidan (a) Carla.**
 * **Carlan mu vidas.** → **A Carla mi vidan.**
 
-<!--v-->
-
-## Tabelvortoj
-
-* ([*kies*] →) **qŭiŭis** [*kiŭis*] → **qŭius** [*kius*]
-* ([*kien*] →) **qŭii** [*kii*] → **qŭu** [*kŭu*]
-* ([*kiam*] →) **qŭiam** [*kiam*] → **quam** [*kŭam*]
-* ([*kiom*] →) **qŭiåm** [*kiom*] → **quäm** [*kŭem*]
-* ([*kial*] →) **qŭiär** [*kier*] → **quår** [*kŭor*]
-* ([*kiel*] →) **qŭiem** [*kiem*] → **quom** [*kŭom*]
-
-<!--s-->
-
-# Linguo
-
-<!-- TODO
-ĉu muss eigentlich ĉi sein.
-ĉi könnte "ĉu" sein.
-Dieses Thema sollte behandelt werden, wenn der i/u-Austausch (e/o-Austausch) passiert.
--->
-
 <!--s-->
 
 # 2024-03
@@ -2081,6 +1901,7 @@ Speranto havas pli neŭtralan slav-ĝermanan prononcon. Ĝi havas naciismojn nur
 
 | Esperanto | Speranto |
 |-|-|
+| ĉu | ĉi |
 | poŝto | poĉto |
 
 <!--v-->
@@ -2091,10 +1912,11 @@ Speranto havas pli neŭtralan slav-ĝermanan prononcon. Ĝi havas naciismojn nur
 
 | Esperanto | Speranto |
 |-|-|
-| vorto | vordo |
+| birdo | fuglo |
 | gliti | glajdi |
 | ŝtato | stato |
 | ŝtono | stejno |
+| vorto | vordo |
 
 <!--v-->
 
@@ -2131,19 +1953,23 @@ Speranto havas pli neŭtralan slav-ĝermanan prononcon. Ĝi havas naciismojn nur
 
 | Esperanto | Speranto |
 |-|-|
+| ĉe | ŝe <small>(franca funkci-vorto)</small> |
 | ŝanco | ŝanso |
 
-### i → e
+<!--v-->
+
+#### i → e
 
 <!--v-->
 
 | Esperanto | Speranto |
 |-|-|
+| ĉi | ĉe <small>(itala funkci-vorto)</small> |
 | rilati | relati |
 
 <!--v-->
 
-### o → u
+#### o → u
 
 <!--v-->
 
@@ -2151,6 +1977,94 @@ Speranto havas pli neŭtralan slav-ĝermanan prononcon. Ĝi havas naciismojn nur
 |-|-|
 | prononci | pronunci |
 | mondo | mundo |
+
+<!--v-->
+
+#### ĝ
+
+<!--v-->
+
+##### ĝ → g
+
+<!--v-->
+
+| Esperanto | Speranto |
+|-|-|
+| ĝenerala | generala |
+
+<!--v-->
+
+##### ĝ → ĵ
+
+<!--v-->
+
+| Esperanto | Speranto |
+|-|-|
+| ĝiri | ĵiri |
+| manĝi | manĵi |
+
+<!-- | Esperanto | Speranto |
+|-|-|
+| leĝo | leĵo `?` |
+| reĝo | reĵo `?` | -->
+
+<!--v-->
+
+##### ĝ-/ĵ- → j-
+
+<!--v-->
+
+| Esperanto | Speranto |
+|-|-|
+| ĝusta | ĵusta → justa |
+| ĵuri | juri |
+
+<!--v-->
+
+##### -ĝ → -bj/-vj
+
+<!--v-->
+
+| Esperanto | Speranto |
+|-|-|
+| neĝo | niĵo → nivja |
+| ruĝa | ruĵa → rubja `?` |
+
+<!--v-->
+
+#### es- → s-/eks-
+
+<!--v-->
+
+| Esperanto | Speranto |
+|-|-|
+| esperi | speri |
+| esplori | eksplori |
+
+<!--v-->
+
+#### ĉ
+
+<!--v-->
+
+##### ĉ- → c-
+
+<!--v-->
+
+| Esperanto | Speranto |
+|-|-|
+| akĉento | akcento |
+
+<!--v-->
+
+##### ĉ-/ŝ- → k-
+
+<!--v-->
+
+| Esperanto | Speranto |
+|-|-|
+| ĉeno | ŝeno → kateno |
+| ŝanĝo | ŝanĵo → kambjo |
 
 <!--v-->
 
@@ -2171,116 +2085,29 @@ Oni povas prononci "'" kiel /ə/ (ŝvaon). Ŝvao neniam portas la akcenton.
 
 <!--v-->
 
-#### e → '
+#### -er → -'r
 
 <!--v-->
 
 | Esperanto | Speranto |
 |-|-|
-| tenera | tenra = ten'ra |
-| genro | genro = gen'ro |
-| fingro | fingro = fing'ro |
 | butero | butro = but'ro |
+| ĉambro | ŝambro → kamro = kam'ro |
+| fingro | fingro = fing'ro |
+| genro | genro = gen'ro |
+| tenera | tenra = ten'ra |
 
 <!--v-->
 
-#### i → '
+#### -il → 'l
 
 <!--v-->
 
 | Esperanto | Speranto |
 |-|-|
+| facila | fac'la |
 | nobla | nobla = nob'la |
 | kombreneble | kompreneble = kompreneb'le |
-
-<!--v-->
-
-### ĝ
-
-<!--v-->
-
-#### ĝ → g
-
-<!--v-->
-
-| Esperanto | Speranto |
-|-|-|
-| ĝenerala | generala |
-
-<!--v-->
-
-#### ĝ → ĵ
-
-<!--v-->
-
-| Esperanto | Speranto |
-|-|-|
-| ĝiri | ĵiri |
-| manĝi | manĵi |
-
-| Esperanto | Speranto |
-|-|-|
-| leĝo | leĵo `?` |
-| reĝo | reĵo `?` |
-
-<!--v-->
-
-#### ĝ-/ĵ- → j-
-
-<!--v-->
-
-| Esperanto | Speranto |
-|-|-|
-| ĝusta | ĵusta → justa |
-| ĵuri | juri |
-
-<!--v-->
-
-#### -ĝ → -bj/-vj
-
-<!--v-->
-
-| Esperanto | Speranto |
-|-|-|
-| neĝo | niĵo → nivja |
-| ruĝa | ruĵa → rubja |
-
-<!--v-->
-
-### es- → s-/eks-
-
-<!--v-->
-
-| Esperanto | Speranto |
-|-|-|
-| esperi | speri |
-| esplori | eksplori |
-
-<!--v-->
-
-### ĉ
-
-<!--v-->
-
-#### ĉ- → c-
-
-<!--v-->
-
-| Esperanto | Speranto |
-|-|-|
-| akĉento | akcento |
-
-<!--v-->
-
-#### ĉ-/ŝ- → k-
-
-<!--v-->
-
-| Esperanto | Speranto |
-|-|-|
-| ĉambro | ŝambro → kamro = kam'ro |
-| ĉeno | ŝeno → kateno |
-| ŝanĝo | ŝanĵo → kambjo |
 
 <!--v-->
 
@@ -2313,11 +2140,11 @@ Oni povas prononci "'" kiel /ə/ (ŝvaon). Ŝvao neniam portas la akcenton.
 | senco ≠ senso | senso |
 | pordo ≠ porto | porto |
 
-<!--v-->
-
 <!--s-->
 
-# Linguo
+# Lingvoo
+
+<!--v-->
 
 Lingvoo havas precipe latinidaj vortojn.
 
@@ -2327,8 +2154,14 @@ Lingvoo havas precipe latinidaj vortojn.
 
 <!--v-->
 
-| Esperanto | Linguo |
+### Ĝermanaj Vortoj
+
+<!--v-->
+
+| Esperanto | Lingvoo |
 |-|-|
+| tago | dio <small>(Speranto: dago)</small> |
+| trinki | bibi <small>(Speranto: drinki)</small> |
 | flanko | lato |
 
 <!--v-->
@@ -2337,7 +2170,7 @@ Lingvoo havas precipe latinidaj vortojn.
 
 <!--v-->
 
-| Esperanto | Linguo |
+| Esperanto | Lingvoo |
 |-|-|
 | de | de / di |
 | al | ad / a |
@@ -2349,26 +2182,26 @@ Lingvoo havas precipe latinidaj vortojn.
 
 <!--v-->
 
-| Esperanto | Linguo |
+| Esperanto | Lingvoo |
 |-|-|
 | kun | kon |
 
 <!--v-->
 
-| Esperanto | Linguo |
+| Esperanto | Lingvoo |
 |-|-|
 | pri | de |
 
 <!--v-->
 
-| Esperanto | Linguo |
+| Esperanto | Lingvoo |
 |-|-|
 | krom | escepte de |
 | apud | al lato de |
 
 <!--v-->
 
-| Esperanto | Linguo |
+| Esperanto | Lingvoo |
 |-|-|
 | sur ≠ super | super |
 
@@ -2378,7 +2211,7 @@ Lingvoo havas precipe latinidaj vortojn.
 
 <!--v-->
 
-| Esperanto | Linguo |
+| Esperanto | Lingvoo |
 |-|-|
 | sed | ma |
 | kaj | e |
@@ -2389,27 +2222,27 @@ Lingvoo havas precipe latinidaj vortojn.
 
 <!--v-->
 
-| Esperanto | Linguo |
+| Esperanto | Lingvoo |
 |-|-|
 | kiu | kju |
 | kio | kjo |
 | kia | kja |
 | kie | kje |
-| kien | kjen / kji |
+| kien | kjen <small>(kji)</small> |
 
 <!--v-->
 
-| Esperanto | Linguo |
+| Esperanto | Lingvoo |
 |-|-|
-| kiam | kjam / ~~kjan~~ |
-| kiom | kjom / ~~kjam~~ |
+| kiam | kjam <small>(~~kjan~~)</small> |
+| kiom | kjom <small>(~~kjam~~)</small> |
 | kial | kjal |
-| kiel | kjel / kjem |
-| kies | kjes / kjus |
+| kiel | kjel <small>(kjem)</small> |
+| kies | kjes <small>(kjus)</small> |
 
 <!--v-->
 
-| Esperanto | Linguo |
+| Esperanto | Lingvoo |
 |-|-|
 | tiu | tju |
 | neniu | nenju |
@@ -2426,6 +2259,116 @@ Lingvoo havas precipe latinidaj vortojn.
 
 <!--v-->
 
-| Esperanto | Linguo |
+| Esperanto | Lingvoo |
 |-|-|
 | ŝi | elu |
+| li | olu <small>(Speranto: hi)</small> |
+| ri | ulu |
+| li | lu |
+| | |
+| ili | ilu |
+| | |
+| si | su |
+
+<!--v-->
+
+| Esperanto | Lingvoo |
+|-|-|
+| mi | mu |
+| ci | tu <small>(Speranto: ti)</small> |
+| | |
+| ni | nu |
+| vi | vu |
+
+<!--s-->
+
+# Linguo
+
+<!--v-->
+
+Linguo *[lingŭo]* havas novlatinidajn ortografion.
+
+<!--v-->
+
+## c
+
+<!--v-->
+
+| Esperanto | Linguo |
+|-|-|
+| amiko | **amico** *[amiko]* |
+| amike | **amiqŭe** *[amike]* |
+| | |
+| paco | **pazo** *[paso]* |
+| pace | **pace** *[pase]* |
+| | |
+| akvo | **aquo** *[akŭo]* |
+
+<!--v-->
+
+## g
+
+<!--v-->
+
+| Esperanto | Linguo |
+|-|-|
+| ligo | **ligo** *[ligo]* |
+| ligi | **ligŭi** *[ligi]* |
+| | |
+| leĝo | **lejo** *[leĵo]* |
+| leĝe | **lege** *[leĵe]* |
+| | |
+| lingvo | **linguo** *[lingŭo]* |
+
+<!--v-->
+
+`ĉio chio (itala)`
+
+<!--v-->
+
+## Duoblaj Konsonantoj
+
+<!--v-->
+
+| Esperanto | Linguo |
+|-|-|
+| tero | **terro** *[tero]* |
+| | |
+| ili | **illu** *[ilu]* |
+
+<!--v-->
+
+## s, ss
+
+<!--v-->
+
+| Esperanto | Linguo |
+|-|-|
+| rozo | **roso** *[rozo]* |
+| maso | **masso** *[maso]* |
+
+<!--v-->
+
+## x
+
+<!--v-->
+
+| Esperanto | Linguo |
+|-|-|
+| teksto | **texto** *[teksto]* |
+| ekzemplo | **exemplo** *[ekzemplo]* |
+
+<!--v-->
+
+## y & ph, th, ch
+
+<!--v-->
+
+| Esperanto | Speranto |
+|-|-|
+| himno | **hymno** *[himno]* |
+| | |
+| fazo | **phaso** *[fazo]* |
+| temo | **themo** *[temo]* |
+| eĥo | **echo** *[eko]* |
+
