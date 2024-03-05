@@ -2028,7 +2028,7 @@ Speranto havas pli neŭtralan slav-ĝermanan prononcon. Ĝi havas naciismojn nur
 | Esperanto | Speranto |
 |-|-|
 | neĝo | niĵo → nivja |
-| ruĝa | ruĵa → rubja `?` |
+| ruĝa | ruĵa → rubja |
 
 <!--v-->
 
@@ -2302,6 +2302,8 @@ Linguo *[lingŭo]* havas etimologian ortografion kun latinida prononco.
 | paco | **pazo** *[paso]* <small>tra bruo: *[paco]*</small> |
 | pace | **pace** *[pase]* <small>tra bruo: *[pace]*</small> |
 | | |
+| teraso | **terraço** *[teraso]* <small>tra bruo: *[teraco]*</small> |
+| | |
 | akvo | **aquo** *[akŭo]* <small>tra bruo: *[aku-o]*</small> |
 
 <!--v-->
@@ -2318,7 +2320,55 @@ Linguo *[lingŭo]* havas etimologian ortografion kun latinida prononco.
 | leĝo | **lejo** *[leĵo]* <small>tra bruo: *[ledzo]*</small> |
 | leĝe | **lege** *[leĵe]* <small>tra bruo: *[ledze]*</small> |
 | | |
+| plaĝo | **plajo** <small>**plagĭo**</small> *[plaĵo]* <small>tra bruo: *[pladzo]*</small> |
+| | |
 | lingvo | **linguo** *[lingŭo]* <small>tra bruo: *[lingu-o]*</small> |
+
+<!--v-->
+
+## t
+
+<!--v-->
+
+| Esperanto | Linguo |
+|-|-|
+| spaco | **spatĭo** *[spasjo]* <small>tra bruo: *[spaŧi-o]*</small> |
+| | |
+| placo | **plaço** <small>**platĕo**</small> *[plaso]* <small>tra bruo: *[plaŧo]*</small> |
+
+<!--v-->
+
+## d
+
+<!--v-->
+
+| Esperanto | Linguo |
+|-|-|
+| seĝo | **sedĭo** *[seĵo]* <small>tra bruo: *[seđi-o]*</small> |
+
+<!--v-->
+
+## b/v
+
+<!--v-->
+
+| Esperanto | Linguo |
+|-|-|
+| ruĝa | **ruja** <small>**rubĕa**</small> *[ruĵa]* <small>tra bruo: *[ruĝa]*</small> |
+| | |
+| neĝo | **nijo** <small>**nivĕo**</small> *[niĵo]* <small>tra bruo: *[niĝo]*</small> |
+
+<!--v-->
+
+## j/i
+
+<!--v-->
+
+| Esperanto | Linguo |
+|-|-|
+| majo | **majo** <small>**maĭo**</small> *[maĵo]* <small>tra bruo: *[mai-o]*</small> |
+| | |
+| jam | **jam** *[ĵam]* |
 
 <!--v-->
 
