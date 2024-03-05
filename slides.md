@@ -2286,7 +2286,7 @@ Lingvoo havas precipe latinidaj vortojn.
 
 <!--v-->
 
-Linguo *[lingŭo]* havas novlatinidajn ortografion.
+Linguo *[lingŭo]* havas etimologian ortografion kun latinida prononco.
 
 <!--v-->
 
@@ -2299,10 +2299,10 @@ Linguo *[lingŭo]* havas novlatinidajn ortografion.
 | amiko | **amico** *[amiko]* |
 | amike | **amiqŭe** *[amike]* |
 | | |
-| paco | **pazo** *[paso]* |
-| pace | **pace** *[pase]* |
+| paco | **pazo** *[paso]* <small>tra bruo: *[paco]*</small> |
+| pace | **pace** *[pase]* <small>tra bruo: *[pace]*</small> |
 | | |
-| akvo | **aquo** *[akŭo]* |
+| akvo | **aquo** *[akŭo]* <small>tra bruo: *[aku-o]*</small> |
 
 <!--v-->
 
@@ -2315,10 +2315,10 @@ Linguo *[lingŭo]* havas novlatinidajn ortografion.
 | ligo | **ligo** *[ligo]* |
 | ligi | **ligŭi** *[ligi]* |
 | | |
-| leĝo | **lejo** *[leĵo]* |
-| leĝe | **lege** *[leĵe]* |
+| leĝo | **lejo** *[leĵo]* <small>tra bruo: *[ledzo]*</small> |
+| leĝe | **lege** *[leĵe]* <small>tra bruo: *[ledze]*</small> |
 | | |
-| lingvo | **linguo** *[lingŭo]* |
+| lingvo | **linguo** *[lingŭo]* <small>tra bruo: *[lingu-o]*</small> |
 
 <!--v-->
 
@@ -2338,14 +2338,14 @@ Linguo *[lingŭo]* havas novlatinidajn ortografion.
 
 <!--v-->
 
-## s, ss
+## ss, s
 
 <!--v-->
 
 | Esperanto | Linguo |
 |-|-|
-| rozo | **roso** *[rozo]* |
 | maso | **masso** *[maso]* |
+| rozo | **roso** *[rozo]* |
 
 <!--v-->
 
@@ -2355,8 +2355,8 @@ Linguo *[lingŭo]* havas novlatinidajn ortografion.
 
 | Esperanto | Linguo |
 |-|-|
-| teksto | **texto** *[teksto]* |
-| ekzemplo | **exemplo** *[ekzemplo]* |
+| teksto | **texto** *[testo]* <small>tra bruo: *[teksto]*</small> |
+| ekzemplo | **exemplo** *[ezemplo]* <small>tra bruo: *[egzemplo]*</small> |
 
 <!--v-->
 
@@ -2372,3 +2372,5 @@ Linguo *[lingŭo]* havas novlatinidajn ortografion.
 | temo | **themo** *[temo]* |
 | eĥo | **echo** *[eko]* |
 
+<!-- <small>tra bruo: *[]*</small> -->
+<!-- ŧđ -->
