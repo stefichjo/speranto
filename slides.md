@@ -1879,9 +1879,8 @@ Symbol: S im Kreis (ca. Ⓢ, aber mit kleinerem Kreis)
 
 | Esperanto | Speranto |
 |-|-|
-| ĉe | ŝe <small>(franca funkci-vorto)</small> |
-| hobio | hobio |
-| ĵurnalo | ĵurnalo |
+| ĉe | ŝe |
+| formaĝo | fromaĵo |
 | ŝanco | ŝanso |
 
 <!--v-->
@@ -1892,7 +1891,7 @@ Symbol: S im Kreis (ca. Ⓢ, aber mit kleinerem Kreis)
 
 | Esperanto | Speranto |
 |-|-|
-| ĉi | ĉe <small>(itala funkci-vorto)</small> |
+| ĉi | ĉe |
 | rilati | relati |
 
 <!--v-->
@@ -1919,7 +1918,7 @@ Symbol: S im Kreis (ca. Ⓢ, aber mit kleinerem Kreis)
 
 <!--v-->
 
-### k- → c-
+### k → c
 
 <!--v-->
 
@@ -1929,7 +1928,7 @@ Symbol: S im Kreis (ca. Ⓢ, aber mit kleinerem Kreis)
 
 <!--v-->
 
-### ĉ- → c-
+### ĉ → c
 
 <!--v-->
 
@@ -1941,7 +1940,7 @@ Symbol: S im Kreis (ca. Ⓢ, aber mit kleinerem Kreis)
 
 <!--v-->
 
-### ĉ-/ŝ- → k-
+### ĉ/ŝ → k
 
 <!--v-->
 
@@ -1952,20 +1951,9 @@ Symbol: S im Kreis (ca. Ⓢ, aber mit kleinerem Kreis)
 
 <!--v-->
 
-### u/o/e/i → '
+### e/i/o/u → '
 
 Oni povas prononci "'" kiel /ə/ (ŝvaon). Ŝvao neniam portas la akcenton.
-
-<!--v-->
-
-#### u/o → '
-
-<!--v-->
-
-| Esperanto | Speranto |
-|-|-|
-| artikolo ≠ artiklo | artik'lo |
-| partikulo ≠ partiklo | partik'lo |
 
 <!--v-->
 
@@ -1993,6 +1981,17 @@ Oni povas prononci "'" kiel /ə/ (ŝvaon). Ŝvao neniam portas la akcenton.
 | facila | fac'la |
 | kombreneble | kompreneb'le |
 | nobla | nob'la |
+
+<!--v-->
+
+#### ol/ul → 'l
+
+<!--v-->
+
+| Esperanto | Speranto |
+|-|-|
+| artikolo ≠ artiklo | artiklo <small>artik'lo</small> |
+| partikulo ≠ partiklo | partiklo <small>partik'lo</small> |
 
 <!--v-->
 
@@ -2052,9 +2051,9 @@ Oni povas prononci "'" kiel /ə/ (ŝvaon). Ŝvao neniam portas la akcenton.
 | Esperanto | Speranto |
 |-|-|
 | ambaŭ | ambuj |
-| unu (= iu certa) | unu`*` |
+| unu | unu`*` |
 
-<small>`*` Kiel numeralo uziĝas **un**.</small>
+<small>`*` T.e. en la senco de "iu certa". Kiel numeralo uziĝas **un**.</small>
 
 <!--s-->
 
@@ -2291,7 +2290,7 @@ Multajn vortojn oni povas skribi en eĉ pli etimologia stilo, kaj oni povas uzi 
 |-|-|
 | majo | **maio** *[majo]* |
 | | |
-| jam | **jam** *[ĵam]* |
+| jam | **jam** *[ĵam]* <small>*[jam]*</small> |
 
 <!--v-->
 
@@ -2305,18 +2304,27 @@ Multajn vortojn oni povas skribi en eĉ pli etimologia stilo, kaj oni povas uzi 
 
 <!--v-->
 
-## ĕ/ĭ/ŭ
-*inter konsonantoj*
+## ĭc
 
 <!--v-->
 
 | Esperanto | Linguo |
 |-|-|
-| genro | **genĕro** *[ĵen'ro]* <small>*[dzene-ro]*</small> |
+| klasika | **classĭca** *[klasi-ka]* |
+
+<!--v-->
+
+## ĕr/ĭl/ŭl
+
+<!--v-->
+
+| Esperanto | Linguo |
+|-|-|
+| genro | **genĕro** *[ĵenro]* <small>*[dzene-ro]*</small> |
 | | |
-| probabla | **probabĭla** *[probab'la]* <small>*[probabi-la]*</small> |
+| probabla | **probabĭla** *[probabla]* <small>*[probabi-la]*</small> |
 | | |
-| partiklo | **particŭlo** *[partik'lo]* <small>*[partiku-lo]*</small> |
+| partiklo | **particŭlo** *[partiklo]* <small>*[partiku-lo]*</small> |
 
 <!--v-->
 
@@ -2501,7 +2509,7 @@ Multajn vortojn oni povas skribi en eĉ pli etimologia stilo, kaj oni povas uzi 
 
 <!--v-->
 
-| Esperanto | Lingue |
+| Esperanto | Lingua |
 |-|-|
 | mano | **mano** |
 | pano | **pane** |
@@ -2515,7 +2523,7 @@ Multajn vortojn oni povas skribi en eĉ pli etimologia stilo, kaj oni povas uzi 
 
 <!--v-->
 
-| Esperanto | Lingue |
+| Esperanto | Lingua |
 |-|-|
 | bona | **bona** |
 | fidela | **fidele** |
@@ -2529,13 +2537,13 @@ Multajn vortojn oni povas skribi en eĉ pli etimologia stilo, kaj oni povas uzi 
 
 <!--v-->
 
-| Esperanto | Lingue |
+| Esperanto | Lingua |
 |-|-|
-| alte | **altamente** <small>**alto**</small> |
-| sole | **solamente** <small>**solo**</small> |
+| sole | **solamente** |
 
 `TODO: facilemente/facilmente`
 `TODO: bene`
+`TODO: solo`
 
 <!--v-->
 
@@ -2547,28 +2555,149 @@ Multajn vortojn oni povas skribi en eĉ pli etimologia stilo, kaj oni povas uzi 
 
 <!--v-->
 
-| Esperanto | Lingue |
+| Esperanto | Lingua |
 |-|-|
-| ami | **amá** *[ama']* |
-| vidi | **vidé** *[vide']* |
-| veni | **vení** *[veni']* |
+| ami | **amare** |
+| vidi | **videre** |
+| veni | **venire** |
 
 `TODO: Kial ne kun -re? <small>?`
 
 <!--v-->
 
-### Konjugacio
+### Imperfekto
 
 <!--v-->
 
-| Esperanto | Lingue |
+#### Prezenco (Indikativo)
+
+<!--v-->
+
+| Esperanto | Lingua |
 |-|-|
-| amas, amis, amos | **ama**, **amaba**, **amaré** |
-| vidas, vidis, vidos | **vide**, **videba**, **videré** |
-| venas, venis, venos | **veni**, **veniba**, **veniré** |
+| amas, -is, -os | **ama**, **amaba**, **amará** |
+
+<!--s-->
+
+# Lingua Classĭca
 
 <!--v-->
 
+## Verboj
+
+<!--v-->
+
+| Esperanto | Lingua |
+|-|-|
+| mi | **-o**`*` <small>**-m**</small> |
+| ci | **-s** |
+| ri/ĝi | **-** <small>**-t**</small> |
+| | |
+| ni | **-mo** <small>**-mus**</small> |
+| vi | **-te** <small>**-tis**</small> |
+| ili | **-n** <small>**-nt**</small> |
+
+<small>`*` **-a** kaj **-ĕ** eliziiĝas antaŭ **-o**: **amao** → **amo**; **legĕo** → **lego**</small>
+
+<!--v-->
+
+### Imperfekto
+
+<!--v-->
+
+#### Prezenco (Indikativo)
+
+<!--v-->
+
+| Esperanto | Lingua |
+|-|-|
+| mi amas | **amo** <small>**amam**</small> |
+| ci amas | **amas** |
+| ri/ĝi amas | **ama** <small>**amat**</small> |
+| | |
+| ni amas | **amamo** <small>**amamus**</small> |
+| vi amas | **amate** <small>**amatis**</small> |
+| ili amas | **aman** <small>**amant**</small> |
+
+<!--v-->
+
+#### Prezenco (Konjunktivo)
+
+<!--v-->
+
+| Esperanto | Lingua |
+|-|-|
+| (ke) mi amas | **amem** |
+| (ke) ci amas | **ames** |
+| (ke) ri/ĝi amas | **amet** |
+| | |
+| (ke) ni amas | **amemo** <small>**amemus**</small> |
+| (ke) vi amas | **amete** <small>**ametis**</small> |
+| (ke) ili amas | **amen** <small>**ament**</small> |
+
+<!--v-->
+
+#### Preterito (Indikativo)
+
+<!--v-->
+
+| Esperanto | Lingua |
+|-|-|
+| mi amis | **amabo** <small>**amabam**</small> |
+| ci amis | **amabas** |
+| ri/ĝi amis | **amaba** <small>**amabat**</small> |
+| | |
+| ni amis | **amabamo** <small>**amabamus**</small> |
+| vi amis | **amabate** <small>**amabatis**</small> |
+| ili amis | **amaban** <small>**amabant**</small> |
+
+<!--v-->
+
+#### Preterito (Konjunktivo)
+
+<!--v-->
+
+| Esperanto | Lingua |
+|-|-|
+| (ke) mi amis | **amarem** |
+| (ke) ci amis | **amares** |
+| (ke) ri/ĝi amis | **amaret** |
+| | |
+| (ke) ni amis | **amaremo** <small>**amaremus**</small> |
+| (ke) vi amis | **amarete** <small>**amaretis**</small> |
+| (ke) ili amis | **amaren** <small>**amarent**</small> |
+
+<!--v-->
+
+#### Futuro (Indikativo)
+
+<!--v-->
+
+| Esperanto | Lingua |
+|-|-|
+| mi amos | **amaró** <small>**amarabeo**</small> |
+| ci amos | **amarás** <small>**amarabes**</small> |
+| ri/ĝi amos | **amará** <small>**amarabet**</small> |
+| | |
+| ni amos | **amaremo** <small>**amarabemus**</small> |
+| vi amos | **amarete** <small>**amarabetis**</small> |
+| ili amos | **amaren** <small>**amarabent**</small> |
+
+<!--v-->
+
+#### Futuro (Konjunktivo)
+
+<!--v-->
+
+| Esperanto | Lingua |
+|-|-|
+| (ke) mi amos | **amaríam** <small>**amaribam**</small> |
+| (ke) ci amos | **amarías** <small>**amaribas**</small> |
+| (ke) ri/ĝi amos | **amaría** <small>**amaribat**</small> |
+| | |
+| (ke) ni amos | **amaríamo** <small>**amaribamus**</small> |
+| (ke) vi amos | **amaríate** <small>**amaribatis**</small> |
+| (ke) ili amos | **amarían** <small>**amaribant**</small> |
 
 <!-- | Esperanto | Speranto |
 |-|-|
