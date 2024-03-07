@@ -1741,6 +1741,13 @@ Symbol: S im Kreis (ca. Ⓢ, aber mit kleinerem Kreis)
 
 # 2024-03
 
+<!-- TODO
+| Esperanto | Speranto |
+|-|-|
+| leĝo | leĵo `?` |
+| reĝo | reĵo `?` |
+-->
+
 <!--s-->
 
 # Esperanto
@@ -2034,6 +2041,7 @@ Oni povas prononci "'" kiel /ə/ (ŝvaon). Ŝvao neniam portas la akcenton.
 | Esperanto | Speranto |
 |-|-|
 | diri | dici |
+| fari | faci |
 | iri | vadi |
 | stari | sti`*` |
 
@@ -2090,10 +2098,6 @@ Oni povas prononci "'" kiel /ə/ (ŝvaon). Ŝvao neniam portas la akcenton.
 | de | de / di`*` |
 | al | ad / a`*` |
 | en | in / en`*` |
-| | |
-| de la | del |
-| al la | al |
-| en la | nel |
 
 <small>`*` La prepozicioj **di**, **a** kaj **en** estas specife por *genitivo*, *dativo* kaj *instrumentalo*. Oni povas uzi anstataŭe la pli ĝeneralajn **de**, **ad** kaj **in**, kiuj ankaŭ estas por *ablativo*, *alativo* kaj *lokativo*.</small>
 
@@ -2379,6 +2383,18 @@ Multajn vortojn oni povas skribi en eĉ pli etimologia stilo, kaj oni povas uzi 
 
 <!--v-->
 
+## Prepozicioj
+
+<!--v-->
+
+| Esperanto | Linguo |
+|-|-|
+| de la | **del** |
+| al la | **al** |
+| en la | **nel** |
+
+<!--v-->
+
 ## Tabelvortoj
 
 <!--v-->
@@ -2553,29 +2569,130 @@ Multajn vortojn oni povas skribi en eĉ pli etimologia stilo, kaj oni povas uzi 
 
 ### Infinitivo
 
+La infinitivo estas egala al la ke-is-formo.
+
 <!--v-->
 
 | Esperanto | Lingua |
 |-|-|
 | ami | **amare** |
 | vidi | **videre** |
-| veni | **venire** |
-
-`TODO: Kial ne kun -re? <small>?`
-
-<!--v-->
-
-### Imperfekto
+| aŭdi | **audire** |
+| legi | **legĕre** |
+| kapti | **capĭre** |
 
 <!--v-->
 
-#### Prezenco (Indikativo)
+### Konjugacio
+
+<!--v-->
+
+#### Imperfekto
 
 <!--v-->
 
 | Esperanto | Lingua |
 |-|-|
-| amas, -is, -os | **ama**, **amaba**, **amará** |
+| -as      | **-**     |
+| (ke) -as | **-a**`*` |
+| | |
+| -is      | **-ba**   |
+| (ke) -is | **-re**   |
+| | |
+| -os      | **-rá** <small>**-rabe**</small>   |
+| (ke) -os | **-ría** <small>**-riba**</small>  |
+
+<small>`*` La **ĕ** en **-ĕa** eliziiĝas: **~~legĕa~~** → **lega**. Anstataŭ **-aa** uziĝas **-e**: **~~amaa~~** → **ame**.</small>
+
+<!--v-->
+
+| Esperanto | Lingua |
+|-|-|
+| amas | **ama** |
+| vidas | **vide** |
+| aŭdas | **audi** |
+| legas | **lege** |
+| kaptas | **capi** |
+
+<!--v-->
+
+| Esperanto | Lingua |
+|-|-|
+| (ke) amas | **ame** <small>(**~~amaa~~**)</small> |
+| (ke) vidas | **videa** |
+| (ke) aŭdas | **audia** |
+| (ke) legas | **lega** <small>(**~~legea~~**)</small> |
+| (ke) kaptas | **capia** |
+
+<!--v-->
+
+| Esperanto | Lingua |
+|-|-|
+| amis | **amaba** |
+| vidis | **videba** |
+| aŭdis | **audiba** |
+| legis | **legeba** |
+| kaptis | **capiba** |
+
+<!--v-->
+
+| Esperanto | Lingua |
+|-|-|
+| (ke) amis | **amare** |
+| (ke) vidis | **videre** |
+| (ke) aŭdis | **audire** |
+| (ke) legis | **legĕre** |
+| (ke) kaptis | **capĭre** |
+
+<!--v-->
+
+| Esperanto | Lingua |
+|-|-|
+| amos | **amará** |
+| vidos | **viderá** |
+| aŭdos | **audirá** |
+| legos | **legerá** |
+| kaptos | **capirá** |
+
+<!--v-->
+
+| Esperanto | Lingua |
+|-|-|
+| (ke) amos | **amaría** |
+| (ke) vidos | **videría** |
+| (ke) aŭdos | **audiría** |
+| (ke) legos | **legería** |
+| (ke) kaptos | **capiría** |
+
+<!--v-->
+
+#### Perfekto
+
+<!--v-->
+
+| Esperanto | Lingua |
+|-|-|
+| amintas | **há amato** |
+| vidintas | **há videto** |
+| aŭdintas | **há audito** |
+| legintas | **há legeto** |
+| kaptintas | **há capito** |
+
+<!--v-->
+
+##### Mallongaj Formoj
+
+<!--v-->
+
+| Esperanto | Linguo |
+|-|-|
+| estas | **és** <small>**esse**</small> |
+| havas | **há** <small>**habe**</small> |
+| | |
+| faras | **fá** <small>**face**</small> |
+| iras | **vá** <small>**vade**</small> |
+
+<!-- TODO respektivaĵo por -ía -->
 
 <!--s-->
 
@@ -2583,25 +2700,29 @@ Multajn vortojn oni povas skribi en eĉ pli etimologia stilo, kaj oni povas uzi 
 
 <!--v-->
 
+En **Lingua Classĭca** kaj **Lingua Moderna**, verboj havas konjugaciajn finaĵojn.
+
+<!--v-->
+
 ## Verboj
+
+<!--v-->
+
+### Imperfekto
 
 <!--v-->
 
 | Esperanto | Lingua |
 |-|-|
-| mi | **-o**`*` <small>**-m**</small> |
+| mi | **-m**`*` |
 | ci | **-s** |
-| ri/ĝi | **-** <small>**-t**</small> |
+| li | **-** <small>**-t**</small> |
 | | |
 | ni | **-mo** <small>**-mus**</small> |
 | vi | **-te** <small>**-tis**</small> |
 | ili | **-n** <small>**-nt**</small> |
 
-<small>`*` **-a** kaj **-ĕ** eliziiĝas antaŭ **-o**: **amao** → **amo**; **legĕo** → **lego**</small>
-
-<!--v-->
-
-### Imperfekto
+<small>`*` En la prezenco, uziĝas **-o** anstataŭ **-m**: **video**, **audio**, **capio**. Radikofinaj **a** kaj **ĕ** eliziiĝas: **~~amam~~** → **~~amao~~** → **amo**, **~~legem~~** → **~~legĕo~~** → **lego**.</small>
 
 <!--v-->
 
@@ -2611,9 +2732,9 @@ Multajn vortojn oni povas skribi en eĉ pli etimologia stilo, kaj oni povas uzi 
 
 | Esperanto | Lingua |
 |-|-|
-| mi amas | **amo** <small>**amam**</small> |
+| mi amas | **amo** <small>**(amam)**</small> |
 | ci amas | **amas** |
-| ri/ĝi amas | **ama** <small>**amat**</small> |
+| li amas | **ama** <small>**amat**</small> |
 | | |
 | ni amas | **amamo** <small>**amamus**</small> |
 | vi amas | **amate** <small>**amatis**</small> |
@@ -2629,7 +2750,7 @@ Multajn vortojn oni povas skribi en eĉ pli etimologia stilo, kaj oni povas uzi 
 |-|-|
 | (ke) mi amas | **amem** |
 | (ke) ci amas | **ames** |
-| (ke) ri/ĝi amas | **amet** |
+| (ke) li amas | **ame** <small>**amet**</small> |
 | | |
 | (ke) ni amas | **amemo** <small>**amemus**</small> |
 | (ke) vi amas | **amete** <small>**ametis**</small> |
@@ -2643,9 +2764,9 @@ Multajn vortojn oni povas skribi en eĉ pli etimologia stilo, kaj oni povas uzi 
 
 | Esperanto | Lingua |
 |-|-|
-| mi amis | **amabo** <small>**amabam**</small> |
+| mi amis | **amabo** <small>**(amabam)**</small> |
 | ci amis | **amabas** |
-| ri/ĝi amis | **amaba** <small>**amabat**</small> |
+| li amis | **amaba** <small>**amabat**</small> |
 | | |
 | ni amis | **amabamo** <small>**amabamus**</small> |
 | vi amis | **amabate** <small>**amabatis**</small> |
@@ -2661,7 +2782,7 @@ Multajn vortojn oni povas skribi en eĉ pli etimologia stilo, kaj oni povas uzi 
 |-|-|
 | (ke) mi amis | **amarem** |
 | (ke) ci amis | **amares** |
-| (ke) ri/ĝi amis | **amaret** |
+| (ke) li amis | **amare** <small>**amaret**</small> |
 | | |
 | (ke) ni amis | **amaremo** <small>**amaremus**</small> |
 | (ke) vi amis | **amarete** <small>**amaretis**</small> |
@@ -2675,13 +2796,13 @@ Multajn vortojn oni povas skribi en eĉ pli etimologia stilo, kaj oni povas uzi 
 
 | Esperanto | Lingua |
 |-|-|
-| mi amos | **amaró** <small>**amarabeo**</small> |
+| mi amos | **amaró** <small>**amarabeo** (**amarabem**)</small> |
 | ci amos | **amarás** <small>**amarabes**</small> |
-| ri/ĝi amos | **amará** <small>**amarabet**</small> |
+| li amos | **amará** <small>**amarabet**</small> |
 | | |
 | ni amos | **amaremo** <small>**amarabemus**</small> |
 | vi amos | **amarete** <small>**amarabetis**</small> |
-| ili amos | **amaren** <small>**amarabent**</small> |
+| ili amos | **amarán** <small>**amarabent**</small> |
 
 <!--v-->
 
@@ -2693,15 +2814,85 @@ Multajn vortojn oni povas skribi en eĉ pli etimologia stilo, kaj oni povas uzi 
 |-|-|
 | (ke) mi amos | **amaríam** <small>**amaribam**</small> |
 | (ke) ci amos | **amarías** <small>**amaribas**</small> |
-| (ke) ri/ĝi amos | **amaría** <small>**amaribat**</small> |
+| (ke) li amos | **amaría** <small>**amaribat**</small> |
 | | |
 | (ke) ni amos | **amaríamo** <small>**amaribamus**</small> |
 | (ke) vi amos | **amaríate** <small>**amaribatis**</small> |
 | (ke) ili amos | **amarían** <small>**amaribant**</small> |
 
-<!-- | Esperanto | Speranto |
-|-|-|
-| leĝo | leĵo `?` |
-| reĝo | reĵo `?` | -->
+<!--v-->
 
-<!-- TODO ĵunglo < Hindi (jangal) -->
+### Perfekto
+
+<!--v-->
+
+| Esperanto | Lingua |
+|-|-|
+| -intas      | **-'u** |
+| (ke) -intas | **-'rĭ** |
+| | |
+| -intis      | **-'ra** |
+| (ke) -intis | **-'sse** |
+
+<!--v-->
+
+| Esperanto | Lingua |
+|-|-|
+| mi | **-ii** |
+| ci | **-isti** |
+| li | **-i** <small>**-it**</small> |
+| | |
+| ni | **-imo** <small>**-imus**</small> |
+| vi | **-iste** <small>**-istis**</small> |
+| ili | **-erun** <small>**-erunt**</small> |
+
+<!--v-->
+
+| Esperanto | Lingua |
+|-|-|
+| mi amintas | **amái** <small>**amavii**</small> |
+| ci amintas | **amásti** <small>**amavisti**</small> |
+| li amintas | **amáu** <small>**amavit**</small> |
+| | |
+| ni amintas | **amámo** <small>**amavimus**</small> |
+| vi amintas | **amáste** <small>**amavistis**</small> |
+| ili amintas | **amárun** <small>**amaverunt**</small> |
+
+<!--v-->
+
+| Esperanto | Lingua |
+|-|-|
+| (ke) mi amintas | **amárim** <small>**amavĕrim**</small> |
+| (ke) ci amintas | **amáris** <small>**amavĕris**</small> |
+| (ke) li amintas | **amárit** <small>**amavĕrit**</small> |
+| | |
+| (ke) ni amintas | **amárimo** <small>**amaverĭmus**</small> |
+| (ke) vi amintas | **amárite** <small>**amaverĭtis**</small> |
+| (ke) ili amintas | **amárin** <small>**amavĕrint**</small> |
+
+<!--v-->
+
+| Esperanto | Lingua |
+|-|-|
+| mi amintis | **amáram** <small>**amavĕram**</small> |
+| ci amintis | **amáras** <small>**amavĕras**</small> |
+| li amintis | **amára** <small>**amavĕrat**</small> |
+| | |
+| ni amintis | **amáramo** <small>**amaveramus**</small> |
+| vi amintis | **amárate** <small>**amaveratis**</small> |
+| ili amintis | **amáran** <small>**amavĕrant**</small> |
+
+<!--v-->
+
+| Esperanto | Lingua |
+|-|-|
+| (ke) mi amintis | **amássem** <small>**amavissem**</small> |
+| (ke) ci amintis | **amásses** <small>**amavisses**</small> |
+| (ke) li amintis | **amásse** <small>**amavisset**</small> |
+| | |
+| (ke) ni amintis | **amássemo** <small>**amavissemus**</small> |
+| (ke) vi amintis | **amássete** <small>**amavissetis**</small> |
+| (ke) ili amintis | **amássen** <small>**amavissent**</small> |
+
+<!--v-->
+
