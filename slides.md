@@ -2678,6 +2678,10 @@ La infinitivo estas egala al la ke-is-formo.
 | legintas | **há legeto** |
 | kaptintas | **há capito** |
 
+`viso`
+`lecto`
+`capto`
+
 <!--v-->
 
 ##### Mallongaj Formoj
@@ -2700,7 +2704,7 @@ La infinitivo estas egala al la ke-is-formo.
 
 <!--v-->
 
-En **Lingua Classĭca** kaj **Lingua Moderna**, verboj havas konjugaciajn finaĵojn.
+En **Lingua Classĭca**, verboj havas konjugaciajn finaĵojn.
 
 <!--v-->
 
@@ -2714,7 +2718,7 @@ En **Lingua Classĭca** kaj **Lingua Moderna**, verboj havas konjugaciajn finaĵ
 
 | Esperanto | Lingua |
 |-|-|
-| mi | **-m**`*` |
+| mi | **-** <small>**-m**`*`</small> |
 | ci | **-s** |
 | li | **-** <small>**-t**</small> |
 | | |
@@ -2722,7 +2726,7 @@ En **Lingua Classĭca** kaj **Lingua Moderna**, verboj havas konjugaciajn finaĵ
 | vi | **-te** <small>**-tis**</small> |
 | ili | **-n** <small>**-nt**</small> |
 
-<small>`*` En la prezenco, uziĝas **-o** anstataŭ **-m**: **video**, **audio**, **capio**. Radikofinaj **a** kaj **ĕ** eliziiĝas: **~~amam~~** → **~~amao~~** → **amo**, **~~legem~~** → **~~legĕo~~** → **lego**.</small>
+<small>`*` En la indikativaj prezenco kaj preterito, uziĝas **-o** anstataŭ **-m**: **video**, **audio**, **capio**. Radikofinaj **a** kaj **ĕ** eliziiĝas: **~~amam~~** → **~~amao~~** → **amo**, **~~legem~~** → **~~legĕo~~** → **lego**.</small>
 
 <!--v-->
 
@@ -2748,7 +2752,7 @@ En **Lingua Classĭca** kaj **Lingua Moderna**, verboj havas konjugaciajn finaĵ
 
 | Esperanto | Lingua |
 |-|-|
-| (ke) mi amas | **amem** |
+| (ke) mi amas | **ame** <small>**amem**</small> |
 | (ke) ci amas | **ames** |
 | (ke) li amas | **ame** <small>**amet**</small> |
 | | |
@@ -2780,7 +2784,7 @@ En **Lingua Classĭca** kaj **Lingua Moderna**, verboj havas konjugaciajn finaĵ
 
 | Esperanto | Lingua |
 |-|-|
-| (ke) mi amis | **amarem** |
+| (ke) mi amis | **amare** <small>**amarem**</small> |
 | (ke) ci amis | **amares** |
 | (ke) li amis | **amare** <small>**amaret**</small> |
 | | |
@@ -2812,7 +2816,7 @@ En **Lingua Classĭca** kaj **Lingua Moderna**, verboj havas konjugaciajn finaĵ
 
 | Esperanto | Lingua |
 |-|-|
-| (ke) mi amos | **amaríam** <small>**amaribam**</small> |
+| (ke) mi amos | **amaría** <small>**amaribam**</small> |
 | (ke) ci amos | **amarías** <small>**amaribas**</small> |
 | (ke) li amos | **amaría** <small>**amaribat**</small> |
 | | |
@@ -2828,23 +2832,25 @@ En **Lingua Classĭca** kaj **Lingua Moderna**, verboj havas konjugaciajn finaĵ
 
 | Esperanto | Lingua |
 |-|-|
-| -intas      | **-'u** |
-| (ke) -intas | **-'rĭ** |
+| -intas      | **-v**`*` |
+| (ke) -intas | **-veri** |
 | | |
-| -intis      | **-'ra** |
-| (ke) -intis | **-'sse** |
+| -intis      | **-vera** |
+| (ke) -intis | **-visse** |
+
+<small>En la ordinaraj formoj, **ve** kaj **vi** eliziiĝas: **amavii** → **amái**. Nur en la li-intas-formo, **vi** aperas vortofine. Tiam ĉi **vi** mallongiĝas al **u**: **amavit** → **amáu**.</small>
 
 <!--v-->
 
 | Esperanto | Lingua |
 |-|-|
-| mi | **-ii** |
-| ci | **-isti** |
-| li | **-i** <small>**-it**</small> |
+| mi (-intas) | **-ii** |
+| ci (-intas) | **-isti** |
+| li (-intas) | **-i** <small>**-it**</small> |
 | | |
-| ni | **-imo** <small>**-imus**</small> |
-| vi | **-iste** <small>**-istis**</small> |
-| ili | **-erun** <small>**-erunt**</small> |
+| ni (-intas) | **-imo** <small>**-imus**</small> |
+| vi (-intas) | **-iste** <small>**-istis**</small> |
+| ili (-intas) | **-erun** <small>**-erunt**</small> |
 
 <!--v-->
 
@@ -2862,9 +2868,9 @@ En **Lingua Classĭca** kaj **Lingua Moderna**, verboj havas konjugaciajn finaĵ
 
 | Esperanto | Lingua |
 |-|-|
-| (ke) mi amintas | **amárim** <small>**amavĕrim**</small> |
+| (ke) mi amintas | **amári** <small>**amavĕrim**</small> |
 | (ke) ci amintas | **amáris** <small>**amavĕris**</small> |
-| (ke) li amintas | **amárit** <small>**amavĕrit**</small> |
+| (ke) li amintas | **amári** <small>**amavĕrit**</small> |
 | | |
 | (ke) ni amintas | **amárimo** <small>**amaverĭmus**</small> |
 | (ke) vi amintas | **amárite** <small>**amaverĭtis**</small> |
@@ -2874,7 +2880,7 @@ En **Lingua Classĭca** kaj **Lingua Moderna**, verboj havas konjugaciajn finaĵ
 
 | Esperanto | Lingua |
 |-|-|
-| mi amintis | **amáram** <small>**amavĕram**</small> |
+| mi amintis | **amára** <small>**amavĕram**</small> |
 | ci amintis | **amáras** <small>**amavĕras**</small> |
 | li amintis | **amára** <small>**amavĕrat**</small> |
 | | |
@@ -2886,7 +2892,7 @@ En **Lingua Classĭca** kaj **Lingua Moderna**, verboj havas konjugaciajn finaĵ
 
 | Esperanto | Lingua |
 |-|-|
-| (ke) mi amintis | **amássem** <small>**amavissem**</small> |
+| (ke) mi amintis | **amásse** <small>**amavissem**</small> |
 | (ke) ci amintis | **amásses** <small>**amavisses**</small> |
 | (ke) li amintis | **amásse** <small>**amavisset**</small> |
 | | |
