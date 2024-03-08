@@ -2579,7 +2579,6 @@ La infinitivo estas egala al la ke-is-formo.
 | vidi | **videre** |
 | aŭdi | **audire** |
 | legi | **legĕre** |
-| kapti | **capĭre** |
 
 <!--v-->
 
@@ -2611,7 +2610,6 @@ La infinitivo estas egala al la ke-is-formo.
 | vidas | **vide** |
 | aŭdas | **audi** |
 | legas | **lege** |
-| kaptas | **capi** |
 
 <!--v-->
 
@@ -2621,7 +2619,6 @@ La infinitivo estas egala al la ke-is-formo.
 | vidis | **videba** |
 | aŭdis | **audiba** |
 | legis | **legeba** |
-| kaptis | **capiba** |
 
 <!--v-->
 
@@ -2631,7 +2628,6 @@ La infinitivo estas egala al la ke-is-formo.
 | vidos | **viderá** |
 | aŭdos | **audirá** |
 | legos | **legerá** |
-| kaptos | **capirá** |
 
 <!--v-->
 
@@ -2641,7 +2637,6 @@ La infinitivo estas egala al la ke-is-formo.
 | (ke) vidas | **videa** |
 | (ke) aŭdas | **audia** |
 | (ke) legas | **lega** <small>(**~~legea~~**)</small> |
-| (ke) kaptas | **capia** |
 
 <!--v-->
 
@@ -2651,7 +2646,6 @@ La infinitivo estas egala al la ke-is-formo.
 | (ke) vidis | **videre** |
 | (ke) aŭdis | **audire** |
 | (ke) legis | **legĕre** |
-| (ke) kaptis | **capĭre** |
 
 <!--v-->
 
@@ -2661,7 +2655,6 @@ La infinitivo estas egala al la ke-is-formo.
 | (ke) vidos | **videría** |
 | (ke) aŭdos | **audiría** |
 | (ke) legos | **legería** |
-| (ke) kaptos | **capiría** |
 
 <!--v-->
 
@@ -2675,9 +2668,8 @@ La infinitivo estas egala al la ke-is-formo.
 | vidata | **visa** <small>**vidĕta**</small> |
 | aŭdata | **audita** |
 | legata | **lecta** <small>**legĕta**</small> |
-| kaptata | **capto** <small>**capĭta**</small> |
 
-<small>La pasiva participo de multaj verboj perdis la radikofinan **e** aŭ **i**. La restanta radikofina konsonanto tiam ofte asimiliĝas: **vidĕta** → **visa**.</small>
+<small>La pasiva participo de multaj verboj perdis la radikofinan **e**. La restanta radikofina konsonanto tiam ofte asimiliĝas: **vidĕta** → **visa**.</small>
 
 <!--v-->
 
@@ -2691,7 +2683,6 @@ La infinitivo estas egala al la ke-is-formo.
 | vidintas | **há viso** |
 | aŭdintas | **há audito** |
 | legintas | **há lecto** |
-| kaptintas | **há capto** |
 
 <!--v-->
 
@@ -2806,6 +2797,22 @@ En **Lingua Classĭca**, verboj havas konjugaciajn finaĵojn.
 
 <!--v-->
 
+### Infinitivo
+
+<!--v-->
+
+| Esperanto | Lingua Classĭca |
+|-|-|
+| ami | **amare** |
+| vidi | **videre** |
+| aŭdi | **audire** |
+| legi | **legĕre** |
+| kapti | **capĭre** |
+
+<small>(En la Latina, **ĭ**-verboj havas la radikofinon **e** en la infinitivo. Do **capĭre** fariĝas **capĕre**.)</small>
+
+<!--v-->
+
 ### Imperfekto
 
 <!--v-->
@@ -2820,7 +2827,7 @@ En **Lingua Classĭca**, verboj havas konjugaciajn finaĵojn.
 | vi | **-tis** |
 | ili | **-nt**`**` |
 
-<small>`*` En la indikativaj prezenco kaj preterito, uziĝas **-o** anstataŭ **-m**: **video**, **audio**, **capio**. Radikofinaj **a** kaj **ĕ** eliziiĝas en la mi-formo: **~~amam~~** → **amo**, **~~legem~~** → **lego**.</small>
+<small>`*` En la indikativaj prezenco kaj preterito, uziĝas **-o** anstataŭ **-m**: **video**, **audio**, **capio**. Radikofinaj **a** kaj **ĕ** eliziiĝas en la mi-formo: **~~amam~~** → **amo**, **~~legem~~** → **lego**. (En la Latina, **ĕ**-verboj havas la radikofinon **i** en la as-formoj. Do **leget** fariĝas **legit**.)</small>
 
 <small>`**` **-nt** fariĝas **-ent** (**-unt** en la Latina) post radikofina **i**/**ĭ**: **~~audint~~** → **audient**, **~~capint~~** → **capient**. (Analogie, **legent** fariĝas **legunt** en la Latina.)</small>
 
@@ -2852,13 +2859,13 @@ En **Lingua Classĭca**, verboj havas konjugaciajn finaĵojn.
 
 | Esperanto | Lingua Classĭca |
 |-|-|
-| mi amos | **amaró** <small>**amarabeo**</small> |
-| ci amos | **amarás** <small>**amarabes**</small> |
-| li amos | **amarát** <small>**amarabet**</small> |
+| mi amos | **amarabeo** |
+| ci amos | **amarabes** |
+| li amos | **amarabet** |
 | | |
-| ni amos | **amarémus** <small>**amarabemus**</small> |
-| vi amos | **amarétis** <small>**amarabetis**</small> |
-| ili amos | **amaránt** <small>**amarabent**</small> |
+| ni amos | **amarabemus** |
+| vi amos | **amarabetis** |
+| ili amos | **amarabent** |
 
 <!--v-->
 
@@ -2888,13 +2895,13 @@ En **Lingua Classĭca**, verboj havas konjugaciajn finaĵojn.
 
 | Esperanto | Lingua Classĭca |
 |-|-|
-| (ke) mi amos | **amaríam** <small>**amaribam**</small> |
-| (ke) ci amos | **amarías** <small>**amaribas**</small> |
-| (ke) li amos | **amaríat** <small>**amaribat**</small> |
+| (ke) mi amos | **amaribam** |
+| (ke) ci amos | **amaribas** |
+| (ke) li amos | **amaribat** |
 | | |
-| (ke) ni amos | **amaríamus** <small>**amaribamus**</small> |
-| (ke) vi amos | **amaríatis** <small>**amaribatis**</small> |
-| (ke) ili amos | **amaríant** <small>**amaribant**</small> |
+| (ke) ni amos | **amaribămus** |
+| (ke) vi amos | **amaribătis** |
+| (ke) ili amos | **amaribant** |
 
 <!--v-->
 
@@ -2902,15 +2909,11 @@ En **Lingua Classĭca**, verboj havas konjugaciajn finaĵojn.
 
 <!--v-->
 
-La aktiva participo estas la ili-as-formo kun la finaĵo **-e**.
-
-<!--v-->
-
 | Esperanto | Lingua Classĭca |
 |-|-|
 | amanta | **amante** |
 | vidanta | **vidente** |
-| audanta | **audiente** |
+| aŭdanta | **audiente** |
 | leganta | **legente** |
 | kaptanta | **capiente** |
 
@@ -2990,59 +2993,23 @@ La aktiva participo estas la ili-as-formo kun la finaĵo **-e**.
 
 <!--v-->
 
-#### Mallongaj Formoj
+### Mallongaj Formoj
 
 <!--v-->
 
 | Esperanto | Lingua Classĭca |
 |-|-|
-| mi estas | **só** <small>(**essem**)</small> |
-| ci estas | **éres** <small>**essis**</small> |
-| li estas | **és** <small>**essit**</small> |
+| mi estas | **sém** <small>(**essem**)</small> |
+| ci estas | **és** <small>**esses**</small> |
+| li estas | **ést** <small>**esset**</small> |
 | | |
-| ni estas | **sómo** <small>**essĭmus**</small> |
-| vi estas | **séis** <small>**essĭtis**</small> |
-| ili estas | **són** <small>**essunt**</small> |
+| ni estas | **sémus** <small>**essĕmus**</small> |
+| vi estas | **éstis** <small>**essĕtis**</small> |
+| ili estas | **sén** <small>**essent**</small> |
 
 <!--v-->
 
-| Esperanto | Lingua Classĭca |
-|-|-|
-| mi havas | **hó** <small>**habeo**</small> |
-| ci havas | **hás** <small>**habes**</small> |
-| li havas | **há** <small>**habet**</small> |
-| | |
-| ni havas | **hémo** <small>**habemus**</small> |
-| vi havas | **héis** <small>**habetis**</small> |
-| ili havas | **hán** <small>**habent**</small> |
-
-<!--v-->
-
-| Esperanto | Lingua Classĭca |
-|-|-|
-| mi iras | **vó** <small>**vado**</small> |
-| ci iras | **vás** <small>**vades**</small> |
-| li iras | **vá** <small>**vadet**</small> |
-| | |
-| ni iras | **vámo** <small>**vadĕmus**</small> |
-| vi iras | **váis** <small>**vadĕtis**</small> |
-| ili iras | **ván** <small>**vadent**</small> |
-
-<!--v-->
-
-| Esperanto | Lingua Classĭca |
-|-|-|
-| mi faras | **fó** <small>**facio**</small> |
-| ci faras | **fás** <small>**facis**</small> |
-| li faras | **fá** <small>**facit**</small> |
-| | |
-| ni faras | **fámo** <small>**facĭmus**</small> |
-| vi faras | **fáis** <small>**facĭtis**</small> |
-| ili faras | **fán** <small>**facient**</small> |
-
-<!--v-->
-
-#### Malregulaj Verboj
+### Malregulaj Verboj
 
 <!--v-->
 
@@ -3084,6 +3051,34 @@ Anstataŭ longa **ā** uziĝas longa **ē**.
 | ni | **-mo** <small>**-mus**</small> |
 | vi | **-is** <small>**-tis**</small> |
 | ili | **-n** <small>**-nt**</small> |
+
+<!--v-->
+
+| Esperanto | Lingua Moderna |
+|-|-|
+| mi amos | **amaró** <small>**amarabeo**</small> |
+| ci amos | **amarás** <small>**amarabes**</small> |
+| li amos | **amará** <small>**amarabet**</small> |
+| | |
+| ni amos | **amarémo** <small>**amarabemus**</small> |
+| vi amos | **amaréis** <small>**amarabetis**</small> |
+| ili amos | **amarán** <small>**amarabent**</small> |
+
+<!--v-->
+
+| Esperanto | Lingua Moderna |
+|-|-|
+| (ke) mi amos | **amaría** <small>**amaribam**</small> |
+| (ke) ci amos | **amarías** <small>**amaribas**</small> |
+| (ke) li amos | **amaría** <small>**amaribat**</small> |
+| | |
+| (ke) ni amos | **amaríamus** <small>**amaribămus**</small> |
+| (ke) vi amos | **amaríais** <small>**amaribătis**</small> |
+| (ke) ili amos | **amarían** <small>**amaribant**</small> |
+
+
+
+
 
 <!--v-->
 
@@ -3137,11 +3132,62 @@ En la intas-formoj, **ve** kaj **vi** eliziiĝas: **amavī** → **amái**, **au
 | (ke) vi amintis | **amásseis** <small>**amavissetis**</small> |
 | (ke) ili amintis | **amássen** <small>**amavissent**</small> |
 
+<!--v-->
+
+### Mallongaj Formoj
+
+<!--v-->
+
+| Esperanto | Lingua Moderna |
+|-|-|
+| mi estas | **só** <small>(**essem**) **sém**</small> |
+| ci estas | **éres** <small>(**esses**) **és**</small> |
+| li estas | **és** <small>(**esset**) **ést**</small> |
+| | |
+| ni estas | **sómo** <small>(**essĕmus**) **sémus**</small> |
+| vi estas | **séis** <small>(**essĕtis**) **éstis**</small> |
+| ili estas | **són** <small>(**essent**) **sén**</small> |
+
+<!--v-->
+
+| Esperanto | Lingua Moderna |
+|-|-|
+| mi havas | **hó** <small>**habeo**</small> |
+| ci havas | **hás** <small>**habes**</small> |
+| li havas | **há** <small>**habet**</small> |
+| | |
+| ni havas | **hémo** <small>**habemus**</small> |
+| vi havas | **héis** <small>**habetis**</small> |
+| ili havas | **hán** <small>**habent**</small> |
+
+<!--v-->
+
+| Esperanto | Lingua Moderna |
+|-|-|
+| mi iras | **vó** <small>**vado**</small> |
+| ci iras | **vás** <small>**vades**</small> |
+| li iras | **vá** <small>**vadet**</small> |
+| | |
+| ni iras | **vámo** <small>**vadĕmus**</small> |
+| vi iras | **váis** <small>**vadĕtis**</small> |
+| ili iras | **ván** <small>**vadent**</small> |
+
+<!--v-->
+
+| Esperanto | Lingua Moderna |
+|-|-|
+| mi faras | **fó** <small>**facio**</small> |
+| ci faras | **fás** <small>**facis**</small> |
+| li faras | **fá** <small>**facit**</small> |
+| | |
+| ni faras | **fámo** <small>**facĭmus**</small> |
+| vi faras | **fáis** <small>**facĭtis**</small> |
+| ili faras | **fán** <small>**facient**</small> |
+
 <!-- TODO: pasivo: sta/veni/vá visa -->
 
-<!-- Verboj, kies radiko finiĝas je **-ĕ** kaj **-ĭ** kondutas simile. -->
+<!-- Necesas skribi ĉiujn formojn de (almenaŭ) esti kaj iri. -->
 
-<!-- TODO: ekzemploj -->
 <!-- Kiel drastaj estas la devioj, se mi naive uzas ĭ- kaj ĕ-verboj? -->
 
 <!-- lingua moderna: la tempoj funkcias diverse -->
