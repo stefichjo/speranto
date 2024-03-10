@@ -2749,8 +2749,6 @@ Multajn vortojn oni povas skribi en eĉ pli etimologia stilo, kaj oni povas uzi 
 
 # Lingua Moderna
 
-<!-- La "h" en Lingua Moderna estas muta. "havere" [avere]. -->
-
 <!--v-->
 
 ## Prononco
@@ -2775,7 +2773,7 @@ Multajn vortojn oni povas skribi en eĉ pli etimologia stilo, kaj oni povas uzi 
 
 <!--v-->
 
-<small>Kelkaj infinitivoj, kiuj finiĝas je **-ér** en **Lingua**, mallongiĝas en **Lingua Moderna** (sed ne en **Lingua Intermediaria** aŭ **Lingua Classĭca**).</small>
+<small>Kelkaj infinitivoj, kiuj finiĝas je **-ér** en **Lingua**, mallongiĝas (nur) en **Lingua Moderna**.</small>
 
 <!--v-->
 
@@ -2856,13 +2854,13 @@ Multajn vortojn oni povas skribi en eĉ pli etimologia stilo, kaj oni povas uzi 
 
 | Esperanto | Lingua Moderna |
 |-|-|
-| (se/do) mi amus | **amaría** |
-| (se/do) ci amus | **amarías** |
-| (se/do) li amus | **amaría** |
+| mi amus | **amaría** |
+| ci amus | **amarías** |
+| li amus | **amaría** |
 | | |
-| (se/do) ni amus | **amaríamo** |
-| (se/do) vi amus | **amaríate** |
-| (se/do) ili amus | **amarían** |
+| ni amus | **amaríamo** |
+| vi amus | **amaríate** |
+| ili amus | **amarían** |
 
 <!--v-->
 
@@ -2949,7 +2947,7 @@ Multajn vortojn oni povas skribi en eĉ pli etimologia stilo, kaj oni povas uzi 
 
 <!--v-->
 
-<small>En **Lingua Intermediaria**, estas ant-is- kaj int-is-tempo. Aldone, estas distingo inter se-us-modo kaj do-us-modo.</small>
+<small>En **Lingua Intermediaria**, estas int-as- kaj int-is-tempo. Aldone, estas distingo inter se-us-modo kaj do-us-modo.</small>
 
 <!--v-->
 
@@ -3061,7 +3059,7 @@ Duoblaj vokaloj en finaĵoj estas skribataj kun makrono.
 
 | Esperanto | Classĭca |
 |-|-|
-| mi amintas | **amavī** <small>**amavii**</small> |
+| mi amintas | **amavī** <small>**amavii**</small> *[amaŭi-i]* |
 
 <!--v-->
 
@@ -3122,53 +3120,15 @@ Duoblaj vokaloj en finaĵoj estas skribataj kun makrono.
 
 <!--v-->
 
-| Esperanto | Lingua Classĭca |
-|-|-|
-| mi amas | **amo** |
-| ci amas | **amas** |
-| li amas | **amat** |
-| | |
-| ni amas | **amamus** |
-| vi amas | **amatis** |
-| ili amas | **amant** |
+<small>(**Lingua Classĭca** ignoras la latinan os-tempon kaj anstataŭe uzas la latinidan (iberan) os-tempon (t.e. je **-ó**, **-ás**, ktp.).)</small>
 
 <!--v-->
 
-| Esperanto | Lingua Classĭca |
-|-|-|
-| mi amis | **amabo** |
-| ci amis | **amabas** |
-| li amis | **amabat** |
-| | |
-| ni amis | **amabamus** |
-| vi amis | **amabatis** |
-| ili amis | **amabant** |
+### Subjunktivo
 
 <!--v-->
 
-| Esperanto | Lingua Classĭca |
-|-|-|
-| mi amos | **amarabeo** |
-| ci amos | **amarabes** |
-| li amos | **amarabet** |
-| | |
-| ni amos | **amarabemus** |
-| vi amos | **amarabetis** |
-| ili amos | **amarabent** |
-
-<small>(En la Latina, uziĝas sufiĉe diversaj verbaj finaĵoj.)</small>
-
-<!--v-->
-
-| Esperanto | Lingua Classĭca |
-|-|-|
-| (ke) mi amas | **amem** |
-| (ke) ci amas | **ames** |
-| (ke) li amas | **amet** |
-| | |
-| (ke) ni amas | **amemus** |
-| (ke) vi amas | **ametis** |
-| (ke) ili amas | **ament** |
+<small>Pro influo de la latina gramatiko, la volitivo (ke-u-modo) nomiĝas subjunktivo kaj distiniĝas laŭ tempo: ke-as-tempo kaj ke-is-tempo. La ke-as-tempo estas sama al la ke-u-modo, dum la ke-is-tempo baziĝas sur la infinitivo.</small>
 
 <!--v-->
 
@@ -3184,17 +3144,7 @@ Duoblaj vokaloj en finaĵoj estas skribataj kun makrono.
 
 <!--v-->
 
-| Esperanto | Lingua Classĭca |
-|-|-|
-| mi amus | **amaribam** |
-| ci amus | **amaribas** |
-| li amus | **amaribat** |
-| | |
-| ni amus | **amaribamus** |
-| vi amus | **amaribatis** |
-| ili amus | **amaribant** |
-
-<small>(En la Latina, ne estas kondicionalo.)</small>
+<small>(La latina gramatiko mencias nek ke-os-tempon ke-intos-tempon. Anstataŭe, ĝi havas intos-tempon kaj ke-intas-tempon, kiuj estas suspektinde similaj al la latinida (ibera) ke-os-tempo. Evitante tiun konfuzon, **Lingua Classĭca** uzas la kondicionalon (t.e. la do-us-modon je **-ía**, **-ías** ktp.) anstataŭe, kiu ne ekzistas en la Latina. La se-us-modo (je **-'sse**, **-'sses** ktp.) nomiĝas ke-intis-tempo en la Latina gramatiko.)</small>
 
 <!--v-->
 
@@ -3219,12 +3169,12 @@ Duoblaj vokaloj en finaĵoj estas skribataj kun makrono.
 | Esperanto | Lingua Classĭca |
 |-|-|
 | -intas      | **-v** |
-| (ke) -intas | **-vĕrĕ**`*` |
+| (ke) -intas`*` | **-vĕrĕ** |
 | | |
 | -intis      | **-vĕra** |
-| (ke) -intis | **-visse** |
+| (ke) -intis`*` | **-visse** |
 
-(En la Latina, uziĝas **-veri** anstataŭ **-vere**: **amāverimus**.)
+<small>`*` **Lingua Classĭca** ignoras la ke-intas- kaj la ke-intis-tempon. (En la Latina, uziĝas **-veri** anstataŭ **-vere**: **amāverimus**.) Ĝi tamen uzas la ke-intis-tempon kiel se-us-modon.</small>
 
 <!--v-->
 
@@ -3254,18 +3204,6 @@ Duoblaj vokaloj en finaĵoj estas skribataj kun makrono.
 
 | Esperanto | Lingua Classĭca |
 |-|-|
-| (ke) mi amintas | **amavĕrem** |
-| (ke) ci amintas | **amavĕres** |
-| (ke) li amintas | **amavĕret** |
-| | |
-| (ke) ni amintas | **amaverĕmus** |
-| (ke) vi amintas | **amaverĕtis** |
-| (ke) ili amintas | **amavĕrent** |
-
-<!--v-->
-
-| Esperanto | Lingua Classĭca |
-|-|-|
 | mi amintis | **amavĕram** |
 | ci amintis | **amavĕras** |
 | li amintis | **amavĕrat** |
@@ -3278,13 +3216,13 @@ Duoblaj vokaloj en finaĵoj estas skribataj kun makrono.
 
 | Esperanto | Lingua Classĭca |
 |-|-|
-| (ke) mi amintis | **amavissem** |
-| (ke) ci amintis | **amavisses** |
-| (ke) li amintis | **amavisset** |
+| (se) mi amus | **amavissem** |
+| (se) ci amus | **amavisses** |
+| (se) li amus | **amavisset** |
 | | |
-| (ke) ni amintis | **amavissemus** |
-| (ke) vi amintis | **amavissetis** |
-| (ke) ili amintis | **amavissent** |
+| (se) ni amus | **amavissemus** |
+| (se) vi amus | **amavissetis** |
+| (se) ili amus | **amavissent** |
 
 <!--v-->
 
