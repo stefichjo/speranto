@@ -3384,3 +3384,26 @@ kvius / kva
 
 ili nili ali-kvi kvi-kve kveli/eku-ili ali-kvi-kve
 -->
+
+<!-- 
+ŝi elu eli ele
+hi olu oli ole
+ri ulu uli ule
+li lu li le
+ili ilu ili ile/les
+si su si se
+
+mi mu mi me/jo
+ci tu (ti) te
+ni nu ni nos/noj
+vi vu vi vos/voj
+ -->
+<!-- 
+ila/tale
+nilo/no
+
+kvi-kvo/semper
+kvi-kva/omnia
+kvelo/hok/ibi, sik nunk, tanto
+kvelu/huk
+ -->
