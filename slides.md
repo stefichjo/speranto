@@ -2791,7 +2791,7 @@ Multajn vortojn oni povas skribi en eĉ pli etimologia stilo, kaj oni povas uzi 
 | ci amis | **amavas** |
 | li amis | **amava** |
 | | |
-| ni amis | **amamvamos** |
+| ni amis | **amavamos** |
 | vi amis | **amaváis** |
 | ili amis | **amavan** |
 
@@ -2803,7 +2803,7 @@ Multajn vortojn oni povas skribi en eĉ pli etimologia stilo, kaj oni povas uzi 
 | ci amos | **amarás** |
 | li amos | **amará** |
 | | |
-| ni amos | **amamrémos** |
+| ni amos | **amarémos** |
 | vi amos | **amaréis** |
 | ili amos | **amarán** |
 
@@ -2818,18 +2818,6 @@ Multajn vortojn oni povas skribi en eĉ pli etimologia stilo, kaj oni povas uzi 
 | (ke) ni amu | **amemos** |
 | (ke) vi amu | **améis** |
 | (ke) ili amu | **amen** |
-
-<!--v-->
-
-| Esperanto | Lingua Intermediaria |
-|-|-|
-| mi amus | **amaría** |
-| ci amus | **amarías** |
-| li amus | **amaría** |
-| | |
-| ni amus | **amaríamos** |
-| vi amus | **amaríais** |
-| ili amus | **amarían** |
 
 <!--v-->
 
@@ -2897,27 +2885,27 @@ Multajn vortojn oni povas skribi en eĉ pli etimologia stilo, kaj oni povas uzi 
 
 <!--v-->
 
-<small>En skriba lingvo, la formo de la volitivo (ke-u-modo) de **Lingua** uziĝas nur por realigeblaj situacioj. Tiu volitivo nomiĝas subjunktivo de la as-tempo. Por ne-realigeblaj situacioj uziĝas subjunktivo de la is-tempo. En parola lingvo, uziĝas la indikativo de la is-tempo.</small>
+<small>En skriba lingvo, la formo de la volitivo (ke-u-modo) de **Lingua** uziĝas nur por realigeblaj situacioj. Tiu volitivo estas analizebla kiel ke-as-tempo. Por ne-realigeblaj situacioj uziĝas ke-is-tempo. En parola lingvo, uziĝas la is-tempo.</small>
 
 <!--v-->
 
 | Esperanto | Lingua Intermediaria |
 |-|-|
-| (ke) mi amas = (ke eble) mi amu | **ame** |
+| (ke eble) mi amu | **ame** |
 | | |
-| (ke) mi amis = (ke maleble) mi amu | **amava** <small>**amara**</small> |
+| (ke maleble) mi amu | **amava** <small>**amara**</small> |
 
 <!--v-->
 
 | Esperanto | Lingua Intermediaria |
 |-|-|
-| (ke) mi amis | **amavo** <small>**amara**</small> |
-| (ke) ci amis | **amavas** <small>**amaras**</small> |
-| (ke) li amis | **amava** <small>**amara**</small> |
+| (ke maleble) mi amu | **amavo** <small>**amara**</small> |
+| (ke maleble) ci amu | **amavas** <small>**amaras**</small> |
+| (ke maleble) li amu | **amava** <small>**amara**</small> |
 | | |
-| (ke) ni amis | **amavamos** <small>**amaramos**</small> |
-| (ke) vi amis | **amaváis** <small>**amaráis**</small> |
-| (ke) ili amis | **amavan** <small>**amaran**</small> |
+| (ke maleble) ni amu | **amavamos** <small>**amaramos**</small> |
+| (ke maleble) vi amu | **amaváis** <small>**amaráis**</small> |
+| (ke maleble) ili amu | **amavan** <small>**amaran**</small> |
 
 <!--v-->
 
@@ -2967,17 +2955,29 @@ Multajn vortojn oni povas skribi en eĉ pli etimologia stilo, kaj oni povas uzi 
 
 | Esperanto | Lingua Intermediaria |
 |-|-|
-| (ke) mi amintis | **havevo amato** <small>**amásse** → **havera amato**</small> |
-| (ke) ci amintis | **havevas amato** <small>**amásses** → **haveras amato**</small> |
-| (ke) li amintis | **haveva amato** <small>**amásse** → **havera amato**</small> |
+| (ke) mi amintis | **havevo amato** <small>**amásse**</small> |
+| (ke) ci amintis | **havevas amato** <small>**amásses**</small> |
+| (ke) li amintis | **haveva amato** <small>**amásse**</small> |
 | | |
-| (ke) ni amintis | **havevamos amato** <small>**amássemos → **haveramos amato****</small> |
-| (ke) vi amintis | **haveváis amato** <small>**amásseis → **haveráis amato****</small> |
-| (ke) ili amintis | **havevan amato** <small>**amássen → **haveran amato****</small> |
+| (ke) ni amintis | **havevamos amato** <small>**amássemos**</small> |
+| (ke) vi amintis | **haveváis amato** <small>**amásseis**</small> |
+| (ke) ili amintis | **havevan amato** <small>**amássen**</small> |
 
 <!--v-->
 
 #### Kondicionalo
+
+<!--v-->
+
+| Esperanto | Lingua Intermediaria |
+|-|-|
+| (se eble) mi amus | **amaría** |
+| (se eble) ci amus | **amarías** |
+| (se eble) li amus | **amaría** |
+| | |
+| (se eble) ni amus | **amaríamos** |
+| (se eble) vi amus | **amaríais** |
+| (se eble) ili amus | **amarían** |
 
 <!--v-->
 
@@ -2997,13 +2997,15 @@ Multajn vortojn oni povas skribi en eĉ pli etimologia stilo, kaj oni povas uzi 
 
 <!--v-->
 
-<small>La skribaj ke-intis-formoj foje erare uziĝas por ne-realigeblaj kondicionaloj kaj realigeblaj volitivoj.</small>
+<small>La skribaj ke-intis-formoj foje erare uziĝas por ne-realigeblaj kondicionaloj kaj realigeblaj volitivoj. En parola lingvo, la us-modo foje erare uziĝas por ne-realigeblaj kondicionaloj.</small>
+
+<!--v-->
 
 | Esperanto | Lingua Intermediaria |
 |-|-|
-| (ke) mi amis = (ke maleble) mi amu | **~~amásse~~** <small>**amara**</small> |
+| (ke maleble) mi amu | **~~amaría~~** → **amava** <small>**~~amásse~~**  → **amara**</small> |
 | | |
-| (se (eble)) mi amus | **~~amásse~~** <small>**amaría**</small> |
+| (se eble) mi amus | **amaría** <small>**~~amásse~~**</small> |
 
 <!--s-->
 
@@ -3364,6 +3366,8 @@ kvius / kva
 
 ili nili ali-kvi kvi-kve kveli/eku-ili ali-kvi-kve
 -->
+
+<!--s-->
 
 # Lingua Meridionál
 
