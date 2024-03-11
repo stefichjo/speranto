@@ -2609,8 +2609,6 @@ Multajn vortojn oni povas skribi en eĉ pli etimologia stilo, kaj oni povas uzi 
 
 <small>`**` **-aa** fariĝas **-e**: **amaa** → **ame**. </small>
 
-<small>`***` La finaĵo **-ía** estas la mallonga formo **ía** ("iris").</small>
-
 <!--v-->
 
 | Esperanto | Lingua |
@@ -2735,7 +2733,7 @@ Multajn vortojn oni povas skribi en eĉ pli etimologia stilo, kaj oni povas uzi 
 | iros | **irá** |
 | | |
 | (ke) iru | **vadea** |
-| (se/do) irus | **iría** |
+| irus | **iría** |
 
 <!--v-->
 
@@ -2859,6 +2857,20 @@ Multajn vortojn oni povas skribi en eĉ pli etimologia stilo, kaj oni povas uzi 
 
 | Esperanto | Lingua Intermediaria |
 |-|-|
+| (ke) mi havu | **havea** |
+| | |
+| mi havis | **haveva** |
+| mi havos | **haró** |
+| | |
+| mi havus | **haría** |
+
+<!-- havéamos haveámos, haveáis -->
+<!-- oceano -->
+
+<!--v-->
+
+| Esperanto | Lingua Intermediaria |
+|-|-|
 | mi iras | **vó** |
 | ci iras | **vás** |
 | li iras | **vá** |
@@ -2885,37 +2897,19 @@ Multajn vortojn oni povas skribi en eĉ pli etimologia stilo, kaj oni povas uzi 
 
 <!--v-->
 
-<small>En skriba lingvo, la formo de la volitivo (ke-u-modo) de **Lingua** uziĝas nur por realigeblaj situacioj. Tiu volitivo estas analizebla kiel ke-as-tempo. Por ne-realigeblaj situacioj uziĝas ke-is-tempo. En parola lingvo, uziĝas la is-tempo.</small>
+<small>En skriba lingvo, la formo de la volitivo (ke-u-modo) de **Lingua** uziĝas nur por realigeblaj situacioj. (Tiu volitivo estas analizebla kiel ke-as-tempo.) Por ne-realigeblaj situacioj uziĝas la ke-is-tempo. (Tiu volitivo estas origine estas la ke-intis-tempo.) En parola lingvo, uziĝas la is-tempo.</small>
 
 <!--v-->
 
 | Esperanto | Lingua Intermediaria |
 |-|-|
-| (ke eble) mi amu | **ame** |
+| (ke maleble) mi amu | **amavo** <small>**amásse**</small> |
+| (ke maleble) ci amu | **amavas** <small>**amásses**</small> |
+| (ke maleble) li amu | **amava** <small>**amásse**</small> |
 | | |
-| (ke maleble) mi amu | **amava** <small>**amara**</small> |
-
-<!--v-->
-
-<small>En parola lingvo, la us-modo foje erare uziĝas por ne-realigeblaj kondicionaloj.</small>
-
-<!--v-->
-
-| Esperanto | Lingua Intermediaria |
-|-|-|
-| (ke maleble) mi amu | **~~amaría~~** → **amava** <small>**amara**</small> |
-
-<!--v-->
-
-| Esperanto | Lingua Intermediaria |
-|-|-|
-| (ke maleble) mi amu | **amavo** <small>**amara**</small> |
-| (ke maleble) ci amu | **amavas** <small>**amaras**</small> |
-| (ke maleble) li amu | **amava** <small>**amara**</small> |
-| | |
-| (ke maleble) ni amu | **amavamos** <small>**amaramos**</small> |
-| (ke maleble) vi amu | **amaváis** <small>**amaráis**</small> |
-| (ke maleble) ili amu | **amavan** <small>**amaran**</small> |
+| (ke maleble) ni amu | **amavamos** <small>**amássemos**</small> |
+| (ke maleble) vi amu | **amaváis** <small>**amásseis**</small> |
+| (ke maleble) ili amu | **amavan** <small>**amássen**</small> |
 
 <!--v-->
 
@@ -2923,7 +2917,7 @@ Multajn vortojn oni povas skribi en eĉ pli etimologia stilo, kaj oni povas uzi 
 
 <!--v-->
 
-<small>En skriba lingvo, ekzistas verbaj formoj por la int-as- kaj la int-is-tempo. En parola lingvo, uziĝas kunmetitaĵoj kun **hár**.</small>
+<small>En skriba lingvo, ekzistas verbaj formoj por la intas- kaj la intis-tempo. En parola lingvo, uziĝas kunmetitaĵoj kun **hár**.</small>
 
 <!--v-->
 
@@ -2953,13 +2947,13 @@ Multajn vortojn oni povas skribi en eĉ pli etimologia stilo, kaj oni povas uzi 
 
 | Esperanto | Lingua Intermediaria |
 |-|-|
-| (ke) mi amintas | **hava amato** <small>**amáre**</small> |
-| (ke) ci amintas | **havas amato** <small>**amáres**</small> |
-| (ke) li amintas | **hava amato** <small>**amáre**</small> |
+| (ke) mi amintas | **havea amato** <small>**amár**</small> |
+| (ke) ci amintas | **haveas amato** <small>**amáres**</small> |
+| (ke) li amintas | **havea amato** <small>**amár**</small> |
 | | |
-| (ke) ni amintas | **havamos amato** <small>**amáremus**</small> |
-| (ke) vi amintas | **haváis amato** <small>**amáreis**</small> |
-| (ke) ili amintas | **havan amato** <small>**amáren**</small> |
+| (ke) ni amintas | **haveamos amato** <small>**amáremos**</small> |
+| (ke) vi amintas | **haveáis amato** <small>**amáreis**</small> |
+| (ke) ili amintas | **havean amato** <small>**amáren**</small> |
 
 <!--v-->
 
@@ -3007,14 +3001,12 @@ Multajn vortojn oni povas skribi en eĉ pli etimologia stilo, kaj oni povas uzi 
 
 <!--v-->
 
-<small>La skribaj ke-intis-formoj foje erare uziĝas por ne-realigeblaj kondicionaloj kaj realigeblaj volitivoj.</small>
+<small>La skribaj ke-intis-formoj foje erare uziĝas por realigeblaj volitivoj.</small>
 
 <!--v-->
 
 | Esperanto | Lingua Intermediaria |
 |-|-|
-| (ke maleble) mi amu | **amava** <small>**~~amásse~~**  → **amara**</small> |
-| | |
 | (se eble) mi amus | **amaría** <small>**~~amásse~~**</small> |
 
 <!--s-->
@@ -3068,8 +3060,6 @@ Multajn vortojn oni povas skribi en eĉ pli etimologia stilo, kaj oni povas uzi 
 |-|-|
 | justa | **iusta** *[iusta]* |
 
-<!-- Ĉu "j"? -->
-
 <!--v-->
 
 ### ī
@@ -3094,8 +3084,6 @@ Duoblaj vokaloj en finaĵoj estas skribataj kun makrono.
 |-|-|
 | maso | **massa** *[massa]* |
 | rozo | **rosa** *[rosa]* |
-
-<!-- Klasika "s" estas inter "s" kaj "ŝ". -->
 
 <!--v-->
 
@@ -3127,6 +3115,23 @@ Duoblaj vokaloj en finaĵoj estas skribataj kun makrono.
 
 <!--v-->
 
+<small>(**Lingua Classĭca** ignoras la latinan os-tempon kaj anstataŭe uzas la latinidan os-tempon (t.e. je **-abeo**, **-abes**, ktp.).)</small>
+
+<!--v-->
+
+| Esperanto | Lingua Classĭca |
+|-|-|
+| -as | **-** |
+| -is | **-ba** |
+| -os | **-rabe** |
+| | |
+| (ke) -as | **-a** |
+| (ke) -is | **-ra** |
+| | |
+| (do) -us | **-riba** |
+
+<!--v-->
+
 | Esperanto | Lingua Classĭca |
 |-|-|
 | mi | **-** <small>**-m**`*`</small> |
@@ -3143,15 +3148,7 @@ Duoblaj vokaloj en finaĵoj estas skribataj kun makrono.
 
 <!--v-->
 
-<small>(**Lingua Classĭca** ignoras la latinan os-tempon kaj anstataŭe uzas la latinidan (iberan) os-tempon (t.e. je **-ó**, **-ás**, ktp.).)</small>
-
-<!--v-->
-
-### Subjunktivo
-
-<!--v-->
-
-<small>Pro influo de la latina gramatiko, la volitivo (ke-u-modo) nomiĝas subjunktivo kaj distiniĝas laŭ tempo: ke-as-tempo kaj ke-is-tempo. La ke-as-tempo estas sama al la ke-u-modo, dum la ke-is-tempo baziĝas sur la infinitivo.</small>
+<small>La ke-is-tempo baziĝas sur la infinitivo.</small>
 
 <!--v-->
 
@@ -3167,7 +3164,7 @@ Duoblaj vokaloj en finaĵoj estas skribataj kun makrono.
 
 <!--v-->
 
-<small>(La latina gramatiko mencias nek ke-os-tempon ke-intos-tempon. Anstataŭe, ĝi havas intos-tempon kaj ke-intas-tempon, kiuj estas suspektinde similaj al la latinida (ibera) ke-os-tempo. Evitante tiun konfuzon, **Lingua Classĭca** uzas la kondicionalon (t.e. la do-us-modon je **-ía**, **-ías** ktp.) anstataŭe, kiu ne ekzistas en la Latina. La se-us-modo (je **-'sse**, **-'sses** ktp.) nomiĝas ke-intis-tempo en la Latina gramatiko.)</small>
+<small>(La latina gramatiko konas nek ke-os-tempon nek ke-intos-tempon. Anstataŭe, ĝi havas intos-tempon kaj ke-intas-tempon, kiuj suspektinde similas al la latinida (ibera) ke-os-tempo. Evitante tiun konfuzon, **Lingua Classĭca** uzas la kondicionalon (t.e. la do-us-modon je **-ía**, **-ías** ktp.) anstataŭe, kiu ne ekzistas en la Latina.)</small>
 
 <!--v-->
 
@@ -3191,13 +3188,15 @@ Duoblaj vokaloj en finaĵoj estas skribataj kun makrono.
 
 | Esperanto | Lingua Classĭca |
 |-|-|
-| -intas      | **-v** |
+| -intas | **-v** |
 | (ke) -intas`*` | **-vĕrĕ** |
 | | |
-| -intis      | **-vĕra** |
-| (ke) -intis`*` | **-visse** |
+| -intis | **-vĕra** |
+| (ke) -intis`**` | **-visse** |
 
-<small>`*` **Lingua Classĭca** ignoras la ke-intas- kaj la ke-intis-tempon. (En la Latina, uziĝas **-veri** anstataŭ **-vere**: **amāverimus**.) Ĝi tamen uzas la ke-intis-tempon kiel se-us-modon.</small>
+<small>`*` (En la Latina, uziĝas **-veri** anstataŭ **-vere**: **amāverimus**.)</small>
+
+<small>`**` La ke-intis-tempo uziĝas kiel se-us-modo.</small>
 
 <!--v-->
 
@@ -3255,7 +3254,7 @@ Duoblaj vokaloj en finaĵoj estas skribataj kun makrono.
 
 | Esperanto | Lingua Classĭca |
 |-|-|
-| mi estas | **sém** <small>(**essem**)</small> |
+| mi estas | **sém** <small>**essem**</small> |
 | ci estas | **és** <small>**esses**</small> |
 | li estas | **ést** <small>**esset**</small> |
 | | |
@@ -3265,18 +3264,48 @@ Duoblaj vokaloj en finaĵoj estas skribataj kun makrono.
 
 <!--v-->
 
+<small>La perfekta radiko de **sér** estas **f**.</small>
+
+<!--v-->
+
+| Esperanto | Lingua Intermediaria |
+|-|-|
+| mi estintas | **fuī** |
+| ci estintas | **fuisti** |
+| li estintas | **fuit** |
+| | |
+| ni estintas | **fuimus** |
+| vi estintas | **fuistis** |
+| ili estintas | **fuerunt** |
+
+<!--v-->
+
+| Esperanto | Lingua Intermediaria |
+|-|-|
+| mi estintis | **fueram** |
+| ci estintis | **fueras** |
+| li estintis | **fuerat** |
+| | |
+| ni estintis | **fueramus** |
+| vi estintis | **fueratis** |
+| ili estintis | **fuerant** |
+
+<!-- essevī essevisti essevit essevĭmus essevistis esserunt -->
+
+<!-- intas, intis de "esti" fariĝas tiuj de "iri", almenaŭ en Lingua Intermediaria. -->
+
 ### Malregulaj Verboj
 
 <!--v-->
 
-Malregulaj verboj (t.e. tiuj kun eliziita radikofina vokalo en la pasiva participo, ekzemple **vidĕta** → **visa**, **legĕta** → **lecta**, **capĭta** → **capta**) havas apartan radikon por la perfektaj verboj. Ili ne havas **ev**, sed anstataŭe havas longan vokalon.
+En skriba lingvo uziĝas malregulaj perfektaj verbaj radikoj kun longa vokalo anstataŭ **ev**: **videvī** → **vīdī**, **legevī**. (Koincide, malregulaj verboj havas malregulan pasivan participon, ekzemple: **vidĕta** → **visa**, **legĕta** → **lecta**.)
 
 <!--v-->
 
 | Esperanto | Lingua Classĭca |
 |-|-|
-| mi vidintas | **vīdī** <small>**videvii**</small> |
-| mi legintas | **lēgī** <small>**legevii**</small> |
+| mi vidintas | **videvī** <small>**vīdī**</small> |
+| mi legintas | **legevī** <small>**lēgī**</small> |
 
 <!--v-->
 
@@ -3286,96 +3315,7 @@ Anstataŭ longa **ā** uziĝas longa **ē**.
 
 | Esperanto | Lingua Classĭca |
 |-|-|
-| mi kaptintas | **cēpī** <small>(**~~cāpii~~**)</small> |
-
-<small>La pasiva participo de multaj verboj perdis la radikofinan **e**. La restanta radikofina konsonanto tiam ofte asimiliĝas: **vidĕta** → **visa**.</small>
-
-
-
-
-
-
-
-
-
-
-
-
-
-<!--v-->
-
-<!-- En la intas-formoj, **ve** kaj **vi** eliziiĝas: **amavī** → **amái**, **audivī** → **audíi**. Nur en la li-intas-formo, **vi** aperas vortofine. Tiam ĉi **vi** mallongiĝas al **u**: **amavit** → **amáu**, **audivit** -> **audíu**. -->
-
-<!--v-->
-
-| Esperanto | Lingua Moderna |
-|-|-|
-| (ke) mi amintas | **amáre** <small>**amavĕrem**</small> |
-| (ke) ci amintas | **amáres** <small>**amavĕres**</small> |
-| (ke) li amintas | **amáre** <small>**amavĕret**</small> |
-| | |
-| (ke) ni amintas | **amáremo** <small>**amaverĕmus**</small> |
-| (ke) vi amintas | **amáreis** <small>**amaverĕtis**</small> |
-| (ke) ili amintas | **amáren** <small>**amavĕrint**</small> |
-
-<!--v-->
-
-| Esperanto | Lingua Moderna |
-|-|-|
-| mi amintis | **amára** <small>**amavĕram**</small> |
-| ci amintis | **amáras** <small>**amavĕras**</small> |
-| li amintis | **amára** <small>**amavĕrat**</small> |
-| | |
-| ni amintis | **amáramo** <small>**amaveramus**</small> |
-| vi amintis | **amárais** <small>**amaveratis**</small> |
-| ili amintis | **amáran** <small>**amavĕrant**</small> |
-
-<!--v-->
-
-| Esperanto | Lingua Moderna |
-|-|-|
-| (ke) mi amintis | **amásse** <small>**amavissem**</small> |
-| (ke) ci amintis | **amásses** <small>**amavisses**</small> |
-| (ke) li amintis | **amásse** <small>**amavisset**</small> |
-| | |
-| (ke) ni amintis | **amássemo** <small>**amavissemus**</small> |
-| (ke) vi amintis | **amásseis** <small>**amavissetis**</small> |
-| (ke) ili amintis | **amássen** <small>**amavissent**</small> |
-
-<small>**Lingua Intermediaria** ne havas ke-int-tempon. La sufiksoj por la ke-intas-tempo uziĝas por do-os-verboj. La sufiksoj por la ke-intis-tempo uziĝas por nerealaj us-verboj.</small>
-
-<!-- 
--ato -ado (moderna)
--ate -át -ád
--ale -ál -áł
--are -ár -á -->
-
-<!-- perfektaj formoj de esti kaj iri. -->
-
-<!-- Lingua "=" Lingua Moderna
-Lingua Moderna | Lingua Intermediaria | Lingua Classĭca
-k/s, t/s | k/th (c), t/th | k, t
--->
-
-<!-- amaba → amava (wann?) -->
-<!-- scribe → scrive (wann?) -->
-
-<!-- Lingua Classĭca: scribo
-Lingua Moderna: scrivo
-→ Lingua: scrivé, scriveva
-
-La pasivaj participoj estu "regulaj" en Lingua, do estu "scriveta" (aŭ "scrivĕta"?), dum en Lingua Moderna estu "scripta". -->
-
-<!-- 
-
-kva/kvale
-kve/ubi
-kvi/ad ubi
-kvando, kvanto, kvare, kvom / kvo
-kvius / kva
-
-ili nili ali-kvi kvi-kve kveli/eku-ili ali-kvi-kve
--->
+| mi kaptintas | **capivī** <small>(**~~cāpī~~** → **cēpī**)</small> |
 
 <!--s-->
 
@@ -3416,3 +3356,31 @@ ili nili ali-kvi kvi-kve kveli/eku-ili ali-kvi-kve
 | meti | **pór** <small>**ponér**</small> |
 | tiri | **trár** <small>**trahér**</small> |
 
+<!-- perfektaj formoj de esti kaj iri. -->
+
+<!-- eo tu elle(s)/ella(s) esso(s) -->
+
+<!-- 
+-ate -át -ád
+-ale -ál -áł
+-are -ár -áĥ
+-ane -án -áǫ
+-->
+
+<!-- Lingua "=" Lingua Meridionál
+Lingua Meridionál | Lingua Intermediaria | Lingua Classĭca
+k/s, t/s | k/th (c), t/th | k, t
+-->
+
+<!--
+La pasivaj participoj estu "regulaj" en Lingua, do estu "scriveta" (aŭ "scrivĕta"?), dum en Lingua Meridionál estu "scripta". -->
+
+<!-- 
+kva/kvale
+kve/ubi
+kvi/ad ubi
+kvando, kvanto, kvare, kvom / kvo
+kvius / kva
+
+ili nili ali-kvi kvi-kve kveli/eku-ili ali-kvi-kve
+-->
