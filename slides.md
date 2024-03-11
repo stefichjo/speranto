@@ -2897,6 +2897,16 @@ Multajn vortojn oni povas skribi en eĉ pli etimologia stilo, kaj oni povas uzi 
 
 <!--v-->
 
+<small>En parola lingvo, la us-modo foje erare uziĝas por ne-realigeblaj kondicionaloj.</small>
+
+<!--v-->
+
+| Esperanto | Lingua Intermediaria |
+|-|-|
+| (ke maleble) mi amu | **~~amaría~~** → **amava** <small>**amara**</small> |
+
+<!--v-->
+
 | Esperanto | Lingua Intermediaria |
 |-|-|
 | (ke maleble) mi amu | **amavo** <small>**amara**</small> |
@@ -2997,13 +3007,13 @@ Multajn vortojn oni povas skribi en eĉ pli etimologia stilo, kaj oni povas uzi 
 
 <!--v-->
 
-<small>La skribaj ke-intis-formoj foje erare uziĝas por ne-realigeblaj kondicionaloj kaj realigeblaj volitivoj. En parola lingvo, la us-modo foje erare uziĝas por ne-realigeblaj kondicionaloj.</small>
+<small>La skribaj ke-intis-formoj foje erare uziĝas por ne-realigeblaj kondicionaloj kaj realigeblaj volitivoj.</small>
 
 <!--v-->
 
 | Esperanto | Lingua Intermediaria |
 |-|-|
-| (ke maleble) mi amu | **~~amaría~~** → **amava** <small>**~~amásse~~**  → **amara**</small> |
+| (ke maleble) mi amu | **amava** <small>**~~amásse~~**  → **amara**</small> |
 | | |
 | (se eble) mi amus | **amaría** <small>**~~amásse~~**</small> |
 
