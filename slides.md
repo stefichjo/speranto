@@ -2701,7 +2701,7 @@ Multajn vortojn oni povas skribi en eĉ pli etimologia stilo, kaj oni povas uzi 
 
 <!--v-->
 
-##### Mallongaj Formoj
+#### Mallongaj Formoj
 
 <!--v-->
 
@@ -2747,183 +2747,6 @@ Multajn vortojn oni povas skribi en eĉ pli etimologia stilo, kaj oni povas uzi 
 
 <!--s-->
 
-# Lingua Moderna
-
-<!--v-->
-
-## Prononco
-
-<!--v-->
-
-**h** estas muta en **Lingua Moderna** (sed ne en **Lingua Intermediaria** aŭ **Lingua Classĭca**).
-
-<!--v-->
-
-| Esperanto | Lingua Moderna |
-|-|-|
-| havi | **havér** *[aver']* |
-
-<!--v-->
-
-## Verboj
-
-<!--v-->
-
-### Infinitivo
-
-<!--v-->
-
-<small>Kelkaj infinitivoj, kiuj finiĝas je **-ér** en **Lingua**, mallongiĝas (nur) en **Lingua Moderna**.</small>
-
-<!--v-->
-
-| Esperanto | Lingua Moderna |
-|-|-|
-| diri | **dír** <small>**dicér**</small> |
-| legi | **lér** <small>**legér**</small> |
-| meti | **pór** <small>**ponér**</small> |
-| tiri | **trár** <small>**trahér**</small> |
-
-<!--v-->
-
-### Konjugacio
-
-<!--v-->
-
-| Esperanto | Lingua Moderna |
-|-|-|
-| mi | **-**`*` |
-| ci | **-s** |
-| li | **-** |
-| | |
-| ni | **-mo** |
-| vi | **-te** |
-| ili | **-n** |
-
-<small>`*` En la mi-as- kaj mi-is-formoj, radikofina vokalo fariĝas **-o**: **ama** → **amo**, **vide** → **vido**, **audi** → **audo**.</small>
-
-<!--v-->
-
-| Esperanto | Lingua Moderna |
-|-|-|
-| mi amas | **amo** |
-| ci amas | **amas** |
-| li amas | **ama** |
-| | |
-| ni amas | **amamo** |
-| vi amas | **amate** |
-| ili amas | **aman** |
-
-<!--v-->
-
-| Esperanto | Lingua Moderna |
-|-|-|
-| mi amis | **amavo** |
-| ci amis | **amavas** |
-| li amis | **amava** |
-| | |
-| ni amis | **amamvamo** |
-| vi amis | **amavate** |
-| ili amis | **amavan** |
-
-<!--v-->
-
-| Esperanto | Lingua Moderna |
-|-|-|
-| mi amos | **amaró** |
-| ci amos | **amarás** |
-| li amos | **amará** |
-| | |
-| ni amos | **amamrémo** |
-| vi amos | **amaréte** |
-| ili amos | **amarán** |
-
-<!--v-->
-
-| Esperanto | Lingua Moderna |
-|-|-|
-| (ke) mi amu | **ame** |
-| (ke) ci amu | **ames** |
-| (ke) li amu | **ame** |
-| | |
-| (ke) ni amu | **amemo** |
-| (ke) vi amu | **amete** |
-| (ke) ili amu | **amen** |
-
-<!--v-->
-
-| Esperanto | Lingua Moderna |
-|-|-|
-| mi amus | **amaría** |
-| ci amus | **amarías** |
-| li amus | **amaría** |
-| | |
-| ni amus | **amaríamo** |
-| vi amus | **amaríate** |
-| ili amus | **amarían** |
-
-<!--v-->
-
-| Esperanto | Lingua Moderna |
-|-|-|
-| mi amintas | **hó amato** |
-| mi amintis | **havevo amato** |
-| mi amintos | **haró amato** |
-
-<!--v-->
-
-### Mallongaj Formoj
-
-<!--v-->
-
-| Esperanto | Lingua Moderna |
-|-|-|
-| mi estas | **só** |
-| ci estas | **éres** |
-| li estas | **és** |
-| | |
-| ni estas | **sómo** |
-| vi estas | **séte** |
-| ili estas | **són** |
-
-<!--v-->
-
-| Esperanto | Lingua Moderna |
-|-|-|
-| mi havas | **hó** |
-| ci havas | **hás** |
-| li havas | **há** |
-| | |
-| ni havas | **hémo** |
-| vi havas | **héte** |
-| ili havas | **hán** |
-
-<!--v-->
-
-| Esperanto | Lingua Moderna |
-|-|-|
-| mi iras | **vó** |
-| ci iras | **vás** |
-| li iras | **vá** |
-| | |
-| ni iras | **vámo** |
-| vi iras | **váte** |
-| ili iras | **ván** |
-
-<!--v-->
-
-| Esperanto | Lingua Moderna |
-|-|-|
-| mi faras | **fó** |
-| ci faras | **fás** |
-| li faras | **fá** |
-| | |
-| ni faras | **fámo** |
-| vi faras | **fáte** |
-| ili faras | **fán** |
-
-<!--s-->
-
 # Lingua Intermediaria
 
 <!--v-->
@@ -2936,63 +2759,251 @@ Multajn vortojn oni povas skribi en eĉ pli etimologia stilo, kaj oni povas uzi 
 
 <!--v-->
 
-<small>En **Lingua Intermediaria**, la verbaj sufiksoj **-mo** kaj **-te** fariĝas **-mos** kaj **-'is**.</small>
+| Esperanto | Lingua Intermediaria |
+|-|-|
+| mi | **-**`*` |
+| ci | **-s** |
+| li | **-** |
+| | |
+| ni | **-mos** |
+| vi | **-'is** |
+| ili | **-n** |
+
+<small>`*` En la mi-as- kaj mi-is-formoj, radikofina vokalo fariĝas **-o**: **ama** → **amo**, **vide** → **vido**, **audi** → **audo**.</small>
 
 <!--v-->
 
 | Esperanto | Lingua Intermediaria |
 |-|-|
+| mi amas | **amo** |
+| ci amas | **amas** |
+| li amas | **ama** |
+| | |
 | ni amas | **amamos** |
 | vi amas | **amáis** |
-
-<!--v-->
-
-<small>En **Lingua Intermediaria**, estas int-as- kaj int-is-tempo. Aldone, estas distingo inter se-us-modo kaj do-us-modo.</small>
-
-<!--v-->
-
-| Esperanto | Lingua |
-|-|-|
-| -intas      | **-'i**, **-'sti**, **-'u**, **'mo**, **-'ste**, **-'ron** |
-| -intis      | **-'ra**, **-'ras**, **-'ra**, **'ramos**, **-'rais**, **-'ran** |
-| | |
-| (se) -us | **'-sse**, **'-sses**, **'-sse**, **'-ssemos**, **'-sseis**, **'-ssen** |
+| ili amas | **aman** |
 
 <!--v-->
 
 | Esperanto | Lingua Intermediaria |
 |-|-|
-| mi amintas | **amái** |
-| ci amintas | **amásti** |
-| li amintas | **amáu** |
+| mi amis | **amavo** |
+| ci amis | **amavas** |
+| li amis | **amava** |
 | | |
-| ni amintas | **amámo** |
-| vi amintas | **amáste** |
-| ili amintas | **amáron** |
+| ni amis | **amamvamos** |
+| vi amis | **amaváis** |
+| ili amis | **amavan** |
 
 <!--v-->
 
 | Esperanto | Lingua Intermediaria |
 |-|-|
-| mi amintis | **amára** |
-| ci amintis | **amáras** |
-| li amintis | **amára** |
+| mi amos | **amaró** |
+| ci amos | **amarás** |
+| li amos | **amará** |
 | | |
-| ni amintis | **amáramos** |
-| vi amintis | **amárais** |
-| ili amintis | **amáran** |
+| ni amos | **amamrémos** |
+| vi amos | **amaréis** |
+| ili amos | **amarán** |
 
 <!--v-->
 
 | Esperanto | Lingua Intermediaria |
 |-|-|
-| (se) mi amus | **amásse** |
-| (se) ci amus | **amásses** |
-| (se) li amus | **amásse** |
+| (ke) mi amu | **ame** |
+| (ke) ci amu | **ames** |
+| (ke) li amu | **ame** |
 | | |
-| (se) ni amus | **amássemos** |
-| (se) vi amus | **amásseis** |
-| (se) ili amus | **amássen** |
+| (ke) ni amu | **amemos** |
+| (ke) vi amu | **améis** |
+| (ke) ili amu | **amen** |
+
+<!--v-->
+
+| Esperanto | Lingua Intermediaria |
+|-|-|
+| mi amus | **amaría** |
+| ci amus | **amarías** |
+| li amus | **amaría** |
+| | |
+| ni amus | **amaríamos** |
+| vi amus | **amaríais** |
+| ili amus | **amarían** |
+
+<!--v-->
+
+| Esperanto | Lingua Intermediaria |
+|-|-|
+| mi amintas | **hó amato** |
+| mi amintis | **havevo amato** |
+| mi amintos | **haró amato** |
+
+<!--v-->
+
+#### Mallongaj Formoj
+
+<!--v-->
+
+| Esperanto | Lingua Intermediaria |
+|-|-|
+| mi estas | **só** |
+| ci estas | **éres** |
+| li estas | **és** |
+| | |
+| ni estas | **sómos** |
+| vi estas | **séis** |
+| ili estas | **són** |
+
+<!--v-->
+
+| Esperanto | Lingua Intermediaria |
+|-|-|
+| mi havas | **hó** |
+| ci havas | **hás** |
+| li havas | **há** |
+| | |
+| ni havas | **hémos** |
+| vi havas | **héis** |
+| ili havas | **hán** |
+
+<!--v-->
+
+| Esperanto | Lingua Intermediaria |
+|-|-|
+| mi iras | **vó** |
+| ci iras | **vás** |
+| li iras | **vá** |
+| | |
+| ni iras | **vámos** |
+| vi iras | **váis** |
+| ili iras | **ván** |
+
+<!--v-->
+
+| Esperanto | Lingua Intermediaria |
+|-|-|
+| mi faras | **fó** |
+| ci faras | **fás** |
+| li faras | **fá** |
+| | |
+| ni faras | **fámos** |
+| vi faras | **fáis** |
+| ili faras | **fán** |
+
+<!--v-->
+
+#### Subjunktivo
+
+<!--v-->
+
+<small>En skriba lingvo, la formo de la volitivo (ke-u-modo) de **Lingua** uziĝas nur por realigeblaj situacioj. Tiu volitivo nomiĝas subjunktivo de la as-tempo. Por ne-realigeblaj situacioj uziĝas subjunktivo de la is-tempo. En parola lingvo, uziĝas la indikativo de la is-tempo.</small>
+
+<!--v-->
+
+| Esperanto | Lingua Intermediaria |
+|-|-|
+| (ke) mi amas = (ke eble) mi amu | **ame** |
+| | |
+| (ke) mi amis = (ke maleble) mi amu | **amava** <small>**amara**</small> |
+
+<!--v-->
+
+| Esperanto | Lingua Intermediaria |
+|-|-|
+| (ke) mi amis | **amavo** <small>**amara**</small> |
+| (ke) ci amis | **amavas** <small>**amaras**</small> |
+| (ke) li amis | **amava** <small>**amara**</small> |
+| | |
+| (ke) ni amis | **amavamos** <small>**amaramos**</small> |
+| (ke) vi amis | **amaváis** <small>**amaráis**</small> |
+| (ke) ili amis | **amavan** <small>**amaran**</small> |
+
+<!--v-->
+
+#### Perfekto
+
+<!--v-->
+
+<small>En skriba lingvo, ekzistas verbaj formoj por la int-as- kaj la int-is-tempo. En parola lingvo, uziĝas kunmetitaĵoj kun **hár**.</small>
+
+<!--v-->
+
+| Esperanto | Lingua Intermediaria |
+|-|-|
+| mi amintas | **hó amato** <small>**amái**</small> |
+| ci amintas | **hás amato** <small>**amásti**</small> |
+| li amintas | **há amato** <small>**amáu**</small> |
+| | |
+| ni amintas | **hémos amato** <small>**amámo**</small> |
+| vi amintas | **héis amato** <small>**amáste**</small> |
+| ili amintas | **hán amato** <small>**amáron**</small> |
+
+<!--v-->
+
+| Esperanto | Lingua Intermediaria |
+|-|-|
+| mi amintis | **havevo amato** <small>**amára**</small> |
+| ci amintis | **havevas amato** <small>**amáras**</small> |
+| li amintis | **haveva amato** <small>**amára**</small> |
+| | |
+| ni amintis | **havevamos amato** <small>**amáramos**</small> |
+| vi amintis | **haveváis amato** <small>**amárais**</small> |
+| ili amintis | **havevan amato** <small>**amáran**</small> |
+
+<!--v-->
+
+| Esperanto | Lingua Intermediaria |
+|-|-|
+| (ke) mi amintas | **hava amato** <small>**amáre**</small> |
+| (ke) ci amintas | **havas amato** <small>**amáres**</small> |
+| (ke) li amintas | **hava amato** <small>**amáre**</small> |
+| | |
+| (ke) ni amintas | **havamos amato** <small>**amáremus**</small> |
+| (ke) vi amintas | **haváis amato** <small>**amáreis**</small> |
+| (ke) ili amintas | **havan amato** <small>**amáren**</small> |
+
+<!--v-->
+
+| Esperanto | Lingua Intermediaria |
+|-|-|
+| (ke) mi amintis | **havevo amato** <small>**amásse** → **havera amato**</small> |
+| (ke) ci amintis | **havevas amato** <small>**amásses** → **haveras amato**</small> |
+| (ke) li amintis | **haveva amato** <small>**amásse** → **havera amato**</small> |
+| | |
+| (ke) ni amintis | **havevamos amato** <small>**amássemos → **haveramos amato****</small> |
+| (ke) vi amintis | **haveváis amato** <small>**amásseis → **haveráis amato****</small> |
+| (ke) ili amintis | **havevan amato** <small>**amássen → **haveran amato****</small> |
+
+<!--v-->
+
+#### Kondicionalo
+
+<!--v-->
+
+<small>En skriba lingvo, la ke-intis-tempo uziĝas por la se-us-modo por ne-realigeblaj situacioj.</small>
+
+<!--v-->
+
+| Esperanto | Lingua Intermediaria |
+|-|-|
+| (se maleble) mi amus | **amaría** <small>**amásse**</small> |
+| (se maleble) ci amus | **amarías** <small>**amásses**</small> |
+| (se maleble) li amus | **amaría** <small>**amásse**</small> |
+| | |
+| (se maleble) ni amus | **amaríamos** <small>**amássemos**</small> |
+| (se maleble) vi amus | **amaríais** <small>**amásseis**</small> |
+| (se maleble) ili amus | **amarían** <small>**amássen**</small> |
+
+<!--v-->
+
+<small>La skribaj ke-intis-formoj foje erare uziĝas por ne-realigeblaj kondicionaloj kaj realigeblaj volitivoj.</small>
+
+| Esperanto | Lingua Intermediaria |
+|-|-|
+| (ke) mi amis = (ke maleble) mi amu | **~~amásse~~** <small>**amara**</small> |
+| | |
+| (se (eble)) mi amus | **~~amásse~~** <small>**amaría**</small> |
 
 <!--s-->
 
@@ -3353,3 +3364,41 @@ kvius / kva
 
 ili nili ali-kvi kvi-kve kveli/eku-ili ali-kvi-kve
 -->
+
+# Lingua Meridionál
+
+<!--v-->
+
+## Prononco
+
+<!--v-->
+
+**h** estas muta en **Lingua Meridionál**.
+
+<!--v-->
+
+| Esperanto | Lingua Meridionál |
+|-|-|
+| horo | **hora** *[ora]* |
+
+<!--v-->
+
+## Verboj
+
+<!--v-->
+
+### Infinitivo
+
+<!--v-->
+
+<small>Kelkaj infinitivoj, kiuj finiĝas je **-ér** en **Lingua Intermediaria**, mallongiĝas en **Lingua Meridionál**.</small>
+
+<!--v-->
+
+| Esperanto | Lingua Meridionál |
+|-|-|
+| diri | **dír** <small>**dicér**</small> |
+| legi | **lér** <small>**legér**</small> |
+| meti | **pór** <small>**ponér**</small> |
+| tiri | **trár** <small>**trahér**</small> |
+
