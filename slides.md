@@ -288,6 +288,8 @@ Note:
 
 ## Lingua
 
+<!--v-->
+
 ### Adverboj
 
 | | |
@@ -960,13 +962,6 @@ Note:
 * 🅰 **tabŭla**, 🅴 **tábla**, 🅾 **távla**
 * 🅰 **sape**, 🅴 **saban**, 🅾 **savas** - *scias*
 * 🅰 **sape**, 🅴 **sapan**, 🅾 **sapas** - *gustas*
-
-<!-- 
-TODO
-baln/bán
-létra
- -->
-<!--v-->
 
 ## Speranto
 
@@ -1707,30 +1702,6 @@ Note:
 * pli da klarigoj pri la prononco
 * aliaj Lingvoj
 
-<!-- TODO
-ch ph th y x
-z: [ts] [dz] [z]
-zona -iz- (polverizare), -aliz- (legalizare)
--->
-
-<!--
-s̃s̈
-S̃S̈
--->
-
-<!-- TODO
-1920'
-Lingua (Occidentale)
-(Nordlik) Sprak
-(Vøshodni) Äzyk
-→ Speranto
-
-1887
-S̃peranto /esperanto/
-
-Symbol: S im Kreis (ca. Ⓢ, aber mit kleinerem Kreis)
--->
-
 <!--s-->
 
 # 2024-03
@@ -1790,8 +1761,6 @@ Symbol: S im Kreis (ca. Ⓢ, aber mit kleinerem Kreis)
 |-|-|
 | esti | esi |
 | supozi | suponi |
-
-`TODO korekti → korigi?`
 
 <!--v-->
 
@@ -1896,7 +1865,7 @@ Symbol: S im Kreis (ca. Ⓢ, aber mit kleinerem Kreis)
 
 | Esperanto | Speranto |
 |-|-|
-| neĝo | nivjo |
+| kaĝo | kavjo |
 | ruĝa | rubja |
 
 <!--v-->
@@ -2032,7 +2001,7 @@ Oni povas prononci "'" kiel /ə/ (ŝvaon). Ŝvao neniam portas la akcenton.
 | iri | vadi |
 | stari | sti`*` |
 
-<small>`*` Same *di* (Esperanto: *doni*) portas la akcenton sur la finaĵo: **di**, **das**, **dis**, **dos**, **du!**.</small>
+<small>`*` Same *di* (Esperanto: *doni*) portas la akcenton sur la finaĵo: **di**, **das**, **dis**, **dos**, **dus**, **du**.</small>
 
 <!--v-->
 
@@ -2255,7 +2224,7 @@ Multajn vortojn oni povas skribi en eĉ pli etimologia stilo, kaj oni povas uzi 
 
 | Esperanto | Linguo |
 |-|-|
-| seĝo | **sedĭo** *[seĵo]* <small>*[seđi-o]*</small> |
+| radio | **rajo** <small>**radĭo**</small> *[raĵo]* <small>*[rađi-o]*</small> |
 
 <!--v-->
 
@@ -2267,10 +2236,7 @@ Multajn vortojn oni povas skribi en eĉ pli etimologia stilo, kaj oni povas uzi 
 |-|-|
 | skribi | **scrivi** <small>**scribi**</small> *[skrivi]* <small>*[skribi]*</small> |
 | | |
-| ruĝa | **ruja** <small>**rubĕa**</small> *[ruĵa]* <small>*[ruĝa]*</small> |
-| | |
-| kaĝo | **cajo** <small>**cavĕo**</small> *[kaĵo]* <small>*[kaĝo]*</small> |
-| neĝo | **nijo** <small>**nivĕo**</small> *[niĵo]* <small>*[niĝo]*</small> |
+| ruĝa | **rujo** <small>**rubĕo**</small> *[ruĵo]* <small>*[ruƀi-o]*</small> |
 
 <!--v-->
 
@@ -2282,7 +2248,7 @@ Multajn vortojn oni povas skribi en eĉ pli etimologia stilo, kaj oni povas uzi 
 |-|-|
 | majo | **maio** *[majo]* |
 | | |
-| jam | **jam** *[ĵam]* <small>*[jam]*</small> |
+| justa | **justa** *[ĵusta]* <small>*[justa]*</small> |
 
 <!--v-->
 
@@ -2555,7 +2521,7 @@ Multajn vortojn oni povas skribi en eĉ pli etimologia stilo, kaj oni povas uzi 
 | pano | **pane** |
 | rano | **rana** |
 | | |
-| nacio | **natio** |
+| nacio | **natĭo** |
 
 <!--v-->
 
@@ -2606,7 +2572,7 @@ Multajn vortojn oni povas skribi en eĉ pli etimologia stilo, kaj oni povas uzi 
 | neniu | **nilli** *[nili]* |
 | | |
 | iu | **alĭ-qui** *[ali-kŭi]* |
-| ĉiu | **qui-qui** *[kŭikŭe]* |
+| ĉiu | **qui-que** *[kŭikŭe]* |
 | | |
 | ĉi tiu | **eccu-illi** *[eku-ili]* |
 | iu ajn | **alĭ-qui-que** *[ali-kŭi-kŭe]* |
@@ -2635,7 +2601,7 @@ Multajn vortojn oni povas skribi en eĉ pli etimologia stilo, kaj oni povas uzi 
 
 | Esperanto | Lingua |
 |-|-|
-| ĉiam | **quo-que** <small>**semper**</small> |
+| ĉiam | **quo-que** <small>**quando-que**, **semper**</small> |
 | ĉiu | **qua-que** <small>**omnia**</small> |
 
 <!--v-->
@@ -2648,6 +2614,8 @@ Multajn vortojn oni povas skribi en eĉ pli etimologia stilo, kaj oni povas uzi 
 | ĉi tiam | **eccu-illo** <small>**quello**, **nunc**</small> |
 | ĉi tiom | **eccu-illo** <small>**quello**, **tanto**</small> |
 | ĉi tien | **eccu-illu** <small>**quellu**, **huc**</small> |
+
+<!--v-->
 
 ## Pronomoj
 
@@ -2690,7 +2658,7 @@ Multajn vortojn oni povas skribi en eĉ pli etimologia stilo, kaj oni povas uzi 
 | vidi | **vidér** |
 | aŭdi | **audír** |
 
-<small>La kromsigno super la vokalo precipe signifas elizion. Nur kiel kromefiko, la akcento falas sur la kromsignita vokalo.</small>
+<small>La kromsigno super la vokalo precipe signifas elizion. Nur kvazaŭ kromefiko, la akcento falas sur la kromsignita vokalo.</small>
 
 <!--v-->
 
@@ -2864,6 +2832,16 @@ Multajn vortojn oni povas skribi en eĉ pli etimologia stilo, kaj oni povas uzi 
 <!--v-->
 
 ## Prononco
+
+<!--v-->
+
+<small>Hoketitaj vokaloj estas prononcataj, sed malakcentataj en antaŭlasta pozicio.</small>
+
+<!--v-->
+
+| Esperanto | Lingua Intermediaria |
+|-|-|
+| letero | **littĕra** *[lite-ra]* |
 
 <!--v-->
 
@@ -3107,7 +3085,7 @@ Multajn vortojn oni povas skribi en eĉ pli etimologia stilo, kaj oni povas uzi 
 |-|-|
 | (se eble) mi amus | **amaría** <small>**~~amásse~~**</small> |
 
-<!--s-->
+<!--v-->
 
 ### Malregulaj Verboj
 
@@ -3192,7 +3170,7 @@ Por la perfektaj formoj de **ír** uziĝas la verbo **sér**.
 | vi faras | **fáis** |
 | ili faras | **fán** |
 
-<!--v-->
+<!--s-->
 
 # Lingua Classĭca
 
@@ -3230,6 +3208,7 @@ Por la perfektaj formoj de **ír** uziĝas la verbo **sér**.
 
 | Esperanto | Lingua Classĭca |
 |-|-|
+| neĝo | **nive** *[niŭe]* |
 | vino | **vino** *[ŭino]* |
 | Saluton! | **Salve!** *[salŭe]* |
 
@@ -3495,7 +3474,9 @@ Duoblaj vokaloj en finaĵoj estas skribataj kun makrono.
 
 <!--v-->
 
-En skriba lingvo uziĝas malregulaj perfektaj verbaj radikoj kun longa vokalo anstataŭ **ev**: **videvī** → **vīdī**, **legevī**. (Koincide, malregulaj verboj havas malregulan pasivan participon, ekzemple: **vidĕta** → **visa**, **legĕta** → **lecta**.)
+<small>En skriba lingvo uziĝas malregulaj perfektaj verbaj radikoj kun longa vokalo anstataŭ **ev**: **videvī** → **vīdī**, **legevī** → **lēgī**. (Koincide, malregulaj verboj havas malregulan pasivan participon, ekzemple: **vidĕta** → **visa**, **legĕta** → **lecta**.)</small>
+
+<small>Anstataŭ longa **ā** uziĝas longa **ē**: **cāpī** → **cēpī**.</small>
 
 <!--v-->
 
@@ -3503,16 +3484,6 @@ En skriba lingvo uziĝas malregulaj perfektaj verbaj radikoj kun longa vokalo an
 |-|-|
 | mi vidintas | **videvī** <small>**vīdī**</small> |
 | mi legintas | **legevī** <small>**lēgī**</small> |
-
-<!--v-->
-
-Anstataŭ longa **ā** uziĝas longa **ē**.
-
-<!--v-->
-
-| Esperanto | Lingua Classĭca |
-|-|-|
-| mi kaptintas | **capivī** <small>(**~~cāpī~~** → **cēpī**)</small> |
 
 <!--s-->
 
@@ -3561,8 +3532,12 @@ Anstataŭ longa **ā** uziĝas longa **ē**.
 |-|-|
 | jam | **ja** *[ĵa]* |
 | | |
-| (ke eble) mi havu | **havea** *[aĵa]* |
-| | |
+| kaĝo | **cavea** *[kaĵa]* |
+
+<!--v-->
+
+| Esperanto | Lingua Meridionál |
+|-|-|
 | kisi | **basiár** *[baŝar']* |
 
 <!--v-->
@@ -3617,6 +3592,8 @@ Anstataŭ longa **ā** uziĝas longa **ē**.
 | teni | **tér** <small>**tenér**</small> |
 | tiri | **trár** <small>**trahér**</small> |
 
+<!--s-->
+
 # TODO
 
 <!--
@@ -3634,4 +3611,36 @@ La pasivaj participoj estu "regulaj" en Lingua, do estu "scriveta" (aŭ "scrivĕ
 <!-- -aŭ -->
 
 <!-- eo tu elle(s)/ella(s) esso(s) -->
+
+<!-- `TODO korekti → korigi?` -->
+
+<!-- 
+TODO
+baln/bán
+létra
+ -->
+
+<!-- TODO
+ch ph th y x
+z: [ts] [dz] [z]
+zona -iz- (polverizare), -aliz- (legalizare)
+-->
+
+<!--
+s̃s̈
+S̃S̈
+-->
+
+<!-- TODO
+1920'
+Lingua (Occidentale)
+(Nordlik) Sprak
+(Vøshodni) Äzyk
+→ Speranto
+
+1887
+S̃peranto /esperanto/
+
+Symbol: S im Kreis (ca. Ⓢ, aber mit kleinerem Kreis)
+-->
 
