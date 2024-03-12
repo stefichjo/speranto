@@ -2699,7 +2699,7 @@ Multajn vortojn oni povas skribi en eĉ pli etimologia stilo, kaj oni povas uzi 
 
 <!--v-->
 
-#### Mallongaj Formoj
+#### Malregulaj Verboj
 
 <!--v-->
 
@@ -2746,6 +2746,26 @@ Multajn vortojn oni povas skribi en eĉ pli etimologia stilo, kaj oni povas uzi 
 <!--s-->
 
 # Lingua Intermediaria
+
+<!--v-->
+
+## Prononco
+
+<!--v-->
+
+<small>Vortofina **e** eliziiĝas post sufiksoj, kiu finiĝas je **r**, **l**, **n** aŭ **t**. Sufiksofina **t** ĉiam fariĝas **d**.</small>
+
+<!--v-->
+
+| Esperanto | Lingua Intermediaria |
+|-|-|
+| stela | **stellár** |
+| stelaj | **stellares** |
+| | |
+| universitato | **universidád** |
+| universitato | **universidades** |
+| | |
+| estu(j)! | **séd!** |
 
 <!--v-->
 
@@ -2821,13 +2841,27 @@ Multajn vortojn oni povas skribi en eĉ pli etimologia stilo, kaj oni povas uzi 
 
 | Esperanto | Lingua Intermediaria |
 |-|-|
-| mi amintas | **hó amato** |
-| mi amintis | **havevo amato** |
-| mi amintos | **haró amato** |
+| mi amintas | **hó amado** |
+| mi amintis | **havevo amado** |
+| mi amintos | **haró amado** |
 
 <!--v-->
 
-#### Mallongaj Formoj
+<small>En la as-tempo, radikofina **i** fariĝas **e**, dum en la pasiva participo, radikofina **e** fariĝas **i**.</small>
+
+<!--v-->
+
+| Esperanto | Lingua Intermediaria |
+|-|-|
+| li vidas | **vide** |
+| vidata | **vidida** |
+| | |
+| li aŭdas | **aude** |
+| aŭdita | **audida** |
+
+<!--v-->
+
+#### Malregulaj Verboj
 
 <!--v-->
 
@@ -2840,6 +2874,18 @@ Multajn vortojn oni povas skribi en eĉ pli etimologia stilo, kaj oni povas uzi 
 | ni estas | **sómos** |
 | vi estas | **séis** |
 | ili estas | **són** |
+
+<!--v-->
+
+| Esperanto | Lingua Intermediaria |
+|-|-|
+| mi estintas | **hó sido** <small>**fui**</small> |
+| ci estintas | **hás sido** <small>**fuiste**</small> |
+| li estintas | **há sido** <small>**fue**</small> |
+| | |
+| ni estintas | **hémos sido** <small>**fuimos**</small> |
+| vi estintas | **héis sido** <small>**fuistes**</small> |
+| ili estintas | **hán sido** <small>**fueron**</small> |
 
 <!--v-->
 
@@ -2864,9 +2910,6 @@ Multajn vortojn oni povas skribi en eĉ pli etimologia stilo, kaj oni povas uzi 
 | | |
 | mi havus | **haría** |
 
-<!-- havéamos haveámos, haveáis -->
-<!-- oceano -->
-
 <!--v-->
 
 | Esperanto | Lingua Intermediaria |
@@ -2878,6 +2921,16 @@ Multajn vortojn oni povas skribi en eĉ pli etimologia stilo, kaj oni povas uzi 
 | ni iras | **vámos** |
 | vi iras | **váis** |
 | ili iras | **ván** |
+
+<!--v-->
+
+Por la perfektaj formoj de **ír** uziĝas la verbo **sér**.
+
+<!--v-->
+
+| Esperanto | Lingua Intermediaria |
+|-|-|
+| mi irintas | **hó ido** <small>**fui**</small> |
 
 <!--v-->
 
@@ -2923,49 +2976,49 @@ Multajn vortojn oni povas skribi en eĉ pli etimologia stilo, kaj oni povas uzi 
 
 | Esperanto | Lingua Intermediaria |
 |-|-|
-| mi amintas | **hó amato** <small>**amái**</small> |
-| ci amintas | **hás amato** <small>**amásti**</small> |
-| li amintas | **há amato** <small>**amáu**</small> |
+| mi amintas | **hó amado** <small>**amái**</small> |
+| ci amintas | **hás amado** <small>**amáste**</small> |
+| li amintas | **há amado** <small>**amáu**</small> |
 | | |
-| ni amintas | **hémos amato** <small>**amámo**</small> |
-| vi amintas | **héis amato** <small>**amáste**</small> |
-| ili amintas | **hán amato** <small>**amáron**</small> |
+| ni amintas | **hémos amado** <small>**amámo**</small> |
+| vi amintas | **héis amado** <small>**amástes**</small> |
+| ili amintas | **hán amado** <small>**amáron**</small> |
 
 <!--v-->
 
 | Esperanto | Lingua Intermediaria |
 |-|-|
-| mi amintis | **havevo amato** <small>**amára**</small> |
-| ci amintis | **havevas amato** <small>**amáras**</small> |
-| li amintis | **haveva amato** <small>**amára**</small> |
+| mi amintis | **havevo amado** <small>**amára**</small> |
+| ci amintis | **havevas amado** <small>**amáras**</small> |
+| li amintis | **haveva amado** <small>**amára**</small> |
 | | |
-| ni amintis | **havevamos amato** <small>**amáramos**</small> |
-| vi amintis | **haveváis amato** <small>**amárais**</small> |
-| ili amintis | **havevan amato** <small>**amáran**</small> |
+| ni amintis | **havevamos amado** <small>**amáramos**</small> |
+| vi amintis | **haveváis amado** <small>**amárais**</small> |
+| ili amintis | **havevan amado** <small>**amáran**</small> |
 
 <!--v-->
 
 | Esperanto | Lingua Intermediaria |
 |-|-|
-| (ke) mi amintas | **havea amato** <small>**amár**</small> |
-| (ke) ci amintas | **haveas amato** <small>**amáres**</small> |
-| (ke) li amintas | **havea amato** <small>**amár**</small> |
+| (ke) mi amintas | **havea amado** <small>**amár**</small> |
+| (ke) ci amintas | **haveas amado** <small>**amáres**</small> |
+| (ke) li amintas | **havea amado** <small>**amár**</small> |
 | | |
-| (ke) ni amintas | **haveamos amato** <small>**amáremos**</small> |
-| (ke) vi amintas | **haveáis amato** <small>**amáreis**</small> |
-| (ke) ili amintas | **havean amato** <small>**amáren**</small> |
+| (ke) ni amintas | **haveámos amado** <small>**amáremos**</small> |
+| (ke) vi amintas | **haveáis amado** <small>**amáreis**</small> |
+| (ke) ili amintas | **havean amado** <small>**amáren**</small> |
 
 <!--v-->
 
 | Esperanto | Lingua Intermediaria |
 |-|-|
-| (ke) mi amintis | **havevo amato** <small>**amásse**</small> |
-| (ke) ci amintis | **havevas amato** <small>**amásses**</small> |
-| (ke) li amintis | **haveva amato** <small>**amásse**</small> |
+| (ke) mi amintis | **havevo amado** <small>**amásse**</small> |
+| (ke) ci amintis | **havevas amado** <small>**amásses**</small> |
+| (ke) li amintis | **haveva amado** <small>**amásse**</small> |
 | | |
-| (ke) ni amintis | **havevamos amato** <small>**amássemos**</small> |
-| (ke) vi amintis | **haveváis amato** <small>**amásseis**</small> |
-| (ke) ili amintis | **havevan amato** <small>**amássen**</small> |
+| (ke) ni amintis | **havevamos amado** <small>**amássemos**</small> |
+| (ke) vi amintis | **haveváis amado** <small>**amásseis**</small> |
+| (ke) ili amintis | **havevan amado** <small>**amássen**</small> |
 
 <!--v-->
 
@@ -3196,7 +3249,7 @@ Duoblaj vokaloj en finaĵoj estas skribataj kun makrono.
 
 <small>`*` (En la Latina, uziĝas **-veri** anstataŭ **-vere**: **amāverimus**.)</small>
 
-<small>`**` La ke-intis-tempo uziĝas kiel se-us-modo.</small>
+<small>`**` La ke-intis-tempo uziĝas kiel se-us-modo por ne-realigeblaj situacioj.</small>
 
 <!--v-->
 
@@ -3248,7 +3301,7 @@ Duoblaj vokaloj en finaĵoj estas skribataj kun makrono.
 
 <!--v-->
 
-### Mallongaj Formoj
+### Malregulaj Verboj
 
 <!--v-->
 
@@ -3264,7 +3317,7 @@ Duoblaj vokaloj en finaĵoj estas skribataj kun makrono.
 
 <!--v-->
 
-<small>La perfekta radiko de **sér** estas **f**.</small>
+<small>La perfekta radiko de **sér** estas **f**. La perfektaj sufiksoj tiam skribiĝas kun **u** anstataŭ **v**: **fvī** → **fuī**.</small>
 
 <!--v-->
 
@@ -3290,9 +3343,31 @@ Duoblaj vokaloj en finaĵoj estas skribataj kun makrono.
 | vi estintis | **fueratis** |
 | ili estintis | **fuerant** |
 
-<!-- essevī essevisti essevit essevĭmus essevistis esserunt -->
+<!--v-->
 
-<!-- intas, intis de "esti" fariĝas tiuj de "iri", almenaŭ en Lingua Intermediaria. -->
+| Esperanto | Lingua Intermediaria |
+|-|-|
+| (ke) mi estintas | **fuerem** |
+| (ke) ci estintas | **fueres** |
+| (ke) li estintas | **fueret** |
+| | |
+| (ke) ni estintas | **fuerĕmus** |
+| (ke) vi estintas | **fuerĕtis** |
+| (ke) ili estintas | **fuerent** |
+
+<!--v-->
+
+| Esperanto | Lingua Intermediaria |
+|-|-|
+| (ke) mi estintis | **fuissem** |
+| (ke) ci estintis | **fuisses** |
+| (ke) li estintis | **fuisset** |
+| | |
+| (ke) ni estintis | **fuissemus** |
+| (ke) vi estintis | **fuissetis** |
+| (ke) ili estintis | **fuissent** |
+
+<!--v-->
 
 ### Malregulaj Verboj
 
@@ -3327,13 +3402,34 @@ Anstataŭ longa **ā** uziĝas longa **ē**.
 
 <!--v-->
 
-**h** estas muta en **Lingua Meridionál**.
+**h** estas muta.
 
 <!--v-->
 
 | Esperanto | Lingua Meridionál |
 |-|-|
 | horo | **hora** *[ora]* |
+
+<!--v-->
+
+<small>**r** kaj **l** prononciĝas (softa) *[ĥ]* respektive *[ŭ]* fine de la vorto aŭ antaŭ konsonanto.</small>
+
+<!--v-->
+
+| Esperanto | Lingua Meridionál |
+|-|-|
+| universala | **universál** *[univeĥsaŭ']* |
+| universalaj | **universales** *[univeĥsales]* |
+
+<!--v-->
+
+<small>Neakcentata **di** prononciĝas *[ĝ]* antaŭ vokalo.</small>
+
+<!--v-->
+
+| Esperanto | Lingua Meridionál |
+|-|-|
+| suda | **meridionál** *[meriĝonaŭ']* |
 
 <!--v-->
 
@@ -3352,25 +3448,13 @@ Anstataŭ longa **ā** uziĝas longa **ē**.
 | Esperanto | Lingua Meridionál |
 |-|-|
 | diri | **dír** <small>**dicér**</small> |
+| konduki | **dúr** <small>**ducér**</small> |
 | legi | **lér** <small>**legér**</small> |
 | meti | **pór** <small>**ponér**</small> |
+| teni | **tér** <small>**tenér**</small> |
 | tiri | **trár** <small>**trahér**</small> |
 
-<!-- perfektaj formoj de esti kaj iri. -->
-
 <!-- eo tu elle(s)/ella(s) esso(s) -->
-
-<!-- 
--ate -át -ád
--ale -ál -áł
--are -ár -áĥ
--ane -án -áǫ
--->
-
-<!-- Lingua "=" Lingua Meridionál
-Lingua Meridionál | Lingua Intermediaria | Lingua Classĭca
-k/s, t/s | k/th (c), t/th | k, t
--->
 
 <!--
 La pasivaj participoj estu "regulaj" en Lingua, do estu "scriveta" (aŭ "scrivĕta"?), dum en Lingua Meridionál estu "scripta". -->
