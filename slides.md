@@ -337,11 +337,11 @@ Note:
 
 | | | | | |
 |-|-|-|-|-|
-| *kiu ajn*  | **un-qui** | | *ĉiu*  | **qui-quĕ** |
-| *kio ajn*  | **un-que** | | *ĉio*  | **que-quĕ** |
-| *kia ajn*  | **un-qua** | | *ĉia*  | **qua-quĕ** |
-| *kie ajn*  | **un-quo** | | *ĉie*  | **quo-quĕ** |
-| *kien ajn* | **un-quu** | | *ĉien* | **quu-quĕ** |
+| *iu ajn*  | **un-qui** | | *ĉiu*  | **qui-quĕ** |
+| *io ajn*  | **un-que** | | *ĉio*  | **que-quĕ** |
+| *ia ajn*  | **un-qua** | | *ĉia*  | **qua-quĕ** |
+| *ie ajn*  | **un-quo** | | *ĉie*  | **quo-quĕ** |
+| *ien ajn* | **un-quu** | | *ĉien* | **quu-quĕ** |
 
 <!--v-->
 
@@ -1735,13 +1735,6 @@ Symbol: S im Kreis (ca. Ⓢ, aber mit kleinerem Kreis)
 
 # 2024-03
 
-<!-- TODO
-| Esperanto | Speranto |
-|-|-|
-| leĝo | leĵo `?` |
-| reĝo | reĵo `?` |
--->
-
 <!--s-->
 
 # Esperanto
@@ -1760,7 +1753,7 @@ Symbol: S im Kreis (ca. Ⓢ, aber mit kleinerem Kreis)
 
 <!--v-->
 
-## Slav-Ĝermana Prononco
+## Prononco
 
 <!--v-->
 
@@ -2039,10 +2032,7 @@ Oni povas prononci "'" kiel /ə/ (ŝvaon). Ŝvao neniam portas la akcenton.
 | iri | vadi |
 | stari | sti`*` |
 
-<small>`*` Same *di* (Esperanto: *doni*) portas la akcenton sur la finaĵo.</small>
-
-<!-- "du" → ? -->
-<!-- resti redi -->
+<small>`*` Same *di* (Esperanto: *doni*) portas la akcenton sur la finaĵo: **di**, **das**, **dis**, **dos**, **du!**.</small>
 
 <!--v-->
 
@@ -2063,7 +2053,7 @@ Oni povas prononci "'" kiel /ə/ (ŝvaon). Ŝvao neniam portas la akcenton.
 
 <!--v-->
 
-**Peranto** havas precipe latinidaj vortojn.
+**Peranto** havas precipe latinidajn vortojn.
 
 <!--v-->
 
@@ -2207,7 +2197,11 @@ Multajn vortojn oni povas skribi en eĉ pli etimologia stilo, kaj oni povas uzi 
 
 <!--v-->
 
-## c
+## Prononco
+
+<!--v-->
+
+### c
 
 <!--v-->
 
@@ -2225,7 +2219,7 @@ Multajn vortojn oni povas skribi en eĉ pli etimologia stilo, kaj oni povas uzi 
 
 <!--v-->
 
-## g
+### g
 
 <!--v-->
 
@@ -2243,7 +2237,7 @@ Multajn vortojn oni povas skribi en eĉ pli etimologia stilo, kaj oni povas uzi 
 
 <!--v-->
 
-## t
+### t
 
 <!--v-->
 
@@ -2255,7 +2249,7 @@ Multajn vortojn oni povas skribi en eĉ pli etimologia stilo, kaj oni povas uzi 
 
 <!--v-->
 
-## d
+### d
 
 <!--v-->
 
@@ -2265,7 +2259,7 @@ Multajn vortojn oni povas skribi en eĉ pli etimologia stilo, kaj oni povas uzi 
 
 <!--v-->
 
-## b/v
+### b/v
 
 <!--v-->
 
@@ -2280,7 +2274,7 @@ Multajn vortojn oni povas skribi en eĉ pli etimologia stilo, kaj oni povas uzi 
 
 <!--v-->
 
-## j/i
+### j/i
 
 <!--v-->
 
@@ -2292,7 +2286,7 @@ Multajn vortojn oni povas skribi en eĉ pli etimologia stilo, kaj oni povas uzi 
 
 <!--v-->
 
-## v/u
+### v/u
 
 <!--v-->
 
@@ -2302,7 +2296,7 @@ Multajn vortojn oni povas skribi en eĉ pli etimologia stilo, kaj oni povas uzi 
 
 <!--v-->
 
-## ĭc
+### ĭc
 
 <!--v-->
 
@@ -2312,7 +2306,7 @@ Multajn vortojn oni povas skribi en eĉ pli etimologia stilo, kaj oni povas uzi 
 
 <!--v-->
 
-## ĕr/ĭl/ŭl
+### ĕr/ĭl/ŭl
 
 <!--v-->
 
@@ -2327,7 +2321,7 @@ Multajn vortojn oni povas skribi en eĉ pli etimologia stilo, kaj oni povas uzi 
 
 <!--v-->
 
-## Duoblaj Konsonantoj
+### Duoblaj Konsonantoj
 
 <!--v-->
 
@@ -2339,7 +2333,7 @@ Multajn vortojn oni povas skribi en eĉ pli etimologia stilo, kaj oni povas uzi 
 
 <!--v-->
 
-## ss, s
+### ss, s
 
 <!--v-->
 
@@ -2350,7 +2344,7 @@ Multajn vortojn oni povas skribi en eĉ pli etimologia stilo, kaj oni povas uzi 
 
 <!--v-->
 
-## x
+### x
 
 <!--v-->
 
@@ -2361,7 +2355,7 @@ Multajn vortojn oni povas skribi en eĉ pli etimologia stilo, kaj oni povas uzi 
 
 <!--v-->
 
-## Grekismoj
+### Grekismoj
 
 <!--v-->
 
@@ -2424,7 +2418,11 @@ Multajn vortojn oni povas skribi en eĉ pli etimologia stilo, kaj oni povas uzi 
 
 <!--v-->
 
-## -o/-u → -e/-i
+## Prononco
+
+<!--v-->
+
+### -o/-u → -e/-i
 
 <!--v-->
 
@@ -2436,7 +2434,7 @@ Multajn vortojn oni povas skribi en eĉ pli etimologia stilo, kaj oni povas uzi 
 
 <!--v-->
 
-## -e/-i → -o/-u
+### -e/-i → -o/-u
 
 <!--v-->
 
@@ -2448,7 +2446,11 @@ Multajn vortojn oni povas skribi en eĉ pli etimologia stilo, kaj oni povas uzi 
 
 <!--v-->
 
-## -oi/-ai → -es/-as
+## Fleksio
+
+<!--v-->
+
+### -oi/-ai → -es/-as
 
 <!--v-->
 
@@ -2458,7 +2460,7 @@ Multajn vortojn oni povas skribi en eĉ pli etimologia stilo, kaj oni povas uzi 
 
 <!--v-->
 
-## -s → -n
+### -s → -n
 
 <!--v-->
 
@@ -2468,7 +2470,7 @@ Multajn vortojn oni povas skribi en eĉ pli etimologia stilo, kaj oni povas uzi 
 
 <!--v-->
 
-## -n → (a)
+### -n → (a)
 
 <!--v-->
 
@@ -2501,14 +2503,41 @@ Multajn vortojn oni povas skribi en eĉ pli etimologia stilo, kaj oni povas uzi 
 
 | Esperanto | Lingue |
 |-|-|
-| tiu | **tiu** *[tju]* |
-| neniu | **neniu** *[nenju]* |
+| tiu | **tii** *[tji]* |
+| neniu | **nenii** *[nenji]* |
 | | |
-| iu | **uniu** *[unju]* |
-| ĉiu | **omniu** *[omnju]* |
+| iu | **unii** *[unji]* |
+| ĉiu | **omnii** *[omnji]* |
 | | |
-| ĉi tiu | **ce tiu** *[ce tju]* |
-| iu ajn | **unqŭiu** *[unkju]* |
+| ĉi tiu | **ce tii** *[ce tji]* |
+| iu ajn | **unqŭii** *[unkji]* |
+
+<!--v-->
+
+## Pronomoj
+
+<!--v-->
+
+| Esperanto | Lingue |
+|-|-|
+| ŝi | **elli** |
+| li | **olli** |
+| ri | **ulli** |
+| ĝi/li | **li** |
+| | |
+| ili | **illi** |
+| | |
+| si | **si** |
+
+<!--v-->
+
+| Esperanto | Lingue |
+|-|-|
+| mi | **mi** |
+| ci | **ti** |
+| | |
+| ni | **ni** |
+| vi | **vi** |
 
 <!--s-->
 
@@ -2542,8 +2571,6 @@ Multajn vortojn oni povas skribi en eĉ pli etimologia stilo, kaj oni povas uzi 
 | universa | **universale** |
 | stela | **stellare** |
 
-<!-- Sufiksoj estu uzataj nur por krei neologismojn, ne kiel ordinara meĥanismo por krei ekzemple adjektivojn. -->
-
 <!--v-->
 
 ## Adverboj
@@ -2554,9 +2581,98 @@ Multajn vortojn oni povas skribi en eĉ pli etimologia stilo, kaj oni povas uzi 
 |-|-|
 | sole | **solamente** |
 
-<!-- `TODO: facilemente/facilmente` -->
-<!-- `TODO: bene` -->
-<!-- `TODO: solo` -->
+<!--v-->
+
+<!--v-->
+
+## Tabelvortoj
+
+<!--v-->
+
+| Esperanto | Lingua |
+|-|-|
+| kiam | **quo** <small>**quando** (Lingue: (**quan**))</small> |
+| kiom | **quo** <small>**quanto** (Lingue: (**quam**))</small> |
+| kial | **quo** <small>**quare** (Lingue: (**qual**))</small> |
+| kiel | **quo** <small>**quomo** (Lingue: (**quom**))</small> |
+| | |
+| kies | **qua** <small>**quius** (Lingue: (**quis**))</small> |
+
+<!--v-->
+
+| Esperanto | Lingua |
+|-|-|
+| tiu | **illi** *[ili]* |
+| neniu | **nilli** *[nili]* |
+| | |
+| iu | **alĭ-qui** *[ali-kŭi]* |
+| ĉiu | **qui-qui** *[kŭikŭe]* |
+| | |
+| ĉi tiu | **eccu-illi** *[eku-ili]* |
+| iu ajn | **alĭ-qui-que** *[ali-kŭi-kŭe]* |
+
+<!--v-->
+
+| Esperanto | Lingua |
+|-|-|
+| kia | **qua** <small>**quale**</small> |
+| kie | **quo** <small>**ubi**</small> |
+| kien | **quu** <small>**ad ubi**</small> |
+
+<!--v-->
+
+| Esperanto | Lingua |
+|-|-|
+| tia | **illa** <small>**tale**</small> |
+
+<!--v-->
+
+| Esperanto | Lingua |
+|-|-|
+| ne | **nillo** <small>**no**</small> |
+
+<!--v-->
+
+| Esperanto | Lingua |
+|-|-|
+| ĉiam | **quo-que** <small>**semper**</small> |
+| ĉiu | **qua-que** <small>**omnia**</small> |
+
+<!--v-->
+
+| Esperanto | Lingua |
+|-|-|
+| ĉi tiu | **eccu-illi** <small>**quelli**</small> |
+| ĉi tie | **eccu-illo** <small>**quello**, **hoc**, **ibi**</small> |
+| ĉi tiel | **eccu-illo** <small>**quello**, **sic**</small> |
+| ĉi tiam | **eccu-illo** <small>**quello**, **nunc**</small> |
+| ĉi tiom | **eccu-illo** <small>**quello**, **tanto**</small> |
+| ĉi tien | **eccu-illu** <small>**quellu**, **huc**</small> |
+
+## Pronomoj
+
+<!--v-->
+
+| Esperanto | Lingua |
+|-|-|
+| ŝi(a) | **elle(a)** |
+| li(a) | **olle(a)** |
+| ri(a) | **ulle(a)** |
+| ĝi(a)/li(a) | **(de)le** |
+| | |
+| ili(a) | **(de)les** <small>(Lingue: **illi(a)**)</small> |
+| | |
+| si(a) | **se(a)** |
+
+<!--v-->
+
+| Esperanto | Lingua |
+|-|-|
+| mi(a) | **me(a)** |
+| ci(a) | **te(a)** |
+| | |
+| ni(a) | **nos(sa)** |
+| vi(a) | **vos(sa)** |
 
 <!--v-->
 
@@ -2574,13 +2690,11 @@ Multajn vortojn oni povas skribi en eĉ pli etimologia stilo, kaj oni povas uzi 
 | vidi | **vidér** |
 | aŭdi | **audír** |
 
-<!--v-->
-
-### Konjugacio
+<small>La kromsigno super la vokalo precipe signifas elizion. Nur kiel kromefiko, la akcento falas sur la kromsignita vokalo.</small>
 
 <!--v-->
 
-#### Imperativo
+### Imperativo
 
 <!--v-->
 
@@ -2592,7 +2706,7 @@ Multajn vortojn oni povas skribi en eĉ pli etimologia stilo, kaj oni povas uzi 
 
 <!--v-->
 
-#### Imperfekto
+### Imperfekto
 
 <!--v-->
 
@@ -2651,7 +2765,7 @@ Multajn vortojn oni povas skribi en eĉ pli etimologia stilo, kaj oni povas uzi 
 
 <!--v-->
 
-#### Pasivo
+### Pasivo
 
 <!--v-->
 
@@ -2671,7 +2785,7 @@ Multajn vortojn oni povas skribi en eĉ pli etimologia stilo, kaj oni povas uzi 
 
 <!--v-->
 
-#### Perfekto
+### Perfekto
 
 <!--v-->
 
@@ -2699,7 +2813,7 @@ Multajn vortojn oni povas skribi en eĉ pli etimologia stilo, kaj oni povas uzi 
 
 <!--v-->
 
-#### Malregulaj Verboj
+### Malregulaj Verboj
 
 <!--v-->
 
@@ -2762,6 +2876,9 @@ Multajn vortojn oni povas skribi en eĉ pli etimologia stilo, kaj oni povas uzi 
 | stela | **stellár** |
 | stelaj | **stellares** |
 | | |
+| facila | **fácil** |
+| facile | **facilmente** |
+| | |
 | universitato | **universidád** |
 | universitato | **universidades** |
 | | |
@@ -2769,11 +2886,24 @@ Multajn vortojn oni povas skribi en eĉ pli etimologia stilo, kaj oni povas uzi 
 
 <!--v-->
 
+## Adverboj
+
+| Esperanto | Lingua Intermediaria |
+|-|-|
+| alte | **altamente** <small>**alto**</small> |
+| nur | **solamente** <small>**solo**</small> |
+
+### Malregulaj Adverboj
+
+| Esperanto | Lingua Intermediaria |
+|-|-|
+| bone | **bene** |
+
 ## Verboj
 
 <!--v-->
 
-### Konjugacio
+### Imperfekto
 
 <!--v-->
 
@@ -2839,14 +2969,6 @@ Multajn vortojn oni povas skribi en eĉ pli etimologia stilo, kaj oni povas uzi 
 
 <!--v-->
 
-| Esperanto | Lingua Intermediaria |
-|-|-|
-| mi amintas | **hó amado** |
-| mi amintis | **havevo amado** |
-| mi amintos | **haró amado** |
-
-<!--v-->
-
 <small>En la as-tempo, radikofina **i** fariĝas **e**, dum en la pasiva participo, radikofina **e** fariĝas **i**.</small>
 
 <!--v-->
@@ -2861,7 +2983,133 @@ Multajn vortojn oni povas skribi en eĉ pli etimologia stilo, kaj oni povas uzi 
 
 <!--v-->
 
-#### Malregulaj Verboj
+### Subjunktivo
+
+<!--v-->
+
+<small>En skriba lingvo, la formo de la volitivo (ke-u-modo) de **Lingua** uziĝas nur por realigeblaj situacioj. (Tiu volitivo estas analizebla kiel ke-as-tempo.) Por ne-realigeblaj situacioj uziĝas la ke-is-tempo. (Tiu volitivo estas origine estas la ke-intis-tempo.) En parola lingvo, uziĝas la is-tempo.</small>
+
+<!--v-->
+
+| Esperanto | Lingua Intermediaria |
+|-|-|
+| (ke maleble) mi amu | **amavo** <small>**amásse**</small> |
+| (ke maleble) ci amu | **amavas** <small>**amásses**</small> |
+| (ke maleble) li amu | **amava** <small>**amásse**</small> |
+| | |
+| (ke maleble) ni amu | **amavamos** <small>**amássemos**</small> |
+| (ke maleble) vi amu | **amaváis** <small>**amásseis**</small> |
+| (ke maleble) ili amu | **amavan** <small>**amássen**</small> |
+
+<!--v-->
+
+### Perfekto
+
+<!--v-->
+
+| Esperanto | Lingua Intermediaria |
+|-|-|
+| mi amintas | **hó amado** |
+| mi amintis | **havevo amado** |
+| mi amintos | **haró amado** |
+
+<!--v-->
+
+<small>En skriba lingvo, ekzistas verbaj formoj por la intas- kaj la intis-tempo. En parola lingvo, uziĝas kunmetitaĵoj kun **hár**.</small>
+
+<!--v-->
+
+| Esperanto | Lingua Intermediaria |
+|-|-|
+| mi amintas | **hó amado** <small>**amái**</small> |
+| ci amintas | **hás amado** <small>**amáste**</small> |
+| li amintas | **há amado** <small>**amáu**</small> |
+| | |
+| ni amintas | **hémos amado** <small>**amámo**</small> |
+| vi amintas | **héis amado** <small>**amástes**</small> |
+| ili amintas | **hán amado** <small>**amáron**</small> |
+
+<!--v-->
+
+| Esperanto | Lingua Intermediaria |
+|-|-|
+| mi amintis | **havevo amado** <small>**amára**</small> |
+| ci amintis | **havevas amado** <small>**amáras**</small> |
+| li amintis | **haveva amado** <small>**amára**</small> |
+| | |
+| ni amintis | **havevamos amado** <small>**amáramos**</small> |
+| vi amintis | **haveváis amado** <small>**amárais**</small> |
+| ili amintis | **havevan amado** <small>**amáran**</small> |
+
+<!--v-->
+
+| Esperanto | Lingua Intermediaria |
+|-|-|
+| (ke) mi amintas | **havea amado** <small>**amár**</small> |
+| (ke) ci amintas | **haveas amado** <small>**amáres**</small> |
+| (ke) li amintas | **havea amado** <small>**amár**</small> |
+| | |
+| (ke) ni amintas | **haveámos amado** <small>**amáremos**</small> |
+| (ke) vi amintas | **haveáis amado** <small>**amáreis**</small> |
+| (ke) ili amintas | **havean amado** <small>**amáren**</small> |
+
+<!--v-->
+
+| Esperanto | Lingua Intermediaria |
+|-|-|
+| (ke) mi amintis | **havevo amado** <small>**amásse**</small> |
+| (ke) ci amintis | **havevas amado** <small>**amásses**</small> |
+| (ke) li amintis | **haveva amado** <small>**amásse**</small> |
+| | |
+| (ke) ni amintis | **havevamos amado** <small>**amássemos**</small> |
+| (ke) vi amintis | **haveváis amado** <small>**amásseis**</small> |
+| (ke) ili amintis | **havevan amado** <small>**amássen**</small> |
+
+<!--v-->
+
+### Kondicionalo
+
+<!--v-->
+
+| Esperanto | Lingua Intermediaria |
+|-|-|
+| (se eble) mi amus | **amaría** |
+| (se eble) ci amus | **amarías** |
+| (se eble) li amus | **amaría** |
+| | |
+| (se eble) ni amus | **amaríamos** |
+| (se eble) vi amus | **amaríais** |
+| (se eble) ili amus | **amarían** |
+
+<!--v-->
+
+<small>En skriba lingvo, la ke-intis-tempo uziĝas por la se-us-modo por ne-realigeblaj situacioj.</small>
+
+<!--v-->
+
+| Esperanto | Lingua Intermediaria |
+|-|-|
+| (se maleble) mi amus | **amaría** <small>**amásse**</small> |
+| (se maleble) ci amus | **amarías** <small>**amásses**</small> |
+| (se maleble) li amus | **amaría** <small>**amásse**</small> |
+| | |
+| (se maleble) ni amus | **amaríamos** <small>**amássemos**</small> |
+| (se maleble) vi amus | **amaríais** <small>**amásseis**</small> |
+| (se maleble) ili amus | **amarían** <small>**amássen**</small> |
+
+<!--v-->
+
+<small>La skribaj ke-intis-formoj foje erare uziĝas por realigeblaj volitivoj.</small>
+
+<!--v-->
+
+| Esperanto | Lingua Intermediaria |
+|-|-|
+| (se eble) mi amus | **amaría** <small>**~~amásse~~**</small> |
+
+<!--s-->
+
+### Malregulaj Verboj
 
 <!--v-->
 
@@ -2946,124 +3194,6 @@ Por la perfektaj formoj de **ír** uziĝas la verbo **sér**.
 
 <!--v-->
 
-#### Subjunktivo
-
-<!--v-->
-
-<small>En skriba lingvo, la formo de la volitivo (ke-u-modo) de **Lingua** uziĝas nur por realigeblaj situacioj. (Tiu volitivo estas analizebla kiel ke-as-tempo.) Por ne-realigeblaj situacioj uziĝas la ke-is-tempo. (Tiu volitivo estas origine estas la ke-intis-tempo.) En parola lingvo, uziĝas la is-tempo.</small>
-
-<!--v-->
-
-| Esperanto | Lingua Intermediaria |
-|-|-|
-| (ke maleble) mi amu | **amavo** <small>**amásse**</small> |
-| (ke maleble) ci amu | **amavas** <small>**amásses**</small> |
-| (ke maleble) li amu | **amava** <small>**amásse**</small> |
-| | |
-| (ke maleble) ni amu | **amavamos** <small>**amássemos**</small> |
-| (ke maleble) vi amu | **amaváis** <small>**amásseis**</small> |
-| (ke maleble) ili amu | **amavan** <small>**amássen**</small> |
-
-<!--v-->
-
-#### Perfekto
-
-<!--v-->
-
-<small>En skriba lingvo, ekzistas verbaj formoj por la intas- kaj la intis-tempo. En parola lingvo, uziĝas kunmetitaĵoj kun **hár**.</small>
-
-<!--v-->
-
-| Esperanto | Lingua Intermediaria |
-|-|-|
-| mi amintas | **hó amado** <small>**amái**</small> |
-| ci amintas | **hás amado** <small>**amáste**</small> |
-| li amintas | **há amado** <small>**amáu**</small> |
-| | |
-| ni amintas | **hémos amado** <small>**amámo**</small> |
-| vi amintas | **héis amado** <small>**amástes**</small> |
-| ili amintas | **hán amado** <small>**amáron**</small> |
-
-<!--v-->
-
-| Esperanto | Lingua Intermediaria |
-|-|-|
-| mi amintis | **havevo amado** <small>**amára**</small> |
-| ci amintis | **havevas amado** <small>**amáras**</small> |
-| li amintis | **haveva amado** <small>**amára**</small> |
-| | |
-| ni amintis | **havevamos amado** <small>**amáramos**</small> |
-| vi amintis | **haveváis amado** <small>**amárais**</small> |
-| ili amintis | **havevan amado** <small>**amáran**</small> |
-
-<!--v-->
-
-| Esperanto | Lingua Intermediaria |
-|-|-|
-| (ke) mi amintas | **havea amado** <small>**amár**</small> |
-| (ke) ci amintas | **haveas amado** <small>**amáres**</small> |
-| (ke) li amintas | **havea amado** <small>**amár**</small> |
-| | |
-| (ke) ni amintas | **haveámos amado** <small>**amáremos**</small> |
-| (ke) vi amintas | **haveáis amado** <small>**amáreis**</small> |
-| (ke) ili amintas | **havean amado** <small>**amáren**</small> |
-
-<!--v-->
-
-| Esperanto | Lingua Intermediaria |
-|-|-|
-| (ke) mi amintis | **havevo amado** <small>**amásse**</small> |
-| (ke) ci amintis | **havevas amado** <small>**amásses**</small> |
-| (ke) li amintis | **haveva amado** <small>**amásse**</small> |
-| | |
-| (ke) ni amintis | **havevamos amado** <small>**amássemos**</small> |
-| (ke) vi amintis | **haveváis amado** <small>**amásseis**</small> |
-| (ke) ili amintis | **havevan amado** <small>**amássen**</small> |
-
-<!--v-->
-
-#### Kondicionalo
-
-<!--v-->
-
-| Esperanto | Lingua Intermediaria |
-|-|-|
-| (se eble) mi amus | **amaría** |
-| (se eble) ci amus | **amarías** |
-| (se eble) li amus | **amaría** |
-| | |
-| (se eble) ni amus | **amaríamos** |
-| (se eble) vi amus | **amaríais** |
-| (se eble) ili amus | **amarían** |
-
-<!--v-->
-
-<small>En skriba lingvo, la ke-intis-tempo uziĝas por la se-us-modo por ne-realigeblaj situacioj.</small>
-
-<!--v-->
-
-| Esperanto | Lingua Intermediaria |
-|-|-|
-| (se maleble) mi amus | **amaría** <small>**amásse**</small> |
-| (se maleble) ci amus | **amarías** <small>**amásses**</small> |
-| (se maleble) li amus | **amaría** <small>**amásse**</small> |
-| | |
-| (se maleble) ni amus | **amaríamos** <small>**amássemos**</small> |
-| (se maleble) vi amus | **amaríais** <small>**amásseis**</small> |
-| (se maleble) ili amus | **amarían** <small>**amássen**</small> |
-
-<!--v-->
-
-<small>La skribaj ke-intis-formoj foje erare uziĝas por realigeblaj volitivoj.</small>
-
-<!--v-->
-
-| Esperanto | Lingua Intermediaria |
-|-|-|
-| (se eble) mi amus | **amaría** <small>**~~amásse~~**</small> |
-
-<!--s-->
-
 # Lingua Classĭca
 
 <!--v-->
@@ -3129,7 +3259,7 @@ Duoblaj vokaloj en finaĵoj estas skribataj kun makrono.
 
 <!--v-->
 
-## ss, s
+### ss, s
 
 <!--v-->
 
@@ -3218,10 +3348,6 @@ Duoblaj vokaloj en finaĵoj estas skribataj kun makrono.
 <!--v-->
 
 <small>(La latina gramatiko konas nek ke-os-tempon nek ke-intos-tempon. Anstataŭe, ĝi havas intos-tempon kaj ke-intas-tempon, kiuj suspektinde similas al la latinida (ibera) ke-os-tempo. Evitante tiun konfuzon, **Lingua Classĭca** uzas la kondicionalon (t.e. la do-us-modon je **-ía**, **-ías** ktp.) anstataŭe, kiu ne ekzistas en la Latina.)</small>
-
-<!--v-->
-
-#### Participo
 
 <!--v-->
 
@@ -3369,10 +3495,6 @@ Duoblaj vokaloj en finaĵoj estas skribataj kun makrono.
 
 <!--v-->
 
-### Malregulaj Verboj
-
-<!--v-->
-
 En skriba lingvo uziĝas malregulaj perfektaj verbaj radikoj kun longa vokalo anstataŭ **ev**: **videvī** → **vīdī**, **legevī**. (Koincide, malregulaj verboj havas malregulan pasivan participon, ekzemple: **vidĕta** → **visa**, **legĕta** → **lecta**.)
 
 <!--v-->
@@ -3402,6 +3524,10 @@ Anstataŭ longa **ā** uziĝas longa **ē**.
 
 <!--v-->
 
+### h
+
+<!--v-->
+
 **h** estas muta.
 
 <!--v-->
@@ -3409,6 +3535,10 @@ Anstataŭ longa **ā** uziĝas longa **ē**.
 | Esperanto | Lingua Meridionál |
 |-|-|
 | horo | **hora** *[ora]* |
+
+<!--v-->
+
+### r, l
 
 <!--v-->
 
@@ -3423,13 +3553,46 @@ Anstataŭ longa **ā** uziĝas longa **ē**.
 
 <!--v-->
 
-<small>Neakcentata **di** prononciĝas *[ĝ]* antaŭ vokalo.</small>
+### j
 
 <!--v-->
 
 | Esperanto | Lingua Meridionál |
 |-|-|
-| suda | **meridionál** *[meriĝonaŭ']* |
+| jam | **ja** *[ĵa]* |
+| | |
+| (ke eble) mi havu | **havea** *[aĵa]* |
+| | |
+| kisi | **basiár** *[baŝar']* |
+
+<!--v-->
+
+<small>**di** kaj **ti** prononciĝas *[ĝi]* kaj *[ĉi]*. Antaŭ vokalo, la **i** ne prononciĝas antaŭ vokalo.</small>
+
+<!--v-->
+
+| Esperanto | Lingua Meridionál |
+|-|-|
+| tago | **dia** *[ĝia]* |
+| onklo | **tio** *[ĉio]* |
+| | |
+| seĝo | **sedia** *[seĝa]* |
+| eĉ | **etja** *[eĉa]* |
+
+<!--v-->
+
+### au
+
+<!--v-->
+
+| Esperanto | Lingua Meridionál |
+|-|-|
+| aŭ | **au** *[o]* |
+| oro | **auro** *[oro]* |
+
+<!--v-->
+
+## Pronomoj
 
 <!--v-->
 
@@ -3454,40 +3617,21 @@ Anstataŭ longa **ā** uziĝas longa **ē**.
 | teni | **tér** <small>**tenér**</small> |
 | tiri | **trár** <small>**trahér**</small> |
 
-<!-- eo tu elle(s)/ella(s) esso(s) -->
+# TODO
 
 <!--
-La pasivaj participoj estu "regulaj" en Lingua, do estu "scriveta" (aŭ "scrivĕta"?), dum en Lingua Meridionál estu "scripta". -->
-
-<!-- 
-kva/kvale
-kve/ubi
-kvi/ad ubi
-kvando, kvanto, kvare, kvom / kvo
-kvius / kva
-
-ili nili ali-kvi kvi-kve kveli/eku-ili ali-kvi-kve
+La pasivaj participoj estu "regulaj" en Lingua, do estu "scriveta" (aŭ "scrivĕta"?), dum en Lingua Meridionál estu "scripta".
 -->
 
-<!-- 
-ŝi elu eli ele
-hi olu oli ole
-ri ulu uli ule
-li lu li le
-ili ilu ili ile/les
-si su si se
+<!-- TODO
+| Esperanto | Speranto |
+|-|-|
+| leĝo | leĵo `?` |
+| reĝo | reĵo `?` |
+-->
 
-mi mu mi me/jo
-ci tu (ti) te
-ni nu ni nos/noj
-vi vu vi vos/voj
- -->
-<!-- 
-ila/tale
-nilo/no
 
-kvi-kvo/semper
-kvi-kva/omnia
-kvelo/hok/ibi, sik nunk, tanto
-kvelu/huk
- -->
+<!-- -aŭ -->
+
+<!-- eo tu elle(s)/ella(s) esso(s) -->
+
