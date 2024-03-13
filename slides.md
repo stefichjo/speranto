@@ -1990,7 +1990,20 @@ Oni povas prononci "'" kiel /ə/ (ŝvaon). Ŝvao neniam portas la akcenton.
 
 <!--v-->
 
-### Verboj kun -ar- kaj -ir-
+## Adverboj kaj prepozicioj kun -aŭ
+
+<!--v-->
+
+| Esperanto | Speranto |
+|-|-|
+| baldaŭ | balde |
+| hieraŭ | hiere |
+| | |
+| ĉirkaŭ | cirk' al |
+
+<!--v-->
+
+## Verboj kun -ar- kaj -ir-
 
 <!--v-->
 
@@ -2641,6 +2654,17 @@ Multajn vortojn oni povas skribi en eĉ pli etimologia stilo, kaj oni povas uzi 
 | | |
 | ni(a) | **nos(sa)** |
 | vi(a) | **vos(sa)** |
+
+<!--v-->
+
+<small>En skriba lingvo, la nominativoj de **me** kaj **te** havas apartajn formoj.</small>
+
+<!--v-->
+
+| Esperanto | Lingua |
+|-|-|
+| mi, min | **eo**, **me** |
+| ci, min | **tu**, **te** |
 
 <!--v-->
 
@@ -3567,10 +3591,6 @@ Duoblaj vokaloj en finaĵoj estas skribataj kun makrono.
 
 <!--v-->
 
-## Pronomoj
-
-<!--v-->
-
 ## Verboj
 
 <!--v-->
@@ -3597,7 +3617,7 @@ Duoblaj vokaloj en finaĵoj estas skribataj kun makrono.
 # TODO
 
 <!--
-La pasivaj participoj estu "regulaj" en Lingua, do estu "scriveta" (aŭ "scrivĕta"?), dum en Lingua Meridionál estu "scripta".
+La pasivaj participoj estu "regulaj" (?) en Lingua, do estu "scrivĕta" *[skrivta]*, dum en Lingua Meridionál estu "scripta".
 -->
 
 <!-- TODO
@@ -3607,40 +3627,10 @@ La pasivaj participoj estu "regulaj" en Lingua, do estu "scriveta" (aŭ "scrivĕ
 | reĝo | reĵo `?` |
 -->
 
-
-<!-- -aŭ -->
-
-<!-- eo tu elle(s)/ella(s) esso(s) -->
-
 <!-- `TODO korekti → korigi?` -->
 
-<!-- 
-TODO
-baln/bán
-létra
- -->
-
 <!-- TODO
-ch ph th y x
 z: [ts] [dz] [z]
 zona -iz- (polverizare), -aliz- (legalizare)
--->
-
-<!--
-s̃s̈
-S̃S̈
--->
-
-<!-- TODO
-1920'
-Lingua (Occidentale)
-(Nordlik) Sprak
-(Vøshodni) Äzyk
-→ Speranto
-
-1887
-S̃peranto /esperanto/
-
-Symbol: S im Kreis (ca. Ⓢ, aber mit kleinerem Kreis)
 -->
 
