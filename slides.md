@@ -1704,7 +1704,7 @@ Note:
 
 <!--s-->
 
-# 2024-03
+# Benvenidas!
 
 <!--s-->
 
@@ -3519,6 +3519,23 @@ Duoblaj vokaloj en finaĵoj estas skribataj kun makrono.
 
 <!--v-->
 
+### -e
+
+<!--v-->
+
+<small>Vortofina **e** eliziiĝas post **r**, **l**, **n** aŭ **t**. Radikofina **t** ĉiam fariĝas **d**, krom en fremdaj vortoj.</small>
+
+<!--v-->
+
+| Esperanto | Lingua Meridionál |
+|-|-|
+| maro | **már** |
+| pano | **pán** |
+| reto | **réd** |
+| suno | **sól** |
+
+<!--v-->
+
 ### h
 
 <!--v-->
@@ -3587,6 +3604,8 @@ Duoblaj vokaloj en finaĵoj estas skribataj kun makrono.
 | Esperanto | Lingua Meridionál |
 |-|-|
 | aŭ | **au** *[o]* |
+| | |
+| afero | **causa** *[koza]* |
 | oro | **auro** *[oro]* |
 
 <!--v-->
@@ -3634,3 +3653,5 @@ z: [ts] [dz] [z]
 zona -iz- (polverizare), -aliz- (legalizare)
 -->
 
+<!-- | flanko | **lado** | -->
+<!-- tulli latum -->
