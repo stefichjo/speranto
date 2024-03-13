@@ -2232,6 +2232,20 @@ Duoblaj vokaloj en finaĵoj estas skribataj kun makrono.
 
 <!--v-->
 
+### li, ni, gn
+
+<!--v-->
+
+| Esperanto | Lingua Meridionál |
+|-|-|
+| filo | **filio** *[fiḷo]* |
+| | |
+| stranga | **extrania** *[estraṅa]* |
+| | |
+| regno | **regno** *[reṅo]* |
+
+<!--v-->
+
 ### Elizioj
 
 <!--v-->
@@ -2340,7 +2354,7 @@ zona -iz- (polverizare), -aliz- (legalizare)
 <!-- `TODO korekti → korigi?` -->
 
 <!-- | flanko | **lado** | -->
-<!-- tulli latum -->
+<!-- ferre tuli latus -->
 
 ## Lingua
 
@@ -2380,41 +2394,6 @@ Note:
 
 <!-- Ĉu "non" estas ebla? -->
 
-## Prononco "-atico"
-
-| | | |
-|-|-|-|
-| 🅴 | **villatĭc̄e**               | [villađje] |
-| 🅾 | **villatĭco** = **villâjo** | [vilaĵo]   |
-
-## Prononco "gn"
-
-| | | |
-|-|-|-|
-| 🅰 | **regno** | [reŋno]     |
-| 🅴 | **regne** | [renje]     |
-| 🅾 | **regno** | [reṅo]      |
-| | | |
-| |              | **[regno]** |
-
-## Prononco "li", "ni"
-
-| | | | | | |
-|-|-|-|-|-|-|
-| 🅰 | **familia** | [famili-a]    | | **filio** | [fili-o]   |
-| 🅴 | **familie** | [familje]     | | **filie** | [filje]    |
-| 🅾 | **familio** | [famiḷo]      | | **filio** | [fiḷo]     |
-| | | | | | |
-| |                | **[familio]** | |           | **[filo]** |
-
-| | | | | | |
-|-|-|-|-|-|-|
-| 🅰 | **linea** | [line-a]    | | **extranea** | [ekstrane-a]  |
-| 🅴 | **linie** | [linje]     | | **extrania** | [ekstranja]   |
-| 🅾 | **linio** | [liṅo]      | | **extrania** | [estraṅa]     |
-| | | | | | |
-| |              | **[linio]** | |              | **[stranga]** |
-
 ## -i anstataŭ -oj
 
 Note:
@@ -2448,34 +2427,6 @@ Note:
 * 🅰 **sape**, 🅴 **sapan**, 🅾 **sapas** - *gustas*
 
 * paupera
-
-## nct → nt
-
-| | | |
-|-|-|-|
-| 🅰 | **iuncta** | [iunkta]    |
-| 🅴 | **juncte** | [ĵunkte]    |
-| 🅾 | **jûnto**  | [ĵunto]     |
-| | | |
-|   |             | **[junto]** |
-
-Note:
-* **fînti** - *finti*, **pûnto** - *punto*/*pinto*
-
-## Elizio de g
-
-| | | |
-|-|-|-|
-| 🅰 | **frigĭda** | [frigid-a]  |
-| 🅴 | **frigĭda** | [friđid-a]  |
-| 🅾 | **frîda**   | [frida]     |
-| | | |
-| |                | **[frida]** |
-
-Note:
-* 🅰 **magistro**, 🅴 **maîstro**
-* 🅰 **tragĭno**, 🅴 **trâino**
-* 🅰 **pagêsatĭco**, 🅴 **pâêsâjo**
 
 ## Malfacilaj kazoj
 
@@ -2525,15 +2476,10 @@ Note:
 | | | |  |
 | *naŭa* | **nouta**  | → | **nona**    |
 
-| | | |
-|-|-|-|
-| **francense**  | → | **francês**   |
-
 Note:
 * Elizioj (kaj asimiloj) okazas nur en certaj vort(er)oj
   * konjunkcioj: **et** → **î**, **aut** → **ô**
   * **magis** → **mâis**
-  * En Linguo*: **mêsa**, **mêse**
 
 | | | | |
 |-|-|-|-|
@@ -2553,7 +2499,6 @@ Note:
 Note:
 * 🅰 **mobĭle**, 🅴 **môvĭl**, 🅾 **môvĭł** [moviŭ]
 * 🅰 **stabĭle**, 🅴 **stâble**, 🅾 **stâvĭł** [staviŭ]
-
 
 | | | | |
 |-|-|-|-|
