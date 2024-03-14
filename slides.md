@@ -2228,6 +2228,7 @@ Duoblaj vokaloj en finaĵoj estas skribataj kun makrono.
 | aŭ | **au** *[o]* |
 | | |
 | afero | **causa** *[koza]* |
+| povra | **pauvĕra** *[pove-ra]* |
 | oro | **auro** *[oro]* |
 
 <!--v-->
@@ -2294,13 +2295,44 @@ Duoblaj vokaloj en finaĵoj estas skribataj kun makrono.
 | kostas | **côsta** <small>**con̆sta**</small> |
 | lando | **paêse** <small>**pağen̆se**</small> |
 
+<!--v-->
+
+#### p̆
+
+<!--v-->
+
+| Esperanto | Lingua Meridionál |
+|-|-|
+| konto | **cônto** <small>**comp̆ŭto**</small> |
+
+<!--v-->
+
 #### s̆
 
 <!--v-->
 
 | Esperanto | Lingua Meridionál |
 |-|-|
+| hospitalo | **hotêlo** <small>**hos̆p̆ĭtello**</small> |
 | posttagmezo | **po-meridio** <small>**pos̆-meridio**</small> |
+
+#### l̮
+
+| Esperanto | Lingua Meridionál |
+|-|-|
+| bani | **baniár** <small>**bal̮niár**</small> |
+
+<!--v-->
+
+#### v̆
+
+<!--v-->
+
+| Esperanto | Lingua Meridionál |
+|-|-|
+| parabolo | **parabŏla** |
+| | |
+| paroli | **parlár** <small>**parăv̆ŏlár**</small> |
 
 <!--v-->
 
@@ -2381,6 +2413,19 @@ Note:
 Note:
 * **un**, **du**, **tri**, **quar**, **quin**, **sex**, **sep**, **oc**, **nou**
 
+| | | | |
+|-|-|-|-|
+| *unua* | **unta**   | → | **prima**   |
+| *dua*  | **duta**   | → | **secunda** |
+| *tria* | **trita**  | → | **tertia**  |
+| | | |  |
+| *naŭa* | **nouta**  | → | **nona**    |
+
+Note:
+* Elizioj (kaj asimiloj) okazas nur en certaj vort(er)oj
+  * konjunkcioj: **et** → **î**, **aut** → **ô**
+  * **magis** → **mâis**
+
 ## Artikoloj
 
 * Nedifina artikolo: **una**, **unas**
@@ -2399,50 +2444,10 @@ Note:
 Note:
 * Trokorektema *Linguo*: **amiqŭi** [amiki] anstataŭ **amicoi** [amikoj]
 
-
-## Neakcentataj sufiksoj
-
-* libro libre livro
-
-Note:
-* 🅰 **tabŭla**, 🅴 **tâbla**, 🅾 **tâvla**
-Note:
-* 🅰 **fabŭla**, 🅴 **fâble**, 🅾 **fâvlo**
-
-| | | |
-|-|-|-|
-| 🅰 | **parabŏla**  | [parabol-a]    |
-| 🅴 | **parâble**   | [prable]       |
-| 🅾 | **parâvlo**   | [paravlo]      |
-| | | |
-| |                  | **[parabolo]** |
-
-Note:
-* 🅰 **parabŏlâ**, 🅴 **parâblu**, 🅾 **parâvli** - *palavri*
-
-
 ## p → b
 
 * 🅰 **sape**, 🅴 **saban**, 🅾 **savas** - *scias*
 * 🅰 **sape**, 🅴 **sapan**, 🅾 **sapas** - *gustas*
-
-* paupera
-
-## Malfacilaj kazoj
-
-| | | | | | |
-|-|-|-|-|-|-|
-| 🅰 | **compŭto** | [komput-o]   | | **constá** | [konsta']   |
-| 🅴 | **cônte**   | [konte]      | | **côstu**  | [kostu]     |
-| 🅾 | **cônto**   | [konto]      | | **côsti**  | [kosti]     |
-| | | | | | |
-|   |              | **[konto]**  | |            | **[kosti]** |
-
-Note:
-* 🅰 **hospĭtello**, 🅴 **hôtelle**, 🅾 **hôtéł** [oteŭ'] - *hotelo*
-* 🅰 **balneo**, 🅴 **bânie**, 🅾 **bânio** [baṅo] - *bano*
-* 🅰 **paupĕra**, 🅴 **pôbra**, 🅾 **pôvra** [povra] - *povra*
-* 🅰 **littĕra**, 🅴 **létre** [letre] - *letero*
 
 ## Pronomoj
 
@@ -2465,21 +2470,6 @@ Note:
 
 Note:
 * **manuale**
-
-## Numeraloj
-
-| | | | |
-|-|-|-|-|
-| *unua* | **unta**   | → | **prima**   |
-| *dua*  | **duta**   | → | **secunda** |
-| *tria* | **trita**  | → | **tertia**  |
-| | | |  |
-| *naŭa* | **nouta**  | → | **nona**    |
-
-Note:
-* Elizioj (kaj asimiloj) okazas nur en certaj vort(er)oj
-  * konjunkcioj: **et** → **î**, **aut** → **ô**
-  * **magis** → **mâis**
 
 | | | | |
 |-|-|-|-|
