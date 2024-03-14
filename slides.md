@@ -2496,3 +2496,7 @@ Note:
 
 <!-- aut aud au -->
 <!-- et ed e -->
+
+Estus sufiĉe bele se vokaloj en Lingua Meridionál povus eliziiĝi. Tiam eblus vortoj kiel "rêgla" kaj "lîbro"/"lîvro", "artîclo", "probâble"/"provâvle" kaj tiel plu. Ĉi-momente mi hezitas pro tio, ke kelkaj vortoj pli-malpli necese retenu sian ne-akcentatan vokalon.
+
+Ekzemple, mi ne kredas ke la elizio de -e kaŭzu alian elizion. Do "fâcil" [fasiŭ], "fáciles", sed nen "fac'les". "probabĭle" 'pli frue' fariĝu "probâble", alikaze mi havus "probâbil"/"provâvil" [provaviŭ].
