@@ -897,6 +897,8 @@ Multajn vortojn oni povas skribi en eĉ pli etimologia stilo, kaj oni povas uzi 
 | | |
 | partiklo | **particŭlo** *[partiklo]* <small>*[partiku-lo]*</small> |
 
+<!-- "probabla" estas vorto pruntita el la latina. "provebla" estus "provavla" ("provavi-la"). -->
+
 <!--v-->
 
 ### Duoblaj Konsonantoj
@@ -939,14 +941,22 @@ Multajn vortojn oni povas skribi en eĉ pli etimologia stilo, kaj oni povas uzi 
 
 | Esperanto | Linguo |
 |-|-|
+| akso | **axo** *[akso]* |
 | himno | **hymno** *[himno]* |
+| zono | **zono** *[zono]* |
 | | |
-| fazo | **phaso** *[fazo]* |
+| mobilizi | **mobilizi** *[mobilizi]* |
+
+<!--v-->
+
+| Esperanto | Linguo |
+|-|-|
+| frazo | **phraso** *[frazo]* |
 | temo | **themo** *[temo]* |
 | eĥo | **echo** *[eko]* |
 | ritmo | **rhythmo** *[ritmo]* |
 | | |
-| ortografio | **orthographio** *[ortografio]* |
+| burokratio | **burocratio** *[burokratio]* |
 
 <!--v-->
 
@@ -1129,11 +1139,21 @@ Multajn vortojn oni povas skribi en eĉ pli etimologia stilo, kaj oni povas uzi 
 
 | Esperanto | Lingua |
 |-|-|
-| mano | **mano** |
 | pano | **pane** |
 | rano | **rana** |
 | | |
 | nacio | **natĭo** |
+
+<!--v-->
+
+<small>En skriba lingvo, oni povas uzi latinajn finaĵojn.</small>
+
+<!--v-->
+
+| Esperanto | Lingua |
+|-|-|
+| mano | **mano** <small>**manu**</small> |
+| maro | **mare** <small>**mari**</small> |
 
 <!--v-->
 
@@ -1191,7 +1211,7 @@ Multajn vortojn oni povas skribi en eĉ pli etimologia stilo, kaj oni povas uzi 
 
 | Esperanto | Lingua |
 |-|-|
-| kia | **qua** <small>**quale**</small> |
+| kia | **qua** <small>**quale** / **tâl**</small> |
 | kie | **quo** <small>**ubi**</small> |
 | kien | **quu** <small>**ad ubi**</small> |
 
@@ -1199,13 +1219,14 @@ Multajn vortojn oni povas skribi en eĉ pli etimologia stilo, kaj oni povas uzi 
 
 | Esperanto | Lingua |
 |-|-|
-| tia | **illa** <small>**tale**</small> |
+| tia | **illa** <small>**tale**/**tâl**</small> |
 
 <!--v-->
 
 | Esperanto | Lingua |
 |-|-|
 | ne | **nillo** <small>**no**</small> |
+| nenio | **nille** <small>**nîl**</small> |
 
 <!--v-->
 
@@ -1361,16 +1382,16 @@ Multajn vortojn oni povas skribi en eĉ pli etimologia stilo, kaj oni povas uzi 
 | Esperanto | Lingua |
 |-|-|
 | amata | **amata** |
-| vidata | **vidĕta** |
+| vidata | **vidĕta** *~~[vidta]~~* <small>*[vide-ta]*</small> |
 | aŭdata | **audita** |
 
 <!--v-->
 
 | Esperanto | Lingua |
 |-|-|
-| sta amata | **estas amata** |
-| veni amata | **estas amita** |
-| vâ amata | **estas amota** |
+| estas amata | **sta amata** |
+| estas amita | **veni amata** |
+| estas amota | **vâ amata** |
 
 <!--v-->
 
@@ -1456,13 +1477,16 @@ Multajn vortojn oni povas skribi en eĉ pli etimologia stilo, kaj oni povas uzi 
 
 <!--v-->
 
-<small>Hoketitaj vokaloj estas prononcataj, sed malakcentataj en antaŭlasta pozicio.</small>
+<small>Hoketitaj vokaloj eliziiĝas. Tra bruo, ili restas prononcataj, sed malakcentataj en antaŭlasta pozicio.</small>
 
 <!--v-->
 
 | Esperanto | Lingua Intermediaria |
 |-|-|
-| letero | **littĕra** *[lite-ra]* |
+| letero | **lîtra**  *[litra]* <small>**littĕra** *[lite-ra]*</small> |
+| libera | **lîvra**  *[livra]* <small>**livĕra** *[live-ra]*</small> |
+| libro | **lîvro**  *[livro]* <small>**livĕro** *[live-ro]*</small> |
+| regulo | **rêgla**  *[regla]* <small>**regŭla** *[regu-la]*</small> |
 
 <!--v-->
 
@@ -1481,7 +1505,9 @@ Multajn vortojn oni povas skribi en eĉ pli etimologia stilo, kaj oni povas uzi 
 | universitato | **universidád** |
 | universitato | **universidades** |
 | | |
-| estu(j)! | **sêd!** |
+| estu (vij)! | **sêd!** |
+| | |
+| flanko | **lado** |
 
 <!--v-->
 
@@ -1497,6 +1523,18 @@ Multajn vortojn oni povas skribi en eĉ pli etimologia stilo, kaj oni povas uzi 
 | Esperanto | Lingua Intermediaria |
 |-|-|
 | bone | **bene** |
+
+<!--v-->
+
+## Pronomoj
+
+<!--v-->
+
+| Esperanto | Lingua Intermediaria |
+|-|-|
+| ami cin | **amâr-te** |
+
+<!--v-->
 
 ## Verboj
 
@@ -1894,6 +1932,21 @@ Duoblaj vokaloj en finaĵoj estas skribataj kun makrono.
 
 <!--v-->
 
+## Artikoloj
+
+<!--v-->
+
+<small>**Lingua Classĭca** ne havas artikolojn, nek difinajn nek ne-difinajn.</small>
+
+<!--v-->
+
+| Esperanto | Lingua Classĭca |
+|-|-|
+| la domo | **domo** |
+| domo | **domo** |
+
+<!--v-->
+
 ## Verboj
 
 <!--v-->
@@ -2051,6 +2104,20 @@ Duoblaj vokaloj en finaĵoj estas skribataj kun makrono.
 
 <!--v-->
 
+### Pasivo
+
+<!--v-->
+
+| Esperanto | Lingua Classĭca |
+|-|-|
+| amata/-ita | **amata** |
+| vidata/-ita | **visa** |
+| aŭdata/-ita | **audita** |
+| legata/-ita | **lecta** |
+| kaptata/-ita | **capta** |
+
+<!--v-->
+
 ### Malregulaj Verboj
 
 <!--v-->
@@ -2129,6 +2196,15 @@ Duoblaj vokaloj en finaĵoj estas skribataj kun makrono.
 |-|-|
 | mi vidintas | **videvī** <small>**vīdī**</small> |
 | mi legintas | **legevī** <small>**lēgī**</small> |
+
+<!--v-->
+
+| Esperanto | Lingua Classĭca |
+|-|-|
+| porti | **portare** <small>**ferĕre**</small> |
+| mi portas | **porto** <small>**fero**</small> |
+| mi portintas | **portavī** <small>**tulī**</small> |
+| portata/-ita | **portata** <small>**lata**</small> |
 
 <!--s-->
 
@@ -2228,7 +2304,7 @@ Duoblaj vokaloj en finaĵoj estas skribataj kun makrono.
 | aŭ | **au** *[o]* |
 | | |
 | afero | **causa** *[koza]* |
-| povra | **pauvĕra** *[pove-ra]* |
+| povra | **pauvĕra** *[povra]* <small>*[pove-ra]*</small> |
 | oro | **auro** *[oro]* |
 
 <!--v-->
@@ -2353,7 +2429,7 @@ Duoblaj vokaloj en finaĵoj estas skribataj kun makrono.
 | diri | **dîr** <small>**dicér**</small> |
 | konduki | **dûr** <small>**ducér**</small> |
 | legi | **lêr** <small>**legér**</small> |
-| meti | **pôr** <small>**ponêr**</small> |
+| meti | **pôr** <small>**ponér**</small> |
 | teni | **têr** <small>**tenér**</small> |
 | tiri | **trâr** <small>**trahér**</small> |
 
@@ -2361,142 +2437,33 @@ Duoblaj vokaloj en finaĵoj estas skribataj kun makrono.
 
 # TODO
 
-## Pasiva Participo
-
-<!--
-La pasivaj participoj estu "regulaj" (?) en Lingua, do estu "scrivĕta" *[skrivta]*, dum en Lingua Meridionál estu "scripta".
--->
-
-## Prononco
-
-<!-- TODO
-| Esperanto | Speranto |
-|-|-|
-| leĝo | leĵo `?` |
-| reĝo | reĵo `?` |
--->
-
-<!-- TODO
-z: [ts] [dz] [z]
-zona -iz- (polverizare), -aliz- (legalizare)
--->
-
-## Latinidaj Vortoj
-
-<!-- `TODO korekti → korigi?` -->
-
-<!-- | flanko | **lado** | -->
-<!-- ferre tuli latus -->
-
-## Lingua
+* leĝo leĵo ?
+* reĝo reĵo ?
 
 Note:
-* Substantivo estas la sama kiel la vir-genra formo de la ablativo en la Latina. Sed: **-u** → **-o** (**manu** → **mano**) kaj **-i** → **-e** (**mari** → **mare**).
 * Terminoj povas esti pruntataj el la Latina en sia nominativa formo: **datum**, **data**.
 * Adjektivo estas la sama kiel la in-genra formo en la Latina.
 * Adjektivo *antaŭ* substantivo estas subjektiva, t.e. laŭ la perspektivo de la parolanto / unua persono. Adjektivo *malantaŭ* substantivo estas objektiva, t.e. laŭ la perspektivo de la aŭskultanto / dua persono.
-* En la multenombro, adjektivoj havas la finaĵon **-s**.
 * **home** estas de la latina ablativo, dum **homo** estas de la latina nominativo.
 
-## Numeraloj
-
-| | | | | |
-|-|-|-|-|-|
-| *unu*  | **un**   | | *unua*  | **unta**      |
-| *du*   | **du**   | | *dua*   | **duta**      |
-| *tri*  | **tri**  | | *tria*  | **trita**     |
-| | | | | |
-| *dek*  | **dec**  | | *deka*  | **decesĭma**  |
-| *cent* | **cent** | | *centa* | **centesĭma** |
-| *mil*  | **mil**  | | *mila*  | **millesĭma** |
-
-Note:
-* **un**, **du**, **tri**, **quar**, **quin**, **sex**, **sep**, **oc**, **nou**
-
-| | | | |
-|-|-|-|-|
-| *unua* | **unta**   | → | **prima**   |
-| *dua*  | **duta**   | → | **secunda** |
-| *tria* | **trita**  | → | **tertia**  |
-| | | |  |
-| *naŭa* | **nouta**  | → | **nona**    |
-
-Note:
-* Elizioj (kaj asimiloj) okazas nur en certaj vort(er)oj
-  * konjunkcioj: **et** → **î**, **aut** → **ô**
-  * **magis** → **mâis**
-
-## Artikoloj
+* un du tri quar quin sex sep oc nou
+* dec cent mill
+* unta = prima, duta = secunda, trita = tertia
+* noua = nona
+* decesima centesima millesima
 
 * Nedifina artikolo: **una**, **unas**
 
-Note:
-* **illi** ne uziĝas adjektivece. Anstataŭe, uziĝas **illa**: *tiu domo* = **illa domo**
-<!-- Verŝajne por eviti kolizion / por krei malkoliizion kun la difina artikolo **la**. -->
-<!-- Lingua ne havu artikolojn, nek difinan nek ne-difinan. -->
+* sap- sav- (scias)
+* sap- sap- (gustas)
 
-## Tabelvortoj
+Haveblas inter-paŝo: la adjektivo substantiviĝas. Tiam "bona" fariĝas "bono". Mencii du substantivojn sinsekve estas alia fenomeno, kiu kaŭzas "amico bono" aŭ "bono amico".
+* renverse: illi domo → illa domo
+Efektive Esperanto ja uzas substantivecajn "-iu"-tabelvortojn kiel adjektivojn. Tre pripensige!
 
-<!-- Ĉu "non" estas ebla? -->
+* et ed e
+* aut aud au
+* mağis mâis, mağĭs mâs, mağĭs̆ mâ
 
-## -i anstataŭ -oj
-
-Note:
-* Trokorektema *Linguo*: **amiqŭi** [amiki] anstataŭ **amicoi** [amikoj]
-
-## p → b
-
-* 🅰 **sape**, 🅴 **saban**, 🅾 **savas** - *scias*
-* 🅰 **sape**, 🅴 **sapan**, 🅾 **sapas** - *gustas*
-
-## Pronomoj
-
-| | | |
-|-|-|-|
-| **amare**     | → | **amár**     |
-| **te amare**  | → | **amâr-te**  |
-
-## Gramatiko
-
-| | | |
-|-|-|-|
-| **amico bona** | → | **amico bonå** |
-
-## Latina
-
-| | | |
-|-|-|-|
-| **mano**   | → | **manu**   |
-
-Note:
-* **manuale**
-
-| | | | |
-|-|-|-|-|
-| *kia*     | **quale**  | → | **quâl** |
-| *tia*     | **tale**   | → | **tâl**  |
-| | | | |
-| *nenio*   | **nille**  | → | **nîl**  |
-
-| | | | |
-|-|-|-|-|
-| *agrabla*  | **aggratâble**  | → | **aggratâvĭł**  [agrataviŭ]  |
-| *agrablaj* | **aggratâbles** | → | **aggratâvĭls** [agrataviŭs] |
-| | | | |
-| *facila*   | **fâcĭl**       | → | **fâcĭł**  [fasiŭ]           |
-| *facilaj*  | **facĭles**     | → | **fâcĭłs** [fasiŭs]          |
-
-Note:
-* 🅰 **mobĭle**, 🅴 **môvĭl**, 🅾 **môvĭł** [moviŭ]
-* 🅰 **stabĭle**, 🅴 **stâble**, 🅾 **stâvĭł** [staviŭ]
-
-| | | | |
-|-|-|-|-|
-| *optimuma* | **optĭma** | → | **ôtĭma** |
-
-<!-- aut aud au -->
-<!-- et ed e -->
-
-Estus sufiĉe bele se vokaloj en Lingua Meridionál povus eliziiĝi. Tiam eblus vortoj kiel "rêgla" kaj "lîbro"/"lîvro", "artîclo", "probâble"/"provâvle" kaj tiel plu. Ĉi-momente mi hezitas pro tio, ke kelkaj vortoj pli-malpli necese retenu sian ne-akcentatan vokalon.
-
-Ekzemple, mi ne kredas ke la elizio de -e kaŭzu alian elizion. Do "fâcil" [fasiŭ], "fáciles", sed nen "fac'les". "probabĭle" 'pli frue' fariĝu "probâble", alikaze mi havus "probâbil"/"provâvil" [provaviŭ].
+* amikoj amiki
+* nono/nonio non
