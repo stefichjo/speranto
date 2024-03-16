@@ -1292,6 +1292,8 @@ Multajn vortojn oni povas skribi en eĉ pli etimologia stilo, kaj oni povas uzi 
 | dato | **datum** |
 | datumoj | **data** |
 
+<!--v-->
+
 ## Substantivoj
 
 <!--v-->
@@ -1304,8 +1306,6 @@ Multajn vortojn oni povas skribi en eĉ pli etimologia stilo, kaj oni povas uzi 
 |-|-|
 | pano | **pane** |
 | rano | **rana** |
-| | |
-| nacio | **natĭo** |
 
 <!--v-->
 
@@ -1317,6 +1317,32 @@ Multajn vortojn oni povas skribi en eĉ pli etimologia stilo, kaj oni povas uzi 
 |-|-|
 | mano | **mano** <small>**manu**</small> |
 | maro | **mare** <small>**mari**</small> |
+
+<!--v-->
+
+<small>Substantivigitaj verboj, kiuj finiĝas je **-io** estas pruntitaj el la latina nominativo: **statio** *[stasjo]*.</small>
+
+<!--v-->
+
+| Esperanto | Lingua |
+|-|-|
+| "starado", stacio | **statio** |
+| "starmaniero", staro | **stato** |
+| "staranto", statoro | **statore** |
+| "staraĵo", staturo | **statura** |
+
+<!--v-->
+
+La grek-devenaj ŝajnfinaĵoj **-i**, **-ia** *[ia]*, **-a**, **-e** havas signifojn similajn al la ŝajnfinaĵoj **-io**, **-o**, **-ore**, **-ura**.
+
+<!--v-->
+
+| Esperanto | Lingua |
+|-|-|
+| "lumskribado", fotografado | **photographi** |
+| "lumskribmaniero", fotografio | **photographia** |
+| "lumskribanto", fotografisto | **photographa** |
+| "lumskribaĵo", fotografaĵo | **photographe** |
 
 <!--v-->
 
@@ -1781,7 +1807,13 @@ Multajn vortojn oni povas skribi en eĉ pli etimologia stilo, kaj oni povas uzi 
 
 <!--v-->
 
-## Adjektivoj
+## Substantivo
+
+<!--v-->
+
+| Esperanto | Lingua Intermediaria |
+|-|-|
+| stacio | **statione** *[stasjone]* <small>*[staŧione]*</small> |
 
 <!--v-->
 
@@ -3055,28 +3087,4 @@ La antaŭlasta vokalo estas akcentata. Kiam la antaŭlasta vokalo ne estas akcen
 | *simila* | **simĭle**  *[simi-le]*  |
 | | |
 | *vidos*  | **viderá**  *[videra']*  |
-
-| | |
-|-|-|
-| *"starado"*, *stacio*    | **statione** |
-| *"starmaniero"*, *staro* | **stato**    |
-| *"staranto"*, *statoro*  | **statore**  |
-| *"staraĵo"*, *staturo*   | **statura**  |
-
-La grek-devenaj ŝajnfinaĵoj **-i**, **-ía**, **-a**, **-e** havas signifojn similajn al la ŝajnfinaĵoj **-ione**, **-o**, **-ore**, **-ura**.
-
-| | |
-|-|-|
-| *"lumskribado"*, *fotografado*    | **photographi**  *[fotografi]*  |
-| *"lumskribmaniero"*, *fotografio* | **photographía** *[fotografia]* |
-| *"lumskribanto"*, *fotografisto*  | **photographa**  *[fotografa]*  |
-| *"lumskribaĵo"*, *fotografaĵo*    | **photographe**  *[fotografe]*  |
-
-| | | poezie |
-|-|-|-|
-| *kaj* | **et** | -**qŭĕ** *[-ku-e]* |
-| *multaj kaj severaj* | **multas et graves** | **multas gravesque** *[multas graves-ku-e]* |
-| | | |
-| *ke* | **ce** *[ke]* | - |
-| *mi scias, ke mia amiko laboras* | **me sape, ce mea amico labora** | **sapem mea amico laborare** |
 
