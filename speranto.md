@@ -7,7 +7,7 @@ revealOptions:
   transition: 'fade'
 ---
 
-<!-- reveal-md slides.md -w -->
+<!-- reveal-md speranto.md -w -->
 
 # Bonvenon!
 
@@ -2802,6 +2802,194 @@ Duoblaj vokaloj en finaĵoj estas skribataj kun makrono.
 
 # TODO
 
+***Lingvao*** baziĝas sur la ***Latina***. Dialekto de ***Lingvao*** estas [***Lingveo***](lingue.md). Planlingvoj similaj al ***Lingvao*** estas [***Interlingvao***](https://eo.wikipedia.org/wiki/Interlingvao) kaj [***Gloso***](https://eo.wikipedia.org/wiki/Gloso_(planlingvo)).
+
+***Lingveo*** estas dialekto de [***Lingvao***](lingua.md). Dialekto de ***Lingveo*** estas [***Lingvoo***](linguo.md). Planlingvoj similaj al ***Lingveo*** estas [***Okcidentalo***](https://eo.wikipedia.org/wiki/Okcidentalo), [***Adjuvilo***](https://eo.wikipedia.org/wiki/Adjuvilo) kaj [***Ido***](https://eo.wikipedia.org/wiki/Ido_(lingvo)).
+
+***Lingvoo*** estas dialekto de [***Lingveo***](lingue.md) kaj pruntas el [***Sprako***](sprak.md) kaj [***Jaziko***](jazyk.md). **Lingvoo** havas diversajn akĉentojn. [***Esperanto***](https://eo.wikipedia.org/wiki/Esperanto) estas dialekto de ***Speranto***, t.e. la Slav-Ĝermana akĉento de ***Lingvoo***.
+
+
+**a-Verboj:**
+
+| | cf. |
+|-|-|
+| **secato** | **secto**  |
+
+| | cf. |
+|-|-|
+| **halato**  | **halĭto**  |
+| **spirato** | **spirĭto** |
+
+**i-Verboj:**
+
+| | cf. |
+|-|-|
+| **sancito**  | **sancto**  |
+| **sepelito** | **sepulto** |
+| **salito**   | **salto**   |
+| **sentito**  | **senso**   |
+| **aperito**  | **aperto**  |
+| **coperito** | **coperto** |
+
+**e-Verboj:**
+
+| |
+|-|
+| **debĭto**  |
+| **habĭto**  |
+| **licĭto**  |
+| **valĭto**  |
+| **placĭto** |
+| **iacĭto**  | <!-- iacitūrum -->
+
+| | |
+|-|-|
+| **tergĭto**  | **terso**  |
+| **tenĭto**   | **tento**  |
+| **sedĭto**   | **sesso**  |
+| **tergĭto**  | **terso**  |
+| **spondĭto** | **sponso** |
+| **vidĭto**   | **viso**   |
+| **torquĭto** | **torso**  | <!-- / torto -->
+
+**ĭ-Verboj kaj ĕ-Verboj:**
+
+| |
+|-|
+| **bibĭto** | <!-- scribĭto scripto -->
+| **arguĭto** |
+
+| < dare |
+|-|
+| **credĭto** |
+| **vendĭto** |
+| **perdĭto** |
+| **reddĭto** |
+| **condĭto** |
+
+| | |
+|-|-|
+| ***-c-*** | |
+| **dicĭto**  | **dicto**  |
+| **ducĭto**  | **ducto**  |
+| **facĭto**  | **facto**  |
+| **iacĭto**  | **iacto**  |
+| **spicĭto** | **spïcto** | <!-- ï -->
+| | |
+| ***-g-*** | |
+| **agĭto**    | **acto**    |
+| **-fligĭto** | **-flicto** |
+| **legĭto**   | **lecto**   |
+| **regĭto**   | **recto**   |
+| **tegĭto**   | **tecto**   |
+| | |
+| ***-h-*** | |
+| **trahĭto**  | **tracto**   |
+| **vehĭto**   | **vecto**    |
+| | |
+| ***-n-*** | |
+| **canĭto**  | **canto**  | <!-- supinum "cantum", poet. "canus", cantātum ... :/ -->
+| | |
+| ***-p-*** | |
+| **capĭto**  | **capto**  |
+| **rapĭto**  | **rapto**  |
+
+<!-- ponĭto posĭto -->
+<!-- gignĭto genĭto -->
+<!-- tremĭto ??? -->
+<!-- petĭto petito -->
+<!-- sc: cognoĭto cognĭto -->
+<!-- sc: creto OK -->
+
+| | |
+|-|-|
+| ***-nc-*** | |
+| **vincĭto**  | **victo**  |
+| | |
+| | |
+| ***-d-*** | | <!-- mallonga vokalo + ss / longa vokalo + s -->
+| **cadĭto**   | **caso**   |
+| **cedĭto**   | **cesso**  |
+| **gradĭto**  | **grässo** | <!-- ä -->
+| **laedĭto**  | **laeso**  |
+| **plaudĭto** | **plauso** |
+| **plodĭto**  | **ploso**  |
+| **radĭto**   | **raso**   |
+| **-vadĭto**  | **-vaso**  |
+| | |
+| ***-nd-*** | |
+| **scandĭto**  | **scanso**   |
+| **pandĭto**   | **panso**    | <!-- / passo -->
+| **pendĭto**   | **penso**    |
+| **prendĭto**  | **prenso**   |
+| **fendĭto**   | **fenso**    |
+| **-cändĭto**  | **-cänso**   | <!-- ä -->
+| | |
+| ***-ng-*** | |
+| **pingĭto**  | **picto**   |
+| **fingĭto**  | **ficto**   |
+| **frangĭto** | **fracto**  |
+| **tangĭto**  | **tacto**   |
+| | |
+| ***-ung-*** | |
+| **ungĭto**  | **uncto**    |
+| **pungĭto** | **puncto**   |
+| **fungĭto** | **functo**   |
+| | |
+| ***-rg-*** | |
+| **mergĭto**  | **merso**   |
+| **-pergĭto** | **-perso**  | <!-- perrēctum -->
+| | |
+| | |
+| ***-l-*** | |
+| **colĭto**  | **cǒlto**   | <!-- ǒ -->
+| | |
+| ***-ll-*** | |<!-- pellere pulso -->
+| **fallĭto** | **falso** |
+| | |
+| | |
+| ***-m-*** | |
+| **premĭto** | **presso** |
+| | |
+| | |
+| ***-qu-*** | |
+| **sequĭto** | **secuto** |
+| | |
+| | |
+| ***-rr-*** | |
+| **currĭto** | **curso** |
+| | |
+| | |
+| ***-s-*** | |
+| **pinsĭto** | **pisto**  | <!-- / pinsĭto / pinso / piso -->
+| | |
+| | |
+| ***-t-*** | |
+| **-cutĭto** | **-cusso** |
+| **patĭto**  | **passo**  |
+| | |
+| ***-ct-*** | |
+| **flectĭto** | **flexo** |
+| **nectĭto**  | **nexo**  |
+| | |
+| ***-rt-*** | |
+| **vertĭto**  | **verso** |
+| | |
+| ***-tt-*** | |
+| **mittĭto**  | **misso** |
+| | |
+| | |
+| ***-u-*** | |
+| **fluĭto**   | **fluxo** |
+| |
+| **-gu-** | |
+| **-stinguĭto** | **-stincto** |
+| | |
+| ***-v-*** | |
+| **solvĭto** | **soluto** |
+| **volvĭto** | **voluto** |
+
+
 <!-- Haveblas inter-paŝo: la adjektivo substantiviĝas. Tiam "bona" fariĝas "bono". Mencii du substantivojn sinsekve estas alia fenomeno, kiu kaŭzas "amico bono" aŭ "bono amico".
 * renverse: illi domo → illa domo
 Efektive Esperanto ja uzas substantivecajn "-iu"-tabelvortojn kiel adjektivojn. Tre pripensige! -->
@@ -2845,4 +3033,50 @@ La ŝajnsufikso **-atĭc-** prononciĝas *[ađj]* (= *[aðj]*).
 * karaktero
 
 * canten!
+
+| | | | | | | |
+|-|-|-|-|-|-|-|
+| *mi estas vidata*   | | **me esse videta**   | me esse vidĭta   | *so     vidĭta*  | | ***videor***   |
+| *ci estas vidata*   | | **te esse videta**   | te esse vidĭta   | *es     vidĭta*  | | ***videris***  |
+| *li estas vidata*   | | **le esse videta**   | le esse vidĭta   | *est    vidĭta*  | | ***videtur***  |
+| *ni estas vidataj*  | | **nos esse videtas** | nos esse vidĭtas | *somus  vidĭtas* | | ***videmur***  |
+| *vi estas vidataj*  | | **vos esse videtas** | vos esse vidĭtas | *estis  vidĭtas* | | ***videmĭni*** |
+| *ili estas vidataj* | | **les esse videtas** | les esse vidĭtas | *sont   vidĭtas* | | ***videntur*** |
+
+La antaŭlasta vokalo estas akcentata. Kiam la antaŭlasta vokalo ne estas akcentata, ĝi portas hoketon. Kiam la lasta silabo akceptas la akcenton (pro elizio), ĝi portas dekstran kornon.
+
+| | |
+|-|-|
+| *libera* | **libĕra**  *[libe-ra]*  |
+| *limo*   | **limĭte**  *[limi-te]*  |
+| *nomo*   | **nomĭne**  *[nomi-ne]*  |
+| *rapida* | **rapĭda**  *[rapi-da]*  |
+| *regulo* | **regŭla**  *[regu-la]*  |
+| *simila* | **simĭle**  *[simi-le]*  |
+| | |
+| *vidos*  | **viderá**  *[videra']*  |
+
+| | |
+|-|-|
+| *"starado"*, *stacio*    | **statione** |
+| *"starmaniero"*, *staro* | **stato**    |
+| *"staranto"*, *statoro*  | **statore**  |
+| *"staraĵo"*, *staturo*   | **statura**  |
+
+La grek-devenaj ŝajnfinaĵoj **-i**, **-ía**, **-a**, **-e** havas signifojn similajn al la ŝajnfinaĵoj **-ione**, **-o**, **-ore**, **-ura**.
+
+| | |
+|-|-|
+| *"lumskribado"*, *fotografado*    | **photographi**  *[fotografi]*  |
+| *"lumskribmaniero"*, *fotografio* | **photographía** *[fotografia]* |
+| *"lumskribanto"*, *fotografisto*  | **photographa**  *[fotografa]*  |
+| *"lumskribaĵo"*, *fotografaĵo*    | **photographe**  *[fotografe]*  |
+
+| | | poezie |
+|-|-|-|
+| *kaj* | **et** | -**qŭĕ** *[-ku-e]* |
+| *multaj kaj severaj* | **multas et graves** | **multas gravesque** *[multas graves-ku-e]* |
+| | | |
+| *ke* | **ce** *[ke]* | - |
+| *mi scias, ke mia amiko laboras* | **me sape, ce mea amico labora** | **sapem mea amico laborare** |
 
