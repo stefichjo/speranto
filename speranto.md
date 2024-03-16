@@ -1670,7 +1670,19 @@ La grek-devenaj ŝajnfinaĵoj **-i**, **-ia** *[ia]*, **-a**, **-e** havas signi
 
 <!--v-->
 
-<small>Hoketitaj vokaloj eliziiĝas. Tra bruo, ili restas prononcataj, sed malakcentataj en antaŭlasta pozicio.</small>
+<small>La ŝajnfinaĵoj **-ĭn-** kaj **-ĭt** eliziiĝas.</small>
+
+<!--v-->
+
+| Esperanto | Lingua Intermediaria |
+|-|-|
+| nomo | **nome** <small>**nomĭne** *[nomi-ne]*</small>  |
+| | |
+| limo | **lime** <small>**limĭte** *[limi-te]*</small>  |
+
+<!--v-->
+
+<small>Hoketitaj vokaloj de la ŝajnsufiksoj **-ĕr-**, **-ĭl-** kaj **-ŭl-** eliziiĝas. Tra bruo, ili restas prononcataj, sed malakcentataj en antaŭlasta pozicio.</small>
 
 <!--v-->
 
@@ -1680,6 +1692,9 @@ La grek-devenaj ŝajnfinaĵoj **-i**, **-ia** *[ia]*, **-a**, **-e** havas signi
 | libera | **lîvra**  *[livra]* <small>**livĕra** *[live-ra]*</small> |
 | libro | **lîvro**  *[livro]* <small>**livĕro** *[live-ro]*</small> |
 | regulo | **rêgla**  *[regla]* <small>**regŭla** *[regu-la]*</small> |
+| simila | **sîmle**  *[simle]* <small>**simĭle** *[simi-le]*</small> |
+| | |
+| rapida | **rapĭda** *[rapi-da]* |
 
 <!--v-->
 
@@ -3074,17 +3089,4 @@ La ŝajnsufikso **-atĭc-** prononciĝas *[ađj]* (= *[aðj]*).
 | *ni estas vidataj*  | | **nos esse videtas** | nos esse vidĭtas | *somus  vidĭtas* | | ***videmur***  |
 | *vi estas vidataj*  | | **vos esse videtas** | vos esse vidĭtas | *estis  vidĭtas* | | ***videmĭni*** |
 | *ili estas vidataj* | | **les esse videtas** | les esse vidĭtas | *sont   vidĭtas* | | ***videntur*** |
-
-La antaŭlasta vokalo estas akcentata. Kiam la antaŭlasta vokalo ne estas akcentata, ĝi portas hoketon. Kiam la lasta silabo akceptas la akcenton (pro elizio), ĝi portas dekstran kornon.
-
-| | |
-|-|-|
-| *libera* | **libĕra**  *[libe-ra]*  |
-| *limo*   | **limĭte**  *[limi-te]*  |
-| *nomo*   | **nomĭne**  *[nomi-ne]*  |
-| *rapida* | **rapĭda**  *[rapi-da]*  |
-| *regulo* | **regŭla**  *[regu-la]*  |
-| *simila* | **simĭle**  *[simi-le]*  |
-| | |
-| *vidos*  | **viderá**  *[videra']*  |
 
