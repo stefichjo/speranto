@@ -1361,7 +1361,7 @@ Multajn vortojn oni povas skribi en eĉ pli etimologia stilo, kaj oni povas uzi 
 
 | Esperanto | Lingua |
 |-|-|
-| ne | **nillo** <small>**no**</small> |
+| ne | **nillo** <small>**no**, **non**</small> |
 | nenio | **nille** <small>**nîl**</small> |
 
 <!--v-->
@@ -2755,8 +2755,6 @@ Duoblaj vokaloj en finaĵoj estas skribataj kun makrono.
 # TODO
 
 * mağis mâis, mağĭs mâs, mağĭs̆ mâ (observu )
-
-* nono/nonio non (atentu kolizieton kun 9-a)
 
 Haveblas inter-paŝo: la adjektivo substantiviĝas. Tiam "bona" fariĝas "bono". Mencii du substantivojn sinsekve estas alia fenomeno, kiu kaŭzas "amico bono" aŭ "bono amico".
 * renverse: illi domo → illa domo
