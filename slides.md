@@ -353,7 +353,7 @@ Note:
 
 <!--v-->
 
-#### o → u
+#### o ←→ u
 
 <!--v-->
 
@@ -361,20 +361,12 @@ Note:
 |-|-|
 | prononci | pronunci |
 | mondo | mundo |
-
-<!--v-->
-
-#### u → o
-
-<!--v-->
-
-| Esperanto | Speranto |
-|-|-|
+| | |
 | tuta | tota |
 
 <!--v-->
 
-#### i → e
+#### e ←→ i
 
 <!--v-->
 
@@ -384,7 +376,7 @@ Note:
 
 <!--v-->
 
-#### oj → i
+#### oj
 
 <!--v-->
 
@@ -394,7 +386,7 @@ Note:
 
 <!--v-->
 
-#### ĝ/ĵ → g/j/ĵ
+#### ĝ/ĵ
 
 <!--v-->
 
@@ -410,7 +402,7 @@ Note:
 
 <!--v-->
 
-#### -(i)o → -jo
+#### -(i)o
 
 <!--v-->
 
@@ -439,7 +431,7 @@ Note:
 
 <!--v-->
 
-### i → e
+### e ←→ i
 
 <!--v-->
 
@@ -450,7 +442,7 @@ Note:
 
 <!--v-->
 
-### -ĝ → -bj/-vj
+### -ĝ
 
 <!--v-->
 
@@ -458,10 +450,13 @@ Note:
 |-|-|
 | kaĝo | kavjo |
 | ruĝa | rubja |
+| | |
+| leĝo | lekso |
+| reĝo | rekso |
 
 <!--v-->
 
-### es- → s-/eks-
+### es-
 
 <!--v-->
 
@@ -472,7 +467,7 @@ Note:
 
 <!--v-->
 
-### k → c
+### k
 
 <!--v-->
 
@@ -482,7 +477,7 @@ Note:
 
 <!--v-->
 
-### ĉ → c
+### ĉ
 
 <!--v-->
 
@@ -491,10 +486,6 @@ Note:
 | akĉento | akcento |
 | dolĉa | dulca |
 | voĉo | voco |
-
-<!--v-->
-
-### ĉ/ŝ → k
 
 <!--v-->
 
@@ -511,7 +502,7 @@ Oni povas prononci "'" kiel /ə/ (ŝvaon). Ŝvao neniam portas la akcenton.
 
 <!--v-->
 
-#### -er → -'r
+#### -er
 
 <!--v-->
 
@@ -525,6 +516,8 @@ Oni povas prononci "'" kiel /ə/ (ŝvaon). Ŝvao neniam portas la akcenton.
 
 <small>Oni povas prononci "m'r" kaj "n'r" kiel "mbr" kaj "ndr".</small>
 
+<!--v-->
+
 | Esperanto | Speranto |
 |-|-|
 | ĉambro | kambro <small>kam'ro</small> |
@@ -533,7 +526,7 @@ Oni povas prononci "'" kiel /ə/ (ŝvaon). Ŝvao neniam portas la akcenton.
 
 <!--v-->
 
-#### -il → 'l
+#### -il
 
 <!--v-->
 
@@ -545,7 +538,7 @@ Oni povas prononci "'" kiel /ə/ (ŝvaon). Ŝvao neniam portas la akcenton.
 
 <!--v-->
 
-#### ol/ul → 'l
+#### ol/ul
 
 <!--v-->
 
@@ -556,7 +549,7 @@ Oni povas prononci "'" kiel /ə/ (ŝvaon). Ŝvao neniam portas la akcenton.
 
 <!--v-->
 
-### -u → -v
+### -u
 
 <!--v-->
 
@@ -566,7 +559,7 @@ Oni povas prononci "'" kiel /ə/ (ŝvaon). Ŝvao neniam portas la akcenton.
 
 <!--v-->
 
-### -v → -b
+### -v
 
 <!--v-->
 
@@ -594,6 +587,7 @@ Oni povas prononci "'" kiel /ə/ (ŝvaon). Ŝvao neniam portas la akcenton.
 
 | Esperanto | Speranto |
 |-|-|
+| ambaŭ | ambe |
 | baldaŭ | balde |
 | hieraŭ | hiere |
 | hodiaŭ | hodje |
@@ -602,7 +596,7 @@ Oni povas prononci "'" kiel /ə/ (ŝvaon). Ŝvao neniam portas la akcenton.
 
 <!--v-->
 
-## Verboj kun -ar- kaj -ir-
+## Verboj je -ar kaj -ir
 
 <!--v-->
 
@@ -613,7 +607,7 @@ Oni povas prononci "'" kiel /ə/ (ŝvaon). Ŝvao neniam portas la akcenton.
 | iri | vadi |
 | stari | sti`*` |
 
-<small>`*` Same *di* (Esperanto: *doni*) portas la akcenton sur la finaĵo: **di**, **das**, **dis**, **dos**, **dus**, **du**.</small>
+<small>`*` Same *di* (Esperanto: *doni*) portas la akcenton sur la finaĵo: *di*, *das*, *dis*, *dos*, *dus*, *du*.</small>
 
 <!--v-->
 
@@ -621,12 +615,29 @@ Oni povas prononci "'" kiel /ə/ (ŝvaon). Ŝvao neniam portas la akcenton.
 
 <!--v-->
 
+<small>La ŝajnnumeralo *unu* kaj la ŝajnadverbo *ambaŭ* estas efektive tabelvortoj.</small>
+
+<!--v-->
+
 | Esperanto | Speranto |
 |-|-|
+| unu(j) | unu(j) |
+| | |
 | ambaŭ | ambuj |
-| unu | unu`*` |
 
-<small>`*` T.e. en la senco de "iu certa". Kiel numeralo uziĝas **un**.</small>
+<!--v-->
+
+## Numeraloj
+
+<!--v-->
+
+<small>La numeralo *unu* fariĝas **un** kaj konstrastas al la tabelvorto *unu*.</small>
+
+<!--v-->
+
+| Esperanto | Speranto |
+|-|-|
+| unu | un |
 
 <!--s-->
 
@@ -654,53 +665,14 @@ Oni povas prononci "'" kiel /ə/ (ŝvaon). Ŝvao neniam portas la akcenton.
 
 <!--v-->
 
-## Prepozicioj
+### Fremdaj Vortoj
 
 <!--v-->
 
 | Esperanto | Peranto |
 |-|-|
-| de | de / di`*` |
-| al | ad / a`*` |
-| en | in / en`*` |
-
-<small>`*` La prepozicioj **di**, **a** kaj **en** estas specife por *genitivo*, *dativo* kaj *instrumentalo*. Oni povas uzi anstataŭe la pli ĝeneralajn **de**, **ad** kaj **in**, kiuj ankaŭ estas por *ablativo*, *alativo* kaj *lokativo*.</small>
-
-<!--v-->
-
-| Esperanto | Peranto |
-|-|-|
-| kun | kon |
-
-<!--v-->
-
-| Esperanto | Peranto |
-|-|-|
-| pri | de |
-
-<!--v-->
-
-| Esperanto | Peranto |
-|-|-|
-| krom | escepte de |
-| apud | al lato de |
-
-<!--v-->
-
-| Esperanto | Peranto |
-|-|-|
-| sur ≠ super | super |
-
-<!--v-->
-
-## Konjunkcioj
-
-<!--v-->
-
-| Esperanto | Peranto |
-|-|-|
-| sed | ma |
-| kaj | e |
+| ĝangalo | ĵunglo |
+| toŭfuo | tofuo |
 
 <!--v-->
 
@@ -765,6 +737,56 @@ Oni povas prononci "'" kiel /ə/ (ŝvaon). Ŝvao neniam portas la akcenton.
 | | |
 | ni | nu |
 | vi | vu |
+
+<!--v-->
+
+## Prepozicioj
+
+<!--v-->
+
+| Esperanto | Peranto |
+|-|-|
+| de | de / di`*` |
+| al | ad / a`*` |
+| en | in / en`*` |
+
+<small>`*` La prepozicioj **di**, **a** kaj **en** estas specife por *genitivo*, *dativo* kaj *instrumentalo*. Oni povas uzi anstataŭe la pli ĝeneralajn **de**, **ad** kaj **in**, kiuj ankaŭ estas por *ablativo*, *alativo* kaj *lokativo*.</small>
+
+<!--v-->
+
+| Esperanto | Peranto |
+|-|-|
+| kun | kon |
+
+<!--v-->
+
+| Esperanto | Peranto |
+|-|-|
+| pri | de |
+
+<!--v-->
+
+| Esperanto | Peranto |
+|-|-|
+| krom | escepte de |
+| apud | al lato de |
+
+<!--v-->
+
+| Esperanto | Peranto |
+|-|-|
+| sur ≠ super | super |
+
+<!--v-->
+
+## Konjunkcioj
+
+<!--v-->
+
+| Esperanto | Peranto |
+|-|-|
+| sed | ma |
+| kaj | e |
 
 <!--s-->
 
@@ -897,7 +919,7 @@ Multajn vortojn oni povas skribi en eĉ pli etimologia stilo, kaj oni povas uzi 
 | | |
 | partiklo | **particŭlo** *[partiklo]* <small>*[partiku-lo]*</small> |
 
-<!-- "probabla" estas vorto pruntita el la latina. "provebla" estus "provavla" ("provavi-la"). -->
+<!-- "probabla"/"probab'la" estas vorto pruntita el la latina. "provebla" estus "provavla" ("provavi-la"). -->
 
 <!--v-->
 
@@ -960,15 +982,53 @@ Multajn vortojn oni povas skribi en eĉ pli etimologia stilo, kaj oni povas uzi 
 
 <!--v-->
 
-## Prepozicioj
+## Numeraloj
+
+<!--v-->
+
+<small>La numeralo *naŭ* fariĝas **nou** *[noŭ]*.</small>
 
 <!--v-->
 
 | Esperanto | Linguo |
 |-|-|
-| de la | **del** |
-| al la | **al** |
-| en la | **nel** |
+| naŭ | **nou** <small>*[noŭ]*</small> |
+
+<!--v-->
+
+<small>Tra bruo, la numeralo **sex** *[ses]* prononciĝas *[sis]*.</small>
+
+<!--v-->
+
+| Esperanto | Linguo |
+|-|-|
+| ses | **sex** *[ses]* <small>*[sis]*</small> |
+
+<!--v-->
+
+<small>Por ordinaloj uziĝas la sufikso **-esĭm-**. Kiel substantivo, ĝi signifas **-on-**. Ne uziĝas plu la sufikso **-op-**.</small>
+
+<!--v-->
+
+| Esperanto | Linguo |
+|-|-|
+| tria | **triesĭma** *[triezi-ma]* |
+| triono | **triesĭmo** *[triezi-mo]* |
+| | |
+| triopo | **trio** *[trio]* |
+
+<!--v-->
+
+<small>Anstataŭ sufikseca *-dek* uziĝas **-ento**.</small>
+
+<!--v-->
+
+| Esperanto | Linguo |
+|-|-|
+| kvardek | **quarento** *[kŭarento]* |
+| | |
+| kvardekoj | **quarentos** |
+| kvar dekoj | **quar decos** |
 
 <!--v-->
 
@@ -999,6 +1059,18 @@ Multajn vortojn oni povas skribi en eĉ pli etimologia stilo, kaj oni povas uzi 
 | | |
 | ĉi tiu | **ce tiu** *[ce tju]* |
 | iu ajn | **unqŭiu** *[unkju]* |
+
+<!--v-->
+
+## Prepozicioj
+
+<!--v-->
+
+| Esperanto | Linguo |
+|-|-|
+| de la | **del** |
+| al la | **al** |
+| en la | **nel** |
 
 <!--s-->
 
@@ -1133,7 +1205,28 @@ Multajn vortojn oni povas skribi en eĉ pli etimologia stilo, kaj oni povas uzi 
 
 <!--v-->
 
+## Nomoj
+
+<!--v-->
+
+<small>Nomoj kaj sciencaj terminoj estas pruntitaj el la latina nominativo.</small>
+
+<!--v-->
+
+| Esperanto | Lingua |
+|-|-|
+| Marso | **Mars** |
+| | |
+| homo | **homo** |
+| | |
+| dato | **datum** |
+| datumoj | **data** |
+
 ## Substantivoj
+
+<!--v-->
+
+<small>Substantivoj estas pruntitaj el la latina ablativo.</small>
 
 <!--v-->
 
@@ -1146,7 +1239,7 @@ Multajn vortojn oni povas skribi en eĉ pli etimologia stilo, kaj oni povas uzi 
 
 <!--v-->
 
-<small>En skriba lingvo, oni povas uzi latinajn finaĵojn.</small>
+<small>Latinaj **-u** kaj **-i** fariĝas **-o** kaj **-e**. En skriba lingvo, oni povas uzi la originajn finaĵojn.</small>
 
 <!--v-->
 
@@ -1158,6 +1251,10 @@ Multajn vortojn oni povas skribi en eĉ pli etimologia stilo, kaj oni povas uzi 
 <!--v-->
 
 ## Adjektivoj
+
+<!--v-->
+
+<small>Adjektivoj estas pruntitaj el la latina ablativo de in-genro.</small>
 
 <!--v-->
 
@@ -1499,30 +1596,124 @@ Multajn vortojn oni povas skribi en eĉ pli etimologia stilo, kaj oni povas uzi 
 | stela | **stellár** |
 | stelaj | **stellares** |
 | | |
-| facila | **fâcil** |
-| facile | **facilmente** |
-| | |
 | universitato | **universidád** |
 | universitato | **universidades** |
 | | |
 | estu (vij)! | **sêd!** |
-| | |
+
+<!--v-->
+
+| Esperanto | Lingua Intermediaria |
+|-|-|
+| facila | **fâcil** |
+| facile | **facilmente** |
+
+<!--v-->
+
+<small>Sufiksofina **t** ĉiam fariĝas **d**.</small>
+
+<!--v-->
+
+| Esperanto | Lingua Intermediaria |
+|-|-|
 | flanko | **lado** |
 
 <!--v-->
 
 ## Adverboj
 
+<!--v-->
+
 | Esperanto | Lingua Intermediaria |
 |-|-|
 | alte | **altamente** <small>**alto**</small> |
 | nur | **solamente** <small>**solo**</small> |
 
+<!--v-->
+
 ### Malregulaj Adverboj
+
+<!--v-->
 
 | Esperanto | Lingua Intermediaria |
 |-|-|
 | bone | **bene** |
+
+<!--v-->
+
+## Numeraloj
+
+<!--v-->
+
+| Esperanto | Lingua Intermediaria |
+|-|-|
+| unu | **un** <small>**uno**</small> |
+| du | **du** <small>**duo**</small> |
+| tri | **tri** <small>**tres**</small> |
+| kvar | **quatt** <small>**quattro**</small> |
+| kvin | **cinc** <small>**cinque**</small> |
+
+<!--v-->
+
+| Esperanto | Lingua Intermediaria |
+|-|-|
+| ses | **sex** |
+| sep | **sep** <small>**septe**</small> |
+| ok | **oc** <small>**octo**</small> |
+| naŭ | **nou** <small>**nove**</small> |
+| dek | **dec** <small>**dece**</small> |
+
+<!--v-->
+
+<small>Ekzistas malregulaj sinonimoj por la ordinaloj.</small>
+
+<!--v-->
+
+| Esperanto | Lingua Intermediaria |
+|-|-|
+| unua | **unesĭma** <small>**prima**</small> |
+| dua | **duesĭma** <small>**secunda**</small> |
+| tria | **triesĭma** <small>**treesĭma**, **tertia**</small> |
+| kvara | **quattesĭma** <small>**quattresĭma**, **quarta**</small> |
+| kvina | **cincesĭma** <small>**cinquesĭma**, **quinta**</small> |
+
+<!--v-->
+
+| Esperanto | Lingua Intermediaria |
+|-|-|
+| sesa | **sexesĭma** <small>**sexta**</small> |
+| sepa | **sepesĭma** <small>**septesĭma**, **septĭma**</small> |
+| oka | **ocesĭma** <small>**octesĭma**, **octava**</small> |
+| naŭa | **nouesĭma** <small>**novesĭma**, **nona**</small> |
+| deka | **decesĭma** <small>**decĭma**</small> |
+
+<!--v-->
+
+| Esperanto | Lingua Intermediaria |
+|-|-|
+| dudek | **duenta** |
+| tridek | **trienta** <small>**treenta**</small> |
+| kvardek | **quattenta** <small>**quattrenta**</small> |
+| kvindek | **cincenta** <small>**cinquenta**</small> |
+| sesdek | **sexenta** |
+| sepdek | **sepenta** <small>**septenta**</small> |
+| okdek | **ocenta** <small>**octenta**</small> |
+| naŭdek | **nouenta** <small>**noventa**</small> |
+
+<!--v-->
+
+## Artikoloj
+
+<!--v-->
+
+<small>**Lingua Intermediaria** havas ne-difinan artikolon: **una**.</small>
+
+<!--v-->
+
+| Esperanto | Lingua Intermediaria |
+|-|-|
+| domo | **una domo** |
+| domoj | **unas domos** |
 
 <!--v-->
 
@@ -1829,6 +2020,17 @@ Por la perfektaj formoj de **îr** uziĝas la verbo **sêr**.
 | vi faras | **fâis** |
 | ili faras | **fân** |
 
+<!--v-->
+
+## Konjunkcioj
+
+<!--v-->
+
+| Esperanto | Lingua Intermediaria |
+|-|-|
+| aŭ | **au** <small>**aud**</small> |
+| kaj | **e** <small>**ed**</small> |
+
 <!--s-->
 
 # Lingua Classĭca
@@ -1929,6 +2131,36 @@ Duoblaj vokaloj en finaĵoj estas skribataj kun makrono.
 | Esperanto | Lingua Classĭca |
 |-|-|
 | bildo | **pictura** <small>**pin̆ctura**</small> |
+
+<!--v-->
+
+## Numeraloj
+
+<!--v-->
+
+<small>Uziĝas la skribaj/tra-bruaj formoj de **Lingua Intermediaria**.</small>
+
+<!--v-->
+
+| Esperanto | Lingua Classĭca |
+|-|-|
+| kvar | **quattro** |
+
+<!--v-->
+
+<small>Por *unu*, *du*, *tri* uziĝas la latinaj in-genraj formoj: **uno** → **una**, **duo** → **dua**, **tres** → **tria**. (Anstataŭ latina **due** uziĝas **dua**, analogie al **una** kaj **tria**.)</small>
+
+<!--v-->
+
+| Esperanto | Lingua Classĭca |
+|-|-|
+| unu | **una** |
+| du | **dua** |
+| tri | **tria** |
+| | |
+| tria | **triesĭma** <small>**tertia**</small> |
+| | |
+| tridek | **trienta** |
 
 <!--v-->
 
@@ -2206,6 +2438,17 @@ Duoblaj vokaloj en finaĵoj estas skribataj kun makrono.
 | mi portintas | **portavī** <small>**tulī**</small> |
 | portata/-ita | **portata** <small>**lata**</small> |
 
+<!--v-->
+
+## Konjunkcioj
+
+<!--v-->
+
+| Esperanto | Lingua Classĭca |
+|-|-|
+| aŭ | **aut** |
+| kaj | **et** |
+
 <!--s-->
 
 # Lingua Meridionál
@@ -2333,7 +2576,7 @@ Duoblaj vokaloj en finaĵoj estas skribataj kun makrono.
 
 | Esperanto | Lingua Meridionál |
 |-|-|
-| pinto | **pûnto** <small>**punc̆to**</small> |
+| pinto, punto | **pûnto** <small>**punc̆to**</small> |
 
 <!--v-->
 
@@ -2396,7 +2639,7 @@ Duoblaj vokaloj en finaĵoj estas skribataj kun makrono.
 
 | Esperanto | Lingua Meridionál |
 |-|-|
-| bani | **baniár** <small>**bal̮niár**</small> |
+| mi banas | **bânio** <small>**bal̮nio**</small> |
 
 <!--v-->
 
@@ -2433,37 +2676,36 @@ Duoblaj vokaloj en finaĵoj estas skribataj kun makrono.
 | teni | **têr** <small>**tenér**</small> |
 | tiri | **trâr** <small>**trahér**</small> |
 
+<!--v-->
+
+## Konjunkcioj
+
+<!--v-->
+
+| Esperanto | Lingua Meridionál |
+|-|-|
+| aŭ | **au** *[o]* |
+| kaj | **e** |
+
 <!--s-->
 
 # TODO
 
-* leĝo leĵo ?
-* reĝo reĵo ?
-
-Note:
-* Terminoj povas esti pruntataj el la Latina en sia nominativa formo: **datum**, **data**.
-* Adjektivo estas la sama kiel la in-genra formo en la Latina.
-* Adjektivo *antaŭ* substantivo estas subjektiva, t.e. laŭ la perspektivo de la parolanto / unua persono. Adjektivo *malantaŭ* substantivo estas objektiva, t.e. laŭ la perspektivo de la aŭskultanto / dua persono.
-* **home** estas de la latina ablativo, dum **homo** estas de la latina nominativo.
-
-* un du tri quar quin sex sep oc nou
-* dec cent mill
-* unta = prima, duta = secunda, trita = tertia
-* noua = nona
-* decesima centesima millesima
-
-* Nedifina artikolo: **una**, **unas**
+* amikoj amiki
 
 * sap- sav- (scias)
 * sap- sap- (gustas)
+
+* mağis mâis, mağĭs mâs, mağĭs̆ mâ
+
+* nono/nonio non
+
+* Elizioj okazas ne nur en Lingua Meridionál
 
 Haveblas inter-paŝo: la adjektivo substantiviĝas. Tiam "bona" fariĝas "bono". Mencii du substantivojn sinsekve estas alia fenomeno, kiu kaŭzas "amico bono" aŭ "bono amico".
 * renverse: illi domo → illa domo
 Efektive Esperanto ja uzas substantivecajn "-iu"-tabelvortojn kiel adjektivojn. Tre pripensige!
 
-* et ed e
-* aut aud au
-* mağis mâis, mağĭs mâs, mağĭs̆ mâ
+* Adjektivo *antaŭ* substantivo estas subjektiva, t.e. laŭ la perspektivo de la parolanto / unua persono. Adjektivo *malantaŭ* substantivo estas objektiva, t.e. laŭ la perspektivo de la aŭskultanto / dua persono.
 
-* amikoj amiki
-* nono/nonio non
+* [ŋk]
