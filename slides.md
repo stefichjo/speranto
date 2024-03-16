@@ -1750,6 +1750,17 @@ Multajn vortojn oni povas skribi en eĉ pli etimologia stilo, kaj oni povas uzi 
 
 <!--v-->
 
+## Adjektivoj
+
+<!--v-->
+
+| Esperanto | Lingua Intermediaria |
+|-|-|
+| pli bona | **mâs bona** <small>**mağĭs bona**</small> |
+| plej bona | **la max bona** |
+
+<!--v-->
+
 ## Adverboj
 
 <!--v-->
@@ -1758,6 +1769,8 @@ Multajn vortojn oni povas skribi en eĉ pli etimologia stilo, kaj oni povas uzi 
 |-|-|
 | alte | **altamente** <small>**alto**</small> |
 | nur | **solamente** <small>**solo**</small> |
+| | |
+| plu | **mâis** <small>**mağis**</small> |
 
 <!--v-->
 
@@ -2171,6 +2184,7 @@ Por la perfektaj formoj de **îr** uziĝas la verbo **sêr**.
 |-|-|
 | aŭ | **au** <small>**aud**</small> |
 | kaj | **e** <small>**ed**</small> |
+| sed | **ma** <small>**mağĭs̆**</small> |
 
 <!--s-->
 
@@ -2754,7 +2768,7 @@ Duoblaj vokaloj en finaĵoj estas skribataj kun makrono.
 
 # TODO
 
-* mağis mâis, mağĭs mâs, mağĭs̆ mâ (observu )
+* Ĉu restas loko por "plu(s)"?
 
 Haveblas inter-paŝo: la adjektivo substantiviĝas. Tiam "bona" fariĝas "bono". Mencii du substantivojn sinsekve estas alia fenomeno, kiu kaŭzas "amico bono" aŭ "bono amico".
 * renverse: illi domo → illa domo
