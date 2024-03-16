@@ -794,7 +794,7 @@ Oni povas prononci "'" kiel /ə/ (ŝvaon). Ŝvao neniam portas la akcenton.
 
 <!--v-->
 
-**Linguo** *[lingŭo]* estas **Peranto** kun etimologia ortografio kaj latinida prononco.
+**Linguo** *[liŋgŭo]* estas **Peranto** kun etimologia ortografio kaj latinida prononco.
 
 Multajn vortojn oni povas skribi en eĉ pli etimologia stilo, kaj oni povas uzi malpli ambiguan prononcon tra bruo.
 
@@ -836,7 +836,7 @@ Multajn vortojn oni povas skribi en eĉ pli etimologia stilo, kaj oni povas uzi 
 | | |
 | plaĝo | **plajo** <small>**plagĭo**</small> *[plaĵo]* <small>*[pladzo]*</small> |
 | | |
-| lingvo | **linguo** *[lingŭo]* <small>*[lingu-o]*</small> |
+| lingvo | **linguo** *[liŋgŭo]* <small>*[lingu-o]*</small> |
 
 <!--v-->
 
@@ -920,6 +920,20 @@ Multajn vortojn oni povas skribi en eĉ pli etimologia stilo, kaj oni povas uzi 
 | partiklo | **particŭlo** *[partiklo]* <small>*[partiku-lo]*</small> |
 
 <!-- "probabla"/"probab'la" estas vorto pruntita el la latina. "provebla" estus "provavla" ("provavi-la"). -->
+
+<!--v-->
+
+### nc/ng
+
+<!--v-->
+
+<small>En **nc** (**nqŭ**) kaj **ng**, **n** prononciĝas *[ŋ]*.</small>
+
+<!--v-->
+
+| Esperanto | Linguo |
+|-|-|
+| lingvo | **linguo** *[liŋgŭo]* <small>*[lingu-o]*</small> |
 
 <!--v-->
 
@@ -1088,7 +1102,7 @@ Multajn vortojn oni povas skribi en eĉ pli etimologia stilo, kaj oni povas uzi 
 
 | Esperanto | Lingue |
 |-|-|
-| lingvo | **lingue** *[lingŭe]* <small>*[lingu-e]*</small> |
+| lingvo | **lingue** *[liŋgŭe]* <small>*[liŋgu-e]*</small> |
 | | |
 | mi | **mi** <small>(Linguo: **mu**)</small> *[mi]* |
 
@@ -2707,5 +2721,3 @@ Haveblas inter-paŝo: la adjektivo substantiviĝas. Tiam "bona" fariĝas "bono".
 Efektive Esperanto ja uzas substantivecajn "-iu"-tabelvortojn kiel adjektivojn. Tre pripensige!
 
 * Adjektivo *antaŭ* substantivo estas subjektiva, t.e. laŭ la perspektivo de la parolanto / unua persono. Adjektivo *malantaŭ* substantivo estas objektiva, t.e. laŭ la perspektivo de la aŭskultanto / dua persono.
-
-* [ŋk]
