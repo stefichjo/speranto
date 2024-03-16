@@ -677,6 +677,17 @@ Oni povas prononci "'" kiel /ə/ (ŝvaon). Ŝvao neniam portas la akcenton.
 | tago | dio <small>(Speranto: dago)</small> |
 | trinki | bibi <small>(Speranto: drinki)</small> |
 | flanko | lato |
+| savi | salvi |
+
+<!--v-->
+
+### Latinaj Vortoj
+
+<!--v-->
+
+| Esperanto | Peranto |
+|-|-|
+| scii | sabi |
 
 <!--v-->
 
@@ -2698,11 +2709,12 @@ Duoblaj vokaloj en finaĵoj estas skribataj kun makrono.
 
 | Esperanto | Lingua Meridionál |
 |-|-|
-| filo | **filio** *[fiḷo]* |
+| filo | **filio** *[fiḷo]* <small>*[fili-o]*</small> |
+| oleo | **oleo** *[oḷo]* <small>*[ole-o]*</small> |
 | | |
-| stranga | **extrania** *[estraṅa]* |
+| stranga | **extranea** *[estraṅa]* <small>*[ekstrane-a]*</small> |
 | | |
-| regno | **regno** *[reṅo]* |
+| regno | **regno** *[reṅo]* <small>*[regno]*</small> |
 
 <!--v-->
 
@@ -2741,9 +2753,6 @@ Duoblaj vokaloj en finaĵoj estas skribataj kun makrono.
 <!--s-->
 
 # TODO
-
-* sap- sav- (scias)
-* sap- sap- (gustas)
 
 * mağis mâis, mağĭs mâs, mağĭs̆ mâ (observu )
 
