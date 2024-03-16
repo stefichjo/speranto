@@ -585,6 +585,10 @@ Oni povas prononci "'" kiel /ə/ (ŝvaon). Ŝvao neniam portas la akcenton.
 
 <!--v-->
 
+<small>En poezio, oni povas ellasi la finaĵon *-o* de substantivoj kaj la finaĵon *-j* de adjektivoj.</small>
+
+<!--v-->
+
 | Esperanto | Speranto |
 |-|-|
 | bona amik' | bona amiko <small>bona amîk</small> |
