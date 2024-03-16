@@ -591,7 +591,7 @@ Oni povas prononci "'" kiel /ə/ (ŝvaon). Ŝvao neniam portas la akcenton.
 
 | Esperanto | Speranto |
 |-|-|
-| bona amik' | bona amiko <small>bona amîk</small> |
+| bona amiko | bona amiko <small>bona amîk</small> |
 | bonaj amikoj | bonaj amikoj <small>bôna amîki</small> |
 
 <!--v-->
@@ -2138,6 +2138,16 @@ Duoblaj vokaloj en finaĵoj estas skribataj kun makrono.
 
 <!--v-->
 
+### y
+
+<!--v-->
+
+| Esperanto | Classĭca |
+|-|-|
+| sistemo | **systema** *[systema]* |
+
+<!--v-->
+
 ### ss, s
 
 <!--v-->
@@ -2733,9 +2743,9 @@ Duoblaj vokaloj en finaĵoj estas skribataj kun makrono.
 * sap- sav- (scias)
 * sap- sap- (gustas)
 
-* mağis mâis, mağĭs mâs, mağĭs̆ mâ
+* mağis mâis, mağĭs mâs, mağĭs̆ mâ (observu )
 
-* nono/nonio non
+* nono/nonio non (atentu kolizieton kun 9-a)
 
 * Elizioj okazas ne nur en Lingua Meridionál
 
@@ -2744,5 +2754,3 @@ Haveblas inter-paŝo: la adjektivo substantiviĝas. Tiam "bona" fariĝas "bono".
 Efektive Esperanto ja uzas substantivecajn "-iu"-tabelvortojn kiel adjektivojn. Tre pripensige!
 
 * Adjektivo *antaŭ* substantivo estas subjektiva, t.e. laŭ la perspektivo de la parolanto / unua persono. Adjektivo *malantaŭ* substantivo estas objektiva, t.e. laŭ la perspektivo de la aŭskultanto / dua persono.
-
-* quarento-e-du
