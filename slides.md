@@ -581,6 +581,17 @@ Oni povas prononci "'" kiel /ə/ (ŝvaon). Ŝvao neniam portas la akcenton.
 
 <!--v-->
 
+## -o kaj -j
+
+<!--v-->
+
+| Esperanto | Speranto |
+|-|-|
+| bona amik' | bona amiko <small>bona amîk</small> |
+| bonaj amikoj | bonaj amikoj <small>bôna amîki</small> |
+
+<!--v-->
+
 ## Adverboj kaj prepozicioj kun -aŭ
 
 <!--v-->
@@ -1033,15 +1044,14 @@ Multajn vortojn oni povas skribi en eĉ pli etimologia stilo, kaj oni povas uzi 
 
 <!--v-->
 
-<small>Anstataŭ sufikseca *-dek* uziĝas **-ento**.</small>
+<small>Ne uziĝas la sufikso *-op-*.</small>
 
 <!--v-->
 
 | Esperanto | Linguo |
 |-|-|
-| kvardek | **quarento** *[kŭarento]* |
-| | |
-| kvardekoj | **quarentos** |
+| kvardek | **quardec** |
+| kvardekoj | **quardecos** |
 | kvar dekoj | **quar decos** |
 
 <!--v-->
@@ -1700,6 +1710,17 @@ Multajn vortojn oni povas skribi en eĉ pli etimologia stilo, kaj oni povas uzi 
 | oka | **ocesĭma** <small>**octesĭma**, **octava**</small> |
 | naŭa | **nouesĭma** <small>**novesĭma**, **nona**</small> |
 | deka | **decesĭma** <small>**decĭma**</small> |
+
+<!--v-->
+
+<small>Anstataŭ sufikseca *-dek* uziĝas **-enta**.</small>
+
+<!--v-->
+
+| Esperanto | Linguo |
+|-|-|
+| kvardekoj | **quarentos** |
+| kvar dekoj | **quar decos** |
 
 <!--v-->
 
@@ -2705,8 +2726,6 @@ Duoblaj vokaloj en finaĵoj estas skribataj kun makrono.
 
 # TODO
 
-* amikoj amiki
-
 * sap- sav- (scias)
 * sap- sap- (gustas)
 
@@ -2721,3 +2740,5 @@ Haveblas inter-paŝo: la adjektivo substantiviĝas. Tiam "bona" fariĝas "bono".
 Efektive Esperanto ja uzas substantivecajn "-iu"-tabelvortojn kiel adjektivojn. Tre pripensige!
 
 * Adjektivo *antaŭ* substantivo estas subjektiva, t.e. laŭ la perspektivo de la parolanto / unua persono. Adjektivo *malantaŭ* substantivo estas objektiva, t.e. laŭ la perspektivo de la aŭskultanto / dua persono.
+
+* quarento-e-du
