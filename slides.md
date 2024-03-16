@@ -301,7 +301,26 @@ Note:
 
 <!--v-->
 
-**Esperanto** havas pli-malpli slav-ĝermanan prononcon. Ĝi havas naciismojn kaj por funkciaj vortoj (prepozicioj, konjunkcioj, sufiksoj) kaj por signifaj vortoj (o-vortoj, a-vortoj, verboj).
+<small>**Esperanto** havas pli-malpli slav-ĝermanan prononcon. Ĝi havas naciismojn kaj por funkciaj vortoj (prepozicioj, konjunkcioj, sufiksoj) kaj por signifaj vortoj (o-vortoj, a-vortoj, verboj).</small>
+
+<!--v-->
+
+## Prononco
+
+<!--v-->
+
+<small>Nemalofte vorto eniras **Esperanton** laŭ sia fontolingva skribo.</small>
+
+<!--v-->
+
+| Esperanto |
+|-|
+| biero |
+| boato |
+| teamo |
+| |
+| fojo |
+| partio |
 
 <!--s-->
 
@@ -309,7 +328,7 @@ Note:
 
 <!--v-->
 
-**Speranto** havas pli neŭtralan slav-ĝermanan prononcon. Ĝi havas naciismojn nur por funkciaj vortoj kaj neologismoj.
+<small>**Speranto** havas pli neŭtralan slav-ĝermanan prononcon. Ĝi havas naciismojn nur por funkciaj vortoj kaj neologismoj.</small>
 
 <!--v-->
 
@@ -1832,27 +1851,27 @@ Multajn vortojn oni povas skribi en eĉ pli etimologia stilo, kaj oni povas uzi 
 
 <!--v-->
 
-<small>Anstataŭ sufikseca *-dek* uziĝas **-enta**.</small>
+<small>Anstataŭ sufikseca *-dek* uziĝas **-anta**.</small>
 
 <!--v-->
 
 | Esperanto | Linguo |
 |-|-|
-| kvardekoj | **quarentos** |
+| kvardekoj | **quarantos** |
 | kvar dekoj | **quar decos** |
 
 <!--v-->
 
 | Esperanto | Lingua Intermediaria |
 |-|-|
-| dudek | **duenta** |
-| tridek | **trienta** <small>**treenta**</small> |
-| kvardek | **quattenta** <small>**quattrenta**</small> |
-| kvindek | **cincenta** <small>**cinquenta**</small> |
-| sesdek | **sexenta** |
-| sepdek | **sepenta** <small>**septenta**</small> |
-| okdek | **ocenta** <small>**octenta**</small> |
-| naŭdek | **nouenta** <small>**noventa**</small> |
+| dudek | **duanta** |
+| tridek | **trianta** <small>**treanta**</small> |
+| kvardek | **quattanta** <small>**quattranta**</small> |
+| kvindek | **cincanta** <small>**cinquanta**</small> |
+| sesdek | **sexanta** |
+| sepdek | **sepanta** <small>**septanta**</small> |
+| okdek | **ocanta** <small>**octanta**</small> |
+| naŭdek | **nouanta** <small>**novanta**</small> |
 
 <!--v-->
 
@@ -2325,7 +2344,7 @@ Duoblaj vokaloj en finaĵoj estas skribataj kun makrono.
 | | |
 | tria | **triesĭma** <small>**tertia**</small> |
 | | |
-| tridek | **trienta** |
+| tridek | **trianta** |
 
 <!--v-->
 
@@ -2768,10 +2787,18 @@ Duoblaj vokaloj en finaĵoj estas skribataj kun makrono.
 
 # TODO
 
+* mesaĝo avantaĝo
+* ĵus
+* beletio
+* cessi
+* situi
+* vice al
+
+
 * Ĉu restas loko por "plu(s)"?
 
-Haveblas inter-paŝo: la adjektivo substantiviĝas. Tiam "bona" fariĝas "bono". Mencii du substantivojn sinsekve estas alia fenomeno, kiu kaŭzas "amico bono" aŭ "bono amico".
+<!-- Haveblas inter-paŝo: la adjektivo substantiviĝas. Tiam "bona" fariĝas "bono". Mencii du substantivojn sinsekve estas alia fenomeno, kiu kaŭzas "amico bono" aŭ "bono amico".
 * renverse: illi domo → illa domo
-Efektive Esperanto ja uzas substantivecajn "-iu"-tabelvortojn kiel adjektivojn. Tre pripensige!
+Efektive Esperanto ja uzas substantivecajn "-iu"-tabelvortojn kiel adjektivojn. Tre pripensige! -->
 
-* Adjektivo *antaŭ* substantivo estas subjektiva, t.e. laŭ la perspektivo de la parolanto / unua persono. Adjektivo *malantaŭ* substantivo estas objektiva, t.e. laŭ la perspektivo de la aŭskultanto / dua persono.
+<!-- * Adjektivo *antaŭ* substantivo estas subjektiva, t.e. laŭ la perspektivo de la parolanto / unua persono. Adjektivo *malantaŭ* substantivo estas objektiva, t.e. laŭ la perspektivo de la aŭskultanto / dua persono. -->
