@@ -1176,41 +1176,27 @@ Multajn vortojn oni povas skribi en eĉ pli etimologia stilo, kaj oni povas uzi 
 
 <!--v-->
 
-## Fleksio
+## Substantivoj
 
 <!--v-->
 
-### -oi/-ai → -es/-as
-
-<!--v-->
-
-| Esperanto | Lingue |
-|-|-|
-| altaj domoj | **altas domes** |
-
-<!--v-->
-
-### -s → -n
+<small>La finaĵo por la pluralo estas **-s**.</small>
 
 <!--v-->
 
 | Esperanto | Lingue |
 |-|-|
-| Mi vidas. | **Mi vidan.** |
+| domoj | **domos** |
 
 <!--v-->
 
-### -n → (a)
+## Adjektivoj
 
 <!--v-->
 
 | Esperanto | Lingue |
 |-|-|
-| Mi vidas Karlan. | **Mi vidan (a) Carla.** |
-| Karlan mi vidas. | **A Carla mi vidan.** |
-| | |
-| Mi vidas altajn domojn. | **Mi vidan (ad) altas domes.** |
-| Altajn domojn mi vidas. | **Ad altas domes mi vidan.** |
+| altaj domoj | **domos altas** |
 
 <!--v-->
 
@@ -1269,6 +1255,36 @@ Multajn vortojn oni povas skribi en eĉ pli etimologia stilo, kaj oni povas uzi 
 | ni | **ni** |
 | vi | **vi** |
 
+<!--v-->
+
+## Verboj
+
+<!--v-->
+
+| Esperanto | Lingue |
+|-|-|
+| Mi vidas. | **Mi vidan.** |
+| | |
+| Vidu! | **Viden!** |
+
+<!--v-->
+
+## Prepozicioj
+
+<!--v-->
+
+Tra bruo, la prepozicio **a** uziĝas por la indiki la rektan objekton. (Tiam uziĝas **ad** antaŭ vokalo.) Kiam la rekta objekto estas staras antaŭ la subjekto de la frazo, ne uzi la tra-bruan **a** estas evitinde.
+
+<!--v-->
+
+| Esperanto | Lingue |
+|-|-|
+| Mi vidas Karlan. | **Mi vidan Carla.** <small>**Mi vidan a Carla.**</small> |
+| Karlan mi vidas. | **~~Carla mi vidan.~~** <small>**A Carla mi vidan.**</small> |
+| | |
+| Mi vidas alian domon. | **Mi vidan altra dome.** <small>**Mi vidan ad altra dome.**</small> |
+| Alian domon mi vidas. | **~~Altra dome mi vidan.~~** <small>**Ad altra dome mi vidan.**</small> |
+
 <!--s-->
 
 # Lingua
@@ -1286,8 +1302,6 @@ Multajn vortojn oni povas skribi en eĉ pli etimologia stilo, kaj oni povas uzi 
 | Esperanto | Lingua |
 |-|-|
 | Marso | **Mars** |
-| | |
-| homo | **homo** |
 | | |
 | dato | **datum** |
 | datumoj | **data** |
@@ -1676,7 +1690,10 @@ La grek-devenaj ŝajnfinaĵoj **-i**, **-ia** *[ia]*, **-a**, **-e** havas signi
 
 | Esperanto | Lingua Intermediaria |
 |-|-|
+| homo | **home** <small>**homĭne** *[homi-ne]*</small>  |
+| lumo | **lume** <small>**lumĭne** *[lumi-ne]*</small>  |
 | nomo | **nome** <small>**nomĭne** *[nomi-ne]*</small>  |
+| sango | **sangue** <small>**sanguĭne** *[sangu-ine]*</small>  |
 | | |
 | limo | **lime** <small>**limĭte** *[limi-te]*</small>  |
 
@@ -3057,16 +3074,6 @@ Efektive Esperanto ja uzas substantivecajn "-iu"-tabelvortojn kiel adjektivojn. 
 * serĉi
 * renkonten = renkonti
 
-La ŝajnsufiksoj **-ĭn-** kaj **-ĭt** eliziiĝas.
-
-| | |
-|-|-|
-| *homo* | **homĭne** = **home** |
-| *nomo* | **nomĭne** = **nome** |
-| *limo* | **limĭte** = **lime** |
-| *lumo* | **lumĭne** = **lume** |
-| *sango* | **sanguĭne** = **sangue** |
-
 La ŝajnsufikso **-atĭc-** prononciĝas *[ađj]* (= *[aðj]*).
 
 | | |
@@ -3078,8 +3085,6 @@ La ŝajnsufikso **-atĭc-** prononciĝas *[ađj]* (= *[aðj]*).
 * projekto
 * tatuo
 * karaktero
-
-* canten!
 
 | | | | | | | |
 |-|-|-|-|-|-|-|
