@@ -372,6 +372,18 @@ Note:
 
 <!--v-->
 
+### Grekaj Vortoj
+
+<!--v-->
+
+| Esperanto | Speranto |
+|-|-|
+| eĥo | **eĥo** |
+| kemio | **ĥemio** |
+| mekaniko | **meĥaniko** |
+
+<!--v-->
+
 #### o ←→ u
 
 <!--v-->
@@ -432,7 +444,7 @@ Note:
 | nacio | nacjo |
 | | |
 | besto | bestjo |
-| ordinara | ordinarja |
+| propra | proprja |
 | | |
 | okazo | okazjo |
 
@@ -1016,7 +1028,7 @@ Multajn vortojn oni povas skribi en eĉ pli etimologia stilo, kaj oni povas uzi 
 
 <!--v-->
 
-### Grekismoj
+### Grekaj Vortoj
 
 <!--v-->
 
@@ -2686,6 +2698,8 @@ Duoblaj vokaloj en finaĵoj estas skribataj kun makrono.
 |-|-|
 | universala | **universál** *[univeĥsaŭ']* |
 | universalaj | **universales** *[univeĥsales]* |
+| | |
+| alia | **altra** *[aŭtra]* |
 
 <!--v-->
 
@@ -2742,8 +2756,9 @@ Duoblaj vokaloj en finaĵoj estas skribataj kun makrono.
 
 | Esperanto | Lingua Meridionál |
 |-|-|
+| ajlo | **alio** *[aḷo]* <small>*[ali-o]*</small> |
 | filo | **filio** *[fiḷo]* <small>*[fili-o]*</small> |
-| oleo | **oleo** *[oḷo]* <small>*[ole-o]*</small> |
+| oleo | **oleo** *[ole-o]* |
 | | |
 | stranga | **extranea** *[estraṅa]* <small>*[ekstrane-a]*</small> |
 | | |
@@ -2787,6 +2802,12 @@ Duoblaj vokaloj en finaĵoj estas skribataj kun makrono.
 
 # TODO
 
+<!-- Haveblas inter-paŝo: la adjektivo substantiviĝas. Tiam "bona" fariĝas "bono". Mencii du substantivojn sinsekve estas alia fenomeno, kiu kaŭzas "amico bono" aŭ "bono amico".
+* renverse: illi domo → illa domo
+Efektive Esperanto ja uzas substantivecajn "-iu"-tabelvortojn kiel adjektivojn. Tre pripensige! -->
+
+<!-- * Adjektivo *antaŭ* substantivo estas subjektiva, t.e. laŭ la perspektivo de la parolanto / unua persono. Adjektivo *malantaŭ* substantivo estas objektiva, t.e. laŭ la perspektivo de la aŭskultanto / dua persono. -->
+
 * mesaĝo avantaĝo
 * ĵus
 * beletio
@@ -2794,11 +2815,10 @@ Duoblaj vokaloj en finaĵoj estas skribataj kun makrono.
 * situi
 * vice al
 
+* plu(s)
 
-* Ĉu restas loko por "plu(s)"?
+* ĉarma
+* riĉa
+* serĉi
+* renkonten = renkonti
 
-<!-- Haveblas inter-paŝo: la adjektivo substantiviĝas. Tiam "bona" fariĝas "bono". Mencii du substantivojn sinsekve estas alia fenomeno, kiu kaŭzas "amico bono" aŭ "bono amico".
-* renverse: illi domo → illa domo
-Efektive Esperanto ja uzas substantivecajn "-iu"-tabelvortojn kiel adjektivojn. Tre pripensige! -->
-
-<!-- * Adjektivo *antaŭ* substantivo estas subjektiva, t.e. laŭ la perspektivo de la parolanto / unua persono. Adjektivo *malantaŭ* substantivo estas objektiva, t.e. laŭ la perspektivo de la aŭskultanto / dua persono. -->
