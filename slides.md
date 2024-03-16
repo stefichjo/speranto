@@ -1648,6 +1648,97 @@ Multajn vortojn oni povas skribi en eĉ pli etimologia stilo, kaj oni povas uzi 
 
 <!--v-->
 
+### Elizioj
+
+<!--v-->
+
+#### c̆
+
+<!--v-->
+
+| Esperanto | Lingua Intermediaria |
+|-|-|
+| pinto, punto | **pûnto** <small>**punc̆to**</small> |
+
+<!--v-->
+
+##### -adĭc̆o
+
+<!--v-->
+
+| Esperanto | Lingua Intermediaria |
+|-|-|
+| formaĝo | **formâjo** <small>**formadĭc̆o**</small> *[formaĵo]* <small>*[formađi-o]*</small> |
+| kuraĝo | **corâjo** <small>**coradĭc̆o**</small> *[koraĵo]* <small>*[korađi-o]*</small> |
+| pejzaĝo | **paesâjo** <small>**pağen̆sadĭc̆o**</small> *[paezaĵo]* <small>*[paezađi-o]*</small> |
+| vilaĝo | **villâjo** <small>**villadĭc̆o**</small> *[vilaĵo]* <small>*[vilađi-o]*</small> |
+| vojaĝo | **viâjo** <small>**viadĭc̆o**</small> *[viaĵo]* <small>*[viađi-o]*</small> |
+
+<!--v-->
+
+#### ğ
+
+<!--v-->
+
+| Esperanto | Lingua Intermediaria |
+|-|-|
+| trajno | **trâino** <small>**trağino**</small> |
+| majstro | **mâistro** <small>**mağistro**</small> |
+
+<!--v-->
+
+#### n̆
+
+<!--v-->
+
+| Esperanto | Lingua Intermediaria |
+|-|-|
+| kostas | **côsta** <small>**con̆sta**</small> |
+| lando | **paêse** <small>**pağen̆se**</small> |
+
+<!--v-->
+
+#### p̆
+
+<!--v-->
+
+| Esperanto | Lingua Intermediaria |
+|-|-|
+| konto | **cônto** <small>**comp̆ŭto**</small> |
+
+<!--v-->
+
+#### s̆
+
+<!--v-->
+
+| Esperanto | Lingua Intermediaria |
+|-|-|
+| hospitalo | **hotêlo** <small>**hos̆p̆ĭtello**</small> |
+| posttagmezo | **po-meridio** <small>**pos̆-meridio**</small> |
+
+<!--v-->
+
+#### l̮
+
+| Esperanto | Lingua Intermediaria |
+|-|-|
+| mi banas | **bânio** <small>**bal̮nio**</small> |
+
+<!--v-->
+
+#### v̆
+
+<!--v-->
+
+| Esperanto | Lingua Intermediaria |
+|-|-|
+| parabolo | **parabŏla** |
+| | |
+| paroli | **parlár** <small>**parăv̆ŏlár**</small> |
+
+<!--v-->
+
 ## Adverboj
 
 <!--v-->
@@ -2615,95 +2706,6 @@ Duoblaj vokaloj en finaĵoj estas skribataj kun makrono.
 
 <!--v-->
 
-### Elizioj
-
-<!--v-->
-
-#### c̆
-
-<!--v-->
-
-| Esperanto | Lingua Meridionál |
-|-|-|
-| pinto, punto | **pûnto** <small>**punc̆to**</small> |
-
-<!--v-->
-
-##### -adĭc̆o
-
-<!--v-->
-
-| Esperanto | Lingua Meridionál |
-|-|-|
-| formaĝo | **formâjo** <small>**formadĭc̆o**</small> *[formaĵo]* <small>*[formađi-o]*</small> |
-| kuraĝo | **corâjo** <small>**coradĭc̆o**</small> *[koraĵo]* <small>*[korađi-o]*</small> |
-| pejzaĝo | **paesâjo** <small>**pağen̆sadĭc̆o**</small> *[paezaĵo]* <small>*[paezađi-o]*</small> |
-| vilaĝo | **villâjo** <small>**villadĭc̆o**</small> *[vilaĵo]* <small>*[vilađi-o]*</small> |
-| vojaĝo | **viâjo** <small>**viadĭc̆o**</small> *[viaĵo]* <small>*[viađi-o]*</small> |
-
-<!--v-->
-
-#### ğ
-
-<!--v-->
-
-| Esperanto | Lingua Meridionál |
-|-|-|
-| trajno | **trâino** <small>**trağino**</small> |
-| majstro | **mâistro** <small>**mağistro**</small> |
-
-<!--v-->
-
-#### n̆
-
-<!--v-->
-
-| Esperanto | Lingua Meridionál |
-|-|-|
-| kostas | **côsta** <small>**con̆sta**</small> |
-| lando | **paêse** <small>**pağen̆se**</small> |
-
-<!--v-->
-
-#### p̆
-
-<!--v-->
-
-| Esperanto | Lingua Meridionál |
-|-|-|
-| konto | **cônto** <small>**comp̆ŭto**</small> |
-
-<!--v-->
-
-#### s̆
-
-<!--v-->
-
-| Esperanto | Lingua Meridionál |
-|-|-|
-| hospitalo | **hotêlo** <small>**hos̆p̆ĭtello**</small> |
-| posttagmezo | **po-meridio** <small>**pos̆-meridio**</small> |
-
-#### l̮
-
-| Esperanto | Lingua Meridionál |
-|-|-|
-| mi banas | **bânio** <small>**bal̮nio**</small> |
-
-<!--v-->
-
-#### v̆
-
-<!--v-->
-
-| Esperanto | Lingua Meridionál |
-|-|-|
-| parabolo | **parabŏla** |
-| | |
-| paroli | **parlár** <small>**parăv̆ŏlár**</small> |
-
-<!--v-->
-
 ## Verboj
 
 <!--v-->
@@ -2746,8 +2748,6 @@ Duoblaj vokaloj en finaĵoj estas skribataj kun makrono.
 * mağis mâis, mağĭs mâs, mağĭs̆ mâ (observu )
 
 * nono/nonio non (atentu kolizieton kun 9-a)
-
-* Elizioj okazas ne nur en Lingua Meridionál
 
 Haveblas inter-paŝo: la adjektivo substantiviĝas. Tiam "bona" fariĝas "bono". Mencii du substantivojn sinsekve estas alia fenomeno, kiu kaŭzas "amico bono" aŭ "bono amico".
 * renverse: illi domo → illa domo

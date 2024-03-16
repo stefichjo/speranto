@@ -6,14 +6,6 @@
 
 ### t, d
 
-**t** estas prononcata *[s]* antaŭ radikofina **-i** *[j]*. En radikofina **-sti** *[stj]*, la **-t-** restas prononcata *[t]*. 
-
-| | |
-|-|-|
-| *spaco* | **spatio** *[spasjo]* |
-| | |
-| *besto* | **bestio** *[bestjo]* |
-
 Radikofina akcentata **-ī**, ekzemple la ŝajnsufikso **-ī-** (t.e. la mallongiĝinta ŝajnfinaĵo **-ione**), prononciĝas *[i]*. (Vd. [Ĝermanaj Vortoj](#ĝermanaj-vortoj).)
 
 | | |
@@ -48,16 +40,6 @@ La sufikso **-etĭ-** prononciĝas *[es]*.
 | *voki* | **voqŭi** *[voki]* |
 
 ### u
-
-**u** prononciĝas kiel en ***Lingveo***.
-
-| | |
-|-|-|
-| *aŭto*   | **auto**   *[aŭto]*   |
-| *akvo*   | **aquo**   *[akŭo]*   |
-| *kvanto* | **quanto** *[kŭanto]* |
-| | |
-| *ŭaŭ*    | **wau**    *[ŭaŭ]*    |
 
 Kiam **i** aŭ **u** estas akcentataj en antaŭlasta pozicio, ili portas makronon.
 
@@ -234,25 +216,5 @@ Greka **ch** *[k]* pronciĝas *[ĥ]*.
 
 <!-- TODO -->
 <!-- renkonten = renkonti ? -->
-<!-- mi/mu ... -->
 <!-- a/e ? -->
-
-<!-- 
-| *canti*      | | **canti**       | *cantér*    |
-
-| *mi kantas*  | | **mi cantas**   | *canto*     |
-| *ci kantas*  | | **tī cantas**   | *cantas*    |
-| *li kantas*  | | **li cantas**   | *canta*     |
-| *ni kantas*  | | **ni cantas**   | *cantamus*  |
-| *vi kantas*  | | **vi cantas**   | *cantáis*   |
-| *ili kantas* | | **ili cantas**  | *cantan*    |
-
-| *mi kantu*   | | **mi cantu**    | *cante*     |
-| *ci kantu*   | | **tī cantu**    | *cantes*    |
-| *li kantu*   | | **li cantu**    | *cante*     |
-| *ni kantu*   | | **ni cantu**    | *cantemus*  |
-| *vi kantu*   | | **vi cantu**    | *cantéis*   |
-| *ili kantu*  | | **ili cantu**   | *canten*    |
-
--->
 
