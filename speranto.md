@@ -1768,8 +1768,10 @@ La grek-devenaj ŝajnfinaĵoj **-i**, **-ia** *[ia]*, **-a**, **-e** havas signi
 
 | Esperanto | Lingua Intermediaria |
 |-|-|
+| avantaĝo | **avantâjo** <small>**avantadĭc̆o**</small> *[avantaĵo]* <small>*[avantađi-o]*</small> |
 | formaĝo | **formâjo** <small>**formadĭc̆o**</small> *[formaĵo]* <small>*[formađi-o]*</small> |
 | kuraĝo | **corâjo** <small>**coradĭc̆o**</small> *[koraĵo]* <small>*[korađi-o]*</small> |
+| mesaĝo | **missâjo** <small>**missadĭc̆o**</small> *[misaĵo]* <small>*[misađi-o]</small> |
 | pejzaĝo | **paesâjo** <small>**pağen̆sadĭc̆o**</small> *[paezaĵo]* <small>*[paezađi-o]*</small> |
 | vilaĝo | **villâjo** <small>**villadĭc̆o**</small> *[vilaĵo]* <small>*[vilađi-o]*</small> |
 | vojaĝo | **viâjo** <small>**viadĭc̆o**</small> *[viaĵo]* <small>*[viađi-o]*</small> |
@@ -3060,7 +3062,6 @@ Efektive Esperanto ja uzas substantivecajn "-iu"-tabelvortojn kiel adjektivojn. 
 
 <!-- * Adjektivo *antaŭ* substantivo estas subjektiva, t.e. laŭ la perspektivo de la parolanto / unua persono. Adjektivo *malantaŭ* substantivo estas objektiva, t.e. laŭ la perspektivo de la aŭskultanto / dua persono. -->
 
-* mesaĝo avantaĝo
 * ĵus
 * beletio
 * cessi
@@ -3075,12 +3076,6 @@ Efektive Esperanto ja uzas substantivecajn "-iu"-tabelvortojn kiel adjektivojn. 
 * renkonten = renkonti
 
 La ŝajnsufikso **-atĭc-** prononciĝas *[ađj]* (= *[aðj]*).
-
-| | |
-|-|-|
-| *fromaĝo* | **formatĭc̄e** *[formađje]* |
-| *mesaĝo* | **missatĭc̄e** *[misađje]* |
-| *vojaĝo* | **viatĭc̄e** *[viađje]* |
 
 * projekto
 * tatuo
