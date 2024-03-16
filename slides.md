@@ -2822,3 +2822,27 @@ Efektive Esperanto ja uzas substantivecajn "-iu"-tabelvortojn kiel adjektivojn. 
 * serĉi
 * renkonten = renkonti
 
+La ŝajnsufiksoj **-ĭn-** kaj **-ĭt** eliziiĝas.
+
+| | |
+|-|-|
+| *homo* | **homĭne** = **home** |
+| *nomo* | **nomĭne** = **nome** |
+| *limo* | **limĭte** = **lime** |
+| *lumo* | **lumĭne** = **lume** |
+| *sango* | **sanguĭne** = **sangue** |
+
+La ŝajnsufikso **-atĭc-** prononciĝas *[ađj]* (= *[aðj]*).
+
+| | |
+|-|-|
+| *fromaĝo* | **formatĭc̄e** *[formađje]* |
+| *mesaĝo* | **missatĭc̄e** *[misađje]* |
+| *vojaĝo* | **viatĭc̄e** *[viađje]* |
+
+* projekto
+* tatuo
+* karaktero
+
+* canten!
+
