@@ -2913,7 +2913,7 @@ Duoblaj vokaloj en finaĵoj estas skribataj kun makrono.
 | onklo | **tio** *[ĉio]* |
 | | |
 | seĝo | **sedia** *[seĝa]* |
-| eĉ | **etja** *[eĉa]* |
+| eĉ | **etja** *[etĵa]* |
 
 <!--v-->
 
