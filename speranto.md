@@ -599,35 +599,21 @@ Note:
 | artikolo | artikulo |
 | artikulacii | artikulaci / artikulumi |
 | | |
-| ĉapitro | kapitulo |
-| kapitulaci | kapitulaci / kapitulumi |
-| | |
-| kupli | kopuli |
-| kopulacii | kopulaci / kopulumi |
-| | |
 | spegulo | spekulo |
 | spekuli | spekulaci / spekulumi |
-
-<!-- skatolo -->
-
-<!-- strange:
-partikulo = vorto
-partiklo = ero
-
-artikulo = vorto
-artikulacii = vortigi
-
-artikolo = vortoj
-artiklo = varo
--->
-
 
 <!--v-->
 
 | Esperanto | Speranto |
 |-|-|
+| ĉapitro | kapitulo |
+| kapitulaci | kapitulaci / kapitulumi |
+| | |
 | insulo | insulo |
 | izoli | insulaci / insulumi |
+| | |
+| kupli | kopuli |
+| kopulacii | kopulaci / kopulumi |
 
 <!--v-->
 
