@@ -527,56 +527,101 @@ Note:
 
 <!--v-->
 
-### e/i/o/u → '
-
-Oni povas prononci "'" kiel /ə/ (ŝvaon). Ŝvao neniam portas la akcenton.
-
-<!--v-->
-
-#### -er
+### Ŝajnsufiksoj
 
 <!--v-->
 
 | Esperanto | Speranto |
 |-|-|
-| butero | but'ro |
-| fingro | fing'ro |
-| letero | lit'ro |
+| ĉambro | kamero |
+| letero | litero |
+| tenera | tenera |
+| | |
+| humida | humida |
+| | |
+| facila | facila |
+| simila | simila |
 
 <!--v-->
 
-<small>Oni povas prononci "m'r" kaj "n'r" kiel "mbr" kaj "ndr".</small>
-
-<!--v-->
-
-| Esperanto | Speranto |
-|-|-|
-| ĉambro | kambro <small>kam'ro</small> |
-| genro | gendro <small>gen'ro</small> |
-| tenera | tendra <small>ten'ra</small> |
-
-<!--v-->
-
-#### -il
+<small>La ŝajnsufikso **-er-** de ĝermanaj vortoj mallongiĝas al **-r-**.</small>
 
 <!--v-->
 
 | Esperanto | Speranto |
 |-|-|
-| facila | fac'la |
-| kombreneble | kompreneb'le |
-| nobla | nob'la |
+| butero | butro |
+| fingro | fingro |
 
 <!--v-->
 
-#### ol/ul
+<small>Simile, la ŝajnsufikso **-ŭl-** de latinaj vortoj mallongiĝas al **-l-**.</small>
 
 <!--v-->
 
 | Esperanto | Speranto |
 |-|-|
-| artikolo ≠ artiklo | artiklo <small>artik'lo</small> |
-| partikulo ≠ partiklo | partiklo <small>partik'lo</small> |
+| artikolo, artiklo | artiklo |
+| partikulo, partiklo | partiklo |
+| | |
+| makulo | maklo |
+| okulo | oklo |
+| | |
+| obstaklo | obstaklo |
+
+<!--v-->
+
+| Esperanto | Speranto |
+|-|-|
+| kupli | kopli |
+
+<!--v-->
+
+<small>En neologismoj la ŝajnfinaĵo povas esti jam mallongiĝinta.</small>
+
+<!--v-->
+
+| Esperanto | Speranto |
+|-|-|
+| establi | etabli |
+| nobla | nobla |
+| probabla | probabla |
+| komprenebla | komprenebla |
+
+<!--v-->
+
+<small>Tiam **m-ĕr**, **m-ĕl** kaj **m-ŭl** fariĝas **mbr** kaj **mbl**.</small>
+
+<!--v-->
+
+| Esperanto | Speranto |
+|-|-|
+| stumbli | stumbli |
+
+<!--v-->
+
+<small>Analogie, **n-er** fariĝas **ndr**.</small>
+
+<!--v-->
+
+| Esperanto | Speranto |
+|-|-|
+| cindro | cindro |
+| genro | ĵendro |
+
+<!--v-->
+
+<small>Verbaj radikoj je **t-ŭl-** finiĝas je **tulaci-**. Substantivoj je **t-ŭl-** finiĝas je **tr**.</small>
+
+<!--v-->
+
+| Esperanto | Speranto |
+|-|-|
+| gratulo | gratulacjo |
+| kapitulaco | kapitulacjo |
+| | |
+| ĉapitro | kapitro |
+| titolo | titro |
 
 <!--v-->
 
@@ -709,6 +754,7 @@ Oni povas prononci "'" kiel /ə/ (ŝvaon). Ŝvao neniam portas la akcenton.
 | trinki | bibi <small>(Speranto: drinki)</small> |
 | flanko | lato |
 | savi | salvi |
+| ŝajni | simbli |
 
 <!--v-->
 
@@ -953,30 +999,26 @@ Multajn vortojn oni povas skribi en eĉ pli etimologia stilo, kaj oni povas uzi 
 
 <!--v-->
 
-### ĭc
+### Ne-Akcentataj Ŝajnsufiksoj
+
+<!--v-->
+
+<small>Estas serio da ŝajnfinaĵoj, kiuj ne estas akcentataj. Ili portas hoketon. Anstataŭ ili akcentiĝas la silabo antaŭ ĝi.</small>
 
 <!--v-->
 
 | Esperanto | Linguo |
 |-|-|
+| tenera | **tenĕra** *[tene-ra]* |
+| | |
 | klasika | **classĭca** *[klasi-ka]* |
-
-<!--v-->
-
-### ĕr/ĭl/ŭl
-
-<!--v-->
-
-| Esperanto | Linguo |
-|-|-|
-| genro | **genĕro** *[ĵenro]* <small>*[dzene-ro]*</small> |
 | | |
-| probabla | **probabĭla** *[probabla]* <small>*[probabi-la]*</small> |
-| facila | **facĭla** *[fasla]* <small>*[faci-la]*</small> |
+| rapida | **rapĭda** *[rapi-da]* |
 | | |
-| partiklo | **particŭlo** *[partiklo]* <small>*[partiku-lo]*</small> |
+| facila | **facĭla** *[fasi-la]* |
+| | |
+| regulo | **regŭlo**  *[regu-lo]* |
 
-<!-- "probabla"/"probab'la" estas vorto pruntita el la latina. "provebla" estus "provavla" ("provavi-la"). -->
 
 <!--v-->
 
@@ -1699,22 +1741,6 @@ La grek-devenaj ŝajnfinaĵoj **-i**, **-ia** *[ia]*, **-a**, **-e** havas signi
 
 <!--v-->
 
-<small>Hoketitaj vokaloj de la ŝajnsufiksoj **-ĕr-**, **-ĭl-** kaj **-ŭl-** eliziiĝas. Tra bruo, ili restas prononcataj, sed malakcentataj en antaŭlasta pozicio.</small>
-
-<!--v-->
-
-| Esperanto | Lingua Intermediaria |
-|-|-|
-| letero | **lîtra**  *[litra]* <small>**littĕra** *[lite-ra]*</small> |
-| libera | **lîvra**  *[livra]* <small>**livĕra** *[live-ra]*</small> |
-| libro | **lîvro**  *[livro]* <small>**livĕro** *[live-ro]*</small> |
-| regulo | **rêgla**  *[regla]* <small>**regŭla** *[regu-la]*</small> |
-| simila | **sîmle**  *[simle]* <small>**simĭle** *[simi-le]*</small> |
-| | |
-| rapida | **rapĭda** *[rapi-da]* |
-
-<!--v-->
-
 <small>Vortofina **e** eliziiĝas post sufiksoj, kiu finiĝas je **r**, **l**, **n** aŭ **t**. Sufiksofina **t** ĉiam fariĝas **d**.</small>
 
 <!--v-->
@@ -1771,7 +1797,7 @@ La grek-devenaj ŝajnfinaĵoj **-i**, **-ia** *[ia]*, **-a**, **-e** havas signi
 | avantaĝo | **avantâjo** <small>**avantadĭc̆o**</small> *[avantaĵo]* <small>*[avantađi-o]*</small> |
 | formaĝo | **formâjo** <small>**formadĭc̆o**</small> *[formaĵo]* <small>*[formađi-o]*</small> |
 | kuraĝo | **corâjo** <small>**coradĭc̆o**</small> *[koraĵo]* <small>*[korađi-o]*</small> |
-| mesaĝo | **missâjo** <small>**missadĭc̆o**</small> *[misaĵo]* <small>*[misađi-o]</small> |
+| mesaĝo | **missâjo** <small>**missadĭc̆o**</small> *[misaĵo]* <small>*[misađi-o]*</small> |
 | pejzaĝo | **paesâjo** <small>**pağen̆sadĭc̆o**</small> *[paezaĵo]* <small>*[paezađi-o]*</small> |
 | vilaĝo | **villâjo** <small>**villadĭc̆o**</small> *[vilaĵo]* <small>*[vilađi-o]*</small> |
 | vojaĝo | **viâjo** <small>**viadĭc̆o**</small> *[viaĵo]* <small>*[viađi-o]*</small> |
@@ -3090,3 +3116,15 @@ La ŝajnsufikso **-atĭc-** prononciĝas *[ađj]* (= *[aðj]*).
 | *vi estas vidataj*  | | **vos esse videtas** | vos esse vidĭtas | *estis  vidĭtas* | | ***videmĭni*** |
 | *ili estas vidataj* | | **les esse videtas** | les esse vidĭtas | *sont   vidĭtas* | | ***videntur*** |
 
+| Esperanto | Lingua Intermediaria |
+|-|-|
+| libera | **lîvra**  *[livra]* <small>**livĕra** *[live-ra]*</small> |
+| libro | **lîvro**  *[livro]* <small>**livĕro** *[live-ro]*</small> |
+
+lunedo
+martedo
+merkurjedo
+ĵuvedo
+vendredo
+sabato
+...
