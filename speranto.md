@@ -535,27 +535,26 @@ Note:
 |-|-|
 | ĉambro | kamero |
 | letero | litero |
+| libera | libera |
 | tenera | tenera |
-| | |
-| humida | humida |
-| | |
-| facila | facila |
-| simila | simila |
-
-<!--v-->
-
-<small>La ŝajnsufikso *-ĕr-* de ĝermanaj vortoj mallongiĝas al *-r-*.</small>
 
 <!--v-->
 
 | Esperanto | Speranto |
 |-|-|
-| butero | butro |
-| fingro | fingro |
+| humida | humida |
+| rapida | rapida |
+| | |
+| facila | facila |
+| simila | simila |
+
+<!-- | libro | **lîvro**  *[livro]* <small>**livĕro** *[live-ro]*</small> | -->
 
 <!--v-->
 
-<small>La ŝajnsufikso *-ŭl-* de latinaj vortoj estas akcentata.</small>
+| Esperanto | Speranto |
+|-|-|
+| modulo | modulo |
 
 <!--v-->
 
@@ -573,14 +572,14 @@ Note:
 
 | Esperanto | Speranto |
 |-|-|
-| artikolo, artiklo | artikulo |
-| partikulo, partiklo | partikulo |
+| artikolo | artikulo |
+| partikulo | partikulo |
 
 <!--v-->
 
 | Esperanto | Speranto |
 |-|-|
-| artiklo, artikolo | artikulo |
+| artikolo | artikulo |
 | artikulacii | artikulacji |
 | | |
 | ĉapitro | kapitulo |
@@ -594,6 +593,20 @@ Note:
 
 <!--v-->
 
+<small>La ŝajnsufikso *-ĕr-* de ĝermanaj vortoj mallongiĝas al *-r-*.</small>
+
+<!-- kelnero -->
+<!-- partnero -->
+
+<!--v-->
+
+| Esperanto | Speranto |
+|-|-|
+| butero | butro |
+| fingro | fingro |
+
+<!--v-->
+
 <small>En neologismoj ŝajnfinaĵo povas esti mallongiĝinta.</small>
 
 <!--v-->
@@ -604,6 +617,9 @@ Note:
 | nobla | nobla |
 | probabla | probabla |
 | komprenebla | komprenebla |
+| | |
+| artiklo | artiklo |
+| partiklo | partiklo |
 
 <!--v-->
 
@@ -3120,11 +3136,6 @@ La ŝajnsufikso **-atĭc-** prononciĝas *[ađj]* (= *[aðj]*).
 | *ni estas vidataj*  | | **nos esse videtas** | nos esse vidĭtas | *somus  vidĭtas* | | ***videmur***  |
 | *vi estas vidataj*  | | **vos esse videtas** | vos esse vidĭtas | *estis  vidĭtas* | | ***videmĭni*** |
 | *ili estas vidataj* | | **les esse videtas** | les esse vidĭtas | *sont   vidĭtas* | | ***videntur*** |
-
-| Esperanto | Lingua Intermediaria |
-|-|-|
-| libera | **lîvra**  *[livra]* <small>**livĕra** *[live-ra]*</small> |
-| libro | **lîvro**  *[livro]* <small>**livĕro** *[live-ro]*</small> |
 
 lunedo
 martedo
