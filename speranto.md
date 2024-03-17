@@ -747,6 +747,7 @@ Note:
 | hodiaŭ | hodje |
 | | |
 | ĉirkaŭ | cirk' al |
+| anstataŭ | vic' al |
 
 <!--v-->
 
@@ -2717,12 +2718,12 @@ Duoblaj vokaloj en finaĵoj estas skribataj kun makrono.
 
 | Esperanto | Lingua Classĭca |
 |-|-|
-| mi estas vidata | **sêm visa** <small> **videor**</small> |
-| ci estas vidata | **ês visa** <small> **videris**</small> |
-| li estas vidata | **êst visa** <small> **videtur**</small> |
-| ni estas vidataj | **sêmus visas** <small> **videmur**</small> |
-| vi estas vidataj | **êstis visas** <small> **videmĭni**</small> |
-| ili estas vidataj | **sên visas** <small> **videntur**</small> |
+| mi estas vidata | **sêm visa** <small>**videor**</small> |
+| ci estas vidata | **ês visa** <small>**videris**</small> |
+| li estas vidata | **êst visa** <small>**videtur**</small> |
+| ni estas vidataj | **sêmus visas** <small>**videmur**</small> |
+| vi estas vidataj | **êstis visas** <small>**videmĭni**</small> |
+| ili estas vidataj | **sên visas** <small>**videntur**</small> |
 
 <!--v-->
 
@@ -3219,7 +3220,6 @@ Duoblaj vokaloj en finaĵoj estas skribataj kun makrono.
 | **solvĭto** | **soluto** |
 | **volvĭto** | **voluto** |
 
-
 <!-- Haveblas inter-paŝo: la adjektivo substantiviĝas. Tiam "bona" fariĝas "bono". Mencii du substantivojn sinsekve estas alia fenomeno, kiu kaŭzas "amico bono" aŭ "bono amico".
 * renverse: illi domo → illa domo
 Efektive Esperanto ja uzas substantivecajn "-iu"-tabelvortojn kiel adjektivojn. Tre pripensige! -->
@@ -3229,7 +3229,6 @@ Efektive Esperanto ja uzas substantivecajn "-iu"-tabelvortojn kiel adjektivojn. 
 * ĵus (apene)
 * beletio
 * cessi
-* vice al
 
 * plu(s)
 
