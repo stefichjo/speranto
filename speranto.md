@@ -590,7 +590,7 @@ Note:
 
 <!--v-->
 
-<small>La ŝajnfinaĵo *-ulacj-* mallongiĝas al *-ulac-* aŭ anstataŭiĝas per la sufikso *-um-*.</small>
+<small>Post la ŝajnfinaĵo *-ul-*, la ŝajnfinaĵo *-acj-* mallongiĝas al *-ac-* aŭ anstataŭiĝas per la sufikso *-um-*.</small>
 
 <!--v-->
 
