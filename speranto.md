@@ -544,7 +544,7 @@ Note:
 
 <!--v-->
 
-<small>La ŝajnsufikso **-er-** de ĝermanaj vortoj mallongiĝas al **-r-**.</small>
+<small>La ŝajnsufikso *-ĕr-* de ĝermanaj vortoj mallongiĝas al *-r-*.</small>
 
 <!--v-->
 
@@ -555,29 +555,46 @@ Note:
 
 <!--v-->
 
-<small>Simile, la ŝajnsufikso **-ŭl-** de latinaj vortoj mallongiĝas al **-l-**.</small>
+<small>La ŝajnsufikso *-ŭl-* de latinaj vortoj estas akcentata.</small>
 
 <!--v-->
 
 | Esperanto | Speranto |
 |-|-|
-| artikolo, artiklo | artiklo |
-| partikulo, partiklo | partiklo |
+| gratuli | gratuli |
+| makulo | makulo |
+| okulo | okulo |
 | | |
-| makulo | maklo |
-| okulo | oklo |
+| titolo | titulo |
 | | |
-| obstaklo | obstaklo |
+| obstaklo | obstakulo |
 
 <!--v-->
 
 | Esperanto | Speranto |
 |-|-|
-| kupli | kopli |
+| artikolo, artiklo | artikulo |
+| partikulo, partiklo | partikulo |
 
 <!--v-->
 
-<small>En neologismoj la ŝajnfinaĵo povas esti jam mallongiĝinta.</small>
+| Esperanto | Speranto |
+|-|-|
+| artiklo, artikolo | artikulo |
+| artikulacii | artikulacji |
+| | |
+| ĉapitro | kapitulo |
+| kapitulaci | kapitulacji |
+| | |
+| kupli | kopuli |
+| kopulacii | kopulacji |
+| | |
+| spegulo | spekulo |
+| spekuli | spekulacji |
+
+<!--v-->
+
+<small>En neologismoj ŝajnfinaĵo povas esti mallongiĝinta.</small>
 
 <!--v-->
 
@@ -590,17 +607,19 @@ Note:
 
 <!--v-->
 
-<small>Tiam **m-ĕr**, **m-ĕl** kaj **m-ŭl** fariĝas **mbr** kaj **mbl**.</small>
+<small>Tiam *m-ĕr*, *m-ĕl* kaj *m-ŭl* fariĝas *mbr* kaj *mbl*.</small>
 
 <!--v-->
 
 | Esperanto | Speranto |
 |-|-|
+| asembli | asimbli |
+| | |
 | stumbli | stumbli |
 
 <!--v-->
 
-<small>Analogie, **n-er** fariĝas **ndr**.</small>
+<small>Analogie, *n-er* fariĝas *ndr*.</small>
 
 <!--v-->
 
@@ -608,20 +627,6 @@ Note:
 |-|-|
 | cindro | cindro |
 | genro | ĵendro |
-
-<!--v-->
-
-<small>Verbaj radikoj je **t-ŭl-** finiĝas je **tulaci-**. Substantivoj je **t-ŭl-** finiĝas je **tr**.</small>
-
-<!--v-->
-
-| Esperanto | Speranto |
-|-|-|
-| gratulo | gratulacjo |
-| kapitulaco | kapitulacjo |
-| | |
-| ĉapitro | kapitro |
-| titolo | titro |
 
 <!--v-->
 
