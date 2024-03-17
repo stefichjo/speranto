@@ -535,8 +535,14 @@ Note:
 |-|-|
 | ĉambro | kamero |
 | letero | litero |
-| libera | libera |
 | tenera | tenera |
+
+<!--v-->
+
+| Esperanto | Speranto |
+|-|-|
+| libera | libera |
+| libro | libro |
 
 <!--v-->
 
@@ -548,7 +554,14 @@ Note:
 | facila | facila |
 | simila | simila |
 
-<!-- | libro | **lîvro**  *[livro]* <small>**livĕro** *[live-ro]*</small> | -->
+<!--v-->
+
+| Esperanto | Speranto |
+|-|-|
+| nebulo | nebulo |
+| | |
+| kablo | kabulo |
+| sablo | sabulo |
 
 <!--v-->
 
@@ -560,43 +573,65 @@ Note:
 
 | Esperanto | Speranto |
 |-|-|
-| gratuli | gratuli |
+| tabulo | tabulo |
+| tablo | tablo |
+
+<!--v-->
+
+| Esperanto | Speranto |
+|-|-|
 | makulo | makulo |
-| okulo | okulo |
-| | |
-| titolo | titulo |
-| | |
 | obstaklo | obstakulo |
-
-<!--v-->
-
-| Esperanto | Speranto |
-|-|-|
-| artikolo | artikulo |
+| okulo | okulo |
 | partikulo | partikulo |
+| | |
+| gratuli | gratuli |
+| titolo | titulo |
+
+<!--v-->
+
+<small>La ŝajnfinaĵo *-ulacj-* mallongiĝas al *-ulac-* aŭ anstataŭiĝas per la sufikso *-um-*.</small>
 
 <!--v-->
 
 | Esperanto | Speranto |
 |-|-|
 | artikolo | artikulo |
-| artikulacii | artikulacji |
+| artikulacii | artikulaci / artikulumi |
 | | |
 | ĉapitro | kapitulo |
-| kapitulaci | kapitulacji |
+| kapitulaci | kapitulaci / kapitulumi |
 | | |
 | kupli | kopuli |
-| kopulacii | kopulacji |
+| kopulacii | kopulaci / kopulumi |
 | | |
 | spegulo | spekulo |
-| spekuli | spekulacji |
+| spekuli | spekulaci / spekulumi |
+
+<!-- skatolo -->
+
+<!-- strange:
+partikulo = vorto
+partiklo = ero
+
+artikulo = vorto
+artikulacii = vortigi
+
+artikolo = vortoj
+artiklo = varo
+-->
+
 
 <!--v-->
 
-<small>La ŝajnsufikso *-ĕr-* de ĝermanaj vortoj mallongiĝas al *-r-*.</small>
+| Esperanto | Speranto |
+|-|-|
+| insulo | insulo |
+| izoli | insulaci / insulumi |
 
-<!-- kelnero -->
-<!-- partnero -->
+<!--v-->
+
+<small>La ŝajnsufikso *-ĕr-* de ĝermanaj vortoj laŭeble mallongiĝas al *-r-*.</small>
 
 <!--v-->
 
@@ -604,10 +639,13 @@ Note:
 |-|-|
 | butero | butro |
 | fingro | fingro |
+| | |
+| kelnero | kelnero |
+| partnero | partnero |
 
 <!--v-->
 
-<small>En neologismoj ŝajnfinaĵo povas esti mallongiĝinta.</small>
+<small>En neologismoj, ŝajnfinaĵo povas esti mallongiĝinta.</small>
 
 <!--v-->
 
@@ -623,7 +661,7 @@ Note:
 
 <!--v-->
 
-<small>Tiam *m-ĕr*, *m-ĕl* kaj *m-ŭl* fariĝas *mbr* kaj *mbl*.</small>
+<small>Tiam *m-er*, *m-el* kaj *m-ul* fariĝas *mbr* kaj *mbl*.</small>
 
 <!--v-->
 
@@ -1898,6 +1936,10 @@ La grek-devenaj ŝajnfinaĵoj **-i**, **-ia** *[ia]*, **-a**, **-e** havas signi
 
 <!--v-->
 
+## Adjektivo
+
+<!--v-->
+
 | Esperanto | Lingua Intermediaria |
 |-|-|
 | pli bona | **mâs bona** <small>**mağĭs bona**</small> |
@@ -2873,9 +2915,33 @@ Duoblaj vokaloj en finaĵoj estas skribataj kun makrono.
 | filo | **filio** *[fiḷo]* <small>*[fili-o]*</small> |
 | oleo | **oleo** *[ole-o]* |
 | | |
+| bezono | **besonio** *[bezoṅo]* <small>*[bezoni-o]*<small> |
 | stranga | **extranea** *[estraṅa]* <small>*[ekstrane-a]*</small> |
 | | |
 | regno | **regno** *[reṅo]* <small>*[regno]*</small> |
+
+<!--v-->
+
+### Elizioj
+
+<!--v-->
+
+| Esperanto | Lingua Meridionál |
+|-|-|
+| makulo | **mâcla** *[makla]* <small>**macŭla** *[maku-la]*</small> |
+
+<!--v-->
+
+| Esperanto | Lingua Meridionál |
+|-|-|
+| ŝajnas | **sîmbra** *[simbra]* <small>**simŭla** *[simu-la]*</small> |
+| simulas | **simŭla** *[simu-la]* |
+| | |
+| insulo | **îsla** *[isla]* <small>**in̆sŭla** *[insu-la]*</small> |
+| izolas | **insŭla** *[insu-la]* |
+| | |
+| regulo | **rêgla** *[regla]* <small>**regŭla** *[regu-la]*</small> |
+| reguligas | **regŭla** *[regu-la] |
 
 <!--v-->
 
@@ -3122,7 +3188,7 @@ Efektive Esperanto ja uzas substantivecajn "-iu"-tabelvortojn kiel adjektivojn. 
 * serĉi
 * renkonten = renkonti
 
-La ŝajnsufikso **-atĭc-** prononciĝas *[ađj]* (= *[aðj]*).
+La ŝajnsufikso **-atĭc-** prononciĝas *[ađj]*.
 
 * projekto
 * tatuo
@@ -3144,3 +3210,5 @@ merkurjedo
 vendredo
 sabato
 ...
+
+instrui situi
