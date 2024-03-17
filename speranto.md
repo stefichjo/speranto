@@ -2899,7 +2899,7 @@ Duoblaj vokaloj en finaĵoj estas skribataj kun makrono.
 | Esperanto | Lingua Meridionál |
 |-|-|
 | ĉemizo | **camisia** *[kamiŝa]* |
-| kisi | **basiár** *[baŝar']* |
+| kisi | **basiár** *[baŝaĥ']* |
 
 <!--v-->
 
@@ -3241,4 +3241,7 @@ lunedo martedo merkurjedo ĵovedo vendredo sabato ...
 instrui situi tatuo
 
 Lingua Classĭca: y [y], præ [æ/?], fœ [œ/ø]
+
+Konsiderindas [ŝ] por **s** kiam ĝi ne staras antaŭ vokalo.
+Ŝperanto
 
