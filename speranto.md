@@ -2993,7 +2993,7 @@ Duoblaj vokaloj en finaĵoj estas skribataj kun makrono.
 | izolas | **insŭla** *[insu-la]* |
 | | |
 | regulo | **rêgla** *[regla]* <small>**regŭla** *[regu-la]*</small> |
-| reguligas | **regŭla** *[regu-la] |
+| reguligas | **regŭla** *[regu-la]* |
 
 <!--v-->
 
