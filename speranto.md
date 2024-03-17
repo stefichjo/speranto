@@ -361,7 +361,7 @@ Note:
 
 <!--v-->
 
-### (Nov-)Latinidaj Vortoj
+### Latinidaj Vortoj
 
 <!--v-->
 
@@ -372,15 +372,22 @@ Note:
 
 <!--v-->
 
+| Esperanto | Speranto |
+|-|-|
+| ĉirkaŭiri | cirki |
+| serĉi | kveri |
+
+<!--v-->
+
 ### Grekaj Vortoj
 
 <!--v-->
 
 | Esperanto | Speranto |
 |-|-|
-| eĥo | **eĥo** |
-| kemio | **ĥemio** |
-| mekaniko | **meĥaniko** |
+| eĥo | eĥo |
+| kemio | ĥemio |
+| mekaniko | meĥaniko |
 
 <!--v-->
 
@@ -456,6 +463,7 @@ Note:
 
 | Esperanto | Speranto |
 |-|-|
+| ĉarma | ŝarma |
 | ĉe | ŝe |
 | formaĝo | fromaĵo |
 | ŝanco | ŝanso |
@@ -533,16 +541,11 @@ Note:
 
 | Esperanto | Speranto |
 |-|-|
+| cindro | cinero |
 | ĉambro | kamero |
 | letero | litero |
-| tenera | tenera |
-
-<!--v-->
-
-| Esperanto | Speranto |
-|-|-|
 | libera | libera |
-| libro | libro |
+| tenera | tenera |
 
 <!--v-->
 
@@ -573,8 +576,7 @@ Note:
 
 | Esperanto | Speranto |
 |-|-|
-| tabulo | tabulo |
-| tablo | tablo |
+| popolo | populo |
 
 <!--v-->
 
@@ -584,9 +586,25 @@ Note:
 | obstaklo | obstakulo |
 | okulo | okulo |
 | partikulo | partikulo |
-| | |
+
+<!--v-->
+
+| Esperanto | Speranto |
+|-|-|
 | gratuli | gratuli |
 | titolo | titulo |
+
+<!--v-->
+
+<small>Por eviti semantikan kolizion, origine ne-akcentata ŝajnsufikso povas mallongiĝi.</small>
+
+<!--v-->
+
+| Esperanto | Speranto |
+|-|-|
+| tabulo | tabulo |
+| | |
+| tablo | tablo |
 
 <!--v-->
 
@@ -637,10 +655,11 @@ Note:
 
 | Esperanto | Speranto |
 |-|-|
+| -ebla | -ebla |
+| | |
 | establi | etabli |
 | nobla | nobla |
 | probabla | probabla |
-| komprenebla | komprenebla |
 | | |
 | artiklo | artiklo |
 | partiklo | partiklo |
@@ -665,7 +684,6 @@ Note:
 
 | Esperanto | Speranto |
 |-|-|
-| cindro | cindro |
 | genro | ĵendro |
 
 <!--v-->
@@ -800,6 +818,16 @@ Note:
 | flanko | lato |
 | savi | salvi |
 | ŝajni | simbli |
+
+<!--v-->
+
+<small>Kvankam *riĉa* estas origine ĝermana vorto, ĝi aperas en ĉiuj latinidaj lingvoj kaj tial kalkuliĝas kiel latinida vorto.</small>
+
+<!--v-->
+
+| Esperanto | Peranto |
+|-|-|
+| riĉa | rika |
 
 <!--v-->
 
@@ -1044,11 +1072,11 @@ Multajn vortojn oni povas skribi en eĉ pli etimologia stilo, kaj oni povas uzi 
 
 <!--v-->
 
-### Ne-Akcentataj Ŝajnsufiksoj
+### Ŝajnsufiksoj
 
 <!--v-->
 
-<small>Estas serio da ŝajnfinaĵoj, kiuj ne estas akcentataj. Ili portas hoketon. Anstataŭ ili akcentiĝas la silabo antaŭ ĝi.</small>
+<small>Estas serio da ne-akcentataj ŝajnfinaĵoj. Ili portas hoketon. Anstataŭ ili akcentiĝas la silabo antaŭ ĝi.</small>
 
 <!--v-->
 
@@ -1771,7 +1799,7 @@ La grek-devenaj ŝajnfinaĵoj **-i**, **-ia** *[ia]*, **-a**, **-e** havas signi
 
 <!--v-->
 
-<small>La ŝajnfinaĵoj **-ĭn-** kaj **-ĭt** eliziiĝas.</small>
+<small>La ŝajnfinaĵoj **-ĭn-** kaj **-ĭt** eliziiĝas, se ĝi ne ekzistas en la latina nominativo.</small>
 
 <!--v-->
 
@@ -2687,6 +2715,17 @@ Duoblaj vokaloj en finaĵoj estas skribataj kun makrono.
 
 <!--v-->
 
+| Esperanto | Lingua Classĭca |
+|-|-|
+| mi estas vidata | **sêm visa** <small> **videor**</small> |
+| ci estas vidata | **ês visa** <small> **videris**</small> |
+| li estas vidata | **êst visa** <small> **videtur**</small> |
+| ni estas vidataj | **sêmus visas** <small> **videmur**</small> |
+| vi estas vidataj | **êstis visas** <small> **videmĭni**</small> |
+| ili estas vidataj | **sên visas** <small> **videntur**</small> |
+
+<!--v-->
+
 ### Malregulaj Verboj
 
 <!--v-->
@@ -2886,7 +2925,6 @@ Duoblaj vokaloj en finaĵoj estas skribataj kun makrono.
 | aŭ | **au** *[o]* |
 | | |
 | afero | **causa** *[koza]* |
-| povra | **pauvĕra** *[povra]* <small>*[pove-ra]*</small> |
 | oro | **auro** *[oro]* |
 
 <!--v-->
@@ -2914,16 +2952,43 @@ Duoblaj vokaloj en finaĵoj estas skribataj kun makrono.
 
 | Esperanto | Lingua Meridionál |
 |-|-|
-| makulo | **mâcla** *[makla]* <small>**macŭla** *[maku-la]*</small> |
+| cindro | **cîndre** *[sindre]* <small>**cinĕre** *[cine-re]*</small> |
+| ĉambro | **câmbro** *[kambra]* <small>**camĕra** *[kame-ra]*</small> |
+| letero | **lîtra** *[litra]* <small>**littĕra** *[lite-ra]*</small> |
+| libera | **lîvra** *[livra]* <small>**libĕra** *[libe-ra]*</small> |
+| tenera | **têndra** *[tendra]* <small>**tenĕra** *[tene-ra]*</small> |
 
 <!--v-->
 
 | Esperanto | Lingua Meridionál |
 |-|-|
+| makulo | **mâcla** *[makla]* <small>**macŭla** *[maku-la]*</small> |
+| nebulo | **nêblo** *[neblo]* <small>**nebŭla** *[nebu-la]*</small> |
+| obstaklo | **obstâclo** *[obstaklo]* <small>**obstacŭlo** *[obstaku-lo]*</small> |
+| okulo | **ôclo** *[oklo]* <small>**ocŭlo** *[oku-lo]*</small> |
+
+<!--v-->
+
+<small>Tiam **pŭl** kaj **pĕr** fariĝas **bl** kaj **br**. **mŭl** kaj **tŭl** fariĝas **mbr** kaj **tr**.</small>
+
+<!--v-->
+
+| Esperanto | Lingua Meridionál |
+|-|-|
+| popolo | **pôblo** *[poblo]* <small>**popŭlo** *[popu-lo]*</small> |
+| povra | **pâubra** *[pobra]* <small>**paupĕra** *[pope-ra]*</small> |
+| | |
+| ĉâpitro | **capîtro** *[kapitro]* <small>**capitŭlo** *[kapitu-lo]*</small> |
+| titolo | **tîtro** *[titro]* <small>**titŭlo** *[titu-lo]*</small> |
+| | |
 | ŝajnas | **sîmbra** *[simbra]* <small>**simŭla** *[simu-la]*</small> |
 | simulas | **simŭla** *[simu-la]* |
-| | |
-| insulo | **îsla** *[isla]* <small>**in̆sŭla** *[insu-la]*</small> |
+
+<!--v-->
+
+| Esperanto | Lingua Meridionál |
+|-|-|
+| insulo | **îsla** *[isla]* <small>**insŭla** *[insu-la]*</small> |
 | izolas | **insŭla** *[insu-la]* |
 | | |
 | regulo | **rêgla** *[regla]* <small>**regŭla** *[regu-la]*</small> |
@@ -2960,8 +3025,8 @@ Duoblaj vokaloj en finaĵoj estas skribataj kun makrono.
 
 | Esperanto | Lingua Meridionál |
 |-|-|
-| aŭ | **au** *[o]* |
-| kaj | **e** |
+| aŭ | **au** *[o]* <small>**aud** *[od]*</small> |
+| kaj | **e** <small>**ed**</small> |
 
 <!--s-->
 
@@ -3161,40 +3226,20 @@ Efektive Esperanto ja uzas substantivecajn "-iu"-tabelvortojn kiel adjektivojn. 
 
 <!-- * Adjektivo *antaŭ* substantivo estas subjektiva, t.e. laŭ la perspektivo de la parolanto / unua persono. Adjektivo *malantaŭ* substantivo estas objektiva, t.e. laŭ la perspektivo de la aŭskultanto / dua persono. -->
 
-* ĵus
+* ĵus (apene)
 * beletio
 * cessi
-* situi
 * vice al
 
 * plu(s)
 
-* ĉarma
-* riĉa
-* serĉi
 * renkonten = renkonti
 
-La ŝajnsufikso **-atĭc-** prononciĝas *[ađj]*.
+* karaktero carácter
 
-* projekto
-* tatuo
-* karaktero
+lunedo martedo merkurjedo ĵovedo vendredo sabato ...
 
-| | | | | | | |
-|-|-|-|-|-|-|-|
-| *mi estas vidata*   | | **me esse videta**   | me esse vidĭta   | *so     vidĭta*  | | ***videor***   |
-| *ci estas vidata*   | | **te esse videta**   | te esse vidĭta   | *es     vidĭta*  | | ***videris***  |
-| *li estas vidata*   | | **le esse videta**   | le esse vidĭta   | *est    vidĭta*  | | ***videtur***  |
-| *ni estas vidataj*  | | **nos esse videtas** | nos esse vidĭtas | *somus  vidĭtas* | | ***videmur***  |
-| *vi estas vidataj*  | | **vos esse videtas** | vos esse vidĭtas | *estis  vidĭtas* | | ***videmĭni*** |
-| *ili estas vidataj* | | **les esse videtas** | les esse vidĭtas | *sont   vidĭtas* | | ***videntur*** |
+instrui situi tatuo
 
-lunedo
-martedo
-merkurjedo
-ĵuvedo
-vendredo
-sabato
-...
+Lingua Classĭca: y [y], præ [æ/?], fœ [œ/ø]
 
-instrui situi
