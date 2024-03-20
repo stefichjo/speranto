@@ -1983,10 +1983,10 @@ La grek-devenaj ŝajnfinaĵoj **-i**, **-ia** *[ia]*, **-a**, **-e** havas signi
 |-|-|
 | lundo | **lunadí** |
 | marto | **martedí** |
-| merkredo | **mercŭredí** |
+| merkredo | **mercuriodí** |
 | ĵaŭdo | **jovedí** |
 | vendredo | **venĕredí** |
-| sabato | **sabăto** |
+| sabato | **saturnodí** |
 | dimanĉo | **domĭnodí** <small>**dio dominĭca**</small> |
 
 <!--v-->
