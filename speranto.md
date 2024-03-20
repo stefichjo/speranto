@@ -367,7 +367,9 @@ Note:
 
 | Esperanto | Speranto |
 |-|-|
+| aperi | apari |
 | esti | esi |
+| ĵus | apene |
 | supozi | suponi |
 
 <!--v-->
@@ -1029,6 +1031,14 @@ Multajn vortojn oni povas skribi en eĉ pli etimologia stilo, kaj oni povas uzi 
 
 <!--v-->
 
+<small>La sufikso *-eco* fakte venas de **-itĭa**, sed en **Linguo**, ĝi traktiĝas kvazaŭ ĝi venus de **-etĕa**.</small>
+
+| Esperanto | Linguo |
+|-|-|
+| beleco | **beleço** <small>**belletĕo**</small> *[beleso]* <small>*[beleŧo]*</small> |
+
+<!--v-->
+
 ### d
 
 <!--v-->
@@ -1379,9 +1389,10 @@ Multajn vortojn oni povas skribi en eĉ pli etimologia stilo, kaj oni povas uzi 
 
 | Esperanto | Lingue |
 |-|-|
-| Mi vidas. | **Mi vidan.** |
-| | |
-| Vidu! | **Viden!** |
+| renkonten | **al incontre** <small>**incontru**</small> |
+| renkonti | **incontru** |
+| renkontas | **incontran** |
+| renkontu | **incontren** |
 
 <!--v-->
 
@@ -1491,6 +1502,13 @@ La grek-devenaj ŝajnfinaĵoj **-i**, **-ia** *[ia]*, **-a**, **-e** havas signi
 | | |
 | universa | **universale** |
 | stela | **stellare** |
+
+<!--v-->
+
+| Esperanto | Lingua |
+|-|-|
+| pli bona | **mâs bona** <small>**mağĭs bona**</small> |
+| plej bona | **la max bona** |
 
 <!--v-->
 
@@ -1702,10 +1720,14 @@ La grek-devenaj ŝajnfinaĵoj **-i**, **-ia** *[ia]*, **-a**, **-e** havas signi
 
 <!--v-->
 
+<small>Verboj je **-ár** kaj **-ír** havas pasivan participon je **-ata** kaj **-ita**. Verboj je **-ér** havas pasivan participon je **-ĭta**.</small>
+
+<!--v-->
+
 | Esperanto | Lingua |
 |-|-|
 | amata | **amata** |
-| vidata | **vidĕta** *~~[vidta]~~* <small>*[vide-ta]*</small> |
+| vidata | **vidĭta** <small>*[vidi-ta]*</small> |
 | aŭdata | **audita** |
 
 <!--v-->
@@ -1725,7 +1747,7 @@ La grek-devenaj ŝajnfinaĵoj **-i**, **-ia** *[ia]*, **-a**, **-e** havas signi
 | Esperanto | Lingua |
 |-|-|
 | estas aminta | **hâ amato** |
-| estas vidinta | **hâ vidĕta** |
+| estas vidinta | **hâ vidĭto** |
 | estas aŭdinta | **hâ audito** |
 
 <!--v-->
@@ -1733,7 +1755,7 @@ La grek-devenaj ŝajnfinaĵoj **-i**, **-ia** *[ia]*, **-a**, **-e** havas signi
 | Esperanto | Lingua |
 |-|-|
 | estis aminta | **haveva amato** |
-| estis vidinta | **haveva vidĕta** |
+| estis vidinta | **haveva vidĭto** |
 | estis aŭdinta | **haveva audito** |
 
 <!--v-->
@@ -1741,7 +1763,7 @@ La grek-devenaj ŝajnfinaĵoj **-i**, **-ia** *[ia]*, **-a**, **-e** havas signi
 | Esperanto | Lingua |
 |-|-|
 | estos aminta | **hará amato** |
-| estos vidinta | **hará vidĕta** |
+| estos vidinta | **hará vidĭto** |
 | estos aŭdinta | **hará audito** |
 
 <!--v-->
@@ -1957,8 +1979,8 @@ La grek-devenaj ŝajnfinaĵoj **-i**, **-ia** *[ia]*, **-a**, **-e** havas signi
 
 | Esperanto | Lingua Intermediaria |
 |-|-|
-| pli bona | **mâs bona** <small>**mağĭs bona**</small> |
-| plej bona | **la max bona** |
+| pli bona | **mâs bona** <small>**meliore**</small> |
+| plej bona | **la max bona** <small>**optima**</small> |
 
 <!--v-->
 
@@ -1969,11 +1991,17 @@ La grek-devenaj ŝajnfinaĵoj **-i**, **-ia** *[ia]*, **-a**, **-e** havas signi
 | Esperanto | Lingua Intermediaria |
 |-|-|
 | alte | **altamente** <small>**alto**</small> |
+| certe | **certamente** <small>**certo**</small> |
+| klare | **claramente** <small>**claro**</small> |
 | nur | **solamente** <small>**solo**</small> |
 | | |
 | plu | **mâis** <small>**mağis**</small> |
 
 <!--v-->
+
+| Esperanto | Lingua Intermediaria |
+|-|-|
+| bone | **bonamente** <small>**bene**</small> |
 
 ### Malregulaj Adverboj
 
@@ -2395,6 +2423,10 @@ Por la perfektaj formoj de **îr** uziĝas la verbo **sêr**.
 
 ## Prononco
 
+<!-- TODO
+Umlaute
+"s" -->
+
 <!--v-->
 
 ### c, g
@@ -2706,13 +2738,190 @@ Duoblaj vokaloj en finaĵoj estas skribataj kun makrono.
 
 <!--v-->
 
+ <small>Samkiel verboj je **-ire**, la verboj je **-ĭre** kaj **-ĕre** havas pasivan participon je **-ĭta**. Tiu **-ĭta** asimiliĝas al la verba radiko: **capta** <small>**(capĭta)**</small>.</small>
+
+<!--v-->
+
 | Esperanto | Lingua Classĭca |
 |-|-|
 | amata/-ita | **amata** |
-| vidata/-ita | **visa** |
+| vidata/-ita | **visa** <small>**(vidĭta)**</small> |
 | aŭdata/-ita | **audita** |
-| legata/-ita | **lecta** |
-| kaptata/-ita | **capta** |
+| legata/-ita | **lecta** <small>**(legĭta)**</small> |
+| kaptata/-ita | **capta** <small>**(capĭta)**</small> |
+
+<!--v-->
+
+<small>Rezultantaj **bt** kaj **gt** fariĝas **pt** kaj **ct**: **scripta** <small>**(scribĭta)**</small>, **lecta** <small>**(legĭta)**</small>. Ankaŭ **ht** fariĝas **ct**: **tracta** <small>**(trahĭta)**</small>.</small>
+
+<!--v-->
+
+**acta** <small>**(agĭta)**</small>,
+**aperta** <small>**(aperita → aperĭta)**</small>,
+**canta** <small>**(canĭta)**</small>,
+**capta** <small>**(capĭta)**</small>,
+**colta** <small>**(colĭta)**</small>,
+**coperta** <small>**(coŏperita → coŏperĭta)**</small>,
+**dicta** <small>**(dicĭta)**</small>,
+**ducta** <small>**(ducĭta)**</small>,
+**facta** <small>**(facĭta)**</small>,
+**flicta** <small>**(fligĭta)**</small>,
+**functa** <small>**(fungĭta)**</small>,
+**iacta** <small>**(iacĭta)**</small>,
+**lecta** <small>**(legĭta)**</small>,
+**puncta** <small>**(pungĭta)**</small>,
+**rapta** <small>**(rapĭta)**</small>,
+**recta** <small>**(regĭta)**</small>,
+**salta** <small>**(salĭta)**</small>,
+**sancta** <small>**(sancita → sancĭta)**</small>,
+**scripta** <small>**(scribĭta)**</small>,
+**sepulta** <small>**(sepelita → sepělĭta)**</small>,
+**specta** <small>**(spicĭta → spïcĭta)**</small>,
+**tecta** <small>**(tegĭta)**</small>,
+**tenta** <small>**(tenĭta)**</small>,
+**tracta** <small>**(trahĭta)**</small>,
+**uncta** <small>**(ungĭta)**</small>,
+**vecta** <small>**(vehĭta)**</small>,
+**venta** <small>**(venita → venĭta)**</small>
+
+<!--v-->
+
+<small>Malregule, kelkaj rezultantaj **nct** fariĝas **ct**: **~~tancta~~** → **tacta** <small>**(tangĭta → tan̆gĭta)**</small>.</small>
+
+<!--v-->
+
+**ficta** <small>**(fingĭta → fin̆gĭta)**</small>,
+**fracta** <small>**(frangĭta → fran̆gĭta)**</small>,
+**picta** <small>**(pingĭta → pin̆gĭta)**</small>,
+**pista** <small>**(pinsĭta → pin̆sĭta)**</small>,
+**tacta** <small>**(tangĭta → tan̆gĭta)**</small>,
+**victa** <small>**(vincĭta → vin̆cĭta)**</small>
+
+<!--v-->
+
+<small>**d** kaj **t** fariĝas **s** kaj **ss**: **casa** <small>**(cadĭta)**</small>, **passa** <small>**(patĭta)**</small>. Post konsonanto, **ss** skribiĝas **s**: **~~verssa~~** → **versa** <small>**(vertĭta)**</small>. Rezultanta **ts** fariĝas **ss**: **~~mitsa~~** → **missa** <small>**(mittĭta)**</small>. **cs** skribiĝas **x**: **~~flecsa~~** → **flexa** <small>**(flectĭta)**</small>.
+
+<!--v-->
+
+**casa** <small>**(cadĭta)**</small>,
+**censa** <small>**(candĭta → cändĭta)**</small>,
+**cussa** <small>**(cutĭta)**</small>,
+**fensa** <small>**(fendĭta)**</small>,
+**flexa** <small>**(flectĭta)**</small>,
+**laesa** <small>**(laedĭta)**</small>,
+**missa** <small>**(mittĭta)**</small>,
+**nexa** <small>**(nectĭta)**</small>,
+**pansa** <small>**(pandĭta)**</small>,
+**passa** <small>**(patĭta)**</small>,
+**pensa** <small>**(pendĭta)**</small>,
+**plausa** <small>**(plaudĭta)**</small>,
+**plosa** <small>**(plodĭta)**</small>,
+**prensa** <small>**(prendĭta)**</small>,
+**rasa** <small>**(radĭta)**</small>,
+**scansa** <small>**(scandĭta)**</small>,
+**sensa** <small>**(sentita → sentĭta)**</small>,
+**sponsa** <small>**(spondĭta)**</small>,
+**vasa** <small>**(vadĭta)**</small>,
+**visa** <small>**(vidĭta)**</small>,
+**versa** <small>**(vertĭta)**</small>
+
+<!--v-->
+
+<small>Malregule, kelkaj **d** fariĝas **ss** anstataŭ **s**.</small>
+
+<!--v-->
+
+**cessa** <small>**(cadĭta → cätĭta)**</small>,
+**gressa** <small>**(gradĭta → grätĭta)**</small>,
+**sessa** <small>**(sedĭta → setĭta)**</small>
+
+<!--v-->
+
+<small>Konserviĝas **-dĭta**, kiam ĝi origine estis **data**, t.e. la participo de **dare**: **perdĭta**.</small>
+
+<!--v-->
+
+**condĭta**,
+**credĭta**,
+**perdĭta**,
+**reddĭta**,
+**vendĭta**
+
+<!--v-->
+
+<small>**ll** kaj **rr** asimiliĝas kun **ĭt** al **ls** kaj **rs**. Simile, **rg** asimiliĝas kun **ĭt** al **rs**.</small>
+
+<!--v-->
+
+**falsa** <small>**(fallĭta)**</small>,
+**cursa** <small>**(currĭta)**</small>,
+**mersa** <small>**(mergĭta)**</small>,
+**tersa** <small>**(tergĭta)**</small>,
+**pulsa** <small>**(pellĭta → pěllĭta)**</small>
+
+<!-- tolto -->
+
+<!--v-->
+
+<small>Radikofina postkonsonanta **u**/**v** konserviĝas en **soluta** <small>**(solvĭta)**</small> kaj **secuta** <small>**(sequĭta)**</small>. Post **g**, **u** eliziiĝas en **stincta** <small>**(stinguĭta)**</small>.</small>
+
+<!--v-->
+
+**secuta** <small>**(sequĭta)**</small>,
+**soluta** <small>**(solvĭta)**</small>,
+**stincta** <small>**(stinguĭta)**</small>,
+**voluta** <small>**(volvĭta)**</small>
+
+<!--v-->
+
+<small>**m** kun **ĭt** asimiliĝas al **ss** en **pressa** <small>**(premĭta)**</small>.</small>
+
+<!--v-->
+
+**pressa** <small>**(premĭta)**</small>
+
+<!--v-->
+
+<small>Kelkaj participoj estas malregulaj.</small>
+
+<!--v-->
+
+**creta**, <small>**(crescĭta)**</small>
+**fluxa** <small>**(~~fluĭto~~)**</small>,
+**petito** <small>**(~~petĭto~~)**</small>,
+**posĭta** <small>**(~~ponĭto~~)**</small>,
+**secta** <small>**(secata → secĭta)**</small>,
+**structa** <small>**(~~struĭta~~)**</small>,
+**torta** <small>**(~~torquĭto~~)**</small>
+
+<!--v-->
+
+<small>Malregule, **ĭt** konserviĝas en kelkaj okazoj.</small>
+
+<!--v-->
+
+**~~bipta~~** → **bibĭta**,
+**~~depta~~** → **debĭta**,
+**~~gignĭta~~** → **genĭta**,
+**~~hapta~~** → **habĭta**,
+**~~licta~~** → **licĭta**,
+**~~noscĭta~~** → **nota**,
+**~~valta~~** → **valĭta**,
+**~~placta~~** → **placĭta**,
+
+<!--v-->
+
+<small>Malregula pasiva participo povas esti uzata kiel substantivo, sed ne por la pasiva participo mem.</small>
+
+<!--v-->
+
+| Esperanto | Lingua Classĭca |
+|-|-|
+| spirblovata/-ita | **halata** |
+| spirblovo | **halĭto** |
+| | |
+| spirata/-ita | **spirata** |
+| spiro, spirito | **spirĭto** |
 
 <!--v-->
 
@@ -2733,13 +2942,13 @@ Duoblaj vokaloj en finaĵoj estas skribataj kun makrono.
 
 | Esperanto | Lingua Classĭca |
 |-|-|
-| mi estas | **sêm** <small>**essem**</small> |
-| ci estas | **ês** <small>**esses**</small> |
-| li estas | **êst** <small>**esset**</small> |
+| mi estas | **sêm** <small>**(essem)**</small> |
+| ci estas | **ês** <small>**(esses)**</small> |
+| li estas | **êst** <small>**(esset)**</small> |
 | | |
-| ni estas | **sêmus** <small>**essĕmus**</small> |
-| vi estas | **êstis** <small>**essĕtis**</small> |
-| ili estas | **sên** <small>**essent**</small> |
+| ni estas | **sêmus** <small>**(essĕmus)**</small> |
+| vi estas | **êstis** <small>**(essĕtis)**</small> |
+| ili estas | **sên** <small>**(essent)**</small> |
 
 <!--v-->
 
@@ -2795,7 +3004,7 @@ Duoblaj vokaloj en finaĵoj estas skribataj kun makrono.
 
 <!--v-->
 
-<small>En skriba lingvo uziĝas malregulaj perfektaj verbaj radikoj kun longa vokalo anstataŭ **ev**: **videvī** → **vīdī**, **legevī** → **lēgī**. (Koincide, malregulaj verboj havas malregulan pasivan participon, ekzemple: **vidĕta** → **visa**, **legĕta** → **lecta**.)</small>
+<small>En skriba lingvo uziĝas malregulaj perfektaj verbaj radikoj kun longa vokalo anstataŭ **ev**: **videvī** → **vīdī**, **legevī** → **lēgī**. (Koincide, malregulaj verboj havas malregulan pasivan participon, ekzemple: **vidĭta** → **visa**, **legĭta** → **lecta**.)</small>
 
 <small>Anstataŭ longa **ā** uziĝas longa **ē**: **cāpī** → **cēpī**.</small>
 
@@ -2846,6 +3055,7 @@ Duoblaj vokaloj en finaĵoj estas skribataj kun makrono.
 
 | Esperanto | Lingua Meridionál |
 |-|-|
+| koro | **côr** |
 | maro | **mâr** |
 | pano | **pân** |
 | reto | **rêd** |
@@ -2953,11 +3163,31 @@ Duoblaj vokaloj en finaĵoj estas skribataj kun makrono.
 
 | Esperanto | Lingua Meridionál |
 |-|-|
-| cindro | **cîndre** *[sindre]* <small>**cinĕre** *[cine-re]*</small> |
-| ĉambro | **câmbro** *[kambra]* <small>**camĕra** *[kame-ra]*</small> |
 | letero | **lîtra** *[litra]* <small>**littĕra** *[lite-ra]*</small> |
-| libera | **lîvra** *[livra]* <small>**libĕra** *[libe-ra]*</small> |
+
+<!--v-->
+
+| Esperanto | Lingua Meridionál |
+|-|-|
+| cindro | **cîndre** *[sindre]* <small>**cinĕre** *[cine-re]*</small> |
 | tenera | **têndra** *[tendra]* <small>**tenĕra** *[tene-ra]*</small> |
+
+<!--v-->
+
+| Esperanto | Lingua Meridionál |
+|-|-|
+| ĉambro | **câmbro** *[kambra]* <small>**camĕra** *[kame-ra]*</small> |
+| | |
+| verko | **ôbra** *[obra]* <small>**opĕra** *[ope-ra]*</small> |
+| | |
+| libera | **lîvra** *[livra]* <small>**libĕra** *[libe-ra]*</small> |
+
+<!--v-->
+
+| Esperanto | Lingua Meridionál |
+|-|-|
+| kovras | **côbre** *[kobre]* <small>**coŏpere** *[koopere]*</small> |
+| malfermas | **âbre** *[abre]* <small>**apere** *[apere]*</small> |
 
 <!--v-->
 
@@ -2967,6 +3197,7 @@ Duoblaj vokaloj en finaĵoj estas skribataj kun makrono.
 | nebulo | **nêblo** *[neblo]* <small>**nebŭla** *[nebu-la]*</small> |
 | obstaklo | **obstâclo** *[obstaklo]* <small>**obstacŭlo** *[obstaku-lo]*</small> |
 | okulo | **ôclo** *[oklo]* <small>**ocŭlo** *[oku-lo]*</small> |
+| spektaklo | **spectâclo** *[spektaklo]* <small>**spectacŭlo** *[spektaku-lo]*</small> |
 
 <!--v-->
 
@@ -2981,9 +3212,6 @@ Duoblaj vokaloj en finaĵoj estas skribataj kun makrono.
 | | |
 | ĉâpitro | **capîtro** *[kapitro]* <small>**capitŭlo** *[kapitu-lo]*</small> |
 | titolo | **tîtro** *[titro]* <small>**titŭlo** *[titu-lo]*</small> |
-| | |
-| ŝajnas | **sîmbra** *[simbra]* <small>**simŭla** *[simu-la]*</small> |
-| simulas | **simŭla** *[simu-la]* |
 
 <!--v-->
 
@@ -2994,6 +3222,13 @@ Duoblaj vokaloj en finaĵoj estas skribataj kun makrono.
 | | |
 | regulo | **rêgla** *[regla]* <small>**regŭla** *[regu-la]*</small> |
 | reguligas | **regŭla** *[regu-la]* |
+
+<!--v-->
+
+| Esperanto | Lingua Meridionál |
+|-|-|
+| ŝajnas | **sîmbra** *[simbra]* <small>**simŭla** *[simu-la]*</small> |
+| simulas | **simŭla** *[simu-la]* |
 
 <!--v-->
 
@@ -3039,209 +3274,16 @@ Duoblaj vokaloj en finaĵoj estas skribataj kun makrono.
 
 ***Lingvoo*** estas dialekto de [***Lingveo***](lingue.md) kaj pruntas el [***Sprako***](sprak.md) kaj [***Jaziko***](jazyk.md). **Lingvoo** havas diversajn akĉentojn. [***Esperanto***](https://eo.wikipedia.org/wiki/Esperanto) estas dialekto de ***Speranto***, t.e. la Slav-Ĝermana akĉento de ***Lingvoo***.
 
+<!--v-->
 
-**a-Verboj:**
-
-| | cf. |
-|-|-|
-| **secato** | **secto**  |
-
-| | cf. |
-|-|-|
-| **halato**  | **halĭto**  |
-| **spirato** | **spirĭto** |
-
-**i-Verboj:**
-
-| | cf. |
-|-|-|
-| **sancito**  | **sancto**  |
-| **sepelito** | **sepulto** |
-| **salito**   | **salto**   |
-| **sentito**  | **senso**   |
-| **aperito**  | **aperto**  |
-| **coperito** | **coperto** |
-
-**e-Verboj:**
-
-| |
-|-|
-| **debĭto**  |
-| **habĭto**  |
-| **licĭto**  |
-| **valĭto**  |
-| **placĭto** |
-| **iacĭto**  | <!-- iacitūrum -->
-
-| | |
-|-|-|
-| **tergĭto**  | **terso**  |
-| **tenĭto**   | **tento**  |
-| **sedĭto**   | **sesso**  |
-| **tergĭto**  | **terso**  |
-| **spondĭto** | **sponso** |
-| **vidĭto**   | **viso**   |
-| **torquĭto** | **torso**  | <!-- / torto -->
-
-**ĭ-Verboj kaj ĕ-Verboj:**
-
-| |
-|-|
-| **bibĭto** | <!-- scribĭto scripto -->
-| **arguĭto** |
-
-| < dare |
-|-|
-| **credĭto** |
-| **vendĭto** |
-| **perdĭto** |
-| **reddĭto** |
-| **condĭto** |
-
-| | |
-|-|-|
-| ***-c-*** | |
-| **dicĭto**  | **dicto**  |
-| **ducĭto**  | **ducto**  |
-| **facĭto**  | **facto**  |
-| **iacĭto**  | **iacto**  |
-| **spicĭto** | **spïcto** | <!-- ï -->
-| | |
-| ***-g-*** | |
-| **agĭto**    | **acto**    |
-| **-fligĭto** | **-flicto** |
-| **legĭto**   | **lecto**   |
-| **regĭto**   | **recto**   |
-| **tegĭto**   | **tecto**   |
-| | |
-| ***-h-*** | |
-| **trahĭto**  | **tracto**   |
-| **vehĭto**   | **vecto**    |
-| | |
-| ***-n-*** | |
-| **canĭto**  | **canto**  | <!-- supinum "cantum", poet. "canus", cantātum ... :/ -->
-| | |
-| ***-p-*** | |
-| **capĭto**  | **capto**  |
-| **rapĭto**  | **rapto**  |
-
-<!-- ponĭto posĭto -->
-<!-- gignĭto genĭto -->
-<!-- tremĭto ??? -->
-<!-- petĭto petito -->
-<!-- sc: cognoĭto cognĭto -->
-<!-- sc: creto OK -->
-
-| | |
-|-|-|
-| ***-nc-*** | |
-| **vincĭto**  | **victo**  |
-| | |
-| | |
-| ***-d-*** | | <!-- mallonga vokalo + ss / longa vokalo + s -->
-| **cadĭto**   | **caso**   |
-| **cedĭto**   | **cesso**  |
-| **gradĭto**  | **grässo** | <!-- ä -->
-| **laedĭto**  | **laeso**  |
-| **plaudĭto** | **plauso** |
-| **plodĭto**  | **ploso**  |
-| **radĭto**   | **raso**   |
-| **-vadĭto**  | **-vaso**  |
-| | |
-| ***-nd-*** | |
-| **scandĭto**  | **scanso**   |
-| **pandĭto**   | **panso**    | <!-- / passo -->
-| **pendĭto**   | **penso**    |
-| **prendĭto**  | **prenso**   |
-| **fendĭto**   | **fenso**    |
-| **-cändĭto**  | **-cänso**   | <!-- ä -->
-| | |
-| ***-ng-*** | |
-| **pingĭto**  | **picto**   |
-| **fingĭto**  | **ficto**   |
-| **frangĭto** | **fracto**  |
-| **tangĭto**  | **tacto**   |
-| | |
-| ***-ung-*** | |
-| **ungĭto**  | **uncto**    |
-| **pungĭto** | **puncto**   |
-| **fungĭto** | **functo**   |
-| | |
-| ***-rg-*** | |
-| **mergĭto**  | **merso**   |
-| **-pergĭto** | **-perso**  | <!-- perrēctum -->
-| | |
-| | |
-| ***-l-*** | |
-| **colĭto**  | **cǒlto**   | <!-- ǒ -->
-| | |
-| ***-ll-*** | |<!-- pellere pulso -->
-| **fallĭto** | **falso** |
-| | |
-| | |
-| ***-m-*** | |
-| **premĭto** | **presso** |
-| | |
-| | |
-| ***-qu-*** | |
-| **sequĭto** | **secuto** |
-| | |
-| | |
-| ***-rr-*** | |
-| **currĭto** | **curso** |
-| | |
-| | |
-| ***-s-*** | |
-| **pinsĭto** | **pisto**  | <!-- / pinsĭto / pinso / piso -->
-| | |
-| | |
-| ***-t-*** | |
-| **-cutĭto** | **-cusso** |
-| **patĭto**  | **passo**  |
-| | |
-| ***-ct-*** | |
-| **flectĭto** | **flexo** |
-| **nectĭto**  | **nexo**  |
-| | |
-| ***-rt-*** | |
-| **vertĭto**  | **verso** |
-| | |
-| ***-tt-*** | |
-| **mittĭto**  | **misso** |
-| | |
-| | |
-| ***-u-*** | |
-| **fluĭto**   | **fluxo** |
-| |
-| **-gu-** | |
-| **-stinguĭto** | **-stincto** |
-| | |
-| ***-v-*** | |
-| **solvĭto** | **soluto** |
-| **volvĭto** | **voluto** |
-
-<!-- Haveblas inter-paŝo: la adjektivo substantiviĝas. Tiam "bona" fariĝas "bono". Mencii du substantivojn sinsekve estas alia fenomeno, kiu kaŭzas "amico bono" aŭ "bono amico".
+Haveblas inter-paŝo: la adjektivo substantiviĝas. Tiam "bona" fariĝas "bono". Mencii du substantivojn sinsekve estas alia fenomeno, kiu kaŭzas "amico bono" aŭ "bono amico".
 * renverse: illi domo → illa domo
-Efektive Esperanto ja uzas substantivecajn "-iu"-tabelvortojn kiel adjektivojn. Tre pripensige! -->
-
-<!-- * Adjektivo *antaŭ* substantivo estas subjektiva, t.e. laŭ la perspektivo de la parolanto / unua persono. Adjektivo *malantaŭ* substantivo estas objektiva, t.e. laŭ la perspektivo de la aŭskultanto / dua persono. -->
-
-* ĵus (apene)
-* beletio
-* cessi
-
-* plu(s)
-
-* renkonten = renkonti
-
-* karaktero carácter
+Efektive Esperanto ja uzas substantivecajn "-iu"-tabelvortojn kiel adjektivojn. Tre pripensige!
+* Adjektivo *antaŭ* substantivo estas subjektiva, t.e. laŭ la perspektivo de la parolanto / unua persono. Adjektivo *malantaŭ* substantivo estas objektiva, t.e. laŭ la perspektivo de la aŭskultanto / dua persono.
 
 lunedo martedo merkurjedo ĵovedo vendredo sabato ...
+Vendre? Marte?
 
-instrui situi tatuo
+lo uno / le une / la una ?
 
-Lingua Classĭca: y [y], præ [æ/?], fœ [œ/ø]
-
-Konsiderindas [ŝ] por **s** kiam ĝi ne staras antaŭ vokalo.
-Ŝperanto
-
+plu(s)
