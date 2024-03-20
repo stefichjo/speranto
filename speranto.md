@@ -1033,9 +1033,11 @@ Multajn vortojn oni povas skribi en eĉ pli etimologia stilo, kaj oni povas uzi 
 
 <small>La sufikso *-eco* fakte venas de **-itĭa**, sed en **Linguo**, ĝi traktiĝas kvazaŭ ĝi venus de **-etĕa**.</small>
 
+<!--v-->
+
 | Esperanto | Linguo |
 |-|-|
-| beleco | **beleço** <small>**belletĕo**</small> *[beleso]* <small>*[beleŧo]*</small> |
+| beleco | **belleço** <small>**belletĕo**</small> *[beleso]* <small>*[beleŧo]*</small> |
 
 <!--v-->
 
@@ -1400,7 +1402,7 @@ Multajn vortojn oni povas skribi en eĉ pli etimologia stilo, kaj oni povas uzi 
 
 <!--v-->
 
-Tra bruo, la prepozicio **a** uziĝas por la indiki la rektan objekton. (Tiam uziĝas **ad** antaŭ vokalo.) Kiam la rekta objekto estas staras antaŭ la subjekto de la frazo, ne uzi la tra-bruan **a** estas evitinde.
+Tra bruo, la prepozicio **a** uziĝas por la indiki la rektan objekton. (Tiam uziĝas **ad** antaŭ vokalo.) Kiam la rekta objekto staras antaŭ la subjekto de la frazo, ne uzi la tra-bruan **a** estas evitinde.
 
 <!--v-->
 
@@ -1973,6 +1975,22 @@ La grek-devenaj ŝajnfinaĵoj **-i**, **-ia** *[ia]*, **-a**, **-e** havas signi
 
 <!--v-->
 
+<small>Por tagoj de la semajno, **dio** mallongiĝas al **dí**.</small>
+
+<!--v-->
+
+| Esperanto | Lingua Intermediaria |
+|-|-|
+| lundo | **lunadí** |
+| marto | **martedí** |
+| merkredo | **mercŭredí** |
+| ĵaŭdo | **jovedí** |
+| vendredo | **venĕredí** |
+| sabato | **sabăto** |
+| dimanĉo | **domĭnodí** <small>**dio dominĭca**</small> |
+
+<!--v-->
+
 ## Adjektivo
 
 <!--v-->
@@ -2002,6 +2020,8 @@ La grek-devenaj ŝajnfinaĵoj **-i**, **-ia** *[ia]*, **-a**, **-e** havas signi
 | Esperanto | Lingua Intermediaria |
 |-|-|
 | bone | **bonamente** <small>**bene**</small> |
+
+<!--v-->
 
 ### Malregulaj Adverboj
 
@@ -2423,10 +2443,6 @@ Por la perfektaj formoj de **îr** uziĝas la verbo **sêr**.
 
 ## Prononco
 
-<!-- TODO
-Umlaute
-"s" -->
-
 <!--v-->
 
 ### c, g
@@ -2487,16 +2503,6 @@ Duoblaj vokaloj en finaĵoj estas skribataj kun makrono.
 
 <!--v-->
 
-### y
-
-<!--v-->
-
-| Esperanto | Classĭca |
-|-|-|
-| sistemo | **systema** *[systema]* |
-
-<!--v-->
-
 ### ss, s
 
 <!--v-->
@@ -2505,6 +2511,20 @@ Duoblaj vokaloj en finaĵoj estas skribataj kun makrono.
 |-|-|
 | maso | **massa** *[massa]* |
 | rozo | **rosa** *[rosa]* |
+
+<!--v-->
+
+### Grekismoj
+
+<!--v-->
+
+| Esperanto | Classĭca |
+|-|-|
+| sistemo | **systema** *[sistema]* <small>*[systema]*</small> |
+| | |
+| fazo | **phase** *[fase]* <small>*[phase]*</small> |
+| teorio | **theoria** *[teoria]* <small>*[theoria]*</small> |
+| karaktero | **charactĕre** *[karakte-re]* <small>*[kharakte-re]*</small> |
 
 <!--v-->
 
@@ -2529,6 +2549,22 @@ Duoblaj vokaloj en finaĵoj estas skribataj kun makrono.
 | Esperanto | Lingua Classĭca |
 |-|-|
 | bildo | **pictura** <small>**pin̆ctura**</small> |
+
+<!--v-->
+
+## Substantivoj
+
+<!--v-->
+
+<small>Anstataŭ la nominativa formo, pruntiĝas la ablativa formo de nomoj kaj terminoj.</small>
+
+<!--v-->
+
+| Esperanto | Lingua Classĭca |
+|-|-|
+| Marso | **Marte** |
+| | |
+| dato | **dato** |
 
 <!--v-->
 
@@ -2858,8 +2894,6 @@ Duoblaj vokaloj en finaĵoj estas skribataj kun makrono.
 **mersa** <small>**(mergĭta)**</small>,
 **tersa** <small>**(tergĭta)**</small>,
 **pulsa** <small>**(pellĭta → pěllĭta)**</small>
-
-<!-- tolto -->
 
 <!--v-->
 
