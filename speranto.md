@@ -1975,22 +1975,6 @@ La grek-devenaj ŝajnfinaĵoj **-i**, **-ia** *[ia]*, **-a**, **-e** havas signi
 
 <!--v-->
 
-<small>Por tagoj de la semajno, **dio** mallongiĝas al **dí**.</small>
-
-<!--v-->
-
-| Esperanto | Lingua Intermediaria |
-|-|-|
-| lundo | **lunadí** |
-| marto | **martedí** |
-| merkredo | **mercuriodí** |
-| ĵaŭdo | **jovedí** |
-| vendredo | **venĕredí** |
-| sabato | **saturnodí** |
-| dimanĉo | **domĭnodí** <small>**dio dominĭca**</small> |
-
-<!--v-->
-
 ## Adjektivo
 
 <!--v-->
@@ -3263,6 +3247,26 @@ Duoblaj vokaloj en finaĵoj estas skribataj kun makrono.
 |-|-|
 | ŝajnas | **sîmbra** *[simbra]* <small>**simŭla** *[simu-la]*</small> |
 | simulas | **simŭla** *[simu-la]* |
+
+<!--v-->
+
+## Substantivoj
+
+<!--v-->
+
+<small>Por tagoj de la semajno, **die** mallongiĝas al **dí**.</small>
+
+<!--v-->
+
+| Esperanto | Lingua Intermediaria |
+|-|-|
+| lundo | **lunadí** <small>**lunadie**</small> |
+| marto | **martedí** <small>**martedie**</small> |
+| merkredo | **mercuriodí** <small>**mercuriodie**</small> |
+| ĵaŭdo | **jovedí** <small>**jovedie**</small> |
+| vendredo | **vendredí** <small>**venĕredie**</small> |
+| sabato | **saturnodí** <small>**saturnodie**</small> |
+| dimanĉo | **domĭnodí** <small>**domĭnodie** → **die dominĭca**</small> |
 
 <!--v-->
 
