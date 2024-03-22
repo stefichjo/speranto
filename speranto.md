@@ -3078,6 +3078,9 @@ Duoblaj vokaloj en finaĵoj estas skribataj kun makrono.
 | pano | **pân** |
 | reto | **rêd** |
 | suno | **sôl** |
+| | |
+| flanko | **lado** |
+| tuta | **toda** |
 
 <!--v-->
 
@@ -3137,11 +3140,11 @@ Duoblaj vokaloj en finaĵoj estas skribataj kun makrono.
 
 | Esperanto | Lingua Meridionál |
 |-|-|
-| tago | **dia** *[ĝia]* |
-| onklo | **tio** *[ĉio]* |
+| tago | **dia** *[dĵia = ĝia]* |
+| onklo | **tio** *[tŝio = ĉio]* |
 | | |
-| seĝo | **sedia** *[seĝa]* |
-| eĉ | **etja** *[etĵa]* |
+| seĝo | **sedia** *[sedĵa = seĝa]* |
+| eĉ | **etja** *[etŝa = eĉa]* |
 
 <!--v-->
 
