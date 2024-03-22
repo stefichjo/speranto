@@ -297,7 +297,11 @@ Note:
 
 <!--s-->
 
-# Esperanto
+# Aglutina Fazo
+
+<!--s-->
+
+## Esperanto
 
 <!--v-->
 
@@ -305,7 +309,7 @@ Note:
 
 <!--v-->
 
-## Prononco
+### Prononco
 
 <!--v-->
 
@@ -324,7 +328,7 @@ Note:
 
 <!--s-->
 
-# Speranto
+## Speranto
 
 <!--v-->
 
@@ -332,11 +336,11 @@ Note:
 
 <!--v-->
 
-## Prononco
+### Prononco
 
 <!--v-->
 
-### Slavaj Vortoj
+#### Slavaj Vortoj
 
 <!--v-->
 
@@ -347,7 +351,7 @@ Note:
 
 <!--v-->
 
-### Ĝermanaj Vortoj
+#### Ĝermanaj Vortoj
 
 <!--v-->
 
@@ -361,7 +365,7 @@ Note:
 
 <!--v-->
 
-### Latinidaj Vortoj
+#### Latinidaj Vortoj
 
 <!--v-->
 
@@ -381,7 +385,7 @@ Note:
 
 <!--v-->
 
-### Grekaj Vortoj
+#### Grekaj Vortoj
 
 <!--v-->
 
@@ -393,7 +397,7 @@ Note:
 
 <!--v-->
 
-#### o ←→ u
+##### o ←→ u
 
 <!--v-->
 
@@ -406,7 +410,7 @@ Note:
 
 <!--v-->
 
-#### e ←→ i
+##### e ←→ i
 
 <!--v-->
 
@@ -416,7 +420,7 @@ Note:
 
 <!--v-->
 
-#### oj
+##### oj
 
 <!--v-->
 
@@ -426,7 +430,7 @@ Note:
 
 <!--v-->
 
-#### ĝ/ĵ
+##### ĝ/ĵ
 
 <!--v-->
 
@@ -443,7 +447,7 @@ Note:
 
 <!--v-->
 
-#### -(i)o
+##### -(i)o
 
 <!--v-->
 
@@ -460,7 +464,7 @@ Note:
 
 <!--v-->
 
-### Neologismoj
+#### Neologismoj
 
 <!--v-->
 
@@ -473,7 +477,7 @@ Note:
 
 <!--v-->
 
-### e ←→ i
+#### e ←→ i
 
 <!--v-->
 
@@ -484,7 +488,7 @@ Note:
 
 <!--v-->
 
-### -ĝ
+#### -ĝ
 
 <!--v-->
 
@@ -498,7 +502,7 @@ Note:
 
 <!--v-->
 
-### es-
+#### es-
 
 <!--v-->
 
@@ -509,7 +513,7 @@ Note:
 
 <!--v-->
 
-### k
+#### k
 
 <!--v-->
 
@@ -519,7 +523,7 @@ Note:
 
 <!--v-->
 
-### ĉ
+#### ĉ
 
 <!--v-->
 
@@ -538,7 +542,7 @@ Note:
 
 <!--v-->
 
-### Ŝajnsufiksoj
+#### Ŝajnsufiksoj
 
 <!--v-->
 
@@ -691,7 +695,7 @@ Note:
 
 <!--v-->
 
-### -u
+#### -u
 
 <!--v-->
 
@@ -701,7 +705,7 @@ Note:
 
 <!--v-->
 
-### -v
+#### -v
 
 <!--v-->
 
@@ -711,7 +715,7 @@ Note:
 
 <!--v-->
 
-### Evitismoj
+#### Evitismoj
 
 <!--v-->
 
@@ -723,7 +727,7 @@ Note:
 
 <!--v-->
 
-## -o kaj -j
+### -o kaj -j
 
 <!--v-->
 
@@ -738,7 +742,7 @@ Note:
 
 <!--v-->
 
-## Adverboj kaj prepozicioj kun -aŭ
+### Adverboj kaj prepozicioj kun -aŭ
 
 <!--v-->
 
@@ -754,7 +758,7 @@ Note:
 
 <!--v-->
 
-## Verboj je -ar kaj -ir
+### Verboj je -ar kaj -ir
 
 <!--v-->
 
@@ -769,7 +773,7 @@ Note:
 
 <!--v-->
 
-## Tabelvortoj
+### Tabelvortoj
 
 <!--v-->
 
@@ -785,7 +789,7 @@ Note:
 
 <!--v-->
 
-## Numeraloj
+### Numeraloj
 
 <!--v-->
 
@@ -799,7 +803,7 @@ Note:
 
 <!--s-->
 
-# Peranto
+## Peranto
 
 <!--v-->
 
@@ -807,11 +811,11 @@ Note:
 
 <!--v-->
 
-## Signifaj Vortoj
+### Signifaj Vortoj
 
 <!--v-->
 
-### Ĝermanaj Vortoj
+#### Ĝermanaj Vortoj
 
 <!--v-->
 
@@ -836,7 +840,7 @@ Note:
 
 <!--v-->
 
-### Latinaj Vortoj
+#### Latinaj Vortoj
 
 <!--v-->
 
@@ -846,7 +850,7 @@ Note:
 
 <!--v-->
 
-### Fremdaj Vortoj
+#### Fremdaj Vortoj
 
 <!--v-->
 
@@ -857,7 +861,7 @@ Note:
 
 <!--v-->
 
-## Tabelvortoj
+### Tabelvortoj
 
 <!--v-->
 
@@ -894,7 +898,7 @@ Note:
 
 <!--v-->
 
-## Pronomoj
+### Pronomoj
 
 <!--v-->
 
@@ -921,7 +925,7 @@ Note:
 
 <!--v-->
 
-## Prepozicioj
+### Prepozicioj
 
 <!--v-->
 
@@ -960,7 +964,7 @@ Note:
 
 <!--v-->
 
-## Konjunkcioj
+### Konjunkcioj
 
 <!--v-->
 
@@ -971,7 +975,11 @@ Note:
 
 <!--s-->
 
-# Linguo
+# Intera Fazo
+
+<!--s-->
+
+## Linguo
 
 <!--v-->
 
@@ -981,11 +989,11 @@ Multajn vortojn oni povas skribi en eĉ pli etimologia stilo, kaj oni povas uzi 
 
 <!--v-->
 
-## Prononco
+### Prononco
 
 <!--v-->
 
-### c
+#### c
 
 <!--v-->
 
@@ -1003,7 +1011,7 @@ Multajn vortojn oni povas skribi en eĉ pli etimologia stilo, kaj oni povas uzi 
 
 <!--v-->
 
-### g
+#### g
 
 <!--v-->
 
@@ -1021,7 +1029,7 @@ Multajn vortojn oni povas skribi en eĉ pli etimologia stilo, kaj oni povas uzi 
 
 <!--v-->
 
-### t
+#### t
 
 <!--v-->
 
@@ -1043,7 +1051,7 @@ Multajn vortojn oni povas skribi en eĉ pli etimologia stilo, kaj oni povas uzi 
 
 <!--v-->
 
-### d
+#### d
 
 <!--v-->
 
@@ -1053,7 +1061,7 @@ Multajn vortojn oni povas skribi en eĉ pli etimologia stilo, kaj oni povas uzi 
 
 <!--v-->
 
-### b/v
+#### b/v
 
 <!--v-->
 
@@ -1065,7 +1073,7 @@ Multajn vortojn oni povas skribi en eĉ pli etimologia stilo, kaj oni povas uzi 
 
 <!--v-->
 
-### j/i
+#### j/i
 
 <!--v-->
 
@@ -1077,7 +1085,7 @@ Multajn vortojn oni povas skribi en eĉ pli etimologia stilo, kaj oni povas uzi 
 
 <!--v-->
 
-### v/u
+#### v/u
 
 <!--v-->
 
@@ -1087,7 +1095,7 @@ Multajn vortojn oni povas skribi en eĉ pli etimologia stilo, kaj oni povas uzi 
 
 <!--v-->
 
-### Ŝajnsufiksoj
+#### Ŝajnsufiksoj
 
 <!--v-->
 
@@ -1110,7 +1118,7 @@ Multajn vortojn oni povas skribi en eĉ pli etimologia stilo, kaj oni povas uzi 
 
 <!--v-->
 
-### nc/ng
+#### nc/ng
 
 <!--v-->
 
@@ -1124,7 +1132,7 @@ Multajn vortojn oni povas skribi en eĉ pli etimologia stilo, kaj oni povas uzi 
 
 <!--v-->
 
-### Duoblaj Konsonantoj
+#### Duoblaj Konsonantoj
 
 <!--v-->
 
@@ -1136,7 +1144,7 @@ Multajn vortojn oni povas skribi en eĉ pli etimologia stilo, kaj oni povas uzi 
 
 <!--v-->
 
-### ss, s
+#### ss, s
 
 <!--v-->
 
@@ -1147,7 +1155,7 @@ Multajn vortojn oni povas skribi en eĉ pli etimologia stilo, kaj oni povas uzi 
 
 <!--v-->
 
-### x
+#### x
 
 <!--v-->
 
@@ -1158,7 +1166,7 @@ Multajn vortojn oni povas skribi en eĉ pli etimologia stilo, kaj oni povas uzi 
 
 <!--v-->
 
-### Grekaj Vortoj
+#### Grekaj Vortoj
 
 <!--v-->
 
@@ -1183,7 +1191,7 @@ Multajn vortojn oni povas skribi en eĉ pli etimologia stilo, kaj oni povas uzi 
 
 <!--v-->
 
-## Numeraloj
+### Numeraloj
 
 <!--v-->
 
@@ -1232,7 +1240,7 @@ Multajn vortojn oni povas skribi en eĉ pli etimologia stilo, kaj oni povas uzi 
 
 <!--v-->
 
-## Tabelvortoj
+### Tabelvortoj
 
 <!--v-->
 
@@ -1262,7 +1270,7 @@ Multajn vortojn oni povas skribi en eĉ pli etimologia stilo, kaj oni povas uzi 
 
 <!--v-->
 
-## Prepozicioj
+### Prepozicioj
 
 <!--v-->
 
@@ -1274,15 +1282,15 @@ Multajn vortojn oni povas skribi en eĉ pli etimologia stilo, kaj oni povas uzi 
 
 <!--s-->
 
-# Lingue
+## Lingue
 
 <!--v-->
 
-## Prononco
+### Prononco
 
 <!--v-->
 
-### -o/-u → -e/-i
+#### -o/-u → -e/-i
 
 <!--v-->
 
@@ -1294,7 +1302,7 @@ Multajn vortojn oni povas skribi en eĉ pli etimologia stilo, kaj oni povas uzi 
 
 <!--v-->
 
-### -e/-i → -o/-u
+#### -e/-i → -o/-u
 
 <!--v-->
 
@@ -1306,7 +1314,7 @@ Multajn vortojn oni povas skribi en eĉ pli etimologia stilo, kaj oni povas uzi 
 
 <!--v-->
 
-## Substantivoj
+### Substantivoj
 
 <!--v-->
 
@@ -1320,7 +1328,7 @@ Multajn vortojn oni povas skribi en eĉ pli etimologia stilo, kaj oni povas uzi 
 
 <!--v-->
 
-## Adjektivoj
+### Adjektivoj
 
 <!--v-->
 
@@ -1330,7 +1338,7 @@ Multajn vortojn oni povas skribi en eĉ pli etimologia stilo, kaj oni povas uzi 
 
 <!--v-->
 
-## Tabelvortoj
+### Tabelvortoj
 
 <!--v-->
 
@@ -1360,7 +1368,7 @@ Multajn vortojn oni povas skribi en eĉ pli etimologia stilo, kaj oni povas uzi 
 
 <!--v-->
 
-## Pronomoj
+### Pronomoj
 
 <!--v-->
 
@@ -1387,7 +1395,7 @@ Multajn vortojn oni povas skribi en eĉ pli etimologia stilo, kaj oni povas uzi 
 
 <!--v-->
 
-## Verboj
+### Verboj
 
 <!--v-->
 
@@ -1400,7 +1408,7 @@ Multajn vortojn oni povas skribi en eĉ pli etimologia stilo, kaj oni povas uzi 
 
 <!--v-->
 
-## Prepozicioj
+### Prepozicioj
 
 <!--v-->
 
@@ -1418,11 +1426,11 @@ Tra bruo, la prepozicio **a** uziĝas por la indiki la rektan objekton. (Tiam uz
 
 <!--s-->
 
-# Lingua
+## Lingua
 
 <!--v-->
 
-## Nomoj
+### Nomoj
 
 <!--v-->
 
@@ -1439,7 +1447,7 @@ Tra bruo, la prepozicio **a** uziĝas por la indiki la rektan objekton. (Tiam uz
 
 <!--v-->
 
-## Substantivoj
+### Substantivoj
 
 <!--v-->
 
@@ -1491,7 +1499,7 @@ La grek-devenaj ŝajnfinaĵoj **-i**, **-ia** *[ia]*, **-a**, **-e** havas signi
 
 <!--v-->
 
-## Adjektivoj
+### Adjektivoj
 
 <!--v-->
 
@@ -1516,7 +1524,7 @@ La grek-devenaj ŝajnfinaĵoj **-i**, **-ia** *[ia]*, **-a**, **-e** havas signi
 
 <!--v-->
 
-## Adverboj
+### Adverboj
 
 <!--v-->
 
@@ -1526,7 +1534,7 @@ La grek-devenaj ŝajnfinaĵoj **-i**, **-ia** *[ia]*, **-a**, **-e** havas signi
 
 <!--v-->
 
-## Tabelvortoj
+### Tabelvortoj
 
 <!--v-->
 
@@ -1593,7 +1601,7 @@ La grek-devenaj ŝajnfinaĵoj **-i**, **-ia** *[ia]*, **-a**, **-e** havas signi
 
 <!--v-->
 
-## Pronomoj
+### Pronomoj
 
 <!--v-->
 
@@ -1631,11 +1639,11 @@ La grek-devenaj ŝajnfinaĵoj **-i**, **-ia** *[ia]*, **-a**, **-e** havas signi
 
 <!--v-->
 
-## Verboj
+### Verboj
 
 <!--v-->
 
-### Infinitivo
+#### Infinitivo
 
 <!--v-->
 
@@ -1649,7 +1657,7 @@ La grek-devenaj ŝajnfinaĵoj **-i**, **-ia** *[ia]*, **-a**, **-e** havas signi
 
 <!--v-->
 
-### Imperativo
+#### Imperativo
 
 <!--v-->
 
@@ -1661,7 +1669,7 @@ La grek-devenaj ŝajnfinaĵoj **-i**, **-ia** *[ia]*, **-a**, **-e** havas signi
 
 <!--v-->
 
-### Imperfekto
+#### Imperfekto
 
 <!--v-->
 
@@ -1720,7 +1728,7 @@ La grek-devenaj ŝajnfinaĵoj **-i**, **-ia** *[ia]*, **-a**, **-e** havas signi
 
 <!--v-->
 
-### Pasivo
+#### Pasivo
 
 <!--v-->
 
@@ -1744,7 +1752,7 @@ La grek-devenaj ŝajnfinaĵoj **-i**, **-ia** *[ia]*, **-a**, **-e** havas signi
 
 <!--v-->
 
-### Perfekto
+#### Perfekto
 
 <!--v-->
 
@@ -1772,7 +1780,7 @@ La grek-devenaj ŝajnfinaĵoj **-i**, **-ia** *[ia]*, **-a**, **-e** havas signi
 
 <!--v-->
 
-### Malregulaj Verboj
+#### Malregulaj Verboj
 
 <!--v-->
 
@@ -1818,11 +1826,15 @@ La grek-devenaj ŝajnfinaĵoj **-i**, **-ia** *[ia]*, **-a**, **-e** havas signi
 
 <!--s-->
 
-# Lingua Intermediaria
+# Fleksia Fazo
+
+<!--s-->
+
+## Intermediaria
 
 <!--v-->
 
-## Prononco
+### Prononco
 
 <!--v-->
 
@@ -1830,7 +1842,7 @@ La grek-devenaj ŝajnfinaĵoj **-i**, **-ia** *[ia]*, **-a**, **-e** havas signi
 
 <!--v-->
 
-| Esperanto | Lingua Intermediaria |
+| Esperanto | Intermediaria |
 |-|-|
 | homo | **home** <small>**homĭne** *[homi-ne]*</small>  |
 | lumo | **lume** <small>**lumĭne** *[lumi-ne]*</small>  |
@@ -1845,7 +1857,7 @@ La grek-devenaj ŝajnfinaĵoj **-i**, **-ia** *[ia]*, **-a**, **-e** havas signi
 
 <!--v-->
 
-| Esperanto | Lingua Intermediaria |
+| Esperanto | Intermediaria |
 |-|-|
 | stela | **stellár** |
 | stelaj | **stellares** |
@@ -1857,7 +1869,7 @@ La grek-devenaj ŝajnfinaĵoj **-i**, **-ia** *[ia]*, **-a**, **-e** havas signi
 
 <!--v-->
 
-| Esperanto | Lingua Intermediaria |
+| Esperanto | Intermediaria |
 |-|-|
 | facila | **fâcil** |
 | facile | **facilmente** |
@@ -1868,31 +1880,31 @@ La grek-devenaj ŝajnfinaĵoj **-i**, **-ia** *[ia]*, **-a**, **-e** havas signi
 
 <!--v-->
 
-| Esperanto | Lingua Intermediaria |
+| Esperanto | Intermediaria |
 |-|-|
 | flanko | **lado** |
 
 <!--v-->
 
-### Elizioj
+#### Elizioj
 
 <!--v-->
 
-#### c̆
+##### c̆
 
 <!--v-->
 
-| Esperanto | Lingua Intermediaria |
+| Esperanto | Intermediaria |
 |-|-|
 | pinto, punto | **pûnto** <small>**punc̆to**</small> |
 
 <!--v-->
 
-##### -adĭc̆o
+###### -adĭc̆o
 
 <!--v-->
 
-| Esperanto | Lingua Intermediaria |
+| Esperanto | Intermediaria |
 |-|-|
 | avantaĝo | **avantâjo** <small>**avantadĭc̆o**</small> *[avantaĵo]* <small>*[avantađi-o]*</small> |
 | formaĝo | **formâjo** <small>**formadĭc̆o**</small> *[formaĵo]* <small>*[formađi-o]*</small> |
@@ -1904,62 +1916,62 @@ La grek-devenaj ŝajnfinaĵoj **-i**, **-ia** *[ia]*, **-a**, **-e** havas signi
 
 <!--v-->
 
-#### ğ
+##### ğ
 
 <!--v-->
 
-| Esperanto | Lingua Intermediaria |
+| Esperanto | Intermediaria |
 |-|-|
 | trajno | **trâino** <small>**trağino**</small> |
 | majstro | **mâistro** <small>**mağistro**</small> |
 
 <!--v-->
 
-#### n̆
+##### n̆
 
 <!--v-->
 
-| Esperanto | Lingua Intermediaria |
+| Esperanto | Intermediaria |
 |-|-|
 | kostas | **côsta** <small>**con̆sta**</small> |
 | lando | **paêse** <small>**pağen̆se**</small> |
 
 <!--v-->
 
-#### p̆
+##### p̆
 
 <!--v-->
 
-| Esperanto | Lingua Intermediaria |
+| Esperanto | Intermediaria |
 |-|-|
 | konto | **cônto** <small>**comp̆ŭto**</small> |
 
 <!--v-->
 
-#### s̆
+##### s̆
 
 <!--v-->
 
-| Esperanto | Lingua Intermediaria |
+| Esperanto | Intermediaria |
 |-|-|
 | hospitalo | **hotêlo** <small>**hos̆p̆ĭtello**</small> |
 | posttagmezo | **po-meridio** <small>**pos̆-meridio**</small> |
 
 <!--v-->
 
-#### l̮
+##### l̮
 
-| Esperanto | Lingua Intermediaria |
+| Esperanto | Intermediaria |
 |-|-|
 | mi banas | **bânio** <small>**bal̮nio**</small> |
 
 <!--v-->
 
-#### v̆
+##### v̆
 
 <!--v-->
 
-| Esperanto | Lingua Intermediaria |
+| Esperanto | Intermediaria |
 |-|-|
 | parabolo | **parabŏla** |
 | | |
@@ -1967,32 +1979,32 @@ La grek-devenaj ŝajnfinaĵoj **-i**, **-ia** *[ia]*, **-a**, **-e** havas signi
 
 <!--v-->
 
-## Substantivo
+### Substantivo
 
 <!--v-->
 
-| Esperanto | Lingua Intermediaria |
+| Esperanto | Intermediaria |
 |-|-|
 | stacio | **statione** *[stasjone]* <small>*[staŧione]*</small> |
 
 <!--v-->
 
-## Adjektivo
+### Adjektivo
 
 <!--v-->
 
-| Esperanto | Lingua Intermediaria |
+| Esperanto | Intermediaria |
 |-|-|
 | pli bona | **mâs bona** <small>**meliore**</small> |
 | plej bona | **la max bona** <small>**optima**</small> |
 
 <!--v-->
 
-## Adverboj
+### Adverboj
 
 <!--v-->
 
-| Esperanto | Lingua Intermediaria |
+| Esperanto | Intermediaria |
 |-|-|
 | alte | **altamente** <small>**alto**</small> |
 | certe | **certamente** <small>**certo**</small> |
@@ -2003,27 +2015,27 @@ La grek-devenaj ŝajnfinaĵoj **-i**, **-ia** *[ia]*, **-a**, **-e** havas signi
 
 <!--v-->
 
-| Esperanto | Lingua Intermediaria |
+| Esperanto | Intermediaria |
 |-|-|
 | bone | **bonamente** <small>**bene**</small> |
 
 <!--v-->
 
-### Malregulaj Adverboj
+#### Malregulaj Adverboj
 
 <!--v-->
 
-| Esperanto | Lingua Intermediaria |
+| Esperanto | Intermediaria |
 |-|-|
 | bone | **bene** |
 
 <!--v-->
 
-## Numeraloj
+### Numeraloj
 
 <!--v-->
 
-| Esperanto | Lingua Intermediaria |
+| Esperanto | Intermediaria |
 |-|-|
 | unu | **un** <small>**uno**</small> |
 | du | **du** <small>**duo**</small> |
@@ -2033,7 +2045,7 @@ La grek-devenaj ŝajnfinaĵoj **-i**, **-ia** *[ia]*, **-a**, **-e** havas signi
 
 <!--v-->
 
-| Esperanto | Lingua Intermediaria |
+| Esperanto | Intermediaria |
 |-|-|
 | ses | **sex** |
 | sep | **sep** <small>**septe**</small> |
@@ -2047,7 +2059,7 @@ La grek-devenaj ŝajnfinaĵoj **-i**, **-ia** *[ia]*, **-a**, **-e** havas signi
 
 <!--v-->
 
-| Esperanto | Lingua Intermediaria |
+| Esperanto | Intermediaria |
 |-|-|
 | unua | **unesĭma** <small>**prima**</small> |
 | dua | **duesĭma** <small>**secunda**</small> |
@@ -2057,7 +2069,7 @@ La grek-devenaj ŝajnfinaĵoj **-i**, **-ia** *[ia]*, **-a**, **-e** havas signi
 
 <!--v-->
 
-| Esperanto | Lingua Intermediaria |
+| Esperanto | Intermediaria |
 |-|-|
 | sesa | **sexesĭma** <small>**sexta**</small> |
 | sepa | **sepesĭma** <small>**septesĭma**, **septĭma**</small> |
@@ -2078,7 +2090,7 @@ La grek-devenaj ŝajnfinaĵoj **-i**, **-ia** *[ia]*, **-a**, **-e** havas signi
 
 <!--v-->
 
-| Esperanto | Lingua Intermediaria |
+| Esperanto | Intermediaria |
 |-|-|
 | dudek | **duanta** |
 | tridek | **trianta** <small>**treanta**</small> |
@@ -2091,40 +2103,40 @@ La grek-devenaj ŝajnfinaĵoj **-i**, **-ia** *[ia]*, **-a**, **-e** havas signi
 
 <!--v-->
 
-## Artikoloj
+### Artikoloj
 
 <!--v-->
 
-<small>**Lingua Intermediaria** havas ne-difinan artikolon: **una**.</small>
+<small>**Intermediaria** havas ne-difinan artikolon: **una**.</small>
 
 <!--v-->
 
-| Esperanto | Lingua Intermediaria |
+| Esperanto | Intermediaria |
 |-|-|
 | domo | **una domo** |
 | domoj | **unas domos** |
 
 <!--v-->
 
-## Pronomoj
+### Pronomoj
 
 <!--v-->
 
-| Esperanto | Lingua Intermediaria |
+| Esperanto | Intermediaria |
 |-|-|
 | ami cin | **amâr-te** |
 
 <!--v-->
 
-## Verboj
+### Verboj
 
 <!--v-->
 
-### Imperfekto
+#### Imperfekto
 
 <!--v-->
 
-| Esperanto | Lingua Intermediaria |
+| Esperanto | Intermediaria |
 |-|-|
 | mi | **-**`*` |
 | ci | **-s** |
@@ -2138,7 +2150,7 @@ La grek-devenaj ŝajnfinaĵoj **-i**, **-ia** *[ia]*, **-a**, **-e** havas signi
 
 <!--v-->
 
-| Esperanto | Lingua Intermediaria |
+| Esperanto | Intermediaria |
 |-|-|
 | mi amas | **amo** |
 | ci amas | **amas** |
@@ -2150,7 +2162,7 @@ La grek-devenaj ŝajnfinaĵoj **-i**, **-ia** *[ia]*, **-a**, **-e** havas signi
 
 <!--v-->
 
-| Esperanto | Lingua Intermediaria |
+| Esperanto | Intermediaria |
 |-|-|
 | mi amis | **amavo** |
 | ci amis | **amavas** |
@@ -2162,7 +2174,7 @@ La grek-devenaj ŝajnfinaĵoj **-i**, **-ia** *[ia]*, **-a**, **-e** havas signi
 
 <!--v-->
 
-| Esperanto | Lingua Intermediaria |
+| Esperanto | Intermediaria |
 |-|-|
 | mi amos | **amaró** |
 | ci amos | **amarás** |
@@ -2174,7 +2186,7 @@ La grek-devenaj ŝajnfinaĵoj **-i**, **-ia** *[ia]*, **-a**, **-e** havas signi
 
 <!--v-->
 
-| Esperanto | Lingua Intermediaria |
+| Esperanto | Intermediaria |
 |-|-|
 | (ke) mi amu | **ame** |
 | (ke) ci amu | **ames** |
@@ -2190,7 +2202,7 @@ La grek-devenaj ŝajnfinaĵoj **-i**, **-ia** *[ia]*, **-a**, **-e** havas signi
 
 <!--v-->
 
-| Esperanto | Lingua Intermediaria |
+| Esperanto | Intermediaria |
 |-|-|
 | li vidas | **vide** |
 | vidata | **vidida** |
@@ -2200,7 +2212,7 @@ La grek-devenaj ŝajnfinaĵoj **-i**, **-ia** *[ia]*, **-a**, **-e** havas signi
 
 <!--v-->
 
-### Subjunktivo
+#### Subjunktivo
 
 <!--v-->
 
@@ -2208,7 +2220,7 @@ La grek-devenaj ŝajnfinaĵoj **-i**, **-ia** *[ia]*, **-a**, **-e** havas signi
 
 <!--v-->
 
-| Esperanto | Lingua Intermediaria |
+| Esperanto | Intermediaria |
 |-|-|
 | (ke maleble) mi amu | **amavo** <small>**amâsse**</small> |
 | (ke maleble) ci amu | **amavas** <small>**amâsses**</small> |
@@ -2220,11 +2232,11 @@ La grek-devenaj ŝajnfinaĵoj **-i**, **-ia** *[ia]*, **-a**, **-e** havas signi
 
 <!--v-->
 
-### Perfekto
+#### Perfekto
 
 <!--v-->
 
-| Esperanto | Lingua Intermediaria |
+| Esperanto | Intermediaria |
 |-|-|
 | mi amintas | **hô amado** |
 | mi amintis | **havevo amado** |
@@ -2236,7 +2248,7 @@ La grek-devenaj ŝajnfinaĵoj **-i**, **-ia** *[ia]*, **-a**, **-e** havas signi
 
 <!--v-->
 
-| Esperanto | Lingua Intermediaria |
+| Esperanto | Intermediaria |
 |-|-|
 | mi amintas | **hô amado** <small>**amâi**</small> |
 | ci amintas | **hâs amado** <small>**amâste**</small> |
@@ -2248,7 +2260,7 @@ La grek-devenaj ŝajnfinaĵoj **-i**, **-ia** *[ia]*, **-a**, **-e** havas signi
 
 <!--v-->
 
-| Esperanto | Lingua Intermediaria |
+| Esperanto | Intermediaria |
 |-|-|
 | mi amintis | **havevo amado** <small>**amâra**</small> |
 | ci amintis | **havevas amado** <small>**amâras**</small> |
@@ -2260,7 +2272,7 @@ La grek-devenaj ŝajnfinaĵoj **-i**, **-ia** *[ia]*, **-a**, **-e** havas signi
 
 <!--v-->
 
-| Esperanto | Lingua Intermediaria |
+| Esperanto | Intermediaria |
 |-|-|
 | (ke) mi amintas | **havea amado** <small>**amár**</small> |
 | (ke) ci amintas | **haveas amado** <small>**amâres**</small> |
@@ -2272,7 +2284,7 @@ La grek-devenaj ŝajnfinaĵoj **-i**, **-ia** *[ia]*, **-a**, **-e** havas signi
 
 <!--v-->
 
-| Esperanto | Lingua Intermediaria |
+| Esperanto | Intermediaria |
 |-|-|
 | (ke) mi amintis | **havevo amado** <small>**amâsse**</small> |
 | (ke) ci amintis | **havevas amado** <small>**amâsses**</small> |
@@ -2284,11 +2296,11 @@ La grek-devenaj ŝajnfinaĵoj **-i**, **-ia** *[ia]*, **-a**, **-e** havas signi
 
 <!--v-->
 
-### Kondicionalo
+#### Kondicionalo
 
 <!--v-->
 
-| Esperanto | Lingua Intermediaria |
+| Esperanto | Intermediaria |
 |-|-|
 | (se eble) mi amus | **amaría** |
 | (se eble) ci amus | **amarías** |
@@ -2304,7 +2316,7 @@ La grek-devenaj ŝajnfinaĵoj **-i**, **-ia** *[ia]*, **-a**, **-e** havas signi
 
 <!--v-->
 
-| Esperanto | Lingua Intermediaria |
+| Esperanto | Intermediaria |
 |-|-|
 | (se maleble) mi amus | **amaría** <small>**amâsse**</small> |
 | (se maleble) ci amus | **amarías** <small>**amâsses**</small> |
@@ -2320,17 +2332,17 @@ La grek-devenaj ŝajnfinaĵoj **-i**, **-ia** *[ia]*, **-a**, **-e** havas signi
 
 <!--v-->
 
-| Esperanto | Lingua Intermediaria |
+| Esperanto | Intermediaria |
 |-|-|
 | (se eble) mi amus | **amaría** <small>**~~amâsse~~**</small> |
 
 <!--v-->
 
-### Malregulaj Verboj
+#### Malregulaj Verboj
 
 <!--v-->
 
-| Esperanto | Lingua Intermediaria |
+| Esperanto | Intermediaria |
 |-|-|
 | mi estas | **sô** |
 | ci estas | **êres** |
@@ -2342,7 +2354,7 @@ La grek-devenaj ŝajnfinaĵoj **-i**, **-ia** *[ia]*, **-a**, **-e** havas signi
 
 <!--v-->
 
-| Esperanto | Lingua Intermediaria |
+| Esperanto | Intermediaria |
 |-|-|
 | mi estintas | **hô sido** <small>**fui**</small> |
 | ci estintas | **hâs sido** <small>**fuiste**</small> |
@@ -2354,7 +2366,7 @@ La grek-devenaj ŝajnfinaĵoj **-i**, **-ia** *[ia]*, **-a**, **-e** havas signi
 
 <!--v-->
 
-| Esperanto | Lingua Intermediaria |
+| Esperanto | Intermediaria |
 |-|-|
 | mi havas | **hô** |
 | ci havas | **hâs** |
@@ -2366,7 +2378,7 @@ La grek-devenaj ŝajnfinaĵoj **-i**, **-ia** *[ia]*, **-a**, **-e** havas signi
 
 <!--v-->
 
-| Esperanto | Lingua Intermediaria |
+| Esperanto | Intermediaria |
 |-|-|
 | (ke) mi havu | **havea** |
 | | |
@@ -2377,7 +2389,7 @@ La grek-devenaj ŝajnfinaĵoj **-i**, **-ia** *[ia]*, **-a**, **-e** havas signi
 
 <!--v-->
 
-| Esperanto | Lingua Intermediaria |
+| Esperanto | Intermediaria |
 |-|-|
 | mi iras | **vô** |
 | ci iras | **vâs** |
@@ -2393,13 +2405,13 @@ Por la perfektaj formoj de **îr** uziĝas la verbo **sêr**.
 
 <!--v-->
 
-| Esperanto | Lingua Intermediaria |
+| Esperanto | Intermediaria |
 |-|-|
 | mi irintas | **hô ido** <small>**fui**</small> |
 
 <!--v-->
 
-| Esperanto | Lingua Intermediaria |
+| Esperanto | Intermediaria |
 |-|-|
 | mi faras | **fô** |
 | ci faras | **fâs** |
@@ -2411,11 +2423,11 @@ Por la perfektaj formoj de **îr** uziĝas la verbo **sêr**.
 
 <!--v-->
 
-## Konjunkcioj
+### Konjunkcioj
 
 <!--v-->
 
-| Esperanto | Lingua Intermediaria |
+| Esperanto | Intermediaria |
 |-|-|
 | aŭ | **au** <small>**aud**</small> |
 | kaj | **e** <small>**ed**</small> |
@@ -2423,19 +2435,19 @@ Por la perfektaj formoj de **îr** uziĝas la verbo **sêr**.
 
 <!--s-->
 
-# Lingua Classĭca
+## Classĭca
 
 <!--v-->
 
-## Prononco
+### Prononco
 
 <!--v-->
 
-### c, g
+#### c, g
 
 <!--v-->
 
-| Esperanto | Lingua Classĭca |
+| Esperanto | Classĭca |
 |-|-|
 | centro | **centro** *[kentro]* |
 | | |
@@ -2443,21 +2455,21 @@ Por la perfektaj formoj de **îr** uziĝas la verbo **sêr**.
 
 <!--v-->
 
-### b
+#### b
 
 <!--v-->
 
-| Esperanto | Lingua Classĭca |
+| Esperanto | Classĭca |
 |-|-|
 | havi | **habere** *[habere]* |
 
 <!--v-->
 
-### v
+#### v
 
 <!--v-->
 
-| Esperanto | Lingua Classĭca |
+| Esperanto | Classĭca |
 |-|-|
 | neĝo | **nive** *[niŭe]* |
 | vino | **vino** *[ŭino]* |
@@ -2465,17 +2477,17 @@ Por la perfektaj formoj de **îr** uziĝas la verbo **sêr**.
 
 <!--v-->
 
-### i
+#### i
 
 <!--v-->
 
-| Esperanto | Lingua Classĭca |
+| Esperanto | Classĭca |
 |-|-|
 | justa | **iusta** *[iusta]* |
 
 <!--v-->
 
-### ī
+#### ī
 
 <!--v-->
 
@@ -2489,7 +2501,7 @@ Duoblaj vokaloj en finaĵoj estas skribataj kun makrono.
 
 <!--v-->
 
-### ss, s
+#### ss, s
 
 <!--v-->
 
@@ -2500,7 +2512,7 @@ Duoblaj vokaloj en finaĵoj estas skribataj kun makrono.
 
 <!--v-->
 
-### Grekismoj
+#### Grekismoj
 
 <!--v-->
 
@@ -2514,31 +2526,31 @@ Duoblaj vokaloj en finaĵoj estas skribataj kun makrono.
 
 <!--v-->
 
-### Elizioj
+#### Elizioj
 
 <!--v-->
 
-#### c̆
+##### c̆
 
 <!--v-->
 
-| Esperanto | Lingua Classĭca |
+| Esperanto | Classĭca |
 |-|-|
 | aŭtoro | **autore** <small>**auc̆tore**</small> |
 
 <!--v-->
 
-#### n̆
+##### n̆
 
 <!--v-->
 
-| Esperanto | Lingua Classĭca |
+| Esperanto | Classĭca |
 |-|-|
 | bildo | **pictura** <small>**pin̆ctura**</small> |
 
 <!--v-->
 
-## Substantivoj
+### Substantivoj
 
 <!--v-->
 
@@ -2546,7 +2558,7 @@ Duoblaj vokaloj en finaĵoj estas skribataj kun makrono.
 
 <!--v-->
 
-| Esperanto | Lingua Classĭca |
+| Esperanto | Classĭca |
 |-|-|
 | Marso | **Marte** |
 | | |
@@ -2554,15 +2566,15 @@ Duoblaj vokaloj en finaĵoj estas skribataj kun makrono.
 
 <!--v-->
 
-## Numeraloj
+### Numeraloj
 
 <!--v-->
 
-<small>Uziĝas la skribaj/tra-bruaj formoj de **Lingua Intermediaria**.</small>
+<small>Uziĝas la skribaj/tra-bruaj formoj de **Intermediaria**.</small>
 
 <!--v-->
 
-| Esperanto | Lingua Classĭca |
+| Esperanto | Classĭca |
 |-|-|
 | kvar | **quattro** |
 
@@ -2572,7 +2584,7 @@ Duoblaj vokaloj en finaĵoj estas skribataj kun makrono.
 
 <!--v-->
 
-| Esperanto | Lingua Classĭca |
+| Esperanto | Classĭca |
 |-|-|
 | unu | **una** |
 | du | **dua** |
@@ -2584,26 +2596,26 @@ Duoblaj vokaloj en finaĵoj estas skribataj kun makrono.
 
 <!--v-->
 
-## Artikoloj
+### Artikoloj
 
 <!--v-->
 
-<small>**Lingua Classĭca** ne havas artikolojn, nek difinajn nek ne-difinajn.</small>
+<small>**Classĭca** ne havas artikolojn, nek difinajn nek ne-difinajn.</small>
 
 <!--v-->
 
-| Esperanto | Lingua Classĭca |
+| Esperanto | Classĭca |
 |-|-|
 | la domo | **domo** |
 | domo | **domo** |
 
 <!--v-->
 
-## Verboj
+### Verboj
 
 <!--v-->
 
-### Infinitivo
+#### Infinitivo
 
 <!--v-->
 
@@ -2611,7 +2623,7 @@ Duoblaj vokaloj en finaĵoj estas skribataj kun makrono.
 
 <!--v-->
 
-| Esperanto | Lingua Classĭca |
+| Esperanto | Classĭca |
 |-|-|
 | ami | **amare** |
 | vidi | **videre** |
@@ -2623,15 +2635,15 @@ Duoblaj vokaloj en finaĵoj estas skribataj kun makrono.
 
 <!--v-->
 
-### Imperfekto
+#### Imperfekto
 
 <!--v-->
 
-<small>(**Lingua Classĭca** ignoras la latinan os-tempon kaj anstataŭe uzas la latinidan os-tempon (t.e. je **-abeo**, **-abes**, ktp.).)</small>
+<small>(**Classĭca** ignoras la latinan os-tempon kaj anstataŭe uzas la latinidan os-tempon (t.e. je **-abeo**, **-abes**, ktp.).)</small>
 
 <!--v-->
 
-| Esperanto | Lingua Classĭca |
+| Esperanto | Classĭca |
 |-|-|
 | -as | **-** |
 | -is | **-ba** |
@@ -2644,7 +2656,7 @@ Duoblaj vokaloj en finaĵoj estas skribataj kun makrono.
 
 <!--v-->
 
-| Esperanto | Lingua Classĭca |
+| Esperanto | Classĭca |
 |-|-|
 | mi | **-** <small>**-m**`*`</small> |
 | ci | **-s** |
@@ -2664,7 +2676,7 @@ Duoblaj vokaloj en finaĵoj estas skribataj kun makrono.
 
 <!--v-->
 
-| Esperanto | Lingua Classĭca |
+| Esperanto | Classĭca |
 |-|-|
 | (ke) mi amis | **amarem** |
 | (ke) ci amis | **amares** |
@@ -2676,11 +2688,11 @@ Duoblaj vokaloj en finaĵoj estas skribataj kun makrono.
 
 <!--v-->
 
-<small>(La latina gramatiko konas nek ke-os-tempon nek ke-intos-tempon. Anstataŭe, ĝi havas intos-tempon kaj ke-intas-tempon, kiuj suspektinde similas al la latinida (ibera) ke-os-tempo. Evitante tiun konfuzon, **Lingua Classĭca** uzas la kondicionalon (t.e. la do-us-modon je **-ía**, **-ías** ktp.) anstataŭe, kiu ne ekzistas en la Latina.)</small>
+<small>(La latina gramatiko konas nek ke-os-tempon nek ke-intos-tempon. Anstataŭe, ĝi havas intos-tempon kaj ke-intas-tempon, kiuj suspektinde similas al la latinida (ibera) ke-os-tempo. Evitante tiun konfuzon, **Classĭca** uzas la kondicionalon (t.e. la do-us-modon je **-ía**, **-ías** ktp.) anstataŭe, kiu ne ekzistas en la Latina.)</small>
 
 <!--v-->
 
-| Esperanto | Lingua Classĭca |
+| Esperanto | Classĭca |
 |-|-|
 | amanta | **amante** |
 | vidanta | **vidente** |
@@ -2690,11 +2702,11 @@ Duoblaj vokaloj en finaĵoj estas skribataj kun makrono.
 
 <!--v-->
 
-### Perfekto
+#### Perfekto
 
 <!--v-->
 
-| Esperanto | Lingua Classĭca |
+| Esperanto | Classĭca |
 |-|-|
 | -intas | **-v** |
 | (ke) -intas`*` | **-vĕrĕ** |
@@ -2708,7 +2720,7 @@ Duoblaj vokaloj en finaĵoj estas skribataj kun makrono.
 
 <!--v-->
 
-| Esperanto | Lingua Classĭca |
+| Esperanto | Classĭca |
 |-|-|
 | mi (-intas) | **-ī** <small>**-ii**</small> |
 | ci (-intas) | **-isti** |
@@ -2720,7 +2732,7 @@ Duoblaj vokaloj en finaĵoj estas skribataj kun makrono.
 
 <!--v-->
 
-| Esperanto | Lingua Classĭca |
+| Esperanto | Classĭca |
 |-|-|
 | mi amintas | **amavī** <small>**amavii**</small> |
 | ci amintas | **amavisti** |
@@ -2732,7 +2744,7 @@ Duoblaj vokaloj en finaĵoj estas skribataj kun makrono.
 
 <!--v-->
 
-| Esperanto | Lingua Classĭca |
+| Esperanto | Classĭca |
 |-|-|
 | mi amintis | **amavĕram** |
 | ci amintis | **amavĕras** |
@@ -2744,7 +2756,7 @@ Duoblaj vokaloj en finaĵoj estas skribataj kun makrono.
 
 <!--v-->
 
-| Esperanto | Lingua Classĭca |
+| Esperanto | Classĭca |
 |-|-|
 | (se) mi amus | **amavissem** |
 | (se) ci amus | **amavisses** |
@@ -2756,7 +2768,7 @@ Duoblaj vokaloj en finaĵoj estas skribataj kun makrono.
 
 <!--v-->
 
-### Pasivo
+#### Pasivo
 
 <!--v-->
 
@@ -2764,7 +2776,7 @@ Duoblaj vokaloj en finaĵoj estas skribataj kun makrono.
 
 <!--v-->
 
-| Esperanto | Lingua Classĭca |
+| Esperanto | Classĭca |
 |-|-|
 | amata/-ita | **amata** |
 | vidata/-ita | **visa** <small>**(vidĭta)**</small> |
@@ -2859,18 +2871,6 @@ Duoblaj vokaloj en finaĵoj estas skribataj kun makrono.
 
 <!--v-->
 
-<small>Konserviĝas **-dĭta**, kiam ĝi origine estis **data**, t.e. la participo de **dare**: **perdĭta**.</small>
-
-<!--v-->
-
-**condĭta**,
-**credĭta**,
-**perdĭta**,
-**reddĭta**,
-**vendĭta**
-
-<!--v-->
-
 <small>**ll** kaj **rr** asimiliĝas kun **ĭt** al **ls** kaj **rs**. Simile, **rg** asimiliĝas kun **ĭt** al **rs**.</small>
 
 <!--v-->
@@ -2906,7 +2906,7 @@ Duoblaj vokaloj en finaĵoj estas skribataj kun makrono.
 
 <!--v-->
 
-**creta**, <small>**(crescĭta)**</small>
+**creta** <small>**(crescĭta)**</small>,
 **fluxa** <small>**(~~fluĭto~~)**</small>,
 **petito** <small>**(~~petĭto~~)**</small>,
 **posĭta** <small>**(~~ponĭto~~)**</small>,
@@ -2920,14 +2920,26 @@ Duoblaj vokaloj en finaĵoj estas skribataj kun makrono.
 
 <!--v-->
 
-**~~bipta~~** → **bibĭta**,
-**~~depta~~** → **debĭta**,
-**~~gignĭta~~** → **genĭta**,
-**~~hapta~~** → **habĭta**,
-**~~licta~~** → **licĭta**,
-**~~noscĭta~~** → **nota**,
-**~~valta~~** → **valĭta**,
-**~~placta~~** → **placĭta**,
+**~~bipta~~** <small>**bibĭta**</small>,
+**~~depta~~** <small>**debĭta**</small>,
+**~~gignĭta~~** <small>**genĭta**</small>,
+**~~hapta~~** <small>**habĭta**</small>,
+**~~licta~~** <small>**licĭta**</small>,
+**~~noscĭta~~** <small>**nota**</small>,
+**~~valta~~** <small>**valĭta**</small>,
+**~~placta~~** <small>**placĭta**</small>
+
+<!--v-->
+
+<small>Konserviĝas **-dĭta**, kiam ĝi origine estis **data**, t.e. la participo de **dare**: **perdĭta**.</small>
+
+<!--v-->
+
+**~~consa~~** <small>**condĭta**</small>,
+**~~cresa~~** <small>**credĭta**</small>,
+**~~persa~~** <small>**perdĭta**</small>,
+**~~resa~~** <small>**reddĭta**</small>,
+**~~vensa~~** <small>**vendĭta**</small>
 
 <!--v-->
 
@@ -2935,7 +2947,7 @@ Duoblaj vokaloj en finaĵoj estas skribataj kun makrono.
 
 <!--v-->
 
-| Esperanto | Lingua Classĭca |
+| Esperanto | Classĭca |
 |-|-|
 | spirblovata/-ita | **halata** |
 | spirblovo | **halĭto** |
@@ -2945,7 +2957,7 @@ Duoblaj vokaloj en finaĵoj estas skribataj kun makrono.
 
 <!--v-->
 
-| Esperanto | Lingua Classĭca |
+| Esperanto | Classĭca |
 |-|-|
 | mi estas vidata | **sêm visa** <small>**videor**</small> |
 | ci estas vidata | **ês visa** <small>**videris**</small> |
@@ -2956,11 +2968,11 @@ Duoblaj vokaloj en finaĵoj estas skribataj kun makrono.
 
 <!--v-->
 
-### Malregulaj Verboj
+#### Malregulaj Verboj
 
 <!--v-->
 
-| Esperanto | Lingua Classĭca |
+| Esperanto | Classĭca |
 |-|-|
 | mi estas | **sêm** <small>**(essem)**</small> |
 | ci estas | **ês** <small>**(esses)**</small> |
@@ -2976,7 +2988,7 @@ Duoblaj vokaloj en finaĵoj estas skribataj kun makrono.
 
 <!--v-->
 
-| Esperanto | Lingua Intermediaria |
+| Esperanto | Intermediaria |
 |-|-|
 | mi estintas | **fuī** |
 | ci estintas | **fuisti** |
@@ -2988,7 +3000,7 @@ Duoblaj vokaloj en finaĵoj estas skribataj kun makrono.
 
 <!--v-->
 
-| Esperanto | Lingua Intermediaria |
+| Esperanto | Intermediaria |
 |-|-|
 | mi estintis | **fueram** |
 | ci estintis | **fueras** |
@@ -3000,7 +3012,7 @@ Duoblaj vokaloj en finaĵoj estas skribataj kun makrono.
 
 <!--v-->
 
-| Esperanto | Lingua Intermediaria |
+| Esperanto | Intermediaria |
 |-|-|
 | (ke) mi estintas | **fuerem** |
 | (ke) ci estintas | **fueres** |
@@ -3012,7 +3024,7 @@ Duoblaj vokaloj en finaĵoj estas skribataj kun makrono.
 
 <!--v-->
 
-| Esperanto | Lingua Intermediaria |
+| Esperanto | Intermediaria |
 |-|-|
 | (ke) mi estintis | **fuissem** |
 | (ke) ci estintis | **fuisses** |
@@ -3030,14 +3042,14 @@ Duoblaj vokaloj en finaĵoj estas skribataj kun makrono.
 
 <!--v-->
 
-| Esperanto | Lingua Classĭca |
+| Esperanto | Classĭca |
 |-|-|
 | mi vidintas | **videvī** <small>**vīdī**</small> |
 | mi legintas | **legevī** <small>**lēgī**</small> |
 
 <!--v-->
 
-| Esperanto | Lingua Classĭca |
+| Esperanto | Classĭca |
 |-|-|
 | porti | **portare** <small>**ferĕre**</small> |
 | mi portas | **porto** <small>**fero**</small> |
@@ -3046,26 +3058,26 @@ Duoblaj vokaloj en finaĵoj estas skribataj kun makrono.
 
 <!--v-->
 
-## Konjunkcioj
+### Konjunkcioj
 
 <!--v-->
 
-| Esperanto | Lingua Classĭca |
+| Esperanto | Classĭca |
 |-|-|
 | aŭ | **aut** |
 | kaj | **et** |
 
 <!--s-->
 
-# Lingua Meridionál
+## Meridionál
 
 <!--v-->
 
-## Prononco
+### Prononco
 
 <!--v-->
 
-### -e
+#### -e
 
 <!--v-->
 
@@ -3073,7 +3085,7 @@ Duoblaj vokaloj en finaĵoj estas skribataj kun makrono.
 
 <!--v-->
 
-| Esperanto | Lingua Meridionál |
+| Esperanto | Meridionál |
 |-|-|
 | koro | **côr** |
 | maro | **mâr** |
@@ -3086,7 +3098,7 @@ Duoblaj vokaloj en finaĵoj estas skribataj kun makrono.
 
 <!--v-->
 
-### h
+#### h
 
 <!--v-->
 
@@ -3094,13 +3106,13 @@ Duoblaj vokaloj en finaĵoj estas skribataj kun makrono.
 
 <!--v-->
 
-| Esperanto | Lingua Meridionál |
+| Esperanto | Meridionál |
 |-|-|
 | horo | **hora** *[ora]* |
 
 <!--v-->
 
-### r, l
+#### r, l
 
 <!--v-->
 
@@ -3108,7 +3120,7 @@ Duoblaj vokaloj en finaĵoj estas skribataj kun makrono.
 
 <!--v-->
 
-| Esperanto | Lingua Meridionál |
+| Esperanto | Meridionál |
 |-|-|
 | universala | **universál** *[univeĥsaŭ']* |
 | universalaj | **universales** *[univeĥsales]* |
@@ -3117,11 +3129,11 @@ Duoblaj vokaloj en finaĵoj estas skribataj kun makrono.
 
 <!--v-->
 
-### j
+#### j
 
 <!--v-->
 
-| Esperanto | Lingua Meridionál |
+| Esperanto | Meridionál |
 |-|-|
 | jam | **ja** *[ĵa]* |
 | | |
@@ -3129,18 +3141,18 @@ Duoblaj vokaloj en finaĵoj estas skribataj kun makrono.
 
 <!--v-->
 
-| Esperanto | Lingua Meridionál |
+| Esperanto | Meridionál |
 |-|-|
 | ĉemizo | **camisia** *[kamiŝa]* |
 | kisi | **basiár** *[baŝaĥ']* |
 
 <!--v-->
 
-<small>**di** kaj **ti** prononciĝas *[ĝi]* kaj *[ĉi]*. Antaŭ vokalo, ne-akcentata **i** ne prononciĝas.</small>
+<small>**di** kaj **ti** prononciĝas *[dĵi = ĝi]* kaj *[tŝi = ĉi]*. Antaŭ vokalo, ne-akcentata **i** ne prononciĝas.</small>
 
 <!--v-->
 
-| Esperanto | Lingua Meridionál |
+| Esperanto | Meridionál |
 |-|-|
 | tago | **dia** *[dĵia = ĝia]* |
 | onklo | **tio** *[tŝio = ĉio]* |
@@ -3150,11 +3162,11 @@ Duoblaj vokaloj en finaĵoj estas skribataj kun makrono.
 
 <!--v-->
 
-### au
+#### au
 
 <!--v-->
 
-| Esperanto | Lingua Meridionál |
+| Esperanto | Meridionál |
 |-|-|
 | aŭ | **au** *[o]* |
 | | |
@@ -3163,11 +3175,11 @@ Duoblaj vokaloj en finaĵoj estas skribataj kun makrono.
 
 <!--v-->
 
-### li, ni, gn
+#### li, ne, ni, gn
 
 <!--v-->
 
-| Esperanto | Lingua Meridionál |
+| Esperanto | Meridionál |
 |-|-|
 | ajlo | **alio** *[aḷo]* <small>*[ali-o]*</small> |
 | filo | **filio** *[fiḷo]* <small>*[fili-o]*</small> |
@@ -3180,24 +3192,24 @@ Duoblaj vokaloj en finaĵoj estas skribataj kun makrono.
 
 <!--v-->
 
-### Elizioj
+#### Elizioj
 
 <!--v-->
 
-| Esperanto | Lingua Meridionál |
+| Esperanto | Meridionál |
 |-|-|
 | letero | **lîtra** *[litra]* <small>**littĕra** *[lite-ra]*</small> |
 
 <!--v-->
 
-| Esperanto | Lingua Meridionál |
+| Esperanto | Meridionál |
 |-|-|
 | cindro | **cîndre** *[sindre]* <small>**cinĕre** *[cine-re]*</small> |
 | tenera | **têndra** *[tendra]* <small>**tenĕra** *[tene-ra]*</small> |
 
 <!--v-->
 
-| Esperanto | Lingua Meridionál |
+| Esperanto | Meridionál |
 |-|-|
 | ĉambro | **câmbra** *[kambra]* <small>**camĕra** *[kame-ra]*</small> |
 | | |
@@ -3207,14 +3219,14 @@ Duoblaj vokaloj en finaĵoj estas skribataj kun makrono.
 
 <!--v-->
 
-| Esperanto | Lingua Meridionál |
+| Esperanto | Meridionál |
 |-|-|
 | kovras | **côbre** *[kobre]* <small>**coŏpere** *[koopere]*</small> |
 | malfermas | **âbre** *[abre]* <small>**apere** *[apere]*</small> |
 
 <!--v-->
 
-| Esperanto | Lingua Meridionál |
+| Esperanto | Meridionál |
 |-|-|
 | makulo | **mâcla** *[makla]* <small>**macŭla** *[maku-la]*</small> |
 | nebulo | **nêblo** *[neblo]* <small>**nebŭla** *[nebu-la]*</small> |
@@ -3228,17 +3240,18 @@ Duoblaj vokaloj en finaĵoj estas skribataj kun makrono.
 
 <!--v-->
 
-| Esperanto | Lingua Meridionál |
+| Esperanto | Meridionál |
 |-|-|
 | popolo | **pôblo** *[poblo]* <small>**popŭlo** *[popu-lo]*</small> |
 | povra | **pâubra** *[pobra]* <small>**paupĕra** *[pope-ra]*</small> |
 | | |
 | ĉapitro | **capîtro** *[kapitro]* <small>**capitŭlo** *[kapitu-lo]*</small> |
 | titolo | **tîtro** *[titro]* <small>**titŭlo** *[titu-lo]*</small> |
+| maljuna | **vêtra** *[vetra]* <small>**vetŭla** *[vetu-la]*</small> |
 
 <!--v-->
 
-| Esperanto | Lingua Meridionál |
+| Esperanto | Meridionál |
 |-|-|
 | insulo | **îsla** *[isla]* <small>**insŭla** *[insu-la]*</small> |
 | izolas | **insŭla** *[insu-la]* |
@@ -3248,14 +3261,14 @@ Duoblaj vokaloj en finaĵoj estas skribataj kun makrono.
 
 <!--v-->
 
-| Esperanto | Lingua Meridionál |
+| Esperanto | Meridionál |
 |-|-|
 | ŝajnas | **sîmbra** *[simbra]* <small>**simŭla** *[simu-la]*</small> |
 | simulas | **simŭla** *[simu-la]* |
 
 <!--v-->
 
-## Substantivoj
+### Substantivoj
 
 <!--v-->
 
@@ -3263,7 +3276,7 @@ Duoblaj vokaloj en finaĵoj estas skribataj kun makrono.
 
 <!--v-->
 
-| Esperanto | Lingua Intermediaria |
+| Esperanto | Intermediaria |
 |-|-|
 | lundo | **lunadí** <small>**lunadie**</small> |
 | marto | **martedí** <small>**martedie**</small> |
@@ -3275,19 +3288,19 @@ Duoblaj vokaloj en finaĵoj estas skribataj kun makrono.
 
 <!--v-->
 
-## Verboj
+### Verboj
 
 <!--v-->
 
-### Infinitivo
+#### Infinitivo
 
 <!--v-->
 
-<small>Kelkaj infinitivoj, kiuj finiĝas je **-ér** en **Lingua Intermediaria**, mallongiĝas en **Lingua Meridionál**.</small>
+<small>Kelkaj infinitivoj, kiuj finiĝas je **-ér** en **Intermediaria**, mallongiĝas en **Meridionál**.</small>
 
 <!--v-->
 
-| Esperanto | Lingua Meridionál |
+| Esperanto | Meridionál |
 |-|-|
 | diri | **dîr** <small>**dicér**</small> |
 | konduki | **dûr** <small>**ducér**</small> |
@@ -3298,18 +3311,18 @@ Duoblaj vokaloj en finaĵoj estas skribataj kun makrono.
 
 <!--v-->
 
-## Konjunkcioj
+### Konjunkcioj
 
 <!--v-->
 
-| Esperanto | Lingua Meridionál |
+| Esperanto | Meridionál |
 |-|-|
 | aŭ | **au** *[o]* <small>**aud** *[od]*</small> |
 | kaj | **e** <small>**ed**</small> |
 
 <!--s-->
 
-# TODO
+## TODO
 
 <!--v-->
 
@@ -3321,3 +3334,6 @@ Efektive Esperanto ja uzas substantivecajn "-iu"-tabelvortojn kiel adjektivojn. 
 lo uno / le une / la una ?
 
 plu(s)
+
+traho/trago → traha/traga
+
