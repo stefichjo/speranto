@@ -302,6 +302,7 @@ Note:
 <!--s-->
 
 ## Esperanto
+*(Epizodo IX)*
 
 <!--v-->
 
@@ -329,6 +330,7 @@ Note:
 <!--s-->
 
 ## Speranto
+*(Epizodo VIII)*
 
 <!--v-->
 
@@ -804,6 +806,7 @@ Note:
 <!--s-->
 
 ## Peranto
+*(Epizodo VII)*
 
 <!--v-->
 
@@ -980,6 +983,7 @@ Note:
 <!--s-->
 
 ## Linguo
+*(Epizodo VI)*
 
 <!--v-->
 
@@ -1283,6 +1287,7 @@ Multajn vortojn oni povas skribi en eĉ pli etimologia stilo, kaj oni povas uzi 
 <!--s-->
 
 ## Lingue
+*(Epizodo V)*
 
 <!--v-->
 
@@ -1427,6 +1432,7 @@ Tra bruo, la prepozicio **a** uziĝas por la indiki la rektan objekton. (Tiam uz
 <!--s-->
 
 ## Lingua
+*(Epizodo IV)*
 
 <!--v-->
 
@@ -1831,6 +1837,7 @@ La grek-devenaj ŝajnfinaĵoj **-i**, **-ia** *[ia]*, **-a**, **-e** havas signi
 <!--s-->
 
 ## Intermediaria
+*(Epizodo II)*
 
 <!--v-->
 
@@ -1853,7 +1860,7 @@ La grek-devenaj ŝajnfinaĵoj **-i**, **-ia** *[ia]*, **-a**, **-e** havas signi
 
 <!--v-->
 
-<small>Vortofina **e** eliziiĝas post sufiksoj, kiu finiĝas je **r**, **l**, **n** aŭ **t**. Sufiksofina **t** ĉiam fariĝas **d**.</small>
+<small>Vortofina **e** eliziiĝas post sufiksoj, kiu finiĝas je **r**, **l**, **n** aŭ **t**.</small>
 
 <!--v-->
 
@@ -1862,26 +1869,22 @@ La grek-devenaj ŝajnfinaĵoj **-i**, **-ia** *[ia]*, **-a**, **-e** havas signi
 | stela | **stellár** |
 | stelaj | **stellares** |
 | | |
-| universitato | **universidád** |
-| universitato | **universidades** |
-| | |
-| estu (vij)! | **sêd!** |
-
-<!--v-->
-
-| Esperanto | Intermediaria |
-|-|-|
 | facila | **fâcil** |
 | facile | **facilmente** |
 
 <!--v-->
 
-<small>Sufiksofina **t** ĉiam fariĝas **d**.</small>
+<small>Sufiksofina **t** fariĝas **d**.</small>
 
 <!--v-->
 
 | Esperanto | Intermediaria |
 |-|-|
+| universitato | **universidád** |
+| universitato | **universidades** |
+| | |
+| estu (vij)! | **sêd!** |
+| | |
 | flanko | **lado** |
 
 <!--v-->
@@ -2436,6 +2439,7 @@ Por la perfektaj formoj de **îr** uziĝas la verbo **sêr**.
 <!--s-->
 
 ## Classĭca
+*(Epizodo I)*
 
 <!--v-->
 
@@ -3070,6 +3074,7 @@ Duoblaj vokaloj en finaĵoj estas skribataj kun makrono.
 <!--s-->
 
 ## Meridionál
+*(Epizodo III)*
 
 <!--v-->
 
@@ -3093,7 +3098,6 @@ Duoblaj vokaloj en finaĵoj estas skribataj kun makrono.
 | reto | **rêd** |
 | suno | **sôl** |
 | | |
-| flanko | **lado** |
 | tuta | **toda** |
 
 <!--v-->
@@ -3337,3 +3341,4 @@ plu(s)
 
 traho/trago → traha/traga
 
+benvenida (ne "benventa")
