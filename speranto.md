@@ -433,6 +433,7 @@ Note:
 | Esperanto | Speranto |
 |-|-|
 | ĝenerala | generala |
+| paĝo | pagino |
 | | |
 | ĝusta | justa |
 | ĵuri | juri |
