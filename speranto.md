@@ -819,6 +819,7 @@ Note:
 | tago | dio <small>(Speranto: dago)</small> |
 | trinki | bibi <small>(Speranto: drinki)</small> |
 | flanko | lato |
+| helpi | adjuvi |
 | savi | salvi |
 | ŝajni | simbli |
 
@@ -3197,7 +3198,7 @@ Duoblaj vokaloj en finaĵoj estas skribataj kun makrono.
 
 | Esperanto | Lingua Meridionál |
 |-|-|
-| ĉambro | **câmbro** *[kambra]* <small>**camĕra** *[kame-ra]*</small> |
+| ĉambro | **câmbra** *[kambra]* <small>**camĕra** *[kame-ra]*</small> |
 | | |
 | verko | **ôbra** *[obra]* <small>**opĕra** *[ope-ra]*</small> |
 | | |
@@ -3231,7 +3232,7 @@ Duoblaj vokaloj en finaĵoj estas skribataj kun makrono.
 | popolo | **pôblo** *[poblo]* <small>**popŭlo** *[popu-lo]*</small> |
 | povra | **pâubra** *[pobra]* <small>**paupĕra** *[pope-ra]*</small> |
 | | |
-| ĉâpitro | **capîtro** *[kapitro]* <small>**capitŭlo** *[kapitu-lo]*</small> |
+| ĉapitro | **capîtro** *[kapitro]* <small>**capitŭlo** *[kapitu-lo]*</small> |
 | titolo | **tîtro** *[titro]* <small>**titŭlo** *[titu-lo]*</small> |
 
 <!--v-->
@@ -3309,21 +3310,12 @@ Duoblaj vokaloj en finaĵoj estas skribataj kun makrono.
 
 # TODO
 
-***Lingvao*** baziĝas sur la ***Latina***. Dialekto de ***Lingvao*** estas [***Lingveo***](lingue.md). Planlingvoj similaj al ***Lingvao*** estas [***Interlingvao***](https://eo.wikipedia.org/wiki/Interlingvao) kaj [***Gloso***](https://eo.wikipedia.org/wiki/Gloso_(planlingvo)).
-
-***Lingveo*** estas dialekto de [***Lingvao***](lingua.md). Dialekto de ***Lingveo*** estas [***Lingvoo***](linguo.md). Planlingvoj similaj al ***Lingveo*** estas [***Okcidentalo***](https://eo.wikipedia.org/wiki/Okcidentalo), [***Adjuvilo***](https://eo.wikipedia.org/wiki/Adjuvilo) kaj [***Ido***](https://eo.wikipedia.org/wiki/Ido_(lingvo)).
-
-***Lingvoo*** estas dialekto de [***Lingveo***](lingue.md) kaj pruntas el [***Sprako***](sprak.md) kaj [***Jaziko***](jazyk.md). **Lingvoo** havas diversajn akĉentojn. [***Esperanto***](https://eo.wikipedia.org/wiki/Esperanto) estas dialekto de ***Speranto***, t.e. la Slav-Ĝermana akĉento de ***Lingvoo***.
-
 <!--v-->
 
 Haveblas inter-paŝo: la adjektivo substantiviĝas. Tiam "bona" fariĝas "bono". Mencii du substantivojn sinsekve estas alia fenomeno, kiu kaŭzas "amico bono" aŭ "bono amico".
 * renverse: illi domo → illa domo
 Efektive Esperanto ja uzas substantivecajn "-iu"-tabelvortojn kiel adjektivojn. Tre pripensige!
 * Adjektivo *antaŭ* substantivo estas subjektiva, t.e. laŭ la perspektivo de la parolanto / unua persono. Adjektivo *malantaŭ* substantivo estas objektiva, t.e. laŭ la perspektivo de la aŭskultanto / dua persono.
-
-lunedo martedo merkurjedo ĵovedo vendredo sabato ...
-Vendre? Marte?
 
 lo uno / le une / la una ?
 
