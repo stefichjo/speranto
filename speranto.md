@@ -1453,6 +1453,22 @@ Tra bruo, la prepozicio **a** uziĝas por la indiki la rektan objekton. (Tiam uz
 
 <!--v-->
 
+<small>En la nomoj de la tagoj de la semajno uziĝas la ablativaj formoj.</small>
+
+<!--v-->
+
+| Esperanto | Lingua |
+|-|-|
+| lundo | **lunadie** |
+| marto | **martedie** |
+| merkredo | **mercuriodie** |
+| ĵaŭdo | **jovedie** |
+| vendredo | **venĕredie** |
+| sabato | **saturnodie** |
+| dimanĉo | **domĭnodie** |
+
+<!--v-->
+
 ### Substantivoj
 
 <!--v-->
@@ -1465,6 +1481,7 @@ Tra bruo, la prepozicio **a** uziĝas por la indiki la rektan objekton. (Tiam uz
 |-|-|
 | pano | **pane** |
 | rano | **rana** |
+| reto | **rete** |
 
 <!--v-->
 
@@ -1476,6 +1493,21 @@ Tra bruo, la prepozicio **a** uziĝas por la indiki la rektan objekton. (Tiam uz
 |-|-|
 | mano | **mano** <small>**manu**</small> |
 | maro | **mare** <small>**mari**</small> |
+
+<!--v-->
+
+<small>La ŝajnfinaĵoj **-ĭn-** kaj **-ĭt** eliziiĝas, se ĝi ne ekzistas en la latina nominativo.</small>
+
+<!--v-->
+
+| Esperanto | Lingua |
+|-|-|
+| homo | **home** <small>**homĭne** *[homi-ne]*</small>  |
+| lumo | **lume** <small>**lumĭne** *[lumi-ne]*</small>  |
+| nomo | **nome** <small>**nomĭne** *[nomi-ne]*</small>  |
+| sango | **sangue** <small>**sanguĭne** *[sangu-ine]*</small>  |
+| | |
+| limo | **lime** <small>**limĭte** *[limi-te]*</small>  |
 
 <!--v-->
 
@@ -1841,11 +1873,11 @@ La grek-devenaj ŝajnfinaĵoj **-i**, **-ia** *[ia]*, **-a**, **-e** havas signi
 
 <!--v-->
 
-### Prononco
+<small>**Meridionál** estas gramatike identa al [**Intermediaria**](#intermediaria). Ĝi tamen havas diversan prononcon.</small>
 
 <!--v-->
 
-#### -e
+### Prononco
 
 <!--v-->
 
@@ -1865,21 +1897,13 @@ La grek-devenaj ŝajnfinaĵoj **-i**, **-ia** *[ia]*, **-a**, **-e** havas signi
 
 <!--v-->
 
-#### h
-
-<!--v-->
-
-**h** estas muta.
+<small>**h** estas muta.</small>
 
 <!--v-->
 
 | Esperanto | Meridionál |
 |-|-|
 | horo | **hora** *[ora]* |
-
-<!--v-->
-
-#### r, l
 
 <!--v-->
 
@@ -1896,7 +1920,9 @@ La grek-devenaj ŝajnfinaĵoj **-i**, **-ia** *[ia]*, **-a**, **-e** havas signi
 
 <!--v-->
 
-#### j
+<small>**j** prononciĝas *[ĵ]*. Same, ne-akcentataj **e** kaj **i** asimiliĝas al *[ĵ]*, respektive al *[ŝ]* post senvoĉa **s**.</small>
+
+<!-- Kial **s** estas senvoĉa, fakte? -->
 
 <!--v-->
 
@@ -1912,6 +1938,8 @@ La grek-devenaj ŝajnfinaĵoj **-i**, **-ia** *[ia]*, **-a**, **-e** havas signi
 |-|-|
 | ĉemizo | **camisia** *[kamiŝa]* |
 | kisi | **basiár** *[baŝaĥ']* |
+| | |
+| negoci | **negotiár** *[negosjaĥ']* |
 
 <!--v-->
 
@@ -1929,7 +1957,7 @@ La grek-devenaj ŝajnfinaĵoj **-i**, **-ia** *[ia]*, **-a**, **-e** havas signi
 
 <!--v-->
 
-#### au
+<small>**au** monoftongiĝas al *[o]*.</small>
 
 <!--v-->
 
@@ -1939,23 +1967,40 @@ La grek-devenaj ŝajnfinaĵoj **-i**, **-ia** *[ia]*, **-a**, **-e** havas signi
 | | |
 | afero | **causa** *[koza]* |
 | oro | **auro** *[oro]* |
+| | |
+| li amintas | **amáu** *[amo']* |
 
 <!--v-->
 
-#### li, ne, ni, gn
+<small>**gn** prononciĝas *[ṅ]*.</small>
+
+<!--v-->
+
+| Esperanto | Meridionál |
+|-|-|
+| regno | **regno** *[reṅo]* <small>*[reŋno]*</small> |
+
+<!--v-->
+
+<small>Ne-akcentata **i** asimiliĝas al *[ḷ]* malantaŭ **l**.</small>
 
 <!--v-->
 
 | Esperanto | Meridionál |
 |-|-|
 | ajlo | **alio** *[aḷo]* <small>*[ali-o]*</small> |
-| filo | **filio** *[fiḷo]* <small>*[fili-o]*</small> |
 | oleo | **oleo** *[ole-o]* |
-| | |
+
+<!--v-->
+
+<small>Ne-akcentataj **e** kaj **i** asimiliĝas al *[ṅ]* malantaŭ **n**.</small>
+
+<!--v-->
+
+| Esperanto | Meridionál |
+|-|-|
 | bezono | **besonio** *[bezoṅo]* <small>*[bezoni-o]*<small> |
 | stranga | **extranea** *[estraṅa]* <small>*[ekstrane-a]*</small> |
-| | |
-| regno | **regno** *[reṅo]* <small>*[regno]*</small> |
 
 <!--v-->
 
@@ -2035,35 +2080,7 @@ La grek-devenaj ŝajnfinaĵoj **-i**, **-ia** *[ia]*, **-a**, **-e** havas signi
 
 <!--v-->
 
-### Substantivoj
-
-<!--v-->
-
-<small>Por tagoj de la semajno, **die** mallongiĝas al **dí**.</small>
-
-<!--v-->
-
-| Esperanto | Intermediaria |
-|-|-|
-| lundo | **lunadí** <small>**lunadie**</small> |
-| marto | **martedí** <small>**martedie**</small> |
-| merkredo | **mercuriodí** <small>**mercuriodie**</small> |
-| ĵaŭdo | **jovedí** <small>**jovedie**</small> |
-| vendredo | **vendredí** <small>**venĕredie**</small> |
-| sabato | **saturnodí** <small>**saturnodie**</small> |
-| dimanĉo | **domĭnodí** <small>**domĭnodie** → **die dominĭca**</small> |
-
-<!--v-->
-
-### Verboj
-
-<!--v-->
-
-#### Infinitivo
-
-<!--v-->
-
-<small>Kelkaj infinitivoj, kiuj finiĝas je **-ér** en **Intermediaria**, mallongiĝas en **Meridionál**.</small>
+<small>Kelkaj infinitivoj je **-ér** mallongiĝas.</small>
 
 <!--v-->
 
@@ -2076,17 +2093,6 @@ La grek-devenaj ŝajnfinaĵoj **-i**, **-ia** *[ia]*, **-a**, **-e** havas signi
 | teni | **têr** <small>**tenér**</small> |
 | tiri | **trâr** <small>**trahér**</small> |
 
-<!--v-->
-
-### Konjunkcioj
-
-<!--v-->
-
-| Esperanto | Meridionál |
-|-|-|
-| aŭ | **au** *[o]* <small>**aud** *[od]*</small> |
-| kaj | **e** <small>**ed**</small> |
-
 <!--s-->
 
 ## Intermediaria
@@ -2098,36 +2104,21 @@ La grek-devenaj ŝajnfinaĵoj **-i**, **-ia** *[ia]*, **-a**, **-e** havas signi
 
 <!--v-->
 
-<small>La ŝajnfinaĵoj **-ĭn-** kaj **-ĭt** eliziiĝas, se ĝi ne ekzistas en la latina nominativo.</small>
+<small>Vortofina **e** eliziiĝas nur post sufiksoj, kiuj finiĝas je intervokala **r**, **l**, **n** aŭ **t**.</small>
 
 <!--v-->
 
 | Esperanto | Intermediaria |
 |-|-|
-| homo | **home** <small>**homĭne** *[homi-ne]*</small>  |
-| lumo | **lume** <small>**lumĭne** *[lumi-ne]*</small>  |
-| nomo | **nome** <small>**nomĭne** *[nomi-ne]*</small>  |
-| sango | **sangue** <small>**sanguĭne** *[sangu-ine]*</small>  |
-| | |
-| limo | **lime** <small>**limĭte** *[limi-te]*</small>  |
-
-<!--v-->
-
-<small>Vortofina **e** eliziiĝas post sufiksoj, kiu finiĝas je **r**, **l**, **n** aŭ **t**.</small>
-
-<!--v-->
-
-| Esperanto | Intermediaria |
-|-|-|
-| stela | **stellár** |
-| stelaj | **stellares** |
-| |
 | facila | **fâcil** |
 | facile | **facilmente** |
+| | |
+| stela | **stellár** |
+| stelaj | **stellares** |
 
 <!--v-->
 
-<small>Sufiksofina **t** fariĝas **d**.</small>
+<small>Nur sufiksofina **t** fariĝas **d**.</small>
 
 <!--v-->
 
@@ -2146,7 +2137,7 @@ La grek-devenaj ŝajnfinaĵoj **-i**, **-ia** *[ia]*, **-a**, **-e** havas signi
 
 <!--v-->
 
-##### c̆
+<small>Elizioj de **Meridionál** ne okazas en **Intermediara**. Tamen, **Intermediara** havas eliziojn. (Tiuj elizioj okazas ankaŭ en **Meridionál**.)</small>
 
 <!--v-->
 
@@ -2156,7 +2147,17 @@ La grek-devenaj ŝajnfinaĵoj **-i**, **-ia** *[ia]*, **-a**, **-e** havas signi
 
 <!--v-->
 
-###### -adĭc̆o
+| Esperanto | Intermediaria |
+|-|-|
+| trajno | **trâino** <small>**trağino**</small> |
+| majstro | **mâistro** <small>**mağistro**</small> |
+
+<!--v-->
+
+| Esperanto | Intermediaria |
+|-|-|
+| kostas | **côsta** <small>**con̆sta**</small> |
+| lando | **paêse** <small>**pağen̆se**</small> |
 
 <!--v-->
 
@@ -2172,39 +2173,9 @@ La grek-devenaj ŝajnfinaĵoj **-i**, **-ia** *[ia]*, **-a**, **-e** havas signi
 
 <!--v-->
 
-##### ğ
-
-<!--v-->
-
-| Esperanto | Intermediaria |
-|-|-|
-| trajno | **trâino** <small>**trağino**</small> |
-| majstro | **mâistro** <small>**mağistro**</small> |
-
-<!--v-->
-
-##### n̆
-
-<!--v-->
-
-| Esperanto | Intermediaria |
-|-|-|
-| kostas | **côsta** <small>**con̆sta**</small> |
-| lando | **paêse** <small>**pağen̆se**</small> |
-
-<!--v-->
-
-##### p̆
-
-<!--v-->
-
 | Esperanto | Intermediaria |
 |-|-|
 | konto | **cônto** <small>**comp̆ŭto**</small> |
-
-<!--v-->
-
-##### s̆
 
 <!--v-->
 
@@ -2215,15 +2186,9 @@ La grek-devenaj ŝajnfinaĵoj **-i**, **-ia** *[ia]*, **-a**, **-e** havas signi
 
 <!--v-->
 
-##### l̮
-
 | Esperanto | Intermediaria |
 |-|-|
 | mi banas | **bânio** <small>**bal̮nio**</small> |
-
-<!--v-->
-
-##### v̆
 
 <!--v-->
 
@@ -2239,9 +2204,13 @@ La grek-devenaj ŝajnfinaĵoj **-i**, **-ia** *[ia]*, **-a**, **-e** havas signi
 
 <!--v-->
 
+<small>Substantivoj kun la finaĵo **-io** en la latina nominativo finiĝas je **-ione**.</small>
+
+<!--v-->
+
 | Esperanto | Intermediaria |
 |-|-|
-| stacio | **statione** *[stasjone]* <small>*[staŧione]*</small> |
+| stacio | **statión** <small>**statione**</small> *[stasjon']* <small>*[staŧione]*</small> |
 
 <!--v-->
 
@@ -2506,9 +2475,9 @@ La grek-devenaj ŝajnfinaĵoj **-i**, **-ia** *[ia]*, **-a**, **-e** havas signi
 
 | Esperanto | Intermediaria |
 |-|-|
-| mi amintas | **hô amado** <small>**amâi**</small> |
+| mi amintas | **hô amado** <small>**amái**</small> |
 | ci amintas | **hâs amado** <small>**amâste**</small> |
-| li amintas | **hâ amado** <small>**amâu**</small> |
+| li amintas | **hâ amado** <small>**amáu**</small> |
 | | |
 | ni amintas | **hêmos amado** <small>**amâmo**</small> |
 | vi amintas | **héis amado** <small>**amâstes**</small> |
@@ -3342,3 +3311,5 @@ plu(s)
 traho/trago → traha/traga
 
 benvenida (ne "benventa")
+
+sine sîn
