@@ -68,18 +68,18 @@ Note:
 
 <!--v-->
 
-* Aglutina Fazo
-  * **Esperanto**
-  * **Speranto**
-  * **Peranto**
-* Intera Fazo
-  * **Linguo**
-  * **Lingue**
-  * **Lingua**
-* Fleksia Fazo
-  * **Meridionál**
-  * **Intermediaria**
-  * **Classĭca**
+* [Aglutina Fazo](#aglutina-fazo)
+  * [**Esperanto**](#esperanto)
+  * [**Speranto**](#speranto)
+  * [**Peranto**](#peranto)
+* [Intera Fazo](#intera-fazo)
+  * [**Linguo**](#linguo)
+  * [**Lingue**](#lingue)
+  * [**Lingua**](#lingua)
+* [Fleksia Fazo](#fleksia-fazo)
+  * [**Meridionál**](#meridionál)
+  * [**Intermediaria**](#intermediaria)
+  * [**Classĭca**](#classĭca)
 
 <!--s-->
 
