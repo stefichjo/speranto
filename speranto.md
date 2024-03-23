@@ -2690,7 +2690,7 @@ Por la perfektaj formoj de **îr** uziĝas la verbo **sêr**.
 ## Classĭca
 *(Epizodo I)*
 
-**Si nos etiam supponerabemus, qŭe la lingua finale de las futuras generationes sîa no Sperante, in omnia occasione la via ad illi elaborenda lingua infallibilemente debet conducĕre trans Sperante.**
+**Si nos etiam supponerabemus, qŭe la lingua finale de las futuras generationes sîat no Sperante, in omnia occasione la via ad illi elaborenda lingua infallibilemente debet conducĕre trans Sperante.**
 
 <!--v-->
 
