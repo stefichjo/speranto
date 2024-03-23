@@ -26,11 +26,13 @@ Note:
 * Esperanto-Vortrag auf Deutsch
 * github.com/stefichjo/speranto
 
-<!--s-->
+<!--v-->
 
 ## Motivigoj
 
-### Dialektaroj
+<!--v-->
+
+### Lingvoj kiel Dialektoj
 
 ![alt text][babela-turo]
 
@@ -38,16 +40,27 @@ Note:
 
 <!--v-->
 
-## Motivigoj
-
-### Dialektaroj
-
 > Lingvo estas dialekto kun armeo kaj floto.
 >
 > -- <quote>Max Weinreich</quote>
 
 Note:
 * Manko de interkomprenebleco inter lingvoj estas artefarita.
+
+<!--v-->
+
+### Reformproponoj kiel Dialektoj
+
+![alt text][splitters]
+
+[splitters]: https://img.gifglobe.com/grabs/montypython/MontyPythonsLifeOfBrian/gif/QMnVZLQcsblp.gif "Splitters"
+
+<!--v-->
+
+* Latino sine Flexione *(1903)*, Ido *(1907)*, Adjuvilo *(1910)*, Interlingue-Occidental *(1922)*, Novial *(1928)*, Interglossa *(1943)*, Interlingua *(1951)*, ...
+
+Note:
+* Lingwe Uniwersala (1878), Lingvo Universala (1881)
 
 <!--s-->
 
