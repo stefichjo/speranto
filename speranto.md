@@ -251,7 +251,7 @@ Se ni eĉ supozos, ke la fina lingvo de la<br> estontaj generacioj estas ne Espe
 ## Speranto
 *(Epizodo VIII)*
 
-Si nu eĉam suponos, ke la fina lingvo de la<br> esontaj generacjoj esas ne Speranto, en ĉja<br> okazjo la vio al tju ellaborota lingvo<br> infalible devas konduci tra Speranto.
+Si nu eĉ suponos, ke la fina lingvo de la<br> esontaj generacjoj esas ne Speranto, in ĉja<br> okazjo la vio ad tju ellaborota lingvo<br> infalible devas konduci tra Speranto.
 
 <!--v-->
 
@@ -750,7 +750,7 @@ Si nu eĉam suponos, ke la fina lingvo de la<br> esontaj generacjoj esas ne Sper
 ## Peranto
 *(Epizodo VII)*
 
-Si nu eĉam suponos, ke la fina lingvo de la<br> esontaj generacjoj esas ne Speranto, en omnja<br> okazjo la vio al tju ellaborota lingvo<br> infalible devas konduci trans Speranto.
+Si nu eĉam suponos, ke la fina lingvo de la<br> esontaj generacjoj esas ne Speranto, in omnja<br> okazjo la vio ad tju ellaborota lingvo<br> infalible devas konduci trans Speranto.
 
 <!--v-->
 
@@ -809,6 +809,8 @@ Si nu eĉam suponos, ke la fina lingvo de la<br> esontaj generacjoj esas ne Sper
 <!--v-->
 
 ### Tabelvortoj
+
+<!-- Al Speranto -->
 
 <!--v-->
 
@@ -930,7 +932,7 @@ Si nu eĉam suponos, ke la fina lingvo de la<br> esontaj generacjoj esas ne Sper
 ## Linguo
 *(Epizodo VI)*
 
-**Si nu etja supponos, qŭe la fina linguo del essontai generatioi essas ne Speranto, en omnia occasio la vio a tiu ellavorota linguo infallible devas conduci trans Speranto.**
+**Si nu etja supponos, qŭe la fina linguo de la essontai generatioi essas ne Speranto, en omnia occasio la vio ad tiu ellavorota linguo infallible devas conduci trans Speranto.**
 
 <!--v-->
 
@@ -1225,18 +1227,26 @@ Multajn vortojn oni povas skribi en eĉ pli etimologia stilo, kaj oni povas uzi 
 
 <!--v-->
 
+<small>En poezio, la prepozicioj **de**/**di**, **ad**/**a** kaj **in**/**en** asmimiliĝas kun la difina artikolo.</small>
+
+<!--v-->
+
 | Esperanto | Linguo |
 |-|-|
-| de la | **del** |
-| al la | **al** |
-| en la | **nel** |
+| de la | **de/di la** <small>**dêl**</small> |
+| al la | **ad/a la** <small>**âl**</small> |
+| en la | **in/en la** <small>**nêl**</small> |
+| | |
+| de la (-j) | **de/di la (-i)** <small>**dêi**</small> |
+| al la (-j) | **ad/a la (-i)** <small>**âi**</small> |
+| en la (-j) | **in/en la (-i)** <small>**nêi**</small> |
 
 <!--s-->
 
 ## Lingue
 *(Epizodo V)*
 
-**Si ni etja supponon, qŭe la fina lingue del essontas generaties essan no Sperante, en omnia occasie la vie a tii ellavorota lingue infalliblo devan conduzu trans Sperante.**
+**Si ni etja supponon, qŭe la fina lingue de las essontas generaties essan no Sperante, in omnia occasie la vie ad tii ellavorota lingue infalliblo devan conduzu trans Sperante.**
 
 <!--v-->
 
@@ -1349,6 +1359,28 @@ Multajn vortojn oni povas skribi en eĉ pli etimologia stilo, kaj oni povas uzi 
 
 <!--v-->
 
+### Artikoloj
+
+<!--v-->
+
+<small>En la pluralo, la difina artikolo estas **las**.</small>
+
+<!--v-->
+
+| Esperanto | Lingue |
+|-|-|
+| la domoj | **las domes** |
+
+<!--v-->
+
+| Esperanto | Lingue |
+|-|-|
+| de la (-j) | **de/di las** <small>**dês**</small> |
+| al la (-j) | **ad/a las** <small>**âs**</small> |
+| en la (-j) | **in/en las** <small>**nês**</small> |
+
+<!--v-->
+
 ### Verboj
 
 <!--v-->
@@ -1383,7 +1415,7 @@ Tra bruo, la prepozicio **a** uziĝas por la indiki la rektan objekton. (Tiam uz
 ## Lingua
 *(Epizodo IV)*
 
-**Si nos etja supponerá, qŭe la lingua finale del futuras generatios sîa no Sperante, en omnia occasio la via ad illi ellavorenda lingua infalliblemente deve conducér trans Sperante.**
+**Si nos etja supponerá, qŭe la lingua finale de las futuras generatios sîa no Sperante, in omnia occasio la via ad illi elavorenda lingua infalliblemente deve conducér trans Sperante.**
 
 <!--v-->
 
@@ -1567,7 +1599,7 @@ La grek-devenaj ŝajnfinaĵoj **-i**, **-ia** *[ia]*, **-a**, **-e** havas signi
 
 | Esperanto | Lingua |
 |-|-|
-| ne | **nillo** <small>**no**, **non**</small> |
+| ne | **nillo** <small>**no**</small> |
 | nenio | **nille** <small>**nîl**</small> |
 
 <!--v-->
@@ -1823,7 +1855,9 @@ La grek-devenaj ŝajnfinaĵoj **-i**, **-ia** *[ia]*, **-a**, **-e** havas signi
 ## Meridionál
 *(Epizodo III)*
 
-**Si nos etja supporêmos, qŭe la lingua finál del futuras generationes sîa no Sperante, en omnia occasione la via ad illi ellavorenda lingua infalliblemente deve condûr trans Sperante.**
+**Si nos etja supporêmos, qŭe la lingua finál de las futuras generationes sîa no Sperante, in omnia occasione la via ad illi elavorenda lingua infalliblemente deve condûr trans Sperante.**
+
+<!-- Ĉu "infalliblemente"? -->
 
 <!--v-->
 
@@ -1846,7 +1880,6 @@ La grek-devenaj ŝajnfinaĵoj **-i**, **-ia** *[ia]*, **-a**, **-e** havas signi
 | maro | **mâr** |
 | pano | **pân** |
 | reto | **rêd** |
-| suno | **sôl** |
 
 <!--v-->
 
@@ -1878,6 +1911,8 @@ La grek-devenaj ŝajnfinaĵoj **-i**, **-ia** *[ia]*, **-a**, **-e** havas signi
 | universalaj | **universales** *[univeĥsales]* |
 | | |
 | alia | **altra** *[aŭtra]* |
+| | |
+| suno | **sôl** *[soŭ]* |
 
 <!--v-->
 
@@ -2059,7 +2094,7 @@ La grek-devenaj ŝajnfinaĵoj **-i**, **-ia** *[ia]*, **-a**, **-e** havas signi
 ## Intermediaria
 *(Epizodo II)*
 
-**Si nos etja supponerêmos, qŭe la lingua finál del futuras generationes sîa no Sperante, en omnia occasione la via ad illi ellavorenda lingua infalliblemente deve conducér trans Sperante.**
+**Si nos etja supponerêmos, qŭe la lingua finál de las futuras generationes sîa no Sperante, in omnia occasione la via ad illi elavorenda lingua infalliblemente deve conducér trans Sperante.**
 
 <!--v-->
 
@@ -2626,7 +2661,7 @@ Por la perfektaj formoj de **îr** uziĝas la verbo **sêr**.
 ## Classĭca
 *(Epizodo I)*
 
-**Si nos etiam supponerabemus, qŭe la lingua finale de futuras generationes sîa no Sperante, in omnia occasione la via ad illi ellavorenda lingua infalliblemente deve conducér trans Sperante.** `?`
+**Si nos etiam supponerabemus, qŭe la lingua finale de las futuras generationes sîa no Sperante, in omnia occasione la via ad illi elaborenda lingua infallibilmente debe conducĕre trans Sperante.**
 
 <!--v-->
 
@@ -2791,13 +2826,13 @@ Duoblaj vokaloj en finaĵoj estas skribataj kun makrono.
 
 <!--v-->
 
-<small>**Classĭca** ne havas artikolojn, nek difinajn nek ne-difinajn.</small>
+<small>**Classĭca** havas nur difinan artikolon.</small>
 
 <!--v-->
 
 | Esperanto | Classĭca |
 |-|-|
-| la domo | **domo** |
+| la domo | **la domo** |
 | domo | **domo** |
 
 <!--v-->
@@ -3277,52 +3312,6 @@ traho/trago → traha/traga
 
 benvenida (ne "benventa")
 
+non
 
-<!--v-->
-
-### Linguo*
-
-[Si eĉ supozeremus la lingŭa finale di las<br> ĵenerasios futuras ne Speranto, in ĉia<br> okazio la vio ad tiu lingŭo ellavorota<br> infaliviŭmente deve konduse' tra Speranto.]
-
-> Si eĉ supposerémus la lingua finale<br> di las generatīos futuras<br> ne Speranto, in ĉia occasīo<br> la vio ad tiu linguo ellavorota<br> infallívĭłmente deve conducé<br> tra Speranto.
-
-<!--v-->
-
-### Linguo
-
-[Se nu eĉ supozos, ke la lingŭo fina de la<br> ĵenerasioj esontaj esas ne Speranto, en ĉia<br> okazio la vio al tiu lingvo ellavorota<br> infaliviŭ-e devas konduki tra Speranto.]
-
-> Sï nu eĉ supposos, qŭe la linguo fina<br> de la generatīoi essontai<br> essas ne Speranto, en ĉia occasīo<br> la vio al tiu linguo ellavorota<br> infallívĭłe devas conduqŭi<br> tra Speranto.
-
-<!--v-->
-
-### Lingue
-
-[Se ni eĉ supponon, ke la lingŭe fina de las<br> đeneraŧjes essontas essan non Sperante, en omna<br> okkazje la vie al ti lingŭe ellavorota<br> infallivil-o devan konduku tra Sperante.]
-
-> Sï ni et supponon, c̄e la lingue fina<br> de las generaties essontas<br> essan nón Sperante, en omna occasie<br> la vie al ti lingue ellavorota<br> infallívĭlo devan conducu<br> tra Sperante.
-
-<!--v-->
-
-### Lingue*
-
-[Si et supponeremus la lingŭa final' di las<br> đeneraŧjones essontas non Sperante, in omna<br> okkazjon' la via ad illa lingŭa ellavorota<br> infallibilmente deve konduŧer' tra Sperante.]
-
-> Si et supponerémus la lingua finál<br> di las generationes essontas<br> nón Sperante, in omna occasión<br> la via ad illa lingua ellavorota<br> infallíbĭlmente deve conducér<br> tra Sperante.
-
-<!--v-->
-
-### Lingua*
-
-[Si et supponeremus la lingu-a final' de las<br> generationes futuras esser-e non Sperante, in omni-a okkasione la via ad illa lingu-a elaboranda<br> infallibilmente debet konduker-e per Sperante.]
-
-> Si et supponerémus la lingua<br> finál de las generationes futuras<br> essĕre nón Sperante, in omnia occasione<br> la via ad illa lingua elaboranda<br> infallíbĭlmente debet conducĕre <br>per Sperante.
-
-<!--v-->
-
-### Lingua
-
-[Si nos et supponera', ke la lingu-a finale de las<br> generationes futuras essi-a non Sperante, in omni-a<br> okkasione la via ad illa lingu-a elaboranda<br> infallibilemente debe konduke' per Sperante.]
-
-> Si nos et supponĕrá, ce la lingua<br> finale de las generationes futuras<br> essia nón Sperante, in omnia occasione<br> la via ad illa lingua elaboranda<br> infallibĭlemente debe conducé<br> per Sperante.
-
+PT às = Lingue âs
