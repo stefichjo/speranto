@@ -49,168 +49,6 @@ Note:
 Note:
 * Manko de interkomprenebleco inter lingvoj estas artefarita.
 
-<!--v-->
-
-### Dialektaroj
-
-| | | | | |
-|-|-|-|-|-|
-| 🇷🇺 ещё | | 🇩🇪 tief | | 🇮🇹 giorno |
-| 🇵🇱 jeszcze | | 🇩🇰 dyb | | 🇫🇷 jour |
-
-Note:
-* denaskaj lingvoj de la gepatroj (🇷🇺 + 🇩🇪)
-* denaska lingvo de la edzino (🇮🇹 + Esperanto)
-
-<!--v-->
-
-### Dialektaroj
-
-| | | | | |
-|-|-|-|-|-|
-| 🇷🇺 ëŝĉo | | 🇩🇪 dẏph | | 🇮🇹 dĭůrno |
-| 🇵🇱 ëŝĉø | | 🇩🇰 dyp | | 🇫🇷 dĭurnŏ |
-
-Note:
-* Pontaj ortografioj estas specifaj je la respektiva lingvo. Ekzemple, [ø] en la Pola estas prononcata kiel **e**.
-  * 🇵🇱 **ø** [e]
-  * 🇩🇪 **d** [t], 🇩🇰 **p** [b]
-  * 🇫🇷 **dĭ** [ĵ], **nŏ** []
-
-<!--v-->
-
-### Dialektaroj
-
-| | | |
-|-|-|-|
-| *Interlingua* | | lingua international |
-| *Okcidentalo* | | lingue international |
-| *Adjuvilo* | | linguo internacionala |
-| *Ido* | | linguo internaciona |
-| | | |
-| *Esperanto* | | lingvo internacia |
-
-Note:
-* Ĉi tiuj esperantidoj estas tre diversaj. Notindas, ke ili vere ekzistas, dum *Lingua*, *Lingue* kaj *Linguo* (kaj *Speranto*) ekzistas nur ene de tiu ĉi fikcia dialekta kontinuo. Do, dum *Interlingua* ktp kreiĝis post *Esperanto* en la realo, *Esperanto* kreiĝis post *Lingua* en la fickio.
-
-<!--v-->
-
-| | | | | |
-|-|-|-|-|-|
-| *RU* 🇷🇺 | | *DE* 🇩🇪 | | *IT* 🇮🇹 |
-| *PL* 🇵🇱 | | *EN* 🇬🇧 | | *FR* 🇫🇷 |
-| *CZ* 🇨🇿 | | *DA* 🇩🇰 | | *ES* 🇪🇸 |
-| | | | | |
-| *Äzyk* | | *Sprak* | | *Lingua* |
-| | | | | *Lingue* |
-| | | | | *Linguo* |
-| | | | | |
-| | ↪ | | | *Speranto* |
-| | | | | |
-| | | | | *Esperanto* |
-
-Note:
-* *Äzyk*, *Sprak* kaj *Lingua* estas kaj pontaj ortografioj kaj pontaj lingvoj.
-
-<!--s-->
-
-## Äzyk
-
-| |
-|-|
-| *RU* 🇷🇺 |
-| *PL* 🇵🇱 |
-| *CZ* 🇨🇿 |
-| |
-| *Äzyk* |
-
-<!--v-->
-
-## Äzyk
-
-| | | | | |
-|-|-|-|-|-|
-| 🇷🇺 день | **dėṇ** | | шесть | **ŝesṭ** |
-| 🇵🇱 dzień | **dėṇ** | | sześć | **ŝesṭ** |
-| 🇨🇿 den | **den** | | šest | **ŝest** |
-| | | | | |
-| | **den** | | | **ŝest** |
-
-<!--v-->
-
-## Äzyk
-
-> __Dobry den!__
-
-Note:
-* *Äzyk* kiel pontolingvo (ankoraŭ) ne ekzistas.
-
-<!--v-->
-
-| | | | | |
-|-|-|-|-|-|
-| ___RU___ 🇷🇺 | | *DE* 🇩🇪 | | *IT* 🇮🇹 |
-| ___PL___ 🇵🇱 | | *EN* 🇬🇧 | | *FR* 🇫🇷 |
-| ___CZ___ 🇨🇿 | | *DA* 🇩🇰 | | *ES* 🇪🇸 |
-| | | | | |
-| ___Äzyk___ | | *Sprak* | | *Lingua* |
-| | | | | *Lingue* |
-| | | | | *Linguo* |
-| | | | | |
-| | ↪ | | | *Speranto* |
-| | | | | |
-| | | | | *Esperanto* |
-
-<!--s-->
-
-## Sprak
-
-| |
-|-|
-| *DE* 🇩🇪 |
-| *EN* 🇬🇧 |
-| *DA* 🇩🇰 |
-| |
-| *Sprak* |
-
-<!--v-->
-
-## Sprak
-
-| | | | | |
-|-|-|-|-|-|
-| 🇩🇪 mein | **mĩn** | | laut | **lũd** |
-| 🇬🇧 mine | **mĩn** | | loud | **lũd** |
-| 🇩🇰 min | **min** | | lyd | **lyd** |
-| | | | | |
-| | **min** | | | **lud** |
-
-<!--v-->
-
-## Sprak
-
-> __God dag!__
-
-<!--v-->
-
-| | | | | |
-|-|-|-|-|-|
-| *RU* 🇷🇺 | | ___DE___ 🇩🇪 | | *IT* 🇮🇹 |
-| *PL* 🇵🇱 | | ___EN___ 🇬🇧 | | *FR* 🇫🇷 |
-| *CZ* 🇨🇿 | | ___DA___ 🇩🇰 | | *ES* 🇪🇸 |
-| | | | | |
-| *Äzyk* | | ___Sprak___ | | *Lingua* |
-| | | | | *Lingue* |
-| | | | | *Linguo* |
-| | | | | |
-| | ↪ | | | *Speranto* |
-| | | | | |
-| | | | | *Esperanto* |
-
-<!--s-->
-
-# Benvenidas!
-
 <!--s-->
 
 # Aglutina Fazo
@@ -221,7 +59,7 @@ Note:
 ## Esperanto
 *(Epizodo IX)*
 
-Se ni eĉ supozos, ke la fina lingvo de la<br> estontaj generacioj estas ne Esperanto, en ĉia<br> okazo la vojo al tiu ellaborota lingvo<br> nepre devas konduki tra Esperanto.
+Se ni eĉ supozos, ke la fina lingvo de la estontaj generacioj estas ne Esperanto, en ĉia okazo la vojo al tiu ellaborota lingvo nepre devas konduki tra Esperanto.
 
 <!--v-->
 
@@ -251,7 +89,7 @@ Se ni eĉ supozos, ke la fina lingvo de la<br> estontaj generacioj estas ne Espe
 ## Speranto
 *(Epizodo VIII)*
 
-Si nu eĉ suponos, ke la fina lingvo de la<br> esontaj generacjoj esas ne Speranto, in ĉja<br> okazjo la vio ad tju ellaborota lingvo<br> infalible devas konduci tra Speranto.
+Si nu eĉ suponos, ke la fina lingvo de la esontaj generacjoj esas ne Speranto, in ĉja okazjo la vio ad tju ellaborota lingvo infalible devas konduci tra Speranto.
 
 <!--v-->
 
@@ -750,7 +588,7 @@ Si nu eĉ suponos, ke la fina lingvo de la<br> esontaj generacjoj esas ne Speran
 ## Peranto
 *(Epizodo VII)*
 
-Si nu eĉam suponos, ke la fina lingvo de la<br> esontaj generacjoj esas ne Speranto, in omnja<br> okazjo la vio ad tju ellaborota lingvo<br> infalible devas konduci trans Speranto.
+Si nu eĉam suponos, ke la fina lingvo de la esontaj generacjoj esas ne Speranto, in omnja okazjo la vio ad tju ellaborota lingvo infalible devas konduci trans Speranto.
 
 <!--v-->
 
