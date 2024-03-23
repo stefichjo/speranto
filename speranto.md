@@ -3315,22 +3315,3 @@ Duoblaj vokaloj en finaĵoj estas skribataj kun makrono.
 |-|-|
 | aŭ | **aut** |
 | kaj | **et** |
-
-<!--s-->
-
-## TODO
-
-<!--v-->
-
-Haveblas inter-paŝo: la adjektivo substantiviĝas. Tiam "bona" fariĝas "bono". Mencii du substantivojn sinsekve estas alia fenomeno, kiu kaŭzas "amico bono" aŭ "bono amico".
-* renverse: illi domo → illa domo
-Efektive Esperanto ja uzas substantivecajn "-iu"-tabelvortojn kiel adjektivojn. Tre pripensige!
-* Adjektivo *antaŭ* substantivo estas subjektiva, t.e. laŭ la perspektivo de la parolanto / unua persono. Adjektivo *malantaŭ* substantivo estas objektiva, t.e. laŭ la perspektivo de la aŭskultanto / dua persono.
-
-lo uno / le une / la una ?
-
-plu(s)
-
-traho/trago → traha/traga
-
-non
