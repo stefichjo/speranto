@@ -932,7 +932,7 @@ Si nu eĉam suponos, ke la fina lingvo de la<br> esontaj generacjoj esas ne Sper
 ## Linguo
 *(Epizodo VI)*
 
-**Si nu etja supponos, qŭe la fina linguo de la essontai generatioi essas ne Speranto, en omnia occasio la vio ad tiu ellavorota linguo infallible devas conduci trans Speranto.**
+**Si nu etja supponos, qŭe la fina linguo de la essontai generatioi essas nen Speranto, in omnia occasio la vio ad tiu ellavorota linguo infallible devas conduci trans Speranto.**
 
 <!--v-->
 
@@ -1246,7 +1246,7 @@ Multajn vortojn oni povas skribi en eĉ pli etimologia stilo, kaj oni povas uzi 
 ## Lingue
 *(Epizodo V)*
 
-**Si ni etja supponon, qŭe la fina lingue de las essontas generaties essan no Sperante, in omnia occasie la vie ad tii ellavorota lingue infalliblo devan conduzu trans Sperante.**
+**Si ni etja supponon, qŭe la fina lingue de las essontas generaties essan non Sperante, in omnia occasie la vie ad tii ellavorota lingue infalliblo devan conduzu trans Sperante.**
 
 <!--v-->
 
@@ -1322,7 +1322,7 @@ Multajn vortojn oni povas skribi en eĉ pli etimologia stilo, kaj oni povas uzi 
 | Esperanto | Lingue |
 |-|-|
 | tiu | **tii** *[tji]* |
-| neniu | **nenii** *[nenji]* |
+| neniu | **nonii** *[nonji]* |
 | | |
 | iu | **unii** *[unji]* |
 | ĉiu | **omnii** *[omnji]* |
@@ -1415,7 +1415,7 @@ Tra bruo, la prepozicio **a** uziĝas por la indiki la rektan objekton. (Tiam uz
 ## Lingua
 *(Epizodo IV)*
 
-**Si nos etja supponerá, qŭe la lingua finale de las futuras generatios sîa no Sperante, in omnia occasio la via ad illi elavorenda lingua infallibilmente deve conducér trans Sperante.**
+**Si nos etja supponerá, qŭe la lingua finale de las futuras generatios sîa non Sperante, in omnia occasio la via ad illi elavorenda lingua infallibilmente deve conducér trans Sperante.**
 
 <!--v-->
 
@@ -1599,7 +1599,7 @@ La grek-devenaj ŝajnfinaĵoj **-i**, **-ia** *[ia]*, **-a**, **-e** havas signi
 
 | Esperanto | Lingua |
 |-|-|
-| ne | **nillo** <small>**nô**</small> |
+| ne | **nillo** <small>**no** (frazo), **non** (modifilo)</small> |
 | nenio | **nille** <small>**nîl**</small> |
 
 <!--v-->
@@ -1855,7 +1855,7 @@ La grek-devenaj ŝajnfinaĵoj **-i**, **-ia** *[ia]*, **-a**, **-e** havas signi
 ## Meridionál
 *(Epizodo III)*
 
-**Si nos etja supporêmos, qŭe la lingua finál de las futuras generationes sîa no Sperante, in omnia occasione la via ad illi elavorenda lingua infallivilmente deve condûr trans Sperante.**
+**Si nos etja supporêmos, qŭe la lingua finál de las futuras generationes sîa non Sperante, in omnia occasione la via ad illi elavorenda lingua infallivilmente deve condûr trans Sperante.**
 
 <!-- Ĉu "infalliblemente"? -->
 
@@ -2111,7 +2111,7 @@ La grek-devenaj ŝajnfinaĵoj **-i**, **-ia** *[ia]*, **-a**, **-e** havas signi
 ## Intermediaria
 *(Epizodo II)*
 
-**Si nos etja supponerêmos, qŭe la lingua finál de las futuras generationes sîa no Sperante, in omnia occasione la via ad illi elavorenda lingua infallibilmente deve conducér trans Sperante.**
+**Si nos etja supponerêmos, qŭe la lingua finál de las futuras generationes sîa non Sperante, in omnia occasione la via ad illi elavorenda lingua infallibilmente deve conducér trans Sperante.**
 
 <!--v-->
 
@@ -2267,19 +2267,13 @@ La grek-devenaj ŝajnfinaĵoj **-i**, **-ia** *[ia]*, **-a**, **-e** havas signi
 
 <!--v-->
 
-| Esperanto | Intermediaria |
-|-|-|
-| bone | **bonamente** <small>**bene**</small> |
-
-<!--v-->
-
 #### Malregulaj Adverboj
 
 <!--v-->
 
 | Esperanto | Intermediaria |
 |-|-|
-| bone | **bene** |
+| bone | **bonamente** <small>**bene**</small> |
 
 <!--v-->
 
@@ -2690,7 +2684,7 @@ Por la perfektaj formoj de **îr** uziĝas la verbo **sêr**.
 ## Classĭca
 *(Epizodo I)*
 
-**Si nos etiam supponerabemus, qŭe la lingua finale de las futuras generationes sîat no Sperante, in omnia occasione la via ad illi elaborenda lingua infallibilemente debet conducĕre trans Sperante.**
+**Si nos etiam supponerabemus, qŭe la lingua finale de las futuras generationes sîat non Sperante, in omnia occasione la via ad illi elaborenda lingua infallibilemente debet conducĕre trans Sperante.**
 
 <!--v-->
 
@@ -3339,8 +3333,4 @@ plu(s)
 
 traho/trago → traha/traga
 
-benvenida (ne "benventa")
-
 non
-
-PT às = Lingue âs
