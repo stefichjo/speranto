@@ -62,6 +62,25 @@ Note:
 Note:
 * Lingwe Uniwersala (1878), Lingvo Universala (1881)
 
+<!--v-->
+
+### Programtabulo
+
+<!--v-->
+
+* Aglutina Fazo
+  * **Esperanto**
+  * **Speranto**
+  * **Peranto**
+* Intera Fazo
+  * **Linguo**
+  * **Lingue**
+  * **Lingua**
+* Fleksia Fazo
+  * **Meridionál**
+  * **Intermediaria**
+  * **Classĭca**
+
 <!--s-->
 
 # Aglutina Fazo
@@ -72,7 +91,7 @@ Note:
 ## Esperanto
 *(Epizodo IX)*
 
-Se ni eĉ supozos, ke la fina lingvo de la estontaj generacioj estas ne Esperanto, en ĉia okazo la vojo al tiu ellaborota lingvo nepre devas konduki tra Esperanto.
+> Se ni eĉ supozos, ke<br> la fina lingvo de la estontaj<br> generacioj estas ne Esperanto, en<br> ĉia okazo la vojo al tiu<br> ellaborota lingvo nepre<br> devas konduki tra Esperanto.
 
 <!--v-->
 
@@ -102,7 +121,7 @@ Se ni eĉ supozos, ke la fina lingvo de la estontaj generacioj estas ne Esperant
 ## Speranto
 *(Epizodo VIII)*
 
-Si nu eĉ suponos, ke la fina lingvo de la esontaj generacjoj esas ne Speranto, in ĉja okazjo la vio ad tju ellaborota lingvo infalible devas konduci tra Speranto.
+> Si nu eĉ suponos, ke<br> la fina lingvo de la esontaj<br> generacjoj esas ne Speranto, in<br> ĉja okazjo la vio ad tju<br> ellaborota lingvo infalible<br> devas konduci tra Speranto.
 
 <!--v-->
 
@@ -601,11 +620,11 @@ Si nu eĉ suponos, ke la fina lingvo de la esontaj generacjoj esas ne Speranto, 
 ## Peranto
 *(Epizodo VII)*
 
-Si nu eĉam suponos, ke la fina lingvo de la esontaj generacjoj esas ne Speranto, in omnja okazjo la vio ad tju ellaborota lingvo infalible devas konduci trans Speranto.
+> Si nu eĉam suponos, ke<br> la fina lingvo de la esontaj<br> generacjoj esas ne Speranto, in<br> omnja okazjo la vio ad tju<br> ellaborota lingvo infalible<br> devas konduci trans Speranto.
 
 <!--v-->
 
-**Peranto** havas precipe latinidajn vortojn.
+<small>**Peranto** havas precipe latinidajn vortojn.</small>
 
 <!--v-->
 
@@ -783,7 +802,7 @@ Si nu eĉam suponos, ke la fina lingvo de la esontaj generacjoj esas ne Speranto
 ## Linguo
 *(Epizodo VI)*
 
-**Si nu etja supponos, qŭe la fina linguo de la essontai generatioi essas nen Speranto, in omnia occasio la vio ad tiu ellavorota linguo infallible devas conduci trans Speranto.**
+> **Si nu etja supponos, qŭe<br> la fina linguo de la essontai<br> generatioi essas nen Speranto, in<br> omnia occasio la vio ad tiu<br> ellavorota linguo infallible<br> devas conduci trans Speranto.**
 
 <!--v-->
 
@@ -1097,7 +1116,7 @@ Multajn vortojn oni povas skribi en eĉ pli etimologia stilo, kaj oni povas uzi 
 ## Lingue
 *(Epizodo V)*
 
-**Si ni etja supponon, qŭe la fina lingue de las essontas generaties essan non Sperante, in omnia occasie la vie ad tii ellavorota lingue infalliblo devan conduzu trans Sperante.**
+> **Si ni etja supponon, qŭe<br> la fina lingue de las essontas<br> generaties essan non Sperante, in<br> omnia occasie la vie ad tii<br> ellavorota lingue infalliblo<br> devan conduzu trans Sperante.**
 
 <!--v-->
 
@@ -1266,7 +1285,7 @@ Tra bruo, la prepozicio **a** uziĝas por la indiki la rektan objekton. (Tiam uz
 ## Lingua
 *(Epizodo IV)*
 
-**Si nos etja supponerá, qŭe la lingua finale de las futuras generatios sîa non Sperante, in omnia occasio la via ad illi elavorenda lingua infallibilmente deve conducér trans Sperante.**
+> **Si nos etja supponerá, qŭe<br> la lingua finale de las futuras<br> generatios sîa non Sperante, in<br> omnia occasio la via ad illi<br> elavorenda lingua infallibilmente<br> deve conducér trans Sperante.**
 
 <!--v-->
 
@@ -1706,7 +1725,7 @@ La grek-devenaj ŝajnfinaĵoj **-i**, **-ia** *[ia]*, **-a**, **-e** havas signi
 ## Meridionál
 *(Epizodo III)*
 
-**Si nos etja supporêmos, qŭe la lingua finál de las futuras generationes sîa non Sperante, in omnia occasione la via ad illi elavorenda lingua infallivilmente deve condûr trans Sperante.**
+> **Si nos etja supporêmos, qŭe<br> la lingua finál de las futuras<br> generationes sîa non Sperante, in<br> omnia occasione la via ad illi<br> elavorenda lingua infallivilmente<br> deve condûr trans Sperante.**
 
 <!-- Ĉu "infalliblemente"? -->
 
@@ -1962,7 +1981,7 @@ La grek-devenaj ŝajnfinaĵoj **-i**, **-ia** *[ia]*, **-a**, **-e** havas signi
 ## Intermediaria
 *(Epizodo II)*
 
-**Si nos etja supponerêmos, qŭe la lingua finál de las futuras generationes sîa non Sperante, in omnia occasione la via ad illi elavorenda lingua infallibilmente deve conducér trans Sperante.**
+> **Si nos etja supponerêmos, qŭe<br> la lingua finál de las futuras<br> generationes sîa non Sperante, in<br> omnia occasione la via ad illi<br> elavorenda lingua infallibilmente<br> deve conducér trans Sperante.**
 
 <!--v-->
 
@@ -2535,7 +2554,7 @@ Por la perfektaj formoj de **îr** uziĝas la verbo **sêr**.
 ## Classĭca
 *(Epizodo I)*
 
-**Si nos etiam supponerabemus, qŭe la lingua finale de las futuras generationes sîat non Sperante, in omnia occasione la via ad illi elaborenda lingua infallibilemente debet conducĕre trans Sperante.**
+> **Si nos etiam supponerabemus, qŭe<br> la lingua finale de las futuras<br> generationes sîat non Sperante, in<br> omnia occasione la via ad illi<br> elaborenda lingua infallibilemente<br> debet conducĕre trans Sperante.**
 
 <!--v-->
 
