@@ -1223,7 +1223,7 @@ Multajn vortojn oni povas skribi en eĉ pli etimologia stilo, kaj oni povas uzi 
 
 <!--v-->
 
-### Prepozicioj
+### Artikoloj
 
 <!--v-->
 
@@ -1415,7 +1415,7 @@ Tra bruo, la prepozicio **a** uziĝas por la indiki la rektan objekton. (Tiam uz
 ## Lingua
 *(Epizodo IV)*
 
-**Si nos etja supponerá, qŭe la lingua finale de las futuras generatios sîa no Sperante, in omnia occasio la via ad illi elavorenda lingua infalliblemente deve conducér trans Sperante.**
+**Si nos etja supponerá, qŭe la lingua finale de las futuras generatios sîa no Sperante, in omnia occasio la via ad illi elavorenda lingua infallibilmente deve conducér trans Sperante.**
 
 <!--v-->
 
@@ -1599,7 +1599,7 @@ La grek-devenaj ŝajnfinaĵoj **-i**, **-ia** *[ia]*, **-a**, **-e** havas signi
 
 | Esperanto | Lingua |
 |-|-|
-| ne | **nillo** <small>**no**</small> |
+| ne | **nillo** <small>**nô**</small> |
 | nenio | **nille** <small>**nîl**</small> |
 
 <!--v-->
@@ -1855,7 +1855,7 @@ La grek-devenaj ŝajnfinaĵoj **-i**, **-ia** *[ia]*, **-a**, **-e** havas signi
 ## Meridionál
 *(Epizodo III)*
 
-**Si nos etja supporêmos, qŭe la lingua finál de las futuras generationes sîa no Sperante, in omnia occasione la via ad illi elavorenda lingua infalliblemente deve condûr trans Sperante.**
+**Si nos etja supporêmos, qŭe la lingua finál de las futuras generationes sîa no Sperante, in omnia occasione la via ad illi elavorenda lingua infallivilmente deve condûr trans Sperante.**
 
 <!-- Ĉu "infalliblemente"? -->
 
@@ -2076,6 +2076,23 @@ La grek-devenaj ŝajnfinaĵoj **-i**, **-ia** *[ia]*, **-a**, **-e** havas signi
 
 <!--v-->
 
+<small>Radikofina **b** fariĝas **v** ankaŭ antaŭ la ŝajnfinaĵo **-il**. Kombine kun la ŝajnfinaĵo **-idád**, la **b** konserviĝas.</small>
+
+<!--v-->
+
+| Esperanto | Meridionál |
+|-|-|
+| movebla | **môvil** *[moviŭ]* |
+| movebleco | **mobilidád** *[mobilidad']* |
+| | |
+| probabla | **provâvil** *[provaviŭ]* |
+| probableco | **mobilidád** *[probabilidad']* |
+| | |
+| stabila | **stâvil** *[staviŭ]* |
+| stabileco | **stabilidád** *[stabilidad']* |
+
+<!--v-->
+
 <small>Kelkaj infinitivoj je **-ér** mallongiĝas.</small>
 
 <!--v-->
@@ -2094,7 +2111,7 @@ La grek-devenaj ŝajnfinaĵoj **-i**, **-ia** *[ia]*, **-a**, **-e** havas signi
 ## Intermediaria
 *(Epizodo II)*
 
-**Si nos etja supponerêmos, qŭe la lingua finál de las futuras generationes sîa no Sperante, in omnia occasione la via ad illi elavorenda lingua infalliblemente deve conducér trans Sperante.**
+**Si nos etja supponerêmos, qŭe la lingua finál de las futuras generationes sîa no Sperante, in omnia occasione la via ad illi elavorenda lingua infallibilmente deve conducér trans Sperante.**
 
 <!--v-->
 
@@ -2195,6 +2212,18 @@ La grek-devenaj ŝajnfinaĵoj **-i**, **-ia** *[ia]*, **-a**, **-e** havas signi
 | parabolo | **parabŏla** |
 | | |
 | paroli | **parlár** <small>**parăv̆ŏlár**</small> |
+
+<!--v-->
+
+<small>**b** konserviĝas antaŭ la ŝajnfinaĵo **-il**.</small>
+
+<!--v-->
+
+| Esperanto | Meridionál |
+|-|-|
+| movebla | **môbil** *[mobil]* |
+| probabla | **probâbil** *[probabil]* |
+| stabila | **stâbil** *[stabil]* |
 
 <!--v-->
 
@@ -2661,7 +2690,7 @@ Por la perfektaj formoj de **îr** uziĝas la verbo **sêr**.
 ## Classĭca
 *(Epizodo I)*
 
-**Si nos etiam supponerabemus, qŭe la lingua finale de las futuras generationes sîa no Sperante, in omnia occasione la via ad illi elaborenda lingua infallibilmente debe conducĕre trans Sperante.**
+**Si nos etiam supponerabemus, qŭe la lingua finale de las futuras generationes sîa no Sperante, in omnia occasione la via ad illi elaborenda lingua infallibilemente debe conducĕre trans Sperante.**
 
 <!--v-->
 
