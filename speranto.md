@@ -570,13 +570,14 @@ Note:
 | Esperanto | Speranto |
 |-|-|
 | tiu | tu |
+| ĉi tiu | ce-tu |
+| | |
 | neniu | nenu |
 | | |
 | iu | unu |
 | ĉiu | omnu |
 | | |
-| ĉi tiu | ce-tu |
-| iu ajn | un-kiu |
+| kiu/iu/ĉiu ajn | un-kiu |
 
 <!--v-->
 
@@ -1069,13 +1070,14 @@ La tabelvorta ŝajnsufikso **-en** anstaŭiĝas per la prepozicio **ad** kaj la 
 | Esperanto | Linguo |
 |-|-|
 | tiu | **tu** *[tu]* |
+| ĉi tiu | **ce-tu** *[setu]* |
+| | |
 | neniu | **nenu** *[nenu]* |
 | | |
 | iu | **unu** *[unu]* |
 | ĉiu | **omnu** *[omnu]* |
 | | |
-| ĉi tiu | **ce-tu** *[setu]* |
-| iu ajn | **un-qŭiu** *[uŋkju]* |
+| kiu/iu/ĉiu ajn | **un-qŭiu** *[uŋkju]* |
 
 <!--v-->
 
@@ -1188,13 +1190,14 @@ Tra bruo, la prepozicio **a** uziĝas por la indiki la rektan objekton. (Tiam uz
 | Esperanto | Lingue |
 |-|-|
 | tiu | **ti** *[ti]* |
+| ĉi tiu | **ce-ti** *[seti]* |
+| | |
 | neniu | **noni** *[noni]* |
 | | |
 | iu | **uni** *[uni]* |
 | ĉiu | **omni** *[omni]* |
 | | |
-| ĉi tiu | **ce-ti** *[seti]* |
-| iu ajn | **un-qui** *[uŋkŭi]* |
+| kiu/iu/ĉiu ajn | **un-qui** *[uŋkŭi]* |
 
 <!--v-->
 
@@ -1385,13 +1388,14 @@ La grek-devenaj ŝajnfinaĵoj **-i**, **-ia** *[ia]*, **-a**, **-e** havas signi
 | Esperanto | Lingua |
 |-|-|
 | tiu | **illi** *[ili]* |
+| ĉi tiu | **quilli** *[kŭili]* |
+| | |
 | neniu | **nilli** *[nili]* |
 | | |
 | iu | **uni** *[uni]* |
 | ĉiu | **omni** *[omni]* |
 | | |
-| ĉi tiu | **quilli** *[kŭili]* |
-| iu ajn | **un-qui** *[uŋkŭi]* |
+| kiu/iu/ĉiu ajn | **un-qui** *[uŋkŭi]* |
 
 <!--v-->
 
@@ -1412,15 +1416,6 @@ La grek-devenaj ŝajnfinaĵoj **-i**, **-ia** *[ia]*, **-a**, **-e** havas signi
 |-|-|
 | ne | **nillo** <small>**no** (frazo), **nôn** (modifilo)</small> |
 | nenio | **nille** <small>**nîl**</small> |
-
-<!--v-->
-
-| Esperanto | Lingua |
-|-|-|
-| ĉi tiel | **quillo** <small>**sic**</small> |
-| ĉi tiam | **quillo** <small>**nunc**</small> |
-| | |
-| ĉiam | **omne** <small>**semper**</small> |
 
 <!--v-->
 
@@ -2611,11 +2606,15 @@ Duoblaj vokaloj en finaĵoj estas skribataj kun makrono.
 
 | Esperanto | Classĭca |
 |-|-|
-| iu | **alĭ-qui** *[alikui']* |
-| ĉiu | **qui-que** *[kui-kue]* |
+| tiu | **illi** |
+| ĉi tiu | **eccu-illi** |
 | | |
-| ĉi tiu | **eccu-illi** *[eku-ili]* |
-| iu ajn | **alĭ-qui-que** *[alikui-kue]* |
+| neniu | **nilli** |
+| | |
+| iu | **alĭ-qui** |
+| ĉiu | **qui-que** |
+| | |
+| kiu/iu/ĉiu ajn | **qui-cum-que** |
 
 <!--v-->
 
@@ -3110,7 +3109,7 @@ Duoblaj vokaloj en finaĵoj estas skribataj kun makrono.
 
 | Esperanto | Classĭca |
 |-|-|
-| porti | **portare** <small>**ferĕre**</small> |
+| porti | **portare** <small>**fêrre**</small> |
 | mi portas | **porto** <small>**fero**</small> |
 | mi portintas | **portavī** <small>**tulī**</small> |
 | portata/-ita | **portata** <small>**lata**</small> |
@@ -3131,5 +3130,24 @@ Duoblaj vokaloj en finaĵoj estas skribataj kun makrono.
 
 <!-- Kial **s** estas senvoĉa en "camisia", fakte? -->
 
-<!-- hoc, sic, nunc enkondukiĝu nur en Classĭca. -->
+<!-- sic, nunc enkondukiĝu nur en Classĭca. -->
 
+<!--v-->
+
+<!--
+| Esperanto | Lingua |
+|-|-|
+| ĉi tiel | **quillo** <small>**sic**</small> |
+| ĉi tiam | **quillo** <small>**nunc**</small> |
+| | |
+| ĉiam | **omne** <small>**semper**</small> |
+-->
+
+<!-- sempre -->
+<!-- sî (jes, tiel) -->
+<!-- nûn → al-hora -->
+
+<!-- ubi-que = ĉie -->
+<!-- ubi-un-que = ĉie ajn -->
+
+<!-- quom-un-que = kiel ajn / ĉiel ajn -->
