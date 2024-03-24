@@ -114,7 +114,7 @@ Note:
 
 ## Aglutina Fazo:<br> **Speranto**
 
-> Si nu eĉ suponos, ke<br> la fina lingvo de la esontaj<br> generacjoj esas ne Speranto, in<br> ĉja okazjo la vio ad tju<br> ellaborota lingvo infalible<br> devas konduci tra Speranto.
+> Si ni eĉ suponos, ke<br> la fina lingvo de la esontaj<br> generacjoj esas ne Speranto, in<br> omna okazjo la vio ad tu<br> ellaborota lingvo infalible<br> devas konduci tra Speranto.
 
 <!--v-->
 
@@ -269,7 +269,7 @@ Note:
 
 | Esperanto | Speranto |
 |-|-|
-| ĉi | ĉe |
+| ĉi | ce |
 | rilati | relati |
 
 <!--v-->
@@ -563,13 +563,22 @@ Note:
 
 <!--v-->
 
-<small>*i* en tabelvortoj fariĝas *j*.</small>
+<small>*ki-* fariĝas *kj*. *ti-* kaj *neni-* fariĝas *t-* kaj *nen-*. *i-* kaj *ĉi-* anstataŭiĝas per *un-* kaj *omn-*.</small>
 
 <!--v-->
 
 | Esperanto | Speranto |
 |-|-|
 | kiu | kju |
+| | |
+| tiu | tu |
+| neniu | nenu |
+| | |
+| iu | unu |
+| ĉiu | omnu |
+| | |
+| ĉi tiu | ce-tu |
+| kiu ajn | un-kju
 
 <!--v-->
 
@@ -579,7 +588,7 @@ Note:
 
 | Esperanto | Speranto |
 |-|-|
-| unu(j) | unu(j) |
+| unu(j), iu(j) | unu(j) |
 | | |
 | ambaŭ | ambuj |
 
@@ -600,19 +609,22 @@ Note:
 
 <!--v-->
 
-<small>La numeralo *unu* fariĝas **un** kaj konstrastas al la tabelvorto *unu*.</small>
+<small>La numeralo *unu* fariĝas *un* kaj konstrastas al la tabelvorto *unu*. Por ordinaloj, uziĝas la sufikso *-esm-*.</small>
 
 <!--v-->
 
 | Esperanto | Speranto |
 |-|-|
 | unu | un |
+| unua | unesma |
+| | |
+| ia | una |
 
 <!--s-->
 
 ## Aglutina Fazo:<br> **Peranto**
 
-> Si nu eĉam suponos, ke<br> la fina lingvo de la esontaj<br> generacjoj esas ne Speranto, in<br> omna okazjo la vio ad tju<br> ellaborota lingvo infalible<br> devas konduci trans Speranto.
+> Si ni eĉam suponos, ke<br> la fina lingvo de la esontaj<br> generacjoj esas ne Speranto, in<br> omna okazjo la vio ad tju<br> ellaborota lingvo infalible<br> devas konduci trans Speranto.
 
 <!--v-->
 
@@ -715,24 +727,24 @@ Note:
 
 | Esperanto | Peranto |
 |-|-|
-| ŝi | elu |
-| li | olu |
-| ri | ulu |
-| ĝi/li | lu |
+| ŝi | eli |
+| li | oli |
+| ri | uli |
+| ĝi/li | li |
 | | |
-| ili | ilu |
+| ili | ili |
 | | |
-| si | su |
+| si | si |
 
 <!--v-->
 
 | Esperanto | Peranto |
 |-|-|
-| mi | mu |
-| ci | tu |
+| mi | mi |
+| ci | ti |
 | | |
-| ni | nu |
-| vi | vu |
+| ni | ni |
+| vi | vi |
 
 <!--v-->
 
@@ -788,7 +800,7 @@ Note:
 
 ## Intera Fazo:<br> **Linguo**
 
-> **Si nu etja supponos, qŭe<br> la fina linguo de la essontai<br> generatioi essas nen Speranto, in<br> omna occasio la vio ad tiu<br> ellavorota linguo infallible<br> devas conduci trans Speranto.**
+> **Si ni etja supponos, qŭe<br> la fina linguo de la essontai<br> generatioi essas nen Speranto, in<br> omna occasio la vio ad tiu<br> ellavorota linguo infallible<br> devas conduci trans Speranto.**
 
 <!--v-->
 
@@ -1037,10 +1049,6 @@ Multajn vortojn oni povas skribi en eĉ pli etimologia stilo, kaj oni povas uzi 
 
 <!--v-->
 
-<small>Ne uziĝas la sufikso *-op-*.</small>
-
-<!--v-->
-
 | Esperanto | Linguo |
 |-|-|
 | kvardek | **quardec** |
@@ -1101,7 +1109,7 @@ Multajn vortojn oni povas skribi en eĉ pli etimologia stilo, kaj oni povas uzi 
 
 ## Intera Fazo:<br> **Lingue**
 
-> **Si ni etja supponon, qŭe<br> la fina lingue de las essontas<br> generaties essan non Sperante, in<br> omna occasie la vie ad tii<br> ellavorota lingue infalliblo<br> devan conduzu trans Sperante.**
+> **Si nu etja supponon, qŭe<br> la fina lingue de las essontas<br> generaties essan non Sperante, in<br> omna occasie la vie ad ti<br> ellavorota lingue infalliblo<br> devan conduzu trans Sperante.**
 
 <!--v-->
 
@@ -1109,7 +1117,7 @@ Multajn vortojn oni povas skribi en eĉ pli etimologia stilo, kaj oni povas uzi 
 
 <!--v-->
 
-#### -o/-u → -e/-i
+#### -o/-u ←→ -e/-i
 
 <!--v-->
 
@@ -1117,19 +1125,11 @@ Multajn vortojn oni povas skribi en eĉ pli etimologia stilo, kaj oni povas uzi 
 |-|-|
 | lingvo | **lingue** *[liŋgŭe]* <small>*[liŋgu-e]*</small> |
 | | |
-| mi | **mi** <small>(Linguo: **mu**)</small> *[mi]* |
-
-<!--v-->
-
-#### -e/-i → -o/-u
-
-<!--v-->
-
-| Esperanto | Lingue |
-|-|-|
+| kiu | **qui** *[kŭi]* |
+| | |
 | certe | **certo** *[serto]* <small>*[certo]*</small> |
 | | |
-| kien | **quu** <small>(Linguo: **qŭii** *[kji]*)</small> *[kŭu]* <small>*[kuu]*</small> |
+| ci | **tu** *[tu]* |
 
 <!--v-->
 
@@ -1168,7 +1168,7 @@ Multajn vortojn oni povas skribi en eĉ pli etimologia stilo, kaj oni povas uzi 
 | kiam | **quan** <small>(Linguo: (**~~qŭian~~**))</small> *[kŭan]* |
 | kiom | **quam** <small>(Linguo: (**~~qŭiam~~**))</small> *[kŭam]* |
 | | |
-| kien | **quu** <small>(Linguo: (**qŭii**))</small> *[kŭu]* |
+| kien | **ad quo** <small>(Linguo: (**qŭien**))</small> *[ad kŭo]* |
 | kiel | **quom** <small>(Linguo: (**qŭiem**))</small> *[kŭom]* |
 | kies | **quis** <small>(Linguo: (**qŭius**))</small> *[kŭis]* |
 
@@ -1176,14 +1176,14 @@ Multajn vortojn oni povas skribi en eĉ pli etimologia stilo, kaj oni povas uzi 
 
 | Esperanto | Lingue |
 |-|-|
-| tiu | **tii** *[tji]* |
-| neniu | **nonii** *[nonji]* |
+| tiu | **ti** *[ti]* |
+| neniu | **noni** *[noni]* |
 | | |
-| iu | **unii** *[unji]* |
+| iu | **uni** *[uni]* |
 | ĉiu | **omni** *[omni]* |
 | | |
-| ĉi tiu | **ce tii** *[ce tji]* |
-| iu ajn | **unqŭii** *[unkji]* |
+| ĉi tiu | **ce ti** *[ce ti]* |
+| iu ajn | **unqui** *[unkŭi]* |
 
 <!--v-->
 
@@ -1193,24 +1193,24 @@ Multajn vortojn oni povas skribi en eĉ pli etimologia stilo, kaj oni povas uzi 
 
 | Esperanto | Lingue |
 |-|-|
-| ŝi | **elli** |
-| li | **olli** |
-| ri | **ulli** |
-| ĝi/li | **li** |
+| ŝi | **ellu** |
+| li | **ollu** |
+| ri | **ullu** |
+| ĝi/li | **lu** |
 | | |
-| ili | **illi** |
+| ili | **illu** |
 | | |
-| si | **si** |
+| si | **su** |
 
 <!--v-->
 
 | Esperanto | Lingue |
 |-|-|
-| mi | **mi** |
-| ci | **ti** |
+| mi | **mu** |
+| ci | **tu** |
 | | |
-| ni | **ni** |
-| vi | **vi** |
+| ni | **nu** |
+| vi | **vu** |
 
 <!--v-->
 
@@ -1487,7 +1487,7 @@ La grek-devenaj ŝajnfinaĵoj **-i**, **-ia** *[ia]*, **-a**, **-e** havas signi
 | ri(a) | **ulle(a)** |
 | ĝi(a)/li(a) | **le(a)** <small>**(de)le**</small> |
 | | |
-| ili(a) | **les(sa)** <small>**(de)les** (Lingue: **illi(a)**)</small> |
+| ili(a) | **les(sa)** <small>**(de)les** (Lingue: **illu(a)**)</small> |
 | | |
 | si(a) | **se(a)** |
 
@@ -2530,7 +2530,7 @@ Por la perfektaj formoj de **îr** uziĝas la verbo **sêr**.
 
 ## Fleksia Fazo:<br> **Classĭca**
 
-> **Si nos etiam supponerabemus, qŭe<br> la lingua finale de las futuras<br> generationes sîat non Sperante, in<br> omna occasione la via ad illi<br> elaborenda lingua infallibilemente<br> debet conducĕre trans Sperante.**
+> **Si nos etiam supponerabemus, qŭe<br> la lingua finale de las futuras<br> generationes sîat non Sperante, in<br> qua-que occasione la via ad illi<br> elaborenda lingua infallibilemente<br> debet conducĕre trans Sperante.**
 
 <!--v-->
 
