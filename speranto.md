@@ -114,7 +114,7 @@ Note:
 
 ## Aglutina Fazo:<br> **Speranto**
 
-> Si ni eĉ suponos, ke<br> la fina lingvo de la esontaj<br> generacjoj esas ne Speranto, in<br> omna okazjo la vio ad tu<br> ellaborota lingvo infalible<br> devas konduci tra Speranto.
+> Se ni eĉ suponos, ke<br> la fina lingvo de la esontaj<br> generacjoj esas ne Speranto, in<br> omna okazjo la vio ad tu<br> ellaborota lingvo infalible<br> devas konduci tra Speranto.
 
 <!--v-->
 
@@ -622,7 +622,7 @@ Note:
 
 ## Aglutina Fazo:<br> **Peranto**
 
-> Si ni eĉam suponos, ke<br> la fina lingvo de la esontaj<br> generacjoj esas ne Speranto, in<br> omna okazjo la vio ad tu<br> ellaborota lingvo infalible<br> devas konduci trans Speranto.
+> Se ni eĉam suponos, ke<br> la fina lingvo de la esontaj<br> generacjoj esas ne Speranto, in<br> omna okazjo la vio ad tu<br> ellaborota lingvo infalible<br> devas konduci trans Speranto.
 
 <!--v-->
 
@@ -759,7 +759,7 @@ Note:
 
 ## Intera Fazo:<br> **Linguo**
 
-> **Si ni etja supponos, qŭe<br> la fina linguo de la essontai<br> generatioi essas nen Speranto, in<br> omna occasio la vio ad tiu<br> ellavorota linguo infallible<br> devas conduci trans Speranto.**
+> **Se ni etja supponos, qŭe<br> la fina linguo de la essontai<br> generatioi essas nen Speranto, in<br> omna occasio la vio ad tiu<br> ellavorota linguo infallible<br> devas conduci trans Speranto.**
 
 <!--v-->
 
@@ -3113,9 +3113,6 @@ Duoblaj vokaloj en finaĵoj estas skribataj kun makrono.
 | aŭ | **aut** |
 | kaj | **et** |
 
-<!-- un-kio ne bezonas esti prononcata kun "j" en la aglutina fazo. -->
-<!-- En la intera fazo, "i" prononciĝas "i" kiel unua vokalo: uŋkjo, kio -->
-
 <!-- alĭ-qui kaj qui-que enkondukiĝi nur en Classĭca. En Lingua, ili restu uni kaj omni. -->
 
 <!-- Ke "renkonti" estas legebla kiel "renkonten" fariĝas piednoto. -->
@@ -3124,5 +3121,4 @@ Duoblaj vokaloj en finaĵoj estas skribataj kun makrono.
 <!-- eccu-illi enkondukiĝu nur en Classĭca. En Lingua, ĝi estu quelli/quilli. -->
 <!-- hoc, sic, nunc enkondukiĝu nur en Classĭca. -->
 
-<!-- Konsiderindas, ke eble "se" restu "se" ĝis Lingua kaj nur en Lingua ĝi fariĝu "si". -->
 <!-- Kial **s** estas senvoĉa en "camisia", fakte? -->
