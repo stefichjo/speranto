@@ -1397,14 +1397,14 @@ La grek-devenaj ŝajnfinaĵoj **-i**, **-ia** *[ia]*, **-a**, **-e** havas signi
 
 | Esperanto | Lingua |
 |-|-|
-| kia | **qua** <small>**quale** / **quâl**</small> |
+| kia | **qua** <small>**quale**</small> |
+| ĉi tia | **quilla** <small>**tale**</small> |
+| | |
 | kie | **quo** <small>**ubi**</small> |
-
-<!--v-->
-
-| Esperanto | Lingua |
-|-|-|
-| tia | **illa** <small>**tale**/**tâl**</small> |
+| ĉi tie | **quillo** <small>**ibi**</small> |
+| | |
+| kiom | **quo** <small>**quanto**</small> |
+| ĉi tiom | **quillo** <small>**tanto**</small> |
 
 <!--v-->
 
@@ -1417,17 +1417,10 @@ La grek-devenaj ŝajnfinaĵoj **-i**, **-ia** *[ia]*, **-a**, **-e** havas signi
 
 | Esperanto | Lingua |
 |-|-|
-| ĉiam | **omne** <small>**semper**</small> |
-
-<!--v-->
-
-| Esperanto | Lingua |
-|-|-|
-| ĉi tiu | **quilli** |
-| ĉi tie | **quillo** <small>**hoc**, **ibi**</small> |
 | ĉi tiel | **quillo** <small>**sic**</small> |
 | ĉi tiam | **quillo** <small>**nunc**</small> |
-| ĉi tiom | **quillo** <small>**tanto**</small> |
+| | |
+| ĉiam | **omne** <small>**semper**</small> |
 
 <!--v-->
 
@@ -2619,10 +2612,16 @@ Duoblaj vokaloj en finaĵoj estas skribataj kun makrono.
 | Esperanto | Classĭca |
 |-|-|
 | iu | **alĭ-qui** *[alikui']* |
-| ĉiu | **qui-que** *[kuikue']* |
+| ĉiu | **qui-que** *[kui-kue]* |
 | | |
 | ĉi tiu | **eccu-illi** *[eku-ili]* |
-| iu ajn | **alĭ-qui-que** *[alikuikue']* |
+| iu ajn | **alĭ-qui-que** *[alikui-kue]* |
+
+<!--v-->
+
+| Esperanto | Classĭca |
+|-|-|
+| ĉi tie | **hoc** *[hok]* |
 
 <!--v-->
 
