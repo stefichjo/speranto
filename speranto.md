@@ -708,6 +708,21 @@ Note:
 
 <!--v-->
 
+### Verboj
+
+<!--v-->
+
+<small>En poezio, la verba finaĵo *-i* povas roli por montri direkton, dum la tabelvorta ŝajnfinaĵo *-en* povas roli por montri ordonon.</small>
+
+<!--v-->
+
+| Esperanto | Peranto |
+|-|-|
+| renkonten | incontren <small>al la incontro, incontri</small> |
+| renkontu! | incontru! <small>al la incontro!, incontren!</small> |
+
+<!--v-->
+
 ### Prepozicioj
 
 <!--v-->
@@ -760,7 +775,7 @@ Note:
 
 ## Intera Fazo:<br> **Linguo**
 
-> **Se ni etja supponos, qŭe<br> la fina linguo de la essontai<br> generatioi essas nen Speranto, in<br> omna occasio la vio ad tiu<br> ellavorota linguo infallible<br> devas conduci trans Speranto.**
+> **Se ni etja supponon, qŭe<br> la fina linguo de las essontas<br> generatios essas nên Speranto, in<br> omna occasio la vio ad tu<br> ellavorota linguo infallible<br> devas conduci trans Speranto.**
 
 <!--v-->
 
@@ -1045,7 +1060,7 @@ Multajn vortojn oni povas skribi en eĉ pli etimologia stilo, kaj oni povas uzi 
 
 <!--v-->
 
-La tabelvorta ŝajnsufikso **-en** anstaŭiĝas per la prepozicio **ad** kaj la tabelvorta ŝajnsufikso **-e**.
+<small>La tabelvorta ŝajnsufikso **-en** anstaŭiĝas per la prepozicio **ad** kaj la tabelvorta ŝajnsufikso **-e**.</small>
 
 <!--v-->
 
@@ -1078,6 +1093,17 @@ La tabelvorta ŝajnsufikso **-en** anstaŭiĝas per la prepozicio **ad** kaj la 
 | ĉiu | **omnu** *[omnu]* |
 | | |
 | kiu/iu/ĉiu ajn | **un-qŭiu** *[uŋkju]* |
+
+<!--v-->
+
+<small>La tabelvorto **nene** ("neniel") uziĝas kiel modifilo en mallonga formo: **nên**.</small>
+
+<!--v-->
+
+| Esperanto | Linguo |
+|-|-|
+| nene | **nene** *[nene]* |
+| ne (modifilo) | **nên** *[nen]* |
 
 <!--v-->
 
@@ -2607,14 +2633,14 @@ Duoblaj vokaloj en finaĵoj estas skribataj kun makrono.
 | Esperanto | Classĭca |
 |-|-|
 | tiu | **illi** |
-| ĉi tiu | **eccu-illi** |
+| ĉi tiu | **quilli** <small>**eccu-illi**</small> |
 | | |
 | neniu | **nilli** |
 | | |
-| iu | **alĭ-qui** |
-| ĉiu | **qui-que** |
+| iu | **uni** <small>**alĭ-qui**</small> |
+| ĉiu | **omna** <small>**qui-que**</small> |
 | | |
-| kiu/iu/ĉiu ajn | **qui-cum-que** |
+| kiu/iu/ĉiu ajn | **un-qui** <small>**qui-cum-que**</small> |
 
 <!--v-->
 
@@ -3128,8 +3154,5 @@ Duoblaj vokaloj en finaĵoj estas skribataj kun makrono.
 |-|-|
 | aŭ | **aut** |
 | kaj | **et** |
-
-<!-- Ke "renkonti" estas legebla kiel "renkonten" fariĝas piednoto. -->
-<!-- Ke "renkonten" estas legebla kiel "renkontu" fariĝas piednoto. -->
 
 <!-- Kial **s** estas senvoĉa en "camisia", fakte? -->
