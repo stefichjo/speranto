@@ -1404,8 +1404,8 @@ La grek-devenaj ŝajnfinaĵoj **-i**, **-ia** *[ia]*, **-a**, **-e** havas signi
 | kia | **qua** <small>**quale**</small> |
 | ĉi tia | **quilla** <small>**tale**</small> |
 | | |
-| kie | **quo** <small>**ubi**</small> |
-| ĉi tie | **quillo** <small>**ibi**</small> |
+| kie | **quo** <small>**uvi**</small> |
+| ĉi tie | **quillo** <small>**ivi**</small> |
 | | |
 | kiom | **quo** <small>**quanto**</small> |
 | ĉi tiom | **quillo** <small>**tanto**</small> |
@@ -2620,7 +2620,11 @@ Duoblaj vokaloj en finaĵoj estas skribataj kun makrono.
 
 | Esperanto | Classĭca |
 |-|-|
-| ĉi tie | **hoc** *[hok]* |
+| ĉi tiel, jes | **sic** <small>Intermediaria: **sî**</small> |
+| ĉi tie | **hoc** <small>Intermediaria: **ivi**</small> |
+| ĉi tiam, nun | **nunc** <small>Intermediaria: **nûn**, **âl hora**</small> |
+| | |
+| ĉiam | **semper** <small>Intermediaria: **sempre**</small> |
 
 <!--v-->
 
@@ -3129,25 +3133,3 @@ Duoblaj vokaloj en finaĵoj estas skribataj kun makrono.
 <!-- Ke "renkonten" estas legebla kiel "renkontu" fariĝas piednoto. -->
 
 <!-- Kial **s** estas senvoĉa en "camisia", fakte? -->
-
-<!-- sic, nunc enkondukiĝu nur en Classĭca. -->
-
-<!--v-->
-
-<!--
-| Esperanto | Lingua |
-|-|-|
-| ĉi tiel | **quillo** <small>**sic**</small> |
-| ĉi tiam | **quillo** <small>**nunc**</small> |
-| | |
-| ĉiam | **omne** <small>**semper**</small> |
--->
-
-<!-- sempre -->
-<!-- sî (jes, tiel) -->
-<!-- nûn → al-hora -->
-
-<!-- ubi-que = ĉie -->
-<!-- ubi-un-que = ĉie ajn -->
-
-<!-- quom-un-que = kiel ajn / ĉiel ajn -->
