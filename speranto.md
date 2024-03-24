@@ -563,14 +563,12 @@ Note:
 
 <!--v-->
 
-<small>*ki-* fariĝas *kj*. *ti-* kaj *neni-* fariĝas *t-* kaj *nen-*. *i-* kaj *ĉi-* anstataŭiĝas per *un-* kaj *omn-*.</small>
+<small>Tabelvortoj kun la ŝajnprefikso *ki-* restas samaj. Sed *ti-* kaj *neni-* fariĝas *t-* kaj *nen-*, dum *i-* kaj *ĉi-* anstataŭiĝas per *un-* kaj *omn-*.</small>
 
 <!--v-->
 
 | Esperanto | Speranto |
 |-|-|
-| kiu | kju |
-| | |
 | tiu | tu |
 | neniu | nenu |
 | | |
@@ -578,7 +576,7 @@ Note:
 | ĉiu | omnu |
 | | |
 | ĉi tiu | ce-tu |
-| kiu ajn | un-kju
+| iu ajn | un-kiu |
 
 <!--v-->
 
@@ -624,7 +622,7 @@ Note:
 
 ## Aglutina Fazo:<br> **Peranto**
 
-> Si ni eĉam suponos, ke<br> la fina lingvo de la esontaj<br> generacjoj esas ne Speranto, in<br> omna okazjo la vio ad tju<br> ellaborota lingvo infalible<br> devas konduci trans Speranto.
+> Si ni eĉam suponos, ke<br> la fina lingvo de la esontaj<br> generacjoj esas ne Speranto, in<br> omna okazjo la vio ad tu<br> ellaborota lingvo infalible<br> devas konduci trans Speranto.
 
 <!--v-->
 
@@ -679,45 +677,6 @@ Note:
 |-|-|
 | ĝangalo | ĵunglo |
 | toŭfuo | tofuo |
-
-<!--v-->
-
-### Tabelvortoj
-
-<!-- Al Speranto -->
-
-<!--v-->
-
-| Esperanto | Peranto |
-|-|-|
-| kiu | kju |
-| kio | kjo |
-| kia | kja |
-| kie | kje |
-| kien | kjen <small>(kji)</small> |
-
-<!--v-->
-
-| Esperanto | Peranto |
-|-|-|
-| kiam | kjam <small>(~~kjan~~)</small> |
-| kiom | kjom <small>(~~kjam~~)</small> |
-| kial | kjal |
-| kiel | kjel <small>(kjem)</small> |
-| kies | kjes <small>(kjus)</small> |
-
-<!--v-->
-
-| Esperanto | Peranto |
-|-|-|
-| tiu | tju |
-| neniu | nenju |
-| | |
-| iu | unju |
-| ĉiu | omnu |
-| | |
-| ĉi tiu | ce tju |
-| iu ajn | unkju |
 
 <!--v-->
 
@@ -961,7 +920,7 @@ Multajn vortojn oni povas skribi en eĉ pli etimologia stilo, kaj oni povas uzi 
 |-|-|
 | tero | **terro** *[tero]* |
 | | |
-| ili | **illu** *[ilu]* |
+| ili | **illi** *[ili]* |
 
 <!--v-->
 
@@ -1009,6 +968,30 @@ Multajn vortojn oni povas skribi en eĉ pli etimologia stilo, kaj oni povas uzi 
 | ritmo | **rhythmo** *[ritmo]* |
 | | |
 | burokratio | **burocratio** *[burokratio]* |
+
+<!--v-->
+
+### Substantivoj
+
+<!--v-->
+
+<small>La finaĵo por la pluralo estas **-s**.</small>
+
+<!--v-->
+
+| Esperanto | Linguo |
+|-|-|
+| domoj | **domos** |
+
+<!--v-->
+
+### Adjektivoj
+
+<!--v-->
+
+| Esperanto | Linguo |
+|-|-|
+| altaj domoj | **domos altas** |
 
 <!--v-->
 
@@ -1061,33 +1044,52 @@ Multajn vortojn oni povas skribi en eĉ pli etimologia stilo, kaj oni povas uzi 
 
 <!--v-->
 
-| Esperanto | Linguo |
-|-|-|
-| kiu | **qŭiu** *[kju]* |
-| | |
-| kiam | **qŭiam** <small>(**~~qŭian~~**)</small> *[kjam]* |
-| kiom | **qŭiom** <small>(**~~qŭiam~~**)</small> *[kjom]* |
-| | |
-| kien | **qŭien** <small>(**qŭii**)</small> *[kjen]* |
-| kiel | **qŭiel** <small>(**qŭiem**)</small> *[kjel]* |
-| kies | **qŭies** <small>(**qŭius**)</small> *[kjes]* |
+La tabelvorta ŝajnsufikso **-en** anstaŭiĝas per la prepozicio **ad** kaj la tabelvorta ŝajnsufikso **-e**.
 
 <!--v-->
 
 | Esperanto | Linguo |
 |-|-|
-| tiu | **tiu** *[tju]* |
-| neniu | **neniu** *[nenju]* |
+| kien | **ad qŭie** *[ad kie]* |
+
+<!--v-->
+
+| Esperanto | Linguo |
+|-|-|
+| kiu | **qŭiu** *[kiu]* |
 | | |
-| iu | **uniu** *[unju]* |
+| kiam | **qŭian** <small>(**~~qŭiam~~**)</small> *[kian]* |
+| kiom | **qŭiam** <small>(**~~qŭiom~~**)</small> *[kiam]* |
+| | |
+| kiel | **qŭiem** <small>(**qŭiel**)</small> *[kiem]* |
+| kies | **qŭius** <small>(**qŭies**)</small> *[kius]* |
+
+<!--v-->
+
+| Esperanto | Linguo |
+|-|-|
+| tiu | **tu** *[tu]* |
+| neniu | **nenu** *[nenu]* |
+| | |
+| iu | **unu** *[unu]* |
 | ĉiu | **omnu** *[omnu]* |
 | | |
-| ĉi tiu | **ce tiu** *[ce tju]* |
-| iu ajn | **unqŭiu** *[unkju]* |
+| ĉi tiu | **ce-tu** *[setu]* |
+| iu ajn | **un-qŭiu** *[uŋkju]* |
 
 <!--v-->
 
 ### Artikoloj
+
+<!--v-->
+
+<small>En la pluralo, la difina artikolo estas **las**.</small>
+
+<!--v-->
+
+| Esperanto | Linguo |
+|-|-|
+| la domoj | **las domos** |
 
 <!--v-->
 
@@ -1101,15 +1103,49 @@ Multajn vortojn oni povas skribi en eĉ pli etimologia stilo, kaj oni povas uzi 
 | al la | **ad/a la** <small>**âl**</small> |
 | en la | **in/en la** <small>**nêl**</small> |
 | | |
-| de la (-j) | **de/di la (-i)** <small>**dêi**</small> |
-| al la (-j) | **ad/a la (-i)** <small>**âi**</small> |
-| en la (-j) | **in/en la (-i)** <small>**nêi**</small> |
+| de la (-j) | **de/di las** <small>**dês**</small> |
+| al la (-j) | **ad/a las** <small>**âs**</small> |
+| en la (-j) | **in/en las** <small>**nês**</small> |
+
+<!--v-->
+
+### Verboj
+
+<!--v-->
+
+| Esperanto | Linguo |
+|-|-|
+| renkontas | **incontran** |
+| renkontis | **incontrin** |
+| renkontos | **incontron** |
+| | |
+| renkontus | **incontrun** |
+| | |
+| renkontu | **incontren** |
+
+<!--v-->
+
+### Prepozicioj
+
+<!--v-->
+
+Tra bruo, la prepozicio **a** uziĝas por la indiki la rektan objekton. (Tiam uziĝas **ad** antaŭ vokalo.) Kiam la rekta objekto staras antaŭ la subjekto de la frazo, ne uzi la tra-bruan **a** estas evitinde.
+
+<!--v-->
+
+| Esperanto | Linguo |
+|-|-|
+| Mi vidas Karlan. | **Mi vidan Carla.** <small>**Mi vidan a Carla.**</small> |
+| Karlan mi vidas. | **~~Carla mi vidan.~~** <small>**A Carla mi vidan.**</small> |
+| | |
+| Mi vidas alian domon. | **Mi vidan altra domo.** <small>**Mi vidan ad altra domo.**</small> |
+| Alian domon mi vidas. | **~~Altra domo mi vidan.~~** <small>**Ad altra domo mi vidan.**</small> |
 
 <!--s-->
 
 ## Intera Fazo:<br> **Lingue**
 
-> **Si nu etja supponon, qŭe<br> la fina lingue de las essontas<br> generaties essan non Sperante, in<br> omna occasie la vie ad ti<br> ellavorota lingue infalliblo<br> devan conduzu trans Sperante.**
+> **Si nu etja supponon, qŭe<br> la fina lingue de las essontas<br> generaties essan nôn Sperante, in<br> omna occasie la vie ad ti<br> ellavorota lingue infalliblo<br> devan conduzu trans Sperante.**
 
 <!--v-->
 
@@ -1133,30 +1169,6 @@ Multajn vortojn oni povas skribi en eĉ pli etimologia stilo, kaj oni povas uzi 
 
 <!--v-->
 
-### Substantivoj
-
-<!--v-->
-
-<small>La finaĵo por la pluralo estas **-s**.</small>
-
-<!--v-->
-
-| Esperanto | Lingue |
-|-|-|
-| domoj | **domes** |
-
-<!--v-->
-
-### Adjektivoj
-
-<!--v-->
-
-| Esperanto | Lingue |
-|-|-|
-| altaj domoj | **domes altas** |
-
-<!--v-->
-
 ### Tabelvortoj
 
 <!--v-->
@@ -1165,12 +1177,11 @@ Multajn vortojn oni povas skribi en eĉ pli etimologia stilo, kaj oni povas uzi 
 |-|-|
 | kiu | **qui** *[kŭi]* |
 | | |
-| kiam | **quan** <small>(Linguo: (**~~qŭian~~**))</small> *[kŭan]* |
-| kiom | **quam** <small>(Linguo: (**~~qŭiam~~**))</small> *[kŭam]* |
+| kiam | **quan** *[kŭan]* |
+| kiom | **quam** *[kŭam]* |
 | | |
-| kien | **ad quo** <small>(Linguo: (**qŭien**))</small> *[ad kŭo]* |
-| kiel | **quom** <small>(Linguo: (**qŭiem**))</small> *[kŭom]* |
-| kies | **quis** <small>(Linguo: (**qŭius**))</small> *[kŭis]* |
+| kiel | **quom** *[kŭom]* |
+| kies | **quis** *[kŭis]* |
 
 <!--v-->
 
@@ -1182,8 +1193,8 @@ Multajn vortojn oni povas skribi en eĉ pli etimologia stilo, kaj oni povas uzi 
 | iu | **uni** *[uni]* |
 | ĉiu | **omni** *[omni]* |
 | | |
-| ĉi tiu | **ce ti** *[ce ti]* |
-| iu ajn | **unqui** *[unkŭi]* |
+| ĉi tiu | **ce-ti** *[seti]* |
+| iu ajn | **un-qui** *[uŋkŭi]* |
 
 <!--v-->
 
@@ -1212,64 +1223,11 @@ Multajn vortojn oni povas skribi en eĉ pli etimologia stilo, kaj oni povas uzi 
 | ni | **nu** |
 | vi | **vu** |
 
-<!--v-->
-
-### Artikoloj
-
-<!--v-->
-
-<small>En la pluralo, la difina artikolo estas **las**.</small>
-
-<!--v-->
-
-| Esperanto | Lingue |
-|-|-|
-| la domoj | **las domes** |
-
-<!--v-->
-
-| Esperanto | Lingue |
-|-|-|
-| de la (-j) | **de/di las** <small>**dês**</small> |
-| al la (-j) | **ad/a las** <small>**âs**</small> |
-| en la (-j) | **in/en las** <small>**nês**</small> |
-
-<!--v-->
-
-### Verboj
-
-<!--v-->
-
-| Esperanto | Lingue |
-|-|-|
-| renkonten | **al incontre** <small>**incontru**</small> |
-| renkonti | **incontru** |
-| renkontas | **incontran** |
-| renkontu | **incontren** |
-
-<!--v-->
-
-### Prepozicioj
-
-<!--v-->
-
-Tra bruo, la prepozicio **a** uziĝas por la indiki la rektan objekton. (Tiam uziĝas **ad** antaŭ vokalo.) Kiam la rekta objekto staras antaŭ la subjekto de la frazo, ne uzi la tra-bruan **a** estas evitinde.
-
-<!--v-->
-
-| Esperanto | Lingue |
-|-|-|
-| Mi vidas Karlan. | **Mi vidan Carla.** <small>**Mi vidan a Carla.**</small> |
-| Karlan mi vidas. | **~~Carla mi vidan.~~** <small>**A Carla mi vidan.**</small> |
-| | |
-| Mi vidas alian domon. | **Mi vidan altra dome.** <small>**Mi vidan ad altra dome.**</small> |
-| Alian domon mi vidas. | **~~Altra dome mi vidan.~~** <small>**Ad altra dome mi vidan.**</small> |
-
 <!--s-->
 
 ## Intera Fazo:<br> **Lingua**
 
-> **Si nos etja supponerá, qŭe<br> la lingua finale de las futuras<br> generatios sîa non Sperante, in<br> omna occasio la via ad illi<br> elavorenda lingua infallibilmente<br> deve conducér trans Sperante.**
+> **Si nos etja supponerá, qŭe<br> la lingua finale de las futuras<br> generatios sîa nôn Sperante, in<br> omna occasio la via ad illi<br> elavorenda lingua infallibilmente<br> deve conducér trans Sperante.**
 
 <!--v-->
 
@@ -1439,9 +1397,8 @@ La grek-devenaj ŝajnfinaĵoj **-i**, **-ia** *[ia]*, **-a**, **-e** havas signi
 
 | Esperanto | Lingua |
 |-|-|
-| kia | **qua** <small>**quale** / **tâl**</small> |
+| kia | **qua** <small>**quale** / **quâl**</small> |
 | kie | **quo** <small>**ubi**</small> |
-| kien | **quu** <small>**ad ubi**</small> |
 
 <!--v-->
 
@@ -1453,15 +1410,14 @@ La grek-devenaj ŝajnfinaĵoj **-i**, **-ia** *[ia]*, **-a**, **-e** havas signi
 
 | Esperanto | Lingua |
 |-|-|
-| ne | **nillo** <small>**no** (frazo), **non** (modifilo)</small> |
+| ne | **nillo** <small>**no** (frazo), **nôn** (modifilo)</small> |
 | nenio | **nille** <small>**nîl**</small> |
 
 <!--v-->
 
 | Esperanto | Lingua |
 |-|-|
-| ĉiam | **quo-que** <small>**quando-que**, **semper**</small> |
-| ĉiu | **qua-que** <small>**omnia**</small> |
+| ĉiam | **omne** <small>**semper**</small> |
 
 <!--v-->
 
@@ -1472,7 +1428,6 @@ La grek-devenaj ŝajnfinaĵoj **-i**, **-ia** *[ia]*, **-a**, **-e** havas signi
 | ĉi tiel | **eccu-illo** <small>**quello**, **sic**</small> |
 | ĉi tiam | **eccu-illo** <small>**quello**, **nunc**</small> |
 | ĉi tiom | **eccu-illo** <small>**quello**, **tanto**</small> |
-| ĉi tien | **eccu-illu** <small>**quellu**, **huc**</small> |
 
 <!--v-->
 
@@ -1487,7 +1442,7 @@ La grek-devenaj ŝajnfinaĵoj **-i**, **-ia** *[ia]*, **-a**, **-e** havas signi
 | ri(a) | **ulle(a)** |
 | ĝi(a)/li(a) | **le(a)** <small>**(de)le**</small> |
 | | |
-| ili(a) | **les(sa)** <small>**(de)les** (Lingue: **illu(a)**)</small> |
+| ili(a) | **les(sa)** <small>**(de)les**</small> |
 | | |
 | si(a) | **se(a)** |
 
@@ -1703,9 +1658,7 @@ La grek-devenaj ŝajnfinaĵoj **-i**, **-ia** *[ia]*, **-a**, **-e** havas signi
 
 ## Fleksia Fazo:<br> **Meridionál**
 
-> **Si nos etja supporêmos, qŭe<br> la lingua finál de las futuras<br> generationes sîa non Sperante, in<br> omna occasione la via ad illi<br> elavorenda lingua infallivilmente<br> deve condûr trans Sperante.**
-
-<!-- Ĉu "infalliblemente"? -->
+> **Si nos etja supporêmos, qŭe<br> la lingua finál de las futuras<br> generationes sîa nôn Sperante, in<br> omna occasione la via ad illi<br> elavorenda lingua infallivilmente<br> deve condûr trans Sperante.**
 
 <!--v-->
 
@@ -1765,8 +1718,6 @@ La grek-devenaj ŝajnfinaĵoj **-i**, **-ia** *[ia]*, **-a**, **-e** havas signi
 <!--v-->
 
 <small>**j** prononciĝas *[ĵ]*. Same, ne-akcentataj **e** kaj **i** asimiliĝas al *[ĵ]*, respektive al *[ŝ]* post senvoĉa **s**.</small>
-
-<!-- Kial **s** estas senvoĉa, fakte? -->
 
 <!--v-->
 
@@ -1958,7 +1909,7 @@ La grek-devenaj ŝajnfinaĵoj **-i**, **-ia** *[ia]*, **-a**, **-e** havas signi
 
 ## Fleksia Fazo:<br> **Intermediaria**
 
-> **Si nos etja supponerêmos, qŭe<br> la lingua finál de las futuras<br> generationes sîa non Sperante, in<br> omna occasione la via ad illi<br> elavorenda lingua infallibilmente<br> deve conducér trans Sperante.**
+> **Si nos etja supponerêmos, qŭe<br> la lingua finál de las futuras<br> generationes sîa nôn Sperante, in<br> omna occasione la via ad illi<br> elavorenda lingua infallibilmente<br> deve conducér trans Sperante.**
 
 <!--v-->
 
@@ -2530,7 +2481,7 @@ Por la perfektaj formoj de **îr** uziĝas la verbo **sêr**.
 
 ## Fleksia Fazo:<br> **Classĭca**
 
-> **Si nos etiam supponerabemus, qŭe<br> la lingua finale de las futuras<br> generationes sîat non Sperante, in<br> qua-que occasione la via ad illi<br> elaborenda lingua infallibilemente<br> debet conducĕre trans Sperante.**
+> **Si nos etiam supponerabemus, qŭe<br> la lingua finale de las futuras<br> generationes sîat nôn Sperante, in<br> qua-que occasione la via ad illi<br> elaborenda lingua infallibilemente<br> debet conducĕre trans Sperante.**
 
 <!--v-->
 
@@ -3161,3 +3112,17 @@ Duoblaj vokaloj en finaĵoj estas skribataj kun makrono.
 |-|-|
 | aŭ | **aut** |
 | kaj | **et** |
+
+<!-- un-kio ne bezonas esti prononcata kun "j" en la aglutina fazo. -->
+<!-- En la intera fazo, "i" prononciĝas "i" kiel unua vokalo: uŋkjo, kio -->
+
+<!-- alĭ-qui kaj qui-que enkondukiĝi nur en Classĭca. En Lingua, ili restu uni kaj omni. -->
+
+<!-- Ke "renkonti" estas legebla kiel "renkonten" fariĝas piednoto. -->
+<!-- Ke "renkonten" estas legebla kiel "renkontu" fariĝas piednoto. -->
+
+<!-- eccu-illi enkondukiĝu nur en Classĭca. En Lingua, ĝi estu quelli/quilli. -->
+<!-- hoc, sic, nunc enkondukiĝu nur en Classĭca. -->
+
+<!-- Konsiderindas, ke eble "se" restu "se" ĝis Lingua kaj nur en Lingua ĝi fariĝu "si". -->
+<!-- Kial **s** estas senvoĉa en "camisia", fakte? -->
