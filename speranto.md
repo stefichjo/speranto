@@ -1387,11 +1387,11 @@ La grek-devenaj ŝajnfinaĵoj **-i**, **-ia** *[ia]*, **-a**, **-e** havas signi
 | tiu | **illi** *[ili]* |
 | neniu | **nilli** *[nili]* |
 | | |
-| iu | **alĭ-qui** *[ali-kŭi]* |
-| ĉiu | **qui-que** *[kŭikŭe]* |
+| iu | **uni** *[uni]* |
+| ĉiu | **omni** *[omni]* |
 | | |
-| ĉi tiu | **eccu-illi** *[eku-ili]* |
-| iu ajn | **alĭ-qui-que** *[ali-kŭi-kŭe]* |
+| ĉi tiu | **quilli** *[kŭili]* |
+| iu ajn | **un-qui** *[uŋkŭi]* |
 
 <!--v-->
 
@@ -1423,11 +1423,11 @@ La grek-devenaj ŝajnfinaĵoj **-i**, **-ia** *[ia]*, **-a**, **-e** havas signi
 
 | Esperanto | Lingua |
 |-|-|
-| ĉi tiu | **eccu-illi** <small>**quelli**</small> |
-| ĉi tie | **eccu-illo** <small>**quello**, **hoc**, **ibi**</small> |
-| ĉi tiel | **eccu-illo** <small>**quello**, **sic**</small> |
-| ĉi tiam | **eccu-illo** <small>**quello**, **nunc**</small> |
-| ĉi tiom | **eccu-illo** <small>**quello**, **tanto**</small> |
+| ĉi tiu | **quilli** |
+| ĉi tie | **quillo** <small>**hoc**, **ibi**</small> |
+| ĉi tiel | **quillo** <small>**sic**</small> |
+| ĉi tiam | **quillo** <small>**nunc**</small> |
+| ĉi tiom | **quillo** <small>**tanto**</small> |
 
 <!--v-->
 
@@ -2612,6 +2612,20 @@ Duoblaj vokaloj en finaĵoj estas skribataj kun makrono.
 
 <!--v-->
 
+### Tabelvortoj
+
+<!--v-->
+
+| Esperanto | Classĭca |
+|-|-|
+| iu | **alĭ-qui** *[alikui']* |
+| ĉiu | **qui-que** *[kuikue']* |
+| | |
+| ĉi tiu | **eccu-illi** *[eku-ili]* |
+| iu ajn | **alĭ-qui-que** *[alikuikue']* |
+
+<!--v-->
+
 ### Numeraloj
 
 <!--v-->
@@ -3113,12 +3127,10 @@ Duoblaj vokaloj en finaĵoj estas skribataj kun makrono.
 | aŭ | **aut** |
 | kaj | **et** |
 
-<!-- alĭ-qui kaj qui-que enkondukiĝi nur en Classĭca. En Lingua, ili restu uni kaj omni. -->
-
 <!-- Ke "renkonti" estas legebla kiel "renkonten" fariĝas piednoto. -->
 <!-- Ke "renkonten" estas legebla kiel "renkontu" fariĝas piednoto. -->
 
-<!-- eccu-illi enkondukiĝu nur en Classĭca. En Lingua, ĝi estu quelli/quilli. -->
+<!-- Kial **s** estas senvoĉa en "camisia", fakte? -->
+
 <!-- hoc, sic, nunc enkondukiĝu nur en Classĭca. -->
 
-<!-- Kial **s** estas senvoĉa en "camisia", fakte? -->
