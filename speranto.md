@@ -108,25 +108,6 @@ Note:
 
 <small>**Esperanto** havas pli-malpli slav-ĝermanan prononcon. Ĝi havas naciismojn kaj por funkciaj vortoj (prepozicioj, konjunkcioj, sufiksoj) kaj por signifaj vortoj (o-vortoj, a-vortoj, verboj).</small>
 
-<!--v-->
-
-### Prononco
-
-<!--v-->
-
-<small>Nemalofte vorto eniras **Esperanton** laŭ sia fontolingva skribo.</small>
-
-<!--v-->
-
-| Esperanto |
-|-|
-| biero |
-| boato |
-| teamo |
-| |
-| fojo |
-| partio |
-
 <!--s-->
 
 ## Aglutina Fazo:<br> **Speranto**
@@ -135,80 +116,99 @@ Note:
 
 <!--v-->
 
-<small>**Speranto** preferas etimologie pli neŭtralajn formojn. Ekzemple, anstataŭ la specife franc-devena *prononci* uziĝas *pronunci*, kiu estas pli simila al la itala, hispana, portugala kaj rumana formoj.</small>
+<small>Preferiĝas etimologie neŭtralaj formoj. Ekzemple, anstataŭ la specife franc-devena formo *prononci* estas la formo *pronunci*, kiu estas pli simila al la itala, hispana, portugala, rumana kaj latina formoj.</small>
 
 <!--v-->
 
 | Esperanto | Speranto |
 |-|-|
-| aperi | apari |
-| mondo | mundo |
-| prononci | pronunci |
-| serĉi | kveri |
-| supozi | suponi |
-| tuta | tota |
+| mondo *(france: monde)* | mundo |
+| prononci *(france: prononcer)* | pronunci |
+| supozi *(france: supposer)* | suponi |
+| tuta *(france: toute, itale: tutta)* | tota |
 
 <!--v-->
 
 | Esperanto | Speranto |
 |-|-|
-| ĉu | ĉi |
-| poŝto | poĉto |
+| akĉento *(itale: accento)* | akcento |
+| ĉi *(itale: ci)* | ce |
+| dio *(itale: dio)* | deo |
+| dolĉa *(itale: dolce)* | dulca |
+| esplori *(itale: esplorare)* | eksplori |
+| leĝo *(itale: legge)* | lekso |
+| reĝo *(itale: re)* | rekso |
+| voĉo *(itale: voce)* | voco |
 
 <!--v-->
 
 | Esperanto | Speranto |
 |-|-|
-| birdo | fuglo |
-| gliti | glajdi |
-| ŝtato | stato |
-| ŝtono | stejno |
-| vorto | vordo |
+| esperi *(hispane, portugale: esperar)* | speri |
+| esti *(hispane, portugale: estar)* | esi |
 
 <!--v-->
 
 | Esperanto | Speranto |
 |-|-|
-| esti | esi |
-| ĵus | apene |
+| aperi *(angle: appear)* | apari |
+| ĉeno *(angle: chain)* | kateno |
+
+<!--v-->
+
+<small>Analogie, anstataŭ la specife angla-devena formo *birdo* estas la formo *fuglo*, kiu estas pli simila al la germana, nederlanda, dana, norvega, sveda kaj islanda formoj.</small>
 
 <!--v-->
 
 | Esperanto | Speranto |
 |-|-|
-| ĉirkaŭiri | cirki |
+| birdo *(angle: bird)* | fuglo |
+| serĉi *(angle: search)* | kveri |
+| ŝtato *(germane: Staat)* | stato |
+| vorto *(germane: Wort)* | vordo |
+
+<!--v-->
+
+<small>Evitiĝas miksaj formoj, ekzemple *ŝanĝo*, kiu estas inter la franca *change* (→ *[ŝanĵo]*) kaj la angla *change* (→ *[ĉanĝo]*). Por preferi etimologie pli neŭtralan formon, estas ĉiuokaze la formo *kambjo*, kiu estas pli simila al la aliaj latinidaj lingvoj.</small>
 
 <!--v-->
 
 | Esperanto | Speranto |
 |-|-|
-| eĥo | eĥo |
-| kemio | ĥemio |
-| mekaniko | meĥaniko |
-
-<!--v-->
-
-##### e ←→ i
+| ŝanĝo *(france + angle: change)* | kambjo |
 
 <!--v-->
 
 | Esperanto | Speranto |
 |-|-|
-| dio | deo |
+| gliti *(angle: glide + germane: gleiten)* | glajdi |
+| ŝtono *(germane: Stein + angle: stone)* | stejno |
 
 <!--v-->
 
-##### oj
+<small>Evitiĝas literumaĵoj.</small>
 
 <!--v-->
 
 | Esperanto | Speranto |
 |-|-|
-| vojo | vio |
+| biero *(germane + nederlande: bier)* | biro |
+| boato *(angle: boat)* | bejto |
+| teamo *(angle: team)* | tomo |
+| | |
+| ŝanco *(internacie + france: chance)* | ŝanso |
+| fojo *(france: fois)* | vico |
+| vojo *(france: voie)* | vio |
 
 <!--v-->
 
-##### ĝ/ĵ
+| Esperanto | Speranto |
+|-|-|
+| poŝto *(internacie: post + pole: poczta)* | poĉto |
+
+<!--v-->
+
+<small>Latin-devenaj *g* kaj *j* prononciĝas *[g]* kaj *[j]*.</small>
 
 <!--v-->
 
@@ -219,104 +219,122 @@ Note:
 | | |
 | ĝusta | justa |
 | ĵuri | juri |
-| | |
-| ĝiri | ĵiri |
-| manĝi | manĵi |
 
 <!--v-->
 
-| Esperanto | Speranto |
-|-|-|
-| kaĝo | kavjo |
-| ruĝa | rubja |
-| | |
-| leĝo | lekso |
-| reĝo | rekso |
-
-<!--v-->
-
-##### (i)o
+<small>Radikofine, latin-devenaj *e* kaj *i* prononciĝas *j*.</small>
 
 <!--v-->
 
 | Esperanto | Speranto |
 |-|-|
 | linio | linjo |
+| | |
 | familio | familjo |
 | nacio | nacjo |
-| | |
+
+<!--v-->
+
+<small>Radikofine, eliziiĝinta latin-devena *i* reaperas.</small>
+
+<!--v-->
+
+| Esperanto | Speranto |
+|-|-|
 | besto | bestjo |
-| propra | proprja |
-| | |
+| donaco | donacjo |
 | okazo | okazjo |
+| propra | proprja |
 
-<!--v-->
-
-#### Neologismoj
-
-<!--v-->
-
-| Esperanto | Speranto |
-|-|-|
-| ĉarma | ŝarma |
-| ĉe | ŝe |
-| formaĝo | fromaĵo |
-| ŝanco | ŝanso |
-
-<!--v-->
-
-#### e ←→ i
+<small>Radikofine, asimiliĝinta latin-devena *i* reaperas.</small>
 
 <!--v-->
 
 | Esperanto | Speranto |
 |-|-|
-| ĉi | ce |
-| rilati | relati |
+| rilato | relacjo |
+| | |
+| kaĝo | kavjo |
+| ruĝa | rubja |
 
 <!--v-->
 
-#### es
-
-<!--v-->
-
-| Esperanto | Speranto |
-|-|-|
-| esperi | speri |
-| esplori | eksplori |
-
-<!--v-->
-
-#### k
+<small>Radikofine, grekisma *e* restas senŝanĝa.</small>
 
 <!--v-->
 
 | Esperanto | Speranto |
 |-|-|
+| ideo | ideo |
+
+<!--v-->
+
+<small>En grekismoj preferiĝas *ĥ* ol *k*.</small>
+
+<!--v-->
+
+| Esperanto | Speranto |
+|-|-|
+| eĥo | eĥo |
+| | |
+| ĥaoso / kaoso | ĥaoso |
+| ĥemio / kemio | ĥemio |
+| meĥaniko / mekaniko | meĥaniko |
+
+<!--v-->
+
+<small>Radikofine, latin-devena *u* fariĝas *v*, kaj latindevena *b* restas *b*.</small>
+
+<!--v-->
+
+| Esperanto | Speranto |
+|-|-|
+| evolui | evolvi |
+| | |
+| havi | habi |
+
+<!--v-->
+
+<small>Senfinaĵaj adverboj kaj prepozcioj ne bezonas esti etimologie neŭtraj.</small>
+
+<!--v-->
+
+| Esperanto | Speranto |
+|-|-|
+| ĉu *(pole: czy)* | ĉi |
+| ĵus *(france: juste)* | ĵust |
+
+<!--v-->
+
+<small>Neologismoj ne bezonas esti etimologie neŭtraj.</small>
+
+<!--v-->
+
+| Esperanto | Speranto |
+|-|-|
+| ĉarmo *(internacie + france: charme)* | ŝarmo |
+| ĉe *(france: chez)* | ŝe |
+| formaĝo *(itale: formaggio)* | fromaĵo |
+| | |
+| ĝiri | ĵiri |
+| manĝi | manĵi |
+
+<!--v-->
+
+<small>Foje, la formo en **Esperanto** simple estas malregula.</small>
+
+<!--v-->
+
+| Esperanto | Speranto |
+|-|-|
+| implici | impliki |
 | konduki | konduci |
+| pordo | porto |
+| senco | senso |
 
 <!--v-->
 
-#### ĉ
-
-<!--v-->
-
-| Esperanto | Speranto |
-|-|-|
-| akĉento | akcento |
-| dolĉa | dulca |
-| voĉo | voco |
-
-<!--v-->
-
-| Esperanto | Speranto |
-|-|-|
-| ĉeno | kateno |
-| ŝanĝo | kambjo |
-
-<!--v-->
-
-#### Ŝajnsufiksoj
+<small>La ŝajnfinaĵoj *-er-*, *-id-* kaj *-ul-* estas akcentataj.</small>
 
 <!--v-->
 
@@ -325,54 +343,21 @@ Note:
 | cindro | cinero |
 | ĉambro | kamero |
 | letero | litero |
-| libera | libera |
-| tenera | tenera |
 
 <!--v-->
 
 | Esperanto | Speranto |
 |-|-|
-| humida | humida |
-| rapida | rapida |
-| | |
-| facila | facila |
-| simila | simila |
+| frida | frigida |
 
 <!--v-->
 
 | Esperanto | Speranto |
 |-|-|
-| nebulo | nebulo |
-| | |
 | kablo | kabulo |
-| sablo | sabulo |
-
-<!--v-->
-
-| Esperanto | Speranto |
-|-|-|
-| modulo | modulo |
-
-<!--v-->
-
-| Esperanto | Speranto |
-|-|-|
-| popolo | populo |
-
-<!--v-->
-
-| Esperanto | Speranto |
-|-|-|
-| makulo | makulo |
 | obstaklo | obstakulo |
-| okulo | okulo |
-| partikulo | partikulo |
-
-<!--v-->
-
-| Esperanto | Speranto |
-|-|-|
-| gratuli | gratuli |
+| popolo | populo |
+| sablo | sabulo |
 | titolo | titulo |
 
 <!--v-->
@@ -384,35 +369,34 @@ Note:
 | Esperanto | Speranto |
 |-|-|
 | tabulo | tabulo |
-| | |
 | tablo | tablo |
 
 <!--v-->
 
-<small>Post la ŝajnfinaĵo *-ul-*, la ŝajnfinaĵo *-acj-* mallongiĝas al *-ac-* aŭ anstataŭiĝas per la sufikso *-um-*.</small>
+<small>La ŝajnfinaĵo *-ul-* kombine kun la ŝajnfinaĵo *-acj-* estas anstataŭebla per la sufikso *-um-*.</small>
 
 <!--v-->
 
 | Esperanto | Speranto |
 |-|-|
 | artikolo | artikulo |
-| artikulacii | artikulaci / artikulumi |
+| artikulacii | artikulacji = artikulumi |
 | | |
 | spegulo | spekulo |
-| spekuli | spekulaci / spekulumi |
+| spekuli | spekulacji = spekulumi |
 
 <!--v-->
 
 | Esperanto | Speranto |
 |-|-|
 | ĉapitro | kapitulo |
-| kapitulaci | kapitulaci / kapitulumi |
+| kapitulaci | kapitulacji = kapitulumi |
 | | |
 | insulo | insulo |
-| izoli | insulaci / insulumi |
+| izoli | insulacji = insulumi |
 | | |
 | kupli | kopuli |
-| kopulacii | kopulaci / kopulumi |
+| kopulacii | kopulacji = kopulumi |
 
 <!--v-->
 
@@ -466,42 +450,6 @@ Note:
 | Esperanto | Speranto |
 |-|-|
 | genro | ĵendro |
-
-<!--v-->
-
-#### u
-
-<!--v-->
-
-| Esperanto | Speranto |
-|-|-|
-| evolui | evolvi |
-
-<!--v-->
-
-#### v
-
-<!--v-->
-
-| Esperanto | Speranto |
-|-|-|
-| havi | habi |
-
-<!--v-->
-
-#### Evitismoj
-
-<!--v-->
-
-| Esperanto | Speranto |
-|-|-|
-| impliki ≠ implici | impliki |
-| porto ≠ pordo | porto |
-| senso ≠ senco | senso |
-
-<!--v-->
-
-#### -o kaj -j
 
 <!--v-->
 
@@ -635,6 +583,8 @@ Note:
 
 | Esperanto | Speranto |
 |-|-|
+| ĉirkaŭiri | cirki |
+| | |
 | ĉirkaŭ | cirk' al |
 | anstataŭ | vic' al |
 
@@ -1015,7 +965,7 @@ Multajn vortojn oni povas skribi en eĉ pli etimologia stilo, kaj oni povas uzi 
 
 <!--v-->
 
-#### Grekaj Vortoj
+#### Grekismoj
 
 <!--v-->
 
@@ -1449,7 +1399,7 @@ Tra bruo, la prepozicio **a** uziĝas por la indiki la rektan objekton. (Tiam uz
 
 <!--v-->
 
-La grek-devenaj ŝajnfinaĵoj **-i**, **-ia** *[ia]*, **-a**, **-e** havas signifojn similajn al la ŝajnfinaĵoj **-io**, **-o**, **-ore**, **-ura**.
+La grekismaj ŝajnfinaĵoj **-i**, **-ia** *[ia]*, **-a**, **-e** havas signifojn similajn al la ŝajnfinaĵoj **-io**, **-o**, **-ore**, **-ura**.
 
 <!--v-->
 
@@ -1980,12 +1930,15 @@ La grek-devenaj ŝajnfinaĵoj **-i**, **-ia** *[ia]*, **-a**, **-e** havas signi
 
 <!--v-->
 
-<small>Tiam **pŭl** kaj **pĕr** fariĝas **bl** kaj **br**. **mŭl** kaj **tŭl** fariĝas **mbr** kaj **tr**.</small>
+<small>Tiam **mŭl**, **pŭl** kaj **tŭl** fariĝas **mbl**, **bl** kaj **tr**: **popŭlo** → **pôblo**, **simŭla** → **sîmbla**, **titŭlo** → **tîtro**.
 
 <!--v-->
 
 | Esperanto | Meridionál |
 |-|-|
+| ŝajnas | **sîmbla** *[simbla]* <small>**simŭla** *[simu-la]*</small> |
+| simulas | **simŭla** *[simu-la]* |
+| | |
 | popolo | **pôblo** *[poblo]* <small>**popŭlo** *[popu-lo]*</small> |
 | povra | **pâubra** *[pobra]* <small>**paupĕra** *[pope-ra]*</small> |
 | | |
@@ -2002,13 +1955,6 @@ La grek-devenaj ŝajnfinaĵoj **-i**, **-ia** *[ia]*, **-a**, **-e** havas signi
 | | |
 | regulo | **rêgla** *[regla]* <small>**regŭla** *[regu-la]*</small> |
 | reguligas | **regŭla** *[regu-la]* |
-
-<!--v-->
-
-| Esperanto | Meridionál |
-|-|-|
-| ŝajnas | **sîmbra** *[simbra]* <small>**simŭla** *[simu-la]*</small> |
-| simulas | **simŭla** *[simu-la]* |
 
 <!--v-->
 
@@ -3320,7 +3266,7 @@ Duoblaj vokaloj en finaĵoj estas skribataj kun makrono.
 
 <!-- La ĉapitrero "Prononco" eble estas ellasebla. -->
 
-<!-- La ĉapitro "Esperanto" povas resti tute malplena. -->
-
 <!-- Ŝajn-ĉapitreroj estas anstataŭendaj per priskribaj/enkondukaj frazoj. -->
+
+<!-- | partio *(france: parti)* | -->
 
