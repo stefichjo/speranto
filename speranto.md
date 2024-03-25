@@ -81,6 +81,25 @@ Note:
   * **Intermediaria**
   * **Classĭca**
 
+<!-- Provu ĉapitrerojn anstataŭe (ankaŭ por eviti la punktetaĉojn) -->
+
+<!--v-->
+
+* Prononco
+* Signifaj Vortoj
+
+* Substantivoj
+* Adjektivoj
+* Adverboj
+* Numeraloj
+* Tabelvortoj
+* Artikoloj
+* Pronomoj
+* Verboj
+* Prepozicioj
+* Konjunkcioj
+
+
 <!--s-->
 
 ## Aglutina Fazo:<br> **Esperanto**
@@ -233,7 +252,17 @@ Note:
 
 <!--v-->
 
-##### -(i)o
+| Esperanto | Speranto |
+|-|-|
+| kaĝo | kavjo |
+| ruĝa | rubja |
+| | |
+| leĝo | lekso |
+| reĝo | rekso |
+
+<!--v-->
+
+##### (i)o
 
 <!--v-->
 
@@ -274,21 +303,7 @@ Note:
 
 <!--v-->
 
-#### -ĝ
-
-<!--v-->
-
-| Esperanto | Speranto |
-|-|-|
-| kaĝo | kavjo |
-| ruĝa | rubja |
-| | |
-| leĝo | lekso |
-| reĝo | rekso |
-
-<!--v-->
-
-#### es-
+#### es
 
 <!--v-->
 
@@ -481,7 +496,7 @@ Note:
 
 <!--v-->
 
-#### -u
+#### u
 
 <!--v-->
 
@@ -491,7 +506,7 @@ Note:
 
 <!--v-->
 
-#### -v
+#### v
 
 <!--v-->
 
@@ -513,7 +528,7 @@ Note:
 
 <!--v-->
 
-### -o kaj -j
+#### -o kaj -j
 
 <!--v-->
 
@@ -528,7 +543,7 @@ Note:
 
 <!--v-->
 
-### Adverboj kaj prepozicioj kun -aŭ
+### Adverboj
 
 <!--v-->
 
@@ -538,24 +553,23 @@ Note:
 | baldaŭ | balde |
 | hieraŭ | hiere |
 | hodiaŭ | hodje |
-| | |
-| ĉirkaŭ | cirk' al |
-| anstataŭ | vic' al |
 
 <!--v-->
 
-### Verboj je -ar kaj -ir
+### Numeraloj
+
+<!--v-->
+
+<small>La numeralo *unu* fariĝas *un* kaj konstrastas al la tabelvorto *unu*. Por ordinaloj, uziĝas la sufikso *-esm-*.</small>
 
 <!--v-->
 
 | Esperanto | Speranto |
 |-|-|
-| diri | dici |
-| fari | faci |
-| iri | vadi |
-| stari | sti`*` |
-
-<small>`*` Same *di* (Esperanto: *doni*) portas la akcenton sur la finaĵo: *di*, *das*, *dis*, *dos*, *dus*, *du*.</small>
+| unu | un |
+| unua | unesma |
+| | |
+| ia | una |
 
 <!--v-->
 
@@ -604,20 +618,29 @@ Note:
 
 <!--v-->
 
-### Numeraloj
-
-<!--v-->
-
-<small>La numeralo *unu* fariĝas *un* kaj konstrastas al la tabelvorto *unu*. Por ordinaloj, uziĝas la sufikso *-esm-*.</small>
+### Verboj
 
 <!--v-->
 
 | Esperanto | Speranto |
 |-|-|
-| unu | un |
-| unua | unesma |
-| | |
-| ia | una |
+| diri | dici |
+| fari | faci |
+| iri | vadi |
+| stari | sti`*` |
+
+<small>`*` Same *di* (Esperanto: *doni*) portas la akcenton sur la finaĵo: *di*, *das*, *dis*, *dos*, *dus*, *du*.</small>
+
+<!--v-->
+
+### Prepozicioj
+
+<!--v-->
+
+| Esperanto | Speranto |
+|-|-|
+| ĉirkaŭ | cirk' al |
+| anstataŭ | vic' al |
 
 <!--s-->
 
@@ -752,7 +775,7 @@ Note:
 | Esperanto | Peranto |
 |-|-|
 | krom | escepte de |
-| apud | al lato de |
+| apud | late de |
 
 <!--v-->
 
@@ -785,7 +808,7 @@ Note:
 
 <!--v-->
 
-**Linguo** *[liŋgŭo]* estas **Peranto** kun etimologia ortografio kaj latinida prononco.
+**Linguo** estas **Peranto** kun etimologia ortografio kaj latinida prononco.
 
 Multajn vortojn oni povas skribi en eĉ pli etimologia stilo, kaj oni povas uzi malpli ambiguan prononcon tra bruo.
 
@@ -1027,7 +1050,7 @@ Multajn vortojn oni povas skribi en eĉ pli etimologia stilo, kaj oni povas uzi 
 
 | Esperanto | Linguo |
 |-|-|
-| naŭ | **nou** <small>*[noŭ]*</small> |
+| naŭ | **nou** *[noŭ]* |
 
 <!--v-->
 
@@ -1108,8 +1131,8 @@ Multajn vortojn oni povas skribi en eĉ pli etimologia stilo, kaj oni povas uzi 
 
 | Esperanto | Linguo |
 |-|-|
-| nene | **nene** *[nene]* |
-| ne (modifilo) | **nên** *[nen]* |
+| neniel | **nene** |
+| ne (modifilo) | **nên** |
 
 <!--v-->
 
@@ -1278,7 +1301,7 @@ Tra bruo, la prepozicio **a** uziĝas por la indiki la rektan objekton. (Tiam uz
 
 <!--v-->
 
-### Nomoj
+### Substantivoj
 
 <!--v-->
 
@@ -1308,10 +1331,6 @@ Tra bruo, la prepozicio **a** uziĝas por la indiki la rektan objekton. (Tiam uz
 | vendredo | **venĕredie** |
 | sabato | **saturnodie** |
 | dimanĉo | **domĭnodie** |
-
-<!--v-->
-
-### Substantivoj
 
 <!--v-->
 
@@ -1923,7 +1942,7 @@ La grek-devenaj ŝajnfinaĵoj **-i**, **-ia** *[ia]*, **-a**, **-e** havas signi
 | movebleco | **mobilidád** *[mobilidad']* |
 | | |
 | probabla | **provâvil** *[provaviŭ]* |
-| probableco | **mobilidád** *[probabilidad']* |
+| probableco | **probabilidád** *[probabilidad']* |
 | | |
 | stabila | **stâvil** *[staviŭ]* |
 | stabileco | **stabilidád** *[stabilidad']* |
@@ -2069,7 +2088,7 @@ La grek-devenaj ŝajnfinaĵoj **-i**, **-ia** *[ia]*, **-a**, **-e** havas signi
 
 <!--v-->
 
-### Substantivo
+### Substantivoj
 
 <!--v-->
 
@@ -2083,7 +2102,7 @@ La grek-devenaj ŝajnfinaĵoj **-i**, **-ia** *[ia]*, **-a**, **-e** havas signi
 
 <!--v-->
 
-### Adjektivo
+### Adjektivoj
 
 <!--v-->
 
@@ -2662,34 +2681,6 @@ Duoblaj vokaloj en finaĵoj estas skribataj kun makrono.
 
 <!--v-->
 
-### Tabelvortoj
-
-<!--v-->
-
-| Esperanto | Classĭca |
-|-|-|
-| tiu | **illi** |
-| ĉi tiu | **quilli** <small>**eccu-illi**</small> |
-| | |
-| neniu | **nilli** |
-| | |
-| iu | **uni** <small>**alĭ-qui**</small> |
-| ĉiu | **omna** <small>**qui-que**</small> |
-| | |
-| kiu/iu/ĉiu ajn | **un-qui** <small>**qui-cum-que**</small> |
-
-<!--v-->
-
-| Esperanto | Classĭca |
-|-|-|
-| ĉi tiel, jes | **sic** <small>Intermediaria: **sî**</small> |
-| ĉi tie | **hoc** <small>Intermediaria: **ivi**</small> |
-| ĉi tiam, nun | **nunc** <small>Intermediaria: **nûn**, **âl hora**</small> |
-| | |
-| ĉiam | **semper** <small>Intermediaria: **sempre**</small> |
-
-<!--v-->
-
 ### Numeraloj
 
 <!--v-->
@@ -2717,6 +2708,34 @@ Duoblaj vokaloj en finaĵoj estas skribataj kun makrono.
 | tria | **triesĭma** <small>**tertia**</small> |
 | | |
 | tridek | **trianta** |
+
+<!--v-->
+
+### Tabelvortoj
+
+<!--v-->
+
+| Esperanto | Classĭca |
+|-|-|
+| tiu | **illi** |
+| ĉi tiu | **quilli** <small>**eccu-illi**</small> |
+| | |
+| neniu | **nilli** |
+| | |
+| iu | **uni** <small>**alĭ-qui**</small> |
+| ĉiu | **omna** <small>**qui-que**</small> |
+| | |
+| kiu/iu/ĉiu ajn | **un-qui** <small>**qui-cum-que**</small> |
+
+<!--v-->
+
+| Esperanto | Classĭca |
+|-|-|
+| ĉi tiel, jes | **sic** <small>Intermediaria: **sî**</small> |
+| ĉi tie | **hoc** <small>Intermediaria: **ivi**</small> |
+| ĉi tiam, nun | **nunc** <small>Intermediaria: **nûn**, **âl hora**</small> |
+| | |
+| ĉiam | **semper** <small>Intermediaria: **sempre**</small> |
 
 <!--v-->
 
