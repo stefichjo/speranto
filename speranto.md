@@ -68,37 +68,38 @@ Note:
 
 <!--v-->
 
-* Aglutina Fazo
-  * **Esperanto**
-  * **Speranto**
-  * **Peranto**
-* Intera Fazo
-  * **Linguo**
-  * **Lingue**
-  * **Lingua**
-* Fleksia Fazo
-  * **Meridionál**
-  * **Intermediaria**
-  * **Classĭca**
-
-<!-- Provu ĉapitrerojn anstataŭe (ankaŭ por eviti la punktetaĉojn) -->
+##### Aglutina Fazo
+###### **Esperanto**
+###### **Speranto**
+###### **Peranto**
+##### Intera Fazo
+###### **Linguo**
+###### **Lingue**
+###### **Lingua**
+##### Fleksia Fazo
+###### **Meridionál**
+###### **Intermediaria**
+###### **Classĭca**
 
 <!--v-->
 
-* Prononco
-* Signifaj Vortoj
+###### Prononco
+###### Signifaj Vortoj
 
-* Substantivoj
-* Adjektivoj
-* Adverboj
-* Numeraloj
-* Tabelvortoj
-* Artikoloj
-* Pronomoj
-* Verboj
-* Prepozicioj
-* Konjunkcioj
+<!-- Ĉu mencii? -->
 
+<!--v-->
+
+###### Substantivoj
+###### Adjektivoj
+###### Adverboj
+###### Numeraloj
+###### Tabelvortoj
+###### Artikoloj
+###### Pronomoj
+###### Verboj
+###### Prepozicioj
+###### Konjunkcioj
 
 <!--s-->
 
@@ -128,6 +129,8 @@ Note:
 | |
 | fojo |
 | partio |
+
+<!-- La ĉapitro "Esperanto" povas resti tute malplena. -->
 
 <!--s-->
 
@@ -203,6 +206,8 @@ Note:
 <!--v-->
 
 ##### o ←→ u
+
+<!-- Tiaj ĉi ŝajn-ĉapitreroj estas anstataŭendaj per priskribaj/enkondukaj frazoj. -->
 
 <!--v-->
 
@@ -532,7 +537,7 @@ Note:
 
 <!--v-->
 
-<small>En poezio, oni povas ellasi la finaĵon *-o* de substantivoj kaj la finaĵon *-j* de adjektivoj.</small>
+<small>En poezio, oni povas ellasi la finaĵon *-o* de substantivoj kaj la finaĵon *-j* de adjektivoj. Tiam *-oj* fariĝas *-i*.</small>
 
 <!--v-->
 
@@ -540,6 +545,14 @@ Note:
 |-|-|
 | bona amiko | bona amiko <small>bona amîk</small> |
 | bonaj amikoj | bonaj amikoj <small>bôna amîki</small> |
+
+<!--v-->
+
+### Substantivoj
+
+<!--v-->
+
+### Adjektivoj
 
 <!--v-->
 
@@ -607,6 +620,10 @@ Note:
 
 <!--v-->
 
+### Artikoloj
+
+<!--v-->
+
 ### Pronomoj
 
 <!--v-->
@@ -641,6 +658,10 @@ Note:
 |-|-|
 | ĉirkaŭ | cirk' al |
 | anstataŭ | vic' al |
+
+<!--v-->
+
+### Konjunkcioj
 
 <!--s-->
 
@@ -701,6 +722,30 @@ Note:
 |-|-|
 | ĝangalo | ĵunglo |
 | toŭfuo | tofuo |
+
+<!--v-->
+
+### Substantivoj
+
+<!--v-->
+
+### Adjektivoj
+
+<!--v-->
+
+### Adverboj
+
+<!--v-->
+
+### Numeraloj
+
+<!--v-->
+
+### Tabelvortoj
+
+<!--v-->
+
+### Artikoloj
 
 <!--v-->
 
@@ -1040,6 +1085,10 @@ Multajn vortojn oni povas skribi en eĉ pli etimologia stilo, kaj oni povas uzi 
 
 <!--v-->
 
+### Adverboj
+
+<!--v-->
+
 ### Numeraloj
 
 <!--v-->
@@ -1166,6 +1215,10 @@ Multajn vortojn oni povas skribi en eĉ pli etimologia stilo, kaj oni povas uzi 
 
 <!--v-->
 
+### Pronomoj
+
+<!--v-->
+
 ### Verboj
 
 <!--v-->
@@ -1197,6 +1250,10 @@ Tra bruo, la prepozicio **a** uziĝas por la indiki la rektan objekton. (Tiam uz
 | | |
 | Mi vidas alian domon. | **Mi vidan altra domo.** <small>**Mi vidan ad altra domo.**</small> |
 | Alian domon mi vidas. | **~~Altra domo mi vidan.~~** <small>**Ad altra domo mi vidan.**</small> |
+
+<!--v-->
+
+### Konjunkcioj
 
 <!--s-->
 
@@ -1232,6 +1289,22 @@ Tra bruo, la prepozicio **a** uziĝas por la indiki la rektan objekton. (Tiam uz
 
 <!--v-->
 
+### Substantivoj
+
+<!--v-->
+
+### Adjektivoj
+
+<!--v-->
+
+### Adverboj
+
+<!--v-->
+
+### Numeraloj
+
+<!--v-->
+
 ### Tabelvortoj
 
 <!--v-->
@@ -1262,6 +1335,10 @@ Tra bruo, la prepozicio **a** uziĝas por la indiki la rektan objekton. (Tiam uz
 
 <!--v-->
 
+### Artikoloj
+
+<!--v-->
+
 ### Pronomoj
 
 <!--v-->
@@ -1286,6 +1363,14 @@ Tra bruo, la prepozicio **a** uziĝas por la indiki la rektan objekton. (Tiam uz
 | | |
 | ni | **nu** |
 | vi | **vu** |
+
+<!--v-->
+
+### Prepozicioj
+
+<!--v-->
+
+### Konjunkcioj
 
 <!--s-->
 
@@ -1433,6 +1518,10 @@ La grek-devenaj ŝajnfinaĵoj **-i**, **-ia** *[ia]*, **-a**, **-e** havas signi
 
 <!--v-->
 
+### Numeraloj
+
+<!--v-->
+
 ### Tabelvortoj
 
 <!--v-->
@@ -1479,6 +1568,10 @@ La grek-devenaj ŝajnfinaĵoj **-i**, **-ia** *[ia]*, **-a**, **-e** havas signi
 |-|-|
 | ne | **nillo** <small>**no** (frazo), **nôn** (modifilo)</small> |
 | nenio | **nille** <small>**nîl**</small> |
+
+<!--v-->
+
+### Artikoloj
 
 <!--v-->
 
@@ -1704,6 +1797,14 @@ La grek-devenaj ŝajnfinaĵoj **-i**, **-ia** *[ia]*, **-a**, **-e** havas signi
 | fari | **fâr** <small>**facér**</small> |
 | | |
 | faras | **fâ** <small>**face**</small> |
+
+<!--v-->
+
+### Prepozicioj
+
+<!--v-->
+
+### Konjunkcioj
 
 <!--s-->
 
@@ -2210,6 +2311,10 @@ La grek-devenaj ŝajnfinaĵoj **-i**, **-ia** *[ia]*, **-a**, **-e** havas signi
 
 <!--v-->
 
+### Tabelvortoj
+
+<!--v-->
+
 ### Artikoloj
 
 <!--v-->
@@ -2530,6 +2635,10 @@ Por la perfektaj formoj de **îr** uziĝas la verbo **sêr**.
 
 <!--v-->
 
+### Prepozicioj
+
+<!--v-->
+
 ### Konjunkcioj
 
 <!--v-->
@@ -2681,6 +2790,14 @@ Duoblaj vokaloj en finaĵoj estas skribataj kun makrono.
 
 <!--v-->
 
+### Adjektivoj
+
+<!--v-->
+
+### Adverboj
+
+<!--v-->
+
 ### Numeraloj
 
 <!--v-->
@@ -2751,6 +2868,10 @@ Duoblaj vokaloj en finaĵoj estas skribataj kun makrono.
 |-|-|
 | la domo | **la domo** |
 | domo | **domo** |
+
+<!--v-->
+
+### Pronomoj
 
 <!--v-->
 
@@ -3201,6 +3322,10 @@ Duoblaj vokaloj en finaĵoj estas skribataj kun makrono.
 
 <!--v-->
 
+### Prepozicioj
+
+<!--v-->
+
 ### Konjunkcioj
 
 <!--v-->
@@ -3211,3 +3336,7 @@ Duoblaj vokaloj en finaĵoj estas skribataj kun makrono.
 | kaj | **et** |
 
 <!-- Kial **s** estas senvoĉa en "camisia", fakte? -->
+
+<!-- Multa enhavo el t.n. "Prononco" estas distribuenda inter la vortspecaj ĉapitreroj. -->
+
+<!-- La ĉapitrero "Prononco" eble estas ellasebla. -->
