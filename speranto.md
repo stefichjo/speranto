@@ -83,10 +83,7 @@ Note:
 
 <!--v-->
 
-###### Prononco
-###### Signifaj Vortoj
-
-<!-- Ĉu mencii? -->
+### Strukturo
 
 <!--v-->
 
@@ -130,8 +127,6 @@ Note:
 | fojo |
 | partio |
 
-<!-- La ĉapitro "Esperanto" povas resti tute malplena. -->
-
 <!--s-->
 
 ## Aglutina Fazo:<br> **Speranto**
@@ -140,15 +135,18 @@ Note:
 
 <!--v-->
 
-<small>**Speranto** havas pli neŭtralan slav-ĝermanan prononcon. Ĝi havas naciismojn nur por funkciaj vortoj kaj neologismoj.</small>
+<small>**Speranto** preferas etimologie pli neŭtralajn formojn. Ekzemple, anstataŭ la specife franc-devena *prononci* uziĝas *pronunci*, kiu estas pli simila al la itala, hispana, portugala kaj rumana formoj.</small>
 
 <!--v-->
 
-### Prononco
-
-<!--v-->
-
-#### Slavaj Vortoj
+| Esperanto | Speranto |
+|-|-|
+| aperi | apari |
+| mondo | mundo |
+| prononci | pronunci |
+| serĉi | kveri |
+| supozi | suponi |
+| tuta | tota |
 
 <!--v-->
 
@@ -156,10 +154,6 @@ Note:
 |-|-|
 | ĉu | ĉi |
 | poŝto | poĉto |
-
-<!--v-->
-
-#### Ĝermanaj Vortoj
 
 <!--v-->
 
@@ -173,27 +167,16 @@ Note:
 
 <!--v-->
 
-#### Latinidaj Vortoj
-
-<!--v-->
-
 | Esperanto | Speranto |
 |-|-|
-| aperi | apari |
 | esti | esi |
 | ĵus | apene |
-| supozi | suponi |
 
 <!--v-->
 
 | Esperanto | Speranto |
 |-|-|
 | ĉirkaŭiri | cirki |
-| serĉi | kveri |
-
-<!--v-->
-
-#### Grekaj Vortoj
 
 <!--v-->
 
@@ -202,21 +185,6 @@ Note:
 | eĥo | eĥo |
 | kemio | ĥemio |
 | mekaniko | meĥaniko |
-
-<!--v-->
-
-##### o ←→ u
-
-<!-- Tiaj ĉi ŝajn-ĉapitreroj estas anstataŭendaj per priskribaj/enkondukaj frazoj. -->
-
-<!--v-->
-
-| Esperanto | Speranto |
-|-|-|
-| prononci | pronunci |
-| mondo | mundo |
-| | |
-| tuta | tota |
 
 <!--v-->
 
@@ -537,22 +505,33 @@ Note:
 
 <!--v-->
 
-<small>En poezio, oni povas ellasi la finaĵon *-o* de substantivoj kaj la finaĵon *-j* de adjektivoj. Tiam *-oj* fariĝas *-i*.</small>
+### Substantivoj
+
+<!--v-->
+
+<small>En poezio, oni povas ellasi la finaĵon *-o* de substantivoj. Tiam *-oj* fariĝas *-i*.</small>
 
 <!--v-->
 
 | Esperanto | Speranto |
 |-|-|
-| bona amiko | bona amiko <small>bona amîk</small> |
-| bonaj amikoj | bonaj amikoj <small>bôna amîki</small> |
-
-<!--v-->
-
-### Substantivoj
+| amiko | amiko <small>amík</small> |
+| amikoj | amikoj <small>amîki</small> |
 
 <!--v-->
 
 ### Adjektivoj
+
+<!--v-->
+
+<small>En poezio, oni povas ellasi la finaĵon *-j* de adjektivoj.</small>
+
+<!--v-->
+
+| Esperanto | Speranto |
+|-|-|
+| bona amiko | bona amiko <small>bona amík</small> |
+| bonaj amikoj | bonaj amikoj <small>bôna amîki</small> |
 
 <!--v-->
 
@@ -3340,3 +3319,8 @@ Duoblaj vokaloj en finaĵoj estas skribataj kun makrono.
 <!-- Multa enhavo el t.n. "Prononco" estas distribuenda inter la vortspecaj ĉapitreroj. -->
 
 <!-- La ĉapitrero "Prononco" eble estas ellasebla. -->
+
+<!-- La ĉapitro "Esperanto" povas resti tute malplena. -->
+
+<!-- Ŝajn-ĉapitreroj estas anstataŭendaj per priskribaj/enkondukaj frazoj. -->
+
