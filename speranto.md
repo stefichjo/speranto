@@ -153,6 +153,8 @@ Note:
 |-|-|
 | aperi *(angle: appear)* | apari |
 | ĉeno *(angle: chain)* | kateno |
+| riĉa *(angle: rich)* | rika |
+| savi *(angle: save)* | salvi |
 
 <!--v-->
 
@@ -165,6 +167,8 @@ Note:
 | birdo *(angle: bird)* | fuglo |
 | serĉi *(angle: search)* | kveri |
 | ŝtato *(germane: Staat)* | stato |
+| tago *(germane: Tag)* | dago |
+| trinki *(germane: trinken)* | drinki |
 | vorto *(germane: Wort)* | vordo |
 
 <!--v-->
@@ -246,6 +250,8 @@ Note:
 | okazo | okazjo |
 | propra | proprja |
 
+<!--v-->
+
 <small>Radikofine, asimiliĝinta latin-devena *i* reaperas.</small>
 
 <!--v-->
@@ -314,10 +320,6 @@ Note:
 |-|-|
 | ĉarmo *(internacie + france: charme)* | ŝarmo |
 | ĉe *(france: chez)* | ŝe |
-| formaĝo *(itale: formaggio)* | fromaĵo |
-| | |
-| ĝiri | ĵiri |
-| manĝi | manĵi |
 
 <!--v-->
 
@@ -373,7 +375,7 @@ Note:
 
 <!--v-->
 
-<small>La ŝajnfinaĵo *-ul-* kombine kun la ŝajnfinaĵo *-acj-* estas anstataŭebla per la sufikso *-um-*.</small>
+<small>La ŝajnfinaĵo *-acj-* malantaŭ la ŝajnfinaĵo *-ul-* estas anstataŭebla per la sufikso *-um-*.</small>
 
 <!--v-->
 
@@ -604,46 +606,19 @@ Note:
 
 <!--v-->
 
-### Signifaj Vortoj
-
-<!--v-->
-
-#### Ĝermanaj Vortoj
-
-<!--v-->
-
 | Esperanto | Peranto |
 |-|-|
-| tago | dio <small>(Speranto: dago)</small> |
-| trinki | bibi <small>(Speranto: drinki)</small> |
+| tago | dio |
+| trinki | bibi |
 | flanko | lato |
 | helpi | adjuvi |
-| savi | salvi |
 | ŝajni | simbli |
-
-<!--v-->
-
-<small>Kvankam *riĉa* estas origine ĝermana vorto, ĝi aperas en ĉiuj latinidaj lingvoj kaj tial kalkuliĝas kiel latinida vorto.</small>
-
-<!--v-->
-
-| Esperanto | Peranto |
-|-|-|
-| riĉa | rika |
-
-<!--v-->
-
-#### Latinaj Vortoj
 
 <!--v-->
 
 | Esperanto | Peranto |
 |-|-|
 | scii | sabi |
-
-<!--v-->
-
-#### Fremdaj Vortoj
 
 <!--v-->
 
@@ -774,25 +749,16 @@ Note:
 
 > **Se ni etja supponon, qŭe<br> la fina linguo de las essontas<br> generatios essas nên Speranto, in<br> omna occasio la vio ad tu<br> ellavorota linguo infallible<br> devan conduci trans Speranto.**
 
-<!--v-->
-
-## Intera Fazo:<br> **Linguo**
-
-> Se ni eĉa suponon, ke<br> la fina liŋgŭo de las esontas<br> ĵenerasjos esas nen Speranto, in<br> omna okazjo la vio ad tu<br> ellavorota liŋgŭo infalible<br> devan kondusi trans Speranto.
+Note:
+* Se ni eĉa suponon, ke<br> la fina liŋgŭo de las esontas<br> ĵenerasjos esas nen Speranto, in<br> omna okazjo la vio ad tu<br> ellavorota liŋgŭo infalible<br> devan kondusi trans Speranto.
 
 <!--v-->
 
-**Linguo** estas **Peranto** kun etimologia ortografio kaj latinida prononco.
-
-Multajn vortojn oni povas skribi en eĉ pli etimologia stilo, kaj oni povas uzi malpli ambiguan prononcon tra bruo.
+<small>**ce** kaj **ci** prononciĝas *[se]* kaj *[si]* (tra bruo: *[ce]* kaj *[ci]*), dum **ca**, **co** kaj **cu** prononciĝas kun *[k]*. Por *[sa]*, *[so]* kaj *[su]* (tra bruo: *[ca]*, *[co]* kaj *[cu]*), skribiĝas **ça**, **ço** kaj **çu**. Por *[ke]* kaj *[ki]* skribiĝas **qŭe** kaj **qŭi**.</small>
 
 <!--v-->
 
 ### Prononco
-
-<!--v-->
-
-#### c
 
 <!--v-->
 
@@ -801,16 +767,14 @@ Multajn vortojn oni povas skribi en eĉ pli etimologia stilo, kaj oni povas uzi 
 | amiko | **amico** *[amiko]* |
 | amike | **amiqŭe** *[amike]* |
 | | |
-| paco | **pazo** *[paso]* <small>*[paco]*</small> |
+| paco | **paço** *[paso]* <small>*[paco]*</small> |
 | pace | **pace** *[pase]* <small>*[pace]*</small> |
 | | |
-| teraso | **terraço** *[teraso]* <small>*[teraco]*</small> |
-| | |
-| akvo | **aquo** *[akŭo]* <small>*[aku-o]*</small> |
+| teraso | **terraço** *[teraso]* <small>**terracĭo** *[teraci-o]*</small> |
 
 <!--v-->
 
-#### g
+<small>**ge** kaj **gi** prononciĝas *[ĵe]* kaj *[ĵi]* (tra bruo: *[dze]* kaj *[dzi]*), dum **ga**, **go** kaj **gu** prononciĝas kun *[g]*. Por *[ĵa]*, *[ĵo]* kaj *[ĵu]* (tra bruo: *[dza]*, *[dzo]* kaj *[dzu]*), skribiĝas **ja**, **jo** kaj **ju**. Por *[ge]* kaj *[gi]* skribiĝas **gŭe** kaj **gŭi**.</small>
 
 <!--v-->
 
@@ -822,13 +786,25 @@ Multajn vortojn oni povas skribi en eĉ pli etimologia stilo, kaj oni povas uzi 
 | leĝo | **lejo** *[leĵo]* <small>*[ledzo]*</small> |
 | leĝe | **lege** *[leĵe]* <small>*[ledze]*</small> |
 | | |
-| plaĝo | **plajo** <small>**plagĭo**</small> *[plaĵo]* <small>*[pladzo]*</small> |
+| plaĝo | **plajo** *[plaĵo]* <small>**plagĭo** *[pladzi-o]*</small> |
+
+<!--v-->
+
+<small>Antaŭ vokalo, **qu** kaj **gu** prononciĝas kun *[ŭ]* (tra bruo: (ne-akcentata) *[u]*).</small>
+
+<!--v-->
+
+
+| Esperanto | Linguo |
+|-|-|
+| | |
+| akvo | **aquo** *[akŭo]* <small>*[aku-o]*</small> |
 | | |
 | lingvo | **linguo** *[liŋgŭo]* <small>*[lingu-o]*</small> |
 
 <!--v-->
 
-#### t
+<small>**tĭ** prononciĝas *[sj]* (tra bruo: *[ŧi]*). **tĕ** skribiĝas **ç** kaj prononciĝas *[s]* (tra bruo: *[ŧe]*).</small>
 
 <!--v-->
 
@@ -836,7 +812,7 @@ Multajn vortojn oni povas skribi en eĉ pli etimologia stilo, kaj oni povas uzi 
 |-|-|
 | spaco | **spatĭo** *[spasjo]* <small>*[spaŧi-o]*</small> |
 | | |
-| placo | **plaço** <small>**platĕo**</small> *[plaso]* <small>*[plaŧo]*</small> |
+| placo | **plaço** <small>**platĕo**</small> *[plaso]* <small>*[plaŧe-o]*</small> |
 
 <!--v-->
 
@@ -846,11 +822,11 @@ Multajn vortojn oni povas skribi en eĉ pli etimologia stilo, kaj oni povas uzi 
 
 | Esperanto | Linguo |
 |-|-|
-| beleco | **belleço** <small>**belletĕo**</small> *[beleso]* <small>*[beleŧo]*</small> |
+| beleco | **belleço** <small>**belletĕo**</small> *[beleso]* <small>*[beleŧe-o]*</small> |
 
 <!--v-->
 
-#### d
+<small>**dĭ** skribiĝas **j** kaj prononciĝas *[ĵ]* (tra bruo: *[đi]*).</small>
 
 <!--v-->
 
@@ -860,7 +836,7 @@ Multajn vortojn oni povas skribi en eĉ pli etimologia stilo, kaj oni povas uzi 
 
 <!--v-->
 
-#### b/v
+<small>Radikofina **b** skribiĝas **v** kaj prononciĝas *[v]* (tra bruo: *[b]*).  **bĕ** skribiĝas **j** kaj prononciĝas *[ĵ]* (tra bruo: *[ƀe]*).</small>
 
 <!--v-->
 
@@ -868,11 +844,11 @@ Multajn vortojn oni povas skribi en eĉ pli etimologia stilo, kaj oni povas uzi 
 |-|-|
 | skribi | **scrivi** <small>**scribi**</small> *[skrivi]* <small>*[skribi]*</small> |
 | | |
-| ruĝa | **rujo** <small>**rubĕo**</small> *[ruĵo]* <small>*[ruƀi-o]*</small> |
+| ruĝa | **rujo** <small>**rubĕo**</small> *[ruĵo]* <small>*[ruƀe-o]*</small> |
 
 <!--v-->
 
-#### j/i
+<small>Postvokala **i** prononciĝas *[j]*. Komence de radiko, **i** skribiĝas **j** kaj prononciĝas *[ĵ]* (tra bruo: *[j]*).</small>
 
 <!--v-->
 
@@ -880,21 +856,17 @@ Multajn vortojn oni povas skribi en eĉ pli etimologia stilo, kaj oni povas uzi 
 |-|-|
 | majo | **maio** *[majo]* |
 | | |
-| justa | **justa** *[ĵusta]* <small>*[justa]*</small> |
+| justa | **justa** *[ĵusta]* <small>**iusta** *[justa]*</small> |
 
 <!--v-->
 
-#### v/u
+<small>Radikofine, **u** skribiĝas **v** malantaŭ **l** kaj prononciĝas *[v]* (tra bruo: *[u]*).</small>
 
 <!--v-->
 
 | Esperanto | Linguo |
 |-|-|
-| evolui | **evolvi** *[evolvi]* <small>*[evolu-i]*</small> |
-
-<!--v-->
-
-#### Ŝajnsufiksoj
+| evolui | **evolvi** *[evolvi]* <small>**evolui** *[evolu-i]*</small> |
 
 <!--v-->
 
@@ -914,11 +886,6 @@ Multajn vortojn oni povas skribi en eĉ pli etimologia stilo, kaj oni povas uzi 
 | | |
 | regulo | **regŭlo**  *[regu-lo]* |
 
-
-<!--v-->
-
-#### nc/ng
-
 <!--v-->
 
 <small>En **nc** (**nqŭ**) kaj **ng**, **n** prononciĝas *[ŋ]*.</small>
@@ -931,7 +898,7 @@ Multajn vortojn oni povas skribi en eĉ pli etimologia stilo, kaj oni povas uzi 
 
 <!--v-->
 
-#### Duoblaj Konsonantoj
+<small>Duoblaj konsonantoj prononciĝas unuoble.</small>
 
 <!--v-->
 
@@ -943,7 +910,7 @@ Multajn vortojn oni povas skribi en eĉ pli etimologia stilo, kaj oni povas uzi 
 
 <!--v-->
 
-#### ss, s
+<small></small>
 
 <!--v-->
 
@@ -1148,6 +1115,19 @@ Multajn vortojn oni povas skribi en eĉ pli etimologia stilo, kaj oni povas uzi 
 
 <!--v-->
 
+| Esperanto | Linguo |
+|-|-|
+| ŝi(a) | **elli(a)** *[eli(-a)]* |
+| li(a) | **olli(a)** *[oli(-a)]* |
+| ri(a) | **ulli(a)** *[uli(-a)]* |
+| ĝi(a)/li(a) | **li(a)** |
+| | |
+| ili(a) | **illi(a)** *[ili(-a)]* |
+| | |
+| si(a) | **si(a)** |
+
+<!--v-->
+
 ### Verboj
 
 <!--v-->
@@ -1190,11 +1170,8 @@ Tra bruo, la prepozicio **a** uziĝas por la indiki la rektan objekton. (Tiam uz
 
 > **Si nu etja supponon, qŭe<br> la fina lingue de las essontas<br> generaties essan nôn Sperante, in<br> omna occasie la vie ad ti<br> ellavorota lingue infalliblo<br> devan conduzu trans Sperante.**
 
-<!--v-->
-
-## Intera Fazo:<br> **Lingue**
-
-> Si nu eĉa suponon, ke<br> la fina liŋgŭe de las esontas<br> ĵenerasjes esan non Sperante, in<br> omna okazje la vie ad ti<br> ellavorota liŋgŭe infaliblo<br> devan kondusu trans Sperante.
+Note:
+* Si nu eĉa suponon, ke<br> la fina liŋgŭe de las esontas<br> ĵenerasjes esan non Sperante, in<br> omna okazje la vie ad ti<br> ellavorota liŋgŭe infaliblo<br> devan kondusu trans Sperante.
 
 <!--v-->
 
@@ -1274,24 +1251,24 @@ Tra bruo, la prepozicio **a** uziĝas por la indiki la rektan objekton. (Tiam uz
 
 | Esperanto | Lingue |
 |-|-|
-| ŝi | **ellu** |
-| li | **ollu** |
-| ri | **ullu** |
-| ĝi/li | **lu** |
+| ŝi(a) | **ellu(a)** |
+| li(a) | **ollu(a)** |
+| ri(a) | **ullu(a)** |
+| ĝi(a)/li(a) | **lu(a)** |
 | | |
-| ili | **illu** |
+| ili(a) | **ilu(a)** |
 | | |
-| si | **su** |
+| si(a) | **su(a)** |
 
 <!--v-->
 
 | Esperanto | Lingue |
 |-|-|
-| mi | **mu** |
-| ci | **tu** |
+| mi(a) | **mu(a)** |
+| ci(a) | **tu(a)** |
 | | |
-| ni | **nu** |
-| vi | **vu** |
+| ni(a) | **nu(a)** |
+| vi(a) | **vu(a)** |
 
 <!--v-->
 
@@ -1307,11 +1284,7 @@ Tra bruo, la prepozicio **a** uziĝas por la indiki la rektan objekton. (Tiam uz
 
 > **Si nos etja supponerá, qŭe<br> la lingua finale de las futuras<br> generatios sîa nôn Sperante, in<br> omna occasio la via ad illi<br> elavorenda lingua infallibilmente<br> deve conducér trans Sperante.**
 
-<!--v-->
-
-## Intera Fazo:<br> **Lingua**
-
-> Si nos eĉa suponera', ke<br> la liŋgŭa finale de las futuras<br> ĵenerasjos sia non Sperante, in<br> omna okazjo la via ad ili<br> elavorenda liŋgŭa infalibilmente<br> deve konduser' trans Sperante.
+* Si nos eĉa suponera', ke<br> la liŋgŭa finale de las futuras<br> ĵenerasjos sia non Sperante, in<br> omna okazjo la via ad ili<br> elavorenda liŋgŭa infalibilmente<br> deve konduser' trans Sperante.
 
 <!--v-->
 
@@ -1714,7 +1687,7 @@ La grekismaj ŝajnfinaĵoj **-i**, **-ia** *[ia]*, **-a**, **-e** havas signifoj
 | | |
 | iras | **vâ** <small>**vade**</small> |
 | iris | **îa** <small>**iva**</small> |
-| iros | **irâ** |
+| iros | **irá** |
 | | |
 | (ke) iru | **vadea** |
 | irus | **iría** |
@@ -1741,11 +1714,7 @@ La grekismaj ŝajnfinaĵoj **-i**, **-ia** *[ia]*, **-a**, **-e** havas signifoj
 
 > **Si nos etja supporêmos, qŭe<br> la lingua finál de las futuras<br> generationes sîa nôn Sperante, in<br> omna occasión la via ad illi<br> elavorenda lingua infallivilmente<br> deve condûr trans Sperante.**
 
-<!--v-->
-
-## Fleksia Fazo:<br> **Meridionál**
-
-> Si nos eĉa suporemos, ke<br> la liŋgŭa finaŭ' de las futuras<br> ĵenerasjones sia non Sperante, in<br> omna okazjon' la via ad ili<br> elavorenda liŋgŭa infaliviŭmente<br> deve kondur' trans Sperante.
+* Si nos eĉa suporemos, ke<br> la liŋgŭa finaŭ' de las futuras<br> ĵenerasjones sia non Sperante, in<br> omna okazjon' la via ad ili<br> elavorenda liŋgŭa infaliviŭmente<br> deve kondur' trans Sperante.
 
 <!--v-->
 
@@ -1994,11 +1963,7 @@ La grekismaj ŝajnfinaĵoj **-i**, **-ia** *[ia]*, **-a**, **-e** havas signifoj
 
 > **Si nos etja supponerêmos, qŭe<br> la lingua finál de las futuras<br> generationes sîa nôn Sperante, in<br> omna occasión la via ad illi<br> elavorenda lingua infallibilmente<br> deve conducér trans Sperante.**
 
-<!--v-->
-
-## Fleksia Fazo:<br> **Intermediaria**
-
-> Si nos eĉa suponeremos, ke<br> la liŋgŭa final' de las futuras<br> ĵenerasjones sia non Sperante, in<br> omna okazjon' la via ad illi<br> elavorenda liŋgŭa infalibilmente<br> deve konduser' trans Sperante.
+* Si nos eĉa suponeremos, ke<br> la liŋgŭa final' de las futuras<br> ĵenerasjones sia non Sperante, in<br> omna okazjon' la via ad illi<br> elavorenda liŋgŭa infalibilmente<br> deve konduser' trans Sperante.
 
 <!--v-->
 
@@ -2580,11 +2545,7 @@ Por la perfektaj formoj de **îr** uziĝas la verbo **sêr**.
 
 > **Si nos etiam supponerabemus, qŭe<br> la lingua finale de las futuras<br> generationes sîat nôn Sperante, in<br> omna occasione la via ad illi<br> elaborenda lingua infallibilemente<br> debet conducĕre trans Sperante.**
 
-<!--v-->
-
-## Fleksia Fazo:<br> **Classĭca**
-
-> Si nos eti-am supponerabemus, ke<br> la liŋgu-a finale de las futuras<br> generationes siat non Sperante, in<br> omna okkasione la via ad illi<br> elaborenda liŋgu-a infallibilemente<br> debet konduke-re trans Sperante.
+* Si nos eti-am supponerabemus, ke<br> la liŋgu-a finale de las futuras<br> generationes siat non Sperante, in<br> omna okkasione la via ad illi<br> elaborenda liŋgu-a infallibilemente<br> debet konduke-re trans Sperante.
 
 <!--v-->
 
@@ -3270,3 +3231,8 @@ Duoblaj vokaloj en finaĵoj estas skribataj kun makrono.
 
 <!-- | partio *(france: parti)* | -->
 
+<!-- | formaĝo *(itale: formaggio)* | fromaĵo | -->
+
+<!-- | ĝiri | ĵiri | -->
+
+<!-- | manĝi | manĵi | -->
