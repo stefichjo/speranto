@@ -72,14 +72,31 @@ Note:
 ###### **Esperanto**
 ###### **Speranto**
 ###### **Peranto**
+
+<small>**Esperanto**, **Speranto** kaj **Peranto** havas ĝerman-slavajn prononcon kaj ortografion. Dum **Esperanto** havas multajn naciismojn, **Speranto** preferas etimologie neŭtralajn formojn. Ekzemple, *esperi* en **Esperanto** estas simila al la hispana, portugala kaj franca formoj, dum en **Speranto** preferiĝas *speri*, kiu estas pli simila al la itala, rumana kaj latina formoj. **Speranto** tamen retenas neologismojn kiel *ĉarmo* (h-sisteme: *charmo*) kaj funkciajn vortojn kiel *ĉe* (h-sisteme: *che*), malgraŭ en pli konservema prononco: *ŝarmo* kaj *ŝe* (el la franca: *charme* kaj *chez*). **Peranto** havas etimologie neŭtralajn latinidajn vortojn. Ekzemple, *ĉe* en **Esperanto** estas *proksime de* en **Peranto**.</small>
+
+<!--v-->
+
 ##### Intera Fazo
 ###### **Linguo**
 ###### **Lingue**
 ###### **Lingua**
+
+<small>**Linguo**, **Lingue** kaj **Lingua** havas latinidajn prononcon kaj ortografion.</small>
+
+<!-- (La prononco de la radikoj povas ŝanĝiĝi, dum ilia skribo restas senŝanĝa.) -->
+
+<!--v-->
+
 ##### Fleksia Fazo
 ###### **Meridionál**
 ###### **Intermediaria**
 ###### **Classĭca**
+
+<small>**Meridionál**, **Intermediaria** kaj **Classĭca** havas nov-latinidan, latinidan respektive latinan prononcojn.</small>
+
+<small>**Meridionál** estas gramatike identa al [**Intermediaria**](#intermediaria). Ĝi tamen havas diversan prononcon.</small>
+
 
 <!--v-->
 
@@ -104,10 +121,6 @@ Note:
 
 > Se ni eĉ supozos, ke<br> la fina lingvo de la estontaj<br> generacioj estas ne Esperanto, en<br> ĉia okazo la vojo al tiu<br> ellaborota lingvo nepre<br> devas konduki tra Esperanto.
 
-<!--v-->
-
-<small>**Esperanto** havas pli-malpli slav-ĝermanan prononcon. Ĝi havas naciismojn kaj por funkciaj vortoj (prepozicioj, konjunkcioj, sufiksoj) kaj por signifaj vortoj (o-vortoj, a-vortoj, verboj).</small>
-
 <!--s-->
 
 ## Aglutina Fazo:<br> **Speranto**
@@ -116,13 +129,12 @@ Note:
 
 <!--v-->
 
-<small>Preferiĝas etimologie neŭtralaj formoj. Ekzemple, anstataŭ la specife franc-devena formo *prononci* estas la formo *pronunci*, kiu estas pli simila al la itala, hispana, portugala, rumana kaj latina formoj.</small>
-
-<!--v-->
-
 | Esperanto | Speranto |
 |-|-|
-| mondo *(france: monde)* | mundo |
+| esperi *(france: espérer, ibere: esperar)* | speri |
+| esti *(france: être, ibere: estar)* | esi |
+| konduto *(france: conduite)* | kondukto |
+| mondo *(france: monde, itale: mondo)* | mundo |
 | prononci *(france: prononcer)* | pronunci |
 | supozi *(france: supposer)* | suponi |
 | tuta *(france: toute, itale: tutta)* | tota |
@@ -137,15 +149,7 @@ Note:
 | dolĉa *(itale: dolce)* | dulca |
 | esplori *(itale: esplorare)* | eksplori |
 | leĝo *(itale: legge)* | lekso |
-| reĝo *(itale: re)* | rekso |
 | voĉo *(itale: voce)* | voco |
-
-<!--v-->
-
-| Esperanto | Speranto |
-|-|-|
-| esperi *(hispane, portugale: esperar)* | speri |
-| esti *(hispane, portugale: estar)* | esi |
 
 <!--v-->
 
@@ -165,6 +169,11 @@ Note:
 | Esperanto | Speranto |
 |-|-|
 | birdo *(angle: bird)* | fuglo |
+
+<!--v-->
+
+| Esperanto | Speranto |
+|-|-|
 | serĉi *(angle: search)* | kveri |
 | ŝtato *(germane: Staat)* | stato |
 | tago *(germane: Tag)* | dago |
@@ -197,6 +206,11 @@ Note:
 | Esperanto | Speranto |
 |-|-|
 | biero *(germane + nederlande: bier)* | biro |
+
+<!--v-->
+
+| Esperanto | Speranto |
+|-|-|
 | boato *(angle: boat)* | bejto |
 | teamo *(angle: team)* | tomo |
 | | |
@@ -208,6 +222,7 @@ Note:
 
 | Esperanto | Speranto |
 |-|-|
+| ĉu *(pole: czy)* | ĉi |
 | poŝto *(internacie: post + pole: poczta)* | poĉto |
 
 <!--v-->
@@ -259,7 +274,11 @@ Note:
 | Esperanto | Speranto |
 |-|-|
 | rilato | relacjo |
-| | |
+
+<!--v-->
+
+| Esperanto | Speranto |
+|-|-|
 | kaĝo | kavjo |
 | ruĝa | rubja |
 
@@ -301,29 +320,21 @@ Note:
 
 <!--v-->
 
-<small>Senfinaĵaj adverboj kaj prepozcioj ne bezonas esti etimologie neŭtraj.</small>
+<small>Senfinaĵaj adverboj, prepozcioj kaj neologismoj ne bezonas esti etimologie neŭtraj, sed ili prononco devas esti kohera.</small>
 
 <!--v-->
 
 | Esperanto | Speranto |
 |-|-|
-| ĉu *(pole: czy)* | ĉi |
 | ĵus *(france: juste)* | ĵust |
-
-<!--v-->
-
-<small>Neologismoj ne bezonas esti etimologie neŭtraj.</small>
-
-<!--v-->
-
-| Esperanto | Speranto |
-|-|-|
-| ĉarmo *(internacie + france: charme)* | ŝarmo |
+| | |
 | ĉe *(france: chez)* | ŝe |
+| | |
+| ĉarmo *(internacie + france: charme)* | ŝarmo |
 
 <!--v-->
 
-<small>Foje, la formo en **Esperanto** simple estas malregula.</small>
+<small>Foje, la formo en **Esperanto** simple estas malregula kaj fariĝas regula en **Speranto**.</small>
 
 <!--v-->
 
@@ -573,9 +584,9 @@ Note:
 | diri | dici |
 | fari | faci |
 | iri | vadi |
-| stari | sti`*` |
-
-<small>`*` Same *di* (Esperanto: *doni*) portas la akcenton sur la finaĵo: *di*, *das*, *dis*, *dos*, *dus*, *du*.</small>
+| stari | sti |
+| | |
+| doni | di |
 
 <!--v-->
 
@@ -599,10 +610,6 @@ Note:
 ## Aglutina Fazo:<br> **Peranto**
 
 > Se ni eĉam suponos, ke<br> la fina lingvo de la esontaj<br> generacjoj esas ne Speranto, in<br> omna okazjo la vio ad tu<br> ellaborota lingvo infalible<br> devas konduci trans Speranto.
-
-<!--v-->
-
-<small>**Peranto** havas precipe latinidajn vortojn.</small>
 
 <!--v-->
 
@@ -712,25 +719,13 @@ Note:
 | Esperanto | Peranto |
 |-|-|
 | kun | kon |
-
-<!--v-->
-
-| Esperanto | Peranto |
-|-|-|
+| | |
 | pri | de |
-
-<!--v-->
-
-| Esperanto | Peranto |
-|-|-|
-| krom | escepte de |
+| | |
+| sur | super |
+| | |
+| krom | ekscepte de |
 | apud | late de |
-
-<!--v-->
-
-| Esperanto | Peranto |
-|-|-|
-| sur ≠ super | super |
 
 <!--v-->
 
@@ -842,9 +837,9 @@ Note:
 
 | Esperanto | Linguo |
 |-|-|
-| skribi | **scrivi** <small>**scribi**</small> *[skrivi]* <small>*[skribi]*</small> |
+| skribi | **scrivi** *[skrivi]* <small>**scribi** *[skribi]*</small> |
 | | |
-| ruĝa | **rujo** <small>**rubĕo**</small> *[ruĵo]* <small>*[ruƀe-o]*</small> |
+| ruĝa | **rujo**  *[ruĵo]* <small>**rubĕo** *[ruƀe-o]*</small> |
 
 <!--v-->
 
@@ -907,10 +902,6 @@ Note:
 | tero | **terro** *[tero]* |
 | | |
 | ili | **illi** *[ili]* |
-
-<!--v-->
-
-<small></small>
 
 <!--v-->
 
@@ -1284,6 +1275,7 @@ Note:
 
 > **Si nos etja supponerá, qŭe<br> la lingua finale de las futuras<br> generatios sîa nôn Sperante, in<br> omna occasio la via ad illi<br> elavorenda lingua infallibilmente<br> deve conducér trans Sperante.**
 
+Notes:
 * Si nos eĉa suponera', ke<br> la liŋgŭa finale de las futuras<br> ĵenerasjos sia non Sperante, in<br> omna okazjo la via ad ili<br> elavorenda liŋgŭa infalibilmente<br> deve konduser' trans Sperante.
 
 <!--v-->
@@ -1714,11 +1706,8 @@ La grekismaj ŝajnfinaĵoj **-i**, **-ia** *[ia]*, **-a**, **-e** havas signifoj
 
 > **Si nos etja supporêmos, qŭe<br> la lingua finál de las futuras<br> generationes sîa nôn Sperante, in<br> omna occasión la via ad illi<br> elavorenda lingua infallivilmente<br> deve condûr trans Sperante.**
 
+Notes:
 * Si nos eĉa suporemos, ke<br> la liŋgŭa finaŭ' de las futuras<br> ĵenerasjones sia non Sperante, in<br> omna okazjon' la via ad ili<br> elavorenda liŋgŭa infaliviŭmente<br> deve kondur' trans Sperante.
-
-<!--v-->
-
-<small>**Meridionál** estas gramatike identa al [**Intermediaria**](#intermediaria). Ĝi tamen havas diversan prononcon.</small>
 
 <!--v-->
 
@@ -1963,6 +1952,7 @@ La grekismaj ŝajnfinaĵoj **-i**, **-ia** *[ia]*, **-a**, **-e** havas signifoj
 
 > **Si nos etja supponerêmos, qŭe<br> la lingua finál de las futuras<br> generationes sîa nôn Sperante, in<br> omna occasión la via ad illi<br> elavorenda lingua infallibilmente<br> deve conducér trans Sperante.**
 
+Notes:
 * Si nos eĉa suponeremos, ke<br> la liŋgŭa final' de las futuras<br> ĵenerasjones sia non Sperante, in<br> omna okazjon' la via ad illi<br> elavorenda liŋgŭa infalibilmente<br> deve konduser' trans Sperante.
 
 <!--v-->
@@ -2545,6 +2535,7 @@ Por la perfektaj formoj de **îr** uziĝas la verbo **sêr**.
 
 > **Si nos etiam supponerabemus, qŭe<br> la lingua finale de las futuras<br> generationes sîat nôn Sperante, in<br> omna occasione la via ad illi<br> elaborenda lingua infallibilemente<br> debet conducĕre trans Sperante.**
 
+Notes:
 * Si nos eti-am supponerabemus, ke<br> la liŋgu-a finale de las futuras<br> generationes siat non Sperante, in<br> omna okkasione la via ad illi<br> elaborenda liŋgu-a infallibilemente<br> debet konduke-re trans Sperante.
 
 <!--v-->
