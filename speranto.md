@@ -73,7 +73,19 @@ Note:
 ###### **Speranto**
 ###### **Peranto**
 
-<small>**Esperanto**, **Speranto** kaj **Peranto** havas ĝerman-slavajn prononcon kaj ortografion. Dum **Esperanto** havas multajn naciismojn, **Speranto** preferas etimologie neŭtralajn formojn. Ekzemple, *esperi* en **Esperanto** estas simila al la hispana, portugala kaj franca formoj, dum en **Speranto** preferiĝas *speri*, kiu estas pli simila al la itala, rumana kaj latina formoj. **Speranto** tamen retenas neologismojn kiel *ĉarmo* (h-sisteme: *charmo*) kaj funkciajn vortojn kiel *ĉe* (h-sisteme: *che*), malgraŭ en pli konservema prononco: *ŝarmo* kaj *ŝe* (el la franca: *charme* kaj *chez*). **Peranto** havas etimologie neŭtralajn latinidajn vortojn. Ekzemple, *ĉe* en **Esperanto** estas *proksime de* en **Peranto**.</small>
+<!--v-->
+
+<small>**Esperanto**, **Speranto** kaj **Peranto** havas ĝerman-slavajn prononcon kaj ortografion. Dum **Esperanto** havas multajn naciismojn, **Speranto** preferas etimologie neŭtralajn formojn. Ekzemple, *esperi* en **Esperanto** estas simila al la hispana, portugala kaj franca formoj, dum en **Speranto** preferiĝas *speri*, kiu estas pli simila al la itala, rumana kaj latina formoj. **Speranto** tamen retenas internaciismojn kiel *ĉarma* kaj neologismajn prepoziciojn kiel *ĉe*, malgraŭ en pli konservema prononco: *ŝarma* kaj *ŝe*. **Peranto** retenas nur internaciismojn, do anstataŭ *ĉe* respektive *ŝe* ĝi havas *proksime de*.</small>
+
+<!--v-->
+
+| Esperanto | Speranto | Peranto |
+|-|-|-|
+| esperi | speri | = |
+| | | |
+| ĉarma | ŝarma | = |
+| | | |
+| ĉe | ŝe | proksime de |
 
 <!--v-->
 
@@ -82,9 +94,15 @@ Note:
 ###### **Lingue**
 ###### **Lingua**
 
-<small>**Linguo**, **Lingue** kaj **Lingua** havas latinidajn prononcon kaj ortografion.</small>
+<!--v-->
 
-<!-- (La prononco de la radikoj povas ŝanĝiĝi, dum ilia skribo restas senŝanĝa.) -->
+<small>**Linguo**, **Lingue** kaj **Lingua** havas latinidajn prononcon kaj ortografion. Ili havas draste diversajn finaĵojn (evidente).</small>
+
+<!--v-->
+
+| Esperanto | Linguo |
+|-|-|
+| lingvo | **linguo** *[liŋgŭo]* |
 
 <!--v-->
 
@@ -93,10 +111,15 @@ Note:
 ###### **Intermediaria**
 ###### **Classĭca**
 
-<small>**Meridionál**, **Intermediaria** kaj **Classĭca** havas nov-latinidan, latinidan respektive latinan prononcojn.</small>
+<!--v-->
 
-<small>**Meridionál** estas gramatike identa al [**Intermediaria**](#intermediaria). Ĝi tamen havas diversan prononcon.</small>
+<small>**Meridionál**, **Intermediaria** kaj **Classĭca** havas nov-latinidan, latinidan respektive latinan prononcojn. (**Meridionál** kaj **Intermediaria** havas diferencojn nur en la prononco.) Ili havas konjugacion kaj tial ili estas tre similaj al latinidaj naciaj lingvoj, respektive al la latina.</small>
 
+<!--v-->
+
+| Meridionál | Intermediaria | Classĭca |
+|-|-|-|
+| **hêmos** *[emos]* | **hêmos** *[hemos]* | **habemus** *[habemus]* |
 
 <!--v-->
 
@@ -2346,7 +2369,7 @@ Notes:
 | ci amintas | **hâs amado** <small>**amâste**</small> |
 | li amintas | **hâ amado** <small>**amáu**</small> |
 | | |
-| ni amintas | **hêmos amado** <small>**amâmo**</small> |
+| ni amintas | **hêmos amado** <small>**amâmos**</small> |
 | vi amintas | **héis amado** <small>**amâstes**</small> |
 | ili amintas | **hân amado** <small>**amâron**</small> |
 
