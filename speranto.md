@@ -1182,7 +1182,7 @@ Tra bruo, la prepozicio **a** uziĝas por la indiki la rektan objekton. (Tiam uz
 
 ## Intera Fazo:<br> **Lingue**
 
-> **Si nu etja supponon, qŭe<br> la fina lingue de las essontas<br> generaties essan nôn Sperante, in<br> omna occasie la vie ad ti<br> ellavorota lingue infalliblo<br> devan conduzu trans Sperante.**
+> **Si nu etja supponon, qŭe<br> la fina lingue de las essontas<br> generaties essan nôn Sperante, in<br> omna occasie la vie ad ti<br> ellavorota lingue infalliblo<br> devan conduçu trans Sperante.**
 
 Note:
 * Si nu eĉa suponon, ke<br> la fina liŋgŭe de las esontas<br> ĵenerasjes esan non Sperante, in<br> omna okazje la vie ad ti<br> ellavorota liŋgŭe infaliblo<br> devan kondusu trans Sperante.
@@ -3152,7 +3152,7 @@ Duoblaj vokaloj en finaĵoj estas skribataj kun makrono.
 
 <!--v-->
 
-| Esperanto | Intermediaria |
+| Esperanto | Classĭca |
 |-|-|
 | mi estintas | **fuī** |
 | ci estintas | **fuisti** |
@@ -3164,7 +3164,7 @@ Duoblaj vokaloj en finaĵoj estas skribataj kun makrono.
 
 <!--v-->
 
-| Esperanto | Intermediaria |
+| Esperanto | Classĭca |
 |-|-|
 | mi estintis | **fueram** |
 | ci estintis | **fueras** |
@@ -3176,7 +3176,7 @@ Duoblaj vokaloj en finaĵoj estas skribataj kun makrono.
 
 <!--v-->
 
-| Esperanto | Intermediaria |
+| Esperanto | Classĭca |
 |-|-|
 | (ke) mi estintas | **fuerem** |
 | (ke) ci estintas | **fueres** |
@@ -3188,7 +3188,7 @@ Duoblaj vokaloj en finaĵoj estas skribataj kun makrono.
 
 <!--v-->
 
-| Esperanto | Intermediaria |
+| Esperanto | Classĭca |
 |-|-|
 | (ke) mi estintis | **fuissem** |
 | (ke) ci estintis | **fuisses** |
