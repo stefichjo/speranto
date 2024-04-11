@@ -2705,7 +2705,8 @@ Notes:
 
 | Esperanto | Classĭca |
 |-|-|
-| Se ni eĉ supozos | **Si nos etiam supponerabemus** |
+| Se ni eĉ | **Si nos etiam** |
+| supozos | **supponerabemus** |
 | ke la fina lingvo | **qŭe la lingua finale** |
 | de la | **de las** |
 | estontaj generacioj | **futuras generationes** |

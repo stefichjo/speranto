@@ -9,7 +9,7 @@ revealOptions:
   controls: false
 ---
 
-<!-- cd ~/Git/speranto/ghermanaj; reveal-md frendly-inglish.md -w -->
+<!-- cd ~/Git/speranto/ghermanaj; reveal-md en-ortografio.md -w -->
 
 <!-- https://www.bl.uk/british-accents-and-dialects/articles/regional-voices-the-north-south-divide -->
 
