@@ -55,6 +55,15 @@ revealOptions:
 | | `ɐ` ᴘᴀʟᴍ ᴛʀᴀᴘ | |
 | | | |
 
+<!--v-->
+
+| | | |
+|-|:-:|-|
+| `i` ꜰʟᴇᴇᴄᴇ ᴋɪᴛ | | `u` ɢᴏᴏsᴇ ꜰᴏᴏᴛ |
+| `e̞` ꜰᴀᴄᴇ ᴅʀᴇss | | `o̞` ɢᴏᴀᴛ ʟᴏᴛ |
+| | (sᴛʀᴜᴛ)<br>`ɐ` ᴘᴀʟᴍ ᴛʀᴀᴘ | |
+| | | |
+
 Notes:
 o̞l hjumɐn biiŋz ɐr bo̞rn fri ɐnd ikwɐl in digniti ɐnd rɐjts. ðe̞ ɐr e̞ndɐwd wið rizɐn ɐnd ko̞nʃɐns ɐnd ʃud ɐkt tuwo̞rdz wɐn ɐnɐðe̞r in ɐ spirit ɐv brɐðe̞rhud.
 
@@ -511,8 +520,6 @@ Notes:
 | `ə` ʟᴇᴛᴛᴇʀ |
 | |
 
-<!--v-->
-
 ## Triphthongs
 
 <!--v-->
@@ -530,6 +537,9 @@ Notes:
 | `e̞ə` ʟᴀʏᴇʀ | | `ɑə` ꜰʟɪᴇʀ | | `o̞ə` ʟᴀᴡʏᴇʀ |
 | `əə` ʟᴏᴡᴇʀ | | `æə` ꜰʟᴏᴡᴇʀ | | |
 | | | | | |
+
+Notes:
+o̞ːl hjᵿwmən bɪjɪŋz ɑː bo̞ːn fɹ̠ʷɪj ənd ɪjkwəl ɪn dɪgnɪtɪj ənd ɹ̠ʷɑjts. ðe̞j ɑː ɹ̠ʷ əndæwd wɪð ɹ̠ʷɪjzən ənd kɒnʃəns ənd ʃᵿd ækt təwo̞ːdz wɐn ənɐðə ɹ̠ʷ ɪn ə spɪɹ̠ʷɪt əv bɹ̠ʷɐðəhᵿd.
 
 <!--s-->
 
@@ -660,6 +670,9 @@ Notes:
 | `ɛə` ʟᴀʏᴇʀ | | `ɑə` ꜰʟɪᴇʀ | | `oə` ʟᴀᴡʏᴇʀ |
 | `ɜː` ʟᴏᴡᴇʀ | | `aə` ꜰʟᴏᴡᴇʀ | | |
 | | | | | |
+
+Notes:
+oːl hjʉwmən bɪjɪŋz ɑː boːn fɹ̠ʷɪj ənd ɪjkwəl ɪn dɪgnɪtɪj ənd ɹ̠ʷɑjts. ðe̞j ɑː ɹ̠ʷ əndawd wɪð ɹ̠ʷɪjzən ənd kɔnʃəns ənd ʃɵd akt təwoːdz wɐn ənɐðə ɹ̠ʷ ɪn ə spɪɹ̠ʷɪt əv bɹ̠ʷɐðəhɵd.
 
 <!--s-->
 
