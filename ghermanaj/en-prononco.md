@@ -747,7 +747,7 @@ revealOptions:
 
 > All human beings are born free and equal in dignity and rights. They are endowed with reason and conscience and should act towards one another in a spirit of brotherhood.
 
-<small>`o̞ːl hjʊwmən bɪjɪŋz ɑː bɔːn fɹ̠ʷɪj ənd ɪjkwəl ɪn dɪgnɪtɪj ənd ɹ̠ʷɑjts. ðe̞j ɑː ɹ̠ʷ‿ɛndæwd wɪð ɹ̠ʷɪjzən ənd kɒnʃəns ənd ʃʊd ækt tʊwɔːdz wɐn ənɐðə ɹ̠ʷ‿ɪn ə spɪɹ̠ʷɪt əv bɹ̠ʷɐðəhʊd.`</small>
+<small>`o̞ːl hjʊwmən bɪjɪŋz ɑː bo̞ːn fɹ̠ʷɪj ənd ɪjkwəl ɪn dɪgnɪtɪj ənd ɹ̠ʷɑjts. ðe̞j ɑː ɹ̠ʷ‿ɛndæwd wɪð ɹ̠ʷɪjzən ənd kɒnʃəns ənd ʃʊd ækt tʊwo̞ːdz wɐn ənɐðə ɹ̠ʷ‿ɪn ə spɪɹ̠ʷɪt əv bɹ̠ʷɐðəhʊd.`</small>
 
 <!--s-->
 
@@ -788,13 +788,7 @@ revealOptions:
 
 <!--v-->
 
-> All human beings are born free and equal in dignity and rights. They are endowed with reason and conscience and should act towards one another in a spirit of brotherhood.
-
-`o̞ːl hjᵿwmən bɪjɪŋz ɑːɹ̠ʷ bo̞ɹ̠ʷn fɹ̠ʷɪj ənd ɪjkwəl ɪn dɪgnɪtɪj ənd ɹ̠ʷɑjts. ðe̞j ɑːɹ̠ʷ ɛndæwd wɪð ɹ̠ʷɪjzən ənd kɒnʃəns ənd ʃᵿd ækt tᵿwo̞ɹ̠ʷdz wɐn ənɐðəɹ̠ʷ ɪn ə spɪɹ̠ʷɪt əv bɹ̠ʷɐðəɹ̠ʷhᵿd.`
-
-<!--s-->
-
-## Splitting
+### Splitting
 
 <!--v-->
 
@@ -802,61 +796,14 @@ revealOptions:
 |-|
 | `æ` ᴛʀᴀᴘ |
 | `ɒ` ʟᴏᴛ |
-| `ᵿ` ꜰᴏᴏᴛ |
 | |
-
-<!--v-->
-
-| | |
-|-|-|
-| `æ` ᴛʀᴀᴘ | |
-| `ɒ` ʟᴏᴛ | |
-| `ᵿ` ꜰᴏᴏᴛ | `ᵿ` sᴛʀᴜᴛ |
-| |
-
-<!--v-->
-
-| | |
-|-|-|
-| `æ` ᴛʀᴀᴘ | |
-| `ɒ` ʟᴏᴛ | |
-| `ᵿ` ꜰᴏᴏᴛ | `ə` sᴛʀᴜᴛ |
-| | |
-
-<!--v-->
-
-| | |
-|-|-|
-| `æ` ᴛʀᴀᴘ | |
-| `ɒ` ʟᴏᴛ | |
-| `ᵿ` ꜰᴏᴏᴛ | `ɐ` sᴛʀᴜᴛ |
-| | |
-
-<!--v-->
-
-| | |
-|-|-|
-| `æ` ᴛʀᴀᴘ | |
-| `ɒ` ʟᴏᴛ | `ɒ` ᴄʟᴏᴛʜ |
-| `ᵿ` ꜰᴏᴏᴛ | `ɐ` sᴛʀᴜᴛ |
-| | |
-
-<!--v-->
-
-| | |
-|-|-|
-| `æ` ᴛʀᴀᴘ | |
-| `ɒ` ʟᴏᴛ | `o̞ː` ᴄʟᴏᴛʜ |
-| `ᵿ` ꜰᴏᴏᴛ | `ɐ` sᴛʀᴜᴛ |
-| | |
 
 <!--v-->
 
 | | |
 |-|-|
 | `æ` ᴛʀᴀᴘ | `æ` ʙᴀᴛʜ |
-| `ɒ` ʟᴏᴛ | `o̞ː` ᴄʟᴏᴛʜ |
-| `ᵿ` ꜰᴏᴏᴛ | `ɐ` sᴛʀᴜᴛ |
+| `ɒ` ʟᴏᴛ | `ɒ` ᴄʟᴏᴛʜ |
 | | |
 
 <!--v-->
@@ -865,8 +812,13 @@ revealOptions:
 |-|-|
 | `æ` ᴛʀᴀᴘ | `ɑː` ʙᴀᴛʜ |
 | `ɒ` ʟᴏᴛ | `o̞ː` ᴄʟᴏᴛʜ |
-| `ᵿ` ꜰᴏᴏᴛ | `ɐ` sᴛʀᴜᴛ |
 | | |
+
+<!--v-->
+
+> All human beings are born free and equal in dignity and rights. They are endowed with reason and conscience and should act towards one another in a spirit of brotherhood.
+
+<small>`o̞ːl hjᵿwmən bɪjɪŋz ɑː bo̞ːn fɹ̠ʷɪj ənd ɪjkwəl ɪn dɪgnɪtɪj ənd ɹ̠ʷɑjts. ðe̞j ɑː ɹ̠ʷ‿ɛndæwd wɪð ɹ̠ʷɪjzən ənd kɒnʃəns ənd ʃᵿd ækt tᵿwo̞ːdz wɐn ənɐðə ɹ̠ʷ‿ɪn ə spɪɹ̠ʷɪt əv bɹ̠ʷɐðəhᵿd.`</small>
 
 <!--s-->
 
