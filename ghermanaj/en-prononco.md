@@ -12,7 +12,7 @@ revealOptions:
 <!-- cd ~/Git/speranto/ghermanaj; reveal-md en-prononco.md -w -->
 <!-- ᴀʙᴄᴅᴇꜰɢʜɪᴊᴋʟᴍɴᴏᴘǫʀsᴛᴜᴠᴡxʏᴢ -->
 
-# Vowels
+# Vowels (5)
 
 <!--v-->
 
@@ -57,26 +57,188 @@ revealOptions:
 
 <!--v-->
 
-| | | |
-|-|:-:|-|
-| `i` ꜰʟᴇᴇᴄᴇ ᴋɪᴛ | | `u` ɢᴏᴏsᴇ ꜰᴏᴏᴛ |
-| `e̞` ꜰᴀᴄᴇ ᴅʀᴇss | | `o̞` ɢᴏᴀᴛ ʟᴏᴛ |
-| | (sᴛʀᴜᴛ)<br>`ɐ` ᴘᴀʟᴍ ᴛʀᴀᴘ | |
-| | | |
+## Splitting
 
-Notes:
-o̞l hjumɐn biiŋz ɐr bo̞rn fri ɐnd ikwɐl in digniti ɐnd rɐjts. ðe̞ ɐr e̞ndɐwd wið rizɐn ɐnd ko̞nʃɐns ɐnd ʃud ɐkt tuwo̞rdz wɐn ɐnɐðe̞r in ɐ spirit ɐv brɐðe̞rhud.
+<!--v-->
+
+| |
+|-|
+| `u` ꜰᴏᴏᴛ |
+| |
+
+<!--v-->
+
+| | |
+|-|-|
+| `u` ꜰᴏᴏᴛ | `u` sᴛʀᴜᴛ |
+| | |
+
+<!--v-->
+
+| | |
+|-|-|
+| `u` ꜰᴏᴏᴛ | `ɐ` sᴛʀᴜᴛ |
+| | |
 
 <!--v-->
 
 | | | |
-|-|-|-|
-| `iː` ꜰʟᴇᴇᴄᴇ | | `uː` ɢᴏᴏsᴇ |
-| `ɪ` ᴋɪᴛ | | `ʊ` ꜰᴏᴏᴛ |
-| `eː` ꜰᴀᴄᴇ | | `oː` ɢᴏᴀᴛ |
-| `ɛ` ᴅʀᴇss | | `ɔ` ʟᴏᴛ |
-| `a` ᴛʀᴀᴘ | | `ɑː` ᴘᴀʟᴍ |
+|-|:-:|-|
+| `i` ꜰʟᴇᴇᴄᴇ ᴋɪᴛ | | `u` ɢᴏᴏsᴇ ꜰᴏᴏᴛ |
+| `e̞` ꜰᴀᴄᴇ ᴅʀᴇss | | `o̞` ɢᴏᴀᴛ ʟᴏᴛ |
+| | `ɐ` ᴘᴀʟᴍ ᴛʀᴀᴘ | |
 | | | |
+
+<!--v-->
+
+| | | |
+|-|:-:|-|
+| `i` ꜰʟᴇᴇᴄᴇ ᴋɪᴛ | | `u` ɢᴏᴏsᴇ ꜰᴏᴏᴛ |
+| `e̞` ꜰᴀᴄᴇ ᴅʀᴇss | | `o̞` ɢᴏᴀᴛ ʟᴏᴛ |
+| | `ɐ` ᴘᴀʟᴍ ᴛʀᴀᴘ<br>sᴛʀᴜᴛ | |
+| | | |
+
+<!--v-->
+
+> All human beings are born free and equal in dignity and rights. They are endowed with reason and conscience and should act towards one another in a spirit of brotherhood.
+
+`o̞l hjumɐn biiŋz ɐr bo̞rn fri ɐnd ikwɐl in digniti ɐnd rɐjts. ðe̞ ɐr e̞ndɐwd wið rizɐn ɐnd ko̞nʃɐns ɐnd ʃud ɐkt tuwo̞rdz wɐn ɐnɐðe̞r in ɐ spirit ɐv brɐðe̞rhud.`
+
+<!--s-->
+
+# Vowels (10 + 1)
+
+<!--v-->
+
+| | | |
+|-|:-:|-|
+| `i` ꜰʟᴇᴇᴄᴇ ᴋɪᴛ | | `u` ɢᴏᴏsᴇ ꜰᴏᴏᴛ |
+| `e̞` ꜰᴀᴄᴇ ᴅʀᴇss | | `o̞` ɢᴏᴀᴛ ʟᴏᴛ |
+| | `ɐ` ᴘᴀʟᴍ ᴛʀᴀᴘ<br>sᴛʀᴜᴛ | |
+| | | |
+
+<!--v-->
+
+| | | | | |
+|-|-|:-:|-|-|
+| `i` ꜰʟᴇᴇᴄᴇ ᴋɪᴛ | | | | `u` ɢᴏᴏsᴇ ꜰᴏᴏᴛ |
+| | `ɪ` | | `ʊ` | |
+| `e` | | | | `o` |
+| `e̞` ꜰᴀᴄᴇ ᴅʀᴇss | | | | `o̞` ɢᴏᴀᴛ ʟᴏᴛ |
+| `ɛ` | | | | `ɔ` |
+| | | `ɐ` ᴘᴀʟᴍ ᴛʀᴀᴘ<br>sᴛʀᴜᴛ | | |
+| `a` | | | | `ɑ` |
+| | | | | |
+
+<!--v-->
+
+| | | | | |
+|-|-|:-:|-|-|
+| `i` ꜰʟᴇᴇᴄᴇ ~~ᴋɪᴛ~~ | | | | `u` ɢᴏᴏsᴇ ~~ꜰᴏᴏᴛ~~ |
+| | `ɪ` | | `ʊ` | |
+| `e` | | | | `o` |
+| `e̞` ~~ꜰᴀᴄᴇ~~ ~~ᴅʀᴇss~~ | | | | `o̞` ~~ɢᴏᴀᴛ~~ ~~ʟᴏᴛ~~ |
+| `ɛ` | | | | `ɔ` |
+| | | `ɐ` ~~ᴘᴀʟᴍ~~ ~~ᴛʀᴀᴘ~~<br>sᴛʀᴜᴛ | | |
+| `a` | | | | `ɑ` |
+| | | | | |
+
+<!--v-->
+
+| | | | | |
+|-|-|:-:|-|-|
+| `i` ꜰʟᴇᴇᴄᴇ | | | | `u` ɢᴏᴏsᴇ |
+| | `ɪ` ᴋɪᴛ | | `ʊ` ꜰᴏᴏᴛ | |
+| `e` ꜰᴀᴄᴇ | | | | `o` ɢᴏᴀᴛ |
+| `e̞` | | | | `o̞` |
+| `ɛ` ᴅʀᴇss | | | | `ɔ` ʟᴏᴛ |
+| | | `ɐ` sᴛʀᴜᴛ | | |
+| `a` ᴛʀᴀᴘ | | | | `ɑ` ᴘᴀʟᴍ |
+| | | | | |
+
+<!--v-->
+
+| | | | | |
+|-|-|:-:|-|-|
+| `i` ꜰʟᴇᴇᴄᴇ | | | | `u` ɢᴏᴏsᴇ |
+| | `ɪ` ᴋɪᴛ | | `ʊ` ꜰᴏᴏᴛ | |
+| `e` ꜰᴀᴄᴇ | | | | `o` ɢᴏᴀᴛ |
+| ~~`e̞`~~ | | | | ~~`o̞`~~ |
+| `ɛ` ᴅʀᴇss | | | | `ɔ` ʟᴏᴛ |
+| | | `ɐ` sᴛʀᴜᴛ | | |
+| `a` ᴛʀᴀᴘ | | | | `ɑ` ᴘᴀʟᴍ |
+| | | | | |
+
+<!--v-->
+
+| | | | | |
+|-|-|:-:|-|-|
+| `i` ꜰʟᴇᴇᴄᴇ | | | | `u` ɢᴏᴏsᴇ |
+| | `ɪ` ᴋɪᴛ | | `ʊ` ꜰᴏᴏᴛ | |
+| `e` ꜰᴀᴄᴇ | | | | `o` ɢᴏᴀᴛ |
+| | | | | |
+| `ɛ` ᴅʀᴇss | | | | `ɔ` ʟᴏᴛ |
+| | | `ɐ` sᴛʀᴜᴛ | | |
+| `a` ᴛʀᴀᴘ | | | | `ɑ` ᴘᴀʟᴍ |
+| | | | | |
+
+<!--v-->
+
+> All human beings are born free and equal in dignity and rights. They are endowed with reason and conscience and should act towards one another in a spirit of brotherhood.
+
+`ɔl hjumɐn biɪŋz ar bɔrn fri ɐnd ikwɐl ɪn dɪgnɪti ɐnd raɪts. ðe ar ɛndaʊd wɪð rizɐn ɐnd kɔnʃɐns ɐnd ʃʊd akt tuwɔrdz wɐn ɐnɐðɐr ɪn ɐ spɪrɪt ɐv brɐðɐrhʊd.`
+
+<!--s-->
+
+# Lengthening
+
+<!--v-->
+
+| | | | | |
+|-|-|:-:|-|-|
+| `i` ꜰʟᴇᴇᴄᴇ | | | | `u` ɢᴏᴏsᴇ |
+| | `ɪ` ᴋɪᴛ | | `ʊ` ꜰᴏᴏᴛ | |
+| `e` ꜰᴀᴄᴇ | | | | `o` ɢᴏᴀᴛ |
+| | | | | |
+| `ɛ` ᴅʀᴇss | | | | `ɔ` ʟᴏᴛ |
+| | | `ɐ` sᴛʀᴜᴛ | | |
+| `a` ᴛʀᴀᴘ | | | | `ɑ` ᴘᴀʟᴍ |
+| | | | | |
+
+<!--v-->
+
+| | | | | |
+|-|-|:-:|-|-|
+| `i` ꜰʟᴇᴇᴄᴇ | | | | `u` ɢᴏᴏsᴇ |
+| | `ɪ` ᴋɪᴛ | | `ʊ` ꜰᴏᴏᴛ | |
+| `e` ꜰᴀᴄᴇ | | | | `o` ɢᴏᴀᴛ |
+| | | | | |
+| `ɛ` ᴅʀᴇss | | | | `ɔ` ʟᴏᴛ |
+| | | `ɐ` (sᴛʀᴜᴛ) | | |
+| `a` ᴛʀᴀᴘ | | | | `ɑ` ᴘᴀʟᴍ |
+| | | | | |
+
+<!--v-->
+
+| | |
+|-|-|
+| `i` ꜰʟᴇᴇᴄᴇ | `u` ɢᴏᴏsᴇ |
+| `ɪ` ᴋɪᴛ | `ʊ` ꜰᴏᴏᴛ |
+| `e` ꜰᴀᴄᴇ | `o` ɢᴏᴀᴛ |
+| `ɛ` ᴅʀᴇss | `ɔ` ʟᴏᴛ |
+| `a` ᴛʀᴀᴘ | `ɑ` ᴘᴀʟᴍ |
+| | |
+
+<!--v-->
+
+| | |
+|-|-|
+| `i` ꜰʟᴇᴇᴄᴇ | `ɪ` ᴋɪᴛ |
+| `e` ꜰᴀᴄᴇ | `ɛ` ᴅʀᴇss |
+| `ɑ` ᴘᴀʟᴍ | `a` ᴛʀᴀᴘ |
+| `o` ɢᴏᴀᴛ | `ɔ` ʟᴏᴛ |
+| `u` ɢᴏᴏsᴇ | `ʊ` ꜰᴏᴏᴛ |
+| | |
 
 <!--v-->
 
@@ -128,9 +290,15 @@ o̞l hjumɐn biiŋz ɐr bo̞rn fri ɐnd ikwɐl in digniti ɐnd rɐjts. ðe̞ ɐr
 | `aʊ` ᴍᴏᴜᴛʜ | | `ɔː` ᴛʜᴏᴜɢʜᴛ |
 | | | |
 
+<!--v-->
+
+> All human beings are born free and equal in dignity and rights. They are endowed with reason and conscience and should act towards one another in a spirit of brotherhood.
+
+`ɔːl hjuːmɐn biːɪŋz ar bɔrn friː ɐnd iːkwɐl ɪn dɪgnɪtiː ɐnd raɪts. ðeɪ ar ɛndaʊd wɪð riːzɐn ɐnd kɔnʃɐns ɐnd ʃʊd akt tuːwɔrdz wɐn ɐnɐðɐr ɪn ɐ spɪrɪt ɐv brɐðɐrhʊd.`
+
 <!--s-->
 
-# Post-Vocalic r: Shortening
+# Shortening
 
 <!--v-->
 
@@ -147,22 +315,22 @@ o̞l hjumɐn biiŋz ɐr bo̞rn fri ɐnd ikwɐl in digniti ɐnd rɐjts. ðe̞ ɐr
 
 | | |
 |-|-|
-| `ɪɹ̠ʷ` ɴᴇᴀʀ | `əɹ̠ʷ` ʙɪʀᴅ |
-| `ɛɹ̠ʷ` sǫᴜᴀʀᴇ | `əɹ̠ʷ` ᴘᴇᴀʀʟ |
+| `ɪɹ̠ʷ` ɴᴇᴀʀ | `ɐɹ̠ʷ` ʙɪʀᴅ |
+| `ɛɹ̠ʷ` sǫᴜᴀʀᴇ | `ɐɹ̠ʷ` ᴘᴇᴀʀʟ |
 | | `ɑːɹ̠ʷ` sᴛᴀʀᴛ |
 | `ɔɹ̠ʷ` ꜰᴏʀᴄᴇ | `ɔɹ̠ʷ` ɴᴏʀᴛʜ |
-| `ʊɹ̠ʷ` ᴄᴜʀᴇ | `əɹ̠ʷ` ɴᴜʀsᴇ |
+| `ʊɹ̠ʷ` ᴄᴜʀᴇ | `ɐɹ̠ʷ` ɴᴜʀsᴇ |
 | | |
 
 <!--v-->
 
 | | |
 |-|-|
-| `ɪɹ̠ʷ` ɴᴇᴀʀ | (`əɹ̠ʷ` ʙɪʀᴅ) |
-| `ɛɹ̠ʷ` sǫᴜᴀʀᴇ | (`əɹ̠ʷ` ᴘᴇᴀʀʟ) |
+| `ɪɹ̠ʷ` ɴᴇᴀʀ | (`ɐɹ̠ʷ` ʙɪʀᴅ) |
+| `ɛɹ̠ʷ` sǫᴜᴀʀᴇ | (`ɐɹ̠ʷ` ᴘᴇᴀʀʟ) |
 | | `ɑːɹ̠ʷ` sᴛᴀʀᴛ |
 | `ɔɹ̠ʷ` ꜰᴏʀᴄᴇ | (`ɔɹ̠ʷ` ɴᴏʀᴛʜ) |
-| `ʊɹ̠ʷ` ᴄᴜʀᴇ | `əɹ̠ʷ` ɴᴜʀsᴇ |
+| `ʊɹ̠ʷ` ᴄᴜʀᴇ | `ɐɹ̠ʷ` ɴᴜʀsᴇ |
 | | |
 
 <!--v-->
@@ -173,7 +341,7 @@ o̞l hjumɐn biiŋz ɐr bo̞rn fri ɐnd ikwɐl in digniti ɐnd rɐjts. ðe̞ ɐr
 | `ɛɹ̠ʷ` sǫᴜᴀʀᴇ | |
 | | `ɑːɹ̠ʷ` sᴛᴀʀᴛ |
 | `ɔɹ̠ʷ` ꜰᴏʀᴄᴇ | |
-| `ʊɹ̠ʷ` ᴄᴜʀᴇ | `əɹ̠ʷ` ɴᴜʀsᴇ |
+| `ʊɹ̠ʷ` ᴄᴜʀᴇ | `ɐɹ̠ʷ` ɴᴜʀsᴇ |
 | | |
 
 <!--v-->
@@ -185,11 +353,14 @@ o̞l hjumɐn biiŋz ɐr bo̞rn fri ɐnd ikwɐl in digniti ɐnd rɐjts. ðe̞ ɐr
 | `ɑːɹ̠ʷ` sᴛᴀʀᴛ |
 | `ɔɹ̠ʷ` ꜰᴏʀᴄᴇ |
 | `ʊɹ̠ʷ` ᴄᴜʀᴇ |
-| `əɹ̠ʷ` ɴᴜʀsᴇ |
+| `ɐɹ̠ʷ` ɴᴜʀsᴇ |
 | |
 
-Notes:
-ɔːl hjuːmən biːɪŋz ɑːɹ̠ʷ bɔɹ̠ʷn fɹ̠ʷiː ənd iːkwəl ɪn dɪgnɪtiː ənd ɹ̠ʷaɪts. ðeɪ ɑːɹ̠ʷ əndaʊd wɪð ɹ̠ʷiːzən ənd kɔnʃəns ənd ʃʊd akt təwɔɹ̠ʷdz wɐn ənɐðəɹ̠ʷ ɪn ə spɪɹ̠ʷɪt əv bɹ̠ʷɐðəɹ̠ʷhʊd.
+<!--v-->
+
+> All human beings are born free and equal in dignity and rights. They are endowed with reason and conscience and should act towards one another in a spirit of brotherhood.
+
+`ɔːl hjuːmɐn biːɪŋz ɑːɹ̠ʷ bɔɹ̠ʷn fɹ̠ʷiː ɐnd iːkwɐl ɪn dɪgnɪtiː ɐnd ɹ̠ʷaɪts. ðeɪ ɑːɹ̠ʷ ɛndaʊd wɪð ɹ̠ʷiːzɐn ɐnd kɔnʃɐns ɐnd ʃʊd akt tuːwɔɹ̠ʷdz wɐn ɐnɐðɐɹ̠ʷ ɪn ɐ spɪɹ̠ʷɪt ɐv bɹ̠ʷɐðɐɹ̠ʷhʊd.`
 
 <!--s-->
 
@@ -247,14 +418,14 @@ Notes:
 
 | | |
 |-|-|
-| `ɐ` ᴄᴏᴍᴍᴀ | |
+| `ɐ` ᴄᴏᴍᴍᴀ | `ɐɹ̠ʷ` ʟᴇᴛᴛᴇʀ |
 | | |
 
 <!--v-->
 
 | | |
 |-|-|
-| `ə` ᴄᴏᴍᴍᴀ | |
+| `ə` ᴄᴏᴍᴍᴀ | `əɹ̠ʷ` ʟᴇᴛᴛᴇʀ |
 | | |
 
 <!--v-->
@@ -276,6 +447,12 @@ Notes:
 | `ɑj` ᴘʀɪᴄᴇ | | `o̞j` ᴄʜᴏɪᴄᴇ |
 | `æw` ᴍᴏᴜᴛʜ | | `o̞ː` ᴛʜᴏᴜɢʜᴛ |
 | | | |
+
+<!--v-->
+
+> All human beings are born free and equal in dignity and rights. They are endowed with reason and conscience and should act towards one another in a spirit of brotherhood.
+
+`o̞ːl hjʊwmən bɪjɪŋz ɑːɹ̠ʷ bo̞ɹ̠ʷn fɹ̠ʷɪj ənd ɪjkwəl ɪn dɪgnɪtɪj ənd ɹ̠ʷɑjts. ðe̞j ɑːɹ̠ʷ ɛndæwd wɪð ɹ̠ʷɪjzən ənd kɒnʃəns ənd ʃʊd ækt tʊwɔɹ̠ʷdz wɐn ənɐðəɹ̠ʷ ɪn ə spɪɹ̠ʷɪt əv bɹ̠ʷɐðəɹ̠ʷhʊd.`
 
 <!--s-->
 
@@ -313,6 +490,12 @@ Notes:
 | `əw` ɢᴏᴀᴛ | `ɒ` ʟᴏᴛ |
 | `ᵿw` ɢᴏᴏsᴇ | `ᵿ` ꜰᴏᴏᴛ |
 | | |
+
+<!--v-->
+
+> All human beings are born free and equal in dignity and rights. They are endowed with reason and conscience and should act towards one another in a spirit of brotherhood.
+
+`o̞ːl hjᵿwmən bɪjɪŋz ɑːɹ̠ʷ bo̞ɹ̠ʷn fɹ̠ʷɪj ənd ɪjkwəl ɪn dɪgnɪtɪj ənd ɹ̠ʷɑjts. ðe̞j ɑːɹ̠ʷ ɛndæwd wɪð ɹ̠ʷɪjzən ənd kɒnʃəns ənd ʃᵿd ækt tᵿwo̞ɹ̠ʷdz wɐn ənɐðəɹ̠ʷ ɪn ə spɪɹ̠ʷɪt əv bɹ̠ʷɐðəɹ̠ʷhᵿd.`
 
 <!--s-->
 
@@ -496,20 +679,6 @@ Notes:
 
 | |
 |-|
-| `ɛr` ʟᴇᴛᴛᴇʀ |
-| |
-
-<!--v-->
-
-| |
-|-|
-| `ər` ʟᴇᴛᴛᴇʀ |
-| |
-
-<!--v-->
-
-| |
-|-|
 | `əɹ̠ʷ` ʟᴇᴛᴛᴇʀ |
 | |
 
@@ -538,8 +707,11 @@ Notes:
 | `əə` ʟᴏᴡᴇʀ | | `æə` ꜰʟᴏᴡᴇʀ | | |
 | | | | | |
 
-Notes:
-o̞ːl hjᵿwmən bɪjɪŋz ɑː bo̞ːn fɹ̠ʷɪj ənd ɪjkwəl ɪn dɪgnɪtɪj ənd ɹ̠ʷɑjts. ðe̞j ɑː ɹ̠ʷ əndæwd wɪð ɹ̠ʷɪjzən ənd kɒnʃəns ənd ʃᵿd ækt təwo̞ːdz wɐn ənɐðə ɹ̠ʷ ɪn ə spɪɹ̠ʷɪt əv bɹ̠ʷɐðəhᵿd.
+<!--v-->
+
+> All human beings are born free and equal in dignity and rights. They are endowed with reason and conscience and should act towards one another in a spirit of brotherhood.
+
+`o̞ːl hjᵿwmən bɪjɪŋz ɑː bo̞ːn fɹ̠ʷɪj ənd ɪjkwəl ɪn dɪgnɪtɪj ənd ɹ̠ʷɑjts. ðe̞j ɑː ɹ̠ʷ ɛndæwd wɪð ɹ̠ʷɪjzən ənd kɒnʃəns ənd ʃᵿd ækt tᵿwo̞ːdz wɐn ənɐðə ɹ̠ʷ ɪn ə spɪɹ̠ʷɪt əv bɹ̠ʷɐðəhᵿd.`
 
 <!--s-->
 
@@ -671,8 +843,11 @@ o̞ːl hjᵿwmən bɪjɪŋz ɑː bo̞ːn fɹ̠ʷɪj ənd ɪjkwəl ɪn dɪgnɪtɪ
 | `ɜː` ʟᴏᴡᴇʀ | | `aə` ꜰʟᴏᴡᴇʀ | | |
 | | | | | |
 
-Notes:
-oːl hjʉwmən bɪjɪŋz ɑː boːn fɹ̠ʷɪj ənd ɪjkwəl ɪn dɪgnɪtɪj ənd ɹ̠ʷɑjts. ðe̞j ɑː ɹ̠ʷ əndawd wɪð ɹ̠ʷɪjzən ənd kɔnʃəns ənd ʃɵd akt təwoːdz wɐn ənɐðə ɹ̠ʷ ɪn ə spɪɹ̠ʷɪt əv bɹ̠ʷɐðəhɵd.
+<!--v-->
+
+> All human beings are born free and equal in dignity and rights. They are endowed with reason and conscience and should act towards one another in a spirit of brotherhood.
+
+`oːl hjᵿwmən bɪjɪŋz ɑː boːn fɹ̠ʷɪj ənd ɪjkwəl ɪn dɪgnɪtɪj ənd ɹ̠ʷɑjts. ðɛj ɑː ɹ̠ʷ ɛndawd wɪð ɹ̠ʷɪjzən ənd kɔnʃəns ənd ʃɵd akt tɵwoːdz wɐn ənɐðə ɹ̠ʷ ɪn ə spɪɹ̠ʷɪt əv bɹ̠ʷɐðəhɵd.`
 
 <!--s-->
 
