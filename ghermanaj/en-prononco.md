@@ -617,6 +617,24 @@ revealOptions:
 
 <!--v-->
 
+### Triphthongs
+
+<!--v-->
+
+| |
+|-|
+| `aʊə` ꜰʟᴏᴡᴇʀ |
+| |
+
+<!--v-->
+
+| |
+|-|
+| `aə` ꜰʟᴏᴡᴇʀ |
+| |
+
+<!--v-->
+
 > All human beings are born free and equal in dignity and rights. They are endowed with reason and conscience and should act towards one another in a spirit of brotherhood.
 
 <small>`ɔːl hjuːmən biːɪŋz ɑː bɔːn fɹ̠ʷiː ənd iːkwəl ɪn dɪgnɪtiː ənd ɹ̠ʷaɪts.`<br>`ðeɪ ɑːɹ̠ʷ‿ɛndaʊd wɪð ɹ̠ʷiːzən ənd kɔnʃəns ənd ʃʊd akt tuːwɔːdz`<br>`wɐn ənɐðəɹ̠ʷ‿ɪn ə spɪɹ̠ʷɪt əv bɹ̠ʷɐðəhʊd.`</small>
