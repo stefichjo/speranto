@@ -988,6 +988,32 @@ revealOptions:
 
 <!--v-->
 
+| | | | | |
+|-|-|-|-|-|
+| `i` | | `ʉ` | | `u` |
+| | `ɪ` | `ᵿ` | `ʊ` | |
+| `e` | | `ɵ` | | `o` |
+| `e̞` | | `ə` | | `o̞` |
+| `ɛ` | | `ɜ` | | `ɔ` |
+| `æ` | | `ɐ` | | `ɒ` |
+| `a` | | | | `ɑ` |
+| | | | | |
+
+<!--v-->
+
+| | | |
+|-|-|-|
+| `i` | `ʉ` | `u` |
+| `ɪ` | `ᵿ` | `ʊ` |
+| `e` | `ɵ` | `o` |
+| `e̞` | `ə` | `o̞` |
+| `ɛ` | `ɜ` | `ɔ` |
+| `æ` | `ɐ` | `ɒ` |
+| `a` | | `ɑ` |
+| | | |
+
+<!--v-->
+
 | | | |
 |-|-|-|
 | `i` | | `u` |
@@ -1164,10 +1190,7 @@ revealOptions:
 | `a` | | | | `ɑ` |
 | | | | | |
 
-<!--v-->
-
-> All human beings are born free and equal in dignity and rights. They are endowed with reason and conscience and should act towards one another in a spirit of brotherhood.
-
+Notes:
 <small>`oːl hjᵿwmən bejeŋz ɑː boːn fɹ̠ʷej ənd ejkwəl en degnetej ənd ɹ̠ʷɑjts.`<br>`ðɛj ɑːɹ̠ʷ‿ɛndawd weð ɹ̠ʷejzən ənd kɔnʃəns ənd ʃᵿd akt tᵿwoːdz`<br>`wɐn ənɐðəɹ̠ʷ‿en ə speɹ̠ʷet əv bɹ̠ʷɐðəhᵿd.`</small>
 
 <!--v-->
@@ -1209,32 +1232,3 @@ revealOptions:
 | `a` | | | | `ɑ` |
 | | | | | |
 
-<!--v-->
-
-### Reference
-
-<!--v-->
-
-| | | | | |
-|-|-|-|-|-|
-| `i` | | `ʉ` | | `u` |
-| | `ɪ` | `ᵿ` | `ʊ` | |
-| `e` | | `ɵ` | | `o` |
-| `e̞` | | `ə` | | `o̞` |
-| `ɛ` | | `ɜ` | | `ɔ` |
-| `æ` | | `ɐ` | | `ɒ` |
-| `a` | | | | `ɑ` |
-| | | | | |
-
-<!--v-->
-
-| | | |
-|-|-|-|
-| `i` | `ʉ` | `u` |
-| `ɪ` | `ᵿ` | `ʊ` |
-| `e` | `ɵ` | `o` |
-| `e̞` | `ə` | `o̞` |
-| `ɛ` | `ɜ` | `ɔ` |
-| `æ` | `ɐ` | `ɒ` |
-| `a` | | `ɑ` |
-| | | |
