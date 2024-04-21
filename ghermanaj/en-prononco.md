@@ -20,12 +20,6 @@ revealOptions:
 
 <!--v-->
 
-![alt text][X-Ray]
-
-[X-Ray]: https://upload.wikimedia.org/wikipedia/commons/1/15/Cardinal_vowels-Jones_x-ray.jpg "X-Ray"
-
-<!--v-->
-
 ![alt text][Anatomy]
 
 [Anatomy]: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Cardinal_vowel_tongue_position-front.svg/400px-Cardinal_vowel_tongue_position-front.svg.png "Anatomy"
@@ -51,6 +45,12 @@ revealOptions:
 ![alt text][World]
 
 [World]: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/English_language_distribution.svg/2560px-English_language_distribution.svg.png "World"
+
+<!--v-->
+
+![alt text][Test Card]
+
+[Test Card]: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Philips_PM5544.svg/640px-Philips_PM5544.svg.png "Test Card"
 
 <!--s-->
 
