@@ -14,6 +14,44 @@ revealOptions:
 
 # Vowels
 
+<!--v-->
+
+## Phonetics
+
+<!--v-->
+
+![alt text][X-Ray]
+
+[X-Ray]: https://upload.wikimedia.org/wikipedia/commons/1/15/Cardinal_vowels-Jones_x-ray.jpg "X-Ray"
+
+<!--v-->
+
+![alt text][Anatomy]
+
+[Anatomy]: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Cardinal_vowel_tongue_position-front.svg/400px-Cardinal_vowel_tongue_position-front.svg.png "Anatomy"
+
+<!--v-->
+
+![alt text][Quadrilateral]
+
+[Quadrilateral]: https://upload.wikimedia.org/wikipedia/commons/8/8c/Vowel_quadrilateral_%28IPA_1949%29.png "Quadrilateral"
+
+<!--v-->
+
+![alt text][Static]
+
+[Static]: https://upload.wikimedia.org/wikipedia/commons/a/a8/TV_noise.jpg "Static"
+
+<!--v-->
+
+## Politics
+
+<!--v-->
+
+![alt text][World]
+
+[World]: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/English_language_distribution.svg/2560px-English_language_distribution.svg.png "World"
+
 <!--s-->
 
 ## 5 Vowels
@@ -39,6 +77,24 @@ revealOptions:
 | ɪ | | ᴜ |
 | ᴇ | | ᴏ |
 | | ᴀ | |
+| | | |
+
+<!--v-->
+
+| | | |
+|-|-|-|
+| `i` | | `u` |
+| `e` | | `o` |
+| | `a` | |
+| | | |
+
+<!--v-->
+
+| | | |
+|-|-|-|
+| `i` | | `u` |
+| ~~`e`~~ | | ~~`o`~~ |
+| | ~~`a`~~ | |
 | | | |
 
 <!--v-->
@@ -73,6 +129,14 @@ revealOptions:
 <!--v-->
 
 ### Diphthongs
+
+<!--v-->
+
+| | | |
+|-|-|-|
+| `ɐi` ᴘʀɪᴄᴇ | | `o̞i` ᴄʜᴏɪᴄᴇ |
+| `ɐu` ᴍᴏᴜᴛʜ | | `o̞u` ᴛʜᴏᴜɢʜᴛ |
+| | | |
 
 <!--v-->
 
