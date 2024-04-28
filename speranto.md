@@ -2768,6 +2768,7 @@ Notes:
 
 | Esperanto | Classĭca |
 |-|-|
+| jam | **iam** *[iam]* |
 | justa | **iusta** *[iusta]* |
 
 <!--v-->
@@ -3289,11 +3290,15 @@ Duoblaj vokaloj en finaĵoj estas skribataj kun makrono.
 | li estas vidata | **êst visa** <small>**videtur**</small> |
 | ni estas vidataj | **sêmus visas** <small>**videmur**</small> |
 | vi estas vidataj | **êstis visas** <small>**videmĭni**</small> |
-| ili estas vidataj | **sên visas** <small>**videntur**</small> |
+| ili estas vidataj | **sênt visas** <small>**videntur**</small> |
 
 <!--v-->
 
 #### Malregulaj Verboj
+
+<!--v-->
+
+<small>La as-formoj de **essĕre** havas eliziojn. En la Latina, **sê-** estas **su-**: **sum**, **sumus**, **sunt**.</small>
 
 <!--v-->
 
@@ -3305,11 +3310,11 @@ Duoblaj vokaloj en finaĵoj estas skribataj kun makrono.
 | | |
 | ni estas | **sêmus** <small>**(essĕmus)**</small> |
 | vi estas | **êstis** <small>**(essĕtis)**</small> |
-| ili estas | **sên** <small>**(essent)**</small> |
+| ili estas | **sênt** <small>**(essent)**</small> |
 
 <!--v-->
 
-<small>La perfekta radiko de **sêr** estas **f**. La perfektaj sufiksoj tiam skribiĝas kun **u** anstataŭ **v**: **fvī** → **fuī**.</small>
+<small>La perfekta radiko de **essĕre** estas **f**. La perfektaj sufiksoj tiam skribiĝas kun **u** anstataŭ **v**: **fvī** → **fuī**.</small>
 
 <!--v-->
 
@@ -3358,6 +3363,22 @@ Duoblaj vokaloj en finaĵoj estas skribataj kun makrono.
 | (ke) ni estintis | **fuissemus** |
 | (ke) vi estintis | **fuissetis** |
 | (ke) ili estintis | **fuissent** |
+
+<!--v-->
+
+<small>La formoj de **ire** estas strangaj, sed ne malregulaj.</small>
+
+<!--v-->
+
+| Esperanto | Classĭca |
+|-|-|
+| mi iras | **io** |
+| ci iras | **is** |
+| li iras | **it** |
+| | |
+| ni iras | **imus** |
+| vi iras | **itis** |
+| ili iras | **ient** |
 
 <!--v-->
 
