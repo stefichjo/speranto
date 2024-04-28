@@ -3298,19 +3298,19 @@ Duoblaj vokaloj en finaĵoj estas skribataj kun makrono.
 
 <!--v-->
 
-<small>La as-formoj de **essĕre** havas eliziojn. En la Latina, **sê-** estas **su-**: **sum**, **sumus**, **sunt**.</small>
+<small>La as-formoj de **essĕre** havas eliziojn. Anstataŭ **sê-** uziĝas **sû-**: **sûm**, **sûmus**, **sûnt**.</small>
 
 <!--v-->
 
 | Esperanto | Classĭca |
 |-|-|
-| mi estas | **sêm** <small>**(essem)**</small> |
+| mi estas | **sûm** <small>**sêm** **(essem)**</small> |
 | ci estas | **ês** <small>**(esses)**</small> |
 | li estas | **êst** <small>**(esset)**</small> |
 | | |
-| ni estas | **sêmus** <small>**(essĕmus)**</small> |
+| ni estas | **sûmus** <small>**sêmus** **(essĕmus)**</small> |
 | vi estas | **êstis** <small>**(essĕtis)**</small> |
-| ili estas | **sênt** <small>**(essent)**</small> |
+| ili estas | **sûnt** <small>**sênt** **(essent)**</small> |
 
 <!--v-->
 
