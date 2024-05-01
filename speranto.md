@@ -3285,12 +3285,12 @@ Duoblaj vokaloj en finaĵoj estas skribataj kun makrono.
 
 | Esperanto | Classĭca |
 |-|-|
-| mi estas vidata | **sêm visa** <small>**videor**</small> |
+| mi estas vidata | **sûm visa** <small>**videor**</small> |
 | ci estas vidata | **ês visa** <small>**videris**</small> |
 | li estas vidata | **êst visa** <small>**videtur**</small> |
-| ni estas vidataj | **sêmus visas** <small>**videmur**</small> |
+| ni estas vidataj | **sûmus visas** <small>**videmur**</small> |
 | vi estas vidataj | **êstis visas** <small>**videmĭni**</small> |
-| ili estas vidataj | **sênt visas** <small>**videntur**</small> |
+| ili estas vidataj | **sûnt visas** <small>**videntur**</small> |
 
 <!--v-->
 
