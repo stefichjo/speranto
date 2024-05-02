@@ -25,11 +25,17 @@ revealOptions:
 
 [Anatomy]: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Cardinal_vowel_tongue_position-front.svg/400px-Cardinal_vowel_tongue_position-front.svg.png "Anatomy"
 
+Notes:
+When you try to map out the vowel phonemes of English accents, it is a good idea to get familiar with the vowel space and the notation of International Phonetic Alphabet (IPA for short).
+
 <!--v-->
 
 ![alt text][Quadrilateral]
 
 [Quadrilateral]: https://upload.wikimedia.org/wikipedia/commons/8/8c/Vowel_quadrilateral_%28IPA_1949%29.png "Quadrilateral"
+
+Notes:
+You can imagine the vowel space as a quadrilateral. To pronounce the vowels on the left, you have to put your tongue forward: `i`, `e`, `ɛ`, `a`. For the vowels on the right, on the other hand, you have to pull your tongue back: `ɑ`, `ɔ`, `o`, `u`. Hence the name "front vowels" and "back vowels". Since these eight vowels lie on the edge of the quadrilateral and most far away from the central axis and the middle axis of the vowel space, they are also referred to as the cardinal vowels. Such an approach seems straightforward. But when you try to compare the vowel systems of English accents, you are likely going to end up with more confusion than you started with.
 
 <!--v-->
 
@@ -40,6 +46,9 @@ revealOptions:
 <!--v-->
 
 ## Politics
+
+Notes:
+To add complexity to confusion, English accents come with prestige and stigma, as well as the risk of sounding ridiculous or committing cultural appropriation, both for native and non-native speakers.
 
 <!--v-->
 
@@ -63,12 +72,18 @@ revealOptions:
 
 ## 5 Vowels
 
+Notes:
+In this video I will start from scratch, without making references to actual English accents, be they native or non-native, but giving a simplified overview of English vowel systems, as if they existed in a homogenous continuum where you can pick and chose your accent according to your personal preferences.
+
 <!--v-->
 
 | |
 |-|
 | ᴀ ᴇ ɪ ᴏ ᴜ |
 | |
+
+Notes:
+Let's start with a five-vowel system. As a convention, let's arrange "a", "e", "i", "o", "u" in their cardinal order: "i", "e", "a", "o", "u". While we're at it, let's arrange them in a table where we represent the vowel space as a square instead of a quadrilateral, and let's use the proper IPA symbols.
 
 <!--v-->
 
@@ -91,24 +106,6 @@ revealOptions:
 | | | |
 |-|-|-|
 | `i` | | `u` |
-| `e` | | `o` |
-| | `a` | |
-| | | |
-
-<!--v-->
-
-| | | |
-|-|-|-|
-| `i` | | `u` |
-| ~~`e`~~ | | ~~`o`~~ |
-| | ~~`a`~~ | |
-| | | |
-
-<!--v-->
-
-| | | |
-|-|-|-|
-| `i` | | `u` |
 | `e̞` | | `o̞` |
 | | `ɐ` | |
 | | | |
@@ -122,6 +119,9 @@ revealOptions:
 | | `ɐ` ᴘᴀʟᴍ ᴛʀᴀᴘ | |
 | | | |
 
+Notes:
+In this vowel system, there we pronounce the same vowel phoneme in "fleece" and "kit", "face" and "dress", "palm" and "trap", "goat" and "lot", as well as "goose" and "foot". Without enough context, this simple five-vowel system may lead to confusion at times, but it's a good starting point.
+
 <!--v-->
 
 ### (Near-Open) Schwa
@@ -132,6 +132,9 @@ revealOptions:
 |-|-|
 | `ɐ` ᴄᴏᴍᴍ**ᴀ** | `ɐr` ʟᴇᴛᴛ**ᴇʀ** |
 | | |
+
+Notes:
+The "a"-sound serves as a schwa. In fact, just as schwa, it is neither rounded nor unrounded, so it kind-of is a schwa, albeit a near-open version of it.
 
 <!--v-->
 
@@ -153,6 +156,9 @@ revealOptions:
 | `ɐw` ᴍᴏᴜᴛʜ | | `o̞w` ᴛʜᴏᴜɢʜᴛ |
 | | | |
 
+Notes:
+We can even pronounce diphthongs as in "price", "choice", and "mouth". The unstressed offset "i" and "u" is written with a "j" and "w" in IPA.
+
 <!--v-->
 
 | | | |
@@ -168,6 +174,9 @@ revealOptions:
 | `ɐj` ᴘʀɪᴄᴇ | | `o̞j` ᴄʜᴏɪᴄᴇ |
 | `ɐw` ᴍᴏᴜᴛʜ | | `o̞` ᴛʜᴏᴜɢʜᴛ |
 | | | |
+
+Notes:
+The vowel in "thought" - originally a diphthong - is a monophthong in basically all accents. So instead of `o̞w` "thought", we get `o̞` "thought" in this five-vowel system, merging the "thought"-vowel with "goat" and "lot", for now.
 
 <!--v-->
 
@@ -212,6 +221,9 @@ revealOptions:
 | | `ɐ` sᴛʀᴜᴛ<br>ᴘᴀʟᴍ ᴛʀᴀᴘ| |
 | | | |
 
+Notes:
+Even in this simplified five-vowel system there is room for splitting. If we want to, we can merge the vowel in `u` "strut" with "palm" and "trap": `ɐ` "strut". With these parameters of our first vowel system in mind, let's read the first article of the declaration of human rights. Ready?
+
 <!--v-->
 
 > All human beings are born free and equal in dignity and rights. They are endowed with reason and conscience and should act towards one another in a spirit of brotherhood.
@@ -222,6 +234,9 @@ revealOptions:
 
 ## Tensing /<br>Un-Tensing
 
+Notes:
+In order to split the vowels in "fleece" and "kit", "face" and "dress", "palm" and "trap", "goat" and "lot", and "goose" and "foot", we're going to massage our vowel space around the central and middle axes and at the edge of the quadri-- I mean square.
+
 <!--v-->
 
 | | | |
@@ -243,6 +258,9 @@ revealOptions:
 | | `ɐ` sᴛʀᴜᴛ<br>ᴘᴀʟᴍ ᴛʀᴀᴘ | |
 | | | |
 | | | |
+
+Notes:
+In order to do so, it helps visualizing that there are actually *seven* levels of openness, and we are currently using only half of them. Let's occupy the open back vowel `ɑ` and the open front vowel `a` with "palm" and "trap", splitting them off of the "strut" vowel. We are going to treat the `ɑ` "palm" vowel as the big brother of the `a` "trap" vowel, so keep in mind that while both `ɑ` "palm" and `a` "trap" are "a"-ish, but `ɑ` "palm" is more "a"-ish. So I will reference `ɑ` "palm" before `a` "trap" - sorry `a` "trap".
 
 <!--v-->
 
@@ -296,6 +314,9 @@ revealOptions:
 | `a` ᴛʀᴀᴘ | | **`ɑ`** ᴘᴀʟᴍ |
 | | | |
 
+Notes:
+Next, we split `e̞` "dress" from "face", as well as `o̞` "lot" from "goat", yielding `e` "face" and `ɛ` "dress", and `o` "goat" and `ɔ` "lot".
+
 <!--v-->
 
 | | | | | |
@@ -335,6 +356,9 @@ revealOptions:
 | `a` ᴛʀᴀᴘ | | | | **`ɑ`** ᴘᴀʟᴍ |
 | | | | | |
 
+Notes:
+Next, we split `i` "kit" from "fleece" and `u` "foot" from "goose", yielding `ɪ` "kit" and `ʊ` "foot", whereas `i` "fleece" and `u` "goose" remain unchanged. Let's arrange these five vowel pairs in a table.
+
 <!--v-->
 
 | | |
@@ -368,6 +392,9 @@ revealOptions:
 | `uː` ɢᴏᴏsᴇ | `ʊ` ꜰᴏᴏᴛ |
 | | |
 
+Notes:
+We can lengthen `i`, `e`, `ɑ`, `o` and `u`, and we can even diphthongize `eː` to `eɪ` and `oː` to `oʊ`.
+
 <!--v-->
 
 ### Diphthongs
@@ -387,6 +414,9 @@ revealOptions:
 | `aɪ` ᴘʀɪᴄᴇ | | `ɔɪ` ᴄʜᴏɪᴄᴇ |
 | `aʊ` ᴍᴏᴜᴛʜ | | `ɔ` ᴛʜᴏᴜɢʜᴛ |
 | | | |
+
+Notes:
+Speaking of diphtongs, a onset of the "price"-
 
 <!--v-->
 
