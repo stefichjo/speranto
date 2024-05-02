@@ -2510,7 +2510,7 @@ Notes:
 | li amintas | **hâ amado** <small>**amáu**</small> |
 | | |
 | ni amintas | **hêmos amado** <small>**amâmos**</small> |
-| vi amintas | **héis amado** <small>**amâstes**</small> |
+| vi amintas | **hêis amado** <small>**amâstes**</small> |
 | ili amintas | **hân amado** <small>**amâron**</small> |
 
 <!--v-->
@@ -3013,7 +3013,7 @@ Duoblaj vokaloj en finaĵoj estas skribataj kun makrono.
 
 <!--v-->
 
-<small>(La latina gramatiko konas nek ke-os-tempon nek ke-intos-tempon. Anstataŭe, ĝi havas intos-tempon kaj ke-intas-tempon, kiuj suspektinde similas al la latinida (ibera) ke-os-tempo. Evitante tiun konfuzon, **Classĭca** uzas la kondicionalon (t.e. la do-us-modon je **-ía**, **-ías** ktp.) anstataŭe, kiu ne ekzistas en la Latina.)</small>
+<small>(La latina gramatiko konas nek ke-os-tempon nek ke-intos-tempon. Anstataŭe, ĝi havas intos-tempon kaj ke-intas-tempon, kiuj suspektinde similas al la latinida (ibera) ke-os-tempo. Evitante tiun konfuzon, **Classĭca** uzas la kondicionalon (t.e. la do-us-modon je **-ibam**, **-ibas** ktp.) anstataŭe, kiu ne ekzistas en la Latina.)</small>
 
 <!--v-->
 
