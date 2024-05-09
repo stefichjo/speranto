@@ -223,13 +223,16 @@ The vowel in "thought" - originally a diphthong - is a monophthong in basically 
 | | | |
 
 Notes:
-Even in this simplified five-vowel system there is room for splitting, and we can opt for merging the vowel in `u` "strut" with "palm", "trap" and "comma", yielding `ɐ` "strut". Let's give it a go. Ready?
+Even in this simplified five-vowel system there is room for splitting, and we can opt for merging the vowel in `u` "strut" with "palm", "trap" and "comma", yielding `ɐ` "strut".
 
 <!--v-->
 
 > All human beings are born free and equal in dignity and rights. They are endowed with reason and conscience and should act towards one another in a spirit of brotherhood.
 
 <small>`o̞l hjumɐn biiŋz ɐr bo̞rn fri ɐnd ikwɐl in digniti ɐnd rɐjts.`<br>`ðe̞ ɐr e̞ndɐwd wið rizɐn ɐnd ko̞nʃɐns ɐnd ʃud ɐkt tuwo̞rdz`<br>`wɐn ɐnɐðɐr in ɐ spirit ɐv brɐðɐrhud.`</small>
+
+Notes:
+Let's give our five-vowel system a go, shall we?
 
 <!--s-->
 
@@ -422,13 +425,16 @@ Let's focus on these five pairs of more and less pronounced vowels. In many acce
 | | | |
 
 Notes:
-Speaking of diphtongs, the onsets and offsets of the diphtongs in `ɐj` "price", `ɐw` "mouth" and `o̞j` "choice" take on their less pronounced form, so we get `aɪ` "price", `aʊ` "mouth" and `ɔɪ` "choice". Also `o̞` "thought" is given the less pronounced `ɔ` "lot" vowel, but in its lengthened form. In accents without lengthened vowels, the vowel in `ɔː` "thought" has the same length as in `ɔ` "cloth", for example, so more like `ɔ` "thought". Ready for our 10+ vowel system in action?
+Speaking of diphtongs, the onsets and offsets of the diphtongs in `ɐj` "price", `ɐw` "mouth" and `o̞j` "choice" take on their less pronounced form, so we get `aɪ` "price", `aʊ` "mouth" and `ɔɪ` "choice". Also `o̞` "thought" is given the less pronounced `ɔ` "lot" vowel, but in its lengthened form. In accents without lengthened vowels, the vowel in `ɔː` "thought" has the same length as in `ɔ` "cloth", for example, so more like `ɔ` "thought".
 
 <!--v-->
 
 > All human beings are born free and equal in dignity and rights. They are endowed with reason and conscience and should act towards one another in a spirit of brotherhood.
 
 <small>`ɔːl hjuːmɐn biːɪŋz ar bɔrn friː ɐnd iːkwɐl ɪn dɪgnɪtiː ɐnd raɪts.`<br>`ðeɪ ar ɛndaʊd wɪð riːzɐn ɐnd kɔnʃɐns ɐnd ʃʊd akt tuːwɔrdz`<br>`wɐn ɐnɐðɐr ɪn ɐ spɪrɪt ɐv brɐðɐrhʊd.`</small>
+
+Notes:
+Ready for our 10+ vowel system in action?
 
 <!--s-->
 
@@ -714,7 +720,7 @@ The other long vowels become their shorter counter-part, yielding `ɪɹ̠ʷ` "ne
 | | |
 
 Notes:
-At the same time, the unstressed ending of `ɐr` "letter" starts sounding just like the vowel in `əɹ̠ʷ` "nurse", yielding `əɹ̠ʷ` "letter". Analogously, the ending of `ɐ` "comma" becomes a schwa, yielding `ə` "comma", and we have established a 10++ vowel system. Ready to try it out?
+At the same time, the unstressed ending of `ɐr` "letter" starts sounding just like the vowel in `əɹ̠ʷ` "nurse", yielding `əɹ̠ʷ` "letter". Analogously, the ending of `ɐ` "comma" becomes a schwa, yielding `ə` "comma".
 
 <!--v-->
 
@@ -722,21 +728,56 @@ At the same time, the unstressed ending of `ɐr` "letter" starts sounding just l
 
 <small>`ɔːl hjuːmən biːɪŋz ɑːɹ̠ʷ bɔɹ̠ʷn fɹ̠ʷiː ənd iːkwəl ɪn dɪgnɪtiː ənd ɹ̠ʷaɪts.`<br>`ðeɪ ɑːɹ̠ʷ ɛndaʊd wɪð ɹ̠ʷiːzən ənd kɔnʃəns ənd ʃʊd akt tuːwɔɹ̠ʷdz`<br>`wɐn ənɐðəɹ̠ʷ ɪn ə spɪɹ̠ʷɪt əv bɹ̠ʷɐðəɹ̠ʷhʊd.`</small>
 
+Notes:
+Are you ready to try our 10++ vowel system?
+
 <!--s-->
 
 ## Lengthening
 
 <!--v-->
 
-| |
-|-|
-| `ɪɹ̠ʷ` ɴᴇᴀʀ |
-| `ɛɹ̠ʷ` sǫᴜᴀʀᴇ |
-| `ɑːɹ̠ʷ` sᴛᴀʀᴛ |
-| `ɔɹ̠ʷ` ꜰᴏʀᴄᴇ |
-| `ʊɹ̠ʷ` ᴄᴜʀᴇ |
-| `əɹ̠ʷ` ɴᴜʀsᴇ |
-| |
+| | |
+|-|-|
+| `ɪɹ̠ʷ` ɴᴇᴀʀ | |
+| `ɛɹ̠ʷ` sǫᴜᴀʀᴇ | |
+| | `ɑːɹ̠ʷ` sᴛᴀʀᴛ |
+| `ɔɹ̠ʷ` ꜰᴏʀᴄᴇ | |
+| `ʊɹ̠ʷ` ᴄᴜʀᴇ | `əɹ̠ʷ` ɴᴜʀsᴇ |
+| | |
+
+<!--v-->
+
+| | |
+|-|-|
+| `ɪə` ɴᴇᴀʀ | |
+| `ɛə` sǫᴜᴀʀᴇ | |
+| | `ɑːə` sᴛᴀʀᴛ |
+| `ɔə` ꜰᴏʀᴄᴇ | |
+| `ʊə` ᴄᴜʀᴇ | `əə` ɴᴜʀsᴇ |
+| | |
+
+<!--v-->
+
+| | |
+|-|-|
+| `ɪə` ɴᴇᴀʀ | |
+| `ɛə` sǫᴜᴀʀᴇ | |
+| | ~~`ɑːə`~~ sᴛᴀʀᴛ |
+| `ɔə` ꜰᴏʀᴄᴇ | |
+| `ʊə` ᴄᴜʀᴇ | `əə` ɴᴜʀsᴇ |
+| | |
+
+<!--v-->
+
+| | |
+|-|-|
+| `ɪə` ɴᴇᴀʀ | |
+| `ɛə` sǫᴜᴀʀᴇ | |
+| | `ɑə` sᴛᴀʀᴛ |
+| `ɔə` ꜰᴏʀᴄᴇ | |
+| `ʊə` ᴄᴜʀᴇ | `əə` ɴᴜʀsᴇ |
+| | |
 
 <!--v-->
 
@@ -809,6 +850,28 @@ At the same time, the unstressed ending of `ɐr` "letter" starts sounding just l
 | `əː` ɴᴜʀsᴇ |
 | |
 
+Notes:
+When the post-vocalic `ɹ̠ʷ` "r" becomes a schwa, the vowels in `ɪɹ̠ʷ` "near", `ɛɹ̠ʷ` "square", `ɑːɹ̠ʷ` "start", `ɔɹ̠ʷ` "force", `ʊɹ̠ʷ` "cure" and `əɹ̠ʷ` "nurse" become diphthongs. As such the onset of `ɑːɹ̠ʷ` "start" becomes a short `ɑː` "palm" vowel, yielding `ɑə` "start". But eventually, all these diphtongs smooth to a long monophtong, and `ɑə` "start" smoothes to `ɑː` "start", merging with `ɑː` "palm". Analogously, `ɔə` "force" merges with `ɔː` "thought", yielding `ɔː` "force". Also, the `ʊə` "cure" vowel merges with `ɔː` "force", yielding `ɔː` "cure".
+
+<!--v-->
+
+| |
+|-|
+| `ɑː` sᴛᴀʀᴛ |
+| `ɔː` ꜰᴏʀᴄᴇ |
+| |
+
+<!--v-->
+
+| |
+|-|
+| `ɑː` ᴘᴀʟᴍ sᴛᴀʀᴛ |
+| `ɔː` ᴛʜᴏᴜɢʜᴛ ꜰᴏʀᴄᴇ |
+| |
+
+Notes:
+Because of these "start"/"palm" and "force"/"thought" mergers, an `ɑː` "r" (pronounced as `ɹ̠ʷ`) is introduced after a `ɑː` "palm" vowel or a `ɔː` "thought" vowel when followed by another vowel as in `aɪ sɔː ɹ̠ʷ‿ɪt` "I saw it".
+
 <!--v-->
 
 ### Schwa
@@ -824,22 +887,39 @@ At the same time, the unstressed ending of `ɐr` "letter" starts sounding just l
 
 | | |
 |-|-|
-| `ə` ᴄᴏᴍᴍ**ᴀ** | `ə` ʟᴇᴛᴛ**ᴇʀ** |
+| `ə` ᴄᴏᴍᴍ**ᴀ** | `əə` ʟᴇᴛᴛ**ᴇʀ** |
 | | |
 
 <!--v-->
 
 | | |
 |-|-|
-| (`ə` ᴄᴏᴍᴍ**ᴀ**) | `ə` ʟᴇᴛᴛ**ᴇʀ** |
+| `ə` ᴄᴏᴍᴍ**ᴀ** | `əː` ʟᴇᴛᴛ**ᴇʀ** |
+| | |
+
+<!--v-->
+
+| | |
+|-|-|
+| `ə` ᴄᴏᴍᴍ**ᴀ** | ~~`əː`~~ ʟᴇᴛᴛ**ᴇʀ** |
+| | |
+
+<!--v-->
+
+| | |
+|-|-|
+| `ə` ᴄᴏᴍᴍ**ᴀ** | `ə` ʟᴇᴛᴛ**ᴇʀ** |
 | | |
 
 <!--v-->
 
 | |
 |-|
-| `ə` ʟᴇᴛᴛ**ᴇʀ** |
+| `ə` ᴄᴏᴍᴍ**ᴀ** ʟᴇᴛᴛ**ᴇʀ** |
 | |
+
+Notes:
+Because of the "comma"/"letter" merger, a `ɹ̠ʷ` "r"-sound can be heard after a `ə` "comma" vowel when followed by another vowel as in `ə kɔmə ɹ̠ʷ‿ɪz djuː` "a comma is due".
 
 <!--v-->
 
@@ -849,21 +929,27 @@ At the same time, the unstressed ending of `ɐr` "letter" starts sounding just l
 
 | |
 |-|
-| `aʊə` ꜰʟᴏᴡᴇʀ |
+| `aʊə` ꜰʟᴏᴡ**ᴇʀ** |
 | |
 
 <!--v-->
 
 | |
 |-|
-| `aə` ꜰʟᴏᴡᴇʀ |
+| `aə` ꜰʟᴏᴡ**ᴇʀ** |
 | |
+
+Notes:
+A `aʊ` "mouth" vowel in combination with a `ə` comma vowel forms a triphthong, as in `aʊə` "flower", which can be reduced to `aə` "flower".
 
 <!--v-->
 
 > All human beings are born free and equal in dignity and rights. They are endowed with reason and conscience and should act towards one another in a spirit of brotherhood.
 
 <small>`ɔːl hjuːmən biːɪŋz ɑː bɔːn fɹ̠ʷiː ənd iːkwəl ɪn dɪgnɪtiː ənd ɹ̠ʷaɪts.`<br>`ðeɪ ɑːɹ̠ʷ‿ɛndaʊd wɪð ɹ̠ʷiːzən ənd kɔnʃəns ənd ʃʊd akt tuːwɔːdz`<br>`wɐn ənɐðəɹ̠ʷ‿ɪn ə spɪɹ̠ʷɪt əv bɹ̠ʷɐðəhʊd.`</small>
+
+Notes:
+Are you ready to try this non-rhotic vowel system?
 
 <!--s-->
 
@@ -989,24 +1075,24 @@ At the same time, the unstressed ending of `ɐr` "letter" starts sounding just l
 
 | | | | | |
 |-|-|-|-|-|
-| `e̞jə` ʟᴀʏᴇʀ | | `ɑjə` ꜰʟɪᴇʀ | | `o̞jə` ʟᴀᴡʏᴇʀ |
-| `əwə` ʟᴏᴡᴇʀ | | `æwə` ꜰʟᴏᴡᴇʀ | | |
+| `e̞jə` ʟᴀʏ**ᴇʀ** | | `ɑjə` ꜰʟɪ**ᴇʀ** | | `o̞jə` ʟᴀᴡʏ**ᴇʀ** |
+| `əwə` ʟᴏᴡ**ᴇʀ** | | `æwə` ꜰʟᴏᴡ**ᴇʀ** | | |
 | | | | | |
 
 <!--v-->
 
 | | | | | |
 |-|-|-|-|-|
-| `e̞ə` ʟᴀʏᴇʀ | | `ɑə` ꜰʟɪᴇʀ | | `o̞ə` ʟᴀᴡʏᴇʀ |
-| `əə` ʟᴏᴡᴇʀ | | `æə` ꜰʟᴏᴡᴇʀ | | |
+| `e̞ə` ʟᴀʏ**ᴇʀ** | | `ɑə` ꜰʟɪ**ᴇʀ** | | `o̞ə` ʟᴀᴡʏ**ᴇʀ** |
+| `əə` ʟᴏᴡ**ᴇʀ** | | `æə` ꜰʟᴏᴡ**ᴇʀ** | | |
 | | | | | |
 
 <!--v-->
 
 | | | | | |
 |-|-|-|-|-|
-| `e̞ə` ʟᴀʏᴇʀ | | `ɑə` ꜰʟɪᴇʀ | | `o̞ə` ʟᴀᴡʏᴇʀ |
-| `əː` ʟᴏᴡᴇʀ | | `æə` ꜰʟᴏᴡᴇʀ | | |
+| `e̞ə` ʟᴀʏ**ᴇʀ** | | `ɑə` ꜰʟɪ**ᴇʀ** | | `o̞ə` ʟᴀᴡʏ**ᴇʀ** |
+| `əː` ʟᴏᴡ**ᴇʀ** | | `æə` ꜰʟᴏᴡ**ᴇʀ** | | |
 | | | | | |
 
 <!--v-->
@@ -1057,6 +1143,12 @@ At the same time, the unstressed ending of `ɐr` "letter" starts sounding just l
 | `əw` ɢᴏᴀᴛ | `ɒ` ʟᴏᴛ |
 | ~~`ʊ`~~`w` ɢᴏᴏsᴇ | ~~`ʊ`~~ ꜰᴏᴏᴛ |
 | | |
+
+
+
+
+
+
 
 <!--v-->
 
@@ -1255,24 +1347,24 @@ At the same time, the unstressed ending of `ɐr` "letter" starts sounding just l
 
 | | | | | |
 |-|-|-|-|-|
-| `e̞ə` ʟᴀʏᴇʀ | | `ɑə` ꜰʟɪᴇʀ | | `o̞ə` ʟᴀᴡʏᴇʀ |
-| `əː` ʟᴏᴡᴇʀ | | `æə` ꜰʟᴏᴡᴇʀ | | |
+| `e̞ə` ʟᴀʏ**ᴇʀ** | | `ɑə` ꜰʟɪ**ᴇʀ** | | `o̞ə` ʟᴀᴡʏ**ᴇʀ** |
+| `əː` ʟᴏᴡ**ᴇʀ** | | `æə` ꜰʟᴏᴡ**ᴇʀ** | | |
 | | | | | |
 
 <!--v-->
 
 | | | | | |
 |-|-|-|-|-|
-| `ɛə` ʟᴀʏᴇʀ | | `ɑə` ꜰʟɪᴇʀ | | `oə` ʟᴀᴡʏᴇʀ |
-| `əː` ʟᴏᴡᴇʀ | | `aə` ꜰʟᴏᴡᴇʀ | | |
+| `ɛə` ʟᴀʏ**ᴇʀ** | | `ɑə` ꜰʟɪ**ᴇʀ** | | `oə` ʟᴀᴡʏ**ᴇʀ** |
+| `əː` ʟᴏᴡ**ᴇʀ** | | `aə` ꜰʟᴏᴡ**ᴇʀ** | | |
 | | | | | |
 
 <!--v-->
 
 | | | | | |
 |-|-|-|-|-|
-| `ɛə` ʟᴀʏᴇʀ | | `ɑə` ꜰʟɪᴇʀ | | `oə` ʟᴀᴡʏᴇʀ |
-| `ɜː` ʟᴏᴡᴇʀ | | `aə` ꜰʟᴏᴡᴇʀ | | |
+| `ɛə` ʟᴀʏ**ᴇʀ** | | `ɑə` ꜰʟɪ**ᴇʀ** | | `oə` ʟᴀᴡʏ**ᴇʀ** |
+| `ɜː` ʟᴏᴡ**ᴇʀ** | | `aə` ꜰʟᴏᴡ**ᴇʀ** | | |
 | | | | | |
 
 <!--v-->
