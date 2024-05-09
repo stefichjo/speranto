@@ -27,6 +27,7 @@ revealOptions:
 
 Notes:
 When you try to map out the vowel phonemes of English accents, it is a good idea to get familiar with the vowel space and the notation of International Phonetic Alphabet (IPA for short).
+<!-- "good idea :/" -->
 
 <!--v-->
 
@@ -120,7 +121,7 @@ Let's start with a five-vowel system. As a convention, let's arrange "a", "e", "
 | | | |
 
 Notes:
-In this vowel system, there we pronounce the same vowel phoneme in "fleece" and "kit", "face" and "dress", "palm" and "trap", "goat" and "lot", as well as "goose" and "foot". Without enough context, this simple five-vowel system may lead to confusion at times, but it's a good starting point.
+In this vowel system, we pronounce the same vowel phoneme in "fleece" and "kit", in "face" and "dress", in "palm" and "trap", in "goat" and "lot", as well as in "goose" and "foot". Without enough context, this simple five-vowel system may lead to confusion at times, but it's a good starting point.
 
 <!--v-->
 
@@ -134,7 +135,7 @@ In this vowel system, there we pronounce the same vowel phoneme in "fleece" and 
 | | |
 
 Notes:
-The "a"-sound serves as a schwa. In fact, just as schwa, it is neither rounded nor unrounded, so it kind-of is a schwa, albeit a near-open version of it.
+The "a"-sound serves as a schwa. So the ending of "comma" sounds just like the vowel in "palm" and "trap" In fact, just like schwa, it is neither rounded nor unrounded, so it kind-of *is* a schwa, albeit a near-open version of it.
 
 <!--v-->
 
@@ -157,7 +158,7 @@ The "a"-sound serves as a schwa. In fact, just as schwa, it is neither rounded n
 | | | |
 
 Notes:
-We can even pronounce diphthongs as in "price", "choice", and "mouth". The unstressed offset "i" and "u" is written with a "j" and "w" in IPA.
+We can go on and pronounce diphthongs as in "price", "choice", and "mouth". The unstressed offset "i" and "u" is written with a `jay`"j" and a `double-yoo`"w" in IPA.
 
 <!--v-->
 
@@ -176,7 +177,7 @@ We can even pronounce diphthongs as in "price", "choice", and "mouth". The unstr
 | | | |
 
 Notes:
-The vowel in "thought" - originally a diphthong - is a monophthong in basically all accents. So instead of `o̞w` "thought", we get `o̞` "thought" in this five-vowel system, merging the "thought"-vowel with "goat" and "lot", for now.
+The vowel in "thought" - originally a diphthong - is a monophthong in basically all accents. So instead of `o̞w` "thought", we get `o̞` "thought" just liek in "goat" and "lot", for now.
 
 <!--v-->
 
@@ -222,7 +223,7 @@ The vowel in "thought" - originally a diphthong - is a monophthong in basically 
 | | | |
 
 Notes:
-Even in this simplified five-vowel system there is room for splitting. If we want to, we can merge the vowel in `u` "strut" with "palm" and "trap": `ɐ` "strut". With these parameters of our first vowel system in mind, let's read the first article of the declaration of human rights. Ready?
+Even in this simplified five-vowel system there is room for splitting, and we can opt for merging the vowel in `u` "strut" with "palm", "trap" and "comma", yielding `ɐ` "strut". Let's give it a go. Ready?
 
 <!--v-->
 
@@ -234,9 +235,6 @@ Even in this simplified five-vowel system there is room for splitting. If we wan
 
 ## Tensing /<br>Un-Tensing
 
-Notes:
-In order to split the vowels in "fleece" and "kit", "face" and "dress", "palm" and "trap", "goat" and "lot", and "goose" and "foot", we're going to massage our vowel space around the central and middle axes and at the edge of the quadri-- I mean square.
-
 <!--v-->
 
 | | | |
@@ -258,9 +256,6 @@ In order to split the vowels in "fleece" and "kit", "face" and "dress", "palm" a
 | | `ɐ` sᴛʀᴜᴛ<br>ᴘᴀʟᴍ ᴛʀᴀᴘ | |
 | | | |
 | | | |
-
-Notes:
-In order to do so, it helps visualizing that there are actually *seven* levels of openness, and we are currently using only half of them. Let's occupy the open back vowel `ɑ` and the open front vowel `a` with "palm" and "trap", splitting them off of the "strut" vowel. We are going to treat the `ɑ` "palm" vowel as the big brother of the `a` "trap" vowel, so keep in mind that while both `ɑ` "palm" and `a` "trap" are "a"-ish, but `ɑ` "palm" is more "a"-ish. So I will reference `ɑ` "palm" before `a` "trap" - sorry `a` "trap".
 
 <!--v-->
 
@@ -287,6 +282,9 @@ In order to do so, it helps visualizing that there are actually *seven* levels o
 | | `ɐ` sᴛʀᴜᴛ | |
 | `a` ᴛʀᴀᴘ | | **`ɑ`** ᴘᴀʟᴍ |
 | | | |
+
+Notes:
+In order to split the vowels in "fleece" and "kit", "face" and "dress", "palm" and "trap", "goat" and "lot", and "goose" and "foot", we're going to massage our vowel space around the central and middle `axeeze` axes and at the edge of the square. In order to do so, it helps visualizing that there are actually *seven* levels of openness, and we are currently using only half of them. So, let's occupy the open back vowel `ɑ` and the open front vowel `a` with "palm" and "trap", splitting them off of the "strut" vowel. The `ɑ` "palm" vowel can be thought of as the "more pronounced" version of the `a` "trap" vowel. It's the vowel you would use to pronounce an "a" in words like "ma" and "pa".
 
 <!--v-->
 
@@ -315,7 +313,7 @@ In order to do so, it helps visualizing that there are actually *seven* levels o
 | | | |
 
 Notes:
-Next, we split `e̞` "dress" from "face", as well as `o̞` "lot" from "goat", yielding `e` "face" and `ɛ` "dress", and `o` "goat" and `ɔ` "lot".
+Next, we split `e̞` "dress" from "face", as well as `o̞` "lot" from "goat", yielding `e` "face" and `ɛ` "dress", and `o` "goat" and `ɔ` "lot". Here, the vowels in `e` "face" and `o` "goat" can be thought of the "more pronounced" versions of `ɛ` "dress" and `ɔ` "lot". You would hear these vowels in words like "hey" and "so".
 
 <!--v-->
 
@@ -357,7 +355,7 @@ Next, we split `e̞` "dress" from "face", as well as `o̞` "lot" from "goat", yi
 | | | | | |
 
 Notes:
-Next, we split `i` "kit" from "fleece" and `u` "foot" from "goose", yielding `ɪ` "kit" and `ʊ` "foot", whereas `i` "fleece" and `u` "goose" remain unchanged. Let's arrange these five vowel pairs in a table.
+Next, we split `i` "kit" from "fleece" and `u` "foot" from "goose", yielding `ɪ` "kit" and `ʊ` "foot". `i` "fleece" and `u` "goose" are now the "more pronounced" counterparts of `ɪ` "kit" and `ʊ` "foot". You can here them in words like "me" and "you".
 
 <!--v-->
 
@@ -393,7 +391,7 @@ Next, we split `i` "kit" from "fleece" and `u` "foot" from "goose", yielding `ɪ
 | | |
 
 Notes:
-We can lengthen `i`, `e`, `ɑ`, `o` and `u`, and we can even diphthongize `eː` to `eɪ` and `oː` to `oʊ`.
+Let's focus on these five pairs of more and less pronounced vowels. In many accents, the more pronounced vowels tend to be longer. The vowels in `e` "face" and `o` "goat" even become diphtongs, yielding `eɪ` "face" and `oʊ` "goat".
 
 <!--v-->
 
@@ -415,9 +413,6 @@ We can lengthen `i`, `e`, `ɑ`, `o` and `u`, and we can even diphthongize `eː` 
 | `aʊ` ᴍᴏᴜᴛʜ | | `ɔ` ᴛʜᴏᴜɢʜᴛ |
 | | | |
 
-Notes:
-Speaking of diphtongs, a onset of the "price"-
-
 <!--v-->
 
 | | | |
@@ -425,6 +420,9 @@ Speaking of diphtongs, a onset of the "price"-
 | `aɪ` ᴘʀɪᴄᴇ | | `ɔɪ` ᴄʜᴏɪᴄᴇ |
 | `aʊ` ᴍᴏᴜᴛʜ | | `ɔː` ᴛʜᴏᴜɢʜᴛ |
 | | | |
+
+Notes:
+Speaking of diphtongs, the onsets and offsets of the diphtongs in `ɐj` "price", `ɐw` "mouth" and `o̞j` "choice" take on their less pronounced form, so we get `aɪ` "price", `aʊ` "mouth" and `ɔɪ` "choice". Also `o̞` "thought" is given the less pronounced `ɔ` "lot" vowel, but in its lengthened form. In accents without lengthened vowels, the vowel in `ɔː` "thought" has the same length as in `ɔ` "cloth", for example, so more like `ɔ` "thought". Ready for our 10+ vowel system in action?
 
 <!--v-->
 
