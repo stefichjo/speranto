@@ -1011,7 +1011,7 @@ Are you ready to try this non-rhotic vowel system?
 | | |
 
 Notes:
-The vowels in `eɪ` "face", `ɛ` "dress", and `oʊ` "goat", that originally split off from the middle of the vowel space, can become closer again, yielding `e̞j` "face", `e̞` "dress, and `o̞w`. So, one might expect to find the `ɔ` "lot" vowel in the middle of the vowel space, yielding `o̞` "lot", but instead `ɔ` "lot" becomes near-open, yielding `ɒ` "lot". On this occasion the `a` "trap" vowel also moves towords the middle of the vowel space, and it becomes the near-open `æ` "trap" vowel.
+The vowels in `eɪ` "face", `ɛ` "dress", and `oʊ` "goat", that originally split off from the middle of the vowel space, can become closer again, yielding `e̞j` "face", `e̞` "dress, and `o̞w`. So, one might expect to find the `ɔ` "lot" vowel in the middle of the vowel space, yielding `o̞` "lot", but instead `ɔ` "lot" becomes near-open, yielding `ɒ` "lot". On this occasion the `a` "trap" vowel also rises towards the middle of the vowel space, and it becomes the near-open `æ` "trap" vowel.
 
 <!--v-->
 
@@ -1079,9 +1079,20 @@ The onset of the `o̞w` "goat" moves to the center of the vowel space, yielding 
 
 | | | |
 |-|-|-|
+| `aj` ᴘʀɪᴄᴇ | | `o̞j` ᴄʜᴏɪᴄᴇ |
+| `aw` ᴍᴏᴜᴛʜ | | `o̞ː` ᴛʜᴏᴜɢʜᴛ |
+| | | |
+
+<!--v-->
+
+| | | |
+|-|-|-|
 | `ɑj` ᴘʀɪᴄᴇ | | `o̞j` ᴄʜᴏɪᴄᴇ |
 | `æw` ᴍᴏᴜᴛʜ | | `o̞ː` ᴛʜᴏᴜɢʜᴛ |
 | | | |
+
+Notes:
+The onset of `ɔɪ` "choice" and the `ɔː` "thought" vowel rise to the middle of the vowel space, yielding `o̞j` "choice" and `o̞ː` "thought". The onset of `aɪ` "price" and `aʊ` "mouth" can stay the same, yielding `aj` "price" and `aw` "mouth", but it can split and become the `ɑː` "palm" vowel and the `æ` "trap" vowel respectively, yielding `ɑj` "price" and `æw` "mouth".
 
 <!--v-->
 
@@ -1109,6 +1120,9 @@ The onset of the `o̞w` "goat" moves to the center of the vowel space, yielding 
 | `əː` ɴᴜʀsᴇ |
 | |
 
+Notes:
+And of course, `ɛː` "square" and `ɔː` "force" rise to the middle of the vowel space, yielding `e̞ː` "square" and `o̞ː` "force".
+
 <!--v-->
 
 ### Triphthongs
@@ -1117,7 +1131,15 @@ The onset of the `o̞w` "goat" moves to the center of the vowel space, yielding 
 
 | | | | | |
 |-|-|-|-|-|
-| `e̞jə` ʟᴀʏ**ᴇʀ** | | `ɑjə` ꜰʟɪ**ᴇʀ** | | `o̞jə` ʟᴀᴡʏ**ᴇʀ** |
+| `eɪə` ʟᴀʏ**ᴇʀ** | | `aɪə` ꜰʟʏ**ᴇʀ** | | `ɔɪə` ʟᴀᴡʏ**ᴇʀ** |
+| `oʊə` ʟᴏᴡ**ᴇʀ** | | `aʊə` ꜰʟᴏᴡ**ᴇʀ** | | |
+| | | | | |
+
+<!--v-->
+
+| | | | | |
+|-|-|-|-|-|
+| `e̞jə` ʟᴀʏ**ᴇʀ** | | `ɑjə` ꜰʟʏ**ᴇʀ** | | `o̞jə` ʟᴀᴡʏ**ᴇʀ** |
 | `əwə` ʟᴏᴡ**ᴇʀ** | | `æwə` ꜰʟᴏᴡ**ᴇʀ** | | |
 | | | | | |
 
@@ -1125,7 +1147,15 @@ The onset of the `o̞w` "goat" moves to the center of the vowel space, yielding 
 
 | | | | | |
 |-|-|-|-|-|
-| `e̞ə` ʟᴀʏ**ᴇʀ** | | `ɑə` ꜰʟɪ**ᴇʀ** | | `o̞ə` ʟᴀᴡʏ**ᴇʀ** |
+| `e̞jə` ʟᴀʏ**ᴇʀ** | | `ɑə` ꜰʟʏ**ᴇʀ** | | `o̞jə` ʟᴀᴡʏ**ᴇʀ** |
+| `əwə` ʟᴏᴡ**ᴇʀ** | | `æə` ꜰʟᴏᴡ**ᴇʀ** | | |
+| | | | | |
+
+<!--v-->
+
+| | | | | |
+|-|-|-|-|-|
+| `e̞ə` ʟᴀʏ**ᴇʀ** | | `ɑə` ꜰʟʏ**ᴇʀ** | | `o̞ə` ʟᴀᴡʏ**ᴇʀ** |
 | `əə` ʟᴏᴡ**ᴇʀ** | | `æə` ꜰʟᴏᴡ**ᴇʀ** | | |
 | | | | | |
 
@@ -1133,9 +1163,12 @@ The onset of the `o̞w` "goat" moves to the center of the vowel space, yielding 
 
 | | | | | |
 |-|-|-|-|-|
-| `e̞ə` ʟᴀʏ**ᴇʀ** | | `ɑə` ꜰʟɪ**ᴇʀ** | | `o̞ə` ʟᴀᴡʏ**ᴇʀ** |
+| `e̞ə` ʟᴀʏ**ᴇʀ** | | `ɑə` ꜰʟʏ**ᴇʀ** | | `o̞ə` ʟᴀᴡʏ**ᴇʀ** |
 | `əː` ʟᴏᴡ**ᴇʀ** | | `æə` ꜰʟᴏᴡ**ᴇʀ** | | |
 | | | | | |
+
+Notes:
+Now that the onsets of the triphthongs in `aɪə` "flyer" and `aʊə` "flower" have become distinct, yiedling `ɑjə` "flyer" and `æwə` "flower", both can be smoothed safely, yielding `ɑə` "flyer" and `æə` "flower". Similarly, `e̞jə` "layer", `o̞jə` "lawyer", and `əwə` "lower" can be smoothed to `e̞ə` "layer", `o̞ə` "lawyer", and `əː` "lower".
 
 <!--v-->
 
@@ -1164,6 +1197,8 @@ The onset of the `o̞w` "goat" moves to the center of the vowel space, yielding 
 | `æ` ᴛʀᴀᴘ | `ɑː` ʙᴀᴛʜ |
 | `ɒ` ʟᴏᴛ | `o̞ː` ᴄʟᴏᴛʜ |
 | | |
+
+<!-- lot/bath andeuten -->
 
 <!--v-->
 
@@ -1389,7 +1424,7 @@ The onset of the `o̞w` "goat" moves to the center of the vowel space, yielding 
 
 | | | | | |
 |-|-|-|-|-|
-| `e̞ə` ʟᴀʏ**ᴇʀ** | | `ɑə` ꜰʟɪ**ᴇʀ** | | `o̞ə` ʟᴀᴡʏ**ᴇʀ** |
+| `e̞ə` ʟᴀʏ**ᴇʀ** | | `ɑə` ꜰʟʏ**ᴇʀ** | | `o̞ə` ʟᴀᴡʏ**ᴇʀ** |
 | `əː` ʟᴏᴡ**ᴇʀ** | | `æə` ꜰʟᴏᴡ**ᴇʀ** | | |
 | | | | | |
 
@@ -1397,7 +1432,7 @@ The onset of the `o̞w` "goat" moves to the center of the vowel space, yielding 
 
 | | | | | |
 |-|-|-|-|-|
-| `ɛə` ʟᴀʏ**ᴇʀ** | | `ɑə` ꜰʟɪ**ᴇʀ** | | `oə` ʟᴀᴡʏ**ᴇʀ** |
+| `ɛə` ʟᴀʏ**ᴇʀ** | | `ɑə` ꜰʟʏ**ᴇʀ** | | `oə` ʟᴀᴡʏ**ᴇʀ** |
 | `əː` ʟᴏᴡ**ᴇʀ** | | `aə` ꜰʟᴏᴡ**ᴇʀ** | | |
 | | | | | |
 
@@ -1405,7 +1440,7 @@ The onset of the `o̞w` "goat" moves to the center of the vowel space, yielding 
 
 | | | | | |
 |-|-|-|-|-|
-| `ɛə` ʟᴀʏ**ᴇʀ** | | `ɑə` ꜰʟɪ**ᴇʀ** | | `oə` ʟᴀᴡʏ**ᴇʀ** |
+| `ɛə` ʟᴀʏ**ᴇʀ** | | `ɑə` ꜰʟʏ**ᴇʀ** | | `oə` ʟᴀᴡʏ**ᴇʀ** |
 | `ɜː` ʟᴏᴡ**ᴇʀ** | | `aə` ꜰʟᴏᴡ**ᴇʀ** | | |
 | | | | | |
 
