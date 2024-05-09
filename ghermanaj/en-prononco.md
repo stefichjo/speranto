@@ -983,6 +983,42 @@ Are you ready to try this non-rhotic vowel system?
 |-|-|
 | `iː` ꜰʟᴇᴇᴄᴇ | `ɪ` ᴋɪᴛ |
 | `e̞j` ꜰᴀᴄᴇ | `e̞` ᴅʀᴇss |
+| `ɑː` ᴘᴀʟᴍ | `a` ᴛʀᴀᴘ |
+| `o̞w` ɢᴏᴀᴛ | ~~`o̞`~~ ʟᴏᴛ |
+| `uː` ɢᴏᴏsᴇ | `ʊ` ꜰᴏᴏᴛ |
+| | |
+
+<!--v-->
+
+| | |
+|-|-|
+| `iː` ꜰʟᴇᴇᴄᴇ | `ɪ` ᴋɪᴛ |
+| `e̞j` ꜰᴀᴄᴇ | `e̞` ᴅʀᴇss |
+| `ɑː` ᴘᴀʟᴍ | `a` ᴛʀᴀᴘ |
+| `o̞w` ɢᴏᴀᴛ | `ɒ` ʟᴏᴛ |
+| `uː` ɢᴏᴏsᴇ | `ʊ` ꜰᴏᴏᴛ |
+| | |
+
+<!--v-->
+
+| | |
+|-|-|
+| `iː` ꜰʟᴇᴇᴄᴇ | `ɪ` ᴋɪᴛ |
+| `e̞j` ꜰᴀᴄᴇ | `e̞` ᴅʀᴇss |
+| `ɑː` ᴘᴀʟᴍ | `æ` ᴛʀᴀᴘ |
+| `o̞w` ɢᴏᴀᴛ | `ɒ` ʟᴏᴛ |
+| `uː` ɢᴏᴏsᴇ | `ʊ` ꜰᴏᴏᴛ |
+| | |
+
+Notes:
+The vowels in `eɪ` "face", `ɛ` "dress", and `oʊ` "goat", that originally split off from the middle of the vowel space, can become closer again, yielding `e̞j` "face", `e̞` "dress, and `o̞w`. So, one might expect to find the `ɔ` "lot" vowel in the middle of the vowel space, yielding `o̞` "lot", but instead `ɔ` "lot" becomes near-open, yielding `ɒ` "lot". On this occasion the `a` "trap" vowel also moves towords the middle of the vowel space, and it becomes the near-open `æ` "trap" vowel.
+
+<!--v-->
+
+| | |
+|-|-|
+| `ɪj` ꜰʟᴇᴇᴄᴇ | `ɪ` ᴋɪᴛ |
+| `e̞j` ꜰᴀᴄᴇ | `e̞` ᴅʀᴇss |
 | `ɑː` ᴘᴀʟᴍ | `æ` ᴛʀᴀᴘ |
 | `o̞w` ɢᴏᴀᴛ | `ɒ` ʟᴏᴛ |
 | `uː` ɢᴏᴏsᴇ | `ʊ` ꜰᴏᴏᴛ |
@@ -998,6 +1034,9 @@ Are you ready to try this non-rhotic vowel system?
 | `o̞w` ɢᴏᴀᴛ | `ɒ` ʟᴏᴛ |
 | `ʊw` ɢᴏᴏsᴇ | `ʊ` ꜰᴏᴏᴛ |
 | | |
+
+Notes:
+As we can see, at this point the `e̞j` "face" vowel is basically the `e̞` "dress" vowel combined with the `j`-glide. Analogously, the `iː` "fleece" vowel can break into the `ɪ` "kit" vowel combined with the `j`-glide, yielding `ɪj` "fleece". Analogously again, the `uː` "goose" vowel can break into the `ʊ` "foot" vowel combined with the `w`-glide, yielding `ʊw` "goose".
 
 <!--v-->
 
@@ -1020,6 +1059,9 @@ Are you ready to try this non-rhotic vowel system?
 | `əw` ɢᴏᴀᴛ | `ɒ` ʟᴏᴛ |
 | ~~`ʊ`~~`w` ɢᴏᴏsᴇ | ~~`ʊ`~~ ꜰᴏᴏᴛ |
 | | |
+
+Notes:
+The onset of the `o̞w` "goat" moves to the center of the vowel space, yielding `əw` "goat". Analogously, the onset of the `ʊw` "goose" vowel, i.e. the `ʊ` "foot" vowel, moves to the center of the vowel space, yielding `ᵿw` "goose" and `ᵿ` "foot".
 
 <!--v-->
 
