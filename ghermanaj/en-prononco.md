@@ -664,6 +664,13 @@ Speaking of diphtongs, the onsets and offsets of the diphtongs in `ɐj` "price",
 
 <!--v-->
 
+| | |
+|-|-|
+| `ə` ᴄᴏᴍᴍ**ᴀ** | `əɹ̠ʷ` ʟᴇᴛᴛ**ᴇʀ** |
+| | |
+
+<!--v-->
+
 > All human beings are born free and equal in dignity and rights. They are endowed with reason and conscience and should act towards one another in a spirit of brotherhood.
 
 <small>`ɔːl hjuːmən biːɪŋz ɑːɹ̠ʷ bɔɹ̠ʷn fɹ̠ʷiː ənd iːkwəl ɪn dɪgnɪtiː ənd ɹ̠ʷaɪts.`<br>`ðeɪ ɑːɹ̠ʷ ɛndaʊd wɪð ɹ̠ʷiːzən ənd kɔnʃəns ənd ʃʊd akt tuːwɔɹ̠ʷdz`<br>`wɐn ənɐðəɹ̠ʷ ɪn ə spɪɹ̠ʷɪt əv bɹ̠ʷɐðəɹ̠ʷhʊd.`</small>
@@ -772,6 +779,20 @@ Speaking of diphtongs, the onsets and offsets of the diphtongs in `ɐj` "price",
 |-|-|
 | `ə` ᴄᴏᴍᴍ**ᴀ** | `ə` ʟᴇᴛᴛ**ᴇʀ** |
 | | |
+
+<!--v-->
+
+| | |
+|-|-|
+| (`ə` ᴄᴏᴍᴍ**ᴀ**) | `ə` ʟᴇᴛᴛ**ᴇʀ** |
+| | |
+
+<!--v-->
+
+| |
+|-|
+| `ə` ʟᴇᴛᴛ**ᴇʀ** |
+| |
 
 <!--v-->
 
@@ -997,6 +1018,28 @@ Speaking of diphtongs, the onsets and offsets of the diphtongs in `ɐj` "price",
 | `ɪj` ꜰʟᴇᴇᴄᴇ | `ɪ` ᴋɪᴛ |
 | `e̞j` ꜰᴀᴄᴇ | `e̞` ᴅʀᴇss |
 | `ɑː` ᴘᴀʟᴍ | `æ` ᴛʀᴀᴘ |
+| `əw` ɢᴏᴀᴛ | ~~`ɒ`~~ ʟᴏᴛ |
+| `ᵿw` ɢᴏᴏsᴇ | `ᵿ` ꜰᴏᴏᴛ |
+| | |
+
+<!--v-->
+
+| | |
+|-|-|
+| `ɪj` ꜰʟᴇᴇᴄᴇ | `ɪ` ᴋɪᴛ |
+| `e̞j` ꜰᴀᴄᴇ | `e̞` ᴅʀᴇss |
+| `ɑː` ᴘᴀʟᴍ | `æ` ᴛʀᴀᴘ |
+| `əw` ɢᴏᴀᴛ | `ɔ` ʟᴏᴛ |
+| `ᵿw` ɢᴏᴏsᴇ | `ᵿ` ꜰᴏᴏᴛ |
+| | |
+
+<!--v-->
+
+| | |
+|-|-|
+| `ɪj` ꜰʟᴇᴇᴄᴇ | `ɪ` ᴋɪᴛ |
+| `e̞j` ꜰᴀᴄᴇ | `e̞` ᴅʀᴇss |
+| `ɑː` ᴘᴀʟᴍ | ~~`æ`~~ ᴛʀᴀᴘ |
 | `əw` ɢᴏᴀᴛ | `ɔ` ʟᴏᴛ |
 | ~~`ʊ`~~`w` ɢᴏᴏsᴇ | ~~`ʊ`~~ ꜰᴏᴏᴛ |
 | | |
@@ -1017,6 +1060,28 @@ Speaking of diphtongs, the onsets and offsets of the diphtongs in `ɐj` "price",
 | | |
 |-|-|
 | `ɪj` ꜰʟᴇᴇᴄᴇ | `ɪ` ᴋɪᴛ |
+| ~~`e̞j`~~ ꜰᴀᴄᴇ | ~~`e̞`~~ ᴅʀᴇss |
+| `ɑː` ᴘᴀʟᴍ | `a` ᴛʀᴀᴘ |
+| `əw` ɢᴏᴀᴛ | `ɔ` ʟᴏᴛ |
+| `ᵿw` ɢᴏᴏsᴇ | `ᵿ` ꜰᴏᴏᴛ |
+| | |
+
+<!--v-->
+
+| | |
+|-|-|
+| `ɪj` ꜰʟᴇᴇᴄᴇ | `ɪ` ᴋɪᴛ |
+| `ɛj` ꜰᴀᴄᴇ | `ɛ` ᴅʀᴇss |
+| `ɑː` ᴘᴀʟᴍ | `a` ᴛʀᴀᴘ |
+| `əw` ɢᴏᴀᴛ | `ɔ` ʟᴏᴛ |
+| `ᵿw` ɢᴏᴏsᴇ | `ᵿ` ꜰᴏᴏᴛ |
+| | |
+
+<!--v-->
+
+| | |
+|-|-|
+| ~~`ɪj`~~ ꜰʟᴇᴇᴄᴇ | ~~`ɪ`~~ ᴋɪᴛ |
 | `ɛj` ꜰᴀᴄᴇ | `ɛ` ᴅʀᴇss |
 | `ɑː` ᴘᴀʟᴍ | `a` ᴛʀᴀᴘ |
 | `əw` ɢᴏᴀᴛ | `ɔ` ʟᴏᴛ |
@@ -1054,6 +1119,17 @@ Speaking of diphtongs, the onsets and offsets of the diphtongs in `ɐj` "price",
 | `ɑː` ᴘᴀʟᴍ | `a` ᴛʀᴀᴘ |
 | `əw` ɢᴏᴀᴛ | `ɔ` ʟᴏᴛ |
 | ~~`ʊ`~~`w` ɢᴏᴏsᴇ | ~~`ʊ`~~ ꜰᴏᴏᴛ |
+| | |
+
+<!--v-->
+
+| | |
+|-|-|
+| `ɪj` ꜰʟᴇᴇᴄᴇ | `ɪ` ᴋɪᴛ |
+| `ɛj` ꜰᴀᴄᴇ | `ɛ` ᴅʀᴇss |
+| `ɑː` ᴘᴀʟᴍ | `a` ᴛʀᴀᴘ |
+| `əw` ɢᴏᴀᴛ | `ɔ` ʟᴏᴛ |
+| ~~`ᵿw`~~ ɢᴏᴏsᴇ | ~~`ᵿ`~~ ꜰᴏᴏᴛ |
 | | |
 
 <!--v-->
