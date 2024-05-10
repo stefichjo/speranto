@@ -232,7 +232,7 @@ Even in this five-vowel system there is room for splitting, and we can opt for m
 <small>`o̞l hjumɐn biiŋz ɐr bo̞rn fri ɐnd ikwɐl in digniti ɐnd rɐjts.`<br>`ðe̞ ɐr e̞ndɐwd wið rizɐn ɐnd ko̞nʃɐns ɐnd ʃud ɐkt tuwo̞rdz`<br>`wɐn ɐnɐðɐr in ɐ spirit ɐv brɐðɐrhud.`</small>
 
 Notes:
-Let's give our five-vowel system a go, shall we?
+Five-vowel system...
 
 <!--s-->
 
@@ -961,7 +961,7 @@ Are you ready to try this non-rhotic ten-vowel system?
 
 <!--s-->
 
-## 8-Vowel System (Un-Tensed E/O)
+## 8-Vowel System (Un-Split E & O)
 
 <!--v-->
 
@@ -1062,7 +1062,7 @@ Let's try our new eight-vowel system.
 
 <!--s-->
 
-## 9-Vowel System (Near-Open A/O)
+## 9-Vowel System (Split A)
 
 <!--v-->
 
@@ -1222,7 +1222,7 @@ Ready for our new nine-vowel system? Let's go.
 
 <!--s-->
 
-## 7-Vowel System (Un-Tensed I/U)
+## 7-Vowel System (Un-Split I & U)
 
 <!--v-->
 
@@ -1569,6 +1569,24 @@ Let's try this seven-vowel system.
 
 <!--v-->
 
+### Schwa
+
+<!--v-->
+
+| |
+|-|
+| `ə` ᴄᴏᴍᴍ**ᴀ** ʟᴇᴛᴛ**ᴇʀ** |
+| |
+
+<!--v-->
+
+| |
+|-|
+| `ɐ` ᴄᴏᴍᴍ**ᴀ** ʟᴇᴛᴛ**ᴇʀ** |
+| |
+
+<!--v-->
+
 ### Post-Vocalic R
 
 <!--v-->
@@ -1631,15 +1649,15 @@ Let's try this seven-vowel system.
 
 | | | | | |
 |-|-|-|-|-|
-| `ɛə` ʟᴀʏ**ᴇʀ** | | `ɑə` ꜰʟʏ**ᴇʀ** | | `oə` ʟᴀᴡʏ**ᴇʀ** |
-| `ɜː` ʟᴏᴡ**ᴇʀ** | | `aə` ꜰʟᴏᴡ**ᴇʀ** | | |
+| `ɛɐ` ʟᴀʏ**ᴇʀ** | | `ɑɐ` ꜰʟʏ**ᴇʀ** | | `oɐ` ʟᴀᴡʏ**ᴇʀ** |
+| `ɜː` ʟᴏᴡ**ᴇʀ** | | `aɐ` ꜰʟᴏᴡ**ᴇʀ** | | |
 | | | | | |
 
 <!--v-->
 
 > All human beings are born free and equal in dignity and rights. They are endowed with reason and conscience and should act towards one another in a spirit of brotherhood.
 
-<small>`oːl hjʉwmən bɪjɪŋz ɑː boːn fɹ̠ʷɪj ənd ɪjkwəl ɪn dɪgnɪtɪj ənd ɹ̠ʷɑjts.`<br>`ðɛj ɑːɹ̠ʷ‿ɛndawd wɪð ɹ̠ʷɪjzən ənd kɔnʃəns ənd ʃɵd akt tɵwoːdz`<br>`wɐn ənɐðəɹ̠ʷ‿ɪn ə spɪɹ̠ʷɪt əv bɹ̠ʷɐðəhɵd.`</small>
+<small>`oːl hjʉwmən bɪjɪŋz ɑː boːn fɹ̠ʷɪj ənd ɪjkwəl ɪn dɪgnɪtɪj ənd ɹ̠ʷɑjts.`<br>`ðɛj ɑːɹ̠ʷ‿ɛndawd wɪð ɹ̠ʷɪjzən ənd kɔnʃəns ənd ʃɵd akt tɵwoːdz`<br>`wɐn ənɐðɐɹ̠ʷ‿ɪn ə spɪɹ̠ʷɪt əv bɹ̠ʷɐðɐhɵd.`</small>
 
 <!--s-->
 
