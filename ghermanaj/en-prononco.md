@@ -421,11 +421,19 @@ Let's focus on these five pairs of more and less pronounced vowels. In many acce
 | | | |
 |-|-|-|
 | `aɪ` ᴘʀɪᴄᴇ | | `ɔɪ` ᴄʜᴏɪᴄᴇ |
+| `aʊ` ᴍᴏᴜᴛʜ | | ~~`ɔ`~~ ᴛʜᴏᴜɢʜᴛ |
+| | | |
+
+<!--v-->
+
+| | | |
+|-|-|-|
+| `aɪ` ᴘʀɪᴄᴇ | | `ɔɪ` ᴄʜᴏɪᴄᴇ |
 | `aʊ` ᴍᴏᴜᴛʜ | | `ɔː` ᴛʜᴏᴜɢʜᴛ |
 | | | |
 
 Notes:
-Speaking of diphtongs, the onsets and offsets of the diphtongs in `ɐj` "price", `ɐw` "mouth" and `o̞j` "choice" take on their less pronounced form, so we get `aɪ` "price", `aʊ` "mouth" and `ɔɪ` "choice". Also `o̞` "thought" is given the less pronounced `ɔ` "lot" vowel, but in its lengthened form. In accents without lengthened vowels, the vowel in `ɔː` "thought" has the same length as in `ɔ` "cloth", for example, so more like `ɔ` "thought".
+Speaking of diphtongs, the onsets and offsets of the diphtongs in `ɐj` "price", `ɐw` "mouth" and `o̞j` "choice" take on their less pronounced form, so we get `aɪ` "price", `aʊ` "mouth" and `ɔɪ` "choice". Also `o̞` "thought" is given the less pronounced `ɔ` "lot" vowel, but in its lengthened form, at least in accents with lengthened vowels, that is.
 
 <!--v-->
 
@@ -953,7 +961,7 @@ Are you ready to try this non-rhotic vowel system?
 
 <!--s-->
 
-## Re-Un-Tensing
+## Re-Un-Tensing (e/o)
 
 <!--v-->
 
@@ -973,95 +981,23 @@ Are you ready to try this non-rhotic vowel system?
 | `iː` ꜰʟᴇᴇᴄᴇ | `ɪ` ᴋɪᴛ |
 | `e̞j` ꜰᴀᴄᴇ | `e̞` ᴅʀᴇss |
 | `ɑː` ᴘᴀʟᴍ | `a` ᴛʀᴀᴘ |
+| `oʊ` ɢᴏᴀᴛ | `ɔ` ʟᴏᴛ |
+| `uː` ɢᴏᴏsᴇ | `ʊ` ꜰᴏᴏᴛ |
+| | |
+
+<!--v-->
+
+| | |
+|-|-|
+| `iː` ꜰʟᴇᴇᴄᴇ | `ɪ` ᴋɪᴛ |
+| `e̞j` ꜰᴀᴄᴇ | `e̞` ᴅʀᴇss |
+| `ɑː` ᴘᴀʟᴍ | `a` ᴛʀᴀᴘ |
 | `o̞w` ɢᴏᴀᴛ | `o̞` ʟᴏᴛ |
 | `uː` ɢᴏᴏsᴇ | `ʊ` ꜰᴏᴏᴛ |
 | | |
 
-<!--v-->
-
-| | |
-|-|-|
-| `iː` ꜰʟᴇᴇᴄᴇ | `ɪ` ᴋɪᴛ |
-| `e̞j` ꜰᴀᴄᴇ | `e̞` ᴅʀᴇss |
-| `ɑː` ᴘᴀʟᴍ | `a` ᴛʀᴀᴘ |
-| `o̞w` ɢᴏᴀᴛ | ~~`o̞`~~ ʟᴏᴛ |
-| `uː` ɢᴏᴏsᴇ | `ʊ` ꜰᴏᴏᴛ |
-| | |
-
-<!--v-->
-
-| | |
-|-|-|
-| `iː` ꜰʟᴇᴇᴄᴇ | `ɪ` ᴋɪᴛ |
-| `e̞j` ꜰᴀᴄᴇ | `e̞` ᴅʀᴇss |
-| `ɑː` ᴘᴀʟᴍ | `a` ᴛʀᴀᴘ |
-| `o̞w` ɢᴏᴀᴛ | `ɒ` ʟᴏᴛ |
-| `uː` ɢᴏᴏsᴇ | `ʊ` ꜰᴏᴏᴛ |
-| | |
-
-<!--v-->
-
-| | |
-|-|-|
-| `iː` ꜰʟᴇᴇᴄᴇ | `ɪ` ᴋɪᴛ |
-| `e̞j` ꜰᴀᴄᴇ | `e̞` ᴅʀᴇss |
-| `ɑː` ᴘᴀʟᴍ | `æ` ᴛʀᴀᴘ |
-| `o̞w` ɢᴏᴀᴛ | `ɒ` ʟᴏᴛ |
-| `uː` ɢᴏᴏsᴇ | `ʊ` ꜰᴏᴏᴛ |
-| | |
-
 Notes:
-The vowels in `eɪ` "face", `ɛ` "dress", and `oʊ` "goat", that originally split off from the middle of the vowel space, can become closer again, yielding `e̞j` "face", `e̞` "dress, and `o̞w`. So, one might expect to find the `ɔ` "lot" vowel in the middle of the vowel space, yielding `o̞` "lot", but instead `ɔ` "lot" becomes near-open, yielding `ɒ` "lot". On this occasion the `a` "trap" vowel also rises towards the middle of the vowel space, and it becomes the near-open `æ` "trap" vowel.
-
-<!--v-->
-
-| | |
-|-|-|
-| `ɪj` ꜰʟᴇᴇᴄᴇ | `ɪ` ᴋɪᴛ |
-| `e̞j` ꜰᴀᴄᴇ | `e̞` ᴅʀᴇss |
-| `ɑː` ᴘᴀʟᴍ | `æ` ᴛʀᴀᴘ |
-| `o̞w` ɢᴏᴀᴛ | `ɒ` ʟᴏᴛ |
-| `uː` ɢᴏᴏsᴇ | `ʊ` ꜰᴏᴏᴛ |
-| | |
-
-<!--v-->
-
-| | |
-|-|-|
-| `ɪj` ꜰʟᴇᴇᴄᴇ | `ɪ` ᴋɪᴛ |
-| `e̞j` ꜰᴀᴄᴇ | `e̞` ᴅʀᴇss |
-| `ɑː` ᴘᴀʟᴍ | `æ` ᴛʀᴀᴘ |
-| `o̞w` ɢᴏᴀᴛ | `ɒ` ʟᴏᴛ |
-| `ʊw` ɢᴏᴏsᴇ | `ʊ` ꜰᴏᴏᴛ |
-| | |
-
-Notes:
-As we can see, at this point the `e̞j` "face" vowel is basically the `e̞` "dress" vowel combined with the `j`-glide. Analogously, the `iː` "fleece" vowel can break into the `ɪ` "kit" vowel combined with the `j`-glide, yielding `ɪj` "fleece". Analogously again, the `uː` "goose" vowel can break into the `ʊ` "foot" vowel combined with the `w`-glide, yielding `ʊw` "goose".
-
-<!--v-->
-
-| | |
-|-|-|
-| `ɪj` ꜰʟᴇᴇᴄᴇ | `ɪ` ᴋɪᴛ |
-| `e̞j` ꜰᴀᴄᴇ | `e̞` ᴅʀᴇss |
-| `ɑː` ᴘᴀʟᴍ | `æ` ᴛʀᴀᴘ |
-| `əw` ɢᴏᴀᴛ | `ɒ` ʟᴏᴛ |
-| `ʊw` ɢᴏᴏsᴇ | `ʊ` ꜰᴏᴏᴛ |
-| | |
-
-<!--v-->
-
-| | |
-|-|-|
-| `ɪj` ꜰʟᴇᴇᴄᴇ | `ɪ` ᴋɪᴛ |
-| `e̞j` ꜰᴀᴄᴇ | `e̞` ᴅʀᴇss |
-| `ɑː` ᴘᴀʟᴍ | `æ` ᴛʀᴀᴘ |
-| `əw` ɢᴏᴀᴛ | `ɒ` ʟᴏᴛ |
-| ~~`ʊ`~~`w` ɢᴏᴏsᴇ | ~~`ʊ`~~ ꜰᴏᴏᴛ |
-| | |
-
-Notes:
-The onset of the `o̞w` "goat" moves to the center of the vowel space, yielding `əw` "goat". Analogously, the onset of the `ʊw` "goose" vowel, i.e. the `ʊ` "foot" vowel, moves to the center of the vowel space, yielding `ᵿw` "goose" and `ᵿ` "foot".
+The `ɛ` "dress" vowel and the onset of the `eɪ` "face" diphthong can be raised and lowered back to the middle of the vowel space, yielding `e̞` "dress" and `e̞j` "face". Notice that the offset of the `e̞j` "face" diphthong has become the fully closed `j`-glide. Analogously, the `ɔ` "lot" vowel and the onset of the `oʊ` "goat" diphthong are raised and lowered, yielding `o̞` "lot" and `o̞w` "goat".
 
 <!--v-->
 
@@ -1083,16 +1019,8 @@ The onset of the `o̞w` "goat" moves to the center of the vowel space, yielding 
 | `aw` ᴍᴏᴜᴛʜ | | `o̞ː` ᴛʜᴏᴜɢʜᴛ |
 | | | |
 
-<!--v-->
-
-| | | |
-|-|-|-|
-| `ɑj` ᴘʀɪᴄᴇ | | `o̞j` ᴄʜᴏɪᴄᴇ |
-| `æw` ᴍᴏᴜᴛʜ | | `o̞ː` ᴛʜᴏᴜɢʜᴛ |
-| | | |
-
 Notes:
-The onset of `ɔɪ` "choice" and the `ɔː` "thought" vowel rise to the middle of the vowel space, yielding `o̞j` "choice" and `o̞ː` "thought". The onset of `aɪ` "price" and `aʊ` "mouth" can stay the same, yielding `aj` "price" and `aw` "mouth", but it can split and become the `ɑː` "palm" vowel and the `æ` "trap" vowel respectively, yielding `ɑj` "price" and `æw` "mouth".
+The onset of `ɔɪ` "choice" and the `ɔː` "thought" vowel are raised to the middle of the vowel space, yielding `o̞j` "choice" and `o̞ː` "thought".
 
 <!--v-->
 
@@ -1123,17 +1051,225 @@ The onset of `ɔɪ` "choice" and the `ɔː` "thought" vowel rise to the middle o
 Notes:
 And of course, `ɛː` "square" and `ɔː` "force" rise to the middle of the vowel space, yielding `e̞ː` "square" and `o̞ː` "force".
 
+<!--s-->
+
+## Near-Open A/O
+
+<!--v-->
+
+| | |
+|-|-|
+| `iː` ꜰʟᴇᴇᴄᴇ | `ɪ` ᴋɪᴛ |
+| `e̞j` ꜰᴀᴄᴇ | `e̞` ᴅʀᴇss |
+| `ɑː` ᴘᴀʟᴍ | `a` ᴛʀᴀᴘ |
+| `o̞w` ɢᴏᴀᴛ | `o̞` ʟᴏᴛ |
+| `uː` ɢᴏᴏsᴇ | `ʊ` ꜰᴏᴏᴛ |
+| | |
+
+<!--v-->
+
+| | |
+|-|-|
+| `iː` ꜰʟᴇᴇᴄᴇ | `ɪ` ᴋɪᴛ |
+| `e̞j` ꜰᴀᴄᴇ | `e̞` ᴅʀᴇss |
+| `ɑː` ᴘᴀʟᴍ | `a` ᴛʀᴀᴘ |
+| `o̞w` ɢᴏᴀᴛ | `o̞ː` ʟᴏᴛ |
+| `uː` ɢᴏᴏsᴇ | `ʊ` ꜰᴏᴏᴛ |
+| | |
+
+<!--v-->
+
+| | |
+|-|-|
+| `iː` ꜰʟᴇᴇᴄᴇ | `ɪ` ᴋɪᴛ |
+| `e̞j` ꜰᴀᴄᴇ | `e̞` ᴅʀᴇss |
+| `ɑː` ᴘᴀʟᴍ | `a` ᴛʀᴀᴘ |
+| `o̞w` ɢᴏᴀᴛ | ~~`o̞ː`~~ ʟᴏᴛ |
+| `uː` ɢᴏᴏsᴇ | `ʊ` ꜰᴏᴏᴛ |
+| | |
+
+<!--v-->
+
+| | |
+|-|-|
+| `iː` ꜰʟᴇᴇᴄᴇ | `ɪ` ᴋɪᴛ |
+| `e̞j` ꜰᴀᴄᴇ | `e̞` ᴅʀᴇss |
+| `ɑː` ᴘᴀʟᴍ | `a` ᴛʀᴀᴘ |
+| `o̞w` ɢᴏᴀᴛ | `ɒ` ʟᴏᴛ |
+| `uː` ɢᴏᴏsᴇ | `ʊ` ꜰᴏᴏᴛ |
+| | |
+
+<!--v-->
+
+| | |
+|-|-|
+| `iː` ꜰʟᴇᴇᴄᴇ | `ɪ` ᴋɪᴛ |
+| `e̞j` ꜰᴀᴄᴇ | `e̞` ᴅʀᴇss |
+| `ɑː` ᴘᴀʟᴍ | `æ` ᴛʀᴀᴘ |
+| `o̞w` ɢᴏᴀᴛ | `ɒ` ʟᴏᴛ |
+| `uː` ɢᴏᴏsᴇ | `ʊ` ꜰᴏᴏᴛ |
+| | |
+
+Notes:
+Until now, the `o̞` "lot" vowel and the `o̞ː` "thought" vowel have been dangerously similar, and there is no way of telling them apart in accents without lengthened vowels. To avoid the risk of merging `o̞` "lot" and `o̞ː` "thought", we can lower `o̞` "lot", yielding the near-open `ɒ` "lot". On this occasion, we can raise the `a` "trap" vowel, yielding the near-open `æ` "trap", for the sake of symmetry in the vowel space.
+
+<!--v-->
+
+### Splitting
+
+<!--v-->
+
+| |
+|-|
+| `æ` ᴛʀᴀᴘ |
+| `ɒ` ʟᴏᴛ |
+| |
+
+<!--v-->
+
+| | |
+|-|-|
+| `æ` ᴛʀᴀᴘ | `a` ʙᴀᴛʜ |
+| `ɒ` ʟᴏᴛ | `o̞` ᴄʟᴏᴛʜ |
+| | |
+
+<!--v-->
+
+| | |
+|-|-|
+| `æ` ᴛʀᴀᴘ | `ɑː` ʙᴀᴛʜ |
+| `ɒ` ʟᴏᴛ | `o̞ː` ᴄʟᴏᴛʜ |
+| | |
+
+<!--v-->
+
+| | |
+|-|-|
+| `æ` ᴛʀᴀᴘ | `æ` ʙᴀᴛʜ |
+| `ɒ` ʟᴏᴛ | `ɒ` ᴄʟᴏᴛʜ |
+| | |
+
+<!--v-->
+
+| |
+|-|
+| `æ` ᴛʀᴀᴘ ʙᴀᴛʜ |
+| `ɒ` ʟᴏᴛ ᴄʟᴏᴛʜ |
+| |
+
+Notes:
+Before fricatives, the `a` "trap" vowel and `o̞` "lot" vowel were not immediately raised and lowered to the near-open `æ` "trap" and `ɒ` "lot", for example in `a` "bath" and `o̞` "cloth". Instead, they merged with `ɑː` "palm" and `o̞ː` "thought", yielding `ɑː` "bath" and `o̞ː` "cloth". Many accents retain at least one of these splits in one form or the other, whereas others re-merge `ɑː` "bath" or `o̞ː` "cloth" with `æ` "trap" and `ɒ` "lot", yielding `æ` "bath" and `ɒ` "cloth".
+
+<!--v-->
+
+| | |
+|-|-|
+| `æ` ᴛʀᴀᴘ | `æ` ʙᴀᴛʜ |
+| `ɒ` ʟᴏᴛ | `o̞ː` ᴄʟᴏᴛʜ |
+| | |
+
+<!--v-->
+
+| | |
+|-|-|
+| `æ` ᴛʀᴀᴘ | `æ` ʙᴀᴛʜ |
+| `ɑː` ʟᴏᴛ | `o̞ː` ᴄʟᴏᴛʜ |
+| | |
+
+Notes:
+Side note: Accents that still have a `ɒ` "lot"/`o̞ː` "cloth" split can merge the `ɒ` "lot" vowel with `ɑː` "palm", yielding `ɑː` "lot".
+
+<!--v-->
+
+### Diphthongs
+
+<!--v-->
+
+| | | |
+|-|-|-|
+| `aj` ᴘʀɪᴄᴇ | | `o̞j` ᴄʜᴏɪᴄᴇ |
+| `aw` ᴍᴏᴜᴛʜ | | `o̞ː` ᴛʜᴏᴜɢʜᴛ |
+| | | |
+
+<!--v-->
+
+| | | |
+|-|-|-|
+| `ɑj` ᴘʀɪᴄᴇ | | `o̞j` ᴄʜᴏɪᴄᴇ |
+| `æw` ᴍᴏᴜᴛʜ | | `o̞ː` ᴛʜᴏᴜɢʜᴛ |
+| | | |
+
+Notes:
+In an accent with a `æ` "trap"/`ɑː` "bath" split, the onsets of `aj` "price" and `aw` "mouth" split as well, yielding `ɑj` "price" and `æw` "mouth".
+
+<!--s-->
+
+## Re-Un-Tensing (i/u)
+
+<!--v-->
+
+| | |
+|-|-|
+| `iː` ꜰʟᴇᴇᴄᴇ | `ɪ` ᴋɪᴛ |
+| `e̞j` ꜰᴀᴄᴇ | `e̞` ᴅʀᴇss |
+| `ɑː` ᴘᴀʟᴍ | `æ` ᴛʀᴀᴘ |
+| `o̞w` ɢᴏᴀᴛ | `ɒ` ʟᴏᴛ |
+| `uː` ɢᴏᴏsᴇ | `ʊ` ꜰᴏᴏᴛ |
+| | |
+
+<!--v-->
+
+| | |
+|-|-|
+| `ɪj` ꜰʟᴇᴇᴄᴇ | `ɪ` ᴋɪᴛ |
+| `e̞j` ꜰᴀᴄᴇ | `e̞` ᴅʀᴇss |
+| `ɑː` ᴘᴀʟᴍ | `æ` ᴛʀᴀᴘ |
+| `o̞w` ɢᴏᴀᴛ | `ɒ` ʟᴏᴛ |
+| `uː` ɢᴏᴏsᴇ | `ʊ` ꜰᴏᴏᴛ |
+| | |
+
+<!--v-->
+
+| | |
+|-|-|
+| `ɪj` ꜰʟᴇᴇᴄᴇ | `ɪ` ᴋɪᴛ |
+| `e̞j` ꜰᴀᴄᴇ | `e̞` ᴅʀᴇss |
+| `ɑː` ᴘᴀʟᴍ | `æ` ᴛʀᴀᴘ |
+| `o̞w` ɢᴏᴀᴛ | `ɒ` ʟᴏᴛ |
+| `ʊw` ɢᴏᴏsᴇ | `ʊ` ꜰᴏᴏᴛ |
+| | |
+
+Notes:
+Analogously to the `e̞` "dress" vowel and the onset of the `e̞j` "face", the `iː` "fleece" vowel breaks into the laxer `ɪ` "kit" vowel combined with the `j`-glide, yielding `ɪj` "fleece". Analogously to the former `o̞` "lot" vowel and the onset of the `o̞w` "goat" diphthong, the `uː` "goose" vowel breaks into the laxer `ʊ` "foot" vowel combined with the `w`-glide, yielding `ʊw` "goose".
+
+<!--v-->
+
+| | |
+|-|-|
+| `ɪj` ꜰʟᴇᴇᴄᴇ | `ɪ` ᴋɪᴛ |
+| `e̞j` ꜰᴀᴄᴇ | `e̞` ᴅʀᴇss |
+| `ɑː` ᴘᴀʟᴍ | `æ` ᴛʀᴀᴘ |
+| `əw` ɢᴏᴀᴛ | `ɒ` ʟᴏᴛ |
+| `ʊw` ɢᴏᴏsᴇ | `ʊ` ꜰᴏᴏᴛ |
+| | |
+
+<!--v-->
+
+| | |
+|-|-|
+| `ɪj` ꜰʟᴇᴇᴄᴇ | `ɪ` ᴋɪᴛ |
+| `e̞j` ꜰᴀᴄᴇ | `e̞` ᴅʀᴇss |
+| `ɑː` ᴘᴀʟᴍ | `æ` ᴛʀᴀᴘ |
+| `əw` ɢᴏᴀᴛ | `ɒ` ʟᴏᴛ |
+| ~~`ʊ`~~`w` ɢᴏᴏsᴇ | ~~`ʊ`~~ ꜰᴏᴏᴛ |
+| | |
+
+Notes:
+The onset of the `o̞w` "goat" moves to the center of the vowel space, turning into a schwa, yielding `əw` "goat". Analogously, the onset of the `ʊw` "goose" vowel, i.e. the `ʊ` "foot" vowel, moves to the center of the vowel space, yielding `ᵿw` "goose" and `ᵿ` "foot". (Good luck with nailing that one!)
+
 <!--v-->
 
 ### Triphthongs
-
-<!--v-->
-
-| | | | | |
-|-|-|-|-|-|
-| `eɪə` ʟᴀʏ**ᴇʀ** | | `aɪə` ꜰʟʏ**ᴇʀ** | | `ɔɪə` ʟᴀᴡʏ**ᴇʀ** |
-| `oʊə` ʟᴏᴡ**ᴇʀ** | | `aʊə` ꜰʟᴏᴡ**ᴇʀ** | | |
-| | | | | |
 
 <!--v-->
 
@@ -1172,39 +1308,11 @@ Now that the onsets of the triphthongs in `aɪə` "flyer" and `aʊə` "flower" h
 
 <!--v-->
 
-### Splitting
-
-<!--v-->
-
-| |
-|-|
-| `æ` ᴛʀᴀᴘ |
-| `ɒ` ʟᴏᴛ |
-| |
-
-<!--v-->
-
-| | |
-|-|-|
-| `æ` ᴛʀᴀᴘ | `æ` ʙᴀᴛʜ |
-| `ɒ` ʟᴏᴛ | `ɒ` ᴄʟᴏᴛʜ |
-| | |
-
-<!--v-->
-
-| | |
-|-|-|
-| `æ` ᴛʀᴀᴘ | `ɑː` ʙᴀᴛʜ |
-| `ɒ` ʟᴏᴛ | `o̞ː` ᴄʟᴏᴛʜ |
-| | |
-
-<!-- lot/bath andeuten -->
-
-<!--v-->
-
 > All human beings are born free and equal in dignity and rights. They are endowed with reason and conscience and should act towards one another in a spirit of brotherhood.
 
-<small>`o̞ːl hj`~~`ʊ`~~`wmən bɪjɪŋz ɑː bo̞ːn fɹ̠ʷɪj ənd ɪjkwəl ɪn dɪgnɪtɪj ənd ɹ̠ʷɑjts.`<br>`ðe̞j ɑːɹ̠ʷ‿e̞ndæwd wɪð ɹ̠ʷɪjzən ənd kɒnʃəns ənd ʃ`~~`ʊ`~~`d ækt t`~~`ʊ`~~`wo̞ːdz`<br>`wɐn ənɐðəɹ̠ʷ‿ɪn ə spɪɹ̠ʷɪt əv bɹ̠ʷɐðəh`~~`ʊ`~~`d.`</small>
+<small>`o̞ːl hjᵿwmən bɪjɪŋz ɑː bo̞ːn fɹ̠ʷɪj ənd ɪjkwəl ɪn dɪgnɪtɪj ənd ɹ̠ʷɑjts.`<br>`ðe̞j ɑːɹ̠ʷ‿e̞ndæwd wɪð ɹ̠ʷɪjzən ənd kɒnʃəns ənd ʃᵿd ækt tᵿwo̞ːdz`<br>`wɐn ənɐðəɹ̠ʷ‿ɪn ə spɪɹ̠ʷɪt əv bɹ̠ʷɐðəhᵿd.`</small>
+
+Notes: Let's try this un-tensed vowel system.
 
 <!--s-->
 
@@ -1538,6 +1646,19 @@ Now that the onsets of the triphthongs in `aɪə` "flyer" and `aʊə` "flower" h
 | `e̞` | | `ə` | | `o̞` |
 | | | | | |
 | | | `ɐ` | | |
+| `a` | | | | `ɑ` |
+| | | | | |
+
+<!--v-->
+
+| | | | | |
+|-|-|-|-|-|
+| `i` | | | | `u` |
+| | `ɪ` | | `ʊ` | |
+| | | | | |
+| `e̞` | | `ə` | | `o̞` |
+| | | | | |
+| | | `ɐ` | | `ɒ` |
 | `a` | | | | `ɑ` |
 | | | | | |
 
