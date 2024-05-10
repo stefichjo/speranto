@@ -1051,6 +1051,16 @@ The onset of `ɔɪ` "choice" and the `ɔː` "thought" vowel are raised to the mi
 Notes:
 And of course, `ɛː` "square" and `ɔː` "force" rise to the middle of the vowel space, yielding `e̞ː` "square" and `o̞ː` "force".
 
+<!--v-->
+
+> All human beings are born free and equal in dignity and rights. They are endowed with reason and conscience and should act towards one another in a spirit of brotherhood.
+
+<small>`o̞ːl hjuːmən biːɪŋz ɑː bo̞ːn fɹ̠ʷiː ənd iːkwəl ɪn dɪgnɪtiː ənd ɹ̠ʷajts.`<br>`ðe̞j ɑːɹ̠ʷ‿e̞ndawd wɪð ɹ̠ʷiːzən ənd ko̞nʃəns ənd ʃʊd akt tuːwo̞ːdz`<br>`wɐn ənɐðəɹ̠ʷ‿ɪn ə spɪɹ̠ʷɪt əv bɹ̠ʷɐðəhʊd.`</small>
+
+Notes:
+...
+<!-- naming -->
+
 <!--s-->
 
 ## Near-Open A/O
@@ -1201,6 +1211,16 @@ Side note: Accents that still have a `ɒ` "lot"/`o̞ː` "cloth" split can merge 
 
 Notes:
 In an accent with a `æ` "trap"/`ɑː` "bath" split, the onsets of `aj` "price" and `aw` "mouth" split as well, yielding `ɑj` "price" and `æw` "mouth".
+
+<!--v-->
+
+> All human beings are born free and equal in dignity and rights. They are endowed with reason and conscience and should act towards one another in a spirit of brotherhood.
+
+<small>`o̞ːl hjuːmən biːɪŋz ɑː bo̞ːn fɹ̠ʷiː ənd iːkwəl ɪn dɪgnɪtiː ənd ɹ̠ʷɑjts.`<br>`ðe̞j ɑːɹ̠ʷ‿e̞ndæwd wɪð ɹ̠ʷiːzən ənd kɒnʃəns ənd ʃʊd ækt tuːwo̞ːdz`<br>`wɐn ənɐðəɹ̠ʷ‿ɪn ə spɪɹ̠ʷɪt əv bɹ̠ʷɐðəhʊd.`</small>
+
+Notes:
+...
+<!-- naming -->
 
 <!--s-->
 
