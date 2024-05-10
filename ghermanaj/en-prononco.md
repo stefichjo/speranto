@@ -1559,6 +1559,9 @@ Notes:
 | `ʉw` ɢᴏᴏsᴇ | `ɵ` ꜰᴏᴏᴛ |
 | | |
 
+Notes:
+Instead of lowering the `ɪ` "kit" vowel to `e` "kit", one can observe the `ᵿ` "foot" vowel being lowered to `ɵ` "foot" and the onset `ᵿ` of the `ᵿw` "goose" diphthong being raised to `ʉw` "goose".
+
 <!--v-->
 
 ### Schwa
@@ -1576,6 +1579,9 @@ Notes:
 |-|
 | `ɐ` ᴄᴏᴍᴍ**ᴀ** ʟᴇᴛᴛ**ᴇʀ** |
 | |
+
+Notes:
+One can also observe the `ə` "comma" vowel merge with the `ɐ` "strut" vowel, yielding `ɐ` "comma" and `ɐ` "letter".
 
 <!--v-->
 
@@ -1624,6 +1630,9 @@ Notes:
 | `oː` ꜰᴏʀᴄᴇ |
 | `ɜː` ɴᴜʀsᴇ |
 | |
+
+Notes:
+The stressed schwa in `əː` can become lowered and unrounded, yielding `ɜː` "nurse".
 
 <!--v-->
 
