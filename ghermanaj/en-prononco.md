@@ -177,7 +177,7 @@ We can go on and pronounce diphthongs as in "price", "choice", and "mouth". The 
 | | | |
 
 Notes:
-The vowel in "thought" - originally a diphthong - is a monophthong in basically all accents. So instead of `o̞w` "thought", we get `o̞` "thought" just liek in "goat" and "lot", for now.
+The vowel in "thought" - originally a diphthong - is a monophthong in basically all accents. So instead of `o̞w` "thought", we get `o̞` "thought" just like in "goat" and "lot", for now.
 
 <!--v-->
 
@@ -223,7 +223,7 @@ The vowel in "thought" - originally a diphthong - is a monophthong in basically 
 | | | |
 
 Notes:
-Even in this simplified five-vowel system there is room for splitting, and we can opt for merging the vowel in `u` "strut" with "palm", "trap" and "comma", yielding `ɐ` "strut".
+Even in this five-vowel system there is room for splitting, and we can opt for merging the vowel in `u` "strut" with "palm", "trap" and "comma", yielding `ɐ` "strut".
 
 <!--v-->
 
@@ -442,7 +442,7 @@ Speaking of diphtongs, the onsets and offsets of the diphtongs in `ɐj` "price",
 <small>`ɔːl hjuːmɐn biːɪŋz ar bɔrn friː ɐnd iːkwɐl ɪn dɪgnɪtiː ɐnd raɪts.`<br>`ðeɪ ar ɛndaʊd wɪð riːzɐn ɐnd kɔnʃɐns ɐnd ʃʊd akt tuːwɔrdz`<br>`wɐn ɐnɐðɐr ɪn ɐ spɪrɪt ɐv brɐðɐrhʊd.`</small>
 
 Notes:
-Ready for our 10+ vowel system in action?
+Let's see our ten-vowel system in action.
 
 <!--s-->
 
@@ -737,7 +737,7 @@ At the same time, the unstressed ending of `ɐr` "letter" starts sounding just l
 <small>`ɔːl hjuːmən biːɪŋz ɑːɹ̠ʷ bɔɹ̠ʷn fɹ̠ʷiː ənd iːkwəl ɪn dɪgnɪtiː ənd ɹ̠ʷaɪts.`<br>`ðeɪ ɑːɹ̠ʷ ɛndaʊd wɪð ɹ̠ʷiːzən ənd kɔnʃəns ənd ʃʊd akt tuːwɔɹ̠ʷdz`<br>`wɐn ənɐðəɹ̠ʷ ɪn ə spɪɹ̠ʷɪt əv bɹ̠ʷɐðəɹ̠ʷhʊd.`</small>
 
 Notes:
-Are you ready to try our 10++ vowel system?
+Are you ready to try our semi-rhotic ten-vowel system?
 
 <!--s-->
 
@@ -957,7 +957,7 @@ A `aʊ` "mouth" vowel in combination with a `ə` comma vowel forms a triphthong,
 <small>`ɔːl hjuːmən biːɪŋz ɑː bɔːn fɹ̠ʷiː ənd iːkwəl ɪn dɪgnɪtiː ənd ɹ̠ʷaɪts.`<br>`ðeɪ ɑːɹ̠ʷ‿ɛndaʊd wɪð ɹ̠ʷiːzən ənd kɔnʃəns ənd ʃʊd akt tuːwɔːdz`<br>`wɐn ənɐðəɹ̠ʷ‿ɪn ə spɪɹ̠ʷɪt əv bɹ̠ʷɐðəhʊd.`</small>
 
 Notes:
-Are you ready to try this non-rhotic vowel system?
+Are you ready to try this non-rhotic ten-vowel system?
 
 <!--s-->
 
@@ -1058,8 +1058,7 @@ And of course, `ɛː` "square" and `ɔː` "force" rise to the middle of the vowe
 <small>`o̞ːl hjuːmən biːɪŋz ɑː bo̞ːn fɹ̠ʷiː ənd iːkwəl ɪn dɪgnɪtiː ənd ɹ̠ʷajts.`<br>`ðe̞j ɑːɹ̠ʷ‿e̞ndawd wɪð ɹ̠ʷiːzən ənd ko̞nʃəns ənd ʃʊd akt tuːwo̞ːdz`<br>`wɐn ənɐðəɹ̠ʷ‿ɪn ə spɪɹ̠ʷɪt əv bɹ̠ʷɐðəhʊd.`</small>
 
 Notes:
-...
-<!-- naming -->
+Let's try our new eight-vowel system.
 
 <!--s-->
 
@@ -1219,8 +1218,7 @@ In an accent with a `æ` "trap"/`ɑː` "bath" split, the onsets of `aj` "price" 
 <small>`o̞ːl hjuːmən biːɪŋz ɑː bo̞ːn fɹ̠ʷiː ənd iːkwəl ɪn dɪgnɪtiː ənd ɹ̠ʷɑjts.`<br>`ðe̞j ɑːɹ̠ʷ‿e̞ndæwd wɪð ɹ̠ʷiːzən ənd kɒnʃəns ənd ʃʊd ækt tuːwo̞ːdz`<br>`wɐn ənɐðəɹ̠ʷ‿ɪn ə spɪɹ̠ʷɪt əv bɹ̠ʷɐðəhʊd.`</small>
 
 Notes:
-...
-<!-- naming -->
+Ready for our new nine-vowel system? Let's go.
 
 <!--s-->
 
@@ -1332,11 +1330,12 @@ Now that the onsets of the triphthongs in `aɪə` "flyer" and `aʊə` "flower" h
 
 <small>`o̞ːl hjᵿwmən bɪjɪŋz ɑː bo̞ːn fɹ̠ʷɪj ənd ɪjkwəl ɪn dɪgnɪtɪj ənd ɹ̠ʷɑjts.`<br>`ðe̞j ɑːɹ̠ʷ‿e̞ndæwd wɪð ɹ̠ʷɪjzən ənd kɒnʃəns ənd ʃᵿd ækt tᵿwo̞ːdz`<br>`wɐn ənɐðəɹ̠ʷ‿ɪn ə spɪɹ̠ʷɪt əv bɹ̠ʷɐðəhᵿd.`</small>
 
-Notes: Let's try this un-tensed vowel system.
+Notes:
+Let's try this seven-vowel system.
 
 <!--s-->
 
-## 8-Vowel System (Rotated)
+## 7-Vowel System (Rotated)
 
 <!--v-->
 
@@ -1349,12 +1348,6 @@ Notes: Let's try this un-tensed vowel system.
 | ~~`ʊ`~~`w` ɢᴏᴏsᴇ | ~~`ʊ`~~ ꜰᴏᴏᴛ |
 | | |
 
-
-
-
-
-
-
 <!--v-->
 
 | | |
@@ -1363,7 +1356,7 @@ Notes: Let's try this un-tensed vowel system.
 | `e̞j` ꜰᴀᴄᴇ | `e̞` ᴅʀᴇss |
 | `ɑː` ᴘᴀʟᴍ | `æ` ᴛʀᴀᴘ |
 | `əw` ɢᴏᴀᴛ | ~~`ɒ`~~ ʟᴏᴛ |
-| `ᵿw` ɢᴏᴏsᴇ | `ᵿ` ꜰᴏᴏᴛ |
+| ~~`ʊ`~~`w` ɢᴏᴏsᴇ | ~~`ʊ`~~ ꜰᴏᴏᴛ |
 | | |
 
 <!--v-->
@@ -1374,7 +1367,7 @@ Notes: Let's try this un-tensed vowel system.
 | `e̞j` ꜰᴀᴄᴇ | `e̞` ᴅʀᴇss |
 | `ɑː` ᴘᴀʟᴍ | `æ` ᴛʀᴀᴘ |
 | `əw` ɢᴏᴀᴛ | `ɔ` ʟᴏᴛ |
-| `ᵿw` ɢᴏᴏsᴇ | `ᵿ` ꜰᴏᴏᴛ |
+| ~~`ʊ`~~`w` ɢᴏᴏsᴇ | ~~`ʊ`~~ ꜰᴏᴏᴛ |
 | | |
 
 <!--v-->
@@ -1407,7 +1400,7 @@ Notes: Let's try this un-tensed vowel system.
 | ~~`e̞j`~~ ꜰᴀᴄᴇ | ~~`e̞`~~ ᴅʀᴇss |
 | `ɑː` ᴘᴀʟᴍ | `a` ᴛʀᴀᴘ |
 | `əw` ɢᴏᴀᴛ | `ɔ` ʟᴏᴛ |
-| `ᵿw` ɢᴏᴏsᴇ | `ᵿ` ꜰᴏᴏᴛ |
+| ~~`ʊ`~~`w` ɢᴏᴏsᴇ | ~~`ʊ`~~ ꜰᴏᴏᴛ |
 | | |
 
 <!--v-->
@@ -1418,7 +1411,7 @@ Notes: Let's try this un-tensed vowel system.
 | `ɛj` ꜰᴀᴄᴇ | `ɛ` ᴅʀᴇss |
 | `ɑː` ᴘᴀʟᴍ | `a` ᴛʀᴀᴘ |
 | `əw` ɢᴏᴀᴛ | `ɔ` ʟᴏᴛ |
-| `ᵿw` ɢᴏᴏsᴇ | `ᵿ` ꜰᴏᴏᴛ |
+| ~~`ʊ`~~`w` ɢᴏᴏsᴇ | ~~`ʊ`~~ ꜰᴏᴏᴛ |
 | | |
 
 <!--v-->
@@ -1431,6 +1424,93 @@ Notes: Let's try this un-tensed vowel system.
 | `əw` ɢᴏᴀᴛ | `ɔ` ʟᴏᴛ |
 | ~~`ʊ`~~`w` ɢᴏᴏsᴇ | ~~`ʊ`~~ ꜰᴏᴏᴛ |
 | | |
+
+<!--v-->
+
+| | |
+|-|-|
+| `ej` ꜰʟᴇᴇᴄᴇ | `e` ᴋɪᴛ |
+| `ɛj` ꜰᴀᴄᴇ | `ɛ` ᴅʀᴇss |
+| `ɑː` ᴘᴀʟᴍ | `a` ᴛʀᴀᴘ |
+| `əw` ɢᴏᴀᴛ | `ɔ` ʟᴏᴛ |
+| ~~`ʊ`~~`w` ɢᴏᴏsᴇ | ~~`ʊ`~~ ꜰᴏᴏᴛ |
+| | |
+
+<!--v-->
+
+### Diphthongs
+
+<!--v-->
+
+| | | |
+|-|-|-|
+| `ɑj` ᴘʀɪᴄᴇ | | `o̞j` ᴄʜᴏɪᴄᴇ |
+| `æw` ᴍᴏᴜᴛʜ | | `o̞ː` ᴛʜᴏᴜɢʜᴛ |
+| | | |
+
+<!--v-->
+
+| | | |
+|-|-|-|
+| `ɑj` ᴘʀɪᴄᴇ | | `oj` ᴄʜᴏɪᴄᴇ |
+| `aw` ᴍᴏᴜᴛʜ | | `oː` ᴛʜᴏᴜɢʜᴛ |
+| | | |
+
+<!--v-->
+
+### Post-Vocalic R
+
+<!--v-->
+
+| |
+|-|
+| `ɪː` ɴᴇᴀʀ |
+| `e̞ː` sǫᴜᴀʀᴇ |
+| `ɑː` sᴛᴀʀᴛ |
+| `o̞ː` ꜰᴏʀᴄᴇ |
+| `əː` ɴᴜʀsᴇ |
+| |
+
+<!--v-->
+
+| |
+|-|
+| `eː` ɴᴇᴀʀ |
+| `ɛː` sǫᴜᴀʀᴇ |
+| `ɑː` sᴛᴀʀᴛ |
+| `oː` ꜰᴏʀᴄᴇ |
+| `əː` ɴᴜʀsᴇ |
+| |
+
+<!--v-->
+
+### Triphthongs
+
+<!--v-->
+
+| | | | | |
+|-|-|-|-|-|
+| `e̞ə` ʟᴀʏ**ᴇʀ** | | `ɑə` ꜰʟʏ**ᴇʀ** | | `o̞ə` ʟᴀᴡʏ**ᴇʀ** |
+| `əː` ʟᴏᴡ**ᴇʀ** | | `æə` ꜰʟᴏᴡ**ᴇʀ** | | |
+| | | | | |
+
+<!--v-->
+
+| | | | | |
+|-|-|-|-|-|
+| `ɛə` ʟᴀʏ**ᴇʀ** | | `ɑə` ꜰʟʏ**ᴇʀ** | | `oə` ʟᴀᴡʏ**ᴇʀ** |
+| `əː` ʟᴏᴡ**ᴇʀ** | | `aə` ꜰʟᴏᴡ**ᴇʀ** | | |
+| | | | | |
+
+<!--v-->
+
+> All human beings are born free and equal in dignity and rights. They are endowed with reason and conscience and should act towards one another in a spirit of brotherhood.
+
+<small>`oːl hjᵿwmən bejeŋz ɑː boːn fɹ̠ʷej ənd ejkwəl en degnetej ənd ɹ̠ʷɑjts.`<br>`ðɛj ɑːɹ̠ʷ‿ɛndawd weð ɹ̠ʷejzən ənd kɔnʃəns ənd ʃᵿd akt tᵿwoːdz`<br>`wɐn ənɐðəɹ̠ʷ‿en ə speɹ̠ʷet əv bɹ̠ʷɐðəhᵿd.`</small>
+
+<!--s-->
+
+## 8-Vowel System (Rotated)
 
 <!--v-->
 
@@ -1473,7 +1553,7 @@ Notes: Let's try this un-tensed vowel system.
 | `ɛj` ꜰᴀᴄᴇ | `ɛ` ᴅʀᴇss |
 | `ɑː` ᴘᴀʟᴍ | `a` ᴛʀᴀᴘ |
 | `əw` ɢᴏᴀᴛ | `ɔ` ʟᴏᴛ |
-| ~~`ᵿw`~~ ɢᴏᴏsᴇ | ~~`ᵿ`~~ ꜰᴏᴏᴛ |
+| ~~`ʊw`~~ ɢᴏᴏsᴇ | ~~`ʊ`~~ ꜰᴏᴏᴛ |
 | | |
 
 <!--v-->
@@ -1489,36 +1569,27 @@ Notes: Let's try this un-tensed vowel system.
 
 <!--v-->
 
-### Diphthongs
-
-<!--v-->
-
-| | | |
-|-|-|-|
-| `ɑj` ᴘʀɪᴄᴇ | | `o̞j` ᴄʜᴏɪᴄᴇ |
-| `æw` ᴍᴏᴜᴛʜ | | `o̞ː` ᴛʜᴏᴜɢʜᴛ |
-| | | |
-
-<!--v-->
-
-| | | |
-|-|-|-|
-| `ɑj` ᴘʀɪᴄᴇ | | `oj` ᴄʜᴏɪᴄᴇ |
-| `aw` ᴍᴏᴜᴛʜ | | `oː` ᴛʜᴏᴜɢʜᴛ |
-| | | |
-
-<!--v-->
-
 ### Post-Vocalic R
 
 <!--v-->
 
 | |
 |-|
-| `ɪː` ɴᴇᴀʀ |
-| `e̞ː` sǫᴜᴀʀᴇ |
+| `eː` ɴᴇᴀʀ |
+| `ɛː` sǫᴜᴀʀᴇ |
 | `ɑː` sᴛᴀʀᴛ |
-| `o̞ː` ꜰᴏʀᴄᴇ |
+| `oː` ꜰᴏʀᴄᴇ |
+| `əː` ɴᴜʀsᴇ |
+| |
+
+<!--v-->
+
+| |
+|-|
+| ~~`eː`~~ ɴᴇᴀʀ |
+| `ɛː` sǫᴜᴀʀᴇ |
+| `ɑː` sᴛᴀʀᴛ |
+| `oː` ꜰᴏʀᴄᴇ |
 | `əː` ɴᴜʀsᴇ |
 | |
 
@@ -1547,14 +1618,6 @@ Notes: Let's try this un-tensed vowel system.
 <!--v-->
 
 ### Triphthongs
-
-<!--v-->
-
-| | | | | |
-|-|-|-|-|-|
-| `e̞ə` ʟᴀʏ**ᴇʀ** | | `ɑə` ꜰʟʏ**ᴇʀ** | | `o̞ə` ʟᴀᴡʏ**ᴇʀ** |
-| `əː` ʟᴏᴡ**ᴇʀ** | | `æə` ꜰʟᴏᴡ**ᴇʀ** | | |
-| | | | | |
 
 <!--v-->
 
