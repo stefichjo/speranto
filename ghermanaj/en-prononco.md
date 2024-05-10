@@ -71,7 +71,7 @@ To add complexity to confusion, English accents come with prestige and stigma, a
 
 <!--s-->
 
-## 5 Vowels
+## 5-Vowel System
 
 Notes:
 In this video I will start from scratch, without making references to actual English accents, be they native or non-native, but giving a simplified overview of English vowel systems, as if they existed in a homogenous continuum where you can pick and chose your accent according to your personal preferences.
@@ -236,7 +236,7 @@ Let's give our five-vowel system a go, shall we?
 
 <!--s-->
 
-## Tensing /<br>Un-Tensing
+## 10-Vowel System (Rhotic)
 
 <!--v-->
 
@@ -446,7 +446,7 @@ Ready for our 10+ vowel system in action?
 
 <!--s-->
 
-## Shortening
+## 10-Vowel System (Semi-Rhotic)
 
 <!--v-->
 
@@ -638,7 +638,7 @@ Similarly, the less pronounced `ʊ` "foot" vowel in `ʊr` "nurse" is pronounced 
 | `eːɹ̠ʷ` sǫᴜᴀʀᴇ | |
 | (`ɑːɹ̠ʷ` ᴍᴀʀ) | `ɑːɹ̠ʷ` sᴛᴀʀᴛ |
 | `oːɹ̠ʷ` ꜰᴏʀᴄᴇ | `ɔɹ̠ʷ` ɴᴏʀᴛʜ |
-| `uːɹ̠ʷ` ᴄᴜʀᴇ | `ɐɹ̠ʷ` ɴᴜʀsᴇ |
+| `uːɹ̠ʷ` ᴄᴜʀᴇ | `əɹ̠ʷ` ɴᴜʀsᴇ |
 | | |
 
 <!--v-->
@@ -741,7 +741,7 @@ Are you ready to try our 10++ vowel system?
 
 <!--s-->
 
-## Lengthening
+## 10-Vowel System (Non-Rhotic)
 
 <!--v-->
 
@@ -961,7 +961,7 @@ Are you ready to try this non-rhotic vowel system?
 
 <!--s-->
 
-## Re-Un-Tensing (e/o)
+## 8-Vowel System (Un-Tensed E/O)
 
 <!--v-->
 
@@ -1063,7 +1063,7 @@ Notes:
 
 <!--s-->
 
-## Near-Open A/O
+## 9-Vowel System (Near-Open A/O)
 
 <!--v-->
 
@@ -1224,7 +1224,7 @@ Notes:
 
 <!--s-->
 
-## Re-Un-Tensing (i/u)
+## 7-Vowel System (Un-Tensed I/U)
 
 <!--v-->
 
@@ -1336,7 +1336,7 @@ Notes: Let's try this un-tensed vowel system.
 
 <!--s-->
 
-## Rotation
+## 8-Vowel System (Rotated)
 
 <!--v-->
 
