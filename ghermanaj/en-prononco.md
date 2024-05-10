@@ -1436,6 +1436,9 @@ Notes:
 | ~~`ʊ`~~`w` ɢᴏᴏsᴇ | ~~`ʊ`~~ ꜰᴏᴏᴛ |
 | | |
 
+Notes:
+After stretching and squeezing our vowel space, we can add a little twist, i.e. an anti-clockwise rotation. The `ɒ` "lot" vowel is raised to `ɔ` "lot", the `æ` "trap" vowel is lowered to `a` "trap", the `e̞` "dress" vowel is lowered to `ɛ` "dress", and the `ɪ` "kit" vowel is lowered to `e` "kit".
+
 <!--v-->
 
 ### Diphthongs
@@ -1455,6 +1458,9 @@ Notes:
 | `ɑj` ᴘʀɪᴄᴇ | | `oj` ᴄʜᴏɪᴄᴇ |
 | `aw` ᴍᴏᴜᴛʜ | | `oː` ᴛʜᴏᴜɢʜᴛ |
 | | | |
+
+Notes:
+Oh, and the `o̞ː` "thought" vowel is raised to `oː` "thought", of course.
 
 <!--v-->
 
@@ -1482,25 +1488,8 @@ Notes:
 | `əː` ɴᴜʀsᴇ |
 | |
 
-<!--v-->
-
-### Triphthongs
-
-<!--v-->
-
-| | | | | |
-|-|-|-|-|-|
-| `e̞ə` ʟᴀʏ**ᴇʀ** | | `ɑə` ꜰʟʏ**ᴇʀ** | | `o̞ə` ʟᴀᴡʏ**ᴇʀ** |
-| `əː` ʟᴏᴡ**ᴇʀ** | | `æə` ꜰʟᴏᴡ**ᴇʀ** | | |
-| | | | | |
-
-<!--v-->
-
-| | | | | |
-|-|-|-|-|-|
-| `ɛə` ʟᴀʏ**ᴇʀ** | | `ɑə` ꜰʟʏ**ᴇʀ** | | `oə` ʟᴀᴡʏ**ᴇʀ** |
-| `əː` ʟᴏᴡ**ᴇʀ** | | `aə` ꜰʟᴏᴡ**ᴇʀ** | | |
-| | | | | |
+Notes:
+So `o̞ː` "force" is raised to `oː` "force", while `e̞ː` "square" and `ɪː` "near" are lowered to `ɛː` "square" and `eː` "near".
 
 <!--v-->
 
@@ -1635,26 +1624,6 @@ Notes:
 | `oː` ꜰᴏʀᴄᴇ |
 | `ɜː` ɴᴜʀsᴇ |
 | |
-
-<!--v-->
-
-### Triphthongs
-
-<!--v-->
-
-| | | | | |
-|-|-|-|-|-|
-| `ɛə` ʟᴀʏ**ᴇʀ** | | `ɑə` ꜰʟʏ**ᴇʀ** | | `oə` ʟᴀᴡʏ**ᴇʀ** |
-| `əː` ʟᴏᴡ**ᴇʀ** | | `aə` ꜰʟᴏᴡ**ᴇʀ** | | |
-| | | | | |
-
-<!--v-->
-
-| | | | | |
-|-|-|-|-|-|
-| `ɛɐ` ʟᴀʏ**ᴇʀ** | | `ɑɐ` ꜰʟʏ**ᴇʀ** | | `oɐ` ʟᴀᴡʏ**ᴇʀ** |
-| `ɜː` ʟᴏᴡ**ᴇʀ** | | `aɐ` ꜰʟᴏᴡ**ᴇʀ** | | |
-| | | | | |
 
 <!--v-->
 
