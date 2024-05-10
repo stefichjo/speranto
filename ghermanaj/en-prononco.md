@@ -232,7 +232,7 @@ Even in this five-vowel system there is room for splitting, and we can opt for m
 <small>`o̞l hjumɐn biiŋz ɐr bo̞rn fri ɐnd ikwɐl in digniti ɐnd rɐjts.`<br>`ðe̞ ɐr e̞ndɐwd wið rizɐn ɐnd ko̞nʃɐns ɐnd ʃud ɐkt tuwo̞rdz`<br>`wɐn ɐnɐðɐr in ɐ spirit ɐv brɐðɐrhud.`</small>
 
 Notes:
-Five-vowel system...
+#1: 5-Vowel System
 
 <!--s-->
 
@@ -442,7 +442,7 @@ Speaking of diphtongs, the onsets and offsets of the diphtongs in `ɐj` "price",
 <small>`ɔːl hjuːmɐn biːɪŋz ar bɔrn friː ɐnd iːkwɐl ɪn dɪgnɪtiː ɐnd raɪts.`<br>`ðeɪ ar ɛndaʊd wɪð riːzɐn ɐnd kɔnʃɐns ɐnd ʃʊd akt tuːwɔrdz`<br>`wɐn ɐnɐðɐr ɪn ɐ spɪrɪt ɐv brɐðɐrhʊd.`</small>
 
 Notes:
-Let's see our ten-vowel system in action.
+#2: 10-Vowel System (Rhotic)
 
 <!--s-->
 
@@ -737,7 +737,7 @@ At the same time, the unstressed ending of `ɐr` "letter" starts sounding just l
 <small>`ɔːl hjuːmən biːɪŋz ɑːɹ̠ʷ bɔɹ̠ʷn fɹ̠ʷiː ənd iːkwəl ɪn dɪgnɪtiː ənd ɹ̠ʷaɪts.`<br>`ðeɪ ɑːɹ̠ʷ ɛndaʊd wɪð ɹ̠ʷiːzən ənd kɔnʃəns ənd ʃʊd akt tuːwɔɹ̠ʷdz`<br>`wɐn ənɐðəɹ̠ʷ ɪn ə spɪɹ̠ʷɪt əv bɹ̠ʷɐðəɹ̠ʷhʊd.`</small>
 
 Notes:
-Are you ready to try our semi-rhotic ten-vowel system?
+#3: 10-Vowel System (Semi-Rhotic)
 
 <!--s-->
 
@@ -957,7 +957,7 @@ A `aʊ` "mouth" vowel in combination with a `ə` comma vowel forms a triphthong,
 <small>`ɔːl hjuːmən biːɪŋz ɑː bɔːn fɹ̠ʷiː ənd iːkwəl ɪn dɪgnɪtiː ənd ɹ̠ʷaɪts.`<br>`ðeɪ ɑːɹ̠ʷ‿ɛndaʊd wɪð ɹ̠ʷiːzən ənd kɔnʃəns ənd ʃʊd akt tuːwɔːdz`<br>`wɐn ənɐðəɹ̠ʷ‿ɪn ə spɪɹ̠ʷɪt əv bɹ̠ʷɐðəhʊd.`</small>
 
 Notes:
-Are you ready to try this non-rhotic ten-vowel system?
+#4: 10-Vowel System (Non-Rhotic)
 
 <!--s-->
 
@@ -1058,7 +1058,7 @@ And of course, `ɛː` "square" and `ɔː` "force" rise to the middle of the vowe
 <small>`o̞ːl hjuːmən biːɪŋz ɑː bo̞ːn fɹ̠ʷiː ənd iːkwəl ɪn dɪgnɪtiː ənd ɹ̠ʷajts.`<br>`ðe̞j ɑːɹ̠ʷ‿e̞ndawd wɪð ɹ̠ʷiːzən ənd ko̞nʃəns ənd ʃʊd akt tuːwo̞ːdz`<br>`wɐn ənɐðəɹ̠ʷ‿ɪn ə spɪɹ̠ʷɪt əv bɹ̠ʷɐðəhʊd.`</small>
 
 Notes:
-Let's try our new eight-vowel system.
+#5: 8-Vowel System (Un-Split E & O)
 
 <!--s-->
 
@@ -1218,7 +1218,7 @@ In an accent with a `æ` "trap"/`ɑː` "bath" split, the onsets of `aj` "price" 
 <small>`o̞ːl hjuːmən biːɪŋz ɑː bo̞ːn fɹ̠ʷiː ənd iːkwəl ɪn dɪgnɪtiː ənd ɹ̠ʷɑjts.`<br>`ðe̞j ɑːɹ̠ʷ‿e̞ndæwd wɪð ɹ̠ʷiːzən ənd kɒnʃəns ənd ʃʊd ækt tuːwo̞ːdz`<br>`wɐn ənɐðəɹ̠ʷ‿ɪn ə spɪɹ̠ʷɪt əv bɹ̠ʷɐðəhʊd.`</small>
 
 Notes:
-Ready for our new nine-vowel system? Let's go.
+#6: 8-Vowel System (Split A)
 
 <!--s-->
 
@@ -1331,7 +1331,7 @@ Now that the onsets of the triphthongs in `aɪə` "flyer" and `aʊə` "flower" h
 <small>`o̞ːl hjᵿwmən bɪjɪŋz ɑː bo̞ːn fɹ̠ʷɪj ənd ɪjkwəl ɪn dɪgnɪtɪj ənd ɹ̠ʷɑjts.`<br>`ðe̞j ɑːɹ̠ʷ‿e̞ndæwd wɪð ɹ̠ʷɪjzən ənd kɒnʃəns ənd ʃᵿd ækt tᵿwo̞ːdz`<br>`wɐn ənɐðəɹ̠ʷ‿ɪn ə spɪɹ̠ʷɪt əv bɹ̠ʷɐðəhᵿd.`</small>
 
 Notes:
-Let's try this seven-vowel system.
+#7: 7-Vowel System (Un-Split I & U)
 
 <!--s-->
 
@@ -1508,6 +1508,9 @@ Let's try this seven-vowel system.
 
 <small>`oːl hjᵿwmən bejeŋz ɑː boːn fɹ̠ʷej ənd ejkwəl en degnetej ənd ɹ̠ʷɑjts.`<br>`ðɛj ɑːɹ̠ʷ‿ɛndawd weð ɹ̠ʷejzən ənd kɔnʃəns ənd ʃᵿd akt tᵿwoːdz`<br>`wɐn ənɐðəɹ̠ʷ‿en ə speɹ̠ʷet əv bɹ̠ʷɐðəhᵿd.`</small>
 
+Notes:
+#8: 7-Vowel System (Rotated)
+
 <!--s-->
 
 ## 8-Vowel System (Rotated)
@@ -1659,9 +1662,12 @@ Let's try this seven-vowel system.
 
 <small>`oːl hjʉwmən bɪjɪŋz ɑː boːn fɹ̠ʷɪj ənd ɪjkwəl ɪn dɪgnɪtɪj ənd ɹ̠ʷɑjts.`<br>`ðɛj ɑːɹ̠ʷ‿ɛndawd wɪð ɹ̠ʷɪjzən ənd kɔnʃəns ənd ʃɵd akt tɵwoːdz`<br>`wɐn ənɐðɐɹ̠ʷ‿ɪn ə spɪɹ̠ʷɪt əv bɹ̠ʷɐðɐhɵd.`</small>
 
+Notes:
+#9: 8-Vowel System (Rotated)
+
 <!--s-->
 
-## 20 Vowels
+## All Vowels
 
 <!--v-->
 
