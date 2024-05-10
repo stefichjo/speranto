@@ -26,8 +26,7 @@ revealOptions:
 [Anatomy]: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Cardinal_vowel_tongue_position-front.svg/400px-Cardinal_vowel_tongue_position-front.svg.png "Anatomy"
 
 Notes:
-When you try to map out the vowel phonemes of English accents, it is a good idea to get familiar with the vowel space and the notation of International Phonetic Alphabet (IPA for short).
-<!-- "good idea :/" -->
+When we try to map out the vowel phonemes of English accents, we refer to the quadrilateral vowel space and use the International Phonetic Alphabet (IPA for short) as the notation.
 
 <!--v-->
 
@@ -36,7 +35,7 @@ When you try to map out the vowel phonemes of English accents, it is a good idea
 [Quadrilateral]: https://upload.wikimedia.org/wikipedia/commons/8/8c/Vowel_quadrilateral_%28IPA_1949%29.png "Quadrilateral"
 
 Notes:
-You can imagine the vowel space as a quadrilateral. To pronounce the vowels on the left, you have to put your tongue forward: `i`, `e`, `ɛ`, `a`. For the vowels on the right, on the other hand, you have to pull your tongue back: `ɑ`, `ɔ`, `o`, `u`. Hence the name "front vowels" and "back vowels". Since these eight vowels lie on the edge of the quadrilateral and most far away from the central axis and the middle axis of the vowel space, they are also referred to as the cardinal vowels. Such an approach seems straightforward. But when you try to compare the vowel systems of English accents, you are likely going to end up with more confusion than you started with.
+To pronounce the vowels on the left, we move our tongue forward: `i`, `e`, `ɛ`, `a`. For the vowels on the right, we pull our tongue back: `ɑ`, `ɔ`, `o`, `u`. Hence the distinction between "front vowels" and "back vowels." These eight vowels lie on the edges of the quadrilateral, far from the central and middle axes of the vowel space, earning them the title of cardinal vowels. While this approach seems straightforward, comparing the vowel systems of English accents often leads to more confusion than clarity.
 
 <!--v-->
 
@@ -49,7 +48,7 @@ You can imagine the vowel space as a quadrilateral. To pronounce the vowels on t
 ## Politics
 
 Notes:
-To add complexity to confusion, English accents come with prestige and stigma, as well as the risk of sounding ridiculous or committing cultural appropriation, both for native and non-native speakers.
+Adding to the complexity, English accents carry notions of prestige and stigma, along with the risk of sounding ridiculous or committing cultural appropriation, impacting both native and non-native speakers.
 
 <!--v-->
 
@@ -74,7 +73,7 @@ To add complexity to confusion, English accents come with prestige and stigma, a
 ## 5-Vowel System
 
 Notes:
-In this video I will start from scratch, without making references to actual English accents, be they native or non-native, but giving a simplified overview of English vowel systems, as if they existed in a homogenous continuum where you can pick and chose your accent according to your personal preferences.
+In this video, we'll begin from scratch, avoiding references to specific English accents, whether native or non-native. Instead, we'll offer a simplified overview of English vowel systems, treating them as if they exist in a homogeneous continuum from which you can pick and choose your accent according to your personal preferences.
 
 <!--v-->
 
@@ -84,7 +83,7 @@ In this video I will start from scratch, without making references to actual Eng
 | |
 
 Notes:
-Let's start with a five-vowel system. As a convention, let's arrange "a", "e", "i", "o", "u" in their cardinal order: "i", "e", "a", "o", "u". While we're at it, let's arrange them in a table where we represent the vowel space as a square instead of a quadrilateral, and let's use the proper IPA symbols.
+Let's start with a five-vowel system. Following convention, we'll arrange "a", "e", "i", "o", "u" in their cardinal order: "i", "e", "a", "o", "u". Additionally, we'll represent them in a table using the proper IPA symbols, showcasing the vowel space as a square instead of a quadrilateral.
 
 <!--v-->
 
@@ -121,7 +120,7 @@ Let's start with a five-vowel system. As a convention, let's arrange "a", "e", "
 | | | |
 
 Notes:
-In this vowel system, we pronounce the same vowel phoneme in "fleece" and "kit", in "face" and "dress", in "palm" and "trap", in "goat" and "lot", as well as in "goose" and "foot". Without enough context, this simple five-vowel system may lead to confusion at times, but it's a good starting point.
+In this vowel system, we pronounce the same vowel phoneme in "fleece" and "kit," in "face" and "dress," in "palm" and "trap," in "goat" and "lot," as well as in "goose" and "foot." While this simplicity offers a solid foundation, lack of context may lead to occasional confusion. Nonetheless, it serves as an excellent starting point for our exploration.
 
 <!--v-->
 
@@ -135,7 +134,7 @@ In this vowel system, we pronounce the same vowel phoneme in "fleece" and "kit",
 | | |
 
 Notes:
-The "a"-sound serves as a schwa. So the ending of "comma" sounds just like the vowel in "palm" and "trap" In fact, just like schwa, it is neither rounded nor unrounded, so it kind-of *is* a schwa, albeit a near-open version of it.
+The "a"-sound functions as a schwa. Consequently, the ending of "comma" sounds identical to the vowel in "palm" and "trap." Essentially, like schwa, it lacks rounding or unrounding, making it akin to a schwa, albeit in a near-open form.
 
 <!--v-->
 
@@ -158,7 +157,7 @@ The "a"-sound serves as a schwa. So the ending of "comma" sounds just like the v
 | | | |
 
 Notes:
-We can go on and pronounce diphthongs as in "price", "choice", and "mouth". The unstressed offset "i" and "u" is written with a `jay`"j" and a `double-yoo`"w" in IPA.
+We can continue by pronouncing diphthongs as in "price", "choice", and "mouth". In IPA, the unstressed offset "i" and "u" are represented with a `jay` "j" and a `double-yoo` "w".
 
 <!--v-->
 
@@ -177,7 +176,7 @@ We can go on and pronounce diphthongs as in "price", "choice", and "mouth". The 
 | | | |
 
 Notes:
-The vowel in "thought" - originally a diphthong - is a monophthong in basically all accents. So instead of `o̞w` "thought", we get `o̞` "thought" just like in "goat" and "lot", for now.
+The vowel in "thought," originally a diphthong, has become a monophthong in practically all accents. Instead of `o̞w` "thought", we use o̞ "thought", resembling the vowel in "goat" and "lot", for now.
 
 <!--v-->
 
@@ -223,7 +222,7 @@ The vowel in "thought" - originally a diphthong - is a monophthong in basically 
 | | | |
 
 Notes:
-Even in this five-vowel system there is room for splitting, and we can opt for merging the vowel in `u` "strut" with "palm", "trap" and "comma", yielding `ɐ` "strut".
+Even within this simplified five-vowel system, we can observe a significant vowel shift: the merging of the vowel in `u` "strut" with those in "palm," "trap," and "comma," resulting in `ɐ` "strut".
 
 <!--v-->
 
@@ -287,7 +286,7 @@ Notes:
 | | | |
 
 Notes:
-In order to split the vowels in "fleece" and "kit", "face" and "dress", "palm" and "trap", "goat" and "lot", and "goose" and "foot", we're going to massage our vowel space around the central and middle `axeeze` axes and at the edge of the square. In order to do so, it helps visualizing that there are actually *seven* levels of openness, and we are currently using only half of them. So, let's occupy the open back vowel `ɑ` and the open front vowel `a` with "palm" and "trap", splitting them off of the "strut" vowel. The `ɑ` "palm" vowel can be thought of as the "more pronounced" version of the `a` "trap" vowel. It's the vowel you would use to pronounce an "a" in words like "ma" and "pa".
+To split the vowels in `i` "fleece" and `i` "kit", `e̞` "face" and `e̞` "dress", `ɐ` "palm" and `ɐ` "trap", `o̞` "goat" and `o̞` "lot", and `u` "goose" and `u` "foot", we need to manipulate our vowel space around the central and middle axes and at the edges of the square. Visualizing that there are actually *seven* levels of openness can be helpful; currently, we're utilizing only half of them. Let's allocate the open back vowel `ɑ` and the open front vowel `a` for `ɑ` "palm" and `a` "trap", separating them from the "strut" vowel. Even though both the `ɑ` "palm" vowel and the `a` "trap" vowel represent the "a"-sound, the "palm" vowel can be considered as more representative than the "trap" vowel, and it is therefore more prominent and tense.
 
 <!--v-->
 
@@ -316,7 +315,7 @@ In order to split the vowels in "fleece" and "kit", "face" and "dress", "palm" a
 | | | |
 
 Notes:
-Next, we split `e̞` "dress" from "face", as well as `o̞` "lot" from "goat", yielding `e` "face" and `ɛ` "dress", and `o` "goat" and `ɔ` "lot". Here, the vowels in `e` "face" and `o` "goat" can be thought of the "more pronounced" versions of `ɛ` "dress" and `ɔ` "lot". You would hear these vowels in words like "hey" and "so".
+Next, we split e̞ "dress" from e̞ "face", as well as o̞ "lot" from e̞ "goat", resulting in e "face" and ɛ "dress", and o "goat" and ɔ "lot". Here, the vowels in e "face" and o "goat" can be considered as the "more prominent" versions of ɛ "dress" and ɔ "lot".
 
 <!--v-->
 
@@ -394,7 +393,7 @@ Next, we split `i` "kit" from "fleece" and `u` "foot" from "goose", yielding `ɪ
 | | |
 
 Notes:
-Let's focus on these five pairs of more and less pronounced vowels. In many accents, the more pronounced vowels tend to be longer. The vowels in `e` "face" and `o` "goat" even become diphtongs, yielding `eɪ` "face" and `oʊ` "goat".
+Let's now focus on these five pairs of more and less prominent vowels. In many accents, the more prominent vowels tend to be longer. In fact, the vowels in `e` "face" and `o` "goat" even develop into diphthongs, resulting in `eɪ` "face" and `oʊ` "goat".
 
 <!--v-->
 
@@ -433,7 +432,7 @@ Let's focus on these five pairs of more and less pronounced vowels. In many acce
 | | | |
 
 Notes:
-Speaking of diphtongs, the onsets and offsets of the diphtongs in `ɐj` "price", `ɐw` "mouth" and `o̞j` "choice" take on their less pronounced form, so we get `aɪ` "price", `aʊ` "mouth" and `ɔɪ` "choice". Also `o̞` "thought" is given the less pronounced `ɔ` "lot" vowel, but in its lengthened form, at least in accents with lengthened vowels, that is.
+Speaking of diphthongs, the onsets and offsets of the diphthongs in `ɐj` "price", `ɐw` "mouth", and `o̞j` "choice" take on their less prominent form, resulting in `aɪ` "price", `aʊ` "mouth", and `ɔɪ` "choice". Additionally, `o̞` "thought" is associated with the less prominent `ɔ` "lot" vowel, albeit in its lengthened form, at least in accents with lengthened vowels.
 
 <!--v-->
 
@@ -504,7 +503,7 @@ Notes:
 | | |
 
 Notes:
-Before "r", the less pronounced `ɪ` "kit" vowel as in `ɪ` "bird" merges with the `ɛ` "dress" vowel in `ɛ` "pearl".
+Before "r", the less prominent `ɪ` "kit" vowel, as heard in `ɪ` "bird", merges with the `ɛ` "dress" vowel in `ɛ` "pearl".
 
 <!--v-->
 
@@ -573,7 +572,7 @@ Before "r", the less pronounced `ɪ` "kit" vowel as in `ɪ` "bird" merges with t
 | | |
 
 Notes:
-Similarly, the less pronounced `ʊ` "foot" vowel in `ʊr` "nurse" is pronounced with the `ɐ` "strut" vowel, yielding `ɐr` "nurse", and the `ɛr` "pearl" vowel merges with the `ɐr` "nurse" vowel, yielding `ɐr` "pearl".
+Similarly, the less prominent `ʊ` "foot" vowel in `ʊr` "nurse" merges with the `ɐ` "strut" vowel, resulting in `ɐr` "nurse", and the `ɛr` "pearl" vowel also merges with the `ɐr` "nurse" vowel, resulting in `ɐr` "pearl".
 
 <!--v-->
 
@@ -653,7 +652,7 @@ Similarly, the less pronounced `ʊ` "foot" vowel in `ʊr` "nurse" is pronounced 
 | | |
 
 Notes:
-When the consonant "r" becomes the semi-vowel `ɹ̠ʷ`, the `ɐ` "strut" vowel in `ɐr` "nurse" becomes a schwa, yielding `əɹ̠ʷ` "nurse". At the same time, the `a` "trap" vowel in `ar` "start" becomes the `ɑː` "palm" vowel, yielding `ɑːɹ̠ʷ` "start".
+When the consonant "r" becomes the semi-vowel `ɹ̠ʷ`, the `ɐ` "strut" vowel in `ɐr` "nurse" changes to a schwa, resulting in `əɹ̠ʷ` "nurse". Simultaneously, the `a` "trap" vowel in `ar` "start" shifts to the `ɑː` "palm" vowel, resulting in `ɑːɹ̠ʷ` "start".
 
 <!--v-->
 
@@ -700,7 +699,7 @@ When the consonant "r" becomes the semi-vowel `ɹ̠ʷ`, the `ɐ` "strut" vowel i
 | | |
 
 Notes:
-The other long vowels become their shorter counter-part, yielding `ɪɹ̠ʷ` "near", `ɛɹ̠ʷ` "square", `ɔɹ̠ʷ` "force" and `ʊɹ̠ʷ` "cure". So `ɔɹ̠ʷ` "north" merges with `ɔɹ̠ʷ` "force". 
+The other long vowels shift to their shorter counterparts, resulting in `ɪɹ̠ʷ` "near", `ɛɹ̠ʷ` "square", `ɔɹ̠ʷ` "force", and `ʊɹ̠ʷ` "cure". Consequently, `ɔɹ̠ʷ` "north" merges with `ɔɹ̠ʷ` "force".
 
 <!--v-->
 
@@ -728,7 +727,7 @@ The other long vowels become their shorter counter-part, yielding `ɪɹ̠ʷ` "ne
 | | |
 
 Notes:
-At the same time, the unstressed ending of `ɐr` "letter" starts sounding just like the vowel in `əɹ̠ʷ` "nurse", yielding `əɹ̠ʷ` "letter". Analogously, the ending of `ɐ` "comma" becomes a schwa, yielding `ə` "comma".
+Simultaneously, the unstressed ending of `ɐr` "letter" begins to sound similar to the vowel in `əɹ̠ʷ` "nurse", resulting in `əɹ̠ʷ` "letter". Likewise, the ending of `ɐ` "comma" transforms into a schwa, resulting in `ə` "comma".
 
 <!--v-->
 
@@ -1645,7 +1644,7 @@ Notes:
 
 <!--s-->
 
-## All Vowels
+# All Vowels
 
 <!--v-->
 
