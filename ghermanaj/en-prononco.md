@@ -1047,7 +1047,7 @@ The onset of `ɔɪ` "choice" and the `ɔː` "thought" vowel are raised to the mi
 | |
 
 Notes:
-And naturally, `ɛː` "square" and `ɔː` "force" rise to the middle of the vowel space, resulting in `e̞ː` "square" and `o̞ː` "force".
+And naturally, `ɛː` "square" and `ɔː` "force" are raised to the middle of the vowel space, resulting in `e̞ː` "square" and `o̞ː` "force".
 
 <!--v-->
 
@@ -1256,7 +1256,7 @@ Notes:
 | | |
 
 Notes:
-Analogously to the `e̞` "dress" vowel and the onset of the `e̞j` "face", the `iː` "fleece" vowel breaks into the laxer `ɪ` "kit" vowel combined with the `j`-glide, yielding `ɪj` "fleece". Analogously to the former `o̞` "lot" vowel and the onset of the `o̞w` "goat" diphthong, the `uː` "goose" vowel breaks into the laxer `ʊ` "foot" vowel combined with the `w`-glide, yielding `ʊw` "goose".
+Similarly to the `e̞` "dress" vowel and the onset of the `e̞j` "face" diphthong, the `iː` "fleece" vowel breaks into the laxer `ɪ` "kit" vowel combined with the `j`-glide, resulting in `ɪj` "fleece." Likewise, akin to the previous `o̞` "lot" vowel and the onset of the `o̞w` "goat" diphthong, the `uː` "goose" vowel breaks into the laxer `ʊ` "foot" vowel combined with the `w`-glide, resulting in `ʊw` "goose.
 
 <!--v-->
 
@@ -1281,7 +1281,7 @@ Analogously to the `e̞` "dress" vowel and the onset of the `e̞j` "face", the `
 | | |
 
 Notes:
-The onset of the `o̞w` "goat" moves to the center of the vowel space, turning into a schwa, yielding `əw` "goat". Analogously, the onset of the `ʊw` "goose" vowel, i.e. the `ʊ` "foot" vowel, moves to the center of the vowel space, yielding `ᵿw` "goose" and `ᵿ` "foot". (Good luck with nailing that one!)
+The onset of the `o̞w` "goat" vowel shifts to the center of the vowel space, transitioning into a schwa, resulting in `əw` "goat." Similarly, the onset of the `ʊw` "goose" vowel, which is the `ʊ` "foot" vowel, also moves to the center of the vowel space, resulting in `ᵿw` "goose" and `ᵿ` "foot."
 
 <!--v-->
 
@@ -1320,7 +1320,7 @@ The onset of the `o̞w` "goat" moves to the center of the vowel space, turning i
 | | | | | |
 
 Notes:
-Now that the onsets of the triphthongs in `aɪə` "flyer" and `aʊə` "flower" have become distinct, yiedling `ɑjə` "flyer" and `æwə` "flower", both can be smoothed safely, yielding `ɑə` "flyer" and `æə` "flower". Similarly, `e̞jə` "layer", `o̞jə` "lawyer", and `əwə` "lower" can be smoothed to `e̞ə` "layer", `o̞ə` "lawyer", and `əː` "lower".
+Now that the onsets of the triphthongs in `aɪə` "flyer" and `aʊə` "flower" have become distinct, resulting in `ɑjə` "flyer" and `æwə` "flower", both can be safely smoothed, resulting in `ɑə` "flyer" and `æə` "flower". Similarly, `e̞jə` "layer", `o̞jə` "lawyer", and `əwə` "lower" can be smoothed to `e̞ə` "layer", `o̞ə` "lawyer", and `əː` "lower".
 
 <!--v-->
 
@@ -1435,7 +1435,7 @@ Notes:
 | | |
 
 Notes:
-After stretching and squeezing our vowel space, we can add a little twist, i.e. an anti-clockwise rotation. The `ɒ` "lot" vowel is raised to `ɔ` "lot", the `æ` "trap" vowel is lowered to `a` "trap", the `e̞` "dress" vowel is lowered to `ɛ` "dress", and the `ɪ` "kit" vowel is lowered to `e` "kit".
+After stretching and squeezing our vowel space, let's add a little twist—a counterclockwise rotation. The `ɒ` "lot" vowel is raised to `ɔ` "lot", the `æ` "trap" vowel is lowered to `a` "trap", the `e̞` "dress" vowel is lowered to `ɛ` "dress", and the `ɪ` "kit" vowel drops to `e` "kit".
 
 <!--v-->
 
@@ -1579,7 +1579,7 @@ Instead of lowering the `ɪ` "kit" vowel to `e` "kit", one can observe the `ᵿ`
 | |
 
 Notes:
-One can also observe the `ə` "comma" vowel merge with the `ɐ` "strut" vowel, yielding `ɐ` "comma" and `ɐ` "letter".
+One can also observe the `ə` "comma" vowel merge with the `ɐ` "strut" vowel, resulting in `ɐ` "comma" and `ɐ` "letter".
 
 <!--v-->
 
@@ -1630,7 +1630,7 @@ One can also observe the `ə` "comma" vowel merge with the `ɐ` "strut" vowel, y
 | |
 
 Notes:
-The stressed schwa in `əː` can become lowered and unrounded, yielding `ɜː` "nurse".
+The stressed schwa in `əː` "nurse" can be lowered and unrounded, resulting in `ɜː` "nurse".
 
 <!--v-->
 
