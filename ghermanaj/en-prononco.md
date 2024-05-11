@@ -858,7 +858,7 @@ Notes:
 | |
 
 Notes:
-When the post-vocalic `ɹ̠ʷ` "r" becomes a schwa, the vowels in `ɪɹ̠ʷ` "near", `ɛɹ̠ʷ` "square", `ɑːɹ̠ʷ` "start", `ɔɹ̠ʷ` "force", `ʊɹ̠ʷ` "cure" and `əɹ̠ʷ` "nurse" become diphthongs. As such the onset of `ɑːɹ̠ʷ` "start" becomes a short `ɑː` "palm" vowel, yielding `ɑə` "start". But eventually, all these diphtongs smooth to a long monophtong, and `ɑə` "start" smoothes to `ɑː` "start", merging with `ɑː` "palm". Analogously, `ɔə` "force" merges with `ɔː` "thought", yielding `ɔː` "force". Also, the `ʊə` "cure" vowel merges with `ɔː` "force", yielding `ɔː` "cure".
+When the post-vocalic `ɹ̠ʷ` "r" transitions into a schwa, the vowels in `ɪɹ̠ʷ` "near", `ɛɹ̠ʷ` "square", `ɑːɹ̠ʷ` "start", `ɔɹ̠ʷ` "force", `ʊɹ̠ʷ` "cure", and `əɹ̠ʷ` "nurse" transform into diphthongs. Consequently, the onset of `ɑːɹ̠ʷ` "start" shortens to a brief `ɑː` "palm" vowel, resulting in `ɑə` "start". However, over time, all these diphthongs smooth into long monophthongs, and `ɑə` "start" smoothens into `ɑː` "start", merging with `ɑː` "palm". Similarly, `ɔə` "force" merges with `ɔː` "thought", leading to `ɔː` "force". Additionally, the `ʊə` "cure" vowel converges with `ɔː` "force", resulting in `ɔː` "cure".
 
 <!--v-->
 
@@ -877,7 +877,7 @@ When the post-vocalic `ɹ̠ʷ` "r" becomes a schwa, the vowels in `ɪɹ̠ʷ` "ne
 | |
 
 Notes:
-Because of these "start"/"palm" and "force"/"thought" mergers, an `ɑː` "r" (pronounced as `ɹ̠ʷ`) is introduced after a `ɑː` "palm" vowel or a `ɔː` "thought" vowel when followed by another vowel as in `aɪ sɔː ɹ̠ʷ‿ɪt` "I saw it".
+Due to the "start"/"palm" merger and the "force"/"thought" merger, an `ɑː` "r" (pronounced as `ɹ̠ʷ`) emerges after a `ɑː` "palm" vowel or a `ɔː` "thought" vowel when followed by another vowel, as in `aɪ sɔː ɹ̠ʷ‿ɪt` "I saw it".
 
 <!--v-->
 
@@ -926,8 +926,7 @@ Because of these "start"/"palm" and "force"/"thought" mergers, an `ɑː` "r" (pr
 | |
 
 Notes:
-Because of the "comma"/"letter" merger, a `ɹ̠ʷ` "r"-sound can be heard after a `ə` "comma" vowel when followed by another vowel as in `ə kɔmə ɹ̠ʷ‿ɪz djuː` "a comma is due".
-
+Due to the "comma"/"letter" merger, a `ɹ̠ʷ` "r"-sound can be heard after a `ə` "comma" vowel when followed by another vowel, as in `ə kɔmə ɹ̠ʷ‿ɪz djuː` "a comma is due".
 <!--v-->
 
 ### Triphthongs
@@ -996,7 +995,7 @@ Notes:
 | | |
 
 Notes:
-The `ɛ` "dress" vowel and the onset of the `eɪ` "face" diphthong can be raised and lowered back to the middle of the vowel space, yielding `e̞` "dress" and `e̞j` "face". Notice that the offset of the `e̞j` "face" diphthong has become the fully closed `j`-glide. Analogously, the `ɔ` "lot" vowel and the onset of the `oʊ` "goat" diphthong are raised and lowered, yielding `o̞` "lot" and `o̞w` "goat".
+The `ɛ` "dress" vowel and the onset of the `eɪ` "face" diphthong can be raised and lowered back to the middle of the vowel space, resulting in `e̞` "dress" and `e̞j` "face". Notice that the offset of the `e̞j` "face" diphthong has become the fully closed `j`-glide. Similarly, the `ɔ` "lot" vowel and the onset of the `oʊ` "goat" diphthong are raised and lowered, resulting in `o̞` "lot" and `o̞w` "goat".
 
 <!--v-->
 
@@ -1019,7 +1018,7 @@ The `ɛ` "dress" vowel and the onset of the `eɪ` "face" diphthong can be raised
 | | | |
 
 Notes:
-The onset of `ɔɪ` "choice" and the `ɔː` "thought" vowel are raised to the middle of the vowel space, yielding `o̞j` "choice" and `o̞ː` "thought".
+The onset of `ɔɪ` "choice" and the `ɔː` "thought" vowel are raised to the middle of the vowel space, resulting in `o̞j` "choice" and `o̞ː` "thought".
 
 <!--v-->
 
@@ -1048,7 +1047,7 @@ The onset of `ɔɪ` "choice" and the `ɔː` "thought" vowel are raised to the mi
 | |
 
 Notes:
-And of course, `ɛː` "square" and `ɔː` "force" rise to the middle of the vowel space, yielding `e̞ː` "square" and `o̞ː` "force".
+And naturally, `ɛː` "square" and `ɔː` "force" rise to the middle of the vowel space, resulting in `e̞ː` "square" and `o̞ː` "force".
 
 <!--v-->
 
@@ -1119,7 +1118,7 @@ Notes:
 | | |
 
 Notes:
-Until now, the `o̞` "lot" vowel and the `o̞ː` "thought" vowel have been dangerously similar, and there is no way of telling them apart in accents without lengthened vowels. To avoid the risk of merging `o̞` "lot" and `o̞ː` "thought", we can lower `o̞` "lot", yielding the near-open `ɒ` "lot". On this occasion, we can raise the `a` "trap" vowel, yielding the near-open `æ` "trap", for the sake of symmetry in the vowel space.
+Until now, the `o̞` "lot" vowel and the `o̞ː` "thought" vowel have been dangerously similar, with no distinguishing feature in accents without lengthened vowels. To prevent the merging of `o̞` "lot" and `o̞ː` "thought", we can lower `o̞` "lot" to the near-open `ɒ` "lot". Additionally, for symmetry in the vowel space, we can raise the `a` "trap" vowel to the near-open `æ` "trap".
 
 <!--v-->
 
@@ -1166,7 +1165,7 @@ Until now, the `o̞` "lot" vowel and the `o̞ː` "thought" vowel have been dange
 | |
 
 Notes:
-Before fricatives, the `a` "trap" vowel and `o̞` "lot" vowel were not immediately raised and lowered to the near-open `æ` "trap" and `ɒ` "lot", for example in `a` "bath" and `o̞` "cloth". Instead, they merged with `ɑː` "palm" and `o̞ː` "thought", yielding `ɑː` "bath" and `o̞ː` "cloth". Many accents retain at least one of these splits in one form or the other, whereas others re-merge `ɑː` "bath" or `o̞ː` "cloth" with `æ` "trap" and `ɒ` "lot", yielding `æ` "bath" and `ɒ` "cloth".
+Before fricatives, the `a` "trap" vowel and `o̞` "lot" vowel do not immediately shift to the near-open `æ` "trap" and `ɒ` "lot", for example in words like `a` "bath" and `o̞` "cloth". Instead, they often merge with `ɑː` "palm" and `o̞ː` "thought", resulting in `ɑː` "bath" and `o̞ː` "cloth". While some accents retain these distinctions, others re-merge `ɑː` "bath" or `o̞ː` "cloth" with `æ` "trap" and `ɒ` "lot", leading to `æ` "bath" and `ɒ` "cloth".
 
 <!--v-->
 
@@ -1185,7 +1184,7 @@ Before fricatives, the `a` "trap" vowel and `o̞` "lot" vowel were not immediate
 | | |
 
 Notes:
-Side note: Accents that still have a `ɒ` "lot"/`o̞ː` "cloth" split can merge the `ɒ` "lot" vowel with `ɑː` "palm", yielding `ɑː` "lot".
+An additional point to note: Accents maintaining the `ɒ` "lot"/`o̞ː` "cloth" split tipically merge the `ɒ` "lot" vowel with `ɑː` "palm", resulting in `ɑː` "lot".
 
 <!--v-->
 
@@ -1208,7 +1207,7 @@ Side note: Accents that still have a `ɒ` "lot"/`o̞ː` "cloth" split can merge 
 | | | |
 
 Notes:
-In an accent with a `æ` "trap"/`ɑː` "bath" split, the onsets of `aj` "price" and `aw` "mouth" split as well, yielding `ɑj` "price" and `æw` "mouth".
+In accents featuring a `æ` "trap"/`ɑː` "bath" split, the onsets of `aj` "price" and `aw` "mouth" also undergo a split, resulting in `ɑj` "price" and `æw` "mouth".
 
 <!--v-->
 
