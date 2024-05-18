@@ -1054,7 +1054,7 @@ And naturally, `ɛː` "square" and `ɔː` "force" are raised to the middle of th
 
 > All human beings are born free and equal in dignity and rights. They are endowed with reason and conscience and should act towards one another in a spirit of brotherhood.
 
-<small>`o̞ːl hjuːmən biːɪŋz ɑː bo̞ːn fɹ̠ʷiː ənd iːkwəl ən dɪgnətiː ənd ɹ̠ʷajts.`<br>`ðe̞j ɑːɹ̠ʷ‿ɪndawd wɪð ɹ̠ʷiːzən ənd ko̞nʃəns ənd ʃʊd akt tuːwo̞ːdz`<br>`wɐn ənɐðəɹ̠ʷ‿ən ə spɪɹ̠ʷət əv bɹ̠ʷɐðəhʊd.`</small>
+<small>`o̞ːl hjuːmən biːɪŋz ɑː bo̞ːn fɹ̠ʷiː ənd iːkwəl ən dɪgnətiː ənd ɹ̠ʷajts.`<br>`ðe̞j ɑːɹ̠ʷ‿ɪndawd wɪð ɹ̠ʷiːzən ənd ko̞nʃəns ənd ʃʊd akt təwo̞ːdz`<br>`wɐn ənɐðəɹ̠ʷ‿ən ə spɪɹ̠ʷət əv bɹ̠ʷɐðəhʊd.`</small>
 
 Notes:
 #5: 8-Vowel System (Un-Split E & O)
@@ -1214,7 +1214,7 @@ In accents featuring a `æ` "trap"/`ɑː` "bath" split, the onsets of `aj` "pric
 
 > All human beings are born free and equal in dignity and rights. They are endowed with reason and conscience and should act towards one another in a spirit of brotherhood.
 
-<small>`o̞ːl hjuːmən biːɪŋz ɑː bo̞ːn fɹ̠ʷiː ənd iːkwəl ən dɪgnətiː ənd ɹ̠ʷɑjts.`<br>`ðe̞j ɑːɹ̠ʷ‿ɪndæwd wɪð ɹ̠ʷiːzən ənd kɒnʃəns ənd ʃʊd ækt tuːwo̞ːdz`<br>`wɐn ənɐðəɹ̠ʷ‿ən ə spɪɹ̠ʷət əv bɹ̠ʷɐðəhʊd.`</small>
+<small>`o̞ːl hjuːmən biːɪŋz ɑː bo̞ːn fɹ̠ʷiː ənd iːkwəl ən dɪgnətiː ənd ɹ̠ʷɑjts.`<br>`ðe̞j ɑːɹ̠ʷ‿ɪndæwd wɪð ɹ̠ʷiːzən ənd kɒnʃəns ənd ʃʊd ækt təwo̞ːdz`<br>`wɐn ənɐðəɹ̠ʷ‿ən ə spɪɹ̠ʷət əv bɹ̠ʷɐðəhʊd.`</small>
 
 Notes:
 #6: 8-Vowel System (Split A)
