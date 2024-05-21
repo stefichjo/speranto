@@ -1327,7 +1327,7 @@ Now that the onsets of the triphthongs in `aɪə` "flyer" and `aʊə` "flower" h
 
 > All human beings are born free and equal in dignity and rights. They are endowed with reason and conscience and should act towards one another in a spirit of brotherhood.
 
-<small>`o̞ːl hjᵿwmən bɪjɪŋz ɑː bo̞ːn fɹ̠ʷɪj ənd ɪjkwəl`<br>`ɪn dɪgnɪtɪj ənd ɹ̠ʷɑjts.`<br>`ðe̞j ɑːɹ̠ʷ‿ɪndæwd wɪð ɹ̠ʷɪjzən ənd kɒnʃəns`<br>`ənd ʃᵿd ækt təwo̞ːdz wɐn ənɐðəɹ̠ʷ‿ɪn`<br>`ə spɪɹ̠ʷɪt əv bɹ̠ʷɐðəhᵿd.`</small>
+<small>`o̞ːl hj`~~`ʊ`~~`wmən bɪjɪŋz ɑː bo̞ːn fɹ̠ʷɪj ənd ɪjkwəl`<br>`ɪn dɪgnɪtɪj ənd ɹ̠ʷɑjts.`<br>`ðe̞j ɑːɹ̠ʷ‿ɪndæwd wɪð ɹ̠ʷɪjzən ənd kɒnʃəns`<br>`ənd ʃ`~~`ʊ`~~`d ækt təwo̞ːdz wɐn ənɐðəɹ̠ʷ‿ɪn`<br>`ə spɪɹ̠ʷɪt əv bɹ̠ʷɐðəh`~~`ʊ`~~`d.`</small>
 
 Notes:
 #7: 7-Vowel System (Un-Split I & U)
@@ -1494,7 +1494,7 @@ So `o̞ː` "force" is raised to `oː` "force", while `e̞ː` "square" and `ɪː`
 
 > All human beings are born free and equal in dignity and rights. They are endowed with reason and conscience and should act towards one another in a spirit of brotherhood.
 
-<small>`oːl hjᵿwmən bejeŋz ɑː boːn fɹ̠ʷej ənd ejkwəl`<br>`en degnetej ənd ɹ̠ʷɑjts.`<br>`ðɛj ɑːɹ̠ʷ‿endawd weð ɹ̠ʷejzən ənd kɔnʃəns`<br>`ənd ʃᵿd akt təwoːdz wɐn ənɐðəɹ̠ʷ‿ɪn`<br>`ə speɹ̠ʷet əv bɹ̠ʷɐðəhᵿd.`</small>
+<small>`oːl hj`~~`ʊ`~~`wmən bejeŋz ɑː boːn fɹ̠ʷej ənd ejkwəl`<br>`en degnetej ənd ɹ̠ʷɑjts.`<br>`ðɛj ɑːɹ̠ʷ‿endawd weð ɹ̠ʷejzən ənd kɔnʃəns`<br>`ənd ʃ`~~`ʊ`~~`d akt təwoːdz wɐn ənɐðəɹ̠ʷ‿ɪn`<br>`ə speɹ̠ʷet əv bɹ̠ʷɐðəh`~~`ʊ`~~`d.`</small>
 
 Notes:
 #8: 7-Vowel System (Rotated)
