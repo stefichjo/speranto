@@ -235,7 +235,8 @@ Notes:
 
 <!--s-->
 
-## 10-Vowel System (Rhotic)
+## 10-Vowel System
+*(Rhotic)*
 
 <!--v-->
 
@@ -445,7 +446,8 @@ Notes:
 
 <!--s-->
 
-## 10-Vowel System (Semi-Rhotic)
+## 10-Vowel System
+*(Semi-Rhotic)*
 
 <!--v-->
 
@@ -740,7 +742,8 @@ Notes:
 
 <!--s-->
 
-## 10-Vowel System (Non-Rhotic)
+## 10-Vowel System
+*(Non-Rhotic)*
 
 <!--v-->
 
@@ -960,7 +963,8 @@ Notes:
 
 <!--s-->
 
-## 8-Vowel System (Un-Split E & O)
+## 8-Vowel System
+*(Un-Split E & O)*
 
 <!--v-->
 
@@ -1061,7 +1065,8 @@ Notes:
 
 <!--s-->
 
-## 9-Vowel System (Split A)
+## 9-Vowel System
+*(Split A)*
 
 <!--v-->
 
@@ -1221,7 +1226,8 @@ Notes:
 
 <!--s-->
 
-## 7-Vowel System (Un-Split I & U)
+## 7-Vowel System
+*(Un-Split I & U)*
 
 <!--v-->
 
@@ -1334,7 +1340,8 @@ Notes:
 
 <!--s-->
 
-## 7-Vowel System (Rotated)
+## 7-Vowel System
+*(Rotated)*
 
 <!--v-->
 
@@ -1501,7 +1508,8 @@ Notes:
 
 <!--s-->
 
-## 8-Vowel System (Rotated)
+## 8-Vowel System
+*(Rotated)*
 
 <!--v-->
 
