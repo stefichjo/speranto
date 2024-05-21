@@ -953,7 +953,7 @@ A `aʊ` "mouth" vowel in combination with a `ə` comma vowel forms a triphthong,
 
 > All human beings are born free and equal in dignity and rights. They are endowed with reason and conscience and should act towards one another in a spirit of brotherhood.
 
-<small>`ɔːl hjuːmən biːɪŋz ɑː bɔːn fɹ̠ʷiː ənd iːkwəl`<br>`ən dɪgnɪtiː ənd ɹ̠ʷaɪts.`<br>`ðeɪ ɑːɹ̠ʷ‿ɪndaʊd wɪð ɹ̠ʷiːzən ənd kɔnʃəns`<br>`ənd ʃʊd akt təwɔːdz wɐn ənɐðəɹ̠ʷ‿ən`<br>`ə spɪɹ̠ʷɪt əv bɹ̠ʷɐðəhʊd.`</small>
+<small>`ɔːl hjuːmən biːɪŋz ɑː bɔːn fɹ̠ʷiː ənd iːkwəl`<br>`ɪn dɪgnɪtiː ənd ɹ̠ʷaɪts.`<br>`ðeɪ ɑːɹ̠ʷ‿ɪndaʊd wɪð ɹ̠ʷiːzən ənd kɔnʃəns`<br>`ənd ʃʊd akt təwɔːdz wɐn ənɐðəɹ̠ʷ‿ən`<br>`ə spɪɹ̠ʷɪt əv bɹ̠ʷɐðəhʊd.`</small>
 
 Notes:
 #4: 10-Vowel System (Non-Rhotic)
@@ -1054,7 +1054,7 @@ And naturally, `ɛː` "square" and `ɔː` "force" are raised to the middle of th
 
 > All human beings are born free and equal in dignity and rights. They are endowed with reason and conscience and should act towards one another in a spirit of brotherhood.
 
-<small>`o̞ːl hjuːmən biːɪŋz ɑː bo̞ːn fɹ̠ʷiː ənd iːkwəl`<br>`ən dɪgnɪtiː ənd ɹ̠ʷajts.`<br>`ðe̞j ɑːɹ̠ʷ‿ɪndawd wɪð ɹ̠ʷiːzən ənd ko̞nʃəns`<br>`ənd ʃʊd akt təwo̞ːdz wɐn ənɐðəɹ̠ʷ‿ən`<br>`ə spɪɹ̠ʷɪt əv bɹ̠ʷɐðəhʊd.`</small>
+<small>`o̞ːl hjuːmən biːɪŋz ɑː bo̞ːn fɹ̠ʷiː ənd iːkwəl`<br>`ɪn dɪgnɪtiː ənd ɹ̠ʷajts.`<br>`ðe̞j ɑːɹ̠ʷ‿ɪndawd wɪð ɹ̠ʷiːzən ənd ko̞nʃəns`<br>`ənd ʃʊd akt təwo̞ːdz wɐn ənɐðəɹ̠ʷ‿ən`<br>`ə spɪɹ̠ʷɪt əv bɹ̠ʷɐðəhʊd.`</small>
 
 Notes:
 #5: 8-Vowel System (Un-Split E & O)
@@ -1214,7 +1214,7 @@ In accents featuring a `æ` "trap"/`ɑː` "bath" split, the onsets of `aj` "pric
 
 > All human beings are born free and equal in dignity and rights. They are endowed with reason and conscience and should act towards one another in a spirit of brotherhood.
 
-<small>`o̞ːl hjuːmən biːɪŋz ɑː bo̞ːn fɹ̠ʷiː ənd iːkwəl`<br>`ən dɪgnɪtiː ənd ɹ̠ʷɑjts.`<br>`ðe̞j ɑːɹ̠ʷ‿ɪndæwd wɪð ɹ̠ʷiːzən ənd kɒnʃəns`<br>`ənd ʃʊd ækt təwo̞ːdz wɐn ənɐðəɹ̠ʷ‿ən`<br>`ə spɪɹ̠ʷɪt əv bɹ̠ʷɐðəhʊd.`</small>
+<small>`o̞ːl hjuːmən biːɪŋz ɑː bo̞ːn fɹ̠ʷiː ənd iːkwəl`<br>`ɪn dɪgnɪtiː ənd ɹ̠ʷɑjts.`<br>`ðe̞j ɑːɹ̠ʷ‿ɪndæwd wɪð ɹ̠ʷiːzən ənd kɒnʃəns`<br>`ənd ʃʊd ækt təwo̞ːdz wɐn ənɐðəɹ̠ʷ‿ən`<br>`ə spɪɹ̠ʷɪt əv bɹ̠ʷɐðəhʊd.`</small>
 
 Notes:
 #6: 8-Vowel System (Split A)
@@ -1327,7 +1327,7 @@ Now that the onsets of the triphthongs in `aɪə` "flyer" and `aʊə` "flower" h
 
 > All human beings are born free and equal in dignity and rights. They are endowed with reason and conscience and should act towards one another in a spirit of brotherhood.
 
-<small>`o̞ːl hjᵿwmən bɪjɪŋz ɑː bo̞ːn fɹ̠ʷɪj ənd ɪjkwəl`<br>`ən dɪgnɪtɪj ənd ɹ̠ʷɑjts.`<br>`ðe̞j ɑːɹ̠ʷ‿ɪndæwd wɪð ɹ̠ʷɪjzən ənd kɒnʃəns`<br>`ənd ʃᵿd ækt təwo̞ːdz wɐn ənɐðəɹ̠ʷ‿ən`<br>`ə spɪɹ̠ʷɪt əv bɹ̠ʷɐðəhᵿd.`</small>
+<small>`o̞ːl hjᵿwmən bɪjɪŋz ɑː bo̞ːn fɹ̠ʷɪj ənd ɪjkwəl`<br>`ɪn dɪgnɪtɪj ənd ɹ̠ʷɑjts.`<br>`ðe̞j ɑːɹ̠ʷ‿ɪndæwd wɪð ɹ̠ʷɪjzən ənd kɒnʃəns`<br>`ənd ʃᵿd ækt təwo̞ːdz wɐn ənɐðəɹ̠ʷ‿ən`<br>`ə spɪɹ̠ʷɪt əv bɹ̠ʷɐðəhᵿd.`</small>
 
 Notes:
 #7: 7-Vowel System (Un-Split I & U)
@@ -1494,7 +1494,7 @@ So `o̞ː` "force" is raised to `oː` "force", while `e̞ː` "square" and `ɪː`
 
 > All human beings are born free and equal in dignity and rights. They are endowed with reason and conscience and should act towards one another in a spirit of brotherhood.
 
-<small>`oːl hjᵿwmən bejeŋz ɑː boːn fɹ̠ʷej ənd ejkwəl`<br>`ən degnetej ənd ɹ̠ʷɑjts.`<br>`ðɛj ɑːɹ̠ʷ‿endawd weð ɹ̠ʷejzən ənd kɔnʃəns`<br>`ənd ʃᵿd akt təwoːdz wɐn ənɐðəɹ̠ʷ‿ən`<br>`ə speɹ̠ʷet əv bɹ̠ʷɐðəhᵿd.`</small>
+<small>`oːl hjᵿwmən bejeŋz ɑː boːn fɹ̠ʷej ənd ejkwəl`<br>`en degnetej ənd ɹ̠ʷɑjts.`<br>`ðɛj ɑːɹ̠ʷ‿endawd weð ɹ̠ʷejzən ənd kɔnʃəns`<br>`ənd ʃᵿd akt təwoːdz wɐn ənɐðəɹ̠ʷ‿ən`<br>`ə speɹ̠ʷet əv bɹ̠ʷɐðəhᵿd.`</small>
 
 Notes:
 #8: 7-Vowel System (Rotated)
@@ -1637,7 +1637,7 @@ The stressed schwa in `əː` "nurse" can be lowered and unrounded, resulting in 
 
 > All human beings are born free and equal in dignity and rights. They are endowed with reason and conscience and should act towards one another in a spirit of brotherhood.
 
-<small>`oːl hjʉwmən bɪjɪŋz ɑː boːn fɹ̠ʷɪj ənd ɪjkwəl`<br>`ən dɪgnɪtɪj ənd ɹ̠ʷɑjts.`<br>`ðɛj ɑːɹ̠ʷ‿ɪndawd wɪð ɹ̠ʷɪjzən ənd kɔnʃəns`<br>`ənd ʃɵd akt təwoːdz wɐn ənɐðɐɹ̠ʷ‿ən`<br>`ə spɪɹ̠ʷɪt əv bɹ̠ʷɐðɐhɵd.`</small>
+<small>`oːl hjʉwmən bɪjɪŋz ɑː boːn fɹ̠ʷɪj ənd ɪjkwəl`<br>`ɪn dɪgnɪtɪj ənd ɹ̠ʷɑjts.`<br>`ðɛj ɑːɹ̠ʷ‿ɪndawd wɪð ɹ̠ʷɪjzən ənd kɔnʃəns`<br>`ənd ʃɵd akt təwoːdz wɐn ənɐðɐɹ̠ʷ‿ən`<br>`ə spɪɹ̠ʷɪt əv bɹ̠ʷɐðɐhɵd.`</small>
 
 Notes:
 #9: 8-Vowel System (Rotated)
