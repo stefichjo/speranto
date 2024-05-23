@@ -27,6 +27,7 @@ revealOptions:
 
 Notes:
 When we try to map out the vowel phonemes of English accents, we refer to the quadrilateral vowel space and use the International Phonetic Alphabet (IPA for short) as the notation.
+`we̞n wi: trɑj tə mæp æwt ðə væwəl fo̞wni:mz əv ɪŋglɪʃ æksənts, wi: rɪfə: tə ðə kwɒdrɪlætərəl væwəl spe̞js ən ju:z ði: ɪntənæʃənəl fəne̞tɪk ælfəbe̞t (ɑj pi: e̞j fə ʃo̞:t) əz ðə no̞wte̞jʃən.`
 
 <!--v-->
 
@@ -36,6 +37,7 @@ When we try to map out the vowel phonemes of English accents, we refer to the qu
 
 Notes:
 To pronounce the vowels on the left, we move our tongue forward: `i`, `e`, `ɛ`, `a`. For the vowels on the right, we pull our tongue back: `ɑ`, `ɔ`, `o`, `u`. Hence the distinction between "front vowels" and "back vowels." These eight vowels lie on the edges of the quadrilateral, far from the central and middle axes of the vowel space, earning them the title of cardinal vowels. While this approach seems straightforward, comparing the vowel systems of English accents often leads to more confusion than clarity.
+`tə prənæwns ðə væwəlz ɒn ðə le̞ft, wi: mu:v æə tɐŋ fo̞:wəd: i:, e:, ɛ:, a:. fə ðə væwəlz ɒn ðə rɑjt, wi: pʊl æə tɐŋ bæk: ɑ:, ɔ:, o:, u:. he̞ns ðə dɪstɪŋkʃən bətwi:n "frɒnt væwəlz" ən "bæk væwəlz." ði:z e̞jt væwəlz lɑj ɒn ði: e̞dʒəz əv ðə kwɒdrɪlætərəl, fɑ: frəm ðə se̞ntrəl ən mɪdəl æksi:z əv ðə væwəl spe̞js, ə:nɪŋ ðəm ðə tɑjtəl əv kɑ:dɪnəl væwəlz. wɑjl ðɪz əpro̞wtʃ si:mz stre̞jtfo̞:wəd, kəmpe̞:rɪng ðə væwəl sɪstəmz əv ɪŋglɪʃ æksənts ɒfən li:dz tə mo̞: kənfju:ʒən ðən klærɪti:.`
 
 <!--v-->
 
