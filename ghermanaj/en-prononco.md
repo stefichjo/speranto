@@ -184,6 +184,14 @@ Notes:
 | `ɐw` ᴍᴏᴜᴛʜ | | `o̞` ᴛʜᴏᴜɢʜᴛ |
 | | | |
 
+<!--v-->
+
+| | | |
+|-|-|-|
+| `ɐj` ᴘʀɪᴄᴇ | | `o̞j` ᴄʜᴏɪᴄᴇ |
+| `ɐw` ᴍᴏᴜᴛʜ | | `o̞` (ᴛʜᴏᴜɢʜᴛ) |
+| | | |
+
 Notes:
 The vowel in "thought", originally a diphthong, has become a monophthong in practically all accents. Instead of `o̞w` "thought", we use o̞ "thought", resembling the vowel in "goat" and "lot", for now.
 
@@ -416,7 +424,15 @@ Let's now focus on these five pairs of more and less prominent vowels. In many a
 | | | |
 |-|-|-|
 | `ɐj` ᴘʀɪᴄᴇ | | `o̞j` ᴄʜᴏɪᴄᴇ |
-| `ɐw` ᴍᴏᴜᴛʜ | | `o̞` ᴛʜᴏᴜɢʜᴛ |
+| `ɐw` ᴍᴏᴜᴛʜ | | `o̞` (ᴛʜᴏᴜɢʜᴛ) |
+| | | |
+
+<!--v-->
+
+| | | |
+|-|-|-|
+| `aɪ` ᴘʀɪᴄᴇ | | `ɔɪ` ᴄʜᴏɪᴄᴇ |
+| `aʊ` ᴍᴏᴜᴛʜ | | `o̞` (ᴛʜᴏᴜɢʜᴛ) |
 | | | |
 
 <!--v-->
