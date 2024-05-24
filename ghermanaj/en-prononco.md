@@ -50,7 +50,9 @@ Notes:
 ## Politics
 
 Notes:
-Adding to the complexity, English accents carry notions of prestige and stigma, along with the risk of sounding ridiculous or committing cultural appropriation, impacting both native and non-native speakers.
+<!-- Adding to the complexity, English accents carry notions of prestige and stigma, along with the risk of sounding ridiculous or committing cultural appropriation, impacting both native and non-native speakers.<br> -->
+`ædɪŋ tə ðə kəmple̞ksɪti:, ɪŋglɪʃ ækse̞nts kæri: no̞wʃənz əv pre̞sti:ʒ ən stɪgmə, ælɒŋ wɪð ðə rɪsk əv sæwndɪŋ rɪdɪkjələs o̞: kəmɪtɪŋ kɐltʃərəl əpro̞wprɪe̞jʃən, ɪmpæktɪŋ bo̞wθ ne̞jtɪv ən nɒn-ne̞jtɪv spi:kəz.`
+
 
 <!--v-->
 
