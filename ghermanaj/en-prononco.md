@@ -27,7 +27,7 @@ revealOptions:
 
 Notes:
 <!-- When we try to map out the vowel phonemes of English accents, we refer to the quadrilateral vowel space and use the International Phonetic Alphabet (IPA for short) as the notation. -->
-`we̞n wɪ trɑj tə mæp æwt ðə væwəl fo̞wni:mz əv ɪŋglɪʃ æksənts, wɪ rɪfə: tə ðə kwɒdrɪlætərəl væwəl spe̞js ən ju:z ði: ɪntənæʃənəl fəne̞tɪk ælfəbe̞t (ɑj pi: e̞j fə ʃo̞:t) əz ðə no̞wte̞jʃən.`
+`we̞n wɪ trɑj tə mæp æwt ðə væwəl fo̞wni:mz əv ɪŋglɪʃ æksənts, wɪ rɪfə: tə ðə kwɒdrɪlætərəl væwəl spe̞js ən ju:z ðɪ‿ɪntənæʃənəl fəne̞tɪk ælfəbe̞t (ɑj pɪ‿e̞j fə ʃo̞:t) əz ðə no̞wte̞jʃən.`
 
 <!--v-->
 
@@ -37,7 +37,7 @@ Notes:
 
 Notes:
 <!-- To pronounce the vowels on the left, we move our tongue forward: `i`, `e`, `ɛ`, `a`. For the vowels on the right, we pull our tongue back: `ɑ`, `ɔ`, `o`, `u`. Hence the distinction between "front vowels" and "back vowels." These eight vowels lie on the edges of the quadrilateral, far from the central and middle axes of the vowel space, earning them the title of cardinal vowels. While this approach seems straightforward, comparing the vowel systems of English accents often leads to more confusion than clarity. -->
-`tə prənæwns ðə væwəlz ɒn ðə le̞ft, wɪ mu:v æə tɐŋ fo̞:wəd: i:, e:, ɛ:, a:. fə ðə væwəlz ɒn ðə rɑjt, wɪ pʊl æə tɐŋ bæk: ɑ:, ɔ:, o:, u:. he̞ns ðə dɪstɪŋkʃən bətwi:n "frɒnt væwəlz" ən "bæk væwəlz." ði:z e̞jt væwəlz lɑj ɒn ði: e̞dʒəz əv ðə kwɒdrɪlætərəl, fɑ: frəm ðə se̞ntrəl ən mɪdəl æksi:z əv ðə væwəl spe̞js, ə:nɪŋ ðəm ðə tɑjtəl əv kɑ:dɪnəl væwəlz. wɑjl ðɪs əpro̞wtʃ si:mz stre̞jtfo̞:wəd, kəmpe̞:rɪng ðə væwəl sɪstəmz əv ɪŋglɪʃ æksənts ɒfən li:dz tə mo̞: kənfju:ʒən ðən klærɪti:.`
+`tə prənæwns ðə væwəlz ɒn ðə le̞ft, wɪ mu:v æə tɐŋ fo̞:wəd: i:, e:, ɛ:, a:. fə ðə væwəlz ɒn ðə rɑjt, wɪ pʊl æə tɐŋ bæk: ɑ:, ɔ:, o:, u:. he̞ns ðə dɪstɪŋkʃən bətwi:n "frɒnt væwəlz" ən "bæk væwəlz." ði:z e̞jt væwəlz lɑj ɒn ðɪ‿e̞dʒəz əv ðə kwɒdrɪlætərəl, fɑ: frəm ðə se̞ntrəl ən mɪdəl æksi:z əv ðə væwəl spe̞js, ə:nɪŋ ðəm ðə tɑjtəl əv kɑ:dɪnəl væwəlz. wɑjl ðɪs əpro̞wtʃ si:mz stre̞jtfo̞:wəd, kəmpe̞:rɪng ðə væwəl sɪstəmz əv ɪŋglɪʃ æksənts ɒfən li:dz tə mo̞: kənfju:ʒən ðən klærɪti:.`
 
 <!--v-->
 
@@ -89,7 +89,7 @@ Notes:
 
 Notes:
 <!-- Let's start with a five-vowel system. Following convention, we'll arrange "a", "e", "i", "o", "u" in their cardinal order: "i", "e", "a", "o", "u". Additionally, we'll represent them in a table using the proper IPA symbols, showcasing the vowel space as a square instead of a quadrilateral. -->
-`le̞ts stɑ:t wɪð ə fɑjv-væwəl sɪstəm. fɒlo̞wɪŋ kənve̞nʃən, wɪl əre̞jndʒ "ɐ", "e̞", "i", "o̞", "u" ɪn ðe̞: kɑ:dɪnəl o̞:də : "i", "e̞", "ɐ", "o̞", "u". ədɪʃənəli:, wɪl re̞prɪze̞nt ðəm ɪn ə te̞jbəl ju:zɪŋ ðə prɒpər‿ɑj pi: e̞j sɪmbəlz, ʃo̞wke̞jsɪŋ ðə væwəl spe̞js əz ə skwe̞:r‿ɪnste̞d əv ə kwɒdrɪlætərəl.`
+`le̞ts stɑ:t wɪð ə fɑjv-væwəl sɪstəm. fɒlo̞wɪŋ kənve̞nʃən, wɪl əre̞jndʒ "ɐ", "e̞", "i", "o̞", "u" ɪn ðe̞: kɑ:dɪnəl o̞:də : "i", "e̞", "ɐ", "o̞", "u". ədɪʃənəli:, wɪl re̞prɪze̞nt ðəm ɪn ə te̞jbəl ju:zɪŋ ðə prɒpər‿ɑj pɪ‿e̞j sɪmbəlz, ʃo̞wke̞jsɪŋ ðə væwəl spe̞js əz ə skwe̞:r‿ɪnste̞d əv ə kwɒdrɪlætərəl.`
 
 <!--v-->
 
@@ -127,9 +127,7 @@ Notes:
 
 Notes:
 <!-- In this vowel system, we pronounce the same vowel phoneme in "fleece" and "kit," in "face" and "dress," in "palm" and "trap," in "goat" and "lot," as well as in "goose" and "foot." While this simplicity offers a solid foundation, lack of context may lead to occasional confusion. Nonetheless, it serves as an excellent starting point for our exploration. -->
-`ɪn ðɪs væwəl sɪstəm, wɪ prənæwns ðə se̞jm væwəl fo̞wni:m ɪn "flis" ən "kit," ɪn "fe̞s" ən "dre̞s," ɪn "pɐm" ən "trɐp," ɪn "go̞t" ən "lo̞t," əz we̞l æz ɪn "gus" ən "fut." wɑjl ðɪs sɪmplɪsɪti: ɒfəz ə sɒlɪd fæwnde̞jʃən, læk əv kɒnte̞kst me̞j li:d tə əke̞jʒənəl kənfju:ʒən. nɐnðəle̞s, ɪt sə:vz əz ən e̞ksɪlənt stɑ:tɪŋ po̞jnt fər‿æər‿e̞kspləre̞jʃən.`
-
-<!-- ɪʊ e̞o̞ ɒ ɐ ɑ ʃʒ θð ‿ -->
+`ɪn ðɪs væwəl sɪstəm, wɪ prənæwns ðə se̞jm væwəl fo̞wni:m ɪn "flis" ən "kit," ɪn "fe̞s" ən "dre̞s," ɪn "pɐm" ən "trɐp," ɪn "go̞t" ən "lo̞t," əz we̞l əz ɪn "gus" ən "fut." wɑjl ðɪs sɪmplɪsɪtɪ‿ɒfəz ə sɒlɪd fæwnde̞jʃən, læk əv kɒnte̞kst me̞j li:d tʊ‿əke̞jʒənəl kənfju:ʒən. nɐnðəle̞s, ɪt sə:vz əz ən e̞ksələnt stɑ:tɪŋ po̞jnt fər‿æər‿e̞kspləre̞jʃən.`
 
 <!--v-->
 
@@ -144,6 +142,10 @@ Notes:
 
 Notes:
 The "a"-sound functions as a schwa. Consequently, the ending of "comma" sounds identical to the vowel in "palm" and "trap." Essentially, like schwa, it lacks rounding or unrounding, making it akin to a schwa, albeit in a near-open form.
+`ðɪ‿"ɐ"-sæwnd fɐŋkʃənz əz ə ʃwɑ:. kənsɪkwəntli:, ðɪ‿`
+
+<!-- ɪʊ e̞o̞ ɒ ɐ ɑ ʃʒ θð ‿ -->
+
 
 <!--v-->
 
@@ -1923,7 +1925,7 @@ Notes:
 | | | | | |
 
 <!--
-ɪ/-i:
-(ʊ)
+ɪ/-i:/-ɪ‿
+ə/-u:/-ʊ‿
 o̞w
 -->
