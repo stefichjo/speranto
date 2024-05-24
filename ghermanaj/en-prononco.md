@@ -36,8 +36,8 @@ Notes:
 [Quadrilateral]: https://upload.wikimedia.org/wikipedia/commons/8/8c/Vowel_quadrilateral_%28IPA_1949%29.png "Quadrilateral"
 
 Notes:
-<!-- To pronounce the vowels on the left, we move our tongue forward: `i`, `e`, `ɛ`, `a`. For the vowels on the right, we pull our tongue back: `ɑ`, `ɔ`, `o`, `u`. Hence the distinction between "front vowels" and "back vowels." These eight vowels lie on the edges of the quadrilateral, far from the central and middle axes of the vowel space, earning them the title of cardinal vowels. While this approach seems straightforward, comparing the vowel systems of English accents often leads to more confusion than clarity. -->
-`tə prənæwns ðə væwəlz ɒn ðə le̞ft, wɪ mu:v æə tɐŋ fo̞:wəd: i:, e:, ɛ:, a:. fə ðə væwəlz ɒn ðə rɑjt, wɪ pʊl æə tɐŋ bæk: ɑ:, ɔ:, o:, u:. he̞ns ðə dɪstɪŋkʃən bətwi:n "frɒnt væwəlz" ən "bæk væwəlz." ði:z e̞jt væwəlz lɑj ɒn ðɪ‿e̞dʒəz əv ðə kwɒdrɪlætərəl, fɑ: frəm ðə se̞ntrəl ən mɪdəl æksi:z əv ðə væwəl spe̞js, ə:nɪŋ ðəm ðə tɑjtəl əv kɑ:dɪnəl væwəlz. wɑjl ðɪs əpro̞wtʃ si:mz stre̞jtfo̞:wəd, kəmpe̞:rɪng ðə væwəl sɪstəmz əv ɪŋglɪʃ æksənts ɒfən li:dz tə mo̞: kənfju:ʒən ðən klærɪti:.`
+<!-- To pronounce the vowels on the left, we move our tongue forward: `i`, `e`, `ɛ`, `a`. For the vowels on the right, we pull our tongue back: `ɑ`, `ɔ`, `o`, `u`. Hence the distinction between "front vowels" and "back vowels". These eight vowels lie on the edges of the quadrilateral, far from the central and middle axes of the vowel space, earning them the title of cardinal vowels. While this approach seems straightforward, comparing the vowel systems of English accents often leads to more confusion than clarity. -->
+`tə prənæwns ðə væwəlz ɒn ðə le̞ft, wɪ mu:v æə tɐŋ fo̞:wəd: i:, e:, ɛ:, a:. fə ðə væwəlz ɒn ðə rɑjt, wɪ pʊl æə tɐŋ bæk: ɑ:, ɔ:, o:, u:. he̞ns ðə dɪstɪŋkʃən bətwi:n "frɒnt væwəlz" ən "bæk væwəlz". ði:z e̞jt væwəlz lɑj ɒn ðɪ‿e̞dʒəz əv ðə kwɒdrɪlætərəl, fɑ: frəm ðə se̞ntrəl ən mɪdəl æksi:z əv ðə væwəl spe̞js, ə:nɪŋ ðəm ðə tɑjtəl əv kɑ:dɪnəl væwəlz. wɑjl ðɪs əpro̞wtʃ si:mz stre̞jtfo̞:wəd, kəmpe̞:rɪng ðə væwəl sɪstəmz əv ɪŋglɪʃ æksənts ɒfən li:dz tə mo̞: kənfju:ʒən ðən klærɪti:.`
 
 <!--v-->
 
@@ -126,8 +126,8 @@ Notes:
 | | | |
 
 Notes:
-<!-- In this vowel system, we pronounce the same vowel phoneme in "fleece" and "kit," in "face" and "dress," in "palm" and "trap," in "goat" and "lot," as well as in "goose" and "foot." While this simplicity offers a solid foundation, lack of context may lead to occasional confusion. Nonetheless, it serves as an excellent starting point for our exploration. -->
-`ɪn ðɪs væwəl sɪstəm, wɪ prənæwns ðə se̞jm væwəl fo̞wni:m ɪn "flis" ən "kit," ɪn "fe̞s" ən "dre̞s," ɪn "pɐm" ən "trɐp," ɪn "go̞t" ən "lo̞t," əz we̞l əz ɪn "gus" ən "fut." wɑjl ðɪs sɪmplɪsɪtɪ‿ɒfəz ə sɒlɪd fæwnde̞jʃən, læk əv kɒnte̞kst me̞j li:d tʊ‿əke̞jʒənəl kənfju:ʒən. nɐnðəle̞s, ɪt sə:vz əz ən e̞ksələnt stɑ:tɪŋ po̞jnt fər‿æər‿e̞kspləre̞jʃən.`
+<!-- In this vowel system, we pronounce the same vowel phoneme in "fleece" and "kit", in "face" and "dress", in "palm" and "trap", in "goat" and "lot", as well as in "goose" and "foot". While this simplicity offers a solid foundation, lack of context may lead to occasional confusion. Nonetheless, it serves as an excellent starting point for our exploration. -->
+`ɪn ðɪs væwəl sɪstəm, wɪ prənæwns ðə se̞jm væwəl fo̞wni:m ɪn "flis" ən "kit", ɪn "fe̞s" ən "dre̞s", ɪn "pɐm" ən "trɐp", ɪn "go̞t" ən "lo̞t", əz we̞l əz ɪn "gus" ən "fut". wɑjl ðɪs sɪmplɪsɪtɪ‿ɒfəz ə sɒlɪd fæwnde̞jʃən, læk əv kɒnte̞kst me̞j li:d tʊ‿əke̞jʒənəl kənfju:ʒən. nɐnðəle̞s, ɪt sə:vz əz ən e̞ksələnt stɑ:tɪŋ po̞jnt fər‿æər‿e̞kspləre̞jʃən.`
 
 <!--v-->
 
@@ -141,11 +141,8 @@ Notes:
 | | |
 
 Notes:
-<!-- The "a"-sound functions as a schwa. Consequently, the ending of "comma" sounds identical to the vowel in "palm" and "trap." Essentially, like schwa, it lacks rounding or unrounding, making it akin to a schwa, albeit in a near-open form. -->
-`ðɪ‿"ɐ"-sæwnd fɐŋkʃənz əz ə ʃwɑ:. kənsɪkwəntli:, ðɪ‿e̞ndɪŋ əv "co̞mɐ" sæwndz ɑjde̞ntɪkəl tə ðə væwəl ɪn "pɐm" ən "trɐp." ɪse̞nʃəli:, lɑjk ʃwɑ:, ɪt læks ræwndɪŋ o̞:r‿ɐnræwndɪŋ, me̞jkɪŋ ɪt əkɪn tʊ‿ə  ʃwɑ:, o̞:lbi:ɪt ɪn ə nɪ:r‿o̞wpən fo̞:m.`
-
-<!-- ɪʊ e̞o̞ ɒ ɐ ɑ ʃʒ θð ‿ -->
-
+<!-- The "a"-sound functions as a schwa. Consequently, the ending of "comma" sounds identical to the vowel in "palm" and "trap". Essentially, like schwa, it lacks rounding or unrounding, making it akin to a schwa, albeit in a near-open form. -->
+`ðɪ‿"ɐ"-sæwnd fɐŋkʃənz əz ə ʃwɑ:. kɒnsɪkwəntli:, ðɪ‿e̞ndɪŋ əv "co̞mɐ" sæwndz ɑjde̞ntɪkəl tə ðə væwəl ɪn "pɐm" ən "trɐp". ɪse̞nʃəli:, lɑjk ʃwɑ:, ɪt læks ræwndɪŋ o̞:r‿ɐnræwndɪŋ, me̞jkɪŋ ɪt əkɪn tʊ‿ə  ʃwɑ:, o̞:lbi:ɪt ɪn ə nɪ:r‿o̞wpən fo̞:m.`
 
 <!--v-->
 
@@ -168,7 +165,8 @@ Notes:
 | | | |
 
 Notes:
-We can continue by pronouncing diphthongs as in "price", "choice", and "mouth". In IPA, the unstressed offset "i" and "u" are represented with a `jay` "j" and a `double-yoo` "w".
+<!-- We can continue by pronouncing diphthongs as in "price", "choice", and "mouth". In IPA, the unstressed offset "i" and "u" are represented with a `jay` "j" and a `double-yoo` "w". -->
+`wɪ kən kəntɪnju: bɑj prənæwnsɪŋ dɪfθɒŋz əz ɪn "prɑjs", tʃo̞js", and "mæwθ". ɪn ɑj pɪ‿e̞j, ðɪ‿ɐnstre̞st ɒfset "i" ən "u" ɑ: re̞prɪze̞ntəd wɪð ə "dʒe̞j" ən ə "dɐbəl-ju:".`
 
 <!--v-->
 
@@ -187,7 +185,9 @@ We can continue by pronouncing diphthongs as in "price", "choice", and "mouth". 
 | | | |
 
 Notes:
-The vowel in "thought," originally a diphthong, has become a monophthong in practically all accents. Instead of `o̞w` "thought", we use o̞ "thought", resembling the vowel in "goat" and "lot", for now.
+The vowel in "thought", originally a diphthong, has become a monophthong in practically all accents. Instead of `o̞w` "thought", we use o̞ "thought", resembling the vowel in "goat" and "lot", for now.
+
+<!-- ɪʊ e̞o̞ ɒ ɐ ɑ ʃʒ θð ‿ -->
 
 <!--v-->
 
@@ -233,7 +233,7 @@ The vowel in "thought," originally a diphthong, has become a monophthong in prac
 | | | |
 
 Notes:
-Even within this simplified five-vowel system, we can observe a significant vowel shift: the merging of the vowel in `u` "strut" with those in "palm," "trap," and "comma," resulting in `ɐ` "strut".
+Even within this simplified five-vowel system, we can observe a significant vowel shift: the merging of the vowel in `u` "strut" with those in "palm", "trap", and "comma", resulting in `ɐ` "strut".
 
 <!--v-->
 
@@ -1274,7 +1274,7 @@ Notes:
 | | |
 
 Notes:
-Similarly to the `e̞` "dress" vowel and the onset of the `e̞j` "face" diphthong, the `iː` "fleece" vowel breaks into the laxer `ɪ` "kit" vowel combined with the `j`-glide, resulting in `ɪj` "fleece." Likewise, akin to the previous `o̞` "lot" vowel and the onset of the `o̞w` "goat" diphthong, the `uː` "goose" vowel breaks into the laxer `ʊ` "foot" vowel combined with the `w`-glide, resulting in `ʊw` "goose.
+Similarly to the `e̞` "dress" vowel and the onset of the `e̞j` "face" diphthong, the `iː` "fleece" vowel breaks into the laxer `ɪ` "kit" vowel combined with the `j`-glide, resulting in `ɪj` "fleece". Likewise, akin to the previous `o̞` "lot" vowel and the onset of the `o̞w` "goat" diphthong, the `uː` "goose" vowel breaks into the laxer `ʊ` "foot" vowel combined with the `w`-glide, resulting in `ʊw` "goose.
 
 <!--v-->
 
@@ -1299,7 +1299,7 @@ Similarly to the `e̞` "dress" vowel and the onset of the `e̞j` "face" diphthon
 | | |
 
 Notes:
-The onset of the `o̞w` "goat" vowel shifts to the center of the vowel space, transitioning into a schwa, resulting in `əw` "goat." Similarly, the onset of the `ʊw` "goose" vowel, which is the `ʊ` "foot" vowel, also moves to the center of the vowel space, resulting in `ᵿw` "goose" and `ᵿ` "foot."
+The onset of the `o̞w` "goat" vowel shifts to the center of the vowel space, transitioning into a schwa, resulting in `əw` "goat". Similarly, the onset of the `ʊw` "goose" vowel, which is the `ʊ` "foot" vowel, also moves to the center of the vowel space, resulting in `ᵿw` "goose" and `ᵿ` "foot".
 
 <!--v-->
 
