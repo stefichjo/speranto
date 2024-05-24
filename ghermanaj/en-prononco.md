@@ -141,8 +141,8 @@ Notes:
 | | |
 
 Notes:
-The "a"-sound functions as a schwa. Consequently, the ending of "comma" sounds identical to the vowel in "palm" and "trap." Essentially, like schwa, it lacks rounding or unrounding, making it akin to a schwa, albeit in a near-open form.
-`ðɪ‿"ɐ"-sæwnd fɐŋkʃənz əz ə ʃwɑ:. kənsɪkwəntli:, ðɪ‿`
+<!-- The "a"-sound functions as a schwa. Consequently, the ending of "comma" sounds identical to the vowel in "palm" and "trap." Essentially, like schwa, it lacks rounding or unrounding, making it akin to a schwa, albeit in a near-open form. -->
+`ðɪ‿"ɐ"-sæwnd fɐŋkʃənz əz ə ʃwɑ:. kənsɪkwəntli:, ðɪ‿e̞ndɪŋ əv "co̞mɐ" sæwndz ɑjde̞ntɪkəl tə ðə væwəl ɪn "pɐm" ən "trɐp." ɪse̞nʃəli:, lɑjk ʃwɑ:, ɪt læks ræwndɪŋ o̞:r‿ɐnræwndɪŋ, me̞jkɪŋ ɪt əkɪn tʊ‿ə  ʃwɑ:, o̞:lbi:ɪt ɪn ə nɪ:r‿o̞wpən fo̞:m.`
 
 <!-- ɪʊ e̞o̞ ɒ ɐ ɑ ʃʒ θð ‿ -->
 
