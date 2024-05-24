@@ -26,7 +26,7 @@ revealOptions:
 [Anatomy]: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Cardinal_vowel_tongue_position-front.svg/400px-Cardinal_vowel_tongue_position-front.svg.png "Anatomy"
 
 Notes:
-<!-- When we try to map out the vowel phonemes of English accents, we refer to the quadrilateral vowel space and use the International Phonetic Alphabet (IPA for short) as the notation.<br> -->
+<!-- When we try to map out the vowel phonemes of English accents, we refer to the quadrilateral vowel space and use the International Phonetic Alphabet (IPA for short) as the notation. -->
 `we̞n wi: trɑj tə mæp æwt ðə væwəl fo̞wni:mz əv ɪŋglɪʃ æksənts, wi: rɪfə: tə ðə kwɒdrɪlætərəl væwəl spe̞js ən ju:z ði: ɪntənæʃənəl fəne̞tɪk ælfəbe̞t (ɑj pi: e̞j fə ʃo̞:t) əz ðə no̞wte̞jʃən.`
 
 <!--v-->
@@ -36,8 +36,8 @@ Notes:
 [Quadrilateral]: https://upload.wikimedia.org/wikipedia/commons/8/8c/Vowel_quadrilateral_%28IPA_1949%29.png "Quadrilateral"
 
 Notes:
-<!-- To pronounce the vowels on the left, we move our tongue forward: `i`, `e`, `ɛ`, `a`. For the vowels on the right, we pull our tongue back: `ɑ`, `ɔ`, `o`, `u`. Hence the distinction between "front vowels" and "back vowels." These eight vowels lie on the edges of the quadrilateral, far from the central and middle axes of the vowel space, earning them the title of cardinal vowels. While this approach seems straightforward, comparing the vowel systems of English accents often leads to more confusion than clarity.<br> -->
-`tə prənæwns ðə væwəlz ɒn ðə le̞ft, wi: mu:v æə tɐŋ fo̞:wəd: i:, e:, ɛ:, a:. fə ðə væwəlz ɒn ðə rɑjt, wi: pʊl æə tɐŋ bæk: ɑ:, ɔ:, o:, u:. he̞ns ðə dɪstɪŋkʃən bətwi:n "frɒnt væwəlz" ən "bæk væwəlz." ði:z e̞jt væwəlz lɑj ɒn ði: e̞dʒəz əv ðə kwɒdrɪlætərəl, fɑ: frəm ðə se̞ntrəl ən mɪdəl æksi:z əv ðə væwəl spe̞js, ə:nɪŋ ðəm ðə tɑjtəl əv kɑ:dɪnəl væwəlz. wɑjl ðɪz əpro̞wtʃ si:mz stre̞jtfo̞:wəd, kəmpe̞:rɪng ðə væwəl sɪstəmz əv ɪŋglɪʃ æksənts ɒfən li:dz tə mo̞: kənfju:ʒən ðən klærɪti:.`
+<!-- To pronounce the vowels on the left, we move our tongue forward: `i`, `e`, `ɛ`, `a`. For the vowels on the right, we pull our tongue back: `ɑ`, `ɔ`, `o`, `u`. Hence the distinction between "front vowels" and "back vowels." These eight vowels lie on the edges of the quadrilateral, far from the central and middle axes of the vowel space, earning them the title of cardinal vowels. While this approach seems straightforward, comparing the vowel systems of English accents often leads to more confusion than clarity. -->
+`tə prənæwns ðə væwəlz ɒn ðə le̞ft, wi: mu:v æə tɐŋ fo̞:wəd: i:, e:, ɛ:, a:. fə ðə væwəlz ɒn ðə rɑjt, wi: pʊl æə tɐŋ bæk: ɑ:, ɔ:, o:, u:. he̞ns ðə dɪstɪŋkʃən bətwi:n "frɒnt væwəlz" ən "bæk væwəlz." ði:z e̞jt væwəlz lɑj ɒn ði: e̞dʒəz əv ðə kwɒdrɪlætərəl, fɑ: frəm ðə se̞ntrəl ən mɪdəl æksi:z əv ðə væwəl spe̞js, ə:nɪŋ ðəm ðə tɑjtəl əv kɑ:dɪnəl væwəlz. wɑjl ðɪs əpro̞wtʃ si:mz stre̞jtfo̞:wəd, kəmpe̞:rɪng ðə væwəl sɪstəmz əv ɪŋglɪʃ æksənts ɒfən li:dz tə mo̞: kənfju:ʒən ðən klærɪti:.`
 
 <!--v-->
 
@@ -50,7 +50,7 @@ Notes:
 ## Politics
 
 Notes:
-<!-- Adding to the complexity, English accents carry notions of prestige and stigma, along with the risk of sounding ridiculous or committing cultural appropriation, impacting both native and non-native speakers.<br> -->
+<!-- Adding to the complexity, English accents carry notions of prestige and stigma, along with the risk of sounding ridiculous or committing cultural appropriation, impacting both native and non-native speakers. -->
 `ædɪŋ tə ðə kəmple̞ksɪti:, ɪŋglɪʃ ækse̞nts kæri: no̞wʃənz əv pre̞sti:ʒ ən stɪgmə, ælɒŋ wɪð ðə rɪsk əv sæwndɪŋ rɪdɪkjələs o̞: kəmɪtɪŋ kɐltʃərəl əpro̞wprɪe̞jʃən, ɪmpæktɪŋ bo̞wθ ne̞jtɪv ən nɒn-ne̞jtɪv spi:kəz.`
 
 
@@ -77,7 +77,8 @@ Notes:
 ## 5-Vowel System
 
 Notes:
-In this video, we'll begin from scratch, avoiding references to specific English accents, whether native or non-native. Instead, we'll offer a simplified overview of English vowel systems, treating them as if they exist in a homogeneous continuum from which you can pick and choose your accent according to your personal preferences.
+<!-- In this video, we'll begin from scratch, avoiding references to specific English accents, whether native or non-native. Instead, we'll offer a simplified overview of English vowel systems, treating them as if they exist in a homogeneous continuum from which you can pick and choose your accent according to your personal preferences. -->
+`ɪn ðɪs vɪdɪo̞w wi:l bɪgɪn frəm skrætʃ, əvo̞jdɪŋ re̞fərənsəz tə spɪsɪfɪk ɪŋglɪʃ æksənts, we̞ðə ne̞jtɪv o̞: nɒn-ne̞jtɪv. ɪnste̞d, wi:l ɒfər‿ə sɪmplɪfɑjd o̞wvəvju: əv ɪŋglɪʃ væwəl sɪstəmz, tri:tɪŋ ðəm əz ɪf ðe̞j ɪgzɪst ɪn ə hɒmədʒi:nɪəs kəntɪnjʊəm frəm wɪtʃ jə kən pɪk ən tʃu:z jo̞:r‿æksənt əko̞:dɪŋ tə jo̞: pə:sənəl pre̞fərənsəz.`
 
 <!--v-->
 
@@ -87,7 +88,8 @@ In this video, we'll begin from scratch, avoiding references to specific English
 | |
 
 Notes:
-Let's start with a five-vowel system. Following convention, we'll arrange "a", "e", "i", "o", "u" in their cardinal order: "i", "e", "a", "o", "u". Additionally, we'll represent them in a table using the proper IPA symbols, showcasing the vowel space as a square instead of a quadrilateral.
+<!-- Let's start with a five-vowel system. Following convention, we'll arrange "a", "e", "i", "o", "u" in their cardinal order: "i", "e", "a", "o", "u". Additionally, we'll represent them in a table using the proper IPA symbols, showcasing the vowel space as a square instead of a quadrilateral. -->
+`le̞ts stɑ:t wɪð ə fɑjv-væwəl sɪstəm. fɒlo̞wɪŋ kənve̞nʃən, wi:l əre̞jndʒ "ɐ", "e̞", "i", "o̞", "u" ɪn ðe̞: kɑ:dɪnəl o̞:də : "i", "e̞", "ɐ", "o̞", "u". ədɪʃənəli:, wi:l re̞prɪze̞nt ðəm ɪn ə te̞jbəl ju:zɪŋ ðə prɒpər‿ɑj pi: e̞j sɪmbəlz, ʃo̞wke̞jsɪŋ ðə væwəl spe̞js əz ə skwe̞:r‿ɪnste̞d əv ə kwɒdrɪlætərəl.`
 
 <!--v-->
 
