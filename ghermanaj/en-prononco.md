@@ -27,7 +27,7 @@ revealOptions:
 
 Notes:
 <!-- When we try to map out the vowel phonemes of English accents, we refer to the quadrilateral vowel space and use the International Phonetic Alphabet (IPA for short) as the notation. -->
-`we̞n wɪ trɑj tə mæp æwt ðə væwəl fo̞wni:mz əv ɪŋglɪʃ æksənts, wɪ rɪfə: tə ðə kwɒdrɪlætərəl væwəl spe̞js ən ju:z ðɪ‿ɪntənæʃənəl fəne̞tɪk ælfəbe̞t (ɑj pɪ‿e̞j fə ʃo̞:t) əz ðə no̞wte̞jʃən.`
+`we̞n wɪ trɑj tə mæp æwt ðə væwəl fo̞wni:mz əv ɪŋglɪʃ ækse̞nts, wɪ rɪfə: tə ðə kwɒdrɪlætərəl væwəl spe̞js ən ju:z ðɪ‿ɪntənæʃənəl fəne̞tɪk ælfəbe̞t (ɑj pɪ‿e̞j fə ʃo̞:t) əz ðə no̞wte̞jʃən.`
 
 <!--v-->
 
@@ -37,7 +37,7 @@ Notes:
 
 Notes:
 <!-- To pronounce the vowels on the left, we move our tongue forward: `i`, `e`, `ɛ`, `a`. For the vowels on the right, we pull our tongue back: `ɑ`, `ɔ`, `o`, `u`. Hence the distinction between "front vowels" and "back vowels". These eight vowels lie on the edges of the quadrilateral, far from the central and middle axes of the vowel space, earning them the title of cardinal vowels. While this approach seems straightforward, comparing the vowel systems of English accents often leads to more confusion than clarity. -->
-`tə prənæwns ðə væwəlz ɒn ðə le̞ft, wɪ mu:v æə tɐŋ fo̞:wəd: i:, e:, ɛ:, a:. fə ðə væwəlz ɒn ðə rɑjt, wɪ pʊl æə tɐŋ bæk: ɑ:, ɔ:, o:, u:. he̞ns ðə dɪstɪŋkʃən bətwi:n "frɒnt væwəlz" ən "bæk væwəlz". ði:z e̞jt væwəlz lɑj ɒn ðɪ‿e̞dʒəz əv ðə kwɒdrɪlætərəl, fɑ: frəm ðə se̞ntrəl ən mɪdəl æksi:z əv ðə væwəl spe̞js, ə:nɪŋ ðəm ðə tɑjtəl əv kɑ:dɪnəl væwəlz. wɑjl ðɪs əpro̞wtʃ si:mz stre̞jtfo̞:wəd, kəmpe̞:rɪng ðə væwəl sɪstəmz əv ɪŋglɪʃ æksənts ɒfən li:dz tə mo̞: kənfju:ʒən ðən klærɪti:.`
+`tə prənæwns ðə væwəlz ɒn ðə le̞ft, wɪ mu:v æə tɐŋ fo̞:wəd: i:, e:, ɛ:, a:. fə ðə væwəlz ɒn ðə rɑjt, wɪ pʊl æə tɐŋ bæk: ɑ:, ɔ:, o:, u:. he̞ns ðə dɪstɪŋkʃən bətwi:n "frɒnt væwəlz" ən "bæk væwəlz". ði:z e̞jt væwəlz lɑj ɒn ðɪ‿e̞dʒəz əv ðə kwɒdrɪlætərəl, fɑ: frəm ðə se̞ntrəl ən mɪdəl æksi:z əv ðə væwəl spe̞js, ə:nɪŋ ðəm ðə tɑjtəl əv kɑ:dɪnəl væwəlz. wɑjl ðɪs əpro̞wtʃ si:mz stre̞jtfo̞:wəd, kəmpe̞:rɪng ðə væwəl sɪstəmz əv ɪŋglɪʃ ækse̞nts ɒfən li:dz tə mo̞: kənfju:ʒən ðən klærɪti:.`
 
 <!--v-->
 
@@ -78,7 +78,7 @@ Notes:
 
 Notes:
 <!-- In this video, we'll begin from scratch, avoiding references to specific English accents, whether native or non-native. Instead, we'll offer a simplified overview of English vowel systems, treating them as if they exist in a homogeneous continuum from which you can pick and choose your accent according to your personal preferences. -->
-`ɪn ðɪs vɪdɪo̞w wɪl bɪgɪn frəm skrætʃ, əvo̞jdɪŋ re̞fərənsəz tə spɪsɪfɪk ɪŋglɪʃ æksənts, we̞ðə ne̞jtɪv o̞: nɒn-ne̞jtɪv. ɪnste̞d, wɪl ɒfər‿ə sɪmplɪfɑjd o̞wvəvju: əv ɪŋglɪʃ væwəl sɪstəmz, tri:tɪŋ ðəm əz ɪf ðe̞j ɪgzɪst ɪn ə hɒmədʒi:nɪəs kəntɪnjʊəm frəm wɪtʃ jə kən pɪk ən tʃu:z jo̞:r‿æksənt əko̞:dɪŋ tə jo̞: pə:sənəl pre̞fərənsəz.`
+`ɪn ðɪs vɪdɪo̞w wɪl bɪgɪn frəm skrætʃ, əvo̞jdɪŋ re̞fərənsəz tə spɪsɪfɪk ɪŋglɪʃ ækse̞nts, we̞ðə ne̞jtɪv o̞: nɒn-ne̞jtɪv. ɪnste̞d, wɪl ɒfər‿ə sɪmplɪfɑjd o̞wvəvju: əv ɪŋglɪʃ væwəl sɪstəmz, tri:tɪŋ ðəm əz ɪf ðe̞j ɪgzɪst ɪn ə hɒmədʒi:nɪəs kəntɪnjʊəm frəm wɪtʃ jə kən pɪk ən tʃu:z jo̞:r‿ækse̞nt əko̞:dɪŋ tə jo̞: pə:sənəl pre̞fərənsəz.`
 
 <!--v-->
 
