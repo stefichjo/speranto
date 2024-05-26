@@ -166,7 +166,7 @@ Notes:
 
 Notes:
 <!-- We can continue by pronouncing diphthongs as in "price", "choice", and "mouth". In IPA, the unstressed offset "i" and "u" are represented with a `jay` "j" and a `double-yoo` "w". -->
-`wɪ kən kəntɪnju: bɑj prənæwnsɪŋ dɪfθɒŋz əz ɪn "prɑjs", tʃo̞js", and "mæwθ". ɪn ɑj pɪ‿e̞j, ðɪ‿ɐnstre̞st ɒfset "i" ən "u" ɑ: re̞prɪze̞ntəd wɪð ə "dʒe̞j" ən ə "dɐbəl-ju:".`
+`wɪ kən kəntɪnju: bɑj prənæwnsɪŋ dɪfθɒŋz əz ɪn "prɑjs", tʃo̞js", ən "mæwθ". ɪn ɑj pɪ‿e̞j, ðɪ‿ɐnstre̞st ɒfset "i" ən "u" ɑ: re̞prɪze̞ntəd wɪð ə "dʒe̞j" ən ə "dɐbəl-ju:".`
 
 <!--v-->
 
@@ -193,9 +193,8 @@ Notes:
 | | | |
 
 Notes:
-The vowel in "thought", originally a diphthong, has become a monophthong in practically all accents. Instead of `o̞w` "thought", we use o̞ "thought", resembling the vowel in "goat" and "lot", for now.
-
-<!-- ɪʊ e̞o̞ ɒ ɐ ɑ ʃʒ θð ‿ -->
+<!-- The vowel in "thought", originally a diphthong, has become a monophthong in practically all accents. Instead of `o̞w` "thought", we use o̞ "thought", resembling the vowel in "goat" and "lot", for now. -->
+`ðə væwəl ɪn "θo̞t", ərɪdʒɪnəli: ə dɪfθɒŋ, həz bɪkɐm ə mɒnəfθɒŋ ɪn præktɪkəli: o̞:l ækse̞nts. ɪnste̞d əv "θo̞wt", wɪ ju:z "θo̞t", rɪze̞mblɪŋ ðə væwəl ɪn "go̞t" ən "lo̞t", fə næw.`
 
 <!--v-->
 
@@ -241,7 +240,8 @@ The vowel in "thought", originally a diphthong, has become a monophthong in prac
 | | | |
 
 Notes:
-Even within this simplified five-vowel system, we can observe a significant vowel shift: the merging of the vowel in `u` "strut" with those in "palm", "trap", and "comma", resulting in `ɐ` "strut".
+<!-- Even within this simplified five-vowel system, we can observe a significant vowel shift: the merging of the vowel in `u` "strut" with those in "palm", "trap", and "comma", resulting in `ɐ` "strut". -->
+i:vən wɪðɪn ðɪs sɪmplɪfɑjd fɑjv-væwəl sɪstəm, wɪ kən əbzə:v ə sɪgnɪfɪkənt væwəl ʃɪft: ðə mə:dʒɪŋ əv ðə væwəl ɪn "strʊt" wɪð ðo̞wz ɪn "pɐm", "trɐp", ən "ko̞mɐ", rɪzɐltɪŋ in "strɐt".
 
 <!--v-->
 
@@ -307,6 +307,8 @@ Notes:
 
 Notes:
 To split the vowels in `i` "fleece" and `i` "kit", `e̞` "face" and `e̞` "dress", `ɐ` "palm" and `ɐ` "trap", `o̞` "goat" and `o̞` "lot", and `u` "goose" and `u` "foot", we need to manipulate our vowel space around the central and middle axes and at the edges of the square. Visualizing that there are actually *seven* levels of openness can be helpful; currently, we're utilizing only half of them. Let's allocate the open back vowel `ɑ` and the open front vowel `a` for `ɑ` "palm" and `a` "trap", separating them from the "strut" vowel. Even though both the `ɑ` "palm" vowel and the `a` "trap" vowel represent the "a"-sound, the "palm" vowel can be considered as more representative than the "trap" vowel, and it is therefore more prominent and tense.
+
+<!-- ɪʊ e̞o̞ ɒ ɐ ɑ ʃʒ θð ‿ -->
 
 <!--v-->
 
