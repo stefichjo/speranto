@@ -241,7 +241,7 @@ Notes:
 
 Notes:
 <!-- Even within this simplified five-vowel system, we can observe a significant vowel shift: the merging of the vowel in `u` "strut" with those in "palm", "trap", and "comma", resulting in `ɐ` "strut". -->
-i:vən wɪðɪn ðɪs sɪmplɪfɑjd fɑjv-væwəl sɪstəm, wɪ kən əbzə:v ə sɪgnɪfɪkənt væwəl ʃɪft: ðə mə:dʒɪŋ əv ðə væwəl ɪn "strʊt" wɪð ðo̞wz ɪn "pɐm", "trɐp", ən "ko̞mɐ", rɪzɐltɪŋ in "strɐt".
+`i:vən wɪðɪn ðɪs sɪmplɪfɑjd fɑjv-væwəl sɪstəm, wɪ kən əbzə:v ə sɪgnɪfɪkənt væwəl ʃɪft: ðə mə:dʒɪŋ əv ðə væwəl ɪn "strʊt" wɪð ðo̞wz ɪn "pɐm", "trɐp", ən "ko̞mɐ", rɪzɐltɪŋ in "strɐt".`
 
 <!--v-->
 
@@ -306,7 +306,8 @@ Notes:
 | | | |
 
 Notes:
-To split the vowels in `i` "fleece" and `i` "kit", `e̞` "face" and `e̞` "dress", `ɐ` "palm" and `ɐ` "trap", `o̞` "goat" and `o̞` "lot", and `u` "goose" and `u` "foot", we need to manipulate our vowel space around the central and middle axes and at the edges of the square. Visualizing that there are actually *seven* levels of openness can be helpful; currently, we're utilizing only half of them. Let's allocate the open back vowel `ɑ` and the open front vowel `a` for `ɑ` "palm" and `a` "trap", separating them from the "strut" vowel. Even though both the `ɑ` "palm" vowel and the `a` "trap" vowel represent the "a"-sound, the "palm" vowel can be considered as more representative than the "trap" vowel, and it is therefore more prominent and tense.
+<!-- To split the vowels in `i` "fleece" and `i` "kit", `e̞` "face" and `e̞` "dress", `ɐ` "palm" and `ɐ` "trap", `o̞` "goat" and `o̞` "lot", and `u` "goose" and `u` "foot", we need to manipulate our vowel space around the central and middle axes and at the edges of the square. Visualizing that there are actually *seven* levels of openness can be helpful; currently, we're utilizing only half of them. Let's allocate the open back vowel `ɑ` and the open front vowel `a` for `ɑ` "palm" and `a` "trap", separating them from the "strut" vowel. Even though both the `ɑ` "palm" vowel and the `a` "trap" vowel represent the "a"-sound, the "palm" vowel can be considered as more representative than the "trap" vowel, and it is therefore more prominent and tense. -->
+`tə splɪt ðə væwəlz ɪn "flis" ən "kit", "fe̞s" ən "dre̞s", "pɐm" ən "trɐp", "go̞t" ən "lo̞t", ən "gus" en "fut", wɪ ni:d tə mənɪpjəle̞jt æɐ væwəl spe̞js əræwnd ðə se̞ntrəl ən mɪdəl æksi:s ən ət ðɪ e̞dʒəz əv ðə skwe̞:. vɪʒʊəlɑjzɪŋ ðət ðe̞:r‿ɑ:r‿æktʃʊəli: *se̞vən* le̞vəlz əv o̞wpənnəs kən bi: he̞lpfəl; kɐrəntli:, wɪ: ju:tɪlɑjzɪŋ o̞wnli: hɑ:f əv ðəm. le̞ts æləke̞jt ðɪ o̞wpən bæk væwəl "ɑ"‿r‿ən ðɪ o̞wpən frɒnt væwəl "a" fə "pɑm" ən "træp", se̞pəre̞jtɪŋ ðəm frəm ðə "strɐt" væwəl. i:vən ðo̞w bo̞wθ ðə "pɑm" væwəl ən ðə "træp" væwəl re̞prɪze̞nt ðɪ "a"-sæwnd, ðə "pAm" væwəl kən bi: kənsɪdəd əz mo̞: re̞prɪze̞ntətɪv ðən ðə "træp" væwəl, ən ɪt ɪz ðe̞:fo̞: mo̞: prɒmɪnənt ən te̞ns.`
 
 <!-- ɪʊ e̞o̞ ɒ ɐ ɑ ʃʒ θð ‿ -->
 
