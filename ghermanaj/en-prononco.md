@@ -309,8 +309,6 @@ Notes:
 <!-- To split the vowels in `i` "fleece" and `i` "kit", `e̞` "face" and `e̞` "dress", `ɐ` "palm" and `ɐ` "trap", `o̞` "goat" and `o̞` "lot", and `u` "goose" and `u` "foot", we need to manipulate our vowel space around the central and middle axes and at the edges of the square. Visualizing that there are actually *seven* levels of openness can be helpful; currently, we're utilizing only half of them. Let's allocate the open back vowel `ɑ` and the open front vowel `a` for `ɑ` "palm" and `a` "trap", separating them from the "strut" vowel. Even though both the `ɑ` "palm" vowel and the `a` "trap" vowel represent the "a"-sound, the "palm" vowel can be considered as more representative than the "trap" vowel, and it is therefore more prominent and tense. -->
 `tə splɪt ðə væwəlz ɪn "flis" ən "kit", "fe̞s" ən "dre̞s", "pɐm" ən "trɐp", "go̞t" ən "lo̞t", ən "gus" en "fut", wɪ ni:d tə mənɪpjəle̞jt æɐ væwəl spe̞js əræwnd ðə se̞ntrəl ən mɪdəl æksi:s ən ət ðɪ e̞dʒəz əv ðə skwe̞:. vɪʒʊəlɑjzɪŋ ðət ðe̞:r‿ɑ:r‿æktʃʊəli: *se̞vən* le̞vəlz əv o̞wpənnəs kən bi: he̞lpfəl; kɐrəntli:, wɪ: ju:tɪlɑjzɪŋ o̞wnli: hɑ:f əv ðəm. le̞ts æləke̞jt ðɪ o̞wpən bæk væwəl "ɑ"‿r‿ən ðɪ o̞wpən frɒnt væwəl "a" fə "pɑm" ən "træp", se̞pəre̞jtɪŋ ðəm frəm ðə "strɐt" væwəl. i:vən ðo̞w bo̞wθ ðə "pɑm" væwəl ən ðə "træp" væwəl re̞prɪze̞nt ðɪ "a"-sæwnd, ðə "pAm" væwəl kən bi: kənsɪdəd əz mo̞: re̞prɪze̞ntətɪv ðən ðə "træp" væwəl, ən ɪt ɪz ðe̞:fo̞: mo̞: prɒmɪnənt ən te̞ns.`
 
-<!-- ɪʊ e̞o̞ ɒ ɐ ɑ ʃʒ θð ‿ -->
-
 <!--v-->
 
 | | | |
@@ -338,7 +336,8 @@ Notes:
 | | | |
 
 Notes:
-Next, we split e̞ "dress" from e̞ "face", as well as o̞ "lot" from e̞ "goat", resulting in e "face" and ɛ "dress", and o "goat" and ɔ "lot". Here, the vowels in e "face" and o "goat" can be considered as the "more prominent" versions of ɛ "dress" and ɔ "lot".
+<!-- Next, we split `e̞` "dress" from `e̞` "face", as well as `o̞` "lot" from `e̞` "goat", resulting in `e` "face" and `ɛ` "dress", and `o` "goat" and `ɔ` "lot". Here, the vowels in `e` "face" and `o` "goat" can be considered as the "more prominent" versions of `ɛ` "dress" and `ɔ` "lot". -->
+`ne̞kst, wɪ splɪt "dre̞s" frəm "fe̞s", əz we̞l əz "lo̞t" frəm "go̞t", rɪzɐltɪŋ ɪn "fes" ən "drɛs", ən "got" ən "lɔt". hɪ:, ðə væwəlz ɪn "fes" ən "got" kən bi: kənsɪdəd əz ðə "mo̞: prɒmɪnənt" və:ʒən əv "drɛs" ən "lɔt".`
 
 <!--v-->
 
@@ -380,7 +379,8 @@ Next, we split e̞ "dress" from e̞ "face", as well as o̞ "lot" from e̞ "goat"
 | | | | | |
 
 Notes:
-Next, we split `i` "kit" from "fleece" and `u` "foot" from "goose", yielding `ɪ` "kit" and `ʊ` "foot". `i` "fleece" and `u` "goose" are now the "more pronounced" counterparts of `ɪ` "kit" and `ʊ` "foot". You can here them in words like "me" and "you".
+<!-- Next, we split `i` "kit" from "fleece" and `u` "foot" from "goose", yielding `ɪ` "kit" and `ʊ` "foot". `i` "fleece" and `u` "goose" are now the "more pronounced" counterparts of `ɪ` "kit" and `ʊ` "foot". -->
+`ne̞kst, wɪ splɪt "kit" frəm "flis" ən "fut" frəm "gus", ji:ldɪŋ "kɪt" ən "fʊt". "flis" ən "gus" ɑ: næw ðə "mo̞: prənæwnst" kæwntəpɑ:ts əv "kɪt" ən "fʊt".`
 
 <!--v-->
 
@@ -416,7 +416,8 @@ Next, we split `i` "kit" from "fleece" and `u` "foot" from "goose", yielding `ɪ
 | | |
 
 Notes:
-Let's now focus on these five pairs of more and less prominent vowels. In many accents, the more prominent vowels tend to be longer. In fact, the vowels in `e` "face" and `o` "goat" even develop into diphthongs, resulting in `eɪ` "face" and `oʊ` "goat".
+<!-- Let's now focus on these five pairs of more and less prominent vowels. In many accents, the more prominent vowels tend to be longer. In fact, the vowels in `e` "face" and `o` "goat" even develop into diphthongs, resulting in `eɪ` "face" and `oʊ` "goat". -->
+`le̞ts næw fo̞wkəs ɒn ði:z fɑjv pe̞:z əv mo̞:r‿ən le̞s prɒmɪnənt væwəlz. ɪn me̞ni: ækse̞nts, ðə mo̞ prɒmɪnənt væwəlz te̞nd tə bi: lɒŋgə. ɪn fækt, ðə væwəlz ɪn "fe:s" ən "go:t" i:vən dɪve̞ləp ɪntə dɪfθɒŋz, rɪzɐltɪŋ ɪn "feɪs" ən "goʊt".`
 
 <!--v-->
 
@@ -463,7 +464,8 @@ Let's now focus on these five pairs of more and less prominent vowels. In many a
 | | | |
 
 Notes:
-Speaking of diphthongs, the onsets and offsets of the diphthongs in `ɐj` "price", `ɐw` "mouth", and `o̞j` "choice" take on their less prominent form, resulting in `aɪ` "price", `aʊ` "mouth", and `ɔɪ` "choice". Additionally, `o̞` "thought" is associated with the less prominent `ɔ` "lot" vowel, albeit in its lengthened form, at least in accents with lengthened vowels.
+<!-- Speaking of diphthongs, the onsets and offsets of the diphthongs in `ɐj` "price", `ɐw` "mouth", and `o̞j` "choice" take on their less prominent form, resulting in `aɪ` "price", `aʊ` "mouth", and `ɔɪ` "choice". Additionally, `o̞` "thought" is associated with the less prominent `ɔ` "lot" vowel, albeit in its lengthened form, at least in accents with lengthened vowels. -->
+`spi:kɪŋ əv dɪfθɒŋz, ðɪ ɒnse̞ts ən ɒfse̞ts əv ðe dɪfθɒŋz ɪn "prɐjs", "mɐwθ", and "tʃɔɪs". ədɪʃənəli:, "θo̞t" ɪz əso̞wʃɪe̞jtəd wɪð ðə le̞s prɒmɪnənt "lɔt" væwəl, o̞:lbi:ɪt ɪn ɪts le̞ŋθənd fo̞:m, ət li:st ɪn ækse̞nts wɪð le̞ŋθənd væwəlz.`
 
 <!--v-->
 
@@ -535,7 +537,8 @@ Notes:
 | | |
 
 Notes:
-Before "r", the less prominent `ɪ` "kit" vowel, as heard in `ɪ` "bird", merges with the `ɛ` "dress" vowel in `ɛ` "pearl".
+<!-- Before "r", the less prominent `ɪ` "kit" vowel, as heard in `ɪ` "bird", merges with the `ɛ` "dress" vowel in `ɛ` "pearl". -->
+`bɪfo̞:r‿"ɑ:", ðə le̞s prɒmɪnənt "kɪt" væwəl, əz hə:d ɪn "bɪrd", mə:dʒəz wɪð ðə "drɛs" væwəl ɪn "pɛrl".`
 
 <!--v-->
 
@@ -604,7 +607,8 @@ Before "r", the less prominent `ɪ` "kit" vowel, as heard in `ɪ` "bird", merges
 | | |
 
 Notes:
-Similarly, the less prominent `ʊ` "foot" vowel in `ʊr` "nurse" merges with the `ɐ` "strut" vowel, resulting in `ɐr` "nurse", and the `ɛr` "pearl" vowel also merges with the `ɐr` "nurse" vowel, resulting in `ɐr` "pearl".
+<!-- Similarly, the less prominent `ʊ` "foot" vowel in `ʊr` "nurse" merges with the `ɐ` "strut" vowel, resulting in `ɐr` "nurse", and the `ɛr` "pearl" vowel also merges with the `ɐr` "nurse" vowel, resulting in `ɐr` "pearl". -->
+`sɪmɪləli:, ðə le̞s prɒmɪnənt "fʊt" væwəl ɪn "nʊrs" mə:dʒəz wɪð ðə "strɐt" væwəl, rɪzɐltɪŋ ɪn "nɐrs", ən ðe "pɛrl" væwəl o̞:lso̞w mə:dʒəz wɪð ðə "nɐrs" væwəl, rɪzɐltɪŋ ɪn "pɐrl".`
 
 <!--v-->
 
@@ -685,6 +689,8 @@ Similarly, the less prominent `ʊ` "foot" vowel in `ʊr` "nurse" merges with the
 
 Notes:
 When the consonant "r" becomes the semi-vowel `ɹ̠ʷ`, the `ɐ` "strut" vowel in `ɐr` "nurse" changes to a schwa, resulting in `əɹ̠ʷ` "nurse". Simultaneously, the `a` "trap" vowel in `ar` "start" shifts to the `ɑː` "palm" vowel, resulting in `ɑːɹ̠ʷ` "start".
+
+<!-- ɪʊ e̞o̞ɒ ɛɔ ɐɑ ʃʒ θð r‿ -->
 
 <!--v-->
 
