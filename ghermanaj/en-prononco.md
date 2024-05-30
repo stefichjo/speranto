@@ -11,7 +11,7 @@ revealOptions:
 
 <!-- cd ~/Git/speranto/ghermanaj; reveal-md en-prononco.md -w -->
 <!-- ᴀʙᴄᴅᴇꜰɢʜɪᴊᴋʟᴍɴᴏᴘǫʀsᴛᴜᴠᴡxʏᴢ -->
-<!-- ᵿ -->
+<!-- ᵿ ‿ -->
 
 # Vowels
 
@@ -166,7 +166,7 @@ Notes:
 
 Notes:
 <!-- We can continue by pronouncing diphthongs as in "price", "choice", and "mouth". In IPA, the unstressed offset "i" and "u" are represented with a `jay` "j" and a `double-yoo` "w". -->
-`wɪ kən kəntɪnju: bɑj prənæwnsɪŋ dɪfθɒŋz əz ɪn "prɑjs", tʃo̞js", ən "mæwθ". ɪn ɑj pɪ‿e̞j, ðɪ‿ɐnstre̞st ɒfset "i" ən "u" ɑ: re̞prɪze̞ntəd wɪð ə "dʒe̞j" ən ə "dɐbəl-ju:".`
+`wɪ kən kəntɪnju: bɑj prənæwnsɪŋ dɪfθɒŋz əz ɪn "prɐjs", tʃo̞js", ən "mɐwθ". ɪn ɑj pɪ‿e̞j, ðɪ‿ɐnstre̞st ɒfset "i" ən "u" ɑ: re̞prɪze̞ntəd wɪð ə "dʒe̞j" ən ə "dɐbəl-ju:".`
 
 <!--v-->
 
@@ -236,18 +236,27 @@ Notes:
 |-|:-:|-|
 | `i` ꜰʟᴇᴇᴄᴇ ᴋɪᴛ | | `u` ɢᴏᴏsᴇ ꜰᴏᴏᴛ |
 | `e̞` ꜰᴀᴄᴇ ᴅʀᴇss | | `o̞` ɢᴏᴀᴛ ʟᴏᴛ |
+| | `ɐ` sᴛʀᴜᴛ ᴄᴏᴍᴍ**ᴀ**<br>ᴘᴀʟᴍ ᴛʀᴀᴘ| |
+| | | |
+
+<!--v-->
+
+| | | |
+|-|:-:|-|
+| `i` ꜰʟᴇᴇᴄᴇ ᴋɪᴛ | | `u` ɢᴏᴏsᴇ ꜰᴏᴏᴛ |
+| `e̞` ꜰᴀᴄᴇ ᴅʀᴇss | `ə` ᴄᴏᴍᴍ**ᴀ** | `o̞` ɢᴏᴀᴛ ʟᴏᴛ |
 | | `ɐ` sᴛʀᴜᴛ<br>ᴘᴀʟᴍ ᴛʀᴀᴘ| |
 | | | |
 
 Notes:
-<!-- Even within this simplified five-vowel system, we can observe a significant vowel shift: the merging of the vowel in `u` "strut" with those in "palm", "trap", and "comma", resulting in `ɐ` "strut". -->
-`i:vən wɪðɪn ðɪs sɪmplɪfɑjd fɑjv-væwəl sɪstəm, wɪ kən əbzə:v ə sɪgnɪfɪkənt væwəl ʃɪft: ðə mə:dʒɪŋ əv ðə væwəl ɪn "strʊt" wɪð ðo̞wz ɪn "pɐm", "trɐp", ən "ko̞mɐ", rɪzɐltɪŋ in "strɐt".`
+<!-- Even within this simplified five-vowel system, we can observe a significant vowel shift: the merging of the vowel in `u` "strut" with those in "palm", "trap", resulting in `ɐ` "strut". Unstressed monophthongs, like the final vowel of "comma", shift to the centre of the vowel space and become a schwa. Unstressed "i" is not affected, though. There is more to say about unstressed vowels at the end of this video. -->
+`i:vən wɪðɪn ðɪs sɪmplɪfɑjd fɑjv-væwəl sɪstəm, wɪ kən əbzə:v ə sɪgnɪfɪkənt væwəl ʃɪft: ðə mə:dʒɪŋ əv ðə væwəl ɪn "strʊt" wɪð ðo̞wz ɪn "pɐm", "trɐp", rɪzɐltɪŋ in "strɐt". ɐnstre̞st mɒnəfθɒŋz, lɑjk ðə fɑjnəl væwəl əv "ko̞mɐ", ʃɪft tə ðə se̞ntər‿əv ðə væwəl spe̞js ən bɪkɐm ə ʃwɑ:. ɐnstre̞st "i" iz nɒt əfe̞ktəd, ðo̞w. ðe̞:r‿ɪz mo̞: tə se̞j əbæwt ɐnstre̞st væwəlz ət ðɪ‿e̞nd əv ðɪs vɪdɪo̞w.`
 
 <!--v-->
 
 > All human beings are born free and equal in dignity and rights. They are endowed with reason and conscience and should act towards one another in a spirit of brotherhood.
 
-<small>`o̞l hjumɐn biiŋz ɐr bo̞rn fri ɐnd ikwɐl`<br>`in digniti ɐnd rɐjts.`<br>`ðe̞ ɐr indɐwd wið rizɐn ɐnd ko̞nʃɐns`<br>`ɐnd ʃud ɐkt tuwo̞rdz wɐn ɐnɐðɐr`<br>`in ɐ spirit ɐv brɐðɐrhud.`</small>
+<small>`o̞l hjumən biiŋz ər bo̞rn fri ən ikwəl`<br>`in digniti ən rɐjts.`<br>`ðe̞ ər indɐwd wið rizən ən ko̞nʃəns`<br>`ən ʃud ɐkt təwo̞rdz wɐn ənɐðər`<br>`in ɐ spirit əv brɐðərhud.`</small>
 
 Notes:
 #1: 5-Vowel System
@@ -262,7 +271,7 @@ Notes:
 | | | |
 |-|:-:|-|
 | `i` ꜰʟᴇᴇᴄᴇ ᴋɪᴛ | | `u` ɢᴏᴏsᴇ ꜰᴏᴏᴛ |
-| `e̞` ꜰᴀᴄᴇ ᴅʀᴇss | | `o̞` ɢᴏᴀᴛ ʟᴏᴛ |
+| `e̞` ꜰᴀᴄᴇ ᴅʀᴇss | `ə` ᴄᴏᴍᴍ**ᴀ** | `o̞` ɢᴏᴀᴛ ʟᴏᴛ |
 | | `ɐ` sᴛʀᴜᴛ<br>ᴘᴀʟᴍ ᴛʀᴀᴘ | |
 | | | |
 
@@ -273,7 +282,7 @@ Notes:
 | `i` ꜰʟᴇᴇᴄᴇ ᴋɪᴛ | | `u` ɢᴏᴏsᴇ ꜰᴏᴏᴛ |
 | | | |
 | | | |
-| `e̞` ꜰᴀᴄᴇ ᴅʀᴇss | | `o̞` ɢᴏᴀᴛ ʟᴏᴛ |
+| `e̞` ꜰᴀᴄᴇ ᴅʀᴇss | `ə` ᴄᴏᴍᴍ**ᴀ** | `o̞` ɢᴏᴀᴛ ʟᴏᴛ |
 | | | |
 | | `ɐ` sᴛʀᴜᴛ<br>ᴘᴀʟᴍ ᴛʀᴀᴘ | |
 | | | |
@@ -286,7 +295,7 @@ Notes:
 | `i` ꜰʟᴇᴇᴄᴇ ᴋɪᴛ | | `u` ɢᴏᴏsᴇ ꜰᴏᴏᴛ |
 | | | |
 | | | |
-| `e̞` ꜰᴀᴄᴇ ᴅʀᴇss | | `o̞` ɢᴏᴀᴛ ʟᴏᴛ |
+| `e̞` ꜰᴀᴄᴇ ᴅʀᴇss | `ə` ᴄᴏᴍᴍ**ᴀ** | `o̞` ɢᴏᴀᴛ ʟᴏᴛ |
 | | | |
 | | `ɐ` sᴛʀᴜᴛ | |
 | `a` ᴛʀᴀᴘ | | `ɑ` ᴘᴀʟᴍ |
@@ -299,7 +308,7 @@ Notes:
 | `i` ꜰʟᴇᴇᴄᴇ ᴋɪᴛ | | `u` ɢᴏᴏsᴇ ꜰᴏᴏᴛ |
 | | | |
 | | | |
-| `e̞` ꜰᴀᴄᴇ ᴅʀᴇss | | `o̞` ɢᴏᴀᴛ ʟᴏᴛ |
+| `e̞` ꜰᴀᴄᴇ ᴅʀᴇss | `ə` ᴄᴏᴍᴍ**ᴀ** | `o̞` ɢᴏᴀᴛ ʟᴏᴛ |
 | | | |
 | | `ɐ` sᴛʀᴜᴛ | |
 | `a` ᴛʀᴀᴘ | | **`ɑ`** ᴘᴀʟᴍ |
@@ -316,7 +325,7 @@ Notes:
 | `i` ꜰʟᴇᴇᴄᴇ ᴋɪᴛ | | `u` ɢᴏᴏsᴇ ꜰᴏᴏᴛ |
 | | | |
 | `e` ꜰᴀᴄᴇ | | `o` ɢᴏᴀᴛ |
-| | | |
+| | `ə` ᴄᴏᴍᴍ**ᴀ** | |
 | `ɛ` ᴅʀᴇss | | `ɔ` ʟᴏᴛ |
 | | `ɐ` sᴛʀᴜᴛ | |
 | `a` ᴛʀᴀᴘ | | **`ɑ`** ᴘᴀʟᴍ |
@@ -329,7 +338,7 @@ Notes:
 | `i` ꜰʟᴇᴇᴄᴇ ᴋɪᴛ | | `u` ɢᴏᴏsᴇ ꜰᴏᴏᴛ |
 | | | |
 | **`e`** ꜰᴀᴄᴇ | | **`o`** ɢᴏᴀᴛ |
-| | | |
+| | `ə` ᴄᴏᴍᴍ**ᴀ** | |
 | `ɛ` ᴅʀᴇss | | `ɔ` ʟᴏᴛ |
 | | `ɐ` sᴛʀᴜᴛ | |
 | `a` ᴛʀᴀᴘ | | **`ɑ`** ᴘᴀʟᴍ |
@@ -346,7 +355,7 @@ Notes:
 | `i` ꜰʟᴇᴇᴄᴇ | | | | `u` ɢᴏᴏsᴇ |
 | | `ɪ` ᴋɪᴛ | | `ʊ` ꜰᴏᴏᴛ | |
 | **`e`** ꜰᴀᴄᴇ | | | | **`o`** ɢᴏᴀᴛ |
-| | | | | |
+| | | `ə` ᴄᴏᴍᴍ**ᴀ** | | |
 | `ɛ` ᴅʀᴇss | | | | `ɔ` ʟᴏᴛ |
 | | | `ɐ` sᴛʀᴜᴛ | | |
 | `a` ᴛʀᴀᴘ | | | | **`ɑ`** ᴘᴀʟᴍ |
@@ -359,7 +368,7 @@ Notes:
 | **`i`** ꜰʟᴇᴇᴄᴇ | | | | **`u`** ɢᴏᴏsᴇ |
 | | `ɪ` ᴋɪᴛ | | `ʊ` ꜰᴏᴏᴛ | |
 | **`e`** ꜰᴀᴄᴇ | | | | **`o`** ɢᴏᴀᴛ |
-| | | | | |
+| | | `ə` ᴄᴏᴍᴍ**ᴀ** | | |
 | `ɛ` ᴅʀᴇss | | | | `ɔ` ʟᴏᴛ |
 | | | `ɐ` sᴛʀᴜᴛ | | |
 | `a` ᴛʀᴀᴘ | | | | **`ɑ`** ᴘᴀʟᴍ |
@@ -372,9 +381,9 @@ Notes:
 | **`i`** ꜰʟᴇᴇᴄᴇ | | | | **`u`** ɢᴏᴏsᴇ |
 | | `ɪ` ᴋɪᴛ | | `ʊ` ꜰᴏᴏᴛ | |
 | **`e`** ꜰᴀᴄᴇ | | | | **`o`** ɢᴏᴀᴛ |
-| | | | | |
+| | | *`ə` ᴄᴏᴍᴍ**ᴀ*** | | |
 | `ɛ` ᴅʀᴇss | | | | `ɔ` ʟᴏᴛ |
-| | | (`ɐ` sᴛʀᴜᴛ) | | |
+| | | *`ɐ` sᴛʀᴜᴛ* | | |
 | `a` ᴛʀᴀᴘ | | | | **`ɑ`** ᴘᴀʟᴍ |
 | | | | | |
 
@@ -471,7 +480,7 @@ Notes:
 
 > All human beings are born free and equal in dignity and rights. They are endowed with reason and conscience and should act towards one another in a spirit of brotherhood.
 
-<small>`ɔːl hjuːmɐn biːɪŋz ar bɔrn friː ɐnd iːkwɐl`<br>`ɪn dɪgnɪtiː ɐnd raɪts.`<br>`ðeɪ ar ɪndaʊd wɪð riːzɐn ɐnd kɔnʃɐns`<br>`ɐnd ʃʊd akt tuːwɔrdz wɐn ɐnɐðɐr`<br>`ɪn ɐ spɪrɪt ɐv brɐðɐrhʊd.`</small>
+<small>`ɔːl hjuːmən biːɪŋz ar bɔrn friː ən iːkwəl`<br>`ɪn dɪgnɪtiː ən raɪts.`<br>`ðeɪ ar ɪndaʊd wɪð riːzən ən kɔnʃəns`<br>`ən ʃʊd akt təwɔrdz wɐn ənɐðər`<br>`ɪn ə spɪrɪt əv brɐðərhʊd.`</small>
 
 Notes:
 #2: 10-Vowel System (Rhotic)
@@ -747,7 +756,7 @@ Notes:
 
 | | |
 |-|-|
-| `ɐ` ᴄᴏᴍᴍ**ᴀ** | `ɐr` ʟᴇᴛᴛ**ᴇʀ** |
+| `ə` ᴄᴏᴍᴍ**ᴀ** | `ər` ʟᴇᴛᴛ**ᴇʀ** |
 | | |
 
 <!--v-->
@@ -765,14 +774,14 @@ Notes:
 | | |
 
 Notes:
-<!-- Simultaneously, the unstressed ending of `ɐr` "letter" begins to sound similar to the vowel in `əɹ̠ʷ` "nurse", resulting in `əɹ̠ʷ` "letter". Likewise, the ending of `ɐ` "comma" transforms into a schwa, resulting in `ə` "comma". Oversimplified, all unstressed vowels tend to be pronounced as a schwa. -->
-`sɪməlte̞jnɪəsli:, ðɪ ɐnstre̞st e̞ndɪŋ əv "le̞tɐr" bɪgɪnz tə sæwnd sɪmɪlə tə ðə væwəl ɪn "nəɹ̠ʷs", rɪzɐltɪŋ ɪn "lɛtəɹ̠ʷ". lɑjkwɑjz, ðɪ e̞ndɪŋ əv "ko̞mɐ" trænsfo̞:mz ɪntʊ‿ə ʃwɑ:, rɪzɐltɪŋ ɪn "kɔmə". o̞wvəsɪmplɪfɑjd, o̞:l ɐnstre̞st væwəlz te̞nd tə bi: prənæwnst əz ə ʃwɑ:.`
+<!-- Simultaneously, the unstressed ending of `ər` "letter" begins to sound similar to the vowel in `əɹ̠ʷ` "nurse", resulting in `əɹ̠ʷ` "letter". -->
+`sɪməlte̞jnɪəsli:, ðɪ ɐnstre̞st e̞ndɪŋ əv "le̞tɐr" bɪgɪnz tə sæwnd sɪmɪlə tə ðə væwəl ɪn "nəɹ̠ʷs", rɪzɐltɪŋ ɪn "lɛtəɹ̠ʷ".`
 
 <!--v-->
 
 > All human beings are born free and equal in dignity and rights. They are endowed with reason and conscience and should act towards one another in a spirit of brotherhood.
 
-<small>`ɔːl hjuːmən biːɪŋz ɑːɹ̠ʷ bɔɹ̠ʷn fɹ̠ʷiː ənd iːkwəl`<br>`ən dɪgnətiː ənd ɹ̠ʷaɪts.`<br>`ðeɪ ɑːɹ̠ʷ ɪndaʊd wɪð ɹ̠ʷiːzən ənd kɔnʃəns`<br>`ənd ʃʊd akt təwɔɹ̠ʷdz wɐn ənɐðəɹ̠ʷ`<br>`ən ə spɪɹ̠ʷət əv bɹ̠ʷɐðəɹ̠ʷhʊd.`</small>
+<small>`ɔːl hjuːmən biːɪŋz ɑːɹ̠ʷ bɔɹ̠ʷn fɹ̠ʷiː ən iːkwəl`<br>`ɪn dɪgnətiː ən ɹ̠ʷaɪts.`<br>`ðeɪ ɑːɹ̠ʷ ɪndaʊd wɪð ɹ̠ʷiːzən ən kɔnʃəns`<br>`ən ʃʊd akt təwɔɹ̠ʷdz wɐn ənɐðəɹ̠ʷ`<br>`ɪn ə spɪɹ̠ʷɪt əv bɹ̠ʷɐðəɹ̠ʷhʊd.`</small>
 
 Notes:
 #3: 10-Vowel System (Semi-Rhotic)
@@ -968,8 +977,8 @@ Notes:
 | |
 
 Notes:
-<!-- Due to the "comma"/"letter" merger, a `ɹ̠ʷ` "r"-sound can be heard after a `ə` "comma" vowel when followed by another vowel, as in `ə kɔmə‿ɹ̠ʷ‿ɪz djuː` "a comma is due". There is more to say about unstressed vowels at the end of this video. -->
-`dju: tə ðə "kɔmə"/"lɛtə" mə:dʒə, ə "ɹ̠ʷ"-sæwnd kən bi: hə:d æftər‿ə "kɔmə" væwəl we̞n fɒlo̞wd bɑj ənɐðə væwəl, əz ɪn "ə kɔmə‿r‿ɪz dju:". ðe̞:r‿ɪz mo̞: tə se̞j əbæwt ɐnstre̞st væwəlz ət ðɪ e̞nd əv ðɪs vɪdɪo̞w.`
+<!-- Due to the "comma"/"letter" merger, a `ɹ̠ʷ` "r"-sound can be heard after a `ə` "comma" vowel when followed by another vowel, as in `ə kɔmə‿ɹ̠ʷ‿ɪz djuː` "a comma is due". -->
+`dju: tə ðə "kɔmə"/"lɛtə" mə:dʒə, ə "ɹ̠ʷ"-sæwnd kən bi: hə:d æftər‿ə "kɔmə" væwəl we̞n fɒlo̞wd bɑj ənɐðə væwəl, əz ɪn "ə kɔmə‿r‿ɪz dju:".`
 
 <!--v-->
 
@@ -990,14 +999,14 @@ Notes:
 | |
 
 Notes:
-<!-- A `aʊ` "mouth" vowel in combination with a `ə` "comma" vowel forms a triphthong, as in `aʊə` "flower", which can be reduced to `aə` "flower". -->
-`ə "maʊθ" væwəl ɪn kɒmbɪne̞jʃən wɪð ə "kɔmə" væwəl fo̞:mz ə trɪfθɒŋ, əz ɪn "flaʊə", wɪtʃ kən bi: rɪdju:st tə "flaə".`
+<!-- A `aʊ` "mouth" vowel in combination with a `ə` "letter" vowel forms a triphthong, as in `aʊə` "flower", which can be reduced to `aə` "flower". -->
+`ə "maʊθ" væwəl ɪn kɒmbɪne̞jʃən wɪð ə "lɛtə" væwəl fo̞:mz ə trɪfθɒŋ, əz ɪn "flaʊə", wɪtʃ kən bi: rɪdju:st tə "flaə".`
 
 <!--v-->
 
 > All human beings are born free and equal in dignity and rights. They are endowed with reason and conscience and should act towards one another in a spirit of brotherhood.
 
-<small>`ɔːl hjuːmən biːɪŋz ɑː bɔːn fɹ̠ʷiː ənd iːkwəl`<br>`ɪn dɪgnɪtiː ənd ɹ̠ʷaɪts.`<br>`ðeɪ ɑːɹ̠ʷ‿ɪndaʊd wɪð ɹ̠ʷiːzən ənd kɔnʃəns`<br>`ənd ʃʊd akt təwɔːdz wɐn ənɐðəɹ̠ʷ‿ɪn`<br>`ə spɪɹ̠ʷɪt əv bɹ̠ʷɐðəhʊd.`</small>
+<small>`ɔːl hjuːmən biːɪŋz ɑː bɔːn fɹ̠ʷiː ən iːkwəl`<br>`ɪn dɪgnɪtiː ən ɹ̠ʷaɪts.`<br>`ðeɪ ɑːɹ̠ʷ‿ɪndaʊd wɪð ɹ̠ʷiːzən ən kɔnʃəns`<br>`ən ʃʊd akt təwɔːdz wɐn ənɐðəɹ̠ʷ‿ɪn`<br>`ə spɪɹ̠ʷɪt əv bɹ̠ʷɐðəhʊd.`</small>
 
 Notes:
 #4: 10-Vowel System (Non-Rhotic)
@@ -1102,7 +1111,7 @@ Notes:
 
 > All human beings are born free and equal in dignity and rights. They are endowed with reason and conscience and should act towards one another in a spirit of brotherhood.
 
-<small>`o̞ːl hjuːmən biːɪŋz ɑː bo̞ːn fɹ̠ʷiː ənd iːkwəl`<br>`ɪn dɪgnɪtiː ənd ɹ̠ʷajts.`<br>`ðe̞j ɑːɹ̠ʷ‿ɪndawd wɪð ɹ̠ʷiːzən ənd ko̞nʃəns`<br>`ənd ʃʊd akt təwo̞ːdz wɐn ənɐðəɹ̠ʷ‿ɪn`<br>`ə spɪɹ̠ʷɪt əv bɹ̠ʷɐðəhʊd.`</small>
+<small>`o̞ːl hjuːmən biːɪŋz ɑː bo̞ːn fɹ̠ʷiː ən iːkwəl`<br>`ɪn dɪgnɪtiː ən ɹ̠ʷajts.`<br>`ðe̞j ɑːɹ̠ʷ‿ɪndawd wɪð ɹ̠ʷiːzən ən ko̞nʃəns`<br>`ən ʃʊd akt təwo̞ːdz wɐn ənɐðəɹ̠ʷ‿ɪn`<br>`ə spɪɹ̠ʷɪt əv bɹ̠ʷɐðəhʊd.`</small>
 
 Notes:
 #5: 8-Vowel System (Un-Split E & O)
@@ -1267,7 +1276,7 @@ Notes:
 
 > All human beings are born free and equal in dignity and rights. They are endowed with reason and conscience and should act towards one another in a spirit of brotherhood.
 
-<small>`o̞ːl hjuːmən biːɪŋz ɑː bo̞ːn fɹ̠ʷiː ənd iːkwəl`<br>`ɪn dɪgnɪtiː ənd ɹ̠ʷɑjts.`<br>`ðe̞j ɑːɹ̠ʷ‿ɪndæwd wɪð ɹ̠ʷiːzən ənd kɒnʃəns`<br>`ənd ʃʊd ækt təwo̞ːdz wɐn ənɐðəɹ̠ʷ‿ɪn`<br>`ə spɪɹ̠ʷɪt əv bɹ̠ʷɐðəhʊd.`</small>
+<small>`o̞ːl hjuːmən biːɪŋz ɑː bo̞ːn fɹ̠ʷiː ən iːkwəl`<br>`ɪn dɪgnɪtiː ən ɹ̠ʷɑjts.`<br>`ðe̞j ɑːɹ̠ʷ‿ɪndæwd wɪð ɹ̠ʷiːzən ən kɒnʃəns`<br>`ən ʃʊd ækt təwo̞ːdz wɐn ənɐðəɹ̠ʷ‿ɪn`<br>`ə spɪɹ̠ʷɪt əv bɹ̠ʷɐðəhʊd.`</small>
 
 Notes:
 #6: 8-Vowel System (Split A)
@@ -1384,7 +1393,7 @@ Notes:
 
 > All human beings are born free and equal in dignity and rights. They are endowed with reason and conscience and should act towards one another in a spirit of brotherhood.
 
-<small>`o̞ːl hj`~~`ʊ`~~`wmən bɪjɪŋz ɑː bo̞ːn fɹ̠ʷɪj ənd ɪjkwəl`<br>`ɪn dɪgnɪtɪj ənd ɹ̠ʷɑjts.`<br>`ðe̞j ɑːɹ̠ʷ‿ɪndæwd wɪð ɹ̠ʷɪjzən ənd kɒnʃəns`<br>`ənd ʃ`~~`ʊ`~~`d ækt təwo̞ːdz wɐn ənɐðəɹ̠ʷ‿ɪn`<br>`ə spɪɹ̠ʷɪt əv bɹ̠ʷɐðəh`~~`ʊ`~~`d.`</small>
+<small>`o̞ːl hj`~~`ʊ`~~`wmən bɪjɪŋz ɑː bo̞ːn fɹ̠ʷɪj ən ɪjkwəl`<br>`ɪn dɪgnɪtɪj ən ɹ̠ʷɑjts.`<br>`ðe̞j ɑːɹ̠ʷ‿ɪndæwd wɪð ɹ̠ʷɪjzən ən kɒnʃəns`<br>`ən ʃ`~~`ʊ`~~`d ækt təwo̞ːdz wɐn ənɐðəɹ̠ʷ‿ɪn`<br>`ə spɪɹ̠ʷɪt əv bɹ̠ʷɐðəh`~~`ʊ`~~`d.`</small>
 
 Notes:
 #7: 7-Vowel System (Un-Split I & U)
@@ -1557,7 +1566,7 @@ Notes:
 
 > All human beings are born free and equal in dignity and rights. They are endowed with reason and conscience and should act towards one another in a spirit of brotherhood.
 
-<small>`oːl hj`~~`ʊ`~~`wmən bejeŋz ɑː boːn fɹ̠ʷej ənd ejkwəl`<br>`en degnetej ənd ɹ̠ʷɑjts.`<br>`ðɛj ɑːɹ̠ʷ‿endawd weð ɹ̠ʷejzən ənd kɔnʃəns`<br>`ənd ʃ`~~`ʊ`~~`d akt təwoːdz wɐn ənɐðəɹ̠ʷ‿ɪn`<br>`ə speɹ̠ʷet əv bɹ̠ʷɐðəh`~~`ʊ`~~`d.`</small>
+<small>`oːl hj`~~`ʊ`~~`wmən bejeŋz ɑː boːn fɹ̠ʷej ən ejkwəl`<br>`en degnetej ən ɹ̠ʷɑjts.`<br>`ðɛj ɑːɹ̠ʷ‿endawd weð ɹ̠ʷejzən ən kɔnʃəns`<br>`ən ʃ`~~`ʊ`~~`d akt təwoːdz wɐn ənɐðəɹ̠ʷ‿ɪn`<br>`ə speɹ̠ʷet əv bɹ̠ʷɐðəh`~~`ʊ`~~`d.`</small>
 
 Notes:
 #8: 7-Vowel System (Rotated)
@@ -1704,7 +1713,7 @@ Notes:
 
 > All human beings are born free and equal in dignity and rights. They are endowed with reason and conscience and should act towards one another in a spirit of brotherhood.
 
-<small>`oːl hjʉwmən bɪjɪŋz ɑː boːn fɹ̠ʷɪj ənd ɪjkwəl`<br>`ɪn dɪgnɪtɪj ənd ɹ̠ʷɑjts.`<br>`ðɛj ɑːɹ̠ʷ‿ɪndawd wɪð ɹ̠ʷɪjzən ənd kɔnʃəns`<br>`ənd ʃɵd akt təwoːdz wɐn ənɐðɐɹ̠ʷ‿ɪn`<br>`ə spɪɹ̠ʷɪt əv bɹ̠ʷɐðɐhɵd.`</small>
+<small>`oːl hjʉwmən bɪjɪŋz ɑː boːn fɹ̠ʷɪj ən ɪjkwəl`<br>`ɪn dɪgnɪtɪj ən ɹ̠ʷɑjts.`<br>`ðɛj ɑːɹ̠ʷ‿ɪndawd wɪð ɹ̠ʷɪjzən ən kɔnʃəns`<br>`ən ʃɵd akt təwoːdz wɐn ənɐðɐɹ̠ʷ‿ɪn`<br>`ə spɪɹ̠ʷɪt əv bɹ̠ʷɐðɐhɵd.`</small>
 
 Notes:
 #9: 8-Vowel System (Rotated)
@@ -1726,8 +1735,7 @@ Notes:
 
 <!--v-->
 
-## Suffixes
-<!-- TODO ternary stress? -->
+## Weak Stress
 <!-- TODO mention also the vowels/diphthongs that don't change in unstressed position (if any) -->
 
 <!--v-->
@@ -1967,6 +1975,30 @@ Notes:
 | | | | |
 |-|-|-|-|
 | `l̩` ᴀᴘᴘ**ʟᴇ** | `m̩` ʙᴏᴛᴛ**ᴏᴍ** | `n̩` ᴏꜰᴛ**ᴇɴ** | `ə` ʟᴇᴛᴛ**ᴇʀ** |
+| `əl` ꜰᴀᴍ**ɪʟ**ʏ | `əm` ᴀᴄᴀᴅ**ᴀᴍ**ʏ | `ən` ᴍᴜᴛ**ɪɴ**ʏ | `ər` ʙᴀᴛᴛ**ᴇʀ**ʏ |
+| | | | |
+
+<!--v-->
+
+| | | | |
+|-|-|-|-|
+| `l̩` ᴀᴘᴘ**ʟᴇ** | `m̩` ʙᴏᴛᴛ**ᴏᴍ** | `n̩` ᴏꜰᴛ**ᴇɴ** | `ə` ʟᴇᴛᴛ**ᴇʀ** |
+| `ɪl` ꜰᴀᴍ**ɪʟ**ʏ | `ɪm` ᴀᴄᴀᴅ**ᴀᴍ**ʏ | `ɪn` ᴍᴜᴛ**ɪɴ**ʏ | `ɪr` ʙᴀᴛᴛ**ᴇʀ**ʏ |
+| | | | |
+
+<!--v-->
+
+| | | | |
+|-|-|-|-|
+| `l̩` ᴀᴘᴘ**ʟᴇ** | `m̩` ʙᴏᴛᴛ**ᴏᴍ** | `n̩` ᴏꜰᴛ**ᴇɴ** | `ə` ʟᴇᴛᴛ**ᴇʀ** |
+| ~~`ɪ`~~`l` ꜰᴀᴍ**ɪʟ**ʏ | ~~`ɪ`~~`m` ᴀᴄᴀᴅ**ᴀᴍ**ʏ | ~~`ɪ`~~`n` ᴍᴜᴛ**ɪɴ**ʏ | ~~`ɪ`~~`r` ʙᴀᴛᴛ**ᴇʀ**ʏ |
+| | | | |
+
+<!--v-->
+
+| | | | |
+|-|-|-|-|
+| `l̩` ᴀᴘᴘ**ʟᴇ** | `m̩` ʙᴏᴛᴛ**ᴏᴍ** | `n̩` ᴏꜰᴛ**ᴇɴ** | `ə` ʟᴇᴛᴛ**ᴇʀ** |
 | `l̩` ꜰᴀᴍ**ɪʟ**ʏ | `m̩` ᴀᴄᴀᴅ**ᴀᴍ**ʏ | `n̩` ᴍᴜᴛ**ɪɴ**ʏ | `r̩` ʙᴀᴛᴛ**ᴇʀ**ʏ |
 | | | | |
 
@@ -1989,8 +2021,6 @@ Notes:
 <!--v-->
 
 ## Happy Tensing
-
-<!-- TODO check royalese -->
 
 <!--v-->
 
@@ -2366,9 +2396,6 @@ Notes:
 | | | `ɐ` | | |
 | `a` | | | | `ɑ` |
 | | | | | |
-
-Notes:
-<small>`oːl hj`~~`ʊ`~~`wmən bejeŋz ɑː boːn fɹ̠ʷej ənd ejkwəl en degnetej ənd ɹ̠ʷɑjts.`<br>`ðɛj ɑːɹ̠ʷ‿ɛndawd weð ɹ̠ʷejzən ənd kɔnʃəns ənd ʃ`~~`ʊ`~~`d akt t`~~`ʊ`~~`woːdz`<br>`wɐn ənɐðəɹ̠ʷ‿en ə speɹ̠ʷet əv bɹ̠ʷɐðəh`~~`ʊ`~~`d.`</small>
 
 <!--v-->
 
