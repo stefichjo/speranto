@@ -51,7 +51,7 @@ Notes:
 
 Notes:
 <!-- Adding to the complexity, English accents carry notions of prestige and stigma, along with the risk of sounding ridiculous or committing cultural appropriation, impacting both native and non-native speakers. -->
-`ædɪŋ tə ðə kəmple̞ksɪti:, ɪŋglɪʃ ækse̞nts kæri: no̞wʃənz əv pre̞sti:ʒ ən stɪgmə, ælɒŋ wɪð ðə rɪsk əv sæwndɪŋ rɪdɪkjələs o̞: kəmɪtɪŋ kɐltʃərəl əpro̞wprɪe̞jʃən, ɪmpæktɪŋ bo̞wθ ne̞jtɪv ən nɒn-ne̞jtɪv spi:kəz.`
+`ædɪŋ tə ðə kəmple̞ksɪti:, ɪŋglɪʃ ækse̞nts kæri: no̞wʃənz əv pre̞sti:ʒ ən stɪgmə, ælɒŋ wɪð ðə rɪsk əv sæwndɪŋ rɪdɪkjələs o̞: kəmɪtɪŋ kɐltʃərəl əpro̞wprɪje̞jʃən, ɪmpæktɪŋ bo̞wθ ne̞jtɪv ən nɒn-ne̞jtɪv spi:kəz.`
 
 
 <!--v-->
@@ -78,7 +78,7 @@ Notes:
 
 Notes:
 <!-- In this video, we'll begin from scratch, avoiding references to specific English accents, whether native or non-native. Instead, we'll offer a simplified overview of English vowel systems, treating them as if they exist in a homogeneous continuum from which you can pick and choose your accent according to your personal preferences. -->
-`ɪn ðɪs vɪdɪo̞w wɪl bɪgɪn frəm skrætʃ, əvo̞jdɪŋ re̞fərənsəz tə spɪsɪfɪk ɪŋglɪʃ ækse̞nts, we̞ðə ne̞jtɪv o̞: nɒn-ne̞jtɪv. ɪnste̞d, wɪl ɒfər‿ə sɪmplɪfɑjd o̞wvəvju: əv ɪŋglɪʃ væwəl sɪstəmz, tri:tɪŋ ðəm əz ɪf ðe̞j ɪgzɪst ɪn ə hɒmədʒi:nɪəs kəntɪnjʊəm frəm wɪtʃ jə kən pɪk ən tʃu:z jo̞:r‿ækse̞nt əko̞:dɪŋ tə jo̞: pə:sənəl pre̞fərənsəz.`
+`ɪn ðɪs vɪdɪjo̞w wɪl bɪgɪn frəm skrætʃ, əvo̞jdɪŋ re̞fərənsəz tə spɪsɪfɪk ɪŋglɪʃ ækse̞nts, we̞ðə ne̞jtɪv o̞: nɒn-ne̞jtɪv. ɪnste̞d, wɪl ɒfər‿ə sɪmplɪfɑjd o̞wvəvju: əv ɪŋglɪʃ væwəl sɪstəmz, tri:tɪŋ ðəm əz ɪf ðe̞j ɪgzɪst ɪn ə hɒmədʒi:nɪjəs kəntɪnjʊwəm frəm wɪtʃ jə kən pɪk ən tʃu:z jo̞:r‿ækse̞nt əko̞:dɪŋ tə jo̞: pə:sənəl pre̞fərənsəz.`
 
 <!--v-->
 
@@ -250,7 +250,7 @@ Notes:
 
 Notes:
 <!-- Even within this simplified five-vowel system, we can observe a significant vowel shift: the merging of the vowel in `u` "strut" with those in "palm", "trap", resulting in `ɐ` "strut". Unstressed monophthongs, like the final vowel of "comma", shift to the centre of the vowel space and become a schwa. Unstressed "i" is not affected, though. More on unstressed vowels at the end of this video. -->
-`i:vən wɪðɪn ðɪs sɪmplɪfɑjd fɑjv-væwəl sɪstəm, wɪ kən əbzə:v ə sɪgnɪfɪkənt væwəl ʃɪft: ðə mə:dʒɪŋ əv ðə væwəl ɪn "strʊt" wɪð ðo̞wz ɪn "pɐm", "trɐp", rɪzɐltɪŋ in "strɐt". ɐnstre̞st mɒnəfθɒŋz, lɑjk ðə fɑjnəl væwəl əv "ko̞mɐ", ʃɪft tə ðə se̞ntər‿əv ðə væwəl spe̞js ən bɪkɐm ə ʃwɑ:. ɐnstre̞st "i" iz nɒt əfe̞ktəd, ðo̞w. mo̞:r‿ɒn ɐnstre̞st væwəlz ət ðɪ‿e̞nd əv ðɪs vɪdɪo̞w.`
+`i:vən wɪðɪn ðɪs sɪmplɪfɑjd fɑjv-væwəl sɪstəm, wɪ kən əbzə:v ə sɪgnɪfɪkənt væwəl ʃɪft: ðə mə:dʒɪŋ əv ðə væwəl ɪn "strʊt" wɪð ðo̞wz ɪn "pɐm", "trɐp", rɪzɐltɪŋ in "strɐt". ɐnstre̞st mɒnəfθɒŋz, lɑjk ðə fɑjnəl væwəl əv "ko̞mɐ", ʃɪft tə ðə se̞ntər‿əv ðə væwəl spe̞js ən bɪkɐm ə ʃwɑ:. ɐnstre̞st "i" iz nɒt əfe̞ktəd, ðo̞w. mo̞:r‿ɒn ɐnstre̞st væwəlz ət ðɪ‿e̞nd əv ðɪs vɪdɪjo̞w.`
 
 <!--v-->
 
@@ -316,7 +316,7 @@ Notes:
 
 Notes:
 <!-- To split the vowels in `i` "fleece" and `i` "kit", `e̞` "face" and `e̞` "dress", `ɐ` "palm" and `ɐ` "trap", `o̞` "goat" and `o̞` "lot", and `u` "goose" and `u` "foot", we need to manipulate our vowel space around the central and middle axes and at the edges of the square. Visualizing that there are actually *seven* levels of openness can be helpful; currently, we're utilizing only half of them. Let's allocate the open back vowel `ɑ` and the open front vowel `a` for `ɑ` "palm" and `a` "trap", separating them from the "strut" vowel. Even though both the `ɑ` "palm" vowel and the `a` "trap" vowel represent the "a"-sound, the "palm" vowel can be considered as more representative than the "trap" vowel, and it is therefore more prominent and tense. -->
-`tə splɪt ðə væwəlz ɪn "flis" ən "kit", "fe̞s" ən "dre̞s", "pɐm" ən "trɐp", "go̞t" ən "lo̞t", ən "gus" en "fut", wɪ ni:d tə mənɪpjəle̞jt æɐ væwəl spe̞js əræwnd ðə se̞ntrəl ən mɪdəl æksi:s ən ət ðɪ e̞dʒəz əv ðə skwe̞:. vɪʒʊəlɑjzɪŋ ðət ðe̞:r‿ɑ:r‿æktʃʊəli: *se̞vən* le̞vəlz əv o̞wpənnəs kən bi: he̞lpfəl; kɐrəntli:, wɪ: ju:tɪlɑjzɪŋ o̞wnli: hɑ:f əv ðəm. le̞ts æləke̞jt ðɪ o̞wpən bæk væwəl "ɑ"‿r‿ən ðɪ o̞wpən frɒnt væwəl "a" fə "pɑm" ən "træp", se̞pəre̞jtɪŋ ðəm frəm ðə "strɐt" væwəl. i:vən ðo̞w bo̞wθ ðə "pɑm" væwəl ən ðə "træp" væwəl re̞prɪze̞nt ðɪ "a"-sæwnd, ðə "pɑm" væwəl kən bi: kənsɪdəd əz mo̞: re̞prɪze̞ntətɪv ðən ðə "træp" væwəl, ən ɪt ɪz ðe̞:fo̞: mo̞: prɒmɪnənt ən te̞ns.`
+`tə splɪt ðə væwəlz ɪn "flis" ən "kit", "fe̞s" ən "dre̞s", "pɐm" ən "trɐp", "go̞t" ən "lo̞t", ən "gus" en "fut", wɪ ni:d tə mənɪpjəle̞jt æɐ væwəl spe̞js əræwnd ðə se̞ntrəl ən mɪdəl æksi:s ən ət ðɪ e̞dʒəz əv ðə skwe̞:. vɪʒʊwəlɑjzɪŋ ðət ðe̞:r‿ɑ:r‿æktʃʊwəli: *se̞vən* le̞vəlz əv o̞wpənnəs kən bi: he̞lpfəl; kɐrəntli:, wɪ: ju:tɪlɑjzɪŋ o̞wnli: hɑ:f əv ðəm. le̞ts æləke̞jt ðɪ o̞wpən bæk væwəl "ɑ"‿r‿ən ðɪ o̞wpən frɒnt væwəl "a" fə "pɑm" ən "træp", se̞pəre̞jtɪŋ ðəm frəm ðə "strɐt" væwəl. i:vən ðo̞w bo̞wθ ðə "pɑm" væwəl ən ðə "træp" væwəl re̞prɪze̞nt ðɪ "a"-sæwnd, ðə "pɑm" væwəl kən bi: kənsɪdəd əz mo̞: re̞prɪze̞ntətɪv ðən ðə "træp" væwəl, ən ɪt ɪz ðe̞:fo̞: mo̞: prɒmɪnənt ən te̞ns.`
 
 <!--v-->
 
@@ -474,7 +474,7 @@ Notes:
 
 Notes:
 <!-- Speaking of diphthongs, the onsets and offsets of the diphthongs in `ɐj` "price", `ɐw` "mouth", and `o̞j` "choice" take on their less prominent form, resulting in `aɪ` "price", `aʊ` "mouth", and `ɔɪ` "choice". Additionally, `o̞` "thought" is associated with the less prominent `ɔ` "lot" vowel, albeit in its lengthened form, at least in accents with lengthened vowels. -->
-`spi:kɪŋ əv dɪfθɒŋz, ðɪ ɒnse̞ts ən ɒfse̞ts əv ðe dɪfθɒŋz ɪn "prɐjs", "mɐwθ", and "tʃɔɪs". ədɪʃənəli:, "θo̞t" ɪz əso̞wʃɪe̞jtəd wɪð ðə le̞s prɒmɪnənt "lɔt" væwəl, o̞:lbi:ɪt ɪn ɪts le̞ŋθənd fo̞:m, ət li:st ɪn ækse̞nts wɪð le̞ŋθənd væwəlz.`
+`spi:kɪŋ əv dɪfθɒŋz, ðɪ ɒnse̞ts ən ɒfse̞ts əv ðe dɪfθɒŋz ɪn "prɐjs", "mɐwθ", and "tʃɔɪs". ədɪʃənəli:, "θo̞t" ɪz əso̞wʃɪje̞jtəd wɪð ðə le̞s prɒmɪnənt "lɔt" væwəl, o̞:lbi:ɪt ɪn ɪts le̞ŋθənd fo̞:m, ət li:st ɪn ækse̞nts wɪð le̞ŋθənd væwəlz.`
 
 <!--v-->
 
@@ -698,7 +698,7 @@ Notes:
 
 Notes:
 <!-- When the consonant "r" becomes the semi-vowel `ɹ̠ʷ`, the `ɐ` "strut" vowel in `ɐr` "nurse" changes to a schwa, resulting in `əɹ̠ʷ` "nurse". Simultaneously, the `a` "trap" vowel in `ar` "start" shifts to the `ɑː` "palm" vowel, resulting in `ɑːɹ̠ʷ` "start". -->
-`we̞n ðə kɒnsənənt "r" bɪcɐmz ðə se̞mɪ-væwəl "ɹ̠ʷ", ðə "strɐt" væwəl ɪn "nɐrs" tʃe̞jndʒəz tʊ‿ə ʃwɑ:, rɪzɐltɪŋ ɪn "nəɹ̠ʷs". sɪməlte̞jnɪəsli:, ðə "trap" væwəl ɪn "start" ʃɪfts tə ðə "pɑ:m" væwəl, rɪzɐltɪŋ ɪn "stɑ:ɹ̠ʷt".`
+`we̞n ðə kɒnsənənt "r" bɪcɐmz ðə se̞mɪ-væwəl "ɹ̠ʷ", ðə "strɐt" væwəl ɪn "nɐrs" tʃe̞jndʒəz tʊ‿ə ʃwɑ:, rɪzɐltɪŋ ɪn "nəɹ̠ʷs". sɪməlte̞jnɪjəsli:, ðə "trap" væwəl ɪn "start" ʃɪfts tə ðə "pɑ:m" væwəl, rɪzɐltɪŋ ɪn "stɑ:ɹ̠ʷt".`
 
 <!--v-->
 
@@ -775,7 +775,7 @@ Notes:
 
 Notes:
 <!-- Simultaneously, the unstressed ending of `ər` "letter" begins to sound similar to the vowel in `əɹ̠ʷ` "nurse", resulting in `əɹ̠ʷ` "letter". -->
-`sɪməlte̞jnɪəsli:, ðɪ ɐnstre̞st e̞ndɪŋ əv "le̞tɐr" bɪgɪnz tə sæwnd sɪmɪlə tə ðə væwəl ɪn "nəɹ̠ʷs", rɪzɐltɪŋ ɪn "lɛtəɹ̠ʷ".`
+`sɪməlte̞jnɪjəsli:, ðɪ ɐnstre̞st e̞ndɪŋ əv "le̞tɐr" bɪgɪnz tə sæwnd sɪmɪlə tə ðə væwəl ɪn "nəɹ̠ʷs", rɪzɐltɪŋ ɪn "lɛtəɹ̠ʷ".`
 
 <!--v-->
 
@@ -1226,7 +1226,7 @@ Notes:
 
 Notes:
 <!-- Disclaimer: Before fricatives, the `a` "trap" vowel and `o̞` "lot" vowel do not immediately shift to the near-open `æ` "trap" and `ɒ` "lot", for example in words like `a` "bath" and `o̞` "cloth". Instead, they often merge with `ɑː` "palm" and `o̞ː` "thought", resulting in `ɑː` "bath" and `o̞ː` "cloth". While some accents retain these distinctions, others re-merge `ɑː` "bath" or `o̞ː` "cloth" with `æ` "trap" and `ɒ` "lot", leading to `æ` "bath" and `ɒ` "cloth". -->
-`dɪskle̞jmə : bɪfo̞: frɪkətɪvz, ðə "trap" væwəl ən "lo̞t" væwəl du: nɒt ɪmi:dɪətli: ʃɪft tə ðə nɪ:r‿o̞wpən "træp" ən "lɒt", fər‿ɪgzæmpəl ɪn wə:dz lɑjk "baθ" ən "klo̞θ". ɪnste̞d, ðe̞j ɒfən mə:dʒ wɪð "pɑ:m" ən "tho̞:t", rɪzɐltɪŋ ɪ "bɑ:th" ən "klo̞:θ". wɑjl sɐm ækse̞nts rɪte̞jn ði:z dɪstɪŋkʃənz, ɐðəz ri:mə:dʒ "bɑ:θ" o̞: "klo̞:θ" wɪð "træp" ən "lɒt", li:dɪŋ tə "bæθ" ən "klɒθ".`
+`dɪskle̞jmə : bɪfo̞: frɪkətɪvz, ðə "trap" væwəl ən "lo̞t" væwəl du: nɒt ɪmi:dɪjətli: ʃɪft tə ðə nɪ:r‿o̞wpən "træp" ən "lɒt", fər‿ɪgzæmpəl ɪn wə:dz lɑjk "baθ" ən "klo̞θ". ɪnste̞d, ðe̞j ɒfən mə:dʒ wɪð "pɑ:m" ən "tho̞:t", rɪzɐltɪŋ ɪ "bɑ:th" ən "klo̞:θ". wɑjl sɐm ækse̞nts rɪte̞jn ði:z dɪstɪŋkʃənz, ɐðəz ri:mə:dʒ "bɑ:θ" o̞: "klo̞:θ" wɪð "træp" ən "lɒt", li:dɪŋ tə "bæθ" ən "klɒθ".`
 
 <!--v-->
 
@@ -1321,7 +1321,7 @@ Notes:
 
 Notes:
 <!-- Similarly to the `e̞` "dress" vowel and the onset of the `e̞j` "face" diphthong, the `iː` "fleece" vowel breaks into the laxer `ɪ` "kit" vowel combined with the `j`-glide, resulting in `ɪj` "fleece". Likewise, akin to the previous `o̞` "lot" vowel and the onset of the `o̞w` "goat" diphthong, the `uː` "goose" vowel breaks into the laxer `ʊ` "foot" vowel combined with the `w`-glide, resulting in `ʊw` "goose. -->
-`sɪmɪləli: tə ðə "dre̞s" væwəl ən ðɪ ɒnse̞t əv ðə "fe̞js" dɪfθɒŋ, ðə fli:s væwəl bre̞jks ɪntə ðə læksə "kɪt" væwəl kəmbɑjnd wɪð ðə "j"-glɑjd, rɪzɐltɪŋ ɪn "flɪjs". lɑjkwɑjz, əkɪn tə ðə pri:vɪəs "lo̞t" væwəl ən ðə ɒnse̞t əv ðə "go̞wt" dɪfθɒŋ, ðə "gu:s" væwəl bre̞jks ɪntə ðe læksə "fʊt" væwəl kəmbɑjnd wɪð ðə "w"-glɑjd, rɪzɐltɪŋ ɪn "gʊws".`
+`sɪmɪləli: tə ðə "dre̞s" væwəl ən ðɪ ɒnse̞t əv ðə "fe̞js" dɪfθɒŋ, ðə fli:s væwəl bre̞jks ɪntə ðə læksə "kɪt" væwəl kəmbɑjnd wɪð ðə "j"-glɑjd, rɪzɐltɪŋ ɪn "flɪjs". lɑjkwɑjz, əkɪn tə ðə pri:vɪjəs "lo̞t" væwəl ən ðə ɒnse̞t əv ðə "go̞wt" dɪfθɒŋ, ðə "gu:s" væwəl bre̞jks ɪntə ðe læksə "fʊt" væwəl kəmbɑjnd wɪð ðə "w"-glɑjd, rɪzɐltɪŋ ɪn "gʊws".`
 
 <!--v-->
 
@@ -1742,89 +1742,147 @@ Notes:
 
 Notes:
 <!-- Congratulations on making it to the end of this video, and thank you for your patience! As promised, there is more to say about unstressed vowels. Unstressed vowels can still retain their stressed form, meaning they don't turn into a schwa. This is known as "secondary stress". Sometimes, both the strong and weak forms exist. For example, the vowel `e̞` in "accent", with secondary stress on "cent", can be pronounced as a schwa, resulting in `e` "accent". -->
-`kənɡrætʃəle̞jʃəns ɒn me̞jkɪŋ ɪt tə ðɪ‿e̞nd əv ðɪs vɪdɪo̞w, ən θæŋk ju: fə jə pe̞jʃəns! əz prɒmɪst, ðe̞:r‿ɪz mo̞: tə se̞j əbæwt ɐnstre̞st væwəlz. ɐnstre̞st væwəlz kən stɪl rɪte̞jn ðe̞: stre̞st fo̞:m, mi:nɪŋ ðe̞j do̞wnt te̞:n ɪntʊ‿ə ʃwɑ:. ðɪs ɪz no̞wn əz "se̞kəndəri: stre̞s". sɐmtɑjmz, bo̞wθ ðə strɒŋ ən ðə wi:k fo̞:mz ɪgzɪst. fər‿igzæmpəl, ðə væwəl "e̞" ɪn "ækse̞nt", wɪð se̞kəndəri stre̞s ɒn "se̞nt", kən bi: prənæwnst əz ə ʃwɑ:, rɪzɐltɪŋ ɪn "æksənt".`
+`kənɡrætʃəle̞jʃəns ɒn me̞jkɪŋ ɪt tə ðɪ‿e̞nd əv ðɪs vɪdɪjo̞w, ən θæŋk ju: fə jə pe̞jʃəns! əz prɒmɪst, ðe̞:r‿ɪz mo̞: tə se̞j əbæwt ɐnstre̞st væwəlz. ɐnstre̞st væwəlz kən stɪl rɪte̞jn ðe̞: stre̞st fo̞:m, mi:nɪŋ ðe̞j do̞wnt te̞:n ɪntʊ‿ə ʃwɑ:. ðɪs ɪz no̞wn əz "se̞kəndəri: stre̞s". sɐmtɑjmz, bo̞wθ ðə strɒŋ ən ðə wi:k fo̞:mz ɪgzɪst. fər‿igzæmpəl, ðə væwəl "e̞" ɪn "ækse̞nt", wɪð se̞kəndəri stre̞s ɒn "se̞nt", kən bi: prənæwnst əz ə ʃwɑ:, rɪzɐltɪŋ ɪn "æksənt".`
 
 <!--v-->
 
-## Weak Stress
-
-<!--v-->
-
-| |
-|-|
-| `ə` ᴍᴀʀᴋ**ᴇ**ᴛ |
-| |
+## Laxing
 
 <!--v-->
 
 | |
 |-|
-| `ə` ᴍᴀʀᴋ**ᴇ**ᴛ |
-| `ə` sᴀʟ**ᴀ**ᴅ |
+| `iː` ʜᴀᴘᴘ**ɪ**ᴇʀ |
+| `uː` ᴠᴀʟ**ᴜ**ᴀʙʟᴇ |
 | |
 
 <!--v-->
 
 | |
 |-|
-| `ə` ᴍᴀʀᴋ**ᴇ**ᴛ |
-| `ə` sᴀʟ**ᴀ**ᴅ |
-| `ə` ʙɪɢ**ᴏ**ᴛ |
+| `ɪ` ʜᴀᴘᴘ**ɪ**ᴇʀ |
+| `ʊ` ᴠᴀʟ**ᴜ**ᴀʙʟᴇ |
+| |
+
+<!--v-->
+
+## Glides
+
+<!--v-->
+
+| |
+|-|
+| `ɪə` ʜᴀᴘᴘ**ɪ**ᴇʀ |
+| `ʊə` ᴠᴀʟ**ᴜ**ᴀʙʟᴇ |
 | |
 
 <!--v-->
 
 | |
 |-|
-| `ə` ᴍᴀʀᴋ**ᴇ**ᴛ |
-| `ə` sᴀʟ**ᴀ**ᴅ |
-| `ə` ʙɪɢ**ᴏ**ᴛ |
-| `ə` ᴍɪɴ**ᴜ**ᴛᴇ |
+| `ɪjə` ʜᴀᴘᴘ**ɪ**ᴇʀ |
+| `ʊwə` ᴠᴀʟ**ᴜ**ᴀʙʟᴇ |
+| |
+
+<!--v-->
+
+## Re-Tensing
+
+<!--v-->
+
+| |
+|-|
+| `ɪjə` ʜᴀᴘᴘ**ɪ**ᴇʀ |
+| `ʊwə` ᴠᴀʟ**ᴜ**ᴀʙʟᴇ |
 | |
 
 <!--v-->
 
 | |
 |-|
-| `ə` ᴍᴀʀᴋ**ᴇ**ᴛ |
-| `ə` sᴀʟ**ᴀ**ᴅ |
-| `ə` ʙɪɢ**ᴏ**ᴛ |
-| `ə` ᴍɪɴ**ᴜ**ᴛᴇ |
-| `_ə` ᴀʀɢ**ᴜ**ᴀʙʟᴇ |
+| `iːə` ʜᴀᴘᴘ**ɪ**ᴇʀ |
+| `uːə` ᴠᴀʟ**ᴜ**ᴀʙʟᴇ |
+| |
+
+<!--v-->
+
+## Re-Laxing
+
+<!--v-->
+
+| |
+|-|
+| `ɪjə` ʜᴀᴘᴘ**ɪ**ᴇʀ |
+| `ʊwə` ᴠᴀʟ**ᴜ**ᴀʙʟᴇ |
 | |
 
 <!--v-->
 
 | |
 |-|
-| `ə` ᴍᴀʀᴋ**ᴇ**ᴛ |
-| `ə` sᴀʟ**ᴀ**ᴅ |
-| `ə` ʙɪɢ**ᴏ**ᴛ |
-| `ə` ᴍɪɴ**ᴜ**ᴛᴇ |
-| `əə` ᴀʀɢ**ᴜ**ᴀʙʟᴇ |
+| `ɪ`~~`j`~~`ə` ʜᴀᴘᴘ**ɪ**ᴇʀ |
+| `ʊ`~~`w`~~`ə` ᴠᴀʟ**ᴜ**ᴀʙʟᴇ |
 | |
 
 <!--v-->
 
 | |
 |-|
-| `ə` ᴍᴀʀᴋ**ᴇ**ᴛ |
-| `ə` sᴀʟ**ᴀ**ᴅ |
-| `ə` ʙɪɢ**ᴏ**ᴛ |
-| `ə` ᴍɪɴ**ᴜ**ᴛᴇ |
-| ~~`ə`~~`ə` ᴀʀɢ**ᴜ**ᴀʙʟᴇ |
+| `ɪə` ʜᴀᴘᴘ**ɪ**ᴇʀ |
+| `ʊə` ᴠᴀʟ**ᴜ**ᴀʙʟᴇ |
 | |
 
 <!--v-->
 
 | |
 |-|
-| `ə` ᴍᴀʀᴋ**ᴇ**ᴛ |
-| `ə` sᴀʟ**ᴀ**ᴅ |
-| `ə` ʙɪɢ**ᴏ**ᴛ |
-| `ə` ᴍɪɴ**ᴜ**ᴛᴇ |
-| `ʊə` ᴀʀɢ**ᴜ**ᴀʙʟᴇ |
+| `ɪ` ʜᴀᴘᴘ**ʏ** |
+| `ʊ` ᴠᴀʟ**ᴜᴇ** |
 | |
+
+<!--v-->
+
+| |
+|-|
+| `ɪ` ʜᴀᴘᴘ**ʏ** |
+| `e̞j` ᴍᴏɴᴅ**ᴀʏ** |
+| `o̞w` ꜰᴏʟʟ**ᴏᴡ** |
+| `ʊ` ᴠᴀʟ**ᴜᴇ** |
+| |
+
+<!--v-->
+
+| |
+|-|
+| `ɪ` ʜᴀᴘᴘ**ʏ** |
+| `e̞`~~`j`~~ ᴍᴏɴᴅ**ᴀʏ** |
+| `o̞`~~`w`~~ ꜰᴏʟʟ**ᴏᴡ** |
+| `ʊ` ᴠᴀʟ**ᴜᴇ** |
+| |
+
+<!--v-->
+
+| |
+|-|
+| `ɪ` ʜᴀᴘᴘ**ʏ** |
+| `e̞` ᴍᴏɴᴅ**ᴀʏ** |
+| `o̞` ꜰᴏʟʟ**ᴏᴡ** |
+| `ʊ` ᴠᴀʟ**ᴜᴇ** |
+| |
+
+<!--v-->
+
+| |
+|-|
+| `ɪ` ʜᴀᴘᴘ**ʏ** |
+| `ɪ` ᴍᴏɴᴅ**ᴀʏ** |
+| `ʊ` ꜰᴏʟʟ**ᴏᴡ** |
+| `ʊ` ᴠᴀʟ**ᴜᴇ** |
+| |
+
+<!--v-->
+
+## Weak Vowel Merger
 
 <!--v-->
 
@@ -1835,7 +1893,6 @@ Notes:
 | `ə` sᴀʟ**ᴀ**ᴅ |
 | `ə` ʙɪɢ**ᴏ**ᴛ |
 | `ə` ᴍɪɴ**ᴜ**ᴛᴇ |
-| `ʊə` ᴀʀɢ**ᴜ**ᴀʙʟᴇ |
 | |
 
 <!--v-->
@@ -1847,66 +1904,21 @@ Notes:
 | `ə` sᴀʟ**ᴀ**ᴅ |
 | `ə` ʙɪɢ**ᴏ**ᴛ |
 | `ə` ᴍɪɴ**ᴜ**ᴛᴇ |
-| `ʊə` ᴀʀɢ**ᴜ**ᴀʙʟᴇ |
+| |
+
+<!--v-->
+
+| |
+|-|
+| `ə~ɪ` ʀᴀʙʙ**ɪ**ᴛ |
+| `ə~ɪ` ᴍᴀʀᴋ**ᴇ**ᴛ |
+| `ə~ɪ` sᴀʟ**ᴀ**ᴅ |
+| `ə~ɪ` ʙɪɢ**ᴏ**ᴛ |
+| `ə~ɪ` ᴍɪɴ**ᴜ**ᴛᴇ |
 | |
 
 Notes:
-<!-- TODO -->
-<!-- market, salad, bigot, minut -->
-<!-- arguable -->
-<!-- rabbit -->
-
-<!--v-->
-
-## Weak Vowel Merger
-
-<!--v-->
-
-| |
-|-|
-| `ɪ` ʀᴀʙʙ**ɪ**ᴛ |
-| `ə` ᴍᴀʀᴋ**ᴇ**ᴛ |
-| `ə` sᴀʟ**ᴀ**ᴅ |
-| `ə` ʙɪɢ**ᴏ**ᴛ |
-| `ə` ᴍɪɴ**ᴜ**ᴛᴇ |
-| `ʊə` ᴀʀɢ**ᴜ**ᴀʙʟᴇ |
-| |
-
-<!--v-->
-
-| |
-|-|
-| ~~`ɪ`~~ ʀᴀʙʙ**ɪ**ᴛ |
-| `ə` ᴍᴀʀᴋ**ᴇ**ᴛ |
-| `ə` sᴀʟ**ᴀ**ᴅ |
-| `ə` ʙɪɢ**ᴏ**ᴛ |
-| `ə` ᴍɪɴ**ᴜ**ᴛᴇ |
-| `ʊə` ᴀʀɢ**ᴜ**ᴀʙʟᴇ |
-| |
-
-<!--v-->
-
-| |
-|-|
-| `ə` ʀᴀʙʙ**ɪ**ᴛ |
-| `ə` ᴍᴀʀᴋ**ᴇ**ᴛ |
-| `ə` sᴀʟ**ᴀ**ᴅ |
-| `ə` ʙɪɢ**ᴏ**ᴛ |
-| `ə` ᴍɪɴ**ᴜ**ᴛᴇ |
-| `ʊə` ᴀʀɢ**ᴜ**ᴀʙʟᴇ |
-| |
-
-<!--v-->
-
-| |
-|-|
-| `ɪ` ʀᴀʙʙ**ɪ**ᴛ |
-| `ɪ` ᴍᴀʀᴋ**ᴇ**ᴛ |
-| `ɪ` sᴀʟ**ᴀ**ᴅ |
-| `ɪ` ʙɪɢ**ᴏ**ᴛ |
-| `ɪ` ᴍɪɴ**ᴜ**ᴛᴇ |
-| `ʊə` ᴀʀɢ**ᴜ**ᴀʙʟᴇ |
-| |
+Unstressed monophthongs are usually weak, as in "market", "salad", "bigot", and "minute". Unstressed /ɪ/, as in `ɪ` "rabbit", is never reduced to a schwa, yet.
 
 <!--v-->
 
@@ -1917,20 +1929,6 @@ Notes:
 | | | |
 |-|-|-|
 | `əl` ᴀᴘᴘ**ʟᴇ** | `əm` ʙᴏᴛᴛ**ᴏᴍ** | `ən` ᴏꜰᴛ**ᴇɴ** |
-| | | |
-
-<!--v-->
-
-| | | |
-|-|-|-|
-| `ɪl` ᴀᴘᴘ**ʟᴇ** | `ɪm` ʙᴏᴛᴛ**ᴏᴍ** | `ɪn` ᴏꜰᴛ**ᴇɴ** |
-| | | |
-
-<!--v-->
-
-| | | |
-|-|-|-|
-| ~~`ɪ`~~`l` ᴀᴘᴘ**ʟᴇ** | ~~`ɪ`~~`m` ʙᴏᴛᴛ**ᴏᴍ** | ~~`ɪ`~~`n` ᴏꜰᴛ**ᴇɴ** |
 | | | |
 
 <!--v-->
@@ -1951,28 +1949,7 @@ Notes:
 
 | | | | |
 |-|-|-|-|
-| `l̩` ᴀᴘᴘ**ʟᴇ** | `m̩` ʙᴏᴛᴛ**ᴏᴍ** | `n̩` ᴏꜰᴛ**ᴇɴ** | `ɪr` ʟᴇᴛᴛ**ᴇʀ** |
-| | | | |
-
-<!--v-->
-
-| | | | |
-|-|-|-|-|
-| `l̩` ᴀᴘᴘ**ʟᴇ** | `m̩` ʙᴏᴛᴛ**ᴏᴍ** | `n̩` ᴏꜰᴛ**ᴇɴ** | ~~`ɪ`~~`r` ʟᴇᴛᴛ**ᴇʀ** |
-| | | | |
-
-<!--v-->
-
-| | | | |
-|-|-|-|-|
 | `l̩` ᴀᴘᴘ**ʟᴇ** | `m̩` ʙᴏᴛᴛ**ᴏᴍ** | `n̩` ᴏꜰᴛ**ᴇɴ** | `r̩` ʟᴇᴛᴛ**ᴇʀ** |
-| | | | |
-
-<!--v-->
-
-| | | | |
-|-|-|-|-|
-| `l̩` ᴀᴘᴘ**ʟᴇ** | `m̩` ʙᴏᴛᴛ**ᴏᴍ** | `n̩` ᴏꜰᴛ**ᴇɴ** | `ɚ` ʟᴇᴛᴛ**ᴇʀ** |
 | | | | |
 
 <!--v-->
@@ -2003,141 +1980,8 @@ Notes:
 | | | | |
 |-|-|-|-|
 | `l̩` ᴀᴘᴘ**ʟᴇ** | `m̩` ʙᴏᴛᴛ**ᴏᴍ** | `n̩` ᴏꜰᴛ**ᴇɴ** | `ə` ʟᴇᴛᴛ**ᴇʀ** |
-| `l̩` ꜰᴀᴍ**ɪʟ**ʏ | `m̩` ᴀᴄᴀᴅ**ᴀᴍ**ʏ | `n̩` ᴍᴜᴛ**ɪɴ**ʏ | `ɚ` ʙᴀᴛᴛ**ᴇʀ**ʏ |
-| | | | |
-
-<!--v-->
-
-| | | | |
-|-|-|-|-|
-| `l̩` ᴀᴘᴘ**ʟᴇ** | `m̩` ʙᴏᴛᴛ**ᴏᴍ** | `n̩` ᴏꜰᴛ**ᴇɴ** | `ə` ʟᴇᴛᴛ**ᴇʀ** |
 | `l` ꜰᴀᴍ**ɪʟ**ʏ | `m` ᴀᴄᴀᴅ**ᴀᴍ**ʏ | `n` ᴍᴜᴛ**ɪɴ**ʏ | `r` ʙᴀᴛᴛ**ᴇʀ**ʏ |
 | | | | |
-
-<!--v-->
-
-## Happy Laxing
-
-<!--v-->
-
-| |
-|-|
-| `i:` ʜᴀᴘᴘ**ʏ** |
-| `e̞j` ᴍᴏɴᴅ**ᴀʏ** |
-| `ə` ᴄᴏᴍᴍ**ᴀ** |
-| `o̞w` ꜰᴏʟʟ**ᴏᴡ** |
-| `u:` ᴀʀɢ**ᴜᴇ** |
-| |
-
-<!--v-->
-
-| |
-|-|
-| ~~`i:`~~ ʜᴀᴘᴘ**ʏ** |
-| `e̞j` ᴍᴏɴᴅ**ᴀʏ** |
-| `ə` ᴄᴏᴍᴍ**ᴀ** |
-| `o̞w` ꜰᴏʟʟ**ᴏᴡ** |
-| `u:` ᴀʀɢ**ᴜᴇ** |
-| |
-
-<!--v-->
-
-| |
-|-|
-| `ɪ` ʜᴀᴘᴘ**ʏ** |
-| `e̞j` ᴍᴏɴᴅ**ᴀʏ** |
-| `ə` ᴄᴏᴍᴍ**ᴀ** |
-| `o̞w` ꜰᴏʟʟ**ᴏᴡ** |
-| `u:` ᴀʀɢ**ᴜᴇ** |
-| |
-
-<!--v-->
-
-| |
-|-|
-| `ɪ` ʜᴀᴘᴘ**ʏ** |
-| `e̞`~~`j`~~ ᴍᴏɴᴅ**ᴀʏ** |
-| `ə` ᴄᴏᴍᴍ**ᴀ** |
-| `o̞w` ꜰᴏʟʟ**ᴏᴡ** |
-| `u:` ᴀʀɢ**ᴜᴇ** |
-| |
-
-<!--v-->
-
-| |
-|-|
-| `ɪ` ʜᴀᴘᴘ**ʏ** |
-| `e̞` ᴍᴏɴᴅ**ᴀʏ** |
-| `ə` ᴄᴏᴍᴍ**ᴀ** |
-| `o̞w` ꜰᴏʟʟ**ᴏᴡ** |
-| `u:` ᴀʀɢ**ᴜᴇ** |
-| |
-
-<!--v-->
-
-| |
-|-|
-| `ɪ` ʜᴀᴘᴘ**ʏ** |
-| `ɪ` ᴍᴏɴᴅ**ᴀʏ** |
-| `ə` ᴄᴏᴍᴍ**ᴀ** |
-| `o̞w` ꜰᴏʟʟ**ᴏᴡ** |
-| `u:` ᴀʀɢ**ᴜᴇ** |
-| |
-
-<!--v-->
-
-| |
-|-|
-| `ɪ` ʜᴀᴘᴘ**ʏ** |
-| `ɪ` ᴍᴏɴᴅ**ᴀʏ** |
-| `ə` ᴄᴏᴍᴍ**ᴀ** |
-| `o̞w` ꜰᴏʟʟ**ᴏᴡ** |
-| ~~`u:`~~ ᴀʀɢ**ᴜᴇ** |
-| |
-
-<!--v-->
-
-| |
-|-|
-| `ɪ` ʜᴀᴘᴘ**ʏ** |
-| `ɪ` ᴍᴏɴᴅ**ᴀʏ** |
-| `ə` ᴄᴏᴍᴍ**ᴀ** |
-| `o̞w` ꜰᴏʟʟ**ᴏᴡ** |
-| `ʊ` ᴀʀɢ**ᴜᴇ** |
-| |
-
-<!--v-->
-
-| |
-|-|
-| `ɪ` ʜᴀᴘᴘ**ʏ** |
-| `ɪ` ᴍᴏɴᴅ**ᴀʏ** |
-| `ə` ᴄᴏᴍᴍ**ᴀ** |
-| `o̞`~~`w`~~ ꜰᴏʟʟ**ᴏᴡ** |
-| `ʊ` ᴀʀɢ**ᴜᴇ** |
-| |
-
-<!--v-->
-
-| |
-|-|
-| `ɪ` ʜᴀᴘᴘ**ʏ** |
-| `ɪ` ᴍᴏɴᴅ**ᴀʏ** |
-| `ə` ᴄᴏᴍᴍ**ᴀ** |
-| `o̞` ꜰᴏʟʟ**ᴏᴡ** |
-| `ʊ` ᴀʀɢ**ᴜᴇ** |
-| |
-
-<!--v-->
-
-| |
-|-|
-| `ɪ` ʜᴀᴘᴘ**ʏ** |
-| `ɪ` ᴍᴏɴᴅ**ᴀʏ** |
-| `ə` ᴄᴏᴍᴍ**ᴀ** |
-| `ʊ` ꜰᴏʟʟ**ᴏᴡ** |
-| `ʊ` ᴀʀɢ**ᴜᴇ** |
-| |
 
 <!--s-->
 
