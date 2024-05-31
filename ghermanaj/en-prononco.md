@@ -480,7 +480,7 @@ Notes:
 
 > All human beings are born free and equal in dignity and rights. They are endowed with reason and conscience and should act towards one another in a spirit of brotherhood.
 
-<small>`ɔːl hjuːmən biːɪŋz ar bɔrn friː ən iːkwəl`<br>`ɪn dɪgnɪtiː ən raɪts.`<br>`ðeɪ ar ɪndaʊd wɪð riːzən ən kɔnʃəns`<br>`ən ʃʊd akt təwɔrdz wɐn ənɐðər`<br>`ɪn ə spɪrɪt əv brɐðərhʊd.`</small>
+<small>`ɔːl hjuːmən biːɪŋz ər bɔrn friː ən iːkwəl`<br>`ɪn dɪgnɪtiː ən raɪts.`<br>`ðeɪ ər ɪndaʊd wɪð riːzən ən kɔnʃəns`<br>`ən ʃʊd akt təwɔrdz wɐn ənɐðər`<br>`ɪn ə spɪrɪt əv brɐðərhʊd.`</small>
 
 Notes:
 #2: 10-Vowel System (Rhotic)
@@ -781,7 +781,7 @@ Notes:
 
 > All human beings are born free and equal in dignity and rights. They are endowed with reason and conscience and should act towards one another in a spirit of brotherhood.
 
-<small>`ɔːl hjuːmən biːɪŋz ɑːɹ̠ʷ bɔɹ̠ʷn fɹ̠ʷiː ən iːkwəl`<br>`ɪn dɪgnətiː ən ɹ̠ʷaɪts.`<br>`ðeɪ ɑːɹ̠ʷ ɪndaʊd wɪð ɹ̠ʷiːzən ən kɔnʃəns`<br>`ən ʃʊd akt təwɔɹ̠ʷdz wɐn ənɐðəɹ̠ʷ`<br>`ɪn ə spɪɹ̠ʷɪt əv bɹ̠ʷɐðəɹ̠ʷhʊd.`</small>
+<small>`ɔːl hjuːmən biːɪŋz əɹ̠ʷ bɔɹ̠ʷn fɹ̠ʷiː ən iːkwəl`<br>`ɪn dɪgnətiː ən ɹ̠ʷaɪts.`<br>`ðeɪ əɹ̠ʷ ɪndaʊd wɪð ɹ̠ʷiːzən ən kɔnʃəns`<br>`ən ʃʊd akt təwɔɹ̠ʷdz wɐn ənɐðəɹ̠ʷ`<br>`ɪn ə spɪɹ̠ʷɪt əv bɹ̠ʷɐðəɹ̠ʷhʊd.`</small>
 
 Notes:
 #3: 10-Vowel System (Semi-Rhotic)
@@ -1006,7 +1006,7 @@ Notes:
 
 > All human beings are born free and equal in dignity and rights. They are endowed with reason and conscience and should act towards one another in a spirit of brotherhood.
 
-<small>`ɔːl hjuːmən biːɪŋz ɑː bɔːn fɹ̠ʷiː ən iːkwəl`<br>`ɪn dɪgnɪtiː ən ɹ̠ʷaɪts.`<br>`ðeɪ ɑːɹ̠ʷ‿ɪndaʊd wɪð ɹ̠ʷiːzən ən kɔnʃəns`<br>`ən ʃʊd akt təwɔːdz wɐn ənɐðəɹ̠ʷ‿ɪn`<br>`ə spɪɹ̠ʷɪt əv bɹ̠ʷɐðəhʊd.`</small>
+<small>`ɔːl hjuːmən biːɪŋz ə bɔːn fɹ̠ʷiː ən iːkwəl`<br>`ɪn dɪgnɪtiː ən ɹ̠ʷaɪts.`<br>`ðeɪ əɹ̠ʷ‿ɪndaʊd wɪð ɹ̠ʷiːzən ən kɔnʃəns`<br>`ən ʃʊd akt təwɔːdz wɐn ənɐðəɹ̠ʷ‿ɪn`<br>`ə spɪɹ̠ʷɪt əv bɹ̠ʷɐðəhʊd.`</small>
 
 Notes:
 #4: 10-Vowel System (Non-Rhotic)
@@ -1111,7 +1111,7 @@ Notes:
 
 > All human beings are born free and equal in dignity and rights. They are endowed with reason and conscience and should act towards one another in a spirit of brotherhood.
 
-<small>`o̞ːl hjuːmən biːɪŋz ɑː bo̞ːn fɹ̠ʷiː ən iːkwəl`<br>`ɪn dɪgnɪtiː ən ɹ̠ʷajts.`<br>`ðe̞j ɑːɹ̠ʷ‿ɪndawd wɪð ɹ̠ʷiːzən ən ko̞nʃəns`<br>`ən ʃʊd akt təwo̞ːdz wɐn ənɐðəɹ̠ʷ‿ɪn`<br>`ə spɪɹ̠ʷɪt əv bɹ̠ʷɐðəhʊd.`</small>
+<small>`o̞ːl hjuːmən biːɪŋz ə bo̞ːn fɹ̠ʷiː ən iːkwəl`<br>`ɪn dɪgnɪtiː ən ɹ̠ʷajts.`<br>`ðe̞j əɹ̠ʷ‿ɪndawd wɪð ɹ̠ʷiːzən ən ko̞nʃəns`<br>`ən ʃʊd akt təwo̞ːdz wɐn ənɐðəɹ̠ʷ‿ɪn`<br>`ə spɪɹ̠ʷɪt əv bɹ̠ʷɐðəhʊd.`</small>
 
 Notes:
 #5: 8-Vowel System (Un-Split E & O)
@@ -1276,7 +1276,7 @@ Notes:
 
 > All human beings are born free and equal in dignity and rights. They are endowed with reason and conscience and should act towards one another in a spirit of brotherhood.
 
-<small>`o̞ːl hjuːmən biːɪŋz ɑː bo̞ːn fɹ̠ʷiː ən iːkwəl`<br>`ɪn dɪgnɪtiː ən ɹ̠ʷɑjts.`<br>`ðe̞j ɑːɹ̠ʷ‿ɪndæwd wɪð ɹ̠ʷiːzən ən kɒnʃəns`<br>`ən ʃʊd ækt təwo̞ːdz wɐn ənɐðəɹ̠ʷ‿ɪn`<br>`ə spɪɹ̠ʷɪt əv bɹ̠ʷɐðəhʊd.`</small>
+<small>`o̞ːl hjuːmən biːɪŋz ə bo̞ːn fɹ̠ʷiː ən iːkwəl`<br>`ɪn dɪgnɪtiː ən ɹ̠ʷɑjts.`<br>`ðe̞j əɹ̠ʷ‿ɪndæwd wɪð ɹ̠ʷiːzən ən kɒnʃəns`<br>`ən ʃʊd ækt təwo̞ːdz wɐn ənɐðəɹ̠ʷ‿ɪn`<br>`ə spɪɹ̠ʷɪt əv bɹ̠ʷɐðəhʊd.`</small>
 
 Notes:
 #6: 8-Vowel System (Split A)
@@ -1393,7 +1393,7 @@ Notes:
 
 > All human beings are born free and equal in dignity and rights. They are endowed with reason and conscience and should act towards one another in a spirit of brotherhood.
 
-<small>`o̞ːl hj`~~`ʊ`~~`wmən bɪjɪŋz ɑː bo̞ːn fɹ̠ʷɪj ən ɪjkwəl`<br>`ɪn dɪgnɪtɪj ən ɹ̠ʷɑjts.`<br>`ðe̞j ɑːɹ̠ʷ‿ɪndæwd wɪð ɹ̠ʷɪjzən ən kɒnʃəns`<br>`ən ʃ`~~`ʊ`~~`d ækt təwo̞ːdz wɐn ənɐðəɹ̠ʷ‿ɪn`<br>`ə spɪɹ̠ʷɪt əv bɹ̠ʷɐðəh`~~`ʊ`~~`d.`</small>
+<small>`o̞ːl hj`~~`ʊ`~~`wmən bɪjɪŋz ə bo̞ːn fɹ̠ʷɪj ən ɪjkwəl`<br>`ɪn dɪgnɪtɪj ən ɹ̠ʷɑjts.`<br>`ðe̞j əɹ̠ʷ‿ɪndæwd wɪð ɹ̠ʷɪjzən ən kɒnʃəns`<br>`ən ʃ`~~`ʊ`~~`d ækt təwo̞ːdz wɐn ənɐðəɹ̠ʷ‿ɪn`<br>`ə spɪɹ̠ʷɪt əv bɹ̠ʷɐðəh`~~`ʊ`~~`d.`</small>
 
 Notes:
 #7: 7-Vowel System (Un-Split I & U)
@@ -1566,7 +1566,7 @@ Notes:
 
 > All human beings are born free and equal in dignity and rights. They are endowed with reason and conscience and should act towards one another in a spirit of brotherhood.
 
-<small>`oːl hj`~~`ʊ`~~`wmən bejeŋz ɑː boːn fɹ̠ʷej ən ejkwəl`<br>`en degnetej ən ɹ̠ʷɑjts.`<br>`ðɛj ɑːɹ̠ʷ‿endawd weð ɹ̠ʷejzən ən kɔnʃəns`<br>`ən ʃ`~~`ʊ`~~`d akt təwoːdz wɐn ənɐðəɹ̠ʷ‿ɪn`<br>`ə speɹ̠ʷet əv bɹ̠ʷɐðəh`~~`ʊ`~~`d.`</small>
+<small>`oːl hj`~~`ʊ`~~`wmən bejeŋz ə boːn fɹ̠ʷej ən ejkwəl`<br>`en degnetej ən ɹ̠ʷɑjts.`<br>`ðɛj əɹ̠ʷ‿endawd weð ɹ̠ʷejzən ən kɔnʃəns`<br>`ən ʃ`~~`ʊ`~~`d akt təwoːdz wɐn ənɐðəɹ̠ʷ‿ɪn`<br>`ə speɹ̠ʷet əv bɹ̠ʷɐðəh`~~`ʊ`~~`d.`</small>
 
 Notes:
 #8: 7-Vowel System (Rotated)
@@ -1713,7 +1713,7 @@ Notes:
 
 > All human beings are born free and equal in dignity and rights. They are endowed with reason and conscience and should act towards one another in a spirit of brotherhood.
 
-<small>`oːl hjʉwmən bɪjɪŋz ɑː boːn fɹ̠ʷɪj ən ɪjkwəl`<br>`ɪn dɪgnɪtɪj ən ɹ̠ʷɑjts.`<br>`ðɛj ɑːɹ̠ʷ‿ɪndawd wɪð ɹ̠ʷɪjzən ən kɔnʃəns`<br>`ən ʃɵd akt təwoːdz wɐn ənɐðɐɹ̠ʷ‿ɪn`<br>`ə spɪɹ̠ʷɪt əv bɹ̠ʷɐðɐhɵd.`</small>
+<small>`oːl hjʉwmən bɪjɪŋz ə boːn fɹ̠ʷɪj ən ɪjkwəl`<br>`ɪn dɪgnɪtɪj ən ɹ̠ʷɑjts.`<br>`ðɛj əɹ̠ʷ‿ɪndawd wɪð ɹ̠ʷɪjzən ən kɔnʃəns`<br>`ən ʃɵd akt təwoːdz wɐn ənɐðɐɹ̠ʷ‿ɪn`<br>`ə spɪɹ̠ʷɪt əv bɹ̠ʷɐðɐhɵd.`</small>
 
 Notes:
 #9: 8-Vowel System (Rotated)
@@ -1772,16 +1772,24 @@ Notes:
 
 | |
 |-|
-| `ɪə` ʜᴀᴘᴘ**ɪ**ᴇʀ |
-| `ʊə` ᴠᴀʟ**ᴜ**ᴀʙʟᴇ |
+| `ɪ` ʜᴀᴘᴘ**ɪ**ᴇʀ |
+| `ʊ` ᴠᴀʟ**ᴜ**ᴀʙʟᴇ |
 | |
 
 <!--v-->
 
 | |
 |-|
-| `ɪjə` ʜᴀᴘᴘ**ɪ**ᴇʀ |
-| `ʊwə` ᴠᴀʟ**ᴜ**ᴀʙʟᴇ |
+| `ɪə` ʜᴀᴘᴘ**ɪᴇʀ** |
+| `ʊə` ᴠᴀʟ**ᴜᴀ**ʙʟᴇ |
+| |
+
+<!--v-->
+
+| |
+|-|
+| `ɪjə` ʜᴀᴘᴘ**ɪᴇʀ** |
+| `ʊwə` ᴠᴀʟ**ᴜᴀ**ʙʟᴇ |
 | |
 
 <!--v-->
@@ -1792,8 +1800,8 @@ Notes:
 
 | |
 |-|
-| `ɪjə` ʜᴀᴘᴘ**ɪ**ᴇʀ |
-| `ʊwə` ᴠᴀʟ**ᴜ**ᴀʙʟᴇ |
+| `ɪjə` ʜᴀᴘᴘ**ɪᴇʀ** |
+| `ʊwə` ᴠᴀʟ**ᴜᴀ**ʙʟᴇ |
 | |
 
 <!--v-->
@@ -1812,24 +1820,24 @@ Notes:
 
 | |
 |-|
-| `ɪjə` ʜᴀᴘᴘ**ɪ**ᴇʀ |
-| `ʊwə` ᴠᴀʟ**ᴜ**ᴀʙʟᴇ |
+| `ɪjə` ʜᴀᴘᴘ**ɪᴇʀ** |
+| `ʊwə` ᴠᴀʟ**ᴜᴀ**ʙʟᴇ |
 | |
 
 <!--v-->
 
 | |
 |-|
-| `ɪ`~~`j`~~`ə` ʜᴀᴘᴘ**ɪ**ᴇʀ |
-| `ʊ`~~`w`~~`ə` ᴠᴀʟ**ᴜ**ᴀʙʟᴇ |
+| `ɪ`~~`j`~~`ə` ʜᴀᴘᴘ**ɪᴇʀ** |
+| `ʊ`~~`w`~~`ə` ᴠᴀʟ**ᴜᴀ**ʙʟᴇ |
 | |
 
 <!--v-->
 
 | |
 |-|
-| `ɪə` ʜᴀᴘᴘ**ɪ**ᴇʀ |
-| `ʊə` ᴠᴀʟ**ᴜ**ᴀʙʟᴇ |
+| `ɪə` ʜᴀᴘᴘ**ɪᴇʀ** |
+| `ʊə` ᴠᴀʟ**ᴜᴀ**ʙʟᴇ |
 | |
 
 <!--v-->
@@ -1882,7 +1890,7 @@ Notes:
 
 <!--v-->
 
-## Weak Vowel Merger
+## Weakening
 
 <!--v-->
 
