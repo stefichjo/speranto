@@ -1742,11 +1742,11 @@ Notes:
 
 Notes:
 <!-- Congratulations on making it to the end of this video, and thank you for your patience! As promised, there is more to say about unstressed vowels. Unstressed vowels can still retain their stressed form, meaning they don't turn into a schwa. This is known as "secondary stress". Sometimes, both the strong and weak forms exist. For example, the vowel `e̞` in "accent", with secondary stress on "cent", can be pronounced as a schwa, resulting in `e` "accent". -->
-`kənɡrætʃəle̞jʃəns ɒn me̞jkɪŋ ɪt tə ðɪ‿e̞nd əv ðɪs vɪdɪjo̞w, ən θæŋk ju: fə jə pe̞jʃəns! əz prɒmɪst, ðe̞:r‿ɪz mo̞: tə se̞j əbæwt ɐnstre̞st væwəlz. ɐnstre̞st væwəlz kən stɪl rɪte̞jn ðe̞: stre̞st fo̞:m, mi:nɪŋ ðe̞j do̞wnt te̞:n ɪntʊ‿ə ʃwɑ:. ðɪs ɪz no̞wn əz "se̞kəndəri: stre̞s". sɐmtɑjmz, bo̞wθ ðə strɒŋ ən ðə wi:k fo̞:mz ɪgzɪst. fər‿igzæmpəl, ðə væwəl "e̞" ɪn "ækse̞nt", wɪð se̞kəndəri stre̞s ɒn "se̞nt", kən bi: prənæwnst əz ə ʃwɑ:, rɪzɐltɪŋ ɪn "æksənt".`
+`kənɡrætʃəle̞jʃəns ɒn me̞jkɪŋ ɪt tə ðɪ‿e̞nd əv ðɪs vɪdɪjo̞w, ən θæŋk ju: fə jə pe̞jʃəns! əz prɒmɪst, ðe̞:r‿ɪz mo̞: tə se̞j əbæwt ɐnstre̞st væwəlz. ɐnstre̞st væwəlz kən stɪl rɪte̞jn ðe̞: stre̞st fo̞:m, mi:nɪŋ ðe̞j do̞wnt tə:n ɪntʊ‿ə ʃwɑ:. ðɪs ɪz no̞wn əz "se̞kəndəri: stre̞s". sɐmtɑjmz, bo̞wθ ðə strɒŋ ən ðə wi:k fo̞:mz ɪgzɪst. fər‿igzæmpəl, ðə væwəl "e̞" ɪn "ækse̞nt", wɪð se̞kəndəri stre̞s ɒn "se̞nt", kən bi: prənæwnst əz ə ʃwɑ:, rɪzɐltɪŋ ɪn "æksənt".`
 
 <!--v-->
 
-## Laxing
+## Laxing 1/2
 
 <!--v-->
 
@@ -1766,7 +1766,7 @@ Notes:
 
 <!--v-->
 
-## Glides
+## Linking
 
 <!--v-->
 
@@ -1786,7 +1786,7 @@ Notes:
 
 <!--v-->
 
-## Re-Tensing
+## Breaking
 
 <!--v-->
 
@@ -1800,13 +1800,13 @@ Notes:
 
 | |
 |-|
-| `iːə` ʜᴀᴘᴘ**ɪ**ᴇʀ |
-| `uːə` ᴠᴀʟ**ᴜ**ᴀʙʟᴇ |
+| `ɪj` ʜᴀᴘᴘ**ʏ** |
+| `ʊw` ᴠᴀʟ**ᴜᴇ** |
 | |
 
 <!--v-->
 
-## Re-Laxing
+## Laxing 2/2
 
 <!--v-->
 
