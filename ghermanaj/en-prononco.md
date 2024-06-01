@@ -1893,6 +1893,28 @@ To prevent this interpretation, one might be tempted to avoid linking glides alt
 | `ɪ` ʜᴀᴘᴘ**ʏ** |
 | `e̞`~~`j`~~ ᴍᴏɴᴅ**ᴀʏ** |
 | |
+| `o̞w` ꜰᴏʟʟ**ᴏᴡ** |
+| `ʊ` ᴠᴀʟ**ᴜᴇ** |
+| |
+
+<!--v-->
+
+| |
+|-|
+| `ɪ` ʜᴀᴘᴘ**ʏ** |
+| `e̞` ᴍᴏɴᴅ**ᴀʏ** |
+| |
+| `o̞w` ꜰᴏʟʟ**ᴏᴡ** |
+| `ʊ` ᴠᴀʟ**ᴜᴇ** |
+| |
+
+<!--v-->
+
+| |
+|-|
+| `ɪ` ʜᴀᴘᴘ**ʏ** |
+| `e̞` ᴍᴏɴᴅ**ᴀʏ** |
+| |
 | `o̞`~~`w`~~ ꜰᴏʟʟ**ᴏᴡ** |
 | `ʊ` ᴠᴀʟ**ᴜᴇ** |
 | |
@@ -1912,10 +1934,10 @@ To prevent this interpretation, one might be tempted to avoid linking glides alt
 
 | |
 |-|
-| `ɪ` ʜᴀᴘᴘ**ʏ** |
-| `e̞` ᴍᴏɴᴅ**ᴀʏ** |
+| `ɪ~e̞` ʜᴀᴘᴘ**ʏ** |
+| `ɪ~e̞` ᴍᴏɴᴅ**ᴀʏ** |
 | |
-| `ɐ` ꜰᴏʟʟ**ᴏᴡ** |
+| `o̞` ꜰᴏʟʟ**ᴏᴡ** |
 | `ʊ` ᴠᴀʟ**ᴜᴇ** |
 | |
 
@@ -1926,12 +1948,34 @@ To prevent this interpretation, one might be tempted to avoid linking glides alt
 | `ɪ~e̞` ʜᴀᴘᴘ**ʏ** |
 | `ɪ~e̞` ᴍᴏɴᴅ**ᴀʏ** |
 | |
-| `ʊ~ɐ` ꜰᴏʟʟ**ᴏᴡ** |
-| `ʊ~ɐ` ᴠᴀʟ**ᴜᴇ** |
+| `ʊ~o̞` ꜰᴏʟʟ**ᴏᴡ** |
+| `ʊ~o̞` ᴠᴀʟ**ᴜᴇ** |
+| |
+
+<!--v-->
+
+| |
+|-|
+| `ɪ~ɛ` ʜᴀᴘᴘ**ʏ** |
+| `ɪ~ɛ` ᴍᴏɴᴅ**ᴀʏ** |
+| |
+| `ʉ~ɵ` ꜰᴏʟʟ**ᴏᴡ** |
+| `ʉ~ɵ` ᴠᴀʟ**ᴜᴇ** |
+| |
+
+<!--v-->
+
+| |
+|-|
+| `ɪ~ɛ` ʜᴀᴘᴘ**ʏ** |
+| `ɪ~ɛ` ᴍᴏɴᴅ**ᴀʏ** |
+| |
+| `ʉ~ɵ~ɐ` ꜰᴏʟʟ**ᴏᴡ** |
+| `ʉ~ɵ~ɐ` ᴠᴀʟ**ᴜᴇ** |
 | |
 
 Notes:
-To sound even more conservative, one can now eliminate the glides in unstressed /e̞j/ and /o̞w/ in, for example, `e̞` "monday" and `o̞` "follow", and even merge pseudo-weak /e̞/ and /o̞/ with the lax `ɪ` "kit" and `ʊ` "foot" vowels, resulting in `ɪ` "monday" and `ʊ` "follow".
+To sound even more conservative, one can now eliminate the glides in, for example, `e̞` "monday" and `o̞` "follow", and even merge pseudo-weak /e̞/ and /o̞/ with the lax `ɪ` "kit" and `ʊ` "foot" vowels, resulting in `ɪ` "monday" or `e̞` "monday", as well `ʊ` "follow" or `o̞` "follow". In an accent with counterclockwise rotation, `ʉ` "follow" or `ɵ` follow can also be pronounced with a `ɐ` "strut" vowel, resulting in `ɐ` "follow".
 
 <!--v-->
 
@@ -1960,7 +2004,7 @@ To sound even more conservative, one can now eliminate the glides in unstressed 
 | |
 
 Notes:
-Unstressed monophthongs are usually weak, as in "market", "salad", "bigot", and "minute". Unstressed /ɪ/, as in `ɪ` "rabbit", is never reduced to a schwa, unless one merges weak /ɪ/ and /ə/, resulting in either `ɪ` "rabbit" and `ɪ` "minute" or `ə` "rabbit" and `ə` "minute".
+Unstressed monophthongs are usually weak, as in "market", "salad", "bigot", and "minute". Unstressed /ɪ/, as in `ɪ` "rabbit", is never reduced to a schwa, unless one merges weak /ə/ and /ɪ/, resulting in either `ə` "rabbit" and `ə` "minute" or `ɪ` "rabbit" and `ɪ` "minute".
 
 <!--v-->
 
