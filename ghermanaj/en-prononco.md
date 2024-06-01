@@ -11,7 +11,7 @@ revealOptions:
 
 <!-- cd ~/Git/speranto/ghermanaj; reveal-md en-prononco.md -w -->
 <!-- ᴀʙᴄᴅᴇꜰɢʜɪᴊᴋʟᴍɴᴏᴘǫʀsᴛᴜᴠᴡxʏᴢ -->
-<!-- ᵿ ‿ -->
+<!-- ᵿ ‿ ː -->
 
 # Vowels
 
@@ -166,7 +166,7 @@ Notes:
 
 Notes:
 <!-- We can continue by pronouncing diphthongs as in "price", "choice", and "mouth". In IPA, the unstressed offset "i" and "u" are represented with a `jay` "j" and a `double-yoo` "w". -->
-`wɪ kən kəntɪnju: bɑj prənæwnsɪŋ dɪfθɒŋz əz ɪn "prɐjs", tʃo̞js", ən "mɐwθ". ɪn ɑj pɪ‿e̞j, ðɪ‿ɐnstre̞st ɒfset "i" ən "u" ɑ: re̞prɪze̞ntəd wɪð ə "dʒe̞j" ən ə "dɐbəl-ju:".`
+`wɪ kən kəntɪnju: bɑj prənæwnsɪŋ dɪfθɒŋz əz ɪn "prɐjs", tʃo̞js", ən "mɐwθ". ɪn ɑj pɪ‿e̞j, ðɪ‿ɐnstre̞st ɒfset "i" ən "u" ə re̞prɪze̞ntəd wɪð ə "dʒe̞j" ən ə "dɐbəl-ju:".`
 
 <!--v-->
 
@@ -389,7 +389,7 @@ Notes:
 
 Notes:
 <!-- Next, we split `i` "kit" from "fleece" and `u` "foot" from "goose", resulting in `ɪ` "kit" and `ʊ` "foot". `i` "fleece" and `u` "goose" are now the "more pronounced" counterparts of `ɪ` "kit" and `ʊ` "foot". -->
-`ne̞kst, wɪ splɪt "kit" frəm "flis" ən "fut" frəm "gus", rɪzɐltɪŋ ɪn "kɪt" ən "fʊt". "flis" ən "gus" ɑ: næw ðə "mo̞: prənæwnst" kæwntəpɑ:ts əv "kɪt" ən "fʊt".`
+`ne̞kst, wɪ splɪt "kit" frəm "flis" ən "fut" frəm "gus", rɪzɐltɪŋ ɪn "kɪt" ən "fʊt". "flis" ən "gus" ə næw ðə "mo̞: prənæwnst" kæwntəpɑ:ts əv "kɪt" ən "fʊt".`
 
 <!--v-->
 
@@ -1051,7 +1051,7 @@ Notes:
 
 Notes:
 <!-- The `ɛ` "dress" vowel and the onset of the `eɪ` "face" diphthong can be raised and lowered back to the middle of the vowel space, resulting in `e̞` "dress" and `e̞j` "face". Notice that the offset of the `e̞j` "face" diphthong has become the fully closed `j`-glide. Similarly, the `ɔ` "lot" vowel and the onset of the `oʊ` "goat" diphthong are raised and lowered, resulting in `o̞` "lot" and `o̞w` "goat". -->
-`ðə "drɛs" væwəl ən ðɪ ɒnse̞t əv ðə "feɪs" dɪfθɒŋ kən bi: re̞jzd ən lo̞wəd bæk tə ðe mɪdəl əv ðə væwəl spe̞js, rɪzɐltɪŋ ɪn "dre̞s" ən "fe̞js". no̞wtɪs ðət ðɪ ɒfse̞t əv ðə "fe̞js" dɪfθɒŋ həz bɪkɐm ðə fʊli: klo̞wzd "j"-glɑjd. sɪmɪləli:, ðə "lɔt" væwəl ən ðə ɒnse̞t əv ðə "goʊt" dɪfθɒŋ ɑ: re̞jzd ən lo̞wəd, rɪzɐltɪŋ ɪn "lo̞t" en "go̞wt".`
+`ðə "drɛs" væwəl ən ðɪ ɒnse̞t əv ðə "feɪs" dɪfθɒŋ kən bi: re̞jzd ən lo̞wəd bæk tə ðe mɪdəl əv ðə væwəl spe̞js, rɪzɐltɪŋ ɪn "dre̞s" ən "fe̞js". no̞wtɪs ðət ðɪ ɒfse̞t əv ðə "fe̞js" dɪfθɒŋ həz bɪkɐm ðə fʊli: klo̞wzd "j"-glɑjd. sɪmɪləli:, ðə "lɔt" væwəl ən ðə ɒnse̞t əv ðə "goʊt" dɪfθɒŋ ə re̞jzd ən lo̞wəd, rɪzɐltɪŋ ɪn "lo̞t" en "go̞wt".`
 
 <!--v-->
 
@@ -1075,7 +1075,7 @@ Notes:
 
 Notes:
 <!-- The onset of `ɔɪ` "choice" and the `ɔː` "thought" vowel are raised to the middle of the vowel space, resulting in `o̞j` "choice" and `o̞ː` "thought". -->
-`ðɪ ɒnse̞ts əv "tʃɔɪs" ən ðə "θɔ:t" væwəl ɑ: re̞jzd tə ðə mɪdəl əv ðə væwəl spe̞js, rɪzɐltɪŋ ɪn "tʃo̞js" ən "θo̞:t".`
+`ðɪ ɒnse̞ts əv "tʃɔɪs" ən ðə "θɔ:t" væwəl ə re̞jzd tə ðə mɪdəl əv ðə væwəl spe̞js, rɪzɐltɪŋ ɪn "tʃo̞js" ən "θo̞:t".`
 
 <!--v-->
 
@@ -1105,7 +1105,7 @@ Notes:
 
 Notes:
 <!-- And naturally, `ɛː` "square" and `ɔː` "force" are raised to the middle of the vowel space, resulting in `e̞ː` "square" and `o̞ː` "force". -->
-`ən nætʃərəli:, "skwɛ:r"‿ən "fɔ:s" ɑ: re̞jzd tə ðə mɪdəl əv ðə væwəl spe̞js, rɪzɐltɪŋ ɪn "skwe̞:r"‿ən "fo̞:s".`
+`ən nætʃərəli:, "skwɛ:r"‿ən "fɔ:s" ə re̞jzd tə ðə mɪdəl əv ðə væwəl spe̞js, rɪzɐltɪŋ ɪn "skwe̞:r"‿ən "fo̞:s".`
 
 <!--v-->
 
@@ -1558,7 +1558,7 @@ Notes:
 
 Notes:
 <!-- So `o̞ː` "force" is raised to `oː` "force", while `e̞ː` "square" and `ɪː` "near" are lowered to `ɛː` "square" and `eː` "near". -->
-`so̞w "fo̞:s" ɪz re̞jzd tə "fo:s", wɑjl "skwe̞:r"‿ən "nɪ:r"‿ɑ: lo̞wəd tə "skwɛ:r"‿ən "ne:".`
+`so̞w "fo̞:s" ɪz re̞jzd tə "fo:s", wɑjl "skwe̞:r"‿ən "nɪ:r"‿ə lo̞wəd tə "skwɛ:r"‿ən "ne:".`
 
 <!-- ‿ -->
 
@@ -1746,7 +1746,7 @@ Notes:
 
 <!--v-->
 
-## Laxing 1/2
+## Laxing 1/3
 
 <!--v-->
 
@@ -1763,6 +1763,10 @@ Notes:
 | `ɪ` ʜᴀᴘᴘ**ɪ**ᴇʀ |
 | `ʊ` ᴠᴀʟ**ᴜ**ᴀʙʟᴇ |
 | |
+
+Notes:
+<!-- Before a vowel, the `i:` "fleece" and `u:` "goose" vowels are weakened to `ɪ` "kit" and `ʊ` "foot" vowels, rezulting in, for example, `ɪ` "happier" and `ʊ` "valueable". -->
+`bɪfo̞:r‿ə væwəl, ðə "fli:s" ən "gu:s" væwəlz ə wi:kənd tə "kɪt" ən "fʊt" væwəlz, rɪzɐltɪŋ ɪn, fər‿ɪgzæmpəl, "hæpɪər"‿ən "væljʊəbəl".`
 
 <!--v-->
 
@@ -1792,6 +1796,10 @@ Notes:
 | `ʊwə` ᴠᴀʟ**ᴜᴀ**ʙʟᴇ |
 | |
 
+Notes:
+<!-- To prevent the merging of /ɪə/ in `ɪə` "happier" and the `ɪə` "near" vowel, we can insert a `j`-glide after the `ɪ` "kit" vowel. For symmetry, we can add a `w`-glied after the `ʊ` "foot" vowel. -->
+`tə prɪve̞nt ðə mə:dʒɪŋ əv "ɪə" ɪn "hæpɪə" ən ðə "nɪə" væwəl, wɪ kən ɪnsə:t ə "j"-glɑjd æftə ðə "kɪt" væwəl. fə sɪmətri:, wɪ kən æd ə "w"-glɑjd æftə ðə "fʊt" væwəl.`
+
 <!--v-->
 
 ## Breaking
@@ -1812,9 +1820,13 @@ Notes:
 | `ʊw` ᴠᴀʟ**ᴜᴇ** |
 | |
 
+Notes:
+<!-- When we remove everthing after the "j"- and "w"-glides, we can reinterpret the rezulting /ɪj/ in "happy" and /ʊw/ in "value" as examples of the breaking of the `iː` "fleece" and `uː` "goose" vowels into `ɪj` "fleece" and `ʊw` "goose". -->
+`we̞n wɪ rɪmu:v e̞vərɪθɪŋ æftə ðə "j"- ən "w"-glɑjdz, wɪ kən ri:ɪntə:prət ðə rɪzɐltɪŋ "ɪj" in "hæpɪj" en "ʊw" in "væljʊw" əz ɪgzæmpəlz əv ðə bre̞jkɪŋ əv ðə "fli:s" ən "gu:s" væwəlz ɪntə "flɪjs" ən "gʊws".`
+
 <!--v-->
 
-## Laxing 2/2
+## Laxing 2/3
 
 <!--v-->
 
@@ -1839,6 +1851,21 @@ Notes:
 | `ɪə` ʜᴀᴘᴘ**ɪᴇʀ** |
 | `ʊə` ᴠᴀʟ**ᴜᴀ**ʙʟᴇ |
 | |
+
+<!--v-->
+
+| |
+|-|
+| `ɪ` ʜᴀᴘᴘ**ʏ** |
+| `ʊ` ᴠᴀʟ**ᴜᴇ** |
+| |
+
+Notes:
+To prevent this interpretation, one might be tempted to avoid linking glides altogether. In this case, they would be referred to as "intrusive" glides. This rather conservative pronunciation prevents the smoothing of the `ɪə` "near" and `ʊə` "cure" vowels to `ɪː` "near" and `ɔː` "cure". Moreover, `ɪə` "happier" and `ʊə` "valuable" are likely to be reinterpreted as derivations of `ɪ` "happy" and `ʊ` "value". (Side note: Ironically, not applying this hyperconservative laxing to `iː` "happy" and `uː` "value" is called "happy-tensing".)
+
+<!--v-->
+
+## Laxing 3/3
 
 <!--v-->
 
@@ -1926,7 +1953,7 @@ Notes:
 | |
 
 Notes:
-Unstressed monophthongs are usually weak, as in "market", "salad", "bigot", and "minute". Unstressed /ɪ/, as in `ɪ` "rabbit", is never reduced to a schwa, yet.
+Unstressed monophthongs are usually weak, as in "market", "salad", "bigot", and "minute". Unstressed /ɪ/, as in `ɪ` "rabbit", is never reduced to a schwa, unless one merges weak /ɪ/ and /ə/, resulting in either `ɪ` "rabbit" and `ɪ` "minute" or `ə` "rabbit" and `ə` "minute".
 
 <!--v-->
 
