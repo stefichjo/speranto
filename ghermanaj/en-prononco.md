@@ -1881,6 +1881,7 @@ To prevent this interpretation, one might be tempted to avoid linking glides alt
 |-|
 | `ɪ` ʜᴀᴘᴘ**ʏ** |
 | `e̞j` ᴍᴏɴᴅ**ᴀʏ** |
+| |
 | `o̞w` ꜰᴏʟʟ**ᴏᴡ** |
 | `ʊ` ᴠᴀʟ**ᴜᴇ** |
 | |
@@ -1891,6 +1892,7 @@ To prevent this interpretation, one might be tempted to avoid linking glides alt
 |-|
 | `ɪ` ʜᴀᴘᴘ**ʏ** |
 | `e̞`~~`j`~~ ᴍᴏɴᴅ**ᴀʏ** |
+| |
 | `o̞`~~`w`~~ ꜰᴏʟʟ**ᴏᴡ** |
 | `ʊ` ᴠᴀʟ**ᴜᴇ** |
 | |
@@ -1901,6 +1903,7 @@ To prevent this interpretation, one might be tempted to avoid linking glides alt
 |-|
 | `ɪ` ʜᴀᴘᴘ**ʏ** |
 | `e̞` ᴍᴏɴᴅ**ᴀʏ** |
+| |
 | `o̞` ꜰᴏʟʟ**ᴏᴡ** |
 | `ʊ` ᴠᴀʟ**ᴜᴇ** |
 | |
@@ -1910,9 +1913,21 @@ To prevent this interpretation, one might be tempted to avoid linking glides alt
 | |
 |-|
 | `ɪ` ʜᴀᴘᴘ**ʏ** |
-| `ɪ` ᴍᴏɴᴅ**ᴀʏ** |
-| `ʊ` ꜰᴏʟʟ**ᴏᴡ** |
+| `e̞` ᴍᴏɴᴅ**ᴀʏ** |
+| |
+| `ɐ` ꜰᴏʟʟ**ᴏᴡ** |
 | `ʊ` ᴠᴀʟ**ᴜᴇ** |
+| |
+
+<!--v-->
+
+| |
+|-|
+| `ɪ~e̞` ʜᴀᴘᴘ**ʏ** |
+| `ɪ~e̞` ᴍᴏɴᴅ**ᴀʏ** |
+| |
+| `ʊ~ɐ` ꜰᴏʟʟ**ᴏᴡ** |
+| `ʊ~ɐ` ᴠᴀʟ**ᴜᴇ** |
 | |
 
 Notes:
@@ -1921,17 +1936,6 @@ To sound even more conservative, one can now eliminate the glides in unstressed 
 <!--v-->
 
 ## Weakening
-
-<!--v-->
-
-| |
-|-|
-| `_` ʀᴀʙʙ**ɪ**ᴛ |
-| `ə` ᴍᴀʀᴋ**ᴇ**ᴛ |
-| `ə` sᴀʟ**ᴀ**ᴅ |
-| `ə` ʙɪɢ**ᴏ**ᴛ |
-| `ə` ᴍɪɴ**ᴜ**ᴛᴇ |
-| |
 
 <!--v-->
 
@@ -2022,6 +2026,7 @@ Unstressed monophthongs are usually weak, as in "market", "salad", "bigot", and 
 | | | | |
 
 Notes:
+<!-- TODO -->
 <!-- WIKI: In accents without the merger, the use of /ɪ/, rather than /ə/, prevents the formation of syllabic consonants.
 Barton n̩
 Martin ɪn -->
