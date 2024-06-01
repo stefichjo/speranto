@@ -2002,7 +2002,7 @@ Unstressed monophthongs are usually weak, as in "market", "salad", "bigot", and 
 | | | | |
 |-|-|-|-|
 | `l̩` ᴀᴘᴘ**ʟᴇ** | `m̩` ʙᴏᴛᴛ**ᴏᴍ** | `n̩` ᴏꜰᴛ**ᴇɴ** | `ə` ʟᴇᴛᴛ**ᴇʀ** |
-| `l̩` ꜰᴀᴍ**ɪʟ**ʏ | `m̩` ᴀᴄᴀᴅ**ᴀᴍ**ʏ | `n̩` ᴍᴜᴛ**ɪɴ**ʏ | `ər` ʙᴀᴛᴛ**ᴇʀ**ʏ |
+| `l̩` ᴀᴡꜰ**ᴜʟʟ**ʏ | `m̩` ᴀᴄᴀᴅ**ᴀᴍ**ʏ | `n̩` ᴄᴏᴍᴘ**ᴀɴ**ʏ | `ər` ʙᴀᴛᴛ**ᴇʀ**ʏ |
 | | | | |
 
 <!--v-->
@@ -2010,7 +2010,7 @@ Unstressed monophthongs are usually weak, as in "market", "salad", "bigot", and 
 | | | | |
 |-|-|-|-|
 | `l̩` ᴀᴘᴘ**ʟᴇ** | `m̩` ʙᴏᴛᴛ**ᴏᴍ** | `n̩` ᴏꜰᴛ**ᴇɴ** | `ə` ʟᴇᴛᴛ**ᴇʀ** |
-| `l̩` ꜰᴀᴍ**ɪʟ**ʏ | `m̩` ᴀᴄᴀᴅ**ᴀᴍ**ʏ | `n̩` ᴍᴜᴛ**ɪɴ**ʏ | `r̩` ʙᴀᴛᴛ**ᴇʀ**ʏ |
+| `l̩` ᴀᴡꜰ**ᴜʟʟ**ʏ | `m̩` ᴀᴄᴀᴅ**ᴀᴍ**ʏ | `n̩` ᴄᴏᴍᴘ**ᴀɴ**ʏ | `r̩` ʙᴀᴛᴛ**ᴇʀ**ʏ |
 | | | | |
 
 <!--v-->
@@ -2018,12 +2018,13 @@ Unstressed monophthongs are usually weak, as in "market", "salad", "bigot", and 
 | | | | |
 |-|-|-|-|
 | `l̩` ᴀᴘᴘ**ʟᴇ** | `m̩` ʙᴏᴛᴛ**ᴏᴍ** | `n̩` ᴏꜰᴛ**ᴇɴ** | `ə` ʟᴇᴛᴛ**ᴇʀ** |
-| `l` ꜰᴀᴍ**ɪʟ**ʏ | `m` ᴀᴄᴀᴅ**ᴀᴍ**ʏ | `n` ᴍᴜᴛ**ɪɴ**ʏ | `r` ʙᴀᴛᴛ**ᴇʀ**ʏ |
+| `l` ᴀᴡꜰ**ᴜʟʟ**ʏ | `m` ᴀᴄᴀᴅ**ᴀᴍ**ʏ | `n` ᴄᴏᴍᴘ**ᴀɴ**ʏ | `r` ʙᴀᴛᴛ**ᴇʀ**ʏ |
 | | | | |
 
 Notes:
-<!-- mutiny is "wrong"; something more like "tiffany" would be better -->
-<!-- can we assume that syllabic consonants are a means to resist the weak vowel merger? -->
+<!-- WIKI: In accents without the merger, the use of /ɪ/, rather than /ə/, prevents the formation of syllabic consonants.
+Barton n̩
+Martin ɪn -->
 
 <!--s-->
 
