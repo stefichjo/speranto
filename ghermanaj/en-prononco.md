@@ -1765,7 +1765,7 @@ Notes:
 | |
 
 Notes:
-<!-- Before a vowel, the `i:` "fleece" and `u:` "goose" vowels are weakened to `ɪ` "kit" and `ʊ` "foot" vowels, rezulting in, for example, `ɪ` "happier" and `ʊ` "valueable". -->
+<!-- Before a vowel, the `i:` "fleece" and `u:` "goose" vowels are weakened to `ɪ` "kit" and `ʊ` "foot" vowels, resulting in, for example, `ɪ` "happier" and `ʊ` "valueable". -->
 `bɪfo̞:r‿ə væwəl, ðə "fli:s" ən "gu:s" væwəlz ə wi:kənd tə "kɪt" ən "fʊt" væwəlz, rɪzɐltɪŋ ɪn, fər‿ɪgzæmpəl, "hæpɪər"‿ən "væljʊəbəl".`
 
 <!--v-->
@@ -1821,7 +1821,7 @@ Notes:
 | |
 
 Notes:
-<!-- When we remove everthing after the "j"- and "w"-glides, we can reinterpret the rezulting /ɪj/ in "happy" and /ʊw/ in "value" as examples of the breaking of the `iː` "fleece" and `uː` "goose" vowels into `ɪj` "fleece" and `ʊw` "goose". -->
+<!-- When we remove everthing after the "j"- and "w"-glides, we can reinterpret the resulting /ɪj/ in "happy" and /ʊw/ in "value" as examples of the breaking of the `iː` "fleece" and `uː` "goose" vowels into `ɪj` "fleece" and `ʊw` "goose". -->
 `we̞n wɪ rɪmu:v e̞vərɪθɪŋ æftə ðə "j"- ən "w"-glɑjdz, wɪ kən ri:ɪntə:prət ðə rɪzɐltɪŋ "ɪj" in "hæpɪj" en "ʊw" in "væljʊw" əz ɪgzæmpəlz əv ðə bre̞jkɪŋ əv ðə "fli:s" ən "gu:s" væwəlz ɪntə "flɪjs" ən "gʊws".`
 
 <!--v-->
@@ -1861,7 +1861,7 @@ Notes:
 | |
 
 Notes:
-To prevent this interpretation, one might be tempted to avoid linking glides altogether. In this case, they would be referred to as "intrusive" glides. This rather conservative pronunciation prevents the smoothing of the `ɪə` "near" and `ʊə` "cure" vowels to `ɪː` "near" and `ɔː` "cure". Moreover, `ɪə` "happier" and `ʊə` "valuable" are likely to be reinterpreted as derivations of `ɪ` "happy" and `ʊ` "value". (Side note: Ironically, not applying this hyperconservative laxing to `iː` "happy" and `uː` "value" is called "happy-tensing".)
+To prevent this interpretation, one might be tempted to avoid linking glides altogether. In this case, they would be referred to as "intrusive" glides. Mind that this rather conservative pronunciation prevents the smoothing of the `ɪə` "near" and `ʊə` "cure" vowels to `ɪː` "near" and `ɔː` "cure". Moreover, `ɪə` "happier" and `ʊə` "valuable" are likely to be reinterpreted as derivations of `ɪ` "happy" and `ʊ` "value". (Side note: Ironically, not applying this hyperconservative laxing to `iː` "happy" and `uː` "value" is called "happy-tensing".)
 
 <!--v-->
 
@@ -1914,6 +1914,9 @@ To prevent this interpretation, one might be tempted to avoid linking glides alt
 | `ʊ` ꜰᴏʟʟ**ᴏᴡ** |
 | `ʊ` ᴠᴀʟ**ᴜᴇ** |
 | |
+
+Notes:
+To sound even more conservative, one can now eliminate the glides in unstressed /e̞j/ and /o̞w/ in, for example, `e̞` "monday" and `o̞` "follow", and even merge pseudo-weak /e̞/ and /o̞/ with the lax `ɪ` "kit" and `ʊ` "foot" vowels, resulting in `ɪ` "monday" and `ʊ` "follow".
 
 <!--v-->
 
@@ -2017,6 +2020,10 @@ Unstressed monophthongs are usually weak, as in "market", "salad", "bigot", and 
 | `l̩` ᴀᴘᴘ**ʟᴇ** | `m̩` ʙᴏᴛᴛ**ᴏᴍ** | `n̩` ᴏꜰᴛ**ᴇɴ** | `ə` ʟᴇᴛᴛ**ᴇʀ** |
 | `l` ꜰᴀᴍ**ɪʟ**ʏ | `m` ᴀᴄᴀᴅ**ᴀᴍ**ʏ | `n` ᴍᴜᴛ**ɪɴ**ʏ | `r` ʙᴀᴛᴛ**ᴇʀ**ʏ |
 | | | | |
+
+Notes:
+<!-- mutiny is "wrong"; something more like "tiffany" would be better -->
+<!-- can we assume that syllabic consonants are a means to resist the weak vowel merger? -->
 
 <!--s-->
 
