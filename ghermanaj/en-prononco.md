@@ -78,7 +78,7 @@ Notes:
 
 Notes:
 <!-- In this video, we'll start from scratch, avoiding references to specific English accents, whether native or non-native. Instead, we'll offer a simplified overview of English vowel systems, treating them as if they exist in a homogeneous continuum from which you can pick and choose your accent according to your personal preferences. -->
-`ɪn ðɪs vɪdɪjo̞w wɪl stɑ:t frəm skrætʃ, əvo̞jdɪŋ re̞fərənsəz tə spɪsɪfɪk ɪŋglɪʃ ækse̞nts, we̞ðə ne̞jtɪv o̞: nɒn-ne̞jtɪv. ɪnste̞d, wɪl ɒfər‿ə sɪmplɪfɑjd o̞wvəvjʊw‿əv ɪŋglɪʃ væwəl sɪstəmz, tri:tɪŋ ðəm əz ɪf ðe̞j ɪgzɪst ɪn ə hɒmədʒi:nɪjəs kəntɪnjʊwəm frəm wɪtʃ jə kən pɪk ən tʃu:z jo̞:r‿ækse̞nt əko̞:dɪŋ tə jo̞: pə:sənəl pre̞fərənsəz.`
+`ɪn ðɪs vɪdɪjo̞w wɪl stɑ:t frəm skrætʃ, əvo̞jdɪŋ re̞fərənsəz tə spɪsɪfɪk ɪŋglɪʃ ækse̞nts, we̞ðə ne̞jtɪv o̞: nɒn-ne̞jtɪv. ɪnste̞d, wɪl ɒfər‿ə sɪmplɪfɑjd o̞wvəvjʊw‿əv ɪŋglɪʃ væwəl sɪstəmz, tri:tɪŋ ðəm əz ɪf ðe̞j ɪgzɪst ɪn ə hɒmədʒi:nɪjəs kəntɪnjʊwəm frəm wɪtʃ jə kən pɪk ən tʃu:z jo̞:r‿ækse̞nt əko̞:dɪŋ tə jə pə:sənəl pre̞fərənsəz.`
 
 <!--v-->
 
