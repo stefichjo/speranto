@@ -249,8 +249,8 @@ Notes:
 | | | |
 
 Notes:
-<!-- Even within this simplified five-vowel system, we can observe a significant vowel shift: the merging of the vowel in `u` "strut" with those in "palm" and "trap", resulting in `ɐ` "strut". Unstressed monophthongs, like the final vowel of "comma", shift to the centre of the vowel space and become a schwa. Unstressed "i" is not affected, though. More on unstressed vowels at the end of this video. -->
-`i:vən wɪðɪn ðɪs sɪmplɪfɑjd fɑjv-væwəl sɪstəm, wɪ kən əbzə:v ə sɪgnɪfɪkənt væwəl ʃɪft : ðə mə:dʒɪŋ əv ðə væwəl ɪn "strʊt" wɪð ðo̞wz ɪn "pɐm" ən "trɐp", rɪzɐltɪŋ in "strɐt". ɐnstre̞st mɒnəfθɒŋz, lɑjk ðə fɑjnəl væwəl əv "ko̞mɐ", ʃɪft tə ðə se̞ntər‿əv ðə væwəl spe̞js ən bɪkɐm ə ʃwɑ:. ɐnstre̞st "i" iz nɒt əfe̞ktəd, ðo̞w. mo̞:r‿ɒn ɐnstre̞st væwəlz ət ðɪj‿e̞nd əv ðɪs vɪdɪjo̞w.`
+<!-- Even within this simplified vowel system, we can observe a significant vowel shift: the merging of the vowel in `u` "strut" with those in "palm" and "trap", resulting in `ɐ` "strut". Unstressed monophthongs, like the final vowel of "comma", shift to the centre of the vowel space and become a schwa. Unstressed "i" is not affected, though. More on unstressed vowels at the end of this video. -->
+`i:vən wɪðɪn ðɪs sɪmplɪfɑjd væwəl sɪstəm, wɪ kən əbzə:v ə sɪgnɪfɪkənt væwəl ʃɪft : ðə mə:dʒɪŋ əv ðə væwəl ɪn "strʊt" wɪð ðo̞wz ɪn "pɐm" ən "trɐp", rɪzɐltɪŋ in "strɐt". ɐnstre̞st mɒnəfθɒŋz, lɑjk ðə fɑjnəl væwəl əv "ko̞mɐ", ʃɪft tə ðə se̞ntər‿əv ðə væwəl spe̞js ən bɪkɐm ə ʃwɑ:. ɐnstre̞st "i" iz nɒt əfe̞ktəd, ðo̞w. mo̞:r‿ɒn ɐnstre̞st væwəlz ət ðɪj‿e̞nd əv ðɪs vɪdɪjo̞w.`
 
 <!--v-->
 
