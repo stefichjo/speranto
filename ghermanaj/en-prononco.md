@@ -1862,6 +1862,7 @@ Notes:
 
 Notes:
 To prevent this interpretation, one might be tempted to avoid linking glides altogether. In this case, they would be referred to as "intrusive" glides. Mind that this rather conservative pronunciation prevents the smoothing of the `ɪə` "near" and `ʊə` "cure" vowels to `ɪː` "near" and `ɔː` "cure". Moreover, `ɪə` "happier" and `ʊə` "valuable" are likely to be reinterpreted as derivations of `ɪ` "happy" and `ʊ` "value". (Side note: Ironically, not applying this hyperconservative laxing to `iː` "happy" and `uː` "value" is called "happy-tensing".)
+`tə prɪve̞nt ðɪs ɪntə:prəte̞jʃən, wɐn mɑjt bi: te̞mptəd tʊ‿əvo̞jd lɪŋkɪŋ glɑjdz o̞:ltəge̞ðə. ɪn ðɪs ke̞js, ðe̞j wəd bi: lɑjkli: tə bi: rɪfə:d tʊ‿əz "ɪntru:sɪv" glɑjdz. mɑjnd ðət ðɪs ræðə kənsə:vətiv prənɐnsɪje̞jʃən prɪve̞nts ðə smu:ðɪŋ əv ðə "nɪər"‿ən "kjʊə" væwəlz tə "nɪ:" ən "kjɔ:". mo̞:ro̞wvə, "hæpɪər"‿ən "valjʊəbləl" ə lɑjkli: tə bi: ri:ɪntə:prətəd əz de̞rɪve̞jʃənz əv "hæpɪ" ən "væljʊ". (sɑjd no̞wt: ɑjrɒnɪkəli:, nɒt əplɑjɪŋ ðɪs hɑjpəkənsə:vətɪv læksɪŋ tə "hæpi:" - ən "vælju:" - ɪz ko̞:ld "hæpi:-te̞nsɪŋ".)`
 
 <!--v-->
 
@@ -1975,7 +1976,8 @@ To prevent this interpretation, one might be tempted to avoid linking glides alt
 | |
 
 Notes:
-To sound even more conservative, one can now eliminate the glides in, for example, `e̞` "monday" and `o̞` "follow", and even merge pseudo-weak /e̞/ and /o̞/ with the lax `ɪ` "kit" and `ʊ` "foot" vowels, resulting in `ɪ` "monday" or `e̞` "monday", as well `ʊ` "follow" or `o̞` "follow". In an accent with counterclockwise rotation, `ʉ` "follow" or `ɵ` follow can also be pronounced with a `ɐ` "strut" vowel, resulting in `ɐ` "follow".
+To sound even more conservative, one can eliminate the glides in, for example, `e̞` "Monday" and `o̞` "follow", and even merge pseudo-weak /e̞/ and /o̞/ with the lax `ɪ` "kit" and `ʊ` "foot" vowels, resulting in `ɪ` "monday" or `e̞` "monday", as well as `ʊ` "follow" or `o̞` "follow". In an accent with counterclockwise rotation, `ʉ` "follow" or `ɵ` follow can also be pronounced with a `ɐ` "strut" vowel, resulting in `ɐ` "follow".
+`tə sæwnd i:vən mo̞: kənsə:vətɪv, wɐn kən ɪlɪmɪne̞jt ðə glɑjdz ɪn, fər‿ɪgzæmpəl, "mɐnde̞" ən "fɒlo̞", ən i:vən mə:dʒ su:do̞w-wi:k "e̞" ən "o̞" wɪð ðə læks "kɪt" ən "fʊt" væwəlz, rɪzɐltɪŋ ɪn "mɐndɪ" o̞: "mɐnde̞", əz we̞l əz "fɒlʊ" o̞: "fɒlo̞". ɪn ən ækse̞nt wɪð kæwntəklɒkwɑjz ro̞wte̞jʃən, "fɔlʉ" o̞: "fɔlɵ" kən o̞:lso̞w bi: prənæwnst wɪð ə "strɐt" væwəl, rɪzɐltɪŋ ɪn "fɔlɐ".`
 
 <!--v-->
 
@@ -2005,6 +2007,7 @@ To sound even more conservative, one can now eliminate the glides in, for exampl
 
 Notes:
 Unstressed monophthongs are usually weak, as in "market", "salad", "bigot", and "minute". Unstressed /ɪ/, as in `ɪ` "rabbit", is never reduced to a schwa, unless one merges weak /ə/ and /ɪ/, resulting in either `ə` "rabbit" and `ə` "minute" or `ɪ` "rabbit" and `ɪ` "minute".
+`ɐnstre̞st mɒnəfθɒŋz ə ju:ʒʊwəli: wi:k, əz ɪn "mɑ:kət", "sæləd", "bɪgət", ən "mɪnət". ɐnstre̞st "ɪ", əz ɪn "ræbɪt", ɪz ne̞və rɪdju:st tʊ‿ə ʃwɑ:, ɐnle̞s wɐn mə:dʒəz wi:k "ə" ən "ɪ", rɪzɐltɪŋ ɪn i:ðə "ræbət" ən "mɪnət" o̞: "ræbɪt" ən "mɪnɪt".`
 
 <!--v-->
 
@@ -2070,10 +2073,8 @@ Unstressed monophthongs are usually weak, as in "market", "salad", "bigot", and 
 | | | | |
 
 Notes:
-<!-- TODO -->
-<!-- WIKI: In accents without the merger, the use of /ɪ/, rather than /ə/, prevents the formation of syllabic consonants.
-Barton n̩
-Martin ɪn -->
+Unstressed `əl`, `əm`, and `ən` can be reduced to syllabic consonants, resulting in, for example, `l̩` "apple", `m̩` "bottom", and `n̩` "often". In rhotic or semi-rhotic accents, we observe a syllabic `ɹ̠ʷ` in `ɹ̠ʷ` "letter", whereas in non-rhotic accents, we observe a schwa: `ə` "letter". Before vowel, syllabic consonants cease to be syllabic, resulting in, for example, `l` "awfully", `m` "academy", `n` "company", and `ɹ̠ʷ` "battery".
+`ɐnstre̞st "əl", "əm", ən "ən" kən bi: rɪdju:st tə sɪlæbɪk kɒnsənənts, rɪzɐltɪŋ ɪn, fər‿ɪgzæmpəl, "æpl̩", "bɒtm̩, ən "ɒfn̩". ɪn ro̞wtɪk o̞: se̞mi:-ro̞wtɪk ækse̞nts, wɪ əbzə:v ə sɪlæbɪk "ɹ̠ʷ" ɪn "le̞tɹ̠ʷ", we̞:ræz ɪn nɒn-ro̞wtɪk ækse̞nts, wɪ əbzə:v ə ʃwɑ: : le̞tə. bɪfo̞: væwəl, sɪlæbɪk kɒnsənənts si:s tə bi: sɪlæbɪk, rɪzɐltɪŋ ɪn, fər‿ɪgzæmpəl, "o̞:fli:", "əkædmi:", "kɐmpni:", ən "bætɹ̠ʷi:".`
 
 <!--s-->
 
