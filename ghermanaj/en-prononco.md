@@ -27,7 +27,7 @@ revealOptions:
 
 Notes:
 <!-- When we try to map out the vowel phonemes of English accents, we refer to the quadrilateral vowel space and use the International Phonetic Alphabet (IPA for short) as the notation. -->
-`we̞n wɪ trɑj tə mæp æwt ðə væwəl fo̞wni:mz əv ɪŋglɪʃ ækse̞nts, wɪ rɪfə: tə ðə kwɒdrɪlætərəl væwəl spe̞js ən ju:z ðɪ‿ɪntənæʃənəl fəne̞tɪk ælfəbe̞t (ɑj pɪ‿e̞j fə ʃo̞:t) əz ðə no̞wte̞jʃən.`
+`we̞n wɪ trɑj tə mæp æwt ðə væwəl fo̞wni:mz əv ɪŋglɪʃ ækse̞nts, wɪ rɪfə: tə ðə kwɒdrɪlætərəl væwəl spe̞js ən ju:z ðɪj‿ɪntənæʃənəl fəne̞tɪk ælfəbe̞t (ɑj pɪj‿e̞j fə ʃo̞:t) əz ðə no̞wte̞jʃən.`
 
 <!--v-->
 
@@ -37,7 +37,7 @@ Notes:
 
 Notes:
 <!-- To pronounce the vowels on the left, we move our tongue forward: `i`, `e`, `ɛ`, `a`. For the vowels on the right, we pull our tongue back: `ɑ`, `ɔ`, `o`, `u`. Hence the distinction between "front vowels" and "back vowels". These eight vowels lie on the edges of the quadrilateral, far from the central and middle axes of the vowel space, earning them the title of cardinal vowels. While this approach seems straightforward, comparing the vowel systems of English accents often leads to more confusion than clarity. -->
-`tə prənæwns ðə væwəlz ɒn ðə le̞ft, wɪ mu:v æə tɐŋ fo̞:wəd: i:, e:, ɛ:, a:. fə ðə væwəlz ɒn ðə rɑjt, wɪ pʊl æə tɐŋ bæk: ɑ:, ɔ:, o:, u:. he̞ns ðə dɪstɪŋkʃən bətwi:n "frɒnt væwəlz" ən "bæk væwəlz". ði:z e̞jt væwəlz lɑj ɒn ðɪ‿e̞dʒəz əv ðə kwɒdrɪlætərəl, fɑ: frəm ðə se̞ntrəl ən mɪdəl æksi:z əv ðə væwəl spe̞js, ə:nɪŋ ðəm ðə tɑjtəl əv kɑ:dɪnəl væwəlz. wɑjl ðɪs əpro̞wtʃ si:mz stre̞jtfo̞:wəd, kəmpe̞:rɪng ðə væwəl sɪstəmz əv ɪŋglɪʃ ækse̞nts ɒfən li:dz tə mo̞: kənfju:ʒən ðən klærɪti:.`
+`tə prənæwns ðə væwəlz ɒn ðə le̞ft, wɪ mu:v æə tɐŋ fo̞:wəd: i:, e:, ɛ:, a:. fə ðə væwəlz ɒn ðə rɑjt, wɪ pʊl æə tɐŋ bæk: ɑ:, ɔ:, o:, u:. he̞ns ðə dɪstɪŋkʃən bətwi:n "frɒnt væwəlz" ən "bæk væwəlz". ði:z e̞jt væwəlz lɑj ɒn ðɪj‿e̞dʒəz əv ðə kwɒdrɪlætərəl, fɑ: frəm ðə se̞ntrəl ən mɪdəl æksi:z əv ðə væwəl spe̞js, ə:nɪŋ ðəm ðə tɑjtəl əv kɑ:dɪnəl væwəlz. wɑjl ðɪs əpro̞wtʃ si:mz stre̞jtfo̞:wəd, kəmpe̞:rɪng ðə væwəl sɪstəmz əv ɪŋglɪʃ ækse̞nts ɒfən li:dz tə mo̞: kənfju:ʒən ðən klærɪti:.`
 
 <!--v-->
 
@@ -78,7 +78,7 @@ Notes:
 
 Notes:
 <!-- In this video, we'll begin from scratch, avoiding references to specific English accents, whether native or non-native. Instead, we'll offer a simplified overview of English vowel systems, treating them as if they exist in a homogeneous continuum from which you can pick and choose your accent according to your personal preferences. -->
-`ɪn ðɪs vɪdɪjo̞w wɪl bɪgɪn frəm skrætʃ, əvo̞jdɪŋ re̞fərənsəz tə spɪsɪfɪk ɪŋglɪʃ ækse̞nts, we̞ðə ne̞jtɪv o̞: nɒn-ne̞jtɪv. ɪnste̞d, wɪl ɒfər‿ə sɪmplɪfɑjd o̞wvəvju: əv ɪŋglɪʃ væwəl sɪstəmz, tri:tɪŋ ðəm əz ɪf ðe̞j ɪgzɪst ɪn ə hɒmədʒi:nɪjəs kəntɪnjʊwəm frəm wɪtʃ jə kən pɪk ən tʃu:z jo̞:r‿ækse̞nt əko̞:dɪŋ tə jo̞: pə:sənəl pre̞fərənsəz.`
+`ɪn ðɪs vɪdɪjo̞w wɪl bɪgɪn frəm skrætʃ, əvo̞jdɪŋ re̞fərənsəz tə spɪsɪfɪk ɪŋglɪʃ ækse̞nts, we̞ðə ne̞jtɪv o̞: nɒn-ne̞jtɪv. ɪnste̞d, wɪl ɒfər‿ə sɪmplɪfɑjd o̞wvəvjʊw‿əv ɪŋglɪʃ væwəl sɪstəmz, tri:tɪŋ ðəm əz ɪf ðe̞j ɪgzɪst ɪn ə hɒmədʒi:nɪjəs kəntɪnjʊwəm frəm wɪtʃ jə kən pɪk ən tʃu:z jo̞:r‿ækse̞nt əko̞:dɪŋ tə jo̞: pə:sənəl pre̞fərənsəz.`
 
 <!--v-->
 
@@ -89,7 +89,7 @@ Notes:
 
 Notes:
 <!-- Let's start with a five-vowel system. Following convention, we'll arrange "a", "e", "i", "o", "u" in their cardinal order: "i", "e", "a", "o", "u". Additionally, we'll represent them in a table using the proper IPA symbols, showcasing the vowel space as a square instead of a quadrilateral. -->
-`le̞ts stɑ:t wɪð ə fɑjv-væwəl sɪstəm. fɒlo̞wɪŋ kənve̞nʃən, wɪl əre̞jndʒ "ɐ", "e̞", "i", "o̞", "u" ɪn ðe̞: kɑ:dɪnəl o̞:də : "i", "e̞", "ɐ", "o̞", "u". ədɪʃənəli:, wɪl re̞prɪze̞nt ðəm ɪn ə te̞jbəl ju:zɪŋ ðə prɒpər‿ɑj pɪ‿e̞j sɪmbəlz, ʃo̞wke̞jsɪŋ ðə væwəl spe̞js əz ə skwe̞:r‿ɪnste̞d əv ə kwɒdrɪlætərəl.`
+`le̞ts stɑ:t wɪð ə fɑjv-væwəl sɪstəm. fɒlo̞wɪŋ kənve̞nʃən, wɪl əre̞jndʒ "ɐ", "e̞", "i", "o̞", "u" ɪn ðe̞: kɑ:dɪnəl o̞:də : "i", "e̞", "ɐ", "o̞", "u". ədɪʃənəli:, wɪl re̞prɪze̞nt ðəm ɪn ə te̞jbəl ju:zɪŋ ðə prɒpər‿ɑj pɪj‿e̞j sɪmbəlz, ʃo̞wke̞jsɪŋ ðə væwəl spe̞js əz ə skwe̞:r‿ɪnste̞d əv ə kwɒdrɪlætərəl.`
 
 <!--v-->
 
@@ -127,7 +127,7 @@ Notes:
 
 Notes:
 <!-- In this vowel system, we pronounce the same vowel phoneme in "fleece" and "kit", in "face" and "dress", in "palm" and "trap", in "goat" and "lot", as well as in "goose" and "foot". While this simplicity offers a solid foundation, lack of context may lead to occasional confusion. Nonetheless, it serves as an excellent starting point for our exploration. -->
-`ɪn ðɪs væwəl sɪstəm, wɪ prənæwns ðə se̞jm væwəl fo̞wni:m ɪn "flis" ən "kit", ɪn "fe̞s" ən "dre̞s", ɪn "pɐm" ən "trɐp", ɪn "go̞t" ən "lo̞t", əz we̞l əz ɪn "gus" ən "fut". wɑjl ðɪs sɪmplɪsɪtɪ‿ɒfəz ə sɒlɪd fæwnde̞jʃən, læk əv kɒnte̞kst me̞j li:d tʊ‿əke̞jʒənəl kənfju:ʒən. nɐnðəle̞s, ɪt sə:vz əz ən e̞ksələnt stɑ:tɪŋ po̞jnt fər‿æər‿e̞kspləre̞jʃən.`
+`ɪn ðɪs væwəl sɪstəm, wɪ prənæwns ðə se̞jm væwəl fo̞wni:m ɪn "flis" ən "kit", ɪn "fe̞s" ən "dre̞s", ɪn "pɐm" ən "trɐp", ɪn "go̞t" ən "lo̞t", əz we̞l əz ɪn "gus" ən "fut". wɑjl ðɪs sɪmplɪsɪtɪj‿ɒfəz ə sɒlɪd fæwnde̞jʃən, læk əv kɒnte̞kst me̞j li:d tʊw‿əke̞jʒənəl kənfju:ʒən. nɐnðəle̞s, ɪt sə:vz əz ən e̞ksələnt stɑ:tɪŋ po̞jnt fər‿æər‿e̞kspləre̞jʃən.`
 
 <!--v-->
 
@@ -142,7 +142,7 @@ Notes:
 
 Notes:
 <!-- The "a"-sound functions as a schwa. Consequently, the ending of "comma" sounds identical to the vowel in "palm" and "trap". Essentially, like schwa, it lacks rounding or unrounding, making it akin to a schwa, albeit in a near-open form. -->
-`ðɪ‿"ɐ"-sæwnd fɐŋkʃənz əz ə ʃwɑ:. kɒnsɪkwəntli:, ðɪ‿e̞ndɪŋ əv "co̞mɐ" sæwndz ɑjde̞ntɪkəl tə ðə væwəl ɪn "pɐm" ən "trɐp". ɪse̞nʃəli:, lɑjk ʃwɑ:, ɪt læks ræwndɪŋ o̞:r‿ɐnræwndɪŋ, me̞jkɪŋ ɪt əkɪn tʊ‿ə  ʃwɑ:, o̞:lbi:ɪt ɪn ə nɪ:r‿o̞wpən fo̞:m.`
+`ðɪj‿"ɐ"-sæwnd fɐŋkʃənz əz ə ʃwɑ:. kɒnsɪkwəntli:, ðɪj‿e̞ndɪŋ əv "co̞mɐ" sæwndz ɑjde̞ntɪkəl tə ðə væwəl ɪn "pɐm" ən "trɐp". ɪse̞nʃəli:, lɑjk ʃwɑ:, ɪt læks ræwndɪŋ o̞:r‿ɐnræwndɪŋ, me̞jkɪŋ ɪt əkɪn tʊw‿ə ʃwɑ:, o̞:lbɪjɪt ɪn ə nɪ:r‿o̞wpən fo̞:m.`
 
 <!--v-->
 
@@ -165,8 +165,8 @@ Notes:
 | | | |
 
 Notes:
-<!-- We can continue by pronouncing diphthongs as in "price", "choice", and "mouth". In IPA, the unstressed offset "i" and "u" are represented with a `jay` "j" and a `double-yoo` "w". -->
-`wɪ kən kəntɪnju: bɑj prənæwnsɪŋ dɪfθɒŋz əz ɪn "prɐjs", tʃo̞js", ən "mɐwθ". ɪn ɑj pɪ‿e̞j, ðɪ‿ɐnstre̞st ɒfset "i" ən "u" ə re̞prɪze̞ntəd wɪð ə "dʒe̞j" ən ə "dɐbəl-ju:".`
+<!-- We can continue by pronouncing diphthongs as in "price", "choice", and "mouth". In IPA, the unstressed offsets "i" and "u" are represented with a `jay` "j" and a `double-yoo` "w". -->
+`wɪ kən kəntɪnju: bɑj prənæwnsɪŋ dɪfθɒŋz əz ɪn "prɐjs", tʃo̞js", ən "mɐwθ". ɪn ɑj pɪj‿e̞j, ðɪj‿ɐnstre̞st ɒfsets "i" ən "u" ə re̞prɪze̞ntəd wɪð ə "dʒe̞j" ən ə "dɐbəl-ju:".`
 
 <!--v-->
 
@@ -194,7 +194,7 @@ Notes:
 
 Notes:
 <!-- The vowel in "thought", originally a diphthong, has become a monophthong in practically all accents. Instead of `o̞w` "thought", we use o̞ "thought", resembling the vowel in "goat" and "lot", for now. -->
-`ðə væwəl ɪn "θo̞t", ərɪdʒɪnəli: ə dɪfθɒŋ, həz bɪkɐm ə mɒnəfθɒŋ ɪn præktɪkəli: o̞:l ækse̞nts. ɪnste̞d əv "θo̞wt", wɪ ju:z "θo̞t", rɪze̞mblɪŋ ðə væwəl ɪn "go̞t" ən "lo̞t", fə næw.`
+`ðə væwəl ɪn "θo̞t", ərɪdʒɪnəlɪj‿ə dɪfθɒŋ, həz bɪkɐm ə mɒnəfθɒŋ ɪn præktɪkəli: o̞:l ækse̞nts. ɪnste̞d əv "θo̞wt", wɪ ju:z "θo̞t", rɪze̞mblɪŋ ðə væwəl ɪn "go̞t" ən "lo̞t", fə næw.`
 
 <!--v-->
 
@@ -249,8 +249,8 @@ Notes:
 | | | |
 
 Notes:
-<!-- Even within this simplified five-vowel system, we can observe a significant vowel shift: the merging of the vowel in `u` "strut" with those in "palm", "trap", resulting in `ɐ` "strut". Unstressed monophthongs, like the final vowel of "comma", shift to the centre of the vowel space and become a schwa. Unstressed "i" is not affected, though. More on unstressed vowels at the end of this video. -->
-`i:vən wɪðɪn ðɪs sɪmplɪfɑjd fɑjv-væwəl sɪstəm, wɪ kən əbzə:v ə sɪgnɪfɪkənt væwəl ʃɪft: ðə mə:dʒɪŋ əv ðə væwəl ɪn "strʊt" wɪð ðo̞wz ɪn "pɐm", "trɐp", rɪzɐltɪŋ in "strɐt". ɐnstre̞st mɒnəfθɒŋz, lɑjk ðə fɑjnəl væwəl əv "ko̞mɐ", ʃɪft tə ðə se̞ntər‿əv ðə væwəl spe̞js ən bɪkɐm ə ʃwɑ:. ɐnstre̞st "i" iz nɒt əfe̞ktəd, ðo̞w. mo̞:r‿ɒn ɐnstre̞st væwəlz ət ðɪ‿e̞nd əv ðɪs vɪdɪjo̞w.`
+<!-- Even within this simplified five-vowel system, we can observe a significant vowel shift: the merging of the vowel in `u` "strut" with those in "palm" and "trap", resulting in `ɐ` "strut". Unstressed monophthongs, like the final vowel of "comma", shift to the centre of the vowel space and become a schwa. Unstressed "i" is not affected, though. More on unstressed vowels at the end of this video. -->
+`i:vən wɪðɪn ðɪs sɪmplɪfɑjd fɑjv-væwəl sɪstəm, wɪ kən əbzə:v ə sɪgnɪfɪkənt væwəl ʃɪft : ðə mə:dʒɪŋ əv ðə væwəl ɪn "strʊt" wɪð ðo̞wz ɪn "pɐm" ən "trɐp", rɪzɐltɪŋ in "strɐt". ɐnstre̞st mɒnəfθɒŋz, lɑjk ðə fɑjnəl væwəl əv "ko̞mɐ", ʃɪft tə ðə se̞ntər‿əv ðə væwəl spe̞js ən bɪkɐm ə ʃwɑ:. ɐnstre̞st "i" iz nɒt əfe̞ktəd, ðo̞w. mo̞:r‿ɒn ɐnstre̞st væwəlz ət ðɪj‿e̞nd əv ðɪs vɪdɪjo̞w.`
 
 <!--v-->
 
@@ -698,7 +698,7 @@ Notes:
 
 Notes:
 <!-- When the consonant "r" becomes the semi-vowel `ɹ̠ʷ`, the `ɐ` "strut" vowel in `ɐr` "nurse" changes to a schwa, resulting in `əɹ̠ʷ` "nurse". Simultaneously, the `a` "trap" vowel in `ar` "start" shifts to the `ɑː` "palm" vowel, resulting in `ɑːɹ̠ʷ` "start". -->
-`we̞n ðə kɒnsənənt "r" bɪcɐmz ðə se̞mɪ-væwəl "ɹ̠ʷ", ðə "strɐt" væwəl ɪn "nɐrs" tʃe̞jndʒəz tʊ‿ə ʃwɑ:, rɪzɐltɪŋ ɪn "nəɹ̠ʷs". sɪməlte̞jnɪjəsli:, ðə "trap" væwəl ɪn "start" ʃɪfts tə ðə "pɑ:m" væwəl, rɪzɐltɪŋ ɪn "stɑ:ɹ̠ʷt".`
+`we̞n ðə kɒnsənənt "r" bɪcɐmz ðə se̞mɪ-væwəl "ɹ̠ʷ", ðə "strɐt" væwəl ɪn "nɐrs" tʃe̞jndʒəz tʊw‿ə ʃwɑ:, rɪzɐltɪŋ ɪn "nəɹ̠ʷs". sɪməlte̞jnɪjəsli:, ðə "trap" væwəl ɪn "start" ʃɪfts tə ðə "pɑ:m" væwəl, rɪzɐltɪŋ ɪn "stɑ:ɹ̠ʷt".`
 
 <!--v-->
 
@@ -908,7 +908,7 @@ Notes:
 
 Notes:
 <!-- When the post-vocalic `ɹ̠ʷ` "r" transitions into a schwa, the vowels in `ɪɹ̠ʷ` "near", `ɛɹ̠ʷ` "square", `ɑːɹ̠ʷ` "start", `ɔɹ̠ʷ` "force", `ʊɹ̠ʷ` "cure", and `əɹ̠ʷ` "nurse" transform into diphthongs. Consequently, the onset of `ɑːɹ̠ʷ` "start" shortens from `ɑː` to `ɑ`, resulting in `ɑə` "start". However, over time, all these diphthongs smooth into long monophthongs, and `ɑə` "start" smoothes into `ɑː` "start", merging with `ɑː` "palm". Similarly, `ɔə` "force" merges with `ɔː` "thought", leading to `ɔː` "force". Additionally, the `ʊə` "cure" vowel converges with `ɔː` "force", resulting in `ɔː` "cure". -->
-`we̞n ðə po̞wst-vo̞wkælɪk "ɹ̠ʷ" trænzɪʃənz ɪntʊ‿ə ʃwɑ:, ðə væwəlz ɪn "nɪɹ̠ʷ", "skwɛɹ̠ʷ", "stɑ:ɹ̠ʷt", "fɔɹ̠ʷs", "kjʊɹ̠ʷ", ən "nəɹ̠ʷs" trænsfo̞:m ɪntə dɪfθɒŋz. kɒnsɪkwəntli:, ðɪ ɒnse̞t əv "stɑ:ɹ̠ʷt" ʃo̞:tənz frəm "ɑ:" tʊ "ɑ", rɪzɐltɪŋ ɪn "stɑət". hæwe̞və, o̞və tɑjm o̞:l ði:z dɪfθɒŋz smu:ð ɪntə lɒŋ mɒnəfθɒŋz, ən "stɑət" smu:ðəz ɪntə "stɑ:t", mə:dʒɪŋ "pɑ:m". sɪmɪləli:, "fɔəs" mə:dʒəz wɪð "θɔ:t", li:dɪŋ tə "fɔ:s". ədɪʃənəli:, ðə "kjʊə" væwəl kənvə:dʒəz wɪð "fɔ:s", rɪzɐltɪŋ ɪn "kjɔ:".`
+`we̞n ðə po̞wst-vo̞wkælɪk "ɹ̠ʷ" trænzɪʃənz ɪntʊw‿ə ʃwɑ:, ðə væwəlz ɪn "nɪɹ̠ʷ", "skwɛɹ̠ʷ", "stɑ:ɹ̠ʷt", "fɔɹ̠ʷs", "kjʊɹ̠ʷ", ən "nəɹ̠ʷs" trænsfo̞:m ɪntə dɪfθɒŋz. kɒnsɪkwəntli:, ðɪ ɒnse̞t əv "stɑ:ɹ̠ʷt" ʃo̞:tənz frəm "ɑ:" tʊ "ɑ", rɪzɐltɪŋ ɪn "stɑət". hæwe̞və, o̞və tɑjm o̞:l ði:z dɪfθɒŋz smu:ð ɪntə lɒŋ mɒnəfθɒŋz, ən "stɑət" smu:ðəz ɪntə "stɑ:t", mə:dʒɪŋ "pɑ:m". sɪmɪləli:, "fɔəs" mə:dʒəz wɪð "θɔ:t", li:dɪŋ tə "fɔ:s". ədɪʃənəli:, ðə "kjʊə" væwəl kənvə:dʒəz wɪð "fɔ:s", rɪzɐltɪŋ ɪn "kjɔ:".`
 
 <!--v-->
 
@@ -1347,7 +1347,7 @@ Notes:
 
 Notes:
 <!-- The onset of the `o̞w` "goat" vowel shifts to the centre of the vowel space, transitioning into a schwa, resulting in `əw` "goat". Similarly, the onset of the `ʊw` "goose" vowel, which is the `ʊ` "foot" vowel, also moves to the center of the vowel space, resulting in `ᵿw` "goose" and `ᵿ` "foot". -->
-`ðə ɒnse̞t əv ðə "go̞wt" væwəl ʃɪfts tə ðə se̞ntər‿əv ðə væwəl spe̞js, trænzɪʃənɪŋ ɪntʊ‿ə ʃwɑ, rɪzɐltɪŋ ɪn "gəwt". sɪmɪləli:, di: ɒnse̞t əv ðə "gʊws" væwəl, wɪtʃ iz ðə "fʊt" væwəl, o̞:lso̞w mu:vz tə ðə se̞ntər‿ɒv ðə væwəl spe̞js, rɪzɐltɪŋ ɪn "gᵿws" en "fᵿt".`
+`ðə ɒnse̞t əv ðə "go̞wt" væwəl ʃɪfts tə ðə se̞ntər‿əv ðə væwəl spe̞js, trænzɪʃənɪŋ ɪntʊw‿ə ʃwɑ, rɪzɐltɪŋ ɪn "gəwt". sɪmɪləli:, di: ɒnse̞t əv ðə "gʊws" væwəl, wɪtʃ iz ðə "fʊt" væwəl, o̞:lso̞w mu:vz tə ðə se̞ntər‿ɒv ðə væwəl spe̞js, rɪzɐltɪŋ ɪn "gᵿws" en "fᵿt".`
 
 <!--v-->
 
@@ -1387,7 +1387,7 @@ Notes:
 
 Notes:
 <!-- Now that the onsets of the triphthongs in `aɪə` "flyer" and `aʊə` "flower" have become distinct, resulting in `ɑjə` "flyer" and `æwə` "flower", both can be safely smoothed, resulting in `ɑə` "flyer" and `æə` "flower". Similarly, `e̞jə` "layer", `o̞jə` "lawyer", and `əwə` "lower" can be smoothed to `e̞ə` "layer", `o̞ə` "lawyer", and `əː` "lower". -->
-`næw ðət ðə ɒnse̞ts o̞v ðə trɪfθɒŋz ɪn "flaɪə" ən "flaʊə" həv bɪkɐm dɪstɪŋkt, rɪzɐltɪŋ ɪn "flɑjə" ən "flæwə", bo̞θ kən bi: se̞jfli: smu:ðd, rɪzɐltɪŋ ɪn "flɑə" ,en "flæə". sɪmɪləli:, "le̞jə", "lo̞jə", ən "ləwə" kən bi: smu:ðd tə "le̞ə", "lo̞ə", ən "lə:".`
+`næw ðət ðɪj‿ɒnse̞ts o̞v ðə trɪfθɒŋz ɪn "flaɪə" ən "flaʊə" həv bɪkɐm dɪstɪŋkt, rɪzɐltɪŋ ɪn "flɑjə" ən "flæwə", bo̞θ kən bi: se̞jfli: smu:ðd, rɪzɐltɪŋ ɪn "flɑə" ən "flæə". sɪmɪləli:, "le̞jə", "lo̞jə", ən "ləwə" kən bi: smu:ðd tə "le̞ə", "lo̞ə", ən "lə:"`
 
 <!--v-->
 
@@ -1742,7 +1742,7 @@ Notes:
 
 Notes:
 <!-- Congratulations on making it to the end of this video, and thank you for your patience! As promised, there is more to say about unstressed vowels. Unstressed vowels can still retain their stressed form, meaning they don't turn into a schwa. This is known as "secondary stress". Sometimes, both the strong and weak forms exist. For example, the vowel `e̞` in "accent", with secondary stress on "cent", can be pronounced as a schwa, resulting in `e` "accent". -->
-`kənɡrætʃəle̞jʃəns ɒn me̞jkɪŋ ɪt tə ðɪ‿e̞nd əv ðɪs vɪdɪjo̞w, ən θæŋk ju: fə jə pe̞jʃəns! əz prɒmɪst, ðe̞:r‿ɪz mo̞: tə se̞j əbæwt ɐnstre̞st væwəlz. ɐnstre̞st væwəlz kən stɪl rɪte̞jn ðe̞: stre̞st fo̞:m, mi:nɪŋ ðe̞j do̞wnt tə:n ɪntʊ‿ə ʃwɑ:. ðɪs ɪz no̞wn əz "se̞kəndəri: stre̞s". sɐmtɑjmz, bo̞wθ ðə strɒŋ ən ðə wi:k fo̞:mz ɪgzɪst. fər‿igzæmpəl, ðə væwəl "e̞" ɪn "ækse̞nt", wɪð se̞kəndəri stre̞s ɒn "se̞nt", kən bi: prənæwnst əz ə ʃwɑ:, rɪzɐltɪŋ ɪn "æksənt".`
+`kənɡrætʃəle̞jʃəns ɒn me̞jkɪŋ ɪt tə ðɪj‿e̞nd əv ðɪs vɪdɪjo̞w, ən θæŋk ju: fə jə pe̞jʃəns! əz prɒmɪst, ðe̞:r‿ɪz mo̞: tə se̞j əbæwt ɐnstre̞st væwəlz. ɐnstre̞st væwəlz kən stɪl rɪte̞jn ðe̞: stre̞st fo̞:m, mi:nɪŋ ðe̞j do̞wnt tə:n ɪntʊw‿ə ʃwɑ:. ðɪs ɪz no̞wn əz "se̞kəndəri: stre̞s". sɐmtɑjmz, bo̞wθ ðə strɒŋ ən ðə wi:k fo̞:mz ɪgzɪst. fər‿igzæmpəl, ðə væwəl "e̞" ɪn "ækse̞nt", wɪð se̞kəndəri stre̞s ɒn "se̞nt", kən bi: prənæwnst əz ə ʃwɑ:, rɪzɐltɪŋ ɪn "æksənt".`
 
 <!--v-->
 
@@ -1862,7 +1862,7 @@ Notes:
 
 Notes:
 To prevent this interpretation, one might be tempted to avoid linking glides altogether. In this case, they would be referred to as "intrusive" glides. Mind that this rather conservative pronunciation prevents the smoothing of the `ɪə` "near" and `ʊə` "cure" vowels to `ɪː` "near" and `ɔː` "cure". Moreover, `ɪə` "happier" and `ʊə` "valuable" are likely to be reinterpreted as derivations of `ɪ` "happy" and `ʊ` "value". (Side note: Ironically, not applying this hyperconservative laxing to `iː` "happy" and `uː` "value" is called "happy-tensing".)
-`tə prɪve̞nt ðɪs ɪntə:prəte̞jʃən, wɐn mɑjt bi: te̞mptəd tʊ‿əvo̞jd lɪŋkɪŋ glɑjdz o̞:ltəge̞ðə. ɪn ðɪs ke̞js, ðe̞j wəd bi: lɑjkli: tə bi: rɪfə:d tʊ‿əz "ɪntru:sɪv" glɑjdz. mɑjnd ðət ðɪs ræðə kənsə:vətiv prənɐnsɪje̞jʃən prɪve̞nts ðə smu:ðɪŋ əv ðə "nɪər"‿ən "kjʊə" væwəlz tə "nɪ:" ən "kjɔ:". mo̞:ro̞wvə, "hæpɪər"‿ən "valjʊəbləl" ə lɑjkli: tə bi: ri:ɪntə:prətəd əz de̞rɪve̞jʃənz əv "hæpɪ" ən "væljʊ". (sɑjd no̞wt: ɑjrɒnɪkəli:, nɒt əplɑjɪŋ ðɪs hɑjpəkənsə:vətɪv læksɪŋ tə "hæpi:" - ən "vælju:" - ɪz ko̞:ld "hæpi:-te̞nsɪŋ".)`
+`tə prɪve̞nt ðɪs ɪntə:prəte̞jʃən, wɐn mɑjt bi: te̞mptəd tʊw‿əvo̞jd lɪŋkɪŋ glɑjdz o̞:ltəge̞ðə. ɪn ðɪs ke̞js, ðe̞j wəd bi: lɑjkli: tə bi: rɪfə:d tʊw‿əz "ɪntru:sɪv" glɑjdz. mɑjnd ðət ðɪs ræðə kənsə:vətiv prənɐnsɪje̞jʃən prɪve̞nts ðə smu:ðɪŋ əv ðə "nɪər"‿ən "kjʊə" væwəlz tə "nɪ:" ən "kjɔ:". mo̞:ro̞wvə, "hæpɪər"‿ən "valjʊəbləl" ə lɑjkli: tə bi: ri:ɪntə:prətəd əz de̞rɪve̞jʃənz əv "hæpɪ" ən "væljʊ". (sɑjd no̞wt: ɑjrɒnɪkəli:, nɒt əplɑjɪŋ ðɪs hɑjpəkənsə:vətɪv læksɪŋ tə "hæpi:" - ən "vælju:" - ɪz ko̞:ld "hæpi:-te̞nsɪŋ".)`
 
 <!--v-->
 
@@ -2007,7 +2007,7 @@ To sound even more conservative, one can eliminate the glides in, for example, `
 
 Notes:
 Unstressed monophthongs are usually weak, as in "market", "salad", "bigot", and "minute". Unstressed /ɪ/, as in `ɪ` "rabbit", is never reduced to a schwa, unless one merges weak /ə/ and /ɪ/, resulting in either `ə` "rabbit" and `ə` "minute" or `ɪ` "rabbit" and `ɪ` "minute".
-`ɐnstre̞st mɒnəfθɒŋz ə ju:ʒʊwəli: wi:k, əz ɪn "mɑ:kət", "sæləd", "bɪgət", ən "mɪnət". ɐnstre̞st "ɪ", əz ɪn "ræbɪt", ɪz ne̞və rɪdju:st tʊ‿ə ʃwɑ:, ɐnle̞s wɐn mə:dʒəz wi:k "ə" ən "ɪ", rɪzɐltɪŋ ɪn i:ðə "ræbət" ən "mɪnət" o̞: "ræbɪt" ən "mɪnɪt".`
+`ɐnstre̞st mɒnəfθɒŋz ə ju:ʒʊwəli: wi:k, əz ɪn "mɑ:kət", "sæləd", "bɪgət", ən "mɪnət". ɐnstre̞st "ɪ", əz ɪn "ræbɪt", ɪz ne̞və rɪdju:st tʊw‿ə ʃwɑ:, ɐnle̞s wɐn mə:dʒəz wi:k "ə" ən "ɪ", rɪzɐltɪŋ ɪn i:ðə "ræbət" ən "mɪnət" o̞: "ræbɪt" ən "mɪnɪt".`
 
 <!--v-->
 
