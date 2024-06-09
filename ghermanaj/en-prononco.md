@@ -194,7 +194,7 @@ Notes:
 
 Notes:
 <!-- The vowel in "thought", originally a diphthong, has become a monophthong in practically all accents. Instead of `o̞w` "thought", we use o̞ "thought", resembling the vowel in "goat" and "lot", for now. -->
-`ðə væwəl ɪn "θo̞t", ərɪdʒɪnəlɪj‿ə dɪfθɒŋ, həz bɪkɐm ə mɒnəfθɒŋ ɪn præktɪkəli: o̞:l ækse̞nts. ɪnste̞d əv "θo̞wt", wɪ ju:z "θo̞t", rɪze̞mblɪŋ ðə væwəl ɪn "go̞t" ən "lo̞t", fə næw.`
+`ðə væwəl ɪn "θo̞t", ərɪdʒɪnəlɪj‿ə dɪfθɒŋ, həz bɪkɐm ə mɒnəfθɒŋ ɪn præktɪkəlɪj‿o̞:l ækse̞nts. ɪnste̞d əv "θo̞wt", wɪ ju:z "θo̞t", rɪze̞mblɪŋ ðə væwəl ɪn "go̞t" ən "lo̞t", fə næw.`
 
 <!--v-->
 
@@ -316,7 +316,7 @@ Notes:
 
 Notes:
 <!-- To split the vowels in `i` "fleece" and `i` "kit", `e̞` "face" and `e̞` "dress", `ɐ` "palm" and `ɐ` "trap", `o̞` "goat" and `o̞` "lot", and `u` "goose" and `u` "foot", we need to manipulate our vowel space around the central and middle axes and at the edges of the square. Visualizing that there are actually *seven* levels of openness can be helpful; currently, we're utilizing only half of them. Let's allocate the open back vowel `ɑ` and the open front vowel `a` for `ɑ` "palm" and `a` "trap", separating them from the "strut" vowel. Even though both the `ɑ` "palm" vowel and the `a` "trap" vowel represent the "a"-sound, the "palm" vowel can be considered as more representative than the "trap" vowel, and it is therefore more prominent and tense. -->
-`tə splɪt ðə væwəlz ɪn "flis" ən "kit", "fe̞s" ən "dre̞s", "pɐm" ən "trɐp", "go̞t" ən "lo̞t", ən "gus" en "fut", wɪ ni:d tə mənɪpjəle̞jt æɐ væwəl spe̞js əræwnd ðə se̞ntrəl ən mɪdəl æksi:s ən ət ðɪj‿e̞dʒəz əv ðə skwe̞:. vɪʒʊwəlɑjzɪŋ ðət ðe̞:r‿ɑ:r‿æktʃʊwəli: *se̞vən* le̞vəlz əv o̞wpənnəs kən bi: he̞lpfəl; kɐrəntli:, wɪ: ju:tɪlɑjzɪŋ o̞wnli: hɑ:f əv ðəm. le̞ts æləke̞jt ðɪj‿o̞wpən bæk væwəl "ɑ"‿r‿ən ðɪj‿o̞wpən frɒnt væwəl "a" fə "pɑm" ən "træp", se̞pəre̞jtɪŋ ðəm frəm ðə "strɐt" væwəl. i:vən ðo̞w bo̞wθ ðə "pɑm" væwəl ən ðə "træp" væwəl re̞prɪze̞nt ðɪj‿"a"-sæwnd, ðə "pɑm" væwəl kən bi: kənsɪdəd əz mo̞: re̞prɪze̞ntətɪv ðən ðə "træp" væwəl, ən ɪt ɪz ðe̞:fo̞: mo̞: prɒmɪnənt ən te̞ns.`
+`tə splɪt ðə væwəlz ɪn "flis" ən "kit", "fe̞s" ən "dre̞s", "pɐm" ən "trɐp", "go̞t" ən "lo̞t", ən "gus" en "fut", wɪ ni:d tə mənɪpjəle̞jt æɐ væwəl spe̞js əræwnd ðə se̞ntrəl ən mɪdəl æksi:s ən ət ðɪj‿e̞dʒəz əv ðə skwe̞:. vɪʒʊwəlɑjzɪŋ ðət ðe̞:r‿ɑ:r‿æktʃʊwəli: *se̞vən* le̞vəlz əv o̞wpənnəs kən bi: he̞lpfəl; kɐrəntli:, wɪ: ju:tɪlɑjzɪŋ o̞wnli: hɑ:f əv ðəm. le̞ts æləke̞jt ðɪj‿o̞wpən bæk væwəl "ɑ"‿r‿ən ðɪj‿o̞wpən frɒnt væwəl "a" fə "pɑm" ən "trap", se̞pəre̞jtɪŋ ðəm frəm ðə "strɐt" væwəl. i:vən ðo̞w bo̞wθ ðə "pɑm" væwəl ən ðə "trap" væwəl re̞prɪze̞nt ðɪj‿"a"-sæwnd, ðə "pɑm" væwəl kən bi: kənsɪdəd əz mo̞: re̞prɪze̞ntətɪv ðən ðə "trap" væwəl, ən ɪt ɪz ðe̞:fo̞: mo̞: prɒmɪnənt ən te̞ns.`
 
 <!--v-->
 
@@ -426,7 +426,7 @@ Notes:
 
 Notes:
 <!-- Let's now focus on these five pairs of more and less prominent vowels. In many accents, the more prominent vowels tend to be longer. In fact, the vowels in `e` "face" and `o` "goat" even develop into diphthongs, resulting in `eɪ` "face" and `oʊ` "goat". -->
-`le̞ts næw fo̞wkəs ɒn ði:z fɑjv pe̞:z əv mo̞:r‿ən le̞s prɒmɪnənt væwəlz. ɪn me̞ni: ækse̞nts, ðə mo̞ prɒmɪnənt væwəlz te̞nd tə bi: lɒŋgə. ɪn fækt, ðə væwəlz ɪn "fe:s" ən "go:t" i:vən dɪve̞ləp ɪntə dɪfθɒŋz, rɪzɐltɪŋ ɪn "feɪs" ən "goʊt".`
+`le̞ts næw fo̞wkəs ɒn ði:z fɑjv pe̞:z əv mo̞:r‿ən le̞s prɒmɪnənt væwəlz. ɪn me̞nɪj‿ækse̞nts, ðə mo̞ prɒmɪnənt væwəlz te̞nd tə bi: lɒŋgə. ɪn fækt, ðə væwəlz ɪn "fe:s" ən "go:t" i:vən dɪve̞ləp ɪntə dɪfθɒŋz, rɪzɐltɪŋ ɪn "feɪs" ən "goʊt".`
 
 <!--v-->
 
@@ -1178,7 +1178,7 @@ Notes:
 
 Notes:
 <!-- Until now, the `o̞` "lot" vowel and the `o̞ː` "thought" vowel have been dangerously similar, with no distinguishing feature in accents without lengthened vowels. To prevent the merging of `o̞` "lot" and `o̞ː` "thought", we can lower `o̞` "lot" to the near-open `ɒ` "lot". Additionally, for symmetry in the vowel space, we can raise the `a` "trap" vowel to the near-open `æ` "trap". -->
-`əntɪl næw, ðə "lo̞t" væwəl ən ðə "θo̞:t" væwəl həv bɪn de̞jndʒərəsli: sɪmɪlə, wɪð no̞w dɪstɪŋgwɪʃɪŋ fi:tʃə ɪn ækse̞nts wɪðæwt le̞ŋgθənd væwəlz. tə prɪve̞nt ðə mə:dʒɪŋ əv "lo̞t" ən "θo̞:t", wɪ kən lo̞wə "lo̞t" tə ðə nɪ:r‿o̞wpən "lɒt". ədɪʃənəli:, fə sɪmətri: ɪn ðə væwəl spe̞js, wɪ kən re̞jz ðə "trap" væwəl tə ðə nɪ:r‿o̞wpən "træp".`
+`əntɪl næw, ðə "lo̞t" væwəl ən ðə "θo̞:t" væwəl həv bɪn de̞jndʒərəsli: sɪmɪlə, wɪð no̞w dɪstɪŋgwɪʃɪŋ fi:tʃə ɪn ækse̞nts wɪðæwt le̞ŋgθənd væwəlz. tə prɪve̞nt ðə mə:dʒɪŋ əv "lo̞t" ən "θo̞:t", wɪ kən lo̞wə "lo̞t" tə ðə nɪ:r‿o̞wpən "lɒt". ədɪʃənəli:, fə sɪmətrɪj‿ɪn ðə væwəl spe̞js, wɪ kən re̞jz ðə "trap" væwəl tə ðə nɪ:r‿o̞wpən "træp".`
 
 <!--v-->
 
@@ -1347,7 +1347,7 @@ Notes:
 
 Notes:
 <!-- The onset of the `o̞w` "goat" vowel shifts to the centre of the vowel space, transitioning into a schwa, resulting in `əw` "goat". Similarly, the onset of the `ʊw` "goose" vowel, which is the `ʊ` "foot" vowel, also moves to the center of the vowel space, resulting in `ᵿw` "goose" and `ᵿ` "foot". -->
-`ðə ɒnse̞t əv ðə "go̞wt" væwəl ʃɪfts tə ðə se̞ntər‿əv ðə væwəl spe̞js, trænzɪʃənɪŋ ɪntʊw‿ə ʃwɑ, rɪzɐltɪŋ ɪn "gəwt". sɪmɪləli:, di: ɒnse̞t əv ðə "gʊws" væwəl, wɪtʃ iz ðə "fʊt" væwəl, o̞:lso̞w mu:vz tə ðə se̞ntər‿ɒv ðə væwəl spe̞js, rɪzɐltɪŋ ɪn "gᵿws" en "fᵿt".`
+`ðə ɒnse̞t əv ðə "go̞wt" væwəl ʃɪfts tə ðə se̞ntər‿əv ðə væwəl spe̞js, trænzɪʃənɪŋ ɪntʊw‿ə ʃwɑ, rɪzɐltɪŋ ɪn "gəwt". sɪmɪləli:, dɪj‿ɒnse̞t əv ðə "gʊws" væwəl, wɪtʃ iz ðə "fʊt" væwəl, o̞:lso̞w mu:vz tə ðə se̞ntər‿ɒv ðə væwəl spe̞js, rɪzɐltɪŋ ɪn "gᵿws" en "fᵿt".`
 
 <!--v-->
 
