@@ -474,7 +474,7 @@ Notes:
 
 Notes:
 <!-- Speaking of diphthongs, the onsets and offsets of the diphthongs in `ɐj` "price", `ɐw` "mouth", and `o̞j` "choice" take on their less prominent form, resulting in `aɪ` "price", `aʊ` "mouth", and `ɔɪ` "choice". Additionally, `o̞` "thought" is associated with the less prominent `ɔ` "lot" vowel, albeit in its lengthened form, at least in accents with lengthened vowels. -->
-`spi:kɪŋ əv dɪfθɒŋz, ðɪj‿ɒnse̞ts ən ɒfse̞ts əv ðe dɪfθɒŋz ɪn "prɐjs", "mɐwθ", and "tʃɔɪs". ədɪʃənəli:, "θo̞t" ɪz əso̞wʃɪje̞jtəd wɪð ðə le̞s prɒmɪnənt "lɔt" væwəl, o̞:lbi:ɪt ɪn ɪts le̞ŋθənd fo̞:m, ət li:st ɪn ækse̞nts wɪð le̞ŋθənd væwəlz.`
+`spi:kɪŋ əv dɪfθɒŋz, ðɪj‿ɒnse̞ts ən ɒfse̞ts əv ðe dɪfθɒŋz ɪn "prɐjs", "mɐwθ", and "tʃɔɪs". ədɪʃənəli:, "θo̞t" ɪz əso̞wʃɪje̞jtəd wɪð ðə le̞s prɒmɪnənt "lɔt" væwəl, o̞:lbɪjɪt ɪn ɪts le̞ŋθənd fo̞:m, ət li:st ɪn ækse̞nts wɪð le̞ŋθənd væwəlz.`
 
 <!--v-->
 
@@ -1633,7 +1633,7 @@ Notes:
 
 Notes:
 <!-- Instead of lowering the `ɪ` "kit" vowel to `e` "kit", one can observe the `ᵿ` "foot" vowel being lowered to `ɵ` "foot" and the onset `ᵿ` of the `ᵿw` "goose" diphthong being raised to `ʉw` "goose". -->
-`ɪnste̞d əv lo̞wərɪŋ ðə "kɪt" væwəl tə "ket", wɐn kən əbzə:v ðə "fᵿt" væwəl bi:ɪŋ lo̞wəd tə "fɵt" en ðə ɒnse̞t "ᵿ" əv ðə "gᵿws" dɪfθɒŋ bi:ɪŋ re̞jzd tə "gʉws".`
+`ɪnste̞d əv lo̞wərɪŋ ðə "kɪt" væwəl tə "ket", wɐn kən əbzə:v ðə "fᵿt" væwəl bɪjɪŋ lo̞wəd tə "fɵt" en ðə ɒnse̞t "ᵿ" əv ðə "gᵿws" dɪfθɒŋ bɪjɪŋ re̞jzd tə "gʉws".`
 
 <!--v-->
 
@@ -1822,7 +1822,7 @@ Notes:
 
 Notes:
 <!-- When we remove everthing after the "j"- and "w"-glides, we can reinterpret the resulting /ɪj/ in "happy" and /ʊw/ in "value" as examples of the breaking of the `iː` "fleece" and `uː` "goose" vowels into `ɪj` "fleece" and `ʊw` "goose". -->
-`we̞n wɪ rɪmu:v e̞vərɪθɪŋ æftə ðə "j"- ən "w"-glɑjdz, wɪ kən ri:ɪntə:prət ðə rɪzɐltɪŋ "ɪj" in "hæpɪj" en "ʊw" in "væljʊw" əz ɪgzæmpəlz əv ðə bre̞jkɪŋ əv ðə "fli:s" ən "gu:s" væwəlz ɪntə "flɪjs" ən "gʊws".`
+`we̞n wɪ rɪmu:v e̞vərɪθɪŋ æftə ðə "j"- ən "w"-glɑjdz, wɪ kən rɪjɪntə:prət ðə rɪzɐltɪŋ "ɪj" in "hæpɪj" en "ʊw" in "væljʊw" əz ɪgzæmpəlz əv ðə bre̞jkɪŋ əv ðə "fli:s" ən "gu:s" væwəlz ɪntə "flɪjs" ən "gʊws".`
 
 <!--v-->
 
@@ -1862,7 +1862,7 @@ Notes:
 
 Notes:
 To prevent this interpretation, one might be tempted to avoid linking glides altogether. In this case, they would be referred to as "intrusive" glides. Mind that this rather conservative pronunciation prevents the smoothing of the `ɪə` "near" and `ʊə` "cure" vowels to `ɪː` "near" and `ɔː` "cure". Moreover, `ɪə` "happier" and `ʊə` "valuable" are likely to be reinterpreted as derivations of `ɪ` "happy" and `ʊ` "value". (Side note: Ironically, not applying this hyperconservative laxing to `iː` "happy" and `uː` "value" is called "happy-tensing".)
-`tə prɪve̞nt ðɪs ɪntə:prəte̞jʃən, wɐn mɑjt bi: te̞mptəd tʊw‿əvo̞jd lɪŋkɪŋ glɑjdz o̞:ltəge̞ðə. ɪn ðɪs ke̞js, ðe̞j wəd bi: lɑjkli: tə bi: rɪfə:d tʊw‿əz "ɪntru:sɪv" glɑjdz. mɑjnd ðət ðɪs ræðə kənsə:vətiv prənɐnsɪje̞jʃən prɪve̞nts ðə smu:ðɪŋ əv ðə "nɪər"‿ən "kjʊə" væwəlz tə "nɪ:" ən "kjɔ:". mo̞:ro̞wvə, "hæpɪər"‿ən "valjʊəbləl" ə lɑjkli: tə bi: ri:ɪntə:prətəd əz de̞rɪve̞jʃənz əv "hæpɪ" ən "væljʊ". (sɑjd no̞wt: ɑjrɒnɪkəli:, nɒt əplɑjɪŋ ðɪs hɑjpəkənsə:vətɪv læksɪŋ tə "hæpi:" - ən "vælju:" - ɪz ko̞:ld "hæpi:-te̞nsɪŋ".)`
+`tə prɪve̞nt ðɪs ɪntə:prəte̞jʃən, wɐn mɑjt bi: te̞mptəd tʊw‿əvo̞jd lɪŋkɪŋ glɑjdz o̞:ltəge̞ðə. ɪn ðɪs ke̞js, ðe̞j wəd bi: lɑjkli: tə bi: rɪfə:d tʊw‿əz "ɪntru:sɪv" glɑjdz. mɑjnd ðət ðɪs ræðə kənsə:vətiv prənɐnsɪje̞jʃən prɪve̞nts ðə smu:ðɪŋ əv ðə "nɪər"‿ən "kjʊə" væwəlz tə "nɪ:" ən "kjɔ:". mo̞:ro̞wvə, "hæpɪər"‿ən "valjʊəbləl" ə lɑjkli: tə bi: rɪjɪntə:prətəd əz de̞rɪve̞jʃənz əv "hæpɪ" ən "væljʊ". (sɑjd no̞wt: ɑjrɒnɪkəli:, nɒt əplɑjɪŋ ðɪs hɑjpəkənsə:vətɪv læksɪŋ tə "hæpi:" - ən "vælju:" - ɪz ko̞:ld "hæpi:-te̞nsɪŋ".)`
 
 <!--v-->
 
