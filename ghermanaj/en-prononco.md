@@ -316,7 +316,7 @@ Notes:
 
 Notes:
 <!-- To split the vowels in `i` "fleece" and `i` "kit", `e̞` "face" and `e̞` "dress", `ɐ` "palm" and `ɐ` "trap", `o̞` "goat" and `o̞` "lot", and `u` "goose" and `u` "foot", we need to manipulate our vowel space around the central and middle axes and at the edges of the square. Visualizing that there are actually *seven* levels of openness can be helpful; currently, we're utilizing only half of them. Let's allocate the open back vowel `ɑ` and the open front vowel `a` for `ɑ` "palm" and `a` "trap", separating them from the "strut" vowel. Even though both the `ɑ` "palm" vowel and the `a` "trap" vowel represent the "a"-sound, the "palm" vowel can be considered as more representative than the "trap" vowel, and it is therefore more prominent and tense. -->
-`tə splɪt ðə væwəlz ɪn "flis" ən "kit", "fe̞s" ən "dre̞s", "pɐm" ən "trɐp", "go̞t" ən "lo̞t", ən "gus" en "fut", wɪ ni:d tə mənɪpjəle̞jt æɐ væwəl spe̞js əræwnd ðə se̞ntrəl ən mɪdəl æksi:s ən ət ðɪ e̞dʒəz əv ðə skwe̞:. vɪʒʊwəlɑjzɪŋ ðət ðe̞:r‿ɑ:r‿æktʃʊwəli: *se̞vən* le̞vəlz əv o̞wpənnəs kən bi: he̞lpfəl; kɐrəntli:, wɪ: ju:tɪlɑjzɪŋ o̞wnli: hɑ:f əv ðəm. le̞ts æləke̞jt ðɪ o̞wpən bæk væwəl "ɑ"‿r‿ən ðɪ o̞wpən frɒnt væwəl "a" fə "pɑm" ən "træp", se̞pəre̞jtɪŋ ðəm frəm ðə "strɐt" væwəl. i:vən ðo̞w bo̞wθ ðə "pɑm" væwəl ən ðə "træp" væwəl re̞prɪze̞nt ðɪ "a"-sæwnd, ðə "pɑm" væwəl kən bi: kənsɪdəd əz mo̞: re̞prɪze̞ntətɪv ðən ðə "træp" væwəl, ən ɪt ɪz ðe̞:fo̞: mo̞: prɒmɪnənt ən te̞ns.`
+`tə splɪt ðə væwəlz ɪn "flis" ən "kit", "fe̞s" ən "dre̞s", "pɐm" ən "trɐp", "go̞t" ən "lo̞t", ən "gus" en "fut", wɪ ni:d tə mənɪpjəle̞jt æɐ væwəl spe̞js əræwnd ðə se̞ntrəl ən mɪdəl æksi:s ən ət ðɪj‿e̞dʒəz əv ðə skwe̞:. vɪʒʊwəlɑjzɪŋ ðət ðe̞:r‿ɑ:r‿æktʃʊwəli: *se̞vən* le̞vəlz əv o̞wpənnəs kən bi: he̞lpfəl; kɐrəntli:, wɪ: ju:tɪlɑjzɪŋ o̞wnli: hɑ:f əv ðəm. le̞ts æləke̞jt ðɪj‿o̞wpən bæk væwəl "ɑ"‿r‿ən ðɪj‿o̞wpən frɒnt væwəl "a" fə "pɑm" ən "træp", se̞pəre̞jtɪŋ ðəm frəm ðə "strɐt" væwəl. i:vən ðo̞w bo̞wθ ðə "pɑm" væwəl ən ðə "træp" væwəl re̞prɪze̞nt ðɪj‿"a"-sæwnd, ðə "pɑm" væwəl kən bi: kənsɪdəd əz mo̞: re̞prɪze̞ntətɪv ðən ðə "træp" væwəl, ən ɪt ɪz ðe̞:fo̞: mo̞: prɒmɪnənt ən te̞ns.`
 
 <!--v-->
 
@@ -474,7 +474,7 @@ Notes:
 
 Notes:
 <!-- Speaking of diphthongs, the onsets and offsets of the diphthongs in `ɐj` "price", `ɐw` "mouth", and `o̞j` "choice" take on their less prominent form, resulting in `aɪ` "price", `aʊ` "mouth", and `ɔɪ` "choice". Additionally, `o̞` "thought" is associated with the less prominent `ɔ` "lot" vowel, albeit in its lengthened form, at least in accents with lengthened vowels. -->
-`spi:kɪŋ əv dɪfθɒŋz, ðɪ ɒnse̞ts ən ɒfse̞ts əv ðe dɪfθɒŋz ɪn "prɐjs", "mɐwθ", and "tʃɔɪs". ədɪʃənəli:, "θo̞t" ɪz əso̞wʃɪje̞jtəd wɪð ðə le̞s prɒmɪnənt "lɔt" væwəl, o̞:lbi:ɪt ɪn ɪts le̞ŋθənd fo̞:m, ət li:st ɪn ækse̞nts wɪð le̞ŋθənd væwəlz.`
+`spi:kɪŋ əv dɪfθɒŋz, ðɪj‿ɒnse̞ts ən ɒfse̞ts əv ðe dɪfθɒŋz ɪn "prɐjs", "mɐwθ", and "tʃɔɪs". ədɪʃənəli:, "θo̞t" ɪz əso̞wʃɪje̞jtəd wɪð ðə le̞s prɒmɪnənt "lɔt" væwəl, o̞:lbi:ɪt ɪn ɪts le̞ŋθənd fo̞:m, ət li:st ɪn ækse̞nts wɪð le̞ŋθənd væwəlz.`
 
 <!--v-->
 
@@ -746,7 +746,7 @@ Notes:
 
 Notes:
 <!-- The other long vowels shift to their shorter counterparts, resulting in `ɪɹ̠ʷ` "near", `ɛɹ̠ʷ` "square", `ɔɹ̠ʷ` "force", and `ʊɹ̠ʷ` "cure". Consequently, `ɔɹ̠ʷ` "north" merges with `ɔɹ̠ʷ` "force". -->
-`ðɪ ɐðə lɒŋ væwəlz ʃɪft tə ðe̞: ʃo̞:tə kæwntəpɑ:ts, rɪzɐltɪŋ ɪn "nɪɹ̠ʷ", "skwɛɹ̠ʷ", "fɔɹ̠ʷs", ən "kjʊɹ̠ʷ". kɒnsɪkwəntli:, "nɔɹ̠ʷθ" mə:dʒəz wɪð "fɔɹ̠ʷs".`
+`ðɪj‿ɐðə lɒŋ væwəlz ʃɪft tə ðe̞: ʃo̞:tə kæwntəpɑ:ts, rɪzɐltɪŋ ɪn "nɪɹ̠ʷ", "skwɛɹ̠ʷ", "fɔɹ̠ʷs", ən "kjʊɹ̠ʷ". kɒnsɪkwəntli:, "nɔɹ̠ʷθ" mə:dʒəz wɪð "fɔɹ̠ʷs".`
 
 <!--v-->
 
@@ -775,7 +775,7 @@ Notes:
 
 Notes:
 <!-- Simultaneously, the unstressed ending of `ər` "letter" begins to sound similar to the vowel in `əɹ̠ʷ` "nurse", resulting in `əɹ̠ʷ` "letter". -->
-`sɪməlte̞jnɪjəsli:, ðɪ ɐnstre̞st e̞ndɪŋ əv "le̞tɐr" bɪgɪnz tə sæwnd sɪmɪlə tə ðə væwəl ɪn "nəɹ̠ʷs", rɪzɐltɪŋ ɪn "lɛtəɹ̠ʷ".`
+`sɪməlte̞jnɪjəsli:, ðɪj‿ɐnstre̞st e̞ndɪŋ əv "le̞tɐr" bɪgɪnz tə sæwnd sɪmɪlə tə ðə væwəl ɪn "nəɹ̠ʷs", rɪzɐltɪŋ ɪn "lɛtəɹ̠ʷ".`
 
 <!--v-->
 
@@ -908,7 +908,7 @@ Notes:
 
 Notes:
 <!-- When the post-vocalic `ɹ̠ʷ` "r" transitions into a schwa, the vowels in `ɪɹ̠ʷ` "near", `ɛɹ̠ʷ` "square", `ɑːɹ̠ʷ` "start", `ɔɹ̠ʷ` "force", `ʊɹ̠ʷ` "cure", and `əɹ̠ʷ` "nurse" transform into diphthongs. Consequently, the onset of `ɑːɹ̠ʷ` "start" shortens from `ɑː` to `ɑ`, resulting in `ɑə` "start". However, over time, all these diphthongs smooth into long monophthongs, and `ɑə` "start" smoothes into `ɑː` "start", merging with `ɑː` "palm". Similarly, `ɔə` "force" merges with `ɔː` "thought", leading to `ɔː` "force". Additionally, the `ʊə` "cure" vowel converges with `ɔː` "force", resulting in `ɔː` "cure". -->
-`we̞n ðə po̞wst-vo̞wkælɪk "ɹ̠ʷ" trænzɪʃənz ɪntʊw‿ə ʃwɑ:, ðə væwəlz ɪn "nɪɹ̠ʷ", "skwɛɹ̠ʷ", "stɑ:ɹ̠ʷt", "fɔɹ̠ʷs", "kjʊɹ̠ʷ", ən "nəɹ̠ʷs" trænsfo̞:m ɪntə dɪfθɒŋz. kɒnsɪkwəntli:, ðɪ ɒnse̞t əv "stɑ:ɹ̠ʷt" ʃo̞:tənz frəm "ɑ:" tʊ "ɑ", rɪzɐltɪŋ ɪn "stɑət". hæwe̞və, o̞və tɑjm o̞:l ði:z dɪfθɒŋz smu:ð ɪntə lɒŋ mɒnəfθɒŋz, ən "stɑət" smu:ðəz ɪntə "stɑ:t", mə:dʒɪŋ "pɑ:m". sɪmɪləli:, "fɔəs" mə:dʒəz wɪð "θɔ:t", li:dɪŋ tə "fɔ:s". ədɪʃənəli:, ðə "kjʊə" væwəl kənvə:dʒəz wɪð "fɔ:s", rɪzɐltɪŋ ɪn "kjɔ:".`
+`we̞n ðə po̞wst-vo̞wkælɪk "ɹ̠ʷ" trænzɪʃənz ɪntʊw‿ə ʃwɑ:, ðə væwəlz ɪn "nɪɹ̠ʷ", "skwɛɹ̠ʷ", "stɑ:ɹ̠ʷt", "fɔɹ̠ʷs", "kjʊɹ̠ʷ", ən "nəɹ̠ʷs" trænsfo̞:m ɪntə dɪfθɒŋz. kɒnsɪkwəntli:, ðɪj‿ɒnse̞t əv "stɑ:ɹ̠ʷt" ʃo̞:tənz frəm "ɑ:" tʊ "ɑ", rɪzɐltɪŋ ɪn "stɑət". hæwe̞və, o̞və tɑjm o̞:l ði:z dɪfθɒŋz smu:ð ɪntə lɒŋ mɒnəfθɒŋz, ən "stɑət" smu:ðəz ɪntə "stɑ:t", mə:dʒɪŋ "pɑ:m". sɪmɪləli:, "fɔəs" mə:dʒəz wɪð "θɔ:t", li:dɪŋ tə "fɔ:s". ədɪʃənəli:, ðə "kjʊə" væwəl kənvə:dʒəz wɪð "fɔ:s", rɪzɐltɪŋ ɪn "kjɔ:".`
 
 <!--v-->
 
@@ -1051,7 +1051,7 @@ Notes:
 
 Notes:
 <!-- The `ɛ` "dress" vowel and the onset of the `eɪ` "face" diphthong can be raised and lowered back to the middle of the vowel space, resulting in `e̞` "dress" and `e̞j` "face". Notice that the offset of the `e̞j` "face" diphthong has become the fully closed `j`-glide. Similarly, the `ɔ` "lot" vowel and the onset of the `oʊ` "goat" diphthong are raised and lowered, resulting in `o̞` "lot" and `o̞w` "goat". -->
-`ðə "drɛs" væwəl ən ðɪ ɒnse̞t əv ðə "feɪs" dɪfθɒŋ kən bi: re̞jzd ən lo̞wəd bæk tə ðe mɪdəl əv ðə væwəl spe̞js, rɪzɐltɪŋ ɪn "dre̞s" ən "fe̞js". no̞wtɪs ðət ðɪ ɒfse̞t əv ðə "fe̞js" dɪfθɒŋ həz bɪkɐm ðə fʊli: klo̞wzd "j"-glɑjd. sɪmɪləli:, ðə "lɔt" væwəl ən ðə ɒnse̞t əv ðə "goʊt" dɪfθɒŋ ə re̞jzd ən lo̞wəd, rɪzɐltɪŋ ɪn "lo̞t" en "go̞wt".`
+`ðə "drɛs" væwəl ən ðɪj‿ɒnse̞t əv ðə "feɪs" dɪfθɒŋ kən bi: re̞jzd ən lo̞wəd bæk tə ðe mɪdəl əv ðə væwəl spe̞js, rɪzɐltɪŋ ɪn "dre̞s" ən "fe̞js". no̞wtɪs ðət ðɪj‿ɒfse̞t əv ðə "fe̞js" dɪfθɒŋ həz bɪkɐm ðə fʊli: klo̞wzd "j"-glɑjd. sɪmɪləli:, ðə "lɔt" væwəl ən ðə ɒnse̞t əv ðə "goʊt" dɪfθɒŋ ə re̞jzd ən lo̞wəd, rɪzɐltɪŋ ɪn "lo̞t" en "go̞wt".`
 
 <!--v-->
 
@@ -1075,7 +1075,7 @@ Notes:
 
 Notes:
 <!-- The onset of `ɔɪ` "choice" and the `ɔː` "thought" vowel are raised to the middle of the vowel space, resulting in `o̞j` "choice" and `o̞ː` "thought". -->
-`ðɪ ɒnse̞ts əv "tʃɔɪs" ən ðə "θɔ:t" væwəl ə re̞jzd tə ðə mɪdəl əv ðə væwəl spe̞js, rɪzɐltɪŋ ɪn "tʃo̞js" ən "θo̞:t".`
+`ðɪj‿ɒnse̞ts əv "tʃɔɪs" ən ðə "θɔ:t" væwəl ə re̞jzd tə ðə mɪdəl əv ðə væwəl spe̞js, rɪzɐltɪŋ ɪn "tʃo̞js" ən "θo̞:t".`
 
 <!--v-->
 
@@ -1270,7 +1270,7 @@ Notes:
 
 Notes:
 <!-- In accents featuring a `æ` "trap"/`ɑː` "bath" split, the onsets of `aj` "price" and `aw` "mouth" also undergo a split, resulting in `ɑj` "price" and `æw` "mouth". -->
-`ɪn ækse̞nts fi:tʃərɪŋ ə "træp"/"bɑ:θ" splɪt, ðɪ ɒnse̞ts əv "prɑjs" ən "mæwθ" o̞:lso̞w ɐndəgo̞w ə splɪt, rɪzɐltɪŋ ɪn "prɑjs" ən "mæwθ".`
+`ɪn ækse̞nts fi:tʃərɪŋ ə "træp"/"bɑ:θ" splɪt, ðɪj‿ɒnse̞ts əv "prɑjs" ən "mæwθ" o̞:lso̞w ɐndəgo̞w ə splɪt, rɪzɐltɪŋ ɪn "prɑjs" ən "mæwθ".`
 
 <!--v-->
 
@@ -1321,7 +1321,7 @@ Notes:
 
 Notes:
 <!-- Similarly to the `e̞` "dress" vowel and the onset of the `e̞j` "face" diphthong, the `iː` "fleece" vowel breaks into the laxer `ɪ` "kit" vowel combined with the `j`-glide, resulting in `ɪj` "fleece". Likewise, akin to the previous `o̞` "lot" vowel and the onset of the `o̞w` "goat" diphthong, the `uː` "goose" vowel breaks into the laxer `ʊ` "foot" vowel combined with the `w`-glide, resulting in `ʊw` "goose. -->
-`sɪmɪləli: tə ðə "dre̞s" væwəl ən ðɪ ɒnse̞t əv ðə "fe̞js" dɪfθɒŋ, ðə fli:s væwəl bre̞jks ɪntə ðə læksə "kɪt" væwəl kəmbɑjnd wɪð ðə "j"-glɑjd, rɪzɐltɪŋ ɪn "flɪjs". lɑjkwɑjz, əkɪn tə ðə pri:vɪjəs "lo̞t" væwəl ən ðə ɒnse̞t əv ðə "go̞wt" dɪfθɒŋ, ðə "gu:s" væwəl bre̞jks ɪntə ðe læksə "fʊt" væwəl kəmbɑjnd wɪð ðə "w"-glɑjd, rɪzɐltɪŋ ɪn "gʊws".`
+`sɪmɪləli: tə ðə "dre̞s" væwəl ən ðɪj‿ɒnse̞t əv ðə "fe̞js" dɪfθɒŋ, ðə fli:s væwəl bre̞jks ɪntə ðə læksə "kɪt" væwəl kəmbɑjnd wɪð ðə "j"-glɑjd, rɪzɐltɪŋ ɪn "flɪjs". lɑjkwɑjz, əkɪn tə ðə pri:vɪjəs "lo̞t" væwəl ən ðə ɒnse̞t əv ðə "go̞wt" dɪfθɒŋ, ðə "gu:s" væwəl bre̞jks ɪntə ðe læksə "fʊt" væwəl kəmbɑjnd wɪð ðə "w"-glɑjd, rɪzɐltɪŋ ɪn "gʊws".`
 
 <!--v-->
 
