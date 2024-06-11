@@ -1225,8 +1225,8 @@ Notes:
 | |
 
 Notes:
-<!-- Disclaimer: Before fricatives, the `a` "trap" vowel and `o̞` "lot" vowel do not immediately shift to the near-open `æ` "trap" and `ɒ` "lot", for example in words like `a` "bath" and `o̞` "cloth". Instead, they often merge with `ɑː` "palm" and `o̞ː` "thought", resulting in `ɑː` "bath" and `o̞ː` "cloth". While some accents retain these distinctions, others re-merge `ɑː` "bath" or `o̞ː` "cloth" with `æ` "trap" and `ɒ` "lot", leading to `æ` "bath" and `ɒ` "cloth". -->
-`dɪskle̞jmə : bɪfo̞: frɪkətɪvz, ðə "trap" væwəl ən "lo̞t" væwəl du: nɒt ɪmi:dɪjətli: ʃɪft tə ðə nɪ:r‿o̞wpən "træp" ən "lɒt", fər‿ɪgzæmpəl ɪn wə:dz lɑjk "baθ" ən "klo̞θ". ɪnste̞d, ðe̞j ɒfən mə:dʒ wɪð "pɑ:m" ən "tho̞:t", rɪzɐltɪŋ ɪ "bɑ:th" ən "klo̞:θ". wɑjl sɐm ækse̞nts rɪte̞jn ði:z dɪstɪŋkʃənz, ɐðəz ri:mə:dʒ "bɑ:θ" o̞: "klo̞:θ" wɪð "træp" ən "lɒt", li:dɪŋ tə "bæθ" ən "klɒθ".`
+<!-- Disclaimer: Before fricatives, the `a` "trap" vowel and the `o̞` "lot" vowel do not immediately shift to the near-open `æ` "trap" and `ɒ` "lot", for example in `a` "bath" and `o̞` "cloth". Instead, they often merge with `ɑː` "palm" and `o̞ː` "thought", resulting in `ɑː` "bath" and `o̞ː` "cloth". While some accents retain these distinctions, others re-merge `ɑː` "bath" and `o̞ː` "cloth" with `æ` "trap" and `ɒ` "lot", leading to `æ` "bath" and `ɒ` "cloth". -->
+`dɪskle̞jmə : bɪfo̞: frɪkətɪvz, ðə "trap" væwəl ən ðə "lo̞t" væwəl du: nɒt ɪmi:dɪjətli: ʃɪft tə ðə nɪ:r‿o̞wpən "træp" ən "lɒt", fər‿ɪgzæmpəl ɪn "baθ" ən "klo̞θ". ɪnste̞d, ðe̞j ɒfən mə:dʒ wɪð "pɑ:m" ən "tho̞:t", rɪzɐltɪŋ ɪn "bɑ:th" ən "klo̞:θ". wɑjl sɐm ækse̞nts rɪte̞jn ði:z dɪstɪŋkʃənz, ɐðəz ri:mə:dʒ "bɑ:θ" ən "klo̞:θ" wɪð "træp" ən "lɒt", li:dɪŋ tə "bæθ" ən "klɒθ".`
 
 <!--v-->
 
@@ -1270,7 +1270,7 @@ Notes:
 
 Notes:
 <!-- In accents featuring a `æ` "trap"/`ɑː` "bath" split, the onsets of `aj` "price" and `aw` "mouth" also undergo a split, resulting in `ɑj` "price" and `æw` "mouth". -->
-`ɪn ækse̞nts fi:tʃərɪŋ ə "træp"/"bɑ:θ" splɪt, ðɪj‿ɒnse̞ts əv "prɑjs" ən "mæwθ" o̞:lso̞w ɐndəgo̞w ə splɪt, rɪzɐltɪŋ ɪn "prɑjs" ən "mæwθ".`
+`ɪn ækse̞nts fi:tʃərɪŋ ə "træp"/"bɑ:θ" splɪt, ðɪj‿ɒnse̞ts əv "prajs" ən "mawθ" o̞:lso̞w ɐndəgo̞w ə splɪt, rɪzɐltɪŋ ɪn "prɑjs" ən "mæwθ".`
 
 <!--v-->
 
@@ -1321,7 +1321,7 @@ Notes:
 
 Notes:
 <!-- Similarly to the `e̞` "dress" vowel and the onset of the `e̞j` "face" diphthong, the `iː` "fleece" vowel breaks into the laxer `ɪ` "kit" vowel combined with the `j`-glide, resulting in `ɪj` "fleece". Likewise, akin to the previous `o̞` "lot" vowel and the onset of the `o̞w` "goat" diphthong, the `uː` "goose" vowel breaks into the laxer `ʊ` "foot" vowel combined with the `w`-glide, resulting in `ʊw` "goose. -->
-`sɪmɪləli: tə ðə "dre̞s" væwəl ən ðɪj‿ɒnse̞t əv ðə "fe̞js" dɪfθɒŋ, ðə fli:s væwəl bre̞jks ɪntə ðə læksə "kɪt" væwəl kəmbɑjnd wɪð ðə "j"-glɑjd, rɪzɐltɪŋ ɪn "flɪjs". lɑjkwɑjz, əkɪn tə ðə pri:vɪjəs "lo̞t" væwəl ən ðə ɒnse̞t əv ðə "go̞wt" dɪfθɒŋ, ðə "gu:s" væwəl bre̞jks ɪntə ðe læksə "fʊt" væwəl kəmbɑjnd wɪð ðə "w"-glɑjd, rɪzɐltɪŋ ɪn "gʊws".`
+`sɪmɪləli: tə ðə "dre̞s" væwəl ən ðɪj‿ɒnse̞t əv ðə "fe̞js" dɪfθɒŋ, ðə fli:s væwəl bre̞jks ɪntə ðə læksə "kɪt" væwəl kəmbɑjnd wɪð ðə "j"-glɑjd, rɪzɐltɪŋ ɪn "flɪjs". lɑjkwɑjz, əkɪn tə ðə pri:vɪjəs "lo̞t" væwəl ən ðɪj‿ɒnse̞t əv ðə "go̞wt" dɪfθɒŋ, ðə "gu:s" væwəl bre̞jks ɪntə ðe læksə "fʊt" væwəl kəmbɑjnd wɪð ðə "w"-glɑjd, rɪzɐltɪŋ ɪn "gʊws".`
 
 <!--v-->
 
@@ -1347,7 +1347,7 @@ Notes:
 
 Notes:
 <!-- The onset of the `o̞w` "goat" vowel shifts to the centre of the vowel space, transitioning into a schwa, resulting in `əw` "goat". Similarly, the onset of the `ʊw` "goose" vowel, which is the `ʊ` "foot" vowel, also moves to the center of the vowel space, resulting in `ᵿw` "goose" and `ᵿ` "foot". -->
-`ðə ɒnse̞t əv ðə "go̞wt" væwəl ʃɪfts tə ðə se̞ntər‿əv ðə væwəl spe̞js, trænzɪʃənɪŋ ɪntʊw‿ə ʃwɑ, rɪzɐltɪŋ ɪn "gəwt". sɪmɪləli:, dɪj‿ɒnse̞t əv ðə "gʊws" væwəl, wɪtʃ iz ðə "fʊt" væwəl, o̞:lso̞w mu:vz tə ðə se̞ntər‿ɒv ðə væwəl spe̞js, rɪzɐltɪŋ ɪn "gᵿws" en "fᵿt".`
+`ðɪj‿ɒnse̞t əv ðə "go̞wt" væwəl ʃɪfts tə ðə se̞ntər‿əv ðə væwəl spe̞js, trænzɪʃənɪŋ ɪntʊw‿ə ʃwɑ:, rɪzɐltɪŋ ɪn "gəwt". sɪmɪləli:, dɪj‿ɒnse̞t əv ðə "gʊws" væwəl, wɪtʃ iz ðə "fʊt" væwəl, o̞:lso̞w mu:vz tə ðə se̞ntər‿ɒv ðə væwəl spe̞js, rɪzɐltɪŋ ɪn "gᵿws" ən "fᵿt".`
 
 <!--v-->
 
@@ -1504,7 +1504,7 @@ Notes:
 
 Notes:
 <!-- After stretching and squeezing our vowel space, let's add a little twist — a counterclockwise rotation. The `ɒ` "lot" vowel is raised to `ɔ` "lot", the `æ` "trap" vowel is lowered to `a` "trap", the `e̞` "dress" vowel is lowered to `ɛ` "dress", and the `ɪ` "kit" vowel drops to `e` "kit". -->
-`æftə stre̞tʃɪŋ ən skwi:zɪŋ æə væwəl spe̞js, le̞ts æd ə lɪtəl twɪst — ə kæwntəklɒkwɑjz ro̞wte̞jʃən. ðə "lɒt" væwəl ɪz re̞jzd tə "lɔt", ðə "træp" væwəl is lo̞wəd tə "trap", ðə "dre̞s" væwəl ɪz lo̞wəd tə "drɛs", ən ðə "kɪt" væwəl drɒps tə "kɪt".`
+`æftə stre̞tʃɪŋ ən skwi:zɪŋ æə væwəl spe̞js, le̞ts æd ə lɪtəl twɪst — ə kæwntəklɒkwɑjz ro̞wte̞jʃən. ðə "lɒt" væwəl ɪz re̞jzd tə "lɔt", ðə "træp" væwəl is lo̞wəd tə "trap", ðə "dre̞s" væwəl ɪz lo̞wəd tə "drɛs", ən ðə "kɪt" væwəl drɒps tə "ket".`
 
 <!--v-->
 
@@ -1632,8 +1632,8 @@ Notes:
 | | |
 
 Notes:
-<!-- Instead of lowering the `ɪ` "kit" vowel to `e` "kit", one can observe the `ᵿ` "foot" vowel being lowered to `ɵ` "foot" and the onset `ᵿ` of the `ᵿw` "goose" diphthong being raised to `ʉw` "goose". -->
-`ɪnste̞d əv lo̞wərɪŋ ðə "kɪt" væwəl tə "ket", wɐn kən əbzə:v ðə "fᵿt" væwəl bɪjɪŋ lo̞wəd tə "fɵt" en ðə ɒnse̞t "ᵿ" əv ðə "gᵿws" dɪfθɒŋ bɪjɪŋ re̞jzd tə "gʉws".`
+<!-- Instead of lowering the `ɪ` "kit" vowel to `e` "kit", one can observe the `ᵿ` "foot" vowel being lowered to `ɵ` "foot" and the `ᵿw` "goose" diphthong being raised to `ʉw` "goose". -->
+`ɪnste̞d əv lo̞wərɪŋ ðə "kɪt" væwəl tə "ket", wɐn kən əbzə:v ðə "fᵿt" væwəl bɪjɪŋ lo̞wəd tə "fɵt" ən ðə "gᵿws" dɪfθɒŋ bɪjɪŋ re̞jzd tə "gʉws".`
 
 <!--v-->
 
@@ -1654,8 +1654,8 @@ Notes:
 | |
 
 Notes:
-<!-- One can also observe the `ə` "comma" vowel merge with the `ɐ` "strut" vowel, resulting in `ɐ` "comma" and `ɐ` "letter". -->
-`wɐn kən o̞:lso̞w əbzə:v ðə "kɒmə" væwəl mə:dʒ wɪð ðə "strɐt" væwəl, rɪzɐltɪŋ ɪn "kɔmɐ" ən "lɛtɐ".`
+<!-- One can also observe the `ə` "comma" vowel merge with the `ɐ` "strut" vowel, resulting in `ɐ` "comma" - and `ɐ` "letter". -->
+`wɐn kən o̞:lso̞w əbzə:v ðə "kɔmə" væwəl mə:dʒ wɪð ðə "strɐt" væwəl, rɪzɐltɪŋ ɪn "kɔmɐ" - ən "lɛtɐ".`
 
 <!--v-->
 
@@ -1707,7 +1707,7 @@ Notes:
 
 Notes:
 <!-- The stressed schwa in `əː` "nurse" can be lowered and unrounded, resulting in `ɜː` "nurse". -->
-`ðə stre̞st ʃwɑ: ɪn "nə:s" kən bi: lo̞wəd ən ɐnræwndəd, rɪzɐltɪŋ ɪn "nɜ:s".`
+`ðə stre̞st ʃwɑ:‿r‿ɪn "nə:s" kən bi: lo̞wəd ən ɐnræwndəd, rɪzɐltɪŋ ɪn "nɜ:s".`
 
 <!--v-->
 
@@ -1765,8 +1765,8 @@ Notes:
 | |
 
 Notes:
-<!-- Before a vowel, the `i:` "fleece" and `u:` "goose" vowels are weakened to `ɪ` "kit" and `ʊ` "foot" vowels, resulting in, for example, `ɪ` "happier" and `ʊ` "valueable". -->
-`bɪfo̞:r‿ə væwəl, ðə "fli:s" ən "gu:s" væwəlz ə wi:kənd tə "kɪt" ən "fʊt" væwəlz, rɪzɐltɪŋ ɪn, fər‿ɪgzæmpəl, "hæpɪər"‿ən "væljʊəbəl".`
+<!-- Before a vowel, the `i:` "fleece" and `u:` "goose" vowels are weakened to `ɪ` "kit" and `ʊ` "foot" vowels, for example in `ɪ` "happier" - and `ʊ` "valueable". -->
+`bɪfo̞:r‿ə væwəl, ðə "fli:s" ən "gu:s" væwəlz ə wi:kənd tə "kɪt" ən "fʊt" væwəlz, fər‿ɪgzæmpəl ɪn "hæpɪə" - ən "væljʊəbəl".`
 
 <!--v-->
 
@@ -1821,8 +1821,8 @@ Notes:
 | |
 
 Notes:
-<!-- When we remove everthing after the "j"- and "w"-glides, we can reinterpret the resulting /ɪj/ in "happy" and /ʊw/ in "value" as examples of the breaking of the `iː` "fleece" and `uː` "goose" vowels into `ɪj` "fleece" and `ʊw` "goose". -->
-`we̞n wɪ rɪmu:v e̞vərɪθɪŋ æftə ðə "j"- ən "w"-glɑjdz, wɪ kən rɪjɪntə:prət ðə rɪzɐltɪŋ "ɪj" in "hæpɪj" en "ʊw" in "væljʊw" əz ɪgzæmpəlz əv ðə bre̞jkɪŋ əv ðə "fli:s" ən "gu:s" væwəlz ɪntə "flɪjs" ən "gʊws".`
+<!-- When we remove everthing after the "j"- and "w"-glides in "happier" and "valuable", we can reinterpret the resulting /ɪj/ in "happy" and /ʊw/ in "value" as examples of the breaking of the `iː` "fleece" and `uː` "goose" vowels into `ɪj` "fleece" and `ʊw` "goose". -->
+`we̞n wɪ rɪmu:v e̞vərɪθɪŋ æftə ðə "j"- ən "w"-glɑjdz TODO, wɪ kən rɪjɪntə:prət ðə rɪzɐltɪŋ "ɪj" in "hæpɪj" ən "ʊw" in "væljʊw" əz ɪgzæmpəlz əv ðə bre̞jkɪŋ əv ðə "fli:s" ən "gu:s" væwəlz ɪntə "flɪjs" ən "gʊws".`
 
 <!--v-->
 
@@ -1862,7 +1862,7 @@ Notes:
 
 Notes:
 To prevent this interpretation, one might be tempted to avoid linking glides altogether. In this case, they would be referred to as "intrusive" glides. Mind that this rather conservative pronunciation prevents the smoothing of the `ɪə` "near" and `ʊə` "cure" vowels to `ɪː` "near" and `ɔː` "cure". Moreover, `ɪə` "happier" and `ʊə` "valuable" are likely to be reinterpreted as derivations of `ɪ` "happy" and `ʊ` "value". (Side note: Ironically, not applying this hyperconservative laxing to `iː` "happy" and `uː` "value" is called "happy-tensing".)
-`tə prɪve̞nt ðɪs ɪntə:prəte̞jʃən, wɐn mɑjt bi: te̞mptəd tʊw‿əvo̞jd lɪŋkɪŋ glɑjdz o̞:ltəge̞ðə. ɪn ðɪs ke̞js, ðe̞j wəd bi: lɑjkli: tə bi: rɪfə:d tʊw‿əz "ɪntru:sɪv" glɑjdz. mɑjnd ðət ðɪs ræðə kənsə:vətiv prənɐnsɪje̞jʃən prɪve̞nts ðə smu:ðɪŋ əv ðə "nɪər"‿ən "kjʊə" væwəlz tə "nɪ:" ən "kjɔ:". mo̞:ro̞wvə, "hæpɪər"‿ən "valjʊəbləl" ə lɑjkli: tə bi: rɪjɪntə:prətəd əz de̞rɪve̞jʃənz əv "hæpɪ" ən "væljʊ". (sɑjd no̞wt: ɑjrɒnɪkəli:, nɒt əplɑjɪŋ ðɪs hɑjpəkənsə:vətɪv læksɪŋ tə "hæpi:" - ən "vælju:" - ɪz ko̞:ld "hæpi:-te̞nsɪŋ".)`
+`tə prɪve̞nt ðɪs ɪntə:prəte̞jʃən, wɐn mɑjt bi: te̞mptəd tʊw‿əvo̞jd lɪŋkɪŋ glɑjdz o̞:ltəge̞ðə. ɪn ðɪs ke̞js, ðe̞j wəd bi: rɪfə:d tʊw‿əz "ɪntru:sɪv" glɑjdz. mɑjnd ðət ðɪs ræðə kənsə:vətiv prənɐnsɪje̞jʃən prɪve̞nts ðə smu:ðɪŋ əv ðə "nɪər"‿ən "kjʊə" væwəlz tə "nɪ:" ən "kjɔ:". mo̞:ro̞wvə, "hæpɪər"‿ən "valjʊəbləl" ə lɑjkli: tə bi: rɪjɪntə:prətəd əz de̞rɪve̞jʃənz əv "hæpɪ" ən "væljʊ". (sɑjd no̞wt: ɑjrɒnɪkəli:, nɒt əplɑjɪŋ ðɪs hɑjpəkənsə:vətɪv læksɪŋ tə "hæpi:" - ən "vælju:" - ɪz ko̞:ld "hæpi:-te̞nsɪŋ".)`
 
 <!--v-->
 
@@ -1976,8 +1976,8 @@ To prevent this interpretation, one might be tempted to avoid linking glides alt
 | |
 
 Notes:
-To sound even more conservative, one can eliminate the glides in, for example, `e̞` "Monday" and `o̞` "follow", and even merge pseudo-weak /e̞/ and /o̞/ with the lax `ɪ` "kit" and `ʊ` "foot" vowels, resulting in `ɪ` "monday" or `e̞` "monday", as well as `ʊ` "follow" or `o̞` "follow". In an accent with counterclockwise rotation, `ʉ` "follow" or `ɵ` follow can also be pronounced with a `ɐ` "strut" vowel, resulting in `ɐ` "follow".
-`tə sæwnd i:vən mo̞: kənsə:vətɪv, wɐn kən ɪlɪmɪne̞jt ðə glɑjdz ɪn, fər‿ɪgzæmpəl, "mɐnde̞" ən "fɒlo̞", ən i:vən mə:dʒ su:do̞w-wi:k "e̞" ən "o̞" wɪð ðə læks "kɪt" ən "fʊt" væwəlz, rɪzɐltɪŋ ɪn "mɐndɪ" o̞: "mɐnde̞", əz we̞l əz "fɒlʊ" o̞: "fɒlo̞". ɪn ən ækse̞nt wɪð kæwntəklɒkwɑjz ro̞wte̞jʃən, "fɔlʉ" o̞: "fɔlɵ" kən o̞:lso̞w bi: prənæwnst wɪð ə "strɐt" væwəl, rɪzɐltɪŋ ɪn "fɔlɐ".`
+To sound even more conservative, one can eliminate the glides in, for example, `e̞` "Monday" and `o̞` "follow". Additionally, they can merge pseudo-weak /e̞/ and /o̞/ with the lax `ɪ` "kit" and `ʊ` "foot" vowels, resulting in `ɪ` "monday" or `e̞` "monday", as well as `ʊ` "follow" or `o̞` "follow". In an accent with counterclockwise rotation, `ʉ` "follow" or `ɵ` follow can (also) be pronounced with a `ɐ` "strut" vowel, resulting in `ɐ` "follow".
+`tə sæwnd i:vən mo̞: kənsə:vətɪv, wɐn kən ɪlɪmɪne̞jt ðə glɑjdz ɪn, fər‿ɪgzæmpəl, "mɐnde̞" ən "fɒlo̞". ədɪʃənəli:, ðe̞j kən mə:dʒ su:do̞w-wi:k "e̞" ən "o̞" wɪð ðə læks "kɪt" ən "fʊt" væwəlz, rɪzɐltɪŋ ɪn "mɐndɪ" o̞: "mɐnde̞", əz we̞l əz "fɒlʊ" o̞: "fɒlo̞". ɪn ən ækse̞nt wɪð kæwntəklɒkwɑjz ro̞wte̞jʃən, "fɔlʉ" o̞: "fɔlɵ" kən (o̞:lso̞w bi: prənæwnst wɪð ə "strɐt" væwəl, rɪzɐltɪŋ ɪn "fɔlɐ".`
 
 <!--v-->
 
