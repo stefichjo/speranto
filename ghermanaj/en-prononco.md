@@ -7,6 +7,7 @@ revealOptions:
   transition: 'fade'
   progress: false
   controls: false
+  slideNumber: false
 ---
 
 <!-- cd ~/Git/speranto/ghermanaj; reveal-md en-prononco.md -w -->
