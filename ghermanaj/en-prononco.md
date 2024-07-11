@@ -795,13 +795,6 @@ Notes:
 | `ə` ᴄᴏᴍᴍ**ᴀ** | `əɹ̠ʷ` ʟᴇᴛᴛ**ᴇʀ** |
 | | |
 
-<!--v-->
-
-| | |
-|-|-|
-| `ə` ᴄᴏᴍᴍ**ᴀ** | `əɹ̠ʷ` ʟᴇᴛᴛ**ᴇʀ** |
-| | |
-
 Notes:
 <!-- The unstressed ending of `ər` "letter" begins to sound exactly like the vowel in `əɹ̠ʷ` "nurse", resulting in `əɹ̠ʷ` "letter". -->
 `ðɪj‿ɐnstre̞st e̞ndɪŋ əv "lɛtər" bɪgɪnz tə sæwnd ɪgzæktli: lɑjk ðə væwəl ɪn "nəɹ̠ʷs", rɪzɐltɪŋ ɪn "lɛtəɹ̠ʷ".`
