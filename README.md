@@ -24,3 +24,4 @@ Pli detale, ***Linguo*** evoluis el ***Lingue***, kaj ***Lingue*** siaflanke evo
 | Fontolingvoj | | Pontolingvoj | | |
 |-:|-|:-:|-|:-|
 | [***Latinidaj***](latinidaj/README.md)<br> [***Ĝermanaj***](ghermanaj/README.md)<br> [***Slavaj***](slavaj/README.md) | ⇨ | [***Lingua***](lingua.md) ⇨ [***Lingue***](lingue.md) ⇨ [***Linguo***](linguo.md)<br> [***Sprak***](sprak.md) ⬀<br> [***Äzyk***](jazyk.md) ⬀ | ⇨ | [***Speranto***](linguo.md#slav-ĝermana) |
+
