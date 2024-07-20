@@ -259,6 +259,8 @@ Notes:
 
 > All human beings are born free and equal in dignity and rights. They are endowed with reason and conscience and should act towards one another in a spirit of brotherhood.
 
+<!--v-->
+
 <small>`o̞l hjumən biiŋz ər bo̞rn fri ən ikwəl`<br>`in digniti ən rɐjts.`<br>`ðe̞ ər indɐwd wið rizən ən ko̞nʃəns`<br>`ən ʃud ɐkt təwo̞rdz wɐn ənɐðər`<br>`in ɐ spirit əv brɐðərhud.`</small>
 
 Notes:
@@ -508,6 +510,8 @@ Notes:
 <!--v-->
 
 > All human beings are born free and equal in dignity and rights. They are endowed with reason and conscience and should act towards one another in a spirit of brotherhood.
+
+<!--v-->
 
 <small>`ɔːl hjuːmən biːɪŋz ər bɔrn friː ən iːkwəl`<br>`ɪn dɪgnɪtiː ən raɪts.`<br>`ðeɪ ər ɪndaʊd wɪð riːzən ən kɔnʃəns`<br>`ən ʃʊd akt təwɔrdz wɐn ənɐðər`<br>`ɪn ə spɪrɪt əv brɐðərhʊd.`</small>
 
@@ -803,6 +807,8 @@ Notes:
 
 > All human beings are born free and equal in dignity and rights. They are endowed with reason and conscience and should act towards one another in a spirit of brotherhood.
 
+<!--v-->
+
 <small>`ɔːl hjuːmən biːɪŋz əɹ̠ʷ bɔɹ̠ʷn fɹ̠ʷiː ən iːkwəl`<br>`ɪn dɪgnətiː ən ɹ̠ʷaɪts.`<br>`ðeɪ əɹ̠ʷ ɪndaʊd wɪð ɹ̠ʷiːzən ən kɔnʃəns`<br>`ən ʃʊd akt təwɔɹ̠ʷdz wɐn ənɐðəɹ̠ʷ`<br>`ɪn ə spɪɹ̠ʷɪt əv bɹ̠ʷɐðəɹ̠ʷhʊd.`</small>
 
 Notes:
@@ -1028,6 +1034,8 @@ Notes:
 
 > All human beings are born free and equal in dignity and rights. They are endowed with reason and conscience and should act towards one another in a spirit of brotherhood.
 
+<!--v-->
+
 <small>`ɔːl hjuːmən biːɪŋz ə bɔːn fɹ̠ʷiː ən iːkwəl`<br>`ɪn dɪgnɪtiː ən ɹ̠ʷaɪts.`<br>`ðeɪ əɹ̠ʷ‿ɪndaʊd wɪð ɹ̠ʷiːzən ən kɔnʃəns`<br>`ən ʃʊd akt təwɔːdz wɐn ənɐðəɹ̠ʷ‿ɪn`<br>`ə spɪɹ̠ʷɪt əv bɹ̠ʷɐðəhʊd.`</small>
 
 Notes:
@@ -1132,6 +1140,8 @@ Notes:
 <!--v-->
 
 > All human beings are born free and equal in dignity and rights. They are endowed with reason and conscience and should act towards one another in a spirit of brotherhood.
+
+<!--v-->
 
 <small>`o̞ːl hjuːmən biːɪŋz ə bo̞ːn fɹ̠ʷiː ən iːkwəl`<br>`ɪn dɪgnɪtiː ən ɹ̠ʷajts.`<br>`ðe̞j əɹ̠ʷ‿ɪndawd wɪð ɹ̠ʷiːzən ən ko̞nʃəns`<br>`ən ʃʊd akt təwo̞ːdz wɐn ənɐðəɹ̠ʷ‿ɪn`<br>`ə spɪɹ̠ʷɪt əv bɹ̠ʷɐðəhʊd.`</small>
 
@@ -1298,6 +1308,8 @@ Notes:
 
 > All human beings are born free and equal in dignity and rights. They are endowed with reason and conscience and should act towards one another in a spirit of brotherhood.
 
+<!--v-->
+
 <small>`o̞ːl hjuːmən biːɪŋz ə bo̞ːn fɹ̠ʷiː ən iːkwəl`<br>`ɪn dɪgnɪtiː ən ɹ̠ʷɑjts.`<br>`ðe̞j əɹ̠ʷ‿ɪndæwd wɪð ɹ̠ʷiːzən ən kɒnʃəns`<br>`ən ʃʊd ækt təwo̞ːdz wɐn ənɐðəɹ̠ʷ‿ɪn`<br>`ə spɪɹ̠ʷɪt əv bɹ̠ʷɐðəhʊd.`</small>
 
 Notes:
@@ -1414,6 +1426,8 @@ Notes:
 <!--v-->
 
 > All human beings are born free and equal in dignity and rights. They are endowed with reason and conscience and should act towards one another in a spirit of brotherhood.
+
+<!--v-->
 
 <small>`o̞ːl hj`~~`ʊ`~~`wmən bɪjɪŋz ə bo̞ːn fɹ̠ʷɪj ən ɪjkwəl`<br>`ɪn dɪgnɪtɪj ən ɹ̠ʷɑjts.`<br>`ðe̞j əɹ̠ʷ‿ɪndæwd wɪð ɹ̠ʷɪjzən ən kɒnʃəns`<br>`ən ʃ`~~`ʊ`~~`d ækt təwo̞ːdz wɐn ənɐðəɹ̠ʷ‿ɪn`<br>`ə spɪɹ̠ʷɪt əv bɹ̠ʷɐðəh`~~`ʊ`~~`d.`</small>
 
@@ -1587,6 +1601,8 @@ Notes:
 <!--v-->
 
 > All human beings are born free and equal in dignity and rights. They are endowed with reason and conscience and should act towards one another in a spirit of brotherhood.
+
+<!--v-->
 
 <small>`oːl hj`~~`ʊ`~~`wmən bejeŋz ə boːn fɹ̠ʷej ən ejkwəl`<br>`en degnetej ən ɹ̠ʷɑjts.`<br>`ðɛj əɹ̠ʷ‿endawd weð ɹ̠ʷejzən ən kɔnʃəns`<br>`ən ʃ`~~`ʊ`~~`d akt təwoːdz wɐn ənɐðəɹ̠ʷ‿ɪn`<br>`ə speɹ̠ʷet əv bɹ̠ʷɐðəh`~~`ʊ`~~`d.`</small>
 
