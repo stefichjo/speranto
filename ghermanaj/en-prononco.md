@@ -1751,6 +1751,8 @@ Notes:
 
 > All human beings are born free and equal in dignity and rights. They are endowed with reason and conscience and should act towards one another in a spirit of brotherhood.
 
+<!--v-->
+
 <small>`oːl hjʉwmən bɪjɪŋz ə boːn fɹ̠ʷɪj ən ɪjkwəl`<br>`ɪn dɪgnɪtɪj ən ɹ̠ʷɑjts.`<br>`ðɛj əɹ̠ʷ‿ɪndawd wɪð ɹ̠ʷɪjzən ən kɔnʃəns`<br>`ən ʃɵd akt təwoːdz wɐn ənɐðɐɹ̠ʷ‿ɪn`<br>`ə spɪɹ̠ʷɪt əv bɹ̠ʷɐðɐhɵd.`</small>
 
 Notes:
