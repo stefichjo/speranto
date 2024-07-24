@@ -144,6 +144,26 @@ Note:
 
 > Se ni eĉ supozos, ke<br> la fina lingvo de la estontaj<br> generacioj estas ne Esperanto, en<br> ĉia okazo la vojo al tiu<br> ellaborota lingvo nepre<br> devas konduki tra Esperanto.
 
+<!--v-->
+
+| Esperanto |
+|-|
+| Se ni eĉ supozos |
+| ke la fina lingvo |
+| de la |
+| estontaj generacioj |
+| estas ne Esperanto |
+
+<!--v-->
+
+| Esperanto |
+|-|
+| en ĉiu okazo |
+| la vojo al tiu |
+| ellaborota lingvo |
+| nepre devas |
+| konduki tra Esperanto |
+
 <!--s-->
 
 ## Aglutina Fazo:<br> **Speranto**
