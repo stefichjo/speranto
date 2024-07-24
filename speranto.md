@@ -166,6 +166,47 @@ Note:
 | nepre devas |
 | konduki tra Esperanto |
 
+<!--v-->
+
+### Substantivoj
+
+<!--v-->
+
+### Adjektivoj
+
+<!--v-->
+
+### Adverboj
+
+<!--v-->
+
+### Numeraloj
+
+<!--v-->
+
+### Tabelvortoj
+
+<!--v-->
+
+### Artikoloj
+
+<!--v-->
+
+### Pronomoj
+
+<!--v-->
+
+### Verboj
+
+<!--v-->
+
+### Prepozicioj
+
+<!--v-->
+
+### Konjunkcioj
+
+
 <!--s-->
 
 ## Aglutina:<br> **Speranto**
