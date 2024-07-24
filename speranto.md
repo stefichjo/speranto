@@ -68,7 +68,7 @@ Note:
 
 <!--v-->
 
-##### Aglutina Fazo
+##### Aglutina Dialektaro
 ###### **Esperanto**
 ###### **Speranto**
 ###### **Peranto**
@@ -89,7 +89,7 @@ Note:
 
 <!--v-->
 
-##### Intera Fazo
+##### Intera Dialektaro
 ###### **Linguo**
 ###### **Lingue**
 ###### **Lingua**
@@ -106,7 +106,7 @@ Note:
 
 <!--v-->
 
-##### Fleksia Fazo
+##### Fleksia Dialektaro
 ###### **Meridionál**
 ###### **Intermediaria**
 ###### **Classĭca**
@@ -140,7 +140,7 @@ Note:
 
 <!--s-->
 
-## Aglutina Fazo:<br> **Esperanto**
+## Aglutina:<br> **Esperanto**
 
 <!--v-->
 
@@ -168,7 +168,7 @@ Note:
 
 <!--s-->
 
-## Aglutina Fazo:<br> **Speranto**
+## Aglutina:<br> **Speranto**
 
 <!--v-->
 
@@ -674,7 +674,7 @@ Note:
 
 <!--s-->
 
-## Aglutina Fazo:<br> **Peranto**
+## Aglutina:<br> **Peranto**
 
 <!--v-->
 
@@ -829,7 +829,7 @@ Note:
 
 <!--s-->
 
-## Intera Fazo:<br> **Linguo**
+## Intera:<br> **Linguo**
 
 <!--v-->
 
@@ -1269,7 +1269,7 @@ Tra bruo, la prepozicio **a** uziĝas por la indiki la rektan objekton. (Tiam uz
 
 <!--s-->
 
-## Intera Fazo:<br> **Lingue**
+## Intera:<br> **Lingue**
 
 <!--v-->
 
@@ -1406,7 +1406,7 @@ Tra bruo, la prepozicio **a** uziĝas por la indiki la rektan objekton. (Tiam uz
 
 <!--s-->
 
-## Intera Fazo:<br> **Lingua**
+## Intera:<br> **Lingua**
 
 <!--v-->
 
@@ -1860,7 +1860,7 @@ La grekismaj ŝajnfinaĵoj **-i**, **-ia** *[ia]*, **-a**, **-e** havas signifoj
 
 <!--s-->
 
-## Fleksia Fazo:<br> **Meridionál**
+## Fleksia:<br> **Meridionál**
 
 <!--v-->
 
@@ -2129,7 +2129,7 @@ La grekismaj ŝajnfinaĵoj **-i**, **-ia** *[ia]*, **-a**, **-e** havas signifoj
 
 <!--s-->
 
-## Fleksia Fazo:<br> **Intermediaria**
+## Fleksia:<br> **Intermediaria**
 
 <!--v-->
 
@@ -2735,7 +2735,7 @@ Por la perfektaj formoj de **îr** uziĝas la verbo **sêr**.
 
 <!--s-->
 
-## Fleksia Fazo:<br> **Classĭca**
+## Fleksia:<br> **Classĭca**
 
 <!--v-->
 
