@@ -107,19 +107,19 @@ Note:
 <!--v-->
 
 ##### Fleksia Dialektaro
-###### **Meridionál**
 ###### **Intermediaria**
 ###### **Classĭca**
+###### **Meridionál**
 
 <!--v-->
 
-<small>**Meridionál**, **Intermediaria** kaj **Classĭca** havas nov-latinidan, latinidan respektive latinan prononcojn. (**Meridionál** kaj **Intermediaria** havas diferencojn nur en la prononco.) Ili havas konjugacion kaj tial ili estas tre similaj al latinidaj naciaj lingvoj, respektive al la latina.</small>
+<small>**Intermediaria**, **Classĭca** kaj **Meridionál** havas latinidan, latinan respektive nov-latinidan prononcojn. (**Intermediaria** kaj **Meridionál** havas diferencojn nur en la prononco.) Ili havas konjugacion kaj tial ili estas tre similaj al latinidaj naciaj lingvoj, respektive al la latina.</small>
 
 <!--v-->
 
-| Meridionál | Intermediaria | Classĭca |
+| Intermediaria | Classĭca | Meridionál |
 |-|-|-|
-| **hêmos** *[emos]* | **hêmos** *[hemos]* | **habemus** *[habemus]* |
+| **hêmos** *[hemos]* | **habemus** *[habemus]* | **hêmos** *[emos]* |
 
 <!--v-->
 
@@ -2014,275 +2014,6 @@ La grekismaj ŝajnfinaĵoj **-i**, **-ia** *[ia]*, **-a**, **-e** havas signifoj
 
 <!--s-->
 
-## Fleksia:<br> **Meridionál**
-
-<!--v-->
-
-> **Si nos etja supporêmos, qŭe<br> la lingua finál de las futuras<br> generationes sîa nôn Sperante, in<br> omna occasión la via ad illi<br> lingua elavorenda infallivilmente<br> deve condûr trans Sperante.**
-
-<!--v-->
-
-> [Si nos eĉa suporemos, ke<br> la liŋgŭa finaŭ' de las futuras<br> ĵenerasjones sia non Sperante, in<br> omna okazjon' la via ad ili<br> liŋgŭa elavorenda infaliviŭmente<br> deve konduĥ' trans Sperante.]
-
-<!--v-->
-
-| Esperanto | Meridionál |
-|-|-|
-| Se ni eĉ supozos | **Si nos etja supporêmos**<br> *[Si nos eĉa suporemos]* |
-| ke la fina lingvo | **qŭe la lingua finál**<br> *[ke la liŋgŭa finaŭ']* |
-| de la | **de las**<br> *[de las]* |
-| estontaj generacioj | **futuras generationes**<br> *[futuras ĵenerasjones]* |
-| estas ne Esperanto | **sîa nôn Sperante**<br> *[sia non Sperante]* |
-
-<!--v-->
-
-| Esperanto | Meridionál |
-|-|-|
-| en ĉiu okazo | **in omna occasión**<br> *[in omna okazjon']* |
-| la vojo al tiu | **la via ad illi**<br> *[la via ad ili]* |
-| ellaborota lingvo | **lingua elavorenda**<br> *[liŋgŭa elavorenda]* |
-| nepre devas | **infallivilmente deve**<br> *[infaliviŭmente deve]* |
-| konduki tra Esperanto | **condûr trans S-e**<br> *[konduĥ' trans Sperante]* |
-
-<!--v-->
-
-### Prononco
-
-<!--v-->
-
-<small>Vortofina **e** eliziiĝas post **r**, **l**, **n** aŭ **t**. Radikofina **t** ĉiam **d**, krom en fremdaj vortoj.</small>
-
-<!--v-->
-
-| Esperanto | Meridionál |
-|-|-|
-| fino | **fîn** |
-| koro | **côr** |
-| maro | **mâr** |
-| pano | **pân** |
-| reto | **rêd** |
-
-<!--v-->
-
-| Esperanto | Meridionál |
-|-|-|
-| sen | **sîn** |
-| | |
-| tuta | **toda** |
-
-<!--v-->
-
-<small>**h** estas muta.</small>
-
-<!--v-->
-
-| Esperanto | Meridionál |
-|-|-|
-| horo | **hora** *[ora]* |
-
-<!--v-->
-
-<small>**r** kaj **l** prononciĝas (softa) *[ĥ]* respektive *[ŭ]* fine de la vorto aŭ antaŭ konsonanto.</small>
-
-<!--v-->
-
-| Esperanto | Meridionál |
-|-|-|
-| universala | **universál** *[univeĥsaŭ']* |
-| universalaj | **universales** *[univeĥsales]* |
-| | |
-| alia | **altra** *[aŭtra]* |
-| | |
-| suno | **sôl** *[soŭ]* |
-
-<!--v-->
-
-<small>**j** prononciĝas *[ĵ]*. Same, ne-akcentataj **e** kaj **i** asimiliĝas al *[ĵ]*, respektive al *[ŝ]* post senvoĉa **s**.</small>
-
-<!--v-->
-
-| Esperanto | Meridionál |
-|-|-|
-| jam | **ja** *[ĵa]* |
-| | |
-| kaĝo | **cavea** *[kaĵa]* |
-
-<!--v-->
-
-| Esperanto | Meridionál |
-|-|-|
-| ĉemizo | **camisia** *[kamiŝa]* |
-| kisi | **basiár** *[baŝaĥ']* |
-| | |
-| negoci | **negotiár** *[negosjaĥ']* |
-
-<!--v-->
-
-<small>**di** kaj **ti** prononciĝas *[dĵi = ĝi]* kaj *[tŝi = ĉi]*. Antaŭ vokalo, ne-akcentata **i** ne prononciĝas.</small>
-
-<!--v-->
-
-| Esperanto | Meridionál |
-|-|-|
-| tago | **dia** *[dĵia = ĝia]* |
-| onklo | **tio** *[tŝio = ĉio]* |
-| | |
-| seĝo | **sedia** *[sedĵa = seĝa]* |
-| eĉ | **etja** *[etŝa = eĉa]* |
-
-<!--v-->
-
-<small>**au** monoftongiĝas al *[o]*.</small>
-
-<!--v-->
-
-| Esperanto | Meridionál |
-|-|-|
-| aŭ | **au** *[o]* |
-| | |
-| afero | **causa** *[koza]* |
-| oro | **auro** *[oro]* |
-| | |
-| li amintas | **amáu** *[amo']* |
-
-<!--v-->
-
-<small>**gn** prononciĝas *[ṅ]*.</small>
-
-<!--v-->
-
-| Esperanto | Meridionál |
-|-|-|
-| regno | **regno** *[reṅo]* <small>*[reŋno]*</small> |
-
-<!--v-->
-
-<small>Ne-akcentata **i** asimiliĝas al *[ḷ]* malantaŭ **l**.</small>
-
-<!--v-->
-
-| Esperanto | Meridionál |
-|-|-|
-| ajlo | **alio** *[aḷo]* <small>*[ali-o]*</small> |
-| oleo | **oleo** *[ole-o]* |
-
-<!--v-->
-
-<small>Ne-akcentataj **e** kaj **i** asimiliĝas al *[ṅ]* malantaŭ **n**.</small>
-
-<!--v-->
-
-| Esperanto | Meridionál |
-|-|-|
-| bezono | **besonio** *[bezoṅo]* <small>*[bezoni-o]*<small> |
-| stranga | **extranea** *[estraṅa]* <small>*[ekstrane-a]*</small> |
-
-<!--v-->
-
-#### Elizioj
-
-<!--v-->
-
-| Esperanto | Meridionál |
-|-|-|
-| letero | **lîtra** *[litra]* <small>**littĕra** *[lite-ra]*</small> |
-
-<!--v-->
-
-| Esperanto | Meridionál |
-|-|-|
-| cindro | **cîndre** *[sindre]* <small>**cinĕre** *[cine-re]*</small> |
-| tenera | **têndra** *[tendra]* <small>**tenĕra** *[tene-ra]*</small> |
-
-<!--v-->
-
-| Esperanto | Meridionál |
-|-|-|
-| ĉambro | **câmbra** *[kambra]* <small>**camĕra** *[kame-ra]*</small> |
-| | |
-| verko | **ôbra** *[obra]* <small>**opĕra** *[ope-ra]*</small> |
-| | |
-| libera | **lîvra** *[livra]* <small>**libĕra** *[libe-ra]*</small> |
-
-<!--v-->
-
-| Esperanto | Meridionál |
-|-|-|
-| kovras | **côbre** *[kobre]* <small>**coŏpere** *[koopere]*</small> |
-| malfermas | **âbre** *[abre]* <small>**apere** *[apere]*</small> |
-
-<!--v-->
-
-| Esperanto | Meridionál |
-|-|-|
-| makulo | **mâcla** *[makla]* <small>**macŭla** *[maku-la]*</small> |
-| nebulo | **nêblo** *[neblo]* <small>**nebŭla** *[nebu-la]*</small> |
-| obstaklo | **obstâclo** *[obstaklo]* <small>**obstacŭlo** *[obstaku-lo]*</small> |
-| okulo | **ôclo** *[oklo]* <small>**ocŭlo** *[oku-lo]*</small> |
-| spektaklo | **spectâclo** *[spektaklo]* <small>**spectacŭlo** *[spektaku-lo]*</small> |
-
-<!--v-->
-
-<small>Tiam **mŭl**, **pŭl** kaj **tŭl** fariĝas **mbl**, **bl** kaj **tr**: **popŭlo** → **pôblo**, **simŭla** → **sîmbla**, **titŭlo** → **tîtro**.
-
-<!--v-->
-
-| Esperanto | Meridionál |
-|-|-|
-| ŝajnas | **sîmbla** *[simbla]* <small>**simŭla** *[simu-la]*</small> |
-| simulas | **simŭla** *[simu-la]* |
-| | |
-| popolo | **pôblo** *[poblo]* <small>**popŭlo** *[popu-lo]*</small> |
-| povra | **pâubra** *[pobra]* <small>**paupĕra** *[pope-ra]*</small> |
-| | |
-| ĉapitro | **capîtro** *[kapitro]* <small>**capitŭlo** *[kapitu-lo]*</small> |
-| titolo | **tîtro** *[titro]* <small>**titŭlo** *[titu-lo]*</small> |
-| maljuna | **vêtra** *[vetra]* <small>**vetŭla** *[vetu-la]*</small> |
-
-<!--v-->
-
-| Esperanto | Meridionál |
-|-|-|
-| insulo | **îsla** *[isla]* <small>**insŭla** *[insu-la]*</small> |
-| izolas | **insŭla** *[insu-la]* |
-| | |
-| regulo | **rêgla** *[regla]* <small>**regŭla** *[regu-la]*</small> |
-| reguligas | **regŭla** *[regu-la]* |
-
-<!--v-->
-
-<small>Radikofina **b** fariĝas **v** ankaŭ antaŭ la ŝajnfinaĵo **-il**. Kombine kun la ŝajnfinaĵo **-idád**, la **b** konserviĝas.</small>
-
-<!--v-->
-
-| Esperanto | Meridionál |
-|-|-|
-| movebla | **môvil** *[moviŭ]* |
-| movebleco | **mobilidád** *[mobilidad']* |
-| | |
-| probabla | **provâvil** *[provaviŭ]* |
-| probableco | **probabilidád** *[probabilidad']* |
-| | |
-| stabila | **stâvil** *[staviŭ]* |
-| stabileco | **stabilidád** *[stabilidad']* |
-
-<!--v-->
-
-<small>Kelkaj infinitivoj je **-ér** mallongiĝas.</small>
-
-<!--v-->
-
-| Esperanto | Meridionál |
-|-|-|
-| diri | **dîr** <small>**dicér**</small> |
-| konduki | **dûr** <small>**ducér**</small> |
-| legi | **lêr** <small>**legér**</small> |
-| meti | **pôr** <small>**ponér**</small> |
-| teni | **têr** <small>**tenér**</small> |
-| tiri | **trâr** <small>**trahér**</small> |
-
-<!--s-->
-
 ## Fleksia:<br> **Intermediaria**
 
 <!--v-->
@@ -2352,10 +2083,6 @@ La grekismaj ŝajnfinaĵoj **-i**, **-ia** *[ia]*, **-a**, **-e** havas signifoj
 
 <!--v-->
 
-<small>Elizioj de **Meridionál** ne okazas en **Intermediara**. Tamen, **Intermediara** havas eliziojn. (Tiuj elizioj okazas ankaŭ en **Meridionál**.)</small>
-
-<!--v-->
-
 | Esperanto | Intermediaria |
 |-|-|
 | pinto, punto | **pûnto** <small>**punc̆to**</small> |
@@ -2419,7 +2146,7 @@ La grekismaj ŝajnfinaĵoj **-i**, **-ia** *[ia]*, **-a**, **-e** havas signifoj
 
 <!--v-->
 
-| Esperanto | Meridionál |
+| Esperanto | Intermediaria |
 |-|-|
 | movebla | **môbil** *[mobil]* |
 | probabla | **probâbil** *[probabil]* |
@@ -3614,6 +3341,279 @@ Duoblaj vokaloj en finaĵoj estas skribataj kun makrono.
 |-|-|
 | aŭ | **aut** |
 | kaj | **et** |
+
+<!--s-->
+
+## Fleksia:<br> **Meridionál**
+
+<!--v-->
+
+> **Si nos etja supporêmos, qŭe<br> la lingua finál de las futuras<br> generationes sîa nôn Sperante, in<br> omna occasión la via ad illi<br> lingua elavorenda infallivilmente<br> deve condûr trans Sperante.**
+
+<!--v-->
+
+> [Si nos eĉa suporemos, ke<br> la liŋgŭa finaŭ' de las futuras<br> ĵenerasjones sia non Sperante, in<br> omna okazjon' la via ad ili<br> liŋgŭa elavorenda infaliviŭmente<br> deve konduĥ' trans Sperante.]
+
+<!--v-->
+
+| Esperanto | Meridionál |
+|-|-|
+| Se ni eĉ supozos | **Si nos etja supporêmos**<br> *[Si nos eĉa suporemos]* |
+| ke la fina lingvo | **qŭe la lingua finál**<br> *[ke la liŋgŭa finaŭ']* |
+| de la | **de las**<br> *[de las]* |
+| estontaj generacioj | **futuras generationes**<br> *[futuras ĵenerasjones]* |
+| estas ne Esperanto | **sîa nôn Sperante**<br> *[sia non Sperante]* |
+
+<!--v-->
+
+| Esperanto | Meridionál |
+|-|-|
+| en ĉiu okazo | **in omna occasión**<br> *[in omna okazjon']* |
+| la vojo al tiu | **la via ad illi**<br> *[la via ad ili]* |
+| ellaborota lingvo | **lingua elavorenda**<br> *[liŋgŭa elavorenda]* |
+| nepre devas | **infallivilmente deve**<br> *[infaliviŭmente deve]* |
+| konduki tra Esperanto | **condûr trans S-e**<br> *[konduĥ' trans Sperante]* |
+
+<!--v-->
+
+### Prononco
+
+<!--v-->
+
+<small>Vortofina **e** eliziiĝas post **r**, **l**, **n** aŭ **t**. Radikofina **t** ĉiam **d**, krom en fremdaj vortoj.</small>
+
+<!--v-->
+
+| Esperanto | Meridionál |
+|-|-|
+| fino | **fîn** |
+| koro | **côr** |
+| maro | **mâr** |
+| pano | **pân** |
+| reto | **rêd** |
+
+<!--v-->
+
+| Esperanto | Meridionál |
+|-|-|
+| sen | **sîn** |
+| | |
+| tuta | **toda** |
+
+<!--v-->
+
+<small>**h** estas muta.</small>
+
+<!--v-->
+
+| Esperanto | Meridionál |
+|-|-|
+| horo | **hora** *[ora]* |
+
+<!--v-->
+
+<small>**r** kaj **l** prononciĝas (softa) *[ĥ]* respektive *[ŭ]* fine de la vorto aŭ antaŭ konsonanto.</small>
+
+<!--v-->
+
+| Esperanto | Meridionál |
+|-|-|
+| universala | **universál** *[univeĥsaŭ']* |
+| universalaj | **universales** *[univeĥsales]* |
+| | |
+| alia | **altra** *[aŭtra]* |
+| | |
+| suno | **sôl** *[soŭ]* |
+
+<!--v-->
+
+<small>**j** prononciĝas *[ĵ]*. Same, ne-akcentataj **e** kaj **i** asimiliĝas al *[ĵ]*, respektive al *[ŝ]* post senvoĉa **s**.</small>
+
+<!--v-->
+
+| Esperanto | Meridionál |
+|-|-|
+| jam | **ja** *[ĵa]* |
+| | |
+| kaĝo | **cavea** *[kaĵa]* |
+
+<!--v-->
+
+| Esperanto | Meridionál |
+|-|-|
+| ĉemizo | **camisia** *[kamiŝa]* |
+| kisi | **basiár** *[baŝaĥ']* |
+| | |
+| negoci | **negotiár** *[negosjaĥ']* |
+
+<!--v-->
+
+<small>**di** kaj **ti** prononciĝas *[dĵi = ĝi]* kaj *[tŝi = ĉi]*. Antaŭ vokalo, ne-akcentata **i** ne prononciĝas.</small>
+
+<!--v-->
+
+| Esperanto | Meridionál |
+|-|-|
+| tago | **dia** *[dĵia = ĝia]* |
+| onklo | **tio** *[tŝio = ĉio]* |
+| | |
+| seĝo | **sedia** *[sedĵa = seĝa]* |
+| eĉ | **etja** *[etŝa = eĉa]* |
+
+<!--v-->
+
+<small>**au** monoftongiĝas al *[o]*.</small>
+
+<!--v-->
+
+| Esperanto | Meridionál |
+|-|-|
+| aŭ | **au** *[o]* |
+| | |
+| afero | **causa** *[koza]* |
+| oro | **auro** *[oro]* |
+| | |
+| li amintas | **amáu** *[amo']* |
+
+<!--v-->
+
+<small>**gn** prononciĝas *[ṅ]*.</small>
+
+<!--v-->
+
+| Esperanto | Meridionál |
+|-|-|
+| regno | **regno** *[reṅo]* <small>*[reŋno]*</small> |
+
+<!--v-->
+
+<small>Ne-akcentata **i** asimiliĝas al *[ḷ]* malantaŭ **l**.</small>
+
+<!--v-->
+
+| Esperanto | Meridionál |
+|-|-|
+| ajlo | **alio** *[aḷo]* <small>*[ali-o]*</small> |
+| oleo | **oleo** *[ole-o]* |
+
+<!--v-->
+
+<small>Ne-akcentataj **e** kaj **i** asimiliĝas al *[ṅ]* malantaŭ **n**.</small>
+
+<!--v-->
+
+| Esperanto | Meridionál |
+|-|-|
+| bezono | **besonio** *[bezoṅo]* <small>*[bezoni-o]*<small> |
+| stranga | **extranea** *[estraṅa]* <small>*[ekstrane-a]*</small> |
+
+<!--v-->
+
+#### Elizioj
+
+<!--v-->
+
+<small>**Meridionál** havas pli da elizioj ol **Intermediaria**.</small>
+
+<!--v-->
+
+| Esperanto | Meridionál |
+|-|-|
+| letero | **lîtra** *[litra]* <small>**littĕra** *[lite-ra]*</small> |
+
+<!--v-->
+
+| Esperanto | Meridionál |
+|-|-|
+| cindro | **cîndre** *[sindre]* <small>**cinĕre** *[cine-re]*</small> |
+| tenera | **têndra** *[tendra]* <small>**tenĕra** *[tene-ra]*</small> |
+
+<!--v-->
+
+| Esperanto | Meridionál |
+|-|-|
+| ĉambro | **câmbra** *[kambra]* <small>**camĕra** *[kame-ra]*</small> |
+| | |
+| verko | **ôbra** *[obra]* <small>**opĕra** *[ope-ra]*</small> |
+| | |
+| libera | **lîvra** *[livra]* <small>**libĕra** *[libe-ra]*</small> |
+
+<!--v-->
+
+| Esperanto | Meridionál |
+|-|-|
+| kovras | **côbre** *[kobre]* <small>**coŏpere** *[koopere]*</small> |
+| malfermas | **âbre** *[abre]* <small>**apere** *[apere]*</small> |
+
+<!--v-->
+
+| Esperanto | Meridionál |
+|-|-|
+| makulo | **mâcla** *[makla]* <small>**macŭla** *[maku-la]*</small> |
+| nebulo | **nêblo** *[neblo]* <small>**nebŭla** *[nebu-la]*</small> |
+| obstaklo | **obstâclo** *[obstaklo]* <small>**obstacŭlo** *[obstaku-lo]*</small> |
+| okulo | **ôclo** *[oklo]* <small>**ocŭlo** *[oku-lo]*</small> |
+| spektaklo | **spectâclo** *[spektaklo]* <small>**spectacŭlo** *[spektaku-lo]*</small> |
+
+<!--v-->
+
+<small>Tiam **mŭl**, **pŭl** kaj **tŭl** fariĝas **mbl**, **bl** kaj **tr**: **popŭlo** → **pôblo**, **simŭla** → **sîmbla**, **titŭlo** → **tîtro**.
+
+<!--v-->
+
+| Esperanto | Meridionál |
+|-|-|
+| ŝajnas | **sîmbla** *[simbla]* <small>**simŭla** *[simu-la]*</small> |
+| simulas | **simŭla** *[simu-la]* |
+| | |
+| popolo | **pôblo** *[poblo]* <small>**popŭlo** *[popu-lo]*</small> |
+| povra | **pâubra** *[pobra]* <small>**paupĕra** *[pope-ra]*</small> |
+| | |
+| ĉapitro | **capîtro** *[kapitro]* <small>**capitŭlo** *[kapitu-lo]*</small> |
+| titolo | **tîtro** *[titro]* <small>**titŭlo** *[titu-lo]*</small> |
+| maljuna | **vêtra** *[vetra]* <small>**vetŭla** *[vetu-la]*</small> |
+
+<!--v-->
+
+| Esperanto | Meridionál |
+|-|-|
+| insulo | **îsla** *[isla]* <small>**insŭla** *[insu-la]*</small> |
+| izolas | **insŭla** *[insu-la]* |
+| | |
+| regulo | **rêgla** *[regla]* <small>**regŭla** *[regu-la]*</small> |
+| reguligas | **regŭla** *[regu-la]* |
+
+<!--v-->
+
+<small>Radikofina **b** fariĝas **v** ankaŭ antaŭ la ŝajnfinaĵo **-il**. Kombine kun la ŝajnfinaĵo **-idád**, la **b** konserviĝas.</small>
+
+<!--v-->
+
+| Esperanto | Meridionál |
+|-|-|
+| movebla | **môvil** *[moviŭ]* |
+| movebleco | **mobilidád** *[mobilidad']* |
+| | |
+| probabla | **provâvil** *[provaviŭ]* |
+| probableco | **probabilidád** *[probabilidad']* |
+| | |
+| stabila | **stâvil** *[staviŭ]* |
+| stabileco | **stabilidád** *[stabilidad']* |
+
+<!--v-->
+
+<small>Kelkaj infinitivoj je **-ér** mallongiĝas.</small>
+
+<!--v-->
+
+| Esperanto | Meridionál |
+|-|-|
+| diri | **dîr** <small>**dicér**</small> |
+| konduki | **dûr** <small>**ducér**</small> |
+| legi | **lêr** <small>**legér**</small> |
+| meti | **pôr** <small>**ponér**</small> |
+| teni | **têr** <small>**tenér**</small> |
+| tiri | **trâr** <small>**trahér**</small> |
 
 <!-- Kial **s** estas senvoĉa en "camisia", fakte? -->
 
