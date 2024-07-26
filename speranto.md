@@ -169,14 +169,52 @@ Note:
 <!--v-->
 
 ### Substantivoj
+*(o-vortoj)*
+
+<!--v-->
+
+| Esperanto |
+|-|
+| amiko |
+| amikoj |
 
 <!--v-->
 
 ### Adjektivoj
+*(a-vortoj)*
+
+<!--v-->
+
+| Esperanto |
+|-|
+| bona |
+| bonaj |
+
+<!--v-->
+
+| Esperanto |
+|-|
+| bona amiko |
+| bonaj amikoj |
 
 <!--v-->
 
 ### Adverboj
+*(e-vortoj)*
+
+<!--v-->
+
+| Esperanto |
+|-|
+| bone |
+
+<!--v-->
+
+| Esperanto |
+|-|
+| pli |
+| |
+| baldaŭ |
 
 <!--v-->
 
@@ -184,7 +222,36 @@ Note:
 
 <!--v-->
 
+| Esperanto |
+|-|
+| unu |
+| unua |
+
+<!--v-->
+
 ### Tabelvortoj
+
+<!--v-->
+
+| Esperanto |
+|-|
+| tiu |
+| ĉi tiu |
+| |
+| neniu |
+| |
+| iu |
+| ĉiu |
+| |
+| kiu/iu/ĉiu ajn |
+
+<!--v-->
+
+| Esperanto |
+|-|
+| unu(j) |
+| |
+| ambaŭ |
 
 <!--v-->
 
@@ -192,7 +259,25 @@ Note:
 
 <!--v-->
 
+| Esperanto |
+|-|
+| la |
+
+<!--v-->
+
 ### Pronomoj
+
+<!--v-->
+
+| Esperanto |
+|-|
+| mi, vi |
+| ni, vi |
+| |
+| li, ŝi¸ ĝi |
+| ili, oni |
+| |
+| si |
 
 <!--v-->
 
@@ -200,12 +285,40 @@ Note:
 
 <!--v-->
 
+| Esperanto |
+|-|
+| fari |
+| |
+| faras, faranta, farata |
+| faris, farinta, farita |
+| faros, faronta, farota |
+| |
+| farus, faru |
+
+<!--v-->
+
 ### Prepozicioj
+
+<!--v-->
+
+| Esperanto |
+|-|
+| ĉe |
+| |
+| ĉirkaŭ |
+| |
+| dank' al |
 
 <!--v-->
 
 ### Konjunkcioj
 
+<!--v-->
+
+| Esperanto |
+|-|
+| kaj |
+| aŭ |
 
 <!--s-->
 
