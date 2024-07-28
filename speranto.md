@@ -49,7 +49,7 @@ Note:
 
 <!--v-->
 
-<small>Kvankam aŭ ĝuste ĉar **Esperanto** *(1887)* estis kaj estas la plej sukcesa artefarita lingvo, ĝi instigis al multaj reformideoj kaj novaj planlingvoj, kiuj modifis aŭ reinventis la **Lingvon Internacian** je vortprovizo, ortografio, prononco kaj gramatiko. Unu lingvo ja ne povas plaĉi al ĉies gustoj. En tiu ĉi serio da videoj mi volas prezenti la plimulton de tiuj tendencoj kiel harmonian dialektan kontinuon anstataŭ zoon da interbatalantaj lingvoprojektoj kiel **Latino sen fleksio** *(1903)*, **Ido** *(1907)*, **Adjuvilo** *(1910)*, **Okcidentalo-Interlingveo** *(1922)*, **Novialo** *(1928)*, **Intergloso** *(1943)* kaj **Interlingvao** *(1951)*.</small>
+<small>Kvankam aŭ ĝuste ĉar **Esperanto** *(1887)* estis kaj estas la plej sukcesa artefarita lingvo, ĝi instigis al multaj reformideoj kaj novaj planlingvoj, kiuj modifis aŭ reinventis la **Lingvon Internacian** je vortprovizo, ortografio, prononco kaj gramatiko. Unu lingvo ja ne povas plaĉi al ĉies gustoj. En tiu ĉi serio da videoj mi volas prezenti la plimulton de tiuj trajtoj kiel harmonian dialektan kontinuon anstataŭ zoon da interbatalantaj lingvoprojektoj kiel **Latino sen fleksio** *(1903)*, **Ido** *(1907)*, **Adjuvilo** *(1910)*, **Okcidentalo-Interlingveo** *(1922)*, **Novialo** *(1928)*, **Intergloso** *(1943)* kaj **Interlingvao** *(1951)*.</small>
 
 <!--v-->
 
@@ -65,7 +65,7 @@ Note:
 
 <!--v-->
 
-<small>La dialekta kontinuo konsistas el la aglutina, la intera kaj la fleksia dialektaroj.</small>
+<small>Tiu dialekta kontinuo konsistas el la aglutina, la intera kaj la fleksia dialektaroj.</small>
 
 <!--v-->
 
@@ -76,6 +76,10 @@ Note:
 
 <!--v-->
 
+<small>La aglutina dialektaro konstistas el **Esperanto**, **Speranto** kaj **Peranto**. Dum **Esperanto** pruntas naciismojn el specifaj latinidaj, ĝermanaj aŭ slavaj lingvoj, **Speranto** uzas etimologie pli neŭtrajn formojn. Ekzemple, **Speranto** havas la formon *speri* anstataŭ *esperi*. Sekve, **Speranto** ne havas la vorton *akĉento*, sed re-uzas la radikon *akcent/* en la formo *akcentumo*. **Speranto** tamen retenas internaciismojn kiel *ĉarma*, malgraŭ en la prononce pli konservema formo *ŝarma*. **Peranto** ne uzas ĝermanajn kaj slavajn vortojn. Do dum **Speranto** havas la ĝermanan formon *stejno* por *ŝtono*, **Peranto** havas la latinidan vorton *petro*.</small>
+
+<!--v-->
+
 ##### Aglutina Dialektaro
 ###### **Esperanto**
 ###### **Speranto**
@@ -83,18 +87,17 @@ Note:
 
 <!--v-->
 
-<small>La aglutina dialektaro konstistas el **Esperanto**, **Speranto** kaj **Peranto**. Dum **Esperanto** pruntas naciismojn el specifaj latinidaj, ĝermanaj aŭ slavaj lingvoj, **Speranto** uzas pli ĝeneralajn formojn. Ekzemple, **Speranto** uzas la etimologie pli neŭtran formon *speri* anstataŭ *esperi*. Sekve, **Speranto** ne havas la vorton *akĉento*, sed re-uzas la radikon *akcent/* en la formo *akcentumo*. **Speranto** tamen retenas internaciismojn kiel *ŝanco* kaj *ĉarma*, malgraŭ en la prononce pli konservemaj formoj *ŝanso* kaj *ŝarma*. **Peranto** ne uzas ĝermanajn kaj slavajn vortojn. Do dum **Speranto** havas la ĝermanan formon *ŝtejno* por *ŝtono*, **Peranto** havas la latinidan *petro*.</small>
-
-<!--v-->
-
 | Esperanto | Speranto | Peranto |
 |-|-|-|
 | esperi | speri | = |
 | | | |
-| ŝanco | ŝanso | = |
 | ĉarma | ŝarma | = |
 | | | |
-| ŝtono | ŝtejno | petro |
+| ŝtono | stejno | petro |
+
+<!--v-->
+
+<small>La intera dialektaro konsistas el **Linguo** *[liŋgŭo]*, **Lingue** *[liŋgŭe]* kaj **Lingua** *[liŋgŭa]*. Ili havas latinidajn prononcon kaj ortografion. Dum **Linguo** havas la finaĵon *-o* por substantivoj, **Lingue** havas la substantivan finaĵon **-e**. **Lingua** uzas la latinidan formon, kiu kaze de la vorto *lingua* havas la ŝajnfinaĵon **-a**.</small>
 
 <!--v-->
 
@@ -105,13 +108,15 @@ Note:
 
 <!--v-->
 
-<small>**Linguo**, **Lingue** kaj **Lingua** havas latinidajn prononcon kaj ortografion. Ili havas draste diversajn finaĵojn (evidente).</small>
+| Linguo | Lingue | Lingua |
+|-|-|-|
+| **linguo** *[liŋgŭo]* | **lingue** *[liŋgŭe]* | **lingua** *[liŋgŭa]* |
 
 <!--v-->
 
-| Esperanto | Linguo |
-|-|-|
-| lingvo | **linguo** *[liŋgŭo]* |
+<small>La fleksia dialektaro konsistas el **Lingua Intermediaria**, **Lingua Classĭca** kaj **Lingua Meridionál**. **Lingua Intermediaria** similas al **Lingua** de la intera dialektaro, sed ĝi havas konjugacion. Ekzemple, dum **Lingua** havas la formon *ama* por ĉiuj formoj de la as-tempo, **Lingua Intermediaria** havas la formojn *amo*, *amas*, *ama*, *amamos*, *amáis* kaj *aman*. **Lingua Classĭca** havas pli konservemajn formojn: *amo*, *amas*, *amat*, *amamus*, *amatis* kaj *amant*. **Lingua Meridionál** havas pli modernan prononcon kaj pli da elizioj ol **Lingua Intermediaria**. Ekzemple, dum **Lingua Intermediaria** havas la formon *tenér* por *teni*, **Lingua Meridionál** havas la formon *têr* *[teĥ]*.
+
+</small>
 
 <!--v-->
 
@@ -122,13 +127,9 @@ Note:
 
 <!--v-->
 
-<small>**Intermediaria**, **Classĭca** kaj **Meridionál** havas latinidan, latinan respektive nov-latinidan prononcojn. (**Intermediaria** kaj **Meridionál** havas diferencojn nur en la prononco.) Ili havas konjugacion kaj tial ili estas tre similaj al latinidaj naciaj lingvoj, respektive al la latina.</small>
-
-<!--v-->
-
 | Intermediaria | Classĭca | Meridionál |
 |-|-|-|
-| **hêmos** *[hemos]* | **habemus** *[habemus]* | **hêmos** *[emos]* |
+| **tenér** *[tener']* | **tenere** *[tenere]* | **têr** *[teĥ]* |
 
 <!--v-->
 
@@ -154,16 +155,6 @@ Note:
 <!--v-->
 
 > Se ni eĉ supozos, ke<br> la fina lingvo de la estontaj<br> generacioj estas ne Esperanto, en<br> ĉia okazo la vojo al tiu<br> ellaborota lingvo nepre<br> devas konduki tra Esperanto.
-
-Notes:
-<!--
-Parolante pri ĝermanaj kaj slavaj trajtoj, la aglutina dialektaro - Esperanto, Speranto kaj Peranto - havas ĝerman-slavecajn prononcon kaj ortografion.
-→ Linguo, Lingue, Lingua
-
-...
-→ Intermediaria, Classĭca, Meridionál
-
--->
 
 <!--v-->
 
