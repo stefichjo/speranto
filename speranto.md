@@ -49,6 +49,10 @@ Note:
 
 <!--v-->
 
+<small>Kvankam aŭ ĝuste ĉar **Esperanto** *(1887)* estis kaj estas la plej sukcesa artefarita lingvo, ĝi instigis al multaj reformideoj kaj novaj planlingvoj, kiuj modifis aŭ reinventis la **Lingvon Internacian** je vortprovizo, ortografio, prononco kaj gramatiko. Unu lingvo ja ne povas plaĉi al ĉies gustoj. En tiu ĉi serio da videoj mi volas prezenti la plimulton de tiuj tendencoj kiel harmonian dialektan kontinuon anstataŭ zoon da interbatalantaj lingvoprojektoj kiel **Latino sen fleksio** *(1903)*, **Ido** *(1907)*, **Adjuvilo** *(1910)*, **Okcidentalo-Interlingveo** *(1922)*, **Novialo** *(1928)*, **Intergloso** *(1943)* kaj **Interlingvao** *(1951)*.</small>
+
+<!--v-->
+
 ### Reformproponoj kiel Dialektoj
 
 ![alt text][splitters]
@@ -57,14 +61,18 @@ Note:
 
 <!--v-->
 
-* Latino sine Flexione *(1903)*, Ido *(1907)*, Adjuvilo *(1910)*, Interlingue-Occidental *(1922)*, Novial *(1928)*, Interglossa *(1943)*, Interlingua *(1951)*, ...
-
-Note:
-* Lingwe Uniwersala (1878), Lingvo Universala (1881)
+### Programtabulo
 
 <!--v-->
 
-### Programtabulo
+<small>La dialekta kontinuo konsistas el la aglutina, la intera kaj la fleksia dialektaroj.</small>
+
+<!--v-->
+
+#### Dialekta Kontinuo
+##### Aglutina Dialektaro
+##### Intera Dialektaro
+##### Fleksia Dialektaro
 
 <!--v-->
 
@@ -75,7 +83,7 @@ Note:
 
 <!--v-->
 
-<small>**Esperanto**, **Speranto** kaj **Peranto** havas ĝerman-slavajn prononcon kaj ortografion. Dum **Esperanto** havas multajn naciismojn, **Speranto** preferas etimologie neŭtralajn formojn. Ekzemple, *esperi* en **Esperanto** estas simila al la hispana, portugala kaj franca formoj, dum en **Speranto** preferiĝas *speri*, kiu estas pli simila al la itala, rumana kaj latina formoj. **Speranto** tamen retenas internaciismojn kiel *ĉarma* kaj neologismajn prepoziciojn kiel *ĉe*, malgraŭ en pli konservema prononco: *ŝarma* kaj *ŝe*. **Peranto** retenas nur internaciismojn, do anstataŭ *ĉe* respektive *ŝe* ĝi havas *proksime de*.</small>
+<small>La aglutina dialektaro konstistas el **Esperanto**, **Speranto** kaj **Peranto**. Dum **Esperanto** pruntas naciismojn el specifaj latinidaj, ĝermanaj aŭ slavaj lingvoj, **Speranto** uzas pli ĝeneralajn formojn. Ekzemple, **Speranto** uzas la etimologie pli neŭtran formon *speri* anstataŭ *esperi*. Sekve, **Speranto** ne havas la vorton *akĉento*, sed re-uzas la radikon *akcent/* en la formo *akcentumo*. **Speranto** tamen retenas internaciismojn kiel *ŝanco* kaj *ĉarma*, malgraŭ en la prononce pli konservemaj formoj *ŝanso* kaj *ŝarma*. **Peranto** ne uzas ĝermanajn kaj slavajn vortojn. Do dum **Speranto** havas la ĝermanan formon *ŝtejno* por *ŝtono*, **Peranto** havas la latinidan *petro*.</small>
 
 <!--v-->
 
@@ -83,9 +91,10 @@ Note:
 |-|-|-|
 | esperi | speri | = |
 | | | |
+| ŝanco | ŝanso | = |
 | ĉarma | ŝarma | = |
 | | | |
-| ĉe | ŝe | proksime de |
+| ŝtono | ŝtejno | petro |
 
 <!--v-->
 
@@ -145,6 +154,16 @@ Note:
 <!--v-->
 
 > Se ni eĉ supozos, ke<br> la fina lingvo de la estontaj<br> generacioj estas ne Esperanto, en<br> ĉia okazo la vojo al tiu<br> ellaborota lingvo nepre<br> devas konduki tra Esperanto.
+
+Notes:
+<!--
+Parolante pri ĝermanaj kaj slavaj trajtoj, la aglutina dialektaro - Esperanto, Speranto kaj Peranto - havas ĝerman-slavecajn prononcon kaj ortografion.
+→ Linguo, Lingue, Lingua
+
+...
+→ Intermediaria, Classĭca, Meridionál
+
+-->
 
 <!--v-->
 
@@ -541,15 +560,13 @@ Note:
 
 <!--v-->
 
-<small>Senfinaĵaj adverboj, prepozcioj kaj neologismoj ne bezonas esti etimologie neŭtraj, sed ili prononco devas esti kohera.</small>
+<small>Neologismoj ne bezonas esti etimologie neŭtraj, sed ilia prononco devas esti kohera.</small>
 
 <!--v-->
 
 | Esperanto | Speranto |
 |-|-|
 | ĵus *(france: juste)* | ĵust |
-| | |
-| ĉe *(france: chez)* | ŝe |
 | | |
 | ĉarmo *(internacie + france: charme)* | ŝarmo |
 
