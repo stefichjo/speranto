@@ -110,7 +110,7 @@ Note:
 
 | Linguo | Lingue | Lingua |
 |-|-|-|
-| **linguo** *[liŋgŭo]* | **lingue** *[liŋgŭe]* | **lingua** *[liŋgŭa]* |
+| linguo *[liŋgŭo]* | lingue *[liŋgŭe]* | lingua *[liŋgŭa]* |
 
 <!--v-->
 
@@ -129,7 +129,7 @@ Note:
 
 | Intermediaria | Classĭca | Meridionál |
 |-|-|-|
-| **tenér** *[tener']* | **tenere** *[tenere]* | **têr** *[teĥ]* |
+| tenér *[tener']* | tenere *[tenere]* | têr *[teĥ]* |
 
 <!--v-->
 
