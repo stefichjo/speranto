@@ -142,9 +142,15 @@ Aldone, la plimulto de la finaĵoj de la interaj dialektoj varias. Ekzemple, dum
 
 <!--v-->
 
+| Linguo |
+|-|
+| justa *[ĵusta]* |
+
+<!--v-->
+
 | Linguo | Lingue | Lingua |
 |-|-|-|
-| linguo | lingue | lingua |
+| justa | lingue | lingua |
 
 <!--v-->
 
