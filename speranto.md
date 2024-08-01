@@ -31,11 +31,11 @@ Note:
 
 <!--v-->
 
-## Motivigoj
+# Motivigoj
 
 <!--v-->
 
-### Lingvoj kiel Dialektoj
+## Lingvoj kiel Dialektoj
 
 ![alt text][babela-turo]
 
@@ -58,7 +58,16 @@ En tiu ĉi serio da videoj mi volas prezenti la plimulton de tiuj trajtoj kiel h
 
 <!--v-->
 
-### Reformproponoj kiel Dialektoj
+## Reformoj kiel Dialektoj
+### Latino sen Fleksio *(1903)*
+### Ido *(1907)*
+### Adjuvilo *(1910)*
+### Okcidentalo-Interlingveo *(1922)*
+### Novialo *(1928)*
+### Intergloso *(1943)*
+### Interlingvao *(1951)*
+
+<!--v-->
 
 ![alt text][splitters]
 
@@ -66,7 +75,7 @@ En tiu ĉi serio da videoj mi volas prezenti la plimulton de tiuj trajtoj kiel h
 
 <!--v-->
 
-### Programtabulo
+# Programtabulo
 
 <!--v-->
 
@@ -74,10 +83,10 @@ En tiu ĉi serio da videoj mi volas prezenti la plimulton de tiuj trajtoj kiel h
 
 <!--v-->
 
-#### Dialekta Kontinuo
-##### Aglutina Dialektaro
-##### Intera Dialektaro
-##### Fleksia Dialektaro
+## Dialekta Kontinuo
+### Aglutina Dialektaro
+### Intera Dialektaro
+### Fleksia Dialektaro
 
 <!--v-->
 
@@ -89,10 +98,10 @@ Dum **Esperanto** pruntas naciismojn el specifaj latinidaj, ĝermanaj aŭ slavaj
 
 <!--v-->
 
-##### Aglutina Dialektaro
-###### **Esperanto**
-###### **Speranto**
-###### **Peranto**
+### Aglutina Dialektaro
+#### **Esperanto**
+#### **Speranto**
+#### **Peranto**
 
 <!--v-->
 
@@ -135,10 +144,10 @@ Aldone, la plimulto de la finaĵoj de la interaj dialektoj varias. Ekzemple, dum
 
 <!--v-->
 
-##### Intera Dialektaro
-###### **Linguo**
-###### **Lingue**
-###### **Lingua**
+### Intera Dialektaro
+#### **Linguo**
+#### **Lingue**
+#### **Lingua**
 
 <!--v-->
 
@@ -164,10 +173,10 @@ Aldone, la plimulto de la finaĵoj de la interaj dialektoj varias. Ekzemple, dum
 
 <!--v-->
 
-##### Fleksia Dialektaro
-###### **Intermediaria**
-###### **Classĭca**
-###### **Meridionál**
+### Fleksia Dialektaro
+#### **Intermediaria**
+#### **Classĭca**
+#### **Meridionál**
 
 <!--v-->
 
@@ -183,7 +192,7 @@ Aldone, la plimulto de la finaĵoj de la interaj dialektoj varias. Ekzemple, dum
 
 <!--v-->
 
-### Strukturo
+## Strukturo
 
 <!--v-->
 
@@ -200,7 +209,7 @@ Aldone, la plimulto de la finaĵoj de la interaj dialektoj varias. Ekzemple, dum
 
 <!--s-->
 
-## Aglutina:<br> **Esperanto**
+# Aglutina:<br> **Esperanto**
 
 <!--v-->
 
@@ -228,7 +237,7 @@ Aldone, la plimulto de la finaĵoj de la interaj dialektoj varias. Ekzemple, dum
 
 <!--v-->
 
-### Substantivoj
+## Substantivoj
 *(o-vortoj)*
 
 <!--v-->
@@ -240,7 +249,7 @@ Aldone, la plimulto de la finaĵoj de la interaj dialektoj varias. Ekzemple, dum
 
 <!--v-->
 
-### Adjektivoj
+## Adjektivoj
 *(a-vortoj)*
 
 <!--v-->
@@ -259,7 +268,7 @@ Aldone, la plimulto de la finaĵoj de la interaj dialektoj varias. Ekzemple, dum
 
 <!--v-->
 
-### Adverboj
+## Adverboj
 *(e-vortoj)*
 
 <!--v-->
@@ -278,7 +287,7 @@ Aldone, la plimulto de la finaĵoj de la interaj dialektoj varias. Ekzemple, dum
 
 <!--v-->
 
-### Numeraloj
+## Numeraloj
 
 <!--v-->
 
@@ -289,7 +298,7 @@ Aldone, la plimulto de la finaĵoj de la interaj dialektoj varias. Ekzemple, dum
 
 <!--v-->
 
-### Tabelvortoj
+## Tabelvortoj
 
 <!--v-->
 
@@ -315,7 +324,7 @@ Aldone, la plimulto de la finaĵoj de la interaj dialektoj varias. Ekzemple, dum
 
 <!--v-->
 
-### Artikoloj
+## Artikoloj
 
 <!--v-->
 
@@ -325,7 +334,7 @@ Aldone, la plimulto de la finaĵoj de la interaj dialektoj varias. Ekzemple, dum
 
 <!--v-->
 
-### Pronomoj
+## Pronomoj
 
 <!--v-->
 
@@ -341,7 +350,7 @@ Aldone, la plimulto de la finaĵoj de la interaj dialektoj varias. Ekzemple, dum
 
 <!--v-->
 
-### Verboj
+## Verboj
 
 <!--v-->
 
@@ -357,7 +366,7 @@ Aldone, la plimulto de la finaĵoj de la interaj dialektoj varias. Ekzemple, dum
 
 <!--v-->
 
-### Prepozicioj
+## Prepozicioj
 
 <!--v-->
 
@@ -371,7 +380,7 @@ Aldone, la plimulto de la finaĵoj de la interaj dialektoj varias. Ekzemple, dum
 
 <!--v-->
 
-### Konjunkcioj
+## Konjunkcioj
 
 <!--v-->
 
@@ -382,7 +391,7 @@ Aldone, la plimulto de la finaĵoj de la interaj dialektoj varias. Ekzemple, dum
 
 <!--s-->
 
-## Aglutina:<br> **Speranto**
+# Aglutina:<br> **Speranto**
 
 <!--v-->
 
@@ -745,7 +754,7 @@ Aldone, la plimulto de la finaĵoj de la interaj dialektoj varias. Ekzemple, dum
 
 <!--v-->
 
-### Substantivoj
+## Substantivoj
 
 <!--v-->
 
@@ -760,7 +769,7 @@ Aldone, la plimulto de la finaĵoj de la interaj dialektoj varias. Ekzemple, dum
 
 <!--v-->
 
-### Adjektivoj
+## Adjektivoj
 
 <!--v-->
 
@@ -775,7 +784,7 @@ Aldone, la plimulto de la finaĵoj de la interaj dialektoj varias. Ekzemple, dum
 
 <!--v-->
 
-### Adverboj
+## Adverboj
 
 <!--v-->
 
@@ -788,7 +797,7 @@ Aldone, la plimulto de la finaĵoj de la interaj dialektoj varias. Ekzemple, dum
 
 <!--v-->
 
-### Numeraloj
+## Numeraloj
 
 <!--v-->
 
@@ -805,7 +814,7 @@ Aldone, la plimulto de la finaĵoj de la interaj dialektoj varias. Ekzemple, dum
 
 <!--v-->
 
-### Tabelvortoj
+## Tabelvortoj
 
 <!--v-->
 
@@ -839,11 +848,11 @@ Aldone, la plimulto de la finaĵoj de la interaj dialektoj varias. Ekzemple, dum
 
 <!--v-->
 
-### Artikoloj
+## Artikoloj
 
 <!--v-->
 
-### Pronomoj
+## Pronomoj
 
 <!--v-->
 
@@ -854,7 +863,7 @@ Aldone, la plimulto de la finaĵoj de la interaj dialektoj varias. Ekzemple, dum
 
 <!--v-->
 
-### Verboj
+## Verboj
 
 <!--v-->
 
@@ -869,7 +878,7 @@ Aldone, la plimulto de la finaĵoj de la interaj dialektoj varias. Ekzemple, dum
 
 <!--v-->
 
-### Prepozicioj
+## Prepozicioj
 
 <!--v-->
 
@@ -882,11 +891,11 @@ Aldone, la plimulto de la finaĵoj de la interaj dialektoj varias. Ekzemple, dum
 
 <!--v-->
 
-### Konjunkcioj
+## Konjunkcioj
 
 <!--s-->
 
-## Aglutina:<br> **Peranto**
+# Aglutina:<br> **Peranto**
 
 <!--v-->
 
@@ -937,31 +946,31 @@ Aldone, la plimulto de la finaĵoj de la interaj dialektoj varias. Ekzemple, dum
 
 <!--v-->
 
-### Substantivoj
+## Substantivoj
 
 <!--v-->
 
-### Adjektivoj
+## Adjektivoj
 
 <!--v-->
 
-### Adverboj
+## Adverboj
 
 <!--v-->
 
-### Numeraloj
+## Numeraloj
 
 <!--v-->
 
-### Tabelvortoj
+## Tabelvortoj
 
 <!--v-->
 
-### Artikoloj
+## Artikoloj
 
 <!--v-->
 
-### Pronomoj
+## Pronomoj
 
 <!--v-->
 
@@ -988,7 +997,7 @@ Aldone, la plimulto de la finaĵoj de la interaj dialektoj varias. Ekzemple, dum
 
 <!--v-->
 
-### Verboj
+## Verboj
 
 <!--v-->
 
@@ -1003,7 +1012,7 @@ Aldone, la plimulto de la finaĵoj de la interaj dialektoj varias. Ekzemple, dum
 
 <!--v-->
 
-### Prepozicioj
+## Prepozicioj
 
 <!--v-->
 
@@ -1030,7 +1039,7 @@ Aldone, la plimulto de la finaĵoj de la interaj dialektoj varias. Ekzemple, dum
 
 <!--v-->
 
-### Konjunkcioj
+## Konjunkcioj
 
 <!--v-->
 
@@ -1041,7 +1050,7 @@ Aldone, la plimulto de la finaĵoj de la interaj dialektoj varias. Ekzemple, dum
 
 <!--s-->
 
-## Intera:<br> **Linguo**
+# Intera:<br> **Linguo**
 
 <!--v-->
 
@@ -1077,7 +1086,7 @@ Aldone, la plimulto de la finaĵoj de la interaj dialektoj varias. Ekzemple, dum
 
 <!--v-->
 
-### Prononco
+## Prononco
 
 <!--v-->
 
@@ -1112,7 +1121,6 @@ Aldone, la plimulto de la finaĵoj de la interaj dialektoj varias. Ekzemple, dum
 <small>Antaŭ vokalo, **qu** kaj **gu** prononciĝas kun *[ŭ]* (tra bruo: (ne-akcentata) *[u]*).</small>
 
 <!--v-->
-
 
 | Esperanto | Linguo |
 |-|-|
@@ -1236,7 +1244,7 @@ Aldone, la plimulto de la finaĵoj de la interaj dialektoj varias. Ekzemple, dum
 
 <!--v-->
 
-#### x
+### x
 
 <!--v-->
 
@@ -1247,7 +1255,7 @@ Aldone, la plimulto de la finaĵoj de la interaj dialektoj varias. Ekzemple, dum
 
 <!--v-->
 
-#### Grekismoj
+### Grekismoj
 
 <!--v-->
 
@@ -1272,7 +1280,7 @@ Aldone, la plimulto de la finaĵoj de la interaj dialektoj varias. Ekzemple, dum
 
 <!--v-->
 
-### Substantivoj
+## Substantivoj
 
 <!--v-->
 
@@ -1286,7 +1294,7 @@ Aldone, la plimulto de la finaĵoj de la interaj dialektoj varias. Ekzemple, dum
 
 <!--v-->
 
-### Adjektivoj
+## Adjektivoj
 
 <!--v-->
 
@@ -1296,11 +1304,11 @@ Aldone, la plimulto de la finaĵoj de la interaj dialektoj varias. Ekzemple, dum
 
 <!--v-->
 
-### Adverboj
+## Adverboj
 
 <!--v-->
 
-### Numeraloj
+## Numeraloj
 
 <!--v-->
 
@@ -1345,7 +1353,7 @@ Aldone, la plimulto de la finaĵoj de la interaj dialektoj varias. Ekzemple, dum
 
 <!--v-->
 
-### Tabelvortoj
+## Tabelvortoj
 
 <!--v-->
 
@@ -1396,7 +1404,7 @@ Aldone, la plimulto de la finaĵoj de la interaj dialektoj varias. Ekzemple, dum
 
 <!--v-->
 
-### Artikoloj
+## Artikoloj
 
 <!--v-->
 
@@ -1426,7 +1434,7 @@ Aldone, la plimulto de la finaĵoj de la interaj dialektoj varias. Ekzemple, dum
 
 <!--v-->
 
-### Pronomoj
+## Pronomoj
 
 <!--v-->
 
@@ -1443,7 +1451,7 @@ Aldone, la plimulto de la finaĵoj de la interaj dialektoj varias. Ekzemple, dum
 
 <!--v-->
 
-### Verboj
+## Verboj
 
 <!--v-->
 
@@ -1459,7 +1467,7 @@ Aldone, la plimulto de la finaĵoj de la interaj dialektoj varias. Ekzemple, dum
 
 <!--v-->
 
-### Prepozicioj
+## Prepozicioj
 
 <!--v-->
 
@@ -1477,11 +1485,11 @@ Tra bruo, la prepozicio **a** uziĝas por la indiki la rektan objekton. (Tiam uz
 
 <!--v-->
 
-### Konjunkcioj
+## Konjunkcioj
 
 <!--s-->
 
-## Intera:<br> **Lingue**
+# Intera:<br> **Lingue**
 
 <!--v-->
 
@@ -1513,11 +1521,11 @@ Tra bruo, la prepozicio **a** uziĝas por la indiki la rektan objekton. (Tiam uz
 
 <!--v-->
 
-### Prononco
+## Prononco
 
 <!--v-->
 
-#### -o/-u ←→ -e/-i
+### -o/-u ←→ -e/-i
 
 <!--v-->
 
@@ -1533,23 +1541,23 @@ Tra bruo, la prepozicio **a** uziĝas por la indiki la rektan objekton. (Tiam uz
 
 <!--v-->
 
-### Substantivoj
+## Substantivoj
 
 <!--v-->
 
-### Adjektivoj
+## Adjektivoj
 
 <!--v-->
 
-### Adverboj
+## Adverboj
 
 <!--v-->
 
-### Numeraloj
+## Numeraloj
 
 <!--v-->
 
-### Tabelvortoj
+## Tabelvortoj
 
 <!--v-->
 
@@ -1579,11 +1587,11 @@ Tra bruo, la prepozicio **a** uziĝas por la indiki la rektan objekton. (Tiam uz
 
 <!--v-->
 
-### Artikoloj
+## Artikoloj
 
 <!--v-->
 
-### Pronomoj
+## Pronomoj
 
 <!--v-->
 
@@ -1610,15 +1618,15 @@ Tra bruo, la prepozicio **a** uziĝas por la indiki la rektan objekton. (Tiam uz
 
 <!--v-->
 
-### Prepozicioj
+## Prepozicioj
 
 <!--v-->
 
-### Konjunkcioj
+## Konjunkcioj
 
 <!--s-->
 
-## Intera:<br> **Lingua**
+# Intera:<br> **Lingua**
 
 <!--v-->
 
@@ -1650,7 +1658,7 @@ Tra bruo, la prepozicio **a** uziĝas por la indiki la rektan objekton. (Tiam uz
 
 <!--v-->
 
-### Substantivoj
+## Substantivoj
 
 <!--v-->
 
@@ -1747,7 +1755,7 @@ La grekismaj ŝajnfinaĵoj **-i**, **-ia** *[ia]*, **-a**, **-e** havas signifoj
 
 <!--v-->
 
-### Adjektivoj
+## Adjektivoj
 
 <!--v-->
 
@@ -1772,7 +1780,7 @@ La grekismaj ŝajnfinaĵoj **-i**, **-ia** *[ia]*, **-a**, **-e** havas signifoj
 
 <!--v-->
 
-### Adverboj
+## Adverboj
 
 <!--v-->
 
@@ -1782,11 +1790,11 @@ La grekismaj ŝajnfinaĵoj **-i**, **-ia** *[ia]*, **-a**, **-e** havas signifoj
 
 <!--v-->
 
-### Numeraloj
+## Numeraloj
 
 <!--v-->
 
-### Tabelvortoj
+## Tabelvortoj
 
 <!--v-->
 
@@ -1835,11 +1843,11 @@ La grekismaj ŝajnfinaĵoj **-i**, **-ia** *[ia]*, **-a**, **-e** havas signifoj
 
 <!--v-->
 
-### Artikoloj
+## Artikoloj
 
 <!--v-->
 
-### Pronomoj
+## Pronomoj
 
 <!--v-->
 
@@ -1877,11 +1885,11 @@ La grekismaj ŝajnfinaĵoj **-i**, **-ia** *[ia]*, **-a**, **-e** havas signifoj
 
 <!--v-->
 
-### Verboj
+## Verboj
 
 <!--v-->
 
-#### Infinitivo
+### Infinitivo
 
 <!--v-->
 
@@ -1895,7 +1903,7 @@ La grekismaj ŝajnfinaĵoj **-i**, **-ia** *[ia]*, **-a**, **-e** havas signifoj
 
 <!--v-->
 
-#### Imperativo
+### Imperativo
 
 <!--v-->
 
@@ -1907,7 +1915,7 @@ La grekismaj ŝajnfinaĵoj **-i**, **-ia** *[ia]*, **-a**, **-e** havas signifoj
 
 <!--v-->
 
-#### Imperfekto
+### Imperfekto
 
 <!--v-->
 
@@ -1966,7 +1974,7 @@ La grekismaj ŝajnfinaĵoj **-i**, **-ia** *[ia]*, **-a**, **-e** havas signifoj
 
 <!--v-->
 
-#### Pasivo
+### Pasivo
 
 <!--v-->
 
@@ -1990,7 +1998,7 @@ La grekismaj ŝajnfinaĵoj **-i**, **-ia** *[ia]*, **-a**, **-e** havas signifoj
 
 <!--v-->
 
-#### Perfekto
+### Perfekto
 
 <!--v-->
 
@@ -2018,7 +2026,7 @@ La grekismaj ŝajnfinaĵoj **-i**, **-ia** *[ia]*, **-a**, **-e** havas signifoj
 
 <!--v-->
 
-#### Malregulaj Verboj
+### Malregulaj Verboj
 
 <!--v-->
 
@@ -2064,15 +2072,15 @@ La grekismaj ŝajnfinaĵoj **-i**, **-ia** *[ia]*, **-a**, **-e** havas signifoj
 
 <!--v-->
 
-### Prepozicioj
+## Prepozicioj
 
 <!--v-->
 
-### Konjunkcioj
+## Konjunkcioj
 
 <!--s-->
 
-## Fleksia:<br> **Intermediaria**
+# Fleksia:<br> **Intermediaria**
 
 <!--v-->
 
@@ -2104,7 +2112,7 @@ La grekismaj ŝajnfinaĵoj **-i**, **-ia** *[ia]*, **-a**, **-e** havas signifoj
 
 <!--v-->
 
-### Prononco
+## Prononco
 
 <!--v-->
 
@@ -2137,7 +2145,7 @@ La grekismaj ŝajnfinaĵoj **-i**, **-ia** *[ia]*, **-a**, **-e** havas signifoj
 
 <!--v-->
 
-#### Elizioj
+### Elizioj
 
 <!--v-->
 
@@ -2212,7 +2220,7 @@ La grekismaj ŝajnfinaĵoj **-i**, **-ia** *[ia]*, **-a**, **-e** havas signifoj
 
 <!--v-->
 
-### Substantivoj
+## Substantivoj
 
 <!--v-->
 
@@ -2226,7 +2234,7 @@ La grekismaj ŝajnfinaĵoj **-i**, **-ia** *[ia]*, **-a**, **-e** havas signifoj
 
 <!--v-->
 
-### Adjektivoj
+## Adjektivoj
 
 <!--v-->
 
@@ -2237,7 +2245,7 @@ La grekismaj ŝajnfinaĵoj **-i**, **-ia** *[ia]*, **-a**, **-e** havas signifoj
 
 <!--v-->
 
-### Adverboj
+## Adverboj
 
 <!--v-->
 
@@ -2252,7 +2260,7 @@ La grekismaj ŝajnfinaĵoj **-i**, **-ia** *[ia]*, **-a**, **-e** havas signifoj
 
 <!--v-->
 
-#### Malregulaj Adverboj
+### Malregulaj Adverboj
 
 <!--v-->
 
@@ -2262,7 +2270,7 @@ La grekismaj ŝajnfinaĵoj **-i**, **-ia** *[ia]*, **-a**, **-e** havas signifoj
 
 <!--v-->
 
-### Numeraloj
+## Numeraloj
 
 <!--v-->
 
@@ -2334,11 +2342,11 @@ La grekismaj ŝajnfinaĵoj **-i**, **-ia** *[ia]*, **-a**, **-e** havas signifoj
 
 <!--v-->
 
-### Tabelvortoj
+## Tabelvortoj
 
 <!--v-->
 
-### Artikoloj
+## Artikoloj
 
 <!--v-->
 
@@ -2353,7 +2361,7 @@ La grekismaj ŝajnfinaĵoj **-i**, **-ia** *[ia]*, **-a**, **-e** havas signifoj
 
 <!--v-->
 
-### Pronomoj
+## Pronomoj
 
 <!--v-->
 
@@ -2363,11 +2371,11 @@ La grekismaj ŝajnfinaĵoj **-i**, **-ia** *[ia]*, **-a**, **-e** havas signifoj
 
 <!--v-->
 
-### Verboj
+## Verboj
 
 <!--v-->
 
-#### Imperfekto
+### Imperfekto
 
 <!--v-->
 
@@ -2447,7 +2455,7 @@ La grekismaj ŝajnfinaĵoj **-i**, **-ia** *[ia]*, **-a**, **-e** havas signifoj
 
 <!--v-->
 
-#### Subjunktivo
+### Subjunktivo
 
 <!--v-->
 
@@ -2467,7 +2475,7 @@ La grekismaj ŝajnfinaĵoj **-i**, **-ia** *[ia]*, **-a**, **-e** havas signifoj
 
 <!--v-->
 
-#### Perfekto
+### Perfekto
 
 <!--v-->
 
@@ -2531,7 +2539,7 @@ La grekismaj ŝajnfinaĵoj **-i**, **-ia** *[ia]*, **-a**, **-e** havas signifoj
 
 <!--v-->
 
-#### Kondicionalo
+### Kondicionalo
 
 <!--v-->
 
@@ -2573,7 +2581,7 @@ La grekismaj ŝajnfinaĵoj **-i**, **-ia** *[ia]*, **-a**, **-e** havas signifoj
 
 <!--v-->
 
-#### Malregulaj Verboj
+### Malregulaj Verboj
 
 <!--v-->
 
@@ -2658,11 +2666,11 @@ Por la perfektaj formoj de **îr** uziĝas la verbo **sêr**.
 
 <!--v-->
 
-### Prepozicioj
+## Prepozicioj
 
 <!--v-->
 
-### Konjunkcioj
+## Konjunkcioj
 
 <!--v-->
 
@@ -2674,7 +2682,7 @@ Por la perfektaj formoj de **îr** uziĝas la verbo **sêr**.
 
 <!--s-->
 
-## Fleksia:<br> **Classĭca**
+# Fleksia:<br> **Classĭca**
 
 <!--v-->
 
@@ -2707,11 +2715,11 @@ Por la perfektaj formoj de **îr** uziĝas la verbo **sêr**.
 
 <!--v-->
 
-### Prononco
+## Prononco
 
 <!--v-->
 
-#### c, g
+### c, g
 
 <!--v-->
 
@@ -2723,7 +2731,7 @@ Por la perfektaj formoj de **îr** uziĝas la verbo **sêr**.
 
 <!--v-->
 
-#### b
+### b
 
 <!--v-->
 
@@ -2733,7 +2741,7 @@ Por la perfektaj formoj de **îr** uziĝas la verbo **sêr**.
 
 <!--v-->
 
-#### v
+### v
 
 <!--v-->
 
@@ -2745,7 +2753,7 @@ Por la perfektaj formoj de **îr** uziĝas la verbo **sêr**.
 
 <!--v-->
 
-#### i
+### i
 
 <!--v-->
 
@@ -2756,7 +2764,7 @@ Por la perfektaj formoj de **îr** uziĝas la verbo **sêr**.
 
 <!--v-->
 
-#### ī
+### ī
 
 <!--v-->
 
@@ -2770,7 +2778,7 @@ Duoblaj vokaloj en finaĵoj estas skribataj kun makrono.
 
 <!--v-->
 
-#### ss, s
+### ss, s
 
 <!--v-->
 
@@ -2781,7 +2789,7 @@ Duoblaj vokaloj en finaĵoj estas skribataj kun makrono.
 
 <!--v-->
 
-#### Grekismoj
+### Grekismoj
 
 <!--v-->
 
@@ -2795,11 +2803,11 @@ Duoblaj vokaloj en finaĵoj estas skribataj kun makrono.
 
 <!--v-->
 
-#### Elizioj
+### Elizioj
 
 <!--v-->
 
-##### c̆
+#### c̆
 
 <!--v-->
 
@@ -2809,7 +2817,7 @@ Duoblaj vokaloj en finaĵoj estas skribataj kun makrono.
 
 <!--v-->
 
-##### n̆
+#### n̆
 
 <!--v-->
 
@@ -2819,7 +2827,7 @@ Duoblaj vokaloj en finaĵoj estas skribataj kun makrono.
 
 <!--v-->
 
-### Substantivoj
+## Substantivoj
 
 <!--v-->
 
@@ -2835,15 +2843,15 @@ Duoblaj vokaloj en finaĵoj estas skribataj kun makrono.
 
 <!--v-->
 
-### Adjektivoj
+## Adjektivoj
 
 <!--v-->
 
-### Adverboj
+## Adverboj
 
 <!--v-->
 
-### Numeraloj
+## Numeraloj
 
 <!--v-->
 
@@ -2873,7 +2881,7 @@ Duoblaj vokaloj en finaĵoj estas skribataj kun makrono.
 
 <!--v-->
 
-### Tabelvortoj
+## Tabelvortoj
 
 <!--v-->
 
@@ -2901,7 +2909,7 @@ Duoblaj vokaloj en finaĵoj estas skribataj kun makrono.
 
 <!--v-->
 
-### Artikoloj
+## Artikoloj
 
 <!--v-->
 
@@ -2916,15 +2924,15 @@ Duoblaj vokaloj en finaĵoj estas skribataj kun makrono.
 
 <!--v-->
 
-### Pronomoj
+## Pronomoj
 
 <!--v-->
 
-### Verboj
+## Verboj
 
 <!--v-->
 
-#### Infinitivo
+### Infinitivo
 
 <!--v-->
 
@@ -2944,7 +2952,7 @@ Duoblaj vokaloj en finaĵoj estas skribataj kun makrono.
 
 <!--v-->
 
-#### Imperfekto
+### Imperfekto
 
 <!--v-->
 
@@ -3011,7 +3019,7 @@ Duoblaj vokaloj en finaĵoj estas skribataj kun makrono.
 
 <!--v-->
 
-#### Perfekto
+### Perfekto
 
 <!--v-->
 
@@ -3077,7 +3085,7 @@ Duoblaj vokaloj en finaĵoj estas skribataj kun makrono.
 
 <!--v-->
 
-#### Pasivo
+### Pasivo
 
 <!--v-->
 
@@ -3277,7 +3285,7 @@ Duoblaj vokaloj en finaĵoj estas skribataj kun makrono.
 
 <!--v-->
 
-#### Malregulaj Verboj
+### Malregulaj Verboj
 
 <!--v-->
 
@@ -3387,11 +3395,11 @@ Duoblaj vokaloj en finaĵoj estas skribataj kun makrono.
 
 <!--v-->
 
-### Prepozicioj
+## Prepozicioj
 
 <!--v-->
 
-### Konjunkcioj
+## Konjunkcioj
 
 <!--v-->
 
@@ -3402,7 +3410,7 @@ Duoblaj vokaloj en finaĵoj estas skribataj kun makrono.
 
 <!--s-->
 
-## Fleksia:<br> **Meridionál**
+# Fleksia:<br> **Meridionál**
 
 <!--v-->
 
@@ -3434,7 +3442,7 @@ Duoblaj vokaloj en finaĵoj estas skribataj kun makrono.
 
 <!--v-->
 
-### Prononco
+## Prononco
 
 <!--v-->
 
@@ -3567,7 +3575,7 @@ Duoblaj vokaloj en finaĵoj estas skribataj kun makrono.
 
 <!--v-->
 
-#### Elizioj
+### Elizioj
 
 <!--v-->
 
