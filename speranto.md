@@ -55,7 +55,7 @@ Note:
 
 <small>Kvankam aŭ ĝuste ĉar **Esperanto** *(1887)* estis kaj estas la plej sukcesa artefarita lingvo, ĝi instigis al multaj reformideoj kaj novaj planlingvoj, kiuj modifis aŭ reinventis la **Lingvon Internacian** je vortprovizo, ortografio, prononco kaj gramatiko. Unu lingvo ja ne povas plaĉi al ĉies gustoj.
 
-En tiu ĉi serio da videoj mi volas prezenti la plimulton de tiuj trajtoj kiel harmonian dialektan kontinuon anstataŭ zoon da interbatalantaj lingvoprojektoj kiel **Latino sen fleksio** *(1903)*, **Ido** *(1907)*, **Adjuvilo** *(1910)*, **Okcidentalo-Interlingveo** *(1922)*, **Novialo** *(1928)*, **Intergloso** *(1943)* kaj **Interlingvao** *(1951)*.</small>
+En tiu ĉi serio da videoj mi volas prezenti la plimulton de tiuj lingvaj trajtoj kiel harmonian dialektan kontinuon anstataŭ zoon da interbatalantaj lingvoprojektoj kiel **Latino sen fleksio** *(1903)*, **Ido** *(1907)*, **Adjuvilo** *(1910)*, **Okcidentalo-Interlingveo** *(1922)*, **Novialo** *(1928)*, **Intergloso** *(1943)* kaj **Interlingvao** *(1951)*.</small>
 
 <!--v-->
 
@@ -93,9 +93,9 @@ En tiu ĉi serio da videoj mi volas prezenti la plimulton de tiuj trajtoj kiel h
 
 <small>La aglutina dialektaro konstistas el **Esperanto**, **Speranto** kaj **Peranto**.
 
-Dum **Esperanto** pruntas naciismojn el specifaj latinidaj, ĝermanaj aŭ slavaj lingvoj, **Speranto** uzas etimologie pli neŭtrajn formojn. Ekzemple, **Speranto** havas la formon *speri* anstataŭ *esperi*. Sekve, **Speranto** uzas la saman radikon *JUST/* kaj por *ĝusta* kaj por *justa*. Tamen, prepozicioj kaj senfinaĵaj adverboj povas esti naciismoj, ekzemple *ĵus* de la franca *juste*. Aliflanke, **Speranto** retenas naciismojn, se ili fariĝis internaciismoj, ekzemple *ŝanco* - de la franca *chance* - malgraŭ en la prononce pli fidela formo *ŝanso*.
+Dum **Esperanto** pruntas naciismojn el specifaj latinidaj, ĝermanaj kaj slavaj lingvoj, **Speranto** uzas etimologie pli neŭtrajn formojn. Ekzemple, **Speranto** havas la formon *speri* anstataŭ *esperi*, kaj ĝi uzas la radikon *JUST/* kaj por *ĝusta* kaj por *justa*. Tamen, naciismaj prepozicioj kaj senfinaĵaj adverboj povas resti en **Speranto**, ekzemple *ĵus* de la franca *juste*. Aldone, **Speranto** retenas naciismojn, se ili fariĝis internaciismoj, ekzemple *ŝanco* - de la franca *chance* - malgraŭ en la prononce pli fidela formo *ŝanso*.
 
-**Peranto** uzas nek ĝermanajn nek slavajn vortojn. Do, dum **Speranto** havas la ĝermanan pli neŭtran formon *stejno* por *ŝtono*, **Peranto** havas la latinidan vorton *petro*. Malkiel **Speranto**, **Peranto** uzas etimologie neŭtrajn formojn ankaŭ por prepozicioj kaj senfinaĵaj adverboj. Ekzemple, dum **Speranto** distingas inter *juste* kaj *ĵus*, **Peranto** havas *juste* por ambaŭ signifoj.</small>
+**Peranto** uzas nek ĝermanajn nek slavajn vortojn. Do, dum **Speranto** havas la etimologie pli neŭtran formon *stejno* por *ŝtono*, **Peranto** havas anstataŭe la latinidan vorton *petro*. Malkiel **Speranto**, **Peranto** uzas etimologie neŭtrajn formojn ankaŭ por prepozicioj kaj senfinaĵaj adverboj. Ekzemple, dum **Speranto** distingas inter *juste* kaj *ĵus*, **Peranto** havas *juste* por ambaŭ signifoj.</small>
 
 <!--v-->
 
@@ -141,7 +141,7 @@ Dum **Esperanto** pruntas naciismojn el specifaj latinidaj, ĝermanaj aŭ slavaj
 
 <small>La intera dialektaro konsistas el **Linguo** *[liŋgŭo]*, **Lingue** *[liŋgŭe]* kaj **Lingua** *[liŋgŭa]*.
 
-Dum la aglutina dialektaro havas foneman ortografion kun prononco simila al la ĝermanaj kaj slavaj lingvoj, la intera dialektaro havas latinidajn prononcon kaj ortografion. Ekzemple, la vorto *justa* de la aglutina dialektaro fariĝas *justa* *[ĵusta]* en interaj dialektoj.
+Dum la aglutina dialektaro havas foneman ortografion kaj prononcon similan al la ĝermanaj kaj slavaj lingvoj, la interaj dialektoj havas latinidajn ortografion kaj prononcon. Ekzemple, la vorto *justa* de la aglutina dialektaro fariĝas *justa* *[ĵusta]* en la interaj dialektoj.
 
 Aldone, la plimulto de la finaĵoj de la interaj dialektoj varias. Ekzemple, dum **Linguo** havas la finaĵon *-o* por substantivoj, **Lingue** havas la substantivan finaĵon *-e*. **Lingua** uzas latinidajn formojn, kiuj kaze de la vorto *lingua* havas la ŝajnfinaĵon *-a*.</small>
 
@@ -168,11 +168,11 @@ Aldone, la plimulto de la finaĵoj de la interaj dialektoj varias. Ekzemple, dum
 
 <small>La fleksia dialektaro konsistas el **Lingua Intermediaria**, **Lingua Classĭca** kaj **Lingua Meridionál**.
 
-**Lingua Intermediaria** similas al **Lingua** de la intera dialektaro, sed ĝi havas konjugacion. Ekzemple, dum **Lingua** havas la formon *ama* por ĉiuj formoj de la prezenco, **Lingua Intermediaria** havas la formojn *amo*, *amas*, *ama*, *amamos*, *amáis* kaj *aman*.
+**Lingua Intermediaria** similas al **Lingua** el la intera dialektaro, sed ĝi havas konjugacion. Ekzemple, dum **Lingua** havas la formon *ama* por ĉiuj formoj de la prezenco, **Lingua Intermediaria** havas la formojn *amo*, *amas*, *ama*, *amamos*, *amáis* kaj *aman*.
 
 **Lingua Classĭca** havas pli konservemajn formojn: *amo*, *amas*, *amat*, *amamus*, *amatis* kaj *amant*.
 
-**Lingua Meridionál** havas pli modernan prononcon kaj pli da elizioj ol **Lingua Intermediaria**. Ekzemple, dum **Lingua Intermediaria** havas la formon *tenér* por *teni*, **Lingua Meridionál** havas la formon *têr* *[teĥ]*.</small>
+**Lingua Meridionál** havas pli modernan prononcon kaj pli da elizioj ol **Lingua Intermediaria**. Ekzemple, dum **Lingua Intermediaria** havas la formon *tenér* por *teni*, kio jam estas malpli longa formo ol *tenere* en **Lingua Classĭca**, **Lingua Meridionál** havas la eĉ malpli longan formon *têr* *[teĥ]*.</small>
 
 <!--v-->
 
