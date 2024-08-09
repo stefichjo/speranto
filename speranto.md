@@ -11,7 +11,7 @@ revealOptions:
 ---
 
 <!-- reveal-md speranto.md -w -->
-<!-- reveal-md speranto.md -w -theme=white -->
+<!-- reveal-md speranto.md -w --theme=white -->
 
 # Bonvenon!
 
@@ -162,7 +162,7 @@ Aldone, la plimulto de la finaĵoj de la interaj dialektoj varias. Ekzemple, dum
 
 | Linguo | Lingue | Lingua |
 |-|-|-|
-| lingua | lingue | lingua |
+| linguo | lingue | lingua |
 
 <!--v-->
 
