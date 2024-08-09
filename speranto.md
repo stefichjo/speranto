@@ -76,7 +76,7 @@ En tiu ĉi serio da videoj mi volas prezenti la plimulton de tiuj lingvaj trajto
 
 <!--v-->
 
-# Programtabulo
+# Program-tabulo
 
 <!--v-->
 
