@@ -116,7 +116,11 @@ Dum **Esperanto** pruntas naciismojn el specifaj latinidaj, ĝermanaj kaj slavaj
 |-|-|
 | ĝusta | justa |
 | justa | just(um)a |
-| | |
+
+<!--v-->
+
+| Esperanto | Speranto |
+|-|-|
 | ĵus | = |
 
 <!--v-->
@@ -135,7 +139,8 @@ Dum **Esperanto** pruntas naciismojn el specifaj latinidaj, ĝermanaj kaj slavaj
 
 | Esperanto | Speranto | Peranto |
 |-|-|-|
-| ĵus | = | juste |
+| ĝuste/juste | just(um)e | juste |
+| ĵus | ĵus | juste |
 
 <!--v-->
 
@@ -183,9 +188,25 @@ Aldone, la plimulto de la finaĵoj de la interaj dialektoj varias. Ekzemple, dum
 
 <!--v-->
 
-| Intermediaria | Classĭca | Meridionál |
-|-|-|-|
-| ama | amat | ama |
+| Intermediaria |
+|-|
+| amo |
+| amas |
+| ama |
+| amamo |
+| amáis |
+| aman |
+
+<!--v-->
+
+| Intermediaria | Classĭca |
+|-|-|
+| amo | amo |
+| amas | amas |
+| ama | amat |
+| amamo | amamus |
+| amáis | amatis |
+| aman | amant |
 
 <!--v-->
 
