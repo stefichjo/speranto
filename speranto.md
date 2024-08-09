@@ -11,6 +11,7 @@ revealOptions:
 ---
 
 <!-- reveal-md speranto.md -w -->
+<!-- reveal-md speranto.md -w -theme=white -->
 
 # Bonvenon!
 
@@ -79,7 +80,7 @@ En tiu ĉi serio da videoj mi volas prezenti la plimulton de tiuj trajtoj kiel h
 
 <!--v-->
 
-<small>Tiu dialekta kontinuo konsistas el la aglutina, la intera kaj la fleksia dialektaroj.</small>
+<small>Tiu dialekta kontinuo konsistas el tri dialektaroj: la aglutina, la intera kaj la fleksia.</small>
 
 <!--v-->
 
@@ -94,7 +95,7 @@ En tiu ĉi serio da videoj mi volas prezenti la plimulton de tiuj trajtoj kiel h
 
 Dum **Esperanto** pruntas naciismojn el specifaj latinidaj, ĝermanaj aŭ slavaj lingvoj, **Speranto** uzas etimologie pli neŭtrajn formojn. Ekzemple, **Speranto** havas la formon *speri* anstataŭ *esperi*. Sekve, **Speranto** uzas la saman radikon *JUST/* kaj por *ĝusta* kaj por *justa*. Tamen, prepozicioj kaj senfinaĵaj adverboj povas esti naciismoj, ekzemple *ĵus* de la franca *juste*. Aliflanke, **Speranto** retenas naciismojn, se ili fariĝis internaciismoj, ekzemple *ŝanco* - de la franca *chance* - malgraŭ en la prononce pli fidela formo *ŝanso*.
 
-**Peranto** uzas nek ĝermanajn nek slavajn vortojn. Do, dum **Speranto** havas la ĝermanan formon *stejno* por *ŝtono*, **Peranto** havas la latinidan vorton *petro*. Malkiel **Speranto**, **Peranto** uzas etimologie neŭtrajn (latinidajn) formojn ankaŭ por prepozicioj kaj senfinaĵaj adverboj. Ekzemple, dum **Speranto** distingas inter *juste* kaj *ĵus*, **Peranto** havas *juste* por ambaŭ signifoj.</small>
+**Peranto** uzas nek ĝermanajn nek slavajn vortojn. Do, dum **Speranto** havas la ĝermanan pli neŭtran formon *stejno* por *ŝtono*, **Peranto** havas la latinidan vorton *petro*. Malkiel **Speranto**, **Peranto** uzas etimologie neŭtrajn formojn ankaŭ por prepozicioj kaj senfinaĵaj adverboj. Ekzemple, dum **Speranto** distingas inter *juste* kaj *ĵus*, **Peranto** havas *juste* por ambaŭ signifoj.</small>
 
 <!--v-->
 
@@ -138,9 +139,11 @@ Dum **Esperanto** pruntas naciismojn el specifaj latinidaj, ĝermanaj aŭ slavaj
 
 <!--v-->
 
-<small>La intera dialektaro konsistas el **Linguo** *[liŋgŭo]*, **Lingue** *[liŋgŭe]* kaj **Lingua** *[liŋgŭa]*. Dum la aglutina dialektaro havas foneman ortografion kun prononco simila al la ĝermanaj kaj slavaj lingvoj, la intera dialektaro havas latinidajn prononcon kaj ortografion. Ekzemple, la vorto *justa* de la aglutinaj dialektoj fariĝas *justa* *[ĵusta]* en interaj dialektoj.
+<small>La intera dialektaro konsistas el **Linguo** *[liŋgŭo]*, **Lingue** *[liŋgŭe]* kaj **Lingua** *[liŋgŭa]*.
 
-Aldone, la plimulto de la finaĵoj de la interaj dialektoj varias. Ekzemple, dum **Linguo** havas la finaĵon *-o* por substantivoj, **Lingue** havas la substantivan finaĵon *-e*. **Lingua** uzas latinidan formon, kiu kaze de la vorto *lingua* havas la ŝajnfinaĵon *-a*.</small>
+Dum la aglutina dialektaro havas foneman ortografion kun prononco simila al la ĝermanaj kaj slavaj lingvoj, la intera dialektaro havas latinidajn prononcon kaj ortografion. Ekzemple, la vorto *justa* de la aglutina dialektaro fariĝas *justa* *[ĵusta]* en interaj dialektoj.
+
+Aldone, la plimulto de la finaĵoj de la interaj dialektoj varias. Ekzemple, dum **Linguo** havas la finaĵon *-o* por substantivoj, **Lingue** havas la substantivan finaĵon *-e*. **Lingua** uzas latinidajn formojn, kiuj kaze de la vorto *lingua* havas la ŝajnfinaĵon *-a*.</small>
 
 <!--v-->
 
@@ -159,7 +162,7 @@ Aldone, la plimulto de la finaĵoj de la interaj dialektoj varias. Ekzemple, dum
 
 | Linguo | Lingue | Lingua |
 |-|-|-|
-| justa | lingue | lingua |
+| lingua | lingue | lingua |
 
 <!--v-->
 
