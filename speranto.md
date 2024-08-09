@@ -2083,7 +2083,7 @@ La grekismaj ŝajnfinaĵoj **-i**, **-ia** *[ia]*, **-a**, **-e** havas signifoj
 
 <!--s-->
 
-# Fleksia:<br> **Intermediaria**
+# Fleksia:<br> **Inter-mediaria**
 
 <!--v-->
 
