@@ -437,7 +437,7 @@
 * **fas̆ĕolo** = **fas̆jolo** [fagiolo]
 * **gris̆ĕo** = **gris̆jo** [grigio]
 * **gůttĕa** = **gůttja** [goccia]
-* **płatĕa** = **płatja** [piazza]
+* **płatĕa** = **płatıa** [piazza]
 
 ### ĭ
 

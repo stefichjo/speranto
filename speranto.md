@@ -3720,3 +3720,116 @@ Duoblaj vokaloj en finaĵoj estas skribataj kun makrono.
 <!-- | ĝiri | ĵiri | -->
 
 <!-- | manĝi | manĵi | -->
+
+<!--s-->
+
+# La Itala
+
+<!--v-->
+
+## Vokaloj
+
+<!--v-->
+
+| Lingua | Itala |
+|-|-|
+| de | dė *[di]* |
+| littera | lïttera *[lettera]* |
+| tavŭla | tavůla *[tavola]* |
+| officio | ǒfficio *[ufficio]* |
+
+<!--v-->
+
+| Lingua | Itala |
+|-|-|
+| core | cõre *[cuore]* |
+| petra | pẽtra *[pietra]* |
+
+<!--v-->
+
+| Lingua | Itala |
+|-|-|
+| calĭda | calĭda *[calda]* |
+
+<!--v-->
+
+## Konsonantoj
+
+<!--v-->
+
+| Lingua | Itala |
+|-|-|
+| absoluta | absoluta *[assoluta]* |
+| facto | facto *[fatto]* |
+
+<!--v-->
+
+| Lingua | Itala |
+|-|-|
+| armario | armaṟio *[armadio]* |
+
+<!--v-->
+
+## i
+
+<!--v-->
+
+### ti
+
+<!--v-->
+
+| Lingua | Itala |
+|-|-|
+| infantia | infantia *[infanzia]* |
+
+<!-- | tio | tio *[zio]* | -->
+
+<!--v-->
+
+### j
+
+<!--v-->
+
+| Lingua | Itala |
+|-|-|
+| justa | justa *[giusta]* |
+| maio | majo *[maggio]* |
+
+<!--v-->
+
+| Lingua | Itala |
+|-|-|
+| diurnale | djůrnale *[giornale]* |
+| objecto | objecto *[oggetto]* |
+
+<!--v-->
+
+| Lingua | Itala |
+|-|-|
+| pronuntia | pronuntja *[pronuncia]* |
+
+<!--v-->
+
+### ĭ
+
+<!--v-->
+
+| Lingua | Itala |
+|-|-|
+| medio | medĭo *[mezzo]* |
+| martio | martĭo *[marzo]* |
+
+<!--v-->
+
+### ı
+
+<!--v-->
+
+| Lingua | Itala |
+|-|-|
+| (eo) veni <small>venio</small> | venıo *[vengo]* |
+
+<!-- indizio giudizio -->
+
+<!-- atico -->
+<!-- | vilaĝo | **villâjo** <small>**villadĭc̆o**</small> *[vilaĵo]* <small>*[vilađi-o]*</small> | -->
