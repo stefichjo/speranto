@@ -3738,6 +3738,12 @@ Duoblaj vokaloj en finaĵoj estas skribataj kun makrono.
 | tavŭla | tavůla *[tavola]* |
 | officio | ǒfficio *[ufficio]* |
 
+Notes
+* `nuvŭla` `nubŭla` `bl` `nubla`
+* `nevŭla` `nebŭla` `bl` `nebla`
+* `livĕra` `libĕra` `vr` `livra`
+* `tavŭla` `tabŭla` `bl` `tabla`
+
 <!--v-->
 
 | Lingua | Itala |
@@ -3750,6 +3756,7 @@ Duoblaj vokaloj en finaĵoj estas skribataj kun makrono.
 | Lingua | Itala |
 |-|-|
 | calĭda | calĭda *[calda]* |
+| qŭe | qŭe *[che]* |
 
 <!--v-->
 
@@ -3759,8 +3766,65 @@ Duoblaj vokaloj en finaĵoj estas skribataj kun makrono.
 
 | Lingua | Itala |
 |-|-|
-| absoluta | absoluta *[assoluta]* |
+| herba | herba *[erba]* |
+| hora | hora *[ora]* |
+
+<!--v-->
+
+### Assimiloj
+
+<!--v-->
+
+| Lingua | Itala |
+|-|-|
+| texto | texto *[testo]* |
+| toxĭca | toxico *[tossico]* |
+
+<!--v-->
+
+| Lingua | Itala |
+|-|-|
+| absoluta | absoluto *[assoluto]* |
+
+<!--v-->
+
+| Lingua | Itala |
+|-|-|
 | facto | facto *[fatto]* |
+| optĭma | optimo *[ottimo]* |
+
+<!--v-->
+
+| Lingua | Itala |
+|-|-|
+| damnare | d
+
+<!--v-->
+
+| Lingua | Itala |
+|-|-|
+| blanca | bḷanco *[bianco]* |
+| clave | cḷave *[chiave]* |
+| flore | fḷore *[fiore]* |
+| glacio | gḷacĭo *[ghiaccio]* |
+| plena | pḷeno *[pieno]* |
+
+Notes:
+* `ḷ = lh`
+
+<!--v-->
+
+| Lingua | Itala |
+|-|-|
+| nebŭla | nebŭla *[nebbia]* |
+| ocŭlo | ocŭlo *[occhio]* |
+
+Notes:
+* `nuvůla`
+
+<!--v-->
+
+### ...
 
 <!--v-->
 
@@ -3770,11 +3834,17 @@ Duoblaj vokaloj en finaĵoj estas skribataj kun makrono.
 
 <!--v-->
 
-## i
+### i
 
 <!--v-->
 
-### ti
+| Lingua | Itala |
+|-|-|
+| studios | studī *[studi]* |
+
+<!--v-->
+
+#### ti
 
 <!--v-->
 
@@ -3786,21 +3856,21 @@ Duoblaj vokaloj en finaĵoj estas skribataj kun makrono.
 
 <!--v-->
 
-### j
+#### j
 
 <!--v-->
 
 | Lingua | Itala |
 |-|-|
-| justa | justa *[giusta]* |
+| justa | justo *[giusto]* |
 | maio | majo *[maggio]* |
 
 <!--v-->
 
 | Lingua | Itala |
 |-|-|
-| diurnale | djůrnale *[giornale]* |
 | objecto | objecto *[oggetto]* |
+| radio | radjo *[raggio]* |
 
 <!--v-->
 
@@ -3810,7 +3880,7 @@ Duoblaj vokaloj en finaĵoj estas skribataj kun makrono.
 
 <!--v-->
 
-### ĭ
+#### ĭ
 
 <!--v-->
 
@@ -3821,7 +3891,20 @@ Duoblaj vokaloj en finaĵoj estas skribataj kun makrono.
 
 <!--v-->
 
-### ı
+| Lingua | Itala |
+|-|-|
+| familia | familĭa *[famiglia]* |
+| junio | junĭo *[giugno]* |
+
+<!--v-->
+
+| Lingua | Itala |
+|-|-|
+| facia | facĭa *[faccia]* |
+
+<!--v-->
+
+#### ı
 
 <!--v-->
 
@@ -3829,7 +3912,42 @@ Duoblaj vokaloj en finaĵoj estas skribataj kun makrono.
 |-|-|
 | (eo) veni <small>venio</small> | venıo *[vengo]* |
 
+## Grekismoj
+
+<!--v-->
+
+| Lingua | Itala |
+|-|-|
+| echo | echo *[eco]* |
+| photo | photo *[foto]* |
+| thema | thema *[tema]* |
+
+<!--v-->
+
+| Lingua | Itala |
+|-|-|
+| systema | systema *[sistema]* |
+
+<!--v-->
+
+| Lingua | Itala |
+|-|-|
+| praxis | praxis *[prassi]* |
+| thesis | thesis *[tesi]* |
+
+<!--v-->
+
+| Lingua | Itala |
+|-|-|
+| theoria | theoria *[teoria]* |
+
+
+
 <!-- indizio giudizio -->
+<!-- "c" bezonas diakritaĵon -->
 
 <!-- atico -->
 <!-- | vilaĝo | **villâjo** <small>**villadĭc̆o**</small> *[vilaĵo]* <small>*[vilađi-o]*</small> | -->
+<!-- | hodie | hodjė *[oggi]* | -->
+
+<!-- nevŭla? = nebbia? -->

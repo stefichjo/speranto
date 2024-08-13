@@ -2,17 +2,6 @@
 
 ## Elisioni, Sïmplificatĭoni éd Assimilatĭoni
 
-### ii
-
-* **binarii** [binari]
-
-### h
-
-* **habitare** [abitare]
-* **halito** [alito]
-* **helio** [elio]
-* **herba** [erba]
-
 ### Finale Cōnsonantica
 
 * **in** [in]
@@ -61,52 +50,6 @@
 * **pœna** = **pena** [pena]
 * **ad-pœna** = **ad-pena** [appena]
 
-### y
-
-* **systema** [sistema]
-* **typo** [tipo]
-* **cygno** [cigno]
-
-### ph
-
-* **photo** [foto]
-
-...
-
-* **phlegma** [flemma]
-
-### th
-
-* **thema** [tema]
-* **theoria** [teoria]
-* **mathematica** [matematica]
-
-...
-
-* **thesis** [tesi]
-
-### ch
-
-* **echo** [eco]
-* **chaos** [caos]
-
-### x
-
-* **anxia** [ansia]
-* **fixo** [fisso]
-* **fluxo** [flusso]
-* **luxo** [lusso]
-* **maximo** [massimo]
-* **Mexico** [Messico]
-* **proximo** [prossimo]
-* **texto** [testo]
-* **toxico** [tossico]
-
-...
-
-* **xylophono** [xilofono]
-* **praxis** [prassi]
-
 #### ex
 
 * **exame** [esame]
@@ -125,35 +68,12 @@
 * **apocalypse** [apocalisse]
 * **psychologia** [psicologia]
 
-### pt
-
-* **optimo** [ottimo]
-* **apto** [atto]
-* **scripto** [scritto]
-
 ...
 
 * **eucalyp̄to** [eucalipto]
 * **Egypto** [Egitto]
 * **helicoptero** [elicottero]
 * **op̄tare** [optare]
-
-### ct
-
-* **acto** [atto]
-* **facto** [fatto]
-* **insecto** [insetto]
-* **lacte** [latte]
-* **lecto** [letto]
-* **nocte** [notte]
-* **obiectivo** [obiettivo]
-* **pacto** [patto]
-* **pērfecto** [perfetto]
-* **tecto** [tetto]
-
-...
-
-* **architecto** [architetto]
 
 #### nct
 
@@ -470,11 +390,6 @@
 
 ### ŭ
 
-* **matŭtina** [mattina]
-* **qŭē** [che]
-
-...
-
 * **aŭscůltare** [ascoltare]
 * **dŭm-ïntĕre** [mentre]
 * **qŭis** [chi]
@@ -482,25 +397,6 @@
 * **qŭō-sic** [così]
 
 ## ı
-
-* **[dubĭo](#bĭ)** [dubbio]
-* **[facĭa](#cĭ)** [faccia]
-  * **[indicıo](#cı)** [indizio]
-* **[radĭo](#dĭ)** [raggio]
-  * **[medıo](#dı)** [mezzo]
-* **[familĭa](#lĭ)** [famiglia]
-  * **[tolıo](#lı)** [tolgo]
-* **[banĭo](#nĭ)** [bagno]
-  * **[venıo](#nı)** [vengo]
-* **[basĭo](#sĭ)** [bacio]
-* **[gratĭe](#tĭ)** [grazie]
-  * **[palatıo](#tı)** [palazzo]
-  * **[tīo](#tī)** [zio]
-  * **[prōnuntja](#tj)** [pronuncia]
-* **[laxĭare](#xĭ)** [lasciare]
-* **[](#zĭ)** []
-  * **[ragazıo](#zı)** [ragazzo]
-* **[majo](#j)** [maggio]
 
 ### bĭ
 
@@ -635,43 +531,9 @@
 ...
 
 * **jam** [già]
-* **objecto** [oggetto]
 
 ## ł
 
-### bł
-
-* **błanco** [bianco]
-
-...
-
-* **błůndo** [biondo]
-
-#### bŭl
-
-* **nēbŭla** [nebbia]
-
-### cł
-
-* **cłaro** [chiaro]
-* **cłave** [chiave]
-* **cłuso** [chiuso]
-
-...
-
-* **incluso** [incluso]
-
-...
-
-* **cłesıa** [chiesa]
-
-#### cŭl
-
-* **ăùrïcŭlo** [orecchio]
-* **cïrcŭlo** [cerchio]
-* **macŭla** [macchia]
-* **ocŭlo** [occhio]
-* **spìcŭlo** [specchio]
 
 ### dł
 
@@ -679,34 +541,10 @@
 
 * **sedŭla** [sedia]
 
-### fł
-
-* **fłamma** [fiamma]
-* **fłore** [fiore]
-* **fłume** [fiume]
-
-### gł
-
-...
-
-* **głacĭo** [ghiaccio]
-
-...
-
-* **glaciale** [glaciale]
-
 ### pł
 
 * **ampło** [ampio]
 * **důpło** [doppio]
-* **płangere** [piangere]
-* **płano** [piano]
-* **płanta** [pianta]
-* **płeno** [pieno]
-* **płuma** [piuma]
-* **płůmbo** [piombo]
-* **płus** [più]
-* **tempło** [tempio]
 
 ...
 
@@ -935,3 +773,7 @@
 
 * **jänŭar̆io**, **febrŭar̆io**, **martıo**, **aprile**, **majo**, **junĭo**, **lulĭo**, **aŭgůsto**, **septembre**, **octobre**, **novembre**, **dėcembre**
 
+<!-- * **cłesıa** [chiesa] -->
+<!-- * **ăùrïcŭlo** [orecchio] -->
+<!-- * **spìcŭlo** [specchio] -->
+<!-- * **płus** [più] -->
