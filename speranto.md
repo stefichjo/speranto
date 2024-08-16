@@ -1952,7 +1952,7 @@ La grekismaj ŝajnfinaĵoj **-i**, **-ia** *[ia]*, **-a**, **-e** havas signifoj
 | (ke) -u | **-a**`**` |
 | (se/do) -us | **-ría**`***` |
 
-<small>`*` La finaĵo **-á** estas la mallonga formo **hâ** ("havas") sen **h**.</small>
+<small>`*` Origine, la finaĵo **-á** en **-rá** estas fakte la mallonga formo **hâ** ("havas") sen **h**.</small>
 
 <small>`**` **-aa** fariĝas **-e**: **amaa** → **ame**. </small>
 
@@ -3705,22 +3705,6 @@ Duoblaj vokaloj en finaĵoj estas skribataj kun makrono.
 | teni | **têr** <small>**tenér**</small> |
 | tiri | **trâr** <small>**trahér**</small> |
 
-<!-- Kial **s** estas senvoĉa en "camisia", fakte? -->
-
-<!-- Multa enhavo el t.n. "Prononco" estas distribuenda inter la vortspecaj ĉapitreroj. -->
-
-<!-- La ĉapitrero "Prononco" eble estas ellasebla. -->
-
-<!-- Ŝajn-ĉapitreroj estas anstataŭendaj per priskribaj/enkondukaj frazoj. -->
-
-<!-- | partio *(france: parti)* | -->
-
-<!-- | formaĝo *(itale: formaggio)* | fromaĵo | -->
-
-<!-- | ĝiri | ĵiri | -->
-
-<!-- | manĝi | manĵi | -->
-
 <!--s-->
 
 # La Itala
@@ -3735,14 +3719,25 @@ Duoblaj vokaloj en finaĵoj estas skribataj kun makrono.
 |-|-|
 | de | dė *[di]* |
 | littera | lïttera *[lettera]* |
-| tavŭla | tavůla *[tavola]* |
-| officio | ǒfficio *[ufficio]* |
+| nuvŭla | nuvůla *[nuvola]* |
 
-Notes
+Notes:
+* `Lingua`
 * `nuvŭla` `nubŭla` `bl` `nubla`
 * `nevŭla` `nebŭla` `bl` `nebla`
 * `livĕra` `libĕra` `vr` `livra`
 * `tavŭla` `tabŭla` `bl` `tabla`
+
+<!--v-->
+
+| Lingua | Itala |
+|-|-|
+| studio | studio *[studio]* |
+| studios | studī *[studi]* |
+
+<!--v-->
+
+### Diftongiĝo
 
 <!--v-->
 
@@ -3753,14 +3748,127 @@ Notes
 
 <!--v-->
 
+### Elizio
+
+<!--v-->
+
 | Lingua | Itala |
 |-|-|
 | calĭda | calĭda *[calda]* |
+| una | unŏ *[un]* |
 | qŭe | qŭe *[che]* |
 
 <!--v-->
 
+| Lingua | Itala |
+|-|-|
+| illo | illŏ *[il]* |
+| illo | ĭllŏ *[l']* |
+| illo | ĭllo *[lo]* |
+
+<!--v-->
+
+| Lingua | Itala |
+|-|-|
+| illos | il̯l̯ĭ *[i]* |
+| illos | ĭllĭ *[gli]* |
+
+<!--v-->
+
+### Fermeco
+
+<!--v-->
+
+| Lingua | Itala |
+|-|-|
+| stella | stēlla *[stella]* |
+| voce | vōce *[voce]* |
+
+<!--v-->
+
+| Lingua | Itala |
+|-|-|
+| no | nò = no *[no]* |
+
+<!--v-->
+
+### Monoftongiĝo
+
+<!--v-->
+
+| Lingua | Itala |
+|-|-|
+| auro | åŭro = ăùro *[oro]* |
+
+<!--v-->
+
+### Esceptoj
+
+<!--v-->
+
+| Lingua | Itala |
+|-|-|
+| officio | ǒfficio *[ufficio]* |
+
+<!--v-->
+
+| Lingua | Itala |
+|-|-|
+| officio | **officio** *[**officio**]* |
+
+<!--v-->
+
+| Lingua | Itala |
+|-|-|
+| ad-ipso | ad-ìpso = ad-epso *[adesso]* |
+| turre | tùrre = torre *[torre]* |
+
+<!--v-->
+
+| Lingua | Itala |
+|-|-|
+| ad-ipso | **ad-ïpso** = **ad-ēsso** *[**adesso**]* |
+| turre | **tůrre** = **tōrre** *[**torre**]* |
+
+<!--v-->
+
+| Lingua | Itala |
+|-|-|
+| cognoscér | coğnóscere = conōscere *[conoscere]* |
+| e <small>ed</small> | ét̯ = ēd *[e]* |
+| tecto | técto = tētto *[tetto]* |
+
+<!--v-->
+
+| Lingua | Itala |
+|-|-|
+| cognoscér | **cognoscere** *[**cognoscere**]* |
+| e <small>ed</small> | **et̯** = **ed** *[**e**]* |
+| tecto | **tecto** *[**tetto**]* |
+
+<!--v-->
+
+| Lingua | Itala |
+|-|-|
+| au <small>aud</small> | ăůt̯ = ōd *[o]* |
+| aucello | ăucello = ucello *[ucello]* |
+| auscultár | aŭscůltare = ascoltare *[ascoltare]* |
+
+<!--v-->
+
+| Lingua | Itala |
+|-|-|
+| au <small>aud</small> | **åŭd** *[**o**]* |
+| aucello | **åŭcello** *[**ocello**]* |
+| auscultár | **åŭscůltare** *[**oscoltare**]* |
+
+<!--v-->
+
 ## Konsonantoj
+
+<!--v-->
+
+### Elizio
 
 <!--v-->
 
@@ -3771,7 +3879,136 @@ Notes
 
 <!--v-->
 
+| Lingua | Itala |
+|-|-|
+| ja | jam *[già]* |
+| sî | sic *[sì]* |
+
+<!--v-->
+
+| Lingua | Itala |
+|-|-|
+| es <small>est</small> | est *[è]* |
+| tres | trēs *[tre]* |
+
+Notes:
+* `LA?`
+
+<!--v-->
+
+| Lingua | Itala |
+|-|-|
+| postmeridiana | postmeridiano *[pomeridiano]* |
+| transmontár <small>transmontare</small> | transmontare *[tramontare]* |
+
+<!--v-->
+
+| Lingua | Itala |
+|-|-|
+| postponér <small>postponĕre</small> | pos̄tponĕre *[posporre]* |
+| transportár <small>transportare</small> | trans̄portare *[trasportare]* |
+
+Notes:
+* `<small>` `-ione (-io!)` `-re`
+
+<!--v-->
+
+| Lingua | Itala |
+|-|-|
+| adiuto | ad̯iuto *[aiuto]* |
+| magistro | mağïstro *[maestro]* |
+
+<!--v-->
+
+### Voĉiĝo
+
+<!--v-->
+
+| Lingua | Itala |
+|-|-|
+| catto | c̆atto *[gatto]* |
+| paupĕra | påŭp̆ero *[povero]* |
+| sequír | seq̆uire *[seguire]* |
+
+<!--v-->
+
+| Lingua | Itala |
+|-|-|
+| matre | mat̯re = madre *[madre]* |
+
+<!--v-->
+
+### Duobliĝo
+
+<!--v-->
+
+| Lingua | Itala |
+|-|-|
+| aqua | aq̄ua *[acqua]* |
+| lege | leg̈̇e *[legge]* |
+| publĭca | puḇlico *[pubblico]* |
+| rico | ric̄o *[ricco]* |
+
+<!--v-->
+
+| Lingua | Itala |
+|-|-|
+| (qŭe nos) havea <small>(qŭe) haveamo</small> | hav̄iamo *[abbiamo]* |
+| (qŭe nos) sapea <small>(qŭe) sapeamo</small> | sap̄iamo *[sappiamo]* |
+
+<!--v-->
+
+### Velariĝo
+
+<!--v-->
+
+| Lingua | Itala |
+|-|-|
+| nos | nōṡ *[noi]* |
+| paro | paṙo *[paio]* |
+| sex | seẋ *[sei]* |
+
+<!--v-->
+
+| Lingua | Itala |
+|-|-|
+| blanca | bḷanco *[bianco]* |
+| clave | cḷave *[chiave]* |
+| flore | fḷore *[fiore]* |
+| plena | pḷeno *[pieno]* |
+
+<!--v-->
+
+| Lingua | Itala |
+|-|-|
+| templo | tempḷo *[tempio]* |
+| templos | templi *[templi]* |
+
+<!--v-->
+
+| Lingua | Itala |
+|-|-|
+| copŭla | copŭla = cop̄ŭḷa *[coppia]* |
+| nevŭla | nevŭla = nev̄ŭḷa *[nebbia]* |
+| ocŭlo | ocŭlo = oc̄ŭḷo *[occhio]* |
+
+<!--v-->
+
+| Lingua | Itala |
+|-|-|
+| sedŭla | sedŭla = sedḷa *[sedia]* |
+| vetŭla | vetŭlo = vecḷo *[vecchio]* |
+
+<!--v-->
+
 ### Assimiloj
+
+<!--v-->
+
+| Lingua | Itala |
+|-|-|
+| absoluta | absoluto *[assoluto]* |
+| ipso | ïpso *[esso]* |
 
 <!--v-->
 
@@ -3784,63 +4021,27 @@ Notes
 
 | Lingua | Itala |
 |-|-|
-| absoluta | absoluto *[assoluto]* |
+| exame | exame *[esame]* |
+| exito | exito *[esito]* |
+| experto | experto *[esperto]* |
 
 <!--v-->
 
 | Lingua | Itala |
 |-|-|
+| captiva | captivo *[cattivo]* |
 | facto | facto *[fatto]* |
-| optĭma | optimo *[ottimo]* |
+| puncto <small>→ pûnto</small> | punto *[punto]* |
 
 <!--v-->
 
 | Lingua | Itala |
 |-|-|
-| damnare | d
+| condamnár | condamnare *[condannare]* |
 
 <!--v-->
 
-| Lingua | Itala |
-|-|-|
-| blanca | bḷanco *[bianco]* |
-| clave | cḷave *[chiave]* |
-| flore | fḷore *[fiore]* |
-| glacio | gḷacĭo *[ghiaccio]* |
-| plena | pḷeno *[pieno]* |
-
-Notes:
-* `ḷ = lh`
-
-<!--v-->
-
-| Lingua | Itala |
-|-|-|
-| nebŭla | nebŭla *[nebbia]* |
-| ocŭlo | ocŭlo *[occhio]* |
-
-Notes:
-* `nuvůla`
-
-<!--v-->
-
-### ...
-
-<!--v-->
-
-| Lingua | Itala |
-|-|-|
-| armario | armaṟio *[armadio]* |
-
-<!--v-->
-
-### i
-
-<!--v-->
-
-| Lingua | Itala |
-|-|-|
-| studios | studī *[studi]* |
+### +i
 
 <!--v-->
 
@@ -3850,37 +4051,21 @@ Notes:
 
 | Lingua | Itala |
 |-|-|
-| infantia | infantia *[infanzia]* |
-
-<!-- | tio | tio *[zio]* | -->
-
-<!--v-->
-
-#### j
+| gratias | gratie *[grazie]* |
 
 <!--v-->
 
 | Lingua | Itala |
 |-|-|
-| justa | justo *[giusto]* |
-| maio | majo *[maggio]* |
+| gratias | gratie *[grazie]* |
+
+Notes:
+* `zio`
+* `democrazia`
 
 <!--v-->
 
-| Lingua | Itala |
-|-|-|
-| objecto | objecto *[oggetto]* |
-| radio | radjo *[raggio]* |
-
-<!--v-->
-
-| Lingua | Itala |
-|-|-|
-| pronuntia | pronuntja *[pronuncia]* |
-
-<!--v-->
-
-#### ĭ
+#### +ĭ
 
 <!--v-->
 
@@ -3900,7 +4085,32 @@ Notes:
 
 | Lingua | Itala |
 |-|-|
-| facia | facĭa *[faccia]* |
+| camisia | camisĭa *[camicia]* |
+| laxiár | laxĭare *[lasciare]* |
+
+<!--v-->
+
+#### +j
+
+<!--v-->
+
+| Lingua | Itala |
+|-|-|
+| justa | justo *[giusto]* |
+| maio | majo *[maggio]* |
+
+<!--v-->
+
+| Lingua | Itala |
+|-|-|
+| objecto | objecto *[oggetto]* |
+| radio | radjo *[raggio]* |
+
+<!--v-->
+
+| Lingua | Itala |
+|-|-|
+| corâjo <small>coradĭc̆o</small> | corat̯jc̆o = corajo *[coraggio]* |
 
 <!--v-->
 
@@ -3911,6 +4121,148 @@ Notes:
 | Lingua | Itala |
 |-|-|
 | (eo) veni <small>venio</small> | venıo *[vengo]* |
+
+<!--v-->
+
+#### ĕ
+
+<!--v-->
+
+| Lingua | Itala |
+|-|-|
+| alteár | altĕare = altĭare *[alzare]* |
+| grisea | gris̆ĕo = gris̆ĭo *[grigio]* |
+| guttea | gůttĕa = gůttja *[goccia]* |
+| platea | pḷatĕa = pḷatĭa *[piazza]* |
+
+Notes:
+* `?`
+* `gozzia`
+
+<!--v-->
+
+### Esceptoj
+
+<!--v-->
+
+| Lingua | Itala |
+|-|-|
+| mense | mēn̆se *[mese]* |
+| mensile | mēnsile *[mensile]* |
+
+<!--v-->
+
+| Lingua | Itala |
+|-|-|
+| mense | mēn̆se *[mese]* |
+| mensile | **mēn̆sile** *[**mesile**]* |
+
+<!--v-->
+
+| Lingua | Itala |
+|-|-|
+| ampla | ampḷo *[ampio]* |
+| amplas | ampḷi *[ampi]* |
+
+<!--v-->
+
+| Lingua | Itala |
+|-|-|
+| ampla | ampḷo *[ampio]* |
+| amplas | **ampli** *[**ampli**]* |
+
+<!--v-->
+
+| Lingua | Itala |
+|-|-|
+| marinario | marinar̆io *[marinaio]* |
+| marinarios | marinar̆ī *[marinai]* |
+
+<!--v-->
+
+| Lingua | Itala |
+|-|-|
+| marinario | marinar̆io *[marinaio]* |
+| marinarios | **marinarī** *[**marinari**]* |
+
+<!--v-->
+
+| Lingua | Itala |
+|-|-|
+| armario | armaṟio *[armadio]* |
+| de raro | dė raṟo *[di rado]* |
+
+<!--v-->
+
+| Lingua | Itala |
+|-|-|
+| armario | **armar̆io** *[**armaio**]* |
+| de raro | **dė raro** *[**di raro**]* |
+
+<!--v-->
+
+| Lingua | Itala |
+|-|-|
+| glaciale | glaciale *[glaciale]* |
+| glacio | gḷac̄io *[ghiaccio]* |
+
+<!--v-->
+
+| Lingua | Itala |
+|-|-|
+| glaciale | **gḷac̄iale** *[**ghiacciale**]* |
+| glacio | gḷac̄io *[ghiaccio]* |
+
+<!--v-->
+
+| Lingua | Itala |
+|-|-|
+| optár <small>optare</small> | op̄tare *[optare]* |
+| optĭma | optimo *[ottimo]* |
+
+<!--v-->
+
+| Lingua | Itala |
+|-|-|
+| optár <small>optare</small> | **optare** *[**ottare**]* |
+| optĭma | optimo *[ottimo]* |
+
+<!--v-->
+
+| Lingua | Itala |
+|-|-|
+| indĭce | indice *[indice]* |
+| indicio | indiȼio *[indizio]* |
+
+Notes:
+* `Ȼȼ`
+
+<!--v-->
+
+| Lingua | Itala |
+|-|-|
+| indĭce | indice *[indice]* |
+| indicio | **indicio** *[**indicio**]* |
+
+<!--v-->
+
+| Lingua | Itala |
+|-|-|
+| fritia | frïtja *[freccia]* |
+| pronuntia | pronuntja *[pronuncia]* |
+
+<!--v-->
+
+| Lingua | Itala |
+|-|-|
+| fritia | **frïtia** *[**frezzia**]* |
+| pronuntia | **pronuntia** *[**pronunzia**]* |
+
+Notes:
+* `facciamo facevamo faccia c̄`
+* | facia | fac̄ia *[faccia]* |
+
+<!--v-->
 
 ## Grekismoj
 
@@ -3941,13 +4293,35 @@ Notes:
 |-|-|
 | theoria | theoria *[teoria]* |
 
+<!--v-->
 
+## Germanismoj
 
-<!-- indizio giudizio -->
-<!-- "c" bezonas diakritaĵon -->
+<!--v-->
 
-<!-- atico -->
-<!-- | vilaĝo | **villâjo** <small>**villadĭc̆o**</small> *[vilaĵo]* <small>*[vilađi-o]*</small> | -->
-<!-- | hodie | hodjė *[oggi]* | -->
+| Lingua | Itala |
+|-|-|
+| (wardár) | wardare *[guardare]* |
 
-<!-- nevŭla? = nebbia? -->
+<!--v-->
+
+<!--
+* **bisůmnĭo** [bisogno]
+* **omnĭ** [ogni]
+* **somnĭo** [sogno]
+
+hymno thůnno sůbto dïcto judiȼio hẽri spagìtti teŭt̯ìsco pḷùvja ěq̆uale sùbsta hodjė djůrno cḷesıa åŭrïcŭlo spìcŭlo pḷus pağēn̆se pḷaṯo pat̯re civĭtat̯ civĭtat̯inantĭa rat̯ĭōne stat̯ĭōne cōrtēn̆s̆jare fas̆ĕolo pḷïc̆are mac̄hina rėcůp̆erare mağĭs mağis jänŭar̆io febrŭar̆io aŭgůsto dẽcė jůp̆edi allovjo fḷava postmeridjo frïtja duvĭo levjero důpḷo qyæṟere tåŭrinēn̆se bal̮nĕo angùstja cantĭōne frïgĭdo domĭna vïrĭde porĭco basjo hĭstoria ĭntra ĭnfra qŭis qŭōme capïtĭůlo bellïtĭa ėğo ĕxvïğĭlĭare hospït̯ale cåŭsa sap̆jo poṡt créscĕre
+
+dŭm-ïntĕre ad-lă-hōra ad-pœna dĕ-ab-vēro dĕ-ïntro dĕ-ůvï ĭstĕ-ïpso qŭō-sic de̊-post
+
+tǒṯo proprio veterinario
+-->
+
+<!-- sı -->
+<!-- ragazıo -->
+
+<!-- reformoj -->
+
+<!-- | nautár | nãŭtare *[nuotare]* | -->
+<!-- * **ĕẋaq̄uare** [sciacquare] -->
+<!-- * **ȇẋsuc̆are** [asciugare] -->
