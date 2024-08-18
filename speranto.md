@@ -3853,6 +3853,7 @@ Notes:
 | au <small>aud</small> | ăůt̯ = ōd *[o]* |
 | aucello | ăucello = ucello *[ucello]* |
 | auscultár | aŭscůltare = ascoltare *[ascoltare]* |
+| cauda | căůda *[coda]* |
 
 <!--v-->
 
@@ -3861,6 +3862,7 @@ Notes:
 | au <small>aud</small> | **åŭd** *[**o**]* |
 | aucello | **åŭcello** *[**ocello**]* |
 | auscultár | **åŭscůltare** *[**oscoltare**]* |
+| cauda | **cåŭda** *[**coda**]* |
 
 <!--v-->
 
@@ -4255,7 +4257,7 @@ Notes:
 
 | Lingua | Itala |
 |-|-|
-| fritia | **frïtia** *[**frezzia**]* |
+| fritia | **frïtia** *[**frezia**]* |
 | pronuntia | **pronuntia** *[**pronunzia**]* |
 
 Notes:
@@ -4310,7 +4312,7 @@ Notes:
 * **omnĭ** [ogni]
 * **somnĭo** [sogno]
 
-hymno thůnno sůbto dïcto judiȼio hẽri spagìtti teŭt̯ìsco pḷùvja ěq̆uale sùbsta hodjė djůrno cḷesıa åŭrïcŭlo spìcŭlo pḷus pağēn̆se pḷaṯo pat̯re civĭtat̯ civĭtat̯inantĭa rat̯ĭōne stat̯ĭōne cōrtēn̆s̆jare fas̆ĕolo pḷïc̆are mac̄hina rėcůp̆erare mağĭs mağis jänŭar̆io febrŭar̆io aŭgůsto dẽcė jůp̆edi allovjo fḷava postmeridjo frïtja duvĭo levjero důpḷo qyæṟere tåŭrinēn̆se bal̮nĕo angùstja cantĭōne frïgĭdo domĭna vïrĭde porĭco basjo hĭstoria ĭntra ĭnfra qŭis qŭōme capïtĭůlo bellïtĭa ėğo ĕxvïğĭlĭare hospït̯ale cåŭsa sap̆jo poṡt créscĕre
+hymno thůnno sůbto dïcto judiȼio hẽri spagìtti teŭt̯ìsco pḷùvja ěq̆uale sùbsta hodjė djůrno cḷesıa åŭrïcŭlo spìcŭlo pḷus pağēn̆se pḷaṯo pat̯re civĭtat̯ civĭtat̯inantĭa rat̯ĭōne stat̯ĭōne cōrtēn̆s̆jare fas̆ĕolo pḷïc̆are mac̄hina rėcůp̆erare mağĭs mağis jänŭar̆io febrŭar̆io aŭgůsto dẽcė jůp̆edi allovjo fḷava postmeridjo duvĭo levjero důpḷo qyæṟere tåŭrinēn̆se bal̮nĕo angùstja cantĭōne frïgĭdo domĭna vïrĭde porĭco basjo hĭstoria ĭntra ĭnfra qŭis qŭōme capïtĭůlo bellïtĭa ėğo ĕxvïğĭlĭare hospït̯ale cåŭsa sap̆jo poṡt créscĕre
 
 dŭm-ïntĕre ad-lă-hōra ad-pœna dĕ-ab-vēro dĕ-ïntro dĕ-ůvï ĭstĕ-ïpso qŭō-sic de̊-post
 
@@ -4325,3 +4327,438 @@ tǒṯo proprio veterinario
 <!-- | nautár | nãŭtare *[nuotare]* | -->
 <!-- * **ĕẋaq̄uare** [sciacquare] -->
 <!-- * **ȇẋsuc̆are** [asciugare] -->
+
+<!--s-->
+
+# La Franca
+
+<!--v-->
+
+## Finaĵoj
+
+<!--v-->
+
+### Elizio
+
+<!--v-->
+
+| Lingua | Franca |
+|-|-|
+| bassa | basso = ba *[bas]* |
+| bassa | bassa = bas *[basse]* |
+
+<!--v-->
+
+| Lingua | Franca |
+|-|-|
+| bona | bona = bon̄ *[bonne]* |
+| bona | bono = bon *[bon]* |
+
+<!--v-->
+
+| Lingua | Franca |
+|-|-|
+| collo | collo = col *[col]* |
+| colla | colla = col *[colle]* |
+
+<!--v-->
+
+| Lingua | Franca |
+|-|-|
+| porto | porto = por *[port]* |
+| porta | porta = port *[porte]* |
+
+<!--v-->
+
+## Vokaloj
+
+<!--v-->
+
+| Lingua | Franca |
+|-|-|
+| in | ïn *[en]* |
+
+<!--v-->
+
+| Lingua | Franca |
+|-|-|
+| cursa | cursa *[course]* |
+| turre | turre *[tour]* |
+
+<!--v-->
+
+| Lingua | Franca |
+|-|-|
+| amore | amǒre *[amour]* |
+
+<!--v-->
+
+| Lingua | Franca |
+|-|-|
+| flore | fløre *[fleur]* |
+| naso | næso *[nais]* |
+| paro | pæro *[pair]* |
+| tu | ty *[tu]* |
+
+<!--v-->
+
+| Lingua | Franca |
+|-|-|
+| culo | cylo = c̄ylo *[cul]* |
+| gola | gøla = ḡøla *[gueule]* |
+
+<!--v-->
+
+| Lingua | Franca |
+|-|-|
+| maio | maio = mæ *[mai]* |
+
+Notes:
+* `[ne]`
+* `æ?`
+
+<!--v-->
+
+| Lingua | Franca |
+|-|-|
+| qui | qui = qŭi *[qui]* |
+
+<!--v-->
+
+| Lingua | Franca |
+|-|-|
+| qŭe | quẽ *[quoi]* |
+| via | vĩa *[voie]* |
+
+<!--v-->
+
+| Lingua | Franca |
+|-|-|
+| celo | cëlo = ciel *[ciel]* |
+
+<!--v-->
+
+### Esceptoj
+
+<!--v-->
+
+| Lingua | Franca |
+|-|-|
+| domĭna | domĭna *[domme]* |
+| loco | løc̆o *[lœu]* |
+
+<!--v-->
+
+| Lingua | Franca |
+|-|-|
+| domĭna | dȏmĭna *[dame]* |
+| loco | lõc̆o *[lieu]* |
+
+Notes:
+* `| damno | dåmno *[dame]* |`
+
+<!--v-->
+
+## Konsonantoj
+
+<!--v-->
+
+| Lingua | Franca |
+|-|-|
+| sacco | sacco *[sac]* |
+| terra | terra *[terre]* |
+| volo | volo *[vol]* |
+
+<!--v-->
+
+### c
+
+<!--v-->
+
+| Lingua | Franca |
+|-|-|
+| catto | ĉatto *[chat]* |
+
+<!--v-->
+
+### l
+
+<!--v-->
+
+| Lingua | Franca |
+|-|-|
+| salto | salto *[saut]* |
+
+<!--v-->
+
+### Elizio
+
+<!--v-->
+
+| Lingua | Franca |
+|-|-|
+| hora | høra *[heur]* |
+
+<!--v-->
+
+| Lingua | Franca |
+|-|-|
+| posta | pos̄ta *[poste]* |
+| testa | testa *[tête]* |
+
+<!--v-->
+
+| Lingua | Franca |
+|-|-|
+| schola | s̃chola *[école]* |
+
+<!--v-->
+
+| Lingua | Franca |
+|-|-|
+| trâino <small>trağino</small> | traino <small>trağino</small> *[train]* |
+
+Notes:
+* `de kiam ekzistas tiu elizio en la dialektaro?`
+
+<!--v-->
+
+### Voĉiĝo
+
+<!--v-->
+
+| Lingua | Franca |
+|-|-|
+| foco | føc̆o *[feu]* |
+
+Notes:
+* `fœu`
+
+<!--v-->
+
+| Lingua | Franca |
+|-|-|
+| opĕra | øp̆ĕra *[œuvre]* |
+
+<!--v-->
+
+### Germanismoj
+
+<!--v-->
+
+| Lingua | Franca |
+|-|-|
+| (walaup) | galaup *[galop]* |
+| (wanto) | wanto *[gant]* |
+
+Notes:
+* `walaup`?
+
+<!--v-->
+
+### Esceptoj
+
+<!--v-->
+
+| Lingua | Franca |
+|-|-|
+| femĭna | femĭna = fem̄ *[femme]* |
+
+<!--v-->
+
+| Lingua | Franca |
+|-|-|
+| femĭna | fȇmĭna = fam̄ *[femme]* |
+
+<!--v-->
+
+| Lingua | Franca |
+|-|-|
+| amár | æmære *[aimer]* |
+
+<!--v-->
+
+| Lingua | Franca |
+|-|-|
+| amár | **amære** *[**amer**]* |
+
+<!--v-->
+
+| Lingua | Franca |
+|-|-|
+| tempo | tempo *[temps]* |
+
+<!--v-->
+
+| Lingua | Franca |
+|-|-|
+| tempo | tempo *[**temp**]* |
+
+<!--v-->
+
+| Lingua | Franca |
+|-|-|
+| quattro | quattro *[quatre]* |
+
+<!--v-->
+
+| Lingua | Franca |
+|-|-|
+| quattro | quattro *[**quattre**]* |
+
+<!--v-->
+
+| Lingua | Franca |
+|-|-|
+| pace | pæc̆e *[paix]* |
+
+<!--v-->
+
+| Lingua | Franca |
+|-|-|
+| pace | pæc̆e *[**pai**]* |
+
+<!--v-->
+
+| Lingua | Franca |
+|-|-|
+| cifro | cifro *[ciffre]* |
+
+<!--v-->
+
+| Lingua | Franca |
+|-|-|
+| cifro | cifro *[**cifre**]* |
+
+<!--v-->
+
+| Lingua | Franca |
+|-|-|
+| sala | sala *[salle]* |
+
+<!--v-->
+
+| Lingua | Franca |
+|-|-|
+| sala | sala *[**sale**]* |
+
+Notes:
+* Bedeutungsänderung, evitinda
+
+<!--v-->
+
+| Lingua | Franca |
+|-|-|
+| vena | vena *[veine]* |
+
+<!--v-->
+
+| Lingua | Franca |
+|-|-|
+| vena | vena *[**vène**]* |
+
+<!--v-->
+
+| Lingua | Franca |
+|-|-|
+| joco | jøc̆o *[jeu]* |
+| popŭlo | pøpŭlo *[peuple]* |
+
+<!--v-->
+
+| Lingua | Franca |
+|-|-|
+| joco | jøc̆o *[**jœu**]* |
+| popŭlo | pøpŭlo *[**pœuple**]* |
+
+Notes:
+* aŭ ĉiuj `œu` fariĝu `eu`
+
+<!--v-->
+
+| Lingua | Franca |
+|-|-|
+| aperír | ǎp̆ĕrire *[ouvrir]* |
+| per | pěr *[pour]* |
+
+<!--v-->
+
+| Lingua | Franca |
+|-|-|
+| aperír | **ap̆ĕrire** *[**avrir**]* |
+| per | **per** *[**per**]* |
+
+<!--v-->
+
+#### Ortografiaj Esceptoj
+
+<!--v-->
+
+| Lingua | Franca |
+|-|-|
+| auro | *[or]* |
+
+<!--v-->
+
+| Lingua | Franca |
+|-|-|
+| auro | åŭro *[aur]* |
+
+<!--v-->
+
+| Lingua | Franca |
+|-|-|
+| mare | mære *[mair]* |
+| sale | sæle *[sail]* |
+
+<!--v-->
+
+| Lingua | Franca |
+|-|-|
+| mare | mære *[mer]* |
+| sale | sæle *[sel]* |
+
+<!--v-->
+
+| Lingua | Franca |
+|-|-|
+| alta | alto *[aut]* |
+
+<!--v-->
+
+| Lingua | Franca |
+|-|-|
+| alta | alto *[haut]* |
+
+<!--v-->
+
+#### Gramatikaj Esceptoj
+
+<!--v-->
+
+| Lingua | Franca |
+|-|-|
+| cauda | cæuda *[cœude]* |
+
+<!--v-->
+
+| Lingua | Franca |
+|-|-|
+| cauda | cæudo *[queue]* |
+
+
+
+<!--
+påŭsa sẽra nẽro myro lyna bëne pëde pæro clæro cœre yno yna pøc̆o?au? sølo sæno passo vino tinto sænto bæl̮nĕo mæno pæno isla fenestra mağistro s̃tẽlla s̃tăre bastone parte havẽre ponte vẽlo ĉalĭdo falta ĉampo aq̆ua ganto fẽro gaio ĉausa poro oracŭlo nobĭle mægro roba søra angŭlo
+
+[e]
+clæve caio
+
+[ɛ]
+mağis presto
+
+[ɑ͂]
+vento tenta dente gente sentire centro quando
+TODO "en"="ïn" ist OK
+
+-->
