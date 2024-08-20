@@ -4326,7 +4326,7 @@ tǒṯo proprio veterinario
 
 <!-- | nautár | nãŭtare *[nuotare]* | -->
 <!-- * **ĕẋaq̄uare** [sciacquare] -->
-<!-- * **ȇẋsuc̆are** [asciugare] -->
+<!-- * **eu0311ẋsuc̆are** [asciugare] -->
 
 <!--s-->
 
@@ -4351,8 +4351,22 @@ tǒṯo proprio veterinario
 
 | Lingua | Franca |
 |-|-|
-| bona | bona = bon̄ *[bonne]* |
 | bona | bono = bon *[bon]* |
+| bona | bona = bon̄ *[bonne]* |
+
+<!--v-->
+
+| Lingua | Franca |
+|-|-|
+| nova | nøvo = nøf *[neuf]* |
+| nova | nøva = nøv *[neuve]* |
+
+<!--v-->
+
+| Lingua | Franca |
+|-|-|
+| forte | forte = for *[fort]* |
+| forte | fortä = fort *[forte]* |
 
 <!--v-->
 
@@ -4367,6 +4381,31 @@ tǒṯo proprio veterinario
 |-|-|
 | porto | porto = por *[port]* |
 | porta | porta = port *[porte]* |
+
+<!--v-->
+
+| Lingua | Franca |
+|-|-|
+| cantár | ĉantär̆e *[chanter]* |
+
+<!--v-->
+
+| Lingua | Franca |
+|-|-|
+| serata | sẽrätă *[soirée]* |
+| universitate | üniversitäte *[université]* |
+
+<!--v-->
+
+| Lingua | Franca |
+|-|-|
+| castello | ĉastȇllo *[château]* |
+
+<!--v-->
+
+| Lingua | Franca |
+|-|-|
+| corâjo <small>coradĭc̆o</small> | cǒrajo *[courage]* |
 
 <!--v-->
 
@@ -4395,27 +4434,30 @@ tǒṯo proprio veterinario
 
 | Lingua | Franca |
 |-|-|
-| flore | fløre *[fleur]* |
-| naso | næso *[nais]* |
-| paro | pæro *[pair]* |
-| tu | ty *[tu]* |
-
-<!--v-->
-
-| Lingua | Franca |
-|-|-|
-| culo | cylo = c̄ylo *[cul]* |
-| gola | gøla = ḡøla *[gueule]* |
-
-<!--v-->
-
-| Lingua | Franca |
-|-|-|
-| maio | maio = mæ *[mai]* |
+| flore | flöre = fløre *[fleur]* |
+| naso | näso = næso *[nais]* |
+| paro | päro = pæro *[pair]* |
+| tu | tü = ty *[tu]* |
 
 Notes:
 * `[ne]`
-* `æ?`
+
+<!--v-->
+
+| Lingua | Franca |
+|-|-|
+| culo | cülo = c̄ylo *[cul]* |
+| gola | göla = ḡøla *[gueule]* |
+
+<!--v-->
+
+| Lingua | Franca |
+|-|-|
+| maio | maio *[mai]* |
+| pauco | päuc̆o *[peu]* |
+
+Notes:
+* `ä` besseres Beispiel ohne c̆
 
 <!--v-->
 
@@ -4444,15 +4486,17 @@ Notes:
 
 | Lingua | Franca |
 |-|-|
+| cane | ĉäne *[chein]* |
 | domĭna | domĭna *[domme]* |
-| loco | løc̆o *[lœu]* |
+| loco | löc̆o *[lœu]* |
 
 <!--v-->
 
 | Lingua | Franca |
 |-|-|
+| cane | ĉãne *[chien]* |
 | domĭna | dȏmĭna *[dame]* |
-| loco | lõc̆o *[lieu]* |
+| loco | lø̃c̆o *[lieu]* |
 
 Notes:
 * `| damno | dåmno *[dame]* |`
@@ -4481,6 +4525,12 @@ Notes:
 
 <!--v-->
 
+| Lingua | Franca |
+|-|-|
+| bucca | bucĉa *[bouche]* |
+
+<!--v-->
+
 ### l
 
 <!--v-->
@@ -4497,7 +4547,7 @@ Notes:
 
 | Lingua | Franca |
 |-|-|
-| hora | høra *[heur]* |
+| hora | höra *[heur]* |
 
 <!--v-->
 
@@ -4529,7 +4579,7 @@ Notes:
 
 | Lingua | Franca |
 |-|-|
-| foco | føc̆o *[feu]* |
+| foco | föc̆o *[feu]* |
 
 Notes:
 * `fœu`
@@ -4538,7 +4588,7 @@ Notes:
 
 | Lingua | Franca |
 |-|-|
-| opĕra | øp̆ĕra *[œuvre]* |
+| opĕra | öp̆ĕra *[œuvre]* |
 
 <!--v-->
 
@@ -4568,19 +4618,19 @@ Notes:
 
 | Lingua | Franca |
 |-|-|
-| femĭna | fȇmĭna = fam̄ *[femme]* |
+| femĭna | fȇmĭna = fam̄ *[femme]* |
 
 <!--v-->
 
 | Lingua | Franca |
 |-|-|
-| amár | æmære *[aimer]* |
+| amár | ämäre *[aimer]* |
 
 <!--v-->
 
 | Lingua | Franca |
 |-|-|
-| amár | **amære** *[**amer**]* |
+| amár | **amäre** *[**amer**]* |
 
 <!--v-->
 
@@ -4610,13 +4660,13 @@ Notes:
 
 | Lingua | Franca |
 |-|-|
-| pace | pæc̆e *[paix]* |
+| pace | päc̆e *[paix]* |
 
 <!--v-->
 
 | Lingua | Franca |
 |-|-|
-| pace | pæc̆e *[**pai**]* |
+| pace | päc̆e *[**pai**]* |
 
 <!--v-->
 
@@ -4643,7 +4693,7 @@ Notes:
 | sala | sala *[**sale**]* |
 
 Notes:
-* Bedeutungsänderung, evitinda
+* evitinda
 
 <!--v-->
 
@@ -4661,32 +4711,18 @@ Notes:
 
 | Lingua | Franca |
 |-|-|
-| joco | jøc̆o *[jeu]* |
-| popŭlo | pøpŭlo *[peuple]* |
+| joco | jöc̆o *[jeu]* |
+| popŭlo | pöpŭlo *[peuple]* |
 
 <!--v-->
 
 | Lingua | Franca |
 |-|-|
-| joco | jøc̆o *[**jœu**]* |
-| popŭlo | pøpŭlo *[**pœuple**]* |
+| joco | jöc̆o *[**jœu**]* |
+| popŭlo | pöpŭlo *[**pœuple**]* |
 
 Notes:
 * aŭ ĉiuj `œu` fariĝu `eu`
-
-<!--v-->
-
-| Lingua | Franca |
-|-|-|
-| aperír | ǎp̆ĕrire *[ouvrir]* |
-| per | pěr *[pour]* |
-
-<!--v-->
-
-| Lingua | Franca |
-|-|-|
-| aperír | **ap̆ĕrire** *[**avrir**]* |
-| per | **per** *[**per**]* |
 
 <!--v-->
 
@@ -4708,15 +4744,15 @@ Notes:
 
 | Lingua | Franca |
 |-|-|
-| mare | mære *[mair]* |
-| sale | sæle *[sail]* |
+| mare | märe *[mair]* |
+| sale | säle *[sail]* |
 
 <!--v-->
 
 | Lingua | Franca |
 |-|-|
-| mare | mære *[mer]* |
-| sale | sæle *[sel]* |
+| mare | märe *[mer]* |
+| sale | säle *[sel]* |
 
 <!--v-->
 
@@ -4738,27 +4774,72 @@ Notes:
 
 | Lingua | Franca |
 |-|-|
-| cauda | cæuda *[cœude]* |
+| cauda | cäuda *[cœude]* |
 
 <!--v-->
 
 | Lingua | Franca |
 |-|-|
-| cauda | cæudo *[queue]* |
+| cauda | cäudo *[queue]* |
 
+<!--v-->
 
+#### Prononcaj Esceptoj
+
+<!--v-->
+
+| Lingua | Franca |
+|-|-|
+| cono | cono *[con]* |
+
+Notes:
+* evitinda
+
+<!--v-->
+
+| Lingua | Franca |
+|-|-|
+| cono | con̄o *[cône]* |
+
+<!--v-->
+
+| Lingua | Franca |
+|-|-|
+| aperír | ap̆ĕrire *[avrir]* |
+| per | per *[per]* |
+
+<!--v-->
+
+| Lingua | Franca |
+|-|-|
+| aperír | ǎp̆ĕrire *[ouvrir]* |
+| per | pěr *[pour]* |
+
+<!-- òóôõōo̅ŏȯöỏo̊őǒo̍o̎ȍ o̐ȏ -->
 
 <!--
-påŭsa sẽra nẽro myro lyna bëne pëde pæro clæro cœre yno yna pøc̆o?au? sølo sæno passo vino tinto sænto bæl̮nĕo mæno pæno isla fenestra mağistro s̃tẽlla s̃tăre bastone parte havẽre ponte vẽlo ĉalĭdo falta ĉampo aq̆ua ganto fẽro gaio ĉausa poro oracŭlo nobĭle mægro roba søra angŭlo
-
+påŭsa sẽra nẽro müro lüna bëne pëde päro cläro cöre üno üna sölo säno passo vino tinto sänto bäl̮nĕo mäno päno isla fenestra mağistro s̃tẽlla s̃tăre bastone parte havẽre ponte vẽlo ĉalĭdo falta ĉampo aq̆ua fẽro gaio ĉausa poro oracŭlo nobĭle mägro roba söra angŭlo tǒto můtto sĕc̆üro pĩso jẙvăn̄e grande övo gräno gräna breve ĉäro prĭmëro grave qualitäte gustäre estätĕ s̃tato s̃täto plüs plüstosto persona beu030cllo
 [e]
-clæve caio
+cläve caio
 
 [ɛ]
-mağis presto
+mağis presto frïsc̆o frïsĉa
 
 [ɑ͂]
 vento tenta dente gente sentire centro quando
-TODO "en"="ïn" ist OK
+
+* *voyage* [vwajaʒ]: **vĩajo** = **vĩaj**@j
+ võc̆äle
+
+* *chaise* [ʃɛz]: **ĉäthĕdr̃a** = **ĉäs**
+
+vincĕre *[vincre]* *[vaincre]*
+compŭtär̆e *[conter]* *[compter]*
+
+nø̌ċte *[nuit]*
+ø̌ċto *[uit]* *[huit]*
+
+
+
 
 -->
