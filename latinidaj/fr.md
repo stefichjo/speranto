@@ -88,9 +88,6 @@ La võċäle [ɛ] (dĕ-int̯us̄ una syllabe fïrmät̯a) nĕ ĉanjat passo dĕ-
 ## -t
 
 * *point* [pwɛ̃]: **pũncto** = **pũñ**
-* *mère* [mɛʀ]: **mät̯re** = **mär**
-* *père* [pɛʀ]: **pät̯re** = **pär**
-* *frère* [fʀɛʀ]: **frät̯re** = **frär**
 
 ## -v
 

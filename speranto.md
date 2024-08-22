@@ -4358,8 +4358,8 @@ tǒṯo proprio veterinario
 
 | Lingua | Franca |
 |-|-|
-| nova | nøvo = nøf *[neuf]* |
-| nova | nøva = nøv *[neuve]* |
+| nova | növo = nöf *[neuf]* |
+| nova | növa = növ *[neuve]* |
 
 <!--v-->
 
@@ -4415,14 +4415,7 @@ tǒṯo proprio veterinario
 
 | Lingua | Franca |
 |-|-|
-| in | ïn *[en]* |
-
-<!--v-->
-
-| Lingua | Franca |
-|-|-|
 | cursa | cursa *[course]* |
-| turre | turre *[tour]* |
 
 <!--v-->
 
@@ -4435,12 +4428,8 @@ tǒṯo proprio veterinario
 | Lingua | Franca |
 |-|-|
 | flore | flöre = fløre *[fleur]* |
-| naso | näso = næso *[nais]* |
 | paro | päro = pæro *[pair]* |
 | tu | tü = ty *[tu]* |
-
-Notes:
-* `[ne]`
 
 <!--v-->
 
@@ -4480,26 +4469,114 @@ Notes:
 
 <!--v-->
 
+### Nazaliĝo
+
+<!--v-->
+
+| Lingua | Franca |
+|-|-|
+| fame | fäme *[faim]* |
+| in | ïn *[en]* |
+
+<!--v-->
+
 ### Esceptoj
 
 <!--v-->
 
 | Lingua | Franca |
 |-|-|
-| cane | ĉäne *[chein]* |
-| domĭna | domĭna *[domme]* |
-| loco | löc̆o *[lœu]* |
+| amár | **amäre** *[**amer**]* |
+| aperír | **ap̆ĕrire** *[**avrir**]* |
+| cane | **ĉäne** *[**chein**]* |
+| domĭna | **domĭna** *[**domme**]* |
+| loco | **löc̆o** *[**lœu**]* |
+| per | **per** *[**per**]* |
 
 <!--v-->
 
 | Lingua | Franca |
 |-|-|
+| amár | ämäre *[aimer]* |
+| aperír | ǎp̆ĕrire *[ouvrir]* |
 | cane | ĉãne *[chien]* |
 | domĭna | dȏmĭna *[dame]* |
 | loco | lø̃c̆o *[lieu]* |
+| per | pěr *[pour]* |
 
 Notes:
 * `| damno | dåmno *[dame]* |`
+
+<!--v-->
+
+#### Ortografiaj Esceptoj
+
+<!--v-->
+
+| Lingua | Franca |
+|-|-|
+| auro | åŭro *[**aur**]* |
+| joco | jöc̆o *[**jœu**]* |
+| mare | märe *[**mair**]* |
+
+<!--v-->
+
+| Lingua | Franca |
+|-|-|
+| auro | åŭro *[or]* |
+| joco | jöc̆o *[jeu]* |
+| mare | märe *[mer]* |
+
+Notes:
+* aŭ ĉiuj `œu` fariĝu `eu`
+* `| popŭlo | pöpŭlo *[**pœuple**]* |`
+
+<!--v-->
+
+| Lingua | Franca |
+|-|-|
+| vena | vena *[**vène**]* |
+
+<!--v-->
+
+| Lingua | Franca |
+|-|-|
+| vena | vena *[veine]* |
+
+<!--v-->
+
+#### Gramatikaj Esceptoj
+
+<!--v-->
+
+#### Pronconaj Esceptoj
+
+<!--v-->
+
+| Lingua | Franca |
+|-|-|
+| femĭna | **femĭna** *[femme]* |
+
+<!--v-->
+
+| Lingua | Franca |
+|-|-|
+| femĭna | fȇmĭna *[femme]* |
+
+<!--v-->
+
+| Lingua | Franca |
+|-|-|
+| cono | **cono** *[**con**]* |
+
+Notes:
+* evitinda
+
+<!--v-->
+
+| Lingua | Franca |
+|-|-|
+| cono | con̄o *[cône]* |
 
 <!--v-->
 
@@ -4512,6 +4589,26 @@ Notes:
 | sacco | sacco *[sac]* |
 | terra | terra *[terre]* |
 | volo | volo *[vol]* |
+
+<!--v-->
+
+### Mallongiĝo
+
+<!--v-->
+
+| Lingua | Franca |
+|-|-|
+| massa | massa *[masse]* |
+| massiva | massiva *[massive]* |
+
+Notes:
+* `la ina formo estu ekzempligita en la franca`
+
+<!--v-->
+
+| Lingua | Franca |
+|-|-|
+| quattro | quattro *[quatre]* |
 
 <!--v-->
 
@@ -4589,6 +4686,7 @@ Notes:
 | Lingua | Franca |
 |-|-|
 | opĕra | öp̆ĕra *[œuvre]* |
+| petra | pët̯ra *[pierre]* |
 
 <!--v-->
 
@@ -4610,155 +4708,32 @@ Notes:
 
 <!--v-->
 
-| Lingua | Franca |
-|-|-|
-| femĭna | femĭna = fem̄ *[femme]* |
-
-<!--v-->
-
-| Lingua | Franca |
-|-|-|
-| femĭna | fȇmĭna = fam̄ *[femme]* |
-
-<!--v-->
-
-| Lingua | Franca |
-|-|-|
-| amár | ämäre *[aimer]* |
-
-<!--v-->
-
-| Lingua | Franca |
-|-|-|
-| amár | **amäre** *[**amer**]* |
-
-<!--v-->
-
-| Lingua | Franca |
-|-|-|
-| tempo | tempo *[temps]* |
-
-<!--v-->
-
-| Lingua | Franca |
-|-|-|
-| tempo | tempo *[**temp**]* |
-
-<!--v-->
-
-| Lingua | Franca |
-|-|-|
-| quattro | quattro *[quatre]* |
-
-<!--v-->
-
-| Lingua | Franca |
-|-|-|
-| quattro | quattro *[**quattre**]* |
-
-<!--v-->
-
-| Lingua | Franca |
-|-|-|
-| pace | päc̆e *[paix]* |
-
-<!--v-->
-
-| Lingua | Franca |
-|-|-|
-| pace | päc̆e *[**pai**]* |
-
-<!--v-->
-
-| Lingua | Franca |
-|-|-|
-| cifro | cifro *[ciffre]* |
-
-<!--v-->
-
-| Lingua | Franca |
-|-|-|
-| cifro | cifro *[**cifre**]* |
-
-<!--v-->
-
-| Lingua | Franca |
-|-|-|
-| sala | sala *[salle]* |
-
-<!--v-->
-
-| Lingua | Franca |
-|-|-|
-| sala | sala *[**sale**]* |
-
-Notes:
-* evitinda
-
-<!--v-->
-
-| Lingua | Franca |
-|-|-|
-| vena | vena *[veine]* |
-
-<!--v-->
-
-| Lingua | Franca |
-|-|-|
-| vena | vena *[**vène**]* |
-
-<!--v-->
-
-| Lingua | Franca |
-|-|-|
-| joco | jöc̆o *[jeu]* |
-| popŭlo | pöpŭlo *[peuple]* |
-
-<!--v-->
-
-| Lingua | Franca |
-|-|-|
-| joco | jöc̆o *[**jœu**]* |
-| popŭlo | pöpŭlo *[**pœuple**]* |
-
-Notes:
-* aŭ ĉiuj `œu` fariĝu `eu`
-
-<!--v-->
-
 #### Ortografiaj Esceptoj
 
 <!--v-->
 
 | Lingua | Franca |
 |-|-|
-| auro | *[or]* |
+| pace | päc̆e *[**pai**]* |
+| sala | sala *[**sale**]* |
+| tempo | tempo *[**temp**]* |
 
 <!--v-->
 
 | Lingua | Franca |
 |-|-|
-| auro | åŭro *[aur]* |
+| pace | päc̆e *[paix]* |
+| sala | sala *[salle]* |
+| tempo | tempo *[temps]* |
+
+Notes:
+* `sala` evitinda
 
 <!--v-->
 
 | Lingua | Franca |
 |-|-|
-| mare | märe *[mair]* |
-| sale | säle *[sail]* |
-
-<!--v-->
-
-| Lingua | Franca |
-|-|-|
-| mare | märe *[mer]* |
-| sale | säle *[sel]* |
-
-<!--v-->
-
-| Lingua | Franca |
-|-|-|
-| alta | alto *[aut]* |
+| alta | alto *[**aut**]* |
 
 <!--v-->
 
@@ -4774,7 +4749,7 @@ Notes:
 
 | Lingua | Franca |
 |-|-|
-| cauda | cäuda *[cœude]* |
+| cauda | cäuda *[**cœude**]* |
 
 <!--v-->
 
@@ -4784,41 +4759,11 @@ Notes:
 
 <!--v-->
 
-#### Prononcaj Esceptoj
-
-<!--v-->
-
-| Lingua | Franca |
-|-|-|
-| cono | cono *[con]* |
-
-Notes:
-* evitinda
-
-<!--v-->
-
-| Lingua | Franca |
-|-|-|
-| cono | con̄o *[cône]* |
-
-<!--v-->
-
-| Lingua | Franca |
-|-|-|
-| aperír | ap̆ĕrire *[avrir]* |
-| per | per *[per]* |
-
-<!--v-->
-
-| Lingua | Franca |
-|-|-|
-| aperír | ǎp̆ĕrire *[ouvrir]* |
-| per | pěr *[pour]* |
-
 <!-- òóôõōo̅ŏȯöỏo̊őǒo̍o̎ȍ o̐ȏ -->
 
 <!--
-påŭsa sẽra nẽro müro lüna bëne pëde päro cläro cöre üno üna sölo säno passo vino tinto sänto bäl̮nĕo mäno päno isla fenestra mağistro s̃tẽlla s̃tăre bastone parte havẽre ponte vẽlo ĉalĭdo falta ĉampo aq̆ua fẽro gaio ĉausa poro oracŭlo nobĭle mägro roba söra angŭlo tǒto můtto sĕc̆üro pĩso jẙvăn̄e grande övo gräno gräna breve ĉäro prĭmëro grave qualitäte gustäre estätĕ s̃tato s̃täto plüs plüstosto persona beu030cllo
+påŭsa sẽra nẽro müro lüna bëne pëde päro cläro cöre üno üna sölo säno passo vino tinto sänto bäl̮nĕo mäno päno isla fenestra mağistro s̃tẽlla s̃tăre bastone parte havẽre ponte vẽlo ĉalĭdo falta ĉampo aq̆ua fẽro gaio ĉausa poro oracŭlo nobĭle mägro roba söra angŭlo tǒto můtto sĕc̆üro pĩso jẙvăn̄e grande övo gräno gräna breve ĉäro prĭmëro grave qualitäte gustäre estätĕ s̃tato s̃täto plüs plüstosto persona beu030cllo turre mät̯re pät̯re frät̯re
+
 [e]
 cläve caio
 
@@ -4839,7 +4784,7 @@ compŭtär̆e *[conter]* *[compter]*
 nø̌ċte *[nuit]*
 ø̌ċto *[uit]* *[huit]*
 
+näso *[nez]*
 
-
-
+säle *[sel]*
 -->
