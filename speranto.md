@@ -4274,13 +4274,8 @@ Notes:
 |-|-|
 | echo | echo *[eco]* |
 | photo | photo *[foto]* |
-| thema | thema *[tema]* |
-
-<!--v-->
-
-| Lingua | Itala |
-|-|-|
 | systema | systema *[sistema]* |
+| thema | thema *[tema]* |
 
 <!--v-->
 
@@ -4312,7 +4307,7 @@ Notes:
 * **omnĭ** [ogni]
 * **somnĭo** [sogno]
 
-hymno thůnno sůbto dïcto judiȼio hẽri spagìtti teŭt̯ìsco pḷùvja ěq̆uale sùbsta hodjė djůrno cḷesıa åŭrïcŭlo spìcŭlo pḷus pağēn̆se pḷaṯo pat̯re civĭtat̯ civĭtat̯inantĭa rat̯ĭōne stat̯ĭōne cōrtēn̆s̆jare fas̆ĕolo pḷïc̆are mac̄hina rėcůp̆erare mağĭs mağis jänŭar̆io febrŭar̆io aŭgůsto dẽcė jůp̆edi allovjo fḷava postmeridjo duvĭo levjero důpḷo qyæṟere tåŭrinēn̆se bal̮nĕo angùstja cantĭōne frïgĭdo domĭna vïrĭde porĭco basjo hĭstoria ĭntra ĭnfra qŭis qŭōme capïtĭůlo bellïtĭa ėğo ĕxvïğĭlĭare hospït̯ale cåŭsa sap̆jo poṡt créscĕre
+hymno thůnno sůbto dïcto judiȼio hẽri spagìtti teŭt̯ìsco pḷùvja ěq̆uale sùbsta hodjė djůrno cḷesıa åŭrïcŭlo spìcŭlo pḷus pağēn̆se pḷaṯo pat̯re civĭtat̯ civĭtat̯inantĭa rat̯ĭōne stat̯ĭōne cōrtēn̆s̆jare fas̆ĕolo pḷïc̆are mac̄hina rėcůp̆erare mağĭs mağis jänŭar̆io febrŭar̆io aŭgůsto dẽcė jůp̆ediĕ allovjo fḷava postmeridjo duvĭo levjero důpḷo qyæṟere tåŭrinēn̆se bânĭo=bal̮nĕo angùstja cantĭōne frïgĭdo domĭna vïrĭde porĭco basjo hĭstoria ĭntra ĭnfra qŭis qŭōme capïtĭůlo bellïtĭa ėğo ĕxvïğĭlĭare hospït̯ale cåŭsa sap̆jo poṡt créscĕre
 
 dŭm-ïntĕre ad-lă-hōra ad-pœna dĕ-ab-vēro dĕ-ïntro dĕ-ůvï ĭstĕ-ïpso qŭō-sic de̊-post
 
@@ -4442,8 +4437,10 @@ tǒṯo proprio veterinario
 
 | Lingua | Franca |
 |-|-|
+| Europa | Europa *[Europe]* |
 | maio | maio *[mai]* |
 | pauco | päuc̆o *[peu]* |
+| pausa | pausa = påŭsa *[pause]* |
 
 Notes:
 * `ä` besseres Beispiel ohne c̆
@@ -4504,9 +4501,6 @@ Notes:
 | loco | lø̃c̆o *[lieu]* |
 | per | pěr *[pour]* |
 
-Notes:
-* `| damno | dåmno *[dame]* |`
-
 <!--v-->
 
 #### Ortografiaj Esceptoj
@@ -4515,32 +4509,20 @@ Notes:
 
 | Lingua | Franca |
 |-|-|
-| auro | åŭro *[**aur**]* |
+| auro | auro *[**aur**]* |
 | joco | jöc̆o *[**jœu**]* |
 | mare | märe *[**mair**]* |
-
-<!--v-->
-
-| Lingua | Franca |
-|-|-|
-| auro | åŭro *[or]* |
-| joco | jöc̆o *[jeu]* |
-| mare | märe *[mer]* |
-
-Notes:
-* aŭ ĉiuj `œu` fariĝu `eu`
-* `| popŭlo | pöpŭlo *[**pœuple**]* |`
-
-<!--v-->
-
-| Lingua | Franca |
-|-|-|
+| perfecta | pȇrfecta *[**parfette**]* |
 | vena | vena *[**vène**]* |
 
 <!--v-->
 
 | Lingua | Franca |
 |-|-|
+| auro | auro *[or]* |
+| joco | jöc̆o *[jeu]* |
+| mare | märe *[mer]* |
+| perfecta | pȇrfecta *[**parfaite**]* |
 | vena | vena *[veine]* |
 
 <!--v-->
@@ -4555,28 +4537,18 @@ Notes:
 
 | Lingua | Franca |
 |-|-|
+| cono | **cono** *[**con**]* |
 | femĭna | **femĭna** *[femme]* |
 
-<!--v-->
-
-| Lingua | Franca |
-|-|-|
-| femĭna | fȇmĭna *[femme]* |
-
-<!--v-->
-
-| Lingua | Franca |
-|-|-|
-| cono | **cono** *[**con**]* |
-
 Notes:
-* evitinda
+* `con` evitinda
 
 <!--v-->
 
 | Lingua | Franca |
 |-|-|
 | cono | con̄o *[cône]* |
+| femĭna | fȇmĭna *[femme]* |
 
 <!--v-->
 
@@ -4625,6 +4597,16 @@ Notes:
 | Lingua | Franca |
 |-|-|
 | bucca | bucĉa *[bouche]* |
+
+<!--v-->
+
+### j
+
+<!--v-->
+
+| Lingua | Franca |
+|-|-|
+| diurno | djurno *[jour]* |
 
 <!--v-->
 
@@ -4677,16 +4659,11 @@ Notes:
 | Lingua | Franca |
 |-|-|
 | foco | föc̆o *[feu]* |
+| opĕra | öp̆ĕra *[œuvre]* |
+| petra | pët̯ra *[pierre]* |
 
 Notes:
 * `fœu`
-
-<!--v-->
-
-| Lingua | Franca |
-|-|-|
-| opĕra | öp̆ĕra *[œuvre]* |
-| petra | pët̯ra *[pierre]* |
 
 <!--v-->
 
@@ -4708,23 +4685,28 @@ Notes:
 
 <!--v-->
 
+| Lingua | Franca |
+|-|-|
+| cantione | **ĉantione** *[**chansion**]* |
+
+<!--v-->
+
+| Lingua | Franca |
+|-|-|
+| cantione | ĉantĭone *[chanson]* |
+
+<!--v-->
+
 #### Ortografiaj Esceptoj
 
 <!--v-->
 
 | Lingua | Franca |
 |-|-|
+| alta | alto *[**aut**]* |
 | pace | päc̆e *[**pai**]* |
 | sala | sala *[**sale**]* |
 | tempo | tempo *[**temp**]* |
-
-<!--v-->
-
-| Lingua | Franca |
-|-|-|
-| pace | päc̆e *[paix]* |
-| sala | sala *[salle]* |
-| tempo | tempo *[temps]* |
 
 Notes:
 * `sala` evitinda
@@ -4733,13 +4715,10 @@ Notes:
 
 | Lingua | Franca |
 |-|-|
-| alta | alto *[**aut**]* |
-
-<!--v-->
-
-| Lingua | Franca |
-|-|-|
 | alta | alto *[haut]* |
+| pace | päc̆e *[paix]* |
+| sala | sala *[salle]* |
+| tempo | tempo *[temps]* |
 
 <!--v-->
 
@@ -4759,10 +4738,10 @@ Notes:
 
 <!--v-->
 
-<!-- òóôõōo̅ŏȯöỏo̊őǒo̍o̎ȍ o̐ȏ -->
-
 <!--
-påŭsa sẽra nẽro müro lüna bëne pëde päro cläro cöre üno üna sölo säno passo vino tinto sänto bäl̮nĕo mäno päno isla fenestra mağistro s̃tẽlla s̃tăre bastone parte havẽre ponte vẽlo ĉalĭdo falta ĉampo aq̆ua fẽro gaio ĉausa poro oracŭlo nobĭle mägro roba söra angŭlo tǒto můtto sĕc̆üro pĩso jẙvăn̄e grande övo gräno gräna breve ĉäro prĭmëro grave qualitäte gustäre estätĕ s̃tato s̃täto plüs plüstosto persona beu030cllo turre mät̯re pät̯re frät̯re
+sẽra nẽro müro lüna bëne pëde päro cläro cöre üno üna sölo säno passo vino tinto sänto bäl̮nĕo mäno päno isla fenestra mağistro s̃tẽlla s̃tăre bastone parte havẽre ponte vẽlo ĉalĭdo falta ĉampo aq̆ua fẽro gaio ĉausa poro oracŭlo nobĭle mägro roba söra angŭlo tǒto můtto sĕc̆üro pĩso jẙvăn̄e grande övo gräno gräna breve ĉäro prĭmëro grave qualitäte gustäre estätĕ s̃tato s̃täto plüs plüstosto persona turre mät̯re pät̯re frät̯re uvi s̃crivĕre bĭv̆ẽre bërra ĉambjär̆e liğät̯ĭone ĉadĕntĭa cǒlöre bracio maiŏre anno effecto vĕräc̆a
+
+ beu030cllo
 
 [e]
 cläve caio
@@ -4783,8 +4762,453 @@ compŭtär̆e *[conter]* *[compter]*
 
 nø̌ċte *[nuit]*
 ø̌ċto *[uit]* *[huit]*
+* *fruit* [fʀɥi]: **fruċto** = **früċ** = **früi**
 
 näso *[nez]*
 
 säle *[sel]*
+
+*[eu]*
+pöpŭlo
+
 -->
+
+<!--s-->
+
+# La Hispana
+
+<!--v-->
+
+## Finaĵoj
+
+<!--v-->
+
+| Lingua | Hispana |
+|-|-|
+| normale | normalĕ = normál *[normal]* |
+| sentire | sentirĕ = sentír *[sentir]* |
+| visione | visionĕ = visión *[visión]* |
+
+<!--v-->
+
+## Vokaloj
+
+<!--v-->
+
+| Lingua | Hispana |
+|-|-|
+| in | ïn *[en]* |
+
+<!--v-->
+
+### Diftongiĝo
+
+<!--v-->
+
+| Lingua | Hispana |
+|-|-|
+| bene | bẽne *[bien]* |
+
+<!--v-->
+
+| Lingua | Hispana |
+|-|-|
+| bona | bõna *[buena]* |
+
+<!--v-->
+
+| Lingua | Hispana |
+|-|-|
+| fronte | frõnte *[frente]* |
+
+<!--v-->
+
+## Konsonantoj
+
+<!--v-->
+
+### Voĉiĝo
+
+<!--v-->
+
+| Lingua | Hispana |
+|-|-|
+| amico | amic̆o *[amigo]* |
+
+<!--v-->
+
+### Elizio
+
+<!--v-->
+
+| Lingua | Hispana |
+|-|-|
+| ferro | fhẽrro *[hierro]* |
+
+<!--v-->
+
+<!-- 
+fõc̆o sõrte põnte cõnta marĕ
+
+noche leche
+
+-->
+
+<!--s-->
+
+# La Portugala
+
+Notes:
+* la Brazila, fakte
+
+<!--v-->
+
+## Finaĵoj
+
+<!--v-->
+
+| Lingua | Portugala |
+|-|-|
+| nome | nome = nomi *[nome]* |
+| porto | porto = portu *[porto]* |
+
+<!--v-->
+
+| Lingua | Portugala |
+|-|-|
+| museo | museo = museu *[museu]* |
+
+<!--v-->
+
+## Vokaloj
+
+<!--v-->
+
+| Lingua | Portugala |
+|-|-|
+| gusto | gůsto *[gosto]* |
+
+<!--v-->
+
+| Lingua | Portugala |
+|-|-|
+| auro | åuro *[ouro]* |
+
+<!--v-->
+
+| Lingua | Portugala |
+|-|-|
+| qŭe | qŭe *[que]* |
+
+<!--v-->
+
+### Esceptoj
+
+<!--v-->
+
+| Lingua | Portugala |
+|-|-|
+| fame | **fame** *[**fame**]* |
+
+<!--v-->
+
+| Lingua | Portugala |
+|-|-|
+| fame | fåme *[fome]* |
+
+<!--v-->
+
+## Konsonantoj
+
+<!--v-->
+
+### i
+
+<!--v-->
+
+| Lingua | Portugala |
+|-|-|
+| capsa | caṗŝa *[caixa]* |
+| octo | oċto *[oito]* |
+| regno | reġno *[reino]* |
+| multo | muḷto *[muito]* |
+| vena | veṅa *[veia]* |
+
+### l
+
+<!--v-->
+
+| Lingua | Portugala |
+|-|-|
+| clave | cḷave *[chave]* |
+| flamma | fḷamma *[chama]* |
+| plumbo | pḷumbo *[chumbo]* |
+
+<!--v-->
+
+| Lingua | Portugala |
+|-|-|
+| alta | alta = ałta *[alta]* |
+| celo | celo = cełu *[céu]* |
+
+<!--v-->
+
+| Lingua | Portugala |
+|-|-|
+| la | ła *[a]* |
+
+Notes:
+* `illa` ausschreiben?
+
+<!--v-->
+
+### Duobliĝo
+
+Notes:
+* `?`
+
+<!--v-->
+
+| Lingua | Portugala |
+|-|-|
+| causa | cåŭs̃a = cos̃a *[coisa]* |
+| scrivér | s̃crïverĕ *[escrever]* |
+
+<!--v-->
+
+### Unuobliĝo
+
+<!--v-->
+
+| Lingua | Portugala |
+|-|-|
+| bella | bella *[bela]* |
+
+<!--v-->
+
+| Lingua | Portugala |
+|-|-|
+| massa | massa *[massa]* |
+| terra | terra *[terra]* |
+
+<!--v-->
+
+### Voĉiĝo
+
+<!--v-->
+
+| Lingua | Portugala |
+|-|-|
+| aqua | aq̆ua *[água]* |
+| exemplo | ex̆emplo *[exemplo]* |
+| sapér | sap̆erĕ *[saber]* |
+| secunda | sec̆unda *[segunda]* |
+| tota | tot̯a *[toda]* |
+
+Notes:
+* `x̆` überall
+
+<!--v-->
+
+### Elizio
+
+<!--v-->
+
+| Lingua | Portugala |
+|-|-|
+| ipso | ïpso *[eso]* |
+| fructo | fructo *[fruto]* |
+| optĭma | optĭma *[ótima]* |
+| proxĭma | proxĭma *[próxima]* |
+| scena | scena *[cena]* |
+
+<!--v-->
+
+| Lingua | Portugala |
+|-|-|
+| complexa | complex̄a *[complexa]* |
+| facto | fac̄to** *[facto]* |
+
+<!--v-->
+
+| Lingua | Portugala |
+|-|-|
+| ego | eğo *[eu]* |
+| per lo | peɍ-lo *[pelo]* |
+| radio | rađio *[raio]* |
+| volár | vołarĕ *[voar]* |
+
+<!--v-->
+
+| Lingua | Portugala |
+|-|-|
+| bona | bon̆a *[boa]* |
+| sonár | son̆arĕ *[soar]* |
+
+<!--v-->
+
+### +i
+
+<!--v-->
+
+#### ti
+
+<!--v-->
+
+| Lingua | Portugala |
+|-|-|
+| pronuntia | pronuntia *[pronúncia]* |
+
+<!--v-->
+
+#### +ĭ
+
+<!--v-->
+
+| Lingua | Portugala |
+|-|-|
+| bânio | bânĭo *[banho]* |
+| filio | filĭo *[filho]* |
+| hodie | hodĭe *[hoje]* |
+
+Notes:
+* `?`
+
+<!--v-->
+
+### Esceptoj
+
+<!--v-->
+
+| Lingua | Portugala |
+|-|-|
+| regĭna | **reğina** *[**reina**]* |
+| vino | **vino** *[**vino**]* |
+
+<!--v-->
+
+| Lingua | Portugala |
+|-|-|
+| regĭna | rȇğiṇa *[rainha]* |
+| vino | viṇo *[vinho]* |
+
+<!--v-->
+
+| Lingua | Portugala |
+|-|-|
+| una | **una** *[**una**]* |
+
+<!--v-->
+
+| Lingua | Portugala |
+|-|-|
+| una | **un̆a** *[**ua**]* |
+
+<!--v-->
+
+| Lingua | Portugala |
+|-|-|
+| una | uña *[uma]* |
+
+<!--v-->
+
+| Lingua | Portugala |
+|-|-|
+| borsa | **borsa** *[**borsa**]* |
+
+<!--v-->
+
+| Lingua | Portugala |
+|-|-|
+| borsa | bor̆sa *[bolsa]* |
+
+<!--v-->
+
+| Lingua | Portugala |
+|-|-|
+| blanca | **blanca** *[**blanca**]* |
+
+<!--v-->
+
+| Lingua | Portugala |
+|-|-|
+| blanca | bl̯anca *[branca]* |
+
+<!--v-->
+
+| Lingua | Portugala |
+|-|-|
+| doctore | **doctorĕ** *[**dotor**]* |
+| octobre | **octobre** *[**otobre**]* |
+
+<!--v-->
+
+| Lingua | Portugala |
+|-|-|
+| doctore | **doċtorĕ** *[**doitor**]* |
+| octobre | **oċtobre** *[**oitobre**]* |
+
+<!--v-->
+
+| Lingua | Portugala |
+|-|-|
+| doctore | doc̊torĕ *[doutor]* |
+| octobre | oc̊tǒbre̊ *[outubro]* |
+
+<!--v-->
+
+| Lingua | Portugala |
+|-|-|
+| altra | **altra** *[**altra**]* |
+
+<!--v-->
+
+| Lingua | Portugala |
+|-|-|
+| altra | åłtra *[outra]* |
+
+### Vocalizadas
+
+<!--v-->
+
+## Grekismoj
+
+<!--v-->
+
+| Lingua | Portugala |
+|-|-|
+| echo | echo *[eco]* |
+| photo | photo *[foto]* |
+| systema | systema *[sistema]* |
+| thema | thema *[tema]* |
+
+<!--v-->
+
+## Germanismoj
+
+<!--v-->
+
+| Lingua | Portugala |
+|-|-|
+| (wirra) | wïrra *[guerra]* |
+
+<!--v-->
+
+<!-- 
+cella collo programma anno rara casa rosa acto nocturna tacto tecto trato victĭma pac̄to sceptica gÿpso maxĭma fix̄a ox̄igenio tax̄i tox̄ĭca perfeċta leċtora noċte seċta dos̃ bas̃ŝa pïs̃ĉe rot̯a lėct̯o mut̯at̯a universit̯at̯e cḷamarĕ mulĭerĕ ap̆rirĕ seq̆ŭirĕ crescerĕ auxiliarĕ flore pḷůverĕ sůmma åusarĕ påuca tåuro ex̆acta ex̆ito physĭca amic̆o como foc̆o meo leon̆a lun̆a ruğa mağis peɍson̆a men̆sa pl̯ato s̃phera s̃patĭo
+
+| *estação* | **s̈tatıõne** |
+
+
+| *ou* | **åut** = **õt** |
+
+ŝ und ĉ müssen noch erklärt werden
+ė auch
+
+| *advogado* | **advoc̆at̯o** = **advoc̆ado** |
+
+-->
+
+<!-- æ ø y statt ä ö ü verwenden (cøre, mære, myre) -->
+<!-- e statt ø und æ verwenden (federatione, presentatione) -->
+<!-- weibliche adjektive verwenden (active statt actif) -->
