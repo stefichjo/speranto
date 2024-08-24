@@ -178,7 +178,6 @@
 | | [ãũ] |
 |-|-|
 | | |
-| *mão* | **mąn̆o** = **mano** |
 | *vulcão* | **vulcąn̆o** = **vulcano** | <!-- vulcões (kiel nação/nações) anstataŭ vulcãos -->
 | | |
 | *cão* | **cane̊** | <!-- cães = canes -->

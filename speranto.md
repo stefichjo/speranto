@@ -3707,6 +3707,114 @@ Duoblaj vokaloj en finaĵoj estas skribataj kun makrono.
 
 <!--s-->
 
+# Pontaj Ortografioj
+
+<!--v-->
+
+**aqua**
+
+| 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
+|:-:|:-:|:-:|:-:|
+| aq̄ua<br>*[acqua]* | åq̆ŭa<br>*[eau]* | aq̆ua<br>*[agua]* | aq̆ua<br>*[água]* |
+
+<!--v-->
+
+**cantĭone**
+
+| 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
+|:-:|:-:|:-:|:-:|
+| cantĭōne<br>*[canzone]* | ĉantĭone<br>*[chanson]* | cantĭone<br>*[canción]* | cantĭȏne̊<br>*[canção]* |
+
+<!--v-->
+
+**capitano**
+
+| 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
+|:-:|:-:|:-:|:-:|
+| capitano<br>*[capitano]* | capitæn̄o<br>*[capitaine]* | capitanŏ<br>*[capitán]* | capitano<br>*[capitão]* |
+
+<!--v-->
+
+**catto**
+
+| 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
+|:-:|:-:|:-:|:-:|
+| c̆atto<br>*[gatto]* | ĉatto<br>*[chat]* | c̆atto<br>*[gato]* | c̆atto<br>*[gato]* |
+
+<!--v-->
+
+**causa**
+
+| 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
+|:-:|:-:|:-:|:-:|
+| cåŭsa<br>*[cosa]* | ĉåŭsa<br>*[chose]* | cåŭsa<br>*[cosa]* | cåŭs̃a<br>*[coisa]* |
+
+<!--v-->
+
+**fine**
+
+| 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
+|:-:|:-:|:-:|:-:|
+| fine<br>*[fine]* | fine<br>*[fin]* | fine<br>*[fin]* | fine<br>*[fin]* |
+
+<!--v-->
+
+**hora**
+
+| 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
+|:-:|:-:|:-:|:-:|
+| hōra<br>*[ora]* | høra<br>*[heure]* | hora<br>*[ora]* | hora<br>*[ora]* |
+
+<!--v-->
+
+**littĕra**
+
+| 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
+|:-:|:-:|:-:|:-:|
+| lïttera<br>*[lettera]* | lïttĕra<br>*[lettre]* | lïttĕra<br>*[letra]* | lïttĕra<br>*[letra]* |
+
+<!--v-->
+
+**mano**
+
+| 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
+|:-:|:-:|:-:|:-:|
+| mano<br>*[mano]* | mæno<br>*[main]* | mano<br>*[mano]* | mano<br>*[mão]* |
+
+<!--v-->
+
+**mare**
+
+| 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
+|:-:|:-:|:-:|:-:|
+| mare<br>*[mare]* | mære<br>*[mer]* | mare<br>*[mar]* | mare<br>*[mar]* |
+
+<!--v-->
+
+**natione**
+
+| 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
+|:-:|:-:|:-:|:-:|
+| natione<br>*[nazione]* | natione<br>*[nation]* | natione<br>*[nación]* | natĭȏne̊<br>*[nação]* |
+
+<!--v-->
+
+**petra**
+
+| 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
+|:-:|:-:|:-:|:-:|
+| pẽtra<br>*[pietra]* | pët̯ra<br>*[pierre]* | pet̯ra<br>*[pedra]* | pet̯ra<br>*[pedra]* |
+
+<!--v-->
+
+**plena**
+
+| 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
+|:-:|:-:|:-:|:-:|
+| pḷena<br>*[piena]* | plena<br>*[pleine]* | pḷena<br>*[llena]* | pḷeṅa<br>*[cheia]* |
+
+<!--s-->
+
 # La Itala
 
 <!--v-->
@@ -3718,7 +3826,6 @@ Duoblaj vokaloj en finaĵoj estas skribataj kun makrono.
 | Lingua | Itala |
 |-|-|
 | de | dė *[di]* |
-| littera | lïttera *[lettera]* |
 | nuvŭla | nuvůla *[nuvola]* |
 
 Notes:
@@ -3877,7 +3984,6 @@ Notes:
 | Lingua | Itala |
 |-|-|
 | herba | herba *[erba]* |
-| hora | hora *[ora]* |
 
 <!--v-->
 
@@ -3928,7 +4034,6 @@ Notes:
 
 | Lingua | Itala |
 |-|-|
-| catto | c̆atto *[gatto]* |
 | paupĕra | påŭp̆ero *[povero]* |
 | sequír | seq̆uire *[seguire]* |
 
@@ -3946,7 +4051,6 @@ Notes:
 
 | Lingua | Itala |
 |-|-|
-| aqua | aq̄ua *[acqua]* |
 | lege | leg̈̇e *[legge]* |
 | publĭca | puḇlico *[pubblico]* |
 | rico | ric̄o *[ricco]* |
@@ -4307,7 +4411,7 @@ Notes:
 * **omnĭ** [ogni]
 * **somnĭo** [sogno]
 
-hymno thůnno sůbto dïcto judiȼio hẽri spagìtti teŭt̯ìsco pḷùvja ěq̆uale sùbsta hodjė djůrno cḷesıa åŭrïcŭlo spìcŭlo pḷus pağēn̆se pḷaṯo pat̯re civĭtat̯ civĭtat̯inantĭa rat̯ĭōne stat̯ĭōne cōrtēn̆s̆jare fas̆ĕolo pḷïc̆are mac̄hina rėcůp̆erare mağĭs mağis jänŭar̆io febrŭar̆io aŭgůsto dẽcė jůp̆ediĕ allovjo fḷava postmeridjo duvĭo levjero důpḷo qyæṟere tåŭrinēn̆se bânĭo=bal̮nĕo angùstja cantĭōne frïgĭdo domĭna vïrĭde porĭco basjo hĭstoria ĭntra ĭnfra qŭis qŭōme capïtĭůlo bellïtĭa ėğo ĕxvïğĭlĭare hospït̯ale cåŭsa sap̆jo poṡt créscĕre
+hymno thůnno sůbto dïcto judiȼio hẽri spagìtti teŭt̯ìsco pḷùvja ěq̆uale sùbsta hodjė djůrno cḷesıa åŭrïcŭlo spìcŭlo pḷus pağēn̆se pḷaṯo pat̯re civĭtat̯ civĭtat̯inantĭa rat̯ĭōne stat̯ĭōne cōrtēn̆s̆jare fas̆ĕolo pḷïc̆are mac̄hina rėcůp̆erare mağĭs mağis jänŭar̆io febrŭar̆io aŭgůsto dẽcė jůp̆ediĕ allovjo fḷava postmeridjo duvĭo levjero důpḷo qyæṟere tåŭrinēn̆se bânĭo=bal̮nĕo angùstja frïgĭdo domĭna vïrĭde porĭco basjo hĭstoria ĭntra ĭnfra qŭis qŭōme capïtĭůlo bellïtĭa ėğo ĕxvïğĭlĭare hospït̯ale cåŭsa sap̆jo poṡt créscĕre
 
 dŭm-ïntĕre ad-lă-hōra ad-pœna dĕ-ab-vēro dĕ-ïntro dĕ-ůvï ĭstĕ-ïpso qŭō-sic de̊-post
 
@@ -4626,7 +4730,7 @@ Notes:
 
 | Lingua | Franca |
 |-|-|
-| hora | höra *[heur]* |
+| hora | höra *[heure]* |
 
 <!--v-->
 
@@ -4660,7 +4764,6 @@ Notes:
 |-|-|
 | foco | föc̆o *[feu]* |
 | opĕra | öp̆ĕra *[œuvre]* |
-| petra | pët̯ra *[pierre]* |
 
 Notes:
 * `fœu`
@@ -4682,18 +4785,6 @@ Notes:
 <!--v-->
 
 ### Esceptoj
-
-<!--v-->
-
-| Lingua | Franca |
-|-|-|
-| cantione | **ĉantione** *[**chansion**]* |
-
-<!--v-->
-
-| Lingua | Franca |
-|-|-|
-| cantione | ĉantĭone *[chanson]* |
 
 <!--v-->
 
@@ -5195,10 +5286,7 @@ Notes:
 <!--v-->
 
 <!-- 
-cella collo programma anno rara casa rosa acto nocturna tacto tecto trato victĭma pac̄to sceptica gÿpso maxĭma fix̄a ox̄igenio tax̄i tox̄ĭca perfeċta leċtora noċte seċta dos̃ bas̃ŝa pïs̃ĉe rot̯a lėct̯o mut̯at̯a universit̯at̯e cḷamarĕ mulĭerĕ ap̆rirĕ seq̆ŭirĕ crescerĕ auxiliarĕ flore pḷůverĕ sůmma åusarĕ påuca tåuro ex̆acta ex̆ito physĭca amic̆o como foc̆o meo leon̆a lun̆a ruğa mağis peɍson̆a men̆sa pl̯ato s̃phera s̃patĭo
-
-| *estação* | **s̈tatıõne** |
-
+cella collo programma anno rara casa rosa acto nocturna tacto tecto trato victĭma pac̄to sceptica gÿpso maxĭma fix̄a ox̄igenio tax̄i tox̄ĭca perfeċta leċtora noċte seċta dos̃ bas̃ŝa pïs̃ĉe rot̯a lėct̯o mut̯at̯a universit̯at̯e cḷamarĕ mulĭerĕ ap̆rirĕ seq̆ŭirĕ crescerĕ auxiliarĕ flore pḷůverĕ sůmma åusarĕ påuca tåuro ex̆acta ex̆ito physĭca amic̆o como foc̆o meo leon̆a lun̆a ruğa mağis peɍson̆a men̆sa pl̯ato s̃phera s̃patĭo s̃tatĭȏne̊
 
 | *ou* | **åut** = **õt** |
 
