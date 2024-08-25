@@ -154,12 +154,6 @@
 
 | | [~] |
 |-|-|
-| *bem* | **benĕ** = **bene** |
-| *bom* | **bonŏ** = **bono** |
-| | |
-| *fim* | **finĕ** = **fine** |
-| *fins* | **finĕs** = **fines** |
-| | |
 | *rim* | **rėnĕ** = **rėne** |
 | *rins* | **rėnĕs** = **rėnes** |
 | | |
@@ -231,14 +225,3 @@
 | *legais* | **legałės** = **legales** |
 | | |
 | *Abril* | **Ap̆riłĕ** = **Ap̆rile** |
-
-### -te, -de
-
-| | [tŝi] |
-|-|-|
-| *excelente* | **excelent̂ė** = **excelente** |
-
-| | [dĵi] |
-|-|-|
-| *de* | **d̂ė** = **de** |
-

@@ -3715,15 +3715,83 @@ Duoblaj vokaloj en finaĵoj estas skribataj kun makrono.
 
 | 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
 |:-:|:-:|:-:|:-:|
-| aq̄ua<br>*[acqua]* | åq̆ŭa<br>*[eau]* | aq̆ua<br>*[agua]* | aq̆ua<br>*[água]* |
+| aq̄ua | åq̆ŭa | aq̆ua | aq̆ua |
+| *acqua* | *eau* | *agua* | *água* |
 
 <!--v-->
 
-**cantĭone**
+**auro**
 
 | 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
 |:-:|:-:|:-:|:-:|
-| cantĭōne<br>*[canzone]* | ĉantĭone<br>*[chanson]* | cantĭone<br>*[canción]* | cantĭȏne̊<br>*[canção]* |
+| åŭro | åŭro | åŭro | åuro |
+| *oro* | *or* | *oro* | *ouro* |
+
+<!--v-->
+
+**bene**
+
+| 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
+|:-:|:-:|:-:|:-:|
+| bene | bëne | bẽne | bene |
+| *bene* | *bien* | *bien* | *bem* |
+
+<!--v-->
+
+**bona**
+
+| 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
+|:-:|:-:|:-:|:-:|
+| bõna | bona | bõna | bona |
+| *buona* | *bonne* | *buena* | *boa* |
+
+<!--v-->
+
+**cantione**
+
+| 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
+|:-:|:-:|:-:|:-:|
+| cantĭōne | ĉantĭone | cantĭone | cantĭȏne̊ |
+| *canzone* | *chanson* | *canción* | *canção* |
+
+<!--v-->
+
+**de**
+
+| 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
+|:-:|:-:|:-:|:-:|
+| dė | de | de | de |
+| *di* | *de* | *de* | *de* |
+
+<!--v-->
+
+**cane**
+
+| 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
+|:-:|:-:|:-:|:-:|
+| cane | ĉãne | cane | cane̊ |
+| *cane* | *chien* | *can* | *cão* |
+
+Notes:
+* ES perro
+
+<!--v-->
+
+**cane**
+
+| 🇫🇷 |
+|:-:|
+| ĉãne |
+| *chien* |
+
+<!--v-->
+
+**cane**
+
+| 🇫🇷 | 🇫🇷* |
+|:-:|:-:|
+| ĉãne | ĉæne |
+| *chien* | *chain* |
 
 <!--v-->
 
@@ -3731,7 +3799,26 @@ Duoblaj vokaloj en finaĵoj estas skribataj kun makrono.
 
 | 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
 |:-:|:-:|:-:|:-:|
-| capitano<br>*[capitano]* | capitæn̄o<br>*[capitaine]* | capitanŏ<br>*[capitán]* | capitano<br>*[capitão]* |
+| capitano | capitæn̄o | capitanŏ | capitano |
+| *capitano* | *capitaine* | *capitán* | *capitão* |
+
+<!--v-->
+
+**cara**
+
+| 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
+|:-:|:-:|:-:|:-:|
+| cara | ĉæra | cara | cara |
+| *cara* | *chère* | *cara* | *cara* |
+
+<!--v-->
+
+**carne**
+
+| 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
+|:-:|:-:|:-:|:-:|
+| carne | ĉærne | carne | carne |
+| *carne* | *chair* | *carne* | *carne* |
 
 <!--v-->
 
@@ -3739,7 +3826,8 @@ Duoblaj vokaloj en finaĵoj estas skribataj kun makrono.
 
 | 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
 |:-:|:-:|:-:|:-:|
-| c̆atto<br>*[gatto]* | ĉatto<br>*[chat]* | c̆atto<br>*[gato]* | c̆atto<br>*[gato]* |
+| c̆atto | ĉatto | c̆atto | c̆atto |
+| *gatto* | *chat* | *gato* | *gato* |
 
 <!--v-->
 
@@ -3747,7 +3835,8 @@ Duoblaj vokaloj en finaĵoj estas skribataj kun makrono.
 
 | 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
 |:-:|:-:|:-:|:-:|
-| cåŭsa<br>*[cosa]* | ĉåŭsa<br>*[chose]* | cåŭsa<br>*[cosa]* | cåŭs̃a<br>*[coisa]* |
+| cåŭsa | ĉåŭsa | cåŭsa | cåŭs̃a |
+| *cosa* | *chose* | *cosa* | *coisa* |
 
 <!--v-->
 
@@ -3755,7 +3844,20 @@ Duoblaj vokaloj en finaĵoj estas skribataj kun makrono.
 
 | 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
 |:-:|:-:|:-:|:-:|
-| fine<br>*[fine]* | fine<br>*[fin]* | fine<br>*[fin]* | fine<br>*[fin]* |
+| fine | fine | fine | fine |
+| *fine* | *fin* | *fin* | *fim* |
+
+<!--v-->
+
+**herba**
+
+| 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
+|:-:|:-:|:-:|:-:|
+| herba | herba | hẽrba | herba |
+| *erba* | *herbe* | *hierba* | *erva* |
+
+Notes:
+* PT b → v `?` (Warum nicht auch in IT&FR?)
 
 <!--v-->
 
@@ -3763,7 +3865,17 @@ Duoblaj vokaloj en finaĵoj estas skribataj kun makrono.
 
 | 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
 |:-:|:-:|:-:|:-:|
-| hōra<br>*[ora]* | høra<br>*[heure]* | hora<br>*[ora]* | hora<br>*[ora]* |
+| hōra | høra | hora | hora |
+| *ora* | *heure* | *ora* | *ora* |
+
+<!--v-->
+
+**justa**
+
+| 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
+|:-:|:-:|:-:|:-:|
+| justa | jysta | justa | justa |
+| *giusta* | *juste* | *justa* | *justa* |
 
 <!--v-->
 
@@ -3771,7 +3883,8 @@ Duoblaj vokaloj en finaĵoj estas skribataj kun makrono.
 
 | 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
 |:-:|:-:|:-:|:-:|
-| lïttera<br>*[lettera]* | lïttĕra<br>*[lettre]* | lïttĕra<br>*[letra]* | lïttĕra<br>*[letra]* |
+| lïttera | lïttĕra | lïttĕra | lïttĕra |
+| *lettera* | *lettre* | *letra* | *letra* |
 
 <!--v-->
 
@@ -3779,7 +3892,8 @@ Duoblaj vokaloj en finaĵoj estas skribataj kun makrono.
 
 | 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
 |:-:|:-:|:-:|:-:|
-| mano<br>*[mano]* | mæno<br>*[main]* | mano<br>*[mano]* | mano<br>*[mão]* |
+| mano | mæno | mano | mano |
+| *mano* | *main* | *mano* | *mano* |
 
 <!--v-->
 
@@ -3787,7 +3901,8 @@ Duoblaj vokaloj en finaĵoj estas skribataj kun makrono.
 
 | 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
 |:-:|:-:|:-:|:-:|
-| mare<br>*[mare]* | mære<br>*[mer]* | mare<br>*[mar]* | mare<br>*[mar]* |
+| mare | mære | mare | mare |
+| *mare* | *mer* | *mar* | *mar* |
 
 <!--v-->
 
@@ -3795,7 +3910,26 @@ Duoblaj vokaloj en finaĵoj estas skribataj kun makrono.
 
 | 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
 |:-:|:-:|:-:|:-:|
-| natione<br>*[nazione]* | natione<br>*[nation]* | natione<br>*[nación]* | natĭȏne̊<br>*[nação]* |
+| natione | natione | natione | natĭȏne̊ |
+| *nazione* | *nation* | *nación* | *nação* |
+
+<!--v-->
+
+**pane**
+
+| 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
+|:-:|:-:|:-:|:-:|
+| pane | pæne | pane | pane̊ |
+| *pane* | *pain* | *pan* | *pão* |
+
+<!--v-->
+
+**pauco**
+
+| 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
+|:-:|:-:|:-:|:-:|
+| påŭco | pæ̊ŭc̆o | påŭco | påuco |
+| *poco* | *peu* | *poco* | *pouco* |
 
 <!--v-->
 
@@ -3803,7 +3937,8 @@ Duoblaj vokaloj en finaĵoj estas skribataj kun makrono.
 
 | 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
 |:-:|:-:|:-:|:-:|
-| pẽtra<br>*[pietra]* | pët̯ra<br>*[pierre]* | pet̯ra<br>*[pedra]* | pet̯ra<br>*[pedra]* |
+| pẽtra | pët̯ra | pet̯ra | pet̯ra |
+| *pietra* | *pierre* | *pedra* | *pedra* |
 
 <!--v-->
 
@@ -3811,7 +3946,17 @@ Duoblaj vokaloj en finaĵoj estas skribataj kun makrono.
 
 | 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
 |:-:|:-:|:-:|:-:|
-| pḷena<br>*[piena]* | plena<br>*[pleine]* | pḷena<br>*[llena]* | pḷeṅa<br>*[cheia]* |
+| pḷena | plena | pḷena | pḷeṅa |
+| *piena* | *pleine* | *llena* | *cheia* |
+
+<!--v-->
+
+**ponte**
+
+| 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
+|:-:|:-:|:-:|:-:|
+| ponte | ponte | põnte | ponte |
+| *ponte* | *pont* | *puente* | *ponte* |
 
 <!--s-->
 
@@ -3825,7 +3970,6 @@ Duoblaj vokaloj en finaĵoj estas skribataj kun makrono.
 
 | Lingua | Itala |
 |-|-|
-| de | dė *[di]* |
 | nuvŭla | nuvůla *[nuvola]* |
 
 Notes:
@@ -3851,7 +3995,6 @@ Notes:
 | Lingua | Itala |
 |-|-|
 | core | cõre *[cuore]* |
-| petra | pẽtra *[pietra]* |
 
 <!--v-->
 
@@ -3896,16 +4039,6 @@ Notes:
 | Lingua | Itala |
 |-|-|
 | no | nò = no *[no]* |
-
-<!--v-->
-
-### Monoftongiĝo
-
-<!--v-->
-
-| Lingua | Itala |
-|-|-|
-| auro | åŭro = ăùro *[oro]* |
 
 <!--v-->
 
@@ -3978,12 +4111,6 @@ Notes:
 <!--v-->
 
 ### Elizio
-
-<!--v-->
-
-| Lingua | Itala |
-|-|-|
-| herba | herba *[erba]* |
 
 <!--v-->
 
@@ -4202,7 +4329,6 @@ Notes:
 
 | Lingua | Itala |
 |-|-|
-| justa | justo *[giusto]* |
 | maio | majo *[maggio]* |
 
 <!--v-->
@@ -4600,7 +4726,6 @@ Notes:
 |-|-|
 | amár | ämäre *[aimer]* |
 | aperír | ǎp̆ĕrire *[ouvrir]* |
-| cane | ĉãne *[chien]* |
 | domĭna | dȏmĭna *[dame]* |
 | loco | lø̃c̆o *[lieu]* |
 | per | pěr *[pour]* |
