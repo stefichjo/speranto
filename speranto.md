@@ -2195,13 +2195,13 @@ La grekismaj ŝajnfinaĵoj **-i**, **-ia** *[ia]*, **-a**, **-e** havas signifoj
 
 | Esperanto | Intermediaria |
 |-|-|
-| avantaĝo | **avantâjo** <small>**avantadĭc̆o**</small> *[avantaĵo]* <small>*[avantađi-o]*</small> |
-| formaĝo | **formâjo** <small>**formadĭc̆o**</small> *[formaĵo]* <small>*[formađi-o]*</small> |
-| kuraĝo | **corâjo** <small>**coradĭc̆o**</small> *[koraĵo]* <small>*[korađi-o]*</small> |
-| mesaĝo | **missâjo** <small>**missadĭc̆o**</small> *[misaĵo]* <small>*[misađi-o]*</small> |
-| pejzaĝo | **paesâjo** <small>**pağen̆sadĭc̆o**</small> *[paezaĵo]* <small>*[paezađi-o]*</small> |
-| vilaĝo | **villâjo** <small>**villadĭc̆o**</small> *[vilaĵo]* <small>*[vilađi-o]*</small> |
-| vojaĝo | **viâjo** <small>**viadĭc̆o**</small> *[viaĵo]* <small>*[viađi-o]*</small> |
+| avantaĝo | **avantâjo** <small>**avantat̯ĭc̆o**</small> *[avantaĵo]* <small>*[avantađi-o]*</small> |
+| formaĝo | **formâjo** <small>**format̯ĭc̆o**</small> *[formaĵo]* <small>*[formađi-o]*</small> |
+| kuraĝo | **corâjo** <small>**corat̯ĭc̆o**</small> *[koraĵo]* <small>*[korađi-o]*</small> |
+| mesaĝo | **missâjo** <small>**missat̯ĭc̆o**</small> *[misaĵo]* <small>*[misađi-o]*</small> |
+| pejzaĝo | **paesâjo** <small>**pağen̆sat̯ĭc̆o**</small> *[paezaĵo]* <small>*[paezađi-o]*</small> |
+| vilaĝo | **villâjo** <small>**villat̯ĭc̆o**</small> *[vilaĵo]* <small>*[vilađi-o]*</small> |
+| vojaĝo | **viâjo** <small>**viat̯ĭc̆o**</small> *[viaĵo]* <small>*[viađi-o]*</small> |
 
 <!--v-->
 
@@ -3707,7 +3707,176 @@ Duoblaj vokaloj en finaĵoj estas skribataj kun makrono.
 
 <!--s-->
 
-# Pontaj Ortografioj
+# Ponta Ortografio
+
+Notes:
+* forma: FR -a
+* sacco: FR c
+* terra: ES ẽ
+* porta: ES õ
+* porto: PT -o
+* parte: PT -e
+* de: IT ė (FR ĕ)
+* via: FR ĩ
+* qŭe: FR ė̃
+* muro: FR y
+* banco: FR/PT ą
+* mano: FR æ
+* manos: IT -i
+* bene: ES/PT -ne (FR en)
+* pane: PT -ane
+* panes: ES/PT -nes
+* sana: PT -ana
+* bona: PT -ona
+* bono: PT -ono
+* in: FR/ES/PT ï
+* unione: PT -one
+* uniones: PT -ones
+* auro: IT/FR/ES/PT au
+* salto: FR/PT al
+* sale: ES/PT -le
+* sales: PT -les
+* mare: ES/PT -re
+* mares: ES/PT -res
+* valere: FR ė̃
+* perdere: FR/ES/PT -ĕre
+* pensare: FR -aɍe
+* pace: ES/PT -ce
+* schola: FR/ES/PT s̃
+* hora: IT/FR/ES/PT h, FR ø
+* alio: lĭ
+* olio: lĕ
+* campania: nĭ
+* linia: nĕ
+* natione: ti/tĭ
+* platia: tĕ
+* maio: j
+* jurare: j
+* pronuntiare: IT tj
+* diurnata: dj
+* foco: FR/SP c̆
+* mâistro: IT/FR/ES/PT ğ (FR ai)
+* hospitale: IT t̯
+* pede: ES/PT d̯
+* opera: FR/ES/PT p̆
+* scrivĕre: FR v̆
+* folia: ES f̯
+* linguâjo: IT/FR/ES/PT -at̯ĭc̆o
+* cantare: FR ĉ
+* luxo: ES/PT x̂
+* bassa: ES/PT ŝ
+* flamma: IT/ES/PT ḷ
+* bânio: IT/FR/ES/PT ł
+* blanca: PT l̯
+* borsa: ES/PT r̆
+* lacte: FR/ES/PT ċt
+
+<!--v-->
+
+**absoluta**
+
+| 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
+|:-:|:-:|:-:|:-:|
+| absoluta | `...` | | |
+| *assoluta* | | | |
+
+<!--v-->
+
+**alio**
+
+| 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
+|:-:|:-:|:-:|:-:|
+| alĭo | *alĭo* | *alĭo* | *alĭo* |
+| *aglio* | *ail* | *ajo* | *alho* |
+
+<!--v-->
+
+**alta**
+
+| 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
+|:-:|:-:|:-:|:-:|
+| alta | alta | alta | alta |
+| *alta* | *haute* | *alta* | *alta* |
+
+Notes:
+* `:)` PT al = al̥
+
+<!--v-->
+
+**altiare** <small>**alteare**</small>
+
+| 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
+|:-:|:-:|:-:|:-:|
+| altĕare | `...` | | |
+| *alzare* | | | |
+
+<!--v-->
+
+**altra**
+
+| 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
+|:-:|:-:|:-:|:-:|
+| altra | altra | åłtra | ål̥tra |
+| *altra* | *autre* | *otra* | *outra* |
+
+Notes:
+* FR `?`
+
+<!--v-->
+
+| amár | ämäre *[aimer]* |
+
+<!--v-->
+
+**amico**
+
+| 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
+|:-:|:-:|:-:|:-:|
+| amico | amic̆o | amic̆o | amic̆o |
+| *amico* | *ami* | *amigo* | *amigo* |
+
+<!--v-->
+
+**amore**
+
+| 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
+|:-:|:-:|:-:|:-:|
+| amore | amǒre | amore | amore |
+| *amore* | *amour* | *amor* | *amor* |
+
+<!--v-->
+
+**anno**
+
+| 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
+|:-:|:-:|:-:|:-:|
+| anno | anno | anno | anno |
+| *anno* | *an* | *año* | *ano* |
+
+Notes:
+* `:)` ES nn = ñ `?` hymn̄o
+
+<!--v-->
+
+| aperír | ǎp̆ĕrire *[ouvrir]* |
+
+<!--v-->
+
+**april**
+
+| 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
+|:-:|:-:|:-:|:-:|
+| aprile | ap̆rile | ap̆rile | ap̆ril |
+| *aprile* | *avril* | *abril* | *Abril* |
+
+<!--v-->
+
+ap̆ud-höc
+* *avec* [avɛk]: **ap̆ŭd-hœc̄** = ***av-hec***
+
+<!--v-->
+
+| armario | armaṟio *[armadio]* |
 
 <!--v-->
 
@@ -3720,6 +3889,14 @@ Duoblaj vokaloj en finaĵoj estas skribataj kun makrono.
 
 <!--v-->
 
+| au <small>aud</small> | ăůt̯ = ōd *[o]* |
+
+<!--v-->
+
+| aucello | ăucello = ucello *[ucello]* |
+
+<!--v-->
+
 **auro**
 
 | 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
@@ -3729,12 +3906,85 @@ Duoblaj vokaloj en finaĵoj estas skribataj kun makrono.
 
 <!--v-->
 
+| auscultár | aŭscůltare = ascoltare *[ascoltare]* |
+
+<!--v-->
+
+**banco**
+
+| 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
+|:-:|:-:|:-:|:-:|
+| banco | banco | banco | banco |
+| *banco* | *banc* | *banco* | *banco* |
+
+<!--v-->
+
+**banco**
+
+| 🇫🇷 | 🇵🇹 |
+|:-:|:-:|
+| banco = bą | banco = bącu |
+| *banc* | *banco* |
+
+<!--v-->
+
+**bânio** <small>**bałneo = bâneo**</small>
+
+| 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
+|:-:|:-:|:-:|:-:|
+| bałnĕo | bałnĕo | bałnĕo | bałnĕo |
+| *bagno* | *bain* | *baño* | *banho* |
+
+Notes:
+* FR bain = baigne `?`
+
+<!--v-->
+
+**barca**
+
+| 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
+|:-:|:-:|:-:|:-:|
+| barca | barca | barca | barco |
+| *barca* | *barque* | *barca* | *barco* |
+
+<!--v-->
+
+**bassa**
+
+| 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
+|:-:|:-:|:-:|:-:|
+| bassa | bassa | basŝa | bas̃ŝa |
+| *bassa* | *basse* | *baja* | *baixa* |
+
+<!--v-->
+
+**bella**
+
+| 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
+|:-:|:-:|:-:|:-:|
+| bella | bella | bella | bella |
+| *bella* | *belle* | *bella* | *bela* |
+
+Notes:
+* `:)` ll
+
+<!--v-->
+
 **bene**
 
 | 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
 |:-:|:-:|:-:|:-:|
-| bene | bëne | bẽne | bene |
+| bene | bẽne | bẽne | bene |
 | *bene* | *bien* | *bien* | *bem* |
+
+<!--v-->
+
+**blanca**
+
+| 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
+|:-:|:-:|:-:|:-:|
+| bḷanca | blanĉa | blanca | bl̯anca |
+| *bianca* | *blanche* | *blanca* | *branca* |
 
 <!--v-->
 
@@ -3747,21 +3997,60 @@ Duoblaj vokaloj en finaĵoj estas skribataj kun makrono.
 
 <!--v-->
 
-**cantione**
+**bona**
 
-| 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
-|:-:|:-:|:-:|:-:|
-| cantĭōne | ĉantĭone | cantĭone | cantĭȏne̊ |
-| *canzone* | *chanson* | *canción* | *canção* |
+| 🇵🇹 |
+|:-:|
+| bona <small>bon̆a = boa</small> |
+| *boa* |
 
 <!--v-->
 
-**de**
+**bono**
 
 | 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
 |:-:|:-:|:-:|:-:|
-| dė | de | de | de |
-| *di* | *de* | *de* | *de* |
+| bõno | bono | bõno | bono |
+| *buono* | *bon* | *bueno* | *bom* |
+
+<!--v-->
+
+**bono**
+
+| 🇵🇹 |
+|:-:|
+| bono <small>bǫn̆ŏ = bǫ</small> |
+| *bom* |
+
+<!--v-->
+
+**borsa**
+
+| 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
+|:-:|:-:|:-:|:-:|
+| borsa | bǒrsa | bor̆sa | bor̆sa |
+| *borsa* | *bourse* | *bolsa* | *bolsa* |
+
+<!--v-->
+
+| bucca | bucĉa *[bouche]* |
+
+<!--v-->
+
+| calĭda | calĭda *[calda]* |
+
+<!--v-->
+
+| camisia | camisĭa *[camicia]* |
+
+<!--v-->
+
+**campania**
+
+| 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
+|:-:|:-:|:-:|:-:|
+| campanĭa | campanĭa | campanĭa | campanĭa |
+| *campagna* | *campagne* | *campaña* | *campanha* |
 
 <!--v-->
 
@@ -3773,7 +4062,7 @@ Duoblaj vokaloj en finaĵoj estas skribataj kun makrono.
 | *cane* | *chien* | *can* | *cão* |
 
 Notes:
-* ES perro
+* ES `perro`
 
 <!--v-->
 
@@ -3795,12 +4084,42 @@ Notes:
 
 <!--v-->
 
+**cantare**
+
+| 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
+|:-:|:-:|:-:|:-:|
+| cantare | ĉantære | cantare | cantare |
+| *cantare* | *chanter* | *cantar* | *cantar* |
+
+<!--v-->
+
+**cantione**
+
+| 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
+|:-:|:-:|:-:|:-:|
+| cantĭōne | ĉantĭone | cantĭone | cantĭone |
+| *canzone* | *chanson* | *canción* | *canção* |
+
+<!--v-->
+
 **capitano**
 
 | 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
 |:-:|:-:|:-:|:-:|
 | capitano | capitæn̄o | capitanŏ | capitano |
 | *capitano* | *capitaine* | *capitán* | *capitão* |
+
+Notes:
+* PT -ana
+* PT capitão (-ã) <-ães, ãs> SUBST m (f)
+
+<!--v-->
+
+| capsa | caṗŝa *[caixa]* |
+
+<!--v-->
+
+| captiva | captivo *[cattivo]* |
 
 <!--v-->
 
@@ -3822,12 +4141,40 @@ Notes:
 
 <!--v-->
 
+**castanea**
+
+| 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
+|:-:|:-:|:-:|:-:|
+| castanĕa | ĉastænĕa | castanĕa | castanĕa |
+| *castagna* | *châtaigne* | *castaña* | *castanha* |
+
+<!--v-->
+
+| castello | ĉastȇllo *[château]* |
+
+<!--v-->
+
 **catto**
 
 | 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
 |:-:|:-:|:-:|:-:|
 | c̆atto | ĉatto | c̆atto | c̆atto |
 | *gatto* | *chat* | *gato* | *gato* |
+
+<!--v-->
+
+**cauda**
+
+| 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
+|:-:|:-:|:-:|:-:|
+| căůda | cæ̊ŭdo | cåŭda | cauda |
+| *coda* | *queue* | *cola* | *cauda* |
+
+Notes:
+* IT ò → ó
+* FR -a → -o
+* ES d → l
+* ola
 
 <!--v-->
 
@@ -3840,12 +4187,425 @@ Notes:
 
 <!--v-->
 
+* *cheval* → *chval* [ʃval]: **ĉăvallo** = **ĉval**
+* *chevaux* → *chvos* [ʃvo]: **ĉăvallos** = **ĉval̥s**
+
+<!--v-->
+
+| celo | cẽlo = ciel *[ciel]* |
+| celo | celo = cełu *[céu]* |
+
+<!--v-->
+
+**clave**
+
+| 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
+|:-:|:-:|:-:|:-:|
+| cḷave | clæve | cḷave | cḷave |
+| *chiave* | *clé* | *llave* | *chave* |
+
+<!--v-->
+
+| cognoscér | coğnóscere = conōscere *[conoscere]* |
+
+<!--v-->
+
+| collo | collo = col *[col]* |
+| colla | colla = col *[colle]* |
+
+<!--v-->
+
+| complexa | complex̄a *[complexa]* |
+
+<!--v-->
+
+| condamnár | condamnare *[condannare]* |
+
+<!--v-->
+
+| cono | con̄o *[cône]* |
+
+<!--v-->
+
+**coprire**
+
+| 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
+|:-:|:-:|:-:|:-:|
+| coprire | cǒp̆rire | cǒp̆rire | cop̆rire |
+| *coprire* | *couvrir* | *cubrir* | *cobrir* |
+
+<!--v-->
+
+| copŭla | copŭla = cop̄ŭḷa *[coppia]* |
+
+<!--v-->
+
+| corâjo <small>corat̯ĭc̆o</small> | corat̯jc̆o = corajo *[coraggio]* |
+| corâjo <small>corat̯ĭc̆o</small> | cǒrajo *[courage]* |
+
+<!--v-->
+
+| *coração* |
+| *corações* |
+
+<!--v-->
+
+**core**
+
+| 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
+|:-:|:-:|:-:|:-:|
+| cõre | cøre | … | … |
+| *cuore* | *cœur* | *…* | *…* |
+
+<!--v-->
+
+| culo | c̄ylo *[cul]* |
+
+<!--v-->
+
+| cursa | cursa *[course]* |
+
+<!--v-->
+
+**de**
+
+| 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
+|:-:|:-:|:-:|:-:|
+| dė | de | de | de |
+| *di* | *de* | *de* | *de* |
+
+<!--v-->
+
+**de**
+
+| 🇫🇷 |
+|:-:|
+| de <small>dĕ = d</small> |
+| *de* |
+
+<!--v-->
+
+| de raro | dė raṟo *[di rado]* |
+
+<!--v-->
+
+**diurnata**
+
+| 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
+|:-:|:-:|:-:|:-:|
+| djůrnata | djurnæŧa | djůrnat̯a | djůrnat̯a |
+| *giornata* | *journée* | *jornada* | *jornada* |
+
+<!--v-->
+
+| doctore | doc̊torĕ *[doutor]* |
+
+<!--v-->
+
+| domĭna | dȏmĭna *[dame]* |
+
+<!--v-->
+
+**dormire**
+
+| 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
+|:-:|:-:|:-:|:-:|
+| dormire | dormire | dormire | dormire |
+| *dormire* | *dormir* | *dormir* | *dormir* |
+
+<!--v-->
+
+**echo**
+
+| 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
+|:-:|:-:|:-:|:-:|
+| echo | echo | echo | echo |
+| *eco* | *écho* | *eco* | *eco* |
+
+Notes:
+* FR
+
+<!--v-->
+
+**ego**
+
+| 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
+|:-:|:-:|:-:|:-:|
+| ėğo | ĕĝŏ | ėğo | eğo |
+| *io* | *je* | *yo* | *eu* |
+
+Notes:
+* Lingua: `ego`?
+
+<!--v-->
+
+**enuntiatione**
+
+| 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
+|:-:|:-:|:-:|:-:|
+| enuntjatione | enůntiatione | enuntiatione | enuntiatĭone |
+| *enunciazione* | *énonciation* | *enunciación* | *enunciação* |
+
+<!--v-->
+
+| es <small>est</small> | est *[è]* |
+
+<!--v-->
+
+| e <small>ed</small> | ét̯ = ēd *[e]* |
+* *et* [e]: **ed** = **e**
+
+<!--v-->
+
+| Europa | Europa *[Europe]* |
+
+<!--v-->
+
+| exame | exame *[esame]* |
+
+<!--v-->
+
+| exemplo | ex̆emplo *[exemplo]* |
+
+<!--v-->
+
+| exito | exito *[esito]* |
+
+<!--v-->
+
+| experto | experto *[esperto]* |
+
+<!--v-->
+
+**fabulare**
+
+| 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
+|:-:|:-:|:-:|:-:|
+| … | fabulæɍe | f̯abŭlare | fab̯ŭlare |
+| *…* | *fabuler* | *hablar* | *falar* |
+
+Notes:
+* `?` b/v
+
+<!--v-->
+
+* | facia | fac̄ia *[faccia]* |
+
+<!--v-->
+
+**facto**
+
+| 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
+|:-:|:-:|:-:|:-:|
+| facto | faċto | f̯äċto | fäċto |
+| *fatto* | *fait* | *hecho* | *feito* |
+
+<!--v-->
+
+| fame | fäme *[faim]* |
+| fame | fåme *[fome]* |
+
+<!--v-->
+
+**familia**
+
+| 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
+|:-:|:-:|:-:|:-:|
+| familĭa | familĭa | familia | familia |
+| *famiglia* | *famille* | *familia* | *família* |
+
+Notes:
+* `:)` lĭ
+
+<!--v-->
+
+| femĭna | fȇmĭna *[femme]* |
+
+<!--v-->
+
+**fera**
+
+| 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
+|:-:|:-:|:-:|:-:|
+| fẽra | fẽra | … | … |
+| *fiera* | *fière* | *…* | *…* |
+
+<!--v-->
+
+| ferro | f̆ẽrro *[hierro]* |
+
+<!--v-->
+
+**filia**
+
+| 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
+|:-:|:-:|:-:|:-:|
+| filĭa | filĭa | f̆ilĭa | filĭa |
+| *figlia* | *fille* | *hija* | *filha* |
+
+<!--v-->
+
 **fine**
 
 | 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
 |:-:|:-:|:-:|:-:|
 | fine | fine | fine | fine |
 | *fine* | *fin* | *fin* | *fim* |
+
+<!--v-->
+
+**flamma**
+
+| 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
+|:-:|:-:|:-:|:-:|
+| fḷamma | flamma | fḷamma | fḷamma |
+| *fiamma* | *flamme* | *llama* | *chama* |
+
+<!--v-->
+
+**flore**
+
+| 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
+|:-:|:-:|:-:|:-:|
+| fḷore | fløre | flore | flore |
+| *fiore* | *fleur* | *flor* | *flor* |
+
+Notes:
+* FR: la fleur
+* ES/PT: (l)a flor
+
+<!--v-->
+
+**foco**
+
+| 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
+|:-:|:-:|:-:|:-:|
+| fõco | føc̆o | fõc̆o | foc̆o |
+| *fuoco* | *feu* | *fuego* | *fogo* |
+
+<!--v-->
+
+**folia**
+
+| 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
+|:-:|:-:|:-:|:-:|
+| folĭa | følĭa | f̆olĭa | folĭa |
+| *foglia* | *feuille* | *hoja* | *folha* |
+
+<!--v-->
+
+**forma**
+
+| 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
+|:-:|:-:|:-:|:-:|
+| forma | forma | forma | forma |
+| *forma* | *forme* | *forma* | *forma* |
+
+<!--v-->
+
+**forma**
+
+| 🇫🇷 |
+|:-:|
+| forma = formă |
+| *forme* |
+
+Notes:
+* `:)` FR -a
+
+<!--v-->
+
+**forno**
+
+| 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
+|:-:|:-:|:-:|:-:|
+| forno | fǒrno | f̆orno | forno |
+| *forno* | *four* | *horno* | *forno* |
+
+<!--v-->
+
+| forte | forte = for *[fort]* |
+| forte | fortä = fort *[forte]* |
+
+<!--v-->
+
+**fratre**
+
+| 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
+|:-:|:-:|:-:|:-:|
+| frat̯r̆e | fræt̯re | frat̯r̆ė | frat̯r̆e |
+| *frate* | *frère* | *fray* | *frade* |
+
+Notes:
+* `?`
+* IT `fratello`, ES `hermano`, PT `irmão`
+
+<!--v-->
+
+**flitsa**
+
+| fritia | frïtja *[freccia]* |
+flèche
+flecha
+flecha
+
+<!--v-->
+
+**fronte**
+
+| 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
+|:-:|:-:|:-:|:-:|
+| fronte | fronte | frõnte | frõnte |
+| *fronte* | *front* | *frente* | *frente* |
+
+Notes:
+* Sed... la portugala ne havas `õ` do *e* en *frente* ne estas `õ`? Do estas `ö` kaj en PT kaj en ES?
+
+<!--v-->
+
+| fructo | fructo *[fruto]* |
+
+<!--v-->
+
+| *irmã* | **ğėrmąn̆ă** = **ğėrmana** |
+| *irmão* | **ğėrmąn̆o** = **ğėrmano** |
+
+<!--v-->
+
+| glaciale | glaciale *[glaciale]* |
+| glacio | gḷac̄io *[ghiaccio]* |
+
+<!--v-->
+
+| grisea | gris̆ĕo = gris̆ĭo *[grigio]* |
+
+<!--v-->
+
+| gola | ḡøla *[gueule]* |
+
+<!--v-->
+
+**gratia**
+
+| 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
+|:-:|:-:|:-:|:-:|
+| gratia | gratĭa | gratia | gratĭa |
+| *grazia* | *grâce* | *gracia* | *graça* |
+
+<!--v-->
+
+| gusto | gůsto *[gosto]* |
+
+<!--v-->
+
+| guttea | gůttĕa = gůttja *[goccia]* |
+goutte
+gota
+gota
+
+<!--v-->
+
+| (qŭe nos) havea <small>(qŭe) haveamo</small> | hav̄iamo *[abbiamo]* |
 
 <!--v-->
 
@@ -3861,6 +4621,10 @@ Notes:
 
 <!--v-->
 
+| hodie | hodĭe *[hoje]* |
+
+<!--v-->
+
 **hora**
 
 | 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
@@ -3870,12 +4634,220 @@ Notes:
 
 <!--v-->
 
+**hospitale**
+
+| 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
+|:-:|:-:|:-:|:-:|
+| hospït̯ale | hospitale | hospitale | hospitale |
+| *ospedale* | *hôpital* | *hospital* | *hospital* |
+
+<!--v-->
+
+**hospitale**
+
+| 🇮🇹 |
+|:-:|
+| hospït̯ale = ospedale |
+| *ospedale* |
+
+<!--v-->
+
+| illo | illŏ *[il]* |
+| illo | ĭllŏ *[l']* |
+| illo | ĭllo *[lo]* |
+| illos | iłłĭ *[i]* |
+| illos | ĭllĭ *[gli]* |
+
+| illa | ła *[a]* |
+
+<!--v-->
+
+**in**
+
+| 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
+|:-:|:-:|:-:|:-:|
+| in | ïn | ïn | ïn |
+| *in* | *en* | *en* | *em* |
+
+<!--v-->
+
+**indicio**
+
+| 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
+|:-:|:-:|:-:|:-:|
+| indiȼio | indicio | indicio | indicio |
+| *indizio* | *indice* | *indicio* | *indício* |
+
+Notes:
+* `:)` IT `Ȼȼ`
+
+<!--v-->
+
+**intrare**
+
+| 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
+|:-:|:-:|:-:|:-:|
+| ïntrare | ïntrær̆e | ïntrare | ïntrare |
+| *entrare* | *entrer* | *entrar* | *entrar* |
+
+<!--v-->
+
+| ipso | ïpso *[esso]* |
+| ipso | ïpso *[eso]* |
+
+Notes:
+* ad-ìpso = ad-epso *[adesso]*
+
+<!--v-->
+
+| ja | jam *[già]* |
+
+<!--v-->
+
+| joco | jöc̆o *[jeu]* |
+
+<!--v-->
+
+| junio | junĭo *[giugno]* |
+
+<!--v-->
+
+**jurare**
+
+| 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
+|:-:|:-:|:-:|:-:|
+| jurare | jyræɍe | jurare | jurare |
+| *giurare* | *jurer* | *jurar* | *jurar* |
+
+<!--v-->
+
 **justa**
 
 | 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
 |:-:|:-:|:-:|:-:|
-| justa | jysta | justa | justa |
+| justa | jys̄ta | justa | justa |
 | *giusta* | *juste* | *justa* | *justa* |
+
+<!--v-->
+
+**lacte**
+
+| 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
+|:-:|:-:|:-:|:-:|
+| lacte | laċte | läċte | läċte |
+| *latte* | *lait* | *leche* | *leite* |
+
+<!--v-->
+
+**lana**
+
+| 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
+|:-:|:-:|:-:|:-:|
+| lana | læna | lana | lana |
+| *lana* | *laine* | *lana* | *lã* |
+
+<!--v-->
+
+**lana**
+
+| 🇵🇹 |
+|:-:|
+| lana = ląn̆ă |
+| *lã* |
+
+Notes:
+* `:)` PT -ana
+
+<!--v-->
+
+| laxiár | laxĭare *[lasciare]* |
+
+<!--v-->
+
+**legale**
+
+| 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
+|:-:|:-:|:-:|:-:|
+| legale | | | legale |
+| *legale* | | | *legal* |
+
+Notes:
+* PT -ale
+
+<!--v-->
+
+**legale**
+
+| 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
+|:-:|:-:|:-:|:-:|
+| legali | | | legales |
+| *legali* | | | *legais* |
+
+Notes:
+* PT -ales
+
+<!--v-->
+
+**lege**
+
+| lege | leg̈̇e *[legge]* |
+
+<!--v-->
+
+**leone**
+
+| 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
+|:-:|:-:|:-:|:-:|
+| leone | lėone | leone | leone |
+| *leone* | *lion* | *león* | *leão* |
+
+<!--v-->
+
+**leone**
+
+| 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
+|:-:|:-:|:-:|:-:|
+| leoni | lėones | leones | leones |
+| *leoni* | *lions* | *leones* | *leões* |
+
+<!--v-->
+
+| *leão* | **leõnĕ** = **leõne** |
+| *leões* | **leonės** = **leones** |
+
+<!--v-->
+
+**limone**
+
+| 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
+|:-:|:-:|:-:|:-:|
+| limone | … | limone | limone |
+| *limone* | *…* | *limón* | *limão* |
+
+<!--v-->
+
+**linguâjo** <small>**linguat̯ĭc̆o**</small>
+
+| 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
+|:-:|:-:|:-:|:-:|
+| linguâjo <small>linguat̯ĭc̆o</small> | lïnguâjo <small>lïnguat̯ĭc̆o</small> | linguâjo <small>linguat̯ĭc̆ö</small> | linguâjo <small>linguat̯ĭc̆ǫ̈</small> |
+| *linguaggio* | *langage* | *lenguaje* | *linguagem* |
+
+<!--v-->
+
+**linia** <small>**linea**</small>
+
+| 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
+|:-:|:-:|:-:|:-:|
+| linea | linĕa | linea | linĕa |
+| *linea* | *ligne* | *línea* | *linha* |
+
+<!--v-->
+
+lib/liv?
+* `livĕra` `libĕra` `vr` `livra`
+* *livre* [livʀ]: **livro** = **livr**
+* *libre* [libʀ]: **libĕro** = **libr**
 
 <!--v-->
 
@@ -3888,12 +4860,74 @@ Notes:
 
 <!--v-->
 
+**loco**
+
+| 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
+|:-:|:-:|:-:|:-:|
+| lõc̆o | lø̃c̆o | … | loco |
+| *luogo* | *lieu* | *…* | *loco* |
+
+<!--v-->
+
+**luxo**
+
+| 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
+|:-:|:-:|:-:|:-:|
+| luxo | lyxo | lux̂o | lux̂o |
+| *lusso* | *luxe* | *lujo* | *luxo* |
+
+Notes:
+* FR `-x`
+* ES `-x`
+
+<!--v-->
+
+**mâistro** <small>**mağistro**</small>
+
+| 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
+|:-:|:-:|:-:|:-:|
+| mâïstro | mâistro | mâïstro | mäĭstro |
+| *maestro* | *maître* | *maestro* | *mestre* |
+
+<!--v-->
+
+**mâistro** <small>**mağistro**</small>
+
+| 🇫🇷 |
+|:-:|
+| mâistro <small>mæĭtro</small> |
+| *maître* |
+
+<!--v-->
+
+**maio**
+
+| 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
+|:-:|:-:|:-:|:-:|
+| majo | maio | maio | maio |
+| *maggio* | *mai* | *mayo* | *Maio* |
+
+<!--v-->
+
+| *manhã* | **manĭąn̆ă** = **manĭana** |
+
+<!--v-->
+
 **mano**
 
 | 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
 |:-:|:-:|:-:|:-:|
 | mano | mæno | mano | mano |
-| *mano* | *main* | *mano* | *mano* |
+| *mano* | *main* | *mano* | *mão* |
+
+<!--v-->
+
+**manos**
+
+| 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
+|:-:|:-:|:-:|:-:|
+| mani | mænos | manos | manos |
+| *mani* | *mains* | *manos* | *mãos* |
 
 <!--v-->
 
@@ -3906,12 +4940,227 @@ Notes:
 
 <!--v-->
 
+**mare**
+
+| 🇪🇸 | 🇵🇹 |
+|:-:|:-:|
+| mare = marĕ | mare = marĕ |
+| *mar* | *mar* |
+
+<!--v-->
+
+**mares**
+
+| 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
+|:-:|:-:|:-:|:-:|
+| mari | mæres | mares | mares |
+| *mari* | *mers* | *mares* | *mares* |
+
+<!--v-->
+
+| martio | martĭo *[marzo]* |
+
+<!--v-->
+
+**massa**
+
+| 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
+|:-:|:-:|:-:|:-:|
+| massa | massa | massa | massa |
+| *massa* | *masse* | *masa* | *massa* |
+
+Notes:
+* `:)` ss
+
+<!--v-->
+
+| massiva | massiva *[massive]* |
+
+<!--v-->
+
+**matre**
+
+| 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
+|:-:|:-:|:-:|:-:|
+| mat̯re | mæt̯re | mat̯re | mat̯r̆e |
+| *madre* | *mère* | *madre* | *mãe* |
+
+Notes:
+* PT at̯r̆ = `ã`
+
+<!--v-->
+
+**medio**
+
+| 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
+|:-:|:-:|:-:|:-:|
+
+| medio | medĭo *[mezzo]* |
+
+<!--v-->
+
+| mense | mēn̆se *[mese]* |
+| mensile | mēnsile *[mensile]* |
+
+<!--v-->
+
+**millione**
+
+| 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
+|:-:|:-:|:-:|:-:|
+| milione | milione | milĭone | milĭone |
+| *milione* | *million* | *millón* | *milhão* |
+
+Notes:
+* `:(` IT ll → l
+
+<!--v-->
+
+**multo**
+
+| 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
+|:-:|:-:|:-:|:-:|
+| můlto | … | `?` | muḷto |
+| *molto* | *…* | *mucho* | *muito* |
+
+<!--v-->
+
+**muro**
+
+| 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
+|:-:|:-:|:-:|:-:|
+| muro | myro | muro | muro |
+| *muro* | *mur* | *muro* | *muro* |
+
+<!--v-->
+
+**museo**
+
+| 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
+|:-:|:-:|:-:|:-:|
+| museo | `?` | museo | museo |
+| *museo* | *musée* | *museo* | *museu* |
+
+<!--v-->
+
 **natione**
 
 | 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
 |:-:|:-:|:-:|:-:|
-| natione | natione | natione | natĭȏne̊ |
+| natione | natione | natione | natĭone |
 | *nazione* | *nation* | *nación* | *nação* |
+
+<!--v-->
+
+| nevŭla | nevŭla = nev̄ŭḷa *[nebbia]* |
+* `nevŭla` `nebŭla` `bl` `nebla`
+
+<!--v-->
+
+`IT`
+| no | nò = no *[no]* |
+
+<!--v-->
+
+**nocte**
+
+| 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
+|:-:|:-:|:-:|:-:|
+| nocte | nǒċte | noċte | noċte |
+| *notte* | *nuit* | *noche* | *noite* |
+
+<!--v-->
+
+| nome | nome = nomi *[nome]* |
+
+<!--v-->
+
+| *não* | **nõn** |
+
+<!--v-->
+
+| normale | normalĕ = normál *[normal]* |
+
+<!--v-->
+
+| nos | nōṡ/nōs̃ *[noi]* |
+
+<!--v-->
+
+**nova**
+
+| 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
+|:-:|:-:|:-:|:-:|
+| nõva | nøva | nõva | nova |
+| *nuova* | *neuve* | *nueva* | *nova* |
+
+<!--v-->
+
+* `nuvŭla` `nubŭla` `bl` `nubla`
+
+<!--v-->
+
+| objecto | objecto *[oggetto]* |
+
+<!--v-->
+
+| octo | oċto *[oito]* |
+
+<!--v-->
+
+| octobre | oc̊tǒbre̊ *[outubro]* |
+
+<!--v-->
+
+| ocŭlo | ocŭlo = oc̄ŭḷo *[occhio]* |
+
+<!--v-->
+
+**officiale**
+
+| 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
+|:-:|:-:|:-:|:-:|
+| ǒfficiale | officiäle | officiale | officiale |
+| *ufficio* | *officielle* | *oficial* | *oficial* |
+
+Notes:
+* `:(` IT ǒ
+
+<!--v-->
+
+**olio** <small>**oleo**</small>
+
+| 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
+|:-:|:-:|:-:|:-:|
+| olėo | `?` | oleo | oleo |
+| *olio* | *huile* | *óleo* | *óleo* |
+
+<!--v-->
+
+**opĕra**
+
+| 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
+|:-:|:-:|:-:|:-:|
+| opera | øp̆ĕra | op̆ĕra | op̆ĕra |
+| *opera* | *œuvre* | *obra* | *obra* |
+
+<!--v-->
+
+| optár <small>optare</small> | op̄tare *[optare]* |
+
+<!--v-->
+
+| optĭma | optimo *[ottimo]* |
+| optĭma | optĭma *[ótima]* |
+
+<!--v-->
+
+**pace**
+
+| 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
+|:-:|:-:|:-:|:-:|
+| pace | pæce | pace | pace |
+| *pace* | *paix* | *paz* | *paz* |
 
 <!--v-->
 
@@ -3919,8 +5168,76 @@ Notes:
 
 | 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
 |:-:|:-:|:-:|:-:|
-| pane | pæne | pane | pane̊ |
+| pane | pæne | pane | pane |
 | *pane* | *pain* | *pan* | *pão* |
+
+<!--v-->
+
+**pane**
+
+| 🇪🇸 | 🇵🇹 |
+|:-:|:-:|
+| pane<small>panĕ = pan</small> | pane<small>pąn̆e̊ = pąu</small> |
+| *pan* | *pão* |
+
+<!--v-->
+
+**panes**
+
+| 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
+|:-:|:-:|:-:|:-:|
+| pani | pænes | panes | panes |
+| *pani* | *pains* | *panes* | *pãos* |
+
+<!--v-->
+
+| paro | paṙo *[paio]* |
+| paro | päro = pæro *[pair]* |
+
+<!--v-->
+
+**parlare** <small>**parăv̆ŏlare**</small>
+
+| 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
+|:-:|:-:|:-:|:-:|
+| parlare | parlæɍe | … | … |
+| *parlare* | *parler* | *…* | *…* |
+
+<!--v-->
+
+**parte**
+
+| 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
+|:-:|:-:|:-:|:-:|
+| parte | parte | parte | parte |
+| *parte* | *part* | *parte* | *parte* |
+
+<!--v-->
+
+**parte**
+
+| 🇵🇹 |
+|:-:|
+| parte <small>partĕ = part</small> |
+| *parte* |
+
+<!--v-->
+
+**parte**
+
+| 🇵🇹 | 🇧🇷 |
+|:-:|:-:|
+| parte <small>partĕ = part</small> | parte <small>partė = parti</small> |
+| *parte* | *parte* |
+
+<!--v-->
+
+**patre**
+
+| 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
+|:-:|:-:|:-:|:-:|
+| pat̯re | pæt̯re | pat̯re | pat̯r̆e |
+| *padre* | *père* | *padre* | *pai* |
 
 <!--v-->
 
@@ -3933,12 +5250,126 @@ Notes:
 
 <!--v-->
 
+**paupĕra**
+
+| 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
+|:-:|:-:|:-:|:-:|
+| påŭp̆era | påŭp̆ĕra | `?` | `?` |
+| *povera* | *pauvre* | *pobre* | *pobre* |
+
+<!--v-->
+
+| pausa | pausa = påŭsa *[pause]* |
+
+<!--v-->
+
+**pensare**
+
+| 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
+|:-:|:-:|:-:|:-:|
+| pensare | pensæɍe | pensare | pensare |
+| *pensare* | *penser* | *pensar* | *pensar* |
+
+<!--v-->
+
+**pede**
+
+| 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
+|:-:|:-:|:-:|:-:|
+| pẽde | pẽde | pẽd̯ĕ | ped̯ĕ |
+| *piede* | *pied* | *pie* | *pé* |
+
+<!--v-->
+
+**per**
+
+| 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
+|:-:|:-:|:-:|:-:|
+| per | pěr | pe̊r | pe̊r |
+| *per* | *pour* | *por* | *por* |
+
+<!--v-->
+
+| per lo | peɍ-lo *[pelo]* |
+
+<!--v-->
+
+**perdĕre**
+
+| 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
+|:-:|:-:|:-:|:-:|
+| perdere | perdĕre | perdere | perdere |
+| *perdere* | *perdre* | *perder* | *perder* |
+
+<!--v-->
+
+| perfecta | pȇrfecta *[**parfaite**]* |
+
+<!--v-->
+
+**persona**
+
+| 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
+|:-:|:-:|:-:|:-:|
+| persona | persona | persona | peɍsona |
+| *persona* | *personne* | *persona* | *pessoa* |
+
+<!--v-->
+
 **petra**
 
 | 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
 |:-:|:-:|:-:|:-:|
-| pẽtra | pët̯ra | pet̯ra | pet̯ra |
+| pẽtra | pẽt̯ra | pet̯ra | pet̯ra |
 | *pietra* | *pierre* | *pedra* | *pedra* |
+
+<!--v-->
+
+**photo**
+
+| 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
+|:-:|:-:|:-:|:-:|
+| photo | photo | photo | photo |
+| *foto* | *photo* | *foto* | *foto* |
+
+<!--v-->
+
+**pisce**
+
+| 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
+|:-:|:-:|:-:|:-:|
+| pïsce | … | pïsce | pïs̃ĉe |
+| *pesce* | *…* | *pez* | *peixe* |
+
+Notes:
+* `?` PT
+
+<!--v-->
+
+**pira**
+
+| 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
+|:-:|:-:|:-:|:-:|
+| pïra | pĩra | pïra | pïra |
+| *pera* | *poire* | *pera* | *pera* |
+
+<!--v-->
+
+**plana**
+
+| 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
+|:-:|:-:|:-:|:-:|
+| pḷana | plæna | pḷana | pḷana |
+| *piana* | *plaine* | *llana* | *chã* |
+
+<!--v-->
+
+**platia** <small>**platea**</small>
+
+| 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
+|:-:|:-:|:-:|:-:|
+| pḷatĕa | platĕa | platĕa | pl̯atĕa |
+| *piazza* | *place* | *plaza* | *praça* |
 
 <!--v-->
 
@@ -3951,6 +5382,24 @@ Notes:
 
 <!--v-->
 
+**pluma**
+
+| 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
+|:-:|:-:|:-:|:-:|
+| pḷuma | pluma | pluma | pluma |
+| *piuma* | *plume* | *pluma* | *pluma* |
+
+<!--v-->
+
+**plumbo**
+
+| 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
+|:-:|:-:|:-:|:-:|
+| *pḷůmbo* | *plůmbo* | *plůmƀo* | *pḷumbo* |
+| *piombo* | *plomb* | *plomo* | *chumbo* |
+
+<!--v-->
+
 **ponte**
 
 | 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
@@ -3958,172 +5407,487 @@ Notes:
 | ponte | ponte | põnte | ponte |
 | *ponte* | *pont* | *puente* | *ponte* |
 
-<!--s-->
+<!--v-->
 
-# La Itala
+**porta**
+
+| 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
+|:-:|:-:|:-:|:-:|
+| porta | porta | põrta | porta |
+| *porta* | *porte* | *puerta* | *porta* |
 
 <!--v-->
 
-## Vokaloj
+**porto**
+
+| 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
+|:-:|:-:|:-:|:-:|
+| porto | porto | põrto | porto |
+| *porto* | *port* | *puerto* | *porto* |
 
 <!--v-->
 
-| Lingua | Itala |
-|-|-|
-| nuvŭla | nuvůla *[nuvola]* |
+**posta**
+
+| 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
+|:-:|:-:|:-:|:-:|
+| posta | pos̄ta | … | … |
+| *posta* | *poste* | … | … |
+
+<!--v-->
+
+| postmeridiana | postmeridiano *[pomeridiano]* |
+
+<!--v-->
+
+| postponér <small>postponĕre</small> | pos̄tponĕre *[posporre]* |
+
+<!--v-->
+
+**pronuntiare**
+
+| 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
+|:-:|:-:|:-:|:-:|
+| pronuntjare | pronůntĭæɍe | pronuntiare | pronuntiare |
+| *pronunciare* | *prononcer* | *pronunciar* | *pronunciar* |
+
+<!--v-->
+
+| proxĭma | proxĭma *[próxima]* |
+
+<!--v-->
+
+| publĭca | puḇlico *[pubblico]* |
+
+<!--v-->
+
+**pulso**
+
+| 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
+|:-:|:-:|:-:|:-:|
+| půlso | pulso | pulso | pulso |
+| *polso* | *pouls* | *pulso* | *pulso* |
 
 Notes:
-* `Lingua`
-* `nuvŭla` `nubŭla` `bl` `nubla`
-* `nevŭla` `nebŭla` `bl` `nebla`
-* `livĕra` `libĕra` `vr` `livra`
-* `tavŭla` `tabŭla` `bl` `tabla`
+* FR u = ǒ = ů̌
 
 <!--v-->
 
-| Lingua | Itala |
-|-|-|
-| studio | studio *[studio]* |
-| studios | studī *[studi]* |
+| puncto <small>→ pûnto</small> | punto *[punto]* |
 
 <!--v-->
 
-### Diftongiĝo
+| quattro | quattro *[quatre]* |
 
 <!--v-->
 
-| Lingua | Itala |
-|-|-|
-| core | cõre *[cuore]* |
+**qŭe**
+
+| 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
+|:-:|:-:|:-:|:-:|
+| qŭe | quė̃ | qŭe | qŭe |
+| *che* | *quoi* | *que* | *que* |
+
+Notes:
+* FR que
 
 <!--v-->
 
-### Elizio
+| qui | qui = qŭi *[qui]* |
 
 <!--v-->
 
-| Lingua | Itala |
-|-|-|
-| calĭda | calĭda *[calda]* |
-| una | unŏ *[un]* |
-| qŭe | qŭe *[che]* |
+**radice**
+
+| 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
+|:-:|:-:|:-:|:-:|
+| radice | … | rad̯ice | rad̯ice |
+| *radice* | *…* | *raíz* | *raiz* |
 
 <!--v-->
 
-| Lingua | Itala |
-|-|-|
-| illo | illŏ *[il]* |
-| illo | ĭllŏ *[l']* |
-| illo | ĭllo *[lo]* |
+**radio**
+
+| 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
+|:-:|:-:|:-:|:-:|
+| radjo | `?` | rad̯io | rad̯io |
+| *raggio* | `?` | *rayo* | *raio* |
 
 <!--v-->
 
-| Lingua | Itala |
-|-|-|
-| illos | il̯l̯ĭ *[i]* |
-| illos | ĭllĭ *[gli]* |
+**rana**
+
+| 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
+|:-:|:-:|:-:|:-:|
+| rana | … | rana | rana |
+| *rana* | … | *rana* | *rã* |
+
+Notes:
+* `:)` PT -ana
+* FR rainette
 
 <!--v-->
 
-### Fermeco
+| regĭna | rȇğiṇa *[rainha]* |
 
 <!--v-->
 
-| Lingua | Itala |
-|-|-|
-| stella | stēlla *[stella]* |
-| voce | vōce *[voce]* |
+| regno | reġno *[reino]* |
 
 <!--v-->
 
-| Lingua | Itala |
-|-|-|
-| no | nò = no *[no]* |
+**rica**
+
+| 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
+|:-:|:-:|:-:|:-:|
+| ric̄a | riĉa | rica | rica |
+| *ricca* | *riche* | *rica* | *rica* |
+
+Notes:
+* FR `riche` ankaŭ por la vira formo
 
 <!--v-->
 
-### Esceptoj
+**sacco**
+
+| 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
+|:-:|:-:|:-:|:-:|
+| sacco | sacco | sacco | sacco |
+| *sacco* | *sac* | *saco* | *saco* |
 
 <!--v-->
 
-| Lingua | Itala |
-|-|-|
-| officio | ǒfficio *[ufficio]* |
+| sala | sala *[salle]* |
 
 <!--v-->
 
-| Lingua | Itala |
-|-|-|
-| officio | **officio** *[**officio**]* |
+**sale**
+
+| 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
+|:-:|:-:|:-:|:-:|
+| sale | sæle | sale | sale |
+| *sale* | *sel* | *sal* | *sal* |
 
 <!--v-->
 
-| Lingua | Itala |
-|-|-|
-| ad-ipso | ad-ìpso = ad-epso *[adesso]* |
-| turre | tùrre = torre *[torre]* |
+**sale**
+
+| 🇪🇸 | 🇵🇹 |
+|:-:|:-:|
+| sale <small>salĕ = sal</small> | sale <small>sal̥ĕ = sau</small> |
+| *sal* | *sal* |
 
 <!--v-->
 
-| Lingua | Itala |
-|-|-|
-| ad-ipso | **ad-ïpso** = **ad-ēsso** *[**adesso**]* |
-| turre | **tůrre** = **tōrre** *[**torre**]* |
+**sales**
+
+| 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
+|:-:|:-:|:-:|:-:|
+| sali | sæles | sales | sales |
+| *sali* | *sels* | *sales* | *sais* |
 
 <!--v-->
 
-| Lingua | Itala |
-|-|-|
-| cognoscér | coğnóscere = conōscere *[conoscere]* |
-| e <small>ed</small> | ét̯ = ēd *[e]* |
-| tecto | técto = tētto *[tetto]* |
+**sale**
+
+| 🇪🇸 | 🇵🇹 |
+|:-:|:-:|
+| sales | sales <small>sałės = sais</small> |
+| *sales* | *sais* |
 
 <!--v-->
 
-| Lingua | Itala |
-|-|-|
-| cognoscér | **cognoscere** *[**cognoscere**]* |
-| e <small>ed</small> | **et̯** = **ed** *[**e**]* |
-| tecto | **tecto** *[**tetto**]* |
+**salto**
+
+| 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
+|:-:|:-:|:-:|:-:|
+| salto | salto | salto | salto |
+| *salto* | *saut* | *salto* | *salto* |
 
 <!--v-->
 
-| Lingua | Itala |
-|-|-|
-| au <small>aud</small> | ăůt̯ = ōd *[o]* |
-| aucello | ăucello = ucello *[ucello]* |
-| auscultár | aŭscůltare = ascoltare *[ascoltare]* |
-| cauda | căůda *[coda]* |
+**sana**
+
+| 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
+|:-:|:-:|:-:|:-:|
+| sana | sæna | sana | sana |
+| *sana* | *saine* | *sana* | *sã* |
 
 <!--v-->
 
-| Lingua | Itala |
-|-|-|
-| au <small>aud</small> | **åŭd** *[**o**]* |
-| aucello | **åŭcello** *[**ocello**]* |
-| auscultár | **åŭscůltare** *[**oscoltare**]* |
-| cauda | **cåŭda** *[**coda**]* |
+**sana**
+
+| 🇵🇹 |
+|:-:|
+| sana <small>sană = są<small> |
+| sã |
+
+Notes:
+* `:)` são
 
 <!--v-->
 
-## Konsonantoj
+| (qŭe nos) sapea <small>(qŭe) sapeamo</small> | sap̄iamo *[sappiamo]* |
 
 <!--v-->
 
-### Elizio
+**sapere**
+
+| 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
+|:-:|:-:|:-:|:-:|
+| sapere | sap̆ė̃re | sap̆ere | sap̆ere |
+| *sapere* | *savoir* | *saber* | *saber* |
 
 <!--v-->
 
-| Lingua | Itala |
-|-|-|
-| ja | jam *[già]* |
+| scena | scena *[cena]* |
+
+<!--v-->
+
+**schola**
+
+| 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
+|:-:|:-:|:-:|:-:|
+| schola | s̃chola | s̃chõla | s̃chola |
+| *scuola* | *école* | *escuela* | *escola* |
+
+<!--v-->
+
+**scrivĕre**
+
+| 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
+|:-:|:-:|:-:|:-:|
+| scrivĕre | s̃criv̆ėre | s̃crivėre | s̃crïvere |
+| *scrivere* | *écrire* | *escribir* | *escrever* |
+
+Notes:
+* `?` FR s̃criv̆ėre/s̃criv̆ĕre
+
+<!--v-->
+
+| secunda | sec̆unda *[segunda]* |
+
+<!--v-->
+
+| sedŭla | sedŭla = sedḷa *[sedia]* |
+
+<!--v-->
+
+| *semana* | **seman̄ā** = **semanā** = **seman̄a** | <!-- ? -->
+
+<!--v-->
+
+| sentír | sentirĕ = sentír *[sentir]* |
+
+<!--v-->
+
+| sequír | seq̆uire *[seguire]* |
+
+<!--v-->
+
+**sera**
+
+| 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
+|:-:|:-:|:-:|:-:|
+| sera | sė̃ra | … | … |
+| *sera* | *soir* | *…* | *…* |
+
+<!--v-->
+
+| serata | sė̃rätă *[soirée]* |
+
+<!--v-->
+
+| sex | seẋ/sex̃ *[sei]* |
+
+<!--v-->
+
 | sî | sic *[sì]* |
 
 <!--v-->
 
-| Lingua | Itala |
-|-|-|
-| es <small>est</small> | est *[è]* |
+| sonár | son̆arĕ *[soar]* |
+
+<!--v-->
+
+**sora**
+
+| 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
+|:-:|:-:|:-:|:-:|
+| sõra | søra | … | … |
+| *suora* | *sœur* | *…* | *…* |
+
+Notes:
+* IT *sorella*
+
+<!--v-->
+
+**spatio**
+
+| 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
+|:-:|:-:|:-:|:-:|
+| spatio | s̃patĭo | s̃patio | s̃patĭo |
+| *spazio* | *éspace* | *espacio* | *espaço* |
+
+Notes:
+* `e-sp-`
+
+<!--v-->
+
+**stella**
+
+| 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
+|:-:|:-:|:-:|:-:|
+| stēlla | s̃tė̃lla | … | … |
+| *stella* | *étoile* | *…* | *…* |
+
+Notes:
+* `:)` IT ē
+* ES/PT **sterŭla** **stêrla** **stêlla** estrella estrela
+
+<!--v-->
+
+| studios | studī *[studi]* |
+
+<!--v-->
+
+**systema**
+
+| 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
+|:-:|:-:|:-:|:-:|
+| systema | systema | systema | systema |
+| *sistema* | *système* | *sistema* | *sistema* |
+
+Notes:
+* `:)` y
+
+<!--v-->
+
+* `tavŭla` `tabŭla` `bl` `tabla`
+
+<!--v-->
+
+| tecto | técto = tētto *[tetto]* |
+
+<!--v-->
+
+**templo**
+
+| 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
+|:-:|:-:|:-:|:-:|
+| tempḷo | templo | templo | templo |
+| *tempio* | *temple* | *templo* | *templo* |
+
+Notes:
+* IT `templi`
+
+<!--v-->
+
+**tempo**
+
+| 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
+|:-:|:-:|:-:|:-:|
+| tempo | tempo | tẽmpo | tempo |
+| *tempo* | *temps* | *tiempo* | *tempo* |
+
+Notes:
+* FR `-s`
+
+<!--v-->
+
+**tenere**
+
+| 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
+|:-:|:-:|:-:|:-:|
+| tenere | tenėre | tenere | ten̆ĕr |
+| *tenere* | *tenir* | *tener* | *ter* |
+
+<!--v-->
+
+**terra**
+
+| 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
+|:-:|:-:|:-:|:-:|
+| terra | terra | tẽrra | terra |
+| *terra* | *terre* | *tierra* | *terra* |
+
+<!--v-->
+
+| testa | testa *[tête]* |
+
+<!--v-->
+
+| texto | texto *[testo]* |
+
+<!--v-->
+
+**thema**
+
+| 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
+|:-:|:-:|:-:|:-:|
+| thema | thema | thema | thema |
+| *tema* | *thème* | *tema* | *tema* |
+
+Notes:
+* `:)` th
+* `:(` FR `sujet`
+
+<!--v-->
+
+**theoria**
+
+| 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
+|:-:|:-:|:-:|:-:|
+| theoria | theoria | theoria | theoria |
+| *teoria* | *théorie* | *teoría* | *teoria* |
+
+<!--v-->
+
+**these**
+
+| 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
+|:-:|:-:|:-:|:-:|
+| thesis | these | thesis | these |
+| *tesi* | *thèse* | *tesis* | *tese* |
+
+Notes:
+* `?` -is/-e
+
+<!--v-->
+
+**tota**
+
+| 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
+|:-:|:-:|:-:|:-:|
+| tǒṯa | tǒta | tot̯a | tot̯a |
+| *tutta* | *toute* | *toda* | *toda* |
+
+<!--v-->
+
+| toxĭca | toxico *[tossico]* |
+
+<!--v-->
+
+**trâino** <small>**trağino**</small>
+
+| 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
+|:-:|:-:|:-:|:-:|
+| `…` | `…` | `…` | … |
+| *treno* | *train* | *tren* | *…* |
+
+Notes:
+* BR `trem`
+
+<!--v-->
+
+| transmontár <small>transmontare</small> | transmontare *[tramontare]* |
+
+<!--v-->
+
+| transportár <small>transportare</small> | trans̄portare *[trasportare]* |
+
+<!--v-->
+
 | tres | trēs *[tre]* |
 
 Notes:
@@ -4131,833 +5895,180 @@ Notes:
 
 <!--v-->
 
-| Lingua | Itala |
-|-|-|
-| postmeridiana | postmeridiano *[pomeridiano]* |
-| transmontár <small>transmontare</small> | transmontare *[tramontare]* |
+| tu | tü = ty *[tu]* |
 
 <!--v-->
 
-| Lingua | Itala |
-|-|-|
-| postponér <small>postponĕre</small> | pos̄tponĕre *[posporre]* |
-| transportár <small>transportare</small> | trans̄portare *[trasportare]* |
+**turre**
+
+| 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
+|:-:|:-:|:-:|:-:|
+| tùrre | turre | tůrre | tůrre |
+| *torre* | *tour* | *torre* | *torre* |
 
 Notes:
-* `<small>` `-ione (-io!)` `-re`
+* `:)` rr
+* `:(` IT ù
 
 <!--v-->
 
-| Lingua | Itala |
-|-|-|
-| adiuto | ad̯iuto *[aiuto]* |
-| magistro | mağïstro *[maestro]* |
+| una | uña *[uma]* |
 
 <!--v-->
 
-### Voĉiĝo
+**unione**
+
+| 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
+|:-:|:-:|:-:|:-:|
+| unione | ynione | unione | unione |
+| *unione* | *union* | *unión* | *união* |
 
 <!--v-->
 
-| Lingua | Itala |
-|-|-|
-| paupĕra | påŭp̆ero *[povero]* |
-| sequír | seq̆uire *[seguire]* |
+**unione**
+
+| 🇵🇹 |
+|:-:|
+| unione <small>uniȏne̊ = uniąu</small> |
+| *união* |
 
 <!--v-->
 
-| Lingua | Itala |
-|-|-|
-| matre | mat̯re = madre *[madre]* |
+**uniones**
+
+| 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
+|:-:|:-:|:-:|:-:|
+| unioni| yniones | uniones | uniones |
+| *unioni* | *unions* | *uniones* | *uniões* |
 
 <!--v-->
 
-### Duobliĝo
+| una | unŏ *[un]* |
 
 <!--v-->
 
-| Lingua | Itala |
-|-|-|
-| lege | leg̈̇e *[legge]* |
-| publĭca | puḇlico *[pubblico]* |
-| rico | ric̄o *[ricco]* |
+| universitate | üniversitäte *[université]* |
 
 <!--v-->
 
-| Lingua | Itala |
-|-|-|
-| (qŭe nos) havea <small>(qŭe) haveamo</small> | hav̄iamo *[abbiamo]* |
-| (qŭe nos) sapea <small>(qŭe) sapeamo</small> | sap̄iamo *[sappiamo]* |
+**valere**
+
+| 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
+|:-:|:-:|:-:|:-:|
+| valere | valė̃re | valere | valere |
+| *valere* | *valoir* | *valer* | *valer* |
 
 <!--v-->
 
-### Velariĝo
-
-<!--v-->
-
-| Lingua | Itala |
-|-|-|
-| nos | nōṡ *[noi]* |
-| paro | paṙo *[paio]* |
-| sex | seẋ *[sei]* |
-
-<!--v-->
-
-| Lingua | Itala |
-|-|-|
-| blanca | bḷanco *[bianco]* |
-| clave | cḷave *[chiave]* |
-| flore | fḷore *[fiore]* |
-| plena | pḷeno *[pieno]* |
-
-<!--v-->
-
-| Lingua | Itala |
-|-|-|
-| templo | tempḷo *[tempio]* |
-| templos | templi *[templi]* |
-
-<!--v-->
-
-| Lingua | Itala |
-|-|-|
-| copŭla | copŭla = cop̄ŭḷa *[coppia]* |
-| nevŭla | nevŭla = nev̄ŭḷa *[nebbia]* |
-| ocŭlo | ocŭlo = oc̄ŭḷo *[occhio]* |
-
-<!--v-->
-
-| Lingua | Itala |
-|-|-|
-| sedŭla | sedŭla = sedḷa *[sedia]* |
-| vetŭla | vetŭlo = vecḷo *[vecchio]* |
-
-<!--v-->
-
-### Assimiloj
-
-<!--v-->
-
-| Lingua | Itala |
-|-|-|
-| absoluta | absoluto *[assoluto]* |
-| ipso | ïpso *[esso]* |
-
-<!--v-->
-
-| Lingua | Itala |
-|-|-|
-| texto | texto *[testo]* |
-| toxĭca | toxico *[tossico]* |
-
-<!--v-->
-
-| Lingua | Itala |
-|-|-|
-| exame | exame *[esame]* |
-| exito | exito *[esito]* |
-| experto | experto *[esperto]* |
-
-<!--v-->
-
-| Lingua | Itala |
-|-|-|
-| captiva | captivo *[cattivo]* |
-| facto | facto *[fatto]* |
-| puncto <small>→ pûnto</small> | punto *[punto]* |
-
-<!--v-->
-
-| Lingua | Itala |
-|-|-|
-| condamnár | condamnare *[condannare]* |
-
-<!--v-->
-
-### +i
-
-<!--v-->
-
-#### ti
-
-<!--v-->
-
-| Lingua | Itala |
-|-|-|
-| gratias | gratie *[grazie]* |
-
-<!--v-->
-
-| Lingua | Itala |
-|-|-|
-| gratias | gratie *[grazie]* |
-
-Notes:
-* `zio`
-* `democrazia`
-
-<!--v-->
-
-#### +ĭ
-
-<!--v-->
-
-| Lingua | Itala |
-|-|-|
-| medio | medĭo *[mezzo]* |
-| martio | martĭo *[marzo]* |
-
-<!--v-->
-
-| Lingua | Itala |
-|-|-|
-| familia | familĭa *[famiglia]* |
-| junio | junĭo *[giugno]* |
-
-<!--v-->
-
-| Lingua | Itala |
-|-|-|
-| camisia | camisĭa *[camicia]* |
-| laxiár | laxĭare *[lasciare]* |
-
-<!--v-->
-
-#### +j
-
-<!--v-->
-
-| Lingua | Itala |
-|-|-|
-| maio | majo *[maggio]* |
-
-<!--v-->
-
-| Lingua | Itala |
-|-|-|
-| objecto | objecto *[oggetto]* |
-| radio | radjo *[raggio]* |
-
-<!--v-->
-
-| Lingua | Itala |
-|-|-|
-| corâjo <small>coradĭc̆o</small> | corat̯jc̆o = corajo *[coraggio]* |
-
-<!--v-->
-
-#### ı
-
-<!--v-->
-
-| Lingua | Itala |
-|-|-|
 | (eo) veni <small>venio</small> | venıo *[vengo]* |
 
 <!--v-->
 
-#### ĕ
+| vena | vena *[veine]* |
+| vena | veṅa *[veia]* |
 
 <!--v-->
 
-| Lingua | Itala |
-|-|-|
-| alteár | altĕare = altĭare *[alzare]* |
-| grisea | gris̆ĕo = gris̆ĭo *[grigio]* |
-| guttea | gůttĕa = gůttja *[goccia]* |
-| platea | pḷatĕa = pḷatĭa *[piazza]* |
+| vetŭla | vetŭlo = vecḷo *[vecchio]* |
+
+<!--v-->
+
+<!--v-->
+
+**via**
+
+| 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
+|:-:|:-:|:-:|:-:|
+| via | vĩa | via | via |
+| *via* | *voie* | *via* | *via* |
+
+<!--v-->
+
+| vino | viṇo *[vinho]* |
+
+<!--v-->
+
+| visione | visionĕ = visión *[visión]* |
+
+<!--v-->
+
+**voce**
+
+| 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
+|:-:|:-:|:-:|:-:|
+| vōce | voce | voce | voce |
+| *voce* | *voix* | *voz* | *voz* |
 
 Notes:
-* `?`
-* `gozzia`
+* `:)` IT ō
+* `?` FR oi
 
 <!--v-->
 
-### Esceptoj
+**volár**
+
+| 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
+|:-:|:-:|:-:|:-:|
+| volare | volær̆e | volare | vołare |
+| *volare* | *voler* | *volar* | *voár* |
 
 <!--v-->
 
-| Lingua | Itala |
-|-|-|
-| mense | mēn̆se *[mese]* |
-| mensile | mēnsile *[mensile]* |
+**volo**
+
+| 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
+|:-:|:-:|:-:|:-:|
+| volo | volo | võlo | voło |
+| *volo* | *vol* | *vuelo* | *voo* |
 
 <!--v-->
 
-| Lingua | Itala |
-|-|-|
-| mense | mēn̆se *[mese]* |
-| mensile | **mēn̆sile** *[**mesile**]* |
+**vulcano**
 
-<!--v-->
-
-| Lingua | Itala |
-|-|-|
-| ampla | ampḷo *[ampio]* |
-| amplas | ampḷi *[ampi]* |
-
-<!--v-->
-
-| Lingua | Itala |
-|-|-|
-| ampla | ampḷo *[ampio]* |
-| amplas | **ampli** *[**ampli**]* |
-
-<!--v-->
-
-| Lingua | Itala |
-|-|-|
-| marinario | marinar̆io *[marinaio]* |
-| marinarios | marinar̆ī *[marinai]* |
-
-<!--v-->
-
-| Lingua | Itala |
-|-|-|
-| marinario | marinar̆io *[marinaio]* |
-| marinarios | **marinarī** *[**marinari**]* |
-
-<!--v-->
-
-| Lingua | Itala |
-|-|-|
-| armario | armaṟio *[armadio]* |
-| de raro | dė raṟo *[di rado]* |
-
-<!--v-->
-
-| Lingua | Itala |
-|-|-|
-| armario | **armar̆io** *[**armaio**]* |
-| de raro | **dė raro** *[**di raro**]* |
-
-<!--v-->
-
-| Lingua | Itala |
-|-|-|
-| glaciale | glaciale *[glaciale]* |
-| glacio | gḷac̄io *[ghiaccio]* |
-
-<!--v-->
-
-| Lingua | Itala |
-|-|-|
-| glaciale | **gḷac̄iale** *[**ghiacciale**]* |
-| glacio | gḷac̄io *[ghiaccio]* |
-
-<!--v-->
-
-| Lingua | Itala |
-|-|-|
-| optár <small>optare</small> | op̄tare *[optare]* |
-| optĭma | optimo *[ottimo]* |
-
-<!--v-->
-
-| Lingua | Itala |
-|-|-|
-| optár <small>optare</small> | **optare** *[**ottare**]* |
-| optĭma | optimo *[ottimo]* |
-
-<!--v-->
-
-| Lingua | Itala |
-|-|-|
-| indĭce | indice *[indice]* |
-| indicio | indiȼio *[indizio]* |
+| 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
+|:-:|:-:|:-:|:-:|
+| *vulcano* | *volcan* | *volcán* | *vulcão* |
 
 Notes:
-* `Ȼȼ`
+* PT vulcões
 
 <!--v-->
 
-| Lingua | Itala |
-|-|-|
-| indĭce | indice *[indice]* |
-| indicio | **indicio** *[**indicio**]* |
-
-<!--v-->
-
-| Lingua | Itala |
-|-|-|
-| fritia | frïtja *[freccia]* |
-| pronuntia | pronuntja *[pronuncia]* |
-
-<!--v-->
-
-| Lingua | Itala |
-|-|-|
-| fritia | **frïtia** *[**frezia**]* |
-| pronuntia | **pronuntia** *[**pronunzia**]* |
-
-Notes:
-* `facciamo facevamo faccia c̄`
-* | facia | fac̄ia *[faccia]* |
-
-<!--v-->
-
-## Grekismoj
-
-<!--v-->
-
-| Lingua | Itala |
-|-|-|
-| echo | echo *[eco]* |
-| photo | photo *[foto]* |
-| systema | systema *[sistema]* |
-| thema | thema *[tema]* |
-
-<!--v-->
-
-| Lingua | Itala |
-|-|-|
-| praxis | praxis *[prassi]* |
-| thesis | thesis *[tesi]* |
-
-<!--v-->
-
-| Lingua | Itala |
-|-|-|
-| theoria | theoria *[teoria]* |
-
-<!--v-->
-
-## Germanismoj
-
-<!--v-->
-
-| Lingua | Itala |
-|-|-|
 | (wardár) | wardare *[guardare]* |
 
 <!--v-->
+
+| (wirra) `?` | wïrra *[guerra]* |
+
+<!--s-->
+
+# La Itala
 
 <!--
 * **bisůmnĭo** [bisogno]
 * **omnĭ** [ogni]
 * **somnĭo** [sogno]
 
-hymno thůnno sůbto dïcto judiȼio hẽri spagìtti teŭt̯ìsco pḷùvja ěq̆uale sùbsta hodjė djůrno cḷesıa åŭrïcŭlo spìcŭlo pḷus pağēn̆se pḷaṯo pat̯re civĭtat̯ civĭtat̯inantĭa rat̯ĭōne stat̯ĭōne cōrtēn̆s̆jare fas̆ĕolo pḷïc̆are mac̄hina rėcůp̆erare mağĭs mağis jänŭar̆io febrŭar̆io aŭgůsto dẽcė jůp̆ediĕ allovjo fḷava postmeridjo duvĭo levjero důpḷo qyæṟere tåŭrinēn̆se bânĭo=bal̮nĕo angùstja frïgĭdo domĭna vïrĭde porĭco basjo hĭstoria ĭntra ĭnfra qŭis qŭōme capïtĭůlo bellïtĭa ėğo ĕxvïğĭlĭare hospït̯ale cåŭsa sap̆jo poṡt créscĕre
+hymno thůnno sůbto dïcto judiȼio hẽri spagìtti teŭt̯ìsco pḷùvja ěq̆uale sùbsta hodjė djůrno cḷesıa åŭrïcŭlo spìcŭlo pḷus pağēn̆se pḷaṯo civĭtat̯ civĭtat̯inantĭa rat̯ĭōne stat̯ĭōne cōrtēn̆s̆jare fas̆ĕolo pḷïc̆are mac̄hina rėcůp̆erare mağĭs mağis jänŭar̆io febrŭar̆io aŭgůsto dẽcė jůp̆ediĕ allovjo fḷava postmeridjo duvĭo levjero důpḷo qyæṟere tåŭrinēn̆se angùstja frïgĭdo domĭna vïrĭde porĭco basjo hĭstoria ĭntra ĭnfra qŭis qŭōme capïtĭůlo bellïtĭa ĕxvïğĭlĭare hospït̯ale cåŭsa sap̆jo poṡt créscĕre
 
 dŭm-ïntĕre ad-lă-hōra ad-pœna dĕ-ab-vēro dĕ-ïntro dĕ-ůvï ĭstĕ-ïpso qŭō-sic de̊-post
 
-tǒṯo proprio veterinario
+proprio veterinario
 -->
 
 <!-- sı -->
 <!-- ragazıo -->
 
-<!-- reformoj -->
-
 <!-- | nautár | nãŭtare *[nuotare]* | -->
 <!-- * **ĕẋaq̄uare** [sciacquare] -->
-<!-- * **eu0311ẋsuc̆are** [asciugare] -->
+<!-- * **eẋsuc̆are** [asciugare] -->
 
 <!--s-->
 
 # La Franca
 
-<!--v-->
-
-## Finaĵoj
-
-<!--v-->
-
-### Elizio
-
-<!--v-->
-
-| Lingua | Franca |
-|-|-|
-| bassa | basso = ba *[bas]* |
-| bassa | bassa = bas *[basse]* |
-
-<!--v-->
-
-| Lingua | Franca |
-|-|-|
-| bona | bono = bon *[bon]* |
-| bona | bona = bon̄ *[bonne]* |
-
-<!--v-->
-
-| Lingua | Franca |
-|-|-|
-| nova | növo = nöf *[neuf]* |
-| nova | növa = növ *[neuve]* |
-
-<!--v-->
-
-| Lingua | Franca |
-|-|-|
-| forte | forte = for *[fort]* |
-| forte | fortä = fort *[forte]* |
-
-<!--v-->
-
-| Lingua | Franca |
-|-|-|
-| collo | collo = col *[col]* |
-| colla | colla = col *[colle]* |
-
-<!--v-->
-
-| Lingua | Franca |
-|-|-|
-| porto | porto = por *[port]* |
-| porta | porta = port *[porte]* |
-
-<!--v-->
-
-| Lingua | Franca |
-|-|-|
-| cantár | ĉantär̆e *[chanter]* |
-
-<!--v-->
-
-| Lingua | Franca |
-|-|-|
-| serata | sẽrätă *[soirée]* |
-| universitate | üniversitäte *[université]* |
-
-<!--v-->
-
-| Lingua | Franca |
-|-|-|
-| castello | ĉastȇllo *[château]* |
-
-<!--v-->
-
-| Lingua | Franca |
-|-|-|
-| corâjo <small>coradĭc̆o</small> | cǒrajo *[courage]* |
-
-<!--v-->
-
-## Vokaloj
-
-<!--v-->
-
-| Lingua | Franca |
-|-|-|
-| cursa | cursa *[course]* |
-
-<!--v-->
-
-| Lingua | Franca |
-|-|-|
-| amore | amǒre *[amour]* |
-
-<!--v-->
-
-| Lingua | Franca |
-|-|-|
-| flore | flöre = fløre *[fleur]* |
-| paro | päro = pæro *[pair]* |
-| tu | tü = ty *[tu]* |
-
-<!--v-->
-
-| Lingua | Franca |
-|-|-|
-| culo | cülo = c̄ylo *[cul]* |
-| gola | göla = ḡøla *[gueule]* |
-
-<!--v-->
-
-| Lingua | Franca |
-|-|-|
-| Europa | Europa *[Europe]* |
-| maio | maio *[mai]* |
-| pauco | päuc̆o *[peu]* |
-| pausa | pausa = påŭsa *[pause]* |
-
-Notes:
-* `ä` besseres Beispiel ohne c̆
-
-<!--v-->
-
-| Lingua | Franca |
-|-|-|
-| qui | qui = qŭi *[qui]* |
-
-<!--v-->
-
-| Lingua | Franca |
-|-|-|
-| qŭe | quẽ *[quoi]* |
-| via | vĩa *[voie]* |
-
-<!--v-->
-
-| Lingua | Franca |
-|-|-|
-| celo | cëlo = ciel *[ciel]* |
-
-<!--v-->
-
-### Nazaliĝo
-
-<!--v-->
-
-| Lingua | Franca |
-|-|-|
-| fame | fäme *[faim]* |
-| in | ïn *[en]* |
-
-<!--v-->
-
-### Esceptoj
-
-<!--v-->
-
-| Lingua | Franca |
-|-|-|
-| amár | **amäre** *[**amer**]* |
-| aperír | **ap̆ĕrire** *[**avrir**]* |
-| cane | **ĉäne** *[**chein**]* |
-| domĭna | **domĭna** *[**domme**]* |
-| loco | **löc̆o** *[**lœu**]* |
-| per | **per** *[**per**]* |
-
-<!--v-->
-
-| Lingua | Franca |
-|-|-|
-| amár | ämäre *[aimer]* |
-| aperír | ǎp̆ĕrire *[ouvrir]* |
-| domĭna | dȏmĭna *[dame]* |
-| loco | lø̃c̆o *[lieu]* |
-| per | pěr *[pour]* |
-
-<!--v-->
-
-#### Ortografiaj Esceptoj
-
-<!--v-->
-
-| Lingua | Franca |
-|-|-|
-| auro | auro *[**aur**]* |
-| joco | jöc̆o *[**jœu**]* |
-| mare | märe *[**mair**]* |
-| perfecta | pȇrfecta *[**parfette**]* |
-| vena | vena *[**vène**]* |
-
-<!--v-->
-
-| Lingua | Franca |
-|-|-|
-| auro | auro *[or]* |
-| joco | jöc̆o *[jeu]* |
-| mare | märe *[mer]* |
-| perfecta | pȇrfecta *[**parfaite**]* |
-| vena | vena *[veine]* |
-
-<!--v-->
-
-#### Gramatikaj Esceptoj
-
-<!--v-->
-
-#### Pronconaj Esceptoj
-
-<!--v-->
-
-| Lingua | Franca |
-|-|-|
-| cono | **cono** *[**con**]* |
-| femĭna | **femĭna** *[femme]* |
-
-Notes:
-* `con` evitinda
-
-<!--v-->
-
-| Lingua | Franca |
-|-|-|
-| cono | con̄o *[cône]* |
-| femĭna | fȇmĭna *[femme]* |
-
-<!--v-->
-
-## Konsonantoj
-
-<!--v-->
-
-| Lingua | Franca |
-|-|-|
-| sacco | sacco *[sac]* |
-| terra | terra *[terre]* |
-| volo | volo *[vol]* |
-
-<!--v-->
-
-### Mallongiĝo
-
-<!--v-->
-
-| Lingua | Franca |
-|-|-|
-| massa | massa *[masse]* |
-| massiva | massiva *[massive]* |
-
-Notes:
-* `la ina formo estu ekzempligita en la franca`
-
-<!--v-->
-
-| Lingua | Franca |
-|-|-|
-| quattro | quattro *[quatre]* |
-
-<!--v-->
-
-### c
-
-<!--v-->
-
-| Lingua | Franca |
-|-|-|
-| catto | ĉatto *[chat]* |
-
-<!--v-->
-
-| Lingua | Franca |
-|-|-|
-| bucca | bucĉa *[bouche]* |
-
-<!--v-->
-
-### j
-
-<!--v-->
-
-| Lingua | Franca |
-|-|-|
-| diurno | djurno *[jour]* |
-
-<!--v-->
-
-### l
-
-<!--v-->
-
-| Lingua | Franca |
-|-|-|
-| salto | salto *[saut]* |
-
-<!--v-->
-
-### Elizio
-
-<!--v-->
-
-| Lingua | Franca |
-|-|-|
-| hora | höra *[heure]* |
-
-<!--v-->
-
-| Lingua | Franca |
-|-|-|
-| posta | pos̄ta *[poste]* |
-| testa | testa *[tête]* |
-
-<!--v-->
-
-| Lingua | Franca |
-|-|-|
-| schola | s̃chola *[école]* |
-
-<!--v-->
-
-| Lingua | Franca |
-|-|-|
-| trâino <small>trağino</small> | traino <small>trağino</small> *[train]* |
-
-Notes:
-* `de kiam ekzistas tiu elizio en la dialektaro?`
-
-<!--v-->
-
-### Voĉiĝo
-
-<!--v-->
-
-| Lingua | Franca |
-|-|-|
-| foco | föc̆o *[feu]* |
-| opĕra | öp̆ĕra *[œuvre]* |
-
-Notes:
-* `fœu`
-
-<!--v-->
-
-### Germanismoj
-
-<!--v-->
-
-| Lingua | Franca |
-|-|-|
-| (walaup) | galaup *[galop]* |
-| (wanto) | wanto *[gant]* |
-
-Notes:
-* `walaup`?
-
-<!--v-->
-
-### Esceptoj
-
-<!--v-->
-
-#### Ortografiaj Esceptoj
-
-<!--v-->
-
-| Lingua | Franca |
-|-|-|
-| alta | alto *[**aut**]* |
-| pace | päc̆e *[**pai**]* |
-| sala | sala *[**sale**]* |
-| tempo | tempo *[**temp**]* |
-
-Notes:
-* `sala` evitinda
-
-<!--v-->
-
-| Lingua | Franca |
-|-|-|
-| alta | alto *[haut]* |
-| pace | päc̆e *[paix]* |
-| sala | sala *[salle]* |
-| tempo | tempo *[temps]* |
-
-<!--v-->
-
-#### Gramatikaj Esceptoj
-
-<!--v-->
-
-| Lingua | Franca |
-|-|-|
-| cauda | cäuda *[**cœude**]* |
-
-<!--v-->
-
-| Lingua | Franca |
-|-|-|
-| cauda | cäudo *[queue]* |
-
-<!--v-->
-
 <!--
-sẽra nẽro müro lüna bëne pëde päro cläro cöre üno üna sölo säno passo vino tinto sänto bäl̮nĕo mäno päno isla fenestra mağistro s̃tẽlla s̃tăre bastone parte havẽre ponte vẽlo ĉalĭdo falta ĉampo aq̆ua fẽro gaio ĉausa poro oracŭlo nobĭle mägro roba söra angŭlo tǒto můtto sĕc̆üro pĩso jẙvăn̄e grande övo gräno gräna breve ĉäro prĭmëro grave qualitäte gustäre estätĕ s̃tato s̃täto plüs plüstosto persona turre mät̯re pät̯re frät̯re uvi s̃crivĕre bĭv̆ẽre bërra ĉambjär̆e liğät̯ĭone ĉadĕntĭa cǒlöre bracio maiŏre anno effecto vĕräc̆a
-
- beu030cllo
+sėau0300ra nė̃ra lüna pẽde päro cläro cöre üno üna sölo säno passo vino tinto sänto bäl̮nĕo mäno päno isla fenestra s̃tė̃lla s̃tăre bastone havė̃re ponte vė̃lo ĉalĭdo falta ĉampo aq̆ua gaio ĉausa poro oracŭlo nobĭle mägro roba söra angŭlo tǒto můtto sĕc̆üro pĩso jẙvăn̄e grande övo gräno gräna breve ĉäro prĭmẽra grave qualitäte gustäre estätĕ s̃tato s̃täto plüs plüstosto uvi s̃crivĕre bĭv̆ė̃re bẽrra ĉambjär̆e liğät̯ĭone ĉadĕntĭa cǒlöre bracio maiŏre anno effecto vĕräc̆a
 
 [e]
 cläve caio
@@ -4966,7 +6077,7 @@ cläve caio
 mağis presto frïsc̆o frïsĉa
 
 [ɑ͂]
-vento tenta dente gente sentire centro quando
+vento tenta dente gente centro quando
 
 * *voyage* [vwajaʒ]: **vĩajo** = **vĩaj**@j
  võc̆äle
@@ -4993,425 +6104,18 @@ pöpŭlo
 
 # La Hispana
 
-<!--v-->
-
-## Finaĵoj
-
-<!--v-->
-
-| Lingua | Hispana |
-|-|-|
-| normale | normalĕ = normál *[normal]* |
-| sentire | sentirĕ = sentír *[sentir]* |
-| visione | visionĕ = visión *[visión]* |
-
-<!--v-->
-
-## Vokaloj
-
-<!--v-->
-
-| Lingua | Hispana |
-|-|-|
-| in | ïn *[en]* |
-
-<!--v-->
-
-### Diftongiĝo
-
-<!--v-->
-
-| Lingua | Hispana |
-|-|-|
-| bene | bẽne *[bien]* |
-
-<!--v-->
-
-| Lingua | Hispana |
-|-|-|
-| bona | bõna *[buena]* |
-
-<!--v-->
-
-| Lingua | Hispana |
-|-|-|
-| fronte | frõnte *[frente]* |
-
-<!--v-->
-
-## Konsonantoj
-
-<!--v-->
-
-### Voĉiĝo
-
-<!--v-->
-
-| Lingua | Hispana |
-|-|-|
-| amico | amic̆o *[amigo]* |
-
-<!--v-->
-
-### Elizio
-
-<!--v-->
-
-| Lingua | Hispana |
-|-|-|
-| ferro | fhẽrro *[hierro]* |
-
-<!--v-->
-
 <!-- 
 fõc̆o sõrte põnte cõnta marĕ
 
 noche leche
-
 -->
 
 <!--s-->
 
 # La Portugala
 
-Notes:
-* la Brazila, fakte
-
-<!--v-->
-
-## Finaĵoj
-
-<!--v-->
-
-| Lingua | Portugala |
-|-|-|
-| nome | nome = nomi *[nome]* |
-| porto | porto = portu *[porto]* |
-
-<!--v-->
-
-| Lingua | Portugala |
-|-|-|
-| museo | museo = museu *[museu]* |
-
-<!--v-->
-
-## Vokaloj
-
-<!--v-->
-
-| Lingua | Portugala |
-|-|-|
-| gusto | gůsto *[gosto]* |
-
-<!--v-->
-
-| Lingua | Portugala |
-|-|-|
-| auro | åuro *[ouro]* |
-
-<!--v-->
-
-| Lingua | Portugala |
-|-|-|
-| qŭe | qŭe *[que]* |
-
-<!--v-->
-
-### Esceptoj
-
-<!--v-->
-
-| Lingua | Portugala |
-|-|-|
-| fame | **fame** *[**fame**]* |
-
-<!--v-->
-
-| Lingua | Portugala |
-|-|-|
-| fame | fåme *[fome]* |
-
-<!--v-->
-
-## Konsonantoj
-
-<!--v-->
-
-### i
-
-<!--v-->
-
-| Lingua | Portugala |
-|-|-|
-| capsa | caṗŝa *[caixa]* |
-| octo | oċto *[oito]* |
-| regno | reġno *[reino]* |
-| multo | muḷto *[muito]* |
-| vena | veṅa *[veia]* |
-
-### l
-
-<!--v-->
-
-| Lingua | Portugala |
-|-|-|
-| clave | cḷave *[chave]* |
-| flamma | fḷamma *[chama]* |
-| plumbo | pḷumbo *[chumbo]* |
-
-<!--v-->
-
-| Lingua | Portugala |
-|-|-|
-| alta | alta = ałta *[alta]* |
-| celo | celo = cełu *[céu]* |
-
-<!--v-->
-
-| Lingua | Portugala |
-|-|-|
-| la | ła *[a]* |
-
-Notes:
-* `illa` ausschreiben?
-
-<!--v-->
-
-### Duobliĝo
-
-Notes:
-* `?`
-
-<!--v-->
-
-| Lingua | Portugala |
-|-|-|
-| causa | cåŭs̃a = cos̃a *[coisa]* |
-| scrivér | s̃crïverĕ *[escrever]* |
-
-<!--v-->
-
-### Unuobliĝo
-
-<!--v-->
-
-| Lingua | Portugala |
-|-|-|
-| bella | bella *[bela]* |
-
-<!--v-->
-
-| Lingua | Portugala |
-|-|-|
-| massa | massa *[massa]* |
-| terra | terra *[terra]* |
-
-<!--v-->
-
-### Voĉiĝo
-
-<!--v-->
-
-| Lingua | Portugala |
-|-|-|
-| aqua | aq̆ua *[água]* |
-| exemplo | ex̆emplo *[exemplo]* |
-| sapér | sap̆erĕ *[saber]* |
-| secunda | sec̆unda *[segunda]* |
-| tota | tot̯a *[toda]* |
-
-Notes:
-* `x̆` überall
-
-<!--v-->
-
-### Elizio
-
-<!--v-->
-
-| Lingua | Portugala |
-|-|-|
-| ipso | ïpso *[eso]* |
-| fructo | fructo *[fruto]* |
-| optĭma | optĭma *[ótima]* |
-| proxĭma | proxĭma *[próxima]* |
-| scena | scena *[cena]* |
-
-<!--v-->
-
-| Lingua | Portugala |
-|-|-|
-| complexa | complex̄a *[complexa]* |
-| facto | fac̄to** *[facto]* |
-
-<!--v-->
-
-| Lingua | Portugala |
-|-|-|
-| ego | eğo *[eu]* |
-| per lo | peɍ-lo *[pelo]* |
-| radio | rađio *[raio]* |
-| volár | vołarĕ *[voar]* |
-
-<!--v-->
-
-| Lingua | Portugala |
-|-|-|
-| bona | bon̆a *[boa]* |
-| sonár | son̆arĕ *[soar]* |
-
-<!--v-->
-
-### +i
-
-<!--v-->
-
-#### ti
-
-<!--v-->
-
-| Lingua | Portugala |
-|-|-|
-| pronuntia | pronuntia *[pronúncia]* |
-
-<!--v-->
-
-#### +ĭ
-
-<!--v-->
-
-| Lingua | Portugala |
-|-|-|
-| bânio | bânĭo *[banho]* |
-| filio | filĭo *[filho]* |
-| hodie | hodĭe *[hoje]* |
-
-Notes:
-* `?`
-
-<!--v-->
-
-### Esceptoj
-
-<!--v-->
-
-| Lingua | Portugala |
-|-|-|
-| regĭna | **reğina** *[**reina**]* |
-| vino | **vino** *[**vino**]* |
-
-<!--v-->
-
-| Lingua | Portugala |
-|-|-|
-| regĭna | rȇğiṇa *[rainha]* |
-| vino | viṇo *[vinho]* |
-
-<!--v-->
-
-| Lingua | Portugala |
-|-|-|
-| una | **una** *[**una**]* |
-
-<!--v-->
-
-| Lingua | Portugala |
-|-|-|
-| una | **un̆a** *[**ua**]* |
-
-<!--v-->
-
-| Lingua | Portugala |
-|-|-|
-| una | uña *[uma]* |
-
-<!--v-->
-
-| Lingua | Portugala |
-|-|-|
-| borsa | **borsa** *[**borsa**]* |
-
-<!--v-->
-
-| Lingua | Portugala |
-|-|-|
-| borsa | bor̆sa *[bolsa]* |
-
-<!--v-->
-
-| Lingua | Portugala |
-|-|-|
-| blanca | **blanca** *[**blanca**]* |
-
-<!--v-->
-
-| Lingua | Portugala |
-|-|-|
-| blanca | bl̯anca *[branca]* |
-
-<!--v-->
-
-| Lingua | Portugala |
-|-|-|
-| doctore | **doctorĕ** *[**dotor**]* |
-| octobre | **octobre** *[**otobre**]* |
-
-<!--v-->
-
-| Lingua | Portugala |
-|-|-|
-| doctore | **doċtorĕ** *[**doitor**]* |
-| octobre | **oċtobre** *[**oitobre**]* |
-
-<!--v-->
-
-| Lingua | Portugala |
-|-|-|
-| doctore | doc̊torĕ *[doutor]* |
-| octobre | oc̊tǒbre̊ *[outubro]* |
-
-<!--v-->
-
-| Lingua | Portugala |
-|-|-|
-| altra | **altra** *[**altra**]* |
-
-<!--v-->
-
-| Lingua | Portugala |
-|-|-|
-| altra | åłtra *[outra]* |
-
-### Vocalizadas
-
-<!--v-->
-
-## Grekismoj
-
-<!--v-->
-
-| Lingua | Portugala |
-|-|-|
-| echo | echo *[eco]* |
-| photo | photo *[foto]* |
-| systema | systema *[sistema]* |
-| thema | thema *[tema]* |
-
-<!--v-->
-
-## Germanismoj
-
-<!--v-->
-
-| Lingua | Portugala |
-|-|-|
-| (wirra) | wïrra *[guerra]* |
-
-<!--v-->
-
 <!-- 
-cella collo programma anno rara casa rosa acto nocturna tacto tecto trato victĭma pac̄to sceptica gÿpso maxĭma fix̄a ox̄igenio tax̄i tox̄ĭca perfeċta leċtora noċte seċta dos̃ bas̃ŝa pïs̃ĉe rot̯a lėct̯o mut̯at̯a universit̯at̯e cḷamarĕ mulĭerĕ ap̆rirĕ seq̆ŭirĕ crescerĕ auxiliarĕ flore pḷůverĕ sůmma åusarĕ påuca tåuro ex̆acta ex̆ito physĭca amic̆o como foc̆o meo leon̆a lun̆a ruğa mağis peɍson̆a men̆sa pl̯ato s̃phera s̃patĭo s̃tatĭȏne̊
+cella collo programma anno rara casa rosa acto nocturna tacto tecto trato victĭma pac̄to sceptica gÿpso maxĭma fix̄a ox̄igenio tax̄i tox̄ĭca perfeċta leċtora noċte seċta dos̃ bas̃ŝa pïs̃ĉe rot̯a lėct̯o mut̯at̯a universit̯at̯e cḷamarĕ mulĭerĕ ap̆rirĕ seq̆ŭirĕ crescerĕ auxiliarĕ flore pḷůverĕ sůmma åusarĕ påuca tåuro ex̆acta ex̆ito physĭca amic̆o como foc̆o meo leon̆a lun̆a ruğa mağis men̆sa pl̯ato s̃phera s̃patĭo s̃tatĭone
 
 | *ou* | **åut** = **õt** |
 
@@ -5422,6 +6126,186 @@ cella collo programma anno rara casa rosa acto nocturna tacto tecto trato victĭ
 
 -->
 
-<!-- æ ø y statt ä ö ü verwenden (cøre, mære, myre) -->
+<!-- æ ø y statt ä ö ü verwenden (cøre, mære) -->
 <!-- e statt ø und æ verwenden (federatione, presentatione) -->
 <!-- weibliche adjektive verwenden (active statt actif) -->
+
+<!-- | Lingua | Franca |
+|-|-|
+| (galaup) | galaup *[galop]* |
+| (wanto) | wanto *[gant]* | -->
+
+* *toujours* [tuʒuʀ]: **tǒt̯os-djǒrnos** = **tǒ-jǒr**
+* *malade* [malad]: **malĕ-habĭt̯ȏ** = **malad**
+
+* *trop grave* [tʀo gʀav]: **trop̆p̆o grave** = **trop̆ grav**
+* *trop important* [tʀop‿ɛ͂pɔʀtɑ͂]: **trop̄p̄o importante** = **trop̄ im̃portã**
+* *mieux manger* [mjø mɑ̃ʒe]: **melio manjär̆e**@
+* *mieux être* [mjøz‿ɛtʀ]: **melio s̃tăre**@
+
+* *mon* [mɔ͂]: **moñ** = **moñ**
+
+* *contrôl* [kɔ͂tʀol]: **contrótŭlo** > **contróllo** = **coñtról**
+* *rôle* [rol]: **rótŭlo** > **róllo** = **ról**
+
+* *rail* [ʀɑj]: **rȇgŭla**@
+* *sérail* [seʀaj]:
+* *détail* [detaj]: @teilen
+* *naturel* → *naturail* [natyʀɛl]: **natüräle** = **natüräl**
+
+* *mars* [maʀs]: **martĭo** = **mars**
+* *dieu* [djø]: **dėö**
+* *même* [mɛm]: **medĭpsĭmo** = **mem**
+
+* *déjà* [deʒa]: **de-jam** = **de-ja**
+
+
+| | [ŝ] |
+|-|-|
+| *mexer* | **mex̂erĕ** = **mex̂ere** | <!-- mïscŭḷäre -->
+| *México* | **Mex̂ico** |
+
+<!-- dĭ godĭar=gozar ? -->
+
+| | |
+|-|-|
+| *ciência* | **scientĭa** | <!-- ê ? -->
+| *peça* | **petĭa** |
+
+##### ti, di
+
+| | [tŝi] |
+|-|-|
+| *tio* | **t̂io** = **tio** |
+
+| | [dĵi] |
+|-|-|
+| *dia* | **d̂ia** = **dia** |
+
+#### sĭ
+
+| | |
+|-|-|
+| *beijo* | **bäṡĭo** | <!-- ä -->
+
+##### sı
+
+| | |
+|-|-|
+| *camisa* | **camisıa** |
+
+## Voc̆ales
+
+### æ ø y
+| | |
+|-|-|
+| *hiena* | **hyæna** |
+| *federação* | **fœderatĭõne** |
+
+### Nasales
+
+| | [~] |
+|-|-|
+| *com* | **con** |
+| *junta* | **juncta** |
+| *cem* | **cent** |
+
+### Finales
+
+| | [i] |
+|-|-|
+| *vai* | **vad̯ė** = **vad̯e** |
+
+### Mut̯adas
+
+| | [e] |
+|-|-|
+| *certeza* | **certït̯ıa** = **certeza** |
+| *pelo*    | **pïlo** |
+| *seis*    | **sïẋ**  |
+| *seio*    | **sïṅo** | <!-- sino -->
+| *seno*    | **sïno** | <!-- sinuso -->
+| *vez*     | **vïc̆ĕ** = **vïce** | <!-- c̆ĕ -->
+| | |
+| *ela* | **ïlla** |
+| *ele* | **ïlle** |
+
+| | [i] |
+|-|-|
+| *criar* | **crėare** |
+| *prisão* | **prėn̆sıõnĕ** = **prėn̆sıõne** |
+
+| | [o] |
+|-|-|
+| *dobro* | **důp̆l̯o** |
+| *menos* | **mïnůs** |
+| *ponto* | **půncto** |
+| *por* | **pe̊r** |
+| *roxa* | **růsŝa** |
+
+| | [u] |
+|-|-|
+| *lugar* | **lǒc̆al̯e** |
+
+| | |
+|-|-|
+| *cama* | **camĕra** |
+| *cidade* | **civĭt̯at̯e** = **civĭt̯ade** |
+| *começo* | **comïn̆ĭtĭo** |
+| *só* | **sołŏ** |
+| | |
+| *dom* | **domĭnŏ** |
+| *dona* | **domĭna** |
+
+### Diphthongadas
+
+| | [eĭ] |
+|-|-|
+| *aceitar* | **accẽptare** |
+| *ideia* | **idẽa** |
+
+| | [oŭ] |
+|-|-|
+| *tesouro* | **tesõro** |
+
+## Conson̆antes Finales
+
+### -m
+
+| | |
+|-|-|
+| *já* | **jam** |
+
+### -t
+
+| | |
+|-|-|
+| *e* | **et** |
+
+### -ce, -se
+
+| | [s]/[zis] |
+|-|-|
+| *mês* | **men̆sĕ** = **men̆se** |
+| *mêses* | **men̆sės** = **men̆ses** |
+| | |
+| *país* | **pağėn̆sĕ** = **pağėn̆se** |
+| *países* | **pağėn̆sės** = **pağėn̆ses** |
+
+| | [si]/[sis] |
+|-|-|
+| *doce* | **důłcė** = **důłce** |
+| *doces* | **důłcės** = **důłces** |
+
+### -ne, -no
+
+| | [~] |
+|-|-|
+| *rim* | **rėnĕ** = **rėne** |
+| *rins* | **rėnĕs** = **rėnes** |
+| | |
+| *som* | **sonŏ** = **sono** |
+| *sons* | **sonŏs** = **sonos** |
+
+<!-- | adiuto | ad̯iuto *[aiuto]* | -->
+<!-- asse axe eje eixo -->
