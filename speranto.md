@@ -3525,7 +3525,7 @@ Duoblaj vokaloj en finaĵoj estas skribataj kun makrono.
 |-|-|
 | jam | **ja** *[ĵa]* |
 | | |
-| kaĝo | **cavea** *[kaĵa]* |
+| kaĝo | **cavia** <small>**cavea**</small> *[kaĵa]* |
 
 <!--v-->
 
@@ -3584,7 +3584,7 @@ Duoblaj vokaloj en finaĵoj estas skribataj kun makrono.
 | Esperanto | Meridionál |
 |-|-|
 | ajlo | **alio** *[aḷo]* <small>*[ali-o]*</small> |
-| oleo | **oleo** *[ole-o]* |
+| oleo | **olio** <small>**oleo**</small> *[oḷo]* <small>*[ole-o]*</small> |
 
 <!--v-->
 
@@ -3595,7 +3595,7 @@ Duoblaj vokaloj en finaĵoj estas skribataj kun makrono.
 | Esperanto | Meridionál |
 |-|-|
 | bezono | **besonio** *[bezoṅo]* <small>*[bezoni-o]*<small> |
-| stranga | **extranea** *[estraṅa]* <small>*[ekstrane-a]*</small> |
+| stranga | **extrania** <small>**extranea**</small> *[estraṅa]* <small>*[ekstrane-a]*</small> |
 
 <!--v-->
 
@@ -3745,10 +3745,10 @@ Notes:
 * schola: FR/ES/PT s̃
 * hora: IT/FR/ES/PT h, FR ø
 * alio: lĭ
-* olio: lĕ
 * campania: nĭ
-* linia: nĕ
 * natione: ti/tĭ
+* olio: lĕ
+* linia: nĕ
 * platia: tĕ
 * maio: j
 * jurare: j
@@ -3766,10 +3766,11 @@ Notes:
 * luxo: ES/PT x̂
 * bassa: ES/PT ŝ
 * flamma: IT/ES/PT ḷ
-* bânio: IT/FR/ES/PT ł
 * blanca: PT l̯
 * borsa: ES/PT r̆
 * lacte: FR/ES/PT ċt
+* vena: PT ṅ
+* paro: IT ṙ
 
 <!--v-->
 
@@ -4141,7 +4142,7 @@ Notes:
 
 <!--v-->
 
-**castanea**
+**castania** <small>**castanea**</small>
 
 | 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
 |:-:|:-:|:-:|:-:|
@@ -5079,6 +5080,7 @@ Notes:
 
 <!--v-->
 
+norma
 | normale | normalĕ = normál *[normal]* |
 
 <!--v-->
@@ -5104,7 +5106,12 @@ Notes:
 
 <!--v-->
 
-| octo | oċto *[oito]* |
+**octo**
+
+| 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
+|:-:|:-:|:-:|:-:|
+| octo | ǒċto | oċto | oċto |
+| *otto* | *huit* | *ocho* | *oito* |
 
 <!--v-->
 
@@ -5191,8 +5198,12 @@ Notes:
 
 <!--v-->
 
-| paro | paṙo *[paio]* |
-| paro | päro = pæro *[pair]* |
+**paro**
+
+| 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
+|:-:|:-:|:-:|:-:|
+| paṙo | pæro | parŏ | parŏ |
+| *paio* | *pair* | *par* | *par* |
 
 <!--v-->
 
@@ -5536,6 +5547,15 @@ Notes:
 
 <!--v-->
 
+**rene**
+
+| 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
+|:-:|:-:|:-:|:-:|
+| rene | rene | `...` | rėne |
+| *rene* | *rein* | *riñón* | *rim* |
+
+<!--v-->
+
 **rica**
 
 | 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
@@ -5710,6 +5730,15 @@ Notes:
 
 <!--v-->
 
+**sono**
+
+| 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
+|:-:|:-:|:-:|:-:|
+| sõno | sono | sonŏ | sono |
+| *suono* | *son* | *son* | *som* |
+
+<!--v-->
+
 **sora**
 
 | 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
@@ -5767,7 +5796,12 @@ Notes:
 
 <!--v-->
 
-| tecto | técto = tētto *[tetto]* |
+**tecto**
+
+| 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
+|:-:|:-:|:-:|:-:|
+| tēcto | tė̃cto | teċto | … |
+| *tetto* | *toit* | *techo* | *…* |
 
 <!--v-->
 
@@ -5829,7 +5863,6 @@ Notes:
 | *tema* | *thème* | *tema* | *tema* |
 
 Notes:
-* `:)` th
 * `:(` FR `sujet`
 
 <!--v-->
@@ -5872,7 +5905,7 @@ Notes:
 
 | 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
 |:-:|:-:|:-:|:-:|
-| `…` | `…` | `…` | … |
+| träĭno | trâino | träĭnŏ | … |
 | *treno* | *train* | *tren* | *…* |
 
 Notes:
@@ -5964,14 +5997,16 @@ Notes:
 
 <!--v-->
 
-| vena | vena *[veine]* |
-| vena | veṅa *[veia]* |
+**vena**
+
+| 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
+|:-:|:-:|:-:|:-:|
+| vena | vena | vena | veṅa |
+| *vena* | *veine* | *vena* | *veia* |
 
 <!--v-->
 
 | vetŭla | vetŭlo = vecḷo *[vecchio]* |
-
-<!--v-->
 
 <!--v-->
 
@@ -6087,8 +6122,6 @@ vento tenta dente gente centro quando
 vincĕre *[vincre]* *[vaincre]*
 compŭtär̆e *[conter]* *[compter]*
 
-nø̌ċte *[nuit]*
-ø̌ċto *[uit]* *[huit]*
 * *fruit* [fʀɥi]: **fruċto** = **früċ** = **früi**
 
 näso *[nez]*
@@ -6115,12 +6148,9 @@ noche leche
 # La Portugala
 
 <!-- 
-cella collo programma anno rara casa rosa acto nocturna tacto tecto trato victĭma pac̄to sceptica gÿpso maxĭma fix̄a ox̄igenio tax̄i tox̄ĭca perfeċta leċtora noċte seċta dos̃ bas̃ŝa pïs̃ĉe rot̯a lėct̯o mut̯at̯a universit̯at̯e cḷamarĕ mulĭerĕ ap̆rirĕ seq̆ŭirĕ crescerĕ auxiliarĕ flore pḷůverĕ sůmma åusarĕ påuca tåuro ex̆acta ex̆ito physĭca amic̆o como foc̆o meo leon̆a lun̆a ruğa mağis men̆sa pl̯ato s̃phera s̃patĭo s̃tatĭone
+cella collo programma anno rara casa rosa acto nocturna tacto tecto trato victĭma pac̄to sceptica gÿpso maxĭma fix̄a ox̄igenio tax̄i tox̄ĭca leċtora seċta dos̃ bas̃ŝa pïs̃ĉe rot̯a lėct̯o mut̯at̯a universit̯at̯e cḷamarĕ mulĭerĕ ap̆rirĕ seq̆ŭirĕ crescerĕ auxiliarĕ flore pḷůverĕ sůmma åusarĕ påuca tåuro ex̆acta ex̆ito physĭca amic̆o como foc̆o meo leon̆a lun̆a ruğa mağis men̆sa pl̯ato s̃phera s̃patĭo s̃tatĭone
 
 | *ou* | **åut** = **õt** |
-
-ŝ und ĉ müssen noch erklärt werden
-ė auch
 
 | *advogado* | **advoc̆at̯o** = **advoc̆ado** |
 
@@ -6297,15 +6327,6 @@ cella collo programma anno rara casa rosa acto nocturna tacto tecto trato victĭ
 | *doce* | **důłcė** = **důłce** |
 | *doces* | **důłcės** = **důłces** |
 
-### -ne, -no
-
-| | [~] |
-|-|-|
-| *rim* | **rėnĕ** = **rėne** |
-| *rins* | **rėnĕs** = **rėnes** |
-| | |
-| *som* | **sonŏ** = **sono** |
-| *sons* | **sonŏs** = **sonos** |
-
 <!-- | adiuto | ad̯iuto *[aiuto]* | -->
 <!-- asse axe eje eixo -->
+
