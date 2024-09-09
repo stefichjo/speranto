@@ -3749,7 +3749,8 @@ Notes:
 * natione: ti/tĭ
 * olio: lĕ
 * linia: nĕ
-* platia: tĕ
+* plaça: tĕ
+* belleça: `-etĕa`
 * maio: j
 * jurare: j
 * pronuntiare: IT tj
@@ -3762,15 +3763,23 @@ Notes:
 * scrivĕre: FR v̆
 * folia: ES f̯
 * linguâjo: IT/FR/ES/PT -at̯ĭc̆o
+<!-- -->
+* delicia: IT ȼ
 * cantare: FR ĉ
 * luxo: ES/PT x̂
 * bassa: ES/PT ŝ
+<!-- -->
 * flamma: IT/ES/PT ḷ
 * blanca: PT l̯
 * borsa: ES/PT r̆
+* paro: IT ṙ
+<!-- -->
 * lacte: FR/ES/PT ċt
 * vena: PT ṅ
-* paro: IT ṙ
+
+<!--v-->
+
+## A
 
 <!--v-->
 
@@ -3780,6 +3789,15 @@ Notes:
 |:-:|:-:|:-:|:-:|
 | absoluta | `...` | | |
 | *assoluta* | | | |
+
+<!--v-->
+
+**alçare** <small>**alteare**</small>
+
+| 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
+|:-:|:-:|:-:|:-:|
+| alçare | `...` | | |
+| *alzare* | | | |
 
 <!--v-->
 
@@ -3801,15 +3819,6 @@ Notes:
 
 Notes:
 * `:)` PT al = al̥
-
-<!--v-->
-
-**altiare** <small>**alteare**</small>
-
-| 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
-|:-:|:-:|:-:|:-:|
-| altĕare | `...` | | |
-| *alzare* | | | |
 
 <!--v-->
 
@@ -3908,6 +3917,10 @@ ap̆ud-höc
 <!--v-->
 
 | auscultár | aŭscůltare = ascoltare *[ascoltare]* |
+
+<!--v-->
+
+## B
 
 <!--v-->
 
@@ -4035,6 +4048,10 @@ Notes:
 <!--v-->
 
 | bucca | bucĉa *[bouche]* |
+
+<!--v-->
+
+## C
 
 <!--v-->
 
@@ -4268,6 +4285,10 @@ Notes:
 
 <!--v-->
 
+## D
+
+<!--v-->
+
 **de**
 
 | 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
@@ -4287,6 +4308,15 @@ Notes:
 <!--v-->
 
 | de raro | dė raṟo *[di rado]* |
+
+<!--v-->
+
+**delicia**
+
+| 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
+|:-:|:-:|:-:|:-:|
+| deliȼia | delicĭa | delicia | delicia |
+| *delizia* | *délice* | *delicia* | *delícia* |
 
 <!--v-->
 
@@ -4595,18 +4625,37 @@ Notes:
 
 <!--v-->
 
+**gutça**<small>**guttĕa**</small>
+
+| 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
+|:-:|:-:|:-:|:-:|
+| gůtçja | … | … | … |
+| *goccia* | *…* | *…* | *…* |
+
+<!--v-->
+
 | gusto | gůsto *[gosto]* |
 
 <!--v-->
 
-| guttea | gůttĕa = gůttja *[goccia]* |
-goutte
-gota
-gota
+**gutta**
+
+| 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
+|:-:|:-:|:-:|:-:|
+| … | gutta | gůtta | gůtta |
+| *…* | *goutte* | *gota* | *gota* |
 
 <!--v-->
 
-| (qŭe nos) havea <small>(qŭe) haveamo</small> | hav̄iamo *[abbiamo]* |
+**haviamo** <small>**haveamo**</small>
+
+| 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
+|:-:|:-:|:-:|:-:|
+| hav̄iamo | | | |
+| *abbiamo* | | | |
+
+Notes:
+* `...`
 
 <!--v-->
 
@@ -5366,21 +5415,21 @@ Notes:
 
 <!--v-->
 
+**plaça** <small>**platea**</small>
+
+| 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
+|:-:|:-:|:-:|:-:|
+| pḷaça | plaça | plaça | pl̯aça |
+| *piazza* | *place* | *plaza* | *praça* |
+
+<!--v-->
+
 **plana**
 
 | 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
 |:-:|:-:|:-:|:-:|
 | pḷana | plæna | pḷana | pḷana |
 | *piana* | *plaine* | *llana* | *chã* |
-
-<!--v-->
-
-**platia** <small>**platea**</small>
-
-| 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
-|:-:|:-:|:-:|:-:|
-| pḷatĕa | platĕa | platĕa | pl̯atĕa |
-| *piazza* | *place* | *plaza* | *praça* |
 
 <!--v-->
 
