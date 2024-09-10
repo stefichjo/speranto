@@ -3719,17 +3719,18 @@ Notes:
 * de: IT ė (FR ĕ)
 * via: FR ĩ
 * qŭe: FR ė̃
+* pilo: IT/SP/PT ï
 * muro: FR y
 * banco: FR/PT ą
 * mano: FR æ
 * manos: IT -i
+* in: PT -n
 * bene: ES/PT -ne (FR en)
 * pane: PT -ane
 * panes: ES/PT -nes
 * sana: PT -ana
 * bona: PT -ona
 * bono: PT -ono
-* in: FR/ES/PT ï
 * unione: PT -one
 * uniones: PT -ones
 * auro: IT/FR/ES/PT au
@@ -3740,7 +3741,7 @@ Notes:
 * mares: ES/PT -res
 * valere: FR ė̃
 * perdere: FR/ES/PT -ĕre
-* pensare: FR -aɍe
+* pensare: FR -æɍe
 * pace: ES/PT -ce
 * schola: FR/ES/PT s̃
 * hora: IT/FR/ES/PT h, FR ø
@@ -3749,12 +3750,14 @@ Notes:
 * natione: ti/tĭ
 * olio: lĕ
 * linia: nĕ
+* paêse: -en̆se
 * plaça: tĕ
-* belleça: `-etĕa`
+* fineça: -ïtĭa
 * maio: j
 * jurare: j
 * pronuntiare: IT tj
 * diurnata: dj
+<!-- -->
 * foco: FR/SP c̆
 * mâistro: IT/FR/ES/PT ğ (FR ai)
 * hospitale: IT t̯
@@ -3767,14 +3770,17 @@ Notes:
 * delicia: IT ȼ
 * cantare: FR ĉ
 * luxo: ES/PT x̂
-* bassa: ES/PT ŝ
+* russa: ES/PT ŝ
+<!-- -->
+* lacte: IT ct, FR/ES/PT ċt
+* doctore: PT c̊t
+* optima: IT/PT pt
 <!-- -->
 * flamma: IT/ES/PT ḷ
 * blanca: PT l̯
 * borsa: ES/PT r̆
 * paro: IT ṙ
 <!-- -->
-* lacte: FR/ES/PT ċt
 * vena: PT ṅ
 
 <!--v-->
@@ -3963,6 +3969,15 @@ Notes:
 
 <!--v-->
 
+**basiare**
+
+| 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
+|:-:|:-:|:-:|:-:|
+| basjare | bæsĭæɍe | bäsĭare | bäs̃jare |
+| *baciare* | *baiser* | *besar* | *beijar* |
+
+<!--v-->
+
 **bassa**
 
 | 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
@@ -3981,6 +3996,15 @@ Notes:
 
 Notes:
 * `:)` ll
+
+<!--v-->
+
+**belleça** <small>**bellïtĭa**</small>
+
+| 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
+|:-:|:-:|:-:|:-:|
+| belleça | … | belleça | belleça |
+| *bellezza* | *…* | *belleza* | *beleza* |
 
 <!--v-->
 
@@ -4059,7 +4083,12 @@ Notes:
 
 <!--v-->
 
-| camisia | camisĭa *[camicia]* |
+**campania**
+
+| 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
+|:-:|:-:|:-:|:-:|
+| camisja | ĉæmisĭa | camisĭa | camisĭa |
+| *camicia* | *chemise* | *camisa* | *camisa* |
 
 <!--v-->
 
@@ -4215,6 +4244,15 @@ Notes:
 
 <!--v-->
 
+**certa**
+
+| 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
+|:-:|:-:|:-:|:-:|
+| certa | … | cẽrta | certa |
+| *certa* | *…* | *cierta* | *certa* |
+
+<!--v-->
+
 **clave**
 
 | 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
@@ -4230,6 +4268,15 @@ Notes:
 
 | collo | collo = col *[col]* |
 | colla | colla = col *[colle]* |
+
+<!--v-->
+
+**cominitiare**
+
+| 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
+|:-:|:-:|:-:|:-:|
+| cominĭtjare | cominĭtĭæɍe | comïnĭtĭare | comïn̆ĭtĭare |
+| *comminciare* | *commencer* | *comenzar* | *começar* |
 
 <!--v-->
 
@@ -4329,11 +4376,33 @@ Notes:
 
 <!--v-->
 
-| doctore | doc̊torĕ *[doutor]* |
+**duplare**
+
+| 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
+|:-:|:-:|:-:|:-:|
+| důpḷare | dup̆læɍe | důp̆lare | důp̆l̯are |
+| *doppiare* | *doubler* | *doblar* | *dobrar* |
 
 <!--v-->
 
-| domĭna | dȏmĭna *[dame]* |
+**doctore**
+
+| 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
+|:-:|:-:|:-:|:-:|
+| doctore | doctøre | doctore | doc̊tore |
+| *dottore* | *docteur* | *doctor* | *doutor* |
+
+<!--v-->
+
+**domĭna**
+
+| 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
+|:-:|:-:|:-:|:-:|
+| domĭna | dȏmĭna | | |
+| *donna* | *dame* | | |
+
+Notes:
+* `...`
 
 <!--v-->
 
@@ -4343,6 +4412,10 @@ Notes:
 |:-:|:-:|:-:|:-:|
 | dormire | dormire | dormire | dormire |
 | *dormire* | *dormir* | *dormir* | *dormir* |
+
+<!--v-->
+
+## E
 
 <!--v-->
 
@@ -4405,6 +4478,10 @@ Notes:
 <!--v-->
 
 | experto | experto *[esperto]* |
+
+<!--v-->
+
+## F
 
 <!--v-->
 
@@ -4482,6 +4559,15 @@ Notes:
 |:-:|:-:|:-:|:-:|
 | fine | fine | fine | fine |
 | *fine* | *fin* | *fin* | *fim* |
+
+<!--v-->
+
+**fineça** <small>**finïtĭa**</small>
+
+| 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
+|:-:|:-:|:-:|:-:|
+| fineça | fineça | fineça | fineça |
+| *finezza* | *finesse* | *fineza* | *fineza* |
 
 <!--v-->
 
@@ -4603,6 +4689,10 @@ Notes:
 
 <!--v-->
 
+## G
+
+<!--v-->
+
 | glaciale | glaciale *[glaciale]* |
 | glacio | gḷac̄io *[ghiaccio]* |
 
@@ -4644,6 +4734,10 @@ Notes:
 |:-:|:-:|:-:|:-:|
 | … | gutta | gůtta | gůtta |
 | *…* | *goutte* | *gota* | *gota* |
+
+<!--v-->
+
+## H
 
 <!--v-->
 
@@ -4702,6 +4796,10 @@ Notes:
 
 <!--v-->
 
+## I
+
+<!--v-->
+
 | illo | illŏ *[il]* |
 | illo | ĭllŏ *[l']* |
 | illo | ĭllo *[lo]* |
@@ -4733,6 +4831,15 @@ Notes:
 
 <!--v-->
 
+**initiare**
+
+| 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
+|:-:|:-:|:-:|:-:|
+| initiare | initiæɍe | initiare | initiare |
+| *iniziare* | *initier* | *iniciar* | *iniciar* |
+
+<!--v-->
+
 **intrare**
 
 | 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
@@ -4747,6 +4854,10 @@ Notes:
 
 Notes:
 * ad-ìpso = ad-epso *[adesso]*
+
+<!--v-->
+
+## J
 
 <!--v-->
 
@@ -4777,6 +4888,10 @@ Notes:
 |:-:|:-:|:-:|:-:|
 | justa | jys̄ta | justa | justa |
 | *giusta* | *juste* | *justa* | *justa* |
+
+<!--v-->
+
+## L
 
 <!--v-->
 
@@ -4929,6 +5044,10 @@ lib/liv?
 Notes:
 * FR `-x`
 * ES `-x`
+
+<!--v-->
+
+## M
 
 <!--v-->
 
@@ -5093,6 +5212,10 @@ Notes:
 
 <!--v-->
 
+## N
+
+<!--v-->
+
 **natione**
 
 | 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
@@ -5151,6 +5274,10 @@ norma
 
 <!--v-->
 
+## O
+
+<!--v-->
+
 | objecto | objecto *[oggetto]* |
 
 <!--v-->
@@ -5206,8 +5333,16 @@ Notes:
 
 <!--v-->
 
-| optĭma | optimo *[ottimo]* |
-| optĭma | optĭma *[ótima]* |
+**optĭma**
+
+| 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
+|:-:|:-:|:-:|:-:|
+| optima | … | optima | optima |
+| *ottima* | *…* | *óptima* | *ótima* |
+
+<!--v-->
+
+## P
 
 <!--v-->
 
@@ -5217,6 +5352,19 @@ Notes:
 |:-:|:-:|:-:|:-:|
 | pace | pæce | pace | pace |
 | *pace* | *paix* | *paz* | *paz* |
+
+<!--v-->
+
+**paêse** <small>**pağen̆se**</small>
+
+| 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
+|:-:|:-:|:-:|:-:|
+| paêse | pæėsĕ | paėsĕ | paėsĕ |
+| *paese* | *pays* | *país* | *país* |
+
+<!--v-->
+
+**paesâjo** <small>**pağen̆sat̯ĭc̆o**</small>
 
 <!--v-->
 
@@ -5323,12 +5471,12 @@ Notes:
 
 <!--v-->
 
-**pensare**
+**petia**
 
 | 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
 |:-:|:-:|:-:|:-:|
-| pensare | pensæɍe | pensare | pensare |
-| *pensare* | *penser* | *pensar* | *pensar* |
+| petĭa | pẽtĭa | pẽtĭa | petĭa |
+| *pezza* | *pièce* | *pieza* | *peça* |
 
 <!--v-->
 
@@ -5338,6 +5486,15 @@ Notes:
 |:-:|:-:|:-:|:-:|
 | pẽde | pẽde | pẽd̯ĕ | ped̯ĕ |
 | *piede* | *pied* | *pie* | *pé* |
+
+<!--v-->
+
+**pensare**
+
+| 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
+|:-:|:-:|:-:|:-:|
+| pensare | pensæɍe | pensare | pensare |
+| *pensare* | *penser* | *pensar* | *pensar* |
 
 <!--v-->
 
@@ -5391,6 +5548,15 @@ Notes:
 |:-:|:-:|:-:|:-:|
 | photo | photo | photo | photo |
 | *foto* | *photo* | *foto* | *foto* |
+
+<!--v-->
+
+**pilo**
+
+| 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
+|:-:|:-:|:-:|:-:|
+| pïlo | pĩlo | pïlo | pïlo |
+| *pelo* | *poil* | *pelo* | *pelo* |
 
 <!--v-->
 
@@ -5541,6 +5707,10 @@ Notes:
 
 <!--v-->
 
+## Q
+
+<!--v-->
+
 **qŭe**
 
 | 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
@@ -5554,6 +5724,10 @@ Notes:
 <!--v-->
 
 | qui | qui = qŭi *[qui]* |
+
+<!--v-->
+
+## R
 
 <!--v-->
 
@@ -5614,6 +5788,19 @@ Notes:
 
 Notes:
 * FR `riche` ankaŭ por la vira formo
+
+<!--v-->
+
+**russa**
+
+| 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
+|:-:|:-:|:-:|:-:|
+| růssa | russa | růsŝa | růsŝa |
+| *rossa* | *rousse* | *roja* | *roxa* |
+
+<!--v-->
+
+## S
 
 <!--v-->
 
@@ -5775,6 +5962,15 @@ Notes:
 
 <!--v-->
 
+**sino**
+
+| 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
+|:-:|:-:|:-:|:-:|
+| sïno | sïno | sïno | sïṅo |
+| *seno* | *sein* | *seno* | *seio* |
+
+<!--v-->
+
 | sonár | son̆arĕ *[soar]* |
 
 <!--v-->
@@ -5838,6 +6034,10 @@ Notes:
 
 Notes:
 * `:)` y
+
+<!--v-->
+
+## T
 
 <!--v-->
 
@@ -5994,6 +6194,10 @@ Notes:
 
 <!--v-->
 
+## U
+
+<!--v-->
+
 | una | uña *[uma]* |
 
 <!--v-->
@@ -6030,6 +6234,10 @@ Notes:
 <!--v-->
 
 | universitate | üniversitäte *[université]* |
+
+<!--v-->
+
+## V
 
 <!--v-->
 
@@ -6118,11 +6326,27 @@ Notes:
 
 <!--v-->
 
+## W
+
+<!--v-->
+
 | (wardár) | wardare *[guardare]* |
 
 <!--v-->
 
 | (wirra) `?` | wïrra *[guerra]* |
+
+<!--v-->
+
+## X
+
+<!--v-->
+
+## Y
+
+<!--v-->
+
+## Z
 
 <!--s-->
 
@@ -6133,7 +6357,7 @@ Notes:
 * **omnĭ** [ogni]
 * **somnĭo** [sogno]
 
-hymno thůnno sůbto dïcto judiȼio hẽri spagìtti teŭt̯ìsco pḷùvja ěq̆uale sùbsta hodjė djůrno cḷesıa åŭrïcŭlo spìcŭlo pḷus pağēn̆se pḷaṯo civĭtat̯ civĭtat̯inantĭa rat̯ĭōne stat̯ĭōne cōrtēn̆s̆jare fas̆ĕolo pḷïc̆are mac̄hina rėcůp̆erare mağĭs mağis jänŭar̆io febrŭar̆io aŭgůsto dẽcė jůp̆ediĕ allovjo fḷava postmeridjo duvĭo levjero důpḷo qyæṟere tåŭrinēn̆se angùstja frïgĭdo domĭna vïrĭde porĭco basjo hĭstoria ĭntra ĭnfra qŭis qŭōme capïtĭůlo bellïtĭa ĕxvïğĭlĭare hospït̯ale cåŭsa sap̆jo poṡt créscĕre
+hymno thůnno sůbto dïcto judiȼio hẽri spagìtti teŭt̯ìsco pḷùvja ěq̆uale sùbsta hodjė djůrno cḷesıa åŭrïcŭlo spìcŭlo pḷus pağēn̆se pḷaṯo civĭtat̯ civĭtat̯inantĭa rat̯ĭōne stat̯ĭōne cōrtēn̆s̆jare fas̆ĕolo pḷïc̆are mac̄hina rėcůp̆erare mağĭs mağis jänŭar̆io febrŭar̆io aŭgůsto dẽcė jůp̆ediĕ allovjo fḷava postmeridjo duvĭo levjero důpḷo qyæṟere tåŭrinēn̆se angùstja frïgĭdo domĭna vïrĭde porĭco hĭstoria ĭntra ĭnfra qŭis qŭōme capïtĭůlo ĕxvïğĭlĭare hospït̯ale cåŭsa sap̆jo poṡt créscĕre
 
 dŭm-ïntĕre ad-lă-hōra ad-pœna dĕ-ab-vēro dĕ-ïntro dĕ-ůvï ĭstĕ-ïpso qŭō-sic de̊-post
 
@@ -6249,7 +6473,6 @@ cella collo programma anno rara casa rosa acto nocturna tacto tecto trato victĭ
 | | |
 |-|-|
 | *ciência* | **scientĭa** | <!-- ê ? -->
-| *peça* | **petĭa** |
 
 ##### ti, di
 
@@ -6261,27 +6484,10 @@ cella collo programma anno rara casa rosa acto nocturna tacto tecto trato victĭ
 |-|-|
 | *dia* | **d̂ia** = **dia** |
 
-#### sĭ
-
-| | |
-|-|-|
-| *beijo* | **bäṡĭo** | <!-- ä -->
-
-##### sı
-
-| | |
-|-|-|
-| *camisa* | **camisıa** |
-
-## Voc̆ales
-
-### æ ø y
 | | |
 |-|-|
 | *hiena* | **hyæna** |
 | *federação* | **fœderatĭõne** |
-
-### Nasales
 
 | | [~] |
 |-|-|
@@ -6289,21 +6495,13 @@ cella collo programma anno rara casa rosa acto nocturna tacto tecto trato victĭ
 | *junta* | **juncta** |
 | *cem* | **cent** |
 
-### Finales
-
 | | [i] |
 |-|-|
 | *vai* | **vad̯ė** = **vad̯e** |
 
-### Mut̯adas
-
 | | [e] |
 |-|-|
-| *certeza* | **certït̯ıa** = **certeza** |
-| *pelo*    | **pïlo** |
 | *seis*    | **sïẋ**  |
-| *seio*    | **sïṅo** | <!-- sino -->
-| *seno*    | **sïno** | <!-- sinuso -->
 | *vez*     | **vïc̆ĕ** = **vïce** | <!-- c̆ĕ -->
 | | |
 | *ela* | **ïlla** |
@@ -6314,14 +6512,6 @@ cella collo programma anno rara casa rosa acto nocturna tacto tecto trato victĭ
 | *criar* | **crėare** |
 | *prisão* | **prėn̆sıõnĕ** = **prėn̆sıõne** |
 
-| | [o] |
-|-|-|
-| *dobro* | **důp̆l̯o** |
-| *menos* | **mïnůs** |
-| *ponto* | **půncto** |
-| *por* | **pe̊r** |
-| *roxa* | **růsŝa** |
-
 | | [u] |
 |-|-|
 | *lugar* | **lǒc̆al̯e** |
@@ -6330,13 +6520,10 @@ cella collo programma anno rara casa rosa acto nocturna tacto tecto trato victĭ
 |-|-|
 | *cama* | **camĕra** |
 | *cidade* | **civĭt̯at̯e** = **civĭt̯ade** |
-| *começo* | **comïn̆ĭtĭo** |
 | *só* | **sołŏ** |
 | | |
 | *dom* | **domĭnŏ** |
 | *dona* | **domĭna** |
-
-### Diphthongadas
 
 | | [eĭ] |
 |-|-|
@@ -6346,8 +6533,6 @@ cella collo programma anno rara casa rosa acto nocturna tacto tecto trato victĭ
 | | [oŭ] |
 |-|-|
 | *tesouro* | **tesõro** |
-
-## Conson̆antes Finales
 
 ### -m
 
@@ -6367,9 +6552,6 @@ cella collo programma anno rara casa rosa acto nocturna tacto tecto trato victĭ
 |-|-|
 | *mês* | **men̆sĕ** = **men̆se** |
 | *mêses* | **men̆sės** = **men̆ses** |
-| | |
-| *país* | **pağėn̆sĕ** = **pağėn̆se** |
-| *países* | **pağėn̆sės** = **pağėn̆ses** |
 
 | | [si]/[sis] |
 |-|-|
@@ -6378,4 +6560,8 @@ cella collo programma anno rara casa rosa acto nocturna tacto tecto trato victĭ
 
 <!-- | adiuto | ad̯iuto *[aiuto]* | -->
 <!-- asse axe eje eixo -->
+
+<!-- | *menos* | **mïnůs** |
+| *ponto* | **půncto** |
+| *por* | **pe̊r** |
 
