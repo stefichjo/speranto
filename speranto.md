@@ -3718,6 +3718,7 @@ Notes:
 * parte: PT -e
 * de: IT ė (FR ĕ)
 * via: FR ĩ
+* quattro: FR qu
 * qŭe: FR ė̃
 * pilo: IT/SP/PT ï
 * muro: FR y
@@ -3941,10 +3942,19 @@ ap̆ud-höc
 
 **banco**
 
-| 🇫🇷 | 🇵🇹 |
-|:-:|:-:|
-| banco = bą | banco = bącu |
-| *banc* | *banco* |
+| 🇫🇷 |
+|:-:|
+| banco = bą |
+| *banc* |
+
+<!--v-->
+
+**banco**
+
+| 🇵🇹 |
+|:-:|
+| banco = bącu |
+| *banco* |
 
 <!--v-->
 
@@ -3996,15 +4006,6 @@ Notes:
 
 Notes:
 * `:)` ll
-
-<!--v-->
-
-**belleça** <small>**bellïtĭa**</small>
-
-| 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
-|:-:|:-:|:-:|:-:|
-| belleça | … | belleça | belleça |
-| *bellezza* | *…* | *belleza* | *beleza* |
 
 <!--v-->
 
@@ -4345,15 +4346,6 @@ Notes:
 
 <!--v-->
 
-**de**
-
-| 🇫🇷 |
-|:-:|
-| de <small>dĕ = d</small> |
-| *de* |
-
-<!--v-->
-
 | de raro | dė raṟo *[di rado]* |
 
 <!--v-->
@@ -4627,9 +4619,6 @@ Notes:
 | forma = formă |
 | *forme* |
 
-Notes:
-* `:)` FR -a
-
 <!--v-->
 
 **forno**
@@ -4684,12 +4673,19 @@ Notes:
 
 <!--v-->
 
-| *irmã* | **ğėrmąn̆ă** = **ğėrmana** |
-| *irmão* | **ğėrmąn̆o** = **ğėrmano** |
+## G
 
 <!--v-->
 
-## G
+**germano**
+
+| 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
+|:-:|:-:|:-:|:-:|
+| | | ğermano | ğėrmano |
+| | | *hermano* | *irmão* |
+
+Notes:
+* `...`
 
 <!--v-->
 
@@ -4977,11 +4973,6 @@ Notes:
 
 <!--v-->
 
-| *leão* | **leõnĕ** = **leõne** |
-| *leões* | **leonės** = **leones** |
-
-<!--v-->
-
 **limone**
 
 | 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
@@ -5244,7 +5235,12 @@ Notes:
 
 <!--v-->
 
-| nome | nome = nomi *[nome]* |
+**nome**
+
+| 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
+|:-:|:-:|:-:|:-:|
+| nome | nome | nom`?`e | nome |
+| *nome* | *nom* | *nombre* | *nome* |
 
 <!--v-->
 
@@ -5426,7 +5422,7 @@ Notes:
 
 | 🇵🇹 |
 |:-:|
-| parte <small>partĕ = part</small> |
+| parte = partĕ |
 | *parte* |
 
 <!--v-->
@@ -5435,7 +5431,7 @@ Notes:
 
 | 🇵🇹 | 🇧🇷 |
 |:-:|:-:|
-| parte <small>partĕ = part</small> | parte <small>partė = parti</small> |
+| parte = partĕ | parte = partė |
 | *parte* | *parte* |
 
 <!--v-->
@@ -5703,11 +5699,34 @@ Notes:
 
 <!--v-->
 
-| quattro | quattro *[quatre]* |
+## Q
 
 <!--v-->
 
-## Q
+**quando**
+
+| 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
+|:-:|:-:|:-:|:-:|
+| quando | quando | quando | quando |
+| *quando* | *quand* | *cuándo* | *quando* |
+
+<!--v-->
+
+**quattro**
+
+| 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
+|:-:|:-:|:-:|:-:|
+| quattro | quattro | quattro | quattro |
+| *quattro* | *quatre* | *cuatro* | *quatro* |
+
+<!--v-->
+
+**quattro**
+
+| 🇫🇷 |
+|:-:|
+| quattro = qŭattro |
+| *quatre* |
 
 <!--v-->
 
@@ -5715,7 +5734,7 @@ Notes:
 
 | 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
 |:-:|:-:|:-:|:-:|
-| qŭe | quė̃ | qŭe | qŭe |
+| qŭe | qŭė̃ | qŭe | qŭe |
 | *che* | *quoi* | *que* | *que* |
 
 Notes:
@@ -5810,6 +5829,42 @@ Notes:
 |:-:|:-:|:-:|:-:|
 | sacco | sacco | sacco | sacco |
 | *sacco* | *sac* | *saco* | *saco* |
+
+<!--v-->
+
+**sacco**
+
+| 🇮🇹 |
+|:-:|
+| sacco |
+| *sacco* |
+
+<!--v-->
+
+**sacco**
+
+| 🇫🇷 |
+|:-:|
+| sacco |
+| *sac* |
+
+<!--v-->
+
+**sacco**
+
+| 🇪🇸 |
+|:-:|
+| sacco |
+| *saco* |
+
+<!--v-->
+
+**sacco**
+
+| 🇵🇹 |
+|:-:|
+| sacco |
+| *saco* |
 
 <!--v-->
 
