@@ -3725,15 +3725,15 @@ Notes:
 * banco: FR/PT ą
 * mano: FR æ
 * manos: IT -i
-* in: PT -n
+* in: FR en, PT -n
 * bene: ES/PT -ne (FR en)
 * pane: PT -ane
 * panes: ES/PT -nes
 * sana: PT -ana
 * bona: PT -ona
 * bono: PT -ono
-* unione: PT -one
-* uniones: PT -ones
+* salone: PT -one
+* salones: PT -ones
 * auro: IT/FR/ES/PT au
 * salto: FR/PT al
 * sale: ES/PT -le
@@ -4040,7 +4040,7 @@ Notes:
 
 | 🇵🇹 |
 |:-:|
-| bona <small>bon̆a = boa</small> |
+| bona = boa <small>bon̆a</small> |
 | *boa* |
 
 <!--v-->
@@ -4058,7 +4058,7 @@ Notes:
 
 | 🇵🇹 |
 |:-:|
-| bono <small>bǫn̆ŏ = bǫ</small> |
+| bono = bǫ <small>bǫn̆ŏ</small> |
 | *bom* |
 
 <!--v-->
@@ -4711,7 +4711,7 @@ Notes:
 
 <!--v-->
 
-**gutça**<small>**guttĕa**</small>
+**gutça** <small>**guttĕa**</small>
 
 | 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
 |:-:|:-:|:-:|:-:|
@@ -4812,6 +4812,15 @@ Notes:
 |:-:|:-:|:-:|:-:|
 | in | ïn | ïn | ïn |
 | *in* | *en* | *en* | *em* |
+
+<!--v-->
+
+**in**
+
+| 🇫🇷 |
+|:-:|
+| ïn = en = ą |
+| *en* |
 
 <!--v-->
 
@@ -5375,10 +5384,28 @@ Notes:
 
 **pane**
 
-| 🇪🇸 | 🇵🇹 |
-|:-:|:-:|
-| pane<small>panĕ = pan</small> | pane<small>pąn̆e̊ = pąu</small> |
-| *pan* | *pão* |
+| 🇮🇹 |
+|:-:|
+| pane |
+| *pane* |
+
+<!--v-->
+
+**pane**
+
+| 🇪🇸 |
+|:-:|
+| pane = panĕ |
+| *pan* |
+
+<!--v-->
+
+**pane**
+
+| 🇵🇹 |
+|:-:|
+| pane = pąu <small>pąn̆e̊</small> |
+| *pão* |
 
 <!--v-->
 
@@ -5832,43 +5859,12 @@ Notes:
 
 <!--v-->
 
-**sacco**
+**sala**
 
-| 🇮🇹 |
-|:-:|
-| sacco |
-| *sacco* |
-
-<!--v-->
-
-**sacco**
-
-| 🇫🇷 |
-|:-:|
-| sacco |
-| *sac* |
-
-<!--v-->
-
-**sacco**
-
-| 🇪🇸 |
-|:-:|
-| sacco |
-| *saco* |
-
-<!--v-->
-
-**sacco**
-
-| 🇵🇹 |
-|:-:|
-| sacco |
-| *saco* |
-
-<!--v-->
-
-| sala | sala *[salle]* |
+| 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
+|:-:|:-:|:-:|:-:|
+| sala | sala | sala | sala |
+| *sala* | *salle* | *sala* | *sala* |
 
 <!--v-->
 
@@ -5899,12 +5895,48 @@ Notes:
 
 <!--v-->
 
-**sale**
+**sales**
 
 | 🇪🇸 | 🇵🇹 |
 |:-:|:-:|
 | sales | sales <small>sałės = sais</small> |
 | *sales* | *sais* |
+
+<!--v-->
+
+**salone**
+
+| 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
+|:-:|:-:|:-:|:-:|
+| salone | salone | salone | salone |
+| *salone* | *salon* | *salón* | *salão* |
+
+<!--v-->
+
+**salone**
+
+| 🇵🇹 |
+|:-:|
+| salone = saląu <small>salȏn̆e̊</small> |
+| *salão* |
+
+<!--v-->
+
+**salones**
+
+| 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
+|:-:|:-:|:-:|:-:|
+| saloni | salones | salones | salones |
+| *saloni* | *salons* | *salones* | *salões* |
+
+<!--v-->
+
+**salones**
+
+| 🇵🇹 |
+|:-:|
+| salones = salǫis <small>salǫn̆ės</small> |
+| *salões* |
 
 <!--v-->
 
@@ -5930,11 +5962,8 @@ Notes:
 
 | 🇵🇹 |
 |:-:|
-| sana <small>sană = są<small> |
-| sã |
-
-Notes:
-* `:)` são
+| sana = są <small>sąn̆ă</small> |
+| *sã* |
 
 <!--v-->
 
@@ -6253,7 +6282,17 @@ Notes:
 
 <!--v-->
 
-| una | uña *[uma]* |
+| 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
+|:-:|:-:|:-:|:-:|
+| una | yna | una | uña |
+| *una* | *une* | *una* | *uma* |
+
+<!--v-->
+
+| 🇵🇹 |
+|:-:|
+| uña = uma |
+| *uma* |
 
 <!--v-->
 
@@ -6266,25 +6305,14 @@ Notes:
 
 <!--v-->
 
-**unione**
-
-| 🇵🇹 |
-|:-:|
-| unione <small>uniȏne̊ = uniąu</small> |
-| *união* |
-
-<!--v-->
-
-**uniones**
+**uno**
 
 | 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
 |:-:|:-:|:-:|:-:|
-| unioni| yniones | uniones | uniones |
-| *unioni* | *unions* | *uniones* | *uniões* |
+| *uno* | *um* | *uno* | *um* |
 
-<!--v-->
-
-| una | unŏ *[un]* |
+Slides:
+* `...`
 
 <!--v-->
 
@@ -6331,11 +6359,21 @@ Notes:
 
 <!--v-->
 
-| vino | viṇo *[vinho]* |
+**vino**
+
+| 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
+|:-:|:-:|:-:|:-:|
+| vino | vino | vino | viṇo |
+| *vino* | *vin* | *vino* | *vinho* |
 
 <!--v-->
 
-| visione | visionĕ = visión *[visión]* |
+**visione**
+
+| 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
+|:-:|:-:|:-:|:-:|
+| visione | visione | visione | visione |
+| *visione* | *vision* | *visión* | *visão* |
 
 <!--v-->
 
