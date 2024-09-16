@@ -3740,7 +3740,6 @@ Notes:
 * sales: PT -les
 * mare: ES/PT -re
 * mares: ES/PT -res
-* valere: FR ė̃
 * perdere: FR/ES/PT -ĕre
 * pensare: FR -æɍe
 * pace: ES/PT -ce
@@ -4092,7 +4091,7 @@ Notes:
 
 <!--v-->
 
-**campania**
+**camisia**
 
 | 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
 |:-:|:-:|:-:|:-:|
@@ -4981,7 +4980,7 @@ Notes:
 
 <!--v-->
 
-**leone**
+**leones**
 
 | 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
 |:-:|:-:|:-:|:-:|
@@ -5119,10 +5118,19 @@ Notes:
 
 **mare**
 
-| 🇪🇸 | 🇵🇹 |
-|:-:|:-:|
-| mare = marĕ | mare = marĕ |
-| *mar* | *mar* |
+| 🇪🇸 |
+|:-:|
+| mare = marĕ |
+| *mar* |
+
+<!--v-->
+
+**mare**
+
+| 🇵🇹 |
+|:-:|
+| mare = marĕ |
+| *mar* |
 
 <!--v-->
 
@@ -5176,8 +5184,25 @@ Notes:
 
 <!--v-->
 
-| mense | mēn̆se *[mese]* |
-| mensile | mēnsile *[mensile]* |
+**mêse** <small>**men̆se**</small>
+
+| 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
+|:-:|:-:|:-:|:-:|
+| mēn̆se | mė̃n̆se | men̆se | men̆se |
+| *mese* | *mois* | *mes* | *mês* |
+
+<!--v-->
+
+**mêsile** <small>**men̆sile**</small>
+
+| 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
+|:-:|:-:|:-:|:-:|
+
+Notes:
+* `mensile`
+* `mensuelle`
+* `mensual`
+* `mensal`
 
 <!--v-->
 
@@ -5247,7 +5272,7 @@ Notes:
 
 | 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
 |:-:|:-:|:-:|:-:|
-| nocte | nǒċte | noċte | noċte |
+| nocte | nõcte | noċte | noċte |
 | *notte* | *nuit* | *noche* | *noite* |
 
 <!--v-->
@@ -5299,7 +5324,7 @@ norma
 
 | 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
 |:-:|:-:|:-:|:-:|
-| octo | ǒċto | oċto | oċto |
+| octo | õcto | oċto | oċto |
 | *otto* | *huit* | *ocho* | *oito* |
 
 <!--v-->
@@ -5328,7 +5353,7 @@ Notes:
 
 | 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
 |:-:|:-:|:-:|:-:|
-| olėo | `?` | oleo | oleo |
+| olėo | õleo | oleo | oleo |
 | *olio* | *huile* | *óleo* | *óleo* |
 
 <!--v-->
@@ -5368,6 +5393,24 @@ Notes:
 
 <!--v-->
 
+**pace**
+
+| 🇪🇸 |
+|:-:|
+| pace = pacĕ |
+| *paz* |
+
+<!--v-->
+
+**pace**
+
+| 🇵🇹 |
+|:-:|
+| pace = pacĕ |
+| *paz* |
+
+<!--v-->
+
 **paêse** <small>**pağen̆se**</small>
 
 | 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
@@ -5378,6 +5421,11 @@ Notes:
 <!--v-->
 
 **paesâjo** <small>**pağen̆sat̯ĭc̆o**</small>
+
+| 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
+|:-:|:-:|:-:|:-:|
+| paêsat̯ĭc̆o | pæėsat̯ĭc̆o | paėsat̯ĭc̆ö | paėsat̯ĭc̆ǫ̈ |
+| *paesaggio* | *paysage* | *paisaje* | *paisagem* |
 
 <!--v-->
 
@@ -6023,8 +6071,35 @@ Notes:
 
 | 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
 |:-:|:-:|:-:|:-:|
-| schola | s̃chola | s̃chõla | s̃chola |
+| schõla | s̃chola | s̃chõla | s̃chola |
 | *scuola* | *école* | *escuela* | *escola* |
+
+<!--v-->
+
+**schola**
+
+| 🇫🇷 |
+|:-:|
+| s̃chola = eschola |
+| *école* |
+
+<!--v-->
+
+**schola**
+
+| 🇪🇸 |
+|:-:|
+| s̃chõla = eschõla |
+| *escuela* |
+
+<!--v-->
+
+**schola**
+
+| 🇵🇹 |
+|:-:|
+| s̃chola = eschola |
+| *escola* |
 
 <!--v-->
 
@@ -6673,13 +6748,6 @@ cella collo programma anno rara casa rosa acto nocturna tacto tecto trato victĭ
 | | |
 |-|-|
 | *e* | **et** |
-
-### -ce, -se
-
-| | [s]/[zis] |
-|-|-|
-| *mês* | **men̆sĕ** = **men̆se** |
-| *mêses* | **men̆sės** = **men̆ses** |
 
 | | [si]/[sis] |
 |-|-|
