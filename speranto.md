@@ -3774,7 +3774,6 @@ Notes:
 <!-- -->
 * lacte: IT ct, FR/ES/PT ċt
 * doctore: PT c̊t
-* optima: IT/PT pt
 <!-- -->
 * flamma: IT/ES/PT ḷ
 * blanca: PT l̯
@@ -3782,6 +3781,7 @@ Notes:
 * paro: IT ṙ
 <!-- -->
 * vena: PT ṅ
+* vino: PT ṇ
 
 <!--v-->
 
@@ -4031,6 +4031,42 @@ Notes:
 |:-:|:-:|:-:|:-:|
 | bḷanca | blanĉa | blanca | bl̯anca |
 | *bianca* | *blanche* | *blanca* | *branca* |
+
+<!--v-->
+
+**blanca**
+
+| 🇮🇹 |
+|:-:|
+| bḷanca |
+| *bianca* |
+
+<!--v-->
+
+**blanca**
+
+| 🇫🇷 |
+|:-:|
+| blanĉa |
+| *blanche* |
+
+<!--v-->
+
+**blanca**
+
+| 🇪🇸 |
+|:-:|
+| blanca |
+| *blanca* |
+
+<!--v-->
+
+**blanca**
+
+| 🇵🇹 |
+|:-:|
+| bl̯anca |
+| *branca* |
 
 <!--v-->
 
@@ -4790,15 +4826,6 @@ Notes:
 
 <!--v-->
 
-**hospitale**
-
-| 🇮🇹 |
-|:-:|
-| hospït̯ale = ospedale |
-| *ospedale* |
-
-<!--v-->
-
 ## I
 
 <!--v-->
@@ -5002,7 +5029,7 @@ Notes:
 
 | 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
 |:-:|:-:|:-:|:-:|
-| linguâjo <small>linguat̯ĭc̆o</small> | lïnguâjo <small>lïnguat̯ĭc̆o</small> | linguâjo <small>linguat̯ĭc̆ö</small> | linguâjo <small>linguat̯ĭc̆ǫ̈</small> |
+| linguâjo | lïnguâjo | lïnguâjö | linguâjǫ̈ |
 | *linguaggio* | *langage* | *lenguaje* | *linguagem* |
 
 <!--v-->
@@ -5048,10 +5075,6 @@ lib/liv?
 | luxo | lyxo | lux̂o | lux̂o |
 | *lusso* | *luxe* | *lujo* | *luxo* |
 
-Notes:
-* FR `-x`
-* ES `-x`
-
 <!--v-->
 
 ## M
@@ -5069,10 +5092,37 @@ Notes:
 
 **mâistro** <small>**mağistro**</small>
 
+| 🇮🇹 |
+|:-:|
+| mâïstro |
+| *maestro* |
+
+<!--v-->
+
+**mâistro** <small>**mağistro**</small>
+
 | 🇫🇷 |
 |:-:|
-| mâistro <small>mæĭtro</small> |
+| mâistro |
 | *maître* |
+
+<!--v-->
+
+**mâistro** <small>**mağistro**</small>
+
+| 🇪🇸 |
+|:-:|
+| mâïstro |
+| *maestro* |
+
+<!--v-->
+
+**mâistro** <small>**mağistro**</small>
+
+| 🇵🇹 |
+|:-:|
+| mäĭstro |
+| *mestre* |
 
 <!--v-->
 
@@ -5374,8 +5424,6 @@ Notes:
 | opera | øp̆ĕra | op̆ĕra | op̆ĕra |
 | *opera* | *œuvre* | *obra* | *obra* |
 
-<!--v-->
-
 | optár <small>optare</small> | op̄tare *[optare]* |
 
 <!--v-->
@@ -5433,7 +5481,7 @@ Notes:
 
 | 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
 |:-:|:-:|:-:|:-:|
-| paêsat̯ĭc̆o | pæėsat̯ĭc̆o | paėsat̯ĭc̆ö | paėsat̯ĭc̆ǫ̈ |
+| paesâjo | pæėsâjo | paėsâjö | paėsâjǫ̈ |
 | *paesaggio* | *paysage* | *paisaje* | *paisagem* |
 
 <!--v-->
@@ -6121,8 +6169,6 @@ Notes:
 
 Notes:
 * `?` FR s̃criv̆ėre/s̃criv̆ĕre
-
-<!--v-->
 
 | secunda | sec̆unda *[segunda]* |
 
