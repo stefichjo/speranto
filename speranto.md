@@ -3923,7 +3923,15 @@ ap̆ud-höc
 
 <!--v-->
 
-| auscultár | aŭscůltare = ascoltare *[ascoltare]* |
+**auscultare**
+
+| 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
+|:-:|:-:|:-:|:-:|
+| aŭscůltare | äŭscułtæɍe | äŭscuḷtare `?` | äŭscułtare |
+| *ascoltare* | *écouter* | *escuchar* | *escutar* |
+
+Notes:
+* `...`
 
 <!--v-->
 
@@ -4136,7 +4144,7 @@ Notes:
 
 | 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
 |:-:|:-:|:-:|:-:|
-| cantare | ĉantære | cantare | cantare |
+| cantare | ĉantæɍe | cantare | cantare |
 | *cantare* | *chanter* | *cantar* | *cantar* |
 
 <!--v-->
@@ -5189,8 +5197,8 @@ Notes:
 
 | 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
 |:-:|:-:|:-:|:-:|
-| můlto | … | `?` | muḷto |
-| *molto* | *…* | *mucho* | *muito* |
+| můlto | … | muḷto `?` / muḷ `?` | muḷto |
+| *molto* | *…* | *mucho* / *muy* | *muito* |
 
 <!--v-->
 
@@ -5879,10 +5887,19 @@ Notes:
 
 **sale**
 
-| 🇪🇸 | 🇵🇹 |
-|:-:|:-:|
-| sale <small>salĕ = sal</small> | sale <small>sal̥ĕ = sau</small> |
-| *sal* | *sal* |
+| 🇪🇸 |
+|:-:|
+| sale = salĕ |
+| *sal* |
+
+<!--v-->
+
+**sale**
+
+| 🇵🇹 |
+|:-:|
+| sale = sau |
+| *sal* |
 
 <!--v-->
 
@@ -5897,10 +5914,10 @@ Notes:
 
 **sales**
 
-| 🇪🇸 | 🇵🇹 |
-|:-:|:-:|
-| sales | sales <small>sałės = sais</small> |
-| *sales* | *sais* |
+| 🇵🇹 |
+|:-:|
+| sales = sais <small>sałės</small> |
+| *sais* |
 
 <!--v-->
 
@@ -5946,6 +5963,24 @@ Notes:
 |:-:|:-:|:-:|:-:|
 | salto | salto | salto | salto |
 | *salto* | *saut* | *salto* | *salto* |
+
+<!--v-->
+
+**salto**
+
+| 🇫🇷 |
+|:-:|
+| salto = sau |
+| *saut* |
+
+<!--v-->
+
+**salto**
+
+| 🇵🇹 |
+|:-:|
+| salto = sautu |
+| *salto* |
 
 <!--v-->
 
