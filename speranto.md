@@ -3753,13 +3753,13 @@ Notes:
 * paêse: -en̆se
 * plaça: tĕ
 * fineça: -ïtĭa
-* maio: j
+* maio: j (FR ai)
 * jurare: j
 * pronuntiare: IT tj
 * diurnata: dj
 <!-- -->
 * foco: FR/SP c̆
-* mâistro: IT/FR/ES/PT ğ (FR ai)
+* mâistro: IT/FR/ES/PT ğ
 * hospitale: IT t̯
 * pede: ES/PT d̯
 * opera: FR/ES/PT p̆
@@ -5085,6 +5085,15 @@ Notes:
 
 <!--v-->
 
+**maio**
+
+| 🇫🇷 |
+|:-:|
+| maio = mæo |
+| *mai* |
+
+<!--v-->
+
 | *manhã* | **manĭąn̆ă** = **manĭana** |
 
 <!--v-->
@@ -5415,7 +5424,7 @@ Notes:
 
 | 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
 |:-:|:-:|:-:|:-:|
-| paêse | pæėsĕ | paėsĕ | paėsĕ |
+| paêse | pæėse | paėse | paėse |
 | *paese* | *pays* | *país* | *país* |
 
 <!--v-->
