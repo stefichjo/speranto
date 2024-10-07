@@ -3707,7 +3707,12 @@ Duoblaj vokaloj en finaĵoj estas skribataj kun makrono.
 
 <!--s-->
 
-# Ponta Ortografio
+# Fontaj Lingvoj de Lingua
+
+Notes:
+* Ponta Ortografio
+
+<!--v-->
 
 Notes:
 * forma: FR -a
@@ -3782,6 +3787,81 @@ Notes:
 <!-- -->
 * vena: PT ṅ
 * vino: PT ṇ
+
+<!--v-->
+
+| | | | | | |
+|-|-|-|-|-|-|
+| Esperanto | Speranto | Peranto | Linguo | Lingue | Lingua |
+
+<!--v-->
+
+| | | | |
+|-|-|-|-|
+| E-S-Peranto | Linguo | Lingue | Lingua |
+
+<!--v-->
+
+| | | |
+|-|-|-|
+| E-S-Peranto | Lingua/-e/-o | |
+
+<!--v-->
+
+| |
+|:-:|
+| E-S-Peranto |
+| Lingua/-e/-o |
+
+<!--v-->
+
+| |
+|:-:|
+| E-S-Peranto |
+| **Lingua**/-e/-o |
+
+<!--v-->
+
+| |
+|:-:|
+| E-S-Peranto |
+| **Lingua**/-e/-o |
+| 🇮🇹 🇫🇷 🇪🇸 🇵🇹 |
+
+<!--v-->
+
+| |
+|:-:|
+| **Lingua** |
+| 🇮🇹 🇫🇷 🇪🇸 🇵🇹 |
+
+<!--v-->
+
+| |
+|:-:|
+| **Lingua*** |
+| 🇮🇹 🇫🇷 🇪🇸 🇵🇹 |
+
+<!--v-->
+
+| |
+|:-:|
+| **Ponta Ortografio de Lingua** |
+| 🇮🇹 🇫🇷 🇪🇸 🇵🇹 |
+
+<!--v-->
+
+| |
+|:-:|
+| **Ponta Ortografio de Lingua*** |
+| 🇮🇹 🇫🇷 🇪🇸 🇵🇹 |
+
+<!--v-->
+
+| |
+|:-:|
+| **Ponta Ortografio de la Fontolingvoj de Lingua** |
+| 🇮🇹 🇫🇷 🇪🇸 🇵🇹 |
 
 <!--v-->
 
@@ -3874,6 +3954,8 @@ Notes:
 
 <!--v-->
 
+| | |
+|-|-|
 | aperír | ǎp̆ĕrire *[ouvrir]* |
 
 <!--v-->
