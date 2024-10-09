@@ -3790,78 +3790,109 @@ Notes:
 
 <!--v-->
 
-| | | | | | |
-|-|-|-|-|-|-|
-| Esperanto | Speranto | Peranto | Linguo | Lingue | Lingua |
-
-<!--v-->
-
-| | | | |
-|-|-|-|-|
-| E-S-Peranto | Linguo | Lingue | Lingua |
-
-<!--v-->
-
-| | | |
-|-|-|-|
-| E-S-Peranto | Lingua/-e/-o | |
+| |
+|:-:|
+| *Aglutinaj* |
 
 <!--v-->
 
 | |
 |:-:|
-| E-S-Peranto |
-| Lingua/-e/-o |
+| Esperanto - Speranto - Peranto |
 
 <!--v-->
 
 | |
 |:-:|
-| E-S-Peranto |
-| **Lingua**/-e/-o |
+| Esperanto - Speranto - Peranto |
+| |
+| *Interaj* |
 
 <!--v-->
 
 | |
 |:-:|
-| E-S-Peranto |
-| **Lingua**/-e/-o |
+| Esperanto - Speranto - Peranto |
+| |
+| Lingua - Lingue - Lingua |
+
+<!--v-->
+
+| |
+|:-:|
+| Esperanto - Speranto - Peranto |
+| |
+| Lingua - Lingue - **Lingua** |
+
+<!--v-->
+
+| |
+|:-:|
+| Esperanto - Speranto - Peranto |
+| |
+| Lingua - Lingue - **Lingua** |
+| |
+| *Fleksiaj* |
+
+<!--v-->
+
+| |
+|:-:|
+| Esperanto - Speranto - Peranto |
+| |
+| Lingua - Lingue - **Lingua** |
+| |
+| Classĭca - Intermediaria - Meridionál |
+
+<!--v-->
+
+| |
+|:-:|
+| Esperanto - Speranto - Peranto |
+| |
+| Lingua - Lingue - **Lingua** |
+| |
+| *Fontaj* |
+
+<!--v-->
+
+| |
+|:-:|
+| Esperanto - Speranto - Peranto |
+| |
+| Lingua - Lingue - **Lingua** |
+| |
 | 🇮🇹 🇫🇷 🇪🇸 🇵🇹 |
+
+<!--v-->
+
+| |
+|:-:|
+| Esperanto - Speranto - Peranto |
+| |
+| Lingua - Lingue - **Lingua** |
+| |
+| 🇻🇦 🇮🇹 🇫🇷 🇪🇸 🇵🇹 |
 
 <!--v-->
 
 | |
 |:-:|
 | **Lingua** |
-| 🇮🇹 🇫🇷 🇪🇸 🇵🇹 |
+| |
+| 🇻🇦 🇮🇹 🇫🇷 🇪🇸 🇵🇹 |
 
 <!--v-->
 
 | |
 |:-:|
-| **Lingua*** |
-| 🇮🇹 🇫🇷 🇪🇸 🇵🇹 |
-
-<!--v-->
-
+| **Ponta Ortografio** |
 | |
-|:-:|
-| **Ponta Ortografio de Lingua** |
-| 🇮🇹 🇫🇷 🇪🇸 🇵🇹 |
+| 🇻🇦 🇮🇹 🇫🇷 🇪🇸 🇵🇹 |
 
-<!--v-->
-
-| |
-|:-:|
-| **Ponta Ortografio de Lingua*** |
-| 🇮🇹 🇫🇷 🇪🇸 🇵🇹 |
-
-<!--v-->
-
-| |
-|:-:|
-| **Ponta Ortografio de la Fontolingvoj de Lingua** |
-| 🇮🇹 🇫🇷 🇪🇸 🇵🇹 |
+Notes:
+* En la pasinta video, ni parolis pri la dialekta kontinuo, t.e. la aglutina dialektaro, kiu konsistas el Esperanto, Speranto kaj Peranto, samkiel pri Linguo, Lingue kaj Lingua, kiuj konsistigas la interan dialektaron. En ĉi-lasta, Lingua estas ponta lingvo de la fleksia dialektaro, t.e. Lingua Classĭca, Lingua Intermediaria kaj Lingua Meridionál. Samtempe, Lingua estas ponta lingvo de la latinidaj lingvoj (kaj de la latina mem).
+* En tiu ĉi video, ni parolos pri Lingua, respektive pri la ponta ortografio de ĝiaj fontolingvoj.
 
 <!--v-->
 
