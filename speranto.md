@@ -10,8 +10,8 @@ revealOptions:
   slideNumber: false
 ---
 
-<!-- reveal-md speranto.md -w -->
-<!-- reveal-md speranto.md -w --theme=white -->
+<!-- cd ~/Git/speranto; reveal-md speranto.md -w -->
+<!-- cd ~/Git/speranto; reveal-md speranto.md -w --theme=white -->
 
 # Bonvenon!
 
@@ -3709,9 +3709,6 @@ Duoblaj vokaloj en finaĵoj estas skribataj kun makrono.
 
 # Fontaj Lingvoj de Lingua
 
-Notes:
-* Ponta Ortografio
-
 <!--v-->
 
 Notes:
@@ -3793,12 +3790,14 @@ Notes:
 | |
 |:-:|
 | *Aglutinaj* |
+| |
 
 <!--v-->
 
 | |
 |:-:|
 | Esperanto - Speranto - Peranto |
+| |
 
 <!--v-->
 
@@ -3807,6 +3806,7 @@ Notes:
 | Esperanto - Speranto - Peranto |
 | |
 | *Interaj* |
+| |
 
 <!--v-->
 
@@ -3815,6 +3815,7 @@ Notes:
 | Esperanto - Speranto - Peranto |
 | |
 | Lingua - Lingue - Lingua |
+| |
 
 <!--v-->
 
@@ -3822,17 +3823,21 @@ Notes:
 |:-:|
 | Esperanto - Speranto - Peranto |
 | |
-| Lingua - Lingue - **Lingua** |
-
-<!--v-->
-
-| |
-|:-:|
-| Esperanto - Speranto - Peranto |
-| |
-| Lingua - Lingue - **Lingua** |
+| Lingua - Lingue - Lingua |
 | |
 | *Fleksiaj* |
+| |
+
+<!--v-->
+
+| |
+|:-:|
+| Esperanto - Speranto - Peranto |
+| |
+| Lingua - Lingue - Lingua |
+| |
+| Classĭca - Intermediaria - Meridionál |
+| |
 
 <!--v-->
 
@@ -3843,6 +3848,7 @@ Notes:
 | Lingua - Lingue - **Lingua** |
 | |
 | Classĭca - Intermediaria - Meridionál |
+| |
 
 <!--v-->
 
@@ -3851,8 +3857,11 @@ Notes:
 | Esperanto - Speranto - Peranto |
 | |
 | Lingua - Lingue - **Lingua** |
+| |
+| Classĭca - Intermediaria - Meridionál |
 | |
 | *Fontaj* |
+| |
 
 <!--v-->
 
@@ -3861,8 +3870,11 @@ Notes:
 | Esperanto - Speranto - Peranto |
 | |
 | Lingua - Lingue - **Lingua** |
+| |
+| Classĭca - Intermediaria - Meridionál |
 | |
 | 🇮🇹 🇫🇷 🇪🇸 🇵🇹 |
+| |
 
 <!--v-->
 
@@ -3872,23 +3884,39 @@ Notes:
 | |
 | Lingua - Lingue - **Lingua** |
 | |
-| 🇻🇦 🇮🇹 🇫🇷 🇪🇸 🇵🇹 |
+| Classĭca - Intermediaria - Meridionál |
+| |
+| (🇻🇦) 🇮🇹 🇫🇷 🇪🇸 🇵🇹 |
+| |
 
 <!--v-->
 
 | |
 |:-:|
-| **Lingua** |
+| Esperanto - Speranto - Peranto |
 | |
-| 🇻🇦 🇮🇹 🇫🇷 🇪🇸 🇵🇹 |
+| Lingua - Lingue - **Lingua** |
+| |
+| Classĭca - Intermediaria - Meridionál |
+| |
+| 🇮🇹 🇫🇷 🇪🇸 🇵🇹 |
+| |
 
 <!--v-->
 
-| |
+**Lingua**
+
+| 🇮🇹 🇫🇷 🇪🇸 🇵🇹 |
 |:-:|
-| **Ponta Ortografio** |
 | |
-| 🇻🇦 🇮🇹 🇫🇷 🇪🇸 🇵🇹 |
+
+<!--v-->
+
+**Ponta Ortografio**
+
+| 🇮🇹 🇫🇷 🇪🇸 🇵🇹 |
+|:-:|
+| |
 
 Notes:
 * En la pasinta video, ni parolis pri la dialekta kontinuo, t.e. la aglutina dialektaro, kiu konsistas el Esperanto, Speranto kaj Peranto, samkiel pri Linguo, Lingue kaj Lingua, kiuj konsistigas la interan dialektaron. En ĉi-lasta, Lingua estas ponta lingvo de la fleksia dialektaro, t.e. Lingua Classĭca, Lingua Intermediaria kaj Lingua Meridionál. Samtempe, Lingua estas ponta lingvo de la latinidaj lingvoj (kaj de la latina mem).
