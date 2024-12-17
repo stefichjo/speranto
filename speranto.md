@@ -3709,10 +3709,6 @@ Duoblaj vokaloj en finaĵoj estas skribataj kun makrono.
 
 # Fontaj Lingvoj de Lingua
 
-<!-- TODO
-Ortografie, nur la Latina estas fontolingvo.
-Vortare, nur la Latina estas fontolingvo, se oni konsideras ekzemple "turre", precipe ĉar ĉiuj 'fontolingvoj' indikas al "torre". La Itala ja havas malfermitan "ò"-on.
- -->
 <!--v-->
 
 Notes:
@@ -5991,8 +5987,6 @@ Notes:
 
 Notes:
 * FR u = ǒ = ů̌
-<!-- TODO
-Kohere, la "o" en la Itala estas pli fermita "ó". Kiam ĝi fariĝas malpli fermita "ò" kiel en "torre", bezoniĝas modeligi, ke la fonta formo estas efektive "o". -->
 
 <!--v-->
 
