@@ -3709,6 +3709,10 @@ Duoblaj vokaloj en finaĵoj estas skribataj kun makrono.
 
 # Fontaj Lingvoj de Lingua
 
+<!-- TODO
+Ortografie, nur la Latina estas fontolingvo.
+Vortare, nur la Latina estas fontolingvo, se oni konsideras ekzemple "turre", precipe ĉar ĉiuj 'fontolingvoj' indikas al "torre". La Itala ja havas malfermitan "ò"-on.
+ -->
 <!--v-->
 
 Notes:
@@ -3724,6 +3728,9 @@ Notes:
 * qŭe: FR ė̃
 * pilo: IT/SP/PT ï
 * muro: FR y
+* auro: IT/FR/ES/PT au
+* torre: LA u
+<!-- -->
 * banco: FR/PT ą
 * mano: FR æ
 * manos: IT -i
@@ -3734,9 +3741,9 @@ Notes:
 * sana: PT -ana
 * bona: PT -ona
 * bono: PT -ono
+<!-- -->
 * salone: PT -one
 * salones: PT -ones
-* auro: IT/FR/ES/PT au
 * salto: FR/PT al
 * sale: ES/PT -le
 * sales: PT -les
@@ -3789,41 +3796,16 @@ Notes:
 
 | |
 |:-:|
+| *Aglutinaj - Interaj - Fleksiaj* |
+| |
+
+<!--v-->
+
+| |
+|:-:|
 | *Aglutinaj* |
 | |
-
-<!--v-->
-
-| |
-|:-:|
-| Esperanto - Speranto - Peranto |
-| |
-
-<!--v-->
-
-| |
-|:-:|
-| Esperanto - Speranto - Peranto |
-| |
 | *Interaj* |
-| |
-
-<!--v-->
-
-| |
-|:-:|
-| Esperanto - Speranto - Peranto |
-| |
-| Lingua - Lingue - Lingua |
-| |
-
-<!--v-->
-
-| |
-|:-:|
-| Esperanto - Speranto - Peranto |
-| |
-| Lingua - Lingue - Lingua |
 | |
 | *Fleksiaj* |
 | |
@@ -3834,7 +3816,29 @@ Notes:
 |:-:|
 | Esperanto - Speranto - Peranto |
 | |
-| Lingua - Lingue - Lingua |
+| *Interaj* |
+| |
+| *Fleksiaj* |
+| |
+
+<!--v-->
+
+| |
+|:-:|
+| Esperanto - Speranto - Peranto |
+| |
+| Linguo - Lingue - Lingua |
+| |
+| *Fleksiaj* |
+| |
+
+<!--v-->
+
+| |
+|:-:|
+| Esperanto - Speranto - Peranto |
+| |
+| Linguo - Lingue - Lingua |
 | |
 | Classĭca - Intermediaria - Meridionál |
 | |
@@ -3845,7 +3849,7 @@ Notes:
 |:-:|
 | Esperanto - Speranto - Peranto |
 | |
-| Lingua - Lingue - **Lingua** |
+| Linguo - Lingue - **Lingua** |
 | |
 | Classĭca - Intermediaria - Meridionál |
 | |
@@ -3856,7 +3860,7 @@ Notes:
 |:-:|
 | Esperanto - Speranto - Peranto |
 | |
-| Lingua - Lingue - **Lingua** |
+| Linguo - Lingue - **Lingua** |
 | |
 | Classĭca - Intermediaria - Meridionál |
 | |
@@ -3869,7 +3873,7 @@ Notes:
 |:-:|
 | Esperanto - Speranto - Peranto |
 | |
-| Lingua - Lingue - **Lingua** |
+| Linguo - Lingue - **Lingua** |
 | |
 | Classĭca - Intermediaria - Meridionál |
 | |
@@ -3882,37 +3886,40 @@ Notes:
 |:-:|
 | Esperanto - Speranto - Peranto |
 | |
-| Lingua - Lingue - **Lingua** |
+| Linguo - Lingue - **Lingua** |
 | |
 | Classĭca - Intermediaria - Meridionál |
 | |
-| (🇻🇦) 🇮🇹 🇫🇷 🇪🇸 🇵🇹 |
-| |
-
-<!--v-->
-
-| |
-|:-:|
-| Esperanto - Speranto - Peranto |
-| |
-| Lingua - Lingue - **Lingua** |
-| |
-| Classĭca - Intermediaria - Meridionál |
-| |
-| 🇮🇹 🇫🇷 🇪🇸 🇵🇹 |
+| <small>🇻🇦</small> 🇮🇹 🇫🇷 🇪🇸 🇵🇹 |
 | |
 
 <!--v-->
 
 **Lingua**
 
-| 🇮🇹 🇫🇷 🇪🇸 🇵🇹 |
+| <small>🇻🇦</small> 🇮🇹 🇫🇷 🇪🇸 🇵🇹 |
+|:-:|
+| |
+
+<!--v-->
+
+**Ponta Lingvo**
+
+| <small>🇻🇦</small> 🇮🇹 🇫🇷 🇪🇸 🇵🇹 |
 |:-:|
 | |
 
 <!--v-->
 
 **Ponta Ortografio**
+
+| <small>🇻🇦</small> 🇮🇹 🇫🇷 🇪🇸 🇵🇹 |
+|:-:|
+| |
+
+<!--v-->
+
+**Ponta Ortografio** <small>🇻🇦</small>
 
 | 🇮🇹 🇫🇷 🇪🇸 🇵🇹 |
 |:-:|
@@ -3950,7 +3957,7 @@ Notes:
 
 | 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
 |:-:|:-:|:-:|:-:|
-| alĭo | *alĭo* | *alĭo* | *alĭo* |
+| alĭo | alĭo | alĭo | alĭo |
 | *aglio* | *ail* | *ajo* | *alho* |
 
 <!--v-->
@@ -5661,6 +5668,8 @@ Notes:
 | pane = pąu <small>pąn̆e̊</small> |
 | *pão* |
 
+<!-- TODO Tom: Eble francaj ano→æno kaj ane→æne estas implicindaj, analogie al portugalaj komplikaĵoj. -->
+
 <!--v-->
 
 **panes**
@@ -5903,6 +5912,15 @@ Notes:
 
 <!--v-->
 
+**plovere** <small>**plůvere**</small>
+
+| 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
+|:-:|:-:|:-:|:-:|
+| *pḷovere* | *…* | *…* | *…* |
+| *piovere* | *…* | *…* | *…* |
+
+<!--v-->
+
 **ponte**
 
 | 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
@@ -5973,6 +5991,8 @@ Notes:
 
 Notes:
 * FR u = ǒ = ů̌
+<!-- TODO
+Kohere, la "o" en la Itala estas pli fermita "ó". Kiam ĝi fariĝas malpli fermita "ò" kiel en "torre", bezoniĝas modeligi, ke la fonta formo estas efektive "o". -->
 
 <!--v-->
 
@@ -6571,16 +6591,16 @@ Notes:
 
 <!--v-->
 
-**turre**
+**torre** <small>**tůrre**</small>
 
 | 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
 |:-:|:-:|:-:|:-:|
-| tùrre | turre | tůrre | tůrre |
+| torre | tǒrre | torre | torre |
 | *torre* | *tour* | *torre* | *torre* |
 
 Notes:
 * `:)` rr
-* `:(` IT ù
+<!-- TODO Tom: Eble u→y estas implicinda en la Franca. -->
 
 <!--v-->
 
