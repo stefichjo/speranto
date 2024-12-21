@@ -1919,11 +1919,13 @@ La grekismaj ŝajnfinaĵoj **-i**, **-ia** *[ia]*, **-a**, **-e** havas signifoj
 
 | Esperanto | Lingua |
 |-|-|
-| ami | **amár** |
-| vidi | **vidér** |
-| aŭdi | **audír** |
-
-<small>La kromsigno super la vokalo precipe signifas elizion. Nur kvazaŭ kromefiko, la akcento falas sur la kromsignita vokalo.</small>
+| iri | **îr** <small>**ire**</small> |
+| | |
+| ami | **amár** <small>**amare**</small> |
+| vidi | **vidér** <small>**videre**</small> |
+| aŭdi | **audír** <small>**audire**</small> |
+| | |
+| venki | **vincér** <small>**vincĕre**</small> |
 
 <!--v-->
 
@@ -1947,14 +1949,16 @@ La grekismaj ŝajnfinaĵoj **-i**, **-ia** *[ia]*, **-a**, **-e** havas signifoj
 |-|-|
 | -as      | **-** |
 | -is      | **-va** |
-| -os      | **-rá**`*` |
+| -os      | **-rá** |
 | | |
-| (ke) -u | **-a**`**` |
-| (se/do) -us | **-ría**`***` |
+| (ke) -u | **-a**`*` |
+| (se/do) -us | **-ría** |
 
-<small>`*` Origine, la finaĵo **-á** en **-rá** estas fakte la mallonga formo **hâ** ("havas") sen **h**.</small>
+<small>`*` **-aa** fariĝas **-e**: **amaa** → **ame**. </small>
 
-<small>`**` **-aa** fariĝas **-e**: **amaa** → **ame**. </small>
+<!--v-->
+
+<small>Origine, la finaĵo **-á** en **-rá** estas fakte la mallonga formo **hâ** ("havas") sen **h**.</small>
 
 <!--v-->
 
@@ -2009,7 +2013,7 @@ La grekismaj ŝajnfinaĵoj **-i**, **-ia** *[ia]*, **-a**, **-e** havas signifoj
 | Esperanto | Lingua |
 |-|-|
 | amata | **amata** |
-| vidata | **vidĭta** <small>*[vidi-ta]*</small> |
+| vidata | **vidĭta** *[vidi-ta]* |
 | aŭdata | **audita** |
 
 <!--v-->
@@ -2189,7 +2193,7 @@ La grekismaj ŝajnfinaĵoj **-i**, **-ia** *[ia]*, **-a**, **-e** havas signifoj
 | Esperanto | Intermediaria |
 |-|-|
 | kostas | **côsta** <small>**con̆sta**</small> |
-| lando | **paêse** <small>**pağen̆se**</small> |
+| lando | **paés** <small>**pağen̆se**</small> |
 
 <!--v-->
 
@@ -3709,8 +3713,6 @@ Duoblaj vokaloj en finaĵoj estas skribataj kun makrono.
 
 # Fontaj Lingvoj de Lingua
 
-<!--v-->
-
 Notes:
 * forma: FR -a
 * sacco: FR c
@@ -3731,19 +3733,19 @@ Notes:
 * mano: FR æ
 * manos: IT -i
 * in: FR en, PT -n
-* bene: ES/PT -ne (FR en)
-* pane: PT -ane
+* bên: ES/PT -ne (FR en)
+* pân: PT -ane
 * panes: ES/PT -nes
 * sana: PT -ana
 * bona: PT -ona
 * bono: PT -ono
 <!-- -->
-* salone: PT -one
+* salón: PT -one
 * salones: PT -ones
 * salto: FR/PT al
-* sale: ES/PT -le
+* sâl: ES/PT -le
 * sales: PT -les
-* mare: ES/PT -re
+* mâr: ES/PT -re
 * mares: ES/PT -res
 * perdere: FR/ES/PT -ĕre
 * pensare: FR -æɍe
@@ -3752,10 +3754,10 @@ Notes:
 * hora: IT/FR/ES/PT h, FR ø
 * alio: lĭ
 * campania: nĭ
-* natione: ti/tĭ
+* natión: ti/tĭ
 * olio: lĕ
 * linia: nĕ
-* paêse: -en̆se
+* paés: -en̆se
 * plaça: tĕ
 * fineça: -ïtĭa
 * maio: j (FR ai)
@@ -3845,18 +3847,7 @@ Notes:
 |:-:|
 | Esperanto - Speranto - Peranto |
 | |
-| Linguo - Lingue - **Lingua** |
-| |
-| Classĭca - Intermediaria - Meridionál |
-| |
-
-<!--v-->
-
-| |
-|:-:|
-| Esperanto - Speranto - Peranto |
-| |
-| Linguo - Lingue - **Lingua** |
+| Linguo - Lingue - Lingua |
 | |
 | Classĭca - Intermediaria - Meridionál |
 | |
@@ -3869,47 +3860,18 @@ Notes:
 |:-:|
 | Esperanto - Speranto - Peranto |
 | |
-| Linguo - Lingue - **Lingua** |
+| Linguo - Lingue - Lingua |
 | |
 | Classĭca - Intermediaria - Meridionál |
 | |
-| 🇮🇹 🇫🇷 🇪🇸 🇵🇹 |
+| 🇻🇦 🇮🇹 🇫🇷 🇪🇸 🇵🇹 |
 | |
 
 <!--v-->
 
-| |
-|:-:|
-| Esperanto - Speranto - Peranto |
-| |
-| Linguo - Lingue - **Lingua** |
-| |
-| Classĭca - Intermediaria - Meridionál |
-| |
-| <small>🇻🇦</small> 🇮🇹 🇫🇷 🇪🇸 🇵🇹 |
-| |
+**Lingua Intermediaria**
 
-<!--v-->
-
-**Lingua**
-
-| <small>🇻🇦</small> 🇮🇹 🇫🇷 🇪🇸 🇵🇹 |
-|:-:|
-| |
-
-<!--v-->
-
-**Ponta Lingvo**
-
-| <small>🇻🇦</small> 🇮🇹 🇫🇷 🇪🇸 🇵🇹 |
-|:-:|
-| |
-
-<!--v-->
-
-**Ponta Ortografio**
-
-| <small>🇻🇦</small> 🇮🇹 🇫🇷 🇪🇸 🇵🇹 |
+| 🇻🇦 🇮🇹 🇫🇷 🇪🇸 🇵🇹 |
 |:-:|
 | |
 
