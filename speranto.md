@@ -3711,7 +3711,7 @@ Duoblaj vokaloj en finaĵoj estas skribataj kun makrono.
 
 <!--s-->
 
-# Fontaj kaj Pontaj Lingvoj
+# Ortografio de Lingua Intermediaria
 
 Notes:
 * forma: FR -a
@@ -3838,17 +3838,6 @@ Notes:
 | |
 | Linguo - Lingue - Lingua |
 | |
-| *Fleksiaj* = *Fontaj Lingvoj* |
-| |
-
-<!--v-->
-
-| |
-|:-:|
-| Esperanto - Speranto - Peranto |
-| |
-| Linguo - Lingue - **Lingua** |
-| |
 | Classĭca - Intermediaria - Meridionál |
 | |
 
@@ -3858,7 +3847,7 @@ Notes:
 |:-:|
 | Esperanto - Speranto - Peranto |
 | |
-| Linguo - Lingue - **Lingua** |
+| Linguo - Lingue - Lingua |
 | |
 | Classĭca - Intermediaria - Meridionál |
 | |
@@ -3871,22 +3860,9 @@ Notes:
 |:-:|
 | Esperanto - Speranto - Peranto |
 | |
-| Linguo - Lingue - **Lingua** |
+| Linguo - Lingue - Lingua |
 | |
 | Classĭca - Intermediaria - Meridionál |
-| |
-| *Naciaj* = *Fontaj Lingvoj* |
-| |
-
-<!--v-->
-
-| |
-|:-:|
-| Esperanto - Speranto - Peranto |
-| |
-| Linguo - Lingue - **Lingua** |
-| |
-| Classĭca - **Intermediaria** - Meridionál |
 | |
 | 🇻🇦 🇮🇹 🇫🇷 🇪🇸 🇵🇹 |
 | |
@@ -3901,15 +3877,7 @@ Notes:
 
 <!--v-->
 
-**Lingua Intermediaria** = *Ponta Lingvo*
-
-| 🇻🇦 🇮🇹 🇫🇷 🇪🇸 🇵🇹 |
-|:-:|
-| |
-
-<!--v-->
-
-**Lingua Intermediaria** <small>🇻🇦</small> = *Ponta Lingvo*
+**Lingua Intermediaria** <small>🇻🇦</small>
 
 | 🇮🇹 🇫🇷 🇪🇸 🇵🇹 |
 |:-:|
