@@ -3711,7 +3711,7 @@ Duoblaj vokaloj en finaĵoj estas skribataj kun makrono.
 
 <!--s-->
 
-# Fontaj Lingvoj de Lingua
+# Fontaj kaj Pontaj Lingvoj
 
 Notes:
 * forma: FR -a
@@ -3838,6 +3838,17 @@ Notes:
 | |
 | Linguo - Lingue - Lingua |
 | |
+| *Fleksiaj* = *Fontaj Lingvoj* |
+| |
+
+<!--v-->
+
+| |
+|:-:|
+| Esperanto - Speranto - Peranto |
+| |
+| Linguo - Lingue - **Lingua** |
+| |
 | Classĭca - Intermediaria - Meridionál |
 | |
 
@@ -3847,11 +3858,11 @@ Notes:
 |:-:|
 | Esperanto - Speranto - Peranto |
 | |
-| Linguo - Lingue - Lingua |
+| Linguo - Lingue - **Lingua** |
 | |
 | Classĭca - Intermediaria - Meridionál |
 | |
-| *Fontaj* |
+| *Naciaj* |
 | |
 
 <!--v-->
@@ -3860,9 +3871,22 @@ Notes:
 |:-:|
 | Esperanto - Speranto - Peranto |
 | |
-| Linguo - Lingue - Lingua |
+| Linguo - Lingue - **Lingua** |
 | |
 | Classĭca - Intermediaria - Meridionál |
+| |
+| *Naciaj* = *Fontaj Lingvoj* |
+| |
+
+<!--v-->
+
+| |
+|:-:|
+| Esperanto - Speranto - Peranto |
+| |
+| Linguo - Lingue - **Lingua** |
+| |
+| Classĭca - **Intermediaria** - Meridionál |
 | |
 | 🇻🇦 🇮🇹 🇫🇷 🇪🇸 🇵🇹 |
 | |
@@ -3877,7 +3901,15 @@ Notes:
 
 <!--v-->
 
-**Ponta Ortografio** <small>🇻🇦</small>
+**Lingua Intermediaria** = *Ponta Lingvo*
+
+| 🇻🇦 🇮🇹 🇫🇷 🇪🇸 🇵🇹 |
+|:-:|
+| |
+
+<!--v-->
+
+**Lingua Intermediaria** <small>🇻🇦</small> = *Ponta Lingvo*
 
 | 🇮🇹 🇫🇷 🇪🇸 🇵🇹 |
 |:-:|
@@ -3984,7 +4016,7 @@ Notes:
 
 <!--v-->
 
-**aprîl** <small>**aprile**</small>
+**apríl** <small>**aprile**</small>
 
 | 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
 |:-:|:-:|:-:|:-:|
@@ -5872,7 +5904,7 @@ Notes:
 
 <!--v-->
 
-**plovér** <small>**plůvere**</small>
+**plovér** <small>(🇻🇦 **pluvĕre**)</small>
 
 | 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
 |:-:|:-:|:-:|:-:|
@@ -6330,6 +6362,15 @@ Notes:
 
 <!--v-->
 
+**sîn** <small>**sine**</small>
+
+| 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
+|:-:|:-:|:-:|:-:|
+| … | … | sine | sïne |
+| … | … | *sin* | *sem* |
+
+<!--v-->
+
 **sino**
 
 | 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
@@ -6502,6 +6543,15 @@ Notes:
 
 <!--v-->
 
+**torre** <small>(🇻🇦 **turre**)</small>
+
+| 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
+|:-:|:-:|:-:|:-:|
+| torre | tǒrre | torre | torre |
+| *torre* | *tour* | *torre* | *torre* |
+
+<!--v-->
+
 **tota**
 
 | 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
@@ -6543,19 +6593,6 @@ Notes:
 <!--v-->
 
 | tu | tü = ty *[tu]* |
-
-<!--v-->
-
-**torre** <small>**tůrre**</small>
-
-| 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
-|:-:|:-:|:-:|:-:|
-| torre | tǒrre | torre | torre |
-| *torre* | *tour* | *torre* | *torre* |
-
-Notes:
-* `:)` rr
-<!-- TODO Tom: Eble u→y estas implicinda en la Franca. -->
 
 <!--v-->
 
