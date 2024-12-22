@@ -193,7 +193,7 @@ Aldone, la plimulto de la finaĵoj de la interaj dialektoj varias. Ekzemple, dum
 | amo |
 | amas |
 | ama |
-| amamo |
+| amamos |
 | amáis |
 | aman |
 
@@ -204,7 +204,7 @@ Aldone, la plimulto de la finaĵoj de la interaj dialektoj varias. Ekzemple, dum
 | amo | amo |
 | amas | amas |
 | ama | amat |
-| amamo | amamus |
+| amamos | amamus |
 | amáis | amatis |
 | aman | amant |
 
