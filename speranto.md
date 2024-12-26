@@ -3864,15 +3864,22 @@ Notes:
 | |
 | Classĭca - Intermediaria - Meridionál |
 | |
-| 🇻🇦 🇮🇹 🇫🇷 🇪🇸 🇵🇹 |
+| 🇮🇹 🇫🇷 🇪🇸 🇵🇹 |
 | |
 
 <!--v-->
 
-**Lingua Intermediaria**
-
-| 🇻🇦 🇮🇹 🇫🇷 🇪🇸 🇵🇹 |
+| |
 |:-:|
+| Esperanto - Speranto - Peranto |
+| |
+| Linguo - Lingue - Lingua |
+| |
+| Classĭca - Intermediaria - Meridionál |
+| |
+| 🇮🇹 🇫🇷 🇪🇸 🇵🇹 |
+| |
+| 🇻🇦 |
 | |
 
 <!--v-->
