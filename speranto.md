@@ -1122,7 +1122,7 @@ Aldone, la plimulto de la finaĵoj de la interaj dialektoj varias. Ekzemple, dum
 | paco | **paço** *[paso]* <small>*[paco]*</small> |
 | pace | **pace** *[pase]* <small>*[pace]*</small> |
 | | |
-| teraso | **terraço** *[teraso]* <small>**terracĭo** *[teraci-o]*</small> |
+| teraso | **terraço** *[teraso]* <small>**terracĕo** *[terace-o]*</small> |
 
 <!--v-->
 
@@ -2060,7 +2060,7 @@ La grekismaj ŝajnfinaĵoj **-i**, **-ia** *[ia]*, **-a**, **-e** havas signifoj
 
 | Esperanto | Lingua |
 |-|-|
-| esti | **sêr** <small>**essér**</small> |
+| esti | **sêr** <small>**essĕre**</small> |
 | | |
 | estas | **ês** <small>**esse**</small> |
 | estis | **êra** <small>**esseva**</small> |
@@ -2073,7 +2073,7 @@ La grekismaj ŝajnfinaĵoj **-i**, **-ia** *[ia]*, **-a**, **-e** havas signifoj
 
 | Esperanto | Lingua |
 |-|-|
-| havi | **hâr** <small>**havér**</small> |
+| havi | **hâr** <small>**havere**</small> |
 | | |
 | havas | **hâ** <small>**have**</small> |
 
@@ -2081,7 +2081,7 @@ La grekismaj ŝajnfinaĵoj **-i**, **-ia** *[ia]*, **-a**, **-e** havas signifoj
 
 | Esperanto | Lingua |
 |-|-|
-| iri | **îr** |
+| iri | **îr** <small>**ire**</small> |
 | | |
 | iras | **vâ** <small>**vade**</small> |
 | iris | **îa** <small>**iva**</small> |
@@ -2094,7 +2094,7 @@ La grekismaj ŝajnfinaĵoj **-i**, **-ia** *[ia]*, **-a**, **-e** havas signifoj
 
 | Esperanto | Lingua |
 |-|-|
-| fari | **fâr** <small>**facér**</small> |
+| fari | **fâr** <small>**facĕre**</small> |
 | | |
 | faras | **fâ** <small>**face**</small> |
 
@@ -2160,6 +2160,14 @@ La grekismaj ŝajnfinaĵoj **-i**, **-ia** *[ia]*, **-a**, **-e** havas signifoj
 
 <small>Nur sufiksofina **t** fariĝas **d**.</small>
 
+<!-- TODO
+rete → rêd?
+site → sîd?
+civitate → cividád
+sito → sîdo?
+universitate → universidád
+-->
+
 <!--v-->
 
 | Esperanto | Intermediaria |
@@ -2224,7 +2232,7 @@ La grekismaj ŝajnfinaĵoj **-i**, **-ia** *[ia]*, **-a**, **-e** havas signifoj
 
 | Esperanto | Intermediaria |
 |-|-|
-| mi banas | **bânio** <small>**bal̮nio**</small> |
+| mi banas | **bânio** <small>**bal̮nĕo**</small> |
 
 <!--v-->
 
@@ -3711,7 +3719,9 @@ Duoblaj vokaloj en finaĵoj estas skribataj kun makrono.
 
 <!--s-->
 
-# Ortografio de Lingua Intermediaria
+# Lingua Intermediaria kiel Ponta Lingvo
+
+## Ortografio de Lingua Intermediaria
 
 Notes:
 * forma: FR -a
@@ -3759,7 +3769,7 @@ Notes:
 * linia: nĕ
 * paés: -en̆se
 * plaça: tĕ
-* fineça: -ïtĭa
+* fineça: -ïtĕa
 * maio: j (FR ai)
 * jurare: j
 * pronuntiare: IT tj
@@ -3909,7 +3919,7 @@ Notes:
 
 <!--v-->
 
-**alçare** <small>**alteare**</small>
+**alçare** <small>**altĕare**</small>
 
 | 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
 |:-:|:-:|:-:|:-:|
@@ -4078,7 +4088,7 @@ Notes:
 
 <!--v-->
 
-**bânio** <small>**bałneo = bâneo**</small>
+**bânio** <small>**bałnĕo = bânĕo**</small>
 
 | 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
 |:-:|:-:|:-:|:-:|
@@ -4345,7 +4355,7 @@ Notes:
 
 <!--v-->
 
-**castania** <small>**castanea**</small>
+**castania** <small>**castanĕa**</small>
 
 | 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
 |:-:|:-:|:-:|:-:|
@@ -4710,7 +4720,7 @@ Notes:
 
 <!--v-->
 
-**fineça** <small>**finïtĭa**</small>
+**fineça** <small>**finïtĕa**</small>
 
 | 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
 |:-:|:-:|:-:|:-:|
@@ -5147,8 +5157,7 @@ Notes:
 
 <!--v-->
 
-**linia** <small>**linea**</small>
-<!-- TODO linėa? -->
+**linia** <small>**linĕa**</small>
 
 | 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
 |:-:|:-:|:-:|:-:|
@@ -5522,7 +5531,7 @@ Notes:
 
 <!--v-->
 
-**olio** <small>**oleo**</small>
+**olio** <small>**olĕo**</small>
 
 | 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
 |:-:|:-:|:-:|:-:|
@@ -5834,7 +5843,7 @@ Notes:
 
 <!--v-->
 
-**plaça** <small>**platea**</small>
+**plaça** <small>**platĕa**</small>
 
 | 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
 |:-:|:-:|:-:|:-:|
