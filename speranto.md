@@ -1195,7 +1195,7 @@ Aldone, la plimulto de la finaĵoj de la interaj dialektoj varias. Ekzemple, dum
 |-|-|
 | skribi | **scrivi** *[skrivi]* <small>**scribi** *[skribi]*</small> |
 | | |
-| ruĝa | **rujo**  *[ruĵo]* <small>**rubĕo** *[ruƀe-o]*</small> |
+| ruĝa | **ruja**  *[ruĵa]* <small>**rubĕa** *[ruƀe-a]*</small> |
 
 <!--v-->
 
@@ -1728,6 +1728,7 @@ Tra bruo, la prepozicio **a** uziĝas por la indiki la rektan objekton. (Tiam uz
 <!--v-->
 
 <small>Latinaj **-u** kaj **-i** fariĝas **-o** kaj **-e**. En skriba lingvo, oni povas uzi la originajn finaĵojn.</small>
+<!-- TODO → Lingua Classĭca -->
 
 <!--v-->
 
@@ -1739,6 +1740,7 @@ Tra bruo, la prepozicio **a** uziĝas por la indiki la rektan objekton. (Tiam uz
 <!--v-->
 
 <small>La ŝajnfinaĵoj **-ĭn-** kaj **-ĭt** eliziiĝas, se ĝi ne ekzistas en la latina nominativo.</small>
+<!-- TODO → Lingua Classĭca -->
 
 <!--v-->
 
@@ -1754,6 +1756,7 @@ Tra bruo, la prepozicio **a** uziĝas por la indiki la rektan objekton. (Tiam uz
 <!--v-->
 
 <small>Substantivigitaj verboj, kiuj finiĝas je **-io** estas pruntitaj el la latina nominativo: **statio** *[stasjo]*.</small>
+<!-- TODO <small>**statione**</small> -->
 
 <!--v-->
 
@@ -1905,7 +1908,7 @@ La grekismaj ŝajnfinaĵoj **-i**, **-ia** *[ia]*, **-a**, **-e** havas signifoj
 | Esperanto | Lingua |
 |-|-|
 | mi, min | **eo**, **me** |
-| ci, min | **tu**, **te** |
+| ci, cin | **tu**, **te** |
 
 <!--v-->
 
@@ -2013,7 +2016,7 @@ La grekismaj ŝajnfinaĵoj **-i**, **-ia** *[ia]*, **-a**, **-e** havas signifoj
 | Esperanto | Lingua |
 |-|-|
 | amata | **amata** |
-| vidata | **vidĭta** *[vidi-ta]* |
+| vidata | **vidĭta** |
 | aŭdata | **audita** |
 
 <!--v-->
@@ -2163,9 +2166,7 @@ La grekismaj ŝajnfinaĵoj **-i**, **-ia** *[ia]*, **-a**, **-e** havas signifoj
 <!-- TODO
 rete → rêd?
 site → sîd?
-civitate → cividád
 sito → sîdo?
-universitate → universidád
 -->
 
 <!--v-->
@@ -2240,7 +2241,7 @@ universitate → universidád
 |-|-|
 | parabolo | **parabŏla** |
 | | |
-| paroli | **parlár** <small>**parăv̆ŏlár**</small> |
+| paroli | **parlár** <small>**parăv̆ŏlare**</small> |
 
 <!--v-->
 
@@ -3482,7 +3483,7 @@ Duoblaj vokaloj en finaĵoj estas skribataj kun makrono.
 
 <!--v-->
 
-<small>Vortofina **e** eliziiĝas post **r**, **l**, **n** aŭ **t**. Radikofina **t** ĉiam **d**, krom en fremdaj vortoj.</small>
+<small>Vortofina **e** eliziiĝas post **r**, **l**, **n** aŭ **t**. Radikofina **t** ĉiam fariĝas **d**, krom en fremdaj vortoj.</small>
 
 <!--v-->
 
@@ -3596,7 +3597,7 @@ Duoblaj vokaloj en finaĵoj estas skribataj kun makrono.
 | Esperanto | Meridionál |
 |-|-|
 | ajlo | **alio** *[aḷo]* <small>*[ali-o]*</small> |
-| oleo | **olio** <small>**oleo**</small> *[oḷo]* <small>*[ole-o]*</small> |
+| oleo | **olio** <small>**olĕo**</small> *[oḷo]* <small>*[ole-o]*</small> |
 
 <!--v-->
 
@@ -3719,9 +3720,9 @@ Duoblaj vokaloj en finaĵoj estas skribataj kun makrono.
 
 <!--s-->
 
-# Lingua Intermediaria kiel Ponta Lingvo
+# Lingua:
 
-## Ortografio de Lingua Intermediaria
+## Internacia Ortografio de Ponta Lingvo
 
 Notes:
 * forma: FR -a
@@ -3757,9 +3758,9 @@ Notes:
 * sales: PT -les
 * mâr: ES/PT -re
 * mares: ES/PT -res
-* perdere: FR/ES/PT -ĕre
-* pensare: FR -æɍe
-* pace: ES/PT -ce
+* perdér: FR/ES/PT -ĕre
+* pensár: FR -æɍe
+* paç: ES/PT -ce
 * schola: FR/ES/PT s̃
 * hora: IT/FR/ES/PT h, FR ø
 * alio: lĭ
@@ -3771,26 +3772,26 @@ Notes:
 * plaça: tĕ
 * fineça: -ïtĕa
 * maio: j (FR ai)
-* jurare: j
-* pronuntiare: IT tj
+* jurár: j
+* pronuntiár: IT tj
 * diurnata: dj
 <!-- -->
 * foco: FR/SP c̆
 * mâistro: IT/FR/ES/PT ğ
-* hospitale: IT t̯
-* pede: ES/PT d̯
+* hospitál: IT t̯
+* pêd: ES/PT d̯
 * opera: FR/ES/PT p̆
-* scrivĕre: FR v̆
+* scrivér: FR v̆
 * folia: ES f̯
 * linguâjo: IT/FR/ES/PT -at̯ĭc̆o
 <!-- -->
 * delicia: IT ȼ
-* cantare: FR ĉ
+* cantár: FR ĉ
 * luxo: ES/PT x̂
 * russa: ES/PT ŝ
 <!-- -->
 * lacte: IT ct, FR/ES/PT ċt
-* doctore: PT c̊t
+* doctór: PT c̊t
 <!-- -->
 * flamma: IT/ES/PT ḷ
 * blanca: PT l̯
@@ -3894,7 +3895,7 @@ Notes:
 
 <!--v-->
 
-**Lingua Intermediaria** <small>🇻🇦</small>
+**Lingua** <small>🇻🇦</small>
 
 | 🇮🇹 🇫🇷 🇪🇸 🇵🇹 |
 |:-:|
@@ -3902,7 +3903,7 @@ Notes:
 
 Notes:
 * En la pasinta video, ni parolis pri la dialekta kontinuo, t.e. la aglutina dialektaro, kiu konsistas el Esperanto, Speranto kaj Peranto, samkiel pri Linguo, Lingue kaj Lingua, kiuj konsistigas la interan dialektaron. En ĉi-lasta, Lingua estas ponta lingvo de la fleksia dialektaro, t.e. Lingua Classĭca, Lingua Intermediaria kaj Lingua Meridionál. Samtempe, Lingua estas ponta lingvo de la latinidaj lingvoj (kaj de la latina mem).
-* En tiu ĉi video, ni parolos pri Lingua, respektive pri la ponta ortografio de ĝiaj fontolingvoj.
+* En tiu ĉi video, ni parolos pri Lingua, respektive pri la internacia ortografio de ĝiaj fontolingvoj.
 
 <!--v-->
 
@@ -3919,7 +3920,7 @@ Notes:
 
 <!--v-->
 
-**alçare** <small>**altĕare**</small>
+**alçár** <small>**altĕare**</small>
 
 | 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
 |:-:|:-:|:-:|:-:|
@@ -3974,7 +3975,8 @@ Notes:
 
 <!--v-->
 
-**amór** <small>**amore**</small>
+**amore**
+<!-- TODO nur en Lingua Intermediaria amore fariĝas amór. -->
 
 | 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
 |:-:|:-:|:-:|:-:|
@@ -4001,7 +4003,7 @@ Notes:
 
 <!--v-->
 
-**apríl** <small>**aprile**</small>
+**aprile**
 
 | 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
 |:-:|:-:|:-:|:-:|
@@ -4088,7 +4090,7 @@ Notes:
 
 <!--v-->
 
-**bânio** <small>**bałnĕo = bânĕo**</small>
+**bâneo** <small>**bałnĕo**</small>
 
 | 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
 |:-:|:-:|:-:|:-:|
@@ -4139,7 +4141,8 @@ Notes:
 
 <!--v-->
 
-**bên** <small>**bene**</small>
+**bene**
+<!-- TODO bên en Lingua Intermediaria? -->
 
 | 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
 |:-:|:-:|:-:|:-:|
@@ -4268,7 +4271,8 @@ Notes:
 
 <!--v-->
 
-**cân** <small>**cane**</small>
+**cane**
+<!-- TODO cân en Lingua Intermediaria -->
 
 | 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
 |:-:|:-:|:-:|:-:|
@@ -4280,7 +4284,7 @@ Notes:
 
 <!--v-->
 
-**cân** <small>**cane**</small>
+**cane**
 
 | 🇫🇷 |
 |:-:|
@@ -4289,7 +4293,7 @@ Notes:
 
 <!--v-->
 
-**cân** <small>**cane**</small>
+**cane**
 
 | 🇫🇷 | 🇫🇷* |
 |:-:|:-:|
@@ -4307,7 +4311,7 @@ Notes:
 
 <!--v-->
 
-**cantión** <small>**cantione**</small>
+**cantio** <small>**cantione**</small>
 
 | 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
 |:-:|:-:|:-:|:-:|
@@ -4420,6 +4424,17 @@ Notes:
 
 <!--v-->
 
+**civitate**
+
+| 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
+|:-:|:-:|:-:|:-:|
+| civit̯at̯e | civit̯at̯e | civit̯at̯e | civĭt̯at̯e |
+| *città* | *???* | *ciudad* | *cidade* |
+
+<!-- TODO -->
+
+<!--v-->
+
 **clave**
 
 | 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
@@ -4482,7 +4497,7 @@ Notes:
 
 <!--v-->
 
-**côr** <small>**core**</small>
+**core**
 
 | 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
 |:-:|:-:|:-:|:-:|
@@ -4543,7 +4558,7 @@ Notes:
 
 <!--v-->
 
-**doctór** <small>**doctore**</small>
+**doctore**
 
 | 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
 |:-:|:-:|:-:|:-:|
@@ -4601,7 +4616,7 @@ Notes:
 
 <!--v-->
 
-**enuntiatión** <small>**enuntiatione**</small>
+**enuntiatio** <small>**enuntiatione**</small>
 
 | 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
 |:-:|:-:|:-:|:-:|
@@ -4711,7 +4726,7 @@ Notes:
 
 <!--v-->
 
-**fîn** <small>**fine**</small>
+**fine**
 
 | 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
 |:-:|:-:|:-:|:-:|
@@ -4721,6 +4736,7 @@ Notes:
 <!--v-->
 
 **fineça** <small>**finïtĕa**</small>
+<!-- TODO ç ankoraŭ mankas en la klarigoj pri Lingua. -->
 
 | 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
 |:-:|:-:|:-:|:-:|
@@ -4738,7 +4754,7 @@ Notes:
 
 <!--v-->
 
-**flôr** <small>**flore**</small>
+**flore**
 
 | 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
 |:-:|:-:|:-:|:-:|
@@ -4903,7 +4919,8 @@ Notes:
 
 <!--v-->
 
-**haviamo** <small>**haveamo**</small>
+**haveamo**
+<!-- TODO "haviamo" ne necesas, ĉu? - Aŭ eble nur en Lingua Intermediaria. -->
 
 | 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
 |:-:|:-:|:-:|:-:|
@@ -4940,7 +4957,7 @@ Notes:
 
 <!--v-->
 
-**hospitál** <small>**hospitale**</small>
+**hospitale**
 
 | 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
 |:-:|:-:|:-:|:-:|
@@ -5091,7 +5108,7 @@ Notes:
 
 <!--v-->
 
-**legál** <small>**legale**</small>
+**legale**
 
 | 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
 |:-:|:-:|:-:|:-:|
@@ -5103,7 +5120,7 @@ Notes:
 
 <!--v-->
 
-**legál** <small>**legale**</small>
+**legale**
 
 | 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
 |:-:|:-:|:-:|:-:|
@@ -5121,7 +5138,7 @@ Notes:
 
 <!--v-->
 
-**león** <small>**leone**</small>
+**leone**
 
 | 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
 |:-:|:-:|:-:|:-:|
@@ -5139,12 +5156,21 @@ Notes:
 
 <!--v-->
 
-**limón** <small>**limone**</small>
+**limone**
 
 | 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
 |:-:|:-:|:-:|:-:|
 | limone | … | limone | limone |
 | *limone* | *…* | *limón* | *limão* |
+
+<!--v-->
+
+**linea**
+
+| 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
+|:-:|:-:|:-:|:-:|
+| linea | linĕa | linea | linĕa |
+| *linea* | *ligne* | *línea* | *linha* |
 
 <!--v-->
 
@@ -5154,15 +5180,6 @@ Notes:
 |:-:|:-:|:-:|:-:|
 | linguâjo | lïnguâjo | lïnguâjö | linguâjǫ̈ |
 | *linguaggio* | *langage* | *lenguaje* | *linguagem* |
-
-<!--v-->
-
-**linia** <small>**linĕa**</small>
-
-| 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
-|:-:|:-:|:-:|:-:|
-| linea | linĕa | linea | linĕa |
-| *linea* | *ligne* | *línea* | *linha* |
 
 <!--v-->
 
@@ -5289,7 +5306,7 @@ lib/liv?
 
 <!--v-->
 
-**mâr** <small>**mare**</small>
+**mare**
 
 | 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
 |:-:|:-:|:-:|:-:|
@@ -5298,7 +5315,7 @@ lib/liv?
 
 <!--v-->
 
-**mâr** <small>**mare**</small>
+**mare**
 
 | 🇪🇸 |
 |:-:|
@@ -5307,7 +5324,7 @@ lib/liv?
 
 <!--v-->
 
-**mâr** <small>**mare**</small>
+**mare**
 
 | 🇵🇹 |
 |:-:|
@@ -5366,7 +5383,7 @@ Notes:
 
 <!--v-->
 
-**mês** <small>**men̆se**</small>
+**mêse** <small>**men̆se**</small>
 
 | 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
 |:-:|:-:|:-:|:-:|
@@ -5375,7 +5392,7 @@ Notes:
 
 <!--v-->
 
-**mesîl** <small>**men̆sile**</small>
+**mesile** <small>**men̆sile**</small>
 
 | 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
 |:-:|:-:|:-:|:-:|
@@ -5388,7 +5405,7 @@ Notes:
 
 <!--v-->
 
-**millión** <small>**millione**</small>
+**millione**
 
 | 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
 |:-:|:-:|:-:|:-:|
@@ -5431,7 +5448,7 @@ Notes:
 
 <!--v-->
 
-**natión** <small>**natione**</small>
+**natione**
 
 | 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
 |:-:|:-:|:-:|:-:|
@@ -5519,7 +5536,7 @@ norma
 
 <!--v-->
 
-**officiál** <small>**officiale**</small>
+**officiale**
 
 | 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
 |:-:|:-:|:-:|:-:|
@@ -5531,7 +5548,7 @@ Notes:
 
 <!--v-->
 
-**olio** <small>**olĕo**</small>
+**oleo**
 
 | 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
 |:-:|:-:|:-:|:-:|
@@ -5564,7 +5581,7 @@ Notes:
 
 <!--v-->
 
-**pâç** <small>**pace**</small>
+**pace**
 
 | 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
 |:-:|:-:|:-:|:-:|
@@ -5573,7 +5590,7 @@ Notes:
 
 <!--v-->
 
-**pâç** <small>**pace**</small>
+**pace**
 
 | 🇪🇸 |
 |:-:|
@@ -5582,7 +5599,7 @@ Notes:
 
 <!--v-->
 
-**pâç** <small>**pace**</small>
+**pace**
 
 | 🇵🇹 |
 |:-:|
@@ -5591,7 +5608,7 @@ Notes:
 
 <!--v-->
 
-**paés** <small>**pağen̆se**</small>
+**paêse** <small>**pağen̆se**</small>
 
 | 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
 |:-:|:-:|:-:|:-:|
@@ -5609,7 +5626,7 @@ Notes:
 
 <!--v-->
 
-**pân** <small>**pane**</small>
+**pane**
 
 | 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
 |:-:|:-:|:-:|:-:|
@@ -5618,7 +5635,7 @@ Notes:
 
 <!--v-->
 
-**pân** <small>**pane**</small>
+**pane**
 
 | 🇮🇹 |
 |:-:|
@@ -5627,7 +5644,7 @@ Notes:
 
 <!--v-->
 
-**pân** <small>**pane**</small>
+**pane**
 
 | 🇪🇸 |
 |:-:|
@@ -5636,7 +5653,7 @@ Notes:
 
 <!--v-->
 
-**pân** <small>**pane**</small>
+**pane**
 
 | 🇵🇹 |
 |:-:|
@@ -5741,7 +5758,7 @@ Notes:
 
 <!--v-->
 
-**pêd** <small>**pede**</small>
+**pede**
 
 | 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
 |:-:|:-:|:-:|:-:|
@@ -5821,8 +5838,7 @@ Notes:
 
 <!--v-->
 
-**pîsç** <small>**pisce**</small>
-<!-- TODO: ĉu bone? -->
+**pisce**
 
 | 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
 |:-:|:-:|:-:|:-:|
@@ -5888,7 +5904,7 @@ Notes:
 
 <!--v-->
 
-**plovér** <small>(🇻🇦 **pluvĕre**)</small>
+**plovér** <small>(**plovĕre**, 🇻🇦 **pluvĕre**)</small>
 
 | 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
 |:-:|:-:|:-:|:-:|
@@ -6025,7 +6041,7 @@ Notes:
 
 <!--v-->
 
-**radíç** <small>**radice**</small>
+**radice**
 
 | 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
 |:-:|:-:|:-:|:-:|
@@ -6064,7 +6080,7 @@ Notes:
 
 <!--v-->
 
-**rên** <small>**rene**</small>
+**rene**
 
 | 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
 |:-:|:-:|:-:|:-:|
@@ -6116,7 +6132,7 @@ Notes:
 
 <!--v-->
 
-**sâl** <small>**sale**</small>
+**sale**
 
 | 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
 |:-:|:-:|:-:|:-:|
@@ -6125,7 +6141,7 @@ Notes:
 
 <!--v-->
 
-**sâl** <small>**sale**</small>
+**sale**
 
 | 🇪🇸 |
 |:-:|
@@ -6134,7 +6150,7 @@ Notes:
 
 <!--v-->
 
-**sâl** <small>**sale**</small>
+**sale**
 
 | 🇵🇹 |
 |:-:|
@@ -6161,7 +6177,7 @@ Notes:
 
 <!--v-->
 
-**salón** <small>**salone**</small>
+**salone**
 
 | 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
 |:-:|:-:|:-:|:-:|
@@ -6170,7 +6186,7 @@ Notes:
 
 <!--v-->
 
-**salón** <small>**salone**</small>
+**salone**
 
 | 🇵🇹 |
 |:-:|
@@ -6346,7 +6362,7 @@ Notes:
 
 <!--v-->
 
-**sîn** <small>**sine**</small>
+**sine**
 
 | 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
 |:-:|:-:|:-:|:-:|
@@ -6598,7 +6614,7 @@ Notes:
 
 <!--v-->
 
-**unión** <small>**unione**</small>
+**unio** <small>**unione**</small>
 
 | 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
 |:-:|:-:|:-:|:-:|
@@ -6670,7 +6686,7 @@ Slides:
 
 <!--v-->
 
-**visión** <small>**visione**</small>
+**visio** <small>**visione**</small>
 
 | 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
 |:-:|:-:|:-:|:-:|
@@ -6679,7 +6695,7 @@ Slides:
 
 <!--v-->
 
-**vôç** <small>**voce**</small>
+**voce**
 
 | 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
 |:-:|:-:|:-:|:-:|
