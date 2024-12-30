@@ -2178,13 +2178,7 @@ La grekismaj ŝajnfinaĵoj **-i**, **-ia** *[ia]*, **-a**, **-e** havas signifoj
 
 <!--v-->
 
-<small>Nur sufiksofina **t** fariĝas **d**.</small>
-
-<!-- TODO
-rete → rêd?
-site → sîd?
-sito → sîdo?
--->
+<small>Sufiksofina **t** fariĝas **d**.</small>
 
 <!--v-->
 
