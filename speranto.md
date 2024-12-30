@@ -3745,54 +3745,54 @@ Notes:
 * mano: FR æ
 * manos: IT -i
 * in: FR en, PT -n
-* bên: ES/PT -ne (FR en)
-* pân: PT -ane
+* bene: ES/PT -ne (FR en)
+* pane: PT -ane
 * panes: ES/PT -nes
 * sana: PT -ana
 * bona: PT -ona
 * bono: PT -ono
 <!-- -->
-* salón: PT -one
+* salone: PT -one
 * salones: PT -ones
 * salto: FR/PT al
-* sâl: ES/PT -le
+* sale: ES/PT -le
 * sales: PT -les
-* mâr: ES/PT -re
+* mare: ES/PT -re
 * mares: ES/PT -res
-* perdér: FR/ES/PT -ĕre
-* pensár: FR -æɍe
-* paç: ES/PT -ce
+* perdĕre: FR/ES/PT -ĕre
+* pensare: FR -æɍe
+* pace: ES/PT -ce
 * schola: FR/ES/PT s̃
 * hora: IT/FR/ES/PT h, FR ø
 * alio: lĭ
 * campania: nĭ
-* natión: ti/tĭ
-* olio: lĕ
-* linia: nĕ
-* paés: -en̆se
+* natione: ti/tĭ
+* oleo: lĕ
+* linea: nĕ
+* paese: -en̆se
 * plaça: tĕ
 * fineça: -ïtĕa
 * maio: j (FR ai)
-* jurár: j
-* pronuntiár: IT tj
+* jurare: j
+* pronuntiare: IT tj
 * diurnata: dj
 <!-- -->
 * foco: FR/SP c̆
 * mâistro: IT/FR/ES/PT ğ
-* hospitál: IT t̯
-* pêd: ES/PT d̯
-* opera: FR/ES/PT p̆
-* scrivér: FR v̆
+* hospitale: IT t̯
+* pede: ES/PT d̯
+* opĕra: FR/ES/PT p̆
+* scrivĕre: FR v̆
 * folia: ES f̯
 * linguâjo: IT/FR/ES/PT -at̯ĭc̆o
 <!-- -->
 * delicia: IT ȼ
-* cantár: FR ĉ
+* cantare: FR ĉ
 * luxo: ES/PT x̂
 * russa: ES/PT ŝ
 <!-- -->
 * lacte: IT ct, FR/ES/PT ċt
-* doctór: PT c̊t
+* doctore: PT c̊t
 <!-- -->
 * flamma: IT/ES/PT ḷ
 * blanca: PT l̯
@@ -3921,7 +3921,7 @@ Notes:
 
 <!--v-->
 
-**alçár** <small>**altĕare**</small>
+**alçare** <small>**altĕare**</small>
 
 | 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
 |:-:|:-:|:-:|:-:|
@@ -4048,7 +4048,7 @@ ap̆ud-höc
 
 <!--v-->
 
-**auscultár** <small>**auscultare**</small>
+**auscultare**
 
 | 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
 |:-:|:-:|:-:|:-:|
@@ -4112,7 +4112,7 @@ Notes:
 
 <!--v-->
 
-**basiár** <small>**basiare**</small>
+**basiare**
 
 | 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
 |:-:|:-:|:-:|:-:|
@@ -4143,7 +4143,6 @@ Notes:
 <!--v-->
 
 **bene**
-<!-- TODO bên en Lingua Intermediaria? -->
 
 | 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
 |:-:|:-:|:-:|:-:|
@@ -4273,7 +4272,6 @@ Notes:
 <!--v-->
 
 **cane**
-<!-- TODO cân en Lingua Intermediaria -->
 
 | 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
 |:-:|:-:|:-:|:-:|
@@ -4303,7 +4301,7 @@ Notes:
 
 <!--v-->
 
-**cantár** <small>**cantare**</small>
+**cantare**
 
 | 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
 |:-:|:-:|:-:|:-:|
@@ -4312,7 +4310,7 @@ Notes:
 
 <!--v-->
 
-**cantio** <small>**cantione**</small>
+**cantione**
 
 | 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
 |:-:|:-:|:-:|:-:|
@@ -4360,7 +4358,7 @@ Notes:
 
 <!--v-->
 
-**castania** <small>**castanĕa**</small>
+**castanĕa**
 
 | 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
 |:-:|:-:|:-:|:-:|
@@ -4454,7 +4452,7 @@ Notes:
 
 <!--v-->
 
-**cominitiár** <small>**cominitiare**</small>
+**cominitiare**
 
 | 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
 |:-:|:-:|:-:|:-:|
@@ -4475,7 +4473,7 @@ Notes:
 
 <!--v-->
 
-**coprír** <small>**coprire**</small>
+**coprire**
 
 | 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
 |:-:|:-:|:-:|:-:|
@@ -4550,7 +4548,7 @@ Notes:
 
 <!--v-->
 
-**duplár** <small>**duplare**</small>
+**duplare**
 
 | 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
 |:-:|:-:|:-:|:-:|
@@ -4580,7 +4578,7 @@ Notes:
 
 <!--v-->
 
-**dormír** <small>**dormire**</small>
+**dormire**
 
 | 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
 |:-:|:-:|:-:|:-:|
@@ -4617,7 +4615,7 @@ Notes:
 
 <!--v-->
 
-**enuntiatio** <small>**enuntiatione**</small>
+**enuntiatione**
 
 | 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
 |:-:|:-:|:-:|:-:|
@@ -4659,7 +4657,7 @@ Notes:
 
 <!--v-->
 
-**fabulár** <small>**fabulare**</small>
+**fabulare**
 
 | 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
 |:-:|:-:|:-:|:-:|
@@ -4921,7 +4919,6 @@ Notes:
 <!--v-->
 
 **haveamo**
-<!-- TODO "haviamo" ne necesas, ĉu? - Aŭ eble nur en Lingua Intermediaria. -->
 
 | 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
 |:-:|:-:|:-:|:-:|
@@ -5011,7 +5008,7 @@ Notes:
 
 <!--v-->
 
-**initiár** <small>**initiare**</small>
+**initiare**
 
 | 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
 |:-:|:-:|:-:|:-:|
@@ -5020,7 +5017,7 @@ Notes:
 
 <!--v-->
 
-**intrár** <small>**intrare**</small>
+**intrare**
 
 | 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
 |:-:|:-:|:-:|:-:|
@@ -5053,7 +5050,7 @@ Notes:
 
 <!--v-->
 
-**jurár** <small>**jurare**</small>
+**jurare**
 
 | 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
 |:-:|:-:|:-:|:-:|
@@ -5437,6 +5434,7 @@ Notes:
 <!--v-->
 
 **museo**
+<!-- TODO regulo: akcento estas sur la "e" en grekaj vortoj; cf. -ia -->
 
 | 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
 |:-:|:-:|:-:|:-:|
@@ -5549,7 +5547,7 @@ Notes:
 
 <!--v-->
 
-**oleo**
+**olĕo**
 
 | 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
 |:-:|:-:|:-:|:-:|
@@ -5683,7 +5681,7 @@ Notes:
 
 <!--v-->
 
-**parlár** <small>**parăv̆ŏlare**</small>
+**parlare** <small>**parăv̆ŏlare**</small>
 
 | 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
 |:-:|:-:|:-:|:-:|
@@ -5768,7 +5766,7 @@ Notes:
 
 <!--v-->
 
-**pensár** <small>**pensare**</small>
+**pensare**
 
 | 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
 |:-:|:-:|:-:|:-:|
@@ -5790,7 +5788,7 @@ Notes:
 
 <!--v-->
 
-**perdér** <small>**perdĕre**</small>
+**perdĕre**
 
 | 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
 |:-:|:-:|:-:|:-:|
@@ -5905,7 +5903,7 @@ Notes:
 
 <!--v-->
 
-**plovér** <small>(**plovĕre**, 🇻🇦 **pluvĕre**)</small>
+**plovĕre** <small>(🇻🇦 **pluvĕre**)</small>
 
 | 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
 |:-:|:-:|:-:|:-:|
@@ -5958,7 +5956,7 @@ Notes:
 
 <!--v-->
 
-**pronuntiár** <small>**pronuntiare**</small>
+**pronuntiare**
 
 | 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
 |:-:|:-:|:-:|:-:|
@@ -6263,7 +6261,7 @@ Notes:
 
 <!--v-->
 
-**sapér** <small>**sapere**</small>
+**sapere**
 
 | 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
 |:-:|:-:|:-:|:-:|
@@ -6312,7 +6310,7 @@ Notes:
 
 <!--v-->
 
-**scrivér** <small>**scrivĕre**</small>
+**scrivĕre**
 
 | 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
 |:-:|:-:|:-:|:-:|
@@ -6488,7 +6486,7 @@ Notes:
 
 <!--v-->
 
-**tenér** <small>**tenere**</small>
+**tenere**
 
 | 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
 |:-:|:-:|:-:|:-:|
@@ -6615,7 +6613,7 @@ Notes:
 
 <!--v-->
 
-**unio** <small>**unione**</small>
+**unione**
 
 | 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
 |:-:|:-:|:-:|:-:|
@@ -6643,7 +6641,7 @@ Slides:
 
 <!--v-->
 
-**valér** <small>**valere**</small>
+**valere**
 
 | 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
 |:-:|:-:|:-:|:-:|
@@ -6687,7 +6685,7 @@ Slides:
 
 <!--v-->
 
-**visio** <small>**visione**</small>
+**visione**
 
 | 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
 |:-:|:-:|:-:|:-:|
@@ -6709,7 +6707,7 @@ Notes:
 
 <!--v-->
 
-**volár** <small>**volare**</small>
+**volare**
 
 | 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
 |:-:|:-:|:-:|:-:|
