@@ -1299,8 +1299,17 @@ Aldone, la plimulto de la finaĵoj de la interaj dialektoj varias. Ekzemple, dum
 | temo | **themo** *[temo]* |
 | eĥo | **echo** *[eko]* |
 | ritmo | **rhythmo** *[ritmo]* |
-| | |
+
+<!--v-->
+
+Malkiel en latinidaj vortoj, grekida radikofina vokalo portas la akcenton.
+
+<!--v-->
+
+| Esperanto | Linguo |
+|-|-|
 | burokratio | **burocratio** *[burokratio]* |
+| ideo | **idea** *[idea]* |
 
 <!--v-->
 
@@ -1755,18 +1764,11 @@ Tra bruo, la prepozicio **a** uziĝas por la indiki la rektan objekton. (Tiam uz
 
 <!--v-->
 
-<!-- TODO klarigo -->
-
-| Esperanto | Lingua |
-|-|-|
-| "starado", stacio | **statione** |
-| "starmaniero", staro | **stato** |
-| "staranto", statoro | **statore** |
-| "staraĵo", staturo | **statura** |
+La finaĵoj **-ione**, **-o**, **-ore** kaj **-ura** 
 
 <!--v-->
 
-La grekismaj ŝajnfinaĵoj **-i**, **-ia** *[ia]*, **-a**, **-e** havas signifojn similajn al la ŝajnfinaĵoj **-ione**, **-o**, **-ore**, **-ura**.
+<small>La grekismaj ŝajnfinaĵoj **-i**, **-ia**, **-a**, **-e** havas signifojn similajn al la ŝajnfinaĵoj **-ione**, **-o**, **-ore**, **-ura**.</small>
 
 <!--v-->
 
@@ -1776,6 +1778,11 @@ La grekismaj ŝajnfinaĵoj **-i**, **-ia** *[ia]*, **-a**, **-e** havas signifoj
 | "lumskribmaniero", fotografio | **photographia** |
 | "lumskribanto", fotografisto | **photographa** |
 | "lumskribaĵo", fotografaĵo | **photographe** |
+| | |
+| "starado", stacio | **statione** |
+| "starmaniero", staro | **stato** |
+| "staranto", statoro | **statore** |
+| "staraĵo", staturo | **statura** |
 
 <!--v-->
 
@@ -5434,7 +5441,6 @@ Notes:
 <!--v-->
 
 **museo**
-<!-- TODO regulo: akcento estas sur la "e" en grekaj vortoj; cf. -ia -->
 
 | 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
 |:-:|:-:|:-:|:-:|
@@ -6601,15 +6607,8 @@ Notes:
 
 | 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
 |:-:|:-:|:-:|:-:|
-| una | yna | una | uña |
+| una | yna | una | uma |
 | *una* | *une* | *una* | *uma* |
-
-<!--v-->
-
-| 🇵🇹 |
-|:-:|
-| uña = uma |
-| *uma* |
 
 <!--v-->
 
@@ -6626,14 +6625,19 @@ Notes:
 
 | 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
 |:-:|:-:|:-:|:-:|
-| *uno* | *um* | *uno* | *um* |
+| uno | yno | uno | uno |
+| *uno* | *un* | *uno* | *um* |
 
-Slides:
-* `...`
+<!-- TODO PT estas malklara -->
 
 <!--v-->
 
-| universitate | üniversitäte *[université]* |
+**universitate**
+
+| 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
+|:-:|:-:|:-:|:-:|
+| universitat̯ĕ | universitate | universit̯at̯e | universit̯at̯e |
+| *università* | *université* | *universidad* | *universidade* |
 
 <!--v-->
 
