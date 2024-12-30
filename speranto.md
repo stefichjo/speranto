@@ -1654,11 +1654,11 @@ Tra bruo, la prepozicio **a** uziĝas por la indiki la rektan objekton. (Tiam uz
 
 <!--v-->
 
-> **Si nos etja supponerá, qŭe<br> la lingua finale de las futuras<br> generatios sîa nôn Sperante, in<br> omna occasio la via ad illi<br> lingua elavorenda infallibilmente<br> deve conducér trans Sperante.**
+> **Si nos etja supponerá, qŭe<br> la lingua finale de las futuras<br> generationes sîa nôn Sperante, in<br> omna occasione la via ad illi<br> lingua elavorenda infallibilmente<br> deve conducér trans Sperante.**
 
 <!--v-->
 
-> [Si nos eĉa suponera', ke<br> la liŋgŭa finale de las futuras<br> ĵenerasjos sia non Sperante, in<br> omna okazjo la via ad ili<br> liŋgŭa elavorenda infalibilmente<br> deve konduser' trans Sperante.]
+> [Si nos eĉa suponera', ke<br> la liŋgŭa finale de las futuras<br> ĵenerasjones sia non Sperante, in<br> omna okazjone la via ad ili<br> liŋgŭa elavorenda infalibilmente<br> deve konduser' trans Sperante.]
 
 <!--v-->
 
@@ -1667,18 +1667,18 @@ Tra bruo, la prepozicio **a** uziĝas por la indiki la rektan objekton. (Tiam uz
 | Se ni eĉ supozos | **Si nos etja supponerá**<br> *[Si nos eĉa suponera']* |
 | ke la fina lingvo | **qŭe la lingua finale**<br> *[ke la liŋgŭa finale]* |
 | de la | **de las**<br> *[de las]* |
-| estontaj generacioj | **futuras generatios**<br> *[futuras ĵenerasjos]* |
+| estontaj generacioj | **futuras generationes**<br> *[futuras ĵenerasjones]* |
 | estas ne Esperanto | **sîa nôn Sperante**<br> *[sia non Sperante]* |
 
 <!--v-->
 
 | Esperanto | Lingua |
 |-|-|
-| en ĉiu okazo | **in omna occasio**<br> *[in omna okazjo]* |
+| en ĉiu okazo | **in omna occasione**<br> *[in omna okazjone]* |
 | la vojo al tiu | **la via ad illi**<br> *[la via ad ili]* |
 | ellaborota lingvo | **lingua elavorenda**<br> *[liŋgŭa elavorenda]* |
 | nepre devas | **infallibilmente deve**<br> *[infalibilmente deve]* |
-| konduki tra Esperanto | **conducér trans S-e**<br> *[konduser' trans Sperante]* |
+| konduki tra Esperanto | **conducĕre trans S-e**<br> *[konduse-re trans Sperante]* |
 
 <!--v-->
 
@@ -1709,9 +1709,9 @@ Tra bruo, la prepozicio **a** uziĝas por la indiki la rektan objekton. (Tiam uz
 | marto | **martedie** |
 | merkredo | **mercuriodie** |
 | ĵaŭdo | **jovedie** |
-| vendredo | **venĕredie** |
+| vendredo | **veneredie** |
 | sabato | **saturnodie** |
-| dimanĉo | **domĭnodie** |
+| dimanĉo | **dominodie** |
 
 <!--v-->
 
@@ -1755,21 +1755,18 @@ Tra bruo, la prepozicio **a** uziĝas por la indiki la rektan objekton. (Tiam uz
 
 <!--v-->
 
-<small>Substantivigitaj verboj, kiuj finiĝas je **-io** estas pruntitaj el la latina nominativo: **statio** *[stasjo]*.</small>
-<!-- TODO <small>**statione**</small> -->
-
-<!--v-->
+<!-- TODO klarigo -->
 
 | Esperanto | Lingua |
 |-|-|
-| "starado", stacio | **statio** |
+| "starado", stacio | **statione** |
 | "starmaniero", staro | **stato** |
 | "staranto", statoro | **statore** |
 | "staraĵo", staturo | **statura** |
 
 <!--v-->
 
-La grekismaj ŝajnfinaĵoj **-i**, **-ia** *[ia]*, **-a**, **-e** havas signifojn similajn al la ŝajnfinaĵoj **-io**, **-o**, **-ore**, **-ura**.
+La grekismaj ŝajnfinaĵoj **-i**, **-ia** *[ia]*, **-a**, **-e** havas signifojn similajn al la ŝajnfinaĵoj **-ione**, **-o**, **-ore**, **-ura**.
 
 <!--v-->
 
@@ -1922,13 +1919,13 @@ La grekismaj ŝajnfinaĵoj **-i**, **-ia** *[ia]*, **-a**, **-e** havas signifoj
 
 | Esperanto | Lingua |
 |-|-|
-| iri | **îr** <small>**ire**</small> |
+| iri | **ire** |
 | | |
-| ami | **amár** <small>**amare**</small> |
-| vidi | **vidér** <small>**videre**</small> |
-| aŭdi | **audír** <small>**audire**</small> |
+| ami | **amare** |
+| vidi | **videre** |
+| aŭdi | **audire** |
 | | |
-| venki | **vincér** <small>**vincĕre**</small> |
+| venki | **vincĕre** |
 
 <!--v-->
 
@@ -1939,8 +1936,10 @@ La grekismaj ŝajnfinaĵoj **-i**, **-ia** *[ia]*, **-a**, **-e** havas signifoj
 | Esperanto | Lingua |
 |-|-|
 | amu! | **ama(te)!** |
-| vidi! | **vide(te)!** |
-| aŭdi! | **audi(te)!** |
+| vidu! | **vide(te)!** |
+| aŭdu! | **audi(te)!** |
+| | |
+| venku! | **vince(te)!** |
 
 <!--v-->
 
@@ -1970,6 +1969,8 @@ La grekismaj ŝajnfinaĵoj **-i**, **-ia** *[ia]*, **-a**, **-e** havas signifoj
 | amas | **ama** |
 | vidas | **vide** |
 | aŭdas | **audi** |
+| | |
+| venkas | **vince** |
 
 <!--v-->
 
@@ -1978,6 +1979,8 @@ La grekismaj ŝajnfinaĵoj **-i**, **-ia** *[ia]*, **-a**, **-e** havas signifoj
 | amis | **amava** |
 | vidis | **videva** |
 | aŭdis | **audiva** |
+| | |
+| venkis | **vinceva** |
 
 <!--v-->
 
@@ -1986,6 +1989,8 @@ La grekismaj ŝajnfinaĵoj **-i**, **-ia** *[ia]*, **-a**, **-e** havas signifoj
 | amos | **amará** |
 | vidos | **viderá** |
 | aŭdos | **audirá** |
+| | |
+| venkos | **vincerá** |
 
 <!--v-->
 
@@ -1994,6 +1999,8 @@ La grekismaj ŝajnfinaĵoj **-i**, **-ia** *[ia]*, **-a**, **-e** havas signifoj
 | (ke) amu | **ame** |
 | (ke) vidu | **videa** |
 | (ke) aŭdu | **audia** |
+| | |
+| (ke) venku | **vincea** |
 
 <!--v-->
 
@@ -2002,6 +2009,8 @@ La grekismaj ŝajnfinaĵoj **-i**, **-ia** *[ia]*, **-a**, **-e** havas signifoj
 | (se/do) amus | **amaría** |
 | (se/do) vidus | **videría** |
 | (se/do) aŭdus | **audiría** |
+| | |
+| (se/do) venkus | **vincería** |
 
 <!--v-->
 
@@ -2018,6 +2027,8 @@ La grekismaj ŝajnfinaĵoj **-i**, **-ia** *[ia]*, **-a**, **-e** havas signifoj
 | amata | **amata** |
 | vidata | **vidĭta** |
 | aŭdata | **audita** |
+| | |
+| venkata | **vincĭta** |
 
 <!--v-->
 
@@ -2038,6 +2049,8 @@ La grekismaj ŝajnfinaĵoj **-i**, **-ia** *[ia]*, **-a**, **-e** havas signifoj
 | estas aminta | **hâ amato** |
 | estas vidinta | **hâ vidĭto** |
 | estas aŭdinta | **hâ audito** |
+| | |
+| estas venkinta | **hâ vincĭto** |
 
 <!--v-->
 
@@ -2046,6 +2059,8 @@ La grekismaj ŝajnfinaĵoj **-i**, **-ia** *[ia]*, **-a**, **-e** havas signifoj
 | estis aminta | **haveva amato** |
 | estis vidinta | **haveva vidĭto** |
 | estis aŭdinta | **haveva audito** |
+| | |
+| estis venkinta | **haveva vincĭto** |
 
 <!--v-->
 
@@ -2054,6 +2069,8 @@ La grekismaj ŝajnfinaĵoj **-i**, **-ia** *[ia]*, **-a**, **-e** havas signifoj
 | estos aminta | **hará amato** |
 | estos vidinta | **hará vidĭto** |
 | estos aŭdinta | **hará audito** |
+| | |
+| estos venkinta | **hará vincĭto** |
 
 <!--v-->
 
@@ -2258,16 +2275,6 @@ sito → sîdo?
 <!--v-->
 
 ## Substantivoj
-
-<!--v-->
-
-<small>Substantivoj kun la finaĵo **-io** en la latina nominativo finiĝas je **-ione**.</small>
-
-<!--v-->
-
-| Esperanto | Intermediaria |
-|-|-|
-| stacio | **statión** <small>**statione**</small> *[stasjon']* <small>*[staŧione]*</small> |
 
 <!--v-->
 
