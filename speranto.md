@@ -1654,11 +1654,11 @@ Tra bruo, la prepozicio **a** uziĝas por la indiki la rektan objekton. (Tiam uz
 
 <!--v-->
 
-> **Si nos etja supponerá, qŭe<br> la lingua finale de las futuras<br> generationes sîa nôn Sperante, in<br> omna occasione la via ad illi<br> lingua elavorenda infallibilmente<br> deve conducér trans Sperante.**
+> **Si nos etja supponerá, qŭe<br> la lingua finale de las futuras<br> generationes sîa nôn Sperante, in<br> omna occasione la via ad illi<br> lingua elavorenda infallibilmente<br> deve conducĕre trans Sperante.**
 
 <!--v-->
 
-> [Si nos eĉa suponera', ke<br> la liŋgŭa finale de las futuras<br> ĵenerasjones sia non Sperante, in<br> omna okazjone la via ad ili<br> liŋgŭa elavorenda infalibilmente<br> deve konduser' trans Sperante.]
+> [Si nos eĉa suponera', ke<br> la liŋgŭa finale de las futuras<br> ĵenerasjones sia non Sperante, in<br> omna okazjone la via ad ili<br> liŋgŭa elavorenda infalibilmente<br> deve konduse-re trans Sperante.]
 
 <!--v-->
 
