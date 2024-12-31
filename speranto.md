@@ -3746,7 +3746,6 @@ Notes:
 * pilo: IT/SP/PT ï
 * muro: FR y
 * auro: IT/FR/ES/PT au
-* torre: LA u
 <!-- -->
 * banco: FR/PT ą
 * mano: FR æ
@@ -4505,6 +4504,7 @@ Notes:
 <!--v-->
 
 | culo | c̄ylo *[cul]* |
+<!-- TODO culo -->
 
 <!--v-->
 
@@ -4787,17 +4787,17 @@ Notes:
 
 | 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
 |:-:|:-:|:-:|:-:|
-| forma | forma | forma | forma |
+| forma | formă | forma | forma |
 | *forma* | *forme* | *forma* | *forma* |
 
 <!--v-->
 
 **forma**
 
-| 🇫🇷 |
-|:-:|
-| forma = formă |
-| *forme* |
+| 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
+|:-:|:-:|:-:|:-:|
+| forma | forma | forma | forma |
+| *forma* | *forme* | *forma* | *forma* |
 
 <!--v-->
 
@@ -5053,7 +5053,7 @@ Notes:
 
 | 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
 |:-:|:-:|:-:|:-:|
-| jurare | jyræɍe | jurare | jurare |
+| jurare | juræɍe | jurare | jurare |
 | *giurare* | *jurer* | *jurar* | *jurar* |
 
 <!--v-->
@@ -5062,7 +5062,7 @@ Notes:
 
 | 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
 |:-:|:-:|:-:|:-:|
-| justa | jys̄ta | justa | justa |
+| justa | jus̄ta | justa | justa |
 | *giusta* | *juste* | *justa* | *justa* |
 
 <!--v-->
@@ -5209,7 +5209,7 @@ lib/liv?
 
 | 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
 |:-:|:-:|:-:|:-:|
-| luxo | lyxo | lux̂o | lux̂o |
+| luxo | luxo | lux̂o | lux̂o |
 | *lusso* | *luxe* | *lujo* | *luxo* |
 
 <!--v-->
@@ -5428,6 +5428,15 @@ Notes:
 | 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
 |:-:|:-:|:-:|:-:|
 | muro | myro | muro | muro |
+| *muro* | *mur* | *muro* | *muro* |
+
+<!--v-->
+
+**muro**
+
+| 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
+|:-:|:-:|:-:|:-:|
+| muro | muro | muro | muro |
 | *muro* | *mur* | *muro* | *muro* |
 
 <!--v-->
@@ -5690,28 +5699,19 @@ Notes:
 
 **parte**
 
-| 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
+| 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹/🇧🇷 |
 |:-:|:-:|:-:|:-:|
-| parte | parte | parte | parte |
+| parte | parte | parte | partĕ/partė |
 | *parte* | *part* | *parte* | *parte* |
 
 <!--v-->
 
 **parte**
 
-| 🇵🇹 |
-|:-:|
-| parte = partĕ |
-| *parte* |
-
-<!--v-->
-
-**parte**
-
-| 🇵🇹 | 🇧🇷 |
-|:-:|:-:|
-| parte = partĕ | parte = partė |
-| *parte* | *parte* |
+| 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
+|:-:|:-:|:-:|:-:|
+| parte | parte | parte | parte |
+| *parte* | *part* | *parte* | *parte* |
 
 <!--v-->
 
@@ -6004,17 +6004,17 @@ Notes:
 
 | 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
 |:-:|:-:|:-:|:-:|
-| quattro | quattro | quattro | quattro |
+| quattro | qŭattro | quattro | quattro |
 | *quattro* | *quatre* | *cuatro* | *quatro* |
 
 <!--v-->
 
 **quattro**
 
-| 🇫🇷 |
-|:-:|
-| quattro = qŭattro |
-| *quatre* |
+| 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
+|:-:|:-:|:-:|:-:|
+| quattro | quattro | quattro | quattro |
+| *quattro* | *quatre* | *cuatro* | *quatro* |
 
 <!--v-->
 
@@ -6022,7 +6022,7 @@ Notes:
 
 | 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
 |:-:|:-:|:-:|:-:|
-| qŭe | qŭė̃ | qŭe | qŭe |
+| qŭe | quė̃ | qŭe | qŭe |
 | *che* | *quoi* | *que* | *que* |
 
 Notes:
@@ -6030,7 +6030,7 @@ Notes:
 
 <!--v-->
 
-| qui | qui = qŭi *[qui]* |
+| qui | qui *[qui]* |
 
 <!--v-->
 
@@ -6438,9 +6438,6 @@ Notes:
 | systema | systema | systema | systema |
 | *sistema* | *système* | *sistema* | *sistema* |
 
-Notes:
-* `:)` y
-
 <!--v-->
 
 ## T
@@ -6589,7 +6586,7 @@ Notes:
 
 <!--v-->
 
-| tu | tü = ty *[tu]* |
+| tu | tu *[tu]* |
 
 <!--v-->
 
@@ -6599,7 +6596,7 @@ Notes:
 
 | 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
 |:-:|:-:|:-:|:-:|
-| una | yna | una | uma |
+| una | una | una | uma |
 | *una* | *une* | *una* | *uma* |
 
 <!--v-->
@@ -6608,7 +6605,7 @@ Notes:
 
 | 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
 |:-:|:-:|:-:|:-:|
-| unione | ynione | unione | unione |
+| unione | unione | unione | unione |
 | *unione* | *union* | *unión* | *união* |
 
 <!--v-->
@@ -6617,7 +6614,7 @@ Notes:
 
 | 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
 |:-:|:-:|:-:|:-:|
-| uno | yno | uno | uno |
+| uno | uno | uno | uno |
 | *uno* | *un* | *uno* | *um* |
 
 <!-- TODO PT estas malklara -->
@@ -6835,7 +6832,6 @@ cella collo programma anno rara casa rosa acto nocturna tacto tecto trato victĭ
 
 -->
 
-<!-- æ ø y statt ä ö ü verwenden (cøre, mære) -->
 <!-- e statt ø und æ verwenden (federatione, presentatione) -->
 <!-- weibliche adjektive verwenden (active statt actif) -->
 
