@@ -1302,7 +1302,7 @@ Aldone, la plimulto de la finaĵoj de la interaj dialektoj varias. Ekzemple, dum
 
 <!--v-->
 
-Malkiel en latinidaj vortoj, grekida radikofina vokalo portas la akcenton.
+<small>Malkiel en latinidaj vortoj, grekida radikofina vokalo portas la akcenton.</small>
 
 <!--v-->
 
@@ -2201,6 +2201,16 @@ La finaĵoj **-ione**, **-o**, **-ore** kaj **-ura**
 <!--v-->
 
 ### Elizioj
+
+<!--v-->
+
+<small>**h** estas muta, krom en trabrua prononco.</small>
+
+<!--v-->
+
+| Esperanto | Intermediaria |
+|-|-|
+| horo | **hora** *[ora]* <small>*[hora]*</small> |
 
 <!--v-->
 
@@ -3510,16 +3520,6 @@ Duoblaj vokaloj en finaĵoj estas skribataj kun makrono.
 | sen | **sîn** |
 | | |
 | tuta | **toda** |
-
-<!--v-->
-
-<small>**h** estas muta.</small>
-
-<!--v-->
-
-| Esperanto | Meridionál |
-|-|-|
-| horo | **hora** *[ora]* |
 
 <!--v-->
 
