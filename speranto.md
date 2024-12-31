@@ -3868,9 +3868,7 @@ Notes:
 | |
 | Linguo - Lingue - Lingua |
 | |
-| Classĭca - Intermediaria - Meridionál |
-| |
-| *Naciaj* |
+| *Ŝajn-Fontaj* |
 | |
 
 <!--v-->
@@ -3881,9 +3879,7 @@ Notes:
 | |
 | Linguo - Lingue - Lingua |
 | |
-| Classĭca - Intermediaria - Meridionál |
-| |
-| 🇮🇹 🇫🇷 🇪🇸 🇵🇹 |
+| *Fontaj* |
 | |
 
 <!--v-->
@@ -3894,11 +3890,7 @@ Notes:
 | |
 | Linguo - Lingue - Lingua |
 | |
-| Classĭca - Intermediaria - Meridionál |
-| |
-| 🇮🇹 🇫🇷 🇪🇸 🇵🇹 |
-| |
-| 🇻🇦 |
+| 🇻🇦 🇮🇹 🇫🇷 🇪🇸 🇵🇹 |
 | |
 
 <!--v-->
