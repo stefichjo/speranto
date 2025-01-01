@@ -3733,6 +3733,7 @@ Duoblaj vokaloj en finaĵoj estas skribataj kun makrono.
 ## Internacia Ortografio de Ponta Lingvo
 
 Notes:
+<!-- vokaloj -->
 * forma: FR -a
 * sacco: FR c
 * terra: ES ẽ
@@ -3746,7 +3747,7 @@ Notes:
 * pilo: IT/SP/PT ï
 * muro: FR y
 * auro: IT/FR/ES/PT au
-<!-- -->
+<!-- nazaloj -->
 * banco: FR/PT ą
 * mano: FR æ
 * manos: IT -i
@@ -4066,26 +4067,17 @@ Notes:
 
 | 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
 |:-:|:-:|:-:|:-:|
-| banco | banco | banco | banco |
+| banco | bąn̆co | banco | bąn̆co |
 | *banco* | *banc* | *banco* | *banco* |
 
 <!--v-->
 
 **banco**
 
-| 🇫🇷 |
-|:-:|
-| banco = bą |
-| *banc* |
-
-<!--v-->
-
-**banco**
-
-| 🇵🇹 |
-|:-:|
-| banco = bącu |
-| *banco* |
+| 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
+|:-:|:-:|:-:|:-:|
+| banco | banco | banco | banco |
+| *banco* | *banc* | *banco* | *banco* |
 
 <!--v-->
 
@@ -4198,17 +4190,26 @@ Notes:
 
 | 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
 |:-:|:-:|:-:|:-:|
-| bõna | bona | bõna | bona |
+| bõna | bona | bõna | bon̆a |
 | *buona* | *bonne* | *buena* | *boa* |
 
 <!--v-->
 
 **bona**
 
-| 🇵🇹 |
-|:-:|
-| bona = boa <small>bon̆a</small> |
-| *boa* |
+| 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
+|:-:|:-:|:-:|:-:|
+| bõna | bona | bõna | bona |
+| *buona* | *bonne* | *buena* | *boa* |
+
+<!--v-->
+
+**bono**
+
+| 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
+|:-:|:-:|:-:|:-:|
+| bõno | bono | bõno | bonŏ |
+| *buono* | *bon* | *bueno* | *bom* |
 
 <!--v-->
 
@@ -4218,15 +4219,6 @@ Notes:
 |:-:|:-:|:-:|:-:|
 | bõno | bono | bõno | bono |
 | *buono* | *bon* | *bueno* | *bom* |
-
-<!--v-->
-
-**bono**
-
-| 🇵🇹 |
-|:-:|
-| bono = bǫ <small>bǫn̆ŏ</small> |
-| *bom* |
 
 <!--v-->
 
@@ -4981,17 +4973,17 @@ Notes:
 
 | 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
 |:-:|:-:|:-:|:-:|
-| in | ïn | ïn | ïn |
+| in | ȋn | ïn | ïn |
 | *in* | *en* | *en* | *em* |
 
 <!--v-->
 
 **in**
 
-| 🇫🇷 |
-|:-:|
-| ïn = en = ą |
-| *en* |
+| 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
+|:-:|:-:|:-:|:-:|
+| in | ïn | ïn | ïn |
+| *in* | *en* | *en* | *em* |
 
 <!--v-->
 
@@ -5636,26 +5628,17 @@ Notes:
 
 | 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
 |:-:|:-:|:-:|:-:|
-| pane | pæne | pane | pane |
+| pane | pæne | panĕ | pane̊ |
 | *pane* | *pain* | *pan* | *pão* |
 
 <!--v-->
 
 **pane**
 
-| 🇮🇹 |
-|:-:|
-| pane |
-| *pane* |
-
-<!--v-->
-
-**pane**
-
-| 🇪🇸 |
-|:-:|
-| pane = panĕ |
-| *pan* |
+| 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
+|:-:|:-:|:-:|:-:|
+| pane | pæne | pane | pane |
+| *pane* | *pain* | *pan* | *pão* |
 
 <!--v-->
 
@@ -6241,17 +6224,17 @@ Notes:
 
 | 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
 |:-:|:-:|:-:|:-:|
-| sana | sæna | sana | sana |
+| sana | sæna | sana | sană |
 | *sana* | *saine* | *sana* | *sã* |
 
 <!--v-->
 
 **sana**
 
-| 🇵🇹 |
-|:-:|
-| sana = są <small>sąn̆ă</small> |
-| *sã* |
+| 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
+|:-:|:-:|:-:|:-:|
+| sana | sæna | sana | sana |
+| *sana* | *saine* | *sana* | *sã* |
 
 <!--v-->
 
