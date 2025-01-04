@@ -1175,7 +1175,7 @@ Aldone, la plimulto de la finaĵoj de la interaj dialektoj varias. Ekzemple, dum
 
 | Esperanto | Linguo |
 |-|-|
-| radio | **rajo** <small>**radĭo**</small> *[raĵo]* <small>*[rađi-o]*</small> |
+| radio | **rajo** <small>**radjo**</small> *[raĵo]* <small>*[rađi-o]*</small> |
 
 <!--v-->
 
@@ -3756,27 +3756,15 @@ Notes:
 * pane(s)
 * leone(s)
 <!-- vokaloj: eliziitaj kaj asimilitaj -->
-* perdĕre: FR/ES/PT -ĕre
-
 * maio: j (FR ai)
 * justa: j
-
 * gratia: ti
-* março: tĭ
+* peça: tĭ
 * plaça: tĕ
-
 * alio: lĭ
 * oleo: lĕ
-
 * campania: nĭ
 * linea: nĕ
-
-* fineça: -ïtĕa
-* justitia: -itia
-* natione: ti/tĭ
-
-* pronuntiare: IT tj
-* diurnata: dj
 
 <!-- konsonantoj -->
 
@@ -3786,7 +3774,6 @@ Notes:
 * salto: FR/PT al
 * schola: FR/ES/PT s̃
 * paêse: -en̆se
-<!-- konsonantoj -->
 <!-- -->
 * foco: FR/SP c̆
 * mâistro: IT/FR/ES/PT ğ
@@ -4957,10 +4944,6 @@ Notes:
 
 <!--v-->
 
-| hodie | hodĭe *[hoje]* |
-
-<!--v-->
-
 **hora**
 
 | 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
@@ -5310,15 +5293,6 @@ lib/liv?
 
 <!--v-->
 
-**maio**
-
-| 🇫🇷 |
-|:-:|
-| maio = mæo |
-| *mai* |
-
-<!--v-->
-
 | *manhã* | **manĭąn̆ă** = **manĭana** |
 
 <!--v-->
@@ -5570,7 +5544,7 @@ Notes:
 
 <!--v-->
 
-**olĕo**
+**oleo**
 
 | 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
 |:-:|:-:|:-:|:-:|
@@ -5726,11 +5700,11 @@ Notes:
 
 <!--v-->
 
-**petĭa**
+**peça** <small>**petĭa**</small>
 
 | 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
 |:-:|:-:|:-:|:-:|
-| petĭa | pẽtĭa | pẽtĭa | petĭa |
+| peça | pẽça | pẽça | peça |
 | *pezza* | *pièce* | *pieza* | *peça* |
 
 <!--v-->
