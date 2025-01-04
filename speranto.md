@@ -1155,25 +1155,17 @@ Aldone, la plimulto de la finaĵoj de la interaj dialektoj varias. Ekzemple, dum
 
 <!--v-->
 
-<small>**tĭ** prononciĝas *[sj]* (tra bruo: *[ŧi]*). **tĕ** skribiĝas **ç** kaj prononciĝas *[s]* (tra bruo: *[ŧe]*).</small>
+<small>**ti** antaŭ vokalo prononciĝas *[sj]* (tra bruo: *[ŧi]*). **tĭ** kaj **tĕ** skribiĝas **ç** kaj prononciĝas *[s]* (tra bruo: *[ŧi]* respektive *[ŧe]*).</small>
 
 <!--v-->
 
 | Esperanto | Linguo |
 |-|-|
-| spaco | **spatĭo** *[spasjo]* <small>*[spaŧi-o]*</small> |
+| spaco | **spatio** *[spasjo]* <small>*[spaŧi-o]*</small> |
 | | |
 | placo | **plaço** <small>**platĕo**</small> *[plaso]* <small>*[plaŧe-o]*</small> |
-
-<!--v-->
-
-<small>La sufikso *-eco* fakte venas de **-itĭa**, sed en **Linguo**, ĝi traktiĝas kvazaŭ ĝi venus de **-etĕa**.</small>
-
-<!--v-->
-
-| Esperanto | Linguo |
-|-|-|
-| beleco | **belleço** <small>**belletĕo**</small> *[beleso]* <small>*[beleŧe-o]*</small> |
+| | |
+| beleco | **belleço** <small>**bellïtĭo**</small> *[beleso]* <small>*[beleŧi-o]*</small> |
 
 <!--v-->
 
@@ -1732,7 +1724,6 @@ Tra bruo, la prepozicio **a** uziĝas por la indiki la rektan objekton. (Tiam uz
 |-|-|
 | pano | **pane** |
 | rano | **rana** |
-| reto | **rete** |
 
 <!--v-->
 
@@ -3747,47 +3738,59 @@ Notes:
 * pilo: IT/SP/PT ï
 * muro: FR y
 * auro: IT/FR/ES/PT au
-<!-- nazaloj -->
+<!-- vokaloj: antaŭ nazaloj -->
 * banco: FR/PT ą
-* mano: FR æ
-* manos: IT -i
-* in: FR en, PT -n
-* bene: ES/PT -ne (FR en)
-* pane: PT -ane
-* panes: ES/PT -nes
+* mano(s): FR æ
 * sana: PT -ana
 * bona: PT -ona
 * bono: PT -ono
-<!-- -->
-* salone: PT -one
-* salones: PT -ones
-* salto: FR/PT al
-* sale: ES/PT -le
-* sales: PT -les
-* mare: ES/PT -re
-* mares: ES/PT -res
+* in: FR en, PT -n
+<!-- vokaloj: malantaŭ dentaloj -->
+* voce(s)
+* mêse
+* rete
+* pede
+* mare
+* sale(s)
+* bene
+* pane(s)
+* leone(s)
+<!-- vokaloj: eliziitaj kaj asimilitaj -->
 * perdĕre: FR/ES/PT -ĕre
-* pensare: FR -æɍe
-* pace: ES/PT -ce
-* schola: FR/ES/PT s̃
-* hora: IT/FR/ES/PT h, FR ø
-* alio: lĭ
-* campania: nĭ
-* natione: ti/tĭ
-* oleo: lĕ
-* linea: nĕ
-* paese: -en̆se
-* plaça: tĕ
-* fineça: -ïtĕa
+
 * maio: j (FR ai)
-* jurare: j
+* justa: j
+
+* gratia: ti
+* março: tĭ
+* plaça: tĕ
+
+* alio: lĭ
+* oleo: lĕ
+
+* campania: nĭ
+* linea: nĕ
+
+* fineça: -ïtĕa
+* justitia: -itia
+* natione: ti/tĭ
+
 * pronuntiare: IT tj
 * diurnata: dj
+
+<!-- konsonantoj -->
+
+<!-- konsonantaj: eliziitaj kaj asimilitaj -->
+* hora: IT/FR/ES/PT h, FR ø
+* pensare: FR -æɍe
+* salto: FR/PT al
+* schola: FR/ES/PT s̃
+* paêse: -en̆se
+<!-- konsonantoj -->
 <!-- -->
 * foco: FR/SP c̆
 * mâistro: IT/FR/ES/PT ğ
 * hospitale: IT t̯
-* pede: ES/PT d̯
 * opĕra: FR/ES/PT p̆
 * scrivĕre: FR v̆
 * folia: ES f̯
@@ -4534,8 +4537,10 @@ Notes:
 
 | 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
 |:-:|:-:|:-:|:-:|
-| djůrnata | djurnæŧa | djůrnat̯a | djůrnat̯a |
+| djůrnata | djurnæŧa | djůrnata | djůrnata |
 | *giornata* | *journée* | *jornada* | *jornada* |
+
+<!-- TODO t→d okazas ankaŭ en la Franca? -->
 
 <!--v-->
 
@@ -4690,6 +4695,16 @@ Notes:
 
 <!--v-->
 
+**favore**
+
+| 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
+|:-:|:-:|:-:|:-:|
+| | | | |
+| favore | favøre | favore | favore |
+| *favore* | *faveur* | *favor* | *favor* |
+
+<!--v-->
+
 | femĭna | fȇmĭna *[femme]* |
 
 <!--v-->
@@ -4704,6 +4719,15 @@ Notes:
 <!--v-->
 
 | ferro | f̆ẽrro *[hierro]* |
+
+<!--v-->
+
+**fide**
+
+| 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
+|:-:|:-:|:-:|:-:|
+| fïde | fĩde | fïde | fïde |
+| *fede* | *foi* | *fe* | *fé* |
 
 <!--v-->
 
@@ -4725,7 +4749,7 @@ Notes:
 
 <!--v-->
 
-**fineça** <small>**finïtĕa**</small>
+**fineça** <small>**finïtĭa**</small>
 <!-- TODO ç ankoraŭ mankas en la klarigoj pri Lingua. -->
 
 | 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
@@ -5059,6 +5083,16 @@ Notes:
 
 <!--v-->
 
+**justitia**
+
+| 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
+|:-:|:-:|:-:|:-:|
+| justitĭa | jus̄titĭa | justitia | justitĭa |
+| *giustizia* | *justice* | *justicia* | *justiça* |
+
+
+<!--v-->
+
 ## L
 
 <!--v-->
@@ -5123,7 +5157,19 @@ Notes:
 
 **lege**
 
-| lege | leg̈̇e *[legge]* |
+| 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
+|:-:|:-:|:-:|:-:|
+| leg̈̇e | lė̃ge | | |
+| *legge* | *loi* | *ley* | *lei* |
+
+<!--v-->
+
+**leone**
+
+| 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
+|:-:|:-:|:-:|:-:|
+| leone | lėone | leone | leȏne̊ |
+| *leone* | *lion* | *león* | *leão* |
 
 <!--v-->
 
@@ -5295,43 +5341,21 @@ lib/liv?
 
 <!--v-->
 
+**março** <small>**martĭo**</small>
+
+| 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
+|:-:|:-:|:-:|:-:|
+| martĭo | martĭo | martĭo | martĭo |
+| *marzo* | *mars* | *marzo* | *março* |
+
+<!--v-->
+
 **mare**
 
 | 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
 |:-:|:-:|:-:|:-:|
 | mare | mære | mare | mare |
 | *mare* | *mer* | *mar* | *mar* |
-
-<!--v-->
-
-**mare**
-
-| 🇪🇸 |
-|:-:|
-| mare = marĕ |
-| *mar* |
-
-<!--v-->
-
-**mare**
-
-| 🇵🇹 |
-|:-:|
-| mare = marĕ |
-| *mar* |
-
-<!--v-->
-
-**mares**
-
-| 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
-|:-:|:-:|:-:|:-:|
-| mari | mæres | mares | mares |
-| *mari* | *mers* | *mares* | *mares* |
-
-<!--v-->
-
-| martio | martĭo *[marzo]* |
 
 <!--v-->
 
@@ -5469,7 +5493,7 @@ Notes:
 
 | 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
 |:-:|:-:|:-:|:-:|
-| nocte | nõcte | noċte | noċte |
+| nocte | nǒċte | noċte | noċte |
 | *notte* | *nuit* | *noche* | *noite* |
 
 <!--v-->
@@ -5521,7 +5545,7 @@ norma
 
 | 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
 |:-:|:-:|:-:|:-:|
-| octo | õcto | oċto | oċto |
+| octo | ǒċto | oċto | oċto |
 | *otto* | *huit* | *ocho* | *oito* |
 
 <!--v-->
@@ -5550,7 +5574,7 @@ Notes:
 
 | 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
 |:-:|:-:|:-:|:-:|
-| olėo | õleo | oleo | oleo |
+| olėo | ø̃leo | oleo | oleo |
 | *olio* | *huile* | *óleo* | *óleo* |
 
 <!--v-->
@@ -5588,24 +5612,6 @@ Notes:
 
 <!--v-->
 
-**pace**
-
-| 🇪🇸 |
-|:-:|
-| pace = pacĕ |
-| *paz* |
-
-<!--v-->
-
-**pace**
-
-| 🇵🇹 |
-|:-:|
-| pace = pacĕ |
-| *paz* |
-
-<!--v-->
-
 **paêse** <small>**pağen̆se**</small>
 
 | 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
@@ -5628,7 +5634,7 @@ Notes:
 
 | 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
 |:-:|:-:|:-:|:-:|
-| pane | pæne | panĕ | pane̊ |
+| pane | pæne | pane | pane̊ |
 | *pane* | *pain* | *pan* | *pão* |
 
 <!--v-->
@@ -5639,15 +5645,6 @@ Notes:
 |:-:|:-:|:-:|:-:|
 | pane | pæne | pane | pane |
 | *pane* | *pain* | *pan* | *pão* |
-
-<!--v-->
-
-**pane**
-
-| 🇵🇹 |
-|:-:|
-| pane = pąu <small>pąn̆e̊</small> |
-| *pão* |
 
 <!-- TODO Tom: Eble francaj ano→æno kaj ane→æne estas implicindaj, analogie al portugalaj komplikaĵoj. -->
 
@@ -5729,7 +5726,7 @@ Notes:
 
 <!--v-->
 
-**petia**
+**petĭa**
 
 | 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
 |:-:|:-:|:-:|:-:|
@@ -5742,7 +5739,16 @@ Notes:
 
 | 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
 |:-:|:-:|:-:|:-:|
-| pẽde | pẽde | pẽd̯ĕ | ped̯ĕ |
+| pẽde | pẽde | pẽd̯e | ped̯e |
+| *piede* | *pied* | *pie* | *pé* |
+
+<!--v-->
+
+**pede**
+
+| 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
+|:-:|:-:|:-:|:-:|
+| pẽde | pẽde | pẽde | pede |
 | *piede* | *pied* | *pie* | *pé* |
 
 <!--v-->
@@ -6052,6 +6058,15 @@ Notes:
 
 <!--v-->
 
+**rege**
+
+| 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
+|:-:|:-:|:-:|:-:|
+| reğĕ | rẽge | reġĕ | reġĕ |
+| *re* | *roi* | *rey* | *rei* |
+
+<!--v-->
+
 | regĭna | rȇğiṇa *[rainha]* |
 
 <!--v-->
@@ -6066,6 +6081,24 @@ Notes:
 |:-:|:-:|:-:|:-:|
 | rene | rene | `...` | rėne |
 | *rene* | *rein* | *riñón* | *rim* |
+
+<!--v-->
+
+**rete**
+
+| 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
+|:-:|:-:|:-:|:-:|
+| rete | rete | ret̯e | ret̯e |
+| *rete* | *rets* | *red* | *rede* |
+
+<!--v-->
+
+**rete**
+
+| 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
+|:-:|:-:|:-:|:-:|
+| rete | rete | rete | rete |
+| *rete* | *rets* | *red* | *rede* |
 
 <!--v-->
 
@@ -6116,26 +6149,26 @@ Notes:
 
 | 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
 |:-:|:-:|:-:|:-:|
-| sale | sæle | sale | sale |
+| sale | sæle | sale | sal̥e |
 | *sale* | *sel* | *sal* | *sal* |
 
 <!--v-->
 
 **sale**
 
-| 🇪🇸 |
-|:-:|
-| sale = salĕ |
-| *sal* |
+| 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
+|:-:|:-:|:-:|:-:|
+| sale | sæle | sale | sale |
+| *sale* | *sel* | *sal* | *sal* |
 
 <!--v-->
 
-**sale**
+**sales**
 
-| 🇵🇹 |
-|:-:|
-| sale = sau |
-| *sal* |
+| 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
+|:-:|:-:|:-:|:-:|
+| sali | sæles | sales | sałes |
+| *sali* | *sels* | *sales* | *sais* |
 
 <!--v-->
 
@@ -6148,48 +6181,12 @@ Notes:
 
 <!--v-->
 
-**sales**
-
-| 🇵🇹 |
-|:-:|
-| sales = sais <small>sałės</small> |
-| *sais* |
-
-<!--v-->
-
 **salone**
 
 | 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
 |:-:|:-:|:-:|:-:|
 | salone | salone | salone | salone |
 | *salone* | *salon* | *salón* | *salão* |
-
-<!--v-->
-
-**salone**
-
-| 🇵🇹 |
-|:-:|
-| salone = saląu <small>salȏn̆e̊</small> |
-| *salão* |
-
-<!--v-->
-
-**salones**
-
-| 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
-|:-:|:-:|:-:|:-:|
-| saloni | salones | salones | salones |
-| *saloni* | *salons* | *salones* | *salões* |
-
-<!--v-->
-
-**salones**
-
-| 🇵🇹 |
-|:-:|
-| salones = salǫis <small>salǫn̆ės</small> |
-| *salões* |
 
 <!--v-->
 
@@ -6674,12 +6671,26 @@ Notes:
 
 | 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
 |:-:|:-:|:-:|:-:|
-| vōce | voce | voce | voce |
+| vōce | võce | vocĕ | vocĕ |
 | *voce* | *voix* | *voz* | *voz* |
 
-Notes:
-* `:)` IT ō
-* `?` FR oi
+<!--v-->
+
+**voce**
+
+| 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
+|:-:|:-:|:-:|:-:|
+| vōce | võce | voce | voce |
+| *voce* | *voix* | *voz* | *voz* |
+
+<!--v-->
+
+**voces**
+
+| 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
+|:-:|:-:|:-:|:-:|
+| vōci | võces | voces | voces |
+| *voci* | *voix* | *voces* | *voces* |
 
 <!--v-->
 
