@@ -2227,13 +2227,13 @@ La finaĵoj **-ione**, **-o**, **-ore** kaj **-ura**
 
 | Esperanto | Intermediaria |
 |-|-|
-| avantaĝo | **avantâjo** <small>**avantat̯ĭc̆o**</small> *[avantaĵo]* <small>*[avantađi-o]*</small> |
-| formaĝo | **formâjo** <small>**format̯ĭc̆o**</small> *[formaĵo]* <small>*[formađi-o]*</small> |
-| kuraĝo | **corâjo** <small>**corat̯ĭc̆o**</small> *[koraĵo]* <small>*[korađi-o]*</small> |
-| mesaĝo | **missâjo** <small>**missat̯ĭc̆o**</small> *[misaĵo]* <small>*[misađi-o]*</small> |
-| pejzaĝo | **paesâjo** <small>**pağen̆sat̯ĭc̆o**</small> *[paezaĵo]* <small>*[paezađi-o]*</small> |
-| vilaĝo | **villâjo** <small>**villat̯ĭc̆o**</small> *[vilaĵo]* <small>*[vilađi-o]*</small> |
-| vojaĝo | **viâjo** <small>**viat̯ĭc̆o**</small> *[viaĵo]* <small>*[viađi-o]*</small> |
+| avantaĝo | **avantâjo** <small>**avantat̯jc̆o**</small> *[avantaĵo]* <small>*[avantađi-o]*</small> |
+| formaĝo | **formâjo** <small>**format̯jc̆o**</small> *[formaĵo]* <small>*[formađi-o]*</small> |
+| kuraĝo | **corâjo** <small>**corat̯jc̆o**</small> *[koraĵo]* <small>*[korađi-o]*</small> |
+| mesaĝo | **missâjo** <small>**missat̯jc̆o**</small> *[misaĵo]* <small>*[misađi-o]*</small> |
+| pejzaĝo | **paesâjo** <small>**pağen̆sat̯jc̆o**</small> *[paezaĵo]* <small>*[paezađi-o]*</small> |
+| vilaĝo | **villâjo** <small>**villat̯jc̆o**</small> *[vilaĵo]* <small>*[vilađi-o]*</small> |
+| vojaĝo | **viâjo** <small>**viat̯jc̆o**</small> *[viaĵo]* <small>*[viađi-o]*</small> |
 
 <!--v-->
 
@@ -3767,37 +3767,43 @@ Notes:
 * linea: nĕ
 
 <!-- konsonantoj -->
+r terra
+c, g centro gente
 
-<!-- konsonantaj: eliziitaj kaj asimilitaj -->
-* hora: IT/FR/ES/PT h, FR ø
-* pensare: FR -æɍe
-* salto: FR/PT al
-* schola: FR/ES/PT s̃
-* paêse: -en̆se
-<!-- -->
-* foco: FR/SP c̆
-* mâistro: IT/FR/ES/PT ğ
-* hospitale: IT t̯
-* opĕra: FR/ES/PT p̆
-* scrivĕre: FR v̆
-* folia: ES f̯
-* linguâjo: IT/FR/ES/PT -at̯ĭc̆o
-<!-- -->
 * delicia: IT ȼ
 * cantare: FR ĉ
+
 * luxo: ES/PT x̂
 * russa: ES/PT ŝ
-<!-- -->
+
+<!-- konsonantoj: voĉigitaj -->
+
+
+
+<!-- konsonantaj: voĉigitaj kaj eliziitaj -->
+* mâistro: ğ
+* foco: c̆
+
+* linguâjo: IT/FR/ES/PT -at̯jc̆o
+
+* scrivĕre: FR v̆
+* opĕra: FR/ES/PT p̆
+
+* hora: h
+* folia: f̯
+
+* paêse: -en̆se
+
+<!-- konsonantoj: vokaligitaj -->
+* schola: FR/ES/PT s̃
 * lacte: IT ct, FR/ES/PT ċt
 * doctore: PT c̊t
-<!-- -->
+* salto: FR/PT al
 * flamma: IT/ES/PT ḷ
+* paro: IT ṙ
+<!-- konsonantoj: ... -->
 * blanca: PT l̯
 * borsa: ES/PT r̆
-* paro: IT ṙ
-<!-- -->
-* vena: PT ṅ
-* vino: PT ṇ
 
 <!--v-->
 
@@ -4466,8 +4472,8 @@ Notes:
 
 <!--v-->
 
-| corâjo <small>corat̯ĭc̆o</small> | corat̯jc̆o = corajo *[coraggio]* |
-| corâjo <small>corat̯ĭc̆o</small> | cǒrajo *[courage]* |
+| corâjo <small>corat̯jc̆o</small> | corat̯jc̆o = corajo *[coraggio]* |
+| corâjo <small>corat̯jc̆o</small> | cǒrajo *[courage]* |
 
 <!--v-->
 
@@ -5192,7 +5198,7 @@ Notes:
 
 <!--v-->
 
-**linguâjo** <small>**linguat̯ĭc̆o**</small>
+**linguâjo** <small>**linguat̯jc̆o**</small>
 
 | 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
 |:-:|:-:|:-:|:-:|
@@ -5595,7 +5601,7 @@ Notes:
 
 <!--v-->
 
-**paesâjo** <small>**pağen̆sat̯ĭc̆o**</small>
+**paesâjo** <small>**pağen̆sat̯jc̆o**</small>
 
 | 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
 |:-:|:-:|:-:|:-:|
