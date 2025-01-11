@@ -1683,6 +1683,18 @@ Tra bruo, la prepozicio **a** uziĝas por la indiki la rektan objekton. (Tiam uz
 
 <!--v-->
 
+## Prononco
+
+<!--v-->
+
+<small>En poezio, **h** povas esti muta: **la hora** → **l' hora**</small>
+
+<!--v-->
+
+<small>En poezio, la finaĵo **-e** malantaŭ dentala konsonanto povas eliziiĝi: **mare** → **mar'**</small>
+
+<!--v-->
+
 ## Substantivoj
 
 <!--v-->
@@ -2016,7 +2028,7 @@ La finaĵoj **-ione**, **-o**, **-ore** kaj **-ura**
 
 <!--v-->
 
-<small>Verboj je **-ár** kaj **-ír** havas pasivan participon je **-ata** kaj **-ita**. Verboj je **-ér** havas pasivan participon je **-ĭta**.</small>
+<small>Verboj je **-are** kaj **-ire** havas pasivan participon je **-ata** kaj **-ita**. Verboj je **-ere** kaj **-ĕre** havas pasivan participon je **-ĭta**.</small>
 
 <!--v-->
 
@@ -2078,7 +2090,7 @@ La finaĵoj **-ione**, **-o**, **-ore** kaj **-ura**
 
 | Esperanto | Lingua |
 |-|-|
-| esti | **sêr** <small>**essĕre**</small> |
+| esti | **sêre** <small>**essĕre**</small> |
 | | |
 | estas | **ês** <small>**esse**</small> |
 | estis | **êra** <small>**esseva**</small> |
@@ -2091,30 +2103,40 @@ La finaĵoj **-ione**, **-o**, **-ore** kaj **-ura**
 
 | Esperanto | Lingua |
 |-|-|
-| havi | **hâr** <small>**havere**</small> |
+| havi | **hâre** <small>**havere**</small> |
 | | |
 | havas | **hâ** <small>**have**</small> |
+| havis | **haveva** |
+| havos | **hará** <small>**haverá**</small> |
+| | |
+| (ke) havu | **havea** |
+| (se/do) havus | **haría** <small>**havería**</small> |
 
 <!--v-->
 
 | Esperanto | Lingua |
 |-|-|
-| iri | **îr** <small>**ire**</small> |
+| iri | **ire** |
 | | |
 | iras | **vâ** <small>**vade**</small> |
 | iris | **îa** <small>**iva**</small> |
 | iros | **irá** |
 | | |
 | (ke) iru | **vadea** |
-| irus | **iría** |
+| (se/do) irus | **iría** |
 
 <!--v-->
 
 | Esperanto | Lingua |
 |-|-|
-| fari | **fâr** <small>**facĕre**</small> |
+| fari | **fâre** <small>**facĕre**</small> |
 | | |
 | faras | **fâ** <small>**face**</small> |
+| faris | **faceva** |
+| faros | **fará** <small>**facerá**</small> |
+| | |
+| (ke) faru | **facea** |
+| (se/do) havus | **faría** <small>**facería**</small> |
 
 <!--v-->
 
@@ -3737,7 +3759,7 @@ Notes:
 * qŭe: FR ė̃
 * pilo: IT/SP/PT ï
 * muro: FR y
-* auro: IT/FR/ES/PT au
+* auro: au
 <!-- vokaloj: antaŭ nazaloj -->
 * banco: FR/PT ą
 * mano(s): FR æ
@@ -3753,57 +3775,47 @@ Notes:
 * mare
 * sale(s)
 * bene
-* pane(s)
+* pane
 * leone(s)
 <!-- vokaloj: eliziitaj kaj asimilitaj -->
-* maio: j (FR ai)
-* justa: j
+* centro: ce
+* gente: ge
+* maio: -i-
+* justa: j-
 * gratia: ti
 * peça: tĭ
 * plaça: tĕ
-* alio: lĭ
-* oleo: lĕ
-* campania: nĭ
-* linea: nĕ
-
-<!-- konsonantoj -->
-r terra
-c, g centro gente
-
-* delicia: IT ȼ
-* cantare: FR ĉ
-
-* luxo: ES/PT x̂
-* russa: ES/PT ŝ
-
-<!-- konsonantoj: voĉigitaj -->
-
-
-
+<!--
+* annuntio: IT tj
+* delicia: IT ȼi
+-->
+<!--
+* alio: li
+* oleo: le
+* campania: ni
+* linea: ne
+-->
+<!-- TODO: "alio" kaj "campania" havas j-ecajn "l"-on kaj "n"-on en Lingua Intermediaria. -->
 <!-- konsonantaj: voĉigitaj kaj eliziitaj -->
+* paése: ğ
 * mâistro: ğ
-* foco: c̆
-
-* linguâjo: IT/FR/ES/PT -at̯jc̆o
-
-* scrivĕre: FR v̆
-* opĕra: FR/ES/PT p̆
-
+* catto: c̆
+<!-- * linguâjo: -at̯jc̆o -->
+<!--
 * hora: h
 * folia: f̯
-
-* paêse: -en̆se
-
+-->
+<!--
+* blanca: PT l̯
+* borsa: ES/PT r̆
+-->
 <!-- konsonantoj: vokaligitaj -->
 * schola: FR/ES/PT s̃
 * lacte: IT ct, FR/ES/PT ċt
 * doctore: PT c̊t
-* salto: FR/PT al
-* flamma: IT/ES/PT ḷ
-* paro: IT ṙ
-<!-- konsonantoj: ... -->
-* blanca: PT l̯
-* borsa: ES/PT r̆
+* paro: ṙ
+* flamma: ḷ
+* altra: l̥
 
 <!--v-->
 
@@ -3897,10 +3909,6 @@ c, g centro gente
 |:-:|
 | |
 
-Notes:
-* En la pasinta video, ni parolis pri la dialekta kontinuo, t.e. la aglutina dialektaro, kiu konsistas el Esperanto, Speranto kaj Peranto, samkiel pri Linguo, Lingue kaj Lingua, kiuj konsistigas la interan dialektaron. En ĉi-lasta, Lingua estas ponta lingvo de la fleksia dialektaro, t.e. Lingua Classĭca, Lingua Intermediaria kaj Lingua Meridionál. Samtempe, Lingua estas ponta lingvo de la latinidaj lingvoj (kaj de la latina mem).
-* En tiu ĉi video, ni parolos pri Lingua, respektive pri la internacia ortografio de ĝiaj fontolingvoj.
-
 <!--v-->
 
 ## A
@@ -3913,6 +3921,15 @@ Notes:
 |:-:|:-:|:-:|:-:|
 | absoluta | `...` | | |
 | *assoluta* | | | |
+
+<!--v-->
+
+**advocato**
+
+| 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
+|:-:|:-:|:-:|:-:|
+| advocato | advocato | advoc̆at̯o | advoc̆at̯o |
+| *avvocato* | *avocat* | *abogado* | *advogado* |
 
 <!--v-->
 
@@ -3941,20 +3958,14 @@ Notes:
 | alta | alta | alta | alta |
 | *alta* | *haute* | *alta* | *alta* |
 
-Notes:
-* `:)` PT al = al̥
-
 <!--v-->
 
 **altra**
 
 | 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
 |:-:|:-:|:-:|:-:|
-| altra | altra | åłtra | ål̥tra |
+| altra | al̥tra | åłtra | ål̥tra |
 | *altra* | *autre* | *otra* | *outra* |
-
-Notes:
-* FR `?`
 
 <!--v-->
 
@@ -3990,6 +4001,15 @@ Notes:
 
 Notes:
 * `:)` ES nn = ñ `?` hymn̄o
+
+<!--v-->
+
+**annuntio**
+
+| 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
+|:-:|:-:|:-:|:-:|
+| annuntjo | annůntio | annůntĭo | annůntio |
+| *annuncio* | *annonce* | *anuncio* | *anúncio* |
 
 <!--v-->
 
@@ -4344,7 +4364,7 @@ Notes:
 
 <!--v-->
 
-**castanĕa**
+**castanea**
 
 | 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
 |:-:|:-:|:-:|:-:|
@@ -4400,6 +4420,15 @@ Notes:
 
 <!--v-->
 
+**centro**
+
+| 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
+|:-:|:-:|:-:|:-:|
+| centro | centro | centro | centro |
+| *centro* | *centre* | *centro* | *centro* |
+
+<!--v-->
+
 **certa**
 
 | 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
@@ -4444,6 +4473,18 @@ Notes:
 |:-:|:-:|:-:|:-:|
 | cominĭtjare | cominĭtĭæɍe | comïnĭtĭare | comïn̆ĭtĭare |
 | *comminciare* | *commencer* | *comenzar* | *começar* |
+
+<!--v-->
+
+**compania**
+
+| 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
+|:-:|:-:|:-:|:-:|
+| compaṇìa | compaṇia | compaṇìa | compaṇìa |
+| *compagnia* | *compagnie* | *compañía* | *companhia* |
+
+Notes:
+* la akcento estas plej stranga. ŝajnas ke la franca influis ĉiujn aliajn lingvojn.
 
 <!--v-->
 
@@ -4866,6 +4907,15 @@ Notes:
 
 <!--v-->
 
+**gente**
+
+| 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
+|:-:|:-:|:-:|:-:|
+| gente | gentes | gente | gente |
+| *gente* | *gens* | *gente* | *gente* |
+
+<!--v-->
+
 **germano**
 
 | 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
@@ -5104,18 +5154,6 @@ Notes:
 
 <!--v-->
 
-**lana**
-
-| 🇵🇹 |
-|:-:|
-| lana = ląn̆ă |
-| *lã* |
-
-Notes:
-* `:)` PT -ana
-
-<!--v-->
-
 | laxiár | laxĭare *[lasciare]* |
 
 <!--v-->
@@ -5249,44 +5287,11 @@ lib/liv?
 
 | 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
 |:-:|:-:|:-:|:-:|
-| mâïstro | mâistro | mâïstro | mäĭstro |
+| maïstro | maistro | maïstro | mäĭstro |
 | *maestro* | *maître* | *maestro* | *mestre* |
 
-<!--v-->
-
-**mâistro** <small>**mağistro**</small>
-
-| 🇮🇹 |
-|:-:|
-| mâïstro |
-| *maestro* |
-
-<!--v-->
-
-**mâistro** <small>**mağistro**</small>
-
-| 🇫🇷 |
-|:-:|
-| mâistro |
-| *maître* |
-
-<!--v-->
-
-**mâistro** <small>**mağistro**</small>
-
-| 🇪🇸 |
-|:-:|
-| mâïstro |
-| *maestro* |
-
-<!--v-->
-
-**mâistro** <small>**mağistro**</small>
-
-| 🇵🇹 |
-|:-:|
-| mäĭstro |
-| *mestre* |
+Notes:
+* **maístro** → **mâistro**
 
 <!--v-->
 
@@ -5592,11 +5597,11 @@ Notes:
 
 <!--v-->
 
-**paêse** <small>**pağen̆se**</small>
+**paése** <small>**pağen̆se**</small>
 
 | 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
 |:-:|:-:|:-:|:-:|
-| paêse | pæėse | paėse | paėse |
+| paése | pæėse | paėse | paėse |
 | *paese* | *pays* | *país* | *país* |
 
 <!--v-->
@@ -6241,33 +6246,6 @@ Notes:
 
 <!--v-->
 
-**schola**
-
-| 🇫🇷 |
-|:-:|
-| s̃chola = eschola |
-| *école* |
-
-<!--v-->
-
-**schola**
-
-| 🇪🇸 |
-|:-:|
-| s̃chõla = eschõla |
-| *escuela* |
-
-<!--v-->
-
-**schola**
-
-| 🇵🇹 |
-|:-:|
-| s̃chola = eschola |
-| *escola* |
-
-<!--v-->
-
 **scrivĕre**
 
 | 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
@@ -6523,11 +6501,12 @@ Notes:
 
 | 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
 |:-:|:-:|:-:|:-:|
-| träĭno | trâino | träĭnŏ | … |
+| träĭno | traino | träĭnŏ | … |
 | *treno* | *train* | *tren* | *…* |
 
 Notes:
 * BR `trem`
+* **traíno** → **trâino**
 
 <!--v-->
 
@@ -6762,7 +6741,7 @@ cläve caio
 mağis presto frïsc̆o frïsĉa
 
 [ɑ͂]
-vento tenta dente gente centro quando
+vento tenta dente quando
 
 * *voyage* [vwajaʒ]: **vĩajo** = **vĩaj**@j
  võc̆äle
@@ -6801,8 +6780,6 @@ noche leche
 cella collo programma anno rara casa rosa acto nocturna tacto tecto trato victĭma pac̄to sceptica gÿpso maxĭma fix̄a ox̄igenio tax̄i tox̄ĭca leċtora seċta dos̃ bas̃ŝa pïs̃ĉe rot̯a lėct̯o mut̯at̯a universit̯at̯e cḷamarĕ mulĭerĕ ap̆rirĕ seq̆ŭirĕ crescerĕ auxiliarĕ flore pḷůverĕ sůmma åusarĕ påuca tåuro ex̆acta ex̆ito physĭca amic̆o como foc̆o meo leon̆a lun̆a ruğa mağis men̆sa pl̯ato s̃phera s̃patĭo s̃tatĭone
 
 | *ou* | **åut** = **õt** |
-
-| *advogado* | **advoc̆at̯o** = **advoc̆ado** |
 
 -->
 
