@@ -3802,14 +3802,14 @@ Notes:
 * catto: c̆
 <!-- * linguâjo: -at̯jc̆o -->
 <!--
-* hora: h
-* folia: f̯
--->
-<!--
 * blanca: PT l̯
 * borsa: ES/PT r̆
 -->
-<!-- konsonantoj: vokaligitaj -->
+<!-- konsonantoj: ... -->
+
+* hora: h
+* folia: f̯
+
 * schola: FR/ES/PT s̃
 * lacte: IT ct, FR/ES/PT ċt
 * doctore: PT c̊t
@@ -5290,9 +5290,6 @@ lib/liv?
 | maïstro | maistro | maïstro | mäĭstro |
 | *maestro* | *maître* | *maestro* | *mestre* |
 
-Notes:
-* **maístro** → **mâistro**
-
 <!--v-->
 
 **maio**
@@ -5446,7 +5443,7 @@ Notes:
 
 | 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
 |:-:|:-:|:-:|:-:|
-| museo | `?` | museo | museo |
+| museo | museo | museo | museo |
 | *museo* | *musée* | *museo* | *museu* |
 
 <!--v-->
@@ -5571,7 +5568,14 @@ Notes:
 | opera | øp̆ĕra | op̆ĕra | op̆ĕra |
 | *opera* | *œuvre* | *obra* | *obra* |
 
-| optár <small>optare</small> | op̄tare *[optare]* |
+<!--v-->
+
+**optare**
+
+| 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
+|:-:|:-:|:-:|:-:|
+| op̄tare | | | |
+| *optare* | | | |
 
 <!--v-->
 
@@ -5934,6 +5938,15 @@ Notes:
 |:-:|:-:|:-:|:-:|
 | pronuntjare | pronůntĭæɍe | pronuntiare | pronuntiare |
 | *pronunciare* | *prononcer* | *pronunciar* | *pronunciar* |
+
+<!--v-->
+
+**pronuntiare**
+
+| 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
+|:-:|:-:|:-:|:-:|
+| pronuntiare | pronůntĭæɍe | pronuntiare | pronuntiare |
+| *pronunziare* | *prononcer* | *pronunciar* | *pronunciar* |
 
 <!--v-->
 
