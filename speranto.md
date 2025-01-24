@@ -5950,11 +5950,21 @@ Notes:
 
 <!--v-->
 
-| proxĭma | proxĭma *[próxima]* |
+**proxĭma**
+
+| 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
+|:-:|:-:|:-:|:-:|
+| proxĭma | | | |
+| *prossima* | | | |
 
 <!--v-->
 
-| publĭca | puḇlico *[pubblico]* |
+**publĭca**
+
+| 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
+|:-:|:-:|:-:|:-:|
+| puḇlica | | | |
+| *pubblica* | | | |
 
 <!--v-->
 
@@ -5970,7 +5980,12 @@ Notes:
 
 <!--v-->
 
-| puncto <small>→ pûnto</small> | punto *[punto]* |
+**puncto**
+
+| 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
+|:-:|:-:|:-:|:-:|
+| pun̆cto | | | |
+| *punto* | | | |
 
 <!--v-->
 
@@ -6361,7 +6376,7 @@ Notes:
 | *spazio* | *éspace* | *espacio* | *espaço* |
 
 Notes:
-* `e-sp-`
+* FR ne estas épace (do "sp" estas pli konservata ol "st")
 
 <!--v-->
 
@@ -6378,7 +6393,17 @@ Notes:
 
 <!--v-->
 
-| studios | studī *[studi]* |
+<!--v-->
+
+**studios**
+
+| 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
+|:-:|:-:|:-:|:-:|
+| studii | | | |
+| *studi* | | | |
+
+Notes:
+* IT -ii
 
 <!--v-->
 
