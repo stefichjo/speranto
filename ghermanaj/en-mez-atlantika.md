@@ -1,0 +1,830 @@
+---
+title: Mid-Atlantic from Scratch
+separator: <!--s-->
+verticalSeparator: <!--v-->
+theme: sky
+revealOptions:
+  transition: 'fade'
+  progress: false
+  controls: false
+  slideNumber: false
+---
+
+<!-- cd ~/Git/speranto/ghermanaj; reveal-md en-mez-atlantika.md -w -->
+<!-- ᴀʙᴄᴅᴇꜰɢʜɪᴊᴋʟᴍɴᴏᴘǫʀsᴛᴜᴠᴡxʏᴢ -->
+<!-- ᵿ ‿ ː -->
+
+# Mid-Atlantic<br>from Scratch
+
+<!--v-->
+
+| | | | | | |
+|-|-|-|-|-|-|
+| ɴᴇᴀʀ   | `ir` | → | `iəʳ` | = | `ɪə~ɪr` |
+| sǫᴜᴀʀᴇ | `e̞r` | → | `e̞əʳ` | = | `e̞ə~e̞r` |
+| sᴛᴀʀᴛ  | `ɑr` | → | `ɑəʳ` | = | `ɑə~ɑr` |
+| ꜰᴏʀᴄᴇ  | `o̞r` | → | `o̞əʳ` | = | `o̞ə~o̞r` |
+| ᴄᴜʀᴇ   | `ur` | → | `uəʳ` | = | `ʊə~ʊr` |
+| | | | | | |
+
+<!--v-->
+
+| | | | | | |
+|-|-|-|-|-|-:|
+| ꜰʟᴇᴇᴄᴇ | `i` | → | `iʲ` | = | `i~ɪj` |
+| ꜰᴀᴄᴇ   | `e̞` | → | `e̞ʲ` | = |   `e̞j` |
+| ᴘᴀʟᴍ   | `ɑ` | → | `ɑʳ` | = | `ɑ~ɑr` |
+| ɢᴏᴀᴛ   | `o̞` | → | `o̞ʷ` | = |   `o̞w` |
+| ɢᴏᴏsᴇ  | `u` | → | `uʷ` | = | `u~ʊw` |
+| | | | | | |
+
+<!--v-->
+
+| | | | | | | |
+|-|-|-|-|-|-|-|
+| ᴋɪᴛ   | `ɪ` |   |      | |        |     |
+| ᴅʀᴇss | `e̞` |   |      | |        |     |
+| ʙᴀᴛʜ  | `a` |   |      | |  ᴛʀᴀᴘ  | `æ` |
+| ᴄʟᴏᴛʜ | `o̞` | → | `o̞ʳ` | |  ʟᴏᴛ   | `ɒ` |
+| ꜰᴏᴏᴛ  | `ʊ` |   |      | |  sᴛʀᴜᴛ | `ɐ` |
+| | | | | | | |
+
+<!--v-->
+
+| | | | | | |
+|-|-|-|-|-|-|
+| ʟᴇᴛᴛ**ᴇʀ** | `ər` | → | `əʳ` | = | ɴᴜʀsᴇ |
+| ᴄᴏᴍᴍ**ᴀ**  | `ə`  | → | `əʳ` |   |       |
+| | | | | | |
+
+<!--v-->
+
+| | | | | | | |
+|-|-|-|-|-|-|-|
+| ᴘʀɪᴄᴇ  | `aj` | | ᴍᴏᴜᴛʜ   | `aw` |   |      |
+| ᴄʜᴏɪᴄᴇ | `o̞j` | | ᴛʜᴏᴜɢʜᴛ | `o̞w` | → | `o̞ʳ` |
+| | | | | | | |
+
+| | | | |
+|-|-|-|-|
+| ᴏᴜʀ | `awər` | → | `aəʳ` |
+| | | | |
+
+<!--s-->
+
+## General<br>Mid-Atlantic
+
+<!--v-->
+
+| | |
+|-|-|
+| ɴᴇᴀʀ   | `ɪə~ɪr` |
+| sǫᴜᴀʀᴇ | `e̞ə~e̞r` |
+| sᴛᴀʀᴛ  | `ɑə~ɑr` |
+| ꜰᴏʀᴄᴇ  | `o̞ə~o̞r` |
+| ᴄᴜʀᴇ   | `ʊə~ʊr` |
+| | |
+
+<!--v-->
+
+| | |
+|-|-|
+| ɴᴇᴀʀ   | `iəʳ` |
+| sǫᴜᴀʀᴇ | `e̞əʳ` |
+| sᴛᴀʀᴛ  | `ɑəʳ` |
+| ꜰᴏʀᴄᴇ  | `o̞əʳ` |
+| ᴄᴜʀᴇ   | `uəʳ` |
+| | |
+
+<!--v-->
+
+| | |
+|-|-:|
+| ꜰʟᴇᴇᴄᴇ | `i~ɪj` |
+| ꜰᴀᴄᴇ   | `e̞j` |
+| ᴘᴀʟᴍ   | `ɑ~ɑr` |
+| ɢᴏᴀᴛ   | `o̞w` |
+| ɢᴏᴏsᴇ  | `u~ʊw` |
+| | |
+
+<!--v-->
+
+| | |
+|-|-|
+| ꜰʟᴇᴇᴄᴇ | `iʲ` |
+| ꜰᴀᴄᴇ   | `e̞ʲ` |
+| ᴘᴀʟᴍ   | `ɑʳ` |
+| ɢᴏᴀᴛ   | `o̞ʷ` |
+| ɢᴏᴏsᴇ  | `uʷ` |
+| | |
+
+<!--v-->
+
+| | | | | |
+|-|-|-|-|-|
+| ᴋɪᴛ   | `ɪ`  | |       |     |
+| ᴅʀᴇss | `e̞`  | |       |     |
+| ʙᴀᴛʜ  | `a`  | | ᴛʀᴀᴘ  | `æ` |
+| ᴄʟᴏᴛʜ | `o̞ʳ` | | ʟᴏᴛ   | `ɒ` |
+| ꜰᴏᴏᴛ  | `ʊ`  | | sᴛʀᴜᴛ | `ɐ` |
+| | | | | |
+
+<!--v-->
+
+| | | | |
+|-|-|-|-|
+| ʟᴇᴛᴛ**ᴇʀ** | `əʳ` | = | ɴᴜʀsᴇ |
+| ᴄᴏᴍᴍ**ᴀ**  | `əʳ` |   |       |
+| | | | | | |
+
+<!--v-->
+
+| | | | | |
+|-|-|-|-|-|
+| ᴘʀɪᴄᴇ  | `aj` | | ᴍᴏᴜᴛʜ   | `aw` |
+| ᴄʜᴏɪᴄᴇ | `o̞j` | | ᴛʜᴏᴜɢʜᴛ | `o̞ʳ` |
+| | | | | |
+
+| | |
+|-|-|
+| ᴏᴜʀ | `aəʳ` |
+| | |
+
+<!--v-->
+
+### CLOTH
+*(THOUGHT ~ LOT)*
+
+<!--v-->
+
+<small>Before voiceless fricatives `/f/`, `/s/`, `/θ/`.</small>
+
+| | |
+|-|-|
+| ᴄʟᴏᴛʜ | `klo̞θ` |
+| | |
+| ᴄʟᴏᴛʜs | `klo̞ðz` |
+| | |
+
+<small>Sometimes, before velars `/ŋ/`, `/g/`, `/k/`.</small>
+
+| | |
+|-|-|
+| ʟᴏɴɢ | `lo̞ŋ ~ lɒŋ` |
+| | |
+
+<small>Sometimes, before `/r/`.</small>
+
+| | |
+|-|-|
+| sᴏʀʀʏ | `so̞ri ~ sɒri` |
+| | |
+
+Notes:
+* 50%: gosh, wash
+  * not: posh
+* /f/ (off, cough, coffee)
+  * /ft/ (soft)
+* /s/ (toss, moss)
+  * /st/ (cost, lost)
+    * fifty-fifty: foster
+* /θ/ (sloth)
+* /ŋ/ (strong, wrong)
+  * not: song
+  * fifty-fifty: bong, gong, schlong
+* /g/ (dog, log, fog, frog) `fifty fifty`
+  * not: cog
+* /k/ (chocolate) `fifty-fifty`
+  * not: cock
+* followed by /n/
+  * /n/ (gone) `fifty-fifty`
+* borrow, horrid, orange, origin
+* Laurence, laurel
+* quarrel, warrant, tomorrow
+
+<!--v-->
+
+<small>Not in combination with -ic or -ive.</small>
+
+| | |
+|-|-|
+| ɢᴏᴛʜɪᴄ | `gɒθɪk` |
+| | |
+
+<small>Edge case: abbreviations.</small>
+
+| | |
+|-|-|
+| ɢᴏᴛʜ | `gɒθ` |
+| | |
+
+<!--v-->
+
+### BATH
+*(PALM ~ TRAP)*
+
+<!--v-->
+
+<small>Before voiceless fricatives `/f/`, `/s/`, `/θ/`.</small>
+
+| | |
+|-|-|
+| ʙᴀᴛʜ  | `baθ`  |
+| | |
+| ʙᴀᴛʜs | `baðz` |
+| | |
+
+<small>Before `/n/` + voiceless dental.</small>
+
+| | |
+|-|-|
+| ᴄʜᴀɴᴄᴇ | `tʃans` |
+| | |
+
+Notes:
+* /s/
+  * -sk: ask, basket, casket, flask, task
+  * -sp: gasp, grasp
+    * -z: raspberry
+  * -ss: brass, class, glass, pass
+  * -st: cast, castle, fast, fasten, last, mast, master, nasty, past, plaster, vast
+* /f/
+  * -ff: laugh, staff
+    * -lf: calf, half
+    * -ph: graph
+  * -ft: aft, after, craft, draught, raft, shaft
+* /θ/
+  * lather, path, rather
+* -nce: advance, chance, chancellor, dance, France, glance, trance
+* -nch: branch, ranch
+* -nt: advantage, can't, chant, grant, plant
+
+<!--v-->
+
+<small>Not in combination with -ic or -ive.</small>
+
+| | |
+|-|-|
+| ᴄʟᴀssɪᴄ | `klæsɪk` |
+| ᴘᴀssɪᴠᴇ | `pæsɪv` |
+| | |
+
+Notes:
+* also: graphic
+
+<!--v-->
+
+<small>Edge case: abbreviations.</small>
+
+| | | | | |
+|-|-|-|-|-|
+| ꜰᴀɴᴛᴀsʏ     | `fæntəsi`    | → | ꜰᴀɴᴄʏ | `fænsi` |
+| ᴍᴀᴛʜᴇᴍᴀᴛɪᴄs | `mæθəmætɪks` | → | ᴍᴀᴛʜs | `mæθs`  |
+| ᴘᴀɴᴛᴀʟᴏᴏɴs  | `pæntəlunz`  | → | ᴘᴀɴᴛs | `pænts` |
+| | | | | |
+
+<!--v-->
+
+<small>Edge case: prefixes.</small>
+
+| | |
+|-|-|
+| ᴛʀᴀɴsᴘᴏʀᴛ | `trænspo̞t` |
+| | |
+
+<small>Edge case: suffixes.</small>
+
+| | |
+|-|-|
+| ᴄᴏɴꜰɪᴅᴀɴᴛ | `kɒnfɪdænt` |
+| | |
+| ʀᴏᴍᴀɴᴄᴇ | `ro̞wmæns` |
+| | |
+| ᴇɴᴛʜᴜsɪᴀsᴛ | `ɪnθjuziæst` |
+| | |
+
+Notes:
+* also: stance (mind that -ance is a suffix here)
+
+<!--v-->
+
+<small>Edge case: `/e̞j/` → `/æ/`.</small>
+
+| | |
+|-|-|
+| ᴄʜᴀsᴛᴇ | `tʃe̞jst` |
+| | |
+| ᴄʜᴀsᴛɪᴛʏ | `tʃæstəti` |
+| | |
+
+<!--v-->
+
+<small>Exceptions</small>
+
+| | |
+|-|-|
+| ᴍᴀss | `mæs` |
+| | |
+
+<small>Exceptions</small>
+
+| | |
+|-|-|
+| ʀᴀᴛʜᴇʀ | `raðəʳ`  |
+| sᴀᴍᴘʟᴇ | `sampəl` |
+| ᴅᴇᴍᴀɴᴅ | `dimand` |
+| | |
+
+Notes:
+* also: crass, gas, gasket, (Mardi) Gras, pasta, pasty
+* also: cant
+* also: lather (but not: gather, slather)
+* also: example
+* also: command, reprimand
+
+<!--s-->
+
+## Friendly<br>Mid-Atlantic
+
+<!--v-->
+
+| | | | | |
+|-|-|-|-|-|
+| ᴋɪᴛ   | `ɪ`  | |       |     |
+| ᴅʀᴇss | `e̞`  | |       |     |
+| ʙᴀᴛʜ  | `a`  | | ᴛʀᴀᴘ  | `æ` |
+| ᴄʟᴏᴛʜ | `o̞ʳ` | | ʟᴏᴛ   | `ɒ` |
+| ꜰᴏᴏᴛ  | `ʊ`  | | sᴛʀᴜᴛ | `ɐ` |
+| | | | | |
+
+<!--v-->
+
+| | | | | |
+|-|-|-|-|-|
+| ᴋɪᴛ   | `ɪ` |   |       |     |
+| ᴅʀᴇss | `e̞` |   |       |     |
+| ʙᴀᴛʜ  | `æ` | = | ᴛʀᴀᴘ  |     |
+| ᴄʟᴏᴛʜ | `ɒ` | = | ʟᴏᴛ   |     |
+| ꜰᴏᴏᴛ  | `ʊ` |   | sᴛʀᴜᴛ | `ɐ` |
+| | | | | |
+
+<!--v-->
+
+| | | | | |
+|-|-|-|-|-|
+| ᴋɪᴛ   | `ɪ` | |       |     |
+| ᴅʀᴇss | `e̞` | |       |     |
+| ᴛʀᴀᴘ  | `æ` | |       |     |
+| ʟᴏᴛ   | `ɒ` | |       |     |
+| ꜰᴏᴏᴛ  | `ʊ` | | sᴛʀᴜᴛ | `ɐ` |
+| | | | | |
+
+<!--s-->
+
+## Basic<br> Mid-Atlantic
+
+<!--v-->
+
+| | | | | |
+|-|-|-|-|-|
+| ᴋɪᴛ   | `ɪ`  | |       |     |
+| ᴅʀᴇss | `e̞`  | |       |     |
+| ʙᴀᴛʜ  | `a`  | | ᴛʀᴀᴘ  | `æ` |
+| ᴄʟᴏᴛʜ | `o̞ʳ` | | ʟᴏᴛ   | `ɒ` |
+| ꜰᴏᴏᴛ  | `ʊ`  | | sᴛʀᴜᴛ | `ɐ` |
+| | | | | |
+
+<!--v-->
+
+| | | | |
+|-|-|-|-|
+| ᴋɪᴛ   | `ɪ` |   |       |
+| ᴅʀᴇss | `e̞` |   |       |
+| ʙᴀᴛʜ  | `a` | = | ᴛʀᴀᴘ  |
+| ᴄʟᴏᴛʜ | `o̞` | = | ʟᴏᴛ   |
+| ꜰᴏᴏᴛ  | `ʊ` | = | sᴛʀᴜᴛ |
+| | | | |
+
+<!--v-->
+
+| | |
+|-|-|
+| ᴋɪᴛ   | `ɪ` |
+| ᴅʀᴇss | `e̞` |
+| ᴛʀᴀᴘ  | `a` |
+| ʟᴏᴛ   | `o̞` |
+| sᴛʀᴜᴛ | `ʊ` |
+| | |
+
+<!--v-->
+
+| | |
+|-|-|
+| ꜰʟᴇᴇᴄᴇ | `iʲ` |
+| ꜰᴀᴄᴇ   | `e̞ʲ` |
+| ᴘᴀʟᴍ   | `ɑʳ` |
+| ɢᴏᴀᴛ   | `o̞ʷ` |
+| ɢᴏᴏsᴇ  | `uʷ` |
+| | |
+
+<!--v-->
+
+| | |
+|-|-|
+| ꜰʟᴇᴇᴄᴇ | `i` |
+| ꜰᴀᴄᴇ   | `e̞` |
+| ᴘᴀʟᴍ   | `ɑ` |
+| ɢᴏᴀᴛ   | `o̞` |
+| ɢᴏᴏsᴇ  | `u` |
+| | |
+
+<!--v-->
+
+| | |
+|-|-|
+| ɴᴇᴀʀ   | `iəʳ` |
+| sǫᴜᴀʀᴇ | `e̞əʳ` |
+| sᴛᴀʀᴛ  | `ɑəʳ` |
+| ꜰᴏʀᴄᴇ  | `o̞əʳ` |
+| ᴄᴜʀᴇ   | `uəʳ` |
+| | |
+
+<!--v-->
+
+| | |
+|-|-|
+| ɴᴇᴀʀ   | `ir` |
+| sǫᴜᴀʀᴇ | `e̞r` |
+| sᴛᴀʀᴛ  | `ɑr` |
+| ꜰᴏʀᴄᴇ  | `o̞r` |
+| ᴄᴜʀᴇ   | `ur` |
+| | |
+
+<!--v-->
+
+| | | | |
+|-|-|-|-|
+| ʟᴇᴛᴛ**ᴇʀ** | `əʳ` | = | ɴᴜʀsᴇ |
+| ᴄᴏᴍᴍ**ᴀ**  | `əʳ` |   |       |
+| | | | | | |
+
+<!--v-->
+
+| | | | |
+|-|-|-|-|
+| ʟᴇᴛᴛ**ᴇʀ** | `ər` | = | ɴᴜʀsᴇ |
+| ᴄᴏᴍᴍ**ᴀ**  | `ə`  |   |       |
+| | | | | | |
+
+<!--v-->
+
+| | | | | |
+|-|-|-|-|-|
+| ᴘʀɪᴄᴇ  | `aj` | | ᴍᴏᴜᴛʜ   | `aw` |
+| ᴄʜᴏɪᴄᴇ | `o̞j` | | ᴛʜᴏᴜɢʜᴛ | `o̞ʳ` |
+| | | | | |
+
+| | |
+|-|-|
+| ᴏᴜʀ | `aəʳ` |
+| | |
+
+<!--v-->
+
+| | | | | |
+|-|-|-|-|-|
+| ᴘʀɪᴄᴇ  | `aj` | | ᴍᴏᴜᴛʜ   | `aw` |
+| ᴄʜᴏɪᴄᴇ | `o̞j` | | ᴛʜᴏᴜɢʜᴛ | `o̞w` |
+| | | | | |
+
+| | |
+|-|-|
+| ᴏᴜʀ | `awər` |
+| | |
+
+<!--s-->
+
+# Consonants
+
+<!--v-->
+
+# Syllabic Consonant Formation
+
+<!--v-->
+
+### Syllabic Consonant Formation
+
+| | | |
+|-|-|-|
+| ʙᴏᴛᴛᴏᴍ | `bɒtəm` | `bɒtm̩` |
+| ᴏꜰᴛᴇɴ | `o̞fən` | `o̞fn̩` |
+| | | |
+
+<!--v-->
+
+### Syllabic Consonant Formation
+
+| | | | |
+|-|-|-|-|
+| ᴀᴘᴘʟᴇ | `æpəɫ` | `æpl̩` | |
+| | | | |
+
+<!--v-->
+
+### Syllabic Consonant Formation
+
+| | | | |
+|-|-|-|-|
+| ᴀᴘᴘʟᴇ | `æpəɫ` | `æpl̩` | `ap`~~`ʊ`~~ |
+| | | | |
+
+<!--v-->
+
+### Syllabic Consonant Formation
+
+| | | | |
+|-|-|-|-|
+| ᴀᴘᴘʟᴇ | `æpəɫ` | `æpl̩` | `apɵ` |
+| | | | |
+
+<!--v-->
+
+### Syllabic Consonant Formation
+
+| | | | |
+|-|-|-|-|
+| ᴀᴘᴘʟᴇ | `æpəɫ` | `æpl̩` | `apɵ` |
+| ᴡɪɴɴᴇʀ | `wɪnəɹ̠ʷ` | | |
+| | | | |
+
+<!--v-->
+
+### Syllabic Consonant Formation
+
+| | | | |
+|-|-|-|-|
+| ᴀᴘᴘʟᴇ | `æpəɫ` | `æpl̩` | `apɵ` |
+| ᴡɪɴɴᴇʀ | `wɪnəɹ̠ʷ` | `wɪnr̩` | |
+| | | | |
+
+<!--v-->
+
+### Syllabic Consonant Formation
+
+| | | | |
+|-|-|-|-|
+| ᴀᴘᴘʟᴇ | `æpəɫ` | `æpl̩` | `apɵ` |
+| ᴡɪɴɴᴇʀ | `wɪnəɹ̠ʷ` | `wɪnɚ` | |
+| | | | |
+
+<!--v-->
+
+### Syllabic Consonant Formation
+
+| | | | |
+|-|-|-|-|
+| ᴀᴘᴘʟᴇ | `æpəɫ` | `æpl̩` | `apɵ` |
+| ᴡɪɴɴᴇʀ | `wɪnəɹ̠ʷ` | `wɪnəʳ` | |
+| | | | |
+
+<!--v-->
+
+### Syllabic Consonant Formation
+
+| | | | |
+|-|-|-|-|
+| ᴀᴘᴘʟᴇ | `æpəɫ` | `æpl̩` | `apɵ` |
+| ᴡɪɴɴᴇʀ | `wɪnəʳ` | `wɪnəʳ` | |
+| | | | |
+
+<!--v-->
+
+### Syllabic Consonant Formation
+
+| | | | |
+|-|-|-|-|
+| ᴀᴘᴘʟᴇ | `æpəɫ` | `æpl̩` | `apɵ` |
+| ᴡɪɴɴᴇʀ | `wɪnəʳ` | | |
+| | | | |
+
+<!--v-->
+
+### Syllabic Consonant Formation
+
+| | | | |
+|-|-|-|-|
+| ᴀᴘᴘʟᴇ | `æpəɫ` | `æpl̩` | `apɵ` |
+| ᴡɪɴɴᴇʀ | `wɪnəʳ` | | `wɪnɐʳ` |
+| | | | |
+
+<!--v-->
+
+### Syllabic Consonant Formation
+
+| | | | |
+|-|-|-|-|
+| ᴍɪʟᴋ | `mɪɫk` | | |
+| | | | |
+
+<!--v-->
+
+### Syllabic Consonant Formation
+
+| | | | |
+|-|-|-|-|
+| ᴍɪʟᴋ | `mɪɫk` | | `mɪ`~~`ʊ`~~`k` |
+| | | | |
+
+<!--v-->
+
+### Syllabic Consonant Formation
+
+| | | | |
+|-|-|-|-|
+| ᴍɪʟᴋ | `mɪɫk` | | `mɪʉk` |
+| | | | |
+
+<!--v-->
+
+# G
+
+<!--v-->
+
+### G
+*(g-dropping)*
+
+| | | |
+|-|-|-|
+| sɪᴛᴛɪɴɢ | `sɪtɪŋ` | `sɪtɪn` |
+| | | |
+
+<!--v-->
+
+# Y
+
+<!--v-->
+
+### TY
+*(yod coalescence/dropping, "tuna chewing")*
+
+| | | |
+|-|-|-|
+| ᴛᴜʙᴇ | `tjub` | `tʃub` / `tub` |
+| | | |
+
+| | |
+|-|-|
+| sᴛᴀᴛᴜᴇ | `stætʃu` |
+| | |
+
+<!--v-->
+
+### DY
+*(yod coalescence/dropping)*
+
+| | | |
+|-|-|-|
+| ᴅᴜɴᴇ | `djun` | `dʒun` / `dun` |
+| | | |
+
+| | |
+|-|-|
+| ɪɴᴅɪᴠɪᴅᴜᴀʟ | `ɪndɪvɪdʒʊwəɫ` |
+| | |
+
+<!--v-->
+
+### LY
+*(yod coalescence/dropping)*
+
+| | |
+|-|-|
+| ʟᴜᴋᴇ | `luk` |
+| | |
+
+<!--v-->
+
+### SY
+*(yod coalescence/dropping)*
+
+| | |
+|-|-|
+| ɪssᴜᴇ | `ɪʃu` |
+| ᴜsᴜᴀʟ | `juʒʊwəɫ` |
+| | |
+
+| | |
+|-|-|
+| sᴜᴘᴇʀ | `supəɹ̠ʷ` |
+| | |
+
+<!--v-->
+
+### STY
+*(yod coalescence/dropping, "stupid shopping")*
+
+| | | |
+|-|-|-|
+| sᴛᴜᴘɪᴅ | `stjupɪd` | `ʃtjupɪd` / `stupɪd` |
+| | | |
+
+<!--v-->
+
+# T
+
+<!--v-->
+
+### T
+*(t-flapping)*
+
+| | | |
+|-|-|-|
+| ʟᴇᴛᴛᴇʀ | `le̞təɹ̠ʷ` | `le̞ɾəɹ̠ʷ` |
+| | | |z
+
+<!--v-->
+
+### T
+*(t-flapping)*
+
+| | | | |
+|-|-|-|-|
+| ʟᴇᴛᴛᴇʀ | `le̞təɹ̠ʷ` | `le̞ɾəɹ̠ʷ` | `le̞ɾɚ` |
+| | | | |
+
+<!--v-->
+
+### T
+*(glottalization)*
+
+| | | |
+|-|-|-|
+| ʟᴇᴛᴛᴇʀ | `le̞təʳ` | `le̞ʔəʳ` |
+| | | |
+
+<!--v-->
+
+### T
+*(glottalization)*
+
+| | | | |
+|-|-|-|-|
+| ʟᴇᴛᴛᴇʀ | `le̞təʳ` | `le̞ʔəʳ` | `lɛʔɐʳ` |
+| | | | |
+
+<!--v-->
+
+### TH
+*(th-fronting)*
+
+| | | |
+|-|-|-|
+| ᴛʜɪɴᴋ | `θɪŋk` | `fɪŋk` |
+| ʙʀᴏᴛʜᴇʀ | `bɹ̠ʷɐðə` | `bɹ̠ʷɐvə` |
+| | | |
+
+<!--v-->
+
+### TH
+*(th-fronting)*
+
+| | | | |
+|-|-|-|-|
+| ᴛʜɪɴᴋ | `θɪŋk` | `fɪŋk` | |
+| ʙʀᴏᴛʜᴇʀ | `bɹ̠ʷɐðə` | `bɹ̠ʷɐvə` | `bɹ̠ʷɐvɐ` |
+| | | | |
+
+<!--v-->
+
+# TR
+
+<!--v-->
+
+### TR
+*("train changing")*
+
+| | | |
+|-|-|-|
+| ᴛʀᴀɪɴ | `t̠ɹ̠ʷe̞jn` | `tʃɹ̠ʷe̞jn` |
+| | | |
+
+<!--v-->
+
+### DR
+*("drum majoring")*
+
+| | | |
+|-|-|-|
+| ᴅʀᴜᴍ | `d̠ɹ̠ʷɐm` | `dʒɹ̠ʷɐm` |
+| | | |
+
+<!--v-->
+
+### STR
+*("street shopping")*
+
+| | | |
+|-|-|-|
+| sᴛʀᴇᴇᴛ | `st̠ɹ̠ʷiːt` | `ʃtʃɹ̠ʷiːt` |
+| | | |
+
