@@ -475,7 +475,7 @@ Notes:
 
 <!--s-->
 
-## General American
+# General American
 *from Scratch*
 
 <!--v-->
@@ -573,7 +573,7 @@ Notes:
 
 <!--s-->
 
-## Received Pronunciation
+# <small>Received Pronunciation</small>
 *from Scratch*
 
 <!--v-->
@@ -750,7 +750,7 @@ Notes:
 
 <!--s-->
 
-## Standard Southern British
+# Standard Southern British
 *from Scratch*
 
 <!--v-->
@@ -864,6 +864,16 @@ Notes:
 | ᴘʀɪᴄᴇ  | `ɑj` | | ᴍᴏᴜᴛʜ   | `aw`  |
 | ᴄʜᴏɪᴄᴇ | `oj` | | ᴛʜᴏᴜɢʜᴛ | `oːʳ` |
 | | | | | |
+
+<!--s-->
+
+# Cockney
+*from Scratch*
+
+<!--s-->
+
+# Australian
+*from Scratch*
 
 <!--s-->
 
