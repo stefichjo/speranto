@@ -1502,7 +1502,7 @@ Notes:
 
 <!--v-->
 
-### Y-Coalescence, Y-Dropping
+### Y-Coalescence
 
 | | |
 |-|-|
@@ -1512,22 +1512,40 @@ Notes:
 | ɪssᴜᴇ | `ɪʃu`     |
 | ᴜsᴜᴀʟ | `juʒʊwəl` |
 | | |
+
+<!--v-->
+
+### Y-Dropping
+
+| | |
+|-|-|
 | ʟᴜᴋᴇ  | `luk`   |
 | sᴜᴘᴇʀ | `supəʳ` |
 | | |
 
 <!--v-->
 
-### Y-Coalescence, Y-Dropping
+### Y-Coalescence
 
 | | | | |
 |-|-|-|-|
-| ᴛᴜʙᴇ   | `tjub`    | → | `tʃub` / `tub` |
-| ᴅᴜɴᴇ   | `djun`    | → | `dʒun` / `dun` |
-| sᴛᴜᴘɪᴅ | `stjupɪd` | → | `ʃtʃupɪd` / `stupɪd` |
+| ᴛᴜʙᴇ   | `tjub`    | → | `tʃub` |
+| ᴅᴜɴᴇ   | `djun`    | → | `dʒun` |
+| sᴛᴜᴘɪᴅ | `stjupɪd` | → | `ʃtʃupɪd` |
 | | | | |
 
 Notes:
 * General American, Standard Southern British
 * Tuna Chewing
 * Stupid Shopping
+
+<!--v-->
+
+### Y-Dropping
+
+| | | | |
+|-|-|-|-|
+| ᴛᴜʙᴇ   | `tjub`    | → | `tub` |
+| ᴅᴜɴᴇ   | `djun`    | → | `dun` |
+| sᴛᴜᴘɪᴅ | `stjupɪd` | → | `stupɪd` |
+| | | | |
