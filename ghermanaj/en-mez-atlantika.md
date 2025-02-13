@@ -1001,6 +1001,7 @@ Notes:
 |-|-|
 | ᴏᴜʀ | `aəʳ` |
 | | |
+
 <!--v-->
 
 | | | | | |
@@ -1290,48 +1291,6 @@ Notes:
 
 <!--v-->
 
-| | |
-|-|-|
-| ɴᴜʀsᴇ | `ɜːʳ` |
-| | |
-
-<!--v-->
-
-| | | |
-|-|-|-|
-| ɴᴜʀsᴇ | `ɜːʳ` | `εoᴸ` |
-| | | |
-
-<!--v-->
-
-| | |
-|-|-|
-| ʟᴇᴛᴛ**ᴇʀ** | `əʳ` = ᴄᴏᴍᴍ**ᴀ** |
-| | |
-
-<!--v-->
-
-| | |
-|-|-|
-| ʟᴇᴛᴛ**ᴇʀ** | `əʳ` |
-| | |
-
-<!--v-->
-
-| | |
-|-|-|
-| ʟᴇᴛᴛ**ᴇʀ**<small>##</small> | `ə` |
-| | |
-
-<!--v-->
-
-| | |
-|-|-|
-| ʟᴇᴛᴛ**ᴇʀ**<small>##</small> | `ɐ`<small>#</small> |
-| | |
-
-<!--v-->
-
 | | | | | |
 |-|-|-|-|-|
 | ᴘʀɪᴄᴇ  | `ɑj` | | ᴍᴏᴜᴛʜ   | `æw`  |
@@ -1371,333 +1330,182 @@ Notes:
 
 <!--v-->
 
-<!-- TODO list mergers -->
+| | | | | |
+|-|-|-|-|-|
+| ʟᴇᴛᴛ**ᴇʀ** | `əʳ` | | ɴᴜʀsᴇ | `ɜːʳ` |
+| ᴄᴏᴍᴍ**ᴀ**  | `əʳ` | |       |       |
+| | | | | |
+
+| | |
+|-|-|
+| ᴏᴜʀ | `aəʳ` |
+| | |
+
+<!--v-->
+
+| | | | | | |
+|-|-|-|-|-|-|
+| ʟᴇᴛᴛ**ᴇʀ** | `əʳ` | | ɴᴜʀsᴇ | `ɜːʳ` | `εoᴸ` |
+| ᴄᴏᴍᴍ**ᴀ**  | `əʳ` | |       |       |       |
+| | | | | | |
+
+| | |
+|-|-|
+| ᴏᴜʀ | `aːʳ` |
+| | |
+
+<!--v-->
+
+| | | | |
+|-|-|-|-|
+| ʟᴇᴛᴛ**ᴇʀ** | `əʳ` | = | ᴄᴏᴍᴍ**ᴀ** |
+| | | | |
+
+<!--v-->
+
+| | |
+|-|-|
+| ʟᴇᴛᴛ**ᴇʀ** | `əʳ` |
+| | |
+
+<!--v-->
+
+| | |
+|-|-|
+| ʟᴇᴛᴛ**ᴇʀ**<small>##</small> | `ə` |
+| | |
+
+<!--v-->
+
+| | |
+|-|-|
+| ʟᴇᴛᴛ**ᴇʀ**<small>##</small> | `ɐ`<small>#</small> |
+| | |
 
 <!--s-->
 
 # Consonants
 
-<!-- TODO: menciu respektivajn akĉentojn koncernindajn -->
-
-<!--v-->
-
-# Syllabic Consonant Formation
-
 <!--v-->
 
 ### Syllabic Consonant Formation
 
-| | | |
-|-|-|-|
-| ʙᴏᴛᴛᴏᴍ | `bɒtəm` | `bɒtm̩` |
-| ᴏꜰᴛᴇɴ | `o̞fən` | `o̞fn̩` |
-| | | |
+| | | | | |
+|-|-|-|-|-|
+| ʙᴏᴛᴛᴏᴍ | `bɒtəm` | → | `bɒtm̩` |
+| ʙᴜᴛᴛᴏɴ | `bɐtən` | → | `bɐtn̩` |
+| ᴀᴘᴘʟᴇ  | `æpəl`  | → | `æpl̩`  |
+| ᴡɪɴɴᴇʀ | `wɪnəʳ` | = | `wɪnr̩` |
+| | | | | |
+
+Notes:
+* Received Pronunciation
 
 <!--v-->
 
-### Syllabic Consonant Formation
+### G-Dropping
 
 | | | | |
 |-|-|-|-|
-| ᴀᴘᴘʟᴇ | `æpəɫ` | `æpl̩` | |
+| sɪᴛᴛɪɴɢ | `sɪtɪŋ` | → | `sɪtɪn` |
 | | | | |
 
 <!--v-->
 
-### Syllabic Consonant Formation
+### H-Dropping
 
 | | | | |
 |-|-|-|-|
-| ᴀᴘᴘʟᴇ | `æpəɫ` | `æpl̩` | `ap`~~`ʊ`~~ |
+| ᴡʜᴀᴛ | `wɒt` | ← | `hwɒt` |
 | | | | |
+
+Notes:
+* Conservative Received Pronunciation
 
 <!--v-->
 
-### Syllabic Consonant Formation
+### H-Dropping
 
 | | | | |
 |-|-|-|-|
-| ᴀᴘᴘʟᴇ | `æpəɫ` | `æpl̩` | `apɵ` |
+| ʜᴏᴍᴇ | `ho̞wm` | → | `o̞wm` |
 | | | | |
+
+Notes:
+* Cockney
 
 <!--v-->
 
-### Syllabic Consonant Formation
+### R-Coalescence
 
 | | | | |
 |-|-|-|-|
-| ᴀᴘᴘʟᴇ | `æpəɫ` | `æpl̩` | `apɵ` |
-| ᴡɪɴɴᴇʀ | `wɪnəɹ̠ʷ` | | |
+| ᴛʀᴀɪɴ  | `tre̞jn` | → | `tʃre̞jn` |
+| ᴅʀᴜᴍ   | `drɐm`  | → | `dʒrɐm`  |
+| sᴛʀᴇᴇᴛ | `strit` | → | `ʃtʃrit` |
 | | | | |
+
+Notes:
+* Train Changing
+* Drum Majoring
+* Street Shopping
 
 <!--v-->
 
-### Syllabic Consonant Formation
+### T-Flapping
 
 | | | | |
 |-|-|-|-|
-| ᴀᴘᴘʟᴇ | `æpəɫ` | `æpl̩` | `apɵ` |
-| ᴡɪɴɴᴇʀ | `wɪnəɹ̠ʷ` | `wɪnr̩` | |
+| ʟᴇᴛᴛᴇʀ | `le̞təʳ` | → | `le̞ɾəʳ` |
 | | | | |
 
 <!--v-->
 
-### Syllabic Consonant Formation
+### T-Glottalization
 
 | | | | |
 |-|-|-|-|
-| ᴀᴘᴘʟᴇ | `æpəɫ` | `æpl̩` | `apɵ` |
-| ᴡɪɴɴᴇʀ | `wɪnəɹ̠ʷ` | `wɪnɚ` | |
+| ʟᴇᴛᴛᴇʀ | `le̞təʳ` | → | `le̞ʔəʳ` |
 | | | | |
 
 <!--v-->
 
-### Syllabic Consonant Formation
+### TH-Fronting
 
 | | | | |
 |-|-|-|-|
-| ᴀᴘᴘʟᴇ | `æpəɫ` | `æpl̩` | `apɵ` |
-| ᴡɪɴɴᴇʀ | `wɪnəɹ̠ʷ` | `wɪnəʳ` | |
+| ᴛʜɪɴᴋ   | `θɪŋk`  | → | `fɪŋk`  |
+| ʙʀᴏᴛʜᴇʀ | `brɐðə` | → | `brɐvə` |
 | | | | |
 
 <!--v-->
 
-### Syllabic Consonant Formation
-
-| | | | |
-|-|-|-|-|
-| ᴀᴘᴘʟᴇ | `æpəɫ` | `æpl̩` | `apɵ` |
-| ᴡɪɴɴᴇʀ | `wɪnəʳ` | `wɪnəʳ` | |
-| | | | |
-
-<!--v-->
-
-### Syllabic Consonant Formation
-
-| | | | |
-|-|-|-|-|
-| ᴀᴘᴘʟᴇ | `æpəɫ` | `æpl̩` | `apɵ` |
-| ᴡɪɴɴᴇʀ | `wɪnəʳ` | | |
-| | | | |
-
-<!--v-->
-
-### Syllabic Consonant Formation
-
-| | | | |
-|-|-|-|-|
-| ᴀᴘᴘʟᴇ | `æpəɫ` | `æpl̩` | `apɵ` |
-| ᴡɪɴɴᴇʀ | `wɪnəʳ` | | `wɪnɐʳ` |
-| | | | |
-
-<!--v-->
-
-### Syllabic Consonant Formation
-
-| | | | |
-|-|-|-|-|
-| ᴍɪʟᴋ | `mɪɫk` | | |
-| | | | |
-
-<!--v-->
-
-### Syllabic Consonant Formation
-
-| | | | |
-|-|-|-|-|
-| ᴍɪʟᴋ | `mɪɫk` | | `mɪ`~~`ʊ`~~`k` |
-| | | | |
-
-<!--v-->
-
-### Syllabic Consonant Formation
-
-| | | | |
-|-|-|-|-|
-| ᴍɪʟᴋ | `mɪɫk` | | `mɪʉk` |
-| | | | |
-
-<!--v-->
-
-# G
-
-<!--v-->
-
-### G
-*(g-dropping)*
-
-| | | |
-|-|-|-|
-| sɪᴛᴛɪɴɢ | `sɪtɪŋ` | `sɪtɪn` |
-| | | |
-
-<!--v-->
-
-# Y
-
-<!--v-->
-
-### TY
-*(yod coalescence/dropping, "tuna chewing")*
-
-| | | |
-|-|-|-|
-| ᴛᴜʙᴇ | `tjub` | `tʃub` / `tub` |
-| | | |
+### Y-Coalescence, Y-Dropping
 
 | | |
 |-|-|
-| sᴛᴀᴛᴜᴇ | `stætʃu` |
+| sᴛᴀᴛᴜᴇ     | `stætʃu`       |
+| ɪɴᴅɪᴠɪᴅᴜᴀʟ | `ɪndɪvɪdʒʊwəl` |
+| | |
+| ɪssᴜᴇ | `ɪʃu`     |
+| ᴜsᴜᴀʟ | `juʒʊwəl` |
+| | |
+| ʟᴜᴋᴇ  | `luk`  |
+| sᴜᴘᴇʀ | `supɚ` |
 | | |
 
 <!--v-->
 
-### DY
-*(yod coalescence/dropping)*
-
-| | | |
-|-|-|-|
-| ᴅᴜɴᴇ | `djun` | `dʒun` / `dun` |
-| | | |
-
-| | |
-|-|-|
-| ɪɴᴅɪᴠɪᴅᴜᴀʟ | `ɪndɪvɪdʒʊwəɫ` |
-| | |
-
-<!--v-->
-
-### LY
-*(yod coalescence/dropping)*
-
-| | |
-|-|-|
-| ʟᴜᴋᴇ | `luk` |
-| | |
-
-<!--v-->
-
-### SY
-*(yod coalescence/dropping)*
-
-| | |
-|-|-|
-| ɪssᴜᴇ | `ɪʃu` |
-| ᴜsᴜᴀʟ | `juʒʊwəɫ` |
-| | |
-
-| | |
-|-|-|
-| sᴜᴘᴇʀ | `supəɹ̠ʷ` |
-| | |
-
-<!--v-->
-
-### STY
-*(yod coalescence/dropping, "stupid shopping")*
-
-| | | |
-|-|-|-|
-| sᴛᴜᴘɪᴅ | `stjupɪd` | `ʃtjupɪd` / `stupɪd` |
-| | | |
-
-<!--v-->
-
-# T
-
-<!--v-->
-
-### T
-*(t-flapping)*
-
-| | | |
-|-|-|-|
-| ʟᴇᴛᴛᴇʀ | `le̞təɹ̠ʷ` | `le̞ɾəɹ̠ʷ` |
-| | | |z
-
-<!--v-->
-
-### T
-*(t-flapping)*
+### Y-Coalescence, Y-Dropping
 
 | | | | |
 |-|-|-|-|
-| ʟᴇᴛᴛᴇʀ | `le̞təɹ̠ʷ` | `le̞ɾəɹ̠ʷ` | `le̞ɾɚ` |
+| ᴛᴜʙᴇ   | `tjub`    | → | `tʃub` / `tub` |
+| ᴅᴜɴᴇ   | `djun`    | → | `dʒun` / `dun` |
+| sᴛᴜᴘɪᴅ | `stjupɪd` | → | `ʃtʃupɪd` / `stupɪd` |
 | | | | |
 
-<!--v-->
-
-### T
-*(glottalization)*
-
-| | | |
-|-|-|-|
-| ʟᴇᴛᴛᴇʀ | `le̞təʳ` | `le̞ʔəʳ` |
-| | | |
-
-<!--v-->
-
-### T
-*(glottalization)*
-
-| | | | |
-|-|-|-|-|
-| ʟᴇᴛᴛᴇʀ | `le̞təʳ` | `le̞ʔəʳ` | `lɛʔɐʳ` |
-| | | | |
-
-<!--v-->
-
-### TH
-*(th-fronting)*
-
-| | | |
-|-|-|-|
-| ᴛʜɪɴᴋ | `θɪŋk` | `fɪŋk` |
-| ʙʀᴏᴛʜᴇʀ | `bɹ̠ʷɐðə` | `bɹ̠ʷɐvə` |
-| | | |
-
-<!--v-->
-
-### TH
-*(th-fronting)*
-
-| | | | |
-|-|-|-|-|
-| ᴛʜɪɴᴋ | `θɪŋk` | `fɪŋk` | |
-| ʙʀᴏᴛʜᴇʀ | `bɹ̠ʷɐðə` | `bɹ̠ʷɐvə` | `bɹ̠ʷɐvɐ` |
-| | | | |
-
-<!--v-->
-
-# TR
-
-<!--v-->
-
-### TR
-*("train changing")*
-
-| | | |
-|-|-|-|
-| ᴛʀᴀɪɴ | `t̠ɹ̠ʷe̞jn` | `tʃɹ̠ʷe̞jn` |
-| | | |
-
-<!--v-->
-
-### DR
-*("drum majoring")*
-
-| | | |
-|-|-|-|
-| ᴅʀᴜᴍ | `d̠ɹ̠ʷɐm` | `dʒɹ̠ʷɐm` |
-| | | |
-
-<!--v-->
-
-### STR
-*("street shopping")*
-
-| | | |
-|-|-|-|
-| sᴛʀᴇᴇᴛ | `st̠ɹ̠ʷiːt` | `ʃtʃɹ̠ʷiːt` |
-| | | |
-
+Notes:
+* General American, Standard Southern British
+* Tuna Chewing
+* Stupid Shopping
