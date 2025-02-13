@@ -15,9 +15,9 @@ revealOptions:
 <!-- ᵿ ‿ ː -->
 
 # General<br>Mid-Atlantic
-*non-rhotic*
 
 Notes:
+* non-rhotic
 * *cf. Edith Skinner's, Speak with Distinction (1942)*
 
 <!--v-->
@@ -338,7 +338,9 @@ Notes:
 <!--s-->
 
 # Basic<br> Mid-Atlantic
-*rhotic*
+
+Notes:
+* rhotic
 
 <!--v-->
 
@@ -473,7 +475,9 @@ Notes:
 <!--s-->
 
 # Friendly<br>Mid-Atlantic
-*linking*
+
+Notes:
+* linking
 
 <!--v-->
 
