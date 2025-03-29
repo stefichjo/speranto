@@ -126,13 +126,13 @@ revealOptions:
 
 | 🌐 mêse <small>men̆se</small> |
 |:-:|
-| 🇮🇹 mêse <small>mēn̆se<small> |
+| 🇮🇹 mêse <small>mén̆se<small> |
 
 <!--v-->
 
 | 🌐 mêse <small>men̆se</small> |
 |:-:|
-| 🇮🇹 mêse <small>~~mēn̆se~~<small> |
+| 🇮🇹 mêse <small>~~mén̆se~~<small> |
 
 <!--v-->
 
@@ -235,6 +235,18 @@ revealOptions:
 | 🌐 paése <small>pağen̆se</small> |
 |:-:|
 | 🇮🇹 paése |
+
+<!--v-->
+
+| 🌐 paése <small>pağen̆se</small> |
+|:-:|
+| 🇮🇹 paése <small>pağén̆se</small> |
+
+<!--v-->
+
+| 🌐 paése <small>pağen̆se</small> |
+|:-:|
+| 🇮🇹 paése <small>~~pağén̆se~~</small> |
 
 <!--v-->
 
