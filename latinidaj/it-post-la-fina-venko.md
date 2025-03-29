@@ -120,6 +120,12 @@ revealOptions:
 
 | 🌐 mêse <small>men̆se</small> |
 |:-:|
+| 🇮🇹 mêse |
+
+<!--v-->
+
+| 🌐 mêse <small>men̆se</small> |
+|:-:|
 | 🇮🇹 mêse <small>mēn̆se<small> |
 
 <!--v-->
@@ -192,6 +198,12 @@ revealOptions:
 
 | 🌐 peço <small>petĭo</small> |
 |:-:|
+| 🇮🇹 peço |
+
+<!--v-->
+
+| 🌐 peço <small>petĭo</small> |
+|:-:|
 | 🇮🇹 peço <small>petĭo</small> |
 
 <!--v-->
@@ -199,6 +211,12 @@ revealOptions:
 | 🌐 plaça <small>platĕa</small> |
 |:-:|
 | 🇮🇹 piazza |
+
+<!--v-->
+
+| 🌐 plaça <small>platĕa</small> |
+|:-:|
+| 🇮🇹 pḷaça |
 
 <!--v-->
 
@@ -216,6 +234,12 @@ revealOptions:
 
 | 🌐 paése <small>pağen̆se</small> |
 |:-:|
+| 🇮🇹 paése |
+
+<!--v-->
+
+| 🌐 paése <small>pağen̆se</small> |
+|:-:|
 | 🇮🇹 paése <small>pağen̆se</small> |
 
 <!--v-->
@@ -224,6 +248,12 @@ revealOptions:
 | 🌐 mâistro <small>mağistro</small> |
 |:-:|
 | 🇮🇹 maestro |
+
+<!--v-->
+
+| 🌐 mâistro <small>mağistro</small> |
+|:-:|
+| 🇮🇹 maïstro |
 
 <!--v-->
 
@@ -362,9 +392,4 @@ revealOptions:
 | 🌐 pronuntiare |
 |:-:|
 | 🇮🇹 pronuntiare |
-
-
-
-
-
 
