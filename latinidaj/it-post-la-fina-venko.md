@@ -250,13 +250,13 @@ revealOptions:
 
 <!--v-->
 
-| 🌐 mâistro <small>mağistro</small> |
+| 🌐 maístro <small>mağistro</small> |
 |:-:|
 | 🇮🇹 maïstro |
 
 <!--v-->
 
-| 🌐 mâistro <small>mağistro</small> |
+| 🌐 maístro <small>mağistro</small> |
 |:-:|
 | 🇮🇹 maïstro <small>mağïstro</small> |
 
