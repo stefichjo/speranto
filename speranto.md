@@ -5283,7 +5283,7 @@ lib/liv?
 
 <!--v-->
 
-**mâistro** <small>**mağistro**</small>
+**maístro** <small>**mağistro**</small>
 
 | 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
 |:-:|:-:|:-:|:-:|

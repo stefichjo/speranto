@@ -243,9 +243,8 @@ revealOptions:
 | 🇮🇹 paése <small>pağen̆se</small> |
 
 <!--v-->
-<!-- Ĉu ne estu maîstro? -->
 
-| 🌐 mâistro <small>mağistro</small> |
+| 🌐 maístro <small>mağistro</small> |
 |:-:|
 | 🇮🇹 maestro |
 
