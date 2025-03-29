@@ -12,7 +12,7 @@ revealOptions:
 
 <!-- cd ~/Git/speranto; reveal-md latinidaj/it-post-la-fina-venko.md -w -->
 
-## Post la Fina Venko:<br> Italiano
+# Post la Fina Venko:<br> 🌐 → 🇮🇹
 
 <!-- 🌐 -->
 
@@ -24,19 +24,27 @@ revealOptions:
 
 <!--v-->
 
-### Ortografio
+## Ortografio
 
 <!--v-->
 
-| 🌐 de |
-|:-:|
-| 🇮🇹 di |
+### h
 
 <!--v-->
 
-| 🌐 de |
+| 🌐 herba |
 |:-:|
-| 🇮🇹 dė |
+| 🇮🇹 erba |
+
+<!--v-->
+
+| 🌐 herba |
+|:-:|
+| 🇮🇹 herba |
+
+<!--v-->
+
+### qŭ
 
 <!--v-->
 
@@ -52,27 +60,7 @@ revealOptions:
 
 <!--v-->
 
-| 🌐 pilo |
-|:-:|
-| 🇮🇹 pelo |
-
-<!--v-->
-
-| 🌐 pilo |
-|:-:|
-| 🇮🇹 pïlo |
-
-<!--v-->
-
-| 🌐 multo |
-|:-:|
-| 🇮🇹 molto |
-
-<!--v-->
-
-| 🌐 multo |
-|:-:|
-| 🇮🇹 můlto |
+### åŭ
 
 <!--v-->
 
@@ -88,51 +76,35 @@ revealOptions:
 
 <!--v-->
 
-| 🌐 bona |
-|:-:|
-| 🇮🇹 buona |
+### ï & ů
 
 <!--v-->
 
-| 🌐 bona |
+| 🌐 signo |
 |:-:|
-| 🇮🇹 bõna |
+| 🇮🇹 segno |
 
 <!--v-->
 
-| 🌐 centro |
+| 🌐 signo |
 |:-:|
-| 🇮🇹 centro |
+| 🇮🇹 sïgno |
 
 <!--v-->
 
-| 🌐 mêse <small>men̆se</small> |
+| 🌐 multo |
 |:-:|
-| 🇮🇹 mese |
+| 🇮🇹 molto |
 
 <!--v-->
 
-| 🌐 mêse <small>men̆se</small> |
+| 🌐 multo |
 |:-:|
-| 🇮🇹 mêse |
+| 🇮🇹 můlto |
 
 <!--v-->
 
-| 🌐 mêse <small>men̆se</small> |
-|:-:|
-| 🇮🇹 mêse <small>mén̆se<small> |
-
-<!--v-->
-
-| 🌐 mêse <small>men̆se</small> |
-|:-:|
-| 🇮🇹 mêse <small>~~mén̆se~~<small> |
-
-<!--v-->
-
-| 🌐 mêse <small>men̆se</small> |
-|:-:|
-| 🇮🇹 mêse <small>men̆se<small> |
+### ẽ & õ
 
 <!--v-->
 
@@ -145,6 +117,22 @@ revealOptions:
 | 🌐 pede |
 |:-:|
 | 🇮🇹 pẽde |
+
+<!--v-->
+
+| 🌐 bona |
+|:-:|
+| 🇮🇹 buona |
+
+<!--v-->
+
+| 🌐 bona |
+|:-:|
+| 🇮🇹 bõna |
+
+<!--v-->
+
+### j
 
 <!--v-->
 
@@ -172,6 +160,22 @@ revealOptions:
 
 <!--v-->
 
+| 🌐 diurno |
+|:-:|
+| 🇮🇹 giorno |
+
+<!--v-->
+
+| 🌐 diurno |
+|:-:|
+| 🇮🇹 djůrno |
+
+<!--v-->
+
+### ti
+
+<!--v-->
+
 | 🌐 gratia |
 |:-:|
 | 🇮🇹 grazia |
@@ -181,6 +185,10 @@ revealOptions:
 | 🌐 gratia |
 |:-:|
 | 🇮🇹 gratia |
+
+<!--v-->
+
+### tĕ & tĭ
 
 <!--v-->
 
@@ -220,6 +228,138 @@ revealOptions:
 
 <!--v-->
 
+### ḷ
+
+<!--v-->
+
+| 🌐 blanca |
+|:-:|
+| 🇮🇹 bianca |
+
+<!--v-->
+
+| 🌐 blanca |
+|:-:|
+| 🇮🇹 bḷanca |
+
+<!--v-->
+
+| 🌐 clara |
+|:-:|
+| 🇮🇹 chiara |
+
+<!--v-->
+
+| 🌐 clara |
+|:-:|
+| 🇮🇹 cḷara |
+
+<!--v-->
+
+| 🌐 flamma |
+|:-:|
+| 🇮🇹 fiamma |
+
+<!--v-->
+
+| 🌐 flamma |
+|:-:|
+| 🇮🇹 fḷamma |
+
+<!--v-->
+
+| 🌐 plena |
+|:-:|
+| 🇮🇹 piena |
+
+<!--v-->
+
+| 🌐 plena |
+|:-:|
+| 🇮🇹 pḷena |
+
+<!--v-->
+
+### c̆ & ğ
+
+<!--v-->
+
+| 🌐 catto |
+|:-:|
+| 🇮🇹 gatto |
+
+<!--v-->
+
+| 🌐 catto |
+|:-:|
+| 🇮🇹 c̆atto |
+
+<!--v-->
+
+| 🌐 maístro <small>mağistro</small> |
+|:-:|
+| 🇮🇹 maestro |
+
+<!--v-->
+
+| 🌐 maístro <small>mağistro</small> |
+|:-:|
+| 🇮🇹 maïstro |
+
+<!--v-->
+
+| 🌐 maístro <small>mağistro</small> |
+|:-:|
+| 🇮🇹 maïstro <small>mağïstro</small> |
+
+<!--v-->
+
+### ...
+
+<!--v-->
+
+| 🌐 de |
+|:-:|
+| 🇮🇹 di |
+
+<!--v-->
+
+| 🌐 de |
+|:-:|
+| 🇮🇹 dė |
+
+<!--v-->
+
+| 🌐 mêse <small>men̆se</small> |
+|:-:|
+| 🇮🇹 mese |
+
+<!--v-->
+
+| 🌐 mêse <small>men̆se</small> |
+|:-:|
+| 🇮🇹 mêse |
+
+<!--v-->
+
+| 🌐 mêse <small>men̆se</small> |
+|:-:|
+| 🇮🇹 mêse <small>mén̆se<small> |
+
+<!--v-->
+
+| 🌐 mêse <small>men̆se</small> |
+|:-:|
+| 🇮🇹 mêse <small>~~mén̆se~~<small> |
+
+<!--v-->
+
+| 🌐 mêse <small>men̆se</small> |
+|:-:|
+| 🇮🇹 mêse <small>men̆se<small> |
+
+<!--v-->
+
 | 🌐 paése <small>pağen̆se</small> |
 |:-:|
 | 🇮🇹 paese |
@@ -247,48 +387,6 @@ revealOptions:
 | 🌐 paése <small>pağen̆se</small> |
 |:-:|
 | 🇮🇹 paése <small>pağen̆se</small> |
-
-<!--v-->
-
-| 🌐 maístro <small>mağistro</small> |
-|:-:|
-| 🇮🇹 maestro |
-
-<!--v-->
-
-| 🌐 maístro <small>mağistro</small> |
-|:-:|
-| 🇮🇹 maïstro |
-
-<!--v-->
-
-| 🌐 maístro <small>mağistro</small> |
-|:-:|
-| 🇮🇹 maïstro <small>mağïstro</small> |
-
-<!--v-->
-
-| 🌐 catto |
-|:-:|
-| 🇮🇹 gatto |
-
-<!--v-->
-
-| 🌐 catto |
-|:-:|
-| 🇮🇹 c̆atto |
-
-<!--v-->
-
-| 🌐 herba |
-|:-:|
-| 🇮🇹 erba |
-
-<!--v-->
-
-| 🌐 herba |
-|:-:|
-| 🇮🇹 herba |
 
 <!--v-->
 
@@ -328,19 +426,7 @@ revealOptions:
 
 <!--v-->
 
-| 🌐 flamma |
-|:-:|
-| 🇮🇹 fiamma |
-
-<!--v-->
-
-| 🌐 flamma |
-|:-:|
-| 🇮🇹 fḷamma |
-
-<!--v-->
-
-#### Grekaj Vortoj
+### Grekaj Vortoj
 
 <!--v-->
 
@@ -416,15 +502,15 @@ revealOptions:
 
 <!--v-->
 
-#### Prononco
+### Prononco
 
 <!--v-->
 
-##### é/è
+#### é/è
 
 <!--v-->
 
-##### ó/ò
+#### ó/ò
 
 <!--v-->
 
@@ -500,7 +586,7 @@ revealOptions:
 
 <!--v-->
 
-##### ṙ
+#### ṙ
 
 <!--v-->
 
@@ -516,7 +602,7 @@ revealOptions:
 
 <!--v-->
 
-##### tj
+#### tj
 
 <!--v-->
 
@@ -542,3 +628,4 @@ revealOptions:
 |:-:|
 | 🇮🇹 pronuntiare |
 
+<!-- ménse :( -->
