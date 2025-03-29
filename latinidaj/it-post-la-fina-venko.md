@@ -280,7 +280,19 @@ revealOptions:
 
 <!--v-->
 
-### c̆ & ğ
+### ct & c̆ & ğ
+
+<!--v-->
+
+| 🌐 lacte |
+|:-:|
+| 🇮🇹 latte |
+
+<!--v-->
+
+| 🌐 lacte |
+|:-:|
+| 🇮🇹 lacte |
 
 <!--v-->
 
@@ -314,6 +326,44 @@ revealOptions:
 
 <!--v-->
 
+### pt & p̆ & v̆
+
+<!--v-->
+
+| 🌐 septe |
+|:-:|
+| 🇮🇹 sette |
+
+<!--v-->
+
+| 🌐 septe |
+|:-:|
+| 🇮🇹 septe |
+
+<!--v-->
+
+| 🌐 paupera |
+|:-:|
+| 🇮🇹 povera |
+
+<!--v-->
+
+| 🌐 paupera |
+|:-:|
+| 🇮🇹 påŭp̆era |
+
+<!--v-->
+
+| 🌐 bevĕre |
+|:-:|
+| 🇮🇹 bere |
+
+<!--v-->
+
+| 🌐 bevĕre |
+|:-:|
+| 🇮🇹 bev̆ĕre |
+
 ### ...
 
 <!--v-->
@@ -327,102 +377,6 @@ revealOptions:
 | 🌐 de |
 |:-:|
 | 🇮🇹 dė |
-
-<!--v-->
-
-| 🌐 mêse <small>men̆se</small> |
-|:-:|
-| 🇮🇹 mese |
-
-<!--v-->
-
-| 🌐 mêse <small>men̆se</small> |
-|:-:|
-| 🇮🇹 mêse |
-
-<!--v-->
-
-| 🌐 mêse <small>men̆se</small> |
-|:-:|
-| 🇮🇹 mêse <small>mén̆se<small> |
-
-<!--v-->
-
-| 🌐 mêse <small>men̆se</small> |
-|:-:|
-| 🇮🇹 mêse <small>~~mén̆se~~<small> |
-
-<!--v-->
-
-| 🌐 mêse <small>men̆se</small> |
-|:-:|
-| 🇮🇹 mêse <small>men̆se<small> |
-
-<!--v-->
-
-| 🌐 paése <small>pağen̆se</small> |
-|:-:|
-| 🇮🇹 paese |
-
-<!--v-->
-
-| 🌐 paése <small>pağen̆se</small> |
-|:-:|
-| 🇮🇹 paése |
-
-<!--v-->
-
-| 🌐 paése <small>pağen̆se</small> |
-|:-:|
-| 🇮🇹 paése <small>pağén̆se</small> |
-
-<!--v-->
-
-| 🌐 paése <small>pağen̆se</small> |
-|:-:|
-| 🇮🇹 paése <small>~~pağén̆se~~</small> |
-
-<!--v-->
-
-| 🌐 paése <small>pağen̆se</small> |
-|:-:|
-| 🇮🇹 paése <small>pağen̆se</small> |
-
-<!--v-->
-
-| 🌐 lacte |
-|:-:|
-| 🇮🇹 latte |
-
-<!--v-->
-
-| 🌐 lacte |
-|:-:|
-| 🇮🇹 lacte |
-
-<!--v-->
-
-| 🌐 doctore |
-|:-:|
-| 🇮🇹 dottore |
-
-<!--v-->
-
-| 🌐 doctore |
-|:-:|
-| 🇮🇹 doctore |
-
-<!--v-->
-
-| 🌐 paro |
-|:-:|
-| 🇮🇹 paio |
-
-<!--v-->
-
-| 🌐 paro |
-|:-:|
-| 🇮🇹 paṙo |
 
 <!--v-->
 
@@ -510,6 +464,66 @@ revealOptions:
 
 <!--v-->
 
+| 🌐 mêse <small>men̆se</small> |
+|:-:|
+| 🇮🇹 mese |
+
+<!--v-->
+
+| 🌐 mêse <small>men̆se</small> |
+|:-:|
+| 🇮🇹 mêse |
+
+<!--v-->
+
+| 🌐 mêse <small>men̆se</small> |
+|:-:|
+| 🇮🇹 mêse <small>mén̆se<small> |
+
+<!--v-->
+
+| 🌐 mêse <small>men̆se</small> |
+|:-:|
+| 🇮🇹 mêse <small>~~mén̆se~~<small> |
+
+<!--v-->
+
+| 🌐 mêse <small>men̆se</small> |
+|:-:|
+| 🇮🇹 mêse <small>men̆se<small> |
+
+<!--v-->
+
+| 🌐 paése <small>pağen̆se</small> |
+|:-:|
+| 🇮🇹 paese |
+
+<!--v-->
+
+| 🌐 paése <small>pağen̆se</small> |
+|:-:|
+| 🇮🇹 paése |
+
+<!--v-->
+
+| 🌐 paése <small>pağen̆se</small> |
+|:-:|
+| 🇮🇹 paése <small>pağén̆se</small> |
+
+<!--v-->
+
+| 🌐 paése <small>pağen̆se</small> |
+|:-:|
+| 🇮🇹 paése <small>~~pağén̆se~~</small> |
+
+<!--v-->
+
+| 🌐 paése <small>pağen̆se</small> |
+|:-:|
+| 🇮🇹 paése <small>pağen̆se</small> |
+
+<!--v-->
+
 #### ó/ò
 
 <!--v-->
@@ -538,30 +552,6 @@ revealOptions:
 
 <!--v-->
 
-| 🌐 hora |
-|:-:|
-| 🇮🇹 ora |
-
-<!--v-->
-
-| 🌐 hora |
-|:-:|
-| 🇮🇹 hōra |
-
-<!--v-->
-
-| 🌐 hora |
-|:-:|
-| 🇮🇹 ~~hōra~~ |
-
-<!--v-->
-
-| 🌐 hora |
-|:-:|
-| 🇮🇹 hora |
-
-<!--v-->
-
 | 🌐 cauda |
 |:-:|
 | 🇮🇹 coda |
@@ -587,6 +577,18 @@ revealOptions:
 <!--v-->
 
 #### ṙ
+
+<!--v-->
+
+| 🌐 paro |
+|:-:|
+| 🇮🇹 paio |
+
+<!--v-->
+
+| 🌐 paro |
+|:-:|
+| 🇮🇹 paṙo |
 
 <!--v-->
 
