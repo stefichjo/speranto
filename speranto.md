@@ -6756,7 +6756,7 @@ Notes:
 * **omnĭ** [ogni]
 * **somnĭo** [sogno]
 
-hymno thůnno sůbto dïcto judiȼio hẽri spagìtti teŭt̯ìsco pḷùvja ěq̆uale sùbsta hodjė djůrno cḷesıa åŭrïcŭlo spìcŭlo pḷus pağēn̆se pḷaṯo civĭtat̯ civĭtat̯inantĭa rat̯ĭōne stat̯ĭōne cōrtēn̆s̆jare fas̆ĕolo pḷïc̆are mac̄hina rėcůp̆erare mağĭs mağis jänŭar̆io febrŭar̆io aŭgůsto dẽcė jůp̆ediĕ allovjo fḷava postmeridjo duvĭo levjero důpḷo qyæṟere tåŭrinēn̆se angùstja frïgĭdo domĭna vïrĭde porĭco hĭstoria ĭntra ĭnfra qŭis qŭōme capïtĭůlo ĕxvïğĭlĭare hospït̯ale cåŭsa sap̆jo poṡt créscĕre
+sůbto dïcto judiȼio hẽri spagìtti teŭt̯ìsco pḷùvja ěq̆uale sùbsta hodjė djůrno cḷesıa åŭrïcŭlo spìcŭlo pḷus pağēn̆se pḷaṯo civĭtat̯ civĭtat̯inantĭa rat̯ĭōne stat̯ĭōne cōrtēn̆s̆jare fas̆ĕolo pḷïc̆are mac̄hina rėcůp̆erare mağĭs mağis jänŭar̆io febrŭar̆io aŭgůsto dẽcė jůp̆ediĕ allovjo fḷava postmeridjo duvĭo levjero důpḷo qyæṟere tåŭrinēn̆se angùstja frïgĭdo domĭna vïrĭde porĭco hĭstoria ĭntra ĭnfra qŭis qŭōme capïtĭůlo ĕxvïğĭlĭare hospït̯ale cåŭsa sap̆jo poṡt créscĕre
 
 dŭm-ïntĕre ad-lă-hōra ad-pœna dĕ-ab-vēro dĕ-ïntro dĕ-ůvï ĭstĕ-ïpso qŭō-sic de̊-post
 

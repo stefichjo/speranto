@@ -20,7 +20,7 @@ revealOptions:
 <!-- Estus tre utile, se la kuniĝo de du vortoj, kiam ĝi duobligas la sekvantan konsonanton, estas distingebla de kuniĝo, kiam la konsonanto restas unuobla. -->
 <!-- de-la -->
 
-<!--v-->
+<!--s-->
 
 ## h
 
@@ -358,21 +358,15 @@ revealOptions:
 
 <!--v-->
 
-| 🌐 folia |
+| 🌐 filio |
 |:-:|
-| 🇮🇹 foglia |
+| 🇮🇹 figlio |
 
 <!--v-->
 
-| 🌐 folia |
+| 🌐 filio |
 |:-:|
-| 🇮🇹 folĭa |
-
-<!--v-->
-
-| 🌐 olio <small>olĕo</small> |
-|:-:|
-| 🇮🇹 olio <small>olĕo</small> |
+| 🇮🇹 filĭo |
 
 <!--v-->
 
@@ -477,6 +471,46 @@ revealOptions:
 | 🌐 sedŭla |
 |:-:|
 | 🇮🇹 sedŭla |
+
+<!--v-->
+
+## ii
+
+<!--v-->
+
+| 🌐 calendarii |
+|:-:|
+| 🇮🇹 calendari |
+
+<!--v-->
+
+| 🌐 calendarii |
+|:-:|
+| 🇮🇹 calendarii |
+
+<!--v-->
+
+| 🌐 filii |
+|:-:|
+| 🇮🇹 figli |
+
+<!--v-->
+
+| 🌐 filii |
+|:-:|
+| 🇮🇹 filĭi |
+
+<!--v-->
+
+| 🌐 ocŭli |
+|:-:|
+| 🇮🇹 occhi |
+
+<!--v-->
+
+| 🌐 ocŭli |
+|:-:|
+| 🇮🇹 ocŭli |
 
 <!--v-->
 
@@ -992,6 +1026,12 @@ revealOptions:
 |:-:|
 | 🇮🇹 havemo |
 
+<!-- usicre -->
+<!-- ragazzo -->
+
 <!--v-->
 
-<!-- usicre -->
+<!-- | 🌐 olio <small>olĕo</small> |
+|:-:|
+| 🇮🇹 olio <small>olĕo</small> |
+ -->
