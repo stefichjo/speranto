@@ -878,4 +878,32 @@ revealOptions:
 |:-:|
 | 🇮🇹 pronuntiare |
 
+<!--v-->
+
+#### ȼ
+
+<!--v-->
+
+| 🌐 judicio |
+|:-:|
+| 🇮🇹 judizio |
+
+<!--v-->
+
+| 🌐 judicio |
+|:-:|
+| 🇮🇹 judiȼio |
+
+<!--v-->
+
+| 🌐 judicio |
+|:-:|
+| 🇮🇹 ~~judiȼio~~ |
+
+<!--v-->
+
+| 🌐 judicio |
+|:-:|
+| 🇮🇹 judicio |
+
 <!-- usicre -->
