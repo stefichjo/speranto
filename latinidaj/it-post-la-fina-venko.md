@@ -620,18 +620,6 @@ revealOptions:
 
 <!--v-->
 
-| 🌐 schola |
-|:-:|
-| 🇮🇹 scuola |
-
-<!--v-->
-
-| 🌐 schola |
-|:-:|
-| 🇮🇹 schõla |
-
-<!--v-->
-
 | 🌐 photo |
 |:-:|
 | 🇮🇹 foto |
