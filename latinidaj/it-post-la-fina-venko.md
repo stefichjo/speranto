@@ -150,18 +150,6 @@ revealOptions:
 
 <!--v-->
 
-| 🌐 maio |
-|:-:|
-| 🇮🇹 maggio |
-
-<!--v-->
-
-| 🌐 maio |
-|:-:|
-| 🇮🇹 majo |
-
-<!--v-->
-
 | 🌐 justa |
 |:-:|
 | 🇮🇹 giusta |
@@ -183,6 +171,48 @@ revealOptions:
 | 🌐 diurno |
 |:-:|
 | 🇮🇹 djůrno |
+
+<!--v-->
+
+| 🌐 maio |
+|:-:|
+| 🇮🇹 maggio |
+
+<!--v-->
+
+| 🌐 maio |
+|:-:|
+| 🇮🇹 majo |
+
+<!--v-->
+
+| 🌐 radio |
+|:-:|
+| 🇮🇹 raggio |
+
+<!--v-->
+
+| 🌐 radio |
+|:-:|
+| 🇮🇹 radjo |
+
+<!--v-->
+
+| 🌐 viâjo <small>viat̯jc̆o</small> |
+|:-:|
+| 🇮🇹 viaggio |
+
+<!--v-->
+
+| 🌐 viâjo <small>viat̯jc̆o</small> |
+|:-:|
+| 🇮🇹 viâjo |
+
+<!--v-->
+
+| 🌐 viâjo <small>viat̯jc̆o</small> |
+|:-:|
+| 🇮🇹 viâjo <small>viat̯jc̆o</small> |
 
 <!--v-->
 
@@ -773,4 +803,3 @@ revealOptions:
 | 🇮🇹 pronuntiare |
 
 <!-- usicre -->
-<!-- -ajo -->

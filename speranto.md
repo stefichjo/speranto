@@ -6786,7 +6786,7 @@ mağis presto frïsc̆o frïsĉa
 [ɑ͂]
 vento tenta dente quando
 
-* *voyage* [vwajaʒ]: **vĩajo** = **vĩaj**@j
+* *voyage* [vwajaʒ]: **vĩâjo** = **vĩaj**@j
  võc̆äle
 
 * *chaise* [ʃɛz]: **ĉäthĕdr̃a** = **ĉäs**
