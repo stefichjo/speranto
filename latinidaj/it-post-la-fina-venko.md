@@ -254,19 +254,19 @@ revealOptions:
 
 <!--v-->
 
-| 🌐 bâneo <small>balnĕo</small> |
+| 🌐 bânio <small>balnĕo</small> |
 |:-:|
 | 🇮🇹 bagno |
 
 <!--v-->
 
-| 🌐 bâneo <small>balnĕo</small> |
+| 🌐 bânio <small>balnĕo</small> |
 |:-:|
 | 🇮🇹 bânĕo |
 
 <!--v-->
 
-| 🌐 bâneo <small>balnĕo</small> |
+| 🌐 bânio <small>balnĕo</small> |
 |:-:|
 | 🇮🇹 bânĕo <small>balnĕo</small> |
 
@@ -773,3 +773,4 @@ revealOptions:
 | 🇮🇹 pronuntiare |
 
 <!-- usicre -->
+<!-- -ajo -->
