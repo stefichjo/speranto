@@ -17,10 +17,11 @@ revealOptions:
 <!-- Post la fina venko kreiĝos mond-regionaj/internaciaj pontaj lingvoj (tiuj rolos kiel reformitaj esperantidoj), kaj la pli specife regionaj nacaj lingvoj modifiĝos por esti pli regulaj. -->
 <!-- La ponta lingvo "por" la itala lingvo estas "Lingua". -->
 
-<!-- Estus tre utile, se la kuniĝo de du vortoj, kiam ĝi duobligas la sekvantan konsonanton, estas distingebla de kuniĝo, kiam la konsonanto restas unuobla. -->
-<!-- de-la -->
-
 <!--s-->
+
+# Ortografio
+
+<!--v-->
 
 ## h
 
@@ -151,6 +152,8 @@ revealOptions:
 | 🌐 de |
 |:-:|
 | 🇮🇹 dė |
+
+<!--v-->
 
 ## j
 
@@ -752,7 +755,11 @@ revealOptions:
 
 <!--s-->
 
-### é/è
+# Prononco
+
+<!--v-->
+
+## é/è
 
 <!--v-->
 
@@ -816,7 +823,7 @@ revealOptions:
 
 <!--v-->
 
-### ó/ò
+## ó/ò
 
 <!--v-->
 
@@ -866,9 +873,13 @@ revealOptions:
 |:-:|
 | 🇮🇹 cåŭda |
 
+<!--s-->
+
+# Lingua sen akĉento
+
 <!--v-->
 
-### ṙ & ṟ
+## ṙ & ṟ
 
 <!--v-->
 
@@ -917,6 +928,10 @@ revealOptions:
 | 🌐 armario |
 |:-:|
 | 🇮🇹 armario |
+
+<!--s-->
+
+# Lingua kun akĉento
 
 <!--v-->
 
