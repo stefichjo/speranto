@@ -691,6 +691,34 @@ revealOptions:
 
 <!--v-->
 
+## n̆s
+
+<!--v-->
+
+| 🌐 mêse <small>men̆se</small> |
+|:-:|
+| 🇮🇹 mese <small>mése</small> |
+
+<!--v-->
+
+| 🌐 mêse <small>men̆se</small> |
+|:-:|
+| 🇮🇹 mêse <small>mén̆se<small> |
+
+<!--v-->
+
+| 🌐 paése <small>pağen̆se</small> |
+|:-:|
+| 🇮🇹 paese <small>paése</small> |
+
+<!--v-->
+
+| 🌐 paése <small>pağen̆se</small> |
+|:-:|
+| 🇮🇹 paése <small>pağén̆se</small> |
+
+<!--v-->
+
 ## Grekaj Vortoj
 
 <!--v-->
@@ -755,93 +783,45 @@ revealOptions:
 
 <!--s-->
 
-# Prononco
+# La Itala kun Akĉento de Lingua
 
 <!--v-->
 
-## é/è
+## é & è → e
 
 <!--v-->
 
-| 🌐 mêse <small>men̆se</small> |
+| 🌐 terra |
 |:-:|
-| 🇮🇹 mese |
+| 🇮🇹 terra <small>tèrra</small> |
 
 <!--v-->
 
-| 🌐 mêse <small>men̆se</small> |
+| 🌐 terra |
 |:-:|
-| 🇮🇹 mêse |
+| 🇮🇹 terra |
 
 <!--v-->
 
-| 🌐 mêse <small>men̆se</small> |
+| 🌐 vera |
 |:-:|
-| 🇮🇹 mêse <small>mén̆se<small> |
+| 🇮🇹 vera <small>véra</small> |
 
 <!--v-->
 
-| 🌐 mêse <small>men̆se</small> |
+| 🌐 vera |
 |:-:|
-| 🇮🇹 mêse <small>~~mén̆se~~<small> |
+| 🇮🇹 vera |
 
 <!--v-->
 
-| 🌐 mêse <small>men̆se</small> |
-|:-:|
-| 🇮🇹 mêse <small>men̆se<small> |
-
-<!--v-->
-
-| 🌐 paése <small>pağen̆se</small> |
-|:-:|
-| 🇮🇹 paese |
-
-<!--v-->
-
-| 🌐 paése <small>pağen̆se</small> |
-|:-:|
-| 🇮🇹 paése |
-
-<!--v-->
-
-| 🌐 paése <small>pağen̆se</small> |
-|:-:|
-| 🇮🇹 paése <small>pağén̆se</small> |
-
-<!--v-->
-
-| 🌐 paése <small>pağen̆se</small> |
-|:-:|
-| 🇮🇹 paése <small>~~pağén̆se~~</small> |
-
-<!--v-->
-
-| 🌐 paése <small>pağen̆se</small> |
-|:-:|
-| 🇮🇹 paése <small>pağen̆se</small> |
-
-<!--v-->
-
-## ó/ò
+## ó & ò → o
 
 <!--v-->
 
 | 🌐 voce |
 |:-:|
-| 🇮🇹 voce |
-
-<!--v-->
-
-| 🌐 voce |
-|:-:|
-| 🇮🇹 vōce |
-
-<!--v-->
-
-| 🌐 voce |
-|:-:|
-| 🇮🇹 ~~vōce~~ |
+| 🇮🇹 voce <small>vóce</small> |
 
 <!--v-->
 
@@ -853,19 +833,13 @@ revealOptions:
 
 | 🌐 cauda |
 |:-:|
-| 🇮🇹 coda |
+| 🇮🇹 coda <small>códa</small> |
 
 <!--v-->
 
 | 🌐 cauda |
 |:-:|
 | 🇮🇹 căůda |
-
-<!--v-->
-
-| 🌐 cauda |
-|:-:|
-| 🇮🇹 ~~căůda~~ |
 
 <!--v-->
 
