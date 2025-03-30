@@ -4102,11 +4102,11 @@ Notes:
 
 <!--v-->
 
-**bâneo** <small>**bałnĕo**</small>
+**bâneo** <small>**balnĕo**</small>
 
 | 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
 |:-:|:-:|:-:|:-:|
-| bałnĕo | bałnĕo | bałnĕo | bałnĕo |
+| balnĕo | balnĕo | balnĕo | balnĕo |
 | *bagno* | *bain* | *baño* | *banho* |
 
 Notes:

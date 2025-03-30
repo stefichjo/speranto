@@ -14,8 +14,6 @@ revealOptions:
 
 # Post la Fina Venko:<br> 🌐 → 🇮🇹
 
-<!-- 🌐 -->
-
 <!-- Post la fina venko kreiĝos mond-regionaj/internaciaj pontaj lingvoj (tiuj rolos kiel reformitaj esperantidoj), kaj la pli specife regionaj nacaj lingvoj modifiĝos por esti pli regulaj. -->
 <!-- La ponta lingvo "por" la itala lingvo estas "Lingua". -->
 
@@ -57,6 +55,22 @@ revealOptions:
 | 🌐 qŭe |
 |:-:|
 | 🇮🇹 qŭe |
+
+<!--v-->
+
+### ė
+
+<!--v-->
+
+| 🌐 de |
+|:-:|
+| 🇮🇹 di |
+
+<!--v-->
+
+| 🌐 de |
+|:-:|
+| 🇮🇹 dė |
 
 <!--v-->
 
@@ -172,7 +186,7 @@ revealOptions:
 
 <!--v-->
 
-### ti
+### ti & tĭ & tĕ
 
 <!--v-->
 
@@ -185,10 +199,6 @@ revealOptions:
 | 🌐 gratia |
 |:-:|
 | 🇮🇹 gratia |
-
-<!--v-->
-
-### tĕ & tĭ
 
 <!--v-->
 
@@ -225,6 +235,62 @@ revealOptions:
 | 🌐 plaça <small>platĕa</small> |
 |:-:|
 | 🇮🇹 pḷaça <small>pḷatĕa</small> |
+
+<!--v-->
+
+### nĭ & nĕ
+
+<!--v-->
+
+| 🌐 junio |
+|:-:|
+| 🇮🇹 giugno |
+
+<!--v-->
+
+| 🌐 junio |
+|:-:|
+| 🇮🇹 junĭo |
+
+<!--v-->
+
+| 🌐 bâneo <small>balnĕo</small> |
+|:-:|
+| 🇮🇹 bagno |
+
+<!--v-->
+
+| 🌐 bâneo <small>balnĕo</small> |
+|:-:|
+| 🇮🇹 bânĕo |
+
+<!--v-->
+
+| 🌐 bâneo <small>balnĕo</small> |
+|:-:|
+| 🇮🇹 bânĕo <small>balnĕo</small> |
+
+<!--v-->
+
+### lĭ & lĕ
+
+<!--v-->
+
+| 🌐 folia |
+|:-:|
+| 🇮🇹 foglia |
+
+<!--v-->
+
+| 🌐 folia |
+|:-:|
+| 🇮🇹 folĭa |
+
+<!--v-->
+
+| 🌐 olio <small>olĕo</small> |
+|:-:|
+| 🇮🇹 olio |
 
 <!--v-->
 
@@ -277,6 +343,34 @@ revealOptions:
 | 🌐 plena |
 |:-:|
 | 🇮🇹 pḷena |
+
+<!--v-->
+
+### mn
+
+<!--v-->
+
+| 🌐 damno |
+|:-:|
+| 🇮🇹 danno |
+
+<!--v-->
+
+| 🌐 damno |
+|:-:|
+| 🇮🇹 damno |
+
+<!--v-->
+
+| 🌐 domĭna |
+|:-:|
+| 🇮🇹 donna |
+
+<!--v-->
+
+| 🌐 domĭna |
+|:-:|
+| 🇮🇹 domĭna |
 
 <!--v-->
 
@@ -364,19 +458,43 @@ revealOptions:
 |:-:|
 | 🇮🇹 bev̆ĕre |
 
-### ...
+<!--v-->
+
+### ps
 
 <!--v-->
 
-| 🌐 de |
+| 🌐 câssa <small>capsa</small> |
 |:-:|
-| 🇮🇹 di |
+| 🇮🇹 cassa |
 
 <!--v-->
 
-| 🌐 de |
+| 🌐 câssa <small>capsa</small> |
 |:-:|
-| 🇮🇹 dė |
+| 🇮🇹 câssa |
+
+<!--v-->
+
+| 🌐 câssa <small>capsa</small> |
+|:-:|
+| 🇮🇹 câssa <small>capsa</small> |
+
+<!--v-->
+
+### x
+
+<!--v-->
+
+| 🌐 texto |
+|:-:|
+| 🇮🇹 testo |
+
+<!--v-->
+
+| 🌐 texto |
+|:-:|
+| 🇮🇹 texto |
 
 <!--v-->
 
@@ -576,7 +694,7 @@ revealOptions:
 
 <!--v-->
 
-#### ṙ
+#### ṙ & ṟ
 
 <!--v-->
 
@@ -601,6 +719,30 @@ revealOptions:
 | 🌐 paro |
 |:-:|
 | 🇮🇹 paro |
+
+<!--v-->
+
+| 🌐 armario |
+|:-:|
+| 🇮🇹 armadio |
+
+<!--v-->
+
+| 🌐 armario |
+|:-:|
+| 🇮🇹 armaṟio |
+
+<!--v-->
+
+| 🌐 armario |
+|:-:|
+| 🇮🇹 ~~armaṟio~~ |
+
+<!--v-->
+
+| 🌐 armario |
+|:-:|
+| 🇮🇹 armario |
 
 <!--v-->
 
@@ -630,4 +772,4 @@ revealOptions:
 |:-:|
 | 🇮🇹 pronuntiare |
 
-<!-- ménse :( -->
+<!-- usicre -->
