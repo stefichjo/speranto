@@ -320,7 +320,7 @@ revealOptions:
 
 | 🌐 olio <small>olĕo</small> |
 |:-:|
-| 🇮🇹 olio |
+| 🇮🇹 olio <small>olĕo</small> |
 
 <!--v-->
 
