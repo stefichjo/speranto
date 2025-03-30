@@ -240,6 +240,34 @@ revealOptions:
 
 <!--v-->
 
+## vĭ & vĕ
+
+<!--v-->
+
+| 🌐 duvio |
+|:-:|
+| 🇮🇹 dubbio |
+
+<!--v-->
+
+| 🌐 duvio |
+|:-:|
+| 🇮🇹 duvĭo |
+
+<!--v-->
+
+| 🌐 (qŭe) haviamos <small>havĕamos</small>  |
+|:-:|
+| 🇮🇹 (che) abbiamo |
+
+<!--v-->
+
+| 🌐 (qŭe) haviamos <small>havĕamos</small>  |
+|:-:|
+| 🇮🇹 (qŭe) havĕamo <small>havĕamo</small> |
+
+<!--v-->
+
 ## ti & tĭ & tĕ
 
 <!--v-->
@@ -416,15 +444,15 @@ revealOptions:
 
 <!--v-->
 
-| 🌐 nebŭla |
+| 🌐 nevŭla |
 |:-:|
 | 🇮🇹 nebbia |
 
 <!--v-->
 
-| 🌐 nebŭla |
+| 🌐 nevŭla |
 |:-:|
-| 🇮🇹 nebŭla |
+| 🇮🇹 nevŭla |
 
 <!--v-->
 
@@ -666,13 +694,9 @@ revealOptions:
 |:-:|
 | 🇮🇹 systema |
 
-<!--v-->
+<!--s-->
 
-### Prononco
-
-<!--v-->
-
-#### é/è
+### é/è
 
 <!--v-->
 
@@ -736,7 +760,7 @@ revealOptions:
 
 <!--v-->
 
-#### ó/ò
+### ó/ò
 
 <!--v-->
 
@@ -788,7 +812,7 @@ revealOptions:
 
 <!--v-->
 
-#### ṙ & ṟ
+### ṙ & ṟ
 
 <!--v-->
 
@@ -840,7 +864,7 @@ revealOptions:
 
 <!--v-->
 
-#### tj
+### tj
 
 <!--v-->
 
@@ -868,7 +892,35 @@ revealOptions:
 
 <!--v-->
 
-#### ȼ
+### ç
+
+<!--v-->
+
+| 🌐 cantione |
+|:-:|
+| 🇮🇹 canzone |
+
+<!--v-->
+
+| 🌐 cantione |
+|:-:|
+| 🇮🇹 cançone |
+
+<!--v-->
+
+| 🌐 cantione |
+|:-:|
+| 🇮🇹 ~~cançone~~ |
+
+<!--v-->
+
+| 🌐 cantione |
+|:-:|
+| 🇮🇹 cantione |
+
+<!--v-->
+
+### ȼ
 
 <!--v-->
 
@@ -893,5 +945,53 @@ revealOptions:
 | 🌐 judicio |
 |:-:|
 | 🇮🇹 judicio |
+
+<!--s-->
+
+### -iamo
+
+<!--v-->
+
+| 🌐 amamos |
+|:-:|
+| 🇮🇹 amiamo |
+
+<!--v-->
+
+| 🌐 amamos |
+|:-:|
+| 🇮🇹 ~~amiamo~~ |
+
+<!--v-->
+
+| 🌐 amamos |
+|:-:|
+| 🇮🇹 amamo |
+
+<!--v-->
+
+| 🌐 havemos |
+|:-:|
+| 🇮🇹 abbiamo |
+
+<!--v-->
+
+| 🌐 havemos |
+|:-:|
+| 🇮🇹 havĕamo |
+
+<!--v-->
+
+| 🌐 havemos |
+|:-:|
+| 🇮🇹 ~~havĕamo~~ |
+
+<!--v-->
+
+| 🌐 havemos |
+|:-:|
+| 🇮🇹 havemo |
+
+<!--v-->
 
 <!-- usicre -->

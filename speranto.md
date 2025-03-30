@@ -4981,7 +4981,7 @@ Notes:
 
 <!--v-->
 
-**haveamo**
+**haveamos**
 
 | 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
 |:-:|:-:|:-:|:-:|
@@ -6253,7 +6253,7 @@ Notes:
 
 <!--v-->
 
-| (qŭe nos) sapea <small>(qŭe) sapeamo</small> | sap̄iamo *[sappiamo]* |
+| (qŭe nos) sapea <small>(qŭe) sapeamos</small> | sap̄iamo *[sappiamo]* |
 
 <!--v-->
 
