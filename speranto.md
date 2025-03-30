@@ -6625,7 +6625,7 @@ Notes:
 
 <!--v-->
 
-| (eo) veni <small>venio</small> | venıo *[vengo]* |
+| (eo) veni <small>venio</small> | venȷo *[vengo]* |
 
 <!--v-->
 
