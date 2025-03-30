@@ -783,7 +783,7 @@ revealOptions:
 
 <!--s-->
 
-# La Itala kun Akĉento de Lingua
+# Lingva-ismoj
 
 <!--v-->
 
@@ -799,7 +799,7 @@ revealOptions:
 
 | 🌐 terra |
 |:-:|
-| 🇮🇹 terra |
+| ~~🇮🇹~~ terra |
 
 <!--v-->
 
@@ -811,7 +811,7 @@ revealOptions:
 
 | 🌐 vera |
 |:-:|
-| 🇮🇹 vera |
+| ~~🇮🇹~~ vera |
 
 <!--v-->
 
@@ -827,7 +827,7 @@ revealOptions:
 
 | 🌐 voce |
 |:-:|
-| 🇮🇹 voce |
+| ~~🇮🇹~~ voce |
 
 <!--v-->
 
@@ -845,11 +845,7 @@ revealOptions:
 
 | 🌐 cauda |
 |:-:|
-| 🇮🇹 cåŭda |
-
-<!--s-->
-
-# Lingua sen akĉento
+| ~~🇮🇹~~ cåŭda |
 
 <!--v-->
 
@@ -871,13 +867,7 @@ revealOptions:
 
 | 🌐 paro |
 |:-:|
-| 🇮🇹 ~~paṙo~~ |
-
-<!--v-->
-
-| 🌐 paro |
-|:-:|
-| 🇮🇹 paro |
+| ~~🇮🇹~~ paro |
 
 <!--v-->
 
@@ -895,17 +885,7 @@ revealOptions:
 
 | 🌐 armario |
 |:-:|
-| 🇮🇹 ~~armaṟio~~ |
-
-<!--v-->
-
-| 🌐 armario |
-|:-:|
-| 🇮🇹 armario |
-
-<!--s-->
-
-# Lingua kun akĉento
+| ~~🇮🇹~~ armario |
 
 <!--v-->
 
@@ -927,13 +907,7 @@ revealOptions:
 
 | 🌐 pronuntiare |
 |:-:|
-| 🇮🇹 ~~pronuntjare~~ |
-
-<!--v-->
-
-| 🌐 pronuntiare |
-|:-:|
-| 🇮🇹 pronuntiare |
+| ~~🇮🇹~~ pronuntiare |
 
 <!--v-->
 
@@ -949,19 +923,13 @@ revealOptions:
 
 | 🌐 cantione |
 |:-:|
-| 🇮🇹 cançone |
+| 🇮🇹 cançone <small>cantĭone</small> |
 
 <!--v-->
 
 | 🌐 cantione |
 |:-:|
-| 🇮🇹 ~~cançone~~ |
-
-<!--v-->
-
-| 🌐 cantione |
-|:-:|
-| 🇮🇹 cantione |
+| ~~🇮🇹~~ cantione |
 
 <!--v-->
 
@@ -983,15 +951,9 @@ revealOptions:
 
 | 🌐 judicio |
 |:-:|
-| 🇮🇹 ~~judiȼio~~ |
+| ~~🇮🇹~~ judicio |
 
 <!--v-->
-
-| 🌐 judicio |
-|:-:|
-| 🇮🇹 judicio |
-
-<!--s-->
 
 ### -iamo
 
@@ -1005,13 +967,7 @@ revealOptions:
 
 | 🌐 amamos |
 |:-:|
-| 🇮🇹 ~~amiamo~~ |
-
-<!--v-->
-
-| 🌐 amamos |
-|:-:|
-| 🇮🇹 amamo |
+| ~~🇮🇹~~ amamo |
 
 <!--v-->
 
@@ -1029,13 +985,7 @@ revealOptions:
 
 | 🌐 havemos |
 |:-:|
-| 🇮🇹 ~~havĭamo~~ |
-
-<!--v-->
-
-| 🌐 havemos |
-|:-:|
-| 🇮🇹 havemo |
+| ~~🇮🇹~~ havemo |
 
 <!-- usicre -->
 <!-- ragazzo -->
