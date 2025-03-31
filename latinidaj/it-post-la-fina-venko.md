@@ -719,7 +719,31 @@ revealOptions:
 
 <!--v-->
 
+| 🌐 trâs <small>tran̆s</small> |
+|:-:|
+| 🇮🇹 tra |
+
+<!--v-->
+
+| 🌐 trâs <small>tran̆s</small> |
+|:-:|
+| 🇮🇹 trâs <small>tran̆s</small> |
+
+<!--v-->
+
 ## ṡ
+
+<!--v-->
+
+| 🌐 poṡt |
+|:-:|
+| 🇮🇹 poi |
+
+<!--v-->
+
+| 🌐 poṡt |
+|:-:|
+| 🇮🇹 poṡt |
 
 <!--v-->
 
@@ -942,6 +966,28 @@ revealOptions:
 | 🌐 armario |
 |:-:|
 | ~~🇮🇹~~ armario |
+
+<!--v-->
+
+### s̄
+
+<!--v-->
+
+| 🌐 transportare |
+|:-:|
+| 🇮🇹 trasportare |
+
+<!--v-->
+
+| 🌐 transportare |
+|:-:|
+| 🇮🇹 trâs̄portare <small>tran̆s̄portare</small> |
+
+<!--v-->
+
+| 🌐 transportare |
+|:-:|
+| ~~🇮🇹~~ trâsportare <small>tran̆sportare</small> |
 
 <!--v-->
 
