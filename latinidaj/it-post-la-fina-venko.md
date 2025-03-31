@@ -719,6 +719,62 @@ revealOptions:
 
 <!--v-->
 
+## ṡ
+
+<!--v-->
+
+## ĕ
+
+<!--v-->
+
+| 🌐 amar-te <small>amarĕ te</small> |
+|:-:|
+| 🇮🇹 amarti |
+
+<!--v-->
+
+| 🌐 amar-te <small>amarĕ te</small> |
+|:-:|
+| 🇮🇹 amar-tė <small>amarĕ tė</small> |
+
+<!--v-->
+
+| 🌐 d-av <small>dĕ av</small> |
+|:-:|
+| 🇮🇹 da |
+
+<!--v-->
+
+| 🌐 d-av <small>dĕ av</small> |
+|:-:|
+| 🇮🇹 d-av <small>dĕ av</small> |
+
+<!--v-->
+
+| 🌐 d-av-vero <small>dĕ av vero</small> |
+|:-:|
+| 🇮🇹 davvero |
+
+<!--v-->
+
+| 🌐 d-av-vero <small>dĕ av vero</small> |
+|:-:|
+| 🇮🇹 d-av-vero <small>dĕ av vero</small> |
+
+<!--v-->
+
+| 🌐 anqŭ-hora <small>anqŭĕ hora</small> |
+|:-:|
+| 🇮🇹 ancora |
+
+<!--v-->
+
+| 🌐 anqŭ-hora <small>anqŭĕ hora</small> |
+|:-:|
+| 🇮🇹 anqŭ-hora <small>anqŭĕ hora</small> |
+
+<!--v-->
+
 ## Grekaj Vortoj
 
 <!--v-->
