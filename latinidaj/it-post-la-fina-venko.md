@@ -727,15 +727,15 @@ revealOptions:
 
 <!--v-->
 
-| 🌐 bivĕre |
+| 🌐 bivĕre <small>biƀĕre</small> |
 |:-:|
 | 🇮🇹 bere |
 
 <!--v-->
 
-| 🌐 bivĕre |
+| 🌐 bivĕre <small>biƀĕre</small> |
 |:-:|
-| 🇮🇹 bïv̆ĕre |
+| 🇮🇹 bïv̆ĕre <small>bïƀĕre</small> |
 
 <!--v-->
 
