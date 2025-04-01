@@ -155,6 +155,58 @@ revealOptions:
 
 <!--v-->
 
+| 🌐 olio |
+|:-:|
+| 🇮🇹 olio |
+
+<!--v-->
+
+| 🌐 olio <small>olĕo</small> |
+|:-:|
+| 🇮🇹 olėo |
+
+<!--v-->
+
+## -ĕ
+
+<!--v-->
+
+| 🌐 amar-te <small>amarĕ te</small> |
+|:-:|
+| 🇮🇹 amarti |
+
+<!--v-->
+
+| 🌐 amar-te <small>amarĕ te</small> |
+|:-:|
+| 🇮🇹 amar-tė <small>amarĕ tė</small> |
+
+<!--v-->
+
+| 🌐 anqŭ-hora <small>anqŭĕ hora</small> |
+|:-:|
+| 🇮🇹 ancora |
+
+<!--v-->
+
+| 🌐 anqŭ-hora <small>anqŭĕ hora</small> |
+|:-:|
+| 🇮🇹 anqŭ-hora <small>anqŭĕ hora</small> |
+
+<!--v-->
+
+| 🌐 d-av-vero <small>dĕ av vero</small> |
+|:-:|
+| 🇮🇹 davvero |
+
+<!--v-->
+
+| 🌐 d-av-vero <small>dĕ av vero</small> |
+|:-:|
+| 🇮🇹 d-av-vero <small>dĕ av vero</small> |
+
+<!--v-->
+
 ## j
 
 <!--v-->
@@ -281,15 +333,21 @@ revealOptions:
 
 <!--v-->
 
-| 🌐 (qŭe) haviamos <small>havĕamos</small>  |
+| 🌐 duvio |
+|:-:|
+| 🇮🇹 duvĭo <small>duƀĭo</small> |
+
+<!--v-->
+
+| 🌐 (qŭe) haviamos <small>haƀĕamos</small>  |
 |:-:|
 | 🇮🇹 (che) abbiamo |
 
 <!--v-->
 
-| 🌐 (qŭe) haviamos <small>havĕamos</small>  |
+| 🌐 (qŭe) haviamos <small>haƀĕamos</small>  |
 |:-:|
-| 🇮🇹 (qŭe) havĭamo <small>havĕamo</small> |
+| 🇮🇹 (qŭe) havĭamo <small>haƀĕamo</small> |
 
 <!--v-->
 
@@ -358,6 +416,18 @@ revealOptions:
 | 🌐 junio |
 |:-:|
 | 🇮🇹 junĭo |
+
+<!--v-->
+
+| 🌐 castania <small>castanĕa</small> |
+|:-:|
+| 🇮🇹 castagna |
+
+<!--v-->
+
+| 🌐 castania <small>castanĕa</small> |
+|:-:|
+| 🇮🇹 castanĕa |
 
 <!--v-->
 
@@ -515,13 +585,13 @@ revealOptions:
 
 <!--v-->
 
-| 🌐 filii |
+| 🌐 filios |
 |:-:|
 | 🇮🇹 figli |
 
 <!--v-->
 
-| 🌐 filii |
+| 🌐 filios |
 |:-:|
 | 🇮🇹 filĭi |
 
@@ -613,6 +683,22 @@ revealOptions:
 
 <!--v-->
 
+## ƀ
+
+<!--v-->
+
+| 🌐 havere <small>haƀere</small> |
+|:-:|
+| 🇮🇹 avere |
+
+<!--v-->
+
+| 🌐 havere <small>haƀere</small> |
+|:-:|
+| 🇮🇹 havere |
+
+<!--v-->
+
 ## pt & p̆ & v̆
 
 <!--v-->
@@ -641,15 +727,15 @@ revealOptions:
 
 <!--v-->
 
-| 🌐 bevĕre |
+| 🌐 bivĕre |
 |:-:|
 | 🇮🇹 bere |
 
 <!--v-->
 
-| 🌐 bevĕre |
+| 🌐 bivĕre |
 |:-:|
-| 🇮🇹 bev̆ĕre |
+| 🇮🇹 bïv̆ĕre |
 
 <!--v-->
 
@@ -744,58 +830,6 @@ revealOptions:
 | 🌐 poṡt |
 |:-:|
 | 🇮🇹 poṡt |
-
-<!--v-->
-
-## ĕ
-
-<!--v-->
-
-| 🌐 amar-te <small>amarĕ te</small> |
-|:-:|
-| 🇮🇹 amarti |
-
-<!--v-->
-
-| 🌐 amar-te <small>amarĕ te</small> |
-|:-:|
-| 🇮🇹 amar-tė <small>amarĕ tė</small> |
-
-<!--v-->
-
-| 🌐 d-av <small>dĕ av</small> |
-|:-:|
-| 🇮🇹 da |
-
-<!--v-->
-
-| 🌐 d-av <small>dĕ av</small> |
-|:-:|
-| 🇮🇹 d-av <small>dĕ av</small> |
-
-<!--v-->
-
-| 🌐 d-av-vero <small>dĕ av vero</small> |
-|:-:|
-| 🇮🇹 davvero |
-
-<!--v-->
-
-| 🌐 d-av-vero <small>dĕ av vero</small> |
-|:-:|
-| 🇮🇹 d-av-vero <small>dĕ av vero</small> |
-
-<!--v-->
-
-| 🌐 anqŭ-hora <small>anqŭĕ hora</small> |
-|:-:|
-| 🇮🇹 ancora |
-
-<!--v-->
-
-| 🌐 anqŭ-hora <small>anqŭĕ hora</small> |
-|:-:|
-| 🇮🇹 anqŭ-hora <small>anqŭĕ hora</small> |
 
 <!--v-->
 
@@ -929,6 +963,24 @@ revealOptions:
 
 <!--v-->
 
+| 🌐 pluvia |
+|:-:|
+| 🇮🇹 pioggia |
+
+<!--v-->
+
+| 🌐 pluvia |
+|:-:|
+| 🇮🇹 pḷùvja |
+
+<!--v-->
+
+| 🌐 pluvia |
+|:-:|
+| ~~🇮🇹~~ pḷůvja |
+
+<!--v-->
+
 ## ṙ & ṟ
 
 <!--v-->
@@ -1013,6 +1065,24 @@ revealOptions:
 
 <!--v-->
 
+| 🌐 cominçare <small>cominĭtĭare</small> |
+|:-:|
+| 🇮🇹 cominciare |
+
+<!--v-->
+
+| 🌐 cominçare <small>cominĭtĭare</small> |
+|:-:|
+| 🇮🇹 comintjare <small>cominĭtjare</small> |
+
+<!--v-->
+
+| 🌐 cominçare <small>cominĭtĭare</small> |
+|:-:|
+| ~~🇮🇹~~ cominçare <small>cominĭtĭare</small> |
+
+<!--v-->
+
 ### ç
 
 <!--v-->
@@ -1088,6 +1158,28 @@ revealOptions:
 | 🌐 havemos |
 |:-:|
 | ~~🇮🇹~~ havemo |
+
+<!--v-->
+
+### -äƀi̊le
+
+<!--v-->
+
+| 🌐 notabile |
+|:-:|
+| 🇮🇹 notevole |
+
+<!--v-->
+
+| 🌐 notabile |
+|:-:|
+| 🇮🇹 notävi̊le <small>notäƀi̊le</small> |
+
+<!--v-->
+
+| 🌐 notabile |
+|:-:|
+| ~~🇮🇹~~ notabile |
 
 <!-- usicre -->
 <!-- ragazzo -->
