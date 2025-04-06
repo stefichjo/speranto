@@ -24,12 +24,9 @@ revealOptions:
 
 | | | | |
 |-|-|-|-|
-| **-**     | **-a**     | **-vĕ**   | **-vĕre**  |
+| **-**     | **-a**     | **-vĕ**   | **-vĕrĕ**  |
 | **-ba**   | **-re**    | **-vĕra** | **-vesse** |
 | | | | |
-
-<!-- amarabe -->
-<!-- amariba -->
 
 <!--s-->
 
@@ -41,30 +38,32 @@ revealOptions:
 
 | | |
 |-|-|
-| -m | -mus |
+| -o | -mus |
 | -s | -tis |
 | -t | -nt  |
 | | |
+
+<small>-~~ao~~ → -o</small>
 
 <!--v-->
 
 | | |
 |-|-|
-| amam | amamus |
+| amo  | amamus |
 | amas | amatis |
 | amat | amant  |
 | | |
-| videm | videmus |
+| video | videmus |
 | vides | videtis |
 | videt | vident  |
 | | |
-| audim | audimus |
+| audio | audimus |
 | audis | auditis |
-| audit | audint  |
+| audit | audĩnt  |
 | | |
 
-<!-- amo video audio -->
-<!-- audiunt -->
+Notes:
+* auidĩnt <small>🇻🇦 audiunt</small>
 
 <!--v-->
 
@@ -113,7 +112,7 @@ revealOptions:
 | -a-t | -a-nt  |
 | | |
 
-<!-- aa = e -->
+<small>-~~aa~~ → -e</small>
 
 <!--v-->
 
@@ -289,3 +288,83 @@ revealOptions:
 | audīvesses | audīvessetis |
 | audīvesset | audīvessent  |
 | | |
+
+<!--s-->
+
+## Malregulaj Verboj
+
+<!--v-->
+
+### esse
+
+| | | | |
+|-|-|-|-|
+| **se** <small>esse</small>    | **sea** <small>essea</small>  | **fue**   | **fuerĕ**  |
+| **era** <small>esseba</small> | **esse** <small>essere</small> | **fuera** | **fuesse** |
+| | | | |
+
+<!--v-->
+
+| | | | | |
+|-|-|-|-|-|
+| so      | semus     | | seam | seamus |
+| **es**  | **estis** | | seas | seatis |
+| **est** | sent      | | seat | seant  |
+| | | | | |
+| **eram** | **eramus** | | **essem** | **essemus** |
+| **eras** | **eratis** | | **esses** | **essetis** |
+| **erat** | **erant**  | | **esset** | **essent**  |
+| | | | | |
+
+<!--v-->
+
+| | | | | |
+|-|-|-|-|-|
+| fuei    | fuemus  | | fuerem | fuerĕmus |
+| fueisti | fuestis | | fueres | fuerĕtis |
+| fuet    | fuērunt | | fueret | fuerent  |
+| | | | | |
+| fueram | fueramus | | fuessem | fuessemus |
+| fueras | fueratis | | fuesses | fuessetis |
+| fuerat | fuerant  | | fuesset | fuessent  |
+| | | | | |
+
+<!--v-->
+
+### ire
+
+<!--v-->
+
+| | | | | |
+|-|-|-|-|-|
+| io | imus | | **e**am | **e**amus |
+| is | itis | | **e**as | **e**atis |
+| it | ĩnt  | | **e**at | **e**ant  |
+| | | | | |
+| ibam | ibamus | | irem | iremus |
+| ibas | ibatis | | ires | iretis |
+| ibat | ibant  | | iret | irent  |
+| | | | | |
+
+Notes:
+* io <small>🇻🇦 eo</small>
+* ĩnt <small>🇻🇦 eunt</small>
+
+<!--v-->
+
+| | | | | |
+|-|-|-|-|-|
+| iei   | iemus  | | ierem | ierĕmus |
+| iesti | iestis | | ieres | ierĕtis |
+| iet   | iērunt | | ieret | ierent  |
+| | | | | |
+| ieram | ieramus | | iessem | iessemus |
+| ieras | ieratis | | iesses | iessetis |
+| ierat | ierant  | | iesset | iessent  |
+| | | | | |
+
+<!-- TODO Futur I/II -->
+<!-- TODO -abe (Futur) -->
+<!-- TODO -iba (Konditional) -->
+<!-- TODO -era und -esse erwähnen -->
+<!-- TODO vincere -->
