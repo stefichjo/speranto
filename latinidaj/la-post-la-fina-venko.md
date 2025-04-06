@@ -28,6 +28,9 @@ revealOptions:
 | **-ba**   | **-re**    | **-vĕra** | **-vesse** |
 | | | | |
 
+Notes:
+* -vĕ, -vĕrĕ, -vesse <small>🇻🇦 -vi, -veri, -visse</small>
+
 <!--s-->
 
 ## as-tempo
@@ -44,6 +47,10 @@ revealOptions:
 | | |
 
 <small>-~~ao~~ → -o</small>
+
+<small>-~~int~~ → -ient</small>
+
+<small>Komparu la ili-formon kun la anta-formo: amante, vidente, audĩnte</small>
 
 <!--v-->
 
@@ -146,6 +153,8 @@ Notes:
 | -re-t | -re-ent  |
 | | |
 
+<small>Komparu kun la infinitivo.</small>
+
 <!--v-->
 
 | | |
@@ -178,6 +187,9 @@ Notes:
 | -v-e-t   | -v-e-erunt |
 | | |
 
+Notes:
+* <small>🇻🇦 -vērunt</small>
+
 <!--v-->
 
 | | |
@@ -208,6 +220,9 @@ Notes:
 | -v-ĕra-m | -v-era-mus |
 | -v-ĕra-s | -v-era-tis |
 | -v-ĕra-t | -v-ĕra-nt  |
+| | |
+
+<small>Komparu kun la is-tempo de *esse*.</small>
 
 <!--v-->
 
@@ -239,6 +254,9 @@ Notes:
 | -v-ĕre-m | -v-erĕ-mus |
 | -v-ĕre-s | -v-erĕ-tis |
 | -v-ĕre-t | -v-ĕre-nt  |
+| | |
+
+<small>Komparu kun la ke-is-tempo.</small>
 
 <!--v-->
 
@@ -271,6 +289,8 @@ Notes:
 | -v-esse-s | -v-esse-tis |
 | -v-esse-t | -v-esse-nt  |
 | | |
+
+<small>Komparu kun la ke-is-tempo de *esse*.</small>
 
 <!--v-->
 
@@ -363,8 +383,77 @@ Notes:
 | ierat | ierant  | | iesset | iessent  |
 | | | | | |
 
+<!--v-->
+
+### -ĭre
+
+Notes:
+* -ĭre <small>🇻🇦 -ere</small>
+
+<!--v-->
+
+| | | | | |
+|-|-|-|-|-|
+| capio | capĭmus | | capiam | capiamus |
+| capis | capĭtis | | capias | capiatis |
+| capit | capĩnt  | | capiat | capiant  |
+| | | | | |
+| capĩbam | capĩbamus | | capĭrem | capiremus |
+| capĩbas | capĩbatis | | capĭres | capiretis |
+| capĩbat | capĩbant  | | capĭret | capĭrent  |
+| | | | | |
+
+Notes:
+* -ĩnt <small>🇻🇦 -iunt</small>
+
+<!--v-->
+
+| | | | | |
+|-|-|-|-|-|
+| cēpei   | cēpĕmus   | | cēpĕrem | cēperĕmus |
+| cēpesti | cēpestis  | | cēpĕres | cēperĕtis |
+| cēpet   | cēpērunt  | | cēpĕret | cēpĕrent  |
+| | | | | |
+| cēpĕram | cēperamus | | cēpessem | cēpessemus |
+| cēpĕras | cēperatis | | cēpesses | cēpessetis |
+| cēpĕrat | cēpĕrant  | | cēpesset | cēpessent  |
+| | | | | |
+
+<!--v-->
+
+### -ĕre
+
+Notes:
+* as-tempo: -e <small>🇻🇦 -i</small>
+  * -ent <small>🇻🇦 -unt</small>
+
+<!--v-->
+
+| | | | | |
+|-|-|-|-|-|
+| **vinco**  | vincĕmus | | **vincam** | **vincamus** |
+| vinces     | vincĕtis | | **vincas** | **vincatis** |
+| vincet     | vincent  | | **vincat** | **vincant**  |
+| | | | | |
+| vincebam | vincebamus | | vincĕrem | vinceremus |
+| vincebas | vincebatis | | vincĕres | vinceretis |
+| vincebat | vincebant  | | vincĕret | vincĕrent  |
+| | | | | |
+
+<!--v-->
+
+| | | | | |
+|-|-|-|-|-|
+| vīcei   | vīcĕmus   | | vīcĕrem | vīcerĕmus |
+| vīcesti | vīcestis  | | vīcĕres | vīcerĕtis |
+| vīcet   | vīcērunt  | | vīcĕret | vīcĕrent  |
+| | | | | |
+| vīcĕram | vīceramus | | vīcessem | vīcessemus |
+| vīcĕras | vīceratis | | vīcesses | vīcessetis |
+| vīcĕrat | vīcĕrant  | | vīcesset | vīcessent  |
+| | | | | |
+
 <!-- TODO Futur I/II -->
 <!-- TODO -abe (Futur) -->
 <!-- TODO -iba (Konditional) -->
-<!-- TODO -era und -esse erwähnen -->
-<!-- TODO vincere -->
+<!-- TODO ser -->
