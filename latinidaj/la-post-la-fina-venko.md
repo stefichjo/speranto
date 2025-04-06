@@ -22,32 +22,29 @@ revealOptions:
 
 # Konjugacio
 
-<!--v-->
-
-| | |
-|-|-|
-| -     | -a     |
-| -ba   | -re    |
-| | |
-| -vĕ   | -vĕre  |
-| -vĕra | -vesse |
-
-<!--v-->
-
-| | |
-|-|-|
-| ama     | ame      |
-| amaba   | amare    |
-| | |
-| amavĕ   | amavĕre  |
-| amavĕra | amavesse |
+| | | | |
+|-|-|-|-|
+| **-**     | **-a**     | **-vĕ**   | **-vĕre**  |
+| **-ba**   | **-re**    | **-vĕra** | **-vesse** |
+| | | | |
 
 <!-- amarabe -->
 <!-- amariba -->
 
-<!--v-->
+<!--s-->
 
 ## as-tempo
+
+| - |
+|-|
+| |
+
+| | |
+|-|-|
+| -m | -mus |
+| -s | -tis |
+| -t | -nt  |
+| | |
 
 <!--v-->
 
@@ -71,7 +68,52 @@ revealOptions:
 
 <!--v-->
 
+## is-tempo
+
+| -ba |
+|-|
+| |
+
+| | |
+|-|-|
+| -ba-m | -ba-mus |
+| -ba-s | -ba-tis |
+| -ba-t | -ba-nt  |
+| | |
+
+<!--v-->
+
+| | |
+|-|-|
+| amabam | amabamus |
+| amabas | amabatis |
+| amabat | amabant  |
+| | |
+| videbam | videbamus |
+| videbas | videbatis |
+| videbat | videbant  |
+| | |
+| audĩbam | audĩbamus |
+| audĩbas | audĩbatis |
+| audĩbat | audĩbant  |
+| | |
+
+<!--s-->
+
 ## ke-as-tempo
+
+| -a |
+|-|
+| |
+
+| | |
+|-|-|
+| -a-m | -a-mus |
+| -a-s | -a-tis |
+| -a-t | -a-nt  |
+| | |
+
+<!-- aa = e -->
 
 <!--v-->
 
@@ -92,28 +134,18 @@ revealOptions:
 
 <!--v-->
 
-## is-tempo
+## ke-is-tempo
 
-<!--v-->
+| -re |
+|-|
+| |
 
 | | |
 |-|-|
-| amabam | amabamus |
-| amabas | amabatis |
-| amabat | amabant  |
+| -re-m | -re-mus |
+| -re-s | -re-tis |
+| -re-t | -re-ent  |
 | | |
-| videbam | videbamus |
-| videbas | videbatis |
-| videbat | videbant  |
-| | |
-| audĩbam | audĩbamus |
-| audĩbas | audĩbatis |
-| audĩbat | audĩbant  |
-| | |
-
-<!--v-->
-
-## ke-is-tempo
 
 <!--v-->
 
