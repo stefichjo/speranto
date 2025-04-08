@@ -50,7 +50,7 @@ Notes:
 
 <small>-~~int~~ → -ient = -ĩnt</small>
 
-<small>Komparu la ili-formon kun la anta-formo: amante, vidente, audĩnte</small>
+<small>Komparu kun la anta-formo: amante, vidente, audĩnte</small>
 
 <!--v-->
 

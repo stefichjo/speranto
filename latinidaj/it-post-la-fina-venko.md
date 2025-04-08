@@ -1205,52 +1205,114 @@ revealOptions:
 
 | | |
 |-|-|
-| -o | -můs <small>🇮🇹 -iamo</small> |
-| -s | -tïs |
+| -o | -mos |
+| -ṡ | -tïs |
 | -t | -no  |
 | | |
 
-<small>-~~ao~~, -~~eo~~, -~~io~~ → -o; -~~as~~, -~~es~~ → -ȧs, -ės; -it → -ït</small>
+<small>-~~ao~~, -~~eo~~, -~~io~~ → -o; -~~aṡ~~, -~~eṡ~~ → -ȧṡ, -ėṡ; -it → -ït</small>
 
-<small>-amůs, -emůs, -imůs <small>🇮🇹 -iamůs</small>; -ĕno, -ĭno <small>🇮🇹 -ŏno</small></small>
+<small>-amos, -emos, -imos <small>🇮🇹 -iamos</small>; -ĕno, -ĭno <small>🇮🇹 -ŏno</small></small>
 
 <!--v-->
 
 | | |
 |-|-|
-| amo  | amamůs <small>🇮🇹 amiamůs</small> |
-| amȧs | amatïs |
+| amo  | amamos <small>🇮🇹 amiamos</small> |
+| amȧṡ | amatïs |
 | amat | amăno  |
 | | |
-| vïdo  | vïdemůs <small>🇮🇹 vïdiamůs</small> |
-| vïdės | vïdetïs |
+| vïdo  | vïdemos <small>🇮🇹 vïdiamos</small> |
+| vïdėṡ | vïdetïs |
 | vïdet | vïdĕno  <small>🇮🇹 vïdŏno</small> |
 | | |
-| sento  | sentimůs <small>🇮🇹 sentiamůs</small> |
-| sentis | sentitïs |
-| sentït | sentĭno  <small>🇮🇹 sentŏno</small> |
+| dormo  | dormimos <small>🇮🇹 dormiamos</small> |
+| dormiṡ | dormitïs |
+| dormït | dormĭno  <small>🇮🇹 dormŏno</small> |
 | | |
 
 <!--v-->
 
-| stare |
-|-|
-| |
-
 | | |
 |-|-|
-| sto  | stamůs <small>🇮🇹 stiamůs</small> |
+| sto  | stamos <small>🇮🇹 stiamos</small> |
 | staṡ | statïs |
 | stat | stan̄o  |
 | | |
 
 <small>ĉe akcentata -a: -ȧs → -ai = -aṡ; -ano → -anno = -an̄o</small>
 
-<!-- TODO -ȧṡ, -ėṡ, -iṡ -->
-
 Notes:
 * fan̄o, han̄o, san̄o
 * dan̄o, stan̄o
+
+<!--v-->
+
+## is-Tempo
+
+| -va |
+|-|
+| |
+
+| | |
+|-|-|
+| -vo  | -vamos |
+| -vȧṡ | -vatïs |
+| -vat | -văno  |
+| | |
+
+<!--v-->
+
+| | |
+|-|-|
+| amavo  | amavamos |
+| amavȧṡ | amavatïs |
+| amavat | amavăno  |
+| | |
+| vïdevo  | vïdevamos |
+| vïdevȧṡ | vïdevatïs |
+| vïdevat | vïdevăno  |
+| | |
+| dormivo  | dormivamos |
+| dormivȧṡ | dormivatïs |
+| dormivat | dormivăno  |
+| | |
+
+<!--v-->
+
+## os-Tempo
+
+| -rá |
+|-|
+| |
+
+| | |
+|-|-|
+| -ró  | -rêmos |
+| -ráṡ | -rêtïs |
+| -rát | -rân̄o  |
+| | |
+
+<small>Komparu kun la as-tempo de *havere*.</small>
+
+<small>-~~ar~~- → -är-; -~~er~~- → -ĕr-</small>
+
+<!--v-->
+
+| | |
+|-|-|
+| amäró  | amarêmos |
+| amäráṡ | amärêtïs |
+| amärát | amärân̄o  |
+| | |
+| vïdĕró  | vïdĕrêmos |
+| vïdĕráṡ | vïdĕrêtïs |
+| vïdĕrát | vïdĕrân̄o  |
+| | |
+| dormiró  | dormirêmos |
+| dormiráṡ | dormirêtïs |
+| dormirát | dormirân̄o  |
+| | |
 
 <!--s-->
 
@@ -1262,28 +1324,149 @@ Notes:
 
 | | |
 |-|-|
-| -o  | -amůs |
-| -ăṡ | -atïs |
+| -am | -amos |
+| -as | -atïs |
 | -at | -ăno  |
 | | |
 
-<small>-~~aa~~ → -i</small>
-
-<small>-~~ea~~, -~~ia~~ → kun akcento: -ia, sen akcento: -a</small>
+<small>-~~aa~~, -~~ea~~, -~~ia~~ → kun akcento: -ia, sen akcento: -ĭ, -ă, -ă</small>
 
 <!--v-->
 
 | | |
 |-|-|
-| amim | amiamůs |
+| amim | amiamos |
 | amis | amiatïs |
 | amit | amĭno   |
 | | |
-| vïdam | vïdiamůs |
+| vïdam | vïdiamos |
 | vïdas | vïdiatïs |
 | vïdat | vïdăno   |
 | | |
-| sentam | sentiamůs |
-| sentas | sentiatïs |
-| sentat | sentăno   |
+| dormam | dormiamos |
+| dormas | dormiatïs |
+| dormat | dormăno   |
 | | |
+
+<!--v-->
+
+| | |
+|-|-|
+| stiam | stiamos |
+| stias | stiatïs |
+| stiat | stiăno  |
+| | |
+
+<!--v-->
+
+## ke-is-Tempo
+
+| -sse |
+|-|
+| |
+
+| | |
+|-|-|
+| -ssim | -ssĭmos |
+| -ssis | -ssĭtïs |
+| -sset | -ssĕro  |
+| | |
+
+<small>Komparu kun la ke-intis-tempo de la Latina.</small>
+
+<!-- TODO akcento -->
+
+<!--v-->
+
+| | |
+|-|-|
+| amassim | amassĭmos |
+| amassis | amassĭtïs |
+| amasset | amassĕro  |
+| | |
+| vïdessim | vïdessĭmos |
+| vïdessis | vïdessĭtïs |
+| vïdesset | vïdessĕro  |
+| | |
+| dormissim | dormissĭmos |
+| dormissis | dormissĭtïs |
+| dormisset | dormissĕro  |
+| | |
+
+<!--v-->
+
+## ke-os-Tempo
+
+| -rävve |
+|-|
+| |
+
+| | |
+|-|-|
+| -rävvi  | -rêmos   |
+| -resti  | -restïs  |
+| -rävvet | -rävvĕro |
+| | |
+
+<small>Komparu kun la intas-formo de *havere*: *hävv-* → *-ävv-*, *have-* → *-e-*</small>
+
+<!-- TODO anstataŭ -riva -->
+
+<!--v-->
+
+| | |
+|-|-|
+| amärävvi <small>🇮🇹 amaräi</small> | amarem̄ůs |
+| amäresti  | amärestïs  |
+| amärävvet | amärävvĕro |
+| | |
+| vïdĕrävvi <small>🇮🇹 vïdĕräi</small> | vïdĕrem̄ůs |
+| vïdĕresti  | vïdĕrestïs  |
+| vïdĕrävvet | vïdĕrävvĕro |
+| | |
+| dormirävvi <small>🇮🇹 vïdĕräi</small> | dormirem̄ůs |
+| dormiresti  | dormirestïs  |
+| dormirävvet | dormirävvĕro |
+| | |
+
+<!--s-->
+
+## intas-Tempo
+
+| -e |
+|-|
+| |
+
+| | |
+|-|-|
+| -i`*` | -m̄ůs     |
+| -sti  | -stïs    |
+| -u`*` | -rŏno`*` |
+| | |
+
+<small>`*` laŭeble kun alterantiva radiko</small>
+
+<small>-áut <small>🇮🇹 -ó</small></small>
+
+<small>-rŏno → <small>🇮🇹 -ĕro</small></small>
+
+<!--v-->
+
+| | |
+|-|-|
+| amái   | amâm̄ůs  |
+| amâsti | amâstïs |
+| amáut <small>🇮🇹 amó</small> | amárono |
+| | |
+| videi <small>🇮🇹 vidi</small> | vïdêm̄ůs |
+| vïdêsti | vïdêstïs  |
+| videt   | vidérono <small>🇮🇹 vidĕro</small> |
+| | |
+| dormíi   | dormîm̄ůs |
+| dormîsti | dormîstïs  |
+| dormíit  | dormírono |
+| | |
+
+<!-- TODO amáu vid? dormíu -->
+
+<!-- TODO lingvaismoj: italaĵoj estas meteblaj en small-krampojn -->
