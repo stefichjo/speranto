@@ -1190,3 +1190,100 @@ revealOptions:
 |:-:|
 | 🇮🇹 olio <small>olĕo</small> |
  -->
+
+<!--s-->
+
+# Konjugacio
+
+<!--s-->
+
+## as-Tempo
+
+| - |
+|-|
+| |
+
+| | |
+|-|-|
+| -o | -můs <small>🇮🇹 -iamo</small> |
+| -s | -tïs |
+| -t | -no  |
+| | |
+
+<small>-~~ao~~, -~~eo~~, -~~io~~ → -o; -~~as~~, -~~es~~ → -ȧs, -ės; -it → -ït</small>
+
+<small>-amůs, -emůs, -imůs <small>🇮🇹 -iamůs</small>; -ĕno, -ĭno <small>🇮🇹 -ŏno</small></small>
+
+<!--v-->
+
+| | |
+|-|-|
+| amo  | amamůs <small>🇮🇹 amiamůs</small> |
+| amȧs | amatïs |
+| amat | amăno  |
+| | |
+| vïdo  | vïdemůs <small>🇮🇹 vïdiamůs</small> |
+| vïdės | vïdetïs |
+| vïdet | vïdĕno  <small>🇮🇹 vïdŏno</small> |
+| | |
+| sento  | sentimůs <small>🇮🇹 sentiamůs</small> |
+| sentis | sentitïs |
+| sentït | sentĭno  <small>🇮🇹 sentŏno</small> |
+| | |
+
+<!--v-->
+
+| stare |
+|-|
+| |
+
+| | |
+|-|-|
+| sto  | stamůs <small>🇮🇹 stiamůs</small> |
+| staṡ | statïs |
+| stat | stan̄o  |
+| | |
+
+<small>ĉe akcentata -a: -ȧs → -ai = -aṡ; -ano → -anno = -an̄o</small>
+
+<!-- TODO -ȧṡ, -ėṡ, -iṡ -->
+
+Notes:
+* fan̄o, han̄o, san̄o
+* dan̄o, stan̄o
+
+<!--s-->
+
+## ke-as-Tempo
+
+| -a |
+|-|
+| |
+
+| | |
+|-|-|
+| -o  | -amůs |
+| -ăṡ | -atïs |
+| -at | -ăno  |
+| | |
+
+<small>-~~aa~~ → -i</small>
+
+<small>-~~ea~~, -~~ia~~ → kun akcento: -ia, sen akcento: -a</small>
+
+<!--v-->
+
+| | |
+|-|-|
+| amim | amiamůs |
+| amis | amiatïs |
+| amit | amĭno   |
+| | |
+| vïdam | vïdiamůs |
+| vïdas | vïdiatïs |
+| vïdat | vïdăno   |
+| | |
+| sentam | sentiamůs |
+| sentas | sentiatïs |
+| sentat | sentăno   |
+| | |
