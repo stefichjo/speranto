@@ -1207,10 +1207,10 @@ revealOptions:
 |-|-|
 | -o | -mos |
 | -ṡ | -tïs |
-| -t | -no  |
+| -  | -no  |
 | | |
 
-<small>-~~ao~~, -~~eo~~, -~~io~~ → -o; -~~aṡ~~, -~~eṡ~~ → -ȧṡ, -ėṡ; -it → -ït</small>
+<small>-~~ao~~, -~~eo~~, -~~io~~ → -o; -~~aṡ~~, -~~eṡ~~ → -ȧṡ, -ėṡ; -i → -ï</small>
 
 <small>-amos, -emos, -imos <small>🇮🇹 -iamos</small>; -ĕno, -ĭno <small>🇮🇹 -ŏno</small></small>
 
@@ -1220,15 +1220,15 @@ revealOptions:
 |-|-|
 | amo  | amamos <small>🇮🇹 amiamos</small> |
 | amȧṡ | amatïs |
-| amat | amăno  |
+| ama  | amăno  |
 | | |
 | vïdo  | vïdemos <small>🇮🇹 vïdiamos</small> |
 | vïdėṡ | vïdetïs |
-| vïdet | vïdĕno  <small>🇮🇹 vïdŏno</small> |
+| vïde  | vïdĕno  <small>🇮🇹 vïdŏno</small> |
 | | |
 | dormo  | dormimos <small>🇮🇹 dormiamos</small> |
 | dormiṡ | dormitïs |
-| dormït | dormĭno  <small>🇮🇹 dormŏno</small> |
+| dormï  | dormĭno  <small>🇮🇹 dormŏno</small> |
 | | |
 
 <!--v-->
@@ -1237,7 +1237,7 @@ revealOptions:
 |-|-|
 | sto  | stamos <small>🇮🇹 stiamos</small> |
 | staṡ | statïs |
-| stat | stan̄o  |
+| sta  | stan̄o  |
 | | |
 
 <small>ĉe akcentata -a: -ȧs → -ai = -aṡ; -ano → -anno = -an̄o</small>
@@ -1258,7 +1258,7 @@ Notes:
 |-|-|
 | -vo  | -vamos |
 | -vȧṡ | -vatïs |
-| -vat | -văno  |
+| -va  | -văno  |
 | | |
 
 <!--v-->
@@ -1267,15 +1267,15 @@ Notes:
 |-|-|
 | amavo  | amavamos |
 | amavȧṡ | amavatïs |
-| amavat | amavăno  |
+| amava  | amavăno  |
 | | |
 | vïdevo  | vïdevamos |
 | vïdevȧṡ | vïdevatïs |
-| vïdevat | vïdevăno  |
+| vïdeva  | vïdevăno  |
 | | |
 | dormivo  | dormivamos |
 | dormivȧṡ | dormivatïs |
-| dormivat | dormivăno  |
+| dormiva  | dormivăno  |
 | | |
 
 <!--v-->
@@ -1290,7 +1290,7 @@ Notes:
 |-|-|
 | -ró  | -rêmos |
 | -ráṡ | -rêtïs |
-| -rát | -rân̄o  |
+| -rá  | -rân̄o  |
 | | |
 
 <small>Komparu kun la as-tempo de *havere*.</small>
@@ -1303,15 +1303,15 @@ Notes:
 |-|-|
 | amäró  | amarêmos |
 | amäráṡ | amärêtïs |
-| amärát | amärân̄o  |
+| amärá  | amärân̄o  |
 | | |
 | vïdĕró  | vïdĕrêmos |
 | vïdĕráṡ | vïdĕrêtïs |
-| vïdĕrát | vïdĕrân̄o  |
+| vïdĕrá  | vïdĕrân̄o  |
 | | |
 | dormiró  | dormirêmos |
 | dormiráṡ | dormirêtïs |
-| dormirát | dormirân̄o  |
+| dormirá  | dormirân̄o  |
 | | |
 
 <!--s-->
@@ -1324,9 +1324,9 @@ Notes:
 
 | | |
 |-|-|
-| -am | -amos |
+| -a  | -amos |
 | -as | -atïs |
-| -at | -ăno  |
+| -a  | -ăno  |
 | | |
 
 <small>-~~aa~~, -~~ea~~, -~~ia~~ → kun akcento: -ia, sen akcento: -ĭ, -ă, -ă</small>
@@ -1335,26 +1335,26 @@ Notes:
 
 | | |
 |-|-|
-| amim | amiamos |
+| ami  | amiamos |
 | amis | amiatïs |
-| amit | amĭno   |
+| ami  | amĭno   |
 | | |
-| vïdam | vïdiamos |
+| vïda  | vïdiamos |
 | vïdas | vïdiatïs |
-| vïdat | vïdăno   |
+| vïda  | vïdăno   |
 | | |
-| dormam | dormiamos |
+| dorma  | dormiamos |
 | dormas | dormiatïs |
-| dormat | dormăno   |
+| dorma  | dormăno   |
 | | |
 
 <!--v-->
 
 | | |
 |-|-|
-| stiam | stiamos |
+| stia  | stiamos |
 | stias | stiatïs |
-| stiat | stiăno  |
+| stia  | stiăno  |
 | | |
 
 <!--v-->
@@ -1367,9 +1367,9 @@ Notes:
 
 | | |
 |-|-|
-| -ssim | -ssĭmos |
+| -ssi  | -ssĭmos |
 | -ssis | -ssĭtïs |
-| -sset | -ssĕro  |
+| -sse  | -ssĕro  |
 | | |
 
 <small>Komparu kun la ke-intis-tempo de la Latina.</small>
@@ -1416,15 +1416,15 @@ Notes:
 
 | | |
 |-|-|
-| amärävvi <small>🇮🇹 amaräi</small> | amarem̄ůs |
+| amärävvi <small>🇮🇹 amaräi</small> | amarem̄os |
 | amäresti  | amärestïs  |
 | amärävvet | amärävvĕro |
 | | |
-| vïdĕrävvi <small>🇮🇹 vïdĕräi</small> | vïdĕrem̄ůs |
+| vïdĕrävvi <small>🇮🇹 vïdĕräi</small> | vïdĕrem̄os |
 | vïdĕresti  | vïdĕrestïs  |
 | vïdĕrävvet | vïdĕrävvĕro |
 | | |
-| dormirävvi <small>🇮🇹 vïdĕräi</small> | dormirem̄ůs |
+| dormirävvi <small>🇮🇹 vïdĕräi</small> | dormirem̄os |
 | dormiresti  | dormirestïs  |
 | dormirävvet | dormirävvĕro |
 | | |
@@ -1439,7 +1439,7 @@ Notes:
 
 | | |
 |-|-|
-| -i`*` | -m̄ůs     |
+| -i`*` | -m̄os     |
 | -sti  | -stïs    |
 | -u`*` | -rŏno`*` |
 | | |
@@ -1450,19 +1450,22 @@ Notes:
 
 <small>-rŏno → <small>🇮🇹 -ĕro</small></small>
 
+Notes:
+* -a~~ve~~i -a~~ve~~sti -av~~e~~t -a~~vĕ~~mus -a~~ve~~stis -a~~vē~~runt
+
 <!--v-->
 
 | | |
 |-|-|
-| amái   | amâm̄ůs  |
+| amái   | amâm̄os  |
 | amâsti | amâstïs |
 | amáut <small>🇮🇹 amó</small> | amárono |
 | | |
-| videi <small>🇮🇹 vidi</small> | vïdêm̄ůs |
+| videi <small>🇮🇹 vidi</small> | vïdêm̄os |
 | vïdêsti | vïdêstïs  |
 | videt   | vidérono <small>🇮🇹 vidĕro</small> |
 | | |
-| dormíi   | dormîm̄ůs |
+| dormíi   | dormîm̄os |
 | dormîsti | dormîstïs  |
 | dormíit  | dormírono |
 | | |

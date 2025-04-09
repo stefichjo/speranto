@@ -11,7 +11,6 @@ revealOptions:
 ---
 
 <!-- cd ~/Git/speranto; reveal-md speranto.md -w -->
-<!-- cd ~/Git/speranto; reveal-md speranto.md -w --theme=white -->
 
 # Bonvenon!
 
@@ -1309,7 +1308,7 @@ Aldone, la plimulto de la finaĵoj de la interaj dialektoj varias. Ekzemple, dum
 
 <!--v-->
 
-<small>La finaĵo por la pluralo estas **-s**.</small>
+<small>La finaĵo por la pluralo estas -**s**.</small>
 
 <!--v-->
 
@@ -1357,7 +1356,7 @@ Aldone, la plimulto de la finaĵoj de la interaj dialektoj varias. Ekzemple, dum
 
 <!--v-->
 
-<small>Por ordinaloj uziĝas la sufikso **-esĭm-**. Kiel substantivo, ĝi signifas **-on-**. Ne uziĝas plu la sufikso **-op-**.</small>
+<small>Por ordinaloj uziĝas la sufikso -**esĭm**-. Kiel substantivo, ĝi signifas -**on**-. Ne uziĝas plu la sufikso -**op**-.</small>
 
 <!--v-->
 
@@ -1382,7 +1381,7 @@ Aldone, la plimulto de la finaĵoj de la interaj dialektoj varias. Ekzemple, dum
 
 <!--v-->
 
-<small>La tabelvorta ŝajnsufikso **-en** anstaŭiĝas per la prepozicio **ad** kaj la tabelvorta ŝajnsufikso **-e**.</small>
+<small>La tabelvorta ŝajnsufikso -**en** anstaŭiĝas per la prepozicio **ad** kaj la tabelvorta ŝajnsufikso -**e**.</small>
 
 <!--v-->
 
@@ -1691,7 +1690,7 @@ Tra bruo, la prepozicio **a** uziĝas por la indiki la rektan objekton. (Tiam uz
 
 <!--v-->
 
-<small>En poezio, la finaĵo **-e** malantaŭ dentala konsonanto povas eliziiĝi: **mare** → **mar'**</small>
+<small>En poezio, la finaĵo -**e** malantaŭ dentala konsonanto povas eliziiĝi: **mare** → **mar'**</small>
 
 <!--v-->
 
@@ -1739,7 +1738,7 @@ Tra bruo, la prepozicio **a** uziĝas por la indiki la rektan objekton. (Tiam uz
 
 <!--v-->
 
-<small>Latinaj **-u** kaj **-i** fariĝas **-o** kaj **-e**. En skriba lingvo, oni povas uzi la originajn finaĵojn.</small>
+<small>Latinaj -**u** kaj -**i** fariĝas -**o** kaj -**e**. En skriba lingvo, oni povas uzi la originajn finaĵojn.</small>
 <!-- TODO → Lingua Classĭca -->
 
 <!--v-->
@@ -1751,7 +1750,7 @@ Tra bruo, la prepozicio **a** uziĝas por la indiki la rektan objekton. (Tiam uz
 
 <!--v-->
 
-<small>La ŝajnfinaĵoj **-ĭn-** kaj **-ĭt** eliziiĝas, se ĝi ne ekzistas en la latina nominativo.</small>
+<small>La ŝajnfinaĵoj -**ĭn**- kaj -**ĭt**- eliziiĝas, se ĝi ne ekzistas en la latina nominativo.</small>
 <!-- TODO → Lingua Classĭca -->
 
 <!--v-->
@@ -1767,11 +1766,11 @@ Tra bruo, la prepozicio **a** uziĝas por la indiki la rektan objekton. (Tiam uz
 
 <!--v-->
 
-La finaĵoj **-ione**, **-o**, **-ore** kaj **-ura** 
+La finaĵoj -**ione**, -**o**, -**ore** kaj -**ura** 
 
 <!--v-->
 
-<small>La grekismaj ŝajnfinaĵoj **-i**, **-ia**, **-a**, **-e** havas signifojn similajn al la ŝajnfinaĵoj **-ione**, **-o**, **-ore**, **-ura**.</small>
+<small>La grekismaj ŝajnfinaĵoj -**i**, -**ia**, -**a**, -**e** havas signifojn similajn al la ŝajnfinaĵoj -**ione**, -**o**, -**ore**, -**ura**.</small>
 
 <!--v-->
 
@@ -1936,6 +1935,7 @@ La finaĵoj **-ione**, **-o**, **-ore** kaj **-ura**
 | aŭdi | **audire** |
 | | |
 | venki | **vincĕre** |
+| | |
 
 <!--v-->
 
@@ -1950,6 +1950,7 @@ La finaĵoj **-ione**, **-o**, **-ore** kaj **-ura**
 | aŭdu! | **audi(te)!** |
 | | |
 | venku! | **vince(te)!** |
+| | |
 
 <!--v-->
 
@@ -1959,18 +1960,20 @@ La finaĵoj **-ione**, **-o**, **-ore** kaj **-ura**
 
 | Esperanto | Lingua |
 |-|-|
-| -as      | **-** |
-| -is      | **-va** |
-| -os      | **-rá** |
+| -as | - |
+| -is | -**va** |
+| -os | -**rá** |
 | | |
-| (ke) -u | **-a**`*` |
-| (se/do) -us | **-ría** |
+| (ke) -as → (ke) -u  | -**a**`*` |
+| (ke) -is → (se) -us | -**'sse**`**` |
+| (ke) -os → (do) -us | -**ría** |
+| | |
 
-<small>`*` **-aa** fariĝas **-e**: **amaa** → **ame**. </small>
+<small>`*` -**aa** fariĝas -**e**: **amaa** → **ame**. </small>
 
-<!--v-->
+<small>`**` En parola lingvo: (se) -us → (se eble) -us = (do) -us, (se maleble) -us = -is</small>
 
-<small>Origine, la finaĵo **-á** en **-rá** estas fakte la mallonga formo **hâ** ("havas") sen **h**.</small>
+<small>Origine, la finaĵo -**á** en -**rá** estas fakte la mallonga formo **hâ** ("havas") sen **h**.</small>
 
 <!--v-->
 
@@ -1981,6 +1984,7 @@ La finaĵoj **-ione**, **-o**, **-ore** kaj **-ura**
 | aŭdas | **audi** |
 | | |
 | venkas | **vince** |
+| | |
 
 <!--v-->
 
@@ -1991,6 +1995,7 @@ La finaĵoj **-ione**, **-o**, **-ore** kaj **-ura**
 | aŭdis | **audiva** |
 | | |
 | venkis | **vinceva** |
+| | |
 
 <!--v-->
 
@@ -2001,6 +2006,7 @@ La finaĵoj **-ione**, **-o**, **-ore** kaj **-ura**
 | aŭdos | **audirá** |
 | | |
 | venkos | **vincerá** |
+| | |
 
 <!--v-->
 
@@ -2011,16 +2017,29 @@ La finaĵoj **-ione**, **-o**, **-ore** kaj **-ura**
 | (ke) aŭdu | **audia** |
 | | |
 | (ke) venku | **vincea** |
+| | |
 
 <!--v-->
 
 | Esperanto | Lingua |
 |-|-|
-| (se/do) amus | **amaría** |
-| (se/do) vidus | **videría** |
-| (se/do) aŭdus | **audiría** |
+| (se) amus | **amâsse** |
+| (se) vidus | **vidêsse** |
+| (se) aŭdus | **audîsse** |
 | | |
-| (se/do) venkus | **vincería** |
+| (se) venkus | **vincêsse** |
+| | |
+
+<!--v-->
+
+| Esperanto | Lingua |
+|-|-|
+| (do) amus | **amaría** |
+| (do) vidus | **videría** |
+| (do) aŭdus | **audiría** |
+| | |
+| (do) venkus | **vincería** |
+| | |
 
 <!--v-->
 
@@ -2028,7 +2047,7 @@ La finaĵoj **-ione**, **-o**, **-ore** kaj **-ura**
 
 <!--v-->
 
-<small>Verboj je **-are** kaj **-ire** havas pasivan participon je **-ata** kaj **-ita**. Verboj je **-ere** kaj **-ĕre** havas pasivan participon je **-ĭta**.</small>
+<small>Verboj je -**are** kaj -**ire** havas pasivan participon je -**ata** kaj -**ita**. Verboj je -**ere** kaj -**ĕre** havas pasivan participon je -**ĭta**.</small>
 
 <!--v-->
 
@@ -2039,6 +2058,7 @@ La finaĵoj **-ione**, **-o**, **-ore** kaj **-ura**
 | aŭdata | **audita** |
 | | |
 | venkata | **vincĭta** |
+| | |
 
 <!--v-->
 
@@ -2047,6 +2067,7 @@ La finaĵoj **-ione**, **-o**, **-ore** kaj **-ura**
 | estas amata | **sta amata** |
 | estas amita | **veni amata** |
 | estas amota | **vâ amata** |
+| | |
 
 <!--v-->
 
@@ -2056,31 +2077,47 @@ La finaĵoj **-ione**, **-o**, **-ore** kaj **-ura**
 
 | Esperanto | Lingua |
 |-|-|
-| estas aminta | **hâ amato** |
-| estas vidinta | **hâ vidĭto** |
-| estas aŭdinta | **hâ audito** |
+| -intas | **hâ -to** <small>-**'u**</small> |
+| -intis | **haveva -to** <small>-**'ra**</small> |
+| -intos | **hará -to** <small>-**'ri**</small> |
 | | |
-| estas venkinta | **hâ vincĭto** |
+| (ke) -intas → (ke) -intu  | **havea -to** |
+| (ke) -intis → (se) -intus | **havêsse -to** |
+| (ke) -intos → (do) -intus | **haría -to** |
+| | |
 
 <!--v-->
 
 | Esperanto | Lingua |
 |-|-|
-| estis aminta | **haveva amato** |
-| estis vidinta | **haveva vidĭto** |
-| estis aŭdinta | **haveva audito** |
+| estas aminta  | **hâ amato** <small>**amáu**</small> |
+| estas vidinta | **hâ vidĭto** <small>**vidéu**</small> |
+| estas aŭdinta | **hâ audito** <small>**audíu**</small> |
 | | |
-| estis venkinta | **haveva vincĭto** |
+| estas venkinta | **hâ vincĭto** <small>**vincéu**</small> |
+| | |
 
 <!--v-->
 
 | Esperanto | Lingua |
 |-|-|
-| estos aminta | **hará amato** |
-| estos vidinta | **hará vidĭto** |
-| estos aŭdinta | **hará audito** |
+| estis aminta | **haveva amato** <small>**amâra**</small> |
+| estis vidinta | **haveva vidĭto** <small>**vidêra**</small> |
+| estis aŭdinta | **haveva audito** <small>**audîra**</small> |
 | | |
-| estos venkinta | **hará vincĭto** |
+| estis venkinta | **haveva vincĭto** <small>**vincêra**</small> |
+| | |
+
+<!--v-->
+
+| Esperanto | Lingua |
+|-|-|
+| estos aminta | **hará amato** <small>**amâri**</small> |
+| estos vidinta | **hará vidĭto** <small>**vidêri**</small> |
+| estos aŭdinta | **hará audito** <small>**audîri**</small> |
+| | |
+| estos venkinta | **hará vincĭto** <small>**vincêri**</small> |
+| | |
 
 <!--v-->
 
@@ -2088,16 +2125,7 @@ La finaĵoj **-ione**, **-o**, **-ore** kaj **-ura**
 
 <!--v-->
 
-| Esperanto | Lingua |
-|-|-|
-| esti | **sêre** <small>**essĕre**</small> |
-| | |
-| estas | **ês** <small>**esse**</small> |
-| estis | **êra** <small>**esseva**</small> |
-| estos | **será** <small>**esserá**</small> |
-| | |
-| (ke) estu | **sîa** <small>**essia**</small> |
-| (se/do) estus | **sería** <small>**essería**</small> |
+#### hâre
 
 <!--v-->
 
@@ -2110,7 +2138,36 @@ La finaĵoj **-ione**, **-o**, **-ore** kaj **-ura**
 | havos | **hará** <small>**haverá**</small> |
 | | |
 | (ke) havu | **havea** |
-| (se/do) havus | **haría** <small>**havería**</small> |
+| (se) havus | **havêsse** |
+| (do) havus | **haría** <small>**havería**</small> |
+| | |
+| havintas | **hâ havĭto** <small>**havéu**</small> |
+| | |
+
+<!--v-->
+
+#### sêre
+
+<!--v-->
+
+| Esperanto | Lingua |
+|-|-|
+| esti | **sêre** <small>**essĕre**</small> |
+| | |
+| estas | **ês** <small>**esse**</small> |
+| estis | **êra** <small>**esseva**</small> |
+| estos | **será** <small>**esserá**</small> |
+| | |
+| (ke) estu | **sîa** <small>**essia**</small> |
+| (se) estus | **fuêsse** <small>**essêsse**</small> |
+| (do) estus | **sería** <small>**essería**</small> |
+| | |
+| estintas | **hâ sito** <small>**fu** → **esséu**</small> |
+| | |
+
+<!--v-->
+
+#### ire
 
 <!--v-->
 
@@ -2123,7 +2180,18 @@ La finaĵoj **-ione**, **-o**, **-ore** kaj **-ura**
 | iros | **irá** |
 | | |
 | (ke) iru | **vadea** |
-| (se/do) irus | **iría** |
+| (se) irus | **fuêsse** <small>**îsse**</small> |
+| (do) irus | **iría** |
+| | |
+| intas | **hâ ito** <small>**fu** → **íu**</small> |
+| | |
+
+<!-- TODO fuêsse → vadêsse? -->
+<!-- TODO fu → vadéu? -->
+
+<!--v-->
+
+#### fâre
 
 <!--v-->
 
@@ -2135,8 +2203,12 @@ La finaĵoj **-ione**, **-o**, **-ore** kaj **-ura**
 | faris | **faceva** |
 | faros | **fará** <small>**facerá**</small> |
 | | |
-| (ke) faru | **facea** |
-| (se/do) havus | **faría** <small>**facería**</small> |
+| (ke) faru  | **facea** |
+| (se) farus | **facêsse** |
+| (do) farus | **faría** <small>**facería**</small> |
+| | |
+| farintus | **hâ facĭto** <small>**facéu**</small> |
+| | |
 
 <!--v-->
 
@@ -2286,7 +2358,7 @@ La finaĵoj **-ione**, **-o**, **-ore** kaj **-ura**
 
 <!--v-->
 
-<small>**b** konserviĝas antaŭ la ŝajnfinaĵo **-il**.</small>
+<small>**b** konserviĝas antaŭ la ŝajnfinaĵo -**il**.</small>
 
 <!--v-->
 
@@ -2386,7 +2458,7 @@ La finaĵoj **-ione**, **-o**, **-ore** kaj **-ura**
 
 <!--v-->
 
-<small>Anstataŭ sufikseca *-dek* uziĝas **-anta**.</small>
+<small>Anstataŭ sufikseca *-dek* uziĝas -**anta**.</small>
 
 <!--v-->
 
@@ -2449,15 +2521,16 @@ La finaĵoj **-ione**, **-o**, **-ore** kaj **-ura**
 
 | Esperanto | Intermediaria |
 |-|-|
-| mi | **-**`*` |
-| ci | **-s** |
-| li | **-** |
+| mi | -**o**`*` |
+| ci | -**s** |
+| li | - |
 | | |
-| ni | **-mos** |
-| vi | **-'is** |
-| ili | **-n** |
+| ni  | -**mos** |
+| vi  | -**'is** |
+| ili | -**n** |
+| | |
 
-<small>`*` En la mi-as- kaj mi-is-formoj, radikofina vokalo fariĝas **-o**: **ama** → **amo**, **vide** → **vido**, **audi** → **audo**.</small>
+<small>`*` En la mi-formoj, la radikofina vokalo eliziiĝas kaj restas nur -**o**: **ama** → **amo**, **vide** → **vido**, **audi** → **audo**.</small>
 
 <!--v-->
 
@@ -2467,45 +2540,10 @@ La finaĵoj **-ione**, **-o**, **-ore** kaj **-ura**
 | ci amas | **amas** |
 | li amas | **ama** |
 | | |
-| ni amas | **amamos** |
-| vi amas | **amáis** |
+| ni amas  | **amamos** |
+| vi amas  | **amáis** |
 | ili amas | **aman** |
-
-<!--v-->
-
-| Esperanto | Intermediaria |
-|-|-|
-| mi amis | **amavo** |
-| ci amis | **amavas** |
-| li amis | **amava** |
 | | |
-| ni amis | **amavamos** |
-| vi amis | **amaváis** |
-| ili amis | **amavan** |
-
-<!--v-->
-
-| Esperanto | Intermediaria |
-|-|-|
-| mi amos | **amaró** |
-| ci amos | **amarás** |
-| li amos | **amará** |
-| | |
-| ni amos | **amarêmos** |
-| vi amos | **amaréis** |
-| ili amos | **amarán** |
-
-<!--v-->
-
-| Esperanto | Intermediaria |
-|-|-|
-| (ke) mi amu | **ame** |
-| (ke) ci amu | **ames** |
-| (ke) li amu | **ame** |
-| | |
-| (ke) ni amu | **amemos** |
-| (ke) vi amu | **améis** |
-| (ke) ili amu | **amen** |
 
 <!--v-->
 
@@ -2516,30 +2554,76 @@ La finaĵoj **-ione**, **-o**, **-ore** kaj **-ura**
 | Esperanto | Intermediaria |
 |-|-|
 | li vidas | **vide** |
-| vidata | **vidida** |
+| vidata   | **vidida** |
 | | |
 | li aŭdas | **aude** |
-| aŭdita | **audida** |
-
-<!--v-->
-
-### Subjunktivo
-
-<!--v-->
-
-<small>En skriba lingvo, la formo de la volitivo (ke-u-modo) de **Lingua** uziĝas nur por realigeblaj situacioj. (Tiu volitivo estas analizebla kiel ke-as-tempo.) Por ne-realigeblaj situacioj uziĝas la ke-is-tempo. (Tiu volitivo estas origine estas la ke-intis-tempo.) En parola lingvo, uziĝas la is-tempo.</small>
+| aŭdita   | **audida** |
+| | |
 
 <!--v-->
 
 | Esperanto | Intermediaria |
 |-|-|
-| (ke maleble) mi amu | **amavo** <small>**amâsse**</small> |
-| (ke maleble) ci amu | **amavas** <small>**amâsses**</small> |
-| (ke maleble) li amu | **amava** <small>**amâsse**</small> |
+| mi amis | **amavo** |
+| ci amis | **amavas** |
+| li amis | **amava** |
 | | |
-| (ke maleble) ni amu | **amavamos** <small>**amássemos**</small> |
-| (ke maleble) vi amu | **amaváis** <small>**amâsseis**</small> |
-| (ke maleble) ili amu | **amavan** <small>**amâssen**</small> |
+| ni amis  | **amavamos** |
+| vi amis  | **amaváis** |
+| ili amis | **amavan** |
+| | |
+
+<!--v-->
+
+| Esperanto | Intermediaria |
+|-|-|
+| mi amos | **amaró** |
+| ci amos | **amarás** |
+| li amos | **amará** |
+| | |
+| ni amos  | **amarêmos** |
+| vi amos  | **amaréis** |
+| ili amos | **amarán** |
+| | |
+
+<!--v-->
+
+| Esperanto | Intermediaria |
+|-|-|
+| (ke) mi amu | **ame** |
+| (ke) ci amu | **ames** |
+| (ke) li amu | **ame** |
+| | |
+| (ke) ni amu  | **amemos** |
+| (ke) vi amu  | **améis** |
+| (ke) ili amu | **amen** |
+| | |
+
+<!--v-->
+
+| Esperanto | Intermediaria |
+|-|-|
+| (se) mi amus | **amâsse** |
+| (se) ci amus | **amâsses** |
+| (se) li amus | **amâsse** |
+| | |
+| (se) ni amus  | **amássemos** |
+| (se) vi amus  | **amâsseis** |
+| (se) ili amus | **amâssen** |
+| | |
+
+<!--v-->
+
+| Esperanto | Intermediaria |
+|-|-|
+| (do) mi amus | **amaría** |
+| (do) ci amus | **amarías** |
+| (do) li amus | **amaría** |
+| | |
+| (do) ni amus  | **amaríamos** |
+| (do) vi amus  | **amaríais** |
+| (do) ili amus | **amarían** |
+| | |
 
 <!--v-->
 
@@ -2549,13 +2633,14 @@ La finaĵoj **-ione**, **-o**, **-ore** kaj **-ura**
 
 | Esperanto | Intermediaria |
 |-|-|
-| mi amintas | **hô amado** |
-| mi amintis | **havevo amado** |
-| mi amintos | **haró amado** |
-
-<!--v-->
-
-<small>En skriba lingvo, ekzistas verbaj formoj por la intas- kaj la intis-tempo. En parola lingvo, uziĝas kunmetitaĵoj kun **hâr**.</small>
+| mi | -**'i** |
+| ci | -**'ste** |
+| li | -**'u** |
+| | |
+| ni  | -**'mos** |
+| vi  | -**'stes** |
+| ili | -**'ron** |
+| | |
 
 <!--v-->
 
@@ -2565,9 +2650,10 @@ La finaĵoj **-ione**, **-o**, **-ore** kaj **-ura**
 | ci amintas | **hâs amado** <small>**amâste**</small> |
 | li amintas | **hâ amado** <small>**amáu**</small> |
 | | |
-| ni amintas | **hêmos amado** <small>**amâmos**</small> |
-| vi amintas | **hêis amado** <small>**amâstes**</small> |
+| ni amintas  | **hêmos amado** <small>**amâmos**</small> |
+| vi amintas  | **hêis amado** <small>**amâstes**</small> |
 | ili amintas | **hân amado** <small>**amâron**</small> |
+| | |
 
 <!--v-->
 
@@ -2577,75 +2663,62 @@ La finaĵoj **-ione**, **-o**, **-ore** kaj **-ura**
 | ci amintis | **havevas amado** <small>**amâras**</small> |
 | li amintis | **haveva amado** <small>**amâra**</small> |
 | | |
-| ni amintis | **havevamos amado** <small>**amáramos**</small> |
-| vi amintis | **haveváis amado** <small>**amârais**</small> |
+| ni amintis  | **havevamos amado** <small>**amáramos**</small> |
+| vi amintis  | **haveváis amado** <small>**amârais**</small> |
 | ili amintis | **havevan amado** <small>**amâran**</small> |
-
-<!--v-->
-
-| Esperanto | Intermediaria |
-|-|-|
-| (ke) mi amintas | **havea amado** <small>**amár**</small> |
-| (ke) ci amintas | **haveas amado** <small>**amâres**</small> |
-| (ke) li amintas | **havea amado** <small>**amár**</small> |
 | | |
-| (ke) ni amintas | **haveámos amado** <small>**amáremos**</small> |
-| (ke) vi amintas | **haveáis amado** <small>**amâreis**</small> |
-| (ke) ili amintas | **havean amado** <small>**amâren**</small> |
 
 <!--v-->
 
 | Esperanto | Intermediaria |
 |-|-|
-| (ke) mi amintis | **havevo amado** <small>**amâsse**</small> |
-| (ke) ci amintis | **havevas amado** <small>**amâsses**</small> |
-| (ke) li amintis | **haveva amado** <small>**amâsse**</small> |
+| mi amintos | **haró amado** <small>**amâri**</small> |
+| ci amintos | **harás amado** <small>**amâris**</small> |
+| li amintos | **hará amado** <small>**amâri**</small> |
 | | |
-| (ke) ni amintis | **havevamos amado** <small>**amássemos**</small> |
-| (ke) vi amintis | **haveváis amado** <small>**amâsseis**</small> |
-| (ke) ili amintis | **havevan amado** <small>**amâssen**</small> |
-
-<!--v-->
-
-### Kondicionalo
-
-<!--v-->
-
-| Esperanto | Intermediaria |
-|-|-|
-| (se eble) mi amus | **amaría** |
-| (se eble) ci amus | **amarías** |
-| (se eble) li amus | **amaría** |
+| ni amintos  | **harêmos amado** <small>**amárimos**</small> |
+| vi amintos  | **harêis amado** <small>**amâriis**</small> |
+| ili amintos | **harán amado** <small>**amârin**</small> |
 | | |
-| (se eble) ni amus | **amaríamos** |
-| (se eble) vi amus | **amaríais** |
-| (se eble) ili amus | **amarían** |
-
-<!--v-->
-
-<small>En skriba lingvo, la ke-intis-tempo uziĝas por la se-us-modo por ne-realigeblaj situacioj.</small>
 
 <!--v-->
 
 | Esperanto | Intermediaria |
 |-|-|
-| (se maleble) mi amus | **amaría** <small>**amâsse**</small> |
-| (se maleble) ci amus | **amarías** <small>**amâsses**</small> |
-| (se maleble) li amus | **amaría** <small>**amâsse**</small> |
+| (ke) mi amintu | **havea amado** |
+| (ke) ci amintu | **haveas amado** |
+| (ke) li amintu | **havea amado** |
 | | |
-| (se maleble) ni amus | **amaríamos** <small>**amássemos**</small> |
-| (se maleble) vi amus | **amaríais** <small>**amâsseis**</small> |
-| (se maleble) ili amus | **amarían** <small>**amâssen**</small> |
-
-<!--v-->
-
-<small>La skribaj ke-intis-formoj foje erare uziĝas por realigeblaj volitivoj.</small>
+| (ke) ni amintu  | **haveámos amado** |
+| (ke) vi amintu  | **haveáis amado** |
+| (ke) ili amintu | **havean amado** |
+| | |
 
 <!--v-->
 
 | Esperanto | Intermediaria |
 |-|-|
-| (se eble) mi amus | **amaría** <small>**~~amâsse~~**</small> |
+| (se) mi amintus | **havêsse amado** |
+| (se) ci amintus | **havêsses amado** |
+| (se) li amintus | **havêsse amado** |
+| | |
+| (se) ni amintus | **havêssemos amado** |
+| (se) vi amintus | **havêsseis amado** |
+| (se) ili amintus | **havêssen amado** |
+| | |
+
+<!--v-->
+
+| Esperanto | Intermediaria |
+|-|-|
+| (do) mi amintus | **haría amado** |
+| (do) ci amintus | **harías amado** |
+| (do) li amintus | **haría amado** |
+| | |
+| (do) ni amintus | **haríamos amado** |
+| (do) vi amintus | **harías amado** |
+| (do) ili amintus | **harían amado** |
+| | |
 
 <!--v-->
 
@@ -2653,27 +2726,7 @@ La finaĵoj **-ione**, **-o**, **-ore** kaj **-ura**
 
 <!--v-->
 
-| Esperanto | Intermediaria |
-|-|-|
-| mi estas | **sô** |
-| ci estas | **êres** |
-| li estas | **ês** |
-| | |
-| ni estas | **sômos** |
-| vi estas | **sêis** |
-| ili estas | **sôn** |
-
-<!--v-->
-
-| Esperanto | Intermediaria |
-|-|-|
-| mi estintas | **hô sido** <small>**fui**</small> |
-| ci estintas | **hâs sido** <small>**fuiste**</small> |
-| li estintas | **hâ sido** <small>**fue**</small> |
-| | |
-| ni estintas | **hêmos sido** <small>**fuimos**</small> |
-| vi estintas | **hêis sido** <small>**fuistes**</small> |
-| ili estintas | **hân sido** <small>**fueron**</small> |
+#### hâr
 
 <!--v-->
 
@@ -2686,17 +2739,43 @@ La finaĵoj **-ione**, **-o**, **-ore** kaj **-ura**
 | ni havas | **hêmos** |
 | vi havas | **hêis** |
 | ili havas | **hân** |
+| | |
+
+<!--v-->
+
+#### sêr
 
 <!--v-->
 
 | Esperanto | Intermediaria |
 |-|-|
-| (ke) mi havu | **havea** |
+| mi estas | **sô** |
+| ci estas | **êres** |
+| li estas | **ês** |
 | | |
-| mi havis | **haveva** |
-| mi havos | **haró** |
+| ni estas | **sômos** |
+| vi estas | **sêis** |
+| ili estas | **sôn** |
 | | |
-| mi havus | **haría** |
+
+<!--v-->
+
+| Esperanto | Intermediaria |
+|-|-|
+| mi estintas | **hô sido** <small>**fui**</small> |
+| ci estintas | **hâs sido** <small>**fuste**</small> |
+| li estintas | **hâ sido** <small>**fu**</small> |
+| | |
+| ni estintas | **hêmos sido** <small>**fumos**</small> |
+| vi estintas | **hêis sido** <small>**fustes**</small> |
+| ili estintas | **hân sido** <small>**furon**</small> |
+| | |
+
+<!-- TODO fuiste → fuisti? -->
+
+<!--v-->
+
+#### îr
 
 <!--v-->
 
@@ -2709,6 +2788,7 @@ La finaĵoj **-ione**, **-o**, **-ore** kaj **-ura**
 | ni iras | **vâmos** |
 | vi iras | **vâis** |
 | ili iras | **vân** |
+| | |
 
 <!--v-->
 
@@ -2719,6 +2799,13 @@ Por la perfektaj formoj de **îr** uziĝas la verbo **sêr**.
 | Esperanto | Intermediaria |
 |-|-|
 | mi irintas | **hô ido** <small>**fui**</small> |
+| | |
+
+<!-- TODO vadéi? -->
+
+<!--v-->
+
+#### fâr
 
 <!--v-->
 
@@ -2731,6 +2818,7 @@ Por la perfektaj formoj de **îr** uziĝas la verbo **sêr**.
 | ni faras | **fâmos** |
 | vi faras | **fâis** |
 | ili faras | **fân** |
+| | |
 
 <!--v-->
 
@@ -3004,7 +3092,7 @@ Duoblaj vokaloj en finaĵoj estas skribataj kun makrono.
 
 <!--v-->
 
-<small>Nemalmultaj infinitivoj je **-ér** kaj **-ír** perdas sian akcenton. (En la Latina, nemalofte **e** kaj **i** interŝanĝiĝas aŭ ambiguiĝas.)</small>
+<small>Nemalmultaj infinitivoj je -**ér** kaj -**ír** perdas sian akcenton. (En la Latina, nemalofte **e** kaj **i** interŝanĝiĝas aŭ ambiguiĝas.)</small>
 
 <!--v-->
 
@@ -3024,36 +3112,37 @@ Duoblaj vokaloj en finaĵoj estas skribataj kun makrono.
 
 <!--v-->
 
-<small>(**Classĭca** ignoras la latinan os-tempon kaj anstataŭe uzas la latinidan os-tempon (t.e. je **-abeo**, **-abes**, ktp.).)</small>
+<small>(**Classĭca** ignoras la latinan os-tempon kaj anstataŭe uzas la latinidan os-tempon (t.e. je -**rabe**).)</small>
 
 <!--v-->
 
 | Esperanto | Classĭca |
 |-|-|
-| -as | **-** |
-| -is | **-ba** |
-| -os | **-rabe** |
+| -as | - |
+| -is | -**ba** |
+| -os | -**rabe** |
 | | |
-| (ke) -as | **-a** |
-| (ke) -is | **-ra** |
+| (ke) -as | -**a** |
+| (ke) -is | -**re** |
+| (ke) -os | -**riba** |
 | | |
-| (do) -us | **-riba** |
 
 <!--v-->
 
 | Esperanto | Classĭca |
 |-|-|
-| mi | **-** <small>**-m**`*`</small> |
-| ci | **-s** |
-| li | **-t** |
+| mi | - <small>-**m**`*`</small> |
+| ci | -**s** |
+| li | -**t** |
 | | |
-| ni | **-mus** |
-| vi | **-tis** |
-| ili | **-nt**`**` |
+| ni  | -**mus** |
+| vi  | -**tis** |
+| ili | -**nt**`**` |
+| | |
 
-<small>`*` En la mi-as-formoj, radikofina vokalo konserviĝas en verboj je **-ere**, **-ire** kaj **-ĭre**: **vido** → **video**, **audo** → **audio**, **capo** → **capio**. (En la Latina, **ĕ**-verboj havas la radikofinon **i** en la as-formoj.)</small>
+<small>`*` En la mi-as-formoj, radikofina vokalo konserviĝas en verboj je -**ere**, -**ire** kaj -**ĭre**: **vido** → **video**, **audo** → **audio**, **capo** → **capio**. (En la Latina, **ĕ**-verboj havas la radikofinon **i** en la as-formoj.)</small>
 
-<small>`**` **-nt** fariĝas **-ent** (**-unt** en la Latina) post radikofina **i**/**ĭ**: **~~audint~~** → **audient**, **~~capint~~** → **capient**. (Analogie, **legent** fariĝas **legunt** en la Latina.)</small>
+<small>`**` -**nt** fariĝas -**ent** (-**unt** en la Latina) post radikofina **i**/**ĭ**: **~~audint~~** → **audient**, **~~capint~~** → **capient**. (Analogie, **legent** fariĝas **legunt** en la Latina.)</small>
 
 <!--v-->
 
@@ -3073,7 +3162,7 @@ Duoblaj vokaloj en finaĵoj estas skribataj kun makrono.
 
 <!--v-->
 
-<small>(La latina gramatiko konas nek ke-os-tempon nek ke-intos-tempon. Anstataŭe, ĝi havas intos-tempon kaj ke-intas-tempon, kiuj suspektinde similas al la latinida (ibera) ke-os-tempo. Evitante tiun konfuzon, **Classĭca** uzas la kondicionalon (t.e. la do-us-modon je **-ibam**, **-ibas** ktp.) anstataŭe, kiu ne ekzistas en la Latina.)</small>
+<small>(La latina gramatiko konas nek ke-os-tempon nek ke-intos-tempon. Anstataŭe, ĝi havas intos-tempon kaj ke-intas-tempon, kiuj suspektinde similas al la latinida (ibera) ke-os-tempo. Evitante tiun konfuzon, **Classĭca** uzas la kondicionalon (t.e. la do-us-modon je -**iba**) anstataŭe, kiu ne ekzistas en la Latina.)</small>
 
 <!--v-->
 
@@ -3093,13 +3182,13 @@ Duoblaj vokaloj en finaĵoj estas skribataj kun makrono.
 
 | Esperanto | Classĭca |
 |-|-|
-| -intas | **-v** |
-| (ke) -intas`*` | **-vĕrĕ** |
+| -intas | -**vĕ** <small>🇻🇦 -vi</small> |
+| (ke) -intas`*` | -**vĕrĕ** <small>🇻🇦 -veri</small> |
 | | |
-| -intis | **-vĕra** |
-| (ke) -intis`**` | **-visse** |
+| -intis | -**vĕra** |
+| (ke) -intis`**` | -**vesse** <small>🇻🇦 -visse</small> |
 
-<small>`*` (En la Latina, uziĝas **-veri** anstataŭ **-vere**: **amāverimus**.)</small>
+<small>`*` (En la Latina, uziĝas -**veri** anstataŭ -**vere**: **amāverimus**.)</small>
 
 <small>`**` La ke-intis-tempo uziĝas kiel se-us-modo por ne-realigeblaj situacioj.</small>
 
@@ -3107,25 +3196,25 @@ Duoblaj vokaloj en finaĵoj estas skribataj kun makrono.
 
 | Esperanto | Classĭca |
 |-|-|
-| mi (-intas) | **-ī** <small>**-ii**</small> |
-| ci (-intas) | **-isti** |
-| li (-intas) | **-it** |
+| mi (-intas) | -**ve-i** |
+| ci (-intas) | -**ve-sti** |
+| li (-intas) | -**ve-t** |
 | | |
-| ni (-intas) | **-imus** |
-| vi (-intas) | **-istis** |
-| ili (-intas) | **-erunt** |
+| ni (-intas)  | -**vĕ-mus** |
+| vi (-intas)  | -**ve-stis** |
+| ili (-intas) | -**ve-erunt** |
 
 <!--v-->
 
 | Esperanto | Classĭca |
 |-|-|
-| mi amintas | **amavī** <small>**amavii**</small> |
-| ci amintas | **amavisti** |
-| li amintas | **amavit** |
+| mi amintas | **amavei** |
+| ci amintas | **amavesti** |
+| li amintas | **amavet** |
 | | |
-| ni amintas | **amavimus** |
-| vi amintas | **amavistis** |
-| ili amintas | **amaverunt** |
+| ni amintas  | **amavĕmus** |
+| vi amintas  | **amavestis** |
+| ili amintas | **amavērunt** |
 
 <!--v-->
 
@@ -3143,13 +3232,13 @@ Duoblaj vokaloj en finaĵoj estas skribataj kun makrono.
 
 | Esperanto | Classĭca |
 |-|-|
-| (se) mi amus | **amavissem** |
-| (se) ci amus | **amavisses** |
-| (se) li amus | **amavisset** |
+| (se) mi amus | **amavessem** |
+| (se) ci amus | **amavesses** |
+| (se) li amus | **amavesset** |
 | | |
-| (se) ni amus | **amavissemus** |
-| (se) vi amus | **amavissetis** |
-| (se) ili amus | **amavissent** |
+| (se) ni amus | **amavessemus** |
+| (se) vi amus | **amavessetis** |
+| (se) ili amus | **amavessent** |
 
 <!--v-->
 
@@ -3157,7 +3246,7 @@ Duoblaj vokaloj en finaĵoj estas skribataj kun makrono.
 
 <!--v-->
 
- <small>Samkiel verboj je **-ire**, la verboj je **-ĭre** kaj **-ĕre** havas pasivan participon je **-ĭta**. Tiu **-ĭta** asimiliĝas al la verba radiko: **capta** <small>**(capĭta)**</small>.</small>
+ <small>Samkiel verboj je -**ire**, la verboj je -**ĭre** kaj -**ĕre** havas pasivan participon je -**ĭta**. Tiu -**ĭta** asimiliĝas al la verba radiko: **capta** <small>**(capĭta)**</small>.</small>
 
 <!--v-->
 
@@ -3316,7 +3405,7 @@ Duoblaj vokaloj en finaĵoj estas skribataj kun makrono.
 
 <!--v-->
 
-<small>Konserviĝas **-dĭta**, kiam ĝi origine estis **data**, t.e. la participo de **dare**: **perdĭta**.</small>
+<small>Konserviĝas -**dĭta**, kiam ĝi origine estis **data**, t.e. la participo de **dare**: **perdĭta**.</small>
 
 <!--v-->
 
@@ -3357,7 +3446,7 @@ Duoblaj vokaloj en finaĵoj estas skribataj kun makrono.
 
 <!--v-->
 
-<small>La as-formoj de **essĕre** havas eliziojn. Anstataŭ **sê-** uziĝas **sû-**: **sûm**, **sûmus**, **sûnt**.</small>
+<small>La as-formoj de **essĕre** havas eliziojn. Anstataŭ **sê**- uziĝas **sû**-: **sûm**, **sûmus**, **sûnt**.</small>
 
 <!--v-->
 
@@ -3709,7 +3798,7 @@ Duoblaj vokaloj en finaĵoj estas skribataj kun makrono.
 
 <!--v-->
 
-<small>Radikofina **b** fariĝas **v** ankaŭ antaŭ la ŝajnfinaĵo **-il**. Kombine kun la ŝajnfinaĵo **-idád**, la **b** konserviĝas.</small>
+<small>Radikofina **b** fariĝas **v** ankaŭ antaŭ la ŝajnfinaĵo -**il**. Kombine kun la ŝajnfinaĵo -**idád**, la **b** konserviĝas.</small>
 
 <!--v-->
 
@@ -3726,7 +3815,7 @@ Duoblaj vokaloj en finaĵoj estas skribataj kun makrono.
 
 <!--v-->
 
-<small>Kelkaj infinitivoj je **-ér** mallongiĝas.</small>
+<small>Kelkaj infinitivoj je -**ér** mallongiĝas.</small>
 
 <!--v-->
 
@@ -4489,7 +4578,7 @@ Notes:
 | *compagnia* | *compagnie* | *compañía* | *companhia* |
 
 Notes:
-* la akcento estas plej stranga. ŝajnas ke la franca influis ĉiujn aliajn lingvojn.
+* La akcento estas strangega. Ŝajnas ke la franca influis ĉiujn aliajn lingvojn.
 
 <!--v-->
 
@@ -6953,4 +7042,6 @@ cella collo programma anno rara casa rosa acto nocturna tacto tecto trato victĭ
 <!-- | *menos* | **mïnůs** |
 | *ponto* | **půncto** |
 | *por* | **pe̊r** |
+
+<!-- TODO fina linio malsupre de tabeloj -->
 
