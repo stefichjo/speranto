@@ -2159,10 +2159,10 @@ La finaĵoj -**ione**, -**o**, -**ore** kaj -**ura**
 | estos | **será** <small>**esserá**</small> |
 | | |
 | (ke) estu | **sîa** <small>**essia**</small> |
-| (se) estus | **fuêsse** <small>**essêsse**</small> |
+| (se) estus | **fuesse** <small>**essêsse**</small> |
 | (do) estus | **sería** <small>**essería**</small> |
 | | |
-| estintas | **hâ sito** <small>**fu** → **esséu**</small> |
+| estintas | **hâ sito** <small>**fue** → **esséu**</small> |
 | | |
 
 <!--v-->
@@ -2180,14 +2180,11 @@ La finaĵoj -**ione**, -**o**, -**ore** kaj -**ura**
 | iros | **irá** |
 | | |
 | (ke) iru | **vadea** |
-| (se) irus | **fuêsse** <small>**îsse**</small> |
+| (se) irus | **vadêsse** <small>**îsse** → **fuêsse**</small> |
 | (do) irus | **iría** |
 | | |
-| intas | **hâ ito** <small>**fu** → **íu**</small> |
+| intas | **hâ ito** <small>**vadéu** → **íu** → **fue**</small> |
 | | |
-
-<!-- TODO fuêsse → vadêsse? -->
-<!-- TODO fu → vadéu? -->
 
 <!--v-->
 
@@ -2601,6 +2598,20 @@ La finaĵoj -**ione**, -**o**, -**ore** kaj -**ura**
 
 <!--v-->
 
+<small>En la ke-u-modo, radikofina **-e** kaj **-i** eliziiĝas.</small>
+
+<!--v-->
+
+| Esperanto | Intermediaria |
+|-|-|
+| (ke) mi vidu | **vida** |
+| (ke) mi aŭdu | **auda** |
+| | |
+| (ke) mi venku | **vinca** |
+| | |
+
+<!--v-->
+
 | Esperanto | Intermediaria |
 |-|-|
 | (se) mi amus | **amâsse** |
@@ -2762,16 +2773,14 @@ La finaĵoj -**ione**, -**o**, -**ore** kaj -**ura**
 
 | Esperanto | Intermediaria |
 |-|-|
-| mi estintas | **hô sido** <small>**fui**</small> |
-| ci estintas | **hâs sido** <small>**fuste**</small> |
-| li estintas | **hâ sido** <small>**fu**</small> |
+| mi estintas | **hô sido** <small>**fuei**</small> |
+| ci estintas | **hâs sido** <small>**fueste**</small> |
+| li estintas | **hâ sido** <small>**fue**</small> |
 | | |
-| ni estintas | **hêmos sido** <small>**fumos**</small> |
-| vi estintas | **hêis sido** <small>**fustes**</small> |
-| ili estintas | **hân sido** <small>**furon**</small> |
+| ni estintas | **hêmos sido** <small>**fuemos**</small> |
+| vi estintas | **hêis sido** <small>**fuestes**</small> |
+| ili estintas | **hân sido** <small>**fueron**</small> |
 | | |
-
-<!-- TODO fuiste → fuisti? -->
 
 <!--v-->
 
@@ -2792,19 +2801,6 @@ La finaĵoj -**ione**, -**o**, -**ore** kaj -**ura**
 
 <!--v-->
 
-Por la perfektaj formoj de **îr** uziĝas la verbo **sêr**.
-
-<!--v-->
-
-| Esperanto | Intermediaria |
-|-|-|
-| mi irintas | **hô ido** <small>**fui**</small> |
-| | |
-
-<!-- TODO vadéi? -->
-
-<!--v-->
-
 #### fâr
 
 <!--v-->
@@ -2819,6 +2815,9 @@ Por la perfektaj formoj de **îr** uziĝas la verbo **sêr**.
 | vi faras | **fâis** |
 | ili faras | **fân** |
 | | |
+
+<!-- TODO tenio venio -->
+<!-- TODO volio tolio -->
 
 <!--v-->
 
@@ -3140,7 +3139,7 @@ Duoblaj vokaloj en finaĵoj estas skribataj kun makrono.
 | ili | -**nt**`**` |
 | | |
 
-<small>`*` En la mi-as-formoj, radikofina vokalo konserviĝas en verboj je -**ere**, -**ire** kaj -**ĭre**: **vido** → **video**, **audo** → **audio**, **capo** → **capio**. (En la Latina, **ĕ**-verboj havas la radikofinon **i** en la as-formoj.)</small>
+<small>`*` En la mi-as-formoj, radikofina vokalo konserviĝas en verboj je -**ere**, -**ire** kaj -**ĭre**: **video**, **audio**, **capio**. (En la Latina, **ĕ**-verboj havas la radikofinon **i** en la as-formoj.)</small>
 
 <small>`**` -**nt** fariĝas -**ent** (-**unt** en la Latina) post radikofina **i**/**ĭ**: **~~audint~~** → **audient**, **~~capint~~** → **capient**. (Analogie, **legent** fariĝas **legunt** en la Latina.)</small>
 
@@ -3433,12 +3432,12 @@ Duoblaj vokaloj en finaĵoj estas skribataj kun makrono.
 
 | Esperanto | Classĭca |
 |-|-|
-| mi estas vidata | **sûm visa** <small>**videor**</small> |
+| mi estas vidata | **sô visa** <small>**videor**</small> |
 | ci estas vidata | **ês visa** <small>**videris**</small> |
 | li estas vidata | **êst visa** <small>**videtur**</small> |
-| ni estas vidataj | **sûmus visas** <small>**videmur**</small> |
+| ni estas vidataj | **sêmus visas** <small>**videmur**</small> |
 | vi estas vidataj | **êstis visas** <small>**videmĭni**</small> |
-| ili estas vidataj | **sûnt visas** <small>**videntur**</small> |
+| ili estas vidataj | **sênt visas** <small>**videntur**</small> |
 
 <!--v-->
 
@@ -3446,19 +3445,19 @@ Duoblaj vokaloj en finaĵoj estas skribataj kun makrono.
 
 <!--v-->
 
-<small>La as-formoj de **essĕre** havas eliziojn. Anstataŭ **sê**- uziĝas **sû**-: **sûm**, **sûmus**, **sûnt**.</small>
+<small>La as-formoj de **essĕre** havas eliziojn.</small>
 
 <!--v-->
 
 | Esperanto | Classĭca |
 |-|-|
-| mi estas | **sûm** <small>**sêm** **(essem)**</small> |
+| mi estas | **sô** <small>**(esso)**</small> |
 | ci estas | **ês** <small>**(esses)**</small> |
 | li estas | **êst** <small>**(esset)**</small> |
 | | |
-| ni estas | **sûmus** <small>**sêmus** **(essĕmus)**</small> |
+| ni estas | **sêmus** <small>**(essĕmus)**</small> |
 | vi estas | **êstis** <small>**(essĕtis)**</small> |
-| ili estas | **sûnt** <small>**sênt** **(essent)**</small> |
+| ili estas | **sênt** <small>**(essent)**</small> |
 
 <!--v-->
 
@@ -3468,13 +3467,13 @@ Duoblaj vokaloj en finaĵoj estas skribataj kun makrono.
 
 | Esperanto | Classĭca |
 |-|-|
-| mi estintas | **fuī** |
-| ci estintas | **fuisti** |
-| li estintas | **fuit** |
+| mi estintas | **fuei** |
+| ci estintas | **fuesti** |
+| li estintas | **fuet** |
 | | |
-| ni estintas | **fuimus** |
-| vi estintas | **fuistis** |
-| ili estintas | **fuerunt** |
+| ni estintas | **fuemus** |
+| vi estintas | **fuestis** |
+| ili estintas | **fuērunt** |
 
 <!--v-->
 
@@ -3504,17 +3503,19 @@ Duoblaj vokaloj en finaĵoj estas skribataj kun makrono.
 
 | Esperanto | Classĭca |
 |-|-|
-| (ke) mi estintis | **fuissem** |
-| (ke) ci estintis | **fuisses** |
-| (ke) li estintis | **fuisset** |
+| (ke) mi estintis | **fuessem** |
+| (ke) ci estintis | **fuesses** |
+| (ke) li estintis | **fuesset** |
 | | |
-| (ke) ni estintis | **fuissemus** |
-| (ke) vi estintis | **fuissetis** |
-| (ke) ili estintis | **fuissent** |
+| (ke) ni estintis | **fuessemus** |
+| (ke) vi estintis | **fuessetis** |
+| (ke) ili estintis | **fuessent** |
 
 <!--v-->
 
 <small>La formoj de **ire** estas strangaj, sed ne malregulaj.</small>
+
+<!-- TODO io → eo (por eviti "iam") -->
 
 <!--v-->
 

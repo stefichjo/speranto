@@ -463,8 +463,8 @@ Notes:
 
 | | | | |
 |-|-|-|-|
-| **se** <small>esse</small>    | **sea** <small>essea</small>  | **fue**   | **fuerĕ**  |
-| **era** <small>esseba</small> | **esse** <small>essĕre</small> | **fuera** | **fuesse** |
+| **sê** <small>esse</small>    | **sêa** <small>essea</small>  | **fue**   | **fuerĕ**  |
+| **era** <small>esseba</small> | **êsse** <small>essĕre</small> | **fuera** | **fuesse** |
 | | | | |
 | **será** <small>esserabe</small> | **sería** <small>esseriba</small> | ~~fuerĭ~~ | |
 | | | | |
@@ -473,13 +473,13 @@ Notes:
 
 | | | | | |
 |-|-|-|-|-|
-| so      | semus     | | seam | seamus |
-| **es**  | **estis** | | seas | seatis |
-| **est** | sent      | | seat | seant  |
+| sô      | sêmus     | | sêam | seamus |
+| **ês**  | **êstis** | | sêas | seatis |
+| **êst** | sênt      | | sêat | sêant  |
 | | | | | |
-| eram | eramus | | essem | essemus |
-| eras | eratis | | esses | essetis |
-| erat | erant  | | esset | essent  |
+| eram | eramus | | êssem | essêmus |
+| eras | eratis | | êsses | essêtis |
+| erat | erant  | | êsset | êssent  |
 | | | | | |
 | seró  | serêmus | | seríam | seríamus |
 | serás | serêtis | | serías | seríatis |
@@ -490,9 +490,9 @@ Notes:
 
 | | | | | |
 |-|-|-|-|-|
-| fuei    | fuemus  | | fuerem | fuerĕmus |
-| fueisti | fuestis | | fueres | fuerĕtis |
-| fuet    | fuērunt | | fueret | fuerent  |
+| fuei   | fuemus  | | fuerem | fuerĕmus |
+| fuesti | fuestis | | fueres | fuerĕtis |
+| fuet   | fuērunt | | fueret | fuerent  |
 | | | | | |
 | fueram | fueramus | | fuessem | fuessemus |
 | fueras | fueratis | | fuesses | fuessetis |
