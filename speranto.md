@@ -2544,7 +2544,24 @@ La finaĵoj -**ione**, -**o**, -**ore** kaj -**ura**
 
 <!--v-->
 
-<small>En la as-tempo, radikofina **i** fariĝas **e**, dum en la pasiva participo, radikofina **e** fariĝas **i**.</small>
+<small>En la as-tempo, radikofina neakcentata **i** fariĝas **e**.</small>
+
+<!--v-->
+
+| Esperanto | Intermediaria |
+|-|-|
+| mi sentas | **sento** |
+| ci sentas | **sentes** |
+| li sentas | **sente** |
+| | |
+| ni sentas  | **sentimos** |
+| vi sentas  | **sentíis** |
+| ili sentas | **senten** |
+| | |
+
+<!--v-->
+
+<small>En la pasiva participo, radikofina **e** fariĝas **i**.</small>
 
 <!--v-->
 
@@ -2696,13 +2713,13 @@ La finaĵoj -**ione**, -**o**, -**ore** kaj -**ura**
 
 | Esperanto | Intermediaria |
 |-|-|
-| (ke) mi amintu | **havea amado** |
-| (ke) ci amintu | **haveas amado** |
-| (ke) li amintu | **havea amado** |
+| (ke) mi amintu | **havia amado** |
+| (ke) ci amintu | **havias amado** |
+| (ke) li amintu | **havia amado** |
 | | |
-| (ke) ni amintu  | **haveámos amado** |
-| (ke) vi amintu  | **haveáis amado** |
-| (ke) ili amintu | **havean amado** |
+| (ke) ni amintu  | **haviâmos amado** |
+| (ke) vi amintu  | **haviáis amado** |
+| (ke) ili amintu | **havian amado** |
 | | |
 
 <!--v-->
@@ -2750,6 +2767,19 @@ La finaĵoj -**ione**, -**o**, -**ore** kaj -**ura**
 | ni havas | **hêmos** |
 | vi havas | **hêis** |
 | ili havas | **hân** |
+| | |
+
+<!--v-->
+
+| Esperanto | Intermediaria |
+|-|-|
+| (ke) mi havu | **havia** |
+| (ke) ci havu | **havias** |
+| (ke) li havu | **havia** |
+| | |
+| (ke) ni havu  | **haviamos** |
+| (ke) vi havu  | **haviáis** |
+| (ke) ili havu | **havian** |
 | | |
 
 <!--v-->
@@ -2816,8 +2846,39 @@ La finaĵoj -**ione**, -**o**, -**ore** kaj -**ura**
 | ili faras | **fân** |
 | | |
 
-<!-- TODO tenio venio -->
-<!-- TODO volio tolio -->
+<!--v-->
+
+#### -lêr, -lîr
+
+<!--v-->
+
+| Esperanto | Intermediaria |
+|-|-|
+| mi volas | **volio** |
+| ci volas | **voles** |
+| li volas | **vole** |
+| | |
+| ni volas | **volemos** |
+| vi volas | **voléis** |
+| ili volas | **volen** |
+| | |
+
+<!--v-->
+
+#### -nêr, -nîr
+
+<!--v-->
+
+| Esperanto | Intermediaria |
+|-|-|
+| mi venas | **venio** |
+| ci venas | **venes** |
+| li venas | **vene** |
+| | |
+| ni venas | **venemos** |
+| vi venas | **venéis** |
+| ili venas | **venen** |
+| | |
 
 <!--v-->
 
@@ -2929,7 +2990,7 @@ Duoblaj vokaloj en finaĵoj estas skribataj kun makrono.
 
 | Esperanto | Classĭca |
 |-|-|
-| mi amintas | **amavī** <small>**amavii**</small> *[amaŭi-i]* |
+| mi vidintas | **vīdei** <small>**viidei**</small> *[viidei]* |
 
 <!--v-->
 
@@ -3190,6 +3251,7 @@ Duoblaj vokaloj en finaĵoj estas skribataj kun makrono.
 <small>`*` (En la Latina, uziĝas -**veri** anstataŭ -**vere**: **amāverimus**.)</small>
 
 <small>`**` La ke-intis-tempo uziĝas kiel se-us-modo por ne-realigeblaj situacioj.</small>
+<!-- TODO Ĉu? -->
 
 <!--v-->
 
@@ -3461,7 +3523,7 @@ Duoblaj vokaloj en finaĵoj estas skribataj kun makrono.
 
 <!--v-->
 
-<small>La perfekta radiko de **essĕre** estas **f**. La perfektaj sufiksoj tiam skribiĝas kun **u** anstataŭ **v**: **fvī** → **fuī**.</small>
+<small>La perfekta radiko de **essĕre** estas **f**. La perfektaj sufiksoj tiam skribiĝas kun **u** anstataŭ **v**: **fvei** → **fuei**.</small>
 
 <!--v-->
 
@@ -3531,16 +3593,16 @@ Duoblaj vokaloj en finaĵoj estas skribataj kun makrono.
 
 <!--v-->
 
-<small>En skriba lingvo uziĝas malregulaj perfektaj verbaj radikoj kun longa vokalo anstataŭ **ev**: **videvī** → **vīdī**, **legevī** → **lēgī**. (Koincide, malregulaj verboj havas malregulan pasivan participon, ekzemple: **vidĭta** → **visa**, **legĭta** → **lecta**.)</small>
+<small>En skriba lingvo uziĝas malregulaj perfektaj verbaj radikoj kun longa vokalo anstataŭ **ev**: **videvei** → **vīdei**, **legevei** → **lēgei**. (Koincide, malregulaj verboj havas malregulan pasivan participon, ekzemple: **vidĭta** → **visa**, **legĭta** → **lecta**.)</small>
 
-<small>Anstataŭ longa **ā** uziĝas longa **ē**: **cāpī** → **cēpī**.</small>
+<small>Anstataŭ longa **ā** uziĝas longa **ē**: **cāpei** → **cēpei**.</small>
 
 <!--v-->
 
 | Esperanto | Classĭca |
 |-|-|
-| mi vidintas | **videvī** <small>**vīdī**</small> |
-| mi legintas | **legevī** <small>**lēgī**</small> |
+| mi vidintas | **videvei** <small>**vīdei**</small> |
+| mi legintas | **legevei** <small>**lēgei**</small> |
 
 <!--v-->
 
@@ -3548,7 +3610,7 @@ Duoblaj vokaloj en finaĵoj estas skribataj kun makrono.
 |-|-|
 | porti | **portare** <small>**fêrre**</small> |
 | mi portas | **porto** <small>**fero**</small> |
-| mi portintas | **portavī** <small>**tulī**</small> |
+| mi portintas | **portavei** <small>**tulei**</small> |
 | portata/-ita | **portata** <small>**lata**</small> |
 
 <!--v-->
@@ -5071,11 +5133,11 @@ Notes:
 
 <!--v-->
 
-**haveamos**
+**haviamos**
 
 | 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
 |:-:|:-:|:-:|:-:|
-| hav̄iamo | | | |
+| hav̄ĭamo | | | |
 | *abbiamo* | | | |
 
 Notes:

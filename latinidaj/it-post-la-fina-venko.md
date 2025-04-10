@@ -317,7 +317,7 @@ revealOptions:
 
 <!--v-->
 
-## vĭ & vĕ
+## v̄ĭ
 
 <!--v-->
 
@@ -329,25 +329,13 @@ revealOptions:
 
 | 🌐 duvio |
 |:-:|
-| 🇮🇹 duvĭo |
+| 🇮🇹 duv̄ĭo |
 
 <!--v-->
 
 | 🌐 duvio |
 |:-:|
-| 🇮🇹 duvĭo <small>duƀĭo</small> |
-
-<!--v-->
-
-| 🌐 (qŭe) haviamos <small>haƀĕamos</small>  |
-|:-:|
-| 🇮🇹 (che) abbiamo |
-
-<!--v-->
-
-| 🌐 (qŭe) haviamos <small>haƀĕamos</small>  |
-|:-:|
-| 🇮🇹 (qŭe) havĭamo <small>haƀĕamo</small> |
+| 🇮🇹 duv̄ĭo <small>duƀĭo</small> |
 
 <!--v-->
 
@@ -1139,7 +1127,13 @@ revealOptions:
 
 | 🌐 amamos |
 |:-:|
-| ~~🇮🇹~~ amamo |
+| 🇮🇹 amiamos |
+
+<!--v-->
+
+| 🌐 amamos |
+|:-:|
+| ~~🇮🇹~~ amamos |
 
 <!--v-->
 
@@ -1151,13 +1145,13 @@ revealOptions:
 
 | 🌐 havemos |
 |:-:|
-| 🇮🇹 havĭamo |
+| 🇮🇹 hav̄ĭamos |
 
 <!--v-->
 
 | 🌐 havemos |
 |:-:|
-| ~~🇮🇹~~ havemo |
+| ~~🇮🇹~~ havemos |
 
 <!--v-->
 
@@ -1206,29 +1200,29 @@ revealOptions:
 | | |
 |-|-|
 | -o | -mos |
-| -ṡ | -tïs |
-| -  | -no  |
+| -s | -tes |
+| -  | -n  |
 | | |
 
-<small>-~~ao~~, -~~eo~~, -~~io~~ → -o; -~~aṡ~~, -~~eṡ~~ → -ȧṡ, -ėṡ; -i → -ï</small>
+<small>-~~ao~~, -~~eo~~, -~~io~~ → -o; -~~as~~, -~~es~~ → -ȧs, -ės; -i → -ï</small>
 
-<small>-amos, -emos, -imos <small>🇮🇹 -iamos</small>; -ĕno, -ĭno <small>🇮🇹 -ŏno</small></small>
+<small>-amos, -emos, -imos <small>🇮🇹 -iamos</small>; -an, -en <small>🇮🇹 -ăno, -ŏno</small></small>
 
 <!--v-->
 
 | | |
 |-|-|
 | amo  | amamos <small>🇮🇹 amiamos</small> |
-| amȧṡ | amatïs |
-| ama  | amăno  |
+| amȧs | amates |
+| ama  | aman <small>🇮🇹 amăno</small> |
 | | |
 | vïdo  | vïdemos <small>🇮🇹 vïdiamos</small> |
-| vïdėṡ | vïdetïs |
-| vïde  | vïdĕno  <small>🇮🇹 vïdŏno</small> |
+| vïdės | vïdetes |
+| vïde  | vïden <small>🇮🇹 vïdŏno</small> |
 | | |
 | dormo  | dormimos <small>🇮🇹 dormiamos</small> |
-| dormiṡ | dormitïs |
-| dormï  | dormĭno  <small>🇮🇹 dormŏno</small> |
+| dormės | dormites |
+| dorme  | dormen <small>🇮🇹 dormŏno</small> |
 | | |
 
 <!--v-->
@@ -1236,15 +1230,15 @@ revealOptions:
 | | |
 |-|-|
 | sto  | stamos <small>🇮🇹 stiamos</small> |
-| staṡ | statïs |
-| sta  | stan̄o  |
+| staṡ | states |
+| sta  | stan <small>🇮🇹 stan̄o</small>  |
 | | |
 
-<small>ĉe akcentata -a: -ȧs → -ai = -aṡ; -ano → -anno = -an̄o</small>
+<small>ĉe akcentata -a: -ȧs → -ai = -aṡ; -an <small>🇮🇹 ăno → -anno = -an̄o</small></small>
 
 Notes:
-* fan̄o, han̄o, san̄o
-* dan̄o, stan̄o
+* 🇮🇹 fan̄o, han̄o, san̄o
+* 🇮🇹 dan̄o, stan̄o
 
 <!--v-->
 
@@ -1257,8 +1251,8 @@ Notes:
 | | |
 |-|-|
 | -vo  | -vamos |
-| -vȧṡ | -vatïs |
-| -va  | -văno  |
+| -vȧs | -vates |
+| -va  | -van <small>🇮🇹 -văno</small> |
 | | |
 
 <!--v-->
@@ -1266,16 +1260,16 @@ Notes:
 | | |
 |-|-|
 | amavo  | amavamos |
-| amavȧṡ | amavatïs |
-| amava  | amavăno  |
+| amavȧs | amavates |
+| amava  | amavan <small>🇮🇹 amavăno</small> |
 | | |
 | vïdevo  | vïdevamos |
-| vïdevȧṡ | vïdevatïs |
-| vïdeva  | vïdevăno  |
+| vïdevȧs | vïdevates |
+| vïdeva  | vïdevan <small>🇮🇹 vïdevăno</small> |
 | | |
 | dormivo  | dormivamos |
-| dormivȧṡ | dormivatïs |
-| dormiva  | dormivăno  |
+| dormivȧs | dormivates |
+| dormiva  | dormivan <small>🇮🇹 dormivăno</small> |
 | | |
 
 <!--v-->
@@ -1289,8 +1283,8 @@ Notes:
 | | |
 |-|-|
 | -ró  | -rêmos |
-| -ráṡ | -rêtïs |
-| -rá  | -rân̄o  |
+| -ráṡ | -rêtes |
+| -rá  | -rán <small>🇮🇹 -rân̄o</small> |
 | | |
 
 <small>Komparu kun la as-tempo de *havere*.</small>
@@ -1302,21 +1296,21 @@ Notes:
 | | |
 |-|-|
 | amäró  | amarêmos |
-| amäráṡ | amärêtïs |
-| amärá  | amärân̄o  |
+| amäráṡ | amärêtes |
+| amärá  | amärán <small>🇮🇹 amärân̄o</small> |
 | | |
 | vïdĕró  | vïdĕrêmos |
-| vïdĕráṡ | vïdĕrêtïs |
-| vïdĕrá  | vïdĕrân̄o  |
+| vïdĕráṡ | vïdĕrêtes |
+| vïdĕrá  | vïdĕrán <small>🇮🇹 vïdĕrân̄o</small> |
 | | |
 | dormiró  | dormirêmos |
-| dormiráṡ | dormirêtïs |
-| dormirá  | dormirân̄o  |
+| dormiráṡ | dormirêtes |
+| dormirá  | dormirán <small>🇮🇹 dormirân̄o</small> |
 | | |
 
 <!--s-->
 
-## ke-as-Tempo
+## ke-u-Modo
 
 | -a |
 |-|
@@ -1325,8 +1319,8 @@ Notes:
 | | |
 |-|-|
 | -a  | -amos |
-| -as | -atïs |
-| -a  | -ăno  |
+| -as | -ates |
+| -a  | -an <small>🇮🇹 -ăno</small> |
 | | |
 
 <small>-~~aa~~, -~~ea~~, -~~ia~~ → kun akcento: -ia, sen akcento: -ĭ, -ă, -ă</small>
@@ -1336,16 +1330,16 @@ Notes:
 | | |
 |-|-|
 | ami  | amiamos |
-| amis | amiatïs |
-| ami  | amĭno   |
+| amis | amiates |
+| ami  | amin <small>🇮🇹 amĭno</small> |
 | | |
 | vïda  | vïdiamos |
-| vïdas | vïdiatïs |
-| vïda  | vïdăno   |
+| vïdas | vïdiates |
+| vïda  | vïdan <small>🇮🇹 vïdăno</small> |
 | | |
 | dorma  | dormiamos |
-| dormas | dormiatïs |
-| dorma  | dormăno   |
+| dormas | dormiates |
+| dorma  | dorman <small>🇮🇹 dormăno</small> |
 | | |
 
 <!--v-->
@@ -1353,13 +1347,13 @@ Notes:
 | | |
 |-|-|
 | stia  | stiamos |
-| stias | stiatïs |
-| stia  | stiăno  |
+| stias | stiates |
+| stia  | stian <small>🇮🇹 stiăno</small> |
 | | |
 
 <!--v-->
 
-## ke-is-Tempo
+## se-us-Modo
 
 | -sse |
 |-|
@@ -1368,8 +1362,8 @@ Notes:
 | | |
 |-|-|
 | -ssi  | -ssĭmos |
-| -ssis | -ssĭtïs |
-| -sse  | -ssĕro  |
+| -ssis | -ssĭtes |
+| -sse  | -ssen <small>🇮🇹 -ssĕro</small> |
 | | |
 
 <small>Komparu kun la ke-intis-tempo de la Latina.</small>
@@ -1381,52 +1375,53 @@ Notes:
 | | |
 |-|-|
 | amassim | amassĭmos |
-| amassis | amassĭtïs |
-| amasset | amassĕro  |
+| amassis | amassĭtes |
+| amasse  | amassen <small>🇮🇹 amassĕro</small> |
 | | |
 | vïdessim | vïdessĭmos |
-| vïdessis | vïdessĭtïs |
-| vïdesset | vïdessĕro  |
+| vïdessis | vïdessĭtes |
+| vïdesse  | vïdessen <small>🇮🇹 vïdessĕro</small> |
 | | |
 | dormissim | dormissĭmos |
-| dormissis | dormissĭtïs |
-| dormisset | dormissĕro  |
+| dormissis | dormissĭtes |
+| dormisse  | dormissen <small>🇮🇹 dormissĕro</small> |
 | | |
 
 <!--v-->
 
-## ke-os-Tempo
+## do-us-Modo
 
-| -rävve |
+| -revve |
 |-|
 | |
 
 | | |
 |-|-|
-| -rävvi  | -rêmos   |
-| -resti  | -restïs  |
-| -rävvet | -rävvĕro |
+| -revvi <small>🇮🇹 -rei</small> | -rêm̄os   |
+| -resti | -restes  |
+| -revve | -revvĕro |
 | | |
 
-<small>Komparu kun la intas-formo de *havere*: *hävv-* → *-ävv-*, *have-* → *-e-*</small>
+<small>Komparu kun la intas-formoj de *havere*: *hevv-* → *-evv-*, *have-* → *-e-*</small>
 
-<!-- TODO anstataŭ -riva -->
+Notes:
+* En Lingua uziĝas la is-formoj de *ire*, t.e. *-ía* respektive *-iva*. Sed en la itala tiuj formoj ne ekzistas.
 
 <!--v-->
 
 | | |
 |-|-|
-| amärävvi <small>🇮🇹 amaräi</small> | amarem̄os |
-| amäresti  | amärestïs  |
-| amärävvet | amärävvĕro |
+| amärevvi <small>🇮🇹 amärei</small> | amärem̄os |
+| amäresti | amärestes  |
+| amärevve | amärevvĕro |
 | | |
-| vïdĕrävvi <small>🇮🇹 vïdĕräi</small> | vïdĕrem̄os |
-| vïdĕresti  | vïdĕrestïs  |
-| vïdĕrävvet | vïdĕrävvĕro |
+| vïdĕrevvi <small>🇮🇹 vïdĕrei</small> | vïdĕrem̄os |
+| vïdĕresti | vïdĕrestes  |
+| vïdĕrevve | vïdĕrevvĕro |
 | | |
-| dormirävvi <small>🇮🇹 vïdĕräi</small> | dormirem̄os |
-| dormiresti  | dormirestïs  |
-| dormirävvet | dormirävvĕro |
+| dormirevvi <small>🇮🇹 vïdĕrei</small> | dormirem̄os |
+| dormiresti | dormirestes  |
+| dormirevve | dormirevvĕro |
 | | |
 
 <!--s-->
@@ -1439,16 +1434,16 @@ Notes:
 
 | | |
 |-|-|
-| -i`*` | -m̄os     |
-| -sti  | -stïs    |
-| -u`*` | -rŏno`*` |
+| -'i`*` | -'m̄os     |
+| -'sti  | -'stes    |
+| -'u`*` | -'ron`*` <small>🇮🇹 -'rono</small> |
 | | |
 
 <small>`*` laŭeble kun alterantiva radiko</small>
 
-<small>-áut <small>🇮🇹 -ó</small></small>
+<small>-áu <small>🇮🇹 -ó</small></small>
 
-<small>-rŏno → <small>🇮🇹 -ĕro</small></small>
+<small>-ĕron <small>🇮🇹 -ĕrono → -ĕro</small></small>
 
 Notes:
 * -a~~ve~~i -a~~ve~~sti -av~~e~~t -a~~vĕ~~mus -a~~ve~~stis -a~~vē~~runt
@@ -1458,18 +1453,57 @@ Notes:
 | | |
 |-|-|
 | amái   | amâm̄os  |
-| amâsti | amâstïs |
-| amáut <small>🇮🇹 amó</small> | amárono |
+| amâsti | amâstes |
+| amáu <small>🇮🇹 amó</small> | amâron <small>🇮🇹 amárono</small> |
 | | |
-| videi <small>🇮🇹 vidi</small> | vïdêm̄os |
-| vïdêsti | vïdêstïs  |
-| videt   | vidérono <small>🇮🇹 vidĕro</small> |
+| vîdei <small>🇮🇹 vidi</small> | vïdêm̄os |
+| vïdêsti | vïdêstes  |
+| vîde    | víderon <small>🇮🇹 vídero</small> |
 | | |
 | dormíi   | dormîm̄os |
-| dormîsti | dormîstïs  |
-| dormíit  | dormírono |
+| dormîsti | dormîstes  |
+| dormíi   | dormîron <small>🇮🇹 dormírono</small> |
 | | |
 
-<!-- TODO amáu vid? dormíu -->
+<!--s-->
 
-<!-- TODO lingvaismoj: italaĵoj estas meteblaj en small-krampojn -->
+## Malregulaj Verboj
+
+<!--v-->
+
+### havere
+
+<!--v-->
+
+| | |
+|-|-|
+| **hô**  | havemos <small>🇮🇹 hav̄ĭamos</small>  |
+| **hâṡ** | havetes |
+| **hâ**  | **hân** <small>🇮🇹 han̄o</small> |
+| | |
+
+| | |
+|-|-|
+| havevo  | havevamos |
+| havevas | havevates |
+| haveva  | havevan <small>🇮🇹 havĕvano</small> |
+| | |
+
+| | |
+|-|-|
+| havĕró  | havĕrêmos |
+| havĕráṡ | havĕrêtes |
+| havĕrá  | havĕrân <small>🇮🇹 havĕran̄o</small> |
+| | |
+
+<!-- TODO ke-u, se-us, do-us -->
+
+<!--v-->
+
+| | |
+|-|-|
+| **hevvi** | havêm̄os  |
+| havesti   | havestes |
+| **hevve** | **hévveron** <small>🇮🇹 hévvero</small> |
+| | |
+
