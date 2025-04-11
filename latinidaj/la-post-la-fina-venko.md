@@ -104,6 +104,8 @@ Notes:
 | audĩbat | audĩbant  |
 | | |
 
+<!-- TODO ĩ → i -->
+
 <!--v-->
 
 ## os-Tempo

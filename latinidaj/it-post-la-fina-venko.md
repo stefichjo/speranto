@@ -1204,7 +1204,7 @@ revealOptions:
 | -  | -n  |
 | | |
 
-<small>-~~ao~~, -~~eo~~, -~~io~~ → -o; -~~as~~, -~~es~~ → -ȧs, -ės; -i → -ï</small>
+<small>-~~as~~, -~~es~~ → -ȧs, -ės</small>
 
 <small>-amos, -emos, -imos <small>🇮🇹 -iamos</small>; -an, -en <small>🇮🇹 -ăno, -ŏno</small></small>
 
