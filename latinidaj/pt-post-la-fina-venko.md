@@ -109,9 +109,26 @@ revealOptions:
 
 | | |
 |-|-|
-| -réi | -rémos |
+| -réi | -rêmos |
 | -rás | -réis |
-| -rá  | -rán <small>🇵🇹 -rano</small> |
+| -rá  | -rán <small>🇵🇹 -râno</small> |
+| | |
+
+<!--v-->
+
+| | |
+|-|-|
+| amaréi | amarêmos |
+| amarás | amaréis |
+| amará  | amarán <small>🇵🇹 amarâno</small> |
+| | |
+| tïmeréi | tïmerêmos |
+| tïmerás | tïmeréis |
+| tïmerá  | tïmerán <small>🇵🇹 tïmerâno</small> |
+| | |
+| dormiréi | dormirêmos |
+| dormirás | dormiréis |
+| dormirá  | dormirán <small>🇵🇹 dormirâno</small> |
 | | |
 
 <!--s-->
