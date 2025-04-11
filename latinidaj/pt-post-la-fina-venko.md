@@ -34,10 +34,8 @@ revealOptions:
 |-|-|
 | -o | -mos |
 | -s | -'is |
-| -  | -n  |
+| -  | -n   |
 | | |
-
-<small>-~~as~~, -~~es~~ → -ȧs, -ės</small>
 
 <!--v-->
 
@@ -148,6 +146,23 @@ revealOptions:
 
 <!--v-->
 
+| | |
+|-|-|
+| ame  | amemos |
+| ames | améis  |
+| ame  | amen   |
+| | |
+| tïma  | tïmamos |
+| tïmas | tïmáis  |
+| tïma  | tïman   |
+| | |
+| dǒrma  | dǒrmamos |
+| dǒrmas | dǒrmáis  |
+| dǒrma  | dǒrman   |
+| | |
+
+<!--v-->
+
 ## ke-is-Tempo
 
 | -'sse |
@@ -163,6 +178,23 @@ revealOptions:
 
 <!--v-->
 
+| | |
+|-|-|
+| amâsse  | amássemos |
+| amâsses | amásseis  |
+| amâsse  | amâssen   |
+| | |
+| tïmêsse  | tïméssemos |
+| tïmêsses | tïmésseis  |
+| tïmêsse  | tïmêssen   |
+| | |
+| dormîsse  | dormíssemus |
+| dormîsses | dormísseis  |
+| dormîsse  | dormîssen   |
+| | |
+
+<!--v-->
+
 ## ke-os-Tempo
 
 | -ría |
@@ -174,6 +206,23 @@ revealOptions:
 | -ría  | -ríamos |
 | -rías | -ríais <small>🇵🇹 -ríäis</small> |
 | -ría  | -rían |
+| | |
+
+<!--v-->
+
+| | |
+|-|-|
+| amaría  | amaríamos |
+| amarías | amaríais <small>🇵🇹 amaríäis</small> |
+| amaría  | amarían |
+| | |
+| tïmería  | tïmeríamos |
+| tïmerías | tïmeríais <small>🇵🇹 tïmeríäis</small> |
+| tïmería  | tïmerían |
+| | |
+| dormiría  | dormiríamos |
+| dormirías | dormiríais <small>🇵🇹 dormiríäis</small> |
+| dormiría  | dormirían |
 | | |
 
 <!--s-->
