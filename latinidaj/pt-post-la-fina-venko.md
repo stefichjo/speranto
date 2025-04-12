@@ -242,6 +242,23 @@ revealOptions:
 
 <!--v-->
 
+| | |
+|-|-|
+| amái <small>🇵🇹 améi</small> | amâmos |
+| amâste | amâstes  |
+| amáu <small>🇵🇹 amóu</small> | amâran |
+| | |
+| tïméi <small>🇵🇹 tïmi</small> | tïmêmos |
+| tïmêste | tïmêstes |
+| tïméu | tïmêran |
+| | |
+| dormíi <small>🇵🇹 dormi</small> | dormîmos |
+| dormîste | dormîstes |
+| dormíu | dormîran |
+| | |
+
+<!--v-->
+
 ## intis-Tempo
 
 | -'ra |
@@ -257,18 +274,51 @@ revealOptions:
 
 <!--v-->
 
+| | |
+|-|-|
+| amâra  | amáramos |
+| amâras | amárais <small>🇵🇹 amáräis</small> |
+| amâra  | amâran |
+| | |
+| tïmêra  | tïméramos |
+| tïmêras | tïmérais <small>🇵🇹 tïméräis</small> |
+| tïmêra  | tïmêran |
+| | |
+| dormîra  | dormíramos |
+| dormîras | dormírais <small>🇵🇹 dormíräis</small> |
+| dormîra  | dormîran |
+| | |
+
+<!--v-->
+
 ## intos-Tempo
 
-| -'rĭ |
+| -'rĕ |
 |-|
 | |
 
 | | |
 |-|-|
-| -'rĭ  | -'rĭmos  |
-| -'ris | -'rĭdis |
-| -'rĭ  | -'rin  |
+| -'rĕ  | -'rĕmos  |
+| -'res | -'rĕdis  |
+| -'rĕ  | -'ren    |
 | | |
 
-<!-- TODO rin OK? -->
+<!--v-->
 
+| | |
+|-|-|
+| amârĕ  | amárĕmos |
+| amâres | amárĕdis |
+| amârĕ  | amâren   |
+| | |
+| tïmêrĕ  | tïmérĕmos |
+| tïmêres | tïméĕdis  |
+| tïmêrĕ  | tïmêren   |
+| | |
+| dormîrĕ  | dormírĕmos  |
+| dormîres | dormírĕdis  |
+| dormîrĕ  | dormîren    |
+| | |
+
+<!--v-->
