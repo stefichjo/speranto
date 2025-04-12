@@ -1426,7 +1426,7 @@ Notes:
 
 <!--s-->
 
-## intas-Tempo
+## -intas
 
 | -e |
 |-|

@@ -12,7 +12,7 @@ revealOptions:
 
 <!-- cd ~/Git/speranto; reveal-md latinidaj/pt-post-la-fina-venko.md -w -->
 
-# Post la Fina Venko:<br> 🌐 → 🇵🇹
+# Post la Fina Venko:<br> 🌐 → 🇧🇷
 
 <!--s-->
 
@@ -24,7 +24,7 @@ revealOptions:
 
 <!--s-->
 
-## as-Tempo
+## -as
 
 | - |
 |-|
@@ -60,7 +60,7 @@ revealOptions:
 
 <!--v-->
 
-## is-Tempo
+## -is
 
 | -va / -'a |
 |-|
@@ -68,38 +68,41 @@ revealOptions:
 
 | | |
 |-|-|
-| -va  | -vamos <small>🇵🇹 -'vamos</small> |
-| -vas | -váis <small>🇵🇹 -'veis</small> |
+| -va  | -'vamos |
+| -vas | -'vais |
 | -va  | -van |
 | | |
 
 | | |
 |-|-|
 | -'a  | -'amos |
-| -'as | -'ais <small>🇵🇹 -'eis</small> |
+| -'as | -'ais <small>🇧🇷 -'eis</small> |
 | -'a  | -'an |
 | | |
+
+Notes:
+* Fakte, en `'vamos` kaj `'vais` ne estas elizio (antaŭ la "v"), sed la akcento moviĝas antaŭ la "v", ŝajne por egali al la akcento de -`'a` (kie efektive estas elizio de "v").
 
 <!--v-->
 
 | | |
 |-|-|
-| amava  | amavamos <small>🇵🇹 amavămos</small> |
-| amavas | amaváis <small>🇵🇹 amavais</small> |
+| amava  | amávamos |
+| amavas | amávais |
 | amava  | amavan |
 | | |
 | tïmía  | tïmíamos |
-| tïmías | tïmíais <small>🇵🇹 tïmíeis</small> |
+| tïmías | tïmíais <small>🇧🇷 tïmíeis</small> |
 | tïmía  | tïmían |
 | | |
 | dormía  | dormíamos |
-| dormías | dormíais <small>🇵🇹 dormíeis</small> |
+| dormías | dormíais <small>🇧🇷 dormíeis</small> |
 | dormía  | dormían |
 | | |
 
 <!--v-->
 
-## os-Tempo
+## -os
 
 | -rá |
 |-|
@@ -109,7 +112,7 @@ revealOptions:
 |-|-|
 | -réi | -rêmos |
 | -rás | -réis |
-| -rá  | -rán <small>🇵🇹 -râno</small> |
+| -rá  | -rán <small>🇧🇷 -râno</small> |
 | | |
 
 <!--v-->
@@ -118,20 +121,20 @@ revealOptions:
 |-|-|
 | amaréi | amarêmos |
 | amarás | amaréis |
-| amará  | amarán <small>🇵🇹 amarâno</small> |
+| amará  | amarán <small>🇧🇷 amarâno</small> |
 | | |
 | tïmeréi | tïmerêmos |
 | tïmerás | tïmeréis |
-| tïmerá  | tïmerán <small>🇵🇹 tïmerâno</small> |
+| tïmerá  | tïmerán <small>🇧🇷 tïmerâno</small> |
 | | |
 | dormiréi | dormirêmos |
 | dormirás | dormiréis |
-| dormirá  | dormirán <small>🇵🇹 dormirâno</small> |
+| dormirá  | dormirán <small>🇧🇷 dormirâno</small> |
 | | |
 
 <!--s-->
 
-## ke-as-Tempo
+## ke -u
 
 | -a |
 |-|
@@ -163,7 +166,7 @@ revealOptions:
 
 <!--v-->
 
-## ke-is-Tempo
+## se -us
 
 | -'sse |
 |-|
@@ -195,7 +198,7 @@ revealOptions:
 
 <!--v-->
 
-## ke-os-Tempo
+## do -us
 
 | -ría |
 |-|
@@ -204,7 +207,7 @@ revealOptions:
 | | |
 |-|-|
 | -ría  | -ríamos |
-| -rías | -ríais <small>🇵🇹 -ríäis</small> |
+| -rías | -ríais <small>🇧🇷 -ríäis</small> |
 | -ría  | -rían |
 | | |
 
@@ -213,21 +216,21 @@ revealOptions:
 | | |
 |-|-|
 | amaría  | amaríamos |
-| amarías | amaríais <small>🇵🇹 amaríäis</small> |
+| amarías | amaríais <small>🇧🇷 amaríäis</small> |
 | amaría  | amarían |
 | | |
 | tïmería  | tïmeríamos |
-| tïmerías | tïmeríais <small>🇵🇹 tïmeríäis</small> |
+| tïmerías | tïmeríais <small>🇧🇷 tïmeríäis</small> |
 | tïmería  | tïmerían |
 | | |
 | dormiría  | dormiríamos |
-| dormirías | dormiríais <small>🇵🇹 dormiríäis</small> |
+| dormirías | dormiríais <small>🇧🇷 dormiríäis</small> |
 | dormiría  | dormirían |
 | | |
 
 <!--s-->
 
-## intas-Tempo
+## -intas
 
 | -'u |
 |-|
@@ -244,22 +247,22 @@ revealOptions:
 
 | | |
 |-|-|
-| amái <small>🇵🇹 améi</small> | amâmos |
+| amái <small>🇧🇷 améi</small> | amâmos |
 | amâste | amâstes  |
-| amáu <small>🇵🇹 amóu</small> | amâran |
+| amáu <small>🇧🇷 amóu</small> | amâron <small>🇧🇷 amâran</small> |
 | | |
-| tïméi <small>🇵🇹 tïmi</small> | tïmêmos |
+| tïméi <small>🇧🇷 tïmi</small> | tïmêmos |
 | tïmêste | tïmêstes |
-| tïméu | tïmêran |
+| tïméu | tïmêron <small>🇧🇷 tïmêran</small> |
 | | |
-| dormíi <small>🇵🇹 dormi</small> | dormîmos |
+| dormíi <small>🇧🇷 dormi</small> | dormîmos |
 | dormîste | dormîstes |
-| dormíu | dormîran |
+| dormíu | dormîron <small>🇧🇷 dormîran</small> |
 | | |
 
 <!--v-->
 
-## intis-Tempo
+## -intis
 
 | -'ra |
 |-|
@@ -268,7 +271,7 @@ revealOptions:
 | | |
 |-|-|
 | -'ra  | -'ramos  |
-| -'ras | -'rais <small>🇵🇹 -räis</small> |
+| -'ras | -'rais <small>🇧🇷 -räis</small> |
 | -'ra  | -'ran  |
 | | |
 
@@ -277,21 +280,21 @@ revealOptions:
 | | |
 |-|-|
 | amâra  | amáramos |
-| amâras | amárais <small>🇵🇹 amáräis</small> |
+| amâras | amárais <small>🇧🇷 amáräis</small> |
 | amâra  | amâran |
 | | |
 | tïmêra  | tïméramos |
-| tïmêras | tïmérais <small>🇵🇹 tïméräis</small> |
+| tïmêras | tïmérais <small>🇧🇷 tïméräis</small> |
 | tïmêra  | tïmêran |
 | | |
 | dormîra  | dormíramos |
-| dormîras | dormírais <small>🇵🇹 dormíräis</small> |
+| dormîras | dormírais <small>🇧🇷 dormíräis</small> |
 | dormîra  | dormîran |
 | | |
 
 <!--v-->
 
-## intos-Tempo
+## -intos
 
 | -'rĕ |
 |-|
@@ -313,12 +316,10 @@ revealOptions:
 | amârĕ  | amâren   |
 | | |
 | tïmêrĕ  | tïmérĕmos |
-| tïmêres | tïméĕdis  |
+| tïmêres | tïmérĕdis  |
 | tïmêrĕ  | tïmêren   |
 | | |
 | dormîrĕ  | dormírĕmos  |
 | dormîres | dormírĕdis  |
 | dormîrĕ  | dormîren    |
 | | |
-
-<!--v-->
