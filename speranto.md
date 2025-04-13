@@ -2125,6 +2125,12 @@ La finaĵoj -**ione**, -**o**, -**ore** kaj -**ura**
 
 <!--v-->
 
+<small>Ankaŭ kiam la radiko mallongiĝas, la imperativa formo restas senŝanĝa: **have(te)!**, **vade(te)!**, **face(te)!**</small>
+
+<small>La imperativa formo de **sêre** estas **sê(te)!**.</small>
+
+<!--v-->
+
 #### havere
 
 <!--v-->
@@ -2137,7 +2143,7 @@ La finaĵoj -**ione**, -**o**, -**ore** kaj -**ura**
 | havis | **haveva** |
 | havos | **hará** <small>**haverá**</small> |
 | | |
-| (ke) havu | **havea** |
+| (ke) havu  | **havea** |
 | (se) havus | **havêsse** |
 | (do) havus | **haría** <small>**havería**</small> |
 | | |
@@ -2737,15 +2743,6 @@ La finaĵoj -**ione**, -**o**, -**ore** kaj -**ura**
 | (ke) ni havu  | **haviamos** |
 | (ke) vi havu  | **haviáis**  |
 | (ke) ili havu | **havian**   |
-| | |
-
-<!--v-->
-
-| Esperanto | Intermediaria |
-|-|-|
-| mi havos | **haró**  |
-| | |
-| (do) mi havus | **haría** |
 | | |
 
 <!--v-->
@@ -3632,7 +3629,7 @@ Duoblaj vokaloj en finaĵoj estas skribataj kun makrono.
 
 <!--v-->
 
-<small>Vortofina **e** eliziiĝas post **r**, **l**, **n** aŭ **t**. Radikofina **t** ĉiam fariĝas **d**, krom en fremdaj vortoj.</small>
+<small>Vortofina **e** eliziiĝas post dentalaj konsonantoj. Radikofina **t** ĉiam fariĝas **d**, krom en fremdaj vortoj.</small>
 
 <!--v-->
 
@@ -3640,9 +3637,25 @@ Duoblaj vokaloj en finaĵoj estas skribataj kun makrono.
 |-|-|
 | fino | **fîn** |
 | koro | **côr** |
+| lumo | **luç** |
 | maro | **mâr** |
 | pano | **pân** |
 | reto | **rêd** |
+
+<!--v-->
+
+<small>Vortofina **e** (kaj **i**) ne eliziiĝas en verbaj finaĵoj, krom en imperativaj formoj.</small>
+
+<!--v-->
+
+| Esperanto | Meridionál |
+|-|-|
+| li faras | **face** |
+| li venas | **vene** |
+| | |
+| faru! | **faç!** |
+| venu! | **ven!** |
+| | |
 
 <!--v-->
 
@@ -3844,20 +3857,22 @@ Duoblaj vokaloj en finaĵoj estas skribataj kun makrono.
 
 <!--v-->
 
-<small>Kelkaj infinitivoj je -**ér** mallongiĝas.</small>
+<small>Kelkaj infinitivoj je -**ér** mallongiĝas. Ili havas apartan perfektivan radikon.</small>
 
 <!--v-->
 
 | Esperanto | Meridionál |
 |-|-|
-| diri    | **dîr** <small>**dicér**</small>   |
-| fari    | **fâr** <small>**facér**</small>   |
-| havi    | **hâr** <small>**havér**</small>   |
-| konduki | **dûr** <small>**ducér**</small>   |
-| legi    | **lêr** <small>**legér**</small>   |
-| meti    | **pôr** <small>**ponér**</small>   |
-| teni    | **têr** <small>**tenér**</small>   |
+| diri    | **dîr**  <small>**dicér**</small>  |
+| fari    | **fâr**  <small>**facér**</small>  |
+| havi    | **hâr**  <small>**havér**</small>  |
+| konduki | **dûr**  <small>**ducér**</small>  |
+| legi    | **lêr**  <small>**legér**</small>  |
+| meti    | **pôr**  <small>**ponér**</small>  |
+| teni    | **têr**  <small>**tenér**</small>  |
 | tiri    | **trâr** <small>**trahér**</small> |
+
+<!-- TODO Kompletigu ĉi liston. -->
 
 <!--v-->
 
@@ -7089,3 +7104,5 @@ cella collo programma anno rara casa rosa acto nocturna tacto tecto trato victĭ
 
 <!-- TODO fina linio malsupre de tabeloj -->
 
+<!-- TODO ĉu indas havi "frida" paralele al "frigĭda" en Merdionál?
+ -->
