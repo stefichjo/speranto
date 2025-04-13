@@ -2527,7 +2527,7 @@ La finaĵoj -**ione**, -**o**, -**ore** kaj -**ura**
 | ili | -**n** |
 | | |
 
-<small>`*` En la mi-formoj, la radikofina vokalo eliziiĝas kaj restas nur -**o**: **ama** → **amo**, **vide** → **vido**, **audi** → **audo**.</small>
+<small>`*` En la mi-formo, la radikofina vokalo eliziiĝas kaj restas nur -**o**: **amao** → **amo**, **video** → **vido**, **audio** → **audo**.</small>
 
 <!--v-->
 
@@ -2544,7 +2544,7 @@ La finaĵoj -**ione**, -**o**, -**ore** kaj -**ura**
 
 <!--v-->
 
-<small>En la as-tempo, radikofina neakcentata **i** fariĝas **e**.</small>
+<small>En la as-tempo, radikofina neakcentata **i** fariĝas **e**: **sentis** → **sentes**</small>
 
 <!--v-->
 
@@ -2561,17 +2561,15 @@ La finaĵoj -**ione**, -**o**, -**ore** kaj -**ura**
 
 <!--v-->
 
-<small>En la pasiva participo, radikofina **e** fariĝas **i**.</small>
+<!-- TODO aliloken -->
+
+<small>En la pasiva participo, radikofina **e** fariĝas **i**: **videta** → **vidita**</small>
 
 <!--v-->
 
 | Esperanto | Intermediaria |
 |-|-|
-| li vidas | **vide** |
-| vidata   | **vidida** |
-| | |
-| li aŭdas | **aude** |
-| aŭdita   | **audida** |
+| vidita   | **vidida** |
 | | |
 
 <!--v-->
@@ -2615,7 +2613,7 @@ La finaĵoj -**ione**, -**o**, -**ore** kaj -**ura**
 
 <!--v-->
 
-<small>En la ke-u-modo, radikofina **-e** kaj **-i** eliziiĝas.</small>
+<small>La ke-u-formoj baziĝas sur la mi-formo de la as-tempo.</small>
 
 <!--v-->
 
@@ -2624,33 +2622,31 @@ La finaĵoj -**ione**, -**o**, -**ore** kaj -**ura**
 | (ke) mi vidu | **vida** |
 | (ke) mi aŭdu | **auda** |
 | | |
-| (ke) mi venku | **vinca** |
-| | |
 
 <!--v-->
 
 | Esperanto | Intermediaria |
 |-|-|
-| (se) mi amus | **amâsse** |
+| (se) mi amus | **amâsse**  |
 | (se) ci amus | **amâsses** |
-| (se) li amus | **amâsse** |
+| (se) li amus | **amâsse**  |
 | | |
 | (se) ni amus  | **amássemos** |
-| (se) vi amus  | **amâsseis** |
-| (se) ili amus | **amâssen** |
+| (se) vi amus  | **amâsseis**  |
+| (se) ili amus | **amâssen**   |
 | | |
 
 <!--v-->
 
 | Esperanto | Intermediaria |
 |-|-|
-| (do) mi amus | **amaría** |
+| (do) mi amus | **amaría**  |
 | (do) ci amus | **amarías** |
-| (do) li amus | **amaría** |
+| (do) li amus | **amaría**  |
 | | |
 | (do) ni amus  | **amaríamos** |
-| (do) vi amus  | **amaríais** |
-| (do) ili amus | **amarían** |
+| (do) vi amus  | **amaríais**  |
+| (do) ili amus | **amarían**   |
 | | |
 
 <!--v-->
@@ -2674,78 +2670,39 @@ La finaĵoj -**ione**, -**o**, -**ore** kaj -**ura**
 
 | Esperanto | Intermediaria |
 |-|-|
-| mi amintas | **hô amado** <small>**amái**</small> |
+| mi amintas | **hô amado**  <small>**amái**</small>   |
 | ci amintas | **hâs amado** <small>**amâste**</small> |
-| li amintas | **hâ amado** <small>**amáu**</small> |
+| li amintas | **hâ amado**  <small>**amáu**</small>   |
 | | |
-| ni amintas  | **hêmos amado** <small>**amâmos**</small> |
-| vi amintas  | **hêis amado** <small>**amâstes**</small> |
-| ili amintas | **hân amado** <small>**amâron**</small> |
+| ni amintas  | **hêmos amado** <small>**amâmos**</small>  |
+| vi amintas  | **hêis amado**  <small>**amâstes**</small> |
+| ili amintas | **hân amado**   <small>**amâron**</small>  |
 | | |
 
 <!--v-->
 
 | Esperanto | Intermediaria |
 |-|-|
-| mi amintis | **havevo amado** <small>**amâra**</small> |
+| mi amintis | **havevo amado**  <small>**amâra**</small>  |
 | ci amintis | **havevas amado** <small>**amâras**</small> |
-| li amintis | **haveva amado** <small>**amâra**</small> |
+| li amintis | **haveva amado**  <small>**amâra**</small>  |
 | | |
 | ni amintis  | **havevamos amado** <small>**amáramos**</small> |
-| vi amintis  | **haveváis amado** <small>**amârais**</small> |
-| ili amintis | **havevan amado** <small>**amâran**</small> |
+| vi amintis  | **haveváis amado**  <small>**amârais**</small>  |
+| ili amintis | **havevan amado**   <small>**amâran**</small>   |
 | | |
 
 <!--v-->
 
 | Esperanto | Intermediaria |
 |-|-|
-| mi amintos | **haró amado** <small>**amâri**</small> |
-| ci amintos | **harás amado** <small>**amâris**</small> |
-| li amintos | **hará amado** <small>**amâri**</small> |
+| mi amintos | **haró amado**  <small>**amâre**</small> |
+| ci amintos | **harás amado** <small>**amâres**</small> |
+| li amintos | **hará amado**  <small>**amâre**</small> |
 | | |
-| ni amintos  | **harêmos amado** <small>**amárimos**</small> |
-| vi amintos  | **harêis amado** <small>**amâriis**</small> |
-| ili amintos | **harán amado** <small>**amârin**</small> |
-| | |
-
-<!--v-->
-
-| Esperanto | Intermediaria |
-|-|-|
-| (ke) mi amintu | **havia amado** |
-| (ke) ci amintu | **havias amado** |
-| (ke) li amintu | **havia amado** |
-| | |
-| (ke) ni amintu  | **haviâmos amado** |
-| (ke) vi amintu  | **haviáis amado** |
-| (ke) ili amintu | **havian amado** |
-| | |
-
-<!--v-->
-
-| Esperanto | Intermediaria |
-|-|-|
-| (se) mi amintus | **havêsse amado** |
-| (se) ci amintus | **havêsses amado** |
-| (se) li amintus | **havêsse amado** |
-| | |
-| (se) ni amintus | **havêssemos amado** |
-| (se) vi amintus | **havêsseis amado** |
-| (se) ili amintus | **havêssen amado** |
-| | |
-
-<!--v-->
-
-| Esperanto | Intermediaria |
-|-|-|
-| (do) mi amintus | **haría amado** |
-| (do) ci amintus | **harías amado** |
-| (do) li amintus | **haría amado** |
-| | |
-| (do) ni amintus | **haríamos amado** |
-| (do) vi amintus | **harías amado** |
-| (do) ili amintus | **harían amado** |
+| ni amintos  | **harêmos amado** <small>**amáremos**</small> |
+| vi amintos  | **harêis amado**  <small>**amâreis**</small> |
+| ili amintos | **harán amado**   <small>**amâren**</small> |
 | | |
 
 <!--v-->
@@ -2760,26 +2717,26 @@ La finaĵoj -**ione**, -**o**, -**ore** kaj -**ura**
 
 | Esperanto | Intermediaria |
 |-|-|
-| mi havas | **hô** |
+| mi havas | **hô**  |
 | ci havas | **hâs** |
-| li havas | **hâ** |
+| li havas | **hâ**  |
 | | |
-| ni havas | **hêmos** |
-| vi havas | **hêis** |
-| ili havas | **hân** |
+| ni havas  | **hêmos** |
+| vi havas  | **hêis**  |
+| ili havas | **hân**   |
 | | |
 
 <!--v-->
 
 | Esperanto | Intermediaria |
 |-|-|
-| (ke) mi havu | **havia** |
+| (ke) mi havu | **havia**  |
 | (ke) ci havu | **havias** |
-| (ke) li havu | **havia** |
+| (ke) li havu | **havia**  |
 | | |
 | (ke) ni havu  | **haviamos** |
-| (ke) vi havu  | **haviáis** |
-| (ke) ili havu | **havian** |
+| (ke) vi havu  | **haviáis**  |
+| (ke) ili havu | **havian**   |
 | | |
 
 <!--v-->
@@ -2790,26 +2747,26 @@ La finaĵoj -**ione**, -**o**, -**ore** kaj -**ura**
 
 | Esperanto | Intermediaria |
 |-|-|
-| mi estas | **sô** |
+| mi estas | **sô**   |
 | ci estas | **êres** |
-| li estas | **ês** |
+| li estas | **ês**   |
 | | |
-| ni estas | **sômos** |
-| vi estas | **sêis** |
-| ili estas | **sôn** |
+| ni estas  | **sômos** |
+| vi estas  | **sêis**  |
+| ili estas | **sôn**   |
 | | |
 
 <!--v-->
 
 | Esperanto | Intermediaria |
 |-|-|
-| mi estintas | **hô sido** <small>**fuei**</small> |
+| mi estintas | **hô sido**  <small>**fuei**</small>   |
 | ci estintas | **hâs sido** <small>**fueste**</small> |
-| li estintas | **hâ sido** <small>**fue**</small> |
+| li estintas | **hâ sido**  <small>**fue**</small>    |
 | | |
 | ni estintas | **hêmos sido** <small>**fuemos**</small> |
 | vi estintas | **hêis sido** <small>**fuestes**</small> |
-| ili estintas | **hân sido** <small>**fueron**</small> |
+| ili estintas | **hân sido** <small>**fueron**</small>  |
 | | |
 
 <!--v-->
@@ -2820,13 +2777,13 @@ La finaĵoj -**ione**, -**o**, -**ore** kaj -**ura**
 
 | Esperanto | Intermediaria |
 |-|-|
-| mi iras | **vô** |
+| mi iras | **vô**  |
 | ci iras | **vâs** |
-| li iras | **vâ** |
+| li iras | **vâ**  |
 | | |
-| ni iras | **vâmos** |
-| vi iras | **vâis** |
-| ili iras | **vân** |
+| ni iras  | **vâmos** |
+| vi iras  | **vâis**  |
+| ili iras | **vân**   |
 | | |
 
 <!--v-->
@@ -2837,13 +2794,13 @@ La finaĵoj -**ione**, -**o**, -**ore** kaj -**ura**
 
 | Esperanto | Intermediaria |
 |-|-|
-| mi faras | **fô** |
+| mi faras | **fô**  |
 | ci faras | **fâs** |
-| li faras | **fâ** |
+| li faras | **fâ**  |
 | | |
-| ni faras | **fâmos** |
-| vi faras | **fâis** |
-| ili faras | **fân** |
+| ni faras  | **fâmos** |
+| vi faras  | **fâis**  |
+| ili faras | **fân**   |
 | | |
 
 <!--v-->
@@ -2856,11 +2813,11 @@ La finaĵoj -**ione**, -**o**, -**ore** kaj -**ura**
 |-|-|
 | mi volas | **volio** |
 | ci volas | **voles** |
-| li volas | **vole** |
+| li volas | **vole**  |
 | | |
 | ni volas | **volemos** |
-| vi volas | **voléis** |
-| ili volas | **volen** |
+| vi volas | **voléis**  |
+| ili volas | **volen**  |
 | | |
 
 <!--v-->
@@ -2873,11 +2830,11 @@ La finaĵoj -**ione**, -**o**, -**ore** kaj -**ura**
 |-|-|
 | mi venas | **venio** |
 | ci venas | **venes** |
-| li venas | **vene** |
+| li venas | **vene**  |
 | | |
-| ni venas | **venemos** |
-| vi venas | **venéis** |
-| ili venas | **venen** |
+| ni venas  | **venemos** |
+| vi venas  | **venéis**  |
+| ili venas | **venen**   |
 | | |
 
 <!--v-->
@@ -2892,8 +2849,8 @@ La finaĵoj -**ione**, -**o**, -**ore** kaj -**ura**
 
 | Esperanto | Intermediaria |
 |-|-|
-| aŭ | **au** <small>**aud**</small> |
-| kaj | **e** <small>**ed**</small> |
+| aŭ  | **au** <small>**aud**</small>   |
+| kaj | **e**  <small>**ed**</small>    |
 | sed | **ma** <small>**mağĭs̆**</small> |
 
 <!--s-->

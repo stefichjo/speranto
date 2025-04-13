@@ -54,8 +54,6 @@ revealOptions:
 | dorme  | dormen   |
 | | |
 
-<!--v-->
-
 <!-- TODO estar estão -->
 
 <!--v-->
