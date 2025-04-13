@@ -2125,13 +2125,13 @@ La finaĵoj -**ione**, -**o**, -**ore** kaj -**ura**
 
 <!--v-->
 
-#### hâre
+#### havere
 
 <!--v-->
 
 | Esperanto | Lingua |
 |-|-|
-| havi | **hâre** <small>**havere**</small> |
+| havi | **havere** |
 | | |
 | havas | **hâ** <small>**have**</small> |
 | havis | **haveva** |
@@ -2188,13 +2188,13 @@ La finaĵoj -**ione**, -**o**, -**ore** kaj -**ura**
 
 <!--v-->
 
-#### fâre
+#### facere
 
 <!--v-->
 
 | Esperanto | Lingua |
 |-|-|
-| fari | **fâre** <small>**facĕre**</small> |
+| fari | **facĕre** |
 | | |
 | faras | **fâ** <small>**face**</small> |
 | faris | **faceva** |
@@ -3851,6 +3851,7 @@ Duoblaj vokaloj en finaĵoj estas skribataj kun makrono.
 | Esperanto | Meridionál |
 |-|-|
 | diri    | **dîr** <small>**dicér**</small>   |
+| fari    | **fâr** <small>**facér**</small>   |
 | havi    | **hâr** <small>**havér**</small>   |
 | konduki | **dûr** <small>**ducér**</small>   |
 | legi    | **lêr** <small>**legér**</small>   |
@@ -3863,6 +3864,7 @@ Duoblaj vokaloj en finaĵoj estas skribataj kun makrono.
 | Esperanto | Meridionál |
 |-|-|
 | li dirintas    | **dixe**  <small>**dicéu**</small>  |
+| li farintas    | **fece**  <small>**facéu**</small>  |
 | li havintas    | **huve**  <small>**havéu**</small>  |
 | li kondukintas | **duxe**  <small>**ducéu**</small>  |
 | li legintas    | **lexe**  <small>**legéu**</small>  |
