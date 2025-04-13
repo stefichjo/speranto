@@ -2711,7 +2711,7 @@ La finaĵoj -**ione**, -**o**, -**ore** kaj -**ura**
 
 <!--v-->
 
-#### hâr
+#### havér
 
 <!--v-->
 
@@ -2741,6 +2741,15 @@ La finaĵoj -**ione**, -**o**, -**ore** kaj -**ura**
 
 <!--v-->
 
+| Esperanto | Intermediaria |
+|-|-|
+| mi havos | **haró**  |
+| | |
+| (do) mi havus | **haría** |
+| | |
+
+<!--v-->
+
 #### sêr
 
 <!--v-->
@@ -2760,13 +2769,13 @@ La finaĵoj -**ione**, -**o**, -**ore** kaj -**ura**
 
 | Esperanto | Intermediaria |
 |-|-|
-| mi estintas | **hô sido**  <small>**fuei**</small>   |
-| ci estintas | **hâs sido** <small>**fueste**</small> |
-| li estintas | **hâ sido**  <small>**fue**</small>    |
+| mi estintas | **fuei**   |
+| ci estintas | **fueste** |
+| li estintas | **fue**    |
 | | |
-| ni estintas | **hêmos sido** <small>**fuemos**</small> |
-| vi estintas | **hêis sido** <small>**fuestes**</small> |
-| ili estintas | **hân sido** <small>**fueron**</small>  |
+| ni estintas  | **fuemos**  |
+| vi estintas  | **fuestes** |
+| ili estintas | **fueron**  |
 | | |
 
 <!--v-->
@@ -2815,9 +2824,9 @@ La finaĵoj -**ione**, -**o**, -**ore** kaj -**ura**
 | ci volas | **voles** |
 | li volas | **vole**  |
 | | |
-| ni volas | **volemos** |
-| vi volas | **voléis**  |
-| ili volas | **volen**  |
+| ni volas  | **volemos** |
+| vi volas  | **voléis**  |
+| ili volas | **volen**   |
 | | |
 
 <!--v-->
@@ -3841,12 +3850,25 @@ Duoblaj vokaloj en finaĵoj estas skribataj kun makrono.
 
 | Esperanto | Meridionál |
 |-|-|
-| diri | **dîr** <small>**dicér**</small> |
-| konduki | **dûr** <small>**ducér**</small> |
-| legi | **lêr** <small>**legér**</small> |
-| meti | **pôr** <small>**ponér**</small> |
-| teni | **têr** <small>**tenér**</small> |
-| tiri | **trâr** <small>**trahér**</small> |
+| diri    | **dîr** <small>**dicér**</small>   |
+| havi    | **hâr** <small>**havér**</small>   |
+| konduki | **dûr** <small>**ducér**</small>   |
+| legi    | **lêr** <small>**legér**</small>   |
+| meti    | **pôr** <small>**ponér**</small>   |
+| teni    | **têr** <small>**tenér**</small>   |
+| tiri    | **trâr** <small>**trahér**</small> |
+
+<!--v-->
+
+| Esperanto | Meridionál |
+|-|-|
+| li dirintas    | **dixe**  <small>**dicéu**</small>  |
+| li havintas    | **huve**  <small>**havéu**</small>  |
+| li kondukintas | **duxe**  <small>**ducéu**</small>  |
+| li legintas    | **lexe**  <small>**legéu**</small>  |
+| li metintas    | **pose**  <small>**ponéu**</small>  |
+| li tenintas    | **teve**  <small>**tenéu**</small>  |
+| li tirintas    | **traxe** <small>**trahér**</small> |
 
 <!--s-->
 
