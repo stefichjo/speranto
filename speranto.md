@@ -2212,6 +2212,17 @@ La finaĵoj -**ione**, -**o**, -**ore** kaj -**ura**
 
 <!--v-->
 
+#### stare
+
+<!--v-->
+
+| Esperanto | Intermediaria |
+|-|-|
+| starintas | **steve** <small>**stâu**</small> |
+| | |
+
+<!--v-->
+
 #### ire
 
 <!--v-->
