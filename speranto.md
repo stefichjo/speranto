@@ -2168,7 +2168,9 @@ La finaĵoj -**ione**, -**o**, -**ore** kaj -**ura**
 | (se) estus | **fuesse** <small>**essêsse**</small> |
 | (do) estus | **sería** <small>**essería**</small> |
 | | |
-| estintas | **hâ sito** <small>**fue** → **esséu**</small> |
+| estintas | **hâ sito**     <small>**fue** → **esséu**</small> |
+| estintis | **haveva sito** <small>**fuera** → **êssera**</small> |
+| estintos | **hará sito**   <small>**fuere** → **êssere**</small> |
 | | |
 
 <!--v-->
@@ -2182,14 +2184,14 @@ La finaĵoj -**ione**, -**o**, -**ore** kaj -**ura**
 | iri | **ire** |
 | | |
 | iras | **vâ** <small>**vade**</small> |
-| iris | **îa** <small>**iva**</small> |
+| iris | **vadeva** <small>**iva**</small> |
 | iros | **irá** |
 | | |
 | (ke) iru | **vadea** |
-| (se) irus | **vadêsse** <small>**îsse** → **fuêsse**</small> |
+| (se) irus | **vadêsse** <small>**îsse**</small> |
 | (do) irus | **iría** |
 | | |
-| intas | **hâ ito** <small>**vadéu** → **íu** → **fue**</small> |
+| irintas | **hâ ito** <small>**vadéu** → **îu**</small> |
 | | |
 
 <!--v-->
@@ -2567,19 +2569,6 @@ La finaĵoj -**ione**, -**o**, -**ore** kaj -**ura**
 
 <!--v-->
 
-<!-- TODO aliloken -->
-
-<small>En la pasiva participo, radikofina **e** fariĝas **i**: **videta** → **vidita**</small>
-
-<!--v-->
-
-| Esperanto | Intermediaria |
-|-|-|
-| vidita   | **vidida** |
-| | |
-
-<!--v-->
-
 | Esperanto | Intermediaria |
 |-|-|
 | mi amis | **amavo** |
@@ -2661,6 +2650,17 @@ La finaĵoj -**ione**, -**o**, -**ore** kaj -**ura**
 
 <!--v-->
 
+<small>En la pasiva participo, radikofina **e** fariĝas **i**: **videta** → **vidita**</small>
+
+<!--v-->
+
+| Esperanto | Intermediaria |
+|-|-|
+| vidita   | **vidida** |
+| | |
+
+<!--v-->
+
 | Esperanto | Intermediaria |
 |-|-|
 | mi | -**'i** |
@@ -2671,6 +2671,8 @@ La finaĵoj -**ione**, -**o**, -**ore** kaj -**ura**
 | vi  | -**'stes** |
 | ili | -**'ron** |
 | | |
+
+<small>Perfektivaj radikoj uziĝas nur en skriba stilo. En parola stilo, uziĝas kunmetaĵoj kun **havér**.</small>
 
 <!--v-->
 
@@ -3673,7 +3675,7 @@ Duoblaj vokaloj en finaĵoj estas skribataj kun makrono.
 
 | Esperanto | Meridionál |
 |-|-|
-| universala | **universál** *[univeĥsaŭ']* |
+| universala  | **universál**   *[univeĥsaŭ']*  |
 | universalaj | **universales** *[univeĥsales]* |
 | | |
 | alia | **altra** *[aŭtra]* |
@@ -3857,6 +3859,51 @@ Duoblaj vokaloj en finaĵoj estas skribataj kun makrono.
 
 <!--v-->
 
+## Substantivoj
+
+<!--v-->
+
+## Adjektivoj
+
+<!--v-->
+
+## Adverboj
+
+<!--v-->
+
+## Numeraloj
+
+<!--v-->
+
+## Tabelvortoj
+
+<!--v-->
+
+## Artikoloj
+
+<!--v-->
+
+## Pronomoj
+
+<!--v-->
+
+## Verboj
+
+<!--v-->
+
+| Esperanto | Meridionál |
+|-|-|
+| iris | **iva** <small>**vadeva**</small>  |
+| | |
+| irintas | **fue**   <small>**vadéu**</small>  |
+| irintis | **fuera** <small>**vadêra**</small> |
+| irintos | **fuere** <small>**vadêre**</small> |
+| | |
+| (se) irus | **fuêsse** <small>**vadêsse**</small> |
+| | |
+
+<!--v-->
+
 <small>Kelkaj infinitivoj je -**ér** mallongiĝas. Ili havas apartan perfektivan radikon.</small>
 
 <!--v-->
@@ -3886,6 +3933,29 @@ Duoblaj vokaloj en finaĵoj estas skribataj kun makrono.
 | li metintas    | **pose**  <small>**ponéu**</small>  |
 | li tenintas    | **teve**  <small>**tenéu**</small>  |
 | li tirintas    | **traxe** <small>**trahér**</small> |
+
+<!--v-->
+
+<small>En *Lingua Meridionál*, uziĝas **têr** anstataŭ **hâr** por *havi*. **hâr** uziĝas nur por perfektivaj tempoj. </small>
+
+<!--v-->
+
+| Esperanto | Meridionál |
+|-|-|
+| li dirintas | **hâ dicto** <small>**dixe** → **dicéu**</small>  |
+| | |
+| mi havas libron | **tenio un livro** |
+| | |
+
+<!-- TODO stâr anstataŭ sêr -->
+
+<!--v-->
+
+## Prepozicioj
+
+<!--v-->
+
+## Konjunkcioj
 
 <!--s-->
 
@@ -4131,7 +4201,6 @@ Notes:
 <!--v-->
 
 **amore**
-<!-- TODO nur en Lingua Intermediaria amore fariĝas amór. -->
 
 | 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
 |:-:|:-:|:-:|:-:|
