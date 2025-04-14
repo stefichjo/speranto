@@ -2067,6 +2067,10 @@ La finaĵoj -**ione**, -**o**, -**ore** kaj -**ura**
 
 <!--v-->
 
+<small>**sta lavorando** = **sta a lavorare**</small>
+
+<!--v-->
+
 ### Pasivo
 
 <!--v-->
@@ -2153,20 +2157,6 @@ La finaĵoj -**ione**, -**o**, -**ore** kaj -**ura**
 | estis aminta  | **haveva amato** |
 | estos aminta  | **hará amato** |
 | | |
-
-<!--v-->
-
-<small>En parola stilo, uziĝas **stava** por kontrastigi malperfektivan situacion kun perfektiva evento.</small>
-
-<!--v-->
-
-| Esperanto | Lingua | (parole) |
-|-|-|-|
-| Kiam mi laboris | **Quando eo lavorava** | **Quando eo stava lavorando** |
-| vi vokis min.   | **tu me clamáu.**      | **tu me hâ clamato.**      |
-| | | |
-
-<small>**stava lavorando** = **stava a lavorare**</small>
 
 <!--v-->
 
@@ -2714,7 +2704,7 @@ La finaĵoj -**ione**, -**o**, -**ore** kaj -**ura**
 | ci | -**'ste** |
 | li | -**'u** |
 | | |
-| ni  | -**'mos** |
+| ni  | -**'m̄os** |
 | vi  | -**'stes** |
 | ili | -**'ron** |
 | | |
@@ -2727,7 +2717,7 @@ La finaĵoj -**ione**, -**o**, -**ore** kaj -**ura**
 | ci amintas | **amâste** |
 | li amintas | **amáu**   |
 | | |
-| ni amintas  | **amâmos**  |
+| ni amintas  | **amâm̄os**  |
 | vi amintas  | **amâstes** |
 | ili amintas | **amâron**  |
 | | |
@@ -2830,7 +2820,7 @@ La finaĵoj -**ione**, -**o**, -**ore** kaj -**ura**
 | ci estintas | **fueste** |
 | li estintas | **fue**    |
 | | |
-| ni estintas  | **fuemos**  |
+| ni estintas  | **fuem̄os**  |
 | vi estintas  | **fuestes** |
 | ili estintas | **fueron**  |
 | | |
