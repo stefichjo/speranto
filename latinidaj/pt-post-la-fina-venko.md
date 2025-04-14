@@ -321,3 +321,106 @@ Notes:
 | dormîres | dormírĕdis  |
 | dormîrĕ  | dormîren    |
 | | |
+
+<!-- # La Portugala -->
+
+<!-- 
+cella collo programma anno rara casa rosa acto nocturna tacto tecto trato victĭma pac̄to sceptica gÿpso maxĭma fix̄a ox̄igenio tax̄i tox̄ĭca leċtora seċta dos̃ bas̃ŝa pïs̃ĉe rot̯a lėct̯o mut̯at̯a universit̯at̯e cḷamarĕ mulĭerĕ ap̆rirĕ seq̆ŭirĕ crescerĕ auxiliarĕ flore pḷůverĕ sůmma åusarĕ påuca tåuro ex̆acta ex̆ito physĭca amic̆o como foc̆o meo leon̆a lun̆a ruğa mağis men̆sa pl̯ato s̃phera s̃patĭo s̃tatĭone
+
+| *ou* | **åut** = **õt** |
+
+-->
+| | [ŝ] |
+|-|-|
+| *mexer* | **mex̂erĕ** = **mex̂ere** | <!-- mïscŭḷäre -->
+| *México* | **Mex̂ico** |
+
+<!-- dĭ godĭar=gozar ? -->
+
+| | |
+|-|-|
+| *ciência* | **scientĭa** | <!-- ê ? -->
+
+##### ti, di
+
+| | [tŝi] |
+|-|-|
+| *tio* | **t̂io** = **tio** |
+
+| | [dĵi] |
+|-|-|
+| *dia* | **d̂ia** = **dia** |
+
+| | |
+|-|-|
+| *hiena* | **hyæna** |
+| *federação* | **fœderatĭõne** |
+
+| | [~] |
+|-|-|
+| *com* | **con** |
+| *junta* | **juncta** |
+| *cem* | **cent** |
+
+| | [i] |
+|-|-|
+| *vai* | **vad̯ė** = **vad̯e** |
+
+| | [e] |
+|-|-|
+| *seis*    | **sïẋ**  |
+| *vez*     | **vïc̆ĕ** = **vïce** | <!-- c̆ĕ -->
+| | |
+| *ela* | **ïlla** |
+| *ele* | **ïlle** |
+
+| | [i] |
+|-|-|
+| *criar* | **crėare** |
+| *prisão* | **prėn̆sıõnĕ** = **prėn̆sıõne** |
+
+| | [u] |
+|-|-|
+| *lugar* | **lǒc̆al̯e** |
+
+| | |
+|-|-|
+| *cama* | **camĕra** |
+| *cidade* | **civĭt̯at̯e** = **civĭt̯ade** |
+| *só* | **sołŏ** |
+| | |
+| *dom* | **domĭnŏ** |
+| *dona* | **domĭna** |
+
+| | [eĭ] |
+|-|-|
+| *aceitar* | **accẽptare** |
+| *ideia* | **idẽa** |
+
+| | [oŭ] |
+|-|-|
+| *tesouro* | **tesõro** |
+
+### -m
+
+| | |
+|-|-|
+| *já* | **jam** |
+
+### -t
+
+| | |
+|-|-|
+| *e* | **et** |
+
+| | [si]/[sis] |
+|-|-|
+| *doce* | **důłcė** = **důłce** |
+| *doces* | **důłcės** = **důłces** |
+
+<!-- | adiuto | ad̯iuto *[aiuto]* | -->
+<!-- asse axe eje eixo -->
+
+<!-- | *menos* | **mïnůs** |
+| *ponto* | **půncto** |
+| *por* | **pe̊r** |
