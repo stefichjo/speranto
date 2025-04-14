@@ -1276,7 +1276,7 @@ Aldone, la plimulto de la finaĵoj de la interaj dialektoj varias. Ekzemple, dum
 
 | Esperanto | Linguo |
 |-|-|
-| akso | **axo** *[akso]* |
+| akso | **axo** *[aso]* |
 | himno | **hymno** *[himno]* |
 | zono | **zono** *[zono]* |
 | | |
@@ -2218,7 +2218,9 @@ La finaĵoj -**ione**, -**o**, -**ore** kaj -**ura**
 
 | Esperanto | Intermediaria |
 |-|-|
-| starintas | **steve** <small>**stâu**</small> |
+| starintas | **steve**   <small>**stâu**</small>  |
+| starintas | **stevera** <small>**stâra**</small> |
+| starintos | **stevere** <small>**stâre**</small> |
 | | |
 
 <!--v-->
@@ -2806,7 +2808,7 @@ La finaĵoj -**ione**, -**o**, -**ore** kaj -**ura**
 | li estas | **ês**   |
 | | |
 | ni estas  | **sômos** |
-| vi estas  | **sêis**  |
+| vi estas  | **sôis**  |
 | ili estas | **sôn**   |
 | | |
 
