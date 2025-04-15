@@ -731,11 +731,20 @@ Notes:
 
 <!--v-->
 
-**cominitiare**
+**comêre** <small>comed̯ĕre</small>
 
 | 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
 |:-:|:-:|:-:|:-:|
-| cominĭtjare | cominĭtĭæɍe | comïnĭtĭare | comïn̆ĭtĭare |
+| - | - | comed̯ĕre | comed̯ĕre |
+| - | - | *comer* | *comer* |
+
+<!--v-->
+
+**commençare** <small>com̄ïnĭtĭare</small>
+
+| 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
+|:-:|:-:|:-:|:-:|
+| com̄inĭtjare | com̄inĭtĭæɍe | com̄ïnĭtĭare | com̄ïn̆ĭtĭare |
 | *comminciare* | *commencer* | *comenzar* | *começar* |
 
 <!--v-->
@@ -1566,6 +1575,16 @@ lib/liv?
 <!--v-->
 
 | *manhã* | **manĭąn̆ă** = **manĭana** |
+
+<!--v-->
+
+<!-- TODO ? -->
+**manjare** <small>**manducare**</small>
+
+| 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
+|:-:|:-:|:-:|:-:|
+| mano | mæno | mano | mano |
+| *mano* | *main* | *mano* | *mão* |
 
 <!--v-->
 
@@ -3007,3 +3026,6 @@ Notes:
 ## Z
 
 <!-- TODO fina linio malsupre de tabeloj -->
+
+
+<!-- prehendere prendere prendêr -->

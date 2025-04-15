@@ -1757,12 +1757,12 @@ Tra bruo, la prepozicio **a** uziĝas por la indiki la rektan objekton. (Tiam uz
 
 | Esperanto | Lingua |
 |-|-|
-| homo | **home** <small>**homĭne** *[homi-ne]*</small>  |
-| lumo | **lume** <small>**lumĭne** *[lumi-ne]*</small>  |
-| nomo | **nome** <small>**nomĭne** *[nomi-ne]*</small>  |
-| sango | **sangue** <small>**sanguĭne** *[sangu-ine]*</small>  |
+| homo  | **home**   <small>**homĭne**   *[homi-ne]*</small>   |
+| lumo  | **lume**   <small>**lumĭne**   *[lumi-ne]*</small>   |
+| nomo  | **nome**   <small>**nomĭne**   *[nomi-ne]*</small>   |
+| sango | **sangue** <small>**sanguĭne** *[sangu-ine]*</small> |
 | | |
-| limo | **lime** <small>**limĭte** *[limi-te]*</small>  |
+| limo | **lime** <small>**limĭte** *[limi-te]*</small> |
 
 <!--v-->
 
@@ -2717,7 +2717,7 @@ La finaĵoj -**ione**, -**o**, -**ore** kaj -**ura**
 | ci | -**'ste** |
 | li | -**'u** |
 | | |
-| ni  | -**'m̄os** |
+| ni  | -**'mmos** |
 | vi  | -**'stes** |
 | ili | -**'ron** |
 | | |
@@ -2730,7 +2730,7 @@ La finaĵoj -**ione**, -**o**, -**ore** kaj -**ura**
 | ci amintas | **amâste** |
 | li amintas | **amáu**   |
 | | |
-| ni amintas  | **amâm̄os**  |
+| ni amintas  | **amâmmos**  |
 | vi amintas  | **amâstes** |
 | ili amintas | **amâron**  |
 | | |
@@ -3563,7 +3563,7 @@ Duoblaj vokaloj en finaĵoj estas skribataj kun makrono.
 
 <!--v-->
 
-<small>La perfekta radiko de **essĕre** estas **f**. La perfektaj sufiksoj tiam skribiĝas kun **u** anstataŭ **v**: **fvei** → **fuei**.</small>
+<small>La perfektiva radiko de **essĕre** estas **f**. La perfektivaj sufiksoj tiam skribiĝas kun **u** anstataŭ **v**: **fvei** → **fuei**.</small>
 
 <!--v-->
 
@@ -3646,7 +3646,7 @@ Notes:
 
 <!--v-->
 
-<small>En skriba lingvo uziĝas malregulaj perfektaj verbaj radikoj kun longa vokalo anstataŭ **ev**: **videvei** → **vīdei**, **legevei** → **lēgei**. (Koincide, malregulaj verboj havas malregulan pasivan participon, ekzemple: **vidĭta** → **visa**, **legĭta** → **lecta**.)</small>
+<small>En skriba lingvo uziĝas malregulaj perfektivaj verbaj radikoj kun longa vokalo anstataŭ **ev**: **videvei** → **vīdei**, **legevei** → **lēgei**. (Koincide, malregulaj verboj havas malregulan pasivan participon, ekzemple: **vidĭta** → **visa**, **legĭta** → **lecta**.)</small>
 
 <small>Anstataŭ longa **ā** uziĝas longa **ē**: **cāpei** → **cēpei**.</small>
 
@@ -3805,6 +3805,19 @@ Notes:
 
 <!--v-->
 
+<small>**ai** monoftongiĝas al *[e]*.</small>
+
+<!--v-->
+
+| Esperanto | Meridionál |
+|-|-|
+| trajno | **trâino** *[treno]* |
+| | |
+| mi amintas | **amái** *[ame']* |
+| | |
+
+<!--v-->
+
 <small>**au** monoftongiĝas al *[o]*.</small>
 
 <!--v-->
@@ -3817,6 +3830,7 @@ Notes:
 | oro | **auro** *[oro]* |
 | | |
 | li amintas | **amáu** *[amo']* |
+| | |
 
 <!--v-->
 
@@ -3990,6 +4004,10 @@ Notes:
 
 <!--v-->
 
+### Malregulaj Verboj
+
+<!--v-->
+
 | Esperanto | Meridionál |
 |-|-|
 | iris | **iva** <small>**vadeva**</small>  |
@@ -4003,7 +4021,24 @@ Notes:
 
 <!--v-->
 
-<small>Kelkaj infinitivoj je -**ér** mallongiĝas. Ili havas apartan perfektivan radikon pli-malpli similan al **fue** de **sêr**, t.e. ili ne havas la eliziiĝintan sufikson **ve**.</small>
+<small>La malregulaj perfektivaj formoj de **sêr** ŝanĝiĝas.</small>
+
+<!--v-->
+
+| Esperanto | Meridionál |
+|-|-|
+| mi estintas | **fuė**    <small>**fuei**</small>   |
+| ci estintas | **fuėste** <small>**fueste**</small> |
+| li estintas | **fue** |
+| | |
+| ni estintas  | **fuėmmos** <small>**fuemmos**</small> |
+| vi estintas  | **fuėstes** <small>**fuestes**</small> |
+| ili estintas | **fueron** |
+| | |
+
+<!--v-->
+
+<small>Kelkaj infinitivoj je -**ér** mallongiĝas.</small>
 
 <!--v-->
 
@@ -4017,40 +4052,57 @@ Notes:
 | meti    | **pôr**  <small>**ponér**</small>  |
 | teni    | **têr**  <small>**tenér**</small>  |
 | tiri    | **trâr** <small>**trahér**</small> |
+| vidi    | **vêr**  <small>**vidér**</small>  |
 | | |
+
+<!--v-->
+
+<small>Tiuj verboj kun malregula infinitivo havas apartan perfektivan radikon sen eliziiĝinta sufikso **ve** (samkiel la perfektiva radiko **fue** de **sêr**).</small>
 
 <!--v-->
 
 | Esperanto | Meridionál |
 |-|-|
-| li dirintas    | **dixe**  <small>**dicéu**</small>  |
-| li farintas    | **fece**  <small>**facéu**</small>  |
-| li havintas    | **huve**  <small>**havéu**</small>  |
-| li kondukintas | **duxe**  <small>**ducéu**</small>  |
-| li legintas    | **lexe**  <small>**legéu**</small>  |
-| li metintas    | **pose**  <small>**ponéu**</small>  |
-| li tenintas    | **teve**  <small>**tenéu**</small>  |
-| li tirintas    | **traxe** <small>**trahéu**</small> |
+| dirintas    | **dixe**  <small>**dicéu**</small>  |
+| farintas    | **fece**  <small>**facéu**</small>  |
+| havintas    | **huve**  <small>**havéu**</small>  |
+| kondukintas | **duxe**  <small>**ducéu**</small>  |
+| legintas    | **lexe**  <small>**legéu**</small>  |
+| metintas    | **pose**  <small>**ponéu**</small>  |
+| tenintas    | **teve**  <small>**tenéu**</small>  |
+| tirintas    | **traxe** <small>**trahéu**</small> |
+| vidintas    | **ve**    <small>**vidéu**</small>  |
 | | |
+
+<!-- <small>Kvankam **dâr** origine estas regula, ĝi nun havas malregulan perfektivan radikon.</small> -->
+
+<!-- | Esperanto | Meridionál |
+|-|-|
+| mi donintas | **dȧ**    <small>**dâi**</small>   |
+| ci donintas | **dȧste** <small>**dâste**</small> |
+| li donintas | **dä**    <small>**dâu**</small>   |
+| | |
+| ni donintas  | **dȧmmos** <small>**dâmmos**</small> |
+| vi donintas  | **dȧstes** <small>**dâstes**</small> |
+| ili donintas | **däron**  <small>**dâron**</small>  |
+| | |
+
+| Esperanto | Meridionál |
+|-|-|
+| (se) donus | **dässe** <small>**dâsse**</small> |
+| | | -->
+
+<!--v-->
+
+<small>En *Lingua Meridionál*, uziĝas **têr** anstataŭ **hâr** por *havi*. **hâr** uziĝas nur por perfektivaj tempoj.</small>
 
 <!--v-->
 
 | Esperanto | Meridionál |
 |-|-|
-| li donintas  | **dȧu**    <small>**dáu**</small>  |
-| | |
-
-<!--v-->
-
-<small>En *Lingua Meridionál*, uziĝas **têr** anstataŭ **hâr** por *havi*. **hâr** uziĝas nur por perfektivaj tempoj. </small>
-
-<!--v-->
-
-| Esperanto | Meridionál |
-|-|-|
-| li dirintas | **hâ dicto** <small>**dixe** → **dicéu**</small>  |
-| | |
 | mi havas libron | **tenio un livro** |
+| | |
+| dirintas | **hâ dicto** <small>**dixe**</small>  |
 | | |
 
 <!--v-->
