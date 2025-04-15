@@ -10,7 +10,7 @@ revealOptions:
   slideNumber: false
 ---
 
-<!-- cd ~/Git/speranto; reveal-md latinidaj/it-post-la-fina-venko.md -w -->
+<!-- cd ~/Git/speranto; reveal-md latinidaj/it.md -w -->
 
 # Post la Fina Venko:<br> 🌐 → 🇮🇹
 
