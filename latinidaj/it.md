@@ -1234,6 +1234,13 @@ revealOptions:
 | sta  | stan <small>🇮🇹 stan̄o</small>  |
 | | |
 
+| | |
+|-|-|
+| sto  | stamos <small>🇮🇹 stiamos</small> |
+| staṡ | states |
+| sta  | stan <small>🇮🇹 stan̄o</small>  |
+| | |
+
 <small>ĉe akcentata -a: -ȧs → -ai = -aṡ; -an <small>🇮🇹 ăno → -anno = -an̄o</small></small>
 
 Notes:
@@ -1355,54 +1362,52 @@ Notes:
 
 ## se-us-Modo
 
-| -sse |
+| -'sse |
 |-|
 | |
 
 | | |
 |-|-|
-| -ssi  | -ssĭmos |
-| -ssis | -ssĭtes |
-| -sse  | -ssen <small>🇮🇹 -ssĕro</small> |
+| -'ssi  | -'ssimos |
+| -'ssis | -'ssĭtes |
+| -'sse  | -'ssen <small>🇮🇹 -'ssero</small> |
 | | |
 
 <small>Komparu kun la ke-intis-tempo de la Latina.</small>
-
-<!-- TODO akcento -->
 
 <!--v-->
 
 | | |
 |-|-|
-| amassim | amassĭmos |
-| amassis | amassĭtes |
-| amasse  | amassen <small>🇮🇹 amassĕro</small> |
+| amâssi  | amássimos |
+| amâssis | amâssĭtes |
+| amâsse  | amâssen <small>🇮🇹 amássero</small> |
 | | |
-| vïdessim | vïdessĭmos |
-| vïdessis | vïdessĭtes |
-| vïdesse  | vïdessen <small>🇮🇹 vïdessĕro</small> |
+| vïdêssi  | vïdéssimos |
+| vïdêssis | vïdêssĭtes |
+| vïdêsse  | vïdêssen <small>🇮🇹 vïdéssero</small> |
 | | |
-| dormissim | dormissĭmos |
-| dormissis | dormissĭtes |
-| dormisse  | dormissen <small>🇮🇹 dormissĕro</small> |
+| dormissi  | dormíssimos |
+| dormissis | dormîssĭtes |
+| dormisse  | dormîssen <small>🇮🇹 dormíssero</small> |
 | | |
 
 <!--v-->
 
 ## do-us-Modo
 
-| -revve |
+| -ré |
 |-|
 | |
 
 | | |
 |-|-|
-| -revvi <small>🇮🇹 -rei</small> | -rêm̄os   |
-| -resti | -restes  |
-| -revve | -revvĕro |
+| -réi   | -remmos |
+| -resti | -restes |
+| -ré <small>🇮🇹 -revve</small> | -reron <small>🇮🇹 -révvero</small> |
 | | |
 
-<small>Komparu kun la intas-formoj de *havere*: *hevv-* → *-evv-*, *have-* → *-e-*</small>
+<small>Komparu kun la intas-formoj de *havere*.</small>
 
 Notes:
 * En Lingua uziĝas la is-formoj de *ire*, t.e. *-ía* respektive *-iva*. Sed en la itala tiuj formoj ne ekzistas.
@@ -1411,17 +1416,17 @@ Notes:
 
 | | |
 |-|-|
-| amärevvi <small>🇮🇹 amärei</small> | amärem̄os |
-| amäresti | amärestes  |
-| amärevve | amärevvĕro |
+| amäréi | amäremmos |
+| amäresti | amärestes |
+| amäré <small>🇮🇹 amärevve</small> | amäreron <small>🇮🇹 amärevvĕro</small> |
 | | |
-| vïdĕrevvi <small>🇮🇹 vïdĕrei</small> | vïdĕrem̄os |
+| vïdĕrei | vïdĕremmos |
 | vïdĕresti | vïdĕrestes  |
-| vïdĕrevve | vïdĕrevvĕro |
+| vïdĕré <small>🇮🇹 vïdĕrevve</small> | vïdĕreron <small>🇮🇹 vïdĕrevvĕro</small> |
 | | |
-| dormirevvi <small>🇮🇹 vïdĕrei</small> | dormirem̄os |
+| dormirei | dormiremmos |
 | dormiresti | dormirestes  |
-| dormirevve | dormirevvĕro |
+| dormiré <small>🇮🇹 dormirevve</small> | dormireron <small>🇮🇹 dormirevvĕro</small> |
 | | |
 
 <!--s-->
@@ -1434,35 +1439,65 @@ Notes:
 
 | | |
 |-|-|
-| -'i`*` | -'m̄os     |
-| -'sti  | -'stes    |
-| -'u`*` | -'ron`*` <small>🇮🇹 -'rono</small> |
+| -'i   | -'mmos     |
+| -'sti | -'stes    |
+| -'    | -'ron <small>🇮🇹 -'rono</small> |
 | | |
 
-<small>`*` laŭeble kun alterantiva radiko</small>
+<small>-á <small>🇮🇹 -ó</small></small>
 
-<small>-áu <small>🇮🇹 -ó</small></small>
-
-<small>-ĕron <small>🇮🇹 -ĕrono → -ĕro</small></small>
-
-Notes:
-* -a~~ve~~i -a~~ve~~sti -av~~e~~t -a~~vĕ~~mus -a~~ve~~stis -a~~vē~~runt
+<small>-eron <small>🇮🇹 -ĕrono → -ĕro</small></small>
 
 <!--v-->
 
 | | |
 |-|-|
-| amái   | amâm̄os  |
+| amái   | amâmmos  |
 | amâsti | amâstes |
-| amáu <small>🇮🇹 amó</small> | amâron <small>🇮🇹 amárono</small> |
+| amá <small>🇮🇹 amó</small> | amâron <small>🇮🇹 amárono</small> |
 | | |
-| vîdei <small>🇮🇹 vidi</small> | vïdêm̄os |
-| vïdêsti | vïdêstes  |
-| vîde    | víderon <small>🇮🇹 vídero</small> |
+| tïméi   | tïmêmmos |
+| tïmêsti | tïmêstes |
+| tïmé    | tïmêron <small>🇮🇹 tïmérono</small> |
 | | |
-| dormíi   | dormîm̄os |
-| dormîsti | dormîstes  |
-| dormíi   | dormîron <small>🇮🇹 dormírono</small> |
+| dormíi   | dormîmmos |
+| dormîsti | dormîstes |
+| dormí    | dormîron <small>🇮🇹 dormírono</small> |
+| | |
+
+<!--v-->
+
+<small>Regulaj verboj je -**ere** (aŭ -**ĕre**) havas aldone alternativajn mi-, li- kaj ili-formojn kun la sufikso "tt" en la itala.</small>
+
+<!--v-->
+
+| | |
+|-|-|
+| tïméi <small>🇮🇹 tïméi / tïmetti</small> | tïmêmmos |
+| tïmêsti | tïmêstes |
+| tïmé <small>🇮🇹 tïmé / tïmette</small> | tïmêron <small>🇮🇹 tïmérono / tïméttero</small> |
+| | |
+
+<!--v-->
+
+<small>Multaj verboj je -**ere** (aŭ -**ĕre**) havas malregulajn intas-formojn, t.e. iliaj mi-, li- kaj ili-formoj havas apartan perfektivan radikon, kies akcento soviĝas unu silabon antaŭen. Tiel estas la perfektiva radiko **vid-** anstataŭas la teorie regulan intas-radikon **vïdett-**, respektive **vïde-**.</small>
+
+<!--v-->
+
+| | | | | | |
+|-|-|-|-|-|-|
+| vïdei       | **vidi** | | **vïdêmmos** | vidimmos |
+| **vïdêsti** | vidisti  | | **vïdêstes** | vidistes |
+| vïdé        | **vide** | | vïderon      | **videron** <small>🇮🇹 vídero</small> |
+| | | | | | |
+
+<!--v-->
+
+| | |
+|-|-|
+| vidi | vidimmos <small>🇮🇹 vïdemmos</small> |
+| vidisti <small>🇮🇹 vïdesti</small>  | vidistes <small>🇮🇹 vïdestes</small> |
+| vide | videron <small>🇮🇹 vídero</small> |
 | | |
 
 <!--s-->
@@ -1484,27 +1519,38 @@ Notes:
 
 | | |
 |-|-|
-| havevo  | havevamos |
-| havevas | havevates |
-| haveva  | havevan <small>🇮🇹 havĕvano</small> |
+| **hav̄ĭa**  | **hav̄ĭamos** |
+| **hav̄ĭas** | **hav̄ĭates** |
+| **hav̄ĭa**  | **hav̄ĭan** <small>🇮🇹 háv̄ĭano</small> |
 | | |
 
 | | |
 |-|-|
-| havĕró  | havĕrêmos |
-| havĕráṡ | havĕrêtes |
-| havĕrá  | havĕrân <small>🇮🇹 havĕran̄o</small> |
+| havĕréi   | havĕrêmmos |
+| havĕresti | havĕrêstes |
+| havĕré    | havĕrêron <small>🇮🇹 hávĕrévvero</small> |
 | | |
-
-<!-- TODO ke-u, se-us, do-us -->
 
 <!--v-->
 
 | | |
 |-|-|
-| **hevvi** | havêm̄os  |
-| havesti   | havestes |
-| **hevve** | **hévveron** <small>🇮🇹 hévvero</small> |
+| havéi <small>🇮🇹 hevvi</small> | havêmmos |
+| havesti | havestes |
+| havé <small>🇮🇹 hevve</small> | haveron <small>🇮🇹 hévvero</small> |
+| | |
+
+<!--v-->
+
+### essere
+
+<!--v-->
+
+| | |
+|-|-|
+| **sô** <small>🇮🇹 sono</small> | **siamos** |
+| **sêṡ** | **sẽtes** <small>🇮🇹 sietes</small> |
+| **ês**  | **sôno** <small>🇮🇹 han̄o</small> |
 | | |
 
 <!--
@@ -1525,4 +1571,10 @@ proprio veterinario
 <!-- | nautár | nãŭtare *[nuotare]* | -->
 <!-- * **ĕẋaq̄uare** [sciacquare] -->
 <!-- * **eẋsuc̆are** [asciugare] -->
+
+<!-- TODO trahĕre -->
+
+<!-- TODO facciamo → famos (@ fate) -->
+<!-- TODO diciamo → dimos (@ dite) -->
+
 

@@ -2816,9 +2816,9 @@ La finaĵoj -**ione**, -**o**, -**ore** kaj -**ura**
 
 | Esperanto | Intermediaria |
 |-|-|
-| (ke) mi estu | **sêa**   |
+| (ke) mi estu | **sêa**  |
 | (ke) ci estu | **sêas** |
-| (ke) li estu | **sêa**   |
+| (ke) li estu | **sêa**  |
 | | |
 | (ke) ni estu  | **sêamos** |
 | (ke) vi estu  | **sêais**  |
@@ -2833,7 +2833,7 @@ La finaĵoj -**ione**, -**o**, -**ore** kaj -**ura**
 | ci estintas | **fueste** |
 | li estintas | **fue**    |
 | | |
-| ni estintas  | **fuem̄os**  |
+| ni estintas  | **fuemmos** |
 | vi estintas  | **fuestes** |
 | ili estintas | **fueron**  |
 | | |
