@@ -1192,6 +1192,7 @@ revealOptions:
 <!--s-->
 
 ## as-Tempo
+*(**Presente** Imperfetto ~~del Indicativo~~ <small>🇮🇹 Presente Indicativo</small>)*
 
 | - |
 |-|
@@ -1236,20 +1237,29 @@ revealOptions:
 
 | | |
 |-|-|
-| sto  | stamos <small>🇮🇹 stiamos</small> |
-| staṡ | states |
-| sta  | stan <small>🇮🇹 stan̄o</small>  |
+| do  | damos <small>🇮🇹 diamos</small> |
+| daṡ | dates |
+| da  | dan <small>🇮🇹 dan̄o</small>  |
 | | |
 
 <small>ĉe akcentata -a: -ȧs → -ai = -aṡ; -an <small>🇮🇹 ăno → -anno = -an̄o</small></small>
 
 Notes:
 * 🇮🇹 fan̄o, han̄o, san̄o
-* 🇮🇹 dan̄o, stan̄o
+
+<!--v-->
+
+| | |
+|-|-|
+| capisco  | capimos <small>🇮🇹 capiamos</small> |
+| capiscės | capites |
+| capisce  | capiscen <small>🇮🇹 capiscŏno</small> |
+| | |
 
 <!--v-->
 
 ## is-Tempo
+*(**Passato** Imperfetto ~~del Indicativo~~ <small>🇮🇹 Imperfetto Indicativo</small>)*
 
 | -va |
 |-|
@@ -1282,6 +1292,7 @@ Notes:
 <!--v-->
 
 ## os-Tempo
+*(**Futuro** Imperfetto ~~del Indicativo~~ <small>🇮🇹 Futuro Semplice</small>)*
 
 | -rá |
 |-|
@@ -1315,9 +1326,27 @@ Notes:
 | dormirá  | dormirán <small>🇮🇹 dormirân̄o</small> |
 | | |
 
+<!--v-->
+
+## Inta as-Tempo
+*(**Presente Perfetto Composto** ~~del Indicativo~~ <small>🇮🇹 Passato Prossimo</small>)*
+
+<!-- ho fatto -->
+
+## Inta is-Tempo
+*(**Passato Perfetto Composto** ~~del Indicativo~~ <small>🇮🇹 Trapassato Prossimo</small>)*
+
+<!-- avevo fatto -->
+
+## Inta os-Tempo
+*(**Futuro Perfetto Composto** ~~del Indicativo~~ <small>🇮🇹 Futuro Anteriore</small>)*
+
+<!-- avrò fatto -->
+
 <!--s-->
 
 ## ke-u-Modo
+*(**Presente** Imperfetto del **Congiuntivo** <small>🇮🇹 Congiuntivo Presente</small>)*
 
 | -a |
 |-|
@@ -1361,6 +1390,7 @@ Notes:
 <!--v-->
 
 ## se-us-Modo
+*(**Passato** Imperfetto del **Congiuntivo** <small>🇮🇹 Congiuntivo Imperfetto</small>)*
 
 | -'sse |
 |-|
@@ -1395,6 +1425,7 @@ Notes:
 <!--v-->
 
 ## do-us-Modo
+*(**Futuro** Imperfetto del **Congiuntivo** <small>🇮🇹 Condizionale Presente</small>)*
 
 | -ré |
 |-|
@@ -1429,9 +1460,27 @@ Notes:
 | dormiré <small>🇮🇹 dormirevve</small> | dormireron <small>🇮🇹 dormirevvĕro</small> |
 | | |
 
+<!--v-->
+
+## Inta ke-u-Modo
+*(**Presente Perfetto Composto** del **Congiuntivo** <small>🇮🇹 Congiuntivo Passato</small>)*
+
+<!-- che io abbia fatto -->
+
+## Inta se-us-Modo
+*(**Passato Perfetto Composto** del **Congiuntivo** <small>🇮🇹 Congiuntivo Trapassato</small>)*
+
+<!-- che io avessi fatto -->
+
+## Inta do-us-Modo
+*(**Futuro Perfetto Composto** del **Congiuntivo** <small>🇮🇹 Condizionale Passato</small>)*
+
+<!-- io avrei fatto -->
+
 <!--s-->
 
-## -intas
+## intas-Tempo
+*(**Presente Perfetto** ~~del Indicativo~~ <small>🇮🇹 Passato Remoto</small>)*
 
 | -e |
 |-|
@@ -1499,6 +1548,13 @@ Notes:
 | vidisti <small>🇮🇹 vïdesti</small>  | vidistes <small>🇮🇹 vïdestes</small> |
 | vide | videron <small>🇮🇹 vídero</small> |
 | | |
+
+<!--v-->
+
+## Inta intas-Tempo
+*(**Presente Più-Che-Perfetto Composto** del Indicativo <small>🇮🇹 Trapassato Remoto</small>)*
+
+<!-- ebbi fatto -->
 
 <!--s-->
 
@@ -1572,9 +1628,9 @@ proprio veterinario
 <!-- * **ĕẋaq̄uare** [sciacquare] -->
 <!-- * **eẋsuc̆are** [asciugare] -->
 
-<!-- TODO trahĕre -->
+<!-- TODO trahĕre traho/trago -->
 
 <!-- TODO facciamo → famos (@ fate) -->
 <!-- TODO diciamo → dimos (@ dite) -->
 
-
+<!-- TODO nomi la tempojn -->
