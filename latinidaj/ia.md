@@ -1,9 +1,164 @@
+---
+title: Speranto - Esperanto Kiel Dialektaro
+separator: <!--s-->
+verticalSeparator: <!--v-->
+theme: sky
+revealOptions:
+  transition: 'fade'
+  progress: false
+  controls: false
+  slideNumber: false
+---
+
+<!-- cd ~/Git/speranto/latinidaj; reveal-md ia.md -w -->
+
 <!--s-->
 
-<!-- TODO eble "Interlingua post la Fina Venko" -->
-# Lingua:
+# Lingua Internationale
+*(Interlingua post la Fina Venko)*
 
-## Internacia Ortografio de Ponta Lingvo
+<!-- 🌐 -->
+<!-- 🙂 -->
+
+<!-- TODO b→v; eble eĉ ne menciindas -->
+<!-- TODO Lingua Auxiliar -->
+<!-- creato → creado -->
+<!-- bânio → banio -->
+<!-- hâ → ha /a/ -->
+<!-- americana → americán = american -->
+<!-- generatione → generatión = generation -->
+
+<!--v-->
+
+## Substantivoj
+
+<!--v-->
+
+| | |
+|-|-|
+| *patro(j)* | patre(s) |
+| *studento(j)* | studente(s) |
+| *amikino(j)* | amica(s) |
+| *frukto(j)* | fructo(s) |
+| *planto(j)* | planta(s) |
+| | |
+
+<!--v-->
+
+| | |
+|-|-|
+| *tempo* | tempo <small>🌐 tempore</small> |
+| *generacio* | generation <small>generatione</small> |
+| | |
+
+<!--v-->
+
+## Adjektivoj
+
+<!--v-->
+
+| | |
+|-|-|
+| *delikata* | delicata <small>🌐 delicate</small> |
+| *malgranda* | parva`?` <small>🌐 parve</small> |
+| | |
+| *klasika* | classĭca <small>🌐 classic</small> |
+| *usona* | americana <small>🌐 american</small> |
+| | |
+
+<!--v-->
+
+| | |
+|-|-|
+| *natura* | natural <small>naturale</small> |
+| *stela* | stellar <small>stellare</small> |
+| | |
+| *universitato* | universidad <small>universitate</small> |
+| | |
+
+
+<!-- TODO par -->
+<!-- TODO bon -->
+
+<!-- TODO plus minus -->
+
+<!--v-->
+
+| | |
+|-|-|
+| *belaj montoj* | montes bella <small>montes bellas</small> <small>🌐 montes belle</small> |
+| | |
+
+<!-- TODO smiley -->
+
+<!--v-->
+
+## Adverboj
+## Numeraloj
+## Tabelvortoj
+## Artikoloj
+## Pronomoj
+
+<!--v-->
+
+## Verboj
+
+<!--v-->
+
+| | |
+|-|-|
+| *krei* | crear <small>creare</small> |
+| *kreita* | creada <small>creata</small> <small>🌐 create</small> |
+| | |
+
+<!--v-->
+
+| | |
+|-|-|
+| *estas kreinta* | ha creado <small>hâ creato</small> <small>🌐 ha create</small> |
+| *estas veninta* | ha venido <small>ês venita</small> <small>🌐 ha venite</small> |
+| | |
+
+<!--v-->
+
+| | |
+|-|-|
+| *kreas* | crea |
+| *kreis* | ha creado <small>creava</small> <small>🌐 creava → ha create</small> |
+| *kreintas* | ha creado <small>creáu</small> <small>🌐 ha create</small> |
+| *kreos* | va a crear <small>creará</small> <small>🌐 creara → va crear</small> |
+| | |
+
+<!--v-->
+
+| | |
+|-|-|
+| *kreu(j)!* | crea(d)! <small>crea(te)!</small> |
+| | |
+| *(ke) kreu* | crea <small>cree</small> |
+| *(se/do) kreus* | crea <small>creâsse/crearía</small> <small>🌐 crearea</small> |
+| | |
+
+<!--v-->
+
+| | |
+|-|-|
+| *irintas* | ha ido <small>vadéu</small> <small>🌐 ha ite</small> |
+| | |
+| *estas irinta* | ha ido <small>ês ito</small> <small>🌐 ha ite</small> |
+| | |
+
+<!--v-->
+
+## Prepozicioj
+
+<!--v-->
+
+## Konjunkcioj
+
+<!--s-->
+
+# Ortografio
 
 Notes:
 <!-- vokaloj -->
@@ -3029,3 +3184,4 @@ Notes:
 
 
 <!-- prehendere prendere prendêr -->
+
