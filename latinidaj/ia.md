@@ -110,6 +110,8 @@ revealOptions:
 | *krei* | crear <small>creare</small> |
 | *kreita* | creada <small>creata</small> <small>🌐 create</small> |
 | | |
+| *vidita* | vidida <small>vista</small> <small>🌐 vidite</small> |
+| | |
 
 <!--v-->
 
@@ -145,7 +147,7 @@ revealOptions:
 |-|-|
 | *irintas* | ha ido <small>vadéu</small> <small>🌐 ha ite</small> |
 | | |
-| *estas irinta* | ha ido <small>ês ito</small> <small>🌐 ha ite</small> |
+| *estas irinta* | ha ido <small>ês ita</small> <small>🌐 ha ite</small> |
 | | |
 
 <!--v-->
