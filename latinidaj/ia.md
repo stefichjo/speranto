@@ -1,5 +1,5 @@
 ---
-title: Speranto - Esperanto Kiel Dialektaro
+title: Lingua Internationale
 separator: <!--s-->
 verticalSeparator: <!--v-->
 theme: sky
@@ -12,21 +12,88 @@ revealOptions:
 
 <!-- cd ~/Git/speranto/latinidaj; reveal-md ia.md -w -->
 
-<!--s-->
-
-# Lingua Internationale
+# Lingua Inter-nationale
 *(Interlingua post la Fina Venko)*
 
-<!-- 🌐 -->
-<!-- 🙂 -->
-
 <!-- TODO b→v; eble eĉ ne menciindas -->
-<!-- TODO Lingua Auxiliar -->
-<!-- creato → creado -->
-<!-- bânio → banio -->
-<!-- hâ → ha /a/ -->
-<!-- americana → americán = american -->
-<!-- generatione → generatión = generation -->
+
+<!--v-->
+
+## Ortografio 
+
+<!--v-->
+
+### Elizio 
+
+<!--v-->
+
+| | |
+|-|-|
+| *trajno* | traino <small>trâino, trağino</small> |
+| | |
+
+<small>En **Lingua Auxiliar**, la supersignoj, kiuj indikas elizion, ne skribiĝas.</small>
+
+<!--v-->
+
+| | |
+|-|-|
+| *maro* | mar <small>mare, 🎵 mâr</small> |
+| | |
+| *ami* | amar <small>amare, 🎵 amár</small> |
+| | |
+
+<small>En **Lingua Internationale**, la vokalo *-e* elizieblas malantaŭ dentala konsonanto (*c*, *d*, *l*, *n*, *r*, *s*, *t*), ekzemple en poezio.</small>
+
+<small>En **Lingua Auxiliar**, tiu elizio estas deviga.</small>
+
+<!--v-->
+
+| | |
+|-|-|
+| *paco* | paç <small>pace, 🎵 pâç</small> |
+| | |
+
+<small>Ĉe elizio, *c* skribiĝas *ç*.</small>
+
+<!--v-->
+
+| | |
+|-|-|
+| *angla* | inglés <small>inglese *[iŋgleze]*, 🎵 inglés *[iŋgles']*</small> |
+| | |
+
+<small>Intervokala *s* prononciĝas *[z]*. Alikaze ĝi prononciĝas *[s]*. Ĉe elizio, la vokalo antaŭ *s* devas porti supersignon por eviti konfuzon kun la multenombra *-s*.</small>
+
+<!--v-->
+
+| | |
+|-|-|
+| *piedo* | pe <small>pede, 🎵 pê</small> |
+| *piedoj* | pes <small>pedes</small> |
+| | |
+| *reto* | red <small>rete, 🎵 rêd</small> |
+| *retoj* | redes <small>retes</small> |
+| | |
+
+<small>Ĉe elizio, *t* fariĝas *d*, kaj *de* eliziiĝas.</small>
+
+<!--v-->
+
+### Tra Bruo
+
+<!--v-->
+
+| | |
+|-|-|
+| *horo* | hora *[ora]* <small>🔊/🌎 *[hora]*</small> |
+| | |
+| *centro* | centro *[sentro]* <small>🔊/🌎 *[centro]*</small> |
+| | |
+| *teksto* | texto *[testo]* <small>🔊/🌎 *[teksto]*</small> |
+| | |
+
+<small>**Tra bruo**, *[h]* estas prononcata. Simile, *[c]* kaj *[ks]* estas klare prononcataj anstataŭ *[s]*.</small>
 
 <!--v-->
 
@@ -36,20 +103,34 @@ revealOptions:
 
 | | |
 |-|-|
-| *patro(j)* | patre(s) |
-| *studento(j)* | studente(s) |
 | *amikino(j)* | amica(s) |
 | *frukto(j)* | fructo(s) |
+| *patro(j)* | patre(s) |
 | *planto(j)* | planta(s) |
+| *studento(j)* | studente(s) |
+| | |
+| *generacio(j)* | generation(es) <small>generatione(s)</small> |
 | | |
 
 <!--v-->
 
 | | |
 |-|-|
-| *tempo* | tempo <small>🌐 tempore</small> |
-| *generacio* | generation <small>generatione</small> |
+| *limo*  | lime <small>🎵 limĭte</small> <small>🌎 limite</small> |
+| *nomo*  | nome <small>🎵 nomĭne</small> <small>🌎 nomine</small> |
+| *tempo* | tempo <small>🎵 tempŏre</small> <small>🌎 tempore</small> |
 | | |
+
+<small>En poezio, neakcentataj ŝajnfinaĵoj el **Lingua Classĭca** estas reteneblaj.</small>
+
+<!--v-->
+
+| | |
+|-|-|
+| *fazo* | phase |
+| | |
+
+<small>En grekaj vortoj, -*e* ne eliziiĝas.</small>
 
 <!--v-->
 
@@ -59,11 +140,11 @@ revealOptions:
 
 | | |
 |-|-|
-| *delikata* | delicata <small>🌐 delicate</small> |
-| *malgranda* | parva`?` <small>🌐 parve</small> |
+| *delikata* | delicata <small>🌎 delicate</small> |
+| *malgranda* | parva`?` <small>🌎 parve</small> |
 | | |
-| *klasika* | classĭca <small>🌐 classic</small> |
-| *usona* | americana <small>🌐 american</small> |
+| *klasika* | classica <small>classĭca 🌎 classic</small> |
+| *usona* | americana <small>🌎 american</small> |
 | | |
 
 <!--v-->
@@ -86,7 +167,7 @@ revealOptions:
 
 | | |
 |-|-|
-| *belaj montoj* | montes bella <small>montes bellas</small> <small>🌐 montes belle</small> |
+| *belaj montoj* | montes bella <small>montes bellas</small> <small>🌎 montes belle</small> |
 | | |
 
 <!-- TODO smiley -->
@@ -97,7 +178,37 @@ revealOptions:
 ## Numeraloj
 ## Tabelvortoj
 ## Artikoloj
+
+<!--v-->
+
 ## Pronomoj
+
+<!--v-->
+
+| | | | |
+|-|-|-|-|
+| *mi, min, mia* | eo <small>🌎 io</small> | me | mea <small>🌎 mi</small> |
+| *ci, cin, cia* | tu | te | tea <small>🌎 tu</small> |
+| | | | |
+| *ni, nin, nia* | nos | nos | nossa <small>🌎 nostre</small> |
+| *vi, vin, via* | vos | vos | vossa <small>🌎 vostre</small> |
+| | | | |
+
+<!--v-->
+
+<!-- TODO -->
+
+| | |
+|-|-|
+| *ŝi* *(ili)* | elle(s) <small>🌎 illa(s)</small> |
+| *li* *(ili)* | olle(s) <small>🌎 ille(s)</small> |
+| *ri* *(ili)* | ulle(s) |
+| | |
+| *ĝi* *(ili)* | le(s) <small>🌎 illo(s)</small> |
+| | |
+
+<!-- TODO simile en la dialekta kontinuo, laŭ la formato -->
+<!-- TODO de-formoj -->
 
 <!--v-->
 
@@ -107,18 +218,32 @@ revealOptions:
 
 | | |
 |-|-|
-| *krei* | crear <small>creare</small> |
-| *kreita* | creada <small>creata</small> <small>🌐 create</small> |
+| *diri* | dicer <small>dicĕre, 🎵 dicér</small> |
 | | |
-| *vidita* | vidida <small>vista</small> <small>🌐 vidite</small> |
+
+<small>Kiam -*e* eliziiĝas en ne-akcentata -*ĕre*, -*er* fariĝas akcentata.</small>
+
+<!--v-->
+
+| | |
+|-|-|
+| *krei* | crear <small>creare</small> |
+| *kreita* | creada <small>creata</small> <small>🌎 create</small> |
 | | |
 
 <!--v-->
 
 | | |
 |-|-|
-| *estas kreinta* | ha creado <small>hâ creato</small> <small>🌐 ha create</small> |
-| *estas veninta* | ha venido <small>ês venita</small> <small>🌐 ha venite</small> |
+| *vidita* | vidida <small>vidita, 🎵 vista</small> <small>🌎 vidite</small> |
+| | |
+
+<!--v-->
+
+| | |
+|-|-|
+| *estas kreinta* | ha creado <small>hâ creato</small> <small>🌎 ha create</small> |
+| *estas veninta* | ha venido <small>ês venita</small> <small>🌎 ha venite</small> |
 | | |
 
 <!--v-->
@@ -126,9 +251,9 @@ revealOptions:
 | | |
 |-|-|
 | *kreas* | crea |
-| *kreis* | ha creado <small>creava</small> <small>🌐 creava → ha create</small> |
-| *kreintas* | ha creado <small>creáu</small> <small>🌐 ha create</small> |
-| *kreos* | va a crear <small>creará</small> <small>🌐 creara → va crear</small> |
+| *kreis* | ha creado <small>creava</small> <small>🌎 creava → ha create</small> |
+| *kreintas* | ha creado <small>creáu</small> <small>🌎 ha create</small> |
+| *kreos* | va a crear <small>creará</small> <small>🌎 creara → va crear</small> |
 | | |
 
 <!--v-->
@@ -138,17 +263,38 @@ revealOptions:
 | *kreu(j)!* | crea(d)! <small>crea(te)!</small> |
 | | |
 | *(ke) kreu* | crea <small>cree</small> |
-| *(se/do) kreus* | crea <small>creâsse/crearía</small> <small>🌐 crearea</small> |
+| *(se/do) kreus* | crea <small>creâsse/crearía</small> <small>🌎 crearea</small> |
 | | |
 
 <!--v-->
 
 | | |
 |-|-|
-| *irintas* | ha ido <small>vadéu</small> <small>🌐 ha ite</small> |
+| *irintas* | ha ido <small>vadéu</small> <small>🌎 ha ite</small> |
 | | |
-| *estas irinta* | ha ido <small>ês ita</small> <small>🌐 ha ite</small> |
+| *estas irinta* | ha ido <small>ês ita</small> <small>🌎 ha ite</small> |
 | | |
+
+<!-- TODO era - esseva -->
+
+<!--v-->
+
+### Konjugacio
+
+<!--v-->
+
+| | |
+|-|-|
+| *(mi) kreas* | eo crea <small>🎵 creo</small> |
+| *(ci) kreas* | tu crea <small>🎵 creas</small> |
+| *(ĝi) kreas* | le crea <small>🎵 crea</small> |
+| | |
+| *(ni) kreas* | nos crea <small>🎵 creamos</small> |
+| *(vi) kreas* | vos crea <small>🎵 creáis</small> |
+| *(ili) kreas* | les crea <small>🎵 crean</small> |
+| | |
+
+<small>En **Lingua Internationale**, eblas uzi konjugacion kiel en **Lingua Intermediaria**, ekzemple en poezio.</small>
 
 <!--v-->
 
@@ -160,7 +306,7 @@ revealOptions:
 
 <!--s-->
 
-# Ortografio
+# Ortografio 2
 
 Notes:
 <!-- vokaloj -->
@@ -3186,4 +3332,5 @@ Notes:
 
 
 <!-- prehendere prendere prendêr -->
+
 

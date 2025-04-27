@@ -1626,7 +1626,7 @@ Tra bruo, la prepozicio **a** uziĝas por la indiki la rektan objekton. (Tiam uz
 | ri(a) | **ullu(a)** |
 | ĝi(a)/li(a) | **lu(a)** |
 | | |
-| ili(a) | **ilu(a)** |
+| ili(a) | **illu(a)** |
 | | |
 | si(a) | **su(a)** |
 
@@ -1752,6 +1752,7 @@ Tra bruo, la prepozicio **a** uziĝas por la indiki la rektan objekton. (Tiam uz
 
 <small>La ŝajnfinaĵoj -**ĭn**- kaj -**ĭt**- eliziiĝas, se ĝi ne ekzistas en la latina nominativo.</small>
 <!-- TODO → Lingua Classĭca -->
+<!-- TODO tempore -->
 
 <!--v-->
 
@@ -1763,10 +1764,6 @@ Tra bruo, la prepozicio **a** uziĝas por la indiki la rektan objekton. (Tiam uz
 | sango | **sangue** <small>**sanguĭne** *[sangu-ine]*</small> |
 | | |
 | limo | **lime** <small>**limĭte** *[limi-te]*</small> |
-
-<!--v-->
-
-La finaĵoj -**ione**, -**o**, -**ore** kaj -**ura** 
 
 <!--v-->
 
@@ -1894,6 +1891,8 @@ La finaĵoj -**ione**, -**o**, -**ore** kaj -**ura**
 | ili(a) | **les(sa)** <small>**(de)les**</small> |
 | | |
 | si(a) | **se(a)** |
+
+<!-- TODO Konsiderindas uzi *sea* ankaŭ anstataŭ ellea, ollea, kaj ullea. -->
 
 <!--v-->
 
@@ -2334,7 +2333,7 @@ La finaĵoj -**ione**, -**o**, -**ore** kaj -**ura**
 | universitato | **universidád** |
 | universitato | **universidades** |
 | | |
-| estu (vij)! | **sêde!** |
+| estu (vij)! | **sêd!** |
 | | |
 | flanko | **lado** |
 
