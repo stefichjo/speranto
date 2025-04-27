@@ -15,6 +15,8 @@ revealOptions:
 # Lingua Inter-nationale
 *(Interlingua post la Fina Venko)*
 
+<small>**Lingua Internationale** baziĝas sur **Lingua** kaj ĝiaj [dialektoj](../speranto.md).</small>
+
 <!-- TODO b→v; eble eĉ ne menciindas -->
 
 <!--v-->
