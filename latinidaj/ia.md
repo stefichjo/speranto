@@ -25,7 +25,20 @@ revealOptions:
 
 <!--v-->
 
-### Elizio 
+### Akcento
+
+<!--v-->
+
+| | |
+|-|-|
+| *rapida* | rapida <small>rapĭda</small> |
+| | |
+
+<small>En **Lingua Auxiliar**, la supersignoj, kiuj indikas neakcentatajn ŝajnfinaĵojn, ne skribiĝas.</small>
+
+<!--v-->
+
+### Elizio
 
 <!--v-->
 
@@ -63,6 +76,7 @@ revealOptions:
 | | |
 |-|-|
 | *angla* | inglés <small>inglese *[iŋgleze]*, 🎵 inglés *[iŋgles']*</small> |
+| *anglaj* | ingleses |
 | | |
 
 <small>Intervokala *s* prononciĝas *[z]*. Alikaze ĝi prononciĝas *[s]*. Ĉe elizio, la vokalo antaŭ *s* devas porti supersignon por eviti konfuzon kun la multenombra *-s*.</small>
@@ -172,13 +186,92 @@ revealOptions:
 | *belaj montoj* | montes bella <small>montes bellas</small> <small>🌎 montes belle</small> |
 | | |
 
-<!-- TODO smiley -->
-
 <!--v-->
 
 ## Adverboj
+
+<!--v-->
+
+| | |
+|-|-|
+| *rapide* | rapidamente <small>🌎 rapidemente</small> |
+| | |
+
+<small>Adverboj estas formataj pere de la sufikso -*mente*.</small>
+
+<!--v-->
+
+| | |
+|-|-|
+| *bona* | bona |
+| | |
+| *bone* | ben <small>bene</small> |
+| | |
+
+<small>La adverba formo de *bona* estas malregula: *ben* <small>bene</small>.</small>
+
+<!--v-->
+
+| | |
+|-|-|
+| *certe* | certamente <small>🌎 certemente</small> |
+| | |
+| *certe (ke)* | certo (que) <small>certo (qŭe)</small> |
+| | |
+
+<small>Adverboj, kiuj priskribas subfrazojn, estas formataj pere de la finaĵo -*o*.</small>
+
+<!--v-->
+
+| | |
+|-|-|
+| *alta* | alta |
+| | |
+| *alte, (en) alteco* | (in) alto |
+| | |
+
+<small>Adverboj, kiuj estas substantivigeblaj, estas formataj pere de la finaĵo -*o*.</small>
+
+<!--v-->
+
 ## Numeraloj
+
+<!--v-->
+
 ## Tabelvortoj
+
+<!--v-->
+
+|          | *ki-* | *ti-* | *i-* | *ĉi-* |
+|-|-|-|-|-|
+| ***-u*** | qui   | illi  | uni  | omni  |
+| ***-o*** | que   | ille  | une  | omne  |
+| ***-a*** | qua   | illa  | una  | omna  |
+| ***-e*** | quo   | illo  | uno  | omno  |
+| | | | | |
+
+<!--v-->
+
+|          | *ĉi ti-* | *neni-* |
+|-|-|-|
+| ***-u*** | quilli   | nilli   |
+| ***-o*** | quille   | nille   |
+| ***-a*** | quilla   | nilla   |
+| ***-e*** | quillo   | nillo   |
+| | | |
+
+<!--v-->
+
+|          | *(k)i- ajn* | *ĉi- ajn* |
+|-|-|-|
+| ***-u*** | un-qui      | qui-unque |
+| ***-o*** | un-que      | que-unque |
+| ***-a*** | un-qua      | qua-unque |
+| ***-e*** | un-quo      | quo-unque |
+| | | |
+
+<!--v-->
+
 ## Artikoloj
 
 <!--v-->
@@ -237,7 +330,9 @@ revealOptions:
 
 | | |
 |-|-|
-| *vidita* | vidida <small>vidita, 🎵 vista</small> <small>🌎 vidite</small> |
+| *vidita* | vidida <small>vidita, 🎵 vista</small> |
+| | |
+| *ĉar* | vidido que <small>vidito qŭe, 🎵 visto qŭe</small> |
 | | |
 
 <!--v-->
