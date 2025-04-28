@@ -242,33 +242,53 @@ revealOptions:
 
 <!--v-->
 
-|           | *ki-* | *ti-* | *i-* | *ĉi-* |
-|-|-|-|-|-|
-| ***-u***  | qui   | illi  | uni  | omni  |
-| ***-o***  | que   | ille  | une  | omne  |
-| ***-a***  | qua   | illa  | una  | omna  |
-| ***-el*** | quo   | illo  | uno  | omno  |
-| | | | | |
+|           | *ki-* | *ti-* | *ĉi-* |
+|-|-|-|-|
+| ***-u***  | qui   | illi  | omni  |
+| ***-o***  | que   | ille  | omne  |
+| ***-a***  | qua   | illa  | omna  |
+| ***-el*** | quo   | illo  | omno  |
+| | | | |
+
+<!-- TODO "un-" ne estas (necese) tabelvorta radiko → speranto.md -->
 
 <!--v-->
 
-|           | *ĉi ti-* | *neni-* | | *(k)i- ajn* | *ĉi- ajn* |
-|-|-|-|-|-|-|
-| ***-u***  | quilli   | nilli   | | un-qui      | qui-unque |
-| ***-o***  | quille   | nille   | | un-que      | que-unque |
-| ***-a***  | quilla   | nilla   | | un-qua      | qua-unque |
-| ***-el*** | quillo   | nillo   | | un-quo      | quo-unque |
+|           | *ĉi ti-* | *neni-* |
+|-|-|-|
+| ***-u***  | quilli   | nilli   |
+| ***-o***  | quille   | nille   |
+| ***-a***  | quilla   | nilla   |
+| ***-el*** | quillo   | nillo   |
 | | | |
 
 <!-- TODO povas samsignifi al *i-* kaj *ĉi-* respektive. -->
+<!-- TODO uvi-que (ubique), quando-que = sempre -->
+<!-- TODO qual tal -->
+<!-- TODO aliqui (alicuno), alicuvi (alicubi) -->
+<!-- TODO nemo = nilli -->
+<!-- TODO uvi-c-un-que → uv-un-que -->
+<!-- TODO ali-, -que → speranto.md -->
+
+<!--v-->
+
+|           | *i-*    | *i- ajn* | *ĉi- ajn* |
+|-|-|-|-|
+| ***-u***  | ali-qui | un-qui   | qui-unque |
+| ***-o***  | ali-que | un-que   | que-unque |
+| ***-a***  | ali-qua | un-qua   | qua-unque |
+| ***-el*** | ali-quo | un-quo   | quo-unque |
+| | | | |
+
+<!-- TODO iu ajn = kiu ajn -->
 
 <!--v-->
 
 | | *ki-* | *ti-* |
 |-|-|-|
-| ***-u*** | qui   | illi  |
+| ***-u*** | qui | illi |
 | | | |
-| ***-u ...*** | qui <small>quale</small> | illi <small>tale</small>  |
+| ***-u ...*** | qui <small>quale</small> | illi <small>tale</small> |
 | | | |
 
 <!-- TODO origine priskribita kiel origine -a, sed eble ja fakte -u.
@@ -286,19 +306,29 @@ revealOptions:
 
 <!--v-->
 
-| | *ki-* | *ti-* |
+| | *ki-* | *(ĉi) ti-* |
 |-|-|-|
 | ***-el*** | quo | illo |
 | | | |
-| ***-e***  | quo <small>uvi</small>    | illo <small>ivi</small>  |
-| ***-om*** | quo <small>quanto</small> | illo <small>tanto</small>  |
-| ***-am*** | quo <small>quando</small> | illo <small>nunc`?`</small>  |
-| ***-el*** | quo <small>quomo</small>  | illo <small>sic`?`</small>  |
+| ***-e***  | quo <small>uvi</small>    | illo <small>ivi</small>     |
+| ***-am*** | quo <small>quando</small> | illo <small>nunc`?`</small> |
+| ***-om*** | quo <small>quanto</small> | illo <small>tanto</small>   |
 | ***-al*** | quo <small>quare</small>  | illo <small>tare/care`?`</small>  |
+| ***-el*** | quo <small>quomo</small>  | illo <small>sic`?`</small>  |
 | | | |
 
 Notes:
 * uv-unque, quom-unque, qual-unque
+
+<!--v-->
+
+| | *ki-* | *ĉi-* |
+|-|-|-|
+| ***-e***  | quo <small>uvi</small>    | omno <small>uvi-que</small>             |
+| ***-am*** | quo <small>quando</small> | omno <small>quando-que = sempre</small> |
+| | | |
+
+<!-- TODO uvi-que, quanto-que, quando-que = sempre, quomo-que, quare-que -->
 
 <!-- TODO ĉiam (dum ĉio), ĉie (ĉe ĉio) -->
 <!-- TODO quia/quea (quius) -->
@@ -310,14 +340,23 @@ Notes:
 
 <!--v-->
 
+| | |
+|-|-|
+| *la* | la <small>la(s)</small> <small>🌎 le</small>   |
+| | |
+| *-*  | una <small>una(s)</small> <small>🌎 un</small> |
+| | |
+
+<!--v-->
+
 ## Pronomoj
 
 <!--v-->
 
 | | | | |
 |-|-|-|-|
-| *mi, min, mia* | eo <small>🌎 io</small> | me | mea <small>🌎 mi</small> |
-| *ci, cin, cia* | tu | te | tea <small>🌎 tu</small> |
+| *mi, min, mia* | eo <small>🌎 io</small> | me | mia <small>🌎 mi</small> |
+| *ci, cin, cia* | tu | te | tua <small>🌎 tu</small> |
 | | | | |
 | *ni, nin, nia* | nos | nos | nossa <small>🌎 nostre</small> |
 | *vi, vin, via* | vos | vos | vossa <small>🌎 vostre</small> |
