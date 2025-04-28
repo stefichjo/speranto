@@ -1837,6 +1837,8 @@ Tra bruo, la prepozicio **a** uziĝas por la indiki la rektan objekton. (Tiam uz
 | | |
 | kies | **qua** <small>**quius** (Lingue: (**quis**))</small> |
 
+<!-- TODO Ne plu rekoneblas la motivo, pro kiu "kies" estu "qua" anstataŭ laŭ la pronoma (ja parenca) sistemo "quia". -->
+
 <!--v-->
 
 | Esperanto | Lingua |

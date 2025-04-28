@@ -242,33 +242,67 @@ revealOptions:
 
 <!--v-->
 
-|          | *ki-* | *ti-* | *i-* | *ĉi-* |
+|           | *ki-* | *ti-* | *i-* | *ĉi-* |
 |-|-|-|-|-|
-| ***-u*** | qui   | illi  | uni  | omni  |
-| ***-o*** | que   | ille  | une  | omne  |
-| ***-a*** | qua   | illa  | una  | omna  |
-| ***-e*** | quo   | illo  | uno  | omno  |
+| ***-u***  | qui   | illi  | uni  | omni  |
+| ***-o***  | que   | ille  | une  | omne  |
+| ***-a***  | qua   | illa  | una  | omna  |
+| ***-el*** | quo   | illo  | uno  | omno  |
 | | | | | |
 
 <!--v-->
 
-|          | *ĉi ti-* | *neni-* |
-|-|-|-|
-| ***-u*** | quilli   | nilli   |
-| ***-o*** | quille   | nille   |
-| ***-a*** | quilla   | nilla   |
-| ***-e*** | quillo   | nillo   |
+|           | *ĉi ti-* | *neni-* | | *(k)i- ajn* | *ĉi- ajn* |
+|-|-|-|-|-|-|
+| ***-u***  | quilli   | nilli   | | un-qui      | qui-unque |
+| ***-o***  | quille   | nille   | | un-que      | que-unque |
+| ***-a***  | quilla   | nilla   | | un-qua      | qua-unque |
+| ***-el*** | quillo   | nillo   | | un-quo      | quo-unque |
 | | | |
+
+<!-- TODO povas samsignifi al *i-* kaj *ĉi-* respektive. -->
 
 <!--v-->
 
-|          | *(k)i- ajn* | *ĉi- ajn* |
+| | *ki-* | *ti-* |
 |-|-|-|
-| ***-u*** | un-qui      | qui-unque |
-| ***-o*** | un-que      | que-unque |
-| ***-a*** | un-qua      | qua-unque |
-| ***-e*** | un-quo      | quo-unque |
+| ***-u*** | qui   | illi  |
 | | | |
+| ***-u ...*** | qui <small>quale</small> | illi <small>tale</small>  |
+| | | |
+
+<!-- TODO origine priskribita kiel origine -a, sed eble ja fakte -u.
+→ speranto.md
+-->
+
+<!--v-->
+
+| | *ki-* |
+|-|-|
+| ***-a*** | qua |
+| | |
+| ***-es*** | quia/quea <small>quis</small> |
+| | |
+
+<!--v-->
+
+| | *ki-* | *ti-* |
+|-|-|-|
+| ***-el*** | quo | illo |
+| | | |
+| ***-e***  | quo <small>uvi</small>    | illo <small>ivi</small>  |
+| ***-om*** | quo <small>quanto</small> | illo <small>tanto</small>  |
+| ***-am*** | quo <small>quando</small> | illo <small>nunc`?`</small>  |
+| ***-el*** | quo <small>quomo</small>  | illo <small>sic`?`</small>  |
+| ***-al*** | quo <small>quare</small>  | illo <small>tare/care`?`</small>  |
+| | | |
+
+Notes:
+* uv-unque, quom-unque, qual-unque
+
+<!-- TODO ĉiam (dum ĉio), ĉie (ĉe ĉio) -->
+<!-- TODO quia/quea (quius) -->
+<!-- TODO ad quo = quo -->
 
 <!--v-->
 
