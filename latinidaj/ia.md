@@ -17,7 +17,10 @@ revealOptions:
 
 <small>**Lingua Internationale** baziĝas sur **Lingua** kaj ĝiaj [dialektoj](../speranto.md).</small>
 
-<!-- TODO b→v; eble eĉ ne menciindas; samrange kiel t→d (t.e. ne estas "tra bruo") -->
+<!-- TODO saper sapiente sapia -->
+<!-- TODO facer faciente facia, sufficer sufficiente sufficia -->
+<!-- TODO capir capiente capa?, recipir recipiente recipa? -->
+<!-- TODO haver havente havia OK -->
 
 <!--v-->
 
@@ -110,6 +113,18 @@ revealOptions:
 | | |
 
 <small>**Tra bruo**, *[h]* estas prononcata. Simile, *[c]* kaj *[ks]* estas klare prononcataj anstataŭ *[s]*.</small>
+
+<!--v-->
+
+| | |
+|-|-|
+| *dubi*   | duvidar <small>dubitare *[duvitare]*  🔊 *[dubitare]*</small>  <small>🌎 dubitar</small> |
+| *havi*   | haver   <small>habere   *[avere]*     🔊 *[habere]*</small>    <small>🌎 haber</small>   |
+| *labori* | lavorar <small>laborare *[lavorare]*  🔊 *[laborare]*</small>  <small>🌎 laborar</small> |
+| *skribi* | scriver <small>scribĕre *[skrive-re]* 🔊 *[skribe-re]*</small> <small>🌎 scriber</small> |
+| | |
+
+<small>**Tra bruo**, radikofina postvokala *b* *[v]* estas prononcata *[b]*.</small>
 
 <!--v-->
 
@@ -3530,5 +3545,5 @@ Notes:
 | 🌐 | 🎵 |
 |-|-|
 | Il ha sido la anno 531 del Quattesima `Etate` e, al foras del parva villajo de Nov’ Esperantia, la juvene Valerio, post haver finido suas lavores in la ferma familiar, ha ido ad explorar al foresta vicina a sua domo, cognida quomo La Silva Magica. | Il era la anno 531 del Quarta `Etate` e, âs foras del parva villajo de Nov' Esperantia, la juvĕne Valerio, post havér finito suas labores in la ferma familiare, vadeva ad explorare âl foresta vicina a sua domo, cognita quomo La Silva Magĭca. |
-| | |
+|  | |
 
