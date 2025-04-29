@@ -951,7 +951,7 @@ Aldone, la plimulto de la finaĵoj de la interaj dialektoj varias. Ekzemple, dum
 | tago | dio |
 | trinki | bibi |
 | flanko | lato |
-| helpi | adjuvi |
+| helpi | adjuti |
 | ŝajni | simbli |
 
 <!--v-->

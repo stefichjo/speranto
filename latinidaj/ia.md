@@ -17,7 +17,7 @@ revealOptions:
 
 <small>**Lingua Internationale** baziĝas sur **Lingua** kaj ĝiaj [dialektoj](../speranto.md).</small>
 
-<!-- TODO b→v; eble eĉ ne menciindas -->
+<!-- TODO b→v; eble eĉ ne menciindas; samrange kiel t→d (t.e. ne estas "tra bruo") -->
 
 <!--v-->
 
@@ -189,6 +189,8 @@ revealOptions:
 <!--v-->
 
 ## Adverboj
+
+<!-- Nur kiam la silabo antaŭ -e estas akcentata, la -e eliziiĝas: stabĭle. Sed ĉu ankaŭ ĉe -mente? facilemente?/facilmente? -->
 
 <!--v-->
 
@@ -390,6 +392,20 @@ Notes:
 | | |
 
 <small>Kiam -*e* eliziiĝas en ne-akcentata -*ĕre*, -*er* fariĝas akcentata.</small>
+
+<!--v-->
+
+| | |
+|-|-|
+| *defendi vin* | defender-te <small>defender te</small> |
+| *helpi vin* | adjudar-te <small>adjutár te</small> |
+| | |
+| *voli helpi* | voler adjudar <small>volér adjutare</small> |
+| | |
+| *esti helpinta* | haver adjudado <small>havér adjutato</small> |
+| | |
+
+<small>La elizio de -*e* estas deviga en kombinoj kun pronomoj kaj aliaj verboj. La akcento tiam ne ŝanĝiĝas.</small>
 
 <!--v-->
 
@@ -3513,5 +3529,6 @@ Notes:
 
 | 🌐 | 🎵 |
 |-|-|
-| Il ha sido la anno 531 del Quattesima `Etate` e, al foras del parva villajo de Nov’ Esperantia, la juvene Valerio, post haver finido suas lavores in la ferma familiar, ha ido ad explorar al foresta vicina a sua domo, cognida quomo La Silva Magica. | Il era la anno 531 del Quarta `Etate` e, al foras del parva villajo de Nov' Esperantia, la juvĕne Valerio, post havere finido suas lavores in la ferma familiare, vadeva ad explorare al foresta vicina a sua domo, cognida quomo La Silva Magĭca. |
+| Il ha sido la anno 531 del Quattesima `Etate` e, al foras del parva villajo de Nov’ Esperantia, la juvene Valerio, post haver finido suas lavores in la ferma familiar, ha ido ad explorar al foresta vicina a sua domo, cognida quomo La Silva Magica. | Il era la anno 531 del Quarta `Etate` e, al foras del parva villajo de Nov' Esperantia, la juvĕne Valerio, post havere finito suas lavores in la ferma familiare, vadeva ad explorare al foresta vicina a sua domo, cognita quomo La Silva Magĭca. |
+|  | |
 
