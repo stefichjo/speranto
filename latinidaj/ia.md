@@ -3529,6 +3529,6 @@ Notes:
 
 | 🌐 | 🎵 |
 |-|-|
-| Il ha sido la anno 531 del Quattesima `Etate` e, al foras del parva villajo de Nov’ Esperantia, la juvene Valerio, post haver finido suas lavores in la ferma familiar, ha ido ad explorar al foresta vicina a sua domo, cognida quomo La Silva Magica. | Il era la anno 531 del Quarta `Etate` e, al foras del parva villajo de Nov' Esperantia, la juvĕne Valerio, post havere finito suas lavores in la ferma familiare, vadeva ad explorare al foresta vicina a sua domo, cognita quomo La Silva Magĭca. |
-|  | |
+| Il ha sido la anno 531 del Quattesima `Etate` e, al foras del parva villajo de Nov’ Esperantia, la juvene Valerio, post haver finido suas lavores in la ferma familiar, ha ido ad explorar al foresta vicina a sua domo, cognida quomo La Silva Magica. | Il era la anno 531 del Quarta `Etate` e, âs foras del parva villajo de Nov' Esperantia, la juvĕne Valerio, post havér finito suas labores in la ferma familiare, vadeva ad explorare âl foresta vicina a sua domo, cognita quomo La Silva Magĭca. |
+| | |
 
