@@ -3504,3 +3504,12 @@ Notes:
 <!-- prehendere prendere prendêr -->
 
 
+# Ekzemploj
+
+## [La Silva Magica](#https://eduardoortegagonzalez.com/2024/02/03/le-silva-magic-i-conto-in-interlingua/)
+*("Le Silva Magic" de Eduardo Ortega González)*
+
+**La Silva Magica (I) – La incontro con Farralar**
+
+Il ha sido la anno 531 del Quattesima `Etate` e, al foras del parva villajo de Nov’ Esperantia, la juvene Valerio, post haver finido suas lavores in la ferma familiar, ha ido ad explorar al foresta vicina a sua domo, cognida quomo La Silva Magica.
+
