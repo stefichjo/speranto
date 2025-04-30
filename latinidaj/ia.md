@@ -17,10 +17,22 @@ revealOptions:
 
 <small>**Lingua Internationale** baziĝas sur **Lingua** kaj ĝiaj [dialektoj](../speranto.md).</small>
 
+<!-- TODO illi → isti, quilli → quelli → questi -->
+
+<!-- 
+ŝi(j) illa(s)
+li(j) ille(s)
+ĝi(j) illo(s)
+ri(j) illu(s)
+ -->
+
 <!-- TODO saper sapiente sapia -->
 <!-- TODO facer faciente facia, sufficer sufficiente sufficia -->
 <!-- TODO capir capiente capa?, recipir recipiente recipa? -->
 <!-- TODO haver havente havia OK -->
+
+<!-- TODO posso potes pote..., possa -->
+<!-- TODO trago trahes, trahe.., traga -->
 
 <!--v-->
 
