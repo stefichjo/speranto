@@ -17,15 +17,6 @@ revealOptions:
 
 <small>**Lingua Internationale** baziĝas sur **Lingua** kaj ĝiaj [dialektoj](../speranto.md).</small>
 
-<!-- TODO illi → isti, quilli → quelli → questi -->
-
-<!-- 
-ŝi(j) illa(s)
-li(j) ille(s)
-ĝi(j) illo(s)
-ri(j) illu(s)
- -->
-
 <!-- TODO saper sapiente sapia -->
 <!-- TODO facer faciente facia, sufficer sufficiente sufficia -->
 <!-- TODO capir capiente capa?, recipir recipiente recipa? -->
@@ -59,7 +50,7 @@ ri(j) illu(s)
 
 | | |
 |-|-|
-| *trajno* | traino <small>trâino, trağino</small> |
+| *trajno* | traino <small>trâino <small>trağino</small></small> |
 | | |
 
 <small>En **Lingua Auxiliar**, la supersignoj, kiuj indikas elizion, ne skribiĝas.</small>
@@ -73,7 +64,7 @@ ri(j) illu(s)
 | *ami* | amar <small>amare, 🎵 amár</small> |
 | | |
 
-<small>En **Lingua Internationale**, la vokalo *-e* elizieblas malantaŭ dentala konsonanto (*c*, *d*, *l*, *n*, *r*, *s*, *t*), ekzemple en poezio.</small>
+<small>En **Lingua Internationale**, la vokalo *-e* elizieblas malantaŭ akcentata silabo kun dentala konsonanto (*c*, *d*, *l*, *n*, *r*, *s*, *t*), ekzemple en poezio.</small>
 
 <small>En **Lingua Auxiliar**, tiu elizio estas deviga.</small>
 
@@ -130,10 +121,11 @@ ri(j) illu(s)
 
 | | |
 |-|-|
-| *dubi*   | duvidar <small>dubitare *[duvitare]*  🔊 *[dubitare]*</small>  <small>🌎 dubitar</small> |
-| *havi*   | haver   <small>habere   *[avere]*     🔊 *[habere]*</small>    <small>🌎 haber</small>   |
-| *labori* | lavorar <small>laborare *[lavorare]*  🔊 *[laborare]*</small>  <small>🌎 laborar</small> |
-| *skribi* | scriver <small>scribĕre *[skrive-re]* 🔊 *[skribe-re]*</small> <small>🌎 scriber</small> |
+| *devi*   | dever   <small>debere   *[devere]*    🔊 *[debere]*,    🌎 dubitar</small> |
+| *dubi*   | duvidar <small>dubitare *[duvitare]*  🔊 *[dubitare]*,  🌎 dubitar</small> |
+| *havi*   | haver   <small>habere   *[avere]*     🔊 *[habere]*,    🌎 haber</small>   |
+| *labori* | lavorar <small>laborare *[lavorare]*  🔊 *[laborare]*,  🌎 laborar</small> |
+| *skribi* | scriver <small>scribĕre *[skrive-re]* 🔊 *[skribe-re]*, 🌎 scriber</small> |
 | | |
 
 <small>**Tra bruo**, radikofina postvokala *b* *[v]* estas prononcata *[b]*.</small>
@@ -159,9 +151,9 @@ ri(j) illu(s)
 
 | | |
 |-|-|
-| *limo*  | lime <small>🎵 limĭte</small> <small>🌎 limite</small> |
-| *nomo*  | nome <small>🎵 nomĭne</small> <small>🌎 nomine</small> |
-| *tempo* | tempo <small>🎵 tempŏre</small> <small>🌎 tempore</small> |
+| *limo*  | lime <small>🎵 limĭte, 🌎 limite</small> |
+| *nomo*  | nome <small>🎵 nomĭne, 🌎 nomine</small> |
+| *tempo* | tempo <small>🎵 tempŏre, 🌎 tempore</small> |
 | | |
 
 <small>En poezio, neakcentataj ŝajnfinaĵoj el **Lingua Classĭca** estas reteneblaj.</small>
@@ -186,7 +178,7 @@ ri(j) illu(s)
 | *delikata* | delicata <small>🌎 delicate</small> |
 | *malgranda* | parva`?` <small>🌎 parve</small> |
 | | |
-| *klasika* | classica <small>classĭca 🌎 classic</small> |
+| *klasika* | classica <small>classĭca, 🌎 classic</small> |
 | *usona* | americana <small>🌎 american</small> |
 | | |
 
@@ -210,7 +202,7 @@ ri(j) illu(s)
 
 | | |
 |-|-|
-| *belaj montoj* | montes bella <small>montes bellas</small> <small>🌎 montes belle</small> |
+| *belaj montoj* | montes bella <small>montes bellas, 🌎 montes belle</small> |
 | | |
 
 <!--v-->
@@ -237,7 +229,7 @@ ri(j) illu(s)
 | *bone* | ben <small>bene</small> |
 | | |
 
-<small>La adverba formo de *bona* estas malregula: *ben* <small>bene</small>.</small>
+<small>La adverba formo de *bona* estas malregula: *ben* <small>bene</small></small>
 
 <!--v-->
 
@@ -249,6 +241,7 @@ ri(j) illu(s)
 | | |
 
 <small>Adverboj, kiuj priskribas subfrazojn, estas formataj pere de la finaĵo -*o*.</small>
+<!-- TODO Ĉarma, sed ne plentrafa klarigo/priskribo. -->
 
 <!--v-->
 
@@ -271,33 +264,23 @@ ri(j) illu(s)
 
 <!--v-->
 
-|           | *ki-* | *ti-* | *ĉi-* |
-|-|-|-|-|
-| ***-u***  | qui   | illi  | omni  |
-| ***-o***  | que   | ille  | omne  |
-| ***-a***  | qua   | illa  | omna  |
-| ***-el*** | quo   | illo  | omno  |
-| | | | |
-
-<!-- TODO "un-" ne estas (necese) tabelvorta radiko → speranto.md -->
+|           | *ki-* | *ti-* | *ĉi-* | *neni-* |
+|-|-|-|-|-|
+| ***-u***  | qui   | esti  | omni  | nilli   |
+| ***-o***  | que   | este  | omne  | nille   |
+| ***-a***  | qua   | esta  | omna  | nilla   |
+| ***-el*** | quo   | esto  | omno  | nillo   |
+| | | | | |
 
 <!--v-->
 
-|           | *ĉi ti-* | *neni-* |
-|-|-|-|
-| ***-u***  | quilli   | nilli   |
-| ***-o***  | quille   | nille   |
-| ***-a***  | quilla   | nilla   |
-| ***-el*** | quillo   | nillo   |
-| | | |
-
-<!-- TODO povas samsignifi al *i-* kaj *ĉi-* respektive. -->
-<!-- TODO uvi-que (ubique), quando-que = sempre -->
-<!-- TODO qual tal -->
-<!-- TODO aliqui (alicuno), alicuvi (alicubi) -->
-<!-- TODO nemo = nilli -->
-<!-- TODO uvi-c-un-que → uv-un-que -->
-<!-- TODO ali-, -que → speranto.md -->
+|           | *ĉi ti-* |
+|-|-|
+| ***-u***  | questi   |
+| ***-o***  | queste   |
+| ***-a***  | questa   |
+| ***-el*** | questo   |
+| | |
 
 <!--v-->
 
@@ -309,20 +292,14 @@ ri(j) illu(s)
 | ***-el*** | ali-quo | un-quo   | quo-unque |
 | | | | |
 
-<!-- TODO iu ajn = kiu ajn -->
-
 <!--v-->
 
 | | *ki-* | *ti-* |
 |-|-|-|
-| ***-u*** | qui | illi |
+| ***-u*** | qui | esti |
 | | | |
-| ***-u ...*** | qui <small>quale</small> | illi <small>tale</small> |
+| ***-u ...*** | qui <small>qual <small>quale</small></small> | esti <small>tal <small>tale</small></small> |
 | | | |
-
-<!-- TODO origine priskribita kiel origine -a, sed eble ja fakte -u.
-→ speranto.md
--->
 
 <!--v-->
 
@@ -337,13 +314,13 @@ ri(j) illu(s)
 
 | | *ki-* | *(ĉi) ti-* |
 |-|-|-|
-| ***-el*** | quo | illo |
+| ***-el*** | quo | esto |
 | | | |
-| ***-e***  | quo <small>uvi</small>    | illo <small>ivi</small>     |
-| ***-am*** | quo <small>quando</small> | illo <small>nunc`?`</small> |
-| ***-om*** | quo <small>quanto</small> | illo <small>tanto</small>   |
-| ***-al*** | quo <small>quare</small>  | illo <small>tare/care`?`</small>  |
-| ***-el*** | quo <small>quomo</small>  | illo <small>sic`?`</small>  |
+| ***-e***  | quo <small>uvi</small>    | esto <small>ivi</small>     |
+| ***-am*** | quo <small>quando</small> | esto <small>nunc`?`</small> |
+| ***-om*** | quo <small>quanto</small> | esto <small>tanto</small>   |
+| ***-al*** | quo <small>quare</small>  | esto <small>tare/care`?`</small>  |
+| ***-el*** | quo <small>quomo</small>  | esto <small>sic`?`</small>  |
 | | | |
 
 Notes:
@@ -353,14 +330,27 @@ Notes:
 
 | | *ki-* | *ĉi-* |
 |-|-|-|
-| ***-e***  | quo <small>uvi</small>    | omno <small>uvi-que</small>             |
-| ***-am*** | quo <small>quando</small> | omno <small>quando-que = sempre</small> |
+| ***-e***  | quo <small>uvi</small>    | omno <small>uvi-que, 🌎 ubique</small>             |
+| ***-am*** | quo <small>quando</small> | omno <small>quando-que <small>sempre</small>, 🌎 sempre</small> |
 | | | |
 
-<!-- TODO uvi-que, quanto-que, quando-que = sempre, quomo-que, quare-que -->
+<!--v-->
 
-<!-- TODO ĉiam (dum ĉio), ĉie (ĉe ĉio) -->
-<!-- TODO quia/quea (quius) -->
+| | |
+|-|-|
+| *neniu* | nilli <small>nemo, 🌎 nemo</small> |
+| | |
+
+
+<!-- TODO illi → esti → speranto.md -->
+<!-- TODO "un-" ne estas (necese) tabelvorta radiko → speranto.md -->
+<!-- TODO ali-, -que → speranto.md -->
+<!-- TODO qual origine priskribita kiel origine -a, sed eble ja fakte -u.
+→ speranto.md
+-->
+
+<!-- TODO "ajn" povas samsignifi al *i-* kaj *ĉi-* respektive. -->
+<!-- TODO iu ajn = kiu ajn -->
 <!-- TODO ad quo = quo -->
 
 <!--v-->
@@ -371,9 +361,9 @@ Notes:
 
 | | |
 |-|-|
-| *la* | la <small>la(s)</small> <small>🌎 le</small>   |
+| *la* | la <small>la(s)🌎 le</small>   |
 | | |
-| *-*  | una <small>una(s)</small> <small>🌎 un</small> |
+| *-*  | una <small>una(s), 🌎 un</small> |
 | | |
 
 <!--v-->
@@ -397,15 +387,36 @@ Notes:
 
 | | |
 |-|-|
-| *ŝi* *(ili)* | elle(s) <small>🌎 illa(s)</small> |
-| *li* *(ili)* | olle(s) <small>🌎 ille(s)</small> |
-| *ri* *(ili)* | ulle(s) |
+| *li* *(ili)* | elle(s) <small>🌎 ille(s)</small> |
+| *ŝi* *(ili)* | ella(s) <small>🌎 illa(s)</small> |
+| *ĝi* *(ili)* | ello(s) <small>🌎 illo(s)</small> |
+| *ri* *(ili)* | ellu(s) |
 | | |
-| *ĝi* *(ili)* | le(s) <small>🌎 illo(s)</small> |
+| *li/ŝi/ĝi/ri* *(ili)* | elli(s) |
 | | |
 
 <!-- TODO simile en la dialekta kontinuo, laŭ la formato -->
 <!-- TODO de-formoj -->
+
+<!--v-->
+
+| | |
+|-|-|
+| *mi donas ĝin al -i* | eo li-lo da. <small>🌎 io lo da a ille/a/o(s).</small> |
+| | |
+
+<small>= eo da ello a elli(s).</small>
+
+<!-- 
+TODO Kandidatiĝas "elli(s)" kiel bazo por difina artikolo.
+li - elli = -i
+le - elle = li
+la - ella = ŝi
+lo - ello = ĝi
+lu - ellu = ri
+
+el mano - li manos, el mar - li mares, el amico, li amicos, el nocte - li noctes, el rosa - li rosas
+-->
 
 <!--v-->
 
@@ -439,7 +450,7 @@ Notes:
 | | |
 |-|-|
 | *krei* | crear <small>creare</small> |
-| *kreita* | creada <small>creata</small> <small>🌎 create</small> |
+| *kreita* | creada <small>creata, 🌎 create</small> |
 | | |
 
 <!--v-->
@@ -455,8 +466,8 @@ Notes:
 
 | | |
 |-|-|
-| *estas kreinta* | ha creado <small>hâ creato</small> <small>🌎 ha create</small> |
-| *estas veninta* | ha venido <small>ês venita</small> <small>🌎 ha venite</small> |
+| *estas kreinta* | ha creado <small>hâ creato, 🌎 ha create</small> |
+| *estas veninta* | ha venido <small>ês venita, 🌎 ha venite</small> |
 | | |
 
 <!--v-->
@@ -464,9 +475,9 @@ Notes:
 | | |
 |-|-|
 | *kreas* | crea |
-| *kreis* | ha creado <small>creava</small> <small>🌎 creava → ha create</small> |
-| *kreintas* | ha creado <small>creáu</small> <small>🌎 ha create</small> |
-| *kreos* | va a crear <small>creará</small> <small>🌎 creara → va crear</small> |
+| *kreis* | ha creado <small>creava, 🌎 creava → ha create</small> |
+| *kreintas* | ha creado <small>creáu, 🌎 ha create</small> |
+| *kreos* | va a crear <small>creará, 🌎 creara → va crear</small> |
 | | |
 
 <!--v-->
@@ -476,16 +487,16 @@ Notes:
 | *kreu(j)!* | crea(d)! <small>crea(te)!</small> |
 | | |
 | *(ke) kreu* | crea <small>cree</small> |
-| *(se/do) kreus* | crea <small>creâsse/crearía</small> <small>🌎 crearea</small> |
+| *(se/do) kreus* | crea <small>creâsse/crearía, 🌎 crearea</small> |
 | | |
 
 <!--v-->
 
 | | |
 |-|-|
-| *irintas* | ha ido <small>vadéu</small> <small>🌎 ha ite</small> |
+| *irintas* | ha ido <small>vadéu, 🌎 ha ite</small> |
 | | |
-| *estas irinta* | ha ido <small>ês ita</small> <small>🌎 ha ite</small> |
+| *estas irinta* | ha ido <small>ês ita, 🌎 ha ite</small> |
 | | |
 
 <!-- TODO era - esseva -->
