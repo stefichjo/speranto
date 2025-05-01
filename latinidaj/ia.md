@@ -368,6 +368,11 @@ Notes:
 
 <!-- TODO li petra<small>el petra</small>, li petras -->
 
+<!-- TODO possibilidades: -->
+<!-- la petra - las petras -->
+<!-- le petra - les petras -->
+<!-- el petra - li petras (auxiliar: li petra) -->
+
 <!--v-->
 
 ## Pronomoj
