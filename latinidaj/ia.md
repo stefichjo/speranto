@@ -361,10 +361,12 @@ Notes:
 
 | | |
 |-|-|
-| *la* | la <small>la(s)🌎 le</small>   |
+| *la* | li <small>🌎 le</small>   |
 | | |
 | *-*  | una <small>una(s), 🌎 un</small> |
 | | |
+
+<!-- TODO li petra<small>el petra</small>, li petras -->
 
 <!--v-->
 
@@ -406,17 +408,6 @@ Notes:
 | | |
 
 <small>= eo da ello a elli(s).</small>
-
-<!-- 
-TODO Kandidatiĝas "elli(s)" kiel bazo por difina artikolo.
-li - elli = -i
-le - elle = li
-la - ella = ŝi
-lo - ello = ĝi
-lu - ellu = ri
-
-el mano - li manos, el mar - li mares, el amico, li amicos, el nocte - li noctes, el rosa - li rosas
--->
 
 <!--v-->
 
