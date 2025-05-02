@@ -3551,13 +3551,15 @@ Notes:
 
 # Ekzemploj
 
-## [La Silva Magica](#https://eduardoortegagonzalez.com/2024/02/03/le-silva-magic-i-conto-in-interlingua/)
+## [La Silva Magica](https://eduardoortegagonzalez.com/2024/02/03/le-silva-magic-i-conto-in-interlingua/)
 *("Le Silva Magic" de Eduardo Ortega González)*
 
 **Le Silva Magica (I) – Le incontro con Farralar**
 
 | 🌐 | 🎵 |
 |-|-|
-| Ha sido le anno 531 del Quattesima `Etate` e, al foras del parva villajo de Nov' Esperantia, le juvene Valerio, post haver finido suas lavores nel ferma familiar, ha ido ad explorar al foresta vicina a sua domo, cognida quomo Le Silva Magica. | Era le anno 531 del Quarta `Etate` e, âs foras del parva villajo de Nov' Esperantia, le juvĕne Valerio, post havér finito suas labores nêl ferma familiare, vadeva ad explorare âl foresta vicina a sua domo, cognita quomo Le Silva Magĭca. |
-|  | |
+| Ha sido le anno 531 del Quattesima `Etate` e, al foras del parva villajo de Nova Sperantia, le juvene Valerio, post haver finido suas lavores nel ferma familiar, ha ido ad explorar al foresta vicina a sua domo, cognida quomo Le Silva Magica. | Era le anno 531 del Quarta `Etate` e, âs foras del parva villajo de Nova Sperantia, le juvĕne Valerio, post havér finito suas labores nêl ferma familiare, vadeva ad explorare âl foresta vicina a sua domo, cognita quomo Le Silva Magĭca. |
+| In Nova Sperantia, le gente ha dicido que le foresta ha sido incantada, `nam` ello ha sido populada per ali-qui populos `feerica` ante le establimento del novasperantianos. | In Nova Sperantia, le gente diceva que le foresta fuêsse incantata, `nam` ello habeva sito populata per ali-quis populos `feericas` ante le establimento del novasperantianos. |
+
+<!-- TODO `quis` konfliktas. -->
 
