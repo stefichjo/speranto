@@ -91,10 +91,10 @@ revealOptions:
 
 | | |
 |-|-|
-| *piedo* | pe <small>pede, 🎵 pê</small> |
+| *piedo*  | pe  <small>pede, 🎵 pêd *[pe]*</small> |
 | *piedoj* | pes <small>pedes</small> |
 | | |
-| *reto* | red <small>rete, 🎵 rêd</small> |
+| *reto*  | red   <small>rete, 🎵 rêt *[red]*</small> |
 | *retoj* | redes <small>retes</small> |
 | | |
 
@@ -121,14 +121,35 @@ revealOptions:
 
 | | |
 |-|-|
+| *kreita* | creada *[kreada]* <small>creata 🔊 *[kreata]*, 🌎 create</small> |
+| *flanko* | lado   *[lado]*   <small>lato   🔊 *[lato]*,   🌎 latere</small> |
+| | |
+| *kreâjo* | creatura |
+| *flanka* | lateral  |
+| | |
+
+<small>**Tra bruo**, radikofina postvokala *t* *[d]* estas prononcata *[t]* en participoj.</small>
+
+<!-- TODO Aparte mencii ĉiujn esceptojn pri grekaj vortoj. Phase. Planeta. Philosophia. -->
+<!-- TODO Misgvida vortigo. -->
+
+<!--v-->
+
+| | |
+|-|-|
 | *devi*   | dever   <small>debere   *[devere]*    🔊 *[debere]*,    🌎 dubitar</small> |
-| *dubi*   | duvidar <small>dubitare *[duvitare]*  🔊 *[dubitare]*,  🌎 dubitar</small> |
+| *dubi*   | duvidar <small>dubitare *[duvidare]*  🔊 *[dubitare]*,  🌎 dubitar</small> |
 | *havi*   | haver   <small>habere   *[avere]*     🔊 *[habere]*,    🌎 haber</small>   |
 | *labori* | lavorar <small>laborare *[lavorare]*  🔊 *[laborare]*,  🌎 laborar</small> |
+| *provi*  | provar  <small>probare  *[provare]*   🔊 *[probare]*,   🌎 probar</small>  |
 | *skribi* | scriver <small>scribĕre *[skrive-re]* 🔊 *[skribe-re]*, 🌎 scriber</small> |
 | | |
 
-<small>**Tra bruo**, radikofina postvokala *b* *[v]* estas prononcata *[b]*.</small>
+<small>**Tra bruo**, radikofina postvokala *b* *[v]* estas prononcata *[b]* en verboj.</small>
+
+<!-- TODO Ĉu nur en verboj? -->
+<!-- TODO La "v" en "lavorare" ne estas tiom "radikofina". -->
+<!-- TODO Misgvida vortigo. -->
 
 <!--v-->
 
@@ -138,10 +159,10 @@ revealOptions:
 
 | | |
 |-|-|
-| *amikino(j)* | amica(s) |
-| *frukto(j)* | fructo(s) |
-| *patro(j)* | patre(s) |
-| *planto(j)* | planta(s) |
+| *amikino(j)*  | amica(s) |
+| *frukto(j)*   | fructo(s) |
+| *patro(j)*    | patre(s) |
+| *planto(j)*   | planta(s) |
 | *studento(j)* | studente(s) |
 | | |
 | *generacio(j)* | generation(es) <small>generatione(s)</small> |
@@ -160,15 +181,6 @@ revealOptions:
 
 <!--v-->
 
-| | |
-|-|-|
-| *fazo* | phase |
-| | |
-
-<small>En grekaj vortoj, -*e* ne eliziiĝas.</small>
-
-<!--v-->
-
 ## Adjektivoj
 
 <!--v-->
@@ -179,19 +191,7 @@ revealOptions:
 | *malgranda* | parva`?` <small>🌎 parve</small> |
 | | |
 | *klasika* | classica <small>classĭca, 🌎 classic</small> |
-| *usona* | americana <small>🌎 american</small> |
 | | |
-
-<!--v-->
-
-| | |
-|-|-|
-| *natura* | natural <small>naturale</small> |
-| *stela* | stellar <small>stellare</small> |
-| | |
-| *universitato* | universidad <small>universitate</small> |
-| | |
-
 
 <!-- TODO par -->
 <!-- TODO bon -->
@@ -361,17 +361,12 @@ Notes:
 
 | | |
 |-|-|
-| *la* | li <small>🌎 le</small>   |
+| *la* | le <small>le(s) |
 | | |
-| *-*  | una <small>una(s), 🌎 un</small> |
+| *-*  | un <small>une(s) |
 | | |
 
-<!-- TODO li petra<small>el petra</small>, li petras -->
-
-<!-- TODO possibilidades: -->
-<!-- la petra - las petras -->
-<!-- le petra - les petras -->
-<!-- el petra - li petras (auxiliar: li petra) -->
+<!-- TODO les unes e les alteres -->
 
 <!--v-->
 
@@ -399,9 +394,11 @@ Notes:
 | *ĝi* *(ili)* | ello(s) <small>🌎 illo(s)</small> |
 | *ri* *(ili)* | ellu(s) |
 | | |
-| *li/ŝi/ĝi/ri* *(ili)* | elli(s) |
+| *li/ŝi/ĝi/ri* *(ili)* | elli |
 | | |
 
+<!-- TODO "elli" estas evitinda. ? -->
+<!-- TODO la enklita formo "li" de "elli" estas uzata nur por la dativo. -->
 <!-- TODO simile en la dialekta kontinuo, laŭ la formato -->
 <!-- TODO de-formoj -->
 
@@ -411,8 +408,6 @@ Notes:
 |-|-|
 | *mi donas ĝin al -i* | eo li-lo da. <small>🌎 io lo da a ille/a/o(s).</small> |
 | | |
-
-<small>= eo da ello a elli(s).</small>
 
 <!--v-->
 
@@ -3559,10 +3554,10 @@ Notes:
 ## [La Silva Magica](#https://eduardoortegagonzalez.com/2024/02/03/le-silva-magic-i-conto-in-interlingua/)
 *("Le Silva Magic" de Eduardo Ortega González)*
 
-**La Silva Magica (I) – La incontro con Farralar**
+**Le Silva Magica (I) – Le incontro con Farralar**
 
 | 🌐 | 🎵 |
 |-|-|
-| Il ha sido la anno 531 del Quattesima `Etate` e, al foras del parva villajo de Nov’ Esperantia, la juvene Valerio, post haver finido suas lavores in la ferma familiar, ha ido ad explorar al foresta vicina a sua domo, cognida quomo La Silva Magica. | Il era la anno 531 del Quarta `Etate` e, âs foras del parva villajo de Nov' Esperantia, la juvĕne Valerio, post havér finito suas labores in la ferma familiare, vadeva ad explorare âl foresta vicina a sua domo, cognita quomo La Silva Magĭca. |
+| Ha sido le anno 531 del Quattesima `Etate` e, al foras del parva villajo de Nov' Esperantia, le juvene Valerio, post haver finido suas lavores nel ferma familiar, ha ido ad explorar al foresta vicina a sua domo, cognida quomo Le Silva Magica. | Era le anno 531 del Quarta `Etate` e, âs foras del parva villajo de Nov' Esperantia, le juvĕne Valerio, post havér finito suas labores nêl ferma familiare, vadeva ad explorare âl foresta vicina a sua domo, cognita quomo Le Silva Magĭca. |
 |  | |
 
