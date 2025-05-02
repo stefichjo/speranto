@@ -260,6 +260,36 @@ revealOptions:
 
 <!--v-->
 
+| | | |
+|-|-|-|
+| un   <small>uno</small>     | unesima <small>prima</small>    | - |
+| du   <small>duo</small>     | duesima <small>secunda</small>  | venti     |
+| tri             |             triesima <small>terça</small>   | trenta    |
+| quar <small>quattre</small> | quaresima <small>quarta</small> | quarenta  |
+| quin <small>cinque</small>  | quinesima <small>quinta</small> | cinquenta |
+| sex             |             sexesima <small>sexta</small>   | sexenta   |
+| sep  <small>septe</small>   | sepesima <small>septĭma</small> | septenta  |
+| oc   <small>octe</small>    | oqŭesima <small>octava</small>  | octenta   |
+| nou  <small>nove</small>    | nouesima <small>nona</small>    | noventa   |
+| deç  <small>dece</small>    | decesima <small>decĭma</small>  | - |
+| | | |
+
+Notes:
+* oquesima *[okezi-ma]*
+
+<!-- TODO sexe? -->
+<!-- TODO venti? -->
+
+<!--v-->
+
+| | |
+|-|-|
+| cent <small>cento</small> | centesima |
+| mill <small>mille</small> | millesima |
+| | |
+
+<!--v-->
+
 ## Tabelvortoj
 
 <!--v-->
@@ -3558,8 +3588,9 @@ Notes:
 
 | 🌐 | 🎵 |
 |-|-|
-| Ha sido le anno 531 del Quattesima `Etate` e, al foras del parva villajo de Nova Sperantia, le juvene Valerio, post haver finido suas lavores nel ferma familiar, ha ido ad explorar al foresta vicina a sua domo, cognida quomo Le Silva Magica. | Era le anno 531 del Quarta `Etate` e, âs foras del parva villajo de Nova Sperantia, le juvĕne Valerio, post havér finito suas labores nêl ferma familiare, vadeva ad explorare âl foresta vicina a sua domo, cognita quomo Le Silva Magĭca. |
-| In Nova Sperantia, le gente ha dicido que le foresta ha sido incantada, `nam` ello ha sido populada per ali-qui populos `feerica` ante le establimento del novasperantianos. | In Nova Sperantia, le gente diceva que le foresta fuêsse incantata, `nam` ello habeva sito populata per ali-quis populos `feericas` ante le establimento del novasperantianos. |
+| Ha sido le anno 531 del Quarta `Etate` e, al foras del parva villajo de Nova Sperantia, le juvene Valerio, post haver finido suas lavores nel ferma familiar, ha ido ad explorar al foresta vicina a sua domo, cognida quomo Le Silva Magica. | Era le anno 531 del Quarta `Etate` e, âs foras del parva villajo de Nova Sperantia, le juvĕne Valerio, post havér finito suas labores nêl ferma familiare, vadeva ad explorare âl foresta vicina a sua domo, cognita quomo Le Silva Magĭca. |
+| In Nova Sperantia, le gente ha dicido que le foresta ha sido incantada, nam ello ha sido populada per ali-qui populos `feerica` ante le establimento del novasperantianos. | In Nova Sperantia, le gente diceva que le foresta fuêsse incantata, nam ello habeva sito populata per ali-quis populos `feericas` ante le establimento del novasperantianos. |
+| Le majoridad del casas e  | |
 
 <!-- TODO `quis` konfliktas. -->
 
