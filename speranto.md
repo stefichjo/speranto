@@ -2378,12 +2378,12 @@ Tra bruo, la prepozicio **a** uziĝas por la indiki la rektan objekton. (Tiam uz
 | Esperanto | Intermediaria |
 |-|-|
 | avantaĝo | **avantâjo** <small>**avantat̯jc̆o**</small> *[avantaĵo]* <small>*[avantađi-o]*</small> |
-| formaĝo | **formâjo** <small>**format̯jc̆o**</small> *[formaĵo]* <small>*[formađi-o]*</small> |
-| kuraĝo | **corâjo** <small>**corat̯jc̆o**</small> *[koraĵo]* <small>*[korađi-o]*</small> |
-| mesaĝo | **missâjo** <small>**missat̯jc̆o**</small> *[misaĵo]* <small>*[misađi-o]*</small> |
-| pejzaĝo | **paesâjo** <small>**pağen̆sat̯jc̆o**</small> *[paezaĵo]* <small>*[paezađi-o]*</small> |
-| vilaĝo | **villâjo** <small>**villat̯jc̆o**</small> *[vilaĵo]* <small>*[vilađi-o]*</small> |
-| vojaĝo | **viâjo** <small>**viat̯jc̆o**</small> *[viaĵo]* <small>*[viađi-o]*</small> |
+| formaĝo  | **formâjo**  <small>**format̯jc̆o**</small> *[formaĵo]* <small>*[formađi-o]*</small> |
+| kuraĝo   | **corâjo**   <small>**corat̯jc̆o**</small> *[koraĵo]* <small>*[korađi-o]*</small> |
+| mesaĝo   | **missâjo**  <small>**missat̯jc̆o**</small> *[misaĵo]* <small>*[misađi-o]*</small> |
+| pejzaĝo  | **paesâjo**  <small>**pağen̆sat̯jc̆o**</small> *[paezaĵo]* <small>*[paezađi-o]*</small> |
+| vilaĝo   | **villâjo**  <small>**villat̯jc̆o**</small> *[vilaĵo]* <small>*[vilađi-o]*</small> |
+| vojaĝo   | **viâjo**    <small>**viat̯jc̆o**</small> *[viaĵo]* <small>*[viađi-o]*</small> |
 
 <!--v-->
 
@@ -2395,7 +2395,7 @@ Tra bruo, la prepozicio **a** uziĝas por la indiki la rektan objekton. (Tiam uz
 
 | Esperanto | Intermediaria |
 |-|-|
-| hospitalo | **hotêlo** <small>**hos̆p̆ĭtello**</small> |
+| hospitalo   | **hotêlo** <small>**hos̆p̆ĭtello**</small> |
 | posttagmezo | **po-meridio** <small>**pos̆-meridio**</small> |
 
 <!--v-->
@@ -2424,6 +2424,8 @@ Tra bruo, la prepozicio **a** uziĝas por la indiki la rektan objekton. (Tiam uz
 | probabla | **probâbil** *[probabil]* |
 | stabila | **stâbil** *[stabil]* |
 
+<!-- TODO Eĉ ne estas "provâbil", do verŝajne temas vere pri fenomeno de verbaj radikoj. -->
+
 <!--v-->
 
 ## Substantivoj
@@ -2447,10 +2449,10 @@ Tra bruo, la prepozicio **a** uziĝas por la indiki la rektan objekton. (Tiam uz
 
 | Esperanto | Intermediaria |
 |-|-|
-| alte | **altamente** <small>**alto**</small> |
+| alte  | **altamente**  <small>**alto**</small> |
 | certe | **certamente** <small>**certo**</small> |
 | klare | **claramente** <small>**claro**</small> |
-| nur | **solamente** <small>**solo**</small> |
+| nur   | **solamente**  <small>**solo**</small> |
 | | |
 | plu | **mâis** <small>**mağis**</small> |
 
@@ -2472,9 +2474,9 @@ Tra bruo, la prepozicio **a** uziĝas por la indiki la rektan objekton. (Tiam uz
 
 | Esperanto | Intermediaria |
 |-|-|
-| unu | **un** <small>**uno**</small> |
-| du | **du** <small>**duo**</small> |
-| tri | **tri** <small>**tres**</small> |
+| unu  | **un** <small>**uno**</small> |
+| du   | **du** <small>**duo**</small> |
+| tri  | **tri** <small>**tres**</small> |
 | kvar | **quatt** <small>**quattro**</small> |
 | kvin | **cinc** <small>**cinque**</small> |
 
@@ -2484,9 +2486,9 @@ Tra bruo, la prepozicio **a** uziĝas por la indiki la rektan objekton. (Tiam uz
 |-|-|
 | ses | **sex** |
 | sep | **sep** <small>**septe**</small> |
-| ok | **oc** <small>**octo**</small> |
+| ok  | **oc**  <small>**octo**</small> |
 | naŭ | **nou** <small>**nove**</small> |
-| dek | **dec** <small>**dece**</small> |
+| dek | **deç** <small>**dece**</small> |
 
 <!--v-->
 
@@ -2496,9 +2498,9 @@ Tra bruo, la prepozicio **a** uziĝas por la indiki la rektan objekton. (Tiam uz
 
 | Esperanto | Intermediaria |
 |-|-|
-| unua | **unesĭma** <small>**prima**</small> |
-| dua | **duesĭma** <small>**secunda**</small> |
-| tria | **triesĭma** <small>**treesĭma**, **tertia**</small> |
+| unua  | **unesĭma** <small>**prima**</small> |
+| dua   | **duesĭma** <small>**secunda**</small> |
+| tria  | **triesĭma** <small>**treesĭma**, **tertia**</small> |
 | kvara | **quattesĭma** <small>**quattresĭma**, **quarta**</small> |
 | kvina | **cincesĭma** <small>**cinquesĭma**, **quinta**</small> |
 
@@ -2508,7 +2510,7 @@ Tra bruo, la prepozicio **a** uziĝas por la indiki la rektan objekton. (Tiam uz
 |-|-|
 | sesa | **sexesĭma** <small>**sexta**</small> |
 | sepa | **sepesĭma** <small>**septesĭma**, **septĭma**</small> |
-| oka | **ocesĭma** <small>**octesĭma**, **octava**</small> |
+| oka  | **ocesĭma** <small>**octesĭma**, **octava**</small> |
 | naŭa | **nouesĭma** <small>**novesĭma**, **nona**</small> |
 | deka | **decesĭma** <small>**decĭma**</small> |
 
@@ -2527,14 +2529,14 @@ Tra bruo, la prepozicio **a** uziĝas por la indiki la rektan objekton. (Tiam uz
 
 | Esperanto | Intermediaria |
 |-|-|
-| dudek | **duanta** |
-| tridek | **trianta** <small>**treanta**</small> |
+| dudek   | **duanta** |
+| tridek  | **trianta** <small>**treanta**</small> |
 | kvardek | **quattanta** <small>**quattranta**</small> |
 | kvindek | **cincanta** <small>**cinquanta**</small> |
-| sesdek | **sexanta** |
-| sepdek | **sepanta** <small>**septanta**</small> |
-| okdek | **ocanta** <small>**octanta**</small> |
-| naŭdek | **nouanta** <small>**novanta**</small> |
+| sesdek  | **sexanta** |
+| sepdek  | **sepanta** <small>**septanta**</small> |
+| okdek   | **ocanta** <small>**octanta**</small> |
+| naŭdek  | **nouanta** <small>**novanta**</small> |
 
 <!--v-->
 
@@ -2552,7 +2554,7 @@ Tra bruo, la prepozicio **a** uziĝas por la indiki la rektan objekton. (Tiam uz
 
 | Esperanto | Intermediaria |
 |-|-|
-| domo | **una domo** |
+| domo | *d*una domo** |
 | domoj | **unas domos** |
 
 <!--v-->
@@ -2875,13 +2877,31 @@ Tra bruo, la prepozicio **a** uziĝas por la indiki la rektan objekton. (Tiam uz
 
 <!--v-->
 
-#### sabér
+| Esperanto | Intermediaria |
+|-|-|
+| (ke) mi faru | **facia** |
+| | |
+| faranta | **faciente** |
+| | |
+| sufiĉa | **sufficiente** |
+| | |
+
+<!-- TODO capire capiente capia -->
+<!-- TODO recipire recipiente recipia -->
+<!-- TODO posso potes pote..., possa -->
+<!-- TODO trago trahes, trahe.., traga -->
+
+<!--v-->
+
+#### sapér
 
 <!--v-->
 
 | Esperanto | Intermediaria |
 |-|-|
 | mi scias | **sâo** |
+| | |
+| (ke) mi sciu | **sapia** |
 | | |
 
 <!--v-->
@@ -2921,6 +2941,13 @@ Tra bruo, la prepozicio **a** uziĝas por la indiki la rektan objekton. (Tiam uz
 | | |
 
 <small>(ke) venas: **venia**, **venias**, ...</small>
+
+<!--v-->
+
+| Esperanto | Intermediaria |
+|-|-|
+| konvena | **conveniente** |
+| | |
 
 <!--v-->
 
@@ -3258,9 +3285,9 @@ Duoblaj vokaloj en finaĵoj estas skribataj kun makrono.
 | (ke) ci amis | **amares** |
 | (ke) li amis | **amaret** |
 | | |
-| (ke) ni amis | **amaremus** |
-| (ke) vi amis | **amaretis** |
-| (ke) ili amis | **amarent** |
+| (ke) ni amis  | **amaremus** |
+| (ke) vi amis  | **amaretis** |
+| (ke) ili amis | **amarent**  |
 
 <!--v-->
 
@@ -3270,10 +3297,10 @@ Duoblaj vokaloj en finaĵoj estas skribataj kun makrono.
 
 | Esperanto | Classĭca |
 |-|-|
-| amanta | **amante** |
-| vidanta | **vidente** |
-| aŭdanta | **audiente** |
-| leganta | **legente** |
+| amanta   | **amante** |
+| vidanta  | **vidente** |
+| aŭdanta  | **audiente** |
+| leganta  | **legente** |
 | kaptanta | **capiente** |
 
 <!--v-->

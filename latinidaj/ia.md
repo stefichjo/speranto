@@ -17,14 +17,6 @@ revealOptions:
 
 <small>**Lingua Internationale** baziĝas sur **Lingua** kaj ĝiaj [dialektoj](../speranto.md).</small>
 
-<!-- TODO saper sapiente sapia -->
-<!-- TODO facer faciente facia, sufficer sufficiente sufficia -->
-<!-- TODO capir capiente capa?, recipir recipiente recipa? -->
-<!-- TODO haver havente havia OK -->
-
-<!-- TODO posso potes pote..., possa -->
-<!-- TODO trago trahes, trahe.., traga -->
-
 <!--v-->
 
 ## Ortografio 
@@ -70,9 +62,20 @@ revealOptions:
 
 <!--v-->
 
+<small>La silabo antaŭ la eliziiĝinta *-e* estas akcentata.</small>
+
 | | |
 |-|-|
-| *paco* | paç <small>pace, 🎵 pâç</small> |
+| *fari* | facer *[faser']* <small>facĕre *[fase-re]*, 🌎 facer *[facer']*</small> |
+| | |
+| *facila* | facil *[fasil']* <small>facĭle *[fasi-le]*, 🌎 facile *[faci-le]*</small> |
+| | |
+
+<!--v-->
+
+| | |
+|-|-|
+| *paco* | paç <small>pace, 🎵 pâç, 🌎 pace</small> |
 | | |
 
 <small>Ĉe elizio, *c* skribiĝas *ç*.</small>
@@ -86,19 +89,6 @@ revealOptions:
 | | |
 
 <small>Intervokala *s* prononciĝas *[z]*. Alikaze ĝi prononciĝas *[s]*. Ĉe elizio, la vokalo antaŭ *s* devas porti supersignon por eviti konfuzon kun la multenombra *-s*.</small>
-
-<!--v-->
-
-| | |
-|-|-|
-| *piedo*  | pe  <small>pede, 🎵 pêd *[pe]*</small> |
-| *piedoj* | pes <small>pedes</small> |
-| | |
-| *reto*  | red   <small>rete, 🎵 rêt *[red]*</small> |
-| *retoj* | redes <small>retes</small> |
-| | |
-
-<small>Ĉe elizio, *t* fariĝas *d*, kaj *de* eliziiĝas.</small>
 
 <!--v-->
 
@@ -121,22 +111,33 @@ revealOptions:
 
 | | |
 |-|-|
-| *kreita* | creada *[kreada]* <small>creata 🔊 *[kreata]*, 🌎 create</small> |
-| *flanko* | lado   *[lado]*   <small>lato   🔊 *[lato]*,   🌎 latere</small> |
+| *kreita*  | creada  <small>creata  🔊 *[kreata]*, 🌎 create</small> |
+| *flanko*  | lado    <small>lato    🔊 *[lato]*,   🌎 latere</small> |
+| *formato* | formado <small>formato 🔊 *[formato]*</small> |
+| *tuta*    | toda    <small>tota    🔊 *[tota]*</small> |
 | | |
-| *kreâjo* | creatura |
-| *flanka* | lateral  |
+| *kreâjo*   | creatura  |
+| *flanka*   | lateral   |
+| *formacio* | formation |
+| *totala*   | total |
 | | |
 
-<small>**Tra bruo**, radikofina postvokala *t* *[d]* estas prononcata *[t]* en participoj.</small>
+| | |
+|-|-|
+| *piedo* | pe    <small>pede, 🎵 pêd *[pe]*</small>  |
+| *reto*  | red   <small>rete, 🎵 rêt *[red]*</small> |
+| | |
+| *pedalo*   | pedal  <small>pedale</small> |
+| *retino*   | retina <small>retĭna</small> |
+| | |
 
-<!-- TODO Aparte mencii ĉiujn esceptojn pri grekaj vortoj. Phase. Planeta. Philosophia. -->
-<!-- TODO Misgvida vortigo. -->
+<small>Radikofine, postvokala *t* fariĝas *d*, kaj *d* eliziiĝas kun -*e*. Ili tamen daŭre skribiĝas *t* kaj *d* en **Lingua Internationale**. **Tra bruo**, ili daŭre prononciĝas *[t]* kaj *[d]*.</small>
 
 <!--v-->
 
 | | |
 |-|-|
+| *trinki* | biver   <small>bibĕre   *[bive-re]*   🔊 *[bibe-re]*,   🌎 biber</small>   |
 | *devi*   | dever   <small>debere   *[devere]*    🔊 *[debere]*,    🌎 dubitar</small> |
 | *dubi*   | duvidar <small>dubitare *[duvidare]*  🔊 *[dubitare]*,  🌎 dubitar</small> |
 | *havi*   | haver   <small>habere   *[avere]*     🔊 *[habere]*,    🌎 haber</small>   |
@@ -145,11 +146,11 @@ revealOptions:
 | *skribi* | scriver <small>scribĕre *[skrive-re]* 🔊 *[skribe-re]*, 🌎 scriber</small> |
 | | |
 
-<small>**Tra bruo**, radikofina postvokala *b* *[v]* estas prononcata *[b]* en verboj.</small>
+<small>En verbaj radikoj, postvokala *b* fariĝas *v*. Ĝi tamen daŭre skribiĝas *b* en **Lingua Internationale**. **Tra bruo**, daŭre prononciĝas *[b]*.</small>
 
-<!-- TODO Ĉu nur en verboj? -->
-<!-- TODO La "v" en "lavorare" ne estas tiom "radikofina". -->
-<!-- TODO Misgvida vortigo. -->
+<!-- TODO b→v ne okazas en *stabĭle* → *stabíl*, ĉar *stabĭle* ne estas verbo. -->
+<!-- TODO Ĉu nur en verboj? Ĉu "uvi" bonas, aŭ ĉu estu "ubi"? Ĉu "bibĭta" aŭ "bivĭda"? -->
+<!-- TODO Ĉu regulo aŭ listo da esceptoj? livraison deliver b→v? liberare liverare? -->
 
 <!--v-->
 
@@ -208,8 +209,6 @@ revealOptions:
 <!--v-->
 
 ## Adverboj
-
-<!-- Nur kiam la silabo antaŭ -e estas akcentata, la -e eliziiĝas: stabĭle. Sed ĉu ankaŭ ĉe -mente? facilemente?/facilmente? -->
 
 <!--v-->
 
@@ -424,7 +423,7 @@ Notes:
 | *ĝi* *(ili)* | ello(s) <small>🌎 illo(s)</small> |
 | *ri* *(ili)* | ellu(s) |
 | | |
-| *li/ŝi/ĝi/ri* *(ili)* | elli |
+| *li/ŝi/ĝi/ri* *(ili)* | elli(-) |
 | | |
 
 <!-- TODO "elli" estas evitinda. ? -->
@@ -457,7 +456,7 @@ Notes:
 | | |
 |-|-|
 | *defendi vin* | defender-te <small>defender te</small> |
-| *helpi vin* | adjudar-te <small>adjutár te</small> |
+| *helpi vin*   | adjudar-te  <small>adjutár te</small>  |
 | | |
 | *voli helpi* | voler adjudar <small>volér adjutare</small> |
 | | |
@@ -495,10 +494,10 @@ Notes:
 
 | | |
 |-|-|
-| *kreas* | crea |
-| *kreis* | ha creado <small>creava, 🌎 creava → ha create</small> |
-| *kreintas* | ha creado <small>creáu, 🌎 ha create</small> |
-| *kreos* | va a crear <small>creará, 🌎 creara → va crear</small> |
+| *kreas*    | crea |
+| *kreis*    | ha creado  <small>creava, 🌎 creava → ha create</small> |
+| *kreintas* | ha creado  <small>creáu,  🌎 ha create</small> |
+| *kreos*    | va a crear <small>creará, 🌎 creara → va crear</small> |
 | | |
 
 <!--v-->
@@ -534,8 +533,8 @@ Notes:
 | *(ci) kreas* | tu crea <small>🎵 creas</small> |
 | *(ĝi) kreas* | le crea <small>🎵 crea</small> |
 | | |
-| *(ni) kreas* | nos crea <small>🎵 creamos</small> |
-| *(vi) kreas* | vos crea <small>🎵 creáis</small> |
+| *(ni) kreas*  | nos crea <small>🎵 creamos</small> |
+| *(vi) kreas*  | vos crea <small>🎵 creáis</small> |
 | *(ili) kreas* | les crea <small>🎵 crean</small> |
 | | |
 
@@ -3581,7 +3580,7 @@ Notes:
 
 # Ekzemploj
 
-## [La Silva Magica](https://eduardoortegagonzalez.com/2024/02/03/le-silva-magic-i-conto-in-interlingua/)
+## [Le Silva Magica](https://eduardoortegagonzalez.com/2024/02/03/le-silva-magic-i-conto-in-interlingua/)
 *("Le Silva Magic" de Eduardo Ortega González)*
 
 **Le Silva Magica (I) – Le incontro con Farralar**
@@ -3594,3 +3593,13 @@ Notes:
 
 <!-- TODO `quis` konfliktas. -->
 
+## [Declaration Universale del Derectos Humanas](https://www.ohchr.org/en/human-rights/universal-declaration/translations/interlingua)
+*("Declaration Universal del Derectos Human")*
+
+**Preambulo**
+
+> Considerante que le recognoscentia del dignitate inherente a tote le membros del familia human e de lor derectos equal e inalienabile constitue le fundamento del libertate, del justitia e del pace in le mundo,
+
+Considerante que le `recognoscentia` del dignitad <small>dignitate</small> inherente a toda le membros del familia humana e de `lessa` derectos equal e `inalienabile` `consitute` le fundamento del libertad, del justitia e del paç nel mundo,
+
+<!-- TODO Aparte mencii ĉiujn esceptojn pri grekaj vortoj. Phase. Planeta. Philosophia. Systema. -->
