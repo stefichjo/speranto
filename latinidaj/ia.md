@@ -12,6 +12,20 @@ revealOptions:
 
 <!-- cd ~/Git/speranto/latinidaj; reveal-md ia.md -w -->
 
+<!-- 
+"Tra Bruo" estu ankaŭ pri Lingua Auxiliar
+ge [ge]
+ti [ti]
+j [j]
+ -->
+<!-- TODO prehendere prendere prendêr -->
+
+<!-- TODO illi → esti → speranto.md -->
+<!-- TODO "un-" ne estas (necese) tabelvorta radiko → speranto.md -->
+<!-- TODO ali-, -que → speranto.md -->
+<!-- TODO qual origine priskribita kiel origine -a, sed eble ja fakte -u. → speranto.md -->
+<!-- TODO qual-c ... qual-que -->
+
 # Lingua Inter-nationale
 *(Interlingua post la Fina Venko)*
 
@@ -62,17 +76,6 @@ revealOptions:
 
 <!--v-->
 
-<small>La silabo antaŭ la eliziiĝinta *-e* estas akcentata.</small>
-
-| | |
-|-|-|
-| *fari* | facer *[faser']* <small>facĕre *[fase-re]*, 🌎 facer *[facer']*</small> |
-| | |
-| *facila* | facil *[fasil']* <small>facĭle *[fasi-le]*, 🌎 facile *[faci-le]*</small> |
-| | |
-
-<!--v-->
-
 | | |
 |-|-|
 | *paco* | paç <small>pace, 🎵 pâç, 🌎 pace</small> |
@@ -84,11 +87,22 @@ revealOptions:
 
 | | |
 |-|-|
-| *angla* | inglés <small>inglese *[iŋgleze]*, 🎵 inglés *[iŋgles']*</small> |
+| *angla* | ingles <small>inglese *[iŋgleze]*, 🎵 inglés *[iŋgles']*, 🌎 anglese</small> |
 | *anglaj* | ingleses |
 | | |
 
-<small>Intervokala *s* prononciĝas *[z]*. Alikaze ĝi prononciĝas *[s]*. Ĉe elizio, la vokalo antaŭ *s* devas porti supersignon por eviti konfuzon kun la multenombra *-s*.</small>
+<small>Ĉe elizio, *s* *[z]* prononciĝas *[s]*.</small>
+
+<!--v-->
+
+| | |
+|-|-|
+| *fari* | facer *[faser']* <small>facĕre *[fase-re]*, 🌎 facer *[facer']*</small> |
+| | |
+| *facila* | facil *[fasil']* <small>facĭle *[fasi-le]*, 🌎 facile *[faci-le]*</small> |
+| | |
+
+<small>La silabo antaŭ la eliziiĝinta *-e* estas akcentata.</small>
 
 <!--v-->
 
@@ -98,59 +112,90 @@ revealOptions:
 
 | | |
 |-|-|
-| *horo* | hora *[ora]* <small>🔊/🌎 *[hora]*</small> |
+| *horo* | hora *[ora]* <small>🔊 *[hora]*</small> |
 | | |
-| *centro* | centro *[sentro]* <small>🔊/🌎 *[centro]*</small> |
-| | |
-| *teksto* | texto *[testo]* <small>🔊/🌎 *[teksto]*</small> |
-| | |
-
-<small>**Tra bruo**, *[h]* estas prononcata. Simile, *[c]* kaj *[ks]* estas klare prononcataj anstataŭ *[s]*.</small>
 
 <!--v-->
 
 | | |
 |-|-|
-| *kreita*  | creada  <small>creata  🔊 *[kreata]*, 🌎 create</small> |
-| *flanko*  | lado    <small>lato    🔊 *[lato]*,   🌎 latere</small> |
-| *formato* | formado <small>formato 🔊 *[formato]*</small> |
-| *tuta*    | toda    <small>tota    🔊 *[tota]*</small> |
+| *centro* | centro *[sentro]* <small>🔊 *[centro]*</small> |
 | | |
-| *kreâjo*   | creatura  |
-| *flanka*   | lateral   |
-| *formacio* | formation |
-| *totala*   | total |
+| *teksto* | texto *[testo]* <small>🔊 *[teksto]*</small> |
 | | |
-
-| | |
-|-|-|
-| *piedo* | pe    <small>pede, 🎵 pêd *[pe]*</small>  |
-| *reto*  | red   <small>rete, 🎵 rêt *[red]*</small> |
-| | |
-| *pedalo*   | pedal  <small>pedale</small> |
-| *retino*   | retina <small>retĭna</small> |
-| | |
-
-<small>Radikofine, postvokala *t* fariĝas *d*, kaj *d* eliziiĝas kun -*e*. Ili tamen daŭre skribiĝas *t* kaj *d* en **Lingua Internationale**. **Tra bruo**, ili daŭre prononciĝas *[t]* kaj *[d]*.</small>
 
 <!--v-->
 
 | | |
 |-|-|
-| *trinki* | biver   <small>bibĕre   *[bive-re]*   🔊 *[bibe-re]*,   🌎 biber</small>   |
-| *devi*   | dever   <small>debere   *[devere]*    🔊 *[debere]*,    🌎 dubitar</small> |
-| *dubi*   | duvidar <small>dubitare *[duvidare]*  🔊 *[dubitare]*,  🌎 dubitar</small> |
-| *havi*   | haver   <small>habere   *[avere]*     🔊 *[habere]*,    🌎 haber</small>   |
-| *labori* | lavorar <small>laborare *[lavorare]*  🔊 *[laborare]*,  🌎 laborar</small> |
-| *provi*  | provar  <small>probare  *[provare]*   🔊 *[probare]*,   🌎 probar</small>  |
-| *skribi* | scriver <small>scribĕre *[skrive-re]* 🔊 *[skribe-re]*, 🌎 scriber</small> |
+| *placo* | plaça *[plasa]* <small>🔊 *[placa]*, 🌎 placia</small> |
+| | |
+| *spaco* | spatio *[spasjo]* <small>🔊 *[spaci-o]*</small> |
 | | |
 
-<small>En verbaj radikoj, postvokala *b* fariĝas *v*. Ĝi tamen daŭre skribiĝas *b* en **Lingua Internationale**. **Tra bruo**, daŭre prononciĝas *[b]*.</small>
+<!--v-->
 
-<!-- TODO b→v ne okazas en *stabĭle* → *stabíl*, ĉar *stabĭle* ne estas verbo. -->
-<!-- TODO Ĉu nur en verboj? Ĉu "uvi" bonas, aŭ ĉu estu "ubi"? Ĉu "bibĭta" aŭ "bivĭda"? -->
-<!-- TODO Ĉu regulo aŭ listo da esceptoj? livraison deliver b→v? liberare liverare? -->
+| | |
+|-|-|
+| *gesto* | gesto *[ĵesto]* <small>🔊 *[gesto]*</small> |
+| | |
+| *jam* | jam *[ĵam]* <small>🔊 *[jam]*</small> |
+| | |
+
+<!--v-->
+
+| | |
+|-|-|
+| *tuta* | tota *[toda]* <small>🔊 *[tota]*</small> |
+| | |
+| *totala* | total *[total']* |
+| | |
+
+<small>Radikofine, postvokala *t* prononciĝas *[d]*, krom **tra bruo**.</small>
+
+<!--v-->
+
+| | |
+|-|-|
+| *piedo*  | ped   *[pe]* <small>🔊 *[ped]*</small> |
+| *piedoj* | pedes *[pedes]* |
+| | |
+| *pedalo* | pedal *[pedal']* |
+| | |
+
+<small>Vortofine, postvokala *d* eliziiĝas, krom **tra bruo**.</small>
+
+<!--v-->
+
+| | |
+|-|-|
+| *trinki* | biber   *[biver']*   <small>bibĕre    🔊 *[bibe-re]*   </small> |
+| *devi*   | deber   *[dever']*   <small>debere    🔊 *[debere]*    </small> |
+| *dubi*   | dubitar *[duvidar']* <small>dubitare  🔊 *[dubitare]*  </small> |
+| *havi*   | haber   *[aver']*    <small>habere    🔊 *[habere]*    </small> |
+| *labori* | laborar *[lavorar']* <small>laborare  🔊 *[laborare]*  </small> |
+| *provi*  | probar  *[provar']*  <small>probare   🔊 *[probare]*   </small> |
+| *skribi* | scriber *[skriver']* <small>scribĕre  🔊 *[skribe-re]* </small> |
+| | |
+
+<small>En origine verbaj radikoj, postvokala *b* prononciĝas *[v]*, krom **tra bruo**.</small>
+
+Notes:
+* stabil *[stabil']*
+* bibita *[bibi-ta]*
+* libera *[libe-ra]*, liberar *[liberar']*, livrar *[livrar']*
+
+<!--v-->
+
+| | |
+|-|-|
+| *fazo*      | phase *[faze]* |
+| *ideo*      | idea *[idea]* |
+| *planedo*   | planeta *[planeta]* |
+| *sistemo*   | systema *[sistema]* <small>🔊 *[systema]*</small> |
+| | |
+
+<small>Fremdaj vortoj, ekz-e grekaj vortoj, ne bezonas sekvi ĉi-suprajn ortografiajn regulojn.</small>
 
 <!--v-->
 
@@ -160,10 +205,6 @@ revealOptions:
 
 | | |
 |-|-|
-| *amikino(j)*  | amica(s) |
-| *frukto(j)*   | fructo(s) |
-| *patro(j)*    | patre(s) |
-| *planto(j)*   | planta(s) |
 | *studento(j)* | studente(s) |
 | | |
 | *generacio(j)* | generation(es) <small>generatione(s)</small> |
@@ -188,22 +229,41 @@ revealOptions:
 
 | | |
 |-|-|
-| *delikata* | delicata <small>🌎 delicate</small> |
-| *malgranda* | parva`?` <small>🌎 parve</small> |
+| *delikata*  | delicata *[delikada]* <small>🌎 delicate</small> |
+| *malgranda* | parva <small>🌎 parve</small> |
 | | |
 | *klasika* | classica <small>classĭca, 🌎 classic</small> |
 | | |
-
-<!-- TODO par -->
-<!-- TODO bon -->
-
-<!-- TODO plus minus -->
 
 <!--v-->
 
 | | |
 |-|-|
 | *belaj montoj* | montes bella <small>montes bellas, 🌎 montes belle</small> |
+| | |
+
+<!--v-->
+
+| | |
+|-|-|
+| *Bonan tagon!* | Bon die! |
+| | |
+| *Britio*       | Gran Britannia |
+| | |
+| *pliparto*     | major parte <small>majór parte</small> |
+| | |
+
+<small>*bona* kaj *grande* havas malregulajn eliziojn kiam ili estas metitaj antaŭ la substantivo: *bon*, *gran*. Antaŭ la substantivo, la elizio de -*e* estas deviga en **Lingua Internationale**.</small>
+
+<!--v-->
+
+| | |
+|-|-|
+| *malpli granda*  | minus grande    |
+| *malplej granda* | le minus grande |
+| | |
+| *pli granda*    | plus grande    |
+| *plej granda*   | le plus grande |
 | | |
 
 <!--v-->
@@ -240,7 +300,6 @@ revealOptions:
 | | |
 
 <small>Adverboj, kiuj priskribas subfrazojn, estas formataj pere de la finaĵo -*o*.</small>
-<!-- TODO Ĉarma, sed ne plentrafa klarigo/priskribo. -->
 
 <!--v-->
 
@@ -261,23 +320,20 @@ revealOptions:
 
 | | | |
 |-|-|-|
-| un   <small>uno</small>     | unesima <small>prima</small>    | - |
-| du   <small>duo</small>     | duesima <small>secunda</small>  | venti     |
-| tri             |             triesima <small>terça</small>   | trenta    |
-| quar <small>quattre</small> | quaresima <small>quarta</small> | quarenta  |
-| quin <small>cinque</small>  | quinesima <small>quinta</small> | cinquenta |
-| sex             |             sexesima <small>sexta</small>   | sexenta   |
-| sep  <small>septe</small>   | sepesima <small>septĭma</small> | septenta  |
-| oc   <small>octe</small>    | oqŭesima <small>octava</small>  | octenta   |
-| nou  <small>nove</small>    | nouesima <small>nona</small>    | noventa   |
-| deç  <small>dece</small>    | decesima <small>decĭma</small>  | - |
+| un   <small>uno</small>     | unesima  <small>prima</small>    | - |
+| du   <small>duo</small>     | duesima  <small>secunda</small>  | vinti     |
+| tri             |             triesima  <small>terça</small>   | trenta    |
+| quar <small>quattre</small> | quaresima <small>quarta</small>  | quarenta  |
+| quin <small>cinque</small>  | quinesima <small>quinta</small>  | cinquenta |
+| sex             |             sexesima  <small>sexta</small>   | sexenta   |
+| sep  <small>septe</small>   | sepesima  <small>septĭma</small> | septenta  |
+| oc   <small>octe</small>    | oqŭesima  <small>octava</small>  | octenta   |
+| nou  <small>nove</small>    | nouesima  <small>nona</small>    | noventa   |
+| deç  <small>dece</small>    | decesima  <small>decĭma</small>  | - |
 | | | |
 
 Notes:
 * oquesima *[okezi-ma]*
-
-<!-- TODO sexe? -->
-<!-- TODO venti? -->
 
 <!--v-->
 
@@ -321,6 +377,9 @@ Notes:
 | ***-el*** | ali-quo | un-quo   | quo-unque |
 | | | | |
 
+Notes:
+* ali-ubi → ali-bi = alibi
+
 <!--v-->
 
 | | *ki-* | *ti-* |
@@ -336,7 +395,7 @@ Notes:
 |-|-|
 | ***-a*** | qua |
 | | |
-| ***-es*** | quia/quea <small>quis</small> |
+| ***-es*** | quia/quea |
 | | |
 
 <!--v-->
@@ -345,21 +404,21 @@ Notes:
 |-|-|-|
 | ***-el*** | quo | esto |
 | | | |
-| ***-e***  | quo <small>uvi</small>    | esto <small>ivi</small>     |
-| ***-am*** | quo <small>quando</small> | esto <small>nunc`?`</small> |
+| ***-e***  | quo <small>ubi</small>    | esto <small>ibi</small>     |
+| ***-am*** | quo <small>quando</small> | esto <small>nunc</small>    |
 | ***-om*** | quo <small>quanto</small> | esto <small>tanto</small>   |
 | ***-al*** | quo <small>quare</small>  | esto <small>tare/care`?`</small>  |
-| ***-el*** | quo <small>quomo</small>  | esto <small>sic`?`</small>  |
+| ***-el*** | quo <small>quomo</small>  | esto <small>sic</small>     |
 | | | |
 
 Notes:
-* uv-unque, quom-unque, qual-unque
+* ub-unque = ubunque, quom-unque = quomunque, qual-unque
 
 <!--v-->
 
 | | *ki-* | *ĉi-* |
 |-|-|-|
-| ***-e***  | quo <small>uvi</small>    | omno <small>uvi-que, 🌎 ubique</small>             |
+| ***-e***  | quo <small>ubi</small>    | omno <small>ubi-que, 🌎 ubique</small>             |
 | ***-am*** | quo <small>quando</small> | omno <small>quando-que <small>sempre</small>, 🌎 sempre</small> |
 | | | |
 
@@ -370,17 +429,12 @@ Notes:
 | *neniu* | nilli <small>nemo, 🌎 nemo</small> |
 | | |
 
+<!--v-->
 
-<!-- TODO illi → esti → speranto.md -->
-<!-- TODO "un-" ne estas (necese) tabelvorta radiko → speranto.md -->
-<!-- TODO ali-, -que → speranto.md -->
-<!-- TODO qual origine priskribita kiel origine -a, sed eble ja fakte -u.
-→ speranto.md
--->
-
-<!-- TODO "ajn" povas samsignifi al *i-* kaj *ĉi-* respektive. -->
-<!-- TODO iu ajn = kiu ajn -->
-<!-- TODO ad quo = quo -->
+| | |
+|-|-|
+| *kie*, *kien* | quo <small>ubi</small> |
+| | |
 
 <!--v-->
 
@@ -390,12 +444,13 @@ Notes:
 
 | | |
 |-|-|
-| *la* | le <small>le(s) |
+| *la(j)* | le <small>el (les)</small> |
 | | |
-| *-*  | un <small>une(s) |
+| *-(j)*  | un <small>une(s) |
 | | |
 
-<!-- TODO les unes e les alteres -->
+Notes:
+* les unes e les alteres
 
 <!--v-->
 
@@ -405,38 +460,48 @@ Notes:
 
 | | | | |
 |-|-|-|-|
-| *mi, min, mia* | eo <small>🌎 io</small> | me | mia <small>🌎 mi</small> |
-| *ci, cin, cia* | tu | te | tua <small>🌎 tu</small> |
+| *mi, min, mia* | eo <small>🌎 io</small> | me | mea <small>mia, 🌎 mi</small> |
+| *ci, cin, cia* | tu | te | tea <small>tua, 🌎 tu</small> |
 | | | | |
-| *ni, nin, nia* | nos | nos | nossa <small>🌎 nostre</small> |
-| *vi, vin, via* | vos | vos | vossa <small>🌎 vostre</small> |
+| *ni, nin, nia* | nos | nos | nossa <small>nostra, 🌎 nostre</small> |
+| *vi, vin, via* | vos | vos | vossa <small>vostra, 🌎 vostre</small> |
 | | | | |
-
-<!--v-->
-
-<!-- TODO -->
-
-| | |
-|-|-|
-| *li* *(ili)* | elle(s) <small>🌎 ille(s)</small> |
-| *ŝi* *(ili)* | ella(s) <small>🌎 illa(s)</small> |
-| *ĝi* *(ili)* | ello(s) <small>🌎 illo(s)</small> |
-| *ri* *(ili)* | ellu(s) |
-| | |
-| *li/ŝi/ĝi/ri* *(ili)* | elli(-) |
-| | |
-
-<!-- TODO "elli" estas evitinda. ? -->
-<!-- TODO la enklita formo "li" de "elli" estas uzata nur por la dativo. -->
-<!-- TODO simile en la dialekta kontinuo, laŭ la formato -->
-<!-- TODO de-formoj -->
 
 <!--v-->
 
 | | |
 |-|-|
-| *mi donas ĝin al -i* | eo li-lo da. <small>🌎 io lo da a ille/a/o(s).</small> |
+| *li*  | elle <small>🌎 ille</small> |
+| *ŝi*  | ella <small>🌎 illa</small> |
+| *ĝi*  | ello <small>🌎 illo</small> |
+| *ri*  | ellu |
 | | |
+| *ili* | ell`*`s |
+| | |
+| *`*`i* | elli |
+| | |
+
+<!--v-->
+
+| | |
+|-|-|
+| *lia*  | ellea, de-le <small>sua, 🌎 su</small> |
+| | |
+| *ilia* | ell`*`ssa, de-l`*`s <small>loro, 🌎 lor</small> |
+| | |
+
+<small>*sua* havas multenombran formon: *suas*. Dume, *loro* ne havas multenombran formon.</small>
+
+<!--v-->
+
+| | |
+|-|-|
+| *mi donas al ili* | eo li da. <small>🌎 io da a ille/a/o-s.</small> |
+| | |
+| *mi donas ilin* | eo le/a/o-s da. <small>🌎 io le/a/o-s da.</small> |
+| | |
+
+<small>En akuzativo, *li* estas evitinda.</small>
 
 <!--v-->
 
@@ -455,12 +520,11 @@ Notes:
 
 | | |
 |-|-|
-| *defendi vin* | defender-te <small>defender te</small> |
-| *helpi vin*   | adjudar-te  <small>adjutár te</small>  |
+| *helpi vin*   | adjutar-te  <small>adjutár te</small>  |
 | | |
-| *voli helpi* | voler adjudar <small>volér adjutare</small> |
+| *voli helpi* | voler adjutar <small>volér adjutare</small> |
 | | |
-| *esti helpinta* | haver adjudado <small>havér adjutato</small> |
+| *esti helpinta* | haver adjutato <small>havér adjutato</small> |
 | | |
 
 <small>La elizio de -*e* estas deviga en kombinoj kun pronomoj kaj aliaj verboj. La akcento tiam ne ŝanĝiĝas.</small>
@@ -470,24 +534,24 @@ Notes:
 | | |
 |-|-|
 | *krei* | crear <small>creare</small> |
-| *kreita* | creada <small>creata, 🌎 create</small> |
+| *kreita* | creata <small>🌎 create</small> |
 | | |
 
 <!--v-->
 
 | | |
 |-|-|
-| *vidita* | vidida <small>vidita, 🎵 vista</small> |
+| *vidita* | vidita <small>🎵 vista</small> |
 | | |
-| *ĉar* | vidido que <small>vidito qŭe, 🎵 visto qŭe</small> |
+| *ĉar* | vidito que <small>🎵 visto qŭe</small> |
 | | |
 
 <!--v-->
 
 | | |
 |-|-|
-| *estas kreinta* | ha creado <small>hâ creato, 🌎 ha create</small> |
-| *estas veninta* | ha venido <small>ês venita, 🌎 ha venite</small> |
+| *estas kreinta* | ha creato <small>🌎 ha create</small> |
+| *estas veninta* | ha venito <small>ês venita, 🌎 ha venite</small> |
 | | |
 
 <!--v-->
@@ -495,16 +559,17 @@ Notes:
 | | |
 |-|-|
 | *kreas*    | crea |
-| *kreis*    | ha creado  <small>creava, 🌎 creava → ha create</small> |
-| *kreintas* | ha creado  <small>creáu,  🌎 ha create</small> |
-| *kreos*    | va a crear <small>creará, 🌎 creara → va crear</small> |
+| *kreis*    | ha creato  <small>creava,     🌎 creava</small> |
+| *kreintas* | ha creato  <small>creáu,      🌎 ha create</small> |
+| *kreos*    | va a crear <small>creará,     🌎 creara</small> |
+| *kreontas* | va a crear <small>va a crear, 🌎 va crear</small> |
 | | |
 
 <!--v-->
 
 | | |
 |-|-|
-| *kreu(j)!* | crea(d)! <small>crea(te)!</small> |
+| *kreu(j)!* | crea(t)! <small>crea(te)!</small> |
 | | |
 | *(ke) kreu* | crea <small>cree</small> |
 | *(se/do) kreus* | crea <small>creâsse/crearía, 🌎 crearea</small> |
@@ -514,12 +579,19 @@ Notes:
 
 | | |
 |-|-|
-| *irintas* | ha ido <small>vadéu, 🌎 ha ite</small> |
+| *irintas* | ha ito <small>vadéu, 🌎 ha ite</small> |
 | | |
-| *estas irinta* | ha ido <small>ês ita, 🌎 ha ite</small> |
+| *estas irinta* | ha ito <small>ês ita, 🌎 ha ite</small> |
 | | |
 
-<!-- TODO era - esseva -->
+<!--v-->
+
+| | |
+|-|-|
+| *esti* | ser <small>sêre, 🌎 esser</small> |
+| | |
+| *estis* | ha sito <small>êra, 🌎 esseva</small> |
+| | |
 
 <!--v-->
 
@@ -531,11 +603,11 @@ Notes:
 |-|-|
 | *(mi) kreas* | eo crea <small>🎵 creo</small> |
 | *(ci) kreas* | tu crea <small>🎵 creas</small> |
-| *(ĝi) kreas* | le crea <small>🎵 crea</small> |
+| *(li) kreas* | elle crea <small>🎵 crea</small> |
 | | |
 | *(ni) kreas*  | nos crea <small>🎵 creamos</small> |
 | *(vi) kreas*  | vos crea <small>🎵 creáis</small> |
-| *(ili) kreas* | les crea <small>🎵 crean</small> |
+| *(ili) kreas* | elles crea <small>🎵 crean</small> |
 | | |
 
 <small>En **Lingua Internationale**, eblas uzi konjugacion kiel en **Lingua Intermediaria**, ekzemple en poezio.</small>
@@ -816,6 +888,7 @@ Notes:
 |:-:|:-:|:-:|:-:|
 | annuntjo | annůntio | annůntĭo | annůntio |
 | *annuncio* | *annonce* | *anuncio* | *anúncio* |
+| | | | |
 
 <!--v-->
 
@@ -831,6 +904,7 @@ Notes:
 |:-:|:-:|:-:|:-:|
 | aprile | ap̆rile | ap̆rile | ap̆ril |
 | *aprile* | *avril* | *abril* | *Abril* |
+| | | | |
 
 <!--v-->
 
@@ -849,6 +923,7 @@ ap̆ud-höc
 |:-:|:-:|:-:|:-:|
 | aq̄ua | åq̆ŭa | aq̆ua | aq̆ua |
 | *acqua* | *eau* | *agua* | *água* |
+| | | | |
 
 <!--v-->
 
@@ -858,6 +933,7 @@ ap̆ud-höc
 |:-:|:-:|:-:|:-:|
 | ăůt̯ | … | … | … |
 | *o* | *ou* | *o* | *ou* |
+| | | | |
 
 <!--v-->
 
@@ -871,6 +947,7 @@ ap̆ud-höc
 |:-:|:-:|:-:|:-:|
 | åŭro | åŭro | åŭro | åuro |
 | *oro* | *or* | *oro* | *ouro* |
+| | | | |
 
 <!--v-->
 
@@ -880,6 +957,7 @@ ap̆ud-höc
 |:-:|:-:|:-:|:-:|
 | aŭscůltare | äŭscułtæɍe | äŭscuḷtare `?` | äŭscułtare |
 | *ascoltare* | *écouter* | *escuchar* | *escutar* |
+| | | | |
 
 Notes:
 * `...`
@@ -896,6 +974,7 @@ Notes:
 |:-:|:-:|:-:|:-:|
 | banco | bąn̆co | banco | bąn̆co |
 | *banco* | *banc* | *banco* | *banco* |
+| | | | |
 
 <!--v-->
 
@@ -905,6 +984,7 @@ Notes:
 |:-:|:-:|:-:|:-:|
 | banco | banco | banco | banco |
 | *banco* | *banc* | *banco* | *banco* |
+| | | | |
 
 <!--v-->
 
@@ -914,6 +994,7 @@ Notes:
 |:-:|:-:|:-:|:-:|
 | balnĕo | balnĕo | balnĕo | balnĕo |
 | *bagno* | *bain* | *baño* | *banho* |
+| | | | |
 
 Notes:
 * FR bain = baigne `?`
@@ -926,6 +1007,7 @@ Notes:
 |:-:|:-:|:-:|:-:|
 | barca | barca | barca | barco |
 | *barca* | *barque* | *barca* | *barco* |
+| | | | |
 
 <!--v-->
 
@@ -935,6 +1017,7 @@ Notes:
 |:-:|:-:|:-:|:-:|
 | basjare | bæsĭæɍe | bäsĭare | bäs̃jare |
 | *baciare* | *baiser* | *besar* | *beijar* |
+| | | | |
 
 <!--v-->
 
@@ -944,6 +1027,7 @@ Notes:
 |:-:|:-:|:-:|:-:|
 | bassa | bassa | basŝa | bas̃ŝa |
 | *bassa* | *basse* | *baja* | *baixa* |
+| | | | |
 
 <!--v-->
 
@@ -953,6 +1037,7 @@ Notes:
 |:-:|:-:|:-:|:-:|
 | bella | bella | bella | bella |
 | *bella* | *belle* | *bella* | *bela* |
+| | | | |
 
 Notes:
 * `:)` ll
@@ -965,6 +1050,7 @@ Notes:
 |:-:|:-:|:-:|:-:|
 | bene | bẽne | bẽne | bene |
 | *bene* | *bien* | *bien* | *bem* |
+| | | | |
 
 <!--v-->
 
@@ -974,6 +1060,7 @@ Notes:
 |:-:|:-:|:-:|:-:|
 | bḷanca | blanĉa | blanca | bl̯anca |
 | *bianca* | *blanche* | *blanca* | *branca* |
+| | | | |
 
 <!--v-->
 
@@ -983,6 +1070,7 @@ Notes:
 |:-:|
 | bḷanca |
 | *bianca* |
+| |
 
 <!--v-->
 
@@ -992,6 +1080,7 @@ Notes:
 |:-:|
 | blanĉa |
 | *blanche* |
+| |
 
 <!--v-->
 
@@ -1001,6 +1090,7 @@ Notes:
 |:-:|
 | blanca |
 | *blanca* |
+| |
 
 <!--v-->
 
@@ -1010,6 +1100,7 @@ Notes:
 |:-:|
 | bl̯anca |
 | *branca* |
+| |
 
 <!--v-->
 
@@ -1019,6 +1110,7 @@ Notes:
 |:-:|:-:|:-:|:-:|
 | bõna | bona | bõna | bon̆a |
 | *buona* | *bonne* | *buena* | *boa* |
+| | | | |
 
 <!--v-->
 
@@ -1028,6 +1120,7 @@ Notes:
 |:-:|:-:|:-:|:-:|
 | bõna | bona | bõna | bona |
 | *buona* | *bonne* | *buena* | *boa* |
+| | | | |
 
 <!--v-->
 
@@ -1037,6 +1130,7 @@ Notes:
 |:-:|:-:|:-:|:-:|
 | bõno | bono | bõno | bonŏ |
 | *buono* | *bon* | *bueno* | *bom* |
+| | | | |
 
 <!--v-->
 
@@ -1046,6 +1140,7 @@ Notes:
 |:-:|:-:|:-:|:-:|
 | bõno | bono | bõno | bono |
 | *buono* | *bon* | *bueno* | *bom* |
+| | | | |
 
 <!--v-->
 
@@ -1055,6 +1150,7 @@ Notes:
 |:-:|:-:|:-:|:-:|
 | borsa | bǒrsa | bor̆sa | bor̆sa |
 | *borsa* | *bourse* | *bolsa* | *bolsa* |
+| | | | |
 
 <!--v-->
 
@@ -1076,6 +1172,7 @@ Notes:
 |:-:|:-:|:-:|:-:|
 | camisja | ĉæmisĭa | camisĭa | camisĭa |
 | *camicia* | *chemise* | *camisa* | *camisa* |
+| | | | |
 
 <!--v-->
 
@@ -1085,6 +1182,7 @@ Notes:
 |:-:|:-:|:-:|:-:|
 | campanĭa | campanĭa | campanĭa | campanĭa |
 | *campagna* | *campagne* | *campaña* | *campanha* |
+| | | | |
 
 <!--v-->
 
@@ -1094,6 +1192,7 @@ Notes:
 |:-:|:-:|:-:|:-:|
 | cane | ĉãne | cane | cane̊ |
 | *cane* | *chien* | *can* | *cão* |
+| | | | |
 
 Notes:
 * ES `perro`
@@ -1106,6 +1205,7 @@ Notes:
 |:-:|
 | ĉãne |
 | *chien* |
+| |
 
 <!--v-->
 
@@ -1115,6 +1215,7 @@ Notes:
 |:-:|:-:|
 | ĉãne | ĉæne |
 | *chien* | *chain* |
+| | |
 
 <!--v-->
 
@@ -1124,6 +1225,7 @@ Notes:
 |:-:|:-:|:-:|:-:|
 | cantare | ĉantæɍe | cantare | cantare |
 | *cantare* | *chanter* | *cantar* | *cantar* |
+| | | | |
 
 <!--v-->
 
@@ -1133,6 +1235,7 @@ Notes:
 |:-:|:-:|:-:|:-:|
 | cantĭōne | ĉantĭone | cantĭone | cantĭone |
 | *canzone* | *chanson* | *canción* | *canção* |
+| | | | |
 
 <!--v-->
 
@@ -1142,6 +1245,7 @@ Notes:
 |:-:|:-:|:-:|:-:|
 | capitano | capitæn̄o | capitanŏ | capitano |
 | *capitano* | *capitaine* | *capitán* | *capitão* |
+| | | | |
 
 Notes:
 * PT -ana
@@ -1163,6 +1267,7 @@ Notes:
 |:-:|:-:|:-:|:-:|
 | cara | ĉæra | cara | cara |
 | *cara* | *chère* | *cara* | *cara* |
+| | | | |
 
 <!--v-->
 
@@ -1172,6 +1277,7 @@ Notes:
 |:-:|:-:|:-:|:-:|
 | carne | ĉærne | carne | carne |
 | *carne* | *chair* | *carne* | *carne* |
+| | | | |
 
 <!--v-->
 
@@ -1181,6 +1287,7 @@ Notes:
 |:-:|:-:|:-:|:-:|
 | castanĕa | ĉastænĕa | castanĕa | castanĕa |
 | *castagna* | *châtaigne* | *castaña* | *castanha* |
+| | | | |
 
 <!--v-->
 
@@ -1194,6 +1301,7 @@ Notes:
 |:-:|:-:|:-:|:-:|
 | c̆atto | ĉatto | c̆atto | c̆atto |
 | *gatto* | *chat* | *gato* | *gato* |
+| | | | |
 
 <!--v-->
 
@@ -1203,6 +1311,7 @@ Notes:
 |:-:|:-:|:-:|:-:|
 | căůda | cæ̊ŭdo | cåŭda | cauda |
 | *coda* | *queue* | *cola* | *cauda* |
+| | | | |
 
 Notes:
 * IT ò → ó
@@ -1218,6 +1327,7 @@ Notes:
 |:-:|:-:|:-:|:-:|
 | cåŭsa | ĉåŭsa | cåŭsa | cåŭs̃a |
 | *cosa* | *chose* | *cosa* | *coisa* |
+| | | | |
 
 <!--v-->
 
@@ -1237,6 +1347,7 @@ Notes:
 |:-:|:-:|:-:|:-:|
 | centro | centro | centro | centro |
 | *centro* | *centre* | *centro* | *centro* |
+| | | | |
 
 <!--v-->
 
@@ -1246,6 +1357,7 @@ Notes:
 |:-:|:-:|:-:|:-:|
 | certa | … | cẽrta | certa |
 | *certa* | *…* | *cierta* | *certa* |
+| | | | |
 
 <!--v-->
 
@@ -1254,9 +1366,8 @@ Notes:
 | 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
 |:-:|:-:|:-:|:-:|
 | civit̯at̯e | civit̯at̯e | civit̯at̯e | civĭt̯at̯e |
-| *città* | *???* | *ciudad* | *cidade* |
-
-<!-- TODO -->
+| *città* | `…` | *ciudad* | *cidade* |
+| | | | |
 
 <!--v-->
 
@@ -1266,6 +1377,7 @@ Notes:
 |:-:|:-:|:-:|:-:|
 | cḷave | clæve | cḷave | cḷave |
 | *chiave* | *clé* | *llave* | *chave* |
+| | | | |
 
 <!--v-->
 
@@ -1284,6 +1396,7 @@ Notes:
 |:-:|:-:|:-:|:-:|
 | - | - | comed̯ĕre | comed̯ĕre |
 | - | - | *comer* | *comer* |
+| | | | |
 
 <!--v-->
 
@@ -1293,6 +1406,7 @@ Notes:
 |:-:|:-:|:-:|:-:|
 | com̄inĭtjare | com̄inĭtĭæɍe | com̄ïnĭtĭare | com̄ïn̆ĭtĭare |
 | *comminciare* | *commencer* | *comenzar* | *começar* |
+| | | | |
 
 <!--v-->
 
@@ -1302,6 +1416,7 @@ Notes:
 |:-:|:-:|:-:|:-:|
 | compaṇìa | compaṇia | compaṇìa | compaṇìa |
 | *compagnia* | *compagnie* | *compañía* | *companhia* |
+| | | | |
 
 Notes:
 * La akcento estas strangega. Ŝajnas ke la franca influis ĉiujn aliajn lingvojn.
@@ -1326,6 +1441,7 @@ Notes:
 |:-:|:-:|:-:|:-:|
 | coprire | cǒp̆rire | cǒp̆rire | cop̆rire |
 | *coprire* | *couvrir* | *cubrir* | *cobrir* |
+| | | | |
 
 <!--v-->
 
@@ -1349,11 +1465,17 @@ Notes:
 |:-:|:-:|:-:|:-:|
 | cõre | cøre | … | … |
 | *cuore* | *cœur* | *…* | *…* |
+| | | | |
 
 <!--v-->
 
-| culo | c̄ylo *[cul]* |
-<!-- TODO culo -->
+**culo**
+
+| 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
+|:-:|:-:|:-:|:-:|
+| culo | c̄ylo | culo | … |
+| *culo* | *cul* | *culo* | *…* |
+| | | | |
 
 <!--v-->
 
@@ -1371,6 +1493,7 @@ Notes:
 |:-:|:-:|:-:|:-:|
 | dė | de | de | de |
 | *di* | *de* | *de* | *de* |
+| | | | |
 
 <!--v-->
 
@@ -1384,6 +1507,7 @@ Notes:
 |:-:|:-:|:-:|:-:|
 | deliȼia | delicĭa | delicia | delicia |
 | *delizia* | *délice* | *delicia* | *delícia* |
+| | | | |
 
 <!--v-->
 
@@ -1393,6 +1517,7 @@ Notes:
 |:-:|:-:|:-:|:-:|
 | djůrnata | djurnæŧa | djůrnata | djůrnata |
 | *giornata* | *journée* | *jornada* | *jornada* |
+| | | | |
 
 <!-- TODO t→d okazas ankaŭ en la Franca? -->
 
@@ -1404,6 +1529,7 @@ Notes:
 |:-:|:-:|:-:|:-:|
 | důpḷare | dup̆læɍe | důp̆lare | důp̆l̯are |
 | *doppiare* | *doubler* | *doblar* | *dobrar* |
+| | | | |
 
 <!--v-->
 
@@ -1413,6 +1539,7 @@ Notes:
 |:-:|:-:|:-:|:-:|
 | doctore | doctøre | doctore | doc̊tore |
 | *dottore* | *docteur* | *doctor* | *doutor* |
+| | | | |
 
 <!--v-->
 
@@ -1422,6 +1549,7 @@ Notes:
 |:-:|:-:|:-:|:-:|
 | domĭna | dȏmĭna | | |
 | *donna* | *dame* | | |
+| | | | |
 
 Notes:
 * `...`
@@ -1434,6 +1562,7 @@ Notes:
 |:-:|:-:|:-:|:-:|
 | dormire | dormire | dormire | dormire |
 | *dormire* | *dormir* | *dormir* | *dormir* |
+| | | | |
 
 <!--v-->
 
@@ -1447,6 +1576,7 @@ Notes:
 |:-:|:-:|:-:|:-:|
 | echo | echo | echo | echo |
 | *eco* | *écho* | *eco* | *eco* |
+| | | | |
 
 Notes:
 * FR
@@ -1459,6 +1589,7 @@ Notes:
 |:-:|:-:|:-:|:-:|
 | ėğo | ĕĝŏ | ėğo | eğo |
 | *io* | *je* | *yo* | *eu* |
+| | | | |
 
 Notes:
 * Lingua: `ego`?
@@ -1471,6 +1602,7 @@ Notes:
 |:-:|:-:|:-:|:-:|
 | enuntjatione | enůntiatione | enuntiatione | enuntiatĭone |
 | *enunciazione* | *énonciation* | *enunciación* | *enunciação* |
+| | | | |
 
 <!--v-->
 
@@ -1513,6 +1645,7 @@ Notes:
 |:-:|:-:|:-:|:-:|
 | … | fabulæɍe | f̯abŭlare | fab̯ŭlare |
 | *…* | *fabuler* | *hablar* | *falar* |
+| | | | |
 
 Notes:
 * `?` b/v
@@ -1529,6 +1662,7 @@ Notes:
 |:-:|:-:|:-:|:-:|
 | facto | faċto | f̯äċto | fäċto |
 | *fatto* | *fait* | *hecho* | *feito* |
+| | | | |
 
 <!--v-->
 
@@ -1543,6 +1677,7 @@ Notes:
 |:-:|:-:|:-:|:-:|
 | familĭa | familĭa | familia | familia |
 | *famiglia* | *famille* | *familia* | *família* |
+| | | | |
 
 Notes:
 * `:)` lĭ
@@ -1556,6 +1691,7 @@ Notes:
 | | | | |
 | favore | favøre | favore | favore |
 | *favore* | *faveur* | *favor* | *favor* |
+| | | | |
 
 <!--v-->
 
@@ -1569,6 +1705,7 @@ Notes:
 |:-:|:-:|:-:|:-:|
 | fẽra | fẽra | … | … |
 | *fiera* | *fière* | *…* | *…* |
+| | | | |
 
 <!--v-->
 
@@ -1582,6 +1719,7 @@ Notes:
 |:-:|:-:|:-:|:-:|
 | fïde | fĩde | fïde | fïde |
 | *fede* | *foi* | *fe* | *fé* |
+| | | | |
 
 <!--v-->
 
@@ -1591,6 +1729,7 @@ Notes:
 |:-:|:-:|:-:|:-:|
 | filĭa | filĭa | f̆ilĭa | filĭa |
 | *figlia* | *fille* | *hija* | *filha* |
+| | | | |
 
 <!--v-->
 
@@ -1600,6 +1739,7 @@ Notes:
 |:-:|:-:|:-:|:-:|
 | fine | fine | fine | fine |
 | *fine* | *fin* | *fin* | *fim* |
+| | | | |
 
 <!--v-->
 
@@ -1610,6 +1750,7 @@ Notes:
 |:-:|:-:|:-:|:-:|
 | fineça | fineça | fineça | fineça |
 | *finezza* | *finesse* | *fineza* | *fineza* |
+| | | | |
 
 <!--v-->
 
@@ -1619,6 +1760,7 @@ Notes:
 |:-:|:-:|:-:|:-:|
 | fḷamma | flamma | fḷamma | fḷamma |
 | *fiamma* | *flamme* | *llama* | *chama* |
+| | | | |
 
 <!--v-->
 
@@ -1628,6 +1770,7 @@ Notes:
 |:-:|:-:|:-:|:-:|
 | fḷore | fløre | flore | flore |
 | *fiore* | *fleur* | *flor* | *flor* |
+| | | | |
 
 Notes:
 * FR: la fleur
@@ -1641,6 +1784,7 @@ Notes:
 |:-:|:-:|:-:|:-:|
 | fõco | føc̆o | fõc̆o | foc̆o |
 | *fuoco* | *feu* | *fuego* | *fogo* |
+| | | | |
 
 <!--v-->
 
@@ -1650,6 +1794,7 @@ Notes:
 |:-:|:-:|:-:|:-:|
 | folĭa | følĭa | f̆olĭa | folĭa |
 | *foglia* | *feuille* | *hoja* | *folha* |
+| | | | |
 
 <!--v-->
 
@@ -1659,6 +1804,7 @@ Notes:
 |:-:|:-:|:-:|:-:|
 | forma | formă | forma | forma |
 | *forma* | *forme* | *forma* | *forma* |
+| | | | |
 
 <!--v-->
 
@@ -1668,6 +1814,7 @@ Notes:
 |:-:|:-:|:-:|:-:|
 | forma | forma | forma | forma |
 | *forma* | *forme* | *forma* | *forma* |
+| | | | |
 
 <!--v-->
 
@@ -1677,6 +1824,7 @@ Notes:
 |:-:|:-:|:-:|:-:|
 | forno | fǒrno | f̆orno | forno |
 | *forno* | *four* | *horno* | *forno* |
+| | | | |
 
 <!--v-->
 
@@ -1691,6 +1839,7 @@ Notes:
 |:-:|:-:|:-:|:-:|
 | frat̯r̆e | fræt̯re | frat̯r̆ė | frat̯r̆e |
 | *frate* | *frère* | *fray* | *frade* |
+| | | | |
 
 Notes:
 * `?`
@@ -1713,6 +1862,7 @@ flecha
 |:-:|:-:|:-:|:-:|
 | fronte | fronte | frõnte | frõnte |
 | *fronte* | *front* | *frente* | *frente* |
+| | | | |
 
 Notes:
 * Sed... la portugala ne havas `õ` do *e* en *frente* ne estas `õ`? Do estas `ö` kaj en PT kaj en ES?
@@ -1733,6 +1883,7 @@ Notes:
 |:-:|:-:|:-:|:-:|
 | gente | gentes | gente | gente |
 | *gente* | *gens* | *gente* | *gente* |
+| | | | |
 
 <!--v-->
 
@@ -1742,6 +1893,7 @@ Notes:
 |:-:|:-:|:-:|:-:|
 | | | ğermano | ğėrmano |
 | | | *hermano* | *irmão* |
+| | | | |
 
 Notes:
 * `...`
@@ -1767,6 +1919,7 @@ Notes:
 |:-:|:-:|:-:|:-:|
 | gratia | gratĭa | gratia | gratĭa |
 | *grazia* | *grâce* | *gracia* | *graça* |
+| | | | |
 
 <!--v-->
 
@@ -1776,6 +1929,7 @@ Notes:
 |:-:|:-:|:-:|:-:|
 | gůtçja | … | … | … |
 | *goccia* | *…* | *…* | *…* |
+| | | | |
 
 <!--v-->
 
@@ -1789,6 +1943,7 @@ Notes:
 |:-:|:-:|:-:|:-:|
 | … | gutta | gůtta | gůtta |
 | *…* | *goutte* | *gota* | *gota* |
+| | | | |
 
 <!--v-->
 
@@ -1802,6 +1957,7 @@ Notes:
 |:-:|:-:|:-:|:-:|
 | hav̄ĭamo | | | |
 | *abbiamo* | | | |
+| | | | |
 
 Notes:
 * `...`
@@ -1814,6 +1970,7 @@ Notes:
 |:-:|:-:|:-:|:-:|
 | herba | herba | hẽrba | herba |
 | *erba* | *herbe* | *hierba* | *erva* |
+| | | | |
 
 Notes:
 * PT b → v `?` (Warum nicht auch in IT&FR?)
@@ -1826,6 +1983,7 @@ Notes:
 |:-:|:-:|:-:|:-:|
 | hōra | høra | hora | hora |
 | *ora* | *heure* | *ora* | *ora* |
+| | | | |
 
 <!--v-->
 
@@ -1835,6 +1993,7 @@ Notes:
 |:-:|:-:|:-:|:-:|
 | hospït̯ale | hospitale | hospitale | hospitale |
 | *ospedale* | *hôpital* | *hospital* | *hospital* |
+| | | | |
 
 <!--v-->
 
@@ -1858,6 +2017,7 @@ Notes:
 |:-:|:-:|:-:|:-:|
 | in | ȋn | ïn | ïn |
 | *in* | *en* | *en* | *em* |
+| | | | |
 
 <!--v-->
 
@@ -1867,6 +2027,7 @@ Notes:
 |:-:|:-:|:-:|:-:|
 | in | ïn | ïn | ïn |
 | *in* | *en* | *en* | *em* |
+| | | | |
 
 <!--v-->
 
@@ -1876,6 +2037,7 @@ Notes:
 |:-:|:-:|:-:|:-:|
 | indiȼio | indicio | indicio | indicio |
 | *indizio* | *indice* | *indicio* | *indício* |
+| | | | |
 
 Notes:
 * `:)` IT `Ȼȼ`
@@ -1888,6 +2050,7 @@ Notes:
 |:-:|:-:|:-:|:-:|
 | initiare | initiæɍe | initiare | initiare |
 | *iniziare* | *initier* | *iniciar* | *iniciar* |
+| | | | |
 
 <!--v-->
 
@@ -1897,6 +2060,7 @@ Notes:
 |:-:|:-:|:-:|:-:|
 | ïntrare | ïntrær̆e | ïntrare | ïntrare |
 | *entrare* | *entrer* | *entrar* | *entrar* |
+| | | | |
 
 <!--v-->
 
@@ -1930,6 +2094,7 @@ Notes:
 |:-:|:-:|:-:|:-:|
 | jurare | juræɍe | jurare | jurare |
 | *giurare* | *jurer* | *jurar* | *jurar* |
+| | | | |
 
 <!--v-->
 
@@ -1939,6 +2104,7 @@ Notes:
 |:-:|:-:|:-:|:-:|
 | justa | jus̄ta | justa | justa |
 | *giusta* | *juste* | *justa* | *justa* |
+| | | | |
 
 <!--v-->
 
@@ -1948,7 +2114,7 @@ Notes:
 |:-:|:-:|:-:|:-:|
 | justitĭa | jus̄titĭa | justitia | justitĭa |
 | *giustizia* | *justice* | *justicia* | *justiça* |
-
+| | | | |
 
 <!--v-->
 
@@ -1962,6 +2128,7 @@ Notes:
 |:-:|:-:|:-:|:-:|
 | lacte | laċte | läċte | läċte |
 | *latte* | *lait* | *leche* | *leite* |
+| | | | |
 
 <!--v-->
 
@@ -1971,6 +2138,7 @@ Notes:
 |:-:|:-:|:-:|:-:|
 | lana | læna | lana | lana |
 | *lana* | *laine* | *lana* | *lã* |
+| | | | |
 
 <!--v-->
 
@@ -1984,6 +2152,7 @@ Notes:
 |:-:|:-:|:-:|:-:|
 | legale | | | legale |
 | *legale* | | | *legal* |
+| | | | |
 
 Notes:
 * PT -ale
@@ -1996,6 +2165,7 @@ Notes:
 |:-:|:-:|:-:|:-:|
 | legali | | | legales |
 | *legali* | | | *legais* |
+| | | | |
 
 Notes:
 * PT -ales
@@ -2008,6 +2178,7 @@ Notes:
 |:-:|:-:|:-:|:-:|
 | leg̈̇e | lė̃ge | | |
 | *legge* | *loi* | *ley* | *lei* |
+| | | | |
 
 <!--v-->
 
@@ -2017,6 +2188,7 @@ Notes:
 |:-:|:-:|:-:|:-:|
 | leone | lėone | leone | leȏne̊ |
 | *leone* | *lion* | *león* | *leão* |
+| | | | |
 
 <!--v-->
 
@@ -2026,6 +2198,7 @@ Notes:
 |:-:|:-:|:-:|:-:|
 | leone | lėone | leone | leone |
 | *leone* | *lion* | *león* | *leão* |
+| | | | |
 
 <!--v-->
 
@@ -2035,6 +2208,7 @@ Notes:
 |:-:|:-:|:-:|:-:|
 | leoni | lėones | leones | leones |
 | *leoni* | *lions* | *leones* | *leões* |
+| | | | |
 
 <!--v-->
 
@@ -2044,6 +2218,7 @@ Notes:
 |:-:|:-:|:-:|:-:|
 | limone | … | limone | limone |
 | *limone* | *…* | *limón* | *limão* |
+| | | | |
 
 <!--v-->
 
@@ -2053,6 +2228,7 @@ Notes:
 |:-:|:-:|:-:|:-:|
 | linea | linĕa | linea | linĕa |
 | *linea* | *ligne* | *línea* | *linha* |
+| | | | |
 
 <!--v-->
 
@@ -2062,6 +2238,7 @@ Notes:
 |:-:|:-:|:-:|:-:|
 | linguâjo | lïnguâjo | lïnguâjö | linguâjǫ̈ |
 | *linguaggio* | *langage* | *lenguaje* | *linguagem* |
+| | | | |
 
 <!--v-->
 
@@ -2078,6 +2255,7 @@ lib/liv?
 |:-:|:-:|:-:|:-:|
 | lïttera | lïttĕra | lïttĕra | lïttĕra |
 | *lettera* | *lettre* | *letra* | *letra* |
+| | | | |
 
 <!--v-->
 
@@ -2087,6 +2265,7 @@ lib/liv?
 |:-:|:-:|:-:|:-:|
 | lõc̆o | lø̃c̆o | … | loco |
 | *luogo* | *lieu* | *…* | *loco* |
+| | | | |
 
 <!--v-->
 
@@ -2096,6 +2275,7 @@ lib/liv?
 |:-:|:-:|:-:|:-:|
 | luxo | luxo | lux̂o | lux̂o |
 | *lusso* | *luxe* | *lujo* | *luxo* |
+| | | | |
 
 <!--v-->
 
@@ -2109,6 +2289,7 @@ lib/liv?
 |:-:|:-:|:-:|:-:|
 | maïstro | maistro | maïstro | mäĭstro |
 | *maestro* | *maître* | *maestro* | *mestre* |
+| | | | |
 
 <!--v-->
 
@@ -2118,6 +2299,7 @@ lib/liv?
 |:-:|:-:|:-:|:-:|
 | majo | maio | maio | maio |
 | *maggio* | *mai* | *mayo* | *Maio* |
+| | | | |
 
 <!--v-->
 
@@ -2128,11 +2310,6 @@ lib/liv?
 <!-- TODO ? -->
 **manjare** <small>**manducare**</small>
 
-| 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
-|:-:|:-:|:-:|:-:|
-| mano | mæno | mano | mano |
-| *mano* | *main* | *mano* | *mão* |
-
 <!--v-->
 
 **mano**
@@ -2141,6 +2318,7 @@ lib/liv?
 |:-:|:-:|:-:|:-:|
 | mano | mæno | mano | mano |
 | *mano* | *main* | *mano* | *mão* |
+| | | | |
 
 <!--v-->
 
@@ -2150,6 +2328,7 @@ lib/liv?
 |:-:|:-:|:-:|:-:|
 | mani | mænos | manos | manos |
 | *mani* | *mains* | *manos* | *mãos* |
+| | | | |
 
 <!--v-->
 
@@ -2159,6 +2338,7 @@ lib/liv?
 |:-:|:-:|:-:|:-:|
 | martĭo | martĭo | martĭo | martĭo |
 | *marzo* | *mars* | *marzo* | *março* |
+| | | | |
 
 <!--v-->
 
@@ -2168,6 +2348,7 @@ lib/liv?
 |:-:|:-:|:-:|:-:|
 | mare | mære | mare | mare |
 | *mare* | *mer* | *mar* | *mar* |
+| | | | |
 
 <!--v-->
 
@@ -2177,6 +2358,7 @@ lib/liv?
 |:-:|:-:|:-:|:-:|
 | massa | massa | massa | massa |
 | *massa* | *masse* | *masa* | *massa* |
+| | | | |
 
 Notes:
 * `:)` ss
@@ -2193,6 +2375,7 @@ Notes:
 |:-:|:-:|:-:|:-:|
 | mat̯re | mæt̯re | mat̯re | mat̯r̆e |
 | *madre* | *mère* | *madre* | *mãe* |
+| | | | |
 
 Notes:
 * PT at̯r̆ = `ã`
@@ -2214,6 +2397,7 @@ Notes:
 |:-:|:-:|:-:|:-:|
 | mēn̆se | mė̃n̆se | men̆se | men̆se |
 | *mese* | *mois* | *mes* | *mês* |
+| | | | |
 
 <!--v-->
 
@@ -2236,6 +2420,7 @@ Notes:
 |:-:|:-:|:-:|:-:|
 | milione | milione | milĭone | milĭone |
 | *milione* | *million* | *millón* | *milhão* |
+| | | | |
 
 Notes:
 * `:(` IT ll → l
@@ -2248,6 +2433,7 @@ Notes:
 |:-:|:-:|:-:|:-:|
 | můlto | … | muḷto `?` / muḷ `?` | muḷto |
 | *molto* | *…* | *mucho* / *muy* | *muito* |
+| | | | |
 
 <!--v-->
 
@@ -2257,6 +2443,7 @@ Notes:
 |:-:|:-:|:-:|:-:|
 | muro | myro | muro | muro |
 | *muro* | *mur* | *muro* | *muro* |
+| | | | |
 
 <!--v-->
 
@@ -2266,6 +2453,7 @@ Notes:
 |:-:|:-:|:-:|:-:|
 | muro | muro | muro | muro |
 | *muro* | *mur* | *muro* | *muro* |
+| | | | |
 
 <!--v-->
 
@@ -2275,6 +2463,9 @@ Notes:
 |:-:|:-:|:-:|:-:|
 | museo | museo | museo | museo |
 | *museo* | *musée* | *museo* | *museu* |
+| | | | |
+
+<!-- TODO fina linio malsupre de tabeloj -->
 
 <!--v-->
 
@@ -2288,6 +2479,7 @@ Notes:
 |:-:|:-:|:-:|:-:|
 | natione | natione | natione | natĭone |
 | *nazione* | *nation* | *nación* | *nação* |
+| | | | |
 
 <!--v-->
 
@@ -2307,6 +2499,7 @@ Notes:
 |:-:|:-:|:-:|:-:|
 | nocte | nǒċte | noċte | noċte |
 | *notte* | *nuit* | *noche* | *noite* |
+| | | | |
 
 <!--v-->
 
@@ -2316,6 +2509,7 @@ Notes:
 |:-:|:-:|:-:|:-:|
 | nome | nome | nom`?`e | nome |
 | *nome* | *nom* | *nombre* | *nome* |
+| | | | |
 
 <!--v-->
 
@@ -2338,6 +2532,7 @@ norma
 |:-:|:-:|:-:|:-:|
 | nõva | nøva | nõva | nova |
 | *nuova* | *neuve* | *nueva* | *nova* |
+| | | | |
 
 <!--v-->
 
@@ -2359,6 +2554,7 @@ norma
 |:-:|:-:|:-:|:-:|
 | octo | ǒċto | oċto | oċto |
 | *otto* | *huit* | *ocho* | *oito* |
+| | | | |
 
 <!--v-->
 
@@ -2376,6 +2572,7 @@ norma
 |:-:|:-:|:-:|:-:|
 | ǒfficiale | officiäle | officiale | officiale |
 | *ufficio* | *officielle* | *oficial* | *oficial* |
+| | | | |
 
 Notes:
 * `:(` IT ǒ
@@ -2388,6 +2585,7 @@ Notes:
 |:-:|:-:|:-:|:-:|
 | olėo | ø̃leo | oleo | oleo |
 | *olio* | *huile* | *óleo* | *óleo* |
+| | | | |
 
 <!--v-->
 
@@ -2397,6 +2595,7 @@ Notes:
 |:-:|:-:|:-:|:-:|
 | opera | øp̆ĕra | op̆ĕra | op̆ĕra |
 | *opera* | *œuvre* | *obra* | *obra* |
+| | | | |
 
 <!--v-->
 
@@ -2406,6 +2605,7 @@ Notes:
 |:-:|:-:|:-:|:-:|
 | op̄tare | | | |
 | *optare* | | | |
+| | | | |
 
 <!--v-->
 
@@ -2415,6 +2615,7 @@ Notes:
 |:-:|:-:|:-:|:-:|
 | optima | … | optima | optima |
 | *ottima* | *…* | *óptima* | *ótima* |
+| | | | |
 
 <!--v-->
 
@@ -2428,6 +2629,7 @@ Notes:
 |:-:|:-:|:-:|:-:|
 | pace | pæce | pace | pace |
 | *pace* | *paix* | *paz* | *paz* |
+| | | | |
 
 <!--v-->
 
@@ -2437,6 +2639,7 @@ Notes:
 |:-:|:-:|:-:|:-:|
 | paése | pæėse | paėse | paėse |
 | *paese* | *pays* | *país* | *país* |
+| | | | |
 
 <!--v-->
 
@@ -2446,6 +2649,7 @@ Notes:
 |:-:|:-:|:-:|:-:|
 | paesâjo | pæėsâjo | paėsâjö | paėsâjǫ̈ |
 | *paesaggio* | *paysage* | *paisaje* | *paisagem* |
+| | | | |
 
 <!--v-->
 
@@ -2455,6 +2659,7 @@ Notes:
 |:-:|:-:|:-:|:-:|
 | pane | pæne | pane | pane̊ |
 | *pane* | *pain* | *pan* | *pão* |
+| | | | |
 
 <!--v-->
 
@@ -2464,6 +2669,7 @@ Notes:
 |:-:|:-:|:-:|:-:|
 | pane | pæne | pane | pane |
 | *pane* | *pain* | *pan* | *pão* |
+| | | | |
 
 <!-- TODO Tom: Eble francaj ano→æno kaj ane→æne estas implicindaj, analogie al portugalaj komplikaĵoj. -->
 
@@ -2475,6 +2681,7 @@ Notes:
 |:-:|:-:|:-:|:-:|
 | pani | pænes | panes | panes |
 | *pani* | *pains* | *panes* | *pãos* |
+| | | | |
 
 <!--v-->
 
@@ -2484,6 +2691,7 @@ Notes:
 |:-:|:-:|:-:|:-:|
 | paṙo | pæro | parŏ | parŏ |
 | *paio* | *pair* | *par* | *par* |
+| | | | |
 
 <!--v-->
 
@@ -2493,6 +2701,7 @@ Notes:
 |:-:|:-:|:-:|:-:|
 | parlare | parlæɍe | … | … |
 | *parlare* | *parler* | *…* | *…* |
+| | | | |
 
 <!--v-->
 
@@ -2502,6 +2711,7 @@ Notes:
 |:-:|:-:|:-:|:-:|
 | parte | parte | parte | partĕ/partė |
 | *parte* | *part* | *parte* | *parte* |
+| | | | |
 
 <!--v-->
 
@@ -2511,6 +2721,7 @@ Notes:
 |:-:|:-:|:-:|:-:|
 | parte | parte | parte | parte |
 | *parte* | *part* | *parte* | *parte* |
+| | | | |
 
 <!--v-->
 
@@ -2520,6 +2731,7 @@ Notes:
 |:-:|:-:|:-:|:-:|
 | pat̯re | pæt̯re | pat̯re | pat̯r̆e |
 | *padre* | *père* | *padre* | *pai* |
+| | | | |
 
 <!--v-->
 
@@ -2529,6 +2741,7 @@ Notes:
 |:-:|:-:|:-:|:-:|
 | påŭco | pæ̊ŭc̆o | påŭco | påuco |
 | *poco* | *peu* | *poco* | *pouco* |
+| | | | |
 
 <!--v-->
 
@@ -2538,6 +2751,7 @@ Notes:
 |:-:|:-:|:-:|:-:|
 | påŭp̆era | påŭp̆ĕra | `?` | `?` |
 | *povera* | *pauvre* | *pobre* | *pobre* |
+| | | | |
 
 <!--v-->
 
@@ -2551,6 +2765,7 @@ Notes:
 |:-:|:-:|:-:|:-:|
 | peça | pẽça | pẽça | peça |
 | *pezza* | *pièce* | *pieza* | *peça* |
+| | | | |
 
 <!--v-->
 
@@ -2560,6 +2775,7 @@ Notes:
 |:-:|:-:|:-:|:-:|
 | pẽde | pẽde | pẽd̯e | ped̯e |
 | *piede* | *pied* | *pie* | *pé* |
+| | | | |
 
 <!--v-->
 
@@ -2569,6 +2785,7 @@ Notes:
 |:-:|:-:|:-:|:-:|
 | pẽde | pẽde | pẽde | pede |
 | *piede* | *pied* | *pie* | *pé* |
+| | | | |
 
 <!--v-->
 
@@ -2578,6 +2795,7 @@ Notes:
 |:-:|:-:|:-:|:-:|
 | pensare | pensæɍe | pensare | pensare |
 | *pensare* | *penser* | *pensar* | *pensar* |
+| | | | |
 
 <!--v-->
 
@@ -2587,6 +2805,7 @@ Notes:
 |:-:|:-:|:-:|:-:|
 | per | pěr | pe̊r | pe̊r |
 | *per* | *pour* | *por* | *por* |
+| | | | |
 
 <!--v-->
 
@@ -2600,6 +2819,7 @@ Notes:
 |:-:|:-:|:-:|:-:|
 | perdere | perdĕre | perdere | perdere |
 | *perdere* | *perdre* | *perder* | *perder* |
+| | | | |
 
 <!--v-->
 
@@ -2613,6 +2833,7 @@ Notes:
 |:-:|:-:|:-:|:-:|
 | persona | persona | persona | peɍsona |
 | *persona* | *personne* | *persona* | *pessoa* |
+| | | | |
 
 <!--v-->
 
@@ -2622,6 +2843,7 @@ Notes:
 |:-:|:-:|:-:|:-:|
 | pẽtra | pẽt̯ra | pet̯ra | pet̯ra |
 | *pietra* | *pierre* | *pedra* | *pedra* |
+| | | | |
 
 <!--v-->
 
@@ -2631,6 +2853,7 @@ Notes:
 |:-:|:-:|:-:|:-:|
 | photo | photo | photo | photo |
 | *foto* | *photo* | *foto* | *foto* |
+| | | | |
 
 <!--v-->
 
@@ -2640,6 +2863,7 @@ Notes:
 |:-:|:-:|:-:|:-:|
 | pïlo | pĩlo | pïlo | pïlo |
 | *pelo* | *poil* | *pelo* | *pelo* |
+| | | | |
 
 <!--v-->
 
@@ -2649,6 +2873,7 @@ Notes:
 |:-:|:-:|:-:|:-:|
 | pïsce | … | pïsce | pïs̃ĉe |
 | *pesce* | *…* | *pez* | *peixe* |
+| | | | |
 
 Notes:
 * `?` PT
@@ -2661,6 +2886,7 @@ Notes:
 |:-:|:-:|:-:|:-:|
 | pïra | pĩra | pïra | pïra |
 | *pera* | *poire* | *pera* | *pera* |
+| | | | |
 
 <!--v-->
 
@@ -2670,6 +2896,7 @@ Notes:
 |:-:|:-:|:-:|:-:|
 | pḷaça | plaça | plaça | pl̯aça |
 | *piazza* | *place* | *plaza* | *praça* |
+| | | | |
 
 <!--v-->
 
@@ -2679,6 +2906,7 @@ Notes:
 |:-:|:-:|:-:|:-:|
 | pḷana | plæna | pḷana | pḷana |
 | *piana* | *plaine* | *llana* | *chã* |
+| | | | |
 
 <!--v-->
 
@@ -2688,6 +2916,7 @@ Notes:
 |:-:|:-:|:-:|:-:|
 | pḷena | plena | pḷena | pḷeṅa |
 | *piena* | *pleine* | *llena* | *cheia* |
+| | | | |
 
 <!--v-->
 
@@ -2697,6 +2926,7 @@ Notes:
 |:-:|:-:|:-:|:-:|
 | pḷuma | pluma | pluma | pluma |
 | *piuma* | *plume* | *pluma* | *pluma* |
+| | | | |
 
 <!--v-->
 
@@ -2706,6 +2936,7 @@ Notes:
 |:-:|:-:|:-:|:-:|
 | *pḷůmbo* | *plůmbo* | *plůmƀo* | *pḷumbo* |
 | *piombo* | *plomb* | *plomo* | *chumbo* |
+| | | | |
 
 <!--v-->
 
@@ -2715,6 +2946,7 @@ Notes:
 |:-:|:-:|:-:|:-:|
 | *pḷovere* | *…* | *…* | *…* |
 | *piovere* | *…* | *…* | *…* |
+| | | | |
 
 <!--v-->
 
@@ -2724,6 +2956,7 @@ Notes:
 |:-:|:-:|:-:|:-:|
 | ponte | ponte | põnte | ponte |
 | *ponte* | *pont* | *puente* | *ponte* |
+| | | | |
 
 <!--v-->
 
@@ -2733,6 +2966,7 @@ Notes:
 |:-:|:-:|:-:|:-:|
 | porta | porta | põrta | porta |
 | *porta* | *porte* | *puerta* | *porta* |
+| | | | |
 
 <!--v-->
 
@@ -2742,6 +2976,7 @@ Notes:
 |:-:|:-:|:-:|:-:|
 | porto | porto | põrto | porto |
 | *porto* | *port* | *puerto* | *porto* |
+| | | | |
 
 <!--v-->
 
@@ -2751,6 +2986,7 @@ Notes:
 |:-:|:-:|:-:|:-:|
 | posta | pos̄ta | … | … |
 | *posta* | *poste* | … | … |
+| | | | |
 
 <!--v-->
 
@@ -2768,6 +3004,7 @@ Notes:
 |:-:|:-:|:-:|:-:|
 | pronuntjare | pronůntĭæɍe | pronuntiare | pronuntiare |
 | *pronunciare* | *prononcer* | *pronunciar* | *pronunciar* |
+| | | | |
 
 <!--v-->
 
@@ -2777,6 +3014,7 @@ Notes:
 |:-:|:-:|:-:|:-:|
 | pronuntiare | pronůntĭæɍe | pronuntiare | pronuntiare |
 | *pronunziare* | *prononcer* | *pronunciar* | *pronunciar* |
+| | | | |
 
 <!--v-->
 
@@ -2786,6 +3024,7 @@ Notes:
 |:-:|:-:|:-:|:-:|
 | proxĭma | | | |
 | *prossima* | | | |
+| | | | |
 
 <!--v-->
 
@@ -2795,6 +3034,7 @@ Notes:
 |:-:|:-:|:-:|:-:|
 | puḇlica | | | |
 | *pubblica* | | | |
+| | | | |
 
 <!--v-->
 
@@ -2804,6 +3044,7 @@ Notes:
 |:-:|:-:|:-:|:-:|
 | půlso | pulso | pulso | pulso |
 | *polso* | *pouls* | *pulso* | *pulso* |
+| | | | |
 
 Notes:
 * FR u = ǒ = ů̌
@@ -2816,6 +3057,7 @@ Notes:
 |:-:|:-:|:-:|:-:|
 | pun̆cto | | | |
 | *punto* | | | |
+| | | | |
 
 <!--v-->
 
@@ -2829,6 +3071,7 @@ Notes:
 |:-:|:-:|:-:|:-:|
 | quando | quando | quando | quando |
 | *quando* | *quand* | *cuándo* | *quando* |
+| | | | |
 
 <!--v-->
 
@@ -2838,6 +3081,7 @@ Notes:
 |:-:|:-:|:-:|:-:|
 | quattro | qŭattro | quattro | quattro |
 | *quattro* | *quatre* | *cuatro* | *quatro* |
+| | | | |
 
 <!--v-->
 
@@ -2847,6 +3091,7 @@ Notes:
 |:-:|:-:|:-:|:-:|
 | quattro | quattro | quattro | quattro |
 | *quattro* | *quatre* | *cuatro* | *quatro* |
+| | | | |
 
 <!--v-->
 
@@ -2856,6 +3101,7 @@ Notes:
 |:-:|:-:|:-:|:-:|
 | qŭe | quė̃ | qŭe | qŭe |
 | *che* | *quoi* | *que* | *que* |
+| | | | |
 
 Notes:
 * FR que
@@ -2876,6 +3122,7 @@ Notes:
 |:-:|:-:|:-:|:-:|
 | radice | … | rad̯ice | rad̯ice |
 | *radice* | *…* | *raíz* | *raiz* |
+| | | | |
 
 <!--v-->
 
@@ -2885,6 +3132,7 @@ Notes:
 |:-:|:-:|:-:|:-:|
 | radjo | `?` | rad̯io | rad̯io |
 | *raggio* | `?` | *rayo* | *raio* |
+| | | | |
 
 <!--v-->
 
@@ -2894,6 +3142,7 @@ Notes:
 |:-:|:-:|:-:|:-:|
 | rana | … | rana | rana |
 | *rana* | … | *rana* | *rã* |
+| | | | |
 
 Notes:
 * `:)` PT -ana
@@ -2907,6 +3156,7 @@ Notes:
 |:-:|:-:|:-:|:-:|
 | reğĕ | rẽge | reġĕ | reġĕ |
 | *re* | *roi* | *rey* | *rei* |
+| | | | |
 
 <!--v-->
 
@@ -2924,6 +3174,7 @@ Notes:
 |:-:|:-:|:-:|:-:|
 | rene | rene | `...` | rėne |
 | *rene* | *rein* | *riñón* | *rim* |
+| | | | |
 
 <!--v-->
 
@@ -2933,6 +3184,7 @@ Notes:
 |:-:|:-:|:-:|:-:|
 | rete | rete | ret̯e | ret̯e |
 | *rete* | *rets* | *red* | *rede* |
+| | | | |
 
 <!--v-->
 
@@ -2942,6 +3194,7 @@ Notes:
 |:-:|:-:|:-:|:-:|
 | rete | rete | rete | rete |
 | *rete* | *rets* | *red* | *rede* |
+| | | | |
 
 <!--v-->
 
@@ -2951,6 +3204,7 @@ Notes:
 |:-:|:-:|:-:|:-:|
 | ric̄a | riĉa | rica | rica |
 | *ricca* | *riche* | *rica* | *rica* |
+| | | | |
 
 Notes:
 * FR `riche` ankaŭ por la vira formo
@@ -2963,6 +3217,7 @@ Notes:
 |:-:|:-:|:-:|:-:|
 | růssa | russa | růsŝa | růsŝa |
 | *rossa* | *rousse* | *roja* | *roxa* |
+| | | | |
 
 <!--v-->
 
@@ -2976,6 +3231,7 @@ Notes:
 |:-:|:-:|:-:|:-:|
 | sacco | sacco | sacco | sacco |
 | *sacco* | *sac* | *saco* | *saco* |
+| | | | |
 
 <!--v-->
 
@@ -2985,6 +3241,7 @@ Notes:
 |:-:|:-:|:-:|:-:|
 | sala | sala | sala | sala |
 | *sala* | *salle* | *sala* | *sala* |
+| | | | |
 
 <!--v-->
 
@@ -2994,6 +3251,7 @@ Notes:
 |:-:|:-:|:-:|:-:|
 | sale | sæle | sale | sal̥e |
 | *sale* | *sel* | *sal* | *sal* |
+| | | | |
 
 <!--v-->
 
@@ -3003,6 +3261,7 @@ Notes:
 |:-:|:-:|:-:|:-:|
 | sale | sæle | sale | sale |
 | *sale* | *sel* | *sal* | *sal* |
+| | | | |
 
 <!--v-->
 
@@ -3012,6 +3271,7 @@ Notes:
 |:-:|:-:|:-:|:-:|
 | sali | sæles | sales | sałes |
 | *sali* | *sels* | *sales* | *sais* |
+| | | | |
 
 <!--v-->
 
@@ -3021,6 +3281,7 @@ Notes:
 |:-:|:-:|:-:|:-:|
 | sali | sæles | sales | sales |
 | *sali* | *sels* | *sales* | *sais* |
+| | | | |
 
 <!--v-->
 
@@ -3030,6 +3291,7 @@ Notes:
 |:-:|:-:|:-:|:-:|
 | salone | salone | salone | salone |
 | *salone* | *salon* | *salón* | *salão* |
+| | | | |
 
 <!--v-->
 
@@ -3039,6 +3301,7 @@ Notes:
 |:-:|:-:|:-:|:-:|
 | salto | salto | salto | salto |
 | *salto* | *saut* | *salto* | *salto* |
+| | | | |
 
 <!--v-->
 
@@ -3048,6 +3311,7 @@ Notes:
 |:-:|
 | salto = sau |
 | *saut* |
+| |
 
 <!--v-->
 
@@ -3057,6 +3321,7 @@ Notes:
 |:-:|
 | salto = sautu |
 | *salto* |
+| |
 
 <!--v-->
 
@@ -3066,6 +3331,7 @@ Notes:
 |:-:|:-:|:-:|:-:|
 | sana | sæna | sana | sană |
 | *sana* | *saine* | *sana* | *sã* |
+| | | | |
 
 <!--v-->
 
@@ -3075,6 +3341,7 @@ Notes:
 |:-:|:-:|:-:|:-:|
 | sana | sæna | sana | sana |
 | *sana* | *saine* | *sana* | *sã* |
+| | | | |
 
 <!--v-->
 
@@ -3088,6 +3355,7 @@ Notes:
 |:-:|:-:|:-:|:-:|
 | sapere | sap̆ė̃re | sap̆ere | sap̆ere |
 | *sapere* | *savoir* | *saber* | *saber* |
+| | | | |
 
 <!--v-->
 
@@ -3101,6 +3369,7 @@ Notes:
 |:-:|:-:|:-:|:-:|
 | schõla | s̃chola | s̃chõla | s̃chola |
 | *scuola* | *école* | *escuela* | *escola* |
+| | | | |
 
 <!--v-->
 
@@ -3110,6 +3379,7 @@ Notes:
 |:-:|:-:|:-:|:-:|
 | scrivĕre | s̃criv̆ėre | s̃crivėre | s̃crïvere |
 | *scrivere* | *écrire* | *escribir* | *escrever* |
+| | | | |
 
 Notes:
 * `?` FR s̃criv̆ėre/s̃criv̆ĕre
@@ -3140,6 +3410,7 @@ Notes:
 |:-:|:-:|:-:|:-:|
 | sera | sė̃ra | … | … |
 | *sera* | *soir* | *…* | *…* |
+| | | | |
 
 <!--v-->
 
@@ -3161,6 +3432,7 @@ Notes:
 |:-:|:-:|:-:|:-:|
 | … | … | sine | sïne |
 | … | … | *sin* | *sem* |
+| | | | |
 
 <!--v-->
 
@@ -3170,6 +3442,7 @@ Notes:
 |:-:|:-:|:-:|:-:|
 | sïno | sïno | sïno | sïṅo |
 | *seno* | *sein* | *seno* | *seio* |
+| | | | |
 
 <!--v-->
 
@@ -3183,6 +3456,7 @@ Notes:
 |:-:|:-:|:-:|:-:|
 | sõno | sono | sonŏ | sono |
 | *suono* | *son* | *son* | *som* |
+| | | | |
 
 <!--v-->
 
@@ -3192,6 +3466,7 @@ Notes:
 |:-:|:-:|:-:|:-:|
 | sõra | søra | … | … |
 | *suora* | *sœur* | *…* | *…* |
+| | | | |
 
 Notes:
 * IT *sorella*
@@ -3204,6 +3479,7 @@ Notes:
 |:-:|:-:|:-:|:-:|
 | spatio | s̃patĭo | s̃patio | s̃patĭo |
 | *spazio* | *éspace* | *espacio* | *espaço* |
+| | | | |
 
 Notes:
 * FR ne estas épace (do "sp" estas pli konservata ol "st")
@@ -3216,6 +3492,7 @@ Notes:
 |:-:|:-:|:-:|:-:|
 | stēlla | s̃tė̃lla | … | … |
 | *stella* | *étoile* | *…* | *…* |
+| | | | |
 
 Notes:
 * `:)` IT ē
@@ -3231,6 +3508,7 @@ Notes:
 |:-:|:-:|:-:|:-:|
 | studii | | | |
 | *studi* | | | |
+| | | | |
 
 Notes:
 * IT -ii
@@ -3243,6 +3521,7 @@ Notes:
 |:-:|:-:|:-:|:-:|
 | systema | systema | systema | systema |
 | *sistema* | *système* | *sistema* | *sistema* |
+| | | | |
 
 <!--v-->
 
@@ -3260,6 +3539,7 @@ Notes:
 |:-:|:-:|:-:|:-:|
 | tēcto | tė̃cto | teċto | … |
 | *tetto* | *toit* | *techo* | *…* |
+| | | | |
 
 <!--v-->
 
@@ -3269,6 +3549,7 @@ Notes:
 |:-:|:-:|:-:|:-:|
 | tempḷo | templo | templo | templo |
 | *tempio* | *temple* | *templo* | *templo* |
+| | | | |
 
 Notes:
 * IT `templi`
@@ -3281,6 +3562,7 @@ Notes:
 |:-:|:-:|:-:|:-:|
 | tempo | tempo | tẽmpo | tempo |
 | *tempo* | *temps* | *tiempo* | *tempo* |
+| | | | |
 
 Notes:
 * FR `-s`
@@ -3293,6 +3575,7 @@ Notes:
 |:-:|:-:|:-:|:-:|
 | tenere | tenėre | tenere | ten̆ĕr |
 | *tenere* | *tenir* | *tener* | *ter* |
+| | | | |
 
 <!--v-->
 
@@ -3302,6 +3585,7 @@ Notes:
 |:-:|:-:|:-:|:-:|
 | terra | terra | tẽrra | terra |
 | *terra* | *terre* | *tierra* | *terra* |
+| | | | |
 
 <!--v-->
 
@@ -3319,6 +3603,7 @@ Notes:
 |:-:|:-:|:-:|:-:|
 | thema | thema | thema | thema |
 | *tema* | *thème* | *tema* | *tema* |
+| | | | |
 
 Notes:
 * `:(` FR `sujet`
@@ -3331,6 +3616,7 @@ Notes:
 |:-:|:-:|:-:|:-:|
 | theoria | theoria | theoria | theoria |
 | *teoria* | *théorie* | *teoría* | *teoria* |
+| | | | |
 
 <!--v-->
 
@@ -3340,6 +3626,7 @@ Notes:
 |:-:|:-:|:-:|:-:|
 | thesis | these | thesis | these |
 | *tesi* | *thèse* | *tesis* | *tese* |
+| | | | |
 
 <!--v-->
 
@@ -3349,6 +3636,7 @@ Notes:
 |:-:|:-:|:-:|:-:|
 | torre | tǒrre | torre | torre |
 | *torre* | *tour* | *torre* | *torre* |
+| | | | |
 
 <!--v-->
 
@@ -3358,6 +3646,7 @@ Notes:
 |:-:|:-:|:-:|:-:|
 | tǒṯa | tǒta | tot̯a | tot̯a |
 | *tutta* | *toute* | *toda* | *toda* |
+| | | | |
 
 <!--v-->
 
@@ -3371,6 +3660,7 @@ Notes:
 |:-:|:-:|:-:|:-:|
 | träĭno | traino | träĭnŏ | … |
 | *treno* | *train* | *tren* | *…* |
+| | | | |
 
 Notes:
 * BR `trem`
@@ -3405,6 +3695,7 @@ Notes:
 |:-:|:-:|:-:|:-:|
 | una | una | una | uma |
 | *una* | *une* | *una* | *uma* |
+| | | | |
 
 <!--v-->
 
@@ -3414,6 +3705,7 @@ Notes:
 |:-:|:-:|:-:|:-:|
 | unione | unione | unione | unione |
 | *unione* | *union* | *unión* | *união* |
+| | | | |
 
 <!--v-->
 
@@ -3423,6 +3715,7 @@ Notes:
 |:-:|:-:|:-:|:-:|
 | uno | uno | uno | uno |
 | *uno* | *un* | *uno* | *um* |
+| | | | |
 
 <!-- TODO PT estas malklara -->
 
@@ -3434,6 +3727,7 @@ Notes:
 |:-:|:-:|:-:|:-:|
 | universitat̯ĕ | universitate | universit̯at̯e | universit̯at̯e |
 | *università* | *université* | *universidad* | *universidade* |
+| | | | |
 
 <!--v-->
 
@@ -3447,6 +3741,7 @@ Notes:
 |:-:|:-:|:-:|:-:|
 | valere | valė̃re | valere | valere |
 | *valere* | *valoir* | *valer* | *valer* |
+| | | | |
 
 <!--v-->
 
@@ -3460,6 +3755,7 @@ Notes:
 |:-:|:-:|:-:|:-:|
 | vena | vena | vena | veṅa |
 | *vena* | *veine* | *vena* | *veia* |
+| | | | |
 
 <!--v-->
 
@@ -3473,6 +3769,7 @@ Notes:
 |:-:|:-:|:-:|:-:|
 | via | vĩa | via | via |
 | *via* | *voie* | *via* | *via* |
+| | | | |
 
 <!--v-->
 
@@ -3482,6 +3779,7 @@ Notes:
 |:-:|:-:|:-:|:-:|
 | vino | vino | vino | viṇo |
 | *vino* | *vin* | *vino* | *vinho* |
+| | | | |
 
 <!--v-->
 
@@ -3491,6 +3789,7 @@ Notes:
 |:-:|:-:|:-:|:-:|
 | visione | visione | visione | visione |
 | *visione* | *vision* | *visión* | *visão* |
+| | | | |
 
 <!--v-->
 
@@ -3500,6 +3799,7 @@ Notes:
 |:-:|:-:|:-:|:-:|
 | vōce | võce | vocĕ | vocĕ |
 | *voce* | *voix* | *voz* | *voz* |
+| | | | |
 
 <!--v-->
 
@@ -3509,6 +3809,7 @@ Notes:
 |:-:|:-:|:-:|:-:|
 | vōce | võce | voce | voce |
 | *voce* | *voix* | *voz* | *voz* |
+| | | | |
 
 <!--v-->
 
@@ -3518,6 +3819,7 @@ Notes:
 |:-:|:-:|:-:|:-:|
 | vōci | võces | voces | voces |
 | *voci* | *voix* | *voces* | *voces* |
+| | | | |
 
 <!--v-->
 
@@ -3527,6 +3829,7 @@ Notes:
 |:-:|:-:|:-:|:-:|
 | volare | volær̆e | volare | vołare |
 | *volare* | *voler* | *volar* | *voár* |
+| | | | |
 
 <!--v-->
 
@@ -3536,6 +3839,7 @@ Notes:
 |:-:|:-:|:-:|:-:|
 | volo | volo | võlo | voło |
 | *volo* | *vol* | *vuelo* | *voo* |
+| | | | |
 
 <!--v-->
 
@@ -3543,7 +3847,9 @@ Notes:
 
 | 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
 |:-:|:-:|:-:|:-:|
+| vulcano | vůlcano | … | … |
 | *vulcano* | *volcan* | *volcán* | *vulcão* |
+| | | | |
 
 Notes:
 * PT vulcões
@@ -3572,12 +3878,6 @@ Notes:
 
 ## Z
 
-<!-- TODO fina linio malsupre de tabeloj -->
-
-
-<!-- prehendere prendere prendêr -->
-
-
 # Ekzemploj
 
 ## [Le Silva Magica](https://eduardoortegagonzalez.com/2024/02/03/le-silva-magic-i-conto-in-interlingua/)
@@ -3591,8 +3891,6 @@ Notes:
 | In Nova Sperantia, le gente ha dicido que le foresta ha sido incantada, nam ello ha sido populada per ali-qui populos `feerica` ante le establimento del novasperantianos. | In Nova Sperantia, le gente diceva que le foresta fuêsse incantata, nam ello habeva sito populata per ali-quis populos `feericas` ante le establimento del novasperantianos. |
 | Le majoridad del casas e  | |
 
-<!-- TODO `quis` konfliktas. -->
-
 ## [Declaration Universale del Derectos Humanas](https://www.ohchr.org/en/human-rights/universal-declaration/translations/interlingua)
 *("Declaration Universal del Derectos Human")*
 
@@ -3602,4 +3900,3 @@ Notes:
 
 Considerante que le `recognoscentia` del dignitad <small>dignitate</small> inherente a toda le membros del familia humana e de `lessa` derectos equal e `inalienabile` `consitute` le fundamento del libertad, del justitia e del paç nel mundo,
 
-<!-- TODO Aparte mencii ĉiujn esceptojn pri grekaj vortoj. Phase. Planeta. Philosophia. Systema. -->

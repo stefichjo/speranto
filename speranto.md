@@ -1401,6 +1401,8 @@ Aldone, la plimulto de la finaĵoj de la interaj dialektoj varias. Ekzemple, dum
 | kiel | **qŭiem** <small>(**qŭiel**)</small> *[kiem]* |
 | kies | **qŭius** <small>(**qŭies**)</small> *[kius]* |
 
+<!-- TODO `qŭius/quis` (kies) konfliktas kun la pluralo de `qŭiu/qui` (kiu). -->
+
 <!--v-->
 
 | Esperanto | Linguo |
@@ -1808,6 +1810,14 @@ Tra bruo, la prepozicio **a** uziĝas por la indiki la rektan objekton. (Tiam uz
 | pli bona | **mâs bona** <small>**mağĭs bona**</small> |
 | plej bona | **la max bona** |
 
+<!-- TODO malpli -->
+<!-- TODO (la) minus -->
+<!-- TODO (la) plus -->
+
+<!--v-->
+
+<small>Kiam</small>
+
 <!--v-->
 
 ## Adverboj
@@ -1895,6 +1905,7 @@ Tra bruo, la prepozicio **a** uziĝas por la indiki la rektan objekton. (Tiam uz
 | si(a) | **se(a)** |
 
 <!-- TODO Konsiderindas uzi *sea* ankaŭ anstataŭ ellea, ollea, kaj ullea. -->
+<!-- TODO simile al Lingua Internationale, laŭ la formato → Lingua Intermdiaria -->
 
 <!--v-->
 
