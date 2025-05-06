@@ -12,19 +12,12 @@ revealOptions:
 
 <!-- cd ~/Git/speranto/latinidaj; reveal-md ia.md -w -->
 
-<!-- 
-"Tra Bruo" estu ankaŭ pri Lingua Auxiliar
-ge [ge]
-ti [ti]
-j [j]
- -->
-<!-- TODO prehendere prendere prendêr -->
-
 <!-- TODO illi → esti → speranto.md -->
 <!-- TODO "un-" ne estas (necese) tabelvorta radiko → speranto.md -->
 <!-- TODO ali-, -que → speranto.md -->
 <!-- TODO qual origine priskribita kiel origine -a, sed eble ja fakte -u. → speranto.md -->
 <!-- TODO qual-c ... qual-que -->
+<!-- TODO essĕre anstataŭ sêre → speranto.md ? -->
 
 # Lingua Inter-nationale
 *(Interlingua post la Fina Venko)*
@@ -119,7 +112,16 @@ j [j]
 
 | | |
 |-|-|
-| *centro* | centro *[sentro]* <small>🔊 *[centro]*</small> |
+| *maso* | massa *[masa]* <small>🔊 *[massa]*</small> |
+| | |
+| *rozo* | rosa *[roza]* <small>🔊 *[rosa]*</small> |
+| | |
+
+<!--v-->
+
+| | |
+|-|-|
+| *centro* | centro *[sentro]* <small>🔊¹ *[centro]*, 🔊² *[kentro]*</small> |
 | | |
 | *teksto* | texto *[testo]* <small>🔊 *[teksto]*</small> |
 | | |
@@ -128,9 +130,9 @@ j [j]
 
 | | |
 |-|-|
-| *placo* | plaça *[plasa]* <small>🔊 *[placa]*, 🌎 placia</small> |
+| *placo* | plaça *[plasa]* <small>🔊¹ *[placa]*, 🔊² *[plate-a]*, 🌎 placia</small> |
 | | |
-| *spaco* | spatio *[spasjo]* <small>🔊 *[spaci-o]*</small> |
+| *spaco* | spatio *[spasjo]* <small>🔊¹ *[spaci-o]*, 🔊² *[spati-o]*</small> |
 | | |
 
 <!--v-->
@@ -140,6 +142,13 @@ j [j]
 | *gesto* | gesto *[ĵesto]* <small>🔊 *[gesto]*</small> |
 | | |
 | *jam* | jam *[ĵam]* <small>🔊 *[jam]*</small> |
+| | |
+
+<!--v-->
+
+| | |
+|-|-|
+| *signo* | signo *[sinjo]* <small>🔊 *[signo]*</small> |
 | | |
 
 <!--v-->
@@ -189,8 +198,8 @@ Notes:
 
 | | |
 |-|-|
-| *fazo*      | phase *[faze]* |
-| *ideo*      | idea *[idea]* |
+| *fazo*      | phase   *[faze]*    |
+| *ideo*      | idea    *[idea]*    |
 | *planedo*   | planeta *[planeta]* |
 | *sistemo*   | systema *[sistema]* <small>🔊 *[systema]*</small> |
 | | |
@@ -214,8 +223,9 @@ Notes:
 
 | | |
 |-|-|
-| *limo*  | lime <small>🎵 limĭte, 🌎 limite</small> |
-| *nomo*  | nome <small>🎵 nomĭne, 🌎 nomine</small> |
+| *homo*  | home  <small>🎵 homĭne,  🌎 homine</small>  |
+| *limo*  | lime  <small>🎵 limĭte,  🌎 limite</small>  |
+| *nomo*  | nome  <small>🎵 nomĭne,  🌎 nomine</small>  |
 | *tempo* | tempo <small>🎵 tempŏre, 🌎 tempore</small> |
 | | |
 
@@ -320,8 +330,8 @@ Notes:
 
 | | | |
 |-|-|-|
-| un   <small>uno</small>     | unesima  <small>prima</small>    | - |
-| du   <small>duo</small>     | duesima  <small>secunda</small>  | vinti     |
+| un   <small>uno</small>     | unesima   <small>prima</small>   | - |
+| du   <small>duo</small>     | duesima   <small>secunda</small> | vinti     |
 | tri             |             triesima  <small>terça</small>   | trenta    |
 | quar <small>quattre</small> | quaresima <small>quarta</small>  | quarenta  |
 | quin <small>cinque</small>  | quinesima <small>quinta</small>  | cinquenta |
@@ -444,13 +454,13 @@ Notes:
 
 | | |
 |-|-|
-| *la(j)* | le <small>el (les)</small> |
+| *la(j)* | le <small>le(s)</small> |
 | | |
-| *-(j)*  | un <small>une(s) |
+| *-(j)*  | un <small>una(s) |
 | | |
 
 Notes:
-* les unes e les alteres
+* les unas e les alteras
 
 <!--v-->
 
@@ -480,14 +490,16 @@ Notes:
 | | |
 | *`*`i* | elli |
 | | |
+| *sin* | se |
+| | |
 
 <!--v-->
 
 | | |
 |-|-|
-| *lia*  | ellea, de-le <small>sua, 🌎 su</small> |
+| *lia*  | ellea, de-le, sea <small>sua, 🌎 su</small> |
 | | |
-| *ilia* | ell`*`ssa, de-l`*`s <small>loro, 🌎 lor</small> |
+| *ilia* | ell`*`ssa, de-l`*`s, sea <small>loro, 🌎 lor</small> |
 | | |
 
 <small>*sua* havas multenombran formon: *suas*. Dume, *loro* ne havas multenombran formon.</small>
@@ -588,9 +600,9 @@ Notes:
 
 | | |
 |-|-|
-| *esti* | ser <small>sêre, 🌎 esser</small> |
+| *esti* | ser <small>essĕre, 🌎 esser</small> |
 | | |
-| *estis* | ha sito <small>êra, 🌎 esseva</small> |
+| *estis* | ha sito <small>êra, 🌎 esseva, era</small> |
 | | |
 
 <!--v-->
@@ -601,13 +613,13 @@ Notes:
 
 | | |
 |-|-|
-| *(mi) kreas* | eo crea <small>🎵 creo</small> |
-| *(ci) kreas* | tu crea <small>🎵 creas</small> |
-| *(li) kreas* | elle crea <small>🎵 crea</small> |
+| *(mi) kreas* | eo crea   <small>🎵 creo</small>  |
+| *(ci) kreas* | tu crea   <small>🎵 creas</small> |
+| *(li) kreas* | elle crea <small>🎵 crea</small>  |
 | | |
-| *(ni) kreas*  | nos crea <small>🎵 creamos</small> |
-| *(vi) kreas*  | vos crea <small>🎵 creáis</small> |
-| *(ili) kreas* | elles crea <small>🎵 crean</small> |
+| *(ni) kreas*  | nos crea   <small>🎵 creamos</small> |
+| *(vi) kreas*  | vos crea   <small>🎵 creáis</small>  |
+| *(ili) kreas* | elles crea <small>🎵 crean</small>   |
 | | |
 
 <small>En **Lingua Internationale**, eblas uzi konjugacion kiel en **Lingua Intermediaria**, ekzemple en poezio.</small>
@@ -2465,8 +2477,6 @@ Notes:
 | *museo* | *musée* | *museo* | *museu* |
 | | | | |
 
-<!-- TODO fina linio malsupre de tabeloj -->
-
 <!--v-->
 
 ## N
@@ -3878,6 +3888,8 @@ Notes:
 
 ## Z
 
+<!--s-->
+
 # Ekzemploj
 
 ## [Le Silva Magica](https://eduardoortegagonzalez.com/2024/02/03/le-silva-magic-i-conto-in-interlingua/)
@@ -3885,18 +3897,66 @@ Notes:
 
 **Le Silva Magica (I) – Le incontro con Farralar**
 
-| 🌐 | 🎵 |
-|-|-|
-| Ha sido le anno 531 del Quarta `Etate` e, al foras del parva villajo de Nova Sperantia, le juvene Valerio, post haver finido suas lavores nel ferma familiar, ha ido ad explorar al foresta vicina a sua domo, cognida quomo Le Silva Magica. | Era le anno 531 del Quarta `Etate` e, âs foras del parva villajo de Nova Sperantia, le juvĕne Valerio, post havér finito suas labores nêl ferma familiare, vadeva ad explorare âl foresta vicina a sua domo, cognita quomo Le Silva Magĭca. |
-| In Nova Sperantia, le gente ha dicido que le foresta ha sido incantada, nam ello ha sido populada per ali-qui populos `feerica` ante le establimento del novasperantianos. | In Nova Sperantia, le gente diceva que le foresta fuêsse incantata, nam ello habeva sito populata per ali-quis populos `feericas` ante le establimento del novasperantianos. |
-| Le majoridad del casas e  | |
+<!--v-->
+
+Ha sito <small>Era</small> le anno 531 del Quaresima <small>Quarta</small> `Etate` e, as <small>al</small> foras del parva villajo de Nova Sperantia, le juvene Valerio, post haber finito suas labores nel ferma familiar <small>familiare</small>, ha ito <small>vadeva</small> ad explorar <small>explorare</small> al foresta vicina a sua domo, cognita quomo Le Silva Magica.
+
+<!--v-->
+
+In Nova Sperantia, le gente ha dicito <small>diceva</small> que le foresta ha sido <small>fuêsse</small> incantata, nam ello ha sito <small>era</small> populata per ali-qui <small>ali-quis</small> populos `feerica` <small>`feericas`</small> ante le establimento del <small>des</small> novasperantianos.
+
+<!-- suas -->
+<!-- "il" ha -->
+
+<!--s-->
 
 ## [Declaration Universale del Derectos Humanas](https://www.ohchr.org/en/human-rights/universal-declaration/translations/interlingua)
 *("Declaration Universal del Derectos Human")*
 
+<!--v-->
+
 **Preambulo**
 
-> Considerante que le recognoscentia del dignitate inherente a tote le membros del familia human e de lor derectos equal e inalienabile constitue le fundamento del libertate, del justitia e del pace in le mundo,
+<!--v-->
 
-Considerante que le `recognoscentia` del dignitad <small>dignitate</small> inherente a toda le membros del familia humana e de `lessa` derectos equal e `inalienabile` `consitute` le fundamento del libertad, del justitia e del paç nel mundo,
+Considerante que le recognoscentia del dignitat<small>-e</small> inherente a tota<small>-s</small> le<small>-s</small> membros del familia humana e de sea<small>=loro</small> derectos equal<small>-es</small> e inalienabil<small>-es</small> constitue le fundamento del libertat<small>-e</small>, del justitia e del paç<small>-e</small> nel mundo,
 
+<!--v-->
+
+Considerante que le ignorantia e le dispreço del derectos humana<small>-s</small> ha<small>-n</small> resultato<small>=resultâron</small> in actos de barbaria que ultraja<small>-n</small> le conscientia del humanitat<small>-e</small>, e que le advenimento de un<small>=una</small> mundo in le qual<small>-e</small> le<small>-s</small> seres humana<small>-s</small> sera<small>-n</small> libera<small>-s</small> de parlar<small>-e</small> e de creder<small>-e</small>, liberata<small>-s</small> del terror<small>-e</small> e del miseria, ha sito<small>=ês sita =fue</small> proclamata quomo le plus alta aspiration<small>-e</small> del home<small>-ĭn-</small>,
+
+<!--v-->
+
+Considerante que es essential<small>-e</small> que le<small>-s</small> derectos humana<small>-s</small> es<small>=sôn</small> protegita<small>-s</small> per medio de un<small>=una</small> de derecto, a fin<small>-e</small> que le home<small>-ĭn-</small> non es<small>=sêa</small> compellita al ultime recurso del rebellion<small>-e</small> contra le tyrannia e le oppression<small>-e</small>,
+
+<!--v-->
+
+Considerante que es essential<small>-e</small> promover<small>-e</small> le disvoluppamento de relationes amical<small>-es</small> inter le<small>-s</small> nationes,
+
+<!--v-->
+
+Considerante que in le Charta le<small>-s</small> populos del<small>=dês</small> Nationes Unita<small>-s</small> ha<small>-n</small> reaffirmato<small>=reaffirmâron</small> loro fide nel<small>=nês</small> derectos humana<small>-s</small> fundamental<small>-es</small>, nel dignitat<small>-e</small> e nel valor<small>-e</small> del persona humana, nel equalitat<small>-e</small> del<small>=dês</small> homes<small>-ĭn-</small> e del<small>=dês</small> feminas, e que illos se ha<small>-n</small> declarato<small>=declarâron</small> resolutas a promover<small>-e</small> le progresso social<small>-e</small> e a instaurar<small>-e</small> melior<small>-es</small> conditiones de vita in un<small>=una</small> libertat<small>-e</small> plus grande,
+
+<!--v-->
+
+Considerante que le<small>-s</small> Statos Membros ha<small>-n</small> promittite<small>=promisso</small> <small>=promisêron</small> de assecurar<small>-e</small>, in cooperation<small>-e</small> con le Organisation<small>-e</small> del<small>=dês</small> Nationes Unita<small>-s</small>, le respecto universal<small>-e</small> e effectiva al<small>=âs</small> derectos humana<small>-s</small> e libertates fundamental<small>-es</small>,
+
+<!--v-->
+
+Considerante que un<small>=una</small> conception<small>-e</small> de esta<small>-s</small> derectos e libertates es del plus grande importantia pro le plena realization<small>-e</small> de esta promissa,
+
+<!--v-->
+
+Le Assemblea General<small>-e</small>
+
+<!--v-->
+
+Proclama le presente Declaration<small>-e</small> Universal<small>-e</small> del<small>=dês</small> Derectos Humana<small>-s</small> quomo le ideal<small>-e</small> commun<small>-e</small> a attinger<small>-e</small> per tota<small>-s</small> le<small>-s</small> populos e nationes, a fin<small>-e</small> que tota<small>-s</small> le<small>-s</small> individuos e tota<small>-s</small> le<small>-s</small> organos del societat<small>-e</small>, havente esta Declaration<small>-e</small> constantemente in mente, se efforça<small>-en</small>, per le inseniamento e per le education<small>-e</small>, a disvoluppar<small>-e</small> le respecto a esta<small>-s</small> derectos e libertates e a promover<small>-e</small>, per mesuras progressiva<small>-s</small> de character<small>-e</small> national<small>-e</small> e international<small>-e</small>, sua<small>=loro</small> recognoscentia e sua<small>=loro</small> application<small>-e</small> universal<small>-e</small> e effectiva tanto inter le<small>-s</small> populos del<small>=dês</small> Statos Membros `mesme` quomo inter los del<small>=dês</small> territorios sub sua<small>loro</small> jurisdiction<small>-e</small>.
+
+<!--v-->
+
+**Articulo 1**
+
+<!--v-->
+
+Tota<small>-s</small> le<small>-s</small> seres humana<small>-s</small> nasce<small>-n</small> libera<small>-s</small> e equal<small>-es</small> in dignitat<small>-e</small> e in derectos. Ellus es<small>=sôn</small> dotata<small>-s</small> de ration<small>-e</small> e de conscientia e debe<small>-n</small> `ager` le<small>-s</small> unas verso le<small>-s</small> alteras in un<small>=una</small> spirito de fraternitat<small>-e</small>.
