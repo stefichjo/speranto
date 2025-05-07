@@ -12,12 +12,17 @@ revealOptions:
 
 <!-- cd ~/Git/speranto/latinidaj; reveal-md ia.md -w -->
 
+<!-- TODO mie? tue? sue? mis? tus? sus? -->
+
+
 <!-- TODO illi → esti → speranto.md -->
 <!-- TODO "un-" ne estas (necese) tabelvorta radiko → speranto.md -->
 <!-- TODO ali-, -que → speranto.md -->
 <!-- TODO qual origine priskribita kiel origine -a, sed eble ja fakte -u. → speranto.md -->
 <!-- TODO qual-c ... qual-que -->
 <!-- TODO essĕre anstataŭ sêre → speranto.md ? -->
+<!-- TODO tĭ=tĕ ⇒ ç → speranto.md -->
+
 
 # Lingua Inter-nationale
 *(Interlingua post la Fina Venko)*
@@ -36,7 +41,7 @@ revealOptions:
 
 | | |
 |-|-|
-| *rapida* | rapida <small>rapĭda</small> |
+| *muziko* | musica <small>musĭca</small> |
 | | |
 
 <small>En **Lingua Auxiliar**, la supersignoj, kiuj indikas neakcentatajn ŝajnfinaĵojn, ne skribiĝas.</small>
@@ -58,20 +63,27 @@ revealOptions:
 
 | | |
 |-|-|
-| *maro* | mar <small>mare, 🎵 mâr</small> |
-| | |
-| *ami* | amar <small>amare, 🎵 amár</small> |
+| *reto* | rete <small>rete, 🎵 rêt</small> |
 | | |
 
-<small>En **Lingua Internationale**, la vokalo *-e* elizieblas malantaŭ akcentata silabo kun dentala konsonanto (*c*, *d*, *l*, *n*, *r*, *s*, *t*), ekzemple en poezio.</small>
-
-<small>En **Lingua Auxiliar**, tiu elizio estas deviga.</small>
+<small>En **Lingua Internationale**, vortofina *-e* estas eliziebla malantaŭ dentala konsonanto (*c*, *d*, *l*, *n*, *r*, *s*, *t*), ekzemple en poezio.</small>
 
 <!--v-->
 
 | | |
 |-|-|
-| *paco* | paç <small>pace, 🎵 pâç, 🌎 pace</small> |
+| *maro* | mar <small>mare, 🎵 mâr</small> |
+| | |
+| *ami* | amar <small>amare, 🎵 amár</small> |
+| | |
+
+<small>En **Lingua Auxiliar**, tiu elizio estas deviga, sed nur malantaŭ *l*, *n* kaj *r*.</small>
+
+<!--v-->
+
+| | |
+|-|-|
+| *paco* | pace <small>pace, 🎵 pâç</small> |
 | | |
 
 <small>Ĉe elizio, *c* skribiĝas *ç*.</small>
@@ -80,33 +92,36 @@ revealOptions:
 
 | | |
 |-|-|
-| *angla* | ingles <small>inglese *[iŋgleze]*, 🎵 inglés *[iŋgles']*, 🌎 anglese</small> |
-| *anglaj* | ingleses |
+| *vendi* | vender *[vender']* <small>vendĕre *[vende-re]*</small> |
 | | |
 
-<small>Ĉe elizio, *s* *[z]* prononciĝas *[s]*.</small>
+<small>La silabo antaŭ la elizio estas akcentata.</small>
 
 <!--v-->
 
 | | |
 |-|-|
-| *fari* | facer *[faser']* <small>facĕre *[fase-re]*, 🌎 facer *[facer']*</small> |
+| *alia* | altre *[altre]* <small>altĕra *[alte-ra]*</small> |
 | | |
-| *facila* | facil *[fasil']* <small>facĭle *[fasi-le]*, 🌎 facile *[faci-le]*</small> |
+| *stabila* | stable *[stable]* <small>stabĭle *[stabi-le]*</small> |
 | | |
 
-<small>La silabo antaŭ la eliziiĝinta *-e* estas akcentata.</small>
+<small>Ĉe elizio, ne-akcentataj -*ĭle* kaj -*ĕra* perdas la ne-akcentatan vokalon.</small>
 
 <!--v-->
 
 ### Tra Bruo
 
+<small>En **Lingua Internationale**, la prononco povas esti pli klara, t.e. **tra bruo**. En **Lingua Auxiliar**, tiu prononco estas deviga.</small>
+
 <!--v-->
 
 | | |
 |-|-|
-| *horo* | hora *[ora]* <small>🔊 *[hora]*</small> |
+| *horo* | hora *[hora]* <small>*[ora]*</small> |
 | | |
+
+<small>En **Lingua Internationale**, *h* estas muta, krom **tra bruo**.</small>
 
 <!--v-->
 
@@ -114,85 +129,85 @@ revealOptions:
 |-|-|
 | *maso* | massa *[masa]* <small>🔊 *[massa]*</small> |
 | | |
-| *rozo* | rosa *[roza]* <small>🔊 *[rosa]*</small> |
+| *rozo* | rosa *[rosa]* <small>*[roza]*</small> |
+| | |
+
+<small>En **Lingua Internationale**, duoblaj konsonantoj estas prononceblaj **tra bruego**.</small>
+
+<!--v-->
+
+| | |
+|-|-|
+| *centro* | centro *[centro]* <small>*[sentro]*, 🔊 *[kentro]*</small> |
+| | |
+| *teksto* | texto *[teksto]* <small>*[testo]*</small> |
+| | |
+
+<small>En **Lingua Internationale**, *ce* kaj *ci* estas prononceblaj kun *[k]* **tra bruego**.</small>
+
+<!--v-->
+
+| | |
+|-|-|
+| *gesto* | gesto *[gesto]* <small>*[ĵesto]*</small> |
+| | |
+| *jam* | jam *[jam]* <small>*[ĵam]*</small> |
 | | |
 
 <!--v-->
 
 | | |
 |-|-|
-| *centro* | centro *[sentro]* <small>🔊¹ *[centro]*, 🔊² *[kentro]*</small> |
+| *placo* | placia *[placi-a]* <small>plaça *[plasa]*, 🔊 *[plati-a]*</small> |
 | | |
-| *teksto* | texto *[testo]* <small>🔊 *[teksto]*</small> |
-| | |
-
-<!--v-->
-
-| | |
-|-|-|
-| *placo* | plaça *[plasa]* <small>🔊¹ *[placa]*, 🔊² *[plate-a]*, 🌎 placia</small> |
-| | |
-| *spaco* | spatio *[spasjo]* <small>🔊¹ *[spaci-o]*, 🔊² *[spati-o]*</small> |
+| *spaco* | spatio *[spaci-o]* <small>*[spasjo]*, 🔊 *[spati-o]*</small> |
 | | |
 
 <!--v-->
 
 | | |
 |-|-|
-| *gesto* | gesto *[ĵesto]* <small>🔊 *[gesto]*</small> |
+| *lingvo* | lingua *[lingu-a]* <small>*[liŋgŭa]*</small> |
 | | |
-| *jam* | jam *[ĵam]* <small>🔊 *[jam]*</small> |
-| | |
-
-<!--v-->
-
-| | |
-|-|-|
-| *signo* | signo *[sinjo]* <small>🔊 *[signo]*</small> |
+| *signo* | signo *[signo]* <small>*[sinjo]*</small> |
 | | |
 
 <!--v-->
 
 | | |
 |-|-|
-| *tuta* | tota *[toda]* <small>🔊 *[tota]*</small> |
-| | |
-| *totala* | total *[total']* |
+| *trinki* | biber   *[biber']*   <small>bibĕre   *[bive-re]*   </small> |
+| *devi*   | deber   *[deber']*   <small>debere   *[devere]*    </small> |
+| *dubi*   | dubitar *[dubitar']* <small>dubitare *[duvidare]*  </small> |
+| *havi*   | haber   *[haber']*   <small>habere   *[avere]*     </small> |
+| *labori* | laborar *[laborar']* <small>laborare *[lavorare]*  </small> |
+| *provi*  | probar  *[probar']*  <small>probare  *[provare]*   </small> |
+| *skribi* | scriber *[skriber']* <small>scribĕre *[skrive-re]* </small> |
 | | |
 
-<small>Radikofine, postvokala *t* prononciĝas *[d]*, krom **tra bruo**.</small>
+<small>En **Lingua Internationale**, en origine verbaj radikoj, postvokala *b* prononciĝas *[v]*, krom **tra bruo**.</small>
+
+Notes:
+* bibita *[bibi-ta]*
+* libera *[libe-ra]*, liberar *[liberar']*, livrar *[livrar']*
 
 <!--v-->
 
 | | |
 |-|-|
-| *piedo*  | ped   *[pe]* <small>🔊 *[ped]*</small> |
-| *piedoj* | pedes *[pedes]* |
+| *reto* | rete *[rete]* <small>*[red]*</small> |
+| | |
+| *retino* | retina *[reti-na]* |
+| | |
+
+| | |
+|-|-|
+| *piedo*  | pede  *[pede]* <small>*[pe]*</small> |
 | | |
 | *pedalo* | pedal *[pedal']* |
 | | |
 
-<small>Vortofine, postvokala *d* eliziiĝas, krom **tra bruo**.</small>
-
-<!--v-->
-
-| | |
-|-|-|
-| *trinki* | biber   *[biver']*   <small>bibĕre    🔊 *[bibe-re]*   </small> |
-| *devi*   | deber   *[dever']*   <small>debere    🔊 *[debere]*    </small> |
-| *dubi*   | dubitar *[duvidar']* <small>dubitare  🔊 *[dubitare]*  </small> |
-| *havi*   | haber   *[aver']*    <small>habere    🔊 *[habere]*    </small> |
-| *labori* | laborar *[lavorar']* <small>laborare  🔊 *[laborare]*  </small> |
-| *provi*  | probar  *[provar']*  <small>probare   🔊 *[probare]*   </small> |
-| *skribi* | scriber *[skriver']* <small>scribĕre  🔊 *[skribe-re]* </small> |
-| | |
-
-<small>En origine verbaj radikoj, postvokala *b* prononciĝas *[v]*, krom **tra bruo**.</small>
-
-Notes:
-* stabil *[stabil']*
-* bibita *[bibi-ta]*
-* libera *[libe-ra]*, liberar *[liberar']*, livrar *[livrar']*
+<small>En **Lingua Internationale**, radikofina postvokala *t(e)* prononciĝas *[d]*, krom **tra bruo**. Vortofina postvokala *d(e)* eliziiĝas, krom **tra bruo**.</small>
 
 <!--v-->
 
@@ -239,17 +254,19 @@ Notes:
 
 | | |
 |-|-|
-| *delikata*  | delicata *[delikada]* <small>🌎 delicate</small> |
-| *malgranda* | parva <small>🌎 parve</small> |
+| *delikata* | delicate *[delikate]* <small>delicata *[delikada]*</small> |
+| *granda*   | grande |
 | | |
-| *klasika* | classica <small>classĭca, 🌎 classic</small> |
+| *logike* | logique *[logi-ke]* <small>logĭca *[loĵi-ka]*, 🌎 logic</small> |
 | | |
+
+<small>En **Lingua Auxiliar**, ĉiuj adjektivoj finiĝas je -*e*.</small>
 
 <!--v-->
 
 | | |
 |-|-|
-| *belaj montoj* | montes bella <small>montes bellas, 🌎 montes belle</small> |
+| *belaj montoj* | montes belle <small>montes bellas |
 | | |
 
 <!--v-->
@@ -258,12 +275,12 @@ Notes:
 |-|-|
 | *Bonan tagon!* | Bon die! |
 | | |
-| *Britio*       | Gran Britannia |
+| *Britio*       | Grande Britannia <small>Grân Britannia</small> |
 | | |
 | *pliparto*     | major parte <small>majór parte</small> |
 | | |
 
-<small>*bona* kaj *grande* havas malregulajn eliziojn kiam ili estas metitaj antaŭ la substantivo: *bon*, *gran*. Antaŭ la substantivo, la elizio de -*e* estas deviga en **Lingua Internationale**.</small>
+<small>En **Lingua Internationale**,*bona* kaj *grande* havas malregulajn eliziojn kiam ili estas metitaj antaŭ la substantivo: *bon*, *gran*. Antaŭ la substantivo, la elizio de -*e* en *-ore* estas deviga en **Lingua Internationale**.</small>
 
 <!--v-->
 
@@ -284,7 +301,9 @@ Notes:
 
 | | |
 |-|-|
-| *rapide* | rapidamente <small>🌎 rapidemente</small> |
+| *rapide* | rapidemente <small>rapidamente, 🌎 rapidemente</small> |
+| | |
+| *logike* | logiquemente <small>logicamente, 🌎 logicamente</small> |
 | | |
 
 <small>Adverboj estas formataj pere de la sufikso -*mente*.</small>
@@ -293,20 +312,20 @@ Notes:
 
 | | |
 |-|-|
-| *bona* | bona |
+| *bona* | bon |
 | | |
 | *bone* | ben <small>bene</small> |
 | | |
 
-<small>La adverba formo de *bona* estas malregula: *ben* <small>bene</small></small>
+<small>La adverba formo de *bon* estas malregula: *ben* <small>bene</small></small>
 
 <!--v-->
 
 | | |
 |-|-|
-| *certe* | certamente <small>🌎 certemente</small> |
+| *certe* | certemente |
 | | |
-| *certe (ke)* | certo (que) <small>certo (qŭe)</small> |
+| *certe (ke)* | certo (que) |
 | | |
 
 <small>Adverboj, kiuj priskribas subfrazojn, estas formataj pere de la finaĵo -*o*.</small>
@@ -477,6 +496,8 @@ Notes:
 | *vi, vin, via* | vos | vos | vossa <small>vostra, 🌎 vostre</small> |
 | | | | |
 
+<!-- TODO mea tea nossa vossa -e -->
+
 <!--v-->
 
 | | |
@@ -523,15 +544,6 @@ Notes:
 
 | | |
 |-|-|
-| *diri* | dicer <small>dicĕre, 🎵 dicér</small> |
-| | |
-
-<small>Kiam -*e* eliziiĝas en ne-akcentata -*ĕre*, -*er* fariĝas akcentata.</small>
-
-<!--v-->
-
-| | |
-|-|-|
 | *helpi vin*   | adjutar-te  <small>adjutár te</small>  |
 | | |
 | *voli helpi* | voler adjutar <small>volér adjutare</small> |
@@ -545,25 +557,16 @@ Notes:
 
 | | |
 |-|-|
-| *krei* | crear <small>creare</small> |
-| *kreita* | creata <small>🌎 create</small> |
+| *vidita*  | vidite <small>vidita, 🎵 vista</small> |
+| *vidinte* | vidite <small>vidito, 🎵 visto</small> |
 | | |
 
 <!--v-->
 
 | | |
 |-|-|
-| *vidita* | vidita <small>🎵 vista</small> |
-| | |
-| *ĉar* | vidito que <small>🎵 visto qŭe</small> |
-| | |
-
-<!--v-->
-
-| | |
-|-|-|
-| *estas kreinta* | ha creato <small>🌎 ha create</small> |
-| *estas veninta* | ha venito <small>ês venita, 🌎 ha venite</small> |
+| *estas kreinta* | ha create <small>hâ creato</small> |
+| *estas veninta* | ha venite <small>ês venita</small> |
 | | |
 
 <!--v-->
@@ -571,29 +574,32 @@ Notes:
 | | |
 |-|-|
 | *kreas*    | crea |
-| *kreis*    | ha creato  <small>creava,     🌎 creava</small> |
-| *kreintas* | ha creato  <small>creáu,      🌎 ha create</small> |
-| *kreos*    | va a crear <small>creará,     🌎 creara</small> |
-| *kreontas* | va a crear <small>va a crear, 🌎 va crear</small> |
+| *kreu(j)!* | crea! <small>crea(te)!</small> |
+| | |
+| *(ke) kreu*     | crea <small>🎵 cree</small> |
+| *(se/do) kreus* | crea <small>crearía, 🎵 creâsse/crearía, 🌎 crearea</small> |
 | | |
 
 <!--v-->
 
 | | |
 |-|-|
-| *kreu(j)!* | crea(t)! <small>crea(te)!</small> |
+| *kreintas* | ha create <small>hâ creato, 🌎 ha create</small> |
+| *kreis*    | ha create <small>creava,    🌎 creava</small> |
 | | |
-| *(ke) kreu* | crea <small>cree</small> |
-| *(se/do) kreus* | crea <small>creâsse/crearía, 🌎 crearea</small> |
+| *kreontas* | va crear <small>vâ creare, 🌎 va crear</small> |
+| *kreos*    | va crear <small>creará,    🌎 creara</small> |
 | | |
+
+<small>En **Lingua Auxiliar**, uziĝas la intas- kaj la ontas-tempoj anstataŭ la is- kaj la os-tempoj.</small>
+
+<!-- TODO va (a?) -->
 
 <!--v-->
 
 | | |
 |-|-|
-| *irintas* | ha ito <small>vadéu, 🌎 ha ite</small> |
-| | |
-| *estas irinta* | ha ito <small>ês ita, 🌎 ha ite</small> |
+| *irintas* | ha ite <small>ês ita, 🎵 vadéu</small> |
 | | |
 
 <!--v-->
@@ -602,7 +608,8 @@ Notes:
 |-|-|
 | *esti* | ser <small>essĕre, 🌎 esser</small> |
 | | |
-| *estis* | ha sito <small>êra, 🌎 esseva, era</small> |
+| *estintas* | ha site <small>ês sita, 🎵 fue</small> |
+| *estis*    | ha site <small>êra, 🌎 esseva, era</small> |
 | | |
 
 <!--v-->
@@ -3910,7 +3917,7 @@ In Nova Sperantia, le gente ha dicito <small>diceva</small> que le foresta ha si
 
 <!--s-->
 
-## [Declaration Universale del Derectos Humanas](https://www.ohchr.org/en/human-rights/universal-declaration/translations/interlingua)
+## [Declaration Universal del Derectos Humana](https://www.ohchr.org/en/human-rights/universal-declaration/translations/interlingua)
 *("Declaration Universal del Derectos Human")*
 
 <!--v-->
@@ -3923,7 +3930,7 @@ Considerante que le recognoscentia del dignitat<small>-e</small> inherente a tot
 
 <!--v-->
 
-Considerante que le ignorantia e le dispreço del derectos humana<small>-s</small> ha<small>-n</small> resultato<small>=resultâron</small> in actos de barbaria que ultraja<small>-n</small> le conscientia del humanitat<small>-e</small>, e que le advenimento de un<small>=una</small> mundo in le qual<small>-e</small> le<small>-s</small> seres humana<small>-s</small> sera<small>-n</small> libera<small>-s</small> de parlar<small>-e</small> e de creder<small>-e</small>, liberata<small>-s</small> del terror<small>-e</small> e del miseria, ha sito<small>=ês sita =fue</small> proclamata quomo le plus alta aspiration<small>-e</small> del home<small>-ĭn-</small>,
+Considerante que le ignorantia e le dispreço del<small>=dês</small> derectos humana<small>-s</small> ha<small>-n</small> resultato<small>=resultâron</small> in actos de barbaria que ultraja<small>-n</small> le conscientia del humanitat<small>-e</small>, e que le advenimento de un<small>=una</small> mundo in le qual<small>-e</small> le<small>-s</small> seres humana<small>-s</small> sera<small>-n</small> libera<small>-s</small> de parlar<small>-e</small> e de creder<small>-e</small>, liberata<small>-s</small> del terror<small>-e</small> e del miseria, ha sito<small>=ês sita =fue</small> proclamata quomo le plus alta aspiration<small>-e</small> del home<small>-ĭn-</small>,
 
 <!--v-->
 
