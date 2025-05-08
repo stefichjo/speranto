@@ -1656,11 +1656,11 @@ Tra bruo, la prepozicio **a** uziĝas por la indiki la rektan objekton. (Tiam uz
 
 <!--v-->
 
-> **Si nos etja supponerá, qŭe<br> la lingua finale de las futuras<br> generationes sêa nôn Sperante, in<br> omna occasione la via ad illi<br> lingua elavorenda infallibilmente<br> deve conducĕre trans Sperante.**
+> **Si nos etja supponerá, qŭe<br> la lingua finale de las futuras<br> generationes sêa nôn Sperante, in<br> omna occasione la via ad isti<br> lingua elavorenda infallibilmente<br> deve conducĕre trans Sperante.**
 
 <!--v-->
 
-> [Si nos eĉa suponera', ke<br> la liŋgŭa finale de las futuras<br> ĵenerasjones sea non Sperante, in<br> omna okazjone la via ad ili<br> liŋgŭa elavorenda infalibilmente<br> deve konduse-re trans Sperante.]
+> [Si nos eĉa suponera', ke<br> la liŋgŭa finale de las futuras<br> ĵenerasjones sea non Sperante, in<br> omna okazjone la via ad isti<br> liŋgŭa elavorenda infalibilmente<br> deve konduse-re trans Sperante.]
 
 <!--v-->
 
@@ -1677,7 +1677,7 @@ Tra bruo, la prepozicio **a** uziĝas por la indiki la rektan objekton. (Tiam uz
 | Esperanto | Lingua |
 |-|-|
 | en ĉiu okazo | **in omna occasione**<br> *[in omna okazjone]* |
-| la vojo al tiu | **la via ad illi**<br> *[la via ad ili]* |
+| la vojo al tiu | **la via ad isti**<br> *[la via ad isti]* |
 | ellaborota lingvo | **lingua elavorenda**<br> *[liŋgŭa elavorenda]* |
 | nepre devas | **infallibilmente deve**<br> *[infalibilmente deve]* |
 | konduki tra Esperanto | **conducĕre trans S-e**<br> *[konduse-re trans Sperante]* |
@@ -1853,8 +1853,8 @@ Tra bruo, la prepozicio **a** uziĝas por la indiki la rektan objekton. (Tiam uz
 
 | Esperanto | Lingua |
 |-|-|
-| tiu | **illi** *[ili]* |
-| ĉi tiu | **quilli** *[kŭili]* |
+| tiu | **isti** *[isti]* |
+| ĉi tiu | **quisti** *[kŭisti]* |
 | | |
 | neniu | **nilli** *[nili]* |
 | | |
@@ -1868,13 +1868,13 @@ Tra bruo, la prepozicio **a** uziĝas por la indiki la rektan objekton. (Tiam uz
 | Esperanto | Lingua |
 |-|-|
 | kia | **qua** <small>**quale**</small> |
-| ĉi tia | **quilla** <small>**tale**</small> |
+| ĉi tia | **quista** <small>**tale**</small> |
 | | |
 | kie | **quo** <small>**uvi**</small> |
-| ĉi tie | **quillo** <small>**ivi**</small> |
+| ĉi tie | **quisto** <small>**ivi**</small> |
 | | |
 | kiom | **quo** <small>**quanto**</small> |
-| ĉi tiom | **quillo** <small>**tanto**</small> |
+| ĉi tiom | **quisto** <small>**tanto**</small> |
 
 <!--v-->
 
@@ -2291,11 +2291,11 @@ Tra bruo, la prepozicio **a** uziĝas por la indiki la rektan objekton. (Tiam uz
 
 <!--v-->
 
-> **Si nos etja supponerêmos, qŭe<br> la lingua finál de las futuras<br> generationes sêa nôn Sperante, in<br> omna occasión la via ad illi<br> lingua elavorenda infallibilmente<br> deve conducér trans Sperante.**
+> **Si nos etja supponerêmos, qŭe<br> la lingua finál de las futuras<br> generationes sêa nôn Sperante, in<br> omna occasión la via ad isti<br> lingua elavorenda infallibilmente<br> deve conducér trans Sperante.**
 
 <!--v-->
 
-> [Si nos eĉa suponeremos, ke<br> la liŋgŭa final' de las futuras<br> ĵenerasjones sea non Sperante, in<br> omna okazjon' la via ad ili<br> liŋgŭa elavorenda infalibilmente<br> deve konduser' trans Sperante.]
+> [Si nos eĉa suponeremos, ke<br> la liŋgŭa final' de las futuras<br> ĵenerasjones sea non Sperante, in<br> omna okazjon' la via ad isti<br> liŋgŭa elavorenda infalibilmente<br> deve konduser' trans Sperante.]
 
 <!--v-->
 
@@ -2312,7 +2312,7 @@ Tra bruo, la prepozicio **a** uziĝas por la indiki la rektan objekton. (Tiam uz
 | Esperanto | Intermediaria |
 |-|-|
 | en ĉiu okazo | **in omna occasión**<br> *[in omna okazjon']* |
-| la vojo al tiu | **la via ad illi**<br> *[la via ad ili]* |
+| la vojo al tiu | **la via ad isti**<br> *[la via ad isti]* |
 | ellaborota lingvo | **lingua elavorenda**<br> *[liŋgŭa elavorenda]* |
 | nepre devas | **infallibilmente deve**<br> *[infalibilmente deve]* |
 | konduki tra Esperanto | **conducér trans S-e**<br> *[konduser' trans Sperante]* |
@@ -2982,11 +2982,11 @@ Tra bruo, la prepozicio **a** uziĝas por la indiki la rektan objekton. (Tiam uz
 
 <!--v-->
 
-> **Si nos etiam supponerabemus, qŭe<br> la lingua finale de las futuras<br> generationes sêat nôn Sperante, in<br> omna occasione la via ad illi<br> lingua elaborenda infallibilemente<br> debet conducĕre trans Sperante.**
+> **Si nos etiam supponerabemus, qŭe<br> la lingua finale de las futuras<br> generationes sêat nôn Sperante, in<br> omna occasione la via ad isti<br> lingua elaborenda infallibilemente<br> debet conducĕre trans Sperante.**
 
 <!--v-->
 
-> [Si nos eti-am supponerabemus, ke<br> la liŋgu-a finale de las futuras<br> generationes seat non Sperante, in<br> omna okkasione la via ad illi<br> liŋgu-a elaborenda infallibilemente<br> debet konduke-re trans Sperante.]
+> [Si nos eti-am supponerabemus, ke<br> la liŋgu-a finale de las futuras<br> generationes seat non Sperante, in<br> omna okkasione la via ad isti<br> liŋgu-a elaborenda infallibilemente<br> debet konduke-re trans Sperante.]
 
 <!--v-->
 
@@ -3004,7 +3004,7 @@ Tra bruo, la prepozicio **a** uziĝas por la indiki la rektan objekton. (Tiam uz
 | Esperanto | Classĭca |
 |-|-|
 | en ĉiu okazo | **in omna occasione** |
-| la vojo al tiu | **la via ad illi** |
+| la vojo al tiu | **la via ad isti** |
 | ellaborota lingvo | **lingua elaborenda** |
 | nepre devas | **infallibilemente debet** |
 | konduki tra Esperanto | **conducĕre trans S-e** |
@@ -3183,8 +3183,8 @@ Duoblaj vokaloj en finaĵoj estas skribataj kun makrono.
 
 | Esperanto | Classĭca |
 |-|-|
-| tiu | **illi** |
-| ĉi tiu | **quilli** <small>**eccu-illi**</small> |
+| tiu | **isti** |
+| ĉi tiu | **quisti** <small>**eccu-isti**</small> |
 | | |
 | neniu | **nilli** |
 | | |
@@ -3726,11 +3726,11 @@ Notes:
 
 <!--v-->
 
-> **Si nos etja supporêmos, qŭe<br> la lingua finál de las futuras<br> generationes sêa nôn Sperante, in<br> omna occasión la via ad illi<br> lingua elavorenda infallivilmente<br> deve condûr trans Sperante.**
+> **Si nos etja supporêmos, qŭe<br> la lingua finál de las futuras<br> generationes sêa nôn Sperante, in<br> omna occasión la via ad esti<br> lingua elavorenda infallivilmente<br> deve condûr trans Sperante.**
 
 <!--v-->
 
-> [Si nos eĉa suporemos, ke<br> la liŋgŭa finaŭ' de las futuras<br> ĵenerasjones sea non Sperante, in<br> omna okazjon' la via ad ili<br> liŋgŭa elavorenda infaliviŭmente<br> deve konduĥ' trans Sperante.]
+> [Si nos eĉa suporemos, ke<br> la liŋgŭa finaŭ' de las futuras<br> ĵenerasjones sea non Sperante, in<br> omna okazjon' la via ad esti<br> liŋgŭa elavorenda infaliviŭmente<br> deve konduĥ' trans Sperante.]
 
 <!--v-->
 
@@ -3747,7 +3747,7 @@ Notes:
 | Esperanto | Meridionál |
 |-|-|
 | en ĉiu okazo | **in omna occasión**<br> *[in omna okazjon']* |
-| la vojo al tiu | **la via ad illi**<br> *[la via ad ili]* |
+| la vojo al tiu | **la via ad esti**<br> *[la via ad esti]* |
 | ellaborota lingvo | **lingua elavorenda**<br> *[liŋgŭa elavorenda]* |
 | nepre devas | **infallivilmente deve**<br> *[infaliviŭmente deve]* |
 | konduki tra Esperanto | **condûr trans S-e**<br> *[konduĥ' trans Sperante]* |

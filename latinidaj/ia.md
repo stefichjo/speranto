@@ -12,17 +12,15 @@ revealOptions:
 
 <!-- cd ~/Git/speranto/latinidaj; reveal-md ia.md -w -->
 
-<!-- TODO mie? tue? sue? mis? tus? sus? -->
+<!-- "il" ha -->
+<!-- quia jam ekzistas kaj signifas "ĉar". konflikto. -->
 
-
-<!-- TODO illi → esti → speranto.md -->
 <!-- TODO "un-" ne estas (necese) tabelvorta radiko → speranto.md -->
 <!-- TODO ali-, -que → speranto.md -->
 <!-- TODO qual origine priskribita kiel origine -a, sed eble ja fakte -u. → speranto.md -->
 <!-- TODO qual-c ... qual-que -->
 <!-- TODO essĕre anstataŭ sêre → speranto.md ? -->
 <!-- TODO tĭ=tĕ ⇒ ç → speranto.md -->
-
 
 # Lingua Inter-nationale
 *(Interlingua post la Fina Venko)*
@@ -63,10 +61,12 @@ revealOptions:
 
 | | |
 |-|-|
-| *reto* | rete <small>rete, 🎵 rêt</small> |
+| *ansero* | ansere <small>ansĕre</small> |
+| | |
+| *monato* | mese <small>mêse <small>men̆se</small>, 🎵 mês</small> |
 | | |
 
-<small>En **Lingua Internationale**, vortofina *-e* estas eliziebla malantaŭ dentala konsonanto (*c*, *d*, *l*, *n*, *r*, *s*, *t*), ekzemple en poezio.</small>
+<small>En **Lingua Internationale**, vortofina *-e* estas eliziebla malantaŭ akcentata vokalo kun dentala konsonanto (*c*, *d*, *l*, *n*, *r*, *s*, *t*), ekzemple en poezio.</small>
 
 <!--v-->
 
@@ -76,8 +76,12 @@ revealOptions:
 | | |
 | *ami* | amar <small>amare, 🎵 amár</small> |
 | | |
+| *salo* | sal <small>sale, 🎵 sál</small> |
+| | |
+| *totala* | total <small>totale, 🎵 totál</small> |
+| | |
 
-<small>En **Lingua Auxiliar**, tiu elizio estas deviga, sed nur malantaŭ *l*, *n* kaj *r*.</small>
+<small>En **Lingua Auxiliar**, tiu elizio estas deviga, sed nur malantaŭ *l*, *n* aŭ *r*.</small>
 
 <!--v-->
 
@@ -95,18 +99,7 @@ revealOptions:
 | *vendi* | vender *[vender']* <small>vendĕre *[vende-re]*</small> |
 | | |
 
-<small>La silabo antaŭ la elizio estas akcentata.</small>
-
-<!--v-->
-
-| | |
-|-|-|
-| *alia* | altre *[altre]* <small>altĕra *[alte-ra]*</small> |
-| | |
-| *stabila* | stable *[stable]* <small>stabĭle *[stabi-le]*</small> |
-| | |
-
-<small>Ĉe elizio, ne-akcentataj -*ĭle* kaj -*ĕra* perdas la ne-akcentatan vokalon.</small>
+<small>Ĉe elizio, infinitivoj je ne-akcentata -*ĕre* fariĝas akcentataj je vortofina *-er*.</small>
 
 <!--v-->
 
@@ -239,6 +232,7 @@ Notes:
 | | |
 |-|-|
 | *homo*  | home  <small>🎵 homĭne,  🌎 homine</small>  |
+| *korpo* | corpo <small>🎵 corpŏre, 🌎 corpore</small>  |
 | *limo*  | lime  <small>🎵 limĭte,  🌎 limite</small>  |
 | *nomo*  | nome  <small>🎵 nomĭne,  🌎 nomine</small>  |
 | *tempo* | tempo <small>🎵 tempŏre, 🌎 tempore</small> |
@@ -273,14 +267,14 @@ Notes:
 
 | | |
 |-|-|
-| *Bonan tagon!* | Bon die! |
+| *Bonan tagon!* | Bon die! <small>Bôn die!</small> |
 | | |
 | *Britio*       | Grande Britannia <small>Grân Britannia</small> |
 | | |
 | *pliparto*     | major parte <small>majór parte</small> |
 | | |
 
-<small>En **Lingua Internationale**,*bona* kaj *grande* havas malregulajn eliziojn kiam ili estas metitaj antaŭ la substantivo: *bon*, *gran*. Antaŭ la substantivo, la elizio de -*e* en *-ore* estas deviga en **Lingua Internationale**.</small>
+<small>En **Lingua Internationale**, *bona* kaj *grande* havas malregulajn eliziojn kiam ili estas metitaj antaŭ la substantivo: *bon*, *gran*. Antaŭ la substantivo, la elizio de -*e* en *-ore* estas deviga en **Lingua Internationale**.</small>
 
 <!--v-->
 
@@ -312,12 +306,12 @@ Notes:
 
 | | |
 |-|-|
-| *bona* | bon |
+| *bona* | bon <small>bona</small> |
 | | |
 | *bone* | ben <small>bene</small> |
 | | |
 
-<small>La adverba formo de *bon* estas malregula: *ben* <small>bene</small></small>
+<small>La adverba formo de *bon* <small>*bona*</small> estas malregula: *ben* <small>*bene*</small></small>
 
 <!--v-->
 
@@ -489,8 +483,8 @@ Notes:
 
 | | | | |
 |-|-|-|-|
-| *mi, min, mia* | eo <small>🌎 io</small> | me | mea <small>mia, 🌎 mi</small> |
-| *ci, cin, cia* | tu | te | tea <small>tua, 🌎 tu</small> |
+| *mi, min, mia* | eo <small>🌎 io</small> | me | mi <small>mia, 🌎 mi</small> |
+| *ci, cin, cia* | tu | te | tu <small>tua, 🌎 tu</small> |
 | | | | |
 | *ni, nin, nia* | nos | nos | nossa <small>nostra, 🌎 nostre</small> |
 | *vi, vin, via* | vos | vos | vossa <small>vostra, 🌎 vostre</small> |
@@ -518,9 +512,9 @@ Notes:
 
 | | |
 |-|-|
-| *lia*  | ellea, de-le, sea <small>sua, 🌎 su</small> |
+| *lia*  | ellea, de-le, su <small>sua`?`</small> |
 | | |
-| *ilia* | ell`*`ssa, de-l`*`s, sea <small>loro, 🌎 lor</small> |
+| *ilia* | ell`*`ssa, de-l`*`s, su <small>loro, 🌎 lor</small> |
 | | |
 
 <small>*sua* havas multenombran formon: *suas*. Dume, *loro* ne havas multenombran formon.</small>
@@ -634,6 +628,15 @@ Notes:
 <!--v-->
 
 ## Prepozicioj
+
+<!--v-->
+
+| | |
+|-|-|
+| *al la(j)* | al   <small>âl  (âs)</small>  |
+| *de la(j)* | del  <small>dêl (dês)</small> |
+| *en la(j)* | nel  <small>nêl (nês)</small> |
+| | |
 
 <!--v-->
 
@@ -3897,28 +3900,7 @@ Notes:
 
 <!--s-->
 
-# Ekzemploj
-
-## [Le Silva Magica](https://eduardoortegagonzalez.com/2024/02/03/le-silva-magic-i-conto-in-interlingua/)
-*("Le Silva Magic" de Eduardo Ortega González)*
-
-**Le Silva Magica (I) – Le incontro con Farralar**
-
-<!--v-->
-
-Ha sito <small>Era</small> le anno 531 del Quaresima <small>Quarta</small> `Etate` e, as <small>al</small> foras del parva villajo de Nova Sperantia, le juvene Valerio, post haber finito suas labores nel ferma familiar <small>familiare</small>, ha ito <small>vadeva</small> ad explorar <small>explorare</small> al foresta vicina a sua domo, cognita quomo Le Silva Magica.
-
-<!--v-->
-
-In Nova Sperantia, le gente ha dicito <small>diceva</small> que le foresta ha sido <small>fuêsse</small> incantata, nam ello ha sito <small>era</small> populata per ali-qui <small>ali-quis</small> populos `feerica` <small>`feericas`</small> ante le establimento del <small>des</small> novasperantianos.
-
-<!-- suas -->
-<!-- "il" ha -->
-
-<!--s-->
-
-## [Declaration Universal del Derectos Humana](https://www.ohchr.org/en/human-rights/universal-declaration/translations/interlingua)
-*("Declaration Universal del Derectos Human")*
+## [Declaration Universal del Derectos Human](https://www.ohchr.org/en/human-rights/universal-declaration/translations/interlingua)
 
 <!--v-->
 
@@ -3926,7 +3908,7 @@ In Nova Sperantia, le gente ha dicito <small>diceva</small> que le foresta ha si
 
 <!--v-->
 
-Considerante que le recognoscentia del dignitat<small>-e</small> inherente a tota<small>-s</small> le<small>-s</small> membros del familia humana e de sea<small>=loro</small> derectos equal<small>-es</small> e inalienabil<small>-es</small> constitue le fundamento del libertat<small>-e</small>, del justitia e del paç<small>-e</small> nel mundo,
+Considerante que le recognoscentia del dignitate inherente a tote<small>-as</small> le<small>-s</small> membros del familia human e de su<small>=loro</small> derectos equal<small>-es</small> e inalienabil<small>-es</small> constitue le fundamento del libertat<small>-e</small>, del justitia e del paç<small>-e</small> nel mundo,
 
 <!--v-->
 
