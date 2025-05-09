@@ -12,15 +12,31 @@ revealOptions:
 
 <!-- cd ~/Git/speranto/latinidaj; reveal-md ia.md -w -->
 
-<!-- "il" ha -->
-<!-- quia jam ekzistas kaj signifas "ĉar". konflikto. -->
-
 <!-- TODO "un-" ne estas (necese) tabelvorta radiko → speranto.md -->
+<!-- TODO mencii la pronomon "on" -->
+
+<!-- TODO mencii la pronomon "il" aŭ "el" -->
+
+<!-- TODO mangiar [ĝ] ? -->
+<!-- TODO ? vd. manjare -->
+
+<!-- TODO -aje ? -ajo ? -->
+
+<!-- TODO qu [kv] -->
+
+<!-- TODO tamben tanben tan -->
+
+<!-- TODO quia jam ekzistas kaj signifas "ĉar". konflikto. -->
 <!-- TODO ali-, -que → speranto.md -->
 <!-- TODO qual origine priskribita kiel origine -a, sed eble ja fakte -u. → speranto.md -->
 <!-- TODO qual-c ... qual-que -->
-<!-- TODO essĕre anstataŭ sêre → speranto.md ? -->
-<!-- TODO tĭ=tĕ ⇒ ç → speranto.md -->
+<!-- TODO: "alio" kaj "campania" havas j-ecajn "l"-on kaj "n"-on en Lingua Intermediaria. -->
+<!-- TODO t→d okazas ankaŭ en la Franca? vd. "diurnata" -->
+<!-- TODO ç ankoraŭ mankas en la klarigoj pri Lingua. vd. fineça -->
+<!-- TODO Tom: Eble francaj ano→æno kaj ane→æne estas implicindaj, analogie al portugalaj komplikaĵoj. vd. pane -->
+<!-- TODO PT estas malklara; vd. PT um -->
+
+<!-- TODO ecce ecco eccu -->
 
 # Lingua Inter-nationale
 *(Interlingua post la Fina Venko)*
@@ -120,7 +136,7 @@ revealOptions:
 
 | | |
 |-|-|
-| *maso* | massa *[masa]* <small>🔊 *[massa]*</small> |
+| *maso* | massa *[masa]* <small>📜 *[massa]*</small> |
 | | |
 | *rozo* | rosa *[rosa]* <small>*[roza]*</small> |
 | | |
@@ -131,7 +147,7 @@ revealOptions:
 
 | | |
 |-|-|
-| *centro* | centro *[centro]* <small>*[sentro]*, 🔊 *[kentro]*</small> |
+| *centro* | centro *[centro]* <small>*[sentro]*, 📜 *[kentro]*</small> |
 | | |
 | *teksto* | texto *[teksto]* <small>*[testo]*</small> |
 | | |
@@ -151,9 +167,16 @@ revealOptions:
 
 | | |
 |-|-|
-| *placo* | placia *[placi-a]* <small>plaça *[plasa]*, 🔊 *[plati-a]*</small> |
+| *placo* | placia *[placi-a]* <small>plaça *[plasa]*, 📜 *[plati-a]*</small> |
 | | |
-| *spaco* | spatio *[spaci-o]* <small>*[spasjo]*, 🔊 *[spati-o]*</small> |
+| *speco* | specie *[speci-e]* <small>*[spesje]*</small> |
+| | |
+
+| | |
+|-|-|
+| *forto* | fortia *[forci-a]* <small>força *[forsa]*, 📜 *[forti-a]*</small> |
+| | |
+| *spaco* | spatio *[spaci-o]* <small>*[spasjo]*, 📜 *[spati-o]*</small> |
 | | |
 
 <!--v-->
@@ -206,10 +229,34 @@ Notes:
 
 | | |
 |-|-|
+| *repeti* | repeter *[repeter']* <small>*[repetere]*</small> |
+| | |
+| *repetas* | repete *[repete]* |
+| | |
+
+<small>En **Lingua Internationale**, la prononco de *te* kaj *de* fine de verbaj radikoj konserviĝas.</small>
+
+<!--v-->
+
+| | |
+|-|-|
+| *homo*  | home  <small>📜 homĭne,  🌎 homine</small>  |
+| *korpo* | corpo <small>📜 corpŏre, 🌎 corpore</small>  |
+| *limo*  | lime  <small>📜 limĭte,  🌎 limite</small>  |
+| *nomo*  | nome  <small>📜 nomĭne,  🌎 nomine</small>  |
+| *tempo* | tempo <small>📜 tempŏre, 🌎 tempore</small> |
+| | |
+
+<small>**Tra bruego**, neakcentataj ŝajnfinaĵoj el **Lingua Classĭca** estas reteneblaj.</small>
+
+<!--v-->
+
+| | |
+|-|-|
 | *fazo*      | phase   *[faze]*    |
 | *ideo*      | idea    *[idea]*    |
 | *planedo*   | planeta *[planeta]* |
-| *sistemo*   | systema *[sistema]* <small>🔊 *[systema]*</small> |
+| *sistemo*   | systema *[sistema]* <small>📜 *[systema]*</small> |
 | | |
 
 <small>Fremdaj vortoj, ekz-e grekaj vortoj, ne bezonas sekvi ĉi-suprajn ortografiajn regulojn.</small>
@@ -226,19 +273,6 @@ Notes:
 | | |
 | *generacio(j)* | generation(es) <small>generatione(s)</small> |
 | | |
-
-<!--v-->
-
-| | |
-|-|-|
-| *homo*  | home  <small>🎵 homĭne,  🌎 homine</small>  |
-| *korpo* | corpo <small>🎵 corpŏre, 🌎 corpore</small>  |
-| *limo*  | lime  <small>🎵 limĭte,  🌎 limite</small>  |
-| *nomo*  | nome  <small>🎵 nomĭne,  🌎 nomine</small>  |
-| *tempo* | tempo <small>🎵 tempŏre, 🌎 tempore</small> |
-| | |
-
-<small>En poezio, neakcentataj ŝajnfinaĵoj el **Lingua Classĭca** estas reteneblaj.</small>
 
 <!--v-->
 
@@ -286,6 +320,10 @@ Notes:
 | *pli granda*    | plus grande    |
 | *plej granda*   | le plus grande |
 | | |
+| *la plej granda graveco* | le plus grande importantia |
+| | |
+
+<small>En frazaĵoj, tiu elizio ne okazas en **Lingua Internationale**.</small>
 
 <!--v-->
 
@@ -343,16 +381,16 @@ Notes:
 
 | | | |
 |-|-|-|
-| un   <small>uno</small>     | unesima   <small>prima</small>   | - |
-| du   <small>duo</small>     | duesima   <small>secunda</small> | vinti     |
-| tri             |             triesima  <small>terça</small>   | trenta    |
-| quar <small>quattre</small> | quaresima <small>quarta</small>  | quarenta  |
-| quin <small>cinque</small>  | quinesima <small>quinta</small>  | cinquenta |
-| sex             |             sexesima  <small>sexta</small>   | sexenta   |
-| sep  <small>septe</small>   | sepesima  <small>septĭma</small> | septenta  |
-| oc   <small>octe</small>    | oqŭesima  <small>octava</small>  | octenta   |
-| nou  <small>nove</small>    | nouesima  <small>nona</small>    | noventa   |
-| deç  <small>dece</small>    | decesima  <small>decĭma</small>  | - |
+| un   <small>uno</small>     | unesime   <small>prima</small>   | - |
+| du   <small>duo</small>     | duesime   <small>secunda</small> | vinti     |
+| tri             |             triesime  <small>terça</small>   | trenta    |
+| quar <small>quattre</small> | quaresime <small>quarta</small>  | quarenta  <small>🌎 -a-</small> |
+| quin <small>cinque</small>  | quinesime <small>quinta</small>  | cinquenta <small>🌎 -a-</small> |
+| sex             |             sexesime  <small>sexta</small>   | sexenta   <small>🌎 -a-</small> |
+| sep  <small>septe</small>   | sepesime  <small>septĭma</small> | septenta  <small>🌎 -a-</small> |
+| oc   <small>octe</small>    | oqŭesime  <small>octava</small>  | octenta   <small>🌎 -a-</small> |
+| nou  <small>nove</small>    | nouesime  <small>nona</small>    | noventa   <small>🌎 -a-</small> |
+| deç  <small>dece</small>    | decesime  <small>decĭma</small>  | - |
 | | | |
 
 Notes:
@@ -374,20 +412,20 @@ Notes:
 
 |           | *ki-* | *ti-* | *ĉi-* | *neni-* |
 |-|-|-|-|-|
-| ***-u***  | qui   | esti  | omni  | nilli   |
-| ***-o***  | que   | este  | omne  | nille   |
-| ***-a***  | qua   | esta  | omna  | nilla   |
-| ***-el*** | quo   | esto  | omno  | nillo   |
+| ***-u***  | qui   | esti <small>📜 isti</small> | omni  | nilli   |
+| ***-o***  | que   | este <small>📜 iste</small> | omne  | nille   |
+| ***-a***  | qua   | esta <small>📜 ista</small> | omna  | nilla   |
+| ***-el*** | quo   | esto <small>📜 isto</small> | omno  | nillo   |
 | | | | | |
 
 <!--v-->
 
 |           | *ĉi ti-* |
 |-|-|
-| ***-u***  | questi   |
-| ***-o***  | queste   |
-| ***-a***  | questa   |
-| ***-el*** | questo   |
+| ***-u***  | questi <small>📜 eccu isti</small> |
+| ***-o***  | queste <small>📜 eccu iste</small> |
+| ***-a***  | questa <small>📜 eccu ista</small> |
+| ***-el*** | questo <small>📜 eccu isto</small> |
 | | |
 
 <!--v-->
@@ -407,9 +445,9 @@ Notes:
 
 | | *ki-* | *ti-* |
 |-|-|-|
-| ***-u*** | qui | esti |
+| ***-u*** | qui | esti <small>📜 isti</small> |
 | | | |
-| ***-u ...*** | qui <small>qual <small>quale</small></small> | esti <small>tal <small>tale</small></small> |
+| ***-u ...*** | qui <small>qual <small>quale</small></small> | esti <small>tal <small>tale</small>, 📜 isti</small> |
 | | | |
 
 <!--v-->
@@ -430,7 +468,7 @@ Notes:
 | ***-e***  | quo <small>ubi</small>    | esto <small>ibi</small>     |
 | ***-am*** | quo <small>quando</small> | esto <small>nunc</small>    |
 | ***-om*** | quo <small>quanto</small> | esto <small>tanto</small>   |
-| ***-al*** | quo <small>quare</small>  | esto <small>tare/care`?`</small>  |
+| ***-al*** | quo <small>quare</small>  | esto <small>tare</small>  |
 | ***-el*** | quo <small>quomo</small>  | esto <small>sic</small>     |
 | | | |
 
@@ -467,13 +505,13 @@ Notes:
 
 | | |
 |-|-|
-| *la(j)* | le <small>le(s)</small> |
+| *la(j)* | le <small>la(s)</small> |
 | | |
 | *-(j)*  | un <small>una(s) |
 | | |
 
 Notes:
-* les unas e les alteras
+* las unas e las alteras
 
 <!--v-->
 
@@ -483,27 +521,25 @@ Notes:
 
 | | | | |
 |-|-|-|-|
-| *mi, min, mia* | eo <small>🌎 io</small> | me | mi <small>mia, 🌎 mi</small> |
-| *ci, cin, cia* | tu | te | tu <small>tua, 🌎 tu</small> |
+| *mi, min, mia* | eo <small>🌎 io</small> | me | mi <small>mia</small> |
+| *ci, cin, cia* | tu | te | tu <small>tua</small> |
 | | | | |
-| *ni, nin, nia* | nos | nos | nossa <small>nostra, 🌎 nostre</small> |
-| *vi, vin, via* | vos | vos | vossa <small>vostra, 🌎 vostre</small> |
+| *ni, nin, nia* | nos | nos | nostre <small>nostra</small> |
+| *vi, vin, via* | vos | vos | vostre <small>vostra</small> |
 | | | | |
-
-<!-- TODO mea tea nossa vossa -e -->
 
 <!--v-->
 
 | | |
 |-|-|
-| *li*  | elle <small>🌎 ille</small> |
-| *ŝi*  | ella <small>🌎 illa</small> |
-| *ĝi*  | ello <small>🌎 illo</small> |
-| *ri*  | ellu |
+| *li*  | elle <small>📜 ille, 🌎 ille</small> |
+| *ŝi*  | ella <small>📜 illa, 🌎 illa</small> |
+| *ĝi*  | ello <small>📜 illo, 🌎 illo</small> |
+| *ri*  | ellu <small>📜 illu</small> |
 | | |
-| *ili* | ell`*`s |
+| *ili* | ell`*`s <small>📜 ill`*`s</small> |
 | | |
-| *`*`i* | elli |
+| *`*`i* | elli <small>📜 illi</small> |
 | | |
 | *sin* | se |
 | | |
@@ -512,7 +548,7 @@ Notes:
 
 | | |
 |-|-|
-| *lia*  | ellea, de-le, su <small>sua`?`</small> |
+| *lia*  | ellea, de-le, su <small>sua</small> |
 | | |
 | *ilia* | ell`*`ssa, de-l`*`s, su <small>loro, 🌎 lor</small> |
 | | |
@@ -578,16 +614,14 @@ Notes:
 
 | | |
 |-|-|
-| *kreintas* | ha create <small>hâ creato, 🌎 ha create</small> |
-| *kreis*    | ha create <small>creava,    🌎 creava</small> |
+| *kreintas* | ha create <small>hâ creato</small> |
+| *kreis*    | ha create <small>creava</small> |
 | | |
-| *kreontas* | va crear <small>vâ creare, 🌎 va crear</small> |
-| *kreos*    | va crear <small>creará,    🌎 creara</small> |
+| *kreontas* | va crear <small>vâ creare</small> |
+| *kreos*    | va crear <small>creará</small> |
 | | |
 
 <small>En **Lingua Auxiliar**, uziĝas la intas- kaj la ontas-tempoj anstataŭ la is- kaj la os-tempoj.</small>
-
-<!-- TODO va (a?) -->
 
 <!--v-->
 
@@ -602,8 +636,8 @@ Notes:
 |-|-|
 | *esti* | ser <small>essĕre, 🌎 esser</small> |
 | | |
-| *estintas* | ha site <small>ês sita, 🎵 fue</small> |
-| *estis*    | ha site <small>êra, 🌎 esseva, era</small> |
+| *estintas* | ha site <small>ês sita, 🎵 fue, 🌎 ha essite</small> |
+| *estis*    | ha site <small>êra, 🌎 esseva</small> |
 | | |
 
 <!--v-->
@@ -614,13 +648,13 @@ Notes:
 
 | | |
 |-|-|
-| *(mi) kreas* | eo crea   <small>🎵 creo</small>  |
-| *(ci) kreas* | tu crea   <small>🎵 creas</small> |
-| *(li) kreas* | elle crea <small>🎵 crea</small>  |
+| *(mi) estas* | eo es   <small>🎵 sô</small>  |
+| *(ci) estas* | tu es   <small>🎵 êres</small> |
+| *(li) estas* | elle es <small>🎵 ês</small>  |
 | | |
-| *(ni) kreas*  | nos crea   <small>🎵 creamos</small> |
-| *(vi) kreas*  | vos crea   <small>🎵 creáis</small>  |
-| *(ili) kreas* | elles crea <small>🎵 crean</small>   |
+| *(ni) estas*  | nos es   <small>🎵 sômos</small> |
+| *(vi) estas*  | vos es   <small>🎵 sôis</small>  |
+| *(ili) estas* | elles es <small>🎵 sôn</small>   |
 | | |
 
 <small>En **Lingua Internationale**, eblas uzi konjugacion kiel en **Lingua Intermediaria**, ekzemple en poezio.</small>
@@ -696,7 +730,6 @@ Notes:
 * campania: ni
 * linea: ne
 -->
-<!-- TODO: "alio" kaj "campania" havas j-ecajn "l"-on kaj "n"-on en Lingua Intermediaria. -->
 <!-- konsonantaj: voĉigitaj kaj eliziitaj -->
 * paése: ğ
 * mâistro: ğ
@@ -1541,8 +1574,6 @@ Notes:
 | *giornata* | *journée* | *jornada* | *jornada* |
 | | | | |
 
-<!-- TODO t→d okazas ankaŭ en la Franca? -->
-
 <!--v-->
 
 **duplare**
@@ -1766,7 +1797,6 @@ Notes:
 <!--v-->
 
 **fineça** <small>**finïtĭa**</small>
-<!-- TODO ç ankoraŭ mankas en la klarigoj pri Lingua. -->
 
 | 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
 |:-:|:-:|:-:|:-:|
@@ -2329,7 +2359,6 @@ lib/liv?
 
 <!--v-->
 
-<!-- TODO ? -->
 **manjare** <small>**manducare**</small>
 
 <!--v-->
@@ -2690,8 +2719,6 @@ Notes:
 | pane | pæne | pane | pane |
 | *pane* | *pain* | *pan* | *pão* |
 | | | | |
-
-<!-- TODO Tom: Eble francaj ano→æno kaj ane→æne estas implicindaj, analogie al portugalaj komplikaĵoj. -->
 
 <!--v-->
 
@@ -3737,8 +3764,6 @@ Notes:
 | *uno* | *un* | *uno* | *um* |
 | | | | |
 
-<!-- TODO PT estas malklara -->
-
 <!--v-->
 
 **universitate**
@@ -3908,39 +3933,48 @@ Notes:
 
 <!--v-->
 
-Considerante que le recognoscentia del dignitate inherente a tote<small>-as</small> le<small>-s</small> membros del familia human e de su<small>=loro</small> derectos equal<small>-es</small> e inalienabil<small>-es</small> constitue le fundamento del libertat<small>-e</small>, del justitia e del paç<small>-e</small> nel mundo,
+Considerante que le<small>-a</small> recognoscentia del dignitate inherente a tote<small>-as</small> le<small>-as</small> membros del familia human<small>-a</small> e de su<small>=loro</small> derectos equal<small>-es</small> e inalienabile<small>-s</small> constitue le<small>-a</small> fundamento del libertate, del justitia e del pace nel mundo,
 
 <!--v-->
 
-Considerante que le ignorantia e le dispreço del<small>=dês</small> derectos humana<small>-s</small> ha<small>-n</small> resultato<small>=resultâron</small> in actos de barbaria que ultraja<small>-n</small> le conscientia del humanitat<small>-e</small>, e que le advenimento de un<small>=una</small> mundo in le qual<small>-e</small> le<small>-s</small> seres humana<small>-s</small> sera<small>-n</small> libera<small>-s</small> de parlar<small>-e</small> e de creder<small>-e</small>, liberata<small>-s</small> del terror<small>-e</small> e del miseria, ha sito<small>=ês sita =fue</small> proclamata quomo le plus alta aspiration<small>-e</small> del home<small>-ĭn-</small>,
+Considerante que le<small>-a</small> ignorantia e le<small>-a</small> dispreço del<small>=dês</small> derectos human<small>-as</small> ha<small>-n</small> resultato<small>=resultâron</small> in actos de barbaria que ultraja<small>-n</small> le<small>-a</small> conscientia del humanitate, e que le<small>-a</small> advenimento de un<small>-a</small> mundo nel qual<small>-e</small> le<small>-as</small> seres human<small>-as</small> sera<small>-n</small> libere<small>-as</small> de parlar<small>-e</small> e de creder<small>-e</small>, liberate<small>-as</small> del terror<small>-e</small> e del miseria, ha sito<small>=ês sita =fue</small> proclamate<small>-a</small> quomo le plus alte<small>-a</small> aspiration<small>-e</small> del home<small>-ĭn-</small>,
+
+<!-- TODO homine homo home ? -->
 
 <!--v-->
 
-Considerante que es essential<small>-e</small> que le<small>-s</small> derectos humana<small>-s</small> es<small>=sôn</small> protegita<small>-s</small> per medio de un<small>=una</small> de derecto, a fin<small>-e</small> que le home<small>-ĭn-</small> non es<small>=sêa</small> compellita al ultime recurso del rebellion<small>-e</small> contra le tyrannia e le oppression<small>-e</small>,
+Considerante que es essential<small>-e</small> que le<small>-as</small> derectos human<small>-as</small> es<small>=sôn</small> protegite<small>=protectas</small> per medio de un<small>-a</small> de derecto, a fin<small>-e</small> que le<small>-a</small> home<small>-ĭn-</small> non es<small>=sêa</small> compellite<small>-a</small> al ultime recurso del rebellion<small>-e</small> contra le<small>-a</small> tyrannia e le<small>-a</small> oppression<small>-e</small>,
+
+<!-- TODO de un de ?? -->
+<!-- TODO altere casos de "te<" -->
 
 <!--v-->
 
-Considerante que es essential<small>-e</small> promover<small>-e</small> le disvoluppamento de relationes amical<small>-es</small> inter le<small>-s</small> nationes,
+Considerante que es essential<small>-e</small> promover<small>-e</small> le<small>-a</small> disvoluppamento de relationes amical<small>-es</small> inter le<small>-as</small> nationes,
 
 <!--v-->
 
-Considerante que in le Charta le<small>-s</small> populos del<small>=dês</small> Nationes Unita<small>-s</small> ha<small>-n</small> reaffirmato<small>=reaffirmâron</small> loro fide nel<small>=nês</small> derectos humana<small>-s</small> fundamental<small>-es</small>, nel dignitat<small>-e</small> e nel valor<small>-e</small> del persona humana, nel equalitat<small>-e</small> del<small>=dês</small> homes<small>-ĭn-</small> e del<small>=dês</small> feminas, e que illos se ha<small>-n</small> declarato<small>=declarâron</small> resolutas a promover<small>-e</small> le progresso social<small>-e</small> e a instaurar<small>-e</small> melior<small>-es</small> conditiones de vita in un<small>=una</small> libertat<small>-e</small> plus grande,
+Considerante que nel Charta le<small>-as</small> populos del<small>=dês</small> Nationes Unite<small>-as</small> ha<small>-n</small> reaffirmate<small>=reaffirmato =reaffirmâron</small> su<small>=loro</small> fide nel<small>=nês</small> derectos human<small>-as</small> fundamental<small>-es</small>, nel dignitate e nel valor<small>-e</small> del persona human<small>-a</small>, nel equalitate del<small>=dês</small> homes<small>-ĭn-</small> e del<small>=dês</small> feminas, e que illos se ha<small>-n</small> declarato<small>=declarâron</small> resolute<small>-as</small> a promover<small>-e</small> le<small>-a</small> progresso social<small>-e</small> e a instaurar<small>-e</small> melior<small>-es</small> conditiones de vita in un<small>-a</small> libertate plus grande,
 
 <!--v-->
 
-Considerante que le<small>-s</small> Statos Membros ha<small>-n</small> promittite<small>=promisso</small> <small>=promisêron</small> de assecurar<small>-e</small>, in cooperation<small>-e</small> con le Organisation<small>-e</small> del<small>=dês</small> Nationes Unita<small>-s</small>, le respecto universal<small>-e</small> e effectiva al<small>=âs</small> derectos humana<small>-s</small> e libertates fundamental<small>-es</small>,
+Considerante que le<small>-as</small> Statos Membros ha<small>-n</small> promittite<small>=promisso =promisêron</small> de assecurar<small>-e</small>, in cooperation<small>-e</small> con le<small>-a</small> Organisation<small>-e</small> del<small>=dês</small> Nationes Unite<small>-as</small>, le<small>-a</small> respecto universal<small>-e</small> e effective<small>-a</small> al<small>=âs</small> derectos human<small>-as</small> e libertates fundamental<small>-es</small>,
 
 <!--v-->
 
-Considerante que un<small>=una</small> conception<small>-e</small> de esta<small>-s</small> derectos e libertates es del plus grande importantia pro le plena realization<small>-e</small> de esta promissa,
+Considerante que un<small>-a</small> conception<small>-e</small> de este<small>-as</small> derectos e libertates es del plus grande importantia pro le<small>-a</small> plena realization<small>-e</small> de este<small>-a</small> promissa,
 
 <!--v-->
 
-Le Assemblea General<small>-e</small>
+Le<small>-a</small> Assemblea General<small>-e</small>
 
 <!--v-->
 
-Proclama le presente Declaration<small>-e</small> Universal<small>-e</small> del<small>=dês</small> Derectos Humana<small>-s</small> quomo le ideal<small>-e</small> commun<small>-e</small> a attinger<small>-e</small> per tota<small>-s</small> le<small>-s</small> populos e nationes, a fin<small>-e</small> que tota<small>-s</small> le<small>-s</small> individuos e tota<small>-s</small> le<small>-s</small> organos del societat<small>-e</small>, havente esta Declaration<small>-e</small> constantemente in mente, se efforça<small>-en</small>, per le inseniamento e per le education<small>-e</small>, a disvoluppar<small>-e</small> le respecto a esta<small>-s</small> derectos e libertates e a promover<small>-e</small>, per mesuras progressiva<small>-s</small> de character<small>-e</small> national<small>-e</small> e international<small>-e</small>, sua<small>=loro</small> recognoscentia e sua<small>=loro</small> application<small>-e</small> universal<small>-e</small> e effectiva tanto inter le<small>-s</small> populos del<small>=dês</small> Statos Membros `mesme` quomo inter los del<small>=dês</small> territorios sub sua<small>loro</small> jurisdiction<small>-e</small>.
+Proclama le<small>-a</small> presente Declaration<small>-e</small> Universal<small>-e</small> del<small>=dês</small> Derectos Human<small>-as</small> quomo le<small>-a</small> ideal<small>-e</small> commun<small>-e</small> a attinger<small>-e</small> per tote<small>-as</small> le<small>-as</small> populos e nationes, a fin<small>-e</small> que tote<small>-as</small> le<small>-as</small> individuos e tote<small>-as</small> le<small>-as</small> organos del societate, havente este<small>-a</small> Declaration<small>-e</small> constantemente in mente, se effortia<small>=efforcen</small>, per le<small>-a</small> inseniamento e per le<small>-a</small> education<small>-e</small>,
+
+<!--v-->
+
+a disvoluppar<small>-e</small> le<small>-a</small> respecto a este<small>-as</small> derectos e libertates e a promover<small>-e</small>, per mesuras progressive<small>-as</small> de charactere national<small>-e</small> e international<small>-e</small>, su<small>=loro</small> recognoscentia e su<small>=loro</small> application<small>-e</small> universal<small>-e</small> e effective<small>-a</small> tanto inter le<small>-as</small> populos del<small>=dês</small> Statos Membros mesme<small>-as</small> quomo inter estos del<small>=dês</small> territorios sub su<small>=loro</small> jurisdiction<small>-e</small>.
 
 <!--v-->
 
@@ -3948,4 +3982,4 @@ Proclama le presente Declaration<small>-e</small> Universal<small>-e</small> del
 
 <!--v-->
 
-Tota<small>-s</small> le<small>-s</small> seres humana<small>-s</small> nasce<small>-n</small> libera<small>-s</small> e equal<small>-es</small> in dignitat<small>-e</small> e in derectos. Ellus es<small>=sôn</small> dotata<small>-s</small> de ration<small>-e</small> e de conscientia e debe<small>-n</small> `ager` le<small>-s</small> unas verso le<small>-s</small> alteras in un<small>=una</small> spirito de fraternitat<small>-e</small>.
+Tote<small>-as</small> le<small>-as</small> seres human<small>-as</small> nasce<small>-n</small> libere<small>-as</small> e equal<small>-es</small> in dignitate e in derectos. Elles es<small>=sôn</small> dotate<small>-as</small> de ration<small>-e</small> e de conscientia e debe<small>-n</small> ager<small>-e</small> le<small>-as</small> unes<small>-as</small> verso le<small>-as</small> alteres<small>-as</small> in un<small>-a</small> spirito de fraternitate.

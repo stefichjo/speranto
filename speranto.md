@@ -2488,8 +2488,8 @@ Tra bruo, la prepozicio **a** uziĝas por la indiki la rektan objekton. (Tiam uz
 | unu  | **un** <small>**uno**</small> |
 | du   | **du** <small>**duo**</small> |
 | tri  | **tri** <small>**tres**</small> |
-| kvar | **quatt** <small>**quattro**</small> |
-| kvin | **cinc** <small>**cinque**</small> |
+| kvar | **quar** <small>**quattro**</small> |
+| kvin | **quin** <small>**cinque**</small> |
 
 <!--v-->
 
@@ -2512,8 +2512,8 @@ Tra bruo, la prepozicio **a** uziĝas por la indiki la rektan objekton. (Tiam uz
 | unua  | **unesĭma** <small>**prima**</small> |
 | dua   | **duesĭma** <small>**secunda**</small> |
 | tria  | **triesĭma** <small>**treesĭma**, **tertia**</small> |
-| kvara | **quattesĭma** <small>**quattresĭma**, **quarta**</small> |
-| kvina | **cincesĭma** <small>**cinquesĭma**, **quinta**</small> |
+| kvara | **quaresĭma** <small>**quattresĭma**, **quarta**</small> |
+| kvina | **quinesĭma** <small>**cinquesĭma**, **quinta**</small> |
 
 <!--v-->
 
@@ -2542,8 +2542,8 @@ Tra bruo, la prepozicio **a** uziĝas por la indiki la rektan objekton. (Tiam uz
 |-|-|
 | dudek   | **duanta** |
 | tridek  | **trianta** <small>**treanta**</small> |
-| kvardek | **quattanta** <small>**quattranta**</small> |
-| kvindek | **cincanta** <small>**cinquanta**</small> |
+| kvardek | **quaranta** |
+| kvindek | **quinanta** <small>**cinquanta**</small> |
 | sesdek  | **sexanta** |
 | sepdek  | **sepanta** <small>**septanta**</small> |
 | okdek   | **ocanta** <small>**octanta**</small> |
