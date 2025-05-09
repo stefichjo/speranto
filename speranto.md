@@ -1865,6 +1865,8 @@ Tra bruo, la prepozicio **a** uziĝas por la indiki la rektan objekton. (Tiam uz
 
 <!--v-->
 
+<!-- TODO eble "ubi" anstataŭ "uvi", vd. interlingua post la fina venko -->
+
 | Esperanto | Lingua |
 |-|-|
 | kia | **qua** <small>**quale**</small> |

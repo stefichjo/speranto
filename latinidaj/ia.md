@@ -79,6 +79,8 @@ revealOptions:
 |-|-|
 | *ansero* | ansere <small>ansĕre</small> |
 | | |
+| *karaktero* | charactere <small>charactĕre, 🌎 character</small> |
+| | |
 | *monato* | mese <small>mêse <small>men̆se</small>, 🎵 mês</small> |
 | | |
 
@@ -185,7 +187,7 @@ revealOptions:
 |-|-|
 | *lingvo* | lingua *[lingu-a]* <small>*[liŋgŭa]*</small> |
 | | |
-| *signo* | signo *[signo]* <small>*[sinjo]*</small> |
+| *instrui* | insignar *[insignar]* <small>insignare *[insinjare]*, 🌎 inseniar</small> |
 | | |
 
 <!--v-->
@@ -240,14 +242,23 @@ Notes:
 
 | | |
 |-|-|
-| *homo*  | home  <small>📜 homĭne,  🌎 homine</small>  |
-| *korpo* | corpo <small>📜 corpŏre, 🌎 corpore</small>  |
+| *korpo* | corpo <small>📜 corpŏre, 🌎 corpore</small> |
 | *limo*  | lime  <small>📜 limĭte,  🌎 limite</small>  |
 | *nomo*  | nome  <small>📜 nomĭne,  🌎 nomine</small>  |
 | *tempo* | tempo <small>📜 tempŏre, 🌎 tempore</small> |
 | | |
 
 <small>**Tra bruego**, neakcentataj ŝajnfinaĵoj el **Lingua Classĭca** estas reteneblaj.</small>
+
+<!--v-->
+
+| | |
+|-|-|
+| *homo*  | homo  <small>📜 homĭne,  🌎 homine</small>  |
+| | |
+
+Notes:
+* *homo*: speco-nomoj en nominativo
 
 <!--v-->
 
@@ -469,11 +480,12 @@ Notes:
 | ***-am*** | quo <small>quando</small> | esto <small>nunc</small>    |
 | ***-om*** | quo <small>quanto</small> | esto <small>tanto</small>   |
 | ***-al*** | quo <small>quare</small>  | esto <small>tare</small>  |
-| ***-el*** | quo <small>quomo</small>  | esto <small>sic</small>     |
+| ***-el*** | quo <small>como</small>   | esto <small>sic</small>     |
 | | | |
 
 Notes:
 * ub-unque = ubunque, quom-unque = quomunque, qual-unque
+* como <small>📜 quomodo</small>
 
 <!--v-->
 
@@ -3937,16 +3949,11 @@ Considerante que le<small>-a</small> recognoscentia del dignitate inherente a to
 
 <!--v-->
 
-Considerante que le<small>-a</small> ignorantia e le<small>-a</small> dispreço del<small>=dês</small> derectos human<small>-as</small> ha<small>-n</small> resultato<small>=resultâron</small> in actos de barbaria que ultraja<small>-n</small> le<small>-a</small> conscientia del humanitate, e que le<small>-a</small> advenimento de un<small>-a</small> mundo nel qual<small>-e</small> le<small>-as</small> seres human<small>-as</small> sera<small>-n</small> libere<small>-as</small> de parlar<small>-e</small> e de creder<small>-e</small>, liberate<small>-as</small> del terror<small>-e</small> e del miseria, ha sito<small>=ês sita =fue</small> proclamate<small>-a</small> quomo le plus alte<small>-a</small> aspiration<small>-e</small> del home<small>-ĭn-</small>,
-
-<!-- TODO homine homo home ? -->
+Considerante que le<small>-a</small> ignorantia e le<small>-a</small> disprecio<small>dispreço</small> del<small>=dês</small> derectos human<small>-as</small> ha<small>-n</small> resultato<small>=resultâron</small> in actos de barbaria que ultraja<small>-n</small> le<small>-a</small> conscientia del humanitate, e que le<small>-a</small> advenimento de un<small>-a</small> mundo nel qual<small>-e</small> le<small>-as</small> seres human<small>-as</small> sera<small>-n</small> libere<small>-as</small> de parlar<small>-e</small> e de creder<small>-e</small>, liberate<small>-as</small> del terror<small>-e</small> e del miseria, ha sito<small>=ês sita =fue</small> proclamate<small>-a</small> como le plus alte<small>-a</small> aspiration<small>-e</small> del homo<small>-ĭne</small>,
 
 <!--v-->
 
-Considerante que es essential<small>-e</small> que le<small>-as</small> derectos human<small>-as</small> es<small>=sôn</small> protegite<small>=protectas</small> per medio de un<small>-a</small> de derecto, a fin<small>-e</small> que le<small>-a</small> home<small>-ĭn-</small> non es<small>=sêa</small> compellite<small>-a</small> al ultime recurso del rebellion<small>-e</small> contra le<small>-a</small> tyrannia e le<small>-a</small> oppression<small>-e</small>,
-
-<!-- TODO de un de ?? -->
-<!-- TODO altere casos de "te<" -->
+Considerante que es essential<small>-e</small> que le<small>-as</small> derectos human<small>-as</small> es<small>=sôn</small> protegite<small>=protectas</small> per medio de un<small>-a</small> regime de derecto, a fin<small>-e</small> que le<small>-a</small> homo<small>-ĭne</small> non es<small>=sêa</small> compellite<small>=compulsas</small> al ultime recurso del rebellion<small>-e</small> contra le<small>-a</small> tyrannia e le<small>-a</small> oppression<small>-e</small>,
 
 <!--v-->
 
@@ -3954,7 +3961,7 @@ Considerante que es essential<small>-e</small> promover<small>-e</small> le<smal
 
 <!--v-->
 
-Considerante que nel Charta le<small>-as</small> populos del<small>=dês</small> Nationes Unite<small>-as</small> ha<small>-n</small> reaffirmate<small>=reaffirmato =reaffirmâron</small> su<small>=loro</small> fide nel<small>=nês</small> derectos human<small>-as</small> fundamental<small>-es</small>, nel dignitate e nel valor<small>-e</small> del persona human<small>-a</small>, nel equalitate del<small>=dês</small> homes<small>-ĭn-</small> e del<small>=dês</small> feminas, e que illos se ha<small>-n</small> declarato<small>=declarâron</small> resolute<small>-as</small> a promover<small>-e</small> le<small>-a</small> progresso social<small>-e</small> e a instaurar<small>-e</small> melior<small>-es</small> conditiones de vita in un<small>-a</small> libertate plus grande,
+Considerante que nel Charta le<small>-as</small> populos del<small>=dês</small> Nationes Unite<small>-as</small> ha<small>-n</small> reaffirmate<small>=reaffirmato =reaffirmâron</small> su<small>=loro</small> fide nel<small>=nês</small> derectos human<small>-as</small> fundamental<small>-es</small>, nel dignitate e nel valor<small>-e</small> del persona human<small>-a</small>, nel equalitate del<small>=dês</small> homos<small>-ĭnes</small> e del<small>=dês</small> feminas, e que illos se ha<small>-n</small> declarato<small>=declarâron</small> resolute<small>-as</small> a promover<small>-e</small> le<small>-a</small> progresso social<small>-e</small> e a instaurar<small>-e</small> melior<small>-es</small> conditiones de vita in un<small>-a</small> libertate plus grande,
 
 <!--v-->
 
@@ -3970,11 +3977,11 @@ Le<small>-a</small> Assemblea General<small>-e</small>
 
 <!--v-->
 
-Proclama le<small>-a</small> presente Declaration<small>-e</small> Universal<small>-e</small> del<small>=dês</small> Derectos Human<small>-as</small> quomo le<small>-a</small> ideal<small>-e</small> commun<small>-e</small> a attinger<small>-e</small> per tote<small>-as</small> le<small>-as</small> populos e nationes, a fin<small>-e</small> que tote<small>-as</small> le<small>-as</small> individuos e tote<small>-as</small> le<small>-as</small> organos del societate, havente este<small>-a</small> Declaration<small>-e</small> constantemente in mente, se effortia<small>=efforcen</small>, per le<small>-a</small> inseniamento e per le<small>-a</small> education<small>-e</small>,
+Proclama le<small>-a</small> presente Declaration<small>-e</small> Universal<small>-e</small> del<small>=dês</small> Derectos Human<small>-as</small> como le<small>-a</small> ideal<small>-e</small> commun<small>-e</small> a attinger<small>-e</small> per tote<small>-as</small> le<small>-as</small> populos e nationes, a fin<small>-e</small> que tote<small>-as</small> le<small>-as</small> individuos e tote<small>-as</small> le<small>-as</small> organos del societate, havente este<small>-a</small> Declaration<small>-e</small> constantemente in mente, se effortia<small>=efforcen</small>, per le<small>-a</small> inseniamento e per le<small>-a</small> education<small>-e</small>,
 
 <!--v-->
 
-a disvoluppar<small>-e</small> le<small>-a</small> respecto a este<small>-as</small> derectos e libertates e a promover<small>-e</small>, per mesuras progressive<small>-as</small> de charactere national<small>-e</small> e international<small>-e</small>, su<small>=loro</small> recognoscentia e su<small>=loro</small> application<small>-e</small> universal<small>-e</small> e effective<small>-a</small> tanto inter le<small>-as</small> populos del<small>=dês</small> Statos Membros mesme<small>-as</small> quomo inter estos del<small>=dês</small> territorios sub su<small>=loro</small> jurisdiction<small>-e</small>.
+a disvoluppar<small>-e</small> le<small>-a</small> respecto a este<small>-as</small> derectos e libertates e a promover<small>-e</small>, per mesuras progressive<small>-as</small> de charactere national<small>-e</small> e international<small>-e</small>, su<small>=loro</small> recognoscentia e su<small>=loro</small> application<small>-e</small> universal<small>-e</small> e effective<small>-a</small> tanto inter le<small>-as</small> populos del<small>=dês</small> Statos Membros mesme<small>-as</small> como inter estos del<small>=dês</small> territorios sub su<small>=loro</small> jurisdiction<small>-e</small>.
 
 <!--v-->
 
