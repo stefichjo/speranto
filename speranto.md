@@ -1754,9 +1754,11 @@ Tra bruo, la prepozicio **a** uziĝas por la indiki la rektan objekton. (Tiam uz
 
 <small>La ŝajnfinaĵoj -**ĭn**- kaj -**ĭt**- eliziiĝas, se ĝi ne ekzistas en la latina nominativo.</small>
 <!-- TODO → Lingua Classĭca -->
-<!-- TODO tempore -->
+<!-- TODO tempo-re -->
 
 <!--v-->
+
+<!-- TODO homo (nominativo) -->
 
 | Esperanto | Lingua |
 |-|-|

@@ -13,16 +13,11 @@ revealOptions:
 <!-- cd ~/Git/speranto/latinidaj; reveal-md ia.md -w -->
 
 <!-- TODO "un-" ne estas (necese) tabelvorta radiko → speranto.md -->
-<!-- TODO mencii la pronomon "on" -->
-
-<!-- TODO mencii la pronomon "il" aŭ "el" -->
 
 <!-- TODO mangiar [ĝ] ? -->
 <!-- TODO ? vd. manjare -->
 
 <!-- TODO -aje ? -ajo ? -->
-
-<!-- TODO qu [kv] -->
 
 <!-- TODO tamben tanben tan -->
 
@@ -242,10 +237,11 @@ Notes:
 
 | | |
 |-|-|
-| *korpo* | corpo <small>📜 corpŏre, 🌎 corpore</small> |
-| *limo*  | lime  <small>📜 limĭte,  🌎 limite</small>  |
-| *nomo*  | nome  <small>📜 nomĭne,  🌎 nomine</small>  |
-| *tempo* | tempo <small>📜 tempŏre, 🌎 tempore</small> |
+| *korpo* | corpo  <small>📜 corpŏre,  🌎 corpore</small> |
+| *limo*  | lime   <small>📜 limĭte,   🌎 limite</small>  |
+| *nomo*  | nome   <small>📜 nomĭne,   🌎 nomine</small>  |
+| *sango* | sangue <small>📜 sanguĭne, 🌎 sanguine</small> |
+| *tempo* | tempo  <small>📜 tempŏre,  🌎 tempore</small> |
 | | |
 
 <small>**Tra bruego**, neakcentataj ŝajnfinaĵoj el **Lingua Classĭca** estas reteneblaj.</small>
@@ -483,6 +479,8 @@ Notes:
 | ***-el*** | quo <small>como</small>   | esto <small>sic</small>     |
 | | | |
 
+<!-- TODO Fakte, eĉ en Lingua Auxiliar oni prefere diru "ubi" anstataŭ "quo". Kiam diri "quo" do, kiam diri "a quo vade tu"? -->
+
 Notes:
 * ub-unque = ubunque, quom-unque = quomunque, qual-unque
 * como <small>📜 quomodo</small>
@@ -577,6 +575,17 @@ Notes:
 | | |
 
 <small>En akuzativo, *li* estas evitinda.</small>
+
+<!--v-->
+
+| | |
+|-|-|
+| *oni* | on |
+| | |
+| *-* | el <small>🌎 il</small> |
+| | |
+
+<!-- TODO mencii la pronomon "il" aŭ "el" -->
 
 <!--v-->
 
