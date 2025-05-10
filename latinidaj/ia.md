@@ -3942,8 +3942,11 @@ Notes:
 <!--v-->
 
 | | |
-|-|-|| *ŝi*      | ella <small>📜 illa, 🌎 illa</small> |
-de la latina formo.</small>
+|-|-|
+| *montri*      | monstrar <small>📜 monstrare, 🌎 monstrar</small> |
+| | |
+
+<small>Ekzemplo: **Interlingvao** uzas latinan formon. Ĉiuj fontolingvoj devias en malsamaj manieroj de la latina formo.</small>
 
 <!--v-->
 
@@ -3968,9 +3971,9 @@ de la latina formo.</small>
 
 | | |
 |-|-|
-| *monato* | mese <small>📜 mense, 🌎 mense</small> |
-| *sino*   | seno <small>📜 sino, 🌎 sino</small> |
-| *ŝi*     | ella <small>📜 illa, 🌎 illa</small> |
+| *fratino* | sora <small>📜 sorore, 🌎 soror</small> |
+| *monato*  | mese <small>📜 mense,  🌎 mense</small> |
+| *sino*    | seno <small>📜 sino,   🌎 sino</small> |
 | | |
 
 <!--v-->
