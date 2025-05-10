@@ -12,9 +12,6 @@ revealOptions:
 
 <!-- cd ~/Git/speranto/latinidaj; reveal-md ia.md -w -->
 
-<!-- TODO mangiar [ĝ] ? -->
-<!-- TODO ? vd. manjare -->
-
 <!-- TODO -aje ? -ajo ? -->
 
 <!-- TODO tamben tanben tan -->
@@ -3947,19 +3944,20 @@ Notes:
 
 | | |
 |-|-|
-| *montri* | monstrar <small>📜 monstrare, 🌎 monstrar,<br> 🇮🇹 mostrare, 🇫🇷 montrer, 🇪🇸🇵🇹 mostrar</small> |
+| *montri* | monstrar <small>🌎 monstrar</small> |
 | | |
 
-<small>Ekzemplo: **Interlingvao** uzas la plej komunan originan formon de radiko en la latinidaj fontolingvoj.</small>
+<small>Ekzemplo: **Interlingvao** uzas la latinan formon. Ĉiuj latinidaj lingvoj devias de la latina formo.</small>
 
 <!--v-->
 
 | | |
 |-|-|
-| *monato* | mese <small>📜 mense, 🌎 mense,<br>🇮🇹 mese, 🇫🇷 mois, 🇪🇸 mes, 🇵🇹 mês</small> |
+| *aŭskulti* | auscultar <small>🌎 ascoltar</small> |
+| *instrui*  | insignar  <small>🌎 inseniar</small> |
+| *kuniklo*  | cuniculo  <small>🌎 conilio</small> |
+| *manĝi*    | manducar  <small>🌎 manjar</small> |
 | | |
-
-<small>Ekzemplo: **Interlingvao** *ne* uzas la plej komunan formon (pro vortfaradaj kialoj, supozeble).</small>
 
 <!--v-->
 
@@ -3967,13 +3965,34 @@ Notes:
 |-|-|
 | *eniri*   | entrar <small>📜 intrare, 🌎 entrar</small> |
 | | |
+
+<small>Ekzemplo: **Interlingvao** uzas latinidan formon. Ĉiuj fontolingvoj devias en sama maniero de la latina formo.</small>
+
+<!--v-->
+
+| | |
+|-|-|
+| *monato* | mese <small>📜 mense, 🌎 mense</small> |
+| *ŝi*     | ella <small>📜 illa, 🌎 illa</small> |
+| | |
+
+<!--v-->
+
+| | |
+|-|-|
+| *trajno*   | traino <small>📜 tragino, 🌎 traino</small> |
+| | |
+
+<small>Ekzemplo: **Interlingvao** uzas latinidan formon. Aliaj fontolingvoj devias de tiu latinida formo.</small>
+
+<!--v-->
+
+| | |
+|-|-|
 | *komenci* | cominciar <small>📜 cominitiare, 🌎 comenciar</small> |
-| | |
-| *lando* | paese <small>🌎 pais</small> |
-| | |
-| *aŭskulti* | auscultar <small>🌎 ascoltar</small> |
-| *instrui* | insignar <small>🌎 inseniar</small> |
-| *kuniklo* | cuniculo <small>🌎 conilio</small> |
+| *lando*   | paese <small>📜 pagense, 🌎 pais</small> |
+| *majstro* | maistro <small>📜 magistro, 🌎 maestro</small> |
+| *mi*      | eo <small>📜 ego, 🌎 io</small> |
 | | |
 
 <!--s-->
