@@ -2348,7 +2348,7 @@ lib/liv?
 
 <!--v-->
 
-**maístro** <small>**mağistro**</small>
+**mâistro** <small>**mağistro**</small>
 
 | 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
 |:-:|:-:|:-:|:-:|
@@ -3395,16 +3395,6 @@ Notes:
 
 <!--v-->
 
-**sana**
-
-| 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
-|:-:|:-:|:-:|:-:|
-| sana | sæna | sana | sana |
-| *sana* | *saine* | *sana* | *sã* |
-| | | | |
-
-<!--v-->
-
 | (qŭe nos) sapea <small>(qŭe) sapeamos</small> | sap̄iamo *[sappiamo]* |
 
 <!--v-->
@@ -3454,6 +3444,18 @@ Notes:
 
 | *semana* | **seman̄ā** = **semanā** = **seman̄a** | <!-- ? -->
 
+<!-- septimana -->
+
+<!--v-->
+
+**seno** <small>**sïno**</small>
+
+| 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
+|:-:|:-:|:-:|:-:|
+| sïno | sïno | sïno | sïṅo |
+| *seno* | *sein* | *seno* | *seio* |
+| | | | |
+
 <!--v-->
 
 | sentír | sentirĕ = sentír *[sentir]* |
@@ -3492,16 +3494,6 @@ Notes:
 |:-:|:-:|:-:|:-:|
 | … | … | sine | sïne |
 | … | … | *sin* | *sem* |
-| | | | |
-
-<!--v-->
-
-**sino**
-
-| 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
-|:-:|:-:|:-:|:-:|
-| sïno | sïno | sïno | sïṅo |
-| *seno* | *sein* | *seno* | *seio* |
 | | | | |
 
 <!--v-->
@@ -3724,7 +3716,6 @@ Notes:
 
 Notes:
 * BR `trem`
-* **traíno** → **trâino**
 
 <!--v-->
 
@@ -3817,7 +3808,15 @@ Notes:
 
 <!--v-->
 
-| vetŭla | vetŭlo = vecḷo *[vecchio]* |
+<!--v-->
+
+**vetŭla**
+
+| 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
+|:-:|:-:|:-:|:-:|
+| vetŭla = vecḷa | | | |
+| vecchia | … | … | … |
+| | | | |
 
 <!--v-->
 
@@ -3943,11 +3942,8 @@ Notes:
 <!--v-->
 
 | | |
-|-|-|
-| *montri* | monstrar <small>🌎 monstrar</small> |
-| | |
-
-<small>Ekzemplo: **Interlingvao** uzas la latinan formon. Ĉiuj latinidaj lingvoj devias de la latina formo.</small>
+|-|-|| *ŝi*      | ella <small>📜 illa, 🌎 illa</small> |
+de la latina formo.</small>
 
 <!--v-->
 
@@ -3973,6 +3969,7 @@ Notes:
 | | |
 |-|-|
 | *monato* | mese <small>📜 mense, 🌎 mense</small> |
+| *sino*   | seno <small>📜 sino, 🌎 sino</small> |
 | *ŝi*     | ella <small>📜 illa, 🌎 illa</small> |
 | | |
 
