@@ -12,6 +12,14 @@ revealOptions:
 
 <!-- cd ~/Git/speranto/latinidaj; reveal-md ia.md -w -->
 
+<!-- TODO linia/linea -->
+
+<!-- TODO altere → altre (ja en ĉiuj fontolingvoj) -->
+<!-- IA camisa - camisia -->
+<!-- TODO comêre -->
+<!-- TODO comminçare -->
+<!-- TODO mino/-us → meno/-us? -->
+
 <!-- TODO -aje ? -ajo ? -->
 
 <!-- TODO thesis -->
@@ -167,7 +175,9 @@ revealOptions:
 
 | | |
 |-|-|
-| *forto* | fortia *[forci-a]* <small>força *[forsa]*, 📜 *[forti-a]*</small> |
+| *altigi* | altiar *[alciar']* <small>alçare *[alsare]*, 📜 *[altiare]*</small> |
+| *marco*  | martio *[marci-o]* <small>março *[marso]*, 📜 *[marti-o]*</small> |
+| *forto*  | fortia *[forci-a]* <small>força *[forsa]*, 📜 *[forti-a]*</small> |
 | | |
 | *spaco* | spatio *[spaci-o]* <small>*[spasjo]*, 📜 *[spati-o]*</small> |
 | | |
@@ -693,6 +703,13 @@ Notes:
 
 ## Konjunkcioj
 
+<!--v-->
+
+| | |
+|-|-|
+| *aŭ* | o |
+| | |
+
 <!--s-->
 
 # Interlingvaismoj
@@ -710,10 +727,11 @@ Notes:
 
 | | |
 |-|-|
-| *aŭskulti* | auscultar <small>🌎 ascoltar</small> |
-| *instrui*  | insignar  <small>🌎 inseniar</small> |
-| *kuniklo*  | cuniculo  <small>🌎 conilio</small> |
-| *manĝi*    | manducar  <small>🌎 manjar</small> |
+| *aŭskulti* | auscultar  <small>🌎 ascoltar</small> |
+| *instrui*  | insignar   <small>🌎 inseniar</small> |
+| *kuniklo*  | cuniculo   <small>🌎 conilio</small> |
+| *manĝi*    | manducar   <small>🌎 manjar</small> |
+| *prononci* | pronuntiar <small>🌎 pronunciar</small> |
 | | |
 
 <!--v-->
@@ -754,6 +772,8 @@ Notes:
 | *majstro* | maistro <small>📜 magistro, 🌎 maestro</small> |
 | *mi*      | eo <small>📜 ego, 🌎 io</small> |
 | | |
+
+<!-- -nuntiar -->
 
 <!--s-->
 
@@ -1029,7 +1049,7 @@ Notes:
 
 <!--v-->
 
-**altra**
+**altra** <small>**altĕra**</small>
 
 | 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
 |:-:|:-:|:-:|:-:|
@@ -1590,7 +1610,7 @@ Notes:
 
 <!--v-->
 
-**commençare** <small>com̄ïnĭtĭare</small>
+**comminçare** <small>com̄inĭtĭare</small>
 
 | 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
 |:-:|:-:|:-:|:-:|
@@ -2241,7 +2261,8 @@ Notes:
 
 <!--v-->
 
-**intrare**
+<!-- TODO → e -->
+**entrare** <small>**intrare**</small>
 
 | 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
 |:-:|:-:|:-:|:-:|
@@ -2587,7 +2608,7 @@ Notes:
 
 <!--v-->
 
-**mesile** <small>**men̆sile**</small>
+**mensile**
 
 | 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
 |:-:|:-:|:-:|:-:|
