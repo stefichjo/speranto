@@ -12,12 +12,10 @@ revealOptions:
 
 <!-- cd ~/Git/speranto/latinidaj; reveal-md ia.md -w -->
 
-<!-- TODO linia/linea -->
+<!-- aranĝi = ad + rang -->
+<!-- praestigium -->
 
-<!-- TODO altere → altre (ja en ĉiuj fontolingvoj) -->
-<!-- IA camisa - camisia -->
 <!-- TODO comêre -->
-<!-- TODO comminçare -->
 <!-- TODO mino/-us → meno/-us? -->
 
 <!-- TODO -aje ? -ajo ? -->
@@ -527,7 +525,7 @@ Notes:
 | | |
 
 Notes:
-* las unas e las alteras
+* las unas e las altras
 
 <!--v-->
 
@@ -718,7 +716,7 @@ Notes:
 
 | | |
 |-|-|
-| *montri*      | monstrar <small>📜 monstrare, 🌎 monstrar</small> |
+| *montri* | monstrar <small>📜 monstrare, 🌎 monstrar</small> |
 | | |
 
 <small>Ekzemplo: **Interlingvao** uzas latinan formon. Ĉiuj fontolingvoj devias en malsamaj manieroj de la latina formo.</small>
@@ -728,6 +726,7 @@ Notes:
 | | |
 |-|-|
 | *aŭskulti* | auscultar  <small>🌎 ascoltar</small> |
+| *ĉemizo*   | camisia    <small>🌎 camisa</small> |
 | *instrui*  | insignar   <small>🌎 inseniar</small> |
 | *kuniklo*  | cuniculo   <small>🌎 conilio</small> |
 | *manĝi*    | manducar   <small>🌎 manjar</small> |
@@ -747,17 +746,18 @@ Notes:
 
 | | |
 |-|-|
-| *fratino* | sora <small>📜 sorore, 🌎 soror</small> |
-| *monato*  | mese <small>📜 mense,  🌎 mense</small> |
-| *sino*    | seno <small>📜 sino,   🌎 sino</small> |
-| *fojo*    | vece <small>📜 vice,   🌎 vice</small> |
+| *alia*    | altre <small>📜 altera, 🌎 altere</small> |
+| *fratino* | sora  <small>📜 sorore, 🌎 soror</small> |
+| *monato*  | mese  <small>📜 mense,  🌎 mense</small> |
+| *sino*    | seno  <small>📜 sino,   🌎 sino</small> |
+| *fojo*    | vece  <small>📜 vice,   🌎 vice</small> |
 | | |
 
 <!--v-->
 
 | | |
 |-|-|
-| *trajno*   | traino <small>📜 tragino, 🌎 traino</small> |
+| *trajno* | traino <small>📜 tragino, 🌎 traino</small> |
 | | |
 
 <small>Ekzemplo: **Interlingvao** uzas latinidan formon. Aliaj fontolingvoj devias de tiu latinida formo.</small>
@@ -773,7 +773,8 @@ Notes:
 | *mi*      | eo <small>📜 ego, 🌎 io</small> |
 | | |
 
-<!-- -nuntiar -->
+<!-- PT certeza, ES certeza -->
+<!-- PT justiça, ES justicia -->
 
 <!--s-->
 
@@ -829,7 +830,7 @@ a disvoluppar<small>-e</small> le<small>-a</small> respecto a este<small>-as</sm
 
 <!--v-->
 
-Tote<small>-as</small> le<small>-as</small> seres human<small>-as</small> nasce<small>-n</small> libere<small>-as</small> e equal<small>-es</small> in dignitate e in derectos. Elles es<small>=sôn</small> dotate<small>-as</small> de ration<small>-e</small> e de conscientia e debe<small>-n</small> ager<small>-e</small> le<small>-as</small> unes<small>-as</small> verso le<small>-as</small> alteres<small>-as</small> in un<small>-a</small> spirito de fraternitate.
+Tote<small>-as</small> le<small>-as</small> seres human<small>-as</small> nasce<small>-n</small> libere<small>-as</small> e equal<small>-es</small> in dignitate e in derectos. Elles es<small>=sôn</small> dotate<small>-as</small> de ration<small>-e</small> e de conscientia e debe<small>-n</small> ager<small>-e</small> le<small>-as</small> unes<small>-as</small> verso le<small>-as</small> altres<small>-as</small> in un<small>-a</small> spirito de fraternitate.
 
 <!--s-->
 
@@ -1610,12 +1611,12 @@ Notes:
 
 <!--v-->
 
-**comminçare** <small>com̄inĭtĭare</small>
+**cominçare** <small>cominĭtĭare</small>
 
 | 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
 |:-:|:-:|:-:|:-:|
-| com̄inĭtjare | com̄inĭtĭæɍe | com̄ïnĭtĭare | com̄ïn̆ĭtĭare |
-| *comminciare* | *commencer* | *comenzar* | *começar* |
+| cominĭtjare | com̄inĭtĭæɍe | comïnĭtĭare | comïn̆ĭtĭare |
+| *cominciare* | *commencer* | *comenzar* | *começar* |
 | | | | |
 
 <!--v-->
@@ -2430,7 +2431,7 @@ Notes:
 
 <!--v-->
 
-**linia** <small>**linea**</small>
+**linea**
 
 | 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
 |:-:|:-:|:-:|:-:|
