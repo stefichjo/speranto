@@ -12,8 +12,6 @@ revealOptions:
 
 <!-- cd ~/Git/speranto/latinidaj; reveal-md ia.md -w -->
 
-<!-- TODO "un-" ne estas (necese) tabelvorta radiko → speranto.md -->
-
 <!-- TODO mangiar [ĝ] ? -->
 <!-- TODO ? vd. manjare -->
 
@@ -22,9 +20,6 @@ revealOptions:
 <!-- TODO tamben tanben tan -->
 
 <!-- TODO quia jam ekzistas kaj signifas "ĉar". konflikto. -->
-<!-- TODO ali-, -que → speranto.md -->
-<!-- TODO qual origine priskribita kiel origine -a, sed eble ja fakte -u. → speranto.md -->
-<!-- TODO qual-c ... qual-que -->
 <!-- TODO: "alio" kaj "campania" havas j-ecajn "l"-on kaj "n"-on en Lingua Intermediaria. -->
 <!-- TODO t→d okazas ankaŭ en la Franca? vd. "diurnata" -->
 <!-- TODO ç ankoraŭ mankas en la klarigoj pri Lingua. vd. fineça -->
@@ -182,7 +177,7 @@ revealOptions:
 |-|-|
 | *lingvo* | lingua *[lingu-a]* <small>*[liŋgŭa]*</small> |
 | | |
-| *instrui* | insignar *[insignar]* <small>insignare *[insinjare]*, 🌎 inseniar</small> |
+| *signo* | signo *[signo]* <small>*[sinjo]*</small> |
 | | |
 
 <!--v-->
@@ -429,10 +424,10 @@ Notes:
 
 |           | *ĉi ti-* |
 |-|-|
-| ***-u***  | questi <small>📜 eccu isti</small> |
-| ***-o***  | queste <small>📜 eccu iste</small> |
-| ***-a***  | questa <small>📜 eccu ista</small> |
-| ***-el*** | questo <small>📜 eccu isto</small> |
+| ***-u***  | questi <small>📜 eccu-isti</small> |
+| ***-o***  | queste <small>📜 eccu-iste</small> |
+| ***-a***  | questa <small>📜 eccu-ista</small> |
+| ***-el*** | questo <small>📜 eccu-isto</small> |
 | | |
 
 <!--v-->
@@ -602,7 +597,7 @@ Notes:
 | *esti helpinta* | haver adjutato <small>havér adjutato</small> |
 | | |
 
-<small>La elizio de -*e* estas deviga en kombinoj kun pronomoj kaj aliaj verboj. La akcento tiam ne ŝanĝiĝas.</small>
+<small>En **Lingua Internationale**, la elizio de -*e* estas deviga en kombinoj kun pronomoj kaj aliaj verboj. La akcento tiam ne ŝanĝiĝas.</small>
 
 <!--v-->
 
@@ -699,7 +694,7 @@ Notes:
 
 <!--s-->
 
-# Ortografio 2
+# Vortaro
 
 Notes:
 <!-- vokaloj -->
@@ -3946,6 +3941,43 @@ Notes:
 
 <!--s-->
 
+## Interlingvaismoj
+
+<!--v-->
+
+| | |
+|-|-|
+| *montri* | monstrar <small>📜 monstrare, 🌎 monstrar,<br> 🇮🇹 mostrare, 🇫🇷 montrer, 🇪🇸🇵🇹 mostrar</small> |
+| | |
+
+<small>Ekzemplo: **Interlingvao** uzas la plej komunan originan formon de radiko en la latinidaj fontolingvoj.</small>
+
+<!--v-->
+
+| | |
+|-|-|
+| *monato* | mese <small>📜 mense, 🌎 mense,<br>🇮🇹 mese, 🇫🇷 mois, 🇪🇸 mes, 🇵🇹 mês</small> |
+| | |
+
+<small>Ekzemplo: **Interlingvao** *ne* uzas la plej komunan formon (pro vortfaradaj kialoj, supozeble).</small>
+
+<!--v-->
+
+| | |
+|-|-|
+| *eniri*   | entrar <small>📜 intrare, 🌎 entrar</small> |
+| | |
+| *komenci* | cominciar <small>📜 cominitiare, 🌎 comenciar</small> |
+| | |
+| *lando* | paese <small>🌎 pais</small> |
+| | |
+| *aŭskulti* | auscultar <small>🌎 ascoltar</small> |
+| *instrui* | insignar <small>🌎 inseniar</small> |
+| *kuniklo* | cuniculo <small>🌎 conilio</small> |
+| | |
+
+<!--s-->
+
 ## [Declaration Universal del Derectos Human](https://www.ohchr.org/en/human-rights/universal-declaration/translations/interlingua)
 
 <!--v-->
@@ -3986,7 +4018,7 @@ Le<small>-a</small> Assemblea General<small>-e</small>
 
 <!--v-->
 
-Proclama le<small>-a</small> presente Declaration<small>-e</small> Universal<small>-e</small> del<small>=dês</small> Derectos Human<small>-as</small> como le<small>-a</small> ideal<small>-e</small> commun<small>-e</small> a attinger<small>-e</small> per tote<small>-as</small> le<small>-as</small> populos e nationes, a fin<small>-e</small> que tote<small>-as</small> le<small>-as</small> individuos e tote<small>-as</small> le<small>-as</small> organos del societate, havente este<small>-a</small> Declaration<small>-e</small> constantemente in mente, se effortia<small>=efforcen</small>, per le<small>-a</small> inseniamento e per le<small>-a</small> education<small>-e</small>,
+Proclama le<small>-a</small> presente Declaration<small>-e</small> Universal<small>-e</small> del<small>=dês</small> Derectos Human<small>-as</small> como le<small>-a</small> ideal<small>-e</small> commun<small>-e</small> a attinger<small>-e</small> per tote<small>-as</small> le<small>-as</small> populos e nationes, a fin<small>-e</small> que tote<small>-as</small> le<small>-as</small> individuos e tote<small>-as</small> le<small>-as</small> organos del societate, havente este<small>-a</small> Declaration<small>-e</small> constantemente in mente, se effortia<small>=efforcen</small>, per le<small>-a</small> insignamento e per le<small>-a</small> education<small>-e</small>,
 
 <!--v-->
 

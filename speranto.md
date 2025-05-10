@@ -1880,6 +1880,8 @@ Tra bruo, la prepozicio **a** uziĝas por la indiki la rektan objekton. (Tiam uz
 | kiom | **quo** <small>**quanto**</small> |
 | ĉi tiom | **quisto** <small>**tanto**</small> |
 
+<!-- TODO quale+tale origine eble ja fakte -u. -->
+
 <!--v-->
 
 | Esperanto | Lingua |
@@ -2569,8 +2571,8 @@ Tra bruo, la prepozicio **a** uziĝas por la indiki la rektan objekton. (Tiam uz
 
 | Esperanto | Intermediaria |
 |-|-|
-| domo | *d*una domo** |
-| domoj | **unas domos** |
+| domo | **una domo** |
+| unuj domoj | **unas domos** |
 
 <!--v-->
 
@@ -3196,6 +3198,8 @@ Duoblaj vokaloj en finaĵoj estas skribataj kun makrono.
 | ĉiu | **omna** <small>**qui-que**</small> |
 | | |
 | kiu/iu/ĉiu ajn | **un-qui** <small>**qui-cum-que**</small> |
+
+<!-- TODO qual-que = ĉia?! :( -->
 
 <!--v-->
 
