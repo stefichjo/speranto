@@ -298,7 +298,7 @@ Notes:
 | *delikata* | delicate *[delikate]* <small>delicata *[delikada]*</small> |
 | *granda*   | grande |
 | | |
-| *logike* | logique *[logi-ke]* <small>logĭca *[loĵi-ka]*, 🌎 logic</small> |
+| *logike* | logiche *[logi-ke]* <small>logĭca *[loĵi-ka]*, 🌎 logic</small> |
 | | |
 
 <small>En **Lingua Auxiliar**, ĉiuj adjektivoj finiĝas je -*e*.</small>
@@ -348,7 +348,7 @@ Notes:
 |-|-|
 | *rapide* | rapidemente <small>rapidamente, 🌎 rapidemente</small> |
 | | |
-| *logike* | logiquemente <small>logicamente, 🌎 logicamente</small> |
+| *logike* | logichemente <small>logicamente, 🌎 logicamente</small> |
 | | |
 
 <small>Adverboj estas formataj pere de la sufikso -*mente*.</small>
