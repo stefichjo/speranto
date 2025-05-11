@@ -12,22 +12,16 @@ revealOptions:
 
 <!-- cd ~/Git/speranto/latinidaj; reveal-md ia.md -w -->
 
-<!-- TODO praestigium -->
-
 <!-- TODO comêre -->
-
-<!-- TODO thesis -->
 <!-- TODO continer -->
-<!-- TODO ric = ricc -->
 <!-- TODO tamben tanben tan -->
 <!-- TODO cosa -->
 
 <!-- TODO quia jam ekzistas kaj signifas "ĉar". konflikto. -->
 <!-- TODO: "alio" kaj "campania" havas j-ecajn "l"-on kaj "n"-on en Lingua Intermediaria. -->
 <!-- TODO t→d okazas ankaŭ en la Franca? vd. "diurnata" -->
-<!-- TODO ç ankoraŭ mankas en la klarigoj pri Lingua. vd. fineça -->
 <!-- TODO Tom: Eble francaj ano→æno kaj ane→æne estas implicindaj, analogie al portugalaj komplikaĵoj. vd. pane -->
-<!-- TODO PT estas malklara; vd. PT um -->
+<!-- TODO PT estas malklara; vd. PT um; ĉu eble estas ligo kun "alicum"? -->
 
 <!-- TODO ecce ecco eccu -->
 
@@ -35,7 +29,6 @@ revealOptions:
 
 <!-- TODO cuje -->
 <!-- TODO IA rubie -->
-<!-- financiar -->
 
 <!-- "Auxiliar" -->
 <!-- monato IA -->
@@ -734,6 +727,7 @@ Notes:
 |-|-|
 | *aŭskulti* | auscultar  <small>🌎 ascoltar</small> |
 | *ĉemizo*   | camisia    <small>🌎 camisa</small> |
+| *financo*  | finantia   <small>🌎 financia</small> |
 | *instrui*  | insignar   <small>🌎 inseniar</small> |
 | *kuniklo*  | cuniculo   <small>🌎 conilio</small> |
 | *manĝi*    | manducar   <small>🌎 manjar</small> |
@@ -794,6 +788,7 @@ Notes:
 | *lando*   | paese <small>📜 pagense, 🌎 pais</small> |
 | *majstro* | maistro <small>📜 magistro, 🌎 maestro</small> |
 | *mi*      | eo <small>📜 ego, 🌎 io</small> |
+| *riĉa*    | ric <small>📜 rica, 🌎 ric(c)</small> |
 | | |
 
 <!--s-->
