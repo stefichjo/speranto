@@ -634,7 +634,7 @@ Notes:
 | *kreas*    | crea |
 | *kreu(j)!* | crea! <small>crea(te)!</small> |
 | | |
-| *(ke) kreu*     | crea <small>📜 cree</small> |
+| *(ke) kreu*     | crea <small>cree</small> |
 | *(se/do) kreus* | crea <small>crearía, 📜 creâsse/crearía, 🌎 crearea</small> |
 | | |
 
@@ -794,11 +794,11 @@ Considerante que le<small>-a</small> recognoscentia del dignitate inherente a to
 
 <!--v-->
 
-Considerante que le<small>-a</small> ignorantia e le<small>-a</small> disprecio<small>dispreço</small> del<small>=dês</small> derectos human<small>-as</small> ha<small>-n</small> resultato<small>=resultâron</small> in actos de barbaria que ultraja<small>-n</small> le<small>-a</small> conscientia del humanitate, e que le<small>-a</small> advenimento de un<small>-a</small> mundo nel qual<small>-e</small> le<small>-as</small> seres human<small>-as</small> sera<small>-n</small> libere<small>-as</small> de parlar<small>-e</small> e de creder<small>-e</small>, liberate<small>-as</small> del terror<small>-e</small> e del miseria, ha sito<small>=ês sita =fue</small> proclamate<small>-a</small> como le plus alte<small>-a</small> aspiration<small>-e</small> del homo<small>-ĭne</small>,
+Considerante que le<small>-a</small> ignorantia e le<small>-a</small> disprecio<small>dispreço</small> del<small>=dês</small> derectos human<small>-as</small> ha<small>-n</small> resultate<small>-o</small> in actos de barbaria que ultraja<small>-n</small> le<small>-a</small> conscientia del humanitate, e que le<small>-a</small> advenimento de un<small>-a</small> mundo nel qual<small>-e</small> le<small>-as</small> seres human<small>-as</small> sera<small>-n</small> libere<small>-as</small> de parlar<small>-e</small> e de creder<small>-e</small>, liberate<small>-as</small> del terror<small>-e</small> e del miseria, ha<small>=ês</small> sito<small>-a</small> proclamate<small>-a</small> como le plus alte<small>-a</small> aspiration<small>-e</small> del homo,
 
 <!--v-->
 
-Considerante que es essential<small>-e</small> que le<small>-as</small> derectos human<small>-as</small> es<small>=sôn</small> protegite<small>=protectas</small> per medio de un<small>-a</small> regime de derecto, a fin<small>-e</small> que le<small>-a</small> homo<small>-ĭne</small> non es<small>=sêa</small> compellite<small>=compulsas</small> al ultime recurso del rebellion<small>-e</small> contra le<small>-a</small> tyrannia e le<small>-a</small> oppression<small>-e</small>,
+Considerante que es essential<small>-e</small> que le<small>-as</small> derectos human<small>-as</small> es<small>=sôn</small> protegite<small>=protectas</small> per medio de un<small>-a</small> regime de derecto, a fin<small>-e</small> que le<small>-a</small> homo non es<small>=sêa</small> compellite<small>=compulsa</small> al ultime recurso del rebellion<small>-e</small> contra le<small>-a</small> tyrannia e le<small>-a</small> oppression<small>-e</small>,
 
 <!--v-->
 
@@ -806,11 +806,11 @@ Considerante que es essential<small>-e</small> promover<small>-e</small> le<smal
 
 <!--v-->
 
-Considerante que nel Charta le<small>-as</small> populos del<small>=dês</small> Nationes Unite<small>-as</small> ha<small>-n</small> reaffirmate<small>=reaffirmato =reaffirmâron</small> su<small>=loro</small> fide nel<small>=nês</small> derectos human<small>-as</small> fundamental<small>-es</small>, nel dignitate e nel valor<small>-e</small> del persona human<small>-a</small>, nel equalitate del<small>=dês</small> homos<small>-ĭnes</small> e del<small>=dês</small> feminas, e que illos se ha<small>-n</small> declarato<small>=declarâron</small> resolute<small>-as</small> a promover<small>-e</small> le<small>-a</small> progresso social<small>-e</small> e a instaurar<small>-e</small> melior<small>-es</small> conditiones de vita in un<small>-a</small> libertate plus grande,
+Considerante que nel Charta le<small>-as</small> populos del<small>=dês</small> Nationes Unite<small>-as</small> ha<small>-n</small> reaffirmate<small>-o</small> su<small>=loro</small> fide nel<small>=nês</small> derectos human<small>-as</small> fundamental<small>-es</small>, nel dignitate e nel valor<small>-e</small> del persona human<small>-a</small>, nel equalitate del<small>=dês</small> homos e del<small>=dês</small> feminas, e que illos se ha<small>-n</small> declarate<small>-o</small> resolute<small>-as</small> a promover<small>-e</small> le<small>-a</small> progresso social<small>-e</small> e a instaurar<small>-e</small> melior<small>-es</small> conditiones de vita in un<small>-a</small> libertate plus grande,
 
 <!--v-->
 
-Considerante que le<small>-as</small> Statos Membros ha<small>-n</small> promittite<small>=promisso =promisêron</small> de assecurar<small>-e</small>, in cooperation<small>-e</small> con le<small>-a</small> Organisation<small>-e</small> del<small>=dês</small> Nationes Unite<small>-as</small>, le<small>-a</small> respecto universal<small>-e</small> e effective<small>-a</small> al<small>=âs</small> derectos human<small>-as</small> e libertates fundamental<small>-es</small>,
+Considerante que le<small>-as</small> Statos Membros ha<small>-n</small> promittite<small>=promisso</small> de assecurar<small>-e</small>, in cooperation<small>-e</small> con le<small>-a</small> Organisation<small>-e</small> del<small>=dês</small> Nationes Unite<small>-as</small>, le<small>-a</small> respecto universal<small>-e</small> e effective<small>-a</small> al<small>=âs</small> derectos human<small>-as</small> e libertates fundamental<small>-es</small>,
 
 <!--v-->
 
