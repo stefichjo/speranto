@@ -12,8 +12,6 @@ revealOptions:
 
 <!-- cd ~/Git/speranto/latinidaj; reveal-md ia.md -w -->
 
-<!-- TODO nel -->
-
 <!-- TODO -aje ? -ajo ? -->
 <!-- passage -->
 
@@ -37,7 +35,12 @@ revealOptions:
 
 <!-- TODO ecce ecco eccu -->
 
-<!-- cuje -->
+<!-- TODO Fakte, eĉ en Lingua Auxiliar oni prefere diru "ubi" anstataŭ "quo". Kiam diri "quo" do, kiam diri "a quo vade tu"? -->
+
+<!-- TODO cuje -->
+<!-- TODO IA rubie -->
+<!-- financiar -->
+
 
 # Lingua Inter-nationale
 *(Interlingua post la Fina Venko)*
@@ -487,8 +490,6 @@ Notes:
 | ***-el*** | quo <small>como</small>   | esto <small>sic</small>     |
 | | | |
 
-<!-- TODO Fakte, eĉ en Lingua Auxiliar oni prefere diru "ubi" anstataŭ "quo". Kiam diri "quo" do, kiam diri "a quo vade tu"? -->
-
 Notes:
 * ub-unque = ubunque, quom-unque = quomunque, qual-unque
 * como <small>📜 quomodo</small>
@@ -716,6 +717,10 @@ Notes:
 
 <!--v-->
 
+### Latinidismoj
+
+<!--v-->
+
 | | |
 |-|-|
 | *montri* | monstrar <small>📜 monstrare, 🌎 monstrar,<br>🇮🇹 mostrare, 🇫🇷 montrer, 🇪🇸🇵🇹 mostrar</small> |
@@ -735,6 +740,10 @@ Notes:
 | *verko*    | opera      <small>🌎 obra</small> |
 | *prononci* | pronuntiar <small>🌎 pronunciar</small> |
 | | |
+
+<!--v-->
+
+### Latinismoj
 
 <!--v-->
 
@@ -758,10 +767,15 @@ Notes:
 
 | | |
 |-|-|
+| *-aĵo*    | -ajo  <small>📜 -atico, 🌎 -aje</small> |
 | *alia*    | altre <small>📜 altera, 🌎 altere</small> |
 | *fratino* | sora  <small>📜 sorore, 🌎 soror</small> |
 | *monato*  | mese  <small>📜 mense,  🌎 mense</small> |
 | | |
+
+<!--v-->
+
+### Naciismoj
 
 <!--v-->
 
@@ -3429,8 +3443,6 @@ Notes:
 * FR `riche` ankaŭ por la vira formo
 
 <!--v-->
-
-<!-- TODO IA rubie -->
 
 **russa**
 
