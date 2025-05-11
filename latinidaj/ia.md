@@ -12,11 +12,12 @@ revealOptions:
 
 <!-- cd ~/Git/speranto/latinidaj; reveal-md ia.md -w -->
 
+<!-- TODO nel -->
+
 <!-- aranĝi = ad + rang -->
 <!-- praestigium -->
 
 <!-- TODO comêre -->
-<!-- TODO mino/-us → meno/-us? -->
 
 <!-- TODO -aje ? -ajo ? -->
 
@@ -34,6 +35,8 @@ revealOptions:
 <!-- TODO PT estas malklara; vd. PT um -->
 
 <!-- TODO ecce ecco eccu -->
+
+<!-- cuje -->
 
 # Lingua Inter-nationale
 *(Interlingua post la Fina Venko)*
@@ -708,16 +711,16 @@ Notes:
 
 <!--s-->
 
-# Interlingvaismoj
+## Interlingvaismoj
 
 <!--v-->
 
 | | |
 |-|-|
-| *montri* | monstrar <small>📜 monstrare, 🌎 monstrar</small> |
+| *montri* | monstrar <small>📜 monstrare, 🌎 monstrar,<br>🇮🇹 mostrare, 🇫🇷 montrer, 🇪🇸🇵🇹 mostrar</small> |
 | | |
 
-<small>Ekzemplo: **Interlingvao** uzas latinan formon. Ĉiuj fontolingvoj devias en malsamaj manieroj de la latina formo.</small>
+<small>**Interlingvao Post la Fina Venko** uzas la latinan formon, kiam la fontolingvoj devias en malsamaj manieroj de tiu *latina* formo.</small>
 
 <!--v-->
 
@@ -735,10 +738,19 @@ Notes:
 
 | | |
 |-|-|
-| *eniri*   | entrar <small>📜 intrare, 🌎 entrar</small> |
+| *litero* | littera <small>📜 littera, <br>🇮🇹 lettera, 🇫🇷 lettre, 🇪🇸🇵🇹 letra</small> |
 | | |
 
-<small>Ekzemplo: **Interlingvao** uzas latinidan formon. Ĉiuj fontolingvoj devias en sama maniero de la latina formo.</small>
+<small>**Interlingvao Post la Fina Venko** uzas la latinan formon, ankaŭ kiam ĉiuj fontolingvoj montras ŝanĝon de *i* al *e*.</small>
+
+| | |
+|-|-|
+| *eniri* | entrar <small>📜 intrare<br>🇮🇹 entrare, 🇫🇷 entrer, 🇪🇸🇵🇹 entrar</small> |
+| | |
+| *-eco* | -ecia <small>-eça, 📜 -itia, 🌎 -essa<br>🇮🇹 -ezza, 🇫🇷 -esse, 🇪🇸🇵🇹 -eza</small> |
+| | |
+
+<small>Tamen, radikokomenca ŝanĝo de *i* al *e* en ĉiuj fontolingvoj estas konservata en **Interlingua Post la Fina Venko**.</small>
 
 <!--v-->
 
@@ -747,32 +759,26 @@ Notes:
 | *alia*    | altre <small>📜 altera, 🌎 altere</small> |
 | *fratino* | sora  <small>📜 sorore, 🌎 soror</small> |
 | *monato*  | mese  <small>📜 mense,  🌎 mense</small> |
-| *sino*    | seno  <small>📜 sino,   🌎 sino</small> |
-| *fojo*    | vece  <small>📜 vice,   🌎 vice</small> |
 | | |
 
 <!--v-->
 
 | | |
 |-|-|
-| *trajno* | traino <small>📜 tragino, 🌎 traino</small> |
+| *trajno* | traino <small>📜 tragino, 🌎 traino, <br>🇮🇹 treno, 🇫🇷 train, 🇪🇸 tren, 🇵🇹 trem</small> |
 | | |
 
-<small>Ekzemplo: **Interlingvao** uzas latinidan formon. Aliaj fontolingvoj devias de tiu latinida formo.</small>
+<small>**Interlingvao Post la Fina Venko** uzas latinidan formon, kiam ĉiuj aliaj fontolingvoj devias de tiu *latinida* formo.</small>
 
 <!--v-->
 
 | | |
 |-|-|
-| *-eco*    | -ecia <small>-eça, 📜 -itia, 🌎 -essa</small> |
 | *komenci* | cominciar <small>cominçare, 📜 cominitiare, 🌎 comenciar</small> |
 | *lando*   | paese <small>📜 pagense, 🌎 pais</small> |
 | *majstro* | maistro <small>📜 magistro, 🌎 maestro</small> |
 | *mi*      | eo <small>📜 ego, 🌎 io</small> |
 | | |
-
-<!-- PT certeza, ES certeza -->
-<!-- PT justiça, ES justicia -->
 
 <!--s-->
 
@@ -1803,6 +1809,16 @@ Notes:
 
 <!--v-->
 
+**entrare** <small>**intrare**</small>
+
+| 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
+|:-:|:-:|:-:|:-:|
+| ïntrare | ïntrær̆e | ïntrare | ïntrare |
+| *entrare* | *entrer* | *entrar* | *entrar* |
+| | | | |
+
+<!--v-->
+
 **enuntiatione**
 
 | 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
@@ -2260,17 +2276,6 @@ Notes:
 
 <!--v-->
 
-<!-- TODO → e -->
-**entrare** <small>**intrare**</small>
-
-| 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
-|:-:|:-:|:-:|:-:|
-| ïntrare | ïntrær̆e | ïntrare | ïntrare |
-| *entrare* | *entrer* | *entrar* | *entrar* |
-| | | | |
-
-<!--v-->
-
 | ipso | ïpso *[esso]* |
 | ipso | ïpso *[eso]* |
 
@@ -2630,6 +2635,16 @@ Notes:
 
 Notes:
 * `:(` IT ll → l
+
+<!--v-->
+
+**monstrare**
+
+| 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
+|:-:|:-:|:-:|:-:|
+| mon̆strare | … | mon̆strare | mon̆strare |
+| *mostrare* | *montrer* | *mostrar* | *mostrar* |
+| | | | |
 
 <!--v-->
 
@@ -3413,6 +3428,8 @@ Notes:
 
 <!--v-->
 
+<!-- TODO IA rubie -->
+
 **russa**
 
 | 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
@@ -3590,16 +3607,6 @@ Notes:
 
 <!--v-->
 
-**seno** <small>**sïno**</small>
-
-| 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
-|:-:|:-:|:-:|:-:|
-| sïno | sïno | sïno | sïṅo |
-| *seno* | *sein* | *seno* | *seio* |
-| | | | |
-
-<!--v-->
-
 | sentír | sentirĕ = sentír *[sentir]* |
 
 <!--v-->
@@ -3636,6 +3643,16 @@ Notes:
 |:-:|:-:|:-:|:-:|
 | … | … | sine | sïne |
 | … | … | *sin* | *sem* |
+| | | | |
+
+<!--v-->
+
+**sino**
+
+| 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
+|:-:|:-:|:-:|:-:|
+| sïno | sïno | sïno | sïṅo |
+| *seno* | *sein* | *seno* | *seio* |
 | | | | |
 
 <!--v-->
@@ -3950,16 +3967,6 @@ Notes:
 
 <!--v-->
 
-**vece** <small>**vïce**</small>
-
-| 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
-|:-:|:-:|:-:|:-:|
-| vïce | … | vïce | vïce |
-| *vece* | *fois* | *vez* | *vez* |
-| | | | |
-
-<!--v-->
-
 **vetŭla**
 
 | 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
@@ -3976,6 +3983,16 @@ Notes:
 |:-:|:-:|:-:|:-:|
 | via | vĩa | via | via |
 | *via* | *voie* | *via* | *via* |
+| | | | |
+
+<!--v-->
+
+**vice**
+
+| 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
+|:-:|:-:|:-:|:-:|
+| vïce | … | vïce | vïce |
+| *vece* | *fois* | *vez* | *vez* |
 | | | | |
 
 <!--v-->
