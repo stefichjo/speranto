@@ -12,11 +12,7 @@ revealOptions:
 
 <!-- cd ~/Git/speranto/latinidaj; reveal-md ia.md -w -->
 
-<!-- TODO -aje ? -ajo ? -->
-<!-- passage -->
-
-<!-- aranĝi = ad + rang -->
-<!-- praestigium -->
+<!-- TODO praestigium -->
 
 <!-- TODO comêre -->
 
@@ -41,6 +37,8 @@ revealOptions:
 <!-- TODO IA rubie -->
 <!-- financiar -->
 
+<!-- "Auxiliar" -->
+<!-- monato IA -->
 
 # Lingua Inter-nationale
 *(Interlingua post la Fina Venko)*
@@ -164,9 +162,11 @@ revealOptions:
 
 | | |
 |-|-|
+| *jam* | jam *[jam]* <small>*[ĵam]*</small> |
+| | |
 | *gesto* | gesto *[gesto]* <small>*[ĵesto]*</small> |
 | | |
-| *jam* | jam *[jam]* <small>*[ĵam]*</small> |
+| *prestiĝo* | prestigio *[prestigi-o]* <small>*[prestiĵo]*</small> |
 | | |
 
 <!--v-->
