@@ -1989,7 +1989,7 @@ Tra bruo, la prepozicio **a** uziĝas por la indiki la rektan objekton. (Tiam uz
 
 <small>`*` -**aa** fariĝas -**e**: **amaa** → **ame**. </small>
 
-<small>`**` La se-us-formo havas perfektivan radikon. Regula perfektiva radiko formiĝas per la eliziiĝinta sufikso **ve**: **amâsse**, **vidêsse**, **aŭdîsse**, **vincêsse**. La perfektiva radiko de **sêre** estas malregula: **fue**. Pli specife, ĝia **ue** ne estas eliziebla: **fuesse**.</small>
+<small>`**` La se-us-formo havas perfektivan radikon. Regula perfektiva radiko formiĝas per la eliziiĝinta sufikso **ve**: **amâsse**, **vidêsse**, **aŭdîsse**, **vincêsse**. La perfektiva radiko de **essĕre** estas malregula: **fue**. Pli specife, ĝia **ue** ne estas eliziebla: **fuesse**.</small>
 
 <!--v-->
 
@@ -2184,7 +2184,7 @@ Tra bruo, la prepozicio **a** uziĝas por la indiki la rektan objekton. (Tiam uz
 
 <small>Ankaŭ kiam la radiko mallongiĝas, la imperativa formo restas senŝanĝa: **have(te)!**, **vade(te)!**, **face(te)!**</small>
 
-<small>La imperativa formo de **sêre** estas **sê(te)!**.</small>
+<small>La imperativa formo de **essĕre** estas **sê(te)!**.</small>
 
 <!--v-->
 
@@ -2209,7 +2209,7 @@ Tra bruo, la prepozicio **a** uziĝas por la indiki la rektan objekton. (Tiam uz
 
 <!--v-->
 
-#### sêre <small>**essĕre**</small>
+#### essĕre
 
 <!--v-->
 

@@ -25,13 +25,10 @@ revealOptions:
 
 <!-- TODO ecce ecco eccu -->
 
-<!-- TODO Fakte, eĉ en Lingua Auxiliar oni prefere diru "ubi" anstataŭ "quo". Kiam diri "quo" do, kiam diri "a quo vade tu"? -->
+<!-- TODO Fakte, eĉ en Lingua International oni prefere diru "ubi" anstataŭ "quo". Kiam diri "quo" do, kiam diri "a quo vade tu"? -->
 
 <!-- TODO cuje -->
 <!-- TODO IA rubie -->
-
-<!-- "Auxiliar" -->
-<!-- monato IA -->
 
 # Lingua Inter-nationale
 *(Interlingua post la Fina Venko)*
@@ -53,7 +50,7 @@ revealOptions:
 | *muziko* | musica <small>musĭca</small> |
 | | |
 
-<small>En **Lingua Auxiliar**, la supersignoj, kiuj indikas neakcentatajn ŝajnfinaĵojn, ne skribiĝas.</small>
+<small>En **Lingua International**, la supersignoj, kiuj indikas neakcentatajn ŝajnfinaĵojn, ne skribiĝas.</small>
 
 <!--v-->
 
@@ -66,7 +63,7 @@ revealOptions:
 | *trajno* | traino <small>trâino <small>trağino</small></small> |
 | | |
 
-<small>En **Lingua Auxiliar**, la supersignoj, kiuj indikas elizion, ne skribiĝas.</small>
+<small>En **Lingua International**, la supersignoj, kiuj indikas elizion, ne skribiĝas.</small>
 
 <!--v-->
 
@@ -76,7 +73,7 @@ revealOptions:
 | | |
 | *karaktero* | charactere <small>charactĕre, 🌎 character</small> |
 | | |
-| *monato* | mese <small>mêse <small>men̆se</small>, 🎵 mês</small> |
+| *monato* | mese <small>mêse <small>men̆se</small>, 🎵 mês, 🌎 mense</small> |
 | | |
 
 <small>En **Lingua Internationale**, vortofina *-e* estas eliziebla malantaŭ akcentata vokalo kun dentala konsonanto (*c*, *d*, *l*, *n*, *r*, *s*, *t*), ekzemple en poezio.</small>
@@ -94,7 +91,7 @@ revealOptions:
 | *totala* | total <small>totale, 🎵 totál</small> |
 | | |
 
-<small>En **Lingua Auxiliar**, tiu elizio estas deviga, sed nur malantaŭ *l*, *n* aŭ *r*.</small>
+<small>En **Lingua International**, tiu elizio estas deviga, sed nur malantaŭ *l*, *n* aŭ *r*.</small>
 
 <!--v-->
 
@@ -118,7 +115,7 @@ revealOptions:
 
 ### Tra Bruo
 
-<small>En **Lingua Internationale**, la prononco povas esti pli klara, t.e. **tra bruo**. En **Lingua Auxiliar**, tiu prononco estas deviga.</small>
+<small>En **Lingua Internationale**, la prononco povas esti pli klara, t.e. **tra bruo**. En **Lingua International**, tiu prononco estas deviga.</small>
 
 <!--v-->
 
@@ -299,7 +296,7 @@ Notes:
 | *logike* | logiche *[logi-ke]* <small>logĭca *[loĵi-ka]*, 🌎 logic</small> |
 | | |
 
-<small>En **Lingua Auxiliar**, ĉiuj adjektivoj finiĝas je -*e*.</small>
+<small>En **Lingua International**, ĉiuj adjektivoj finiĝas je -*e*.</small>
 
 <!--v-->
 
@@ -637,20 +634,18 @@ Notes:
 
 | | |
 |-|-|
-| *kreintas* | ha create <small>hâ creato</small> |
-| *kreis*    | ha create <small>creava</small> |
+| *kreis*    | creava |
+| *kreintas* | ha create <small>hâ creato, 📜 creáu</small> |
 | | |
+| *kreos*    | creara <small>creará</small> |
 | *kreontas* | va crear <small>vâ creare</small> |
-| *kreos*    | va crear <small>creará</small> |
 | | |
-
-<small>En **Lingua Auxiliar**, uziĝas la intas- kaj la ontas-tempoj anstataŭ la is- kaj la os-tempoj.</small>
 
 <!--v-->
 
 | | |
 |-|-|
-| *irintas* | ha ite <small>ês ita, 📜 vadéu</small> |
+| *irintas* | ha ite <small>ês ita</small> |
 | | |
 
 <!--v-->
