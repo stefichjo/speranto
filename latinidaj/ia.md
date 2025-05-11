@@ -731,6 +731,7 @@ Notes:
 | *instrui*  | insignar   <small>🌎 inseniar</small> |
 | *kuniklo*  | cuniculo   <small>🌎 conilio</small> |
 | *manĝi*    | manducar   <small>🌎 manjar</small> |
+| *verko*    | opera      <small>🌎 obra</small> |
 | *prononci* | pronuntiar <small>🌎 pronunciar</small> |
 | | |
 
