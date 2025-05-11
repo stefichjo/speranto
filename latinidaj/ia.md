@@ -137,7 +137,7 @@ revealOptions:
 |-|-|
 | *maso* | massa *[masa]* <small>📜 *[massa]*</small> |
 | | |
-| *rozo* | rosa *[rosa]* <small>*[roza]*</small> |
+| *rozo* | rosa *[roza]* <small>📜 *[rosa]*</small> |
 | | |
 
 <small>En **Lingua Internationale**, duoblaj konsonantoj estas prononceblaj **tra bruego**.</small>
@@ -586,10 +586,10 @@ Notes:
 |-|-|
 | *oni* | on |
 | | |
-| *-* | el <small>🌎 il</small> |
+| *-* | el <small>📜 il, 🌎 il, -</small> |
 | | |
 
-<!-- TODO mencii la pronomon "il" aŭ "el" -->
+<small>En **Lingua Internationale**, la pronomo *el* ne uziĝas: *el pluve* <small>*pluve*</small></small>
 
 <!--v-->
 
@@ -612,8 +612,8 @@ Notes:
 
 | | |
 |-|-|
-| *vidita*  | vidite <small>vidita, 🎵 vista</small> |
-| *vidinte* | vidite <small>vidito, 🎵 visto</small> |
+| *vidita*  | vidite <small>vista</small> |
+| *vidinte* | vidite <small>visto</small> |
 | | |
 
 <!--v-->
@@ -673,16 +673,14 @@ Notes:
 
 | | |
 |-|-|
-| *(mi) estas* | eo es   <small>🎵 sô</small>  |
-| *(ci) estas* | tu es   <small>🎵 êres</small> |
-| *(li) estas* | elle es <small>🎵 ês</small>  |
+| *(mi) estas* | eo es   <small>sô</small>  |
+| *(ci) estas* | tu es   <small>êres</small> |
+| *(li) estas* | elle es <small>ês</small>  |
 | | |
-| *(ni) estas*  | nos es   <small>🎵 sômos</small> |
-| *(vi) estas*  | vos es   <small>🎵 sôis</small>  |
-| *(ili) estas* | elles es <small>🎵 sôn</small>   |
+| *(ni) estas*  | nos es   <small>sômos</small> |
+| *(vi) estas*  | vos es   <small>sôis</small>  |
+| *(ili) estas* | elles es <small>sôn</small>   |
 | | |
-
-<small>En **Lingua Internationale**, eblas uzi konjugacion kiel en **Lingua Intermediaria**, ekzemple en poezio.</small>
 
 <!--v-->
 
