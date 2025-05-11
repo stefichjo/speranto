@@ -12,11 +12,6 @@ revealOptions:
 
 <!-- cd ~/Git/speranto/latinidaj; reveal-md ia.md -w -->
 
-<!-- TODO comêre -->
-<!-- TODO continer -->
-<!-- TODO tamben tanben tan -->
-<!-- TODO cosa -->
-
 <!-- TODO quia jam ekzistas kaj signifas "ĉar". konflikto. -->
 <!-- TODO: "alio" kaj "campania" havas j-ecajn "l"-on kaj "n"-on en Lingua Intermediaria. -->
 <!-- TODO t→d okazas ankaŭ en la Franca? vd. "diurnata" -->
@@ -296,7 +291,7 @@ Notes:
 | *logike* | logiche *[logi-ke]* <small>logĭca *[loĵi-ka]*, 🌎 logic</small> |
 | | |
 
-<small>En **Lingua International**, ĉiuj adjektivoj finiĝas je -*e*.</small>
+<small>En **Lingua International**, ĉiuj adjektivoj finiĝas je -*e* (kiam -*e* ne eliziiĝas).</small>
 
 <!--v-->
 
@@ -391,7 +386,7 @@ Notes:
 |-|-|-|
 | un   <small>uno</small>     | unesime   <small>prima</small>   | - |
 | du   <small>duo</small>     | duesime   <small>secunda</small> | vinti     |
-| tri             |             triesime  <small>terça</small>   | trenta    |
+| tri                         | triesime  <small>terça</small>   | trenta    |
 | quar <small>quattre</small> | quaresime <small>quarta</small>  | quarenta  <small>🌎 -a-</small> |
 | quin <small>cinque</small>  | quinesime <small>quinta</small>  | cinquenta <small>🌎 -a-</small> |
 | sex             |             sexesime  <small>sexta</small>   | sexenta   <small>🌎 -a-</small> |
@@ -402,7 +397,11 @@ Notes:
 | | | |
 
 Notes:
-* oquesima *[okezi-ma]*
+* un <small>🌎 un</small>
+* tri <small>🌎 tres</small>
+* quar <small>🌎 quatro</small>
+* oc <small>🌎 octo</small>
+  * oquesima *[okezi-ma]*
 
 <!--v-->
 
@@ -1653,6 +1652,21 @@ Notes:
 <!--v-->
 
 | cono | con̄o *[cône]* |
+
+<!--v-->
+
+**continere**
+
+<!-- continer; i→e ne gravas
+
+IT contenere
+FR contenir
+ES contener
+PT conter
+-->
+
+<!-- TODO abstinentia impertinentia -->
+<!-- TODO incontinentia -->
 
 <!--v-->
 
