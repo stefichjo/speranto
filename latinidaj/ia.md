@@ -14,12 +14,13 @@ revealOptions:
 
 <!-- TODO nel -->
 
+<!-- TODO -aje ? -ajo ? -->
+<!-- passage -->
+
 <!-- aranĝi = ad + rang -->
 <!-- praestigium -->
 
 <!-- TODO comêre -->
-
-<!-- TODO -aje ? -ajo ? -->
 
 <!-- TODO thesis -->
 <!-- TODO continer -->
@@ -695,7 +696,7 @@ Notes:
 |-|-|
 | *al la(j)* | al   <small>âl  (âs)</small>  |
 | *de la(j)* | del  <small>dêl (dês)</small> |
-| *en la(j)* | nel  <small>nêl (nês)</small> |
+| *en la(j)* | nel  <small>nêl (nês), 🌎 in le</small> |
 | | |
 
 <!--v-->
