@@ -386,19 +386,17 @@ Notes:
 |-|-|-|
 | un   <small>uno</small>     | unesime   <small>prima</small>   | - |
 | du   <small>duo</small>     | duesime   <small>secunda</small> | vinti     |
-| tri                         | triesime  <small>terça</small>   | trenta    |
-| quar <small>quattre</small> | quaresime <small>quarta</small>  | quarenta  <small>🌎 -a-</small> |
-| quin <small>cinque</small>  | quinesime <small>quinta</small>  | cinquenta <small>🌎 -a-</small> |
-| sex             |             sexesime  <small>sexta</small>   | sexenta   <small>🌎 -a-</small> |
-| sep  <small>septe</small>   | sepesime  <small>septĭma</small> | septenta  <small>🌎 -a-</small> |
-| oc   <small>octe</small>    | oqŭesime  <small>octava</small>  | octenta   <small>🌎 -a-</small> |
-| nou  <small>nove</small>    | nouesime  <small>nona</small>    | noventa   <small>🌎 -a-</small> |
-| deç  <small>dece</small>    | decesime  <small>decĭma</small>  | - |
+| tri  <small>tres</small>    | triesime  <small>terça</small>   | trenta    |
+| quar <small>quattro</small> | quaresime <small>quarta</small>  | quaranta  |
+| quin <small>cinque</small>  | quinesime <small>quinta</small>  | cinquanta |
+| sex             |             sexesime  <small>sexta</small>   | sexanta   |
+| sep  <small>septe</small>   | sepesime  <small>septĭma</small> | septanta  |
+| oc   <small>octo</small>    | oqŭesime  <small>octava</small>  | octanta   |
+| nou  <small>nove</small>    | nouesime  <small>nona</small>    | novanta   |
+| dec  <small>dece</small>    | decesime  <small>decĭma</small>  | - |
 | | | |
 
 Notes:
-* un <small>🌎 un</small>
-* tri <small>🌎 tres</small>
 * quar <small>🌎 quatro</small>
 * oc <small>🌎 octo</small>
   * oquesima *[okezi-ma]*
