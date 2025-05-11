@@ -24,6 +24,18 @@ revealOptions:
 
 <!-- TODO cuje -->
 <!-- TODO IA rubie -->
+<!-- TODO spirito [spirido] ? -->
+<!-- TODO sancta → san -->
+
+<!-- TODO
+LA auricula
+
+IT orecchio (orecchia)
+FR oreille
+ES oreja
+PT orelha
+
+-->
 
 # Lingua Inter-nationale
 *(Interlingua post la Fina Venko)*
@@ -72,6 +84,13 @@ revealOptions:
 | | |
 
 <small>En **Lingua Internationale**, vortofina *-e* estas eliziebla malantaŭ akcentata vokalo kun dentala konsonanto (*c*, *d*, *l*, *n*, *r*, *s*, *t*), ekzemple en poezio.</small>
+
+| | |
+|-|-|
+| *orelo* | aure *[au-re]* |
+| | |
+
+<small>Notindas, ke *aure* havas tri silabojn. La unua silabo *a* estas akcentata, *áure*. La tria silabo *re* do venas post la dua silabo *u*, kiu ne estas akcentata. Tial la *e* en la fino de *aure* ne eliziiĝas.</small>
 
 <!--v-->
 
@@ -391,22 +410,17 @@ Notes:
 | quin <small>cinque</small>  | quinesime <small>quinta</small>  | cinquanta |
 | sex             |             sexesime  <small>sexta</small>   | sexanta   |
 | sep  <small>septe</small>   | sepesime  <small>septĭma</small> | septanta  |
-| oc   <small>octo</small>    | oqŭesime  <small>octava</small>  | octanta   |
+| oc   <small>octo</small>    | ochesime  <small>octava</small>  | octanta   |
 | nou  <small>nove</small>    | nouesime  <small>nona</small>    | novanta   |
-| dec  <small>dece</small>    | decesime  <small>decĭma</small>  | - |
+| dec  <small>dece</small>    | dechesime <small>decĭma</small>  | - |
 | | | |
-
-Notes:
-* quar <small>🌎 quatro</small>
-* oc <small>🌎 octo</small>
-  * oquesima *[okezi-ma]*
 
 <!--v-->
 
 | | |
 |-|-|
-| cent <small>cento</small> | centesima |
-| mill <small>mille</small> | millesima |
+| cent <small>cento</small> | centesime |
+| mill <small>mille</small> | millesime |
 | | |
 
 <!--v-->
@@ -738,26 +752,37 @@ Notes:
 | *litero* | littera <small>📜 littera, <br>🇮🇹 lettera, 🇫🇷 lettre, 🇪🇸🇵🇹 letra</small> |
 | | |
 
-<small>**Interlingvao Post la Fina Venko** uzas la latinan formon, ankaŭ kiam ĉiuj fontolingvoj montras ŝanĝon de *i* al *e*.</small>
+<small>Uziĝas la latina formo, ankaŭ kiam ĉiuj fontolingvoj havas la saman vokalan ŝanĝon.</small>
+
+| | |
+|-|-|
+| *kaŭzo*  | causa <small>📜 causa, 🌎 causa</small> |
+| *afero*  | cosa <small>📜 causa, 🌎 cosa, <br>🇮🇹 cosa, 🇫🇷 chose, 🇪🇸 cosa, 🇵🇹 coisa</small> |
+| | |
+
+<small>Kiam la vokala ŝanĝo akompanas ŝanĝon de signifo, ĝi estas konservata.</small>
 
 | | |
 |-|-|
 | *eniri* | entrar <small>📜 intrare<br>🇮🇹 entrare, 🇫🇷 entrer, 🇪🇸🇵🇹 entrar</small> |
-| | |
-| *-eco* | -ecia <small>-eça, 📜 -itia, 🌎 -essa<br>🇮🇹 -ezza, 🇫🇷 -esse, 🇪🇸🇵🇹 -eza</small> |
+| *-eco*  | -ecia <small>-eça, 📜 -itia, 🌎 -essa<br>🇮🇹 -ezza, 🇫🇷 -esse, 🇪🇸🇵🇹 -eza</small> |
 | | |
 
-<small>Tamen, radikokomenca ŝanĝo de *i* al *e* en ĉiuj fontolingvoj estas konservata en **Interlingua Post la Fina Venko**.</small>
+<small>Radikokomenca ŝanĝo de *i* al *e* en ĉiuj fontolingvoj estas konservata.</small>
+
+Notes:
+* aure
 
 <!--v-->
 
 | | |
 |-|-|
-| *-aĵo*    | -ajo  <small>📜 -atico, 🌎 -aje</small> |
 | *alia*    | altre <small>📜 altera, 🌎 altere</small> |
 | *fratino* | sora  <small>📜 sorore, 🌎 soror</small> |
 | *monato*  | mese  <small>📜 mense,  🌎 mense</small> |
 | | |
+
+<!-- TODO Argumenteblas, ke "altere" → "altre" estas vokala ŝanĝo... -->
 
 <!--v-->
 
@@ -776,6 +801,7 @@ Notes:
 
 | | |
 |-|-|
+| *-aĵo*    | -ajo  <small>📜 -atico, 🌎 -aje</small> |
 | *komenci* | cominciar <small>cominçare, 📜 cominitiare, 🌎 comenciar</small> |
 | *lando*   | paese <small>📜 pagense, 🌎 pais</small> |
 | *majstro* | maistro <small>📜 magistro, 🌎 maestro</small> |
