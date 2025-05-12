@@ -12,6 +12,33 @@ revealOptions:
 
 <!-- cd ~/Git/speranto/latinidaj; reveal-md ia.md -w -->
 
+<!-- tri trio -->
+
+<!-- termino -->
+<!-- latere -->
+
+<!-- selige, mangiar, percentage -->
+<!-- joielese ja pois -->
+<!-- necessari precari voluntari -->
+<!-- fon -->
+<!-- besonio -->
+<!-- girar/virar maniera -->
+<!-- qualunque qualque -->
+<!-- si toto esseva logic, ... -->
+<!-- il es necessari que illa sia un bon persona. -->
+<!-- ir a basso, in alto -->
+<!-- crimine ordine margine; femina pagina -->
+<!-- precio -->
+<!-- plure mure; aure; pur car -->
+
+<!-- TODO mure strange ne estas mur. -->
+<!-- TODO novem (tra bruego?) -->
+
+<!-- TODO
+paro
+pariculo (parecula) (cf. orecula)
+pari/pare=par -->
+
 <!-- TODO quia jam ekzistas kaj signifas "ĉar". konflikto. -->
 <!-- TODO: "alio" kaj "campania" havas j-ecajn "l"-on kaj "n"-on en Lingua Intermediaria. -->
 <!-- TODO t→d okazas ankaŭ en la Franca? vd. "diurnata" -->
@@ -26,16 +53,6 @@ revealOptions:
 <!-- TODO IA rubie -->
 <!-- TODO spirito [spirido] ? -->
 <!-- TODO sancta → san -->
-
-<!-- TODO
-LA auricula
-
-IT orecchio (orecchia)
-FR oreille
-ES oreja
-PT orelha
-
--->
 
 # Lingua Inter-nationale
 *(Interlingua post la Fina Venko)*
@@ -170,8 +187,14 @@ PT orelha
 | | |
 | *gesto* | gesto *[gesto]* <small>*[ĵesto]*</small> |
 | | |
+| *longa* | longhe *[longe]* <small>🌎 longe</small> |
+| | |
 | *prestiĝo* | prestigio *[prestigi-o]* <small>*[prestiĵo]*</small> |
 | | |
+
+<!-- TODO la prononco de -ajo en Lingua International ne estas klara. -->
+<!-- -ajo [-adĭgo] ? passadigo passadgo formadigo -->
+<!-- naufrage naufragio -->
 
 <!--v-->
 
@@ -218,8 +241,16 @@ PT orelha
 Notes:
 * bibita *[bibi-ta]*
 * libera *[libe-ra]*, liberar *[liberar']*, livrar *[livrar']*
+* labor *[labor']* <small>labore *[labore]*</small> `?`
 
 <!--v-->
+
+| | |
+|-|-|
+| *vivo* | vita *[vita]* <small>*[vida]*</small> |
+| | |
+| *vitala* | vital *[vital']* |
+| | |
 
 | | |
 |-|-|
@@ -235,29 +266,69 @@ Notes:
 | *pedalo* | pedal *[pedal']* |
 | | |
 
-<small>En **Lingua Internationale**, radikofina postvokala *t(e)* prononciĝas *[d]*, krom **tra bruo**. Vortofina postvokala *d(e)* eliziiĝas, krom **tra bruo**.</small>
+<small>En **Lingua Internationale**, postvokala *t* kaj *te* fine de unusilaba radiko prononciĝas *[d]*, kaj *de* eliziiĝas, krom **tra bruo**.</small>
+
+Notes:
+* cate, tote, lato, strata, rota, vita, nata(?)
+* rete, site
+* fide, pede
 
 <!--v-->
 
 | | |
 |-|-|
-| *repeti* | repeter *[repeter']* <small>*[repetere]*</small> |
+| *naĝi* | natar *[natar']* <small>*[nata-re]*</small> |
 | | |
-| *repetas* | repete *[repete]* |
+| *naĝas* | nata *[nata]* |
 | | |
 
-<small>En **Lingua Internationale**, la prononco de *te* kaj *de* fine de verbaj radikoj konserviĝas.</small>
+<small>Tamen, la prononco de *t* fine de verbaj radikoj mem konserviĝas.</small>
+
+Notes:
+* natar, repeter, poter
 
 <!--v-->
 
 | | |
 |-|-|
-| *korpo* | corpo  <small>📜 corpŏre,  🌎 corpore</small> |
-| *limo*  | lime   <small>📜 limĭte,   🌎 limite</small>  |
-| *nomo*  | nome   <small>📜 nomĭne,   🌎 nomine</small>  |
-| *sango* | sangue <small>📜 sanguĭne, 🌎 sanguine</small> |
-| *tempo* | tempo  <small>📜 tempŏre,  🌎 tempore</small> |
+| *formato* | formato |
 | | |
+| *formite* | formate <small>formato *[formado]*</small> |
+| | |
+| *formita* | formate <small>formata *[formada]*</small> |
+| | |
+| *formu(j)!* | forma! <small>formate! *[formad']*</small> |
+| | |
+
+| | |
+|-|-|
+| *universitato* | universitate <small>*[universitad']*</small> |
+| | |
+
+<small>Do la prononco *t* kaj *d* de plursilabaj radikoj konserviĝas. La prononco de intervokala *t* en sufikso tamen daŭre povas ŝangiĝi laŭ la ĉi-supre klarigitaj reguloj.</small>
+
+Notes:
+* universitate, felicitate
+* virtute
+
+<!--v-->
+
+| | |
+|-|-|
+| *-eco*     | -itude <small>📜 -itudĭne</small> |
+| *ekzameno* | exame  <small>📜 examĭne,  🌎 examine</small> |
+| *nomo*     | nome   <small>📜 nomĭne,   🌎 nomine</small>  |
+| *sango*    | sangue <small>📜 sanguĭne, 🌎 sanguine</small> |
+| | |
+| *kapo*     | cape   <small>📜 capĭte,   🌎 capite</small> |
+| *limo*     | lime   <small>📜 limĭte,   🌎 limite</small>  |
+| | |
+| *korpo*    | corpo  <small>📜 corpŏre,  🌎 corpore</small> |
+| *tempo*    | tempo  <small>📜 tempŏre,  🌎 tempore</small> |
+| | |
+
+<!-- TODO hospite -->
+<!-- TODO femina pagina -->
 
 <small>**Tra bruego**, neakcentataj ŝajnfinaĵoj el **Lingua Classĭca** estas reteneblaj.</small>
 
@@ -739,6 +810,7 @@ Notes:
 | *manĝi*    | manducar   <small>🌎 manjar</small> |
 | *verko*    | opera      <small>🌎 obra</small> |
 | *prononci* | pronuntiar <small>🌎 pronunciar</small> |
+| *seĝo*     | sedula     <small>🌎 sedia</small> |
 | | |
 
 <!--v-->
@@ -771,18 +843,21 @@ Notes:
 <small>Radikokomenca ŝanĝo de *i* al *e* en ĉiuj fontolingvoj estas konservata.</small>
 
 Notes:
-* aure
+* *aure* uziĝas anstataŭ *orecula*, kiu havas la saman etimon kiel *auricula*.
 
 <!--v-->
 
 | | |
 |-|-|
-| *alia*    | altre <small>📜 altera, 🌎 altere</small> |
-| *fratino* | sora  <small>📜 sorore, 🌎 soror</small> |
-| *monato*  | mese  <small>📜 mense,  🌎 mense</small> |
+| *alia*    | altre  <small>📜 altĕra,  🌎 altere</small> |
+| *dekstra* | dextre <small>📜 dextĕra, 🌎 dextere</small> |
+| *flanko*  | lato   <small>📜 latĕre,  🌎 latĕre</small> |
+| *fratino* | sora   <small>📜 sorore,  🌎 soror</small> |
+| *monato*  | mese   <small>📜 mense,   🌎 mense</small> |
 | | |
 
 <!-- TODO Argumenteblas, ke "altere" → "altre" estas vokala ŝanĝo... -->
+<!-- TODO Eble "lato" kaj "latere" estas simple du diversaj vortoj. -->
 
 <!--v-->
 
@@ -792,7 +867,7 @@ Notes:
 
 | | |
 |-|-|
-| *trajno* | traino <small>📜 tragino, 🌎 traino, <br>🇮🇹 treno, 🇫🇷 train, 🇪🇸 tren, 🇵🇹 trem</small> |
+| *trajno* | traino <small>📜 tragĭno, 🌎 traino, <br>🇮🇹 treno, 🇫🇷 train, 🇪🇸 tren, 🇵🇹 trem</small> |
 | | |
 
 <small>**Interlingvao Post la Fina Venko** uzas latinidan formon, kiam ĉiuj aliaj fontolingvoj devias de tiu *latinida* formo.</small>
@@ -801,7 +876,8 @@ Notes:
 
 | | |
 |-|-|
-| *-aĵo*    | -ajo  <small>📜 -atico, 🌎 -aje</small> |
+| *-aĵo*    | -ajo  <small>📜 -atĭco, 🌎 -aje</small> |
+| *ĵurnalo* | jurnal <small>📜 diurnale, 🌎 jornal</small> |
 | *komenci* | cominciar <small>cominçare, 📜 cominitiare, 🌎 comenciar</small> |
 | *lando*   | paese <small>📜 pagense, 🌎 pais</small> |
 | *majstro* | maistro <small>📜 magistro, 🌎 maestro</small> |

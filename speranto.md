@@ -2624,6 +2624,9 @@ Tra bruo, la prepozicio **a** uziĝas por la indiki la rektan objekton. (Tiam uz
 
 <small>En la as-tempo, radikofina neakcentata **i** fariĝas **e**: **sentis** → **sentes**</small>
 
+Notes:
+* Restas **senti!** (kaj **sentite!**).
+
 <!--v-->
 
 | Esperanto | Intermediaria |
