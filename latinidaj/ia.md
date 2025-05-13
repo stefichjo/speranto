@@ -259,7 +259,7 @@ Notes:
 | *marco*    | martio *[marci-o]* <small>março *[marso]*</small> |
 | | |
 | *prononci* | pronuntiar *[pronunciar']* <small>*[pronunsjare]*, 🌎 pronunciar</small> |
-| *financo*  | finantia *[financi-a]* <small>*[finansja]* 🌎 financia</small> |
+| *financo*  | finantia   *[financi-a]*   <small>*[finansja]*.    🌎 financia</small> |
 | | |
 
 <!--v-->
