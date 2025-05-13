@@ -51,7 +51,6 @@ pari/pare=par -->
 
 <!-- TODO cuje -->
 <!-- TODO IA rubie -->
-<!-- TODO spirito [spirido] ? -->
 <!-- TODO sancta → san -->
 
 # Lingua Inter-nationale
@@ -308,8 +307,9 @@ Notes:
 <small>Do la prononco *t* kaj *d* de plursilabaj radikoj konserviĝas. La prononco de intervokala *t* en sufikso tamen daŭre povas ŝangiĝi laŭ la ĉi-supre klarigitaj reguloj.</small>
 
 Notes:
-* universitate, felicitate
-* virtute
+* spirito *[spiri-to]*
+* universitate *[universitad']*, felicitate *[felisitad']*
+* virtute *[virtud']*
 
 <!--v-->
 
