@@ -12,46 +12,31 @@ revealOptions:
 
 <!-- cd ~/Git/speranto/latinidaj; reveal-md ia.md -w -->
 
-<!-- tri trio -->
+<!-- moderne - classic/ancian -->
+<!-- tezoro -->
+<!-- poche/pauche poco/pauco -->
+<!-- oro auro -->
+<!-- toro tauro -->
+<!-- o (au(t)), e (e(t)) -->
 
-<!-- termino -->
-<!-- latere -->
-
-<!-- selige, mangiar, percentage -->
-<!-- joielese ja pois -->
-<!-- necessari precari voluntari -->
-<!-- fon -->
-<!-- besonio -->
-<!-- girar/virar maniera -->
+<!-- joielese ja pois fon besonio -->
 <!-- qualunque qualque -->
-<!-- si toto esseva logic, ... -->
-<!-- il es necessari que illa sia un bon persona. -->
 <!-- ir a basso, in alto -->
-<!-- crimine ordine margine; femina pagina -->
-<!-- precio -->
-<!-- plure mure; aure; pur car -->
-
-<!-- TODO mure strange ne estas mur. -->
-<!-- TODO novem (tra bruego?) -->
-
-<!-- TODO
-paro
-pariculo (parecula) (cf. orecula)
-pari/pare=par -->
+<!-- plure mure -->
 
 <!-- TODO quia jam ekzistas kaj signifas "ĉar". konflikto. -->
 <!-- TODO: "alio" kaj "campania" havas j-ecajn "l"-on kaj "n"-on en Lingua Intermediaria. -->
 <!-- TODO t→d okazas ankaŭ en la Franca? vd. "diurnata" -->
 <!-- TODO Tom: Eble francaj ano→æno kaj ane→æne estas implicindaj, analogie al portugalaj komplikaĵoj. vd. pane -->
 <!-- TODO PT estas malklara; vd. PT um; ĉu eble estas ligo kun "alicum"? -->
+<!-- TODO cuje -->
+<!-- kies de kiu quia de qui; de kio quea de que -->
 
 <!-- TODO ecce ecco eccu -->
 
 <!-- TODO Fakte, eĉ en Lingua International oni prefere diru "ubi" anstataŭ "quo". Kiam diri "quo" do, kiam diri "a quo vade tu"? -->
 
-<!-- TODO cuje -->
 <!-- TODO IA rubie -->
-<!-- TODO sancta → san -->
 
 # Lingua Inter-nationale
 *(Interlingua post la Fina Venko)*
@@ -182,44 +167,99 @@ pari/pare=par -->
 
 | | |
 |-|-|
-| *jam* | jam *[jam]* <small>*[ĵam]*</small> |
+| *kiom* | quanto *[kuanto]* <small>*[kŭanto]*</small> |
 | | |
-| *gesto* | gesto *[gesto]* <small>*[ĵesto]*</small> |
+| *akvo* | aqua *[aku-a]* <small>*[akŭa]*</small> |
 | | |
-| *longa* | longhe *[longe]* <small>🌎 longe</small> |
+| *ke* | que *[ke]* <small>qŭe</small> |
 | | |
-| *prestiĝo* | prestigio *[prestigi-o]* <small>*[prestiĵo]*</small> |
+| *turka* | turchese *[turkeze]* |
 | | |
 
-<!-- TODO la prononco de -ajo en Lingua International ne estas klara. -->
-<!-- -ajo [-adĭgo] ? passadigo passadgo formadigo -->
-<!-- naufrage naufragio -->
+<small>En **Lingua Internationale**, radikokomenca *[ke]*/*[ki]* skribiĝas *qŭe*/*qŭi*. (En **Lingua International**, la supersignoj mankas.) Radikofina *[ke]*/*[ki]* skribiĝas *che*/*chi*.</small>
 
 <!--v-->
 
 | | |
 |-|-|
-| *placo* | placia *[placi-a]* <small>plaça *[plasa]*, 📜 *[plati-a]*</small> |
+| *jam* | jam *[jam]* <small>*[ĵam]*</small> |
 | | |
+| *saĝa* | saje *[saĝe]* <small>*[saĵa]*, 🌎 sage/saje</small> |
+| | |
+| *kuraĝo* | corajo *[koraĝo]* <small>*[koraĵo]*, 🌎 corage/coraje</small> |
+| | |
+
+<!--v-->
+
+| | |
+|-|-|
+| *milito* | guerra *[guera]* <small>*[gŭera]*</small> |
+| | |
+| *lingvo* | lingua *[lingu-a]* <small>*[liŋgŭa]*</small> |
+| | |
+| *gitaro* | guitarra *[gitara]* <small>gŭitarra, 🌎 gitarra/guitarra</small> |
+| | |
+| *longa* | longhe *[longe]* <small>*[loŋge]*, 🌎 longe</small> |
+| | |
+
+| | |
+|-|-|
+| *signo* | signo *[signo]* <small>*[sinjo]*</small> |
+| | |
+
+<small>En **Lingua Internationale**, radikokomenca *[ge]*/*[gi]* skribiĝas *gŭe*/*gŭi*. (En **Lingua International**, la supersignoj mankas.) Radikofina *[ge]*/*[gi]* skribiĝas *ghe*/*ghi*.</small>
+
+Notes:
+* longhe, naufraghe, portughese
+
+<!--v-->
+
+| | |
+|-|-|
+| *gesto* | gesto *[gesto]* <small>*[ĵesto]*</small> |
+| | |
+| *ĝirafo* | giraffa *[ĝirafa]* <small>*[ĵirafa]*, 🌎 girafa/jirafa</small> |
+| | |
+| *prestiĝo* | prestigio *[prestiĝo]* <small>*[prestiĵo]*, 📜 *[prestigi-o]*</small> |
+| | |
+
+Notes:
+* corajo, formajo, passajo, viajo
+* arangiar, naufragio, prestigio
+
+<!--v-->
+
+| | |
+|-|-|
+| *glacio* | glacie *[glaci-e]* <small>*[glasje]*</small> |
+| *indico* | indicio *[indici-o]* <small>*[indisjo]*</small> |
+| *ofico* | officio *[ofici-o]* <small>*[ofisjo]*</small> |
+| *…* | socio *[soci-o]* <small>*[sosjo]*</small> |
 | *speco* | specie *[speci-e]* <small>*[spesje]*</small> |
 | | |
 
 | | |
 |-|-|
-| *altigi* | altiar *[alciar']* <small>alçare *[alsare]*, 📜 *[altiare]*</small> |
-| *marco*  | martio *[marci-o]* <small>março *[marso]*, 📜 *[marti-o]*</small> |
-| *forto*  | fortia *[forci-a]* <small>força *[forsa]*, 📜 *[forti-a]*</small> |
-| | |
-| *spaco* | spatio *[spaci-o]* <small>*[spasjo]*, 📜 *[spati-o]*</small> |
+| *graco* | gratia *[graci-a]* <small>*[grasja]*</small> |
+| *spaco* | spatio *[spaci-o]* <small>*[spasjo]*</small> |
 | | |
 
 <!--v-->
 
 | | |
 |-|-|
-| *lingvo* | lingua *[lingu-a]* <small>*[liŋgŭa]*</small> |
+| *placo* | placia *[placi-a]* <small>plaça *[plasa]*, 📜 platia</small> |
+| *preco* | precio *[preci-o]* <small>preço *[preso]*, 📜 pretio</small> |
 | | |
-| *signo* | signo *[signo]* <small>*[sinjo]*</small> |
+
+| | |
+|-|-|
+| *altigi*   | altiar *[alciar']* <small>alçare *[alsare]*</small> |
+| *forto*    | fortia *[forci-a]* <small>força *[forsa]*</small> |
+| *marco*    | martio *[marci-o]* <small>março *[marso]*</small> |
+| | |
+| *prononci* | pronuntiar *[pronunciar']* <small>*[pronunsjare]*, 🌎 pronunciar</small> |
+| *financo*  | finantia *[financi-a]* <small>*[finansja]* 🌎 financia</small> |
 | | |
 
 <!--v-->
@@ -228,7 +268,7 @@ pari/pare=par -->
 |-|-|
 | *trinki* | biber   *[biber']*   <small>bibĕre   *[bive-re]*   </small> |
 | *devi*   | deber   *[deber']*   <small>debere   *[devere]*    </small> |
-| *dubi*   | dubitar *[dubitar']* <small>dubitare *[duvidare]*  </small> |
+| *dubi*   | dubitar *[dubitar']* <small>dubitare *[duvitare]*  </small> |
 | *havi*   | haber   *[haber']*   <small>habere   *[avere]*     </small> |
 | *labori* | laborar *[laborar']* <small>laborare *[lavorare]*  </small> |
 | *provi*  | probar  *[probar']*  <small>probare  *[provare]*   </small> |
@@ -304,7 +344,7 @@ Notes:
 | *universitato* | universitate <small>*[universitad']*</small> |
 | | |
 
-<small>Do la prononco *t* kaj *d* de plursilabaj radikoj konserviĝas. La prononco de intervokala *t* en sufikso tamen daŭre povas ŝangiĝi laŭ la ĉi-supre klarigitaj reguloj.</small>
+<small>Do la prononco de *t* kaj *d* de plursilabaj radikoj konserviĝas. La prononco de intervokala *t* en vortofina sufikso tamen daŭre povas ŝangiĝi.</small>
 
 Notes:
 * spirito *[spiri-to]*
@@ -317,26 +357,43 @@ Notes:
 |-|-|
 | *-eco*     | -itude <small>📜 -itudĭne</small> |
 | *ekzameno* | exame  <small>📜 examĭne,  🌎 examine</small> |
-| *nomo*     | nome   <small>📜 nomĭne,   🌎 nomine</small>  |
+| *krimo*    | crime  <small>📜 crimĭne,  🌎 crimine</small> |
+| *nomo*     | nome   <small>📜 nomĭne,   🌎 nomine</small> |
+| *ordo*     | orde   <small>📜 ordĭne,   🌎 ordine</small> |
 | *sango*    | sangue <small>📜 sanguĭne, 🌎 sanguine</small> |
+| *termino*  | termo  <small>📜 termĭne,  🌎 termino</small> |
 | | |
-| *kapo*     | cape   <small>📜 capĭte,   🌎 capite</small> |
-| *limo*     | lime   <small>📜 limĭte,   🌎 limite</small>  |
-| | |
-| *korpo*    | corpo  <small>📜 corpŏre,  🌎 corpore</small> |
-| *tempo*    | tempo  <small>📜 tempŏre,  🌎 tempore</small> |
-| | |
-
-<!-- TODO hospite -->
-<!-- TODO femina pagina -->
 
 <small>**Tra bruego**, neakcentataj ŝajnfinaĵoj el **Lingua Classĭca** estas reteneblaj.</small>
+
+Notes:
+* Ne estas klare (pro manko de ekzemploj), ĉu -*itude* konserviĝas en **Lingua Universale**, aŭ ĉu ĝi fariĝas -*itúd* (aŭ eĉ -*itú*).
+* margine
 
 <!--v-->
 
 | | |
 |-|-|
-| *homo*  | homo  <small>📜 homĭne,  🌎 homine</small>  |
+| *kapo*     | cape   <small>📜 capĭte,   🌎 capite</small> |
+| *limo*     | lime   <small>📜 limĭte,   🌎 limite</small> |
+| | |
+| *korpo*    | corpo  <small>📜 corpŏre,  🌎 corpore</small> |
+| *tempo*    | tempo  <small>📜 tempŏre,  🌎 tempore</small> |
+| | |
+
+Notes:
+* hospite
+
+<!--v-->
+
+| | |
+|-|-|
+| *homo* | homo  <small>📜 homĭne,  🌎 homine</small> |
+| | |
+
+| | |
+|-|-|
+| *flanko* | lato <small>📜 latĕre,  🌎 latere</small> |
 | | |
 
 Notes:
@@ -346,8 +403,17 @@ Notes:
 
 | | |
 |-|-|
+| *ino*  | femina |
+| *paĝo* | pagina |
+| | |
+
+<!--v-->
+
+| | |
+|-|-|
 | *fazo*      | phase   *[faze]*    |
 | *ideo*      | idea    *[idea]*    |
+| *kemio*     | chimia  *[kimia]*    |
 | *planedo*   | planeta *[planeta]* |
 | *sistemo*   | systema *[sistema]* <small>📜 *[systema]*</small> |
 | | |
@@ -375,13 +441,22 @@ Notes:
 
 | | |
 |-|-|
-| *delikata* | delicate *[delikate]* <small>delicata *[delikada]*</small> |
 | *granda*   | grande |
+| | |
+| *globala* | global <small>globale</small> |
+| | |
+| *alta* | alte <small>alta</small> |
 | | |
 | *logike* | logiche *[logi-ke]* <small>logĭca *[loĵi-ka]*, 🌎 logic</small> |
 | | |
+| *duuma* | binarie *[binari-e]* <small>binaria *[binari-a]*, 🌎 binari</small> |
+| | |
 
-<small>En **Lingua International**, ĉiuj adjektivoj finiĝas je -*e* (kiam -*e* ne eliziiĝas).</small>
+<small>En **Lingua International**, ĉiuj adjektivoj finiĝas je -*e* (kiam -*e* ne eliziiĝas). En **Lingua Internationale**, estas adjektivoj aŭ je -*e* aŭ je -*a*.</small>
+
+Notes:
+* binari, necessari, precari, primari, voluntari
+* proprie, serie, varie
 
 <!--v-->
 
@@ -398,10 +473,12 @@ Notes:
 | | |
 | *Britio*       | Grande Britannia <small>Grân Britannia</small> |
 | | |
+| *…* | Sancta Nicolao <small>Sân Nicolao</small> |
+| | |
 | *pliparto*     | major parte <small>majór parte</small> |
 | | |
 
-<small>En **Lingua Internationale**, *bona* kaj *grande* havas malregulajn eliziojn kiam ili estas metitaj antaŭ la substantivo: *bon*, *gran*. Antaŭ la substantivo, la elizio de -*e* en *-ore* estas deviga en **Lingua Internationale**.</small>
+<small>En **Lingua Internationale**, *bona*, *grande* kaj *sancta* havas malregulajn eliziojn kiam ili estas metitaj antaŭ la substantivo: *bon*, *gran*, *san*. Antaŭ la substantivo, la elizio de -*e* en *-ore* estas deviga en **Lingua Internationale**.</small>
 
 <!--v-->
 
@@ -485,6 +562,10 @@ Notes:
 | nou  <small>nove</small>    | nouesime  <small>nona</small>    | novanta   |
 | dec  <small>dece</small>    | dechesime <small>decĭma</small>  | - |
 | | | |
+
+Notes:
+* substantivoj: *duo*, *trio*
+* nove <small>📜 novem</small>
 
 <!--v-->
 
@@ -712,6 +793,9 @@ Notes:
 | *(se/do) kreus* | crea <small>crearía, 📜 creâsse/crearía, 🌎 crearea</small> |
 | | |
 
+Notes:
+* Por ne-realaj se-us-modoj, uziĝas la is-tempo en **Interlingua**: *si toto esseva logic*
+
 <!--v-->
 
 | | |
@@ -739,6 +823,10 @@ Notes:
 | *estintas* | ha site <small>ês sita, 📜 fue, 🌎 ha essite</small> |
 | *estis*    | ha site <small>êra, 🌎 esseva</small> |
 | | |
+| *(ke) estu* | es <small>sêa, 🌎 sia</small> |
+| | |
+
+<small>La ke-u-modo uziĝas en **Interlingua** nur por la verbo *ser*: *Il es necessari que illa sia un bon persona.*</small>
 
 <!--v-->
 
@@ -804,12 +892,10 @@ Notes:
 |-|-|
 | *aŭskulti* | auscultar  <small>🌎 ascoltar</small> |
 | *ĉemizo*   | camisia    <small>🌎 camisa</small> |
-| *financo*  | finantia   <small>🌎 financia</small> |
 | *instrui*  | insignar   <small>🌎 inseniar</small> |
 | *kuniklo*  | cuniculo   <small>🌎 conilio</small> |
 | *manĝi*    | manducar   <small>🌎 manjar</small> |
 | *verko*    | opera      <small>🌎 obra</small> |
-| *prononci* | pronuntiar <small>🌎 pronunciar</small> |
 | *seĝo*     | sedula     <small>🌎 sedia</small> |
 | | |
 
@@ -836,28 +922,33 @@ Notes:
 
 | | |
 |-|-|
+| *alia* | altre <small>📜 altĕra, 🌎 altere</small> |
+| | |
+
+<small>Elizio de vokalo ne kalkuliĝas kiel vokala ŝanĝo.</small>
+
+Notes:
+* *aure* uziĝas anstataŭ *orecula*, kiu havas la saman etimon kiel *auricula*.
+* La adjektivo *par* uziĝas kiel stubstantivo anstataŭ *parecula* aŭ *paro*. Tio estas stranga.
+
+<!--v-->
+
+| | |
+|-|-|
 | *eniri* | entrar <small>📜 intrare<br>🇮🇹 entrare, 🇫🇷 entrer, 🇪🇸🇵🇹 entrar</small> |
 | *-eco*  | -ecia <small>-eça, 📜 -itia, 🌎 -essa<br>🇮🇹 -ezza, 🇫🇷 -esse, 🇪🇸🇵🇹 -eza</small> |
 | | |
 
 <small>Radikokomenca ŝanĝo de *i* al *e* en ĉiuj fontolingvoj estas konservata.</small>
 
-Notes:
-* *aure* uziĝas anstataŭ *orecula*, kiu havas la saman etimon kiel *auricula*.
-
 <!--v-->
 
 | | |
 |-|-|
-| *alia*    | altre  <small>📜 altĕra,  🌎 altere</small> |
 | *dekstra* | dextre <small>📜 dextĕra, 🌎 dextere</small> |
-| *flanko*  | lato   <small>📜 latĕre,  🌎 latĕre</small> |
 | *fratino* | sora   <small>📜 sorore,  🌎 soror</small> |
 | *monato*  | mese   <small>📜 mense,   🌎 mense</small> |
 | | |
-
-<!-- TODO Argumenteblas, ke "altere" → "altre" estas vokala ŝanĝo... -->
-<!-- TODO Eble "lato" kaj "latere" estas simple du diversaj vortoj. -->
 
 <!--v-->
 
