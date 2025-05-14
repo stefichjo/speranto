@@ -12,24 +12,15 @@ revealOptions:
 
 <!-- cd ~/Git/speranto/latinidaj; reveal-md ia.md -w -->
 
-<!-- moderne - classic/ancian -->
-<!-- tezoro -->
-<!-- poche/pauche poco/pauco -->
-<!-- oro auro -->
-<!-- toro tauro -->
-<!-- o (au(t)), e (e(t)) -->
+<!-- moderne - classic/ancian: oro, toro, thesauro? -->
 
-<!-- joielese ja pois fon besonio -->
 <!-- qualunque qualque -->
 <!-- ir a basso, in alto -->
-<!-- plure mure -->
 
 <!-- TODO quia jam ekzistas kaj signifas "ĉar". konflikto. -->
-<!-- TODO: "alio" kaj "campania" havas j-ecajn "l"-on kaj "n"-on en Lingua Intermediaria. -->
-<!-- TODO t→d okazas ankaŭ en la Franca? vd. "diurnata" -->
-<!-- TODO Tom: Eble francaj ano→æno kaj ane→æne estas implicindaj, analogie al portugalaj komplikaĵoj. vd. pane -->
 <!-- TODO PT estas malklara; vd. PT um; ĉu eble estas ligo kun "alicum"? -->
 <!-- TODO cuje -->
+<!-- TODO kolekti vortojn kun ali-, -un, -unque, -umque -->
 <!-- kies de kiu quia de qui; de kio quea de que -->
 
 <!-- TODO ecce ecco eccu -->
@@ -37,6 +28,8 @@ revealOptions:
 <!-- TODO Fakte, eĉ en Lingua International oni prefere diru "ubi" anstataŭ "quo". Kiam diri "quo" do, kiam diri "a quo vade tu"? -->
 
 <!-- TODO IA rubie -->
+
+<!-- TODO Tom: Eble francaj ano→æno kaj ane→æne estas implicindaj, analogie al portugalaj komplikaĵoj. vd. pane -->
 
 # Lingua Inter-nationale
 *(Interlingua post la Fina Venko)*
@@ -128,6 +121,13 @@ revealOptions:
 
 <!--v-->
 
+| | |
+|-|-|
+| *pluraj* | plur <small>plures, 🌎 plure</small> |
+| | |
+
+<!--v-->
+
 ### Tra Bruo
 
 <small>En **Lingua Internationale**, la prononco povas esti pli klara, t.e. **tra bruo**. En **Lingua International**, tiu prononco estas deviga.</small>
@@ -182,12 +182,18 @@ revealOptions:
 
 | | |
 |-|-|
-| *jam* | jam *[jam]* <small>*[ĵam]*</small> |
+| *ĝusta* | juste *[juste]* <small>justa *[ĵusta]*</small> |
+| | |
+| *majo* | majo *[majo]* <small>*[maĵo]*, 📜 maio *[mai-o]*, 🌎 maio</small> |
 | | |
 | *saĝa* | saje *[saĝe]* <small>*[saĵa]*, 🌎 sage/saje</small> |
 | | |
-| *kuraĝo* | corajo *[koraĝo]* <small>*[koraĵo]*, 🌎 corage/coraje</small> |
+| *kuraĝo* | corage *[koraĵ']* <small>corajo *[koraĵo]*, 🌎 corage/coraje</small> |
 | | |
+
+Notes:
+* corage, formage, missage, passage, viage
+* major, pejo
 
 <!--v-->
 
@@ -224,7 +230,6 @@ Notes:
 | | |
 
 Notes:
-* corajo, formajo, passajo, viajo
 * arangiar, naufragio, prestigio
 
 <!--v-->
@@ -308,7 +313,7 @@ Notes:
 <small>En **Lingua Internationale**, postvokala *t* kaj *te* fine de unusilaba radiko prononciĝas *[d]*, kaj *de* eliziiĝas, krom **tra bruo**.</small>
 
 Notes:
-* cate, tote, lato, strata, rota, vita, nata(?)
+* cate, tote, lato, strata, rota, vita
 * rete, site
 * fide, pede
 
@@ -866,7 +871,7 @@ Notes:
 
 | | |
 |-|-|
-| *aŭ* | o |
+| *aŭ* | o <small>📜 au</small> |
 | | |
 
 <!--s-->
@@ -891,11 +896,13 @@ Notes:
 | | |
 |-|-|
 | *aŭskulti* | auscultar  <small>🌎 ascoltar</small> |
+| *bezono*   | bisonio    <small>🌎 besonio</small> |
 | *ĉemizo*   | camisia    <small>🌎 camisa</small> |
+| *strange*  | extranie   <small>🌎 estranie</small> |
 | *instrui*  | insignar   <small>🌎 inseniar</small> |
 | *kuniklo*  | cuniculo   <small>🌎 conilio</small> |
 | *manĝi*    | manducar   <small>🌎 manjar</small> |
-| *verko*    | opera      <small>🌎 obra</small> |
+| *verko*    | opera      <small>🌎 opera, 🌎 obra</small> |
 | *seĝo*     | sedula     <small>🌎 sedia</small> |
 | | |
 
@@ -930,6 +937,7 @@ Notes:
 Notes:
 * *aure* uziĝas anstataŭ *orecula*, kiu havas la saman etimon kiel *auricula*.
 * La adjektivo *par* uziĝas kiel stubstantivo anstataŭ *parecula* aŭ *paro*. Tio estas stranga.
+<!-- TODO -->
 
 <!--v-->
 
@@ -945,6 +953,7 @@ Notes:
 
 | | |
 |-|-|
+| *bano*    | banio  <small>📜 balneo,  🌎 balneo, 🌎 banio</small> |
 | *dekstra* | dextre <small>📜 dextĕra, 🌎 dextere</small> |
 | *fratino* | sora   <small>📜 sorore,  🌎 soror</small> |
 | *monato*  | mese   <small>📜 mense,   🌎 mense</small> |
@@ -967,13 +976,14 @@ Notes:
 
 | | |
 |-|-|
-| *-aĵo*    | -ajo  <small>📜 -atĭco, 🌎 -aje</small> |
-| *ĵurnalo* | jurnal <small>📜 diurnale, 🌎 jornal</small> |
+| *-aĵo*    | -age <small>📜 -atĭco, 🌎 -age, 🌎 -aje</small> |
+| *ĵurnalo* | jurnal <small>📜 diurnale, 🌎 jornal *[(d)ĵ-]*</small> |
 | *komenci* | cominciar <small>cominçare, 📜 cominitiare, 🌎 comenciar</small> |
 | *lando*   | paese <small>📜 pagense, 🌎 pais</small> |
 | *majstro* | maistro <small>📜 magistro, 🌎 maestro</small> |
+| *maniero* | manera <small>📜 manuaria, 🌎 maniera</small> |
 | *mi*      | eo <small>📜 ego, 🌎 io</small> |
-| *riĉa*    | ric <small>📜 rica, 🌎 ric(c)</small> |
+| *riĉa*    | riche <small>📜 rica, 🌎 ric(c)</small> |
 | | |
 
 <!--s-->
