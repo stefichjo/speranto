@@ -12,22 +12,51 @@ revealOptions:
 
 <!-- cd ~/Git/speranto/latinidaj; reveal-md ia.md -w -->
 
-<!-- moderne - classic/ancian: oro, toro, thesauro? -->
+<!-- Supersignoj estas ellaseblaj. Ili estas por lerni la lingvon, do ili bonvenas en vortaroj por kompreni pli facile la prononcon/akcenton. -->
+<!-- 
+reskribo tuta:
+Pere de la deklaro de stila kontinuo, multego da "reformetoj" estas nur stilaj elektoj. Restas efektive nur eta resto da reformoj. Tiuj estas:
+* classic → classiche
+* longe → longhe
+* binari → binarie
+* haberea → haberia
+* facer lo → facer-lo
+Nu, estas ankaŭ "korektoj", laŭ mi:
+* par → paro, áere/áer → aér, plure → plur
+Sed la resto estas nur stila demando.
+* isto (classique) → esto (moderne)
+* -essa (chic) → -ecia (moderne) (-itia (classiche))
 
-<!-- qualunque qualque -->
-<!-- ir a basso, in alto -->
+La ortografio sen supersignoj estas la alstrebinda normo por ĉiutaga uzo. Supersignoj gravas por pridiskuti la prononcon (plej ofte la akcenton).
+* photographīa = photographia
+* çhal = chal
+ -->
 
+<!-- TODO i.e. id es (latinaĵo, cetere) -->
+
+<!-- approchar brecha brochar cartucha chacal chal charpa chassar chinese -->
+
+<!-- etiquetta → etichetta -->
+<!-- furchetta -->
+<!-- albergo vikinges -->
+<!-- extinguite distinguite -->
+
+<!-- aere aure -->
+
+<!-- espaventar -->
+<!-- essayar (exagium) -->
+
+<!-- isto/esto/id es -->
+
+<!-- TODO qualunque qualque -->
 <!-- TODO quia jam ekzistas kaj signifas "ĉar". konflikto. -->
 <!-- TODO PT estas malklara; vd. PT um; ĉu eble estas ligo kun "alicum"? -->
 <!-- TODO cuje -->
 <!-- TODO kolekti vortojn kun ali-, -un, -unque, -umque -->
 <!-- kies de kiu quia de qui; de kio quea de que -->
-
 <!-- TODO ecce ecco eccu -->
-
 <!-- TODO Fakte, eĉ en Lingua International oni prefere diru "ubi" anstataŭ "quo". Kiam diri "quo" do, kiam diri "a quo vade tu"? -->
-
-<!-- TODO IA rubie -->
+<!-- ir a basso, in alto -->
 
 <!-- TODO Tom: Eble francaj ano→æno kaj ane→æne estas implicindaj, analogie al portugalaj komplikaĵoj. vd. pane -->
 
@@ -72,7 +101,7 @@ revealOptions:
 |-|-|
 | *ansero* | ansere <small>ansĕre</small> |
 | | |
-| *karaktero* | charactere <small>charactĕre, 🌎 character</small> |
+| *karaktero* | charactere <small>charactĕre, 📜 charactere, 🌎 character</small> |
 | | |
 | *monato* | mese <small>mêse <small>men̆se</small>, 🎵 mês, 🌎 mense</small> |
 | | |
@@ -362,12 +391,15 @@ Notes:
 |-|-|
 | *-eco*     | -itude <small>📜 -itudĭne</small> |
 | *ekzameno* | exame  <small>📜 examĭne,  🌎 examine</small> |
+| *bildo*    | image  <small>📜 imagĭne,  🌎 imagine</small> |
 | *krimo*    | crime  <small>📜 crimĭne,  🌎 crimine</small> |
 | *nomo*     | nome   <small>📜 nomĭne,   🌎 nomine</small> |
 | *ordo*     | orde   <small>📜 ordĭne,   🌎 ordine</small> |
 | *sango*    | sangue <small>📜 sanguĭne, 🌎 sanguine</small> |
 | *termino*  | termo  <small>📜 termĭne,  🌎 termino</small> |
 | | |
+
+<!-- TODO Koherus pli se "image" *[imaĵ(e)]* rimus kun "formage" *[formaĵ']*. -->
 
 <small>**Tra bruego**, neakcentataj ŝajnfinaĵoj el **Lingua Classĭca** estas reteneblaj.</small>
 
@@ -929,7 +961,8 @@ Notes:
 
 | | |
 |-|-|
-| *alia* | altre <small>📜 altĕra, 🌎 altere</small> |
+| *alia*   | altre  <small>📜 altĕra,   🌎 altere</small> |
+| *kovri*  | coprir <small>📜 coperire, 🌎 coperir</small> |
 | | |
 
 <small>Elizio de vokalo ne kalkuliĝas kiel vokala ŝanĝo.</small>
@@ -938,6 +971,7 @@ Notes:
 * *aure* uziĝas anstataŭ *orecula*, kiu havas la saman etimon kiel *auricula*.
 * La adjektivo *par* uziĝas kiel stubstantivo anstataŭ *parecula* aŭ *paro*. Tio estas stranga.
 <!-- TODO -->
+* PT oferecer → offerer OK
 
 <!--v-->
 
@@ -4321,3 +4355,41 @@ Notes:
 
 ## Z
 
+
+<!--s-->
+
+# Stilo
+
+<!--v-->
+
+## Vortprovizo
+
+| | ancian | moderne |
+|-|-|-|
+| *nun* | nunc | ora |
+| | | |
+
+<!--v-->
+
+## Prononco
+
+| | ancian | moderne |
+|-|-|-|
+| *homoj* | *[gente]* | *[ĵente]* |
+| *jam* | *[jam]* | *[ĵa]* |
+| *aŭ* | *[aut]* | *[o]* |
+| *kaj* | *[et]* | *[e]* |
+| | | |
+
+<!--v-->
+
+## Ortografio
+
+| | | |
+|-|-|-|
+| *fiziko* | physica | fisica |
+| *horo* | hora | ora |
+| *oro* | auro | oro |
+| | | |
+
+<!-- https://www.interlingua.com/linguistic/selige-un-stilo-de-interlingua/ -->
