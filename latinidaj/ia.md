@@ -53,7 +53,7 @@ Sed la resto estas nur stila demando.
 
 ## Interlingua
 
-<small>**Postfinvenka Interlingvao** havas du stilojn: la klasikan kaj la modernan. En **Tradicia Interlingvao**, tiuj du stiloj kunekzistas.</small>
+<small>**Postfinvenka Interlingvao** havas du stilojn: la klasikan (*classiche*) kaj la modernan (*moderne*). En **Tradicia Interlingvao**, tiuj du stiloj kunekzistas.</small>
 
 <!--v-->
 
@@ -63,12 +63,12 @@ Sed la resto estas nur stila demando.
 
 <!--v-->
 
-| |
-|-|
-| aqua *[aku-a]* ~ *[akŭa]* |
-| |
-| radio *[radi-o]* ~ *[radjo]* |
-| |
+| | klasika | moderna |
+|-|-|-|
+| aqua | *[aku-a]* | *[akŭa]* |
+| | | |
+| radio | *[radi-o]* | *[radjo]* |
+| | | |
 
 <!-- TODO -->
 Notes:
@@ -76,14 +76,14 @@ Notes:
 
 <!--v-->
 
-| |
-|-|
-| centro *[centro]* ~ *[sentro]* |
-| gratias *[graci-as]* ~ *[grasjas]* |
-| |
-| gente *[gente]* ~ *[ĵente]* |
-| justo *[justo]* ~ *[ĵusto]* |
-| |
+| | fru-klasika | klasika | moderna |
+|-|-|-|-|
+| centro | *[kentro]* | *[centro]* | *[sentro]* |
+| gratias | *[grati-as]* | *[graci-as]* | *[grasjas]* |
+| | | | |
+| gente | | *[gente]* | *[ĵente]* |
+| justo | *[iusto]* | *[justo]* | *[ĵusto]* |
+| | | | |
 
 <small>La gramatiko de Interlingvao malhavas priskribon pri "kroma" (*collateral*) prononco de *g*. Ĝi tamen priskribas ke *j* estas prononcebla (ankaŭ) kiel *[ĵ]*. Notindas, ke tiuj prononcoj paralelas tiujn de *g* antaŭ *e*, *i* kaj *y* en la fontaj lingvoj. Konkludeblas do, ke tia priskribo, t.e. ke *g* estas prononcebla ankaŭ kiel *[ĵ]*, simple mankas en la gramatiko de Interlingvao.</small>
 
@@ -92,12 +92,12 @@ Notes:
 
 <!--v-->
 
-| |
-|-|
-| rosa *[rosa]* ~ *[roza]* |
-| |
-| fungo *[fungo]* ~ *[fuŋgo]* |
-| |
+| | klasika | moderna |
+|-|-|-|
+| rosa | *[rosa]* | *[roza]* |
+| | | |
+| fungo | *[fungo]* | *[fuŋgo]* |
+| | | |
 
 <!--v-->
 
@@ -274,7 +274,50 @@ Notes:
 Notes:
 * pausa *[paŭza]*, posa *[poza]*
 
-<!-- TODO "ŝika"? -->
+<!--v-->
+
+### Elizio
+
+<!--v-->
+
+| klasika | moderna |
+|-|-|
+| sole | sol |
+| | |
+| pane | pan |
+| | |
+| mare | mar |
+| | |
+
+<small>En klasika stilo, la -*e* malantaŭ *l*, *n* kaj *r* ne eliziiĝas.</small>
+
+<!--v-->
+
+| klasika | moderna |
+|-|-|
+| legĕre | leger |
+| | |
+
+<small>En klasika stilo, multaj infinitivoj estas akcentataj sur la silabo antaŭ -*ere*.</small>
+
+<!--v-->
+
+| moderna | malfru-moderna |
+|-|-|
+| luce | luz |
+| | |
+| pede | pe |
+| | |
+| mese | més |
+| | |
+| rete | red |
+| | |
+
+<small>En malfru-moderna stilo, la -*e* malantaŭ *c*, *d*, *s* kaj *t* eliziiĝas malantaŭ akcentata silabo. Tiam *c* skribiĝas *z*, *d* eliziiĝas, la vokalo antaŭ *s* portas hokon (por eviti konfuzon kun multenombraj formoj), kaj *t* fariĝas *d*.</small>
+
+<!--v-->
+
+<small></small>
 
 <!--s-->
 
@@ -288,8 +331,6 @@ Notes:
 
 | | |
 |-|-|
-| *ansero* | ansere <small>ansĕre</small> |
-| | |
 | *karaktero* | charactere <small>charactĕre, 📜 charactere, 🌎 character</small> |
 | | |
 | *monato* | mese <small>mêse <small>men̆se</small>, 🎵 mês, 🌎 mense</small> |
