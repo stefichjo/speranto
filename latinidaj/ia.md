@@ -27,8 +27,6 @@ Sed la resto estas nur stila demando.
 <!-- albergo vikinges -->
 <!-- extinguite distinguite -->
 
-<!-- aere aure -->
-
 <!-- espaventar -->
 <!-- essayar (exagium) -->
 
@@ -72,6 +70,7 @@ Sed la resto estas nur stila demando.
 | radio *[radi-o]* ~ *[radjo]* |
 | |
 
+<!-- TODO -->
 Notes:
 * *[akva]*
 
@@ -149,6 +148,13 @@ Notes:
 
 <!--v-->
 
+| |
+|-|
+| **trâino** <small>trağino</small> = traino |
+| |
+
+<!--v-->
+
 #### Fonetika Skribo
 
 <!--v-->
@@ -179,15 +185,12 @@ Notes:
 
 | |
 |-|
-| aer *[aer']* <small>🌎 aer(e)</small> |
+| aere *[ae-re]* <small>🌎 aer(e)</small> |
 | |
 | aeree *[aere-e]* |
 | |
 
-<small>Samkiel la adjektivo *aeree* *[aere-e]*, la substantivo *aer* estas akcentata sur la *e*. Sekve la finaĵo -*e* eliziiĝas.</small>
-
-Notes:
-* ŝika: aire *[ajre]*
+<small>Malkiel la adjektivo *aeree* *[aere-e]*, la substantivo *aere* estas akcentata sur la *a*. Sekve la finaĵo -*e* ne eliziiĝas.</small>
 
 <!--v-->
 
@@ -242,6 +245,37 @@ Notes:
 
 <small>La enklita uzo de pronomoj skribiĝas kun ligostreko.</small>
 
+<!--v-->
+
+| |
+|-|
+| aere *[ae-re]* ~ *[ajre]* |
+| |
+| traino *[trajno]* ~ *[treno]* |
+| |
+| auro *[aŭro]* ~ *[oro]* |
+| |
+
+<small>*ae*, *ai* kaj *au* estas prononceblaj *[aj]*, *[e]* kaj *[o]*.</small>
+
+<!-- TODO "ŝika"? Ĉu poezio? -->
+
+<!--v-->
+
+| |
+|-|
+| causa *[kaŭza]* |
+| |
+| cosa *[koza]* |
+| |
+
+<small>Kiam ekzistas paro de vortoj kun diversaj signifoj, la pli moderna varianto perdas sian etimologiajn skribon kaj prononcon. Estas tiam evitinde konfuzi la du prononcojn.</small>
+
+Notes:
+* pausa *[paŭza]*, posa *[poza]*
+
+<!-- TODO "ŝika"? -->
+
 <!--s-->
 
 ## Ortografio
@@ -249,17 +283,6 @@ Notes:
 <!--v-->
 
 ### Elizio
-
-<!--v-->
-
-| | |
-|-|-|
-| *trajno* | traino <small>trâino <small>trağino</small></small> |
-| | |
-
-<!-- TODO parolante pri trajno... ĉiuj fontolingvoj havas "e"-on. -->
-
-<small>En **Lingua International**, la supersignoj, kiuj indikas elizion, ne skribiĝas.</small>
 
 <!--v-->
 
@@ -273,13 +296,6 @@ Notes:
 | | |
 
 <small>En **Lingua Internationale**, vortofina *-e* estas eliziebla malantaŭ akcentata vokalo kun dentala konsonanto (*c*, *d*, *l*, *n*, *r*, *s*, *t*), ekzemple en poezio.</small>
-
-| | |
-|-|-|
-| *orelo* | aure *[au-re]* |
-| | |
-
-<small>Notindas, ke *aure* havas tri silabojn. La unua silabo *a* estas akcentata, *áure*. La tria silabo *re* do venas post la dua silabo *u*, kiu ne estas akcentata. Tial la *e* en la fino de *aure* ne eliziiĝas.</small>
 
 <!--v-->
 
