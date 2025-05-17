@@ -101,6 +101,78 @@ Notes:
 
 <!--v-->
 
+### Monoftongiĝo
+
+<!--v-->
+
+| | moderna | malfru-moderna |
+|-|-|-|
+| aere | *[ae-re]* | *[ajre]* |
+| | | |
+| traino | *[trajno]* | *[treno]* |
+| | | |
+| auro | *[aŭro]* | *[oro]* |
+| | | |
+
+<small>En **malfru-moderna stilo**, *ae*, *ai* kaj *au* prononciĝas *[aj]*, *[e]* kaj *[o]*.</small>
+
+<!--v-->
+
+| | moderna | malfru-moderna |
+|-|-|-|
+| causa | *[kaŭza]* | *[koza]* |
+| | | |
+| cosa | *[koza]* | |
+| | | |
+
+<small>Malfru-modernaj formoj kunekzistas kun modernaj formoj kiel neologismoj.</small>
+
+Notes:
+* pausa *[paŭza]*, posa *[poza]*
+
+<!--v-->
+
+### Elizio
+
+<!--v-->
+
+| klasika | moderna |
+|-|-|
+| sole | sol |
+| | |
+| pane | pan |
+| | |
+| mare | mar |
+| | |
+
+<small>En klasika stilo, la -*e* malantaŭ *l*, *n* kaj *r* ne eliziiĝas.</small>
+
+<!--v-->
+
+| klasika | moderna |
+|-|-|
+| legere *[lege-re]* | leger *[leĵer']* |
+| | |
+
+<small>En klasika stilo, multaj infinitivoj estas akcentataj sur la silabo antaŭ -*ere*.</small>
+
+<!--v-->
+
+| moderna | malfru-moderna |
+|-|-|
+| luce | luz |
+| | |
+| pede | pe |
+| | |
+| mese | més |
+| | |
+| rete | red |
+| | |
+
+<small>En malfru-moderna stilo, la -*e* malantaŭ *c*, *d*, *s* kaj *t* eliziiĝas malantaŭ akcentata silabo. Tiam *c* skribiĝas *z*, *d* eliziiĝas, la vokalo antaŭ *s* portas hokon (por eviti konfuzon kun multenombraj formoj), kaj *t* fariĝas *d*.</small>
+
+<!--v-->
+
 ### Ortografio
 
 <small>La ortografio de **Postfinvenka Interlingvao** agnoskas la modern-stilan prononcon de *g* *[ĵ]* antaŭ *e*, *i* kaj *y*, markante la klasik-stilan prononcon de *g* en tiaj pozicioj per *h* inter *g* kaj la vokalo. Komence de vorto, uziĝas *u* anstataŭ *h*. Tial la serio de vortoj, kies *u* estas efektive prononcata (ekzemple en *guerra*), estas parkerigendaj.</small>
@@ -244,80 +316,6 @@ Notes:
 | |
 
 <small>La enklita uzo de pronomoj skribiĝas kun ligostreko.</small>
-
-<!--v-->
-
-| |
-|-|
-| aere *[ae-re]* ~ *[ajre]* |
-| |
-| traino *[trajno]* ~ *[treno]* |
-| |
-| auro *[aŭro]* ~ *[oro]* |
-| |
-
-<small>*ae*, *ai* kaj *au* estas prononceblaj *[aj]*, *[e]* kaj *[o]*.</small>
-
-<!-- TODO "ŝika"? Ĉu poezio? -->
-
-<!--v-->
-
-| |
-|-|
-| causa *[kaŭza]* |
-| |
-| cosa *[koza]* |
-| |
-
-<small>Kiam ekzistas paro de vortoj kun diversaj signifoj, la pli moderna varianto perdas sian etimologiajn skribon kaj prononcon. Estas tiam evitinde konfuzi la du prononcojn.</small>
-
-Notes:
-* pausa *[paŭza]*, posa *[poza]*
-
-<!--v-->
-
-### Elizio
-
-<!--v-->
-
-| klasika | moderna |
-|-|-|
-| sole | sol |
-| | |
-| pane | pan |
-| | |
-| mare | mar |
-| | |
-
-<small>En klasika stilo, la -*e* malantaŭ *l*, *n* kaj *r* ne eliziiĝas.</small>
-
-<!--v-->
-
-| klasika | moderna |
-|-|-|
-| legĕre | leger |
-| | |
-
-<small>En klasika stilo, multaj infinitivoj estas akcentataj sur la silabo antaŭ -*ere*.</small>
-
-<!--v-->
-
-| moderna | malfru-moderna |
-|-|-|
-| luce | luz |
-| | |
-| pede | pe |
-| | |
-| mese | més |
-| | |
-| rete | red |
-| | |
-
-<small>En malfru-moderna stilo, la -*e* malantaŭ *c*, *d*, *s* kaj *t* eliziiĝas malantaŭ akcentata silabo. Tiam *c* skribiĝas *z*, *d* eliziiĝas, la vokalo antaŭ *s* portas hokon (por eviti konfuzon kun multenombraj formoj), kaj *t* fariĝas *d*.</small>
-
-<!--v-->
-
-<small></small>
 
 <!--s-->
 
