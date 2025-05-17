@@ -12,6 +12,12 @@ revealOptions:
 
 <!-- cd ~/Git/speranto/latinidaj; reveal-md ia.md -w -->
 
+<!-- 
+Sed la resto estas nur stila demando.
+* isto (classiche) → esto (moderne)
+* -essa (chic) → -ecia (moderne) (-itia (classiche))
+ -->
+
 <!-- TODO i.e. id es (latinaĵo, cetere) -->
 
 <!-- approchar brecha brochar cartucha chacal chal charpa chassar chinese -->
@@ -55,7 +61,7 @@ revealOptions:
 
 ### Prononco
 
-<small>La modern-stila prononco de **Postfinvenka Interlingvao** baziĝas sur la tiel nomata "apuda" (*collateral*) prononco de **Tradicia Interlingvao**.</small>
+<small>La modern-stila prononco de **Postfinvenka Interlingvao** baziĝas sur la tiel nomata "kroma" (*collateral*) prononco de **Tradicia Interlingvao**.</small>
 
 <!--v-->
 
@@ -79,6 +85,11 @@ Notes:
 | gente *[gente]* ~ *[ĵente]* |
 | justo *[justo]* ~ *[ĵusto]* |
 | |
+
+<small>La gramatiko de Interlingvao malhavas priskribon pri "kroma" (*collateral*) prononco de *g*. Ĝi tamen priskribas ke *j* estas prononcebla (ankaŭ) kiel *[ĵ]*. Notindas, ke tiuj prononcoj paralelas tiujn de *g* antaŭ *e*, *i* kaj *y* en la fontaj lingvoj. Konkludeblas do, ke tia priskribo, t.e. ke *g* estas prononcebla ankaŭ kiel *[ĵ]*, simple mankas en la gramatiko de Interlingvao.</small>
+
+Notes:
+* Kiam menciiĝas la prononco *[ĵ]*, impliciĝas ankaŭ la varianto *[ĝ]*.
 
 <!--v-->
 
@@ -162,7 +173,7 @@ Notes:
 | plur <small>🌎 plure</small> |
 | |
 
-<small>Kiam la silabo antaŭ vortofina -*re* estas akcentata, la -*e* eliziiĝas.</small>
+<small>Kiam la silabo antaŭ vortofina -*le*, -*ne* kaj -*re* estas akcentata, la -*e* eliziiĝas.</small>
 
 <!--v-->
 
@@ -173,7 +184,10 @@ Notes:
 | aeree *[aere-e]* |
 | |
 
-<small>Samkiel *aeree* *[aere-e]*, la substantivo *aer* estas akcentata sur la *e*. Sekve la finaĵo -*e* eliziiĝas.</small>
+<small>Samkiel la adjektivo *aeree* *[aere-e]*, la substantivo *aer* estas akcentata sur la *e*. Sekve la finaĵo -*e* eliziiĝas.</small>
+
+Notes:
+* ŝika: aire *[ajre]*
 
 <!--v-->
 
@@ -185,14 +199,6 @@ Notes:
 | |
 
 <small>La substantiva ekvivalento de la adjektivo *par* estas *paro*.</small>
-
-<!--v-->
-
-<!-- 
-Sed la resto estas nur stila demando.
-* isto (classiche) → esto (moderne)
-* -essa (chic) → -ecia (moderne) (-itia (classiche))
- -->
 
 <!--v-->
 
@@ -250,6 +256,8 @@ Sed la resto estas nur stila demando.
 |-|-|
 | *trajno* | traino <small>trâino <small>trağino</small></small> |
 | | |
+
+<!-- TODO parolante pri trajno... ĉiuj fontolingvoj havas "e"-on. -->
 
 <small>En **Lingua International**, la supersignoj, kiuj indikas elizion, ne skribiĝas.</small>
 
