@@ -12,26 +12,6 @@ revealOptions:
 
 <!-- cd ~/Git/speranto/latinidaj; reveal-md ia.md -w -->
 
-<!-- Supersignoj estas ellaseblaj. Ili estas por lerni la lingvon, do ili bonvenas en vortaroj por kompreni pli facile la prononcon/akcenton. -->
-<!-- 
-reskribo tuta:
-Pere de la deklaro de stila kontinuo, multego da "reformetoj" estas nur stilaj elektoj. Restas efektive nur eta resto da reformoj. Tiuj estas:
-* classic → classiche
-* longe → longhe
-* binari → binarie
-* haberea → haberia
-* facer lo → facer-lo
-Nu, estas ankaŭ "korektoj", laŭ mi:
-* par → paro, áere/áer → aér, plure → plur
-Sed la resto estas nur stila demando.
-* isto (classique) → esto (moderne)
-* -essa (chic) → -ecia (moderne) (-itia (classiche))
-
-La ortografio sen supersignoj estas la alstrebinda normo por ĉiutaga uzo. Supersignoj gravas por pridiskuti la prononcon (plej ofte la akcenton).
-* photographīa = photographia
-* çhal = chal
- -->
-
 <!-- TODO i.e. id es (latinaĵo, cetere) -->
 
 <!-- approchar brecha brochar cartucha chacal chal charpa chassar chinese -->
@@ -65,22 +45,200 @@ La ortografio sen supersignoj estas la alstrebinda normo por ĉiutaga uzo. Super
 
 <small>**Lingua Internationale** baziĝas sur **Lingua** kaj ĝiaj [dialektoj](../speranto.md).</small>
 
-<!--v-->
+<!--s-->
 
-## Ortografio 
+## Interlingua
 
-<!--v-->
-
-### Akcento
+<small>**Postfinvenka Interlingvao** havas du stilojn: la klasikan kaj la modernan. En **Tradicia Interlingvao**, tiuj du stiloj kunekzistas.</small>
 
 <!--v-->
 
-| | |
-|-|-|
-| *muziko* | musica <small>musĭca</small> |
-| | |
+### Prononco
 
-<small>En **Lingua International**, la supersignoj, kiuj indikas neakcentatajn ŝajnfinaĵojn, ne skribiĝas.</small>
+<small>La modern-stila prononco de **Postfinvenka Interlingvao** baziĝas sur la tiel nomata "apuda" (*collateral*) prononco de **Tradicia Interlingvao**.</small>
+
+<!--v-->
+
+| |
+|-|
+| aqua *[aku-a]* ~ *[akŭa]* |
+| |
+| radio *[radi-o]* ~ *[radjo]* |
+| |
+
+Notes:
+* *[akva]*
+
+<!--v-->
+
+| |
+|-|
+| centro *[centro]* ~ *[sentro]* |
+| gratias *[graci-as]* ~ *[grasjas]* |
+| |
+| gente *[gente]* ~ *[ĵente]* |
+| justo *[justo]* ~ *[ĵusto]* |
+| |
+
+<!--v-->
+
+| |
+|-|
+| rosa *[rosa]* ~ *[roza]* |
+| |
+| fungo *[fungo]* ~ *[fuŋgo]* |
+| |
+
+<!--v-->
+
+### Ortografio
+
+<small>La ortografio de **Postfinvenka Interlingvao** agnoskas la modern-stilan prononcon de *g* *[ĵ]* antaŭ *e*, *i* kaj *y*, markante la klasik-stilan prononcon de *g* en tiaj pozicioj per *h* inter *g* kaj la vokalo. Komence de vorto, uziĝas *u* anstataŭ *h*. Tial la serio de vortoj, kies *u* estas efektive prononcata (ekzemple en *guerra*), estas parkerigendaj.</small>
+
+<!--v-->
+
+| |
+|-|
+| longhe *[loŋge]* <small>🌎 longe</small> |
+| guitarra *[gitara]* |
+| |
+| guerra *[gŭera]* |
+| |
+
+<!--v-->
+
+<small>Analogie, skribiĝas *ch* *[k]* antaŭ *e*, *i* kaj *y*, respektive *qu* *[k]* komence de vorto.</small>
+
+<!--v-->
+
+| |
+|-|
+| turchese *[turkeze]* |
+| que *[ke]* |
+| |
+| quanto *[kŭanto]* |
+| |
+
+<!--v-->
+
+#### Vortara Skribo
+
+<!--v-->
+
+| |
+|-|
+| **musĭca** = musica |
+| |
+| **gŭitarra** = guitarra |
+| |
+| **orthographīa** = orthographia |
+| |
+| **çhinese** = chinese |
+| |
+
+<!--v-->
+
+#### Fonetika Skribo
+
+<!--v-->
+
+| |
+|-|
+| orthographia = *ortografia* |
+| |
+
+<!--v-->
+
+### Vortaro
+
+<!--v-->
+
+### Korektoj
+
+<!--v-->
+
+| |
+|-|
+| plur <small>🌎 plure</small> |
+| |
+
+<small>Kiam la silabo antaŭ vortofina -*re* estas akcentata, la -*e* eliziiĝas.</small>
+
+<!--v-->
+
+| |
+|-|
+| aer *[aer']* <small>🌎 aer(e)</small> |
+| |
+| aeree *[aere-e]* |
+| |
+
+<small>Samkiel *aeree* *[aere-e]*, la substantivo *aer* estas akcentata sur la *e*. Sekve la finaĵo -*e* eliziiĝas.</small>
+
+<!--v-->
+
+| |
+|-|
+| paro <small>🌎 par</small> |
+| |
+| par |
+| |
+
+<small>La substantiva ekvivalento de la adjektivo *par* estas *paro*.</small>
+
+<!--v-->
+
+<!-- 
+Sed la resto estas nur stila demando.
+* isto (classiche) → esto (moderne)
+* -essa (chic) → -ecia (moderne) (-itia (classiche))
+ -->
+
+<!--v-->
+
+### Reformoj
+
+<!--v-->
+
+| |
+|-|
+| franche <small>🌎 franc</small> |
+| |
+| franchemente <small>🌎 francamente</small> |
+| |
+
+<small>Ankaŭ adjektivoj je *-c* finiĝas per -*e*.</small>
+
+<!--v-->
+
+| |
+|-|
+| necessarie <small>🌎 necessari</small> |
+| |
+
+<small>Ankaŭ adjektivoj kun plursilaba radiko je *-i* finiĝas per -*e*.</small>
+
+<!--v-->
+
+| |
+|-|
+| faceria <small>🌎 facerea</small> |
+| |
+
+<small>La us-moda finaĵo estas -*ia* (kun akcento sur la *i*).</small>
+
+<!--v-->
+
+| |
+|-|
+| facer-lo <small>🌎 facer lo</small> |
+| |
+
+<small>La enklita uzo de pronomoj skribiĝas kun ligostreko.</small>
+
+<!--s-->
+
+## Ortografio
 
 <!--v-->
 
