@@ -15,14 +15,11 @@ revealOptions:
 <!-- TODO asimiloj kun -t- en malfru-moderna stilo: pecto → peto. -->
 <!-- TODO asimiloj kun -j- en malfru-moderna stilo: saĵa, suĵeto. -->
 
+<!-- | *maniero* | manera <small>📜 manuaria, 🌎 maniera</small> | -->
+
 <!-- 
 TODO saja 🌎 sage/saje
 La ŝanĝo de "sapia" al "saĵa" estas iom drasta, ĉu ne? Eble "saĵa" estas unue ia malfru-modernismo, de modernisma "sabja". Sed kiel fariĝas "p" "b" (aŭ "v")? Simile sonas "pobre"/"povre".
- -->
-
-<!-- 
-TODO -aje estas malfru-moderna. 🌎 corage/coraje
-* corage, formage, missage, passage, viage
  -->
 
 <!-- TODO reformo/korekto sia/sea -->
@@ -112,10 +109,22 @@ Notes:
 | glacie | *[glaki-e]* | *[glaci-e]* | *[glasje]* |
 | texto | | *[teksto]* | *[testo]* |
 | | | | |
+
+<!--v-->
+
+| | fru-klasika | klasika | moderna |
+|-|-|-|-|
 | gente | | *[gente]* | *[ĵente]* |
+| prestigio | *[praestigi-o]* | *[prestigi-o]* | *[prestiĵo]* |
+| | | | |
 | justo | *[iusto]* | *[justo]* | *[ĵusto]* |
 | pejo | *[pei-o]* | *[pejo]* | *[peĵo]* |
 | | | | |
+
+Notes:
+* arangiar, naufragio, prestigio
+
+<!--v-->
 
 <small>La gramatiko de Interlingvao malhavas priskribon pri "kroma" (*collateral*) prononco de *g*. Ĝi tamen priskribas ke *j* estas prononcebla (ankaŭ) kiel *[ĵ]*. Notindas, ke tiuj prononcoj paralelas tiujn de *g* antaŭ *e*, *i* kaj *y* en la fontaj lingvoj. Konkludeblas do, ke tia priskribo, t.e. ke *g* estas prononcebla ankaŭ kiel *[ĵ]*, simple mankas en la gramatiko de Interlingvao.</small>
 
@@ -363,6 +372,31 @@ Notes:
 
 <!--v-->
 
+| |
+|-|
+| **-âjo** <small>-at̯jc̆o</small> = -ajo <small>🌎 -age/-aje</small> |
+| **êo** <small>eğo</small> = eo <small>🌎 io</small> |
+| **mâistro** <small>mağistro</small> = maistro <small>🌎 maestro</small> |
+| **paêse** <small>pağen̆se</small> = paese <small>🌎 pais</small> |
+| |
+
+<small>Evitiĝas neologismoj, kiam la **moderna stilo** mem jam sufiĉas.</small>
+
+Notes:
+* corajo, formajo, missajo, passajo, viajo
+
+<!--v-->
+
+| |
+|-|
+| **cominçar** <small>cominĭtĭar</small> = cominciar <small>🌎 comenciar</small> |
+| **dĭurnal** = jurnal <small>🌎 jornal</small> |
+| |
+
+<small>Evitiĝas neologismoj, kiam la **malfru-moderna stilo** sufiĉas.</small>
+
+<!--v-->
+
 ### Reformoj
 
 <!--v-->
@@ -430,23 +464,20 @@ Notes:
 
 <small>La enklita uzo de pronomoj skribiĝas kun ligostreko.</small>
 
+<!--v-->
+
+| |
+|-|
+| giraffa <small>🌎 girafa/jirafa</small> |
+| quattro <small>🌎 quatro</small> |
+| riche <small>🌎 ric(c)</small> |
+| |
+
 <!--s-->
 
 <!-- @ -->
 
 ## Ortografio
-
-<!--v-->
-
-| | |
-|-|-|
-| *ĝirafo* | giraffa *[ĝirafa]* <small>*[ĵirafa]*, 🌎 girafa/jirafa</small> |
-| | |
-| *prestiĝo* | prestigio *[prestiĝo]* <small>*[prestiĵo]*, 📜 *[prestigi-o]*</small> |
-| | |
-
-Notes:
-* arangiar, naufragio, prestigio
 
 <!--v-->
 
@@ -1143,33 +1174,6 @@ Notes:
 | *dekstra* | dextre <small>📜 dextĕra, 🌎 dextere</small> |
 | *fratino* | sora   <small>📜 sorore,  🌎 soror</small> |
 | *monato*  | mese   <small>📜 mense,   🌎 mense</small> |
-| | |
-
-<!--v-->
-
-### Naciismoj
-
-<!--v-->
-
-| | |
-|-|-|
-| *trajno* | traino <small>📜 tragĭno, 🌎 traino, <br>🇮🇹 treno, 🇫🇷 train, 🇪🇸 tren, 🇵🇹 trem</small> |
-| | |
-
-<small>**Interlingvao Post la Fina Venko** uzas latinidan formon, kiam ĉiuj aliaj fontolingvoj devias de tiu *latinida* formo.</small>
-
-<!--v-->
-
-| | |
-|-|-|
-| *-aĵo*    | -age <small>📜 -atĭco, 🌎 -age, 🌎 -aje</small> |
-| *ĵurnalo* | jurnal <small>📜 diurnale, 🌎 jornal *[(d)ĵ-]*</small> |
-| *komenci* | cominciar <small>cominçare, 📜 cominitiare, 🌎 comenciar</small> |
-| *lando*   | paese <small>📜 pagense, 🌎 pais</small> |
-| *majstro* | maistro <small>📜 magistro, 🌎 maestro</small> |
-| *maniero* | manera <small>📜 manuaria, 🌎 maniera</small> |
-| *mi*      | eo <small>📜 ego, 🌎 io</small> |
-| *riĉa*    | riche <small>📜 rica, 🌎 ric(c)</small> |
 | | |
 
 <!--s-->
