@@ -12,9 +12,22 @@ revealOptions:
 
 <!-- cd ~/Git/speranto/latinidaj; reveal-md ia.md -w -->
 
+<!-- TODO asimiloj kun -t- en malfru-moderna stilo: pecto → peto. -->
+<!-- TODO asimiloj kun -j- en malfru-moderna stilo: saĵa, suĵeto. -->
+
+<!-- 
+TODO saja 🌎 sage/saje
+La ŝanĝo de "sapia" al "saĵa" estas iom drasta, ĉu ne? Eble "saĵa" estas unue ia malfru-modernismo, de modernisma "sabja". Sed kiel fariĝas "p" "b" (aŭ "v")? Simile sonas "pobre"/"povre".
+ -->
+
+<!-- 
+TODO -aje estas malfru-moderna. 🌎 corage/coraje
+* corage, formage, missage, passage, viage
+ -->
+
 <!-- TODO reformo/korekto sia/sea -->
 
-<!-- reen al la defaŭlto, ke 🌎 ne necesas menciiĝi. -->
+<!-- TODO ipse malfru-moderne -->
 
 <!-- <small>Ĉe elizio, *c* skribiĝas *ç*.</small>
 TODO en vortara skribo
@@ -52,6 +65,8 @@ Sed la resto estas nur stila demando.
 
 <!-- TODO Tom: Eble francaj ano→æno kaj ane→æne estas implicindaj, analogie al portugalaj komplikaĵoj. vd. pane -->
 
+<!-- TODO Cetere, ie estu klarigo pri la vokaloj en la prononca skribo. -->
+
 # Lingua Inter-nationale
 *(Interlingua post la Fina Venko)*
 
@@ -86,17 +101,54 @@ Notes:
 
 | | fru-klasika | klasika | moderna |
 |-|-|-|-|
-| centro | *[kentro]* | *[centro]* | *[sentro]* |
 | gratias | *[grati-as]* | *[graci-as]* | *[grasjas]* |
+| | | | |
+
+<!--v-->
+
+| | fru-klasika | klasika | moderna |
+|-|-|-|-|
+| centro | *[kentro]* | *[centro]* | *[sentro]* |
+| glacie | *[glaki-e]* | *[glaci-e]* | *[glasje]* |
+| texto | | *[teksto]* | *[testo]* |
 | | | | |
 | gente | | *[gente]* | *[ĵente]* |
 | justo | *[iusto]* | *[justo]* | *[ĵusto]* |
+| pejo | *[pei-o]* | *[pejo]* | *[peĵo]* |
 | | | | |
 
 <small>La gramatiko de Interlingvao malhavas priskribon pri "kroma" (*collateral*) prononco de *g*. Ĝi tamen priskribas ke *j* estas prononcebla (ankaŭ) kiel *[ĵ]*. Notindas, ke tiuj prononcoj paralelas tiujn de *g* antaŭ *e*, *i* kaj *y* en la fontaj lingvoj. Konkludeblas do, ke tia priskribo, t.e. ke *g* estas prononcebla ankaŭ kiel *[ĵ]*, simple mankas en la gramatiko de Interlingvao.</small>
 
 Notes:
 * Kiam menciiĝas la prononco *[ĵ]*, impliciĝas ankaŭ la varianto *[ĝ]*.
+* gratia, spatio
+* majo, major, pejo
+* glacie, indicio, officio, socio, specie
+
+<!--v-->
+
+| fru-klasika | klasika | moderna |
+|-|-|-|
+| platea | platia *[placi-a]* | placia *[plasa]* |
+| | | |
+
+<small>En **moderna stilo**, klasika *ti* *[ci]* povas asimiliĝi al *[s]*. Ĝi tiam skribiĝas *ci*.</small>
+
+Notes:
+* placia, precio
+
+<!-- 
+
+| | |
+|-|-|
+| *altigi*   | altiar *[alciar']* <small>alçare *[alsare]*</small> |
+| *forto*    | fortia *[forci-a]* <small>força *[forsa]*</small> |
+| *marco*    | martio *[marci-o]* <small>março *[marso]*</small> |
+| | |
+| *prononci* | pronuntiar *[pronunciar']* <small>*[pronunsjare]*, 🌎 pronunciar</small> |
+| *financo*  | finantia   *[financi-a]*   <small>*[finansja]*.    🌎 financia</small> |
+| | |
+ -->
 
 <!--v-->
 
@@ -111,7 +163,12 @@ Notes:
 | hora | *[hora]* | *[ora]* |
 | | | |
 
-<!-- TODO Cetere, ie estu klarigo pri la vokaloj en la prononca skribo. -->
+<!--v-->
+
+| | klasika | moderna |
+|-|-|-|
+| massa | *[massa]* | *[masa]* |
+| | | |
 
 <!--v-->
 
@@ -129,6 +186,10 @@ Notes:
 | | | |
 
 <small>En **malfru-moderna stilo**, *ae*, *ai* kaj *au* prononciĝas *[aj]*, *[e]* kaj *[o]*.</small>
+
+<!--v-->
+
+### Neologismoj
 
 <!--v-->
 
@@ -224,7 +285,18 @@ Notes:
 
 | |
 |-|
+| **mêse** <small>men̆se</small> = mese |
+| |
 | **trâino** <small>trağino</small> = traino |
+| |
+
+<!--v-->
+
+| |
+|-|
+| **plaça** <small>platĕa</small> = placia *[plasa]* |
+| |
+| **preço** <small>pretĭo</small> = precio *[preso]* |
 | |
 
 <!--v-->
@@ -279,6 +351,13 @@ Notes:
 
 <!--v-->
 
+| | fru-klasika | klasika | moderna |
+|-|-|-|-|
+| majo <small>🌎 maio</small> | *[mai-o]* | *[majo]* | *[maĵo]* |
+| | | | |
+
+<!--v-->
+
 ### Reformoj
 
 <!--v-->
@@ -299,10 +378,13 @@ Notes:
 | longhe *[loŋge]* <small>🌎 longe</small> |
 | guitarra *[gitara]* |
 | |
-| guerra *[gŭera]* |
+| guanto *[gŭanto]* |
 | |
 
 <small>La ortografio de **Postfinvenka Interlingvao** agnoskas la modern-stilan prononcon de *g* *[ĵ]* antaŭ *e*, *i* kaj *y*, markante la klasik-stilan prononcon de *g* en tiaj pozicioj per *h* inter *g* kaj la vokalo. Komence de vorto, uziĝas *u* anstataŭ *h*. Tial la serio de vortoj, kies *u* estas efektive prononcata (ekzemple en *guerra*), estas parkerigendaj.</small>
+
+Notes:
+* longhe, naufraghe, portughese
 
 <!--v-->
 
@@ -345,95 +427,14 @@ Notes:
 
 <!--s-->
 
+<!-- @ -->
+
 ## Ortografio
 
 <!--v-->
 
-### Tra Bruo
-
-<!--v-->
-
 | | |
 |-|-|
-| *maso* | massa *[masa]* <small>📜 *[massa]*</small> |
-| | |
-| *rozo* | rosa *[roza]* <small>📜 *[rosa]*</small> |
-| | |
-
-<small>En **Lingua Internationale**, duoblaj konsonantoj estas prononceblaj **tra bruego**.</small>
-
-<!--v-->
-
-| | |
-|-|-|
-| *centro* | centro *[centro]* <small>*[sentro]*, 📜 *[kentro]*</small> |
-| | |
-| *teksto* | texto *[teksto]* <small>*[testo]*</small> |
-| | |
-
-<small>En **Lingua Internationale**, *ce* kaj *ci* estas prononceblaj kun *[k]* **tra bruego**.</small>
-
-<!--v-->
-
-| | |
-|-|-|
-| *kiom* | quanto *[kuanto]* <small>*[kŭanto]*</small> |
-| | |
-| *akvo* | aqua *[aku-a]* <small>*[akŭa]*</small> |
-| | |
-| *ke* | que *[ke]* <small>qŭe</small> |
-| | |
-| *turka* | turchese *[turkeze]* |
-| | |
-
-<small>En **Lingua Internationale**, radikokomenca *[ke]*/*[ki]* skribiĝas *qŭe*/*qŭi*. (En **Lingua International**, la supersignoj mankas.) Radikofina *[ke]*/*[ki]* skribiĝas *che*/*chi*.</small>
-
-<!--v-->
-
-| | |
-|-|-|
-| *ĝusta* | juste *[juste]* <small>justa *[ĵusta]*</small> |
-| | |
-| *majo* | majo *[majo]* <small>*[maĵo]*, 📜 maio *[mai-o]*, 🌎 maio</small> |
-| | |
-| *saĝa* | saje *[saĝe]* <small>*[saĵa]*, 🌎 sage/saje</small> |
-| | |
-| *kuraĝo* | corage *[koraĵ']* <small>corajo *[koraĵo]*, 🌎 corage/coraje</small> |
-| | |
-
-Notes:
-* corage, formage, missage, passage, viage
-* major, pejo
-
-<!--v-->
-
-| | |
-|-|-|
-| *milito* | guerra *[guera]* <small>*[gŭera]*</small> |
-| | |
-| *lingvo* | lingua *[lingu-a]* <small>*[liŋgŭa]*</small> |
-| | |
-| *gitaro* | guitarra *[gitara]* <small>gŭitarra, 🌎 gitarra/guitarra</small> |
-| | |
-| *longa* | longhe *[longe]* <small>*[loŋge]*, 🌎 longe</small> |
-| | |
-
-| | |
-|-|-|
-| *signo* | signo *[signo]* <small>*[sinjo]*</small> |
-| | |
-
-<small>En **Lingua Internationale**, radikokomenca *[ge]*/*[gi]* skribiĝas *gŭe*/*gŭi*. (En **Lingua International**, la supersignoj mankas.) Radikofina *[ge]*/*[gi]* skribiĝas *ghe*/*ghi*.</small>
-
-Notes:
-* longhe, naufraghe, portughese
-
-<!--v-->
-
-| | |
-|-|-|
-| *gesto* | gesto *[gesto]* <small>*[ĵesto]*</small> |
-| | |
 | *ĝirafo* | giraffa *[ĝirafa]* <small>*[ĵirafa]*, 🌎 girafa/jirafa</small> |
 | | |
 | *prestiĝo* | prestigio *[prestiĝo]* <small>*[prestiĵo]*, 📜 *[prestigi-o]*</small> |
@@ -441,41 +442,6 @@ Notes:
 
 Notes:
 * arangiar, naufragio, prestigio
-
-<!--v-->
-
-| | |
-|-|-|
-| *glacio* | glacie *[glaci-e]* <small>*[glasje]*</small> |
-| *indico* | indicio *[indici-o]* <small>*[indisjo]*</small> |
-| *ofico* | officio *[ofici-o]* <small>*[ofisjo]*</small> |
-| *…* | socio *[soci-o]* <small>*[sosjo]*</small> |
-| *speco* | specie *[speci-e]* <small>*[spesje]*</small> |
-| | |
-
-| | |
-|-|-|
-| *graco* | gratia *[graci-a]* <small>*[grasja]*</small> |
-| *spaco* | spatio *[spaci-o]* <small>*[spasjo]*</small> |
-| | |
-
-<!--v-->
-
-| | |
-|-|-|
-| *placo* | placia *[placi-a]* <small>plaça *[plasa]*, 📜 platia</small> |
-| *preco* | precio *[preci-o]* <small>preço *[preso]*, 📜 pretio</small> |
-| | |
-
-| | |
-|-|-|
-| *altigi*   | altiar *[alciar']* <small>alçare *[alsare]*</small> |
-| *forto*    | fortia *[forci-a]* <small>força *[forsa]*</small> |
-| *marco*    | martio *[marci-o]* <small>março *[marso]*</small> |
-| | |
-| *prononci* | pronuntiar *[pronunciar']* <small>*[pronunsjare]*, 🌎 pronunciar</small> |
-| *financo*  | finantia   *[financi-a]*   <small>*[finansja]*.    🌎 financia</small> |
-| | |
 
 <!--v-->
 
