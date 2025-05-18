@@ -12,8 +12,7 @@ revealOptions:
 
 <!-- cd ~/Git/speranto/latinidaj; reveal-md ia.md -w -->
 
-<!-- TODO asimiloj kun -t- en malfru-moderna stilo: pecto → peto. -->
-<!-- TODO asimiloj kun -j- en malfru-moderna stilo: saĵa, suĵeto. -->
+<!-- TODO data -->
 
 <!-- | *maniero* | manera <small>📜 manuaria, 🌎 maniera</small> | -->
 
@@ -93,6 +92,7 @@ Sed la resto estas nur stila demando.
 <!-- TODO -->
 Notes:
 * *[akva]*
+* *[radço]*
 
 <!--v-->
 
@@ -121,15 +121,11 @@ Notes:
 | pejo | *[pei-o]* | *[pejo]* | *[peĵo]* |
 | | | | |
 
-Notes:
-* arangiar, naufragio, prestigio
-
-<!--v-->
-
 <small>La gramatiko de Interlingvao malhavas priskribon pri "kroma" (*collateral*) prononco de *g*. Ĝi tamen priskribas ke *j* estas prononcebla (ankaŭ) kiel *[ĵ]*. Notindas, ke tiuj prononcoj paralelas tiujn de *g* antaŭ *e*, *i* kaj *y* en la fontaj lingvoj. Konkludeblas do, ke tia priskribo, t.e. ke *g* estas prononcebla ankaŭ kiel *[ĵ]*, simple mankas en la gramatiko de Interlingvao.</small>
 
 Notes:
 * Kiam menciiĝas la prononco *[ĵ]*, impliciĝas ankaŭ la varianto *[ĝ]*.
+* arangiar, naufragio, prestigio
 * gratia, spatio
 * majo, major, pejo
 * glacie, indicio, officio, socio, specie
@@ -168,20 +164,36 @@ Notes:
 
 <!--v-->
 
-### Monoftongiĝo
+### Malfru-Moderna Stilo
+
+<small>Formoj el la **malfru-moderna stilo** povas roli kiel neologismoj en la **moderna stilo**.</small>
 
 <!--v-->
 
-| | moderna | malfru-moderna |
-|-|-|-|
-| aere <small>🌎 aer(e)</small> | *[ae-re]* | *[ajre]* |
-| | | |
-| traino | *[trajno]* | *[treno]* |
-| | | |
-| auro | *[aŭro]* | *[oro]* |
-| | | |
+| moderna | malfru-moderna |
+|-|-|
+| aere <small>🌎 aer(e)</small> | aire |
+| | |
+| traino | treno |
+| | |
+| auro | oro |
+| | |
 
-<small>En **malfru-moderna stilo**, *ae*, *ai* kaj *au* prononciĝas *[aj]*, *[e]* kaj *[o]*.</small>
+<small>En **malfru-moderna stilo**, *ae*, *ai* kaj *au* fariĝas *ai*, *e* kaj *o*. (La formoj *aire*, *treno* kaj *oro* estas evitindaj en la **moderna stilo**, ĉar ili havas la saman signifon kiel la modern-stilaj *aere*, *traino* kaj *auro*.)</small>
+
+<!--v-->
+
+| moderna | malfru-moderna |
+|-|-|
+| opera | obra |
+| | |
+| liberar | livrar |
+| | |
+
+<small>En **malfru-moderna stilo**, *per* kaj *ber* malantaŭ la akcentata vokalo fariĝas *br* kaj *vr*. (La formoj *obra* kaj *livrar* ne estas evitindaj en la **moderna stilo**, ĉar ili ne havas la saman signifon kiel la modern-stilaj *opera* kaj *liberar*.)</small>
+
+<!-- TODO asimiloj kun -t- en malfru-moderna stilo: pecto → peto. -->
+<!-- TODO asimiloj kun -j- en malfru-moderna stilo: saĵa, suĵeto. -->
 
 <!--v-->
 
@@ -391,6 +403,7 @@ Notes:
 |-|
 | **cominçar** <small>cominĭtĭar</small> = cominciar <small>🌎 comenciar</small> |
 | **dĭurnal** = jurnal <small>🌎 jornal</small> |
+| **påŭp̆ĕre** = pobre <small>🌎 povre</small> |
 | |
 
 <small>Evitiĝas neologismoj, kiam la **malfru-moderna stilo** sufiĉas.</small>
