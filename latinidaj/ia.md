@@ -137,19 +137,6 @@ Notes:
 Notes:
 * placia, precio
 
-<!-- 
-
-| | |
-|-|-|
-| *altigi*   | altiar *[alciar']* <small>alçare *[alsare]*</small> |
-| *forto*    | fortia *[forci-a]* <small>força *[forsa]*</small> |
-| *marco*    | martio *[marci-o]* <small>março *[marso]*</small> |
-| | |
-| *prononci* | pronuntiar *[pronunciar']* <small>*[pronunsjare]*, 🌎 pronunciar</small> |
-| *financo*  | finantia   *[financi-a]*   <small>*[finansja]*.    🌎 financia</small> |
-| | |
- -->
-
 <!--v-->
 
 | | klasika | moderna |
@@ -294,7 +281,13 @@ Notes:
 
 | |
 |-|
-| **plaça** <small>platĕa</small> = placia *[plasa]* |
+| **alçar** <small>altĭar</small> = altiar *[alsar]* |
+| |
+| **força** <small>fortĭa</small> = fortia *[forsa]* |
+| |
+| **março** <small>martĭo</small> = martio *[marso]* |
+| |
+| **plaça** <small>platĭa</small> = placia *[plasa]* |
 | |
 | **preço** <small>pretĭo</small> = precio *[preso]* |
 | |
@@ -314,7 +307,7 @@ Notes:
 
 ### Vortaro
 
-<!--v-->
+<!--s-->
 
 ### Korektoj
 
@@ -348,6 +341,18 @@ Notes:
 | |
 
 <small>La substantiva ekvivalento de la adjektivo *par* estas *paro*.</small>
+
+<!--v-->
+
+| |
+|-|
+| finantia <small>🌎 financia</small> |
+| |
+| pronuntiar <small>🌎 pronunciar</small> |
+| |
+
+Notes:
+* La tempto skribi *nc* anstataŭ *nt* estas tre forta en ĉi tiuj ekzemploj. Estas tamen malfacile pravigi tiajn skribojn.
 
 <!--v-->
 
