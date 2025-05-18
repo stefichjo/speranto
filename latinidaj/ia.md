@@ -12,6 +12,14 @@ revealOptions:
 
 <!-- cd ~/Git/speranto/latinidaj; reveal-md ia.md -w -->
 
+<!-- TODO reformo/korekto sia/sea -->
+
+<!-- reen al la defaŭlto, ke 🌎 ne necesas menciiĝi. -->
+
+<!-- <small>Ĉe elizio, *c* skribiĝas *ç*.</small>
+TODO en vortara skribo
+ -->
+
 <!-- 
 Sed la resto estas nur stila demando.
 * isto (classiche) → esto (moderne)
@@ -98,6 +106,12 @@ Notes:
 | | | |
 | fungo | *[fungo]* | *[fuŋgo]* |
 | | | |
+| signo | *[signo]* | *[sinjo]* |
+| | | |
+| hora | *[hora]* | *[ora]* |
+| | | |
+
+<!-- TODO Cetere, ie estu klarigo pri la vokaloj en la prononca skribo. -->
 
 <!--v-->
 
@@ -107,7 +121,7 @@ Notes:
 
 | | moderna | malfru-moderna |
 |-|-|-|
-| aere | *[ae-re]* | *[ajre]* |
+| aere <small>🌎 aer(e)</small> | *[ae-re]* | *[ajre]* |
 | | | |
 | traino | *[trajno]* | *[treno]* |
 | | | |
@@ -129,6 +143,17 @@ Notes:
 
 Notes:
 * pausa *[paŭza]*, posa *[poza]*
+
+<!--v-->
+
+### Akcento
+
+<!--v-->
+
+| klasika | moderna |
+|-|-|
+| character *[karakter']* | charactere *[karakte-re]* |
+| | |
 
 <!--v-->
 
@@ -164,7 +189,7 @@ Notes:
 | | |
 | pede | pe |
 | | |
-| mese | més |
+| mese <small>🌎 mense</small> | més |
 | | |
 | rete | red |
 | | |
@@ -173,33 +198,10 @@ Notes:
 
 <!--v-->
 
-### Ortografio
-
-<small>La ortografio de **Postfinvenka Interlingvao** agnoskas la modern-stilan prononcon de *g* *[ĵ]* antaŭ *e*, *i* kaj *y*, markante la klasik-stilan prononcon de *g* en tiaj pozicioj per *h* inter *g* kaj la vokalo. Komence de vorto, uziĝas *u* anstataŭ *h*. Tial la serio de vortoj, kies *u* estas efektive prononcata (ekzemple en *guerra*), estas parkerigendaj.</small>
-
-<!--v-->
-
-| |
-|-|
-| longhe *[loŋge]* <small>🌎 longe</small> |
-| guitarra *[gitara]* |
-| |
-| guerra *[gŭera]* |
-| |
-
-<!--v-->
-
-<small>Analogie, skribiĝas *ch* *[k]* antaŭ *e*, *i* kaj *y*, respektive *qu* *[k]* komence de vorto.</small>
-
-<!--v-->
-
-| |
-|-|
-| turchese *[turkeze]* |
-| que *[ke]* |
-| |
-| quanto *[kŭanto]* |
-| |
+| klasika | moderna | malfru-moderna |
+|-|-|-|
+| mense | mese | mes |
+| | | |
 
 <!--v-->
 
@@ -294,6 +296,30 @@ Notes:
 
 | |
 |-|
+| longhe *[loŋge]* <small>🌎 longe</small> |
+| guitarra *[gitara]* |
+| |
+| guerra *[gŭera]* |
+| |
+
+<small>La ortografio de **Postfinvenka Interlingvao** agnoskas la modern-stilan prononcon de *g* *[ĵ]* antaŭ *e*, *i* kaj *y*, markante la klasik-stilan prononcon de *g* en tiaj pozicioj per *h* inter *g* kaj la vokalo. Komence de vorto, uziĝas *u* anstataŭ *h*. Tial la serio de vortoj, kies *u* estas efektive prononcata (ekzemple en *guerra*), estas parkerigendaj.</small>
+
+<!--v-->
+
+| |
+|-|
+| turchese *[turkeze]* |
+| que *[ke]* |
+| |
+| quanto *[kŭanto]* |
+| |
+
+<small>Analogie, skribiĝas *ch* *[k]* antaŭ *e*, *i* kaj *y*, respektive *qu* *[k]* komence de vorto.</small>
+
+<!--v-->
+
+| |
+|-|
 | necessarie <small>🌎 necessari</small> |
 | |
 
@@ -323,73 +349,7 @@ Notes:
 
 <!--v-->
 
-### Elizio
-
-<!--v-->
-
-| | |
-|-|-|
-| *karaktero* | charactere <small>charactĕre, 📜 charactere, 🌎 character</small> |
-| | |
-| *monato* | mese <small>mêse <small>men̆se</small>, 🎵 mês, 🌎 mense</small> |
-| | |
-
-<small>En **Lingua Internationale**, vortofina *-e* estas eliziebla malantaŭ akcentata vokalo kun dentala konsonanto (*c*, *d*, *l*, *n*, *r*, *s*, *t*), ekzemple en poezio.</small>
-
-<!--v-->
-
-| | |
-|-|-|
-| *maro* | mar <small>mare, 🎵 mâr</small> |
-| | |
-| *ami* | amar <small>amare, 🎵 amár</small> |
-| | |
-| *salo* | sal <small>sale, 🎵 sál</small> |
-| | |
-| *totala* | total <small>totale, 🎵 totál</small> |
-| | |
-
-<small>En **Lingua International**, tiu elizio estas deviga, sed nur malantaŭ *l*, *n* aŭ *r*.</small>
-
-<!--v-->
-
-| | |
-|-|-|
-| *paco* | pace <small>pace, 🎵 pâç</small> |
-| | |
-
-<small>Ĉe elizio, *c* skribiĝas *ç*.</small>
-
-<!--v-->
-
-| | |
-|-|-|
-| *vendi* | vender *[vender']* <small>vendĕre *[vende-re]*</small> |
-| | |
-
-<small>Ĉe elizio, infinitivoj je ne-akcentata -*ĕre* fariĝas akcentataj je vortofina *-er*.</small>
-
-<!--v-->
-
-| | |
-|-|-|
-| *pluraj* | plur <small>plures, 🌎 plure</small> |
-| | |
-
-<!--v-->
-
 ### Tra Bruo
-
-<small>En **Lingua Internationale**, la prononco povas esti pli klara, t.e. **tra bruo**. En **Lingua International**, tiu prononco estas deviga.</small>
-
-<!--v-->
-
-| | |
-|-|-|
-| *horo* | hora *[hora]* <small>*[ora]*</small> |
-| | |
-
-<small>En **Lingua Internationale**, *h* estas muta, krom **tra bruo**.</small>
 
 <!--v-->
 
