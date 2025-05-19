@@ -13,55 +13,15 @@ revealOptions:
 <!-- cd ~/Git/speranto/latinidaj; reveal-md ia.md -w -->
 
 <!-- TODO data -->
-
-<!-- | *maniero* | manera <small>📜 manuaria, 🌎 maniera</small> | -->
-
-<!-- 
-TODO saja 🌎 sage/saje
-La ŝanĝo de "sapia" al "saĵa" estas iom drasta, ĉu ne? Eble "saĵa" estas unue ia malfru-modernismo, de modernisma "sabja". Sed kiel fariĝas "p" "b" (aŭ "v")? Simile sonas "pobre"/"povre".
- -->
-
-<!-- TODO reformo/korekto sia/sea -->
-
-<!-- TODO ipse malfru-moderne -->
-
-<!-- <small>Ĉe elizio, *c* skribiĝas *ç*.</small>
-TODO en vortara skribo
- -->
-
-<!-- 
-Sed la resto estas nur stila demando.
-* isto (classiche) → esto (moderne)
-* -essa (chic) → -ecia (moderne) (-itia (classiche))
- -->
-
 <!-- TODO i.e. id es (latinaĵo, cetere) -->
-
-<!-- approchar brecha brochar cartucha chacal chal charpa chassar chinese -->
-
-<!-- etiquetta → etichetta -->
-<!-- furchetta -->
-<!-- albergo vikinges -->
-<!-- extinguite distinguite -->
-
+<!-- | *maniero* | manera <small>📜 manuaria, 🌎 maniera</small> | -->
 <!-- espaventar -->
-<!-- essayar (exagium) -->
-
-<!-- isto/esto/id es -->
-
-<!-- TODO qualunque qualque -->
-<!-- TODO quia jam ekzistas kaj signifas "ĉar". konflikto. -->
-<!-- TODO PT estas malklara; vd. PT um; ĉu eble estas ligo kun "alicum"? -->
-<!-- TODO cuje -->
-<!-- TODO kolekti vortojn kun ali-, -un, -unque, -umque -->
-<!-- kies de kiu quia de qui; de kio quea de que -->
-<!-- TODO ecce ecco eccu -->
-<!-- TODO Fakte, eĉ en Lingua International oni prefere diru "ubi" anstataŭ "quo". Kiam diri "quo" do, kiam diri "a quo vade tu"? -->
-<!-- ir a basso, in alto -->
-
-<!-- TODO Tom: Eble francaj ano→æno kaj ane→æne estas implicindaj, analogie al portugalaj komplikaĵoj. vd. pane -->
+<!-- ġ: exaġiar/exağiar essayar (exagium) -->
 
 <!-- TODO Cetere, ie estu klarigo pri la vokaloj en la prononca skribo. -->
+
+<!-- TODO ⇒ Vortaro -->
+<!-- TODO ⇒ Tabelvortoj -->
 
 # Lingua Inter-nationale
 *(Interlingua post la Fina Venko)*
@@ -89,7 +49,6 @@ Sed la resto estas nur stila demando.
 | radio | *[radi-o]* | *[radjo]* |
 | | | |
 
-<!-- TODO -->
 Notes:
 * *[akva]*
 * *[radço]*
@@ -98,8 +57,11 @@ Notes:
 
 | | fru-klasika | klasika | moderna |
 |-|-|-|-|
-| gratias | *[grati-as]* | *[graci-as]* | *[grasjas]* |
+| spatio | *[spati-o]* | *[spaci-o]* | *[spasjo]* |
 | | | | |
+
+Notes:
+* gratia, spatio
 
 <!--v-->
 
@@ -132,18 +94,6 @@ Notes:
 
 <!--v-->
 
-| fru-klasika | klasika | moderna |
-|-|-|-|
-| platea | platia *[placi-a]* | placia *[plasa]* |
-| | | |
-
-<small>En **moderna stilo**, klasika *ti* *[ci]* povas asimiliĝi al *[s]*. Ĝi tiam skribiĝas *ci*.</small>
-
-Notes:
-* placia, precio
-
-<!--v-->
-
 | | klasika | moderna |
 |-|-|-|
 | rosa | *[rosa]* | *[roza]* |
@@ -166,7 +116,19 @@ Notes:
 
 ### Malfru-Moderna Stilo
 
-<small>Formoj el la **malfru-moderna stilo** povas roli kiel neologismoj en la **moderna stilo**.</small>
+<small>Formoj el la **malfru-moderna stilo** povas roli kiel neologismoj en la **moderna stilo** aŭ povas esti la preferata formo, se ĉiuj fontolingvoj sekvas la saman stilon.</small>
+
+<!--v-->
+
+| | klasika | (malfru-)moderna |
+|-|-|-|
+| placia | *[placi-a]* | *[plasa]* |
+| | | |
+
+<small>En **moderna stilo**, klasika *ti* *[ci]* povas asimiliĝi al *[s]*. Ĝi tiam skribiĝas *ci*.</small>
+
+Notes:
+* placia, precio
 
 <!--v-->
 
@@ -185,33 +147,57 @@ Notes:
 
 | moderna | malfru-moderna |
 |-|-|
-| opera | obra |
-| | |
-| liberar | livrar |
+| causa | cosa |
 | | |
 
-<small>En **malfru-moderna stilo**, *per* kaj *ber* malantaŭ la akcentata vokalo fariĝas *br* kaj *vr*. (La formoj *obra* kaj *livrar* ne estas evitindaj en la **moderna stilo**, ĉar ili ne havas la saman signifon kiel la modern-stilaj *opera* kaj *liberar*.)</small>
-
-<!-- TODO asimiloj kun -t- en malfru-moderna stilo: pecto → peto. -->
-<!-- TODO asimiloj kun -j- en malfru-moderna stilo: saĵa, suĵeto. -->
-
-<!--v-->
-
-### Neologismoj
-
-<!--v-->
-
-| | moderna | malfru-moderna |
-|-|-|-|
-| causa | *[kaŭza]* | *[koza]* |
-| | | |
-| cosa | *[koza]* | |
-| | | |
-
-<small>Malfru-modernaj formoj kunekzistas kun modernaj formoj kiel neologismoj.</small>
+<small>(La formo *cosa* ne estas evitinda en la **moderna stilo**, ĉar ĝi ne havas la saman signifon kiel la modern-stila *causa*.)</small>
 
 Notes:
-* pausa *[paŭza]*, posa *[poza]*
+* pausa, posa
+
+<!--v-->
+
+| moderna | malfru-moderna |
+|-|-|
+| opera | obra |
+| lato | lado |
+| aco | ago |
+| | |
+| liberar | livrar |
+| creder | creer |
+| leger | leier |
+| | |
+
+<small>En **malfru-moderna stilo**, *p*, *t*, *c* malantaŭ la akcentata vokalo voĉiĝas *b*, *d*, *g*. Analogie, *b*, *d*, *g* fariĝas *v*, *-*, *i*. (La formo *livrar* ne estas evitinda en la **moderna stilo**, ĉar ĝi ne havas la saman signifon kiel la modern-stila *liberar*.)</small>
+
+Notes:
+* sapie, sabje = saje
+
+<!--v-->
+
+| moderna | malfru-moderna |
+|-|-|
+| (capsa) | cassa |
+| | |
+| capsula | |
+| | |
+
+<small>En **malfru-moderna stilo**, *ps* post akcentata vokalo asimiliĝas al *ss*.</small>
+
+<!--v-->
+
+| moderna | malfru-moderna |
+|-|-|
+| littera | (lettra) |
+| | |
+| (intrar) | entrar |
+| | |
+| mundo | (mondo) |
+| | |
+| (unda) | onda <small>🌎 unda</small> |
+| | |
+
+<small>En **malfru-moderna stilo**, akcentataj (mallongaj) *i* kaj *u* (ofte) fariĝas *e* kaj *o*. En la **moderna stilo**, tiuj vokalŝanĝoj nur okazas komence de radiko/sufikso.</small>
 
 <!--v-->
 
@@ -239,7 +225,7 @@ Notes:
 | mare | mar |
 | | |
 
-<small>En klasika stilo, la -*e* malantaŭ *l*, *n* kaj *r* ne eliziiĝas.</small>
+<small>En **klasika stilo**, la -*e* malantaŭ *l*, *n* kaj *r* ne eliziiĝas.</small>
 
 <!--v-->
 
@@ -248,7 +234,7 @@ Notes:
 | legere *[lege-re]* | leger *[leĵer']* |
 | | |
 
-<small>En klasika stilo, multaj infinitivoj estas akcentataj sur la silabo antaŭ -*ere*.</small>
+<small>En **klasika stilo**, multaj infinitivoj estas akcentataj sur la silabo antaŭ -*ere*.</small>
 
 <!--v-->
 
@@ -263,7 +249,22 @@ Notes:
 | rete | red |
 | | |
 
-<small>En malfru-moderna stilo, la -*e* malantaŭ *c*, *d*, *s* kaj *t* eliziiĝas malantaŭ akcentata silabo. Tiam *c* skribiĝas *z*, *d* eliziiĝas, la vokalo antaŭ *s* portas hokon (por eviti konfuzon kun multenombraj formoj), kaj *t* fariĝas *d*.</small>
+<small>En **malfru-moderna stilo**, la -*e* malantaŭ *c*, *d*, *s* kaj *t* eliziiĝas malantaŭ akcentata silabo. Tiam *c* skribiĝas *z*, *d* eliziiĝas, la vokalo antaŭ *s* portas hokon (por eviti konfuzon kun multenombraj formoj), kaj *t* fariĝas *d*.</small>
+
+<!--v-->
+
+| moderna | malfru-moderna |
+|-|-|
+| altere | altre |
+| | |
+| dextere | dextre |
+| | |
+| obstaculo | obstaclo |
+| | |
+| offerer | offrer |
+| | |
+
+<small>En **malfru-moderna stilo**, la vokalo de la antaŭlasta vokalo eliziiĝas laŭeble, se ĝi ne estas akcentata.</small>
 
 <!--v-->
 
@@ -293,6 +294,13 @@ Notes:
 
 | |
 |-|
+| **dĭůrnal** = jornal *[ĵornal]* |
+| |
+
+<!--v-->
+
+| |
+|-|
 | **mêse** <small>men̆se</small> = mese |
 | |
 | **trâino** <small>trağino</small> = traino |
@@ -311,6 +319,22 @@ Notes:
 | **plaça** <small>platĭa</small> = placia *[plasa]* |
 | |
 | **preço** <small>pretĭo</small> = precio *[preso]* |
+| |
+
+<!--v-->
+
+| |
+|-|
+| **-ïça** <small>-ïtĭa</small> = -essa *[esa]* |
+| |
+
+<small>Anstataŭ -*ecia* skribiĝas -*essa*.</small>
+
+<!--v-->
+
+| |
+|-|
+| **luç** <small>lucĕ</small> = luz *[lus]* |
 | |
 
 <!--v-->
@@ -386,13 +410,14 @@ Notes:
 
 | |
 |-|
-| **-âjo** <small>-at̯jc̆o</small> = -ajo <small>🌎 -age/-aje</small> |
+| **-âjo** <small>-at̯jğo</small> = -ajo <small>🌎 -age/-aje</small> |
 | **êo** <small>eğo</small> = eo <small>🌎 io</small> |
 | **mâistro** <small>mağistro</small> = maistro <small>🌎 maestro</small> |
 | **paêse** <small>pağen̆se</small> = paese <small>🌎 pais</small> |
+| **sêa** <small>essea</small> = sea <small>🌎 sia</small> |
 | |
 
-<small>Evitiĝas neologismoj, kiam la **moderna stilo** mem jam sufiĉas.</small>
+<small>Evitiĝas nacilingvaj neologismoj, kiam la **moderna stilo** ankoraŭ persistas inter la fontaj lingvoj.</small>
 
 Notes:
 * corajo, formajo, missajo, passajo, viajo
@@ -402,11 +427,24 @@ Notes:
 | |
 |-|
 | **cominçar** <small>cominĭtĭar</small> = cominciar <small>🌎 comenciar</small> |
-| **dĭurnal** = jurnal <small>🌎 jornal</small> |
 | **påŭp̆ĕre** = pobre <small>🌎 povre</small> |
 | |
 
-<small>Evitiĝas neologismoj, kiam la **malfru-moderna stilo** sufiĉas.</small>
+<small>Evitiĝas nacilingvaj neologismoj, kiam la **malfru-moderna stilo** sufiĉas.</small>
+
+Notes:
+* pobre = kompatinda; paupere = malriĉa; 🌎 povre = malriĉa, kompatinda
+
+<!--v-->
+
+| |
+|-|
+| **ïlla** = ella <small>🌎 illa/ella</small> |
+| **ïp̆se** = esse <small>🌎 isse/esse</small> |
+| **ïste** = este <small>🌎 iste/este</small> |
+| |
+
+<small>Evitiĝas latinismoj, kiam la **(malfru-)moderna stilo** sufiĉe reprezentas la fontajn lingvojn.</small>
 
 <!--v-->
 
@@ -490,6 +528,8 @@ Notes:
 
 <!-- @ -->
 
+<!--v-->
+
 ## Ortografio
 
 <!--v-->
@@ -509,7 +549,6 @@ Notes:
 
 Notes:
 * bibita *[bibi-ta]*
-* libera *[libe-ra]*, liberar *[liberar']*, livrar *[livrar']*
 * labor *[labor']* <small>labore *[labore]*</small> `?`
 
 <!--v-->
@@ -655,19 +694,6 @@ Notes:
 
 <!--v-->
 
-## Substantivoj
-
-<!--v-->
-
-| | |
-|-|-|
-| *studento(j)* | studente(s) |
-| | |
-| *generacio(j)* | generation(es) <small>generatione(s)</small> |
-| | |
-
-<!--v-->
-
 ## Adjektivoj
 
 <!--v-->
@@ -736,45 +762,12 @@ Notes:
 
 | | |
 |-|-|
-| *rapide* | rapidemente <small>rapidamente, 🌎 rapidemente</small> |
-| | |
-| *logike* | logichemente <small>logicamente, 🌎 logicamente</small> |
-| | |
-
-<small>Adverboj estas formataj pere de la sufikso -*mente*.</small>
-
-<!--v-->
-
-| | |
-|-|-|
-| *bona* | bon <small>bona</small> |
-| | |
-| *bone* | ben <small>bene</small> |
-| | |
-
-<small>La adverba formo de *bon* <small>*bona*</small> estas malregula: *ben* <small>*bene*</small></small>
-
-<!--v-->
-
-| | |
-|-|-|
 | *certe* | certemente |
 | | |
 | *certe (ke)* | certo (que) |
 | | |
 
 <small>Adverboj, kiuj priskribas subfrazojn, estas formataj pere de la finaĵo -*o*.</small>
-
-<!--v-->
-
-| | |
-|-|-|
-| *alta* | alta |
-| | |
-| *alte, (en) alteco* | (in) alto |
-| | |
-
-<small>Adverboj, kiuj estas substantivigeblaj, estas formataj pere de la finaĵo -*o*.</small>
 
 <!--v-->
 
@@ -811,6 +804,15 @@ Notes:
 <!--v-->
 
 ## Tabelvortoj
+
+<!-- qualunque qualque -->
+<!-- quia jam ekzistas kaj signifas "ĉar". konflikto. -->
+<!-- PT estas malklara; vd. PT um; ĉu eble estas ligo kun "alicum"? -->
+<!-- cuje -->
+<!-- kolekti vortojn kun ali-, -un, -unque, -umque -->
+<!-- kies de kiu quia de qui; de kio quea de que -->
+<!-- ecce ecco eccu -->
+<!-- Fakte, eĉ en Lingua International oni prefere diru "ubi" anstataŭ "quo". Kiam diri "quo" do, kiam diri "a quo vade tu"? -->
 
 <!--v-->
 
@@ -916,7 +918,7 @@ Notes:
 | | |
 
 Notes:
-* las unas e las altras
+* las unas e las alteras
 
 <!--v-->
 
@@ -1091,6 +1093,10 @@ Notes:
 | *en la(j)* | nel  <small>nêl (nês), 🌎 in le</small> |
 | | |
 
+<!-- TODO ir a basso, in alto -->
+
+<!-- a in = an? -->
+
 <!--v-->
 
 ## Konjunkcioj
@@ -1130,7 +1136,6 @@ Notes:
 | *instrui*  | insignar   <small>🌎 inseniar</small> |
 | *kuniklo*  | cuniculo   <small>🌎 conilio</small> |
 | *manĝi*    | manducar   <small>🌎 manjar</small> |
-| *verko*    | opera      <small>🌎 opera, 🌎 obra</small> |
 | *seĝo*     | sedula     <small>🌎 sedia</small> |
 | | |
 
@@ -1142,51 +1147,8 @@ Notes:
 
 | | |
 |-|-|
-| *litero* | littera <small>📜 littera, <br>🇮🇹 lettera, 🇫🇷 lettre, 🇪🇸🇵🇹 letra</small> |
-| | |
-
-<small>Uziĝas la latina formo, ankaŭ kiam ĉiuj fontolingvoj havas la saman vokalan ŝanĝon.</small>
-
-| | |
-|-|-|
-| *kaŭzo*  | causa <small>📜 causa, 🌎 causa</small> |
-| *afero*  | cosa <small>📜 causa, 🌎 cosa, <br>🇮🇹 cosa, 🇫🇷 chose, 🇪🇸 cosa, 🇵🇹 coisa</small> |
-| | |
-
-<small>Kiam la vokala ŝanĝo akompanas ŝanĝon de signifo, ĝi estas konservata.</small>
-
-| | |
-|-|-|
-| *alia*   | altre  <small>📜 altĕra,   🌎 altere</small> |
-| *kovri*  | coprir <small>📜 coperire, 🌎 coperir</small> |
-| | |
-
-<small>Elizio de vokalo ne kalkuliĝas kiel vokala ŝanĝo.</small>
-
-Notes:
-* *aure* uziĝas anstataŭ *orecula*, kiu havas la saman etimon kiel *auricula*.
-* La adjektivo *par* uziĝas kiel stubstantivo anstataŭ *parecula* aŭ *paro*. Tio estas stranga.
-<!-- TODO -->
-* PT oferecer → offerer OK
-
-<!--v-->
-
-| | |
-|-|-|
-| *eniri* | entrar <small>📜 intrare<br>🇮🇹 entrare, 🇫🇷 entrer, 🇪🇸🇵🇹 entrar</small> |
-| *-eco*  | -ecia <small>-eça, 📜 -itia, 🌎 -essa<br>🇮🇹 -ezza, 🇫🇷 -esse, 🇪🇸🇵🇹 -eza</small> |
-| | |
-
-<small>Radikokomenca ŝanĝo de *i* al *e* en ĉiuj fontolingvoj estas konservata.</small>
-
-<!--v-->
-
-| | |
-|-|-|
 | *bano*    | banio  <small>📜 balneo,  🌎 balneo, 🌎 banio</small> |
-| *dekstra* | dextre <small>📜 dextĕra, 🌎 dextere</small> |
 | *fratino* | sora   <small>📜 sorore,  🌎 soror</small> |
-| *monato*  | mese   <small>📜 mense,   🌎 mense</small> |
 | | |
 
 <!--s-->
@@ -1248,6 +1210,8 @@ Tote<small>-as</small> le<small>-as</small> seres human<small>-as</small> nasce<
 <!--s-->
 
 # Vortaro
+
+<!-- TODO Tom: Eble francaj ano→æno kaj ane→æne estas implicindaj, analogie al portugalaj komplikaĵoj. vd. pane -->
 
 Notes:
 <!-- vokaloj -->
