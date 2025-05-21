@@ -134,44 +134,34 @@ Notes:
 
 | moderna | malfru-moderna |
 |-|-|
-| aere <small>🌎 aer(e)</small> | aire |
+| aere <small>🌎 aer(e)</small> | (aire) |
 | | |
-| traino | treno |
+| traino | (treno) |
 | | |
-| auro | oro |
+| auro | (oro) |
 | | |
 
-<small>En **malfru-moderna stilo**, *ae*, *ai* kaj *au* fariĝas *ai*, *e* kaj *o*. (La formoj *aire*, *treno* kaj *oro* estas evitindaj en la **moderna stilo**, ĉar ili havas la saman signifon kiel la modern-stilaj *aere*, *traino* kaj *auro*.)</small>
+<small>En **malfru-moderna stilo**, *ae*, *ai* kaj *au* fariĝas *ai*, *e* kaj *o*.</small>
 
 <!--v-->
 
 | moderna | malfru-moderna |
 |-|-|
-| causa | cosa |
+| aperir | (abrir) |
+| vita | (vida) |
+| aco | (ago) |
+| | |
+| ubi | (uvi) |
+| creder | (creer) |
+| leger | (leier) |
 | | |
 
-<small>(La formo *cosa* ne estas evitinda en la **moderna stilo**, ĉar ĝi ne havas la saman signifon kiel la modern-stila *causa*.)</small>
-
-Notes:
-* pausa, posa
-
-<!--v-->
-
-| moderna | malfru-moderna |
-|-|-|
-| opera | obra |
-| lato | lado |
-| aco | ago |
-| | |
-| liberar | livrar |
-| creder | creer |
-| leger | leier |
-| | |
-
-<small>En **malfru-moderna stilo**, *p*, *t*, *c* malantaŭ la akcentata vokalo voĉiĝas *b*, *d*, *g*. Analogie, *b*, *d*, *g* fariĝas *v*, *-*, *i*. (La formo *livrar* ne estas evitinda en la **moderna stilo**, ĉar ĝi ne havas la saman signifon kiel la modern-stila *liberar*.)</small>
+<small>En **malfru-moderna stilo**, *p*, *t*, *c* malantaŭ la akcentata vokalo voĉiĝas *b*, *d*, *g*. Analogie, *b*, *d*, *g* fariĝas *v*, *-*, *i*.</small>
 
 Notes:
 * sapie, sabje = saje
+* cata, data, tote, lato, strata, rota, vita
+* madre, padre
 
 <!--v-->
 
@@ -198,6 +188,113 @@ Notes:
 | | |
 
 <small>En **malfru-moderna stilo**, akcentataj (mallongaj) *i* kaj *u* (ofte) fariĝas *e* kaj *o*. En la **moderna stilo**, tiuj vokalŝanĝoj nur okazas komence de radiko/sufikso.</small>
+
+<!--v-->
+
+### Neakcentataj Infiksoj
+
+<!--v-->
+
+<small>En la **malfru-moderna stilo**, neakcentataj infiksoj (-*er*-, -*in*-, -*it*-, -*or*-) eliziiĝas en substantivoj.</small>
+
+<!--v-->
+
+| moderna | malfru-moderna |
+|-|-|
+| sanguine | sangue |
+| | |
+
+<small>Multaj substantivoj kun la neakcentata infikso -*in*- havas latinlingvan nominativon je -*en* aŭ je -*o* (aŭ *-is*). En ĉiuj kazoj, la finaĵo en la **malfru-moderna stilo** estas -*e*.</small>
+
+<!--v-->
+
+| moderna | malfru-moderna |
+|-|-|
+| crimine | crime |
+| examine | exame |
+| nomine  | nome |
+| | |
+| homine   | home  |
+| imagine  | image |
+| margine  | marge |
+| ordine   | orde  |
+| -udine   | -ude  |
+| | |
+
+<!--v-->
+
+| moderna | malfru-moderna |
+|-|-|
+| capite  | capo  |
+| corpore | corpo |
+| latere  | lato  |
+| tempore | tempo |
+| termine | termo |
+
+<small>Kiam la latinlingva nominativo finiĝas per -*us* (aŭ -*ut*, fakte), la formo en la **malfru-moderna stilo** finiĝas per -*o*.</small>
+
+<!--v-->
+
+| (malfru-)moderna |
+|-|
+| femina |
+| pagina |
+| |
+
+<small>La formoj de *femina* kaj *pagina* estas senŝanĝaj. Ilia latinlingva nominativo finiĝas per -*ina*.</small>
+
+<!--v-->
+
+| (malfru-)moderna |
+|-|
+| hospite |
+| limite |
+| |
+
+<small>La formoj de *hospites* kaj *limite* estas senŝanĝaj. Ilia latinlingva nominativo finiĝas per -*es*.</small>
+
+<!--v-->
+
+### Neologismoj
+
+<!--v-->
+
+| moderna | malfru-moderna |
+|-|-|
+| causa | cosa |
+| | |
+| opera | obra |
+| | |
+| liberar | livrar |
+| | |
+
+<small>La formoj *cosa*, *obra* kaj *livrar* ne estas evitinda en la **moderna stilo**, ĉar ili ne havas la samajn signifojn kiel la modern-stilaj *causa*, *opera* kaj *liberar*.</small>
+
+Notes:
+* pausa, posa
+
+<!--v-->
+
+### Poezia Stilo
+
+<!--v-->
+
+| moderna | malfru-moderna |
+|-|-|
+| biber   | *[biver']*   |
+| deber   | *[dever']*   |
+| dubitar | *[duvitar']* |
+| haber   | *[haver']*   |
+| laborar | *[lavorar']* |
+| probar  | *[provar']*  |
+| scriber | *[scriver']* |
+| | |
+
+<small>En **poezia moderna stilo**, en origine verbaj radikoj, postvokala *b* prononciĝas *[v]* laŭ la **malfru-moderna stilo**.</small>
+
+Notes:
+* bibita *[bibi-ta]*
+* labor *[labor']* <small>labore *[labore]*</small> `?`
 
 <!--v-->
 
@@ -250,6 +347,10 @@ Notes:
 | | |
 
 <small>En **malfru-moderna stilo**, la -*e* malantaŭ *c*, *d*, *s* kaj *t* eliziiĝas malantaŭ akcentata silabo. Tiam *c* skribiĝas *z*, *d* eliziiĝas, la vokalo antaŭ *s* portas hokon (por eviti konfuzon kun multenombraj formoj), kaj *t* fariĝas *d*.</small>
+
+Notes:
+* rete, site
+* fide, pede
 
 <!--v-->
 
@@ -536,55 +637,6 @@ Notes:
 
 | | |
 |-|-|
-| *trinki* | biber   *[biber']*   <small>bibĕre   *[bive-re]*   </small> |
-| *devi*   | deber   *[deber']*   <small>debere   *[devere]*    </small> |
-| *dubi*   | dubitar *[dubitar']* <small>dubitare *[duvitare]*  </small> |
-| *havi*   | haber   *[haber']*   <small>habere   *[avere]*     </small> |
-| *labori* | laborar *[laborar']* <small>laborare *[lavorare]*  </small> |
-| *provi*  | probar  *[probar']*  <small>probare  *[provare]*   </small> |
-| *skribi* | scriber *[skriber']* <small>scribĕre *[skrive-re]* </small> |
-| | |
-
-<small>En **Lingua Internationale**, en origine verbaj radikoj, postvokala *b* prononciĝas *[v]*, krom **tra bruo**.</small>
-
-Notes:
-* bibita *[bibi-ta]*
-* labor *[labor']* <small>labore *[labore]*</small> `?`
-
-<!--v-->
-
-| | |
-|-|-|
-| *vivo* | vita *[vita]* <small>*[vida]*</small> |
-| | |
-| *vitala* | vital *[vital']* |
-| | |
-
-| | |
-|-|-|
-| *reto* | rete *[rete]* <small>*[red]*</small> |
-| | |
-| *retino* | retina *[reti-na]* |
-| | |
-
-| | |
-|-|-|
-| *piedo*  | pede  *[pede]* <small>*[pe]*</small> |
-| | |
-| *pedalo* | pedal *[pedal']* |
-| | |
-
-<small>En **Lingua Internationale**, postvokala *t* kaj *te* fine de unusilaba radiko prononciĝas *[d]*, kaj *de* eliziiĝas, krom **tra bruo**.</small>
-
-Notes:
-* cate, tote, lato, strata, rota, vita
-* rete, site
-* fide, pede
-
-<!--v-->
-
-| | |
-|-|-|
 | *naĝi* | natar *[natar']* <small>*[nata-re]*</small> |
 | | |
 | *naĝas* | nata *[nata]* |
@@ -619,65 +671,6 @@ Notes:
 * spirito *[spiri-to]*
 * universitate *[universitad']*, felicitate *[felisitad']*
 * virtute *[virtud']*
-
-<!--v-->
-
-| | |
-|-|-|
-| *-eco*     | -itude <small>📜 -itudĭne</small> |
-| *ekzameno* | exame  <small>📜 examĭne,  🌎 examine</small> |
-| *bildo*    | image  <small>📜 imagĭne,  🌎 imagine</small> |
-| *krimo*    | crime  <small>📜 crimĭne,  🌎 crimine</small> |
-| *nomo*     | nome   <small>📜 nomĭne,   🌎 nomine</small> |
-| *ordo*     | orde   <small>📜 ordĭne,   🌎 ordine</small> |
-| *sango*    | sangue <small>📜 sanguĭne, 🌎 sanguine</small> |
-| *termino*  | termo  <small>📜 termĭne,  🌎 termino</small> |
-| | |
-
-<!-- TODO Koherus pli se "image" *[imaĵ(e)]* rimus kun "formage" *[formaĵ']*. -->
-
-<small>**Tra bruego**, neakcentataj ŝajnfinaĵoj el **Lingua Classĭca** estas reteneblaj.</small>
-
-Notes:
-* Ne estas klare (pro manko de ekzemploj), ĉu -*itude* konserviĝas en **Lingua Universale**, aŭ ĉu ĝi fariĝas -*itúd* (aŭ eĉ -*itú*).
-* margine
-
-<!--v-->
-
-| | |
-|-|-|
-| *kapo*     | cape   <small>📜 capĭte,   🌎 capite</small> |
-| *limo*     | lime   <small>📜 limĭte,   🌎 limite</small> |
-| | |
-| *korpo*    | corpo  <small>📜 corpŏre,  🌎 corpore</small> |
-| *tempo*    | tempo  <small>📜 tempŏre,  🌎 tempore</small> |
-| | |
-
-Notes:
-* hospite
-
-<!--v-->
-
-| | |
-|-|-|
-| *homo* | homo  <small>📜 homĭne,  🌎 homine</small> |
-| | |
-
-| | |
-|-|-|
-| *flanko* | lato <small>📜 latĕre,  🌎 latere</small> |
-| | |
-
-Notes:
-* *homo*: speco-nomoj en nominativo
-
-<!--v-->
-
-| | |
-|-|-|
-| *ino*  | femina |
-| *paĝo* | pagina |
-| | |
 
 <!--v-->
 
