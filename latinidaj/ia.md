@@ -12,6 +12,10 @@ revealOptions:
 
 <!-- cd ~/Git/speranto/latinidaj; reveal-md ia.md -w -->
 
+<!-- habe ha -->
+
+<!-- fru-klasika stilo: IAM, AVRO, eble eĉ majuskletoj -->
+
 <!-- TODO data -->
 <!-- TODO i.e. id es (latinaĵo, cetere) -->
 <!-- | *maniero* | manera <small>📜 manuaria, 🌎 maniera</small> | -->
@@ -55,6 +59,34 @@ Notes:
 
 <!--v-->
 
+| | klasika | moderna |
+|-|-|-|
+| fungo | *[fungo]* | *[fuŋgo]* |
+| | | |
+| signo | *[signo]* | *[sinjo]* |
+| | | |
+| hora | *[hora]* | *[ora]* |
+| | | |
+
+<!--v-->
+
+| | klasika | moderna |
+|-|-|-|
+| massa | *[massa]* | *[masa]* |
+| | | |
+| rosa | *[rosa]* | *[roza]* |
+| | | |
+| texto | *[teksto]* | *[testo]* |
+| | | |
+| gente | *[gente]* | *[ĵente]* |
+| | | |
+
+<!--v-->
+
+### Fru-Klasika Stilo
+
+<!--v-->
+
 | | fru-klasika | klasika | moderna |
 |-|-|-|-|
 | spatio | *[spati-o]* | *[spaci-o]* | *[spasjo]* |
@@ -69,14 +101,12 @@ Notes:
 |-|-|-|-|
 | centro | *[kentro]* | *[centro]* | *[sentro]* |
 | glacie | *[glaki-e]* | *[glaci-e]* | *[glasje]* |
-| texto | | *[teksto]* | *[testo]* |
 | | | | |
 
 <!--v-->
 
 | | fru-klasika | klasika | moderna |
 |-|-|-|-|
-| gente | | *[gente]* | *[ĵente]* |
 | prestigio | *[praestigi-o]* | *[prestigi-o]* | *[prestiĵo]* |
 | | | | |
 | justo | *[iusto]* | *[justo]* | *[ĵusto]* |
@@ -94,66 +124,43 @@ Notes:
 
 <!--v-->
 
-| | klasika | moderna |
-|-|-|-|
-| rosa | *[rosa]* | *[roza]* |
-| | | |
-| fungo | *[fungo]* | *[fuŋgo]* |
-| | | |
-| signo | *[signo]* | *[sinjo]* |
-| | | |
-| hora | *[hora]* | *[ora]* |
-| | | |
-
-<!--v-->
-
-| | klasika | moderna |
-|-|-|-|
-| massa | *[massa]* | *[masa]* |
-| | | |
-
-<!--v-->
-
 ### Malfru-Moderna Stilo
 
 <small>Formoj el la **malfru-moderna stilo** povas roli kiel neologismoj en la **moderna stilo** aŭ povas esti la preferata formo, se ĉiuj fontolingvoj sekvas la saman stilon.</small>
 
 <!--v-->
 
-| | klasika | (malfru-)moderna |
-|-|-|-|
-| placia | *[placi-a]* | *[plasa]* |
-| | | |
+| moderna | malfru-moderna |
+|-|-|
+| aere <small>🌎 aer(e)</small> | aire |
+| | |
+| traino | treno |
+| | |
+| auro | oro |
+| | |
 
-<small>En **moderna stilo**, klasika *ti* *[ci]* povas asimiliĝi al *[s]*. Ĝi tiam skribiĝas *ci*.</small>
-
-Notes:
-* placia, precio
+<small>*ae*, *ai* kaj *au* fariĝas *ai*, *e* kaj *o*.</small>
 
 <!--v-->
 
 | moderna | malfru-moderna |
 |-|-|
-| aere <small>🌎 aer(e)</small> | (aire) |
-| | |
-| traino | (treno) |
-| | |
-| auro | (oro) |
+| star | estar |
 | | |
 
-<small>En **malfru-moderna stilo**, *ae*, *ai* kaj *au* fariĝas *ai*, *e* kaj *o*.</small>
+<small>Radikokomence, *sp* kaj *st* fariĝas *esp* kaj *est*.</small>
 
 <!--v-->
 
 | moderna | malfru-moderna |
 |-|-|
-| aperir | (abrir) |
-| vita | (vida) |
-| aco | (ago) |
+| aperir | abrir |
+| vita   | vida |
+| aco    | ago |
 | | |
-| ubi | (uvi) |
-| creder | (creer) |
-| leger | (leier) |
+| ubi    | uvi |
+| creder | creer |
+| leger  | leier |
 | | |
 
 <small>En **malfru-moderna stilo**, *p*, *t*, *c* malantaŭ la akcentata vokalo voĉiĝas *b*, *d*, *g*. Analogie, *b*, *d*, *g* fariĝas *v*, *-*, *i*.</small>
@@ -162,6 +169,7 @@ Notes:
 * sapie, sabje = saje
 * cata, data, tote, lato, strata, rota, vita
 * madre, padre
+<!-- fratre :/ -->
 
 <!--v-->
 
@@ -182,16 +190,38 @@ Notes:
 | | |
 | (intrar) | entrar |
 | | |
+| eri | (ieri) |
+| | |
 | mundo | (mondo) |
 | | |
-| (unda) | onda <small>🌎 unda</small> |
+| (urso) | orso <small>🌎 urso</small> |
 | | |
 
 <small>En **malfru-moderna stilo**, akcentataj (mallongaj) *i* kaj *u* (ofte) fariĝas *e* kaj *o*. En la **moderna stilo**, tiuj vokalŝanĝoj nur okazas komence de radiko/sufikso.</small>
 
 <!--v-->
 
-### Neakcentataj Infiksoj
+#### Neologismoj
+
+<!--v-->
+
+| moderna | malfru-moderna |
+|-|-|
+| causa | cosa |
+| | |
+| opera | obra |
+| | |
+| liberar | livrar |
+| | |
+
+<small>La formoj *cosa*, *obra* kaj *livrar* ne estas evitinda en la **moderna stilo**, ĉar ili ne havas la samajn signifojn kiel la modern-stilaj *causa*, *opera* kaj *liberar*.</small>
+
+Notes:
+* pausa, posa
+
+<!--v-->
+
+#### Neakcentataj Infiksoj
 
 <!--v-->
 
@@ -255,46 +285,54 @@ Notes:
 
 <!--v-->
 
-### Neologismoj
+#### Akĉento
+
+<!-- TODO -essa estas speciala. -->
+<!-- lancear approchar -->
 
 <!--v-->
 
-| moderna | malfru-moderna |
-|-|-|
-| causa | cosa |
-| | |
-| opera | obra |
-| | |
-| liberar | livrar |
-| | |
+| (malfru-)moderna |
+|-|
+| biber   ~ *[biver]* |
+| deber   ~ *[dever']*   |
+| dubitar ~ *[duvitar']* |
+| haber   ~ *[haver']*   |
+| laborar ~ *[lavorar']* |
+| probar  ~ *[provar']*  |
+| scriber ~ *[scriver']* |
+| |
 
-<small>La formoj *cosa*, *obra* kaj *livrar* ne estas evitinda en la **moderna stilo**, ĉar ili ne havas la samajn signifojn kiel la modern-stilaj *causa*, *opera* kaj *liberar*.</small>
-
-Notes:
-* pausa, posa
-
-<!--v-->
-
-### Poezia Stilo
-
-<!--v-->
-
-| moderna | malfru-moderna |
-|-|-|
-| biber   | *[biver']*   |
-| deber   | *[dever']*   |
-| dubitar | *[duvitar']* |
-| haber   | *[haver']*   |
-| laborar | *[lavorar']* |
-| probar  | *[provar']*  |
-| scriber | *[scriver']* |
-| | |
-
-<small>En **poezia moderna stilo**, en origine verbaj radikoj, postvokala *b* prononciĝas *[v]* laŭ la **malfru-moderna stilo**.</small>
+<small>La **malfru-moderna-stila** prononco *[v]* de postvokala *b* estas bonvena en la **moderna stilo** en origine verbaj radikoj.</small>
 
 Notes:
 * bibita *[bibi-ta]*
 * labor *[labor']* <small>labore *[labore]*</small> `?`
+
+<!--v-->
+
+| (malfru-)moderna |
+|-|
+| dubitar *[dubitar']* ~ ***[duvitar']*** ~ *[duvidar']* |
+| |
+| rubie *[rubje]* ~ ***[ruvje]*** ~ *[ruĵe]* |
+| |
+
+<small>Nur kelkaj prononcaj trajtoj de la **malfru-moderna stilo** estas bonvenaj en la **moderna stilo**.</small>
+
+<!--v-->
+
+| klasika | (malfru-)moderna |
+|-|-|
+| gratia *[graci-a]* | gratia ***[grasja]*** ~ *[grasa]* |
+| | |
+| pretio *[preci-o]* | precio *[presjo]* ~ ***[preso]*** |
+| | |
+
+<small>Kiam la **malfru-modern-stila** prononco *[s]* de **fru-klasik-stila** *[ti]* estas bonvena en la **moderna stilo**, ĝi skribiĝas *ci*.</small>
+
+Notes:
+* financia, placia, precio, pronunciar
 
 <!--v-->
 
@@ -376,7 +414,7 @@ Notes:
 
 <!--v-->
 
-#### Vortara Skribo
+### Vortara Skribo
 
 <!--v-->
 
@@ -411,12 +449,6 @@ Notes:
 
 | |
 |-|
-| **alçar** <small>altĭar</small> = altiar *[alsar]* |
-| |
-| **força** <small>fortĭa</small> = fortia *[forsa]* |
-| |
-| **março** <small>martĭo</small> = martio *[marso]* |
-| |
 | **plaça** <small>platĭa</small> = placia *[plasa]* |
 | |
 | **preço** <small>pretĭo</small> = precio *[preso]* |
@@ -440,7 +472,7 @@ Notes:
 
 <!--v-->
 
-#### Fonetika Skribo
+### Fonetika Skribo
 
 <!--v-->
 
@@ -492,20 +524,13 @@ Notes:
 
 | |
 |-|
-| finantia <small>🌎 financia</small> |
+| **alçar** <small>altĭar</small> = alciar <small>🌎 altiar</small> |
+| **majo** <small>maio</small> = majo <small>🌎 maio</small> |
+| **força** <small>fortĭa</small> = forcia <small>🌎 fortia</small> |
+| **março** <small>martĭo</small> = marcio <small>🌎 martio</small> |
 | |
-| pronuntiar <small>🌎 pronunciar</small> |
-| |
 
-Notes:
-* La tempto skribi *nc* anstataŭ *nt* estas tre forta en ĉi tiuj ekzemploj. Estas tamen malfacile pravigi tiajn skribojn.
-
-<!--v-->
-
-| | fru-klasika | klasika | moderna |
-|-|-|-|-|
-| majo <small>🌎 maio</small> | *[mai-o]* | *[majo]* | *[maĵo]* |
-| | | | |
+<small>Evitiĝas latinismoj.</small>
 
 <!--v-->
 
@@ -518,7 +543,7 @@ Notes:
 | **sêa** <small>essea</small> = sea <small>🌎 sia</small> |
 | |
 
-<small>Evitiĝas nacilingvaj neologismoj, kiam la **moderna stilo** ankoraŭ persistas inter la fontaj lingvoj.</small>
+<small>Evitiĝas nacilingvismoj.</small>
 
 Notes:
 * corajo, formajo, missajo, passajo, viajo
@@ -693,18 +718,10 @@ Notes:
 
 | | |
 |-|-|
-| *granda*   | grande |
-| | |
-| *globala* | global <small>globale</small> |
-| | |
 | *alta* | alte <small>alta</small> |
 | | |
-| *logike* | logiche *[logi-ke]* <small>logĭca *[loĵi-ka]*, 🌎 logic</small> |
-| | |
-| *duuma* | binarie *[binari-e]* <small>binaria *[binari-a]*, 🌎 binari</small> |
-| | |
 
-<small>En **Lingua International**, ĉiuj adjektivoj finiĝas je -*e* (kiam -*e* ne eliziiĝas). En **Lingua Internationale**, estas adjektivoj aŭ je -*e* aŭ je -*a*.</small>
+<small>En **Lingua Internationale**, estas adjektivoj aŭ je -*e* aŭ je -*a*.</small>
 
 Notes:
 * binari, necessari, precari, primari, voluntari
@@ -714,7 +731,7 @@ Notes:
 
 | | |
 |-|-|
-| *belaj montoj* | montes belle <small>montes bellas |
+| *belaj montoj* | montes belle <small>montes bellas</small> |
 | | |
 
 <!--v-->
@@ -1131,6 +1148,14 @@ Notes:
 | *manĝi*    | manducar   <small>🌎 manjar</small> |
 | *seĝo*     | sedula     <small>🌎 sedia</small> |
 | | |
+
+<!-- TODO Konsiderindas, ke dŭl kaj aliaj ŭ-elizioj kun *l* fariĝas *i*, ĉi-ekzemple en sedŭla → sedia. -->
+<!-- Alikaze, tio ne sufiĉas por klarigi "conilio", kio maksimume estus "conichio". -->
+
+<!-- La skribo "ci" daŭre prononciĝu [sj], sed kiam oni scias, ke ĝi etimologie estis "ti", tiam la skribo "ci" anoncas la prononcon [s] en la malfru-moderna stilo. En poezio (aŭ ali-nomota registro), oni povas citi tiun prononcon jam en la modern stilo. Ŝajnas, ke ankaŭ la vorto "pronunciar" (malfru-modern-stile: "prononciar" [prononsar]) kaj "financia" estas pri-tem-ataj. -->
+
+<!-- cominciar [kominsjar] ~ [kominsar] -->
+<!-- "comenciar" ankaŭ eblas, se oni strikte diras, ke "initiar" estas la radiko, kies komenco "i" fariĝas "e". -->
 
 <!--v-->
 
