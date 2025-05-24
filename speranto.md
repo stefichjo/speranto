@@ -2237,7 +2237,7 @@ Tra bruo, la prepozicio **a** uziĝas por la indiki la rektan objekton. (Tiam uz
 | Esperanto | Intermediaria |
 |-|-|
 | starintas | **steve**   <small>**stâu**</small>  |
-| starintas | **stevera** <small>**stâra**</small> |
+| starintis | **stevera** <small>**stâra**</small> |
 | starintos | **stevere** <small>**stâre**</small> |
 | | |
 
