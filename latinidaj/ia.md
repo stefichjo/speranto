@@ -831,7 +831,7 @@ Notes:
 Notes:
 * Konsiderindas: facer-lo → facerlo
 
-<!--v-->
+<!--s-->
 
 ## Natureca Registro
 
@@ -935,12 +935,44 @@ Notes:
 
 <!--v-->
 
-## … Registro
+## Proza Registro
+
+<!--v-->
+
+| | prosaiche |
+|-|-|
+| *ke (li) estu* | sea <small>🌎 es/sia</small> |
+| | |
+| *ke (li) havu* | habia |
+| | |
+
+<small>En la **proza registro** uziĝas la *ke-u-modo*.</small>
+
+<!--v-->
+
+| | prosaiche |
+|-|-|
+| *se (li) estus* | fuesse |
+| | |
+| *se (li) havus* | habesse |
+| | |
+
+<small>En la **proza registro** uziĝas la *se-us-modo*.</small>
+
+<!--v-->
+
+| | prosaiche |
+|-|-|
+| *(li) estintas* | fue *[fŭe]* |
+| | |
+| *(li) havintas* | habeu *[ha-beu]* |
+| | |
+
+<small>En la **proza registro** uziĝas la *intas-formo*.</small>
 
 Notes:
-* inter-registro du-ŝtupa
-  * facita → facta; facer → facere
-  * facería/faceva → facêsse; ha facto → facéu (aŭ simile)
+* *havinits* — **habêra**
+* *havintos* ­— **habêre**
 
 <!--s-->
 
