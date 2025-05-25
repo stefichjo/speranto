@@ -12,9 +12,9 @@ revealOptions:
 
 <!-- cd ~/Git/speranto/latinidaj; reveal-md ia.md -w -->
 
-<!-- https://www.interlingua.com/linguistic/selige-un-stilo-de-interlingua/ -->
+<!-- TODO tertie tercie -->
 
-<!-- a in = a-in = ain = en: en alto, en basso -->
+<!-- https://www.interlingua.com/linguistic/selige-un-stilo-de-interlingua/ -->
 
 <!-- TODO Cetere, ie estu klarigo pri la vokaloj en la prononca skribo. -->
 
@@ -306,12 +306,14 @@ Notes:
 |-|-|
 | porta | port |
 | | |
+| magiche | magic |
+| | |
 
 <small>**En poezio**, ĉia finaĵo estas eliziebla en la **malfru-moderna stilo**.</small>
 
 <!--v-->
 
-#### Neologismoj
+### Neologismoj
 
 <!--v-->
 
@@ -346,7 +348,7 @@ Notes:
 
 <!--v-->
 
-#### Neakcentataj Infiksoj
+### Neakcentataj Infiksoj
 
 <small>En la **malfru-moderna stilo**, neakcentataj infiksoj (-*er*-, -*in*-, -*it*-, -*or*-) eliziiĝas en substantivoj.</small>
 
@@ -426,7 +428,7 @@ Notes:
 
 <!--v-->
 
-#### Malfru-Moderna Akĉento
+### Malfru-Moderna Akĉento
 
 <small>Kelkaj prononcaj trajtoj de la **malfru-moderna stilo** estas akcepteblaj/bonvenaj en la **moderna stilo**.</small>
 
@@ -526,14 +528,13 @@ Notes:
 | rete | red |
 | | |
 
-<small>En **malfru-moderna stilo**, la -*e* malantaŭ *c*, *d*, *s* kaj *t* eliziiĝas malantaŭ akcentata silabo. Tiam *c* skribiĝas *z*, *d* eliziiĝas, la vokalo antaŭ *s* portas hokon (por eviti konfuzon kun multenombraj formoj), kaj *t* fariĝas *d*.</small>
+<small>En **malfru-moderna stilo**, la -*e* malantaŭ *c*, *d*, *s* kaj *t* eliziiĝas malantaŭ akcentata silabo. (Alivorte, ĉar -*e* eliziiĝas jam en la **moderna stilo** malantaŭ *l*, *n* kaj *r*, oni povas simple diri, ke -*e* eliziiĝas malantaŭ dentala konsonanto malantaŭ akcentata silabo.) Tiam *c* skribiĝas *z*, *d* eliziiĝas, la vokalo antaŭ *s* portas hokon (por eviti konfuzon kun multenombraj formoj), kaj *t* fariĝas *d*.</small>
 
 Notes:
 * rete, site
 * fide, pede
 
 <!--v-->
-
 
 ## Ortografio
 
@@ -565,6 +566,8 @@ Notes:
 
 | |
 |-|
+| **bânio** <small>balneo</small> = banio |
+| |
 | **mêse** <small>men̆se</small> = mese |
 | |
 | **trâino** <small>trağino</small> = traino |
@@ -625,6 +628,8 @@ Notes:
 | klasika | moderna |
 |-|-|
 | habe | ha |
+| | |
+| prime | unesime |
 | | |
 
 <!--s-->
@@ -744,6 +749,12 @@ Notes:
 
 | |
 |-|
+| |
+
+<!--v-->
+
+| |
+|-|
 | **bisonio** <small>🌎 besonio</small> |
 | |
 
@@ -830,6 +841,37 @@ Notes:
 
 Notes:
 * Konsiderindas: facer-lo → facerlo
+
+<!--v-->
+
+<small>Numeraloj ofte estas dusilabaj en la **klasika stilo**. En la **moderna stilo**, ili havas havi malpli longan formon. Simile, la **modern-stilaj** ordinaloj estas ofte bazitaj sur la **modern-stilaj** numeraloj.</small>
+
+<!--v-->
+
+| | | | | | | |
+|-|-|-|-|-|-|-|
+| uno     | un   | | prime   | unesime   | | - |
+| duo     | du   | | secunde | duesime   | | vinti |
+| tres    | tri  | | tercie  | triesime  | | trenta |
+| quattro | quar | | quarte  | quaresime | | quaranta |
+| cinque  | quin | | quinte  | quinesime | | cinquanta |
+| sex     | =    | | sexte   | sexesime  | | sexanta |
+| septe   | sep  | | septime | septesime | | septanta |
+| octo    | oc   | | octave  | octesime  | | octanta |
+| novem   | nou  | | none    | novesime  | | novanta |
+| decem   | dec  | | decime  | decesime  | | - |
+| | | | | | | |
+
+Notes:
+* Notu ke anstataŭ ~trianta~ formiĝas *trenta*.
+
+<!--v-->
+
+| | | | |
+|-|-|-|-|
+| cent | cento | | centesime |
+| mill | mille | | millesime |
+| | | | |
 
 <!--s-->
 
@@ -937,6 +979,8 @@ Notes:
 
 ## Proza Registro
 
+<small>La **proza registro** estas uzata en skribita **natureca registro**.</small>
+
 <!--v-->
 
 | | prosaiche |
@@ -977,40 +1021,6 @@ Notes:
 <!--s-->
 
 # …
-
-<!--v-->
-
-## Numeraloj
-
-<!--v-->
-
-<!-- En kiuj registroj/stiloj estas ekz-e "du" kaj "duo"? -->
-
-| | | |
-|-|-|-|
-| un   <small>uno</small>     | unesime   <small>prima</small>   | - |
-| du   <small>duo</small>     | duesime   <small>secunda</small> | vinti     |
-| tri  <small>tres</small>    | triesime  <small>terça</small>   | trenta    |
-| quar <small>quattro</small> | quaresime <small>quarta</small>  | quaranta  |
-| quin <small>cinque</small>  | quinesime <small>quinta</small>  | cinquanta |
-| sex             |             sexesime  <small>sexta</small>   | sexanta   |
-| sep  <small>septe</small>   | sepesime  <small>septĭma</small> | septanta  |
-| oc   <small>octo</small>    | ochesime  <small>octava</small>  | octanta   |
-| nou  <small>nove</small>    | nouesime  <small>nona</small>    | novanta   |
-| dec  <small>dece</small>    | dechesime <small>decĭma</small>  | - |
-| | | |
-
-Notes:
-* substantivoj: *duo*, *trio*
-* nove <small>📜 novem</small>
-
-<!--v-->
-
-| | |
-|-|-|
-| cent <small>cento</small> | centesime |
-| mill <small>mille</small> | millesime |
-| | |
 
 <!--v-->
 
@@ -1189,47 +1199,17 @@ Notes:
 
 <!--v-->
 
-## Verboj
-
-<!--v-->
-
-| | |
-|-|-|
-| *(ke) kreu*     | crea <small>cree</small> |
-| *(se/do) kreus* | crea <small>crearía, 📜 creâsse/crearía, 🌎 crearea</small> |
-| | |
-
-Notes:
-* Por ne-realaj se-us-modoj, uziĝas la is-tempo en **Interlingua**: *si toto esseva logic*
-
-<!--v-->
-
-| | |
-|-|-|
-| *kreis*    | creava |
-| *kreintas* | ha create <small>hâ creato, 📜 creáu</small> |
-| | |
-| *kreos*    | creara <small>creará</small> |
-| *kreontas* | va crear <small>vâ creare</small> |
-| | |
-
-<!--v-->
-
-| | |
-|-|-|
-| *esti* | ser <small>essĕre, 🌎 esser</small> |
-| | |
-| *estintas* | ha site <small>ês sita, 📜 fue, 🌎 ha essite</small> |
-| *estis*    | ha site <small>êra, 🌎 esseva</small> |
-| | |
-| *(ke) estu* | es <small>sêa, 🌎 sia</small> |
-| | |
-
-<small>La ke-u-modo uziĝas en **Interlingua** nur por la verbo *ser*: *Il es necessari que illa sia un bon persona.*</small>
-
-<!--v-->
-
 ## Prepozicioj
+
+<!--v-->
+
+| | |
+|-|-|
+| *al en* | en |
+| | |
+| *alten* | en alto <small>🌎 in alto</small> |
+| *malalten* | en basso <small>🌎 a basso</small> |
+| | |
 
 <!--v-->
 
@@ -1237,12 +1217,7 @@ Notes:
 |-|-|
 | *al la(j)* | al   <small>âl  (âs)</small>  |
 | *de la(j)* | del  <small>dêl (dês)</small> |
-| *en la(j)* | nel  <small>nêl (nês), 🌎 in le</small> |
 | | |
-
-<!-- TODO ir a basso, in alto -->
-
-<!-- a in = an? -->
 
 <!--v-->
 
@@ -1257,35 +1232,6 @@ Notes:
 
 <!--s-->
 
-## Interlingvaismoj
-
-<!--v-->
-
-### Latinidismoj
-
-<!--v-->
-
-| | |
-|-|-|
-| *montri* | monstrar <small>📜 monstrare, 🌎 monstrar,<br>🇮🇹 mostrare, 🇫🇷 montrer, 🇪🇸🇵🇹 mostrar</small> |
-| | |
-
-<small>**Interlingvao Post la Fina Venko** uzas la latinan formon, kiam la fontolingvoj devias en malsamaj manieroj de tiu *latina* formo.</small>
-
-<!--v-->
-
-### Latinismoj
-
-<!--v-->
-
-| | |
-|-|-|
-| *bano*    | banio  <small>📜 balneo,  🌎 balneo, 🌎 banio</small> |
-| *fratino* | sora   <small>📜 sorore,  🌎 soror</small> |
-| | |
-
-<!--s-->
-
 ## [Declaration Universal del Derectos Human](https://www.ohchr.org/en/human-rights/universal-declaration/translations/interlingua)
 
 <!--v-->
@@ -1294,11 +1240,11 @@ Notes:
 
 <!--v-->
 
-Considerante que le<small>-a</small> recognoscentia del dignitate inherente a tote<small>-as</small> le<small>-as</small> membros del familia human<small>-a</small> e de su<small>=loro</small> derectos equal<small>-es</small> e inalienabile<small>-s</small> constitue le<small>-a</small> fundamento del libertate, del justitia e del pace nel mundo,
+Considerante que le<small>-a</small> recognoscentia del dignitate inherente a tote<small>-as</small> le<small>-as</small> membros del familia human<small>-a</small> e de su<small>=loro</small> derectos equal<small>-es</small> e inalienabile<small>-s</small> constitue le<small>-a</small> fundamento del libertate, del justitia e del pace in le mundo,
 
 <!--v-->
 
-Considerante que le<small>-a</small> ignorantia e le<small>-a</small> disprecio<small>dispreço</small> del<small>=dês</small> derectos human<small>-as</small> ha<small>-n</small> resultate<small>-o</small> in actos de barbaria que ultraja<small>-n</small> le<small>-a</small> conscientia del humanitate, e que le<small>-a</small> advenimento de un<small>-a</small> mundo nel qual<small>-e</small> le<small>-as</small> seres human<small>-as</small> sera<small>-n</small> libere<small>-as</small> de parlar<small>-e</small> e de creder<small>-e</small>, liberate<small>-as</small> del terror<small>-e</small> e del miseria, ha<small>=ês</small> sito<small>-a</small> proclamate<small>-a</small> como le plus alte<small>-a</small> aspiration<small>-e</small> del homo,
+Considerante que le<small>-a</small> ignorantia e le<small>-a</small> disprecio<small>dispreço</small> del<small>=dês</small> derectos human<small>-as</small> ha<small>-n</small> resultate<small>-o</small> in actos de barbaria que ultraja<small>-n</small> le<small>-a</small> conscientia del humanitate, e que le<small>-a</small> advenimento de un<small>-a</small> mundo in le qual<small>-e</small> le<small>-as</small> seres human<small>-as</small> sera<small>-n</small> libere<small>-as</small> de parlar<small>-e</small> e de creder<small>-e</small>, liberate<small>-as</small> del terror<small>-e</small> e del miseria, ha<small>=ês</small> sito<small>-a</small> proclamate<small>-a</small> como le plus alte<small>-a</small> aspiration<small>-e</small> del homo,
 
 <!--v-->
 
@@ -1310,7 +1256,7 @@ Considerante que es essential<small>-e</small> promover<small>-e</small> le<smal
 
 <!--v-->
 
-Considerante que nel Charta le<small>-as</small> populos del<small>=dês</small> Nationes Unite<small>-as</small> ha<small>-n</small> reaffirmate<small>-o</small> su<small>=loro</small> fide nel<small>=nês</small> derectos human<small>-as</small> fundamental<small>-es</small>, nel dignitate e nel valor<small>-e</small> del persona human<small>-a</small>, nel equalitate del<small>=dês</small> homos e del<small>=dês</small> feminas, e que illos se ha<small>-n</small> declarate<small>-o</small> resolute<small>-as</small> a promover<small>-e</small> le<small>-a</small> progresso social<small>-e</small> e a instaurar<small>-e</small> melior<small>-es</small> conditiones de vita in un<small>-a</small> libertate plus grande,
+Considerante que in le Charta le<small>-as</small> populos del<small>=dês</small> Nationes Unite<small>-as</small> ha<small>-n</small> reaffirmate<small>-o</small> su<small>=loro</small> fide in le<small>=nês</small> derectos human<small>-as</small> fundamental<small>-es</small>, in le dignitate e in le valor<small>-e</small> del persona human<small>-a</small>, in le equalitate del<small>=dês</small> homos e del<small>=dês</small> feminas, e que illos se ha<small>-n</small> declarate<small>-o</small> resolute<small>-as</small> a promover<small>-e</small> le<small>-a</small> progresso social<small>-e</small> e a instaurar<small>-e</small> melior<small>-es</small> conditiones de vita in un<small>-a</small> libertate plus grande,
 
 <!--v-->
 
