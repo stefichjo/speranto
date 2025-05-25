@@ -12,8 +12,6 @@ revealOptions:
 
 <!-- cd ~/Git/speranto/latinidaj; reveal-md ia.md -w -->
 
-<!-- TODO tertie tercie -->
-
 <!-- https://www.interlingua.com/linguistic/selige-un-stilo-de-interlingua/ -->
 
 <!-- TODO Cetere, ie estu klarigo pri la vokaloj en la prononca skribo. -->
@@ -170,6 +168,9 @@ Notes:
 | glacie | *[glaki-e]* | *[glaci-e]* | *[glasje]* |
 | | | | |
 
+Notes:
+* glacie, indicio, officio, socio, specie
+
 <!--v-->
 
 | | fru-klasika | klasika | moderna |
@@ -187,7 +188,6 @@ Notes:
 * arangiar, naufragio, prestigio
 * gratia, spatio
 * majo, major, pejo
-* glacie, indicio, officio, socio, specie
 
 <!--v-->
 
@@ -436,11 +436,11 @@ Notes:
 
 | malfru-moderna akĉento |
 |-|
-| strata *[strata]* ~ *[strada]* |
+| strata *[strata]* ~ ***[strada]*** |
 | |
-| felicitate *[felisitate]* ~ *[felisitad']* |
+| felicitate *[felisitate]* ~ ***[felisitad']*** |
 | |
-| virtute *[virtute]* ~ *[virtud']* |
+| virtute *[virtute]* ~ ***[virtud']*** |
 | |
 
 <small>Post unusilabaj radikoj, kiuj finiĝas per -*t*, kaj ĉe akcentataj substantivaj sufiksoj je -*te* la **malfru-modern-stila** prononco *[d]* estas bonvena en la **moderna stilo**.</small>
@@ -463,13 +463,13 @@ Notes:
 
 | malfru-moderna akĉento |
 |-|
-| biber   ~ *[biver]* |
-| deber   ~ *[dever']*   |
-| dubitar ~ *[duvitar']* |
-| haber   ~ *[aver']*   |
-| laborar ~ *[lavorar']* |
-| probar  ~ *[provar']*  |
-| scriber ~ *[scriver']* |
+| biber   ~ ***[biver]*** |
+| deber   ~ ***[dever']***   |
+| dubitar ~ ***[duvitar']*** |
+| haber   ~ ***[aver']***   |
+| laborar ~ ***[lavorar']*** |
+| probar  ~ ***[provar']***  |
+| scriber ~ ***[scriver']*** |
 | |
 
 <small>La **malfru-moderna-stila** prononco *[v]* de postvokala *b* estas bonvena en la **moderna stilo** en origine verbaj radikoj.</small>
@@ -589,7 +589,7 @@ Notes:
 | **-ïça** <small>-ïtĭa</small> = -essa *[esa]* |
 | |
 
-<small>Anstataŭ -*ecia* skribiĝas -*essa*.</small>
+<small>Anstataŭ -*ecia* skribiĝas -*essa* por eviti la prononcon *[esja]* en klasikisma prononco.</small>
 
 <!--v-->
 
@@ -631,6 +631,15 @@ Notes:
 | | |
 | prime | unesime |
 | | |
+
+<!--v-->
+
+| klasika | moderna | klasikisma |
+|-|-|-|
+| pretio | **preço** = precio *[preso]* | *[presjo]* |
+| | | |
+
+<small>La klasikisma prononco de klasika *ti* en la **moderna stilo** estas ĉiam *[sj]*, ankaŭ kiam *ti* fariĝis *ci* en la **moderna stilo**, ĉi kiam *ci* prononciĝas *[s]*. (Vortara skribo: **ç**.)</small>
 
 <!--s-->
 
@@ -680,9 +689,10 @@ Notes:
 |-|
 | **alçar** <small>altĭar</small> = alciar <small>🌎 altiar</small> |
 | **basĭo** = bajo <small>🌎 basio</small> |
-| **majo** <small>maio</small> = majo <small>🌎 maio</small> |
 | **força** <small>fortĭa</small> = forcia <small>🌎 fortia</small> |
+| **majo** <small>maio</small> = majo <small>🌎 maio</small> |
 | **março** <small>martĭo</small> = marcio <small>🌎 martio</small> |
+| **terça** <small>tertĭa</small> = tercia <small>🌎 tertia</small> |
 | |
 
 <small>Evitiĝas klasik-stilismoj, kiam la **(malfru-)modern-stila** formo estas ankoraŭ sufiĉe internacia.</small>
