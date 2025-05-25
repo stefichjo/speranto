@@ -2286,17 +2286,6 @@ Notes:
 
 <!--v-->
 
-<!-- TODO intrare! -->
-**entrare** <small>**intrare**</small>
-
-| 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
-|:-:|:-:|:-:|:-:|
-| ïntrare | ïntrær̆e | ïntrare | ïntrare |
-| *entrare* | *entrer* | *entrar* | *entrar* |
-| | | | |
-
-<!--v-->
-
 **enuntiatione**
 
 | 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
@@ -2759,6 +2748,16 @@ Notes:
 
 Notes:
 * ad-ìpso = ad-epso *[adesso]*
+
+<!--v-->
+
+**intrare**
+
+| 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
+|:-:|:-:|:-:|:-:|
+| ïntrare | ïntrær̆e | ïntrare | ïntrare |
+| *entrare* | *entrer* | *entrar* | *entrar* |
+| | | | |
 
 <!--v-->
 
