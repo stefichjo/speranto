@@ -12,6 +12,8 @@ revealOptions:
 
 <!-- cd ~/Git/speranto/latinidaj; reveal-md ia.md -w -->
 
+<!-- celle → quelle -->
+
 | classiche | moderne |
 |-|-|
 | hic | ci |
@@ -86,16 +88,17 @@ revealOptions:
 <!-- https://www.interlingua.com/linguistic/selige-un-stilo-de-interlingua/ -->
 <!-- ipse / mesme -->
 
+<!-- Alicuno -->
+<!-- composíte / compósite ? -->
+<!-- civilisar civilizar -->
+<!-- suggerite exaggerar (d)zh? -->
+<!-- ng nc -->
+<!-- exact -->
+<!-- joia -->
+<!-- tinta -->
+<!-- mercuridie -->
+
 <!-- Havante la registrojn auxiliar kaj natural, imageblas ke kaj "nossa" kaj "nostra" estas en la stila kontinuo. -->
-
-<!-- TODO Cetere, ie estu klarigo pri la vokaloj en la prononca skribo. -->
-
-<!-- proque → pro que -->
-<!-- esque → es que -->
-
-<!-- leur/loro (FR/IT) → su (PT/ES) -->
-
-<!-- TODO ⇒ Tabelvortoj -->
 
 # Lingua Inter-national
 
@@ -861,11 +864,7 @@ Notes:
 
 <!--s-->
 
-# Korektoj kaj Reformoj
-
-<!--v-->
-
-## Korektoj
+# Korektoj
 
 <!--v-->
 
@@ -971,11 +970,18 @@ Notes:
 | |
 |-|
 | **ïlla** = ella <small>🌎 illa/ella</small> |
-| **ïp̆se** = esse <small>🌎 isse/esse</small> |
-| **ïste** = este <small>🌎 iste/este</small> |
 | |
 
-<small>Pronomoj kaj tabelvortoj havas la **(malfru-)modernan stilon**.</small>
+<small>Pronomoj kaj tabelvortoj je *i*- havas la **(malfru-)modern-stilan** *e*-.</small>
+
+<!--v-->
+
+| |
+|-|
+| **su** <small>🌎 su/lor</small> |
+| |
+
+<small>La refleksiva pronomo *su* uziĝas kaj por ununombraj kaj por multenombraj posedantoj.</small>
 
 <!--v-->
 
@@ -984,9 +990,9 @@ Notes:
 | **bisonio** <small>🌎 besonio</small> |
 | |
 
-<!--v-->
+<!--s-->
 
-### Reformoj
+# Reformoj
 
 <!--v-->
 
@@ -1068,13 +1074,11 @@ Notes:
 Notes:
 * Konsiderindas: facer-lo → facerlo
 
-<!--v-->
-
-<small>Numeraloj ofte estas dusilabaj en la **klasika stilo**. En la **moderna stilo**, ili havas havi malpli longan formon. Simile, la **modern-stilaj** ordinaloj estas ofte bazitaj sur la **modern-stilaj** numeraloj.</small>
-
 <!--s-->
 
 # Numeraloj kaj Ordinaloj
+
+<small>Numeraloj ofte estas dusilabaj en la **klasika stilo**. En la **moderna stilo**, ili havas havi malpli longan formon. Simile, la **modern-stilaj** ordinaloj estas ofte bazitaj sur la **modern-stilaj** numeraloj.</small>
 
 <!--v-->
 
@@ -1085,12 +1089,14 @@ Notes:
 | tres    | tri  | | tercie  | triesime  | | trenta |
 | quattro | quar | | quarte  | quaresime | | quaranta |
 | cinque  | quin | | quinte  | quinesime | | cinquanta |
-| sex     | =    | | sexte   | sexesime  | | sexanta |
+| sex     | sex  | | sexte   | sexesime  | | sexanta |
 | septe   | sep  | | septime | septesime | | septanta |
 | octo    | oc   | | octave  | octesime  | | octanta |
 | novem   | nou  | | none    | novesime  | | novanta |
 | decem   | dec  | | decime  | decesime  | | - |
 | | | | | | | |
+
+<!-- TODO Forte konsiderindas "un(e)" kaj "du(e)", nonne? -->
 
 Notes:
 * Notu ke anstataŭ ~trianta~ formiĝas *trenta*.
@@ -1105,11 +1111,136 @@ Notes:
 
 <!--s-->
 
+# Tabelvortoj
+
+<!--v-->
+
+| | |
+|-|-|
+| *unu* | un |
+| | |
+| *unu (li)* | unu |
+| *unu (ŝi)* | una |
+| *unu (ĝi)* | uno |
+| | |
+
+<small>*un* estas tabelvorto. En partitivaj frazeroj, *un* estas diferencigebla laŭ genro: *Mi frate e mi sora ha multe amicos. **Unu** de mi frate ama **una** de mi sora.*</small>
+
+<!-- TODO Korekto: uno → unu; uno → un -->
+
+<!--v-->
+
+| | classiche | moderne |
+|-|-|-|
+| *ĉi tiu* | (eccu) iste | queste |
+| *tiu*    | (eccu) ille | quelle |
+| | | |
+
+<small>La **klasik-stila** tabelvorto *(eccu) iste* kaj *(eccu) ille* fariĝas *queste* kaj *quelle* en la **moderna stilo**.</small>
+
+<!-- TODO Korekto: ille → illu -->
+
+<!--v-->
+
+<small>En la **natura registro**, la pronomoj je -*o* uziĝas anstataŭ tiuj je -*u*: ***ello** de mi frate ama **ella** de mi sora.* En la **moderna stilo**, *esso* estas tiam uzebla por *ĝi*: ***Esso** es interessante.*</small>
+<!--v-->
+
+| | | | | |
+|-|-|-|-|-|
+| *tiu*    | quelle | | *tio*    | quello |
+| *ĉi tiu* | queste | | *ĉi tio* | questo |
+| | | | | |
+
+<small>Ĉar *(eccu) illo* respektive *quello* estas tuj komprenebla kiel *tio*, analogie *ĉi tio* estas esprimebla per *questo*.</small>
+
+<!-- ce ille = celle? -->
+
+<!--v-->
+
+| | |
+|-|-|
+| *al li/ŝi/ĝi/ili* | a elle(s) → li |
+| | |
+
+<small>En enklitika pozicio, dativa triapersona frazaĵo fariĝas *li*: *eo da le libro a mi amico.* → *eo da illo **a illu**.* → *eo **li**-lo da.*</small>
+
+<!--v-->
+
+| | | | | |
+|-|-|-|-|-|
+| *iu*    | ulle  | | *io*    | ~ullo~ → alique |
+| *neniu* | nulle | | *nenio* | ~nullo~ → nihil/nemo |
+| *ĉiu*   | omne  | | *ĉio*   | ~omno~ → tuto |
+| | | | | |
+
+<small>Analogie, *io*, *nenio* kaj *ĉio* ŝajnas tradukeblaj kiel *ullo*, *nullo* kaj *omno*, sed anstataŭe uziĝas *alique*, *nihil* kaj *tuto*. Por *neniu* en la senco de *neniu persono*, uziĝas *nemo*.</small>
+
+<!-- TODO nihil = nil? -->
+
+<!--s-->
+
+# Personaj Pronomoj
+
+<!--v-->
+
+| | | | | | |
+|-|-|-|-|-|-|
+| *mi(n)* | eo | me | | *mia* | mi(e) |
+| *ci(n)* | tu | te | | *cia* | tu(e) |
+| | | | | | |
+| *ni(n)* | nos | nos | | *nia* | nostre |
+| *vi(n)* | vos | vos | | *via* | vostre |
+| | | | | | |
+
+<small>La **malfru-modern-stila** formo de *eo* estas *io*.</small>
+
+<small>La **malfru-modern-stilaj** formoj de *nostre* kaj *vostre* estas *nosse* kaj *vosse*.</small>
+
+<!--v-->
+
+| | |
+|-|-|
+| *oni* | on |
+| | |
+
+<small>Kiel persona pronomo, *un* fariĝas *on* (nur en nominativo): ***On** crede lo-que **on** spera.*</small>
+
+<!--v-->
+
+| | classiche | moderne |
+|-|-|-|
+| *li* | illu | ellu |
+| *ŝi* | illa | ella |
+| *ĝi* | illo | ello |
+| | | |
+
+<small>
+
+Kiel persona pronomo, la **klasik-stila** *ille* respektive la **modern-stila** *elle* estas diferencigebla laŭ genro: *Mi frate e mi sora invita su melior amicos; **ellu** de mi frate ama **ella** de mi sora.* En partitivaj aŭ enklitikaj frazeroj, *el-* eliziiĝas: *pro representar-los*.</small>
+
+<small>*el* estas uzebla kiel neŭtra persona pronomo en la **helpa registro**: ***El** niva.*</small>
+
+<small>La refleksiva pronomo estas *se*: *ello se move*. La poseda pronomo estas *su*: *le parentes e su infante*.</small>
+
+<!--s-->
+
 # …
 
 <!--v-->
 
 ## Tabelvortoj
+
+<!-- ecce ecco eccu -->
+
+<!--v-->
+
+<!-- qu- -->
+
+<!-- qua = qual -->
+<!-- quo = where (fru-klasika?) -->
+
+<!-- proque → pro que -->
+<!-- esque → es que -->
 
 <!-- qualunque qualque -->
 <!-- quia jam ekzistas kaj signifas "ĉar". konflikto. -->
@@ -1117,47 +1248,7 @@ Notes:
 <!-- cuje -->
 <!-- kolekti vortojn kun ali-, -un, -unque, -umque -->
 <!-- kies de kiu quia de qui; de kio quea de que -->
-<!-- ecce ecco eccu -->
-<!-- Fakte, eĉ en Lingua International oni prefere diru "ubi" anstataŭ "quo". Kiam diri "quo" do, kiam diri "a quo vade tu"? -->
 
-<!-- 
-LA
-illoc, illuc = tien
-illa = tie
-ille/illa/illud/illi/illae/illa (illo/illa/illo/illis/illis/illis) = li ŝi ĝi ili
-analogie "iste/..." (ille = tiu fora; iste = tiu via) kaj ankaŭ ipse
-hic/haec/hoc (hoc/hac/hoc)
-
--->
-
-<!--v-->
-
-|           | *ki-* | *ti-* | *ĉi-* | *neni-* |
-|-|-|-|-|-|
-| ***-u***  | qui   | esti | omni  | nilli   |
-| ***-o***  | que   | este <small>📜 iste</small> | omne  | nille   |
-| ***-a***  | qua   | esta <small>📜 ista</small> | omna  | nilla   |
-| ***-el*** | quo   | esto <small>📜 isto</small> | omno  | nillo   |
-| | | | | |
-
-<!-- qua = qual -->
-<!-- quo = where (fru-klasika?) -->
-<!-- isti = this = tiu = OK/iste -->
-<!-- "quo" kaj "isto" ŝajnas havi du vivojn, unu kiel adverbo (kie?), unu kiel substantivo (kio?) -->
-
-
-
-<!--v-->
-
-|           | *ĉi ti-* |
-|-|-|
-| ***-u***  | questi <small>📜 eccu-isti</small> |
-| ***-o***  | queste <small>📜 eccu-iste</small> |
-| ***-a***  | questa <small>📜 eccu-ista</small> |
-| ***-el*** | questo <small>📜 eccu-isto</small> |
-| | |
-
-<!--v-->
 
 |           | *i-*    | *i- ajn* | *ĉi- ajn* |
 |-|-|-|-|
@@ -1217,80 +1308,8 @@ Notes:
 
 | | |
 |-|-|
-| *neniu* | nilli <small>nemo, 🌎 nemo</small> |
-| | |
-
-<!--v-->
-
-| | |
-|-|-|
 | *kie*, *kien* | quo <small>ubi</small> |
 | | |
-
-<!--v-->
-
-## Pronomoj
-
-<!--v-->
-
-| | | | |
-|-|-|-|-|
-| *mi, min, mia* | eo <small>🌎 io</small> | me | mi <small>mia</small> |
-| *ci, cin, cia* | tu | te | tu <small>tua</small> |
-| | | | |
-| *ni, nin, nia* | nos | nos | nostre <small>nostra</small> |
-| *vi, vin, via* | vos | vos | vostre <small>vostra</small> |
-| | | | |
-
-<!--v-->
-
-| | |
-|-|-|
-| *li*  | elle <small>📜 ille, 🌎 ille</small> |
-| *ŝi*  | ella <small>📜 illa, 🌎 illa</small> |
-| *ĝi*  | ello <small>📜 illo, 🌎 illo</small> |
-| *ri*  | ellu <small>📜 illu</small> |
-| | |
-| *ili* | ell`*`s <small>📜 ill`*`s</small> |
-| | |
-| *`*`i* | elli <small>📜 illi</small> |
-| | |
-| *sin* | se |
-| | |
-
-<!--v-->
-
-| | |
-|-|-|
-| *lia*  | ellea, de-le, su <small>sua</small> |
-| | |
-| *ilia* | ell`*`ssa, de-l`*`s, su <small>loro, 🌎 lor</small> |
-| | |
-
-<small>*sua* havas multenombran formon: *suas*. Dume, *loro* ne havas multenombran formon.</small>
-
-<!--v-->
-
-| | |
-|-|-|
-| *mi donas al ili* | eo li da. <small>🌎 io da a ille/a/o-s.</small> |
-| | |
-| *mi donas ilin* | eo le/a/o-s da. <small>🌎 io le/a/o-s da.</small> |
-| | |
-
-<small>En akuzativo, *li* estas evitinda.</small>
-
-<!--v-->
-
-| | |
-|-|-|
-| *oni* | on |
-| | |
-| *-* | el <small>📜 il, 🌎 il, -</small> |
-| | |
-
-<small>**…**, la pronomo *el* ne uziĝas: *el pluve* <small>*pluve*</small></small>
-<!-- TODO -->
 
 <!--v-->
 
@@ -1300,7 +1319,7 @@ Notes:
 
 | | |
 |-|-|
-| *al en* | en |
+| *al en* | en <small>🌎 a in</small> |
 | | |
 | *alten* | en alto <small>🌎 in alto</small> |
 | *malalten* | en basso <small>🌎 a basso</small> |
