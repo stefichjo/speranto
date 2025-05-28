@@ -12,6 +12,10 @@ revealOptions:
 
 <!-- cd ~/Git/speranto/latinidaj; reveal-md ia.md -w -->
 
+<!-- de-le -->
+
+<!-- "le" ne uziĝas en la klasika stilo. -->
+
 <!-- celle → quelle -->
 
 | classiche | moderne |
@@ -1176,6 +1180,48 @@ Notes:
 <small>Analogie, *io*, *nenio* kaj *ĉio* ŝajnas tradukeblaj kiel *ullo*, *nullo* kaj *omno*, sed anstataŭe uziĝas *alique*, *nihil* kaj *tuto*. Por *neniu* en la senco de *neniu persono*, uziĝas *nemo*.</small>
 
 <!-- TODO nihil = nil? -->
+
+
+kiu qui [ki]? iste, ille
+kio que [ke]? iste, ille
+kia qual tal
+kies qua (loro)
+kiel quomo=como si
+kiom quanto tanto
+kiam quando "tando"=tunc/alora
+(ol kio quam "tam")
+kial quare "tare"=ergo
+kie(n) quo=ubi "to"=ibi
+
+que~qual
+
+-que ĉi-
+ubi-que ĉie
+quando-que=sempre ĉiam
+
+ali-c- i-
+ali-qui iu
+ali-c-ubi ie
+
+un- i- ajn
+un-qui
+
+-c-unque ĉi- ajn
+qui-c-unque ĉiu ajn
+qual-c-unque ĉia ajn
+ubi-c-unque ĉie ajn
+
+nulle = necun
+(ali-c-un)
+
+nunquam
+nunquando neniam
+
+unquam
+unquano iam ajn
+
+
+
 
 <!--s-->
 
