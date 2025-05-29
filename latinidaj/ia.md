@@ -999,21 +999,36 @@ Notes:
 
 | |
 |-|
-| **su** <small>🌎 su/lor</small> |
+| bisonio <small>🌎 besonio</small> |
 | |
-
-<small>La refleksiva pronomo *su* uziĝas kaj por ununombraj kaj por multenombraj posedantoj.</small>
 
 <!--v-->
 
 | |
 |-|
-| **bisonio** <small>🌎 besonio</small> |
+| a in alto <small>🌎 in alto</small> |
+| a in basso <small>🌎 a alto</small> |
 | |
 
 <!--s-->
 
 # Reformoj
+
+<!--v-->
+
+| |
+|-|
+| en <small>🌎 a in</small> |
+| |
+
+<!--v-->
+
+| |
+|-|
+| su <small>🌎 su/lor</small> |
+| |
+
+<small>La refleksiva pronomo *su* uziĝas kaj por ununombraj kaj por multenombraj posedantoj.</small>
 
 <!--v-->
 
@@ -1321,10 +1336,6 @@ Kiel persona pronomo, la **klasik-stila** *ille* respektive la **modern-stila** 
 
 # …
 
-<!--v-->
-
-## Tabelvortoj
-
 <!-- ecce ecco eccu -->
 
 <!--v-->
@@ -1343,30 +1354,6 @@ Kiel persona pronomo, la **klasik-stila** *ille* respektive la **modern-stila** 
 <!-- cuje -->
 <!-- kolekti vortojn kun ali-, -un, -unque, -umque -->
 <!-- kies de kiu quia de qui; de kio quea de que -->
-
-<!--v-->
-
-## Prepozicioj
-
-<!--v-->
-
-| | |
-|-|-|
-| *al en* | en <small>🌎 a in</small> |
-| | |
-| *alten* | en alto <small>🌎 in alto</small> |
-| *malalten* | en basso <small>🌎 a basso</small> |
-| | |
-
-<!--v-->
-
-| | |
-|-|-|
-| *al la(j)* | al   <small>âl  (âs)</small>  |
-| *de la(j)* | del  <small>dêl (dês)</small> |
-| | |
-
-<!--v-->
 
 ## Konjunkcioj
 
