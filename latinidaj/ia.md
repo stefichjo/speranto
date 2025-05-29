@@ -396,7 +396,10 @@ Notes:
 |-|-|
 | (capsa) | cassa |
 | | |
-| capsula | |
+
+| moderna | malfru-moderna |
+|-|-|
+| (au) | o |
 | | |
 
 <small>Nemalofte, la **malfru-moderna** formo povas anstataŭi la **modernan** formon, kiam ĝi estas sufiĉe internacia.</small>
@@ -1332,10 +1335,6 @@ Kiel persona pronomo, la **klasik-stila** *ille* respektive la **modern-stila** 
 
 <small>La refleksiva pronomo estas *se*: *ello se move*. La poseda pronomo estas *su*: *le parentes e su infante*.</small>
 
-<!--s-->
-
-# …
-
 <!-- ecce ecco eccu -->
 
 <!--v-->
@@ -1354,15 +1353,6 @@ Kiel persona pronomo, la **klasik-stila** *ille* respektive la **modern-stila** 
 <!-- cuje -->
 <!-- kolekti vortojn kun ali-, -un, -unque, -umque -->
 <!-- kies de kiu quia de qui; de kio quea de que -->
-
-## Konjunkcioj
-
-<!--v-->
-
-| | |
-|-|-|
-| *aŭ* | o <small>📜 au</small> |
-| | |
 
 <!--s-->
 
