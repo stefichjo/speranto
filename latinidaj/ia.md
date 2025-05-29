@@ -12,11 +12,21 @@ revealOptions:
 
 <!-- cd ~/Git/speranto/latinidaj; reveal-md ia.md -w -->
 
-<!-- de-le -->
+<!-- de-le = ties -->
 
 <!-- "le" ne uziĝas en la klasika stilo. -->
 
 <!-- celle → quelle -->
+
+<!-- qualcuno alcuno alco -->
+
+<!-- anglese = Anglish -->
+<!-- inglese = English -->
+
+<!-- compósite = componíte -->
+
+<!-- -essa → -esse [es] -->
+<!-- -age [aĵ] -->
 
 | classiche | moderne |
 |-|-|
@@ -291,7 +301,7 @@ Notes:
 |-|-|
 | ovo | uovo |
 | | |
-| eri | ieri |
+| heri | hieri |
 | | |
 
 <small>En **malfru-moderna stilo**, akcentataj (mallongaj) *o* kaj *e* (ofte) fariĝas *uo* kaj *ie*.</small>
@@ -847,7 +857,14 @@ Notes:
 <!-- anglese ≠ inglese -->
 
 <!--v-->
-
+<!-- 
+esser ser
+esseva era
+essera sera
+esseria seria
+essite site
+essente -sente
+ -->
 <!-- esseva era...? -->
 
 | klasika | moderna |
@@ -1034,7 +1051,7 @@ Notes:
 | quanto *[kŭanto]* |
 | |
 
-<small>Analogie, skribiĝas *ch* *[k]* antaŭ *e*, *i* kaj *y*, respektive *qu* *[k]* komence de vorto.</small>
+<small>Analogie, skribiĝas *ch* *[k]* antaŭ *e*, *i* kaj *y*, respektive *qu* *[k]* komence de vorto. En la **klasika stilo**, la prononcoj de *que* *[ke]* kaj *qui* *[ki]* estas *[kue']* kaj *[kui']*.</small>
 
 <!--v-->
 
@@ -1179,49 +1196,78 @@ Notes:
 
 <small>Analogie, *io*, *nenio* kaj *ĉio* ŝajnas tradukeblaj kiel *ullo*, *nullo* kaj *omno*, sed anstataŭe uziĝas *alique*, *nihil* kaj *tuto*. Por *neniu* en la senco de *neniu persono*, uziĝas *nemo*.</small>
 
-<!-- TODO nihil = nil? -->
+<!--v-->
 
+<small>La tabelvorta prefikso *alic*- uziĝas por formi tabelvorton tradukeblan per *i-*. Ĝi mallongiĝas al *ali*- antaŭ konsonanto: *ali-quo* (*ien*), *alic-ubi* (*ie*).</small>
 
-kiu qui [ki]? iste, ille
-kio que [ke]? iste, ille
-kia qual tal
-kies qua (loro)
-kiel quomo=como si
-kiom quanto tanto
-kiam quando "tando"=tunc/alora
-(ol kio quam "tam")
-kial quare "tare"=ergo
-kie(n) quo=ubi "to"=ibi
+<small>La **klasik-stila** formo de *quanto* kaj *quando* estas *quam*. La **klasik-stila** formo de *como* estas *quo-modo*.</small>
+
+<small>La tabelvorta sufikso *-unque* uziĝas por formi tabelvorton tradukeblan per *ki- ajn*. Antaŭ ĝi, ne-akcentata vokalo eliziiĝas: *ub-unque*. Ĝia **klasik-stila** formo estas *-cumque*.</small>
+
+<small>La tabelvorta sufikso *-que* uziĝas por formi tabelvorton tradukeblan per *kelk-* ~ *plur-* ~ *ĉ-*: *ubi-que* (*kelk-loke* ~ *plur-loke* ~ *ĉie*), *qual-que* (*kelk-specaj* ~ *plur-specaj* ~ *ĉiaj*)</small>
+
+<!--v-->
+
+| | | | | |
+|-|-|-|-|-|
+| *u*  | aliqui    | qui    | quiunque    | quique    |
+| *o*  | alique    | que    | queunque    | queque    |
+| *es* | aliqua    | qua    | quaunque    | quaque    |
+| *a*  | aliqual   | qual   | qualunque   | qualque   |
+| *el* | alicomo   | como   | comunque    | comoque   |
+| *om* | aliquanto | quanto | quantunque  | quantoque |
+| *am* | aliquando | quando | quandunque  | quandoque |
+| *al* | aliquare  | quare  | quarunque   | quareque  |
+| *en* | aliquo    | quo    | quounque    | quoque    |
+| *e*  | alicubi   | ubi    | ubunque     | ubique    |
+| | | | | |
+
+Notes:
+* aliqui = ali-qui, quiunque = qui-unque, quique = qui-que
+
+<!--v-->
+
+tiu/tio iste, ille
+ties loro?illorum?
+tia TAL
+tiel si
+tiom TANTO
+tiam tunc
+tial ergo
+tien ?
+tie ibi
 
 que~qual
 
--que ĉi-
 ubi-que ĉie
-quando-que=sempre ĉiam
 
-ali-c- i-
-ali-qui iu
-ali-c-ubi ie
+(ali-c-un, vd. necun)
 
 un- i- ajn
 un-qui
+(un-quam ol kio ajn)
+un-quando iam ajn
 
--c-unque ĉi- ajn
-qui-c-unque ĉiu ajn
-qual-c-unque ĉia ajn
-ubi-c-unque ĉie ajn
+n-un- neni-
+(n-un-quam ol nenio)
+n-un-quando neniam
 
 nulle = necun
 (ali-c-un)
 
-nunquam
-nunquando neniam
+ali-qui-un → alcun
+ali-quo → alco
 
-unquam
-unquano iam ajn
+ali-quot
+alic-unde
 
+qua (qua function?)
+=quam?
 
+cuje
 
+ali-ibi → alibi (ie alie)
+alter-ubi (ie alie)
 
 <!--s-->
 
@@ -1241,6 +1287,9 @@ unquano iam ajn
 <small>La **malfru-modern-stila** formo de *eo* estas *io*.</small>
 
 <small>La **malfru-modern-stilaj** formoj de *nostre* kaj *vostre* estas *nosse* kaj *vosse*.</small>
+
+<!-- TODO plej regule, do classique-auxiliar: eo = mi: mi me mi(e), tu te tu(e) -->
+<!-- (Ĉu mi (anstataŭ io/eo) povas esti en la sama registro/stilo kiel "nosse"?) -->
 
 <!--v-->
 
@@ -1295,68 +1344,6 @@ Kiel persona pronomo, la **klasik-stila** *ille* respektive la **modern-stila** 
 <!-- kolekti vortojn kun ali-, -un, -unque, -umque -->
 <!-- kies de kiu quia de qui; de kio quea de que -->
 
-
-|           | *i-*    | *i- ajn* | *ĉi- ajn* |
-|-|-|-|-|
-| ***-u***  | ali-qui | un-qui   | qui-unque |
-| ***-o***  | ali-que | un-que   | que-unque |
-| ***-a***  | ali-qua | un-qua   | qua-unque |
-| ***-el*** | ali-quo | un-quo   | quo-unque |
-| | | | |
-
-Notes:
-* ali-ubi → ali-bi = alibi
-
-<!--v-->
-
-| | *ki-* | *ti-* |
-|-|-|-|
-| ***-u*** | qui | esti <small>📜 isti</small> |
-| | | |
-| ***-u ...*** | qui <small>qual <small>quale</small></small> | esti <small>tal <small>tale</small>, 📜 isti</small> |
-| | | |
-
-<!--v-->
-
-| | *ki-* |
-|-|-|
-| ***-a*** | qua |
-| | |
-| ***-es*** | quia/quea |
-| | |
-
-<!--v-->
-
-| | *ki-* | *(ĉi) ti-* |
-|-|-|-|
-| ***-el*** | quo | esto |
-| | | |
-| ***-e***  | quo <small>ubi</small>    | esto <small>ibi</small>     |
-| ***-am*** | quo <small>quando</small> | esto <small>nunc</small>    |
-| ***-om*** | quo <small>quanto</small> | esto <small>tanto</small>   |
-| ***-al*** | quo <small>quare</small>  | esto <small>tare</small>  |
-| ***-el*** | quo <small>como</small>   | esto <small>sic</small>     |
-| | | |
-
-Notes:
-* ub-unque = ubunque, quom-unque = quomunque, qual-unque
-* como <small>📜 quomodo</small>
-
-<!--v-->
-
-| | *ki-* | *ĉi-* |
-|-|-|-|
-| ***-e***  | quo <small>ubi</small>    | omno <small>ubi-que, 🌎 ubique</small>             |
-| ***-am*** | quo <small>quando</small> | omno <small>quando-que <small>sempre</small>, 🌎 sempre</small> |
-| | | |
-
-<!--v-->
-
-| | |
-|-|-|
-| *kie*, *kien* | quo <small>ubi</small> |
-| | |
-
 <!--v-->
 
 ## Prepozicioj
@@ -1389,62 +1376,6 @@ Notes:
 |-|-|
 | *aŭ* | o <small>📜 au</small> |
 | | |
-
-<!--s-->
-
-## [Declaration Universal del Derectos Human](https://www.ohchr.org/en/human-rights/universal-declaration/translations/interlingua)
-
-<!--v-->
-
-**Preambulo**
-
-<!--v-->
-
-Considerante que le<small>-a</small> recognoscentia del dignitate inherente a tote<small>-as</small> le<small>-as</small> membros del familia human<small>-a</small> e de su<small>=loro</small> derectos equal<small>-es</small> e inalienabile<small>-s</small> constitue le<small>-a</small> fundamento del libertate, del justitia e del pace in le mundo,
-
-<!--v-->
-
-Considerante que le<small>-a</small> ignorantia e le<small>-a</small> disprecio<small>dispreço</small> del<small>=dês</small> derectos human<small>-as</small> ha<small>-n</small> resultate<small>-o</small> in actos de barbaria que ultraja<small>-n</small> le<small>-a</small> conscientia del humanitate, e que le<small>-a</small> advenimento de un<small>-a</small> mundo in le qual<small>-e</small> le<small>-as</small> seres human<small>-as</small> sera<small>-n</small> libere<small>-as</small> de parlar<small>-e</small> e de creder<small>-e</small>, liberate<small>-as</small> del terror<small>-e</small> e del miseria, ha<small>=ês</small> sito<small>-a</small> proclamate<small>-a</small> como le plus alte<small>-a</small> aspiration<small>-e</small> del homo,
-
-<!--v-->
-
-Considerante que es essential<small>-e</small> que le<small>-as</small> derectos human<small>-as</small> es<small>=sôn</small> protegite<small>=protectas</small> per medio de un<small>-a</small> regime de derecto, a fin<small>-e</small> que le<small>-a</small> homo non es<small>=sêa</small> compellite<small>=compulsa</small> al ultime recurso del rebellion<small>-e</small> contra le<small>-a</small> tyrannia e le<small>-a</small> oppression<small>-e</small>,
-
-<!--v-->
-
-Considerante que es essential<small>-e</small> promover<small>-e</small> le<small>-a</small> disvoluppamento de relationes amical<small>-es</small> inter le<small>-as</small> nationes,
-
-<!--v-->
-
-Considerante que in le Charta le<small>-as</small> populos del<small>=dês</small> Nationes Unite<small>-as</small> ha<small>-n</small> reaffirmate<small>-o</small> su<small>=loro</small> fide in le<small>=nês</small> derectos human<small>-as</small> fundamental<small>-es</small>, in le dignitate e in le valor<small>-e</small> del persona human<small>-a</small>, in le equalitate del<small>=dês</small> homos e del<small>=dês</small> feminas, e que illos se ha<small>-n</small> declarate<small>-o</small> resolute<small>-as</small> a promover<small>-e</small> le<small>-a</small> progresso social<small>-e</small> e a instaurar<small>-e</small> melior<small>-es</small> conditiones de vita in un<small>-a</small> libertate plus grande,
-
-<!--v-->
-
-Considerante que le<small>-as</small> Statos Membros ha<small>-n</small> promittite<small>=promisso</small> de assecurar<small>-e</small>, in cooperation<small>-e</small> con le<small>-a</small> Organisation<small>-e</small> del<small>=dês</small> Nationes Unite<small>-as</small>, le<small>-a</small> respecto universal<small>-e</small> e effective<small>-a</small> al<small>=âs</small> derectos human<small>-as</small> e libertates fundamental<small>-es</small>,
-
-<!--v-->
-
-Considerante que un<small>-a</small> conception<small>-e</small> de este<small>-as</small> derectos e libertates es del plus grande importantia pro le<small>-a</small> plena realization<small>-e</small> de este<small>-a</small> promissa,
-
-<!--v-->
-
-Le<small>-a</small> Assemblea General<small>-e</small>
-
-<!--v-->
-
-Proclama le<small>-a</small> presente Declaration<small>-e</small> Universal<small>-e</small> del<small>=dês</small> Derectos Human<small>-as</small> como le<small>-a</small> ideal<small>-e</small> commun<small>-e</small> a attinger<small>-e</small> per tote<small>-as</small> le<small>-as</small> populos e nationes, a fin<small>-e</small> que tote<small>-as</small> le<small>-as</small> individuos e tote<small>-as</small> le<small>-as</small> organos del societate, havente este<small>-a</small> Declaration<small>-e</small> constantemente in mente, se effortia<small>=efforcen</small>, per le<small>-a</small> insignamento e per le<small>-a</small> education<small>-e</small>,
-
-<!--v-->
-
-a disvoluppar<small>-e</small> le<small>-a</small> respecto a este<small>-as</small> derectos e libertates e a promover<small>-e</small>, per mesuras progressive<small>-as</small> de charactere national<small>-e</small> e international<small>-e</small>, su<small>=loro</small> recognoscentia e su<small>=loro</small> application<small>-e</small> universal<small>-e</small> e effective<small>-a</small> tanto inter le<small>-as</small> populos del<small>=dês</small> Statos Membros mesme<small>-as</small> como inter estos del<small>=dês</small> territorios sub su<small>=loro</small> jurisdiction<small>-e</small>.
-
-<!--v-->
-
-**Articulo 1**
-
-<!--v-->
-
-Tote<small>-as</small> le<small>-as</small> seres human<small>-as</small> nasce<small>-n</small> libere<small>-as</small> e equal<small>-es</small> in dignitate e in derectos. Elles es<small>=sôn</small> dotate<small>-as</small> de ration<small>-e</small> e de conscientia e debe<small>-n</small> ager<small>-e</small> le<small>-as</small> unes<small>-as</small> verso le<small>-as</small> alteres<small>-as</small> in un<small>-a</small> spirito de fraternitate.
 
 <!--s-->
 
