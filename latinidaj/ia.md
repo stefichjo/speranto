@@ -12,6 +12,12 @@ revealOptions:
 
 <!-- cd ~/Git/speranto/latinidaj; reveal-md ia.md -w -->
 
+<!-- ego eo io -->
+<!-- nostre/vostre nosse/vosse -->
+
+<!-- surprendite-les, io ... -->
+<!-- io les ha surprendite. -->
+
 <!-- de-le = ties -->
 
 <!-- "le" ne uziĝas en la klasika stilo. -->
@@ -27,6 +33,7 @@ revealOptions:
 
 <!-- -essa → -esse [es] -->
 <!-- -age [aĵ] -->
+<!-- menu [u] ≠ [y] -->
 
 | classiche | moderne |
 |-|-|
