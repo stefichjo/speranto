@@ -12,6 +12,8 @@ revealOptions:
 
 <!-- cd ~/Git/speranto/latinidaj; reveal-md ia.md -w -->
 
+<!-- viaĵ' viaĵes: viage viages (franc-devena sufikso) -->
+
 <!-- large larghe lunge lunghe - klasika stilo -->
 
 <!-- 
@@ -138,18 +140,19 @@ stilo: classiche ~ moderne
 
 <small>En **Tradicia Interlingvao**, tiaj stiloj kunekzistas. La klasik-stila prononco de **Lingua International** baziĝas sur la plej konservativa prononco de **Tradicia Interlingua**, dum la modern-stila prononco baziĝas sur la tiel nomata "kroma" (*collateral*) prononco de **Tradicia Interlingvao**.</small>
  -->
+
 <!--s-->
 
-# Stiloj
+# Prononco
 
 <!--v-->
 
-## Moderna Stilo
+## Konservema kaj Progresema Prononcoj
 
 <!--v-->
 
-| | klasika | moderna |
-|-|-|-|
+| | conservative | progressive |
+|-|-:|:-|
 | aqua | *[aku-a]* | *[akŭa]* |
 | | | |
 | radio | *[radi-o]* | *[radjo]* |
@@ -161,8 +164,35 @@ Notes:
 
 <!--v-->
 
-| | klasika | moderna |
-|-|-|-|
+| | conservative | progressive |
+|-|-:|:-|
+| justo | *[justo]* | *[ĵusto]* |
+| | | |
+| gente | *[gente]* | *[ĵente]* |
+| | | |
+
+<small>Alternativa prononco de *[ĵ]* estas *[ĝ]*. Do, anstataŭ *[ĵusto]* eblas ankaŭ *[ĝusto]*. Miksi tiujn du prononcojn ŝajnas evitinde.</small>
+
+<small>La kroma prononco de *g* kiel *[ĵ]* ne estas oficiala.</small>
+
+<!-- TODO Kio okazas, kiam "d" kaj "j" kunmetiĝas kiel en "adjectivo"? En progresemega prononco, ili certe kunasimiliĝas al *[ĵ]* (aŭ alternative: *[ĝ]*). -->
+
+<!--v-->
+
+| | conservative | progressive |
+|-|-:|:-|
+| privilegio | *[privilegi-o]* | *[privileĵo]* |
+| | | |
+| viage | *[viati-ko]* | *[viaĵ']* <small>🌎 *[viaĵe]*</small> |
+| | | |
+
+Notes:
+* horologio, litigio, prestigio, privilegio, prodigio
+
+<!--v-->
+
+| | conservative | progressive |
+|-|-:|:-|
 | fungo | *[fungo]* | *[fuŋgo]* |
 | | | |
 | signo | *[signo]* | *[sinjo]* |
@@ -172,47 +202,208 @@ Notes:
 
 <!--v-->
 
-| | klasika | moderna |
-|-|-|-|
+| | conservative | progressive |
+|-|-:|:-|
 | massa | *[massa]* | *[masa]* |
 | | | |
 | rosa | *[rosa]* | *[roza]* |
 | | | |
 | texto | *[teksto]* | *[testo]* |
 | | | |
-| gente | *[gente]* | *[ĵente]* |
+| exemplo | *[egzemplo]* | *[ezemplo]* |
 | | | |
 
-<!--v-->
-
-## Klasika Stilo
+<small>La kroma prononco de *x* kiel *[s]* respektive *[z]* ne estas oficiala.</small>
 
 <!--v-->
 
-| klasika | moderna |
-|-|-|
-| sole | sol |
-| | |
-| pane | pan |
-| | |
-| mare | mar |
+| |
+|-|
+| spatio |
+| |
+
+| conservative | progressive |
+|-:|:-|
+| *[spaci-o]* | *[spasjo]* |
 | | |
 
-<small>En **klasika stilo**, la -*e* malantaŭ *l*, *n* kaj *r* malantaŭ akcentata vokalo ne eliziiĝas.</small>
+| conservativissime | progressivissime |
+|-:|:-|
+| *[spati-o]* | *[espaso]* |
+| | |
+
+<small>Nemalofte necesas konsideri konservemegajn kaj progresemegajn formojn. Ili ne estas oficialaj.</small>
+
+Notes:
+* gratia, spatio
+* centro: *[kentro]* ~ *[centro]*
+  * glacie, indicio, officio, socio, specie
+* justo: *[iusto]* ~ *[justo*]
+  * justo, majo, major, pejo, pejor
+* prematur: *[praematur']* ~ *[prematur']*
 
 <!--v-->
 
-| klasika | moderna |
+## Progresemega Prononco
+
+<!--v-->
+
+| | progressive | progressivissime |
+|-|-|-|
+| sperantia | *[speransja]* | *[esperansja]* |
+| | | |
+| station | *[stasjon']* | *[estasjon']* |
+| | | |
+
+<small>En **progresemega prononco**, radikokomencaj *sp* kaj *st* prononciĝas *[esp]* kaj *[est]*.</small>
+
+<!--v-->
+
+| | progressive | progressivissime |
+|-|-|-|
+| dextere | *[deste-re]* | *[destre]* |
+| | | |
+| offerer | *[oferer']* | *[ofrer']* |
+| | | |
+| prender | *[prender']* | *[prendr']* |
+| | | |
+
+<small>En **progresemega prononco**, la antaŭlasta vokalo eliziiĝas laŭeble.</small>
+
+<!-- TODO Ĉu nur *e* en *er* eliziiĝas? -->
+
+<!--v-->
+
+| | progressive | progressivissime |
+|-|-|-|
+| mundo | *[mundo]* | *[mondo]* |
+| | | |
+| littera | *[litera]* | *[letra]* |
+| | | |
+
+<small>Akcentataj (mallongaj) *u* kaj *i* (ofte) prononciĝas *[o]* kaj *[e]*.</small>
+
+| | progressive | progressivissime |
+|-|-|-|
+| ovo | *[ovo]* | *[ŭovo]* |
+| | | |
+| heri | *[eri]* | *[jeri]* |
+| | | |
+
+<small>Samtempe, akcentataj (mallongaj) *o* kaj *e* (ofte) prononciĝas *[ŭo]* kaj *[je]*.</small>
+
+<!--v-->
+
+| | progressive | progressivissime |
+|-|-|-|
+| altere | *[alte-re]* | *[aŭtre]* |
+| | | |
+| pauco | *[paŭko]* | *[poko]* |
+| | | |
+| aere | *[ae-re]* | *[ajre]* |
+| | | |
+| traino | *[trajno]* | *[treno]* |
+| | | |
+
+<small>*al*, *au*, *ae*, *ai* prononciĝas *[aŭ]*, *[o]*, *[aj]*, *[e]*.</small>
+
+<!-- | pauco <small>🌎 pauco/poco</small> | poco | -->
+
+<!--v-->
+
+| | progressive | progressivissime |
+|-|-|-|
+| aperir | *[aperir]* | *[abrir]* |
+| vita | *[vita]* | *[vida]* |
+| aco | *[aco]* | *[ago]* |
+| | | |
+| ubi | *[ubi]* | *[uvi]* |
+| crede | *[krede]* | *[kree]* |
+| lege | *[leĵe]* | *[leje]* |
+| | | |
+
+<small>*p*, *t*, *c* malantaŭ la akcentata vokalo (ofte) prononciĝas *[b]*, *[d]*, *[g]*. Analogie, *b*, *d*, *g* prononciĝas *[v]*, *[-]*, *[j]*.</small>
+
+<!-- TODO kial "poco" ne fariĝas "pogo"? -->
+
+Notes:
+* sapie, sabje = saje
+* cata, data, tote, strata, rota, vita
+
+<!--s-->
+
+# Elizio
+
+<small>La ŝtupoj de **elizio** estas paralelaj al tiuj de la **prononco**: **konservem(eg)a** kaj **progresem(eg)a**. En **poezio**, eblas uzi eliziojn pli libere.</small>
+
+<!--v-->
+
+| | conservative | progressive |
+|-|-:|:-|
+| sol | *[sole]* | *[sol]* |
+| | | |
+| pan | *[pane]* | *[pan]* |
+| | | |
+| mar | *[mare]* | *[mar]* |
+| | | |
+
+<small>Kun **progresema elizio**, la finaĵo -*e* malantaŭ *l*, *n* kaj *r* malantaŭ akcentata vokalo eliziiĝas.</small>
+
+<!--v-->
+
+| conservative/progressive |
+|-|
+| ansere *[anse-re]* |
+| |
+
+<small>Tial la finaĵo -*e* ne eliziiĝas malantaŭ ne-akcentata vokalo.</small>
+
+<!--v-->
+
+| conservative | progressive |
 |-|-|
 | prendere *[prende-re]* | prender *[prender']* |
 | | |
+
+<small>Tamen, kun **progresema elizio**, la finaĵo -*e* eliziiĝas en ĉiuj infinitivoj inkluzive tiuj, kiuj finiĝas per ne-akcentata -*ere*.</small>
+
+<!--v-->
+
+| conservativissime | conservative |
+|-|-|
+| prehendere *[prehende-re]* | prendere *[prende-re]* |
+| | |
+
+<!--v-->
+
+| | progressive | progressivissime |
+|-|-:|:-|
+| luce | *[luse]* | *[lus]* |
+| | | |
+| pede | *[pede]* | *[pe]* |
+| | | |
+| mense | *[meze]* | *[mes]* |
+| | | |
+| rete | *[rete]* | *[red]* |
+| | | |
+
+<!-- | mese <small>🌎 mense</small> | més | -->
+
+<small>La finaĵo -*e* eliziiĝas ne nur malantaŭ *l*, *n* kaj *r*, sed ankaŭ malantaŭ *c*, *d*, *s* kaj *t*.</small>
+
+Notes:
+* rete, site
+* fide, pede
+
+<!-- | magiche | magic | -->
+
+<!-- 
 | prense *[prense]* | prendite *[prendite]* |
 | | |
 
 <small>En la **klasika stilo**, multaj verboj havas infinitivon kun ne-akcentata -*ere*. Tiuj verboj havas malregulan participon. Tia malregula participo estas uzebla en la **moderna stilo** kiel *malneologismo*.</small>
-
-<!--v-->
-
+ -->
+<!-- 
 | klasika | moderna |
 |-|-|
 | sentire *[sentire]* | sentir *[sentir']* |
@@ -221,58 +412,235 @@ Notes:
 | | |
 
 <small>Aldone, estas kelkaj verboj je -*ire*, kiuj havas malregulan participon.</small>
+ -->
 
-<!--v-->
-
-## Fru-Klasika Stilo
-
-<!--v-->
-
-| | fru-klasika | klasika | moderna |
-|-|-|-|-|
-| spatio | *[spati-o]* | *[spaci-o]* | *[spasjo]* |
-| | | | |
-
-Notes:
-* gratia, spatio
-
-<!--v-->
-
-| | fru-klasika | klasika | moderna |
-|-|-|-|-|
-| centro | *[kentro]* | *[centro]* | *[sentro]* |
-| glacie | *[glaki-e]* | *[glaci-e]* | *[glasje]* |
-| | | | |
-
-Notes:
-* glacie, indicio, officio, socio, specie
-
-<!--v-->
-
-| | fru-klasika | klasika | moderna |
-|-|-|-|-|
-| prestigio | *[praestigi-o]* | *[prestigi-o]* | *[prestiĵo]* |
-| | | | |
-| justo | *[iusto]* | *[justo]* | *[ĵusto]* |
-| pejo | *[pei-o]* | *[pejo]* | *[peĵo]* |
-| | | | |
-
-<small>La gramatiko de **Tradicia Interlingvao** malhavas priskribon pri "kroma" (*collateral*) prononco de *g*. Ĝi tamen priskribas ke *j* estas prononcebla (ankaŭ) kiel *[ĵ]*. Notindas, ke tiuj prononcoj paralelas tiujn de *g* antaŭ *e*, *i* kaj *y* en la fontaj lingvoj. Konkludeblas do, ke tia priskribo, t.e. ke *g* estas prononcebla ankaŭ kiel *[ĵ]*, simple mankas en la gramatiko de **Tradicia Interlingvao**.</small>
-
-Notes:
-* Kiam menciiĝas la prononco *[ĵ]*, impliciĝas ankaŭ la varianto *[ĝ]*.
-* arangiar, naufragio, prestigio
-* gratia, spatio
-* majo, major, pejo
-
-<!--v-->
-
+<!-- 
 | fru-klasika | klasika |
 |-|-|
 | ɪᴠsᴛᴏ | justo |
 | | |
 | ᴘʀᴇʜᴇɴᴅᴇʀᴇ | prendere |
 | | |
+ -->
+
+<!--s-->
+
+# Ortografio
+
+<!-- etymologiche: spatio -->
+  <!-- diacritiche: spatĭo, ŝpaço -->
+<!-- phonetiche: spasjo, espaso -->
+
+<!--v-->
+
+## Etimologia kaj Fonetika Ortografioj
+
+<!--v-->
+
+### Diakrita Ortografio
+
+<!--v-->
+
+| etymologiche | diacritiche | phonetiche |
+|-|-|-|
+| musica | musĭca | muzi-ka |
+| | | |
+| guitarra | gŭitarra | gitara |
+| | | |
+| orthographia | orthographīa | ortografia |
+| | | |
+| China | Çhina | Shina |
+| | | |
+
+<!--v-->
+
+| etymologiche | diacritiche | phonetiche |
+|-|-|-|
+| diurnal | dĭůrnal | ĵornal' |
+| | | |
+
+<small>Per konvencio, ankaŭ la fonetika ortografio povas havi diakritojn, kiel en **Esperanto**.</small>
+
+<!--v-->
+
+| etymologiche | diacritiche | phonetiche |
+|-|-|-|
+| balneo | bânio <small>bal̯nėo</small> | banjo |
+| | | |
+| mense | mêse <small>men̆se</small> | meze |
+| | | |
+| tragino | trâino <small>trağino</small> | trajno |
+| | | |
+
+<!--v-->
+
+| etymologiche | diacritiche | phonetiche |
+|-|-|-|
+| pretio | preço <small>precio <small>pretĭo</small></small> | preso <small>presjo</small> |
+| | | |
+| platea | plaça <small>placėa <small>platĕa</small></small> | plasa <small>plasja</small> |
+| | | |
+
+<!--v-->
+
+| etymologiche | diacritiche | phonetiche |
+|-|-|-|
+| luce | luz = luç <small>lucĕ</small> | lus |
+| | | |
+| -atico | -ajo = -âjo <small>-at̯jğo</small> | -aĵo |
+| | | |
+| -itia | -essa = -ïça <small>-ïcia <small>-ïtĭa</small></small> | -esa <small>-esja</small> |
+| | | |
+
+<small>Per konvencio, la diakrita ortografio povas esti skribita per alternativaj literoj, kiuj evitas diakritojn.</small>
+
+<!--v-->
+
+## Klasikismoj
+
+<!-- i.e. id es (latinaĵo, cetere) -->
+<!-- | *maniero* | manera <small>📜 manuaria, 🌎 maniera</small> | -->
+<!-- espaventar -->
+<!-- ġ: exaġiar/exağiar essayar (exagium) -->
+<!-- lancear approchar approximar -->
+<!-- insimul → insimule? -->
+<!-- anglese ≠ inglese -->
+
+<!--v-->
+<!-- 
+esser ser
+esseva era
+essera sera
+esseria seria
+essite site
+essente -sente
+ -->
+<!-- esseva era...? -->
+
+| klasika | moderna |
+|-|-|
+| habe | ha |
+| | |
+| prime | unesime |
+| | |
+
+<!--s-->
+
+# Akĉentoj
+
+<!--v-->
+
+### Moderna Akĉento
+
+<!--v-->
+
+| klasika | moderna | moderna akĉento |
+|-|-|-|
+| legere *[lege-re]* | leger *[leĵer']* | legere *[leĵe-re]* |
+| | | |
+
+<!--v-->
+
+### Klasika Akĉento
+
+<!--v-->
+
+| klasika | moderna | klasika akĉento |
+|-|-|-|
+| legere *[lege-re]* | leger *[leĵer']* | leger *[leger']* |
+| | | |
+
+<small>La **moderna stilo** kun **klasik-stila** prononco similas al konservativa **Tradicia Interlingvao**. Ĝi rekomendindas **tra bruo**.</small>
+
+<!--v-->
+
+### Malfru-Moderna Akĉento
+
+<small>Kelkaj prononcaj trajtoj de la **malfru-moderna stilo** estas akcepteblaj/bonvenaj en la **moderna stilo**.</small>
+
+<!--v-->
+
+| malfru-moderna akĉento |
+|-|
+| strata *[strata]* ~ ***[strada]*** |
+| |
+| felicitate *[felisitate]* ~ ***[felisitad']*** |
+| |
+| virtute *[virtute]* ~ ***[virtud']*** |
+| |
+
+<small>Post unusilabaj radikoj, kiuj finiĝas per -*t*, kaj ĉe akcentataj substantivaj sufiksoj je -*te* la **malfru-modern-stila** prononco *[d]* estas bonvena en la **moderna stilo**.</small>
+
+Notes:
+* cata, tote, strata, rota, vita
+
+<!--v-->
+
+| |
+|-|
+| data *[data]* |
+| |
+| pote *[pote]* |
+| |
+
+<small>Ĉe verboj, la prononco *[t]* estas konservata.</small>
+
+<!--v-->
+
+| malfru-moderna akĉento |
+|-|
+| biber   ~ ***[biver]*** |
+| deber   ~ ***[dever']***   |
+| dubitar ~ ***[duvitar']*** |
+| haber   ~ ***[aver']***   |
+| laborar ~ ***[lavorar']*** |
+| probar  ~ ***[provar']***  |
+| scriber ~ ***[scriver']*** |
+| |
+
+<small>La **malfru-moderna-stila** prononco *[v]* de postvokala *b* estas bonvena en la **moderna stilo** en origine verbaj radikoj.</small>
+
+Notes:
+* bibita *[bibi-ta]*
+* labor *[labor']* <small>labore *[labore]*</small> `?`
+
+<!-- TODO habitar -->
+
+<!--v-->
+
+| malfru-moderna akĉento |
+|-|
+| altere *[alte-re]* ~ ***[altre]*** ~ *[aŭtre]* |
+| |
+| dubitar *[dubitar']* ~ ***[duvitar']*** ~ *[duvidar']* |
+| |
+| rubie *[rubje]* ~ ***[ruvje]*** ~ *[ruĵe]* |
+| |
+| strata *[strata]* ~ ***[strada]*** ~ *[estrada]* |
+| |
+| felicitate *[felisitate]* ~ ***[felisitad']*** ~ *[felisidad']* |
+| |
+
+<small>Ne ĉiuj prononcaj trajtoj de la **malfru-moderna stilo** estas bonvenaj en la **moderna stilo**.</small>
+
+<!--v-->
+
+| klasika | malfru-moderna akĉento |
+|-|-|
+| gratia *[graci-a]* | gratia ***[grasja]*** ~ *[grasa]* |
+| | |
+| pretio *[preci-o]* | precio *[presjo]* ~ ***[preso]*** |
+| | |
+
+<small>Kiam la **malfru-modern-stila** prononco *[s]* de **fru-klasik-stila** *[ti]* estas bonvena en la **moderna stilo**, ĝi skribiĝas *ci*.</small>
+
+Notes:
+* financia, placia, precio, pronunciar
+
+<!--s-->
+
+# Stilo
+*(Neologismoj ktp.)*
 
 <!--v-->
 
@@ -280,19 +648,7 @@ Notes:
 
 <small>Formoj el la **malfru-moderna stilo** povas roli kiel neologismoj en la **moderna stilo** aŭ povas esti la preferata formo, se ĉiuj fontolingvoj sekvas la saman stilon.</small>
 
-<!--v-->
-
-| moderna | malfru-moderna |
-|-|-|
-| dextere | dextre |
-| | |
-| offerer | offrer |
-| | |
-
-<small>En **malfru-moderna stilo**, la vokalo de la antaŭlasta vokalo eliziiĝas laŭeble, se ĝi ne estas akcentata.</small>
-
-<!--v-->
-
+<!-- 
 | moderna | malfru-moderna |
 |-|-|
 | obstaculo | obstachio |
@@ -301,91 +657,7 @@ Notes:
 | | |
 
 <small>Kiam -*ŭl*- fariĝas malfacile prononcebla *l*, ĝi fariĝas *i*.</small>
-
-<!--v-->
-
-| moderna | malfru-moderna |
-|-|-|
-| mundo | mondo |
-| | |
-| littera | lettra |
-| | |
-
-<small>En **malfru-moderna stilo**, akcentataj (mallongaj) *u* kaj *i* (ofte) fariĝas *o* kaj *e*.</small>
-
-<!--v-->
-
-| moderna | malfru-moderna |
-|-|-|
-| ovo | uovo |
-| | |
-| heri | hieri |
-| | |
-
-<small>En **malfru-moderna stilo**, akcentataj (mallongaj) *o* kaj *e* (ofte) fariĝas *uo* kaj *ie*.</small>
-
-<!--v-->
-
-| moderna | malfru-moderna |
-|-|-|
-| altere | autre |
-| | |
-| pauco <small>🌎 pauco/poco</small> | poco |
-| | |
-| aere <small>🌎 aer(e)</small> | aire |
-| | |
-| traino | treno |
-| | |
-
-<small>*al*, *au*, *ae*, *ai* fariĝas *au*, *o*, *ai*, *e*.</small>
-
-<!--v-->
-
-| moderna | malfru-moderna |
-|-|-|
-| star | estar |
-| | |
-
-<small>Radikokomence, *sp* kaj *st* fariĝas *esp* kaj *est*.</small>
-
-<!--v-->
-
-| moderna | malfru-moderna |
-|-|-|
-| aperir | abrir |
-| vita   | vida |
-| aco    | ago |
-| | |
-| ubi    | uvi |
-| creder | creer |
-| leger  | leier |
-| | |
-
-<small>En **malfru-moderna stilo**, *p*, *t*, *c* malantaŭ la akcentata vokalo voĉiĝas *b*, *d*, *g*. Analogie, *b*, *d*, *g* fariĝas *v*, *-*, *i*.</small>
-
-Notes:
-* sapie, sabje = saje
-* cata, data, tote, strata, rota, vita
-
-<!--v-->
-
-| moderna | poezie |
-|-|-|
-| mese | més |
-| | |
-
-<small>**En poezio**, la finaĵo -*e* estas eliziebla samkiel en la **malfru-moderna stilo**.</small>
-
-<!--v-->
-
-| malfru-moderna | poezie |
-|-|-|
-| porta | port |
-| | |
-| magiche | magic |
-| | |
-
-<small>**En poezio**, ĉia finaĵo estas eliziebla en la **malfru-moderna stilo**.</small>
+ -->
 
 <!--v-->
 
@@ -504,256 +776,6 @@ Notes:
 | |
 
 <small>La formoj de *hospites* kaj *limite* estas senŝanĝaj. Ilia latinlingva nominativo finiĝas per -*es*.</small>
-
-<!--v-->
-
-### Elizio
-
-<!--v-->
-
-| moderna | malfru-moderna |
-|-|-|
-| luce | luz |
-| | |
-| pede | pe |
-| | |
-| mese <small>🌎 mense</small> | més |
-| | |
-| rete | red |
-| | |
-
-<small>En **malfru-moderna stilo**, la -*e* malantaŭ *c*, *d*, *s* kaj *t* eliziiĝas malantaŭ akcentata silabo. (Alivorte, ĉar -*e* eliziiĝas jam en la **moderna stilo** malantaŭ *l*, *n* kaj *r*, oni povas simple diri, ke -*e* eliziiĝas malantaŭ dentala konsonanto malantaŭ akcentata silabo.) Tiam *c* skribiĝas *z*, *d* eliziiĝas, la vokalo antaŭ *s* portas hokon (por eviti konfuzon kun multenombraj formoj), kaj *t* fariĝas *d*.</small>
-
-Notes:
-* rete, site
-* fide, pede
-
-<!--s-->
-
-# Ortografio
-
-<!--v-->
-
-## Vortara Skribo
-
-<!--v-->
-
-| |
-|-|
-| **musĭca** = musica |
-| |
-| **gŭitarra** = guitarra |
-| |
-| **orthographīa** = orthographia |
-| |
-| **çhinese** = chinese |
-| |
-
-<!--v-->
-
-| |
-|-|
-| **dĭůrnal** = jornal *[ĵornal]* |
-| |
-
-<!--v-->
-
-| |
-|-|
-| **bânio** <small>balneo</small> = banio |
-| |
-| **mêse** <small>men̆se</small> = mese |
-| |
-| **trâino** <small>trağino</small> = traino |
-| |
-
-<!--v-->
-
-| |
-|-|
-| **plaça** <small>platĭa</small> = placia *[plasa]* |
-| |
-| **preço** <small>pretĭo</small> = precio *[preso]* |
-| |
-
-<!--v-->
-
-| |
-|-|
-| **-ïça** <small>-ïtĭa</small> = -essa *[esa]* |
-| |
-
-<small>Anstataŭ -*ecia* skribiĝas -*essa* por eviti la prononcon *[esja]* en klasikisma prononco.</small>
-
-<!--v-->
-
-| |
-|-|
-| **luç** <small>lucĕ</small> = luz *[lus]* |
-| |
-
-<!--v-->
-
-## Fonetika Skribo
-
-<!--v-->
-
-| |
-|-|
-| orthographia = *ortografia* |
-| |
-
-<!--v-->
-
-## Klasikismoj
-
-<!-- i.e. id es (latinaĵo, cetere) -->
-<!-- | *maniero* | manera <small>📜 manuaria, 🌎 maniera</small> | -->
-<!-- espaventar -->
-<!-- ġ: exaġiar/exağiar essayar (exagium) -->
-<!-- lancear approchar approximar -->
-<!-- insimul → insimule? -->
-<!-- anglese ≠ inglese -->
-
-<!--v-->
-<!-- 
-esser ser
-esseva era
-essera sera
-esseria seria
-essite site
-essente -sente
- -->
-<!-- esseva era...? -->
-
-| klasika | moderna |
-|-|-|
-| habe | ha |
-| | |
-| prime | unesime |
-| | |
-
-<!--v-->
-
-| klasika | moderna | klasikisma |
-|-|-|-|
-| pretio | **preço** = precio *[preso]* | *[presjo]* |
-| | | |
-
-<small>La klasikisma prononco de klasika *ti* en la **moderna stilo** estas ĉiam *[sj]*, ankaŭ kiam *ti* fariĝis *ci* en la **moderna stilo**, ĉi kiam *ci* prononciĝas *[s]*. (Vortara skribo: **ç**.)</small>
-
-<!--s-->
-
-# Akĉentoj
-
-<!--v-->
-
-### Moderna Akĉento
-
-<!--v-->
-
-| klasika | moderna | moderna akĉento |
-|-|-|-|
-| legere *[lege-re]* | leger *[leĵer']* | legere *[leĵe-re]* |
-| | | |
-
-<!--v-->
-
-### Klasika Akĉento
-
-<!--v-->
-
-| klasika | moderna | klasika akĉento |
-|-|-|-|
-| legere *[lege-re]* | leger *[leĵer']* | leger *[leger']* |
-| | | |
-
-<small>La **moderna stilo** kun **klasik-stila** prononco similas al konservativa **Tradicia Interlingvao**. Ĝi rekomendindas **tra bruo**.</small>
-
-<!--v-->
-
-### Malfru-Moderna Akĉento
-
-<small>Kelkaj prononcaj trajtoj de la **malfru-moderna stilo** estas akcepteblaj/bonvenaj en la **moderna stilo**.</small>
-
-<!--v-->
-
-| malfru-moderna akĉento |
-|-|
-| strata *[strata]* ~ ***[strada]*** |
-| |
-| felicitate *[felisitate]* ~ ***[felisitad']*** |
-| |
-| virtute *[virtute]* ~ ***[virtud']*** |
-| |
-
-<small>Post unusilabaj radikoj, kiuj finiĝas per -*t*, kaj ĉe akcentataj substantivaj sufiksoj je -*te* la **malfru-modern-stila** prononco *[d]* estas bonvena en la **moderna stilo**.</small>
-
-Notes:
-* cata, tote, strata, rota, vita
-
-<!--v-->
-
-| |
-|-|
-| data *[data]* |
-| |
-| pote *[pote]* |
-| |
-
-<small>Ĉe verboj, la prononco *[t]* estas konservata.</small>
-
-<!--v-->
-
-| malfru-moderna akĉento |
-|-|
-| biber   ~ ***[biver]*** |
-| deber   ~ ***[dever']***   |
-| dubitar ~ ***[duvitar']*** |
-| haber   ~ ***[aver']***   |
-| laborar ~ ***[lavorar']*** |
-| probar  ~ ***[provar']***  |
-| scriber ~ ***[scriver']*** |
-| |
-
-<small>La **malfru-moderna-stila** prononco *[v]* de postvokala *b* estas bonvena en la **moderna stilo** en origine verbaj radikoj.</small>
-
-Notes:
-* bibita *[bibi-ta]*
-* labor *[labor']* <small>labore *[labore]*</small> `?`
-
-<!-- TODO habitar -->
-
-<!--v-->
-
-| malfru-moderna akĉento |
-|-|
-| altere *[alte-re]* ~ ***[altre]*** ~ *[aŭtre]* |
-| |
-| dubitar *[dubitar']* ~ ***[duvitar']*** ~ *[duvidar']* |
-| |
-| rubie *[rubje]* ~ ***[ruvje]*** ~ *[ruĵe]* |
-| |
-| strata *[strata]* ~ ***[strada]*** ~ *[estrada]* |
-| |
-| felicitate *[felisitate]* ~ ***[felisitad']*** ~ *[felisidad']* |
-| |
-
-<small>Ne ĉiuj prononcaj trajtoj de la **malfru-moderna stilo** estas bonvenaj en la **moderna stilo**.</small>
-
-<!--v-->
-
-| klasika | malfru-moderna akĉento |
-|-|-|
-| gratia *[graci-a]* | gratia ***[grasja]*** ~ *[grasa]* |
-| | |
-| pretio *[preci-o]* | precio *[presjo]* ~ ***[preso]*** |
-| | |
-
-<small>Kiam la **malfru-modern-stila** prononco *[s]* de **fru-klasik-stila** *[ti]* estas bonvena en la **moderna stilo**, ĝi skribiĝas *ci*.</small>
-
-Notes:
-* financia, placia, precio, pronunciar
 
 <!--s-->
 
@@ -994,7 +1016,7 @@ Notes:
 
 | |
 |-|
-| **cunicŭlo** *[kunikjo]* <small>🌎 conilio *[koniljo]*</small> |
+| **cunicŭlo** *[kuniklo]* <small>🌎 conilio *[koniljo]*</small> |
 | **sedŭla** *[sedja]* <small>🌎 sedia *[sedja]*</small> |
 | **extranie** *[estranje]* <small>🌎 estranie *[estranje]*</small> |
 | **insignar** *[insinjar]* <small>🌎 inseniar *[insenjar]*</small> |
