@@ -12,6 +12,16 @@ revealOptions:
 
 <!-- cd ~/Git/speranto/latinidaj; reveal-md ia.md -w -->
 
+<!-- large larghe lunge lunghe - klasika stilo -->
+
+<!-- 
+TODO
+pronunciation: conservative ~ progressive
+orthographia: etymologiche ~ phonetiche
+grammatica: auxiliar ~ roman (= natural)
+stilo: classiche ~ moderne
+-->
+
 <!-- ego eo io -->
 <!-- nostre/vostre nosse/vosse -->
 
@@ -123,10 +133,11 @@ revealOptions:
 
 # Lingua Inter-national
 
+<!-- 
 <small>**Lingua International** baziĝas sur [**Lingua** kaj ĝiaj dialektoj](../speranto.md). Ĝi havas du stilojn: la klasikan (*classiche*) kaj la modernan (*moderne*).</small>
 
 <small>En **Tradicia Interlingvao**, tiaj stiloj kunekzistas. La klasik-stila prononco de **Lingua International** baziĝas sur la plej konservativa prononco de **Tradicia Interlingua**, dum la modern-stila prononco baziĝas sur la tiel nomata "kroma" (*collateral*) prononco de **Tradicia Interlingvao**.</small>
-
+ -->
 <!--s-->
 
 # Stiloj
@@ -519,6 +530,120 @@ Notes:
 
 <!--s-->
 
+# Ortografio
+
+<!--v-->
+
+## Vortara Skribo
+
+<!--v-->
+
+| |
+|-|
+| **musĭca** = musica |
+| |
+| **gŭitarra** = guitarra |
+| |
+| **orthographīa** = orthographia |
+| |
+| **çhinese** = chinese |
+| |
+
+<!--v-->
+
+| |
+|-|
+| **dĭůrnal** = jornal *[ĵornal]* |
+| |
+
+<!--v-->
+
+| |
+|-|
+| **bânio** <small>balneo</small> = banio |
+| |
+| **mêse** <small>men̆se</small> = mese |
+| |
+| **trâino** <small>trağino</small> = traino |
+| |
+
+<!--v-->
+
+| |
+|-|
+| **plaça** <small>platĭa</small> = placia *[plasa]* |
+| |
+| **preço** <small>pretĭo</small> = precio *[preso]* |
+| |
+
+<!--v-->
+
+| |
+|-|
+| **-ïça** <small>-ïtĭa</small> = -essa *[esa]* |
+| |
+
+<small>Anstataŭ -*ecia* skribiĝas -*essa* por eviti la prononcon *[esja]* en klasikisma prononco.</small>
+
+<!--v-->
+
+| |
+|-|
+| **luç** <small>lucĕ</small> = luz *[lus]* |
+| |
+
+<!--v-->
+
+## Fonetika Skribo
+
+<!--v-->
+
+| |
+|-|
+| orthographia = *ortografia* |
+| |
+
+<!--v-->
+
+## Klasikismoj
+
+<!-- i.e. id es (latinaĵo, cetere) -->
+<!-- | *maniero* | manera <small>📜 manuaria, 🌎 maniera</small> | -->
+<!-- espaventar -->
+<!-- ġ: exaġiar/exağiar essayar (exagium) -->
+<!-- lancear approchar approximar -->
+<!-- insimul → insimule? -->
+<!-- anglese ≠ inglese -->
+
+<!--v-->
+<!-- 
+esser ser
+esseva era
+essera sera
+esseria seria
+essite site
+essente -sente
+ -->
+<!-- esseva era...? -->
+
+| klasika | moderna |
+|-|-|
+| habe | ha |
+| | |
+| prime | unesime |
+| | |
+
+<!--v-->
+
+| klasika | moderna | klasikisma |
+|-|-|-|
+| pretio | **preço** = precio *[preso]* | *[presjo]* |
+| | | |
+
+<small>La klasikisma prononco de klasika *ti* en la **moderna stilo** estas ĉiam *[sj]*, ankaŭ kiam *ti* fariĝis *ci* en la **moderna stilo**, ĉi kiam *ci* prononciĝas *[s]*. (Vortara skribo: **ç**.)</small>
+
+<!--s-->
+
 # Akĉentoj
 
 <!--v-->
@@ -778,120 +903,6 @@ Notes:
 Notes:
 * *havinits* — **habêra**
 * *havintos* ­— **habêre**
-
-<!--s-->
-
-# Ortografio
-
-<!--v-->
-
-## Vortara Skribo
-
-<!--v-->
-
-| |
-|-|
-| **musĭca** = musica |
-| |
-| **gŭitarra** = guitarra |
-| |
-| **orthographīa** = orthographia |
-| |
-| **çhinese** = chinese |
-| |
-
-<!--v-->
-
-| |
-|-|
-| **dĭůrnal** = jornal *[ĵornal]* |
-| |
-
-<!--v-->
-
-| |
-|-|
-| **bânio** <small>balneo</small> = banio |
-| |
-| **mêse** <small>men̆se</small> = mese |
-| |
-| **trâino** <small>trağino</small> = traino |
-| |
-
-<!--v-->
-
-| |
-|-|
-| **plaça** <small>platĭa</small> = placia *[plasa]* |
-| |
-| **preço** <small>pretĭo</small> = precio *[preso]* |
-| |
-
-<!--v-->
-
-| |
-|-|
-| **-ïça** <small>-ïtĭa</small> = -essa *[esa]* |
-| |
-
-<small>Anstataŭ -*ecia* skribiĝas -*essa* por eviti la prononcon *[esja]* en klasikisma prononco.</small>
-
-<!--v-->
-
-| |
-|-|
-| **luç** <small>lucĕ</small> = luz *[lus]* |
-| |
-
-<!--v-->
-
-## Fonetika Skribo
-
-<!--v-->
-
-| |
-|-|
-| orthographia = *ortografia* |
-| |
-
-<!--v-->
-
-## Klasikismoj
-
-<!-- i.e. id es (latinaĵo, cetere) -->
-<!-- | *maniero* | manera <small>📜 manuaria, 🌎 maniera</small> | -->
-<!-- espaventar -->
-<!-- ġ: exaġiar/exağiar essayar (exagium) -->
-<!-- lancear approchar approximar -->
-<!-- insimul → insimule? -->
-<!-- anglese ≠ inglese -->
-
-<!--v-->
-<!-- 
-esser ser
-esseva era
-essera sera
-esseria seria
-essite site
-essente -sente
- -->
-<!-- esseva era...? -->
-
-| klasika | moderna |
-|-|-|
-| habe | ha |
-| | |
-| prime | unesime |
-| | |
-
-<!--v-->
-
-| klasika | moderna | klasikisma |
-|-|-|-|
-| pretio | **preço** = precio *[preso]* | *[presjo]* |
-| | | |
-
-<small>La klasikisma prononco de klasika *ti* en la **moderna stilo** estas ĉiam *[sj]*, ankaŭ kiam *ti* fariĝis *ci* en la **moderna stilo**, ĉi kiam *ci* prononciĝas *[s]*. (Vortara skribo: **ç**.)</small>
 
 <!--s-->
 
