@@ -12,6 +12,8 @@ revealOptions:
 
 <!-- cd ~/Git/speranto/latinidaj; reveal-md ia.md -w -->
 
+<!-- esseva/era = auxiliar/natural -->
+
 <!-- viaĵ' viaĵes: viage viages (franc-devena sufikso) -->
 
 <!-- large larghe lunge lunghe - klasika stilo -->
@@ -330,11 +332,96 @@ Notes:
 * sapie, sabje = saje
 * cata, data, tote, strata, rota, vita
 
+<!--v-->
+
+### Progresemega Akĉento
+
+<small>**Progresemega prononco** estas kontinuo el pluraj eblaj prononcoj, kiuj troviĝas en la modernaj latinidaj lingvoj. Tial nur kelkaj el ili estas koheraj, respektive nur kelkaj el ili povas esti nomataj ***la* progresemega prononco**. La **progresemega akĉento** konsistas el tiuj prononcaj trajtoj el la **progresemega prononco**, kiuj estas koheraj kaj facile kombinebla kun la **progresema prononco**.</small>
+
+<!--v-->
+
+| malfru-moderna akĉento |
+|-|
+| strata *[strata]* ~ ***[strada]*** |
+| |
+| felicitate *[felisitate]* ~ ***[felisitad']*** |
+| |
+| virtute *[virtute]* ~ ***[virtud']*** |
+| |
+
+<small>Post unusilabaj radikoj, kiuj finiĝas per -*t*, kaj ĉe akcentataj substantivaj sufiksoj je -*te* la **malfru-modern-stila** prononco *[d]* estas bonvena en la **moderna stilo**.</small>
+
+Notes:
+* cata, tote, strata, rota, vita
+
+<!--v-->
+
+| |
+|-|
+| data *[data]* |
+| |
+| pote *[pote]* |
+| |
+
+<small>Ĉe verboj, la prononco *[t]* estas konservata.</small>
+
+<!--v-->
+
+| malfru-moderna akĉento |
+|-|
+| biber   ~ ***[biver]*** |
+| deber   ~ ***[dever']***   |
+| dubitar ~ ***[duvitar']*** |
+| haber   ~ ***[aver']***   |
+| laborar ~ ***[lavorar']*** |
+| probar  ~ ***[provar']***  |
+| scriber ~ ***[scriver']*** |
+| |
+
+<small>La **malfru-moderna-stila** prononco *[v]* de postvokala *b* estas bonvena en la **moderna stilo** en origine verbaj radikoj.</small>
+
+Notes:
+* bibita *[bibi-ta]*
+* labor *[labor']* <small>labore *[labore]*</small> `?`
+
+<!-- TODO habitar -->
+
+<!--v-->
+
+| malfru-moderna akĉento |
+|-|
+| altere *[alte-re]* ~ ***[altre]*** ~ *[aŭtre]* |
+| |
+| dubitar *[dubitar']* ~ ***[duvitar']*** ~ *[duvidar']* |
+| |
+| rubie *[rubje]* ~ ***[ruvje]*** ~ *[ruĵe]* |
+| |
+| strata *[strata]* ~ ***[strada]*** ~ *[estrada]* |
+| |
+| felicitate *[felisitate]* ~ ***[felisitad']*** ~ *[felisidad']* |
+| |
+
+<small>Ne ĉiuj prononcaj trajtoj de la **malfru-moderna stilo** estas bonvenaj en la **moderna stilo**.</small>
+
+<!--v-->
+
+| klasika | malfru-moderna akĉento |
+|-|-|
+| gratia *[graci-a]* | gratia ***[grasja]*** ~ *[grasa]* |
+| | |
+| pretio *[preci-o]* | precio *[presjo]* ~ ***[preso]*** |
+| | |
+
+<small>Kiam la **malfru-modern-stila** prononco *[s]* de **fru-klasik-stila** *[ti]* estas bonvena en la **moderna stilo**, ĝi skribiĝas *ci*.</small>
+
+Notes:
+* financia, placia, precio, pronunciar
+
 <!--s-->
 
 # Elizio
 
-<small>La ŝtupoj de **elizio** estas paralelaj al tiuj de la **prononco**: **konservem(eg)a** kaj **progresem(eg)a**. En **poezio**, eblas uzi eliziojn pli libere.</small>
+<small>La ŝtupoj de **elizio** estas paralelaj al tiuj de la **prononco**: **konservem(eg)a** kaj **progresem(eg)a**. En **poezio**, eblas uzi **eliziojn** pli libere, dum **tra bruo** eblas uzi pli **konserveman** prononcon.</small>
 
 <!--v-->
 
@@ -487,12 +574,19 @@ Notes:
 |-|-|-|
 | luce | luz = luç <small>lucĕ</small> | lus |
 | | | |
-| -atico | -ajo = -âjo <small>-at̯jğo</small> | -aĵo |
+| -atico | -aje = -âjŏ <small>-at̯jğŏ</small> | -aĵ |
 | | | |
-| -itia | -essa = -ïça <small>-ïcia <small>-ïtĭa</small></small> | -esa <small>-esja</small> |
+| -itia | -esse = -ïçă <small>-ïcia <small>-ïtĭa</small></small> | -es <small>-esja</small> |
 | | | |
 
+<!-- TODO ambaŭ formoj, -aje kaj -esse, malsamas en Interlingvao. -->
+
 <small>Per konvencio, la diakrita ortografio povas esti skribita per alternativaj literoj, kiuj evitas diakritojn.</small>
+
+<!--s-->
+
+# Stilo
+*(Neologismoj ktp.)*
 
 <!--v-->
 
@@ -523,124 +617,6 @@ essente -sente
 | | |
 | prime | unesime |
 | | |
-
-<!--s-->
-
-# Akĉentoj
-
-<!--v-->
-
-### Moderna Akĉento
-
-<!--v-->
-
-| klasika | moderna | moderna akĉento |
-|-|-|-|
-| legere *[lege-re]* | leger *[leĵer']* | legere *[leĵe-re]* |
-| | | |
-
-<!--v-->
-
-### Klasika Akĉento
-
-<!--v-->
-
-| klasika | moderna | klasika akĉento |
-|-|-|-|
-| legere *[lege-re]* | leger *[leĵer']* | leger *[leger']* |
-| | | |
-
-<small>La **moderna stilo** kun **klasik-stila** prononco similas al konservativa **Tradicia Interlingvao**. Ĝi rekomendindas **tra bruo**.</small>
-
-<!--v-->
-
-### Malfru-Moderna Akĉento
-
-<small>Kelkaj prononcaj trajtoj de la **malfru-moderna stilo** estas akcepteblaj/bonvenaj en la **moderna stilo**.</small>
-
-<!--v-->
-
-| malfru-moderna akĉento |
-|-|
-| strata *[strata]* ~ ***[strada]*** |
-| |
-| felicitate *[felisitate]* ~ ***[felisitad']*** |
-| |
-| virtute *[virtute]* ~ ***[virtud']*** |
-| |
-
-<small>Post unusilabaj radikoj, kiuj finiĝas per -*t*, kaj ĉe akcentataj substantivaj sufiksoj je -*te* la **malfru-modern-stila** prononco *[d]* estas bonvena en la **moderna stilo**.</small>
-
-Notes:
-* cata, tote, strata, rota, vita
-
-<!--v-->
-
-| |
-|-|
-| data *[data]* |
-| |
-| pote *[pote]* |
-| |
-
-<small>Ĉe verboj, la prononco *[t]* estas konservata.</small>
-
-<!--v-->
-
-| malfru-moderna akĉento |
-|-|
-| biber   ~ ***[biver]*** |
-| deber   ~ ***[dever']***   |
-| dubitar ~ ***[duvitar']*** |
-| haber   ~ ***[aver']***   |
-| laborar ~ ***[lavorar']*** |
-| probar  ~ ***[provar']***  |
-| scriber ~ ***[scriver']*** |
-| |
-
-<small>La **malfru-moderna-stila** prononco *[v]* de postvokala *b* estas bonvena en la **moderna stilo** en origine verbaj radikoj.</small>
-
-Notes:
-* bibita *[bibi-ta]*
-* labor *[labor']* <small>labore *[labore]*</small> `?`
-
-<!-- TODO habitar -->
-
-<!--v-->
-
-| malfru-moderna akĉento |
-|-|
-| altere *[alte-re]* ~ ***[altre]*** ~ *[aŭtre]* |
-| |
-| dubitar *[dubitar']* ~ ***[duvitar']*** ~ *[duvidar']* |
-| |
-| rubie *[rubje]* ~ ***[ruvje]*** ~ *[ruĵe]* |
-| |
-| strata *[strata]* ~ ***[strada]*** ~ *[estrada]* |
-| |
-| felicitate *[felisitate]* ~ ***[felisitad']*** ~ *[felisidad']* |
-| |
-
-<small>Ne ĉiuj prononcaj trajtoj de la **malfru-moderna stilo** estas bonvenaj en la **moderna stilo**.</small>
-
-<!--v-->
-
-| klasika | malfru-moderna akĉento |
-|-|-|
-| gratia *[graci-a]* | gratia ***[grasja]*** ~ *[grasa]* |
-| | |
-| pretio *[preci-o]* | precio *[presjo]* ~ ***[preso]*** |
-| | |
-
-<small>Kiam la **malfru-modern-stila** prononco *[s]* de **fru-klasik-stila** *[ti]* estas bonvena en la **moderna stilo**, ĝi skribiĝas *ci*.</small>
-
-Notes:
-* financia, placia, precio, pronunciar
-
-<!--s-->
-
-# Stilo
-*(Neologismoj ktp.)*
 
 <!--v-->
 
