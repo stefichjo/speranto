@@ -326,8 +326,6 @@ Notes:
 
 <small>*p*, *t*, *c* malantaŭ la akcentata vokalo (ofte) prononciĝas *[b]*, *[d]*, *[g]*. Analogie, *b*, *d*, *g* prononciĝas *[v]*, *[-]*, *[j]*.</small>
 
-<!-- TODO kial "poco" ne fariĝas "pogo"? -->
-
 Notes:
 * sapie, sabje = saje
 * cata, data, tote, strata, rota, vita
@@ -340,16 +338,21 @@ Notes:
 
 <!--v-->
 
-| malfru-moderna akĉento |
-|-|
-| strata *[strata]* ~ ***[strada]*** |
-| |
-| felicitate *[felisitate]* ~ ***[felisitad']*** |
-| |
-| virtute *[virtute]* ~ ***[virtud']*** |
-| |
+| | accento progressivissime |
+|-|-|
+| strata | *[strata]* ~ ***[strada]*** ~ *[estrada]* |
+| | |
 
-<small>Post unusilabaj radikoj, kiuj finiĝas per -*t*, kaj ĉe akcentataj substantivaj sufiksoj je -*te* la **malfru-modern-stila** prononco *[d]* estas bonvena en la **moderna stilo**.</small>
+<small>Radikofina *t* de unusilabaj radikoj prononciĝas *[d]*.</small>
+
+| | accento progressivissime |
+|-|-|
+| felicitate | *[felisitate]* ~ ***[felisitad']*** ~ *[felisida']* |
+| | |
+| virtute | *[virtute]* ~ ***[virtud']*** ~ *[virtu']* |
+| | |
+
+<small>La *t* en la sufiksoj -*tate* kaj -*tute* prononciĝas *[d]*.</small>
 
 Notes:
 * cata, tote, strata, rota, vita
@@ -367,24 +370,24 @@ Notes:
 
 <!--v-->
 
-| malfru-moderna akĉento |
-|-|
-| biber   ~ ***[biver]*** |
-| deber   ~ ***[dever']***   |
-| dubitar ~ ***[duvitar']*** |
-| haber   ~ ***[aver']***   |
-| laborar ~ ***[lavorar']*** |
-| probar  ~ ***[provar']***  |
-| scriber ~ ***[scriver']*** |
-| |
+| | accento progressivissime |
+|-|-|
+| biber   | *[biver']*   |
+| deber   | *[dever']*   |
+| dubitar | *[duvitar']* |
+| haber   | *[aver']*    |
+| laborar | *[lavorar']* |
+| probar  | *[provar']*  |
+| scriber | *[scriver']* |
+| | |
 
-<small>La **malfru-moderna-stila** prononco *[v]* de postvokala *b* estas bonvena en la **moderna stilo** en origine verbaj radikoj.</small>
+<small>En verbaj radikoj, postvokala *b* prononciĝas *[v]*.</small>
 
 Notes:
 * bibita *[bibi-ta]*
 * labor *[labor']* <small>labore *[labore]*</small> `?`
 
-<!-- TODO habitar -->
+<!-- TODO habitar ? -->
 
 <!--v-->
 
@@ -392,16 +395,10 @@ Notes:
 |-|
 | altere *[alte-re]* ~ ***[altre]*** ~ *[aŭtre]* |
 | |
-| dubitar *[dubitar']* ~ ***[duvitar']*** ~ *[duvidar']* |
-| |
-| rubie *[rubje]* ~ ***[ruvje]*** ~ *[ruĵe]* |
-| |
-| strata *[strata]* ~ ***[strada]*** ~ *[estrada]* |
-| |
-| felicitate *[felisitate]* ~ ***[felisitad']*** ~ *[felisidad']* |
+| camera *[kame-ra]* ~ ***[kamra]*** ~ *[ŝambra]* |
 | |
 
-<small>Ne ĉiuj prononcaj trajtoj de la **malfru-moderna stilo** estas bonvenaj en la **moderna stilo**.</small>
+<small>La *e* en la ne-akcentata sufikso -*er*- eliziiĝas.</small>
 
 <!--v-->
 
