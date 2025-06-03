@@ -12,136 +12,32 @@ revealOptions:
 
 <!-- cd ~/Git/speranto/latinidaj; reveal-md ia.md -w -->
 
-<!-- esseva/era = auxiliar/natural -->
-
-<!-- viaĵ' viaĵes: viage viages (franc-devena sufikso) -->
-
-<!-- large larghe lunge lunghe - klasika stilo -->
-
-<!-- 
-TODO
-pronunciation: conservative ~ progressive
-orthographia: etymologiche ~ phonetiche
-grammatica: auxiliar ~ roman (= natural)
-stilo: classiche ~ moderne
--->
-
-<!-- ego eo io -->
-<!-- nostre/vostre nosse/vosse -->
+<!-- lato lado -->
 
 <!-- surprendite-les, io ... -->
 <!-- io les ha surprendite. -->
 
 <!-- de-le = ties -->
 
-<!-- "le" ne uziĝas en la klasika stilo. -->
-
 <!-- celle → quelle -->
 
 <!-- qualcuno alcuno alco -->
 
-<!-- anglese = Anglish -->
-<!-- inglese = English -->
-
 <!-- compósite = componíte -->
 
 <!-- -essa → -esse [es] -->
-<!-- -age [aĵ] -->
 <!-- menu [u] ≠ [y] -->
-
-| classiche | moderne |
-|-|-|
-| hic | ci |
-| illac/ibi | la |
-| nunc | ora |
-| semper | sempre |
-| unquam | jammais |
-| nunquam | non ... jammais|
-| omne | tote |
-| olim | un vice |
-| | |
-
-<!--v-->
-
-| classiche | moderne |
-|-|-|
-| alicun | alcun, qualcun |
-| alicuno | alcuno, qualcuno |
-| alique | qualcosa |
-| nulle | necun |
-| nemo | necuno |
-| | |
-
-<!--v-->
-
-| classiche | moderne |
-|-|-|
-| etiam | anque |
-| sed | ma |
-| tamen | totevia |
-| ergo | dunque |
-| dum | durante que |
-| juxta | proxime/vicin a |
-| salvo | excepte |
-| apud | presso |
-| nam | proque |
-| postquam | post que |
-| an | esque |
-| | |
-
-<!--v-->
-
-| classiche | moderne |
-|-|-|
-| pauc | poc |
-| pauco | poco |
-| uxor | sposa |
-| disveloppar | developpar |
-| opera | obra |
-| | |
-
-<!--v-->
-
-| classiche | moderne |
-|-|-|
-| nimis | troppo |
-| subinde | sovente |
-| postea | pois, alora |
-| jam | ja |
-| satis | assatis |
-| | |
-
-<!--v-->
-
-| classiche | moderne |
-|-|-|
-| analysis | analyse |
-| | |
-
-<!--s-->
 
 <!-- https://www.interlingua.com/linguistic/selige-un-stilo-de-interlingua/ -->
 <!-- ipse / mesme -->
 
 <!-- Alicuno -->
-<!-- composíte / compósite ? -->
-<!-- civilisar civilizar -->
-<!-- suggerite exaggerar (d)zh? -->
-<!-- ng nc -->
-<!-- exact -->
 <!-- joia -->
-<!-- tinta -->
 <!-- mercuridie -->
 
 <!-- Havante la registrojn auxiliar kaj natural, imageblas ke kaj "nossa" kaj "nostra" estas en la stila kontinuo. -->
 
 # Lingua Inter-national
-
-<!-- 
-<small>**Lingua International** baziĝas sur [**Lingua** kaj ĝiaj dialektoj](../speranto.md). Ĝi havas du stilojn: la klasikan (*classiche*) kaj la modernan (*moderne*).</small>
-
-<small>En **Tradicia Interlingvao**, tiaj stiloj kunekzistas. La klasik-stila prononco de **Lingua International** baziĝas sur la plej konservativa prononco de **Tradicia Interlingua**, dum la modern-stila prononco baziĝas sur la tiel nomata "kroma" (*collateral*) prononco de **Tradicia Interlingvao**.</small>
- -->
 
 <!--s-->
 
@@ -161,8 +57,7 @@ stilo: classiche ~ moderne
 | | | |
 
 Notes:
-* *[akva]*
-* *[radço]*
+* ĝermana/slava akĉento: *[akva]*, *[radço]*
 
 <!--v-->
 
@@ -172,24 +67,26 @@ Notes:
 | | | |
 | gente | *[gente]* | *[ĵente]* |
 | | | |
+| privilegio | *[privilegi-o]* | *[privileĵo]* |
+| | | |
 
-<small>Alternativa prononco de *[ĵ]* estas *[ĝ]*. Do, anstataŭ *[ĵusto]* eblas ankaŭ *[ĝusto]*. Miksi tiujn du prononcojn ŝajnas evitinde.</small>
+<small>Alternativa prononco de *[ĵ]* estas *[ĝ]*. Do, anstataŭ *[ĵusto]* eblas ankaŭ la prononco *[ĝusto]*. Miksi tiujn du prononcojn ŝajnas evitinde.</small>
 
-<small>La kroma prononco de *g* kiel *[ĵ]* ne estas oficiala.</small>
-
-<!-- TODO Kio okazas, kiam "d" kaj "j" kunmetiĝas kiel en "adjectivo"? En progresemega prononco, ili certe kunasimiliĝas al *[ĵ]* (aŭ alternative: *[ĝ]*). -->
+Notes:
+* horologio, litigio, prestigio, privilegio, prodigio
 
 <!--v-->
 
 | | conservative | progressive |
 |-|-:|:-|
-| privilegio | *[privilegi-o]* | *[privileĵo]* |
-| | | |
-| viage | *[viati-ko]* | *[viaĵ']* <small>🌎 *[viaĵe]*</small> |
+| *[large]* | large | larghe |
 | | | |
 
+<small>En **progresema prononco**, la ortografio de *[g]* antaŭ moliga vokalo (*e*, *i*, *y*) estas *gh* (respektive *gu* komence de radiko).</small>
+
 Notes:
-* horologio, litigio, prestigio, privilegio, prodigio
+* larghe, lunghe, naufraghe, portughese
+* guitarra
 
 <!--v-->
 
@@ -215,8 +112,6 @@ Notes:
 | exemplo | *[egzemplo]* | *[ezemplo]* |
 | | | |
 
-<small>La kroma prononco de *x* kiel *[s]* respektive *[z]* ne estas oficiala.</small>
-
 <!--v-->
 
 | |
@@ -231,16 +126,16 @@ Notes:
 
 | conservativissime | progressivissime |
 |-:|:-|
-| *[spati-o]* | *[espaso]* |
+| *[spati-o]* | *[espas(o)]* |
 | | |
 
-<small>Nemalofte necesas konsideri konservemegajn kaj progresemegajn formojn. Ili ne estas oficialaj.</small>
+<!-- TODO fina vokalo povas eliziiĝi en "progressivissime". -->
 
 Notes:
 * gratia, spatio
 * centro: *[kentro]* ~ *[centro]*
   * glacie, indicio, officio, socio, specie
-* justo: *[iusto]* ~ *[justo*]
+* justo: *[iusto]* ~ *[justo]*
   * justo, majo, major, pejo, pejor
 * prematur: *[praematur']* ~ *[prematur']*
 
@@ -252,44 +147,67 @@ Notes:
 
 | | progressive | progressivissime |
 |-|-|-|
-| sperantia | *[speransja]* | *[esperansja]* |
+| gratia | *[grasja]* | *[gras(ja)]* |
+| | | |
+
+<small>Vortfina ne-akcentata vokalo estas eliziebla.</small>
+
+<!--v-->
+
+| | progressive | progressivissime |
+|-|-|-|
+| sperantia | *[speransja]* | *[esperans(ja)]* |
 | | | |
 | station | *[stasjon']* | *[estasjon']* |
 | | | |
 
-<small>En **progresemega prononco**, radikokomencaj *sp* kaj *st* prononciĝas *[esp]* kaj *[est]*.</small>
+<small>Radikokomencaj *sp* kaj *st* prononciĝas *[esp]* kaj *[est]*.</small>
 
 <!--v-->
 
 | | progressive | progressivissime |
 |-|-|-|
-| dextere | *[deste-re]* | *[destre]* |
-| | | |
-| offerer | *[oferer']* | *[ofrer']* |
-| | | |
-| prender | *[prender']* | *[prendr']* |
+| crepe | *[krespa]* | *[krep(a)]* |
 | | | |
 
-<small>En **progresemega prononco**, la antaŭlasta vokalo eliziiĝas laŭeble.</small>
-
-<!-- TODO Ĉu nur *e* en *er* eliziiĝas? -->
+<small>Post vokalo, la *s* en *sp* kaj *st* eliziiĝas.</small>
 
 <!--v-->
 
 | | progressive | progressivissime |
 |-|-|-|
-| mundo | *[mundo]* | *[mondo]* |
+| tinta | *[tincta]* | *[tint(a)]* |
 | | | |
-| littera | *[litera]* | *[letra]* |
+
+<small>*c* en *ct* eliziiĝas.</small>
+
+<!--v-->
+
+| | progressive | progressivissime |
+|-|-|-|
+| dextere | *[deste-re]* | *[destr(e)]* |
+| | | |
+| offere | *[ofe-re]* | *[ofr(e)]* |
+| | | |
+
+<small>En **progresemega prononco**, la vokalo en ne-akcentata sufikso eliziiĝas laŭeble.</small>
+
+<!--v-->
+
+| | progressive | progressivissime |
+|-|-|-|
+| mundo | *[mundo]* | *[mond(o)]* |
+| | | |
+| littera | *[litera]* | *[letr(a)]* |
 | | | |
 
 <small>Akcentataj (mallongaj) *u* kaj *i* (ofte) prononciĝas *[o]* kaj *[e]*.</small>
 
 | | progressive | progressivissime |
 |-|-|-|
-| ovo | *[ovo]* | *[ŭovo]* |
+| ovo | *[ovo]* | *[ŭov(o)]* |
 | | | |
-| heri | *[eri]* | *[jeri]* |
+| heri | *[eri]* | *[jer(i)]* |
 | | | |
 
 <small>Samtempe, akcentataj (mallongaj) *o* kaj *e* (ofte) prononciĝas *[ŭo]* kaj *[je]*.</small>
@@ -298,13 +216,13 @@ Notes:
 
 | | progressive | progressivissime |
 |-|-|-|
-| altere | *[alte-re]* | *[aŭtre]* |
+| altere | *[alte-re]* | *[aŭtr(e)]* |
 | | | |
-| pauco | *[paŭko]* | *[poko]* |
+| pauco | *[paŭko]* | *[pok(o)]* |
 | | | |
-| aere | *[ae-re]* | *[ajre]* |
+| aere | *[ae-re]* | *[ajr(e)]* |
 | | | |
-| traino | *[trajno]* | *[treno]* |
+| traino | *[trajno]* | *[tren(o)]* |
 | | | |
 
 <small>*al*, *au*, *ae*, *ai* prononciĝas *[aŭ]*, *[o]*, *[aj]*, *[e]*.</small>
@@ -315,20 +233,49 @@ Notes:
 
 | | progressive | progressivissime |
 |-|-|-|
-| aperir | *[aperir]* | *[abrir]* |
-| vita | *[vita]* | *[vida]* |
-| aco | *[aco]* | *[ago]* |
+| mar | *[mar]* | *[maĥ]* = *[mar]* |
 | | | |
-| ubi | *[ubi]* | *[uvi]* |
-| crede | *[krede]* | *[kree]* |
-| lege | *[leĵe]* | *[leje]* |
+
+<small>*r* kiam ĝi ne estas intervokala, prononciĝas *[ĥ]*. En la fonetika skribo tamen daŭre skribiĝas *[r]*.</small>
+
+<!--v-->
+
+| | progressive | progressivissime |
+|-|-|-|
+| amar | *[amar]* | *[ama']* |
+| | | |
+
+<small>Fina *r* en infinitivoj eliziiĝas.</small>
+
+<!--v-->
+
+| | progressive | progressivissime |
+|-|-|-|
+| aperir | *[aperir]* | *[abri']* |
+| vita | *[vita]* | *[vid(a)]* |
+| aco | *[aco]* | *[ag(o)]* |
+| | | |
+| ubi | *[ubi]* | *[uv(i)]* |
+| crede | *[krede]* | *[kre(e)]* |
+| lege | *[leĵe]* | *[lej(e)]* |
 | | | |
 
 <small>*p*, *t*, *c* malantaŭ la akcentata vokalo (ofte) prononciĝas *[b]*, *[d]*, *[g]*. Analogie, *b*, *d*, *g* prononciĝas *[v]*, *[-]*, *[j]*.</small>
 
 Notes:
-* sapie, sabje = saje
 * cata, data, tote, strata, rota, vita
+
+<!--v-->
+
+| | progressive | progressivissime |
+|-|-|-|
+| cavia | *[kavja]* | *[kaĵ(a)]* |
+| hodie | *[odje]* | *[oĵ(e)]* |
+| jornal | *[djurnal']* | *[ĵornaŭ']* |
+| rage | *[rabja]* | *[raĵ(a)]* |
+| | | |
+
+<small>Malantaŭ voĉa konsonanto, *i* *[j]* prononciĝas *[ĵ]* kaj asmilias tiun voĉan konsonanton.</small>
 
 <!--v-->
 
@@ -340,7 +287,7 @@ Notes:
 
 | | accento progressivissime |
 |-|-|
-| strata | *[strata]* ~ ***[strada]*** ~ *[estrada]* |
+| strata | *[strata]* ~ ***[strada]*** ~ *[etrad(a)]* |
 | | |
 
 <small>Radikofina *t* de unusilabaj radikoj prononciĝas *[d]*.</small>
@@ -391,34 +338,75 @@ Notes:
 
 <!--v-->
 
-| malfru-moderna akĉento |
-|-|
-| altere *[alte-re]* ~ ***[altre]*** ~ *[aŭtre]* |
-| |
-| camera *[kame-ra]* ~ ***[kamra]*** ~ *[ŝambra]* |
-| |
+| | accento progressivissime |
+|-|-|
+| altere | *[alte-re]* ~ ***[altre]*** ~ *[aŭtr(e)]* |
+| | |
+| camera | *[kame-ra]* ~ ***[kamra]*** ~ *[ŝambr(a)]* |
+| | |
+
+<!-- TODO Ĉu ĉiam estas "e" en littera? -->
 
 <small>La *e* en la ne-akcentata sufikso -*er*- eliziiĝas.</small>
 
 <!--v-->
 
-| klasika | malfru-moderna akĉento |
+| | accento progressivissime |
 |-|-|
-| gratia *[graci-a]* | gratia ***[grasja]*** ~ *[grasa]* |
+| gratia | ***[grasja]*** ~ *[gras(ja)]* |
 | | |
-| pretio *[preci-o]* | precio *[presjo]* ~ ***[preso]*** |
+| plaça <small>placia = placėa <small>platĕa</small></small> | *[plasja]* ~ ***[plasa]*** ~ *[plas(ja)]* |
 | | |
 
-<small>Kiam la **malfru-modern-stila** prononco *[s]* de **fru-klasik-stila** *[ti]* estas bonvena en la **moderna stilo**, ĝi skribiĝas *ci*.</small>
+<small>Kiam la prononco de *ti* aŭ *te* fariĝis **progresemega** *[s]* en ĉiuj fontolingvoj, tiu prononco estas parto de la **progresemega akĉento**.</small>
 
-Notes:
-* financia, placia, precio, pronunciar
+<!--v-->
 
-<!--s-->
+| | accento progressivissime |
+|-|-|
+| sage | *[sapje]* ~ ***[saĵe]*** ~ *[saĵ(e)]* |
+| | |
 
-# Elizio
+<small>Kiam la **progresemega prononco** malhavas finan vokalon, ĝi reteniĝas kiel *[e]* en la **progresemega akĉento**.</small>
+
+<!--v-->
+
+### Internaciismoj kaj Neologismoj
+
+<small>La **progresemega akĉento** estas fonto de internaciismoj kaj neologismoj.</small>
+
+<!--v-->
+
+| | accento progressivissime |
+|-|-|
+| cassa | *[kapsa]* ~ ***[kasa]*** ~ *[kas(a)]* |
+| hotel | *[ospital']* ~ ***[otel']*** ~ *[oteŭ']* |
+| | | |
+| o | *[aŭ]* ~ ***[o]*** |
+| | | |
+
+<!--v-->
+
+| | accento progressivissime |
+|-|-|
+| cosa ≠ causa | *[kaŭza]* ~ ***[koza]*** ~ *[koz(a)]* |
+| posa ≠ pausa | *[paŭza]* ~ ***[poza]*** ~ *[poz(a)]* |
+| | | |
+| obra ≠ opera | *[ope-ra]* ~ ***[obra]*** ~ *[obr(a)]* |
+| livrar ≠ liberar | *[liberar']* ~ ***[livrar']*** ~ *[livra']* |
+| | | |
+
+<!-- TODO Konsiderendas, ĉu la neologismo havu pli aŭ malpli konservativan signifon. -->
+
+<!--v-->
+
+## Elizio
 
 <small>La ŝtupoj de **elizio** estas paralelaj al tiuj de la **prononco**: **konservem(eg)a** kaj **progresem(eg)a**. En **poezio**, eblas uzi **eliziojn** pli libere, dum **tra bruo** eblas uzi pli **konserveman** prononcon.</small>
+
+<!--v-->
+
+### -e
 
 <!--v-->
 
@@ -471,7 +459,7 @@ Notes:
 | rete | *[rete]* | *[red]* |
 | | | |
 
-<!-- | mese <small>🌎 mense</small> | més | -->
+<!-- TODO | mese <small>🌎 mense</small> | més | -->
 
 <small>La finaĵo -*e* eliziiĝas ne nur malantaŭ *l*, *n* kaj *r*, sed ankaŭ malantaŭ *c*, *d*, *s* kaj *t*.</small>
 
@@ -479,49 +467,114 @@ Notes:
 * rete, site
 * fide, pede
 
-<!-- | magiche | magic | -->
+<!--v-->
 
-<!-- 
-| prense *[prense]* | prendite *[prendite]* |
-| | |
+### Neakcentataj Sufiksoj
 
-<small>En la **klasika stilo**, multaj verboj havas infinitivon kun ne-akcentata -*ere*. Tiuj verboj havas malregulan participon. Tia malregula participo estas uzebla en la **moderna stilo** kiel *malneologismo*.</small>
- -->
-<!-- 
-| klasika | moderna |
+<small>Kun **progresema elizio**, neakcentataj sufiksoj (-*er*-, -*in*-, -*it*-, -*or*-) eliziiĝas en substantivoj.</small>
+
+<!--v-->
+
+| conservative | progressive |
 |-|-|
-| sentire *[sentire]* | sentir *[sentir']* |
-| | |
-| sense *[sense]* | sentite *[sentite]* |
+| sanguine | sangue |
 | | |
 
-<small>Aldone, estas kelkaj verboj je -*ire*, kiuj havas malregulan participon.</small>
- -->
+<small>Multaj substantivoj kun la neakcentata infikso -*in*- havas latinlingvan nominativon je -*en* aŭ je -*o* (aŭ *-is* en la kazo de *sanguis*). En ĉiuj kazoj, la finaĵo en la **progresema prononco** estas -*e*.</small>
 
-<!-- 
-| fru-klasika | klasika |
+<!--v-->
+
+| conservative | progressive |
 |-|-|
-| ɪᴠsᴛᴏ | justo |
+| crimine | crime |
+| examine | exame |
+| fulmine | fulme |
+| lumine  | lume |
+| nomine  | nome |
 | | |
-| ᴘʀᴇʜᴇɴᴅᴇʀᴇ | prendere |
+
+Notes:
+* se ili ekzistus: carmĭne, flumĭne
+
+<!--v-->
+
+| conservative | progressive |
+|-|-|
+| homine   | home  |
+| imagine  | image |
+| margine  | marge |
+| ordine   | orde  |
+| -udine   | -ude  |
 | | |
- -->
+
+<!--v-->
+
+| conservative | progressive |
+|-|-|
+| capite  | capo  |
+| corpore | corpo |
+| latere  | lato  |
+| tempore | tempo |
+| termine | termo |
+| | |
+
+<small>Kiam la latinlingva nominativo finiĝas per -*us* (aŭ -*ut*, en la kazo de *caput*), la formo kun **progresema prononco** finiĝas per -*o*.</small>
+
+<!--v-->
+
+| conservative/progressive |
+|-|
+| femina |
+| pagina |
+| |
+
+<small>La formoj de *femina* kaj *pagina* estas senŝanĝaj. Ilia latinlingva nominativo finiĝas per -*ina*.</small>
+
+<!--v-->
+
+| conservative/progressive |
+|-|
+| hospite |
+| limite |
+| |
+
+<small>La formoj de *hospite* kaj *limite* estas senŝanĝaj. Ilia latinlingva nominativo finiĝas per -*es*.</small>
+
+<!--v-->
+
+| conservativissime | conservative | progressive |
+|-|-|-|
+| facĭte | facte | facite |
+| prehendĭte | prense | prendite |
+| sentĭte | sense | sentite |
+| | | |
+
+<small>En **konservemega prononco**, la *i* en la ne-akcentata verba sufikso **it** ankoraŭ ne eliziiĝas. En **progresema prononco**, la *i* reaperas akcentata.</small>
+
+<!--v-->
+
+### haber
+
+<!--v-->
+
+| conservative | progressive |
+|-|-|
+| habe *[habe]* | ha *[a]* |
+| | |
+
+<small>La **konservema** formo de *ha* estas *habe*.</small>
 
 <!--s-->
 
-# Ortografio
-
-<!-- etymologiche: spatio -->
-  <!-- diacritiche: spatĭo, ŝpaço -->
-<!-- phonetiche: spasjo, espaso -->
+# Skribo
 
 <!--v-->
 
-## Etimologia kaj Fonetika Ortografioj
+## Etimologia kaj Fonetika Skriboj
 
 <!--v-->
 
-### Diakrita Ortografio
+### Diakrita Skribo
 
 <!--v-->
 
@@ -543,7 +596,7 @@ Notes:
 | diurnal | dĭůrnal | ĵornal' |
 | | | |
 
-<small>Per konvencio, ankaŭ la fonetika ortografio povas havi diakritojn, kiel en **Esperanto**.</small>
+<small>Per konvencio, ankaŭ la fonetika skribo povas havi diakritojn, kiel en **Esperanto**.</small>
 
 <!--v-->
 
@@ -560,9 +613,7 @@ Notes:
 
 | etymologiche | diacritiche | phonetiche |
 |-|-|-|
-| pretio | preço <small>precio <small>pretĭo</small></small> | preso <small>presjo</small> |
-| | | |
-| platea | plaça <small>placėa <small>platĕa</small></small> | plasa <small>plasja</small> |
+| platea | plaça <small>placia = placėa <small>platĕa</small></small> | plasa <small>plasja</small> |
 | | | |
 
 <!--v-->
@@ -571,23 +622,10 @@ Notes:
 |-|-|-|
 | luce | luz = luç <small>lucĕ</small> | lus |
 | | | |
-| -atico | -aje = -âjŏ <small>-at̯jğŏ</small> | -aĵ |
-| | | |
-| -itia | -esse = -ïçă <small>-ïcia <small>-ïtĭa</small></small> | -es <small>-esja</small> |
+| -itia | -essa = -ïça <small>-ïcia <small>-ïtĭa</small></small> | -esa <small>-esja</small> |
 | | | |
 
-<!-- TODO ambaŭ formoj, -aje kaj -esse, malsamas en Interlingvao. -->
-
-<small>Per konvencio, la diakrita ortografio povas esti skribita per alternativaj literoj, kiuj evitas diakritojn.</small>
-
-<!--s-->
-
-# Stilo
-*(Neologismoj ktp.)*
-
-<!--v-->
-
-## Klasikismoj
+<small>Per konvencio, la diakrita skribo povas esti skribita per alternativaj literoj, kiuj evitas diakritojn.</small>
 
 <!-- i.e. id es (latinaĵo, cetere) -->
 <!-- | *maniero* | manera <small>📜 manuaria, 🌎 maniera</small> | -->
@@ -597,29 +635,14 @@ Notes:
 <!-- insimul → insimule? -->
 <!-- anglese ≠ inglese -->
 
-<!--v-->
 <!-- 
-esser ser
-esseva era
-essera sera
-esseria seria
-essite site
-essente -sente
- -->
-<!-- esseva era...? -->
-
-| klasika | moderna |
+| fru-klasika | klasika |
 |-|-|
-| habe | ha |
+| ɪᴠsᴛᴏ | justo |
 | | |
-| prime | unesime |
+| ᴘʀᴇʜᴇɴᴅᴇʀᴇ | prendere |
 | | |
-
-<!--v-->
-
-## Malfru-Moderna Stilo
-
-<small>Formoj el la **malfru-moderna stilo** povas roli kiel neologismoj en la **moderna stilo** aŭ povas esti la preferata formo, se ĉiuj fontolingvoj sekvas la saman stilon.</small>
+ -->
 
 <!-- 
 | moderna | malfru-moderna |
@@ -628,127 +651,11 @@ essente -sente
 | | |
 | sedula | sedia |
 | | |
-
-<small>Kiam -*ŭl*- fariĝas malfacile prononcebla *l*, ĝi fariĝas *i*.</small>
  -->
 
-<!--v-->
+<!-- sitila secchio -->
 
-### Neologismoj
-
-<!--v-->
-
-| moderna | malfru-moderna |
-|-|-|
-| causa | cosa |
-| | |
-| opera | obra |
-| | |
-| liberar | livrar |
-| | |
-
-<small>Kiam **malfru-modern-stila** formo havas propran signifon, ĝi estas bonvena neologismo en la **moderna stilo**.</small>
-
-Notes:
-* pausa, posa
-<!-- TODO Konsiderendas, ĉu la moderna formo havu pli konservativan signifon. (Parolante pri "neologismoj" ktp.) -->
-
-<!--v-->
-
-| moderna | malfru-moderna |
-|-|-|
-| (capsa) | cassa |
-| | |
-
-| moderna | malfru-moderna |
-|-|-|
-| (au) | o |
-| | |
-
-<small>Nemalofte, la **malfru-moderna** formo povas anstataŭi la **modernan** formon, kiam ĝi estas sufiĉe internacia.</small>
-
-Notes:
-* hotel
-
-<!--v-->
-
-### Neakcentataj Infiksoj
-
-<small>En la **malfru-moderna stilo**, neakcentataj infiksoj (-*er*-, -*in*-, -*it*-, -*or*-) eliziiĝas en substantivoj.</small>
-
-<!--v-->
-
-| moderna | malfru-moderna |
-|-|-|
-| sanguine | sangue |
-| | |
-
-<small>Multaj substantivoj kun la neakcentata infikso -*in*- havas latinlingvan nominativon je -*en* aŭ je -*o* (aŭ *-is*). En ĉiuj kazoj, la finaĵo en la **malfru-moderna stilo** estas -*e*.</small>
-
-<!--v-->
-
-| moderna | malfru-moderna |
-|-|-|
-| crimine | crime |
-| examine | exame |
-| fulmine | fulme |
-| lumine  | lume |
-| nomine  | nome |
-| | |
-
-<!-- | carmine | carme | -->
-<!-- | flumine | flume | -->
-
-<!--v-->
-
-| moderna | malfru-moderna |
-|-|-|
-| homine   | home  |
-| imagine  | image |
-| margine  | marge |
-| ordine   | orde  |
-| -udine   | -ude  |
-| | |
-
-<!-- 
-flumen - flumine
- -->
-
-
-<!--v-->
-
-| klasika | moderna |
-|-|-|
-| capite  | capo  |
-| corpore | corpo |
-| latere  | lato  |
-| tempore | tempo |
-| termine | termo |
-
-<small>Kiam la latinlingva nominativo finiĝas per -*us* (aŭ -*ut*, fakte), la formo en la **moderna stilo** finiĝas per -*o*.</small>
-
-Notes:
-* La **malfru-moderna** formo de *lato* estas *lado*.
-
-<!--v-->
-
-| (malfru-)moderna |
-|-|
-| femina |
-| pagina |
-| |
-
-<small>La formoj de *femina* kaj *pagina* estas senŝanĝaj. Ilia latinlingva nominativo finiĝas per -*ina*.</small>
-
-<!--v-->
-
-| (malfru-)moderna |
-|-|
-| hospite |
-| limite |
-| |
-
-<small>La formoj de *hospites* kaj *limite* estas senŝanĝaj. Ilia latinlingva nominativo finiĝas per -*es*.</small>
+<!-- <small>Kiam -*ŭl*- fariĝas malfacile prononcebla *l*, ĝi fariĝas *i*.</small> -->
 
 <!--s-->
 
@@ -756,72 +663,45 @@ Notes:
 
 <!--v-->
 
-## Natureca Registro
-
-<!--v-->
-
-### Artikoloj
+## Helpeca kaj Natureca Registroj
 
 <!--v-->
 
 | auxiliar | natural |
 |-|-|
-| le | la(s) |
-| | |
-| un(es) | una(s) |
+| pontes grande | pontes grandes |
 | | |
 
-<small>En la **natureca registro**, la artikoloj *le* kaj *un* finiĝas per -*a*, kaj ili ricevas la finaĵon -*s* en multenombro: *le unes e le alteres* → *las unas e las alteras*.</small>
-
-<!--v-->
-
-### Adjektivoj
+<small>Adjektivoj ricevas la multenombran finaĵon -*s*.</small>
 
 <!--v-->
 
 | auxiliar | natural |
 |-|-|
-| alte | alta(s) |
-| | |
-| grande | grande(s) |
+| monte alte | monte alta |
 | | |
 
-<small>En la **natureca registro**, estas adjektivoj jen je -*e*, jen je -*a*.</small>
+<small>Adjektivoj havas unu el la finaĵoj -*a* kaj -*e*, dum en la **helpeca registro**, ekzistas nur la finaĵo -*e*.</small>
 
 <!--v-->
 
 | auxiliar | natural |
 |-|-|
-| Grande Britannia | Gran Britannia |
+| es finite | es finita |
+| ha finite | ha finito |
 | | |
 
-<small>En la **natureca registro**, *bona*, *grande* kaj *sancta* havas malregulajn eliziojn kiam ili staras antaŭ la substantivo: *bon*, *gran*, *san*.</small>
-
-<!--v-->
-
-### Verboj
+<small>Participoj finiĝas aŭ per -*a* por adjektivoj aŭ per -*o* per adverbjo.</small>
 
 <!--v-->
 
 | auxiliar | natural |
 |-|-|
-| ella ha laborate | ella ha laborato |
+| es facite | es facta |
+| ha facite | ha facto |
 | | |
-| ella ha venite | ella es venita |
-| | |
 
-<small>La participoj je -*e* finiĝas aŭ je -*a* (por adjektivoj) aŭ je -*o* (por adverboj).</small>
-
-<!--v-->
-
-| | auxiliar | natural |
-|-|-|-|
-| **moderne**   | prendite | prendita |
-| | | |
-| **classiche** | prense   | prensa |
-| | | |
-
-<small></small>
+<small>Participoj de verboj, kies infinitvo finiĝas per ne-akcentata -*ere*, havas malregulan formon ("secunde thema irregular").</small>
 
 <!--v-->
 
@@ -830,7 +710,45 @@ Notes:
 | venita ~ *[venida]* |
 | |
 
-<small>**Kun akĉento**, la verba finaĵo -*ta* respektive -*to* prononciĝas kun *[d]*.</small>
+<small>Kun **akĉento**, la verba finaĵo -*ta* respektive -*to* prononciĝas kun *[d]*.</small>
+
+<!--v-->
+
+| | conservative | progressive |
+|-|-|-|
+| **auxiliar** | essere *[esse-re]* | esser *[eser']* |
+| **natural**  | | ser *[ser]* |
+
+<!--v-->
+
+| | conservative | progressive |
+|-|-|-|
+| *(mi) estas* | sum | so <small>🌎 es/so</small> |
+| *(ci) estas* | es  | eres |
+| *(li) estas* | est | es |
+| | | |
+| *(ni) estas*  | sumus | somos <small>🌎 es/somos</small> |
+| *(vi) estas*  | estis | sois  |
+| *(ili) estas* | sunt  | son <small>🌎 es/son</small> |
+| | | |
+
+<small>En la **natureca registro**, verboj havas konjugacion.</small>
+
+Notes:
+* La naturecaj konservemegaj formoj de *esser* estas: *essem*, *esses*, *esset*, *essemus*, *essetis*, *essent*. La respektiva helpeca formo estas *esse*.
+
+<!-- TODO -->
+<!-- | essite | site -->
+<!-- | essente | essente/-sente | -->
+
+<!--v-->
+
+| | conservative | progressive |
+|-|-|-|
+| **auxiliar** | esseba | esseva |
+| **natural**  | erat | era |
+
+<small>La **konservemega prononco** de **natureca** *esseva* estas *essebat*.</small>
 
 <!--v-->
 
@@ -839,170 +757,193 @@ Notes:
 | venite! ~ *[venid']* |
 | |
 
-<small>La imperativa formo finiĝas per -*te* en la multenombro. **Kun akĉento**, ĝi prononciĝas *[d]*.</small>
+<small>La imperativa formo finiĝas per -*te* en la multenombro. Kun **akĉento**, ĝi prononciĝas *[d]*.</small>
 
 <!--v-->
 
-| | natural |
+| | naturalissime |
 |-|-|
-| *(mi) estas* | so <small>🌎 es/so</small> |
-| *(ci) estas* | eres |
-| *(li) estas* | es  |
+| *ke (li) estu* | que sea <small>🌎 es/sia</small> |
 | | |
-| *(ni) estas*  | somos <small>🌎 es/somos</small> |
-| *(vi) estas*  | sois  |
-| *(ili) estas* | son <small>🌎 es/son</small> |
+| *ke (li) havu* | que habia |
 | | |
 
-<small>La konjugacio funkcias samkiel en **Lingua Intermediaria** en la **moderna stilo** respektive samkiel en **Lingua Classĭca** en la **klasika stilo**.</small>
+<small>En la **naturalecega registro**, ekzistas ke-u-modo.</small>
 
 <!--v-->
 
-## Proza Registro
-
-<small>La **proza registro** estas uzata en skribita **natureca registro**.</small>
-
-<!--v-->
-
-| | prosaiche |
+| | naturalissime |
 |-|-|
-| *ke (li) estu* | sea <small>🌎 es/sia</small> |
+| *se (li) estus* | si fuesse |
 | | |
-| *ke (li) havu* | habia |
+| *se (li) havus* | si habesse |
 | | |
 
-<small>En la **proza registro** uziĝas la *ke-u-modo*.</small>
+<small>En la **naturalecega registro**, ekzistas *se-us-modo*.</small>
 
 <!--v-->
 
-| | prosaiche |
-|-|-|
-| *se (li) estus* | fuesse |
-| | |
-| *se (li) havus* | habesse |
-| | |
-
-<small>En la **proza registro** uziĝas la *se-us-modo*.</small>
-
-<!--v-->
-
-| | prosaiche |
+| | naturalissime |
 |-|-|
 | *(li) estintas* | fue *[fŭe]* |
 | | |
 | *(li) havintas* | habeu *[ha-beu]* |
 | | |
 
-<small>En la **proza registro** uziĝas la *intas-formo*.</small>
+<small>En la **naturalecega registro**, ekzistas formo por la *intas-tempo*.</small>
 
 Notes:
 * *havinits* — **habêra**
 * *havintos* ­— **habêre**
 
-<!--s-->
-
-# Korektoj
-
 <!--v-->
 
-| |
-|-|
-| plur <small>🌎 plure</small> |
-| |
-
-<small>Kiam la silabo antaŭ vortofina -*le*, -*ne* kaj -*re* estas akcentata, la -*e* eliziiĝas.</small>
-
-<!--v-->
-
-| klasika | moderna |
+| auxiliar | natural |
 |-|-|
-| character | charactere *[karakte-re]* <small>🌎 character</small> |
+| unesimo | primo |
 | | |
 
 <!--v-->
 
-| |
-|-|
-| aere *[ae-re]* <small>🌎 aer(e)</small> |
-| |
-| aeree *[aere-e]* |
-| |
+| auxiliar | natural |
+|-|-|
+| mi | ego ~ eo ~ io ~ jo |
+| | |
 
-<small>Malkiel la adjektivo *aeree* *[aere-e]*, la substantivo *aere* estas akcentata sur la *a*. Sekve la finaĵo -*e* ne eliziiĝas.</small>
+<!-- TODO nossa -->
+
+<!--s-->
+
+# Modifoj
+
+<!--v-->
+
+## Ortografio
 
 <!--v-->
 
 | |
 |-|
+| finantia <small>🌎 financia</small> |
+| pretio <small>🌎 precio</small> |
+| pronuntiar <small>🌎 pronunciar</small> |
+| |
+
+<!--v-->
+
+| |
+|-|
+| alçar <small>alciar <small>altĭar</small></small> <small>🌎 altiar</small> |
+| força <small>forcia <small>fortĭa</small></small> <small>🌎 fortia</small> |
+| março <small>marcio <small>martĭo</small></small> <small>🌎 martio</small> |
+| terça <small>tercia <small>tertĭa</small></small> <small>🌎 tertia</small> |
+| |
+
+<!--v-->
+
+| |
+|-|
+| extranie <small>🌎 estranie</small> |
+| |
+
+<!--v-->
+
+| |
+|-|
+| giraffa <small>🌎 girafa</small> |
+| quattro <small>🌎 quatro</small> |
+| |
+
+<!--v-->
+
+## Anakronismoj
+
+<!--v-->
+
+| |
+|-|
+| bajo <small>🌎 basio, 🇻🇦 bāsiō</small> |
+| charactere <small>🌎 character, 🇻🇦 charactēre</small> |
+| majo <small>🌎 maio, 🇻🇦 Māiō</small> |
+| |
+
+<!--v-->
+
+| |
+|-|
+| auscultar <small>🌎 ascoltar, 🇮🇹 ascoltare</small> |
+| camija <small>🌎 camisa, 🇪🇸🇵🇹 camisa</small> |
+| cuniculo <small>🌎 conilio, 🇮🇹 coniglio</small> |
+| manducar <small>🌎 manjar, 🇮🇹 mangiare, 🇫🇷 manger</small> |
+| pobre <small>🌎 povre, 🇫🇷 pauvre</small> |
+| ric <small>🌎 ric(c), 🇮🇹 ricca</small> |
+| sedula <small>🌎 sedia, 🇮🇹 sedia</small> |
+| |
+
+Notes:
+* pobre = kompatinda; paupere = malriĉa; 🌎 povre = malriĉa, kompatinda
+<!-- TODO accento, nonne? -->
+
+<!--v-->
+
+### Vokalismoj
+
+<!--v-->
+
+| |
+|-|
+| bisonio <small>🌎 besonio, 🇫🇷 besoin</small> |
+| cominçar <small>🌎 comenciar, 🇫🇷 commencer, 🇪🇸 comenzar, 🇵🇹 começar</small> |
+| eo <small>🌎 io, 🇮🇹 io</small> |
+| insignar <small>🌎 inseniar, 🇪🇸 enseñar</small> |
+| maistro <small>🌎 maestro, 🇮🇹 maestro, 🇪🇸 maestro</small> |
+| paese <small>🌎 pais, 🇫🇷 pays, 🇪🇸🇵🇹 país</small> |
+| sea <small>🌎 sia, 🇮🇹 sia</small> |
+| |
+
+<!--v-->
+
+## Korektoj
+
+<!--v-->
+
+| |
+|-|
+| aere <small>🌎 aer</small> |
+| |
+| inglese <small>🌎 anglese</small> |
+| |
 | paro <small>🌎 par</small> |
 | |
-| par |
+| plur <small>🌎 plure</small> |
 | |
 
 <small>La substantiva ekvivalento de la adjektivo *par* estas *paro*.</small>
 
-<!--v-->
-
-| |
-|-|
-| **alçar** <small>altĭar</small> = alciar <small>🌎 altiar</small> |
-| **basĭo** = bajo <small>🌎 basio</small> |
-| **força** <small>fortĭa</small> = forcia <small>🌎 fortia</small> |
-| **majo** <small>maio</small> = majo <small>🌎 maio</small> |
-| **março** <small>martĭo</small> = marcio <small>🌎 martio</small> |
-| **terça** <small>tertĭa</small> = tercia <small>🌎 tertia</small> |
-| |
-
-<small>Evitiĝas klasik-stilismoj, kiam la **(malfru-)modern-stila** formo estas ankoraŭ sufiĉe internacia.</small>
-
-<!--v-->
-
-| |
-|-|
-| **-âjo** <small>-at̯jğo</small> = -ajo <small>🌎 -age/-aje</small> |
-| **cominçar** <small>cominĭtĭar</small> = cominciar <small>🌎 comenciar</small> |
-| **êo** <small>eğo</small> = eo <small>🌎 io</small> |
-| **mâistro** <small>mağistro</small> = maistro <small>🌎 maestro</small> |
-| **manducar** <small>🌎 manjar</small> |
-| **paêse** <small>pağen̆se</small> = paese <small>🌎 pais</small> |
-| **påŭp̆ĕre** = pobre <small>🌎 povre</small> |
-| **sêa** <small>essea</small> = sea <small>🌎 sia</small> |
-| |
-
-<small>Evitiĝas nacilingvismoj, kiam la **(malfru-)modern-stila** formo estas ankoraŭ sufiĉe internacia. ...</small>
-
 Notes:
-* pobre = kompatinda; paupere = malriĉa; 🌎 povre = malriĉa, kompatinda
+* ankaŭ: 🌎 aere
+* anglese = Anglish
 
 <!--v-->
+
+<!-- TODO disigi -->
 
 | |
 |-|
-| **auscultar** <small>🌎 ascoltar</small> |
-| **camisĭa** = camija <small>🌎 camisa</small> |
-| **intrar** <small>🌎 entrar</small> |
+| a in alto <small>🌎 in alto</small> |
+| a in basso <small>🌎 a alto</small> |
 | |
-
-<small>... Evitiĝas malfru-modern-stilismoj, kiam la **modern-stila** formo estas ankoraŭ sufiĉe internacia. ...</small>
 
 <!--v-->
 
-| |
-|-|
-| **cunicŭlo** *[kuniklo]* <small>🌎 conilio *[koniljo]*</small> |
-| **sedŭla** *[sedja]* <small>🌎 sedia *[sedja]*</small> |
-| **extranie** *[estranje]* <small>🌎 estranie *[estranje]*</small> |
-| **insignar** *[insinjar]* <small>🌎 inseniar *[insenjar]*</small> |
-| |
+## Tabelvortoj kaj Personaj Pronomoj
 
-<!-- TODO cun → con ? -->
-
-<small>... Des pli, kiam la **modern-stila** prononco estas simila al la formo en **Tradicia Interlingvao**.</small>
-
-Notes:
-* corajo, formajo, missajo, passajo, viajo
+<!-- | **-âjo** <small>-at̯jğo</small> = -ajo <small>🌎 -age</small> | -->
 
 <!--v-->
+
+<!-- TODO natura registro -->
+<!-- illu → elle → ele → el -->
 
 | |
 |-|
@@ -1013,22 +954,7 @@ Notes:
 
 <!--v-->
 
-| |
-|-|
-| bisonio <small>🌎 besonio</small> |
-| |
-
-<!--v-->
-
-| |
-|-|
-| a in alto <small>🌎 in alto</small> |
-| a in basso <small>🌎 a alto</small> |
-| |
-
-<!--s-->
-
-# Reformoj
+## Prepozicioj
 
 <!--v-->
 
@@ -1036,11 +962,6 @@ Notes:
 |-|
 | en <small>🌎 a in</small> |
 | |
-
-<!--v-->
-
-| |
-|-|
 | su <small>🌎 su/lor</small> |
 | |
 
@@ -1048,10 +969,13 @@ Notes:
 
 <!--v-->
 
+## Adjektivoj kaj Adverboj
+
+<!--v-->
+
 | |
 |-|
 | franche <small>🌎 franc</small> |
-| |
 | franchemente <small>🌎 francamente</small> |
 | |
 
@@ -1061,40 +985,17 @@ Notes:
 
 | |
 |-|
-| longhe *[loŋge]* <small>🌎 longe</small> |
-| guitarra *[gitara]* |
-| |
-| guanto *[gŭanto]* |
-| |
-
-<small>La ortografio de **Postfinvenka Interlingvao** agnoskas la modern-stilan prononcon de *g* *[ĵ]* antaŭ *e*, *i* kaj *y*, markante la klasik-stilan prononcon de *g* en tiaj pozicioj per *h* inter *g* kaj la vokalo. Komence de vorto, uziĝas *u* anstataŭ *h*. Tial la serio de vortoj, kies *u* estas efektive prononcata (ekzemple en *guerra*), estas parkerigendaj.</small>
-
-Notes:
-* longhe, naufraghe, portughese
-
-<!--v-->
-
-| |
-|-|
-| turchese *[turkeze]* |
-| que *[ke]* |
-| |
-| quanto *[kŭanto]* |
-| |
-
-<small>Analogie, skribiĝas *ch* *[k]* antaŭ *e*, *i* kaj *y*, respektive *qu* *[k]* komence de vorto. En la **klasika stilo**, la prononcoj de *que* *[ke]* kaj *qui* *[ki]* estas *[kue']* kaj *[kui']*.</small>
-
-<!--v-->
-
-| |
-|-|
 | necessarie <small>🌎 necessari</small> |
 | |
 
-<small>Ankaŭ adjektivoj kun plursilaba radiko je *-i* finiĝas per -*e*.</small>
+<small>Ankaŭ la sufikso *-ari* finiĝas per -*e*.</small>
 
 Notes:
 * binari, necessari, precari, primari, secundari, voluntari
+
+<!--v-->
+
+## Verboj
 
 <!--v-->
 
@@ -1109,46 +1010,50 @@ Notes:
 
 | |
 |-|
-| giraffa <small>🌎 girafa/jirafa</small> |
-| quattro <small>🌎 quatro</small> |
-| riche <small>🌎 ric(c)</small> |
-| |
-
-<!--v-->
-
-| |
-|-|
 | facer-lo <small>🌎 facer lo</small> |
 | |
 
 <small>La enklita uzo de pronomoj skribiĝas kun ligostreko.</small>
 
-Notes:
-* Konsiderindas: facer-lo → facerlo
-
-<!--s-->
-
-# Numeraloj kaj Ordinaloj
-
-<small>Numeraloj ofte estas dusilabaj en la **klasika stilo**. En la **moderna stilo**, ili havas havi malpli longan formon. Simile, la **modern-stilaj** ordinaloj estas ofte bazitaj sur la **modern-stilaj** numeraloj.</small>
+<!-- TODO facer-lo → facerlo (natureca registro) -->
 
 <!--v-->
 
-| | | | | | | |
+## Kvazaŭ-substantivoj
+
+<!--v-->
+
+### Numeraloj kaj Ordinaloj
+
+<!-- TODO "klasika", "moderna" -->
+
+<small>Numeraloj estas malpli longaj en la **helpeca registro** ol en la **natureca registro**. (Krom *sex*, kiu estas senŝanĝa.) Simile, la **modern-stilaj** ordinaloj estas ofte bazitaj sur la **helpecaj** numeraloj.</small>
+
+<!--v-->
+
+| auxiliar | natural | | auxiliar | natural | | |
 |-|-|-|-|-|-|-|
-| uno     | un   | | prime   | unesime   | | - |
-| duo     | du   | | secunde | duesime   | | vinti |
-| tres    | tri  | | tercie  | triesime  | | trenta |
-| quattro | quar | | quarte  | quaresime | | quaranta |
-| cinque  | quin | | quinte  | quinesime | | cinquanta |
-| sex     | sex  | | sexte   | sexesime  | | sexanta |
-| septe   | sep  | | septime | septesime | | septanta |
-| octo    | oc   | | octave  | octesime  | | octanta |
-| novem   | nou  | | none    | novesime  | | novanta |
-| decem   | dec  | | decime  | decesime  | | - |
+| un   | uno     | | unesime   | prima   | | - |
+| du   | duo     | | duesime   | secunda | | vinti |
+| tri  | tres    | | triesime  | tercia  | | trenta |
+| quar | quattro | | quaresime | quarta  | | quaranta |
+| quin | cinque  | | quinesime | quinta  | | cinquanta |
+| | | | | | | |
+
+<!--v-->
+
+| auxiliar | natural | | auxiliar | natural | | |
+|-|-|-|-|-|-|-|
+| sex  | sex     | | sexesime  | sexta   | | sexanta |
+| sep  | septe   | | septesime | septima | | septanta |
+| oc   | octo    | | octesime  | octava  | | octanta |
+| nou  | novem   | | novesime  | nona    | | novanta |
+| dec  | decem   | | decesime  | decima  | | - |
 | | | | | | | |
 
 <!-- TODO Forte konsiderindas "un(e)" kaj "du(e)", nonne? -->
+<!-- TODO -em = -e? jam = ja? -->
+<!-- TODO korekto dece → decem -->
 
 Notes:
 * Notu ke anstataŭ ~trianta~ formiĝas *trenta*.
@@ -1161,24 +1066,137 @@ Notes:
 | mill | mille | | millesime |
 | | | | |
 
-<!--s-->
+<small>Notu ke la **naturecaj** numeraloj por *cent* kaj *mil* estas substantivoj, kiuj ricevas la finaĵon -*s*: *duo centos*, *octo milles*.</small>
 
-# Tabelvortoj
+<!--v-->
+
+### Tabelvortoj
+
+<!--v-->
+
+| | | | | |
+|-|-|-|-|-|
+| *unu ...* | un ... | | *unu* | uno |
+| | | | | |
+| *tiu ...* | ille ... | | *tio* | illo |
+| | | | | |
+| *ĉi tiu ...* | iste ... | | *ĉi tio* | isto |
+| | | | | |
+
+<!--v-->
+
+### Personaj Pronomoj
+
+<!--v-->
+
+| | | | | | | | |
+|-|-|-|-|-|-|-|-|
+| *li* | ille | | *ŝi* | illa | | *ĝi* | illo |
+| | | | | | | | |
+
+<!--v-->
+
+| | auxiliarissime | auxiliar |
+|-|-|-|
+| ille | *li, ŝi* | *li* |
+| illu | *li*     | *-*  |
+| | | |
+
+<!--v-->
+
+| | naturale | naturalissime |
+|-|-|-|
+| -lo | *ĝin* | *ĝin, lin* |
+| -le | *lin* | *-*        |
+| | | |
+
+<!-- nur fine mencii ankaŭ una kaj ista. -->
+
+<!--v-->
+
+| | auxiliar | natural |
+|-|-|-|
+| *unu (li)* | unu | un |
+| | | |
+
+<small>En la **natureca registro**, la formo *unu* cedas al *un*: ***Un**-de mi frate ama **una**-de mi sora.*</small>
+
+<!--v-->
+
+### Artikoloj
 
 <!--v-->
 
 | | |
 |-|-|
-| *unu* | un |
+| *-* | un |
 | | |
-| *unu (li)* | unu |
-| *unu (ŝi)* | una |
-| *unu (ĝi)* | uno |
+| *la* | le |
 | | |
 
-<small>*un* estas tabelvorto. En partitivaj frazeroj, *un* estas diferencigebla laŭ genro: *Mi frate e mi sora ha multe amicos. **Unu** de mi frate ama **una** de mi sora.*</small>
+-----
 
-<!-- TODO Korekto: uno → unu; uno → un -->
+<!--s-->
+
+| | |
+|-|-|
+| *unu (iu ...)* | un ... |
+| *unu (io)* | uno |
+| | |
+| *unu (ŝi, li)* | un- |
+| *unu (ŝi)* | una- |
+| *unu (li)* | unu- |
+| | |
+| *unu (ĝi)* | uno- |
+| | |
+
+<small>En partitivaj frazeroj, *un* estas uzata por persono, kaj *uno* por aferoj: *Mi frate e mi sora ha multe amicos. **Un**-de mi frate ama **un**-de mi sora.* Partitiva *un* estas diferencigebla laŭ genro: ***Unu**-de mi frate ama **una**-de mi sora.* Partitiva *un* estas uzebla kiel persona pronomo, t.e. sen *de*-frazero: ***Unu** ama un amica de mi sora.*</small>
+
+<!-- TODO frate sora -->
+
+<!--v-->
+
+| | auxiliar |
+|-|-|
+| *tiu ...* | ille |
+| *tio* | illo |
+| | |
+| *ŝi, li* | ille |
+| *ŝi* | illa |
+| *li* | illu |
+| | |
+| *ĝi* | illo |
+| | |
+
+<small>*Mi frate e mi sora ha du amicos. **Ille** de mi frate ama **ille** de mi sora.* ***Illu** de mi frate ama **illa** de mi sora.* ***Illu** ama un amica de mi sora.*</small>
+
+<!--v-->
+
+| natural |
+|-|
+| |
+
+| | conservative | progressive |
+|-|-|-|
+| *tiu ...* | eccu ille | quella |
+| *tio* | eccu illo | quello |
+| | | |
+| *ĉi tiu ...* | eccu iste | questa |
+| *ĉi tio* | eccu isto | questo |
+| | | |
+
+<small>En la **natureca registro**, tabelvortoj je *ill-* kaj *ist-* prefiksiĝas per *eccu* en la **konservema prononco**, respektive ili komenciĝas per *que-* anstataŭ *i-* en la **progresema prononco**.</small>
+
+<!--v-->
+
+| | auxiliar | natural |
+|-|-|-|
+| *ŝi, li* | ille | - |
+| *li* | illu | ille |
+| *lin, ĝin* | lu, lo | lo |
+| | | |
+
+<small>***Ille** de mi frate ama **illa** de mi sora.* En enklitika pozicio, la ŝajnprefikso *il-* eliziiĝas: *Tu lo vide.* En la **natureca registro**, la formo **lu** cedas al la formo **lo**. Ĉar la genre neŭtra persona pronomo ne plu uziĝas, ekzistas nur la du eklitikaj formoj **la** kaj **lo**.</small>
 
 <!--v-->
 
@@ -1190,11 +1208,16 @@ Notes:
 
 <small>La **klasik-stila** tabelvorto *(eccu) iste* kaj *(eccu) ille* fariĝas *queste* kaj *quelle* en la **moderna stilo**.</small>
 
+<!-- TODO "moderna" -->
+
 <!-- TODO Korekto: ille → illu -->
 
 <!--v-->
 
 <small>En la **natura registro**, la pronomoj je -*o* uziĝas anstataŭ tiuj je -*u*: ***ello** de mi frate ama **ella** de mi sora.* En la **moderna stilo**, *esso* estas tiam uzebla por *ĝi*: ***Esso** es interessante.*</small>
+
+TODO "moderna"
+
 <!--v-->
 
 | | | | | |
@@ -1300,9 +1323,9 @@ cuje
 ali-ibi → alibi (ie alie)
 alter-ubi (ie alie)
 
-<!--s-->
+<!--v-->
 
-# Personaj Pronomoj
+### Personaj Pronomoj
 
 <!--v-->
 
@@ -1351,11 +1374,6 @@ Kiel persona pronomo, la **klasik-stila** *ille* respektive la **modern-stila** 
 <!-- ecce ecco eccu -->
 
 <!--v-->
-
-<!-- qu- -->
-
-<!-- qua = qual -->
-<!-- quo = where (fru-klasika?) -->
 
 <!-- proque → pro que -->
 <!-- esque → es que -->
@@ -4647,4 +4665,75 @@ Notes:
 <!--v-->
 
 ## Z
+
+<!--s-->
+
+| classiche | moderne |
+|-|-|
+| hic | ci |
+| illac/ibi | la |
+| nunc | ora |
+| semper | sempre |
+| unquam | jammais |
+| nunquam | non ... jammais|
+| omne | tote |
+| olim | un vice |
+| | |
+
+<!--v-->
+
+| classiche | moderne |
+|-|-|
+| alicun | alcun, qualcun |
+| alicuno | alcuno, qualcuno |
+| alique | qualcosa |
+| nulle | necun |
+| nemo | necuno |
+| | |
+
+<!--v-->
+
+| classiche | moderne |
+|-|-|
+| etiam | anque |
+| sed | ma |
+| tamen | totevia |
+| ergo | dunque |
+| dum | durante que |
+| juxta | proxime/vicin a |
+| salvo | excepte |
+| apud | presso |
+| nam | proque |
+| postquam | post que |
+| an | esque |
+| | |
+
+<!--v-->
+
+| classiche | moderne |
+|-|-|
+| pauc | poc |
+| pauco | poco |
+| uxor | sposa |
+| disveloppar | developpar |
+| opera | obra |
+| | |
+
+<!--v-->
+
+| classiche | moderne |
+|-|-|
+| nimis | troppo |
+| subinde | sovente |
+| postea | pois, alora |
+| jam | ja |
+| satis | assatis |
+| | |
+
+<!--v-->
+
+| classiche | moderne |
+|-|-|
+| analysis | analyse |
+| | |
 
