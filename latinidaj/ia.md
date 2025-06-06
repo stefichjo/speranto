@@ -180,6 +180,11 @@ Notes:
 | littera | *[litera]* | *[letr(a)]* |
 | | | |
 
+<!-- 
+TODO "e" estas en ĉiuj fontolingvaj "littera", do jam progressive estu "letera".
+Eble pli komplike: littera kaj lettera kunekzistas.
+ -->
+
 <small>Akcentataj (mallongaj) *u* kaj *i* (ofte) prononciĝas *[o]* kaj *[e]*.</small>
 
 | | progressive | progressivissime |
@@ -314,13 +319,11 @@ Notes:
 | scriber | *[scriver']* |
 | | |
 
-<small>En verbaj radikoj, postvokala *b* prononciĝas *[v]*.</small>
+<small>En verbaj radikoj, postvokala *b* prononciĝas *[v]*. Escepto: *habitar* *[abitar']*.</small>
 
 Notes:
 * bibita *[bibi-ta]*
 * labor *[labor']* <small>labore *[labore]*</small> `?`
-
-<!-- TODO habitar ? -->
 
 <!--v-->
 
@@ -330,8 +333,6 @@ Notes:
 | | |
 | camera | *[kame-ra]* ~ ***[kamra]*** ~ *[ŝambr(a)]* |
 | | |
-
-<!-- TODO Ĉu ĉiam estas "e" en littera? -->
 
 <small>La *e* en la ne-akcentata sufikso -*er*- eliziiĝas.</small>
 
@@ -366,6 +367,7 @@ Notes:
 | | accento progressivissime |
 |-|-|
 | cassa | *[kapsa]* ~ ***[kasa]*** ~ *[kas(a)]* |
+| mese | *[mense]* <small>🌎</small> ~ ***[meze]*** ~ *[meze/mes]* |
 | hotel | *[ospital']* ~ ***[otel']*** ~ *[oteŭ']* |
 | | | |
 | o | *[aŭ]* ~ ***[o]*** |
@@ -444,9 +446,6 @@ Notes:
 | | | |
 | rete | *[rete]* | *[red]* |
 | | | |
-
-<!-- TODO | mese <small>🌎 mense</small> | més | -->
-<!-- qualcuno alcuno alco -->
 
 <small>La finaĵo -*e* eliziiĝas ne nur malantaŭ *l*, *n* kaj *r*, sed ankaŭ malantaŭ *c*, *d*, *s* kaj *t*.</small>
 
@@ -1049,6 +1048,7 @@ Notes:
 | | | | | |
 
 <!-- TODO kies = qua?; cuje?; ties = de-le? -->
+<!-- qualcuno alcuno alco -->
 
 Notes:
 * aliqui = ali-qui, quiunque = qui-unque, quique = qui-que
@@ -1270,11 +1270,11 @@ alter-ubi (ie alie)
 
 | | |
 |-|-|
-| *mi estas surprizinta ilin* | io ha suprendite-les → io les ha suprendite |
-| *surprizinte ilin, mi ...* | suprendite-les, io ... |
+| *mi estas surprizinta ilin* | io ha surprendite-les → io les ha surprendite |
+| *surprizinte ilin, mi ...* | surprendite-les, io ... |
 | | |
 
-<small>*io les ha suprendite* daŭre restas alternativo en **Tradicia Interlingvao**.</small>
+<small>*io les ha surprendite* daŭre restas alternativo en **Tradicia Interlingvao**.</small>
 
 <!--v-->
 
@@ -1324,6 +1324,13 @@ alter-ubi (ie alie)
 | | |
 |-|-|
 | *dek* | dece → decem |
+| | |
+
+<!--v-->
+
+| | |
+|-|-|
+| *monato* | mense → mese |
 | | |
 
 <!--v-->
