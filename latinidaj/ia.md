@@ -1,5 +1,5 @@
 ---
-title: Lingua International
+title: Interlingua
 separator: <!--s-->
 verticalSeparator: <!--v-->
 theme: sky
@@ -12,32 +12,10 @@ revealOptions:
 
 <!-- cd ~/Git/speranto/latinidaj; reveal-md ia.md -w -->
 
-<!-- lato lado -->
-
-<!-- surprendite-les, io ... -->
-<!-- io les ha surprendite. -->
-
-<!-- de-le = ties -->
-
-<!-- celle → quelle -->
-
-<!-- qualcuno alcuno alco -->
-
-<!-- compósite = componíte -->
-
+<!-- -age salvatico sauvage -->
 <!-- -essa → -esse [es] -->
-<!-- menu [u] ≠ [y] -->
 
-<!-- https://www.interlingua.com/linguistic/selige-un-stilo-de-interlingua/ -->
-<!-- ipse / mesme -->
-
-<!-- Alicuno -->
-<!-- joia -->
-<!-- mercuridie -->
-
-<!-- Havante la registrojn auxiliar kaj natural, imageblas ke kaj "nossa" kaj "nostra" estas en la stila kontinuo. -->
-
-# Lingua Inter-national
+# Interlingua
 
 <!--s-->
 
@@ -73,6 +51,7 @@ Notes:
 <small>Alternativa prononco de *[ĵ]* estas *[ĝ]*. Do, anstataŭ *[ĵusto]* eblas ankaŭ la prononco *[ĝusto]*. Miksi tiujn du prononcojn ŝajnas evitinde.</small>
 
 Notes:
+* La gramatiko de Wilgenhof permesas la prononcon *[ĵ]* por *g*, kaj *[ĝ]* por *j*, sed ne inverse.
 * horologio, litigio, prestigio, privilegio, prodigio
 
 <!--v-->
@@ -129,7 +108,7 @@ Notes:
 | *[spati-o]* | *[espas(o)]* |
 | | |
 
-<!-- TODO fina vokalo povas eliziiĝi en "progressivissime". -->
+<small>En la **progresemega prononco**, la ne-akcentata vortofina vokalo povas eliziiĝi.</small>
 
 Notes:
 * gratia, spatio
@@ -227,7 +206,14 @@ Notes:
 
 <small>*al*, *au*, *ae*, *ai* prononciĝas *[aŭ]*, *[o]*, *[aj]*, *[e]*.</small>
 
-<!-- | pauco <small>🌎 pauco/poco</small> | poco | -->
+<!--v-->
+
+| | progressive | progressivissime |
+|-|-|-|
+| a-in | *[ajn]* | *[en]* |
+| | | |
+
+<small>La kombino de la du prepozicioj *a* kaj *in* prononciĝas kun la diftongo *[aj]*, kiu fariĝas *[e]*.</small>
 
 <!--v-->
 
@@ -253,7 +239,7 @@ Notes:
 |-|-|-|
 | aperir | *[aperir]* | *[abri']* |
 | vita | *[vita]* | *[vid(a)]* |
-| aco | *[aco]* | *[ag(o)]* |
+| laco | *[laco]* | *[lag(o)]* |
 | | | |
 | ubi | *[ubi]* | *[uv(i)]* |
 | crede | *[krede]* | *[kre(e)]* |
@@ -302,7 +288,7 @@ Notes:
 <small>La *t* en la sufiksoj -*tate* kaj -*tute* prononciĝas *[d]*.</small>
 
 Notes:
-* cata, tote, strata, rota, vita
+* cata, lato, tote, strata, rota, vita
 
 <!--v-->
 
@@ -460,6 +446,7 @@ Notes:
 | | | |
 
 <!-- TODO | mese <small>🌎 mense</small> | més | -->
+<!-- qualcuno alcuno alco -->
 
 <small>La finaĵo -*e* eliziiĝas ne nur malantaŭ *l*, *n* kaj *r*, sed ankaŭ malantaŭ *c*, *d*, *s* kaj *t*.</small>
 
@@ -542,6 +529,19 @@ Notes:
 
 <!--v-->
 
+| | conservative | progressive |
+|-|-|-|
+| *frato* | fratre | frate |
+| *fratino* | soror | sora |
+| | | |
+
+<small>La **progresemaj** formoj de *fratre* kaj *soror* estas malregulaj.</small>
+
+Notes:
+* *soror* povintus esti *sorore*.
+
+<!--v-->
+
 | conservativissime | conservative | progressive |
 |-|-|-|
 | facĭte | facte | facite |
@@ -559,10 +559,21 @@ Notes:
 
 | conservative | progressive |
 |-|-|
-| habe *[habe]* | ha *[a]* |
+| habe | ha |
 | | |
 
 <small>La **konservema** formo de *ha* estas *habe*.</small>
+
+<!--v-->
+
+### vader
+
+| conservative | progressive |
+|-|-|
+| vade | va |
+| | |
+
+<!-- TODO aŭ (conservativissime) "ir" -->
 
 <!--s-->
 
@@ -633,7 +644,6 @@ Notes:
 <!-- ġ: exaġiar/exağiar essayar (exagium) -->
 <!-- lancear approchar approximar -->
 <!-- insimul → insimule? -->
-<!-- anglese ≠ inglese -->
 
 <!-- 
 | fru-klasika | klasika |
@@ -839,6 +849,8 @@ Notes:
 | terça <small>tercia <small>tertĭa</small></small> <small>🌎 tertia</small> |
 | |
 
+<!-- TODO tertie? -->
+
 <!--v-->
 
 | |
@@ -852,6 +864,13 @@ Notes:
 |-|
 | giraffa <small>🌎 girafa</small> |
 | quattro <small>🌎 quatro</small> |
+| |
+
+<!--v-->
+
+| auxiliar | natural |
+|-|-|
+| facer-lo <small>🌎 facer lo</small> | facerlo |
 | |
 
 <!--v-->
@@ -871,6 +890,7 @@ Notes:
 
 | |
 |-|
+| -arie <small>🌎 -ari, 🇫🇷 -aire</small>
 | auscultar <small>🌎 ascoltar, 🇮🇹 ascoltare</small> |
 | camija <small>🌎 camisa, 🇪🇸🇵🇹 camisa</small> |
 | cuniculo <small>🌎 conilio, 🇮🇹 coniglio</small> |
@@ -895,127 +915,12 @@ Notes:
 | bisonio <small>🌎 besonio, 🇫🇷 besoin</small> |
 | cominçar <small>🌎 comenciar, 🇫🇷 commencer, 🇪🇸 comenzar, 🇵🇹 começar</small> |
 | eo <small>🌎 io, 🇮🇹 io</small> |
+| -ia <small>🌎 -ea, 🇫🇷 -ait</small> |
 | insignar <small>🌎 inseniar, 🇪🇸 enseñar</small> |
 | maistro <small>🌎 maestro, 🇮🇹 maestro, 🇪🇸 maestro</small> |
 | paese <small>🌎 pais, 🇫🇷 pays, 🇪🇸🇵🇹 país</small> |
 | sea <small>🌎 sia, 🇮🇹 sia</small> |
 | |
-
-<!--v-->
-
-## Korektoj
-
-<!--v-->
-
-| |
-|-|
-| aere <small>🌎 aer</small> |
-| |
-| inglese <small>🌎 anglese</small> |
-| |
-| paro <small>🌎 par</small> |
-| |
-| plur <small>🌎 plure</small> |
-| |
-
-<small>La substantiva ekvivalento de la adjektivo *par* estas *paro*.</small>
-
-Notes:
-* ankaŭ: 🌎 aere
-* anglese = Anglish
-
-<!--v-->
-
-<!-- TODO disigi -->
-
-| |
-|-|
-| a in alto <small>🌎 in alto</small> |
-| a in basso <small>🌎 a alto</small> |
-| |
-
-<!--v-->
-
-## Tabelvortoj kaj Personaj Pronomoj
-
-<!-- | **-âjo** <small>-at̯jğo</small> = -ajo <small>🌎 -age</small> | -->
-
-<!--v-->
-
-<!-- TODO natura registro -->
-<!-- illu → elle → ele → el -->
-
-| |
-|-|
-| **ïlla** = ella <small>🌎 illa/ella</small> |
-| |
-
-<small>Pronomoj kaj tabelvortoj je *i*- havas la **(malfru-)modern-stilan** *e*-.</small>
-
-<!--v-->
-
-## Prepozicioj
-
-<!--v-->
-
-| |
-|-|
-| en <small>🌎 a in</small> |
-| |
-| su <small>🌎 su/lor</small> |
-| |
-
-<small>La refleksiva pronomo *su* uziĝas kaj por ununombraj kaj por multenombraj posedantoj.</small>
-
-<!--v-->
-
-## Adjektivoj kaj Adverboj
-
-<!--v-->
-
-| |
-|-|
-| franche <small>🌎 franc</small> |
-| franchemente <small>🌎 francamente</small> |
-| |
-
-<small>Ankaŭ adjektivoj je *-c* finiĝas per -*e*.</small>
-
-<!--v-->
-
-| |
-|-|
-| necessarie <small>🌎 necessari</small> |
-| |
-
-<small>Ankaŭ la sufikso *-ari* finiĝas per -*e*.</small>
-
-Notes:
-* binari, necessari, precari, primari, secundari, voluntari
-
-<!--v-->
-
-## Verboj
-
-<!--v-->
-
-| |
-|-|
-| faceria <small>🌎 facerea</small> |
-| |
-
-<small>La us-moda finaĵo estas -*ia* (kun akcento sur la *i*).</small>
-
-<!--v-->
-
-| |
-|-|
-| facer-lo <small>🌎 facer lo</small> |
-| |
-
-<small>La enklita uzo de pronomoj skribiĝas kun ligostreko.</small>
-
-<!-- TODO facer-lo → facerlo (natureca registro) -->
 
 <!--v-->
 
@@ -1025,9 +930,7 @@ Notes:
 
 ### Numeraloj kaj Ordinaloj
 
-<!-- TODO "klasika", "moderna" -->
-
-<small>Numeraloj estas malpli longaj en la **helpeca registro** ol en la **natureca registro**. (Krom *sex*, kiu estas senŝanĝa.) Simile, la **modern-stilaj** ordinaloj estas ofte bazitaj sur la **helpecaj** numeraloj.</small>
+<small>Numeraloj estas malpli longaj en la **helpeca registro** ol en la **natureca registro**. (Krom *sex*, kiu estas senŝanĝa.) Simile, la **helpecaj** ordinaloj estas ofte bazitaj sur la **helpecaj** numeraloj.</small>
 
 <!--v-->
 
@@ -1053,7 +956,6 @@ Notes:
 
 <!-- TODO Forte konsiderindas "un(e)" kaj "du(e)", nonne? -->
 <!-- TODO -em = -e? jam = ja? -->
-<!-- TODO korekto dece → decem -->
 
 Notes:
 * Notu ke anstataŭ ~trianta~ formiĝas *trenta*.
@@ -1078,6 +980,15 @@ Notes:
 |-|-|-|-|-|
 | *unu ...* | un ... | | *unu* | uno |
 | | | | | |
+
+<!--v-->
+
+| auxiliar |
+|-|
+| |
+
+| | | | | |
+|-|-|-|-|-|
 | *tiu ...* | ille ... | | *tio* | illo |
 | | | | | |
 | *ĉi tiu ...* | iste ... | | *ĉi tio* | isto |
@@ -1085,178 +996,39 @@ Notes:
 
 <!--v-->
 
-### Personaj Pronomoj
-
-<!--v-->
-
-| | | | | | | | |
-|-|-|-|-|-|-|-|-|
-| *li* | ille | | *ŝi* | illa | | *ĝi* | illo |
-| | | | | | | | |
-
-<!--v-->
-
-| | auxiliarissime | auxiliar |
-|-|-|-|
-| ille | *li, ŝi* | *li* |
-| illu | *li*     | *-*  |
-| | | |
-
-<!--v-->
-
-| | naturale | naturalissime |
-|-|-|-|
-| -lo | *ĝin* | *ĝin, lin* |
-| -le | *lin* | *-*        |
-| | | |
-
-<!-- nur fine mencii ankaŭ una kaj ista. -->
-
-<!--v-->
-
-| | auxiliar | natural |
-|-|-|-|
-| *unu (li)* | unu | un |
-| | | |
-
-<small>En la **natureca registro**, la formo *unu* cedas al *un*: ***Un**-de mi frate ama **una**-de mi sora.*</small>
-
-<!--v-->
-
-### Artikoloj
-
-<!--v-->
-
-| | |
-|-|-|
-| *-* | un |
-| | |
-| *la* | le |
-| | |
-
------
-
-<!--s-->
-
-| | |
-|-|-|
-| *unu (iu ...)* | un ... |
-| *unu (io)* | uno |
-| | |
-| *unu (ŝi, li)* | un- |
-| *unu (ŝi)* | una- |
-| *unu (li)* | unu- |
-| | |
-| *unu (ĝi)* | uno- |
-| | |
-
-<small>En partitivaj frazeroj, *un* estas uzata por persono, kaj *uno* por aferoj: *Mi frate e mi sora ha multe amicos. **Un**-de mi frate ama **un**-de mi sora.* Partitiva *un* estas diferencigebla laŭ genro: ***Unu**-de mi frate ama **una**-de mi sora.* Partitiva *un* estas uzebla kiel persona pronomo, t.e. sen *de*-frazero: ***Unu** ama un amica de mi sora.*</small>
-
-<!-- TODO frate sora -->
-
-<!--v-->
-
-| | auxiliar |
-|-|-|
-| *tiu ...* | ille |
-| *tio* | illo |
-| | |
-| *ŝi, li* | ille |
-| *ŝi* | illa |
-| *li* | illu |
-| | |
-| *ĝi* | illo |
-| | |
-
-<small>*Mi frate e mi sora ha du amicos. **Ille** de mi frate ama **ille** de mi sora.* ***Illu** de mi frate ama **illa** de mi sora.* ***Illu** ama un amica de mi sora.*</small>
-
-<!--v-->
-
 | natural |
 |-|
 | |
 
-| | conservative | progressive |
-|-|-|-|
-| *tiu ...* | eccu ille | quella |
-| *tio* | eccu illo | quello |
-| | | |
-| *ĉi tiu ...* | eccu iste | questa |
-| *ĉi tio* | eccu isto | questo |
-| | | |
+| | | | | |
+|-|-|-|-|-|
+| *tiu ...* | quella ... | | *tio* | quello |
+| | | | | |
+| *ĉi tiu ...* | queste ... | | *ĉi tio* | questo |
+| | | | | |
 
-<small>En la **natureca registro**, tabelvortoj je *ill-* kaj *ist-* prefiksiĝas per *eccu* en la **konservema prononco**, respektive ili komenciĝas per *que-* anstataŭ *i-* en la **progresema prononco**.</small>
-
-<!--v-->
-
-| | auxiliar | natural |
-|-|-|-|
-| *ŝi, li* | ille | - |
-| *li* | illu | ille |
-| *lin, ĝin* | lu, lo | lo |
-| | | |
-
-<small>***Ille** de mi frate ama **illa** de mi sora.* En enklitika pozicio, la ŝajnprefikso *il-* eliziiĝas: *Tu lo vide.* En la **natureca registro**, la formo **lu** cedas al la formo **lo**. Ĉar la genre neŭtra persona pronomo ne plu uziĝas, ekzistas nur la du eklitikaj formoj **la** kaj **lo**.</small>
-
-<!--v-->
-
-| | classiche | moderne |
-|-|-|-|
-| *ĉi tiu* | (eccu) iste | queste |
-| *tiu*    | (eccu) ille | quelle |
-| | | |
-
-<small>La **klasik-stila** tabelvorto *(eccu) iste* kaj *(eccu) ille* fariĝas *queste* kaj *quelle* en la **moderna stilo**.</small>
-
-<!-- TODO "moderna" -->
-
-<!-- TODO Korekto: ille → illu -->
-
-<!--v-->
-
-<small>En la **natura registro**, la pronomoj je -*o* uziĝas anstataŭ tiuj je -*u*: ***ello** de mi frate ama **ella** de mi sora.* En la **moderna stilo**, *esso* estas tiam uzebla por *ĝi*: ***Esso** es interessante.*</small>
-
-TODO "moderna"
+<small>En la **natureca registro**, la tabelvortoj *ille* kaj *iste* havas la formon *quella* kaj *questa*.</small>
 
 <!--v-->
 
 | | | | | |
 |-|-|-|-|-|
-| *tiu*    | quelle | | *tio*    | quello |
-| *ĉi tiu* | queste | | *ĉi tio* | questo |
+| *tiu* | ille | | *tio* | illo |
 | | | | | |
-
-<small>Ĉar *(eccu) illo* respektive *quello* estas tuj komprenebla kiel *tio*, analogie *ĉi tio* estas esprimebla per *questo*.</small>
-
-<!-- ce ille = celle? -->
-
-<!--v-->
-
-| | |
-|-|-|
-| *al li/ŝi/ĝi/ili* | a elle(s) → li |
-| | |
-
-<small>En enklitika pozicio, dativa triapersona frazaĵo fariĝas *li*: *eo da le libro a mi amico.* → *eo da illo **a illu**.* → *eo **li**-lo da.*</small>
-
-<!--v-->
-
-| | | | | |
-|-|-|-|-|-|
 | *iu*    | ulle  | | *io*    | ~ullo~ → alique |
 | *neniu* | nulle | | *nenio* | ~nullo~ → nihil/nemo |
 | *ĉiu*   | omne  | | *ĉio*   | ~omno~ → tuto |
 | | | | | |
 
-<small>Analogie, *io*, *nenio* kaj *ĉio* ŝajnas tradukeblaj kiel *ullo*, *nullo* kaj *omno*, sed anstataŭe uziĝas *alique*, *nihil* kaj *tuto*. Por *neniu* en la senco de *neniu persono*, uziĝas *nemo*.</small>
+<small>Analogie al la tabelvortoj *ille ...* kaj *illo*, *io*, *nenio* kaj *ĉio* ŝajnas tradukeblaj kiel *ullo*, *nullo* kaj *omno*, sed anstataŭe uziĝas *alique*, *nihil* kaj *tuto*. Por *neniu* en la senco de *neniu persono*, uziĝas *nemo*.</small>
 
 <!--v-->
 
 <small>La tabelvorta prefikso *alic*- uziĝas por formi tabelvorton tradukeblan per *i-*. Ĝi mallongiĝas al *ali*- antaŭ konsonanto: *ali-quo* (*ien*), *alic-ubi* (*ie*).</small>
 
-<small>La **klasik-stila** formo de *quanto* kaj *quando* estas *quam*. La **klasik-stila** formo de *como* estas *quo-modo*.</small>
+<small>La **konservema** formo de *quanto* kaj *quando* estas *quam*. La **konservema** formo de *como* estas *quo-modo*.</small>
 
-<small>La tabelvorta sufikso *-unque* uziĝas por formi tabelvorton tradukeblan per *ki- ajn*. Antaŭ ĝi, ne-akcentata vokalo eliziiĝas: *ub-unque*. Ĝia **klasik-stila** formo estas *-cumque*.</small>
+<small>La tabelvorta sufikso *-unque* uziĝas por formi tabelvorton tradukeblan per *ki- ajn*. Antaŭ ĝi, ne-akcentata vokalo eliziiĝas: *ub-unque*. Ĝia **konservema** formo estas *-cumque*.</small>
 
 <small>La tabelvorta sufikso *-que* uziĝas por formi tabelvorton tradukeblan per *kelk-* ~ *plur-* ~ *ĉ-*: *ubi-que* (*kelk-loke* ~ *plur-loke* ~ *ĉie*), *qual-que* (*kelk-specaj* ~ *plur-specaj* ~ *ĉiaj*)</small>
 
@@ -1276,26 +1048,172 @@ TODO "moderna"
 | *e*  | alicubi   | ubi    | ubunque     | ubique    |
 | | | | | |
 
+<!-- TODO kies = qua?; cuje?; ties = de-le? -->
+
 Notes:
 * aliqui = ali-qui, quiunque = qui-unque, quique = qui-que
 
 <!--v-->
 
-tiu/tio iste, ille
-ties loro?illorum?
-tia TAL
-tiel si
-tiom TANTO
-tiam tunc
-tial ergo
-tien ?
-tie ibi
+| | | | | |
+|-|-|-|-|-|
+| *kia* | qual | | *tia* | tal |
+| *kiom* | quanto | | *tiom* | tanto |
+| | | | | |
+| *kiam* | quando | | *tiam* | ~tando~ → tunc |
+| *kial* | quare | | *tial* | ~tare~ → ergo |
+| | | | | |
 
-que~qual
+<!-- quam tam -->
 
-ubi-que ĉie
+<!--v-->
+
+| | | | | |
+|-|-|-|-|-|
+| *kiel* | como | | *tiel* | si |
+| *kie* | ubi | | *tie* | ibi |
+| | | | | |
+
+<!--v-->
+
+### Artikoloj
+
+<!--v-->
+
+| | |
+|-|-|
+| *-* | un |
+| | |
+| *la* | le |
+| | |
+
+<!--v-->
+
+### Tria-Personaj Pronomoj
+
+<!--v-->
+
+| | |
+|-|-|
+| *oni* | on |
+| | |
+
+<small>Kiel persona pronomo, *un* fariĝas *on* (nur en nominativo): ***On** crede lo-que **on** spera.*</small>
+
+<!--v-->
+
+| | | | | |
+|-|-|-|-|-|
+| *unu (ŝi)* | una | | *unu (ĝi)* | uno |
+| | | | | |
+| *ŝi* | illa | | *ĝi* | illo |
+| | | | | |
+
+<!--v-->
+
+| auxiliarissime |
+|-|
+| |
+
+| | | | | |
+|-|-|-|-|-|
+| *unu (li)* | unu | | *unu (li, ŝi)* | un |
+| | | | | |
+| *li* | illu | | *li, ŝi* | ille |
+| | | | | |
+
+<!--v-->
+
+| | auxiliar |
+|-|-|
+| *unu (li)* | un |
+| | |
+| *li* | ille |
+| | |
+
+<!--v-->
+
+| | natural |
+|-|-|
+| *unu (li)* | un/uno |
+| | |
+| *li* | ille/lo |
+| | |
+
+<small>En enklitika pozicio, la **natureca registro** de *un* kaj *le* estas *uno* kaj *lo*.</small>
+
+<!--v-->
+
+| | auxiliar | natural |
+|-|-|-|
+| *ŝi* | illa | ella |
+| | | |
+
+<!--v-->
+
+| | auxiliarissime | auxiliar |
+|-|-|-|
+| *unu (li)* | unu | un |
+| | | |
+| *ĉi tiu (li)* | istu | iste |
+| | | |
+
+<small>Ankaŭ *un* kaj *iste* povas konduti kiel personaj pronomoj. En la **natureca registro**, la formoj *unu* kaj *istu* cedas al *un* kaj *iste*: *Mi frate e mi sora ha multe amicos. **Un** de mi frate ama **una** de mi sora.* La **natureca registro** de tia persona pronomo kiel *ista* tiam estas *esta*.</small>
+
+<!--v-->
+
+| | |
+|-|-|
+| *al li/ŝi/ĝi/ili* | li = a ille(s), a illa(s), a illo(s) |
+| | |
+
+<small>En enklitika pozicio, dativa triapersona frazaĵo fariĝas *li*: *eo da illo **a illa**.* → *eo **li**-lo da.*</small>
+
+<!--v-->
+
+### Unua- kaj Dua-Personaj Pronomoj
+
+<!--v-->
+
+| | | | | | |
+|-|-|-|-|-|-|
+| *mi(n)* | mi | me | | *mia* | mi(e) |
+| *ci(n)* | tu | te | | *cia* | tu(e) |
+| | | | | | |
+| *ni(n)* | nos | nos | | *nia* | nostre |
+| *vi(n)* | vos | vos | | *via* | vostre |
+| | | | | | |
+
+<!--v-->
+
+| natural |
+|-|
+| |
+
+| | conservative | progressive | progressivissime |
+|-|-|-|-|
+| *mi* | ego | eo | io ~ jo |
+| | | | |
+
+<small>La **natureca registro** de *mi* havas *ego* kiel **konserveman** formon, kaj *eo* kiel **progreseman** formon. En **progresemega** stilo, *eo* fariĝas *io* aŭ *jo*.</small>
+
+<!--v-->
+
+| | progressive | progressivissime |
+|-|-|-|
+| *nia* | nostre | nosse |
+| *via* | vostre | vosse |
+| | | |
+
+<small>La **progresemegaj** formoj *nostre* kaj *vostre* estas *nosse* kaj *vosse*.</small>
+
+<!--s-->
+
+<!--v-->
 
 (ali-c-un, vd. necun)
+
+LA qua = wo, auf welchem Weg?
 
 un- i- ajn
 un-qui
@@ -1318,72 +1236,102 @@ alic-unde
 qua (qua function?)
 =quam?
 
-cuje
-
 ali-ibi → alibi (ie alie)
 alter-ubi (ie alie)
 
 <!--v-->
 
-### Personaj Pronomoj
+<!-- ecce ecco eccu -->
 
 <!--v-->
 
-| | | | | | |
-|-|-|-|-|-|-|
-| *mi(n)* | eo | me | | *mia* | mi(e) |
-| *ci(n)* | tu | te | | *cia* | tu(e) |
-| | | | | | |
-| *ni(n)* | nos | nos | | *nia* | nostre |
-| *vi(n)* | vos | vos | | *via* | vostre |
-| | | | | | |
+<!-- proque → pro-que -->
+<!-- esque → es-que -->
 
-<small>La **malfru-modern-stila** formo de *eo* estas *io*.</small>
+<!-- qualunque qualque -->
+<!-- cuje -->
+<!-- kolekti vortojn kun ali-, -un, -unque, -umque -->
+<!-- kies de kiu quia de qui; de kio quea de que -->
 
-<small>La **malfru-modern-stilaj** formoj de *nostre* kaj *vostre* estas *nosse* kaj *vosse*.</small>
+<!--s-->
 
-<!-- TODO plej regule, do classique-auxiliar: eo = mi: mi me mi(e), tu te tu(e) -->
-<!-- (Ĉu mi (anstataŭ io/eo) povas esti en la sama registro/stilo kiel "nosse"?) -->
+# Apendico: Korektoj
 
 <!--v-->
 
 | | |
 |-|-|
-| *oni* | on |
+| menu | *[meny']* → *[menu']* |
 | | |
 
-<small>Kiel persona pronomo, *un* fariĝas *on* (nur en nominativo): ***On** crede lo-que **on** spera.*</small>
+<!--  ? -->
 
 <!--v-->
 
-| | classiche | moderne |
-|-|-|-|
-| *li* | illu | ellu |
-| *ŝi* | illa | ella |
-| *ĝi* | illo | ello |
-| | | |
+| | |
+|-|-|
+| *mi estas surprizinta ilin* | io ha suprendite-les → io les ha suprendite |
+| *surprizinte ilin, mi ...* | suprendite-les, io ... |
+| | |
 
-<small>
-
-Kiel persona pronomo, la **klasik-stila** *ille* respektive la **modern-stila** *elle* estas diferencigebla laŭ genro: *Mi frate e mi sora invita su melior amicos; **ellu** de mi frate ama **ella** de mi sora.* En partitivaj aŭ enklitikaj frazeroj, *el-* eliziiĝas: *pro representar-los*.</small>
-
-<small>*el* estas uzebla kiel neŭtra persona pronomo en la **helpa registro**: ***El** niva.*</small>
-
-<small>La refleksiva pronomo estas *se*: *ello se move*. La poseda pronomo estas *su*: *le parentes e su infante*.</small>
-
-<!-- ecce ecco eccu -->
+<small>*io les ha suprendite* daŭre restas alternativo en **Tradicia Interlingvao**.</small>
 
 <!--v-->
 
-<!-- proque → pro que -->
-<!-- esque → es que -->
+| | |
+|-|-|
+| *libera* | franc → franche |
+| *libere* | francamente → franchemente |
+| | |
 
-<!-- qualunque qualque -->
-<!-- quia jam ekzistas kaj signifas "ĉar". konflikto. -->
-<!-- PT estas malklara; vd. PT um; ĉu eble estas ligo kun "alicum"? -->
-<!-- cuje -->
-<!-- kolekti vortojn kun ali-, -un, -unque, -umque -->
-<!-- kies de kiu quia de qui; de kio quea de que -->
+<small>Ankaŭ adjektivoj je *-c* finiĝas per -*e*.</small>
+
+<!--v-->
+
+| | |
+|-|-|
+| *sia* | su/lor → su |
+| *unu (li)* | uno → un |
+| | |
+
+<!--v-->
+
+| | |
+|-|-|
+| *paro* | par → paro |
+| *vane* | in van → in vano |
+| | |
+
+<!--v-->
+
+| | |
+|-|-|
+| *aero* | aer(e) → aere |
+| *malmulte* | pauco/poco → poco |
+| *plura* | plure → plur |
+| | |
+
+<!--v-->
+
+| | |
+|-|-|
+| *alten* | in alto → a-in alto |
+| *malalten* | a basso → a-in basso |
+| | |
+
+<!--v-->
+
+| | |
+|-|-|
+| *dek* | dece → decem |
+| | |
+
+<!--v-->
+
+| | |
+|-|-|
+| *angla* | anglese → inglese |
+| | |
 
 <!--s-->
 
@@ -4737,3 +4685,5 @@ Notes:
 | analysis | analyse |
 | | |
 
+<!-- https://www.interlingua.com/linguistic/selige-un-stilo-de-interlingua/ -->
+<!-- ipse / mesme ? -->
