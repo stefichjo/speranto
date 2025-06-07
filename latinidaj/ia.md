@@ -15,6 +15,9 @@ revealOptions:
 <!-- -age salvatico sauvage -->
 <!-- -essa → -esse [es] -->
 
+<!-- TODO jam quam novem decem -->
+<!-- TODO kies = qua?; cuje?; ties = de-le? -->
+
 # Interlingua
 
 <!--s-->
@@ -177,13 +180,8 @@ Notes:
 |-|-|-|
 | mundo | *[mundo]* | *[mond(o)]* |
 | | | |
-| littera | *[litera]* | *[letr(a)]* |
+| sin | *[sin]* | *[sen]* |
 | | | |
-
-<!-- 
-TODO "e" estas en ĉiuj fontolingvaj "littera", do jam progressive estu "letera".
-Eble pli komplike: littera kaj lettera kunekzistas.
- -->
 
 <small>Akcentataj (mallongaj) *u* kaj *i* (ofte) prononciĝas *[o]* kaj *[e]*.</small>
 
@@ -366,11 +364,17 @@ Notes:
 
 | | accento progressivissime |
 |-|-|
+| entrar | *[intrar']* ~ ***[entrar']*** ~ *[entra']* |
+| o | *[aŭ]* ~ ***[o]*** |
+| | | |
+
+<!--v-->
+
+| | accento progressivissime |
+|-|-|
 | cassa | *[kapsa]* ~ ***[kasa]*** ~ *[kas(a)]* |
 | mese | *[mense]* <small>🌎</small> ~ ***[meze]*** ~ *[meze/mes]* |
 | hotel | *[ospital']* ~ ***[otel']*** ~ *[oteŭ']* |
-| | | |
-| o | *[aŭ]* ~ ***[o]*** |
 | | | |
 
 <!--v-->
@@ -384,7 +388,12 @@ Notes:
 | livrar ≠ liberar | *[liberar']* ~ ***[livrar']*** ~ *[livra']* |
 | | | |
 
-<!-- TODO Konsiderendas, ĉu la neologismo havu pli aŭ malpli konservativan signifon. -->
+<!--v-->
+
+| | accento progressivissime |
+|-|-|
+| littera | ***[lite-ra]*** ~ *[letr(a)]* |
+| | | |
 
 <!--v-->
 
@@ -572,7 +581,10 @@ Notes:
 | vade | va |
 | | |
 
-<!-- TODO aŭ (conservativissime) "ir" -->
+| conservativissime | conservative |
+|-|-|
+| ir | vader |
+| | |
 
 <!--s-->
 
@@ -727,6 +739,10 @@ Notes:
 |-|-|-|
 | **auxiliar** | essere *[esse-re]* | esser *[eser']* |
 | **natural**  | | ser *[ser]* |
+| | | |
+
+Notes:
+* site, (es)sente
 
 <!--v-->
 
@@ -745,10 +761,6 @@ Notes:
 
 Notes:
 * La naturecaj konservemegaj formoj de *esser* estas: *essem*, *esses*, *esset*, *essemus*, *essetis*, *essent*. La respektiva helpeca formo estas *esse*.
-
-<!-- TODO -->
-<!-- | essite | site -->
-<!-- | essente | essente/-sente | -->
 
 <!--v-->
 
@@ -819,8 +831,6 @@ Notes:
 | mi | ego ~ eo ~ io ~ jo |
 | | |
 
-<!-- TODO nossa -->
-
 <!--s-->
 
 # Modifoj
@@ -845,10 +855,8 @@ Notes:
 | alçar <small>alciar <small>altĭar</small></small> <small>🌎 altiar</small> |
 | força <small>forcia <small>fortĭa</small></small> <small>🌎 fortia</small> |
 | março <small>marcio <small>martĭo</small></small> <small>🌎 martio</small> |
-| terça <small>tercia <small>tertĭa</small></small> <small>🌎 tertia</small> |
+| terço <small>tercio <small>tertĭo</small></small> <small>🌎 tertio</small> |
 | |
-
-<!-- TODO tertie? -->
 
 <!--v-->
 
@@ -901,7 +909,6 @@ Notes:
 
 Notes:
 * pobre = kompatinda; paupere = malriĉa; 🌎 povre = malriĉa, kompatinda
-<!-- TODO accento, nonne? -->
 
 <!--v-->
 
@@ -952,9 +959,6 @@ Notes:
 | nou  | novem   | | novesime  | nona    | | novanta |
 | dec  | decem   | | decesime  | decima  | | - |
 | | | | | | | |
-
-<!-- TODO Forte konsiderindas "un(e)" kaj "du(e)", nonne? -->
-<!-- TODO -em = -e? jam = ja? -->
 
 Notes:
 * Notu ke anstataŭ ~trianta~ formiĝas *trenta*.
@@ -1047,9 +1051,6 @@ Notes:
 | *e*  | alicubi   | ubi    | ubunque     | ubique    |
 | | | | | |
 
-<!-- TODO kies = qua?; cuje?; ties = de-le? -->
-<!-- qualcuno alcuno alco -->
-
 Notes:
 * aliqui = ali-qui, quiunque = qui-unque, quique = qui-que
 
@@ -1063,8 +1064,6 @@ Notes:
 | *kiam* | quando | | *tiam* | ~tando~ → tunc |
 | *kial* | quare | | *tial* | ~tare~ → ergo |
 | | | | | |
-
-<!-- quam tam -->
 
 <!--v-->
 
@@ -1210,6 +1209,11 @@ Notes:
 <!--s-->
 
 <!--v-->
+
+<!-- quam tam -->
+<!-- qualcuno alcuno alco -->
+
+
 
 (ali-c-un, vd. necun)
 
