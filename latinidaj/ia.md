@@ -18,6 +18,81 @@ revealOptions:
 <!-- TODO jam quam novem decem -->
 <!-- TODO kies = qua?; cuje?; ties = de-le? -->
 
+<!-- TODO -->
+<!-- i.e. id es (latinaĵo, cetere) -->
+<!-- | *maniero* | manera <small>📜 manuaria, 🌎 maniera</small> | -->
+<!-- espaventar -->
+<!-- ġ: exaġiar/exağiar essayar (exagium) -->
+<!-- lancear approchar approximar -->
+<!-- insimul → insimule? -->
+
+<!-- 
+| fru-klasika | klasika |
+|-|-|
+| ɪᴠsᴛᴏ | justo |
+| | |
+| ᴘʀᴇʜᴇɴᴅᴇʀᴇ | prendere |
+| | |
+ -->
+
+<!-- 
+| moderna | malfru-moderna |
+|-|-|
+| obstaculo | obstachio |
+| | |
+| sedula | sedia |
+| | |
+ -->
+
+<!-- sitila secchio -->
+
+<!-- <small>Kiam -*ŭl*- fariĝas malfacile prononcebla *l*, ĝi fariĝas *i*.</small> -->
+
+
+<!-- quam tam -->
+<!-- qualcuno alcuno alco -->
+
+
+<!-- 
+(ali-c-un, vd. necun)
+
+LA qua = wo, auf welchem Weg?
+
+un- i- ajn
+un-qui
+(un-quam ol kio ajn)
+un-quando iam ajn
+
+n-un- neni-
+(n-un-quam ol nenio)
+n-un-quando neniam
+
+nulle = necun
+(ali-c-un)
+
+ali-qui-un → alcun
+ali-quo → alco
+
+ali-quot
+alic-unde
+
+qua (qua function?)
+=quam?
+
+ali-ibi → alibi (ie alie)
+alter-ubi (ie alie)
+ -->
+
+<!-- ecce ecco eccu -->
+
+<!-- proque → pro-que -->
+<!-- esque → es-que -->
+
+<!-- qualunque qualque -->
+<!-- cuje -->
+<!-- kolekti vortojn kun ali-, -un, -unque, -umque -->
+<!-- kies de kiu quia de qui; de kio quea de que -->
+
 # Interlingua
 
 <!--s-->
@@ -649,35 +724,6 @@ Notes:
 
 <small>Per konvencio, la diakrita skribo povas esti skribita per alternativaj literoj, kiuj evitas diakritojn.</small>
 
-<!-- i.e. id es (latinaĵo, cetere) -->
-<!-- | *maniero* | manera <small>📜 manuaria, 🌎 maniera</small> | -->
-<!-- espaventar -->
-<!-- ġ: exaġiar/exağiar essayar (exagium) -->
-<!-- lancear approchar approximar -->
-<!-- insimul → insimule? -->
-
-<!-- 
-| fru-klasika | klasika |
-|-|-|
-| ɪᴠsᴛᴏ | justo |
-| | |
-| ᴘʀᴇʜᴇɴᴅᴇʀᴇ | prendere |
-| | |
- -->
-
-<!-- 
-| moderna | malfru-moderna |
-|-|-|
-| obstaculo | obstachio |
-| | |
-| sedula | sedia |
-| | |
- -->
-
-<!-- sitila secchio -->
-
-<!-- <small>Kiam -*ŭl*- fariĝas malfacile prononcebla *l*, ĝi fariĝas *i*.</small> -->
-
 <!--s-->
 
 # Registroj
@@ -1208,57 +1254,6 @@ Notes:
 
 <!--s-->
 
-<!--v-->
-
-<!-- quam tam -->
-<!-- qualcuno alcuno alco -->
-
-
-
-(ali-c-un, vd. necun)
-
-LA qua = wo, auf welchem Weg?
-
-un- i- ajn
-un-qui
-(un-quam ol kio ajn)
-un-quando iam ajn
-
-n-un- neni-
-(n-un-quam ol nenio)
-n-un-quando neniam
-
-nulle = necun
-(ali-c-un)
-
-ali-qui-un → alcun
-ali-quo → alco
-
-ali-quot
-alic-unde
-
-qua (qua function?)
-=quam?
-
-ali-ibi → alibi (ie alie)
-alter-ubi (ie alie)
-
-<!--v-->
-
-<!-- ecce ecco eccu -->
-
-<!--v-->
-
-<!-- proque → pro-que -->
-<!-- esque → es-que -->
-
-<!-- qualunque qualque -->
-<!-- cuje -->
-<!-- kolekti vortojn kun ali-, -un, -unque, -umque -->
-<!-- kies de kiu quia de qui; de kio quea de que -->
-
-<!--s-->
-
 # Apendico: Korektoj
 
 <!--v-->
@@ -1267,8 +1262,6 @@ alter-ubi (ie alie)
 |-|-|
 | menu | *[meny']* → *[menu']* |
 | | |
-
-<!--  ? -->
 
 <!--v-->
 
