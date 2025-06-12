@@ -12,84 +12,6 @@ revealOptions:
 
 <!-- cd ~/Git/speranto/latinidaj; reveal-md ia.md -w -->
 
-<!-- TODO kies = qua?; cuje?; ties = de-le? -->
-<!-- Ĉu "cuje" estas tabelvorto kaj tial havas la finaĵon -e? (LA cuius) -->
-
-<!-- TODO -->
-<!-- i.e. id es (latinaĵo, cetere) -->
-<!-- | *maniero* | manera <small>📜 manuaria, 🌎 maniera</small> | -->
-<!-- espaventar -->
-<!-- ġ: exaġiar/exağiar essayar (exagium) -->
-<!-- lancear approchar approximar -->
-<!-- insimul → insimule? -->
-
-<!-- 
-| fru-klasika | klasika |
-|-|-|
-| ɪᴠsᴛᴏ | justo |
-| | |
-| ᴘʀᴇʜᴇɴᴅᴇʀᴇ | prendere |
-| | |
- -->
-
-<!-- 
-| moderna | malfru-moderna |
-|-|-|
-| obstaculo | obstachio |
-| | |
-| sedula | sedia |
-| | |
- -->
-
-<!-- sitila secchio -->
-
-<!-- <small>Kiam -*ŭl*- fariĝas malfacile prononcebla *l*, ĝi fariĝas *i*.</small> -->
-
-
-<!-- quam tam -->
-<!-- qualcuno alcuno alco -->
-
-
-<!-- 
-(ali-c-un, vd. necun)
-
-LA qua = wo, auf welchem Weg?
-
-un- i- ajn
-un-qui
-(un-quam ol kio ajn)
-un-quando iam ajn
-
-n-un- neni-
-(n-un-quam ol nenio)
-n-un-quando neniam
-
-nulle = necun
-(ali-c-un)
-
-ali-qui-un → alcun
-ali-quo → alco
-
-ali-quot
-alic-unde
-
-qua (qua function?)
-=quam?
-
-ali-ibi → alibi (ie alie)
-alter-ubi (ie alie)
- -->
-
-<!-- ecce ecco eccu -->
-
-<!-- proque → pro-que -->
-<!-- esque → es-que -->
-
-<!-- qualunque qualque -->
-<!-- cuje -->
-<!-- kolekti vortojn kun ali-, -un, -unque, -umque -->
-<!-- kies de kiu quia de qui; de kio quea de que -->
-
 # Interlingua
 
 <!--s-->
@@ -267,6 +189,28 @@ Notes:
 | | | |
 
 <small>En **progresemega prononco**, la vokalo en ne-akcentata sufikso eliziiĝas laŭeble.</small>
+
+<!--v-->
+
+| | progressive | progressivissime |
+|-|-|-|
+| obstaculo | *[obstaku-lo]* | *[obstakl(o)]* ~ *[obstak(jo)]* |
+| | | |
+| sedia | *[sedu-la]* | *[sedl(a)]* ~ *[sed(ja)]* |
+| | | |
+
+<small>Kiam rezultiĝas *l* malantaŭ konsonanto, *l* povas fariĝi *i*.</small>
+
+<!--v-->
+
+| | progressive | progressivissime |
+|-|-|-|
+| sitila | *[siti-la]* | *[sitl(a)]* ~ *[sik(ja)]* |
+| | | |
+| vetule | *[vetu-le]* | *[vetl(e)]* ~ *[vek(je)]* |
+| | | |
+
+<small>Tiam *[tl]* fariĝas *[kj]*</small>
 
 <!--v-->
 
@@ -686,14 +630,6 @@ Notes:
 
 <!--v-->
 
-## Etimologia kaj Fonetika Skriboj
-
-<!--v-->
-
-### Diakrita Skribo
-
-<!--v-->
-
 | etymologiche | diacritiche | phonetiche |
 |-|-|-|
 | musica | musĭca | muzi-ka |
@@ -743,38 +679,47 @@ Notes:
 
 <small>Per konvencio, la diakrita skribo povas esti skribita per alternativaj literoj, kiuj evitas diakritojn.</small>
 
+<!--v-->
+
+| conservativissime | conservative |
+|-|-|
+| ɪᴠsᴛᴏ | justo |
+| | |
+| ᴘʀᴇʜᴇɴᴅᴇʀᴇ | prendere |
+| | |
+
 <!--s-->
 
 # Registroj
 
 <!--v-->
 
-## Helpa kaj Helpecega Registroj
+## Helpeca kaj Helpecega Registroj
 
-<small>**Tradicia Interlingvao**, ne distingas inter la antas-tempo kaj la as-tempo, inter la intas-tempo kaj la is-tempo, kaj la ontas-tempo kaj la os-tempo. Ĝi havas nek formojn je -*ando* nek intis-formojn.</small>
+<small>**Tradicia Interlingvao** ne distingas inter la antas-tempo kaj la as-tempo, inter la intas-tempo kaj la is-tempo, kaj la ontas-tempo kaj la os-tempo. Ĝi havas nek formojn je -*ando* nek intis-formojn.</small>
 
 <!--v-->
 
 | | auxiliarissime | auxiliar |
 |-|-|-|
-| sta amando | -<small>🌎 es amante</small> | *estas amanta* |
-| ama | *amas* | *amas* |
+| *amas* | ama | ama |
+| *amantas* | - | sta amando <small>🌎 es amante</small> |
 | | | |
 
 <!--v-->
 
 | | auxiliarissime | auxiliar |
 |-|-|-|
-| ha amate | *amis* | *estas aminta* |
-| amava | - | *amis* |
+| *amis* | ha amate | amava |
+| *amintas* | - | ha amate |
 | | | |
 
 <!--v-->
 
 | | auxiliarissime | auxiliar |
 |-|-|-|
-| va amar | *amos* | *estas amonta* |
-| amara | - | *amos* |
+| *amos* | va amar | amara |
+| *amontas* | - | va amar |
 | | | |
 
 <!--v-->
@@ -803,9 +748,9 @@ Notes:
 
 <!--v-->
 
-### Konjunktivo kaj Kondicionalo
+### Konjunktivo
 
-<small>**Tradicia Interlingvao** ne havas konjunktivon, sed nur kondicionalon.</small>
+<small>**Tradicia Interlingvao** ne havas konjunktivon.</small>
 
 <!--v-->
 
@@ -840,11 +785,11 @@ Notes:
 
 <!--v-->
 
-| | naturalissime |
+| | auxiliar |
 |-|-|
-| *estintas* | fue *[fŭe]* |
+| *estintas* | fue |
 | | |
-| *havintas* | habeu *[a-beu]* |
+| *havintas* | habeu |
 | | |
 
 Notes:
@@ -905,7 +850,7 @@ Notes:
 
 | auxiliar | natural |
 |-|-|
-| mi | ego ~ eo ~ io ~ jo |
+| mi | ego ~ eo ~ io ~ jo ~ j' |
 | | |
 
 <!--v-->
@@ -1143,7 +1088,7 @@ Notes:
 |-|-|-|-|-|
 | *tiu* | ille | | *tio* | illo |
 | | | | | |
-| *iu*    | ulle  | | *io*    | ~ullo~ → alique |
+| *iu*    | ulle  | | *io*    | ~ullo~ → alique/aliqui |
 | *neniu* | nulle | | *nenio* | ~nullo~ → nihil/nemo |
 | *ĉiu*   | omne  | | *ĉio*   | ~omno~ → tuto |
 | | | | | |
@@ -1152,13 +1097,80 @@ Notes:
 
 <!--v-->
 
-<small>La tabelvorta prefikso *alic*- uziĝas por formi tabelvorton tradukeblan per *i-*. Ĝi mallongiĝas al *ali*- antaŭ konsonanto: *ali-quo* (*ien*), *alic-ubi* (*ie*).</small>
+| | conservative | progressive |
+|-|-|-|
+| *kiam* | quam | quando |
+| *kiom* | quam | quanto |
+| | | |
 
-<small>La **konservema** formo de *quanto* kaj *quando* estas *quam*. La **konservema** formo de *como* estas *quo-modo*.</small>
+| | conservativissime | conservative |
+|-|-|-|
+| *kiel* | quomodo | como |
+| | | |
 
-<small>La tabelvorta sufikso *-unque* uziĝas por formi tabelvorton tradukeblan per *ki- ajn*. Antaŭ ĝi, ne-akcentata vokalo eliziiĝas: *ub-unque*. Ĝia **konservema** formo estas *-cumque*.</small>
+<small>La **konservema** formo de *quando* kaj *quanto* estas *quam*. La **konservemega** formo de *como* estas *quomodo*.</small>
+
+<!--v-->
+
+| | conservativissime | conservative | progressive |
+|-|-|-|-|
+| *ie* | aliqui-ubi | alicubi | alcubi |
+| | | | |
+
+<small>La tabelvorto *aliqui* uziĝas kiel prefikso por formi i-tabelvortojn. Ĝiaj **konservema** kaj **progresema** formoj estas *alic*- respektive *alc*-.</small>
+
+| | conservative | progressive |
+|-|-|-|
+| *ien* | aliquo | alquo |
+| *iel* | alicomo | alcomo |
+| | | | |
+
+<small>Antaŭ konsonanto, t.e. antau *qu-* (aŭ *c-*), uziĝas nur *ali-* kiel prefikso.</small>
+
+Notes:
+* *io* ~alco~
+
+<!--v-->
+
+| | conservativissime | conservative | progressive |
+|-|-|-|-|
+| *iu* | aliqui-un | alicun | alcun |
+| | | | |
+
+<small>Antaŭ ~*aliqui-qui*~, uziĝas *aliqui-un* por *iu*.</small>
+
+<!--v-->
+
+| | conservativissime | conservative | progressive |
+|-|-|-|-|
+| *kie ajn* | ubi-cumque | ubicunque | ubunque |
+| *kiel ajn* | quo-modo-cumque | comocunque | comunque |
+| *kia ajn* | qual-cumque | qualcunque | qualunque |
+| | | | |
+
+<small>La tabelvorta sufikso *-cumque* uziĝas por formi tabelvorton tradukeblan per *ki- ajn*. Ĝiaj **konservema** kaj **progresema** formoj estas -*cunque" respektive -*unque* (tiam eliziiĝas ne-akcentata vokalo antaŭ ĝi).</small>
+
+<!-- TODO kŭe -->
+
+<!--v-->
+
+| | |
+|-|-|
+| *ĉie*, *kelkloke* | ubique |
+| *ĉiaj*, *kelkaj* | qualque |
+| | |
 
 <small>La tabelvorta sufikso *-que* uziĝas por formi tabelvorton tradukeblan per *kelk-* ~ *plur-* ~ *ĉ-*: *ubi-que* (*kelk-loke* ~ *plur-loke* ~ *ĉie*), *qual-que* (*kelk-specaj* ~ *plur-specaj* ~ *ĉiaj*)</small>
+
+<!--v-->
+
+| | | |
+|-|-|-|
+| *kelk-iu* | qualque un | qualcun |
+| *kelk-io* | qualque cosa | qualcosa |
+| | | |
+
+<small>La tabelvorto *qualque* uziĝas kiel prefikso por esprimi *kelk-*. Antaŭ *qu-* aŭ *c-*, la fina -*que* eliziiĝas.</small>
 
 <!--v-->
 
@@ -1166,7 +1178,7 @@ Notes:
 |-|-|-|-|-|
 | *u*  | aliqui    | qui    | quiunque    | quique    |
 | *o*  | alique    | que    | queunque    | queque    |
-| *es* | aliqua    | qua    | quaunque    | quaque    |
+| *es* | alicuje   | cuje   | cujunque    | cujeque   |
 | *a*  | aliqual   | qual   | qualunque   | qualque   |
 | *el* | alicomo   | como   | comunque    | comoque   |
 | *om* | aliquanto | quanto | quantunque  | quantoque |
@@ -1175,9 +1187,6 @@ Notes:
 | *en* | aliquo    | quo    | quounque    | quoque    |
 | *e*  | alicubi   | ubi    | ubunque     | ubique    |
 | | | | | |
-
-Notes:
-* aliqui = ali-qui, quiunque = qui-unque, quique = qui-que
 
 <!--v-->
 
@@ -1316,10 +1325,10 @@ Notes:
 
 | | conservative | progressive | progressivissime |
 |-|-|-|-|
-| *mi* | ego | eo | io ~ jo |
+| *mi* | ego | eo | io ~ jo ~ j' |
 | | | | |
 
-<small>La **natureca registro** de *mi* havas *ego* kiel **konserveman** formon, kaj *eo* kiel **progreseman** formon. En **progresemega** stilo, *eo* fariĝas *io* aŭ *jo*.</small>
+<small>La **natureca registro** de *mi* havas *ego* kiel **konserveman** formon, kaj *eo* kiel **progreseman** formon. En **progresemega** prononco, *eo* fariĝas *io*, *jo* aŭ *j'*.</small>
 
 <!--v-->
 
@@ -1412,6 +1421,15 @@ Notes:
 | | |
 |-|-|
 | *monato* | mense → mese |
+| *neniam* | jammais → jamais |
+| | |
+
+<!--v-->
+
+| | |
+|-|-|
+| *kvar* | quatro → quattro |
+| *litero* | litera → littera |
 | | |
 
 <!--v-->
@@ -1419,6 +1437,7 @@ Notes:
 | | |
 |-|-|
 | *angla* | anglese → inglese |
+| *maniero* | maniera → manera |
 | | |
 
 <!--s-->
@@ -3121,6 +3140,16 @@ lib/liv?
 
 <!--v-->
 
+**manera** <small>**manärĭa**</small>
+
+| 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
+|:-:|:-:|:-:|:-:|
+| … | … | manera | … |
+| *maniera* | *manière* | *manera* | *maneira* |
+| | | | |
+
+<!--v-->
+
 **manjare** <small>**manducare**</small>
 
 <!--v-->
@@ -4704,27 +4733,52 @@ Notes:
 
 <!--s-->
 
-| classiche | moderne |
+# Stilo
+
+<!--v-->
+
+| conservative | progressive |
+|-|-|
+| analysis | analyse |
+| | |
+
+<small>Grekismoj …</small>
+
+<!--v-->
+
+| conservative | progressive |
+|-|-|
+| alicun | alcun, qualcun |
+| alique | ~alque~, qualcosa |
+| | |
+| nulle | necun |
+| nemo | necuno |
+| | |
+
+<!-- TODO necuno? necun? -->
+
+<small>Tabelvortoj …</small>
+
+<!--v-->
+
+| conservative | progressive |
 |-|-|
 | hic | ci |
-| illac/ibi | la |
 | nunc | ora |
-| semper | sempre |
-| unquam | jammais |
-| nunquam | non ... jammais|
-| omne | tote |
-| olim | un vice |
 | | |
+
+<small>Tabelvortoj …</small>
 
 <!--v-->
 
 | classiche | moderne |
 |-|-|
-| alicun | alcun, qualcun |
-| alicuno | alcuno, qualcuno |
-| alique | qualcosa |
-| nulle | necun |
-| nemo | necuno |
+| illac/ibi | la |
+| semper | sempre |
+| unquam | jamais <small>🌎 jammais</small> |
+| nunquam | non ... jamais <small>🌎 non ... jammais</small> |
+| omne | tote |
+| olim | un vice |
 | | |
 
 <!--v-->
@@ -4748,11 +4802,8 @@ Notes:
 
 | classiche | moderne |
 |-|-|
-| pauc | poc |
-| pauco | poco |
 | uxor | sposa |
 | disveloppar | developpar |
-| opera | obra |
 | | |
 
 <!--v-->
@@ -4762,16 +4813,16 @@ Notes:
 | nimis | troppo |
 | subinde | sovente |
 | postea | pois, alora |
-| jam | ja |
 | satis | assatis |
 | | |
 
-<!--v-->
+<!-- TODO -->
+<!-- i.e. id es (latinaĵo, cetere) -->
+<!-- espaventar -->
+<!-- ġ: exaġiar/exağiar essayar (exagium) -->
+<!-- lancear approchar approximar -->
+<!-- insimul → insimule? -->
 
-| classiche | moderne |
-|-|-|
-| analysis | analyse |
-| | |
 
 <!-- https://www.interlingua.com/linguistic/selige-un-stilo-de-interlingua/ -->
 <!-- ipse / mesme ? -->
