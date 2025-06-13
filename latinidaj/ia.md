@@ -1093,22 +1093,51 @@ Notes:
 | *ĉiu*   | omne  | | *ĉio*   | ~omno~ → tuto |
 | | | | | |
 
-<small>Analogie al la tabelvortoj *ille ...* kaj *illo*, *io*, *nenio* kaj *ĉio* ŝajnas tradukeblaj kiel *ullo*, *nullo* kaj *omno*, sed anstataŭe uziĝas *alique*, *nihil* kaj *tuto*. Por *neniu* en la senco de *neniu persono*, uziĝas *nemo*.</small>
+<small>Analogie al la tabelvortoj *ille ...* kaj *illo*, *io*, *nenio* kaj *ĉio* ŝajnas tradukeblaj kiel *ullo*, *nullo* kaj *omno*, sed anstataŭe uziĝas *alique*, *nihil* kaj *tuto*. Por *iu* kaj *neniu* por personoj uziĝas *aliqui* kaj *nemo*.</small>
+
+<!--v-->
+
+| | conservativissime | conservative |
+|-|-|-|
+| *kiam* | quam | quando |
+| *kiom* | quam | quanto |
+| | | |
+| *kiel* | quo-modo | como |
+| | | |
+
+<small>La **konservemega** formo de *quando* kaj *quanto* estas *quam*. La **konservemega** formo de *como* estas *quomodo*.</small>
+
+<!--v-->
+
+| | |
+|-|-|
+| *ĉie*, *kelkloke* | ubique  |
+| *ĉiaj*, *kelkaj*  | qualque |
+| | |
+
+<small>La tabelvorta sufikso *-que* uziĝas por formi tabelvorton tradukeblan per *kelk-* ~ *plur-* ~ *ĉ-*: *ubi-que* (*kelk-loke* ~ *plur-loke* ~ *ĉie*), *qual-que* (*kelk-specaj* ~ *plur-specaj* ~ *ĉiaj*)</small>
+
+<small>La **progresema** prononco de *qualque* estas *[kŭalke]*.</small>
 
 <!--v-->
 
 | | conservative | progressive |
 |-|-|-|
-| *kiam* | quam | quando |
-| *kiom* | quam | quanto |
+| *kelk-iu* | aliqui | qualque un   |
+| *kelk-io* | alique | qualque cosa |
 | | | |
 
-| | conservativissime | conservative |
+<small>La tabelvorto *qualque* uziĝas kiel prefikso por esprimi *kelk-*.</small>
+
+<!--v-->
+
+| | progressive | progressivissime |
 |-|-|-|
-| *kiel* | quomodo | como |
-| | | |
+| *kelk-iu* | qualque un   | qualcun  |
+| *kelk-io* | qualque cosa | qualcosa |
+| | | | |
 
-<small>La **konservema** formo de *quando* kaj *quanto* estas *quam*. La **konservemega** formo de *como* estas *quomodo*.</small>
+<small>Antaŭ *qu-* aŭ *c-*, la fina -*que* eliziiĝas.</small>
 
 <!--v-->
 
@@ -1121,7 +1150,7 @@ Notes:
 
 | | conservative | progressive |
 |-|-|-|
-| *ien* | aliquo | alquo |
+| *ien* | aliquo  | alquo  |
 | *iel* | alicomo | alcomo |
 | | | | |
 
@@ -1134,8 +1163,11 @@ Notes:
 
 | | conservativissime | conservative | progressive |
 |-|-|-|-|
-| *iu* | aliqui-un | alicun | alcun |
+| *iu*     | aliqui    | alicun | alcun |
+| *iu ...* | aliqui-un | alicun | alcun |
 | | | | |
+
+<!-- TODO alicuno alcuno IA -->
 
 <small>Antaŭ ~*aliqui-qui*~, uziĝas *aliqui-un* por *iu*.</small>
 
@@ -1143,34 +1175,13 @@ Notes:
 
 | | conservativissime | conservative | progressive |
 |-|-|-|-|
-| *kie ajn* | ubi-cumque | ubicunque | ubunque |
-| *kiel ajn* | quo-modo-cumque | comocunque | comunque |
-| *kia ajn* | qual-cumque | qualcunque | qualunque |
+| *kie ajn*  | ubi-cumque      | ubicunque  | ubunque   |
+| *kiel ajn* | quo-modo-cumque | comocunque | comunque  |
+| *kiu ajn*  | qui-cumque      | quicunque  | quiunque  |
+| *kia ajn*  | qual-cumque     | qualcunque | qualunque |
 | | | | |
 
 <small>La tabelvorta sufikso *-cumque* uziĝas por formi tabelvorton tradukeblan per *ki- ajn*. Ĝiaj **konservema** kaj **progresema** formoj estas -*cunque" respektive -*unque* (tiam eliziiĝas ne-akcentata vokalo antaŭ ĝi).</small>
-
-<!-- TODO kŭe -->
-
-<!--v-->
-
-| | |
-|-|-|
-| *ĉie*, *kelkloke* | ubique |
-| *ĉiaj*, *kelkaj* | qualque |
-| | |
-
-<small>La tabelvorta sufikso *-que* uziĝas por formi tabelvorton tradukeblan per *kelk-* ~ *plur-* ~ *ĉ-*: *ubi-que* (*kelk-loke* ~ *plur-loke* ~ *ĉie*), *qual-que* (*kelk-specaj* ~ *plur-specaj* ~ *ĉiaj*)</small>
-
-<!--v-->
-
-| | | |
-|-|-|-|
-| *kelk-iu* | qualque un | qualcun |
-| *kelk-io* | qualque cosa | qualcosa |
-| | | |
-
-<small>La tabelvorto *qualque* uziĝas kiel prefikso por esprimi *kelk-*. Antaŭ *qu-* aŭ *c-*, la fina -*que* eliziiĝas.</small>
 
 <!--v-->
 
@@ -1381,7 +1392,9 @@ Notes:
 | | |
 |-|-|
 | *sia* | su/lor → su |
+| | |
 | *unu (li)* | uno → un |
+| *neniu (li)* | necuno → necun |
 | | |
 
 <!--v-->
@@ -4749,13 +4762,11 @@ Notes:
 | conservative | progressive |
 |-|-|
 | alicun | alcun, qualcun |
-| alique | ~alque~, qualcosa |
+| alique | alcun cosa, qualcosa |
 | | |
 | nulle | necun |
-| nemo | necuno |
+| nemo  | necun <small>🌎 necuno</small> |
 | | |
-
-<!-- TODO necuno? necun? -->
 
 <small>Tabelvortoj …</small>
 
