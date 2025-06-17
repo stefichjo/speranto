@@ -1093,6 +1093,10 @@ Notes:
 | *ĉiu*   | omne  | | *ĉio*   | ~omno~ → tuto |
 | | | | | |
 
+<!-- TODO -->
+<!-- qualcosa/qualcun -->
+<!-- necosa?/necun -->
+
 <small>Analogie al la tabelvortoj *ille ...* kaj *illo*, *io*, *nenio* kaj *ĉio* ŝajnas tradukeblaj kiel *ullo*, *nullo* kaj *omno*, sed anstataŭe uziĝas *alique*, *nihil* kaj *tuto*. Por *iu* kaj *neniu* por personoj uziĝas *aliqui* kaj *nemo*.</small>
 
 <!--v-->
@@ -1127,7 +1131,7 @@ Notes:
 | *kelk-io* | alique | qualque cosa |
 | | | |
 
-<small>La tabelvorto *qualque* uziĝas kiel prefikso por esprimi *kelk-*.</small>
+<small>La tabelvorto *qualque* uziĝas kvazaŭ prefikso por esprimi *kelk-*.</small>
 
 <!--v-->
 
@@ -4793,6 +4797,8 @@ Notes:
 | | |
 
 <!--v-->
+
+<!-- TODO tamben -->
 
 | classiche | moderne |
 |-|-|
