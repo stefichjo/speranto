@@ -14,6 +14,251 @@ revealOptions:
 
 # Interlingua
 
+<small>Prononco</small>
+<small>Nivelo</small>
+<small>Ortografio</small>
+
+<!--s-->
+
+# Prononco
+
+<!--v-->
+
+## Konservema kaj Progresema Pronconcoj
+
+<!--v-->
+
+### Duonvokaloj
+
+<!--v-->
+
+| | conservative | progressive |
+|-|-:|-|
+| aqua | *[aku-a]* | *[akŭa]* |
+| | | |
+| radio | *[radi-o]* | *[radjo]* |
+| | | |
+
+<!--v-->
+
+### Palataleco
+
+<!--v-->
+
+| | conservative | progressive |
+|-|-:|-|
+| gente | *[gente]* | *[ĵente]* |
+| | | |
+| justo | *[justo]* | *[ĝusto]* |
+| | | |
+
+Notes:
+* La gramatiko de Wilgenhof permesas la prononcon *[ĵ]* nur por palatala *g*, kaj la prononcon *[ĝ]* nur por *j*. Tia malsimetrio ŝajnas evitinda.
+
+<!--v-->
+
+| | conservative | progressive |
+|-|-:|-|
+| gente | *[gente]* | *[ĵente]* |
+| | | |
+| justo | *[justo]* | __*[ĵusto]*__ |
+| | | |
+
+<!--v-->
+
+| | conservative | progressive |
+|-|-:|-|
+| gente 🔊 | *[gente]* | *[gente]* |
+| | | |
+| justo 🔊 | *[justo]* | *[justo]* |
+| | | |
+
+Notes:
+* horologio, litigio, prestigio, privilegio, prodigio
+
+<!--v-->
+
+| | conservative | progressive |
+|-|-:|-|
+| centro | *[centro]* | *[sentro]* |
+| | | |
+| spatio | *[spaci-o]* | *[spasjo]* |
+| | | |
+
+<!--v-->
+
+| | conservative | progressive |
+|-|-:|-|
+| centro 🔊 | *[kentro]* | *[ĉentro]* |
+| | | |
+| spatio 🔊 | *[spati-o]* | *[spaθjo]* |
+| | | |
+
+Notes:
+* gratia, spatio
+* centro: *[kentro]* ~ *[centro]*
+  * glacie, indicio, officio, socio, specie
+* justo: *[iusto]* ~ *[justo]*
+  * justo, majo, major, pejo, pejor
+* prematur: *[praematur']* ~ *[prematur']*
+
+<!--v-->
+
+### h
+
+<!--v-->
+
+| | conservative | progressive |
+|-|-:|:-|
+| hora | *[hora]* | *[ora]* |
+| | | |
+
+<!--v-->
+
+### -le, -re kaj -ne
+
+<small>La finaĵo -*e* eliziiĝas malantaŭ *l*, *r* aŭ *n*.</small>
+
+<!--v-->
+
+| | conservative/progressive |
+|-|:-:|
+| sol | *[sol]* |
+| | |
+| mar | *[mar]* |
+| | |
+| pan | *[pan]* |
+| | |
+
+<!--v-->
+
+| | conservative | progressive |
+|-|-:|-|
+| __sole__ | __*[sole]*__ | *[sol]* |
+| | | |
+| __mare__ | __*[mare]*__ | *[mar]* |
+| | | |
+| __pane__ | __*[pane]*__ | *[pan]* |
+| | | |
+
+<!--v-->
+
+<small>La *-e* eliziiĝas nur malantaŭ akcentata vokalo.</small>
+
+<!--v-->
+
+| | conservative/progressive |
+|-|:-:|
+| ansere | *[anse-re]* |
+| | |
+
+<!--v-->
+
+<small>La *-e* konserviĝas en la as-formo de verboj.</small>
+
+<!--v-->
+
+| | conservative/progressive |
+|-|:-:|
+| tene | *[tene]* |
+| | |
+
+<!--v-->
+
+<small>La ne-akcentata infinitiva finaĵo *-ere* fariĝas akcentata *-er*.</small>
+
+<!--v-->
+
+| | conservative/progressive |
+|-|:-:|
+| prender | *[prender']* |
+| | |
+
+<!--v-->
+
+| | conservative | progressive |
+|-|-:|-|
+| __prendere__ | __*[prende-re]*__ | *[prender']* |
+| | | |
+
+<!-- TODO Ĉu tiu formo licas jam en la gramatikoj de Interlingvao? -->
+
+<!--v-->
+
+## Konservemega Prononco
+
+<small>latina akĉento</small>
+
+<!--v-->
+
+## Progresemega Prononco
+
+<small>itala, franca, hispana, portugala akĉentoj</small>
+
+<!--v-->
+
+### Duonvokaloj
+
+<small>Vortfina (duon-)vokalo estas eliziebla.</small>
+
+<!--v-->
+
+| | progressive | progressivissime |
+|-|-|-|
+| gratia | *[grasja]* | *[gras]* |
+| | | |
+
+<!--v-->
+
+### sp kaj st
+
+<small>Radikokomencaj *sp* kaj *st* prononciĝas *[esp]* kaj *[est]*.</small>
+<small>Inter vokaloj, la *s* en *sp* kaj *st* eliziiĝas.</small>
+
+<!--v-->
+
+| | progressive | progressivissime |
+|-|-|-|
+| sperantia | *[speransja]* | *[esperans']* |
+| | | |
+| station | *[stasjon']* | *[estasjon']* |
+| | | |
+
+<!--v-->
+
+| | progressive | progressivissime |
+|-|-|-|
+| crespa | *[krespa]* | *[krep]* |
+| | | |
+| hostello | *[hostello]* | *[otel']* |
+| | | |
+
+<!-- TODO konsultu je "crespa" -->
+
+<!--v-->
+
+## Slava/Ĝermana Prononco
+
+<small>Esperanta akĉento</small>
+
+<!--v-->
+
+| | slavic/germanic |
+|-|-|
+| aqua | *[akva]* |
+| | |
+| radio | *[radço]* |
+| | |
+
+Notes:
+* La *[r]* povas esti pli franceca.
+
+<!--s-->
+-----
+<!--s-->
+
+# Interlingua
+
 <!--s-->
 
 # Prononco
@@ -26,30 +271,8 @@ revealOptions:
 
 | | conservative | progressive |
 |-|-:|:-|
-| aqua | *[aku-a]* | *[akŭa]* |
-| | | |
-| radio | *[radi-o]* | *[radjo]* |
-| | | |
-
-Notes:
-* ĝermana/slava akĉento: *[akva]*, *[radço]*
-
-<!--v-->
-
-| | conservative | progressive |
-|-|-:|:-|
-| justo | *[justo]* | *[ĵusto]* |
-| | | |
-| gente | *[gente]* | *[ĵente]* |
-| | | |
 | privilegio | *[privilegi-o]* | *[privileĵo]* |
 | | | |
-
-<small>Alternativa prononco de *[ĵ]* estas *[ĝ]*. Do, anstataŭ *[ĵusto]* eblas ankaŭ la prononco *[ĝusto]*. Miksi tiujn du prononcojn ŝajnas evitinde.</small>
-
-Notes:
-* La gramatiko de Wilgenhof permesas la prononcon *[ĵ]* por *g*, kaj *[ĝ]* por *j*, sed ne inverse.
-* horologio, litigio, prestigio, privilegio, prodigio
 
 <!--v-->
 
@@ -86,12 +309,7 @@ Notes:
 | signo | *[signo]* | *[sinjo]* |
 | | | |
 
-<!--v-->
-
-| | conservative | progressive |
-|-|-:|:-|
-| hora | *[hora]* | *[ora]* |
-| | | |
+<!-- TODO ŋ estas jam konservema, ĉu ne? (n = latina?) -->
 
 <!--v-->
 
@@ -112,63 +330,7 @@ Notes:
 
 <!--v-->
 
-| |
-|-|
-| spatio |
-| |
-
-| conservative | progressive |
-|-:|:-|
-| *[spaci-o]* | *[spasjo]* |
-| | |
-
-| conservativissime | progressivissime |
-|-:|:-|
-| *[spati-o]* | *[espas(o)]* |
-| | |
-
-<small>En la **progresemega prononco**, la ne-akcentata vortofina vokalo povas eliziiĝi.</small>
-
-Notes:
-* gratia, spatio
-* centro: *[kentro]* ~ *[centro]*
-  * glacie, indicio, officio, socio, specie
-* justo: *[iusto]* ~ *[justo]*
-  * justo, majo, major, pejo, pejor
-* prematur: *[praematur']* ~ *[prematur']*
-
-<!--v-->
-
 ## Progresemega Prononco
-
-<!--v-->
-
-| | progressive | progressivissime |
-|-|-|-|
-| gratia | *[grasja]* | *[gras(ja)]* |
-| | | |
-
-<small>Vortfina ne-akcentata vokalo estas eliziebla.</small>
-
-<!--v-->
-
-| | progressive | progressivissime |
-|-|-|-|
-| sperantia | *[speransja]* | *[esperans(ja)]* |
-| | | |
-| station | *[stasjon']* | *[estasjon']* |
-| | | |
-
-<small>Radikokomencaj *sp* kaj *st* prononciĝas *[esp]* kaj *[est]*.</small>
-
-<!--v-->
-
-| | progressive | progressivissime |
-|-|-|-|
-| crepe | *[krespa]* | *[krep(a)]* |
-| | | |
-
-<small>Post vokalo, la *s* en *sp* kaj *st* eliziiĝas.</small>
 
 <!--v-->
 
@@ -442,28 +604,6 @@ Notes:
 <!--v-->
 
 ### -e
-
-<!--v-->
-
-| | conservative | progressive |
-|-|-:|:-|
-| sol | *[sole]* | *[sol]* |
-| | | |
-| pan | *[pane]* | *[pan]* |
-| | | |
-| mar | *[mare]* | *[mar]* |
-| | | |
-
-<small>Kun **progresema elizio**, la finaĵo -*e* malantaŭ *l*, *n* kaj *r* malantaŭ akcentata vokalo eliziiĝas.</small>
-
-<!--v-->
-
-| conservative/progressive |
-|-|
-| ansere *[anse-re]* |
-| |
-
-<small>Tial la finaĵo -*e* ne eliziiĝas malantaŭ ne-akcentata vokalo.</small>
 
 <!--v-->
 
