@@ -68,9 +68,9 @@ Notes:
 
 | | conservative | progressive |
 |-|-:|-|
-| gente 🔊 | *[gente]* | *[gente]* |
+| gente | *[gente]* | 🔊 *[gente]* |
 | | | |
-| justo 🔊 | *[justo]* | *[justo]* |
+| justo | *[justo]* | 🔊 *[justo]* |
 | | | |
 
 Notes:
@@ -89,12 +89,13 @@ Notes:
 
 | | conservative | progressive |
 |-|-:|-|
-| centro 🔊 | *[kentro]* | *[ĉentro]* |
+| centro | 🔊 *[kentro]* | 🔊 *[ĉentro]* |
 | | | |
-| spatio 🔊 | *[spati-o]* | *[spaθjo]* |
+| spatio | 🔊 *[spati-o]* | 🔊 *[spaθjo]* |
 | | | |
 
 Notes:
+* Tra-brua progresema prononco estas rapida konservema prononco. Analogie, tra-brua progresemega prononco estas rapida progresema prononco.
 * gratia, spatio
 * centro: *[kentro]* ~ *[centro]*
   * glacie, indicio, officio, socio, specie
@@ -134,12 +135,26 @@ Notes:
 
 | | conservative | progressive |
 |-|-:|-|
-| __sole__ | __*[sole]*__ | *[sol]* |
+| sole | 🔊 *[sole]* | *[sol]* |
 | | | |
-| __mare__ | __*[mare]*__ | *[mar]* |
+| mare | 🔊 *[mare]* | *[mar]* |
 | | | |
-| __pane__ | __*[pane]*__ | *[pan]* |
+| pane | 🔊 *[pane]* | *[pan]* |
 | | | |
+
+<!--v-->
+
+| | conservative/progressive |
+|-|:-:|
+| vider | *[vider']* |
+| | |
+
+<!--v-->
+
+| | conservative/progressive |
+|-|:-:|
+| vider | 🔊 *[videre]* |
+| | |
 
 <!--v-->
 
@@ -154,6 +169,17 @@ Notes:
 
 <!--v-->
 
+<small>La ne-akcentata infinitiva finaĵo *-ere* fariĝas akcentata *-er* en la progresema prononco.</small>
+
+<!--v-->
+
+| | conservative | progressive |
+|-|-:|-|
+| vivere | *[vive-re]* | *[viver']* |
+| | | |
+
+<!--v-->
+
 <small>La *-e* konserviĝas en la as-formo de verboj.</small>
 
 <!--v-->
@@ -163,25 +189,7 @@ Notes:
 | tene | *[tene]* |
 | | |
 
-<!--v-->
-
-<small>La ne-akcentata infinitiva finaĵo *-ere* fariĝas akcentata *-er*.</small>
-
-<!--v-->
-
-| | conservative/progressive |
-|-|:-:|
-| prender | *[prender']* |
-| | |
-
-<!--v-->
-
-| | conservative | progressive |
-|-|-:|-|
-| __prendere__ | __*[prende-re]*__ | *[prender']* |
-| | | |
-
-<!-- TODO Ĉu tiu formo licas jam en la gramatikoj de Interlingvao? -->
+<!-- TODO Fakte, *[ten]* estus sencohava formo. Ĉu *[tene]* estas tra bruo? -->
 
 <!--v-->
 
@@ -191,29 +199,248 @@ Notes:
 
 <!--v-->
 
+### Slava/Ĝermana Prononco
+
+<small>Esperanta akĉento</small>
+
+<!--v-->
+
+| | slavic/germanic |
+|-|-|
+| aqua | *[akva]* |
+| | |
+| radio | *[radço]* |
+| | |
+
+Notes:
+* La *[r]* povas esti pli franceca.
+
+<!--v-->
+
 ## Progresemega Prononco
 
 <small>itala, franca, hispana, portugala akĉentoj</small>
 
 <!--v-->
 
-### Duonvokaloj
+### Vokaloj
 
-<small>Vortfina (duon-)vokalo estas eliziebla.</small>
+<small>Tra bruo, vokaloj de la progresemega prononco egalas al la progresema prononco.</small>
 
 <!--v-->
 
-| | progressive | progressivissime |
-|-|-|-|
-| gratia | *[grasja]* | *[gras]* |
+#### Vortfino
+
+<small>Vortfina (duon-)vokalo eliziiĝas.</small>
+
+<!--v-->
+
+| | progressivissime |
+|-|-|
+| gratia | *[gras]* |
+| | |
+| lingua | *[leŋg]* |
+| | |
+
+<!--v-->
+
+| | progressivissime |
+|-|-|
+| gratia | 🔊 *[grasja]* |
+| | |
+| lingua | 🔊 *[liŋgŭa]* |
+| | |
+
+Notes:
+* Konsonanta vortfino estas prononcebla kun ŝvao *[ə]*.
+
+<!--v-->
+
+#### -ce, -se, -te kaj -de
+
+<small>La finaĵo -*e* eliziiĝas malantaŭ *c*, *s*.</small>
+
+<small>Ĝi eliziiĝas ankaŭ malantaŭ *t* kaj *d*, sed tiam *t* prononciĝas *[d]*, kaj *d* eliziiĝas.</small>
+
+<!--v-->
+
+| | progressivissime |
+|-|-|
+| luce | *[luse]* |
+| | |
+| mense | *[meze]* |
+| | |
+
+<!--v-->
+
+| | progressivissime |
+|-|-|
+| rete | *[red]* |
+| | |
+| pede | *[pe]* |
+| | |
+
+<!--v-->
+
+#### i/e kaj u/o
+
+<small>Akcentataj (mallongaj) *u* kaj *i* estas prononceblaj *[o]* kaj *[e]*.</small>
+
+<small>Samtempe, akcentataj (mallongaj) *o* kaj *e* estas prononceblaj *[ŭo]* kaj *[je]*.</small>
+
+<!--v-->
+
+| | progressivissime |
+|-|-|
+| sin | *[sen]* |
+| | |
+| mundo | *[mond]* |
+| | |
+
+<!--v-->
+
+| | progressivissime |
+|-|-|
+| heri | *[jer]* |
+| | | |
+| ovo | *[ŭov]* |
 | | | |
 
 <!--v-->
 
-### sp kaj st
+### Diftongoj
 
-<small>Radikokomencaj *sp* kaj *st* prononciĝas *[esp]* kaj *[est]*.</small>
-<small>Inter vokaloj, la *s* en *sp* kaj *st* eliziiĝas.</small>
+<small>Ankaŭ tra bruo, diftongoj monoftongiĝas.</small>
+
+<!--v-->
+
+#### ai kaj au
+
+<small>*ai* kaj *au* estas prononceblaj *[e]* kaj *[o]*.</small>
+
+<!--v-->
+
+| | progressivissime |
+|-|-|
+| traino | *[tren]* |
+| | |
+| pauco | *[pok]* |
+| | |
+
+Notes:
+* La kombino de la du prepozicioj *a* kaj *in* prononciĝas kun la diftongo *[aj]*, kiu estas prononcebla *[e]*: *a-in* *[en]*.</small>
+
+<!--v-->
+
+| | progressivissime |
+|-|-|
+| traino | 🔊 *[treno]* |
+| | |
+| pauco | 🔊 *[poko]* |
+| | |
+
+<!--v-->
+
+#### ae kaj al
+
+<small>*ae* kaj *al* estas prononceblaj *[aj]* kaj *[aŭ]*.</small>
+
+Notes:
+* Ĝenerale, *l* post vokalo prononciĝas *[ŭ]* kiam ĝi ne estas sekvata de alia vokalo.
+
+<!--v-->
+
+| | progressivissime |
+|-|-|
+| aere | *[ajr]* |
+| | |
+| alte | *[aŭt]* |
+| | |
+
+<!--v-->
+
+| | progressivissime |
+|-|-|
+| aere | 🔊 *[ajre]* |
+| | |
+| alte | 🔊 *[aŭte]* |
+| | |
+
+<!--v-->
+
+| | progressivissime |
+|-|-|
+| aere | 📨 *[er]* |
+| | |
+| alte | 📨 *[ot]* |
+| | |
+
+<!--v-->
+
+### Ŝajnsufiksoj
+
+<!--v-->
+
+#### -er-
+
+<small>La *e* en la ne-akcentata ŝajnsufikso *-er-* eliziiĝas, ankaŭ tra bruo.</small>
+
+<!--v-->
+
+| | progressive | progressivissime |
+|-|-:|:-|
+| dextere | *[destere]* | *[destr]* |
+| | | |
+
+<!--v-->
+
+| | progressive | progressivissime |
+|-|-:|:-|
+| dextere | *[destere]* | 🔊 *[destre]* |
+| | | |
+
+<!--v-->
+
+<small>Tiam *-mr-* kaj *-nr-* prononciĝas *[mbr]* kaj *[ndr]*. Tra bruo, la *e* konserviĝas.</small>
+
+<!--v-->
+
+| | progressive | progressivissime |
+|-|-:|:-|
+| camera | *[kame-ra]* | *[kambr]* |
+| | |
+| tenere | *[tene-re]* | *[tendr]* |
+| | | |
+
+<!--v-->
+
+| | progressive | progressivissime |
+|-|-:|:-|
+| camera | *[kame-ra]* | 🔊 *[kame-ra]* |
+| | |
+| tenere | *[tene-re]* | 🔊 *[tene-re]* |
+| | | |
+
+<!--v-->
+
+| | progressive | progressivissime |
+|-|-:|:-|
+| camera | *[kame-ra]* | 📨 *[ŝãbr]* |
+| | |
+| tenere | *[tene-re]* | 📨 *[tẽdr]* |
+| | | |
+
+<!--v-->
+
+### Konsonantoj
+
+<!--v-->
+
+#### sp kaj st
+
+<small>Radikokomencaj *sp* kaj *st* estas prononceblaj *[esp]* kaj *[est]*.</small>
+
+<small>Inter vokaloj, la *s* en *sp* kaj *st* estas eliziiebla.</small>
 
 <!--v-->
 
@@ -230,28 +457,87 @@ Notes:
 |-|-|-|
 | crespa | *[krespa]* | *[krep]* |
 | | | |
-| hostello | *[hostello]* | *[otel']* |
+| hostello | *[hostello]* | *[oteŭ']* |
 | | | |
 
 <!-- TODO konsultu je "crespa" -->
 
 <!--v-->
 
-## Slava/Ĝermana Prononco
+#### Voĉiĝo
 
-<small>Esperanta akĉento</small>
+<small>Radikofinaj *p*, *t*, *c* de unusilabaj radikoj prononciĝas *[b]*, *[d]*, *[g]*.</small>
 
 <!--v-->
 
-| | slavic/germanic |
-|-|-|
-| aqua | *[akva]* |
-| | |
-| radio | *[radço]* |
-| | |
+| | progressive | progressivissime |
+|-|-|-|
+| lupo | *[lupo]* | *[lub]* |
+| | | |
+| strata | *[strata]* | *[estrad]* |
+| | | |
+| laco | *[lako]* | *[lag]* |
+| | | |
 
-Notes:
-* La *[r]* povas esti pli franceca.
+<!--v-->
+
+| | progressive | progressivissime |
+|-|-|-|
+| lupo | *[lupo]* | 🔊 *[lubo]* |
+| | | |
+| strata | *[strata]* | 🔊 *[strada]* |
+| | | |
+| laco | *[lako]* | 🔊 *[lago]* |
+| | | |
+
+<!--v-->
+
+| | progressive | progressivissime |
+|-|-|-|
+| opera | *[ope-ra]* | *[obra]* |
+| | | |
+
+<!--v-->
+
+| | progressive | progressivissime |
+|-|-|-|
+| opera | *[ope-ra]* | 🔊 *[obra]* |
+| | | |
+
+<!--v-->
+
+#### r
+
+<small>*r* estas prononcebla *[ĥ]* kiam ĝi ne estas intervokala. En la fonetika skribo tamen daŭre skribiĝas *[r]*.</small>
+
+<small>Fina *r* en infinitivoj eliziiĝas.</small>
+
+<!--v-->
+
+| | progressive | progressivissime |
+|-|-|-|
+| mar | *[mar]* | *[maĥ]* = *[mar]* |
+| | | |
+
+<!--v-->
+
+| | progressive | progressivissime |
+|-|-|-|
+| amar | *[amar']* | *[ama']* |
+| | | |
+
+<!--v-->
+
+#### ca
+
+<small>Radikokomenca *ca* estas prononcebla *[ŝa]*.</small>
+
+<!--v-->
+
+| | progressive | progressivissime |
+|-|-|-|
+| cantar | *[kantar']* | *[ŝanta']* |
+| | | |
 
 <!--s-->
 -----
@@ -378,68 +664,6 @@ Notes:
 
 | | progressive | progressivissime |
 |-|-|-|
-| mundo | *[mundo]* | *[mond(o)]* |
-| | | |
-| sin | *[sin]* | *[sen]* |
-| | | |
-
-<small>Akcentataj (mallongaj) *u* kaj *i* (ofte) prononciĝas *[o]* kaj *[e]*.</small>
-
-| | progressive | progressivissime |
-|-|-|-|
-| ovo | *[ovo]* | *[ŭov(o)]* |
-| | | |
-| heri | *[eri]* | *[jer(i)]* |
-| | | |
-
-<small>Samtempe, akcentataj (mallongaj) *o* kaj *e* (ofte) prononciĝas *[ŭo]* kaj *[je]*.</small>
-
-<!--v-->
-
-| | progressive | progressivissime |
-|-|-|-|
-| altere | *[alte-re]* | *[aŭtr(e)]* |
-| | | |
-| pauco | *[paŭko]* | *[pok(o)]* |
-| | | |
-| aere | *[ae-re]* | *[ajr(e)]* |
-| | | |
-| traino | *[trajno]* | *[tren(o)]* |
-| | | |
-
-<small>*al*, *au*, *ae*, *ai* prononciĝas *[aŭ]*, *[o]*, *[aj]*, *[e]*.</small>
-
-<!--v-->
-
-| | progressive | progressivissime |
-|-|-|-|
-| a-in | *[ajn]* | *[en]* |
-| | | |
-
-<small>La kombino de la du prepozicioj *a* kaj *in* prononciĝas kun la diftongo *[aj]*, kiu fariĝas *[e]*.</small>
-
-<!--v-->
-
-| | progressive | progressivissime |
-|-|-|-|
-| mar | *[mar]* | *[maĥ]* = *[mar]* |
-| | | |
-
-<small>*r* kiam ĝi ne estas intervokala, prononciĝas *[ĥ]*. En la fonetika skribo tamen daŭre skribiĝas *[r]*.</small>
-
-<!--v-->
-
-| | progressive | progressivissime |
-|-|-|-|
-| amar | *[amar]* | *[ama']* |
-| | | |
-
-<small>Fina *r* en infinitivoj eliziiĝas.</small>
-
-<!--v-->
-
-| | progressive | progressivissime |
-|-|-|-|
 | aperir | *[aperir]* | *[abri']* |
 | vita | *[vita]* | *[vid(a)]* |
 | laco | *[laco]* | *[lag(o)]* |
@@ -470,17 +694,6 @@ Notes:
 
 ### Progresemega Akĉento
 
-<small>**Progresemega prononco** estas kontinuo el pluraj eblaj prononcoj, kiuj troviĝas en la modernaj latinidaj lingvoj. Tial nur kelkaj el ili estas koheraj, respektive nur kelkaj el ili povas esti nomataj ***la* progresemega prononco**. La **progresemega akĉento** konsistas el tiuj prononcaj trajtoj el la **progresemega prononco**, kiuj estas koheraj kaj facile kombinebla kun la **progresema prononco**.</small>
-
-<!--v-->
-
-| | accento progressivissime |
-|-|-|
-| strata | *[strata]* ~ ***[strada]*** ~ *[etrad(a)]* |
-| | |
-
-<small>Radikofina *t* de unusilabaj radikoj prononciĝas *[d]*.</small>
-
 | | accento progressivissime |
 |-|-|
 | felicitate | *[felisitate]* ~ ***[felisitad']*** ~ *[felisida']* |
@@ -489,9 +702,6 @@ Notes:
 | | |
 
 <small>La *t* en la sufiksoj -*tate* kaj -*tute* prononciĝas *[d]*.</small>
-
-Notes:
-* cata, lato, tote, strata, rota, vita
 
 <!--v-->
 
@@ -522,17 +732,6 @@ Notes:
 Notes:
 * bibita *[bibi-ta]*
 * labor *[labor']* <small>labore *[labore]*</small> `?`
-
-<!--v-->
-
-| | accento progressivissime |
-|-|-|
-| altere | *[alte-re]* ~ ***[altre]*** ~ *[aŭtr(e)]* |
-| | |
-| camera | *[kame-ra]* ~ ***[kamra]*** ~ *[ŝambr(a)]* |
-| | |
-
-<small>La *e* en la ne-akcentata sufikso -*er*- eliziiĝas.</small>
 
 <!--v-->
 
@@ -620,25 +819,6 @@ Notes:
 |-|-|
 | prehendere *[prehende-re]* | prendere *[prende-re]* |
 | | |
-
-<!--v-->
-
-| | progressive | progressivissime |
-|-|-:|:-|
-| luce | *[luse]* | *[lus]* |
-| | | |
-| pede | *[pede]* | *[pe]* |
-| | | |
-| mense | *[meze]* | *[mes]* |
-| | | |
-| rete | *[rete]* | *[red]* |
-| | | |
-
-<small>La finaĵo -*e* eliziiĝas ne nur malantaŭ *l*, *n* kaj *r*, sed ankaŭ malantaŭ *c*, *d*, *s* kaj *t*.</small>
-
-Notes:
-* rete, site
-* fide, pede
 
 <!--v-->
 
