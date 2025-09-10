@@ -68,9 +68,9 @@ Notes:
 
 | | conservative | progressive |
 |-|-:|-|
-| gente | *[gente]* | 🔊 *[gente]* |
+| gente | *[gente]* | <small>🔊 *[gente]*</small> *[ĵente]* |
 | | | |
-| justo | *[justo]* | 🔊 *[justo]* |
+| justo | *[justo]* | <small>🔊 *[justo]*</small> __*[ĵusto]*__ |
 | | | |
 
 Notes:
@@ -89,9 +89,9 @@ Notes:
 
 | | conservative | progressive |
 |-|-:|-|
-| centro | 🔊 *[kentro]* | 🔊 *[ĉentro]* |
+| centro | <small>🔊 *[kentro]*</small> *[centro]* | <small>🔊 *[ĉentro]*</small> *[sentro]* |
 | | | |
-| spatio | 🔊 *[spati-o]* | 🔊 *[spaθjo]* |
+| spatio | <small>🔊 *[spati-o]*</small> *[spaci-o]* | <small>🔊 *[spaθjo]*</small> *[spasjo]* |
 | | | |
 
 Notes:
@@ -129,11 +129,11 @@ Notes:
 
 | | conservative | progressive |
 |-|-:|-|
-| sol | 🔊 *[sole]* | *[sol]* |
+| sol | <small>🔊 *[sole]*</small> *[sol]* | *[sol]* |
 | | | |
-| mar | 🔊 *[mare]* | *[mar]* |
+| mar | <small>🔊 *[mare]*</small> *[mar]* | *[mar]* |
 | | | |
-| pan | 🔊 *[pane]* | *[pan]* |
+| pan | <small>🔊 *[pane]*</small> *[pan]* | *[pan]* |
 | | | |
 
 <!--v-->
@@ -147,7 +147,7 @@ Notes:
 
 | | conservative | progressive |
 |-|-:|-|
-| vider | 🔊 *[videre]* | *[vider']* |
+| vider | <small>🔊 *[videre]*</small> *[vider']* | *[vider']* |
 | | | |
 
 <!--v-->
@@ -200,7 +200,7 @@ Notes:
 <!--v-->
 
 | | slavic/germanic |
-|-|-|
+|-|:-:|
 | aqua | *[akva]* |
 | | |
 | radio | *[radço]* |
@@ -226,7 +226,7 @@ Notes:
 
 ### r
 
-<small>*r* estas prononcebla *[ĥ]* kiam ĝi ne estas intervokala. En la fonetika skribo tamen daŭre skribiĝas *[r]*.</small>
+<small>*r* estas prononcebla *[ĥ]* kiam ĝi ne estas intervokala.</small>
 
 <small>Fina *r* en infinitivoj eliziiĝas.</small>
 
@@ -234,7 +234,14 @@ Notes:
 
 | | progressive | progressivissime |
 |-|-:|-|
-| mar | *[mar]* | *[maĥ]* = *[mar]* |
+| mar | *[mar]* | *[maĥ]* |
+| | | |
+
+<!--v-->
+
+| | progressive | progressivissime |
+|-|-:|-|
+| mar | *[mar]* | <small>🔊 *[mar]*</small> *[maĥ]* |
 | | | |
 
 <!--v-->
@@ -243,6 +250,15 @@ Notes:
 |-|-:|-|
 | amar | *[amar']* | *[ama']* |
 | | | |
+
+<!--v-->
+
+| | progressive | progressivissime |
+|-|-:|-|
+| amar | *[amar']* | <small>🔊 *[amar']*</small> *[ama']* |
+| | | |
+
+<!--v-->
 
 ## Progresemega Prononco (Rapida Prononco)
 
@@ -256,16 +272,16 @@ Notes:
 
 <!--v-->
 
-| | progressive/progressivissime |
-|-|-|
-| gratia | *[grasja]* |
-| | |
+| | progressive | progressivissime |
+|-|-:|-|
+| gratia | *[grasja]* | *[gĥasja]* |
+| | | |
 
 <!--v-->
 
 | | progressive | progressivissime |
 |-|-:|-|
-| gratia | *[grasja]* | 📨 *[gras]* |
+| gratia | *[grasja]* | *[gĥasja]* <small>📨 *[gĥas]*</small> |
 | | | |
 
 Notes:
@@ -278,7 +294,7 @@ Notes:
 <!--v-->
 
 | | progressive/progressivissime |
-|-|-|
+|-|:-:|
 | mano | *[mano]* |
 | | |
 
@@ -286,8 +302,122 @@ Notes:
 
 | | progressive | progressivissime |
 |-|-:|-|
-| mano | *[mano]* | 📨 *[mã]* |
+| mano | *[mano]* | *[mano]* <small>📨 *[mã]*</small> |
 | | | |
+
+<!--v-->
+
+#### i/e kaj u/o
+
+<small>Akcentataj (mallongaj) *u* kaj *i* prononciĝas *[o]* kaj *[e]*.</small>
+
+<small>Samtempe, akcentataj (mallongaj) *o* kaj *e* prononciĝas *[ŭo]* kaj *[je]*.</small>
+
+<!--v-->
+
+| | progressive | progressivissime |
+|-|-:|-|
+| sin | *[sin]* | *[sen]* |
+| | | |
+| mundo | *[mundo]* | *[mondo]* |
+| | | |
+
+<!--v-->
+
+| | progressive | progressivissime |
+|-|-:|-|
+| sin | *[sin]* | <small>🔊 *[sin]*</small> *[sen]* |
+| | | |
+| mundo | *[mundo]* | <small>🔊 *[mundo]*</small> *[mondo]* |
+| | | |
+
+<!--v-->
+
+| | progressive | progressivissime |
+|-|-:|-|
+| heri | *[eri]* | *[jeĥi]* |
+| | | |
+| ovo | *[ovo]* | *[ŭovo]* |
+| | | |
+
+<!--v-->
+
+| | progressive | progressivissime |
+|-|-:|-|
+| heri | *[eri]* | <small>🔊 *[eri]*</small> *[jeĥi]* |
+| | | |
+| ovo | *[ovo]* | <small>🔊 *[ovo]*</small> *[ŭovo]* |
+| | | |
+
+<!--v-->
+
+#### ai kaj au
+
+<small>*ai* kaj *au* estas prononciĝas *[e]* kaj *[o]*.</small>
+
+<!--v-->
+
+| | progressive | progressivissime |
+|-|-:|-|
+| traino | *[trajno]* | *[tĥeno]* |
+| | | |
+| pauco | *[paŭko]* | *[poko]* |
+| | | |
+
+<!--v-->
+
+| | progressive | progressivissime |
+|-|-:|-|
+| traino | *[trajno]* | <small>🔊 *[treno]*</small> *[tĥeno]* |
+| | | |
+| pauco | *[paŭko]* | <small>🔊 *[poko]*</small> *[poko]* |
+| | | |
+
+Notes:
+* La kombino de la du prepozicioj *a* kaj *in* prononciĝas kun la diftongo *[aj]*, kiu prononciĝas *[e]*: *a-in* *[en]*.</small>
+
+<!--v-->
+
+| | progressive | progressivissime |
+|-|-:|-|
+| aere | *[ae-re]* | *[ajĥe]* |
+| | | |
+| alte | *[alte]* | *[aŭte]* |
+| | | |
+
+<!--v-->
+
+| | progressive | progressivissime |
+|-|-:|-|
+| aere | *[ae-re]* | <small>🔊 *[ajre]*</small> *[ajĥe]* |
+| | | |
+| alte | *[alte]* | <small>🔊 *[alte]*</small> *[aŭte]* |
+| | | |
+
+<!--v-->
+
+| | progressive | progressivissime |
+|-|-:|-|
+| aere | *[ae-re]* | <small>🔊 *[ajre]*</small> *[ajĥe]* <small>📨 *[eĥ]*</small> |
+| | | |
+| alte | *[alte]* | <small>🔊 *[alte]*</small> *[aŭte]* <small>📨 *[ot]*</small> |
+| | | |
+
+<!--v-->
+
+### Diftongoj
+
+<small>Ankaŭ tra bruo, diftongoj monoftongiĝas.</small>
+
+<!--v-->
+
+#### ae kaj al
+
+<small>*ae* kaj *al* estas prononceblaj *[aj]* kaj *[aŭ]*.</small>
+
+Notes:
+* Ĝenerale, *l* post vokalo prononciĝas *[ŭ]* kiam ĝi ne estas sekvata de alia vokalo.
+
 
 
 
@@ -305,7 +435,7 @@ Notes:
 <!--v-->
 
 | | progressivissime |
-|-|-|
+|-|:-:|
 | luce | *[lus]* |
 | | |
 | mense | *[mez]* |
@@ -314,105 +444,10 @@ Notes:
 <!--v-->
 
 | | progressivissime |
-|-|-|
+|-|:-:|
 | rete | *[red]* |
 | | |
 | pede | *[pe]* |
-| | |
-
-<!--v-->
-
-#### i/e kaj u/o
-
-<small>Akcentataj (mallongaj) *u* kaj *i* estas prononceblaj *[o]* kaj *[e]*.</small>
-
-<small>Samtempe, akcentataj (mallongaj) *o* kaj *e* estas prononceblaj *[ŭo]* kaj *[je]*.</small>
-
-<!--v-->
-
-| | progressivissime |
-|-|-|
-| sin | *[sen]* |
-| | |
-| mundo | *[mond]* |
-| | |
-
-<!--v-->
-
-| | progressivissime |
-|-|-|
-| heri | *[jer]* |
-| | | |
-| ovo | *[ŭov]* |
-| | | |
-
-<!--v-->
-
-### Diftongoj
-
-<small>Ankaŭ tra bruo, diftongoj monoftongiĝas.</small>
-
-<!--v-->
-
-#### ai kaj au
-
-<small>*ai* kaj *au* estas prononceblaj *[e]* kaj *[o]*.</small>
-
-<!--v-->
-
-| | progressivissime |
-|-|-|
-| traino | *[tren]* |
-| | |
-| pauco | *[pok]* |
-| | |
-
-Notes:
-* La kombino de la du prepozicioj *a* kaj *in* prononciĝas kun la diftongo *[aj]*, kiu estas prononcebla *[e]*: *a-in* *[en]*.</small>
-
-<!--v-->
-
-| | progressivissime |
-|-|-|
-| traino | 🔊 *[treno]* |
-| | |
-| pauco | 🔊 *[poko]* |
-| | |
-
-<!--v-->
-
-#### ae kaj al
-
-<small>*ae* kaj *al* estas prononceblaj *[aj]* kaj *[aŭ]*.</small>
-
-Notes:
-* Ĝenerale, *l* post vokalo prononciĝas *[ŭ]* kiam ĝi ne estas sekvata de alia vokalo.
-
-<!--v-->
-
-| | progressivissime |
-|-|-|
-| aere | *[ajr]* |
-| | |
-| alte | *[aŭt]* |
-| | |
-
-<!--v-->
-
-| | progressivissime |
-|-|-|
-| aere | 🔊 *[ajre]* |
-| | |
-| alte | 🔊 *[aŭte]* |
-| | |
-
-<!--v-->
-
-| | progressivissime |
-|-|-|
-| aere | 📨 *[er]* |
-| | |
-| alte | 📨 *[ot]* |
 | | |
 
 <!--v-->
