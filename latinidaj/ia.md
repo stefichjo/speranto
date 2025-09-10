@@ -207,20 +207,13 @@ Notes:
 | | |
 
 Notes:
-* La *[r]* povas esti pli franceca.
+* La *r* povas esti prononcata pli francece: *[ĥ]*.
 
 <!--v-->
 
 ## Progresemega Prononco
 
 <small>itala, franca, hispana, portugala akĉentoj</small>
-
-
-
-
-
-
-
 
 <!--v-->
 
@@ -418,6 +411,60 @@ Notes:
 Notes:
 * Ĝenerale, *l* post vokalo prononciĝas *[ŭ]* kiam ĝi ne estas sekvata de alia vokalo.
 
+<!--v-->
+
+### Sufiksoj
+
+<!--v-->
+
+#### -er-
+
+<small>La *e* en la ne-akcentata ŝajnsufikso *-er-* eliziiĝas, ankaŭ tra bruo.</small>
+
+<!--v-->
+
+| | progressive | progressivissime |
+|-|-:|:-|
+| dextere | *[destere]* | *[destre]* |
+| | | |
+
+<!--v-->
+
+| | progressive | progressivissime |
+|-|-:|:-|
+| dextere | *[destere]* | <small>🔊 *[destre]*</small> *[destre]* |
+| | | |
+
+<!--v-->
+
+<small>Tiam *-mr-* kaj *-nr-* prononciĝas *[mbr]* kaj *[ndr]*. Tra bruo, la *e* konserviĝas.</small>
+
+<!--v-->
+
+| | progressive | progressivissime |
+|-|-:|:-|
+| camera | *[kame-ra]* | *[ĉambĥa]* |
+| | |
+| tenere | *[tene-re]* | *[tendĥe]* |
+| | | |
+
+<!--v-->
+
+| | progressive | progressivissime |
+|-|-:|:-|
+| camera | *[kame-ra]* | <small>🔊 *[kamra]*</small> *[ĉambĥa]* |
+| | |
+| tenere | *[tene-re]* | <small>🔊 *[tenre]*</small> *[tendĥe]* |
+| | | |
+
+Notes:
+* 📨 *[ŝãbĥ]*, 📨 *[tẽdr]*
+
+
+
+
+
+
 
 
 
@@ -449,61 +496,6 @@ Notes:
 | | |
 | pede | *[pe]* |
 | | |
-
-<!--v-->
-
-### Ŝajnsufiksoj
-
-<!--v-->
-
-#### -er-
-
-<small>La *e* en la ne-akcentata ŝajnsufikso *-er-* eliziiĝas, ankaŭ tra bruo.</small>
-
-<!--v-->
-
-| | progressive | progressivissime |
-|-|-:|:-|
-| dextere | *[destere]* | *[destr]* |
-| | | |
-
-<!--v-->
-
-| | progressive | progressivissime |
-|-|-:|:-|
-| dextere | *[destere]* | 🔊 *[destre]* |
-| | | |
-
-<!--v-->
-
-<small>Tiam *-mr-* kaj *-nr-* prononciĝas *[mbr]* kaj *[ndr]*. Tra bruo, la *e* konserviĝas.</small>
-
-<!--v-->
-
-| | progressive | progressivissime |
-|-|-:|:-|
-| camera | *[kame-ra]* | *[kambr]* |
-| | |
-| tenere | *[tene-re]* | *[tendr]* |
-| | | |
-
-<!--v-->
-
-| | progressive | progressivissime |
-|-|-:|:-|
-| camera | *[kame-ra]* | 🔊 *[kame-ra]* |
-| | |
-| tenere | *[tene-re]* | 🔊 *[tene-re]* |
-| | | |
-
-<!--v-->
-
-| | progressive | progressivissime |
-|-|-:|:-|
-| camera | *[kame-ra]* | 📨 *[ŝãbr]* |
-| | |
-| tenere | *[tene-re]* | 📨 *[tẽdr]* |
-| | | |
 
 <!--v-->
 
