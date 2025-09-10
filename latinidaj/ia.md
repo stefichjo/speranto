@@ -96,12 +96,6 @@ Notes:
 
 Notes:
 * Tra-brua progresema prononco estas rapida konservema prononco. Analogie, tra-brua progresemega prononco estas rapida progresema prononco.
-* gratia, spatio
-* centro: *[kentro]* ~ *[centro]*
-  * glacie, indicio, officio, socio, specie
-* justo: *[iusto]* ~ *[justo]*
-  * justo, majo, major, pejo, pejor
-* prematur: *[praematur']* ~ *[prematur']*
 
 <!--v-->
 
@@ -135,11 +129,11 @@ Notes:
 
 | | conservative | progressive |
 |-|-:|-|
-| sole | 🔊 *[sole]* | *[sol]* |
+| sol | 🔊 *[sole]* | *[sol]* |
 | | | |
-| mare | 🔊 *[mare]* | *[mar]* |
+| mar | 🔊 *[mare]* | *[mar]* |
 | | | |
-| pane | 🔊 *[pane]* | *[pan]* |
+| pan | 🔊 *[pane]* | *[pan]* |
 | | | |
 
 <!--v-->
@@ -151,10 +145,10 @@ Notes:
 
 <!--v-->
 
-| | conservative/progressive |
-|-|:-:|
-| vider | 🔊 *[videre]* |
-| | |
+| | conservative | progressive |
+|-|-:|-|
+| vider | 🔊 *[videre]* | *[vider']* |
+| | | |
 
 <!--v-->
 
@@ -221,38 +215,84 @@ Notes:
 
 <small>itala, franca, hispana, portugala akĉentoj</small>
 
-<!--v-->
 
-### Vokaloj
 
-<small>Tra bruo, vokaloj de la progresemega prononco egalas al la progresema prononco.</small>
 
-<!--v-->
 
-#### Vortfino
 
-<small>Vortfina (duon-)vokalo eliziiĝas.</small>
+
 
 <!--v-->
 
-| | progressivissime |
+### r
+
+<small>*r* estas prononcebla *[ĥ]* kiam ĝi ne estas intervokala. En la fonetika skribo tamen daŭre skribiĝas *[r]*.</small>
+
+<small>Fina *r* en infinitivoj eliziiĝas.</small>
+
+<!--v-->
+
+| | progressive | progressivissime |
+|-|-:|-|
+| mar | *[mar]* | *[maĥ]* = *[mar]* |
+| | | |
+
+<!--v-->
+
+| | progressive | progressivissime |
+|-|-:|-|
+| amar | *[amar']* | *[ama']* |
+| | | |
+
+## Progresemega Prononco (Rapida Prononco)
+
+<!--v-->
+
+### Vortfino
+
+<!--v-->
+
+<small>En rapida prononco, vortfina (duon-)vokalo eliziiĝas.</small>
+
+<!--v-->
+
+| | progressive/progressivissime |
 |-|-|
-| gratia | *[gras]* |
-| | |
-| lingua | *[leŋg]* |
+| gratia | *[grasja]* |
 | | |
 
 <!--v-->
 
-| | progressivissime |
-|-|-|
-| gratia | 🔊 *[grasja]* |
-| | |
-| lingua | 🔊 *[liŋgŭa]* |
-| | |
+| | progressive | progressivissime |
+|-|-:|-|
+| gratia | *[grasja]* | 📨 *[gras]* |
+| | | |
 
 Notes:
-* Konsonanta vortfino estas prononcebla kun ŝvao *[ə]*.
+* Konsonanta vortfino estas prononcebla kun ŝvao *[ə]*: *[gras]* = *[grasə]*
+
+<!--v-->
+
+### Nazaliĝo
+
+<!--v-->
+
+| | progressive/progressivissime |
+|-|-|
+| mano | *[mano]* |
+| | |
+
+<!--v-->
+
+| | progressive | progressivissime |
+|-|-:|-|
+| mano | *[mano]* | 📨 *[mã]* |
+| | | |
+
+
+
+
+
 
 <!--v-->
 
@@ -266,9 +306,9 @@ Notes:
 
 | | progressivissime |
 |-|-|
-| luce | *[luse]* |
+| luce | *[lus]* |
 | | |
-| mense | *[meze]* |
+| mense | *[mez]* |
 | | |
 
 <!--v-->
@@ -455,12 +495,8 @@ Notes:
 
 | | progressive | progressivissime |
 |-|-|-|
-| crespa | *[krespa]* | *[krep]* |
-| | | |
 | hostello | *[hostello]* | *[oteŭ']* |
 | | | |
-
-<!-- TODO konsultu je "crespa" -->
 
 <!--v-->
 
@@ -474,7 +510,7 @@ Notes:
 |-|-|-|
 | lupo | *[lupo]* | *[lub]* |
 | | | |
-| strata | *[strata]* | *[estrad]* |
+| strata | *[strata]* | *[estrad']* |
 | | | |
 | laco | *[lako]* | *[lag]* |
 | | | |
@@ -502,28 +538,6 @@ Notes:
 | | progressive | progressivissime |
 |-|-|-|
 | opera | *[ope-ra]* | 🔊 *[obra]* |
-| | | |
-
-<!--v-->
-
-#### r
-
-<small>*r* estas prononcebla *[ĥ]* kiam ĝi ne estas intervokala. En la fonetika skribo tamen daŭre skribiĝas *[r]*.</small>
-
-<small>Fina *r* en infinitivoj eliziiĝas.</small>
-
-<!--v-->
-
-| | progressive | progressivissime |
-|-|-|-|
-| mar | *[mar]* | *[maĥ]* = *[mar]* |
-| | | |
-
-<!--v-->
-
-| | progressive | progressivissime |
-|-|-|-|
-| amar | *[amar']* | *[ama']* |
 | | | |
 
 <!--v-->
