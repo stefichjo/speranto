@@ -24,7 +24,7 @@ revealOptions:
 
 <!--s-->
 
-## Konservema kaj Progresema Pronconcoj
+## Konservema kaj Progresema
 
 <!--v-->
 
@@ -187,13 +187,13 @@ Notes:
 
 <!--s-->
 
-## Konservemega Prononco
+## Konservemega
 
 <small>latina akĉento</small>
 
 <!--v-->
 
-### Slava/Ĝermana Prononco
+### Slava/Ĝermana
 
 <small>Esperanta akĉento</small>
 
@@ -211,17 +211,49 @@ Notes:
 
 <!--s-->
 
-## Progresemega Prononco
+## Progresemega
 
 <small>itala, franca, hispana, portugala akĉentoj</small>
 
 <!--v-->
 
+### Duonvokaloj
+
+<small>Kiam intervokala *te* prononciĝas *[sj]* en progresema prononco, ĝi prononciĝas *[s]* en progresema prononco.</small>
+
+<!--v-->
+
+| | progressive | progressivissime |
+|-|-:|-|
+| placia | *[plasja]* | *[plasa]* |
+| | | |
+
+<!--v-->
+
+| | conservative | progressivissime |
+|-|-:|-|
+| placia | *[placi-a]* | *[plasa]* |
+| | | |
+
+<!--v-->
+
+| | conservative | progressivissime |
+|-|-:|-|
+| placia | <small>🔊 *[plate-a]*</small> *[placi-a]* | *[plasa]* |
+| | | |
+
+<!--v-->
+
+| | conservative | progressivissime |
+|-|-:|-|
+| placia | <small>🔊 *[plate-a]*</small> *[placi-a]* | <small>🔊 *[plasa]*</small> *[plasa]* |
+| | | |
+
+<!--v-->
+
 ### r
 
-<small>*r* estas prononcebla *[ĥ]* kiam ĝi ne estas intervokala.</small>
-
-<small>Fina *r* en infinitivoj eliziiĝas.</small>
+<small>*r* prononciĝas *[ĥ]*.</small>
 
 <!--v-->
 
@@ -236,6 +268,10 @@ Notes:
 |-|-:|-|
 | mar | *[mar]* | <small>🔊 *[mar]*</small> *[maĥ]* |
 | | | |
+
+<!--v-->
+
+<small>Fina *r* en infinitivoj eliziiĝas.</small>
 
 <!--v-->
 
@@ -261,16 +297,21 @@ Notes:
 
 | | progressive | progressivissime |
 |-|-|-|
-| cantar | *[kantar']* | *[ĉanta']* |
+| carro | *[karo]* | *[ĉaĥo]* |
 | | | |
-
-<!-- TODO eble "carro" estas pli bona ekzemplo. -->
 
 <!--v-->
 
 | | progressive | progressivissime |
 |-|-|-|
-| cantar | *[kantar']* | *[ĉanta']* <small>📨 *[ŝãta']*</small> |
+| carro | *[karo]* | <small>🔊 *[karo]*</small> *[ĉaĥo]* |
+| | | |
+
+<!--v-->
+
+| | progressive | progressivissime |
+|-|-|-|
+| carro | *[karo]* | <small>🔊 *[karo]*</small> *[ĉaĥo]* <small>📨 *[ŝaĥ]*</small> |
 | | | |
 
 <!--v-->
@@ -323,9 +364,9 @@ Notes:
 
 <!--v-->
 
-#### ai kaj au
+#### ai, ae kaj au
 
-<small>*ai* kaj *au* estas prononciĝas *[e]* kaj *[o]*.</small>
+<small>*ai*, *ae* kaj *au* prononciĝas *[e]*, *[aj]* kaj *[o]*.</small>
 
 <!--v-->
 
@@ -333,7 +374,9 @@ Notes:
 |-|-:|-|
 | traino | *[trajno]* | *[tĥeno]* |
 | | | |
-| pauco | *[paŭko]* | *[poko]* |
+| aere | *[ae-re]* | *[ajĥe]* |
+| | | |
+| cauda | *[kaŭda]* | *[koda]* |
 | | | |
 
 <!--v-->
@@ -342,47 +385,24 @@ Notes:
 |-|-:|-|
 | traino | *[trajno]* | <small>🔊 *[treno]*</small> *[tĥeno]* |
 | | | |
-| pauco | *[paŭko]* | <small>🔊 *[poko]*</small> *[poko]* |
+| aere | *[ae-re]* | <small>🔊 *[ajre]*</small> *[ajĥe]* |
+| | | |
+| cauda | *[kaŭda]* | <small>🔊 *[koda]*</small> *[koda]* |
+| | | |
+
+<!--v-->
+
+| | progressive | progressivissime |
+|-|-:|-|
+| traino | *[trajno]* | <small>🔊 *[treno]*</small> *[tĥeno]* |
+| | | |
+| aere | *[ae-re]* | <small>🔊 *[ajre]*</small> *[ajĥe]* <small>📨 *[eĥ]*</small> |
+| | | |
+| cauda | *[kaŭda]* | <small>🔊 *[koda]*</small> *[koda]* |
 | | | |
 
 Notes:
 * La kombino de la du prepozicioj *a* kaj *in* prononciĝas kun la diftongo *[aj]*, kiu prononciĝas *[e]*: *a-in* *[en]*.</small>
-
-<!--v-->
-
-| | progressive | progressivissime |
-|-|-:|-|
-| aere | *[ae-re]* | *[ajĥe]* |
-| | | |
-| alte | *[alte]* | *[aŭte]* |
-| | | |
-
-<!--v-->
-
-| | progressive | progressivissime |
-|-|-:|-|
-| aere | *[ae-re]* | <small>🔊 *[ajre]*</small> *[ajĥe]* |
-| | | |
-| alte | *[alte]* | <small>🔊 *[alte]*</small> *[aŭte]* |
-| | | |
-
-<!--v-->
-
-| | progressive | progressivissime |
-|-|-:|-|
-| aere | *[ae-re]* | <small>🔊 *[ajre]*</small> *[ajĥe]* <small>📨 *[eĥ]*</small> |
-| | | |
-| alte | *[alte]* | <small>🔊 *[alte]*</small> *[aŭte]* <small>📨 *[ot]*</small> |
-| | | |
-
-<!--v-->
-
-#### ae kaj al
-
-<small>*ae* kaj *al* estas prononceblaj *[aj]* kaj *[aŭ]*.</small>
-
-Notes:
-* Ĝenerale, *l* post vokalo prononciĝas *[ŭ]* kiam ĝi ne estas sekvata de alia vokalo.
 
 <!--v-->
 
@@ -435,31 +455,86 @@ Notes:
 
 <!--v-->
 
-#### Voĉiĝo
+#### p, t, c kaj b
 
-<small>Inter vokaloj, postakcentaj *p*, *t*, *c* prononciĝas *[b]*, *[d]*, *[g]*.</small>
+<small>Inter vokaloj, postakcentaj *p*, *t*, *c* kaj *b* prononciĝas *[b]*, *[d]*, *[g]* kaj *[v]*.</small>
 
 <!--v-->
 
 | | progressive | progressivissime |
-|-|-|-|
+|-|-:|:-|
 | lupo | *[lupo]* | *[lubo]* |
 | | | |
-| strata | *[strata]* | *[strada]* |
+| lato | *[lato]* | *[lado]* |
 | | | |
 | laco | *[lako]* | *[lago]* |
 | | | |
+| proba | *[proba]* | *[pĥova]* |
+| | | |
 
 <!--v-->
 
 | | progressive | progressivissime |
-|-|-|-|
+|-|-:|:-|
 | lupo | *[lupo]* | <small>🔊 *[lubo]*</small> *[lubo]* |
 | | | |
-| strata | *[strata]* | <small>🔊 *[strada]*</small> *[stĥada]* |
+| lato | *[lato]* | <small>🔊 *[lado]*</small> *[lado]* |
 | | | |
 | laco | *[lako]* | <small>🔊 *[lago]*</small> *[lago]* |
 | | | |
+| proba | *[proba]* | <small>🔊 *[prova]*</small> *[pĥova]* |
+| | | |
+
+<!--v-->
+
+<small>Tiu ŝanĝiĝo okazas ankaŭ antaŭ akcentata ŝajnsufikso.</small>
+
+<!--v-->
+
+| | progressive | progressivissime |
+|-|-:|:-|
+| labor | *[labor']* | *[lavoĥ']* |
+| | | |
+
+<!--v-->
+
+| | progressive | progressivissime |
+|-|-:|:-|
+| labor | *[labor']* | <small>🔊 *[lavor']*</small> *[lavoĥ']* |
+| | | |
+
+<!-- TODO bibita, habitar -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!--v-->
+
+| | accento progressivissime |
+|-|-|
+| sage | *[sapje]* ~ ***[saĵe]*** ~ *[saĵ(e)]* |
+| | |
+
+<small>Kiam la **progresemega prononco** malhavas finan vokalon, ĝi reteniĝas kiel *[e]* en la **progresemega akĉento**.</small>
+
+
+
+
+
+
+
+
+
 
 
 
@@ -468,7 +543,7 @@ Notes:
 
 <!--s-->
 
-## Progresemega Prononco (Rapida Prononco)
+## Progresemega (Rapida)
 
 <!--v-->
 
@@ -497,7 +572,27 @@ Notes:
 
 <!--v-->
 
-### Nazaliĝo
+### l
+
+<small>*l* post vokalo fariĝas *[ŭ]* kiam ĝi ne estas sekvata de alia vokalo.</small>
+
+<!--v-->
+
+| | progressive/progressivissime |
+|-|:-:|
+| alte | *[alte]* |
+| | |
+
+<!--v-->
+
+| | progressive | progressivissime |
+|-|-:|-|
+| alte | *[alte]* | *[alte]* <small>📨 *[aŭt]*</small> |
+| | | |
+
+<!--v-->
+
+### m kaj n
 
 <!--v-->
 
@@ -513,14 +608,16 @@ Notes:
 | mano | *[mano]* | *[mano]* <small>📨 *[mã]*</small> |
 | | | |
 
-<!--v-->
+<!--s-->
+-----
+<!--s-->
 
-<small>En rapida prononco, tiaj *[b]*, *[d]*, *[g]* fariĝas *[v]*, *[-]*, *[j]*.</small>
+<small>Tiaj *[b]*, *[d]*, *[g]* fariĝas *[v]*, *[-]*, *[j]*.</small>
 
 <!--v-->
 
 | | progressive | progressivissime |
-|-|-|-|
+|-|-:|-|
 | paupere | *[paŭpe-re]* | *[pobĥe]* |
 | | | |
 | universitate | *[universitate]* | *[univeĥsidade]* |
@@ -529,37 +626,52 @@ Notes:
 <!--v-->
 
 | | progressive | progressivissime |
-|-|-|-|
+|-|-:|-|
 | paupere | *[paŭpe-re]* | *[pobĥe]* <small>📨 *[povĥ]*</small> |
 | | | |
 | universitate | *[universitate]* | *[univeĥsidade]* <small>📨 *[univeĥsida']*</small> |
 | | | |
 
 <!-- TODO t/d/-? -it- -at-? (Sufiksoj) -->
+<!-- TODO universitate estas tro longa -->
+<!-- civitate? -->
+
+<!-- TODO porco calde ? -->
+
+
+
+
+
+
+
 
 <!--v-->
 
-### sp kaj st
+### sp, st, sc
 
-<small>Radikokomencaj *sp* kaj *st* prononciĝas *[esp]* kaj *[est]*.</small>
+<small>Radikokomence, *sp*, *st* kaj *sc* prononciĝas *[esp]*, *[est]* kaj *[esk]*.</small>
 
 <!--v-->
 
 | | progressive | progressivissime |
-|-|-|-|
-| sperantia | *[speransja]* | *[speĥansja]* |
+|-|-:|-|
+| sperantia | *[speransja]* | *[espeĥansja]* |
 | | | |
-| station | *[stasjon']* | *[stasjon']* |
+| station | *[stasjon']* | *[estasjon']* |
+| | | |
+| scriber | *[skriber']* | *[eskĥive']* |
 | | | |
 
 <!--v-->
 
 | | progressive | progressivissime |
-|-|-|-|
-| sperantia | *[speransja]* | *[speransja]* <small>📨 *[espeĥãs]*</small> |
+|-|-:|-|
+| sperantia | *[speransja]* | *[speĥansja]* <small>📨 *[espeĥãs]*</small> |
 | | | |
 | station | *[stasjon']* | *[stasjon']* <small>📨 *[estasjõ']*</small> |
 | | | |
+| scriber | *[skriber']* | *[skĥive']* <small>📨 *[eskĥiĥ']*</small> |
+| | | |
 
 
 
@@ -569,7 +681,7 @@ Notes:
 <!--v-->
 
 | | progressive | progressivissime |
-|-|-|-|
+|-|-:|-|
 | crede | *[krede]* | *[kĥede]* |
 | | | |
 | lege | *[leĵe]* | *[leĵe]* |
@@ -578,7 +690,7 @@ Notes:
 <!--v-->
 
 | | progressive | progressivissime |
-|-|-|-|
+|-|-:|-|
 | crede | *[krede]* | *[kĥede]* <small>📨 *[kĥee]*</small> |
 | | | |
 | lege | *[leĵe]* | *[leje]* <small>📨 *[lej]*</small> |
@@ -604,8 +716,11 @@ Notes:
 |-|:-:|
 | luce | *[lus]* |
 | | |
-| mense | *[mez]* |
+| mense | *[mes]* |
 | | |
+
+Notes:
+* menses *[mezes]*
 
 <!--v-->
 
@@ -616,15 +731,14 @@ Notes:
 | pede | *[pe]* |
 | | |
 
+<!-- TODO pedes? -->
 
-
-
-
-
+<!--s-->
+-----
 <!--v-->
 
 | | progressive | progressivissime |
-|-|-|-|
+|-|-:|-|
 | hostello | *[hostello]* | *[oteŭ']* |
 | | | |
 
@@ -773,45 +887,6 @@ Notes:
 | |
 
 <small>Ĉe verboj, la prononco *[t]* estas konservata.</small>
-
-<!--v-->
-
-| | accento progressivissime |
-|-|-|
-| biber   | *[biver']*   |
-| deber   | *[dever']*   |
-| dubitar | *[duvitar']* |
-| haber   | *[aver']*    |
-| laborar | *[lavorar']* |
-| probar  | *[provar']*  |
-| scriber | *[scriver']* |
-| | |
-
-<small>En verbaj radikoj, postvokala *b* prononciĝas *[v]*. Escepto: *habitar* *[abitar']*.</small>
-
-Notes:
-* bibita *[bibi-ta]*
-* labor *[labor']* <small>labore *[labore]*</small> `?`
-
-<!--v-->
-
-| | accento progressivissime |
-|-|-|
-| gratia | ***[grasja]*** ~ *[gras(ja)]* |
-| | |
-| plaça <small>placia = placėa <small>platĕa</small></small> | *[plasja]* ~ ***[plasa]*** ~ *[plas(ja)]* |
-| | |
-
-<small>Kiam la prononco de *ti* aŭ *te* fariĝis **progresemega** *[s]* en ĉiuj fontolingvoj, tiu prononco estas parto de la **progresemega akĉento**.</small>
-
-<!--v-->
-
-| | accento progressivissime |
-|-|-|
-| sage | *[sapje]* ~ ***[saĵe]*** ~ *[saĵ(e)]* |
-| | |
-
-<small>Kiam la **progresemega prononco** malhavas finan vokalon, ĝi reteniĝas kiel *[e]* en la **progresemega akĉento**.</small>
 
 <!--v-->
 
