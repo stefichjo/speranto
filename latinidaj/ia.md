@@ -227,12 +227,16 @@ Notes:
 |-|-:|-|
 | placia | *[plasja]* | *[plasa]* |
 | | | |
+| spatio | *[spasjo]* | *[spasjo]* |
+| | | |
 
 <!--v-->
 
 | | conservative | progressivissime |
 |-|-:|-|
 | placia | *[placi-a]* | *[plasa]* |
+| | | |
+| spatio | *[spaci-o]* | *[spasjo]* |
 | | | |
 
 <!--v-->
@@ -241,6 +245,8 @@ Notes:
 |-|-:|-|
 | placia | <small>🔊 *[plate-a]*</small> *[placi-a]* | *[plasa]* |
 | | | |
+| spatio | <small>🔊 *[spati-o]*</small> *[spaci-o]* | *[spasjo]* |
+| | | |
 
 <!--v-->
 
@@ -248,6 +254,25 @@ Notes:
 |-|-:|-|
 | placia | <small>🔊 *[plate-a]*</small> *[placi-a]* | <small>🔊 *[plasa]*</small> *[plasa]* |
 | | | |
+| spatio | <small>🔊 *[spati-o]*</small> *[spaci-o]* | <small>🔊 *[spasjo]*</small> *[spasjo]* |
+| | | |
+
+<!--v-->
+
+<small>*[j]* malantaŭ voĉa konsonanto fariĝas *[ĵ]* kaj asimilas la antaŭan voĉan konsonanton.</small>
+
+<!--v-->
+
+| | progressive | progressivissime |
+|-|-:|-|
+| hodie | *[odje]* | *[oĵe]* |
+| | | |
+| cavia | *[kavja]* | *[kaĵa]* |
+| | | |
+| radio | *[radjo]* | *[ĥaĵo]* |
+| | | |
+
+<!-- TODO Strange, ke kaĵ ne estas ĉaĵ -->
 
 <!--v-->
 
@@ -285,6 +310,71 @@ Notes:
 | | progressive | progressivissime |
 |-|-:|-|
 | amar | *[amar']* | <small>🔊 *[amar']*</small> *[ama']* |
+| | | |
+
+<!--v-->
+
+### p, t, c kaj b
+
+<small>Inter vokaloj, postakcentaj *p*, *t*, *c* kaj *b* prononciĝas *[b]*, *[d]*, *[g]* kaj *[v]*.</small>
+
+<!--v-->
+
+| | progressive | progressivissime |
+|-|-:|:-|
+| lupo | *[lupo]* | *[lubo]* |
+| | | |
+| lato | *[lato]* | *[lado]* |
+| | | |
+| laco | *[lako]* | *[lago]* |
+| | | |
+| proba | *[proba]* | *[pĥova]* |
+| | | |
+
+<!--v-->
+
+| | progressive | progressivissime |
+|-|-:|:-|
+| lupo | *[lupo]* | <small>🔊 *[lubo]*</small> *[lubo]* |
+| | | |
+| lato | *[lato]* | <small>🔊 *[lado]*</small> *[lado]* |
+| | | |
+| laco | *[lako]* | <small>🔊 *[lago]*</small> *[lago]* |
+| | | |
+| proba | *[proba]* | <small>🔊 *[prova]*</small> *[pĥova]* |
+| | | |
+
+<!--v-->
+
+<small>Tiu ŝanĝiĝo okazas ankaŭ antaŭ akcentata ŝajnsufikso.</small>
+
+<!--v-->
+
+| | progressive | progressivissime |
+|-|-:|:-|
+| labor | *[labor']* | *[lavoĥ']* |
+| | | |
+
+<!--v-->
+
+| | progressive | progressivissime |
+|-|-:|:-|
+| labor | *[labor']* | <small>🔊 *[lavor']*</small> *[lavoĥ']* |
+| | | |
+
+<!-- TODO bibita, habitar -->
+
+<!--v-->
+
+<small>Voĉiĝintaj konsonantoj eliziiĝas antaŭ *[ĵ]* same kiel voĉaj konsonantoj.</small>
+
+<!--v-->
+
+| | progressive | progressivissime |
+|-|-:|-|
+| rabia | *[rabja]* | *[raĵa]* |
+| | | |
+| sapie | *[sapje]* | *[saĵe]* |
 | | | |
 
 <!--v-->
@@ -453,94 +543,6 @@ Notes:
 Notes:
 * 📨 *[ŝãbĥ]*, 📨 *[tẽdr]*
 
-<!--v-->
-
-#### p, t, c kaj b
-
-<small>Inter vokaloj, postakcentaj *p*, *t*, *c* kaj *b* prononciĝas *[b]*, *[d]*, *[g]* kaj *[v]*.</small>
-
-<!--v-->
-
-| | progressive | progressivissime |
-|-|-:|:-|
-| lupo | *[lupo]* | *[lubo]* |
-| | | |
-| lato | *[lato]* | *[lado]* |
-| | | |
-| laco | *[lako]* | *[lago]* |
-| | | |
-| proba | *[proba]* | *[pĥova]* |
-| | | |
-
-<!--v-->
-
-| | progressive | progressivissime |
-|-|-:|:-|
-| lupo | *[lupo]* | <small>🔊 *[lubo]*</small> *[lubo]* |
-| | | |
-| lato | *[lato]* | <small>🔊 *[lado]*</small> *[lado]* |
-| | | |
-| laco | *[lako]* | <small>🔊 *[lago]*</small> *[lago]* |
-| | | |
-| proba | *[proba]* | <small>🔊 *[prova]*</small> *[pĥova]* |
-| | | |
-
-<!--v-->
-
-<small>Tiu ŝanĝiĝo okazas ankaŭ antaŭ akcentata ŝajnsufikso.</small>
-
-<!--v-->
-
-| | progressive | progressivissime |
-|-|-:|:-|
-| labor | *[labor']* | *[lavoĥ']* |
-| | | |
-
-<!--v-->
-
-| | progressive | progressivissime |
-|-|-:|:-|
-| labor | *[labor']* | <small>🔊 *[lavor']*</small> *[lavoĥ']* |
-| | | |
-
-<!-- TODO bibita, habitar -->
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<!--v-->
-
-| | accento progressivissime |
-|-|-|
-| sage | *[sapje]* ~ ***[saĵe]*** ~ *[saĵ(e)]* |
-| | |
-
-<small>Kiam la **progresemega prononco** malhavas finan vokalon, ĝi reteniĝas kiel *[e]* en la **progresemega akĉento**.</small>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <!--s-->
 
 ## Progresemega (Rapida)
@@ -551,7 +553,7 @@ Notes:
 
 <!--v-->
 
-<small>En rapida prononco, vortfina (duon-)vokalo eliziiĝas.</small>
+<small>Vortfina (duon-)vokalo eliziiĝas.</small>
 
 <!--v-->
 
@@ -607,6 +609,15 @@ Notes:
 |-|-:|-|
 | mano | *[mano]* | *[mano]* <small>📨 *[mã]*</small> |
 | | | |
+
+
+
+
+
+
+
+
+
 
 <!--s-->
 -----
@@ -851,18 +862,6 @@ Notes:
 | | | |
 
 <small>Tiam *[tl]* fariĝas *[kj]*</small>
-
-<!--v-->
-
-| | progressive | progressivissime |
-|-|-|-|
-| cavia | *[kavja]* | *[kaĵ(a)]* |
-| hodie | *[odje]* | *[oĵ(e)]* |
-| jornal | *[djurnal']* | *[ĵornaŭ']* |
-| rage | *[rabja]* | *[raĵ(a)]* |
-| | | |
-
-<small>Malantaŭ voĉa konsonanto, *i* *[j]* prononciĝas *[ĵ]* kaj asmilias tiun voĉan konsonanton.</small>
 
 <!--v-->
 
