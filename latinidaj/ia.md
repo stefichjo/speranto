@@ -379,6 +379,40 @@ Notes:
 
 <!--v-->
 
+### -ce, -se, -te kaj -de
+
+<small>La finaĵo -*e* eliziiĝas malantaŭ *c* kaj *s*.</small>
+
+<!--v-->
+
+| | progressive | progressivissime |
+|-|-:|-|
+| luce | *[luse]* | *[lus]* |
+| | | |
+| mense | *[meze]* | *[mes]* |
+| | | |
+
+Notes:
+* menses *[mezes]*
+
+<!--v-->
+
+<small>*-e* eliziiĝas ankaŭ malantaŭ *t* kaj *d*, sed tiam *d* eliziiĝas.</small>
+
+<!--v-->
+
+| | progressive | progressivissime |
+|-|-:|-|
+| rete | *[rete]* | *[red]* |
+| | | |
+| pede | *[pede]* | *[pe]* |
+| | | |
+
+Notes:
+* pedes *[pedes]*
+
+<!--v-->
+
 ### ca
 
 <small>Radikokomenca *ca* prononciĝas *[ĉa]*.</small>
@@ -410,11 +444,9 @@ Notes:
 
 <!--v-->
 
-#### i/e kaj u/o
+#### i kaj u
 
-<small>Akcentataj (mallongaj) *u* kaj *i* prononciĝas *[o]* kaj *[e]*.</small>
-
-<small>Samtempe, akcentataj (mallongaj) *o* kaj *e* prononciĝas *[ŭo]* kaj *[je]*.</small>
+<small>Mallongaj *u* kaj *i* prononciĝas *[o]* kaj *[e]*.</small>
 
 <!--v-->
 
@@ -436,20 +468,24 @@ Notes:
 
 <!--v-->
 
+<small>Tiu prononco konserviĝas tra bruo nur komence de radiko.</small>
+
+<!--v-->
+
 | | progressive | progressivissime |
 |-|-:|-|
-| heri | *[eri]* | *[jeĥi]* |
+| entrar | *[intrar']* | *[entĥa']* |
 | | | |
-| ovo | *[ovo]* | *[ŭovo]* |
+| unda | *[unda]* | *[onda]* |
 | | | |
 
 <!--v-->
 
 | | progressive | progressivissime |
 |-|-:|-|
-| heri | *[eri]* | <small>🔊 *[eri]*</small> *[jeĥi]* |
+| entrar | *[intrar']* | <small>🔊 *[entrar']*</small> *[entĥa']* |
 | | | |
-| ovo | *[ovo]* | <small>🔊 *[ovo]*</small> *[ŭovo]* |
+| unda | *[unda]* | <small>🔊 *[onda]*</small> *[onda]* |
 | | | |
 
 <!--v-->
@@ -574,6 +610,52 @@ Notes:
 
 <!--v-->
 
+<small>Vortofine, *d* eliziiĝas. *g*, kiu fariĝis *[ĵ]* prononciĝas *[j]*.</small>
+
+<!--v-->
+
+| | progressive | progressivissime |
+|-|-:|-|
+| grado | *[grado]* | *[gĥado]* |
+| | | |
+| lege | *[leĵe]* | *[leĵe]* |
+| | | |
+
+<!--v-->
+
+| | progressive | progressivissime |
+|-|-:|-|
+| grado | *[grado]* | *[gĥado]* <small>📨 *[gĥa]*</small> |
+| | | |
+| lege | *[leĵe]* | *[leĵe]* <small>📨 *[lej]*</small> |
+| | | |
+
+<!--v-->
+
+### o kaj e
+
+<small>Akcentataj (mallongaj) *o* kaj *e* prononciĝas *[ŭo]* kaj *[je]*.</small>
+
+<!--v-->
+
+| | progressive | progressivissime |
+|-|-:|-|
+| heri | *[eri]* | *[eĥi]* |
+| | | |
+| ovo | *[ovo]* | *[ovo]* |
+| | | |
+
+<!--v-->
+
+| | progressive | progressivissime |
+|-|-:|-|
+| heri | *[eri]* | *[eĥi]* <small>📨 *[jeĥ]*</small> |
+| | | |
+| ovo | *[ovo]* | *[ovo]* <small>📨 *[ŭov]*</small> |
+| | | |
+
+<!--v-->
+
 ### l
 
 <small>*l* post vokalo fariĝas *[ŭ]* kiam ĝi ne estas sekvata de alia vokalo.</small>
@@ -610,52 +692,6 @@ Notes:
 | mano | *[mano]* | *[mano]* <small>📨 *[mã]*</small> |
 | | | |
 
-
-
-
-
-
-
-
-
-
-<!--s-->
------
-<!--s-->
-
-<small>Tiaj *[b]*, *[d]*, *[g]* fariĝas *[v]*, *[-]*, *[j]*.</small>
-
-<!--v-->
-
-| | progressive | progressivissime |
-|-|-:|-|
-| paupere | *[paŭpe-re]* | *[pobĥe]* |
-| | | |
-| universitate | *[universitate]* | *[univeĥsidade]* |
-| | | |
-
-<!--v-->
-
-| | progressive | progressivissime |
-|-|-:|-|
-| paupere | *[paŭpe-re]* | *[pobĥe]* <small>📨 *[povĥ]*</small> |
-| | | |
-| universitate | *[universitate]* | *[univeĥsidade]* <small>📨 *[univeĥsida']*</small> |
-| | | |
-
-<!-- TODO t/d/-? -it- -at-? (Sufiksoj) -->
-<!-- TODO universitate estas tro longa -->
-<!-- civitate? -->
-
-<!-- TODO porco calde ? -->
-
-
-
-
-
-
-
-
 <!--v-->
 
 ### sp, st, sc
@@ -666,11 +702,11 @@ Notes:
 
 | | progressive | progressivissime |
 |-|-:|-|
-| sperantia | *[speransja]* | *[espeĥansja]* |
+| sperantia | *[speransja]* | *[speĥansja]* |
 | | | |
-| station | *[stasjon']* | *[estasjon']* |
+| station | *[stasjon']* | *[stasjon']* |
 | | | |
-| scriber | *[skriber']* | *[eskĥive']* |
+| scriber | *[skriber']* | *[skĥive']* |
 | | | |
 
 <!--v-->
@@ -681,80 +717,49 @@ Notes:
 | | | |
 | station | *[stasjon']* | *[stasjon']* <small>📨 *[estasjõ']*</small> |
 | | | |
-| scriber | *[skriber']* | *[skĥive']* <small>📨 *[eskĥiĥ']*</small> |
-| | | |
-
-
-
-
-
-
-<!--v-->
-
-| | progressive | progressivissime |
-|-|-:|-|
-| crede | *[krede]* | *[kĥede]* |
-| | | |
-| lege | *[leĵe]* | *[leĵe]* |
+| scriber | *[skriber']* | *[skĥive']* <small>📨 *[eskĥive']*</small> |
 | | | |
 
 <!--v-->
 
-| | progressive | progressivissime |
-|-|-:|-|
-| crede | *[krede]* | *[kĥede]* <small>📨 *[kĥee]*</small> |
-| | | |
-| lege | *[leĵe]* | *[leje]* <small>📨 *[lej]*</small> |
-| | | |
-
-<!-- TODO as-formo en rapida progresemega prononco... ĝia finaĵo eliziiĝas -->
-
-
-
-
-
-<!--s-->
-
-#### -ce, -se, -te kaj -de
-
-<small>La finaĵo -*e* eliziiĝas malantaŭ *c*, *s*.</small>
-
-<small>Ĝi eliziiĝas ankaŭ malantaŭ *t* kaj *d*, sed tiam *t* prononciĝas *[d]*, kaj *d* eliziiĝas.</small>
+<small>Radikofine, la *s* en *sp*, *st* kaj *sc* eliziiĝas.</small>
 
 <!--v-->
 
 | | progressivissime |
-|-|:-:|
-| luce | *[lus]* |
+|-|-|
+| hostello | *[ostelo]* |
 | | |
-| mense | *[mes]* |
+| costa | *[kosta]* |
 | | |
-
-Notes:
-* menses *[mezes]*
 
 <!--v-->
 
 | | progressivissime |
-|-|:-:|
-| rete | *[red]* |
+|-|-|
+| hostello | *[ostelo]* <small>📨 *[oteŭ']*</small> |
 | | |
-| pede | *[pe]* |
+| costa | *[kosta]* <small>📨 *[kot]*</small> |
 | | |
 
-<!-- TODO pedes? -->
+<!-- TODO e→i? -->
+
+
+
+
+
+
+
 
 <!--s-->
 -----
-<!--v-->
 
-| | progressive | progressivissime |
-|-|-:|-|
-| hostello | *[hostello]* | *[oteŭ']* |
-| | | |
+<!-- TODO t/d/-? -it- -at-? (Sufiksoj) -->
+<!-- TODO universitate estas tro longa -->
+<!-- civitate? -->
 
-<!--s-->
------
+<!-- TODO porco calde ? -->
+
 <!--s-->
 
 # Interlingua
