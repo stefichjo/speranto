@@ -41,6 +41,73 @@ revealOptions:
 
 <!--v-->
 
+### Duoblaj Konsonantoj
+
+<small>Duoblaj konsonantoj estas prononcataj en la konservema prononco.</small>
+
+<!--v-->
+
+| | conservative | progressive |
+|-|-:|-|
+| massa | *[massa]* | *[masa]* |
+| | | |
+| terra | *[terra]* | *[tera]* |
+| | | |
+
+<!--v-->
+
+<small>Inter vokaloj, unuobla *s* prononciĝas *[z]* en progresema prononco.</small>
+
+<!--v-->
+
+| | conservative | progressive |
+|-|-:|-|
+| rosa | *[rosa]* | *[roza]* |
+| | | |
+
+<!--v-->
+
+### x
+
+<!--v-->
+
+<small>Inter vokaloj, *x* prononciĝas *[gz]*. En progresema prononco, *[ks]* kaj *[gz]* fariĝas *[s]* kaj *[z]*.</small>
+
+<!--v-->
+
+| | conservative | progressive |
+|-|-:|:-|
+| texto | *[teksto]* | *[testo]* |
+| | | |
+| exemplo | *[egzemplo]* | *[ezemplo]* |
+| | | |
+
+<!--v-->
+
+<small>Kiel prefikso kun la signifo "eksa", *ex-* prononciĝas *[eks]*.</small>
+
+<!--v-->
+
+| | conservative | progressive |
+|-|-:|:-|
+| ex-presidento | *[ekspresidento]* | *[eksprezidento]* |
+| | | |
+
+<!--v-->
+
+### gn
+
+<small>En progresema prononco, *gn* prononciĝas *nj*.</small>
+
+<!--v-->
+
+| | conservative | progressive |
+|-|-:|:-|
+| signo | *[signo]* | *[sinjo]* |
+| | | |
+
+<!--v-->
+
 ### Palataleco
 
 <!--v-->
@@ -720,6 +787,8 @@ Notes:
 | scriber | *[skriber']* | *[skĥive']* <small>📨 *[eskĥive']*</small> |
 | | | |
 
+<!-- TODO e→i? -->
+
 <!--v-->
 
 <small>Radikofine, la *s* en *sp*, *st* kaj *sc* eliziiĝas.</small>
@@ -741,8 +810,6 @@ Notes:
 | | |
 | costa | *[kosta]* <small>📨 *[kot]*</small> |
 | | |
-
-<!-- TODO e→i? -->
 
 
 
@@ -791,30 +858,6 @@ Notes:
 Notes:
 * larghe, lunghe, naufraghe, portughese
 * guitarra
-
-<!--v-->
-
-| | conservative | progressive |
-|-|-:|:-|
-| massa | *[massa]* | *[masa]* |
-| | | |
-| rosa | *[rosa]* | *[roza]* |
-| | | |
-| texto | *[teksto]* | *[testo]* |
-| | | |
-| exemplo | *[egzemplo]* | *[ezemplo]* |
-| | | |
-
-<!--v-->
-
-| | conservative | progressive |
-|-|-:|:-|
-| fungo | *[fungo]* | *[fuŋgo]* |
-| | | |
-| signo | *[signo]* | *[sinjo]* |
-| | | |
-
-<!-- TODO ŋ estas jam konservema, ĉu ne? (n = latina?) -->
 
 <!--v-->
 
