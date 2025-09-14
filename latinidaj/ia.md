@@ -241,6 +241,19 @@ Notes:
 
 <!--v-->
 
+<small>La participo…</small>
+
+<!--v-->
+
+| | conservative | progressive |
+|-|-:|-|
+| facer | *[face-re]* | *[faser']* |
+| | | |
+| facite | *[fakte]* | *[fasite]* |
+| | | |
+
+<!--v-->
+
 <small>La *-e* konserviĝas en la as-formo de verboj.</small>
 
 <!--v-->
@@ -251,8 +264,6 @@ Notes:
 | | |
 
 <!-- TODO Fakte, *[ten]* estus sencohava formo. Ĉu *[tene]* estas tra bruo? -->
-
-<!-- TODO calde ? -->
 
 <!--s-->
 
@@ -287,6 +298,34 @@ Notes:
 |-|:-:|
 | calde | *[kali-de]* <small>📨 *[kalde]*</small> |
 | | |
+
+<!--v-->
+
+<small>En malrapida **konservemega prononco**, la *i* en la ne-akcentata verba sufikso **it** ankoraŭ ne eliziiĝas. En **progresema prononco**, la *i* reaperas akcentata.</small>
+
+<!--v-->
+
+| | conservativissime |
+|-|:-:|
+| facite | *[fakte]* |
+| | |
+
+<!--v-->
+
+| | conservativissime |
+|-|:-:|
+| facite | <small>🔊 *[faki-te]*</small> *[fakte]* |
+| | |
+
+<!--v-->
+
+| | conservativissime | … | progressive |
+|-|:-:| | |
+| facite | <small>🔊 *[faki-te]*</small> *[fakte]* | … | *[fasite]* |
+| | | | |
+
+Notes:
+* prehendite, sentite
 
 <!--v-->
 
@@ -814,10 +853,8 @@ Notes:
 | | | |
 | station | *[stasjon']* | *[stasjon']* <small>📨 *[estasjõ']*</small> |
 | | | |
-| scriber | *[skriber']* | *[skĥive']* <small>📨 *[eskĥive']*</small> |
+| scriber | *[skriber']* | *[skĥeve']* <small>📨 *[eskĥeve']*</small> |
 | | | |
-
-<!-- TODO e→i? -->
 
 <!--v-->
 
@@ -1088,17 +1125,6 @@ Notes:
 
 Notes:
 * *soror* povintus esti *sorore*.
-
-<!--v-->
-
-| conservativissime | conservative | progressive |
-|-|-|-|
-| facĭte | facte | facite |
-| prehendĭte | prense | prendite |
-| sentĭte | sense | sentite |
-| | | |
-
-<small>En **konservemega prononco**, la *i* en la ne-akcentata verba sufikso **it** ankoraŭ ne eliziiĝas. En **progresema prononco**, la *i* reaperas akcentata.</small>
 
 <!--v-->
 
