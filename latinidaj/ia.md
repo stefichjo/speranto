@@ -252,11 +252,41 @@ Notes:
 
 <!-- TODO Fakte, *[ten]* estus sencohava formo. Ĉu *[tene]* estas tra bruo? -->
 
+<!-- TODO calde ? -->
+
 <!--s-->
 
 ## Konservemega
 
 <small>latina akĉento</small>
+
+<!--v-->
+
+| | conservativissime |
+|-|:-:|
+| porco | *[porko]* |
+| | |
+
+<!--v-->
+
+| | conservativissime |
+|-|:-:|
+| porco | <small>🔊 *[pori-ko]*</small> *[porko]* |
+| | |
+
+<!--v-->
+
+| | conservativissime |
+|-|:-:|
+| calde | *[kali-de]* |
+| | |
+
+<!--v-->
+
+| | conservativissime |
+|-|:-:|
+| calde | *[kali-de]* <small>📨 *[kalde]*</small> |
+| | |
 
 <!--v-->
 
@@ -825,8 +855,6 @@ Notes:
 <!-- TODO universitate estas tro longa -->
 <!-- civitate? -->
 
-<!-- TODO porco calde ? -->
-
 <!--s-->
 
 # Interlingua
@@ -884,15 +912,6 @@ Notes:
 
 | | progressive | progressivissime |
 |-|-|-|
-| tinta | *[tincta]* | *[tint(a)]* |
-| | | |
-
-<small>*c* en *ct* eliziiĝas.</small>
-
-<!--v-->
-
-| | progressive | progressivissime |
-|-|-|-|
 | obstaculo | *[obstaku-lo]* | *[obstakl(o)]* ~ *[obstak(jo)]* |
 | | | |
 | sedia | *[sedu-la]* | *[sedl(a)]* ~ *[sed(ja)]* |
@@ -945,17 +964,8 @@ Notes:
 
 | | accento progressivissime |
 |-|-|
-| entrar | *[intrar']* ~ ***[entrar']*** ~ *[entra']* |
-| o | *[aŭ]* ~ ***[o]*** |
-| | | |
-
-<!--v-->
-
-| | accento progressivissime |
-|-|-|
 | cassa | *[kapsa]* ~ ***[kasa]*** ~ *[kas(a)]* |
 | mese | *[mense]* <small>🌎</small> ~ ***[meze]*** ~ *[meze/mes]* |
-| hotel | *[ospital']* ~ ***[otel']*** ~ *[oteŭ']* |
 | | | |
 
 <!--v-->
