@@ -480,6 +480,9 @@ Notes:
 | proba | *[proba]* | <small>🔊 *[prova]*</small> *[pĥova]* |
 | | | |
 
+Notes:
+* Sufiksoj: *[formado]*
+
 <!--v-->
 
 <small>Tiu ŝanĝiĝo okazas ankaŭ antaŭ akcentata ŝajnsufikso.</small>
@@ -546,6 +549,7 @@ Notes:
 
 Notes:
 * pedes *[pedes]*
+* Sufiksoj: *[sividad']*, *[virtud']*, *[salud']*
 
 <!--v-->
 
