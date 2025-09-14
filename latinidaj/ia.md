@@ -878,12 +878,23 @@ Notes:
 | costa | *[kosta]* <small>📨 *[kot]*</small> |
 | | |
 
+<!--v-->
 
+<small>Radikokomence, la *f* eliziiĝas en rapida prononco.</small>
 
+<!--v-->
 
+| | progressive | progressivissime |
+|-|-:|-|
+| filio | *[filjo]* | *[fiĵo]* |
+| | | |
 
+<!--v-->
 
-
+| | progressive | progressivissime |
+|-|-:|-|
+| filio | *[filjo]* | *[fiĵo]* <small>📨 *[iĵ]*</small> |
+| | | |
 
 <!--s-->
 -----
