@@ -140,9 +140,6 @@ Notes:
 | justo | *[justo]* | <small>🔊 *[justo]*</small> __*[ĵusto]*__ |
 | | | |
 
-Notes:
-* horologio, litigio, prestigio, privilegio, prodigio
-
 <!--v-->
 
 | | conservative | progressive |
@@ -163,6 +160,22 @@ Notes:
 
 Notes:
 * Tra-brua progresema prononco estas rapida konservema prononco. Analogie, tra-brua progresemega prononco estas rapida progresema prononco.
+
+<!--v-->
+
+<small>Intervokala ne-akcentata *gi* estas *[ĵ]* en progresema prononco.</small>
+
+<!--v-->
+
+| | conservative | progressive |
+|-|-:|-|
+| privilegio | *[privilegio]* | *[privileĵo]* |
+| | | |
+| biologia | *[biologia]* | *[bioloĵia]* |
+| | | |
+
+Notes:
+* horologio, litigio, prestigio, privilegio, prodigio
 
 <!--v-->
 
@@ -460,7 +473,7 @@ Notes:
 |-|-:|:-|
 | lupo | *[lupo]* | *[lubo]* |
 | | | |
-| lato | *[lato]* | *[lado]* |
+| cata | *[kata]* | *[kada]* |
 | | | |
 | laco | *[lako]* | *[lago]* |
 | | | |
@@ -473,7 +486,7 @@ Notes:
 |-|-:|:-|
 | lupo | *[lupo]* | <small>🔊 *[lubo]*</small> *[lubo]* |
 | | | |
-| lato | *[lato]* | <small>🔊 *[lado]*</small> *[lado]* |
+| cata | *[kata]* | <small>🔊 *[kada]*</small> *[kada]* |
 | | | |
 | laco | *[lako]* | <small>🔊 *[lago]*</small> *[lago]* |
 | | | |
@@ -518,6 +531,22 @@ Notes:
 
 <!--v-->
 
+<small>Ĉe verboj, la radikofino estas konservata.</small>
+
+<!--v-->
+
+| | progressive/progressivissime |
+|-|-|
+| data | *[data]* |
+| | |
+| pote | *[pote]* |
+| | |
+
+Notes:
+* *lato* estas origine verba.
+
+<!--v-->
+
 ### -ce, -se, -te kaj -de
 
 <small>La finaĵo -*e* eliziiĝas malantaŭ *c* kaj *s*.</small>
@@ -531,6 +560,7 @@ Notes:
 | mense | *[meze]* | *[mes]* |
 | | | |
 
+<!-- TODO mese/mense? -->
 Notes:
 * menses *[mezes]*
 
@@ -549,7 +579,7 @@ Notes:
 
 Notes:
 * pedes *[pedes]*
-* Sufiksoj: *[sividad']*, *[virtud']*, *[salud']*
+* Sufiksoj: *[felisidad']*, *[sividad']*, *[virtud']*, *[salud']*
 
 <!--v-->
 
@@ -901,15 +931,90 @@ Notes:
 | | | |
 
 <!--s-->
+
+# Ortografio
+
+<!--v-->
+
+## c kaj g
+
+<!--v-->
+
+| | |
+|-|-|
+| que | *[ke]* |
+| | |
+| franc | *[fraŋk]* |
+| | |
+
+<!--v-->
+
+| | |
+|-|-|
+| que | *[ke]* |
+| | |
+| __franche__ | __*[fraŋke]*__ |
+| | |
+
+<!--v-->
+
+| | |
+|-|-|
+| que | *[ke]* |
+| | |
+| __franche__ | __*[fraŋke]*__ |
+| | |
+| francamente | *[fraŋkamente]* |
+| | |
+
+<!--v-->
+
+| | |
+|-|-|
+| que | *[ke]* |
+| | |
+| __franche__ | __*[fraŋke]*__ |
+| | |
+| __franchemente__ | __*[fraŋkemente]*__ |
+| | |
+
+<!--v-->
+
+| | |
+|-|-|
+| guitarra | *[gitara]* |
+| | |
+| large | *[large]* |
+| | |
+
+<!--v-->
+
+| | |
+|-|-|
+| guitarra | *[gitara]* |
+| | |
+| __larghe__ | *[large]* |
+| | |
+
+Notes:
+* larghe, lunghe, naufraghe, portughese
+
+<!--s-->
 -----
 
 <!-- TODO t/d/-? -it- -at-? (Sufiksoj) -->
 <!-- TODO universitate estas tro longa -->
 <!-- civitate? -->
 
-<!--s-->
 
-# Interlingua
+
+
+
+
+
+
+
+
 
 <!--s-->
 
@@ -918,26 +1023,6 @@ Notes:
 <!--v-->
 
 ## Konservema kaj Progresema Prononcoj
-
-<!--v-->
-
-| | conservative | progressive |
-|-|-:|:-|
-| privilegio | *[privilegi-o]* | *[privileĵo]* |
-| | | |
-
-<!--v-->
-
-| | conservative | progressive |
-|-|-:|:-|
-| *[large]* | large | larghe |
-| | | |
-
-<small>En **progresema prononco**, la ortografio de *[g]* antaŭ moliga vokalo (*e*, *i*, *y*) estas *gh* (respektive *gu* komence de radiko).</small>
-
-Notes:
-* larghe, lunghe, naufraghe, portughese
-* guitarra
 
 <!--v-->
 
@@ -981,30 +1066,6 @@ Notes:
 | | | |
 
 <small>Tiam *[tl]* fariĝas *[kj]*</small>
-
-<!--v-->
-
-### Progresemega Akĉento
-
-| | accento progressivissime |
-|-|-|
-| felicitate | *[felisitate]* ~ ***[felisitad']*** ~ *[felisida']* |
-| | |
-| virtute | *[virtute]* ~ ***[virtud']*** ~ *[virtu']* |
-| | |
-
-<small>La *t* en la sufiksoj -*tate* kaj -*tute* prononciĝas *[d]*.</small>
-
-<!--v-->
-
-| |
-|-|
-| data *[data]* |
-| |
-| pote *[pote]* |
-| |
-
-<small>Ĉe verboj, la prononco *[t]* estas konservata.</small>
 
 <!--v-->
 
