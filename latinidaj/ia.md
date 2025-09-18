@@ -179,6 +179,77 @@ Notes:
 
 <!--v-->
 
+#### c kaj g
+
+<small>Komence de radiko, *c* kaj *g* antaŭ palataliga vokalo (*e*, *i* aŭ *y*) skribiĝas *qu* kaj *gu*.</small>
+
+<!--v-->
+
+| | conservative/progressive |
+|-|:-:|
+| que | *[ke]* |
+| | |
+| guitarra | *[gitar(r)a]* |
+| | |
+
+<!--v-->
+
+<small>Alikaze, skribiĝas __*ch*__ kaj __*gh*__. Tamen, Interlingua evitas vortfinajn __*che*__ *[ke]* kaj __*ghe*__ *[ge]*.</small>
+
+<!--v-->
+
+| | conservative/progressive |
+|-|:-:|
+| franc | *[fraŋk]* |
+| | |
+
+<!--v-->
+
+| | conservative/progressive |
+|-|:-:|
+| __franche__ | __*[fraŋke]*__ |
+| | |
+
+<!--v-->
+
+| | conservative/progressive |
+|-|:-:|
+| __franche__ | __*[fraŋke]*__ |
+| | |
+| francamente | *[fraŋkamente]* |
+| | |
+
+<!--v-->
+
+| | conservative/progressive |
+|-|:-:|
+| __franche__ | __*[fraŋke]*__ |
+| | |
+| __franchemente__ | __*[fraŋkemente]*__ |
+| | |
+
+<!--v-->
+
+| | conservative/progressive |
+|-|:-:|
+| large | *[large]* |
+| | |
+
+<!--v-->
+
+| | conservative/progressive |
+|-|:-:|
+| __larghe__ | *[large]* |
+| | |
+
+<!-- TODO -->
+Notes:
+* larghe, lunghe, naufraghe, portughese
+* le franches ?
+* le larghes ?
+
+<!--v-->
+
 ### h
 
 <!--v-->
@@ -255,6 +326,9 @@ Notes:
 <!--v-->
 
 <small>La participo…</small>
+<!-- TODO t/d/-? -it- -at-? (Sufiksoj) -->
+<!-- TODO universitate estas tro longa -->
+<!-- civitate? -->
 
 <!--v-->
 
@@ -339,6 +413,32 @@ Notes:
 
 Notes:
 * prehendite, sentite
+
+<!--v-->
+
+<small>Kelkaj internaciaj formoj tute anstataŭis eĉ la konservemajn formojn.</small>
+
+<!--v-->
+
+| | conservative |
+|-|:-:|
+| cassa | *[kassa]* |
+| | |
+| mese | *[mese]* |
+| | |
+| prender | *[prende-re]* |
+| | |
+
+<!--v-->
+
+| | conservativissime | conservative |
+|-|-:|-|
+| cassa | *[kapsa]* | *[kassa]* |
+| | | |
+| mese | *[mense]* | *[mese]* |
+| | | |
+| prender | *[prehende-re]* |
+| | | |
 
 <!--v-->
 
@@ -587,6 +687,8 @@ Notes:
 
 <small>Radikokomenca *ca* prononciĝas *[ĉa]*.</small>
 
+<!-- En la franca "chause" oni povas vidi, ke la monoftongiĝo de "au" al "o" okazis malfrue. La ŝanĝiĝo de "ca" al "cha" okazis unue. Sed tio ne estas tro grava. -->
+
 <!--v-->
 
 | | progressive | progressivissime |
@@ -698,11 +800,91 @@ Notes:
 | | | |
 
 Notes:
-* La kombino de la du prepozicioj *a* kaj *in* prononciĝas kun la diftongo *[aj]*, kiu prononciĝas *[e]*: *a-in* *[en]*.</small>
-
+* La kombino de la du prepozicioj *a* kaj *in* prononciĝas kun la diftongo *[aj]*, kiu prononciĝas *[e]*: *a-in* *[en]*.
 <!--v-->
 
 ### Sufiksoj
+
+<small>La ne-akcentataj sâjnsufiksoj (-*er*-, -*in*-, -*it*-, -*or*-) eliziiĝas en substantivoj.</small>
+
+<!-- TODO "en substantivoj", ĉu nur? -->
+
+<!--v-->
+
+#### -in-
+
+<small>Multaj substantivoj kun la neakcentata infikso -*in*- havas latinlingvan nominativon je -*en* aŭ je -*o* (aŭ *-is* en la kazo de *sanguis*). En ĉiuj kazoj, la finaĵo en la progresemega prononco estas -*e*.</small>
+
+<!--v-->
+
+| | progressive | progressivissime |
+|-|-:|-|
+| crimine | *[krimi-ne]* | *[kĥime]* |
+| examine | *[ezami-ne]* | *[ezame]* |
+| fulmine | *[fulmi-ne]* | *[fulme]* |
+| lumine | *[lumi-ne]* | *[lume]* |
+| nomine | *[nomi-ne]* | *[nome]* |
+| sanguine | *[saŋŭi-ne]* | *[saŋgŭe]* |
+| | |
+
+
+
+
+
+
+
+<!--v-->
+
+| conservative | progressive |
+|-|-|
+| homine   | home  |
+| imagine  | image |
+| margine  | marge |
+| ordine   | orde  |
+| -udine   | -ude  |
+| | |
+
+<!--v-->
+
+| conservative | progressive |
+|-|-|
+| capite  | capo  |
+| corpore | corpo |
+| latere  | lato  |
+| tempore | tempo |
+| termine | termo |
+| | |
+
+<small>Kiam la latinlingva nominativo finiĝas per -*us* (aŭ -*ut*, en la kazo de *caput*), la formo kun **progresema prononco** finiĝas per -*o*.</small>
+
+<!--v-->
+
+| conservative/progressive |
+|-|
+| femina |
+| pagina |
+| |
+
+<small>La formoj de *femina* kaj *pagina* estas senŝanĝaj. Ilia latinlingva nominativo finiĝas per -*ina*.</small>
+
+<!--v-->
+
+| conservative/progressive |
+|-|
+| hospite |
+| limite |
+| |
+
+<small>La formoj de *hospite* kaj *limite* estas senŝanĝaj. Ilia latinlingva nominativo finiĝas per -*es*.</small>
+
+
+
+
+
+
+
+
+
 
 <!--v-->
 
@@ -930,95 +1112,34 @@ Notes:
 | filio | *[filjo]* | *[fiĵo]* <small>📨 *[iĵ]*</small> |
 | | | |
 
-<!--s-->
-
-# Ortografio
-
 <!--v-->
 
-## c kaj g
+## Internaciismoj
 
-<!--v-->
+<small>Kelkaj origine progresemegaj (aŭ internacilingvaj) prononcoj uziĝas paralele kiel neologismoj.</small>
 
+| | progressive |
+|-|:-:|
+| causa | *[kaŭza]* <small>📨 *[koza]*</small> |
+| cosa | *[koza]* |
 | | |
-|-|-|
-| que | *[ke]* |
-| | |
-| franc | *[fraŋk]* |
-| | |
-
-<!--v-->
-
-| | |
-|-|-|
-| que | *[ke]* |
-| | |
-| __franche__ | __*[fraŋke]*__ |
-| | |
-
-<!--v-->
-
-| | |
-|-|-|
-| que | *[ke]* |
-| | |
-| __franche__ | __*[fraŋke]*__ |
-| | |
-| francamente | *[fraŋkamente]* |
-| | |
-
-<!--v-->
-
-| | |
-|-|-|
-| que | *[ke]* |
-| | |
-| __franche__ | __*[fraŋke]*__ |
-| | |
-| __franchemente__ | __*[fraŋkemente]*__ |
-| | |
-
-<!--v-->
-
-| | |
-|-|-|
-| guitarra | *[gitara]* |
-| | |
-| large | *[large]* |
-| | |
-
-<!--v-->
-
-| | |
-|-|-|
-| guitarra | *[gitara]* |
-| | |
-| __larghe__ | *[large]* |
+| opera | *[ope-ra]* <small>📨 *[obra]*</small> |
+| obra | *[obra]* |
 | | |
 
 Notes:
-* larghe, lunghe, naufraghe, portughese
+* pausa ≠ posa
+* liberar ≠ livrar
+
+<!--v-->
+
+
 
 <!--s-->
 -----
-
-<!-- TODO t/d/-? -it- -at-? (Sufiksoj) -->
-<!-- TODO universitate estas tro longa -->
-<!-- civitate? -->
-
-
-
-
-
-
-
-
-
-
-
 <!--s-->
 
-# Prononco
+# Prononco …
 
 <!--v-->
 
@@ -1066,128 +1187,6 @@ Notes:
 | | | |
 
 <small>Tiam *[tl]* fariĝas *[kj]*</small>
-
-<!--v-->
-
-### Internaciismoj kaj Neologismoj
-
-<small>La **progresemega akĉento** estas fonto de internaciismoj kaj neologismoj.</small>
-
-<!--v-->
-
-| | accento progressivissime |
-|-|-|
-| cassa | *[kapsa]* ~ ***[kasa]*** ~ *[kas(a)]* |
-| mese | *[mense]* <small>🌎</small> ~ ***[meze]*** ~ *[meze/mes]* |
-| | | |
-
-<!--v-->
-
-| | accento progressivissime |
-|-|-|
-| causa ≠ cosa | *[kaŭza]* ~ ***[koza]*** ~ *[koz(a)]* |
-| pausa ≠ posa | *[paŭza]* ~ ***[poza]*** ~ *[poz(a)]* |
-| | | |
-| opera ≠ obra | *[ope-ra]* ~ ***[obra]*** ~ *[obr(a)]* |
-| liberar ≠ livrar | *[liberar']* ~ ***[livrar']*** ~ *[livra']* |
-| | | |
-
-<!--v-->
-
-| | accento progressivissime |
-|-|-|
-| littera | ***[lite-ra]*** ~ *[letr(a)]* |
-| | | |
-
-<!--v-->
-
-## Elizio
-
-<small>La ŝtupoj de **elizio** estas paralelaj al tiuj de la **prononco**: **konservem(eg)a** kaj **progresem(eg)a**. En **poezio**, eblas uzi **eliziojn** pli libere, dum **tra bruo** eblas uzi pli **konserveman** prononcon.</small>
-
-<!--v-->
-
-### -e
-
-<!--v-->
-
-| conservativissime | conservative |
-|-|-|
-| prehendere *[prehende-re]* | prendere *[prende-re]* |
-| | |
-
-<!--v-->
-
-### Neakcentataj Sufiksoj
-
-<small>Kun **progresema elizio**, neakcentataj sufiksoj (-*er*-, -*in*-, -*it*-, -*or*-) eliziiĝas en substantivoj.</small>
-
-<!--v-->
-
-| conservative | progressive |
-|-|-|
-| sanguine | sangue |
-| | |
-
-<small>Multaj substantivoj kun la neakcentata infikso -*in*- havas latinlingvan nominativon je -*en* aŭ je -*o* (aŭ *-is* en la kazo de *sanguis*). En ĉiuj kazoj, la finaĵo en la **progresema prononco** estas -*e*.</small>
-
-<!--v-->
-
-| conservative | progressive |
-|-|-|
-| crimine | crime |
-| examine | exame |
-| fulmine | fulme |
-| lumine  | lume |
-| nomine  | nome |
-| | |
-
-Notes:
-* se ili ekzistus: carmĭne, flumĭne
-
-<!--v-->
-
-| conservative | progressive |
-|-|-|
-| homine   | home  |
-| imagine  | image |
-| margine  | marge |
-| ordine   | orde  |
-| -udine   | -ude  |
-| | |
-
-<!--v-->
-
-| conservative | progressive |
-|-|-|
-| capite  | capo  |
-| corpore | corpo |
-| latere  | lato  |
-| tempore | tempo |
-| termine | termo |
-| | |
-
-<small>Kiam la latinlingva nominativo finiĝas per -*us* (aŭ -*ut*, en la kazo de *caput*), la formo kun **progresema prononco** finiĝas per -*o*.</small>
-
-<!--v-->
-
-| conservative/progressive |
-|-|
-| femina |
-| pagina |
-| |
-
-<small>La formoj de *femina* kaj *pagina* estas senŝanĝaj. Ilia latinlingva nominativo finiĝas per -*ina*.</small>
-
-<!--v-->
-
-| conservative/progressive |
-|-|
-| hospite |
-| limite |
-| |
-
-<small>La formoj de *hospite* kaj *limite* estas senŝanĝaj. Ilia latinlingva nominativo finiĝas per -*es*.</small>
 
 <!--v-->
 
