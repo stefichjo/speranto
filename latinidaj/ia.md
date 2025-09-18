@@ -1044,7 +1044,7 @@ Notes:
 | | | |
 | station | *[stasjon']* | *[stasjon']* |
 | | | |
-| scriber | *[skriber']* | *[skĥive']* |
+| scriber | *[skriber']* | *[skĥeve']* |
 | | | |
 
 <!--v-->
@@ -1970,16 +1970,6 @@ Notes:
 | | |
 
 <small>*io les ha surprendite* daŭre restas alternativo jam en **Tradicia Interlingvao**.</small>
-
-<!--v-->
-
-| | |
-|-|-|
-| *libera* | franc → franche |
-| *libere* | francamente → franchemente |
-| | |
-
-<small>Ankaŭ adjektivoj je *-c* finiĝas per -*e*.</small>
 
 <!--v-->
 
