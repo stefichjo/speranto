@@ -827,64 +827,50 @@ Notes:
 | sanguine | *[saŋŭi-ne]* | *[saŋgŭe]* |
 | | |
 
+<!--v-->
 
+| | progressive | progressivissime |
+|-|-:|-|
+| homine   | *[omi-ne]* | *[ome]*  |
+| imagine  | *[imaĵi-ne]* | *[imaĵe]* |
+| margine  | *[marĵi-ne]* | *[maĥĵe]* |
+| ordine   | *[ordi-ne]* | *[oĥde]* |
+| -udine   | *[udi-ne]* | *[ude]* |
+| | | |
 
-
-
-
+<!-- TODO -de = -d = -? -->
 
 <!--v-->
 
-| conservative | progressive |
-|-|-|
-| homine   | home  |
-| imagine  | image |
-| margine  | marge |
-| ordine   | orde  |
-| -udine   | -ude  |
-| | |
+#### -it-
 
 <!--v-->
 
-| conservative | progressive |
-|-|-|
-| capite  | capo  |
-| corpore | corpo |
-| latere  | lato  |
-| tempore | tempo |
-| termine | termo |
-| | |
-
-<small>Kiam la latinlingva nominativo finiĝas per -*us* (aŭ -*ut*, en la kazo de *caput*), la formo kun **progresema prononco** finiĝas per -*o*.</small>
+| | progressive | progressivissime |
+|-|-:|-|
+| capite | *[kapi-te]* | *[kapo]*  |
+| | | |
 
 <!--v-->
 
-| conservative/progressive |
-|-|
-| femina |
-| pagina |
-| |
-
-<small>La formoj de *femina* kaj *pagina* estas senŝanĝaj. Ilia latinlingva nominativo finiĝas per -*ina*.</small>
+#### -or-
 
 <!--v-->
 
-| conservative/progressive |
-|-|
-| hospite |
-| limite |
-| |
+| | progressive | progressivissime |
+|-|-:|-|
+| corpore | *[korpo-re]* | *[koĥpo]* |
+| latere | *[late-re]* | *[lado]* |
+| tempore | *[tempo-re]* | *[tempo]* |
+| termine | *[termi-ne]* | *[teĥo]* |
+| | | |
 
-<small>La formoj de *hospite* kaj *limite* estas senŝanĝaj. Ilia latinlingva nominativo finiĝas per -*es*.</small>
-
-
-
-
-
-
-
-
-
+<!-- TODO -or- -er- -in- ?? -->
+<!-- <small>Kiam la latinlingva nominativo finiĝas per -*us* (aŭ -*ut*, en la kazo de *caput*), la formo kun **progresema prononco** finiĝas per -*o*.</small> -->
+<!-- TODO femina pagina -->
+<!-- <small>La formoj de *femina* kaj *pagina* estas senŝanĝaj. Ilia latinlingva nominativo finiĝas per -*ina*.</small> -->
+<!-- TODO hospite limite -->
+<!-- <small>La formoj de *hospite* kaj *limite* estas senŝanĝaj. Ilia latinlingva nominativo finiĝas per -*es*.</small> -->
 
 <!--v-->
 
