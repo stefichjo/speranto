@@ -1178,6 +1178,7 @@ Notes:
 
 Notes:
 * *es amante*
+* *amáu*
 
 <!--v-->
 
@@ -1204,6 +1205,125 @@ Notes:
 |-:|-|
 | velle amar | __amaria__ |
 | | |
+
+<!--v-->
+
+#### Konjugacio
+
+<!--v-->
+
+| | | |
+|-|-|-|
+| ama! | vide! | senti! |
+| | | |
+| amate! | videte! | sentite! |
+| | | |
+
+<!--v-->
+
+| | | |
+|-|-|-|
+| amo    | vido    | sento    |
+| amas   | vides   | sentis   |
+| ama    | vide    | senti    |
+| amamos | videmos | sentimos |
+| amais  | videis  | sentiis  |
+| aman   | viden   | sentin   |
+| | | |
+
+<!--v-->
+
+| | | |
+|-|-|-|
+| amo    | vido    | sento    |
+| amas   | vides   | __sentes__   |
+| ama    | vide    | __sente__    |
+| amamos | videmos | sentimos |
+| amais  | videis  | sentiis  |
+| aman   | viden   | __senten__   |
+| | | |
+
+Notes:
+* *amáis*, *vidéis*, *sentíis*
+
+<!--v-->
+
+| | | |
+|-|-|-|
+| amavo    | videvo    | sentivo    |
+| amavas   | videvas   | sentivas   |
+| amava    | videva    | sentiva    |
+| amavamos | videvamos | sentivamos |
+| amavais  | videvais  | sentivais  |
+| amavan   | videvan   | sentivan   |
+| | | |
+
+<!--v-->
+
+| | | |
+|-|-|-|
+| amaro    | videro    | sentiro    |
+| amaras   | videras   | sentiras   |
+| amara    | videra    | sentira    |
+| amaremos | videremos | sentiremos |
+| amareis  | videreis  | sentireis  |
+| amaran   | videran   | sentiran   |
+| | | |
+
+Notes:
+* *amaró*
+
+<!--v-->
+
+| | | |
+|-|-|-|
+| amai    | videi    | sentii    |
+| amaste  | videste  | sentiste  |
+| amau    | videu    | sentiu    |
+| amamos  | videmos  | sentimos  |
+| amastes | videstes | sentistes |
+| amaron  | videron  | sentiron  |
+| | | |
+
+Notes:
+* *amâmos*
+<!-- TODO ankaŭ intis kaj intos -->
+
+<!--v-->
+
+| | | |
+|-|-|-|
+| ame    | vida    | senta    |
+| ames   | vidas   | sentas   |
+| ame    | vida    | senta    |
+| amemos | vidamos | sentamos |
+| ameis  | vidais  | sentais  |
+| amen   | vidan   | sentan   |
+| | | |
+
+<!--v-->
+
+| | | |
+|-|-|-|
+| amasse    | videsse    | sentisse    |
+| amasses   | videsses   | sentisses   |
+| amasse    | videsse    | sentisse    |
+| amassemos | videssemos | sentissemos |
+| amasseis  | videsseis  | sentisseis  |
+| amassen   | videssen   | sentissen   |
+| | | |
+
+<!--v-->
+
+| | | |
+|-|-|-|
+| amaria    | videria    | sentiria    |
+| amarias   | viderias   | sentirias   |
+| amaria    | videria    | sentiria    |
+| amariamos | videriamos | sentiriamos |
+| amariais  | videriais  | sentiriais  |
+| amarian   | viderian   | sentirian   |
+| | | |
 
 <!--s-->
 -----
@@ -1238,26 +1358,6 @@ Notes:
 <!--v-->
 
 ## Natureca Registro
-
-<!--v-->
-
-| | auxiliar | natural |
-|-|-|-|
-| *estas vidinta* | ha viste | ha visto |
-| | | |
-| *estas veninta* | ha venite | es venita |
-| | | |
-
-<small>Participoj finiĝas aŭ per -*a* por adjektivoj aŭ per -*o* per adverboj.</small>
-
-<!--v-->
-
-| natural con accento |
-|-|
-| venita *[venita]* ~ ***[venida]*** |
-| |
-
-<small>Kun **akĉento**, la verba finaĵo -*ta* respektive -*to* prononciĝas kun *[d]*.</small>
 
 <!--v-->
 
