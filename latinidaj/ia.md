@@ -1186,7 +1186,16 @@ Notes:
 |-:|-|
 | (que) ama | (que) ame |
 | | |
-| (que) ha amate | (que) amasse |
+| (que) ha amate | (que) amava |
+| | |
+
+<!--v-->
+
+| auxiliar | natural |
+|-:|-|
+| (que) ama | (que) ame |
+| | |
+| (que) ha amate | (que) amava <small>📖 (que) amasse</small> |
 | | |
 
 Notes:
@@ -1212,12 +1221,20 @@ Notes:
 
 <!--v-->
 
+##### Imperativo
+
+<!--v-->
+
 | | | |
 |-|-|-|
 | ama! | vide! | senti! |
 | | | |
 | amate! | videte! | sentite! |
 | | | |
+
+<!--v-->
+
+##### Prezenco
 
 <!--v-->
 
@@ -1248,6 +1265,10 @@ Notes:
 
 <!--v-->
 
+##### Preterito
+
+<!--v-->
+
 | | | |
 |-|-|-|
 | amavo    | videvo    | sentivo    |
@@ -1257,6 +1278,10 @@ Notes:
 | amavais  | videvais  | sentivais  |
 | amavan   | videvan   | sentivan   |
 | | | |
+
+<!--v-->
+
+##### Futuro
 
 <!--v-->
 
@@ -1275,6 +1300,10 @@ Notes:
 
 <!--v-->
 
+##### Perfekto de la Prezenco 📖
+
+<!--v-->
+
 | | | |
 |-|-|-|
 | amai    | videi    | sentii    |
@@ -1287,7 +1316,48 @@ Notes:
 
 Notes:
 * *amâmos*
-<!-- TODO ankaŭ intis kaj intos -->
+
+<!--v-->
+
+##### Perfekto de la Preterito 📖📖
+
+<!--v-->
+
+| | | |
+|-|-|-|
+| amara    | videra    | sentira    |
+| amaras   | videras   | sentiras   |
+| amara    | videra    | sentira    |
+| amaramos | videramos | sentiramos |
+| amarais  | viderais  | sentirais  |
+| amaran   | videran   | sentiran   |
+| | | |
+
+Notes:
+* *amâra*
+
+<!--v-->
+
+##### Perfekto de la Futuro 📖📖
+
+<!--v-->
+
+| | | |
+|-|-|-|
+| amare    | videre    | sentire    |
+| amares   | videres   | sentires   |
+| amare    | videre    | sentire    |
+| amaremos | videremos | sentiremos |
+| amareis  | videreis  | sentireis  |
+| amaren   | videren   | sentiren   |
+| | | |
+
+Notes:
+* *amâre*
+
+<!--v-->
+
+##### Konjunktivo de la Prezenco
 
 <!--v-->
 
@@ -1303,6 +1373,10 @@ Notes:
 
 <!--v-->
 
+##### Konjunktivo de la Preterito 📖
+
+<!--v-->
+
 | | | |
 |-|-|-|
 | amasse    | videsse    | sentisse    |
@@ -1312,6 +1386,11 @@ Notes:
 | amasseis  | videsseis  | sentisseis  |
 | amassen   | videssen   | sentissen   |
 | | | |
+
+<!--v-->
+
+##### Kondicionalo
+*(Konjunktivo de la Futuro)*
 
 <!--v-->
 
@@ -1326,6 +1405,12 @@ Notes:
 | | | |
 
 <!--s-->
+
+<!-- diakritaĵoj -->
+
+<!-- konservemaĵoj -->
+
+
 -----
 <!--s-->
 
