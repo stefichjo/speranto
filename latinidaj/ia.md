@@ -1116,6 +1116,210 @@ Notes:
 * liberar ≠ livrar
 
 <!--s-->
+
+# Registro
+
+<!--s-->
+
+## Helpeca kaj Natureca Registroj
+
+<!--v-->
+
+### Adjektivoj
+
+<!--v-->
+
+| auxiliar | natural |
+|-:|-|
+| alte | alta(s) |
+| | |
+| grande | grande(s) |
+| | |
+
+<!--v-->
+
+<small>En la natureca registro, uziĝas konservemecaj participoj. Kombine kun *haber* uziĝas la adverba formo je *-o*.</small>
+
+<!--v-->
+
+| auxiliar | natural |
+|-:|-|
+| ha facite | ha facto |
+| | |
+
+Notes:
+* *site*, *(es)sente*
+
+<!--v-->
+
+### Verboj
+
+<!--v-->
+
+| auxiliar | natural |
+|-:|-|
+| ama | ama ≠ sta amando |
+| | |
+| ha amate | amava ≠ ha amato |
+| | |
+| va amar | amara ≠ va amar |
+| | |
+
+<!--v-->
+
+| auxiliar | natural |
+|-:|-|
+| ama | ama ≠ sta amando |
+| | |
+| ha amate | amava ≠ ha amato <small>📖 amau</small> |
+| | |
+| va amar | amara ≠ va amar |
+| | |
+
+Notes:
+* *es amante*
+
+<!--v-->
+
+| auxiliar | natural |
+|-:|-|
+| (que) ama | (que) ame |
+| | |
+| (que) ha amate | (que) amasse |
+| | |
+
+Notes:
+* *si amasse*
+
+<!--v-->
+
+| auxiliar | natural |
+|-:|-|
+| velle amar | amarea |
+| | |
+
+<!--v-->
+
+| auxiliar | natural |
+|-:|-|
+| velle amar | __amaria__ |
+| | |
+
+<!--s-->
+-----
+<!--s-->
+
+# Registroj …
+
+<!--v-->
+
+| | auxiliar |
+|-|-|
+| *(ke) estas* | sea <small>🌎 es/sia</small> |
+| *(ke) estis* | fuesse |
+| | |
+| *(ke) havas* | habia |
+| *(ke) havis* | habesse |
+| | |
+
+<!--v-->
+
+| | auxiliar |
+|-|-|
+| *estintas* | fue |
+| | |
+| *havintas* | habeu |
+| | |
+
+Notes:
+* *havintis* — **habêra**
+* *havintos* ­— **habêre**
+
+<!--v-->
+
+## Natureca Registro
+
+<!--v-->
+
+| | auxiliar | natural |
+|-|-|-|
+| *estas vidinta* | ha viste | ha visto |
+| | | |
+| *estas veninta* | ha venite | es venita |
+| | | |
+
+<small>Participoj finiĝas aŭ per -*a* por adjektivoj aŭ per -*o* per adverboj.</small>
+
+<!--v-->
+
+| natural con accento |
+|-|
+| venita *[venita]* ~ ***[venida]*** |
+| |
+
+<small>Kun **akĉento**, la verba finaĵo -*ta* respektive -*to* prononciĝas kun *[d]*.</small>
+
+<!--v-->
+
+| | conservative | progressive |
+|-|-|-|
+| **auxiliar** | essere | esser |
+| **natural**  | | ser |
+| | | |
+
+<!--v-->
+
+| auxiliar | natural |
+|-|-|
+| unesimo | primo |
+| | |
+
+<!--v-->
+
+| auxiliar | natural |
+|-|-|
+| mi | ego ~ eo ~ io ~ jo ~ j' |
+| | |
+
+<!--v-->
+
+## Naturecega Registro
+
+<!--v-->
+
+| | conservative | progressive |
+|-|-|-|
+| *(mi) estas* | sum | so <small>🌎 es/so</small> |
+| *(ci) estas* | es  | eres |
+| *(li) estas* | est | es |
+| | | |
+| *(ni) estas*  | sumus | somos <small>🌎 es/somos</small> |
+| *(vi) estas*  | estis | sois  |
+| *(ili) estas* | sunt  | son <small>🌎 es/son</small> |
+| | | |
+
+<small>En la **naturecega registro**, verboj havas konjugacion.</small>
+
+Notes:
+* La naturecegaj konservemegaj formoj de *esser* estas: *essem*, *esses*, *esset*, *essemus*, *essetis*, *essent*. La respektiva helpeca formo estas *esse*.
+
+<!--v-->
+
+| | conservative | progressive |
+|-|-|-|
+| **auxiliar** | esseba | esseva |
+| **natural**  | erat | era |
+
+<small>La **konservemega prononco** de **natureca** *esseva* estas *essebat*.</small>
+
+<!--v-->
+
+| natural con accento |
+|-|
+| venite! *[venite]* ~ ***[venid']*** |
+| |
+
+<small>La imperativa formo finiĝas per -*te* en la multenombro. Kun **akĉento**, ĝi prononciĝas *[d]*.</small>
 -----
 <!--s-->
 
@@ -1207,218 +1411,6 @@ Notes:
 |-|-|
 | ir | vader |
 | | |
-
-<!--s-->
-
-# Registroj
-
-<!--v-->
-
-## Helpeca kaj Helpecega Registroj
-
-<small>**Tradicia Interlingvao** ne distingas inter la antas-tempo kaj la as-tempo, inter la intas-tempo kaj la is-tempo, kaj la ontas-tempo kaj la os-tempo. Ĝi havas nek formojn je -*ando* nek intis-formojn.</small>
-
-<!--v-->
-
-| | auxiliarissime | auxiliar |
-|-|-|-|
-| *amas* | ama | ama |
-| *amantas* | - | sta amando <small>🌎 es amante</small> |
-| | | |
-
-<!--v-->
-
-| | auxiliarissime | auxiliar |
-|-|-|-|
-| *amis* | ha amate | amava |
-| *amintas* | - | ha amate |
-| | | |
-
-<!--v-->
-
-| | auxiliarissime | auxiliar |
-|-|-|-|
-| *amos* | va amar | amara |
-| *amontas* | - | va amar |
-| | | |
-
-<!--v-->
-
-| | auxiliarissime | auxiliar |
-|-|-|-|
-| *amus* | velle amar | amaria <small>🌎 amarea</small> |
-| | | |
-
-<!--v-->
-
-| | auxiliarissime | auxiliar |
-|-|-|-|
-| *amintas* | - | amau |
-| | | |
-
-<!--v-->
-
-| auxiliarissime | auxiliar |
-|-|-|
-| vidite | viste |
-| | |
-
-Notes:
-* site, (es)sente
-
-<!--v-->
-
-### Konjunktivo
-
-<small>**Tradicia Interlingvao** ne havas konjunktivon.</small>
-
-<!--v-->
-
-| | auxiliar |
-|-|-|
-| *amas* | ama |
-| *(ke) amas* | ame |
-| | |
-
-<small>La ke-as-formo uziĝas ankaŭ por volitivoj: **ame** = *(ke) amu*.</small>
-
-<!--v-->
-
-| | auxiliar |
-|-|-|
-| *amis* | amava |
-| *(ke) amis* | amasse |
-| | |
-
-<small>La ke-is-formo uziĝas ankaŭ por la se-formo: **amasse** = *(se) amus*.</small>
-
-<!--v-->
-
-| | auxiliar |
-|-|-|
-| *(ke) estas* | sea <small>🌎 es/sia</small> |
-| *(ke) estis* | fuesse |
-| | |
-| *(ke) havas* | habia |
-| *(ke) havis* | habesse |
-| | |
-
-<!--v-->
-
-| | auxiliar |
-|-|-|
-| *estintas* | fue |
-| | |
-| *havintas* | habeu |
-| | |
-
-Notes:
-* *havintis* — **habêra**
-* *havintos* ­— **habêre**
-
-<!--v-->
-
-## Natureca Registro
-
-<!--v-->
-
-| | auxiliar | natural |
-|-|-|-|
-| *alta* | alte | alta |
-| | | |
-| *granda* | grande | grande |
-| | | |
-
-<small>Adjektivoj finiĝas aŭ per -*a* aŭ per -*e*.</small>
-
-<!--v-->
-
-| | auxiliar | natural |
-|-|-|-|
-| *estas vidinta* | ha viste | ha visto |
-| | | |
-| *estas veninta* | ha venite | es venita |
-| | | |
-
-<small>Participoj finiĝas aŭ per -*a* por adjektivoj aŭ per -*o* per adverboj.</small>
-
-<!--v-->
-
-| natural con accento |
-|-|
-| venita *[venita]* ~ ***[venida]*** |
-| |
-
-<small>Kun **akĉento**, la verba finaĵo -*ta* respektive -*to* prononciĝas kun *[d]*.</small>
-
-<!--v-->
-
-| | conservative | progressive |
-|-|-|-|
-| **auxiliar** | essere | esser |
-| **natural**  | | ser |
-| | | |
-
-<!--v-->
-
-| auxiliar | natural |
-|-|-|
-| unesimo | primo |
-| | |
-
-<!--v-->
-
-| auxiliar | natural |
-|-|-|
-| mi | ego ~ eo ~ io ~ jo ~ j' |
-| | |
-
-<!--v-->
-
-## Naturecega Registro
-
-<!--v-->
-
-| auxiliar | naturalissime |
-|-|-|
-| pontes grande | pontes grandes |
-| | |
-
-<!--v-->
-
-| | conservative | progressive |
-|-|-|-|
-| *(mi) estas* | sum | so <small>🌎 es/so</small> |
-| *(ci) estas* | es  | eres |
-| *(li) estas* | est | es |
-| | | |
-| *(ni) estas*  | sumus | somos <small>🌎 es/somos</small> |
-| *(vi) estas*  | estis | sois  |
-| *(ili) estas* | sunt  | son <small>🌎 es/son</small> |
-| | | |
-
-<small>En la **naturecega registro**, verboj havas konjugacion.</small>
-
-Notes:
-* La naturecegaj konservemegaj formoj de *esser* estas: *essem*, *esses*, *esset*, *essemus*, *essetis*, *essent*. La respektiva helpeca formo estas *esse*.
-
-<!--v-->
-
-| | conservative | progressive |
-|-|-|-|
-| **auxiliar** | esseba | esseva |
-| **natural**  | erat | era |
-
-<small>La **konservemega prononco** de **natureca** *esseva* estas *essebat*.</small>
-
-<!--v-->
-
-| natural con accento |
-|-|
-| venite! *[venite]* ~ ***[venid']*** |
-| |
-
-<small>La imperativa formo finiĝas per -*te* en la multenombro. Kun **akĉento**, ĝi prononciĝas *[d]*.</small>
 
 <!--s-->
 
