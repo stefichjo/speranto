@@ -3301,3 +3301,65 @@ Notes:
 
 <!--s-->
 
+# Skribo
+
+<!--v-->
+
+| etymologiche | diacritiche | phonetiche |
+|-|-|-|
+| musica | musĭca | muzi-ka |
+| | | |
+| guitarra | gŭitarra | gitara |
+| | | |
+| orthographia | orthographīa | ortografia |
+| | | |
+| China | Çhina | Shina |
+| | | |
+
+<!--v-->
+
+| etymologiche | diacritiche | phonetiche |
+|-|-|-|
+| diurnal | dĭůrnal | ĵornal' |
+| | | |
+
+<small>Per konvencio, ankaŭ la fonetika skribo povas havi diakritojn, kiel en **Esperanto**.</small>
+
+<!--v-->
+
+| etymologiche | diacritiche | phonetiche |
+|-|-|-|
+| balneo | bânio <small>bal̯nėo</small> | banjo |
+| | | |
+| mense | mêse <small>men̆se</small> | meze |
+| | | |
+| tragino | trâino <small>trağino</small> | trajno |
+| | | |
+
+<!--v-->
+
+| etymologiche | diacritiche | phonetiche |
+|-|-|-|
+| platea | plaça <small>placia = placėa <small>platĕa</small></small> | plasa <small>plasja</small> |
+| | | |
+
+<!--v-->
+
+| etymologiche | diacritiche | phonetiche |
+|-|-|-|
+| luce | luz = luç <small>lucĕ</small> | lus |
+| | | |
+| -itia | -essa = -ïça <small>-ïcia <small>-ïtĭa</small></small> | -esa <small>-esja</small> |
+| | | |
+
+<small>Per konvencio, la diakrita skribo povas esti skribita per alternativaj literoj, kiuj evitas diakritojn.</small>
+
+<!--v-->
+
+| conservativissime | conservative |
+|-|-|
+| ɪᴠsᴛᴏ | justo |
+| | |
+| ᴘʀᴇʜᴇɴᴅᴇʀᴇ | prendere |
+| | |
+
