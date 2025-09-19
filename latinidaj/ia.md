@@ -14,10 +14,6 @@ revealOptions:
 
 # Interlingua
 
-<small>Prononco</small>
-<small>Nivelo</small>
-<small>Ortografio</small>
-
 <!--s-->
 
 # Prononco
@@ -407,7 +403,7 @@ Notes:
 <!--v-->
 
 | | conservativissime | … | progressive |
-|-|:-:| | |
+|-|:-:|-|-|
 | facite | <small>🔊 *[faki-te]*</small> *[fakte]* | … | *[fasite]* |
 | | | | |
 
@@ -437,7 +433,7 @@ Notes:
 | | | |
 | mese | *[mense]* | *[mese]* |
 | | | |
-| prender | *[prehende-re]* |
+| prender | *[prehende-re]* | *[prende-re]* |
 | | | |
 
 <!--v-->
@@ -1104,8 +1100,10 @@ Notes:
 
 <small>Kelkaj origine progresemegaj (aŭ internacilingvaj) prononcoj uziĝas paralele kiel neologismoj.</small>
 
+<!--v-->
+
 | | progressive |
-|-|:-:|
+|-|:-|
 | causa | *[kaŭza]* <small>📨 *[koza]*</small> |
 | cosa | *[koza]* |
 | | |
@@ -1116,10 +1114,6 @@ Notes:
 Notes:
 * pausa ≠ posa
 * liberar ≠ livrar
-
-<!--v-->
-
-
 
 <!--s-->
 -----
