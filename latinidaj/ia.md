@@ -1300,6 +1300,55 @@ Notes:
 
 <!--v-->
 
+##### Konjunktivo de la Prezenco
+
+<!--v-->
+
+| | | |
+|-|-|-|
+| ame    | vida    | senta    |
+| ames   | vidas   | sentas   |
+| ame    | vida    | senta    |
+| amemos | vidamos | sentamos |
+| ameis  | vidais  | sentais  |
+| amen   | vidan   | sentan   |
+| | | |
+
+<!--v-->
+
+##### Konjunktivo de la Preterito 📖
+
+<!--v-->
+
+| | | |
+|-|-|-|
+| amasse    | videsse    | sentisse    |
+| amasses   | videsses   | sentisses   |
+| amasse    | videsse    | sentisse    |
+| amassemos | videssemos | sentissemos |
+| amasseis  | videsseis  | sentisseis  |
+| amassen   | videssen   | sentissen   |
+| | | |
+
+<!--v-->
+
+##### Kondicionalo
+*(Konjunktivo de la Futuro)*
+
+<!--v-->
+
+| | | |
+|-|-|-|
+| amaria    | videria    | sentiria    |
+| amarias   | viderias   | sentirias   |
+| amaria    | videria    | sentiria    |
+| amariamos | videriamos | sentiriamos |
+| amariais  | videriais  | sentiriais  |
+| amarian   | viderian   | sentirian   |
+| | | |
+
+<!--v-->
+
 ##### Perfekto de la Prezenco 📖
 
 <!--v-->
@@ -1354,55 +1403,6 @@ Notes:
 
 Notes:
 * *amâre*
-
-<!--v-->
-
-##### Konjunktivo de la Prezenco
-
-<!--v-->
-
-| | | |
-|-|-|-|
-| ame    | vida    | senta    |
-| ames   | vidas   | sentas   |
-| ame    | vida    | senta    |
-| amemos | vidamos | sentamos |
-| ameis  | vidais  | sentais  |
-| amen   | vidan   | sentan   |
-| | | |
-
-<!--v-->
-
-##### Konjunktivo de la Preterito 📖
-
-<!--v-->
-
-| | | |
-|-|-|-|
-| amasse    | videsse    | sentisse    |
-| amasses   | videsses   | sentisses   |
-| amasse    | videsse    | sentisse    |
-| amassemos | videssemos | sentissemos |
-| amasseis  | videsseis  | sentisseis  |
-| amassen   | videssen   | sentissen   |
-| | | |
-
-<!--v-->
-
-##### Kondicionalo
-*(Konjunktivo de la Futuro)*
-
-<!--v-->
-
-| | | |
-|-|-|-|
-| amaria    | videria    | sentiria    |
-| amarias   | viderias   | sentirias   |
-| amaria    | videria    | sentiria    |
-| amariamos | videriamos | sentiriamos |
-| amariais  | videriais  | sentiriais  |
-| amarian   | viderian   | sentirian   |
-| | | |
 
 <!--s-->
 
