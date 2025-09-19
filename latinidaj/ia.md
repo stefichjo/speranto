@@ -1252,16 +1252,73 @@ Notes:
 
 | | | |
 |-|-|-|
-| amo    | vido    | sento    |
-| amas   | vides   | __sentes__   |
-| ama    | vide    | __sente__    |
-| amamos | videmos | sentimos |
-| amais  | videis  | sentiis  |
-| aman   | viden   | __senten__   |
+| amo    | vido    | sento      |
+| amas   | vides   | sent**e**s |
+| ama    | vide    | sent**e**  |
+| amamos | videmos | sentimos   |
+| amais  | videis  | sentiis    |
+| aman   | viden   | sent**e**n |
 | | | |
 
-Notes:
-* *amáis*, *vidéis*, *sentíis*
+<!--v-->
+
+| | | |
+|-|-|-|
+| amo    | vido    | sento      |
+| amas   | vides   | sent**e**s |
+| ama    | vide    | sent**e**  |
+| amamos | videmos | sentimos   |
+| amáis  | vidéis  | sentiis    |
+| aman   | viden   | sent**e**n |
+| | | |
+
+<!--v-->
+
+| | | |
+|-|-|-|
+| amo    | vido    | sento    |
+| amas   | vides   | sentis   |
+| amat   | videt   | sentit   |
+| amamus | videmus | sentimus |
+| amatis | videtis | sentitis |
+| amant  | vident  | sentint  |
+| | | |
+
+<!--v-->
+
+| | | |
+|-|-|-|
+| amo    | vid**e**o | sent**i**o   |
+| amas   | vides     | sentis       |
+| amat   | videt     | sentit       |
+| amamus | videmus   | sentimus     |
+| amatis | videtis   | sentitis     |
+| amant  | vident    | senti**e**nt |
+| | | |
+
+<!--v-->
+
+| | | | |
+|-|-|-|-|
+| amo    | vid**e**o | lego    | sent**i**o    |
+| amas   | vides     | leges   | sentis        |
+| amat   | videt     | leget   | sentit        |
+| amamus | videmus   | legĕmus | sentimus      |
+| amatis | videtis   | legĕtis | sentitis      |
+| amant  | vident    | legent  | senti**e**nt  |
+| | | | |
+
+<!--v-->
+
+| | | | | |
+|-|-|-|-|-|
+| amo    | vid**e**o | lego    | sent**i**o    | cap**i**o   |
+| amas   | vides     | leges   | sentis        | capis       |
+| amat   | videt     | leget   | sentit        | capit       |
+| amamus | videmus   | legĕmus | sentimus      | capĭmus     |
+| amatis | videtis   | legĕtis | sentitis      | capĭtis     |
+| amant  | vident    | legent  | senti**e**nt  | capi**e**nt |
+| | | | | |
 
 <!--v-->
 
@@ -1281,6 +1338,32 @@ Notes:
 
 <!--v-->
 
+| | | |
+|-|-|-|
+| amavo    | videvo    | sentivo    |
+| amavas   | videvas   | sentivas   |
+| amava    | videva    | sentiva    |
+| amavamos | videvamos | sentivamos |
+| amaváis  | videváis  | sentiváis  |
+| amavan   | videvan   | sentivan   |
+| | | |
+
+<!--v-->
+
+| | | |
+|-|-|-|
+| amabam   | videbam   | sentibam   |
+| amabas   | videbas   | sentibas   |
+| amabat   | videbat   | sentibat   |
+| amabamus | videbamus | sentibamus |
+| amabatis | videbatis | sentibatis |
+| amabant  | videbant  | sentibant  |
+| | | |
+
+<!-- TODO legĕbam, legĕbas, legĕbat, legĕbant ? -->
+
+<!--v-->
+
 ##### Futuro
 
 <!--v-->
@@ -1295,8 +1378,44 @@ Notes:
 | amaran   | videran   | sentiran   |
 | | | |
 
+<!--v-->
+
+| | | |
+|-|-|-|
+| amaró    | videró    | sentiró    |
+| amarás   | viderás   | sentirás   |
+| amará    | viderá    | sentirá    |
+| amaremos | videremos | sentiremos |
+| amaréis  | videréis  | sentiréis  |
+| amarán   | viderán   | sentirán   |
+| | | |
+
+<!--v-->
+
+| | | |
+|-|-|-|
+| amarabo    | viderabo    | sentirabo    |
+| amarabes   | viderabes   | sentirabes   |
+| amarabet   | viderabet   | sentirabet   |
+| amarabemus | viderabemus | sentirabemus |
+| amarabetis | viderabetis | sentirabetis |
+| amarabent  | viderabent  | sentirabent  |
+| | | |
+
+<!--v-->
+
+| | | |
+|-|-|-|
+| amarab**e**o | viderab**e**o | sentirab**e**o |
+| amarabes     | viderabes     | sentirabes     |
+| amarabet     | viderabet     | sentirabet     |
+| amarabemus   | viderabemus   | sentirabemus   |
+| amarabetis   | viderabetis   | sentirabetis   |
+| amarabent    | viderabent    | sentirabent    |
+| | | |
+
 Notes:
-* *amaró*
+* La cirkumflekso en *amarêmos*, *viderêmos*, *sentirêmos* ne skribiĝas.
 
 <!--v-->
 
@@ -1316,6 +1435,42 @@ Notes:
 
 <!--v-->
 
+| | | |
+|-|-|-|
+| ame    | vida    | senta    |
+| ames   | vidas   | sentas   |
+| ame    | vida    | senta    |
+| amemos | vidamos | sentamos |
+| améis  | vidáis  | sentáis  |
+| amen   | vidan   | sentan   |
+| | | |
+
+<!--v-->
+
+| | | |
+|-|-|-|
+| amem   | vidam   | sentam   |
+| ames   | vidas   | sentas   |
+| amet   | vidat   | sentat   |
+| amemus | vidamus | sentamus |
+| ametis | vidatis | sentatis |
+| ament  | vidant  | sentant  |
+| | | |
+
+<!--v-->
+
+| | | |
+|-|-|-|
+| amem   | vid**e**am   | sent**i**am   |
+| ames   | vid**e**as   | sent**i**as   |
+| amet   | vid**e**at   | sent**i**at   |
+| amemus | vid**e**amus | sent**i**amus |
+| ametis | vid**e**atis | sent**i**atis |
+| ament  | vid**e**ant  | sent**i**ant  |
+| | | |
+
+<!--v-->
+
 ##### Konjunktivo de la Preterito 📖
 
 <!--v-->
@@ -1328,6 +1483,30 @@ Notes:
 | amassemos | videssemos | sentissemos |
 | amasseis  | videsseis  | sentisseis  |
 | amassen   | videssen   | sentissen   |
+| | | |
+
+<!--v-->
+
+| | | |
+|-|-|-|
+| amâsse    | vidêsse    | sentîsse    |
+| amâsses   | vidêsses   | sentîsses   |
+| amâsse    | vidêsse    | sentîsse    |
+| amássemos | vidéssemos | sentíssemos |
+| amâsseis  | vidêsseis  | sentîsseis  |
+| amâssen   | vidêssen   | sentîssen   |
+| | | |
+
+<!--v-->
+
+| | | |
+|-|-|-|
+| amavessem   | videvessem   | sentivessem   |
+| amavesses   | videvesses   | sentivesses   |
+| amavesset   | videvesset   | sentivesset   |
+| amavessemus | videvessemus | sentivessemus |
+| amavessetis | videvessetis | sentivessetis |
+| amavessent  | videvessen   | sentivessen   |
 | | | |
 
 <!--v-->
