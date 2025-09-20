@@ -1316,7 +1316,7 @@ Notes:
 
 | | | |
 |-|-|-|
-| amavo    | videvo    | sentivo    |
+| amava    | videva    | sentiva    |
 | amavas   | videvas   | sentivas   |
 | amava    | videva    | sentiva    |
 | amavamos | videvamos | sentivamos |
@@ -1328,7 +1328,7 @@ Notes:
 
 | | | |
 |-|-|-|
-| amavo    | videvo    | sentivo    |
+| amava    | videva    | sentiva    |
 | amavas   | videvas   | sentivas   |
 | amava    | videva    | sentiva    |
 | amavamos | videvamos | sentivamos |
@@ -1669,6 +1669,59 @@ Notes:
 | amaverĕtis | videverĕtis | sentiverĕtis |
 | amavĕrent  | videvĕrant  | sentivĕrant  |
 | | | |
+
+<!-- TODO vīd? sens? -->
+
+<!--v-->
+
+### Malregulaj Verboj
+*(esser, haber, ir)*
+<!-- TODO star? -->
+
+<!--v-->
+
+| | | |
+|-|-|-|
+| so    | ho    | vo    |
+| eres  | has   | vas   |
+| es    | ha    | va    |
+| somos | hemos | vamos |
+| sois  | heis  | vais  |
+| son   | han   | van   |
+| | | |
+
+<!--v-->
+
+| | | |
+|-|-|-|
+| era    | había    | ía    |
+| eras   | habías   | ías   |
+| era    | había    | ía    |
+| éramos | habíamos | íamos |
+| erais  | habíeis  | íais  |
+| eran   | habían   | ían   |
+| | | |
+
+<!-- TODO habia/habeva? -->
+<!-- IT aveva -->
+<!-- PT hava -->
+<!-- ES había -->
+
+<!--v-->
+
+| | | |
+|-|-|-|
+| seró    | haberó    | iró    |
+| serás   | haberás   | irás   |
+| será    | haberá    | irá    |
+| serêmos | haberêmos | irêmos |
+| seréis  | haberéis  | iréis  |
+| serán   | haberán   | irán   |
+| | | |
+
+
+<!--v-->
+
 
 <!--s-->
 -----
