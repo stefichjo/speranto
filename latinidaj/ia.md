@@ -1506,7 +1506,7 @@ Notes:
 | amavesset   | videvesset   | sentivesset   |
 | amavessemus | videvessemus | sentivessemus |
 | amavessetis | videvessetis | sentivessetis |
-| amavessent  | videvessen   | sentivessen   |
+| amavessent  | videvessent  | sentivessent  |
 | | | |
 
 <!--v-->
@@ -1524,6 +1524,30 @@ Notes:
 | amariamos | videriamos | sentiriamos |
 | amariais  | videriais  | sentiriais  |
 | amarian   | viderian   | sentirian   |
+| | | |
+
+<!--v-->
+
+| | | |
+|-|-|-|
+| amaría    | videría    | sentiría    |
+| amarías   | viderías   | sentirías   |
+| amaría    | videría    | sentiría    |
+| amaríamos | videríamos | sentiríamos |
+| amaríais  | videríais  | sentiríais  |
+| amarían   | viderían   | sentirían   |
+| | | |
+
+<!--v-->
+
+| | | |
+|-|-|-|
+| amaribam   | videribam   | sentiribam   |
+| amaribas   | videribas   | sentiribas   |
+| amaribat   | videribat   | sentiribat   |
+| amaribamus | videribamus | sentiribamus |
+| amaribatis | videribatis | sentiribatis |
+| amaribant  | videribant  | sentiribant  |
 | | | |
 
 <!--v-->
