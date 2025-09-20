@@ -1268,7 +1268,7 @@ Notes:
 | amas   | vides   | sent**e**s |
 | ama    | vide    | sent**e**  |
 | amamos | videmos | sentimos   |
-| amáis  | vidéis  | sentiis    |
+| amáis  | vidéis  | sentíis    |
 | aman   | viden   | sent**e**n |
 | | | |
 
@@ -1295,18 +1295,6 @@ Notes:
 | amatis | videtis   | sentitis     |
 | amant  | vident    | senti**e**nt |
 | | | |
-
-<!--v-->
-
-| | | | |
-|-|-|-|-|
-| amo    | vid**e**o | lego    | sent**i**o    |
-| amas   | vides     | leges   | sentis        |
-| amat   | videt     | leget   | sentit        |
-| amamus | videmus   | legĕmus | sentimus      |
-| amatis | videtis   | legĕtis | sentitis      |
-| amant  | vident    | legent  | senti**e**nt  |
-| | | | |
 
 <!--v-->
 
@@ -1471,6 +1459,18 @@ Notes:
 
 <!--v-->
 
+| | | | | |
+|-|-|-|-|-|
+| amem   | vid**e**am   | legam   | sent**i**am   | cap**i**am   |
+| ames   | vid**e**as   | legas   | sent**i**as   | cap**i**as   |
+| amet   | vid**e**at   | legat   | sent**i**at   | cap**i**at   |
+| amemus | vid**e**amus | legamus | sent**i**amus | cap**i**amus |
+| ametis | vid**e**atis | legatis | sent**i**atis | cap**i**atis |
+| ament  | vid**e**ant  | legant  | sent**i**ant  | cap**i**ant  |
+| | | | | |
+
+<!--v-->
+
 ##### Konjunktivo de la Preterito 📖
 
 <!--v-->
@@ -1566,8 +1566,29 @@ Notes:
 | amaron  | videron  | sentiron  |
 | | | |
 
-Notes:
-* *amâmos*
+<!--v-->
+
+| | | |
+|-|-|-|
+| amái    | vidéi    | sentíi    |
+| amâste  | vidêste  | sentîste  |
+| amáu    | vidéu    | sentíu    |
+| amâmos  | vidêmos  | sentîmos  |
+| amâstes | vidêstes | sentîstes |
+| amâron  | vidêron  | sentîron  |
+| | | |
+
+<!--v-->
+
+| | | |
+|-|-|-|
+| amavei    | videvei    | sentivei    |
+| amaveste  | videveste  | sentiveste  |
+| amavet    | videvet    | sentivet    |
+| amavĕmus  | videvĕmus  | sentivĕmus  |
+| amavestes | videvestes | sentivestes |
+| amaveron  | videveron  | sentiveron  |
+| | | |
 
 <!--v-->
 
@@ -1585,8 +1606,29 @@ Notes:
 | amaran   | videran   | sentiran   |
 | | | |
 
-Notes:
-* *amâra*
+<!--v-->
+
+| | | |
+|-|-|-|
+| amâra    | vidêra    | sentîra    |
+| amâras   | vidêras   | sentîras   |
+| amâra    | vidêra    | sentîra    |
+| amáramos | vidéramos | sentíramos |
+| amârais  | vidêrais  | sentîrais  |
+| amâran   | vidêran   | sentîran   |
+| | | |
+
+<!--v-->
+
+| | | |
+|-|-|-|
+| amavĕram   | videvĕram   | sentivĕram   |
+| amavĕras   | videvĕras   | sentivĕras   |
+| amavĕrat   | videvĕrat   | sentivĕrat   |
+| amaveramus | videveramus | sentiveramus |
+| amaveratis | videveratis | sentiveratis |
+| amavĕrant  | videvĕrant  | sentivĕrant  |
+| | | |
 
 <!--v-->
 
@@ -1604,16 +1646,31 @@ Notes:
 | amaren   | videren   | sentiren   |
 | | | |
 
-Notes:
-* *amâre*
+<!--v-->
+
+| | | |
+|-|-|-|
+| amâre    | vidêre    | sentîre    |
+| amâres   | vidêres   | sentîres   |
+| amâre    | vidêre    | sentîre    |
+| amáremos | vidéremos | sentíremos |
+| amâreis  | vidêreis  | sentîreis  |
+| amâren   | vidêren   | sentîren   |
+| | | |
+
+<!--v-->
+
+| | | |
+|-|-|-|
+| amavĕrem   | videvĕram   | sentivĕram   |
+| amavĕres   | videvĕras   | sentivĕras   |
+| amavĕret   | videvĕrat   | sentivĕrat   |
+| amaverĕmus | videverĕmus | sentiverĕmus |
+| amaverĕtis | videverĕtis | sentiverĕtis |
+| amavĕrent  | videvĕrant  | sentivĕrant  |
+| | | |
 
 <!--s-->
-
-<!-- diakritaĵoj -->
-
-<!-- konservemaĵoj -->
-
-
 -----
 <!--s-->
 
