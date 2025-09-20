@@ -131,9 +131,9 @@ Notes:
 
 | | conservative | progressive |
 |-|-:|-|
-| gente | *[gente]* | <small>🔊 *[gente]*</small> *[ĵente]* |
+| gente | *[gente]* | <small>🐌 *[gente]*</small> *[ĵente]* |
 | | | |
-| justo | *[justo]* | <small>🔊 *[justo]*</small> __*[ĵusto]*__ |
+| justo | *[justo]* | <small>🐌 *[justo]*</small> __*[ĵusto]*__ |
 | | | |
 
 <!--v-->
@@ -149,9 +149,9 @@ Notes:
 
 | | conservative | progressive |
 |-|-:|-|
-| centro | <small>🔊 *[kentro]*</small> *[centro]* | <small>🔊 *[ĉentro]*</small> *[sentro]* |
+| centro | <small>🐌 *[kentro]*</small> *[centro]* | <small>🐌 *[ĉentro]*</small> *[sentro]* |
 | | | |
-| spatio | <small>🔊 *[spati-o]*</small> *[spaci-o]* | <small>🔊 *[spaθjo]*</small> *[spasjo]* |
+| spatio | <small>🐌 *[spati-o]*</small> *[spaci-o]* | <small>🐌 *[spaθjo]*</small> *[spasjo]* |
 | | | |
 
 Notes:
@@ -276,11 +276,11 @@ Notes:
 
 | | conservative | progressive |
 |-|-:|-|
-| sol | <small>🔊 *[sole]*</small> *[sol]* | *[sol]* |
+| sol | <small>🐌 *[sole]*</small> *[sol]* | *[sol]* |
 | | | |
-| mar | <small>🔊 *[mare]*</small> *[mar]* | *[mar]* |
+| mar | <small>🐌 *[mare]*</small> *[mar]* | *[mar]* |
 | | | |
-| pan | <small>🔊 *[pane]*</small> *[pan]* | *[pan]* |
+| pan | <small>🐌 *[pane]*</small> *[pan]* | *[pan]* |
 | | | |
 
 <!--v-->
@@ -294,7 +294,7 @@ Notes:
 
 | | conservative | progressive |
 |-|-:|-|
-| vider | <small>🔊 *[videre]*</small> *[vider']* | *[vider']* |
+| vider | <small>🐌 *[videre]*</small> *[vider']* | *[vider']* |
 | | | |
 
 <!--v-->
@@ -365,7 +365,7 @@ Notes:
 
 | | conservativissime |
 |-|:-:|
-| porco | <small>🔊 *[pori-ko]*</small> *[porko]* |
+| porco | <small>🐌 *[pori-ko]*</small> *[porko]* |
 | | |
 
 <!--v-->
@@ -397,14 +397,14 @@ Notes:
 
 | | conservativissime |
 |-|:-:|
-| facite | <small>🔊 *[faki-te]*</small> *[fakte]* |
+| facite | <small>🐌 *[faki-te]*</small> *[fakte]* |
 | | |
 
 <!--v-->
 
 | | conservativissime | … | progressive |
 |-|:-:|-|-|
-| facite | <small>🔊 *[faki-te]*</small> *[fakte]* | … | *[fasite]* |
+| facite | <small>🐌 *[faki-te]*</small> *[fakte]* | … | *[fasite]* |
 | | | | |
 
 Notes:
@@ -488,18 +488,18 @@ Notes:
 
 | | conservative | progressivissime |
 |-|-:|-|
-| placia | <small>🔊 *[plate-a]*</small> *[placi-a]* | *[plasa]* |
+| placia | <small>🐌 *[plate-a]*</small> *[placi-a]* | *[plasa]* |
 | | | |
-| spatio | <small>🔊 *[spati-o]*</small> *[spaci-o]* | *[spasjo]* |
+| spatio | <small>🐌 *[spati-o]*</small> *[spaci-o]* | *[spasjo]* |
 | | | |
 
 <!--v-->
 
 | | conservative | progressivissime |
 |-|-:|-|
-| placia | <small>🔊 *[plate-a]*</small> *[placi-a]* | <small>🔊 *[plasa]*</small> *[plasa]* |
+| placia | <small>🐌 *[plate-a]*</small> *[placi-a]* | <small>🐌 *[plasa]*</small> *[plasa]* |
 | | | |
-| spatio | <small>🔊 *[spati-o]*</small> *[spaci-o]* | <small>🔊 *[spasjo]*</small> *[spasjo]* |
+| spatio | <small>🐌 *[spati-o]*</small> *[spaci-o]* | <small>🐌 *[spasjo]*</small> *[spasjo]* |
 | | | |
 
 <!--v-->
@@ -536,7 +536,7 @@ Notes:
 
 | | progressive | progressivissime |
 |-|-:|-|
-| mar | *[mar]* | <small>🔊 *[mar]*</small> *[maĥ]* |
+| mar | *[mar]* | <small>🐌 *[mar]*</small> *[maĥ]* |
 | | | |
 
 <!--v-->
@@ -554,7 +554,7 @@ Notes:
 
 | | progressive | progressivissime |
 |-|-:|-|
-| amar | *[amar']* | <small>🔊 *[amar']*</small> *[ama']* |
+| amar | *[amar']* | <small>🐌 *[amar']*</small> *[ama']* |
 | | | |
 
 <!--v-->
@@ -580,13 +580,13 @@ Notes:
 
 | | progressive | progressivissime |
 |-|-:|:-|
-| lupo | *[lupo]* | <small>🔊 *[lubo]*</small> *[lubo]* |
+| lupo | *[lupo]* | <small>🐌 *[lubo]*</small> *[lubo]* |
 | | | |
-| cata | *[kata]* | <small>🔊 *[kada]*</small> *[kada]* |
+| cata | *[kata]* | <small>🐌 *[kada]*</small> *[kada]* |
 | | | |
-| laco | *[lako]* | <small>🔊 *[lago]*</small> *[lago]* |
+| laco | *[lako]* | <small>🐌 *[lago]*</small> *[lago]* |
 | | | |
-| proba | *[proba]* | <small>🔊 *[prova]*</small> *[pĥova]* |
+| proba | *[proba]* | <small>🐌 *[prova]*</small> *[pĥova]* |
 | | | |
 
 Notes:
@@ -607,7 +607,7 @@ Notes:
 
 | | progressive | progressivissime |
 |-|-:|:-|
-| labor | *[labor']* | <small>🔊 *[lavor']*</small> *[lavoĥ']* |
+| labor | *[labor']* | <small>🐌 *[lavor']*</small> *[lavoĥ']* |
 | | | |
 
 <!-- TODO bibita, habitar -->
@@ -696,14 +696,14 @@ Notes:
 
 | | progressive | progressivissime |
 |-|-|-|
-| carro | *[karo]* | <small>🔊 *[karo]*</small> *[ĉaĥo]* |
+| carro | *[karo]* | <small>🐌 *[karo]*</small> *[ĉaĥo]* |
 | | | |
 
 <!--v-->
 
 | | progressive | progressivissime |
 |-|-|-|
-| carro | *[karo]* | <small>🔊 *[karo]*</small> *[ĉaĥo]* <small>📨 *[ŝaĥ]*</small> |
+| carro | *[karo]* | <small>🐌 *[karo]*</small> *[ĉaĥo]* <small>📨 *[ŝaĥ]*</small> |
 | | | |
 
 <!--v-->
@@ -729,9 +729,9 @@ Notes:
 
 | | progressive | progressivissime |
 |-|-:|-|
-| sin | *[sin]* | <small>🔊 *[sin]*</small> *[sen]* |
+| sin | *[sin]* | <small>🐌 *[sin]*</small> *[sen]* |
 | | | |
-| mundo | *[mundo]* | <small>🔊 *[mundo]*</small> *[mondo]* |
+| mundo | *[mundo]* | <small>🐌 *[mundo]*</small> *[mondo]* |
 | | | |
 
 <!--v-->
@@ -751,9 +751,9 @@ Notes:
 
 | | progressive | progressivissime |
 |-|-:|-|
-| entrar | *[intrar']* | <small>🔊 *[entrar']*</small> *[entĥa']* |
+| entrar | *[intrar']* | <small>🐌 *[entrar']*</small> *[entĥa']* |
 | | | |
-| unda | *[unda]* | <small>🔊 *[onda]*</small> *[onda]* |
+| unda | *[unda]* | <small>🐌 *[onda]*</small> *[onda]* |
 | | | |
 
 <!--v-->
@@ -777,22 +777,22 @@ Notes:
 
 | | progressive | progressivissime |
 |-|-:|-|
-| traino | *[trajno]* | <small>🔊 *[treno]*</small> *[tĥeno]* |
+| traino | *[trajno]* | <small>🐌 *[treno]*</small> *[tĥeno]* |
 | | | |
-| aere | *[ae-re]* | <small>🔊 *[ajre]*</small> *[ajĥe]* |
+| aere | *[ae-re]* | <small>🐌 *[ajre]*</small> *[ajĥe]* |
 | | | |
-| cauda | *[kaŭda]* | <small>🔊 *[koda]*</small> *[koda]* |
+| cauda | *[kaŭda]* | <small>🐌 *[koda]*</small> *[koda]* |
 | | | |
 
 <!--v-->
 
 | | progressive | progressivissime |
 |-|-:|-|
-| traino | *[trajno]* | <small>🔊 *[treno]*</small> *[tĥeno]* |
+| traino | *[trajno]* | <small>🐌 *[treno]*</small> *[tĥeno]* |
 | | | |
-| aere | *[ae-re]* | <small>🔊 *[ajre]*</small> *[ajĥe]* <small>📨 *[eĥ]*</small> |
+| aere | *[ae-re]* | <small>🐌 *[ajre]*</small> *[ajĥe]* <small>📨 *[eĥ]*</small> |
 | | | |
-| cauda | *[kaŭda]* | <small>🔊 *[koda]*</small> *[koda]* |
+| cauda | *[kaŭda]* | <small>🐌 *[koda]*</small> *[koda]* |
 | | | |
 
 Notes:
@@ -885,7 +885,7 @@ Notes:
 
 | | progressive | progressivissime |
 |-|-:|:-|
-| dextere | *[destere]* | <small>🔊 *[destre]*</small> *[destre]* |
+| dextere | *[destere]* | <small>🐌 *[destre]*</small> *[destre]* |
 | | | |
 
 <!--v-->
@@ -905,9 +905,9 @@ Notes:
 
 | | progressive | progressivissime |
 |-|-:|:-|
-| camera | *[kame-ra]* | <small>🔊 *[kamra]*</small> *[ĉambĥa]* |
+| camera | *[kame-ra]* | <small>🐌 *[kamra]*</small> *[ĉambĥa]* |
 | | |
-| tenere | *[tene-re]* | <small>🔊 *[tenre]*</small> *[tendĥe]* |
+| tenere | *[tene-re]* | <small>🐌 *[tenre]*</small> *[tendĥe]* |
 | | | |
 
 Notes:
