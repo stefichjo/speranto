@@ -379,7 +379,7 @@ Notes:
 
 | | conservativissime |
 |-|:-:|
-| calde | *[kali-de]* <small>📨 *[kalde]*</small> |
+| calde | *[kali-de]* <small>🏃 *[kalde]*</small> |
 | | |
 
 <!--v-->
@@ -703,7 +703,7 @@ Notes:
 
 | | progressive | progressivissime |
 |-|-|-|
-| carro | *[karo]* | <small>🐌 *[karo]*</small> *[ĉaĥo]* <small>📨 *[ŝaĥ]*</small> |
+| carro | *[karo]* | <small>🐌 *[karo]*</small> *[ĉaĥo]* <small>🏃 *[ŝaĥ]*</small> |
 | | | |
 
 <!--v-->
@@ -790,7 +790,7 @@ Notes:
 |-|-:|-|
 | traino | *[trajno]* | <small>🐌 *[treno]*</small> *[tĥeno]* |
 | | | |
-| aere | *[ae-re]* | <small>🐌 *[ajre]*</small> *[ajĥe]* <small>📨 *[eĥ]*</small> |
+| aere | *[ae-re]* | <small>🐌 *[ajre]*</small> *[ajĥe]* <small>🏃 *[eĥ]*</small> |
 | | | |
 | cauda | *[kaŭda]* | <small>🐌 *[koda]*</small> *[koda]* |
 | | | |
@@ -911,7 +911,7 @@ Notes:
 | | | |
 
 Notes:
-* 📨 *[ŝãbĥ]*, 📨 *[tẽdr]*
+* 🏃 *[ŝãbĥ]*, 🏃 *[tẽdr]*
 
 <!--s-->
 
@@ -936,7 +936,7 @@ Notes:
 
 | | progressive | progressivissime |
 |-|-:|-|
-| gratia | *[grasja]* | *[gĥasja]* <small>📨 *[gĥas]*</small> |
+| gratia | *[grasja]* | *[gĥasja]* <small>🏃 *[gĥas]*</small> |
 | | | |
 
 Notes:
@@ -959,9 +959,9 @@ Notes:
 
 | | progressive | progressivissime |
 |-|-:|-|
-| grado | *[grado]* | *[gĥado]* <small>📨 *[gĥa]*</small> |
+| grado | *[grado]* | *[gĥado]* <small>🏃 *[gĥa]*</small> |
 | | | |
-| lege | *[leĵe]* | *[leĵe]* <small>📨 *[lej]*</small> |
+| lege | *[leĵe]* | *[leĵe]* <small>🏃 *[lej]*</small> |
 | | | |
 
 <!--v-->
@@ -983,9 +983,9 @@ Notes:
 
 | | progressive | progressivissime |
 |-|-:|-|
-| heri | *[eri]* | *[eĥi]* <small>📨 *[jeĥ]*</small> |
+| heri | *[eri]* | *[eĥi]* <small>🏃 *[jeĥ]*</small> |
 | | | |
-| ovo | *[ovo]* | *[ovo]* <small>📨 *[ŭov]*</small> |
+| ovo | *[ovo]* | *[ovo]* <small>🏃 *[ŭov]*</small> |
 | | | |
 
 <!--v-->
@@ -1005,7 +1005,7 @@ Notes:
 
 | | progressive | progressivissime |
 |-|-:|-|
-| alte | *[alte]* | *[alte]* <small>📨 *[aŭt]*</small> |
+| alte | *[alte]* | *[alte]* <small>🏃 *[aŭt]*</small> |
 | | | |
 
 <!--v-->
@@ -1023,7 +1023,7 @@ Notes:
 
 | | progressive | progressivissime |
 |-|-:|-|
-| mano | *[mano]* | *[mano]* <small>📨 *[mã]*</small> |
+| mano | *[mano]* | *[mano]* <small>🏃 *[mã]*</small> |
 | | | |
 
 <!--v-->
@@ -1047,11 +1047,11 @@ Notes:
 
 | | progressive | progressivissime |
 |-|-:|-|
-| sperantia | *[speransja]* | *[speĥansja]* <small>📨 *[espeĥãs]*</small> |
+| sperantia | *[speransja]* | *[speĥansja]* <small>🏃 *[espeĥãs]*</small> |
 | | | |
-| station | *[stasjon']* | *[stasjon']* <small>📨 *[estasjõ']*</small> |
+| station | *[stasjon']* | *[stasjon']* <small>🏃 *[estasjõ']*</small> |
 | | | |
-| scriber | *[skriber']* | *[skĥeve']* <small>📨 *[eskĥeve']*</small> |
+| scriber | *[skriber']* | *[skĥeve']* <small>🏃 *[eskĥeve']*</small> |
 | | | |
 
 <!--v-->
@@ -1071,9 +1071,9 @@ Notes:
 
 | | progressivissime |
 |-|-|
-| hostello | *[ostelo]* <small>📨 *[oteŭ']*</small> |
+| hostello | *[ostelo]* <small>🏃 *[oteŭ']*</small> |
 | | |
-| costa | *[kosta]* <small>📨 *[kot]*</small> |
+| costa | *[kosta]* <small>🏃 *[kot]*</small> |
 | | |
 
 <!--v-->
@@ -1091,7 +1091,7 @@ Notes:
 
 | | progressive | progressivissime |
 |-|-:|-|
-| filio | *[filjo]* | *[fiĵo]* <small>📨 *[iĵ]*</small> |
+| filio | *[filjo]* | *[fiĵo]* <small>🏃 *[iĵ]*</small> |
 | | | |
 
 <!--v-->
@@ -1104,10 +1104,10 @@ Notes:
 
 | | progressive |
 |-|:-|
-| causa | *[kaŭza]* <small>📨 *[koza]*</small> |
+| causa | *[kaŭza]* <small>🏃 *[koza]*</small> |
 | cosa | *[koza]* |
 | | |
-| opera | *[ope-ra]* <small>📨 *[obra]*</small> |
+| opera | *[ope-ra]* <small>🏃 *[obra]*</small> |
 | obra | *[obra]* |
 | | |
 
