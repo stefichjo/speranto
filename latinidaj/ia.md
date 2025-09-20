@@ -316,7 +316,14 @@ Notes:
 
 | | conservative | progressive |
 |-|-:|-|
-| vivere | *[vive-re]* | *[viver']* |
+| esser | *[esse-re]* | *[eser']* |
+| | | |
+
+<!--v-->
+
+| | conservative | progressive |
+|-|-:|-|
+| esser | *[esse-re]* | *[eser']* <small>🏃 *[ser]*</small> |
 | | | |
 
 <!--v-->
@@ -1158,6 +1165,13 @@ Notes:
 
 | auxiliar | natural |
 |-:|-|
+| esser | sêr |
+| | |
+
+<!--v-->
+
+| auxiliar | natural |
+|-:|-|
 | ama | ama ≠ sta amando |
 | | |
 | ha amate | amava ≠ ha amato |
@@ -1221,6 +1235,12 @@ Notes:
 
 <!--v-->
 
+##### Infinitivo
+
+<!-- TODO -->
+
+<!--v-->
+
 ##### Imperativo
 
 <!--v-->
@@ -1233,7 +1253,7 @@ Notes:
 | | | |
 
 <!--v-->
-
+<!-- TODO diakritaĵoj nur -->
 ##### Prezenco
 
 <!--v-->
@@ -1244,20 +1264,8 @@ Notes:
 | amas   | vides   | sentis   |
 | ama    | vide    | senti    |
 | amamos | videmos | sentimos |
-| amais  | videis  | sentiis  |
+| amáis  | vidéis  | sentíis  |
 | aman   | viden   | sentin   |
-| | | |
-
-<!--v-->
-
-| | | |
-|-|-|-|
-| amo    | vido    | sento      |
-| amas   | vides   | sent**e**s |
-| ama    | vide    | sent**e**  |
-| amamos | videmos | sentimos   |
-| amais  | videis  | sentiis    |
-| aman   | viden   | sent**e**n |
 | | | |
 
 <!--v-->
@@ -1320,18 +1328,6 @@ Notes:
 | amavas   | videvas   | sentivas   |
 | amava    | videva    | sentiva    |
 | amavamos | videvamos | sentivamos |
-| amavais  | videvais  | sentivais  |
-| amavan   | videvan   | sentivan   |
-| | | |
-
-<!--v-->
-
-| | | |
-|-|-|-|
-| amava    | videva    | sentiva    |
-| amavas   | videvas   | sentivas   |
-| amava    | videva    | sentiva    |
-| amavamos | videvamos | sentivamos |
 | amaváis  | videváis  | sentiváis  |
 | amavan   | videvan   | sentivan   |
 | | | |
@@ -1358,36 +1354,12 @@ Notes:
 
 | | | |
 |-|-|-|
-| amaro    | videro    | sentiro    |
-| amaras   | videras   | sentiras   |
-| amara    | videra    | sentira    |
-| amaremos | videremos | sentiremos |
-| amareis  | videreis  | sentireis  |
-| amaran   | videran   | sentiran   |
-| | | |
-
-<!--v-->
-
-| | | |
-|-|-|-|
 | amaró    | videró    | sentiró    |
 | amarás   | viderás   | sentirás   |
 | amará    | viderá    | sentirá    |
-| amaremos | videremos | sentiremos |
+| amarêmos | viderêmos | sentirêmos |
 | amaréis  | videréis  | sentiréis  |
 | amarán   | viderán   | sentirán   |
-| | | |
-
-<!--v-->
-
-| | | |
-|-|-|-|
-| amarabo    | viderabo    | sentirabo    |
-| amarabes   | viderabes   | sentirabes   |
-| amarabet   | viderabet   | sentirabet   |
-| amarabemus | viderabemus | sentirabemus |
-| amarabetis | viderabetis | sentirabetis |
-| amarabent  | viderabent  | sentirabent  |
 | | | |
 
 <!--v-->
@@ -1402,9 +1374,6 @@ Notes:
 | amarabent    | viderabent    | sentirabent    |
 | | | |
 
-Notes:
-* La cirkumflekso en *amarêmos*, *viderêmos*, *sentirêmos* ne skribiĝas.
-
 <!--v-->
 
 ##### Konjunktivo de la Prezenco
@@ -1417,44 +1386,8 @@ Notes:
 | ames   | vidas   | sentas   |
 | ame    | vida    | senta    |
 | amemos | vidamos | sentamos |
-| ameis  | vidais  | sentais  |
-| amen   | vidan   | sentan   |
-| | | |
-
-<!--v-->
-
-| | | |
-|-|-|-|
-| ame    | vida    | senta    |
-| ames   | vidas   | sentas   |
-| ame    | vida    | senta    |
-| amemos | vidamos | sentamos |
 | améis  | vidáis  | sentáis  |
 | amen   | vidan   | sentan   |
-| | | |
-
-<!--v-->
-
-| | | |
-|-|-|-|
-| amem   | vidam   | sentam   |
-| ames   | vidas   | sentas   |
-| amet   | vidat   | sentat   |
-| amemus | vidamus | sentamus |
-| ametis | vidatis | sentatis |
-| ament  | vidant  | sentant  |
-| | | |
-
-<!--v-->
-
-| | | |
-|-|-|-|
-| amem   | vid**e**am   | sent**i**am   |
-| ames   | vid**e**as   | sent**i**as   |
-| amet   | vid**e**at   | sent**i**at   |
-| amemus | vid**e**amus | sent**i**amus |
-| ametis | vid**e**atis | sent**i**atis |
-| ament  | vid**e**ant  | sent**i**ant  |
 | | | |
 
 <!--v-->
@@ -1472,18 +1405,6 @@ Notes:
 <!--v-->
 
 ##### Konjunktivo de la Preterito 📖
-
-<!--v-->
-
-| | | |
-|-|-|-|
-| amasse    | videsse    | sentisse    |
-| amasses   | videsses   | sentisses   |
-| amasse    | videsse    | sentisse    |
-| amassemos | videssemos | sentissemos |
-| amasseis  | videsseis  | sentisseis  |
-| amassen   | videssen   | sentissen   |
-| | | |
 
 <!--v-->
 
@@ -1518,18 +1439,6 @@ Notes:
 
 | | | |
 |-|-|-|
-| amaria    | videria    | sentiria    |
-| amarias   | viderias   | sentirias   |
-| amaria    | videria    | sentiria    |
-| amariamos | videriamos | sentiriamos |
-| amariais  | videriais  | sentiriais  |
-| amarian   | viderian   | sentirian   |
-| | | |
-
-<!--v-->
-
-| | | |
-|-|-|-|
 | amaría    | videría    | sentiría    |
 | amarías   | viderías   | sentirías   |
 | amaría    | videría    | sentiría    |
@@ -1553,18 +1462,6 @@ Notes:
 <!--v-->
 
 ##### Perfekto de la Prezenco 📖
-
-<!--v-->
-
-| | | |
-|-|-|-|
-| amai    | videi    | sentii    |
-| amaste  | videste  | sentiste  |
-| amau    | videu    | sentiu    |
-| amamos  | videmos  | sentimos  |
-| amastes | videstes | sentistes |
-| amaron  | videron  | sentiron  |
-| | | |
 
 <!--v-->
 
@@ -1614,18 +1511,6 @@ Notes:
 
 | | | |
 |-|-|-|
-| amara    | videra    | sentira    |
-| amaras   | videras   | sentiras   |
-| amara    | videra    | sentira    |
-| amaramos | videramos | sentiramos |
-| amarais  | viderais  | sentirais  |
-| amaran   | videran   | sentiran   |
-| | | |
-
-<!--v-->
-
-| | | |
-|-|-|-|
 | amâra    | vidêra    | sentîra    |
 | amâras   | vidêras   | sentîras   |
 | amâra    | vidêra    | sentîra    |
@@ -1633,6 +1518,9 @@ Notes:
 | amârais  | vidêrais  | sentîrais  |
 | amâran   | vidêran   | sentîran   |
 | | | |
+
+Notes
+* amaramos → am**á**ramos
 
 <!--v-->
 
@@ -1649,18 +1537,6 @@ Notes:
 <!--v-->
 
 ##### Perfekto de la Futuro 📖📖
-
-<!--v-->
-
-| | | |
-|-|-|-|
-| amare    | videre    | sentire    |
-| amares   | videres   | sentires   |
-| amare    | videre    | sentire    |
-| amaremos | videremos | sentiremos |
-| amareis  | videreis  | sentireis  |
-| amaren   | videren   | sentiren   |
-| | | |
 
 <!--v-->
 
@@ -1686,8 +1562,6 @@ Notes:
 | amavĕrent  | videvĕrant  | sentivĕrant  |
 | | | |
 
-<!-- TODO vīd? sens? -->
-
 <!--v-->
 
 ### Malregulaj Verboj
@@ -1697,24 +1571,42 @@ Notes:
 
 | | | |
 |-|-|-|
-| so    | ho    | vo    |
-| eres  | has   | vas   |
-| es    | ha    | va    |
-| somos | hemos | vamos |
-| sois  | heis  | vais  |
-| son   | han   | van   |
+| sêr | haber | ir |
 | | | |
 
 <!--v-->
 
 | | | |
 |-|-|-|
-| era    | había    | ía    |
-| eras   | habías   | ías   |
-| era    | había    | ía    |
+| sêr | haber | ir |
+| | | |
+
+<!-- TODO -u! -->
+
+<!--v-->
+
+| | | |
+|-|-|-|
+| sô    | hô    | vô    |
+| êres  | hás   | vás   |
+| ês    | há    | vá    |
+| sômos | hêmos | vâmos |
+| sôis  | hêis  | vâis  |
+| sôn   | hân   | vân   |
+| | | |
+
+<!-- TODO diakritaĵoj -->
+
+<!--v-->
+
+| | | |
+|-|-|-|
+| êra    | había    | ía    |
+| êras   | habías   | ías   |
+| êra    | había    | ía    |
 | éramos | habíamos | íamos |
-| erais  | habíeis  | íais  |
-| eran   | habían   | ían   |
+| êrais  | habíeis  | íais  |
+| êran   | habían   | ían   |
 | | | |
 
 <!--v-->
@@ -1761,6 +1653,7 @@ Notes:
 
 <!-- huvesse -->
 <!-- TODO vadesse → fuesse -->
+<!-- TODO diakritaĵoj -->
 
 <!--v-->
 
@@ -1774,21 +1667,22 @@ Notes:
 | serían   | haberían   | irían   |
 | | | |
 
+Notes:
+* tutregula
+
 <!--v-->
 
 | | | |
 |-|-|-|
-| fuei    | huvéi    | sentíi    |
-| fueste  | huvêste  | sentîste  |
-| fue     | huve     | sentíu    |
-| fuemos  | huvêmos  | sentîmos  |
-| fuestes | huvêstes | sentîstes |
-| fueron  | huvêron  | sentîron  |
+| fuei    | huvéi    |  |
+| fueste  | huvêste  |  |
+| fue     | huve     |  |
+| fuemos  | huvêmos  |  |
+| fuestes | huvêstes |  |
+| fueron  | huvêron  |  |
 | | | |
 
-<!-- ... -->
-
-<!-- TODO fu/fue? -->
+<!-- TODO -->
 
 
 
@@ -1810,10 +1704,6 @@ Notes:
 | | |
 | *havintas* | habeu |
 | | |
-
-Notes:
-* *havintis* — **habêra**
-* *havintos* ­— **habêre**
 
 <!--v-->
 
