@@ -1587,8 +1587,24 @@ Notes:
 | amavet    | videvet    | sentivet    |
 | amavĕmus  | videvĕmus  | sentivĕmus  |
 | amavestes | videvestes | sentivestes |
-| amaveron  | videveron  | sentiveron  |
+| amaverunt | videverunt | sentiverunt |
 | | | |
+
+<!--v-->
+
+| | | |
+|-|-|-|
+| amavei    | vīdei    | sēnsii    |
+| amaveste  | vīdeste  | sēnsiste  |
+| amavet    | vīdet    | sēnsit    |
+| amavĕmus  | vīdĕmus  | sēnsimus  |
+| amavestes | vīdestes | sēnsistes |
+| amaverunt | vīderunt | sēnsirunt |
+| | | |
+
+Notes:
+* conservativissime
+* *ī* = *ii*, *ē* = *ee*
 
 <!--v-->
 
@@ -1676,7 +1692,6 @@ Notes:
 
 ### Malregulaj Verboj
 *(esser, haber, ir)*
-<!-- TODO star? -->
 
 <!--v-->
 
@@ -1702,11 +1717,6 @@ Notes:
 | eran   | habían   | ían   |
 | | | |
 
-<!-- TODO habia/habeva? -->
-<!-- IT aveva -->
-<!-- PT hava -->
-<!-- ES había -->
-
 <!--v-->
 
 | | | |
@@ -1719,26 +1729,78 @@ Notes:
 | serán   | haberán   | irán   |
 | | | |
 
+Notes:
+* tutregula
 
 <!--v-->
+
+| | | |
+|-|-|-|
+| sea    | habia    | vada    |
+| seas   | habias   | vadas   |
+| sea    | habia    | vada    |
+| seamos | habiamos | vadamos |
+| seais  | habiais  | vadais  |
+| sean   | habian   | vadan   |
+| | | |
+
+Notes:
+* 🌎 sia
+
+<!--v-->
+
+| | | |
+|-|-|-|
+| fuesse    | habesse    | vadesse    |
+| fuesses   | habesses   | vadesses   |
+| fuesse    | habesse    | vadesse    |
+| fuessemos | habessemos | vadessemos |
+| fuesseis  | habesseis  | vadesseis  |
+| fuessen   | habessen   | vadessen   |
+| | | |
+
+<!-- huvesse -->
+<!-- TODO vadesse → fuesse -->
+
+<!--v-->
+
+| | | |
+|-|-|-|
+| sería    | habería    | iría    |
+| serías   | haberías   | irías   |
+| sería    | habería    | iría    |
+| seríamos | haberíamos | iríamos |
+| seríais  | haberíais  | iríais  |
+| serían   | haberían   | irían   |
+| | | |
+
+<!--v-->
+
+| | | |
+|-|-|-|
+| fuei    | huvéi    | sentíi    |
+| fueste  | huvêste  | sentîste  |
+| fue     | huve     | sentíu    |
+| fuemos  | huvêmos  | sentîmos  |
+| fuestes | huvêstes | sentîstes |
+| fueron  | huvêron  | sentîron  |
+| | | |
+
+<!-- ... -->
+
+<!-- TODO fu/fue? -->
+
+
+
+
 
 
 <!--s-->
 -----
+<!-- TODO esser/ser -->
 <!--s-->
 
 # Registroj …
-
-<!--v-->
-
-| | auxiliar |
-|-|-|
-| *(ke) estas* | sea <small>🌎 es/sia</small> |
-| *(ke) estis* | fuesse |
-| | |
-| *(ke) havas* | habia |
-| *(ke) havis* | habesse |
-| | |
 
 <!--v-->
 
