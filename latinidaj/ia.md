@@ -1352,17 +1352,15 @@ Notes:
 
 <!--v-->
 
-| | | |
-|-|-|-|
-| amabam   | videbam   | sentibam   |
-| amabas   | videbas   | sentibas   |
-| amabat   | videbat   | sentibat   |
-| amabamus | videbamus | sentibamus |
-| amabatis | videbatis | sentibatis |
-| amabant  | videbant  | sentibant  |
-| | | |
-
-<!-- TODO legĕbam, legĕbas, legĕbat, legĕbant ? -->
+| | | | | |
+|-|-|-|-|-|
+| amabam   | videbam   | legĕbam   | sentibam   | capĭbam   |
+| amabas   | videbas   | legĕbas   | sentibas   | capĭbas   |
+| amabat   | videbat   | legĕbat   | sentibat   | capĭbat   |
+| amabamus | videbamus | legebamus | sentibamus | capibamus |
+| amabatis | videbatis | legebatis | sentibatis | capibatis |
+| amabant  | videbant  | legĕbant  | sentibant  | capĭbant  |
+| | | | | |
 
 <!--v-->
 
