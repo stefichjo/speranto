@@ -1237,7 +1237,26 @@ Notes:
 
 ##### Infinitivo
 
-<!-- TODO -->
+<!--v-->
+
+| | | |
+|-|-|-|
+| amar | vider | sentir |
+| | | |
+
+<!--v-->
+
+| | | |
+|-|-|-|
+| amare | videre | sentire |
+| | | |
+
+<!--v-->
+
+| | | | | |
+|-|-|-|-|-|
+| amare | videre | legĕre | sentire | capĭre |
+| | | | | |
 
 <!--v-->
 
@@ -1747,14 +1766,6 @@ Notes:
 -----
 <!--s-->
 
-# Registroj …
-
-<!--v-->
-
-## Natureca Registro
-
-<!--v-->
-
 | auxiliar | natural |
 |-|-|
 | unesimo | primo |
@@ -1767,14 +1778,6 @@ Notes:
 | mi | ego ~ eo ~ io ~ jo ~ j' |
 | | |
 
-<!--v-->
-
-| natural con accento |
-|-|
-| venite! *[venite]* ~ ***[venid']*** |
-| |
-
-<small>La imperativa formo finiĝas per -*te* en la multenombro. Kun **akĉento**, ĝi prononciĝas *[d]*.</small>
 -----
 <!--s-->
 
