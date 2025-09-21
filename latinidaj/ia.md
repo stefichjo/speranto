@@ -1514,13 +1514,22 @@ Notes:
 | amâra    | vidêra    | sentîra    |
 | amâras   | vidêras   | sentîras   |
 | amâra    | vidêra    | sentîra    |
-| amáramos | vidéramos | sentíramos |
-| amârais  | vidêrais  | sentîrais  |
+| amaramos | videramos | sentiramos |
+| amaráis  | videráis  | sentiráis  |
 | amâran   | vidêran   | sentîran   |
 | | | |
 
-Notes
-* amaramos → am**á**ramos
+<!--v-->
+
+| | | |
+|-|-|-|
+| amâra        | vidêra        | sentîra        |
+| amâras       | vidêras       | sentîras       |
+| amâra        | vidêra        | sentîra        |
+| am**á**ramos | vid**é**ramos | sent**í**ramos |
+| am**â**rais  | vid**ê**rais  | sent**î**rais  |
+| amâran       | vidêran       | sentîran       |
+| | | |
 
 <!--v-->
 
@@ -1595,8 +1604,6 @@ Notes
 | sôn   | hân   | vân   |
 | | | |
 
-<!-- TODO diakritaĵoj -->
-
 <!--v-->
 
 | | | |
@@ -1643,12 +1650,12 @@ Notes:
 
 | | | |
 |-|-|-|
-| fuesse    | habesse    | vadesse    |
-| fuesses   | habesses   | vadesses   |
-| fuesse    | habesse    | vadesse    |
-| fuessemos | habessemos | vadessemos |
-| fuesseis  | habesseis  | vadesseis  |
-| fuessen   | habessen   | vadessen   |
+| fuesse    | habêsse    | vadêsse    |
+| fuesses   | habêsses   | vadêsses   |
+| fuesse    | habêsse    | vadêsse    |
+| fuéssemos | habéssemos | vadéssemos |
+| fuesseis  | habêsseis  | vadêsseis  |
+| fuessen   | habêssen   | vadêssen   |
 | | | |
 
 <!-- huvesse -->
