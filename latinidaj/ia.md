@@ -1354,12 +1354,12 @@ Notes:
 
 | | | | | |
 |-|-|-|-|-|
-| amabam   | videbam   | legĕbam   | sentibam   | capĭbam   |
-| amabas   | videbas   | legĕbas   | sentibas   | capĭbas   |
-| amabat   | videbat   | legĕbat   | sentibat   | capĭbat   |
-| amabamus | videbamus | legebamus | sentibamus | capibamus |
-| amabatis | videbatis | legebatis | sentibatis | capibatis |
-| amabant  | videbant  | legĕbant  | sentibant  | capĭbant  |
+| amabam   | videbam   | legebam   | sent**ie**bam   | cap**ie**bam   |
+| amabas   | videbas   | legebas   | sent**ie**bas   | cap**ie**bas   |
+| amabat   | videbat   | legebat   | sent**ie**bat   | cap**ie**bat   |
+| amabamus | videbamus | legebamus | sent**ie**bamus | cap**ie**bamus |
+| amabatis | videbatis | legebatis | sent**ie**batis | cap**ie**batis |
+| amabant  | videbant  | legebant  | sent**ie**bant  | cap**ie**bant  |
 | | | | | |
 
 <!--v-->
