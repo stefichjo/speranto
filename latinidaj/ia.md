@@ -1128,38 +1128,7 @@ Notes:
 
 <!--s-->
 
-## Helpeca kaj Natureca Registroj
-
-<!--v-->
-
-### Adjektivoj
-
-<!--v-->
-
-| auxiliar | natural |
-|-:|-|
-| alte | alta(s) |
-| | |
-| grande | grande(s) |
-| | |
-
-<!--v-->
-
-<small>En la natureca registro, uziĝas konservemecaj participoj. Kombine kun *haber* uziĝas la adverba formo je *-o*.</small>
-
-<!--v-->
-
-| auxiliar | natural |
-|-:|-|
-| ha facite | ha facto |
-| | |
-
-Notes:
-* *site*, *(es)sente*
-
-<!--v-->
-
-### Verboj
+## Verboj
 
 <!--v-->
 
@@ -1231,11 +1200,11 @@ Notes:
 
 <!--v-->
 
-#### Konjugacio
+### Konjugacio
 
 <!--v-->
 
-##### Infinitivo
+#### Infinitivo
 
 <!--v-->
 
@@ -1262,7 +1231,14 @@ Notes:
 
 <!--v-->
 
-##### Imperativo
+| | | |
+|-|-|-|
+| sêr | haber | ir |
+| | | |
+
+<!--v-->
+
+#### Imperativo
 
 <!--v-->
 
@@ -1274,8 +1250,15 @@ Notes:
 | | | |
 
 <!--v-->
-<!-- TODO diakritaĵoj nur -->
-##### Prezenco
+
+| | | |
+|-|-|-|
+| sê(te)! | habe(te)! | vâ!/ite! |
+| | | |
+
+<!--v-->
+
+#### Prezenco
 
 <!--v-->
 
@@ -1339,7 +1322,25 @@ Notes:
 
 <!--v-->
 
-##### Preterito
+| | | |
+|-|-|-|
+| sô    | hô    | vô    |
+| êres  | hâs   | vâs   |
+| ês    | hâ    | vâ    |
+| sômos | hêmos | vâmos |
+| sôis  | hêis  | vâis  |
+| sôn   | hân   | vân   |
+| | | |
+
+Notes:
+* *i* → ***e*** → *vâ*
+* 🌎 so, somos, son
+* conservative: *sum*, *es*, *est*, *sumus*, *estis*, *sunt*
+<!-- * essem, esses, esset, essemus, essetis, essent ⇒ essentia -->
+
+<!--v-->
+
+#### Preterito
 
 <!--v-->
 
@@ -1369,7 +1370,19 @@ Notes:
 
 <!--v-->
 
-##### Futuro
+| | | |
+|-|-|-|
+| êra    | había    | ía    |
+| êras   | habías   | ías   |
+| êra    | había    | ía    |
+| éramos | habíamos | íamos |
+| êrais  | habíeis  | íais  |
+| êran   | habían   | ían   |
+| | | |
+
+<!--v-->
+
+#### Futuro
 
 <!--v-->
 
@@ -1397,7 +1410,22 @@ Notes:
 
 <!--v-->
 
-##### Konjunktivo de la Prezenco
+| | | |
+|-|-|-|
+| seró    | haberó    | iró    |
+| serás   | haberás   | irás   |
+| será    | haberá    | irá    |
+| serêmos | haberêmos | irêmos |
+| seréis  | haberéis  | iréis  |
+| serán   | haberán   | irán   |
+| | | |
+
+Notes:
+* tutregula, fakte
+
+<!--v-->
+
+#### Konjunktivo de la Prezenco
 
 <!--v-->
 
@@ -1425,7 +1453,25 @@ Notes:
 
 <!--v-->
 
-##### Konjunktivo de la Preterito 📖
+| | | |
+|-|-|-|
+| sea    | habia    | vada    |
+| seas   | habias   | vadas   |
+| sea    | habia    | vada    |
+| seamos | habiamos | vadamos |
+| seáis  | habiáis  | vadáis  |
+| sean   | habian   | vadan   |
+| | | |
+
+Notes:
+* 🌎 sia
+* *a* → *vada*
+<!-- TODO esse? -->
+<!-- TODO * esseam, esseas, esseat, esseamus, esseatis, esseant -->
+
+<!--v-->
+
+#### Konjunktivo de la Preterito 📖
 
 <!--v-->
 
@@ -1453,7 +1499,24 @@ Notes:
 
 <!--v-->
 
-##### Kondicionalo
+| | | |
+|-|-|-|
+| fuesse        | habêsse    | vadêsse    |
+| fuesses       | habêsses   | vadêsses   |
+| fuesse        | habêsse    | vadêsse    |
+| fu**é**ssemos | habéssemos | vadéssemos |
+| fuesseis      | habêsseis  | vadêsseis  |
+| fuessen       | habêssen   | vadêssen   |
+| | | |
+
+Notes:
+* *fuéssemos* = *fuessĕmos*
+* *vadêsse* → *fuesse*
+* *habêsse* → *huvêsse*
+
+<!--v-->
+
+#### Kondicionalo
 *(Konjunktivo de la Futuro)*
 
 <!--v-->
@@ -1482,7 +1545,22 @@ Notes:
 
 <!--v-->
 
-##### Perfekto de la Prezenco 📖
+| | | |
+|-|-|-|
+| sería    | habería    | iría    |
+| serías   | haberías   | irías   |
+| sería    | habería    | iría    |
+| seríamos | haberíamos | iríamos |
+| seríais  | haberíais  | iríais  |
+| serían   | haberían   | irían   |
+| | | |
+
+Notes:
+* tutregula, fakte
+
+<!--v-->
+
+#### Perfekto de la Prezenco 📖
 
 <!--v-->
 
@@ -1514,7 +1592,19 @@ Notes:
 
 <!--v-->
 
-##### Perfekto de la Preterito 📖📖
+| | | |
+|-|-|-|
+| fuei    | habéi    | vadéi    |
+| fueste  | habêste  | vadêste  |
+| fue     | habéu    | vadéu    |
+| fuemos  | habêmos  | vadêmos  |
+| fuestes | habêstes | vadêstes |
+| fueron  | habêron  | vadêron  |
+| | | |
+
+<!--v-->
+
+#### Perfekto de la Preterito 📖📖
 
 <!--v-->
 
@@ -1554,7 +1644,19 @@ Notes:
 
 <!--v-->
 
-##### Perfekto de la Futuro 📖📖
+| | | |
+|-|-|-|
+| fuera        | habêra        | vadêra        |
+| fueras       | habêras       | vadêras       |
+| fuera        | habêra        | vadêra        |
+| fu**é**ramos | hab**é**ramos | vad**é**ramos |
+| fu**e**rais  | hab**e**rais  | vad**e**rais  |
+| fueran       | habêran       | vadêran       |
+| | | |
+
+<!--v-->
+
+#### Perfekto de la Futuro 📖📖
 
 <!--v-->
 
@@ -1582,164 +1684,6 @@ Notes:
 
 <!--v-->
 
-### Malregulaj Verboj
-*(esser, haber, ir)*
-
-<!--v-->
-
-| | | |
-|-|-|-|
-| sêr | haber | ir |
-| | | |
-
-<small>Infinitivo</small>
-
-<!--v-->
-
-| | | |
-|-|-|-|
-| sê(te)! | habe(te)! | vâ!/ite! |
-| | | |
-
-<small>Imperativo</small>
-
-<!--v-->
-
-| | | |
-|-|-|-|
-| sô    | hô    | vô    |
-| êres  | hâs   | vâs   |
-| ês    | hâ    | vâ    |
-| sômos | hêmos | vâmos |
-| sôis  | hêis  | vâis  |
-| sôn   | hân   | vân   |
-| | | |
-
-<small>Prezenco</small>
-
-Notes:
-* *i* → ***e*** → *vâ*
-* 🌎 so, somos, son
-* conservative: *sum*, *es*, *est*, *sumus*, *estis*, *sunt*
-<!-- * essem, esses, esset, essemus, essetis, essent ⇒ essentia -->
-
-<!--v-->
-
-| | | |
-|-|-|-|
-| êra    | había    | ía    |
-| êras   | habías   | ías   |
-| êra    | había    | ía    |
-| éramos | habíamos | íamos |
-| êrais  | habíeis  | íais  |
-| êran   | habían   | ían   |
-| | | |
-
-<small>Preterito</small>
-
-<!--v-->
-
-| | | |
-|-|-|-|
-| seró    | haberó    | iró    |
-| serás   | haberás   | irás   |
-| será    | haberá    | irá    |
-| serêmos | haberêmos | irêmos |
-| seréis  | haberéis  | iréis  |
-| serán   | haberán   | irán   |
-| | | |
-
-<small>Futuro</small>
-
-Notes:
-* tutregula
-
-<!--v-->
-
-| | | |
-|-|-|-|
-| sea    | habia    | vada    |
-| seas   | habias   | vadas   |
-| sea    | habia    | vada    |
-| seamos | habiamos | vadamos |
-| seáis  | habiáis  | vadáis  |
-| sean   | habian   | vadan   |
-| | | |
-
-<small>Konjunktivo de la Prezenco</small>
-
-Notes:
-* 🌎 sia
-* *a* → *vada*
-<!-- TODO esse? -->
-<!-- TODO * esseam, esseas, esseat, esseamus, esseatis, esseant -->
-
-<!--v-->
-
-| | | |
-|-|-|-|
-| fuesse        | habêsse    | vadêsse    |
-| fuesses       | habêsses   | vadêsses   |
-| fuesse        | habêsse    | vadêsse    |
-| fu**é**ssemos | habéssemos | vadéssemos |
-| fuesseis      | habêsseis  | vadêsseis  |
-| fuessen       | habêssen   | vadêssen   |
-| | | |
-
-<small>Konjunktivo de la Preterito</small>
-
-Notes:
-* *fuéssemos* = *fuessĕmos*
-* *vadêsse* → *fuesse*
-* *habêsse* → *huvêsse*
-
-<!--v-->
-
-| | | |
-|-|-|-|
-| sería    | habería    | iría    |
-| serías   | haberías   | irías   |
-| sería    | habería    | iría    |
-| seríamos | haberíamos | iríamos |
-| seríais  | haberíais  | iríais  |
-| serían   | haberían   | irían   |
-| | | |
-
-<small>Kondicionalo (Konjunktivo de la Futuro)</small>
-
-Notes:
-* tutregula
-
-<!--v-->
-
-| | | |
-|-|-|-|
-| fuei    | habéi    | vadéi    |
-| fueste  | habêste  | vadêste  |
-| fue     | habéu    | vadéu    |
-| fuemos  | habêmos  | vadêmos  |
-| fuestes | habêstes | vadêstes |
-| fueron  | habêron  | vadêron  |
-| | | |
-
-<small>Perfekto de la Prezenco</small>
-
-<!--v-->
-
-| | | |
-|-|-|-|
-| fuera        | habêra        | vadêra        |
-| fueras       | habêras       | vadêras       |
-| fuera        | habêra        | vadêra        |
-| fu**é**ramos | hab**é**ramos | vad**é**ramos |
-| fu**e**rais  | hab**e**rais  | vad**e**rais  |
-| fueran       | habêran       | vadêran       |
-| | | |
-
-<small>Perfekto de la Preterito</small>
-
-<!--v-->
-
 | | | |
 |-|-|-|
 | fuere    | habêre    | vadêre    |
@@ -1749,8 +1693,6 @@ Notes:
 | fuereis  | habereis  | vadereis  |
 | fueren   | habêren   | vadêren   |
 | | | |
-
-<small>Perfekto de la Futuro</small>
 
 <!--s-->
 -----
@@ -1767,6 +1709,33 @@ Notes:
 |-|-|
 | mi | ego ~ eo ~ io ~ jo ~ j' |
 | | |
+
+<!--s-->
+
+## Adjektivoj
+
+<!--v-->
+
+| auxiliar | natural |
+|-:|-|
+| alte | alta(s) |
+| | |
+| grande | grande(s) |
+| | |
+
+<!--v-->
+
+<small>En la natureca registro, uziĝas konservemecaj participoj. Kombine kun *haber* uziĝas la adverba formo je *-o*.</small>
+
+<!--v-->
+
+| auxiliar | natural |
+|-:|-|
+| ha facite | ha facto |
+| | |
+
+<!-- TODO *site*, *(es)sente* -->
+<!-- TODO: fakte, tio estas inkluzivebla en la sekcio "verboj", kaj fakte do registroj povas esti sinonimaj kun verboj. -->
 
 -----
 <!--s-->
