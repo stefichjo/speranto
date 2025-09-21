@@ -1583,13 +1583,6 @@ Notes:
 | sêr | haber | ir |
 | | | |
 
-<!--v-->
-
-| | | |
-|-|-|-|
-| sêr | haber | ir |
-| | | |
-
 <!-- TODO -u! -->
 
 <!--v-->
@@ -1603,6 +1596,9 @@ Notes:
 | sôis  | hêis  | vâis  |
 | sôn   | hân   | vân   |
 | | | |
+
+Notes:
+* *i* → ***e*** → *vâ*
 
 <!--v-->
 
@@ -1645,6 +1641,7 @@ Notes:
 
 Notes:
 * 🌎 sia
+* *a* → *vada*
 
 <!--v-->
 
@@ -1658,9 +1655,10 @@ Notes:
 | fuessen   | habêssen   | vadêssen   |
 | | | |
 
-<!-- huvesse -->
-<!-- TODO vadesse → fuesse -->
-<!-- TODO diakritaĵoj -->
+Notes:
+* *fuéssemos* = *fuessĕmos*
+* *vadêsse* → *fuesse*
+* *habêsse* → *huvêsse*
 
 <!--v-->
 
@@ -1681,20 +1679,37 @@ Notes:
 
 | | | |
 |-|-|-|
-| fuei    | huvéi    |  |
-| fueste  | huvêste  |  |
-| fue     | huve     |  |
-| fuemos  | huvêmos  |  |
-| fuestes | huvêstes |  |
-| fueron  | huvêron  |  |
+| fuei    | habéi    | vadéi    |
+| fueste  | habêste  | vadêste  |
+| fue     | habéu    | vadéu    |
+| fuemos  | habêmos  | vadêmos  |
+| fuestes | habêstes | vadêstes |
+| fueron  | habêron  | vadêron  |
 | | | |
 
-<!-- TODO -->
+<!--v-->
 
+| | | |
+|-|-|-|
+| fuera        | habêra        | vadêra        |
+| fueras       | habêras       | vadêras       |
+| fuera        | habêra        | vadêra        |
+| fu**é**ramos | hab**é**ramos | vad**é**ramos |
+| fu**e**rais  | hab**e**rais  | vad**e**rais  |
+| fueran       | habêran       | vadêran       |
+| | | |
 
+<!--v-->
 
-
-
+| | | |
+|-|-|-|
+| fuere    | habêre    | vadêre    |
+| fueres   | habêres   | vadêres   |
+| fuere    | habêre    | vadêre    |
+| fuéremos | habéremos | vadéremos |
+| fuereis  | habereis  | vadereis  |
+| fueren   | habêren   | vadêren   |
+| | | |
 
 <!--s-->
 -----
