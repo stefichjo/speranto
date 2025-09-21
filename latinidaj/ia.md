@@ -1258,6 +1258,8 @@ Notes:
 | amare | videre | legĕre | sentire | capĭre |
 | | | | | |
 
+<!-- TODO ĉu do *capir* havas sian lokon? -->
+
 <!--v-->
 
 ##### Imperativo
@@ -1672,7 +1674,7 @@ Notes:
 | seas   | habias   | vadas   |
 | sea    | habia    | vada    |
 | seamos | habiamos | vadamos |
-| seais  | habiais  | vadais  |
+| seáis  | habiáis  | vadáis  |
 | sean   | habian   | vadan   |
 | | | |
 
@@ -1688,12 +1690,12 @@ Notes:
 
 | | | |
 |-|-|-|
-| fuesse    | habêsse    | vadêsse    |
-| fuesses   | habêsses   | vadêsses   |
-| fuesse    | habêsse    | vadêsse    |
-| fuéssemos | habéssemos | vadéssemos |
-| fuesseis  | habêsseis  | vadêsseis  |
-| fuessen   | habêssen   | vadêssen   |
+| fuesse        | habêsse    | vadêsse    |
+| fuesses       | habêsses   | vadêsses   |
+| fuesse        | habêsse    | vadêsse    |
+| fu**é**ssemos | habéssemos | vadéssemos |
+| fuesseis      | habêsseis  | vadêsseis  |
+| fuessen       | habêssen   | vadêssen   |
 | | | |
 
 <small>Konjunktivo de la Preterito</small>
