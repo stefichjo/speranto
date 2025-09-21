@@ -1597,8 +1597,8 @@ Notes:
 | | | |
 |-|-|-|
 | sô    | hô    | vô    |
-| êres  | hás   | vás   |
-| ês    | há    | vá    |
+| êres  | hâs   | vâs   |
+| ês    | hâ    | vâ    |
 | sômos | hêmos | vâmos |
 | sôis  | hêis  | vâis  |
 | sôn   | hân   | vân   |
