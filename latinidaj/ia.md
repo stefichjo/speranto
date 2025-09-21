@@ -1124,11 +1124,7 @@ Notes:
 
 <!--s-->
 
-# Registro
-
-<!--s-->
-
-## Verboj
+# Registroj
 
 <!--v-->
 
@@ -1198,13 +1194,13 @@ Notes:
 | velle amar | __amaria__ |
 | | |
 
+<!--s-->
+
+## Konjugacio
+
 <!--v-->
 
-### Konjugacio
-
-<!--v-->
-
-#### Infinitivo
+### Infinitivo
 
 <!--v-->
 
@@ -1238,7 +1234,7 @@ Notes:
 
 <!--v-->
 
-#### Imperativo
+### Imperativo
 
 <!--v-->
 
@@ -1258,7 +1254,7 @@ Notes:
 
 <!--v-->
 
-#### Prezenco
+### Prezenco
 
 <!--v-->
 
@@ -1340,7 +1336,7 @@ Notes:
 
 <!--v-->
 
-#### Preterito
+### Preterito
 
 <!--v-->
 
@@ -1382,7 +1378,7 @@ Notes:
 
 <!--v-->
 
-#### Futuro
+### Futuro
 
 <!--v-->
 
@@ -1425,7 +1421,7 @@ Notes:
 
 <!--v-->
 
-#### Konjunktivo de la Prezenco
+### Konjunktivo de la Prezenco
 
 <!--v-->
 
@@ -1471,7 +1467,7 @@ Notes:
 
 <!--v-->
 
-#### Konjunktivo de la Preterito 📖
+### Konjunktivo de la Preterito 📖
 
 <!--v-->
 
@@ -1516,7 +1512,7 @@ Notes:
 
 <!--v-->
 
-#### Kondicionalo
+### Kondicionalo
 *(Konjunktivo de la Futuro)*
 
 <!--v-->
@@ -1560,7 +1556,7 @@ Notes:
 
 <!--v-->
 
-#### Perfekto de la Prezenco 📖
+### Perfekto de la Prezenco 📖
 
 <!--v-->
 
@@ -1604,7 +1600,7 @@ Notes:
 
 <!--v-->
 
-#### Perfekto de la Preterito 📖📖
+### Perfekto de la Preterito 📖📖
 
 <!--v-->
 
@@ -1656,7 +1652,7 @@ Notes:
 
 <!--v-->
 
-#### Perfekto de la Futuro 📖📖
+### Perfekto de la Futuro 📖📖
 
 <!--v-->
 
@@ -1713,7 +1709,7 @@ Notes:
 <!--s-->
 
 ## Adjektivoj
-
+<!-- TODO → Registro (j) -->
 <!--v-->
 
 | auxiliar | natural |
