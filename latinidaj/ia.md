@@ -1508,21 +1508,9 @@ Notes:
 | amaverunt | videverunt | sentiverunt |
 | | | |
 
-<!--v-->
-
-| | | |
-|-|-|-|
-| amavei    | vīdei    | sēnsii    |
-| amaveste  | vīdeste  | sēnsiste  |
-| amavet    | vīdet    | sēnsit    |
-| amavĕmus  | vīdĕmus  | sēnsimus  |
-| amavestes | vīdestes | sēnsistes |
-| amaverunt | vīderunt | sēnsirunt |
-| | | |
-
 Notes:
-* conservativissime
-* *ī* = *ii*, *ē* = *ee*
+* conservativissime: *videvet* → *vīdet*, *sentivet* → *sēnsit*
+  * *ī* = *ii*, *ē* = *ee*
 
 <!--v-->
 
