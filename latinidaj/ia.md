@@ -1194,6 +1194,32 @@ Notes:
 | velle amar | __amaria__ |
 | | |
 
+<!--v-->
+
+| auxiliar | natural |
+|-:|-|
+| alte | alta(s) / alto(s) |
+| | |
+| grande | grande(s) |
+| | |
+
+<!-- TODO amate → amata/amato (amato de le personas, ille decideva...) -->
+
+<!--v-->
+
+<small>En la natureca registro, uziĝas konservemecaj participoj. Kombine kun *haber* uziĝas la adverba formo je *-o*.</small>
+
+<!--v-->
+
+| auxiliar | natural |
+|-:|-|
+| ha facite | ha facto |
+| | |
+
+<!-- TODO *site*, *(es)sente* -->
+<!-- TODO: fakte, tio estas inkluzivebla en la sekcio "verboj", kaj fakte do registroj povas esti sinonimaj kun verboj. -->
+
+
 <!--s-->
 
 ## Konjugacio
@@ -1705,32 +1731,6 @@ Notes:
 | | |
 
 <!--s-->
-
-## Adjektivoj
-<!-- TODO → Registro (j) -->
-<!--v-->
-
-| auxiliar | natural |
-|-:|-|
-| alte | alta(s) |
-| | |
-| grande | grande(s) |
-| | |
-
-<!--v-->
-
-<small>En la natureca registro, uziĝas konservemecaj participoj. Kombine kun *haber* uziĝas la adverba formo je *-o*.</small>
-
-<!--v-->
-
-| auxiliar | natural |
-|-:|-|
-| ha facite | ha facto |
-| | |
-
-<!-- TODO *site*, *(es)sente* -->
-<!-- TODO: fakte, tio estas inkluzivebla en la sekcio "verboj", kaj fakte do registroj povas esti sinonimaj kun verboj. -->
-
 -----
 <!--s-->
 
