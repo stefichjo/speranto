@@ -1599,6 +1599,9 @@ Notes:
 
 Notes:
 * *i* → ***e*** → *vâ*
+* 🌎 so, somos, son
+* conservative: *sum*, *es*, *est*, *sumus*, *estis*, *sunt*
+<!-- * essem, esses, esset, essemus, essetis, essent ⇒ essentia -->
 
 <!--v-->
 
@@ -1642,6 +1645,8 @@ Notes:
 Notes:
 * 🌎 sia
 * *a* → *vada*
+<!-- TODO esse? -->
+<!-- TODO * esseam, esseas, esseat, esseamus, esseatis, esseant -->
 
 <!--v-->
 
@@ -1713,31 +1718,13 @@ Notes:
 
 <!--s-->
 -----
-<!-- TODO esser/ser -->
 <!--s-->
 
 # Registroj …
 
 <!--v-->
 
-| | auxiliar |
-|-|-|
-| *estintas* | fue |
-| | |
-| *havintas* | habeu |
-| | |
-
-<!--v-->
-
 ## Natureca Registro
-
-<!--v-->
-
-| | conservative | progressive |
-|-|-|-|
-| **auxiliar** | essere | esser |
-| **natural**  | | ser |
-| | | |
 
 <!--v-->
 
@@ -1752,37 +1739,6 @@ Notes:
 |-|-|
 | mi | ego ~ eo ~ io ~ jo ~ j' |
 | | |
-
-<!--v-->
-
-## Naturecega Registro
-
-<!--v-->
-
-| | conservative | progressive |
-|-|-|-|
-| *(mi) estas* | sum | so <small>🌎 es/so</small> |
-| *(ci) estas* | es  | eres |
-| *(li) estas* | est | es |
-| | | |
-| *(ni) estas*  | sumus | somos <small>🌎 es/somos</small> |
-| *(vi) estas*  | estis | sois  |
-| *(ili) estas* | sunt  | son <small>🌎 es/son</small> |
-| | | |
-
-<small>En la **naturecega registro**, verboj havas konjugacion.</small>
-
-Notes:
-* La naturecegaj konservemegaj formoj de *esser* estas: *essem*, *esses*, *esset*, *essemus*, *essetis*, *essent*. La respektiva helpeca formo estas *esse*.
-
-<!--v-->
-
-| | conservative | progressive |
-|-|-|-|
-| **auxiliar** | esseba | esseva |
-| **natural**  | erat | era |
-
-<small>La **konservemega prononco** de **natureca** *esseva* estas *essebat*.</small>
 
 <!--v-->
 
