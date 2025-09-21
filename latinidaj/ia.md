@@ -1583,7 +1583,16 @@ Notes:
 | sêr | haber | ir |
 | | | |
 
-<!-- TODO -u! -->
+<small>Infinitivo</small>
+
+<!--v-->
+
+| | | |
+|-|-|-|
+| sê(te)! | habe(te)! | vâ!/ite! |
+| | | |
+
+<small>Imperativo</small>
 
 <!--v-->
 
@@ -1596,6 +1605,8 @@ Notes:
 | sôis  | hêis  | vâis  |
 | sôn   | hân   | vân   |
 | | | |
+
+<small>Prezenco</small>
 
 Notes:
 * *i* → ***e*** → *vâ*
@@ -1615,6 +1626,8 @@ Notes:
 | êran   | habían   | ían   |
 | | | |
 
+<small>Preterito</small>
+
 <!--v-->
 
 | | | |
@@ -1626,6 +1639,8 @@ Notes:
 | seréis  | haberéis  | iréis  |
 | serán   | haberán   | irán   |
 | | | |
+
+<small>Futuro</small>
 
 Notes:
 * tutregula
@@ -1641,6 +1656,8 @@ Notes:
 | seais  | habiais  | vadais  |
 | sean   | habian   | vadan   |
 | | | |
+
+<small>Konjunktivo de la Prezenco</small>
 
 Notes:
 * 🌎 sia
@@ -1660,6 +1677,8 @@ Notes:
 | fuessen   | habêssen   | vadêssen   |
 | | | |
 
+<small>Konjunktivo de la Preterito</small>
+
 Notes:
 * *fuéssemos* = *fuessĕmos*
 * *vadêsse* → *fuesse*
@@ -1677,6 +1696,8 @@ Notes:
 | serían   | haberían   | irían   |
 | | | |
 
+<small>Kondicionalo (Konjunktivo de la Futuro)</small>
+
 Notes:
 * tutregula
 
@@ -1692,6 +1713,8 @@ Notes:
 | fueron  | habêron  | vadêron  |
 | | | |
 
+<small>Perfekto de la Prezenco</small>
+
 <!--v-->
 
 | | | |
@@ -1704,6 +1727,8 @@ Notes:
 | fueran       | habêran       | vadêran       |
 | | | |
 
+<small>Perfekto de la Preterito</small>
+
 <!--v-->
 
 | | | |
@@ -1715,6 +1740,8 @@ Notes:
 | fuereis  | habereis  | vadereis  |
 | fueren   | habêren   | vadêren   |
 | | | |
+
+<small>Perfekto de la Futuro</small>
 
 <!--s-->
 -----
