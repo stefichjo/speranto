@@ -198,20 +198,6 @@ Notes:
 |-|:-:|
 | franc | *[fraŋk]* |
 | | |
-
-<!--v-->
-
-| | conservative/progressive |
-|-|:-:|
-| __franche__ | __*[fraŋke]*__ |
-| | |
-
-<!--v-->
-
-| | conservative/progressive |
-|-|:-:|
-| __franche__ | __*[fraŋke]*__ |
-| | |
 | francamente | *[fraŋkamente]* |
 | | |
 
@@ -354,6 +340,17 @@ Notes:
 | | |
 
 <!-- TODO Fakte, *[ten]* estus sencohava formo. Ĉu *[tene]* estas tra bruo? -->
+
+<!--v-->
+
+| | conservative | progressive |
+|-|-:|-|
+| jam | *[jam]* | *[ĵa]* |
+| | | |
+| novem | *[novem]* | *[nove]* |
+| | | |
+| decem | *[decem]* | *[dese]* |
+| | | |
 
 <!--s-->
 
@@ -1150,14 +1147,13 @@ Notes:
 |-:|-|
 | ama | ama ≠ sta amando |
 | | |
-| ha amate | amava ≠ ha amato <small>📖 amau</small> |
+| ha amate | amava ≠ ha amato <small>📖 amáu</small> |
 | | |
 | va amar | amara ≠ va amar |
 | | |
 
 Notes:
 * *es amante*
-* *amáu*
 
 <!--v-->
 
@@ -1174,24 +1170,24 @@ Notes:
 |-:|-|
 | (que) ama | (que) ame |
 | | |
-| (que) ha amate | (que) amava <small>📖 (que) amasse</small> |
+| (que) ha amate | (que) amava <small>📖 (que) amâsse</small> |
 | | |
 
 Notes:
-* *si amasse*
+* *(si) amâsse*
 
 <!--v-->
 
 | auxiliar | natural |
 |-:|-|
-| velle amar | amarea |
+| velle amar | amaréa |
 | | |
 
 <!--v-->
 
 | auxiliar | natural |
 |-:|-|
-| velle amar | __amaria__ |
+| velle amar | __amaría__ |
 | | |
 
 <!--v-->
@@ -1217,8 +1213,17 @@ Notes:
 | | |
 
 <!-- TODO *site*, *(es)sente* -->
-<!-- TODO: fakte, tio estas inkluzivebla en la sekcio "verboj", kaj fakte do registroj povas esti sinonimaj kun verboj. -->
 
+<!--v-->
+
+<small>En la natureca registro, uziĝas kelkaj apartaj vortoj anstataŭ regulaj konstruoj.</small>
+
+<!--v-->
+
+| auxiliar | natural |
+|-|-|
+| unesimo | primo |
+| | |
 
 <!--s-->
 
@@ -1275,7 +1280,9 @@ Notes:
 
 | | | |
 |-|-|-|
-| sê(te)! | habe(te)! | vâ!/ite! |
+| sê!   | habe!   | vâ!  |
+| | | |
+| sête! | habete! | ite! |
 | | | |
 
 <!--v-->
@@ -1317,6 +1324,9 @@ Notes:
 | amatis | videtis | sentitis |
 | amant  | vident  | sentint  |
 | | | |
+
+Notes:
+* progressive (-*l*-, -*n*-): *salio*, *tenio*, *venio*, *volio*
 
 <!--v-->
 
@@ -1378,15 +1388,27 @@ Notes:
 
 <!--v-->
 
-| | | | | |
-|-|-|-|-|-|
-| amabam   | videbam   | legebam   | sent**ie**bam   | cap**ie**bam   |
-| amabas   | videbas   | legebas   | sent**ie**bas   | cap**ie**bas   |
-| amabat   | videbat   | legebat   | sent**ie**bat   | cap**ie**bat   |
-| amabamus | videbamus | legebamus | sent**ie**bamus | cap**ie**bamus |
-| amabatis | videbatis | legebatis | sent**ie**batis | cap**ie**batis |
-| amabant  | videbant  | legebant  | sent**ie**bant  | cap**ie**bant  |
-| | | | | |
+| | | |
+|-|-|-|
+| amabam   | videbam   | sent**ie**bam   |
+| amabas   | videbas   | sent**ie**bas   |
+| amabat   | videbat   | sent**ie**bat   |
+| amabamus | videbamus | sent**ie**bamus |
+| amabatis | videbatis | sent**ie**batis |
+| amabant  | videbant  | sent**ie**bant  |
+| | | |
+
+<!--v-->
+
+| | |
+|-|-|
+| legebam   | cap**ie**bam   |
+| legebas   | cap**ie**bas   |
+| legebat   | cap**ie**bat   |
+| legebamus | cap**ie**bamus |
+| legebatis | cap**ie**batis |
+| legebant  | cap**ie**bant  |
+| | |
 
 <!--v-->
 
@@ -1536,8 +1558,8 @@ Notes:
 
 <!--v-->
 
-### Kondicionalo
-*(Konjunktivo de la Futuro)*
+### Konjunktivo de la Futuro
+*(Kondicionalo)*
 
 <!--v-->
 
@@ -1720,13 +1742,6 @@ Notes:
 
 | auxiliar | natural |
 |-|-|
-| unesimo | primo |
-| | |
-
-<!--v-->
-
-| auxiliar | natural |
-|-|-|
 | mi | ego ~ eo ~ io ~ jo ~ j' |
 | | |
 
@@ -1739,16 +1754,6 @@ Notes:
 <!--v-->
 
 ## Konservema kaj Progresema Prononcoj
-
-<!--v-->
-
-| conservative | progressive |
-|-:|:-|
-| jam *[jam]* | ja *[ĵa]* |
-| | |
-
-Notes:
-* novem, decem
 
 <!--v-->
 
@@ -1788,40 +1793,10 @@ Notes:
 | | conservative | progressive |
 |-|-|-|
 | *frato* | fratre | frate |
-| *fratino* | soror | sora |
+| *fratino* | sorore | sora |
 | | | |
 
-<small>La **progresemaj** formoj de *fratre* kaj *soror* estas malregulaj.</small>
-
-Notes:
-* *soror* povintus esti *sorore*.
-
-<!--v-->
-
-### haber
-
-<!--v-->
-
-| conservative | progressive |
-|-|-|
-| habe | ha |
-| | |
-
-<small>La **konservema** formo de *ha* estas *habe*.</small>
-
-<!--v-->
-
-### vader
-
-| conservative | progressive |
-|-|-|
-| vade | va |
-| | |
-
-| conservativissime | conservative |
-|-|-|
-| ir | vader |
-| | |
+<small>La **progresemaj** formoj de *fratre* kaj *sorore* estas malregulaj.</small>
 
 <!--s-->
 
@@ -1839,6 +1814,8 @@ Notes:
 | pretio <small>🌎 precio</small> |
 | pronuntiar <small>🌎 pronunciar</small> |
 | |
+
+<!-- TODO eble simple conservative/progressive? -->
 
 <!--v-->
 
@@ -2263,7 +2240,7 @@ Notes:
 
 | | conservative | progressive | progressivissime |
 |-|-|-|-|
-| *mi* | ego | eo | io ~ jo ~ j' |
+| *mi* | ego | eo | io ~ jo ~ ĵ' |
 | | | | |
 
 <small>La **natureca registro** de *mi* havas *ego* kiel **konserveman** formon, kaj *eo* kiel **progreseman** formon. En **progresemega** prononco, *eo* fariĝas *io*, *jo* aŭ *j'*.</small>
