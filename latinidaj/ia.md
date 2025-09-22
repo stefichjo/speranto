@@ -52,6 +52,28 @@ revealOptions:
 
 <!--v-->
 
+| | conservative | progressive |
+|-|-:|-|
+| girafa | *[giraffa]* | *[ĵirafa]* |
+| | | |
+| lit(t)era | *[litte-ra]* | *[lite-ra]* |
+| | | |
+| quatro | *[kuattro]* | *[kŭatro]* |
+| | | |
+
+<!--v-->
+
+| | conservative | progressive |
+|-|-:|-|
+| **giraffa** | *[giraffa]* | *[ĵirafa]* |
+| | | |
+| **littera** | *[litte-ra]* | *[lite-ra]* |
+| | | |
+| **quattro** | *[kuattro]* | *[kŭatro]* |
+| | | |
+
+<!--v-->
+
 <small>Inter vokaloj, unuobla *s* prononciĝas *[z]* en progresema prononco.</small>
 
 <!--v-->
@@ -72,10 +94,24 @@ revealOptions:
 <!--v-->
 
 | | conservative | progressive |
-|-|-:|:-|
+|-|-:|-|
 | texto | *[teksto]* | *[testo]* |
 | | | |
 | exemplo | *[egzemplo]* | *[ezemplo]* |
+| | | |
+
+<!--v-->
+
+| | conservative | progressive |
+|-|-:|-|
+| estranie | *[ekstrani-e]* | *[estranje]* |
+| | | |
+
+<!--v-->
+
+| | conservative | progressive |
+|-|-:|-|
+| **extranie** | *[ekstrani-e]* | *[estranje]* |
 | | | |
 
 <!--v-->
@@ -85,7 +121,7 @@ revealOptions:
 <!--v-->
 
 | | conservative | progressive |
-|-|-:|:-|
+|-|-:|-|
 | ex-presidento | *[ekspresidento]* | *[eksprezidento]* |
 | | | |
 
@@ -98,7 +134,7 @@ revealOptions:
 <!--v-->
 
 | | conservative | progressive |
-|-|-:|:-|
+|-|-:|-|
 | signo | *[signo]* | *[sinjo]* |
 | | | |
 
@@ -210,6 +246,9 @@ Notes:
 | __franchemente__ | __*[fraŋkemente]*__ |
 | | |
 
+Notes:
+* *ricche*
+
 <!--v-->
 
 | | conservative/progressive |
@@ -237,7 +276,7 @@ Notes:
 <!--v-->
 
 | | conservative | progressive |
-|-|-:|:-|
+|-|-:|-|
 | hora | *[hora]* | *[ora]* |
 | | | |
 
@@ -282,6 +321,9 @@ Notes:
 |-|-:|-|
 | vider | <small>🐌 *[videre]*</small> *[vider']* | *[vider']* |
 | | | |
+
+Notes:
+* conservative (lente): ***vider-lo***
 
 <!--v-->
 
@@ -347,10 +389,200 @@ Notes:
 |-|-:|-|
 | jam | *[jam]* | *[ĵa]* |
 | | | |
+| quam | *[kuam']* | *[kŭa]* |
+| | | |
+| | | |
 | novem | *[novem]* | *[nove]* |
 | | | |
 | decem | *[decem]* | *[dese]* |
 | | | |
+
+<!--v-->
+
+### Malregulaj Formoj
+
+<!--v-->
+
+<small>Kelkaj sufiksoj havas malregulan formon.</small>
+
+<!--v-->
+
+| | conservative | progressive |
+|-|-:|-|
+| -ese | *[ense]* | *[eze]* |
+| | | |
+
+Notes:
+* progressive: ***mese***
+
+<!--v-->
+
+| | conservative | progressive |
+|-|-:|-|
+| -itia | *[ici-a]* | *[isja]* |
+| -essa | *[essa]* | *[esa]* |
+| | | |
+
+Notes:
+* *justitia* ≠ *justessa*
+
+<!--v-->
+
+| | conservative | progressive |
+|-|-:|-|
+| -ari | *[arie]* | *[ari]* |
+| | | |
+| -ori | *[orie]* | *[ori]* |
+| | | |
+
+<!--v-->
+
+| | conservative | progressive |
+|-|-:|-|
+| -**arie** | *[arie]* | ***[arje]*** |
+| | | |
+| -**orie** | *[orie]* | ***[orje]*** |
+| | | |
+
+<!--v-->
+
+| | conservative | progressive |
+|-|-:|-|
+| -age | *[ati-ko]* | *[aĵe]* |
+| | | |
+
+<!--v-->
+
+| | conservative | progressive |
+|-|-:|-|
+| -**ajo** | *[ati-ko]* | ***[aĵo]*** |
+| | | |
+
+Notes:
+* *[ati-ko]* → *[adi-go]* → *[adjo]* → *[aĵo]*
+* *salvage* → ***salvaje***
+
+<!--v-->
+
+| | conservative | progressive |
+|-|-:|-|
+| mangiar | *[manduka-re]* | *[manĵar']* |
+| | | |
+
+<!--v-->
+
+| | conservative | progressive |
+|-|-:|-|
+| **manjar** | *[manduka-re]* | *[manĵar']* |
+| | | |
+
+<!--v-->
+
+<small>En kelkaj vortoj, intervokala *g* eliziiĝas.</small>
+
+<!--v-->
+
+| | conservative | progressive |
+|-|-:|-|
+| maestro | *[magistro]* | *[maestro]* |
+| | | |
+| pais | *[pagense]* | *[pais']* |
+| | | |
+| traino | *[tragi-no]* | *[trajno]* |
+| | | |
+
+<!--v-->
+
+| | conservative | progressive |
+|-|-:|-|
+| **maistro** | *[magistro]* | ***[majstro]*** |
+| | | |
+| **paese** | *[pagense]* | ***[paeze]*** |
+| | | |
+| traino | *[tragi-no]* | *[trajno]* |
+| | | |
+
+<!--v-->
+
+| | conservative | progressive |
+|-|-:|-|
+| ego | *[ego]* | ***[eo]*** <small>🏃 *[io]*</small> |
+| | | |
+
+<!--v-->
+
+<small>La progresemaj formoj de *fratre* kaj *sorore* estas malregulaj.</small>
+
+<!--v-->
+
+| conservative | progressive |
+|-|:-|
+| fratre | **frate** |
+| sorore | **sora** |
+| | |
+
+<!--v-->
+
+### Grekismoj
+
+<!--v-->
+
+| conservative | progressive |
+|-|-|
+| analysis *[anali-sis]* | analyse *[anali-ze]* |
+| | |
+| character *[karaktere]* | charactere *[karakte-re]* |
+| | |
+| aer *[aere]* | aere *[ae-re]* |
+| | |
+
+<!--v-->
+
+### Korektoj
+
+<!--v-->
+
+| progressive |
+|-|
+| anglese |
+| |
+| besonio |
+| |
+| maniera |
+| |
+
+<!--v-->
+
+| progressive |
+|-|
+| **inglese** |
+| |
+| **bisonio** |
+| |
+| **manera** |
+| |
+
+<!--v-->
+
+| progressive |
+|-|
+| par |
+| |
+| plure |
+| |
+| (in) van |
+| |
+
+<!--v-->
+
+| progressive |
+|-|
+| **paro** |
+| |
+| **plur** |
+| |
+| **(in) vano** |
+| |
 
 <!--s-->
 
@@ -424,8 +656,6 @@ Notes:
 |-|:-:|
 | cassa | *[kassa]* |
 | | |
-| mese | *[mese]* |
-| | |
 | prender | *[prende-re]* |
 | | |
 
@@ -435,10 +665,25 @@ Notes:
 |-|-:|-|
 | cassa | *[kapsa]* | *[kassa]* |
 | | | |
-| mese | *[mense]* | *[mese]* |
-| | | |
 | prender | *[prehende-re]* | *[prende-re]* |
 | | | |
+
+<!--v-->
+
+| | conservativissime | conservative |
+|-|-:|-|
+| comenciar | *[kominitiare]* | *[kominciare]* |
+| | | |
+
+<!--v-->
+
+| | conservativissime | conservative |
+|-|-:|-|
+| **cominciar** | *[kominitiare]* | *[kominciare]* |
+| | | |
+
+Notes:
+* ~~*comintiar*~~
 
 <!--v-->
 
@@ -468,57 +713,81 @@ Notes:
 
 ### Duonvokaloj
 
-<small>Kiam intervokala *te* prononciĝas *[sj]* en progresema prononco, ĝi prononciĝas *[s]* en progresema prononco.</small>
+<small>Radikofina postkonsonanta *[j]* eliziiĝas.</small>
 
 <!--v-->
 
 | | progressive | progressivissime |
 |-|-:|-|
-| placia | *[plasja]* | *[plasa]* |
+| altiar     | *[alsjar']*     | *[alsa']* |
 | | | |
-| spatio | *[spasjo]* | *[spasjo]* |
+| fortia     | *[forsja]*      | *[foĥsa]* |
 | | | |
-
-<!--v-->
-
-| | conservative | progressivissime |
-|-|-:|-|
-| placia | *[placi-a]* | *[plasa]* |
+| placia     | *[plasja]*      | *[plasa]* |
 | | | |
-| spatio | *[spaci-o]* | *[spasjo]* |
+| precio     | *[presjo]*      | *[pĥeso]* |
 | | | |
-
-<!--v-->
-
-| | conservative | progressivissime |
-|-|-:|-|
-| placia | <small>🐌 *[plate-a]*</small> *[placi-a]* | *[plasa]* |
+| pronunciar | *[pronuncjar']* | *[pĥonunsa']* |
 | | | |
-| spatio | <small>🐌 *[spati-o]*</small> *[spaci-o]* | *[spasjo]* |
+| spatio     | *[spasjo]*      | *[spaso]* |
 | | | |
 
-<!--v-->
-
-| | conservative | progressivissime |
-|-|-:|-|
-| placia | <small>🐌 *[plate-a]*</small> *[placi-a]* | <small>🐌 *[plasa]*</small> *[plasa]* |
-| | | |
-| spatio | <small>🐌 *[spati-o]*</small> *[spaci-o]* | <small>🐌 *[spasjo]*</small> *[spasjo]* |
-| | | |
-
-<!--v-->
-
-<small>*[j]* malantaŭ voĉa konsonanto fariĝas *[ĵ]* kaj asimilas la antaŭan voĉan konsonanton.</small>
+Notes:
+* progressivissime: *alçar*, *força*, *março*, *plaça*, *preço*, *spaço*, *terço*
 
 <!--v-->
 
 | | progressive | progressivissime |
 |-|-:|-|
-| hodie | *[odje]* | *[oĵe]* |
+| altiar         | *[alsjar']*     | *[alsa']*     |
+| | | |
+| fortia         | *[forsja]*      | *[foĥsa]*     |
+| | | |
+| **platia**     | *[plasja]*      | *[plasa]*     |
+| | | |
+| **pretio**     | *[presjo]*      | *[pĥeso]*     |
+| | | |
+| **pronuntiar** | *[pronuncjar']* | *[pĥonunsa']* |
+| | | |
+| spatio         | *[spasjo]*      | *[spaso]*     |
+| | | |
+
+Notes:
+* progressivissime: *plaça*, *preço*, *spaço*
+
+<!--v-->
+
+<small>Intervokala *[j]* fariĝas *[ĵ]*. Voĉa konsonanto eliziiĝas.</small>
+
+<!--v-->
+
+| | progressive | progressivissime |
+|-|-:|-|
+| maio  | *[majo]*  | *[maĵo]* |
+| | | |
+| | | |
+| basio | *[bazjo]* | *[baĵo]* |
 | | | |
 | cavia | *[kavja]* | *[kaĵa]* |
 | | | |
-| radio | *[radjo]* | *[ĥaĵo]* |
+| hodie | *[odje]*  | *[oĵe]* |
+| | | |
+
+Notes:
+* *radio*
+
+<!--v-->
+
+| | progressive | progressivissime |
+|-|-:|-|
+| camisa | *[kamiza]* | *[kamiza]* |
+| | | |
+
+<!--v-->
+
+| | progressive | progressivissime |
+|-|-:|-|
+| **camisia** | ***[kamizja]*** | ***[kamiĵa]*** |
 | | | |
 
 <!-- TODO Strange, ke kaĵ ne estas ĉaĵ -->
@@ -570,7 +839,7 @@ Notes:
 <!--v-->
 
 | | progressive | progressivissime |
-|-|-:|:-|
+|-|-:|-|
 | lupo | *[lupo]* | *[lubo]* |
 | | | |
 | cata | *[kata]* | *[kada]* |
@@ -583,7 +852,7 @@ Notes:
 <!--v-->
 
 | | progressive | progressivissime |
-|-|-:|:-|
+|-|-:|-|
 | lupo | *[lupo]* | <small>🐌 *[lubo]*</small> *[lubo]* |
 | | | |
 | cata | *[kata]* | <small>🐌 *[kada]*</small> *[kada]* |
@@ -603,14 +872,14 @@ Notes:
 <!--v-->
 
 | | progressive | progressivissime |
-|-|-:|:-|
+|-|-:|-|
 | labor | *[labor']* | *[lavoĥ']* |
 | | | |
 
 <!--v-->
 
 | | progressive | progressivissime |
-|-|-:|:-|
+|-|-:|-|
 | labor | *[labor']* | <small>🐌 *[lavor']*</small> *[lavoĥ']* |
 | | | |
 
@@ -636,7 +905,7 @@ Notes:
 <!--v-->
 
 | | progressive/progressivissime |
-|-|-|
+|-|:-:|
 | data | *[data]* |
 | | |
 | pote | *[pote]* |
@@ -657,12 +926,11 @@ Notes:
 |-|-:|-|
 | luce | *[luse]* | *[lus]* |
 | | | |
-| mense | *[meze]* | *[mes]* |
+| francese | *[franseze]* | *[fĥanses']* |
 | | | |
 
-<!-- TODO mese/mense? -->
 Notes:
-* menses *[mezes]*
+* francese *[fransezes]*
 
 <!--v-->
 
@@ -762,6 +1030,13 @@ Notes:
 
 <!--v-->
 
+| | progressive | progressivissime |
+|-|-:|-|
+| **cominciar** | *[kominsjare]* | *[komensa']* |
+| | | |
+
+<!--v-->
+
 #### ai, ae kaj au
 
 <small>*ai*, *ae* kaj *au* prononciĝas *[e]*, *[aj]* kaj *[o]*.</small>
@@ -777,6 +1052,9 @@ Notes:
 | cauda | *[kaŭda]* | *[koda]* |
 | | | |
 
+Notes:
+* Interlingua uzas la konserveman (grekisman) *aer*.
+
 <!--v-->
 
 | | progressive | progressivissime |
@@ -785,7 +1063,7 @@ Notes:
 | | | |
 | aere | *[ae-re]* | <small>🐌 *[ajre]*</small> *[ajĥe]* |
 | | | |
-| cauda | *[kaŭda]* | <small>🐌 *[koda]*</small> *[koda]* |
+| pauco | *[paŭko]* | <small>🐌 *[poko]*</small> *[poko]* |
 | | | |
 
 <!--v-->
@@ -796,11 +1074,12 @@ Notes:
 | | | |
 | aere | *[ae-re]* | <small>🐌 *[ajre]*</small> *[ajĥe]* <small>🏃 *[eĥ]*</small> |
 | | | |
-| cauda | *[kaŭda]* | <small>🐌 *[koda]*</small> *[koda]* |
+| pauco | *[paŭko]* | <small>🐌 *[poko]*</small> *[poko]* |
 | | | |
 
 Notes:
 * La kombino de la du prepozicioj *a* kaj *in* prononciĝas kun la diftongo *[aj]*, kiu prononciĝas *[e]*: *a-in* *[en]*.
+
 <!--v-->
 
 ### Sufiksoj
@@ -851,6 +1130,8 @@ Notes:
 | capite | *[kapi-te]* | *[kapo]*  |
 | | | |
 
+<!-- TODO do ĉi tie [p] restas, ĉu? kaj latere? -->
+
 <!--v-->
 
 #### -or-
@@ -881,15 +1162,15 @@ Notes:
 <!--v-->
 
 | | progressive | progressivissime |
-|-|-:|:-|
-| dextere | *[destere]* | *[destre]* |
+|-|-:|-|
+| dextere | *[deste-re]* | *[destre]* |
 | | | |
 
 <!--v-->
 
 | | progressive | progressivissime |
-|-|-:|:-|
-| dextere | *[destere]* | <small>🐌 *[destre]*</small> *[destre]* |
+|-|-:|-|
+| dextere | *[deste-re]* | <small>🐌 *[destre]*</small> *[destre]* |
 | | | |
 
 <!--v-->
@@ -899,7 +1180,7 @@ Notes:
 <!--v-->
 
 | | progressive | progressivissime |
-|-|-:|:-|
+|-|-:|-|
 | camera | *[kame-ra]* | *[ĉambĥa]* |
 | | |
 | tenere | *[tene-re]* | *[tendĥe]* |
@@ -908,7 +1189,7 @@ Notes:
 <!--v-->
 
 | | progressive | progressivissime |
-|-|-:|:-|
+|-|-:|-|
 | camera | *[kame-ra]* | <small>🐌 *[kamra]*</small> *[ĉambĥa]* |
 | | |
 | tenere | *[tene-re]* | <small>🐌 *[tenre]*</small> *[tendĥe]* |
@@ -916,6 +1197,84 @@ Notes:
 
 Notes:
 * 🏃 *[ŝãbĥ]*, 🏃 *[tẽdr]*
+
+<!--v-->
+
+#### -il-, -ul-
+
+<small>En la ne-akcentataj ŝajnsufiksoj -*il*- kaj -*ul*-, la vokalo eliziiĝas.</small>
+
+<!--v-->
+
+| | progressive | progressivissime |
+|-|-:|-|
+| obstaculo | *[obstaku-lo]* | *[obstaklo]* |
+| | | |
+
+<!--v-->
+
+<small>Rezultantaj *tl* kaj *dl* prononciĝas *[tĥ]* kaj *[ĵ]*.</small>
+
+<!--v-->
+
+| | progressive | progressivissime |
+|-|-:|-|
+| sedia | *[sedu-la]* | *[seĵa]* |
+| | | |
+| titulo | *[titu-lo]* | *[titĥo]* |
+| | | |
+
+<!--v-->
+
+| | progressive | progressivissime |
+|-|-:|-|
+| **sedula** | *[sedu-la]* | *[seĵa]* |
+| | | |
+| titulo | *[titu-lo]* | *[titĥo]* |
+| | | |
+
+Notes:
+* *sitila* *[siti-la]* → *[sitĥa]*
+* *vetule* *[vetu-le]* → *[vetĥe]*
+
+<!--v-->
+
+| | progressive |
+|-|-|
+| conilio | *[koniljo]* |
+| | |
+
+<!--v-->
+
+| | progressive |
+|-|-|
+| **cuniculo** | ***[kuniku-lo]*** |
+| | |
+
+<!--v-->
+
+| | progressive | progressivissime |
+|-|-:|-|
+| **cuniculo** | ***[kuniku-lo]*** | ***[kuniklo]*** |
+| | | |
+
+<!--v-->
+
+### Malregulaj Formoj
+
+<!--v-->
+
+| | progressive | progressivissime |
+|-|-:|-|
+| ego | ***[eo]*** | [jo] |
+| | | |
+
+<!--v-->
+
+| | progressive | progressivissime |
+|-|-:|-|
+| ego | ***[eo]*** <small>🏃 *[io]*</small> | [jo] <small>🏃 *[ĵ]*</small> |
+| | | |
 
 <!--s-->
 
@@ -927,20 +1286,20 @@ Notes:
 
 <!--v-->
 
-<small>Vortfina (duon-)vokalo eliziiĝas.</small>
+<small>Vortfina vokalo eliziiĝas.</small>
 
 <!--v-->
 
 | | progressive | progressivissime |
 |-|-:|-|
-| gratia | *[grasja]* | *[gĥasja]* |
+| gratia | *[grasja]* | *[gĥasa]* |
 | | | |
 
 <!--v-->
 
 | | progressive | progressivissime |
 |-|-:|-|
-| gratia | *[grasja]* | *[gĥasja]* <small>🏃 *[gĥas]*</small> |
+| gratia | *[grasja]* | *[gĥasa]* <small>🏃 *[gĥas]*</small> |
 | | | |
 
 Notes:
@@ -1040,7 +1399,7 @@ Notes:
 
 | | progressive | progressivissime |
 |-|-:|-|
-| sperantia | *[speransja]* | *[speĥansja]* |
+| sperantia | *[speransja]* | *[speĥansa]* |
 | | | |
 | station | *[stasjon']* | *[stasjon']* |
 | | | |
@@ -1051,7 +1410,7 @@ Notes:
 
 | | progressive | progressivissime |
 |-|-:|-|
-| sperantia | *[speransja]* | *[speĥansja]* <small>🏃 *[espeĥãs]*</small> |
+| sperantia | *[speransja]* | *[speĥansa]* <small>🏃 *[espeĥãs]*</small> |
 | | | |
 | station | *[stasjon']* | *[stasjon']* <small>🏃 *[estasjõ']*</small> |
 | | | |
@@ -1116,12 +1475,95 @@ Notes:
 | | |
 
 Notes:
-* pausa ≠ posa
+* cauda ≠ coda
 * liberar ≠ livrar
+* pausa ≠ posa
+
+<!--v-->
+
+| | progressive |
+|-|:-|
+| paupere | *[paŭpe-re]* <small>🏃 *[pobre]*</small> |
+| povre | *[povre]* |
+| | |
+
+<!--v-->
+
+| | progressive |
+|-|:-|
+| paupere | *[paŭpe-re]* <small>🏃 *[pobre]*</small> |
+| pobre | ***[pobre]*** |
+| | |
+
+Notes:
+* *pobre* = **kompatinda**
+* 🌎
+  * *paupere* = malriĉa
+  * *povre* = malriĉa; kompatinda
+
+<!--v-->
+
+| | progressive |
+|-|:-|
+| ascoltar | *[askoltar']* |
+| | |
+| inseniar | *[insenjar']* |
+| | |
+
+<!--v-->
+
+| | progressive |
+|-|:-|
+| **auscultar** | ***[aŭskultar']*** |
+| | |
+| **insignar** | ***[insinjar']*** |
+| | |
+
+<!--v-->
+
+<small>Eĉ internaciismoj devas respekti la fonemaron de Interlingua.</small>
+
+<!--v-->
+
+| | progressive |
+|-|-|
+| menu | *[meny']* |
+| | |
+
+<!--v-->
+
+| | progressive |
+|-|-|
+| menu | ***[menu']*** |
+| | |
 
 <!--s-->
+-----
+<!--s-->
 
-# Registroj
+<!--v-->
+
+| | |
+|-|-|
+| *sia* | su/lor → su |
+| | |
+| *unu (li)* | uno → un |
+| *neniu (li)* | necuno → necun |
+| | |
+
+<!--v-->
+
+| | |
+|-|-|
+| *alten* | in alto → a-in alto |
+| *malalten* | a basso → a-in basso |
+| | |
+
+<!--s-->
+-----
+<!--s-->
+
+# Fleksio
 
 <!--v-->
 
@@ -1203,7 +1645,7 @@ Notes:
 
 <!--v-->
 
-<small>En la natureca registro, uziĝas konservemecaj participoj. Kombine kun *haber* uziĝas la adverba formo je *-o*.</small>
+<small>En la natureca fleksio, uziĝas konservemecaj participoj. Kombine kun *haber* uziĝas la adverba formo je *-o*.</small>
 
 <!--v-->
 
@@ -1216,7 +1658,7 @@ Notes:
 
 <!--v-->
 
-<small>En la natureca registro, uziĝas kelkaj apartaj vortoj anstataŭ regulaj konstruoj.</small>
+<small>En la natureca fleksio, uziĝas kelkaj apartaj vortoj anstataŭ regulaj konstruoj.</small>
 
 <!--v-->
 
@@ -1740,173 +2182,13 @@ Notes:
 -----
 <!--s-->
 
-| auxiliar | natural |
-|-|-|
-| mi | ego ~ eo ~ io ~ jo ~ j' |
-| | |
-
-<!--s-->
------
-<!--s-->
-
-# Prononco …
-
-<!--v-->
-
-## Konservema kaj Progresema Prononcoj
-
-<!--v-->
-
-| conservative | progressive |
-|-:|:-|
-| quam | qua, quando, quanto |
-| | |
-
-<!--v-->
-
-## Progresemega Prononco
-
-<!--v-->
-
-| | progressive | progressivissime |
-|-|-|-|
-| obstaculo | *[obstaku-lo]* | *[obstakl(o)]* ~ *[obstak(jo)]* |
-| | | |
-| sedia | *[sedu-la]* | *[sedl(a)]* ~ *[sed(ja)]* |
-| | | |
-
-<small>Kiam rezultiĝas *l* malantaŭ konsonanto, *l* povas fariĝi *i*.</small>
-
-<!--v-->
-
-| | progressive | progressivissime |
-|-|-|-|
-| sitila | *[siti-la]* | *[sitl(a)]* ~ *[sik(ja)]* |
-| | | |
-| vetule | *[vetu-le]* | *[vetl(e)]* ~ *[vek(je)]* |
-| | | |
-
-<small>Tiam *[tl]* fariĝas *[kj]*</small>
-
-<!--v-->
-
-| | conservative | progressive |
-|-|-|-|
-| *frato* | fratre | frate |
-| *fratino* | sorore | sora |
-| | | |
-
-<small>La **progresemaj** formoj de *fratre* kaj *sorore* estas malregulaj.</small>
-
-<!--s-->
-
-# Modifoj
-
-<!--v-->
-
-## Ortografio
-
-<!--v-->
-
-| |
-|-|
-| finantia <small>🌎 financia</small> |
-| pretio <small>🌎 precio</small> |
-| pronuntiar <small>🌎 pronunciar</small> |
-| |
-
-<!-- TODO eble simple conservative/progressive? -->
-
-<!--v-->
-
-| |
-|-|
-| alçar <small>alciar <small>altĭar</small></small> <small>🌎 altiar</small> |
-| força <small>forcia <small>fortĭa</small></small> <small>🌎 fortia</small> |
-| março <small>marcio <small>martĭo</small></small> <small>🌎 martio</small> |
-| terço <small>tercio <small>tertĭo</small></small> <small>🌎 tertio</small> |
-| |
-
-<!--v-->
-
-| |
-|-|
-| extranie <small>🌎 estranie</small> |
-| |
-
-<!--v-->
-
-| |
-|-|
-| giraffa <small>🌎 girafa</small> |
-| quattro <small>🌎 quatro</small> |
-| |
-
-<!--v-->
-
-| auxiliar | natural |
-|-|-|
-| facer-lo <small>🌎 facer lo</small> | facerlo |
-| |
-
-<!--v-->
-
-## Anakronismoj
-
-<!--v-->
-
-| |
-|-|
-| bajo <small>🌎 basio, 🇻🇦 bāsiō</small> |
-| charactere <small>🌎 character, 🇻🇦 charactēre</small> |
-| majo <small>🌎 maio, 🇻🇦 Māiō</small> |
-| |
-
-<!--v-->
-
-| |
-|-|
-| -arie <small>🌎 -ari, 🇫🇷 -aire</small>
-| auscultar <small>🌎 ascoltar, 🇮🇹 ascoltare</small> |
-| camija <small>🌎 camisa, 🇪🇸🇵🇹 camisa</small> |
-| cuniculo <small>🌎 conilio, 🇮🇹 coniglio</small> |
-| manducar <small>🌎 manjar, 🇮🇹 mangiare, 🇫🇷 manger</small> |
-| pobre <small>🌎 povre, 🇫🇷 pauvre</small> |
-| ric <small>🌎 ric(c), 🇮🇹 ricca</small> |
-| -orie <small>🌎 -ori, 🇫🇷 -oire</small>
-| sedula <small>🌎 sedia, 🇮🇹 sedia</small> |
-| |
-
-Notes:
-* pobre = kompatinda; paupere = malriĉa; 🌎 povre = malriĉa, kompatinda
-
-<!--v-->
-
-### Vokalismoj
-
-<!--v-->
-
-| |
-|-|
-| bisonio <small>🌎 besonio, 🇫🇷 besoin</small> |
-| cominçar <small>🌎 comenciar, 🇫🇷 commencer, 🇪🇸 comenzar, 🇵🇹 começar</small> |
-| eo <small>🌎 io, 🇮🇹 io</small> |
-| -ia <small>🌎 -ea, 🇫🇷 -ait</small> |
-| insignar <small>🌎 inseniar, 🇪🇸 enseñar</small> |
-| maistro <small>🌎 maestro, 🇮🇹 maestro, 🇪🇸 maestro</small> |
-| paese <small>🌎 pais, 🇫🇷 pays, 🇪🇸🇵🇹 país</small> |
-| sea <small>🌎 sia, 🇮🇹 sia</small> |
-| |
-
-<!--v-->
-
 ## Kvazaŭ-substantivoj
 
 <!--v-->
 
 ### Numeraloj kaj Ordinaloj
 
-<small>Numeraloj estas malpli longaj en la **helpeca registro** ol en la **natureca registro**. (Krom *sex*, kiu estas senŝanĝa.) Simile, la **helpecaj** ordinaloj estas ofte bazitaj sur la **helpecaj** numeraloj.</small>
+<small>Numeraloj estas malpli longaj en la **helpeca fleksio** ol en la **natureca fleksio**. (Krom *sex*, kiu estas senŝanĝa.) Simile, la **helpecaj** ordinaloj estas ofte bazitaj sur la **helpecaj** numeraloj.</small>
 
 <!--v-->
 
@@ -1980,7 +2262,7 @@ Notes:
 | *ĉi tiu ...* | queste ... | | *ĉi tio* | questo |
 | | | | | |
 
-<small>En la **natureca registro**, la tabelvortoj *ille* kaj *iste* havas la formon *quella* kaj *questa*.</small>
+<small>En la **natureca fleksio**, la tabelvortoj *ille* kaj *iste* havas la formon *quella* kaj *questa*.</small>
 
 <!--v-->
 
@@ -2188,7 +2470,7 @@ Notes:
 | *li* | ille/lo |
 | | |
 
-<small>En enklitika pozicio, la **natureca registro** de *un* kaj *le* estas *uno* kaj *lo*.</small>
+<small>En enklitika pozicio, la **natureca fleksio** de *un* kaj *le* estas *uno* kaj *lo*.</small>
 
 <!--v-->
 
@@ -2206,7 +2488,7 @@ Notes:
 | *ĉi tiu (li)* | istu | iste |
 | | | |
 
-<small>Ankaŭ *un* kaj *iste* povas konduti kiel personaj pronomoj. En la **natureca registro**, la formoj *unu* kaj *istu* cedas al *un* kaj *iste*: *Mi frate e mi sora ha multe amicos. **Un** de mi frate ama **una** de mi sora.* La **natureca registro** de tia persona pronomo kiel *ista* tiam estas *esta*.</small>
+<small>Ankaŭ *un* kaj *iste* povas konduti kiel personaj pronomoj. En la **natureca fleksio**, la formoj *unu* kaj *istu* cedas al *un* kaj *iste*: *Mi frate e mi sora ha multe amicos. **Un** de mi frate ama **una** de mi sora.* La **natureca fleksio** de tia persona pronomo kiel *ista* tiam estas *esta*.</small>
 
 <!--v-->
 
@@ -2243,7 +2525,7 @@ Notes:
 | *mi* | ego | eo | io ~ jo ~ ĵ' |
 | | | | |
 
-<small>La **natureca registro** de *mi* havas *ego* kiel **konserveman** formon, kaj *eo* kiel **progreseman** formon. En **progresemega** prononco, *eo* fariĝas *io*, *jo* aŭ *j'*.</small>
+<small>La **natureca fleksio** de *mi* havas *ego* kiel **konserveman** formon, kaj *eo* kiel **progreseman** formon. En **progresemega** prononco, *eo* fariĝas *io*, *jo* aŭ *j'*.</small>
 
 <!--v-->
 
@@ -2257,108 +2539,7 @@ Notes:
 
 <!--s-->
 
-# Apendico: Korektoj
-
-<!--v-->
-
-| | |
-|-|-|
-| -age | *[aĵe]* → *[aĵ']* |
-| | |
-| menu | *[meny']* → *[menu']* |
-| | |
-
-Notes:
-* salvage
-
-<!--v-->
-
-| | |
-|-|-|
-| *mi estas surprizinta ilin* | io ha surprendite-les → io les ha surprendite |
-| *surprizinte ilin, mi ...* | surprendite-les, io ... |
-| | |
-
-<small>*io les ha surprendite* daŭre restas alternativo jam en **Tradicia Interlingvao**.</small>
-
-<!--v-->
-
-| | |
-|-|-|
-| *sia* | su/lor → su |
-| | |
-| *unu (li)* | uno → un |
-| *neniu (li)* | necuno → necun |
-| | |
-
-<!--v-->
-
-| | |
-|-|-|
-| *paro* | par → paro |
-| *vane* | in van → in vano |
-| | |
-
-<!--v-->
-
-| | |
-|-|-|
-| *aero* | aer(e) → aere |
-| *malmulte* | pauco/poco → poco |
-| *plura* | plure → plur |
-| | |
-
-<!--v-->
-
-| | |
-|-|-|
-| *alten* | in alto → a-in alto |
-| *malalten* | a basso → a-in basso |
-| | |
-
-<!--v-->
-
-| | |
-|-|-|
-| *dek* | dece → decem |
-| | |
-
-<!--v-->
-
-| | |
-|-|-|
-| *monato* | mense → mese |
-| *neniam* | jammais → jamais |
-| | |
-
-<!--v-->
-
-| | |
-|-|-|
-| *kvar* | quatro → quattro |
-| *litero* | litera → littera |
-| | |
-
-<!--v-->
-
-| | |
-|-|-|
-| *angla* | anglese → inglese |
-| *maniero* | maniera → manera |
-| | |
-
-<!--s-->
-
 # Stilo
-
-<!--v-->
-
-| conservative | progressive |
-|-|-|
-| analysis | analyse |
-| | |
-
-<small>Grekismoj …</small>
 
 <!--v-->
 
