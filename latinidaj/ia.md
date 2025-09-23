@@ -16,7 +16,7 @@ revealOptions:
 
 <!--s-->
 
-# Prononco
+# Stilo
 
 <!--s-->
 
@@ -39,7 +39,7 @@ revealOptions:
 
 ### Duoblaj Konsonantoj
 
-<small>Duoblaj konsonantoj estas prononcataj en la konservema prononco.</small>
+<small>Duoblaj konsonantoj estas prononcataj en la konservema stilo.</small>
 
 <!--v-->
 
@@ -74,7 +74,7 @@ revealOptions:
 
 <!--v-->
 
-<small>Inter vokaloj, unuobla *s* prononciĝas *[z]* en progresema prononco.</small>
+<small>Inter vokaloj, unuobla *s* prononciĝas *[z]* en progresema stilo.</small>
 
 <!--v-->
 
@@ -89,7 +89,7 @@ revealOptions:
 
 <!--v-->
 
-<small>Inter vokaloj, *x* prononciĝas *[gz]*. En progresema prononco, *[ks]* kaj *[gz]* fariĝas *[s]* kaj *[z]*.</small>
+<small>Inter vokaloj, *x* prononciĝas *[gz]*. En progresema stilo, *[ks]* kaj *[gz]* fariĝas *[s]* kaj *[z]*.</small>
 
 <!--v-->
 
@@ -129,7 +129,7 @@ revealOptions:
 
 ### gn
 
-<small>En progresema prononco, *gn* prononciĝas *nj*.</small>
+<small>En progresema stilo, *gn* prononciĝas *nj*.</small>
 
 <!--v-->
 
@@ -191,11 +191,11 @@ Notes:
 | | | |
 
 Notes:
-* Tra-brua progresema prononco estas rapida konservema prononco. Analogie, tra-brua progresemega prononco estas rapida progresema prononco.
+* Tra-brua progresema stilo estas rapida konservema stilo. Analogie, tra-brua progresemega stilo estas rapida progresema stilo.
 
 <!--v-->
 
-<small>Intervokala ne-akcentata *gi* estas *[ĵ]* en progresema prononco.</small>
+<small>Intervokala ne-akcentata *gi* estas *[ĵ]* en progresema stilo.</small>
 
 <!--v-->
 
@@ -338,7 +338,7 @@ Notes:
 
 <!--v-->
 
-<small>La ne-akcentata infinitiva finaĵo *-ere* fariĝas akcentata *-er* en la progresema prononco.</small>
+<small>La ne-akcentata infinitiva finaĵo *-ere* fariĝas akcentata *-er* en la progresema stilo.</small>
 
 <!--v-->
 
@@ -385,17 +385,56 @@ Notes:
 
 <!--v-->
 
-| | conservative | progressive |
-|-|-:|-|
-| jam | *[jam]* | *[ĵa]* |
-| | | |
-| quam | *[kuam']* | *[kŭa]* |
-| | | |
-| | | |
-| novem | *[novem]* | *[nove]* |
-| | | |
-| decem | *[decem]* | *[dese]* |
-| | | |
+### -m
+
+<small>Vortofina -*m* eliziiĝas. Tio respeguliĝas en la ortografio.</small>
+
+<!--v-->
+
+| conservative | progressive |
+|-|-|
+| decem | dece |
+| jam | ja |
+| novem | nove |
+| quam | qua |
+| | |
+
+Notes:
+* La konservemega formo de *quando* kaj *quanto* estas *quam*.
+
+<!--v-->
+
+<small>Por multaj oftaj vortetoj ekzistas aliaj versioj inter la konservema kaj la progresema stiloj.</small>
+
+<!--v-->
+
+| conservative | progressive |
+|-|-|
+| dum | durante que |
+| etiam | anque |
+| nam | proque |
+| nunquam | non ... jammais |
+| olim | un vice |
+| postquam | post que |
+| unquam | jammais |
+| | |
+
+<!-- TODO tamben -->
+
+<!--v-->
+
+| conservative | progressive |
+|-|-|
+| dum | durante que |
+| etiam | anque |
+| nam | proque |
+| nunquam | non ... **jamais** |
+| olim | un vice |
+| postquam | post que |
+| unquam | **jamais** |
+| | |
+
+<!-- TODO mais? -->
 
 <!--v-->
 
@@ -523,6 +562,52 @@ Notes:
 
 <!--v-->
 
+<small>Prepozicioj kaj konjunkcioj ofte havas apartajn formojn.</small>
+
+<!--v-->
+
+| conservative | progressive |
+|-|:-|
+| an | esque |
+| apud | presso |
+| ergo | dunque |
+| salvo | excepte |
+| sed | ma |
+| tamen | totevia |
+| | |
+
+<!--v-->
+
+| conservative | progressive |
+|-|:-|
+| juxta | proxime/vicin a |
+| | |
+
+<!--v-->
+
+| conservative | progressive |
+|-|:-|
+| juxta | **proximo**/**vicino** a |
+| | |
+
+<!-- TODO Ĉu estas prepozicio aŭ adjektivo? -->
+
+<!--v-->
+
+<small>Kelkaj adverboj havas apartajn formojn.</small>
+
+<!--v-->
+
+| conservative | progressive |
+|-|:-|
+| nimis | troppo |
+| postea | pois, alora |
+| satis | assatis |
+| subinde | sovente |
+| | |
+
+<!--v-->
+
 ### Grekismoj
 
 <!--v-->
@@ -584,11 +669,29 @@ Notes:
 | **(in) vano** |
 | |
 
+<!--v-->
+
+| progressive |
+|-|
+| in alto |
+| a basso |
+| |
+
+<!--v-->
+
+| progressive |
+|-|
+| **a in** alto |
+| **a in** basso |
+| |
+
+Notes:
+* *a in* *[ajn]*
+  * progressivissime: *[en]*
+
 <!--s-->
 
 ## Konservemega
-
-<small>latina akĉento</small>
 
 <!--v-->
 
@@ -620,7 +723,7 @@ Notes:
 
 <!--v-->
 
-<small>En malrapida **konservemega prononco**, la *i* en la ne-akcentata verba sufikso **it** ankoraŭ ne eliziiĝas. En **progresema prononco**, la *i* reaperas akcentata.</small>
+<small>En malrapida konservemega stilo, la *i* en la ne-akcentata verba sufikso -*it*- ankoraŭ ne eliziiĝas. En progresema stilo, la *i* reaperas akcentata.</small>
 
 <!--v-->
 
@@ -706,8 +809,6 @@ Notes:
 <!--s-->
 
 ## Progresemega
-
-<small>itala, franca, hispana, portugala akĉentoj</small>
 
 <!--v-->
 
@@ -1092,7 +1193,7 @@ Notes:
 
 #### -in-
 
-<small>Multaj substantivoj kun la neakcentata infikso -*in*- havas latinlingvan nominativon je -*en* aŭ je -*o* (aŭ *-is* en la kazo de *sanguis*). En ĉiuj kazoj, la finaĵo en la progresemega prononco estas -*e*.</small>
+<small>Multaj substantivoj kun la neakcentata infikso -*in*- havas latinlingvan nominativon je -*en* aŭ je -*o* (aŭ *-is* en la kazo de *sanguis*). En ĉiuj kazoj, la finaĵo en la progresemega stilo estas -*e*.</small>
 
 <!--v-->
 
@@ -1143,11 +1244,13 @@ Notes:
 | corpore | *[korpo-re]* | *[koĥpo]* |
 | latere | *[late-re]* | *[lado]* |
 | tempore | *[tempo-re]* | *[tempo]* |
-| termine | *[termi-ne]* | *[teĥo]* |
+| termine | *[termi-ne]* | *[teĥmo]* |
 | | | |
 
-<!-- TODO -or- -er- -in- ?? -->
-<!-- <small>Kiam la latinlingva nominativo finiĝas per -*us* (aŭ -*ut*, en la kazo de *caput*), la formo kun **progresema prononco** finiĝas per -*o*.</small> -->
+<!-- TODO latere -->
+<!-- TODO termine -->
+
+<!-- <small>Kiam la latinlingva nominativo finiĝas per -*us* (aŭ -*ut*, en la kazo de *caput*), la formo kun **progresema stilo** finiĝas per -*o*.</small> -->
 <!-- TODO femina pagina -->
 <!-- <small>La formoj de *femina* kaj *pagina* estas senŝanĝaj. Ilia latinlingva nominativo finiĝas per -*ina*.</small> -->
 <!-- TODO hospite limite -->
@@ -1441,7 +1544,7 @@ Notes:
 
 <!--v-->
 
-<small>Radikokomence, la *f* eliziiĝas en rapida prononco.</small>
+<small>Radikokomence, la *f* eliziiĝas en rapida progresemega stilo.</small>
 
 <!--v-->
 
@@ -1538,30 +1641,6 @@ Notes:
 | | |
 
 <!--s-->
------
-<!--s-->
-
-<!--v-->
-
-| | |
-|-|-|
-| *sia* | su/lor → su |
-| | |
-| *unu (li)* | uno → un |
-| *neniu (li)* | necuno → necun |
-| | |
-
-<!--v-->
-
-| | |
-|-|-|
-| *alten* | in alto → a-in alto |
-| *malalten* | a basso → a-in basso |
-| | |
-
-<!--s-->
------
-<!--s-->
 
 # Fleksio
 
@@ -1582,6 +1661,11 @@ Notes:
 | | |
 | va amar | amara ≠ va amar |
 | | |
+
+Notes:
+* Interlingua havas la formon *es amante*.
+* Interlingua havas kaj la formon *amava* kaj la formon *ha amate*, sed ili estas sinonimaj.
+* Interlingua havas kaj la formon *amara* kaj la formon *va amar*, sed ili estas sinonimaj.
 
 <!--v-->
 
@@ -1631,6 +1715,9 @@ Notes:
 |-:|-|
 | velle amar | __amaría__ |
 | | |
+
+Notes:
+* Interlingua havas la formon *amarea*.
 
 <!--v-->
 
@@ -2179,16 +2266,14 @@ Notes:
 | | | |
 
 <!--s-->
------
-<!--s-->
 
-## Kvazaŭ-substantivoj
+## Deklinacio
 
 <!--v-->
 
 ### Numeraloj kaj Ordinaloj
 
-<small>Numeraloj estas malpli longaj en la **helpeca fleksio** ol en la **natureca fleksio**. (Krom *sex*, kiu estas senŝanĝa.) Simile, la **helpecaj** ordinaloj estas ofte bazitaj sur la **helpecaj** numeraloj.</small>
+<small>Numeraloj estas malpli longaj en la helpeca fleksio ol en la natureca fleksio. (Krom *sex*, kiu estas senŝanĝa.) Simile, la helpecaj ordinaloj estas ofte bazitaj sur la helpecaj numeraloj.</small>
 
 <!--v-->
 
@@ -2214,16 +2299,51 @@ Notes:
 
 Notes:
 * Notu ke anstataŭ ~trianta~ formiĝas *trenta*.
+* Interlingua uzas la naturecajn formojn.
 
 <!--v-->
 
-| | | | |
+| auxiliar | natural | | |
 |-|-|-|-|
 | cent | cento | | centesime |
 | mill | mille | | millesime |
 | | | | |
 
-<small>Notu ke la **naturecaj** numeraloj por *cent* kaj *mil* estas substantivoj, kiuj ricevas la finaĵon -*s*: *duo centos*, *octo milles*.</small>
+<small>La naturecaj numeraloj por *cent* kaj *mil* estas substantivoj, kiuj ricevas la finaĵon -*s*: *duo centos*, *octo milles*.</small>
+
+<!--v-->
+…
+<!--v-->
+
+### Personaj Pronomoj
+
+<!--v-->
+
+| | auxiliar | natural |
+|-|-:|-|
+| **conservative** | su | su/lor |
+| | | |
+| **progressive**  | su | su |
+| | | |
+
+Notes:
+* Interlingua havas la formon *lor*.
+
+<!--s-->
+-----
+<!--s-->
+
+# …
+
+| | |
+|-|-|
+| *unu (li)* | uno → un |
+| *neniu (li)* | necuno → necun |
+| | |
+
+<!--v-->
+
+## Kvazaŭ-substantivoj
 
 <!--v-->
 
@@ -2285,9 +2405,6 @@ Notes:
 
 | | conservativissime | conservative |
 |-|-|-|
-| *kiam* | quam | quando |
-| *kiom* | quam | quanto |
-| | | |
 | *kiel* | quo-modo | como |
 | | | |
 
@@ -2303,7 +2420,7 @@ Notes:
 
 <small>La tabelvorta sufikso *-que* uziĝas por formi tabelvorton tradukeblan per *kelk-* ~ *plur-* ~ *ĉ-*: *ubi-que* (*kelk-loke* ~ *plur-loke* ~ *ĉie*), *qual-que* (*kelk-specaj* ~ *plur-specaj* ~ *ĉiaj*)</small>
 
-<small>La **progresema** prononco de *qualque* estas *[kŭalke]*.</small>
+<small>La progresema prononco de *qualque* estas *[kŭalke]*.</small>
 
 <!--v-->
 
@@ -2516,19 +2633,6 @@ Notes:
 
 <!--v-->
 
-| natural |
-|-|
-| |
-
-| | conservative | progressive | progressivissime |
-|-|-|-|-|
-| *mi* | ego | eo | io ~ jo ~ ĵ' |
-| | | | |
-
-<small>La **natureca fleksio** de *mi* havas *ego* kiel **konserveman** formon, kaj *eo* kiel **progreseman** formon. En **progresemega** prononco, *eo* fariĝas *io*, *jo* aŭ *j'*.</small>
-
-<!--v-->
-
 | | progressive | progressivissime |
 |-|-|-|
 | *nia* | nostre | nosse |
@@ -2536,10 +2640,6 @@ Notes:
 | | | |
 
 <small>La **progresemegaj** formoj *nostre* kaj *vostre* estas *nosse* kaj *vosse*.</small>
-
-<!--s-->
-
-# Stilo
 
 <!--v-->
 
@@ -2570,50 +2670,14 @@ Notes:
 |-|-|
 | illac/ibi | la |
 | semper | sempre |
-| unquam | jamais <small>🌎 jammais</small> |
-| nunquam | non ... jamais <small>🌎 non ... jammais</small> |
 | omne | tote |
-| olim | un vice |
 | | |
 
 <!--v-->
-
-<!-- TODO tamben -->
-
-| classiche | moderne |
-|-|-|
-| etiam | anque |
-| sed | ma |
-| tamen | totevia |
-| ergo | dunque |
-| dum | durante que |
-| juxta | proxime/vicin a |
-| salvo | excepte |
-| apud | presso |
-| nam | proque |
-| postquam | post que |
-| an | esque |
-| | |
-
-<!--v-->
-
-| classiche | moderne |
-|-|-|
-| uxor | sposa |
-| disveloppar | developpar |
-| | |
-
-<!--v-->
-
-| classiche | moderne |
-|-|-|
-| nimis | troppo |
-| subinde | sovente |
-| postea | pois, alora |
-| satis | assatis |
-| | |
 
 <!-- TODO -->
+<!-- disveloppar, developpar -->
+<!-- uxor, sposa -->
 <!-- i.e. id es (latinaĵo, cetere) -->
 <!-- espaventar -->
 <!-- ġ: exaġiar/exağiar essayar (exagium) -->
