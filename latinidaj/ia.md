@@ -392,7 +392,7 @@ Notes:
 <!--v-->
 
 | conservative | progressive |
-|-|-|
+|-:|-|
 | decem | dece |
 | jam | ja |
 | novem | nove |
@@ -409,7 +409,7 @@ Notes:
 <!--v-->
 
 | conservative | progressive |
-|-|-|
+|-:|-|
 | dum | durante que |
 | etiam | anque |
 | nam | proque |
@@ -424,7 +424,7 @@ Notes:
 <!--v-->
 
 | conservative | progressive |
-|-|-|
+|-:|-|
 | dum | durante que |
 | etiam | anque |
 | nam | proque |
@@ -2340,6 +2340,8 @@ Notes:
 | *unu (li)* | uno → un |
 | *neniu (li)* | necuno → necun |
 | | |
+
+<!-- TODO malklaras -->
 
 <!--v-->
 
