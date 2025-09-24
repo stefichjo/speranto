@@ -2381,7 +2381,7 @@ Notes:
 |-|-|-|-|-|
 | *tiu ...* | quella ... | | *tio* | quello |
 | | | | | |
-| *ĉi tiu ...* | queste ... | | *ĉi tio* | questo |
+| *ĉi tiu ...* | questa ... | | *ĉi tio* | questo |
 | | | | | |
 
 <small>En la **natureca fleksio**, la tabelvortoj *ille* kaj *iste* havas la formon *quella* kaj *questa*.</small>
