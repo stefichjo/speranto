@@ -2322,11 +2322,6 @@ Notes:
 
 <!--s-->
 
-<!-- ♀ ♂ ☿ -->
-<!-- ⚧ ⚥ ⚲ -->
-<!-- ♂️ ♀️ ⚧️ -->
-<!-- 🚺 🚹 🚻 🚾 🚼 -->
-
 ### Demonstrativoj, Artikoloj kaj Pronomoj
 
 <!--v-->
@@ -2336,9 +2331,11 @@ Notes:
 
 | | | | |
 |-|-|-|-|
-| 🚺 | ille …, illa | | un …, una |
-| 🚹 | ille …, ille | | un …, uno |
-| 🚾 | ille …, illo | | un …, un  |
+| 🚺🚹🚾 | ille … | | un … |
+| | | | |
+| 🚺 | illa | | una |
+| 🚹 | ille | | uno |
+| 🚾 | illo | | un  |
 | | | | |
 
 <!--v-->
@@ -2348,9 +2345,11 @@ Notes:
 
 | | | | |
 |-|-|-|-|
-| 🚺 | ille …, illa | | un …, una     |
-| 🚹 | ille …, ille | | un …, **un**  |
-| 🚾 | ille …, illo | | un …, **uno** |
+| 🚺🚹🚾 | ille … | | un … |
+| | | | |
+| 🚺 | illa | | una     |
+| 🚹 | ille | | **un**  |
+| 🚾 | illo | | **uno** |
 | | | | |
 
 <!-- TODO un≠une (conservative) -->
@@ -2359,22 +2358,34 @@ Notes:
 Notes:
 * demonstrativo ⇒ articulo: *ill-* ⇒ *l-*
   * (+ uso pronominal)
-* Le uso pronominal de *ille* e *un* es possibile anque pro antecedentes feminin, masculin e neutre.
+* Le uso pronominal de *ille* e *un* es possibile anque pro antecedentes feminin, masculin o neutre.
 * *il*, *on*
+* 1 = *un* → ***uno***
 
 <!--v-->
 
-| | auxiliar | natural | | auxiliar | natural |
-|-|-:|-|-|-:|-|
-| 🚺 | ille …, illa | illa (…) | | un …, una | una (…) |
-| 🚹 | ille …, ille | illo (…) | | un …, un  | uno (…) |
-| 🚾 | ille …, illo | illo (…) | | un …, uno | uno (…) |
-| | | | | | |
+| auxiliar |
+|:-:|
 
-Notes:
-* `?` auxiliar 🚾
-  * *ille* → *illu*
-  * *un* → *unu*
+| | | | |
+|-|-|-|-|
+| 🚺🚹🚾 | ille … | | un … |
+| | | | |
+| 🚺 | illa | | una |
+| 🚹 | ille | | un  |
+| 🚾 | illo | | uno |
+| | | | |
+
+<!--v-->
+
+| natural |
+|:-:|
+
+| | | | |
+|-|-|-|-|
+| 🚺   | illa (…) | | una (…) |
+| 🚹🚾 | illo (…) | | uno (…) |
+| | | | |
 
 <!--v-->
 
