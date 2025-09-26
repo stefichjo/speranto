@@ -1721,6 +1721,200 @@ Notes:
 
 <!--s-->
 
+## Deklinacio
+<!-- TODO super konjugacion -->
+<!--s-->
+
+### Adjektivoj
+
+<!--v-->
+
+| auxiliar | natural |
+|-:|-|
+| grande | grande, grandes |
+| | |
+
+<!--v-->
+
+| auxiliar | natural |
+|-:|-|
+| 🚺🚹🚾 alte | 🚺 alta(s) / 🚹🚾 alto(s) |
+| | |
+
+Notes:
+* La finaĵo -*o* estas adverba: *alto-parlator*. Ĝi ankaŭ estas la bazo por derivitaj substantivoj: *in alto*.
+
+<!--v-->
+
+| auxiliar | natural |
+|-:|-|
+| ha amate | ha amato |
+| | |
+
+<!--v-->
+
+| auxiliar | natural |
+|-:|-|
+| ha facite | ha facto |
+| | |
+
+<!--v-->
+
+| auxiliar | natural |
+|-:|-|
+| ha venite | 🚺 es venita / 🚹🚾 es venito |
+| | |
+
+<!-- TODO *site*, *(es)sente* -->
+
+<!--s-->
+
+### Demonstrativoj kaj Artikoloj
+
+<!--v-->
+
+| Interlingua |
+|:-:|
+
+| | | | |
+|-|-|-|-|
+| 🚺🚹🚾 | iste …, ille … | | un … |
+| | | | |
+| 🚺 | ista, illa | | una |
+| 🚹 | iste, ille | | uno |
+| 🚾 | isto, illo | | un  |
+| | | | |
+
+<!--v-->
+
+| Interlingua |
+|:-:|
+
+| | | | |
+|-|-|-|-|
+| 🚺🚹🚾 | iste …, ille … | | un … |
+| | | | |
+| 🚺 | ista, illa | | una     |
+| 🚹 | iste, ille | | **un**  |
+| 🚾 | isto, illo | | **uno** |
+| | | | |
+
+Notes:
+* demonstrativo ⇒ articulo: *ill-* ⇒ *l-*
+  * (+ uso pronominal)
+* Le uso pronominal de *ille* e *un* es possibile anque pro antecedentes feminin, masculin o neutre.
+* *il*, *on*
+* 1 = *un* → *un* …, ***uno***
+
+<!--v-->
+
+| auxiliar (conservative) |
+|:-:|
+
+| | | | |
+|-|-|-|-|
+| 🚺🚹🚾 | iste …, ille … | | une … |
+| | | | |
+| 🚺 | ista, illa | | una |
+| 🚹 | iste, ille | | une |
+| 🚾 | isto, illo | | uno |
+| | | | |
+
+| natural (conservative) |
+|:-:|
+
+| | | | |
+|-|-|-|-|
+| 🚺   | ista (…), illa (…) | | una (…) |
+| 🚹🚾 | isto (…), illo (…) | | un …, uno |
+| | | | |
+
+<!--v-->
+
+| auxiliar (progressive) |
+|:-:|
+
+| | | | |
+|-|-|-|-|
+| 🚺🚹🚾 | queste …, quelle … | | un … |
+| | | | |
+| 🚺 | questa, quella, ella | | una |
+| 🚹 | queste, quelle, elle | | un  |
+| 🚾 | questo, quello, ello | | uno |
+| | | | |
+
+| natural (progressive) |
+|:-:|
+
+| | | | |
+|-|-|-|-|
+| 🚺   | questa (…), quella (…), ella | | una (…) |
+| 🚹🚾 | questo (…), quello (…), ello | | un …, uno |
+| | | | |
+
+<!--v-->
+
+### Numeraloj kaj Ordinaloj
+
+<small>Numeraloj estas malpli longaj en la helpeca fleksio ol en la natureca fleksio. (Krom *sex*, kiu estas senŝanĝa.) Simile, la helpecaj ordinaloj estas ofte bazitaj sur la helpecaj numeraloj.</small>
+
+<!--v-->
+
+| auxiliar | natural | | auxiliar | natural | | |
+|-|-|-|-|-|-|-|
+| un   | un      | | unesime   | prima   | | - |
+| du   | duo     | | duesime   | secunda | | vinti |
+| tri  | tres    | | triesime  | tercia  | | trenta |
+| quar | quattro | | quaresime | quarta  | | quaranta |
+| quin | cinque  | | quinesime | quinta  | | cinquanta |
+| | | | | | | |
+
+Notes:
+* *un* …, *uno*
+
+<!--v-->
+
+| auxiliar | natural | | auxiliar | natural | | |
+|-|-|-|-|-|-|-|
+| sex  | sex     | | sexesime  | sexta   | | sexanta |
+| sep  | septe   | | septesime | septima | | septanta |
+| oc   | octo    | | octesime  | octava  | | octanta |
+| nou  | novem   | | novesime  | nona    | | novanta |
+| dec  | decem   | | decesime  | decima  | | - |
+| | | | | | | |
+
+Notes:
+* Notu ke anstataŭ ~trianta~ formiĝas *trenta*.
+* Interlingua uzas la naturecajn formojn.
+
+<!--v-->
+
+| auxiliar | natural | | |
+|-|-|-|-|
+| cent | cento | | centesime |
+| mill | mille | | millesime |
+| | | | |
+
+<small>La naturecaj numeraloj por *cent* kaj *mil* estas substantivoj, kiuj ricevas la finaĵon -*s*: *duo centos*, *octo milles*.</small>
+
+<!--s-->
+
+### Personaj Pronomoj
+
+<!--v-->
+
+| | auxiliar | natural |
+|-|-:|-|
+| **conservative** | su | su/lor |
+| | | |
+| **progressive**  | su | su |
+| | | |
+
+Notes:
+* Interlingua havas la formon *lor*.
+
+<!--s-->
+
 ## Konjugacio
 
 <!--v-->
@@ -2230,199 +2424,6 @@ Notes:
 | fueren   | habêren   | vadêren   |
 | | | |
 
-<!--s-->
-
-## Deklinacio
-<!-- TODO super konjugacion -->
-<!--s-->
-
-### Adjektivoj
-
-<!--v-->
-
-| auxiliar | natural |
-|-:|-|
-| grande | grande, grandes |
-| | |
-
-<!--v-->
-
-| auxiliar | natural |
-|-:|-|
-| 🚺🚹🚾 alte | 🚺 alta(s) / 🚹🚾 alto(s) |
-| | |
-
-Notes:
-* La finaĵo -*o* estas adverba: *alto-parlator*. Ĝi ankaŭ estas la bazo por derivitaj substantivoj: *in alto*.
-
-<!--v-->
-
-| auxiliar | natural |
-|-:|-|
-| ha amate | ha amato |
-| | |
-
-<!--v-->
-
-| auxiliar | natural |
-|-:|-|
-| ha facite | ha facto |
-| | |
-
-<!--v-->
-
-| auxiliar | natural |
-|-:|-|
-| ha venite | 🚺 es venita / 🚹🚾 es venito |
-| | |
-
-<!-- TODO *site*, *(es)sente* -->
-
-<!--s-->
-
-### Demonstrativoj kaj Artikoloj
-
-<!--v-->
-
-| Interlingua |
-|:-:|
-
-| | | | |
-|-|-|-|-|
-| 🚺🚹🚾 | iste …, ille … | | un … |
-| | | | |
-| 🚺 | ista, illa | | una |
-| 🚹 | iste, ille | | uno |
-| 🚾 | isto, illo | | un  |
-| | | | |
-
-<!--v-->
-
-| Interlingua |
-|:-:|
-
-| | | | |
-|-|-|-|-|
-| 🚺🚹🚾 | iste …, ille … | | un … |
-| | | | |
-| 🚺 | ista, illa | | una     |
-| 🚹 | iste, ille | | **un**  |
-| 🚾 | isto, illo | | **uno** |
-| | | | |
-
-Notes:
-* demonstrativo ⇒ articulo: *ill-* ⇒ *l-*
-  * (+ uso pronominal)
-* Le uso pronominal de *ille* e *un* es possibile anque pro antecedentes feminin, masculin o neutre.
-* *il*, *on*
-* 1 = *un* → *un* …, ***uno***
-
-<!--v-->
-
-| auxiliar (conservative) |
-|:-:|
-
-| | | | |
-|-|-|-|-|
-| 🚺🚹🚾 | iste …, ille … | | une … |
-| | | | |
-| 🚺 | ista, illa | | una |
-| 🚹 | iste, ille | | une |
-| 🚾 | isto, illo | | uno |
-| | | | |
-
-| natural (conservative) |
-|:-:|
-
-| | | | |
-|-|-|-|-|
-| 🚺   | ista (…), illa (…) | | una (…) |
-| 🚹🚾 | isto (…), illo (…) | | un …, uno |
-| | | | |
-
-<!--v-->
-
-| auxiliar (progressive) |
-|:-:|
-
-| | | | |
-|-|-|-|-|
-| 🚺🚹🚾 | queste …, quelle … | | un … |
-| | | | |
-| 🚺 | questa, quella, ella | | una |
-| 🚹 | queste, quelle, elle | | un  |
-| 🚾 | questo, quello, ello | | uno |
-| | | | |
-
-| natural (progressive) |
-|:-:|
-
-| | | | |
-|-|-|-|-|
-| 🚺   | questa (…), quella (…), ella | | una (…) |
-| 🚹🚾 | questo (…), quello (…), ello | | un …, uno |
-| | | | |
-
-<!--v-->
-
-### Numeraloj kaj Ordinaloj
-
-<small>Numeraloj estas malpli longaj en la helpeca fleksio ol en la natureca fleksio. (Krom *sex*, kiu estas senŝanĝa.) Simile, la helpecaj ordinaloj estas ofte bazitaj sur la helpecaj numeraloj.</small>
-
-<!--v-->
-
-| auxiliar | natural | | auxiliar | natural | | |
-|-|-|-|-|-|-|-|
-| un   | un      | | unesime   | prima   | | - |
-| du   | duo     | | duesime   | secunda | | vinti |
-| tri  | tres    | | triesime  | tercia  | | trenta |
-| quar | quattro | | quaresime | quarta  | | quaranta |
-| quin | cinque  | | quinesime | quinta  | | cinquanta |
-| | | | | | | |
-
-Notes:
-* *un* …, *uno*
-
-<!--v-->
-
-| auxiliar | natural | | auxiliar | natural | | |
-|-|-|-|-|-|-|-|
-| sex  | sex     | | sexesime  | sexta   | | sexanta |
-| sep  | septe   | | septesime | septima | | septanta |
-| oc   | octo    | | octesime  | octava  | | octanta |
-| nou  | novem   | | novesime  | nona    | | novanta |
-| dec  | decem   | | decesime  | decima  | | - |
-| | | | | | | |
-
-Notes:
-* Notu ke anstataŭ ~trianta~ formiĝas *trenta*.
-* Interlingua uzas la naturecajn formojn.
-
-<!--v-->
-
-| auxiliar | natural | | |
-|-|-|-|-|
-| cent | cento | | centesime |
-| mill | mille | | millesime |
-| | | | |
-
-<small>La naturecaj numeraloj por *cent* kaj *mil* estas substantivoj, kiuj ricevas la finaĵon -*s*: *duo centos*, *octo milles*.</small>
-
-<!--s-->
-
-### Personaj Pronomoj
-
-<!--v-->
-
-| | auxiliar | natural |
-|-|-:|-|
-| **conservative** | su | su/lor |
-| | | |
-| **progressive**  | su | su |
-| | | |
-
-Notes:
-* Interlingua havas la formon *lor*.
 
 <!--s-->
 -----
