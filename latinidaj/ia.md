@@ -1719,41 +1719,6 @@ Notes:
 Notes:
 * Interlingua havas la formon *amarea*.
 
-<!--v-->
-
-| auxiliar | natural |
-|-:|-|
-| alte | alta(s) / alto(s) |
-| | |
-| grande | grande(s) |
-| | |
-
-<!-- TODO amate → amata/amato (amato de le personas, ille decideva...) -->
-
-<!--v-->
-
-<small>En la natureca fleksio, uziĝas konservemecaj participoj. Kombine kun *haber* uziĝas la adverba formo je *-o*.</small>
-
-<!--v-->
-
-| auxiliar | natural |
-|-:|-|
-| ha facite | ha facto |
-| | |
-
-<!-- TODO *site*, *(es)sente* -->
-
-<!--v-->
-
-<small>En la natureca fleksio, uziĝas kelkaj apartaj vortoj anstataŭ regulaj konstruoj.</small>
-
-<!--v-->
-
-| auxiliar | natural |
-|-|-|
-| unesimo | primo |
-| | |
-
 <!--s-->
 
 ## Konjugacio
@@ -2268,6 +2233,50 @@ Notes:
 <!--s-->
 
 ## Deklinacio
+<!-- TODO super konjugacion -->
+<!--s-->
+
+### Adjektivoj
+
+<!--v-->
+
+| auxiliar | natural |
+|-:|-|
+| grande | grande, grandes |
+| | |
+
+<!--v-->
+
+| auxiliar | natural |
+|-:|-|
+| 🚺🚹🚾 alte | 🚺 alta(s) / 🚹🚾 alto(s) |
+| | |
+
+Notes:
+* La finaĵo -*o* estas adverba: *alto-parlator*. Ĝi ankaŭ estas la bazo por derivitaj substantivoj: *in alto*.
+
+<!--v-->
+
+| auxiliar | natural |
+|-:|-|
+| ha amate | ha amato |
+| | |
+
+<!--v-->
+
+| auxiliar | natural |
+|-:|-|
+| ha facite | ha facto |
+| | |
+
+<!--v-->
+
+| auxiliar | natural |
+|-:|-|
+| ha venite | 🚺 es venita / 🚹🚾 es venito |
+| | |
+
+<!-- TODO *site*, *(es)sente* -->
 
 <!--s-->
 
