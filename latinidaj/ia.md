@@ -1828,12 +1828,36 @@ Notes:
 
 <!--v-->
 
-| | auxiliar | natural |
-|-|-:|-|
-| **conservative** | su | su/lor |
-| | | |
-| **progressive**  | su | su |
-| | | |
+<small>En enklitika pozicio, *ill-* fariĝas *l-*.</small>
+
+<!--v-->
+
+| |
+|-|
+| videre illa → vider-la |
+| |
+
+<!--v-->
+
+<small>En enklitika pozicio, *a ill-* fariĝas *li*.</small>
+
+<!--v-->
+
+| |
+|-|
+| **eo** da illo a illa. → **eo** li-lo da. |
+| |
+
+<!--v-->
+
+<small>Anstataŭ *de ill-*, uzeblas *su*.</small>
+
+<!--v-->
+
+| |
+|-|
+| le libros de illas → su libros |
+| |
 
 Notes:
 * Interlingua havas la formon *lor*.
@@ -2573,15 +2597,6 @@ Notes:
 | *kiel* | como | | *tiel* | si |
 | *kie* | ubi | | *tie* | ibi |
 | | | | | |
-
-<!--v-->
-
-| | |
-|-|-|
-| *al li/ŝi/ĝi/ili* | li = a ille(s), a illa(s), a illo(s) |
-| | |
-
-<small>En enklitika pozicio, dativa triapersona frazaĵo fariĝas *li*: *eo da illo **a illa**.* → *eo **li**-lo da.*</small>
 
 <!--v-->
 
