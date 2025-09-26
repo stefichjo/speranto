@@ -2331,11 +2331,11 @@ Notes:
 
 | | | | |
 |-|-|-|-|
-| 🚺🚹🚾 | ille … | | un … |
+| 🚺🚹🚾 | iste …, ille … | | un … |
 | | | | |
-| 🚺 | illa | | una |
-| 🚹 | ille | | uno |
-| 🚾 | illo | | un  |
+| 🚺 | ista, illa | | una |
+| 🚹 | iste, ille | | uno |
+| 🚾 | isto, illo | | un  |
 | | | | |
 
 <!--v-->
@@ -2345,11 +2345,11 @@ Notes:
 
 | | | | |
 |-|-|-|-|
-| 🚺🚹🚾 | ille … | | un … |
+| 🚺🚹🚾 | iste …, ille … | | un … |
 | | | | |
-| 🚺 | illa | | una     |
-| 🚹 | ille | | **un**  |
-| 🚾 | illo | | **uno** |
+| 🚺 | ista, illa | | una     |
+| 🚹 | iste, ille | | **un**  |
+| 🚾 | isto, illo | | **uno** |
 | | | | |
 
 <!-- TODO un≠une (conservative) -->
@@ -2358,36 +2358,64 @@ Notes:
 Notes:
 * demonstrativo ⇒ articulo: *ill-* ⇒ *l-*
   * (+ uso pronominal)
+  * analogie: *ist-*
 * Le uso pronominal de *ille* e *un* es possibile anque pro antecedentes feminin, masculin o neutre.
 * *il*, *on*
 * 1 = *un* → ***uno***
 
 <!--v-->
 
-| auxiliar |
+| auxiliar (conservative) |
 |:-:|
 
 | | | | |
 |-|-|-|-|
-| 🚺🚹🚾 | ille … | | un … |
+| 🚺🚹🚾 | iste …, ille … | | une … |
 | | | | |
-| 🚺 | illa | | una |
-| 🚹 | ille | | un  |
-| 🚾 | illo | | uno |
+| 🚺 | ista, illa | | una |
+| 🚹 | iste, ille | | une |
+| 🚾 | isto, illo | | uno |
 | | | | |
 
 <!--v-->
 
-| natural |
+| natural (conservative) |
 |:-:|
 
 | | | | |
 |-|-|-|-|
-| 🚺   | illa (…) | | una (…) |
-| 🚹🚾 | illo (…) | | uno (…) |
+| 🚺   | ista (…), illa (…) | | una (…) |
+| 🚹🚾 | isto (…), illo (…) | | uno (…) |
 | | | | |
 
 <!--v-->
+
+| auxiliar (progressive) |
+|:-:|
+
+| | | | |
+|-|-|-|-|
+| 🚺🚹🚾 | queste …, quelle … | | un … |
+| | | | |
+| 🚺 | questa, quella, ella | | una |
+| 🚹 | queste, quelle, elle | | un  |
+| 🚾 | questo, quello, ello | | uno |
+| | | | |
+
+<!--v-->
+
+| natural (progressive) |
+|:-:|
+
+| | | | |
+|-|-|-|-|
+| 🚺   | questa (…), quella (…), ella | | una (…) |
+| 🚹🚾 | questo (…), quello (…), ello | | uno (…) |
+| | | | |
+
+<!--v-->
+
+
 
 
 
@@ -2420,16 +2448,6 @@ Notes:
 -----
 <!--s-->
 
-# …
-
-| | |
-|-|-|
-| *unu (li)* | uno → un |
-| *neniu (li)* | necuno → necun |
-| | |
-
-<!-- TODO malklaras -->
-
 <!--v-->
 
 ## Kvazaŭ-substantivoj
@@ -2444,34 +2462,6 @@ Notes:
 |-|-|-|-|-|
 | *unu ...* | un ... | | *unu* | uno |
 | | | | | |
-
-<!--v-->
-
-| auxiliar |
-|-|
-| |
-
-| | | | | |
-|-|-|-|-|-|
-| *tiu ...* | ille ... | | *tio* | illo |
-| | | | | |
-| *ĉi tiu ...* | iste ... | | *ĉi tio* | isto |
-| | | | | |
-
-<!--v-->
-
-| natural |
-|-|
-| |
-
-| | | | | |
-|-|-|-|-|-|
-| *tiu ...* | quella ... | | *tio* | quello |
-| | | | | |
-| *ĉi tiu ...* | questa ... | | *ĉi tio* | questo |
-| | | | | |
-
-<small>En la **natureca fleksio**, la tabelvortoj *ille* kaj *iste* havas la formon *quella* kaj *questa*.</small>
 
 <!--v-->
 
