@@ -2269,60 +2269,9 @@ Notes:
 
 ## Deklinacio
 
-
-
-
-
-
-
-
-
-
-<!--v-->
-
-### Numeraloj kaj Ordinaloj
-
-<small>Numeraloj estas malpli longaj en la helpeca fleksio ol en la natureca fleksio. (Krom *sex*, kiu estas senŝanĝa.) Simile, la helpecaj ordinaloj estas ofte bazitaj sur la helpecaj numeraloj.</small>
-
-<!--v-->
-
-| auxiliar | natural | | auxiliar | natural | | |
-|-|-|-|-|-|-|-|
-| un   | uno     | | unesime   | prima   | | - |
-| du   | duo     | | duesime   | secunda | | vinti |
-| tri  | tres    | | triesime  | tercia  | | trenta |
-| quar | quattro | | quaresime | quarta  | | quaranta |
-| quin | cinque  | | quinesime | quinta  | | cinquanta |
-| | | | | | | |
-
-<!--v-->
-
-| auxiliar | natural | | auxiliar | natural | | |
-|-|-|-|-|-|-|-|
-| sex  | sex     | | sexesime  | sexta   | | sexanta |
-| sep  | septe   | | septesime | septima | | septanta |
-| oc   | octo    | | octesime  | octava  | | octanta |
-| nou  | novem   | | novesime  | nona    | | novanta |
-| dec  | decem   | | decesime  | decima  | | - |
-| | | | | | | |
-
-Notes:
-* Notu ke anstataŭ ~trianta~ formiĝas *trenta*.
-* Interlingua uzas la naturecajn formojn.
-
-<!--v-->
-
-| auxiliar | natural | | |
-|-|-|-|-|
-| cent | cento | | centesime |
-| mill | mille | | millesime |
-| | | | |
-
-<small>La naturecaj numeraloj por *cent* kaj *mil* estas substantivoj, kiuj ricevas la finaĵon -*s*: *duo centos*, *octo milles*.</small>
-
 <!--s-->
 
-### Demonstrativoj, Artikoloj kaj Pronomoj
+### Demonstrativoj kaj Artikoloj
 
 <!--v-->
 
@@ -2407,18 +2356,48 @@ Notes:
 
 <!--v-->
 
+### Numeraloj kaj Ordinaloj
 
+<small>Numeraloj estas malpli longaj en la helpeca fleksio ol en la natureca fleksio. (Krom *sex*, kiu estas senŝanĝa.) Simile, la helpecaj ordinaloj estas ofte bazitaj sur la helpecaj numeraloj.</small>
 
+<!--v-->
 
+| auxiliar | natural | | auxiliar | natural | | |
+|-|-|-|-|-|-|-|
+| un   | un      | | unesime   | prima   | | - |
+| du   | duo     | | duesime   | secunda | | vinti |
+| tri  | tres    | | triesime  | tercia  | | trenta |
+| quar | quattro | | quaresime | quarta  | | quaranta |
+| quin | cinque  | | quinesime | quinta  | | cinquanta |
+| | | | | | | |
 
+Notes:
+* *un* …, *uno*
 
+<!--v-->
 
+| auxiliar | natural | | auxiliar | natural | | |
+|-|-|-|-|-|-|-|
+| sex  | sex     | | sexesime  | sexta   | | sexanta |
+| sep  | septe   | | septesime | septima | | septanta |
+| oc   | octo    | | octesime  | octava  | | octanta |
+| nou  | novem   | | novesime  | nona    | | novanta |
+| dec  | decem   | | decesime  | decima  | | - |
+| | | | | | | |
 
+Notes:
+* Notu ke anstataŭ ~trianta~ formiĝas *trenta*.
+* Interlingua uzas la naturecajn formojn.
 
+<!--v-->
 
+| auxiliar | natural | | |
+|-|-|-|-|
+| cent | cento | | centesime |
+| mill | mille | | millesime |
+| | | | |
 
-
-
+<small>La naturecaj numeraloj por *cent* kaj *mil* estas substantivoj, kiuj ricevas la finaĵon -*s*: *duo centos*, *octo milles*.</small>
 
 <!--s-->
 
@@ -2584,92 +2563,6 @@ Notes:
 | *kiel* | como | | *tiel* | si |
 | *kie* | ubi | | *tie* | ibi |
 | | | | | |
-
-<!--v-->
-
-### Artikoloj
-
-<!--v-->
-
-| | |
-|-|-|
-| *-* | un |
-| | |
-| *la* | le |
-| | |
-
-<!--v-->
-
-### Tria-Personaj Pronomoj
-
-<!--v-->
-
-| | |
-|-|-|
-| *oni* | on |
-| | |
-
-<small>Kiel persona pronomo, *un* fariĝas *on* (nur en nominativo): ***On** crede lo-que **on** spera.*</small>
-
-<!--v-->
-
-| | | | | |
-|-|-|-|-|-|
-| *unu (ŝi)* | una | | *unu (ĝi)* | uno |
-| | | | | |
-| *ŝi* | illa | | *ĝi* | illo |
-| | | | | |
-
-<!--v-->
-
-| auxiliarissime |
-|-|
-| |
-
-| | | | | |
-|-|-|-|-|-|
-| *unu (li)* | unu | | *unu (li, ŝi)* | un |
-| | | | | |
-| *li* | illu | | *li, ŝi* | ille |
-| | | | | |
-
-<!--v-->
-
-| | auxiliar |
-|-|-|
-| *unu (li)* | un |
-| | |
-| *li* | ille |
-| | |
-
-<!--v-->
-
-| | natural |
-|-|-|
-| *unu (li)* | un/uno |
-| | |
-| *li* | ille/lo |
-| | |
-
-<small>En enklitika pozicio, la **natureca fleksio** de *un* kaj *le* estas *uno* kaj *lo*.</small>
-
-<!--v-->
-
-| | auxiliar | natural |
-|-|-|-|
-| *ŝi* | illa | ella |
-| | | |
-
-<!--v-->
-
-| | auxiliarissime | auxiliar |
-|-|-|-|
-| *unu (li)* | unu | un |
-| | | |
-| *ĉi tiu (li)* | istu | iste |
-| | | |
-
-<small>Ankaŭ *un* kaj *iste* povas konduti kiel personaj pronomoj. En la **natureca fleksio**, la formoj *unu* kaj *istu* cedas al *un* kaj *iste*: *Mi frate e mi sora ha multe amicos. **Un** de mi frate ama **una** de mi sora.* La **natureca fleksio** de tia persona pronomo kiel *ista* tiam estas *esta*.</small>
 
 <!--v-->
 
