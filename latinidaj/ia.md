@@ -1369,14 +1369,22 @@ Notes:
 
 | | progressive | progressivissime |
 |-|-:|-|
-| ego | ***[eo]*** | [jo] |
+| ego | ***[eo]*** | [ĵo] |
 | | | |
 
 <!--v-->
 
 | | progressive | progressivissime |
 |-|-:|-|
-| ego | ***[eo]*** <small>🏃 *[io]*</small> | [jo] <small>🏃 *[ĵ]*</small> |
+| ego | ***[eo]*** <small>🏃 *[io]*</small> | [ĵo] <small>🏃 *[ĵ]*</small> |
+| | | |
+
+<!--v-->
+
+| | progressive | progressivissime |
+|-|-:|-|
+| nostre | *[nostre]* | *[nose]* |
+| vostre | *[vostre]* | *[vose]* |
 | | | |
 
 <!--s-->
@@ -1861,6 +1869,31 @@ Notes:
 
 Notes:
 * Interlingua havas la formon *lor*.
+
+<!--v-->
+
+| auxiliar | natural |
+|-:|-|
+| mi | ego ~ **eo** ~ io ~ jo |
+| | |
+
+<!--v-->
+
+| | | | | |
+|-|-|-|-|-|
+| mi | me | | *mia* | mi(e) |
+| tu | te | | *cia* | tu(e) |
+| | | | | |
+| nos | nos | | *nia* | nostre |
+| vos | vos | | *via* | vostre |
+| | | | | |
+
+<!--v-->
+
+
+
+
+
 
 <!--s-->
 
@@ -2597,31 +2630,6 @@ Notes:
 | *kiel* | como | | *tiel* | si |
 | *kie* | ubi | | *tie* | ibi |
 | | | | | |
-
-<!--v-->
-
-### Unua- kaj Dua-Personaj Pronomoj
-
-<!--v-->
-
-| | | | | | |
-|-|-|-|-|-|-|
-| *mi(n)* | mi | me | | *mia* | mi(e) |
-| *ci(n)* | tu | te | | *cia* | tu(e) |
-| | | | | | |
-| *ni(n)* | nos | nos | | *nia* | nostre |
-| *vi(n)* | vos | vos | | *via* | vostre |
-| | | | | | |
-
-<!--v-->
-
-| | progressive | progressivissime |
-|-|-|-|
-| *nia* | nostre | nosse |
-| *via* | vostre | vosse |
-| | | |
-
-<small>La **progresemegaj** formoj *nostre* kaj *vostre* estas *nosse* kaj *vosse*.</small>
 
 <!--v-->
 
