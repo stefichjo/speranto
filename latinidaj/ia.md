@@ -2269,6 +2269,15 @@ Notes:
 
 ## Deklinacio
 
+
+
+
+
+
+
+
+
+
 <!--v-->
 
 ### Numeraloj kaj Ordinaloj
@@ -2311,9 +2320,64 @@ Notes:
 
 <small>La naturecaj numeraloj por *cent* kaj *mil* estas substantivoj, kiuj ricevas la finaĵon -*s*: *duo centos*, *octo milles*.</small>
 
+<!--s-->
+
+<!-- ♀ ♂ ☿ -->
+<!-- ⚧ ⚥ ⚲ -->
+<!-- ♂️ ♀️ ⚧️ -->
+<!-- 🚺 🚹 🚻 🚾 🚼 -->
+
+### Demonstrativoj, Artikoloj kaj Pronomoj
+
 <!--v-->
-…
+
+| | | | |
+|-|-|-|-|
+| 🚺 | ille …, illa | | un …, una |
+| 🚹 | ille …, ille | | un …, uno |
+| 🚾 | ille …, illo | | un …, un |
+| | | | |
+
+<!-- TODO un≠une (conservative) -->
+<!-- TODO ille, iste; quelle, queste -->
+
+Notes:
+* `?`
+  * *ille* → ***illo***
+  * *illo* → ***ille***
+* demonstrativo ⇒ articulo: *ill-* ⇒ *l-*
+  * (+ uso pronominal)
+* Le uso pronominal de *ille* e *un* es possibile anque pro antecedentes feminin, masculin e neutre.
+* *il*, *on*
+
 <!--v-->
+
+| | auxiliar | natural | | auxiliar | natural |
+|-|-:|-|-|-:|-|
+| 🚺 | ille …, illa | illa (…) | | un …, una | una (…) |
+| 🚹 | ille …, illo | illo (…) | | un …, uno | uno (…) |
+| 🚾 | ille …, ille | illo (…) | | un …, un  | uno (…) |
+| | | | | | |
+
+Notes:
+* `?` auxiliar 🚾
+  * *ille* → *illu*
+  * *un* → *unu*
+
+<!--v-->
+
+
+
+
+
+
+
+
+
+
+
+
+<!--s-->
 
 ### Personaj Pronomoj
 
