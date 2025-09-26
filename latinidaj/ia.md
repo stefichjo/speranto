@@ -2352,16 +2352,12 @@ Notes:
 | 🚾 | isto, illo | | **uno** |
 | | | | |
 
-<!-- TODO un≠une (conservative) -->
-<!-- TODO ille, iste; quelle, queste -->
-
 Notes:
 * demonstrativo ⇒ articulo: *ill-* ⇒ *l-*
   * (+ uso pronominal)
-  * analogie: *ist-*
 * Le uso pronominal de *ille* e *un* es possibile anque pro antecedentes feminin, masculin o neutre.
 * *il*, *on*
-* 1 = *un* → ***uno***
+* 1 = *un* → *un* …, ***uno***
 
 <!--v-->
 
@@ -2377,15 +2373,13 @@ Notes:
 | 🚾 | isto, illo | | uno |
 | | | | |
 
-<!--v-->
-
 | natural (conservative) |
 |:-:|
 
 | | | | |
 |-|-|-|-|
 | 🚺   | ista (…), illa (…) | | una (…) |
-| 🚹🚾 | isto (…), illo (…) | | uno (…) |
+| 🚹🚾 | isto (…), illo (…) | | un …, uno |
 | | | | |
 
 <!--v-->
@@ -2402,15 +2396,13 @@ Notes:
 | 🚾 | questo, quello, ello | | uno |
 | | | | |
 
-<!--v-->
-
 | natural (progressive) |
 |:-:|
 
 | | | | |
 |-|-|-|-|
 | 🚺   | questa (…), quella (…), ella | | una (…) |
-| 🚹🚾 | questo (…), quello (…), ello | | uno (…) |
+| 🚹🚾 | questo (…), quello (…), ello | | un …, uno |
 | | | | |
 
 <!--v-->
@@ -2455,13 +2447,6 @@ Notes:
 <!--v-->
 
 ### Tabelvortoj
-
-<!--v-->
-
-| | | | | |
-|-|-|-|-|-|
-| *unu ...* | un ... | | *unu* | uno |
-| | | | | |
 
 <!--v-->
 
