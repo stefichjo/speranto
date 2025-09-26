@@ -1674,8 +1674,25 @@ Notes:
 | 🚺🚹🚾 alte | 🚺 alta(s) / 🚹🚾 alto(s) |
 | | |
 
-Notes:
-* La finaĵo -*o* estas adverba: *alto-parlator*. Ĝi ankaŭ estas la bazo por derivitaj substantivoj: *in alto*.
+<!--v-->
+
+<small>La finaĵo -*o* estas ankaŭ adverba. Ĝi ankaŭ estas la bazo por derivitaj substantivoj.</small>
+
+<!--v-->
+
+| |
+|-|
+| |
+| in van |
+| |
+
+<!--v-->
+
+| |
+|-|
+| |
+| in **vano** |
+| |
 
 <!--v-->
 
@@ -1784,6 +1801,42 @@ Notes:
 | 🚺   | questa (…), quella (…), ella | | una (…) |
 | 🚹🚾 | questo (…), quello (…), ello | | un …, uno |
 | | | | |
+
+<!--v-->
+
+
+
+
+
+
+
+
+
+<!--v-->
+
+| | | | | |
+|-|-|-|-|-|
+| *iu*    | ulle  | | *io*    | ~ullo~ → alique/aliqui |
+| *neniu* | nulle | | *nenio* | ~nullo~ → nihil/nemo |
+| *ĉiu*   | omne  | | *ĉio*   | ~omno~ → tuto |
+| | | | | |
+
+<!-- TODO -->
+<!-- qualcosa/qualcun -->
+<!-- necosa?/necun -->
+
+<small>Analogie al la tabelvortoj *ille ...* kaj *illo*, *io*, *nenio* kaj *ĉio* ŝajnas tradukeblaj kiel *ullo*, *nullo* kaj *omno*, sed anstataŭe uziĝas *alique*, *nihil* kaj *tuto*. Por *iu* kaj *neniu* por personoj uziĝas *aliqui* kaj *nemo*.</small>
+
+
+
+
+
+
+
+
+
+
+
 
 <!--v-->
 
@@ -2490,23 +2543,6 @@ Notes:
 <!--v-->
 
 ### Tabelvortoj
-
-<!--v-->
-
-| | | | | |
-|-|-|-|-|-|
-| *tiu* | ille | | *tio* | illo |
-| | | | | |
-| *iu*    | ulle  | | *io*    | ~ullo~ → alique/aliqui |
-| *neniu* | nulle | | *nenio* | ~nullo~ → nihil/nemo |
-| *ĉiu*   | omne  | | *ĉio*   | ~omno~ → tuto |
-| | | | | |
-
-<!-- TODO -->
-<!-- qualcosa/qualcun -->
-<!-- necosa?/necun -->
-
-<small>Analogie al la tabelvortoj *ille ...* kaj *illo*, *io*, *nenio* kaj *ĉio* ŝajnas tradukeblaj kiel *ullo*, *nullo* kaj *omno*, sed anstataŭe uziĝas *alique*, *nihil* kaj *tuto*. Por *iu* kaj *neniu* por personoj uziĝas *aliqui* kaj *nemo*.</small>
 
 <!--v-->
 
