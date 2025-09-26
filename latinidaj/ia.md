@@ -1858,7 +1858,7 @@ Notes:
 
 <!--v-->
 
-<small>Anstataŭ *de ill-*, uzeblas *su*.</small>
+<small>Anstataŭ *de ill-*, uzeblas *su(e)*.</small>
 
 <!--v-->
 
@@ -1879,23 +1879,20 @@ Notes:
 
 <!--v-->
 
-| | | | | |
-|-|-|-|-|-|
-| mi | me | | *mia* | mi(e) |
-| tu | te | | *cia* | tu(e) |
-| | | | | |
-| nos | nos | | *nia* | nostre |
-| vos | vos | | *via* | vostre |
-| | | | | |
+| auxiliar |
+|:-:|
 
-<!--v-->
-
-
-
-
-
+| | | | |
+|-|-|-|-|
+| mi | me | | mi(e) |
+| tu | te | | tu(e) |
+| | | | |
+| nos | nos | | nostre |
+| vos | vos | | vostre |
+| | | | |
 
 <!--s-->
+
 
 ## Konjugacio
 
