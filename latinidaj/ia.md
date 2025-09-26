@@ -1644,85 +1644,10 @@ Notes:
 
 # Fleksio
 
-<!--v-->
-
-| auxiliar | natural |
-|-:|-|
-| esser | sêr |
-| | |
-
-<!--v-->
-
-| auxiliar | natural |
-|-:|-|
-| ama | ama ≠ sta amando |
-| | |
-| ha amate | amava ≠ ha amato |
-| | |
-| va amar | amara ≠ va amar |
-| | |
-
-Notes:
-* Interlingua havas la formon *es amante*.
-* Interlingua havas kaj la formon *amava* kaj la formon *ha amate*, sed ili estas sinonimaj.
-* Interlingua havas kaj la formon *amara* kaj la formon *va amar*, sed ili estas sinonimaj.
-
-<!--v-->
-
-| auxiliar | natural |
-|-:|-|
-| ama | ama ≠ sta amando |
-| | |
-| ha amate | amava ≠ ha amato <small>📖 amáu</small> |
-| | |
-| va amar | amara ≠ va amar |
-| | |
-
-Notes:
-* *es amante*
-
-<!--v-->
-
-| auxiliar | natural |
-|-:|-|
-| (que) ama | (que) ame |
-| | |
-| (que) ha amate | (que) amava |
-| | |
-
-<!--v-->
-
-| auxiliar | natural |
-|-:|-|
-| (que) ama | (que) ame |
-| | |
-| (que) ha amate | (que) amava <small>📖 (que) amâsse</small> |
-| | |
-
-Notes:
-* *(si) amâsse*
-
-<!--v-->
-
-| auxiliar | natural |
-|-:|-|
-| velle amar | amaréa |
-| | |
-
-<!--v-->
-
-| auxiliar | natural |
-|-:|-|
-| velle amar | __amaría__ |
-| | |
-
-Notes:
-* Interlingua havas la formon *amarea*.
-
 <!--s-->
 
 ## Deklinacio
-<!-- TODO super konjugacion -->
+
 <!--s-->
 
 ### Adjektivoj
@@ -1916,6 +1841,81 @@ Notes:
 <!--s-->
 
 ## Konjugacio
+
+<!--v-->
+
+| auxiliar | natural |
+|-:|-|
+| esser | sêr |
+| | |
+
+<!--v-->
+
+| auxiliar | natural |
+|-:|-|
+| ama | ama ≠ sta amando |
+| | |
+| ha amate | amava ≠ ha amato |
+| | |
+| va amar | amara ≠ va amar |
+| | |
+
+Notes:
+* Interlingua havas la formon *es amante*.
+* Interlingua havas kaj la formon *amava* kaj la formon *ha amate*, sed ili estas sinonimaj.
+* Interlingua havas kaj la formon *amara* kaj la formon *va amar*, sed ili estas sinonimaj.
+
+<!--v-->
+
+| auxiliar | natural |
+|-:|-|
+| ama | ama ≠ sta amando |
+| | |
+| ha amate | amava ≠ ha amato <small>📖 amáu</small> |
+| | |
+| va amar | amara ≠ va amar |
+| | |
+
+Notes:
+* *es amante*
+
+<!--v-->
+
+| auxiliar | natural |
+|-:|-|
+| (que) ama | (que) ame |
+| | |
+| (que) ha amate | (que) amava |
+| | |
+
+<!--v-->
+
+| auxiliar | natural |
+|-:|-|
+| (que) ama | (que) ame |
+| | |
+| (que) ha amate | (que) amava <small>📖 (que) amâsse</small> |
+| | |
+
+Notes:
+* *(si) amâsse*
+
+<!--v-->
+
+| auxiliar | natural |
+|-:|-|
+| velle amar | amaréa |
+| | |
+
+<!--v-->
+
+| auxiliar | natural |
+|-:|-|
+| velle amar | __amaría__ |
+| | |
+
+Notes:
+* Interlingua havas la formon *amarea*.
 
 <!--v-->
 
