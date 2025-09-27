@@ -1804,28 +1804,45 @@ Notes:
 
 <!--v-->
 
+| auxiliar |
+|:-:|
 
+| conservative | progressive |
+|-|-|
+| qui        | qui       |
+| ali-qui    | alicun <small>🏃 alcun</small>    |
+| ne-qui     | necun     |
+| qui-cumque | quicunque <small>🏃 quiunque</small> |
+| qui-que    | quique    |
+| | |
 
-
-
-
-
-
+Notes:
+* De le formas conservative *ali-que* e *ne-que* deveni le pseudo-prefixos *alic-* e *nec-*(progressive) in le formas *alicun* e *necun*. Le pseudo-suffixo *-cumque* diveni *-cunque*.
 
 <!--v-->
 
-| | | | | |
-|-|-|-|-|-|
-| *iu*    | ulle  | | *io*    | ~ullo~ → alique/aliqui |
-| *neniu* | nulle | | *nenio* | ~nullo~ → nihil/nemo |
-| *ĉiu*   | omne  | | *ĉio*   | ~omno~ → tuto |
-| | | | | |
+| conservative |
+|:-:|
+
+| auxiliar | natural |
+|-|-|
+| ali-qui    | ulle |
+| ne-qui     | nulle …, nemo |
+| qui-que    | omne   |
+| | |
+| ne-que     | nihil |
+| | |
+| quando-que | semper |
+| | |
+
+<!-- TODO
+omne → tote (tota)
+semper → sempre
+nihil → nil -->
 
 <!-- TODO -->
 <!-- qualcosa/qualcun -->
 <!-- necosa?/necun -->
-
-<small>Analogie al la tabelvortoj *ille ...* kaj *illo*, *io*, *nenio* kaj *ĉio* ŝajnas tradukeblaj kiel *ullo*, *nullo* kaj *omno*, sed anstataŭe uziĝas *alique*, *nihil* kaj *tuto*. Por *iu* kaj *neniu* por personoj uziĝas *aliqui* kaj *nemo*.</small>
 
 
 
