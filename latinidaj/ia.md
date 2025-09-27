@@ -1802,6 +1802,100 @@ Notes:
 | 🚹🚾 | questo (…), quello (…), ello | | un …, uno |
 | | | | |
 
+<!-- TODO omne = ĉiu; tote le -s = ĉiuj -j; ... -->
+<!-- TODO quobi, quo-modo -->
+
+<!--v-->
+
+| auxiliar (conservative) |
+|:-:|
+
+| | | | |
+|-|-|-|-|
+| 🚺🚹🚾 | qui … |
+| | |
+| 🚺🚹 | qui |
+| 🚾 | que |
+| | | | |
+
+| natural (conservative) |
+|:-:|
+
+| | | | |
+|-|-|-|-|
+| 🚺🚹🚾 | quale … |
+| | |
+| 🚺🚹 | qui |
+| 🚾 | que |
+| | | | |
+
+
+
+
+
+<!--v-->
+
+| |
+|-|
+| ille |
+| illo |
+| de ille/illo |
+| de ille qualitate |
+| in ille manera |
+| in ille quantitate |
+| in ille tempore |
+| a ille causa |
+| in ille direction |
+| in ille loco |
+| |
+
+
+
+
+
+
+<!--v-->
+
+| | | | | |
+|-|-|-|-|-|
+| *u*  | aliqui    | qui    | quiunque    | quique    |
+| *o*  | alique    | que    | queunque    | queque    |
+| *es* | alicuje   | cuje   | cujunque    | cujeque   |
+| *a*  | aliqual   | qual   | qualunque   | qualque   |
+| *el* | alicomo   | como   | comunque    | comoque   |
+| *om* | aliquanto | quanto | quantunque  | quantoque |
+| *am* | aliquando | quando | quandunque  | quandoque |
+| *al* | aliquare  | quare  | quarunque   | quareque  |
+| *en* | aliquo    | quo    | quounque    | quoque    |
+| *e*  | alicubi   | ubi    | ubunque     | ubique    |
+| | | | | |
+
+
+
+
+
+
+
+
+
+<!--v-->
+
+| | conservativissime | conservative |
+|-|-|-|
+| *kiel* | quo-modo | como |
+| | | |
+
+<small>La **konservemega** formo de *quando* kaj *quanto* estas *quam*. La **konservemega** formo de *como* estas *quomodo*.</small>
+
+
+| | |
+|-|-|
+| quo-modo | como |
+| | |
+
+
+
+
 <!--v-->
 
 | auxiliar |
@@ -1817,7 +1911,7 @@ Notes:
 | | |
 
 Notes:
-* De le formas conservative *ali-que* e *ne-que* deveni le pseudo-prefixos *alic-* e *nec-*(progressive) in le formas *alicun* e *necun*. Le pseudo-suffixo *-cumque* diveni *-cunque*.
+* De le demonstrativos conservative *ali-qui* e *ne-qui* deveni le pseudo-prefixos progressive *alic-* e *nec-*. Illes pare in le formas *alicun* e *necun*.
 
 <!--v-->
 
@@ -2586,15 +2680,6 @@ Notes:
 
 <!--v-->
 
-| | conservativissime | conservative |
-|-|-|-|
-| *kiel* | quo-modo | como |
-| | | |
-
-<small>La **konservemega** formo de *quando* kaj *quanto* estas *quam*. La **konservemega** formo de *como* estas *quomodo*.</small>
-
-<!--v-->
-
 | | conservativissime | conservative | progressive |
 |-|-|-|-|
 | *ie* | aliqui-ubi | alicubi | alcubi |
@@ -2623,22 +2708,6 @@ Notes:
 | | | | |
 
 <small>La tabelvorta sufikso *-cumque* uziĝas por formi tabelvorton tradukeblan per *ki- ajn*. Ĝiaj **konservema** kaj **progresema** formoj estas -*cunque" respektive -*unque* (tiam eliziiĝas ne-akcentata vokalo antaŭ ĝi).</small>
-
-<!--v-->
-
-| | | | | |
-|-|-|-|-|-|
-| *u*  | aliqui    | qui    | quiunque    | quique    |
-| *o*  | alique    | que    | queunque    | queque    |
-| *es* | alicuje   | cuje   | cujunque    | cujeque   |
-| *a*  | aliqual   | qual   | qualunque   | qualque   |
-| *el* | alicomo   | como   | comunque    | comoque   |
-| *om* | aliquanto | quanto | quantunque  | quantoque |
-| *am* | aliquando | quando | quandunque  | quandoque |
-| *al* | aliquare  | quare  | quarunque   | quareque  |
-| *en* | aliquo    | quo    | quounque    | quoque    |
-| *e*  | alicubi   | ubi    | ubunque     | ubique    |
-| | | | | |
 
 <!--v-->
 
