@@ -1809,15 +1809,41 @@ Notes:
 
 | conservative | progressive |
 |-|-|
-| qui        | qui       |
-| ali-qui    | alicun <small>🏃 alcun</small>    |
-| ne-qui     | necun     |
+| qui        | qui                                  |
+| ali-qui    | alicun <small>🏃 alcun</small>       |
+| ne-qui     | necun                                |
 | qui-cumque | quicunque <small>🏃 quiunque</small> |
-| qui-que    | quique    |
+| qui-que    | quique                               |
 | | |
 
 Notes:
 * De le formas conservative *ali-que* e *ne-que* deveni le pseudo-prefixos *alic-* e *nec-*(progressive) in le formas *alicun* e *necun*. Le pseudo-suffixo *-cumque* diveni *-cunque*.
+
+<!--v-->
+
+| auxiliar |
+|:-:|
+
+| conservative | progressive |
+|-|-|
+| ubi-cumque | ubicunque <small>🏃 uvunque</small> |
+| | |
+
+<!--v-->
+
+| auxiliar |
+|:-:|
+
+| progressive |
+|-|
+| qualque un <small>🏃 qualcun</small> |
+| qualque cosa <small>🏃 qualcosa</small> |
+| |
+
+Notes:
+* Demonstrativoj kun *-que* povas havi la kromsignifon *ajn*, *kelk-* aŭ *plur-*. *qual-que* tial havas la signifojn *ĉiaj*, *ĉiaj ajn*, *plur-specaj* kaj *kelk-specaj*.
+
+<!-- <small>La progresema prononco de *qualque* estas *[kŭalke]*.</small> -->
 
 <!--v-->
 
@@ -1839,10 +1865,6 @@ Notes:
 omne → tote (tota)
 semper → sempre
 nihil → nil -->
-
-<!-- TODO -->
-<!-- qualcosa/qualcun -->
-<!-- necosa?/necun -->
 
 
 
@@ -2572,18 +2594,6 @@ Notes:
 
 <!--v-->
 
-| | |
-|-|-|
-| *ĉie*, *kelkloke* | ubique  |
-| *ĉiaj*, *kelkaj*  | qualque |
-| | |
-
-<small>La tabelvorta sufikso *-que* uziĝas por formi tabelvorton tradukeblan per *kelk-* ~ *plur-* ~ *ĉ-*: *ubi-que* (*kelk-loke* ~ *plur-loke* ~ *ĉie*), *qual-que* (*kelk-specaj* ~ *plur-specaj* ~ *ĉiaj*)</small>
-
-<small>La progresema prononco de *qualque* estas *[kŭalke]*.</small>
-
-<!--v-->
-
 | | conservative | progressive |
 |-|-|-|
 | *kelk-iu* | aliqui | qualque un   |
@@ -2621,18 +2631,6 @@ Notes:
 
 Notes:
 * *io* ~alco~
-
-<!--v-->
-
-| | conservativissime | conservative | progressive |
-|-|-|-|-|
-| *iu*     | aliqui    | alicun | alcun |
-| *iu ...* | aliqui-un | alicun | alcun |
-| | | | |
-
-<!-- TODO alicuno alcuno IA -->
-
-<small>Antaŭ ~*aliqui-qui*~, uziĝas *aliqui-un* por *iu*.</small>
 
 <!--v-->
 
