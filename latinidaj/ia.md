@@ -1844,6 +1844,7 @@ Notes:
 * Demonstrativoj kun *-que* povas havi la kromsignifon *ajn*, *kelk-* aŭ *plur-*. *qual-que* tial havas la signifojn *ĉiaj*, *ĉiaj ajn*, *plur-specaj* kaj *kelk-specaj*.
 
 <!-- <small>La progresema prononco de *qualque* estas *[kŭalke]*.</small> -->
+<!-- TODO Ĉu en la konservema stilo simple uziĝas "aliqui" kaj "alique"? Aŭ ĉu io sama "aliquendam"? -->
 
 <!--v-->
 
@@ -2594,26 +2595,6 @@ Notes:
 
 <!--v-->
 
-| | conservative | progressive |
-|-|-|-|
-| *kelk-iu* | aliqui | qualque un   |
-| *kelk-io* | alique | qualque cosa |
-| | | |
-
-<small>La tabelvorto *qualque* uziĝas kvazaŭ prefikso por esprimi *kelk-*.</small>
-
-<!--v-->
-
-| | progressive | progressivissime |
-|-|-|-|
-| *kelk-iu* | qualque un   | qualcun  |
-| *kelk-io* | qualque cosa | qualcosa |
-| | | | |
-
-<small>Antaŭ *qu-* aŭ *c-*, la fina -*que* eliziiĝas.</small>
-
-<!--v-->
-
 | | conservativissime | conservative | progressive |
 |-|-|-|-|
 | *ie* | aliqui-ubi | alicubi | alcubi |
@@ -2636,7 +2617,6 @@ Notes:
 
 | | conservativissime | conservative | progressive |
 |-|-|-|-|
-| *kie ajn*  | ubi-cumque      | ubicunque  | ubunque   |
 | *kiel ajn* | quo-modo-cumque | comocunque | comunque  |
 | *kiu ajn*  | qui-cumque      | quicunque  | quiunque  |
 | *kia ajn*  | qual-cumque     | qualcunque | qualunque |
@@ -2683,19 +2663,6 @@ Notes:
 
 | conservative | progressive |
 |-|-|
-| alicun | alcun, qualcun |
-| alique | alcun cosa, qualcosa |
-| | |
-| nulle | necun |
-| nemo  | necun <small>🌎 necuno</small> |
-| | |
-
-<small>Tabelvortoj …</small>
-
-<!--v-->
-
-| conservative | progressive |
-|-|-|
 | hic | ci |
 | nunc | ora |
 | | |
@@ -2707,8 +2674,6 @@ Notes:
 | classiche | moderne |
 |-|-|
 | illac/ibi | la |
-| semper | sempre |
-| omne | tote |
 | | |
 
 <!--v-->
