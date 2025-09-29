@@ -1758,19 +1758,19 @@ Notes:
 
 <!--v-->
 
-| auxiliar (conservative) |
+| auxiliar |
 |:-:|
 
 | | | | |
 |-|-|-|-|
-| 🚺🚹🚾 | iste …, ille … | | une … |
+| 🚺🚹🚾 | iste …, ille … | | un … |
 | | | | |
 | 🚺 | ista, illa | | una |
-| 🚹 | iste, ille | | une |
+| 🚹 | iste, ille | | un  |
 | 🚾 | isto, illo | | uno |
 | | | | |
 
-| natural (conservative) |
+| natural |
 |:-:|
 
 | | | | |
@@ -1779,9 +1779,12 @@ Notes:
 | 🚹🚾 | isto (…), illo (…) | | un …, uno |
 | | | | |
 
+Notes:
+* conservative ~ progressive: *une* ~ *un*
+
 <!--v-->
 
-| auxiliar (progressive) |
+| auxiliar (progressivissime) |
 |:-:|
 
 | | | | |
@@ -1793,7 +1796,7 @@ Notes:
 | 🚾 | questo, quello, ello | | uno |
 | | | | |
 
-| natural (progressive) |
+| natural (progressivissime) |
 |:-:|
 
 | | | | |
@@ -1802,12 +1805,9 @@ Notes:
 | 🚹🚾 | questo (…), quello (…), ello | | un …, uno |
 | | | | |
 
-<!-- TODO omne = ĉiu; tote le -s = ĉiuj -j; ... -->
-<!-- TODO quobi, quo-modo -->
-
 <!--v-->
 
-| auxiliar (conservative) |
+| conservative |
 |:-:|
 
 | | | | |
@@ -1818,41 +1818,108 @@ Notes:
 | 🚾 | que |
 | | | | |
 
-| natural (conservative) |
+<!--v-->
+
+| progressive |
 |:-:|
 
 | | | | |
 |-|-|-|-|
-| 🚺🚹🚾 | quale … |
+| 🚺🚹🚾 | qual … |
 | | |
 | 🚺🚹 | qui |
 | 🚾 | que |
 | | | | |
 
+<!--v-->
 
+| conservative | progressive |
+|-|-|
+| qui        | qui                                  |
+| ali-qui    | alicun <small>🏃 alcun</small>       |
+| ne-qui     | necun                                |
+| qui-cumque | quicunque <small>🏃 quiunque</small> |
+| qui-que    | quique                               |
+| | |
 
-
+Notes:
+* De le demonstrativos conservative *ali-qui* e *ne-qui* deveni le pseudo-prefixos progressive *alic-* e *nec-*. Illes pare in le formas progressive *alicun* e *necun*.
 
 <!--v-->
 
-| |
+| conservative | progressive |
+|-|-|
+| quale-cumque | qualcunque <small>🏃 qualunque</small> |
+| | |
+
+<!--v-->
+
+<small>Le demonstrativo conservative *qual-que* *[kualku-e]* *("de omne genere")* diveni le adjectivo progressive *qualque* *[kŭalke]*.</small>
+
+<!--v-->
+
+| conservative | progressive |
+|-|-|
+| ali-qui | qualcun, alicun <small>🏃 alcun</small> |
+| ali-que | qualcosa |
+| | |
+
+<!--v-->
+
+| conservative | progressive |
+|-|-|
+| ali-qui | **qualque un** <small>🏃 qualcun</small>, alicun <small>🏃 alcun</small> |
+| ali-que | **qualque cosa** <small>🏃 qualcosa</small> |
+| | |
+
+<!--v-->
+
+| auxiliar | natural |
+|-|-|
+| quobi    | ubi  |
+| quoie    | cuje |
+| quo-modo | como |
+| | |
+
+<!--v-->
+
+| auxiliar | natural |
+|-|-|
+| quobi    | ubi      |
+| quoie    | **cuie** |
+| quo-modo | como     |
+| | |
+
+<!--v-->
+
+| auxiliar | natural |
+|-|-|
+| **quor** | **cur** |
+| | |
+
+<!--v-->
+
+| conservative | progressive |
+|-|-|
+| como-cumque | comocunque <small>🏃 comunque</small> |
+| | |
+
+<!-- TODO kiam eliziiĝas la vokalo antaŭ 🏃 -*unque*? (quiunque, comunque) -->
+
+<!--v-->
+
+| progressive |
 |-|
-| ille |
-| illo |
-| de ille/illo |
-| de ille qualitate |
-| in ille manera |
-| in ille quantitate |
-| in ille tempore |
-| a ille causa |
-| in ille direction |
-| in ille loco |
+| ubi |
+| |
+| alicubi |
+| necubi |
+| ubicunque |
+| ubique |
 | |
 
-
-
-
-
+Notes:
+* 🏃 *ovunque*
 
 <!--v-->
 
@@ -1876,69 +1943,73 @@ Notes:
 
 
 
+<!-- TODO cur = qua-re (sed etimologie disaj, tiel ŝajnas) -->
+<!-- TODO quam quando quanto qua -->
+<!-- TODO omne = ĉiu; tote le -s = ĉiuj -j; ... -->
+<!-- TODO quobi, quo-modo -->
+<!-- TODO quoia -->
+<!-- TODO Ĉu en la konservema stilo simple uziĝas "aliqui" kaj "alique"? Aŭ ĉu io sama "aliquendam"? -->
+<!-- TODO Ĉu *une* ĉie en konservema stilo? -->
+<!-- TODO
+omne → tote (tota) `?`
+semper → sempre
+nihil → nil -->
+
+
+
+
+
+
+
+
+
+
+
+
+| | | | | |
+|-|-|-|-|-|
+| in ille/iste tempore  | nunc | | in quale tempore   | quo |
+| in ille direction     |      | | in quale direction | quo |
+| in ille loco          | hic  | | in quale loco      | ubi |
+| | | | | |
 
 
 <!--v-->
 
-| | conservativissime | conservative |
-|-|-|-|
-| *kiel* | quo-modo | como |
-| | | |
-
-<small>La **konservemega** formo de *quando* kaj *quanto* estas *quam*. La **konservemega** formo de *como* estas *quomodo*.</small>
-
-
-| | |
-|-|-|
-| quo-modo | como |
-| | |
-
-
-
-
-<!--v-->
-
-| auxiliar |
-|:-:|
-
-| conservative | progressive |
-|-|-|
-| qui        | qui                                  |
-| ali-qui    | alicun <small>🏃 alcun</small>       |
-| ne-qui     | necun                                |
-| qui-cumque | quicunque <small>🏃 quiunque</small> |
-| qui-que    | quique                               |
-| | |
-
-Notes:
-* De le demonstrativos conservative *ali-qui* e *ne-qui* deveni le pseudo-prefixos progressive *alic-* e *nec-*. Illes pare in le formas *alicun* e *necun*.
-
-<!--v-->
-
-| auxiliar |
-|:-:|
-
-| conservative | progressive |
-|-|-|
-| ubi-cumque | ubicunque <small>🏃 uvunque</small> |
-| | |
-
-<!--v-->
-
-| auxiliar |
-|:-:|
-
-| progressive |
+| |
 |-|
-| qualque un <small>🏃 qualcun</small> |
-| qualque cosa <small>🏃 qualcosa</small> |
+| ille |
+| illo |
+| de ille/illo |
+| de ille qualitate |
+| in ille manera |
+| in ille quantitate |
+| in ille tempore |
+| a ille causa |
+| in ille direction |
+| in ille loco |
 | |
 
-Notes:
-* Demonstrativoj kun *-que* povas havi la kromsignifon *ajn*, *kelk-* aŭ *plur-*. *qual-que* tial havas la signifojn *ĉiaj*, *ĉiaj ajn*, *plur-specaj* kaj *kelk-specaj*.
 
-<!-- <small>La progresema prononco de *qualque* estas *[kŭalke]*.</small> -->
-<!-- TODO Ĉu en la konservema stilo simple uziĝas "aliqui" kaj "alique"? Aŭ ĉu io sama "aliquendam"? -->
+
+
+
+
+
+
+
+
+
+
+
+<small>La **konservemega** formo de *quando* kaj *quanto* estas *quam*.</small>
+
+
+
+
+
+
+<!-- Ĉi tie komenciĝas sekcieroj, kiuj prezentas alternativojn (simile al "nun" por "ĉi tiam") en Esperanto. -->
 
 <!--v-->
 
@@ -1956,10 +2027,6 @@ Notes:
 | quando-que | semper |
 | | |
 
-<!-- TODO
-omne → tote (tota)
-semper → sempre
-nihil → nil -->
 
 
 
@@ -2699,13 +2766,6 @@ Notes:
 * *io* ~alco~
 
 <!--v-->
-
-| | conservativissime | conservative | progressive |
-|-|-|-|-|
-| *kiel ajn* | quo-modo-cumque | comocunque | comunque  |
-| *kiu ajn*  | qui-cumque      | quicunque  | quiunque  |
-| *kia ajn*  | qual-cumque     | qualcunque | qualunque |
-| | | | |
 
 <small>La tabelvorta sufikso *-cumque* uziĝas por formi tabelvorton tradukeblan per *ki- ajn*. Ĝiaj **konservema** kaj **progresema** formoj estas -*cunque" respektive -*unque* (tiam eliziiĝas ne-akcentata vokalo antaŭ ĝi).</small>
 
