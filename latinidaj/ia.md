@@ -1835,6 +1835,13 @@ Notes:
 
 | conservative | progressive |
 |-|-|
+| qui/ille … | qual/tal … |
+| | |
+
+<!--v-->
+
+| conservative | progressive |
+|-|-|
 | qui        | qui                                  |
 | ali-qui    | alicun <small>🏃 alcun</small>       |
 | ne-qui     | necun                                |
@@ -1867,11 +1874,21 @@ Notes:
 
 <!--v-->
 
+| |
+|-|
+| quando |
+| quo    |
+| |
+
+Notes:
+* preposition *qua*: *in function de*
+
+<!--v-->
+
 | auxiliar | natural |
 |-|-|
 | quobi    | ubi  |
 | quoie    | cuje |
-| quo-modo | como |
 | | |
 
 Notes:
@@ -1883,127 +1900,76 @@ Notes:
 |-|-|
 | quobi    | ubi      |
 | quoie    | **cuie** |
-| quo-modo | como     |
 | | |
+
+Notes:
+* conservative ~ progressive: *quia* ~ *proque*
 
 <!--v-->
 
 | auxiliar | natural |
 |-|-|
-| **quor** | **cur** |
+| quique | omne |
 | | |
 
 <!--v-->
 
 | conservative | progressive |
 |-|-|
-| como-cumque | comocunque <small>🏃 comunque</small> |
-| ubi-cumque  | ubicunque <small>🏃 ovunque</small>   |
+| quam     | quanto |
+| quo-modo | como   |
+| | |
+
+<!--v-->
+
+| conservative | progressive |
+|-|-|
+| quam/tam | quanto/tanto |
+| | |
+
+<!--v-->
+
+| conservative | progressive |
+|-|-|
+| ubi-cumque     | ubicunque <small>🏃 ovunque</small>   |
+| quomodo-cumque | comocunque <small>🏃 comunque</small> |
 | | |
 | quale-cumque | qualcunque <small>🏃 qualunque</small> |
 | | |
 
 <!--v-->
 
-| |
-|-|
-| qui |
-| que |
-| qual |
-| |
-
-<!--v-->
-
-| | |
+| conservative | progressive |
 |-|-|
-| **cuie** | de qui, de que, del qual |
-| como     | in qual manera |
-| ubi      | in qual loco |
-| | |
-
-<!--v-->
-
-| | |
-|-|-|
-| qua    | in qual function |
-| quanto | in qual quantitate |
-| quando | in qual tempore |
-| quo    | in qual direction |
+| quare  | proque |
 | | |
 
 Notes:
-* quanto ← quam; tanto ← tam
-* quare ← qua re (proque)
+* (conservative) auxiliar ~ natural: **quor** ~ **cur**
 
 <!--v-->
 
+| conservative | progressive |
+|-|-|
+| nihil | nil |
+| semper | sempre |
+| | |
 
+<!--v-->
 
-
-
-
+| conservative | progressive |
+|-|-|
+| nunc | ora |
+| hic | ci `?` |
+| | |
 
 
 <!-- TODO cur = qua-re (sed etimologie disaj, tiel ŝajnas) -->
-<!-- TODO quam quando quanto qua -->
-<!-- TODO omne = ĉiu; tote le -s = ĉiuj -j; ... -->
-<!-- TODO quobi, quo-modo -->
-<!-- TODO quoia -->
 <!-- TODO Ĉu en la konservema stilo simple uziĝas "aliqui" kaj "alique"? Aŭ ĉu io sama "aliquendam"? -->
 <!-- TODO Ĉu *une* ĉie en konservema stilo? -->
-<!-- TODO
-omne → tote (tota) `?`
-semper → sempre
-nihil → nil -->
 
 
 
-
-
-
-
-
-
-
-
-
-| | | | | |
-|-|-|-|-|-|
-| in ille/iste tempore  | nunc | | in quale tempore   | quo |
-| in ille direction     |      | | in quale direction | quo |
-| in ille loco          | hic  | | in quale loco      | ubi |
-| | | | | |
-
-
-<!--v-->
-
-| |
-|-|
-| ille |
-| illo |
-| de ille/illo |
-| de ille qualitate |
-| in ille manera |
-| in ille quantitate |
-| in ille tempore |
-| a ille causa |
-| in ille direction |
-| in ille loco |
-| |
-
-
-
-
-
-
-
-
-
-
-
-
-
-<small>La **konservemega** formo de *quando* kaj *quanto* estas *quam*.</small>
 
 
 
@@ -2021,11 +1987,6 @@ nihil → nil -->
 |-|-|
 | ali-qui    | ulle |
 | ne-qui     | nulle …, nemo |
-| qui-que    | omne   |
-| | |
-| ne-que     | nihil |
-| | |
-| quando-que | semper |
 | | |
 
 
@@ -2039,9 +2000,6 @@ nihil → nil -->
 
 | | | | | |
 |-|-|-|-|-|
-| *kia* | qual | | *tia* | tal |
-| *kiom* | quanto | | *tiom* | tanto |
-| | | | | |
 | *kiam* | quando | | *tiam* | ~tando~ → tunc |
 | *kial* | quare | | *tial* | ~tare~ → ergo |
 | | | | | |
@@ -2053,16 +2011,6 @@ nihil → nil -->
 | *kiel* | como | | *tiel* | si |
 | *kie* | ubi | | *tie* | ibi |
 | | | | | |
-
-<!--v-->
-
-| conservative | progressive |
-|-|-|
-| hic | ci |
-| nunc | ora |
-| | |
-
-<small>Tabelvortoj …</small>
 
 <!--v-->
 
