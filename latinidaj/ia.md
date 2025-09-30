@@ -1903,32 +1903,40 @@ Notes:
 | quale-cumque | qualcunque <small>🏃 qualunque</small> |
 | | |
 
+<!--v-->
 
-
-
-
-
-
-
-
-
-
+| |
+|-|
+| qui |
+| que |
+| qual |
+| |
 
 <!--v-->
 
-| | | | | |
-|-|-|-|-|-|
-| *u*  | aliqui    | qui    | quiunque    | quique    |
-| *o*  | alique    | que    | queunque    | queque    |
-| *es* | alicuje   | cuje   | cujunque    | cujeque   |
-| *a*  | aliqual   | qual   | qualunque   | qualque   |
-| *el* | alicomo   | como   | comunque    | comoque   |
-| *om* | aliquanto | quanto | quantunque  | quantoque |
-| *am* | aliquando | quando | quandunque  | quandoque |
-| *al* | aliquare  | quare  | quarunque   | quareque  |
-| *en* | aliquo    | quo    | quounque    | quoque    |
-| *e*  | alicubi   | ubi    | ubunque     | ubique    |
-| | | | | |
+| | |
+|-|-|
+| **cuie** | de qui, de que, del qual |
+| como     | in qual manera |
+| ubi      | in qual loco |
+| | |
+
+<!--v-->
+
+| | |
+|-|-|
+| qua    | in qual function |
+| quanto | in qual quantitate |
+| quando | in qual tempore |
+| quo    | in qual direction |
+| | |
+
+Notes:
+* quanto ← quam; tanto ← tam
+* quare ← qua re (proque)
+
+<!--v-->
+
 
 
 
