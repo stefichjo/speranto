@@ -1847,17 +1847,6 @@ Notes:
 
 <!--v-->
 
-<small>Ne-akcentata fina vokalo eliziiĝas antaŭ *-cunque*.</small>
-
-<!--v-->
-
-| conservative | progressive |
-|-|-|
-| quale-cumque | qualcunque <small>🏃 qualunque</small> |
-| | |
-
-<!--v-->
-
 <small>Le demonstrativo conservative *qual-que* *[kualku-e]* *("de omne genere")* diveni le adjectivo progressive *qualque* *[kŭalke]*.</small>
 
 <!--v-->
@@ -1911,7 +1900,8 @@ Notes:
 | como-cumque | comocunque <small>🏃 comunque</small> |
 | ubi-cumque  | ubicunque <small>🏃 ovunque</small>   |
 | | |
-
+| quale-cumque | qualcunque <small>🏃 qualunque</small> |
+| | |
 
 
 
