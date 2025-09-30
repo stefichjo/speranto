@@ -1847,6 +1847,10 @@ Notes:
 
 <!--v-->
 
+<small>Ne-akcentata fina vokalo eliziiĝas antaŭ *-cunque*.</small>
+
+<!--v-->
+
 | conservative | progressive |
 |-|-|
 | quale-cumque | qualcunque <small>🏃 qualunque</small> |
@@ -1881,6 +1885,9 @@ Notes:
 | quo-modo | como |
 | | |
 
+Notes:
+* En la formo *alicubi* riveliĝas la formo *cubi*, kiu estas inter *quobi* kaj *ubi*.
+
 <!--v-->
 
 | auxiliar | natural |
@@ -1902,24 +1909,20 @@ Notes:
 | conservative | progressive |
 |-|-|
 | como-cumque | comocunque <small>🏃 comunque</small> |
+| ubi-cumque  | ubicunque <small>🏃 ovunque</small>   |
 | | |
 
-<!-- TODO kiam eliziiĝas la vokalo antaŭ 🏃 -*unque*? (quiunque, comunque) -->
 
-<!--v-->
 
-| progressive |
-|-|
-| ubi |
-| |
-| alicubi |
-| necubi |
-| ubicunque |
-| ubique |
-| |
 
-Notes:
-* 🏃 *ovunque*
+
+
+
+
+
+
+
+
 
 <!--v-->
 
@@ -2026,6 +2029,50 @@ nihil → nil -->
 | | |
 | quando-que | semper |
 | | |
+
+
+
+
+<!--v-->
+
+<small>La tabelvorta sufikso *-cumque* uziĝas por formi tabelvorton tradukeblan per *ki- ajn*. Ĝiaj **konservema** kaj **progresema** formoj estas -*cunque" respektive -*unque* (tiam eliziiĝas ne-akcentata vokalo antaŭ ĝi).</small>
+
+<!--v-->
+
+| | | | | |
+|-|-|-|-|-|
+| *kia* | qual | | *tia* | tal |
+| *kiom* | quanto | | *tiom* | tanto |
+| | | | | |
+| *kiam* | quando | | *tiam* | ~tando~ → tunc |
+| *kial* | quare | | *tial* | ~tare~ → ergo |
+| | | | | |
+
+<!--v-->
+
+| | | | | |
+|-|-|-|-|-|
+| *kiel* | como | | *tiel* | si |
+| *kie* | ubi | | *tie* | ibi |
+| | | | | |
+
+<!--v-->
+
+| conservative | progressive |
+|-|-|
+| hic | ci |
+| nunc | ora |
+| | |
+
+<small>Tabelvortoj …</small>
+
+<!--v-->
+
+| classiche | moderne |
+|-|-|
+| illac/ibi | la |
+| | |
+
 
 
 
@@ -2740,70 +2787,6 @@ Notes:
 <!--v-->
 
 ## Kvazaŭ-substantivoj
-
-<!--v-->
-
-### Tabelvortoj
-
-<!--v-->
-
-| | conservativissime | conservative | progressive |
-|-|-|-|-|
-| *ie* | aliqui-ubi | alicubi | alcubi |
-| | | | |
-
-<small>La tabelvorto *aliqui* uziĝas kiel prefikso por formi i-tabelvortojn. Ĝiaj **konservema** kaj **progresema** formoj estas *alic*- respektive *alc*-.</small>
-
-| | conservative | progressive |
-|-|-|-|
-| *ien* | aliquo  | alquo  |
-| *iel* | alicomo | alcomo |
-| | | | |
-
-<small>Antaŭ konsonanto, t.e. antau *qu-* (aŭ *c-*), uziĝas nur *ali-* kiel prefikso.</small>
-
-Notes:
-* *io* ~alco~
-
-<!--v-->
-
-<small>La tabelvorta sufikso *-cumque* uziĝas por formi tabelvorton tradukeblan per *ki- ajn*. Ĝiaj **konservema** kaj **progresema** formoj estas -*cunque" respektive -*unque* (tiam eliziiĝas ne-akcentata vokalo antaŭ ĝi).</small>
-
-<!--v-->
-
-| | | | | |
-|-|-|-|-|-|
-| *kia* | qual | | *tia* | tal |
-| *kiom* | quanto | | *tiom* | tanto |
-| | | | | |
-| *kiam* | quando | | *tiam* | ~tando~ → tunc |
-| *kial* | quare | | *tial* | ~tare~ → ergo |
-| | | | | |
-
-<!--v-->
-
-| | | | | |
-|-|-|-|-|-|
-| *kiel* | como | | *tiel* | si |
-| *kie* | ubi | | *tie* | ibi |
-| | | | | |
-
-<!--v-->
-
-| conservative | progressive |
-|-|-|
-| hic | ci |
-| nunc | ora |
-| | |
-
-<small>Tabelvortoj …</small>
-
-<!--v-->
-
-| classiche | moderne |
-|-|-|
-| illac/ibi | la |
-| | |
 
 <!--v-->
 
