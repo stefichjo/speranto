@@ -1964,7 +1964,6 @@ Notes:
 | | |
 
 
-<!-- TODO cur = qua-re (sed etimologie disaj, tiel ŝajnas) -->
 <!-- TODO Ĉu en la konservema stilo simple uziĝas "aliqui" kaj "alique"? Aŭ ĉu io sama "aliquendam"? -->
 <!-- TODO Ĉu *une* ĉie en konservema stilo? -->
 
