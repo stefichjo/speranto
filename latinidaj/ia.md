@@ -2003,9 +2003,12 @@ Notes:
 <!-- TODO Ĉu en la konservema stilo simple uziĝas "aliqui" kaj "alique"? Aŭ ĉu io sama "aliquendam"? -->
 <!-- TODO Ĉu *une* ĉie en konservema stilo? -->
 
+<!-- simple ~ auxiliar ~ natural -->
+<!-- velle amar ~ amaria -->
+<!-- Interlingua es "auxiliar", ma on pote vider multos exemplos in le quales es un poco "auxiliar". Pro isto eo diceria que il ha un altere registro: "simple". -->
+<!-- Me appare que isto cambia tote le considerationes antee. -->
 
-
-
+<!-- artificial ~ auxiliar ~ natural -->
 
 
 
