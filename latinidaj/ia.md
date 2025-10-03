@@ -1869,7 +1869,12 @@ Notes:
 | ali-que | qualcosa |
 | | |
 
-<!-- TODO Ĉu "al(i)cun" pli taŭgas en ne-aj frazoj? -->
+<!-- TODO Ĉu "al(i)cun" pli taŭgas en *ne-aj* frazoj? -->
+
+
+
+
+
 
 <!--v-->
 
@@ -1878,6 +1883,11 @@ Notes:
 | ali-qui | **qualque un** <small>🏃 qualcun</small>, alicun <small>🏃 alcun</small> |
 | ali-que | **qualque cosa** <small>🏃 qualcosa</small> |
 | | |
+
+
+
+
+
 
 <!--v-->
 
@@ -1898,9 +1908,6 @@ Notes:
 | quoie    | cuje |
 | | |
 
-Notes:
-* En la formo *alicubi* riveliĝas la formo *cubi*, kiu estas inter *quobi* kaj *ubi*.
-
 <!--v-->
 
 | auxiliar | natural |
@@ -1910,6 +1917,7 @@ Notes:
 | | |
 
 Notes:
+* En la formo *alicubi* riveliĝas la formo *cubi*, kiu estas inter *quobi* kaj *ubi*.
 * conservative ~ progressive: *quia* ~ *proque*
 
 <!--v-->
@@ -1969,6 +1977,9 @@ Notes:
 | *in iste loco* | hic | <small>🐌 qui *[kŭi]*</small> ci |
 | *in ille tempore* | tunc | alora |
 | *in iste tempore* | nunc | ora |
+| *in ille manera*  | sic  | si  |
+| | | |
+| *de ille causa* | ergo | `?` |
 | | | |
 
 Notes:
@@ -2017,22 +2028,6 @@ Notes:
 <!--v-->
 
 <small>La tabelvorta sufikso *-cumque* uziĝas por formi tabelvorton tradukeblan per *ki- ajn*. Ĝiaj **konservema** kaj **progresema** formoj estas -*cunque" respektive -*unque* (tiam eliziiĝas ne-akcentata vokalo antaŭ ĝi).</small>
-
-<!--v-->
-
-| | | | | |
-|-|-|-|-|-|
-| *kiam* | quando | | *tiam* | ~tando~ → tunc |
-| *kial* | quare | | *tial* | ~tare~ → ergo |
-| | | | | |
-
-<!--v-->
-
-| | | | | |
-|-|-|-|-|-|
-| *kiel* | como | | *tiel* | si |
-| *kie* | ubi | | *tie* | ibi |
-| | | | | |
 
 
 
