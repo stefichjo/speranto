@@ -12,6 +12,8 @@ revealOptions:
 
 <!-- cd ~/Git/speranto/latinidaj; reveal-md ia.md -w -->
 
+<!-- 🐌🏃 🌎 -->
+
 # Interlingua
 
 <!--s-->
@@ -1682,7 +1684,6 @@ Notes:
 
 | |
 |-|
-| |
 | in van |
 | |
 
@@ -1690,7 +1691,6 @@ Notes:
 
 | |
 |-|
-| |
 | in **vano** |
 | |
 
@@ -1715,7 +1715,12 @@ Notes:
 | ha venite | 🚺 es venita / 🚹🚾 es venito |
 | | |
 
-<!-- TODO *site*, *(es)sente* -->
+<!--v-->
+
+| auxiliar | natural |
+|-:|-|
+| ha essite | 🚺 es sita / 🚹🚾 es sito |
+| | |
 
 <!--s-->
 
@@ -1864,6 +1869,8 @@ Notes:
 | ali-que | qualcosa |
 | | |
 
+<!-- TODO Ĉu "al(i)cun" pli taŭgas en ne-aj frazoj? -->
+
 <!--v-->
 
 | conservative | progressive |
@@ -1949,19 +1956,48 @@ Notes:
 
 <!--v-->
 
-| conservative | progressive |
+| natural |
+|:-:|
+
+| | conservative | progressive |
+|-|-|-|
+| *necun cosa* | nihil | nil |
+| | | |
+| *in omne tempore* | semper | sempre |
+| | | |
+| *in ille loco* | ibi | la |
+| *in iste loco* | hic | <small>🐌 qui *[kŭi]*</small> ci |
+| *in ille tempore* | tunc | alora |
+| *in iste tempore* | nunc | ora |
+| | | |
+
+Notes:
+* 🌎 *hic* ~ *hac*, *qui*, *ci*
+* 🌎 *ibi*, *illac*
+
+<!-- TODO que elle ~ ce elle -->
+<!-- TODO qui elle ~ ci elle -->
+
+<!--v-->
+
+| conservative |
+|:-:|
+
+| auxiliar | natural |
 |-|-|
-| nihil | nil |
-| semper | sempre |
+| ali-qui … | ulle …  |
+| ne-qui …  | nulle … |
+| ne-qui    | nemo    |
 | | |
 
 <!--v-->
 
 | conservative | progressive |
 |-|-|
-| nunc | ora |
-| hic | ci `?` |
+| nonnulle … | qualque … |
+| nonnulle   | <small>🐌 qualque un</small> qualcun |
 | | |
+
 
 
 <!-- TODO Ĉu en la konservema stilo simple uziĝas "aliqui" kaj "alique"? Aŭ ĉu io sama "aliquendam"? -->
@@ -1971,22 +2007,6 @@ Notes:
 
 
 
-
-
-
-
-<!-- Ĉi tie komenciĝas sekcieroj, kiuj prezentas alternativojn (simile al "nun" por "ĉi tiam") en Esperanto. -->
-
-<!--v-->
-
-| conservative |
-|:-:|
-
-| auxiliar | natural |
-|-|-|
-| ali-qui    | ulle |
-| ne-qui     | nulle …, nemo |
-| | |
 
 
 
@@ -2010,13 +2030,6 @@ Notes:
 | *kiel* | como | | *tiel* | si |
 | *kie* | ubi | | *tie* | ibi |
 | | | | | |
-
-<!--v-->
-
-| classiche | moderne |
-|-|-|
-| illac/ibi | la |
-| | |
 
 
 
@@ -2251,6 +2264,10 @@ Notes:
 | sêr | haber | ir |
 | | | |
 
+Notes:
+* 🌎 *esser* ~ *ser*
+  * 🌎 *essera* ~ *sera*, *esserea* ~ *serea*
+
 <!--v-->
 
 ### Imperativo
@@ -2352,11 +2369,34 @@ Notes:
 | sôn   | hân   | vân   |
 | | | |
 
+<!--v-->
+
+| | | |
+|-|-|-|
+| sum   | hab**e**o | vado    |
+| es    | habes     | vades   |
+| est   | habet     | vadet   |
+| sumus | habemus   | vademos |
+| estis | habetis   | vadetis |
+| sunt  | habent    | vadent  |
+| | | |
+
+<!--v-->
+
+| | | |
+|-|-|-|
+| <small>🐌 essem</small>   sum   | hab**e**o | <small>🐌 io</small>       vado    |
+| <small>🐌 esses</small>   es    | habes     | <small>🐌 is</small>       vades   |
+| <small>🐌 esset</small>   est   | habet     | <small>🐌 it</small>       vadet   |
+| <small>🐌 essemus</small> sumus | habemus   | <small>🐌 imus</small>     vademos |
+| <small>🐌 essetis</small> estis | habetis   | <small>🐌 itis</small>     vadetis |
+| <small>🐌 essent</small>  sunt  | habent    | <small>🐌 i**e**nt</small> vadent  |
+| | | |
+
 Notes:
-* *i* → ***e*** → *vâ*
-* 🌎 so, somos, son
-* conservative: *sum*, *es*, *est*, *sumus*, *estis*, *sunt*
-<!-- * essem, esses, esset, essemus, essetis, essent ⇒ essentia -->
+* 🌎 *es* ~ *so*, *somos*, *son*
+* 🌎 *essente*: *essentia*, -*sente*: *absente*, *presente*
+* *iente*: *transiente*
 
 <!--v-->
 
@@ -2409,6 +2449,9 @@ Notes:
 | êrais  | habíeis  | íais  |
 | êran   | habían   | ían   |
 | | | |
+
+Notes:
+* 🌎 esseva ~ era
 
 <!--v-->
 
