@@ -1812,82 +1812,79 @@ Notes:
 
 <!--v-->
 
-| conservative |
+| auxiliar (conservative) |
 |:-:|
 
-| | | | |
-|-|-|-|-|
+| | |
+|-|-|
 | 🚺🚹🚾 | qui … |
 | | |
 | 🚺🚹 | qui |
 | 🚾 | que |
-| | | | |
+| | |
 
-<!--v-->
-
-| progressive |
+| natural (conservative) |
 |:-:|
 
-| | | | |
-|-|-|-|-|
-| 🚺🚹🚾 | qual … |
+| | |
+|-|-|
+| 🚺🚹🚾 | quale … |
 | | |
 | 🚺🚹 | qui |
 | 🚾 | que |
-| | | | |
-
-<!--v-->
-
-| conservative | progressive |
-|-|-|
-| qui/ille … | qual/tal … |
-| | |
-
-<!--v-->
-
-| conservative | progressive |
-|-|-|
-| qui        | qui                                  |
-| ali-qui    | alicun <small>🏃 alcun</small>       |
-| ne-qui     | necun                                |
-| qui-cumque | quicunque <small>🏃 quiunque</small> |
-| qui-que    | quique                               |
 | | |
 
 Notes:
-* De le demonstrativos conservative *ali-qui* e *ne-qui* deveni le pseudo-prefixos progressive *alic-* e *nec-*. Illes pare in le formas progressive *alicun* e *necun*.
-
-<!--v-->
-
-<small>Le demonstrativo conservative *qual-que* *[kualku-e]* *("de omne genere")* diveni le adjectivo progressive *qualque* *[kŭalke]*.</small>
-
-<!--v-->
-
-| conservative | progressive |
-|-|-|
-| ali-qui | qualcun, alicun <small>🏃 alcun</small> |
-| ali-que | qualcosa |
-| | |
-
-<!-- TODO Ĉu "al(i)cun" pli taŭgas en *ne-aj* frazoj? -->
-
-
-
-
-
+* qui/ille …, qual/tal …
+* progressive: *qual* …, *que* …
 
 <!--v-->
 
 | conservative | progressive |
-|-|-|
-| ali-qui | **qualque un** <small>🏃 qualcun</small>, alicun <small>🏃 alcun</small> |
-| ali-que | **qualque cosa** <small>🏃 qualcosa</small> |
+|-:|-|
+| qui                    | qui                                  |
+| ali-qui …, ali-qui une | <small>🐌 alicun</small> alcun       |
+| ne-qui …, ne-qui une   | necun                                |
+| qui-cumque             | <small>🐌 quicunque</small> quiunque |
+| qui-que                | quique                               |
 | | |
 
+Notes:
+* conservative ~ progressive: *qui* *[kui']*, *qui* *[ki]*
+* -*(c)unque* -*[kŭe]*
+* De le demonstrativos conservative *ali-qui* e *ne-qui* deveni le pseudo-prefixos progressive *alc*- (<small>🐌 *alic*-</small>) e *nec*-. Illes pare in le formas progressive *alcun* (<small>🐌 *alicun*</small>) e *necun*.
 
+<!--v-->
 
+| conservative | progressive |
+|-:|-|
+| quale-que …, quale-que une | <small>🐌 qualque un</small> qualcun |
+| | |
+| ali-que | <small>🐌 qualque cosa</small> qualcosa |
+| | |
 
+<!--v-->
 
+| conservative |
+|:-:|
+
+| auxiliar | natural |
+|-:|-|
+| ali-qui … | ulle … |
+| ne-qui …  | nulle … |
+| ne-qui    | nemo |
+| | |
+| ne-que | nihil |
+| | |
+| quale-que … | nonnulle … |
+| | |
+
+<!--v-->
+
+| conservative | progressive |
+|-:|-|
+| ne-que | nil |
+| | |
 
 <!--v-->
 
@@ -1988,18 +1985,6 @@ Notes:
 
 <!-- TODO que elle ~ ce elle -->
 <!-- TODO qui elle ~ ci elle -->
-
-<!--v-->
-
-| conservative |
-|:-:|
-
-| auxiliar | natural |
-|-|-|
-| ali-qui … | ulle …  |
-| ne-qui …  | nulle … |
-| ne-qui    | nemo    |
-| | |
 
 <!--v-->
 
