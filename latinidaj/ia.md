@@ -1858,10 +1858,16 @@ Notes:
 
 | conservative | progressive |
 |-:|-|
-| quale-que …, quale-que une | <small>🐌 qualque un</small> qualcun |
+| quale-que …, quale-que une | qualque un |
 | | |
-| ali-que | <small>🐌 qualque cosa</small> qualcosa |
+| ali-que | qualcosa |
+| ali-que | qualque cosa `?` |
 | | |
+
+<!-- TODO trova location pro "qualcun"  -->
+
+<!-- TODO qualque cosa ≠ qualcosa (kelka aĵo ≠ io) -->
+<!-- alco → alque -->
 
 <!--v-->
 
@@ -1966,8 +1972,6 @@ Notes:
 
 | | conservative | progressive |
 |-|-|-|
-| *necun cosa* | nihil | nil |
-| | | |
 | *in omne tempore* | semper | sempre |
 | | | |
 | *in ille loco* | ibi | la |
@@ -1986,16 +1990,6 @@ Notes:
 <!-- TODO que elle ~ ce elle -->
 <!-- TODO qui elle ~ ci elle -->
 
-<!--v-->
-
-| conservative | progressive |
-|-|-|
-| nonnulle … | qualque … |
-| nonnulle   | <small>🐌 qualque un</small> qualcun |
-| | |
-
-
-
 <!-- TODO Ĉu en la konservema stilo simple uziĝas "aliqui" kaj "alique"? Aŭ ĉu io sama "aliquendam"? -->
 <!-- TODO Ĉu *une* ĉie en konservema stilo? -->
 
@@ -2006,26 +2000,9 @@ Notes:
 
 <!-- artificial ~ auxiliar ~ natural -->
 
-
-
-
-
 <!--v-->
 
 <small>La tabelvorta sufikso *-cumque* uziĝas por formi tabelvorton tradukeblan per *ki- ajn*. Ĝiaj **konservema** kaj **progresema** formoj estas -*cunque" respektive -*unque* (tiam eliziiĝas ne-akcentata vokalo antaŭ ĝi).</small>
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 <!--v-->
 
