@@ -18,11 +18,11 @@ revealOptions:
 
 <!--s-->
 
-# Stilo
+# Stile
 
 <!--s-->
 
-## Konservema kaj Progresema
+## Conservative e Progressive
 
 <!--v-->
 
@@ -618,9 +618,9 @@ Notes:
 |-|-|
 | analysis *[anali-sis]* | analyse *[anali-ze]* |
 | | |
-| character *[karaktere]* | charactere *[karakte-re]* |
+| character *[karakter']* | charactere *[karakte-re]* |
 | | |
-| aer *[aere]* | aere *[ae-re]* |
+| aer *[aer']* | aere *[ae-re]* |
 | | |
 
 <!--v-->
@@ -693,7 +693,7 @@ Notes:
 
 <!--s-->
 
-## Konservemega
+## Conservativissime
 
 <!--v-->
 
@@ -810,7 +810,7 @@ Notes:
 
 <!--s-->
 
-## Progresemega
+## Progressivissime
 
 <!--v-->
 
@@ -1257,6 +1257,7 @@ Notes:
 <!-- <small>La formoj de *femina* kaj *pagina* estas senŝanĝaj. Ilia latinlingva nominativo finiĝas per -*ina*.</small> -->
 <!-- TODO hospite limite -->
 <!-- <small>La formoj de *hospite* kaj *limite* estas senŝanĝaj. Ilia latinlingva nominativo finiĝas per -*es*.</small> -->
+<!-- TODO lado/lade? !!! :( -->
 
 <!--v-->
 
@@ -1378,7 +1379,7 @@ Notes:
 
 | | progressive | progressivissime |
 |-|-:|-|
-| ego | ***[eo]*** <small>🏃 *[io]*</small> | [ĵo] <small>🏃 *[ĵ]*</small> |
+| ego | ***[eo]*** <small>🏃 *[io]*</small> | <small>🐌 *[jo]*</small> [ĵo] <small>🏃 *[ĵ]*</small> |
 | | | |
 
 <!--v-->
@@ -1391,7 +1392,7 @@ Notes:
 
 <!--s-->
 
-## Progresemega (Rapida)
+## Progressivissime (Rapide)
 
 <!--v-->
 
@@ -1652,15 +1653,15 @@ Notes:
 
 <!--s-->
 
-# Fleksio
+# Registro
 
 <!--s-->
 
-## Deklinacio
+## Declination
 
 <!--s-->
 
-### Adjektivoj
+### Adjectivos
 
 <!--v-->
 
@@ -1724,7 +1725,7 @@ Notes:
 
 <!--s-->
 
-### Demonstrativoj kaj Artikoloj
+### Demonstrativos e Articulos
 
 <!--v-->
 
@@ -1842,17 +1843,16 @@ Notes:
 
 | conservative | progressive |
 |-:|-|
-| qui                    | qui                                  |
+| qui  | qui |
 | ali-qui …, ali-qui une | <small>🐌 alicun</small> alcun       |
-| ne-qui …, ne-qui une   | necun                                |
-| qui-cumque             | <small>🐌 quicunque</small> quiunque |
-| qui-que                | quique                               |
+| ne-qui …, ne-qui une   | necun  |
+| qui-cumque | <small>🐌 quicunque</small> quiunque |
 | | |
 
 Notes:
 * conservative ~ progressive: *qui* *[kui']*, *qui* *[ki]*
 * -*(c)unque* -*[kŭe]*
-* De le demonstrativos conservative *ali-qui* e *ne-qui* deveni le pseudo-prefixos progressive *alc*- (<small>🐌 *alic*-</small>) e *nec*-. Illes pare in le formas progressive *alcun* (<small>🐌 *alicun*</small>) e *necun*.
+* *qui-cumque* = *kiu ajn* / *ĉiu*
 
 <!--v-->
 
@@ -2006,7 +2006,7 @@ Notes:
 
 <!--v-->
 
-### Numeraloj kaj Ordinaloj
+### Numerales e Ordinales
 
 <small>Numeraloj estas malpli longaj en la helpeca fleksio ol en la natureca fleksio. (Krom *sex*, kiu estas senŝanĝa.) Simile, la helpecaj ordinaloj estas ofte bazitaj sur la helpecaj numeraloj.</small>
 
@@ -2051,7 +2051,7 @@ Notes:
 
 <!--s-->
 
-### Personaj Pronomoj
+### Pronomines Personal
 
 <!--v-->
 
@@ -2112,8 +2112,7 @@ Notes:
 
 <!--s-->
 
-
-## Konjugacio
+## Conjugation
 
 <!--v-->
 
@@ -2252,7 +2251,7 @@ Notes:
 
 <!--v-->
 
-### Prezenco
+### Presente
 
 <!--v-->
 
@@ -2458,7 +2457,7 @@ Notes:
 
 <!--v-->
 
-### Konjunktivo de la Prezenco
+### Conjunctivo del Presente
 
 <!--v-->
 
@@ -2504,7 +2503,7 @@ Notes:
 
 <!--v-->
 
-### Konjunktivo de la Preterito 📖
+### Conjunctivo del Preterito 📖
 
 <!--v-->
 
@@ -2549,7 +2548,7 @@ Notes:
 
 <!--v-->
 
-### Konjunktivo de la Futuro
+### Conjunctivo del Futuro
 *(Kondicionalo)*
 
 <!--v-->
@@ -2593,7 +2592,7 @@ Notes:
 
 <!--v-->
 
-### Perfekto de la Prezenco 📖
+### Perfecto del Presente 📖
 
 <!--v-->
 
@@ -2637,7 +2636,7 @@ Notes:
 
 <!--v-->
 
-### Perfekto de la Preterito 📖📖
+### Perfecto del Preterito 📖📖
 
 <!--v-->
 
@@ -2689,7 +2688,7 @@ Notes:
 
 <!--v-->
 
-### Perfekto de la Futuro 📖📖
+### Perfecto del Futuro 📖📖
 
 <!--v-->
 
@@ -2739,7 +2738,6 @@ Notes:
 <!--v-->
 
 <!-- TODO -->
-<!-- disveloppar, developpar -->
 <!-- uxor, sposa -->
 <!-- i.e. id es (latinaĵo, cetere) -->
 <!-- espaventar -->
@@ -2750,3 +2748,167 @@ Notes:
 
 <!-- https://www.interlingua.com/linguistic/selige-un-stilo-de-interlingua/ -->
 <!-- ipse / mesme ? -->
+
+<!--s-->
+
+Declaration Universal del Derectos Human
+
+<!--v-->
+
+Preambulo
+
+<small></small>
+
+<!--v-->
+
+| 🌎 |
+|:-:|
+
+Considerante que le recognoscentia del dignitate inherente a tote le membros del familia human e de lor derectos equal e inalienabile constitue le fundamento del libertate, del justitia e del pace in le mundo,
+
+<!--v-->
+
+| *conservative* + auxiliar |
+|:-:|
+
+Considerante que le recognoscentia del dignitate inherente a tote le membros del familia human*e* e de su*e* derectos equal*e* e inalienabile constitue le fundamento del libertate, del justitia e del pace in le mundo,
+
+Notes:
+* ti<small>*-ci-*</small> …
+* lor → su*e*
+
+<!--v-->
+
+| 🌎 |
+|:-:|
+
+Considerante que le ignorantia e le disprecio del derectos human ha resultate in actos de barbaria que ultragia le conscientia del humanitate, e que le advenimento de un mundo in le qual le esseres human essera libere de parlar e de creder, liberate del terror e del miseria, ha essite proclamate como le plus alte aspiration del homine,
+
+<!--v-->
+
+| *progressive* + auxiliar |
+|:-:|
+
+Considerante que le ignorantia e le dispretio del derectos human ha resultate in actos de barbaria que ultraja le conscientia del humanitate, e que le advenimento de un mundo in le qual le esseres human essera libere de parlar e de creder, liberate del terror e del miseria, ha essite proclamate como le plus alte aspiration del homine,
+
+Notes:
+* ti<small>*-sj-*</small> …
+* disprecio → dispretio
+* ultragia → ultraja
+
+
+
+<!--v-->
+
+| 🌎 |
+|:-:|
+
+Considerante que il es essential que le derectos human es protegite per medio de un regime de derecto, a fin que le homine non es compellite al ultime recurso del rebellion contra le tyrannia e le oppression,
+
+<!--v-->
+
+| 🌎 |
+|:-:|
+
+Considerante que il es essential promover le disveloppamento de relationes amical inter le nationes,
+
+<!--v-->
+
+| 🌎 |
+|:-:|
+
+Considerante que in le Charta le populos del Nationes Unite ha reaffirmate lor fide in le derectos human fundamental, in le dignitate e in le valor del persona human, in le equalitate del derectos del homines e del feminas, e que illos se ha declarate resolute a promover le progresso social e a instaurar melior conditiones de vita in un libertate plus grande,
+
+<!--v-->
+
+| 🌎 |
+|:-:|
+
+Considerante que le Statos Membros ha promittite de assecurar, in cooperation con le Organisation del Nationes Unite, le respecto universal e effective al derectos human e libertates fundamental,
+
+<!--v-->
+
+| 🌎 |
+|:-:|
+
+Considerante que un conception commun de iste derectos e libertates es del plus grande importantia pro le plen realisation de iste promissa,
+
+<!--v-->
+
+| 🌎 |
+|:-:|
+
+Le Assemblea General
+
+Proclama le presente Declaration Universal del Derectos Human como le ideal commun a attinger per tote le populos e nationes, a fin que tote le individuos e tote le organos del societate, habente iste Declaration constantemente in mente, se effortia, per le inseniamento e per le education, …
+
+<!--v-->
+
+| 🌎 |
+|:-:|
+
+… a disveloppar le respecto a iste derectos e libertates e a promover, per mesuras progressive de character national e international, lor recognoscentia e lor application universal e effective tanto inter le populos del Statos Membros mesme como inter los del territorios sub lor jurisdiction.
+
+
+
+
+
+
+<!--v-->
+
+| *progressive* + auxiliar |
+|:-:|
+
+Considerante que il es essential<small>*-sj-*</small> que le derectos human<small>*~h~*</small> es protegite<small>*-ĵi-*</small> per medio<small>*-dj-*</small> de un regime<small>*-ĵi-*</small> de derecto, a fin que le homine<small>*~h~*</small> non es compellite al ultime recurso del rebellion<small>*-lj-*</small> contra le tyrannia e le oppression<small>*-sj-*</small>,
+
+<!--v-->
+
+| *progressive* + natural |
+|:-:|
+
+Considerante que il es essential<small>*-sj-*</small> promover **lo** disveloppamento de relationes<small>*-sj-*</small> amical**es** inter **las** nationes<small>*-sj-*</small>,
+
+<!--v-->
+
+| *conservative* + natural |
+|:-:|
+
+Considerante que in l**a** Charta l**os** populos de l**as** Nationes<small>*-ci-*</small> Unite**s** reaffirm***averunt*** su*a*<small>🌎 lor</small> fide in l**os** derectos human**os** fundamental**es**, in l**a** dignitate e in l**o** valor*e* de l**a** persona human**a**, in l**a** equalitate de l**os** derectos de l**os** homines e de l**as** feminas, e que illos se declar***averunt*** resolut**os** a promover*e*<small>-mó-</small> l**o** progresso social*e* e a instaurar*e* melior***es*** conditiones<small>*-ci-*</small> de vita in un**a** libertate plus grande,
+
+<!--v-->
+
+| *conservativissime* + auxiliar |
+|:-:|
+
+Cᴏɴsɪᴅᴇʀᴀɴᴛᴇ ᴏ̨ᴠᴇ ʟᴇ Sᴛᴀᴛᴏs Mᴇᴍʙʀᴏs ʜᴀ*ʙᴇ* ᴘʀᴏᴍɪᴛᴛɪᴛᴇ ᴅᴇ ᴀssᴇᴄᴠʀᴀʀ*ᴇ*, ɪɴ ᴄᴏᴏᴘᴇʀᴀᴛɪᴏɴ*ᴇ* ᴄᴏɴ ʟᴇ Oʀɢᴀɴɪsᴀᴛɪᴏɴ*ᴇ* ᴅᴇʟ Nᴀᴛɪᴏɴᴇs Uɴɪᴛᴇ, ʟᴇ ʀᴇsᴘᴇᴄᴛᴏ ᴠɴɪᴠᴇʀsᴀʟ*ᴇ* ᴇ ᴇғғᴇᴄᴛɪᴠᴇ ᴀʟ ᴅᴇʀᴇᴄᴛᴏs ʜᴠᴍᴀɴ*ᴇ* ᴇ ʟɪʙᴇʀᴛᴀᴛᴇs ғᴠɴᴅᴀᴍᴇɴᴛᴀʟ*ᴇ*,
+
+<!--v-->
+
+| *progressivissime* + auxiliar |
+|:-:|
+
+Considerante que un concepcion comun de *queste* derectos e libertates es del plus grande importancia pro le plen realisacion de *queste* promisa,
+
+<!--v-->
+
+| *progressivissime* + natural |
+|:-:|
+
+L**a** Asemblea General<small>*Ĵeneĥaŭ*</small>
+
+<!--v-->
+
+| *conservativissime* + natural |
+|:-:|
+
+Pʀᴏᴄʟᴀᴍᴀ**ᴛ** ʟ**ᴀ** ᴘʀᴇsᴇɴᴛᴇ Dᴇᴄʟᴀʀᴀᴛɪᴏɴ*ᴇ* Uɴɪᴠᴇʀsᴀʟ*ᴇ* ᴅᴇ ʟ**ᴏs** Dᴇʀᴇᴄᴛᴏs Hᴠᴍᴀɴ**ᴏs** *ᴏ̨ᴠᴏ-ᴍᴏᴅᴏ* ʟᴏ ɪᴅᴇᴀʟ*ᴇ* ᴄᴏᴍᴍᴠɴ*ᴇ* ᴀ ᴀᴛᴛɪɴɢᴇʀ*ᴇ* ᴘᴇʀ ᴛᴏᴛ**ᴏs** ʟ**ᴏs** ᴘᴏᴘᴠʟᴏs ᴇ ɴᴀᴛɪᴏɴᴇs, ᴀ ғɪɴ*ᴇ* ᴏ̨ᴠᴇ ᴛᴏᴛ**ᴏs** ʟ**ᴏs** ɪɴᴅɪᴠɪᴅᴠᴏs ᴇ ᴛᴏᴛ**ᴏs** ʟ**ᴏs** ᴏʀɢᴀɴᴏs ᴅᴇ ʟ**ᴀ** sᴏᴄɪᴇᴛᴀᴛᴇ, ʜᴀʙᴇɴᴛᴇ ɪsᴛᴇ Dᴇᴄʟᴀʀᴀᴛɪᴏɴ*ᴇ* ᴄᴏɴsᴛᴀɴᴛᴇᴍᴇɴᴛᴇ ɪɴ ᴍᴇɴᴛᴇ, sᴇ ᴇғғᴏʀᴛɪ***ᴇɴᴛ***, ᴘᴇʀ ʟ**ᴏ** ɪɴsɪɢɴᴀᴍᴇɴᴛᴏ<small>🌎 inseniamento</small> ᴇ ᴘᴇʀ ʟ**ᴀ** ᴇᴅᴠᴄᴀᴛɪᴏɴ*ᴇ*, …
+
+<!--v-->
+
+| *conservativissime* + natural |
+|:-:|
+
+… ᴀ ᴅɪsᴠᴇʟᴏᴘᴘᴀʀ*ᴇ* ʟ**ᴏ** ʀᴇsᴘᴇᴄᴛᴏ ᴀ ɪsᴛ**ᴏs** ᴅᴇʀᴇᴄᴛᴏs ᴇ ʟɪʙᴇʀᴛᴀᴛᴇs ᴇ ᴀ ᴘʀᴏᴍᴏᴠᴇʀ*ᴇ*, ᴘᴇʀ ᴍᴇsᴠʀᴀs ᴘʀᴏɢʀᴇssɪᴠ**ᴀs** ᴅᴇ ᴄʜᴀʀᴀᴄᴛᴇʀ ɴᴀᴛɪᴏɴᴀʟ*ᴇ* ᴇ ɪɴᴛᴇʀɴᴀᴛɪᴏɴᴀʟ*ᴇ*, ʟᴏʀᴏ<small>🌎 lor</small> ʀᴇᴄᴏɢɴᴏsᴄᴇɴᴛɪᴀ ᴇ ʟᴏʀᴏ<small>🌎 lor</small> ᴀᴘᴘʟɪᴄᴀᴛɪᴏɴ*ᴇ* ᴠɴɪᴠᴇʀsᴀʟ*ᴇ* ᴇ ᴇғғᴇᴄᴛɪᴠ**ᴀ** ᴛᴀ**ᴍ** ɪɴᴛᴇʀ ʟ**ᴏs** ᴘᴏᴘᴠʟᴏs ᴅᴇ ʟ**ᴏs** Sᴛᴀᴛᴏs Mᴇᴍʙʀᴏs *ᴍᴇᴛɪᴘsɪᴍᴏ* *ᴏ̨ᴠᴏ-ᴍᴏᴅᴏ* ɪɴᴛᴇʀ ʟ**ᴏs** ᴅᴇ ʟ**ᴏs** ᴛᴇʀʀɪᴛᴏʀɪᴏs sᴠʙ ʟᴏʀᴏ<small>🌎 lor</small> ɪᴠʀɪsᴅɪᴄᴛɪᴏɴ*ᴇ*.
+
+<!-- que = kue -->
+<!-- TODO lor = libra stilo -->
