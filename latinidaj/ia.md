@@ -899,7 +899,7 @@ Notes:
 
 ### r
 
-<small>*r* prononciĝas *[ĥ]*.</small>
+<small>*r* prononciĝas *[r]* nur inter vokaloj. Alikaze, ĝi prononciĝas *[ĥ]*.</small>
 
 <!--v-->
 
@@ -1064,21 +1064,21 @@ Notes:
 
 | | progressive | progressivissime |
 |-|-|-|
-| carro | *[karo]* | *[ĉaĥo]* |
+| carro | *[karo]* | *[ĉaro]* |
 | | | |
 
 <!--v-->
 
 | | progressive | progressivissime |
 |-|-|-|
-| carro | *[karo]* | <small>🐌 *[karo]*</small> *[ĉaĥo]* |
+| carro | *[karo]* | <small>🐌 *[karo]*</small> *[ĉaro]* |
 | | | |
 
 <!--v-->
 
 | | progressive | progressivissime |
 |-|-|-|
-| carro | *[karo]* | <small>🐌 *[karo]*</small> *[ĉaĥo]* <small>🏃 *[ŝaĥ]*</small> |
+| carro | *[karo]* | <small>🐌 *[karo]*</small> *[ĉaro]* <small>🏃 *[ŝaĥ]*</small> |
 | | | |
 
 <!--v-->
@@ -1150,7 +1150,7 @@ Notes:
 |-|-:|-|
 | traino | *[trajno]* | *[tĥeno]* |
 | | | |
-| aere | *[ae-re]* | *[ajĥe]* |
+| aere | *[ae-re]* | *[ajre]* |
 | | | |
 | cauda | *[kaŭda]* | *[koda]* |
 | | | |
@@ -1164,7 +1164,7 @@ Notes:
 |-|-:|-|
 | traino | *[trajno]* | <small>🐌 *[treno]*</small> *[tĥeno]* |
 | | | |
-| aere | *[ae-re]* | <small>🐌 *[ajre]*</small> *[ajĥe]* |
+| aere | *[ae-re]* | <small>🐌 *[ajre]*</small> *[ajre]* |
 | | | |
 | pauco | *[paŭko]* | <small>🐌 *[poko]*</small> *[poko]* |
 | | | |
@@ -1175,7 +1175,7 @@ Notes:
 |-|-:|-|
 | traino | *[trajno]* | <small>🐌 *[treno]*</small> *[tĥeno]* |
 | | | |
-| aere | *[ae-re]* | <small>🐌 *[ajre]*</small> *[ajĥe]* <small>🏃 *[eĥ]*</small> |
+| aere | *[ae-re]* | <small>🐌 *[ajre]*</small> *[ajre]* <small>🏃 *[eĥ]*</small> |
 | | | |
 | pauco | *[paŭko]* | <small>🐌 *[poko]*</small> *[poko]* |
 | | | |
@@ -1302,7 +1302,7 @@ Notes:
 | | | |
 
 Notes:
-* 🏃 *[ŝãbĥ]*, 🏃 *[tẽdr]*
+* 🏃 *[ŝãbĥ]*, 🏃 *[tẽdĥ]*
 
 <!--v-->
 
@@ -1451,7 +1451,7 @@ Notes:
 
 | | progressive | progressivissime |
 |-|-:|-|
-| heri | *[eri]* | *[eĥi]* |
+| heri | *[eri]* | *[eri]* |
 | | | |
 | ovo | *[ovo]* | *[ovo]* |
 | | | |
@@ -1460,7 +1460,7 @@ Notes:
 
 | | progressive | progressivissime |
 |-|-:|-|
-| heri | *[eri]* | *[eĥi]* <small>🏃 *[jeĥ]*</small> |
+| heri | *[eri]* | *[eri]* <small>🏃 *[jeĥ]*</small> |
 | | | |
 | ovo | *[ovo]* | *[ovo]* <small>🏃 *[ŭov]*</small> |
 | | | |
@@ -1513,7 +1513,7 @@ Notes:
 
 | | progressive | progressivissime |
 |-|-:|-|
-| sperantia | *[speransja]* | *[speĥansa]* |
+| sperantia | *[speransja]* | *[speransa]* |
 | | | |
 | station | *[stasjon']* | *[stasjon']* |
 | | | |
@@ -1524,7 +1524,7 @@ Notes:
 
 | | progressive | progressivissime |
 |-|-:|-|
-| sperantia | *[speransja]* | *[speĥansa]* <small>🏃 *[espeĥãs]*</small> |
+| sperantia | *[speransja]* | *[speransa]* <small>🏃 *[espeĥãs]*</small> |
 | | | |
 | station | *[stasjon']* | *[stasjon']* <small>🏃 *[estasjõ']*</small> |
 | | | |
@@ -2800,6 +2800,26 @@ Dᴇᴄʟᴀʀᴀᴛɪᴏɴ**ᴇ** Uɴɪᴠᴇʀsᴀʟ**ᴇ** ᴅᴇʟ Dᴇʀᴇ
   
 <!--v-->
 
+| 🌎 progressivissime |
+|:-:|
+
+Declaration<small>[õ]</small> Universal<small>[ĥ] [ŭ]</small> del<small>[ŭ]</small> Derectos Human<small>[ã]</small>
+
+<!--v-->
+
+| 🌎 progressivissime |
+|:-:|
+
+Declaracion Universal del Derectos Human
+
+
+
+
+
+
+
+<!--v-->
+
 | 🌎 conservativissime<small>natural</small> |
 |:-:|
 
@@ -2821,24 +2841,15 @@ Declaration Universal de l**os** Derectos Human**os**
 
 <!--v-->
 
-| 🌎 progressivissime |
-|:-:|
-
-Declaration<small>[õ]</small> Universal<small>[ŭ]</small> del<small>[ŭ]</small> Derectos Human<small>[ã]</small>
-
-<!--v-->
-
-| 🌎 progressivissime |
-|:-:|
-
-Declaracion Universal del Derectos Human
-
-<!--v-->
-
 | 🌎 progressivissime<small>natural</small> |
 |:-:|
 
 Declaracion Universal de l**os** Derectos Human**os**
+
+
+
+
+
 
 <!--s-->
 
