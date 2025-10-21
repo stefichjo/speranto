@@ -2749,10 +2749,7 @@ Notes:
 
 <!--s-->
 
-| 🌎 |
-|:-:|
-
-Declaration Universal del Derectos Human
+# Declaration Universal del Derectos Human
 
 <!--v-->
 
@@ -2783,14 +2780,7 @@ Declaration<small>[õ]</small> Universal<small>[ĥ] [ŭ]</small> del<small>[ŭ]<
 | 🌎 progressivissime |
 |:-:|
 
-Declaracion<small>[õ]</small> Universal<small>[ĥ] [ŭ]</small> del<small>[ŭ]</small> Derectos Human<small>[ã]</small>
-
-<!--v-->
-
-| 🌎 progressivissime<small>🏃</small> |
-|:-:|
-
-Declaracion<small>[ĥ]</small> Universal del Derectos<small>[ĥ] [ts]</small> Human
+Declaracion Universal del Derectos Human
 
 <!--v-->
 
@@ -2829,10 +2819,10 @@ Dᴇᴄʟᴀʀᴀᴛɪᴏɴ**ᴇ** Uɴɪᴠᴇʀ**ᴛɪᴛ**ᴀʟ**ᴇ** ᴅᴇ�
   
 <!--v-->
 
-| 🌎 conservative<small>natural</small> |
+| 🌎 progressivissime<small>🏃</small> |
 |:-:|
 
-Declaration**e** Universal**e** de l**os** D**i**rectos Human**os**
+Declaracion<small>[ĥ]</small> Universal del Derectos<small>[ĥ] [ts]</small> Human
 
 <!--v-->
 
@@ -2841,56 +2831,72 @@ Declaration**e** Universal**e** de l**os** D**i**rectos Human**os**
 
 Declaration Universal de l**os** Derectos Human**os**
 
+<!--v-->
+
+| 🌎 conservative<small>natural</small> |
+|:-:|
+
+Declaration**e** Universal**e** de l**os** D**i**rectos Human**os**
+
 <!--s-->
 
-| 🌎 |
-|:-:|
-
-Articulo 1
+## Articulo 1
 
 <!--v-->
 
-| 🌎 |
+| 🌎 progressive |
 |:-:|
 
-Tote le esseres human nasce libere e equal in dignitate e in derectos. Illes es dotate de ration e de conscientia e debe ager le unes verso le alteres in un spirito de fraternitate.
+Tote le esseres human nasce libere e<br> equal in dignitate e in derectos. Illes es<br> dotate de ration e de conscientia e debe<br> ager le unes verso le alteres in un spirito de fraternitate.
 
 <!--v-->
 
-| 🌎 *conservative* |
+| 🌎 progressive<small>natural</small> |
 |:-:|
 
-Tote le esseres human*e* nasce libere e equal*e* in dignitate e in derectos. Illes es dotate de ration*e* e de conscientia e debe ager*e* le unes verso le alteres in un spirito de fraternitate.
+Tot**os** l**os** **sêr**es human**os** nasce**n** liber**os** e<br> equal**es** in dignitate e in derectos. Illes **sôn**<br> dotat**os** de ration e de conscientia e debe**n**<br> ager l**os** un**os** verso l**os** alter**os** in un spirito de fraternitate.
 
 <!--v-->
 
-| 🌎 *progressive* |
+| 🌎 conservative<small>natural</small> |
 |:-:|
 
-Tote le esseres human nasce libere e equal in dignitate e in derectos. Illes es dotate de ration e de conscientia e debe ager le unes verso le alteres in un spirito de fraternitate.
+Tot**os** l**os** esseres human**os** nasce**nt** liber**os** e equal**es** in dignitate e in derectos. Illes **sunt** dotat**os** de ration**e** e de conscientia e debe**nt**<br> ager**e**<small>[á]</small> l**os** un**os** verso l**os** alter**os** in un spirito de fraternitate.
+
+<!--s-->
+
+## Articulo 2 (1/2)
 
 <!--v-->
 
-| 🌎 *progressive* + auxiliar |
+| 🌎 progressive |
 |:-:|
 
-Tote le esseres human nasce libere e equal in dignitate e in derectos. Illes es dotate de ration e de conscientia e debe ager le unes verso le alteres in un spirito de fraternitate.
+Tote esser human ha tote le derectos e tote le libertates proclamate in iste Declaration, sin alicun distinction de racia, de color, de sexo, de lingua, de religion, de opinion politic o de altere opinion, de origine national o social, de position economic, de nascentia o de qualcunque altere position.
+
+Notes:
+* *tote* ≠ *omne* `sts`
+  * Oni ne povas diri *omne le libertates*, sed nur *omne libertates*.
+    * ⇒ *tote (singular)* → *omne*
+      * *tote le libertates* restas en ordo, same kiel *tote le garantia*.
 
 <!--v-->
 
-| 🌎 *progressive* + natural |
-|:-:|
-
-Tot**os** l**os** ***ser***es human**os** nasc***en*** liber**os** e equal**es** in dignitate e in derectos. Illes ***sôn*** dotat**os** de ration e de conscientia e deb***en*** ager l**os** un**os** verso l**os** alter**os** in un spirito de fraternitate.
+## Articulo 2 (2/2)
 
 <!--v-->
 
-| 🌎 *conservative* + natural |
+| 🌎 progressive |
 |:-:|
 
-Tot**os** l**os** esseres human**os** nasc***ent*** liber**os** e equal**es** in dignitate e in derectos. Illes ***sunt*** dotat**os** de ration*e* e de conscientia e deb***ent*** ager*e* l**os** un**os** verso l**os** alter**os** in un spirito de fraternitate.
+In plus, il non essera facite alicun distinction fundate super le statuto politic, juridic o international del pais o del territorio al qual un persona pertine, tanto si il se tracta de un pais independente como de un territorio sub tutela, non autonome o submittite a qualcunque altere limitation de soveranitate.
 
 
-TODO conservative 🐌🏃
+
+
+
+
+
+
 
 <!-- TODO lor = libra stilo -->
