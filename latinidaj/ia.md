@@ -192,6 +192,8 @@ Notes:
 | spatio | <small>🐌 *[spati-o]*</small> *[spaci-o]* | <small>🐌 *[spaθjo]*</small> *[spasjo]* |
 | | | |
 
+<!-- TODO preferinde conservative/progressive 🐌 ĥentro spaθi-o -->
+
 Notes:
 * Tra-brua progresema stilo estas rapida konservema stilo. Analogie, tra-brua progresemega stilo estas rapida progresema stilo.
 
@@ -2733,10 +2735,6 @@ Notes:
 
 <!--v-->
 
-## Kvazaŭ-substantivoj
-
-<!--v-->
-
 <!-- TODO -->
 <!-- uxor, sposa -->
 <!-- i.e. id es (latinaĵo, cetere) -->
@@ -2758,46 +2756,21 @@ Declaration Universal del Derectos Human
 
 <!--v-->
 
-| 🌎 classic |
-|:-:|
-
-Declaration<small>[ci]</small> Universal del Derectos Human
-
-<!--v-->
-
-| 🌎 collateral |
+| 🌎 „collateral“ |
 |:-:|
 
 Declaration<small>[sj]</small> Universal del Derectos Human<small>[~h~]</small>
 
 <!--v-->
 
-| 🌎 progressive ≈ collateral |
+| 🌎 progressive |
 |:-:|
 
 Declaration<small>[sj]</small> Universal del Derectos Human<small>[~h~]</small>
 
-<!--v-->
+Notes:
+* neologismo *derecto*
 
-| 🌎 conservative ≈ classic |
-|:-:|
-
-Declaration**e**<small>[ci]</small> Universal**e** del Derectos Human**e**
-
-<!--v-->
-
-| 🌎 conservativissime |
-|:-:|
-
-Declaration**e**<small>[ti]</small> Universal**e**<small>[-iŭe-]</small> del Derectos Human**e**
-
-<!--v-->
-
-| 🌎 conservativissime |
-|:-:|
-
-Dᴇᴄʟᴀʀᴀᴛɪᴏɴ**ᴇ** Uɴɪᴠᴇʀsᴀʟ**ᴇ** ᴅᴇʟ Dᴇʀᴇᴄᴛᴏs Hᴜᴍᴀɴ*ᴇ*
-  
 <!--v-->
 
 | 🌎 progressivissime |
@@ -2810,14 +2783,56 @@ Declaration<small>[õ]</small> Universal<small>[ĥ] [ŭ]</small> del<small>[ŭ]<
 | 🌎 progressivissime |
 |:-:|
 
-Declaracion Universal del Derectos Human
+Declaracion<small>[õ]</small> Universal<small>[ĥ] [ŭ]</small> del<small>[ŭ]</small> Derectos Human<small>[ã]</small>
 
 <!--v-->
 
-| 🌎 progressivissime<small>natural</small> |
+| 🌎 progressivissime<small>🏃</small> |
 |:-:|
 
-Declaracion Universal de l**os** Derectos Human**os**
+Declaracion<small>[ĥ]</small> Universal del Derectos<small>[ĥ] [ts]</small> Human
+
+<!--v-->
+
+| 🌎 „classic“ |
+|:-:|
+
+Declaration<small>[ci]</small> Universal del Derectos Human
+
+<!--v-->
+
+| 🌎 conservative |
+|:-:|
+
+Declaration**e**<small>[ci]</small> Universal**e** del D**i**rectos Human**e**
+
+<!--v-->
+
+| 🌎 conservativissime |
+|:-:|
+
+Declaration**e**<small>[ti]</small> Universal**e**<small>[-iŭe-]</small> del D**i**rectos Human**e**
+
+<!--v-->
+
+| 🌎 conservativissime |
+|:-:|
+
+Dᴇᴄʟᴀʀᴀᴛɪᴏɴ**ᴇ** Uɴɪᴠᴇʀsᴀʟ**ᴇ** ᴅᴇʟ D**ɪ**ʀᴇᴄᴛᴏs Hᴜᴍᴀɴ**ᴇ**
+  
+<!--v-->
+
+| 🌎 conservativissime<small>🐌</small> |
+|:-:|
+
+Dᴇᴄʟᴀʀᴀᴛɪᴏɴ**ᴇ** Uɴɪᴠᴇʀ**ᴛɪᴛ**ᴀʟ**ᴇ** ᴅᴇʟ D**ɪ**ʀ**ɪɢɪ**ᴛᴏs Hᴜᴍᴀɴ**ᴇ**
+  
+<!--v-->
+
+| 🌎 conservative<small>natural</small> |
+|:-:|
+
+Declaration**e** Universal**e** de l**os** D**i**rectos Human**os**
 
 <!--v-->
 
@@ -2825,25 +2840,6 @@ Declaracion Universal de l**os** Derectos Human**os**
 |:-:|
 
 Declaration Universal de l**os** Derectos Human**os**
-
-<!--v-->
-
-| 🌎 conservative<small>natural</small> |
-|:-:|
-
-Declaration**e** Universal**e** de l**os** Derectos Human**os**
-
-<!--v-->
-
-| 🌎 conservativissime<small>natural</small> |
-|:-:|
-
-Dᴇᴄʟᴀʀᴀᴛɪᴏɴ**ᴇ** Uɴɪᴠᴇʀsᴀʟ**ᴇ** ᴅᴇ ʟ**ᴏs** Dᴇʀᴇᴄᴛᴏs Hᴜᴍᴀɴ**ᴏs**
-  
-
-
-
-
 
 <!--s-->
 
@@ -2894,5 +2890,7 @@ Tot**os** l**os** ***ser***es human**os** nasc***en*** liber**os** e equal**es**
 
 Tot**os** l**os** esseres human**os** nasc***ent*** liber**os** e equal**es** in dignitate e in derectos. Illes ***sunt*** dotat**os** de ration*e* e de conscientia e deb***ent*** ager*e* l**os** un**os** verso l**os** alter**os** in un spirito de fraternitate.
 
+
+TODO conservative 🐌🏃
 
 <!-- TODO lor = libra stilo -->
