@@ -2812,25 +2812,12 @@ Declaration<small>[õ]</small> Universal<small>[ĥ] [ŭ]</small> del<small>[ŭ]<
 
 Declaracion Universal del Derectos Human
 
-
-
-
-
-
-
 <!--v-->
 
-| 🌎 conservativissime<small>natural</small> |
+| 🌎 progressivissime<small>natural</small> |
 |:-:|
 
-Dᴇᴄʟᴀʀᴀᴛɪᴏɴ**ᴇ** Uɴɪᴠᴇʀsᴀʟ**ᴇ** ᴅᴇ ʟ**ᴏs** Dᴇʀᴇᴄᴛᴏs Hᴜᴍᴀɴ**ᴏs**
-  
-<!--v-->
-
-| 🌎 conservative<small>natural</small> |
-|:-:|
-
-Declaration**e** Universal**e** de l**os** Derectos Human**os**
+Declaracion Universal de l**os** Derectos Human**os**
 
 <!--v-->
 
@@ -2841,11 +2828,18 @@ Declaration Universal de l**os** Derectos Human**os**
 
 <!--v-->
 
-| 🌎 progressivissime<small>natural</small> |
+| 🌎 conservative<small>natural</small> |
 |:-:|
 
-Declaracion Universal de l**os** Derectos Human**os**
+Declaration**e** Universal**e** de l**os** Derectos Human**os**
 
+<!--v-->
+
+| 🌎 conservativissime<small>natural</small> |
+|:-:|
+
+Dᴇᴄʟᴀʀᴀᴛɪᴏɴ**ᴇ** Uɴɪᴠᴇʀsᴀʟ**ᴇ** ᴅᴇ ʟ**ᴏs** Dᴇʀᴇᴄᴛᴏs Hᴜᴍᴀɴ**ᴏs**
+  
 
 
 
