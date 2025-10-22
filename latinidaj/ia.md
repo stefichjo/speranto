@@ -2751,6 +2751,63 @@ Notes:
 
 # Declaration Universal del Derectos Human
 
+<!--s-->
+
+## „classic“ e „collateral“
+
+<!--v-->
+
+| 🌎 „classic“ |
+|:-:|
+
+Declaration<small>[ci]</small> Universal del Derectos Human
+
+<!--v-->
+
+| 🌎 „collateral“ |
+|:-:|
+
+Declaration<small>[sj]</small> Universal del Derectos Human<small>[~h~]</small>
+
+<!--v-->
+
+## Articulo 1
+
+<!--v-->
+
+| 🌎 „classic“ |
+|:-:|
+
+Tote le esseres human nasce libere e<br> equal in dignitate e in derectos. Illes es<br> dotate de ration<small>[ci]</small> e de conscientia<small>[ci]</small> e debe<br> ager le unes verso le alteres in un spirito de fraternitate.
+
+<!--v-->
+
+| 🌎 „collateral“ |
+|:-:|
+
+Tote le esseres<small>[s]</small> human<small>[~h~]</small> nasce<small>[s]</small> libere e<br> equal<small>[kŭ]</small> in dignitate<small>[nj]</small> e in derectos. Illes<small>[l]</small> es<br> dotate de ration<small>[sj]</small> e de conscientia<small>[sj]</small> e debe<br> ager<small>[ĵ]</small> le unes verso le alteres in un spirito de fraternitate.
+
+<!--s-->
+
+## conservative e progressive
+
+<!--v-->
+
+| 🌎 „classic“ |
+|:-:|
+
+Declaration<small>[ci]</small> Universal del Derectos Human
+
+Notes:
+* neologismo *derecto* ≠ *directe*
+
+<!--v-->
+
+| 🌎 conservative |
+|:-:|
+
+Declaration**e**<small>[ci]</small> Universal**e** del D**i**rectos Human**e**
+
 <!--v-->
 
 | 🌎 „collateral“ |
@@ -2766,28 +2823,88 @@ Declaration<small>[sj]</small> Universal del Derectos Human<small>[~h~]</small>
 Declaration<small>[sj]</small> Universal del Derectos Human<small>[~h~]</small>
 
 Notes:
-* neologismo *derecto*
+* La progresema registro ŝajnas pli kohera (prononco kaj ortografio pli kongruas). Tiu registro estos la bazo por ĉi-sekvaj montroj.
 
 <!--v-->
 
-| 🌎 progressivissime |
-|:-:|
-
-Declaration<small>[õ]</small> Universal<small>[ĥ] [ŭ]</small> del<small>[ŭ]</small> Derectos Human<small>[ã]</small>
+## Articulo 2 (1/2)
 
 <!--v-->
 
-| 🌎 progressivissime |
+| 🌎 „collateral“ |
 |:-:|
 
-Declaracion Universal del Derectos Human
+Tote esser human ha tote le derectos e tote<br> le libertates proclamate in iste Declaration, sin alicun distinction de racia, de color, de sexo, de lingua, de religion, de opinion politic o de altere opinion, de origine national o social, de position economic, de nascentia o de qualcunque altere position.
 
 <!--v-->
 
-| 🌎 „classic“ |
+| 🌎 progressive |
 |:-:|
 
-Declaration<small>[ci]</small> Universal del Derectos Human
+**Omne** esser human ha tote le derectos e tote<br> le libertates proclamate in iste Declaration, sin alicun distinction de racia, de color, de sexo, de lingua, de religion, de opinion politi**que** o de altere opinion, de origine national o social, de position economi**que**, de nascentia o de qualcunque altere position.
+
+Notes:
+* *tote* ≠ *omne* `sts`
+  * Oni ne povas diri *omne le libertates*, sed nur *omne libertates*.
+    * ⇒ *tote (singular)* → *omne*
+      * *tote le libertates* restas en ordo, same kiel *tote le garantia*.
+
+<!--s-->
+
+## auxiliar e natural
+
+<!--v-->
+
+| 🌎 progressive |
+|:-:|
+
+Declaration<small>[sj]</small> Universal del Derectos Human<small>[~h~]</small>
+
+<!--v-->
+
+| 🌎 progressive<small>auxiliar</small> |
+|:-:|
+
+Declaration<small>[sj]</small> Universal del Derectos Human<small>[~h~]</small>
+
+<!--v-->
+
+| 🌎 progressive<small>natural</small> |
+|:-:|
+
+Declaration Universal de l**os** Derectos Human**os**
+
+<!--v-->
+
+## Articulo 2 (2/2)
+
+<!--v-->
+
+| 🌎 „collateral“ |
+|:-:|
+
+In plus, il non essera facite alicun distinction fundate super le statuto politic, juridic o international del pais o del territorio al qual un persona pertine, tanto si il se tracta de un pais independente como de un territorio sub tutela, non autonome o submittite a qualcunque altere limitation de soveranitate.
+
+<!--v-->
+
+| 🌎 progressive |
+|:-:|
+
+In plus, il non essera facite alicun distinction fundate super le statuto politi**que**, juridi**que** o international del pa**ese** o del territorio al qual un persona pertine, tanto si il se tracta de un pa**ese** independente como de un territorio sub tutela, non autonome o submittite a qualcunque altere limitation de soveranitate.
+
+<!--v-->
+
+| 🌎 progressive<small>natural</small> |
+|:-:|
+
+In plus, non será fac**ta** alicun**a** distinction<br> fundat**a** super le statuto politic**o**, juridic**o** o international del **paese** o del territorio al qual un**a** persona pertine, tanto si il se tracta de un**o** **paese** independente como de un**o** territorio sub tutela, non autonome o submi**ssa** a qualcunque alter**a** limitation de soveranitate.
+
+Notes:
+* ~il~
+
+<!--s-->
+
+## -issime
 
 <!--v-->
 
@@ -2812,84 +2929,98 @@ Dᴇᴄʟᴀʀᴀᴛɪᴏɴ**ᴇ** Uɴɪᴠᴇʀsᴀʟ**ᴇ** ᴅᴇʟ D**ɪ**ʀ
   
 <!--v-->
 
-| 🌎 conservativissime<small>🐌</small> |
+| 🌎 progressive |
 |:-:|
 
-Dᴇᴄʟᴀʀᴀᴛɪᴏɴ**ᴇ** Uɴɪᴠᴇʀ**ᴛɪᴛ**ᴀʟ**ᴇ** ᴅᴇʟ D**ɪ**ʀ**ɪɢɪ**ᴛᴏs Hᴜᴍᴀɴ**ᴇ**
-  
-<!--v-->
-
-| 🌎 progressivissime<small>🏃</small> |
-|:-:|
-
-Declaracion<small>[ĥ]</small> Universal del Derectos<small>[ĥ] [ts]</small> Human
+Declaration<small>[sj]</small> Universal del Derectos Human<small>[~h~]</small>
 
 <!--v-->
 
-| 🌎 progressive<small>natural</small> |
+| 🌎 progressivissime |
 |:-:|
 
-Declaration Universal de l**os** Derectos Human**os**
+Declaration<small>[õ]</small> Universal<small>[ĥ] [ŭ]</small> del<small>[ŭ]</small> Derectos Human<small>[ã]</small>
 
 <!--v-->
 
-| 🌎 conservative<small>natural</small> |
+| 🌎 progressivissime |
 |:-:|
 
-Declaration**e** Universal**e** de l**os** D**i**rectos Human**os**
+Declaracion Universal del Derectos Human
+
+<!--v-->
+
+## Articulo 3
+
+<!--v-->
+
+| 🌎 conservative |
+|:-:|
+
+**Omne** individuo ha**be** le d**i**recto al vita, al libertate e al securitate de su**e** persona.
+
+<!--v-->
+
+| 🌎 conservativissime |
+|:-:|
+
+**Omne** individuo<small>[ŭi]</small> ha**be** le d**i**recto al vita<small>[ŭi]</small>, al libertate e al securitate de su**e** persona.
+
+<!--v-->
+
+| 🌎 conservativissime |
+|:-:|
+
+**Oᴍɴᴇ** ɪɴᴅɪᴠɪᴅᴜᴏ ʜᴀ**ʙᴇ** ʟᴇ ᴅ**ɪ**ʀᴇᴄᴛᴏ ᴀʟ ᴠɪᴛᴀ, ᴀʟ<br> ʟɪʙᴇʀᴛᴀᴛᴇ ᴇ ᴀʟ sᴇᴄᴜʀɪᴛᴀᴛᴇ ᴅᴇ sᴜ**ᴇ** ᴘᴇʀsᴏɴᴀ.
+
+<!--v-->
+
+| 🌎 progressive |
+|:-:|
+
+**Omne** individuo ha le derecto al vita, al libertate<br> e al securitate de su persona.
+
+<!--v-->
+
+| 🌎 progressivissime |
+|:-:|
+
+**Omne** individuo â le derecto al vi**d**a, al liber**dád**<small>[~h~]</small> e al securi**dád** de su persona<small>[~h~]</small>.
 
 <!--s-->
 
-## Articulo 1
+## lente e rapide
+
+<!--v-->
+
+## Articulo 4
 
 <!--v-->
 
 | 🌎 progressive |
 |:-:|
 
-Tote le esseres human nasce libere e<br> equal in dignitate e in derectos. Illes es<br> dotate de ration e de conscientia e debe<br> ager le unes verso le alteres in un spirito de fraternitate.
+Necuno essera submittite a sclavitude o servitude; le sclavitude e le traffico de sclavos es interdicte in tote su formas.
 
 <!--v-->
 
-| 🌎 progressive<small>natural</small> |
+| 🌎 progressive<small>🏃</small> |
 |:-:|
 
-Tot**os** l**os** **sêr**es human**os** nasce**n** liber**os** e<br> equal**es** in dignitate e in derectos. Illes **sôn**<br> dotat**os** de ration e de conscientia e debe**n**<br> ager l**os** un**os** verso l**os** alter**os** in un spirito de fraternitate.
+Necuno essera submittite<small>[d]</small> a sclavitude<small>[d~e~]</small> o servitude<small>[d~e~]</small>; le sclavitude<small>[d~e~]</small> e le traffico de sclavos es interdicte in tote<small>[d]</small> su formas.
 
-<!--v-->
 
-| 🌎 conservative<small>natural</small> |
-|:-:|
 
-Tot**os** l**os** esseres human**os** nasce**nt** liber**os** e equal**es** in dignitate e in derectos. Illes **sunt** dotat**os** de ration**e** e de conscientia e debe**nt**<br> ager**e**<small>[á]</small> l**os** un**os** verso l**os** alter**os** in un spirito de fraternitate.
 
-<!--s-->
 
-## Articulo 2 (1/2)
 
-<!--v-->
 
-| 🌎 progressive |
-|:-:|
 
-Tote esser human ha tote le derectos e tote le libertates proclamate in iste Declaration, sin alicun distinction de racia, de color, de sexo, de lingua, de religion, de opinion politic o de altere opinion, de origine national o social, de position economic, de nascentia o de qualcunque altere position.
 
-Notes:
-* *tote* ≠ *omne* `sts`
-  * Oni ne povas diri *omne le libertates*, sed nur *omne libertates*.
-    * ⇒ *tote (singular)* → *omne*
-      * *tote le libertates* restas en ordo, same kiel *tote le garantia*.
 
-<!--v-->
 
-## Articulo 2 (2/2)
 
-<!--v-->
 
-| 🌎 progressive |
-|:-:|
-
-In plus, il non essera facite alicun distinction fundate super le statuto politic, juridic o international del pais o del territorio al qual un persona pertine, tanto si il se tracta de un pais independente como de un territorio sub tutela, non autonome o submittite a qualcunque altere limitation de soveranitate.
 
 
 
