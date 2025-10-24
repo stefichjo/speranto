@@ -1394,7 +1394,7 @@ Notes:
 
 <!--s-->
 
-## Progressivissime (Rapide)
+## Progressivissime 🏃
 
 <!--v-->
 
@@ -2841,7 +2841,7 @@ Tote esser human ha tote le derectos e tote<br> le libertates proclamate in iste
 | 🌎 progressive |
 |:-:|
 
-**Omne** esser human ha tote le derectos e tote<br> le libertates proclamate in iste Declaration, sin alicun distinction de racia, de color, de sexo, de lingua, de religion, de opinion politi**que** o de altere opinion, de origine national o social, de position economi**que**, de nascentia o de qualcunque altere position.
+**Omne** esser human ha tote le derectos e tote<br> le libertates proclamate in iste Declaration, sin **al**cun distinction de racia, de color, de sexo, de lingua, de religion, de opinion politi**che** o de altere opinion, de origine national o social, de position economi**che**, de nascentia o de qual**unque** altere position.
 
 Notes:
 * *tote* ≠ *omne* `sts`
@@ -2851,7 +2851,7 @@ Notes:
 
 <!--s-->
 
-## auxiliar e natural
+## 🏃
 
 <!--v-->
 
@@ -2862,17 +2862,20 @@ Declaration<small>[sj]</small> Universal del Derectos Human<small>[~h~]</small>
 
 <!--v-->
 
-| 🌎 progressive<small>auxiliar</small> |
+| 🌎 progressive<small>🏃</small> |
 |:-:|
 
-Declaration<small>[sj]</small> Universal del Derectos Human<small>[~h~]</small>
+Declaration<small>[õ]</small> Universal<small>[ĥ] [ŭ]</small> del<small>[ŭ]</small> Derectos Human<small>[ã]</small>
 
 <!--v-->
 
-| 🌎 progressive<small>natural</small> |
+| 🌎 progressivissime |
 |:-:|
 
-Declaration Universal de l**os** Derectos Human**os**
+Declaracion Universal del Derectos Human
+
+Notes:
+* Il ha anque le stile conservativissime.
 
 <!--v-->
 
@@ -2883,30 +2886,238 @@ Declaration Universal de l**os** Derectos Human**os**
 | 🌎 „collateral“ |
 |:-:|
 
-In plus, il non essera facite alicun distinction fundate super le statuto politic, juridic o international del pais o del territorio al qual un persona pertine, tanto si il se tracta de un pais independente como de un territorio sub tutela, non autonome o submittite a qualcunque altere limitation de soveranitate.
+In plus, il non essera facite alicun<br> distinction fundate super le statuto politic,<br> juridic o international del pais o del<br> territorio al qual un persona pertine,<br> tanto si il se tracta de un pais<br> independente como de un territorio sub<br> tutela, non autonome o submittite a<br> qualcunque altere limitation de soveranitate.
 
 <!--v-->
 
 | 🌎 progressive |
 |:-:|
 
-In plus, il non essera facite alicun distinction fundate super le statuto politi**que**, juridi**que** o international del pa**ese** o del territorio al qual un persona pertine, tanto si il se tracta de un pa**ese** independente como de un territorio sub tutela, non autonome o submittite a qualcunque altere limitation de soveranitate.
+In plus, il non essera facite **alc**un<br> distinction fundate super le statuto politi**che**, juridi**che** o international del pa**ese** o del<br> territorio al qual un persona pertine,<br> tanto si il se tracta de un pa**ese**<br> independente como de un territorio sub<br> tutela, non autonome o submittite a<br> qual**unque** altere limitation de soveranitate.
+
+<!--v-->
+
+| 🌎 progressive<small>🏃</small> |
+|:-:|
+
+In plus, il non essera facite<small>[d]</small> **alc**un<small>[g]</small><br> distinction fundate<small>[d]</small> super le statuto politi**che**<small>[g]</small>, juridi**che**<small>[g]</small> o international del pa**ese**<small>[s~e~]</small> o del<br> territorio al qual un persona pertine,<br> tanto si il se tracta de un pa**ese**<small>[s~e~]</small><br> independente como de un territorio sub<br> tutela, non autonome o submittite a<br> qual**unque** altere limitation de soveranitate<small>[dád]</small>.
+
+Notes:
+* autonome estas fremda vorto. La *au* ne prononciĝas [o].
+
+<!--v-->
+
+| 🌎 progressivissime |
+|:-:|
+
+In<small>[ĩ]</small> plus, il<small>[ŭ]</small> non<small>[õ]</small> essera faci**d**e **alg**un<small>[ŭ] [ũ]</small><br> distin**c**ion<small>[ĩ] [õ]</small> f**o**ndade<small>[õ]</small> super<small>[ĥ]</small> le statuto politi**ghe**, juridi**ghe** o interna**c**ional<small>[ĥ] [ŭ]</small> del<small>[ŭ]</small> pa**es** o del<small>[ŭ]</small> territorio al<small>[ŭ]</small> qual<small>[ŭ]</small> un<small>[ũ]</small> persona<small>[ĥ]</small> pertine<small>[ĥ]</small>,<br> tanto<small>[ã]</small> si il<small>[ŭ]</small> se tracta<small>[ĥ]</small> de un<small>[ŭ]</small> pa**es**<br> independente<small>[ĩ] [ẽ]</small> como de un<small>[ŭ]</small> territorio sub tutela, non<small>[õ]</small> autonome o submitti**d**e a<br> qual**unque**<small>[ŭ] [ũ]</small> altere<small>[ŭ]</small> limitacion<small>[õ]</small> de soveranidád.
+
+<!--s-->
+
+## 📖
+
+<!--v-->
+
+| 🌎 progressive |
+|:-:|
+
+Declaration<small>[sj]</small> Universal del Derectos Human<small>[~h~]</small>
+
+<!--v-->
+
+| 🌎 progressive<small>📖</small> |
+|:-:|
+
+Declaration Universal de l**os** Derectos Human**os**
 
 <!--v-->
 
 | 🌎 progressive<small>natural</small> |
 |:-:|
 
-In plus, non será fac**ta** alicun**a** distinction<br> fundat**a** super le statuto politic**o**, juridic**o** o international del **paese** o del territorio al qual un**a** persona pertine, tanto si il se tracta de un**o** **paese** independente como de un**o** territorio sub tutela, non autonome o submi**ssa** a qualcunque alter**a** limitation de soveranitate.
+Declaration Universal de l**os** Derectos Human**os**
 
-Notes:
-* ~il~
+<!--v-->
+
+## Articulo 26.3
+
+<!--v-->
+
+| 🌎 „collateral“ |
+|:-:|
+
+Le genitores ha le derecto preferente de seliger le typo de education pro lor infantes.
+
+<!--v-->
+
+| 🌎 progressive |
+|:-:|
+
+Le genitores ha le derecto preferente de seliger le typo de education pro **su** infantes.
+
+<!--v-->
+
+| 🌎 progressive<small>📖</small> |
+|:-:|
+
+L**os** genitores ha l**o** derecto preferente de seliger l**o** typo de education pro **loro** infantes.
+
+<!--v-->
+
+| 🌎 progressive<small>natural</small> |
+|:-:|
+
+L**os** genitores ha**n** l**o** derecto preferente de seliger l**o** typo de education pro **loro** infantes.
+
+
+
+
+
+
+
+
+
+
 
 <!--s-->
 
-## -issime
+## Articulo 3
 
 <!--v-->
+
+| 🌎 progressive |
+|:-:|
+
+**Omne** individuo ha le derecto al vita, al libertate<br> e al securitate de su persona.
+
+<!--v-->
+
+| 🌎 progressivissime |
+|:-:|
+
+**Omne** individuo â le derecto al vi**d**a, al liber**dád**<small>[ĥ]</small> e al se**g**uri**dád** de su persona<small>[ĥ]</small>.
+
+
+
+
+
+<!--s-->
+
+interdicite
+📖
+interdicte
+
+ha dicite
+📖
+ha dicte / diceva
+
+va dicer
+📖
+va dicer / dicera
+
+cuje
+lor
+
+… le Charta le populos del Nationes Unite ha reaffirmate lor fide …
+
+...
+
+
+<!--s-->
+
+## lente e rapide
+
+<!--v-->
+
+| 🌎 progressive |
+|:-:|
+
+securitate
+
+<!--v-->
+
+| 🌎 progressive<small>🏃</small> |
+|:-:|
+
+securitate<small>[seguridad']</small>
+
+<!--v-->
+
+## Articulo 4
+
+<!--v-->
+
+| 🌎 progressive |
+|:-:|
+
+Necuno essera submittite a sclavitude o servitude; le sclavitude e le traffico de sclavos es inter**dicit**e in tote su formas.
+
+<!--v-->
+
+| 🌎 progressive<small>🏃</small> |
+|:-:|
+
+Necuno<small>[g]</small> essera submittite<small>[d]</small> a sclavitude<small>[d~e~]</small> o servitude<small>[d~e~]</small>; le sclavitude<small>[d~e~]</small> e le traffico<small>[g]</small> de sclavos es inter**dicit**e in tote<small>[d]</small> su formas.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!--s-->
+
+## 📖
+
+<!--v-->
+
+| 🌎 progressive |
+|:-:|
+
+su
+
+<!--v-->
+
+| 🌎 progressive<small>📖</small> |
+|:-:|
+
+su/lor**o**
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- TODO lor = libra stilo -->
+
+<!--s-->
 
 | 🌎 conservative |
 |:-:|
@@ -2929,31 +3140,6 @@ Dᴇᴄʟᴀʀᴀᴛɪᴏɴ**ᴇ** Uɴɪᴠᴇʀsᴀʟ**ᴇ** ᴅᴇʟ D**ɪ**ʀ
   
 <!--v-->
 
-| 🌎 progressive |
-|:-:|
-
-Declaration<small>[sj]</small> Universal del Derectos Human<small>[~h~]</small>
-
-<!--v-->
-
-| 🌎 progressivissime |
-|:-:|
-
-Declaration<small>[õ]</small> Universal<small>[ĥ] [ŭ]</small> del<small>[ŭ]</small> Derectos Human<small>[ã]</small>
-
-<!--v-->
-
-| 🌎 progressivissime |
-|:-:|
-
-Declaracion Universal del Derectos Human
-
-<!--v-->
-
-## Articulo 3
-
-<!--v-->
-
 | 🌎 conservative |
 |:-:|
 
@@ -2973,61 +3159,3 @@ Declaracion Universal del Derectos Human
 
 **Oᴍɴᴇ** ɪɴᴅɪᴠɪᴅᴜᴏ ʜᴀ**ʙᴇ** ʟᴇ ᴅ**ɪ**ʀᴇᴄᴛᴏ ᴀʟ ᴠɪᴛᴀ, ᴀʟ<br> ʟɪʙᴇʀᴛᴀᴛᴇ ᴇ ᴀʟ sᴇᴄᴜʀɪᴛᴀᴛᴇ ᴅᴇ sᴜ**ᴇ** ᴘᴇʀsᴏɴᴀ.
 
-<!--v-->
-
-| 🌎 progressive |
-|:-:|
-
-**Omne** individuo ha le derecto al vita, al libertate<br> e al securitate de su persona.
-
-<!--v-->
-
-| 🌎 progressivissime |
-|:-:|
-
-**Omne** individuo â le derecto al vi**d**a, al liber**dád**<small>[~h~]</small> e al securi**dád** de su persona<small>[~h~]</small>.
-
-<!--s-->
-
-## lente e rapide
-
-<!--v-->
-
-## Articulo 4
-
-<!--v-->
-
-| 🌎 progressive |
-|:-:|
-
-Necuno essera submittite a sclavitude o servitude; le sclavitude e le traffico de sclavos es interdicte in tote su formas.
-
-<!--v-->
-
-| 🌎 progressive<small>🏃</small> |
-|:-:|
-
-Necuno essera submittite<small>[d]</small> a sclavitude<small>[d~e~]</small> o servitude<small>[d~e~]</small>; le sclavitude<small>[d~e~]</small> e le traffico de sclavos es interdicte in tote<small>[d]</small> su formas.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<!-- TODO lor = libra stilo -->
