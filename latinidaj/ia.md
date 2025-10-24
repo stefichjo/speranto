@@ -2985,7 +2985,7 @@ Necuno **esserá** submi**sso** a sclavitude o<br> servitude; l**a** sclavitude 
 | 🌎 progressive<small>natural</small> |
 |:-:|
 
-Necuno **esserá** submi**sso** a sclavitude o<br> servitude; l**a** sclavitude e l**o** traffico de sclavos **sôn** interdict**os** in tot**as** su**as** formas.
+Necuno **será** submi**sso** a sclavitude o<br> servitude; l**a** sclavitude e l**o** traffico de sclavos **sôn** interdict**os** in tot**as** su**as** formas.
 
 
 
@@ -2995,7 +2995,7 @@ Necuno **esserá** submi**sso** a sclavitude o<br> servitude; l**a** sclavitude 
 
 
 <!-- TODO == "loro" -->
-<!--v-->
+<!--s-->
 
 ## Articulo 26.3
 
@@ -3036,148 +3036,7 @@ L**os** genitores ha**n** l**o** derecto preferente de seliger l**o** typo de ed
 
 
 
-ha resultate
-ha essite proclamate
-ha reaffirmate
-se ha declarate
-ha promittite
-ha essite committite
 
-le derectos human es protegite
-le derectos humanos son protectos
-
-Illes es dotate
-Illos son dotatos
-
-Totes es equal ante le lege e ha, sin distinction, le derecto a equal protection del lege.
-Totos son equales ante la lege e han, sin distinction, lo derecto a equale protection de la lege.
-
-
-
-
-
-
-
-
-
-
-
-
-<!--s-->
-
-interdicite
-📖
-interdicte
-
-ha dicite
-📖
-ha dicte / diceva
-
-va dicer
-📖
-va dicer / dicera
-
-cuje
-lor
-
-… le Charta le populos del Nationes Unite ha reaffirmate lor fide …
-
-...
-
-
-<!--s-->
-
-## lente e rapide
-
-<!--v-->
-
-| 🌎 progressive |
-|:-:|
-
-securitate
-
-<!--v-->
-
-| 🌎 progressive<small>🏃</small> |
-|:-:|
-
-securitate<small>[seguridad']</small>
-
-<!--v-->
-
-## Articulo 4
-
-<!--v-->
-
-| 🌎 progressive |
-|:-:|
-
-Necuno essera submittite a sclavitude o servitude; le sclavitude e le traffico de sclavos es inter**dicit**e in tote su formas.
-
-<!--v-->
-
-| 🌎 progressive<small>🏃</small> |
-|:-:|
-
-Necuno<small>[g]</small> essera submittite<small>[d]</small> a sclavitude<small>[d~e~]</small> o servitude<small>[d~e~]</small>; le sclavitude<small>[d~e~]</small> e le traffico<small>[g]</small> de sclavos es inter**dicit**e in tote<small>[d]</small> su formas.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<!--s-->
-
-## 📖
-
-<!--v-->
-
-| 🌎 progressive |
-|:-:|
-
-su
-
-<!--v-->
-
-| 🌎 progressive<small>📖</small> |
-|:-:|
-
-su/lor**o**
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<!-- TODO lor = libra stilo -->
 
 <!--s-->
 
