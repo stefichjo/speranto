@@ -2925,18 +2925,76 @@ Declaration<small>[sj]</small> Universal del Derectos Human<small>[~h~]</small>
 
 <!--v-->
 
-| 🌎 progressive<small>📖</small> |
+| 🌎 progressive<small>auxiliar</small> |
+|:-:|
+
+Declaration<small>[sj]</small> Universal del Derectos Human<small>[~h~]</small>
+
+<!--v-->
+
+| 🌎 progressive<small>auxiliar<small>📖</small></small> |
 |:-:|
 
 Declaration Universal de l**os** Derectos Human**os**
 
 <!--v-->
 
+## Articulo 3
+
+<!--v-->
+
+| 🌎 progressive<small>auxiliar</small> |
+|:-:|
+
+**Omne** individuo ha le derecto al vita, al<br> libertate e al securitate de su persona.
+
+<!--v-->
+
+| 🌎 progressive<small>auxiliar<small>📖</small></small> |
+|:-:|
+
+**Omne** individuo ha l**o** derecto a l**a** vita, a l**a** libertate e a l**a** securitate de su**a** persona.
+
+<!--v-->
+
+# Articulo 4
+
+<!--v-->
+
+| 🌎 „collateral“ |
+|:-:|
+
+Necuno essera submittite a sclavitude o<br> servitude; le sclavitude e le traffico de sclavos es interdicte in tote su formas.
+
+<!--v-->
+
+| 🌎 progressive<small>auxiliar</small> |
+|:-:|
+
+Necuno **va esser** submittite a sclavitude o<br> servitude; le sclavitude e le traffico de sclavos es inter**dicit**e in tote su formas.
+
+<!--v-->
+
+| 🌎 progressive<small>auxiliar<small>📖</small></small> |
+|:-:|
+
+Necuno **esserá** submi**sso** a sclavitude o<br> servitude; l**a** sclavitude e l**o** traffico de sclavos es interdict**os** in tot**as** su**as** formas.
+
+<!--v-->
+
 | 🌎 progressive<small>natural</small> |
 |:-:|
 
-Declaration Universal de l**os** Derectos Human**os**
+Necuno **esserá** submi**sso** a sclavitude o<br> servitude; l**a** sclavitude e l**o** traffico de sclavos **sôn** interdict**os** in tot**as** su**as** formas.
 
+
+
+
+
+
+
+
+<!-- TODO == "loro" -->
 <!--v-->
 
 ## Articulo 26.3
@@ -2957,7 +3015,14 @@ Le genitores ha le derecto preferente de seliger le typo de education pro **su**
 
 <!--v-->
 
-| 🌎 progressive<small>📖</small> |
+| 🌎 progressive<small>auxiliar</small> |
+|:-:|
+
+Le genitores ha le derecto preferente de seliger le typo de education pro **su** infantes.
+
+<!--v-->
+
+| 🌎 progressive<small>auxiliar<small>📖</small></small> |
 |:-:|
 
 L**os** genitores ha l**o** derecto preferente de seliger l**o** typo de education pro **loro** infantes.
@@ -2971,6 +3036,21 @@ L**os** genitores ha**n** l**o** derecto preferente de seliger l**o** typo de ed
 
 
 
+ha resultate
+ha essite proclamate
+ha reaffirmate
+se ha declarate
+ha promittite
+ha essite committite
+
+le derectos human es protegite
+le derectos humanos son protectos
+
+Illes es dotate
+Illos son dotatos
+
+Totes es equal ante le lege e ha, sin distinction, le derecto a equal protection del lege.
+Totos son equales ante la lege e han, sin distinction, lo derecto a equale protection de la lege.
 
 
 
@@ -2978,24 +3058,6 @@ L**os** genitores ha**n** l**o** derecto preferente de seliger l**o** typo de ed
 
 
 
-
-<!--s-->
-
-## Articulo 3
-
-<!--v-->
-
-| 🌎 progressive |
-|:-:|
-
-**Omne** individuo ha le derecto al vita, al libertate<br> e al securitate de su persona.
-
-<!--v-->
-
-| 🌎 progressivissime |
-|:-:|
-
-**Omne** individuo â le derecto al vi**d**a, al liber**dád**<small>[ĥ]</small> e al se**g**uri**dád** de su persona<small>[ĥ]</small>.
 
 
 
