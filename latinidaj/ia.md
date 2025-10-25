@@ -2957,7 +2957,7 @@ Declaration Universal de l**os** Derectos Human**os**
 
 <!--v-->
 
-# Articulo 4
+## Articulo 4
 
 <!--v-->
 
@@ -2978,7 +2978,7 @@ Necuno **va esser** submittite a sclavitude o<br> servitude; le sclavitude e le 
 | 🌎 progressive<small>auxiliar<small>📖</small></small> |
 |:-:|
 
-Necuno **esserá** submi**sso** a sclavitude o<br> servitude; l**a** sclavitude e l**o** traffico de sclavos es interdict**os** in tot**as** su**as** formas.
+Necuno essera submi**sso** a sclavitude o<br> servitude; l**a** sclavitude e l**o** traffico de sclavos es interdict**os** in tot**as** su**as** formas.
 
 <!--v-->
 
@@ -2994,7 +2994,6 @@ Necuno **será** submi**sso** a sclavitude o<br> servitude; l**a** sclavitude e 
 
 
 
-<!-- TODO == "loro" -->
 <!--s-->
 
 ## Articulo 26.3
@@ -3025,14 +3024,14 @@ Le genitores ha le derecto preferente de seliger le typo de education pro **su**
 | 🌎 progressive<small>auxiliar<small>📖</small></small> |
 |:-:|
 
-L**os** genitores ha l**o** derecto preferente de seliger l**o** typo de education pro **loro** infantes.
+L**os** genitores ha l**o** derecto preferente de seliger l**o** typo de education pro **suos** infantes.
 
 <!--v-->
 
 | 🌎 progressive<small>natural</small> |
 |:-:|
 
-L**os** genitores ha**n** l**o** derecto preferente de seliger l**o** typo de education pro **loro** infantes.
+L**os** genitores h**ân** l**o** derecto preferente de seliger l**o** typo de education pro **loro** infantes.
 
 
 
