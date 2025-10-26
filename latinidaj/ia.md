@@ -12,7 +12,7 @@ revealOptions:
 
 <!-- cd ~/Git/speranto/latinidaj; reveal-md ia.md -w -->
 
-<!-- 🐌🏃 🌎 -->
+<!-- 🐌🏃 🌎 🔠📖 -->
 
 # Interlingua
 
@@ -2793,40 +2793,6 @@ Tote le esseres<small>[s]</small> human<small>[~h~]</small> nasce<small>[s]</sma
 
 <!--v-->
 
-| 🌎 „classic“ |
-|:-:|
-
-Declaration<small>[ci]</small> Universal del Derectos Human
-
-Notes:
-* neologismo *derecto* ≠ *directe*
-
-<!--v-->
-
-| 🌎 conservative |
-|:-:|
-
-Declaration**e**<small>[ci]</small> Universal**e** del D**i**rectos Human**e**
-
-<!--v-->
-
-| 🌎 „collateral“ |
-|:-:|
-
-Declaration<small>[sj]</small> Universal del Derectos Human<small>[~h~]</small>
-
-<!--v-->
-
-| 🌎 progressive |
-|:-:|
-
-Declaration<small>[sj]</small> Universal del Derectos Human<small>[~h~]</small>
-
-Notes:
-* La progresema registro ŝajnas pli kohera (prononco kaj ortografio pli kongruas). Tiu registro estos la bazo por ĉi-sekvaj montroj.
-
-<!--v-->
-
 ## Articulo 2 (1/2)
 
 <!--v-->
@@ -2851,31 +2817,8 @@ Notes:
 
 <!--s-->
 
-## 🏃
-
-<!--v-->
-
-| 🌎 progressive |
-|:-:|
-
-Declaration<small>[sj]</small> Universal del Derectos Human<small>[~h~]</small>
-
-<!--v-->
-
-| 🌎 progressive<small>🏃</small> |
-|:-:|
-
-Declaration<small>[õ]</small> Universal<small>[ĥ] [ŭ]</small> del<small>[ŭ]</small> Derectos Human<small>[ã]</small>
-
-<!--v-->
-
-| 🌎 progressivissime |
-|:-:|
-
-Declaracion Universal del Derectos Human
-
-Notes:
-* Il ha anque le stile conservativissime.
+## Lente e Rapide
+(🐌🏃)
 
 <!--v-->
 
@@ -2905,37 +2848,14 @@ In plus, il non essera facite<small>[d]</small> **alc**un<small>[g]</small><br> 
 Notes:
 * autonome estas fremda vorto. La *au* ne prononciĝas [o].
 
-<!--v-->
-
-| 🌎 progressivissime |
-|:-:|
-
+<!-- | 🌎 progressivissime |
+|:-:| -->
+<!-- 
 In<small>[ĩ]</small> plus, il<small>[ŭ]</small> non<small>[õ]</small> essera faci**d**e **alg**un<small>[ŭ] [ũ]</small><br> distin**c**ion<small>[ĩ] [õ]</small> f**o**ndade<small>[õ]</small> super<small>[ĥ]</small> le statuto politi**ghe**, juridi**ghe** o interna**c**ional<small>[ĥ] [ŭ]</small> del<small>[ŭ]</small> pa**es** o del<small>[ŭ]</small> territorio al<small>[ŭ]</small> qual<small>[ŭ]</small> un<small>[ũ]</small> persona<small>[ĥ]</small> pertine<small>[ĥ]</small>,<br> tanto<small>[ã]</small> si il<small>[ŭ]</small> se tracta<small>[ĥ]</small> de un<small>[ŭ]</small> pa**es**<br> independente<small>[ĩ] [ẽ]</small> como de un<small>[ŭ]</small> territorio sub tutela, non<small>[õ]</small> autonome o submitti**d**e a<br> qual**unque**<small>[ŭ] [ũ]</small> altere<small>[ŭ]</small> limitacion<small>[õ]</small> de soveranidád.
-
+ -->
 <!--s-->
 
-## 📖
-
-<!--v-->
-
-| 🌎 progressive |
-|:-:|
-
-Declaration<small>[sj]</small> Universal del Derectos Human<small>[~h~]</small>
-
-<!--v-->
-
-| 🌎 progressive<small>auxiliar</small> |
-|:-:|
-
-Declaration<small>[sj]</small> Universal del Derectos Human<small>[~h~]</small>
-
-<!--v-->
-
-| 🌎 progressive<small>auxiliar<small>📖</small></small> |
-|:-:|
-
-Declaration Universal de l**os** Derectos Human**os**
+## auxiliar e natural
 
 <!--v-->
 
@@ -2950,21 +2870,19 @@ Declaration Universal de l**os** Derectos Human**os**
 
 <!--v-->
 
-| 🌎 progressive<small>auxiliar<small>📖</small></small> |
+| 🌎 progressive<small>natural</small> |
 |:-:|
 
 **Omne** individuo ha l**o** derecto a l**a** vita, a l**a** libertate e a l**a** securitate de su**a** persona.
 
+<!--s-->
+
+## Simple e Complexe
+(🔠📖)
+
 <!--v-->
 
 ## Articulo 4
-
-<!--v-->
-
-| 🌎 „collateral“ |
-|:-:|
-
-Necuno essera submittite a sclavitude o<br> servitude; le sclavitude e le traffico de sclavos es interdicte in tote su formas.
 
 <!--v-->
 
@@ -2978,21 +2896,7 @@ Necuno **va esser** submittite a sclavitude o<br> servitude; le sclavitude e le 
 | 🌎 progressive<small>auxiliar<small>📖</small></small> |
 |:-:|
 
-Necuno essera submi**sso** a sclavitude o<br> servitude; l**a** sclavitude e l**o** traffico de sclavos es interdict**os** in tot**as** su**as** formas.
-
-<!--v-->
-
-| 🌎 progressive<small>natural</small> |
-|:-:|
-
-Necuno **será** submi**sso** a sclavitude o<br> servitude; l**a** sclavitude e l**o** traffico de sclavos **sôn** interdict**os** in tot**as** su**as** formas.
-
-
-
-
-
-
-
+Necuno **esserá** submi**ss**e a sclavitude o<br> servitude; le sclavitude e le traffico de sclavos es interdicte in tote su formas.
 
 <!--s-->
 
@@ -3033,6 +2937,19 @@ L**os** genitores ha l**o** derecto preferente de seliger l**o** typo de educati
 
 L**os** genitores h**ân** l**o** derecto preferente de seliger l**o** typo de education pro **loro** infantes.
 
+<!--v-->
+
+
+
+<!-- 
+auxiliarissime
+auxiliar
+
+natural
+naturalissime
+
+🔠
+ -->
 
 
 
