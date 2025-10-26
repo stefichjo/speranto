@@ -2969,28 +2969,6 @@ Necuno **va esser** submittite a sclavitude o<br> servitude; le sclavitude e le 
 
 <!--v-->
 
-| 🌎 | <small>auxiliar</small> | <small>natural</small> |
-|-|-|-|
-| lor | **su** | lor**o** |
-| | | |
-
-<!--v-->
-
-| 🌎 | progressive | progressivissime |
-|-|-|-|
-| exprimer se | exprimer-**se** | exprimer**se** |
-| diffunder los | diffunder-**los** | diffunder**los** |
-| | | |
-
-<!--v-->
-
-| 🌎 | progressive | progressivissime |
-|-|-|-|
-| disprecio | dispre**t**io | disprecio |
-| | | |
-
-<!--v-->
-
 | 🌎 | conservative | progressive |
 |-|-|-|
 | character | character | character**e** |
@@ -3011,10 +2989,23 @@ Notes:
 
 <!--v-->
 
-| 🌎 | progressive<small>🐌</small> | progressive |
+| 🌎 | progressive | progressivissime<small>🏃</small> |
 |-|-|-|
-| alicun (alcun) | alicun | **alc**un |
-| qualcunque | qualcunque | qual**unque** |
+| mangiar<small>[ĵa]</small> | man**j**ar<small>[ĵa]</small> | mangiá<small>[ĵa]</small> |
+| | | |
+| maritage<small>[ĵe]</small> | marita**jo**<small>[ĵo]</small> | mari**d**age<small>[ĵ~o~]</small> |
+| ultragia<small>[ĵa]</small> | ultra**j**a<small>[ĵa]</small> | ultragia<small>[ĵa]</small> |
+| | | |
+
+<!--v-->
+
+| 🌎 | progressive | progressivissime<small>🏃</small> |
+|-|-|-|
+| <small>*maladia*</small> | malaptia | maladí |
+| <small>*regime*</small> | regime | regím |
+| <small>*establimento*</small> | stabilimento | establimént |
+| <small>*pais*</small> | paese | pais |
+| <small>*inseniamento*</small> | insignamento | inseniamént |
 | | | |
 
 <!--v-->
@@ -3035,34 +3026,45 @@ Notes:
 
 <!--v-->
 
-| 🌎 | <small>auxiliar</small> | <small>natural</small> |
+| 🌎 | progressive | <small>natural</small> |
 |-|-|-|
 | periodicamente | periodic**he**mente | periodicamente |
 | publicamente | public**he**mente | publicamente |
 | | | |
 
+<!--v-->
+
+| 🌎 | <small>🐌</small> | progressive |
+|-|-|-|
+| alicun (alcun) | alicun | **alc**un |
+| qualcunque | qualcunque | qual**unque** |
+| | | |
+
+<!--v-->
+
+| 🌎 | progressive<small>natural</small> | progressivissime<small>🏃 natural</small> |
+|-|-|-|
+| lor | lor**o** | lor |
+| | | |
+
+<!--v-->
+
+| 🌎 | progressive | progressivissime |
+|-|-|-|
+| exprimer se | exprimer-**se** | exprimer**se** |
+| diffunder los | diffunder-**los** | diffunder**los** |
+| | | |
+
+<!--v-->
+
+| 🌎 | progressive | progressivissime |
+|-|-|-|
+| disprecio | dispre**t**io | disprecio |
+| | | |
+
 <!--s-->
 
 -----
-
-travalio
-mangiar
-ultragia
-regime 
-pais 
-vetulessa 
-maritage
-
-inseniamento 
- 
-tanto 
-
-usque 
-establite establimento establite
-suffragio 
-ressources 
-maladia
-Nulle 
 
 <!-- TODO natural: dicíu, habeva dicto, haberá dicto -->
 <!-- TODO natural complexe: dixe, dixêra, dixêre -->
