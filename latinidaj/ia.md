@@ -2848,11 +2848,13 @@ In plus, il non essera facite<small>[d]</small> **alc**un<small>[g]</small><br> 
 Notes:
 * autonome estas fremda vorto. La *au* ne prononciĝas [o].
 
-<!-- | 🌎 progressivissime |
-|:-:| -->
-<!-- 
+<!--v-->
+
+| 🌎 progressivissime |
+|:-:|
+
 In<small>[ĩ]</small> plus, il<small>[ŭ]</small> non<small>[õ]</small> essera faci**d**e **alg**un<small>[ŭ] [ũ]</small><br> distin**c**ion<small>[ĩ] [õ]</small> f**o**ndade<small>[õ]</small> super<small>[ĥ]</small> le statuto politi**ghe**, juridi**ghe** o interna**c**ional<small>[ĥ] [ŭ]</small> del<small>[ŭ]</small> pa**es** o del<small>[ŭ]</small> territorio al<small>[ŭ]</small> qual<small>[ŭ]</small> un<small>[ũ]</small> persona<small>[ĥ]</small> pertine<small>[ĥ]</small>,<br> tanto<small>[ã]</small> si il<small>[ŭ]</small> se tracta<small>[ĥ]</small> de un<small>[ŭ]</small> pa**es**<br> independente<small>[ĩ] [ẽ]</small> como de un<small>[ŭ]</small> territorio sub tutela, non<small>[õ]</small> autonome o submitti**d**e a<br> qual**unque**<small>[ŭ] [ũ]</small> altere<small>[ŭ]</small> limitacion<small>[õ]</small> de soveranidád.
- -->
+
 <!--s-->
 
 ## auxiliar e natural
@@ -2860,6 +2862,20 @@ In<small>[ĩ]</small> plus, il<small>[ŭ]</small> non<small>[õ]</small> essera 
 <!--v-->
 
 ## Articulo 3
+
+<!--v-->
+
+| 🌎 „collateral“ |
+|:-:|
+
+Tote individuo ha le derecto al vita, al<br> libertate e al securitate de su persona.
+
+<!--v-->
+
+| 🌎 progressive |
+|:-:|
+
+**Omne** individuo ha le derecto al vita, al<br> libertate e al securitate de su persona.
 
 <!--v-->
 
@@ -2886,6 +2902,13 @@ In<small>[ĩ]</small> plus, il<small>[ŭ]</small> non<small>[õ]</small> essera 
 
 <!--v-->
 
+| 🌎 „collateral“ |
+|:-:|
+
+Necuno essera submittite a sclavitude o<br> servitude; le sclavitude e le traffico de sclavos es interdicte in tote su formas.
+
+<!--v-->
+
 | 🌎 progressive<small>auxiliar</small> |
 |:-:|
 
@@ -2897,6 +2920,17 @@ Necuno **va esser** submittite a sclavitude o<br> servitude; le sclavitude e le 
 |:-:|
 
 Necuno **esserá** submi**ss**e a sclavitude o<br> servitude; le sclavitude e le traffico de sclavos es interdicte in tote su formas.
+
+<!--v-->
+
+| 🌎 progressive<small>natural</small> |
+|:-:|
+
+Necuno **esserá** submi**sso** a sclavitude o<br> servitude; l**a** sclavitude e l**o** traffico de sclavos **sôn** interdict**os** in tot**as** su**as** form**as**.
+
+<!--s-->
+
+-----
 
 <!--s-->
 
