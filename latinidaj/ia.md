@@ -2855,6 +2855,34 @@ Notes:
 
 In<small>[ĩ]</small> plus, il<small>[ŭ]</small> non<small>[õ]</small> essera faci**d**e **alg**un<small>[ŭ] [ũ]</small><br> distin**c**ion<small>[ĩ] [õ]</small> f**o**ndade<small>[õ]</small> super<small>[ĥ]</small> le statuto politi**ghe**, juridi**ghe** o interna**c**ional<small>[ĥ] [ŭ]</small> del<small>[ŭ]</small> pa**es** o del<small>[ŭ]</small> territorio al<small>[ŭ]</small> qual<small>[ŭ]</small> un<small>[ũ]</small> persona<small>[ĥ]</small> pertine<small>[ĥ]</small>,<br> tanto<small>[ã]</small> si il<small>[ŭ]</small> se tracta<small>[ĥ]</small> de un<small>[ŭ]</small> pa**es**<br> independente<small>[ĩ] [ẽ]</small> como de un<small>[ŭ]</small> territorio sub tutela, non<small>[õ]</small> autonome o submitti**d**e a<br> qual**unque**<small>[ŭ] [ũ]</small> altere<small>[ŭ]</small> limitacion<small>[õ]</small> de soveranidád.
 
+<!--v-->
+
+| 🌎 „classic“ |
+|:-:|
+
+Declaration<small>[ci]</small> Universal del Derectos Human
+
+<!--v-->
+
+| 🌎 conservative |
+|:-:|
+
+Declaration**e**<small>[ci]</small> Universal**e** del D**i**rectos Human**e**
+
+<!--v-->
+
+| 🌎 conservative<small>🐌</small> |
+|:-:|
+
+Declaration**e**<small>[ŧi]</small> Universal**e** del D**i**rectos Human**e**
+
+<!--v-->
+
+| 🌎 conservativissime |
+|:-:|
+
+Dᴇᴄʟᴀʀᴀᴛɪᴏɴ**ᴇ**<small>[ti]</small> Uɴɪᴠᴇʀsᴀʟ**ᴇ**<small>[-ŭ-]</small> ᴅᴇʟ D**ɪ**ʀᴇᴄᴛᴏs Hᴠᴍᴀɴ**ᴇ**
+  
 <!--s-->
 
 ## auxiliar e natural
@@ -2889,7 +2917,7 @@ Tote individuo ha le derecto al vita, al<br> libertate e al securitate de su per
 | 🌎 progressive<small>natural</small> |
 |:-:|
 
-**Omne** individuo ha l**o** derecto a l**a** vita, a l**a** libertate e a l**a** securitate de su**a** persona.
+**Omne** individuo h**â** l**o** derecto a l**a** vita, a l**a** libertate e a l**a** securitate de su**a** persona.
 
 <!--s-->
 
@@ -2912,7 +2940,7 @@ Necuno essera submittite a sclavitude o<br> servitude; le sclavitude e le traffi
 | 🌎 progressive<small>auxiliar</small> |
 |:-:|
 
-Necuno **va esser** submittite a sclavitude o<br> servitude; le sclavitude e le traffico de sclavos es inter**dicit**e in tote su formas.
+Necuno **va esser** submittite a sclavitude o<br> servitude; le sclavitude e le traffico de sclavos es interdicte in tote su formas.
 
 <!--v-->
 
@@ -2928,105 +2956,113 @@ Necuno esser**á** submi**ss**e a sclavitude o<br> servitude; le sclavitude e le
 
 Necuno **será** submi**sso** a sclavitude o<br> servitude; l**a** sclavitude e l**o** traffico de sclavos **sôn** interdict**os** in tot**as** su**as** form**as**.
 
+<!--v-->
+
+| 🌎 progressive<small>auxiliar<small>🔠</small></small> |
+|:-:|
+
+Necuno **va esser** submittite a sclavitude o<br> servitude; le sclavitude e le traffico de sclavos es interdi**cit**e in tote su formas.
+
+<!--s-->
+
+## Correctiones
+
+<!--v-->
+
+| 🌎 | <small>auxiliar</small> | <small>natural</small> |
+|-|-|-|
+| lor | **su** | lor**o** |
+| | | |
+
+<!--v-->
+
+| 🌎 | progressive | progressivissime |
+|-|-|-|
+| exprimer se | exprimer-**se** | exprimer**se** |
+| diffunder los | diffunder-**los** | diffunder**los** |
+| | | |
+
+<!--v-->
+
+| 🌎 | progressive | progressivissime |
+|-|-|-|
+| disprecio | dispre**t**io | disprecio |
+| | | |
+
+<!--v-->
+
+| 🌎 | conservative | progressive |
+|-|-|-|
+| character | character | character**e** |
+| | | |
+| comprehension | comprehension**e** | comprension |
+| | | |
+
+<!--v-->
+
+| 🌎 | conservative | progressive |
+|-|-|-|
+| tote persona | omne persona | **omne** persona |
+| totes | omnes | **omnes** |
+| | | |
+
+Notes:
+* *in omne locos*
+
+<!--v-->
+
+| 🌎 | progressive<small>🐌</small> | progressive |
+|-|-|-|
+| alicun (alcun) | alicun | **alc**un |
+| qualcunque | qualcunque | qual**unque** |
+| | | |
+
+<!--v-->
+
+| 🌎 | progressive | progressivissime<small>🏃</small> |
+|-|-|-|
+| elementari | elementari**e** | elementari |
+| necessari | necessari**e** | necessari |
+| | | |
+
+<!--v-->
+
+| 🌎 | progressive | progressivissime<small>🏃</small> |
+|-|-|-|
+| periodic | periodic**he** | periodic |
+| public | public**he** | public |
+| | | |
+
+<!--v-->
+
+| 🌎 | <small>auxiliar</small> | <small>natural</small> |
+|-|-|-|
+| periodicamente | periodic**he**mente | periodicamente |
+| publicamente | public**he**mente | publicamente |
+| | | |
+
 <!--s-->
 
 -----
 
-<!--s-->
+travalio
+mangiar
+ultragia
+regime 
+pais 
+vetulessa 
+maritage
 
-## Articulo 26.3
+inseniamento 
+ 
+tanto 
 
-<!--v-->
+usque 
+establite establimento establite
+suffragio 
+ressources 
+maladia
+Nulle 
 
-| 🌎 „collateral“ |
-|:-:|
-
-Le genitores ha le derecto preferente de seliger le typo de education pro lor infantes.
-
-<!--v-->
-
-| 🌎 progressive |
-|:-:|
-
-Le genitores ha le derecto preferente de seliger le typo de education pro **su** infantes.
-
-<!--v-->
-
-| 🌎 progressive<small>auxiliar</small> |
-|:-:|
-
-Le genitores ha le derecto preferente de seliger le typo de education pro **su** infantes.
-
-<!--v-->
-
-| 🌎 progressive<small>auxiliar<small>📖</small></small> |
-|:-:|
-
-L**os** genitores ha l**o** derecto preferente de seliger l**o** typo de education pro **suos** infantes.
-
-<!--v-->
-
-| 🌎 progressive<small>natural</small> |
-|:-:|
-
-L**os** genitores h**ân** l**o** derecto preferente de seliger l**o** typo de education pro **loro** infantes.
-
-<!--v-->
-
-
-
-<!-- 
-auxiliarissime
-auxiliar
-
-natural
-naturalissime
-
-🔠
- -->
-
-
-
-
-<!--s-->
-
-| 🌎 conservative |
-|:-:|
-
-Declaration**e**<small>[ci]</small> Universal**e** del D**i**rectos Human**e**
-
-<!--v-->
-
-| 🌎 conservativissime |
-|:-:|
-
-Declaration**e**<small>[ti]</small> Universal**e**<small>[-iŭe-]</small> del D**i**rectos Human**e**
-
-<!--v-->
-
-| 🌎 conservativissime |
-|:-:|
-
-Dᴇᴄʟᴀʀᴀᴛɪᴏɴ**ᴇ** Uɴɪᴠᴇʀsᴀʟ**ᴇ** ᴅᴇʟ D**ɪ**ʀᴇᴄᴛᴏs Hᴜᴍᴀɴ**ᴇ**
-  
-<!--v-->
-
-| 🌎 conservative |
-|:-:|
-
-**Omne** individuo ha**be** le d**i**recto al vita, al libertate e al securitate de su**e** persona.
-
-<!--v-->
-
-| 🌎 conservativissime |
-|:-:|
-
-**Omne** individuo<small>[ŭi]</small> ha**be** le d**i**recto al vita<small>[ŭi]</small>, al libertate e al securitate de su**e** persona.
-
-<!--v-->
-
-| 🌎 conservativissime |
-|:-:|
-
-**Oᴍɴᴇ** ɪɴᴅɪᴠɪᴅᴜᴏ ʜᴀ**ʙᴇ** ʟᴇ ᴅ**ɪ**ʀᴇᴄᴛᴏ ᴀʟ ᴠɪᴛᴀ, ᴀʟ<br> ʟɪʙᴇʀᴛᴀᴛᴇ ᴇ ᴀʟ sᴇᴄᴜʀɪᴛᴀᴛᴇ ᴅᴇ sᴜ**ᴇ** ᴘᴇʀsᴏɴᴀ.
-
+<!-- TODO natural: dicíu, habeva dicto, haberá dicto -->
+<!-- TODO natural complexe: dixe, dixêra, dixêre -->
