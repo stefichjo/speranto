@@ -2919,14 +2919,14 @@ Necuno **va esser** submittite a sclavitude o<br> servitude; le sclavitude e le 
 | 🌎 progressive<small>auxiliar<small>📖</small></small> |
 |:-:|
 
-Necuno **esserá** submi**ss**e a sclavitude o<br> servitude; le sclavitude e le traffico de sclavos es interdicte in tote su formas.
+Necuno esser**á** submi**ss**e a sclavitude o<br> servitude; le sclavitude e le traffico de sclavos es interdicte in tote su formas.
 
 <!--v-->
 
 | 🌎 progressive<small>natural</small> |
 |:-:|
 
-Necuno **esserá** submi**sso** a sclavitude o<br> servitude; l**a** sclavitude e l**o** traffico de sclavos **sôn** interdict**os** in tot**as** su**as** form**as**.
+Necuno **será** submi**sso** a sclavitude o<br> servitude; l**a** sclavitude e l**o** traffico de sclavos **sôn** interdict**os** in tot**as** su**as** form**as**.
 
 <!--s-->
 
