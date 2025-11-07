@@ -106,15 +106,17 @@ revealOptions:
 
 | | conservative | progressive |
 |-|-:|-|
-| estranie | *[ekstrani-e]* | *[estranje]* |
+| estranie | *[ekstrane-e]* | *[estranje]* |
 | | | |
 
 <!--v-->
 
 | | conservative | progressive |
 |-|-:|-|
-| **extranie** | *[ekstrani-e]* | *[estranje]* |
+| **extranee** | *[ekstrane-e]* | *[estranje]* |
 | | | |
+
+<!-- TODO extranee ≠ estranio -->
 
 <!--v-->
 
@@ -624,74 +626,6 @@ Notes:
 | | |
 | aer *[aer']* | aere *[ae-re]* |
 | | |
-
-<!--v-->
-
-### Korektoj
-
-<!--v-->
-
-| progressive |
-|-|
-| anglese |
-| |
-| besonio |
-| |
-| maniera |
-| |
-
-<!--v-->
-
-| progressive |
-|-|
-| **inglese** |
-| |
-| **bisonio** |
-| |
-| **manera** |
-| |
-
-<!--v-->
-
-| progressive |
-|-|
-| par |
-| |
-| plure |
-| |
-| (in) van |
-| |
-
-<!--v-->
-
-| progressive |
-|-|
-| **paro** |
-| |
-| **plur** |
-| |
-| **(in) vano** |
-| |
-
-<!--v-->
-
-| progressive |
-|-|
-| in alto |
-| a basso |
-| |
-
-<!--v-->
-
-| progressive |
-|-|
-| **a in** alto |
-| **a in** basso |
-| |
-
-Notes:
-* *a in* *[ajn]*
-  * progressivissime: *[en]*
 
 <!--s-->
 
@@ -2785,7 +2719,7 @@ Tote le esseres human nasce libere e<br> equal in dignitate e in derectos. Illes
 | 🌎 „collateral“ |
 |:-:|
 
-Tote le esseres<small>[s]</small> human<small>[~h~]</small> nasce<small>[s]</small> libere e<br> equal<small>[kŭ]</small> in dignitate<small>[nj]</small> e in derectos. Illes<small>[l]</small> es<br> dotate de ration<small>[sj]</small> e de conscientia<small>[sj]</small> e debe<br> ager<small>[ĵ]</small> le unes verso le alteres in un spirito de fraternitate.
+Tote le esseres<small>[s]</small> human<small>[~h~]</small> nasce<small>[s]</small> libere e<br> equal<small>[kŭ]</small> in dignitate e in derectos. Illes<small>[l]</small> es<br> dotate de ration<small>[sj]</small> e de conscientia<small>[sj]</small> e debe<br> ager<small>[ĵ]</small> le unes verso le alteres in un spirito de fraternitate.
 
 <!--s-->
 
@@ -2843,7 +2777,7 @@ In plus, il non essera facite **alc**un<br> distinction fundate super le statuto
 | 🌎 progressive<small>🏃</small> |
 |:-:|
 
-In plus, il non essera facite<small>[d]</small> **alc**un<small>[g]</small><br> distinction fundate<small>[d]</small> super le statuto politi**che**<small>[g]</small>, juridi**che**<small>[g]</small> o international del pa**ese**<small>[s~e~]</small> o del<br> territorio al qual un persona pertine,<br> tanto si il se tracta de un pa**ese**<small>[s~e~]</small><br> independente como de un territorio sub<br> tutela, non autonome o submittite a<br> qual**unque** altere limitation de soveranitate<small>[dád]</small>.
+In plus, il non essera facite<small>[d]</small> **alc**un<small>[g]</small><br> distinction fundate<small>[d]</small> super le statuto politi**che**<small>[g]</small>, juridi**che**<small>[g]</small> o international del pa**ese**<small>[s~e~]</small> o del<br> territorio al qual un persona pertine,<br> tanto si il se tracta de un pa**ese**<small>[s~e~]</small><br> independente como de un territorio sub<br> tutela, non autonome o submittite<small>[d]</small> a<br> qual**unque** altere limitation de soveranitate<small>[dád]</small>.
 
 Notes:
 * autonome estas fremda vorto. La *au* ne prononciĝas [o].
@@ -2965,7 +2899,22 @@ Necuno **va esser** submittite a sclavitude o<br> servitude; le sclavitude e le 
 
 <!--s-->
 
-## Correctiones
+## Summario
+
+<!--v-->
+
+<!-- 🐌🏃 🌎 🔠📖 -->
+
+| | <small><br>(🐌)</small>conservativ(issim)e<small>(🏃)</small> | <small><br>(🐌)</small>progressiv(issim)e<small>(🏃)</small> |
+|-|-|-|
+| <small><br>(🔠)</small>**auxiliar**<small>(📖)</small> | | <br>🌎 |
+| <small><br>(🔠)</small>**natural**<small>(📖)</small> | | |
+| | | |
+
+
+<!--s-->
+
+## Deviationes
 
 <!--v-->
 
@@ -3042,6 +2991,13 @@ Notes:
 
 <!--v-->
 
+| 🌎 | progressive | <small>natural</small> |
+|-|-|-|
+| lor | **su** | lor**o** |
+| | | |
+
+<!--v-->
+
 | 🌎 | progressive<small>natural</small> | progressivissime<small>🏃 natural</small> |
 |-|-|-|
 | lor | lor**o** | lor |
@@ -3051,20 +3007,79 @@ Notes:
 
 | 🌎 | progressive | progressivissime |
 |-|-|-|
-| exprimer se | exprimer-**se** | exprimer**se** |
-| diffunder los | diffunder-**los** | diffunder**los** |
+| disprecio | dispre**t**io | disprecio |
 | | | |
 
 <!--v-->
 
-| 🌎 | progressive | progressivissime |
+| 🌎 | conservative | progressive |
 |-|-|-|
-| disprecio | dispre**t**io | disprecio |
+| diffunder los | diffunder**e** **illos** | diffunder-**los** |
 | | | |
 
 <!--s-->
+
+## Correctiones
+
+<!--v-->
+
+| 🌎 | progressive |
+|-|-|
+| anglese | **i**nglese |
+| besonio | b**i**sonio |
+| maniera | man**e**ra |
+| | |
+
+<!--v-->
+
+| 🌎 | progressive |
+|-|-|
+| par | **paro** |
+| | |
+| plure | **plur** |
+| | |
+| (in) van | **(in) vano** |
+| | |
+
+<!--v-->
+
+| progressive |
+|-|
+| in alto |
+| a basso |
+| |
+
+<!--v-->
+
+| progressive |
+|-|
+| **a in** alto |
+| **a in** basso |
+| |
+
+Notes:
+* *a in* *[ajn]*
+  * progressivissime: *[en]*
+
+
 
 -----
 
 <!-- TODO natural: dicíu, habeva dicto, haberá dicto -->
 <!-- TODO natural complexe: dixe, dixêra, dixêre -->
+
+
+<!-- TODO classic/moderne ≠ principal/collateral -->
+
+<!-- 
+arrangiar
+comenciar
+maestro
+cuje
+annunciar
+detalio
+ci
+pois
+ -->
+
+<!-- gn = gn / nj -->
