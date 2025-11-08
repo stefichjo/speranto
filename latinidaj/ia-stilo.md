@@ -16,6 +16,69 @@ revealOptions:
 
 <!--s-->
 
+# „Jam“ o „Ja“?
+
+<!--s-->
+
+# „Novem“ o „Nove“?
+
+<!--v-->
+
+(m-formoj ne estas en la vortaro)
+(Gode: novem, dece)
+nove(m)
+dece(m)
+
+dece-nove 19
+
+(non vetule/veter/ancian)
+
+<!--s-->
+
+ja(m)
+etiam — anque
+
+<!--v-->
+
+qua(m)
+postquam — post que
+
+<!--v-->
+
+dum — durante que
+nam — proque
+num — esque
+
+<!--s-->
+
+quam — quanto
+tam — tanto
+
+<!-- tamben -->
+
+<!--v-->
+
+anderes video
+
+unquam — jammais → jamais
+nunquam — non ... jammais → non ... jamais
+
+magis
+mais/ma
+
+<!--v-->
+
+<!-- que (ke, kwe) -->
+
+<!-- olim — un vice/vece -->
+
+<!-- TODO tamben -->
+
+
+
+
+<!--s-->
+
 # Le Flexibilitate de Interlingua
 
 <!--v-->
@@ -46,11 +109,6 @@ On pote pensar que le fortia de Interlingua jace in su simplicitate e su capabil
 <!--v-->
 
 -----
-
-<!--v-->
-
-# „Jam“ o „Ja“?
-
 
 <!--s-->
 
