@@ -10,6 +10,54 @@ revealOptions:
   slideNumber: false
 ---
 
+<!-- cd ~/Git/speranto/latinidaj; reveal-md ia-stilo.md -w -->
+
+<!-- 🐌🏃 🌎 🔠📖 -->
+
+<!--s-->
+
+# Le Flexibilitate de Interlingua
+
+<!--v-->
+
+Saluton, ĉiuj! —— Salute, omnes!
+
+En la komenco de ĉi tiu video mi parolas kaj en Esperanto kaj en Interlingvao. —— In le comenciamento de iste video io parla e in Esperanto e in Interlingua.
+
+Mi prezentas al vi Interlingvaon el esperantista vidpunkto. —— Io vole presentar-vos Interlingua de un puncto de vista de un Esperantista.
+
+Mi estas esperantisto jam de kvarona jarcento. —— Io es esperantista jam de un quarto de `un` seculo.
+
+...manko de natureco kaj kohereco...
+...gvidas al Interlingvao...
+...fleksebleco...
+...malfacileco...
+...malkohereco kvazaŭ esperanteca...
+
+
+<!--v-->
+-----
+<!--v-->
+
+Salute, omnes!
+
+On pote pensar que le fortia de Interlingua jace in su simplicitate e su capabilitate `de` caper le anima del linguas `romanic`, includente le latino. Ma per poter vermente appreciar su bellessa on debe recognoscer que iste duo scopos tende a excluder-se e que un balancia inter illes es assatis genial.
+
+<!--v-->
+
+-----
+
+<!--v-->
+
+# „Jam“ o „Ja“?
+
+
+<!--s-->
+
+-----
+
+<!--s-->
+
 # Declaration Universal del Derectos Human
 
 <!--s-->
