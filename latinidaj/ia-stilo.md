@@ -16,7 +16,23 @@ revealOptions:
 
 <!--s-->
 
-# „Jam“ o „Ja“?
+# „Jam“ e „Ja“
+
+<!--v-->
+
+> Lo sape tu "jam" o "ja" *[ĵa]*?
+
+Interlingua ha duo stilos de pronunciation. "jam" es plus conservative e simile al Latino ("ɪᴀᴍ") durante que "ja" *[ĵa]* — le forma _collateral_ — es plus progressive e simile al linguas romanic moderne ("già", "déjà", "ya", "já").
+
+<!--v-->
+
+## „Etiam“ e „Anque“
+
+<!--v-->
+
+Le elision de "m" *[em]* in le forma collateral como anque le pronunciation de "j" *[jota]* como *[ĵ]* es regular. Dunque "jam" *[jam]* e "ja" *[ĵa]* es le mesme parola. Ma sovente un pronunciation progressive non basta pro obtener un forma _collateral_. Pro exemplo, le parola _classic_ "etiam" *[eci-am]*, que proveni del Latino ("ᴇᴛɪᴀᴍ"), ha le forma _collateral_ "anque" *[aŋke]*, e non "etia" *[esja]* o "etja" *[eĉa]*.
+
+<!--v-->
 
 <!--s-->
 
@@ -104,7 +120,7 @@ Mi estas esperantisto jam de kvarona jarcento. —— Io es esperantista jam de 
 
 Salute, omnes!
 
-On pote pensar que le fortia de Interlingua jace in su simplicitate e su capabilitate `de` caper le anima del linguas `romanic`, includente le latino. Ma per poter vermente appreciar su bellessa on debe recognoscer que iste duo scopos tende a excluder-se e que un balancia inter illes es assatis genial.
+On pote pensar que le fortia de Interlingua jace in su simplicitate e su capabilitate `de` caper le anima del linguas `roman`, includente le latino. Ma per poter vermente appreciar su bellessa on debe recognoscer que iste duo scopos tende a excluder-se e que un balancia inter illes es assatis genial.
 
 <!--v-->
 
