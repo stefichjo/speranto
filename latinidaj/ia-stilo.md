@@ -20,7 +20,7 @@ revealOptions:
 
 <!--v-->
 
-> Lo sape tu "jam" o "ja" *[ĵa]*?
+> Sapeva tu "jam" *[jam]* o "ja" *[ĵa]*?
 
 Interlingua ha duo stilos de pronunciation. "jam" es plus conservative e simile al Latino ("ɪᴀᴍ") durante que "ja" *[ĵa]* — le forma _collateral_ — es plus progressive e simile al linguas romanic moderne ("già", "déjà", "ya", "já").
 
@@ -30,9 +30,11 @@ Interlingua ha duo stilos de pronunciation. "jam" es plus conservative e simile 
 
 <!--v-->
 
-Le elision de "m" *[em]* in le forma collateral como anque le pronunciation de "j" *[jota]* como *[ĵ]* es regular. Dunque "jam" *[jam]* e "ja" *[ĵa]* es le mesme parola. Ma sovente un pronunciation progressive non basta pro obtener un forma _collateral_. Pro exemplo, le parola _classic_ "etiam" *[eci-am]*, que proveni del Latino ("ᴇᴛɪᴀᴍ"), ha le forma _collateral_ "anque" *[aŋke]*, e non "etia" *[esja]* o "etja" *[eĉa]*.
+Le cambiamento in pronunciation de "jam" *[jam]* a "ja" *[ĵa]* es regular. Ma sovente on debe apprender un altere parola como forma _collateral_. Pro exemplo, le parola "etiam" *[eci-am]* (Latino "ᴇᴛɪᴀᴍ") ha le forma _collateral_ "anque" *[aŋke]*, e non "etia" *[esja]* o "etja" *[eĉa]*.
 
 <!--v-->
+
+Vole tu saper plus? Da un "me place" e subscribe-te al canal.
 
 <!--s-->
 
@@ -546,3 +548,6 @@ pois
 <!-- ipse / mesme ? -->
 
 <!-- interlingua → Interlingua -->
+
+<!-- quam → quanto ≠ qua (+ qui): ĉi tie -->
+<!-- la (+ li): tie -->
