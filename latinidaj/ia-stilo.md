@@ -20,9 +20,9 @@ revealOptions:
 
 <!--v-->
 
-> Sapeva tu "jam" *[jam]* o "ja" *[ĵa]*?
+> Lo sapeva tu "jam" *[jam]* o "ja" *[ĵa]*?
 
-Interlingua ha duo stilos de pronunciation. "jam" es plus conservative e simile al Latino ("ɪᴀᴍ") durante que "ja" *[ĵa]* — le forma _collateral_ — es plus progressive e simile al linguas romanic moderne ("già", "déjà", "ya", "já").
+Interlingua ha duo stilos de pronunciation. "jam" es plus conservative e simile al Latino classic ("ɪᴀᴍ") durante que "ja" *[ĵa]* — le forma _collateral_ de "jam" *[jam]* — es plus progressive e simile al linguas romanic moderne ("già", "déjà", "ya", "já").
 
 <!--v-->
 
@@ -34,7 +34,7 @@ Le cambiamento in pronunciation de "jam" *[jam]* a "ja" *[ĵa]* es regular. Ma s
 
 <!--v-->
 
-Vole tu saper plus? Da un "me place" e subscribe-te al canal.
+Naturalmente tu pote leger un texto in stilo _ancian_ in un pronunciation _collateral_, e un texto in stilo _moderne_ in un pronunciation _classic_. Dunque tu pote pronunciar "jam" *[jam]* *[ĵam]* e "ja" *[ĵa]* *[ja]*.
 
 <!--s-->
 
@@ -53,12 +53,8 @@ dece-nove 19
 
 <!--s-->
 
-ja(m)
-etiam — anque
-
-<!--v-->
-
 qua(m)
+quam - quanto
 postquam — post que
 
 <!--v-->
@@ -71,6 +67,9 @@ num — esque
 
 quam — quanto
 tam — tanto
+
+<!-- quam → quanto ≠ qua (+ qui): ĉi tie -->
+<!-- la (+ li): tie -->
 
 <!-- tamben -->
 
@@ -549,5 +548,37 @@ pois
 
 <!-- interlingua → Interlingua -->
 
-<!-- quam → quanto ≠ qua (+ qui): ĉi tie -->
-<!-- la (+ li): tie -->
+<!--
+conserv. conserv. progress.
+issime
+
+         scríbere scribér
+
+
+         scríbite scribíte    auxiliar
+scríbete
+         scripte  scripte     natural
+-->
+
+<!-- 
+classic: dicer & dicíte (forma progressive con pronunciation conservative)
+collateral: dícere & dicte (forma e prounciation conservative)
+-->
+
+<!-- 
+con.   pro.
+dícere dicér
+
+dícite dicíte   aux.
+dicte  dicte    nat.
+-->
+
+<!-- 
+Le pronunciationes diveni estranie.
+Le forma pricipal in interlingua es "dicér", un forma evidentemente plus progressive que "dícere".
+Ma le pronunciation classic es "jam" *[jam]*, durante que le pronunciation collateral es "ja" *[ĵa]*.
+-->
+
+<!-- facente / faciente: "fácire", "fácite" -->
+<!-- capente / capiente: "cápire", "cápite" -->
+
