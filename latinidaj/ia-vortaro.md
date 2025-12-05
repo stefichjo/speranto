@@ -2101,13 +2101,15 @@ Notes:
 
 <!--v-->
 
-**paro**
+**pare**
 
 | 🇮🇹 | 🇫🇷 | 🇪🇸 | 🇵🇹 |
 |:-:|:-:|:-:|:-:|
-| paṙo | pæro | parŏ | parŏ |
+| paṙo | pære | pare | pare |
 | *paio* | *pair* | *par* | *par* |
 | | | | |
+
+<!-- paio malregulas -->
 
 <!--v-->
 

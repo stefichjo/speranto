@@ -791,9 +791,6 @@ Notes:
 | spatio         | *[spasjo]*      | *[spaso]*     |
 | | | |
 
-Notes:
-* progressivissime: *plaça*, *preço*, *spaço*
-
 <!--v-->
 
 <small>Intervokala *[j]* fariĝas *[ĵ]*. Voĉa konsonanto eliziiĝas.</small>
@@ -1392,6 +1389,8 @@ Notes:
 | ovo | *[ovo]* | *[ovo]* |
 | | | |
 
+<!-- maniera -->
+
 <!--v-->
 
 | | progressive | progressivissime |
@@ -1845,14 +1844,6 @@ Notes:
 |-|-|
 | quobi    | ubi  |
 | quoie    | cuje |
-| | |
-
-<!--v-->
-
-| auxiliar | natural |
-|-|-|
-| quobi    | ubi      |
-| quoie    | **cuie** |
 | | |
 
 Notes:
@@ -2347,6 +2338,7 @@ Notes:
 
 Notes:
 * 🌎 esseva ~ era
+<!-- * habeva?, vadeva? -->
 
 <!--v-->
 
@@ -2423,16 +2415,15 @@ Notes:
 
 | | | |
 |-|-|-|
-| sea    | habia    | vada    |
-| seas   | habias   | vadas   |
-| sea    | habia    | vada    |
-| seamos | habiamos | vadamos |
-| seáis  | habiáis  | vadáis  |
-| sean   | habian   | vadan   |
+| sia    | habia    | vada    |
+| sias   | habias   | vadas   |
+| sia    | habia    | vada    |
+| siamos | habiamos | vadamos |
+| siáis  | habiáis  | vadáis  |
+| sian   | habian   | vadan   |
 | | | |
 
 Notes:
-* 🌎 sia
 * *a* → *vada*
 <!-- TODO esse? -->
 <!-- TODO * esseam, esseas, esseat, esseamus, esseatis, esseant -->
@@ -2569,6 +2560,8 @@ Notes:
 | fuestes | habêstes | vadêstes |
 | fueron  | habêron  | vadêron  |
 | | | |
+
+<!-- scripsei scripseste scripse scripsemos scripsestes scripseron ? -->
 
 <!--v-->
 
