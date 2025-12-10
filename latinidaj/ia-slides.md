@@ -345,19 +345,85 @@ Ora toto … claro o clarmente?
 <!--v-->
 
 
-## Vocabulario: quam ~ quanto TODO
+## Vocabulario: qu- ~ qu-/c-/u- TODO
 
-<!-- conservativissime ~ conservative: quam ~ quanto -->
+<!--
+
+conservativissime ~ conservative
+quam ~ quanto
+quamdiu ~ quando
+quomodo ~ como
+quobi ~ ubi
+ -->
 
 
 <!--v-->
 
 ## Vocabulario: ali- ~ al- TODO
 
-<!-- progressive ~ progressivissime -->
-<!-- aliquanto ~ alquanto -->
-<!-- aliquando ~ alquando -->
-<!-- alicun ~ alcun -->
+<!-- 
+progressive ~ progressivissime
+aliquanto ~ alquanto
+aliquando ~ alquando
+
+conservative ~ progressive ~ progressivissime
+alique ~ alique */ali-ke/* ~ alco
+ -->
+
+
+<!--v-->
+
+## Vocabulario: ne- TODO
+
+<!-- 
+conservative ~ progressive
+...neque... ~ ...neque */neke/*...
+
+conservativissime ~ conservative
+neque (nenio ..., nenio ... → nek ..., nek ... `?`) ~ nec
+ -->
+
+<!--v-->
+
+## Vocabulario: -que TODO
+
+<!-- 
+conservative ~ progressive
+ubique ~ ...
+ -->
+
+
+<!--v-->
+
+## Vocabulario: -cun TODO
+
+<!-- 
+conservative ~ progressive
+...aliqui-une... ~ alicun ~ alcun
+...nequi-une... ~ necun
+...qualeque... ~ qualque */kŭalke/* (ĉia)
+  ...qualeque-une... ~ qualcun (ĉia-unu → kelka)
+    ...qualeque... ~ qualque */kŭalke/* ((ĉia) → kelke da)
+ -->
+
+
+<!--v-->
+
+## Vocabulario: -cunque TODO
+
+
+<!-- 
+conservative ~ progressive ~ progressivissime
+...comocumque... ~ comocunque ~ ...comunque...
+...ubicumque... ~ ubicunque ~ ...ovunque...
+...qualecumque... ~ qualcunque ~ ...qualunque...
+...quicumque... ~ quicunque */kikuŋkŭe/* ~ ...quiunque...
+...quecumque... ~ quecunque */kekuŋkŭe/* ~ ...queunque...
+...quandocumque... ~ quandocunque ~ ...quandunque...
+ -->
+
+Notes:
+* IED: [que·cunque] (kekúnkwe, kwekúnkwe)
 
 
 <!--s-->
@@ -1176,3 +1242,10 @@ alique, "quale-que causa" ~ qualche cosa ~ qualcosa
 
 progressivissime e/o: "alco"
 
+
+
+
+
+## Vocabulario: ali-
+
+aliquando
