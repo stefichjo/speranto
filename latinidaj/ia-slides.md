@@ -108,7 +108,11 @@ Dunque a vices on debe saper si un parola ha derivationes. E a vices on debe sap
 <!-- pauco ~ poco -->
 <!-- (paucitate) -->
 
+
 <!--v-->
+
+## Orthographia: "littera" o "litera" TODO
+
 
 <!--v-->
 
@@ -338,6 +342,24 @@ Ora toto … claro o clarmente?
 <!-- melio pejo -->
 
 
+<!--v-->
+
+
+## Vocabulario: quam ~ quanto TODO
+
+<!-- conservativissime ~ conservative: quam ~ quanto -->
+
+
+<!--v-->
+
+## Vocabulario: ali- ~ al- TODO
+
+<!-- progressive ~ progressivissime -->
+<!-- aliquanto ~ alquanto -->
+<!-- aliquando ~ alquando -->
+<!-- alicun ~ alcun -->
+
+
 <!--s-->
 
 # Inter-Interlingua (Exemplos: conservative ~ progressive)
@@ -372,12 +394,19 @@ nunquam — non ... jammais → non ... jamais
 <!-- olim — un vice/vece -->
 
 
-## Vocabulario: aer ~ aere TODO
+## Vocabulario: Grecismos: aer ~ aere TODO
 
 In le stilo _conservative_, grecismos ha le forma del nominativo latino. Pro isto il ha "analysis" e "analyse", e "aer" e "aere".
 
 <!-- analysis ~ analyse -->
 <!-- āēr ~ āere -->
+
+<!--v-->
+
+
+## Vocabulario: Germanismos(?): garantia TODO
+
+<!-- garantia */garantia/* ~ */garansia/* -->
 
 <!--v-->
 
@@ -421,6 +450,11 @@ Alcun formas _progressive_ es irregular e debe esser apprendite separatemente. P
 
 <!--v-->
 
+## Vocabulario: -itia ~ -essa TODO
+
+
+<!--v-->
+
 ## Vocabulario: cauda ~ coda TODO
 
 
@@ -441,9 +475,61 @@ Alcun formas _progressive_ es irregular e debe esser apprendite separatemente. P
 <!--v-->
 
 
+## Vocabulario: post ~ depois; depost ~ pois TODO
+
+<!-- pos -->
+
+<!-- post (que) ~ depois (que) -->
+<!-- depost ~ pois -->
+
+<!-- 
+depost ~ depois `→ pois`
+depost `→ post` ~ depois
+
+depost: *adv* afterwards ...
+* `→ post` *prep* after ...
+* depost que `→ post que`: since, ...
+
+pois: *adv* afterwards ...
+* `→ depois que` *conj* for
+* pois que `→ depois que`: since ...
+
+post `→ depost`: *adv* behind ...
+* *prep* behind ...
+* post que: since
+
+preposition depost `→ post`
+conjunction depost que `→ post que`
+
+after: post, depost `→ post`
+
+afterwards: postea, depost, post `→ depost`
+
+because: ... post que, pois que `→ depois que`
+
+behind: post
+
+for: ...
+* *conj* ... post que, pois que `→ depois que`
+
+since: *adv* depost, depois `→ pois`
+* ... depois
+* *conj* depost que `→ post que`, depois que
+ -->
+
+
+
+
+<!--v-->
+
 # Inter-Interlingua (Anachronismos: progressiv(issim)e → progressive ~ progressivissime)
 
 ## Phonologia: "haver" e "provar" TODO
+
+<!-- 
+haver → haber ~ have'
+probar → probar ~ prova'
+ -->
 
 # Inter-Interlingua (Avantiate)
 
@@ -793,6 +879,18 @@ Le participio passate usate con "esser" es un adjectivo.
 
 <!--s-->
 
+# Inter-Interlingua (Exemplos: progressive → progressive ~ progressivissime)
+
+## Vocabulario: -cunque ~ -unque
+
+<!-- 
+comocunque ~ comunque
+qualcunque ~ qualunque
+quicunque ~ quiunque
+ubiqunque ~ ovunque
+ -->
+
+
 # Inter-Interlingua (Anachronismos: progressive → conservative ~ progressive)
 
 ## Vocabulario: cavallo → caballo ~ cavallo TODO
@@ -960,6 +1058,14 @@ Il es notabile que in espaniol e portugese, on non distingue inter "de ille" e "
 
 # Inter-Interlingua (Peculiaritates)
 
+## Phonologia: Accento
+
+<!-- natural -->
+<!-- divide e impera = dívide e ímpera = divĭde e impĕra (proque "id" e "er" pare syllabas non-accentuate) -->
+
+
+<!--v-->
+
 ## Interpunction: Accentos TODO
 
 <!-- pais → país -->
@@ -1041,4 +1147,32 @@ tote cosa → omne cosa
 <!-- jammagis ~ jamas -->
 
 <!--v-->
+
+
+# ...
+
+
+
+
+
+
+nel (in lo)
+al (a lo)
+del (de lo)
+
+
+nequale, "neque-une" ~ necun
+aliquale, "alique-une" ~ alicun ~ alcun
+
+quale-que
+"quale-que une" ~ qualcun = qualche un
+"quale-que" ~ qualche
+
+alique, "quale-que causa" ~ qualche cosa ~ qualcosa
+
+
+
+
+
+progressivissime e/o: "alco"
 

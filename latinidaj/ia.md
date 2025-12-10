@@ -1781,7 +1781,7 @@ Notes:
 | qui  | qui |
 | ali-qui …, ali-qui une | <small>🐌 alicun</small> alcun       |
 | ne-qui …, ne-qui une   | necun  |
-| qui-cumque | <small>🐌 quicunque</small> quiunque |
+| qui-cumque | quicunque <small>🏃 quiunque</small>  |
 | | |
 
 Notes:
