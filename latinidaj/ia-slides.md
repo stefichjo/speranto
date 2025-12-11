@@ -345,34 +345,6 @@ Ora toto … claro o clarmente?
 <!--v-->
 
 
-## Vocabulario: qu- ~ qu-/c-/u- TODO
-
-<!--
-
-conservativissime ~ conservative
-quam ~ quanto
-quamdiu ~ quando
-quomodo ~ como
-quobi ~ ubi
- -->
-
-
-<!--v-->
-
-## Vocabulario: ali- ~ al- TODO
-
-<!-- 
-progressive ~ progressivissime
-aliquanto ~ alquanto
-aliquando ~ alquando
-
-conservative ~ progressive ~ progressivissime
-alique ~ alique */ali-ke/* ~ alco
- -->
-
-
-<!--v-->
-
 ## Vocabulario: ne- TODO
 
 <!-- 
@@ -393,37 +365,18 @@ ubique ~ ...
  -->
 
 
-<!--v-->
+<!--s-->
 
-## Vocabulario: -cun TODO
-
-<!-- 
-conservative ~ progressive
-...aliqui-une... ~ alicun ~ alcun
-...nequi-une... ~ necun
-...qualeque... ~ qualque */kŭalke/* (ĉia)
-  ...qualeque-une... ~ qualcun (ĉia-unu → kelka)
-    ...qualeque... ~ qualque */kŭalke/* ((ĉia) → kelke da)
- -->
-
+# Inter-Interlingua (Exemplos: conservativissime ~ conservative)
 
 <!--v-->
 
-## Vocabulario: -cunque TODO
+## Vocabulario: qu- TODO
 
-
-<!-- 
-conservative ~ progressive ~ progressivissime
-...comocumque... ~ comocunque ~ ...comunque...
-...ubicumque... ~ ubicunque ~ ...ovunque...
-...qualecumque... ~ qualcunque ~ ...qualunque...
-...quicumque... ~ quicunque */kikuŋkŭe/* ~ ...quiunque...
-...quecumque... ~ quecunque */kekuŋkŭe/* ~ ...queunque...
-...quandocumque... ~ quandocunque ~ ...quandunque...
+<!--
+conservativissime ~ conservative
+quam ~ quanto
  -->
-
-Notes:
-* IED: [que·cunque] (kekúnkwe, kwekúnkwe)
 
 
 <!--s-->
@@ -510,7 +463,23 @@ Alcun formas _progressive_ es irregular e debe esser apprendite separatemente. P
 <!-- reprehendere ~ reprender -->
 
 
+<!--s-->
+
+# Inter-Interlingua (Exemplos: progressive ~ progressivissime)
+
 <!--v-->
+
+## Vocabulario: ali- ~ al- TODO
+
+<!-- 
+progressive ~ progressivissime
+aliquanto ~ alquanto
+aliquando ~ alquando
+alique */ali-ke/* ~ alco
+ -->
+
+
+<!--s-->
 
 # Inter-Interlingua (Exemplos: conservative ~ progressiv(issim)e)
 
@@ -945,19 +914,60 @@ Le participio passate usate con "esser" es un adjectivo.
 
 <!--s-->
 
-# Inter-Interlingua (Exemplos: progressive → progressive ~ progressivissime)
+# Inter-Interlingua (Exemplos: conservative → conservativissime ~ conservative)
 
-## Vocabulario: -cunque ~ -unque
+<!--v-->
 
-<!-- 
-comocunque ~ comunque
-qualcunque ~ qualunque
-quicunque ~ quiunque
-ubiqunque ~ ovunque
+## Vocabulario: qu- ~ qu-/c-/u- TODO
+
+<!--
+conservativissime ~ conservative
+quamdiu ~ quando
+quomodo ~ como
+quobi ~ ubi
  -->
 
 
+<!--s-->
+
+# Inter-Interlingua (Exemplos: progressive → conservative ~ progressive ~ progressivissime)
+
+<!--v-->
+
+## Vocabulario: -cunque TODO
+
+
+<!-- 
+conservative ~ progressive ~ progressivissime
+comocumque ~ comocunque ~ comunque
+ubicumque ~ ubicunque ~ ovunque
+qualecumque ~ qualcunque ~ qualunque
+quicumque ~ quicunque */kikuŋkŭe/* ~ quiunque
+quecumque ~ quecunque */kekuŋkŭe/* ~ queunque
+quandocumque ~ quandocunque ~ quandunque
+ -->
+
+Notes:
+* IED: [que·cunque] (kekúnkwe, kwekúnkwe)
+
+
+<!--s-->
+
 # Inter-Interlingua (Anachronismos: progressive → conservative ~ progressive)
+
+<!--v-->
+
+## Vocabulario: -cun TODO
+
+<!-- 
+conservative ~ progressive
+aliqui-une ~ alicun ~ alcun
+nequi-une ~ necun
+qualeque ~ qualque */kŭalke/* (ĉia)
+  qualeque-une ~ qualcun (ĉia-unu → kelka)
+    qualeque ~ qualque */kŭalke/* ((ĉia) → kelke da)
+ -->
+
 
 ## Vocabulario: cavallo → caballo ~ cavallo TODO
 
@@ -1245,7 +1255,6 @@ progressivissime e/o: "alco"
 
 
 
-
-## Vocabulario: ali-
-
-aliquando
+i~e
+isto ~ esto
+(cominitiar) ~ comentiar
