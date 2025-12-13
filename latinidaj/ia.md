@@ -1799,11 +1799,6 @@ Notes:
 | ali-que | qualque cosa `?` |
 | | |
 
-<!-- TODO trova location pro "qualcun"  -->
-
-<!-- TODO qualque cosa ≠ qualcosa (kelka aĵo ≠ io) -->
-<!-- alco → alque -->
-
 <!--v-->
 
 | conservative |

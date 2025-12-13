@@ -1,6 +1,6 @@
 <!--s-->
 
-# Inter-Interlingua (Initial)
+# Inter-Interlingua Initial
 
 <!--v-->
 
@@ -54,7 +54,16 @@ Ora nos pote pronunciar "gente" */gente/* e "justo" */justo/* in le stilo _conse
 
 <!--v-->
 
-## Phonologia: "que" e "qui"
+## Phonologia: "g" (traino)
+
+<!-- 
+conservative ~ progressive
+tragino ~ traino
+ -->
+
+<!--v-->
+
+## Phonologia: "qu" ("que" e "qui")
 
 Le pronunciation de "que" */kŭe*/ e "qui" */kŭi/* in le stilo _conservative_ deveni */ke/* e */ki/* in le stilo _progressive_, ...
 
@@ -74,14 +83,16 @@ Nota que le parola "qui" */kŭi/* (que significa "in iste loco") mantene su */ŭ
 
 <!-- qui */kŭi/* = in iste loco -->
 
-Anque correlativos in -"que" */kŭe/* mantene lor */ŭ/*, pro exemplo in "ubique" */ubi-kŭe/*.
+Anque correlativos in -"unque" */kŭe/* mantene lor */ŭ/*, pro exemplo in "comocunque" */komokuŋkŭe/*.
 
 <!-- -que */kŭe/*: ubique -->
+
+Nota que le parola "dunque" */duŋkĕ/* non es un correlativo. Su pronunciation es */duŋkŭe/*.
 
 
 <!--v-->
 
-## Phonologia: "et" e "e"
+## Phonologia: -"t" ("et" e "e")
 
 Un -"t" */te/* final dispare in le stilo _progressive_. Dunque le conjunction _conservative_ "et" deveni "e" in le stilo _progressive_.
 
@@ -90,7 +101,7 @@ Un -"t" */te/* final dispare in le stilo _progressive_. Dunque le conjunction _c
 
 <!--v-->
 
-## Phonologia: "aut" e "o"
+## Phonologia: "au" ("aut" e "o")
 
 Le diphthongo "au" deveni "o" in le stilo _progressivissime_.
 
@@ -111,7 +122,60 @@ Dunque a vices on debe saper si un parola ha derivationes. E a vices on debe sap
 
 <!--v-->
 
-## Orthographia: "littera" o "litera" TODO
+
+## Phonologia: -"er" (semper) TODO
+
+<!-- 
+conservative ~ progressive ~ progressivissime
+dextere ~ ... → dextre (import) ~ dextre
+semper ~ ... → sempre (import) ~ sempre
+ -->
+
+<!--v-->
+
+## Phonologia: "p" e "b" TODO
+
+<!-- 
+progressive ~ progressivissime
+opera ~ obra
+ -->
+
+
+<!--v-->
+
+## Phonologia: "b" e "v" TODO
+
+<!-- 
+progressive ~ progressivissime
+haber → haver (import) ~ have'
+probar → provar (import) ~ prova'
+deliberar → delivrar (import) ~ delivra'
+ -->
+
+Sed efektive, tio ŝajnas superflua aŭ eĉ erara.
+
+<!-- 
+progressivissime ~ progressivissime (rapide)
+(paupere ~) pobre ~ povre
+ -->
+
+
+<!--v-->
+
+
+## Phonologia: "e"/"i" TODO
+
+<!-- TODO -->
+ego ~ eo ~ io ~ jo
+
+insignar ~ inseniar
+intra(r) ~ entrar
+isto ~ esto
+(com)initiar ~ comenciar
+
+<!--v-->
+
+## Orthographia: "tt" ("littera" o "litera") TODO
 
 
 <!--v-->
@@ -345,18 +409,6 @@ Ora toto … claro o clarmente?
 <!--v-->
 
 
-## Vocabulario: ne- TODO
-
-<!-- 
-conservative ~ progressive
-...neque... ~ ...neque */neke/*...
-
-conservativissime ~ conservative
-neque (nenio ..., nenio ... → nek ..., nek ... `?`) ~ nec
- -->
-
-<!--v-->
-
 ## Vocabulario: -que TODO
 
 <!-- 
@@ -432,7 +484,7 @@ In le stilo _conservative_, grecismos ha le forma del nominativo latino. Pro ist
 
 ## Vocabulario: balneo ~ banio
 
-Pro le influentias del latino vulgar, alcun parolas in le linguas romanic moderne es irregular, e dunque anque in Interlingua, ubi nos pote vider sia un _regular_ "balneo" sia un _irregular_ "banio".
+Pro le influentias del latino vulgar, alicun parolas in le linguas romanic moderne es irregular, e dunque anque in Interlingua, ubi nos pote vider sia un _regular_ "balneo" sia un _irregular_ "banio".
 
 <!-- balneo ~ banio -->
 
@@ -456,7 +508,7 @@ banio, baniar
 
 ## Vocabulario: -prehendere ~ -prender
 
-Alcun formas _progressive_ es irregular e debe esser apprendite separatemente. Pro exemplo, le _conservative_ "comprehendere" non deveni "comprehender" ma "comprender" in le stilo _progressive_.
+Alicun formas _progressive_ es irregular e debe esser apprendite separatemente. Pro exemplo, le _conservative_ "comprehendere" non deveni "comprehender" ma "comprender" in le stilo _progressive_.
 
 <!-- apprehendere ~ apprender -->
 <!-- comprehendere ~ comprender -->
@@ -557,16 +609,7 @@ since: *adv* depost, depois `→ pois`
 
 <!--v-->
 
-# Inter-Interlingua (Anachronismos: progressiv(issim)e → progressive ~ progressivissime)
-
-## Phonologia: "haver" e "provar" TODO
-
-<!-- 
-haver → haber ~ have'
-probar → probar ~ prova'
- -->
-
-# Inter-Interlingua (Avantiate)
+# Inter-Interlingua Avantiate
 
 <!--v-->
 
@@ -618,6 +661,16 @@ texto
 
 /ks/ ~ /z/
 examine
+ -->
+
+<!--v-->
+
+
+## Phonologia: c ~ g TODO
+
+<!-- 
+conservative ~ progressive ~ progressivissime
+pacare ~ pacar → pagar (import) ~ pagar
  -->
 
 <!--v-->
@@ -912,6 +965,15 @@ Le participio passate usate con "esser" es un adjectivo.
 <!-- (io) so venito/-a = (io) venii -->
 
 
+<!--v-->
+
+## Vocabulario: ne- TODO
+
+<!-- 
+ne + qui = nequi
+ -->
+
+
 <!--s-->
 
 # Inter-Interlingua (Exemplos: conservative → conservativissime ~ conservative)
@@ -925,7 +987,10 @@ conservativissime ~ conservative
 quamdiu ~ quando
 quomodo ~ como
 quobi ~ ubi
+
+nequobi ~ necubi
  -->
+
 
 
 <!--s-->
@@ -935,7 +1000,6 @@ quobi ~ ubi
 <!--v-->
 
 ## Vocabulario: -cunque TODO
-
 
 <!-- 
 conservative ~ progressive ~ progressivissime
@@ -968,6 +1032,10 @@ qualeque ~ qualque */kŭalke/* (ĉia)
     qualeque ~ qualque */kŭalke/* ((ĉia) → kelke da)
  -->
 
+<!-- 
+conservative ~ progressive
+alique ~ alique → qualque cosa → qualcosa
+ -->
 
 ## Vocabulario: cavallo → caballo ~ cavallo TODO
 
@@ -994,9 +1062,7 @@ renuntiare ~ renunciar
 Le parola latino "platea" ha devenite "placia" in Interlingua, le base del verbo "placiar". Ni "platea" ni derivationes de "platea" existe in le stilo _progressive_.
 
 <!-- platea ~ placia -->
-
-
-
+<!-- TODO patea ~ platia → placia (import) ~ placia (🐌) ~ plaça -->
 
 <!--v-->
 
@@ -1138,6 +1204,7 @@ Il es notabile que in espaniol e portugese, on non distingue inter "de ille" e "
 
 <!-- natural -->
 <!-- divide e impera = dívide e ímpera = divĭde e impĕra (proque "id" e "er" pare syllabas non-accentuate) -->
+<!-- prédica -->
 
 
 <!--v-->
@@ -1225,36 +1292,44 @@ tote cosa → omne cosa
 <!--v-->
 
 
+## Phonologia: c ~ g TODO
+
+<!-- 
+conservative ~ progressive ~ progressivissime
+precare ~ precar ~ pregar ⇒ precare ~ precar → pregar (import) → pregar
+ -->
+
+
+<!--v-->
+
 # ...
-
-
-
-
-
 
 nel (in lo)
 al (a lo)
 del (de lo)
 
-
-nequale, "neque-une" ~ necun
-aliquale, "alique-une" ~ alicun ~ alcun
-
-quale-que
-"quale-que une" ~ qualcun = qualche un
-"quale-que" ~ qualche
-
-alique, "quale-que causa" ~ qualche cosa ~ qualcosa
+e~o
+alique ~ ... ~ algo
 
 
 
+*sapie
+*cavea
+-atico
 
+progressive ~ progressivissime
+maior ~ major
+peior ~ pejor
+Maio ~ Majo
+cuie ~ cuje
 
-progressivissime e/o: "alco"
+*privilegio */ĵi/* ~ privilegio */ĵ/*
 
+-*adio ~ -*agio ~ -age
 
+rabie ~ rage
+*sabie ~ sage
 
+cavia ~ *cagia
+pluvia ~ *plugia
 
-i~e
-isto ~ esto
-(cominitiar) ~ comentiar
