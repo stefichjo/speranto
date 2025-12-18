@@ -37,9 +37,20 @@ Pro orientar se in le variationes que il ha gratias a le flexibilitate de Interl
 
 <!--v-->
 
+## Phonologia: "j" (major) TODO
+
+<!-- 
+progressive (lente) ~ progressive
+maior ~ major
+peior ~ pejor
+cuie ~ cuje
+ -->
+
+<!--v-->
+
 ## Phonologia: "g"
 
-Le pronunciation _standard_ del littera "g" */ĵe/* es */g/*, anque ante "e" e "i", como in "gente" */gente/*. Ma un pronunciation _collateral_ */ĵ/* identic al pronunciation del littera "j" */jota/* ha essite oblidate in le Grammatica de Interlingua original de Gode, excepte in vocabulos hospite e in le suffixo "-age" */aĵe/*. Dunque, pro pronunciar "gente" */gente/* */ĵente/* in un pronunciation _progressive_, nos debe leger inter le lineas, como in le Grammatica de Interlingua de Wilgenhof.
+Le pronunciation _standard_ del littera "g" */ĵe/* es */g/*, anque ante "e" e "i", como in "gente" */gente/*. Ma un pronunciation _collateral_ */ĵ/* identic al pronunciation del littera "j" */ĵota/* ha essite oblidate in le Grammatica de Interlingua original de Gode, excepte in vocabulos hospite e in le suffixo "-age" */aĵe/*. Dunque, pro pronunciar "gente" */gente/* */ĵente/* in un pronunciation _progressive_, nos debe leger inter le lineas, como in le Grammatica de Interlingua de Wilgenhof.
 
 <!-- 
 /g/ ~ /ĵ/
@@ -54,7 +65,7 @@ Ora nos pote pronunciar "gente" */gente/* e "justo" */justo/* in le stilo _conse
 
 <!--v-->
 
-## Phonologia: "g" (traino)
+## Phonologia: "g" (traino) TODO move to avantiate
 
 <!-- 
 conservative ~ progressive
@@ -1100,20 +1111,34 @@ Le dictionario ha solo le forma _conservative_ "character". Dunque nos debe lege
 
 <!--v-->
 
-## Vocabulario: lancea → lancia
+## Vocabulario: lancea → lancia TODO
 
 <!-- lança lanza lance lancia -->
 <!-- → lancia, lanciar -->
 
+
 <!--v-->
 
+## Vocabulario: maio → majo
+
+Un "i" intervocalic del stilo conservative deveni "j" */ĵota/* in le stilo progressive.
+
+Pro exemplo, le "j" */jota/* in le parola "major" (que significa "plus magne") deveni de un "i" intervocalic latino. Su forma conservative esserea dunque "maiore" */maiore/*.
+
+<!-- maiore → major -->
+
+Vice versa, le parola "maio" */majo/* (o de facto "maio" */mai-o/*) es conservative e su forma progressive esserea dunque "majo" */maĵo/*.
+
+<!-- maio → majo -->
+
+
+<!--v-->
 
 ## Vocabulario: mense → mese
 
 In omne lingua romanic moderne le "n" in "mense" ha disparite. Dunque nos pote considerar le forma "mense" solo como _conservative_, durante que "mese" esserea _progressive_.
 
 <!-- mense ~ mese -->
-
 
 <!--v-->
 
@@ -1317,12 +1342,6 @@ alique ~ ... ~ algo
 *cavea
 -atico
 
-progressive ~ progressivissime
-maior ~ major
-peior ~ pejor
-Maio ~ Majo
-cuie ~ cuje
-
 *privilegio */ĵi/* ~ privilegio */ĵ/*
 
 -*adio ~ -*agio ~ -age
@@ -1332,4 +1351,7 @@ rabie ~ rage
 
 cavia ~ *cagia
 pluvia ~ *plugia
+
+
+vice ~ vece (~ veç = vez */s/*)
 
