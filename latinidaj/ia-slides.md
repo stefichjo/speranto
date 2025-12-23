@@ -1355,3 +1355,28 @@ pluvia ~ *plugia
 
 vice ~ vece (~ veç = vez */s/*)
 
+
+tempore
+tempo
+
+mense mes
+mese
+
+corde
+cor
+
+latere
+lato
+
+
+ma con suffixos:
+
+(tragino)
+traino treno
+
+(pagense)
+paese pais
+
+(magistro)
+maistro maestro
+
