@@ -1380,3 +1380,5 @@ paese pais
 (magistro)
 maistro maestro
 
+
+manducar ~ mangiar
