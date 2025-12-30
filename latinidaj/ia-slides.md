@@ -1356,29 +1356,79 @@ pluvia ~ *plugia
 vice ~ vece (~ veç = vez */s/*)
 
 
-tempore
-tempo
 
-mense mes
-mese
+<!-- basic ~ natural (hypothese) ~ progressivissime -->
+
+magistro maestro
+(maistro)
+
+<!-- basic (hypothese) ~ natural (hypothese) ~ progressivissime -->
+
+(pagense) pais
+(paese)
+
+<!-- basic (hypothese) ~ natural ~ progressivissime (hypothese) -->
+
+(tragino) (treno)
+traino
+
+
+
+ma sin suffixos:
+
+<!-- basic ~ natural (hypothese) -->
+
+tempore
+(tempo)
+
+mense
+(mese)
 
 corde
-cor
+(cor)
 
 latere
-lato
+(lato)
 
 
-ma con suffixos:
-
-(tragino)
-traino treno
-
-(pagense)
-paese pais
-
-(magistro)
-maistro maestro
-
+<!-- alique diverse -->
 
 manducar ~ mangiar
+
+
+
+
+basic: dece-quatro (dece-quattro)
+natural: quattuor-dece
+
+dece-tres
+tre-dece
+
+dece-cinque
+quin-dece
+
+dece-sex
+se-dece
+
+numeralos de secunde thema (i.e. natural)
+
+un = un
+duo = duo
+tres (dece-tres) → tre (tre-dece)
+quat(t)ro (dece-quat(t)ro) → quattuor (quattuor-dece)
+cinque → quin (quin-dece)
+sex → se (se-dece)
+
+<!-- 
+Korrektur ?
+du ⇒ du-dece
+tri ⇒ tri-dece
+quar ⇒ quar-dece
+ -->
+
+
+
+prehendere ~ prehender ~ prender (progressive natural!!!)
+
+
+
