@@ -410,6 +410,13 @@ Ora toto … claro o clarmente?
 
 <!--v-->
 
+## Vocabulario: numeralos con secunde thema TODO
+
+<!-- systemic: dece-cinque ~ naturalistic: quin-dece -->
+
+
+<!--v-->
+
 
 ## Vocabulario: -que TODO
 
@@ -1436,3 +1443,4 @@ conservative ~ progressive
 tragino ~ traino
  -->
 
+hora ora
