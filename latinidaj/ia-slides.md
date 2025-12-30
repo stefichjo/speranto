@@ -10,7 +10,7 @@ Interlingua ha duo stilos de pronunciation. "jam" es plus conservative e simile 
 
 Le cambiamento de "jam" */jam/* a "ja" */ĵa/* es regular. Ma sovente on debe apprender un altere parola como forma _collateral_. Pro exemplo, le parola "etiam" */eci-am/* ha le forma _collateral_ "anque" */aŋke/*, e non "etia" */esja/* o "etja" */eĉa/*.
 
-naturalisticmente tu pote leger un texto in stilo _ancian_ in un pronunciation _collateral_, e un texto in stilo _moderne_ in un pronunciation _classic_. Dunque tu pote pronunciar "jam" */jam/* */ĵam/* e "ja" */ĵa/* */ja/*.
+naturalmente tu pote leger un texto in stilo _ancian_ in un pronunciation _collateral_, e un texto in stilo _moderne_ in un pronunciation _classic_. Dunque tu pote pronunciar "jam" */jam/* */ĵam/* e "ja" */ĵa/* */ja/*.
 
 … Lo sapeva tu "jam" */jam/* o "ja" */ĵa/*?
 
@@ -182,6 +182,24 @@ isto ~ esto
 
 <!--v-->
 
+## Vocabulario: numeralos con secunde thema TODO
+
+<!-- systemic: dece-cinque ~ naturalistic: quin-dece -->
+
+
+<!--v-->
+
+
+## Vocabulario: -que TODO
+
+<!-- 
+conservative ~ progressive
+ubique ~ ...
+ -->
+
+
+<!--v-->
+
 ## Conjugation: "es", "ha" e "va"
 
 In un lingua auxiliar como Interlingua le conjugation del verbos es regular e simple: le tempore presente consiste del parte ante le -r */er/* final del infinitivo.
@@ -314,7 +332,7 @@ Interlingua ha un subjunctivo, ma solmente pro le verbo "esser": "sia". Illo es 
 
 ## Conjugation: "vamos!"
 
-In le registro systemic de Interlingua, le verbo "esser" ha naturalisticmente solo un forma in le tempore presente: "es". Ma le IED (Interlingua-English Dictionary) ha formas collateral de "es": "so", "somos" e "son".
+In le registro systemic de Interlingua, le verbo "esser" ha naturalmente solo un forma in le tempore presente: "es". Ma le IED (Interlingua-English Dictionary) ha formas collateral de "es": "so", "somos" e "son".
 
 <!-- 
 (io, tu, ille) es
@@ -406,24 +424,6 @@ Adverbios in -"o" pote esser derivate ab adjectivos pro crear:
 Ora toto … claro o clarmente?
 
 <!-- melio pejo -->
-
-
-<!--v-->
-
-## Vocabulario: numeralos con secunde thema TODO
-
-<!-- systemic: dece-cinque ~ naturalistic: quin-dece -->
-
-
-<!--v-->
-
-
-## Vocabulario: -que TODO
-
-<!-- 
-conservative ~ progressive
-ubique ~ ...
- -->
 
 
 <!--s-->
