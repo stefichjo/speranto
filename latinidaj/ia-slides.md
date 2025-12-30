@@ -10,7 +10,7 @@ Interlingua ha duo stilos de pronunciation. "jam" es plus conservative e simile 
 
 Le cambiamento de "jam" */jam/* a "ja" */ĵa/* es regular. Ma sovente on debe apprender un altere parola como forma _collateral_. Pro exemplo, le parola "etiam" */eci-am/* ha le forma _collateral_ "anque" */aŋke/*, e non "etia" */esja/* o "etja" */eĉa/*.
 
-Naturalmente tu pote leger un texto in stilo _ancian_ in un pronunciation _collateral_, e un texto in stilo _moderne_ in un pronunciation _classic_. Dunque tu pote pronunciar "jam" */jam/* */ĵam/* e "ja" */ĵa/* */ja/*.
+naturalisticmente tu pote leger un texto in stilo _ancian_ in un pronunciation _collateral_, e un texto in stilo _moderne_ in un pronunciation _classic_. Dunque tu pote pronunciar "jam" */jam/* */ĵam/* e "ja" */ĵa/* */ja/*.
 
 … Lo sapeva tu "jam" */jam/* o "ja" */ĵa/*?
 
@@ -238,7 +238,7 @@ Le infinitivo "esser" ha le forma "essere" in le stilo conservative.
 
 <!-- esser ~ essere -->
 
-Ma in plus "esser" ha un altere forma collateral: "ser". Illo anque es progressive como "esser". Ma durante que "esser" es plus regular e simple, e dunque in un registro _systemic_, "ser" es plus simile a linguas romanic moderne e dunque in un registro _natural_.
+Ma in plus "esser" ha un altere forma collateral: "ser". Illo anque es progressive como "esser". Ma durante que "esser" es plus regular e simple, e dunque in un registro _systemic_, "ser" es plus simile a linguas romanic moderne e dunque in un registro _naturalistic_.
 
 <!-- 
 esser ~ essere
@@ -246,7 +246,7 @@ esser ~ essere
 ser
  -->
 
-E no, officialmente il non ha un forma _natural_ de "essere" simile al latino "esse". Ma al minus il ha le substantivo "interesse" que es derivate ab le verbo latino "interesse".
+E no, officialmente il non ha un forma _naturalistic_ de "essere" simile al latino "esse". Ma al minus il ha le substantivo "interesse" que es derivate ab le verbo latino "interesse".
 
 <!-- 
 esser ~ essere
@@ -277,7 +277,7 @@ vider → videra
 audir → audira
  -->
 
-In le registro natural de Interlingua, le formas "esseva" e "essera" deveni "era" e "sera". (Proque le infinitivo "esser" deveni "ser".)
+In le registro naturalistic de Interlingua, le formas "esseva" e "essera" deveni "era" e "sera". (Proque le infinitivo "esser" deveni "ser".)
 
 <!-- 
 esser → esseva ~ era
@@ -296,7 +296,7 @@ tu ha dormite = tu dormiva
 tu va dormir = tu dormira
  -->
 
-Ma in le registro natural, le tempores composite del passato e del futuro es vicin al presente, durante que le tempores simple es remote.
+Ma in le registro naturalistic, le tempores composite del passato e del futuro es vicin al presente, durante que le tempores simple es remote.
 
 <!-- 
 tu dormiva » tu ha dormite » tu dormi » tu va dormir » tu dormira
@@ -314,7 +314,7 @@ Interlingua ha un subjunctivo, ma solmente pro le verbo "esser": "sia". Illo es 
 
 ## Conjugation: "vamos!"
 
-In le registro systemic de Interlingua, le verbo "esser" ha naturalmente solo un forma in le tempore presente: "es". Ma le IED (Interlingua-English Dictionary) ha formas collateral de "es": "so", "somos" e "son".
+In le registro systemic de Interlingua, le verbo "esser" ha naturalisticmente solo un forma in le tempore presente: "es". Ma le IED (Interlingua-English Dictionary) ha formas collateral de "es": "so", "somos" e "son".
 
 <!-- 
 (io, tu, ille) es
@@ -323,14 +323,14 @@ In le registro systemic de Interlingua, le verbo "esser" ha naturalmente solo un
 (nos) somos
  -->
 
-Dunque il manca solo le formas del secunde persona: (tu) "eres" e (vos) "sois". In le registro natural nos pote imaginar le conjugation complete:
+Dunque il manca solo le formas del secunde persona: (tu) "eres" e (vos) "sois". In le registro naturalistic nos pote imaginar le conjugation complete:
 
 <!-- 
 (io) so, (tu) eres, (ille) es
 (nos) somos, (vos) sois, (illes) son
  -->
 
-Le dictionario mentiona anque formas collateral de "va": "vamos" e "van". Le conjugation complete in le registro natural esserea:
+Le dictionario mentiona anque formas collateral de "va": "vamos" e "van". Le conjugation complete in le registro naturalistic esserea:
 
 <!-- 
 (io) vo, (tu) vas, (ille) va
@@ -349,7 +349,7 @@ Pro finir, le conjugation del verbo irregular "haber" esserea:
 
 ## Conjugation: "vader" e "ir"
 
-In le registro natural, le infinitivo "vader" deveni "ir".
+In le registro naturalistic, le infinitivo "vader" deveni "ir".
 
 <!-- vader ~ ir -->
 
@@ -698,7 +698,7 @@ Nos pote considerar iste "h" */aŝa/* como conservator de gutturalessa in genera
 
 ## Declination: Articulos
 
-In le registro natural, un articulo cambia secundo su numero e genere.
+In le registro naturalistic, un articulo cambia secundo su numero e genere.
 
 <!-- le → lo(s), la(s) -->
 
@@ -723,7 +723,7 @@ In le registro systemic, un adjectivo cambia secundo su numero (e genere) solo q
 <!-- duo conilios mascule e duo conilios feminin → quatro conilios, duo mascules e duo feminines -->
 <!-- technic → technico/technica -->
 
-In le registro natural, iste cambiamento occure sempre.
+In le registro naturalistic, iste cambiamento occure sempre.
 
 <!-- duo conilios mascule e duo conilios feminin → duo conilios masculos e duo conilios femininas -->
 
@@ -758,7 +758,7 @@ Quasi le identic desinentias se utilisan pro le tempore passate. Ma le prime per
 (nos) creavamos, (vos) creavais, (illes) creavan
  -->
 
-In le registro natural, le tempore passate "vadeva" cambia, non a "iva" ma a "ía".
+In le registro naturalistic, le tempore passate "vadeva" cambia, non a "iva" ma a "ía".
 
 <!-- 
 (io) ía, (tu) ías, (ille) ía
@@ -798,7 +798,7 @@ Malgrado que "haber" es un verbo irregular, su formas del tempore presente (sin 
  -->
 
 
-In le registro natural, le formas del tempore passate de "ir" deveni le desinentias del conditional.
+In le registro naturalistic, le formas del tempore passate de "ir" deveni le desinentias del conditional.
 
 <!-- 
 (io) crearía, (tu) crearías, (ille) crearía
@@ -810,7 +810,7 @@ In le registro natural, le formas del tempore passate de "ir" deveni le desinent
 
 ## Conjugation: Subjunctivo (Conjunctivo del Presente)
 
-In le registro natural, le subjunctivo ha un radice verbal modificate. Un "e" o "i" final deveni "a": "vide" deveni "vida", e "audi" deveni "auda". Le prime persona singular es identic al tertie persona singular.
+In le registro naturalistic, le subjunctivo ha un radice verbal modificate. Un "e" o "i" final deveni "a": "vide" deveni "vida", e "audi" deveni "auda". Le prime persona singular es identic al tertie persona singular.
 
 <!-- 
 (io) vida, (tu) vidas, (ille) vida
@@ -848,7 +848,7 @@ Un "a" final deveni "e": "crea" deveni "cree".
 ## Conjugation: esser
 
 Stilo: _conservativissime_
-Registro: _natural_
+Registro: _naturalistic_
 
 <!-- 
 essem    esseam
@@ -864,7 +864,7 @@ Registro: _systemic_
 <!-- esse     essea(!) -->
 
 Stilo: _conservative_
-Registro: _natural_
+Registro: _naturalistic_
 
 <!-- 
 sum      sim
@@ -880,7 +880,7 @@ Registro: _systemic_
 <!-- es       sia(!) -->
 
 Stilo: _progressive_
-Registro: _natural_
+Registro: _naturalistic_
 
 <!-- 
 so       sia
@@ -898,7 +898,7 @@ Registro: _systemic_
 
 ## Conjugation: Subjunctivo del Passato
 
-In le registro natural, le subjunctivo del passato es formate con le desinentia -"sse". Le prime persona singular es identic al tertie persona singular.
+In le registro naturalistic, le subjunctivo del passato es formate con le desinentia -"sse". Le prime persona singular es identic al tertie persona singular.
 
 <!-- 
 (io) creasse, (tu) creasses, (ille) creasse
@@ -929,7 +929,7 @@ Multe verbos con un participio passate contracte pote haber un radice modificate
 
 ## Conjugation: Perfecto
 
-In le registro natural, le perfecto del presente ha le desinentias -"i", -"ste", -"u", -"mos", -"stes", -"ron".
+In le registro naturalistic, le perfecto del presente ha le desinentias -"i", -"ste", -"u", -"mos", -"stes", -"ron".
 
 <!-- 
 (io) creai, (tu) creaste, (ille) creau
@@ -1152,9 +1152,9 @@ plure ~ plur
 
 Le disparer de un "e" final post un "c" */se/* gutural es typic pro francese e dunque anglese. Nos pote considerar lo como un 
 
-In le stilo progressivissime, vocales final dispare, como in "lor", que es "loro" in stilo progressive. Ma anque post un gutural "c" */se/*, un "e" final dispare: "practiche" deveni "practic". Ma le vocal final reappare in combination con le suffixo -"mente", ma in loco de "practichemente" nos vide "practicamente" de registro natural in Interlingua.
+In le stilo progressivissime, vocales final dispare, como in "lor", que es "loro" in stilo progressive. Ma anque post un gutural "c" */se/*, un "e" final dispare: "practiche" deveni "practic". Ma le vocal final reappare in combination con le suffixo -"mente", ma in loco de "practichemente" nos vide "practicamente" de registro naturalistic in Interlingua.
 
-Un stilo progressive in registro systemic esserea dunque simplemente: "practiche" e "practichemente", durante le formas natural esserea "practico" (o "practica") e "practicamente".
+Un stilo progressive in registro systemic esserea dunque simplemente: "practiche" e "practichemente", durante le formas naturalistic esserea "practico" (o "practica") e "practicamente".
 
 <!--v-->
 
@@ -1218,7 +1218,7 @@ Il es notabile que in espaniol e portugese, on non distingue inter "de ille" e "
 
 ## Phonologia: Accento
 
-<!-- natural -->
+<!-- naturalistic -->
 <!-- divide e impera = dívide e ímpera = divĭde e impĕra (proque "id" e "er" pare syllabas non-accentuate) -->
 <!-- prédica -->
 
@@ -1347,18 +1347,22 @@ pluvia ~ *plugia
 vice ~ vece (~ veç = vez */s/*)
 
 
+<!-- systemic ~ naturalistic -->
 
-<!-- systemic ~ natural (hypothese) ~ progressivissime -->
+dece-cinque
+quin-dece
+
+<!-- systemic ~ naturalistic (hypothese) ~ progressivissime -->
 
 magistro maestro
 (maistro)
 
-<!-- systemic (hypothese) ~ natural (hypothese) ~ progressivissime -->
+<!-- systemic (hypothese) ~ naturalistic (hypothese) ~ progressivissime -->
 
 (pagense) pais
 (paese)
 
-<!-- systemic (hypothese) ~ natural ~ progressivissime (hypothese) -->
+<!-- systemic (hypothese) ~ naturalistic ~ progressivissime (hypothese) -->
 
 (tragino) (treno)
 traino
@@ -1367,7 +1371,7 @@ traino
 
 ma sin suffixos:
 
-<!-- systemic ~ natural (hypothese) -->
+<!-- systemic ~ naturalistic (hypothese) -->
 
 tempore
 (tempo)
@@ -1390,7 +1394,7 @@ manducar ~ mangiar
 
 
 systemic: dece-quatro (dece-quattro)
-natural: quattuor-dece
+naturalistic: quattuor-dece
 
 dece-tres
 tre-dece
@@ -1401,7 +1405,7 @@ quin-dece
 dece-sex
 se-dece
 
-numeralos de secunde thema (i.e. natural)
+numeralos de secunde thema (i.e. naturalistic)
 
 un = un
 duo = duo
@@ -1419,7 +1423,7 @@ quar ⇒ quar-dece
 
 
 
-prehendere ~ prehender ~ prender (progressive natural!!!)
+prehendere ~ prehender ~ prender (progressive naturalistic!!!)
 
 
 
