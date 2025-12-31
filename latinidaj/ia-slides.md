@@ -190,6 +190,17 @@ isto ~ esto
 <!--v-->
 
 
+## Vocabulario: substantivos con secunde thema TODO
+
+<!-- systemic: tempore ~ naturalistic: tempo -->
+
+mense ~ mese
+corde ~ cor
+latere ~ lato
+
+<!--v-->
+
+
 ## Vocabulario: -que TODO
 
 <!-- 
@@ -1379,54 +1390,10 @@ traino
 ma sin suffixos:
 
 <!-- systemic ~ naturalistic (hypothese) -->
-
-tempore
-(tempo)
-
-mense
-(mese)
-
-corde
-(cor)
-
-latere
-(lato)
-
-
 <!-- alique diverse -->
 
 manducar ~ mangiar
 
-
-
-
-systemic: dece-quatro (dece-quattro)
-naturalistic: quattuor-dece
-
-dece-tres
-tre-dece
-
-dece-cinque
-quin-dece
-
-dece-sex
-se-dece
-
-numeralos de secunde thema (i.e. naturalistic)
-
-un = un
-duo = duo
-tres (dece-tres) → tre (tre-dece)
-quat(t)ro (dece-quat(t)ro) → quattuor (quattuor-dece)
-cinque → quin (quin-dece)
-sex → se (se-dece)
-
-<!-- 
-Korrektur ?
-du ⇒ du-dece
-tri ⇒ tri-dece
-quar ⇒ quar-dece
- -->
 
 
 
