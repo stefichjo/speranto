@@ -194,9 +194,32 @@ isto ~ esto
 
 <!-- systemic: tempore ~ naturalistic: tempo -->
 
+<!-- 
 mense ~ mese
 corde ~ cor
 latere ~ lato
+ -->
+
+<!-- 
+magistro ~ (maistro) ~ maestro
+(pagense) ~ (paese) ~ pais
+(tragino) ~ traino ~ (treno)
+ -->
+
+
+<!--v-->
+
+## Vocabulario: participios con secunde thema TODO
+
+le typo “regular”, scribitura, corrumpitive, incidition, etc., non
+necessarimente debe esser considerate “erronee” sed pote esser usate quandocunque il pare stilisticamente possibile o preferibile.
+
+<!-- 
+prendere:
+prense ~ prise
+ -->
+<!-- "BONUS" prehendere ~ prender (prehender) -->
+
 
 <!--v-->
 
@@ -1365,49 +1388,8 @@ pluvia ~ *plugia
 vice ~ vece (~ veç = vez */s/*)
 
 
-<!-- systemic ~ naturalistic -->
-
-dece-cinque
-quin-dece
-
-<!-- systemic ~ naturalistic (hypothese) ~ progressivissime -->
-
-magistro maestro
-(maistro)
-
-<!-- systemic (hypothese) ~ naturalistic (hypothese) ~ progressivissime -->
-
-(pagense) pais
-(paese)
-
-<!-- systemic (hypothese) ~ naturalistic ~ progressivissime (hypothese) -->
-
-(tragino) (treno)
-traino
-
-
-
 ma sin suffixos:
 
-<!-- systemic ~ naturalistic (hypothese) -->
-<!-- alique diverse -->
-
 manducar ~ mangiar
-
-
-
-
-prehendere ~ prehender ~ prender (progressive naturalistic!!!)
-
-
-
-<!--v-->
-
-## Phonologia: "g" (traino) TODO move to avantiate
-
-<!-- 
-conservative ~ progressive
-tragino ~ traino
- -->
 
 hora ora
