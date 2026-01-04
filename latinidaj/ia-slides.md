@@ -182,13 +182,47 @@ isto ~ esto
 
 <!--v-->
 
-## Vocabulario: numeralos con secunde thema TODO
+## Vocabulario: numeralos con secunde thema: 15 TODO
 
 <!-- systemic: dece-cinque ~ naturalistic: quin-dece -->
 
 
 <!--v-->
 
+## Vocabulario: participios con secunde thema: "confundite" o "confuse"
+
+Multe infinitivos in "-er" del stilo progressive termina in un "-ere" non-accentuate in le stilo conservative. Pro exemplo, le infinitivo *progressive* "confunder" corresponde al infinitivo *conservative* "confundere".
+
+<!-- confundere ~ confunder -->
+
+In general, le participio passate de tal verbos se contrahe quando illos deveni adjectivos. Pro exemplo, le participio passate "confundite" se contrahe al adjectivo "confuse". Tal adjectivo es le base de derivationes como, pro exemplo, "confusion".
+
+<!-- confundite ~ confuse -->
+
+In un registro plus systemic, iste contraction non uccure. Dunque "confusion" es "confundition".
+
+<!-- confundite ← confuse -->
+
+In un registro plus naturalistic, in vice, iste contraction uccure sempre. Dunque "confundite" diveni "confuse", sempre.
+
+<!-- confundite → confuse -->
+
+… Se isto te ha confundite, tu ora es confuse.
+
+
+
+
+<!-- 
+prendere:
+prense ~ prise
+ -->
+
+<!-- "BONUS" prehendere ~ prender (prehender) -->
+
+
+
+
+<!--v-->
 
 ## Vocabulario: substantivos con secunde thema TODO
 
@@ -208,21 +242,6 @@ magistro ~ (maistro) ~ maestro
 
 
 <!--v-->
-
-## Vocabulario: participios con secunde thema TODO
-
-le typo “regular”, scribitura, corrumpitive, incidition, etc., non
-necessarimente debe esser considerate “erronee” sed pote esser usate quandocunque il pare stilisticamente possibile o preferibile.
-
-<!-- 
-prendere:
-prense ~ prise
- -->
-<!-- "BONUS" prehendere ~ prender (prehender) -->
-
-
-<!--v-->
-
 
 ## Vocabulario: -que TODO
 
@@ -255,31 +274,6 @@ vader → vade ❌ → va ✅
 Anque se le formas "esse", "habe" e "vade" non es formas official, le IED */i-e-de/* (Interlingua-English Dictionary) contine le forma "habe" */habe/* al minus in phrases exemplar como "esque ille habe le libro". Pro simplificar nos pote considerar "esse", "habe" e "vade" como formas _conservative_.
 
 Ora tu sape … como vade le cosas, o como va le cosas.
-
-
-<!--v-->
-
-## Conjugation: "confundite" o "confuse"
-
-Multe participios passate se contrahe quando illos deveni adjectivos. Pro exemplo, le participio passate "confundite" de "confundere" se contrahe al adjectivo "confuse".
-
-<!-- 
-confundite ← confunder ~ confuse
- -->
-
-In le stilo conservative, le adjectivo contracte se usa anque como participio passate: "confundite" deveni "confuse". In plus, le infinitivo de tal verbos termina in -"ere" que non es accentuate: "confunder" deveni "confundere".
-
-<!-- 
-confundite ← confunder ~ confuse ← confundere
- -->
-
-Le participio passate contracte es le base de multe altere parolas, anque in stilo progressive, pro exemplo: "confusion". Dunque, anque se on non les usa directemente in le stilo progressive, on les usa indirectemente in multe derivationes.
-
-<!-- 
-confuse → confusion
- -->
-
-Ora … Es tu confuse o confundite?
 
 
 <!--v-->
@@ -1393,3 +1387,8 @@ ma sin suffixos:
 manducar ~ mangiar
 
 hora ora
+
+FYI: blanchir
+
+cominitiar ~ comintiar ~ (comenciar) ~ començar
+
