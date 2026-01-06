@@ -60,7 +60,7 @@ gente
 justo
  -->
 
-Ora nos pote pronunciar "gente" */gente/* e "justo" */justo/* in le stilo _conservative_, e "gente" */ĵente/* e "justo" */ĵusto/* in le stilo _progressive_.
+Ora se pote pronunciar "gente" */gente/* e "justo" */justo/* in le stilo _conservative_, e "gente" */ĵente/* e "justo" */ĵusto/* in le stilo _progressive_.
 
 
 <!--v-->
@@ -89,7 +89,7 @@ Anque correlativos in -"unque" */kŭe/* mantene lor */ŭ/*, pro exemplo in "como
 
 <!-- -que */kŭe/*: ubique -->
 
-Nota que le parola "dunque" */duŋkĕ/* non es un correlativo. Su pronunciation es */duŋkŭe/*.
+Nota que le parola "dunque" */duŋkĕ/* non es un correlativo. Su pronunciation es */duŋke/*.
 
 
 <!--v-->
@@ -182,16 +182,17 @@ isto ~ esto
 
 <!--v-->
 
-## Vocabulario: numeralos con secunde thema: 15 TODO
+## Vocabulario: numeralos con secunde thema: 15
 
-<!-- systemic: dece-cinque ~ naturalistic: quin-dece -->
+Como on lege iste numeral: "dece-cinque" o "quin-dece"? Ambes es possibile. Ma "dece-cinque" es un forma *systematic*, regular e simple, durante que "quin-dece" es un forma *naturalistic*, simile a latino e a linguas romanic moderne. Dunque "cinque" deveni "quin" in "quin-dece". Ora tu sape …
 
+<!-- systematic: dece-cinque ~ naturalistic: quin-dece -->
 
 <!--v-->
 
 ## Vocabulario: participios con secunde thema: "confundite" o "confuse"
 
-Multe infinitivos in "-er" del stilo progressive termina in un "-ere" non-accentuate in le stilo conservative. Pro exemplo, le infinitivo *progressive* "confunder" corresponde al infinitivo *conservative* "confundere".
+Multe infinitivos in "-er" del stilo *progressive* termina in un "-ere" non-accentuate in le stilo *conservative*. Pro exemplo, le infinitivo *progressive* "confunder" corresponde al infinitivo *conservative* "confundere".
 
 <!-- confundere ~ confunder -->
 
@@ -199,7 +200,7 @@ In general, le participio passate de tal verbos se contrahe quando illos deveni 
 
 <!-- confundite ~ confuse -->
 
-In un registro plus systemic, iste contraction non uccure. Dunque "confusion" es "confundition".
+In un registro plus systematic, iste contraction non uccure. Dunque "confusion" es "confundition".
 
 <!-- confundite ← confuse -->
 
@@ -217,7 +218,7 @@ prendere:
 prense ~ prise
  -->
 
-<!-- "BONUS" prehendere ~ prender (prehender) -->
+<!-- TODO "BONUS" prehendere ~ prender (prehender) -->
 
 
 
@@ -226,7 +227,7 @@ prense ~ prise
 
 ## Vocabulario: substantivos con secunde thema TODO
 
-<!-- systemic: tempore ~ naturalistic: tempo -->
+<!-- systematic: tempore ~ naturalistic: tempo -->
 
 <!-- 
 mense ~ mese
@@ -284,7 +285,7 @@ Le infinitivo "esser" ha le forma "essere" in le stilo conservative.
 
 <!-- esser ~ essere -->
 
-Ma in plus "esser" ha un altere forma collateral: "ser". Illo anque es progressive como "esser". Ma durante que "esser" es plus regular e simple, e dunque in un registro _systemic_, "ser" es plus simile a linguas romanic moderne e dunque in un registro _naturalistic_.
+Ma in plus "esser" ha un altere forma collateral: "ser". Illo anque es progressive como "esser". Ma durante que "esser" es plus regular e simple, e dunque in un registro _systematic_, "ser" es plus simile a linguas romanic moderne e dunque in un registro _naturalistic_.
 
 <!-- 
 esser ~ essere
@@ -335,14 +336,14 @@ esser (~ ser) → essera ~ sera
 
 ## Conjugation: Tempores Proxime e Remote
 
-In le registro systemic de Interlingua, il non ha differentia inter un tempore remote e un tempore proxime. Dunque "tu ha dormite" ha le mesme significato como "tu dormiva", e "tu va dormir" ha le mesme significato como "tu dormira".
+In le registro systematic de Interlingua, il non ha differentia inter un tempore remote e un tempore proxime. Dunque "tu ha dormite" ha le mesme significato como "tu dormiva", e "tu va dormir" ha le mesme significato como "tu dormira".
 
 <!-- 
 tu ha dormite = tu dormiva
 tu va dormir = tu dormira
  -->
 
-Ma in le registro naturalistic, le tempores composite del passato e del futuro es vicin al presente, durante que le tempores simple es remote.
+Ma in le registro naturalistic, nos pote considerar le tempores composite del passato e del futuro plus vicin, durante que le tempores simple remane plus remote.
 
 <!-- 
 tu dormiva » tu ha dormite » tu dormi » tu va dormir » tu dormira
@@ -360,7 +361,7 @@ Interlingua ha un subjunctivo, ma solmente pro le verbo "esser": "sia". Illo es 
 
 ## Conjugation: "vamos!"
 
-In le registro systemic de Interlingua, le verbo "esser" ha naturalmente solo un forma in le tempore presente: "es". Ma le IED (Interlingua-English Dictionary) ha formas collateral de "es": "so", "somos" e "son".
+In le registro systematic de Interlingua, le verbo "esser" ha naturalmente solo un forma in le tempore presente: "es". Ma le IED (Interlingua-English Dictionary) ha formas collateral de "es": "so", "somos" e "son".
 
 <!-- 
 (io, tu, ille) es
@@ -400,7 +401,7 @@ In le registro naturalistic, le infinitivo "vader" deveni "ir".
 <!-- vader ~ ir -->
 
 
-Dunque, anque le tempore futur "vadera" cambia. Ille deveni "ira".
+Dunque, anque le tempore futur "vadera" cambia. Illo deveni "ira".
 
 <!-- vadera ~ ira -->
 
@@ -669,7 +670,7 @@ vider ~ videre
 audir ~ audire
  -->
 
-E que nos non oblida infinitivos _collateral_ in -"ere" non accentuate, como "capere", que corrisponde a un forma _standard_ "caper".
+E que nos non oblida infinitivos _collateral_ in -"ere" non accentuate, como "capere", que corresponde a un forma _standard_ "caper".
 
 <!-- caper ~ capere -->
 
@@ -753,7 +754,7 @@ In combination con un articulo, le preposition "in" deveni "ne"-.
 
 ## Declination: Adjectivos
 
-In le registro systemic, un adjectivo cambia secundo su numero (e genere) solo quando illo es usate como substantivo.
+In le registro systematic, un adjectivo cambia secundo su numero (e genere) solo quando illo es usate como substantivo.
 
 <!-- duo conilios mascule e duo conilios feminin → quatro conilios, duo mascules e duo feminines -->
 <!-- technic → technico/technica -->
@@ -894,7 +895,7 @@ essetis  esseatis  essete!
 essent   esseant
  -->
 
-Registro: _systemic_
+Registro: _systematic_
 
 <!-- esse     essea(!) -->
 
@@ -910,7 +911,7 @@ estis    sitis     este!
 sunt     sint
  -->
 
-Registro: _systemic_
+Registro: _systematic_
 
 <!-- es       sia(!) -->
 
@@ -926,7 +927,7 @@ sois     siais     sete!
 son      sian
  -->
 
-Registro: _systemic_
+Registro: _systematic_
 
 <!-- es       sia(!) -->
 
@@ -1189,7 +1190,7 @@ Le disparer de un "e" final post un "c" */se/* gutural es typic pro francese e d
 
 In le stilo progressivissime, vocales final dispare, como in "lor", que es "loro" in stilo progressive. Ma anque post un gutural "c" */se/*, un "e" final dispare: "practiche" deveni "practic". Ma le vocal final reappare in combination con le suffixo -"mente", ma in loco de "practichemente" nos vide "practicamente" de registro naturalistic in Interlingua.
 
-Un stilo progressive in registro systemic esserea dunque simplemente: "practiche" e "practichemente", durante le formas naturalistic esserea "practico" (o "practica") e "practicamente".
+Un stilo progressive in registro systematic esserea dunque simplemente: "practiche" e "practichemente", durante le formas naturalistic esserea "practico" (o "practica") e "practicamente".
 
 <!--v-->
 
@@ -1211,7 +1212,7 @@ Le forma "lor" pare un forma _progressivissime_ (rapide), in le qual le desinent
 
 <!-- FR leur -->
 
-Il es notabile que in espaniol e portugese, on non distingue inter "de ille" e "de illes". Dunque nos pote supponer "su" como registro _systemic_.
+Il es notabile que in espaniol e portugese, on non distingue inter "de ille" e "de illes". Dunque nos pote supponer "su" como registro _systematic_.
 
 <!-- ES su/sua -->
 <!-- PT seu/sua -->
