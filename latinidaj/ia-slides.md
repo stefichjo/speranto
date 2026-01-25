@@ -654,7 +654,7 @@ since: *adv* depost, depois `→ pois`
 
 ## Phonologia: -le, -ne, -re
 
-In le stilo _progressive_, un "e" final dispare post "l", "n" o "r" de un syllaba final accentuate. Pro isto, Interlingua _standard_ non ha "sole", "pane" e "mare", ma "sol", "pan" e "mar". Nos pote considerar le variantes con un "e" final como stilo _conservative_.
+In le stilo _progressive_, un "e" final dispare depos `post` "l", "n" o "r" de un syllaba final accentuate. Pro isto, Interlingua _standard_ non ha "sole", "pane" e "mare", ma "sol", "pan" e "mar". Nos pote considerar le variantes con un "e" final como stilo _conservative_.
 
 <!-- 
 sol ~ sole
