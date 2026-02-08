@@ -2199,6 +2199,9 @@ Notes:
 | aman   | viden   | sent**e**n |
 | | | |
 
+Notes:
+* Ne-akcentata "i" fariĝas "e". Tial "capĭre" fariĝas "capĕre".
+
 <!--v-->
 
 | | | |

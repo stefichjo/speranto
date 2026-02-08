@@ -841,6 +841,7 @@ In le registro naturalistic, le formas del tempore passate de "ir" deveni le des
 (nos) crearíamos, (vos) crearíais, (illes) crearían
  -->
 
+`-ea ← habea`
 
 <!--v-->
 
