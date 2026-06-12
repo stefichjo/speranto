@@ -32,3 +32,17 @@ eː → eː/ɛː
 | -en | n̩ |
 
 Hinweis: Das kleine vertikale Strichzeichen unterhalb (◌̩) ist das IPA-Syllabic-Diacritic und markiert einen konsonantischen Auslaut als silbisch (z. B. r̩, l̩, n̩).
+
+## Rhotizität
+
+Wenn ein <code>r</code> nicht vor einem Vokal steht, wird es im hier verwendeten System zu ɐ̮ (das Vokalzeichen ɐ mit einem Breve darunter — IPA combining breve below, U+032E).
+
+Ausnahmen:
+- Hochdeutsch: Hyperkorrekterweise bleibt das <code>r</code> nach kurzem Vokal erhalten.
+- Bühnendeutsch: Das gerollte <code>r</code> bleibt immer erhalten.
+
+Vokalverhalten ("smoothing"):
+- Lange Vokale vor <code>r</code> werden gekürzt.
+- Kurze Vokale werden vor <code>r</code> gedehnt (gelängt), außer wenn der Vokal ɛ vorausgeht.
+
+Hinweis: Das verwendete Zeichen ɐ̮ kombiniert das Zentralvokalzeichen ɐ mit dem diakritischen Breve unterhalb, um die rhotisierte Realisierung zu markieren.
