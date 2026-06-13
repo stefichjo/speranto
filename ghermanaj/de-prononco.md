@@ -29,16 +29,16 @@ Vokalverhalten ("clipping" und "smoothing"):
 - Lange Vokale vor ɐ̯ werden gekürzt.
 - Kurze Vokale werden vor ɐ̯ gedehnt (gelängt; das ɐ̯ fällt aus), außer wenn der Vokal ɛ vorausgeht.
 
-| longa + r | mallonga + r |
+| longa + ɐ̯ | mallonga + ɐ̯ |
 | - | - |
-| äːr → äɐ̯ | är → äː |
-| eːr → eɐ̯ | er → eː |
-| iːr → iɐ̯ | ir → iː |
-| oːr → oɐ̯ | or → oː |
-| øːr → øɐ̯ | ør → øː |
-| uːr → uɐ̯ | ur → uː |
-| yːr → yɐ̯ | yr → yː |
-| ɛr → ɛɐ̯ | ɛr → (keine Dehnung) |
+| äːɐ̯ → äɐ̯ | aɐ̯ → aː |
+| eːɐ̯ → eɐ̯ | ɛɐ̯ → ɛː |
+| iːɐ̯ → iɐ̯ | ɪɐ̯ → ɪː |
+| oːɐ̯ → oɐ̯ | ɔɐ̯ → ɔː |
+| øːɐ̯ → øɐ̯ | œɐ̯ → œː |
+| uːɐ̯ → uɐ̯ | ʊɐ̯ → ʊː |
+| yːɐ̯ → yɐ̯ | ʏɐ̯ → ʏː |
+| ɛɐ̯ → ɛɐ̯ | ɛɐ̯ → (keine Dehnung) |
 
 ### Rhotizität (Fortsetzung)
 
