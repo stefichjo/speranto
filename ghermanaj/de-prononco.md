@@ -49,8 +49,9 @@ In der Umgangssprache werden die langen mittleren Vokale eː, øː, oː vor ɐ̯
 
 ## Hyperkorrektur
 
-- Hochdeutsch: Hyperkorrekterweise bleibt das <code>r</code> nach kurzem Vokal erhalten.
+- Hochdeutsch: Hyperkorrekterweise bleibt das <code>r</code> nach kurzem (betontem) Vokal erhalten.
 - Bühnendeutsch: Das gerollte <code>r</code> bleibt immer erhalten.
 - ä/ɐ → a `IPA-Vereinfachung`
 - eː → eː/ɛː
 - Bühnendeutsch: silbisches l, n, r wird mit Schwa, also als Konsonant gesprochen: əl, ən, ər
+- Hochdeutsch: Das "er" in den unbetonten Vorsilben er-, ver-, zer- wird als Diphthong gesprochen: ɛɐ̯, fɛɐ̯, tsɛɐ̯.
