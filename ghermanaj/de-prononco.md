@@ -39,7 +39,7 @@ Vokalverhalten ("clipping" und "smoothing"):
 | uːɐ̯ → uɐ̯ | ʊɐ̯ → ʊː |
 | yːɐ̯ → yɐ̯ | ʏɐ̯ → ʏː |
 
-## Hochdeutsch
+## Hyperkorrektur
 
 - Hyperkorrekterweise bleibt das <code>r</code> nach kurzem Vokal erhalten.
 - Bühnendeutsch: Das gerollte <code>r</code> bleibt immer erhalten.
