@@ -33,7 +33,7 @@ eː → eː/ɛː
 
 ## Rhotizität
 
-Wenn ein <code>r</code> nicht vor einem Vokal steht, wird es im hier verwendeten System zu ɐ̯.
+Wenn ein <code>r</code> nicht vor einem Vokal steht, wird es zu ɐ̯.
 
 Ausnahmen:
 - Hochdeutsch: Hyperkorrekterweise bleibt das <code>r</code> nach kurzem Vokal erhalten.
@@ -41,6 +41,4 @@ Ausnahmen:
 
 Vokalverhalten ("clipping" und "smoothing"):
 - Lange Vokale vor ɐ̯ werden gekürzt.
-- Kurze Vokale werden vor ɐ̯ gedehnt (gelängt), außer wenn der Vokal ɛ vorausgeht.
-
-Hinweis: Das verwendete Zeichen ɐ̮ kombiniert das Zentralvokalzeichen ɐ mit dem diakritischen Breve unterhalb, um die rhotisierte Realisierung zu markieren.
+- Kurze Vokale werden vor ɐ̯ gedehnt (gelängt; das ɐ̯ fällt aus), außer wenn der Vokal ɛ vorausgeht.
