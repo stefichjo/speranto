@@ -29,9 +29,9 @@ Vokalverhalten ("clipping" und "smoothing"):
 - Lange Vokale vor ɐ̯ werden gekürzt.
 - Kurze Vokale werden vor ɐ̯ gedehnt (gelängt; das ɐ̯ fällt aus), außer wenn der Vokal ɛ vorausgeht.
 
-| longa + ɐ̯ | mallonga + ɐ̯ |
+| longa + r | mallonga + r |
 | - | - |
-| äːɐ̯ → äɐ̯ | aɐ̯ → aː |
+| äːɐ̯ → äɐ̯ | ɐɐ̯ → ɐː |
 | eːɐ̯ → eɐ̯ | ɛɐ̯      |
 | iːɐ̯ → iɐ̯ | ɪɐ̯ → ɪː |
 | oːɐ̯ → oɐ̯ | ɔɐ̯ → ɔː |
