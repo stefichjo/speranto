@@ -32,17 +32,42 @@ Vokalverhalten ("clipping" und "smoothing"):
 | longa + r | mallonga + r |
 | - | - |
 | äːr → äɐ̯ | ɐr → ɐː |
+| eːr → eɐ̯ | er → eːr |
+| iːr → iɐ̯ | ir → iːr |
+| oːr → oɐ̯ | or → oːr |
+| øːr → øɐ̯ | ør → øːr |
+| uːr → uɐ̯ | ur → uːr |
+| yːr → yɐ̯ | yr → yːr |
+| ɛr → ɛɐ̯ | (keine Dehnung) |
 
-## Hochdeutsch
+### Rhotizität (Fortsetzung)
 
-ä/ɐ → a
+In der Umgangssprache wird ein kurzer Vokal vor `r` gelängt.
 
-In der IPA für Hochdeutsch werden diese Vokalqualitäten nicht unterschieden, aber es ist didaktisch sinnvoll, sie sich vor Augen zu halten.
+| Hochdeutsch | Umgangssprache | |
+|-|-|-|
+| `ˈvaɐ̯tn̩` | `ˈva:tn̩` | *warten* |
 
-eː → eː/ɛː
+Nachdem lange Vokale vor `r` im Hochdeutschen gekürzt werden, werden `eɐ̯`, `øɐ̯` und `oɐ̯` in der Umgangssprache zu `ɛa̯`, `œa̯` und `ɔa̯` geöffnet.
 
-„ɛː" gibt es nur im Hochdeutschen.
+| Hochdeutsch | Umgangssprache | |
+|-|-|-|
+| `veɐ̯`     | `vɛa̯`     | *wer* |
+| `vɛɐ̯`     | `vɛa̯`     | *wär'* |
+| `ˈrøɐ̯çən` | `ˈrœa̯çən` | *Röhrchen* |
+| `roɐ̯`     | `rɔa̯`     | *Rohr* |
 
-Ausnahmen:
-- Hochdeutsch: Hyperkorrekterweise bleibt das <code>r</code> nach kurzem Vokal erhalten.
-- Bühnendeutsch: Das gerollte <code>r</code> bleibt immer erhalten.
+In der Umgangssprache verhält sich kurzes `är/er` wie langes `är/er`.
+
+| Hochdeutsch | Umgangssprache | |
+|-|-|-|
+| `ˈveɐ̯ta` | `ˈvɛa̯ta` | *werter* |
+| `ˈvɛɐ̯ta` | `ˈvɛa̯ta` | *Wärter* |
+
+Die Vorsilben `er-`, `ver-` und `zer-` werden in der Umgangssprache wie die Nachsilbe `-er` mit `a` ausgesprochen.
+
+| Hochdeutsch | Umgangssprache | |
+|-|-|-|
+| `ɛɐ̯`   | `a`   | *er-* |
+| `fɛɐ̯`  | `fa`  | *ver-* |
+| `tsɛɐ̯` | `tsa` | *zer-* |
