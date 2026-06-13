@@ -39,7 +39,9 @@ Vokalverhalten ("clipping" und "smoothing"):
 | uːɐ̯ → uɐ̯ | ʊɐ̯ → ʊː |
 | yːɐ̯ → yɐ̯ | ʏɐ̯ → ʏː |
 
-| lang + r |
+In der Umgangssprache werden die langen mittleren Vokale eː, øː, oː vor ɐ̯ zu ɛ, œ, ɔ geöffnet.
+
+| longa + ɐ̯ |
 | - |
 | eːɐ̯ → ɛɐ̯ |
 | øːɐ̯ → œɐ̯ |
