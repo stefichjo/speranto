@@ -31,11 +31,16 @@ Vokalverhalten ("clipping" und "smoothing"):
 
 | longa + ɐ̯ | mallonga + ɐ̯ |
 | - | - |
-| äːɐ̯ → äɐ̯ | ɐɐ̯ → ɐː |
-| eːɐ̯ → eɐ̯ | ɛɐ̯      |
+| äːɐ̯ → äɐ̯ | aɐ̯ → aː |
+| eːɐ̯ → eɐ̯ | ɛɐ̯ → ɛː |
 | iːɐ̯ → iɐ̯ | ɪɐ̯ → ɪː |
 | oːɐ̯ → oɐ̯ | ɔɐ̯ → ɔː |
 | øːɐ̯ → øɐ̯ | œɐ̯ → œː |
 | uːɐ̯ → uɐ̯ | ʊɐ̯ → ʊː |
 | yːɐ̯ → yɐ̯ | ʏɐ̯ → ʏː |
+| ɛɐ̯ → ɛɐ̯ | ɛɐ̯ → (keine Dehnung) |
 
+## Ausnahmen
+
+- Hochdeutsch: Hyperkorrekterweise bleibt das <code>r</code> nach kurzem Vokal erhalten.
+- Bühnendeutsch: Das gerollte <code>r</code> bleibt immer erhalten.
