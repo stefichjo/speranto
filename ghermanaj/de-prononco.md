@@ -39,6 +39,12 @@ Vokalverhalten ("clipping" und "smoothing"):
 | uːɐ̯ → uɐ̯ | ʊɐ̯ → ʊː |
 | yːɐ̯ → yɐ̯ | ʏɐ̯ → ʏː |
 
+| longa + ɐ̯ |
+| - |
+| eːɐ̯ → ɛɐ̯ |
+| øːɐ̯ → œɐ̯ |
+| oːɐ̯ → ɔɐ̯ |
+
 ## Hyperkorrektur
 
 - Hochdeutsch: Hyperkorrekterweise bleibt das <code>r</code> nach kurzem Vokal erhalten.
