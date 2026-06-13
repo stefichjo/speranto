@@ -41,8 +41,8 @@ Vokalverhalten ("clipping" und "smoothing"):
 
 ## Hyperkorrektur
 
-- Hyperkorrekterweise bleibt das <code>r</code> nach kurzem Vokal erhalten.
+- Hochdeutsch: Hyperkorrekterweise bleibt das <code>r</code> nach kurzem Vokal erhalten.
 - Bühnendeutsch: Das gerollte <code>r</code> bleibt immer erhalten.
-- ä/ɐ → a
+- ä/ɐ → a `IPA-Vereinfachung`
 - eː → eː/ɛː
 
