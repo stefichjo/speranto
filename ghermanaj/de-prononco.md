@@ -31,43 +31,11 @@ Vokalverhalten ("clipping" und "smoothing"):
 
 | longa + ɐ̯ | mallonga + ɐ̯ |
 | - | - |
-| äːɐ̯ → äɐ̯ | aɐ̯ → aː |
-| eːɐ̯ → eɐ̯ | ɛɐ̯ → ɛː |
+| äːɐ̯ → äɐ̯ | ɐɐ̯ → ɐː |
+| eːɐ̯ → eɐ̯ | ɛɐ̯      |
 | iːɐ̯ → iɐ̯ | ɪɐ̯ → ɪː |
 | oːɐ̯ → oɐ̯ | ɔɐ̯ → ɔː |
 | øːɐ̯ → øɐ̯ | œɐ̯ → œː |
 | uːɐ̯ → uɐ̯ | ʊɐ̯ → ʊː |
 | yːɐ̯ → yɐ̯ | ʏɐ̯ → ʏː |
-| ɛɐ̯ → ɛɐ̯ | ɛɐ̯ → (keine Dehnung) |
 
-### Rhotizität (Fortsetzung)
-
-In der Umgangssprache wird ein kurzer Vokal vor `r` gelängt.
-
-| Hochdeutsch | Umgangssprache | |
-|-|-|-|
-| `ˈvaɐ̯tn̩` | `ˈva:tn̩` | *warten* |
-
-Nachdem lange Vokale vor `r` im Hochdeutschen gekürzt werden, werden `eɐ̯`, `øɐ̯` und `oɐ̯` in der Umgangssprache zu `ɛa̯`, `œa̯` und `ɔa̯` geöffnet.
-
-| Hochdeutsch | Umgangssprache | |
-|-|-|-|
-| `veɐ̯`     | `vɛa̯`     | *wer* |
-| `vɛɐ̯`     | `vɛa̯`     | *wär'* |
-| `ˈrøɐ̯çən` | `ˈrœa̯çən` | *Röhrchen* |
-| `roɐ̯`     | `rɔa̯`     | *Rohr* |
-
-In der Umgangssprache verhält sich kurzes `är/er` wie langes `är/er`.
-
-| Hochdeutsch | Umgangssprache | |
-|-|-|-|
-| `ˈveɐ̯ta` | `ˈvɛa̯ta` | *werter* |
-| `ˈvɛɐ̯ta` | `ˈvɛa̯ta` | *Wärter* |
-
-Die Vorsilben `er-`, `ver-` und `zer-` werden in der Umgangssprache wie die Nachsilbe `-er` mit `a` ausgesprochen.
-
-| Hochdeutsch | Umgangssprache | |
-|-|-|-|
-| `ɛɐ̯`   | `a`   | *er-* |
-| `fɛɐ̯`  | `fa`  | *ver-* |
-| `tsɛɐ̯` | `tsa` | *zer-* |
