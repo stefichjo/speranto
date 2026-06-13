@@ -38,7 +38,6 @@ Vokalverhalten ("clipping" und "smoothing"):
 | øːr → øɐ̯ | ør → øːr |
 | uːr → uɐ̯ | ur → uːr |
 | yːr → yɐ̯ | yr → yːr |
-| ɛr → ɛɐ̯ | (keine Dehnung) |
 
 ### Rhotizität (Fortsetzung)
 
