@@ -27,7 +27,7 @@ eː → eː/ɛː
 | Endung | Realisierung (IPA) |
 | - | - |
 | -e | ə |
-| -er | ɐ / r̩ |
+| -er | ɐ = r̩ |
 | -el | l̩ |
 | -en | n̩ |
 
@@ -40,7 +40,7 @@ Ausnahmen:
 - Bühnendeutsch: Das gerollte <code>r</code> bleibt immer erhalten.
 
 Vokalverhalten ("clipping" und "smoothing"):
-- Lange Vokale vor <code>r</code> werden gekürzt.
-- Kurze Vokale werden vor <code>r</code> gedehnt (gelängt), außer wenn der Vokal ɛ vorausgeht.
+- Lange Vokale vor ɐ̯ werden gekürzt.
+- Kurze Vokale werden vor ɐ̯ gedehnt (gelängt), außer wenn der Vokal ɛ vorausgeht.
 
 Hinweis: Das verwendete Zeichen ɐ̮ kombiniert das Zentralvokalzeichen ɐ mit dem diakritischen Breve unterhalb, um die rhotisierte Realisierung zu markieren.
