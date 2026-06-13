@@ -45,4 +45,4 @@ Vokalverhalten ("clipping" und "smoothing"):
 - Bühnendeutsch: Das gerollte <code>r</code> bleibt immer erhalten.
 - ä/ɐ → a `IPA-Vereinfachung`
 - eː → eː/ɛː
-
+- Bühnendeutsch: silbisches l, n, r wird mit Schwa, also als Konsonant gesprochen: əl, ən, ər
