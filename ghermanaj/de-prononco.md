@@ -39,7 +39,7 @@ Ausnahmen:
 - Hochdeutsch: Hyperkorrekterweise bleibt das <code>r</code> nach kurzem Vokal erhalten.
 - Bühnendeutsch: Das gerollte <code>r</code> bleibt immer erhalten.
 
-Vokalverhalten ("smoothing"):
+Vokalverhalten ("clipping" und "smoothing"):
 - Lange Vokale vor <code>r</code> werden gekürzt.
 - Kurze Vokale werden vor <code>r</code> gedehnt (gelängt), außer wenn der Vokal ɛ vorausgeht.
 
