@@ -1,8 +1,8 @@
-# Prononco
+# Aussprache
 
-## Vokaloj
+## Vokale
 
-| longa | mallonga |
+| lang | kurz |
 | - | - |
 | äː | ɐ |
 | eː | ɛ |
@@ -14,7 +14,7 @@
 
 ## Endungen
 
-| Endung | Realisierung (IPA) |
+| | |
 | - | - |
 | -e | ə |
 | -er | r̩ = ɐ |
@@ -29,7 +29,7 @@ Vokalverhalten ("clipping" und "smoothing"):
 - Lange Vokale vor ɐ̯ werden gekürzt.
 - Kurze Vokale werden vor ɐ̯ gedehnt (gelängt; das ɐ̯ fällt aus), außer wenn der Vokal ɛ vorausgeht.
 
-| longa + r | mallonga + r |
+| lang + r | kurz + r |
 | - | - |
 | äːɐ̯ → äɐ̯ | ɐɐ̯ → ɐː |
 | eːɐ̯ → eɐ̯ | ɛɐ̯      |
