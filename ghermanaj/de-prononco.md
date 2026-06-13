@@ -17,7 +17,7 @@
 | Endung | Realisierung (IPA) |
 | - | - |
 | -e | ə |
-| -er | ɐ = r̩ |
+| -er | r̩ = ɐ |
 | -el | l̩ |
 | -en | n̩ |
 
