@@ -31,13 +31,14 @@ Vokalverhalten ("clipping" und "smoothing"):
 
 | longa + r | mallonga + r |
 | - | - |
-| äːr → äɐ̯ | ɐr → ɐː |
-| eːr → eɐ̯ | er → eːr |
-| iːr → iɐ̯ | ir → iːr |
-| oːr → oɐ̯ | or → oːr |
-| øːr → øɐ̯ | ør → øːr |
-| uːr → uɐ̯ | ur → uːr |
-| yːr → yɐ̯ | yr → yːr |
+| äːr → äɐ̯ | är → äː |
+| eːr → eɐ̯ | er → eː |
+| iːr → iɐ̯ | ir → iː |
+| oːr → oɐ̯ | or → oː |
+| øːr → øɐ̯ | ør → øː |
+| uːr → uɐ̯ | ur → uː |
+| yːr → yɐ̯ | yr → yː |
+| ɛr → ɛɐ̯ | ɛr → (keine Dehnung) |
 
 ### Rhotizität (Fortsetzung)
 
