@@ -47,6 +47,8 @@ In der Umgangssprache werden die langen mittleren Vokale eː, øː, oː vor ɐ̯
 | øːɐ̯ → œɐ̯ |
 | oːɐ̯ → ɔɐ̯ |
 
+In der Umgangssprache wird ä zu ɐ zentralisiert. `dar = da`
+
 ## Hyperkorrektur
 
 - Hochdeutsch: Hyperkorrekterweise bleibt das <code>r</code> nach kurzem (betontem) Vokal erhalten.
