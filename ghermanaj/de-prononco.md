@@ -43,13 +43,14 @@ Vokalverhalten ("clipping" und "smoothing"):
 
 Das lange "ä" wird /ɛː/ gesprochen.
 
+> Ehre /eːrə/
 > Ähre /eːrə/ → /ɛːrə/
 
 Das /r/ nach kurzem Stammvokal bleibt erhalten.
 
 > dort /dɔɐ̯t/ → /dɔrt/
 
-Das "er" in den unbetonten Vorsilben "er-", "ver-", "zer-" wird als Diphthong /ɛɐ̯/ gesprochen: /ɛɐ̯/, /fɛɐ̯/, /tsɛɐ̯/.
+Das "er" in den unbetonten Vorsilben "er-", "ver-", "zer-" wird als Diphthong gesprochen: /ɛɐ̯/, /fɛɐ̯/, /tsɛɐ̯/.
 
 ## Bühnendeutsch
 
