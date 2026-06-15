@@ -41,22 +41,30 @@ Vokalverhalten ("clipping" und "smoothing"):
 
 ## Hochdeutsch
 
+Das lange "ä" wird /ɛː/ gesprochen.
+
+> Ähre /eːrə/ → /ɛːrə/
+
 Das /r/ nach kurzem Stammvokal bleibt erhalten.
 
 > dort /dɔɐ̯t/ → /dɔrt/
 
+Das "er" in den unbetonten Vorsilben "er-", "ver-", "zer-" wird als Diphthong /ɛɐ̯/ gesprochen: /ɛɐ̯/, /fɛɐ̯/, /tsɛɐ̯/.
+
 ## Bühnendeutsch
 
-Das /r/ (gerollt) bleibt immer erhalten.
+Das /r/ wird gerollt und bleibt immer erhalten.
 
 > vor /foːɐ̯/ → /foːr/
 
 ## Hyperkorrektur
 
+Vor Vokal wird das Dehnungs-h gelesen.
+
+> ehe /eːə/ → /eːhə/
+
 - ä/ɐ → a `IPA-Vereinfachung`
-- eː → eː/ɛː
 - Bühnendeutsch: silbisches l, n, r wird mit Schwa, also als Konsonant gesprochen: əl, ən, ər
-- Hochdeutsch: Das "er" in den unbetonten Vorsilben er-, ver-, zer- wird als Diphthong gesprochen: ɛɐ̯, fɛɐ̯, tsɛɐ̯.
 
 ## Umgangssprache
 
