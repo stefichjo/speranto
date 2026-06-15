@@ -46,6 +46,11 @@ Das lange "ä" wird /ɛː/ gesprochen.
 > Ehre /eːrə/
 > Ähre /eːrə/ → /ɛːrə/
 
+Sowohl /ä/ als auch /ɐ/ werden als /a/ transkribiert.
+
+> da /däː/ = /daː/
+> dann /dɐn/ = /dan/
+
 Das /r/ nach kurzem Stammvokal bleibt erhalten.
 
 > dort /dɔɐ̯t/ → /dɔrt/
@@ -64,12 +69,13 @@ Vor Vokal wird das Dehnungs-h gelesen.
 
 > ehe /eːə/ → /eːhə/
 
-- ä/ɐ → a `IPA-Vereinfachung`
 - Bühnendeutsch: silbisches l, n, r wird mit Schwa, also als Konsonant gesprochen: əl, ən, ər
 
 ## Umgangssprache
 
-Das offene /ä/ zu /ɐ/ zentralisiert. `dar = da`
+Das offene /ä/ wird zu /ɐ/ zentralisiert. `dar = da`
+
+> da /däː/ → /dɐː/
 
 | lang | kurz |
 | - | - |
