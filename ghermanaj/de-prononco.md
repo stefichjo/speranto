@@ -73,13 +73,13 @@ Vor Vokal wird das Dehnungs-h gelesen.
 
 ## Umgangssprache
 
-Das offene /ä/ wird zu /ɐ/ zentralisiert. `dar = da`
+Das offene /ä/ wird zu /ɐ/ zentralisiert.
 
 > da /däː/ → /dɐː/
 
-| lang | kurz |
-| - | - |
-| äː → ɐː | ɐ |
+Nach dabei resultierendem /ɐː/ fällt /ɐ̯/ aus.
+
+> dar /däːɐ̯/ → /dɐː/
 
 Die langen mittleren Vokale /eː/, /øː/, /oː/ werden vor /ɐ̯/ zu /ɛ/, /œ/, /ɔ/ geöffnet.
 
