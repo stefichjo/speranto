@@ -20,6 +20,8 @@ Dieses Dokument beschreibt mehrere Ausspracheregister des Deutschen, die alle vo
 | uː | ʊ |
 | yː | ʏ |
 
+**a-Vokal:** /äː/ und /ɐ/ markieren vor allem *lang* vs. *kurz* und reihen das kurze a in die zentralisierte Lax-Reihe ein. Kurzes /ɐ/ fällt dabei mit der Endung `-er` und dem vokalisierten r zusammen – in *aller* /ɐlɐ/ klingen beide Silbenkerne gleich. Die Klangfarbe selbst ist variabel: lang wie kurz bewegen sich je nach Region und Tempo über [ä ~ a ~ ɑ] und sind überregional weitgehend redundant zur Länge. Wo ein Qualitätsunterschied auftritt, ist er eher umgekehrt (langes a hinten [ɑː], kurzes a vorne [a]). Wörterbücher (DAWB, Duden) schreiben durchweg /aː/–/a/ und nutzen [ɐ] nur für vokalisiertes r und `-er`; die /ɐ/-Schreibung des kurzen a ist hier also eine bewusste, nichtkonventionelle Wahl.
+
 ## Endungen
 
 | | |
