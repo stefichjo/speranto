@@ -53,6 +53,10 @@ Auch die Endung `-er` gehört hierher: Das `r` ist bereits zu ɐ̯ vokalisiert, 
 
 > Mutter /mʊtəɐ̯/ → /mʊtɐ/
 
+Auch das `er` in den unbetonten Vorsilben `er-`, `ver-`, `zer-` wird als vokalisiertes `r` gesprochen: /ɐ/, /fɐ/, /tsɐ/.
+
+> verstehen /fɐʃteːən/
+
 Nach einem Plosiv assimiliert der Silbennasal an dessen Artikulationsort.
 
 > haben /haːbm̩/
