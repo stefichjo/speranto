@@ -56,7 +56,7 @@ Nach einem Plosiv assimiliert der Silbennasal an dessen Artikulationsort.
 
 ## Hochdeutsch
 
-Hochdeutsch meint hier die kodifizierte Standardlautung des **Deutschen Aussprachewörterbuchs** (Krech/Stock/Hirschfeld/Anders, de Gruyter 2009), das sich auf professionelle Nachrichtensprecher stützt – nicht auf die ältere Bühnennorm.
+Hochdeutsch meint hier die kodifizierte Standardlautung des **Deutschen Aussprachewörterbuchs** (Krech/Stock/Hirschfeld/Anders, de Gruyter 2009), das sich auf Berufssprecher:innen stützt – nicht auf die ältere Bühnennorm.
 
 Hochdeutsch übernimmt die Basis, fügt aber drei Ausnahmen hinzu.
 
