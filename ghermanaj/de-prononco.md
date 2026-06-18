@@ -126,7 +126,7 @@ Nach dabei resultierendem /ɐː/ fällt /ɐ̯/ aus.
 
 ### Nasalverschmelzung
 
-Nach der Ortsassimilation kann der Plosiv ganz im Nasal aufgehen. Der Nasal bleibt dabei silbisch, das Wort zweisilbig.
+Nach der Ortsassimilation geht der stimmhafte Plosiv ganz im Nasal auf.
 
 > haben /haːbm̩/ → /haːm̩/
 > legen /leːɡŋ̍/ → /leːŋ̍/
