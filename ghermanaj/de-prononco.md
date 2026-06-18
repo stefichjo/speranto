@@ -78,11 +78,11 @@ Sowohl /ä/ als auch /ɐ/ werden als /a/ transkribiert.
 
 Das `er` in den unbetonten Vorsilben `er-`, `ver-`, `zer-` wird als Diphthong gesprochen: /ɛɐ̯/, /fɛɐ̯/, /tsɛɐ̯/.
 
-> verstehen /fɐʃteːn̩/ → /fɛɐ̯ʃteːən/
+> verstehen /fɐʃteːən/ → /fɛɐ̯ʃteːən/
 
 ## Umgangssprache
 
-Die Umgangssprache übernimmt das Lesedeutsch (inklusive vokalisiertem `r` nach kurzem Vokal) und fügt mehrere Vokalreduktionen hinzu.
+Die Umgangssprache übernimmt das Lesedeutsch und fügt mehrere Vokalreduktionen hinzu.
 
 ### Clipping und Smoothing
 
@@ -135,6 +135,10 @@ Die Mundart reduziert über die Umgangssprache hinaus: Der silbische Nasal verli
 > haben /haːm̩/ → /haːm/ (dialektal auch /ham/)
 > legen /leːŋ̍/ → /leːŋ/
 
+Ebenso fällt ein Schwa nach Vokal aus; auch hier verliert das Wort eine Silbe.
+
+> stehen /ʃteːən/ → /ʃteːn/
+
 ## Bühnendeutsch
 
 Bühnendeutsch ist der konservative Pol (Siebs'sche Bühnenaussprache) und hier kein Lernziel, sondern nur zur Abgrenzung dokumentiert. Es übernimmt das Lesedeutsch nicht, sondern bleibt nah an der Wörterbuchform.
@@ -150,3 +154,7 @@ Bühnendeutsch ist der konservative Pol (Siebs'sche Bühnenaussprache) und hier 
 Vor Vokal wird das Dehnungs-h gelesen.
 
 > ehe /eːə/ → /eːhə/
+
+Als Variante kann der Hiat statt mit [h] mit einem Gleitlaut gefüllt werden: [j] nach vorderem, [w] nach hinterem Vokal.
+
+> stehen /ʃteːən/ → /ʃteːjən/
