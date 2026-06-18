@@ -1,10 +1,10 @@
 # Aussprache
 
-Dieses Dokument beschreibt mehrere Ausspracheregister des Deutschen, die alle von einer gemeinsamen **Basis** abgeleitet werden:
+Dieses Dokument beschreibt mehrere Ausspracheregister des Deutschen, die alle von einem gemeinsamen **Lesedeutsch** abgeleitet werden:
 
-- **Basis** – ausnahmefreie Grundschicht (didaktischer Anker)
+- **Lesedeutsch** – ausnahmefreie Grundschicht (didaktischer Anker)
 - **Hochdeutsch** – die kodifizierte Standardlautung (= DAWB 2009)
-- **Umgangssprache** – Basis plus Vokalreduktionen
+- **Umgangssprache** – Lesedeutsch plus Vokalreduktionen
 - **Mundart** – stärkere Reduktion über die Umgangssprache hinaus
 - **Bühnendeutsch** – konservativer Sonderfall (kein Lernziel)
 
@@ -20,7 +20,7 @@ Dieses Dokument beschreibt mehrere Ausspracheregister des Deutschen, die alle vo
 | uː | ʊ |
 | yː | ʏ |
 
-**a-Vokal:** /äː/ und /ɐ/ markieren vor allem *lang* vs. *kurz* und reihen das kurze a in die zentralisierte Lax-Reihe ein. Kurzes /ɐ/ fällt dabei mit der Endung `-er` und dem vokalisierten r zusammen – in *aller* /ɐlɐ/ klingen beide Silbenkerne gleich. Die Klangfarbe selbst ist variabel: lang wie kurz bewegen sich je nach Region und Tempo über [ä ~ a ~ ɑ] und sind überregional weitgehend redundant zur Länge. Wo ein Qualitätsunterschied auftritt, ist er eher umgekehrt (langes a hinten [ɑː], kurzes a vorne [a]). Wörterbücher (DAWB, Duden) schreiben durchweg /aː/–/a/ und nutzen [ɐ] nur für vokalisiertes r und `-er`; die /ɐ/-Schreibung des kurzen a ist hier also eine bewusste, nichtkonventionelle Wahl.
+**a-Vokal:** Das kurze `a` wird hier /ɐ/ geschrieben, weil es genauso klingt wie die Endung `-er` – in *aller* /ɐlɐ/ sind beide Silbenkerne identisch. Kurzes `a`, `-er` und das vokalisierte `r` fallen so auf *ein* Zeichen [ɐ] zusammen. /äː/ und /ɐ/ markieren damit vor allem *lang* vs. *kurz*; die Klangfarbe des langen Vokals ist variabel ([aː ~ äː ~ ɑː]).
 
 ## Endungen
 
@@ -31,23 +31,27 @@ Dieses Dokument beschreibt mehrere Ausspracheregister des Deutschen, die alle vo
 | -el | l̩ |
 | -en | n̩ |
 
-## Basis
+## Lesedeutsch
 
-Die Basis wendet zwei ausnahmslose Regeln auf die Wörterbuchform an und ändert sonst nichts: Vokalqualität und -länge bleiben vollständig erhalten (kein Clipping, kein Smoothing, keine Öffnung).
+Das Lesedeutsch wendet zwei ausnahmslose Regeln auf die Wörterbuchform an und ändert sonst nichts.
 
 ### r-Vokalisierung
 
-Jedes `r`, das nicht vor einem Vokal steht, wird zu ɐ̯ – ausnahmslos, also auch nach einem vollen kurzen Vokal wie in *dort*, wo das Hochdeutsch das `r` konsonantisch hält (siehe unten).
+Jedes `r`, das nicht vor einem Vokal steht, wird zu ɐ̯ – ausnahmslos, also auch nach einem vollen kurzen Vokal wie in *dort*.
 
 > vor /foːɐ̯/
 > dort /dɔɐ̯t/
 
 ### Schwa-Tilgung
 
-Die Endungen `-el` und `-en` werden zu silbischen Konsonanten.
+Die Endungen `-el` und `-en` werden nach einem Konsonanten zu silbischen Konsonanten.
 
 > baden /baːdn̩/
 > Apfel /apfl̩/
+
+Auch die Endung `-er` gehört hierher: Das `r` ist bereits zu ɐ̯ vokalisiert, das Schwa fällt aus, das ɐ̯ wird silbisch — /əɐ̯/ → /ɐ/ (= r̩).
+
+> Mutter /mʊtəɐ̯/ → /mʊtɐ/
 
 Nach einem Plosiv assimiliert der Silbennasal an dessen Artikulationsort.
 
@@ -56,35 +60,29 @@ Nach einem Plosiv assimiliert der Silbennasal an dessen Artikulationsort.
 
 ## Hochdeutsch
 
-Hochdeutsch meint hier die kodifizierte Standardlautung des **Deutschen Aussprachewörterbuchs** (Krech/Stock/Hirschfeld/Anders, de Gruyter 2009), das sich auf Berufssprecher:innen stützt – nicht auf die ältere Bühnennorm.
-
-Hochdeutsch übernimmt die Basis, fügt aber drei Ausnahmen hinzu.
+Hochdeutsch übernimmt das Lesedeutsch, fügt aber zwei Ausnahmen hinzu.
 
 **1. Das `r` nach kurzem Vokal bleibt konsonantisch erhalten.**
 
-> dort: Basis /dɔɐ̯t/ → /dɔrt/
+> dort: Lesedeutsch /dɔɐ̯t/ → /dɔrt/
 
-**2. Das `aː` vor `r` ist ein Sonderfall** und wird oft nur als langes /aː/ realisiert.
-
-> Haar: Basis /häːɐ̯/ → /haː(ɐ̯)/
-
-**3. Das lange "ä" bleibt /ɛː/** und damit distinkt von /eː/.
+**2. Das lange `ä` bleibt /ɛː/** und damit distinkt von /eː/.
 
 > Ehre /eːrə/
 > Ähre /eːrə/ → /ɛːrə/
-
-Die Vokallänge vor ɐ̯ bleibt erhalten: Das DAWB erkennt zwar an, dass lange Vokale vor ɐ̯ stark gekürzt werden, behält aber das Längezeichen bei. Clipping wird daher erst in der Umgangssprache notiert.
 
 Sowohl /ä/ als auch /ɐ/ werden als /a/ transkribiert.
 
 > da /däː/ = /daː/
 > dann /dɐn/ = /dan/
 
-Das "er" in den unbetonten Vorsilben "er-", "ver-", "zer-" wird als Diphthong gesprochen: /ɛɐ̯/, /fɛɐ̯/, /tsɛɐ̯/.
+Das `er` in den unbetonten Vorsilben `er-`, `ver-`, `zer-` wird als Diphthong gesprochen: /ɛɐ̯/, /fɛɐ̯/, /tsɛɐ̯/.
+
+> verstehen /fɐʃteːn̩/ → /fɛɐ̯ʃteːən/
 
 ## Umgangssprache
 
-Die Umgangssprache übernimmt die Basis (inklusive vokalisiertem `r` nach kurzem Vokal) und fügt mehrere Vokalreduktionen hinzu.
+Die Umgangssprache übernimmt das Lesedeutsch (inklusive vokalisiertem `r` nach kurzem Vokal) und fügt mehrere Vokalreduktionen hinzu.
 
 ### Clipping und Smoothing
 
@@ -101,7 +99,7 @@ Die Umgangssprache übernimmt die Basis (inklusive vokalisiertem `r` nach kurzem
 | uːɐ̯ → uɐ̯ | ʊɐ̯ → ʊː |
 | yːɐ̯ → yɐ̯ | ʏɐ̯ → ʏː |
 
-> dort: Basis /dɔɐ̯t/ → /dɔːt/
+> dort: Lesedeutsch /dɔɐ̯t/ → /dɔːt/
 
 ### Öffnung der langen Mittelvokale
 
@@ -113,7 +111,7 @@ Die langen mittleren Vokale /eː/, /øː/, /oː/ werden vor /ɐ̯/ zusätzlich z
 | øːɐ̯ → œɐ̯ |
 | oːɐ̯ → ɔɐ̯ |
 
-### Zentralisierung des offenen "ä"
+### Zentralisierung des offenen `ä`
 
 Das offene /ä/ wird zu /ɐ/ zentralisiert.
 
@@ -139,13 +137,13 @@ Die Mundart reduziert über die Umgangssprache hinaus: Der silbische Nasal verli
 
 ## Bühnendeutsch
 
-Bühnendeutsch ist der konservative Pol (Siebs'sche Bühnenaussprache) und hier kein Lernziel, sondern nur zur Abgrenzung dokumentiert. Es übernimmt die Basis nicht, sondern bleibt nah an der Wörterbuchform.
+Bühnendeutsch ist der konservative Pol (Siebs'sche Bühnenaussprache) und hier kein Lernziel, sondern nur zur Abgrenzung dokumentiert. Es übernimmt das Lesedeutsch nicht, sondern bleibt nah an der Wörterbuchform.
 
-- Das /r/ wird gerollt und bleibt immer erhalten (keine Vokalisierung).
+- Das `r` wird gerollt und bleibt immer erhalten (keine Vokalisierung).
 
-> vor: Basis /foːɐ̯/ → Bühnendeutsch /foːr/
+> vor: Lesedeutsch /foːɐ̯/ → Bühnendeutsch /foːr/
 
-- Silbisches l, n, r wird mit Schwa, also als Konsonant gesprochen: /əl/, /ən/, /ər/ (keine Schwa-Tilgung).
+- Silbisches `l`, `n`, `r` wird mit Schwa, also als Konsonant gesprochen: /əl/, /ən/, /ər/ (keine Schwa-Tilgung).
 
 ## Hyperkorrektur
 
