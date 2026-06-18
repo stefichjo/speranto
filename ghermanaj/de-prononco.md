@@ -84,12 +84,9 @@ Das `er` in den unbetonten Vorsilben `er-`, `ver-`, `zer-` wird als Diphthong ge
 
 Die Umgangssprache übernimmt das Lesedeutsch und fügt mehrere Vokalreduktionen hinzu.
 
-### Clipping und Smoothing
+### Kürzung und Längung
 
-- Lange Vokale vor ɐ̯ werden gekürzt (Clipping).
-- Kurze Vokale werden vor ɐ̯ gedehnt (gelängt; das ɐ̯ fällt aus – Smoothing), außer wenn der Vokal ɛ vorausgeht.
-
-| lang + r (Clipping) | kurz + r (Smoothing) |
+| lang + r | kurz + r |
 | - | - |
 | äːɐ̯ → äɐ̯ | ɐɐ̯ → ɐː |
 | eːɐ̯ → eɐ̯ | ɛɐ̯      |
@@ -99,11 +96,17 @@ Die Umgangssprache übernimmt das Lesedeutsch und fügt mehrere Vokalreduktionen
 | uːɐ̯ → uɐ̯ | ʊɐ̯ → ʊː |
 | yːɐ̯ → yɐ̯ | ʏɐ̯ → ʏː |
 
+Lange Vokale vor ɐ̯ werden gekürzt. Kurze Vokale werden gelängt, wobei das ɐ̯ assimiliert wird.
+
 > dort: Lesedeutsch /dɔɐ̯t/ → /dɔːt/
+
+Ausnahme: ɛɐ̯ bleibt unverändert.
+
+> Wert: Lesedeutsch /vɛɐ̯t/
 
 ### Öffnung der langen Mittelvokale
 
-Die langen mittleren Vokale /eː/, /øː/, /oː/ werden vor /ɐ̯/ zusätzlich zum Clipping zu /ɛ/, /œ/, /ɔ/ geöffnet.
+Die langen mittleren Vokale /eː/, /øː/, /oː/ werden vor /ɐ̯/ zusätzlich zur Kürzung zu /ɛ/, /œ/, /ɔ/ geöffnet.
 
 | lang + r |
 | - |
