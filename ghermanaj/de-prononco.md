@@ -1,10 +1,10 @@
 # Aussprache
 
-Dieses Dokument beschreibt mehrere Ausspracheregister des Deutschen, die alle von einem gemeinsamen **Lesedeutsch** abgeleitet werden:
+Dieses Dokument beschreibt mehrere Ausspracheregister des Deutschen rund um ein gemeinsames **Lesedeutsch** als Anker:
 
 - **Lesedeutsch** – ausnahmefreie Grundschicht (didaktischer Anker)
-- **Hochdeutsch** – die kodifizierte Standardlautung (= DAWB 2009)
-- **Umgangssprache** – Lesedeutsch plus Vokalreduktionen
+- **Hochdeutsch** – die kodifizierte Standardlautung
+- **Umgangssprache** – Lesedeutsch plus Reduktionen
 - **Mundart** – stärkere Reduktion über die Umgangssprache hinaus
 - **Bühnendeutsch** – konservativer Sonderfall (kein Lernziel)
 
@@ -33,7 +33,7 @@ Dieses Dokument beschreibt mehrere Ausspracheregister des Deutschen, die alle vo
 
 ## Lesedeutsch
 
-Das Lesedeutsch wendet zwei ausnahmslose Regeln auf die Wörterbuchform an und ändert sonst nichts.
+Das Lesedeutsch wendet zwei ausnahmslose Regeln auf die Schreibung an und ändert sonst nichts.
 
 ### r-Vokalisierung
 
@@ -64,13 +64,13 @@ Nach einem Plosiv assimiliert der Silbennasal an dessen Artikulationsort.
 
 ## Hochdeutsch
 
-Hochdeutsch übernimmt das Lesedeutsch, fügt aber zwei Ausnahmen hinzu.
+Hochdeutsch übernimmt das Lesedeutsch, fügt aber einige Ausnahmen hinzu.
 
-**1. Das `r` nach kurzem Vokal bleibt konsonantisch erhalten.**
+**Das `r` nach kurzem Vokal bleibt konsonantisch erhalten.**
 
 > dort: Lesedeutsch /dɔɐ̯t/ → /dɔrt/
 
-**2. Das lange `ä` bleibt /ɛː/** und damit distinkt von /eː/.
+**Das lange `ä` bleibt /ɛː/** und damit distinkt von /eː/.
 
 > Ehre /eːrə/
 > Ähre /eːrə/ → /ɛːrə/
@@ -86,7 +86,7 @@ Das `er` in den unbetonten Vorsilben `er-`, `ver-`, `zer-` wird als Diphthong ge
 
 ## Umgangssprache
 
-Die Umgangssprache übernimmt das Lesedeutsch und fügt mehrere Vokalreduktionen hinzu.
+Die Umgangssprache übernimmt das Lesedeutsch und fügt mehrere Reduktionen hinzu.
 
 ### Kürzung und Längung
 
@@ -108,7 +108,7 @@ Ausnahme: ɛɐ̯ bleibt unverändert.
 
 > Wert: Lesedeutsch /vɛɐ̯t/
 
-### Öffnung der langen Mittelvokale
+### Öffnung der langen Mittelvokale (optional)
 
 Die langen mittleren Vokale /eː/, /øː/, /oː/ werden vor /ɐ̯/ zusätzlich zur Kürzung zu /ɛ/, /œ/, /ɔ/ geöffnet.
 
@@ -118,7 +118,7 @@ Die langen mittleren Vokale /eː/, /øː/, /oː/ werden vor /ɐ̯/ zusätzlich z
 | øːɐ̯ → œɐ̯ |
 | oːɐ̯ → ɔɐ̯ |
 
-### Zentralisierung des offenen `ä`
+### Zentralisierung des offenen `ä` (optional)
 
 Das offene /ä/ wird zu /ɐ/ zentralisiert.
 
@@ -165,3 +165,4 @@ Vor Vokal wird das Dehnungs-h gelesen.
 Als Variante kann der Hiat statt mit [h] mit einem Gleitlaut gefüllt werden: [j] nach vorderem, [w] nach hinterem Vokal.
 
 > stehen /ʃteːən/ → /ʃteːjən/
+> Schuhe /ʃuːə/ → /ʃuːwə/
