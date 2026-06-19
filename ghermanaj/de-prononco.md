@@ -97,8 +97,6 @@ Das `er` in den unbetonten Vorsilben `er-`, `ver-`, `zer-` wird als Diphthong ge
 
 ## Umgangssprache
 
-Die Umgangssprache übernimmt das Ausgangsdeutsch und fügt mehrere Reduktionen hinzu.
-
 ### Kürzung und Längung
 
 | lang + r | kurz + r |
@@ -111,12 +109,12 @@ Die Umgangssprache übernimmt das Ausgangsdeutsch und fügt mehrere Reduktionen 
 | uːɐ̯ → uɐ̯ | ʊɐ̯ → ʊː |
 | yːɐ̯ → yɐ̯ | ʏɐ̯ → ʏː |
 
-Lange Vokale vor ɐ̯ werden gekürzt. Kurze Vokale werden gelängt, wobei das ɐ̯ assimiliert wird.
+Lange Vokale vor vokalisiertem `r` /ɐ̯/ werden gekürzt. Kurze Vokale werden gelängt, wobei das vokalisierte `r` /ɐ̯/ assimiliert wird.
 
 > wer: Ausgangsdeutsch /veːɐ̯/ → /veɐ̯/
 > dort: Ausgangsdeutsch /dɔɐ̯t/ → /dɔːt/
 
-Ausnahme: ɛɐ̯ bleibt unverändert.
+Ausnahme: /ɛɐ̯/ bleibt unverändert.
 
 > Wert: Ausgangsdeutsch /vɛɐ̯t/
 
