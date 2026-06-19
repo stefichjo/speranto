@@ -8,7 +8,9 @@ Dieses Dokument beschreibt mehrere Ausspracheregister des Deutschen rund um ein 
 - **Mundart** – stärkere Reduktion über die Umgangssprache hinaus
 - **Bühnendeutsch** – konservativer Sonderfall (kein Lernziel)
 
-## Vokale
+## Lesedeutsch
+
+### Vokale
 
 | lang | kurz |
 | - | - |
@@ -22,7 +24,7 @@ Dieses Dokument beschreibt mehrere Ausspracheregister des Deutschen rund um ein 
 
 **a-Vokal:** Das kurze `a` wird hier /ɐ/ geschrieben, weil es genauso klingt wie die Endung `-er` – in *aller* /ɐlɐ/ sind beide Silbenkerne identisch. Kurzes `a`, `-er` und das vokalisierte `r` fallen so auf *ein* Zeichen [ɐ] zusammen. /äː/ und /ɐ/ markieren damit vor allem *lang* vs. *kurz*; die Klangfarbe des langen Vokals ist variabel ([aː ~ äː ~ ɑː]).
 
-## Endungen
+### Endungen
 
 | | |
 | - | - |
@@ -30,10 +32,6 @@ Dieses Dokument beschreibt mehrere Ausspracheregister des Deutschen rund um ein 
 | -er | r̩ = ɐ |
 | -el | l̩ |
 | -en | n̩ |
-
-## Lesedeutsch
-
-Das Lesedeutsch wendet zwei ausnahmslose Regeln auf die Schreibung an und ändert sonst nichts.
 
 ### r-Vokalisierung
 
@@ -102,6 +100,7 @@ Die Umgangssprache übernimmt das Lesedeutsch und fügt mehrere Reduktionen hinz
 
 Lange Vokale vor ɐ̯ werden gekürzt. Kurze Vokale werden gelängt, wobei das ɐ̯ assimiliert wird.
 
+> wer: Lesedeutsch /veːɐ̯/ → /veɐ̯/
 > dort: Lesedeutsch /dɔɐ̯t/ → /dɔːt/
 
 Ausnahme: ɛɐ̯ bleibt unverändert.
@@ -148,7 +147,7 @@ Ebenso fällt ein Schwa nach Vokal aus; auch hier verliert das Wort eine Silbe.
 
 ## Bühnendeutsch
 
-Bühnendeutsch ist der konservative Pol (Siebs'sche Bühnenaussprache) und hier kein Lernziel, sondern nur zur Abgrenzung dokumentiert. Es übernimmt das Lesedeutsch nicht, sondern bleibt nah an der Wörterbuchform.
+Bühnendeutsch ist der konservative Pol (Siebs'sche Bühnenaussprache) und hier kein Lernziel, sondern nur zur Abgrenzung dokumentiert. Es übernimmt das Lesedeutsch nicht, sondern bleibt nah an der Schreibung.
 
 - Das `r` wird gerollt und bleibt immer erhalten (keine Vokalisierung).
 
