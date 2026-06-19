@@ -57,7 +57,7 @@ Jedes `r`, das nicht vor einem Vokal steht, wird zu ɐ̯ – ausnahmslos, also a
 
 ### Schwundvokal
 
-In unbetonten Vor- und Nachsilben wird `e` als Schwa /ə/ gesprochen.
+In unbetonten Vor- und Nachsilben wird `e` als Schwundvokal /ə/ gesprochen.
 
 > Gedanke /gədɐŋkə/
 
@@ -82,7 +82,7 @@ Auch das `er` in den unbetonten Vorsilben `er-`, `ver-`, `zer-` wird als vokalis
 
 ## Hochdeutsch
 
-Anders als im Lesedeutsch wird nach kurzem Vokal das vokalisierte `r` /ɐ̯/ zu /r/ wiederhergestellt.
+Nach kurzem Vokal wird das vokalisierte `r` /ɐ̯/ zu /r/ wiederhergestellt.
 
 > dort /dɔɐ̯t/ → /dɔrt/
 
@@ -154,7 +154,7 @@ Die Mundart reduziert über die Umgangssprache hinaus: Der silbische Nasal verli
 > haben /haːm̩/ → /haːm/ (dialektal auch /ham/)
 > legen /leːŋ̍/ → /leːŋ/
 
-Ebenso fällt ein Schwa nach Vokal aus; auch hier verliert das Wort eine Silbe.
+Ebenso fällt ein Schwundvokal nach Vokal aus; auch hier verliert das Wort eine Silbe.
 
 > stehen /ʃteːən/ → /ʃteːn/
 
@@ -166,7 +166,7 @@ Bühnendeutsch ist der konservative Pol (Siebs'sche Bühnenaussprache) und hier 
 
 > vor: Lesedeutsch /foːɐ̯/ → Bühnendeutsch /foːr/
 
-- Silbisches `l`, `n`, `r` wird mit Schwa, also als Konsonant gesprochen: /əl/, /ən/, /ər/ (keine Schwa-Tilgung).
+- Silbisches `l`, `n`, `r` wird mit Schwundvokal, also als Konsonant gesprochen: /əl/, /ən/, /ər/.
 
 ## Hyperkorrektur
 
@@ -178,3 +178,8 @@ Als Variante kann der Hiat statt mit [h] mit einem Gleitlaut gefüllt werden: [j
 
 > stehen /ʃteːən/ → /ʃteːjən/
 > Schuhe /ʃuːə/ → /ʃuːwə/
+
+Auch die Nasalassimilation kann schriftgetrieben unterbleiben — der Nasal wird wie geschrieben alveolar gesprochen.
+
+> haben /haːbm̩/ → /haːbn̩/
+> legen /leːgŋ̍/ → /leːgn̩/
