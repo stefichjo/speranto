@@ -124,6 +124,9 @@ Ausnahme: ɛɐ̯ bleibt unverändert.
 
 Die langen mittleren Vokale /eː/, /øː/, /oː/ werden vor /ɐ̯/ zusätzlich zur Kürzung zu /ɛ/, /œ/, /ɔ/ geöffnet.
 
+> her /heːɐ̯/ → /hɛɐ̯/
+> Herr /hɛɐ̯/
+
 | lang + r |
 | - |
 | eːɐ̯ → ɛɐ̯ |
