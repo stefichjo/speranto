@@ -24,17 +24,6 @@ Dieses Dokument beschreibt mehrere Ausspracheregister des Deutschen rund um ein 
 
 **a-Vokal:** Das kurze `a` wird hier /ɐ/ geschrieben, weil es genauso klingt wie die Endung `-er` – in *aller* /ɐlɐ/ sind beide Silbenkerne identisch. Kurzes `a`, `-er` und das vokalisierte `r` fallen so auf *ein* Zeichen [ɐ] zusammen. /äː/ und /ɐ/ markieren damit vor allem *lang* vs. *kurz*; die Klangfarbe des langen Vokals ist variabel ([aː ~ äː ~ ɑː]).
 
-### Endungen
-
-| | |
-| - | - |
-| -e  | ə |
-| -er | r̩ = ɐ |
-| -el | l̩ |
-| -en | n̩ |
-
-`l̩` und `n̩` werden nur nach einem Konsonanten silbisch; nach einem Vokal bleibt das Schwa (*stehen* /ʃteːən/). `-er` → `ɐ` gilt dagegen immer, auch nach Vokal (*Eier* /aɪ̯ɐ/).
-
 ### r-Vokalisierung
 
 Jedes `r`, das nicht vor einem Vokal steht, wird zu ɐ̯ – ausnahmslos, also auch nach einem vollen kurzen Vokal wie in *dort*.
@@ -42,25 +31,40 @@ Jedes `r`, das nicht vor einem Vokal steht, wird zu ɐ̯ – ausnahmslos, also a
 > vor /foːɐ̯/
 > dort /dɔɐ̯t/
 
-### Schwa-Tilgung
+| lang + r | kurz + r |
+| - | - |
+| äːɐ̯ | ɐɐ̯ |
+| eːɐ̯ | ɛɐ̯ |
+| iːɐ̯ | ɪɐ̯ |
+| oːɐ̯ | ɔɐ̯ |
+| øːɐ̯ | œɐ̯ |
+| uːɐ̯ | ʊɐ̯ |
+| yːɐ̯ | ʏɐ̯ |
 
-Die Endungen `-el` und `-en` werden nach einem Konsonanten zu silbischen Konsonanten.
+### Schwundvokal
 
-> baden /baːdn̩/
-> Apfel /apfl̩/
+In unbetonten Vor- und Nachsilben wird `e` als Schwa /ə/ gesprochen.
 
-Auch die Endung `-er` gehört hierher: Das `r` ist bereits zu ɐ̯ vokalisiert, das Schwa fällt aus, das ɐ̯ wird silbisch — /əɐ̯/ → /ɐ/ (= r̩).
+> Gedanke /gədɐŋkə/
 
-> Mutter /mʊtəɐ̯/ → /mʊtɐ/
+Nach Konsonant fällt das `e` in `el` und `en` aus. Die verbleibenden Dentale `l` und `n` werden dann silbisch gesprochen.
 
-Auch das `er` in den unbetonten Vorsilben `er-`, `ver-`, `zer-` wird als vokalisiertes `r` gesprochen: /ɐ/, /fɐ/, /tsɐ/.
-
-> verstehen /fɐʃteːən/
+> Esel /eːzl̩/
+> Besen /beːzn̩/
 
 Nach einem Plosiv assimiliert der Silbennasal an dessen Artikulationsort.
 
 > haben /haːbm̩/
-> legen /leːɡŋ̍/
+> legen /leːgŋ̍/
+
+Wenn `er` nicht vor Vokal steht, wird es immer silbisch als /ɐ/ gesprochen.
+
+> weitere /vɐɪ̯tərə/
+> weiter /vɐɪ̯tr̩/ = /vɐɪ̯tɐ/
+
+Auch das `er` in den unbetonten Vorsilben `er-`, `ver-`, `zer-` wird als vokalisiertes `r` gesprochen: /ɐ/, /fɐ/, /tsɐ/.
+
+> verstehen /fɐʃteːən/
 
 ## Hochdeutsch
 
@@ -134,7 +138,7 @@ Nach dabei resultierendem /ɐː/ fällt /ɐ̯/ aus.
 Nach der Ortsassimilation geht der stimmhafte Plosiv ganz im Nasal auf.
 
 > haben /haːbm̩/ → /haːm̩/
-> legen /leːɡŋ̍/ → /leːŋ̍/
+> legen /leːgŋ̍/ → /leːŋ̍/
 
 ## Mundart
 
