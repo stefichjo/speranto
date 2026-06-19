@@ -1,14 +1,14 @@
 # Aussprache
 
-Dieses Dokument beschreibt mehrere Ausspracheregister des Deutschen rund um ein gemeinsames **Lesedeutsch** als Anker:
+Dieses Dokument beschreibt mehrere Ausspracheregister des Deutschen rund um ein gemeinsames **Ausgangsdeutsch** als Anker:
 
-- **Lesedeutsch** – ausnahmefreie Grundschicht (didaktischer Anker)
+- **Ausgangsdeutsch** – ausnahmefreie Grundschicht (didaktischer Anker)
 - **Hochdeutsch** – die kodifizierte Standardlautung
-- **Umgangssprache** – Lesedeutsch plus Reduktionen
+- **Umgangssprache** – Ausgangsdeutsch plus Reduktionen
 - **Mundart** – stärkere Reduktion über die Umgangssprache hinaus
 - **Bühnendeutsch** – konservativer Sonderfall (kein Lernziel)
 
-## Lesedeutsch
+## Ausgangsdeutsch
 
 ### Vokale
 
@@ -97,7 +97,7 @@ Das `er` in den unbetonten Vorsilben `er-`, `ver-`, `zer-` wird als Diphthong ge
 
 ## Umgangssprache
 
-Die Umgangssprache übernimmt das Lesedeutsch und fügt mehrere Reduktionen hinzu.
+Die Umgangssprache übernimmt das Ausgangsdeutsch und fügt mehrere Reduktionen hinzu.
 
 ### Kürzung und Längung
 
@@ -113,12 +113,12 @@ Die Umgangssprache übernimmt das Lesedeutsch und fügt mehrere Reduktionen hinz
 
 Lange Vokale vor ɐ̯ werden gekürzt. Kurze Vokale werden gelängt, wobei das ɐ̯ assimiliert wird.
 
-> wer: Lesedeutsch /veːɐ̯/ → /veɐ̯/
-> dort: Lesedeutsch /dɔɐ̯t/ → /dɔːt/
+> wer: Ausgangsdeutsch /veːɐ̯/ → /veɐ̯/
+> dort: Ausgangsdeutsch /dɔɐ̯t/ → /dɔːt/
 
 Ausnahme: ɛɐ̯ bleibt unverändert.
 
-> Wert: Lesedeutsch /vɛɐ̯t/
+> Wert: Ausgangsdeutsch /vɛɐ̯t/
 
 ### Öffnung der langen Mittelvokale (optional)
 
@@ -163,11 +163,11 @@ Ebenso fällt ein Schwundvokal nach Vokal aus; auch hier verliert das Wort eine 
 
 ## Bühnendeutsch
 
-Bühnendeutsch ist der konservative Pol (Siebs'sche Bühnenaussprache) und hier kein Lernziel, sondern nur zur Abgrenzung dokumentiert. Es übernimmt das Lesedeutsch nicht, sondern bleibt nah an der Schreibung.
+Bühnendeutsch ist der konservative Pol (Siebs'sche Bühnenaussprache) und hier kein Lernziel, sondern nur zur Abgrenzung dokumentiert. Es übernimmt das Ausgangsdeutsch nicht, sondern bleibt nah an der Schreibung.
 
 - Das `r` wird gerollt und bleibt immer erhalten (keine Vokalisierung).
 
-> vor: Lesedeutsch /foːɐ̯/ → Bühnendeutsch /foːr/
+> vor: Ausgangsdeutsch /foːɐ̯/ → Bühnendeutsch /foːr/
 
 - Silbisches `l`, `n`, `r` wird mit Schwundvokal, also als Konsonant gesprochen: /əl/, /ən/, /ər/.
 
