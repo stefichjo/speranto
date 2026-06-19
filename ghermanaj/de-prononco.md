@@ -33,6 +33,8 @@ Dieses Dokument beschreibt mehrere Ausspracheregister des Deutschen rund um ein 
 | -el | l̩ |
 | -en | n̩ |
 
+`l̩` und `n̩` werden nur nach einem Konsonanten silbisch; nach einem Vokal bleibt das Schwa (*stehen* /ʃteːən/). `-er` → `ɐ` gilt dagegen immer, auch nach Vokal (*Eier* /aɪ̯ɐ/).
+
 ### r-Vokalisierung
 
 Jedes `r`, das nicht vor einem Vokal steht, wird zu ɐ̯ – ausnahmslos, also auch nach einem vollen kurzen Vokal wie in *dort*.
