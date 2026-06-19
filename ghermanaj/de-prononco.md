@@ -24,9 +24,9 @@ Dieses Dokument beschreibt mehrere Ausspracheregister des Deutschen rund um ein 
 
 ### a-Vokal
 
-Das lange `a` variiert je nach Region: /aː ~ äː ~ ɑː/.
+Das lange `a` variiert je nach Region: /aː/ ~ /äː/ ~ /ɑː/.
 
-> da /daː/
+> da /daː/ ~ /däː/ ~ /dɑː/ = /daː/
 
 Das kurze `a` fällt mit `-er` /ɐ/ bzw. dem vokalisierten `r` /ɐ̯/ zusammen. Es kann ebenfalls als /a/ transkribiert werden.
 
