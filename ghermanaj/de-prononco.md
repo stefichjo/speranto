@@ -14,7 +14,7 @@ Dieses Dokument beschreibt mehrere Ausspracheregister des Deutschen rund um ein 
 
 | lang | kurz |
 | - | - |
-| äː | ɐ |
+| aː | ɐ |
 | eː | ɛ |
 | iː | ɪ |
 | oː | ɔ |
@@ -22,7 +22,15 @@ Dieses Dokument beschreibt mehrere Ausspracheregister des Deutschen rund um ein 
 | uː | ʊ |
 | yː | ʏ |
 
-**a-Vokal:** Das kurze `a` wird hier /ɐ/ geschrieben, weil es genauso klingt wie die Endung `-er` – in *aller* /ɐlɐ/ sind beide Silbenkerne identisch. Kurzes `a`, `-er` und das vokalisierte `r` fallen so auf *ein* Zeichen [ɐ] zusammen. /äː/ und /ɐ/ markieren damit vor allem *lang* vs. *kurz*; die Klangfarbe des langen Vokals ist variabel ([aː ~ äː ~ ɑː]).
+### a-Vokal
+
+Das lange `a` variiert je nach Region: /aː ~ äː ~ ɑː/.
+
+> da /daː/
+
+Das kurze `a` fällt mit `-er` /ɐ/ bzw. dem vokalisierten `r` /ɐ̯/ zusammen. Es kann ebenfalls als /a/ transkribiert werden.
+
+> Hammer /hɐmɐ/ = /hamɐ/
 
 ### Stimmritzenverschlusslaut
 
@@ -39,7 +47,7 @@ Jedes `r`, das nicht vor einem Vokal steht, wird zu ɐ̯ – ausnahmslos, also a
 
 | lang + r | kurz + r |
 | - | - |
-| äːɐ̯ | ɐɐ̯ |
+| aːɐ̯ | ɐɐ̯ |
 | eːɐ̯ | ɛɐ̯ |
 | iːɐ̯ | ɪɐ̯ |
 | oːɐ̯ | ɔɐ̯ |
@@ -85,11 +93,6 @@ Hochdeutsch übernimmt das Lesedeutsch, fügt aber einige Ausnahmen hinzu.
 > Ehre /eːrə/
 > Ähre /eːrə/ → /ɛːrə/
 
-Sowohl /ä/ als auch /ɐ/ werden als /a/ transkribiert.
-
-> da /däː/ = /daː/
-> dann /dɐn/ = /dan/
-
 Das `er` in den unbetonten Vorsilben `er-`, `ver-`, `zer-` wird als Diphthong gesprochen: /ɛɐ̯/, /fɛɐ̯/, /tsɛɐ̯/.
 
 > verstehen /fɐʃteːən/ → /fɛɐ̯ʃteːən/
@@ -102,7 +105,7 @@ Die Umgangssprache übernimmt das Lesedeutsch und fügt mehrere Reduktionen hinz
 
 | lang + r | kurz + r |
 | - | - |
-| äːɐ̯ → äɐ̯ | ɐɐ̯ → ɐː |
+| aːɐ̯ → aɐ̯ | ɐɐ̯ → ɐː |
 | eːɐ̯ → eɐ̯ | ɛɐ̯      |
 | iːɐ̯ → iɐ̯ | ɪɐ̯ → ɪː |
 | oːɐ̯ → oɐ̯ | ɔɐ̯ → ɔː |
@@ -129,15 +132,15 @@ Die langen mittleren Vokale /eː/, /øː/, /oː/ werden vor /ɐ̯/ zusätzlich z
 | øːɐ̯ → œɐ̯ |
 | oːɐ̯ → ɔɐ̯ |
 
-### Zentralisierung des offenen `ä` (optional)
+### Zentralisierung des offenen `a` (optional)
 
-Das offene /ä/ wird zu /ɐ/ zentralisiert.
+Das offene /aː/ wird zu /ɐː/ zentralisiert.
 
-> da /däː/ → /dɐː/
+> da /daː/ → /dɐː/
 
 Nach dabei resultierendem /ɐː/ fällt /ɐ̯/ aus.
 
-> dar /däːɐ̯/ → /dɐː/
+> dar /daːɐ̯/ → /dɐː/
 
 ### Nasalverschmelzung
 
