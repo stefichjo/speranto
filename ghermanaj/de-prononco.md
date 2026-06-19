@@ -24,6 +24,12 @@ Dieses Dokument beschreibt mehrere Ausspracheregister des Deutschen rund um ein 
 
 **a-Vokal:** Das kurze `a` wird hier /ɐ/ geschrieben, weil es genauso klingt wie die Endung `-er` – in *aller* /ɐlɐ/ sind beide Silbenkerne identisch. Kurzes `a`, `-er` und das vokalisierte `r` fallen so auf *ein* Zeichen [ɐ] zusammen. /äː/ und /ɐ/ markieren damit vor allem *lang* vs. *kurz*; die Klangfarbe des langen Vokals ist variabel ([aː ~ äː ~ ɑː]).
 
+### Stimmritzenverschlusslaut
+
+Am Wortanfang werden Vokale mit Stimmritzenverschlusslaut /ʔ/ gesprochen. Dies wird in der Umschrift nicht notiert.
+
+> Ast /ʔɐst/ = /ɐst/
+
 ### r-Vokalisierung
 
 Jedes `r`, das nicht vor einem Vokal steht, wird zu ɐ̯ – ausnahmslos, also auch nach einem vollen kurzen Vokal wie in *dort*.
