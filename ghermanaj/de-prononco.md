@@ -82,13 +82,11 @@ Auch das `er` in den unbetonten Vorsilben `er-`, `ver-`, `zer-` wird als vokalis
 
 ## Hochdeutsch
 
-Hochdeutsch übernimmt das Lesedeutsch, fügt aber einige Ausnahmen hinzu.
+Anders als im Lesedeutsch wird nach kurzem Vokal das vokalisierte `r` /ɐ̯/ zu /r/ wiederhergestellt.
 
-**Das `r` nach kurzem Vokal bleibt konsonantisch erhalten.**
+> dort /dɔɐ̯t/ → /dɔrt/
 
-> dort: Lesedeutsch /dɔɐ̯t/ → /dɔrt/
-
-**Das lange `ä` bleibt /ɛː/** und damit distinkt von /eː/.
+Das lange `ä` wird als /ɛː/ gesprochen.
 
 > Ehre /eːrə/
 > Ähre /eːrə/ → /ɛːrə/
