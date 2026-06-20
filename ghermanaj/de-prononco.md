@@ -216,7 +216,7 @@ Bühnendeutsch ist der konservative Pol (Siebs'sche Bühnenaussprache) und hier 
 
 > Hammer /hɐmɐ/ → /hɐmər/
 
-- Die Diphthong-Gleitlaute öffnen sich: `ai`/`ei` /ɐe̯/, `au` /ɐo̯/, `eu`/`äu` /ɔø̯/.
+- Die Diphthong-Gleitlaute öffnen sich: `ai`/`ei` /ɐe̯/, `au` /ɐo̯/, `äu`/`eu` /ɔø̯/.
 
 > Mai /mɐɪ̯/ → /mɐe̯/
 > Haus /hɐʊ̯s/ → /hɐo̯s/
