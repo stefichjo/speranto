@@ -61,10 +61,17 @@ In unbetonten Vor- und Nachsilben wird `e` als Schwundvokal /ə/ gesprochen.
 
 > Gedanke /gədɐŋkə/
 
-Nach Konsonant fällt das `e` in `el` und `en` aus. Die verbleibenden Dentale `l` und `n` werden dann silbisch gesprochen.
+Nach einem Plosiv oder Reibelaut fällt das `e` in `el` und `en` aus. Die verbleibenden Dentale `l` und `n` werden dann silbisch gesprochen.
 
 > Esel /eːzl̩/
 > Besen /beːzn̩/
+
+Nach Vokal, `l`, `r` oder einem Nasal bleibt der Schwundvokal dagegen erhalten.
+
+> stehen /ʃteːən/
+> fallen /fɐlən/
+> waren /vaːrən/
+> kommen /kɔmən/
 
 Nach einem Plosiv assimiliert der Silbennasal an dessen Artikulationsort.
 
@@ -85,8 +92,8 @@ Auch das `er` in den unbetonten Vorsilben `er-`, `ver-`, `zer-` wird als vokalis
 | Schreibung | |
 | - | - |
 | ai, ei | ɐɪ̯ |
-| au | ɐʊ̯ |
-| eu, äu | ɔɪ̯ |
+| au     | ɐʊ̯ |
+| äu, eu | ɔɪ̯ |
 
 > Mai /mɐɪ̯/
 > Haus /hɐʊ̯s/
@@ -192,6 +199,10 @@ Treffen dabei zwei Nasale aufeinander, verschmelzen sie zu einem.
 Ebenso fällt ein Schwundvokal nach Vokal aus; auch hier verliert das Wort eine Silbe.
 
 > stehen /ʃteːən/ → /ʃteːn/
+
+Wie das `r` wird auch das `l` vokalisiert (ein dunkles `ɫ`). Es zählt dann wie ein Vokal, sodass die Schwa-Tilgung greift und das Wort eine Silbe verliert.
+
+> fallen /fɐlən/ → /fɐɫn/
 
 ## Bühnendeutsch
 
