@@ -134,6 +134,13 @@ Ausnahme: /ɛɐ̯/ bleibt unverändert.
 
 > Wert: Ausgangsdeutsch /vɛɐ̯t/
 
+### Hiat-Gleitlaut
+
+Im Hiat (Vokal vor Vokal) tritt ein Gleitlaut auf: /j/ nach vorderem, /w/ nach hinterem Vokal.
+
+> stehen /ʃteːən/ → /ʃtejən/
+> Schuhe /ʃuːə/ → /ʃuwə/
+
 ### Öffnung der langen Mittelvokale (optional)
 
 Die langen mittleren Vokale /eː/, /øː/, /oː/ werden vor /ɐ̯/ zusätzlich zur Kürzung zu /ɛ/, /œ/, /ɔ/ geöffnet.
@@ -198,11 +205,6 @@ Bühnendeutsch ist der konservative Pol (Siebs'sche Bühnenaussprache) und hier 
 Vor Vokal wird das Dehnungs-h gelesen.
 
 > ehe /eːə/ → /eːhə/
-
-Als Variante kann der Hiat statt mit [h] mit einem Gleitlaut gefüllt werden: [j] nach vorderem, [w] nach hinterem Vokal.
-
-> stehen /ʃteːən/ → /ʃteːjən/
-> Schuhe /ʃuːə/ → /ʃuːwə/
 
 Auch die Nasalassimilation kann schriftgetrieben unterbleiben — der Nasal wird wie geschrieben alveolar gesprochen.
 
