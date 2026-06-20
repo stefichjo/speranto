@@ -171,12 +171,23 @@ Nach der Ortsassimilation geht der stimmhafte Plosiv ganz im Nasal auf.
 > haben /haːbm̩/ → /haːm̩/
 > legen /leːgŋ̍/ → /leːŋ̍/
 
+### Silbisches `m`
+
+Nun verliert auch das labiale `-em` sein `e`; das `m` wird silbisch.
+
+> großem /groːsəm/ → /groːsm̩/
+> einem /ɐɪ̯nəm/ → /ɐɪ̯nm̩/
+
 ## Mundart
 
 Die Mundart reduziert über die Umgangssprache hinaus: Der silbische Nasal verliert seinen Silbenträger-Status (Entsilbung), das Wort wird einsilbig – oft mit zusätzlicher Kürzung des Stammvokals.
 
 > haben /haːm̩/ → /haːm/ (dialektal auch /ham/)
 > legen /leːŋ̍/ → /leːŋ/
+
+Treffen dabei zwei Nasale aufeinander, verschmelzen sie zu einem.
+
+> einem /ɐɪ̯nm̩/ → /ɐɪ̯m/
 
 Ebenso fällt ein Schwundvokal nach Vokal aus; auch hier verliert das Wort eine Silbe.
 
