@@ -107,6 +107,10 @@ Das `er` in den unbetonten Vorsilben `er-`, `ver-`, `zer-` wird als Diphthong ge
 
 > verstehen /fɐʃteːən/ → /fɛɐ̯ʃteːən/
 
+Im Diphthong `eu`/`äu` rundet sich der Gleitlaut zu /ʏ̯/.
+
+> Eule /ɔɪ̯lə/ → /ɔʏ̯lə/
+
 ## Umgangssprache
 
 ### Kürzung und Längung
@@ -177,9 +181,17 @@ Bühnendeutsch ist der konservative Pol (Siebs'sche Bühnenaussprache) und hier 
 
 - Das `r` wird gerollt und bleibt immer erhalten (keine Vokalisierung).
 
-> vor: Ausgangsdeutsch /foːɐ̯/ → Bühnendeutsch /foːr/
+> vor /foːɐ̯/ → /foːr/
 
 - Silbisches `l`, `n`, `r` wird mit Schwundvokal, also als Konsonant gesprochen: /əl/, /ən/, /ər/.
+
+> Hammer /hɐmɐ/ → /hɐmər/
+
+- Die Diphthong-Gleitlaute öffnen sich: `ai`/`ei` /ɐe̯/, `au` /ɐo̯/, `eu`/`äu` /ɔø̯/.
+
+> Mai /mɐɪ̯/ → /mɐe̯/
+> Haus /hɐʊ̯s/ → /hɐo̯s/
+> Eule /ɔɪ̯lə/ → /ɔø̯lə/
 
 ## Hyperkorrektur
 
