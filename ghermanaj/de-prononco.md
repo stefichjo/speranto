@@ -42,7 +42,7 @@ Am Wortanfang werden Vokale mit Stimmritzenverschlusslaut /ʔ/ gesprochen. Dies 
 
 Jedes `r`, das nicht vor einem Vokal steht, wird zu ɐ̯ – ausnahmslos, also auch nach einem vollen kurzen Vokal wie in *dort*.
 
-> vor /foːɐ̯/
+> vor /foːɐ̯/  
 > dort /dɔɐ̯t/
 
 | lang + r | kurz + r |
@@ -63,24 +63,24 @@ In unbetonten Vor- und Nachsilben wird `e` als Schwundvokal /ə/ gesprochen.
 
 Nach einem Plosiv oder Reibelaut fällt das `e` in `el` und `en` aus. Die verbleibenden Dentale `l` und `n` werden dann silbisch gesprochen.
 
-> Esel /eːzl̩/
+> Esel /eːzl̩/  
 > Besen /beːzn̩/
 
 Nach Vokal, `l`, `r` oder einem Nasal bleibt der Schwundvokal dagegen erhalten.
 
-> stehen /ʃteːən/
-> fallen /fɐlən/
-> waren /vaːrən/
+> stehen /ʃteːən/  
+> fallen /fɐlən/  
+> waren /vaːrən/  
 > kommen /kɔmən/
 
 Nach einem Plosiv assimiliert der Silbennasal an dessen Artikulationsort.
 
-> haben /haːbm̩/
+> haben /haːbm̩/  
 > legen /leːgŋ̍/
 
 Wenn `er` nicht vor Vokal steht, wird es immer silbisch als /ɐ/ gesprochen.
 
-> weitere /vɐɪ̯tərə/
+> weitere /vɐɪ̯tərə/  
 > weiter /vɐɪ̯tr̩/ = /vɐɪ̯tɐ/
 
 Auch das `er` in den unbetonten Vorsilben `er-`, `ver-`, `zer-` wird als vokalisiertes `r` gesprochen: /ɐ/, /fɐ/, /tsɐ/.
@@ -95,8 +95,8 @@ Auch das `er` in den unbetonten Vorsilben `er-`, `ver-`, `zer-` wird als vokalis
 | au     | ɐʊ̯ |
 | äu, eu | ɔɪ̯ |
 
-> Mai /mɐɪ̯/
-> Haus /hɐʊ̯s/
+> Mai /mɐɪ̯/  
+> Haus /hɐʊ̯s/  
 > Eule /ɔɪ̯lə/
 
 ## Hochdeutsch
@@ -107,7 +107,7 @@ Nach kurzem Vokal wird das vokalisierte `r` /ɐ̯/ zu /r/ wiederhergestellt.
 
 Das lange `ä` wird als /ɛː/ gesprochen.
 
-> Ehre /eːrə/
+> Ehre /eːrə/  
 > Ähre /eːrə/ → /ɛːrə/
 
 Das `er` in den unbetonten Vorsilben `er-`, `ver-`, `zer-` wird als Diphthong gesprochen: /ɛɐ̯/, /fɛɐ̯/, /tsɛɐ̯/.
@@ -134,7 +134,7 @@ Im Diphthong `eu`/`äu` rundet sich der Gleitlaut zu /ʏ̯/.
 
 Lange Vokale vor vokalisiertem `r` /ɐ̯/ werden gekürzt. Kurze Vokale werden gelängt, wobei das vokalisierte `r` /ɐ̯/ assimiliert wird.
 
-> wer: Ausgangsdeutsch /veːɐ̯/ → /veɐ̯/
+> wer: Ausgangsdeutsch /veːɐ̯/ → /veɐ̯/  
 > dort: Ausgangsdeutsch /dɔɐ̯t/ → /dɔːt/
 
 Ausnahme: /ɛɐ̯/ bleibt unverändert.
@@ -145,14 +145,14 @@ Ausnahme: /ɛɐ̯/ bleibt unverändert.
 
 Im Hiat (Vokal vor Vokal) tritt ein Gleitlaut auf: /j/ nach vorderem, /w/ nach hinterem Vokal.
 
-> stehen /ʃteːən/ → /ʃtejən/
+> stehen /ʃteːən/ → /ʃtejən/  
 > Schuhe /ʃuːə/ → /ʃuwə/
 
 ### Öffnung der langen Mittelvokale (optional)
 
 Die langen mittleren Vokale /eː/, /øː/, /oː/ werden vor /ɐ̯/ zusätzlich zur Kürzung zu /ɛ/, /œ/, /ɔ/ geöffnet.
 
-> her /heːɐ̯/ → /hɛɐ̯/
+> her /heːɐ̯/ → /hɛɐ̯/  
 > Herr /hɛɐ̯/
 
 | lang + r |
@@ -175,21 +175,21 @@ Nach dabei resultierendem /ɐː/ fällt /ɐ̯/ aus.
 
 Nach der Ortsassimilation geht der stimmhafte Plosiv ganz im Nasal auf.
 
-> haben /haːbm̩/ → /haːm̩/
+> haben /haːbm̩/ → /haːm̩/  
 > legen /leːgŋ̍/ → /leːŋ̍/
 
 ### Silbisches `m`
 
 Nun verliert auch das labiale `-em` sein `e`; das `m` wird silbisch.
 
-> großem /groːsəm/ → /groːsm̩/
+> großem /groːsəm/ → /groːsm̩/  
 > einem /ɐɪ̯nəm/ → /ɐɪ̯nm̩/
 
 ## Mundart
 
 Die Mundart reduziert über die Umgangssprache hinaus: Der silbische Nasal verliert seinen Silbenträger-Status (Entsilbung), das Wort wird einsilbig – oft mit zusätzlicher Kürzung des Stammvokals.
 
-> haben /haːm̩/ → /haːm/ (dialektal auch /ham/)
+> haben /haːm̩/ → /haːm/ (dialektal auch /ham/)  
 > legen /leːŋ̍/ → /leːŋ/
 
 Treffen dabei zwei Nasale aufeinander, verschmelzen sie zu einem.
@@ -218,8 +218,8 @@ Bühnendeutsch ist der konservative Pol (Siebs'sche Bühnenaussprache) und hier 
 
 - Die Diphthong-Gleitlaute öffnen sich: `ai`/`ei` /ɐe̯/, `au` /ɐo̯/, `äu`/`eu` /ɔø̯/.
 
-> Mai /mɐɪ̯/ → /mɐe̯/
-> Haus /hɐʊ̯s/ → /hɐo̯s/
+> Mai /mɐɪ̯/ → /mɐe̯/  
+> Haus /hɐʊ̯s/ → /hɐo̯s/  
 > Eule /ɔɪ̯lə/ → /ɔø̯lə/
 
 ## Hyperkorrektur
@@ -230,5 +230,5 @@ Vor Vokal wird das Dehnungs-h gelesen.
 
 Auch die Nasalassimilation kann schriftgetrieben unterbleiben — der Nasal wird wie geschrieben alveolar gesprochen.
 
-> haben /haːbm̩/ → /haːbn̩/
+> haben /haːbm̩/ → /haːbn̩/  
 > legen /leːgŋ̍/ → /leːgn̩/
