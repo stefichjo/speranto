@@ -80,6 +80,18 @@ Auch das `er` in den unbetonten Vorsilben `er-`, `ver-`, `zer-` wird als vokalis
 
 > verstehen /fɐʃteːən/
 
+### Diphthonge
+
+| Schreibung | |
+| - | - |
+| ai, ei | ɐɪ̯ |
+| au | ɐʊ̯ |
+| eu, äu | ɔɪ̯ |
+
+> Mai /mɐɪ̯/
+> Haus /hɐʊ̯s/
+> Eule /ɔɪ̯lə/
+
 ## Hochdeutsch
 
 Nach kurzem Vokal wird das vokalisierte `r` /ɐ̯/ zu /r/ wiederhergestellt.
